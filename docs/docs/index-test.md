@@ -7,6 +7,11 @@ permalink: /ksink
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+
+{% include sample.html %}
+
+
+
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
@@ -121,11 +126,11 @@ end
 
 ### Small image
 
-![](../../assets/images/small-image.jpg)
+![](assets/images/small-image.jpg)
 
 ### Large image
 
-![](../../assets/images/large-image.jpg)
+![](assets/images/large-image.jpg)
 
 "[Wroclaw University Library digitizing rare archival texts](https://www.flickr.com/photos/97810305@N08/9401451269)" by [j_cadmus](https://www.flickr.com/photos/97810305@N08) is marked with [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
 
