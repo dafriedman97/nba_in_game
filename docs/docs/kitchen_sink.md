@@ -7,11 +7,6 @@ permalink: /ksink
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-
-{% include sample.html %}
-
-
-
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
