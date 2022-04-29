@@ -17,11 +17,11 @@ Just the docerinos gives your documentation a jumpstart with a responsive Jekyll
 
 ---
 
-abc
+Start of img
 
 {% include sample.html %}
 
-abc 
+End of img
 
 ## Getting started
 
