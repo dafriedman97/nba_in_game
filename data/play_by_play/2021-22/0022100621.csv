@@ -1,0 +1,425 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100621,2022-01-12,ATL,MIA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100621,2022-01-12,ATL,MIA,0.0,1,12,0,,ATL,jump_ball,0,False,False,Jump Ball Okongwu vs. Yurtseven: Tip to Martin,,0-0,0,0
+0022100621,2022-01-12,ATL,MIA,0.12,1,11,53,MIA,MIA,tov,4,False,False,,Martin Traveling Turnover (P1.T1),0-0,0,0
+0022100621,2022-01-12,ATL,MIA,0.52,1,11,29,ATL,ATL,fg_make,79,False,False,Bogdanovic 16' Pullup Jump Shot (2 PTS),,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,0.87,1,11,8,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 3PT Jump Shot,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,0.9,1,11,6,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:1),,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.0,1,11,0,ATL,ATL,fg3_miss,79,False,False,MISS Young 26' 3PT Pullup Jump Shot,,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.05,1,10,57,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:1),2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.23,1,10,46,MIA,ATL,block,5,True,False,block,block,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.23,1,10,46,MIA,MIA,fg_miss,5,True,False,,MISS Yurtseven 5' Layup,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.32,1,10,41,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:0 Def:1),,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.37,1,10,38,ATL,MIA,steal,1,False,True,steal,steal,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.37,1,10,38,ATL,ATL,tov,1,False,True,Bogdanovic Bad Pass Turnover (P1.T1),,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.52,1,10,29,MIA,MIA,fg_miss,101,False,False,,MISS Strus 7' Driving Floating Jump Shot,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.58,1,10,25,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:0 Def:2),,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.63,1,10,22,ATL,ATL,fg3_miss,2,False,False,MISS Bogdanovic 26' 3PT Running Jump Shot,,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.68,1,10,19,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:0 Def:1),2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.83,1,10,10,MIA,MIA,fg_miss,1,False,False,,MISS Yurtseven 13' Jump Shot,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,1.88,1,10,7,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:0 Def:1),,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,2.0,1,10,0,ATL,ATL,tov,1,False,True,Young Bad Pass Turnover (P1.T2),,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,2.0,1,10,0,ATL,MIA,steal,1,False,True,steal,steal,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,2.2,1,9,48,MIA,ATL,steal,1,False,True,steal,steal,2-0,2,0
+0022100621,2022-01-12,ATL,MIA,2.2,1,9,48,MIA,MIA,tov,1,False,True,,Martin Bad Pass Turnover (P2.T2),2-0,2,0
+0022100621,2022-01-12,ATL,MIA,2.27,1,9,44,ATL,ATL,fg_make,41,False,False,Luwawu-Cabarrot 1' Running Layup (2 PTS) (Young 1 AST),,4-0,4,0
+0022100621,2022-01-12,ATL,MIA,2.57,1,9,26,MIA,MIA,fg3_miss,1,False,False,,MISS Tucker 3PT Jump Shot,4-0,4,0
+0022100621,2022-01-12,ATL,MIA,2.6,1,9,24,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:2),,4-0,4,0
+0022100621,2022-01-12,ATL,MIA,2.68,1,9,19,ATL,ATL,fg_make,41,False,False,Young 2' Running Layup (2 PTS),,6-0,6,0
+0022100621,2022-01-12,ATL,MIA,3.03,1,8,58,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 25' 3PT Jump Shot,6-0,6,0
+0022100621,2022-01-12,ATL,MIA,3.08,1,8,55,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:0 Def:2),,6-0,6,0
+0022100621,2022-01-12,ATL,MIA,3.23,1,8,46,ATL,ATL,ft_make,12,False,False,Luwawu-Cabarrot Free Throw 2 of 2 (4 PTS),,8-0,8,0
+0022100621,2022-01-12,ATL,MIA,3.23,1,8,46,ATL,ATL,ft_make,11,False,False,Luwawu-Cabarrot Free Throw 1 of 2 (3 PTS),,7-0,7,0
+0022100621,2022-01-12,ATL,MIA,3.23,1,8,46,ATL,MIA,foul,2,False,False,,Tucker S.FOUL (P1.T1) (D.Taylor),6-0,6,0
+0022100621,2022-01-12,ATL,MIA,3.5,1,8,30,MIA,MIA,fg_make,79,False,False,,Martin 20' Pullup Jump Shot (2 PTS) (Yurtseven 1 AST),8-2,8,2
+0022100621,2022-01-12,ATL,MIA,3.78,1,8,13,ATL,ATL,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,8-2,8,2
+0022100621,2022-01-12,ATL,MIA,3.87,1,8,8,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:1 Def:2),,8-2,8,2
+0022100621,2022-01-12,ATL,MIA,3.87,1,8,8,ATL,ATL,fg_make,72,False,False,Okongwu Putback Layup (2 PTS),,10-2,10,2
+0022100621,2022-01-12,ATL,MIA,4.02,1,7,59,MIA,MIA,fg_miss,101,False,False,,MISS Martin 5' Driving Floating Jump Shot,10-2,10,2
+0022100621,2022-01-12,ATL,MIA,4.08,1,7,55,ATL,ATL,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:1),,10-2,10,2
+0022100621,2022-01-12,ATL,MIA,4.18,1,7,49,MIA,ATL,foul,26,False,False,Collins Offensive Charge Foul (P1) (S.Foster),,10-2,10,2
+0022100621,2022-01-12,ATL,MIA,4.18,1,7,49,ATL,ATL,tov,37,False,False,Collins Offensive Foul Turnover (P1.T3),,10-2,10,2
+0022100621,2022-01-12,ATL,MIA,4.5,1,7,30,MIA,MIA,tov,2,False,True,,Yurtseven Lost Ball Turnover (P1.T3),10-2,10,2
+0022100621,2022-01-12,ATL,MIA,4.5,1,7,30,MIA,ATL,steal,2,False,True,steal,steal,10-2,10,2
+0022100621,2022-01-12,ATL,MIA,4.65,1,7,21,ATL,ATL,fg3_make,1,False,False,Bogdanovic 25' 3PT Jump Shot (5 PTS) (Young 2 AST),,13-2,13,2
+0022100621,2022-01-12,ATL,MIA,4.68,1,7,19,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),13-2,13,2
+0022100621,2022-01-12,ATL,MIA,4.88,1,7,7,MIA,MIA,ft_make,12,False,False,,Lowry Free Throw 2 of 2 (2 PTS),13-4,13,4
+0022100621,2022-01-12,ATL,MIA,4.88,1,7,7,MIA,MIA,ft_make,11,False,False,,Lowry Free Throw 1 of 2 (1 PTS),13-3,13,3
+0022100621,2022-01-12,ATL,MIA,4.88,1,7,7,MIA,ATL,foul,2,False,False,Okongwu S.FOUL (P1.T1) (S.Foster),,13-2,13,2
+0022100621,2022-01-12,ATL,MIA,5.13,1,6,52,ATL,ATL,fg3_miss,1,False,False,MISS Young 3PT Jump Shot,,13-4,13,4
+0022100621,2022-01-12,ATL,MIA,5.18,1,6,49,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:2),13-4,13,4
+0022100621,2022-01-12,ATL,MIA,5.45,1,6,33,MIA,MIA,fg3_miss,1,False,False,,MISS Martin 3PT Jump Shot,13-4,13,4
+0022100621,2022-01-12,ATL,MIA,5.5,1,6,30,ATL,ATL,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:2),,13-4,13,4
+0022100621,2022-01-12,ATL,MIA,5.6,1,6,24,ATL,ATL,fg3_miss,80,False,False,MISS Bogdanovic 26' 3PT Step Back Jump Shot,,13-4,13,4
+0022100621,2022-01-12,ATL,MIA,5.65,1,6,21,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:0 Def:2),13-4,13,4
+0022100621,2022-01-12,ATL,MIA,5.7,1,6,18,MIA,ATL,foul,1,False,False,Luwawu-Cabarrot P.FOUL (P1.T2) (D.Taylor),,13-4,13,4
+0022100621,2022-01-12,ATL,MIA,5.92,1,6,5,MIA,MIA,fg_make,98,False,False,,Herro 1' Cutting Layup Shot (2 PTS) (Yurtseven 2 AST),13-6,13,6
+0022100621,2022-01-12,ATL,MIA,6.17,1,5,50,ATL,ATL,fg3_make,1,False,False,Collins 3PT Jump Shot (3 PTS) (Luwawu-Cabarrot 1 AST),,16-6,16,6
+0022100621,2022-01-12,ATL,MIA,6.35,1,5,39,MIA,MIA,tov,1,False,True,,Herro Bad Pass Turnover (P1.T4),16-6,16,6
+0022100621,2022-01-12,ATL,MIA,6.35,1,5,39,MIA,ATL,steal,1,False,True,steal,steal,16-6,16,6
+0022100621,2022-01-12,ATL,MIA,6.62,1,5,23,ATL,ATL,fg_miss,98,False,False,MISS Luwawu-Cabarrot 2' Cutting Layup Shot,,16-6,16,6
+0022100621,2022-01-12,ATL,MIA,6.67,1,5,20,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:1),16-6,16,6
+0022100621,2022-01-12,ATL,MIA,6.77,1,5,14,MIA,MIA,fg3_make,1,False,False,,Strus 24' 3PT Jump Shot (3 PTS) (Herro 1 AST),16-9,16,9
+0022100621,2022-01-12,ATL,MIA,6.82,1,5,11,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 1 Short 0),,16-9,16,9
+0022100621,2022-01-12,ATL,MIA,7.0,1,5,0,ATL,ATL,tov,4,False,False,Huerter Traveling Turnover (P1.T4),,16-9,16,9
+0022100621,2022-01-12,ATL,MIA,7.32,1,4,41,MIA,MIA,fg_make,3,False,False,,Tucker 1' Hook Shot (2 PTS) (Herro 2 AST),16-11,16,11
+0022100621,2022-01-12,ATL,MIA,7.6,1,4,24,ATL,MIA,foul,1,False,False,,Lowry P.FOUL (P1.T2) (D.Taylor),16-11,16,11
+0022100621,2022-01-12,ATL,MIA,7.77,1,4,14,ATL,ATL,fg_make,78,False,False,Collins 11' Floating Jump Shot (5 PTS) (Bogdanovic 1 AST),,18-11,18,11
+0022100621,2022-01-12,ATL,MIA,8.02,1,3,59,MIA,ATL,foul,1,False,False,Collins P.FOUL (P2.T3) (B.Burns),,18-11,18,11
+0022100621,2022-01-12,ATL,MIA,8.23,1,3,46,MIA,MIA,fg_miss,6,False,False,,MISS Herro 2' Driving Layup,18-11,18,11
+0022100621,2022-01-12,ATL,MIA,8.3,1,3,42,MIA,MIA,fg_make,72,False,False,,Dedmon Putback Layup (2 PTS),18-13,18,13
+0022100621,2022-01-12,ATL,MIA,8.3,1,3,42,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:0),18-11,18,11
+0022100621,2022-01-12,ATL,MIA,8.65,1,3,21,ATL,ATL,fg_make,5,False,False,Collins 1' Layup (7 PTS) (Huerter 1 AST),,20-13,20,13
+0022100621,2022-01-12,ATL,MIA,8.82,1,3,11,MIA,ATL,steal,2,False,True,steal,steal,20-13,20,13
+0022100621,2022-01-12,ATL,MIA,8.82,1,3,11,MIA,MIA,tov,2,False,True,,Robinson Lost Ball Turnover (P1.T5),20-13,20,13
+0022100621,2022-01-12,ATL,MIA,8.9,1,3,6,ATL,ATL,tov,4,False,False,Collins Traveling Turnover (P2.T5),,20-13,20,13
+0022100621,2022-01-12,ATL,MIA,9.15,1,2,51,MIA,MIA,tov,45,False,False,,Lowry Out of Bounds - Bad Pass Turnover Turnover (P1.T6),20-13,20,13
+0022100621,2022-01-12,ATL,MIA,9.37,1,2,38,ATL,ATL,ft_miss,12,False,False,MISS Okongwu Free Throw 2 of 2,,20-13,20,13
+0022100621,2022-01-12,ATL,MIA,9.37,1,2,38,ATL,ATL,ft_miss,11,False,False,MISS Okongwu Free Throw 1 of 2,,20-13,20,13
+0022100621,2022-01-12,ATL,MIA,9.37,1,2,38,ATL,MIA,foul,2,False,False,,Dedmon S.FOUL (P1.T3) (B.Burns),20-13,20,13
+0022100621,2022-01-12,ATL,MIA,9.37,1,2,38,ATL,ATL,reb,1,False,False,HAWKS Rebound,,20-13,20,13
+0022100621,2022-01-12,ATL,MIA,9.4,1,2,36,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),20-13,20,13
+0022100621,2022-01-12,ATL,MIA,9.62,1,2,23,MIA,MIA,fg_make,6,False,False,,Herro 1' Driving Layup (4 PTS),20-15,20,15
+0022100621,2022-01-12,ATL,MIA,9.85,1,2,9,ATL,ATL,fg3_miss,80,False,False,MISS Young 28' 3PT Step Back Jump Shot,,20-15,20,15
+0022100621,2022-01-12,ATL,MIA,9.92,1,2,5,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:1),20-15,20,15
+0022100621,2022-01-12,ATL,MIA,10.1,1,1,54,MIA,MIA,fg_make,71,False,False,,Herro 1' Finger Roll Layup (6 PTS),20-17,20,17
+0022100621,2022-01-12,ATL,MIA,10.53,1,1,28,ATL,ATL,fg_make,79,False,False,Gallinari 21' Pullup Jump Shot (2 PTS) (Huerter 2 AST),,22-17,22,17
+0022100621,2022-01-12,ATL,MIA,10.75,1,1,15,MIA,MIA,fg_make,102,False,False,,Herro 12' Driving Floating Bank Jump Shot (8 PTS),22-19,22,19
+0022100621,2022-01-12,ATL,MIA,10.95,1,1,3,ATL,ATL,fg_miss,79,False,False,MISS Young 15' Pullup Jump Shot,,22-19,22,19
+0022100621,2022-01-12,ATL,MIA,11.0,1,1,0,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:2),22-19,22,19
+0022100621,2022-01-12,ATL,MIA,11.08,1,0,55,MIA,MIA,tov,1,False,True,,Lowry Bad Pass Turnover (P2.T7),22-19,22,19
+0022100621,2022-01-12,ATL,MIA,11.08,1,0,55,MIA,ATL,steal,1,False,True,steal,steal,22-19,22,19
+0022100621,2022-01-12,ATL,MIA,11.13,1,0,52,ATL,ATL,fg_make,41,False,False,Young 1' Running Layup (4 PTS),,24-19,24,19
+0022100621,2022-01-12,ATL,MIA,11.5,1,0,30,MIA,MIA,fg_make,6,False,False,,Martin 2' Driving Layup (4 PTS) (Herro 3 AST),24-21,24,21
+0022100621,2022-01-12,ATL,MIA,11.75,1,0,15,ATL,ATL,fg3_make,1,False,False,Hunter 26' 3PT Jump Shot (3 PTS) (Okongwu 1 AST),,27-21,27,21
+0022100621,2022-01-12,ATL,MIA,11.98,1,0,1,MIA,MIA,fg_miss,101,False,False,,MISS Herro 12' Driving Floating Jump Shot,27-21,27,21
+0022100621,2022-01-12,ATL,MIA,11.98,1,0,1,MIA,MIA,reb,0,False,False,,Heat Rebound,27-21,27,21
+0022100621,2022-01-12,ATL,MIA,12.0,2,12,0,MIA,,period_start,0,False,False,,,27-21,27,21
+0022100621,2022-01-12,ATL,MIA,12.0,1,0,0,MIA,,period_end,0,False,False,,,27-21,27,21
+0022100621,2022-01-12,ATL,MIA,12.32,2,11,41,ATL,ATL,fg3_make,1,False,False,Hunter 25' 3PT Jump Shot (6 PTS) (Wright 1 AST),,30-21,30,21
+0022100621,2022-01-12,ATL,MIA,12.6,2,11,24,MIA,ATL,violation,5,False,False,Wright Violation:Kicked Ball (D.Taylor),,30-24,30,24
+0022100621,2022-01-12,ATL,MIA,12.6,2,11,24,MIA,MIA,ft_make,29,False,False,,Robinson Free Throw Flagrant 3 of 3 (3 PTS),30-24,30,24
+0022100621,2022-01-12,ATL,MIA,12.6,2,11,24,MIA,MIA,ft_make,27,False,False,,Robinson Free Throw Flagrant 1 of 3 (1 PTS),30-22,30,22
+0022100621,2022-01-12,ATL,MIA,12.6,2,11,24,MIA,ATL,foul,14,False,False,Okongwu FLAGRANT.FOUL.TYPE1 (P2.T1) (D.Taylor),,30-21,30,21
+0022100621,2022-01-12,ATL,MIA,12.6,2,11,24,MIA,MIA,ft_make,28,False,False,,Robinson Free Throw Flagrant 2 of 3 (2 PTS),30-23,30,23
+0022100621,2022-01-12,ATL,MIA,12.72,2,11,17,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,30-24,30,24
+0022100621,2022-01-12,ATL,MIA,12.77,2,11,14,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:1),,30-24,30,24
+0022100621,2022-01-12,ATL,MIA,13.0,2,11,0,ATL,ATL,tov,2,False,True,Wright Lost Ball Turnover (P1.T6),,30-24,30,24
+0022100621,2022-01-12,ATL,MIA,13.0,2,11,0,ATL,MIA,steal,2,False,True,steal,steal,30-24,30,24
+0022100621,2022-01-12,ATL,MIA,13.12,2,10,53,MIA,MIA,fg3_make,1,False,False,,Vincent 3PT Jump Shot (3 PTS) (Herro 4 AST),30-27,30,27
+0022100621,2022-01-12,ATL,MIA,13.43,2,10,34,ATL,ATL,fg3_make,1,False,False,Gallinari 26' 3PT Jump Shot (5 PTS) (Huerter 3 AST),,33-27,33,27
+0022100621,2022-01-12,ATL,MIA,13.6,2,10,24,MIA,MIA,fg3_make,1,False,False,,Martin 25' 3PT Jump Shot (7 PTS) (Herro 5 AST),33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.05,2,9,57,ATL,ATL,fg3_miss,1,False,False,MISS Wright 3PT Jump Shot,,33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.08,2,9,55,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:2 Def:2),,33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.08,2,9,55,ATL,MIA,foul,2,False,False,,Yurtseven S.FOUL (P1.T1) (S.Foster),33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.08,2,9,55,ATL,ATL,reb,1,False,False,HAWKS Rebound,,33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.08,2,9,55,ATL,ATL,ft_miss,12,False,False,MISS Okongwu Free Throw 2 of 2,,33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.08,2,9,55,ATL,ATL,ft_miss,11,False,False,MISS Okongwu Free Throw 1 of 2,,33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.12,2,9,53,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:0 Def:3),33-30,33,30
+0022100621,2022-01-12,ATL,MIA,14.33,2,9,40,MIA,MIA,fg_make,63,False,False,,Herro 12' Fadeaway Jumper (10 PTS),33-32,33,32
+0022100621,2022-01-12,ATL,MIA,14.55,2,9,27,ATL,ATL,fg_miss,98,True,False,MISS Hunter 2' Cutting Layup Shot,,33-32,33,32
+0022100621,2022-01-12,ATL,MIA,14.55,2,9,27,ATL,MIA,block,98,True,False,block,block,33-32,33,32
+0022100621,2022-01-12,ATL,MIA,14.58,2,9,25,ATL,ATL,reb,0,False,False,HAWKS Rebound,,33-32,33,32
+0022100621,2022-01-12,ATL,MIA,14.62,2,9,23,,ATL,jump_ball,0,False,False,Jump Ball Hunter vs. Yurtseven: Tip to Huerter,,33-32,33,32
+0022100621,2022-01-12,ATL,MIA,14.78,2,9,13,ATL,ATL,fg3_miss,1,False,False,MISS Gallinari 25' 3PT Jump Shot,,33-32,33,32
+0022100621,2022-01-12,ATL,MIA,14.85,2,9,9,ATL,ATL,reb,0,False,False,Wright REBOUND (Off:1 Def:0),,33-32,33,32
+0022100621,2022-01-12,ATL,MIA,15.03,2,8,58,ATL,ATL,fg_make,101,False,False,Hunter 9' Driving Floating Jump Shot (8 PTS) (Collins 1 AST),,35-32,35,32
+0022100621,2022-01-12,ATL,MIA,15.27,2,8,44,MIA,MIA,fg3_make,1,False,False,,Robinson 25' 3PT Jump Shot (6 PTS) (Herro 6 AST),35-35,35,35
+0022100621,2022-01-12,ATL,MIA,15.57,2,8,26,ATL,ATL,fg3_miss,79,False,False,MISS Wright 25' 3PT Pullup Jump Shot,,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,15.62,2,8,23,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:0 Def:4),35-35,35,35
+0022100621,2022-01-12,ATL,MIA,15.85,2,8,9,MIA,ATL,block,6,True,False,block,block,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,15.85,2,8,9,MIA,MIA,fg_miss,6,True,False,,MISS Herro 4' Driving Layup,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,15.97,2,8,2,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:0),35-35,35,35
+0022100621,2022-01-12,ATL,MIA,15.97,2,8,2,MIA,MIA,fg_miss,72,False,False,,MISS Herro Putback Layup,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,15.97,2,8,2,ATL,ATL,reb,0,False,False,Hunter REBOUND (Off:0 Def:1),,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,16.0,2,8,0,ATL,ATL,fg3_miss,2,False,False,MISS Huerter 26' 3PT Running Jump Shot,,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,16.03,2,7,58,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:0 Def:2),35-35,35,35
+0022100621,2022-01-12,ATL,MIA,16.15,2,7,51,MIA,MIA,fg_miss,5,False,False,,MISS Martin 4' Layup,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,16.17,2,7,50,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:2 Def:2),35-35,35,35
+0022100621,2022-01-12,ATL,MIA,16.17,2,7,50,MIA,MIA,fg_miss,97,False,False,,MISS Martin 3' Tip Layup Shot,35-35,35,35
+0022100621,2022-01-12,ATL,MIA,16.17,2,7,50,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:2 Def:2),35-35,35,35
+0022100621,2022-01-12,ATL,MIA,16.18,2,7,49,MIA,MIA,fg_make,97,False,False,,Martin Tip Layup Shot (9 PTS),35-37,35,37
+0022100621,2022-01-12,ATL,MIA,16.42,2,7,35,ATL,MIA,foul,1,False,False,,Vincent P.FOUL (P1.T2) (B.Burns),35-37,35,37
+0022100621,2022-01-12,ATL,MIA,16.57,2,7,26,ATL,ATL,fg_make,6,False,False,Bogdanovic 2' Driving Layup (7 PTS),,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,16.85,2,7,9,MIA,MIA,fg3_miss,79,False,False,,MISS Vincent 25' 3PT Pullup Jump Shot,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,16.9,2,7,6,ATL,ATL,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:3),,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,16.98,2,7,1,MIA,ATL,foul,4,False,False,Gallinari OFF.Foul (P1) (S.Foster),,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,16.98,2,7,1,ATL,ATL,tov,37,False,False,Gallinari Offensive Foul Turnover (P1.T7),,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,17.17,2,6,50,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,17.22,2,6,47,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:2),,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,17.32,2,6,41,ATL,ATL,fg_miss,6,False,False,MISS Gallinari 10' Driving Layup,,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,17.37,2,6,38,ATL,ATL,ft_miss,12,False,False,MISS Collins Free Throw 2 of 2,,38-37,38,37
+0022100621,2022-01-12,ATL,MIA,17.37,2,6,38,ATL,ATL,ft_make,11,False,False,Collins Free Throw 1 of 2 (8 PTS),,38-37,38,37
+0022100621,2022-01-12,ATL,MIA,17.37,2,6,38,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 2 Short 0),,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,17.37,2,6,38,ATL,MIA,foul,2,False,False,,Yurtseven S.FOUL (P2.T3) (S.Foster),37-37,37,37
+0022100621,2022-01-12,ATL,MIA,17.37,2,6,38,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:2),,37-37,37,37
+0022100621,2022-01-12,ATL,MIA,17.4,2,6,36,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:3),38-37,38,37
+0022100621,2022-01-12,ATL,MIA,17.6,2,6,24,MIA,MIA,ft_make,11,False,False,,Herro Free Throw 1 of 2 (11 PTS),38-38,38,38
+0022100621,2022-01-12,ATL,MIA,17.6,2,6,24,MIA,ATL,foul,2,False,False,Luwawu-Cabarrot S.FOUL (P2.T2) (B.Burns),,38-37,38,37
+0022100621,2022-01-12,ATL,MIA,17.6,2,6,24,MIA,MIA,ft_make,12,False,False,,Herro Free Throw 2 of 2 (12 PTS),38-39,38,39
+0022100621,2022-01-12,ATL,MIA,17.78,2,6,13,ATL,ATL,tov,45,False,False,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,38-39,38,39
+0022100621,2022-01-12,ATL,MIA,17.93,2,6,4,MIA,ATL,steal,2,False,True,steal,steal,38-39,38,39
+0022100621,2022-01-12,ATL,MIA,17.93,2,6,4,MIA,MIA,tov,2,False,True,,Herro Lost Ball Turnover (P2.T8),38-39,38,39
+0022100621,2022-01-12,ATL,MIA,18.02,2,5,59,ATL,ATL,fg3_make,2,False,False,Young 26' 3PT Running Jump Shot (7 PTS) (Luwawu-Cabarrot 2 AST),,41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.15,2,5,51,MIA,MIA,fg3_miss,1,False,False,,MISS Tucker 3PT Jump Shot,41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.2,2,5,48,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:3),,41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.33,2,5,40,ATL,ATL,fg3_miss,1,False,False,MISS Bogdanovic 3PT Jump Shot,,41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.38,2,5,37,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:4),41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.62,2,5,23,ATL,MIA,foul,4,False,False,,Dedmon OFF.Foul (P2) (S.Foster),41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.62,2,5,23,MIA,MIA,tov,37,False,False,,Dedmon Offensive Foul Turnover (P1.T9),41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.9,2,5,6,ATL,MIA,block,3,True,False,block,block,41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.9,2,5,6,ATL,ATL,fg_miss,3,True,False,MISS Collins 6' Hook Shot,,41-39,41,39
+0022100621,2022-01-12,ATL,MIA,18.9,2,5,6,ATL,ATL,reb,0,False,False,HAWKS Rebound,,41-39,41,39
+0022100621,2022-01-12,ATL,MIA,19.0,2,5,0,ATL,ATL,fg3_make,80,False,False,Bogdanovic 26' 3PT Step Back Jump Shot (10 PTS),,44-39,44,39
+0022100621,2022-01-12,ATL,MIA,19.37,2,4,38,MIA,MIA,fg_make,79,False,False,,Herro 15' Pullup Jump Shot (14 PTS),44-41,44,41
+0022100621,2022-01-12,ATL,MIA,19.67,2,4,20,ATL,ATL,fg3_miss,1,False,False,MISS Collins 26' 3PT Jump Shot,,44-41,44,41
+0022100621,2022-01-12,ATL,MIA,19.72,2,4,17,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:1),44-41,44,41
+0022100621,2022-01-12,ATL,MIA,19.77,2,4,14,MIA,MIA,fg3_make,2,False,False,,Robinson 27' 3PT Running Jump Shot (9 PTS) (Herro 7 AST),44-44,44,44
+0022100621,2022-01-12,ATL,MIA,20.1,2,3,54,ATL,MIA,block,6,True,False,block,block,44-44,44,44
+0022100621,2022-01-12,ATL,MIA,20.1,2,3,54,ATL,ATL,fg_miss,6,True,False,MISS Hunter 6' Driving Layup,,44-44,44,44
+0022100621,2022-01-12,ATL,MIA,20.13,2,3,52,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:5),44-44,44,44
+0022100621,2022-01-12,ATL,MIA,20.2,2,3,48,MIA,MIA,fg_make,41,False,False,,Herro 1' Running Layup (16 PTS),44-46,44,46
+0022100621,2022-01-12,ATL,MIA,20.48,2,3,31,ATL,ATL,fg3_make,1,False,False,Hunter 3PT Jump Shot (11 PTS) (Luwawu-Cabarrot 3 AST),,47-46,47,46
+0022100621,2022-01-12,ATL,MIA,20.88,2,3,7,MIA,MIA,fg3_make,1,False,False,,Tucker 26' 3PT Jump Shot (5 PTS) (Lowry 1 AST),47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.15,2,2,51,ATL,ATL,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.22,2,2,47,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:2),47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.32,2,2,41,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 3PT Jump Shot,47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.38,2,2,37,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:4),,47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.45,2,2,33,ATL,ATL,fg_miss,43,True,False,MISS Hunter 1' Alley Oop Layup,,47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.45,2,2,33,ATL,MIA,block,43,True,False,block,block,47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.52,2,2,29,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:3),47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.67,2,2,20,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.2 Short 0),47-49,47,49
+0022100621,2022-01-12,ATL,MIA,21.77,2,2,14,MIA,MIA,fg3_make,1,False,False,,Robinson 25' 3PT Jump Shot (12 PTS) (Lowry 2 AST),47-52,47,52
+0022100621,2022-01-12,ATL,MIA,22.0,2,2,0,ATL,ATL,fg3_miss,79,False,False,MISS Bogdanovic 25' 3PT Pullup Jump Shot,,47-52,47,52
+0022100621,2022-01-12,ATL,MIA,22.03,2,1,58,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:6),47-52,47,52
+0022100621,2022-01-12,ATL,MIA,22.23,2,1,46,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 24' 3PT Jump Shot,47-52,47,52
+0022100621,2022-01-12,ATL,MIA,22.27,2,1,44,ATL,ATL,reb,0,False,False,HAWKS Rebound,,47-52,47,52
+0022100621,2022-01-12,ATL,MIA,22.42,2,1,35,ATL,ATL,ft_make,11,False,False,Hunter Free Throw 1 of 2 (12 PTS),,48-52,48,52
+0022100621,2022-01-12,ATL,MIA,22.42,2,1,35,ATL,MIA,foul,2,False,False,,Herro S.FOUL (P1.T4) (B.Burns),47-52,47,52
+0022100621,2022-01-12,ATL,MIA,22.42,2,1,35,ATL,ATL,ft_make,12,False,False,Hunter Free Throw 2 of 2 (13 PTS),,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,22.67,2,1,20,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,22.68,2,1,19,ATL,ATL,reb,0,False,False,HAWKS Rebound,,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,22.8,2,1,12,ATL,ATL,fg_miss,75,False,False,MISS Young 4' Driving Finger Roll Layup,,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,22.8,2,1,12,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:4),49-52,49,52
+0022100621,2022-01-12,ATL,MIA,22.93,2,1,4,MIA,MIA,fg3_miss,79,False,False,,MISS Lowry 24' 3PT Pullup Jump Shot,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,23.02,2,0,59,ATL,ATL,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:4),,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,23.12,2,0,53,ATL,ATL,fg3_miss,1,False,False,MISS Hunter 3PT Jump Shot,,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,23.15,2,0,51,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:2),49-52,49,52
+0022100621,2022-01-12,ATL,MIA,23.3,2,0,42,MIA,ATL,foul,2,False,False,Collins S.FOUL (P3.T3) (D.Taylor),,49-52,49,52
+0022100621,2022-01-12,ATL,MIA,23.3,2,0,42,MIA,MIA,ft_make,11,False,False,,Dedmon Free Throw 1 of 2 (3 PTS),49-53,49,53
+0022100621,2022-01-12,ATL,MIA,23.3,2,0,42,MIA,MIA,ft_make,12,False,False,,Dedmon Free Throw 2 of 2 (4 PTS),49-54,49,54
+0022100621,2022-01-12,ATL,MIA,23.5,2,0,30,ATL,ATL,fg_miss,101,False,False,MISS Young 7' Driving Floating Jump Shot,,49-54,49,54
+0022100621,2022-01-12,ATL,MIA,23.55,2,0,27,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:3),49-54,49,54
+0022100621,2022-01-12,ATL,MIA,23.87,2,0,8,MIA,MIA,fg_make,78,False,False,,Tucker 3' Floating Jump Shot (7 PTS) (Herro 8 AST),49-56,49,56
+0022100621,2022-01-12,ATL,MIA,23.98,2,0,1,ATL,ATL,ft_make,12,False,False,Young Free Throw 2 of 2 (9 PTS),,51-56,51,56
+0022100621,2022-01-12,ATL,MIA,23.98,2,0,1,ATL,ATL,ft_make,11,False,False,Young Free Throw 1 of 2 (8 PTS),,50-56,50,56
+0022100621,2022-01-12,ATL,MIA,23.98,2,0,1,ATL,MIA,foul,1,False,False,,Tucker P.FOUL (P2.PN) (B.Burns),49-56,49,56
+0022100621,2022-01-12,ATL,MIA,24.0,2,0,0,ATL,,period_end,0,False,False,,,51-56,51,56
+0022100621,2022-01-12,ATL,MIA,24.0,3,12,0,ATL,,period_start,0,False,False,,,51-56,51,56
+0022100621,2022-01-12,ATL,MIA,24.3,3,11,42,ATL,MIA,steal,1,False,True,steal,steal,51-56,51,56
+0022100621,2022-01-12,ATL,MIA,24.3,3,11,42,ATL,ATL,tov,1,False,True,Young Bad Pass Turnover (P3.T9),,51-56,51,56
+0022100621,2022-01-12,ATL,MIA,24.58,3,11,25,MIA,MIA,fg3_make,1,False,False,,Strus 25' 3PT Jump Shot (6 PTS) (Tucker 1 AST),51-59,51,59
+0022100621,2022-01-12,ATL,MIA,24.78,3,11,13,ATL,ATL,fg_miss,6,False,False,MISS Young 1' Driving Layup,,51-59,51,59
+0022100621,2022-01-12,ATL,MIA,24.82,3,11,11,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:0 Def:5),51-59,51,59
+0022100621,2022-01-12,ATL,MIA,24.85,3,11,9,MIA,MIA,ft_make,11,False,False,,Strus Free Throw 1 of 2 (7 PTS),51-60,51,60
+0022100621,2022-01-12,ATL,MIA,24.85,3,11,9,MIA,ATL,foul,2,False,False,Luwawu-Cabarrot S.FOUL (P3.T1) (B.Burns),,51-59,51,59
+0022100621,2022-01-12,ATL,MIA,24.85,3,11,9,MIA,MIA,ft_make,12,False,False,,Strus Free Throw 2 of 2 (8 PTS),51-61,51,61
+0022100621,2022-01-12,ATL,MIA,25.17,3,10,50,ATL,ATL,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,51-61,51,61
+0022100621,2022-01-12,ATL,MIA,25.25,3,10,45,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:0 Def:6),51-61,51,61
+0022100621,2022-01-12,ATL,MIA,25.33,3,10,40,MIA,MIA,fg3_make,1,False,False,,Strus 26' 3PT Jump Shot (11 PTS) (Lowry 3 AST),51-64,51,64
+0022100621,2022-01-12,ATL,MIA,25.53,3,10,28,ATL,ATL,fg_miss,101,False,False,MISS Young 3' Driving Floating Jump Shot,,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,25.57,3,10,26,MIA,MIA,reb,0,False,False,,Strus REBOUND (Off:0 Def:1),51-64,51,64
+0022100621,2022-01-12,ATL,MIA,25.62,3,10,23,MIA,MIA,fg3_miss,1,False,False,,MISS Martin 26' 3PT Jump Shot,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,25.7,3,10,18,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:5),,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,25.8,3,10,12,ATL,ATL,tov,12,False,False,Huerter Inbound Turnover (P2.T10),,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,25.8,3,10,12,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 3 Short 0),,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,25.98,3,10,1,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 25' 3PT Jump Shot,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,26.05,3,9,57,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:3 Def:2),51-64,51,64
+0022100621,2022-01-12,ATL,MIA,26.12,3,9,53,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 27' 3PT Jump Shot,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,26.17,3,9,50,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:6),,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,26.25,3,9,45,ATL,ATL,fg3_miss,2,False,False,MISS Bogdanovic 26' 3PT Running Jump Shot,,51-64,51,64
+0022100621,2022-01-12,ATL,MIA,26.3,3,9,42,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:3 Def:3),51-64,51,64
+0022100621,2022-01-12,ATL,MIA,26.45,3,9,33,MIA,MIA,fg3_make,1,False,False,,Lowry 25' 3PT Jump Shot (5 PTS),51-67,51,67
+0022100621,2022-01-12,ATL,MIA,26.77,3,9,14,ATL,ATL,fg_miss,101,False,False,MISS Huerter 6' Driving Floating Jump Shot,,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,26.87,3,9,8,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:4),51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.05,3,8,57,MIA,MIA,fg_miss,5,False,False,,MISS Lowry 3' Layup,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.1,3,8,54,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:7),,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.2,3,8,48,ATL,MIA,steal,2,False,True,steal,steal,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.2,3,8,48,ATL,ATL,tov,2,False,True,Collins Lost Ball Turnover (P3.T11),,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.23,3,8,46,MIA,MIA,ft_make,12,False,False,,Lowry Free Throw 2 of 2 (6 PTS),51-68,51,68
+0022100621,2022-01-12,ATL,MIA,27.23,3,8,46,MIA,MIA,reb,1,False,False,,Heat Rebound,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.23,3,8,46,MIA,MIA,ft_miss,11,False,False,,MISS Lowry Free Throw 1 of 2,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.23,3,8,46,MIA,ATL,foul,2,False,False,Huerter S.FOUL (P1.T2) (S.Foster),,51-67,51,67
+0022100621,2022-01-12,ATL,MIA,27.53,3,8,28,ATL,MIA,foul,1,False,False,,Lowry P.FOUL (P2.T1) (B.Burns),51-68,51,68
+0022100621,2022-01-12,ATL,MIA,27.65,3,8,21,ATL,ATL,fg3_miss,1,False,False,MISS Gallinari 24' 3PT Jump Shot,,51-68,51,68
+0022100621,2022-01-12,ATL,MIA,27.7,3,8,18,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:5),51-68,51,68
+0022100621,2022-01-12,ATL,MIA,27.75,3,8,15,MIA,MIA,fg_miss,41,False,False,,MISS Tucker 2' Running Layup,51-68,51,68
+0022100621,2022-01-12,ATL,MIA,27.8,3,8,12,MIA,MIA,reb,0,False,False,,Strus REBOUND (Off:1 Def:1),51-68,51,68
+0022100621,2022-01-12,ATL,MIA,27.88,3,8,7,MIA,MIA,fg_make,6,False,False,,Martin 1' Driving Layup (11 PTS) (Lowry 4 AST),51-70,51,70
+0022100621,2022-01-12,ATL,MIA,28.0,3,8,0,ATL,MIA,foul,1,False,False,,Lowry P.FOUL (P3.T2) (S.Foster),51-70,51,70
+0022100621,2022-01-12,ATL,MIA,28.17,3,7,50,ATL,MIA,steal,1,False,True,steal,steal,51-70,51,70
+0022100621,2022-01-12,ATL,MIA,28.17,3,7,50,ATL,ATL,tov,1,False,True,Collins Bad Pass Turnover (P4.T12),,51-70,51,70
+0022100621,2022-01-12,ATL,MIA,28.33,3,7,40,MIA,MIA,fg_make,52,False,False,,Yurtseven Alley Oop Dunk (2 PTS) (Lowry 5 AST),51-72,51,72
+0022100621,2022-01-12,ATL,MIA,28.67,3,7,20,ATL,ATL,fg_make,47,False,False,Gallinari 14' Turnaround Jump Shot (7 PTS),,53-72,53,72
+0022100621,2022-01-12,ATL,MIA,29.0,3,7,0,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 27' 3PT Jump Shot,53-72,53,72
+0022100621,2022-01-12,ATL,MIA,29.05,3,6,57,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:8),,53-72,53,72
+0022100621,2022-01-12,ATL,MIA,29.2,3,6,48,ATL,ATL,fg3_miss,1,False,False,MISS Bogdanovic 3PT Jump Shot,,53-72,53,72
+0022100621,2022-01-12,ATL,MIA,29.25,3,6,45,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:5),53-72,53,72
+0022100621,2022-01-12,ATL,MIA,29.43,3,6,34,MIA,MIA,fg3_make,1,False,False,,Tucker 24' 3PT Jump Shot (10 PTS) (Strus 1 AST),53-75,53,75
+0022100621,2022-01-12,ATL,MIA,29.47,3,6,32,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 4 Short 0),,53-75,53,75
+0022100621,2022-01-12,ATL,MIA,29.68,3,6,19,ATL,ATL,ft_make,12,False,False,Huerter Free Throw 2 of 2 (2 PTS),,55-75,55,75
+0022100621,2022-01-12,ATL,MIA,29.68,3,6,19,ATL,ATL,ft_make,11,False,False,Huerter Free Throw 1 of 2 (1 PTS),,54-75,54,75
+0022100621,2022-01-12,ATL,MIA,29.68,3,6,19,ATL,MIA,foul,2,False,False,,Strus S.FOUL (P1.T3) (D.Taylor),53-75,53,75
+0022100621,2022-01-12,ATL,MIA,30.02,3,5,59,MIA,ATL,violation,2,False,False,Collins Violation:Defensive Goaltending (S.Foster),,55-77,55,77
+0022100621,2022-01-12,ATL,MIA,30.02,3,5,59,MIA,MIA,fg_make,6,False,False,,Lowry 2' Driving Layup (8 PTS) (Yurtseven 3 AST),55-77,55,77
+0022100621,2022-01-12,ATL,MIA,30.23,3,5,46,ATL,ATL,fg_make,102,False,False,Huerter 5' Driving Floating Bank Jump Shot (4 PTS) (Collins 2 AST),,57-77,57,77
+0022100621,2022-01-12,ATL,MIA,30.6,3,5,24,MIA,MIA,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,57-77,57,77
+0022100621,2022-01-12,ATL,MIA,30.65,3,5,21,MIA,MIA,reb,0,False,False,,Heat Rebound,57-77,57,77
+0022100621,2022-01-12,ATL,MIA,30.82,3,5,11,MIA,MIA,fg_miss,79,False,False,,MISS Lowry 16' Pullup Jump Shot,57-77,57,77
+0022100621,2022-01-12,ATL,MIA,30.88,3,5,7,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:9),,57-77,57,77
+0022100621,2022-01-12,ATL,MIA,31.05,3,4,57,ATL,ATL,fg_make,98,False,False,Collins 1' Cutting Layup Shot (10 PTS) (Young 3 AST),,59-77,59,77
+0022100621,2022-01-12,ATL,MIA,31.4,3,4,36,MIA,MIA,fg_miss,6,False,False,,MISS Lowry 2' Driving Layup,59-77,59,77
+0022100621,2022-01-12,ATL,MIA,31.47,3,4,32,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:10),,59-77,59,77
+0022100621,2022-01-12,ATL,MIA,31.57,3,4,26,ATL,ATL,fg3_miss,1,False,False,MISS Huerter 3PT Jump Shot,,59-77,59,77
+0022100621,2022-01-12,ATL,MIA,31.6,3,4,24,MIA,ATL,foul,1,False,False,Huerter P.FOUL (P2.T3) (B.Burns),,59-77,59,77
+0022100621,2022-01-12,ATL,MIA,31.6,3,4,24,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:6),59-77,59,77
+0022100621,2022-01-12,ATL,MIA,31.93,3,4,4,MIA,MIA,fg_make,52,False,False,,Yurtseven 1' Alley Oop Dunk (4 PTS) (Herro 9 AST),59-79,59,79
+0022100621,2022-01-12,ATL,MIA,32.2,3,3,48,ATL,ATL,ft_make,12,False,False,Young Free Throw 2 of 2 (11 PTS),,61-79,61,79
+0022100621,2022-01-12,ATL,MIA,32.2,3,3,48,ATL,ATL,ft_make,11,False,False,Young Free Throw 1 of 2 (10 PTS),,60-79,60,79
+0022100621,2022-01-12,ATL,MIA,32.2,3,3,48,ATL,MIA,foul,2,False,False,,Strus S.FOUL (P2.T4) (S.Foster),59-79,59,79
+0022100621,2022-01-12,ATL,MIA,32.57,3,3,26,MIA,MIA,fg3_miss,1,False,False,,MISS Tucker 3PT Jump Shot,61-79,61,79
+0022100621,2022-01-12,ATL,MIA,32.65,3,3,21,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:2 Def:3),,61-79,61,79
+0022100621,2022-01-12,ATL,MIA,32.72,3,3,17,ATL,ATL,ft_make,10,False,False,Young Free Throw 1 of 1 (14 PTS),,64-79,64,79
+0022100621,2022-01-12,ATL,MIA,32.72,3,3,17,ATL,MIA,foul,2,False,False,,Tucker S.FOUL (P3.PN) (S.Foster),63-79,63,79
+0022100621,2022-01-12,ATL,MIA,32.72,3,3,17,ATL,ATL,fg_make,101,False,False,Young 10' Driving Floating Jump Shot (13 PTS),,63-79,63,79
+0022100621,2022-01-12,ATL,MIA,32.97,3,3,2,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.3 Short 0),64-79,64,79
+0022100621,2022-01-12,ATL,MIA,33.05,3,2,57,MIA,MIA,fg_make,5,False,False,,Robinson 1' Layup (14 PTS) (Tucker 2 AST),64-81,64,81
+0022100621,2022-01-12,ATL,MIA,33.32,3,2,41,ATL,ATL,ft_make,12,False,False,Young Free Throw 2 of 2 (15 PTS),,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,33.32,3,2,41,ATL,ATL,reb,1,False,False,HAWKS Rebound,,64-81,64,81
+0022100621,2022-01-12,ATL,MIA,33.32,3,2,41,ATL,ATL,ft_miss,11,False,False,MISS Young Free Throw 1 of 2,,64-81,64,81
+0022100621,2022-01-12,ATL,MIA,33.32,3,2,41,ATL,MIA,foul,2,False,False,,Dedmon S.FOUL (P3.PN) (D.Taylor),64-81,64,81
+0022100621,2022-01-12,ATL,MIA,33.45,3,2,33,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 26' 3PT Jump Shot,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,33.48,3,2,31,ATL,ATL,reb,0,False,False,HAWKS Rebound,,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,33.65,3,2,21,ATL,ATL,fg_miss,79,False,False,MISS Hunter 11' Pullup Jump Shot,,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,33.7,3,2,18,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:1),65-81,65,81
+0022100621,2022-01-12,ATL,MIA,33.92,3,2,5,MIA,ATL,block,98,True,False,block,block,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,33.92,3,2,5,MIA,MIA,fg_miss,98,True,False,,MISS Tucker 1' Cutting Layup Shot,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,33.97,3,2,2,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:3),,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,34.07,3,1,56,ATL,ATL,fg_miss,6,False,False,MISS Hunter 3' Driving Layup,,65-81,65,81
+0022100621,2022-01-12,ATL,MIA,34.12,3,1,53,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:6),65-81,65,81
+0022100621,2022-01-12,ATL,MIA,34.18,3,1,49,MIA,MIA,fg3_make,2,False,False,,Vincent 26' 3PT Running Jump Shot (6 PTS),65-84,65,84
+0022100621,2022-01-12,ATL,MIA,34.48,3,1,31,ATL,ATL,fg_miss,80,False,False,MISS Hunter 19' Step Back Jump Shot,,65-84,65,84
+0022100621,2022-01-12,ATL,MIA,34.53,3,1,28,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:7),65-84,65,84
+0022100621,2022-01-12,ATL,MIA,34.77,3,1,14,MIA,MIA,fg3_miss,1,False,False,,MISS Vincent 3PT Jump Shot,65-84,65,84
+0022100621,2022-01-12,ATL,MIA,34.82,3,1,11,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:4),,65-84,65,84
+0022100621,2022-01-12,ATL,MIA,35.08,3,0,55,ATL,ATL,fg3_miss,79,False,False,MISS Huerter 3PT Pullup Jump Shot,,65-84,65,84
+0022100621,2022-01-12,ATL,MIA,35.13,3,0,52,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:7),65-84,65,84
+0022100621,2022-01-12,ATL,MIA,35.2,3,0,48,MIA,MIA,fg_make,41,False,False,,Herro 1' Running Layup (18 PTS),65-86,65,86
+0022100621,2022-01-12,ATL,MIA,35.42,3,0,35,ATL,ATL,fg_make,79,False,False,Huerter 11' Pullup Jump Shot (6 PTS),,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,35.53,3,0,28,MIA,MIA,fg3_miss,79,False,False,,MISS Herro 32' 3PT Pullup Jump Shot,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,35.6,3,0,24,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:5),,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,35.78,3,0,13,ATL,ATL,fg_miss,1,False,False,MISS Huerter 10' Jump Shot,,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,35.8,3,0,12,MIA,MIA,reb,0,False,False,,Heat Rebound,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,35.8,3,0,12,MIA,ATL,foul,3,False,False,Okongwu L.B.FOUL (P3.T4) (S.Foster),,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,35.98,3,0,1,MIA,MIA,fg_miss,79,False,False,,MISS Herro 18' Pullup Jump Shot,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,35.98,3,0,1,MIA,MIA,reb,0,False,False,,Heat Rebound,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,36.0,3,0,0,MIA,,period_end,0,False,False,,,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,36.0,4,12,0,MIA,,period_start,0,False,False,,,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,36.23,4,11,46,MIA,MIA,tov,45,False,False,,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T10),67-86,67,86
+0022100621,2022-01-12,ATL,MIA,36.6,4,11,24,ATL,ATL,fg3_miss,79,False,False,MISS Huerter 24' 3PT Pullup Jump Shot,,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,36.67,4,11,20,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:3),67-86,67,86
+0022100621,2022-01-12,ATL,MIA,37.0,4,11,0,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 24' 3PT Jump Shot,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,37.05,4,10,57,ATL,ATL,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:5),,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,37.2,4,10,48,ATL,MIA,foul,1,False,False,,Martin P.FOUL (P1.T1) (S.Foster),67-86,67,86
+0022100621,2022-01-12,ATL,MIA,37.38,4,10,37,ATL,MIA,foul,2,False,False,,Robinson S.FOUL (P1.T2) (S.Foster),67-86,67,86
+0022100621,2022-01-12,ATL,MIA,37.38,4,10,37,ATL,ATL,ft_make,12,False,False,Huerter Free Throw 2 of 2 (7 PTS),,68-86,68,86
+0022100621,2022-01-12,ATL,MIA,37.38,4,10,37,ATL,ATL,reb,1,False,False,HAWKS Rebound,,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,37.38,4,10,37,ATL,ATL,ft_miss,11,False,False,MISS Huerter Free Throw 1 of 2,,67-86,67,86
+0022100621,2022-01-12,ATL,MIA,37.58,4,10,25,MIA,MIA,fg_make,73,False,False,,Dedmon 2' Driving Reverse Layup (6 PTS) (Vincent 1 AST),68-88,68,88
+0022100621,2022-01-12,ATL,MIA,37.85,4,10,9,ATL,ATL,fg_make,5,False,False,Okongwu 1' Layup (4 PTS) (Bogdanovic 2 AST),,70-88,70,88
+0022100621,2022-01-12,ATL,MIA,38.07,4,9,56,MIA,MIA,fg3_miss,79,False,False,,MISS Herro 26' 3PT Pullup Jump Shot,70-88,70,88
+0022100621,2022-01-12,ATL,MIA,38.12,4,9,53,ATL,ATL,reb,0,False,False,Wright REBOUND (Off:1 Def:1),,70-88,70,88
+0022100621,2022-01-12,ATL,MIA,38.23,4,9,46,ATL,ATL,fg_miss,78,False,False,MISS Wright 2' Floating Jump Shot,,70-88,70,88
+0022100621,2022-01-12,ATL,MIA,38.32,4,9,41,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:3 Def:3),,70-88,70,88
+0022100621,2022-01-12,ATL,MIA,38.32,4,9,41,ATL,ATL,fg_make,107,False,False,Okongwu Tip Dunk Shot (6 PTS),,72-88,72,88
+0022100621,2022-01-12,ATL,MIA,38.63,4,9,22,MIA,MIA,fg3_miss,80,False,False,,MISS Vincent 26' 3PT Step Back Jump Shot,72-88,72,88
+0022100621,2022-01-12,ATL,MIA,38.68,4,9,19,ATL,ATL,reb,0,False,False,Huerter REBOUND (Off:0 Def:1),,72-88,72,88
+0022100621,2022-01-12,ATL,MIA,38.75,4,9,15,ATL,ATL,fg3_make,2,False,False,Wright 25' 3PT Running Jump Shot (3 PTS) (Huerter 4 AST),,75-88,75,88
+0022100621,2022-01-12,ATL,MIA,38.78,4,9,13,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),75-88,75,88
+0022100621,2022-01-12,ATL,MIA,39.02,4,8,59,MIA,MIA,fg_make,98,False,False,,Vincent Cutting Layup Shot (8 PTS) (Yurtseven 4 AST),75-90,75,90
+0022100621,2022-01-12,ATL,MIA,39.27,4,8,44,ATL,ATL,fg3_miss,79,False,False,MISS Gallinari 25' 3PT Pullup Jump Shot,,75-90,75,90
+0022100621,2022-01-12,ATL,MIA,39.32,4,8,41,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:4),75-90,75,90
+0022100621,2022-01-12,ATL,MIA,39.58,4,8,25,MIA,MIA,fg_miss,6,False,False,,MISS Martin 3' Driving Layup,75-90,75,90
+0022100621,2022-01-12,ATL,MIA,39.65,4,8,21,MIA,MIA,fg_make,72,False,False,,Martin Putback Layup (13 PTS),75-92,75,92
+0022100621,2022-01-12,ATL,MIA,39.65,4,8,21,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:4 Def:3),75-90,75,90
+0022100621,2022-01-12,ATL,MIA,39.83,4,8,10,ATL,ATL,fg3_make,1,False,False,Collins 25' 3PT Jump Shot (13 PTS) (Wright 2 AST),,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.12,4,7,53,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.15,4,7,51,ATL,ATL,reb,0,False,False,Wright REBOUND (Off:1 Def:2),,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.33,4,7,40,ATL,ATL,fg_miss,1,False,False,MISS Collins 13' Jump Shot,,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.4,4,7,36,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:4 Def:4),78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.47,4,7,32,MIA,ATL,foul,1,False,False,Bogdanovic P.FOUL (P1.T1) (D.Taylor),,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.63,4,7,22,MIA,MIA,tov,37,False,False,,Martin Offensive Foul Turnover (P3.T11),78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.63,4,7,22,ATL,MIA,foul,4,False,False,,Martin OFF.Foul (P2) (D.Taylor),78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.9,4,7,6,ATL,ATL,tov,37,False,False,Gallinari Offensive Foul Turnover (P2.T13),,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,40.9,4,7,6,MIA,ATL,foul,4,False,False,Gallinari OFF.Foul (P2) (S.Foster),,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,41.1,4,6,54,MIA,MIA,tov,8,False,False,,Yurtseven 3 Second Violation Turnover (P2.T12),78-92,78,92
+0022100621,2022-01-12,ATL,MIA,41.25,4,6,45,ATL,ATL,fg3_miss,79,False,False,MISS Young 32' 3PT Pullup Jump Shot,,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,41.3,4,6,42,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),78-92,78,92
+0022100621,2022-01-12,ATL,MIA,41.47,4,6,32,MIA,MIA,fg_miss,108,False,False,,MISS Yurtseven 1' Cutting Dunk Shot,78-92,78,92
+0022100621,2022-01-12,ATL,MIA,41.5,4,6,30,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:2 Def:4),78-92,78,92
+0022100621,2022-01-12,ATL,MIA,41.52,4,6,29,MIA,MIA,fg_make,7,False,False,,Yurtseven 1' Dunk (6 PTS) (Herro 10 AST),78-94,78,94
+0022100621,2022-01-12,ATL,MIA,41.73,4,6,16,ATL,ATL,tov,1,False,True,Young Bad Pass Turnover (P4.T14),,78-94,78,94
+0022100621,2022-01-12,ATL,MIA,41.73,4,6,16,ATL,MIA,steal,1,False,True,steal,steal,78-94,78,94
+0022100621,2022-01-12,ATL,MIA,41.82,4,6,11,MIA,MIA,fg3_miss,2,False,False,,MISS Herro 3PT Running Jump Shot,78-94,78,94
+0022100621,2022-01-12,ATL,MIA,41.83,4,6,10,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:1 Def:6),78-94,78,94
+0022100621,2022-01-12,ATL,MIA,41.83,4,6,10,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 5 Short 0),,78-96,78,96
+0022100621,2022-01-12,ATL,MIA,41.83,4,6,10,MIA,MIA,fg_make,97,False,False,,Yurtseven Tip Layup Shot (8 PTS),78-96,78,96
+0022100621,2022-01-12,ATL,MIA,42.08,4,5,55,ATL,ATL,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,78-96,78,96
+0022100621,2022-01-12,ATL,MIA,42.13,4,5,52,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:2 Def:5),78-96,78,96
+0022100621,2022-01-12,ATL,MIA,42.23,4,5,46,MIA,MIA,fg3_miss,2,False,False,,MISS Robinson 26' 3PT Running Jump Shot,78-96,78,96
+0022100621,2022-01-12,ATL,MIA,42.28,4,5,43,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:3),,78-96,78,96
+0022100621,2022-01-12,ATL,MIA,42.35,4,5,39,ATL,ATL,fg3_make,2,False,False,Collins 24' 3PT Running Jump Shot (16 PTS) (Young 4 AST),,81-96,81,96
+0022100621,2022-01-12,ATL,MIA,42.83,4,5,10,MIA,MIA,tov,2,False,True,,Robinson Lost Ball Turnover (P2.T13),81-96,81,96
+0022100621,2022-01-12,ATL,MIA,42.83,4,5,10,MIA,ATL,steal,2,False,True,steal,steal,81-96,81,96
+0022100621,2022-01-12,ATL,MIA,42.9,4,5,6,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),83-96,83,96
+0022100621,2022-01-12,ATL,MIA,42.9,4,5,6,ATL,ATL,fg_make,41,False,False,Bogdanovic 1' Running Layup (12 PTS) (Young 5 AST),,83-96,83,96
+0022100621,2022-01-12,ATL,MIA,43.12,4,4,53,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 24' 3PT Jump Shot,83-96,83,96
+0022100621,2022-01-12,ATL,MIA,43.2,4,4,48,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:2 Def:6),83-96,83,96
+0022100621,2022-01-12,ATL,MIA,43.23,4,4,46,MIA,MIA,fg3_make,1,False,False,,Herro 26' 3PT Jump Shot (21 PTS) (Yurtseven 5 AST),83-99,83,99
+0022100621,2022-01-12,ATL,MIA,43.55,4,4,27,ATL,ATL,fg3_miss,1,False,False,MISS Huerter 25' 3PT Jump Shot,,83-99,83,99
+0022100621,2022-01-12,ATL,MIA,43.58,4,4,25,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:2 Def:6),83-99,83,99
+0022100621,2022-01-12,ATL,MIA,43.72,4,4,17,MIA,MIA,ft_make,10,False,False,,Yurtseven Free Throw 1 of 1 (11 PTS),83-102,83,102
+0022100621,2022-01-12,ATL,MIA,43.72,4,4,17,MIA,MIA,fg_make,5,False,False,,Yurtseven 2' Layup (10 PTS),83-101,83,101
+0022100621,2022-01-12,ATL,MIA,43.72,4,4,17,MIA,ATL,foul,2,False,False,Collins S.FOUL (P4.T2) (S.Foster),,83-101,83,101
+0022100621,2022-01-12,ATL,MIA,43.97,4,4,2,ATL,ATL,fg_miss,79,False,False,MISS Young 21' Pullup Jump Shot,,83-102,83,102
+0022100621,2022-01-12,ATL,MIA,44.03,4,3,58,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:2 Def:7),83-102,83,102
+0022100621,2022-01-12,ATL,MIA,44.07,4,3,56,MIA,ATL,steal,1,False,True,steal,steal,83-102,83,102
+0022100621,2022-01-12,ATL,MIA,44.07,4,3,56,MIA,MIA,tov,1,False,True,,Yurtseven Bad Pass Turnover (P3.T14),83-102,83,102
+0022100621,2022-01-12,ATL,MIA,44.17,4,3,50,ATL,MIA,foul,2,False,False,,Yurtseven S.FOUL (P3.T3) (D.Taylor),83-102,83,102
+0022100621,2022-01-12,ATL,MIA,44.17,4,3,50,ATL,ATL,ft_make,11,False,False,Hunter Free Throw 1 of 2 (14 PTS),,84-102,84,102
+0022100621,2022-01-12,ATL,MIA,44.17,4,3,50,ATL,ATL,ft_make,12,False,False,Hunter Free Throw 2 of 2 (15 PTS),,85-102,85,102
+0022100621,2022-01-12,ATL,MIA,44.5,4,3,30,MIA,MIA,fg_make,1,False,False,,Yurtseven 15' Jump Shot (13 PTS) (Vincent 2 AST),85-104,85,104
+0022100621,2022-01-12,ATL,MIA,44.77,4,3,14,ATL,ATL,fg3_make,79,False,False,Bogdanovic 3PT Pullup Jump Shot (15 PTS),,88-104,88,104
+0022100621,2022-01-12,ATL,MIA,45.15,4,2,51,MIA,MIA,fg3_make,1,False,False,,Martin 26' 3PT Jump Shot (16 PTS),88-107,88,107
+0022100621,2022-01-12,ATL,MIA,45.37,4,2,38,ATL,ATL,fg3_miss,80,False,False,MISS Young 25' 3PT Step Back Jump Shot,,88-107,88,107
+0022100621,2022-01-12,ATL,MIA,45.43,4,2,34,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:2 Def:8),88-107,88,107
+0022100621,2022-01-12,ATL,MIA,45.67,4,2,20,MIA,MIA,fg_make,108,False,False,,Martin 2' Cutting Dunk Shot (18 PTS) (Yurtseven 6 AST),88-109,88,109
+0022100621,2022-01-12,ATL,MIA,45.67,4,2,20,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 6 Short 0),,88-109,88,109
+0022100621,2022-01-12,ATL,MIA,45.87,4,2,8,ATL,ATL,fg3_miss,1,False,False,MISS Dieng 26' 3PT Jump Shot,,88-109,88,109
+0022100621,2022-01-12,ATL,MIA,45.92,4,2,5,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:4 Def:5),88-109,88,109
+0022100621,2022-01-12,ATL,MIA,46.07,4,1,56,MIA,MIA,fg3_miss,1,False,False,,MISS Martin 26' 3PT Jump Shot,88-109,88,109
+0022100621,2022-01-12,ATL,MIA,46.13,4,1,52,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:3 Def:4),,88-109,88,109
+0022100621,2022-01-12,ATL,MIA,46.43,4,1,34,ATL,ATL,fg3_miss,1,False,False,MISS Mays 3PT Jump Shot,,88-109,88,109
+0022100621,2022-01-12,ATL,MIA,46.5,4,1,30,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:2 Def:7),88-109,88,109
+0022100621,2022-01-12,ATL,MIA,46.6,4,1,24,MIA,MIA,fg3_make,1,False,False,,Vincent 26' 3PT Jump Shot (11 PTS) (Herro 11 AST),88-112,88,112
+0022100621,2022-01-12,ATL,MIA,46.62,4,1,23,ATL,MIA,foul,28,False,False,,Martin Personal Take Foul (P3.T4) (S.Foster),88-112,88,112
+0022100621,2022-01-12,ATL,MIA,46.87,4,1,8,ATL,ATL,fg3_make,1,False,False,Dieng 26' 3PT Jump Shot (3 PTS) (Mays 1 AST),,91-112,91,112
+0022100621,2022-01-12,ATL,MIA,47.1,4,0,54,MIA,MIA,fg3_make,1,False,False,,Vincent 3PT Jump Shot (14 PTS) (Guy 1 AST),91-115,91,115
+0022100621,2022-01-12,ATL,MIA,47.38,4,0,37,ATL,ATL,fg3_miss,1,False,False,MISS Wright 3PT Jump Shot,,91-115,91,115
+0022100621,2022-01-12,ATL,MIA,47.43,4,0,34,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:4 Def:6),91-115,91,115
+0022100621,2022-01-12,ATL,MIA,47.82,4,0,11,MIA,MIA,tov,11,False,False,,Heat Turnover: Shot Clock (T#15),91-115,91,115
+0022100621,2022-01-12,ATL,MIA,47.92,4,0,5,ATL,ATL,fg3_miss,80,False,False,MISS Cooper 26' 3PT Step Back Jump Shot,,91-115,91,115
+0022100621,2022-01-12,ATL,MIA,47.98,4,0,1,ATL,ATL,reb,0,False,False,HAWKS Rebound,,91-115,91,115
+0022100621,2022-01-12,ATL,MIA,47.98,4,0,1,ATL,ATL,fg3_miss,1,False,False,MISS Mays 27' 3PT Jump Shot,,91-115,91,115
+0022100621,2022-01-12,ATL,MIA,47.98,4,0,1,ATL,ATL,reb,0,False,False,Dieng REBOUND (Off:1 Def:0),,91-115,91,115
+0022100621,2022-01-12,ATL,MIA,48.0,4,0,0,ATL,,period_end,0,False,False,,,91-115,91,115

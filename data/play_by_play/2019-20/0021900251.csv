@@ -1,0 +1,496 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900251,2019-11-26,DAL,LAC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900251,2019-11-26,DAL,LAC,0.0,1,12,0,LAC,DAL,violation,4,False,False,Porzingis Violation:Jump Ball (G.Petraitis),,0-0,0,0
+0021900251,2019-11-26,DAL,LAC,0.33,1,11,40,LAC,LAC,fg_miss,63,False,False,,MISS Leonard 8' Fadeaway Jumper,0-0,0,0
+0021900251,2019-11-26,DAL,LAC,0.37,1,11,38,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:0 Def:1),,0-0,0,0
+0021900251,2019-11-26,DAL,LAC,0.47,1,11,32,DAL,DAL,fg3_make,79,False,False,Porzingis 28' 3PT Pullup Jump Shot (3 PTS) (Hardaway Jr. 1 AST),,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,0.65,1,11,21,LAC,LAC,fg_miss,80,False,False,,MISS George 17' Step Back Jump Shot,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,0.72,1,11,17,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:1),,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.0,1,11,0,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 3PT Jump Shot,,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.05,1,10,57,LAC,LAC,reb,0,False,False,,Harkless REBOUND (Off:0 Def:1),3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.2,1,10,48,LAC,LAC,fg_miss,6,False,False,,MISS Leonard 1' Driving Layup,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.23,1,10,46,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:0),3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.25,1,10,45,LAC,LAC,fg_miss,72,False,False,,MISS Leonard 1' Putback Layup,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.28,1,10,43,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:2),,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.35,1,10,39,DAL,DAL,fg3_miss,79,False,False,MISS Doncic 29' 3PT Pullup Jump Shot,,3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.4,1,10,36,LAC,LAC,reb,0,False,False,,Harkless REBOUND (Off:0 Def:2),3-0,3,0
+0021900251,2019-11-26,DAL,LAC,1.52,1,10,29,LAC,LAC,fg3_make,1,False,False,,George 3PT Jump Shot (3 PTS) (Leonard 1 AST),3-3,3,3
+0021900251,2019-11-26,DAL,LAC,1.78,1,10,13,DAL,DAL,fg_miss,101,False,False,MISS Doncic 5' Driving Floating Jump Shot,,3-3,3,3
+0021900251,2019-11-26,DAL,LAC,1.8,1,10,12,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:1),3-3,3,3
+0021900251,2019-11-26,DAL,LAC,1.88,1,10,7,LAC,LAC,fg_make,57,False,False,,Zubac 1' Driving Hook Shot (2 PTS) (Leonard 2 AST),3-5,3,5
+0021900251,2019-11-26,DAL,LAC,2.18,1,9,49,DAL,DAL,tov,1,False,True,Porzingis Bad Pass Turnover (P1.T1),,3-5,3,5
+0021900251,2019-11-26,DAL,LAC,2.18,1,9,49,DAL,LAC,steal,1,False,True,steal,steal,3-5,3,5
+0021900251,2019-11-26,DAL,LAC,2.25,1,9,45,LAC,LAC,fg3_miss,1,False,False,,MISS Beverley 3PT Jump Shot,3-5,3,5
+0021900251,2019-11-26,DAL,LAC,2.3,1,9,42,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:1),,3-5,3,5
+0021900251,2019-11-26,DAL,LAC,2.65,1,9,21,DAL,DAL,fg_make,108,False,False,Powell 1' Cutting Dunk Shot (2 PTS) (Doncic 1 AST),,5-5,5,5
+0021900251,2019-11-26,DAL,LAC,3.0,1,9,0,LAC,LAC,fg3_make,1,False,False,,Beverley 25' 3PT Jump Shot (3 PTS) (George 1 AST),5-8,5,8
+0021900251,2019-11-26,DAL,LAC,3.2,1,8,48,DAL,DAL,fg_miss,6,False,False,MISS Doncic 1' Driving Layup,,5-8,5,8
+0021900251,2019-11-26,DAL,LAC,3.23,1,8,46,LAC,LAC,reb,0,False,False,,Beverley REBOUND (Off:0 Def:1),5-8,5,8
+0021900251,2019-11-26,DAL,LAC,3.32,1,8,41,LAC,LAC,fg_make,41,False,False,,Leonard Running Layup (2 PTS) (Beverley 1 AST),5-10,5,10
+0021900251,2019-11-26,DAL,LAC,3.32,1,8,41,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 1 Short 0),,5-10,5,10
+0021900251,2019-11-26,DAL,LAC,3.58,1,8,25,DAL,LAC,foul,2,False,False,,Zubac S.FOUL (P1.T1) (B.Forte),5-10,5,10
+0021900251,2019-11-26,DAL,LAC,3.58,1,8,25,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (1 PTS),,6-10,6,10
+0021900251,2019-11-26,DAL,LAC,3.58,1,8,25,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (2 PTS),,7-10,7,10
+0021900251,2019-11-26,DAL,LAC,3.97,1,8,2,LAC,LAC,fg3_miss,79,False,False,,MISS George 25' 3PT Pullup Jump Shot,7-10,7,10
+0021900251,2019-11-26,DAL,LAC,3.98,1,8,1,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:1 Def:0),7-10,7,10
+0021900251,2019-11-26,DAL,LAC,4.0,1,8,0,LAC,LAC,fg_make,3,False,False,,Zubac 1' Hook Shot (4 PTS),7-12,7,12
+0021900251,2019-11-26,DAL,LAC,4.28,1,7,43,DAL,DAL,fg3_make,1,False,False,Powell 26' 3PT Jump Shot (5 PTS) (Doncic 2 AST),,10-12,10,12
+0021900251,2019-11-26,DAL,LAC,4.53,1,7,28,LAC,LAC,fg3_miss,1,False,False,,MISS George 25' 3PT Jump Shot,10-12,10,12
+0021900251,2019-11-26,DAL,LAC,4.57,1,7,26,LAC,LAC,reb,0,False,False,,Clippers Rebound,10-12,10,12
+0021900251,2019-11-26,DAL,LAC,4.57,1,7,26,LAC,DAL,foul,1,False,False,Hardaway Jr. P.FOUL (P1.T1) (B.Forte),,10-12,10,12
+0021900251,2019-11-26,DAL,LAC,4.75,1,7,15,LAC,LAC,fg_miss,63,False,False,,MISS Leonard 11' Fadeaway Jumper,10-12,10,12
+0021900251,2019-11-26,DAL,LAC,4.8,1,7,12,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:0 Def:2),,10-12,10,12
+0021900251,2019-11-26,DAL,LAC,4.93,1,7,4,DAL,DAL,fg_make,79,False,False,Doncic 8' Pullup Jump Shot (4 PTS),,12-12,12,12
+0021900251,2019-11-26,DAL,LAC,5.08,1,6,55,LAC,DAL,foul,1,False,False,Finney-Smith P.FOUL (P1.T2) (B.Forte),,12-12,12,12
+0021900251,2019-11-26,DAL,LAC,5.18,1,6,49,LAC,LAC,fg3_make,1,False,False,,George 24' 3PT Jump Shot (6 PTS) (Beverley 2 AST),12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.4,1,6,36,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 28' 3PT Jump Shot,,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.45,1,6,33,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:1 Def:1),12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.63,1,6,22,LAC,LAC,fg_miss,80,False,False,,MISS Leonard 11' Step Back Jump Shot,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.65,1,6,21,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:2 Def:1),12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.67,1,6,20,LAC,LAC,fg_miss,72,False,False,,MISS Zubac 1' Putback Layup,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.68,1,6,19,LAC,LAC,reb,0,False,False,,Harkless REBOUND (Off:1 Def:2),12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.7,1,6,18,LAC,LAC,fg_miss,97,False,False,,MISS Harkless 2' Tip Layup Shot,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.72,1,6,17,LAC,LAC,reb,0,False,False,,Harkless REBOUND (Off:2 Def:2),12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.72,1,6,17,LAC,DAL,foul,2,False,False,Powell S.FOUL (P1.T3) (E.Dalen),,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.72,1,6,17,LAC,LAC,ft_miss,11,False,False,,MISS Harkless Free Throw 1 of 2,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.72,1,6,17,LAC,LAC,reb,1,False,False,,Clippers Rebound,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.72,1,6,17,LAC,LAC,ft_miss,12,False,False,,MISS Harkless Free Throw 2 of 2,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.77,1,6,14,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:3),,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.95,1,6,3,DAL,LAC,foul,2,False,False,,Harkless S.FOUL (P1.T2) (E.Dalen),12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.95,1,6,3,DAL,DAL,ft_miss,11,False,False,MISS Porzingis Free Throw 1 of 2,,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.95,1,6,3,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,12-15,12,15
+0021900251,2019-11-26,DAL,LAC,5.95,1,6,3,DAL,DAL,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (4 PTS),,13-15,13,15
+0021900251,2019-11-26,DAL,LAC,6.22,1,5,47,LAC,DAL,foul,2,False,False,Porzingis S.FOUL (P1.T4) (B.Forte),,13-15,13,15
+0021900251,2019-11-26,DAL,LAC,6.22,1,5,47,LAC,LAC,ft_make,11,False,False,,Zubac Free Throw 1 of 2 (5 PTS),13-16,13,16
+0021900251,2019-11-26,DAL,LAC,6.22,1,5,47,LAC,LAC,ft_make,12,False,False,,Zubac Free Throw 2 of 2 (6 PTS),13-17,13,17
+0021900251,2019-11-26,DAL,LAC,6.48,1,5,31,DAL,DAL,fg3_make,1,False,False,Hardaway Jr. 3PT Jump Shot (3 PTS) (Doncic 3 AST),,16-17,16,17
+0021900251,2019-11-26,DAL,LAC,6.93,1,5,4,LAC,LAC,fg_miss,6,False,False,,MISS Beverley 1' Driving Layup,16-17,16,17
+0021900251,2019-11-26,DAL,LAC,6.97,1,5,2,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:4),,16-17,16,17
+0021900251,2019-11-26,DAL,LAC,7.0,1,5,0,DAL,DAL,fg_make,41,False,False,Hardaway Jr. Running Layup (5 PTS) (Doncic 4 AST),,18-17,18,17
+0021900251,2019-11-26,DAL,LAC,7.0,1,5,0,DAL,LAC,foul,2,False,False,,Beverley S.FOUL (P1.T3) (B.Forte),18-17,18,17
+0021900251,2019-11-26,DAL,LAC,7.0,1,5,0,DAL,DAL,ft_make,10,False,False,Hardaway Jr. Free Throw 1 of 1 (6 PTS),,19-17,19,17
+0021900251,2019-11-26,DAL,LAC,7.18,1,4,49,LAC,LAC,fg3_make,1,False,False,,George 25' 3PT Jump Shot (9 PTS) (Harrell 1 AST),19-20,19,20
+0021900251,2019-11-26,DAL,LAC,7.4,1,4,36,DAL,LAC,foul,2,False,False,,George S.FOUL (P1.T4) (E.Dalen),19-20,19,20
+0021900251,2019-11-26,DAL,LAC,7.4,1,4,36,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (5 PTS),,20-20,20,20
+0021900251,2019-11-26,DAL,LAC,7.4,1,4,36,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.1 Short 0),20-20,20,20
+0021900251,2019-11-26,DAL,LAC,7.4,1,4,36,LAC,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (6 PTS),,21-20,21,20
+0021900251,2019-11-26,DAL,LAC,7.58,1,4,25,LAC,LAC,fg3_make,1,False,False,,George 25' 3PT Jump Shot (12 PTS) (Beverley 3 AST),21-23,21,23
+0021900251,2019-11-26,DAL,LAC,7.93,1,4,4,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,21-23,21,23
+0021900251,2019-11-26,DAL,LAC,7.93,1,4,4,LAC,LAC,reb,0,False,False,,Clippers Rebound,21-23,21,23
+0021900251,2019-11-26,DAL,LAC,8.1,1,3,54,LAC,DAL,foul,2,False,False,Hardaway Jr. S.FOUL (P2.PN) (B.Forte),,21-23,21,23
+0021900251,2019-11-26,DAL,LAC,8.1,1,3,54,LAC,LAC,ft_make,13,False,False,,George Free Throw 1 of 3 (13 PTS),21-24,21,24
+0021900251,2019-11-26,DAL,LAC,8.1,1,3,54,LAC,LAC,ft_make,14,False,False,,George Free Throw 2 of 3 (14 PTS),21-25,21,25
+0021900251,2019-11-26,DAL,LAC,8.1,1,3,54,LAC,LAC,ft_make,15,False,False,,George Free Throw 3 of 3 (15 PTS),21-26,21,26
+0021900251,2019-11-26,DAL,LAC,8.28,1,3,43,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P1.T2),,21-26,21,26
+0021900251,2019-11-26,DAL,LAC,8.28,1,3,43,DAL,LAC,steal,1,False,True,steal,steal,21-26,21,26
+0021900251,2019-11-26,DAL,LAC,8.35,1,3,39,LAC,LAC,fg_make,50,False,False,,George 1' Running Dunk (17 PTS) (Beverley 4 AST),21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.63,1,3,22,DAL,DAL,tov,1,False,True,Porzingis Bad Pass Turnover (P2.T3),,21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.63,1,3,22,DAL,LAC,steal,1,False,True,steal,steal,21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.7,1,3,18,LAC,LAC,fg_miss,41,False,False,,MISS George 3' Running Layup,21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.75,1,3,15,LAC,LAC,reb,0,False,False,,Beverley REBOUND (Off:1 Def:1),21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.75,1,3,15,LAC,LAC,fg_miss,107,False,False,,MISS Beverley 1' Tip Dunk Shot,21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.75,1,3,15,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:1 Def:0),21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.82,1,3,11,LAC,LAC,tov,1,False,True,,Green Bad Pass Turnover (P1.T1),21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.82,1,3,11,LAC,DAL,steal,1,False,True,steal,steal,21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.92,1,3,5,DAL,LAC,foul,1,False,False,,Green P.FOUL (P1.PN) (B.Forte),21-28,21,28
+0021900251,2019-11-26,DAL,LAC,8.92,1,3,5,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (7 PTS),,22-28,22,28
+0021900251,2019-11-26,DAL,LAC,8.92,1,3,5,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (8 PTS),,23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.23,1,2,46,LAC,LAC,fg_miss,1,False,False,,MISS Harrell 14' Jump Shot,23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.25,1,2,45,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:2),,23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.57,1,2,26,DAL,DAL,fg_miss,58,False,False,MISS Marjanovic 12' Turnaround Hook Shot,,23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.63,1,2,22,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:2),,23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.7,1,2,18,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 27' 3PT Jump Shot,,23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.73,1,2,16,DAL,DAL,reb,0,False,False,Wright REBOUND (Off:1 Def:0),,23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.78,1,2,13,DAL,LAC,foul,1,False,False,,Beverley P.FOUL (P2.PN) (E.Dalen),23-28,23,28
+0021900251,2019-11-26,DAL,LAC,9.78,1,2,13,DAL,DAL,ft_make,11,False,False,Wright Free Throw 1 of 2 (1 PTS),,24-28,24,28
+0021900251,2019-11-26,DAL,LAC,9.78,1,2,13,DAL,DAL,ft_make,12,False,False,Wright Free Throw 2 of 2 (2 PTS),,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,9.98,1,2,1,LAC,LAC,fg3_miss,1,False,False,,MISS Williams 25' 3PT Jump Shot,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,10.03,1,1,58,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,10.42,1,1,35,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 25' 3PT Jump Shot,,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,10.47,1,1,32,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:1 Def:1),25-28,25,28
+0021900251,2019-11-26,DAL,LAC,10.72,1,1,17,LAC,LAC,fg_miss,1,False,False,,MISS Harrell 12' Jump Shot,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,10.77,1,1,14,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:0 Def:1),,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,11.15,1,0,51,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 25' 3PT Jump Shot,,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,11.18,1,0,49,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:2),,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,11.18,1,0,49,LAC,DAL,foul,26,False,False,Doncic Offensive Charge Foul (P1.PN) (B.Forte),,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,11.18,1,0,49,DAL,DAL,tov,37,False,False,Doncic Offensive Foul Turnover (P2.T4),,25-28,25,28
+0021900251,2019-11-26,DAL,LAC,11.45,1,0,33,LAC,LAC,fg3_make,1,False,False,,Green 24' 3PT Jump Shot (3 PTS) (Williams 1 AST),25-31,25,31
+0021900251,2019-11-26,DAL,LAC,11.78,1,0,13,DAL,LAC,foul,1,False,False,,Robinson P.FOUL (P1.PN) (E.Dalen),25-31,25,31
+0021900251,2019-11-26,DAL,LAC,11.78,1,0,13,DAL,DAL,ft_make,11,False,False,Brunson Free Throw 1 of 2 (1 PTS),,26-31,26,31
+0021900251,2019-11-26,DAL,LAC,11.78,1,0,13,DAL,DAL,ft_make,12,False,False,Brunson Free Throw 2 of 2 (2 PTS),,27-31,27,31
+0021900251,2019-11-26,DAL,LAC,11.98,1,0,1,LAC,LAC,fg3_make,79,False,False,,Williams 24' 3PT Pullup Jump Shot (3 PTS),27-34,27,34
+0021900251,2019-11-26,DAL,LAC,12.0,1,0,0,LAC,,period_end,0,False,False,,,27-34,27,34
+0021900251,2019-11-26,DAL,LAC,12.0,2,12,0,LAC,,period_start,0,False,False,,,27-34,27,34
+0021900251,2019-11-26,DAL,LAC,12.23,2,11,46,DAL,DAL,fg_miss,47,False,False,MISS Marjanovic 8' Turnaround Jump Shot,,27-34,27,34
+0021900251,2019-11-26,DAL,LAC,12.28,2,11,43,LAC,LAC,reb,0,False,False,,McGruder REBOUND (Off:0 Def:1),27-34,27,34
+0021900251,2019-11-26,DAL,LAC,12.42,2,11,35,LAC,LAC,fg3_miss,1,False,False,,MISS Green 24' 3PT Jump Shot,27-34,27,34
+0021900251,2019-11-26,DAL,LAC,12.45,2,11,33,LAC,LAC,reb,0,False,False,,McGruder REBOUND (Off:1 Def:1),27-34,27,34
+0021900251,2019-11-26,DAL,LAC,12.47,2,11,32,LAC,LAC,fg_make,72,False,False,,McGruder 1' Putback Layup (2 PTS),27-36,27,36
+0021900251,2019-11-26,DAL,LAC,12.55,2,11,27,DAL,LAC,foul,1,False,False,,Robinson P.FOUL (P2.T1) (G.Petraitis),27-36,27,36
+0021900251,2019-11-26,DAL,LAC,12.8,2,11,12,DAL,DAL,tov,1,False,True,Brunson Bad Pass Turnover (P1.T5),,27-36,27,36
+0021900251,2019-11-26,DAL,LAC,12.8,2,11,12,DAL,LAC,steal,1,False,True,steal,steal,27-36,27,36
+0021900251,2019-11-26,DAL,LAC,12.97,2,11,2,LAC,DAL,foul,2,False,False,Marjanovic S.FOUL (P1.T1) (B.Forte),,27-36,27,36
+0021900251,2019-11-26,DAL,LAC,12.97,2,11,2,LAC,LAC,ft_miss,11,False,False,,MISS Williams Free Throw 1 of 2,27-36,27,36
+0021900251,2019-11-26,DAL,LAC,12.97,2,11,2,LAC,LAC,reb,1,False,False,,Clippers Rebound,27-36,27,36
+0021900251,2019-11-26,DAL,LAC,12.97,2,11,2,LAC,LAC,ft_make,12,False,False,,Williams Free Throw 2 of 2 (4 PTS),27-37,27,37
+0021900251,2019-11-26,DAL,LAC,13.22,2,10,47,DAL,DAL,fg_miss,79,False,False,MISS Brunson 11' Pullup Jump Shot,,27-37,27,37
+0021900251,2019-11-26,DAL,LAC,13.27,2,10,44,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:1 Def:2),27-37,27,37
+0021900251,2019-11-26,DAL,LAC,13.43,2,10,34,LAC,LAC,fg_make,6,False,False,,Leonard 1' Driving Layup (4 PTS),27-39,27,39
+0021900251,2019-11-26,DAL,LAC,13.45,2,10,33,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 2 Short 0),,27-39,27,39
+0021900251,2019-11-26,DAL,LAC,13.62,2,10,23,DAL,DAL,fg3_make,1,False,False,Curry 25' 3PT Jump Shot (3 PTS) (Brunson 1 AST),,30-39,30,39
+0021900251,2019-11-26,DAL,LAC,13.92,2,10,5,LAC,LAC,fg_miss,79,False,False,,MISS Williams 20' Pullup Jump Shot,30-39,30,39
+0021900251,2019-11-26,DAL,LAC,13.97,2,10,2,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:1),,30-39,30,39
+0021900251,2019-11-26,DAL,LAC,14.1,2,9,54,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 25' 3PT Jump Shot,,30-39,30,39
+0021900251,2019-11-26,DAL,LAC,14.15,2,9,51,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:0 Def:1),30-39,30,39
+0021900251,2019-11-26,DAL,LAC,14.35,2,9,39,LAC,LAC,fg3_make,1,False,False,,Williams 25' 3PT Jump Shot (7 PTS) (McGruder 1 AST),30-42,30,42
+0021900251,2019-11-26,DAL,LAC,14.63,2,9,22,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 3PT Jump Shot,,30-42,30,42
+0021900251,2019-11-26,DAL,LAC,14.67,2,9,20,LAC,LAC,reb,0,False,False,,McGruder REBOUND (Off:1 Def:2),30-42,30,42
+0021900251,2019-11-26,DAL,LAC,14.9,2,9,6,LAC,LAC,fg_make,9,False,False,,Leonard 1' Driving Dunk (6 PTS) (Green 1 AST),30-44,30,44
+0021900251,2019-11-26,DAL,LAC,15.27,2,8,44,DAL,DAL,fg3_miss,1,False,False,MISS Powell 25' 3PT Jump Shot,,30-44,30,44
+0021900251,2019-11-26,DAL,LAC,15.3,2,8,42,DAL,DAL,reb,0,False,False,Curry REBOUND (Off:1 Def:0),,30-44,30,44
+0021900251,2019-11-26,DAL,LAC,15.37,2,8,38,DAL,DAL,fg_make,102,False,False,Curry 4' Driving Floating Bank Jump Shot (5 PTS),,32-44,32,44
+0021900251,2019-11-26,DAL,LAC,15.53,2,8,28,LAC,LAC,fg_miss,41,False,False,,MISS Harrell 1' Running Layup,32-44,32,44
+0021900251,2019-11-26,DAL,LAC,15.58,2,8,25,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:1),32-44,32,44
+0021900251,2019-11-26,DAL,LAC,15.58,2,8,25,LAC,LAC,fg_make,97,False,False,,Harrell 1' Tip Layup Shot (2 PTS),32-46,32,46
+0021900251,2019-11-26,DAL,LAC,15.72,2,8,17,DAL,DAL,fg3_miss,1,False,False,MISS Curry 26' 3PT Jump Shot,,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,15.78,2,8,13,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:1),,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,15.87,2,8,8,LAC,DAL,foul,4,False,False,Kleber OFF.Foul (P1) (B.Forte),,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,15.87,2,8,8,DAL,DAL,tov,37,False,False,Kleber Offensive Foul Turnover (P1.T6),,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.15,2,7,51,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P1.T2),32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.15,2,7,51,LAC,DAL,steal,1,False,True,steal,steal,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.22,2,7,47,LAC,DAL,foul,26,False,False,Brunson Offensive Charge Foul (P1.T2) (B.Forte),,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.22,2,7,47,DAL,DAL,tov,37,False,False,Brunson Offensive Foul Turnover (P2.T7),,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.45,2,7,33,LAC,LAC,fg_miss,43,False,False,,MISS Leonard 3' Alley Oop Layup,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.48,2,7,31,DAL,DAL,reb,0,False,False,Curry REBOUND (Off:1 Def:1),,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.48,2,7,31,DAL,DAL,tov,40,False,False,Curry Out of Bounds Lost Ball Turnover (P1.T8),,32-46,32,46
+0021900251,2019-11-26,DAL,LAC,16.53,2,7,28,LAC,LAC,fg_make,73,False,False,,McGruder 1' Driving Reverse Layup (4 PTS) (Williams 2 AST),32-48,32,48
+0021900251,2019-11-26,DAL,LAC,16.55,2,7,27,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 3 Short 0),,32-48,32,48
+0021900251,2019-11-26,DAL,LAC,16.82,2,7,11,DAL,DAL,fg_make,101,False,False,Doncic 8' Driving Floating Jump Shot (10 PTS),,34-48,34,48
+0021900251,2019-11-26,DAL,LAC,16.82,2,7,11,DAL,LAC,foul,2,False,False,,McGruder S.FOUL (P1.T2) (E.Dalen),34-48,34,48
+0021900251,2019-11-26,DAL,LAC,16.82,2,7,11,DAL,DAL,ft_make,10,False,False,Doncic Free Throw 1 of 1 (11 PTS),,35-48,35,48
+0021900251,2019-11-26,DAL,LAC,17.17,2,6,50,LAC,LAC,fg_make,105,False,False,,Leonard 8' Turnaround Fadeaway Bank Jump Shot (8 PTS),35-50,35,50
+0021900251,2019-11-26,DAL,LAC,17.42,2,6,35,DAL,DAL,fg3_make,1,False,False,Finney-Smith 3PT Jump Shot (3 PTS) (Doncic 5 AST),,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,17.58,2,6,25,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P2.T3),38-50,38,50
+0021900251,2019-11-26,DAL,LAC,17.58,2,6,25,LAC,DAL,steal,1,False,True,steal,steal,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,17.6,2,6,24,DAL,LAC,foul,28,False,False,,Williams Personal Take Foul (P1.T3) (G.Petraitis),38-50,38,50
+0021900251,2019-11-26,DAL,LAC,17.85,2,6,9,DAL,DAL,fg_miss,5,True,False,MISS Porzingis 2' Layup,,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,17.85,2,6,9,DAL,LAC,block,5,True,False,block,block,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,17.88,2,6,7,LAC,LAC,reb,0,False,False,,Clippers Rebound,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.28,2,5,43,LAC,LAC,fg3_miss,79,False,False,,MISS George 29' 3PT Pullup Jump Shot,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.33,2,5,40,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:3),,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.43,2,5,34,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P3.T9),,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.43,2,5,34,DAL,LAC,steal,1,False,True,steal,steal,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.55,2,5,27,LAC,LAC,fg_miss,41,False,False,,MISS Harrell 2' Running Layup,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.6,2,5,24,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:4),,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.68,2,5,19,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P4.T10),,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.68,2,5,19,DAL,LAC,steal,1,False,True,steal,steal,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.75,2,5,15,LAC,LAC,fg3_miss,1,False,False,,MISS George 25' 3PT Jump Shot,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.8,2,5,12,DAL,DAL,reb,0,False,False,Hardaway Jr. REBOUND (Off:0 Def:1),,38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.97,2,5,2,DAL,LAC,foul,2,False,False,,Beverley S.FOUL (P3.T4) (G.Petraitis),38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.97,2,5,2,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.2 Short 0),38-50,38,50
+0021900251,2019-11-26,DAL,LAC,18.97,2,5,2,LAC,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (12 PTS),,39-50,39,50
+0021900251,2019-11-26,DAL,LAC,18.97,2,5,2,LAC,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (13 PTS),,40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.23,2,4,46,LAC,LAC,fg_miss,86,False,False,,MISS Leonard 11' Turnaround Fadeaway Shot,40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.28,2,4,43,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:0 Def:1),,40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.37,2,4,38,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P5.T11),,40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.37,2,4,38,DAL,LAC,steal,1,False,True,steal,steal,40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.43,2,4,34,LAC,LAC,fg3_miss,1,False,False,,MISS Green 25' 3PT Jump Shot,40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.47,2,4,32,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:2 Def:2),40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.47,2,4,32,LAC,DAL,violation,5,False,False,Doncic Violation:Kicked Ball (G.Petraitis),,40-50,40,50
+0021900251,2019-11-26,DAL,LAC,19.65,2,4,21,LAC,LAC,fg_make,79,False,False,,Williams 15' Pullup Jump Shot (9 PTS),40-52,40,52
+0021900251,2019-11-26,DAL,LAC,19.88,2,4,7,DAL,DAL,tov,45,False,False,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,40-52,40,52
+0021900251,2019-11-26,DAL,LAC,20.0,2,4,0,LAC,LAC,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,40-52,40,52
+0021900251,2019-11-26,DAL,LAC,20.05,2,3,57,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:5),,40-52,40,52
+0021900251,2019-11-26,DAL,LAC,20.12,2,3,53,DAL,LAC,foul,1,False,False,,George P.FOUL (P2.PN) (B.Forte),40-52,40,52
+0021900251,2019-11-26,DAL,LAC,20.12,2,3,53,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (14 PTS),,41-52,41,52
+0021900251,2019-11-26,DAL,LAC,20.12,2,3,53,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (15 PTS),,42-52,42,52
+0021900251,2019-11-26,DAL,LAC,20.3,2,3,42,LAC,LAC,fg3_make,79,False,False,,Williams 25' 3PT Pullup Jump Shot (12 PTS),42-55,42,55
+0021900251,2019-11-26,DAL,LAC,20.63,2,3,22,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 27' 3PT Jump Shot,,42-55,42,55
+0021900251,2019-11-26,DAL,LAC,20.67,2,3,20,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:2 Def:1),,42-55,42,55
+0021900251,2019-11-26,DAL,LAC,20.7,2,3,18,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 26' 3PT Jump Shot,,42-55,42,55
+0021900251,2019-11-26,DAL,LAC,20.7,2,3,18,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:2 Def:2),42-55,42,55
+0021900251,2019-11-26,DAL,LAC,20.87,2,3,8,LAC,LAC,fg_make,5,False,False,,Green 1' Layup (5 PTS) (Harkless 1 AST),42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.18,2,2,49,DAL,DAL,fg_miss,79,False,False,MISS Porzingis 10' Pullup Jump Shot,,42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.22,2,2,47,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:2 Def:3),42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.35,2,2,39,LAC,LAC,fg3_miss,1,False,False,,MISS Harkless 3PT Jump Shot,42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.4,2,2,36,LAC,LAC,reb,0,False,False,,George REBOUND (Off:1 Def:0),42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.43,2,2,34,LAC,LAC,fg_miss,5,False,False,,MISS George 3' Layup,42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.47,2,2,32,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:6),,42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.57,2,2,26,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.6,2,2,24,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.72,2,2,17,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P3.T4),42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.72,2,2,17,LAC,DAL,steal,1,False,True,steal,steal,42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.95,2,2,3,DAL,DAL,fg_miss,6,False,False,MISS Hardaway Jr. 3' Driving Layup,,42-57,42,57
+0021900251,2019-11-26,DAL,LAC,21.97,2,2,2,LAC,LAC,reb,0,False,False,,Harkless REBOUND (Off:2 Def:3),42-57,42,57
+0021900251,2019-11-26,DAL,LAC,22.05,2,1,57,LAC,LAC,fg_make,98,False,False,,Leonard 2' Cutting Layup Shot (10 PTS) (Harkless 2 AST),42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.07,2,1,56,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 4 Short 0),,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.3,2,1,42,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 24' 3PT Jump Shot,,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.35,2,1,39,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.72,2,1,17,LAC,LAC,fg_miss,1,False,False,,MISS George 16' Jump Shot,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.75,2,1,15,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:3 Def:3),42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.78,2,1,13,LAC,LAC,fg3_miss,1,False,False,,MISS George 26' 3PT Jump Shot,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.83,2,1,10,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:7),,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.83,2,1,10,DAL,DAL,tov,45,False,False,Porzingis Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.87,2,1,8,LAC,LAC,tov,1,False,True,,Leonard Bad Pass Turnover (P1.T5),42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.87,2,1,8,LAC,DAL,steal,1,False,True,steal,steal,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.9,2,1,6,DAL,LAC,foul,2,False,False,,Zubac S.FOUL (P2.PN) (G.Petraitis),42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.9,2,1,6,DAL,DAL,ft_miss,11,False,False,MISS Porzingis Free Throw 1 of 2,,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.9,2,1,6,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,42-59,42,59
+0021900251,2019-11-26,DAL,LAC,22.9,2,1,6,DAL,DAL,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (5 PTS),,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.13,2,0,52,LAC,LAC,fg_miss,73,True,False,,MISS Zubac 1' Driving Reverse Layup,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.13,2,0,52,LAC,DAL,block,73,True,False,block,block,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.15,2,0,51,LAC,LAC,reb,0,False,False,,Harkless REBOUND (Off:3 Def:3),43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.17,2,0,50,LAC,DAL,foul,2,False,False,Kleber S.FOUL (P2.T3) (E.Dalen),,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.17,2,0,50,LAC,LAC,ft_miss,11,False,False,,MISS Harkless Free Throw 1 of 2,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.17,2,0,50,LAC,LAC,reb,1,False,False,,Clippers Rebound,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.17,2,0,50,LAC,LAC,ft_miss,12,False,False,,MISS Harkless Free Throw 2 of 2,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.2,2,0,48,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:0 Def:3),,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.53,2,0,28,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 27' 3PT Step Back Jump Shot,,43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.58,2,0,25,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),43-59,43,59
+0021900251,2019-11-26,DAL,LAC,23.88,2,0,7,LAC,LAC,fg3_make,1,False,False,,Leonard 25' 3PT Jump Shot (13 PTS),43-62,43,62
+0021900251,2019-11-26,DAL,LAC,23.98,2,0,1,DAL,DAL,fg3_make,79,False,False,Porzingis 35' 3PT Pullup Jump Shot (8 PTS) (Doncic 6 AST),,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,23.98,2,0,1,LAC,LAC,fg3_miss,1,False,False,,MISS McGruder 43' 3PT Jump Shot,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,23.98,2,0,1,LAC,LAC,reb,0,False,False,,Clippers Rebound,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.0,2,0,0,LAC,,period_end,0,False,False,,,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.0,3,12,0,LAC,,period_start,0,False,False,,,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.2,3,11,48,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 25' 3PT Jump Shot,,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.27,3,11,44,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:2),46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.35,3,11,39,LAC,LAC,fg3_miss,1,False,False,,MISS Leonard 25' 3PT Jump Shot,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.4,3,11,36,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:8),,46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.47,3,11,32,DAL,LAC,foul,1,False,False,,Harkless P.FOUL (P2.T1) (G.Petraitis),46-62,46,62
+0021900251,2019-11-26,DAL,LAC,24.63,3,11,22,DAL,DAL,fg3_make,1,False,False,Porzingis 26' 3PT Jump Shot (11 PTS) (Finney-Smith 1 AST),,49-62,49,62
+0021900251,2019-11-26,DAL,LAC,24.93,3,11,4,LAC,LAC,fg_make,98,False,False,,Zubac 1' Cutting Layup Shot (8 PTS) (Leonard 3 AST),49-64,49,64
+0021900251,2019-11-26,DAL,LAC,24.93,3,11,4,LAC,DAL,foul,2,False,False,Powell S.FOUL (P2.T1) (E.Dalen),,49-64,49,64
+0021900251,2019-11-26,DAL,LAC,24.93,3,11,4,LAC,LAC,ft_make,10,False,False,,Zubac Free Throw 1 of 1 (9 PTS),49-65,49,65
+0021900251,2019-11-26,DAL,LAC,25.2,3,10,48,DAL,DAL,fg_make,1,False,False,Porzingis 13' Jump Shot (13 PTS) (Powell 1 AST),,51-65,51,65
+0021900251,2019-11-26,DAL,LAC,25.55,3,10,27,LAC,LAC,fg_make,80,False,False,,George 17' Step Back Jump Shot (19 PTS),51-67,51,67
+0021900251,2019-11-26,DAL,LAC,25.83,3,10,10,DAL,DAL,tov,1,False,True,Powell Bad Pass Turnover (P2.T14),,51-67,51,67
+0021900251,2019-11-26,DAL,LAC,25.83,3,10,10,DAL,LAC,steal,1,False,True,steal,steal,51-67,51,67
+0021900251,2019-11-26,DAL,LAC,25.87,3,10,8,LAC,DAL,foul,2,False,False,Doncic S.FOUL (P2.T2) (B.Forte),,51-67,51,67
+0021900251,2019-11-26,DAL,LAC,25.87,3,10,8,LAC,LAC,ft_make,11,False,False,,Harkless Free Throw 1 of 2 (1 PTS),51-68,51,68
+0021900251,2019-11-26,DAL,LAC,25.87,3,10,8,LAC,LAC,ft_make,12,False,False,,Harkless Free Throw 2 of 2 (2 PTS),51-69,51,69
+0021900251,2019-11-26,DAL,LAC,26.07,3,9,56,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P6.T15),,51-69,51,69
+0021900251,2019-11-26,DAL,LAC,26.07,3,9,56,DAL,LAC,steal,1,False,True,steal,steal,51-69,51,69
+0021900251,2019-11-26,DAL,LAC,26.15,3,9,51,LAC,LAC,fg_make,5,False,False,,Zubac 2' Layup (11 PTS) (Leonard 4 AST),51-71,51,71
+0021900251,2019-11-26,DAL,LAC,26.15,3,9,51,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 5 Short 0),,51-71,51,71
+0021900251,2019-11-26,DAL,LAC,26.4,3,9,36,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 3PT Jump Shot,,51-71,51,71
+0021900251,2019-11-26,DAL,LAC,26.42,3,9,35,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:3),,51-71,51,71
+0021900251,2019-11-26,DAL,LAC,26.43,3,9,34,DAL,LAC,foul,2,False,False,,Zubac S.FOUL (P3.T2) (E.Dalen),51-71,51,71
+0021900251,2019-11-26,DAL,LAC,26.43,3,9,34,DAL,DAL,ft_make,11,False,False,Finney-Smith Free Throw 1 of 2 (4 PTS),,52-71,52,71
+0021900251,2019-11-26,DAL,LAC,26.43,3,9,34,DAL,DAL,ft_make,12,False,False,Finney-Smith Free Throw 2 of 2 (5 PTS),,53-71,53,71
+0021900251,2019-11-26,DAL,LAC,26.78,3,9,13,LAC,LAC,tov,1,False,True,,Beverley Bad Pass Turnover (P1.T6),53-71,53,71
+0021900251,2019-11-26,DAL,LAC,26.78,3,9,13,LAC,DAL,steal,1,False,True,steal,steal,53-71,53,71
+0021900251,2019-11-26,DAL,LAC,26.85,3,9,9,DAL,LAC,foul,1,False,False,,Beverley P.FOUL (P4.T3) (E.Dalen),53-71,53,71
+0021900251,2019-11-26,DAL,LAC,26.95,3,9,3,DAL,DAL,fg_miss,79,False,False,MISS Porzingis 15' Pullup Jump Shot,,53-71,53,71
+0021900251,2019-11-26,DAL,LAC,27.0,3,9,0,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:3),53-71,53,71
+0021900251,2019-11-26,DAL,LAC,27.12,3,8,53,LAC,LAC,fg_make,79,False,False,,Leonard 15' Pullup Jump Shot (15 PTS),53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.28,3,8,43,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 26' 3PT Jump Shot,,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.32,3,8,41,LAC,LAC,reb,0,False,False,,George REBOUND (Off:1 Def:1),53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.43,3,8,34,LAC,LAC,fg3_miss,1,False,False,,MISS George 27' 3PT Jump Shot,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.45,3,8,33,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.67,3,8,20,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 24' 3PT Jump Shot,,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.72,3,8,17,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:4),53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.87,3,8,8,LAC,LAC,fg_miss,99,False,False,,MISS Zubac 1' Cutting Finger Roll Layup Shot,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.9,3,8,6,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:4),,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.95,3,8,3,DAL,LAC,foul,2,False,False,,Zubac S.FOUL (P4.T4) (G.Petraitis),53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.95,3,8,3,DAL,DAL,ft_miss,11,False,False,MISS Doncic Free Throw 1 of 2,,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.95,3,8,3,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,53-73,53,73
+0021900251,2019-11-26,DAL,LAC,27.95,3,8,3,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (16 PTS),,54-73,54,73
+0021900251,2019-11-26,DAL,LAC,28.32,3,7,41,LAC,LAC,tov,2,False,True,,George Lost Ball Turnover (P1.T7),54-73,54,73
+0021900251,2019-11-26,DAL,LAC,28.32,3,7,41,LAC,DAL,steal,2,False,True,steal,steal,54-73,54,73
+0021900251,2019-11-26,DAL,LAC,28.42,3,7,35,LAC,DAL,foul,4,False,False,Doncic OFF.Foul (P3) (E.Dalen),,54-73,54,73
+0021900251,2019-11-26,DAL,LAC,28.42,3,7,35,DAL,DAL,tov,37,False,False,Doncic Offensive Foul Turnover (P7.T16),,54-73,54,73
+0021900251,2019-11-26,DAL,LAC,28.6,3,7,24,LAC,LAC,tov,4,False,False,,Leonard Traveling Turnover (P2.T8),54-73,54,73
+0021900251,2019-11-26,DAL,LAC,28.87,3,7,8,DAL,DAL,fg_make,1,False,False,Barea 23' Jump Shot (2 PTS),,56-73,56,73
+0021900251,2019-11-26,DAL,LAC,29.1,3,6,54,LAC,LAC,fg_make,101,False,False,,Williams 15' Driving Floating Jump Shot (14 PTS),56-75,56,75
+0021900251,2019-11-26,DAL,LAC,29.32,3,6,41,DAL,DAL,fg3_make,79,False,False,Barea 25' 3PT Pullup Jump Shot (5 PTS),,59-75,59,75
+0021900251,2019-11-26,DAL,LAC,29.58,3,6,25,LAC,DAL,foul,1,False,False,Hardaway Jr. P.FOUL (P3.T3) (G.Petraitis),,59-75,59,75
+0021900251,2019-11-26,DAL,LAC,29.58,3,6,25,LAC,DAL,foul,11,False,False,Hardaway Jr. T.FOUL (P3.T3) (B.Forte),,59-75,59,75
+0021900251,2019-11-26,DAL,LAC,29.58,3,6,25,LAC,LAC,ft_make,16,False,False,,George Free Throw Technical (20 PTS),59-76,59,76
+0021900251,2019-11-26,DAL,LAC,29.72,3,6,17,LAC,DAL,foul,2,False,False,Doncic S.FOUL (P4.T4) (B.Forte),,59-76,59,76
+0021900251,2019-11-26,DAL,LAC,29.72,3,6,17,LAC,LAC,ft_make,11,False,False,,Leonard Free Throw 1 of 2 (16 PTS),59-77,59,77
+0021900251,2019-11-26,DAL,LAC,29.72,3,6,17,LAC,LAC,ft_make,12,False,False,,Leonard Free Throw 2 of 2 (17 PTS),59-78,59,78
+0021900251,2019-11-26,DAL,LAC,30.08,3,5,55,DAL,DAL,fg_miss,102,False,False,MISS Hardaway Jr. 13' Driving Floating Bank Jump Shot,,59-78,59,78
+0021900251,2019-11-26,DAL,LAC,30.13,3,5,52,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:2),59-78,59,78
+0021900251,2019-11-26,DAL,LAC,30.25,3,5,45,LAC,LAC,fg_make,9,False,False,,Leonard 1' Driving Dunk (19 PTS) (Williams 3 AST),59-80,59,80
+0021900251,2019-11-26,DAL,LAC,30.4,3,5,36,DAL,DAL,fg_make,41,False,False,Hardaway Jr. 2' Running Layup (8 PTS) (Barea 1 AST),,61-80,61,80
+0021900251,2019-11-26,DAL,LAC,30.4,3,5,36,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),61-80,61,80
+0021900251,2019-11-26,DAL,LAC,30.63,3,5,22,LAC,LAC,fg_make,6,False,False,,George 1' Driving Layup (22 PTS) (Williams 4 AST),61-82,61,82
+0021900251,2019-11-26,DAL,LAC,30.98,3,5,1,DAL,DAL,fg_make,5,False,False,Doncic 2' Layup (18 PTS),,63-82,63,82
+0021900251,2019-11-26,DAL,LAC,30.98,3,5,1,DAL,LAC,foul,2,False,False,,Harkless S.FOUL (P3.PN) (B.Forte),63-82,63,82
+0021900251,2019-11-26,DAL,LAC,30.98,3,5,1,DAL,DAL,ft_make,10,False,False,Doncic Free Throw 1 of 1 (19 PTS),,64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.32,3,4,41,LAC,LAC,tov,1,False,True,,McGruder Bad Pass Turnover (P1.T9),64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.32,3,4,41,LAC,DAL,steal,1,False,True,steal,steal,64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.33,3,4,40,DAL,LAC,foul,1,False,False,,Harkless P.FOUL (P4.PN) (G.Petraitis),64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.33,3,4,40,DAL,DAL,ft_miss,11,False,False,MISS Porzingis Free Throw 1 of 2,,64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.33,3,4,40,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.33,3,4,40,DAL,DAL,ft_miss,12,False,False,MISS Porzingis Free Throw 2 of 2,,64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.38,3,4,37,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:3),64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.52,3,4,29,LAC,LAC,tov,1,False,True,,Harrell Bad Pass Turnover (P1.T10),64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.52,3,4,29,LAC,DAL,steal,1,False,True,steal,steal,64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.53,3,4,28,DAL,LAC,foul,2,False,False,,Harrell S.FOUL (P1.PN) (E.Dalen),64-82,64,82
+0021900251,2019-11-26,DAL,LAC,31.53,3,4,28,DAL,DAL,ft_make,11,False,False,Porzingis Free Throw 1 of 2 (14 PTS),,65-82,65,82
+0021900251,2019-11-26,DAL,LAC,31.53,3,4,28,DAL,DAL,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (15 PTS),,66-82,66,82
+0021900251,2019-11-26,DAL,LAC,31.7,3,4,18,LAC,LAC,fg3_make,1,False,False,,Williams 26' 3PT Jump Shot (17 PTS),66-85,66,85
+0021900251,2019-11-26,DAL,LAC,31.93,3,4,4,DAL,DAL,fg_miss,73,False,False,MISS Barea 1' Driving Reverse Layup,,66-85,66,85
+0021900251,2019-11-26,DAL,LAC,31.97,3,4,2,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:5),66-85,66,85
+0021900251,2019-11-26,DAL,LAC,32.03,3,3,58,LAC,LAC,fg_miss,41,False,False,,MISS Harrell Running Layup,66-85,66,85
+0021900251,2019-11-26,DAL,LAC,32.1,3,3,54,LAC,LAC,reb,0,False,False,,George REBOUND (Off:2 Def:1),66-85,66,85
+0021900251,2019-11-26,DAL,LAC,32.1,3,3,54,LAC,LAC,fg_make,72,False,False,,George 1' Putback Layup (24 PTS),66-87,66,87
+0021900251,2019-11-26,DAL,LAC,32.35,3,3,39,DAL,DAL,fg3_miss,1,False,False,MISS Wright 25' 3PT Jump Shot,,66-87,66,87
+0021900251,2019-11-26,DAL,LAC,32.4,3,3,36,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:1 Def:8),,66-87,66,87
+0021900251,2019-11-26,DAL,LAC,32.48,3,3,31,DAL,DAL,fg_make,47,False,False,Doncic 3' Turnaround Jump Shot (21 PTS) (Porzingis 1 AST),,68-87,68,87
+0021900251,2019-11-26,DAL,LAC,32.68,3,3,19,LAC,LAC,fg_make,6,False,False,,Williams 1' Driving Layup (19 PTS),68-89,68,89
+0021900251,2019-11-26,DAL,LAC,32.93,3,3,4,DAL,DAL,fg_miss,1,False,False,MISS Barea 21' Jump Shot,,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,32.93,3,3,4,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:2 Def:3),68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.1,3,2,54,LAC,LAC,fg_miss,63,False,False,,MISS George 16' Fadeaway Jumper,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.17,3,2,50,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:2 Def:3),68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.17,3,2,50,LAC,LAC,fg_miss,97,False,False,,MISS Harrell 1' Tip Layup Shot,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.18,3,2,49,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:5),,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.33,3,2,40,DAL,DAL,fg_miss,102,False,False,MISS Porzingis 4' Driving Floating Bank Jump Shot,,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.37,3,2,38,LAC,LAC,reb,0,False,False,,McGruder REBOUND (Off:1 Def:3),68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.58,3,2,25,LAC,LAC,tov,1,False,True,,George Bad Pass Turnover (P2.T11),68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.58,3,2,25,LAC,DAL,steal,1,False,True,steal,steal,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.67,3,2,20,DAL,DAL,fg_miss,41,True,False,MISS Barea 2' Running Layup,,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.67,3,2,20,DAL,LAC,block,41,True,False,block,block,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.72,3,2,17,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:6),68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.78,3,2,13,LAC,LAC,fg3_miss,1,False,False,,MISS George 3PT Jump Shot,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,33.83,3,2,10,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:6),,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,34.03,3,1,58,DAL,LAC,foul,2,False,False,,George S.FOUL (P3.PN) (B.Forte),68-89,68,89
+0021900251,2019-11-26,DAL,LAC,34.03,3,1,58,DAL,DAL,ft_miss,11,False,False,MISS Doncic Free Throw 1 of 2,,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,34.03,3,1,58,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,68-89,68,89
+0021900251,2019-11-26,DAL,LAC,34.03,3,1,58,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (22 PTS),,69-89,69,89
+0021900251,2019-11-26,DAL,LAC,34.22,3,1,47,LAC,LAC,fg_miss,101,False,False,,MISS Williams 10' Driving Floating Jump Shot,69-89,69,89
+0021900251,2019-11-26,DAL,LAC,34.23,3,1,46,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:3 Def:3),69-89,69,89
+0021900251,2019-11-26,DAL,LAC,34.25,3,1,45,LAC,LAC,fg_make,87,False,False,,Harrell 1' Putback Dunk (4 PTS) (Williams 5 AST),69-91,69,91
+0021900251,2019-11-26,DAL,LAC,34.43,3,1,34,DAL,DAL,fg3_make,1,False,False,Curry 3PT Jump Shot (8 PTS) (Wright 1 AST),,72-91,72,91
+0021900251,2019-11-26,DAL,LAC,34.72,3,1,17,LAC,LAC,fg_miss,101,False,False,,MISS Williams 10' Driving Floating Jump Shot,72-91,72,91
+0021900251,2019-11-26,DAL,LAC,34.77,3,1,14,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:0 Def:2),,72-91,72,91
+0021900251,2019-11-26,DAL,LAC,34.9,3,1,6,DAL,DAL,fg3_make,79,False,False,Barea 25' 3PT Pullup Jump Shot (8 PTS),,75-91,75,91
+0021900251,2019-11-26,DAL,LAC,35.08,3,0,55,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P4.T12),75-91,75,91
+0021900251,2019-11-26,DAL,LAC,35.08,3,0,55,LAC,DAL,steal,1,False,True,steal,steal,75-91,75,91
+0021900251,2019-11-26,DAL,LAC,35.32,3,0,41,DAL,DAL,fg_miss,6,False,False,MISS Curry 1' Driving Layup,,75-91,75,91
+0021900251,2019-11-26,DAL,LAC,35.37,3,0,38,DAL,DAL,reb,0,False,False,Wright REBOUND (Off:2 Def:0),,75-91,75,91
+0021900251,2019-11-26,DAL,LAC,35.37,3,0,38,DAL,DAL,fg_miss,97,False,False,MISS Wright 1' Tip Layup Shot,,75-91,75,91
+0021900251,2019-11-26,DAL,LAC,35.38,3,0,37,LAC,LAC,reb,0,False,False,,McGruder REBOUND (Off:1 Def:4),75-91,75,91
+0021900251,2019-11-26,DAL,LAC,35.48,3,0,31,LAC,LAC,fg_make,108,False,False,,Harrell 2' Cutting Dunk Shot (6 PTS) (Williams 6 AST),75-93,75,93
+0021900251,2019-11-26,DAL,LAC,35.88,3,0,7,DAL,DAL,fg_make,1,False,False,Barea 21' Jump Shot (10 PTS),,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.0,3,0,0,LAC,LAC,fg3_miss,1,False,False,,MISS Williams 29' 3PT Jump Shot,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.0,3,0,0,LAC,LAC,reb,0,False,False,,Clippers Rebound,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.0,3,0,0,LAC,,period_end,0,False,False,,,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.0,4,12,0,LAC,,period_start,0,False,False,,,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.32,4,11,41,LAC,LAC,fg3_miss,1,False,False,,MISS Robinson 3PT Jump Shot,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.37,4,11,38,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:2 Def:2),,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.5,4,11,30,DAL,DAL,tov,1,False,True,Wright Bad Pass Turnover (P1.T17),,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.5,4,11,30,DAL,LAC,steal,1,False,True,steal,steal,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.58,4,11,25,LAC,DAL,foul,2,False,False,Brunson S.FOUL (P2.T1) (B.Forte),,77-93,77,93
+0021900251,2019-11-26,DAL,LAC,36.58,4,11,25,LAC,LAC,ft_make,11,False,False,,Williams Free Throw 1 of 2 (20 PTS),77-94,77,94
+0021900251,2019-11-26,DAL,LAC,36.58,4,11,25,LAC,LAC,ft_make,12,False,False,,Williams Free Throw 2 of 2 (21 PTS),77-95,77,95
+0021900251,2019-11-26,DAL,LAC,36.73,4,11,16,DAL,DAL,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,77-95,77,95
+0021900251,2019-11-26,DAL,LAC,36.8,4,11,12,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:2 Def:4),77-95,77,95
+0021900251,2019-11-26,DAL,LAC,36.93,4,11,4,LAC,LAC,fg_miss,79,False,False,,MISS Williams 3' Pullup Jump Shot,77-95,77,95
+0021900251,2019-11-26,DAL,LAC,36.97,4,11,2,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:2 Def:3),,77-95,77,95
+0021900251,2019-11-26,DAL,LAC,37.23,4,10,46,DAL,DAL,fg_miss,5,False,False,MISS Brunson 2' Layup,,77-95,77,95
+0021900251,2019-11-26,DAL,LAC,37.33,4,10,40,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:2 Def:5),77-95,77,95
+0021900251,2019-11-26,DAL,LAC,37.38,4,10,37,LAC,LAC,fg_make,41,False,False,,Harrell 2' Running Layup (8 PTS),77-97,77,97
+0021900251,2019-11-26,DAL,LAC,37.77,4,10,14,DAL,DAL,fg_miss,80,False,False,MISS Brunson 20' Step Back Jump Shot,,77-97,77,97
+0021900251,2019-11-26,DAL,LAC,37.83,4,10,10,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:4),77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.02,4,9,59,LAC,LAC,fg_miss,47,False,False,,MISS Harrell 5' Turnaround Jump Shot,77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.07,4,9,56,DAL,DAL,reb,0,False,False,Wright REBOUND (Off:2 Def:1),,77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.17,4,9,50,DAL,DAL,fg3_miss,79,False,False,MISS Brunson 25' 3PT Pullup Jump Shot,,77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.18,4,9,49,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:5),77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.18,4,9,49,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.37,4,9,38,LAC,LAC,fg3_miss,1,False,False,,MISS Beverley 27' 3PT Jump Shot,77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.43,4,9,34,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:0 Def:3),,77-97,77,97
+0021900251,2019-11-26,DAL,LAC,38.65,4,9,21,DAL,DAL,fg_make,58,False,False,Powell 3' Turnaround Hook Shot (7 PTS),,79-97,79,97
+0021900251,2019-11-26,DAL,LAC,38.65,4,9,21,DAL,LAC,foul,2,False,False,,Leonard S.FOUL (P1.T1) (E.Dalen),79-97,79,97
+0021900251,2019-11-26,DAL,LAC,38.65,4,9,21,DAL,DAL,ft_miss,10,False,False,MISS Powell Free Throw 1 of 1,,79-97,79,97
+0021900251,2019-11-26,DAL,LAC,38.72,4,9,17,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:2 Def:6),79-97,79,97
+0021900251,2019-11-26,DAL,LAC,38.9,4,9,6,LAC,LAC,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,79-97,79,97
+0021900251,2019-11-26,DAL,LAC,38.93,4,9,4,DAL,DAL,reb,0,False,False,Wright REBOUND (Off:2 Def:2),,79-97,79,97
+0021900251,2019-11-26,DAL,LAC,39.0,4,9,0,DAL,LAC,foul,1,False,False,,Green P.FOUL (P2.T2) (B.Forte),79-97,79,97
+0021900251,2019-11-26,DAL,LAC,39.1,4,8,54,DAL,DAL,fg_make,75,False,False,Powell 1' Driving Finger Roll Layup (9 PTS),,81-97,81,97
+0021900251,2019-11-26,DAL,LAC,39.1,4,8,54,DAL,LAC,foul,2,False,False,,Zubac S.FOUL (P5.T3) (E.Dalen),81-97,81,97
+0021900251,2019-11-26,DAL,LAC,39.1,4,8,54,DAL,DAL,ft_make,10,False,False,Powell Free Throw 1 of 1 (10 PTS),,82-97,82,97
+0021900251,2019-11-26,DAL,LAC,39.37,4,8,38,LAC,DAL,foul,2,False,False,Brunson S.FOUL (P3.T2) (G.Petraitis),,82-97,82,97
+0021900251,2019-11-26,DAL,LAC,39.37,4,8,38,LAC,LAC,ft_make,13,False,False,,Leonard Free Throw 1 of 3 (20 PTS),82-98,82,98
+0021900251,2019-11-26,DAL,LAC,39.37,4,8,38,LAC,LAC,ft_make,14,False,False,,Leonard Free Throw 2 of 3 (21 PTS),82-99,82,99
+0021900251,2019-11-26,DAL,LAC,39.37,4,8,38,LAC,LAC,ft_make,15,False,False,,Leonard Free Throw 3 of 3 (22 PTS),82-100,82,100
+0021900251,2019-11-26,DAL,LAC,39.53,4,8,28,DAL,DAL,fg_miss,101,False,False,MISS Brunson 12' Driving Floating Jump Shot,,82-100,82,100
+0021900251,2019-11-26,DAL,LAC,39.58,4,8,25,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:3 Def:4),82-100,82,100
+0021900251,2019-11-26,DAL,LAC,39.8,4,8,12,LAC,LAC,fg3_miss,1,False,False,,MISS Williams 3PT Jump Shot,82-100,82,100
+0021900251,2019-11-26,DAL,LAC,39.85,4,8,9,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:2 Def:4),,82-100,82,100
+0021900251,2019-11-26,DAL,LAC,40.03,4,7,58,DAL,DAL,fg_make,79,False,False,Brunson 15' Pullup Jump Shot (4 PTS),,84-100,84,100
+0021900251,2019-11-26,DAL,LAC,40.32,4,7,41,LAC,LAC,fg_miss,47,False,False,,MISS Beverley 18' Turnaround Jump Shot,84-100,84,100
+0021900251,2019-11-26,DAL,LAC,40.33,4,7,40,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,84-100,84,100
+0021900251,2019-11-26,DAL,LAC,40.53,4,7,28,DAL,DAL,fg_make,99,False,False,Wright 1' Cutting Finger Roll Layup Shot (4 PTS) (Brunson 2 AST),,86-100,86,100
+0021900251,2019-11-26,DAL,LAC,40.53,4,7,28,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.5 Short 0),86-100,86,100
+0021900251,2019-11-26,DAL,LAC,40.85,4,7,9,LAC,LAC,fg_make,1,False,False,,Leonard 9' Jump Shot (24 PTS),86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.17,4,6,50,DAL,DAL,tov,1,False,True,Brunson Bad Pass Turnover (P3.T18),,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.17,4,6,50,DAL,LAC,steal,1,False,True,steal,steal,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.28,4,6,43,DAL,LAC,foul,26,False,False,,Beverley Offensive Charge Foul (P5.T4) (E.Dalen),86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.28,4,6,43,LAC,LAC,tov,37,False,False,,Beverley Offensive Foul Turnover (P2.T13),86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.5,4,6,30,DAL,DAL,tov,45,False,False,Wright Out of Bounds - Bad Pass Turnover Turnover (P2.T19),,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.8,4,6,12,LAC,LAC,fg_miss,6,True,False,,MISS George 3' Driving Layup,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.8,4,6,12,LAC,DAL,block,6,True,False,block,block,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.85,4,6,9,DAL,DAL,reb,0,False,False,Barea REBOUND (Off:0 Def:1),,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.95,4,6,3,DAL,DAL,tov,2,False,True,Wright Lost Ball Turnover (P3.T20),,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.95,4,6,3,DAL,LAC,steal,2,False,True,steal,steal,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.98,4,6,1,LAC,DAL,foul,2,False,False,Powell S.FOUL (P3.T3) (E.Dalen),,86-102,86,102
+0021900251,2019-11-26,DAL,LAC,41.98,4,6,1,LAC,LAC,ft_make,11,False,False,,George Free Throw 1 of 2 (25 PTS),86-103,86,103
+0021900251,2019-11-26,DAL,LAC,41.98,4,6,1,LAC,LAC,ft_make,12,False,False,,George Free Throw 2 of 2 (26 PTS),86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.23,4,5,46,DAL,DAL,fg_miss,6,False,False,MISS Barea 2' Driving Layup,,86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.27,4,5,44,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:6),86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.37,4,5,38,LAC,LAC,fg_miss,63,False,False,,MISS Leonard 13' Fadeaway Jumper,86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.4,4,5,36,DAL,DAL,reb,0,False,False,Barea REBOUND (Off:0 Def:2),,86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.5,4,5,30,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.55,4,5,27,LAC,LAC,reb,0,False,False,,George REBOUND (Off:2 Def:2),86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.73,4,5,16,LAC,LAC,fg_miss,1,False,False,,MISS Leonard 16' Jump Shot,86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.77,4,5,14,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:4 Def:3),86-104,86,104
+0021900251,2019-11-26,DAL,LAC,42.93,4,5,4,LAC,LAC,fg_make,80,False,False,,Leonard 16' Step Back Jump Shot (26 PTS) (George 2 AST),86-106,86,106
+0021900251,2019-11-26,DAL,LAC,43.23,4,4,46,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 27' 3PT Step Back Jump Shot,,86-106,86,106
+0021900251,2019-11-26,DAL,LAC,43.25,4,4,45,LAC,LAC,reb,0,False,False,,Clippers Rebound,86-106,86,106
+0021900251,2019-11-26,DAL,LAC,43.37,4,4,38,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P5.T14),86-106,86,106
+0021900251,2019-11-26,DAL,LAC,43.37,4,4,38,LAC,DAL,steal,1,False,True,steal,steal,86-106,86,106
+0021900251,2019-11-26,DAL,LAC,43.67,4,4,20,DAL,DAL,fg_make,6,False,False,Barea 1' Driving Layup (12 PTS),,88-106,88,106
+0021900251,2019-11-26,DAL,LAC,43.93,4,4,4,LAC,LAC,fg_make,86,False,False,,Leonard 11' Turnaround Fadeaway (28 PTS),88-108,88,108
+0021900251,2019-11-26,DAL,LAC,44.25,4,3,45,DAL,DAL,fg3_miss,1,True,False,MISS Barea 25' 3PT Jump Shot,,88-108,88,108
+0021900251,2019-11-26,DAL,LAC,44.25,4,3,45,DAL,LAC,block,1,True,False,block,block,88-108,88,108
+0021900251,2019-11-26,DAL,LAC,44.25,4,3,45,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:1 Def:7),88-108,88,108
+0021900251,2019-11-26,DAL,LAC,44.55,4,3,27,LAC,DAL,foul,2,False,False,Barea S.FOUL (P1.T4) (E.Dalen),,88-108,88,108
+0021900251,2019-11-26,DAL,LAC,44.55,4,3,27,LAC,LAC,ft_make,11,False,False,,Harrell Free Throw 1 of 2 (9 PTS),88-109,88,109
+0021900251,2019-11-26,DAL,LAC,44.55,4,3,27,LAC,LAC,ft_make,12,False,False,,Harrell Free Throw 2 of 2 (10 PTS),88-110,88,110
+0021900251,2019-11-26,DAL,LAC,44.83,4,3,10,DAL,DAL,fg_miss,1,False,False,MISS Barea 15' Jump Shot,,88-110,88,110
+0021900251,2019-11-26,DAL,LAC,44.88,4,3,7,LAC,LAC,reb,0,False,False,,Robinson REBOUND (Off:0 Def:1),88-110,88,110
+0021900251,2019-11-26,DAL,LAC,44.97,4,3,2,LAC,LAC,fg_make,108,False,False,,Harrell Cutting Dunk Shot (12 PTS) (Robinson 1 AST),88-112,88,112
+0021900251,2019-11-26,DAL,LAC,45.0,4,3,0,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 6 Short 0),,88-112,88,112
+0021900251,2019-11-26,DAL,LAC,45.28,4,2,43,DAL,DAL,fg_make,75,False,False,Finney-Smith 1' Driving Finger Roll Layup (7 PTS),,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.6,4,2,24,LAC,LAC,fg3_miss,1,False,False,,MISS McGruder 25' 3PT Jump Shot,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.65,4,2,21,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:1 Def:9),,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.75,4,2,15,DAL,DAL,fg3_miss,79,False,False,MISS Doncic 25' 3PT Pullup Jump Shot,,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.78,4,2,13,LAC,LAC,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.87,4,2,8,LAC,DAL,foul,1,False,False,Hardaway Jr. P.FOUL (P4.PN) (B.Forte),,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.87,4,2,8,LAC,LAC,ft_miss,11,False,False,,MISS Robinson Free Throw 1 of 2,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.87,4,2,8,LAC,LAC,reb,1,False,False,,Clippers Rebound,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.87,4,2,8,LAC,LAC,ft_miss,12,False,False,,MISS Robinson Free Throw 2 of 2,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,45.9,4,2,6,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:0 Def:1),,90-112,90,112
+0021900251,2019-11-26,DAL,LAC,46.18,4,1,49,DAL,DAL,fg_make,58,False,False,Marjanovic 6' Turnaround Hook Shot (2 PTS),,92-112,92,112
+0021900251,2019-11-26,DAL,LAC,46.42,4,1,35,LAC,LAC,fg3_miss,1,False,False,,MISS Patterson 25' 3PT Jump Shot,92-112,92,112
+0021900251,2019-11-26,DAL,LAC,46.47,4,1,32,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:0 Def:2),,92-112,92,112
+0021900251,2019-11-26,DAL,LAC,46.52,4,1,29,DAL,LAC,foul,1,False,False,,Patterson P.FOUL (P1.PN) (B.Forte),92-112,92,112
+0021900251,2019-11-26,DAL,LAC,46.58,4,1,25,DAL,DAL,fg_miss,3,False,False,MISS Marjanovic 5' Hook Shot,,92-112,92,112
+0021900251,2019-11-26,DAL,LAC,46.62,4,1,23,LAC,LAC,reb,0,False,False,,Patterson REBOUND (Off:0 Def:1),92-112,92,112
+0021900251,2019-11-26,DAL,LAC,46.77,4,1,14,LAC,LAC,fg_make,79,False,False,,Robinson 18' Pullup Jump Shot (2 PTS),92-114,92,114
+0021900251,2019-11-26,DAL,LAC,46.9,4,1,6,DAL,DAL,fg_make,101,False,False,Curry 10' Driving Floating Jump Shot (10 PTS) (Brunson 3 AST),,94-114,94,114
+0021900251,2019-11-26,DAL,LAC,47.07,4,0,56,LAC,DAL,foul,1,False,False,Marjanovic P.FOUL (P2.PN) (G.Petraitis),,94-114,94,114
+0021900251,2019-11-26,DAL,LAC,47.07,4,0,56,LAC,LAC,ft_miss,11,False,False,,MISS Patterson Free Throw 1 of 2,94-114,94,114
+0021900251,2019-11-26,DAL,LAC,47.07,4,0,56,LAC,LAC,reb,1,False,False,,Clippers Rebound,94-114,94,114
+0021900251,2019-11-26,DAL,LAC,47.07,4,0,56,LAC,LAC,ft_miss,12,False,False,,MISS Patterson Free Throw 2 of 2,94-114,94,114
+0021900251,2019-11-26,DAL,LAC,47.1,4,0,54,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:0 Def:3),,94-114,94,114
+0021900251,2019-11-26,DAL,LAC,47.47,4,0,32,DAL,DAL,fg3_make,1,False,False,Curry 25' 3PT Jump Shot (13 PTS) (Brunson 4 AST),,97-114,97,114
+0021900251,2019-11-26,DAL,LAC,47.7,4,0,18,LAC,LAC,fg_miss,79,False,False,,MISS Mann 18' Pullup Jump Shot,97-114,97,114
+0021900251,2019-11-26,DAL,LAC,47.75,4,0,15,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:0 Def:4),,97-114,97,114
+0021900251,2019-11-26,DAL,LAC,47.92,4,0,5,DAL,LAC,foul,2,False,False,,Robinson S.FOUL (P3.PN) (B.Forte),97-114,97,114
+0021900251,2019-11-26,DAL,LAC,47.92,4,0,5,DAL,DAL,ft_make,11,False,False,Marjanovic Free Throw 1 of 2 (3 PTS),,98-114,98,114
+0021900251,2019-11-26,DAL,LAC,47.92,4,0,5,DAL,DAL,ft_make,12,False,False,Marjanovic Free Throw 2 of 2 (4 PTS),,99-114,99,114
+0021900251,2019-11-26,DAL,LAC,48.0,4,0,0,DAL,,period_end,0,False,False,,,99-114,99,114

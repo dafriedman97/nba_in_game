@@ -1,0 +1,451 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100663,2022-01-17,DAL,OKC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100663,2022-01-17,DAL,OKC,0.0,1,12,0,,DAL,jump_ball,0,False,False,Jump Ball Porzingis vs. Robinson-Earl: Tip to Kleber,,0-0,0,0
+0022100663,2022-01-17,DAL,OKC,0.2,1,11,48,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,0-0,0,0
+0022100663,2022-01-17,DAL,OKC,0.2,1,11,48,DAL,OKC,block,98,True,False,block,block,0-0,0,0
+0022100663,2022-01-17,DAL,OKC,0.2,1,11,48,DAL,DAL,fg_miss,98,True,False,MISS Finney-Smith 3' Cutting Layup Shot,,0-0,0,0
+0022100663,2022-01-17,DAL,OKC,0.23,1,11,46,DAL,DAL,fg_make,1,False,False,Porzingis 20' Jump Shot (2 PTS) (Doncic 1 AST),,2-0,2,0
+0022100663,2022-01-17,DAL,OKC,0.57,1,11,26,OKC,OKC,fg_miss,6,True,False,,MISS Bazley 2' Driving Layup,2-0,2,0
+0022100663,2022-01-17,DAL,OKC,0.57,1,11,26,OKC,DAL,block,6,True,False,block,block,2-0,2,0
+0022100663,2022-01-17,DAL,OKC,0.62,1,11,23,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:1),,2-0,2,0
+0022100663,2022-01-17,DAL,OKC,0.67,1,11,20,DAL,DAL,fg3_make,1,False,False,Porzingis 25' 3PT Jump Shot (5 PTS) (Brunson 1 AST),,5-0,5,0
+0022100663,2022-01-17,DAL,OKC,0.83,1,11,10,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P1.T1),5-0,5,0
+0022100663,2022-01-17,DAL,OKC,0.83,1,11,10,OKC,DAL,steal,1,False,True,steal,steal,5-0,5,0
+0022100663,2022-01-17,DAL,OKC,0.92,1,11,5,DAL,DAL,tov,2,False,True,Porzingis Lost Ball Turnover (P1.T1),,5-0,5,0
+0022100663,2022-01-17,DAL,OKC,0.92,1,11,5,DAL,OKC,steal,2,False,True,steal,steal,5-0,5,0
+0022100663,2022-01-17,DAL,OKC,1.03,1,10,58,OKC,OKC,fg3_make,1,False,False,,Dort 3PT Jump Shot (3 PTS) (Robinson-Earl 1 AST),5-3,5,3
+0022100663,2022-01-17,DAL,OKC,1.35,1,10,39,DAL,DAL,fg_make,57,False,False,Porzingis 4' Driving Hook Shot (7 PTS) (Doncic 2 AST),,7-3,7,3
+0022100663,2022-01-17,DAL,OKC,1.68,1,10,19,OKC,OKC,fg3_miss,1,False,False,,MISS Dort 27' 3PT Jump Shot,7-3,7,3
+0022100663,2022-01-17,DAL,OKC,1.73,1,10,16,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:1),,7-3,7,3
+0022100663,2022-01-17,DAL,OKC,2.0,1,10,0,DAL,DAL,fg3_make,1,False,False,Kleber 24' 3PT Jump Shot (3 PTS) (Doncic 3 AST),,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.27,1,9,44,OKC,DAL,block,101,True,False,block,block,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.27,1,9,44,OKC,OKC,fg_miss,101,True,False,,MISS Bazley 6' Driving Floating Jump Shot,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.32,1,9,41,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:2),,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.45,1,9,33,DAL,DAL,fg_miss,63,False,False,MISS Doncic 14' Fadeaway Jumper,,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.5,1,9,30,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:1),10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.62,1,9,23,OKC,OKC,fg_miss,102,False,False,,MISS Gilgeous-Alexander 8' Driving Floating Bank Jump Shot,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.65,1,9,21,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:1 Def:0),10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.68,1,9,19,OKC,OKC,fg_miss,97,False,False,,MISS Giddey 1' Tip Layup Shot,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.72,1,9,17,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:1),,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.87,1,9,8,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 26' 3PT Jump Shot,,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.92,1,9,5,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:0),,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.95,1,9,3,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 27' 3PT Jump Shot,,10-3,10,3
+0022100663,2022-01-17,DAL,OKC,2.98,1,9,1,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:1),10-3,10,3
+0022100663,2022-01-17,DAL,OKC,3.08,1,8,55,OKC,OKC,fg_make,6,False,False,,Gilgeous-Alexander 3' Driving Layup (2 PTS),10-5,10,5
+0022100663,2022-01-17,DAL,OKC,3.18,1,8,49,DAL,OKC,foul,2,False,False,,Bazley S.FOUL (P1.T1) (M.Ervin),10-5,10,5
+0022100663,2022-01-17,DAL,OKC,3.18,1,8,49,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (1 PTS),,11-5,11,5
+0022100663,2022-01-17,DAL,OKC,3.18,1,8,49,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (2 PTS),,12-5,12,5
+0022100663,2022-01-17,DAL,OKC,3.27,1,8,44,OKC,DAL,foul,2,False,False,Finney-Smith S.FOUL (P1.T1) (M.Ervin),,12-5,12,5
+0022100663,2022-01-17,DAL,OKC,3.27,1,8,44,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (3 PTS),12-6,12,6
+0022100663,2022-01-17,DAL,OKC,3.27,1,8,44,OKC,OKC,ft_miss,12,False,False,,MISS Gilgeous-Alexander Free Throw 2 of 2,12-6,12,6
+0022100663,2022-01-17,DAL,OKC,3.3,1,8,42,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:1),,12-6,12,6
+0022100663,2022-01-17,DAL,OKC,3.52,1,8,29,DAL,DAL,fg_make,63,False,False,Doncic 14' Fadeaway Jumper (4 PTS),,14-6,14,6
+0022100663,2022-01-17,DAL,OKC,3.67,1,8,20,OKC,DAL,block,6,True,False,block,block,14-6,14,6
+0022100663,2022-01-17,DAL,OKC,3.67,1,8,20,OKC,OKC,reb,0,False,False,,Thunder Rebound,14-6,14,6
+0022100663,2022-01-17,DAL,OKC,3.67,1,8,20,OKC,OKC,fg_miss,6,True,False,,MISS Robinson-Earl 3' Driving Layup,14-6,14,6
+0022100663,2022-01-17,DAL,OKC,3.72,1,8,17,OKC,OKC,fg3_make,1,False,False,,Robinson-Earl 3PT Jump Shot (3 PTS) (Giddey 1 AST),14-9,14,9
+0022100663,2022-01-17,DAL,OKC,3.97,1,8,2,DAL,DAL,fg_miss,79,False,False,MISS Brunson 19' Pullup Jump Shot,,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.03,1,7,58,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:2),14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.25,1,7,45,OKC,OKC,fg3_miss,1,False,False,,MISS Robinson-Earl 3PT Jump Shot,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.3,1,7,42,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:2),,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.48,1,7,31,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 26' 3PT Jump Shot,,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.55,1,7,27,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:0),,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.62,1,7,23,DAL,OKC,steal,1,False,True,steal,steal,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.62,1,7,23,DAL,DAL,tov,1,False,True,Finney-Smith Bad Pass Turnover (P1.T2),,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.72,1,7,17,OKC,OKC,fg3_miss,1,False,False,,MISS Giddey 25' 3PT Jump Shot,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.77,1,7,14,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:2),,14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.97,1,7,2,DAL,OKC,foul,2,False,False,,Dort S.FOUL (P1.T2) (S.Mehta),14-9,14,9
+0022100663,2022-01-17,DAL,OKC,4.97,1,7,2,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (5 PTS),,15-9,15,9
+0022100663,2022-01-17,DAL,OKC,4.97,1,7,2,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (6 PTS),,16-9,16,9
+0022100663,2022-01-17,DAL,OKC,5.17,1,6,50,OKC,OKC,fg_miss,6,False,False,,MISS Dort 8' Driving Layup,16-9,16,9
+0022100663,2022-01-17,DAL,OKC,5.22,1,6,47,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:0 Def:1),,16-9,16,9
+0022100663,2022-01-17,DAL,OKC,5.28,1,6,43,DAL,DAL,fg3_miss,1,False,False,MISS Brunson 26' 3PT Jump Shot,,16-9,16,9
+0022100663,2022-01-17,DAL,OKC,5.37,1,6,38,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:0 Def:1),16-9,16,9
+0022100663,2022-01-17,DAL,OKC,5.5,1,6,30,OKC,OKC,fg3_make,1,False,False,,Dort 25' 3PT Jump Shot (6 PTS) (Giddey 2 AST),16-12,16,12
+0022100663,2022-01-17,DAL,OKC,5.77,1,6,14,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 30' 3PT Jump Shot,,16-12,16,12
+0022100663,2022-01-17,DAL,OKC,5.83,1,6,10,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:1 Def:1),16-12,16,12
+0022100663,2022-01-17,DAL,OKC,5.9,1,6,6,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 1 Short 0),,16-14,16,14
+0022100663,2022-01-17,DAL,OKC,5.9,1,6,6,OKC,OKC,fg_make,2,False,False,,Giddey 12' Running Jump Shot (2 PTS),16-14,16,14
+0022100663,2022-01-17,DAL,OKC,6.27,1,5,44,DAL,DAL,fg3_miss,1,False,False,MISS Brunson 26' 3PT Jump Shot,,16-14,16,14
+0022100663,2022-01-17,DAL,OKC,6.33,1,5,40,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:2),,16-14,16,14
+0022100663,2022-01-17,DAL,OKC,6.45,1,5,33,DAL,DAL,fg3_make,1,False,False,Kleber 3PT Jump Shot (6 PTS) (Brunson 2 AST),,19-14,19,14
+0022100663,2022-01-17,DAL,OKC,6.82,1,5,11,OKC,OKC,fg_make,75,False,False,,Gilgeous-Alexander 4' Driving Finger Roll Layup (5 PTS) (Dort 1 AST),19-16,19,16
+0022100663,2022-01-17,DAL,OKC,7.1,1,4,54,DAL,DAL,fg_make,102,False,False,Doncic 13' Driving Floating Bank Jump Shot (8 PTS) (Powell 1 AST),,21-16,21,16
+0022100663,2022-01-17,DAL,OKC,7.38,1,4,37,OKC,OKC,fg3_miss,1,False,False,,MISS Robinson-Earl 25' 3PT Jump Shot,21-16,21,16
+0022100663,2022-01-17,DAL,OKC,7.4,1,4,36,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,21-16,21,16
+0022100663,2022-01-17,DAL,OKC,7.65,1,4,21,DAL,DAL,fg_miss,105,False,False,MISS Green 7' Turnaround Fadeaway Bank Jump Shot,,21-16,21,16
+0022100663,2022-01-17,DAL,OKC,7.68,1,4,19,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:1),21-16,21,16
+0022100663,2022-01-17,DAL,OKC,7.85,1,4,9,OKC,DAL,foul,1,False,False,Powell P.FOUL (P1.T2) (M.Ervin),,21-16,21,16
+0022100663,2022-01-17,DAL,OKC,8.02,1,3,59,OKC,OKC,fg_make,102,False,False,,Gilgeous-Alexander 11' Driving Floating Bank Jump Shot (7 PTS),21-18,21,18
+0022100663,2022-01-17,DAL,OKC,8.35,1,3,39,DAL,DAL,fg3_miss,79,False,False,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,,21-18,21,18
+0022100663,2022-01-17,DAL,OKC,8.38,1,3,37,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:1 Def:1),,21-18,21,18
+0022100663,2022-01-17,DAL,OKC,8.47,1,3,32,DAL,DAL,fg3_make,1,False,False,Finney-Smith 27' 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),,24-18,24,18
+0022100663,2022-01-17,DAL,OKC,8.52,1,3,29,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),24-18,24,18
+0022100663,2022-01-17,DAL,OKC,8.7,1,3,18,OKC,OKC,fg_make,79,False,False,,Mann 22' Pullup Jump Shot (2 PTS),24-20,24,20
+0022100663,2022-01-17,DAL,OKC,8.97,1,3,2,DAL,DAL,fg_make,98,False,False,Powell 2' Cutting Layup Shot (2 PTS) (Green 1 AST),,26-20,26,20
+0022100663,2022-01-17,DAL,OKC,9.2,1,2,48,OKC,OKC,fg_miss,6,False,False,,MISS Gilgeous-Alexander 1' Driving Layup,26-20,26,20
+0022100663,2022-01-17,DAL,OKC,9.22,1,2,47,OKC,OKC,reb,0,False,False,,Thunder Rebound,26-20,26,20
+0022100663,2022-01-17,DAL,OKC,9.35,1,2,39,OKC,OKC,fg_miss,79,False,False,,MISS Mann 19' Pullup Jump Shot,26-20,26,20
+0022100663,2022-01-17,DAL,OKC,9.43,1,2,34,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:1),,26-20,26,20
+0022100663,2022-01-17,DAL,OKC,9.52,1,2,29,DAL,DAL,fg_miss,101,False,False,MISS Hardaway Jr. 6' Driving Floating Jump Shot,,26-20,26,20
+0022100663,2022-01-17,DAL,OKC,9.53,1,2,28,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,26-20,26,20
+0022100663,2022-01-17,DAL,OKC,9.62,1,2,23,DAL,DAL,fg_make,44,False,False,Powell 3' Reverse Layup (4 PTS) (Brunson 3 AST),,28-20,28,20
+0022100663,2022-01-17,DAL,OKC,9.93,1,2,4,OKC,DAL,steal,1,False,True,steal,steal,28-20,28,20
+0022100663,2022-01-17,DAL,OKC,9.93,1,2,4,OKC,OKC,tov,1,False,True,,Mann Bad Pass Turnover (P1.T2),28-20,28,20
+0022100663,2022-01-17,DAL,OKC,10.33,1,1,40,DAL,DAL,fg_miss,80,False,False,MISS Brunson 18' Step Back Jump Shot,,28-20,28,20
+0022100663,2022-01-17,DAL,OKC,10.4,1,1,36,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:1),28-20,28,20
+0022100663,2022-01-17,DAL,OKC,10.52,1,1,29,OKC,OKC,fg_miss,6,False,False,,MISS Gilgeous-Alexander 3' Driving Layup,28-20,28,20
+0022100663,2022-01-17,DAL,OKC,10.57,1,1,26,DAL,DAL,reb,0,False,False,Hardaway Jr. REBOUND (Off:0 Def:1),,28-20,28,20
+0022100663,2022-01-17,DAL,OKC,10.63,1,1,22,DAL,DAL,ft_make,11,False,False,Powell Free Throw 1 of 2 (5 PTS),,29-20,29,20
+0022100663,2022-01-17,DAL,OKC,10.63,1,1,22,DAL,OKC,foul,2,False,False,,Gilgeous-Alexander S.FOUL (P1.T3) (S.Mehta),28-20,28,20
+0022100663,2022-01-17,DAL,OKC,10.63,1,1,22,DAL,DAL,ft_make,12,False,False,Powell Free Throw 2 of 2 (6 PTS),,30-20,30,20
+0022100663,2022-01-17,DAL,OKC,10.98,1,1,1,OKC,OKC,fg_make,108,False,False,,Muscala 2' Cutting Dunk Shot (2 PTS) (Mann 1 AST),30-22,30,22
+0022100663,2022-01-17,DAL,OKC,11.18,1,0,49,DAL,OKC,foul,2,False,False,,Muscala S.FOUL (P1.PN) (M.Ervin),30-22,30,22
+0022100663,2022-01-17,DAL,OKC,11.18,1,0,49,DAL,DAL,ft_make,11,False,False,Powell Free Throw 1 of 2 (7 PTS),,31-22,31,22
+0022100663,2022-01-17,DAL,OKC,11.18,1,0,49,DAL,DAL,ft_make,12,False,False,Powell Free Throw 2 of 2 (8 PTS),,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.45,1,0,33,OKC,OKC,reb,1,False,False,,Thunder Rebound,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.45,1,0,33,OKC,DAL,foul,2,False,False,Brown S.FOUL (P1.T3) (S.Mehta),,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.45,1,0,33,OKC,OKC,ft_miss,11,False,False,,MISS Mann Free Throw 1 of 2,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.45,1,0,33,OKC,OKC,ft_miss,12,False,False,,MISS Mann Free Throw 2 of 2,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.48,1,0,31,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:3),,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.65,1,0,21,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.65,1,0,21,DAL,OKC,foul,2,False,False,,Mann S.FOUL (P1.PN) (S.Mehta),32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.65,1,0,21,DAL,DAL,ft_miss,11,False,False,MISS Doncic Free Throw 1 of 2,,32-22,32,22
+0022100663,2022-01-17,DAL,OKC,11.65,1,0,21,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (9 PTS),,33-22,33,22
+0022100663,2022-01-17,DAL,OKC,11.98,1,0,1,OKC,DAL,foul,1,False,False,Brown P.FOUL (P2.PN) (S.Mehta),,33-22,33,22
+0022100663,2022-01-17,DAL,OKC,11.98,1,0,1,OKC,OKC,ft_make,11,False,False,,Dort Free Throw 1 of 2 (7 PTS),33-23,33,23
+0022100663,2022-01-17,DAL,OKC,11.98,1,0,1,OKC,OKC,ft_make,12,False,False,,Dort Free Throw 2 of 2 (8 PTS),33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.0,1,0,0,DAL,DAL,fg_miss,2,False,False,MISS Green 8' Running Jump Shot,,33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.0,2,12,0,DAL,,period_start,0,False,False,,,33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.0,1,0,0,DAL,,period_end,0,False,False,,,33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.0,1,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.25,2,11,45,OKC,OKC,fg3_miss,1,False,False,,MISS Jerome 24' 3PT Jump Shot,33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.3,2,11,42,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:3),,33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.43,2,11,34,DAL,OKC,foul,1,False,False,,Diakite P.FOUL (P1.T1) (J.Williams),33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.68,2,11,19,DAL,DAL,fg3_miss,1,False,False,MISS Brown 26' 3PT Jump Shot,,33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.75,2,11,15,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:1),33-24,33,24
+0022100663,2022-01-17,DAL,OKC,12.85,2,11,9,OKC,OKC,fg_make,6,False,False,,Dort 8' Driving Layup (10 PTS),33-26,33,26
+0022100663,2022-01-17,DAL,OKC,12.97,2,11,2,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:3),33-26,33,26
+0022100663,2022-01-17,DAL,OKC,12.97,2,11,2,DAL,DAL,fg_miss,2,False,False,MISS Hardaway Jr. 5' Running Jump Shot,,33-26,33,26
+0022100663,2022-01-17,DAL,OKC,13.18,2,10,49,OKC,OKC,fg_make,98,False,False,,Giddey 3' Cutting Layup Shot (4 PTS) (Bazley 1 AST),33-28,33,28
+0022100663,2022-01-17,DAL,OKC,13.48,2,10,31,DAL,DAL,tov,1,False,True,Brown Bad Pass Turnover (P1.T3),,33-28,33,28
+0022100663,2022-01-17,DAL,OKC,13.48,2,10,31,DAL,OKC,steal,1,False,True,steal,steal,33-28,33,28
+0022100663,2022-01-17,DAL,OKC,13.55,2,10,27,OKC,OKC,tov,2,False,True,,Giddey Lost Ball Turnover (P2.T3),33-28,33,28
+0022100663,2022-01-17,DAL,OKC,13.55,2,10,27,OKC,DAL,steal,2,False,True,steal,steal,33-28,33,28
+0022100663,2022-01-17,DAL,OKC,13.6,2,10,24,DAL,DAL,fg_make,41,False,False,Green 2' Running Layup (2 PTS),,35-28,35,28
+0022100663,2022-01-17,DAL,OKC,13.83,2,10,10,OKC,OKC,tov,1,False,True,,Dort Bad Pass Turnover (P1.T4),35-28,35,28
+0022100663,2022-01-17,DAL,OKC,13.83,2,10,10,OKC,DAL,steal,1,False,True,steal,steal,35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.03,2,9,58,DAL,OKC,foul,1,False,False,,Diakite P.FOUL (P2.T2) (M.Ervin),35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.17,2,9,50,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 25' 3PT Jump Shot,,35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.23,2,9,46,OKC,OKC,reb,0,False,False,,Diakite REBOUND (Off:0 Def:1),35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.37,2,9,38,OKC,OKC,fg_miss,6,False,False,,MISS Bazley 5' Driving Layup,35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.38,2,9,37,DAL,DAL,reb,0,False,False,Hardaway Jr. REBOUND (Off:0 Def:2),,35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.58,2,9,25,DAL,DAL,fg3_miss,1,False,False,MISS Ntilikina 24' 3PT Jump Shot,,35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.65,2,9,21,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:2),35-28,35,28
+0022100663,2022-01-17,DAL,OKC,14.8,2,9,12,OKC,OKC,fg_make,101,False,False,,Dort 4' Driving Floating Jump Shot (12 PTS) (Jerome 1 AST),35-30,35,30
+0022100663,2022-01-17,DAL,OKC,14.98,2,9,1,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 24' 3PT Jump Shot,,35-30,35,30
+0022100663,2022-01-17,DAL,OKC,15.05,2,8,57,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:1 Def:2),35-30,35,30
+0022100663,2022-01-17,DAL,OKC,15.22,2,8,47,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 3PT Jump Shot,35-30,35,30
+0022100663,2022-01-17,DAL,OKC,15.27,2,8,44,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:4),,35-30,35,30
+0022100663,2022-01-17,DAL,OKC,15.48,2,8,31,DAL,DAL,fg_make,66,False,False,Porzingis 12' Jump Bank Shot (9 PTS) (Ntilikina 1 AST),,37-30,37,30
+0022100663,2022-01-17,DAL,OKC,15.77,2,8,14,OKC,OKC,fg_miss,73,False,False,,MISS Giddey 3' Driving Reverse Layup,37-30,37,30
+0022100663,2022-01-17,DAL,OKC,15.78,2,8,13,OKC,OKC,reb,0,False,False,,Diakite REBOUND (Off:1 Def:1),37-30,37,30
+0022100663,2022-01-17,DAL,OKC,15.8,2,8,12,OKC,OKC,fg_make,87,False,False,,Diakite 1' Putback Dunk (2 PTS),37-32,37,32
+0022100663,2022-01-17,DAL,OKC,15.98,2,8,1,DAL,DAL,fg_make,52,False,False,Hardaway Jr. 2' Alley Oop Dunk (2 PTS) (Doncic 4 AST),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,15.98,2,8,1,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.22,2,7,47,OKC,OKC,tov,45,False,False,,Giddey Out of Bounds - Bad Pass Turnover Turnover (P3.T5),39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.43,2,7,34,DAL,DAL,fg_miss,79,False,False,MISS Kleber 15' Pullup Jump Shot,,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.48,2,7,31,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:4),39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.6,2,7,24,OKC,DAL,foul,1,False,False,Porzingis P.FOUL (P1.T1) (J.Williams),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.68,2,7,19,OKC,OKC,fg_miss,6,False,False,,MISS Giddey 3' Driving Layup,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.73,2,7,16,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:2),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.78,2,7,13,DAL,DAL,fg_miss,41,False,False,MISS Doncic 2' Running Layup,,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,16.82,2,7,11,OKC,OKC,reb,0,False,False,,Thunder Rebound,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.05,2,6,57,OKC,DAL,foul,1,False,False,Porzingis P.FOUL (P2.T2) (M.Ervin),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.15,2,6,51,OKC,OKC,fg3_miss,1,False,False,,MISS Dort 27' 3PT Jump Shot,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.22,2,6,47,DAL,DAL,reb,0,False,False,Ntilikina REBOUND (Off:0 Def:1),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.27,2,6,44,DAL,OKC,foul,1,False,False,,Mann P.FOUL (P2.T3) (M.Ervin),39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.38,2,6,37,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 25' 3PT Jump Shot,,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.42,2,6,35,OKC,OKC,reb,0,False,False,,Thunder Rebound,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.63,2,6,22,OKC,OKC,fg3_miss,79,False,False,,MISS Mann 27' 3PT Pullup Jump Shot,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.68,2,6,19,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:5),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.95,2,6,3,DAL,OKC,steal,1,False,True,steal,steal,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,17.95,2,6,3,DAL,DAL,tov,1,False,True,Porzingis Bad Pass Turnover (P2.T4),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,18.13,2,5,52,OKC,DAL,foul,2,False,False,Porzingis S.FOUL (P3.T3) (M.Ervin),,39-32,39,32
+0022100663,2022-01-17,DAL,OKC,18.13,2,5,52,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (8 PTS),39-33,39,33
+0022100663,2022-01-17,DAL,OKC,18.13,2,5,52,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (9 PTS),39-34,39,34
+0022100663,2022-01-17,DAL,OKC,18.43,2,5,34,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 24' 3PT Jump Shot,,39-34,39,34
+0022100663,2022-01-17,DAL,OKC,18.48,2,5,31,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:2),39-34,39,34
+0022100663,2022-01-17,DAL,OKC,18.72,2,5,17,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,39-34,39,34
+0022100663,2022-01-17,DAL,OKC,18.72,2,5,17,OKC,OKC,fg_miss,47,False,False,,MISS Robinson-Earl 11' Turnaround Jump Shot,39-34,39,34
+0022100663,2022-01-17,DAL,OKC,18.98,2,5,1,DAL,DAL,fg_make,79,False,False,Brunson 19' Pullup Jump Shot (2 PTS),,41-34,41,34
+0022100663,2022-01-17,DAL,OKC,19.33,2,4,40,OKC,DAL,foul,2,False,False,Green S.FOUL (P1.T4) (M.Ervin),,41-34,41,34
+0022100663,2022-01-17,DAL,OKC,19.33,2,4,40,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (11 PTS),41-36,41,36
+0022100663,2022-01-17,DAL,OKC,19.33,2,4,40,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (10 PTS),41-35,41,35
+0022100663,2022-01-17,DAL,OKC,19.6,2,4,24,DAL,DAL,fg_miss,79,False,False,MISS Brunson 14' Pullup Jump Shot,,41-36,41,36
+0022100663,2022-01-17,DAL,OKC,19.65,2,4,21,OKC,OKC,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (2 PTS),41-38,41,38
+0022100663,2022-01-17,DAL,OKC,19.65,2,4,21,OKC,OKC,ft_make,11,False,False,,Wiggins Free Throw 1 of 2 (1 PTS),41-37,41,37
+0022100663,2022-01-17,DAL,OKC,19.65,2,4,21,OKC,DAL,foul,28,False,False,Brunson Personal Take Foul (P1.PN) (S.Mehta),,41-36,41,36
+0022100663,2022-01-17,DAL,OKC,19.65,2,4,21,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:2),41-36,41,36
+0022100663,2022-01-17,DAL,OKC,19.87,2,4,8,DAL,DAL,fg_miss,57,False,False,MISS Green 5' Driving Hook Shot,,41-38,41,38
+0022100663,2022-01-17,DAL,OKC,19.93,2,4,4,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:0 Def:2),41-38,41,38
+0022100663,2022-01-17,DAL,OKC,20.12,2,3,53,OKC,OKC,fg_make,73,False,False,,Robinson-Earl 2' Driving Reverse Layup (5 PTS),41-40,41,40
+0022100663,2022-01-17,DAL,OKC,20.13,2,3,52,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 2 Short 0),,41-40,41,40
+0022100663,2022-01-17,DAL,OKC,20.38,2,3,37,DAL,DAL,fg3_make,1,False,False,Finney-Smith 26' 3PT Jump Shot (6 PTS) (Doncic 5 AST),,44-40,44,40
+0022100663,2022-01-17,DAL,OKC,20.68,2,3,19,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 26' 3PT Jump Shot,44-40,44,40
+0022100663,2022-01-17,DAL,OKC,20.77,2,3,14,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:2),,44-40,44,40
+0022100663,2022-01-17,DAL,OKC,20.82,2,3,11,DAL,OKC,foul,2,False,False,,Robinson-Earl S.FOUL (P1.T4) (J.Williams),44-40,44,40
+0022100663,2022-01-17,DAL,OKC,20.82,2,3,11,DAL,DAL,ft_miss,11,False,False,MISS Finney-Smith Free Throw 1 of 2,,44-40,44,40
+0022100663,2022-01-17,DAL,OKC,20.82,2,3,11,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,44-40,44,40
+0022100663,2022-01-17,DAL,OKC,20.82,2,3,11,DAL,DAL,ft_make,12,False,False,Finney-Smith Free Throw 2 of 2 (7 PTS),,45-40,45,40
+0022100663,2022-01-17,DAL,OKC,20.95,2,3,3,OKC,OKC,fg3_miss,1,False,False,,MISS Wiggins 3PT Jump Shot,45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.0,2,3,0,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:3),,45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.12,2,2,53,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 25' 3PT Step Back Jump Shot,,45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.2,2,2,48,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:3),45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.35,2,2,39,OKC,OKC,tov,2,False,True,,Muscala Lost Ball Turnover (P1.T6),45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.35,2,2,39,OKC,DAL,steal,2,False,True,steal,steal,45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.42,2,2,35,DAL,DAL,tov,1,False,True,Finney-Smith Bad Pass Turnover (P2.T5),,45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.42,2,2,35,DAL,OKC,steal,1,False,True,steal,steal,45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.48,2,2,31,OKC,OKC,tov,45,False,False,,Dort Out of Bounds - Bad Pass Turnover Turnover (P2.T7),45-40,45,40
+0022100663,2022-01-17,DAL,OKC,21.75,2,2,15,DAL,DAL,fg_make,101,False,False,Brunson 10' Driving Floating Jump Shot (4 PTS) (Finney-Smith 1 AST),,47-40,47,40
+0022100663,2022-01-17,DAL,OKC,21.93,2,2,4,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 25' 3PT Jump Shot,47-40,47,40
+0022100663,2022-01-17,DAL,OKC,22.0,2,2,0,DAL,DAL,reb,0,False,False,Hardaway Jr. REBOUND (Off:0 Def:3),,47-40,47,40
+0022100663,2022-01-17,DAL,OKC,22.15,2,1,51,DAL,OKC,foul,2,False,False,,Wiggins S.FOUL (P1.PN) (M.Ervin),47-40,47,40
+0022100663,2022-01-17,DAL,OKC,22.15,2,1,51,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (10 PTS),,48-40,48,40
+0022100663,2022-01-17,DAL,OKC,22.15,2,1,51,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (11 PTS),,49-40,49,40
+0022100663,2022-01-17,DAL,OKC,22.5,2,1,30,OKC,OKC,fg_make,6,False,False,,Dort 4' Driving Layup (14 PTS) (Muscala 1 AST),49-42,49,42
+0022100663,2022-01-17,DAL,OKC,22.73,2,1,16,DAL,DAL,fg_make,52,False,False,Powell 2' Alley Oop Dunk (10 PTS) (Doncic 6 AST),,51-42,51,42
+0022100663,2022-01-17,DAL,OKC,23.22,2,0,47,OKC,OKC,fg3_miss,80,False,False,,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,51-42,51,42
+0022100663,2022-01-17,DAL,OKC,23.25,2,0,45,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,51-42,51,42
+0022100663,2022-01-17,DAL,OKC,23.37,2,0,38,DAL,DAL,fg_make,41,False,False,Finney-Smith 2' Running Layup (9 PTS) (Brunson 4 AST),,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,23.48,2,0,31,OKC,OKC,fg3_miss,80,False,False,,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,23.58,2,0,25,DAL,DAL,reb,0,False,False,Hardaway Jr. REBOUND (Off:0 Def:4),,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,23.92,2,0,5,DAL,DAL,fg_miss,101,False,False,MISS Doncic 18' Driving Floating Jump Shot,,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.0,2,0,0,OKC,OKC,fg3_miss,1,False,False,,MISS Gilgeous-Alexander 25' 3PT Jump Shot,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.0,2,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.0,2,0,0,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:3),53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.0,3,12,0,OKC,,period_start,0,False,False,,,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.0,2,0,0,OKC,,period_end,0,False,False,,,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.27,3,11,44,OKC,OKC,fg_miss,73,True,False,,MISS Bazley 3' Driving Reverse Layup,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.27,3,11,44,OKC,DAL,block,73,True,False,block,block,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.3,3,11,42,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:4),,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.55,3,11,27,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 26' 3PT Jump Shot,,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.62,3,11,23,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:3),53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.78,3,11,13,OKC,OKC,fg_miss,6,False,False,,MISS Gilgeous-Alexander 5' Driving Layup,53-42,53,42
+0022100663,2022-01-17,DAL,OKC,24.87,3,11,8,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:1 Def:4),53-44,53,44
+0022100663,2022-01-17,DAL,OKC,24.87,3,11,8,OKC,OKC,fg_make,97,False,False,,Bazley Tip Layup Shot (2 PTS),53-44,53,44
+0022100663,2022-01-17,DAL,OKC,24.97,3,11,2,DAL,OKC,foul,1,False,False,,Bazley P.FOUL (P2.T1) (M.Ervin),53-44,53,44
+0022100663,2022-01-17,DAL,OKC,25.05,3,10,57,DAL,DAL,fg_make,52,False,False,Kleber 1' Alley Oop Dunk (8 PTS) (Doncic 7 AST),,55-44,55,44
+0022100663,2022-01-17,DAL,OKC,25.38,3,10,37,OKC,OKC,fg3_miss,1,False,False,,MISS Giddey 26' 3PT Jump Shot,55-44,55,44
+0022100663,2022-01-17,DAL,OKC,25.43,3,10,34,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:6),,55-44,55,44
+0022100663,2022-01-17,DAL,OKC,25.47,3,10,32,DAL,OKC,violation,5,False,False,,Bazley Violation:Kicked Ball (J.Williams),55-44,55,44
+0022100663,2022-01-17,DAL,OKC,25.65,3,10,21,DAL,DAL,fg_miss,79,False,False,MISS Brunson 17' Pullup Jump Shot,,55-44,55,44
+0022100663,2022-01-17,DAL,OKC,25.72,3,10,17,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:4),55-44,55,44
+0022100663,2022-01-17,DAL,OKC,26.0,3,10,0,OKC,OKC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (4 PTS),55-46,55,46
+0022100663,2022-01-17,DAL,OKC,26.0,3,10,0,OKC,OKC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (3 PTS),55-45,55,45
+0022100663,2022-01-17,DAL,OKC,26.0,3,10,0,OKC,DAL,foul,2,False,False,Brunson S.FOUL (P2.T1) (S.Mehta),,55-44,55,44
+0022100663,2022-01-17,DAL,OKC,26.3,3,9,42,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (13 PTS),,57-46,57,46
+0022100663,2022-01-17,DAL,OKC,26.3,3,9,42,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (12 PTS),,56-46,56,46
+0022100663,2022-01-17,DAL,OKC,26.3,3,9,42,DAL,OKC,foul,2,False,False,,Mann S.FOUL (P3.T2) (J.Williams),55-46,55,46
+0022100663,2022-01-17,DAL,OKC,26.53,3,9,28,OKC,OKC,fg_make,80,False,False,,Gilgeous-Alexander 17' Step Back Jump Shot (13 PTS),57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.0,3,9,0,DAL,DAL,fg_miss,101,False,False,MISS Doncic 5' Driving Floating Jump Shot,,57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.03,3,8,58,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:1 Def:3),57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.25,3,8,45,OKC,OKC,fg_miss,101,False,False,,MISS Dort 11' Driving Floating Jump Shot,57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.3,3,8,42,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:5),,57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.35,3,8,39,DAL,DAL,fg_miss,2,False,False,MISS Hardaway Jr. 9' Running Jump Shot,,57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.38,3,8,37,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:5),57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.47,3,8,32,OKC,DAL,block,41,True,False,block,block,57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.47,3,8,32,OKC,OKC,fg_miss,41,True,False,,MISS Giddey 2' Running Layup,57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.52,3,8,29,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:4),,57-48,57,48
+0022100663,2022-01-17,DAL,OKC,27.65,3,8,21,DAL,DAL,fg_make,108,False,False,Porzingis 1' Cutting Dunk Shot (11 PTS) (Brunson 5 AST),,59-48,59,48
+0022100663,2022-01-17,DAL,OKC,27.65,3,8,21,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),59-48,59,48
+0022100663,2022-01-17,DAL,OKC,27.85,3,8,9,OKC,OKC,fg_miss,6,False,False,,MISS Dort 4' Driving Layup,59-48,59,48
+0022100663,2022-01-17,DAL,OKC,27.88,3,8,7,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:6),,59-48,59,48
+0022100663,2022-01-17,DAL,OKC,27.98,3,8,1,DAL,DAL,fg3_make,1,False,False,Finney-Smith 26' 3PT Jump Shot (12 PTS) (Doncic 8 AST),,62-48,62,48
+0022100663,2022-01-17,DAL,OKC,28.25,3,7,45,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 26' 3PT Jump Shot,62-48,62,48
+0022100663,2022-01-17,DAL,OKC,28.28,3,7,43,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:2 Def:4),62-48,62,48
+0022100663,2022-01-17,DAL,OKC,28.35,3,7,39,OKC,OKC,fg_miss,9,False,False,,MISS Bazley 2' Driving Dunk,62-48,62,48
+0022100663,2022-01-17,DAL,OKC,28.38,3,7,37,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:3),,62-48,62,48
+0022100663,2022-01-17,DAL,OKC,28.63,3,7,22,DAL,DAL,fg3_make,1,False,False,Hardaway Jr. 25' 3PT Jump Shot (5 PTS) (Brunson 6 AST),,65-48,65,48
+0022100663,2022-01-17,DAL,OKC,29.07,3,6,56,OKC,DAL,block,79,True,False,block,block,65-48,65,48
+0022100663,2022-01-17,DAL,OKC,29.07,3,6,56,OKC,OKC,fg_miss,79,True,False,,MISS Dort 18' Pullup Jump Shot,65-48,65,48
+0022100663,2022-01-17,DAL,OKC,29.13,3,6,52,DAL,DAL,reb,0,False,False,Hardaway Jr. REBOUND (Off:0 Def:5),,65-48,65,48
+0022100663,2022-01-17,DAL,OKC,29.22,3,6,47,DAL,DAL,fg_miss,1,False,False,MISS Porzingis 2' Jump Shot,,65-48,65,48
+0022100663,2022-01-17,DAL,OKC,29.23,3,6,46,DAL,DAL,fg_make,97,False,False,Porzingis Tip Layup Shot (13 PTS),,67-48,67,48
+0022100663,2022-01-17,DAL,OKC,29.23,3,6,46,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:1 Def:6),,65-48,65,48
+0022100663,2022-01-17,DAL,OKC,29.25,3,6,45,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),67-48,67,48
+0022100663,2022-01-17,DAL,OKC,29.4,3,6,36,OKC,OKC,fg3_miss,1,False,False,,MISS Wiggins 25' 3PT Jump Shot,67-48,67,48
+0022100663,2022-01-17,DAL,OKC,29.47,3,6,32,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:1 Def:7),,67-48,67,48
+0022100663,2022-01-17,DAL,OKC,29.78,3,6,13,DAL,DAL,fg3_make,1,False,False,Finney-Smith 3PT Jump Shot (15 PTS) (Doncic 9 AST),,70-48,70,48
+0022100663,2022-01-17,DAL,OKC,29.98,3,6,1,OKC,OKC,fg3_miss,1,False,False,,MISS Dort 25' 3PT Jump Shot,70-48,70,48
+0022100663,2022-01-17,DAL,OKC,30.03,3,5,58,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:7),,70-48,70,48
+0022100663,2022-01-17,DAL,OKC,30.17,3,5,50,DAL,OKC,block,6,True,False,block,block,70-48,70,48
+0022100663,2022-01-17,DAL,OKC,30.17,3,5,50,DAL,DAL,fg_miss,6,True,False,MISS Finney-Smith 7' Driving Layup,,70-48,70,48
+0022100663,2022-01-17,DAL,OKC,30.2,3,5,48,OKC,DAL,foul,28,False,False,Doncic Personal Take Foul (P1.T2) (M.Ervin),,70-48,70,48
+0022100663,2022-01-17,DAL,OKC,30.2,3,5,48,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:4),70-48,70,48
+0022100663,2022-01-17,DAL,OKC,30.3,3,5,42,OKC,OKC,fg3_make,1,False,False,,Gilgeous-Alexander 26' 3PT Jump Shot (16 PTS),70-51,70,51
+0022100663,2022-01-17,DAL,OKC,30.58,3,5,25,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 26' 3PT Jump Shot,,70-51,70,51
+0022100663,2022-01-17,DAL,OKC,30.63,3,5,22,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),70-51,70,51
+0022100663,2022-01-17,DAL,OKC,30.9,3,5,6,OKC,OKC,fg_make,44,False,False,,Robinson-Earl 3' Reverse Layup (7 PTS) (Mann 2 AST),70-53,70,53
+0022100663,2022-01-17,DAL,OKC,31.13,3,4,52,DAL,DAL,fg_miss,75,False,False,MISS Doncic 2' Driving Finger Roll Layup,,70-53,70,53
+0022100663,2022-01-17,DAL,OKC,31.17,3,4,50,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:5),70-53,70,53
+0022100663,2022-01-17,DAL,OKC,31.23,3,4,46,OKC,OKC,fg_make,76,False,False,,Gilgeous-Alexander 3' Running Finger Roll Layup (18 PTS) (Dort 2 AST),70-55,70,55
+0022100663,2022-01-17,DAL,OKC,31.63,3,4,22,DAL,DAL,fg_miss,86,False,False,MISS Porzingis 7' Turnaround Fadeaway Shot,,70-55,70,55
+0022100663,2022-01-17,DAL,OKC,31.67,3,4,20,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:7),,70-55,70,55
+0022100663,2022-01-17,DAL,OKC,31.72,3,4,17,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 24' 3PT Jump Shot,,70-55,70,55
+0022100663,2022-01-17,DAL,OKC,31.72,3,4,17,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,70-55,70,55
+0022100663,2022-01-17,DAL,OKC,31.87,3,4,8,DAL,DAL,fg_make,57,False,False,Brunson 6' Driving Hook Shot (6 PTS),,72-55,72,55
+0022100663,2022-01-17,DAL,OKC,32.17,3,3,50,OKC,OKC,fg3_make,1,False,False,,Giddey 25' 3PT Jump Shot (7 PTS) (Robinson-Earl 2 AST),72-58,72,58
+0022100663,2022-01-17,DAL,OKC,32.42,3,3,35,DAL,DAL,tov,4,False,False,Hardaway Jr. Traveling Turnover (P1.T6),,72-58,72,58
+0022100663,2022-01-17,DAL,OKC,32.62,3,3,23,OKC,OKC,fg3_make,1,False,False,,Wiggins 24' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 1 AST),72-61,72,61
+0022100663,2022-01-17,DAL,OKC,32.82,3,3,11,DAL,DAL,fg_miss,79,False,False,MISS Hardaway Jr. 17' Pullup Jump Shot,,72-61,72,61
+0022100663,2022-01-17,DAL,OKC,32.87,3,3,8,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:6),72-61,72,61
+0022100663,2022-01-17,DAL,OKC,33.07,3,2,56,OKC,DAL,foul,2,False,False,Green S.FOUL (P2.T3) (J.Williams),,72-61,72,61
+0022100663,2022-01-17,DAL,OKC,33.07,3,2,56,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (19 PTS),72-62,72,62
+0022100663,2022-01-17,DAL,OKC,33.07,3,2,56,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (20 PTS),72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.27,3,2,44,DAL,DAL,fg_miss,79,False,False,MISS Burke 20' Pullup Jump Shot,,72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.32,3,2,41,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:0 Def:3),72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.45,3,2,33,OKC,DAL,steal,2,False,True,steal,steal,72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.45,3,2,33,OKC,OKC,tov,2,False,True,,Gilgeous-Alexander Lost Ball Turnover (P1.T8),72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.6,3,2,24,DAL,DAL,fg3_miss,1,False,False,MISS Burke 25' 3PT Jump Shot,,72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.68,3,2,19,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:3),72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.87,3,2,8,OKC,OKC,fg3_miss,79,False,False,,MISS Robinson-Earl 25' 3PT Pullup Jump Shot,72-63,72,63
+0022100663,2022-01-17,DAL,OKC,33.92,3,2,5,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:5),,72-63,72,63
+0022100663,2022-01-17,DAL,OKC,34.1,3,1,54,DAL,DAL,fg_miss,79,False,False,MISS Burke 19' Pullup Jump Shot,,72-63,72,63
+0022100663,2022-01-17,DAL,OKC,34.17,3,1,50,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:1 Def:4),72-63,72,63
+0022100663,2022-01-17,DAL,OKC,34.32,3,1,41,OKC,OKC,fg3_make,1,False,False,,Giddey 26' 3PT Jump Shot (10 PTS) (Gilgeous-Alexander 2 AST),72-66,72,66
+0022100663,2022-01-17,DAL,OKC,34.78,3,1,13,DAL,DAL,fg_miss,79,False,False,MISS Hardaway Jr. 19' Pullup Jump Shot,,72-66,72,66
+0022100663,2022-01-17,DAL,OKC,34.83,3,1,10,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:6),72-66,72,66
+0022100663,2022-01-17,DAL,OKC,34.98,3,1,1,OKC,DAL,foul,1,False,False,Green P.FOUL (P3.T4) (M.Ervin),,72-66,72,66
+0022100663,2022-01-17,DAL,OKC,35.05,3,0,57,OKC,OKC,fg_make,80,False,False,,Gilgeous-Alexander 9' Step Back Jump Shot (22 PTS) (Giddey 3 AST),72-68,72,68
+0022100663,2022-01-17,DAL,OKC,35.25,3,0,45,DAL,OKC,steal,1,False,True,steal,steal,72-68,72,68
+0022100663,2022-01-17,DAL,OKC,35.25,3,0,45,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P1.T7),,72-68,72,68
+0022100663,2022-01-17,DAL,OKC,35.27,3,0,44,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (23 PTS),72-69,72,69
+0022100663,2022-01-17,DAL,OKC,35.27,3,0,44,OKC,DAL,foul,28,False,False,Finney-Smith Personal Take Foul (P2.PN) (J.Williams),,72-68,72,68
+0022100663,2022-01-17,DAL,OKC,35.27,3,0,44,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (24 PTS),72-70,72,70
+0022100663,2022-01-17,DAL,OKC,35.43,3,0,34,DAL,DAL,fg3_make,1,False,False,Burke 25' 3PT Jump Shot (3 PTS) (Doncic 10 AST),,75-70,75,70
+0022100663,2022-01-17,DAL,OKC,35.7,3,0,18,OKC,DAL,foul,2,False,False,Green S.FOUL (P4.PN) (M.Ervin),,75-70,75,70
+0022100663,2022-01-17,DAL,OKC,35.7,3,0,18,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (25 PTS),75-71,75,71
+0022100663,2022-01-17,DAL,OKC,35.7,3,0,18,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (26 PTS),75-72,75,72
+0022100663,2022-01-17,DAL,OKC,35.87,3,0,8,DAL,OKC,foul,1,False,False,,Dort P.FOUL (P2.T3) (J.Williams),75-72,75,72
+0022100663,2022-01-17,DAL,OKC,35.95,3,0,3,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (15 PTS),,77-72,77,72
+0022100663,2022-01-17,DAL,OKC,35.95,3,0,3,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (14 PTS),,76-72,76,72
+0022100663,2022-01-17,DAL,OKC,35.95,3,0,3,DAL,OKC,foul,2,False,False,,Gilgeous-Alexander S.FOUL (P2.PN) (M.Ervin),75-72,75,72
+0022100663,2022-01-17,DAL,OKC,36.0,3,0,0,OKC,OKC,fg3_miss,1,False,False,,MISS Jerome 27' 3PT Jump Shot,77-72,77,72
+0022100663,2022-01-17,DAL,OKC,36.0,3,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,77-72,77,72
+0022100663,2022-01-17,DAL,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,77-72,77,72
+0022100663,2022-01-17,DAL,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,77-72,77,72
+0022100663,2022-01-17,DAL,OKC,36.33,4,11,40,DAL,OKC,foul,2,False,False,,Robinson-Earl S.FOUL (P2.T1) (S.Mehta),77-72,77,72
+0022100663,2022-01-17,DAL,OKC,36.33,4,11,40,DAL,DAL,ft_miss,11,False,False,MISS Doncic Free Throw 1 of 2,,77-72,77,72
+0022100663,2022-01-17,DAL,OKC,36.33,4,11,40,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (16 PTS),,78-72,78,72
+0022100663,2022-01-17,DAL,OKC,36.33,4,11,40,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,78-72,78,72
+0022100663,2022-01-17,DAL,OKC,36.53,4,11,28,OKC,OKC,fg3_miss,1,False,False,,MISS Jerome 25' 3PT Jump Shot,78-72,78,72
+0022100663,2022-01-17,DAL,OKC,36.57,4,11,26,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,78-72,78,72
+0022100663,2022-01-17,DAL,OKC,36.88,4,11,7,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 26' 3PT Jump Shot,,78-72,78,72
+0022100663,2022-01-17,DAL,OKC,36.95,4,11,3,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:4),78-72,78,72
+0022100663,2022-01-17,DAL,OKC,37.07,4,10,56,DAL,OKC,foul,26,False,False,,Dort Offensive Charge Foul (P3) (M.Ervin),78-72,78,72
+0022100663,2022-01-17,DAL,OKC,37.07,4,10,56,OKC,OKC,tov,37,False,False,,Dort Offensive Foul Turnover (P3.T9),78-72,78,72
+0022100663,2022-01-17,DAL,OKC,37.45,4,10,33,DAL,DAL,fg_make,101,False,False,Doncic 9' Driving Floating Jump Shot (18 PTS) (Brunson 7 AST),,80-72,80,72
+0022100663,2022-01-17,DAL,OKC,37.72,4,10,17,OKC,OKC,fg_make,98,False,False,,Robinson-Earl 3' Cutting Layup Shot (9 PTS) (Giddey 4 AST),80-74,80,74
+0022100663,2022-01-17,DAL,OKC,38.1,4,9,54,DAL,DAL,fg_make,101,False,False,Brunson 10' Driving Floating Jump Shot (8 PTS) (Hardaway Jr. 2 AST),,82-74,82,74
+0022100663,2022-01-17,DAL,OKC,38.35,4,9,39,OKC,OKC,fg3_make,80,False,False,,Jerome 25' 3PT Step Back Jump Shot (3 PTS),82-77,82,77
+0022100663,2022-01-17,DAL,OKC,38.63,4,9,22,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,82-77,82,77
+0022100663,2022-01-17,DAL,OKC,38.68,4,9,19,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:0 Def:4),82-77,82,77
+0022100663,2022-01-17,DAL,OKC,38.85,4,9,9,OKC,OKC,reb,0,False,False,,Thunder Rebound,82-77,82,77
+0022100663,2022-01-17,DAL,OKC,38.85,4,9,9,OKC,OKC,fg_miss,73,True,False,,MISS Jerome 3' Driving Reverse Layup,82-77,82,77
+0022100663,2022-01-17,DAL,OKC,38.85,4,9,9,OKC,DAL,block,73,True,False,block,block,82-77,82,77
+0022100663,2022-01-17,DAL,OKC,39.02,4,8,59,OKC,OKC,fg3_miss,1,False,False,,MISS Robinson-Earl 3PT Jump Shot,82-77,82,77
+0022100663,2022-01-17,DAL,OKC,39.05,4,8,57,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:8),,82-77,82,77
+0022100663,2022-01-17,DAL,OKC,39.25,4,8,45,DAL,DAL,fg_make,63,False,False,Brunson 10' Fadeaway Jumper (10 PTS) (Porzingis 1 AST),,84-77,84,77
+0022100663,2022-01-17,DAL,OKC,39.67,4,8,20,OKC,OKC,fg3_miss,79,False,False,,MISS Jerome 26' 3PT Pullup Jump Shot,84-77,84,77
+0022100663,2022-01-17,DAL,OKC,39.73,4,8,16,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:4),84-77,84,77
+0022100663,2022-01-17,DAL,OKC,39.95,4,8,3,OKC,OKC,fg3_make,1,False,False,,Wiggins 24' 3PT Jump Shot (8 PTS) (Giddey 5 AST),84-80,84,80
+0022100663,2022-01-17,DAL,OKC,40.25,4,7,45,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),87-80,87,80
+0022100663,2022-01-17,DAL,OKC,40.25,4,7,45,DAL,DAL,fg3_make,1,False,False,Hardaway Jr. 3PT Jump Shot (8 PTS) (Brunson 8 AST),,87-80,87,80
+0022100663,2022-01-17,DAL,OKC,40.5,4,7,30,OKC,OKC,fg_make,1,False,False,,Muscala 20' Jump Shot (4 PTS),87-82,87,82
+0022100663,2022-01-17,DAL,OKC,40.83,4,7,10,DAL,DAL,fg_make,75,False,False,Doncic 3' Driving Finger Roll Layup (20 PTS),,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.18,4,6,49,OKC,DAL,steal,1,False,True,steal,steal,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.18,4,6,49,OKC,OKC,tov,1,False,True,,Gilgeous-Alexander Bad Pass Turnover (P2.T10),89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.38,4,6,37,DAL,OKC,steal,1,False,True,steal,steal,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.38,4,6,37,DAL,DAL,tov,1,False,True,Brunson Bad Pass Turnover (P1.T8),,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.47,4,6,32,OKC,OKC,fg_miss,6,False,False,,MISS Wiggins 5' Driving Layup,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.5,4,6,30,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:4),,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.62,4,6,23,DAL,OKC,steal,1,False,True,steal,steal,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.62,4,6,23,DAL,DAL,tov,1,False,True,Brunson Bad Pass Turnover (P2.T9),,89-82,89,82
+0022100663,2022-01-17,DAL,OKC,41.7,4,6,18,OKC,OKC,fg_make,41,False,False,,Gilgeous-Alexander 3' Running Layup (28 PTS) (Jerome 2 AST),89-84,89,84
+0022100663,2022-01-17,DAL,OKC,42.02,4,5,59,DAL,DAL,fg3_make,1,False,False,Ntilikina 25' 3PT Jump Shot (3 PTS) (Doncic 11 AST),,92-84,92,84
+0022100663,2022-01-17,DAL,OKC,42.37,4,5,38,OKC,OKC,fg3_make,1,False,False,,Muscala 27' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 3 AST),92-87,92,87
+0022100663,2022-01-17,DAL,OKC,42.63,4,5,22,DAL,DAL,fg3_miss,1,False,False,MISS Ntilikina 25' 3PT Jump Shot,,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,42.7,4,5,18,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:7),92-87,92,87
+0022100663,2022-01-17,DAL,OKC,42.75,4,5,15,OKC,DAL,foul,1,False,False,Porzingis P.FOUL (P4.T1) (J.Williams),,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,42.85,4,5,9,OKC,OKC,fg_miss,98,False,False,,MISS Muscala 3' Cutting Layup Shot,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,42.87,4,5,8,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:9),,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,42.97,4,5,2,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 24' 3PT Jump Shot,,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,43.02,4,4,59,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:2 Def:5),,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,43.05,4,4,57,DAL,OKC,foul,1,False,False,,Gilgeous-Alexander P.FOUL (P3.T2) (J.Williams),92-87,92,87
+0022100663,2022-01-17,DAL,OKC,43.28,4,4,43,DAL,DAL,fg_miss,101,False,False,MISS Brunson 4' Driving Floating Jump Shot,,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,43.35,4,4,39,DAL,DAL,fg_make,97,False,False,Finney-Smith Tip Layup Shot (17 PTS),,94-87,94,87
+0022100663,2022-01-17,DAL,OKC,43.35,4,4,39,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:3 Def:5),,92-87,92,87
+0022100663,2022-01-17,DAL,OKC,43.57,4,4,26,OKC,OKC,fg_make,79,False,False,,Dort 21' Pullup Jump Shot (16 PTS) (Gilgeous-Alexander 4 AST),94-89,94,89
+0022100663,2022-01-17,DAL,OKC,43.93,4,4,4,DAL,DAL,fg3_miss,1,False,False,MISS Brunson 24' 3PT Jump Shot,,94-89,94,89
+0022100663,2022-01-17,DAL,OKC,43.98,4,4,1,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:4),94-89,94,89
+0022100663,2022-01-17,DAL,OKC,44.15,4,3,51,OKC,OKC,fg_make,9,False,False,,Gilgeous-Alexander 1' Driving Dunk (30 PTS),94-91,94,91
+0022100663,2022-01-17,DAL,OKC,44.15,4,3,51,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 3 Short 0),,94-91,94,91
+0022100663,2022-01-17,DAL,OKC,44.4,4,3,36,DAL,OKC,foul,1,False,False,,Dort P.FOUL (P4.T3) (J.Williams),94-91,94,91
+0022100663,2022-01-17,DAL,OKC,44.58,4,3,25,DAL,DAL,fg3_make,1,False,False,Hardaway Jr. 26' 3PT Jump Shot (11 PTS) (Finney-Smith 2 AST),,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,44.8,4,3,12,OKC,DAL,foul,1,False,False,Brunson P.FOUL (P3.T2) (M.Ervin),,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,44.98,4,3,1,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 26' 3PT Jump Shot,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.05,4,2,57,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:5),,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.25,4,2,45,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 4 Short 0),,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.4,4,2,36,DAL,DAL,fg_miss,101,False,False,MISS Doncic 18' Driving Floating Jump Shot,,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.45,4,2,33,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:2 Def:1),,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.58,4,2,25,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 26' 3PT Jump Shot,,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.63,4,2,22,DAL,OKC,foul,1,False,False,,Dort P.FOUL (P5.T4) (M.Ervin),97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.63,4,2,22,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:3 Def:1),,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.7,4,2,18,DAL,OKC,steal,1,False,True,steal,steal,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.7,4,2,18,DAL,DAL,tov,1,False,True,Hardaway Jr. Bad Pass Turnover (P2.T10),,97-91,97,91
+0022100663,2022-01-17,DAL,OKC,45.73,4,2,16,OKC,OKC,fg_make,50,False,False,,Dort 1' Running Dunk (18 PTS),97-93,97,93
+0022100663,2022-01-17,DAL,OKC,45.92,4,2,5,DAL,DAL,ft_make,11,False,False,Brunson Free Throw 1 of 2 (11 PTS),,98-93,98,93
+0022100663,2022-01-17,DAL,OKC,45.92,4,2,5,DAL,DAL,ft_make,12,False,False,Brunson Free Throw 2 of 2 (12 PTS),,99-93,99,93
+0022100663,2022-01-17,DAL,OKC,45.92,4,2,5,DAL,OKC,foul,1,False,False,,Dort P.FOUL (P6.PN) (S.Mehta),97-93,97,93
+0022100663,2022-01-17,DAL,OKC,46.23,4,1,46,OKC,DAL,steal,1,False,True,steal,steal,99-93,99,93
+0022100663,2022-01-17,DAL,OKC,46.23,4,1,46,OKC,OKC,tov,1,False,True,,Wiggins Bad Pass Turnover (P1.T11),99-93,99,93
+0022100663,2022-01-17,DAL,OKC,46.43,4,1,34,DAL,OKC,steal,1,False,True,steal,steal,99-93,99,93
+0022100663,2022-01-17,DAL,OKC,46.43,4,1,34,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P2.T11),,99-93,99,93
+0022100663,2022-01-17,DAL,OKC,46.48,4,1,31,OKC,OKC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (6 PTS),99-95,99,95
+0022100663,2022-01-17,DAL,OKC,46.48,4,1,31,OKC,DAL,foul,2,False,False,Brunson S.FOUL (P4.T3) (J.Williams),,99-93,99,93
+0022100663,2022-01-17,DAL,OKC,46.48,4,1,31,OKC,OKC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (5 PTS),99-94,99,94
+0022100663,2022-01-17,DAL,OKC,46.75,4,1,15,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 25' 3PT Jump Shot,,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,46.83,4,1,10,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:5),99-95,99,95
+0022100663,2022-01-17,DAL,OKC,46.92,4,1,5,OKC,OKC,ft_miss,11,False,False,,MISS Wiggins Free Throw 1 of 2,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,46.92,4,1,5,OKC,DAL,foul,1,False,False,Doncic P.FOUL (P2.PN) (M.Ervin),,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,46.92,4,1,5,OKC,OKC,reb,1,False,False,,Thunder Rebound,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,46.92,4,1,5,OKC,OKC,ft_miss,12,False,False,,MISS Wiggins Free Throw 2 of 2,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,46.97,4,1,2,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:3 Def:6),,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,47.22,4,0,47,DAL,DAL,fg_miss,80,False,False,MISS Doncic 18' Step Back Jump Shot,,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,47.27,4,0,44,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:4 Def:6),,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,47.45,4,0,33,DAL,DAL,fg_miss,101,False,False,MISS Hardaway Jr. 6' Driving Floating Jump Shot,,99-95,99,95
+0022100663,2022-01-17,DAL,OKC,47.5,4,0,30,OKC,OKC,reb,0,False,False,,Mann REBOUND (Off:0 Def:1),99-95,99,95
+0022100663,2022-01-17,DAL,OKC,47.58,4,0,25,OKC,OKC,fg_make,6,False,False,,Gilgeous-Alexander 2' Driving Layup (32 PTS),99-97,99,97
+0022100663,2022-01-17,DAL,OKC,47.67,4,0,20,DAL,DAL,ft_miss,11,False,False,MISS Hardaway Jr. Free Throw 1 of 2,,99-97,99,97
+0022100663,2022-01-17,DAL,OKC,47.67,4,0,20,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,99-97,99,97
+0022100663,2022-01-17,DAL,OKC,47.67,4,0,20,DAL,DAL,ft_make,12,False,False,Hardaway Jr. Free Throw 2 of 2 (12 PTS),,100-97,100,97
+0022100663,2022-01-17,DAL,OKC,47.67,4,0,20,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),100-97,100,97
+0022100663,2022-01-17,DAL,OKC,47.67,4,0,20,DAL,OKC,foul,28,False,False,,Giddey Personal Take Foul (P1.PN) (J.Williams),99-97,99,97
+0022100663,2022-01-17,DAL,OKC,47.73,4,0,16,OKC,DAL,steal,2,False,True,steal,steal,100-97,100,97
+0022100663,2022-01-17,DAL,OKC,47.73,4,0,16,OKC,OKC,tov,2,False,True,,Muscala Lost Ball Turnover (P2.T12),100-97,100,97
+0022100663,2022-01-17,DAL,OKC,47.78,4,0,13,DAL,DAL,fg_make,41,False,False,Green 4' Running Layup (4 PTS) (Doncic 12 AST),,102-97,102,97
+0022100663,2022-01-17,DAL,OKC,47.85,4,0,9,OKC,OKC,fg_make,41,False,False,,Gilgeous-Alexander 2' Running Layup (34 PTS),102-99,102,99
+0022100663,2022-01-17,DAL,OKC,47.87,4,0,8,DAL,DAL,ft_make,12,False,False,Brunson Free Throw 2 of 2 (14 PTS),,104-99,104,99
+0022100663,2022-01-17,DAL,OKC,47.87,4,0,8,DAL,DAL,ft_make,11,False,False,Brunson Free Throw 1 of 2 (13 PTS),,103-99,103,99
+0022100663,2022-01-17,DAL,OKC,47.87,4,0,8,DAL,OKC,foul,28,False,False,,Mann Personal Take Foul (P4.PN) (M.Ervin),102-99,102,99
+0022100663,2022-01-17,DAL,OKC,47.95,4,0,3,OKC,OKC,fg3_make,1,False,False,,Jerome 28' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 5 AST),104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.97,4,0,2,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.7 Short 0),104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.97,4,0,2,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:5),104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.97,4,0,2,DAL,DAL,ft_miss,12,False,False,MISS Green Free Throw 2 of 2,,104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.97,4,0,2,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.97,4,0,2,DAL,DAL,ft_miss,11,False,False,MISS Green Free Throw 1 of 2,,104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.97,4,0,2,DAL,OKC,foul,28,False,False,,Muscala Personal Take Foul (P2.PN) (J.Williams),104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.98,4,0,1,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P4.T13),104-102,104,102
+0022100663,2022-01-17,DAL,OKC,47.98,4,0,1,OKC,DAL,steal,1,False,True,steal,steal,104-102,104,102
+0022100663,2022-01-17,DAL,OKC,48.0,4,0,0,OKC,,period_end,0,False,False,,,104-102,104,102

@@ -1,0 +1,397 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100802,2022-02-06,CHI,PHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100802,2022-02-06,CHI,PHI,0.0,1,12,0,,CHI,jump_ball,0,False,False,Jump Ball Vucevic vs. Embiid: Tip to Harris,,0-0,0,0
+0022100802,2022-02-06,CHI,PHI,0.4,1,11,36,PHI,PHI,fg_make,5,False,False,,Green 1' Layup (2 PTS) (Curry 1 AST),0-2,0,2
+0022100802,2022-02-06,CHI,PHI,0.72,1,11,17,CHI,PHI,block,5,True,False,block,block,0-2,0,2
+0022100802,2022-02-06,CHI,PHI,0.72,1,11,17,CHI,CHI,fg_miss,5,True,False,MISS Green 2' Layup,,0-2,0,2
+0022100802,2022-02-06,CHI,PHI,0.75,1,11,15,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:1),0-2,0,2
+0022100802,2022-02-06,CHI,PHI,0.82,1,11,11,PHI,PHI,fg_make,41,False,False,,Embiid 1' Running Layup (2 PTS),0-4,0,4
+0022100802,2022-02-06,CHI,PHI,1.22,1,10,47,CHI,CHI,fg3_make,1,False,False,Brown Jr. 25' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),,3-4,3,4
+0022100802,2022-02-06,CHI,PHI,1.4,1,10,36,PHI,CHI,foul,2,False,False,Vucevic S.FOUL (P1.T1) (M.Kogut),,3-6,3,6
+0022100802,2022-02-06,CHI,PHI,1.4,1,10,36,PHI,PHI,ft_make,10,False,False,,Embiid Free Throw 1 of 1 (5 PTS),3-7,3,7
+0022100802,2022-02-06,CHI,PHI,1.4,1,10,36,PHI,PHI,fg_make,63,False,False,,Embiid 16' Fadeaway Jumper (4 PTS) (Maxey 1 AST),3-6,3,6
+0022100802,2022-02-06,CHI,PHI,1.55,1,10,27,CHI,CHI,fg_make,79,False,False,DeRozan 13' Pullup Jump Shot (2 PTS),,5-7,5,7
+0022100802,2022-02-06,CHI,PHI,1.85,1,10,9,PHI,PHI,tov,6,False,False,,Embiid Double Dribble Turnover (P1.T1),5-7,5,7
+0022100802,2022-02-06,CHI,PHI,2.2,1,9,48,CHI,CHI,fg_make,6,False,False,Vucevic 1' Driving Layup (2 PTS) (DeRozan 1 AST),,7-7,7,7
+0022100802,2022-02-06,CHI,PHI,2.35,1,9,39,PHI,PHI,fg3_miss,80,False,False,,MISS Harris 24' 3PT Step Back Jump Shot,7-7,7,7
+0022100802,2022-02-06,CHI,PHI,2.4,1,9,36,CHI,CHI,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:1),,7-7,7,7
+0022100802,2022-02-06,CHI,PHI,2.47,1,9,32,CHI,CHI,fg_miss,79,False,False,MISS Dosunmu 12' Pullup Jump Shot,,7-7,7,7
+0022100802,2022-02-06,CHI,PHI,2.52,1,9,29,PHI,PHI,reb,0,False,False,,Maxey REBOUND (Off:0 Def:1),7-7,7,7
+0022100802,2022-02-06,CHI,PHI,2.67,1,9,20,PHI,PHI,fg3_make,1,False,False,,Embiid 28' 3PT Jump Shot (8 PTS) (Maxey 2 AST),7-10,7,10
+0022100802,2022-02-06,CHI,PHI,2.87,1,9,8,CHI,CHI,fg_make,63,False,False,DeRozan 13' Fadeaway Jumper (4 PTS),,9-10,9,10
+0022100802,2022-02-06,CHI,PHI,3.27,1,8,44,PHI,PHI,fg_make,6,False,False,,Embiid Driving Layup (10 PTS) (Maxey 3 AST),9-12,9,12
+0022100802,2022-02-06,CHI,PHI,3.65,1,8,21,CHI,CHI,fg_make,98,False,False,DeRozan 1' Cutting Layup Shot (6 PTS) (Vucevic 2 AST),,11-12,11,12
+0022100802,2022-02-06,CHI,PHI,4.02,1,7,59,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,11-12,11,12
+0022100802,2022-02-06,CHI,PHI,4.02,1,7,59,PHI,PHI,tov,45,False,False,,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T2),11-12,11,12
+0022100802,2022-02-06,CHI,PHI,4.25,1,7,45,CHI,CHI,fg_make,78,False,False,Vucevic 8' Floating Jump Shot (4 PTS) (Dosunmu 1 AST),,13-12,13,12
+0022100802,2022-02-06,CHI,PHI,4.53,1,7,28,PHI,PHI,fg_make,79,False,False,,Curry 20' Pullup Jump Shot (2 PTS) (Embiid 1 AST),13-14,13,14
+0022100802,2022-02-06,CHI,PHI,4.87,1,7,8,CHI,CHI,fg_make,73,False,False,DeRozan 1' Driving Reverse Layup (8 PTS) (Vucevic 3 AST),,15-14,15,14
+0022100802,2022-02-06,CHI,PHI,5.2,1,6,48,PHI,PHI,fg_make,79,False,False,,Embiid 13' Pullup Jump Shot (12 PTS) (Maxey 4 AST),15-16,15,16
+0022100802,2022-02-06,CHI,PHI,5.57,1,6,26,CHI,CHI,fg_make,6,False,False,Green 1' Driving Layup (2 PTS),,17-16,17,16
+0022100802,2022-02-06,CHI,PHI,5.93,1,6,4,PHI,PHI,fg_miss,6,True,False,,MISS Green 3' Driving Layup,17-16,17,16
+0022100802,2022-02-06,CHI,PHI,5.93,1,6,4,PHI,CHI,block,6,True,False,block,block,17-16,17,16
+0022100802,2022-02-06,CHI,PHI,5.98,1,6,1,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:0),17-16,17,16
+0022100802,2022-02-06,CHI,PHI,6.07,1,5,56,PHI,PHI,fg3_miss,1,False,False,,MISS Curry 24' 3PT Jump Shot,17-16,17,16
+0022100802,2022-02-06,CHI,PHI,6.13,1,5,52,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:1),,17-16,17,16
+0022100802,2022-02-06,CHI,PHI,6.27,1,5,44,CHI,CHI,fg3_miss,1,False,False,MISS Brown Jr. 3PT Jump Shot,,17-16,17,16
+0022100802,2022-02-06,CHI,PHI,6.33,1,5,40,PHI,PHI,reb,0,False,False,,Maxey REBOUND (Off:0 Def:2),17-16,17,16
+0022100802,2022-02-06,CHI,PHI,6.47,1,5,32,PHI,PHI,fg_make,80,False,False,,Curry 12' Step Back Jump Shot (4 PTS),17-18,17,18
+0022100802,2022-02-06,CHI,PHI,6.75,1,5,15,CHI,CHI,fg_miss,101,False,False,MISS DeRozan 10' Driving Floating Jump Shot,,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,6.8,1,5,12,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:1),17-18,17,18
+0022100802,2022-02-06,CHI,PHI,6.92,1,5,5,PHI,PHI,fg_miss,101,False,False,,MISS Harris 7' Driving Floating Jump Shot,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,6.95,1,5,3,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:2),,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,6.95,1,5,3,CHI,CHI,tov,4,False,False,Dosunmu Traveling Turnover (P1.T1),,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.1,1,4,54,PHI,PHI,fg3_miss,1,False,False,,MISS Curry 26' 3PT Jump Shot,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.17,1,4,50,CHI,CHI,reb,0,False,False,Dosunmu REBOUND (Off:0 Def:1),,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.25,1,4,45,CHI,PHI,steal,1,False,True,steal,steal,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.25,1,4,45,CHI,CHI,tov,1,False,True,Vucevic Bad Pass Turnover (P1.T2),,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.38,1,4,37,PHI,PHI,reb,1,False,False,,76ers Rebound,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.38,1,4,37,PHI,CHI,foul,17,False,False,BULLS T.Foul (Def. 3 Sec Hill ) (M.Boland),,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.38,1,4,37,PHI,PHI,ft_miss,16,False,False,,MISS Embiid Free Throw Technical,17-18,17,18
+0022100802,2022-02-06,CHI,PHI,7.55,1,4,27,PHI,PHI,fg_make,79,False,False,,Maxey 15' Pullup Jump Shot (2 PTS),17-20,17,20
+0022100802,2022-02-06,CHI,PHI,7.93,1,4,4,CHI,CHI,fg_miss,6,True,False,MISS Dosunmu 2' Driving Layup,,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,7.93,1,4,4,CHI,PHI,block,6,True,False,block,block,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,7.98,1,4,1,PHI,PHI,reb,0,False,False,,Niang REBOUND (Off:0 Def:1),17-20,17,20
+0022100802,2022-02-06,CHI,PHI,8.28,1,3,43,PHI,PHI,fg_miss,86,False,False,,MISS Embiid 11' Turnaround Fadeaway Shot,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,8.35,1,3,39,CHI,CHI,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:2),,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,8.48,1,3,31,CHI,CHI,fg3_miss,1,False,False,MISS Dosunmu 25' 3PT Jump Shot,,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,8.53,1,3,28,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:2),17-20,17,20
+0022100802,2022-02-06,CHI,PHI,8.77,1,3,14,PHI,PHI,fg_miss,102,False,False,,MISS Curry 4' Driving Floating Bank Jump Shot,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,8.8,1,3,12,CHI,CHI,reb,0,False,False,Thomas REBOUND (Off:0 Def:1),,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,8.97,1,3,2,CHI,CHI,fg3_miss,1,False,False,MISS Hill 24' 3PT Jump Shot,,17-20,17,20
+0022100802,2022-02-06,CHI,PHI,9.02,1,2,59,PHI,PHI,reb,0,False,False,,Niang REBOUND (Off:0 Def:2),17-20,17,20
+0022100802,2022-02-06,CHI,PHI,9.17,1,2,50,PHI,PHI,fg3_make,79,False,False,,Maxey 26' 3PT Pullup Jump Shot (5 PTS) (Embiid 2 AST),17-23,17,23
+0022100802,2022-02-06,CHI,PHI,9.32,1,2,41,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,17-23,17,23
+0022100802,2022-02-06,CHI,PHI,9.43,1,2,34,CHI,CHI,fg3_miss,1,False,False,MISS Thomas 25' 3PT Jump Shot,,17-23,17,23
+0022100802,2022-02-06,CHI,PHI,9.5,1,2,30,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:0 Def:1),17-23,17,23
+0022100802,2022-02-06,CHI,PHI,9.78,1,2,13,PHI,PHI,fg3_make,79,False,False,,Maxey 27' 3PT Pullup Jump Shot (8 PTS) (Curry 2 AST),17-26,17,26
+0022100802,2022-02-06,CHI,PHI,10.1,1,1,54,CHI,CHI,fg_make,79,False,False,DeRozan 12' Pullup Jump Shot (10 PTS),,19-26,19,26
+0022100802,2022-02-06,CHI,PHI,10.38,1,1,37,PHI,PHI,fg3_make,79,False,False,,Curry 25' 3PT Pullup Jump Shot (7 PTS) (Drummond 1 AST),19-29,19,29
+0022100802,2022-02-06,CHI,PHI,10.6,1,1,24,CHI,CHI,fg_make,86,False,False,DeRozan 14' Turnaround Fadeaway (12 PTS),,21-29,21,29
+0022100802,2022-02-06,CHI,PHI,10.78,1,1,13,PHI,CHI,foul,1,False,False,Dosunmu P.FOUL (P1.T2) (M.Kogut),,21-29,21,29
+0022100802,2022-02-06,CHI,PHI,10.87,1,1,8,PHI,PHI,fg3_make,1,False,False,,Niang 26' 3PT Jump Shot (3 PTS) (Curry 3 AST),21-32,21,32
+0022100802,2022-02-06,CHI,PHI,11.3,1,0,42,CHI,CHI,fg3_make,1,False,False,Hill 3PT Jump Shot (3 PTS) (DeRozan 2 AST),,24-32,24,32
+0022100802,2022-02-06,CHI,PHI,11.37,1,0,38,PHI,PHI,ft_make,11,False,False,,Korkmaz Free Throw 1 of 2 (1 PTS),24-33,24,33
+0022100802,2022-02-06,CHI,PHI,11.37,1,0,38,PHI,PHI,ft_make,12,False,False,,Korkmaz Free Throw 2 of 2 (2 PTS),24-34,24,34
+0022100802,2022-02-06,CHI,PHI,11.37,1,0,38,PHI,CHI,foul,1,False,False,McKinnie P.FOUL (P1.PN) (M.Kogut),,24-32,24,32
+0022100802,2022-02-06,CHI,PHI,11.43,1,0,34,CHI,CHI,fg3_miss,1,False,False,MISS McKinnie 26' 3PT Jump Shot,,24-34,24,34
+0022100802,2022-02-06,CHI,PHI,11.48,1,0,31,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:0 Def:2),24-34,24,34
+0022100802,2022-02-06,CHI,PHI,11.8,1,0,12,PHI,PHI,fg3_miss,1,False,False,,MISS Niang 25' 3PT Jump Shot,24-34,24,34
+0022100802,2022-02-06,CHI,PHI,11.85,1,0,9,CHI,CHI,reb,0,False,False,McKinnie REBOUND (Off:0 Def:1),,24-34,24,34
+0022100802,2022-02-06,CHI,PHI,11.97,1,0,2,CHI,PHI,foul,2,False,False,,Brown Jr. S.FOUL (P1.T1) (M.Boland),24-34,24,34
+0022100802,2022-02-06,CHI,PHI,11.97,1,0,2,CHI,CHI,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (14 PTS),,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,11.97,1,0,2,CHI,CHI,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (13 PTS),,25-34,25,34
+0022100802,2022-02-06,CHI,PHI,12.0,1,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.0,1,0,0,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 66' 3PT Jump Shot,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.0,2,12,0,PHI,,period_start,0,False,False,,,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.0,1,0,0,PHI,,period_end,0,False,False,,,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.27,2,11,44,CHI,CHI,fg3_miss,1,False,False,MISS Thomas 24' 3PT Jump Shot,,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.3,2,11,42,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:0 Def:3),26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.55,2,11,27,PHI,PHI,fg_miss,80,False,False,,MISS Niang 21' Step Back Jump Shot,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.58,2,11,25,CHI,CHI,reb,0,False,False,Thomas REBOUND (Off:0 Def:2),,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.87,2,11,8,CHI,CHI,fg_miss,1,False,False,MISS DeRozan 18' Jump Shot,,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,12.9,2,11,6,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:0 Def:4),26-34,26,34
+0022100802,2022-02-06,CHI,PHI,13.03,2,10,58,PHI,PHI,fg_miss,101,False,False,,MISS Korkmaz 9' Driving Floating Jump Shot,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,13.05,2,10,57,CHI,CHI,reb,0,False,False,Bradley REBOUND (Off:0 Def:1),,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,13.38,2,10,37,CHI,CHI,fg3_miss,1,False,False,MISS Thomas 25' 3PT Jump Shot,,26-34,26,34
+0022100802,2022-02-06,CHI,PHI,13.43,2,10,34,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:0 Def:5),26-34,26,34
+0022100802,2022-02-06,CHI,PHI,13.67,2,10,20,PHI,PHI,fg3_make,1,False,False,,Korkmaz 3PT Jump Shot (5 PTS) (Niang 1 AST),26-37,26,37
+0022100802,2022-02-06,CHI,PHI,13.97,2,10,2,CHI,CHI,fg_make,86,False,False,DeRozan 13' Turnaround Fadeaway (16 PTS),,28-37,28,37
+0022100802,2022-02-06,CHI,PHI,14.27,2,9,44,PHI,PHI,fg_miss,101,False,False,,MISS Drummond 6' Driving Floating Jump Shot,28-37,28,37
+0022100802,2022-02-06,CHI,PHI,14.32,2,9,41,CHI,CHI,reb,0,False,False,Bradley REBOUND (Off:0 Def:2),,28-37,28,37
+0022100802,2022-02-06,CHI,PHI,14.52,2,9,29,CHI,PHI,foul,2,False,False,,Joe S.FOUL (P1.T1) (C.Blair),28-37,28,37
+0022100802,2022-02-06,CHI,PHI,14.52,2,9,29,CHI,CHI,ft_make,11,False,False,Green Free Throw 1 of 2 (3 PTS),,29-37,29,37
+0022100802,2022-02-06,CHI,PHI,14.52,2,9,29,CHI,CHI,ft_make,12,False,False,Green Free Throw 2 of 2 (4 PTS),,30-37,30,37
+0022100802,2022-02-06,CHI,PHI,14.78,2,9,13,PHI,PHI,fg_make,79,False,False,,Harris 15' Pullup Jump Shot (2 PTS) (Joe 1 AST),30-39,30,39
+0022100802,2022-02-06,CHI,PHI,15.05,2,8,57,CHI,PHI,block,79,True,False,block,block,30-39,30,39
+0022100802,2022-02-06,CHI,PHI,15.05,2,8,57,PHI,PHI,reb,0,False,False,,Joe REBOUND (Off:0 Def:1),30-39,30,39
+0022100802,2022-02-06,CHI,PHI,15.05,2,8,57,CHI,CHI,fg_miss,79,True,False,MISS DeRozan 14' Pullup Jump Shot,,30-39,30,39
+0022100802,2022-02-06,CHI,PHI,15.05,2,8,57,PHI,CHI,foul,1,False,False,DeRozan P.FOUL (P1.T1) (M.Kogut),,30-39,30,39
+0022100802,2022-02-06,CHI,PHI,15.3,2,8,42,PHI,PHI,fg_make,7,False,False,,Drummond 1' Dunk (2 PTS) (Korkmaz 1 AST),30-41,30,41
+0022100802,2022-02-06,CHI,PHI,15.55,2,8,27,CHI,PHI,foul,2,False,False,,Korkmaz S.FOUL (P1.T2) (M.Kogut),30-41,30,41
+0022100802,2022-02-06,CHI,PHI,15.55,2,8,27,CHI,CHI,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (17 PTS),,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.55,2,8,27,CHI,CHI,ft_miss,12,False,False,MISS DeRozan Free Throw 2 of 2,,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.6,2,8,24,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:0 Def:6),31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.87,2,8,8,PHI,CHI,block,6,True,False,block,block,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.87,2,8,8,PHI,PHI,fg_miss,6,True,False,,MISS Drummond 3' Driving Layup,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.87,2,8,8,PHI,PHI,reb,0,False,False,,76ers Rebound,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.97,2,8,2,PHI,PHI,tov,11,False,False,,76ers Turnover: Shot Clock (T#3),31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.97,2,8,2,PHI,PHI,reb,0,False,False,,76ers Rebound,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,15.97,2,8,2,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 32' 3PT Jump Shot,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,16.23,2,7,46,CHI,CHI,tov,45,False,False,Vucevic Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,16.57,2,7,26,PHI,CHI,steal,2,False,True,steal,steal,31-41,31,41
+0022100802,2022-02-06,CHI,PHI,16.57,2,7,26,PHI,PHI,tov,2,False,True,,Niang Lost Ball Turnover (P1.T4),31-41,31,41
+0022100802,2022-02-06,CHI,PHI,16.63,2,7,22,CHI,CHI,ft_make,10,False,False,Dosunmu Free Throw 1 of 1 (3 PTS),,34-41,34,41
+0022100802,2022-02-06,CHI,PHI,16.63,2,7,22,CHI,PHI,foul,2,False,False,,Drummond S.FOUL (P1.T3) (M.Kogut),33-41,33,41
+0022100802,2022-02-06,CHI,PHI,16.63,2,7,22,CHI,CHI,fg_make,50,False,False,Dosunmu Running Dunk (2 PTS),,33-41,33,41
+0022100802,2022-02-06,CHI,PHI,16.82,2,7,11,PHI,PHI,fg_make,6,False,False,,Korkmaz 2' Driving Layup (7 PTS) (Harris 1 AST),34-43,34,43
+0022100802,2022-02-06,CHI,PHI,17.22,2,6,47,CHI,CHI,fg_make,3,False,False,Vucevic 8' Hook Shot (6 PTS) (Green 1 AST),,36-43,36,43
+0022100802,2022-02-06,CHI,PHI,17.48,2,6,31,PHI,PHI,fg_make,79,False,False,,Harris 10' Pullup Jump Shot (4 PTS) (Drummond 2 AST),36-45,36,45
+0022100802,2022-02-06,CHI,PHI,17.48,2,6,31,PHI,CHI,foul,2,False,False,Green S.FOUL (P1.T2) (M.Kogut),,36-45,36,45
+0022100802,2022-02-06,CHI,PHI,17.48,2,6,31,CHI,PHI,ft_make,10,False,False,,Harris Free Throw 1 of 1 (5 PTS),36-46,36,46
+0022100802,2022-02-06,CHI,PHI,17.48,2,6,31,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,36-45,36,45
+0022100802,2022-02-06,CHI,PHI,17.77,2,6,14,CHI,CHI,fg3_miss,1,False,False,MISS Vucevic 26' 3PT Jump Shot,,36-46,36,46
+0022100802,2022-02-06,CHI,PHI,17.82,2,6,11,PHI,PHI,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),36-46,36,46
+0022100802,2022-02-06,CHI,PHI,18.0,2,6,0,PHI,PHI,tov,37,False,False,,Harris Offensive Foul Turnover (P1.T5),36-46,36,46
+0022100802,2022-02-06,CHI,PHI,18.0,2,6,0,CHI,PHI,foul,4,False,False,,Harris OFF.Foul (P1) (M.Kogut),36-46,36,46
+0022100802,2022-02-06,CHI,PHI,18.17,2,5,50,CHI,CHI,fg_miss,9,False,False,MISS Dosunmu Driving Dunk,,36-46,36,46
+0022100802,2022-02-06,CHI,PHI,18.18,2,5,49,PHI,PHI,reb,0,False,False,,Maxey REBOUND (Off:0 Def:3),36-46,36,46
+0022100802,2022-02-06,CHI,PHI,18.3,2,5,42,PHI,PHI,fg_make,5,False,False,,Embiid 2' Layup (14 PTS) (Harris 2 AST),36-48,36,48
+0022100802,2022-02-06,CHI,PHI,18.3,2,5,42,PHI,PHI,ft_make,10,False,False,,Embiid Free Throw 1 of 1 (15 PTS),36-49,36,49
+0022100802,2022-02-06,CHI,PHI,18.3,2,5,42,PHI,CHI,foul,2,False,False,Brown Jr. S.FOUL (P1.T3) (C.Blair),,36-48,36,48
+0022100802,2022-02-06,CHI,PHI,18.53,2,5,28,CHI,CHI,fg3_miss,1,False,False,MISS Vucevic 25' 3PT Jump Shot,,36-49,36,49
+0022100802,2022-02-06,CHI,PHI,18.58,2,5,25,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:3),36-49,36,49
+0022100802,2022-02-06,CHI,PHI,18.68,2,5,19,PHI,PHI,ft_make,11,False,False,,Embiid Free Throw 1 of 2 (16 PTS),36-50,36,50
+0022100802,2022-02-06,CHI,PHI,18.68,2,5,19,PHI,CHI,foul,2,False,False,Vucevic S.FOUL (P2.T4) (M.Boland),,36-49,36,49
+0022100802,2022-02-06,CHI,PHI,18.68,2,5,19,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (17 PTS),36-51,36,51
+0022100802,2022-02-06,CHI,PHI,18.9,2,5,6,CHI,CHI,fg_make,5,False,False,Vucevic 1' Layup (8 PTS) (DeRozan 3 AST),,38-51,38,51
+0022100802,2022-02-06,CHI,PHI,19.3,2,4,42,PHI,PHI,fg_miss,47,False,False,,MISS Harris 10' Turnaround Jump Shot,38-51,38,51
+0022100802,2022-02-06,CHI,PHI,19.35,2,4,39,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:3),,38-51,38,51
+0022100802,2022-02-06,CHI,PHI,19.48,2,4,31,CHI,CHI,fg3_make,1,False,False,Thomas 3PT Jump Shot (3 PTS) (Vucevic 4 AST),,41-51,41,51
+0022100802,2022-02-06,CHI,PHI,19.77,2,4,14,PHI,PHI,fg_miss,79,False,False,,MISS Curry 21' Pullup Jump Shot,41-51,41,51
+0022100802,2022-02-06,CHI,PHI,19.83,2,4,10,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:0 Def:1),,41-51,41,51
+0022100802,2022-02-06,CHI,PHI,19.95,2,4,3,CHI,CHI,fg_miss,101,False,False,MISS DeRozan 7' Driving Floating Jump Shot,,41-51,41,51
+0022100802,2022-02-06,CHI,PHI,19.98,2,4,1,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:4),41-51,41,51
+0022100802,2022-02-06,CHI,PHI,20.1,2,3,54,PHI,PHI,fg_make,9,False,False,,Embiid 2' Driving Dunk (19 PTS),41-53,41,53
+0022100802,2022-02-06,CHI,PHI,20.4,2,3,36,CHI,CHI,fg_make,86,False,False,DeRozan 7' Turnaround Fadeaway (19 PTS) (Dosunmu 2 AST),,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,20.82,2,3,11,PHI,PHI,fg_miss,80,False,False,,MISS Embiid 16' Step Back Jump Shot,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,20.85,2,3,9,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:4),,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.03,2,2,58,CHI,CHI,fg_miss,47,False,False,MISS Vucevic 7' Turnaround Jump Shot,,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.07,2,2,56,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:2),43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.38,2,2,37,PHI,PHI,fg_miss,6,False,False,,MISS Maxey 1' Driving Layup,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.42,2,2,35,CHI,CHI,reb,0,False,False,Hill REBOUND (Off:0 Def:1),,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.67,2,2,20,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 13' Pullup Jump Shot,,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.72,2,2,17,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:5),43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.85,2,2,9,PHI,PHI,fg_miss,79,False,False,,MISS Embiid 15' Pullup Jump Shot,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,21.9,2,2,6,CHI,CHI,reb,0,False,False,Thomas REBOUND (Off:0 Def:3),,43-53,43,53
+0022100802,2022-02-06,CHI,PHI,22.18,2,1,49,CHI,CHI,fg_make,79,False,False,DeRozan 9' Pullup Jump Shot (21 PTS),,45-53,45,53
+0022100802,2022-02-06,CHI,PHI,22.18,2,1,49,CHI,PHI,foul,2,False,False,,Green S.FOUL (P1.T4) (M.Boland),45-53,45,53
+0022100802,2022-02-06,CHI,PHI,22.18,2,1,49,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.1 Short 0),45-53,45,53
+0022100802,2022-02-06,CHI,PHI,22.18,2,1,49,PHI,CHI,ft_make,10,False,False,DeRozan Free Throw 1 of 1 (22 PTS),,46-53,46,53
+0022100802,2022-02-06,CHI,PHI,22.38,2,1,37,PHI,PHI,fg_make,6,False,False,,Maxey 3' Driving Layup (10 PTS),46-55,46,55
+0022100802,2022-02-06,CHI,PHI,22.38,2,1,37,PHI,PHI,ft_make,10,False,False,,Maxey Free Throw 1 of 1 (11 PTS),46-56,46,56
+0022100802,2022-02-06,CHI,PHI,22.38,2,1,37,PHI,CHI,foul,2,False,False,Dosunmu S.FOUL (P2.PN) (M.Boland),,46-55,46,55
+0022100802,2022-02-06,CHI,PHI,22.63,2,1,22,CHI,CHI,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (24 PTS),,48-56,48,56
+0022100802,2022-02-06,CHI,PHI,22.63,2,1,22,CHI,PHI,foul,2,False,False,,Green S.FOUL (P2.PN) (C.Blair),46-56,46,56
+0022100802,2022-02-06,CHI,PHI,22.63,2,1,22,CHI,CHI,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (23 PTS),,47-56,47,56
+0022100802,2022-02-06,CHI,PHI,22.92,2,1,5,PHI,PHI,fg_make,6,False,False,,Harris 2' Driving Layup (7 PTS) (Maxey 5 AST),48-58,48,58
+0022100802,2022-02-06,CHI,PHI,23.08,2,0,55,CHI,CHI,fg_make,108,False,False,Green 1' Cutting Dunk Shot (6 PTS) (Dosunmu 3 AST),,50-58,50,58
+0022100802,2022-02-06,CHI,PHI,23.45,2,0,33,PHI,PHI,fg3_make,80,False,False,,Embiid 27' 3PT Step Back Jump Shot (22 PTS),50-61,50,61
+0022100802,2022-02-06,CHI,PHI,23.78,2,0,13,CHI,CHI,fg_make,6,False,False,DeRozan 1' Driving Layup (26 PTS) (Vucevic 5 AST),,52-61,52,61
+0022100802,2022-02-06,CHI,PHI,24.0,3,12,0,CHI,,period_start,0,False,False,,,52-61,52,61
+0022100802,2022-02-06,CHI,PHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,52-61,52,61
+0022100802,2022-02-06,CHI,PHI,24.0,2,0,0,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:0 Def:2),,52-61,52,61
+0022100802,2022-02-06,CHI,PHI,24.0,2,0,0,PHI,PHI,fg_miss,6,True,False,,MISS Harris 1' Driving Layup,52-61,52,61
+0022100802,2022-02-06,CHI,PHI,24.0,2,0,0,PHI,CHI,block,6,True,False,block,block,52-61,52,61
+0022100802,2022-02-06,CHI,PHI,24.27,3,11,44,CHI,CHI,fg_make,1,False,False,Vucevic 14' Jump Shot (10 PTS) (Dosunmu 4 AST),,54-61,54,61
+0022100802,2022-02-06,CHI,PHI,24.52,3,11,29,PHI,CHI,foul,1,False,False,Vucevic P.FOUL (P3.T1) (M.Boland),,54-61,54,61
+0022100802,2022-02-06,CHI,PHI,24.72,3,11,17,PHI,PHI,fg_miss,6,False,False,,MISS Curry 3' Driving Layup,54-61,54,61
+0022100802,2022-02-06,CHI,PHI,24.75,3,11,15,CHI,CHI,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:3),,54-61,54,61
+0022100802,2022-02-06,CHI,PHI,24.87,3,11,8,CHI,CHI,fg_make,98,False,False,Brown Jr. 1' Cutting Layup Shot (5 PTS) (Dosunmu 5 AST),,56-61,56,61
+0022100802,2022-02-06,CHI,PHI,25.17,3,10,50,PHI,PHI,fg3_make,79,False,False,,Curry 25' 3PT Pullup Jump Shot (10 PTS),56-64,56,64
+0022100802,2022-02-06,CHI,PHI,25.38,3,10,37,CHI,CHI,fg3_miss,1,False,False,MISS Vucevic 26' 3PT Jump Shot,,56-64,56,64
+0022100802,2022-02-06,CHI,PHI,25.47,3,10,32,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:3),56-64,56,64
+0022100802,2022-02-06,CHI,PHI,25.57,3,10,26,PHI,PHI,fg3_make,1,False,False,,Maxey 3PT Jump Shot (14 PTS) (Green 1 AST),56-67,56,67
+0022100802,2022-02-06,CHI,PHI,25.58,3,10,25,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,56-67,56,67
+0022100802,2022-02-06,CHI,PHI,25.85,3,10,9,CHI,CHI,fg_make,6,False,False,Dosunmu 1' Driving Layup (5 PTS),,58-67,58,67
+0022100802,2022-02-06,CHI,PHI,26.1,3,9,54,PHI,PHI,fg3_make,1,False,False,,Green 25' 3PT Jump Shot (5 PTS) (Curry 4 AST),58-70,58,70
+0022100802,2022-02-06,CHI,PHI,26.32,3,9,41,CHI,CHI,fg_make,80,False,False,DeRozan 17' Step Back Jump Shot (28 PTS) (Dosunmu 6 AST),,60-70,60,70
+0022100802,2022-02-06,CHI,PHI,26.67,3,9,20,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 16' Jump Shot,60-70,60,70
+0022100802,2022-02-06,CHI,PHI,26.73,3,9,16,CHI,CHI,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:4),,60-70,60,70
+0022100802,2022-02-06,CHI,PHI,26.87,3,9,8,CHI,PHI,foul,2,False,False,,Embiid S.FOUL (P1.T1) (M.Kogut),60-70,60,70
+0022100802,2022-02-06,CHI,PHI,26.87,3,9,8,CHI,CHI,ft_make,11,False,False,Vucevic Free Throw 1 of 2 (11 PTS),,61-70,61,70
+0022100802,2022-02-06,CHI,PHI,26.87,3,9,8,CHI,CHI,ft_make,12,False,False,Vucevic Free Throw 2 of 2 (12 PTS),,62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.07,3,8,56,PHI,PHI,tov,45,False,False,,Embiid Out of Bounds - Bad Pass Turnover Turnover (P2.T6),62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.33,3,8,40,CHI,CHI,fg_miss,1,False,False,MISS Vucevic 19' Jump Shot,,62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.35,3,8,39,PHI,CHI,foul,1,False,False,Hill P.FOUL (P1.T2) (M.Boland),,62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.35,3,8,39,PHI,PHI,reb,0,False,False,,Maxey REBOUND (Off:0 Def:4),62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.57,3,8,26,PHI,PHI,fg_miss,1,False,False,,MISS Curry 17' Jump Shot,62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.68,3,8,19,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:0 Def:3),,62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.68,3,8,19,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:5),62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.68,3,8,19,PHI,PHI,fg_miss,97,False,False,,MISS Embiid Tip Layup Shot,62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.77,3,8,14,CHI,CHI,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (29 PTS),,63-70,63,70
+0022100802,2022-02-06,CHI,PHI,27.77,3,8,14,CHI,CHI,ft_miss,12,False,False,MISS DeRozan Free Throw 2 of 2,,63-70,63,70
+0022100802,2022-02-06,CHI,PHI,27.77,3,8,14,CHI,PHI,foul,2,False,False,,Green S.FOUL (P3.T2) (M.Boland),62-70,62,70
+0022100802,2022-02-06,CHI,PHI,27.82,3,8,11,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:4),63-70,63,70
+0022100802,2022-02-06,CHI,PHI,27.95,3,8,3,PHI,CHI,steal,1,False,True,steal,steal,63-70,63,70
+0022100802,2022-02-06,CHI,PHI,27.95,3,8,3,PHI,PHI,tov,1,False,True,,Embiid Bad Pass Turnover (P3.T7),63-70,63,70
+0022100802,2022-02-06,CHI,PHI,28.03,3,7,58,CHI,CHI,tov,4,False,False,DeRozan Traveling Turnover (P1.T4),,63-70,63,70
+0022100802,2022-02-06,CHI,PHI,28.22,3,7,47,PHI,PHI,ft_make,10,False,False,,Embiid Free Throw 1 of 1 (25 PTS),63-73,63,73
+0022100802,2022-02-06,CHI,PHI,28.22,3,7,47,PHI,CHI,foul,2,False,False,DeRozan S.FOUL (P2.T3) (C.Blair),,63-72,63,72
+0022100802,2022-02-06,CHI,PHI,28.22,3,7,47,PHI,PHI,fg_make,5,False,False,,Embiid 2' Layup (24 PTS) (Harris 3 AST),63-72,63,72
+0022100802,2022-02-06,CHI,PHI,28.4,3,7,36,CHI,CHI,fg_make,102,False,False,DeRozan 6' Driving Floating Bank Jump Shot (31 PTS),,65-73,65,73
+0022100802,2022-02-06,CHI,PHI,28.6,3,7,24,PHI,CHI,foul,2,False,False,Vucevic S.FOUL (P4.T4) (M.Boland),,65-75,65,75
+0022100802,2022-02-06,CHI,PHI,28.6,3,7,24,PHI,PHI,fg_make,79,False,False,,Embiid 11' Pullup Jump Shot (27 PTS) (Harris 4 AST),65-75,65,75
+0022100802,2022-02-06,CHI,PHI,28.6,3,7,24,PHI,PHI,ft_make,10,False,False,,Embiid Free Throw 1 of 1 (28 PTS),65-76,65,76
+0022100802,2022-02-06,CHI,PHI,28.83,3,7,10,CHI,PHI,foul,1,False,False,,Harris P.FOUL (P2.T3) (C.Blair),65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.03,3,6,58,CHI,CHI,tov,1,False,True,Green Bad Pass Turnover (P1.T5),,65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.03,3,6,58,CHI,PHI,steal,1,False,True,steal,steal,65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.18,3,6,49,PHI,PHI,fg_miss,80,False,False,,MISS Curry 17' Step Back Jump Shot,65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.22,3,6,47,CHI,CHI,reb,0,False,False,Hill REBOUND (Off:0 Def:2),,65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.37,3,6,38,CHI,CHI,fg_miss,47,False,False,MISS Vucevic 8' Turnaround Jump Shot,,65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.38,3,6,37,CHI,CHI,ft_make,11,False,False,Hill Free Throw 1 of 2 (4 PTS),,66-76,66,76
+0022100802,2022-02-06,CHI,PHI,29.38,3,6,37,CHI,CHI,reb,0,False,False,Hill REBOUND (Off:1 Def:2),,65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.38,3,6,37,CHI,CHI,ft_make,12,False,False,Hill Free Throw 2 of 2 (5 PTS),,67-76,67,76
+0022100802,2022-02-06,CHI,PHI,29.38,3,6,37,CHI,PHI,foul,2,False,False,,Embiid S.FOUL (P2.T4) (M.Kogut),65-76,65,76
+0022100802,2022-02-06,CHI,PHI,29.58,3,6,25,PHI,PHI,fg_make,51,False,False,,Harris 1' Reverse Dunk (9 PTS) (Embiid 3 AST),67-78,67,78
+0022100802,2022-02-06,CHI,PHI,29.58,3,6,25,PHI,PHI,ft_make,10,False,False,,Harris Free Throw 1 of 1 (10 PTS),67-79,67,79
+0022100802,2022-02-06,CHI,PHI,29.58,3,6,25,PHI,PHI,reb,1,False,False,,76ers Rebound,67-78,67,78
+0022100802,2022-02-06,CHI,PHI,29.58,3,6,25,PHI,PHI,ft_miss,16,False,False,,MISS Harris Free Throw Technical,67-78,67,78
+0022100802,2022-02-06,CHI,PHI,29.58,3,6,25,PHI,CHI,foul,11,False,False,Vucevic T.FOUL (P4.PN) (M.Kogut),,67-78,67,78
+0022100802,2022-02-06,CHI,PHI,29.58,3,6,25,PHI,CHI,foul,2,False,False,Green S.FOUL (P2.PN) (M.Kogut),,67-78,67,78
+0022100802,2022-02-06,CHI,PHI,29.85,3,6,9,CHI,CHI,fg_miss,75,False,False,MISS Vucevic 2' Driving Finger Roll Layup,,67-79,67,79
+0022100802,2022-02-06,CHI,PHI,29.9,3,6,6,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:3),,67-79,67,79
+0022100802,2022-02-06,CHI,PHI,30.02,3,5,59,CHI,CHI,fg_make,79,False,False,DeRozan 10' Pullup Jump Shot (33 PTS),,69-79,69,79
+0022100802,2022-02-06,CHI,PHI,30.28,3,5,43,PHI,PHI,ft_miss,10,False,False,,MISS Harris Free Throw 1 of 1,69-81,69,81
+0022100802,2022-02-06,CHI,PHI,30.28,3,5,43,PHI,PHI,fg_make,6,False,False,,Harris 1' Driving Layup (12 PTS),69-81,69,81
+0022100802,2022-02-06,CHI,PHI,30.28,3,5,43,PHI,CHI,foul,2,False,False,Green S.FOUL (P3.PN) (M.Boland),,69-81,69,81
+0022100802,2022-02-06,CHI,PHI,30.33,3,5,40,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:4),,69-81,69,81
+0022100802,2022-02-06,CHI,PHI,30.63,3,5,22,CHI,CHI,fg_make,57,False,False,Vucevic 3' Driving Hook Shot (14 PTS),,71-81,71,81
+0022100802,2022-02-06,CHI,PHI,30.93,3,5,4,PHI,PHI,fg_miss,79,False,False,,MISS Embiid 12' Pullup Jump Shot,71-81,71,81
+0022100802,2022-02-06,CHI,PHI,30.95,3,5,3,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.2 Short 0),71-81,71,81
+0022100802,2022-02-06,CHI,PHI,30.95,3,5,3,PHI,PHI,reb,0,False,False,,76ers Rebound,71-81,71,81
+0022100802,2022-02-06,CHI,PHI,31.1,3,4,54,PHI,PHI,fg3_miss,1,False,False,,MISS Niang 3PT Jump Shot,71-81,71,81
+0022100802,2022-02-06,CHI,PHI,31.17,3,4,50,CHI,CHI,reb,0,False,False,Thomas REBOUND (Off:0 Def:4),,71-81,71,81
+0022100802,2022-02-06,CHI,PHI,31.3,3,4,42,CHI,CHI,ft_make,12,False,False,Vucevic Free Throw 2 of 2 (15 PTS),,72-81,72,81
+0022100802,2022-02-06,CHI,PHI,31.3,3,4,42,CHI,PHI,foul,1,False,False,,Embiid P.FOUL (P3.PN) (M.Boland),71-81,71,81
+0022100802,2022-02-06,CHI,PHI,31.3,3,4,42,CHI,CHI,ft_miss,11,False,False,MISS Vucevic Free Throw 1 of 2,,71-81,71,81
+0022100802,2022-02-06,CHI,PHI,31.3,3,4,42,CHI,CHI,reb,1,False,False,BULLS Rebound,,71-81,71,81
+0022100802,2022-02-06,CHI,PHI,31.52,3,4,29,PHI,PHI,fg_miss,6,True,False,,MISS Embiid 6' Driving Layup,72-81,72,81
+0022100802,2022-02-06,CHI,PHI,31.52,3,4,29,PHI,CHI,block,6,True,False,block,block,72-81,72,81
+0022100802,2022-02-06,CHI,PHI,31.58,3,4,25,CHI,CHI,reb,0,False,False,Thomas REBOUND (Off:0 Def:5),,72-81,72,81
+0022100802,2022-02-06,CHI,PHI,31.62,3,4,23,CHI,CHI,fg3_make,1,False,False,Vucevic 28' 3PT Jump Shot (18 PTS) (Thomas 1 AST),,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.03,3,3,58,PHI,PHI,fg_miss,101,False,False,,MISS Korkmaz 15' Driving Floating Jump Shot,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.08,3,3,55,CHI,CHI,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:5),,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.15,3,3,51,CHI,CHI,reb,0,False,False,BULLS Rebound,,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.15,3,3,51,CHI,CHI,fg_miss,6,False,False,MISS Hill 2' Driving Layup,,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.38,3,3,37,CHI,CHI,fg_miss,1,False,False,MISS Thomas 20' Jump Shot,,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.42,3,3,35,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:2 Def:4),,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.43,3,3,34,CHI,PHI,block,72,True,False,block,block,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.43,3,3,34,PHI,PHI,ft_make,11,False,False,,Embiid Free Throw 1 of 2 (29 PTS),75-82,75,82
+0022100802,2022-02-06,CHI,PHI,32.43,3,3,34,CHI,CHI,fg_miss,72,True,False,MISS Vucevic 2' Putback Layup,,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.43,3,3,34,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:6),75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.43,3,3,34,PHI,CHI,foul,1,False,False,Dosunmu P.FOUL (P3.PN) (M.Boland),,75-81,75,81
+0022100802,2022-02-06,CHI,PHI,32.43,3,3,34,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (30 PTS),75-83,75,83
+0022100802,2022-02-06,CHI,PHI,32.65,3,3,21,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 17' Pullup Jump Shot,,75-83,75,83
+0022100802,2022-02-06,CHI,PHI,32.7,3,3,18,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:7),75-83,75,83
+0022100802,2022-02-06,CHI,PHI,32.83,3,3,10,PHI,CHI,foul,1,False,False,Bradley P.FOUL (P1.PN) (M.Kogut),,75-83,75,83
+0022100802,2022-02-06,CHI,PHI,32.83,3,3,10,PHI,PHI,ft_make,11,False,False,,Embiid Free Throw 1 of 2 (31 PTS),75-84,75,84
+0022100802,2022-02-06,CHI,PHI,32.83,3,3,10,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (32 PTS),75-85,75,85
+0022100802,2022-02-06,CHI,PHI,33.15,3,2,51,CHI,CHI,fg_make,75,False,False,DeRozan 2' Driving Finger Roll Layup (35 PTS),,77-85,77,85
+0022100802,2022-02-06,CHI,PHI,33.27,3,2,44,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.3 Short 0),77-85,77,85
+0022100802,2022-02-06,CHI,PHI,33.58,3,2,25,PHI,PHI,fg_miss,75,False,False,,MISS Maxey 2' Driving Finger Roll Layup,77-85,77,85
+0022100802,2022-02-06,CHI,PHI,33.62,3,2,23,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:1 Def:6),77-85,77,85
+0022100802,2022-02-06,CHI,PHI,33.7,3,2,18,PHI,PHI,fg3_miss,1,False,False,,MISS Maxey 3PT Jump Shot,77-85,77,85
+0022100802,2022-02-06,CHI,PHI,33.75,3,2,15,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:5),,77-85,77,85
+0022100802,2022-02-06,CHI,PHI,33.93,3,2,4,CHI,CHI,fg_make,79,False,False,DeRozan 16' Pullup Jump Shot (37 PTS),,79-85,79,85
+0022100802,2022-02-06,CHI,PHI,34.38,3,1,37,PHI,PHI,fg_miss,80,False,False,,MISS Curry 21' Step Back Jump Shot,79-85,79,85
+0022100802,2022-02-06,CHI,PHI,34.43,3,1,34,CHI,CHI,reb,0,False,False,Bradley REBOUND (Off:0 Def:3),,79-85,79,85
+0022100802,2022-02-06,CHI,PHI,34.55,3,1,27,CHI,CHI,fg_make,101,False,False,DeRozan 7' Driving Floating Jump Shot (39 PTS),,81-85,81,85
+0022100802,2022-02-06,CHI,PHI,34.83,3,1,10,PHI,PHI,fg_make,79,False,False,,Niang 6' Pullup Jump Shot (5 PTS) (Drummond 3 AST),81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.17,3,0,50,CHI,CHI,fg3_miss,1,False,False,MISS Thomas 27' 3PT Jump Shot,,81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.22,3,0,47,PHI,PHI,reb,0,False,False,,Curry REBOUND (Off:0 Def:2),81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.5,3,0,30,PHI,PHI,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.57,3,0,26,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:6),,81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.85,3,0,9,CHI,CHI,fg_miss,101,False,False,MISS DeRozan 5' Driving Floating Jump Shot,,81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.88,3,0,7,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:1 Def:6),,81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.9,3,0,6,CHI,PHI,steal,2,False,True,steal,steal,81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.9,3,0,6,CHI,CHI,tov,2,False,True,DeRozan Lost Ball Turnover (P2.T6),,81-87,81,87
+0022100802,2022-02-06,CHI,PHI,35.95,3,0,3,PHI,PHI,fg_make,5,False,False,,Maxey 1' Layup (16 PTS) (Korkmaz 2 AST),81-89,81,89
+0022100802,2022-02-06,CHI,PHI,36.0,4,12,0,CHI,,period_start,0,False,False,,,81-89,81,89
+0022100802,2022-02-06,CHI,PHI,36.0,3,0,0,CHI,,period_end,0,False,False,,,81-89,81,89
+0022100802,2022-02-06,CHI,PHI,36.0,3,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,81-89,81,89
+0022100802,2022-02-06,CHI,PHI,36.0,3,0,0,CHI,CHI,fg3_miss,1,False,False,MISS Brown Jr. 30' 3PT Jump Shot,,81-89,81,89
+0022100802,2022-02-06,CHI,PHI,36.32,4,11,41,PHI,PHI,fg_make,6,False,False,,Korkmaz 3' Driving Layup (9 PTS),81-91,81,91
+0022100802,2022-02-06,CHI,PHI,36.6,4,11,24,CHI,CHI,fg_miss,86,False,False,MISS DeRozan 15' Turnaround Fadeaway Shot,,81-91,81,91
+0022100802,2022-02-06,CHI,PHI,36.63,4,11,22,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:1),81-91,81,91
+0022100802,2022-02-06,CHI,PHI,36.75,4,11,15,PHI,PHI,fg3_make,80,False,False,,Green 3PT Step Back Jump Shot (8 PTS),81-94,81,94
+0022100802,2022-02-06,CHI,PHI,37.1,4,10,54,CHI,CHI,fg3_miss,1,False,False,MISS Thomas 33' 3PT Jump Shot,,81-94,81,94
+0022100802,2022-02-06,CHI,PHI,37.12,4,10,53,PHI,CHI,foul,3,False,False,Bradley L.B.FOUL (P2.T1) (M.Kogut),,81-94,81,94
+0022100802,2022-02-06,CHI,PHI,37.12,4,10,53,PHI,PHI,reb,0,False,False,,76ers Rebound,81-94,81,94
+0022100802,2022-02-06,CHI,PHI,37.32,4,10,41,PHI,PHI,fg_make,79,False,False,,Harris 15' Pullup Jump Shot (14 PTS) (Niang 2 AST),81-96,81,96
+0022100802,2022-02-06,CHI,PHI,37.57,4,10,26,CHI,PHI,steal,1,False,True,steal,steal,81-96,81,96
+0022100802,2022-02-06,CHI,PHI,37.57,4,10,26,CHI,CHI,tov,1,False,True,DeRozan Bad Pass Turnover (P3.T7),,81-96,81,96
+0022100802,2022-02-06,CHI,PHI,37.65,4,10,21,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 5 Short 0),,81-98,81,98
+0022100802,2022-02-06,CHI,PHI,37.65,4,10,21,PHI,PHI,fg_make,76,False,False,,Harris 1' Running Finger Roll Layup (16 PTS),81-98,81,98
+0022100802,2022-02-06,CHI,PHI,38.02,4,9,59,CHI,CHI,fg_make,79,False,False,Thomas 20' Pullup Jump Shot (5 PTS) (DeRozan 4 AST),,83-98,83,98
+0022100802,2022-02-06,CHI,PHI,38.43,4,9,34,PHI,PHI,fg3_miss,1,False,False,,MISS Green 31' 3PT Jump Shot,83-98,83,98
+0022100802,2022-02-06,CHI,PHI,38.48,4,9,31,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:1 Def:7),,83-98,83,98
+0022100802,2022-02-06,CHI,PHI,38.7,4,9,18,CHI,CHI,fg_make,5,False,False,Green Layup (8 PTS) (Dosunmu 7 AST),,85-98,85,98
+0022100802,2022-02-06,CHI,PHI,38.95,4,9,3,PHI,CHI,steal,2,False,True,steal,steal,85-98,85,98
+0022100802,2022-02-06,CHI,PHI,38.95,4,9,3,PHI,PHI,tov,2,False,True,,Korkmaz Lost Ball Turnover (P1.T8),85-98,85,98
+0022100802,2022-02-06,CHI,PHI,39.0,4,9,0,CHI,CHI,ft_make,12,False,False,Green Free Throw 2 of 2 (10 PTS),,87-98,87,98
+0022100802,2022-02-06,CHI,PHI,39.0,4,9,0,CHI,CHI,ft_make,11,False,False,Green Free Throw 1 of 2 (9 PTS),,86-98,86,98
+0022100802,2022-02-06,CHI,PHI,39.0,4,9,0,CHI,PHI,foul,2,False,False,,Niang S.FOUL (P1.T1) (M.Kogut),85-98,85,98
+0022100802,2022-02-06,CHI,PHI,39.33,4,8,40,PHI,PHI,fg_miss,63,False,False,,MISS Korkmaz 9' Fadeaway Jumper,87-98,87,98
+0022100802,2022-02-06,CHI,PHI,39.37,4,8,38,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:2 Def:5),,87-98,87,98
+0022100802,2022-02-06,CHI,PHI,39.45,4,8,33,CHI,CHI,fg3_make,1,False,False,Vucevic 27' 3PT Jump Shot (21 PTS) (DeRozan 5 AST),,90-98,90,98
+0022100802,2022-02-06,CHI,PHI,39.68,4,8,19,PHI,PHI,tov,40,False,False,,Harris Out of Bounds Lost Ball Turnover (P2.T9),90-98,90,98
+0022100802,2022-02-06,CHI,PHI,39.78,4,8,13,CHI,CHI,ft_make,19,False,False,Vucevic Free Throw Flagrant 2 of 2 (23 PTS),,92-98,92,98
+0022100802,2022-02-06,CHI,PHI,39.78,4,8,13,CHI,PHI,foul,14,False,False,,Niang FLAGRANT.FOUL.TYPE1 (P2.T2) (C.Blair),90-98,90,98
+0022100802,2022-02-06,CHI,PHI,39.78,4,8,13,CHI,CHI,ft_make,18,False,False,Vucevic Free Throw Flagrant 1 of 2 (22 PTS),,91-98,91,98
+0022100802,2022-02-06,CHI,PHI,39.9,4,8,6,CHI,CHI,fg_make,79,False,False,DeRozan 20' Pullup Jump Shot (41 PTS),,94-98,94,98
+0022100802,2022-02-06,CHI,PHI,40.17,4,7,50,PHI,PHI,fg_make,6,False,False,,Harris 2' Driving Layup (18 PTS) (Maxey 6 AST),94-100,94,100
+0022100802,2022-02-06,CHI,PHI,40.37,4,7,38,CHI,CHI,fg3_miss,1,False,False,MISS Vucevic 26' 3PT Jump Shot,,94-100,94,100
+0022100802,2022-02-06,CHI,PHI,40.38,4,7,37,CHI,CHI,ft_make,12,False,False,Green Free Throw 2 of 2 (12 PTS),,96-100,96,100
+0022100802,2022-02-06,CHI,PHI,40.38,4,7,37,CHI,CHI,ft_make,11,False,False,Green Free Throw 1 of 2 (11 PTS),,95-100,95,100
+0022100802,2022-02-06,CHI,PHI,40.38,4,7,37,CHI,PHI,foul,2,False,False,,Niang S.FOUL (P3.T3) (M.Kogut),94-100,94,100
+0022100802,2022-02-06,CHI,PHI,40.38,4,7,37,CHI,CHI,reb,0,False,False,Green REBOUND (Off:1 Def:0),,94-100,94,100
+0022100802,2022-02-06,CHI,PHI,40.6,4,7,24,PHI,PHI,fg_make,80,False,False,,Embiid 14' Step Back Jump Shot (34 PTS) (Niang 3 AST),96-102,96,102
+0022100802,2022-02-06,CHI,PHI,40.87,4,7,8,CHI,CHI,fg_miss,101,False,False,MISS DeRozan 9' Driving Floating Jump Shot,,96-102,96,102
+0022100802,2022-02-06,CHI,PHI,40.92,4,7,5,CHI,CHI,fg_make,97,False,False,Green Tip Layup Shot (14 PTS),,98-102,98,102
+0022100802,2022-02-06,CHI,PHI,40.92,4,7,5,CHI,CHI,reb,0,False,False,Green REBOUND (Off:2 Def:0),,96-102,96,102
+0022100802,2022-02-06,CHI,PHI,41.13,4,6,52,PHI,PHI,ft_make,10,False,False,,Harris Free Throw 1 of 1 (21 PTS),98-105,98,105
+0022100802,2022-02-06,CHI,PHI,41.13,4,6,52,PHI,CHI,foul,2,False,False,Vucevic S.FOUL (P5.T2) (M.Kogut),,98-104,98,104
+0022100802,2022-02-06,CHI,PHI,41.13,4,6,52,PHI,PHI,fg_make,6,False,False,,Harris 4' Driving Layup (20 PTS),98-104,98,104
+0022100802,2022-02-06,CHI,PHI,41.33,4,6,40,CHI,PHI,foul,2,False,False,,Harris S.FOUL (P3.T4) (M.Boland),98-105,98,105
+0022100802,2022-02-06,CHI,PHI,41.33,4,6,40,CHI,CHI,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (42 PTS),,99-105,99,105
+0022100802,2022-02-06,CHI,PHI,41.33,4,6,40,CHI,CHI,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (43 PTS),,100-105,100,105
+0022100802,2022-02-06,CHI,PHI,41.58,4,6,25,PHI,PHI,fg_make,6,False,False,,Embiid 1' Driving Layup (36 PTS),100-107,100,107
+0022100802,2022-02-06,CHI,PHI,41.85,4,6,9,CHI,PHI,steal,1,False,True,steal,steal,100-107,100,107
+0022100802,2022-02-06,CHI,PHI,41.85,4,6,9,CHI,CHI,tov,1,False,True,Vucevic Bad Pass Turnover (P3.T8),,100-107,100,107
+0022100802,2022-02-06,CHI,PHI,41.98,4,6,1,PHI,PHI,fg_make,9,False,False,,Embiid 1' Driving Dunk (38 PTS) (Niang 4 AST),100-109,100,109
+0022100802,2022-02-06,CHI,PHI,42.3,4,5,42,CHI,CHI,fg_miss,1,False,False,MISS DeRozan 14' Jump Shot,,100-109,100,109
+0022100802,2022-02-06,CHI,PHI,42.35,4,5,39,PHI,PHI,reb,0,False,False,,Niang REBOUND (Off:0 Def:3),100-109,100,109
+0022100802,2022-02-06,CHI,PHI,42.57,4,5,26,PHI,PHI,fg3_miss,1,False,False,,MISS Embiid 25' 3PT Jump Shot,100-109,100,109
+0022100802,2022-02-06,CHI,PHI,42.63,4,5,22,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:1 Def:8),,100-109,100,109
+0022100802,2022-02-06,CHI,PHI,42.75,4,5,15,CHI,CHI,fg3_make,1,False,False,Green 26' 3PT Jump Shot (17 PTS) (DeRozan 6 AST),,103-109,103,109
+0022100802,2022-02-06,CHI,PHI,43.17,4,4,50,PHI,PHI,fg_make,80,False,False,,Embiid 17' Step Back Jump Shot (40 PTS),103-111,103,111
+0022100802,2022-02-06,CHI,PHI,43.53,4,4,28,CHI,CHI,fg3_miss,1,False,False,MISS DeRozan 26' 3PT Jump Shot,,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,43.58,4,4,25,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:8),103-111,103,111
+0022100802,2022-02-06,CHI,PHI,43.85,4,4,9,PHI,PHI,fg_miss,101,False,False,,MISS Curry 7' Driving Floating Jump Shot,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,43.88,4,4,7,CHI,CHI,reb,0,False,False,Thomas REBOUND (Off:0 Def:6),,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.12,4,3,53,CHI,CHI,fg3_miss,1,False,False,MISS Thomas 27' 3PT Jump Shot,,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.13,4,3,52,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.4 Short 0),103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.13,4,3,52,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:5),103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.53,4,3,28,PHI,PHI,fg3_miss,1,False,False,,MISS Embiid 26' 3PT Jump Shot,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.58,4,3,25,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:2 Def:5),103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.6,4,3,24,PHI,PHI,reb,1,False,False,,76ers Rebound,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.6,4,3,24,PHI,PHI,ft_miss,11,False,False,,MISS Niang Free Throw 1 of 2,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.6,4,3,24,PHI,CHI,foul,2,False,False,DeRozan S.FOUL (P3.T3) (M.Kogut),,103-111,103,111
+0022100802,2022-02-06,CHI,PHI,44.6,4,3,24,PHI,PHI,ft_make,12,False,False,,Niang Free Throw 2 of 2 (6 PTS),103-112,103,112
+0022100802,2022-02-06,CHI,PHI,44.83,4,3,10,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.5 Short 0),106-112,106,112
+0022100802,2022-02-06,CHI,PHI,44.83,4,3,10,CHI,CHI,fg3_make,1,False,False,Dosunmu 3PT Jump Shot (8 PTS) (DeRozan 7 AST),,106-112,106,112
+0022100802,2022-02-06,CHI,PHI,45.22,4,2,47,PHI,PHI,fg_make,101,False,False,,Curry 6' Driving Floating Jump Shot (12 PTS),106-114,106,114
+0022100802,2022-02-06,CHI,PHI,45.52,4,2,29,CHI,CHI,fg3_miss,1,False,False,MISS Dosunmu 3PT Jump Shot,,106-114,106,114
+0022100802,2022-02-06,CHI,PHI,45.57,4,2,26,PHI,PHI,reb,0,False,False,,Curry REBOUND (Off:0 Def:3),106-114,106,114
+0022100802,2022-02-06,CHI,PHI,45.85,4,2,9,PHI,CHI,violation,5,False,False,Vucevic Violation:Kicked Ball (C.Blair),,106-114,106,114
+0022100802,2022-02-06,CHI,PHI,46.0,4,2,0,PHI,PHI,fg_make,6,False,False,,Harris 3' Driving Layup (23 PTS),106-116,106,116
+0022100802,2022-02-06,CHI,PHI,46.18,4,1,49,CHI,CHI,fg3_miss,1,False,False,MISS Vucevic 27' 3PT Jump Shot,,106-116,106,116
+0022100802,2022-02-06,CHI,PHI,46.23,4,1,46,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:2 Def:6),106-116,106,116
+0022100802,2022-02-06,CHI,PHI,46.45,4,1,33,PHI,PHI,fg_miss,79,False,False,,MISS Harris 18' Pullup Jump Shot,106-116,106,116
+0022100802,2022-02-06,CHI,PHI,46.55,4,1,27,CHI,CHI,reb,0,False,False,Dosunmu REBOUND (Off:0 Def:2),,106-116,106,116
+0022100802,2022-02-06,CHI,PHI,46.63,4,1,22,CHI,CHI,fg_make,79,False,False,DeRozan 17' Pullup Jump Shot (45 PTS),,108-116,108,116
+0022100802,2022-02-06,CHI,PHI,46.85,4,1,9,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 6 Short 0),,108-116,108,116
+0022100802,2022-02-06,CHI,PHI,46.85,4,1,9,PHI,PHI,tov,37,False,False,,Embiid Offensive Foul Turnover (P4.T10),108-116,108,116
+0022100802,2022-02-06,CHI,PHI,46.85,4,1,9,CHI,PHI,foul,4,False,False,,Embiid OFF.Foul (P4) (C.Blair),108-116,108,116
+0022100802,2022-02-06,CHI,PHI,46.98,4,1,1,CHI,CHI,fg3_miss,1,False,False,MISS DeRozan 25' 3PT Jump Shot,,108-116,108,116
+0022100802,2022-02-06,CHI,PHI,47.07,4,0,56,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:9),108-116,108,116
+0022100802,2022-02-06,CHI,PHI,47.3,4,0,42,PHI,PHI,fg3_make,1,False,False,,Niang 25' 3PT Jump Shot (9 PTS) (Harris 5 AST),108-119,108,119
+0022100802,2022-02-06,CHI,PHI,47.3,4,0,42,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 7 Short 0),,108-119,108,119
+0022100802,2022-02-06,CHI,PHI,47.5,4,0,30,CHI,CHI,reb,0,False,False,BULLS Rebound,,108-119,108,119
+0022100802,2022-02-06,CHI,PHI,47.5,4,0,30,CHI,CHI,fg_miss,6,True,False,MISS Brown Jr. 4' Driving Layup,,108-119,108,119
+0022100802,2022-02-06,CHI,PHI,47.5,4,0,30,CHI,PHI,block,6,True,False,block,block,108-119,108,119
+0022100802,2022-02-06,CHI,PHI,47.53,4,0,28,CHI,CHI,fg_miss,1,False,False,MISS Thomas 17' Jump Shot,,108-119,108,119
+0022100802,2022-02-06,CHI,PHI,47.6,4,0,24,PHI,PHI,reb,0,False,False,,Drummond REBOUND (Off:1 Def:7),108-119,108,119
+0022100802,2022-02-06,CHI,PHI,47.97,4,0,2,PHI,PHI,tov,11,False,False,,76ers Turnover: Shot Clock (T#11),108-119,108,119
+0022100802,2022-02-06,CHI,PHI,48.0,4,0,0,PHI,,period_end,0,False,False,,,108-119,108,119

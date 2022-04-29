@@ -1,0 +1,415 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000143,2021-01-10,BKN,OKC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000143,2021-01-10,BKN,OKC,0.0,1,12,0,,BKN,jump_ball,0,False,False,Jump Ball Allen vs. Horford: Tip to G. Hill,,0-0,0,0
+0022000143,2021-01-10,BKN,OKC,0.22,1,11,47,OKC,OKC,tov,45,False,False,,G. Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T1),0-0,0,0
+0022000143,2021-01-10,BKN,OKC,0.47,1,11,32,BKN,BKN,fg_make,1,False,False,Harris 20' Jump Shot (2 PTS) (Durant 1 AST),,2-0,2,0
+0022000143,2021-01-10,BKN,OKC,0.88,1,11,7,OKC,OKC,fg_miss,58,False,False,,MISS Horford 6' Turnaround Hook Shot,2-0,2,0
+0022000143,2021-01-10,BKN,OKC,0.93,1,11,4,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:1),,2-0,2,0
+0022000143,2021-01-10,BKN,OKC,1.0,1,11,0,BKN,BKN,fg3_miss,79,False,False,MISS Durant 27' 3PT Pullup Jump Shot,,2-0,2,0
+0022000143,2021-01-10,BKN,OKC,1.05,1,10,57,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:1),2-0,2,0
+0022000143,2021-01-10,BKN,OKC,1.23,1,10,46,OKC,OKC,fg_make,73,False,False,,Gilgeous-Alexander 2' Driving Reverse Layup (2 PTS),2-2,2,2
+0022000143,2021-01-10,BKN,OKC,1.42,1,10,35,BKN,BKN,fg3_miss,1,False,False,MISS Durant 26' 3PT Jump Shot,,2-2,2,2
+0022000143,2021-01-10,BKN,OKC,1.5,1,10,30,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:1),2-2,2,2
+0022000143,2021-01-10,BKN,OKC,1.62,1,10,23,OKC,OKC,fg3_miss,1,False,False,,MISS Horford 27' 3PT Jump Shot,2-2,2,2
+0022000143,2021-01-10,BKN,OKC,1.65,1,10,21,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,2-2,2,2
+0022000143,2021-01-10,BKN,OKC,1.75,1,10,15,BKN,BKN,fg3_make,79,False,False,LeVert 27' 3PT Pullup Jump Shot (3 PTS),,5-2,5,2
+0022000143,2021-01-10,BKN,OKC,1.97,1,10,2,OKC,OKC,fg3_make,79,False,False,,Gilgeous-Alexander 27' 3PT Pullup Jump Shot (5 PTS),5-5,5,5
+0022000143,2021-01-10,BKN,OKC,2.25,1,9,45,BKN,BKN,fg_make,5,False,False,Allen 2' Layup (2 PTS) (Green 1 AST),,7-5,7,5
+0022000143,2021-01-10,BKN,OKC,2.57,1,9,26,OKC,OKC,fg_miss,58,False,False,,MISS Horford 7' Turnaround Hook Shot,7-5,7,5
+0022000143,2021-01-10,BKN,OKC,2.6,1,9,24,BKN,BKN,reb,0,False,False,Green REBOUND (Off:0 Def:1),,7-5,7,5
+0022000143,2021-01-10,BKN,OKC,2.68,1,9,19,BKN,BKN,tov,1,False,True,LeVert Bad Pass Turnover (P1.T1),,7-5,7,5
+0022000143,2021-01-10,BKN,OKC,2.68,1,9,19,BKN,OKC,steal,1,False,True,steal,steal,7-5,7,5
+0022000143,2021-01-10,BKN,OKC,2.75,1,9,15,OKC,OKC,tov,2,False,True,,Dort Lost Ball Turnover (P1.T2),7-5,7,5
+0022000143,2021-01-10,BKN,OKC,2.75,1,9,15,OKC,BKN,steal,2,False,True,steal,steal,7-5,7,5
+0022000143,2021-01-10,BKN,OKC,2.83,1,9,10,BKN,OKC,foul,1,False,False,,Gilgeous-Alexander P.FOUL (P1.T1) (S.Corbin),7-5,7,5
+0022000143,2021-01-10,BKN,OKC,3.0,1,9,0,BKN,BKN,fg_make,78,False,False,Harris 7' Floating Jump Shot (4 PTS),,9-5,9,5
+0022000143,2021-01-10,BKN,OKC,3.35,1,8,39,OKC,OKC,fg_make,71,False,False,,Gilgeous-Alexander 3' Finger Roll Layup (7 PTS),9-7,9,7
+0022000143,2021-01-10,BKN,OKC,3.58,1,8,25,BKN,BKN,fg_make,5,False,False,LeVert 1' Layup (5 PTS),,11-7,11,7
+0022000143,2021-01-10,BKN,OKC,3.58,1,8,25,BKN,OKC,foul,2,False,False,,Horford S.FOUL (P1.T2) (J.Sterling),11-7,11,7
+0022000143,2021-01-10,BKN,OKC,3.58,1,8,25,BKN,BKN,ft_make,10,False,False,LeVert Free Throw 1 of 1 (6 PTS),,12-7,12,7
+0022000143,2021-01-10,BKN,OKC,3.78,1,8,13,OKC,OKC,fg3_make,80,False,False,,Bazley 25' 3PT Step Back Jump Shot (3 PTS),12-10,12,10
+0022000143,2021-01-10,BKN,OKC,4.07,1,7,56,BKN,BKN,fg_make,1,False,False,Durant 13' Jump Shot (2 PTS),,14-10,14,10
+0022000143,2021-01-10,BKN,OKC,4.47,1,7,32,OKC,OKC,fg_make,9,False,False,,Bazley Driving Dunk (5 PTS) (Horford 1 AST),14-12,14,12
+0022000143,2021-01-10,BKN,OKC,4.7,1,7,18,BKN,BKN,fg_make,108,False,False,Allen Cutting Dunk Shot (4 PTS) (LeVert 1 AST),,16-12,16,12
+0022000143,2021-01-10,BKN,OKC,5.08,1,6,55,OKC,OKC,fg_make,6,False,False,,G. Hill 4' Driving Layup (2 PTS),16-14,16,14
+0022000143,2021-01-10,BKN,OKC,5.32,1,6,41,BKN,BKN,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,16-14,16,14
+0022000143,2021-01-10,BKN,OKC,5.32,1,6,41,OKC,OKC,reb,0,False,False,,Thunder Rebound,16-14,16,14
+0022000143,2021-01-10,BKN,OKC,5.32,1,6,41,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 1 Short 0),,16-14,16,14
+0022000143,2021-01-10,BKN,OKC,5.63,1,6,22,OKC,OKC,fg_make,58,False,False,,Horford 5' Turnaround Hook Shot (2 PTS),16-16,16,16
+0022000143,2021-01-10,BKN,OKC,5.88,1,6,7,BKN,BKN,fg_miss,73,False,False,MISS Harris 4' Driving Reverse Layup,,16-16,16,16
+0022000143,2021-01-10,BKN,OKC,5.95,1,6,3,OKC,OKC,reb,0,False,False,,Horford REBOUND (Off:0 Def:1),16-16,16,16
+0022000143,2021-01-10,BKN,OKC,6.07,1,5,56,OKC,OKC,fg_miss,6,False,False,,MISS Dort 4' Driving Layup,16-16,16,16
+0022000143,2021-01-10,BKN,OKC,6.12,1,5,53,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:1),,16-16,16,16
+0022000143,2021-01-10,BKN,OKC,6.33,1,5,40,BKN,OKC,foul,2,False,False,,Dort S.FOUL (P1.T3) (R.Hussey),16-16,16,16
+0022000143,2021-01-10,BKN,OKC,6.33,1,5,40,BKN,BKN,ft_make,11,False,False,Allen Free Throw 1 of 2 (5 PTS),,17-16,17,16
+0022000143,2021-01-10,BKN,OKC,6.33,1,5,40,BKN,BKN,ft_make,12,False,False,Allen Free Throw 2 of 2 (6 PTS),,18-16,18,16
+0022000143,2021-01-10,BKN,OKC,6.6,1,5,24,OKC,OKC,fg3_miss,79,False,False,,MISS G. Hill 25' 3PT Pullup Jump Shot,18-16,18,16
+0022000143,2021-01-10,BKN,OKC,6.65,1,5,21,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:2),,18-16,18,16
+0022000143,2021-01-10,BKN,OKC,6.75,1,5,15,BKN,BKN,fg3_miss,1,False,False,MISS Durant 29' 3PT Jump Shot,,18-16,18,16
+0022000143,2021-01-10,BKN,OKC,6.78,1,5,13,OKC,OKC,reb,0,False,False,,Horford REBOUND (Off:0 Def:2),18-16,18,16
+0022000143,2021-01-10,BKN,OKC,6.87,1,5,8,OKC,BKN,foul,2,False,False,Allen S.FOUL (P1.T1) (R.Hussey),,18-16,18,16
+0022000143,2021-01-10,BKN,OKC,6.87,1,5,8,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (8 PTS),18-17,18,17
+0022000143,2021-01-10,BKN,OKC,6.87,1,5,8,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (9 PTS),18-18,18,18
+0022000143,2021-01-10,BKN,OKC,7.08,1,4,55,BKN,BKN,fg_make,6,False,False,LeVert 2' Driving Layup (8 PTS),,20-18,20,18
+0022000143,2021-01-10,BKN,OKC,7.25,1,4,45,OKC,OKC,fg_miss,6,False,False,,MISS G. Hill 3' Driving Layup,20-18,20,18
+0022000143,2021-01-10,BKN,OKC,7.28,1,4,43,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:2),,20-18,20,18
+0022000143,2021-01-10,BKN,OKC,7.38,1,4,37,BKN,BKN,fg_make,5,False,False,Allen 1' Layup (8 PTS) (Prince 1 AST),,22-18,22,18
+0022000143,2021-01-10,BKN,OKC,7.57,1,4,26,OKC,OKC,tov,2,False,True,,Bazley Lost Ball Turnover (P1.T3),22-18,22,18
+0022000143,2021-01-10,BKN,OKC,7.57,1,4,26,OKC,BKN,steal,2,False,True,steal,steal,22-18,22,18
+0022000143,2021-01-10,BKN,OKC,7.65,1,4,21,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,22-18,22,18
+0022000143,2021-01-10,BKN,OKC,7.72,1,4,17,BKN,BKN,reb,0,False,False,NETS Rebound,,22-18,22,18
+0022000143,2021-01-10,BKN,OKC,7.82,1,4,11,BKN,BKN,fg_make,47,False,False,Durant 12' Turnaround Jump Shot (4 PTS) (LeVert 2 AST),,24-18,24,18
+0022000143,2021-01-10,BKN,OKC,8.05,1,3,57,OKC,OKC,fg3_miss,1,False,False,,MISS Roby 26' 3PT Jump Shot,24-18,24,18
+0022000143,2021-01-10,BKN,OKC,8.08,1,3,55,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:3),,24-18,24,18
+0022000143,2021-01-10,BKN,OKC,8.15,1,3,51,BKN,OKC,foul,2,False,False,,Roby S.FOUL (P1.T4) (S.Corbin),24-18,24,18
+0022000143,2021-01-10,BKN,OKC,8.15,1,3,51,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (5 PTS),,25-18,25,18
+0022000143,2021-01-10,BKN,OKC,8.15,1,3,51,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),25-18,25,18
+0022000143,2021-01-10,BKN,OKC,8.15,1,3,51,OKC,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (6 PTS),,26-18,26,18
+0022000143,2021-01-10,BKN,OKC,8.35,1,3,39,OKC,OKC,fg3_miss,1,False,False,,MISS Dort 3PT Jump Shot,26-18,26,18
+0022000143,2021-01-10,BKN,OKC,8.4,1,3,36,BKN,BKN,reb,0,False,False,Prince REBOUND (Off:0 Def:1),,26-18,26,18
+0022000143,2021-01-10,BKN,OKC,8.72,1,3,17,BKN,BKN,fg_make,86,False,False,Durant 7' Turnaround Fadeaway (8 PTS),,28-18,28,18
+0022000143,2021-01-10,BKN,OKC,8.88,1,3,7,OKC,OKC,fg_make,98,False,False,,Roby 5' Cutting Layup Shot (2 PTS) (Gilgeous-Alexander 1 AST),28-20,28,20
+0022000143,2021-01-10,BKN,OKC,9.08,1,2,55,BKN,BKN,fg_make,79,False,False,LeVert 9' Pullup Jump Shot (10 PTS),,30-20,30,20
+0022000143,2021-01-10,BKN,OKC,9.23,1,2,46,OKC,OKC,fg_make,6,False,False,,Diallo 4' Driving Layup (2 PTS) (Gilgeous-Alexander 2 AST),30-22,30,22
+0022000143,2021-01-10,BKN,OKC,9.48,1,2,31,BKN,BKN,fg_make,108,False,False,Jordan 1' Cutting Dunk Shot (2 PTS) (Durant 2 AST),,32-22,32,22
+0022000143,2021-01-10,BKN,OKC,9.75,1,2,15,OKC,OKC,fg_miss,79,False,False,,MISS Bazley 12' Pullup Jump Shot,32-22,32,22
+0022000143,2021-01-10,BKN,OKC,9.78,1,2,13,BKN,BKN,reb,0,False,False,Luwawu-Cabarrot REBOUND (Off:0 Def:1),,32-22,32,22
+0022000143,2021-01-10,BKN,OKC,9.92,1,2,5,BKN,BKN,fg3_miss,1,False,False,MISS Shamet 27' 3PT Jump Shot,,32-22,32,22
+0022000143,2021-01-10,BKN,OKC,9.97,1,2,2,OKC,OKC,reb,0,False,False,,Diallo REBOUND (Off:0 Def:1),32-22,32,22
+0022000143,2021-01-10,BKN,OKC,10.2,1,1,48,OKC,OKC,fg_make,7,False,False,,Roby Dunk (4 PTS) (Gilgeous-Alexander 3 AST),32-24,32,24
+0022000143,2021-01-10,BKN,OKC,10.47,1,1,32,BKN,OKC,foul,1,False,False,,Diallo P.FOUL (P1.PN) (J.Sterling),32-24,32,24
+0022000143,2021-01-10,BKN,OKC,10.47,1,1,32,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),32-24,32,24
+0022000143,2021-01-10,BKN,OKC,10.47,1,1,32,OKC,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (9 PTS),,33-24,33,24
+0022000143,2021-01-10,BKN,OKC,10.47,1,1,32,OKC,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (10 PTS),,34-24,34,24
+0022000143,2021-01-10,BKN,OKC,10.68,1,1,19,OKC,OKC,fg_make,75,False,False,,Gilgeous-Alexander 4' Driving Finger Roll Layup (11 PTS),34-26,34,26
+0022000143,2021-01-10,BKN,OKC,10.93,1,1,4,BKN,BKN,fg3_make,1,False,False,Luwawu-Cabarrot 27' 3PT Jump Shot (3 PTS) (Durant 3 AST),,37-26,37,26
+0022000143,2021-01-10,BKN,OKC,11.1,1,0,54,OKC,OKC,fg3_make,79,False,False,,Gilgeous-Alexander 25' 3PT Pullup Jump Shot (14 PTS),37-29,37,29
+0022000143,2021-01-10,BKN,OKC,11.23,1,0,46,BKN,BKN,tov,1,False,True,Durant Bad Pass Turnover (P1.T2),,37-29,37,29
+0022000143,2021-01-10,BKN,OKC,11.23,1,0,46,BKN,OKC,steal,1,False,True,steal,steal,37-29,37,29
+0022000143,2021-01-10,BKN,OKC,11.3,1,0,42,OKC,OKC,fg_miss,41,False,False,,MISS Gilgeous-Alexander 4' Running Layup,37-29,37,29
+0022000143,2021-01-10,BKN,OKC,11.37,1,0,38,BKN,BKN,reb,0,False,False,Prince REBOUND (Off:0 Def:2),,37-29,37,29
+0022000143,2021-01-10,BKN,OKC,11.5,1,0,30,BKN,BKN,fg_make,5,False,False,Jordan 2' Layup (4 PTS) (Luwawu-Cabarrot 1 AST),,39-29,39,29
+0022000143,2021-01-10,BKN,OKC,11.87,1,0,8,OKC,OKC,tov,1,False,True,,Gilgeous-Alexander Bad Pass Turnover (P1.T4),39-29,39,29
+0022000143,2021-01-10,BKN,OKC,11.87,1,0,8,OKC,BKN,steal,1,False,True,steal,steal,39-29,39,29
+0022000143,2021-01-10,BKN,OKC,11.93,1,0,4,BKN,BKN,fg_make,41,False,False,Prince 2' Running Layup (2 PTS) (Luwawu-Cabarrot 2 AST),,41-29,41,29
+0022000143,2021-01-10,BKN,OKC,12.0,1,0,0,OKC,OKC,fg3_miss,103,False,False,,MISS Maledon 27' 3PT Running Pull-Up Jump Shot,41-29,41,29
+0022000143,2021-01-10,BKN,OKC,12.0,1,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,41-29,41,29
+0022000143,2021-01-10,BKN,OKC,12.0,1,0,0,OKC,,period_end,0,False,False,,,41-29,41,29
+0022000143,2021-01-10,BKN,OKC,12.0,2,12,0,OKC,,period_start,0,False,False,,,41-29,41,29
+0022000143,2021-01-10,BKN,OKC,12.3,2,11,42,BKN,BKN,fg3_make,1,False,False,Prince 3PT Jump Shot (5 PTS) (Luwawu-Cabarrot 3 AST),,44-29,44,29
+0022000143,2021-01-10,BKN,OKC,12.55,2,11,27,OKC,OKC,fg_make,58,False,False,,Diallo 3' Turnaround Hook Shot (4 PTS) (Maledon 1 AST),44-31,44,31
+0022000143,2021-01-10,BKN,OKC,12.88,2,11,7,BKN,BKN,tov,2,False,True,Jordan Lost Ball Turnover (P1.T3),,44-31,44,31
+0022000143,2021-01-10,BKN,OKC,12.88,2,11,7,BKN,OKC,steal,2,False,True,steal,steal,44-31,44,31
+0022000143,2021-01-10,BKN,OKC,12.98,2,11,1,OKC,BKN,foul,2,False,False,Prince S.FOUL (P1.T1) (S.Corbin),,44-31,44,31
+0022000143,2021-01-10,BKN,OKC,12.98,2,11,1,OKC,OKC,ft_make,11,False,False,,Diallo Free Throw 1 of 2 (5 PTS),44-32,44,32
+0022000143,2021-01-10,BKN,OKC,12.98,2,11,1,OKC,OKC,ft_make,12,False,False,,Diallo Free Throw 2 of 2 (6 PTS),44-33,44,33
+0022000143,2021-01-10,BKN,OKC,13.23,2,10,46,BKN,BKN,fg_miss,78,False,False,MISS Prince 12' Floating Jump Shot,,44-33,44,33
+0022000143,2021-01-10,BKN,OKC,13.3,2,10,42,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:0 Def:1),44-33,44,33
+0022000143,2021-01-10,BKN,OKC,13.33,2,10,40,OKC,OKC,tov,4,False,False,,Roby Traveling Turnover (P1.T5),44-33,44,33
+0022000143,2021-01-10,BKN,OKC,13.47,2,10,32,BKN,BKN,fg3_miss,79,False,False,MISS Shamet 26' 3PT Pullup Jump Shot,,44-33,44,33
+0022000143,2021-01-10,BKN,OKC,13.52,2,10,29,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:0 Def:1),44-33,44,33
+0022000143,2021-01-10,BKN,OKC,13.88,2,10,7,OKC,OKC,fg3_make,79,False,False,,Diallo 27' 3PT Pullup Jump Shot (9 PTS),44-36,44,36
+0022000143,2021-01-10,BKN,OKC,14.1,2,9,54,BKN,BKN,fg3_miss,1,False,False,MISS Prince 26' 3PT Jump Shot,,44-36,44,36
+0022000143,2021-01-10,BKN,OKC,14.15,2,9,51,OKC,OKC,reb,0,False,False,,Diallo REBOUND (Off:0 Def:2),44-36,44,36
+0022000143,2021-01-10,BKN,OKC,14.25,2,9,45,OKC,OKC,fg_make,41,False,False,,Diallo 2' Running Layup (11 PTS),44-38,44,38
+0022000143,2021-01-10,BKN,OKC,14.53,2,9,28,BKN,OKC,foul,2,False,False,,Williams S.FOUL (P1.T1) (S.Corbin),44-38,44,38
+0022000143,2021-01-10,BKN,OKC,14.53,2,9,28,BKN,BKN,ft_miss,11,False,False,MISS Luwawu-Cabarrot Free Throw 1 of 2,,44-38,44,38
+0022000143,2021-01-10,BKN,OKC,14.53,2,9,28,BKN,BKN,reb,1,False,False,NETS Rebound,,44-38,44,38
+0022000143,2021-01-10,BKN,OKC,14.53,2,9,28,BKN,BKN,ft_make,12,False,False,Luwawu-Cabarrot Free Throw 2 of 2 (4 PTS),,45-38,45,38
+0022000143,2021-01-10,BKN,OKC,14.75,2,9,15,OKC,OKC,fg3_miss,1,False,False,,MISS Roby 27' 3PT Jump Shot,45-38,45,38
+0022000143,2021-01-10,BKN,OKC,14.78,2,9,13,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,45-38,45,38
+0022000143,2021-01-10,BKN,OKC,14.93,2,9,4,BKN,BKN,fg_make,9,False,False,Prince 2' Driving Dunk (7 PTS) (Harris 1 AST),,47-38,47,38
+0022000143,2021-01-10,BKN,OKC,15.1,2,8,54,OKC,OKC,fg_make,98,False,False,,Roby 2' Cutting Layup Shot (6 PTS) (Diallo 1 AST),47-40,47,40
+0022000143,2021-01-10,BKN,OKC,15.1,2,8,54,OKC,BKN,foul,2,False,False,Luwawu-Cabarrot S.FOUL (P1.T2) (S.Corbin),,47-40,47,40
+0022000143,2021-01-10,BKN,OKC,15.1,2,8,54,OKC,OKC,ft_make,10,False,False,,Roby Free Throw 1 of 1 (7 PTS),47-41,47,41
+0022000143,2021-01-10,BKN,OKC,15.25,2,8,45,BKN,BKN,fg_make,41,False,False,Luwawu-Cabarrot 1' Running Layup (6 PTS),,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,15.37,2,8,38,OKC,OKC,tov,4,False,False,,Pokusevski Traveling Turnover (P1.T6),49-41,49,41
+0022000143,2021-01-10,BKN,OKC,15.58,2,8,25,BKN,BKN,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,15.65,2,8,21,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:1),49-41,49,41
+0022000143,2021-01-10,BKN,OKC,15.85,2,8,9,OKC,OKC,fg_miss,79,False,False,,MISS Diallo 16' Pullup Jump Shot,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,15.88,2,8,7,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.15,2,7,51,BKN,BKN,tov,1,False,True,Shamet Bad Pass Turnover (P1.T4),,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.15,2,7,51,BKN,OKC,steal,1,False,True,steal,steal,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.15,2,7,51,OKC,BKN,foul,1,False,False,Luwawu-Cabarrot P.FOUL (P2.T3) (R.Hussey),,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.33,2,7,40,OKC,OKC,fg_miss,101,False,False,,MISS Maledon 2' Driving Floating Jump Shot,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.33,2,7,40,BKN,BKN,reb,0,False,False,NETS Rebound,,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.6,2,7,24,BKN,BKN,fg_miss,98,False,False,MISS Allen 4' Cutting Layup Shot,,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.62,2,7,23,BKN,BKN,reb,0,False,False,NETS Rebound,,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.72,2,7,17,,BKN,jump_ball,0,False,False,Jump Ball Allen vs. Pokusevski: Tip to Maledon,,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.72,2,7,17,BKN,BKN,tov,1,False,True,Prince Bad Pass Turnover (P1.T5),,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.72,2,7,17,BKN,OKC,steal,1,False,True,steal,steal,49-41,49,41
+0022000143,2021-01-10,BKN,OKC,16.77,2,7,14,OKC,OKC,fg_make,50,False,False,,Diallo 2' Running Dunk (13 PTS) (Maledon 2 AST),49-43,49,43
+0022000143,2021-01-10,BKN,OKC,16.97,2,7,2,BKN,BKN,fg_miss,102,False,False,MISS LeVert 6' Driving Floating Bank Jump Shot,,49-43,49,43
+0022000143,2021-01-10,BKN,OKC,17.02,2,6,59,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:2),49-43,49,43
+0022000143,2021-01-10,BKN,OKC,17.08,2,6,55,OKC,BKN,foul,1,False,False,Harris P.FOUL (P1.T4) (R.Hussey),,49-43,49,43
+0022000143,2021-01-10,BKN,OKC,17.08,2,6,55,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,49-43,49,43
+0022000143,2021-01-10,BKN,OKC,17.23,2,6,46,OKC,OKC,fg_make,58,False,False,,Horford 6' Turnaround Hook Shot (4 PTS),49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.47,2,6,32,BKN,BKN,fg_miss,6,False,False,MISS LeVert 2' Driving Layup,,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.47,2,6,32,BKN,BKN,reb,0,False,False,Green REBOUND (Off:1 Def:1),,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.57,2,6,26,BKN,BKN,tov,1,False,True,Harris Bad Pass Turnover (P1.T6),,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.57,2,6,26,BKN,OKC,steal,1,False,True,steal,steal,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.67,2,6,20,OKC,OKC,fg3_miss,1,False,False,,MISS Maledon 25' 3PT Jump Shot,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.72,2,6,17,BKN,BKN,reb,0,False,False,Green REBOUND (Off:1 Def:2),,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.82,2,6,11,BKN,BKN,fg_miss,6,False,False,MISS Green 1' Driving Layup,,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,17.87,2,6,8,OKC,OKC,reb,0,False,False,,Horford REBOUND (Off:0 Def:3),49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.12,2,5,53,OKC,OKC,fg3_miss,1,False,False,,MISS Diallo 26' 3PT Jump Shot,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.17,2,5,50,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:1 Def:0),49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.25,2,5,45,OKC,OKC,fg3_miss,1,False,False,,MISS Maledon 27' 3PT Jump Shot,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.3,2,5,42,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:3),,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.43,2,5,34,BKN,BKN,fg_miss,1,False,False,MISS Durant 8' Jump Shot,,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.47,2,5,32,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:3),49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.68,2,5,19,OKC,BKN,foul,17,False,False,NETS T.Foul (Def. 3 Sec Green ) (J.Sterling),,49-45,49,45
+0022000143,2021-01-10,BKN,OKC,18.68,2,5,19,OKC,OKC,ft_make,16,False,False,,Horford Free Throw Technical (5 PTS),49-46,49,46
+0022000143,2021-01-10,BKN,OKC,18.78,2,5,13,OKC,OKC,fg3_miss,1,False,False,,MISS Pokusevski 27' 3PT Jump Shot,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,18.83,2,5,10,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,18.97,2,5,2,BKN,BKN,tov,1,False,True,Allen Bad Pass Turnover (P1.T7),,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,18.97,2,5,2,BKN,OKC,steal,1,False,True,steal,steal,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,19.07,2,4,56,OKC,OKC,fg3_miss,1,False,False,,MISS Horford 26' 3PT Jump Shot,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,19.13,2,4,52,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,19.32,2,4,41,BKN,BKN,tov,1,False,True,Harris Bad Pass Turnover (P2.T8),,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,19.32,2,4,41,BKN,OKC,steal,1,False,True,steal,steal,49-46,49,46
+0022000143,2021-01-10,BKN,OKC,19.4,2,4,36,OKC,OKC,fg_make,50,False,False,,Horford Running Dunk (7 PTS) (Diallo 2 AST),49-48,49,48
+0022000143,2021-01-10,BKN,OKC,19.57,2,4,26,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,49-48,49,48
+0022000143,2021-01-10,BKN,OKC,19.65,2,4,21,BKN,BKN,fg_miss,86,False,False,MISS Durant 10' Turnaround Fadeaway Shot,,49-48,49,48
+0022000143,2021-01-10,BKN,OKC,19.72,2,4,17,BKN,BKN,reb,0,False,False,Green REBOUND (Off:2 Def:2),,49-48,49,48
+0022000143,2021-01-10,BKN,OKC,19.73,2,4,16,BKN,BKN,fg_miss,72,True,False,MISS Green 2' Putback Layup,,49-48,49,48
+0022000143,2021-01-10,BKN,OKC,19.73,2,4,16,BKN,OKC,block,72,True,False,block,block,49-48,49,48
+0022000143,2021-01-10,BKN,OKC,19.8,2,4,12,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:1),49-48,49,48
+0022000143,2021-01-10,BKN,OKC,20.12,2,3,53,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 25' 3PT Jump Shot,49-48,49,48
+0022000143,2021-01-10,BKN,OKC,20.17,2,3,50,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:4),,49-48,49,48
+0022000143,2021-01-10,BKN,OKC,20.33,2,3,40,BKN,BKN,fg_make,6,False,False,LeVert 1' Driving Layup (12 PTS),,51-48,51,48
+0022000143,2021-01-10,BKN,OKC,20.6,2,3,24,OKC,OKC,fg3_make,1,False,False,,Horford 27' 3PT Jump Shot (10 PTS),51-51,51,51
+0022000143,2021-01-10,BKN,OKC,20.88,2,3,7,BKN,BKN,fg_miss,98,True,False,MISS Harris 4' Cutting Layup Shot,,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,20.88,2,3,7,BKN,OKC,block,98,True,False,block,block,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,20.88,2,3,7,BKN,BKN,reb,0,False,False,NETS Rebound,,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,20.97,2,3,2,BKN,BKN,fg_miss,79,True,False,MISS Durant 6' Pullup Jump Shot,,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,20.97,2,3,2,BKN,OKC,block,79,True,False,block,block,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.03,2,2,58,OKC,OKC,reb,0,False,False,,Horford REBOUND (Off:0 Def:4),51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.27,2,2,44,OKC,OKC,fg_miss,86,False,False,,MISS Horford 7' Turnaround Fadeaway Shot,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.32,2,2,41,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:5),,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.42,2,2,35,BKN,BKN,fg3_miss,79,False,False,MISS LeVert 26' 3PT Pullup Jump Shot,,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.48,2,2,31,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:2),51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.7,2,2,18,OKC,OKC,fg3_miss,1,False,False,,MISS Horford 26' 3PT Jump Shot,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.73,2,2,16,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:4),,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.82,2,2,11,BKN,BKN,fg3_miss,1,False,False,MISS Green 25' 3PT Jump Shot,,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.88,2,2,7,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:1),,51-51,51,51
+0022000143,2021-01-10,BKN,OKC,21.9,2,2,6,BKN,BKN,fg_make,108,False,False,Green 1' Cutting Dunk Shot (2 PTS) (LeVert 3 AST),,53-51,53,51
+0022000143,2021-01-10,BKN,OKC,22.12,2,1,53,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 3PT Jump Shot,53-51,53,51
+0022000143,2021-01-10,BKN,OKC,22.15,2,1,51,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:5),,53-51,53,51
+0022000143,2021-01-10,BKN,OKC,22.27,2,1,44,BKN,BKN,fg3_make,1,False,False,Harris 28' 3PT Jump Shot (7 PTS) (LeVert 4 AST),,56-51,56,51
+0022000143,2021-01-10,BKN,OKC,22.6,2,1,24,OKC,OKC,fg_make,9,False,False,,Gilgeous-Alexander 2' Driving Dunk (16 PTS),56-53,56,53
+0022000143,2021-01-10,BKN,OKC,22.75,2,1,15,BKN,OKC,foul,2,False,False,,Horford S.FOUL (P2.T2) (J.Sterling),56-53,56,53
+0022000143,2021-01-10,BKN,OKC,22.75,2,1,15,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (11 PTS),,57-53,57,53
+0022000143,2021-01-10,BKN,OKC,22.75,2,1,15,BKN,BKN,ft_miss,12,False,False,MISS Durant Free Throw 2 of 2,,57-53,57,53
+0022000143,2021-01-10,BKN,OKC,22.8,2,1,12,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:3),57-53,57,53
+0022000143,2021-01-10,BKN,OKC,22.93,2,1,4,OKC,OKC,fg3_miss,1,False,False,,MISS G. Hill 3PT Jump Shot,57-53,57,53
+0022000143,2021-01-10,BKN,OKC,22.98,2,1,1,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:6),,57-53,57,53
+0022000143,2021-01-10,BKN,OKC,23.12,2,0,53,BKN,BKN,fg3_make,80,False,False,LeVert 26' 3PT Step Back Jump Shot (15 PTS),,60-53,60,53
+0022000143,2021-01-10,BKN,OKC,23.42,2,0,35,OKC,OKC,fg_make,63,False,False,,Gilgeous-Alexander 9' Fadeaway Jumper (18 PTS),60-55,60,55
+0022000143,2021-01-10,BKN,OKC,23.42,2,0,35,OKC,BKN,foul,2,False,False,LeVert S.FOUL (P1.PN) (S.Corbin),,60-55,60,55
+0022000143,2021-01-10,BKN,OKC,23.42,2,0,35,OKC,OKC,ft_miss,10,False,False,,MISS Gilgeous-Alexander Free Throw 1 of 1,60-55,60,55
+0022000143,2021-01-10,BKN,OKC,23.45,2,0,33,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:7),,60-55,60,55
+0022000143,2021-01-10,BKN,OKC,23.52,2,0,29,BKN,BKN,fg3_make,103,False,False,Durant 27' 3PT Running Pull-Up Jump Shot (14 PTS),,63-55,63,55
+0022000143,2021-01-10,BKN,OKC,23.82,2,0,11,BKN,OKC,foul,4,False,False,,Horford OFF.Foul (P3) (R.Hussey),63-55,63,55
+0022000143,2021-01-10,BKN,OKC,23.82,2,0,11,OKC,OKC,tov,37,False,False,,Horford Offensive Foul Turnover (P1.T7),63-55,63,55
+0022000143,2021-01-10,BKN,OKC,23.95,2,0,3,BKN,BKN,tov,1,False,True,Durant Bad Pass Turnover (P2.T9),,63-55,63,55
+0022000143,2021-01-10,BKN,OKC,23.95,2,0,3,BKN,OKC,steal,1,False,True,steal,steal,63-55,63,55
+0022000143,2021-01-10,BKN,OKC,24.0,2,0,0,OKC,OKC,fg_make,41,False,False,,Dort 1' Running Layup (2 PTS) (G. Hill 1 AST),63-57,63,57
+0022000143,2021-01-10,BKN,OKC,24.0,2,0,0,BKN,BKN,fg3_miss,1,False,False,MISS Green 60' 3PT Jump Shot,,63-57,63,57
+0022000143,2021-01-10,BKN,OKC,24.0,2,0,0,BKN,BKN,reb,0,False,False,NETS Rebound,,63-57,63,57
+0022000143,2021-01-10,BKN,OKC,24.0,2,0,0,BKN,,period_end,0,False,False,,,63-57,63,57
+0022000143,2021-01-10,BKN,OKC,24.0,3,12,0,BKN,,period_start,0,False,False,,,63-57,63,57
+0022000143,2021-01-10,BKN,OKC,24.18,3,11,49,BKN,BKN,fg_make,1,False,False,Green 19' Jump Shot (4 PTS) (Durant 4 AST),,65-57,65,57
+0022000143,2021-01-10,BKN,OKC,24.47,3,11,32,OKC,OKC,fg_make,73,False,False,,G. Hill 2' Driving Reverse Layup (4 PTS) (Horford 2 AST),65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.65,3,11,21,BKN,BKN,fg3_miss,1,False,False,MISS LeVert 25' 3PT Jump Shot,,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.7,3,11,18,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:4),,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.72,3,11,17,BKN,BKN,fg_miss,1,False,False,MISS Durant 6' Jump Shot,,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.75,3,11,15,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:4),65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.88,3,11,7,OKC,OKC,fg_miss,79,True,False,,MISS Gilgeous-Alexander 7' Pullup Jump Shot,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.88,3,11,7,OKC,BKN,block,79,True,False,block,block,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.92,3,11,5,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:4),65-59,65,59
+0022000143,2021-01-10,BKN,OKC,24.92,3,11,5,OKC,BKN,foul,1,False,False,Durant P.FOUL (P1.T1) (R.Hussey),,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,25.1,3,10,54,OKC,OKC,fg_miss,101,False,False,,MISS Gilgeous-Alexander 7' Driving Floating Jump Shot,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,25.13,3,10,52,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:5),,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,25.45,3,10,33,BKN,BKN,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,65-59,65,59
+0022000143,2021-01-10,BKN,OKC,25.53,3,10,28,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:2),65-59,65,59
+0022000143,2021-01-10,BKN,OKC,25.58,3,10,25,BKN,OKC,foul,4,False,False,,Dort OFF.Foul (P2) (S.Corbin),65-59,65,59
+0022000143,2021-01-10,BKN,OKC,25.58,3,10,25,OKC,OKC,tov,37,False,False,,Dort Offensive Foul Turnover (P2.T8),65-59,65,59
+0022000143,2021-01-10,BKN,OKC,25.85,3,10,9,BKN,BKN,fg_make,58,False,False,Allen 4' Turnaround Hook Shot (10 PTS),,67-59,67,59
+0022000143,2021-01-10,BKN,OKC,26.08,3,9,55,OKC,OKC,fg3_make,1,False,False,,Dort 25' 3PT Jump Shot (5 PTS) (Horford 3 AST),67-62,67,62
+0022000143,2021-01-10,BKN,OKC,26.38,3,9,37,BKN,BKN,fg_make,108,False,False,Allen 1' Cutting Dunk Shot (12 PTS) (LeVert 5 AST),,69-62,69,62
+0022000143,2021-01-10,BKN,OKC,26.75,3,9,15,OKC,OKC,fg3_make,1,False,False,,Horford 27' 3PT Jump Shot (13 PTS) (Gilgeous-Alexander 4 AST),69-65,69,65
+0022000143,2021-01-10,BKN,OKC,27.07,3,8,56,OKC,BKN,foul,4,False,False,Allen OFF.Foul (P2) (S.Corbin),,69-65,69,65
+0022000143,2021-01-10,BKN,OKC,27.07,3,8,56,BKN,BKN,tov,37,False,False,Allen Offensive Foul Turnover (P2.T10),,69-65,69,65
+0022000143,2021-01-10,BKN,OKC,27.42,3,8,35,OKC,OKC,fg_make,5,False,False,,Horford 2' Layup (15 PTS) (G. Hill 2 AST),69-67,69,67
+0022000143,2021-01-10,BKN,OKC,27.58,3,8,25,BKN,OKC,foul,1,False,False,,Horford P.FOUL (P4.T1) (R.Hussey),69-67,69,67
+0022000143,2021-01-10,BKN,OKC,27.65,3,8,21,BKN,OKC,foul,2,False,False,,Dort S.FOUL (P3.T2) (J.Sterling),69-67,69,67
+0022000143,2021-01-10,BKN,OKC,27.65,3,8,21,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (15 PTS),,70-67,70,67
+0022000143,2021-01-10,BKN,OKC,27.65,3,8,21,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (16 PTS),,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.0,3,8,0,OKC,OKC,fg_miss,75,False,False,,MISS G. Hill 2' Driving Finger Roll Layup,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.03,3,7,58,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:6),,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.15,3,7,51,BKN,BKN,fg3_miss,1,False,False,MISS Harris 28' 3PT Jump Shot,,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.23,3,7,46,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:2),71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.3,3,7,42,OKC,OKC,fg3_miss,103,False,False,,MISS Bazley 24' 3PT Running Pull-Up Jump Shot,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.37,3,7,38,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:1 Def:2),71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.45,3,7,33,OKC,OKC,fg3_miss,1,False,False,,MISS G. Hill 3PT Jump Shot,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.48,3,7,31,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:2),,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.62,3,7,23,BKN,BKN,fg_miss,101,False,False,MISS LeVert 6' Driving Floating Jump Shot,,71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.65,3,7,21,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:1 Def:3),71-67,71,67
+0022000143,2021-01-10,BKN,OKC,28.7,3,7,18,OKC,OKC,fg_make,101,False,False,,G. Hill 2' Driving Floating Jump Shot (6 PTS) (Bazley 1 AST),71-69,71,69
+0022000143,2021-01-10,BKN,OKC,29.13,3,6,52,BKN,BKN,fg_make,6,False,False,Durant 2' Driving Layup (18 PTS),,73-69,73,69
+0022000143,2021-01-10,BKN,OKC,29.13,3,6,52,BKN,OKC,foul,2,False,False,,Bazley S.FOUL (P1.T3) (S.Corbin),73-69,73,69
+0022000143,2021-01-10,BKN,OKC,29.13,3,6,52,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,73-69,73,69
+0022000143,2021-01-10,BKN,OKC,29.13,3,6,52,BKN,BKN,ft_make,10,False,False,Durant Free Throw 1 of 1 (19 PTS),,74-69,74,69
+0022000143,2021-01-10,BKN,OKC,29.23,3,6,46,OKC,OKC,fg3_miss,1,False,False,,MISS Horford 26' 3PT Jump Shot,74-69,74,69
+0022000143,2021-01-10,BKN,OKC,29.3,3,6,42,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:7),,74-69,74,69
+0022000143,2021-01-10,BKN,OKC,29.4,3,6,36,BKN,BKN,fg3_miss,79,False,False,MISS Harris 25' 3PT Pullup Jump Shot,,74-69,74,69
+0022000143,2021-01-10,BKN,OKC,29.45,3,6,33,OKC,OKC,reb,0,False,False,,Horford REBOUND (Off:0 Def:5),74-69,74,69
+0022000143,2021-01-10,BKN,OKC,29.73,3,6,16,OKC,OKC,fg_make,73,False,False,,Horford 3' Driving Reverse Layup (17 PTS),74-71,74,71
+0022000143,2021-01-10,BKN,OKC,30.1,3,5,54,BKN,BKN,fg3_miss,1,False,False,MISS Shamet 26' 3PT Jump Shot,,74-71,74,71
+0022000143,2021-01-10,BKN,OKC,30.13,3,5,52,OKC,OKC,reb,0,False,False,,Thunder Rebound,74-71,74,71
+0022000143,2021-01-10,BKN,OKC,30.13,3,5,52,OKC,BKN,foul,3,False,False,Harris L.B.FOUL (P2.T2) (J.Sterling),,74-71,74,71
+0022000143,2021-01-10,BKN,OKC,30.4,3,5,36,OKC,BKN,foul,2,False,False,Luwawu-Cabarrot S.FOUL (P3.T3) (J.Sterling),,74-71,74,71
+0022000143,2021-01-10,BKN,OKC,30.4,3,5,36,OKC,OKC,ft_make,13,False,False,,Dort Free Throw 1 of 3 (6 PTS),74-72,74,72
+0022000143,2021-01-10,BKN,OKC,30.4,3,5,36,OKC,OKC,ft_make,14,False,False,,Dort Free Throw 2 of 3 (7 PTS),74-73,74,73
+0022000143,2021-01-10,BKN,OKC,30.4,3,5,36,OKC,OKC,ft_make,15,False,False,,Dort Free Throw 3 of 3 (8 PTS),74-74,74,74
+0022000143,2021-01-10,BKN,OKC,30.6,3,5,24,OKC,BKN,foul,4,False,False,Durant OFF.Foul (P2) (J.Sterling),,74-74,74,74
+0022000143,2021-01-10,BKN,OKC,30.6,3,5,24,BKN,BKN,tov,37,False,False,Durant Offensive Foul Turnover (P3.T11),,74-74,74,74
+0022000143,2021-01-10,BKN,OKC,30.82,3,5,11,OKC,OKC,fg3_miss,79,False,False,,MISS Gilgeous-Alexander 25' 3PT Pullup Jump Shot,74-74,74,74
+0022000143,2021-01-10,BKN,OKC,30.87,3,5,8,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:8),,74-74,74,74
+0022000143,2021-01-10,BKN,OKC,31.15,3,4,51,BKN,BKN,fg_make,79,False,False,Durant 9' Pullup Jump Shot (21 PTS),,76-74,76,74
+0022000143,2021-01-10,BKN,OKC,31.3,3,4,42,OKC,OKC,fg_make,102,False,False,,Gilgeous-Alexander 9' Driving Floating Bank Jump Shot (20 PTS),76-76,76,76
+0022000143,2021-01-10,BKN,OKC,31.57,3,4,26,BKN,BKN,fg_miss,78,False,False,MISS Durant 7' Floating Jump Shot,,76-76,76,76
+0022000143,2021-01-10,BKN,OKC,31.57,3,4,26,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:3),76-76,76,76
+0022000143,2021-01-10,BKN,OKC,31.7,3,4,18,OKC,OKC,fg3_make,79,False,False,,Dort 26' 3PT Pullup Jump Shot (11 PTS),76-79,76,79
+0022000143,2021-01-10,BKN,OKC,31.92,3,4,5,OKC,BKN,foul,4,False,False,Allen OFF.Foul (P3) (S.Corbin),,76-79,76,79
+0022000143,2021-01-10,BKN,OKC,31.92,3,4,5,BKN,BKN,tov,37,False,False,Allen Offensive Foul Turnover (P3.T12),,76-79,76,79
+0022000143,2021-01-10,BKN,OKC,32.22,3,3,47,OKC,OKC,fg_miss,79,False,False,,MISS Maledon 20' Pullup Jump Shot,76-79,76,79
+0022000143,2021-01-10,BKN,OKC,32.27,3,3,44,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:8),,76-79,76,79
+0022000143,2021-01-10,BKN,OKC,32.52,3,3,29,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 24' 3PT Jump Shot,,76-79,76,79
+0022000143,2021-01-10,BKN,OKC,32.55,3,3,27,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:5),76-79,76,79
+0022000143,2021-01-10,BKN,OKC,32.62,3,3,23,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),76-79,76,79
+0022000143,2021-01-10,BKN,OKC,32.88,3,3,7,OKC,OKC,fg_make,101,False,False,,Diallo 8' Driving Floating Jump Shot (15 PTS),76-81,76,81
+0022000143,2021-01-10,BKN,OKC,33.07,3,2,56,BKN,BKN,fg3_miss,1,False,False,MISS Shamet 26' 3PT Jump Shot,,76-81,76,81
+0022000143,2021-01-10,BKN,OKC,33.1,3,2,54,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:0 Def:2),76-81,76,81
+0022000143,2021-01-10,BKN,OKC,33.25,3,2,45,OKC,OKC,fg3_make,1,False,False,,Roby 27' 3PT Jump Shot (10 PTS) (Diallo 3 AST),76-84,76,84
+0022000143,2021-01-10,BKN,OKC,33.47,3,2,32,BKN,BKN,fg3_make,1,False,False,Luwawu-Cabarrot 25' 3PT Jump Shot (9 PTS) (Prince 2 AST),,79-84,79,84
+0022000143,2021-01-10,BKN,OKC,33.58,3,2,25,BKN,OKC,foul,26,False,False,,Gilgeous-Alexander Offensive Charge Foul (P2.T4) (J.Sterling),79-84,79,84
+0022000143,2021-01-10,BKN,OKC,33.58,3,2,25,OKC,OKC,tov,37,False,False,,Gilgeous-Alexander Offensive Foul Turnover (P2.T9),79-84,79,84
+0022000143,2021-01-10,BKN,OKC,33.87,3,2,8,BKN,BKN,fg_make,6,False,False,Prince 3' Driving Layup (9 PTS) (Luwawu-Cabarrot 4 AST),,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.1,3,1,54,OKC,OKC,fg_miss,75,False,False,,MISS Pokusevski 2' Driving Finger Roll Layup,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.12,3,1,53,BKN,BKN,reb,0,False,False,Shamet REBOUND (Off:0 Def:1),,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.4,3,1,36,BKN,BKN,fg_miss,6,False,False,MISS LeVert 3' Driving Layup,,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.4,3,1,36,OKC,OKC,reb,0,False,False,,Thunder Rebound,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.62,3,1,23,OKC,OKC,fg3_miss,1,False,False,,MISS Diallo 26' 3PT Jump Shot,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.68,3,1,19,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:0 Def:1),,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.82,3,1,11,BKN,BKN,fg3_miss,1,False,False,MISS LeVert 25' 3PT Jump Shot,,81-84,81,84
+0022000143,2021-01-10,BKN,OKC,34.88,3,1,7,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:0 Def:3),81-84,81,84
+0022000143,2021-01-10,BKN,OKC,35.02,3,0,59,OKC,OKC,fg3_make,1,False,False,,Roby 3PT Jump Shot (13 PTS) (Diallo 4 AST),81-87,81,87
+0022000143,2021-01-10,BKN,OKC,35.18,3,0,49,BKN,BKN,tov,2,False,True,Shamet Lost Ball Turnover (P2.T13),,81-87,81,87
+0022000143,2021-01-10,BKN,OKC,35.18,3,0,49,BKN,OKC,steal,2,False,True,steal,steal,81-87,81,87
+0022000143,2021-01-10,BKN,OKC,35.23,3,0,46,OKC,OKC,fg_make,50,False,False,,Gilgeous-Alexander 1' Running Dunk (22 PTS) (Maledon 3 AST),81-89,81,89
+0022000143,2021-01-10,BKN,OKC,35.23,3,0,46,OKC,BKN,foul,2,False,False,Shamet S.FOUL (P1.T4) (S.Corbin),,81-89,81,89
+0022000143,2021-01-10,BKN,OKC,35.23,3,0,46,OKC,OKC,ft_make,10,False,False,,Gilgeous-Alexander Free Throw 1 of 1 (23 PTS),81-90,81,90
+0022000143,2021-01-10,BKN,OKC,35.4,3,0,36,BKN,BKN,fg3_miss,1,False,False,MISS LeVert 25' 3PT Jump Shot,,81-90,81,90
+0022000143,2021-01-10,BKN,OKC,35.45,3,0,33,BKN,BKN,reb,0,False,False,Prince REBOUND (Off:1 Def:2),,81-90,81,90
+0022000143,2021-01-10,BKN,OKC,35.62,3,0,23,OKC,BKN,foul,14,False,False,Jordan FLAGRANT.FOUL.TYPE1 (P1.PN) (J.Sterling),,81-90,81,90
+0022000143,2021-01-10,BKN,OKC,35.62,3,0,23,BKN,BKN,tov,0,False,False,Jordan No Turnover (P2.T14),,81-90,81,90
+0022000143,2021-01-10,BKN,OKC,35.62,3,0,23,BKN,OKC,ft_make,18,False,False,,Diallo Free Throw Flagrant 1 of 2 (16 PTS),81-91,81,91
+0022000143,2021-01-10,BKN,OKC,35.62,3,0,23,BKN,OKC,ft_make,19,False,False,,Diallo Free Throw Flagrant 2 of 2 (17 PTS),81-92,81,92
+0022000143,2021-01-10,BKN,OKC,36.0,3,0,0,OKC,BKN,foul,2,False,False,Green S.FOUL (P1.PN) (J.Sterling),,81-92,81,92
+0022000143,2021-01-10,BKN,OKC,36.0,3,0,0,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (24 PTS),81-93,81,93
+0022000143,2021-01-10,BKN,OKC,36.0,3,0,0,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (25 PTS),81-94,81,94
+0022000143,2021-01-10,BKN,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,81-94,81,94
+0022000143,2021-01-10,BKN,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,81-94,81,94
+0022000143,2021-01-10,BKN,OKC,36.2,4,11,48,OKC,OKC,fg_make,108,False,False,,Diallo 2' Cutting Dunk Shot (19 PTS) (Maledon 4 AST),81-96,81,96
+0022000143,2021-01-10,BKN,OKC,36.48,4,11,31,BKN,BKN,fg_make,9,False,False,Durant 2' Driving Dunk (23 PTS),,83-96,83,96
+0022000143,2021-01-10,BKN,OKC,36.85,4,11,9,OKC,OKC,fg3_make,1,False,False,,Maledon 26' 3PT Jump Shot (3 PTS),83-99,83,99
+0022000143,2021-01-10,BKN,OKC,37.08,4,10,55,BKN,BKN,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,83-99,83,99
+0022000143,2021-01-10,BKN,OKC,37.12,4,10,53,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:0 Def:4),83-99,83,99
+0022000143,2021-01-10,BKN,OKC,37.42,4,10,35,OKC,OKC,fg_make,79,False,False,,Diallo 17' Pullup Jump Shot (21 PTS),83-101,83,101
+0022000143,2021-01-10,BKN,OKC,37.65,4,10,21,BKN,BKN,fg_miss,6,False,False,MISS LeVert 3' Driving Layup,,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,37.77,4,10,14,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:1 Def:1),83-101,83,101
+0022000143,2021-01-10,BKN,OKC,37.8,4,10,12,OKC,OKC,fg3_miss,103,False,False,,MISS Pokusevski 26' 3PT Running Pull-Up Jump Shot,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,37.8,4,10,12,BKN,BKN,reb,0,False,False,Prince REBOUND (Off:1 Def:3),,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,37.8,4,10,12,BKN,OKC,foul,1,False,False,,Williams P.FOUL (P2.T1) (S.Corbin),83-101,83,101
+0022000143,2021-01-10,BKN,OKC,38.02,4,9,59,BKN,BKN,tov,1,False,True,Durant Bad Pass Turnover (P4.T15),,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,38.02,4,9,59,BKN,OKC,steal,1,False,True,steal,steal,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,38.35,4,9,39,OKC,OKC,fg_miss,101,True,False,,MISS Williams 9' Driving Floating Jump Shot,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,38.35,4,9,39,OKC,BKN,block,101,True,False,block,block,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,38.38,4,9,37,BKN,BKN,reb,0,False,False,Prince REBOUND (Off:1 Def:4),,83-101,83,101
+0022000143,2021-01-10,BKN,OKC,38.38,4,9,37,BKN,OKC,foul,1,False,False,,Maledon P.FOUL (P1.T2) (S.Corbin),83-101,83,101
+0022000143,2021-01-10,BKN,OKC,38.47,4,9,32,BKN,BKN,fg_make,108,False,False,LeVert 1' Cutting Dunk Shot (17 PTS) (Allen 1 AST),,85-101,85,101
+0022000143,2021-01-10,BKN,OKC,38.73,4,9,16,OKC,OKC,fg_miss,75,False,False,,MISS Maledon 3' Driving Finger Roll Layup,85-101,85,101
+0022000143,2021-01-10,BKN,OKC,38.78,4,9,13,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:9),,85-101,85,101
+0022000143,2021-01-10,BKN,OKC,38.83,4,9,10,BKN,OKC,foul,2,False,False,,Williams S.FOUL (P3.T3) (R.Hussey),85-101,85,101
+0022000143,2021-01-10,BKN,OKC,38.83,4,9,10,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (24 PTS),,86-101,86,101
+0022000143,2021-01-10,BKN,OKC,38.83,4,9,10,BKN,BKN,ft_miss,12,False,False,MISS Durant Free Throw 2 of 2,,86-101,86,101
+0022000143,2021-01-10,BKN,OKC,38.92,4,9,5,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:0 Def:5),86-101,86,101
+0022000143,2021-01-10,BKN,OKC,39.05,4,8,57,OKC,OKC,fg3_make,1,False,False,,Pokusevski 27' 3PT Jump Shot (3 PTS) (Maledon 5 AST),86-104,86,104
+0022000143,2021-01-10,BKN,OKC,39.27,4,8,44,BKN,BKN,fg3_make,79,False,False,Durant 25' 3PT Pullup Jump Shot (27 PTS),,89-104,89,104
+0022000143,2021-01-10,BKN,OKC,39.65,4,8,21,OKC,OKC,fg_make,101,False,False,,Diallo 8' Driving Floating Jump Shot (23 PTS),89-106,89,106
+0022000143,2021-01-10,BKN,OKC,39.93,4,8,4,BKN,BKN,fg_make,73,False,False,Prince 2' Driving Reverse Layup (11 PTS) (Harris 2 AST),,91-106,91,106
+0022000143,2021-01-10,BKN,OKC,40.18,4,7,49,OKC,OKC,fg_make,102,False,False,,Diallo 4' Driving Floating Bank Jump Shot (25 PTS),91-108,91,108
+0022000143,2021-01-10,BKN,OKC,40.42,4,7,35,BKN,BKN,fg_miss,79,False,False,MISS Harris 9' Pullup Jump Shot,,91-108,91,108
+0022000143,2021-01-10,BKN,OKC,40.42,4,7,35,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:1 Def:9),,91-108,91,108
+0022000143,2021-01-10,BKN,OKC,40.42,4,7,35,BKN,BKN,fg_make,97,False,False,Allen Tip Layup Shot (14 PTS),,93-108,93,108
+0022000143,2021-01-10,BKN,OKC,40.42,4,7,35,BKN,OKC,foul,2,False,False,,Roby S.FOUL (P2.T4) (R.Hussey),93-108,93,108
+0022000143,2021-01-10,BKN,OKC,40.42,4,7,35,BKN,BKN,ft_make,10,False,False,Allen Free Throw 1 of 1 (15 PTS),,94-108,94,108
+0022000143,2021-01-10,BKN,OKC,40.58,4,7,25,OKC,BKN,foul,2,False,False,Harris S.FOUL (P3.T1) (R.Hussey),,94-108,94,108
+0022000143,2021-01-10,BKN,OKC,40.58,4,7,25,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (26 PTS),94-109,94,109
+0022000143,2021-01-10,BKN,OKC,40.58,4,7,25,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (27 PTS),94-110,94,110
+0022000143,2021-01-10,BKN,OKC,40.7,4,7,18,BKN,OKC,foul,2,False,False,,Diallo S.FOUL (P2.PN) (S.Corbin),94-110,94,110
+0022000143,2021-01-10,BKN,OKC,40.7,4,7,18,BKN,BKN,ft_make,11,False,False,LeVert Free Throw 1 of 2 (18 PTS),,95-110,95,110
+0022000143,2021-01-10,BKN,OKC,40.7,4,7,18,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),95-110,95,110
+0022000143,2021-01-10,BKN,OKC,40.7,4,7,18,OKC,BKN,ft_make,12,False,False,LeVert Free Throw 2 of 2 (19 PTS),,96-110,96,110
+0022000143,2021-01-10,BKN,OKC,40.95,4,7,3,OKC,OKC,fg_make,78,False,False,,G. Hill 8' Floating Jump Shot (8 PTS),96-112,96,112
+0022000143,2021-01-10,BKN,OKC,41.25,4,6,45,BKN,OKC,foul,1,False,False,,Diallo P.FOUL (P3.PN) (S.Corbin),96-112,96,112
+0022000143,2021-01-10,BKN,OKC,41.25,4,6,45,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (28 PTS),,97-112,97,112
+0022000143,2021-01-10,BKN,OKC,41.25,4,6,45,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (29 PTS),,98-112,98,112
+0022000143,2021-01-10,BKN,OKC,41.47,4,6,32,OKC,OKC,tov,4,False,False,,Horford Traveling Turnover (P2.T10),98-112,98,112
+0022000143,2021-01-10,BKN,OKC,41.68,4,6,19,BKN,BKN,fg3_make,1,False,False,Harris 24' 3PT Jump Shot (10 PTS) (LeVert 6 AST),,101-112,101,112
+0022000143,2021-01-10,BKN,OKC,41.93,4,6,4,OKC,OKC,fg3_make,1,False,False,,Horford 27' 3PT Jump Shot (20 PTS) (Gilgeous-Alexander 5 AST),101-115,101,115
+0022000143,2021-01-10,BKN,OKC,42.12,4,5,53,BKN,BKN,fg3_miss,79,False,False,MISS Durant 26' 3PT Pullup Jump Shot,,101-115,101,115
+0022000143,2021-01-10,BKN,OKC,42.15,4,5,51,OKC,OKC,reb,0,False,False,,Diallo REBOUND (Off:0 Def:3),101-115,101,115
+0022000143,2021-01-10,BKN,OKC,42.43,4,5,34,OKC,OKC,fg3_miss,1,False,False,,MISS Diallo 3PT Jump Shot,101-115,101,115
+0022000143,2021-01-10,BKN,OKC,42.48,4,5,31,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:3),,101-115,101,115
+0022000143,2021-01-10,BKN,OKC,42.67,4,5,20,BKN,BKN,fg_miss,75,False,False,MISS Harris 3' Driving Finger Roll Layup,,101-115,101,115
+0022000143,2021-01-10,BKN,OKC,42.7,4,5,18,OKC,OKC,reb,0,False,False,,Horford REBOUND (Off:0 Def:6),101-115,101,115
+0022000143,2021-01-10,BKN,OKC,42.98,4,5,1,OKC,OKC,fg3_miss,80,False,False,,MISS Gilgeous-Alexander 27' 3PT Step Back Jump Shot,101-115,101,115
+0022000143,2021-01-10,BKN,OKC,43.03,4,4,58,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:9),,101-115,101,115
+0022000143,2021-01-10,BKN,OKC,43.07,4,4,56,BKN,BKN,fg_make,50,False,False,Durant Running Dunk (31 PTS),,103-115,103,115
+0022000143,2021-01-10,BKN,OKC,43.07,4,4,56,BKN,OKC,foul,2,False,False,,Diallo S.FOUL (P4.PN) (R.Hussey),103-115,103,115
+0022000143,2021-01-10,BKN,OKC,43.07,4,4,56,BKN,BKN,ft_miss,10,False,False,MISS Durant Free Throw 1 of 1,,103-115,103,115
+0022000143,2021-01-10,BKN,OKC,43.12,4,4,53,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:1 Def:4),103-115,103,115
+0022000143,2021-01-10,BKN,OKC,43.4,4,4,36,OKC,OKC,fg3_make,1,False,False,,G. Hill 3PT Jump Shot (11 PTS) (Gilgeous-Alexander 6 AST),103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.53,4,4,28,BKN,BKN,tov,4,False,False,LeVert Traveling Turnover (P2.T16),,103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.78,4,4,13,OKC,OKC,fg_miss,1,False,False,,MISS Horford 15' Jump Shot,103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.82,4,4,11,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:10),,103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.9,4,4,6,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.9,4,4,6,BKN,BKN,fg3_miss,1,True,False,MISS Durant 27' 3PT Jump Shot,,103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.9,4,4,6,BKN,OKC,block,1,True,False,block,block,103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.9,4,4,6,OKC,OKC,reb,0,False,False,,Thunder Rebound,103-118,103,118
+0022000143,2021-01-10,BKN,OKC,43.93,4,4,4,,BKN,jump_ball,1,False,False,Jump Ball (CC) Durant vs. Bazley: Tip to Horford,,103-118,103,118
+0022000143,2021-01-10,BKN,OKC,44.23,4,3,46,OKC,OKC,fg_make,58,False,False,,Horford 5' Turnaround Hook Shot (22 PTS) (Bazley 2 AST),103-120,103,120
+0022000143,2021-01-10,BKN,OKC,44.52,4,3,29,BKN,BKN,fg_make,6,False,False,LeVert 2' Driving Layup (21 PTS) (Harris 3 AST),,105-120,105,120
+0022000143,2021-01-10,BKN,OKC,44.92,4,3,5,OKC,OKC,fg_make,75,False,False,,Dort 1' Driving Finger Roll Layup (13 PTS) (G. Hill 3 AST),105-122,105,122
+0022000143,2021-01-10,BKN,OKC,45.1,4,2,54,BKN,BKN,fg_make,6,False,False,Durant 2' Driving Layup (33 PTS),,107-122,107,122
+0022000143,2021-01-10,BKN,OKC,45.47,4,2,32,OKC,OKC,fg_make,6,False,False,,Gilgeous-Alexander 1' Driving Layup (29 PTS),107-124,107,124
+0022000143,2021-01-10,BKN,OKC,45.62,4,2,23,BKN,BKN,fg_make,9,False,False,Durant Driving Dunk (35 PTS),,109-124,109,124
+0022000143,2021-01-10,BKN,OKC,45.62,4,2,23,BKN,OKC,foul,2,False,False,,G. Hill S.FOUL (P1.PN) (S.Corbin),109-124,109,124
+0022000143,2021-01-10,BKN,OKC,45.62,4,2,23,BKN,BKN,ft_make,10,False,False,Durant Free Throw 1 of 1 (36 PTS),,110-124,110,124
+0022000143,2021-01-10,BKN,OKC,45.75,4,2,15,OKC,BKN,foul,28,False,False,LeVert Personal Take Foul (P2.T2) (J.Sterling),,110-124,110,124
+0022000143,2021-01-10,BKN,OKC,45.93,4,2,4,OKC,BKN,foul,1,False,False,Brown P.FOUL (P1.T3) (R.Hussey),,110-124,110,124
+0022000143,2021-01-10,BKN,OKC,46.13,4,1,52,OKC,OKC,fg3_make,1,False,False,,G. Hill 27' 3PT Jump Shot (14 PTS) (Gilgeous-Alexander 7 AST),110-127,110,127
+0022000143,2021-01-10,BKN,OKC,46.23,4,1,46,BKN,BKN,fg_make,98,False,False,Shamet 2' Cutting Layup Shot (2 PTS) (Kurucs 1 AST),,112-127,112,127
+0022000143,2021-01-10,BKN,OKC,46.23,4,1,46,BKN,OKC,foul,2,False,False,,Gilgeous-Alexander S.FOUL (P3.PN) (J.Sterling),112-127,112,127
+0022000143,2021-01-10,BKN,OKC,46.23,4,1,46,BKN,BKN,ft_make,10,False,False,Shamet Free Throw 1 of 1 (3 PTS),,113-127,113,127
+0022000143,2021-01-10,BKN,OKC,46.55,4,1,27,OKC,OKC,fg3_miss,1,False,False,,MISS G. Hill 29' 3PT Jump Shot,113-127,113,127
+0022000143,2021-01-10,BKN,OKC,46.6,4,1,24,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,113-127,113,127
+0022000143,2021-01-10,BKN,OKC,46.77,4,1,14,BKN,BKN,fg3_make,1,False,False,Luwawu-Cabarrot 26' 3PT Jump Shot (12 PTS) (Kurucs 2 AST),,116-127,116,127
+0022000143,2021-01-10,BKN,OKC,47.17,4,0,50,OKC,OKC,fg_make,79,False,False,,Gilgeous-Alexander 10' Pullup Jump Shot (31 PTS),116-129,116,129
+0022000143,2021-01-10,BKN,OKC,47.42,4,0,35,BKN,BKN,tov,1,False,True,Brown Bad Pass Turnover (P1.T17),,116-129,116,129
+0022000143,2021-01-10,BKN,OKC,47.42,4,0,35,BKN,OKC,steal,1,False,True,steal,steal,116-129,116,129
+0022000143,2021-01-10,BKN,OKC,47.82,4,0,11,OKC,OKC,tov,11,False,False,,Thunder Turnover: Shot Clock (T#11),116-129,116,129
+0022000143,2021-01-10,BKN,OKC,48.0,4,0,0,OKC,,period_end,0,False,False,,,116-129,116,129

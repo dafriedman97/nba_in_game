@@ -1,0 +1,427 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100604,2022-01-09,GSW,CLE,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100604,2022-01-09,GSW,CLE,0.0,1,12,0,,GSW,jump_ball,0,False,False,Jump Ball Looney vs. Allen: Tip to Garland,,0-0,0,0
+0022100604,2022-01-09,GSW,CLE,0.12,1,11,53,CLE,GSW,foul,28,False,False,Green Personal Take Foul (P1.T1) (S.Wright),,0-0,0,0
+0022100604,2022-01-09,GSW,CLE,0.42,1,11,35,CLE,CLE,fg_make,58,False,False,,Allen 5' Turnaround Hook Shot (2 PTS),0-2,0,2
+0022100604,2022-01-09,GSW,CLE,0.67,1,11,20,GSW,GSW,fg_make,101,False,False,Thompson 6' Driving Floating Jump Shot (2 PTS) (Wiggins 1 AST),,2-2,2,2
+0022100604,2022-01-09,GSW,CLE,0.82,1,11,11,CLE,GSW,foul,2,False,False,Looney S.FOUL (P1.T2) (B.Adams),,2-2,2,2
+0022100604,2022-01-09,GSW,CLE,0.82,1,11,11,CLE,CLE,ft_miss,11,False,False,,MISS Allen Free Throw 1 of 2,2-2,2,2
+0022100604,2022-01-09,GSW,CLE,0.82,1,11,11,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,2-2,2,2
+0022100604,2022-01-09,GSW,CLE,0.82,1,11,11,CLE,CLE,ft_make,12,False,False,,Allen Free Throw 2 of 2 (3 PTS),2-3,2,3
+0022100604,2022-01-09,GSW,CLE,0.98,1,11,1,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 27' 3PT Jump Shot,,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.02,1,10,59,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:0 Def:1),2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.12,1,10,53,CLE,GSW,violation,5,False,False,Curry Violation:Kicked Ball (B.Schwab),,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.3,1,10,42,CLE,CLE,fg_miss,58,False,False,,MISS Mobley 8' Turnaround Hook Shot,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.33,1,10,40,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:1),,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.47,1,10,32,GSW,CLE,steal,1,False,True,steal,steal,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.47,1,10,32,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P1.T1),,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.57,1,10,26,CLE,CLE,fg_miss,6,False,False,,MISS Garland 7' Driving Layup,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.62,1,10,23,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:1),,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.77,1,10,14,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P2.T2),,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.77,1,10,14,GSW,CLE,steal,1,False,True,steal,steal,2-3,2,3
+0022100604,2022-01-09,GSW,CLE,1.85,1,10,9,CLE,CLE,fg_make,50,False,False,,Stevens 3' Running Dunk (2 PTS),2-5,2,5
+0022100604,2022-01-09,GSW,CLE,2.02,1,9,59,GSW,GSW,fg_make,9,False,False,Wiggins 3' Driving Dunk (2 PTS),,4-5,4,5
+0022100604,2022-01-09,GSW,CLE,2.28,1,9,43,CLE,CLE,fg_miss,75,False,False,,MISS Garland 4' Driving Finger Roll Layup,4-5,4,5
+0022100604,2022-01-09,GSW,CLE,2.3,1,9,42,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,4-5,4,5
+0022100604,2022-01-09,GSW,CLE,2.37,1,9,38,CLE,CLE,fg3_make,80,False,False,,Garland 26' 3PT Step Back Jump Shot (3 PTS),4-8,4,8
+0022100604,2022-01-09,GSW,CLE,2.68,1,9,19,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 3PT Jump Shot,,4-8,4,8
+0022100604,2022-01-09,GSW,CLE,2.72,1,9,17,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:0 Def:1),4-8,4,8
+0022100604,2022-01-09,GSW,CLE,2.97,1,9,2,CLE,GSW,steal,1,False,True,steal,steal,4-8,4,8
+0022100604,2022-01-09,GSW,CLE,2.97,1,9,2,CLE,CLE,tov,1,False,True,,Mobley Bad Pass Turnover (P1.T1),4-8,4,8
+0022100604,2022-01-09,GSW,CLE,3.07,1,8,56,GSW,GSW,fg3_make,1,False,False,Curry 28' 3PT Jump Shot (3 PTS) (Toscano-Anderson 1 AST),,7-8,7,8
+0022100604,2022-01-09,GSW,CLE,3.4,1,8,36,CLE,GSW,foul,1,False,False,Thompson P.FOUL (P1.T3) (B.Adams),,7-8,7,8
+0022100604,2022-01-09,GSW,CLE,3.63,1,8,22,CLE,CLE,fg_miss,47,False,False,,MISS Mobley 14' Turnaround Jump Shot,7-8,7,8
+0022100604,2022-01-09,GSW,CLE,3.67,1,8,20,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:2),,7-8,7,8
+0022100604,2022-01-09,GSW,CLE,3.8,1,8,12,GSW,GSW,fg_miss,86,False,False,MISS Thompson 7' Turnaround Fadeaway Shot,,7-8,7,8
+0022100604,2022-01-09,GSW,CLE,3.83,1,8,10,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:1 Def:2),,7-8,7,8
+0022100604,2022-01-09,GSW,CLE,3.93,1,8,4,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 26' 3PT Jump Shot,,7-8,7,8
+0022100604,2022-01-09,GSW,CLE,3.97,1,8,2,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:0 Def:1),7-8,7,8
+0022100604,2022-01-09,GSW,CLE,4.07,1,7,56,CLE,CLE,fg_make,3,False,False,,Allen 6' Hook Shot (5 PTS) (Garland 1 AST),7-10,7,10
+0022100604,2022-01-09,GSW,CLE,4.38,1,7,37,GSW,CLE,foul,2,False,False,,Mobley S.FOUL (P1.T1) (B.Adams),7-10,7,10
+0022100604,2022-01-09,GSW,CLE,4.38,1,7,37,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (4 PTS),,8-10,8,10
+0022100604,2022-01-09,GSW,CLE,4.38,1,7,37,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (5 PTS),,9-10,9,10
+0022100604,2022-01-09,GSW,CLE,4.6,1,7,24,CLE,GSW,steal,1,False,True,steal,steal,9-10,9,10
+0022100604,2022-01-09,GSW,CLE,4.6,1,7,24,CLE,CLE,tov,1,False,True,,Mobley Bad Pass Turnover (P2.T2),9-10,9,10
+0022100604,2022-01-09,GSW,CLE,4.77,1,7,14,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 3PT Jump Shot,,9-10,9,10
+0022100604,2022-01-09,GSW,CLE,4.8,1,7,12,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:0 Def:2),9-10,9,10
+0022100604,2022-01-09,GSW,CLE,5.12,1,6,53,CLE,CLE,fg3_make,1,False,False,,Garland 3PT Jump Shot (6 PTS) (Stevens 1 AST),9-13,9,13
+0022100604,2022-01-09,GSW,CLE,5.47,1,6,32,GSW,GSW,fg_miss,80,False,False,MISS Wiggins 20' Step Back Jump Shot,,9-13,9,13
+0022100604,2022-01-09,GSW,CLE,5.52,1,6,29,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:0),,9-13,9,13
+0022100604,2022-01-09,GSW,CLE,5.62,1,6,23,GSW,GSW,fg_make,99,False,False,Toscano-Anderson 4' Cutting Finger Roll Layup Shot (2 PTS) (Poole 1 AST),,11-13,11,13
+0022100604,2022-01-09,GSW,CLE,5.73,1,6,16,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 1 Short 0),,11-13,11,13
+0022100604,2022-01-09,GSW,CLE,6.03,1,5,58,CLE,CLE,fg_make,52,False,False,,Allen 2' Alley Oop Dunk (7 PTS) (Love 1 AST),11-15,11,15
+0022100604,2022-01-09,GSW,CLE,6.37,1,5,38,GSW,GSW,fg3_make,80,False,False,Curry 27' 3PT Step Back Jump Shot (8 PTS) (Iguodala 1 AST),,14-15,14,15
+0022100604,2022-01-09,GSW,CLE,6.65,1,5,21,CLE,CLE,fg_miss,1,False,False,,MISS Love 19' Jump Shot,14-15,14,15
+0022100604,2022-01-09,GSW,CLE,6.68,1,5,19,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:1 Def:1),14-15,14,15
+0022100604,2022-01-09,GSW,CLE,6.72,1,5,17,CLE,CLE,fg_miss,58,False,False,,MISS Allen 7' Turnaround Hook Shot,14-15,14,15
+0022100604,2022-01-09,GSW,CLE,6.73,1,5,16,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,14-15,14,15
+0022100604,2022-01-09,GSW,CLE,6.9,1,5,6,GSW,GSW,fg_miss,57,False,False,MISS Wiggins 8' Driving Hook Shot,,14-15,14,15
+0022100604,2022-01-09,GSW,CLE,6.95,1,5,3,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:2 Def:2),,14-15,14,15
+0022100604,2022-01-09,GSW,CLE,7.0,1,5,0,GSW,GSW,fg3_make,1,False,False,Curry 25' 3PT Jump Shot (11 PTS) (Looney 1 AST),,17-15,17,15
+0022100604,2022-01-09,GSW,CLE,7.15,1,4,51,CLE,CLE,fg3_miss,1,False,False,,MISS Love 25' 3PT Jump Shot,17-15,17,15
+0022100604,2022-01-09,GSW,CLE,7.18,1,4,49,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:1),,17-15,17,15
+0022100604,2022-01-09,GSW,CLE,7.28,1,4,43,GSW,GSW,fg3_make,80,False,False,Curry 29' 3PT Step Back Jump Shot (14 PTS),,20-15,20,15
+0022100604,2022-01-09,GSW,CLE,7.52,1,4,29,CLE,GSW,steal,1,False,True,steal,steal,20-15,20,15
+0022100604,2022-01-09,GSW,CLE,7.52,1,4,29,CLE,CLE,tov,1,False,True,,Allen Bad Pass Turnover (P1.T3),20-15,20,15
+0022100604,2022-01-09,GSW,CLE,7.85,1,4,9,GSW,GSW,fg_miss,5,False,False,MISS Looney 6' Layup,,20-15,20,15
+0022100604,2022-01-09,GSW,CLE,7.88,1,4,7,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:3 Def:2),,20-15,20,15
+0022100604,2022-01-09,GSW,CLE,7.93,1,4,4,GSW,GSW,fg_make,101,False,False,Poole 13' Driving Floating Jump Shot (2 PTS) (Looney 2 AST),,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,7.97,1,4,2,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.1 Short 0),22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.2,1,3,48,CLE,CLE,fg_miss,79,False,False,,MISS Osman 16' Pullup Jump Shot,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.23,1,3,46,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:1),,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.43,1,3,34,GSW,GSW,fg3_miss,1,False,False,MISS Iguodala 27' 3PT Jump Shot,,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.48,1,3,31,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:1),22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.57,1,3,26,CLE,CLE,fg3_miss,1,False,False,,MISS Love 26' 3PT Jump Shot,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.6,1,3,24,GSW,GSW,reb,0,False,False,Bjelica REBOUND (Off:0 Def:1),,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.73,1,3,16,GSW,GSW,fg3_miss,80,False,False,MISS Curry 31' 3PT Step Back Jump Shot,,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.77,1,3,14,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:2),22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.93,1,3,4,CLE,CLE,fg_miss,86,False,False,,MISS Rondo 15' Turnaround Fadeaway Shot,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,8.97,1,3,2,GSW,GSW,reb,0,False,False,Bjelica REBOUND (Off:0 Def:2),,22-15,22,15
+0022100604,2022-01-09,GSW,CLE,9.32,1,2,41,GSW,GSW,ft_make,12,False,False,Wiggins Free Throw 2 of 2 (4 PTS),,24-15,24,15
+0022100604,2022-01-09,GSW,CLE,9.32,1,2,41,GSW,GSW,ft_make,11,False,False,Wiggins Free Throw 1 of 2 (3 PTS),,23-15,23,15
+0022100604,2022-01-09,GSW,CLE,9.32,1,2,41,GSW,CLE,foul,2,False,False,,Windler S.FOUL (P1.T2) (B.Adams),22-15,22,15
+0022100604,2022-01-09,GSW,CLE,9.58,1,2,25,CLE,GSW,steal,1,False,True,steal,steal,24-15,24,15
+0022100604,2022-01-09,GSW,CLE,9.58,1,2,25,CLE,CLE,tov,1,False,True,,Rondo Bad Pass Turnover (P1.T4),24-15,24,15
+0022100604,2022-01-09,GSW,CLE,9.85,1,2,9,GSW,GSW,fg3_miss,1,False,False,MISS Porter Jr. 27' 3PT Jump Shot,,24-15,24,15
+0022100604,2022-01-09,GSW,CLE,9.9,1,2,6,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:3),24-15,24,15
+0022100604,2022-01-09,GSW,CLE,10.15,1,1,51,CLE,CLE,fg_make,9,False,False,,Mobley 1' Driving Dunk (2 PTS) (Rondo 1 AST),24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.38,1,1,37,GSW,GSW,fg3_miss,1,False,False,MISS Poole 25' 3PT Jump Shot,,24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.43,1,1,34,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:4),24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.47,1,1,32,CLE,GSW,steal,1,False,True,steal,steal,24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.47,1,1,32,CLE,CLE,tov,1,False,True,,Love Bad Pass Turnover (P1.T5),24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.55,1,1,27,GSW,GSW,fg3_miss,1,False,False,MISS Bjelica 30' 3PT Jump Shot,,24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.58,1,1,25,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:5),24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.83,1,1,10,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 27' 3PT Jump Shot,24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.88,1,1,7,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:1 Def:1),24-17,24,17
+0022100604,2022-01-09,GSW,CLE,10.92,1,1,5,CLE,CLE,fg_make,87,False,False,,Mobley Putback Dunk (4 PTS),24-19,24,19
+0022100604,2022-01-09,GSW,CLE,11.18,1,0,49,GSW,GSW,fg3_miss,1,False,False,MISS Bjelica 3PT Jump Shot,,24-19,24,19
+0022100604,2022-01-09,GSW,CLE,11.22,1,0,47,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:1 Def:2),24-19,24,19
+0022100604,2022-01-09,GSW,CLE,11.42,1,0,35,CLE,CLE,fg_make,101,False,False,,Osman 8' Driving Floating Jump Shot (2 PTS) (Mobley 1 AST),24-21,24,21
+0022100604,2022-01-09,GSW,CLE,11.5,1,0,30,GSW,GSW,fg3_miss,79,False,False,MISS Poole 31' 3PT Pullup Jump Shot,,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,11.55,1,0,27,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:1 Def:3),24-21,24,21
+0022100604,2022-01-09,GSW,CLE,11.83,1,0,10,CLE,GSW,foul,1,False,False,Payton II P.FOUL (P1.T4) (S.Wright),,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,11.92,1,0,5,CLE,CLE,fg_miss,6,False,False,,MISS Rondo 4' Driving Layup,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,11.95,1,0,3,GSW,GSW,reb,0,False,False,Payton II REBOUND (Off:0 Def:1),,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.0,1,0,0,GSW,,period_end,0,False,False,,,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.0,2,12,0,GSW,,period_start,0,False,False,,,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.0,1,0,0,GSW,GSW,fg3_miss,79,False,False,MISS Iguodala 45' 3PT Pullup Jump Shot,,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.0,1,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.22,2,11,47,GSW,GSW,fg_miss,43,False,False,MISS Payton II 4' Alley Oop Layup,,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.27,2,11,44,GSW,GSW,reb,0,False,False,Payton II REBOUND (Off:1 Def:1),,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.42,2,11,35,GSW,GSW,fg_miss,1,False,False,MISS Iguodala 18' Jump Shot,,24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.45,2,11,33,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:0 Def:1),24-21,24,21
+0022100604,2022-01-09,GSW,CLE,12.67,2,11,20,CLE,CLE,fg_make,79,False,False,,Love 18' Pullup Jump Shot (2 PTS) (Osman 1 AST),24-23,24,23
+0022100604,2022-01-09,GSW,CLE,12.83,2,11,10,GSW,GSW,fg3_miss,1,False,False,MISS Iguodala 3PT Jump Shot,,24-23,24,23
+0022100604,2022-01-09,GSW,CLE,12.87,2,11,8,GSW,GSW,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:0),,24-23,24,23
+0022100604,2022-01-09,GSW,CLE,12.93,2,11,4,GSW,GSW,fg3_make,1,False,False,Payton II 28' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),,27-23,27,23
+0022100604,2022-01-09,GSW,CLE,13.28,2,10,43,CLE,CLE,fg3_make,1,False,False,,Windler 25' 3PT Jump Shot (3 PTS) (Rondo 2 AST),27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.48,2,10,31,GSW,GSW,fg_miss,6,False,False,MISS Curry 5' Driving Layup,,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.52,2,10,29,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:0 Def:2),27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.55,2,10,27,CLE,GSW,block,41,True,False,block,block,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.55,2,10,27,CLE,CLE,fg_miss,41,True,False,,MISS Osman 6' Running Layup,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.57,2,10,26,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.6,2,10,24,CLE,GSW,foul,1,False,False,Payton II P.FOUL (P2.T1) (B.Adams),,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.87,2,10,8,CLE,CLE,fg_miss,47,False,False,,MISS Mobley 12' Turnaround Jump Shot,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,13.9,2,10,6,GSW,GSW,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:1),,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,14.1,2,9,54,GSW,GSW,fg_miss,79,False,False,MISS Porter Jr. 19' Pullup Jump Shot,,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,14.13,2,9,52,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:1 Def:0),,27-26,27,26
+0022100604,2022-01-09,GSW,CLE,14.18,2,9,49,GSW,GSW,fg_make,98,False,False,Porter Jr. 5' Cutting Layup Shot (2 PTS) (Iguodala 2 AST),,29-26,29,26
+0022100604,2022-01-09,GSW,CLE,14.18,2,9,49,GSW,CLE,foul,2,False,False,,Mobley S.FOUL (P2.T1) (B.Adams),29-26,29,26
+0022100604,2022-01-09,GSW,CLE,14.18,2,9,49,GSW,GSW,ft_miss,10,False,False,MISS Porter Jr. Free Throw 1 of 1,,29-26,29,26
+0022100604,2022-01-09,GSW,CLE,14.2,2,9,48,GSW,GSW,reb,0,False,False,Porter Jr. REBOUND (Off:2 Def:1),,29-26,29,26
+0022100604,2022-01-09,GSW,CLE,14.22,2,9,47,GSW,GSW,fg_make,97,False,False,Porter Jr. 2' Tip Layup Shot (4 PTS),,31-26,31,26
+0022100604,2022-01-09,GSW,CLE,14.53,2,9,28,CLE,CLE,fg_make,7,False,False,,Mobley 5' Dunk (6 PTS) (Rondo 3 AST),31-28,31,28
+0022100604,2022-01-09,GSW,CLE,14.53,2,9,28,CLE,GSW,foul,2,False,False,Porter Jr. S.FOUL (P1.T2) (B.Schwab),,31-28,31,28
+0022100604,2022-01-09,GSW,CLE,14.53,2,9,28,CLE,CLE,ft_miss,10,False,False,,MISS Mobley Free Throw 1 of 1,31-28,31,28
+0022100604,2022-01-09,GSW,CLE,14.55,2,9,27,GSW,GSW,reb,0,False,False,Porter Jr. REBOUND (Off:2 Def:2),,31-28,31,28
+0022100604,2022-01-09,GSW,CLE,14.77,2,9,14,GSW,GSW,fg3_miss,1,False,False,MISS Bjelica 28' 3PT Jump Shot,,31-28,31,28
+0022100604,2022-01-09,GSW,CLE,14.8,2,9,12,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:6),31-28,31,28
+0022100604,2022-01-09,GSW,CLE,14.95,2,9,3,CLE,CLE,fg3_miss,79,False,False,,MISS Love 25' 3PT Pullup Jump Shot,31-28,31,28
+0022100604,2022-01-09,GSW,CLE,14.98,2,9,1,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:1 Def:0),31-28,31,28
+0022100604,2022-01-09,GSW,CLE,15.05,2,8,57,CLE,CLE,fg3_miss,1,False,False,,MISS Windler 3PT Jump Shot,31-28,31,28
+0022100604,2022-01-09,GSW,CLE,15.1,2,8,54,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:1 Def:6),31-28,31,28
+0022100604,2022-01-09,GSW,CLE,15.15,2,8,51,CLE,CLE,tov,1,False,True,,Love Bad Pass Turnover (P2.T6),31-28,31,28
+0022100604,2022-01-09,GSW,CLE,15.15,2,8,51,CLE,GSW,steal,1,False,True,steal,steal,31-28,31,28
+0022100604,2022-01-09,GSW,CLE,15.2,2,8,48,GSW,GSW,fg_make,50,False,False,Payton II 3' Running Dunk (5 PTS),,33-28,33,28
+0022100604,2022-01-09,GSW,CLE,15.53,2,8,28,CLE,GSW,block,63,True,False,block,block,33-28,33,28
+0022100604,2022-01-09,GSW,CLE,15.53,2,8,28,CLE,CLE,fg_miss,63,True,False,,MISS Love 12' Fadeaway Jumper,33-28,33,28
+0022100604,2022-01-09,GSW,CLE,15.57,2,8,26,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:1 Def:1),,33-28,33,28
+0022100604,2022-01-09,GSW,CLE,15.82,2,8,11,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.2 Short 0),35-28,35,28
+0022100604,2022-01-09,GSW,CLE,15.82,2,8,11,GSW,GSW,fg_make,98,False,False,Payton II 4' Cutting Layup Shot (7 PTS) (Iguodala 3 AST),,35-28,35,28
+0022100604,2022-01-09,GSW,CLE,16.05,2,7,57,CLE,CLE,fg_make,6,False,False,,Rondo 4' Driving Layup (2 PTS),35-30,35,30
+0022100604,2022-01-09,GSW,CLE,16.42,2,7,35,GSW,GSW,fg_miss,79,False,False,MISS Curry 18' Pullup Jump Shot,,35-30,35,30
+0022100604,2022-01-09,GSW,CLE,16.45,2,7,33,CLE,CLE,reb,0,False,False,,Garland REBOUND (Off:0 Def:1),35-30,35,30
+0022100604,2022-01-09,GSW,CLE,16.62,2,7,23,CLE,CLE,fg_make,73,False,False,,Stevens 4' Driving Reverse Layup (4 PTS) (Markkanen 1 AST),35-32,35,32
+0022100604,2022-01-09,GSW,CLE,16.92,2,7,5,GSW,GSW,fg_make,73,False,False,Curry 4' Driving Reverse Layup (16 PTS) (Looney 3 AST),,37-32,37,32
+0022100604,2022-01-09,GSW,CLE,17.12,2,6,53,CLE,CLE,fg_miss,101,False,False,,MISS Rondo 11' Driving Floating Jump Shot,37-32,37,32
+0022100604,2022-01-09,GSW,CLE,17.15,2,6,51,GSW,GSW,reb,0,False,False,Payton II REBOUND (Off:1 Def:2),,37-32,37,32
+0022100604,2022-01-09,GSW,CLE,17.27,2,6,44,GSW,GSW,fg_make,6,False,False,Wiggins 4' Driving Layup (6 PTS) (Payton II 1 AST),,39-32,39,32
+0022100604,2022-01-09,GSW,CLE,17.53,2,6,28,CLE,CLE,fg3_miss,1,False,False,,MISS Markkanen 29' 3PT Jump Shot,39-32,39,32
+0022100604,2022-01-09,GSW,CLE,17.57,2,6,26,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:3 Def:3),,39-32,39,32
+0022100604,2022-01-09,GSW,CLE,17.67,2,6,20,GSW,GSW,fg_make,41,False,False,Payton II 3' Running Layup (9 PTS) (Curry 1 AST),,41-32,41,32
+0022100604,2022-01-09,GSW,CLE,18.02,2,5,59,CLE,CLE,fg_miss,47,False,False,,MISS Markkanen 8' Turnaround Jump Shot,41-32,41,32
+0022100604,2022-01-09,GSW,CLE,18.07,2,5,56,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:3 Def:4),,41-32,41,32
+0022100604,2022-01-09,GSW,CLE,18.17,2,5,50,GSW,GSW,fg3_miss,80,False,False,MISS Curry 26' 3PT Step Back Jump Shot,,41-32,41,32
+0022100604,2022-01-09,GSW,CLE,18.2,2,5,48,CLE,CLE,reb,0,False,False,,Garland REBOUND (Off:0 Def:2),41-32,41,32
+0022100604,2022-01-09,GSW,CLE,18.28,2,5,43,CLE,GSW,foul,2,False,False,Curry S.FOUL (P1.T3) (S.Wright),,41-34,41,34
+0022100604,2022-01-09,GSW,CLE,18.28,2,5,43,CLE,CLE,fg_make,98,False,False,,Stevens 3' Cutting Layup Shot (6 PTS) (Rondo 4 AST),41-34,41,34
+0022100604,2022-01-09,GSW,CLE,18.28,2,5,43,CLE,CLE,ft_make,10,False,False,,Stevens Free Throw 1 of 1 (7 PTS),41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.7,2,5,18,GSW,GSW,fg3_miss,1,False,False,MISS Toscano-Anderson 26' 3PT Jump Shot,,41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.75,2,5,15,GSW,GSW,reb,0,False,False,Porter Jr. REBOUND (Off:3 Def:2),,41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.82,2,5,11,GSW,GSW,fg_miss,6,False,False,MISS Toscano-Anderson 4' Driving Layup,,41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.87,2,5,8,GSW,CLE,steal,1,False,True,steal,steal,41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.87,2,5,8,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:4 Def:4),,41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.87,2,5,8,GSW,GSW,tov,1,False,True,Looney Bad Pass Turnover (P1.T3),,41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.88,2,5,7,CLE,GSW,foul,2,False,False,Poole S.FOUL (P1.T4) (S.Wright),,41-35,41,35
+0022100604,2022-01-09,GSW,CLE,18.88,2,5,7,CLE,CLE,ft_make,11,False,False,,Osman Free Throw 1 of 2 (3 PTS),41-36,41,36
+0022100604,2022-01-09,GSW,CLE,18.88,2,5,7,CLE,CLE,ft_make,12,False,False,,Osman Free Throw 2 of 2 (4 PTS),41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.07,2,4,56,GSW,GSW,fg_miss,79,False,False,MISS Poole 20' Pullup Jump Shot,,41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.1,2,4,54,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:1 Def:2),41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.18,2,4,49,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 27' 3PT Jump Shot,41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.22,2,4,47,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:2),,41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.3,2,4,42,GSW,GSW,fg3_miss,2,False,False,MISS Porter Jr. 25' 3PT Running Jump Shot,,41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.33,2,4,40,CLE,CLE,reb,0,False,False,,Stevens REBOUND (Off:0 Def:1),41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.48,2,4,31,CLE,CLE,fg3_miss,1,False,False,,MISS Markkanen 26' 3PT Jump Shot,41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.52,2,4,29,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:3),,41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.62,2,4,23,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 2 Short 0),,41-37,41,37
+0022100604,2022-01-09,GSW,CLE,19.72,2,4,17,GSW,GSW,fg3_make,1,False,False,Poole 24' 3PT Jump Shot (5 PTS) (Porter Jr. 2 AST),,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.12,2,3,53,CLE,CLE,tov,1,False,True,,Allen Bad Pass Turnover (P2.T7),44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.12,2,3,53,CLE,GSW,steal,1,False,True,steal,steal,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.43,2,3,34,GSW,GSW,fg_miss,5,True,False,MISS Porter Jr. 5' Layup,,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.43,2,3,34,GSW,CLE,block,5,True,False,block,block,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.47,2,3,32,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:5 Def:4),,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.48,2,3,31,GSW,GSW,tov,39,False,False,Looney Step Out of Bounds Turnover (P2.T4),,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.68,2,3,19,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P1.T8),44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.68,2,3,19,CLE,GSW,steal,1,False,True,steal,steal,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.8,2,3,12,GSW,GSW,fg_miss,86,False,False,MISS Thompson 9' Turnaround Fadeaway Shot,,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,20.83,2,3,10,GSW,GSW,reb,0,False,False,Porter Jr. REBOUND (Off:4 Def:2),,44-37,44,37
+0022100604,2022-01-09,GSW,CLE,21.07,2,2,56,GSW,GSW,fg_make,9,False,False,Thompson 1' Driving Dunk (4 PTS),,46-37,46,37
+0022100604,2022-01-09,GSW,CLE,21.35,2,2,39,CLE,CLE,fg_miss,101,False,False,,MISS Osman 9' Driving Floating Jump Shot,46-37,46,37
+0022100604,2022-01-09,GSW,CLE,21.4,2,2,36,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:5 Def:5),,46-37,46,37
+0022100604,2022-01-09,GSW,CLE,21.53,2,2,28,GSW,GSW,tov,4,False,False,Thompson Traveling Turnover (P1.T5),,46-37,46,37
+0022100604,2022-01-09,GSW,CLE,21.78,2,2,13,CLE,CLE,fg_make,9,False,False,,Stevens 3' Driving Dunk (9 PTS) (Garland 2 AST),46-39,46,39
+0022100604,2022-01-09,GSW,CLE,21.97,2,2,2,GSW,GSW,fg3_miss,79,False,False,MISS Curry 31' 3PT Pullup Jump Shot,,46-39,46,39
+0022100604,2022-01-09,GSW,CLE,22.0,2,2,0,CLE,CLE,reb,0,False,False,,Stevens REBOUND (Off:0 Def:2),46-39,46,39
+0022100604,2022-01-09,GSW,CLE,22.13,2,1,52,CLE,CLE,fg3_miss,80,False,False,,MISS Garland 29' 3PT Step Back Jump Shot,46-39,46,39
+0022100604,2022-01-09,GSW,CLE,22.17,2,1,50,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:2),,46-39,46,39
+0022100604,2022-01-09,GSW,CLE,22.37,2,1,38,GSW,GSW,fg_miss,63,False,False,MISS Thompson 15' Fadeaway Jumper,,46-39,46,39
+0022100604,2022-01-09,GSW,CLE,22.4,2,1,36,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:1 Def:1),46-39,46,39
+0022100604,2022-01-09,GSW,CLE,22.48,2,1,31,CLE,CLE,fg_make,50,False,False,,Stevens 3' Running Dunk (11 PTS) (Osman 2 AST),46-41,46,41
+0022100604,2022-01-09,GSW,CLE,22.7,2,1,18,GSW,GSW,fg3_make,1,False,False,Thompson 27' 3PT Jump Shot (7 PTS) (Porter Jr. 3 AST),,49-41,49,41
+0022100604,2022-01-09,GSW,CLE,23.03,2,0,58,CLE,CLE,ft_make,11,False,False,,Markkanen Free Throw 1 of 2 (1 PTS),49-42,49,42
+0022100604,2022-01-09,GSW,CLE,23.03,2,0,58,CLE,CLE,ft_make,12,False,False,,Markkanen Free Throw 2 of 2 (2 PTS),49-43,49,43
+0022100604,2022-01-09,GSW,CLE,23.03,2,0,58,CLE,GSW,foul,2,False,False,Thompson S.FOUL (P2.PN) (B.Adams),,49-41,49,41
+0022100604,2022-01-09,GSW,CLE,23.17,2,0,50,GSW,GSW,fg_make,75,False,False,Curry 5' Driving Finger Roll Layup (18 PTS),,51-43,51,43
+0022100604,2022-01-09,GSW,CLE,23.38,2,0,37,CLE,CLE,fg_make,6,False,False,,Stevens 9' Driving Layup (13 PTS) (Osman 3 AST),51-45,51,45
+0022100604,2022-01-09,GSW,CLE,23.5,2,0,30,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 28' 3PT Jump Shot,,51-45,51,45
+0022100604,2022-01-09,GSW,CLE,23.55,2,0,27,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:1 Def:3),51-45,51,45
+0022100604,2022-01-09,GSW,CLE,23.92,2,0,5,CLE,CLE,ft_make,12,False,False,,Garland Free Throw 2 of 2 (7 PTS),51-46,51,46
+0022100604,2022-01-09,GSW,CLE,23.92,2,0,5,CLE,CLE,ft_miss,11,False,False,,MISS Garland Free Throw 1 of 2,51-45,51,45
+0022100604,2022-01-09,GSW,CLE,23.92,2,0,5,CLE,GSW,foul,2,False,False,Thompson S.FOUL (P3.PN) (B.Adams),,51-45,51,45
+0022100604,2022-01-09,GSW,CLE,23.92,2,0,5,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,51-45,51,45
+0022100604,2022-01-09,GSW,CLE,23.97,2,0,2,GSW,GSW,fg3_miss,79,False,False,MISS Curry 42' 3PT Pullup Jump Shot,,51-46,51,46
+0022100604,2022-01-09,GSW,CLE,24.0,3,12,0,CLE,GSW,violation,1,False,False,WARRIORS Violation: Delay of game Violation,,51-46,51,46
+0022100604,2022-01-09,GSW,CLE,24.0,3,12,0,GSW,,period_start,0,False,False,,,51-46,51,46
+0022100604,2022-01-09,GSW,CLE,24.0,2,0,0,GSW,,period_end,0,False,False,,,51-46,51,46
+0022100604,2022-01-09,GSW,CLE,24.0,2,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,51-46,51,46
+0022100604,2022-01-09,GSW,CLE,24.23,3,11,46,GSW,GSW,fg_make,63,False,False,Thompson 13' Fadeaway Jumper (9 PTS),,53-46,53,46
+0022100604,2022-01-09,GSW,CLE,24.48,3,11,31,CLE,GSW,foul,1,False,False,Toscano-Anderson P.FOUL (P1.T1) (B.Adams),,53-46,53,46
+0022100604,2022-01-09,GSW,CLE,24.68,3,11,19,CLE,CLE,fg_miss,63,False,False,,MISS Stevens 9' Fadeaway Jumper,53-46,53,46
+0022100604,2022-01-09,GSW,CLE,24.72,3,11,17,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:2),53-46,53,46
+0022100604,2022-01-09,GSW,CLE,24.77,3,11,14,CLE,CLE,fg3_miss,1,False,False,,MISS Garland 24' 3PT Jump Shot,53-46,53,46
+0022100604,2022-01-09,GSW,CLE,24.8,3,11,12,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:4),,53-46,53,46
+0022100604,2022-01-09,GSW,CLE,24.97,3,11,2,GSW,GSW,fg_make,86,False,False,Looney 14' Turnaround Fadeaway (2 PTS),,55-46,55,46
+0022100604,2022-01-09,GSW,CLE,25.38,3,10,37,CLE,GSW,foul,1,False,False,Looney P.FOUL (P2.T2) (S.Wright),,55-46,55,46
+0022100604,2022-01-09,GSW,CLE,25.57,3,10,26,CLE,CLE,fg_make,63,False,False,,Garland 11' Fadeaway Jumper (9 PTS),55-48,55,48
+0022100604,2022-01-09,GSW,CLE,25.8,3,10,12,GSW,GSW,tov,45,False,False,Thompson Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,55-48,55,48
+0022100604,2022-01-09,GSW,CLE,26.12,3,9,53,CLE,CLE,fg_miss,75,False,False,,MISS Garland 3' Driving Finger Roll Layup,55-48,55,48
+0022100604,2022-01-09,GSW,CLE,26.15,3,9,51,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:5 Def:6),,55-48,55,48
+0022100604,2022-01-09,GSW,CLE,26.42,3,9,35,GSW,GSW,fg_make,79,False,False,Thompson 11' Pullup Jump Shot (11 PTS),,57-48,57,48
+0022100604,2022-01-09,GSW,CLE,26.77,3,9,14,CLE,GSW,steal,2,False,True,steal,steal,57-48,57,48
+0022100604,2022-01-09,GSW,CLE,26.77,3,9,14,CLE,CLE,tov,2,False,True,,Stevens Lost Ball Turnover (P1.T9),57-48,57,48
+0022100604,2022-01-09,GSW,CLE,26.83,3,9,10,GSW,GSW,fg3_make,2,False,False,Thompson 29' 3PT Running Jump Shot (14 PTS) (Toscano-Anderson 2 AST),,60-48,60,48
+0022100604,2022-01-09,GSW,CLE,26.87,3,9,8,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.3 Short 0),60-48,60,48
+0022100604,2022-01-09,GSW,CLE,27.25,3,8,45,CLE,CLE,fg_make,58,False,False,,Mobley 11' Turnaround Hook Shot (8 PTS),60-50,60,50
+0022100604,2022-01-09,GSW,CLE,27.5,3,8,30,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 24' 3PT Jump Shot,,60-50,60,50
+0022100604,2022-01-09,GSW,CLE,27.53,3,8,28,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,60-50,60,50
+0022100604,2022-01-09,GSW,CLE,27.62,3,8,23,GSW,CLE,steal,1,False,True,steal,steal,60-50,60,50
+0022100604,2022-01-09,GSW,CLE,27.62,3,8,23,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P3.T7),,60-50,60,50
+0022100604,2022-01-09,GSW,CLE,27.65,3,8,21,CLE,GSW,foul,1,False,False,Toscano-Anderson P.FOUL (P2.T3) (B.Adams),,60-50,60,50
+0022100604,2022-01-09,GSW,CLE,27.9,3,8,6,CLE,CLE,fg_make,58,False,False,,Allen 7' Turnaround Hook Shot (9 PTS) (Mobley 2 AST),60-52,60,52
+0022100604,2022-01-09,GSW,CLE,28.18,3,7,49,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (20 PTS),,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.18,3,7,49,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (19 PTS),,61-52,61,52
+0022100604,2022-01-09,GSW,CLE,28.18,3,7,49,GSW,CLE,foul,2,False,False,,Stevens S.FOUL (P1.T1) (B.Schwab),60-52,60,52
+0022100604,2022-01-09,GSW,CLE,28.25,3,7,45,CLE,CLE,tov,37,False,False,,Garland Offensive Foul Turnover (P2.T10),62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.25,3,7,45,GSW,CLE,foul,4,False,False,,Garland OFF.Foul (P1) (B.Adams),62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.5,3,7,30,GSW,GSW,fg_miss,101,False,False,MISS Wiggins 9' Driving Floating Jump Shot,,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.55,3,7,27,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:6 Def:6),,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.58,3,7,25,GSW,GSW,fg_miss,97,False,False,MISS Looney Tip Layup Shot,,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.62,3,7,23,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:7 Def:6),,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.63,3,7,22,GSW,CLE,block,72,True,False,block,block,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.63,3,7,22,GSW,GSW,fg_miss,72,True,False,MISS Looney Putback Layup,,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.67,3,7,20,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:2 Def:2),,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.73,3,7,16,GSW,GSW,fg_miss,80,False,False,MISS Curry 20' Step Back Jump Shot,,62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.77,3,7,14,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:3),62-52,62,52
+0022100604,2022-01-09,GSW,CLE,28.92,3,7,5,CLE,CLE,tov,4,False,False,,Mobley Traveling Turnover (P3.T11),62-52,62,52
+0022100604,2022-01-09,GSW,CLE,29.07,3,6,56,GSW,GSW,fg_make,98,False,False,Poole 4' Cutting Layup Shot (7 PTS) (Toscano-Anderson 3 AST),,64-52,64,52
+0022100604,2022-01-09,GSW,CLE,29.32,3,6,41,CLE,CLE,fg3_make,1,False,False,,Markkanen 3PT Jump Shot (5 PTS) (Garland 3 AST),64-55,64,55
+0022100604,2022-01-09,GSW,CLE,29.68,3,6,19,GSW,GSW,fg_make,108,False,False,Looney 3' Cutting Dunk Shot (4 PTS) (Curry 2 AST),,66-55,66,55
+0022100604,2022-01-09,GSW,CLE,29.68,3,6,19,GSW,CLE,foul,2,False,False,,Markkanen S.FOUL (P1.T2) (S.Wright),66-55,66,55
+0022100604,2022-01-09,GSW,CLE,29.68,3,6,19,GSW,GSW,ft_miss,10,False,False,MISS Looney Free Throw 1 of 1,,66-55,66,55
+0022100604,2022-01-09,GSW,CLE,29.72,3,6,17,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:1 Def:4),66-55,66,55
+0022100604,2022-01-09,GSW,CLE,29.93,3,6,4,CLE,CLE,tov,2,False,True,,Rondo Lost Ball Turnover (P2.T12),66-55,66,55
+0022100604,2022-01-09,GSW,CLE,29.93,3,6,4,CLE,GSW,steal,2,False,True,steal,steal,66-55,66,55
+0022100604,2022-01-09,GSW,CLE,30.0,3,6,0,GSW,GSW,fg3_make,2,False,False,Poole 3PT Running Jump Shot (10 PTS) (Curry 3 AST),,69-55,69,55
+0022100604,2022-01-09,GSW,CLE,30.45,3,5,33,CLE,CLE,tov,11,False,False,,Cavaliers Turnover: Shot Clock (T#13),69-55,69,55
+0022100604,2022-01-09,GSW,CLE,30.6,3,5,24,GSW,CLE,steal,1,False,True,steal,steal,69-55,69,55
+0022100604,2022-01-09,GSW,CLE,30.6,3,5,24,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P4.T8),,69-55,69,55
+0022100604,2022-01-09,GSW,CLE,30.67,3,5,20,CLE,CLE,fg3_miss,103,False,False,,MISS Garland 27' 3PT Running Pull-Up Jump Shot,69-55,69,55
+0022100604,2022-01-09,GSW,CLE,30.7,3,5,18,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:7 Def:7),,69-55,69,55
+0022100604,2022-01-09,GSW,CLE,30.87,3,5,8,GSW,GSW,fg3_miss,79,False,False,MISS Poole 26' 3PT Pullup Jump Shot,,69-55,69,55
+0022100604,2022-01-09,GSW,CLE,30.9,3,5,6,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:8 Def:7),,69-55,69,55
+0022100604,2022-01-09,GSW,CLE,31.1,3,4,54,GSW,GSW,fg_make,98,False,False,Curry 4' Cutting Layup Shot (22 PTS) (Iguodala 4 AST),,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.33,3,4,40,CLE,CLE,fg3_miss,1,False,False,,MISS Love 26' 3PT Jump Shot,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.37,3,4,38,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:8 Def:8),,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.65,3,4,21,GSW,CLE,steal,2,False,True,steal,steal,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.65,3,4,21,GSW,GSW,tov,2,False,True,Iguodala Lost Ball Turnover (P1.T9),,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.73,3,4,16,CLE,GSW,foul,2,False,False,Wiggins S.FOUL (P1.T4) (S.Wright),,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.73,3,4,16,CLE,CLE,ft_miss,11,False,False,,MISS Osman Free Throw 1 of 2,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.73,3,4,16,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.73,3,4,16,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.73,3,4,16,CLE,CLE,ft_miss,12,False,False,,MISS Osman Free Throw 2 of 2,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,31.78,3,4,13,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:0 Def:1),,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,32.03,3,3,58,GSW,GSW,fg3_miss,1,False,False,MISS Iguodala 27' 3PT Jump Shot,,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,32.08,3,3,55,GSW,GSW,reb,0,False,False,Payton II REBOUND (Off:2 Def:2),,71-55,71,55
+0022100604,2022-01-09,GSW,CLE,32.15,3,3,51,GSW,GSW,fg_make,102,False,False,Curry 10' Driving Floating Bank Jump Shot (24 PTS) (Poole 2 AST),,73-55,73,55
+0022100604,2022-01-09,GSW,CLE,32.38,3,3,37,CLE,CLE,tov,1,False,True,,Mobley Bad Pass Turnover (P4.T14),73-55,73,55
+0022100604,2022-01-09,GSW,CLE,32.38,3,3,37,CLE,GSW,steal,1,False,True,steal,steal,73-55,73,55
+0022100604,2022-01-09,GSW,CLE,32.72,3,3,17,GSW,GSW,fg_make,75,False,False,Poole 6' Driving Finger Roll Layup (12 PTS) (Curry 4 AST),,75-55,75,55
+0022100604,2022-01-09,GSW,CLE,33.05,3,2,57,CLE,CLE,tov,2,False,True,,Mobley Lost Ball Turnover (P5.T15),75-55,75,55
+0022100604,2022-01-09,GSW,CLE,33.05,3,2,57,CLE,GSW,steal,2,False,True,steal,steal,75-55,75,55
+0022100604,2022-01-09,GSW,CLE,33.13,3,2,52,GSW,GSW,fg_make,41,False,False,Iguodala 4' Running Layup (2 PTS),,77-55,77,55
+0022100604,2022-01-09,GSW,CLE,33.33,3,2,40,CLE,CLE,tov,1,False,True,,Rondo Bad Pass Turnover (P3.T16),77-55,77,55
+0022100604,2022-01-09,GSW,CLE,33.33,3,2,40,CLE,GSW,steal,1,False,True,steal,steal,77-55,77,55
+0022100604,2022-01-09,GSW,CLE,33.42,3,2,35,GSW,GSW,fg3_miss,2,False,False,MISS Porter Jr. 27' 3PT Running Jump Shot,,77-55,77,55
+0022100604,2022-01-09,GSW,CLE,33.45,3,2,33,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:3 Def:2),,77-55,77,55
+0022100604,2022-01-09,GSW,CLE,33.5,3,2,30,GSW,GSW,fg_make,72,False,False,Curry Putback Layup (26 PTS),,79-55,79,55
+0022100604,2022-01-09,GSW,CLE,33.7,3,2,18,CLE,CLE,ft_make,12,False,False,,Mobley Free Throw 2 of 2 (9 PTS),79-56,79,56
+0022100604,2022-01-09,GSW,CLE,33.7,3,2,18,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,79-55,79,55
+0022100604,2022-01-09,GSW,CLE,33.7,3,2,18,CLE,CLE,ft_miss,11,False,False,,MISS Mobley Free Throw 1 of 2,79-55,79,55
+0022100604,2022-01-09,GSW,CLE,33.7,3,2,18,CLE,GSW,foul,2,False,False,Payton II S.FOUL (P3.PN) (B.Adams),,79-55,79,55
+0022100604,2022-01-09,GSW,CLE,33.87,3,2,8,GSW,CLE,steal,1,False,True,steal,steal,79-56,79,56
+0022100604,2022-01-09,GSW,CLE,33.87,3,2,8,GSW,GSW,tov,1,False,True,Iguodala Bad Pass Turnover (P2.T10),,79-56,79,56
+0022100604,2022-01-09,GSW,CLE,33.98,3,2,1,CLE,CLE,fg_miss,6,False,False,,MISS Stevens 6' Driving Layup,79-56,79,56
+0022100604,2022-01-09,GSW,CLE,34.03,3,1,58,GSW,GSW,reb,0,False,False,Bjelica REBOUND (Off:0 Def:3),,79-56,79,56
+0022100604,2022-01-09,GSW,CLE,34.07,3,1,56,GSW,GSW,fg_miss,50,False,False,MISS Iguodala 6' Running Dunk,,79-56,79,56
+0022100604,2022-01-09,GSW,CLE,34.12,3,1,53,GSW,GSW,reb,0,False,False,Porter Jr. REBOUND (Off:5 Def:2),,79-56,79,56
+0022100604,2022-01-09,GSW,CLE,34.18,3,1,49,GSW,GSW,fg3_miss,1,False,False,MISS Bjelica 30' 3PT Jump Shot,,79-56,79,56
+0022100604,2022-01-09,GSW,CLE,34.23,3,1,46,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:0 Def:3),79-56,79,56
+0022100604,2022-01-09,GSW,CLE,34.35,3,1,39,CLE,CLE,fg_make,52,False,False,,Mobley 3' Alley Oop Dunk (11 PTS) (Garland 4 AST),79-58,79,58
+0022100604,2022-01-09,GSW,CLE,34.8,3,1,12,GSW,GSW,tov,11,False,False,WARRIORS Turnover: Shot Clock (T#11),,79-58,79,58
+0022100604,2022-01-09,GSW,CLE,35.15,3,0,51,CLE,CLE,fg_miss,47,False,False,,MISS Stevens 12' Turnaround Jump Shot,79-58,79,58
+0022100604,2022-01-09,GSW,CLE,35.18,3,0,49,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:2 Def:3),79-58,79,58
+0022100604,2022-01-09,GSW,CLE,35.18,3,0,49,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,79-58,79,58
+0022100604,2022-01-09,GSW,CLE,35.18,3,0,49,CLE,CLE,fg_miss,97,False,False,,MISS Mobley Tip Layup Shot,79-58,79,58
+0022100604,2022-01-09,GSW,CLE,35.45,3,0,33,GSW,GSW,fg3_miss,1,False,False,MISS Bjelica 28' 3PT Jump Shot,,79-58,79,58
+0022100604,2022-01-09,GSW,CLE,35.47,3,0,32,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:0 Def:4),79-58,79,58
+0022100604,2022-01-09,GSW,CLE,35.63,3,0,22,CLE,CLE,fg_make,75,False,False,,Markkanen 3' Driving Finger Roll Layup (7 PTS) (Windler 1 AST),79-60,79,60
+0022100604,2022-01-09,GSW,CLE,35.98,3,0,1,GSW,GSW,tov,1,False,True,Bjelica Bad Pass Turnover (P1.T12),,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,35.98,3,0,1,GSW,CLE,steal,1,False,True,steal,steal,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,35.98,3,0,1,CLE,CLE,fg3_miss,79,False,False,,MISS Mobley 69' 3PT Pullup Jump Shot,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,36.0,3,0,0,CLE,,period_end,0,False,False,,,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,36.0,3,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,36.0,4,12,0,CLE,,period_start,0,False,False,,,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,36.4,4,11,36,CLE,CLE,fg_miss,47,False,False,,MISS Mobley 10' Turnaround Jump Shot,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,36.45,4,11,33,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:1 Def:2),,79-60,79,60
+0022100604,2022-01-09,GSW,CLE,36.77,4,11,14,GSW,GSW,fg_make,101,False,False,Porter Jr. 11' Driving Floating Jump Shot (6 PTS) (Curry 5 AST),,81-60,81,60
+0022100604,2022-01-09,GSW,CLE,37.07,4,10,56,CLE,CLE,fg3_miss,1,False,False,,MISS Windler 27' 3PT Jump Shot,81-60,81,60
+0022100604,2022-01-09,GSW,CLE,37.1,4,10,54,GSW,GSW,reb,0,False,False,Payton II REBOUND (Off:2 Def:3),,81-60,81,60
+0022100604,2022-01-09,GSW,CLE,37.17,4,10,50,GSW,GSW,fg3_miss,79,False,False,MISS Curry 30' 3PT Pullup Jump Shot,,81-60,81,60
+0022100604,2022-01-09,GSW,CLE,37.2,4,10,48,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:4),81-60,81,60
+0022100604,2022-01-09,GSW,CLE,37.35,4,10,39,CLE,CLE,fg_miss,1,False,False,,MISS Mobley 22' Jump Shot,81-60,81,60
+0022100604,2022-01-09,GSW,CLE,37.38,4,10,37,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:1 Def:4),81-60,81,60
+0022100604,2022-01-09,GSW,CLE,37.42,4,10,35,CLE,CLE,fg3_make,1,False,False,,Rondo 28' 3PT Jump Shot (5 PTS) (Windler 2 AST),81-63,81,63
+0022100604,2022-01-09,GSW,CLE,37.78,4,10,13,GSW,GSW,fg_make,80,False,False,Iguodala 18' Step Back Jump Shot (4 PTS),,83-63,83,63
+0022100604,2022-01-09,GSW,CLE,38.2,4,9,48,CLE,GSW,foul,3,False,False,Bjelica L.B.FOUL (P1.T1) (S.Wright),,83-63,83,63
+0022100604,2022-01-09,GSW,CLE,38.35,4,9,39,CLE,CLE,ft_make,11,False,False,,Markkanen Free Throw 1 of 2 (8 PTS),83-64,83,64
+0022100604,2022-01-09,GSW,CLE,38.35,4,9,39,CLE,GSW,foul,2,False,False,Curry S.FOUL (P2.T2) (B.Schwab),,83-63,83,63
+0022100604,2022-01-09,GSW,CLE,38.35,4,9,39,CLE,CLE,ft_make,12,False,False,,Markkanen Free Throw 2 of 2 (9 PTS),83-65,83,65
+0022100604,2022-01-09,GSW,CLE,38.5,4,9,30,GSW,GSW,fg_miss,79,False,False,MISS Curry 19' Pullup Jump Shot,,83-65,83,65
+0022100604,2022-01-09,GSW,CLE,38.53,4,9,28,CLE,CLE,reb,0,False,False,,Stevens REBOUND (Off:0 Def:3),83-65,83,65
+0022100604,2022-01-09,GSW,CLE,38.63,4,9,22,CLE,CLE,fg3_miss,79,False,False,,MISS Windler 29' 3PT Pullup Jump Shot,83-65,83,65
+0022100604,2022-01-09,GSW,CLE,38.67,4,9,20,GSW,GSW,reb,0,False,False,Thompson REBOUND (Off:0 Def:1),,83-65,83,65
+0022100604,2022-01-09,GSW,CLE,39.05,4,8,57,GSW,GSW,fg_miss,79,False,False,MISS Porter Jr. 18' Pullup Jump Shot,,83-65,83,65
+0022100604,2022-01-09,GSW,CLE,39.08,4,8,55,CLE,CLE,reb,0,False,False,,Rondo REBOUND (Off:0 Def:1),83-65,83,65
+0022100604,2022-01-09,GSW,CLE,39.33,4,8,40,CLE,CLE,fg_make,75,False,False,,Rondo 4' Driving Finger Roll Layup (7 PTS),83-67,83,67
+0022100604,2022-01-09,GSW,CLE,39.6,4,8,24,GSW,CLE,foul,1,False,False,,Rondo P.FOUL (P1.T1) (B.Schwab),83-67,83,67
+0022100604,2022-01-09,GSW,CLE,39.6,4,8,24,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,83-67,83,67
+0022100604,2022-01-09,GSW,CLE,39.8,4,8,12,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 24' 3PT Jump Shot,,83-67,83,67
+0022100604,2022-01-09,GSW,CLE,39.85,4,8,9,GSW,GSW,reb,0,False,False,Payton II REBOUND (Off:3 Def:3),,83-67,83,67
+0022100604,2022-01-09,GSW,CLE,39.93,4,8,4,GSW,GSW,fg_miss,47,False,False,MISS Thompson 11' Turnaround Jump Shot,,83-67,83,67
+0022100604,2022-01-09,GSW,CLE,39.98,4,8,1,CLE,CLE,reb,0,False,False,,Rondo REBOUND (Off:0 Def:2),83-67,83,67
+0022100604,2022-01-09,GSW,CLE,40.03,4,7,58,CLE,GSW,foul,1,False,False,Payton II P.FOUL (P4.T3) (B.Schwab),,83-67,83,67
+0022100604,2022-01-09,GSW,CLE,40.13,4,7,52,CLE,CLE,fg3_make,1,False,False,,Rondo 28' 3PT Jump Shot (10 PTS) (Markkanen 2 AST),83-70,83,70
+0022100604,2022-01-09,GSW,CLE,40.52,4,7,29,GSW,GSW,fg_make,6,False,False,Wiggins 4' Driving Layup (8 PTS),,85-70,85,70
+0022100604,2022-01-09,GSW,CLE,40.92,4,7,5,CLE,CLE,fg_miss,47,True,False,,MISS Markkanen 12' Turnaround Jump Shot,85-70,85,70
+0022100604,2022-01-09,GSW,CLE,40.92,4,7,5,CLE,GSW,block,47,True,False,block,block,85-70,85,70
+0022100604,2022-01-09,GSW,CLE,40.97,4,7,2,GSW,GSW,reb,0,False,False,Thompson REBOUND (Off:0 Def:2),,85-70,85,70
+0022100604,2022-01-09,GSW,CLE,41.2,4,6,48,GSW,GSW,fg_miss,80,False,False,MISS Iguodala 11' Step Back Jump Shot,,85-70,85,70
+0022100604,2022-01-09,GSW,CLE,41.25,4,6,45,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:5),85-70,85,70
+0022100604,2022-01-09,GSW,CLE,41.55,4,6,27,CLE,CLE,fg_make,6,False,False,,Stevens 2' Driving Layup (15 PTS),85-72,85,72
+0022100604,2022-01-09,GSW,CLE,41.8,4,6,12,GSW,GSW,fg3_miss,79,False,False,MISS Curry 27' 3PT Pullup Jump Shot,,85-72,85,72
+0022100604,2022-01-09,GSW,CLE,41.83,4,6,10,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:2 Def:4),85-72,85,72
+0022100604,2022-01-09,GSW,CLE,42.07,4,5,56,CLE,GSW,foul,1,False,False,Curry P.FOUL (P3.T4) (S.Wright),,85-72,85,72
+0022100604,2022-01-09,GSW,CLE,42.22,4,5,47,CLE,CLE,fg3_make,80,False,False,,Rondo 27' 3PT Step Back Jump Shot (13 PTS),85-75,85,75
+0022100604,2022-01-09,GSW,CLE,42.25,4,5,45,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 5 Short 0),,85-75,85,75
+0022100604,2022-01-09,GSW,CLE,42.43,4,5,34,GSW,GSW,fg_miss,79,False,False,MISS Thompson 14' Pullup Jump Shot,,85-75,85,75
+0022100604,2022-01-09,GSW,CLE,42.47,4,5,32,CLE,CLE,reb,0,False,False,,Stevens REBOUND (Off:0 Def:4),85-75,85,75
+0022100604,2022-01-09,GSW,CLE,42.77,4,5,14,CLE,CLE,fg_miss,6,False,False,,MISS Rondo 6' Driving Layup,85-75,85,75
+0022100604,2022-01-09,GSW,CLE,42.8,4,5,12,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:2),,85-75,85,75
+0022100604,2022-01-09,GSW,CLE,43.17,4,4,50,GSW,GSW,fg_make,102,False,False,Looney 7' Driving Floating Bank Jump Shot (6 PTS) (Thompson 1 AST),,87-75,87,75
+0022100604,2022-01-09,GSW,CLE,43.57,4,4,26,CLE,CLE,fg_make,6,False,False,,Rondo 4' Driving Layup (15 PTS) (Allen 1 AST),87-77,87,77
+0022100604,2022-01-09,GSW,CLE,43.67,4,4,20,GSW,GSW,fg_miss,6,True,False,MISS Poole 5' Driving Layup,,87-77,87,77
+0022100604,2022-01-09,GSW,CLE,43.67,4,4,20,GSW,CLE,block,6,True,False,block,block,87-77,87,77
+0022100604,2022-01-09,GSW,CLE,43.68,4,4,19,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,87-77,87,77
+0022100604,2022-01-09,GSW,CLE,43.9,4,4,6,GSW,GSW,fg3_miss,1,False,False,MISS Poole 24' 3PT Jump Shot,,87-77,87,77
+0022100604,2022-01-09,GSW,CLE,43.95,4,4,3,CLE,CLE,reb,0,False,False,,Rondo REBOUND (Off:0 Def:3),87-77,87,77
+0022100604,2022-01-09,GSW,CLE,44.07,4,3,56,CLE,GSW,block,5,True,False,block,block,87-77,87,77
+0022100604,2022-01-09,GSW,CLE,44.07,4,3,56,CLE,CLE,fg_miss,5,True,False,,MISS Allen 4' Layup,87-77,87,77
+0022100604,2022-01-09,GSW,CLE,44.13,4,3,52,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:0 Def:2),,87-77,87,77
+0022100604,2022-01-09,GSW,CLE,44.25,4,3,45,GSW,GSW,fg3_make,80,False,False,Thompson 26' 3PT Step Back Jump Shot (17 PTS),,90-77,90,77
+0022100604,2022-01-09,GSW,CLE,44.6,4,3,24,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P3.T17),90-77,90,77
+0022100604,2022-01-09,GSW,CLE,44.6,4,3,24,CLE,GSW,steal,1,False,True,steal,steal,90-77,90,77
+0022100604,2022-01-09,GSW,CLE,44.7,4,3,18,GSW,GSW,tov,1,False,True,Poole Bad Pass Turnover (P1.T13),,90-77,90,77
+0022100604,2022-01-09,GSW,CLE,44.7,4,3,18,GSW,CLE,steal,1,False,True,steal,steal,90-77,90,77
+0022100604,2022-01-09,GSW,CLE,44.75,4,3,15,CLE,CLE,fg3_miss,1,False,False,,MISS Garland 28' 3PT Jump Shot,90-77,90,77
+0022100604,2022-01-09,GSW,CLE,44.78,4,3,13,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:4),90-77,90,77
+0022100604,2022-01-09,GSW,CLE,44.85,4,3,9,CLE,CLE,fg_make,87,False,False,,Allen Putback Dunk (11 PTS),90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.2,4,2,48,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 24' 3PT Jump Shot,,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.23,4,2,46,GSW,GSW,reb,0,False,False,Thompson REBOUND (Off:1 Def:2),,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.28,4,2,43,GSW,GSW,fg_miss,1,False,False,MISS Thompson 20' Jump Shot,,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.3,4,2,42,GSW,GSW,tov,40,False,False,Looney Out of Bounds Lost Ball Turnover (P3.T14),,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.3,4,2,42,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:9 Def:8),,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.58,4,2,25,CLE,CLE,fg3_miss,1,False,False,,MISS Garland 30' 3PT Jump Shot,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.6,4,2,24,CLE,CLE,ft_make,11,False,False,,Allen Free Throw 1 of 2 (12 PTS),90-80,90,80
+0022100604,2022-01-09,GSW,CLE,45.6,4,2,24,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.6,4,2,24,CLE,CLE,ft_miss,12,False,False,,MISS Allen Free Throw 2 of 2,90-80,90,80
+0022100604,2022-01-09,GSW,CLE,45.6,4,2,24,CLE,GSW,foul,3,False,False,Looney L.B.FOUL (P3.PN) (B.Adams),,90-79,90,79
+0022100604,2022-01-09,GSW,CLE,45.63,4,2,22,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:9 Def:9),,90-80,90,80
+0022100604,2022-01-09,GSW,CLE,45.75,4,2,15,GSW,CLE,foul,1,False,False,,Mobley P.FOUL (P3.T2) (B.Schwab),90-80,90,80
+0022100604,2022-01-09,GSW,CLE,45.87,4,2,8,GSW,GSW,ft_make,11,False,False,Wiggins Free Throw 1 of 2 (9 PTS),,91-80,91,80
+0022100604,2022-01-09,GSW,CLE,45.87,4,2,8,GSW,CLE,foul,2,False,False,,Stevens S.FOUL (P2.T3) (S.Wright),90-80,90,80
+0022100604,2022-01-09,GSW,CLE,45.87,4,2,8,GSW,GSW,ft_make,12,False,False,Wiggins Free Throw 2 of 2 (10 PTS),,92-80,92,80
+0022100604,2022-01-09,GSW,CLE,46.12,4,1,53,CLE,GSW,steal,1,False,True,steal,steal,92-80,92,80
+0022100604,2022-01-09,GSW,CLE,46.12,4,1,53,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P4.T18),92-80,92,80
+0022100604,2022-01-09,GSW,CLE,46.32,4,1,41,GSW,GSW,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,92-80,92,80
+0022100604,2022-01-09,GSW,CLE,46.35,4,1,39,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:5),92-80,92,80
+0022100604,2022-01-09,GSW,CLE,46.45,4,1,33,CLE,CLE,fg_make,6,False,False,,Stevens 4' Driving Layup (17 PTS) (Rondo 5 AST),92-82,92,82
+0022100604,2022-01-09,GSW,CLE,46.68,4,1,19,GSW,CLE,foul,1,False,False,,Garland P.FOUL (P2.T4) (B.Adams),92-82,92,82
+0022100604,2022-01-09,GSW,CLE,46.88,4,1,7,GSW,GSW,tov,4,False,False,Curry Traveling Turnover (P5.T15),,92-82,92,82
+0022100604,2022-01-09,GSW,CLE,47.1,4,0,54,CLE,CLE,fg_miss,6,True,False,,MISS Garland 6' Driving Layup,92-82,92,82
+0022100604,2022-01-09,GSW,CLE,47.1,4,0,54,CLE,GSW,block,6,True,False,block,block,92-82,92,82
+0022100604,2022-01-09,GSW,CLE,47.13,4,0,52,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:1 Def:3),,92-82,92,82
+0022100604,2022-01-09,GSW,CLE,47.18,4,0,49,GSW,GSW,fg_make,41,False,False,Poole 3' Running Layup (14 PTS) (Iguodala 5 AST),,94-82,94,82
+0022100604,2022-01-09,GSW,CLE,47.48,4,0,31,CLE,CLE,tov,1,False,True,,Stevens Bad Pass Turnover (P2.T19),94-82,94,82
+0022100604,2022-01-09,GSW,CLE,47.48,4,0,31,CLE,GSW,steal,1,False,True,steal,steal,94-82,94,82
+0022100604,2022-01-09,GSW,CLE,47.77,4,0,14,GSW,GSW,fg_make,80,False,False,Curry 19' Step Back Jump Shot (28 PTS),,96-82,96,82
+0022100604,2022-01-09,GSW,CLE,48.0,4,0,0,GSW,,period_end,0,False,False,,,96-82,96,82

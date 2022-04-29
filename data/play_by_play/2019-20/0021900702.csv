@@ -1,0 +1,433 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900702,2020-01-28,PHI,GSW,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900702,2020-01-28,PHI,GSW,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Chriss: Tip to Simmons,,0-0,0,0
+0021900702,2020-01-28,PHI,GSW,0.18,1,11,49,PHI,PHI,tov,10,False,False,76ERS Turnover: 8 Second Violation (T#1),,0-0,0,0
+0021900702,2020-01-28,PHI,GSW,0.55,1,11,27,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#1),0-0,0,0
+0021900702,2020-01-28,PHI,GSW,0.98,1,11,1,PHI,PHI,fg_make,63,False,False,Milton 9' Fadeaway Jumper (2 PTS),,2-0,2,0
+0021900702,2020-01-28,PHI,GSW,1.17,1,10,50,GSW,GSW,fg_make,52,False,False,,Robinson III Alley Oop Dunk (2 PTS) (Green 1 AST),2-2,2,2
+0021900702,2020-01-28,PHI,GSW,1.62,1,10,23,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,2-2,2,2
+0021900702,2020-01-28,PHI,GSW,1.65,1,10,21,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:1),2-2,2,2
+0021900702,2020-01-28,PHI,GSW,1.77,1,10,14,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 24' 3PT Jump Shot,2-2,2,2
+0021900702,2020-01-28,PHI,GSW,1.8,1,10,12,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:1),,2-2,2,2
+0021900702,2020-01-28,PHI,GSW,1.9,1,10,6,PHI,PHI,fg_make,41,False,False,Harris 2' Running Layup (2 PTS),,4-2,4,2
+0021900702,2020-01-28,PHI,GSW,2.05,1,9,57,GSW,GSW,fg_make,44,False,False,,Robinson III 1' Reverse Layup (4 PTS) (Russell 1 AST),4-4,4,4
+0021900702,2020-01-28,PHI,GSW,2.33,1,9,40,PHI,PHI,fg_make,86,False,False,Harris 11' Turnaround Fadeaway (4 PTS),,6-4,6,4
+0021900702,2020-01-28,PHI,GSW,2.57,1,9,26,GSW,GSW,fg3_make,1,False,False,,Green 26' 3PT Jump Shot (3 PTS) (Lee 1 AST),6-7,6,7
+0021900702,2020-01-28,PHI,GSW,3.02,1,8,59,PHI,PHI,fg_make,1,False,False,Embiid 6' Jump Shot (2 PTS),,8-7,8,7
+0021900702,2020-01-28,PHI,GSW,3.27,1,8,44,GSW,GSW,fg_miss,79,False,False,,MISS Russell 6' Pullup Jump Shot,8-7,8,7
+0021900702,2020-01-28,PHI,GSW,3.3,1,8,42,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:1),,8-7,8,7
+0021900702,2020-01-28,PHI,GSW,3.37,1,8,38,PHI,GSW,foul,2,False,False,,Green S.FOUL (P1.T1) (S.Foster),8-7,8,7
+0021900702,2020-01-28,PHI,GSW,3.37,1,8,38,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (1 PTS),,9-7,9,7
+0021900702,2020-01-28,PHI,GSW,3.37,1,8,38,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (2 PTS),,10-7,10,7
+0021900702,2020-01-28,PHI,GSW,3.5,1,8,30,GSW,GSW,tov,45,False,False,,Russell Out of Bounds - Bad Pass Turnover Turnover (P1.T2),10-7,10,7
+0021900702,2020-01-28,PHI,GSW,3.73,1,8,16,PHI,PHI,fg_make,71,False,False,Embiid 2' Finger Roll Layup (4 PTS) (Harris 1 AST),,12-7,12,7
+0021900702,2020-01-28,PHI,GSW,3.73,1,8,16,PHI,GSW,violation,2,False,False,,Chriss Violation:Defensive Goaltending (M.Lindsay),12-7,12,7
+0021900702,2020-01-28,PHI,GSW,3.77,1,8,14,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.1 Short 0),12-7,12,7
+0021900702,2020-01-28,PHI,GSW,3.9,1,8,6,GSW,GSW,fg3_miss,1,False,False,,MISS Robinson III 25' 3PT Jump Shot,12-7,12,7
+0021900702,2020-01-28,PHI,GSW,3.95,1,8,3,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:2),,12-7,12,7
+0021900702,2020-01-28,PHI,GSW,4.13,1,7,52,PHI,PHI,fg_miss,58,False,False,MISS Simmons 6' Turnaround Hook Shot,,12-7,12,7
+0021900702,2020-01-28,PHI,GSW,4.18,1,7,49,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:2),12-7,12,7
+0021900702,2020-01-28,PHI,GSW,4.27,1,7,44,GSW,GSW,fg_miss,78,False,False,,MISS Lee 7' Floating Jump Shot,12-7,12,7
+0021900702,2020-01-28,PHI,GSW,4.32,1,7,41,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:1 Def:0),12-7,12,7
+0021900702,2020-01-28,PHI,GSW,4.33,1,7,40,GSW,GSW,fg3_make,1,False,False,,Russell 24' 3PT Jump Shot (3 PTS) (Robinson III 1 AST),12-10,12,10
+0021900702,2020-01-28,PHI,GSW,4.72,1,7,17,PHI,PHI,fg_make,5,False,False,Embiid 3' Layup (6 PTS) (Horford 1 AST),,14-10,14,10
+0021900702,2020-01-28,PHI,GSW,4.85,1,7,9,GSW,GSW,fg_make,50,False,False,,Chriss 1' Running Dunk (2 PTS) (Green 2 AST),14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.07,1,6,56,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 24' 3PT Jump Shot,,14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.1,1,6,54,GSW,GSW,reb,0,False,False,,Warriors Rebound,14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.28,1,6,43,GSW,GSW,tov,40,False,False,,Russell Out of Bounds Lost Ball Turnover (P2.T3),14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.5,1,6,30,PHI,PHI,fg_miss,6,True,False,MISS Simmons 4' Driving Layup,,14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.5,1,6,30,PHI,GSW,block,6,True,False,block,block,14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.53,1,6,28,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:1 Def:1),14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.62,1,6,23,GSW,GSW,fg_miss,79,False,False,,MISS Lee 9' Pullup Jump Shot,14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.68,1,6,19,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:3),,14-12,14,12
+0021900702,2020-01-28,PHI,GSW,5.85,1,6,9,PHI,PHI,fg_make,108,False,False,Korkmaz 1' Cutting Dunk Shot (2 PTS) (Horford 2 AST),,16-12,16,12
+0021900702,2020-01-28,PHI,GSW,6.03,1,5,58,GSW,GSW,fg_make,108,False,False,,Chriss 1' Cutting Dunk Shot (4 PTS) (Green 3 AST),16-14,16,14
+0021900702,2020-01-28,PHI,GSW,6.03,1,5,58,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,16-14,16,14
+0021900702,2020-01-28,PHI,GSW,6.27,1,5,44,PHI,PHI,fg3_miss,1,False,False,MISS Horford 25' 3PT Jump Shot,,16-14,16,14
+0021900702,2020-01-28,PHI,GSW,6.32,1,5,41,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:3),16-14,16,14
+0021900702,2020-01-28,PHI,GSW,6.62,1,5,23,GSW,GSW,fg3_make,1,False,False,,Russell 24' 3PT Jump Shot (6 PTS) (Robinson III 2 AST),16-17,16,17
+0021900702,2020-01-28,PHI,GSW,6.88,1,5,7,PHI,PHI,tov,4,False,False,Harris Traveling Turnover (P1.T2),,16-17,16,17
+0021900702,2020-01-28,PHI,GSW,7.05,1,4,57,GSW,GSW,fg3_miss,1,False,False,,MISS Russell 25' 3PT Jump Shot,16-17,16,17
+0021900702,2020-01-28,PHI,GSW,7.15,1,4,51,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:1 Def:0),16-17,16,17
+0021900702,2020-01-28,PHI,GSW,7.15,1,4,51,GSW,GSW,fg_make,97,False,False,,Lee 1' Tip Layup Shot (2 PTS),16-19,16,19
+0021900702,2020-01-28,PHI,GSW,7.42,1,4,35,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 24' 3PT Jump Shot,,16-19,16,19
+0021900702,2020-01-28,PHI,GSW,7.45,1,4,33,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:4),16-19,16,19
+0021900702,2020-01-28,PHI,GSW,7.53,1,4,28,GSW,GSW,fg_make,106,False,False,,Chriss Running Alley Oop Dunk Shot (6 PTS) (Robinson III 3 AST),16-21,16,21
+0021900702,2020-01-28,PHI,GSW,7.8,1,4,12,PHI,PHI,fg3_make,79,False,False,Harris 25' 3PT Pullup Jump Shot (7 PTS),,19-21,19,21
+0021900702,2020-01-28,PHI,GSW,8.05,1,3,57,GSW,PHI,foul,2,False,False,Harris S.FOUL (P1.T1) (D.Richardson),,19-21,19,21
+0021900702,2020-01-28,PHI,GSW,8.05,1,3,57,GSW,GSW,ft_make,11,False,False,,Chriss Free Throw 1 of 2 (7 PTS),19-22,19,22
+0021900702,2020-01-28,PHI,GSW,8.05,1,3,57,GSW,GSW,ft_make,12,False,False,,Chriss Free Throw 2 of 2 (8 PTS),19-23,19,23
+0021900702,2020-01-28,PHI,GSW,8.43,1,3,34,PHI,PHI,fg3_miss,80,False,False,MISS Thybulle 26' 3PT Step Back Jump Shot,,19-23,19,23
+0021900702,2020-01-28,PHI,GSW,8.48,1,3,31,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:0 Def:1),19-23,19,23
+0021900702,2020-01-28,PHI,GSW,8.57,1,3,26,GSW,GSW,fg_make,50,False,False,,Robinson III 1' Running Dunk (6 PTS),19-25,19,25
+0021900702,2020-01-28,PHI,GSW,8.57,1,3,26,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,19-25,19,25
+0021900702,2020-01-28,PHI,GSW,8.82,1,3,11,PHI,PHI,tov,45,False,False,Embiid Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,19-25,19,25
+0021900702,2020-01-28,PHI,GSW,9.07,1,2,56,PHI,GSW,foul,4,False,False,,Paschall OFF.Foul (P1) (S.Foster),19-25,19,25
+0021900702,2020-01-28,PHI,GSW,9.07,1,2,56,GSW,GSW,tov,37,False,False,,Paschall Offensive Foul Turnover (P1.T4),19-25,19,25
+0021900702,2020-01-28,PHI,GSW,9.33,1,2,40,PHI,PHI,fg_miss,101,False,False,MISS Scott 3' Driving Floating Jump Shot,,19-25,19,25
+0021900702,2020-01-28,PHI,GSW,9.37,1,2,38,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:5),19-25,19,25
+0021900702,2020-01-28,PHI,GSW,9.43,1,2,34,GSW,GSW,fg_make,103,False,False,,Paschall 13' Running Pull-Up Jump Shot (2 PTS),19-27,19,27
+0021900702,2020-01-28,PHI,GSW,9.78,1,2,13,PHI,PHI,fg_miss,63,False,False,MISS Smith 11' Fadeaway Jumper,,19-27,19,27
+0021900702,2020-01-28,PHI,GSW,9.82,1,2,11,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:6),19-27,19,27
+0021900702,2020-01-28,PHI,GSW,9.85,1,2,9,GSW,GSW,fg_miss,41,True,False,,MISS Paschall 3' Running Layup,19-27,19,27
+0021900702,2020-01-28,PHI,GSW,9.85,1,2,9,GSW,PHI,block,41,True,False,block,block,19-27,19,27
+0021900702,2020-01-28,PHI,GSW,9.87,1,2,8,PHI,PHI,reb,0,False,False,76ERS Rebound,,19-27,19,27
+0021900702,2020-01-28,PHI,GSW,9.97,1,2,2,,PHI,jump_ball,0,False,False,Jump Ball Korkmaz vs. Paschall: Tip to Neto,,19-27,19,27
+0021900702,2020-01-28,PHI,GSW,9.98,1,2,1,PHI,GSW,foul,1,False,False,,Evans P.FOUL (P1.T2) (D.Richardson),19-27,19,27
+0021900702,2020-01-28,PHI,GSW,10.2,1,1,48,PHI,PHI,fg_make,105,False,False,Embiid 6' Turnaround Fadeaway Bank Jump Shot (8 PTS),,21-27,21,27
+0021900702,2020-01-28,PHI,GSW,10.2,1,1,48,PHI,GSW,foul,2,False,False,,Spellman S.FOUL (P1.T3) (S.Foster),21-27,21,27
+0021900702,2020-01-28,PHI,GSW,10.2,1,1,48,PHI,PHI,ft_make,10,False,False,Embiid Free Throw 1 of 1 (9 PTS),,22-27,22,27
+0021900702,2020-01-28,PHI,GSW,10.45,1,1,33,GSW,GSW,fg_miss,1,False,False,,MISS Paschall 20' Jump Shot,22-27,22,27
+0021900702,2020-01-28,PHI,GSW,10.53,1,1,28,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:0 Def:1),,22-27,22,27
+0021900702,2020-01-28,PHI,GSW,10.68,1,1,19,PHI,PHI,fg_make,75,False,False,Neto 2' Driving Finger Roll Layup (2 PTS) (Scott 1 AST),,24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.03,1,0,58,GSW,GSW,fg_miss,47,False,False,,MISS Burks 7' Turnaround Jump Shot,24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.07,1,0,56,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:2),,24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.18,1,0,49,PHI,PHI,tov,1,False,True,Embiid Bad Pass Turnover (P2.T4),,24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.18,1,0,49,PHI,GSW,steal,1,False,True,steal,steal,24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.37,1,0,38,GSW,GSW,fg_miss,101,False,False,,MISS Burks 6' Driving Floating Jump Shot,24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.4,1,0,36,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:3),,24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.48,1,0,31,PHI,GSW,foul,2,False,False,,Evans S.FOUL (P2.PN) (S.Foster),24-27,24,27
+0021900702,2020-01-28,PHI,GSW,11.48,1,0,31,PHI,PHI,ft_make,11,False,False,Neto Free Throw 1 of 2 (3 PTS),,25-27,25,27
+0021900702,2020-01-28,PHI,GSW,11.48,1,0,31,PHI,PHI,ft_make,12,False,False,Neto Free Throw 2 of 2 (4 PTS),,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,11.83,1,0,10,GSW,GSW,fg3_miss,1,False,False,,MISS Paschall 3PT Jump Shot,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,11.87,1,0,8,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:0),26-27,26,27
+0021900702,2020-01-28,PHI,GSW,11.9,1,0,6,GSW,GSW,tov,2,False,True,,Paschall Lost Ball Turnover (P2.T5),26-27,26,27
+0021900702,2020-01-28,PHI,GSW,11.9,1,0,6,GSW,PHI,steal,2,False,True,steal,steal,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,11.98,1,0,1,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 27' 3PT Jump Shot,,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,11.98,1,0,1,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:0 Def:1),26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.0,1,0,0,GSW,,period_end,0,False,False,,,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.0,2,12,0,GSW,,period_start,0,False,False,,,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.27,2,11,44,GSW,PHI,violation,5,False,False,Embiid Violation:Kicked Ball (S.Foster),,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.42,2,11,35,GSW,GSW,fg_miss,44,True,False,,MISS Spellman 2' Reverse Layup,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.42,2,11,35,GSW,PHI,block,44,True,False,block,block,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.45,2,11,33,PHI,PHI,reb,0,False,False,76ERS Rebound,,26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.63,2,11,22,PHI,GSW,foul,1,False,False,,Paschall P.FOUL (P2.T1) (S.Foster),26-27,26,27
+0021900702,2020-01-28,PHI,GSW,12.87,2,11,8,PHI,PHI,fg_make,9,False,False,Smith 2' Driving Dunk (2 PTS) (Harris 2 AST),,28-27,28,27
+0021900702,2020-01-28,PHI,GSW,12.87,2,11,8,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.03,2,10,58,PHI,GSW,foul,4,False,False,,Paschall OFF.Foul (P3) (S.Foster),28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.03,2,10,58,GSW,GSW,tov,37,False,False,,Paschall Offensive Foul Turnover (P3.T6),28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.22,2,10,47,PHI,PHI,fg3_miss,1,False,False,MISS Smith 26' 3PT Jump Shot,,28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.25,2,10,45,PHI,PHI,reb,0,False,False,76ERS Rebound,,28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.25,2,10,45,GSW,PHI,foul,4,False,False,Embiid OFF.Foul (P1) (S.Foster),,28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.25,2,10,45,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P3.T5),,28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.48,2,10,31,GSW,GSW,fg_miss,1,False,False,,MISS Russell 16' Jump Shot,28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.53,2,10,28,PHI,PHI,reb,0,False,False,Neto REBOUND (Off:0 Def:1),,28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.58,2,10,25,PHI,GSW,foul,2,False,False,,Chriss S.FOUL (P1.T2) (D.Richardson),28-27,28,27
+0021900702,2020-01-28,PHI,GSW,13.58,2,10,25,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (8 PTS),,29-27,29,27
+0021900702,2020-01-28,PHI,GSW,13.58,2,10,25,PHI,PHI,ft_miss,12,False,False,MISS Harris Free Throw 2 of 2,,29-27,29,27
+0021900702,2020-01-28,PHI,GSW,13.63,2,10,22,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:0 Def:2),29-27,29,27
+0021900702,2020-01-28,PHI,GSW,13.9,2,10,6,GSW,GSW,fg3_make,1,False,False,,Spellman 26' 3PT Jump Shot (3 PTS) (Russell 2 AST),29-30,29,30
+0021900702,2020-01-28,PHI,GSW,14.2,2,9,48,PHI,PHI,fg_make,75,False,False,Thybulle 3' Driving Finger Roll Layup (2 PTS) (Harris 3 AST),,31-30,31,30
+0021900702,2020-01-28,PHI,GSW,14.35,2,9,39,GSW,GSW,fg3_make,103,False,False,,Burks 27' 3PT Running Pull-Up Jump Shot (3 PTS),31-33,31,33
+0021900702,2020-01-28,PHI,GSW,14.6,2,9,24,PHI,PHI,fg3_miss,1,False,False,MISS Neto 24' 3PT Jump Shot,,31-33,31,33
+0021900702,2020-01-28,PHI,GSW,14.67,2,9,20,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,31-33,31,33
+0021900702,2020-01-28,PHI,GSW,14.7,2,9,18,PHI,PHI,fg3_make,1,False,False,Neto 27' 3PT Jump Shot (7 PTS) (Thybulle 1 AST),,34-33,34,33
+0021900702,2020-01-28,PHI,GSW,15.07,2,8,56,GSW,PHI,foul,2,False,False,Neto S.FOUL (P1.T1) (D.Richardson),,34-33,34,33
+0021900702,2020-01-28,PHI,GSW,15.07,2,8,56,GSW,GSW,ft_miss,11,False,False,,MISS Chriss Free Throw 1 of 2,34-33,34,33
+0021900702,2020-01-28,PHI,GSW,15.07,2,8,56,GSW,GSW,reb,1,False,False,,Warriors Rebound,34-33,34,33
+0021900702,2020-01-28,PHI,GSW,15.07,2,8,56,GSW,GSW,ft_make,12,False,False,,Chriss Free Throw 2 of 2 (9 PTS),34-34,34,34
+0021900702,2020-01-28,PHI,GSW,15.3,2,8,42,PHI,PHI,fg3_make,1,False,False,Neto 26' 3PT Jump Shot (10 PTS) (Horford 3 AST),,37-34,37,34
+0021900702,2020-01-28,PHI,GSW,15.48,2,8,31,GSW,GSW,tov,45,False,False,,Burks Out of Bounds - Bad Pass Turnover Turnover (P1.T7),37-34,37,34
+0021900702,2020-01-28,PHI,GSW,15.58,2,8,25,PHI,PHI,fg_make,1,False,False,Harris 17' Jump Shot (10 PTS),,39-34,39,34
+0021900702,2020-01-28,PHI,GSW,15.88,2,8,7,GSW,GSW,fg_miss,101,False,False,,MISS Russell 10' Driving Floating Jump Shot,39-34,39,34
+0021900702,2020-01-28,PHI,GSW,15.93,2,8,4,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:1),,39-34,39,34
+0021900702,2020-01-28,PHI,GSW,16.03,2,7,58,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 27' 3PT Jump Shot,,39-34,39,34
+0021900702,2020-01-28,PHI,GSW,16.1,2,7,54,GSW,GSW,reb,0,False,False,,Spellman REBOUND (Off:0 Def:1),39-34,39,34
+0021900702,2020-01-28,PHI,GSW,16.18,2,7,49,GSW,GSW,fg_make,63,False,False,,Russell 7' Fadeaway Jumper (8 PTS),39-36,39,36
+0021900702,2020-01-28,PHI,GSW,16.48,2,7,31,PHI,PHI,fg_make,73,False,False,Neto 1' Driving Reverse Layup (12 PTS) (Horford 4 AST),,41-36,41,36
+0021900702,2020-01-28,PHI,GSW,16.58,2,7,25,GSW,GSW,fg_make,102,False,False,,Burks 10' Driving Floating Bank Jump Shot (5 PTS) (Russell 3 AST),41-38,41,38
+0021900702,2020-01-28,PHI,GSW,16.58,2,7,25,GSW,PHI,foul,2,False,False,Thybulle S.FOUL (P1.T2) (S.Foster),,41-38,41,38
+0021900702,2020-01-28,PHI,GSW,16.58,2,7,25,GSW,GSW,ft_make,10,False,False,,Burks Free Throw 1 of 1 (6 PTS),41-39,41,39
+0021900702,2020-01-28,PHI,GSW,16.9,2,7,6,PHI,PHI,fg_miss,58,False,False,MISS Harris 5' Turnaround Hook Shot,,41-39,41,39
+0021900702,2020-01-28,PHI,GSW,16.93,2,7,4,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:0 Def:3),41-39,41,39
+0021900702,2020-01-28,PHI,GSW,17.02,2,6,59,GSW,GSW,fg3_miss,1,False,False,,MISS Russell 26' 3PT Jump Shot,41-39,41,39
+0021900702,2020-01-28,PHI,GSW,17.07,2,6,56,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:0 Def:1),,41-39,41,39
+0021900702,2020-01-28,PHI,GSW,17.17,2,6,50,PHI,PHI,fg3_make,79,False,False,Neto 25' 3PT Pullup Jump Shot (15 PTS),,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,17.28,2,6,43,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.3 Short 0),44-39,44,39
+0021900702,2020-01-28,PHI,GSW,17.53,2,6,28,GSW,GSW,fg_miss,79,True,False,,MISS Poole 14' Pullup Jump Shot,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,17.53,2,6,28,GSW,PHI,block,79,True,False,block,block,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,17.6,2,6,24,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:4),,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,17.83,2,6,10,PHI,PHI,fg_miss,63,False,False,MISS Horford 12' Fadeaway Jumper,,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,17.88,2,6,7,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:7),44-39,44,39
+0021900702,2020-01-28,PHI,GSW,17.97,2,6,2,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 24' 3PT Jump Shot,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,18.0,2,6,0,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:0 Def:2),,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,18.33,2,5,40,PHI,PHI,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,44-39,44,39
+0021900702,2020-01-28,PHI,GSW,18.42,2,5,35,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:8),44-39,44,39
+0021900702,2020-01-28,PHI,GSW,18.7,2,5,18,GSW,GSW,fg_make,6,False,False,,Spellman 2' Driving Layup (5 PTS) (Green 4 AST),44-41,44,41
+0021900702,2020-01-28,PHI,GSW,18.95,2,5,3,PHI,PHI,fg_make,75,False,False,Neto 1' Driving Finger Roll Layup (17 PTS),,46-41,46,41
+0021900702,2020-01-28,PHI,GSW,19.05,2,4,57,GSW,GSW,fg_miss,76,False,False,,MISS Lee 2' Running Finger Roll Layup,46-41,46,41
+0021900702,2020-01-28,PHI,GSW,19.08,2,4,55,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,46-41,46,41
+0021900702,2020-01-28,PHI,GSW,19.22,2,4,47,PHI,PHI,fg_make,108,False,False,Ennis III 1' Cutting Dunk Shot (2 PTS) (Neto 1 AST),,48-41,48,41
+0021900702,2020-01-28,PHI,GSW,19.42,2,4,35,GSW,GSW,fg3_make,1,False,False,,Poole 29' 3PT Jump Shot (3 PTS) (Green 5 AST),48-44,48,44
+0021900702,2020-01-28,PHI,GSW,19.83,2,4,10,PHI,PHI,fg_miss,2,False,False,MISS Ennis III 3' Running Jump Shot,,48-44,48,44
+0021900702,2020-01-28,PHI,GSW,19.87,2,4,8,GSW,GSW,reb,0,False,False,,Spellman REBOUND (Off:0 Def:2),48-44,48,44
+0021900702,2020-01-28,PHI,GSW,19.95,2,4,3,GSW,GSW,tov,2,False,True,,Robinson III Lost Ball Turnover (P1.T8),48-44,48,44
+0021900702,2020-01-28,PHI,GSW,19.95,2,4,3,GSW,PHI,steal,2,False,True,steal,steal,48-44,48,44
+0021900702,2020-01-28,PHI,GSW,20.05,2,3,57,PHI,GSW,foul,1,False,False,,Poole P.FOUL (P1.T3) (D.Richardson),48-44,48,44
+0021900702,2020-01-28,PHI,GSW,20.17,2,3,50,PHI,PHI,fg_make,79,False,False,Neto 17' Pullup Jump Shot (19 PTS),,50-44,50,44
+0021900702,2020-01-28,PHI,GSW,20.52,2,3,29,GSW,GSW,fg_make,5,False,False,,Green 2' Layup (5 PTS) (Russell 4 AST),50-46,50,46
+0021900702,2020-01-28,PHI,GSW,20.77,2,3,14,PHI,PHI,fg3_make,1,False,False,Korkmaz 3PT Jump Shot (5 PTS) (Horford 5 AST),,53-46,53,46
+0021900702,2020-01-28,PHI,GSW,21.05,2,2,57,GSW,GSW,fg_miss,75,False,False,,MISS Lee 4' Driving Finger Roll Layup,53-46,53,46
+0021900702,2020-01-28,PHI,GSW,21.08,2,2,55,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:0 Def:2),,53-46,53,46
+0021900702,2020-01-28,PHI,GSW,21.18,2,2,49,PHI,PHI,fg_make,7,False,False,Horford Dunk (2 PTS) (Thybulle 2 AST),,55-46,55,46
+0021900702,2020-01-28,PHI,GSW,21.47,2,2,32,GSW,GSW,fg_miss,1,False,False,,MISS Robinson III 12' Jump Shot,55-46,55,46
+0021900702,2020-01-28,PHI,GSW,21.5,2,2,30,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:5),,55-46,55,46
+0021900702,2020-01-28,PHI,GSW,21.57,2,2,26,GSW,PHI,foul,4,False,False,Horford OFF.Foul (P1) (D.Richardson),,55-46,55,46
+0021900702,2020-01-28,PHI,GSW,21.57,2,2,26,PHI,PHI,tov,37,False,False,Horford Offensive Foul Turnover (P1.T6),,55-46,55,46
+0021900702,2020-01-28,PHI,GSW,21.68,2,2,19,GSW,PHI,foul,2,False,False,Thybulle S.FOUL (P2.T3) (M.Lindsay),,55-46,55,46
+0021900702,2020-01-28,PHI,GSW,21.68,2,2,19,GSW,GSW,ft_make,11,False,False,,Russell Free Throw 1 of 2 (9 PTS),55-47,55,47
+0021900702,2020-01-28,PHI,GSW,21.68,2,2,19,GSW,GSW,ft_miss,12,False,False,,MISS Russell Free Throw 2 of 2,55-47,55,47
+0021900702,2020-01-28,PHI,GSW,21.72,2,2,17,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:1),,55-47,55,47
+0021900702,2020-01-28,PHI,GSW,22.02,2,1,59,PHI,GSW,foul,2,False,False,,Chriss S.FOUL (P2.T4) (M.Lindsay),55-47,55,47
+0021900702,2020-01-28,PHI,GSW,22.02,2,1,59,PHI,PHI,ft_miss,11,False,False,MISS Embiid Free Throw 1 of 2,,55-47,55,47
+0021900702,2020-01-28,PHI,GSW,22.02,2,1,59,PHI,PHI,reb,1,False,False,76ERS Rebound,,55-47,55,47
+0021900702,2020-01-28,PHI,GSW,22.02,2,1,59,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (10 PTS),,56-47,56,47
+0021900702,2020-01-28,PHI,GSW,22.18,2,1,49,GSW,GSW,fg3_make,79,False,False,,Russell 25' 3PT Pullup Jump Shot (12 PTS) (Green 6 AST),56-50,56,50
+0021900702,2020-01-28,PHI,GSW,22.58,2,1,25,PHI,PHI,fg3_miss,1,False,False,MISS Scott 3PT Jump Shot,,56-50,56,50
+0021900702,2020-01-28,PHI,GSW,22.63,2,1,22,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:0 Def:4),56-50,56,50
+0021900702,2020-01-28,PHI,GSW,22.77,2,1,14,GSW,GSW,fg_miss,5,False,False,,MISS Burks 4' Layup,56-50,56,50
+0021900702,2020-01-28,PHI,GSW,22.78,2,1,13,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:1),56-50,56,50
+0021900702,2020-01-28,PHI,GSW,22.85,2,1,9,GSW,GSW,fg_miss,97,False,False,,MISS Chriss 1' Tip Layup Shot,56-50,56,50
+0021900702,2020-01-28,PHI,GSW,22.98,2,1,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:4),,56-50,56,50
+0021900702,2020-01-28,PHI,GSW,23.03,2,0,58,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 24' 3PT Jump Shot,,56-50,56,50
+0021900702,2020-01-28,PHI,GSW,23.03,2,0,58,GSW,GSW,reb,0,False,False,,Warriors Rebound,56-50,56,50
+0021900702,2020-01-28,PHI,GSW,23.03,2,0,58,GSW,PHI,foul,3,False,False,Neto L.B.FOUL (P2.T4) (M.Lindsay),,56-50,56,50
+0021900702,2020-01-28,PHI,GSW,23.23,2,0,46,GSW,GSW,fg_make,52,False,False,,Chriss 1' Alley Oop Dunk (11 PTS) (Green 7 AST),56-52,56,52
+0021900702,2020-01-28,PHI,GSW,23.4,2,0,36,PHI,PHI,fg3_make,1,False,False,Embiid 26' 3PT Jump Shot (13 PTS) (Neto 2 AST),,59-52,59,52
+0021900702,2020-01-28,PHI,GSW,23.5,2,0,30,GSW,GSW,fg3_miss,1,False,False,,MISS Russell 26' 3PT Jump Shot,59-52,59,52
+0021900702,2020-01-28,PHI,GSW,23.5,2,0,30,PHI,PHI,reb,0,False,False,76ERS Rebound,,59-52,59,52
+0021900702,2020-01-28,PHI,GSW,23.75,2,0,15,PHI,PHI,tov,1,False,True,Embiid Bad Pass Turnover (P4.T7),,59-52,59,52
+0021900702,2020-01-28,PHI,GSW,23.75,2,0,15,PHI,GSW,steal,1,False,True,steal,steal,59-52,59,52
+0021900702,2020-01-28,PHI,GSW,24.0,2,0,0,GSW,GSW,fg_make,78,False,False,,Russell 5' Floating Jump Shot (14 PTS) (Green 8 AST),59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.0,3,12,0,GSW,,period_start,0,False,False,,,59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.2,3,11,48,GSW,GSW,fg3_miss,1,False,False,,MISS Green 24' 3PT Jump Shot,59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.25,3,11,45,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.57,3,11,26,PHI,GSW,foul,2,False,False,,Green S.FOUL (P2.T1) (D.Richardson),59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.57,3,11,26,PHI,PHI,ft_miss,11,False,False,MISS Embiid Free Throw 1 of 2,,59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.57,3,11,26,PHI,PHI,reb,1,False,False,76ERS Rebound,,59-54,59,54
+0021900702,2020-01-28,PHI,GSW,24.57,3,11,26,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (14 PTS),,60-54,60,54
+0021900702,2020-01-28,PHI,GSW,24.68,3,11,19,GSW,GSW,tov,45,False,False,,Russell Out of Bounds - Bad Pass Turnover Turnover (P3.T9),60-54,60,54
+0021900702,2020-01-28,PHI,GSW,24.92,3,11,5,PHI,PHI,fg_miss,6,True,False,MISS Embiid 11' Driving Layup,,60-54,60,54
+0021900702,2020-01-28,PHI,GSW,24.92,3,11,5,PHI,GSW,block,6,True,False,block,block,60-54,60,54
+0021900702,2020-01-28,PHI,GSW,24.97,3,11,2,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:4),,60-54,60,54
+0021900702,2020-01-28,PHI,GSW,25.0,3,11,0,PHI,PHI,fg3_miss,1,False,False,MISS Milton 26' 3PT Jump Shot,,60-54,60,54
+0021900702,2020-01-28,PHI,GSW,25.05,3,10,57,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:2),60-54,60,54
+0021900702,2020-01-28,PHI,GSW,25.23,3,10,46,GSW,GSW,fg_make,52,False,False,,Chriss 1' Alley Oop Dunk (13 PTS) (Russell 5 AST),60-56,60,56
+0021900702,2020-01-28,PHI,GSW,25.45,3,10,33,PHI,PHI,fg_make,75,False,False,Milton 1' Driving Finger Roll Layup (4 PTS) (Horford 6 AST),,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,25.65,3,10,21,GSW,GSW,fg3_miss,1,False,False,,MISS Chriss 27' 3PT Jump Shot,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,25.7,3,10,18,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:1),,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,25.75,3,10,15,PHI,PHI,tov,45,False,False,Simmons Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,25.98,3,10,1,GSW,GSW,fg_miss,79,False,False,,MISS Russell 17' Pullup Jump Shot,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,26.02,3,9,59,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:2),,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,26.08,3,9,55,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,26.13,3,9,52,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:1 Def:2),62-56,62,56
+0021900702,2020-01-28,PHI,GSW,26.3,3,9,42,GSW,PHI,foul,2,False,False,Milton S.FOUL (P1.T1) (D.Richardson),,62-56,62,56
+0021900702,2020-01-28,PHI,GSW,26.3,3,9,42,GSW,GSW,ft_make,11,False,False,,Green Free Throw 1 of 2 (6 PTS),62-57,62,57
+0021900702,2020-01-28,PHI,GSW,26.3,3,9,42,GSW,GSW,ft_make,12,False,False,,Green Free Throw 2 of 2 (7 PTS),62-58,62,58
+0021900702,2020-01-28,PHI,GSW,26.47,3,9,32,PHI,PHI,fg_miss,75,False,False,MISS Simmons 2' Driving Finger Roll Layup,,62-58,62,58
+0021900702,2020-01-28,PHI,GSW,26.52,3,9,29,GSW,GSW,reb,0,False,False,,Spellman REBOUND (Off:0 Def:3),62-58,62,58
+0021900702,2020-01-28,PHI,GSW,26.67,3,9,20,GSW,GSW,tov,45,False,False,,Spellman Out of Bounds - Bad Pass Turnover Turnover (P1.T10),62-58,62,58
+0021900702,2020-01-28,PHI,GSW,26.77,3,9,14,PHI,PHI,fg_make,52,False,False,Simmons 1' Alley Oop Dunk (4 PTS) (Milton 1 AST),,64-58,64,58
+0021900702,2020-01-28,PHI,GSW,27.15,3,8,51,GSW,GSW,fg_make,78,False,False,,Green 15' Floating Jump Shot (9 PTS) (Russell 6 AST),64-60,64,60
+0021900702,2020-01-28,PHI,GSW,27.3,3,8,42,PHI,PHI,fg_miss,93,False,False,MISS Simmons 3' Driving Bank Hook Shot,,64-60,64,60
+0021900702,2020-01-28,PHI,GSW,27.33,3,8,40,GSW,GSW,reb,0,False,False,,Spellman REBOUND (Off:0 Def:4),64-60,64,60
+0021900702,2020-01-28,PHI,GSW,27.45,3,8,33,GSW,GSW,fg3_make,1,False,False,,Robinson III 25' 3PT Jump Shot (9 PTS) (Russell 7 AST),64-63,64,63
+0021900702,2020-01-28,PHI,GSW,27.48,3,8,31,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,64-63,64,63
+0021900702,2020-01-28,PHI,GSW,27.87,3,8,8,PHI,PHI,fg_miss,47,False,False,MISS Embiid 12' Turnaround Jump Shot,,64-63,64,63
+0021900702,2020-01-28,PHI,GSW,27.92,3,8,5,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:1 Def:3),64-63,64,63
+0021900702,2020-01-28,PHI,GSW,28.28,3,7,43,GSW,GSW,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,64-63,64,63
+0021900702,2020-01-28,PHI,GSW,28.32,3,7,41,PHI,PHI,reb,0,False,False,76ERS Rebound,,64-63,64,63
+0021900702,2020-01-28,PHI,GSW,28.48,3,7,31,PHI,GSW,foul,2,False,False,,Green S.FOUL (P3.T2) (S.Foster),64-63,64,63
+0021900702,2020-01-28,PHI,GSW,28.48,3,7,31,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),64-63,64,63
+0021900702,2020-01-28,PHI,GSW,28.48,3,7,31,GSW,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (15 PTS),,65-63,65,63
+0021900702,2020-01-28,PHI,GSW,28.48,3,7,31,GSW,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (16 PTS),,66-63,66,63
+0021900702,2020-01-28,PHI,GSW,28.65,3,7,21,GSW,GSW,fg3_miss,1,False,False,,MISS Spellman 25' 3PT Jump Shot,66-63,66,63
+0021900702,2020-01-28,PHI,GSW,28.72,3,7,17,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:6),,66-63,66,63
+0021900702,2020-01-28,PHI,GSW,28.8,3,7,12,PHI,PHI,fg_make,7,False,False,Embiid 2' Dunk (18 PTS) (Simmons 1 AST),,68-63,68,63
+0021900702,2020-01-28,PHI,GSW,29.08,3,6,55,GSW,GSW,fg3_make,1,False,False,,Russell 26' 3PT Jump Shot (17 PTS) (Green 9 AST),68-66,68,66
+0021900702,2020-01-28,PHI,GSW,29.22,3,6,47,PHI,PHI,fg3_make,1,False,False,Horford 28' 3PT Jump Shot (5 PTS) (Simmons 2 AST),,71-66,71,66
+0021900702,2020-01-28,PHI,GSW,29.52,3,6,29,GSW,GSW,fg_miss,1,False,False,,MISS Russell 21' Jump Shot,71-66,71,66
+0021900702,2020-01-28,PHI,GSW,29.55,3,6,27,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:5),,71-66,71,66
+0021900702,2020-01-28,PHI,GSW,29.67,3,6,20,PHI,PHI,fg_make,73,False,False,Milton Driving Reverse Layup (6 PTS) (Horford 7 AST),,73-66,73,66
+0021900702,2020-01-28,PHI,GSW,29.85,3,6,9,GSW,GSW,fg3_miss,1,False,False,,MISS Spellman 26' 3PT Jump Shot,73-66,73,66
+0021900702,2020-01-28,PHI,GSW,29.87,3,6,8,PHI,PHI,reb,0,False,False,76ERS Rebound,,73-66,73,66
+0021900702,2020-01-28,PHI,GSW,29.87,3,6,8,PHI,GSW,foul,3,False,False,,Lee L.B.FOUL (P1.T3) (S.Foster),73-66,73,66
+0021900702,2020-01-28,PHI,GSW,30.02,3,5,59,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,73-66,73,66
+0021900702,2020-01-28,PHI,GSW,30.07,3,5,56,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:3),73-66,73,66
+0021900702,2020-01-28,PHI,GSW,30.18,3,5,49,GSW,GSW,fg_miss,43,False,False,,MISS Chriss 1' Alley Oop Layup,73-66,73,66
+0021900702,2020-01-28,PHI,GSW,30.25,3,5,45,GSW,GSW,reb,0,False,False,,Russell REBOUND (Off:1 Def:0),73-66,73,66
+0021900702,2020-01-28,PHI,GSW,30.25,3,5,45,GSW,GSW,fg_make,97,False,False,,Russell 1' Tip Layup Shot (19 PTS),73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.25,3,5,45,PHI,GSW,violation,1,False,False,,Warriors Violation: Delay of game Violation,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.42,3,5,35,PHI,PHI,fg_miss,101,False,False,MISS Simmons 5' Driving Floating Jump Shot,,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.42,3,5,35,GSW,GSW,reb,0,False,False,,Warriors Rebound,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.42,3,5,35,GSW,PHI,foul,3,False,False,Simmons L.B.FOUL (P1.T2) (D.Richardson),,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.65,3,5,21,GSW,GSW,fg3_miss,1,False,False,,MISS Robinson III 25' 3PT Jump Shot,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.75,3,5,15,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:7),,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.88,3,5,7,PHI,PHI,tov,40,False,False,Korkmaz Out of Bounds Lost Ball Turnover (P1.T9),,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.88,3,5,7,PHI,,foul,11,False,False,,,73-68,73,68
+0021900702,2020-01-28,PHI,GSW,30.88,3,5,7,PHI,GSW,ft_make,16,False,False,,Robinson III Free Throw Technical (10 PTS),73-69,73,69
+0021900702,2020-01-28,PHI,GSW,31.05,3,4,57,GSW,GSW,fg3_make,1,False,False,,Russell 26' 3PT Jump Shot (22 PTS) (Green 10 AST),73-72,73,72
+0021900702,2020-01-28,PHI,GSW,31.37,3,4,38,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P2.T10),,73-72,73,72
+0021900702,2020-01-28,PHI,GSW,31.37,3,4,38,PHI,GSW,steal,1,False,True,steal,steal,73-72,73,72
+0021900702,2020-01-28,PHI,GSW,31.4,3,4,36,GSW,GSW,fg3_make,1,False,False,,Robinson III 27' 3PT Jump Shot (13 PTS),73-75,73,75
+0021900702,2020-01-28,PHI,GSW,31.65,3,4,21,PHI,GSW,foul,1,False,False,,Lee P.FOUL (P2.T4) (M.Lindsay),73-75,73,75
+0021900702,2020-01-28,PHI,GSW,31.8,3,4,12,PHI,PHI,fg_miss,43,False,False,MISS Simmons 2' Alley Oop Layup,,73-75,73,75
+0021900702,2020-01-28,PHI,GSW,31.83,3,4,10,GSW,GSW,reb,0,False,False,,Russell REBOUND (Off:1 Def:1),73-75,73,75
+0021900702,2020-01-28,PHI,GSW,31.87,3,4,8,GSW,GSW,fg3_miss,103,False,False,,MISS Russell 26' 3PT Running Pull-Up Jump Shot,73-75,73,75
+0021900702,2020-01-28,PHI,GSW,31.92,3,4,5,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:2),,73-75,73,75
+0021900702,2020-01-28,PHI,GSW,32.17,3,3,50,PHI,PHI,fg3_make,1,False,False,Thybulle 24' 3PT Jump Shot (5 PTS) (Horford 8 AST),,76-75,76,75
+0021900702,2020-01-28,PHI,GSW,32.4,3,3,36,GSW,GSW,tov,45,False,False,,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T11),76-75,76,75
+0021900702,2020-01-28,PHI,GSW,32.77,3,3,14,PHI,PHI,fg_make,7,False,False,Simmons 1' Dunk (6 PTS) (Thybulle 3 AST),,78-75,78,75
+0021900702,2020-01-28,PHI,GSW,33.03,3,2,58,GSW,GSW,fg3_miss,1,False,False,,MISS Green 25' 3PT Jump Shot,78-75,78,75
+0021900702,2020-01-28,PHI,GSW,33.08,3,2,55,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:8),,78-75,78,75
+0021900702,2020-01-28,PHI,GSW,33.4,3,2,36,PHI,PHI,fg_miss,1,False,False,MISS Horford 20' Jump Shot,,78-75,78,75
+0021900702,2020-01-28,PHI,GSW,33.43,3,2,34,GSW,GSW,reb,0,False,False,,Russell REBOUND (Off:1 Def:2),78-75,78,75
+0021900702,2020-01-28,PHI,GSW,33.62,3,2,23,GSW,GSW,fg_miss,1,False,False,,MISS Robinson III 23' Jump Shot,78-75,78,75
+0021900702,2020-01-28,PHI,GSW,33.7,3,2,18,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,78-75,78,75
+0021900702,2020-01-28,PHI,GSW,33.8,3,2,12,PHI,PHI,fg_make,74,False,False,Simmons 1' Running Reverse Layup (8 PTS) (Harris 4 AST),,80-75,80,75
+0021900702,2020-01-28,PHI,GSW,34.08,3,1,55,GSW,GSW,tov,1,False,True,,Burks Bad Pass Turnover (P2.T12),80-75,80,75
+0021900702,2020-01-28,PHI,GSW,34.08,3,1,55,GSW,PHI,steal,1,False,True,steal,steal,80-75,80,75
+0021900702,2020-01-28,PHI,GSW,34.08,3,1,55,PHI,GSW,foul,28,False,False,,Russell Personal Take Foul (P1.PN) (S.Foster),80-75,80,75
+0021900702,2020-01-28,PHI,GSW,34.08,3,1,55,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (9 PTS),,81-75,81,75
+0021900702,2020-01-28,PHI,GSW,34.08,3,1,55,PHI,PHI,ft_miss,12,False,False,MISS Simmons Free Throw 2 of 2,,81-75,81,75
+0021900702,2020-01-28,PHI,GSW,34.08,3,1,55,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:4),81-75,81,75
+0021900702,2020-01-28,PHI,GSW,34.32,3,1,41,GSW,PHI,foul,2,False,False,Smith S.FOUL (P1.T3) (M.Lindsay),,81-75,81,75
+0021900702,2020-01-28,PHI,GSW,34.32,3,1,41,GSW,GSW,ft_make,11,False,False,,Burks Free Throw 1 of 2 (7 PTS),81-76,81,76
+0021900702,2020-01-28,PHI,GSW,34.32,3,1,41,GSW,GSW,ft_make,12,False,False,,Burks Free Throw 2 of 2 (8 PTS),81-77,81,77
+0021900702,2020-01-28,PHI,GSW,34.47,3,1,32,PHI,GSW,foul,2,False,False,,Poole S.FOUL (P2.PN) (M.Lindsay),81-77,81,77
+0021900702,2020-01-28,PHI,GSW,34.47,3,1,32,PHI,PHI,ft_make,11,False,False,Smith Free Throw 1 of 2 (3 PTS),,82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.47,3,1,32,PHI,PHI,ft_miss,12,False,False,MISS Smith Free Throw 2 of 2,,82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.5,3,1,30,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:1),82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.7,3,1,18,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 26' 3PT Jump Shot,82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.77,3,1,14,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:6),,82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.85,3,1,9,PHI,PHI,fg_miss,106,False,False,MISS Smith 1' Running Alley Oop Dunk Shot,,82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.88,3,1,7,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:1),82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.97,3,1,2,GSW,GSW,tov,2,False,True,,Burks Lost Ball Turnover (P3.T13),82-77,82,77
+0021900702,2020-01-28,PHI,GSW,34.97,3,1,2,GSW,PHI,steal,2,False,True,steal,steal,82-77,82,77
+0021900702,2020-01-28,PHI,GSW,35.03,3,0,58,PHI,PHI,fg_make,102,False,False,Simmons 5' Driving Floating Bank Jump Shot (11 PTS),,84-77,84,77
+0021900702,2020-01-28,PHI,GSW,35.25,3,0,45,GSW,GSW,fg_make,1,False,False,,Evans 20' Jump Shot (2 PTS) (Chriss 1 AST),84-79,84,79
+0021900702,2020-01-28,PHI,GSW,35.38,3,0,37,PHI,PHI,fg_miss,101,False,False,MISS Simmons 8' Driving Floating Jump Shot,,84-79,84,79
+0021900702,2020-01-28,PHI,GSW,35.42,3,0,35,PHI,PHI,reb,0,False,False,76ERS Rebound,,84-79,84,79
+0021900702,2020-01-28,PHI,GSW,35.43,3,0,34,GSW,PHI,foul,4,False,False,Milton OFF.Foul (P2) (D.Richardson),,84-79,84,79
+0021900702,2020-01-28,PHI,GSW,35.43,3,0,34,PHI,PHI,tov,37,False,False,Milton Offensive Foul Turnover (P1.T11),,84-79,84,79
+0021900702,2020-01-28,PHI,GSW,35.55,3,0,27,GSW,GSW,fg3_make,79,False,False,,Burks 27' 3PT Pullup Jump Shot (11 PTS) (Evans 1 AST),84-82,84,82
+0021900702,2020-01-28,PHI,GSW,35.88,3,0,7,PHI,PHI,fg_make,66,False,False,Embiid 5' Jump Bank Shot (20 PTS) (Milton 2 AST),,86-82,86,82
+0021900702,2020-01-28,PHI,GSW,36.0,3,0,0,GSW,GSW,fg_miss,79,False,False,,MISS Evans 18' Pullup Jump Shot,86-82,86,82
+0021900702,2020-01-28,PHI,GSW,36.0,3,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,86-82,86,82
+0021900702,2020-01-28,PHI,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,86-82,86,82
+0021900702,2020-01-28,PHI,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,86-82,86,82
+0021900702,2020-01-28,PHI,GSW,36.3,4,11,42,PHI,PHI,fg_make,3,False,False,Embiid 9' Hook Shot (22 PTS),,88-82,88,82
+0021900702,2020-01-28,PHI,GSW,36.5,4,11,30,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 29' 3PT Jump Shot,88-82,88,82
+0021900702,2020-01-28,PHI,GSW,36.53,4,11,28,PHI,PHI,reb,0,False,False,76ERS Rebound,,88-82,88,82
+0021900702,2020-01-28,PHI,GSW,36.68,4,11,19,PHI,GSW,foul,1,False,False,,Spellman P.FOUL (P2.T1) (M.Lindsay),88-82,88,82
+0021900702,2020-01-28,PHI,GSW,36.83,4,11,10,PHI,PHI,fg3_miss,80,False,False,MISS Korkmaz 28' 3PT Step Back Jump Shot,,88-82,88,82
+0021900702,2020-01-28,PHI,GSW,36.88,4,11,7,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:0 Def:5),88-82,88,82
+0021900702,2020-01-28,PHI,GSW,36.98,4,11,1,GSW,GSW,fg_miss,41,False,False,,MISS Burks 5' Running Layup,88-82,88,82
+0021900702,2020-01-28,PHI,GSW,37.02,4,10,59,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,88-82,88,82
+0021900702,2020-01-28,PHI,GSW,37.12,4,10,53,PHI,PHI,fg_make,9,False,False,Harris 1' Driving Dunk (12 PTS) (Korkmaz 1 AST),,90-82,90,82
+0021900702,2020-01-28,PHI,GSW,37.12,4,10,53,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.5 Short 0),90-82,90,82
+0021900702,2020-01-28,PHI,GSW,37.33,4,10,40,GSW,GSW,fg3_miss,1,False,False,,MISS Spellman 27' 3PT Jump Shot,90-82,90,82
+0021900702,2020-01-28,PHI,GSW,37.4,4,10,36,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:2),,90-82,90,82
+0021900702,2020-01-28,PHI,GSW,37.62,4,10,23,PHI,GSW,foul,1,False,False,,Burks P.FOUL (P1.T2) (M.Lindsay),90-82,90,82
+0021900702,2020-01-28,PHI,GSW,37.8,4,10,12,PHI,PHI,fg3_make,1,False,False,Korkmaz 27' 3PT Jump Shot (8 PTS) (Embiid 1 AST),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.13,4,9,52,GSW,GSW,fg_miss,1,False,False,,MISS Paschall 21' Jump Shot,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.17,4,9,50,PHI,PHI,reb,0,False,False,Neto REBOUND (Off:0 Def:2),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.33,4,9,40,PHI,PHI,fg_miss,79,False,False,MISS Neto 14' Pullup Jump Shot,,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.38,4,9,37,PHI,PHI,reb,0,False,False,76ERS Rebound,,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.5,4,9,30,PHI,PHI,tov,2,False,True,Harris Lost Ball Turnover (P2.T12),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.5,4,9,30,PHI,GSW,steal,2,False,True,steal,steal,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.52,4,9,29,GSW,PHI,foul,28,False,False,Korkmaz Personal Take Foul (P1.T1) (D.Richardson),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.82,4,9,11,GSW,GSW,fg3_miss,79,False,False,,MISS Burks 26' 3PT Pullup Jump Shot,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.88,4,9,7,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,38.9,4,9,6,PHI,GSW,foul,1,False,False,,Paschall P.FOUL (P4.T3) (M.Lindsay),93-82,93,82
+0021900702,2020-01-28,PHI,GSW,39.03,4,8,58,PHI,PHI,tov,1,False,False,Embiid Bad Pass Turnover (P5.T13),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,39.03,4,8,58,GSW,PHI,foul,3,False,False,Embiid L.B.FOUL (P2.T2) (M.Lindsay),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,39.23,4,8,46,GSW,GSW,fg_miss,79,False,False,,MISS Russell 4' Pullup Jump Shot,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,39.28,4,8,43,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:7),,93-82,93,82
+0021900702,2020-01-28,PHI,GSW,39.53,4,8,28,PHI,PHI,fg_make,86,False,False,Embiid 14' Turnaround Fadeaway (24 PTS),,95-82,95,82
+0021900702,2020-01-28,PHI,GSW,39.53,4,8,28,PHI,GSW,foul,2,False,False,,Paschall S.FOUL (P5.T4) (S.Foster),95-82,95,82
+0021900702,2020-01-28,PHI,GSW,39.53,4,8,28,PHI,PHI,ft_miss,10,False,False,MISS Embiid Free Throw 1 of 1,,95-82,95,82
+0021900702,2020-01-28,PHI,GSW,39.57,4,8,26,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:2),95-82,95,82
+0021900702,2020-01-28,PHI,GSW,39.77,4,8,14,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 25' 3PT Jump Shot,95-82,95,82
+0021900702,2020-01-28,PHI,GSW,39.8,4,8,12,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:8),,95-82,95,82
+0021900702,2020-01-28,PHI,GSW,39.8,4,8,12,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,95-82,95,82
+0021900702,2020-01-28,PHI,GSW,40.05,4,7,57,PHI,PHI,fg3_miss,1,False,False,MISS Neto 26' 3PT Jump Shot,,95-82,95,82
+0021900702,2020-01-28,PHI,GSW,40.1,4,7,54,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:1 Def:4),95-82,95,82
+0021900702,2020-01-28,PHI,GSW,40.25,4,7,45,GSW,GSW,fg3_make,1,False,False,,Russell 26' 3PT Jump Shot (25 PTS),95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.25,4,7,45,GSW,PHI,foul,2,False,False,Neto S.FOUL (P3.T3) (D.Richardson),,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.25,4,7,45,GSW,GSW,ft_miss,10,False,False,,MISS Russell Free Throw 1 of 1,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.28,4,7,43,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:9),,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.42,4,7,35,PHI,PHI,fg3_miss,1,False,False,MISS Horford 27' 3PT Jump Shot,,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.45,4,7,33,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:9),95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.8,4,7,12,GSW,GSW,fg3_miss,1,False,False,,MISS Chriss 26' 3PT Jump Shot,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.85,4,7,9,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:5),,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.93,4,7,4,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 25' 3PT Jump Shot,,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,40.97,4,7,2,GSW,GSW,reb,0,False,False,,Warriors Rebound,95-85,95,85
+0021900702,2020-01-28,PHI,GSW,41.2,4,6,48,GSW,GSW,fg3_make,1,False,False,,Lee 26' 3PT Jump Shot (5 PTS) (Green 11 AST),95-88,95,88
+0021900702,2020-01-28,PHI,GSW,41.58,4,6,25,PHI,PHI,fg_make,86,False,False,Horford 16' Turnaround Fadeaway (7 PTS) (Korkmaz 2 AST),,97-88,97,88
+0021900702,2020-01-28,PHI,GSW,41.8,4,6,12,GSW,PHI,foul,2,False,False,Thybulle S.FOUL (P3.T4) (S.Foster),,97-88,97,88
+0021900702,2020-01-28,PHI,GSW,41.8,4,6,12,GSW,GSW,ft_make,11,False,False,,Robinson III Free Throw 1 of 2 (14 PTS),97-89,97,89
+0021900702,2020-01-28,PHI,GSW,41.8,4,6,12,GSW,GSW,ft_make,12,False,False,,Robinson III Free Throw 2 of 2 (15 PTS),97-90,97,90
+0021900702,2020-01-28,PHI,GSW,41.98,4,6,1,PHI,PHI,fg_miss,43,True,False,MISS Harris 2' Alley Oop Layup,,97-90,97,90
+0021900702,2020-01-28,PHI,GSW,41.98,4,6,1,PHI,GSW,block,43,True,False,block,block,97-90,97,90
+0021900702,2020-01-28,PHI,GSW,42.0,4,6,0,PHI,PHI,reb,0,False,False,76ERS Rebound,,97-90,97,90
+0021900702,2020-01-28,PHI,GSW,42.2,4,5,48,PHI,GSW,foul,2,False,False,,Green S.FOUL (P4.PN) (S.Foster),97-90,97,90
+0021900702,2020-01-28,PHI,GSW,42.2,4,5,48,PHI,PHI,ft_make,11,False,False,Horford Free Throw 1 of 2 (8 PTS),,98-90,98,90
+0021900702,2020-01-28,PHI,GSW,42.2,4,5,48,PHI,PHI,ft_make,12,False,False,Horford Free Throw 2 of 2 (9 PTS),,99-90,99,90
+0021900702,2020-01-28,PHI,GSW,42.32,4,5,41,GSW,PHI,foul,1,False,False,Milton P.FOUL (P3.PN) (S.Foster),,99-90,99,90
+0021900702,2020-01-28,PHI,GSW,42.32,4,5,41,GSW,GSW,ft_make,11,False,False,,Lee Free Throw 1 of 2 (6 PTS),99-91,99,91
+0021900702,2020-01-28,PHI,GSW,42.32,4,5,41,GSW,GSW,ft_miss,12,False,False,,MISS Lee Free Throw 2 of 2,99-91,99,91
+0021900702,2020-01-28,PHI,GSW,42.35,4,5,39,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:10),,99-91,99,91
+0021900702,2020-01-28,PHI,GSW,42.67,4,5,20,PHI,PHI,fg_make,101,False,False,Harris 19' Driving Floating Jump Shot (14 PTS) (Simmons 3 AST),,101-91,101,91
+0021900702,2020-01-28,PHI,GSW,42.98,4,5,1,GSW,GSW,tov,1,False,True,,Burks Bad Pass Turnover (P4.T14),101-91,101,91
+0021900702,2020-01-28,PHI,GSW,42.98,4,5,1,GSW,PHI,steal,1,False,True,steal,steal,101-91,101,91
+0021900702,2020-01-28,PHI,GSW,43.08,4,4,55,PHI,PHI,fg_make,73,False,False,Milton 2' Driving Reverse Layup (8 PTS),,103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.08,4,4,55,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.6 Short 0),103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.27,4,4,44,GSW,GSW,fg3_miss,1,False,False,,MISS Russell 26' 3PT Jump Shot,103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.33,4,4,40,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:6),,103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.4,4,4,36,PHI,PHI,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.47,4,4,32,GSW,GSW,reb,0,False,False,,Russell REBOUND (Off:1 Def:3),103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.72,4,4,17,GSW,GSW,fg3_miss,1,False,False,,MISS Green 25' 3PT Jump Shot,103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.78,4,4,13,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:3),,103-91,103,91
+0021900702,2020-01-28,PHI,GSW,43.93,4,4,4,PHI,PHI,fg3_make,1,False,False,Horford 27' 3PT Jump Shot (12 PTS) (Simmons 4 AST),,106-91,106,91
+0021900702,2020-01-28,PHI,GSW,44.18,4,3,49,GSW,GSW,fg3_miss,1,False,False,,MISS Green 27' 3PT Jump Shot,106-91,106,91
+0021900702,2020-01-28,PHI,GSW,44.23,4,3,46,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:11),,106-91,106,91
+0021900702,2020-01-28,PHI,GSW,44.33,4,3,40,PHI,PHI,tov,1,False,True,Horford Bad Pass Turnover (P2.T14),,106-91,106,91
+0021900702,2020-01-28,PHI,GSW,44.33,4,3,40,PHI,GSW,steal,1,False,True,steal,steal,106-91,106,91
+0021900702,2020-01-28,PHI,GSW,44.43,4,3,34,GSW,GSW,fg_make,106,False,False,,Chriss 1' Running Alley Oop Dunk Shot (15 PTS) (Burks 1 AST),106-93,106,93
+0021900702,2020-01-28,PHI,GSW,44.7,4,3,18,PHI,GSW,foul,2,False,False,,Burks S.FOUL (P2.PN) (D.Richardson),106-93,106,93
+0021900702,2020-01-28,PHI,GSW,44.7,4,3,18,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (12 PTS),,107-93,107,93
+0021900702,2020-01-28,PHI,GSW,44.7,4,3,18,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (13 PTS),,108-93,108,93
+0021900702,2020-01-28,PHI,GSW,44.93,4,3,4,GSW,GSW,fg_make,101,False,False,,Russell 17' Driving Floating Jump Shot (27 PTS) (Green 12 AST),108-95,108,95
+0021900702,2020-01-28,PHI,GSW,45.22,4,2,47,PHI,PHI,fg3_make,1,False,False,Milton 27' 3PT Jump Shot (11 PTS) (Simmons 5 AST),,111-95,111,95
+0021900702,2020-01-28,PHI,GSW,45.42,4,2,35,GSW,PHI,foul,1,False,False,Thybulle P.FOUL (P4.PN) (M.Lindsay),,111-95,111,95
+0021900702,2020-01-28,PHI,GSW,45.42,4,2,35,GSW,GSW,ft_make,11,False,False,,Russell Free Throw 1 of 2 (28 PTS),111-96,111,96
+0021900702,2020-01-28,PHI,GSW,45.42,4,2,35,GSW,GSW,ft_miss,12,False,False,,MISS Russell Free Throw 2 of 2,111-96,111,96
+0021900702,2020-01-28,PHI,GSW,45.47,4,2,32,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:7),,111-96,111,96
+0021900702,2020-01-28,PHI,GSW,45.77,4,2,14,PHI,PHI,fg_miss,1,False,False,MISS Horford 19' Jump Shot,,111-96,111,96
+0021900702,2020-01-28,PHI,GSW,45.83,4,2,10,GSW,GSW,reb,0,False,False,,Russell REBOUND (Off:1 Def:4),111-96,111,96
+0021900702,2020-01-28,PHI,GSW,46.0,4,2,0,GSW,GSW,fg_make,79,False,False,,Robinson III 21' Pullup Jump Shot (17 PTS) (Chriss 2 AST),111-98,111,98
+0021900702,2020-01-28,PHI,GSW,46.27,4,1,44,PHI,PHI,tov,1,False,True,Milton Bad Pass Turnover (P2.T15),,111-98,111,98
+0021900702,2020-01-28,PHI,GSW,46.27,4,1,44,PHI,GSW,steal,1,False,True,steal,steal,111-98,111,98
+0021900702,2020-01-28,PHI,GSW,46.32,4,1,41,GSW,PHI,foul,2,False,False,Simmons S.FOUL (P2.PN) (D.Richardson),,111-98,111,98
+0021900702,2020-01-28,PHI,GSW,46.32,4,1,41,GSW,GSW,ft_make,11,False,False,,Burks Free Throw 1 of 2 (12 PTS),111-99,111,99
+0021900702,2020-01-28,PHI,GSW,46.32,4,1,41,GSW,GSW,ft_miss,12,False,False,,MISS Burks Free Throw 2 of 2,111-99,111,99
+0021900702,2020-01-28,PHI,GSW,46.37,4,1,38,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:1 Def:5),111-99,111,99
+0021900702,2020-01-28,PHI,GSW,46.38,4,1,37,GSW,GSW,fg3_make,1,False,False,,Robinson III 27' 3PT Jump Shot (20 PTS) (Burks 2 AST),111-102,111,102
+0021900702,2020-01-28,PHI,GSW,46.45,4,1,33,PHI,GSW,foul,28,False,False,,Green Personal Take Foul (P5.PN) (S.Foster),111-102,111,102
+0021900702,2020-01-28,PHI,GSW,46.45,4,1,33,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (14 PTS),,112-102,112,102
+0021900702,2020-01-28,PHI,GSW,46.45,4,1,33,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (15 PTS),,113-102,113,102
+0021900702,2020-01-28,PHI,GSW,46.53,4,1,28,GSW,GSW,fg3_miss,1,False,False,,MISS Russell 27' 3PT Jump Shot,113-102,113,102
+0021900702,2020-01-28,PHI,GSW,46.57,4,1,26,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:4),,113-102,113,102
+0021900702,2020-01-28,PHI,GSW,46.58,4,1,25,PHI,GSW,foul,28,False,False,,Russell Personal Take Foul (P2.PN) (D.Richardson),113-102,113,102
+0021900702,2020-01-28,PHI,GSW,46.58,4,1,25,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (16 PTS),,114-102,114,102
+0021900702,2020-01-28,PHI,GSW,46.58,4,1,25,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (17 PTS),,115-102,115,102
+0021900702,2020-01-28,PHI,GSW,46.95,4,1,3,GSW,PHI,violation,5,False,False,Smith Violation:Kicked Ball (M.Lindsay),,115-102,115,102
+0021900702,2020-01-28,PHI,GSW,47.08,4,0,55,GSW,GSW,fg_miss,1,False,False,,MISS Spellman 20' Jump Shot,115-102,115,102
+0021900702,2020-01-28,PHI,GSW,47.12,4,0,53,PHI,PHI,reb,0,False,False,Smith REBOUND (Off:0 Def:1),,115-102,115,102
+0021900702,2020-01-28,PHI,GSW,47.42,4,0,35,PHI,PHI,fg3_miss,1,False,False,MISS Smith 27' 3PT Jump Shot,,115-102,115,102
+0021900702,2020-01-28,PHI,GSW,47.47,4,0,32,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:2),115-102,115,102
+0021900702,2020-01-28,PHI,GSW,47.57,4,0,26,GSW,GSW,fg_make,41,False,False,,Paschall 2' Running Layup (4 PTS) (Evans 2 AST),115-104,115,104
+0021900702,2020-01-28,PHI,GSW,47.97,4,0,2,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#16),,115-104,115,104
+0021900702,2020-01-28,PHI,GSW,48.0,4,0,0,PHI,,period_end,0,False,False,,,115-104,115,104

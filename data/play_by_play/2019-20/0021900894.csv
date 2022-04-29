@@ -1,0 +1,454 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900894,2020-02-29,PHX,GSW,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900894,2020-02-29,PHX,GSW,0.0,1,12,0,,PHX,jump_ball,0,False,False,Jump Ball Ayton vs. Chriss: Tip to Booker,,0-0,0,0
+0021900894,2020-02-29,PHX,GSW,0.32,1,11,41,PHX,GSW,foul,1,False,False,,Chriss P.FOUL (P1.T1) (N.Buchert),0-0,0,0
+0021900894,2020-02-29,PHX,GSW,0.48,1,11,31,PHX,PHX,fg_make,47,False,False,Ayton 10' Turnaround Jump Shot (2 PTS) (Saric 1 AST),,2-0,2,0
+0021900894,2020-02-29,PHX,GSW,0.75,1,11,15,GSW,GSW,fg_make,6,False,False,,Wiggins 1' Driving Layup (2 PTS) (Bender 1 AST),2-2,2,2
+0021900894,2020-02-29,PHX,GSW,0.75,1,11,15,GSW,PHX,foul,2,False,False,Ayton S.FOUL (P1.T1) (N.Buchert),,2-2,2,2
+0021900894,2020-02-29,PHX,GSW,0.75,1,11,15,GSW,GSW,ft_make,10,False,False,,Wiggins Free Throw 1 of 1 (3 PTS),2-3,2,3
+0021900894,2020-02-29,PHX,GSW,0.95,1,11,3,PHX,PHX,fg_make,73,False,False,Saric Driving Reverse Layup (2 PTS),,4-3,4,3
+0021900894,2020-02-29,PHX,GSW,1.15,1,10,51,GSW,GSW,fg3_miss,1,False,False,,MISS Bender 26' 3PT Jump Shot,4-3,4,3
+0021900894,2020-02-29,PHX,GSW,1.18,1,10,49,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:0 Def:1),,4-3,4,3
+0021900894,2020-02-29,PHX,GSW,1.32,1,10,41,PHX,PHX,fg_make,67,False,False,Saric 1' Hook Bank Shot (4 PTS) (Rubio 1 AST),,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,1.48,1,10,31,GSW,GSW,fg_miss,6,True,False,,MISS Wiggins 1' Driving Layup,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,1.48,1,10,31,GSW,PHX,block,6,True,False,block,block,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,1.48,1,10,31,PHX,PHX,reb,0,False,False,SUNS Rebound,,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,1.78,1,10,13,PHX,PHX,fg_miss,44,True,False,MISS Saric 1' Reverse Layup,,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,1.78,1,10,13,PHX,GSW,block,44,True,False,block,block,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,1.82,1,10,11,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:0 Def:1),6-3,6,3
+0021900894,2020-02-29,PHX,GSW,1.9,1,10,6,GSW,GSW,tov,4,False,False,,Toscano-Anderson Traveling Turnover (P1.T1),6-3,6,3
+0021900894,2020-02-29,PHX,GSW,2.27,1,9,44,PHX,PHX,tov,45,False,False,Booker Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,2.53,1,9,28,GSW,GSW,fg_miss,3,False,False,,MISS Wiggins 2' Hook Shot,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,2.58,1,9,25,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:0 Def:1),,6-3,6,3
+0021900894,2020-02-29,PHX,GSW,2.68,1,9,19,PHX,PHX,fg_make,47,False,False,Ayton 9' Turnaround Jump Shot (4 PTS) (Rubio 2 AST),,8-3,8,3
+0021900894,2020-02-29,PHX,GSW,3.07,1,8,56,GSW,GSW,fg_make,58,False,False,,Bender 6' Turnaround Hook Shot (2 PTS) (Toscano-Anderson 1 AST),8-5,8,5
+0021900894,2020-02-29,PHX,GSW,3.2,1,8,48,PHX,PHX,fg_make,79,False,False,Rubio 20' Pullup Jump Shot (2 PTS),,10-5,10,5
+0021900894,2020-02-29,PHX,GSW,3.42,1,8,35,GSW,GSW,fg3_make,1,False,False,,Bender 25' 3PT Jump Shot (5 PTS) (Lee 1 AST),10-8,10,8
+0021900894,2020-02-29,PHX,GSW,3.68,1,8,19,PHX,PHX,tov,1,False,True,Booker Bad Pass Turnover (P2.T2),,10-8,10,8
+0021900894,2020-02-29,PHX,GSW,3.68,1,8,19,PHX,GSW,steal,1,False,True,steal,steal,10-8,10,8
+0021900894,2020-02-29,PHX,GSW,3.82,1,8,11,GSW,GSW,tov,1,False,True,,Bender Bad Pass Turnover (P1.T2),10-8,10,8
+0021900894,2020-02-29,PHX,GSW,3.82,1,8,11,GSW,PHX,steal,1,False,True,steal,steal,10-8,10,8
+0021900894,2020-02-29,PHX,GSW,3.92,1,8,5,PHX,PHX,fg_make,103,False,False,Rubio 10' Running Pull-Up Jump Shot (4 PTS),,12-8,12,8
+0021900894,2020-02-29,PHX,GSW,4.2,1,7,48,GSW,PHX,foul,2,False,False,Bridges S.FOUL (P1.T2) (N.Buchert),,12-8,12,8
+0021900894,2020-02-29,PHX,GSW,4.2,1,7,48,GSW,GSW,ft_make,11,False,False,,Chriss Free Throw 1 of 2 (1 PTS),12-9,12,9
+0021900894,2020-02-29,PHX,GSW,4.2,1,7,48,GSW,GSW,ft_miss,12,False,False,,MISS Chriss Free Throw 2 of 2,12-9,12,9
+0021900894,2020-02-29,PHX,GSW,4.23,1,7,46,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:0 Def:2),,12-9,12,9
+0021900894,2020-02-29,PHX,GSW,4.42,1,7,35,PHX,PHX,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (3 PTS) (Saric 2 AST),,15-9,15,9
+0021900894,2020-02-29,PHX,GSW,4.7,1,7,18,GSW,GSW,fg3_miss,80,False,False,,MISS Wiggins 26' 3PT Step Back Jump Shot,15-9,15,9
+0021900894,2020-02-29,PHX,GSW,4.75,1,7,15,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:0 Def:2),,15-9,15,9
+0021900894,2020-02-29,PHX,GSW,4.82,1,7,11,PHX,PHX,fg3_miss,2,True,False,MISS Booker 26' 3PT Running Jump Shot,,15-9,15,9
+0021900894,2020-02-29,PHX,GSW,4.82,1,7,11,PHX,GSW,block,2,True,False,block,block,15-9,15,9
+0021900894,2020-02-29,PHX,GSW,4.83,1,7,10,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:0 Def:1),15-9,15,9
+0021900894,2020-02-29,PHX,GSW,4.9,1,7,6,GSW,PHX,foul,1,False,False,Saric P.FOUL (P1.T3) (M.Ayotte),,15-9,15,9
+0021900894,2020-02-29,PHX,GSW,4.98,1,7,1,GSW,GSW,fg3_make,1,False,False,,Lee 27' 3PT Jump Shot (3 PTS) (Chriss 1 AST),15-12,15,12
+0021900894,2020-02-29,PHX,GSW,5.2,1,6,48,PHX,PHX,fg3_make,1,False,False,Booker 26' 3PT Jump Shot (3 PTS) (Bridges 1 AST),,18-12,18,12
+0021900894,2020-02-29,PHX,GSW,5.42,1,6,35,GSW,GSW,fg_make,58,False,False,,Chriss 2' Turnaround Hook Shot (3 PTS),18-14,18,14
+0021900894,2020-02-29,PHX,GSW,5.78,1,6,13,PHX,PHX,fg_miss,79,False,False,MISS Ayton 11' Pullup Jump Shot,,18-14,18,14
+0021900894,2020-02-29,PHX,GSW,5.83,1,6,10,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:0 Def:1),18-14,18,14
+0021900894,2020-02-29,PHX,GSW,6.08,1,5,55,GSW,GSW,fg_miss,80,False,False,,MISS Wiggins 20' Step Back Jump Shot,18-14,18,14
+0021900894,2020-02-29,PHX,GSW,6.08,1,5,55,PHX,PHX,reb,0,False,False,SUNS Rebound,,18-14,18,14
+0021900894,2020-02-29,PHX,GSW,6.08,1,5,55,PHX,GSW,foul,3,False,False,,Chriss L.B.FOUL (P2.T2) (J.Orr),18-14,18,14
+0021900894,2020-02-29,PHX,GSW,6.08,1,5,55,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 1 Short 0),,18-14,18,14
+0021900894,2020-02-29,PHX,GSW,6.37,1,5,38,PHX,PHX,fg_make,43,False,False,Ayton 2' Alley Oop Layup (6 PTS) (Rubio 3 AST),,20-14,20,14
+0021900894,2020-02-29,PHX,GSW,6.58,1,5,25,GSW,PHX,foul,2,False,False,Ayton S.FOUL (P2.T4) (J.Orr),,20-14,20,14
+0021900894,2020-02-29,PHX,GSW,6.58,1,5,25,GSW,GSW,ft_make,11,False,False,,Lee Free Throw 1 of 2 (4 PTS),20-15,20,15
+0021900894,2020-02-29,PHX,GSW,6.58,1,5,25,GSW,GSW,ft_make,12,False,False,,Lee Free Throw 2 of 2 (5 PTS),20-16,20,16
+0021900894,2020-02-29,PHX,GSW,6.78,1,5,13,PHX,PHX,fg_miss,79,False,False,MISS Bridges 17' Pullup Jump Shot,,20-16,20,16
+0021900894,2020-02-29,PHX,GSW,6.88,1,5,7,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:0 Def:2),20-16,20,16
+0021900894,2020-02-29,PHX,GSW,6.93,1,5,4,GSW,GSW,fg3_miss,1,False,False,,MISS Mulder 26' 3PT Jump Shot,20-16,20,16
+0021900894,2020-02-29,PHX,GSW,6.98,1,5,1,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:0 Def:1),,20-16,20,16
+0021900894,2020-02-29,PHX,GSW,7.15,1,4,51,PHX,PHX,fg_make,3,False,False,Baynes 4' Hook Shot (2 PTS) (Booker 1 AST),,22-16,22,16
+0021900894,2020-02-29,PHX,GSW,7.15,1,4,51,PHX,GSW,foul,2,False,False,,Bender S.FOUL (P1.T3) (N.Buchert),22-16,22,16
+0021900894,2020-02-29,PHX,GSW,7.15,1,4,51,PHX,PHX,ft_make,10,False,False,Baynes Free Throw 1 of 1 (3 PTS),,23-16,23,16
+0021900894,2020-02-29,PHX,GSW,7.35,1,4,39,GSW,GSW,fg_make,66,False,False,,Lee 17' Jump Bank Shot (7 PTS) (Looney 1 AST),23-18,23,18
+0021900894,2020-02-29,PHX,GSW,7.52,1,4,29,PHX,PHX,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (6 PTS) (Okobo 1 AST),,26-18,26,18
+0021900894,2020-02-29,PHX,GSW,7.73,1,4,16,GSW,GSW,fg3_miss,1,False,False,,MISS Looney 25' 3PT Jump Shot,26-18,26,18
+0021900894,2020-02-29,PHX,GSW,7.78,1,4,13,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,26-18,26,18
+0021900894,2020-02-29,PHX,GSW,7.88,1,4,7,PHX,GSW,foul,2,False,False,,Paschall S.FOUL (P1.T4) (M.Ayotte),26-18,26,18
+0021900894,2020-02-29,PHX,GSW,7.88,1,4,7,PHX,PHX,ft_make,11,False,False,Okobo Free Throw 1 of 2 (1 PTS),,27-18,27,18
+0021900894,2020-02-29,PHX,GSW,7.88,1,4,7,PHX,PHX,ft_make,12,False,False,Okobo Free Throw 2 of 2 (2 PTS),,28-18,28,18
+0021900894,2020-02-29,PHX,GSW,8.15,1,3,51,GSW,GSW,fg_make,102,False,False,,Paschall 3' Driving Floating Bank Jump Shot (2 PTS) (Lee 2 AST),28-20,28,20
+0021900894,2020-02-29,PHX,GSW,8.25,1,3,45,PHX,PHX,fg_miss,41,False,False,MISS Okobo 1' Running Layup,,28-20,28,20
+0021900894,2020-02-29,PHX,GSW,8.3,1,3,42,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:1),28-20,28,20
+0021900894,2020-02-29,PHX,GSW,8.38,1,3,37,GSW,GSW,fg_make,50,False,False,,Looney Running Dunk (2 PTS) (Lee 3 AST),28-22,28,22
+0021900894,2020-02-29,PHX,GSW,8.42,1,3,35,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 2 Short 0),,28-22,28,22
+0021900894,2020-02-29,PHX,GSW,8.6,1,3,24,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 3PT Jump Shot,,28-22,28,22
+0021900894,2020-02-29,PHX,GSW,8.65,1,3,21,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:0 Def:2),28-22,28,22
+0021900894,2020-02-29,PHX,GSW,8.87,1,3,8,GSW,GSW,fg_make,6,False,False,,Paschall 1' Driving Layup (4 PTS),28-24,28,24
+0021900894,2020-02-29,PHX,GSW,9.15,1,2,51,PHX,PHX,tov,8,False,False,Baynes 3 Second Violation Turnover (P1.T3),,28-24,28,24
+0021900894,2020-02-29,PHX,GSW,9.42,1,2,35,GSW,GSW,fg_miss,6,False,False,,MISS Paschall 1' Driving Layup,28-24,28,24
+0021900894,2020-02-29,PHX,GSW,9.45,1,2,33,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:1),28-24,28,24
+0021900894,2020-02-29,PHX,GSW,9.5,1,2,30,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 25' 3PT Jump Shot,28-24,28,24
+0021900894,2020-02-29,PHX,GSW,9.52,1,2,29,PHX,PHX,reb,0,False,False,Okobo REBOUND (Off:0 Def:1),,28-24,28,24
+0021900894,2020-02-29,PHX,GSW,9.82,1,2,11,PHX,PHX,fg3_make,1,False,False,Baynes 3PT Jump Shot (6 PTS) (Okobo 2 AST),,31-24,31,24
+0021900894,2020-02-29,PHX,GSW,10.08,1,1,55,GSW,GSW,tov,1,False,True,,Wiggins Bad Pass Turnover (P1.T3),31-24,31,24
+0021900894,2020-02-29,PHX,GSW,10.08,1,1,55,GSW,PHX,steal,1,False,True,steal,steal,31-24,31,24
+0021900894,2020-02-29,PHX,GSW,10.15,1,1,51,PHX,PHX,fg_make,41,False,False,Booker 1' Running Layup (5 PTS) (Carter 1 AST),,33-24,33,24
+0021900894,2020-02-29,PHX,GSW,10.43,1,1,34,GSW,PHX,foul,1,False,False,Carter P.FOUL (P1.PN) (M.Ayotte),,33-24,33,24
+0021900894,2020-02-29,PHX,GSW,10.43,1,1,34,GSW,GSW,ft_make,11,False,False,,Wiggins Free Throw 1 of 2 (4 PTS),33-25,33,25
+0021900894,2020-02-29,PHX,GSW,10.43,1,1,34,GSW,GSW,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (5 PTS),33-26,33,26
+0021900894,2020-02-29,PHX,GSW,10.7,1,1,18,PHX,PHX,fg3_make,1,False,False,Okobo 3PT Jump Shot (5 PTS) (Johnson 1 AST),,36-26,36,26
+0021900894,2020-02-29,PHX,GSW,10.98,1,1,1,GSW,GSW,tov,40,False,False,,Wiggins Out of Bounds Lost Ball Turnover (P2.T4),36-26,36,26
+0021900894,2020-02-29,PHX,GSW,11.17,1,0,50,PHX,PHX,fg3_make,1,False,False,Bridges 24' 3PT Jump Shot (9 PTS) (Johnson 2 AST),,39-26,39,26
+0021900894,2020-02-29,PHX,GSW,11.52,1,0,29,GSW,GSW,fg_miss,102,False,False,,MISS Paschall 2' Driving Floating Bank Jump Shot,39-26,39,26
+0021900894,2020-02-29,PHX,GSW,11.55,1,0,27,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:1),39-26,39,26
+0021900894,2020-02-29,PHX,GSW,11.55,1,0,27,GSW,PHX,foul,2,False,False,Baynes S.FOUL (P1.PN) (N.Buchert),,39-26,39,26
+0021900894,2020-02-29,PHX,GSW,11.55,1,0,27,GSW,GSW,ft_make,11,False,False,,Looney Free Throw 1 of 2 (3 PTS),39-27,39,27
+0021900894,2020-02-29,PHX,GSW,11.55,1,0,27,GSW,GSW,ft_make,12,False,False,,Looney Free Throw 2 of 2 (4 PTS),39-28,39,28
+0021900894,2020-02-29,PHX,GSW,11.95,1,0,3,PHX,PHX,fg_make,6,False,False,Okobo Driving Layup (7 PTS),,41-28,41,28
+0021900894,2020-02-29,PHX,GSW,12.0,1,0,0,GSW,GSW,fg3_miss,103,False,False,,MISS Wiggins 26' 3PT Running Pull-Up Jump Shot,41-28,41,28
+0021900894,2020-02-29,PHX,GSW,12.0,1,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,41-28,41,28
+0021900894,2020-02-29,PHX,GSW,12.0,1,0,0,GSW,,period_end,0,False,False,,,41-28,41,28
+0021900894,2020-02-29,PHX,GSW,12.0,2,12,0,GSW,,period_start,0,False,False,,,41-28,41,28
+0021900894,2020-02-29,PHX,GSW,12.22,2,11,47,GSW,GSW,fg3_miss,1,False,False,,MISS Mulder 26' 3PT Jump Shot,41-28,41,28
+0021900894,2020-02-29,PHX,GSW,12.28,2,11,43,PHX,PHX,reb,0,False,False,Okobo REBOUND (Off:0 Def:2),,41-28,41,28
+0021900894,2020-02-29,PHX,GSW,12.43,2,11,34,PHX,PHX,fg_make,6,False,False,Johnson 1' Driving Layup (2 PTS) (Okobo 3 AST),,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,12.73,2,11,16,GSW,GSW,fg3_miss,1,False,False,,MISS Mulder 3PT Jump Shot,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,12.78,2,11,13,GSW,GSW,reb,0,False,False,,Mulder REBOUND (Off:1 Def:0),43-28,43,28
+0021900894,2020-02-29,PHX,GSW,12.83,2,11,10,GSW,GSW,fg3_miss,1,False,False,,MISS Paschall 26' 3PT Jump Shot,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,12.87,2,11,8,PHX,PHX,reb,0,False,False,Okobo REBOUND (Off:0 Def:3),,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,12.98,2,11,1,PHX,PHX,fg_miss,79,False,False,MISS Okobo 12' Pullup Jump Shot,,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,13.03,2,10,58,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:0 Def:3),43-28,43,28
+0021900894,2020-02-29,PHX,GSW,13.13,2,10,52,GSW,PHX,foul,1,False,False,Baynes P.FOUL (P2.T1) (M.Ayotte),,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,13.23,2,10,46,GSW,GSW,fg_miss,6,False,False,,MISS Mulder 1' Driving Layup,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,13.25,2,10,45,PHX,PHX,reb,0,False,False,Okobo REBOUND (Off:0 Def:4),,43-28,43,28
+0021900894,2020-02-29,PHX,GSW,13.48,2,10,31,PHX,PHX,fg3_make,1,False,False,Bridges 26' 3PT Jump Shot (12 PTS) (Okobo 4 AST),,46-28,46,28
+0021900894,2020-02-29,PHX,GSW,13.73,2,10,16,GSW,GSW,fg_make,99,False,False,,Wiggins 1' Cutting Finger Roll Layup Shot (7 PTS) (Bender 2 AST),46-30,46,30
+0021900894,2020-02-29,PHX,GSW,13.73,2,10,16,GSW,PHX,foul,2,False,False,Carter S.FOUL (P2.T2) (N.Buchert),,46-30,46,30
+0021900894,2020-02-29,PHX,GSW,13.73,2,10,16,GSW,GSW,ft_make,10,False,False,,Wiggins Free Throw 1 of 1 (8 PTS),46-31,46,31
+0021900894,2020-02-29,PHX,GSW,13.92,2,10,5,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 26' 3PT Jump Shot,,46-31,46,31
+0021900894,2020-02-29,PHX,GSW,13.97,2,10,2,GSW,GSW,reb,0,False,False,,Mulder REBOUND (Off:1 Def:1),46-31,46,31
+0021900894,2020-02-29,PHX,GSW,14.2,2,9,48,GSW,GSW,fg_make,108,False,False,,Paschall Cutting Dunk Shot (6 PTS) (Toscano-Anderson 2 AST),46-33,46,33
+0021900894,2020-02-29,PHX,GSW,14.38,2,9,37,PHX,PHX,fg_miss,102,False,False,MISS Carter 2' Driving Floating Bank Jump Shot,,46-33,46,33
+0021900894,2020-02-29,PHX,GSW,14.43,2,9,34,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:1 Def:0),,46-33,46,33
+0021900894,2020-02-29,PHX,GSW,14.57,2,9,26,PHX,GSW,violation,5,False,False,,Wiggins Violation:Kicked Ball (J.Orr),46-33,46,33
+0021900894,2020-02-29,PHX,GSW,14.75,2,9,15,PHX,PHX,fg_miss,6,False,False,MISS Carter 4' Driving Layup,,46-33,46,33
+0021900894,2020-02-29,PHX,GSW,14.78,2,9,13,GSW,GSW,reb,0,False,False,,Mulder REBOUND (Off:1 Def:2),46-33,46,33
+0021900894,2020-02-29,PHX,GSW,14.9,2,9,6,GSW,GSW,tov,45,False,False,,Bender Out of Bounds - Bad Pass Turnover Turnover (P2.T5),46-33,46,33
+0021900894,2020-02-29,PHX,GSW,15.27,2,8,44,PHX,GSW,foul,2,False,False,,Bender S.FOUL (P2.T1) (M.Ayotte),46-33,46,33
+0021900894,2020-02-29,PHX,GSW,15.27,2,8,44,PHX,PHX,ft_make,11,False,False,Ayton Free Throw 1 of 2 (7 PTS),,47-33,47,33
+0021900894,2020-02-29,PHX,GSW,15.27,2,8,44,PHX,PHX,ft_make,12,False,False,Ayton Free Throw 2 of 2 (8 PTS),,48-33,48,33
+0021900894,2020-02-29,PHX,GSW,15.48,2,8,31,GSW,PHX,foul,17,False,False,SUNS T.Foul (Def. 3 Sec Ayton ) (J.Orr),,48-33,48,33
+0021900894,2020-02-29,PHX,GSW,15.48,2,8,31,GSW,GSW,ft_make,16,False,False,,Mulder Free Throw Technical (1 PTS),48-34,48,34
+0021900894,2020-02-29,PHX,GSW,15.55,2,8,27,GSW,GSW,fg_make,108,False,False,,Paschall 1' Cutting Dunk Shot (8 PTS) (Bender 3 AST),48-36,48,36
+0021900894,2020-02-29,PHX,GSW,15.72,2,8,17,PHX,GSW,foul,2,False,False,,Toscano-Anderson S.FOUL (P1.T2) (N.Buchert),48-36,48,36
+0021900894,2020-02-29,PHX,GSW,15.72,2,8,17,PHX,PHX,ft_make,11,False,False,Ayton Free Throw 1 of 2 (9 PTS),,49-36,49,36
+0021900894,2020-02-29,PHX,GSW,15.72,2,8,17,PHX,PHX,ft_miss,12,False,False,MISS Ayton Free Throw 2 of 2,,49-36,49,36
+0021900894,2020-02-29,PHX,GSW,15.75,2,8,15,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:0 Def:2),49-36,49,36
+0021900894,2020-02-29,PHX,GSW,15.85,2,8,9,GSW,PHX,foul,1,False,False,Carter P.FOUL (P3.T3) (J.Orr),,49-36,49,36
+0021900894,2020-02-29,PHX,GSW,15.85,2,8,9,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.1 Short 0),49-36,49,36
+0021900894,2020-02-29,PHX,GSW,15.95,2,8,3,GSW,GSW,fg_make,98,False,False,,Lee Cutting Layup Shot (9 PTS) (Paschall 1 AST),49-38,49,38
+0021900894,2020-02-29,PHX,GSW,16.28,2,7,43,PHX,PHX,fg_make,47,False,False,Ayton 12' Turnaround Jump Shot (11 PTS) (Rubio 4 AST),,51-38,51,38
+0021900894,2020-02-29,PHX,GSW,16.6,2,7,24,GSW,GSW,fg3_make,1,False,False,,Bender 24' 3PT Jump Shot (8 PTS) (Paschall 2 AST),51-41,51,41
+0021900894,2020-02-29,PHX,GSW,16.93,2,7,4,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 26' 3PT Jump Shot,,51-41,51,41
+0021900894,2020-02-29,PHX,GSW,16.98,2,7,1,PHX,PHX,reb,0,False,False,Rubio REBOUND (Off:1 Def:0),,51-41,51,41
+0021900894,2020-02-29,PHX,GSW,17.13,2,6,52,PHX,PHX,fg_make,6,False,False,Saric 1' Driving Layup (6 PTS) (Bridges 2 AST),,53-41,53,41
+0021900894,2020-02-29,PHX,GSW,17.35,2,6,39,GSW,GSW,fg_make,79,False,False,,Paschall 20' Pullup Jump Shot (10 PTS) (Lee 4 AST),53-43,53,43
+0021900894,2020-02-29,PHX,GSW,17.68,2,6,19,PHX,PHX,fg_miss,5,True,False,MISS Ayton 2' Layup,,53-43,53,43
+0021900894,2020-02-29,PHX,GSW,17.68,2,6,19,PHX,GSW,block,5,True,False,block,block,53-43,53,43
+0021900894,2020-02-29,PHX,GSW,17.72,2,6,17,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:0 Def:3),53-43,53,43
+0021900894,2020-02-29,PHX,GSW,17.75,2,6,15,GSW,PHX,foul,2,False,False,Booker S.FOUL (P1.T4) (M.Ayotte),,53-43,53,43
+0021900894,2020-02-29,PHX,GSW,17.75,2,6,15,GSW,GSW,ft_miss,11,False,False,,MISS Paschall Free Throw 1 of 2,53-43,53,43
+0021900894,2020-02-29,PHX,GSW,17.75,2,6,15,GSW,GSW,reb,1,False,False,,Warriors Rebound,53-43,53,43
+0021900894,2020-02-29,PHX,GSW,17.75,2,6,15,GSW,GSW,ft_make,12,False,False,,Paschall Free Throw 2 of 2 (11 PTS),53-44,53,44
+0021900894,2020-02-29,PHX,GSW,17.98,2,6,1,PHX,PHX,fg_miss,86,False,False,MISS Booker 14' Turnaround Fadeaway Shot,,53-44,53,44
+0021900894,2020-02-29,PHX,GSW,18.02,2,5,59,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:0 Def:3),53-44,53,44
+0021900894,2020-02-29,PHX,GSW,18.13,2,5,52,GSW,GSW,fg_make,6,False,False,,Mulder Driving Layup (3 PTS) (Lee 5 AST),53-46,53,46
+0021900894,2020-02-29,PHX,GSW,18.28,2,5,43,PHX,PHX,fg_miss,6,False,False,MISS Rubio 1' Driving Layup,,53-46,53,46
+0021900894,2020-02-29,PHX,GSW,18.33,2,5,40,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:0 Def:4),53-46,53,46
+0021900894,2020-02-29,PHX,GSW,18.48,2,5,31,GSW,GSW,fg_make,9,False,False,,Paschall Driving Dunk (13 PTS) (Bender 4 AST),53-48,53,48
+0021900894,2020-02-29,PHX,GSW,18.48,2,5,31,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 3 Short 0),,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,18.82,2,5,11,PHX,PHX,fg3_miss,1,False,False,MISS Saric 26' 3PT Jump Shot,,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,18.87,2,5,8,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:0 Def:5),53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.12,2,4,53,GSW,GSW,tov,45,False,False,,Chriss Out of Bounds - Bad Pass Turnover Turnover (P1.T6),53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.38,2,4,37,PHX,GSW,foul,1,False,False,,Paschall P.FOUL (P2.T3) (N.Buchert),53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.58,2,4,25,PHX,PHX,fg_miss,58,False,False,MISS Ayton 7' Turnaround Hook Shot,,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.6,2,4,24,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:0 Def:4),53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.83,2,4,10,GSW,GSW,fg_miss,98,False,False,,MISS Bender 1' Cutting Layup Shot,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.87,2,4,8,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:0 Def:3),,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.95,2,4,3,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 3PT Jump Shot,,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.98,2,4,1,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:1 Def:3),,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.98,2,4,1,PHX,GSW,foul,2,False,False,,Chriss S.FOUL (P3.T4) (M.Ayotte),53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.98,2,4,1,PHX,PHX,ft_miss,11,False,False,MISS Saric Free Throw 1 of 2,,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.98,2,4,1,PHX,PHX,reb,1,False,False,SUNS Rebound,,53-48,53,48
+0021900894,2020-02-29,PHX,GSW,19.98,2,4,1,PHX,PHX,ft_make,12,False,False,Saric Free Throw 2 of 2 (7 PTS),,54-48,54,48
+0021900894,2020-02-29,PHX,GSW,20.23,2,3,46,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 26' 3PT Jump Shot,54-48,54,48
+0021900894,2020-02-29,PHX,GSW,20.32,2,3,41,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:1 Def:0),54-48,54,48
+0021900894,2020-02-29,PHX,GSW,20.32,2,3,41,GSW,GSW,fg_make,97,False,False,,Toscano-Anderson 1' Tip Layup Shot (2 PTS),54-50,54,50
+0021900894,2020-02-29,PHX,GSW,20.55,2,3,27,PHX,PHX,fg_miss,44,False,False,MISS Booker 1' Reverse Layup,,54-50,54,50
+0021900894,2020-02-29,PHX,GSW,20.57,2,3,26,PHX,PHX,reb,0,False,False,SUNS Rebound,,54-50,54,50
+0021900894,2020-02-29,PHX,GSW,20.57,2,3,26,PHX,GSW,foul,3,False,False,,Toscano-Anderson L.B.FOUL (P2.PN) (J.Orr),54-50,54,50
+0021900894,2020-02-29,PHX,GSW,20.57,2,3,26,PHX,PHX,ft_make,11,False,False,Saric Free Throw 1 of 2 (8 PTS),,55-50,55,50
+0021900894,2020-02-29,PHX,GSW,20.57,2,3,26,PHX,PHX,ft_make,12,False,False,Saric Free Throw 2 of 2 (9 PTS),,56-50,56,50
+0021900894,2020-02-29,PHX,GSW,20.78,2,3,13,GSW,GSW,fg3_make,1,False,False,,Mulder 25' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),56-53,56,53
+0021900894,2020-02-29,PHX,GSW,21.18,2,2,49,PHX,PHX,fg3_make,1,False,False,Johnson 27' 3PT Jump Shot (5 PTS) (Saric 3 AST),,59-53,59,53
+0021900894,2020-02-29,PHX,GSW,21.47,2,2,32,GSW,GSW,fg_make,73,False,False,,Looney 1' Driving Reverse Layup (6 PTS) (Lee 6 AST),59-55,59,55
+0021900894,2020-02-29,PHX,GSW,21.7,2,2,18,PHX,PHX,fg_miss,6,False,False,MISS Rubio 1' Driving Layup,,59-55,59,55
+0021900894,2020-02-29,PHX,GSW,21.7,2,2,18,PHX,PHX,reb,0,False,False,SUNS Rebound,,59-55,59,55
+0021900894,2020-02-29,PHX,GSW,21.83,2,2,10,PHX,PHX,fg_miss,102,False,False,MISS Ayton 4' Driving Floating Bank Jump Shot,,59-55,59,55
+0021900894,2020-02-29,PHX,GSW,21.87,2,2,8,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:1),59-55,59,55
+0021900894,2020-02-29,PHX,GSW,22.05,2,1,57,GSW,PHX,foul,2,False,False,Rubio S.FOUL (P1.PN) (M.Ayotte),,59-55,59,55
+0021900894,2020-02-29,PHX,GSW,22.05,2,1,57,GSW,GSW,ft_make,11,False,False,,Lee Free Throw 1 of 2 (10 PTS),59-56,59,56
+0021900894,2020-02-29,PHX,GSW,22.05,2,1,57,GSW,GSW,ft_make,12,False,False,,Lee Free Throw 2 of 2 (11 PTS),59-57,59,57
+0021900894,2020-02-29,PHX,GSW,22.23,2,1,46,PHX,PHX,fg_miss,6,False,False,MISS Booker 1' Driving Layup,,59-57,59,57
+0021900894,2020-02-29,PHX,GSW,22.25,2,1,45,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:2),,59-57,59,57
+0021900894,2020-02-29,PHX,GSW,22.27,2,1,44,PHX,PHX,fg_make,72,False,False,Ayton 2' Putback Layup (13 PTS),,61-57,61,57
+0021900894,2020-02-29,PHX,GSW,22.48,2,1,31,GSW,GSW,fg_make,79,False,False,,Paschall 17' Pullup Jump Shot (15 PTS),61-59,61,59
+0021900894,2020-02-29,PHX,GSW,22.95,2,1,3,PHX,PHX,fg_miss,47,False,False,MISS Ayton 9' Turnaround Jump Shot,,61-59,61,59
+0021900894,2020-02-29,PHX,GSW,22.98,2,1,1,GSW,GSW,reb,0,False,False,,Mulder REBOUND (Off:1 Def:3),61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.13,2,0,52,GSW,GSW,fg_miss,80,False,False,,MISS Wiggins 18' Step Back Jump Shot,61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.17,2,0,50,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.5,2,0,30,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 25' 3PT Jump Shot,,61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.52,2,0,29,PHX,PHX,reb,0,False,False,SUNS Rebound,,61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.52,2,0,29,PHX,GSW,foul,3,False,False,,Mulder L.B.FOUL (P1.PN) (N.Buchert),61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.52,2,0,29,PHX,PHX,ft_miss,11,False,False,MISS Johnson Free Throw 1 of 2,,61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.52,2,0,29,PHX,PHX,reb,1,False,False,SUNS Rebound,,61-59,61,59
+0021900894,2020-02-29,PHX,GSW,23.52,2,0,29,PHX,PHX,ft_make,12,False,False,Johnson Free Throw 2 of 2 (6 PTS),,62-59,62,59
+0021900894,2020-02-29,PHX,GSW,23.92,2,0,5,GSW,GSW,fg_make,102,False,False,,Lee 10' Driving Floating Bank Jump Shot (13 PTS) (Wiggins 2 AST),62-61,62,61
+0021900894,2020-02-29,PHX,GSW,24.0,2,0,0,PHX,PHX,fg3_make,103,False,False,Booker 33' 3PT Running Pull-Up Jump Shot (8 PTS),,65-61,65,61
+0021900894,2020-02-29,PHX,GSW,24.0,2,0,0,PHX,,period_end,0,False,False,,,65-61,65,61
+0021900894,2020-02-29,PHX,GSW,24.0,3,12,0,PHX,,period_start,0,False,False,,,65-61,65,61
+0021900894,2020-02-29,PHX,GSW,24.25,3,11,45,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 26' 3PT Jump Shot,65-61,65,61
+0021900894,2020-02-29,PHX,GSW,24.32,3,11,41,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:1),65-61,65,61
+0021900894,2020-02-29,PHX,GSW,24.35,3,11,39,GSW,GSW,fg3_make,1,False,False,,Lee 26' 3PT Jump Shot (16 PTS) (Wiggins 3 AST),65-64,65,64
+0021900894,2020-02-29,PHX,GSW,24.72,3,11,17,PHX,PHX,fg_make,47,False,False,Booker 11' Turnaround Jump Shot (10 PTS),,67-64,67,64
+0021900894,2020-02-29,PHX,GSW,24.92,3,11,5,GSW,GSW,fg_make,9,False,False,,Wiggins 1' Driving Dunk (10 PTS) (Chriss 2 AST),67-66,67,66
+0021900894,2020-02-29,PHX,GSW,25.12,3,10,53,PHX,PHX,fg3_miss,1,False,False,MISS Rubio 3PT Jump Shot,,67-66,67,66
+0021900894,2020-02-29,PHX,GSW,25.17,3,10,50,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:1 Def:1),67-66,67,66
+0021900894,2020-02-29,PHX,GSW,25.3,3,10,42,GSW,GSW,fg_make,44,False,False,,Toscano-Anderson 1' Reverse Layup (4 PTS) (Wiggins 4 AST),67-68,67,68
+0021900894,2020-02-29,PHX,GSW,25.43,3,10,34,PHX,PHX,tov,4,False,False,Ayton Traveling Turnover (P1.T4),,67-68,67,68
+0021900894,2020-02-29,PHX,GSW,25.7,3,10,18,GSW,GSW,fg3_miss,1,False,False,,MISS Toscano-Anderson 26' 3PT Jump Shot,67-68,67,68
+0021900894,2020-02-29,PHX,GSW,25.77,3,10,14,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:1 Def:1),,67-68,67,68
+0021900894,2020-02-29,PHX,GSW,25.85,3,10,9,PHX,PHX,fg3_make,1,False,False,Booker 27' 3PT Jump Shot (13 PTS) (Bridges 3 AST),,70-68,70,68
+0021900894,2020-02-29,PHX,GSW,26.07,3,9,56,GSW,GSW,fg_miss,6,False,False,,MISS Wiggins 2' Driving Layup,70-68,70,68
+0021900894,2020-02-29,PHX,GSW,26.1,3,9,54,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:1),70-68,70,68
+0021900894,2020-02-29,PHX,GSW,26.13,3,9,52,GSW,GSW,fg_make,72,False,False,,Wiggins 1' Putback Layup (12 PTS),70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.45,3,9,33,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 25' 3PT Jump Shot,,70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.5,3,9,30,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:1 Def:2),70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.65,3,9,21,GSW,GSW,fg_miss,41,True,False,,MISS Toscano-Anderson 1' Running Layup,70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.65,3,9,21,GSW,PHX,block,41,True,False,block,block,70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.7,3,9,18,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:2 Def:2),70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.72,3,9,17,GSW,GSW,tov,2,False,True,,Toscano-Anderson Lost Ball Turnover (P2.T7),70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.72,3,9,17,GSW,PHX,steal,2,False,True,steal,steal,70-70,70,70
+0021900894,2020-02-29,PHX,GSW,26.8,3,9,12,PHX,PHX,fg_make,98,False,False,Saric 1' Cutting Layup Shot (11 PTS) (Rubio 5 AST),,72-70,72,70
+0021900894,2020-02-29,PHX,GSW,27.15,3,8,51,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 28' 3PT Jump Shot,72-70,72,70
+0021900894,2020-02-29,PHX,GSW,27.2,3,8,48,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:1 Def:4),,72-70,72,70
+0021900894,2020-02-29,PHX,GSW,27.35,3,8,39,PHX,PHX,tov,1,False,True,Booker Bad Pass Turnover (P3.T5),,72-70,72,70
+0021900894,2020-02-29,PHX,GSW,27.35,3,8,39,PHX,GSW,steal,1,False,True,steal,steal,72-70,72,70
+0021900894,2020-02-29,PHX,GSW,27.43,3,8,34,GSW,PHX,foul,2,False,False,Booker S.FOUL (P2.T1) (J.Orr),,72-70,72,70
+0021900894,2020-02-29,PHX,GSW,27.43,3,8,34,GSW,GSW,ft_make,11,False,False,,Chriss Free Throw 1 of 2 (4 PTS),72-71,72,71
+0021900894,2020-02-29,PHX,GSW,27.43,3,8,34,GSW,GSW,ft_make,12,False,False,,Chriss Free Throw 2 of 2 (5 PTS),72-72,72,72
+0021900894,2020-02-29,PHX,GSW,27.53,3,8,28,PHX,PHX,tov,39,False,False,Rubio Step Out of Bounds Turnover (P1.T6),,72-72,72,72
+0021900894,2020-02-29,PHX,GSW,27.82,3,8,11,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 25' 3PT Jump Shot,72-72,72,72
+0021900894,2020-02-29,PHX,GSW,27.88,3,8,7,PHX,PHX,reb,0,False,False,Rubio REBOUND (Off:1 Def:1),,72-72,72,72
+0021900894,2020-02-29,PHX,GSW,28.22,3,7,47,PHX,GSW,foul,3,False,False,,Toscano-Anderson L.B.FOUL (P3.T1) (M.Ayotte),72-72,72,72
+0021900894,2020-02-29,PHX,GSW,28.22,3,7,47,PHX,PHX,fg_miss,6,False,False,MISS Booker 1' Driving Layup,,72-72,72,72
+0021900894,2020-02-29,PHX,GSW,28.22,3,7,47,PHX,PHX,reb,0,False,False,SUNS Rebound,,72-72,72,72
+0021900894,2020-02-29,PHX,GSW,28.38,3,7,37,PHX,PHX,fg_miss,73,False,False,MISS Ayton 1' Driving Reverse Layup,,72-72,72,72
+0021900894,2020-02-29,PHX,GSW,28.42,3,7,35,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:2),72-72,72,72
+0021900894,2020-02-29,PHX,GSW,28.65,3,7,21,PHX,GSW,foul,11,False,False,,Chriss T.FOUL (P3.T1) (J.Orr),72-72,72,72
+0021900894,2020-02-29,PHX,GSW,28.65,3,7,21,PHX,PHX,ft_make,16,False,False,Booker Free Throw Technical (14 PTS),,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.72,3,7,17,GSW,GSW,fg_miss,1,True,False,,MISS Wiggins 20' Jump Shot,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.72,3,7,17,GSW,PHX,block,1,True,False,block,block,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.77,3,7,14,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:4),73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.8,3,7,12,GSW,GSW,fg_miss,72,True,False,,MISS Chriss 3' Putback Layup,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.8,3,7,12,GSW,PHX,block,72,True,False,block,block,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.8,3,7,12,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:1 Def:5),,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.88,3,7,7,PHX,PHX,tov,1,False,True,Rubio Bad Pass Turnover (P2.T7),,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,28.88,3,7,7,PHX,GSW,steal,1,False,True,steal,steal,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,29.0,3,7,0,GSW,PHX,foul,1,False,False,Saric P.FOUL (P2.T2) (N.Buchert),,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,29.18,3,6,49,GSW,GSW,fg_miss,6,False,False,,MISS Lee 2' Driving Layup,73-72,73,72
+0021900894,2020-02-29,PHX,GSW,29.27,3,6,44,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:1 Def:5),73-74,73,74
+0021900894,2020-02-29,PHX,GSW,29.27,3,6,44,GSW,GSW,fg_make,97,False,False,,Bender 1' Tip Layup Shot (10 PTS),73-74,73,74
+0021900894,2020-02-29,PHX,GSW,29.35,3,6,39,PHX,PHX,fg_make,106,False,False,Ayton 1' Running Alley Oop Dunk Shot (15 PTS) (Rubio 6 AST),,75-74,75,74
+0021900894,2020-02-29,PHX,GSW,29.35,3,6,39,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),75-74,75,74
+0021900894,2020-02-29,PHX,GSW,29.6,3,6,24,GSW,GSW,fg_miss,5,False,False,,MISS Chriss 1' Layup,75-74,75,74
+0021900894,2020-02-29,PHX,GSW,29.62,3,6,23,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:3),,75-74,75,74
+0021900894,2020-02-29,PHX,GSW,29.83,3,6,10,PHX,PHX,fg_miss,6,True,False,MISS Saric 3' Driving Layup,,75-74,75,74
+0021900894,2020-02-29,PHX,GSW,29.83,3,6,10,PHX,GSW,block,6,True,False,block,block,75-74,75,74
+0021900894,2020-02-29,PHX,GSW,29.83,3,6,10,PHX,PHX,reb,0,False,False,SUNS Rebound,,75-74,75,74
+0021900894,2020-02-29,PHX,GSW,29.87,3,6,8,PHX,PHX,fg3_make,1,False,False,Booker 27' 3PT Jump Shot (17 PTS) (Rubio 7 AST),,78-74,78,74
+0021900894,2020-02-29,PHX,GSW,30.12,3,5,53,GSW,GSW,fg3_make,1,False,False,,Paschall 25' 3PT Jump Shot (18 PTS) (Lee 7 AST),78-77,78,77
+0021900894,2020-02-29,PHX,GSW,30.33,3,5,40,GSW,PHX,foul,4,False,False,Booker OFF.Foul (P3) (N.Buchert),,78-77,78,77
+0021900894,2020-02-29,PHX,GSW,30.33,3,5,40,PHX,PHX,tov,37,False,False,Booker Offensive Foul Turnover (P4.T8),,78-77,78,77
+0021900894,2020-02-29,PHX,GSW,30.55,3,5,27,GSW,PHX,foul,2,False,False,Johnson S.FOUL (P1.T3) (M.Ayotte),,78-77,78,77
+0021900894,2020-02-29,PHX,GSW,30.55,3,5,27,GSW,GSW,ft_make,11,False,False,,Paschall Free Throw 1 of 2 (19 PTS),78-78,78,78
+0021900894,2020-02-29,PHX,GSW,30.55,3,5,27,GSW,GSW,ft_miss,12,False,False,,MISS Paschall Free Throw 2 of 2,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,30.58,3,5,25,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:2 Def:5),78-78,78,78
+0021900894,2020-02-29,PHX,GSW,30.77,3,5,14,GSW,GSW,fg3_miss,1,False,False,,MISS Toscano-Anderson 25' 3PT Jump Shot,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,30.82,3,5,11,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:3),,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.13,3,4,52,PHX,PHX,fg_miss,3,False,False,MISS Ayton 5' Hook Shot,,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.17,3,4,50,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:3),78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.25,3,4,45,GSW,GSW,fg_miss,6,False,False,,MISS Wiggins 2' Driving Layup,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.28,3,4,43,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:4),,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.33,3,4,40,PHX,PHX,fg3_miss,2,False,False,MISS Bridges 25' 3PT Running Jump Shot,,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.42,3,4,35,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:4),78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.55,3,4,27,GSW,GSW,fg_miss,41,False,False,,MISS Bender 1' Running Layup,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.6,3,4,24,PHX,PHX,reb,0,False,False,Okobo REBOUND (Off:0 Def:5),,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.8,3,4,12,PHX,PHX,fg_miss,1,False,False,MISS Booker 20' Jump Shot,,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.83,3,4,10,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:2),78-78,78,78
+0021900894,2020-02-29,PHX,GSW,31.98,3,4,1,GSW,GSW,fg3_miss,1,False,False,,MISS Bender 25' 3PT Jump Shot,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.02,3,3,59,PHX,PHX,reb,0,False,False,SUNS Rebound,,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.15,3,3,51,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 25' 3PT Jump Shot,,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.25,3,3,45,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:0 Def:4),78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.35,3,3,39,GSW,GSW,fg_miss,98,False,False,,MISS Mulder 1' Cutting Layup Shot,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.37,3,3,38,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:0 Def:2),,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.48,3,3,31,PHX,PHX,fg_miss,80,False,False,MISS Johnson 17' Step Back Jump Shot,,78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.55,3,3,27,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:3),78-78,78,78
+0021900894,2020-02-29,PHX,GSW,32.75,3,3,15,GSW,GSW,fg3_make,1,False,False,,Bender 25' 3PT Jump Shot (13 PTS) (Looney 2 AST),78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.07,3,2,56,PHX,PHX,tov,1,False,True,Booker Bad Pass Turnover (P5.T9),,78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.07,3,2,56,PHX,GSW,steal,1,False,True,steal,steal,78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.12,3,2,53,GSW,GSW,fg_miss,41,False,False,,MISS Lee Running Layup,78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.15,3,2,51,PHX,PHX,reb,0,False,False,Okobo REBOUND (Off:0 Def:6),,78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.23,3,2,46,PHX,PHX,fg_miss,41,True,False,MISS Okobo 2' Running Layup,,78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.23,3,2,46,PHX,GSW,block,41,True,False,block,block,78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.3,3,2,42,GSW,GSW,reb,0,False,False,,Mulder REBOUND (Off:1 Def:4),78-81,78,81
+0021900894,2020-02-29,PHX,GSW,33.33,3,2,40,GSW,GSW,fg3_make,2,False,False,,Mulder 26' 3PT Running Jump Shot (9 PTS) (Lee 8 AST),78-84,78,84
+0021900894,2020-02-29,PHX,GSW,33.33,3,2,40,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 4 Short 0),,78-84,78,84
+0021900894,2020-02-29,PHX,GSW,33.58,3,2,25,PHX,PHX,fg3_miss,1,False,False,MISS Carter 25' 3PT Jump Shot,,78-84,78,84
+0021900894,2020-02-29,PHX,GSW,33.63,3,2,22,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:0 Def:1),78-84,78,84
+0021900894,2020-02-29,PHX,GSW,33.93,3,2,4,GSW,GSW,fg_miss,5,True,False,,MISS Paschall 2' Layup,78-84,78,84
+0021900894,2020-02-29,PHX,GSW,33.93,3,2,4,GSW,PHX,block,5,True,False,block,block,78-84,78,84
+0021900894,2020-02-29,PHX,GSW,33.93,3,2,4,GSW,GSW,reb,0,False,False,,Warriors Rebound,78-84,78,84
+0021900894,2020-02-29,PHX,GSW,34.02,3,1,59,GSW,GSW,fg_make,1,False,False,,Mulder 20' Jump Shot (11 PTS) (Looney 3 AST),78-86,78,86
+0021900894,2020-02-29,PHX,GSW,34.38,3,1,37,PHX,PHX,tov,2,False,True,Baynes Lost Ball Turnover (P2.T10),,78-86,78,86
+0021900894,2020-02-29,PHX,GSW,34.38,3,1,37,PHX,GSW,steal,2,False,True,steal,steal,78-86,78,86
+0021900894,2020-02-29,PHX,GSW,34.47,3,1,32,GSW,GSW,fg3_miss,2,False,False,,MISS Wiggins 25' 3PT Running Jump Shot,78-86,78,86
+0021900894,2020-02-29,PHX,GSW,34.55,3,1,27,GSW,GSW,reb,0,False,False,,Mulder REBOUND (Off:2 Def:4),78-86,78,86
+0021900894,2020-02-29,PHX,GSW,34.65,3,1,21,GSW,GSW,fg_make,5,False,False,,Looney 1' Layup (8 PTS),78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.03,3,0,58,PHX,PHX,fg_miss,1,False,False,MISS Okobo 15' Jump Shot,,78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.05,3,0,57,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:1 Def:2),,78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.08,3,0,55,PHX,PHX,fg_miss,72,True,False,MISS Baynes 1' Putback Layup,,78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.08,3,0,55,PHX,GSW,block,72,True,False,block,block,78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.13,3,0,52,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:2 Def:2),,78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.17,3,0,50,PHX,PHX,fg_miss,72,False,False,MISS Baynes 3' Putback Layup,,78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.22,3,0,47,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:4),78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.43,3,0,34,GSW,PHX,foul,1,False,False,Baynes P.FOUL (P3.T4) (N.Buchert),,78-88,78,88
+0021900894,2020-02-29,PHX,GSW,35.63,3,0,22,GSW,GSW,fg_make,6,False,False,,Looney 1' Driving Layup (10 PTS),78-90,78,90
+0021900894,2020-02-29,PHX,GSW,35.9,3,0,6,PHX,PHX,fg_make,6,False,False,Okobo 2' Driving Layup (9 PTS),,80-90,80,90
+0021900894,2020-02-29,PHX,GSW,35.9,3,0,6,PHX,GSW,foul,2,False,False,,Looney S.FOUL (P1.T2) (M.Ayotte),80-90,80,90
+0021900894,2020-02-29,PHX,GSW,35.9,3,0,6,PHX,PHX,ft_make,10,False,False,Okobo Free Throw 1 of 1 (10 PTS),,81-90,81,90
+0021900894,2020-02-29,PHX,GSW,35.9,3,0,6,GSW,GSW,tov,45,False,False,,Bender Out of Bounds - Bad Pass Turnover Turnover (P3.T8),81-90,81,90
+0021900894,2020-02-29,PHX,GSW,35.9,3,0,6,PHX,PHX,tov,13,False,False,Okobo Backcourt Turnover (P1.T11),,81-90,81,90
+0021900894,2020-02-29,PHX,GSW,36.0,3,0,0,GSW,GSW,fg_make,102,False,False,,Paschall 10' Driving Floating Bank Jump Shot (21 PTS),81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.22,4,11,47,PHX,PHX,tov,1,False,True,Rubio Bad Pass Turnover (P3.T12),,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.22,4,11,47,PHX,GSW,steal,1,False,True,steal,steal,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.55,4,11,27,GSW,GSW,fg_miss,80,False,False,,MISS Paschall 17' Step Back Jump Shot,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.58,4,11,25,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:5),,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.65,4,11,21,PHX,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P4.T1) (N.Buchert),81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.75,4,11,15,PHX,PHX,tov,40,False,False,Rubio Out of Bounds Lost Ball Turnover (P4.T13),,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,36.95,4,11,3,GSW,PHX,foul,1,False,False,Rubio P.FOUL (P2.T1) (M.Ayotte),,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.02,4,10,59,GSW,GSW,fg3_miss,1,False,False,,MISS Mulder 26' 3PT Jump Shot,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.03,4,10,58,PHX,PHX,reb,0,False,False,SUNS Rebound,,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.18,4,10,49,PHX,PHX,tov,4,False,False,Booker Traveling Turnover (P6.T14),,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.35,4,10,39,PHX,GSW,foul,4,False,False,,Paschall OFF.Foul (P3) (J.Orr),81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.35,4,10,39,GSW,GSW,tov,37,False,False,,Paschall Offensive Foul Turnover (P1.T9),81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.68,4,10,19,PHX,PHX,fg3_miss,79,False,False,MISS Booker 26' 3PT Pullup Jump Shot,,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.73,4,10,16,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:0 Def:2),81-92,81,92
+0021900894,2020-02-29,PHX,GSW,37.97,4,10,2,GSW,GSW,fg3_miss,1,False,False,,MISS Bender 24' 3PT Jump Shot,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,38.03,4,9,58,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:4),,81-92,81,92
+0021900894,2020-02-29,PHX,GSW,38.12,4,9,53,PHX,PHX,fg_make,74,False,False,Rubio Running Reverse Layup (6 PTS),,83-92,83,92
+0021900894,2020-02-29,PHX,GSW,38.35,4,9,39,GSW,GSW,fg_miss,79,False,False,,MISS Wiggins 23' Pullup Jump Shot,83-92,83,92
+0021900894,2020-02-29,PHX,GSW,38.4,4,9,36,PHX,PHX,reb,0,False,False,Rubio REBOUND (Off:1 Def:2),,83-92,83,92
+0021900894,2020-02-29,PHX,GSW,38.5,4,9,30,PHX,PHX,fg_make,41,False,False,Ayton 2' Running Layup (17 PTS) (Rubio 8 AST),,85-92,85,92
+0021900894,2020-02-29,PHX,GSW,38.5,4,9,30,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.3 Short 0),85-92,85,92
+0021900894,2020-02-29,PHX,GSW,38.77,4,9,14,GSW,GSW,fg_make,98,False,False,,Chriss 1' Cutting Layup Shot (7 PTS) (Paschall 3 AST),85-94,85,94
+0021900894,2020-02-29,PHX,GSW,38.87,4,9,8,PHX,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P5.T2) (N.Buchert),85-94,85,94
+0021900894,2020-02-29,PHX,GSW,39.1,4,8,54,PHX,PHX,fg_miss,79,False,False,MISS Booker 16' Pullup Jump Shot,,85-94,85,94
+0021900894,2020-02-29,PHX,GSW,39.15,4,8,51,PHX,PHX,reb,0,False,False,SUNS Rebound,,85-94,85,94
+0021900894,2020-02-29,PHX,GSW,39.23,4,8,46,PHX,PHX,fg_make,47,False,False,Ayton 2' Turnaround Jump Shot (19 PTS),,87-94,87,94
+0021900894,2020-02-29,PHX,GSW,39.23,4,8,46,PHX,GSW,foul,2,False,False,,Chriss S.FOUL (P4.T3) (M.Ayotte),87-94,87,94
+0021900894,2020-02-29,PHX,GSW,39.23,4,8,46,PHX,PHX,ft_make,10,False,False,Ayton Free Throw 1 of 1 (20 PTS),,88-94,88,94
+0021900894,2020-02-29,PHX,GSW,39.45,4,8,33,GSW,PHX,foul,2,False,False,Bridges S.FOUL (P2.T2) (M.Ayotte),,88-94,88,94
+0021900894,2020-02-29,PHX,GSW,39.45,4,8,33,GSW,GSW,ft_miss,11,False,False,,MISS Toscano-Anderson Free Throw 1 of 2,88-94,88,94
+0021900894,2020-02-29,PHX,GSW,39.45,4,8,33,GSW,GSW,reb,1,False,False,,Warriors Rebound,88-94,88,94
+0021900894,2020-02-29,PHX,GSW,39.45,4,8,33,GSW,GSW,ft_make,12,False,False,,Toscano-Anderson Free Throw 2 of 2 (5 PTS),88-95,88,95
+0021900894,2020-02-29,PHX,GSW,39.65,4,8,21,PHX,PHX,tov,2,False,True,Rubio Lost Ball Turnover (P5.T15),,88-95,88,95
+0021900894,2020-02-29,PHX,GSW,39.65,4,8,21,PHX,GSW,steal,2,False,True,steal,steal,88-95,88,95
+0021900894,2020-02-29,PHX,GSW,39.75,4,8,15,GSW,GSW,fg_make,50,False,False,,Paschall Running Dunk (23 PTS) (Toscano-Anderson 3 AST),88-97,88,97
+0021900894,2020-02-29,PHX,GSW,40.17,4,7,50,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 25' 3PT Jump Shot,,88-97,88,97
+0021900894,2020-02-29,PHX,GSW,40.17,4,7,50,PHX,PHX,reb,0,False,False,SUNS Rebound,,88-97,88,97
+0021900894,2020-02-29,PHX,GSW,40.17,4,7,50,PHX,PHX,tov,11,False,False,SUNS Turnover: Shot Clock (T#16),,88-97,88,97
+0021900894,2020-02-29,PHX,GSW,40.42,4,7,35,GSW,PHX,foul,2,False,False,Johnson S.FOUL (P2.T3) (N.Buchert),,88-97,88,97
+0021900894,2020-02-29,PHX,GSW,40.42,4,7,35,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 5 Short 0),,88-97,88,97
+0021900894,2020-02-29,PHX,GSW,40.42,4,7,35,PHX,GSW,ft_make,11,False,False,,Paschall Free Throw 1 of 2 (24 PTS),88-98,88,98
+0021900894,2020-02-29,PHX,GSW,40.42,4,7,35,PHX,GSW,ft_make,12,False,False,,Paschall Free Throw 2 of 2 (25 PTS),88-99,88,99
+0021900894,2020-02-29,PHX,GSW,40.62,4,7,23,GSW,PHX,foul,4,False,False,Ayton OFF.Foul (P3) (N.Buchert),,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,40.62,4,7,23,PHX,PHX,tov,37,False,False,Ayton Offensive Foul Turnover (P2.T17),,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,40.88,4,7,7,GSW,GSW,fg3_miss,1,False,False,,MISS Mulder 26' 3PT Jump Shot,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,40.95,4,7,3,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:1 Def:2),,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,40.98,4,7,1,PHX,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P6.T4) (M.Ayotte),88-99,88,99
+0021900894,2020-02-29,PHX,GSW,41.35,4,6,39,PHX,PHX,fg_miss,63,False,False,MISS Bridges 20' Fadeaway Jumper,,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,41.42,4,6,35,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:5),88-99,88,99
+0021900894,2020-02-29,PHX,GSW,41.48,4,6,31,GSW,GSW,fg3_miss,2,False,False,,MISS Lee 26' 3PT Running Jump Shot,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,41.48,4,6,31,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:6),,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,41.75,4,6,15,PHX,PHX,fg_miss,58,False,False,MISS Ayton 4' Turnaround Hook Shot,,88-99,88,99
+0021900894,2020-02-29,PHX,GSW,41.77,4,6,14,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:6),88-99,88,99
+0021900894,2020-02-29,PHX,GSW,41.93,4,6,4,GSW,GSW,fg3_make,1,False,False,,Mulder 3PT Jump Shot (14 PTS) (Paschall 4 AST),88-102,88,102
+0021900894,2020-02-29,PHX,GSW,42.27,4,5,44,PHX,GSW,foul,2,False,False,,Mulder S.FOUL (P2.PN) (M.Ayotte),88-102,88,102
+0021900894,2020-02-29,PHX,GSW,42.27,4,5,44,PHX,PHX,ft_make,11,False,False,Booker Free Throw 1 of 2 (18 PTS),,89-102,89,102
+0021900894,2020-02-29,PHX,GSW,42.27,4,5,44,PHX,PHX,ft_make,12,False,False,Booker Free Throw 2 of 2 (19 PTS),,90-102,90,102
+0021900894,2020-02-29,PHX,GSW,42.57,4,5,26,GSW,GSW,fg_miss,102,False,False,,MISS Paschall 2' Driving Floating Bank Jump Shot,90-102,90,102
+0021900894,2020-02-29,PHX,GSW,42.6,4,5,24,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:2),90-102,90,102
+0021900894,2020-02-29,PHX,GSW,42.65,4,5,21,GSW,PHX,foul,2,False,False,Ayton S.FOUL (P4.T4) (M.Ayotte),,90-102,90,102
+0021900894,2020-02-29,PHX,GSW,42.65,4,5,21,GSW,GSW,ft_make,11,False,False,,Lee Free Throw 1 of 2 (17 PTS),90-103,90,103
+0021900894,2020-02-29,PHX,GSW,42.65,4,5,21,GSW,GSW,ft_make,12,False,False,,Lee Free Throw 2 of 2 (18 PTS),90-104,90,104
+0021900894,2020-02-29,PHX,GSW,42.85,4,5,9,PHX,PHX,fg_miss,79,False,False,MISS Booker 11' Pullup Jump Shot,,90-104,90,104
+0021900894,2020-02-29,PHX,GSW,42.9,4,5,6,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:7),90-104,90,104
+0021900894,2020-02-29,PHX,GSW,42.93,4,5,4,GSW,GSW,tov,45,False,False,,Chriss Out of Bounds - Bad Pass Turnover Turnover (P2.T10),90-104,90,104
+0021900894,2020-02-29,PHX,GSW,43.02,4,4,59,PHX,GSW,foul,1,False,False,,Wiggins P.FOUL (P1.PN) (J.Orr),90-104,90,104
+0021900894,2020-02-29,PHX,GSW,43.02,4,4,59,PHX,PHX,ft_make,11,False,False,Okobo Free Throw 1 of 2 (11 PTS),,91-104,91,104
+0021900894,2020-02-29,PHX,GSW,43.02,4,4,59,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),91-104,91,104
+0021900894,2020-02-29,PHX,GSW,43.02,4,4,59,PHX,PHX,ft_miss,12,False,False,MISS Okobo Free Throw 2 of 2,,91-104,91,104
+0021900894,2020-02-29,PHX,GSW,43.1,4,4,54,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:2 Def:5),,91-104,91,104
+0021900894,2020-02-29,PHX,GSW,43.28,4,4,43,PHX,PHX,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (15 PTS) (Okobo 5 AST),,94-104,94,104
+0021900894,2020-02-29,PHX,GSW,43.57,4,4,26,GSW,GSW,fg_make,5,False,False,,Wiggins 1' Layup (14 PTS) (Chriss 3 AST),94-106,94,106
+0021900894,2020-02-29,PHX,GSW,43.93,4,4,4,PHX,PHX,tov,1,False,True,Ayton Bad Pass Turnover (P3.T18),,94-106,94,106
+0021900894,2020-02-29,PHX,GSW,43.93,4,4,4,PHX,GSW,steal,1,False,True,steal,steal,94-106,94,106
+0021900894,2020-02-29,PHX,GSW,44.05,4,3,57,GSW,GSW,fg_make,102,False,False,,Wiggins 3' Driving Floating Bank Jump Shot (16 PTS),94-108,94,108
+0021900894,2020-02-29,PHX,GSW,44.05,4,3,57,GSW,PHX,foul,2,False,False,Ayton S.FOUL (P5.PN) (M.Ayotte),,94-108,94,108
+0021900894,2020-02-29,PHX,GSW,44.05,4,3,57,GSW,GSW,ft_miss,10,False,False,,MISS Wiggins Free Throw 1 of 1,94-108,94,108
+0021900894,2020-02-29,PHX,GSW,44.05,4,3,57,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:7),,94-108,94,108
+0021900894,2020-02-29,PHX,GSW,44.15,4,3,51,PHX,GSW,foul,2,False,False,,Mulder S.FOUL (P3.PN) (N.Buchert),94-108,94,108
+0021900894,2020-02-29,PHX,GSW,44.15,4,3,51,PHX,PHX,ft_make,11,False,False,Booker Free Throw 1 of 2 (20 PTS),,95-108,95,108
+0021900894,2020-02-29,PHX,GSW,44.15,4,3,51,PHX,PHX,ft_make,12,False,False,Booker Free Throw 2 of 2 (21 PTS),,96-108,96,108
+0021900894,2020-02-29,PHX,GSW,44.35,4,3,39,GSW,GSW,fg_miss,6,False,False,,MISS Wiggins 1' Driving Layup,96-108,96,108
+0021900894,2020-02-29,PHX,GSW,44.43,4,3,34,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:2 Def:7),96-108,96,108
+0021900894,2020-02-29,PHX,GSW,44.43,4,3,34,GSW,GSW,fg_make,107,False,False,,Chriss 1' Tip Dunk Shot (9 PTS),96-110,96,110
+0021900894,2020-02-29,PHX,GSW,44.57,4,3,26,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 24' 3PT Jump Shot,,96-110,96,110
+0021900894,2020-02-29,PHX,GSW,44.63,4,3,22,PHX,PHX,reb,0,False,False,Okobo REBOUND (Off:1 Def:6),,96-110,96,110
+0021900894,2020-02-29,PHX,GSW,44.63,4,3,22,PHX,PHX,tov,40,False,False,Ayton Out of Bounds Lost Ball Turnover (P4.T19),,96-110,96,110
+0021900894,2020-02-29,PHX,GSW,45.0,4,3,0,GSW,GSW,fg_miss,105,False,False,,MISS Chriss 3' Turnaround Fadeaway Bank Jump Shot,96-110,96,110
+0021900894,2020-02-29,PHX,GSW,45.02,4,2,59,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:2 Def:6),,96-110,96,110
+0021900894,2020-02-29,PHX,GSW,45.1,4,2,54,PHX,PHX,fg3_miss,103,False,False,MISS Booker 25' 3PT Running Pull-Up Jump Shot,,96-110,96,110
+0021900894,2020-02-29,PHX,GSW,45.18,4,2,49,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:5),96-110,96,110
+0021900894,2020-02-29,PHX,GSW,45.25,4,2,45,GSW,PHX,foul,1,False,False,Okobo P.FOUL (P1.PN) (J.Orr),,96-110,96,110
+0021900894,2020-02-29,PHX,GSW,45.25,4,2,45,GSW,GSW,ft_make,11,False,False,,Wiggins Free Throw 1 of 2 (17 PTS),96-111,96,111
+0021900894,2020-02-29,PHX,GSW,45.25,4,2,45,GSW,GSW,ft_miss,12,False,False,,MISS Wiggins Free Throw 2 of 2,96-111,96,111
+0021900894,2020-02-29,PHX,GSW,45.28,4,2,43,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:8),,96-111,96,111
+0021900894,2020-02-29,PHX,GSW,45.53,4,2,28,PHX,PHX,fg3_miss,1,False,False,MISS Saric 24' 3PT Jump Shot,,96-111,96,111
+0021900894,2020-02-29,PHX,GSW,45.6,4,2,24,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:0 Def:5),96-111,96,111
+0021900894,2020-02-29,PHX,GSW,45.9,4,2,6,GSW,GSW,fg_make,6,False,False,,Lee 1' Driving Layup (20 PTS) (Wiggins 5 AST),96-113,96,113
+0021900894,2020-02-29,PHX,GSW,45.95,4,2,3,PHX,GSW,violation,1,False,False,,Warriors Violation: Delay of game Violation,96-113,96,113
+0021900894,2020-02-29,PHX,GSW,46.1,4,1,54,PHX,PHX,tov,2,False,True,Ayton Lost Ball Turnover (P5.T20),,96-113,96,113
+0021900894,2020-02-29,PHX,GSW,46.1,4,1,54,PHX,GSW,steal,2,False,True,steal,steal,96-113,96,113
+0021900894,2020-02-29,PHX,GSW,46.3,4,1,42,GSW,PHX,foul,1,False,False,Okobo P.FOUL (P2.PN) (N.Buchert),,96-113,96,113
+0021900894,2020-02-29,PHX,GSW,46.3,4,1,42,GSW,GSW,ft_make,11,False,False,,Chriss Free Throw 1 of 2 (10 PTS),96-114,96,114
+0021900894,2020-02-29,PHX,GSW,46.3,4,1,42,GSW,GSW,ft_make,12,False,False,,Chriss Free Throw 2 of 2 (11 PTS),96-115,96,115
+0021900894,2020-02-29,PHX,GSW,46.48,4,1,31,PHX,PHX,fg_miss,102,False,False,MISS Jerome 6' Driving Floating Bank Jump Shot,,96-115,96,115
+0021900894,2020-02-29,PHX,GSW,46.53,4,1,28,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:2 Def:6),96-115,96,115
+0021900894,2020-02-29,PHX,GSW,46.77,4,1,14,GSW,GSW,fg_miss,80,False,False,,MISS Lee 17' Step Back Jump Shot,96-115,96,115
+0021900894,2020-02-29,PHX,GSW,46.82,4,1,11,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:2 Def:7),,96-115,96,115
+0021900894,2020-02-29,PHX,GSW,46.97,4,1,2,PHX,PHX,fg_make,73,False,False,Okobo 1' Driving Reverse Layup (13 PTS) (Jerome 1 AST),,98-115,98,115
+0021900894,2020-02-29,PHX,GSW,46.97,4,1,2,PHX,GSW,foul,2,False,False,,Mulder S.FOUL (P4.PN) (N.Buchert),98-115,98,115
+0021900894,2020-02-29,PHX,GSW,46.97,4,1,2,PHX,PHX,ft_make,10,False,False,Okobo Free Throw 1 of 1 (14 PTS),,99-115,99,115
+0021900894,2020-02-29,PHX,GSW,47.3,4,0,42,GSW,PHX,foul,2,False,False,Carter S.FOUL (P4.PN) (M.Ayotte),,99-115,99,115
+0021900894,2020-02-29,PHX,GSW,47.3,4,0,42,GSW,GSW,ft_miss,11,False,False,,MISS Chriss Free Throw 1 of 2,99-115,99,115
+0021900894,2020-02-29,PHX,GSW,47.3,4,0,42,GSW,GSW,reb,1,False,False,,Warriors Rebound,99-115,99,115
+0021900894,2020-02-29,PHX,GSW,47.3,4,0,42,GSW,GSW,ft_miss,12,False,False,,MISS Chriss Free Throw 2 of 2,99-115,99,115
+0021900894,2020-02-29,PHX,GSW,47.33,4,0,40,PHX,PHX,reb,0,False,False,Jerome REBOUND (Off:0 Def:1),,99-115,99,115
+0021900894,2020-02-29,PHX,GSW,47.7,4,0,18,PHX,PHX,fg_miss,75,False,False,MISS Jerome 2' Driving Finger Roll Layup,,99-115,99,115
+0021900894,2020-02-29,PHX,GSW,47.72,4,0,17,GSW,GSW,reb,0,False,False,,Bender REBOUND (Off:2 Def:7),99-115,99,115
+0021900894,2020-02-29,PHX,GSW,48.0,4,0,0,GSW,,period_end,0,False,False,,,99-115,99,115

@@ -1,0 +1,425 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100439,2021-12-17,POR,CHA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100439,2021-12-17,POR,CHA,0.0,1,12,0,,POR,jump_ball,0,False,False,Jump Ball Nurkic vs. Plumlee: Tip to Lillard,,0-0,0,0
+0022100439,2021-12-17,POR,CHA,0.4,1,11,36,POR,POR,fg_make,6,False,False,Nurkic 3' Driving Layup (2 PTS),,2-0,2,0
+0022100439,2021-12-17,POR,CHA,0.63,1,11,22,CHA,CHA,tov,40,False,False,,Hayward Out of Bounds Lost Ball Turnover (P1.T1),2-0,2,0
+0022100439,2021-12-17,POR,CHA,0.82,1,11,11,POR,CHA,foul,1,False,False,,Plumlee P.FOUL (P1.T1) (J.DeRosa),2-0,2,0
+0022100439,2021-12-17,POR,CHA,0.95,1,11,3,POR,CHA,block,58,True,False,block,block,2-0,2,0
+0022100439,2021-12-17,POR,CHA,0.95,1,11,3,POR,POR,fg_miss,58,True,False,MISS Nurkic 3' Turnaround Hook Shot,,2-0,2,0
+0022100439,2021-12-17,POR,CHA,0.98,1,11,1,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.08,1,10,55,CHA,CHA,fg_miss,58,False,False,,MISS Plumlee 6' Turnaround Hook Shot,2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.13,1,10,52,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:0),2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.2,1,10,48,CHA,CHA,fg_miss,73,False,False,,MISS Bridges 1' Driving Reverse Layup,2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.23,1,10,46,POR,POR,reb,0,False,False,Powell REBOUND (Off:0 Def:1),,2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.25,1,10,45,POR,CHA,foul,28,False,False,,Rozier Personal Take Foul (P1.T2) (M.Dagher),2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.35,1,10,39,POR,POR,fg_miss,80,False,False,MISS Powell 12' Step Back Jump Shot,,2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.43,1,10,34,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:1),2-0,2,0
+0022100439,2021-12-17,POR,CHA,1.57,1,10,26,CHA,CHA,fg_make,98,False,False,,Plumlee 1' Cutting Layup Shot (2 PTS) (Bridges 1 AST),2-2,2,2
+0022100439,2021-12-17,POR,CHA,1.57,1,10,26,CHA,POR,foul,2,False,False,Nurkic S.FOUL (P1.T1) (M.Dagher),,2-2,2,2
+0022100439,2021-12-17,POR,CHA,1.57,1,10,26,CHA,POR,violation,3,False,False,Lane,,2-2,2,2
+0022100439,2021-12-17,POR,CHA,1.57,1,10,26,CHA,CHA,ft_make,10,False,False,,Plumlee Free Throw 1 of 1 (3 PTS),2-3,2,3
+0022100439,2021-12-17,POR,CHA,1.73,1,10,16,POR,POR,fg3_make,79,False,False,Lillard 26' 3PT Pullup Jump Shot (3 PTS),,5-3,5,3
+0022100439,2021-12-17,POR,CHA,2.0,1,10,0,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 26' 3PT Jump Shot,5-3,5,3
+0022100439,2021-12-17,POR,CHA,2.05,1,9,57,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:1),,5-3,5,3
+0022100439,2021-12-17,POR,CHA,2.18,1,9,49,POR,POR,fg_make,98,False,False,Nurkic 1' Cutting Layup Shot (4 PTS),,7-3,7,3
+0022100439,2021-12-17,POR,CHA,2.42,1,9,35,CHA,CHA,fg_make,75,False,False,,Ball 1' Driving Finger Roll Layup (2 PTS) (Bridges 2 AST),7-5,7,5
+0022100439,2021-12-17,POR,CHA,2.52,1,9,29,POR,CHA,foul,2,False,False,,Ball S.FOUL (P1.T3) (M.Davis),7-5,7,5
+0022100439,2021-12-17,POR,CHA,2.52,1,9,29,POR,POR,ft_make,11,False,False,Little Free Throw 1 of 2 (1 PTS),,8-5,8,5
+0022100439,2021-12-17,POR,CHA,2.52,1,9,29,POR,POR,ft_miss,12,False,False,MISS Little Free Throw 2 of 2,,8-5,8,5
+0022100439,2021-12-17,POR,CHA,2.55,1,9,27,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:1),8-5,8,5
+0022100439,2021-12-17,POR,CHA,2.73,1,9,16,CHA,POR,foul,2,False,False,Nurkic S.FOUL (P2.T2) (M.Dagher),,8-5,8,5
+0022100439,2021-12-17,POR,CHA,2.73,1,9,16,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (3 PTS),8-6,8,6
+0022100439,2021-12-17,POR,CHA,2.73,1,9,16,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (4 PTS),8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.05,1,8,57,POR,POR,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.1,1,8,54,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:1),8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.25,1,8,45,CHA,POR,foul,1,False,False,Nance Jr. P.FOUL (P1.T3) (J.DeRosa),,8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.4,1,8,36,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 31' 3PT Jump Shot,8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.43,1,8,34,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.72,1,8,17,POR,CHA,block,5,True,False,block,block,8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.72,1,8,17,POR,POR,fg_miss,5,True,False,MISS Nance Jr. 3' Layup,,8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.72,1,8,17,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,8-7,8,7
+0022100439,2021-12-17,POR,CHA,3.87,1,8,8,POR,POR,fg_make,75,False,False,Nance Jr. 5' Driving Finger Roll Layup (2 PTS),,10-7,10,7
+0022100439,2021-12-17,POR,CHA,4.17,1,7,50,CHA,CHA,fg_miss,98,False,False,,MISS Hayward 2' Cutting Layup Shot,10-7,10,7
+0022100439,2021-12-17,POR,CHA,4.2,1,7,48,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:2),,10-7,10,7
+0022100439,2021-12-17,POR,CHA,4.33,1,7,40,POR,POR,fg_make,63,False,False,Lillard 13' Fadeaway Jumper (5 PTS),,12-7,12,7
+0022100439,2021-12-17,POR,CHA,4.52,1,7,29,CHA,POR,block,5,True,False,block,block,12-7,12,7
+0022100439,2021-12-17,POR,CHA,4.52,1,7,29,CHA,CHA,reb,0,False,False,,Hornets Rebound,12-7,12,7
+0022100439,2021-12-17,POR,CHA,4.52,1,7,29,CHA,CHA,fg_miss,5,True,False,,MISS Plumlee 1' Layup,12-7,12,7
+0022100439,2021-12-17,POR,CHA,4.55,1,7,27,CHA,CHA,fg3_make,1,False,False,,Hayward 26' 3PT Jump Shot (3 PTS) (Ball 1 AST),12-10,12,10
+0022100439,2021-12-17,POR,CHA,4.85,1,7,9,POR,POR,tov,2,False,True,Covington Lost Ball Turnover (P1.T1),,12-10,12,10
+0022100439,2021-12-17,POR,CHA,4.85,1,7,9,POR,CHA,steal,2,False,True,steal,steal,12-10,12,10
+0022100439,2021-12-17,POR,CHA,4.93,1,7,4,CHA,CHA,fg_miss,41,False,False,,MISS Rozier 1' Running Layup,12-10,12,10
+0022100439,2021-12-17,POR,CHA,4.97,1,7,2,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:1),,12-10,12,10
+0022100439,2021-12-17,POR,CHA,5.05,1,6,57,POR,POR,fg3_make,2,False,False,Powell 3PT Running Jump Shot (3 PTS) (Covington 1 AST),,15-10,15,10
+0022100439,2021-12-17,POR,CHA,5.23,1,6,46,CHA,CHA,fg_miss,78,True,False,,MISS Hayward 7' Floating Jump Shot,15-10,15,10
+0022100439,2021-12-17,POR,CHA,5.23,1,6,46,CHA,POR,block,78,True,False,block,block,15-10,15,10
+0022100439,2021-12-17,POR,CHA,5.27,1,6,44,POR,POR,reb,0,False,False,Little REBOUND (Off:0 Def:1),,15-10,15,10
+0022100439,2021-12-17,POR,CHA,5.32,1,6,41,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,15-10,15,10
+0022100439,2021-12-17,POR,CHA,5.32,1,6,41,POR,POR,tov,45,False,False,Lillard Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,15-10,15,10
+0022100439,2021-12-17,POR,CHA,5.68,1,6,19,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,15-10,15,10
+0022100439,2021-12-17,POR,CHA,5.75,1,6,15,POR,POR,reb,0,False,False,Little REBOUND (Off:0 Def:2),,15-10,15,10
+0022100439,2021-12-17,POR,CHA,6.03,1,5,58,POR,POR,fg3_make,79,False,False,Powell 24' 3PT Pullup Jump Shot (6 PTS) (Little 1 AST),,18-10,18,10
+0022100439,2021-12-17,POR,CHA,6.18,1,5,49,CHA,CHA,tov,37,False,False,,Washington Offensive Foul Turnover (P1.T2),18-10,18,10
+0022100439,2021-12-17,POR,CHA,6.18,1,5,49,POR,CHA,foul,4,False,False,,Washington OFF.Foul (P1) (M.Dagher),18-10,18,10
+0022100439,2021-12-17,POR,CHA,6.37,1,5,38,POR,POR,fg_make,6,False,False,Little 1' Driving Layup (3 PTS) (Powell 1 AST),,20-10,20,10
+0022100439,2021-12-17,POR,CHA,6.52,1,5,29,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 27' 3PT Jump Shot,20-10,20,10
+0022100439,2021-12-17,POR,CHA,6.58,1,5,25,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:1),,20-10,20,10
+0022100439,2021-12-17,POR,CHA,6.72,1,5,17,POR,CHA,foul,1,False,False,,Oubre Jr. P.FOUL (P1.T4) (J.DeRosa),20-10,20,10
+0022100439,2021-12-17,POR,CHA,6.78,1,5,13,POR,CHA,foul,1,False,False,,Martin P.FOUL (P1.PN) (M.Davis),20-10,20,10
+0022100439,2021-12-17,POR,CHA,6.78,1,5,13,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (7 PTS),,22-10,22,10
+0022100439,2021-12-17,POR,CHA,6.78,1,5,13,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (6 PTS),,21-10,21,10
+0022100439,2021-12-17,POR,CHA,7.07,1,4,56,CHA,CHA,fg_make,98,False,False,,Martin 1' Cutting Layup Shot (2 PTS) (Oubre Jr. 1 AST),22-12,22,12
+0022100439,2021-12-17,POR,CHA,7.25,1,4,45,POR,POR,fg_make,98,False,False,Nance Jr. 1' Cutting Layup Shot (4 PTS) (Lillard 1 AST),,24-12,24,12
+0022100439,2021-12-17,POR,CHA,7.4,1,4,36,CHA,POR,foul,1,False,False,Nance Jr. P.FOUL (P2.T4) (J.DeRosa),,24-12,24,12
+0022100439,2021-12-17,POR,CHA,7.5,1,4,30,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 25' 3PT Jump Shot,24-12,24,12
+0022100439,2021-12-17,POR,CHA,7.5,1,4,30,CHA,CHA,ft_miss,12,False,False,,MISS Oubre Jr. Free Throw 2 of 2,24-13,24,13
+0022100439,2021-12-17,POR,CHA,7.5,1,4,30,CHA,CHA,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (1 PTS),24-13,24,13
+0022100439,2021-12-17,POR,CHA,7.5,1,4,30,CHA,POR,foul,3,False,False,Lillard L.B.FOUL (P1.PN) (M.Dagher),,24-12,24,12
+0022100439,2021-12-17,POR,CHA,7.5,1,4,30,CHA,CHA,reb,0,False,False,,Hornets Rebound,24-12,24,12
+0022100439,2021-12-17,POR,CHA,7.53,1,4,28,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:2),,24-13,24,13
+0022100439,2021-12-17,POR,CHA,7.8,1,4,12,POR,POR,fg_miss,80,False,False,MISS Lillard 19' Step Back Jump Shot,,24-13,24,13
+0022100439,2021-12-17,POR,CHA,7.85,1,4,9,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),24-13,24,13
+0022100439,2021-12-17,POR,CHA,7.98,1,4,1,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 28' 3PT Jump Shot,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.07,1,3,56,POR,POR,reb,0,False,False,Powell REBOUND (Off:0 Def:2),,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.23,1,3,46,POR,POR,fg_miss,75,False,False,MISS Lillard 4' Driving Finger Roll Layup,,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.27,1,3,44,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.37,1,3,38,CHA,CHA,tov,2,False,True,,Hayward Lost Ball Turnover (P2.T3),24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.37,1,3,38,CHA,POR,steal,2,False,True,steal,steal,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.47,1,3,32,POR,CHA,steal,1,False,True,steal,steal,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.47,1,3,32,POR,POR,tov,1,False,True,Watford Bad Pass Turnover (P1.T3),,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.53,1,3,28,CHA,CHA,fg_miss,41,True,False,,MISS Rozier 3' Running Layup,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.53,1,3,28,CHA,POR,block,41,True,False,block,block,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.57,1,3,26,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:3),,24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.62,1,3,23,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),25-13,25,13
+0022100439,2021-12-17,POR,CHA,8.62,1,3,23,POR,CHA,foul,2,False,False,,Washington S.FOUL (P2.PN) (J.DeRosa),24-13,24,13
+0022100439,2021-12-17,POR,CHA,8.62,1,3,23,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (8 PTS),,25-13,25,13
+0022100439,2021-12-17,POR,CHA,8.62,1,3,23,CHA,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (9 PTS),,26-13,26,13
+0022100439,2021-12-17,POR,CHA,8.95,1,3,3,CHA,CHA,fg_make,58,False,False,,Bridges 7' Turnaround Hook Shot (2 PTS),26-15,26,15
+0022100439,2021-12-17,POR,CHA,9.17,1,2,50,POR,POR,fg3_make,79,False,False,Lillard 29' 3PT Pullup Jump Shot (12 PTS),,29-15,29,15
+0022100439,2021-12-17,POR,CHA,9.47,1,2,32,CHA,CHA,fg_miss,6,True,False,,MISS Bridges 2' Driving Layup,29-15,29,15
+0022100439,2021-12-17,POR,CHA,9.47,1,2,32,CHA,POR,block,6,True,False,block,block,29-15,29,15
+0022100439,2021-12-17,POR,CHA,9.52,1,2,29,POR,POR,reb,0,False,False,Watford REBOUND (Off:0 Def:1),,29-15,29,15
+0022100439,2021-12-17,POR,CHA,9.63,1,2,22,POR,POR,fg_make,6,False,False,Covington 5' Driving Layup (2 PTS) (Powell 2 AST),,31-15,31,15
+0022100439,2021-12-17,POR,CHA,9.83,1,2,10,CHA,CHA,fg_make,108,False,False,,McDaniels 1' Cutting Dunk Shot (2 PTS) (Ball 2 AST),31-17,31,17
+0022100439,2021-12-17,POR,CHA,10.28,1,1,43,POR,POR,fg3_make,1,False,False,Simons 27' 3PT Jump Shot (3 PTS) (Covington 2 AST),,34-17,34,17
+0022100439,2021-12-17,POR,CHA,10.55,1,1,27,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,34-17,34,17
+0022100439,2021-12-17,POR,CHA,10.58,1,1,25,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:1),34-17,34,17
+0022100439,2021-12-17,POR,CHA,10.63,1,1,22,CHA,CHA,fg_make,73,False,False,,Bridges 1' Driving Reverse Layup (4 PTS) (Martin 1 AST),34-19,34,19
+0022100439,2021-12-17,POR,CHA,10.83,1,1,10,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (14 PTS),,36-19,36,19
+0022100439,2021-12-17,POR,CHA,10.83,1,1,10,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (13 PTS),,35-19,35,19
+0022100439,2021-12-17,POR,CHA,10.83,1,1,10,POR,CHA,foul,1,False,False,,Oubre Jr. P.FOUL (P2.PN) (J.DeRosa),34-19,34,19
+0022100439,2021-12-17,POR,CHA,10.97,1,1,2,CHA,CHA,fg_make,80,False,False,,Ball 15' Step Back Jump Shot (6 PTS),36-21,36,21
+0022100439,2021-12-17,POR,CHA,11.13,1,0,52,POR,POR,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,36-21,36,21
+0022100439,2021-12-17,POR,CHA,11.18,1,0,49,POR,POR,reb,0,False,False,Watford REBOUND (Off:1 Def:1),,36-21,36,21
+0022100439,2021-12-17,POR,CHA,11.4,1,0,36,POR,POR,fg_make,78,False,False,Watford 7' Floating Jump Shot (2 PTS) (Lillard 2 AST),,38-21,38,21
+0022100439,2021-12-17,POR,CHA,11.5,1,0,30,CHA,CHA,fg_miss,6,False,False,,MISS Bridges 1' Driving Layup,38-21,38,21
+0022100439,2021-12-17,POR,CHA,11.53,1,0,28,POR,POR,reb,0,False,False,Watford REBOUND (Off:1 Def:2),,38-21,38,21
+0022100439,2021-12-17,POR,CHA,11.65,1,0,21,POR,POR,fg3_make,79,False,False,Lillard 33' 3PT Pullup Jump Shot (17 PTS),,41-21,41,21
+0022100439,2021-12-17,POR,CHA,11.92,1,0,5,CHA,CHA,fg3_make,1,False,False,,Ball 25' 3PT Jump Shot (9 PTS) (Bridges 3 AST),41-24,41,24
+0022100439,2021-12-17,POR,CHA,12.0,2,12,0,POR,,period_start,0,False,False,,,41-24,41,24
+0022100439,2021-12-17,POR,CHA,12.0,1,0,0,POR,POR,fg3_miss,101,False,False,MISS Lillard 26' 3PT Driving Floating Jump Shot,,41-24,41,24
+0022100439,2021-12-17,POR,CHA,12.0,1,0,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,41-24,41,24
+0022100439,2021-12-17,POR,CHA,12.0,1,0,0,POR,,period_end,0,False,False,,,41-24,41,24
+0022100439,2021-12-17,POR,CHA,12.42,2,11,35,CHA,CHA,fg3_miss,1,False,False,,MISS McDaniels 25' 3PT Jump Shot,41-24,41,24
+0022100439,2021-12-17,POR,CHA,12.47,2,11,32,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:4),,41-24,41,24
+0022100439,2021-12-17,POR,CHA,12.68,2,11,19,POR,POR,fg3_make,1,False,False,Simons 26' 3PT Jump Shot (6 PTS),,44-24,44,24
+0022100439,2021-12-17,POR,CHA,12.85,2,11,9,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 24' 3PT Jump Shot,44-24,44,24
+0022100439,2021-12-17,POR,CHA,12.88,2,11,7,POR,POR,reb,0,False,False,Little REBOUND (Off:0 Def:3),,44-24,44,24
+0022100439,2021-12-17,POR,CHA,13.02,2,10,59,POR,POR,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,44-24,44,24
+0022100439,2021-12-17,POR,CHA,13.07,2,10,56,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:2),44-24,44,24
+0022100439,2021-12-17,POR,CHA,13.17,2,10,50,CHA,CHA,fg3_make,1,False,False,,Ball 25' 3PT Jump Shot (12 PTS) (Bridges 4 AST),44-27,44,27
+0022100439,2021-12-17,POR,CHA,13.43,2,10,34,POR,POR,fg3_miss,1,False,False,MISS McLemore 26' 3PT Jump Shot,,44-27,44,27
+0022100439,2021-12-17,POR,CHA,13.5,2,10,30,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:1),44-27,44,27
+0022100439,2021-12-17,POR,CHA,13.62,2,10,23,CHA,CHA,fg_make,6,False,False,,Bridges 1' Driving Layup (6 PTS) (McDaniels 1 AST),44-29,44,29
+0022100439,2021-12-17,POR,CHA,13.83,2,10,10,POR,POR,fg_make,98,False,False,McLemore 1' Cutting Layup Shot (2 PTS) (Nurkic 1 AST),,46-29,46,29
+0022100439,2021-12-17,POR,CHA,14.08,2,9,55,CHA,CHA,fg_miss,98,False,False,,MISS Oubre Jr. 1' Cutting Layup Shot,46-29,46,29
+0022100439,2021-12-17,POR,CHA,14.1,2,9,54,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:5),,46-29,46,29
+0022100439,2021-12-17,POR,CHA,14.35,2,9,39,POR,POR,fg_make,6,False,False,Nurkic 1' Driving Layup (6 PTS) (Simons 1 AST),,48-29,48,29
+0022100439,2021-12-17,POR,CHA,14.35,2,9,39,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),48-29,48,29
+0022100439,2021-12-17,POR,CHA,14.57,2,9,26,CHA,CHA,fg3_make,79,False,False,,Ball 27' 3PT Pullup Jump Shot (15 PTS) (Plumlee 1 AST),48-32,48,32
+0022100439,2021-12-17,POR,CHA,14.8,2,9,12,POR,POR,fg3_miss,1,False,False,MISS McLemore 25' 3PT Jump Shot,,48-32,48,32
+0022100439,2021-12-17,POR,CHA,14.85,2,9,9,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:3),,48-32,48,32
+0022100439,2021-12-17,POR,CHA,14.87,2,9,8,POR,POR,fg3_make,1,False,False,McLemore 27' 3PT Jump Shot (5 PTS) (Little 2 AST),,51-32,51,32
+0022100439,2021-12-17,POR,CHA,15.22,2,8,47,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,51-32,51,32
+0022100439,2021-12-17,POR,CHA,15.25,2,8,45,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:6),,51-32,51,32
+0022100439,2021-12-17,POR,CHA,15.55,2,8,27,POR,POR,fg_make,58,False,False,Nurkic 3' Turnaround Hook Shot (8 PTS),,53-32,53,32
+0022100439,2021-12-17,POR,CHA,15.57,2,8,26,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),53-32,53,32
+0022100439,2021-12-17,POR,CHA,15.8,2,8,12,CHA,CHA,fg_miss,101,False,False,,MISS Ball 13' Driving Floating Jump Shot,53-32,53,32
+0022100439,2021-12-17,POR,CHA,15.83,2,8,10,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:2),53-32,53,32
+0022100439,2021-12-17,POR,CHA,15.88,2,8,7,CHA,CHA,fg_miss,63,False,False,,MISS Ball 7' Fadeaway Jumper,53-32,53,32
+0022100439,2021-12-17,POR,CHA,15.92,2,8,5,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:1),,53-32,53,32
+0022100439,2021-12-17,POR,CHA,16.02,2,7,59,POR,POR,fg3_make,1,False,False,Covington 25' 3PT Jump Shot (5 PTS) (Simons 2 AST),,56-32,56,32
+0022100439,2021-12-17,POR,CHA,16.2,2,7,48,CHA,POR,foul,2,False,False,Nurkic S.FOUL (P3.T1) (M.Dagher),,56-32,56,32
+0022100439,2021-12-17,POR,CHA,16.2,2,7,48,CHA,CHA,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (2 PTS),56-33,56,33
+0022100439,2021-12-17,POR,CHA,16.2,2,7,48,CHA,CHA,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (3 PTS),56-34,56,34
+0022100439,2021-12-17,POR,CHA,16.43,2,7,34,POR,POR,fg_miss,79,False,False,MISS Little 16' Pullup Jump Shot,,56-34,56,34
+0022100439,2021-12-17,POR,CHA,16.47,2,7,32,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:2),56-34,56,34
+0022100439,2021-12-17,POR,CHA,16.7,2,7,18,CHA,CHA,fg_make,79,False,False,,Rozier 20' Pullup Jump Shot (2 PTS) (Hayward 1 AST),56-36,56,36
+0022100439,2021-12-17,POR,CHA,16.97,2,7,2,POR,POR,tov,2,False,True,Simons Lost Ball Turnover (P1.T4),,56-36,56,36
+0022100439,2021-12-17,POR,CHA,16.97,2,7,2,POR,CHA,steal,2,False,True,steal,steal,56-36,56,36
+0022100439,2021-12-17,POR,CHA,17.03,2,6,58,CHA,CHA,fg_miss,41,False,False,,MISS Hayward 2' Running Layup,56-36,56,36
+0022100439,2021-12-17,POR,CHA,17.07,2,6,56,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,56-38,56,38
+0022100439,2021-12-17,POR,CHA,17.07,2,6,56,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:1),56-36,56,36
+0022100439,2021-12-17,POR,CHA,17.07,2,6,56,CHA,CHA,fg_make,107,False,False,,McDaniels Tip Dunk Shot (4 PTS),56-38,56,38
+0022100439,2021-12-17,POR,CHA,17.32,2,6,41,POR,POR,fg3_miss,79,False,False,MISS Lillard 28' 3PT Pullup Jump Shot,,56-38,56,38
+0022100439,2021-12-17,POR,CHA,17.37,2,6,38,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:3),56-38,56,38
+0022100439,2021-12-17,POR,CHA,17.42,2,6,35,CHA,CHA,tov,2,False,True,,Hayward Lost Ball Turnover (P3.T4),56-38,56,38
+0022100439,2021-12-17,POR,CHA,17.42,2,6,35,CHA,POR,steal,2,False,True,steal,steal,56-38,56,38
+0022100439,2021-12-17,POR,CHA,17.5,2,6,30,POR,POR,fg3_make,1,False,False,McLemore 3PT Jump Shot (8 PTS) (Lillard 3 AST),,59-38,59,38
+0022100439,2021-12-17,POR,CHA,17.73,2,6,16,CHA,CHA,fg_miss,101,False,False,,MISS Rozier 7' Driving Floating Jump Shot,59-38,59,38
+0022100439,2021-12-17,POR,CHA,17.82,2,6,11,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:0),59-38,59,38
+0022100439,2021-12-17,POR,CHA,17.82,2,6,11,CHA,CHA,fg_make,97,False,False,,Plumlee Tip Layup Shot (5 PTS),59-40,59,40
+0022100439,2021-12-17,POR,CHA,18.02,2,5,59,POR,POR,fg3_make,1,False,False,Powell 27' 3PT Jump Shot (9 PTS) (Nance Jr. 1 AST),,62-40,62,40
+0022100439,2021-12-17,POR,CHA,18.47,2,5,32,CHA,CHA,fg_miss,101,False,False,,MISS Plumlee 15' Driving Floating Jump Shot,62-40,62,40
+0022100439,2021-12-17,POR,CHA,18.5,2,5,30,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:7),,62-40,62,40
+0022100439,2021-12-17,POR,CHA,18.57,2,5,26,POR,POR,fg3_make,103,False,False,McLemore 3PT Running Pull-Up Jump Shot (11 PTS) (Lillard 4 AST),,65-40,65,40
+0022100439,2021-12-17,POR,CHA,18.85,2,5,9,CHA,CHA,fg_miss,73,False,False,,MISS Bridges 1' Driving Reverse Layup,65-40,65,40
+0022100439,2021-12-17,POR,CHA,18.87,2,5,8,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:8),,65-40,65,40
+0022100439,2021-12-17,POR,CHA,19.07,2,4,56,POR,POR,fg3_make,80,False,False,McLemore 26' 3PT Step Back Jump Shot (14 PTS) (Powell 3 AST),,68-40,68,40
+0022100439,2021-12-17,POR,CHA,19.1,2,4,54,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.4 Short 0),68-40,68,40
+0022100439,2021-12-17,POR,CHA,19.25,2,4,45,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P1.T5),68-40,68,40
+0022100439,2021-12-17,POR,CHA,19.25,2,4,45,CHA,POR,steal,1,False,True,steal,steal,68-40,68,40
+0022100439,2021-12-17,POR,CHA,19.32,2,4,41,POR,POR,fg3_miss,103,False,False,MISS Powell 28' 3PT Running Pull-Up Jump Shot,,68-40,68,40
+0022100439,2021-12-17,POR,CHA,19.38,2,4,37,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),68-40,68,40
+0022100439,2021-12-17,POR,CHA,19.45,2,4,33,CHA,CHA,fg_make,41,False,False,,Martin 1' Running Layup (4 PTS) (Rozier 1 AST),68-42,68,42
+0022100439,2021-12-17,POR,CHA,19.83,2,4,10,POR,POR,fg_make,58,False,False,Nance Jr. 5' Turnaround Hook Shot (6 PTS) (Covington 3 AST),,70-42,70,42
+0022100439,2021-12-17,POR,CHA,20.1,2,3,54,CHA,CHA,tov,45,False,False,,Washington Out of Bounds - Bad Pass Turnover Turnover (P2.T6),70-42,70,42
+0022100439,2021-12-17,POR,CHA,20.32,2,3,41,POR,POR,tov,4,False,False,McLemore Traveling Turnover (P1.T5),,70-42,70,42
+0022100439,2021-12-17,POR,CHA,20.43,2,3,34,CHA,CHA,ft_make,11,False,False,,Washington Free Throw 1 of 2 (1 PTS),70-43,70,43
+0022100439,2021-12-17,POR,CHA,20.43,2,3,34,CHA,POR,foul,2,False,False,Covington S.FOUL (P1.T2) (J.DeRosa),,70-42,70,42
+0022100439,2021-12-17,POR,CHA,20.43,2,3,34,CHA,CHA,ft_make,12,False,False,,Washington Free Throw 2 of 2 (2 PTS),70-44,70,44
+0022100439,2021-12-17,POR,CHA,20.6,2,3,24,POR,POR,fg3_make,1,False,False,McLemore 3PT Jump Shot (17 PTS) (Lillard 5 AST),,73-44,73,44
+0022100439,2021-12-17,POR,CHA,20.85,2,3,9,CHA,CHA,fg3_make,1,False,False,,Martin 3PT Jump Shot (7 PTS) (Washington 1 AST),73-47,73,47
+0022100439,2021-12-17,POR,CHA,21.25,2,2,45,POR,POR,fg3_make,1,False,False,McLemore 26' 3PT Jump Shot (20 PTS) (Lillard 6 AST),,76-47,76,47
+0022100439,2021-12-17,POR,CHA,21.52,2,2,29,CHA,POR,foul,1,False,False,Powell P.FOUL (P1.T3) (M.Davis),,76-47,76,47
+0022100439,2021-12-17,POR,CHA,21.55,2,2,27,CHA,CHA,fg3_make,1,False,False,,Washington 26' 3PT Jump Shot (5 PTS) (Martin 2 AST),76-50,76,50
+0022100439,2021-12-17,POR,CHA,21.83,2,2,10,POR,POR,tov,45,False,False,Lillard Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,76-50,76,50
+0022100439,2021-12-17,POR,CHA,22.07,2,1,56,CHA,CHA,fg_make,108,False,False,,Bridges 1' Cutting Dunk Shot (8 PTS) (Martin 3 AST),76-52,76,52
+0022100439,2021-12-17,POR,CHA,22.42,2,1,35,POR,POR,fg_miss,102,False,False,MISS Covington 4' Driving Floating Bank Jump Shot,,76-52,76,52
+0022100439,2021-12-17,POR,CHA,22.45,2,1,33,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:2),76-52,76,52
+0022100439,2021-12-17,POR,CHA,22.58,2,1,25,CHA,CHA,fg_make,57,False,False,,Martin 5' Driving Hook Shot (9 PTS),76-54,76,54
+0022100439,2021-12-17,POR,CHA,22.93,2,1,4,POR,POR,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,76-54,76,54
+0022100439,2021-12-17,POR,CHA,22.98,2,1,1,POR,POR,reb,0,False,False,Lillard REBOUND (Off:1 Def:1),,76-54,76,54
+0022100439,2021-12-17,POR,CHA,23.08,2,0,55,POR,POR,fg_make,73,False,False,Lillard 1' Driving Reverse Layup (19 PTS),,78-54,78,54
+0022100439,2021-12-17,POR,CHA,23.17,2,0,50,CHA,POR,foul,1,False,False,Covington P.FOUL (P2.T4) (M.Davis),,78-54,78,54
+0022100439,2021-12-17,POR,CHA,23.33,2,0,40,CHA,CHA,reb,1,False,False,,Hornets Rebound,78-54,78,54
+0022100439,2021-12-17,POR,CHA,23.33,2,0,40,CHA,POR,foul,1,False,False,Powell P.FOUL (P2.PN) (J.DeRosa),,78-54,78,54
+0022100439,2021-12-17,POR,CHA,23.33,2,0,40,CHA,CHA,ft_make,12,False,False,,Martin Free Throw 2 of 2 (10 PTS),78-55,78,55
+0022100439,2021-12-17,POR,CHA,23.33,2,0,40,CHA,CHA,ft_miss,11,False,False,,MISS Martin Free Throw 1 of 2,78-54,78,54
+0022100439,2021-12-17,POR,CHA,23.5,2,0,30,POR,CHA,foul,1,False,False,,Washington P.FOUL (P3.T1) (J.DeRosa),78-55,78,55
+0022100439,2021-12-17,POR,CHA,23.6,2,0,24,POR,POR,fg3_make,1,False,False,Lillard 3PT Jump Shot (22 PTS),,81-55,81,55
+0022100439,2021-12-17,POR,CHA,23.97,2,0,2,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 3PT Jump Shot,81-55,81,55
+0022100439,2021-12-17,POR,CHA,24.0,3,12,0,POR,,period_start,0,False,False,,,81-55,81,55
+0022100439,2021-12-17,POR,CHA,24.0,2,0,0,POR,,period_end,0,False,False,,,81-55,81,55
+0022100439,2021-12-17,POR,CHA,24.0,2,0,0,POR,POR,reb,0,False,False,Powell REBOUND (Off:0 Def:3),,81-55,81,55
+0022100439,2021-12-17,POR,CHA,24.28,3,11,43,CHA,CHA,fg_make,86,False,False,,Bridges 14' Turnaround Fadeaway (10 PTS),81-57,81,57
+0022100439,2021-12-17,POR,CHA,24.58,3,11,25,POR,POR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,81-57,81,57
+0022100439,2021-12-17,POR,CHA,24.63,3,11,22,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:3),81-57,81,57
+0022100439,2021-12-17,POR,CHA,24.75,3,11,15,CHA,CHA,fg_miss,102,False,False,,MISS Rozier 9' Driving Floating Bank Jump Shot,81-57,81,57
+0022100439,2021-12-17,POR,CHA,24.78,3,11,13,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:3),,81-57,81,57
+0022100439,2021-12-17,POR,CHA,25.15,3,10,51,POR,POR,fg3_miss,1,False,False,MISS Nurkic 26' 3PT Jump Shot,,81-57,81,57
+0022100439,2021-12-17,POR,CHA,25.18,3,10,49,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:2),81-57,81,57
+0022100439,2021-12-17,POR,CHA,25.35,3,10,39,CHA,CHA,fg3_make,1,False,False,,Hayward 26' 3PT Jump Shot (6 PTS) (Ball 3 AST),81-60,81,60
+0022100439,2021-12-17,POR,CHA,25.6,3,10,24,POR,POR,fg3_miss,1,False,False,MISS Little 3PT Jump Shot,,81-60,81,60
+0022100439,2021-12-17,POR,CHA,25.62,3,10,23,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:1),,81-60,81,60
+0022100439,2021-12-17,POR,CHA,25.78,3,10,13,POR,POR,fg3_make,80,False,False,Lillard 25' 3PT Step Back Jump Shot (25 PTS),,84-60,84,60
+0022100439,2021-12-17,POR,CHA,25.97,3,10,2,CHA,CHA,fg_make,79,False,False,,Ball 17' Pullup Jump Shot (17 PTS),84-62,84,62
+0022100439,2021-12-17,POR,CHA,26.23,3,9,46,POR,POR,fg_make,80,False,False,Lillard 19' Step Back Jump Shot (27 PTS),,86-62,86,62
+0022100439,2021-12-17,POR,CHA,26.47,3,9,32,CHA,CHA,fg_make,6,False,False,,Plumlee 1' Driving Layup (7 PTS) (Ball 4 AST),86-64,86,64
+0022100439,2021-12-17,POR,CHA,26.72,3,9,17,POR,POR,fg_make,57,False,False,Nurkic 6' Driving Hook Shot (10 PTS) (Lillard 7 AST),,88-64,88,64
+0022100439,2021-12-17,POR,CHA,26.85,3,9,9,CHA,CHA,fg_miss,101,False,False,,MISS Rozier 1' Driving Floating Jump Shot,88-64,88,64
+0022100439,2021-12-17,POR,CHA,26.87,3,9,8,CHA,POR,foul,1,False,False,Nance Jr. P.FOUL (P3.T1) (M.Dagher),,88-64,88,64
+0022100439,2021-12-17,POR,CHA,26.87,3,9,8,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:0),88-64,88,64
+0022100439,2021-12-17,POR,CHA,26.87,3,9,8,CHA,CHA,fg_miss,97,False,False,,MISS Rozier Tip Layup Shot,88-64,88,64
+0022100439,2021-12-17,POR,CHA,26.87,3,9,8,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:1 Def:3),88-64,88,64
+0022100439,2021-12-17,POR,CHA,27.03,3,8,58,CHA,CHA,fg_miss,78,False,False,,MISS Ball 18' Floating Jump Shot,88-64,88,64
+0022100439,2021-12-17,POR,CHA,27.08,3,8,55,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:4),,88-64,88,64
+0022100439,2021-12-17,POR,CHA,27.18,3,8,49,POR,POR,fg3_miss,79,False,False,MISS Lillard 34' 3PT Pullup Jump Shot,,88-64,88,64
+0022100439,2021-12-17,POR,CHA,27.22,3,8,47,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:3),88-64,88,64
+0022100439,2021-12-17,POR,CHA,27.57,3,8,26,CHA,CHA,tov,45,False,False,,Hayward Out of Bounds - Bad Pass Turnover Turnover (P4.T7),88-64,88,64
+0022100439,2021-12-17,POR,CHA,27.82,3,8,11,POR,POR,fg_make,98,False,False,Lillard 1' Cutting Layup Shot (29 PTS) (Nurkic 2 AST),,90-64,90,64
+0022100439,2021-12-17,POR,CHA,27.97,3,8,2,CHA,CHA,fg_miss,63,False,False,,MISS Ball 15' Fadeaway Jumper,90-64,90,64
+0022100439,2021-12-17,POR,CHA,28.0,3,8,0,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:4),,90-64,90,64
+0022100439,2021-12-17,POR,CHA,28.12,3,7,53,POR,POR,fg3_make,1,False,False,Lillard 27' 3PT Jump Shot (32 PTS) (Little 3 AST),,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.13,3,7,52,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.5 Short 0),93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.35,3,7,39,CHA,CHA,reb,0,False,False,,Hornets Rebound,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.35,3,7,39,CHA,CHA,fg_miss,63,True,False,,MISS Rozier 12' Fadeaway Jumper,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.35,3,7,39,CHA,POR,block,63,True,False,block,block,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.48,3,7,31,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 3PT Jump Shot,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.52,3,7,29,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:2),,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.9,3,7,6,POR,CHA,steal,1,False,True,steal,steal,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.9,3,7,6,CHA,POR,foul,28,False,False,Powell Personal Take Foul (P3.T2) (M.Davis),,93-64,93,64
+0022100439,2021-12-17,POR,CHA,28.9,3,7,6,POR,POR,tov,1,False,True,Little Bad Pass Turnover (P1.T7),,93-64,93,64
+0022100439,2021-12-17,POR,CHA,29.17,3,6,50,CHA,CHA,fg_make,98,False,False,,Plumlee 1' Cutting Layup Shot (9 PTS) (Bridges 5 AST),93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.17,3,6,50,CHA,CHA,ft_miss,10,False,False,,MISS Plumlee Free Throw 1 of 1,93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.17,3,6,50,CHA,POR,foul,2,False,False,Nurkic S.FOUL (P4.T3) (M.Davis),,93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.2,3,6,48,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:5),,93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.33,3,6,40,POR,POR,fg3_miss,1,False,False,MISS Little 25' 3PT Jump Shot,,93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.38,3,6,37,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:1),93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.6,3,6,24,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.67,3,6,20,POR,CHA,foul,1,False,False,,Plumlee P.FOUL (P2.T1) (M.Dagher),93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.67,3,6,20,POR,POR,reb,0,False,False,Lillard REBOUND (Off:1 Def:2),,93-66,93,66
+0022100439,2021-12-17,POR,CHA,29.98,3,6,1,POR,POR,fg_miss,79,False,False,MISS Covington 16' Pullup Jump Shot,,93-66,93,66
+0022100439,2021-12-17,POR,CHA,30.0,3,6,0,POR,POR,tov,20,False,False,Little Illegal Assist Turnover (P2.T8),,93-66,93,66
+0022100439,2021-12-17,POR,CHA,30.0,3,6,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,93-66,93,66
+0022100439,2021-12-17,POR,CHA,30.3,3,5,42,CHA,POR,block,86,True,False,block,block,93-66,93,66
+0022100439,2021-12-17,POR,CHA,30.3,3,5,42,CHA,CHA,fg_miss,86,True,False,,MISS Smith 12' Turnaround Fadeaway Shot,93-66,93,66
+0022100439,2021-12-17,POR,CHA,30.32,3,5,41,CHA,CHA,reb,0,False,False,,Hornets Rebound,93-66,93,66
+0022100439,2021-12-17,POR,CHA,30.4,3,5,36,CHA,CHA,fg_make,79,False,False,,Bridges 12' Pullup Jump Shot (12 PTS),93-68,93,68
+0022100439,2021-12-17,POR,CHA,30.58,3,5,25,POR,CHA,foul,2,False,False,,Smith S.FOUL (P1.T2) (J.DeRosa),93-68,93,68
+0022100439,2021-12-17,POR,CHA,30.58,3,5,25,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (34 PTS),,95-68,95,68
+0022100439,2021-12-17,POR,CHA,30.58,3,5,25,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (33 PTS),,94-68,94,68
+0022100439,2021-12-17,POR,CHA,30.78,3,5,13,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 25' 3PT Jump Shot,95-68,95,68
+0022100439,2021-12-17,POR,CHA,30.83,3,5,10,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:2),95-68,95,68
+0022100439,2021-12-17,POR,CHA,30.87,3,5,8,CHA,CHA,fg_make,108,False,False,,Oubre Jr. 1' Cutting Dunk Shot (5 PTS) (Bridges 6 AST),95-70,95,70
+0022100439,2021-12-17,POR,CHA,31.17,3,4,50,POR,POR,fg_miss,73,False,False,MISS Powell 1' Driving Reverse Layup,,95-70,95,70
+0022100439,2021-12-17,POR,CHA,31.23,3,4,46,CHA,CHA,reb,0,False,False,,Smith REBOUND (Off:0 Def:1),95-70,95,70
+0022100439,2021-12-17,POR,CHA,31.28,3,4,43,CHA,CHA,ft_make,12,False,False,,Bridges Free Throw 2 of 2 (14 PTS),95-72,95,72
+0022100439,2021-12-17,POR,CHA,31.28,3,4,43,CHA,CHA,ft_make,11,False,False,,Bridges Free Throw 1 of 2 (13 PTS),95-71,95,71
+0022100439,2021-12-17,POR,CHA,31.28,3,4,43,CHA,POR,foul,2,False,False,Simons S.FOUL (P1.T4) (J.DeRosa),,95-70,95,70
+0022100439,2021-12-17,POR,CHA,31.67,3,4,20,POR,POR,fg_make,9,False,False,Lillard Driving Dunk (36 PTS),,97-72,97,72
+0022100439,2021-12-17,POR,CHA,31.85,3,4,9,CHA,CHA,tov,1,False,True,,Bridges Bad Pass Turnover (P1.T8),97-72,97,72
+0022100439,2021-12-17,POR,CHA,31.85,3,4,9,CHA,POR,steal,1,False,True,steal,steal,97-72,97,72
+0022100439,2021-12-17,POR,CHA,32.03,3,3,58,POR,POR,fg3_miss,1,False,False,MISS Lillard 30' 3PT Jump Shot,,97-72,97,72
+0022100439,2021-12-17,POR,CHA,32.08,3,3,55,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:3),97-72,97,72
+0022100439,2021-12-17,POR,CHA,32.18,3,3,49,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 26' 3PT Jump Shot,97-72,97,72
+0022100439,2021-12-17,POR,CHA,32.25,3,3,45,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:2 Def:1),97-72,97,72
+0022100439,2021-12-17,POR,CHA,32.27,3,3,44,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 3PT Jump Shot (8 PTS) (Martin 4 AST),97-75,97,75
+0022100439,2021-12-17,POR,CHA,32.58,3,3,25,POR,POR,fg_make,79,False,False,Simons 18' Pullup Jump Shot (8 PTS),,99-75,99,75
+0022100439,2021-12-17,POR,CHA,32.7,3,3,18,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 26' 3PT Jump Shot (11 PTS) (Smith 1 AST),99-78,99,78
+0022100439,2021-12-17,POR,CHA,33.08,3,2,55,POR,POR,fg3_miss,79,False,False,MISS Simons 25' 3PT Pullup Jump Shot,,99-78,99,78
+0022100439,2021-12-17,POR,CHA,33.12,3,2,53,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:4),99-78,99,78
+0022100439,2021-12-17,POR,CHA,33.2,3,2,48,CHA,CHA,fg3_make,1,False,False,,Washington 26' 3PT Jump Shot (8 PTS) (Smith 2 AST),99-81,99,81
+0022100439,2021-12-17,POR,CHA,33.23,3,2,46,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,99-81,99,81
+0022100439,2021-12-17,POR,CHA,33.53,3,2,28,POR,POR,fg_make,78,False,False,Nance Jr. 12' Floating Jump Shot (8 PTS) (Little 4 AST),,101-81,101,81
+0022100439,2021-12-17,POR,CHA,33.75,3,2,15,CHA,CHA,fg3_miss,80,False,False,,MISS Oubre Jr. 26' 3PT Step Back Jump Shot,101-81,101,81
+0022100439,2021-12-17,POR,CHA,33.8,3,2,12,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:6),,101-81,101,81
+0022100439,2021-12-17,POR,CHA,34.02,3,1,59,POR,POR,fg3_miss,1,False,False,MISS McLemore 3PT Jump Shot,,101-81,101,81
+0022100439,2021-12-17,POR,CHA,34.07,3,1,56,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:4),101-81,101,81
+0022100439,2021-12-17,POR,CHA,34.25,3,1,45,CHA,CHA,fg3_make,1,False,False,,Washington 26' 3PT Jump Shot (11 PTS) (Bridges 7 AST),101-84,101,84
+0022100439,2021-12-17,POR,CHA,34.63,3,1,22,CHA,POR,foul,26,False,False,Little Offensive Charge Foul (P1) (J.DeRosa),,101-84,101,84
+0022100439,2021-12-17,POR,CHA,34.63,3,1,22,POR,POR,tov,37,False,False,Little Offensive Foul Turnover (P3.T9),,101-84,101,84
+0022100439,2021-12-17,POR,CHA,34.77,3,1,14,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 26' 3PT Jump Shot,101-84,101,84
+0022100439,2021-12-17,POR,CHA,34.82,3,1,11,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:5),,101-84,101,84
+0022100439,2021-12-17,POR,CHA,35.17,3,0,50,POR,POR,fg_miss,86,True,False,MISS McLemore 17' Turnaround Fadeaway Shot,,101-84,101,84
+0022100439,2021-12-17,POR,CHA,35.17,3,0,50,POR,CHA,block,86,True,False,block,block,101-84,101,84
+0022100439,2021-12-17,POR,CHA,35.18,3,0,49,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,101-84,101,84
+0022100439,2021-12-17,POR,CHA,35.2,3,0,48,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#10),,101-84,101,84
+0022100439,2021-12-17,POR,CHA,35.3,3,0,42,CHA,POR,foul,2,False,False,Little S.FOUL (P2.PN) (J.DeRosa),,101-84,101,84
+0022100439,2021-12-17,POR,CHA,35.3,3,0,42,CHA,CHA,ft_make,12,False,False,,Martin Free Throw 2 of 2 (12 PTS),101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.3,3,0,42,CHA,CHA,ft_make,11,False,False,,Martin Free Throw 1 of 2 (11 PTS),101-85,101,85
+0022100439,2021-12-17,POR,CHA,35.65,3,0,21,POR,POR,fg_miss,101,False,False,MISS Simons 12' Driving Floating Jump Shot,,101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.7,3,0,18,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:8),,101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.7,3,0,18,POR,CHA,foul,1,False,False,,Smith P.FOUL (P2.T3) (M.Dagher),101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.92,3,0,5,POR,POR,fg3_miss,79,False,False,MISS Simons 28' 3PT Pullup Jump Shot,,101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.98,3,0,1,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:1 Def:6),,101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.98,3,0,1,POR,POR,fg_miss,97,False,False,MISS Nance Jr. Tip Layup Shot,,101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.98,3,0,1,POR,POR,reb,0,False,False,Covington REBOUND (Off:2 Def:8),,101-86,101,86
+0022100439,2021-12-17,POR,CHA,35.98,3,0,1,POR,POR,fg_make,72,False,False,Covington 1' Putback Layup (7 PTS),,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.0,3,0,0,CHA,CHA,fg3_miss,79,False,False,,MISS Smith 53' 3PT Pullup Jump Shot,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.0,3,0,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.0,3,0,0,CHA,,period_end,0,False,False,,,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.0,4,12,0,CHA,,period_start,0,False,False,,,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.37,4,11,38,POR,POR,tov,2,False,True,Simons Lost Ball Turnover (P2.T11),,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.37,4,11,38,POR,CHA,steal,2,False,True,steal,steal,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.45,4,11,33,CHA,CHA,fg_miss,41,False,False,,MISS Oubre Jr. 2' Running Layup,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.5,4,11,30,POR,POR,reb,0,False,False,McLemore REBOUND (Off:0 Def:1),,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.87,4,11,8,POR,POR,fg3_miss,1,False,False,MISS Powell 26' 3PT Jump Shot,,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.88,4,11,7,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,103-86,103,86
+0022100439,2021-12-17,POR,CHA,36.88,4,11,7,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#12),,103-86,103,86
+0022100439,2021-12-17,POR,CHA,37.1,4,10,54,CHA,CHA,tov,1,False,True,,Washington Bad Pass Turnover (P3.T9),103-86,103,86
+0022100439,2021-12-17,POR,CHA,37.1,4,10,54,CHA,POR,steal,1,False,True,steal,steal,103-86,103,86
+0022100439,2021-12-17,POR,CHA,37.32,4,10,41,POR,POR,tov,37,False,False,Nance Jr. Offensive Foul Turnover (P1.T13),,103-86,103,86
+0022100439,2021-12-17,POR,CHA,37.32,4,10,41,CHA,POR,foul,4,False,False,Nance Jr. OFF.Foul (P4) (M.Davis),,103-86,103,86
+0022100439,2021-12-17,POR,CHA,37.57,4,10,26,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 3PT Jump Shot (14 PTS) (Martin 5 AST),103-89,103,89
+0022100439,2021-12-17,POR,CHA,38.0,4,10,0,POR,POR,fg3_make,1,False,False,McLemore 3PT Jump Shot (23 PTS) (Powell 4 AST),,106-89,106,89
+0022100439,2021-12-17,POR,CHA,38.15,4,9,51,CHA,CHA,fg_make,73,False,False,,Smith 5' Driving Reverse Layup (2 PTS),106-91,106,91
+0022100439,2021-12-17,POR,CHA,38.43,4,9,34,POR,POR,fg_miss,79,False,False,MISS Powell 14' Pullup Jump Shot,,106-91,106,91
+0022100439,2021-12-17,POR,CHA,38.47,4,9,32,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:1),106-91,106,91
+0022100439,2021-12-17,POR,CHA,38.67,4,9,20,CHA,CHA,fg_make,6,False,False,,Smith 2' Driving Layup (4 PTS),106-93,106,93
+0022100439,2021-12-17,POR,CHA,38.93,4,9,4,POR,POR,tov,21,False,False,Simons Palming Turnover (P3.T14),,106-93,106,93
+0022100439,2021-12-17,POR,CHA,39.17,4,8,50,CHA,CHA,fg3_miss,79,False,False,,MISS Smith 26' 3PT Pullup Jump Shot,106-93,106,93
+0022100439,2021-12-17,POR,CHA,39.2,4,8,48,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:2 Def:1),106-93,106,93
+0022100439,2021-12-17,POR,CHA,39.23,4,8,46,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 27' 3PT Jump Shot,106-93,106,93
+0022100439,2021-12-17,POR,CHA,39.33,4,8,40,POR,POR,reb,0,False,False,McLemore REBOUND (Off:0 Def:2),,106-93,106,93
+0022100439,2021-12-17,POR,CHA,39.47,4,8,32,POR,POR,fg_make,102,False,False,Powell 8' Driving Floating Bank Jump Shot (11 PTS) (Little 5 AST),,108-93,108,93
+0022100439,2021-12-17,POR,CHA,39.62,4,8,23,CHA,POR,foul,2,False,False,Nurkic S.FOUL (P5.T1) (M.Davis),,108-93,108,93
+0022100439,2021-12-17,POR,CHA,39.62,4,8,23,CHA,CHA,ft_make,11,False,False,,Washington Free Throw 1 of 2 (12 PTS),108-94,108,94
+0022100439,2021-12-17,POR,CHA,39.62,4,8,23,CHA,CHA,ft_make,12,False,False,,Washington Free Throw 2 of 2 (13 PTS),108-95,108,95
+0022100439,2021-12-17,POR,CHA,39.85,4,8,9,POR,POR,fg3_miss,80,False,False,MISS McLemore 3PT Step Back Jump Shot,,108-95,108,95
+0022100439,2021-12-17,POR,CHA,39.87,4,8,8,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,108-95,108,95
+0022100439,2021-12-17,POR,CHA,39.97,4,8,2,POR,POR,fg3_miss,80,False,False,MISS Lillard 25' 3PT Step Back Jump Shot,,108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.03,4,7,58,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:2),108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.13,4,7,52,CHA,CHA,fg3_miss,2,False,False,,MISS McDaniels 3PT Running Jump Shot,108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.17,4,7,50,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:3),,108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.5,4,7,30,POR,POR,fg_miss,6,False,False,MISS Nurkic 1' Driving Layup,,108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.55,4,7,27,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:2 Def:2),108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.63,4,7,22,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 29' 3PT Jump Shot,108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.68,4,7,19,POR,POR,reb,0,False,False,Lillard REBOUND (Off:1 Def:3),,108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.88,4,7,7,POR,POR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,108-95,108,95
+0022100439,2021-12-17,POR,CHA,40.92,4,7,5,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:3),108-95,108,95
+0022100439,2021-12-17,POR,CHA,41.02,4,6,59,CHA,CHA,fg_make,41,False,False,,Smith 2' Running Layup (6 PTS),108-97,108,97
+0022100439,2021-12-17,POR,CHA,41.33,4,6,40,POR,POR,fg3_make,1,False,False,Powell 24' 3PT Jump Shot (14 PTS) (Lillard 8 AST),,111-97,111,97
+0022100439,2021-12-17,POR,CHA,41.33,4,6,40,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.6 Short 0),111-97,111,97
+0022100439,2021-12-17,POR,CHA,41.57,4,6,26,CHA,POR,foul,1,False,False,Nurkic P.FOUL (P6.T2) (M.Dagher),,111-97,111,97
+0022100439,2021-12-17,POR,CHA,41.57,4,6,26,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,111-97,111,97
+0022100439,2021-12-17,POR,CHA,41.78,4,6,13,CHA,CHA,tov,2,False,True,,Bridges Lost Ball Turnover (P2.T10),111-97,111,97
+0022100439,2021-12-17,POR,CHA,41.78,4,6,13,CHA,POR,steal,2,False,True,steal,steal,111-97,111,97
+0022100439,2021-12-17,POR,CHA,41.85,4,6,9,POR,POR,fg_make,50,False,False,McLemore Running Dunk (25 PTS) (Little 6 AST),,113-97,113,97
+0022100439,2021-12-17,POR,CHA,41.88,4,6,7,CHA,POR,violation,1,False,False,TRAIL BLAZERS Violation: Delay of game Violation,,113-97,113,97
+0022100439,2021-12-17,POR,CHA,42.13,4,5,52,CHA,CHA,fg3_miss,80,False,False,,MISS Ball 27' 3PT Step Back Jump Shot,113-97,113,97
+0022100439,2021-12-17,POR,CHA,42.15,4,5,51,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:6),,113-97,113,97
+0022100439,2021-12-17,POR,CHA,42.15,4,5,51,POR,CHA,foul,1,False,False,,McDaniels P.FOUL (P1.T1) (J.DeRosa),113-97,113,97
+0022100439,2021-12-17,POR,CHA,42.37,4,5,38,POR,CHA,foul,1,False,False,,Oubre Jr. P.FOUL (P3.T2) (M.Dagher),113-97,113,97
+0022100439,2021-12-17,POR,CHA,42.52,4,5,29,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P3.T15),,113-97,113,97
+0022100439,2021-12-17,POR,CHA,42.52,4,5,29,POR,CHA,steal,1,False,True,steal,steal,113-97,113,97
+0022100439,2021-12-17,POR,CHA,42.57,4,5,26,CHA,CHA,fg_make,50,False,False,,Ball 1' Running Dunk (19 PTS),113-99,113,99
+0022100439,2021-12-17,POR,CHA,42.85,4,5,9,POR,POR,fg3_miss,1,False,False,MISS McLemore 25' 3PT Jump Shot,,113-99,113,99
+0022100439,2021-12-17,POR,CHA,42.9,4,5,6,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:2 Def:3),113-99,113,99
+0022100439,2021-12-17,POR,CHA,43.05,4,4,57,CHA,CHA,fg3_miss,1,False,False,,MISS McDaniels 27' 3PT Jump Shot,113-99,113,99
+0022100439,2021-12-17,POR,CHA,43.08,4,4,55,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:7),,113-99,113,99
+0022100439,2021-12-17,POR,CHA,43.32,4,4,41,POR,POR,fg_make,6,False,False,Lillard Driving Layup (38 PTS),,115-99,115,99
+0022100439,2021-12-17,POR,CHA,43.48,4,4,31,CHA,CHA,fg3_make,1,False,False,,Washington 3PT Jump Shot (16 PTS) (Ball 5 AST),115-102,115,102
+0022100439,2021-12-17,POR,CHA,43.95,4,4,3,POR,CHA,steal,1,False,True,steal,steal,115-102,115,102
+0022100439,2021-12-17,POR,CHA,43.95,4,4,3,POR,POR,tov,1,False,True,McLemore Bad Pass Turnover (P2.T16),,115-102,115,102
+0022100439,2021-12-17,POR,CHA,44.15,4,3,51,CHA,CHA,fg_make,5,False,False,,Martin 1' Layup (14 PTS) (Bridges 8 AST),115-104,115,104
+0022100439,2021-12-17,POR,CHA,44.15,4,3,51,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,115-104,115,104
+0022100439,2021-12-17,POR,CHA,44.37,4,3,38,POR,POR,fg3_miss,1,False,False,MISS Covington 3PT Jump Shot,,115-104,115,104
+0022100439,2021-12-17,POR,CHA,44.42,4,3,35,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:4),115-104,115,104
+0022100439,2021-12-17,POR,CHA,44.5,4,3,30,CHA,CHA,tov,1,False,True,,Oubre Jr. Bad Pass Turnover (P1.T11),115-104,115,104
+0022100439,2021-12-17,POR,CHA,44.5,4,3,30,CHA,POR,steal,1,False,True,steal,steal,115-104,115,104
+0022100439,2021-12-17,POR,CHA,44.68,4,3,19,POR,CHA,foul,2,False,False,,Ball S.FOUL (P2.T3) (M.Dagher),115-104,115,104
+0022100439,2021-12-17,POR,CHA,44.68,4,3,19,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (39 PTS),,116-104,116,104
+0022100439,2021-12-17,POR,CHA,44.68,4,3,19,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (40 PTS),,117-104,117,104
+0022100439,2021-12-17,POR,CHA,44.77,4,3,14,CHA,POR,foul,1,False,False,Powell P.FOUL (P4.T3) (J.DeRosa),,117-104,117,104
+0022100439,2021-12-17,POR,CHA,44.92,4,3,5,CHA,CHA,fg_make,6,False,False,,Ball 1' Driving Layup (21 PTS),117-106,117,106
+0022100439,2021-12-17,POR,CHA,45.22,4,2,47,POR,POR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,117-106,117,106
+0022100439,2021-12-17,POR,CHA,45.25,4,2,45,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:5),117-106,117,106
+0022100439,2021-12-17,POR,CHA,45.38,4,2,37,CHA,CHA,fg_make,101,False,False,,Ball 4' Driving Floating Jump Shot (23 PTS) (Bridges 9 AST),117-108,117,108
+0022100439,2021-12-17,POR,CHA,45.62,4,2,23,POR,CHA,foul,1,False,False,,Oubre Jr. P.FOUL (P4.T4) (M.Dagher),117-108,117,108
+0022100439,2021-12-17,POR,CHA,45.82,4,2,11,POR,POR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,117-108,117,108
+0022100439,2021-12-17,POR,CHA,45.85,4,2,9,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:3),117-108,117,108
+0022100439,2021-12-17,POR,CHA,46.05,4,1,57,CHA,CHA,tov,40,False,False,,Oubre Jr. Out of Bounds Lost Ball Turnover (P2.T12),117-108,117,108
+0022100439,2021-12-17,POR,CHA,46.27,4,1,44,POR,CHA,foul,1,False,False,,Oubre Jr. P.FOUL (P5.PN) (J.DeRosa),117-108,117,108
+0022100439,2021-12-17,POR,CHA,46.27,4,1,44,POR,POR,ft_miss,11,False,False,MISS Lillard Free Throw 1 of 2,,117-108,117,108
+0022100439,2021-12-17,POR,CHA,46.27,4,1,44,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,117-108,117,108
+0022100439,2021-12-17,POR,CHA,46.27,4,1,44,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (41 PTS),,118-108,118,108
+0022100439,2021-12-17,POR,CHA,46.45,4,1,33,CHA,CHA,fg_make,9,False,False,,Ball 1' Driving Dunk (25 PTS),118-110,118,110
+0022100439,2021-12-17,POR,CHA,46.65,4,1,21,POR,POR,tov,1,False,True,Powell Bad Pass Turnover (P1.T17),,118-110,118,110
+0022100439,2021-12-17,POR,CHA,46.65,4,1,21,POR,CHA,steal,1,False,True,steal,steal,118-110,118,110
+0022100439,2021-12-17,POR,CHA,46.72,4,1,17,CHA,CHA,fg_make,41,False,False,,Oubre Jr. 1' Running Layup (16 PTS) (Bridges 10 AST),118-112,118,112
+0022100439,2021-12-17,POR,CHA,46.98,4,1,1,POR,CHA,violation,5,False,False,,Martin Violation:Kicked Ball (J.DeRosa),118-112,118,112
+0022100439,2021-12-17,POR,CHA,47.18,4,0,49,POR,POR,fg3_make,80,False,False,McLemore 24' 3PT Step Back Jump Shot (28 PTS) (Powell 5 AST),,121-112,121,112
+0022100439,2021-12-17,POR,CHA,47.33,4,0,40,CHA,CHA,fg_make,6,False,False,,Oubre Jr. 2' Driving Layup (18 PTS),121-114,121,114
+0022100439,2021-12-17,POR,CHA,47.48,4,0,31,POR,CHA,block,6,True,False,block,block,121-114,121,114
+0022100439,2021-12-17,POR,CHA,47.48,4,0,31,POR,POR,fg_miss,6,True,False,MISS Powell Driving Layup,,121-114,121,114
+0022100439,2021-12-17,POR,CHA,47.48,4,0,31,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,121-114,121,114
+0022100439,2021-12-17,POR,CHA,47.52,4,0,29,POR,CHA,foul,28,False,False,,Ball Personal Take Foul (P3.PN) (M.Davis),121-114,121,114
+0022100439,2021-12-17,POR,CHA,47.52,4,0,29,POR,POR,ft_make,11,False,False,Nance Jr. Free Throw 1 of 2 (9 PTS),,122-114,122,114
+0022100439,2021-12-17,POR,CHA,47.52,4,0,29,POR,POR,ft_make,12,False,False,Nance Jr. Free Throw 2 of 2 (10 PTS),,123-114,123,114
+0022100439,2021-12-17,POR,CHA,47.58,4,0,25,CHA,CHA,tov,39,False,False,,Ball Step Out of Bounds Turnover (P2.T13),123-114,123,114
+0022100439,2021-12-17,POR,CHA,47.77,4,0,14,POR,CHA,foul,28,False,False,,Ball Personal Take Foul (P4.PN) (M.Davis),123-114,123,114
+0022100439,2021-12-17,POR,CHA,47.77,4,0,14,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (42 PTS),,124-114,124,114
+0022100439,2021-12-17,POR,CHA,47.77,4,0,14,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (43 PTS),,125-114,125,114
+0022100439,2021-12-17,POR,CHA,47.85,4,0,9,CHA,CHA,fg_make,6,False,False,,Ball 1' Driving Layup (27 PTS) (Bridges 11 AST),125-116,125,116
+0022100439,2021-12-17,POR,CHA,48.0,4,0,0,CHA,,period_end,0,False,False,,,125-116,125,116

@@ -1,0 +1,442 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900541,2020-01-06,PHI,OKC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900541,2020-01-06,PHI,OKC,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Adams: Tip to Gilgeous-Alexander,,0-0,0,0
+0021900541,2020-01-06,PHI,OKC,0.28,1,11,43,OKC,OKC,fg_miss,58,False,False,,MISS Adams 7' Turnaround Hook Shot,0-0,0,0
+0021900541,2020-01-06,PHI,OKC,0.32,1,11,41,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:1),,0-0,0,0
+0021900541,2020-01-06,PHI,OKC,0.53,1,11,28,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 25' 3PT Jump Shot,,0-0,0,0
+0021900541,2020-01-06,PHI,OKC,0.58,1,11,25,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:1),0-0,0,0
+0021900541,2020-01-06,PHI,OKC,0.65,1,11,21,OKC,OKC,fg3_make,1,False,False,,Ferguson 26' 3PT Jump Shot (3 PTS) (Paul 1 AST),0-3,0,3
+0021900541,2020-01-06,PHI,OKC,1.0,1,11,0,PHI,PHI,fg_make,1,False,False,Embiid 11' Jump Shot (2 PTS) (Harris 1 AST),,2-3,2,3
+0021900541,2020-01-06,PHI,OKC,1.2,1,10,48,OKC,OKC,fg_make,101,False,False,,Gilgeous-Alexander 7' Driving Floating Jump Shot (2 PTS),2-5,2,5
+0021900541,2020-01-06,PHI,OKC,1.35,1,10,39,PHI,PHI,fg_miss,41,False,False,MISS Simmons 2' Running Layup,,2-5,2,5
+0021900541,2020-01-06,PHI,OKC,1.38,1,10,37,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:1),2-5,2,5
+0021900541,2020-01-06,PHI,OKC,1.68,1,10,19,OKC,OKC,fg_miss,101,False,False,,MISS Gilgeous-Alexander 15' Driving Floating Jump Shot,2-5,2,5
+0021900541,2020-01-06,PHI,OKC,1.72,1,10,17,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,2-5,2,5
+0021900541,2020-01-06,PHI,OKC,1.95,1,10,3,PHI,PHI,fg_miss,79,False,False,MISS Harris 18' Pullup Jump Shot,,2-5,2,5
+0021900541,2020-01-06,PHI,OKC,2.0,1,10,0,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:1),2-5,2,5
+0021900541,2020-01-06,PHI,OKC,2.17,1,9,50,OKC,OKC,fg3_miss,79,False,False,,MISS Gallinari 25' 3PT Pullup Jump Shot,2-5,2,5
+0021900541,2020-01-06,PHI,OKC,2.2,1,9,48,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,2-5,2,5
+0021900541,2020-01-06,PHI,OKC,2.33,1,9,40,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 25' 3PT Jump Shot,,2-5,2,5
+0021900541,2020-01-06,PHI,OKC,2.37,1,9,38,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:2),2-5,2,5
+0021900541,2020-01-06,PHI,OKC,2.4,1,9,36,OKC,OKC,tov,45,False,False,,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T1),2-5,2,5
+0021900541,2020-01-06,PHI,OKC,2.68,1,9,19,PHI,PHI,fg_make,67,False,False,Simmons 6' Hook Bank Shot (2 PTS) (Richardson 1 AST),,4-5,4,5
+0021900541,2020-01-06,PHI,OKC,2.85,1,9,9,OKC,OKC,fg3_miss,1,False,False,,MISS Ferguson 25' 3PT Jump Shot,4-5,4,5
+0021900541,2020-01-06,PHI,OKC,2.9,1,9,6,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:2),,4-5,4,5
+0021900541,2020-01-06,PHI,OKC,3.07,1,8,56,PHI,PHI,fg_make,6,False,False,Horford 2' Driving Layup (2 PTS) (Harris 2 AST),,6-5,6,5
+0021900541,2020-01-06,PHI,OKC,3.23,1,8,46,OKC,OKC,fg_make,93,False,False,,Gilgeous-Alexander 7' Driving Bank Hook Shot (4 PTS),6-7,6,7
+0021900541,2020-01-06,PHI,OKC,3.57,1,8,26,PHI,PHI,fg_miss,47,True,False,MISS Embiid 7' Turnaround Jump Shot,,6-7,6,7
+0021900541,2020-01-06,PHI,OKC,3.57,1,8,26,PHI,OKC,block,47,True,False,block,block,6-7,6,7
+0021900541,2020-01-06,PHI,OKC,3.62,1,8,23,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:3),6-7,6,7
+0021900541,2020-01-06,PHI,OKC,3.75,1,8,15,OKC,OKC,fg_make,3,False,False,,Adams 8' Hook Shot (2 PTS),6-9,6,9
+0021900541,2020-01-06,PHI,OKC,3.97,1,8,2,PHI,PHI,fg_make,5,False,False,Richardson 1' Layup (2 PTS) (Simmons 1 AST),,8-9,8,9
+0021900541,2020-01-06,PHI,OKC,4.25,1,7,45,OKC,PHI,foul,2,False,False,Embiid S.FOUL (P1.T1) (M.Boland),,8-9,8,9
+0021900541,2020-01-06,PHI,OKC,4.25,1,7,45,OKC,OKC,ft_make,11,False,False,,Adams Free Throw 1 of 2 (3 PTS),8-10,8,10
+0021900541,2020-01-06,PHI,OKC,4.25,1,7,45,OKC,OKC,ft_miss,12,False,False,,MISS Adams Free Throw 2 of 2,8-10,8,10
+0021900541,2020-01-06,PHI,OKC,4.28,1,7,43,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:1),,8-10,8,10
+0021900541,2020-01-06,PHI,OKC,4.5,1,7,30,PHI,PHI,fg_make,63,False,False,Richardson 8' Fadeaway Jumper (4 PTS),,10-10,10,10
+0021900541,2020-01-06,PHI,OKC,4.87,1,7,8,OKC,OKC,fg3_miss,79,False,False,,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,10-10,10,10
+0021900541,2020-01-06,PHI,OKC,4.88,1,7,7,PHI,PHI,reb,0,False,False,76ERS Rebound,,10-10,10,10
+0021900541,2020-01-06,PHI,OKC,5.13,1,6,52,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P1.T1),,10-10,10,10
+0021900541,2020-01-06,PHI,OKC,5.13,1,6,52,PHI,OKC,steal,2,False,True,steal,steal,10-10,10,10
+0021900541,2020-01-06,PHI,OKC,5.22,1,6,47,OKC,OKC,fg3_make,103,False,False,,Paul 25' 3PT Running Pull-Up Jump Shot (3 PTS),10-13,10,13
+0021900541,2020-01-06,PHI,OKC,5.5,1,6,30,PHI,PHI,fg_miss,93,False,False,MISS Richardson 8' Driving Bank Hook Shot,,10-13,10,13
+0021900541,2020-01-06,PHI,OKC,5.53,1,6,28,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:1),10-13,10,13
+0021900541,2020-01-06,PHI,OKC,5.6,1,6,24,OKC,OKC,fg3_make,103,False,False,,Paul 25' 3PT Running Pull-Up Jump Shot (6 PTS),10-16,10,16
+0021900541,2020-01-06,PHI,OKC,5.9,1,6,6,PHI,PHI,fg3_make,80,False,False,Harris 25' 3PT Step Back Jump Shot (3 PTS) (Horford 1 AST),,13-16,13,16
+0021900541,2020-01-06,PHI,OKC,6.25,1,5,45,OKC,OKC,fg3_miss,1,False,False,,MISS Paul 26' 3PT Jump Shot,13-16,13,16
+0021900541,2020-01-06,PHI,OKC,6.3,1,5,42,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:1),13-16,13,16
+0021900541,2020-01-06,PHI,OKC,6.35,1,5,39,OKC,PHI,foul,1,False,False,Richardson P.FOUL (P1.T2) (C.Kirkland),,13-16,13,16
+0021900541,2020-01-06,PHI,OKC,6.35,1,5,39,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,13-16,13,16
+0021900541,2020-01-06,PHI,OKC,6.57,1,5,26,OKC,OKC,tov,40,False,False,,Paul Out of Bounds Lost Ball Turnover (P2.T2),13-16,13,16
+0021900541,2020-01-06,PHI,OKC,6.83,1,5,10,PHI,PHI,fg_miss,6,False,False,MISS Korkmaz 2' Driving Layup,,13-16,13,16
+0021900541,2020-01-06,PHI,OKC,6.88,1,5,7,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:2),13-16,13,16
+0021900541,2020-01-06,PHI,OKC,7.0,1,5,0,OKC,PHI,foul,2,False,False,Korkmaz S.FOUL (P1.T3) (M.Boland),,13-16,13,16
+0021900541,2020-01-06,PHI,OKC,7.0,1,5,0,OKC,OKC,ft_make,11,False,False,,Schroder Free Throw 1 of 2 (1 PTS),13-17,13,17
+0021900541,2020-01-06,PHI,OKC,7.0,1,5,0,OKC,OKC,ft_make,12,False,False,,Schroder Free Throw 2 of 2 (2 PTS),13-18,13,18
+0021900541,2020-01-06,PHI,OKC,7.2,1,4,48,PHI,OKC,foul,1,False,False,,Ferguson P.FOUL (P1.T1) (M.Boland),13-18,13,18
+0021900541,2020-01-06,PHI,OKC,7.42,1,4,35,PHI,PHI,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (6 PTS) (Simmons 2 AST),,16-18,16,18
+0021900541,2020-01-06,PHI,OKC,7.63,1,4,22,OKC,OKC,fg_make,1,False,False,,Gallinari 3' Jump Shot (2 PTS) (Muscala 1 AST),16-20,16,20
+0021900541,2020-01-06,PHI,OKC,7.73,1,4,16,PHI,PHI,fg3_make,1,False,False,Ennis III 25' 3PT Jump Shot (3 PTS) (Simmons 3 AST),,19-20,19,20
+0021900541,2020-01-06,PHI,OKC,8.1,1,3,54,OKC,PHI,foul,1,False,False,Harris P.FOUL (P1.T4) (C.Kirkland),,19-20,19,20
+0021900541,2020-01-06,PHI,OKC,8.22,1,3,47,OKC,OKC,fg_miss,75,False,False,,MISS Schroder 3' Driving Finger Roll Layup,19-20,19,20
+0021900541,2020-01-06,PHI,OKC,8.25,1,3,45,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:1),,19-20,19,20
+0021900541,2020-01-06,PHI,OKC,8.38,1,3,37,PHI,PHI,tov,45,False,False,Simmons Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,19-20,19,20
+0021900541,2020-01-06,PHI,OKC,8.38,1,3,37,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),19-20,19,20
+0021900541,2020-01-06,PHI,OKC,8.58,1,3,25,OKC,OKC,fg_make,58,False,False,,Diallo 4' Turnaround Hook Shot (2 PTS) (Schroder 1 AST),19-22,19,22
+0021900541,2020-01-06,PHI,OKC,8.82,1,3,11,PHI,PHI,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (9 PTS) (Simmons 4 AST),,22-22,22,22
+0021900541,2020-01-06,PHI,OKC,9.08,1,2,55,OKC,OKC,fg3_make,1,False,False,,Muscala 25' 3PT Jump Shot (3 PTS) (Schroder 2 AST),22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.28,1,2,43,PHI,PHI,fg_miss,75,False,False,MISS Simmons 2' Driving Finger Roll Layup,,22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.33,1,2,40,OKC,OKC,reb,0,False,False,,Diallo REBOUND (Off:0 Def:1),22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.33,1,2,40,PHI,OKC,foul,4,False,False,,Diallo OFF.Foul (P1) (M.Boland),22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.33,1,2,40,OKC,OKC,tov,37,False,False,,Diallo Offensive Foul Turnover (P1.T3),22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.48,1,2,31,PHI,PHI,fg_miss,1,False,False,MISS Horford 19' Jump Shot,,22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.5,1,2,30,PHI,PHI,reb,0,False,False,76ERS Rebound,,22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.5,1,2,30,PHI,OKC,foul,3,False,False,,Gilgeous-Alexander L.B.FOUL (P1.T2) (M.Boland),22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.63,1,2,22,PHI,PHI,fg_miss,101,False,False,MISS Embiid 7' Driving Floating Jump Shot,,22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.72,1,2,17,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:1),,22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.72,1,2,17,PHI,PHI,fg_miss,97,False,False,MISS Simmons 1' Tip Layup Shot,,22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.75,1,2,15,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:1),,22-25,22,25
+0021900541,2020-01-06,PHI,OKC,9.75,1,2,15,PHI,PHI,fg_make,97,False,False,Simmons 1' Tip Layup Shot (4 PTS),,24-25,24,25
+0021900541,2020-01-06,PHI,OKC,9.93,1,2,4,OKC,OKC,fg_make,79,False,False,,Schroder 15' Pullup Jump Shot (4 PTS),24-27,24,27
+0021900541,2020-01-06,PHI,OKC,10.12,1,1,53,PHI,PHI,fg_make,63,False,False,Korkmaz 11' Fadeaway Jumper (2 PTS) (Embiid 1 AST),,26-27,26,27
+0021900541,2020-01-06,PHI,OKC,10.12,1,1,53,PHI,OKC,foul,2,False,False,,Schroder S.FOUL (P1.T3) (M.Boland),26-27,26,27
+0021900541,2020-01-06,PHI,OKC,10.12,1,1,53,PHI,PHI,ft_make,10,False,False,Korkmaz Free Throw 1 of 1 (3 PTS),,27-27,27,27
+0021900541,2020-01-06,PHI,OKC,10.43,1,1,34,OKC,OKC,fg_miss,79,False,False,,MISS Bazley 10' Pullup Jump Shot,27-27,27,27
+0021900541,2020-01-06,PHI,OKC,10.52,1,1,29,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:1 Def:1),27-27,27,27
+0021900541,2020-01-06,PHI,OKC,10.52,1,1,29,OKC,OKC,fg_miss,107,False,False,,MISS Adams 1' Tip Dunk Shot,27-27,27,27
+0021900541,2020-01-06,PHI,OKC,10.52,1,1,29,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:1),27-27,27,27
+0021900541,2020-01-06,PHI,OKC,10.53,1,1,28,OKC,OKC,fg_make,87,False,False,,Adams 3' Putback Dunk (5 PTS),27-29,27,29
+0021900541,2020-01-06,PHI,OKC,10.57,1,1,26,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,27-29,27,29
+0021900541,2020-01-06,PHI,OKC,10.57,1,1,26,OKC,PHI,violation,1,False,False,76ERS Violation: Delay of game Violation,,27-29,27,29
+0021900541,2020-01-06,PHI,OKC,10.7,1,1,18,OKC,PHI,foul,4,False,False,Simmons OFF.Foul (P1) (C.Kirkland),,27-29,27,29
+0021900541,2020-01-06,PHI,OKC,10.7,1,1,18,PHI,PHI,tov,37,False,False,Simmons Offensive Foul Turnover (P2.T3),,27-29,27,29
+0021900541,2020-01-06,PHI,OKC,10.9,1,1,6,OKC,OKC,fg_miss,44,False,False,,MISS Diallo 2' Reverse Layup,27-29,27,29
+0021900541,2020-01-06,PHI,OKC,10.93,1,1,4,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,27-29,27,29
+0021900541,2020-01-06,PHI,OKC,11.08,1,0,55,PHI,PHI,fg_make,93,False,False,Horford 4' Driving Bank Hook Shot (4 PTS) (Korkmaz 1 AST),,29-29,29,29
+0021900541,2020-01-06,PHI,OKC,11.4,1,0,36,OKC,OKC,fg_make,79,False,False,,Schroder 17' Pullup Jump Shot (6 PTS),29-31,29,31
+0021900541,2020-01-06,PHI,OKC,11.75,1,0,15,PHI,PHI,fg_make,73,False,False,Burke 2' Driving Reverse Layup (2 PTS),,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.0,1,0,0,OKC,OKC,fg3_miss,1,False,False,,MISS Paul 27' 3PT Jump Shot,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.0,1,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.0,1,0,0,OKC,,period_end,0,False,False,,,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.0,2,12,0,OKC,,period_start,0,False,False,,,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.4,2,11,36,PHI,PHI,fg_miss,6,False,False,MISS Ennis III 2' Driving Layup,,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.42,2,11,35,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:2),,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.45,2,11,33,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.45,2,11,33,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:2),31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.75,2,11,15,OKC,OKC,tov,2,False,True,,Schroder Lost Ball Turnover (P1.T4),31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.75,2,11,15,OKC,PHI,steal,2,False,True,steal,steal,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.85,2,11,9,PHI,PHI,fg3_miss,1,False,False,MISS Ennis III 27' 3PT Jump Shot,,31-31,31,31
+0021900541,2020-01-06,PHI,OKC,12.95,2,11,3,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:1),31-31,31,31
+0021900541,2020-01-06,PHI,OKC,13.0,2,11,0,PHI,OKC,foul,26,False,False,,Bazley Offensive Charge Foul (P1.T1) (C.Kirkland),31-31,31,31
+0021900541,2020-01-06,PHI,OKC,13.0,2,11,0,OKC,OKC,tov,37,False,False,,Bazley Offensive Foul Turnover (P1.T5),31-31,31,31
+0021900541,2020-01-06,PHI,OKC,13.2,2,10,48,PHI,PHI,fg3_make,1,False,False,Burke 26' 3PT Jump Shot (5 PTS) (Richardson 2 AST),,34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.52,2,10,29,OKC,OKC,tov,1,False,True,,Bazley Bad Pass Turnover (P2.T6),34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.52,2,10,29,OKC,PHI,steal,1,False,True,steal,steal,34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.6,2,10,24,PHI,PHI,fg_miss,74,True,False,MISS Ennis III 2' Running Reverse Layup,,34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.6,2,10,24,PHI,OKC,block,74,True,False,block,block,34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.63,2,10,22,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:3),34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.75,2,10,15,OKC,OKC,fg_miss,86,False,False,,MISS Diallo 9' Turnaround Fadeaway Shot,34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.8,2,10,12,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:3 Def:3),34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.8,2,10,12,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),34-31,34,31
+0021900541,2020-01-06,PHI,OKC,13.93,2,10,4,OKC,OKC,fg_make,52,False,False,,Diallo 2' Alley Oop Dunk (4 PTS) (Paul 2 AST),34-33,34,33
+0021900541,2020-01-06,PHI,OKC,14.18,2,9,49,PHI,PHI,fg_miss,79,False,False,MISS Richardson 22' Pullup Jump Shot,,34-33,34,33
+0021900541,2020-01-06,PHI,OKC,14.25,2,9,45,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:4),34-33,34,33
+0021900541,2020-01-06,PHI,OKC,14.35,2,9,39,OKC,OKC,fg3_make,1,False,False,,Bazley 3PT Jump Shot (3 PTS) (Adams 1 AST),34-36,34,36
+0021900541,2020-01-06,PHI,OKC,14.7,2,9,18,PHI,PHI,fg_make,1,False,False,Embiid 11' Jump Shot (4 PTS),,36-36,36,36
+0021900541,2020-01-06,PHI,OKC,14.97,2,9,2,OKC,OKC,fg_miss,6,False,False,,MISS Diallo 5' Driving Layup,36-36,36,36
+0021900541,2020-01-06,PHI,OKC,14.98,2,9,1,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:4 Def:3),36-36,36,36
+0021900541,2020-01-06,PHI,OKC,15.03,2,8,58,OKC,OKC,fg_make,72,False,False,,Adams 2' Putback Layup (7 PTS),36-38,36,38
+0021900541,2020-01-06,PHI,OKC,15.2,2,8,48,PHI,PHI,fg_make,79,False,False,Richardson 6' Pullup Jump Shot (6 PTS),,38-38,38,38
+0021900541,2020-01-06,PHI,OKC,15.28,2,8,43,OKC,OKC,fg_make,76,False,False,,Adams 2' Running Finger Roll Layup (9 PTS) (Paul 3 AST),38-40,38,40
+0021900541,2020-01-06,PHI,OKC,15.28,2,8,43,OKC,PHI,foul,2,False,False,Richardson S.FOUL (P2.T1) (M.Boland),,38-40,38,40
+0021900541,2020-01-06,PHI,OKC,15.28,2,8,43,OKC,OKC,ft_make,10,False,False,,Adams Free Throw 1 of 1 (10 PTS),38-41,38,41
+0021900541,2020-01-06,PHI,OKC,15.38,2,8,37,PHI,OKC,foul,1,False,False,,Schroder P.FOUL (P2.T2) (M.Boland),38-41,38,41
+0021900541,2020-01-06,PHI,OKC,15.6,2,8,24,PHI,PHI,fg_miss,58,False,False,MISS Embiid 7' Turnaround Hook Shot,,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,15.67,2,8,20,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:4 Def:4),38-41,38,41
+0021900541,2020-01-06,PHI,OKC,15.93,2,8,4,OKC,OKC,fg_miss,101,False,False,,MISS Paul 11' Driving Floating Jump Shot,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.0,2,8,0,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:1 Def:4),38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.08,2,7,55,OKC,OKC,fg_miss,93,False,False,,MISS Bazley 3' Driving Bank Hook Shot,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.13,2,7,52,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.27,2,7,44,OKC,PHI,foul,26,False,False,Embiid Offensive Charge Foul (P2.T2) (C.Kirkland),,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.27,2,7,44,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P2.T4),,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.45,2,7,33,OKC,OKC,fg_miss,102,False,False,,MISS Schroder 9' Driving Floating Bank Jump Shot,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.48,2,7,31,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:2),,38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.57,2,7,26,PHI,OKC,foul,2,False,False,,Muscala S.FOUL (P1.T3) (C.Kirkland),38-41,38,41
+0021900541,2020-01-06,PHI,OKC,16.57,2,7,26,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (5 PTS),,39-41,39,41
+0021900541,2020-01-06,PHI,OKC,16.57,2,7,26,PHI,PHI,ft_miss,12,False,False,MISS Simmons Free Throw 2 of 2,,39-41,39,41
+0021900541,2020-01-06,PHI,OKC,16.6,2,7,24,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:2),39-41,39,41
+0021900541,2020-01-06,PHI,OKC,16.98,2,7,1,OKC,OKC,fg_miss,71,False,False,,MISS Gilgeous-Alexander 4' Finger Roll Layup,39-41,39,41
+0021900541,2020-01-06,PHI,OKC,17.02,2,6,59,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:2),,39-41,39,41
+0021900541,2020-01-06,PHI,OKC,17.07,2,6,56,PHI,OKC,foul,2,False,False,,Muscala S.FOUL (P2.T4) (M.Boland),39-41,39,41
+0021900541,2020-01-06,PHI,OKC,17.07,2,6,56,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (6 PTS),,40-41,40,41
+0021900541,2020-01-06,PHI,OKC,17.07,2,6,56,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (7 PTS),,41-41,41,41
+0021900541,2020-01-06,PHI,OKC,17.33,2,6,40,OKC,OKC,fg_make,75,False,False,,Schroder Driving Finger Roll Layup (8 PTS),41-43,41,43
+0021900541,2020-01-06,PHI,OKC,17.33,2,6,40,OKC,PHI,foul,2,False,False,Korkmaz S.FOUL (P2.T3) (M.Boland),,41-43,41,43
+0021900541,2020-01-06,PHI,OKC,17.33,2,6,40,OKC,OKC,ft_make,10,False,False,,Schroder Free Throw 1 of 1 (9 PTS),41-44,41,44
+0021900541,2020-01-06,PHI,OKC,17.5,2,6,30,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,17.57,2,6,26,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:3),41-44,41,44
+0021900541,2020-01-06,PHI,OKC,17.9,2,6,6,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 26' 3PT Jump Shot,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,17.93,2,6,4,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:3),,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.05,2,5,57,PHI,PHI,fg_miss,1,False,False,MISS Horford 13' Jump Shot,,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.08,2,5,55,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:4),41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.2,2,5,48,OKC,OKC,fg3_miss,1,False,False,,MISS Ferguson 26' 3PT Jump Shot,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.25,2,5,45,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:4),,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.4,2,5,36,PHI,PHI,tov,1,False,True,Ennis III Bad Pass Turnover (P1.T5),,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.4,2,5,36,PHI,OKC,steal,1,False,True,steal,steal,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.53,2,5,28,OKC,OKC,fg3_miss,1,False,False,,MISS Schroder 25' 3PT Jump Shot,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.57,2,5,26,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:5),,41-44,41,44
+0021900541,2020-01-06,PHI,OKC,18.85,2,5,9,PHI,PHI,fg_make,6,False,False,Ennis III 2' Driving Layup (5 PTS) (Harris 3 AST),,43-44,43,44
+0021900541,2020-01-06,PHI,OKC,19.17,2,4,50,OKC,OKC,fg3_miss,1,False,False,,MISS Gallinari 25' 3PT Jump Shot,43-44,43,44
+0021900541,2020-01-06,PHI,OKC,19.22,2,4,47,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:6),,43-44,43,44
+0021900541,2020-01-06,PHI,OKC,19.33,2,4,40,PHI,PHI,fg3_make,1,False,False,Korkmaz 25' 3PT Jump Shot (6 PTS) (Horford 2 AST),,46-44,46,44
+0021900541,2020-01-06,PHI,OKC,19.72,2,4,17,OKC,OKC,fg_make,75,False,False,,Schroder 2' Driving Finger Roll Layup (11 PTS),46-46,46,46
+0021900541,2020-01-06,PHI,OKC,20.03,2,3,58,PHI,PHI,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,46-46,46,46
+0021900541,2020-01-06,PHI,OKC,20.07,2,3,56,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:5),46-46,46,46
+0021900541,2020-01-06,PHI,OKC,20.15,2,3,51,OKC,PHI,foul,2,False,False,Harris S.FOUL (P2.T4) (C.Kirkland),,46-46,46,46
+0021900541,2020-01-06,PHI,OKC,20.15,2,3,51,OKC,OKC,ft_miss,11,False,False,,MISS Gilgeous-Alexander Free Throw 1 of 2,46-46,46,46
+0021900541,2020-01-06,PHI,OKC,20.15,2,3,51,OKC,OKC,reb,1,False,False,,Thunder Rebound,46-46,46,46
+0021900541,2020-01-06,PHI,OKC,20.15,2,3,51,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (5 PTS),46-47,46,47
+0021900541,2020-01-06,PHI,OKC,20.35,2,3,39,PHI,PHI,fg_make,79,False,False,Harris 15' Pullup Jump Shot (11 PTS) (Horford 3 AST),,48-47,48,47
+0021900541,2020-01-06,PHI,OKC,20.67,2,3,20,OKC,PHI,foul,1,False,False,Simmons P.FOUL (P2.PN) (C.Blair),,48-47,48,47
+0021900541,2020-01-06,PHI,OKC,20.83,2,3,10,OKC,OKC,fg_miss,6,False,False,,MISS Gallinari 6' Driving Layup,48-47,48,47
+0021900541,2020-01-06,PHI,OKC,20.87,2,3,8,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,48-47,48,47
+0021900541,2020-01-06,PHI,OKC,20.95,2,3,3,PHI,PHI,fg_make,50,False,False,Harris 2' Running Dunk (13 PTS),,50-47,50,47
+0021900541,2020-01-06,PHI,OKC,21.2,2,2,48,OKC,OKC,fg_miss,73,False,False,,MISS Gilgeous-Alexander 2' Driving Reverse Layup,50-47,50,47
+0021900541,2020-01-06,PHI,OKC,21.22,2,2,47,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:1 Def:5),50-47,50,47
+0021900541,2020-01-06,PHI,OKC,21.22,2,2,47,OKC,PHI,foul,2,False,False,Harris S.FOUL (P3.PN) (C.Kirkland),,50-47,50,47
+0021900541,2020-01-06,PHI,OKC,21.22,2,2,47,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,50-47,50,47
+0021900541,2020-01-06,PHI,OKC,21.22,2,2,47,PHI,OKC,ft_make,11,False,False,,Gallinari Free Throw 1 of 2 (3 PTS),50-48,50,48
+0021900541,2020-01-06,PHI,OKC,21.22,2,2,47,PHI,OKC,ft_make,12,False,False,,Gallinari Free Throw 2 of 2 (4 PTS),50-49,50,49
+0021900541,2020-01-06,PHI,OKC,21.55,2,2,27,PHI,PHI,fg_make,44,False,False,Embiid 1' Reverse Layup (6 PTS) (Simmons 5 AST),,52-49,52,49
+0021900541,2020-01-06,PHI,OKC,21.97,2,2,2,OKC,OKC,fg3_miss,1,False,False,,MISS Gilgeous-Alexander 26' 3PT Jump Shot,52-49,52,49
+0021900541,2020-01-06,PHI,OKC,21.97,2,2,2,OKC,OKC,reb,0,False,False,,Thunder Rebound,52-49,52,49
+0021900541,2020-01-06,PHI,OKC,21.98,2,2,1,OKC,OKC,tov,11,False,False,,Thunder Turnover: Shot Clock (T#7),52-49,52,49
+0021900541,2020-01-06,PHI,OKC,22.23,2,1,46,PHI,PHI,fg3_make,1,False,False,Richardson 28' 3PT Jump Shot (9 PTS) (Embiid 2 AST),,55-49,55,49
+0021900541,2020-01-06,PHI,OKC,22.42,2,1,35,OKC,OKC,fg_miss,79,False,False,,MISS Paul 10' Pullup Jump Shot,55-49,55,49
+0021900541,2020-01-06,PHI,OKC,22.48,2,1,31,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:4),,55-49,55,49
+0021900541,2020-01-06,PHI,OKC,22.65,2,1,21,PHI,PHI,fg_make,3,False,False,Simmons 5' Hook Shot (9 PTS) (Embiid 3 AST),,57-49,57,49
+0021900541,2020-01-06,PHI,OKC,22.92,2,1,5,OKC,OKC,tov,1,False,True,,Schroder Bad Pass Turnover (P2.T8),57-49,57,49
+0021900541,2020-01-06,PHI,OKC,22.92,2,1,5,OKC,PHI,steal,1,False,True,steal,steal,57-49,57,49
+0021900541,2020-01-06,PHI,OKC,23.0,2,1,0,PHI,PHI,fg_make,76,False,False,Simmons 2' Running Finger Roll Layup (11 PTS),,59-49,59,49
+0021900541,2020-01-06,PHI,OKC,23.15,2,0,51,OKC,OKC,tov,2,False,True,,Schroder Lost Ball Turnover (P3.T9),59-49,59,49
+0021900541,2020-01-06,PHI,OKC,23.15,2,0,51,OKC,PHI,steal,2,False,True,steal,steal,59-49,59,49
+0021900541,2020-01-06,PHI,OKC,23.22,2,0,47,PHI,PHI,fg_miss,100,False,False,MISS Ennis III 3' Running Alley Oop Layup Shot,,59-49,59,49
+0021900541,2020-01-06,PHI,OKC,23.28,2,0,43,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:4 Def:5),59-49,59,49
+0021900541,2020-01-06,PHI,OKC,23.45,2,0,33,OKC,OKC,fg_miss,44,False,False,,MISS Adams 4' Reverse Layup,59-49,59,49
+0021900541,2020-01-06,PHI,OKC,23.48,2,0,31,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:2),59-49,59,49
+0021900541,2020-01-06,PHI,OKC,23.5,2,0,30,OKC,OKC,fg3_make,1,False,False,,Paul 26' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 1 AST),59-52,59,52
+0021900541,2020-01-06,PHI,OKC,23.8,2,0,12,PHI,PHI,fg3_make,79,False,False,Richardson 27' 3PT Pullup Jump Shot (12 PTS),,62-52,62,52
+0021900541,2020-01-06,PHI,OKC,24.0,2,0,0,OKC,OKC,fg_miss,79,False,False,,MISS Paul 15' Pullup Jump Shot,62-52,62,52
+0021900541,2020-01-06,PHI,OKC,24.0,2,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,62-52,62,52
+0021900541,2020-01-06,PHI,OKC,24.0,2,0,0,OKC,,period_end,0,False,False,,,62-52,62,52
+0021900541,2020-01-06,PHI,OKC,24.0,3,12,0,OKC,,period_start,0,False,False,,,62-52,62,52
+0021900541,2020-01-06,PHI,OKC,24.15,3,11,51,PHI,PHI,fg_make,108,False,False,Embiid 2' Cutting Dunk Shot (8 PTS) (Harris 4 AST),,64-52,64,52
+0021900541,2020-01-06,PHI,OKC,24.15,3,11,51,PHI,OKC,foul,2,False,False,,Paul S.FOUL (P1.T1) (C.Blair),64-52,64,52
+0021900541,2020-01-06,PHI,OKC,24.15,3,11,51,PHI,PHI,ft_miss,10,False,False,MISS Embiid Free Throw 1 of 1,,64-52,64,52
+0021900541,2020-01-06,PHI,OKC,24.18,3,11,49,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:3),64-52,64,52
+0021900541,2020-01-06,PHI,OKC,24.4,3,11,36,OKC,OKC,fg_miss,1,False,False,,MISS Gallinari 17' Jump Shot,64-52,64,52
+0021900541,2020-01-06,PHI,OKC,24.47,3,11,32,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,64-52,64,52
+0021900541,2020-01-06,PHI,OKC,24.55,3,11,27,PHI,OKC,foul,2,False,False,,Gallinari S.FOUL (P1.T2) (C.Kirkland),64-52,64,52
+0021900541,2020-01-06,PHI,OKC,24.55,3,11,27,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (9 PTS),,65-52,65,52
+0021900541,2020-01-06,PHI,OKC,24.55,3,11,27,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (10 PTS),,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,24.7,3,11,18,OKC,OKC,fg3_miss,80,False,False,,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,24.77,3,11,14,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:5),,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,24.83,3,11,10,PHI,PHI,fg_miss,41,False,False,MISS Simmons 1' Running Layup,,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,24.88,3,11,7,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:1 Def:6),66-52,66,52
+0021900541,2020-01-06,PHI,OKC,25.1,3,10,54,OKC,OKC,fg_miss,73,False,False,,MISS Gallinari 2' Driving Reverse Layup,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,25.17,3,10,50,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:6),,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,25.18,3,10,49,PHI,PHI,fg_miss,47,False,False,MISS Horford 12' Turnaround Jump Shot,,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,25.2,3,10,48,OKC,OKC,reb,0,False,False,,Thunder Rebound,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,25.22,3,10,47,OKC,PHI,foul,3,False,False,Simmons L.B.FOUL (P3.T1) (C.Kirkland),,66-52,66,52
+0021900541,2020-01-06,PHI,OKC,25.55,3,10,27,OKC,OKC,fg3_make,1,False,False,,Ferguson 24' 3PT Jump Shot (6 PTS) (Paul 4 AST),66-55,66,55
+0021900541,2020-01-06,PHI,OKC,25.85,3,10,9,PHI,PHI,fg_miss,80,False,False,MISS Richardson 14' Step Back Jump Shot,,66-55,66,55
+0021900541,2020-01-06,PHI,OKC,25.87,3,10,8,PHI,PHI,reb,0,False,False,76ERS Rebound,,66-55,66,55
+0021900541,2020-01-06,PHI,OKC,25.87,3,10,8,PHI,OKC,foul,3,False,False,,Ferguson L.B.FOUL (P2.T3) (M.Boland),66-55,66,55
+0021900541,2020-01-06,PHI,OKC,26.08,3,9,55,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,66-55,66,55
+0021900541,2020-01-06,PHI,OKC,26.13,3,9,52,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:4),66-55,66,55
+0021900541,2020-01-06,PHI,OKC,26.22,3,9,47,OKC,OKC,fg_miss,6,False,False,,MISS Ferguson 2' Driving Layup,66-55,66,55
+0021900541,2020-01-06,PHI,OKC,26.23,3,9,46,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:0 Def:1),,66-55,66,55
+0021900541,2020-01-06,PHI,OKC,26.35,3,9,39,PHI,PHI,fg_make,75,False,False,Richardson 2' Driving Finger Roll Layup (14 PTS),,68-55,68,55
+0021900541,2020-01-06,PHI,OKC,26.72,3,9,17,OKC,OKC,fg3_make,80,False,False,,Gallinari 26' 3PT Step Back Jump Shot (7 PTS),68-58,68,58
+0021900541,2020-01-06,PHI,OKC,27.05,3,8,57,PHI,PHI,fg3_make,1,False,False,Horford 24' 3PT Jump Shot (7 PTS) (Simmons 6 AST),,71-58,71,58
+0021900541,2020-01-06,PHI,OKC,27.23,3,8,46,OKC,PHI,foul,1,False,False,Simmons P.FOUL (P4.T2) (C.Kirkland),,71-58,71,58
+0021900541,2020-01-06,PHI,OKC,27.37,3,8,38,OKC,OKC,fg_miss,79,False,False,,MISS Paul 9' Pullup Jump Shot,71-58,71,58
+0021900541,2020-01-06,PHI,OKC,27.45,3,8,33,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:1 Def:0),71-58,71,58
+0021900541,2020-01-06,PHI,OKC,27.48,3,8,31,OKC,OKC,fg_make,5,False,False,,Adams 2' Layup (12 PTS) (Schroder 3 AST),71-60,71,60
+0021900541,2020-01-06,PHI,OKC,27.48,3,8,31,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,71-60,71,60
+0021900541,2020-01-06,PHI,OKC,27.72,3,8,17,PHI,PHI,fg_miss,43,False,False,MISS Harris 1' Alley Oop Layup,,71-60,71,60
+0021900541,2020-01-06,PHI,OKC,27.73,3,8,16,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:5),71-60,71,60
+0021900541,2020-01-06,PHI,OKC,27.8,3,8,12,OKC,PHI,foul,2,False,False,Harris S.FOUL (P4.T3) (C.Blair),,71-60,71,60
+0021900541,2020-01-06,PHI,OKC,27.8,3,8,12,OKC,OKC,ft_miss,11,False,False,,MISS Gilgeous-Alexander Free Throw 1 of 2,71-60,71,60
+0021900541,2020-01-06,PHI,OKC,27.8,3,8,12,OKC,OKC,reb,1,False,False,,Thunder Rebound,71-60,71,60
+0021900541,2020-01-06,PHI,OKC,27.8,3,8,12,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (6 PTS),71-61,71,61
+0021900541,2020-01-06,PHI,OKC,28.1,3,7,54,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 27' 3PT Jump Shot,,71-61,71,61
+0021900541,2020-01-06,PHI,OKC,28.13,3,7,52,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:6),71-61,71,61
+0021900541,2020-01-06,PHI,OKC,28.17,3,7,50,OKC,OKC,fg_make,76,False,False,,Gilgeous-Alexander 1' Running Finger Roll Layup (8 PTS),71-63,71,63
+0021900541,2020-01-06,PHI,OKC,28.17,3,7,50,OKC,PHI,foul,6,False,False,Embiid AWAY.FROM.PLAY.FOUL (P3.T4) (M.Boland),,71-63,71,63
+0021900541,2020-01-06,PHI,OKC,28.17,3,7,50,OKC,OKC,ft_make,10,False,False,,Adams Free Throw 1 of 1 (13 PTS),71-64,71,64
+0021900541,2020-01-06,PHI,OKC,28.43,3,7,34,PHI,PHI,fg_make,3,False,False,Horford 10' Hook Shot (9 PTS) (Embiid 4 AST),,73-64,73,64
+0021900541,2020-01-06,PHI,OKC,28.58,3,7,25,PHI,OKC,foul,4,False,False,,Paul OFF.Foul (P2) (C.Kirkland),73-64,73,64
+0021900541,2020-01-06,PHI,OKC,28.58,3,7,25,OKC,OKC,tov,37,False,False,,Paul Offensive Foul Turnover (P3.T10),73-64,73,64
+0021900541,2020-01-06,PHI,OKC,28.93,3,7,4,PHI,PHI,fg_make,79,False,False,Richardson 21' Pullup Jump Shot (16 PTS) (Embiid 5 AST),,75-64,75,64
+0021900541,2020-01-06,PHI,OKC,29.2,3,6,48,OKC,OKC,fg3_miss,80,False,False,,MISS Gallinari 27' 3PT Step Back Jump Shot,75-64,75,64
+0021900541,2020-01-06,PHI,OKC,29.23,3,6,46,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:2),,75-64,75,64
+0021900541,2020-01-06,PHI,OKC,29.5,3,6,30,PHI,PHI,fg_make,47,False,False,Horford 9' Turnaround Jump Shot (11 PTS),,77-64,77,64
+0021900541,2020-01-06,PHI,OKC,29.77,3,6,14,OKC,OKC,fg3_make,79,False,False,,Schroder 27' 3PT Pullup Jump Shot (14 PTS),77-67,77,67
+0021900541,2020-01-06,PHI,OKC,30.1,3,5,54,PHI,PHI,tov,2,False,True,Horford Lost Ball Turnover (P1.T6),,77-67,77,67
+0021900541,2020-01-06,PHI,OKC,30.1,3,5,54,PHI,OKC,steal,2,False,True,steal,steal,77-67,77,67
+0021900541,2020-01-06,PHI,OKC,30.38,3,5,37,OKC,OKC,fg_make,43,False,False,,Adams 2' Alley Oop Layup (15 PTS) (Gallinari 1 AST),77-69,77,69
+0021900541,2020-01-06,PHI,OKC,30.57,3,5,26,PHI,PHI,tov,45,False,False,Horford Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,77-69,77,69
+0021900541,2020-01-06,PHI,OKC,30.75,3,5,15,OKC,PHI,foul,2,False,False,Horford S.FOUL (P1.PN) (C.Kirkland),,77-69,77,69
+0021900541,2020-01-06,PHI,OKC,30.75,3,5,15,OKC,OKC,ft_miss,13,False,False,,MISS Gallinari Free Throw 1 of 3,77-69,77,69
+0021900541,2020-01-06,PHI,OKC,30.75,3,5,15,OKC,OKC,reb,1,False,False,,Thunder Rebound,77-69,77,69
+0021900541,2020-01-06,PHI,OKC,30.75,3,5,15,OKC,OKC,ft_make,14,False,False,,Gallinari Free Throw 2 of 3 (8 PTS),77-70,77,70
+0021900541,2020-01-06,PHI,OKC,30.75,3,5,15,OKC,OKC,ft_make,15,False,False,,Gallinari Free Throw 3 of 3 (9 PTS),77-71,77,71
+0021900541,2020-01-06,PHI,OKC,30.97,3,5,2,PHI,PHI,fg_miss,73,False,False,MISS Richardson 1' Driving Reverse Layup,,77-71,77,71
+0021900541,2020-01-06,PHI,OKC,31.0,3,5,0,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:1 Def:5),77-71,77,71
+0021900541,2020-01-06,PHI,OKC,31.1,3,4,54,OKC,PHI,foul,2,False,False,Ennis III S.FOUL (P1.PN) (C.Blair),,77-71,77,71
+0021900541,2020-01-06,PHI,OKC,31.1,3,4,54,OKC,OKC,ft_make,11,False,False,,Gallinari Free Throw 1 of 2 (10 PTS),77-72,77,72
+0021900541,2020-01-06,PHI,OKC,31.1,3,4,54,OKC,OKC,ft_make,12,False,False,,Gallinari Free Throw 2 of 2 (11 PTS),77-73,77,73
+0021900541,2020-01-06,PHI,OKC,31.25,3,4,45,PHI,OKC,foul,2,False,False,,Muscala S.FOUL (P3.T4) (C.Kirkland),77-73,77,73
+0021900541,2020-01-06,PHI,OKC,31.25,3,4,45,PHI,PHI,ft_make,11,False,False,Scott Free Throw 1 of 2 (1 PTS),,78-73,78,73
+0021900541,2020-01-06,PHI,OKC,31.25,3,4,45,PHI,PHI,ft_make,12,False,False,Scott Free Throw 2 of 2 (2 PTS),,79-73,79,73
+0021900541,2020-01-06,PHI,OKC,31.48,3,4,31,OKC,OKC,fg3_make,1,False,False,,Gallinari 25' 3PT Jump Shot (14 PTS) (Gilgeous-Alexander 2 AST),79-76,79,76
+0021900541,2020-01-06,PHI,OKC,31.87,3,4,8,PHI,PHI,fg_make,1,False,False,Horford 13' Jump Shot (13 PTS),,81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.2,3,3,48,PHI,OKC,foul,26,False,False,,Diallo Offensive Charge Foul (P2.PN) (C.Kirkland),81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.2,3,3,48,OKC,OKC,tov,37,False,False,,Diallo Offensive Foul Turnover (P2.T11),81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.53,3,3,28,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 24' 3PT Jump Shot,,81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.58,3,3,25,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:1 Def:0),,81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.58,3,3,25,PHI,PHI,fg_miss,97,False,False,MISS Ennis III 1' Tip Layup Shot,,81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.6,3,3,24,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:0),,81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.68,3,3,19,PHI,PHI,fg_miss,43,False,False,MISS Scott 3' Alley Oop Layup,,81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.72,3,3,17,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:2),81-76,81,76
+0021900541,2020-01-06,PHI,OKC,32.75,3,3,15,OKC,OKC,fg_make,76,False,False,,Gilgeous-Alexander 1' Running Finger Roll Layup (10 PTS),81-78,81,78
+0021900541,2020-01-06,PHI,OKC,32.75,3,3,15,OKC,PHI,foul,2,False,False,Ennis III S.FOUL (P2.PN) (C.Kirkland),,81-78,81,78
+0021900541,2020-01-06,PHI,OKC,32.75,3,3,15,OKC,OKC,ft_miss,10,False,False,,MISS Gilgeous-Alexander Free Throw 1 of 1,81-78,81,78
+0021900541,2020-01-06,PHI,OKC,32.8,3,3,12,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:5 Def:5),81-78,81,78
+0021900541,2020-01-06,PHI,OKC,32.88,3,3,7,OKC,PHI,foul,1,False,False,Richardson P.FOUL (P3.PN) (C.Kirkland),,81-78,81,78
+0021900541,2020-01-06,PHI,OKC,32.88,3,3,7,OKC,OKC,ft_make,11,False,False,,Schroder Free Throw 1 of 2 (15 PTS),81-79,81,79
+0021900541,2020-01-06,PHI,OKC,32.88,3,3,7,OKC,OKC,ft_miss,12,False,False,,MISS Schroder Free Throw 2 of 2,81-79,81,79
+0021900541,2020-01-06,PHI,OKC,32.92,3,3,5,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:5),,81-79,81,79
+0021900541,2020-01-06,PHI,OKC,33.28,3,2,43,PHI,PHI,fg_make,6,False,False,Richardson 2' Driving Layup (18 PTS),,83-79,83,79
+0021900541,2020-01-06,PHI,OKC,33.52,3,2,29,OKC,OKC,fg_miss,108,False,False,,MISS Diallo 2' Cutting Dunk Shot,83-79,83,79
+0021900541,2020-01-06,PHI,OKC,33.58,3,2,25,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:3),,83-79,83,79
+0021900541,2020-01-06,PHI,OKC,33.78,3,2,13,PHI,OKC,foul,1,False,False,,Schroder P.FOUL (P3.PN) (C.Kirkland),83-79,83,79
+0021900541,2020-01-06,PHI,OKC,33.78,3,2,13,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),83-79,83,79
+0021900541,2020-01-06,PHI,OKC,33.78,3,2,13,OKC,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (12 PTS),,84-79,84,79
+0021900541,2020-01-06,PHI,OKC,33.78,3,2,13,OKC,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (13 PTS),,85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.02,3,1,59,OKC,OKC,fg_miss,67,False,False,,MISS Adams 5' Hook Bank Shot,85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.05,3,1,57,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:7),,85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.27,3,1,44,PHI,PHI,fg_miss,79,False,False,MISS Embiid 13' Pullup Jump Shot,,85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.3,3,1,42,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:1 Def:6),85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.57,3,1,26,OKC,OKC,fg3_miss,1,False,False,,MISS Schroder 3PT Jump Shot,85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.63,3,1,22,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:6 Def:5),85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.67,3,1,20,OKC,OKC,fg_miss,71,False,False,,MISS Adams 2' Finger Roll Layup,85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.7,3,1,18,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:7 Def:5),85-79,85,79
+0021900541,2020-01-06,PHI,OKC,34.72,3,1,17,OKC,OKC,fg_make,97,False,False,,Adams 1' Tip Layup Shot (17 PTS),85-81,85,81
+0021900541,2020-01-06,PHI,OKC,35.02,3,0,59,PHI,PHI,fg3_make,79,False,False,Burke 26' 3PT Pullup Jump Shot (8 PTS) (Simmons 7 AST),,88-81,88,81
+0021900541,2020-01-06,PHI,OKC,35.17,3,0,50,OKC,OKC,fg_make,79,False,False,,Paul 16' Pullup Jump Shot (11 PTS),88-83,88,83
+0021900541,2020-01-06,PHI,OKC,35.42,3,0,35,PHI,PHI,fg_make,6,False,False,Burke 1' Driving Layup (10 PTS),,90-83,90,83
+0021900541,2020-01-06,PHI,OKC,35.55,3,0,27,OKC,OKC,fg3_make,80,False,False,,Paul 26' 3PT Step Back Jump Shot (14 PTS),90-86,90,86
+0021900541,2020-01-06,PHI,OKC,35.88,3,0,7,PHI,PHI,fg_miss,75,False,False,MISS Burke 4' Driving Finger Roll Layup,,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,35.9,3,0,6,PHI,PHI,reb,0,False,False,76ERS Rebound,,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,35.97,3,0,2,PHI,PHI,fg_miss,1,False,False,MISS Embiid 13' Jump Shot,,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,35.98,3,0,1,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:1 Def:1),90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.23,4,11,46,OKC,OKC,fg_miss,79,False,False,,MISS Diallo 12' Pullup Jump Shot,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.28,4,11,43,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:8),,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.48,4,11,31,PHI,OKC,foul,1,False,False,,Diallo P.FOUL (P3.T1) (C.Blair),90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.7,4,11,18,OKC,PHI,foul,4,False,False,Harris OFF.Foul (P5) (M.Boland),,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.7,4,11,18,PHI,PHI,tov,37,False,False,Harris Offensive Foul Turnover (P1.T8),,90-86,90,86
+0021900541,2020-01-06,PHI,OKC,36.82,4,11,11,OKC,OKC,fg_make,79,False,False,,Paul 18' Pullup Jump Shot (16 PTS),90-88,90,88
+0021900541,2020-01-06,PHI,OKC,37.22,4,10,47,PHI,PHI,fg_make,71,False,False,Embiid 2' Finger Roll Layup (12 PTS) (Burke 1 AST),,92-88,92,88
+0021900541,2020-01-06,PHI,OKC,37.32,4,10,41,OKC,PHI,foul,1,False,False,Ennis III P.FOUL (P3.T1) (C.Blair),,92-88,92,88
+0021900541,2020-01-06,PHI,OKC,37.42,4,10,35,OKC,OKC,fg_make,52,False,False,,Diallo 1' Alley Oop Dunk (6 PTS) (Paul 5 AST),92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.77,4,10,14,PHI,PHI,fg_miss,80,False,False,MISS Embiid 13' Step Back Jump Shot,,92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.82,4,10,11,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:1 Def:7),92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.9,4,10,6,OKC,PHI,foul,2,False,False,Ennis III S.FOUL (P4.T2) (C.Kirkland),,92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.9,4,10,6,OKC,OKC,ft_miss,11,False,False,,MISS Schroder Free Throw 1 of 2,92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.9,4,10,6,OKC,OKC,reb,1,False,False,,Thunder Rebound,92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.9,4,10,6,OKC,OKC,ft_miss,12,False,False,,MISS Schroder Free Throw 2 of 2,92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.95,4,10,3,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:8 Def:5),92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.95,4,10,3,OKC,PHI,foul,1,False,False,Richardson P.FOUL (P4.T3) (C.Kirkland),,92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.98,4,10,1,PHI,OKC,foul,4,False,False,,Paul OFF.Foul (P3) (M.Boland),92-90,92,90
+0021900541,2020-01-06,PHI,OKC,37.98,4,10,1,OKC,OKC,tov,37,False,False,,Paul Offensive Foul Turnover (P4.T12),92-90,92,90
+0021900541,2020-01-06,PHI,OKC,38.27,4,9,44,PHI,PHI,fg_make,58,False,False,Embiid 3' Turnaround Hook Shot (14 PTS) (Richardson 3 AST),,94-90,94,90
+0021900541,2020-01-06,PHI,OKC,38.45,4,9,33,OKC,PHI,foul,1,False,False,Embiid P.FOUL (P4.T4) (C.Kirkland),,94-90,94,90
+0021900541,2020-01-06,PHI,OKC,38.52,4,9,29,OKC,OKC,fg_make,3,False,False,,Adams 9' Hook Shot (19 PTS) (Diallo 1 AST),94-92,94,92
+0021900541,2020-01-06,PHI,OKC,38.77,4,9,14,PHI,PHI,fg_miss,79,False,False,MISS Richardson 11' Pullup Jump Shot,,94-92,94,92
+0021900541,2020-01-06,PHI,OKC,38.82,4,9,11,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:3),94-92,94,92
+0021900541,2020-01-06,PHI,OKC,38.92,4,9,5,OKC,OKC,fg_miss,79,False,False,,MISS Schroder 13' Pullup Jump Shot,94-92,94,92
+0021900541,2020-01-06,PHI,OKC,38.97,4,9,2,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:6),,94-92,94,92
+0021900541,2020-01-06,PHI,OKC,39.13,4,8,52,PHI,PHI,fg_make,57,False,False,Simmons 2' Driving Hook Shot (15 PTS),,96-92,96,92
+0021900541,2020-01-06,PHI,OKC,39.22,4,8,47,OKC,PHI,foul,1,False,False,Scott P.FOUL (P1.PN) (C.Blair),,96-92,96,92
+0021900541,2020-01-06,PHI,OKC,39.22,4,8,47,OKC,OKC,ft_make,11,False,False,,Adams Free Throw 1 of 2 (20 PTS),96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.22,4,8,47,OKC,OKC,ft_miss,12,False,False,,MISS Adams Free Throw 2 of 2,96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.25,4,8,45,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:9),,96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.42,4,8,35,PHI,PHI,fg_miss,6,False,False,MISS Simmons 2' Driving Layup,,96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.45,4,8,33,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:4),96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.57,4,8,26,OKC,OKC,fg3_miss,79,False,False,,MISS Paul 26' 3PT Pullup Jump Shot,96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.58,4,8,25,OKC,OKC,reb,0,False,False,,Thunder Rebound,96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.58,4,8,25,OKC,PHI,foul,3,False,False,Horford L.B.FOUL (P2.PN) (C.Kirkland),,96-93,96,93
+0021900541,2020-01-06,PHI,OKC,39.58,4,8,25,OKC,OKC,ft_make,11,False,False,,Adams Free Throw 1 of 2 (21 PTS),96-94,96,94
+0021900541,2020-01-06,PHI,OKC,39.58,4,8,25,OKC,OKC,ft_make,12,False,False,,Adams Free Throw 2 of 2 (22 PTS),96-95,96,95
+0021900541,2020-01-06,PHI,OKC,39.93,4,8,4,PHI,PHI,fg_make,79,False,False,Burke 12' Pullup Jump Shot (12 PTS) (Horford 4 AST),,98-95,98,95
+0021900541,2020-01-06,PHI,OKC,39.95,4,8,3,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),98-95,98,95
+0021900541,2020-01-06,PHI,OKC,40.27,4,7,44,OKC,OKC,fg_make,75,False,False,,Schroder 1' Driving Finger Roll Layup (17 PTS),98-97,98,97
+0021900541,2020-01-06,PHI,OKC,40.53,4,7,28,PHI,PHI,tov,45,False,False,Richardson Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,98-97,98,97
+0021900541,2020-01-06,PHI,OKC,40.78,4,7,13,OKC,OKC,fg_miss,101,False,False,,MISS Bazley 5' Driving Floating Jump Shot,98-97,98,97
+0021900541,2020-01-06,PHI,OKC,40.83,4,7,10,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:1),,98-97,98,97
+0021900541,2020-01-06,PHI,OKC,41.0,4,7,0,PHI,PHI,fg3_make,1,False,False,Scott 26' 3PT Jump Shot (5 PTS) (Simmons 8 AST),,101-97,101,97
+0021900541,2020-01-06,PHI,OKC,41.22,4,6,47,OKC,OKC,fg_miss,79,False,False,,MISS Schroder 17' Pullup Jump Shot,101-97,101,97
+0021900541,2020-01-06,PHI,OKC,41.25,4,6,45,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:3),,101-97,101,97
+0021900541,2020-01-06,PHI,OKC,41.38,4,6,37,PHI,PHI,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,101-97,101,97
+0021900541,2020-01-06,PHI,OKC,41.42,4,6,35,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:3 Def:9),,101-97,101,97
+0021900541,2020-01-06,PHI,OKC,41.47,4,6,32,PHI,PHI,fg3_miss,1,False,False,MISS Burke 27' 3PT Jump Shot,,101-97,101,97
+0021900541,2020-01-06,PHI,OKC,41.5,4,6,30,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:1),101-97,101,97
+0021900541,2020-01-06,PHI,OKC,41.68,4,6,19,OKC,OKC,fg_make,75,False,False,,Gilgeous-Alexander 1' Driving Finger Roll Layup (12 PTS),101-99,101,99
+0021900541,2020-01-06,PHI,OKC,42.07,4,5,56,PHI,OKC,foul,1,False,False,,Ferguson P.FOUL (P3.T2) (M.Boland),101-99,101,99
+0021900541,2020-01-06,PHI,OKC,42.13,4,5,52,PHI,PHI,fg3_make,1,False,False,Scott 27' 3PT Jump Shot (8 PTS) (Burke 2 AST),,104-99,104,99
+0021900541,2020-01-06,PHI,OKC,42.5,4,5,30,OKC,OKC,fg_make,73,False,False,,Schroder 3' Driving Reverse Layup (19 PTS) (Gallinari 2 AST),104-101,104,101
+0021900541,2020-01-06,PHI,OKC,42.63,4,5,22,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),104-101,104,101
+0021900541,2020-01-06,PHI,OKC,42.63,4,5,22,PHI,PHI,tov,45,False,False,Burke Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,104-101,104,101
+0021900541,2020-01-06,PHI,OKC,42.8,4,5,12,OKC,OKC,fg3_miss,1,False,False,,MISS Gallinari 26' 3PT Jump Shot,104-101,104,101
+0021900541,2020-01-06,PHI,OKC,42.85,4,5,9,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:3 Def:10),,104-101,104,101
+0021900541,2020-01-06,PHI,OKC,43.15,4,4,51,PHI,PHI,fg3_miss,79,False,False,MISS Richardson 26' 3PT Pullup Jump Shot,,104-101,104,101
+0021900541,2020-01-06,PHI,OKC,43.22,4,4,47,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:7),104-101,104,101
+0021900541,2020-01-06,PHI,OKC,43.33,4,4,40,OKC,OKC,fg_miss,78,False,False,,MISS Gilgeous-Alexander 11' Floating Jump Shot,104-101,104,101
+0021900541,2020-01-06,PHI,OKC,43.37,4,4,38,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:0 Def:2),,104-101,104,101
+0021900541,2020-01-06,PHI,OKC,43.73,4,4,16,PHI,PHI,fg_make,1,False,False,Embiid 17' Jump Shot (16 PTS),,106-101,106,101
+0021900541,2020-01-06,PHI,OKC,44.0,4,4,0,OKC,OKC,fg3_make,1,False,False,,Gallinari 26' 3PT Jump Shot (17 PTS) (Schroder 4 AST),106-104,106,104
+0021900541,2020-01-06,PHI,OKC,44.03,4,3,58,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,106-104,106,104
+0021900541,2020-01-06,PHI,OKC,44.33,4,3,40,PHI,PHI,fg_make,47,False,False,Richardson 10' Turnaround Jump Shot (20 PTS) (Embiid 6 AST),,108-104,108,104
+0021900541,2020-01-06,PHI,OKC,44.77,4,3,14,OKC,OKC,fg_make,80,False,False,,Schroder 19' Step Back Jump Shot (21 PTS),108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.22,4,2,47,PHI,PHI,fg_miss,79,False,False,MISS Embiid 12' Pullup Jump Shot,,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.25,4,2,45,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:4 Def:10),,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.47,4,2,32,PHI,PHI,fg_miss,58,False,False,MISS Simmons 4' Turnaround Hook Shot,,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.5,4,2,30,OKC,OKC,reb,0,False,False,,Thunder Rebound,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.53,4,2,28,OKC,OKC,fg_miss,1,False,False,,MISS Schroder 14' Jump Shot,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.58,4,2,25,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:4 Def:11),,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.73,4,2,16,PHI,PHI,fg3_miss,1,False,False,MISS Richardson 26' 3PT Jump Shot,,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.78,4,2,13,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:1 Def:3),,108-106,108,106
+0021900541,2020-01-06,PHI,OKC,45.83,4,2,10,PHI,PHI,fg_make,108,False,False,Harris 1' Cutting Dunk Shot (15 PTS) (Embiid 7 AST),,110-106,110,106
+0021900541,2020-01-06,PHI,OKC,46.1,4,1,54,OKC,OKC,fg_miss,79,False,False,,MISS Paul 16' Pullup Jump Shot,110-106,110,106
+0021900541,2020-01-06,PHI,OKC,46.13,4,1,52,OKC,OKC,reb,0,False,False,,Thunder Rebound,110-106,110,106
+0021900541,2020-01-06,PHI,OKC,46.27,4,1,44,OKC,OKC,fg3_miss,79,False,False,,MISS Gallinari 26' 3PT Pullup Jump Shot,110-106,110,106
+0021900541,2020-01-06,PHI,OKC,46.33,4,1,40,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:7),,110-106,110,106
+0021900541,2020-01-06,PHI,OKC,46.55,4,1,27,PHI,PHI,fg_make,6,False,False,Simmons 2' Driving Layup (17 PTS) (Richardson 4 AST),,112-106,112,106
+0021900541,2020-01-06,PHI,OKC,46.75,4,1,15,OKC,OKC,tov,15,False,False,,Adams Offensive Goaltending Turnover (P1.T13),112-106,112,106
+0021900541,2020-01-06,PHI,OKC,46.75,4,1,15,OKC,OKC,fg_miss,6,False,False,,MISS Paul 2' Driving Layup,112-106,112,106
+0021900541,2020-01-06,PHI,OKC,46.75,4,1,15,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:9 Def:5),112-106,112,106
+0021900541,2020-01-06,PHI,OKC,47.07,4,0,56,PHI,PHI,fg_miss,6,True,False,MISS Richardson 2' Driving Layup,,112-106,112,106
+0021900541,2020-01-06,PHI,OKC,47.07,4,0,56,PHI,OKC,block,6,True,False,block,block,112-106,112,106
+0021900541,2020-01-06,PHI,OKC,47.08,4,0,55,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:7),,112-106,112,106
+0021900541,2020-01-06,PHI,OKC,47.08,4,0,55,PHI,PHI,fg3_make,1,False,False,Harris 3PT Jump Shot (18 PTS) (Embiid 8 AST),,115-106,115,106
+0021900541,2020-01-06,PHI,OKC,47.08,4,0,55,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),115-106,115,106
+0021900541,2020-01-06,PHI,OKC,47.18,4,0,49,OKC,OKC,fg3_miss,79,False,False,,MISS Paul 26' 3PT Pullup Jump Shot,115-106,115,106
+0021900541,2020-01-06,PHI,OKC,47.22,4,0,47,OKC,OKC,reb,0,False,False,,Thunder Rebound,115-106,115,106
+0021900541,2020-01-06,PHI,OKC,47.22,4,0,47,OKC,PHI,foul,3,False,False,Harris L.B.FOUL (P6.PN) (M.Boland),,115-106,115,106
+0021900541,2020-01-06,PHI,OKC,47.22,4,0,47,OKC,OKC,ft_make,11,False,False,,Paul Free Throw 1 of 2 (17 PTS),115-107,115,107
+0021900541,2020-01-06,PHI,OKC,47.22,4,0,47,OKC,OKC,ft_make,12,False,False,,Paul Free Throw 2 of 2 (18 PTS),115-108,115,108
+0021900541,2020-01-06,PHI,OKC,47.25,4,0,45,PHI,OKC,foul,28,False,False,,Diallo Personal Take Foul (P4.T3) (C.Kirkland),115-108,115,108
+0021900541,2020-01-06,PHI,OKC,47.33,4,0,40,PHI,OKC,foul,28,False,False,,Paul Personal Take Foul (P4.PN) (C.Kirkland),115-108,115,108
+0021900541,2020-01-06,PHI,OKC,47.33,4,0,40,PHI,PHI,ft_make,11,False,False,Richardson Free Throw 1 of 2 (21 PTS),,116-108,116,108
+0021900541,2020-01-06,PHI,OKC,47.33,4,0,40,PHI,PHI,ft_miss,12,False,False,MISS Richardson Free Throw 2 of 2,,116-108,116,108
+0021900541,2020-01-06,PHI,OKC,47.37,4,0,38,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:9 Def:6),116-108,116,108
+0021900541,2020-01-06,PHI,OKC,47.47,4,0,32,OKC,OKC,fg_make,108,False,False,,Adams 1' Cutting Dunk Shot (24 PTS) (Paul 6 AST),116-110,116,110
+0021900541,2020-01-06,PHI,OKC,47.5,4,0,30,PHI,OKC,foul,1,False,False,,Paul P.FOUL (P5.PN) (C.Kirkland),116-110,116,110
+0021900541,2020-01-06,PHI,OKC,47.5,4,0,30,PHI,PHI,ft_make,11,False,False,Richardson Free Throw 1 of 2 (22 PTS),,117-110,117,110
+0021900541,2020-01-06,PHI,OKC,47.5,4,0,30,PHI,PHI,ft_make,12,False,False,Richardson Free Throw 2 of 2 (23 PTS),,118-110,118,110
+0021900541,2020-01-06,PHI,OKC,47.6,4,0,24,OKC,OKC,fg_make,76,False,False,,Gilgeous-Alexander 2' Running Finger Roll Layup (14 PTS),118-112,118,112
+0021900541,2020-01-06,PHI,OKC,47.6,4,0,24,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 6 Short 0),,118-112,118,112
+0021900541,2020-01-06,PHI,OKC,47.62,4,0,23,PHI,OKC,foul,1,False,False,,Adams P.FOUL (P1.PN) (C.Kirkland),118-112,118,112
+0021900541,2020-01-06,PHI,OKC,47.62,4,0,23,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (17 PTS),,119-112,119,112
+0021900541,2020-01-06,PHI,OKC,47.62,4,0,23,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (18 PTS),,120-112,120,112
+0021900541,2020-01-06,PHI,OKC,47.62,4,0,23,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.7 Short 0),120-112,120,112
+0021900541,2020-01-06,PHI,OKC,47.63,4,0,22,OKC,PHI,foul,1,False,False,Richardson P.FOUL (P5.PN) (C.Blair),,120-112,120,112
+0021900541,2020-01-06,PHI,OKC,47.63,4,0,22,OKC,OKC,ft_miss,11,False,False,,MISS Gallinari Free Throw 1 of 2,120-112,120,112
+0021900541,2020-01-06,PHI,OKC,47.63,4,0,22,OKC,OKC,reb,1,False,False,,Thunder Rebound,120-112,120,112
+0021900541,2020-01-06,PHI,OKC,47.63,4,0,22,OKC,OKC,ft_make,12,False,False,,Gallinari Free Throw 2 of 2 (18 PTS),120-113,120,113
+0021900541,2020-01-06,PHI,OKC,47.63,4,0,22,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 7 Short 0),,120-113,120,113
+0021900541,2020-01-06,PHI,OKC,48.0,4,0,0,PHI,,period_end,0,False,False,,,120-113,120,113

@@ -1,0 +1,488 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100138,2021-11-06,POR,LAL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100138,2021-11-06,POR,LAL,0.0,1,12,0,,POR,jump_ball,0,False,False,Jump Ball Nurkic vs. Jordan: Tip to Lillard,,0-0,0,0
+0022100138,2021-11-06,POR,LAL,0.23,1,11,46,POR,POR,fg3_make,1,False,False,Lillard 28' 3PT Jump Shot (3 PTS) (Powell 1 AST),,3-0,3,0
+0022100138,2021-11-06,POR,LAL,0.63,1,11,22,LAL,LAL,fg_make,9,False,False,,Jordan 1' Driving Dunk (2 PTS) (Bradley 1 AST),3-2,3,2
+0022100138,2021-11-06,POR,LAL,0.95,1,11,3,POR,POR,fg3_make,1,False,False,Covington 25' 3PT Jump Shot (3 PTS) (Lillard 1 AST),,6-2,6,2
+0022100138,2021-11-06,POR,LAL,1.2,1,10,48,LAL,LAL,fg_make,101,False,False,,Bradley 4' Driving Floating Jump Shot (2 PTS),6-4,6,4
+0022100138,2021-11-06,POR,LAL,1.38,1,10,37,POR,POR,fg_miss,7,False,False,MISS Powell 3' Dunk,,6-4,6,4
+0022100138,2021-11-06,POR,LAL,1.45,1,10,33,LAL,LAL,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),6-4,6,4
+0022100138,2021-11-06,POR,LAL,1.52,1,10,29,LAL,LAL,fg_make,79,False,False,,Bradley 20' Pullup Jump Shot (4 PTS),6-6,6,6
+0022100138,2021-11-06,POR,LAL,1.73,1,10,16,POR,POR,fg3_miss,80,False,False,MISS McCollum 26' 3PT Step Back Jump Shot,,6-6,6,6
+0022100138,2021-11-06,POR,LAL,1.77,1,10,14,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:0 Def:1),6-6,6,6
+0022100138,2021-11-06,POR,LAL,1.98,1,10,1,LAL,LAL,fg_miss,86,False,False,,MISS Davis 15' Turnaround Fadeaway Shot,6-6,6,6
+0022100138,2021-11-06,POR,LAL,2.02,1,9,59,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:1),,6-6,6,6
+0022100138,2021-11-06,POR,LAL,2.15,1,9,51,POR,POR,fg_make,6,False,False,Lillard 1' Driving Layup (5 PTS) (McCollum 1 AST),,8-6,8,6
+0022100138,2021-11-06,POR,LAL,2.4,1,9,36,LAL,LAL,fg3_miss,80,False,False,,MISS Westbrook 26' 3PT Step Back Jump Shot,8-6,8,6
+0022100138,2021-11-06,POR,LAL,2.45,1,9,33,POR,POR,reb,0,False,False,McCollum REBOUND (Off:0 Def:1),,8-6,8,6
+0022100138,2021-11-06,POR,LAL,2.7,1,9,18,POR,POR,fg_make,75,False,False,McCollum 1' Driving Finger Roll Layup (2 PTS),,10-6,10,6
+0022100138,2021-11-06,POR,LAL,2.87,1,9,8,LAL,LAL,fg_make,43,False,False,,Davis 2' Alley Oop Layup (2 PTS) (Westbrook 1 AST),10-8,10,8
+0022100138,2021-11-06,POR,LAL,3.08,1,8,55,POR,POR,fg_make,80,False,False,Lillard 19' Step Back Jump Shot (7 PTS),,12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.35,1,8,39,LAL,LAL,tov,1,False,True,,Westbrook Bad Pass Turnover (P1.T1),12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.35,1,8,39,LAL,POR,steal,1,False,True,steal,steal,12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.43,1,8,34,POR,POR,fg_miss,41,False,False,MISS Powell 2' Running Layup,,12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.47,1,8,32,LAL,LAL,reb,0,False,False,,Bradley REBOUND (Off:0 Def:2),12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.53,1,8,28,LAL,LAL,fg_miss,103,False,False,,MISS Bradley 13' Running Pull-Up Jump Shot,12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.6,1,8,24,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:1 Def:0),12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.6,1,8,24,LAL,LAL,fg_miss,97,False,False,,MISS Davis Tip Layup Shot,12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.62,1,8,23,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:2 Def:0),12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.62,1,8,23,LAL,LAL,fg_miss,97,False,False,,MISS Davis Tip Layup Shot,12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.62,1,8,23,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:1),12-8,12,8
+0022100138,2021-11-06,POR,LAL,3.68,1,8,19,LAL,LAL,fg_make,87,False,False,,Jordan Putback Dunk (4 PTS),12-10,12,10
+0022100138,2021-11-06,POR,LAL,3.85,1,8,9,POR,LAL,violation,5,False,False,,Jordan Violation:Kicked Ball (M.Smith),12-10,12,10
+0022100138,2021-11-06,POR,LAL,3.93,1,8,4,POR,POR,fg3_miss,79,False,False,MISS Lillard 29' 3PT Pullup Jump Shot,,12-10,12,10
+0022100138,2021-11-06,POR,LAL,3.98,1,8,1,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:0),,12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.08,1,7,55,POR,POR,fg_miss,101,False,False,MISS Lillard 8' Driving Floating Jump Shot,,12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.1,1,7,54,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:2),12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.2,1,7,48,LAL,LAL,fg_miss,79,False,False,,MISS Westbrook 17' Pullup Jump Shot,12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.23,1,7,46,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:2),,12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.38,1,7,37,POR,POR,fg3_miss,79,False,False,MISS McCollum 27' 3PT Pullup Jump Shot,,12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.43,1,7,34,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:1),12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.52,1,7,29,LAL,LAL,fg_miss,41,False,False,,MISS Bradley 1' Running Layup,12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.53,1,7,28,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:3),,12-10,12,10
+0022100138,2021-11-06,POR,LAL,4.67,1,7,20,POR,POR,fg_make,78,False,False,Nurkic 3' Floating Jump Shot (2 PTS) (Lillard 2 AST),,14-10,14,10
+0022100138,2021-11-06,POR,LAL,5.07,1,6,56,LAL,LAL,tov,2,False,True,,Bazemore Lost Ball Turnover (P1.T2),14-10,14,10
+0022100138,2021-11-06,POR,LAL,5.07,1,6,56,LAL,POR,steal,2,False,True,steal,steal,14-10,14,10
+0022100138,2021-11-06,POR,LAL,5.15,1,6,51,POR,POR,fg3_make,103,False,False,Lillard 27' 3PT Running Pull-Up Jump Shot (10 PTS) (Covington 1 AST),,17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.17,1,6,50,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.38,1,6,37,LAL,POR,foul,1,False,False,Covington P.FOUL (P1.T1) (M.Smith),,17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.52,1,6,29,LAL,POR,block,7,True,False,block,block,17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.52,1,6,29,LAL,LAL,fg_miss,7,True,False,,MISS Jordan 1' Dunk,17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.57,1,6,26,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:3 Def:0),17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.58,1,6,25,LAL,LAL,fg_miss,63,False,False,,MISS Davis 1' Fadeaway Jumper,17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.62,1,6,23,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:1),,17-10,17,10
+0022100138,2021-11-06,POR,LAL,5.73,1,6,16,POR,POR,fg_make,108,False,False,Powell 1' Cutting Dunk Shot (2 PTS) (Nurkic 1 AST),,19-10,19,10
+0022100138,2021-11-06,POR,LAL,5.9,1,6,6,POR,LAL,foul,1,False,False,,Davis P.FOUL (P1.T1) (M.Smith),19-10,19,10
+0022100138,2021-11-06,POR,LAL,5.9,1,6,6,POR,POR,reb,0,False,False,Powell REBOUND (Off:0 Def:1),,19-10,19,10
+0022100138,2021-11-06,POR,LAL,5.9,1,6,6,LAL,LAL,fg_miss,5,True,False,,MISS Jordan 2' Layup,19-10,19,10
+0022100138,2021-11-06,POR,LAL,5.9,1,6,6,LAL,POR,block,5,True,False,block,block,19-10,19,10
+0022100138,2021-11-06,POR,LAL,6.0,1,6,0,POR,LAL,violation,1,False,False,,Lakers Violation: Delay of game Violation,19-10,19,10
+0022100138,2021-11-06,POR,LAL,6.0,1,6,0,POR,LAL,foul,1,False,False,,Westbrook P.FOUL (P1.T2) (M.Smith),19-10,19,10
+0022100138,2021-11-06,POR,LAL,6.15,1,5,51,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P1.T1),,19-10,19,10
+0022100138,2021-11-06,POR,LAL,6.15,1,5,51,POR,LAL,steal,1,False,True,steal,steal,19-10,19,10
+0022100138,2021-11-06,POR,LAL,6.4,1,5,36,LAL,LAL,fg3_miss,79,False,False,,MISS Rondo 26' 3PT Pullup Jump Shot,19-10,19,10
+0022100138,2021-11-06,POR,LAL,6.47,1,5,32,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:4),,19-10,19,10
+0022100138,2021-11-06,POR,LAL,6.73,1,5,16,POR,POR,fg_make,6,False,False,Nurkic Driving Layup (4 PTS) (Lillard 3 AST),,21-10,21,10
+0022100138,2021-11-06,POR,LAL,6.92,1,5,5,LAL,LAL,fg_miss,79,False,False,,MISS Bazemore 15' Pullup Jump Shot,21-10,21,10
+0022100138,2021-11-06,POR,LAL,6.98,1,5,1,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:5),,21-10,21,10
+0022100138,2021-11-06,POR,LAL,7.22,1,4,47,POR,POR,fg3_miss,1,False,False,MISS Little 28' 3PT Jump Shot,,21-10,21,10
+0022100138,2021-11-06,POR,LAL,7.27,1,4,44,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:1),21-10,21,10
+0022100138,2021-11-06,POR,LAL,7.37,1,4,38,POR,LAL,foul,4,False,False,,Howard OFF.Foul (P1) (A.Nagy),21-10,21,10
+0022100138,2021-11-06,POR,LAL,7.37,1,4,38,LAL,LAL,tov,37,False,False,,Howard Offensive Foul Turnover (P1.T3),21-10,21,10
+0022100138,2021-11-06,POR,LAL,7.57,1,4,26,POR,POR,fg_make,5,False,False,Nurkic 2' Layup (6 PTS) (Lillard 4 AST),,23-10,23,10
+0022100138,2021-11-06,POR,LAL,7.58,1,4,25,LAL,POR,violation,1,False,False,TRAIL BLAZERS Violation: Delay of game Violation,,23-10,23,10
+0022100138,2021-11-06,POR,LAL,7.77,1,4,14,LAL,LAL,tov,1,False,True,,Rondo Bad Pass Turnover (P1.T4),23-10,23,10
+0022100138,2021-11-06,POR,LAL,7.77,1,4,14,LAL,POR,steal,1,False,True,steal,steal,23-10,23,10
+0022100138,2021-11-06,POR,LAL,7.83,1,4,10,POR,POR,fg_miss,76,False,False,MISS Simons 2' Running Finger Roll Layup,,23-10,23,10
+0022100138,2021-11-06,POR,LAL,7.87,1,4,8,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.2 Short 0),25-10,25,10
+0022100138,2021-11-06,POR,LAL,7.87,1,4,8,POR,POR,reb,0,False,False,Simons REBOUND (Off:1 Def:0),,23-10,23,10
+0022100138,2021-11-06,POR,LAL,7.87,1,4,8,POR,POR,fg_make,97,False,False,Simons Tip Layup Shot (2 PTS),,25-10,25,10
+0022100138,2021-11-06,POR,LAL,8.23,1,3,46,LAL,LAL,fg_miss,1,False,False,,MISS Anthony 15' Jump Shot,25-10,25,10
+0022100138,2021-11-06,POR,LAL,8.27,1,3,44,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,25-10,25,10
+0022100138,2021-11-06,POR,LAL,8.58,1,3,25,POR,POR,fg3_miss,1,False,False,MISS Simons 28' 3PT Jump Shot,,25-10,25,10
+0022100138,2021-11-06,POR,LAL,8.65,1,3,21,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:0 Def:1),25-10,25,10
+0022100138,2021-11-06,POR,LAL,8.8,1,3,12,LAL,LAL,fg_make,6,False,False,,Howard 1' Driving Layup (2 PTS) (Bradley 2 AST),25-12,25,12
+0022100138,2021-11-06,POR,LAL,8.98,1,3,1,POR,POR,fg3_miss,79,False,False,MISS Lillard 26' 3PT Pullup Jump Shot,,25-12,25,12
+0022100138,2021-11-06,POR,LAL,9.0,1,3,0,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:0),,25-12,25,12
+0022100138,2021-11-06,POR,LAL,9.17,1,2,50,POR,POR,fg_make,6,False,False,Simons 2' Driving Layup (4 PTS),,27-12,27,12
+0022100138,2021-11-06,POR,LAL,9.62,1,2,23,LAL,LAL,fg3_miss,1,False,False,,MISS Rondo 25' 3PT Jump Shot,27-12,27,12
+0022100138,2021-11-06,POR,LAL,9.63,1,2,22,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:1),,27-12,27,12
+0022100138,2021-11-06,POR,LAL,9.68,1,2,19,POR,POR,fg3_miss,2,False,False,MISS Simons 26' 3PT Running Jump Shot,,27-12,27,12
+0022100138,2021-11-06,POR,LAL,9.73,1,2,16,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:2),27-12,27,12
+0022100138,2021-11-06,POR,LAL,9.88,1,2,7,LAL,POR,block,5,True,False,block,block,27-12,27,12
+0022100138,2021-11-06,POR,LAL,9.88,1,2,7,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,27-12,27,12
+0022100138,2021-11-06,POR,LAL,9.88,1,2,7,LAL,LAL,fg_miss,5,True,False,,MISS Howard 3' Layup,27-12,27,12
+0022100138,2021-11-06,POR,LAL,10.3,1,1,42,POR,POR,fg3_make,79,False,False,McCollum 25' 3PT Pullup Jump Shot (5 PTS) (Simons 1 AST),,30-12,30,12
+0022100138,2021-11-06,POR,LAL,10.65,1,1,21,LAL,LAL,fg3_miss,1,False,False,,MISS Ellington 26' 3PT Jump Shot,30-12,30,12
+0022100138,2021-11-06,POR,LAL,10.7,1,1,18,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:2),,30-12,30,12
+0022100138,2021-11-06,POR,LAL,10.87,1,1,8,POR,POR,fg3_make,79,False,False,Little 26' 3PT Pullup Jump Shot (3 PTS),,33-12,33,12
+0022100138,2021-11-06,POR,LAL,11.07,1,0,56,LAL,LAL,fg3_miss,1,False,False,,MISS Anthony 25' 3PT Jump Shot,33-12,33,12
+0022100138,2021-11-06,POR,LAL,11.12,1,0,53,POR,POR,reb,0,False,False,McCollum REBOUND (Off:0 Def:2),,33-12,33,12
+0022100138,2021-11-06,POR,LAL,11.15,1,0,51,POR,POR,ft_miss,11,False,False,MISS Nance Jr. Free Throw 1 of 2,,33-12,33,12
+0022100138,2021-11-06,POR,LAL,11.15,1,0,51,POR,LAL,foul,2,False,False,,Rondo S.FOUL (P1.T3) (M.Smith),33-12,33,12
+0022100138,2021-11-06,POR,LAL,11.15,1,0,51,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,33-12,33,12
+0022100138,2021-11-06,POR,LAL,11.15,1,0,51,POR,POR,ft_make,12,False,False,Nance Jr. Free Throw 2 of 2 (1 PTS),,34-12,34,12
+0022100138,2021-11-06,POR,LAL,11.37,1,0,38,LAL,LAL,fg_miss,79,False,False,,MISS Westbrook 17' Pullup Jump Shot,34-12,34,12
+0022100138,2021-11-06,POR,LAL,11.4,1,0,36,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:1),34-12,34,12
+0022100138,2021-11-06,POR,LAL,11.4,1,0,36,LAL,POR,foul,2,False,False,Zeller S.FOUL (P1.T2) (M.Smith),,34-12,34,12
+0022100138,2021-11-06,POR,LAL,11.4,1,0,36,LAL,LAL,ft_make,11,False,False,,Howard Free Throw 1 of 2 (3 PTS),34-13,34,13
+0022100138,2021-11-06,POR,LAL,11.4,1,0,36,LAL,LAL,ft_make,12,False,False,,Howard Free Throw 2 of 2 (4 PTS),34-14,34,14
+0022100138,2021-11-06,POR,LAL,11.63,1,0,22,POR,POR,fg_make,79,False,False,McCollum 17' Pullup Jump Shot (7 PTS),,36-14,36,14
+0022100138,2021-11-06,POR,LAL,11.95,1,0,3,LAL,LAL,fg3_miss,1,False,False,,MISS Anthony 26' 3PT Jump Shot,36-14,36,14
+0022100138,2021-11-06,POR,LAL,11.98,1,0,1,POR,POR,reb,0,False,False,Zeller REBOUND (Off:0 Def:1),,36-14,36,14
+0022100138,2021-11-06,POR,LAL,12.0,2,12,0,POR,,period_start,0,False,False,,,36-14,36,14
+0022100138,2021-11-06,POR,LAL,12.0,1,0,0,POR,,period_end,0,False,False,,,36-14,36,14
+0022100138,2021-11-06,POR,LAL,12.15,2,11,51,LAL,LAL,fg_miss,6,False,False,,MISS Monk 2' Driving Layup,36-14,36,14
+0022100138,2021-11-06,POR,LAL,12.18,2,11,49,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:1),,36-14,36,14
+0022100138,2021-11-06,POR,LAL,12.23,2,11,46,POR,LAL,foul,2,False,False,,Anthony S.FOUL (P1.T1) (M.Smith),36-14,36,14
+0022100138,2021-11-06,POR,LAL,12.23,2,11,46,POR,POR,ft_make,11,False,False,Zeller Free Throw 1 of 2 (1 PTS),,37-14,37,14
+0022100138,2021-11-06,POR,LAL,12.23,2,11,46,POR,POR,ft_make,12,False,False,Zeller Free Throw 2 of 2 (2 PTS),,38-14,38,14
+0022100138,2021-11-06,POR,LAL,12.52,2,11,29,LAL,LAL,fg_make,52,False,False,,Howard Alley Oop Dunk (6 PTS) (Westbrook 2 AST),38-16,38,16
+0022100138,2021-11-06,POR,LAL,12.77,2,11,14,POR,POR,fg3_miss,1,False,False,MISS McCollum 25' 3PT Jump Shot,,38-16,38,16
+0022100138,2021-11-06,POR,LAL,12.8,2,11,12,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:2),38-16,38,16
+0022100138,2021-11-06,POR,LAL,13.17,2,10,50,LAL,LAL,fg_make,79,False,False,,Anthony 12' Pullup Jump Shot (2 PTS),38-18,38,18
+0022100138,2021-11-06,POR,LAL,13.57,2,10,26,POR,POR,fg3_miss,1,False,False,MISS Little 24' 3PT Jump Shot,,38-18,38,18
+0022100138,2021-11-06,POR,LAL,13.6,2,10,24,POR,POR,reb,0,False,False,Zeller REBOUND (Off:1 Def:1),,38-18,38,18
+0022100138,2021-11-06,POR,LAL,13.62,2,10,23,POR,POR,fg_make,87,False,False,Zeller 1' Putback Dunk (4 PTS),,40-18,40,18
+0022100138,2021-11-06,POR,LAL,13.83,2,10,10,LAL,LAL,ft_make,11,False,False,,Anthony Free Throw 1 of 2 (3 PTS),40-19,40,19
+0022100138,2021-11-06,POR,LAL,13.83,2,10,10,LAL,POR,foul,2,False,False,Simons S.FOUL (P1.T1) (M.Smith),,40-18,40,18
+0022100138,2021-11-06,POR,LAL,13.83,2,10,10,LAL,LAL,ft_make,12,False,False,,Anthony Free Throw 2 of 2 (4 PTS),40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.23,2,9,46,POR,POR,fg3_miss,63,False,False,MISS McCollum 3PT Fadeaway Jumper,,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.32,2,9,41,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:3),40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.38,2,9,37,LAL,POR,block,41,True,False,block,block,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.38,2,9,37,LAL,LAL,fg_miss,41,True,False,,MISS Anthony 1' Running Layup,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.42,2,9,35,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:2),,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.52,2,9,29,LAL,POR,foul,4,False,False,Zeller OFF.Foul (P2) (A.Nagy),,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.52,2,9,29,POR,POR,tov,37,False,False,Zeller Offensive Foul Turnover (P1.T2),,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.68,2,9,19,LAL,LAL,reb,1,False,False,,Lakers Rebound,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.68,2,9,19,LAL,LAL,ft_make,12,False,False,,Howard Free Throw 2 of 2 (7 PTS),40-21,40,21
+0022100138,2021-11-06,POR,LAL,14.68,2,9,19,LAL,LAL,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.68,2,9,19,LAL,POR,foul,2,False,False,Zeller S.FOUL (P3.T2) (J.Capers),,40-20,40,20
+0022100138,2021-11-06,POR,LAL,14.87,2,9,8,POR,POR,fg_miss,79,False,False,MISS Simons 21' Pullup Jump Shot,,40-21,40,21
+0022100138,2021-11-06,POR,LAL,14.92,2,9,5,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:2),40-21,40,21
+0022100138,2021-11-06,POR,LAL,15.07,2,8,56,LAL,LAL,fg_make,5,False,False,,Monk 1' Layup (2 PTS) (Westbrook 3 AST),40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.08,2,8,55,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.23,2,8,46,POR,POR,fg3_miss,79,False,False,MISS Lillard 29' 3PT Pullup Jump Shot,,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.3,2,8,42,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:4),40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.35,2,8,39,LAL,POR,foul,2,False,False,McCollum S.FOUL (P1.T3) (A.Nagy),,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.35,2,8,39,LAL,LAL,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.35,2,8,39,LAL,LAL,reb,1,False,False,,Lakers Rebound,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.35,2,8,39,LAL,LAL,ft_miss,12,False,False,,MISS Westbrook Free Throw 2 of 2,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.4,2,8,36,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:6),,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.5,2,8,30,POR,POR,fg3_miss,1,False,False,MISS Covington 30' 3PT Jump Shot,,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.57,2,8,26,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:3),40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.63,2,8,22,LAL,LAL,fg_miss,76,False,False,,MISS Westbrook 2' Running Finger Roll Layup,40-23,40,23
+0022100138,2021-11-06,POR,LAL,15.67,2,8,20,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:7),,40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.0,2,8,0,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.0,2,8,0,POR,POR,ft_miss,11,False,False,MISS Nurkic Free Throw 1 of 2,,40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.0,2,8,0,POR,LAL,foul,2,False,False,,Reaves S.FOUL (P1.T2) (M.Smith),40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.0,2,8,0,POR,POR,ft_miss,12,False,False,MISS Nurkic Free Throw 2 of 2,,40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.03,2,7,58,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:5),40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.17,2,7,50,LAL,LAL,tov,1,False,True,,Monk Bad Pass Turnover (P1.T5),40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.17,2,7,50,LAL,POR,steal,1,False,True,steal,steal,40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.25,2,7,45,POR,LAL,steal,1,False,True,steal,steal,40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.25,2,7,45,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P2.T3),,40-23,40,23
+0022100138,2021-11-06,POR,LAL,16.32,2,7,41,LAL,LAL,fg3_make,2,False,False,,Reaves 29' 3PT Running Jump Shot (3 PTS) (Westbrook 4 AST),40-26,40,26
+0022100138,2021-11-06,POR,LAL,16.55,2,7,27,POR,POR,fg3_miss,1,False,False,MISS McCollum 26' 3PT Jump Shot,,40-26,40,26
+0022100138,2021-11-06,POR,LAL,16.6,2,7,24,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:6),40-26,40,26
+0022100138,2021-11-06,POR,LAL,16.72,2,7,17,LAL,LAL,fg3_miss,79,False,False,,MISS Monk 26' 3PT Pullup Jump Shot,40-26,40,26
+0022100138,2021-11-06,POR,LAL,16.73,2,7,16,LAL,POR,foul,3,False,False,Nurkic L.B.FOUL (P1.T4) (A.Nagy),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,16.73,2,7,16,LAL,LAL,reb,0,False,False,,Lakers Rebound,40-26,40,26
+0022100138,2021-11-06,POR,LAL,16.87,2,7,8,LAL,LAL,fg_miss,1,False,False,,MISS Howard 21' Jump Shot,40-26,40,26
+0022100138,2021-11-06,POR,LAL,16.92,2,7,5,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:8),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.08,2,6,55,POR,LAL,steal,1,False,True,steal,steal,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.08,2,6,55,POR,POR,tov,1,False,True,Powell Bad Pass Turnover (P1.T4),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.15,2,6,51,LAL,LAL,fg_miss,41,False,False,,MISS Monk 2' Running Layup,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.17,2,6,50,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:9),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.25,2,6,45,LAL,POR,foul,26,False,False,Lillard Offensive Charge Foul (P1) (M.Smith),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.25,2,6,45,POR,POR,tov,37,False,False,Lillard Offensive Foul Turnover (P3.T5),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.53,2,6,28,LAL,POR,steal,1,False,True,steal,steal,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.53,2,6,28,LAL,LAL,tov,1,False,True,,Reaves Bad Pass Turnover (P1.T6),40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.67,2,6,20,POR,POR,fg3_miss,1,False,False,MISS McCollum 25' 3PT Jump Shot,,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.73,2,6,16,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:3),40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.82,2,6,11,LAL,LAL,fg3_miss,2,False,False,,MISS Bazemore 3PT Running Jump Shot,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.87,2,6,8,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:2),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,17.98,2,6,1,POR,POR,fg_miss,75,False,False,MISS McCollum 1' Driving Finger Roll Layup,,40-26,40,26
+0022100138,2021-11-06,POR,LAL,18.0,2,6,0,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.3 Short 0),42-26,42,26
+0022100138,2021-11-06,POR,LAL,18.0,2,6,0,POR,POR,fg_make,97,False,False,Nurkic Tip Layup Shot (8 PTS),,42-26,42,26
+0022100138,2021-11-06,POR,LAL,18.0,2,6,0,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:9),,40-26,40,26
+0022100138,2021-11-06,POR,LAL,18.3,2,5,42,LAL,LAL,fg_miss,75,False,False,,MISS Rondo 1' Driving Finger Roll Layup,42-26,42,26
+0022100138,2021-11-06,POR,LAL,18.33,2,5,40,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:10),,42-26,42,26
+0022100138,2021-11-06,POR,LAL,18.57,2,5,26,POR,POR,fg_make,6,False,False,Nurkic 1' Driving Layup (10 PTS) (Lillard 5 AST),,44-26,44,26
+0022100138,2021-11-06,POR,LAL,18.68,2,5,19,LAL,LAL,reb,0,False,False,,Lakers Rebound,44-26,44,26
+0022100138,2021-11-06,POR,LAL,18.68,2,5,19,LAL,LAL,fg_miss,6,True,False,,MISS Reaves 2' Driving Layup,44-26,44,26
+0022100138,2021-11-06,POR,LAL,18.68,2,5,19,LAL,POR,block,6,True,False,block,block,44-26,44,26
+0022100138,2021-11-06,POR,LAL,18.73,2,5,16,LAL,LAL,fg_miss,79,False,False,,MISS Anthony 15' Pullup Jump Shot,44-26,44,26
+0022100138,2021-11-06,POR,LAL,18.77,2,5,14,LAL,LAL,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (2 PTS),44-28,44,28
+0022100138,2021-11-06,POR,LAL,18.77,2,5,14,LAL,LAL,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (1 PTS),44-27,44,27
+0022100138,2021-11-06,POR,LAL,18.77,2,5,14,LAL,POR,foul,3,False,False,Lillard L.B.FOUL (P2.PN) (A.Nagy),,44-26,44,26
+0022100138,2021-11-06,POR,LAL,18.77,2,5,14,LAL,LAL,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:0),44-26,44,26
+0022100138,2021-11-06,POR,LAL,18.95,2,5,3,POR,POR,fg_miss,1,False,False,MISS Lillard 21' Jump Shot,,44-28,44,28
+0022100138,2021-11-06,POR,LAL,18.97,2,5,2,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:4),44-28,44,28
+0022100138,2021-11-06,POR,LAL,19.03,2,4,58,LAL,LAL,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P2.T7),44-28,44,28
+0022100138,2021-11-06,POR,LAL,19.25,2,4,45,POR,LAL,foul,1,False,False,,Bazemore P.FOUL (P1.T3) (A.Nagy),44-28,44,28
+0022100138,2021-11-06,POR,LAL,19.35,2,4,39,POR,POR,fg3_miss,1,False,False,MISS Covington 29' 3PT Jump Shot,,44-28,44,28
+0022100138,2021-11-06,POR,LAL,19.4,2,4,36,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:4),44-28,44,28
+0022100138,2021-11-06,POR,LAL,19.75,2,4,15,LAL,LAL,fg_make,86,False,False,,Anthony 15' Turnaround Fadeaway (6 PTS),44-30,44,30
+0022100138,2021-11-06,POR,LAL,20.0,2,4,0,POR,POR,fg3_make,1,False,False,Powell 26' 3PT Jump Shot (5 PTS) (Covington 2 AST),,47-30,47,30
+0022100138,2021-11-06,POR,LAL,20.22,2,3,47,LAL,LAL,ft_make,12,False,False,,Anthony Free Throw 2 of 2 (8 PTS),47-32,47,32
+0022100138,2021-11-06,POR,LAL,20.22,2,3,47,LAL,LAL,ft_make,11,False,False,,Anthony Free Throw 1 of 2 (7 PTS),47-31,47,31
+0022100138,2021-11-06,POR,LAL,20.22,2,3,47,LAL,POR,foul,1,False,False,Powell P.FOUL (P1.PN) (J.Capers),,47-30,47,30
+0022100138,2021-11-06,POR,LAL,20.43,2,3,34,POR,LAL,block,6,True,False,block,block,47-32,47,32
+0022100138,2021-11-06,POR,LAL,20.43,2,3,34,POR,POR,fg_miss,6,True,False,MISS Simons 3' Driving Layup,,47-32,47,32
+0022100138,2021-11-06,POR,LAL,20.48,2,3,31,LAL,LAL,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:1),47-32,47,32
+0022100138,2021-11-06,POR,LAL,20.55,2,3,27,LAL,LAL,fg3_make,2,False,False,,Westbrook 25' 3PT Running Jump Shot (3 PTS) (Bazemore 1 AST),47-35,47,35
+0022100138,2021-11-06,POR,LAL,20.78,2,3,13,POR,POR,fg3_miss,1,False,False,MISS Simons 25' 3PT Jump Shot,,47-35,47,35
+0022100138,2021-11-06,POR,LAL,20.83,2,3,10,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:5),47-35,47,35
+0022100138,2021-11-06,POR,LAL,20.93,2,3,4,LAL,LAL,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P3.T8),47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.28,2,2,43,POR,POR,fg_miss,86,False,False,MISS McCollum 21' Turnaround Fadeaway Shot,,47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.32,2,2,41,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:1 Def:2),,47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.42,2,2,35,POR,POR,fg3_miss,79,False,False,MISS Lillard 24' 3PT Pullup Jump Shot,,47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.47,2,2,32,LAL,LAL,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:2),47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.52,2,2,29,LAL,POR,foul,1,False,False,McCollum P.FOUL (P2.PN) (M.Smith),,47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.52,2,2,29,LAL,LAL,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.52,2,2,29,LAL,LAL,reb,1,False,False,,Lakers Rebound,47-35,47,35
+0022100138,2021-11-06,POR,LAL,21.52,2,2,29,LAL,LAL,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (4 PTS),47-36,47,36
+0022100138,2021-11-06,POR,LAL,21.88,2,2,7,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,47-36,47,36
+0022100138,2021-11-06,POR,LAL,21.88,2,2,7,POR,LAL,foul,2,False,False,,Bazemore S.FOUL (P2.T4) (A.Nagy),47-36,47,36
+0022100138,2021-11-06,POR,LAL,21.88,2,2,7,POR,POR,ft_miss,11,False,False,MISS Lillard Free Throw 1 of 2,,47-36,47,36
+0022100138,2021-11-06,POR,LAL,21.88,2,2,7,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (11 PTS),,48-36,48,36
+0022100138,2021-11-06,POR,LAL,22.28,2,1,43,LAL,LAL,fg_miss,86,False,False,,MISS Anthony 17' Turnaround Fadeaway Shot,48-36,48,36
+0022100138,2021-11-06,POR,LAL,22.3,2,1,42,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,48-36,48,36
+0022100138,2021-11-06,POR,LAL,22.43,2,1,34,POR,POR,fg_miss,78,False,False,MISS Nance Jr. 14' Floating Jump Shot,,48-36,48,36
+0022100138,2021-11-06,POR,LAL,22.48,2,1,31,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:6),48-36,48,36
+0022100138,2021-11-06,POR,LAL,22.58,2,1,25,LAL,LAL,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P4.T9),48-36,48,36
+0022100138,2021-11-06,POR,LAL,23.0,2,1,0,POR,POR,fg3_miss,105,False,False,MISS Lillard 25' 3PT Turnaround Fadeaway Bank Jump Shot,,48-36,48,36
+0022100138,2021-11-06,POR,LAL,23.03,2,0,58,POR,POR,ft_make,10,False,False,Nance Jr. Free Throw 1 of 1 (4 PTS),,51-36,51,36
+0022100138,2021-11-06,POR,LAL,23.03,2,0,58,POR,POR,reb,0,False,False,Nance Jr. REBOUND (Off:2 Def:2),,48-36,48,36
+0022100138,2021-11-06,POR,LAL,23.03,2,0,58,POR,LAL,foul,2,False,False,,Westbrook S.FOUL (P2.PN) (J.Capers),50-36,50,36
+0022100138,2021-11-06,POR,LAL,23.03,2,0,58,POR,POR,fg_make,72,False,False,Nance Jr. 2' Putback Layup (3 PTS),,50-36,50,36
+0022100138,2021-11-06,POR,LAL,23.27,2,0,44,LAL,LAL,fg_miss,79,False,False,,MISS Westbrook 19' Pullup Jump Shot,51-36,51,36
+0022100138,2021-11-06,POR,LAL,23.32,2,0,41,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:1),,51-36,51,36
+0022100138,2021-11-06,POR,LAL,23.57,2,0,26,POR,POR,fg3_miss,1,False,False,MISS Powell 25' 3PT Jump Shot,,51-36,51,36
+0022100138,2021-11-06,POR,LAL,23.63,2,0,22,LAL,LAL,reb,0,False,False,,Bradley REBOUND (Off:0 Def:3),51-36,51,36
+0022100138,2021-11-06,POR,LAL,24.0,3,12,0,POR,,period_start,0,False,False,,,51-36,51,36
+0022100138,2021-11-06,POR,LAL,24.0,2,0,0,POR,,period_end,0,False,False,,,51-36,51,36
+0022100138,2021-11-06,POR,LAL,24.0,2,0,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,51-36,51,36
+0022100138,2021-11-06,POR,LAL,24.0,2,0,0,LAL,LAL,fg_miss,6,False,False,,MISS Anthony 1' Driving Layup,51-36,51,36
+0022100138,2021-11-06,POR,LAL,24.27,3,11,44,LAL,LAL,fg_make,79,False,False,,Anthony 20' Pullup Jump Shot (10 PTS) (Westbrook 5 AST),51-38,51,38
+0022100138,2021-11-06,POR,LAL,24.57,3,11,26,POR,POR,fg3_miss,79,False,False,MISS McCollum 25' 3PT Pullup Jump Shot,,51-38,51,38
+0022100138,2021-11-06,POR,LAL,24.6,3,11,24,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:7),51-38,51,38
+0022100138,2021-11-06,POR,LAL,24.73,3,11,16,LAL,POR,foul,2,False,False,Powell S.FOUL (P2.T1) (M.Smith),,51-38,51,38
+0022100138,2021-11-06,POR,LAL,24.73,3,11,16,LAL,LAL,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (6 PTS),51-40,51,40
+0022100138,2021-11-06,POR,LAL,24.73,3,11,16,LAL,LAL,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (5 PTS),51-39,51,39
+0022100138,2021-11-06,POR,LAL,24.92,3,11,5,POR,POR,fg3_make,79,False,False,Lillard 26' 3PT Pullup Jump Shot (14 PTS),,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.07,3,10,56,LAL,LAL,fg3_miss,79,False,False,,MISS Westbrook 27' 3PT Pullup Jump Shot,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.1,3,10,54,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.27,3,10,44,POR,POR,tov,1,False,True,Nurkic Bad Pass Turnover (P1.T6),,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.27,3,10,44,POR,LAL,steal,1,False,True,steal,steal,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.32,3,10,41,LAL,POR,steal,1,False,True,steal,steal,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.32,3,10,41,LAL,LAL,tov,1,False,True,,Jordan Bad Pass Turnover (P1.T10),54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.38,3,10,37,POR,POR,fg3_miss,79,False,False,MISS McCollum 26' 3PT Pullup Jump Shot,,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.38,3,10,37,LAL,LAL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:1),54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.55,3,10,27,LAL,LAL,fg_miss,5,False,False,,MISS Westbrook 2' Layup,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.57,3,10,26,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:11),,54-40,54,40
+0022100138,2021-11-06,POR,LAL,25.67,3,10,20,POR,POR,fg3_make,2,False,False,Covington 3PT Running Jump Shot (6 PTS) (Lillard 6 AST),,57-40,57,40
+0022100138,2021-11-06,POR,LAL,25.68,3,10,19,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.4 Short 0),57-40,57,40
+0022100138,2021-11-06,POR,LAL,25.87,3,10,8,LAL,POR,block,6,True,False,block,block,57-40,57,40
+0022100138,2021-11-06,POR,LAL,25.87,3,10,8,LAL,LAL,fg_miss,6,True,False,,MISS Westbrook 1' Driving Layup,57-40,57,40
+0022100138,2021-11-06,POR,LAL,25.95,3,10,3,POR,POR,reb,0,False,False,Powell REBOUND (Off:0 Def:2),,57-40,57,40
+0022100138,2021-11-06,POR,LAL,25.97,3,10,2,POR,POR,ft_miss,12,False,False,MISS Powell Free Throw 2 of 2,,58-40,58,40
+0022100138,2021-11-06,POR,LAL,25.97,3,10,2,POR,POR,ft_make,11,False,False,Powell Free Throw 1 of 2 (6 PTS),,58-40,58,40
+0022100138,2021-11-06,POR,LAL,25.97,3,10,2,POR,LAL,foul,2,False,False,,Anthony S.FOUL (P2.T1) (M.Smith),57-40,57,40
+0022100138,2021-11-06,POR,LAL,26.02,3,9,59,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:5),58-40,58,40
+0022100138,2021-11-06,POR,LAL,26.1,3,9,54,LAL,LAL,fg_miss,6,False,False,,MISS Westbrook 3' Driving Layup,58-40,58,40
+0022100138,2021-11-06,POR,LAL,26.13,3,9,52,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:12),,58-40,58,40
+0022100138,2021-11-06,POR,LAL,26.2,3,9,48,POR,POR,ft_make,11,False,False,Nurkic Free Throw 1 of 2 (11 PTS),,59-40,59,40
+0022100138,2021-11-06,POR,LAL,26.2,3,9,48,POR,POR,ft_make,12,False,False,Nurkic Free Throw 2 of 2 (12 PTS),,60-40,60,40
+0022100138,2021-11-06,POR,LAL,26.2,3,9,48,POR,LAL,foul,2,False,False,,Jordan S.FOUL (P1.T2) (J.Capers),58-40,58,40
+0022100138,2021-11-06,POR,LAL,26.42,3,9,35,LAL,LAL,fg_make,6,False,False,,Bazemore 1' Driving Layup (4 PTS) (Anthony 1 AST),60-42,60,42
+0022100138,2021-11-06,POR,LAL,26.8,3,9,12,POR,POR,fg_miss,86,False,False,MISS Powell 15' Turnaround Fadeaway Shot,,60-42,60,42
+0022100138,2021-11-06,POR,LAL,26.85,3,9,9,POR,POR,reb,0,False,False,McCollum REBOUND (Off:1 Def:2),,60-42,60,42
+0022100138,2021-11-06,POR,LAL,26.92,3,9,5,POR,POR,fg3_make,79,False,False,Lillard 25' 3PT Pullup Jump Shot (17 PTS) (McCollum 2 AST),,63-42,63,42
+0022100138,2021-11-06,POR,LAL,27.23,3,8,46,LAL,LAL,fg_miss,86,False,False,,MISS Anthony 11' Turnaround Fadeaway Shot,63-42,63,42
+0022100138,2021-11-06,POR,LAL,27.28,3,8,43,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:2),,63-42,63,42
+0022100138,2021-11-06,POR,LAL,27.38,3,8,37,POR,POR,fg3_miss,103,False,False,MISS Lillard 30' 3PT Running Pull-Up Jump Shot,,63-42,63,42
+0022100138,2021-11-06,POR,LAL,27.42,3,8,35,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:6),63-42,63,42
+0022100138,2021-11-06,POR,LAL,27.48,3,8,31,LAL,LAL,fg_make,106,False,False,,Jordan Running Alley Oop Dunk Shot (6 PTS) (Bradley 3 AST),63-44,63,44
+0022100138,2021-11-06,POR,LAL,27.77,3,8,14,POR,LAL,steal,1,False,True,steal,steal,63-44,63,44
+0022100138,2021-11-06,POR,LAL,27.77,3,8,14,POR,POR,tov,1,False,True,Nurkic Bad Pass Turnover (P2.T7),,63-44,63,44
+0022100138,2021-11-06,POR,LAL,27.85,3,8,9,LAL,LAL,fg3_miss,2,False,False,,MISS Bradley 26' 3PT Running Jump Shot,63-44,63,44
+0022100138,2021-11-06,POR,LAL,27.9,3,8,6,POR,POR,reb,0,False,False,McCollum REBOUND (Off:1 Def:3),,63-44,63,44
+0022100138,2021-11-06,POR,LAL,27.97,3,8,2,POR,POR,ft_miss,12,False,False,MISS Powell Free Throw 2 of 2,,64-44,64,44
+0022100138,2021-11-06,POR,LAL,27.97,3,8,2,POR,POR,ft_make,11,False,False,Powell Free Throw 1 of 2 (7 PTS),,64-44,64,44
+0022100138,2021-11-06,POR,LAL,27.97,3,8,2,POR,LAL,foul,2,False,False,,Bazemore S.FOUL (P3.T3) (M.Smith),63-44,63,44
+0022100138,2021-11-06,POR,LAL,27.98,3,8,1,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:7),64-44,64,44
+0022100138,2021-11-06,POR,LAL,28.15,3,7,51,LAL,POR,foul,1,False,False,McCollum P.FOUL (P3.T2) (M.Smith),,64-44,64,44
+0022100138,2021-11-06,POR,LAL,28.32,3,7,41,LAL,LAL,fg3_miss,79,False,False,,MISS Ellington 28' 3PT Pullup Jump Shot,64-44,64,44
+0022100138,2021-11-06,POR,LAL,28.37,3,7,38,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:13),,64-44,64,44
+0022100138,2021-11-06,POR,LAL,28.57,3,7,26,POR,POR,fg_miss,47,False,False,MISS McCollum 15' Turnaround Jump Shot,,64-44,64,44
+0022100138,2021-11-06,POR,LAL,28.58,3,7,25,POR,POR,ft_make,10,False,False,Nurkic Free Throw 1 of 1 (15 PTS),,67-44,67,44
+0022100138,2021-11-06,POR,LAL,28.58,3,7,25,POR,LAL,foul,2,False,False,,Ellington S.FOUL (P1.T4) (J.Capers),66-44,66,44
+0022100138,2021-11-06,POR,LAL,28.58,3,7,25,POR,POR,fg_make,97,False,False,Nurkic Tip Layup Shot (14 PTS),,66-44,66,44
+0022100138,2021-11-06,POR,LAL,28.58,3,7,25,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:2 Def:13),,64-44,64,44
+0022100138,2021-11-06,POR,LAL,28.77,3,7,14,LAL,LAL,fg3_miss,1,False,False,,MISS Anthony 26' 3PT Jump Shot,67-44,67,44
+0022100138,2021-11-06,POR,LAL,28.82,3,7,11,POR,POR,reb,0,False,False,McCollum REBOUND (Off:1 Def:4),,67-44,67,44
+0022100138,2021-11-06,POR,LAL,28.88,3,7,7,POR,POR,fg_make,41,False,False,Powell 1' Running Layup (9 PTS) (McCollum 3 AST),,69-44,69,44
+0022100138,2021-11-06,POR,LAL,29.15,3,6,51,LAL,LAL,fg3_miss,1,False,False,,MISS Ellington 3PT Jump Shot,69-44,69,44
+0022100138,2021-11-06,POR,LAL,29.2,3,6,48,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:2 Def:14),,69-44,69,44
+0022100138,2021-11-06,POR,LAL,29.28,3,6,43,POR,POR,fg3_miss,103,False,False,MISS Lillard 39' 3PT Running Pull-Up Jump Shot,,69-44,69,44
+0022100138,2021-11-06,POR,LAL,29.33,3,6,40,LAL,LAL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:2),69-44,69,44
+0022100138,2021-11-06,POR,LAL,29.52,3,6,29,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,69-46,69,46
+0022100138,2021-11-06,POR,LAL,29.52,3,6,29,LAL,POR,foul,2,False,False,Covington S.FOUL (P2.T3) (A.Nagy),,69-44,69,44
+0022100138,2021-11-06,POR,LAL,29.52,3,6,29,LAL,LAL,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (8 PTS),69-46,69,46
+0022100138,2021-11-06,POR,LAL,29.52,3,6,29,LAL,LAL,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (7 PTS),69-45,69,45
+0022100138,2021-11-06,POR,LAL,29.73,3,6,16,POR,POR,fg3_make,1,False,False,Lillard 29' 3PT Jump Shot (20 PTS) (McCollum 4 AST),,72-46,72,46
+0022100138,2021-11-06,POR,LAL,30.07,3,5,56,LAL,POR,steal,1,False,True,steal,steal,72-46,72,46
+0022100138,2021-11-06,POR,LAL,30.07,3,5,56,LAL,LAL,tov,1,False,True,,Westbrook Bad Pass Turnover (P5.T11),72-46,72,46
+0022100138,2021-11-06,POR,LAL,30.13,3,5,52,POR,POR,fg_miss,41,True,False,MISS Powell 2' Running Layup,,72-46,72,46
+0022100138,2021-11-06,POR,LAL,30.13,3,5,52,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,72-46,72,46
+0022100138,2021-11-06,POR,LAL,30.13,3,5,52,POR,LAL,foul,1,False,False,,Westbrook P.FOUL (P3.PN) (J.Capers),72-46,72,46
+0022100138,2021-11-06,POR,LAL,30.13,3,5,52,POR,POR,ft_make,11,False,False,Powell Free Throw 1 of 2 (10 PTS),,73-46,73,46
+0022100138,2021-11-06,POR,LAL,30.13,3,5,52,POR,LAL,block,41,True,False,block,block,72-46,72,46
+0022100138,2021-11-06,POR,LAL,30.13,3,5,52,POR,POR,ft_make,12,False,False,Powell Free Throw 2 of 2 (11 PTS),,74-46,74,46
+0022100138,2021-11-06,POR,LAL,30.45,3,5,33,LAL,LAL,fg_miss,1,False,False,,MISS Reaves 17' Jump Shot,74-46,74,46
+0022100138,2021-11-06,POR,LAL,30.5,3,5,30,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:2 Def:15),,74-46,74,46
+0022100138,2021-11-06,POR,LAL,30.67,3,5,20,POR,POR,fg3_miss,1,False,False,MISS McCollum 25' 3PT Jump Shot,,74-46,74,46
+0022100138,2021-11-06,POR,LAL,30.7,3,5,18,LAL,LAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:8),74-46,74,46
+0022100138,2021-11-06,POR,LAL,30.95,3,5,3,LAL,LAL,fg_make,6,False,False,,Anthony 1' Driving Layup (12 PTS),74-48,74,48
+0022100138,2021-11-06,POR,LAL,30.95,3,5,3,LAL,POR,violation,2,False,False,Nurkic Violation:Defensive Goaltending (J.Capers),,74-48,74,48
+0022100138,2021-11-06,POR,LAL,31.35,3,4,39,POR,POR,fg3_make,1,False,False,Covington 26' 3PT Jump Shot (9 PTS) (McCollum 5 AST),,77-48,77,48
+0022100138,2021-11-06,POR,LAL,31.37,3,4,38,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.5 Short 0),77-48,77,48
+0022100138,2021-11-06,POR,LAL,31.48,3,4,31,LAL,LAL,fg_make,98,False,False,,Ellington 2' Cutting Layup Shot (2 PTS) (Reaves 1 AST),77-50,77,50
+0022100138,2021-11-06,POR,LAL,31.8,3,4,12,POR,POR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,77-50,77,50
+0022100138,2021-11-06,POR,LAL,31.85,3,4,9,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:3),77-50,77,50
+0022100138,2021-11-06,POR,LAL,31.97,3,4,2,LAL,LAL,fg_make,75,False,False,,Rondo 1' Driving Finger Roll Layup (2 PTS),77-52,77,52
+0022100138,2021-11-06,POR,LAL,32.18,3,3,49,POR,POR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,77-52,77,52
+0022100138,2021-11-06,POR,LAL,32.23,3,3,46,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:0 Def:1),77-52,77,52
+0022100138,2021-11-06,POR,LAL,32.47,3,3,32,LAL,LAL,fg_miss,6,False,False,,MISS Rondo 3' Driving Layup,77-52,77,52
+0022100138,2021-11-06,POR,LAL,32.52,3,3,29,POR,POR,reb,0,False,False,Zeller REBOUND (Off:1 Def:2),,77-52,77,52
+0022100138,2021-11-06,POR,LAL,32.88,3,3,7,POR,POR,reb,0,False,False,Simons REBOUND (Off:2 Def:0),,77-52,77,52
+0022100138,2021-11-06,POR,LAL,32.88,3,3,7,POR,POR,ft_make,12,False,False,Simons Free Throw 2 of 2 (6 PTS),,79-52,79,52
+0022100138,2021-11-06,POR,LAL,32.88,3,3,7,POR,POR,ft_make,11,False,False,Simons Free Throw 1 of 2 (5 PTS),,78-52,78,52
+0022100138,2021-11-06,POR,LAL,32.88,3,3,7,POR,LAL,foul,2,False,False,,Ellington S.FOUL (P2.PN) (J.Capers),77-52,77,52
+0022100138,2021-11-06,POR,LAL,32.88,3,3,7,POR,POR,fg_miss,6,False,False,MISS Simons 3' Driving Layup,,77-52,77,52
+0022100138,2021-11-06,POR,LAL,33.05,3,2,57,LAL,POR,steal,2,False,True,steal,steal,79-52,79,52
+0022100138,2021-11-06,POR,LAL,33.05,3,2,57,LAL,LAL,tov,2,False,True,,Howard Lost Ball Turnover (P2.T12),79-52,79,52
+0022100138,2021-11-06,POR,LAL,33.18,3,2,49,POR,POR,fg_make,41,False,False,Powell 1' Running Layup (13 PTS),,81-52,81,52
+0022100138,2021-11-06,POR,LAL,33.37,3,2,38,LAL,LAL,fg_miss,6,False,False,,MISS Howard 2' Driving Layup,81-52,81,52
+0022100138,2021-11-06,POR,LAL,33.4,3,2,36,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:3),,81-52,81,52
+0022100138,2021-11-06,POR,LAL,33.5,3,2,30,POR,LAL,foul,1,False,False,,Howard P.FOUL (P2.PN) (A.Nagy),81-52,81,52
+0022100138,2021-11-06,POR,LAL,33.5,3,2,30,POR,POR,ft_make,12,False,False,Zeller Free Throw 2 of 2 (6 PTS),,83-52,83,52
+0022100138,2021-11-06,POR,LAL,33.5,3,2,30,POR,POR,ft_make,11,False,False,Zeller Free Throw 1 of 2 (5 PTS),,82-52,82,52
+0022100138,2021-11-06,POR,LAL,33.77,3,2,14,LAL,POR,steal,2,False,True,steal,steal,83-52,83,52
+0022100138,2021-11-06,POR,LAL,33.77,3,2,14,LAL,LAL,tov,2,False,True,,Howard Lost Ball Turnover (P3.T13),83-52,83,52
+0022100138,2021-11-06,POR,LAL,33.85,3,2,9,POR,POR,fg_make,50,False,False,Simons Running Dunk (8 PTS) (Powell 2 AST),,85-52,85,52
+0022100138,2021-11-06,POR,LAL,33.98,3,2,1,LAL,LAL,fg_make,5,False,False,,Howard 2' Layup (9 PTS) (Monk 1 AST),85-54,85,54
+0022100138,2021-11-06,POR,LAL,34.23,3,1,46,POR,POR,fg3_miss,80,False,False,MISS Lillard 32' 3PT Step Back Jump Shot,,85-54,85,54
+0022100138,2021-11-06,POR,LAL,34.23,3,1,46,POR,POR,reb,0,False,False,Simons REBOUND (Off:3 Def:0),,85-54,85,54
+0022100138,2021-11-06,POR,LAL,34.32,3,1,41,POR,POR,fg3_make,1,False,False,Covington 27' 3PT Jump Shot (12 PTS) (Simons 2 AST),,88-54,88,54
+0022100138,2021-11-06,POR,LAL,34.58,3,1,25,LAL,LAL,fg_miss,6,False,False,,MISS Rondo 3' Driving Layup,88-54,88,54
+0022100138,2021-11-06,POR,LAL,34.58,3,1,25,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:3),,88-54,88,54
+0022100138,2021-11-06,POR,LAL,34.7,3,1,18,POR,LAL,steal,2,False,True,steal,steal,88-54,88,54
+0022100138,2021-11-06,POR,LAL,34.7,3,1,18,POR,POR,tov,2,False,True,Powell Lost Ball Turnover (P2.T8),,88-54,88,54
+0022100138,2021-11-06,POR,LAL,34.85,3,1,9,LAL,LAL,fg3_make,1,False,False,,Monk 24' 3PT Jump Shot (5 PTS) (Rondo 1 AST),88-57,88,57
+0022100138,2021-11-06,POR,LAL,35.18,3,0,49,POR,POR,fg3_make,1,False,False,Lillard 27' 3PT Jump Shot (23 PTS) (Simons 3 AST),,91-57,91,57
+0022100138,2021-11-06,POR,LAL,35.3,3,0,42,LAL,POR,foul,2,False,False,Lillard S.FOUL (P3.T4) (A.Nagy),,91-57,91,57
+0022100138,2021-11-06,POR,LAL,35.3,3,0,42,LAL,LAL,ft_make,11,False,False,,Howard Free Throw 1 of 2 (10 PTS),91-58,91,58
+0022100138,2021-11-06,POR,LAL,35.3,3,0,42,LAL,LAL,ft_make,12,False,False,,Howard Free Throw 2 of 2 (11 PTS),91-59,91,59
+0022100138,2021-11-06,POR,LAL,35.53,3,0,28,POR,POR,fg_make,80,False,False,Lillard 19' Step Back Jump Shot (25 PTS),,93-59,93,59
+0022100138,2021-11-06,POR,LAL,35.83,3,0,10,LAL,LAL,fg3_make,1,False,False,,Ellington 27' 3PT Jump Shot (5 PTS) (Rondo 2 AST),93-62,93,62
+0022100138,2021-11-06,POR,LAL,35.95,3,0,3,POR,POR,fg3_miss,1,False,False,MISS Simons 3PT Jump Shot,,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.0,3,0,0,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:0 Def:2),93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.0,3,0,0,LAL,LAL,fg3_miss,79,False,False,,MISS Reaves 53' 3PT Pullup Jump Shot,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.0,3,0,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.0,4,12,0,LAL,,period_start,0,False,False,,,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.0,3,0,0,LAL,,period_end,0,False,False,,,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.33,4,11,40,POR,POR,fg_miss,5,False,False,MISS Covington 2' Layup,,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.33,4,11,40,LAL,LAL,reb,0,False,False,,Lakers Rebound,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.58,4,11,25,LAL,LAL,tov,2,False,True,,Monk Lost Ball Turnover (P2.T14),93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.58,4,11,25,LAL,POR,steal,2,False,True,steal,steal,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.88,4,11,7,POR,POR,fg3_miss,80,True,False,MISS Simons 27' 3PT Step Back Jump Shot,,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.88,4,11,7,POR,LAL,block,80,True,False,block,block,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.93,4,11,4,LAL,LAL,reb,0,False,False,,Ellington REBOUND (Off:0 Def:1),93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.98,4,11,1,LAL,POR,steal,1,False,True,steal,steal,93-62,93,62
+0022100138,2021-11-06,POR,LAL,36.98,4,11,1,LAL,LAL,tov,1,False,True,,Ellington Bad Pass Turnover (P1.T15),93-62,93,62
+0022100138,2021-11-06,POR,LAL,37.17,4,10,50,POR,POR,fg_miss,5,True,False,MISS Nance Jr. 3' Layup,,93-62,93,62
+0022100138,2021-11-06,POR,LAL,37.17,4,10,50,POR,LAL,block,5,True,False,block,block,93-62,93,62
+0022100138,2021-11-06,POR,LAL,37.22,4,10,47,LAL,LAL,reb,0,False,False,,Ellington REBOUND (Off:0 Def:2),93-62,93,62
+0022100138,2021-11-06,POR,LAL,37.4,4,10,36,LAL,LAL,fg3_miss,1,False,False,,MISS Anthony 25' 3PT Jump Shot,93-62,93,62
+0022100138,2021-11-06,POR,LAL,37.43,4,10,34,LAL,LAL,reb,0,False,False,,Lakers Rebound,93-62,93,62
+0022100138,2021-11-06,POR,LAL,37.67,4,10,20,LAL,LAL,fg3_make,79,False,False,,Monk 27' 3PT Pullup Jump Shot (8 PTS) (Reaves 2 AST),93-65,93,65
+0022100138,2021-11-06,POR,LAL,37.97,4,10,2,POR,POR,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.0,4,10,0,LAL,LAL,reb,0,False,False,,Ellington REBOUND (Off:0 Def:3),93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.22,4,9,47,LAL,POR,foul,1,False,False,Little P.FOUL (P1.T1) (A.Nagy),,93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.3,4,9,42,LAL,LAL,fg_miss,79,False,False,,MISS Westbrook 20' Pullup Jump Shot,93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.37,4,9,38,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:1 Def:2),93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.55,4,9,27,LAL,POR,block,6,True,False,block,block,93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.55,4,9,27,LAL,LAL,fg_miss,6,True,False,,MISS Westbrook 2' Driving Layup,93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.58,4,9,25,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:7),93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.6,4,9,24,LAL,LAL,fg_miss,72,False,False,,MISS Westbrook 1' Putback Layup,93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.6,4,9,24,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:7),93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.65,4,9,21,LAL,LAL,tov,2,False,True,,Westbrook Lost Ball Turnover (P6.T16),93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.65,4,9,21,LAL,POR,steal,2,False,True,steal,steal,93-65,93,65
+0022100138,2021-11-06,POR,LAL,38.83,4,9,10,POR,POR,fg3_make,1,False,False,Little 24' 3PT Jump Shot (6 PTS) (Simons 4 AST),,96-65,96,65
+0022100138,2021-11-06,POR,LAL,39.02,4,8,59,LAL,LAL,fg3_make,1,False,False,,Ellington 26' 3PT Jump Shot (8 PTS) (Westbrook 6 AST),96-68,96,68
+0022100138,2021-11-06,POR,LAL,39.25,4,8,45,POR,POR,fg3_miss,1,False,False,MISS Little 3PT Jump Shot,,96-68,96,68
+0022100138,2021-11-06,POR,LAL,39.28,4,8,43,LAL,LAL,reb,0,False,False,,Monk REBOUND (Off:0 Def:1),96-68,96,68
+0022100138,2021-11-06,POR,LAL,39.37,4,8,38,LAL,LAL,fg3_miss,103,False,False,,MISS Monk 26' 3PT Running Pull-Up Jump Shot,96-68,96,68
+0022100138,2021-11-06,POR,LAL,39.42,4,8,35,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:3),,96-68,96,68
+0022100138,2021-11-06,POR,LAL,39.6,4,8,24,POR,POR,fg_make,80,False,False,Simons 14' Step Back Jump Shot (10 PTS),,98-68,98,68
+0022100138,2021-11-06,POR,LAL,39.73,4,8,16,LAL,LAL,fg3_miss,1,False,False,,MISS Reaves 24' 3PT Jump Shot,98-68,98,68
+0022100138,2021-11-06,POR,LAL,39.78,4,8,13,POR,POR,reb,0,False,False,Simons REBOUND (Off:3 Def:1),,98-68,98,68
+0022100138,2021-11-06,POR,LAL,39.95,4,8,3,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),100-68,100,68
+0022100138,2021-11-06,POR,LAL,39.95,4,8,3,POR,POR,fg_make,9,False,False,Little Driving Dunk (8 PTS) (Nance Jr. 1 AST),,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.05,4,7,57,LAL,POR,foul,1,False,False,Smith Jr. P.FOUL (P1.T2) (A.Nagy),,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.22,4,7,47,LAL,LAL,fg3_miss,1,False,False,,MISS Ellington 27' 3PT Jump Shot,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.27,4,7,44,POR,POR,reb,0,False,False,Smith Jr. REBOUND (Off:0 Def:1),,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.4,4,7,36,POR,POR,fg3_miss,1,False,False,MISS Nance Jr. 26' 3PT Jump Shot,,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.45,4,7,33,LAL,LAL,reb,0,False,False,,Monk REBOUND (Off:0 Def:2),100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.6,4,7,24,LAL,POR,steal,1,False,True,steal,steal,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.6,4,7,24,LAL,LAL,tov,1,False,True,,Monk Bad Pass Turnover (P3.T17),100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.68,4,7,19,POR,POR,tov,1,False,True,Simons Bad Pass Turnover (P1.T9),,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.68,4,7,19,POR,LAL,steal,1,False,True,steal,steal,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.8,4,7,12,LAL,LAL,fg3_miss,2,False,False,,MISS Monk 24' 3PT Running Jump Shot,100-68,100,68
+0022100138,2021-11-06,POR,LAL,40.87,4,7,8,POR,POR,reb,0,False,False,Simons REBOUND (Off:3 Def:2),,100-68,100,68
+0022100138,2021-11-06,POR,LAL,41.23,4,6,46,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#10),,100-68,100,68
+0022100138,2021-11-06,POR,LAL,41.58,4,6,25,LAL,LAL,fg_make,58,False,False,,Monk 6' Turnaround Hook Shot (10 PTS) (Reaves 3 AST),100-70,100,70
+0022100138,2021-11-06,POR,LAL,41.85,4,6,9,POR,POR,fg3_miss,79,False,False,MISS Little 26' 3PT Pullup Jump Shot,,100-70,100,70
+0022100138,2021-11-06,POR,LAL,41.88,4,6,7,POR,POR,reb,0,False,False,Little REBOUND (Off:2 Def:3),,100-70,100,70
+0022100138,2021-11-06,POR,LAL,41.98,4,6,1,POR,POR,fg3_miss,1,False,False,MISS Simons 25' 3PT Jump Shot,,100-70,100,70
+0022100138,2021-11-06,POR,LAL,42.03,4,5,58,LAL,LAL,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:1),100-70,100,70
+0022100138,2021-11-06,POR,LAL,42.13,4,5,52,LAL,LAL,fg3_miss,2,False,False,,MISS Reaves 30' 3PT Running Jump Shot,100-70,100,70
+0022100138,2021-11-06,POR,LAL,42.2,4,5,48,LAL,LAL,reb,0,False,False,,Doumbouya REBOUND (Off:1 Def:1),100-70,100,70
+0022100138,2021-11-06,POR,LAL,42.22,4,5,47,LAL,LAL,fg_make,5,False,False,,Doumbouya 1' Layup (2 PTS),100-72,100,72
+0022100138,2021-11-06,POR,LAL,42.5,4,5,30,POR,POR,tov,1,False,True,Smith Jr. Bad Pass Turnover (P1.T11),,100-72,100,72
+0022100138,2021-11-06,POR,LAL,42.5,4,5,30,POR,LAL,steal,1,False,True,steal,steal,100-72,100,72
+0022100138,2021-11-06,POR,LAL,42.57,4,5,26,LAL,LAL,tov,2,False,True,,Doumbouya Lost Ball Turnover (P1.T18),100-72,100,72
+0022100138,2021-11-06,POR,LAL,42.57,4,5,26,LAL,POR,steal,2,False,True,steal,steal,100-72,100,72
+0022100138,2021-11-06,POR,LAL,42.57,4,5,26,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,100-72,100,72
+0022100138,2021-11-06,POR,LAL,42.68,4,5,19,POR,POR,tov,39,False,False,McLemore Step Out of Bounds Turnover (P1.T12),,100-72,100,72
+0022100138,2021-11-06,POR,LAL,42.97,4,5,2,LAL,LAL,fg3_make,1,False,False,,Doumbouya 28' 3PT Jump Shot (5 PTS) (Monk 2 AST),100-75,100,75
+0022100138,2021-11-06,POR,LAL,43.35,4,4,39,POR,LAL,foul,2,False,False,,Doumbouya S.FOUL (P1.T1) (A.Nagy),100-75,100,75
+0022100138,2021-11-06,POR,LAL,43.35,4,4,39,POR,POR,ft_make,11,False,False,Brown III Free Throw 1 of 2 (1 PTS),,101-75,101,75
+0022100138,2021-11-06,POR,LAL,43.35,4,4,39,POR,POR,ft_make,12,False,False,Brown III Free Throw 2 of 2 (2 PTS),,102-75,102,75
+0022100138,2021-11-06,POR,LAL,43.53,4,4,28,LAL,POR,foul,1,False,False,McLemore P.FOUL (P1.T3) (A.Nagy),,102-75,102,75
+0022100138,2021-11-06,POR,LAL,43.67,4,4,20,LAL,LAL,fg3_miss,1,False,False,,MISS Monk 26' 3PT Jump Shot,102-75,102,75
+0022100138,2021-11-06,POR,LAL,43.72,4,4,17,POR,POR,reb,0,False,False,Smith Jr. REBOUND (Off:0 Def:2),,102-75,102,75
+0022100138,2021-11-06,POR,LAL,43.77,4,4,14,POR,POR,fg3_miss,103,False,False,MISS McLemore 27' 3PT Running Pull-Up Jump Shot,,102-75,102,75
+0022100138,2021-11-06,POR,LAL,43.82,4,4,11,LAL,LAL,reb,0,False,False,,Monk REBOUND (Off:0 Def:3),102-75,102,75
+0022100138,2021-11-06,POR,LAL,43.85,4,4,9,LAL,POR,foul,1,False,False,Smith Jr. P.FOUL (P2.T4) (M.Smith),,102-75,102,75
+0022100138,2021-11-06,POR,LAL,44.02,4,3,59,LAL,LAL,fg3_miss,1,False,False,,MISS Huff 25' 3PT Jump Shot,102-75,102,75
+0022100138,2021-11-06,POR,LAL,44.05,4,3,57,POR,POR,reb,0,False,False,Smith Jr. REBOUND (Off:0 Def:3),,102-75,102,75
+0022100138,2021-11-06,POR,LAL,44.17,4,3,50,POR,POR,fg3_miss,1,False,False,MISS Brown III 3PT Jump Shot,,102-75,102,75
+0022100138,2021-11-06,POR,LAL,44.23,4,3,46,LAL,LAL,reb,0,False,False,,Doumbouya REBOUND (Off:1 Def:2),102-75,102,75
+0022100138,2021-11-06,POR,LAL,44.55,4,3,27,LAL,LAL,fg_miss,79,False,False,,MISS Reaves 9' Pullup Jump Shot,102-75,102,75
+0022100138,2021-11-06,POR,LAL,44.6,4,3,24,LAL,LAL,reb,0,False,False,,Huff REBOUND (Off:1 Def:0),102-75,102,75
+0022100138,2021-11-06,POR,LAL,44.63,4,3,22,LAL,LAL,fg_make,6,False,False,,Doumbouya 1' Driving Layup (7 PTS),102-77,102,77
+0022100138,2021-11-06,POR,LAL,44.85,4,3,9,POR,POR,fg3_miss,1,False,False,MISS Elleby 3PT Jump Shot,,102-77,102,77
+0022100138,2021-11-06,POR,LAL,44.85,4,3,9,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:1 Def:3),102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.13,4,2,52,LAL,LAL,fg3_miss,63,False,False,,MISS Ellington 3PT Fadeaway Jumper,102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.17,4,2,50,POR,POR,reb,0,False,False,Brown III REBOUND (Off:0 Def:1),,102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.3,4,2,42,POR,POR,fg3_miss,1,False,False,MISS Smith Jr. 26' 3PT Jump Shot,,102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.35,4,2,39,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:1 Def:4),102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.42,4,2,35,LAL,LAL,tov,4,False,False,,Monk Traveling Turnover (P4.T19),102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.75,4,2,15,POR,POR,fg3_miss,1,False,False,MISS Elleby 24' 3PT Jump Shot,,102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.82,4,2,11,LAL,LAL,reb,0,False,False,,Huff REBOUND (Off:1 Def:1),102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.97,4,2,2,LAL,POR,foul,1,False,False,Smith Jr. P.FOUL (P3.PN) (M.Smith),,102-77,102,77
+0022100138,2021-11-06,POR,LAL,45.97,4,2,2,LAL,LAL,ft_make,11,False,False,,Reaves Free Throw 1 of 2 (4 PTS),102-78,102,78
+0022100138,2021-11-06,POR,LAL,45.97,4,2,2,LAL,LAL,ft_make,12,False,False,,Reaves Free Throw 2 of 2 (5 PTS),102-79,102,79
+0022100138,2021-11-06,POR,LAL,46.13,4,1,52,POR,POR,fg_miss,43,False,False,MISS Brown III 1' Alley Oop Layup,,102-79,102,79
+0022100138,2021-11-06,POR,LAL,46.18,4,1,49,LAL,LAL,reb,0,False,False,,Ellington REBOUND (Off:0 Def:4),102-79,102,79
+0022100138,2021-11-06,POR,LAL,46.4,4,1,36,LAL,LAL,fg_make,6,False,False,,Reaves 4' Driving Layup (7 PTS),102-81,102,81
+0022100138,2021-11-06,POR,LAL,46.5,4,1,30,POR,POR,fg3_make,1,False,False,McLemore 3PT Jump Shot (3 PTS) (Snell 1 AST),,105-81,105,81
+0022100138,2021-11-06,POR,LAL,46.62,4,1,23,LAL,LAL,fg_make,3,False,False,,Doumbouya 3' Hook Shot (9 PTS) (Monk 3 AST),105-83,105,83
+0022100138,2021-11-06,POR,LAL,46.83,4,1,10,POR,POR,fg_miss,73,False,False,MISS Smith Jr. 1' Driving Reverse Layup,,105-83,105,83
+0022100138,2021-11-06,POR,LAL,46.85,4,1,9,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:1 Def:5),105-83,105,83
+0022100138,2021-11-06,POR,LAL,46.95,4,1,3,LAL,LAL,fg3_make,2,False,False,,Reaves 27' 3PT Running Jump Shot (10 PTS) (Huff 1 AST),105-86,105,86
+0022100138,2021-11-06,POR,LAL,47.3,4,0,42,POR,POR,fg3_miss,1,False,False,MISS McLemore 25' 3PT Jump Shot,,105-86,105,86
+0022100138,2021-11-06,POR,LAL,47.33,4,0,40,LAL,LAL,reb,0,False,False,,Monk REBOUND (Off:0 Def:4),105-86,105,86
+0022100138,2021-11-06,POR,LAL,47.45,4,0,33,LAL,LAL,fg3_make,79,False,False,,Monk 28' 3PT Pullup Jump Shot (13 PTS),105-89,105,89
+0022100138,2021-11-06,POR,LAL,47.62,4,0,23,LAL,LAL,ft_make,12,False,False,,Doumbouya Free Throw 2 of 2 (10 PTS),105-90,105,90
+0022100138,2021-11-06,POR,LAL,47.62,4,0,23,LAL,LAL,reb,1,False,False,,Lakers Rebound,105-89,105,89
+0022100138,2021-11-06,POR,LAL,47.62,4,0,23,LAL,LAL,ft_miss,11,False,False,,MISS Doumbouya Free Throw 1 of 2,105-89,105,89
+0022100138,2021-11-06,POR,LAL,47.62,4,0,23,LAL,POR,foul,1,False,False,Brown III P.FOUL (P1.PN) (M.Smith),,105-89,105,89
+0022100138,2021-11-06,POR,LAL,47.62,4,0,23,LAL,LAL,reb,0,False,False,,Doumbouya REBOUND (Off:1 Def:3),105-89,105,89
+0022100138,2021-11-06,POR,LAL,47.62,4,0,23,POR,POR,fg_miss,101,True,False,MISS Brown III 8' Driving Floating Jump Shot,,105-89,105,89
+0022100138,2021-11-06,POR,LAL,47.62,4,0,23,POR,LAL,block,101,True,False,block,block,105-89,105,89
+0022100138,2021-11-06,POR,LAL,48.0,4,0,0,LAL,,period_end,0,False,False,,,105-90,105,90

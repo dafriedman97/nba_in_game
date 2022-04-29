@@ -1,0 +1,446 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100437,2021-12-17,UTA,SAS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100437,2021-12-17,UTA,SAS,0.0,1,12,0,,UTA,jump_ball,0,False,False,Jump Ball Gobert vs. Poeltl: Tip to Johnson,,0-0,0,0
+0022100437,2021-12-17,UTA,SAS,0.33,1,11,40,SAS,SAS,fg_make,79,False,False,,McDermott 19' Pullup Jump Shot (2 PTS) (Johnson 1 AST),0-2,0,2
+0022100437,2021-12-17,UTA,SAS,0.6,1,11,24,UTA,UTA,fg3_miss,1,False,False,MISS Conley 26' 3PT Jump Shot,,0-2,0,2
+0022100437,2021-12-17,UTA,SAS,0.68,1,11,19,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:0),,0-2,0,2
+0022100437,2021-12-17,UTA,SAS,0.68,1,11,19,UTA,SAS,foul,2,False,False,,White S.FOUL (P1.T1) (K.Fitzgerald),0-2,0,2
+0022100437,2021-12-17,UTA,SAS,0.68,1,11,19,UTA,UTA,ft_make,11,False,False,Bogdanovic Free Throw 1 of 2 (1 PTS),,1-2,1,2
+0022100437,2021-12-17,UTA,SAS,0.68,1,11,19,UTA,UTA,ft_make,12,False,False,Bogdanovic Free Throw 2 of 2 (2 PTS),,2-2,2,2
+0022100437,2021-12-17,UTA,SAS,0.83,1,11,10,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 26' 3PT Jump Shot,2-2,2,2
+0022100437,2021-12-17,UTA,SAS,0.9,1,11,6,UTA,UTA,reb,0,False,False,JAZZ Rebound,,2-2,2,2
+0022100437,2021-12-17,UTA,SAS,1.08,1,10,55,UTA,UTA,fg_make,52,False,False,Gobert 3' Alley Oop Dunk (2 PTS) (Bogdanovic 1 AST),,4-2,4,2
+0022100437,2021-12-17,UTA,SAS,1.12,1,10,53,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.1 Short 0),4-2,4,2
+0022100437,2021-12-17,UTA,SAS,1.47,1,10,32,SAS,SAS,fg_miss,78,False,False,,MISS Johnson 12' Floating Jump Shot,4-2,4,2
+0022100437,2021-12-17,UTA,SAS,1.52,1,10,29,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:1),,4-2,4,2
+0022100437,2021-12-17,UTA,SAS,1.62,1,10,23,UTA,UTA,fg_make,63,False,False,Bogdanovic 9' Fadeaway Jumper (4 PTS),,6-2,6,2
+0022100437,2021-12-17,UTA,SAS,1.73,1,10,16,SAS,SAS,fg3_miss,1,False,False,,MISS White 26' 3PT Jump Shot,6-2,6,2
+0022100437,2021-12-17,UTA,SAS,1.78,1,10,13,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:0),6-2,6,2
+0022100437,2021-12-17,UTA,SAS,1.82,1,10,11,SAS,SAS,tov,1,False,True,,Murray Bad Pass Turnover (P1.T1),6-2,6,2
+0022100437,2021-12-17,UTA,SAS,1.82,1,10,11,SAS,UTA,steal,1,False,True,steal,steal,6-2,6,2
+0022100437,2021-12-17,UTA,SAS,1.85,1,10,9,UTA,UTA,fg_make,41,False,False,Conley 3' Running Layup (2 PTS) (Mitchell 1 AST),,8-2,8,2
+0022100437,2021-12-17,UTA,SAS,2.2,1,9,48,SAS,SAS,fg_miss,78,False,False,,MISS Poeltl 10' Floating Jump Shot,8-2,8,2
+0022100437,2021-12-17,UTA,SAS,2.25,1,9,45,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:0),8-2,8,2
+0022100437,2021-12-17,UTA,SAS,2.25,1,9,45,SAS,SAS,fg_make,72,False,False,,Johnson Putback Layup (2 PTS),8-4,8,4
+0022100437,2021-12-17,UTA,SAS,2.47,1,9,32,UTA,UTA,fg_make,98,False,False,Bogdanovic 4' Cutting Layup Shot (6 PTS) (O'Neale 1 AST),,10-4,10,4
+0022100437,2021-12-17,UTA,SAS,2.65,1,9,21,SAS,SAS,fg_make,98,False,False,,Poeltl 4' Cutting Layup Shot (2 PTS) (Murray 1 AST),10-6,10,6
+0022100437,2021-12-17,UTA,SAS,2.85,1,9,9,UTA,UTA,tov,1,False,True,Bogdanovic Bad Pass Turnover (P1.T1),,10-6,10,6
+0022100437,2021-12-17,UTA,SAS,2.85,1,9,9,UTA,SAS,steal,1,False,True,steal,steal,10-6,10,6
+0022100437,2021-12-17,UTA,SAS,2.97,1,9,2,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 3PT Jump Shot,10-6,10,6
+0022100437,2021-12-17,UTA,SAS,3.02,1,8,59,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:1),,10-6,10,6
+0022100437,2021-12-17,UTA,SAS,3.17,1,8,50,UTA,UTA,fg_make,6,False,False,Mitchell 2' Driving Layup (2 PTS),,12-6,12,6
+0022100437,2021-12-17,UTA,SAS,3.37,1,8,38,SAS,SAS,fg_make,6,False,False,,Murray 3' Driving Layup (2 PTS) (Poeltl 1 AST),12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.62,1,8,23,UTA,UTA,fg_miss,3,False,False,MISS Conley 7' Hook Shot,,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.63,1,8,22,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:1),,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.68,1,8,19,UTA,SAS,block,5,True,False,block,block,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.68,1,8,19,UTA,SAS,block,5,True,False,block,block,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.68,1,8,19,UTA,UTA,reb,0,False,False,JAZZ Rebound,,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.68,1,8,19,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:1),,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.68,1,8,19,UTA,UTA,fg_miss,5,True,False,MISS Gobert 4' Layup,,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.68,1,8,19,UTA,UTA,fg_miss,5,True,False,MISS Gobert 4' Layup,,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.82,1,8,11,UTA,UTA,fg_miss,47,False,False,MISS Conley 12' Turnaround Jump Shot,,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.85,1,8,9,UTA,UTA,reb,0,False,False,JAZZ Rebound,,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,3.85,1,8,9,UTA,UTA,tov,11,False,False,JAZZ Turnover: Shot Clock (T#2),,12-8,12,8
+0022100437,2021-12-17,UTA,SAS,4.02,1,7,59,SAS,SAS,fg_make,78,False,False,,Poeltl 6' Floating Jump Shot (4 PTS),12-10,12,10
+0022100437,2021-12-17,UTA,SAS,4.37,1,7,38,UTA,UTA,fg3_miss,1,False,False,MISS Bogdanovic 3PT Jump Shot,,12-10,12,10
+0022100437,2021-12-17,UTA,SAS,4.42,1,7,35,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:1),12-10,12,10
+0022100437,2021-12-17,UTA,SAS,4.5,1,7,30,SAS,SAS,fg_miss,79,False,False,,MISS Murray 19' Pullup Jump Shot,12-10,12,10
+0022100437,2021-12-17,UTA,SAS,4.55,1,7,27,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:2),,12-10,12,10
+0022100437,2021-12-17,UTA,SAS,4.75,1,7,15,UTA,UTA,fg_make,108,False,False,Gobert 3' Cutting Dunk Shot (4 PTS) (Conley 1 AST),,14-10,14,10
+0022100437,2021-12-17,UTA,SAS,4.88,1,7,7,SAS,SAS,fg3_make,1,False,False,,McDermott 24' 3PT Jump Shot (5 PTS) (White 1 AST),14-13,14,13
+0022100437,2021-12-17,UTA,SAS,4.88,1,7,7,SAS,UTA,foul,2,False,False,Bogdanovic S.FOUL (P1.T1) (B.Barnaky),,14-13,14,13
+0022100437,2021-12-17,UTA,SAS,4.88,1,7,7,SAS,SAS,ft_make,10,False,False,,McDermott Free Throw 1 of 1 (6 PTS),14-14,14,14
+0022100437,2021-12-17,UTA,SAS,5.0,1,7,0,UTA,UTA,ft_make,11,False,False,O'Neale Free Throw 1 of 2 (1 PTS),,15-14,15,14
+0022100437,2021-12-17,UTA,SAS,5.0,1,7,0,UTA,SAS,foul,2,False,False,,White S.FOUL (P2.T2) (B.Barnaky),14-14,14,14
+0022100437,2021-12-17,UTA,SAS,5.0,1,7,0,UTA,UTA,ft_make,12,False,False,O'Neale Free Throw 2 of 2 (2 PTS),,16-14,16,14
+0022100437,2021-12-17,UTA,SAS,5.22,1,6,47,SAS,SAS,fg_miss,78,False,False,,MISS McDermott 15' Floating Jump Shot,16-14,16,14
+0022100437,2021-12-17,UTA,SAS,5.27,1,6,44,UTA,UTA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:1),,16-14,16,14
+0022100437,2021-12-17,UTA,SAS,5.27,1,6,44,UTA,UTA,tov,39,False,False,Whiteside Step Out of Bounds Turnover (P1.T3),,16-14,16,14
+0022100437,2021-12-17,UTA,SAS,5.35,1,6,39,SAS,SAS,fg3_make,1,False,False,,Walker IV 3PT Jump Shot (3 PTS),16-17,16,17
+0022100437,2021-12-17,UTA,SAS,5.62,1,6,23,UTA,UTA,fg_make,6,False,False,Ingles 6' Driving Layup (2 PTS) (O'Neale 2 AST),,18-17,18,17
+0022100437,2021-12-17,UTA,SAS,5.83,1,6,10,SAS,SAS,fg_miss,58,False,False,,MISS Poeltl 6' Turnaround Hook Shot,18-17,18,17
+0022100437,2021-12-17,UTA,SAS,5.85,1,6,9,SAS,SAS,reb,0,False,False,,Spurs Rebound,18-17,18,17
+0022100437,2021-12-17,UTA,SAS,5.87,1,6,8,SAS,SAS,fg3_make,1,False,False,,Walker IV 25' 3PT Jump Shot (6 PTS) (McDermott 1 AST),18-20,18,20
+0022100437,2021-12-17,UTA,SAS,6.15,1,5,51,UTA,UTA,fg_make,98,False,False,Whiteside 3' Cutting Layup Shot (2 PTS) (Ingles 1 AST),,20-20,20,20
+0022100437,2021-12-17,UTA,SAS,6.33,1,5,40,SAS,SAS,fg3_make,1,False,False,,McDermott 24' 3PT Jump Shot (9 PTS),20-23,20,23
+0022100437,2021-12-17,UTA,SAS,6.7,1,5,18,UTA,UTA,fg_miss,6,False,False,MISS Bogdanovic 5' Driving Layup,,20-23,20,23
+0022100437,2021-12-17,UTA,SAS,6.77,1,5,14,SAS,SAS,reb,0,False,False,,McDermott REBOUND (Off:0 Def:1),20-23,20,23
+0022100437,2021-12-17,UTA,SAS,6.82,1,5,11,SAS,SAS,fg_make,41,False,False,,Murray 5' Running Layup (4 PTS),20-25,20,25
+0022100437,2021-12-17,UTA,SAS,7.18,1,4,49,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 24' 3PT Jump Shot,,20-25,20,25
+0022100437,2021-12-17,UTA,SAS,7.23,1,4,46,SAS,SAS,reb,0,False,False,,McDermott REBOUND (Off:0 Def:2),20-25,20,25
+0022100437,2021-12-17,UTA,SAS,7.33,1,4,40,SAS,SAS,fg3_miss,1,False,False,,MISS McDermott 25' 3PT Jump Shot,20-25,20,25
+0022100437,2021-12-17,UTA,SAS,7.38,1,4,37,UTA,UTA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:2),,20-25,20,25
+0022100437,2021-12-17,UTA,SAS,7.53,1,4,28,UTA,UTA,fg3_make,79,False,False,Ingles 25' 3PT Pullup Jump Shot (5 PTS),,23-25,23,25
+0022100437,2021-12-17,UTA,SAS,7.78,1,4,13,SAS,SAS,fg3_make,1,False,False,,Vassell 24' 3PT Jump Shot (3 PTS) (Murray 2 AST),23-28,23,28
+0022100437,2021-12-17,UTA,SAS,7.82,1,4,11,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 1 Short 0),,23-28,23,28
+0022100437,2021-12-17,UTA,SAS,8.07,1,3,56,UTA,UTA,fg3_make,1,False,False,Mitchell 24' 3PT Jump Shot (5 PTS) (Ingles 2 AST),,26-28,26,28
+0022100437,2021-12-17,UTA,SAS,8.42,1,3,35,SAS,SAS,fg_make,6,False,False,,Jones 3' Driving Layup (2 PTS),26-30,26,30
+0022100437,2021-12-17,UTA,SAS,8.75,1,3,15,UTA,UTA,fg_make,86,False,False,Gay 10' Turnaround Fadeaway (2 PTS),,28-30,28,30
+0022100437,2021-12-17,UTA,SAS,8.95,1,3,3,SAS,SAS,fg_make,104,False,False,,Walker IV 13' Step Back Bank Jump Shot (8 PTS),28-32,28,32
+0022100437,2021-12-17,UTA,SAS,9.22,1,2,47,UTA,UTA,fg_make,3,False,False,Whiteside 4' Hook Shot (4 PTS) (Ingles 3 AST),,30-32,30,32
+0022100437,2021-12-17,UTA,SAS,9.53,1,2,28,SAS,SAS,fg_make,47,False,False,,Vassell 14' Turnaround Jump Shot (5 PTS),30-34,30,34
+0022100437,2021-12-17,UTA,SAS,9.73,1,2,16,UTA,SAS,foul,2,False,False,,Jones S.FOUL (P1.T3) (C.Flores),30-34,30,34
+0022100437,2021-12-17,UTA,SAS,9.73,1,2,16,UTA,UTA,ft_make,12,False,False,Clarkson Free Throw 2 of 2 (2 PTS),,32-34,32,34
+0022100437,2021-12-17,UTA,SAS,9.73,1,2,16,UTA,UTA,ft_make,11,False,False,Clarkson Free Throw 1 of 2 (1 PTS),,31-34,31,34
+0022100437,2021-12-17,UTA,SAS,10.0,1,2,0,SAS,SAS,fg3_miss,1,False,False,,MISS Forbes 3PT Jump Shot,32-34,32,34
+0022100437,2021-12-17,UTA,SAS,10.05,1,1,57,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:1),,32-34,32,34
+0022100437,2021-12-17,UTA,SAS,10.22,1,1,47,UTA,UTA,tov,2,False,True,Clarkson Lost Ball Turnover (P1.T4),,32-34,32,34
+0022100437,2021-12-17,UTA,SAS,10.22,1,1,47,UTA,SAS,steal,2,False,True,steal,steal,32-34,32,34
+0022100437,2021-12-17,UTA,SAS,10.25,1,1,45,SAS,SAS,ft_make,12,False,False,,Jones Free Throw 2 of 2 (4 PTS),32-36,32,36
+0022100437,2021-12-17,UTA,SAS,10.25,1,1,45,SAS,UTA,foul,2,False,False,Ingles S.FOUL (P1.T2) (C.Flores),,32-34,32,34
+0022100437,2021-12-17,UTA,SAS,10.25,1,1,45,SAS,SAS,ft_make,11,False,False,,Jones Free Throw 1 of 2 (3 PTS),32-35,32,35
+0022100437,2021-12-17,UTA,SAS,10.42,1,1,35,UTA,UTA,fg_miss,63,False,False,MISS Gay 9' Fadeaway Jumper,,32-36,32,36
+0022100437,2021-12-17,UTA,SAS,10.47,1,1,32,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:0 Def:1),32-36,32,36
+0022100437,2021-12-17,UTA,SAS,10.6,1,1,24,SAS,SAS,fg_miss,79,False,False,,MISS Forbes 20' Pullup Jump Shot,32-36,32,36
+0022100437,2021-12-17,UTA,SAS,10.65,1,1,21,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:3),,32-36,32,36
+0022100437,2021-12-17,UTA,SAS,10.87,1,1,8,UTA,UTA,fg3_miss,1,False,False,MISS Clarkson 27' 3PT Jump Shot,,32-36,32,36
+0022100437,2021-12-17,UTA,SAS,10.95,1,1,3,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:3),,34-36,34,36
+0022100437,2021-12-17,UTA,SAS,10.95,1,1,3,UTA,UTA,fg_make,107,False,False,Gobert Tip Dunk Shot (6 PTS),,34-36,34,36
+0022100437,2021-12-17,UTA,SAS,11.3,1,0,42,SAS,SAS,fg_miss,1,False,False,,MISS Eubanks 23' Jump Shot,34-36,34,36
+0022100437,2021-12-17,UTA,SAS,11.35,1,0,39,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:0 Def:1),,34-36,34,36
+0022100437,2021-12-17,UTA,SAS,11.43,1,0,34,UTA,SAS,foul,1,False,False,,Jones P.FOUL (P2.T4) (B.Barnaky),34-36,34,36
+0022100437,2021-12-17,UTA,SAS,11.45,1,0,33,UTA,UTA,fg3_make,1,False,False,Clarkson 26' 3PT Jump Shot (5 PTS) (Ingles 4 AST),,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,11.82,1,0,11,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 27' 3PT Jump Shot,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,11.85,1,0,9,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:0 Def:2),,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,11.92,1,0,5,UTA,UTA,tov,1,False,True,Ingles Bad Pass Turnover (P1.T5),,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,11.92,1,0,5,UTA,SAS,steal,1,False,True,steal,steal,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,12.0,1,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,12.0,1,0,0,SAS,,period_end,0,False,False,,,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,12.0,2,12,0,SAS,,period_start,0,False,False,,,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,12.0,1,0,0,SAS,SAS,fg_miss,101,False,False,,MISS Walker IV 7' Driving Floating Jump Shot,37-36,37,36
+0022100437,2021-12-17,UTA,SAS,12.33,2,11,40,UTA,UTA,fg_make,78,False,False,Clarkson 9' Floating Jump Shot (7 PTS),,39-36,39,36
+0022100437,2021-12-17,UTA,SAS,12.53,2,11,28,SAS,UTA,block,79,True,False,block,block,39-36,39,36
+0022100437,2021-12-17,UTA,SAS,12.53,2,11,28,SAS,SAS,fg_miss,79,True,False,,MISS Murray 14' Pullup Jump Shot,39-36,39,36
+0022100437,2021-12-17,UTA,SAS,12.57,2,11,26,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:2 Def:1),39-36,39,36
+0022100437,2021-12-17,UTA,SAS,12.62,2,11,23,SAS,SAS,fg3_make,1,False,False,,Johnson 3PT Jump Shot (5 PTS) (Eubanks 1 AST),39-39,39,39
+0022100437,2021-12-17,UTA,SAS,12.9,2,11,6,UTA,UTA,fg3_miss,79,False,False,MISS Ingles 26' 3PT Pullup Jump Shot,,39-39,39,39
+0022100437,2021-12-17,UTA,SAS,12.95,2,11,3,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:0 Def:2),39-39,39,39
+0022100437,2021-12-17,UTA,SAS,13.15,2,10,51,SAS,UTA,block,98,True,False,block,block,39-39,39,39
+0022100437,2021-12-17,UTA,SAS,13.15,2,10,51,SAS,SAS,fg_miss,98,True,False,,MISS Eubanks 5' Cutting Layup Shot,39-39,39,39
+0022100437,2021-12-17,UTA,SAS,13.2,2,10,48,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:0 Def:3),,39-39,39,39
+0022100437,2021-12-17,UTA,SAS,13.32,2,10,41,UTA,SAS,foul,1,False,False,,Eubanks P.FOUL (P1.T1) (B.Barnaky),39-39,39,39
+0022100437,2021-12-17,UTA,SAS,13.5,2,10,30,UTA,UTA,fg3_make,80,False,False,Conley 27' 3PT Step Back Jump Shot (5 PTS),,42-39,42,39
+0022100437,2021-12-17,UTA,SAS,13.73,2,10,16,SAS,SAS,fg_miss,98,True,False,,MISS Eubanks 2' Cutting Layup Shot,42-39,42,39
+0022100437,2021-12-17,UTA,SAS,13.73,2,10,16,SAS,UTA,block,98,True,False,block,block,42-39,42,39
+0022100437,2021-12-17,UTA,SAS,13.77,2,10,14,UTA,UTA,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,42-39,42,39
+0022100437,2021-12-17,UTA,SAS,13.92,2,10,5,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),44-39,44,39
+0022100437,2021-12-17,UTA,SAS,13.92,2,10,5,UTA,UTA,fg_make,6,False,False,Clarkson 3' Driving Layup (9 PTS) (Gay 1 AST),,44-39,44,39
+0022100437,2021-12-17,UTA,SAS,14.25,2,9,45,SAS,SAS,tov,1,False,True,,Johnson Bad Pass Turnover (P1.T2),44-39,44,39
+0022100437,2021-12-17,UTA,SAS,14.25,2,9,45,SAS,UTA,steal,1,False,True,steal,steal,44-39,44,39
+0022100437,2021-12-17,UTA,SAS,14.42,2,9,35,UTA,UTA,tov,1,False,True,Ingles Bad Pass Turnover (P2.T6),,44-39,44,39
+0022100437,2021-12-17,UTA,SAS,14.42,2,9,35,UTA,SAS,steal,1,False,True,steal,steal,44-39,44,39
+0022100437,2021-12-17,UTA,SAS,14.52,2,9,29,SAS,SAS,fg3_make,1,False,False,,Johnson 3PT Jump Shot (8 PTS) (White 2 AST),44-42,44,42
+0022100437,2021-12-17,UTA,SAS,14.55,2,9,27,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 2 Short 0),,44-42,44,42
+0022100437,2021-12-17,UTA,SAS,14.9,2,9,6,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 3PT Jump Shot,,44-42,44,42
+0022100437,2021-12-17,UTA,SAS,14.97,2,9,2,UTA,UTA,reb,0,False,False,Forrest REBOUND (Off:1 Def:0),,44-42,44,42
+0022100437,2021-12-17,UTA,SAS,15.12,2,8,53,UTA,UTA,fg3_make,80,False,False,Clarkson 26' 3PT Step Back Jump Shot (12 PTS),,47-42,47,42
+0022100437,2021-12-17,UTA,SAS,15.35,2,8,39,SAS,SAS,fg3_miss,1,False,False,,MISS White 25' 3PT Jump Shot,47-42,47,42
+0022100437,2021-12-17,UTA,SAS,15.38,2,8,37,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:0 Def:1),,47-42,47,42
+0022100437,2021-12-17,UTA,SAS,15.5,2,8,30,UTA,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (7 PTS),,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,15.5,2,8,30,UTA,SAS,foul,2,False,False,,Johnson S.FOUL (P1.T2) (C.Flores),47-42,47,42
+0022100437,2021-12-17,UTA,SAS,15.5,2,8,30,UTA,UTA,ft_miss,11,False,False,MISS Gobert Free Throw 1 of 2,,47-42,47,42
+0022100437,2021-12-17,UTA,SAS,15.5,2,8,30,UTA,UTA,reb,1,False,False,JAZZ Rebound,,47-42,47,42
+0022100437,2021-12-17,UTA,SAS,15.7,2,8,18,SAS,SAS,fg_miss,79,False,False,,MISS Murray 14' Pullup Jump Shot,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,15.73,2,8,16,UTA,UTA,reb,0,False,False,Gay REBOUND (Off:0 Def:2),,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,15.9,2,8,6,UTA,SAS,foul,2,False,False,,Poeltl S.FOUL (P1.T3) (B.Barnaky),48-42,48,42
+0022100437,2021-12-17,UTA,SAS,15.9,2,8,6,UTA,UTA,ft_miss,11,False,False,MISS Gay Free Throw 1 of 2,,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,15.9,2,8,6,UTA,UTA,reb,1,False,False,JAZZ Rebound,,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,15.9,2,8,6,UTA,UTA,ft_miss,12,False,False,MISS Gay Free Throw 2 of 2,,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,15.92,2,8,5,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:1),48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.1,2,7,54,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 3PT Jump Shot,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.18,2,7,49,UTA,UTA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:3),,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.32,2,7,41,UTA,UTA,tov,1,False,True,Mitchell Bad Pass Turnover (P1.T7),,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.32,2,7,41,SAS,UTA,foul,28,False,False,Mitchell Personal Take Foul (P1.T1) (B.Barnaky),,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.32,2,7,41,UTA,SAS,steal,1,False,True,steal,steal,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.52,2,7,29,SAS,SAS,tov,1,False,True,,Murray Bad Pass Turnover (P2.T3),48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.52,2,7,29,SAS,UTA,steal,1,False,True,steal,steal,48-42,48,42
+0022100437,2021-12-17,UTA,SAS,16.62,2,7,23,UTA,UTA,fg3_make,1,False,False,Mitchell 27' 3PT Jump Shot (8 PTS) (Clarkson 1 AST),,51-42,51,42
+0022100437,2021-12-17,UTA,SAS,16.65,2,7,21,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.3 Short 0),51-42,51,42
+0022100437,2021-12-17,UTA,SAS,16.85,2,7,9,SAS,SAS,ft_make,11,False,False,,White Free Throw 1 of 2 (1 PTS),51-43,51,43
+0022100437,2021-12-17,UTA,SAS,16.85,2,7,9,SAS,UTA,foul,2,False,False,Whiteside S.FOUL (P1.T2) (B.Barnaky),,51-42,51,42
+0022100437,2021-12-17,UTA,SAS,16.85,2,7,9,SAS,SAS,ft_make,12,False,False,,White Free Throw 2 of 2 (2 PTS),51-44,51,44
+0022100437,2021-12-17,UTA,SAS,16.98,2,7,1,UTA,UTA,tov,2,False,True,Mitchell Lost Ball Turnover (P2.T8),,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,16.98,2,7,1,UTA,SAS,steal,2,False,True,steal,steal,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.03,2,6,58,SAS,SAS,fg3_miss,1,False,False,,MISS McDermott 25' 3PT Jump Shot,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.08,2,6,55,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:1 Def:0),51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.1,2,6,54,SAS,UTA,block,5,True,False,block,block,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.1,2,6,54,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:2),,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.1,2,6,54,SAS,SAS,fg_miss,5,True,False,,MISS Vassell 2' Layup,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.3,2,6,42,UTA,UTA,fg3_miss,80,False,False,MISS Clarkson 26' 3PT Step Back Jump Shot,,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.38,2,6,37,UTA,UTA,reb,0,False,False,Gay REBOUND (Off:1 Def:2),,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.45,2,6,33,UTA,SAS,steal,1,False,True,steal,steal,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.45,2,6,33,UTA,UTA,tov,1,False,True,Ingles Bad Pass Turnover (P3.T9),,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.63,2,6,22,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 3PT Jump Shot,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.68,2,6,19,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:1 Def:0),51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.7,2,6,18,SAS,SAS,fg_miss,5,False,False,,MISS Poeltl 3' Layup,51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.7,2,6,18,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:0),51-44,51,44
+0022100437,2021-12-17,UTA,SAS,17.75,2,6,15,SAS,SAS,fg3_make,1,False,False,,White 26' 3PT Jump Shot (5 PTS) (Poeltl 2 AST),51-47,51,47
+0022100437,2021-12-17,UTA,SAS,18.13,2,5,52,SAS,UTA,foul,26,False,False,Whiteside Offensive Charge Foul (P2) (B.Barnaky),,51-47,51,47
+0022100437,2021-12-17,UTA,SAS,18.13,2,5,52,UTA,UTA,tov,37,False,False,Whiteside Offensive Foul Turnover (P2.T10),,51-47,51,47
+0022100437,2021-12-17,UTA,SAS,18.28,2,5,43,SAS,SAS,fg3_miss,79,False,False,,MISS White 25' 3PT Pullup Jump Shot,51-47,51,47
+0022100437,2021-12-17,UTA,SAS,18.33,2,5,40,UTA,UTA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:4),,51-47,51,47
+0022100437,2021-12-17,UTA,SAS,18.47,2,5,32,UTA,UTA,fg_make,6,False,False,Mitchell 3' Driving Layup (10 PTS),,53-47,53,47
+0022100437,2021-12-17,UTA,SAS,18.47,2,5,32,UTA,SAS,foul,2,False,False,,Jones S.FOUL (P3.T4) (B.Barnaky),53-47,53,47
+0022100437,2021-12-17,UTA,SAS,18.47,2,5,32,UTA,UTA,ft_make,10,False,False,Mitchell Free Throw 1 of 1 (11 PTS),,54-47,54,47
+0022100437,2021-12-17,UTA,SAS,18.67,2,5,20,SAS,SAS,fg_make,6,False,False,,McDermott 3' Driving Layup (11 PTS),54-49,54,49
+0022100437,2021-12-17,UTA,SAS,18.8,2,5,12,UTA,UTA,fg3_miss,79,False,False,MISS Mitchell 28' 3PT Pullup Jump Shot,,54-49,54,49
+0022100437,2021-12-17,UTA,SAS,18.85,2,5,9,SAS,SAS,reb,0,False,False,,McDermott REBOUND (Off:0 Def:3),54-49,54,49
+0022100437,2021-12-17,UTA,SAS,18.97,2,5,2,SAS,SAS,fg_miss,79,False,False,,MISS Walker IV 13' Pullup Jump Shot,54-49,54,49
+0022100437,2021-12-17,UTA,SAS,19.03,2,4,58,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:1),,54-49,54,49
+0022100437,2021-12-17,UTA,SAS,19.2,2,4,48,UTA,UTA,fg_make,78,False,False,Whiteside 5' Floating Jump Shot (6 PTS) (Clarkson 2 AST),,56-49,56,49
+0022100437,2021-12-17,UTA,SAS,19.38,2,4,37,SAS,SAS,fg_miss,71,False,False,,MISS Poeltl 6' Finger Roll Layup,56-49,56,49
+0022100437,2021-12-17,UTA,SAS,19.42,2,4,35,UTA,UTA,ft_make,12,False,False,O'Neale Free Throw 2 of 2 (4 PTS),,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.42,2,4,35,UTA,UTA,ft_make,11,False,False,O'Neale Free Throw 1 of 2 (3 PTS),,57-49,57,49
+0022100437,2021-12-17,UTA,SAS,19.42,2,4,35,UTA,SAS,foul,1,False,False,,White P.FOUL (P3.PN) (K.Fitzgerald),56-49,56,49
+0022100437,2021-12-17,UTA,SAS,19.42,2,4,35,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:2),,56-49,56,49
+0022100437,2021-12-17,UTA,SAS,19.57,2,4,26,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 3PT Jump Shot,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.62,2,4,23,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:1),,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.67,2,4,20,UTA,UTA,fg3_miss,79,False,False,MISS Clarkson 26' 3PT Pullup Jump Shot,,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.7,2,4,18,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:1),,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.72,2,4,17,UTA,UTA,fg_miss,86,False,False,MISS Bogdanovic 9' Turnaround Fadeaway Shot,,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.78,2,4,13,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:0 Def:3),58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.87,2,4,8,SAS,UTA,foul,2,False,False,Whiteside S.FOUL (P3.T3) (K.Fitzgerald),,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.87,2,4,8,SAS,SAS,ft_miss,11,False,False,,MISS Murray Free Throw 1 of 2,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.87,2,4,8,SAS,SAS,reb,1,False,False,,Spurs Rebound,58-49,58,49
+0022100437,2021-12-17,UTA,SAS,19.87,2,4,8,SAS,SAS,ft_make,12,False,False,,Murray Free Throw 2 of 2 (5 PTS),58-50,58,50
+0022100437,2021-12-17,UTA,SAS,20.1,2,3,54,UTA,UTA,fg_make,6,False,False,Mitchell 2' Driving Layup (13 PTS),,60-50,60,50
+0022100437,2021-12-17,UTA,SAS,20.33,2,3,40,SAS,SAS,tov,1,False,True,,Eubanks Bad Pass Turnover (P1.T4),60-50,60,50
+0022100437,2021-12-17,UTA,SAS,20.33,2,3,40,SAS,UTA,steal,1,False,True,steal,steal,60-50,60,50
+0022100437,2021-12-17,UTA,SAS,20.43,2,3,34,UTA,UTA,ft_make,12,False,False,Bogdanovic Free Throw 2 of 2 (7 PTS),,61-50,61,50
+0022100437,2021-12-17,UTA,SAS,20.43,2,3,34,UTA,UTA,reb,1,False,False,JAZZ Rebound,,60-50,60,50
+0022100437,2021-12-17,UTA,SAS,20.43,2,3,34,UTA,SAS,foul,2,False,False,,Eubanks S.FOUL (P2.PN) (K.Fitzgerald),60-50,60,50
+0022100437,2021-12-17,UTA,SAS,20.43,2,3,34,UTA,UTA,ft_miss,11,False,False,MISS Bogdanovic Free Throw 1 of 2,,60-50,60,50
+0022100437,2021-12-17,UTA,SAS,20.7,2,3,18,SAS,SAS,fg_make,108,False,False,,Eubanks 1' Cutting Dunk Shot (2 PTS) (Walker IV 1 AST),61-52,61,52
+0022100437,2021-12-17,UTA,SAS,20.87,2,3,8,UTA,UTA,fg3_miss,80,False,False,MISS Bogdanovic 26' 3PT Step Back Jump Shot,,61-52,61,52
+0022100437,2021-12-17,UTA,SAS,20.9,2,3,6,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:1 Def:3),,61-52,61,52
+0022100437,2021-12-17,UTA,SAS,21.03,2,2,58,UTA,UTA,fg_make,63,False,False,Conley 6' Fadeaway Jumper (7 PTS),,63-52,63,52
+0022100437,2021-12-17,UTA,SAS,21.12,2,2,53,SAS,SAS,fg3_make,1,False,False,,Vassell 24' 3PT Jump Shot (8 PTS) (Walker IV 2 AST),63-55,63,55
+0022100437,2021-12-17,UTA,SAS,21.13,2,2,52,UTA,SAS,foul,3,False,False,,Eubanks L.B.FOUL (P3.PN) (K.Fitzgerald),63-55,63,55
+0022100437,2021-12-17,UTA,SAS,21.13,2,2,52,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (8 PTS),,64-55,64,55
+0022100437,2021-12-17,UTA,SAS,21.13,2,2,52,UTA,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (9 PTS),,65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.47,2,2,32,SAS,SAS,fg3_miss,80,False,False,,MISS Murray 25' 3PT Step Back Jump Shot,65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.53,2,2,28,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:4),,65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.7,2,2,18,UTA,UTA,fg_miss,6,False,False,MISS O'Neale 4' Driving Layup,,65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.75,2,2,15,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:2 Def:2),65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.85,2,2,9,SAS,SAS,fg_miss,79,False,False,,MISS Vassell 10' Pullup Jump Shot,65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.9,2,2,6,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:2 Def:0),65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.92,2,2,5,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 25' 3PT Jump Shot,65-55,65,55
+0022100437,2021-12-17,UTA,SAS,21.95,2,2,3,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:2),65-55,65,55
+0022100437,2021-12-17,UTA,SAS,22.0,2,2,0,UTA,SAS,foul,26,False,False,,Eubanks Offensive Charge Foul (P4) (K.Fitzgerald),65-55,65,55
+0022100437,2021-12-17,UTA,SAS,22.0,2,2,0,SAS,SAS,tov,37,False,False,,Eubanks Offensive Foul Turnover (P2.T5),65-55,65,55
+0022100437,2021-12-17,UTA,SAS,22.15,2,1,51,UTA,UTA,fg3_make,1,False,False,O'Neale 29' 3PT Jump Shot (7 PTS) (Conley 2 AST),,68-55,68,55
+0022100437,2021-12-17,UTA,SAS,22.52,2,1,29,SAS,SAS,ft_make,12,False,False,,Eubanks Free Throw 2 of 2 (3 PTS),68-56,68,56
+0022100437,2021-12-17,UTA,SAS,22.52,2,1,29,SAS,SAS,reb,1,False,False,,Spurs Rebound,68-55,68,55
+0022100437,2021-12-17,UTA,SAS,22.52,2,1,29,SAS,SAS,ft_miss,11,False,False,,MISS Eubanks Free Throw 1 of 2,68-55,68,55
+0022100437,2021-12-17,UTA,SAS,22.52,2,1,29,SAS,UTA,foul,2,False,False,Mitchell S.FOUL (P2.T4) (B.Barnaky),,68-55,68,55
+0022100437,2021-12-17,UTA,SAS,22.78,2,1,13,UTA,UTA,fg_make,108,False,False,Gobert 3' Cutting Dunk Shot (11 PTS) (Mitchell 2 AST),,70-56,70,56
+0022100437,2021-12-17,UTA,SAS,23.0,2,1,0,SAS,SAS,fg_miss,57,False,False,,MISS Murray 8' Driving Hook Shot,70-56,70,56
+0022100437,2021-12-17,UTA,SAS,23.03,2,0,58,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:5),,70-56,70,56
+0022100437,2021-12-17,UTA,SAS,23.13,2,0,52,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 29' 3PT Jump Shot,,70-56,70,56
+0022100437,2021-12-17,UTA,SAS,23.18,2,0,49,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:2 Def:1),,70-56,70,56
+0022100437,2021-12-17,UTA,SAS,23.4,2,0,36,UTA,UTA,fg3_make,80,False,False,Mitchell 32' 3PT Step Back Jump Shot (16 PTS) (Conley 3 AST),,73-56,73,56
+0022100437,2021-12-17,UTA,SAS,23.53,2,0,28,SAS,SAS,fg3_make,1,False,False,,Walker IV 26' 3PT Jump Shot (11 PTS) (Vassell 1 AST),73-59,73,59
+0022100437,2021-12-17,UTA,SAS,23.95,2,0,3,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 29' 3PT Jump Shot,,73-59,73,59
+0022100437,2021-12-17,UTA,SAS,24.0,3,12,0,SAS,,period_start,0,False,False,,,73-59,73,59
+0022100437,2021-12-17,UTA,SAS,24.0,2,0,0,SAS,,period_end,0,False,False,,,73-59,73,59
+0022100437,2021-12-17,UTA,SAS,24.0,2,0,0,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:1),73-59,73,59
+0022100437,2021-12-17,UTA,SAS,24.2,3,11,48,UTA,UTA,fg_make,101,False,False,O'Neale 5' Driving Floating Jump Shot (9 PTS) (Conley 4 AST),,75-59,75,59
+0022100437,2021-12-17,UTA,SAS,24.53,3,11,28,SAS,SAS,fg3_miss,79,False,False,,MISS Murray 26' 3PT Pullup Jump Shot,75-59,75,59
+0022100437,2021-12-17,UTA,SAS,24.6,3,11,24,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:2 Def:2),,75-59,75,59
+0022100437,2021-12-17,UTA,SAS,24.65,3,11,21,UTA,UTA,fg3_miss,1,False,False,MISS O'Neale 26' 3PT Jump Shot,,75-59,75,59
+0022100437,2021-12-17,UTA,SAS,24.7,3,11,18,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:2),75-59,75,59
+0022100437,2021-12-17,UTA,SAS,24.9,3,11,6,SAS,SAS,fg_make,102,False,False,,Johnson 3' Driving Floating Bank Jump Shot (10 PTS),75-61,75,61
+0022100437,2021-12-17,UTA,SAS,25.17,3,10,50,UTA,UTA,fg_miss,102,False,False,MISS Bogdanovic 4' Driving Floating Bank Jump Shot,,75-61,75,61
+0022100437,2021-12-17,UTA,SAS,25.22,3,10,47,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:1),75-61,75,61
+0022100437,2021-12-17,UTA,SAS,25.28,3,10,43,SAS,SAS,fg_make,101,False,False,,White 12' Driving Floating Jump Shot (7 PTS),75-63,75,63
+0022100437,2021-12-17,UTA,SAS,25.6,3,10,24,UTA,UTA,fg_miss,78,False,False,MISS Conley 12' Floating Jump Shot,,75-63,75,63
+0022100437,2021-12-17,UTA,SAS,25.63,3,10,22,UTA,SAS,foul,2,False,False,,Poeltl S.FOUL (P2.T1) (B.Barnaky),75-63,75,63
+0022100437,2021-12-17,UTA,SAS,25.63,3,10,22,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (12 PTS),,76-63,76,63
+0022100437,2021-12-17,UTA,SAS,25.63,3,10,22,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:5),,75-63,75,63
+0022100437,2021-12-17,UTA,SAS,25.63,3,10,22,UTA,UTA,ft_miss,12,False,False,MISS Gobert Free Throw 2 of 2,,76-63,76,63
+0022100437,2021-12-17,UTA,SAS,25.67,3,10,20,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),76-63,76,63
+0022100437,2021-12-17,UTA,SAS,25.85,3,10,9,SAS,SAS,fg_miss,79,False,False,,MISS White 12' Pullup Jump Shot,76-63,76,63
+0022100437,2021-12-17,UTA,SAS,25.9,3,10,6,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:6),,76-63,76,63
+0022100437,2021-12-17,UTA,SAS,26.08,3,9,55,UTA,UTA,fg_make,108,False,False,Gobert 1' Cutting Dunk Shot (14 PTS) (Conley 5 AST),,78-63,78,63
+0022100437,2021-12-17,UTA,SAS,26.27,3,9,44,SAS,SAS,fg3_make,1,False,False,,Johnson 26' 3PT Jump Shot (13 PTS) (Poeltl 3 AST),78-66,78,66
+0022100437,2021-12-17,UTA,SAS,26.53,3,9,28,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 5' Driving Layup,,78-66,78,66
+0022100437,2021-12-17,UTA,SAS,26.57,3,9,26,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:3),78-66,78,66
+0022100437,2021-12-17,UTA,SAS,26.6,3,9,24,SAS,UTA,foul,2,False,False,O'Neale S.FOUL (P1.T1) (B.Barnaky),,78-66,78,66
+0022100437,2021-12-17,UTA,SAS,26.6,3,9,24,SAS,SAS,ft_make,11,False,False,,White Free Throw 1 of 2 (8 PTS),78-67,78,67
+0022100437,2021-12-17,UTA,SAS,26.6,3,9,24,SAS,SAS,ft_make,12,False,False,,White Free Throw 2 of 2 (9 PTS),78-68,78,68
+0022100437,2021-12-17,UTA,SAS,26.7,3,9,18,UTA,UTA,fg_make,6,False,False,Mitchell 4' Driving Layup (18 PTS),,80-68,80,68
+0022100437,2021-12-17,UTA,SAS,26.88,3,9,7,SAS,SAS,fg3_make,1,False,False,,Murray 26' 3PT Jump Shot (8 PTS) (Johnson 2 AST),80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.12,3,8,53,UTA,UTA,fg_miss,80,False,False,MISS Mitchell 18' Step Back Jump Shot,,80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.15,3,8,51,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:2),80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.23,3,8,46,SAS,SAS,fg3_miss,1,False,False,,MISS McDermott 28' 3PT Jump Shot,80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.27,3,8,44,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:7),,80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.37,3,8,38,UTA,UTA,fg3_miss,80,False,False,MISS Conley 26' 3PT Step Back Jump Shot,,80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.45,3,8,33,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:4),80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.57,3,8,26,SAS,SAS,fg3_miss,1,False,False,,MISS McDermott 27' 3PT Jump Shot,80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.57,3,8,26,UTA,UTA,reb,0,False,False,JAZZ Rebound,,80-71,80,71
+0022100437,2021-12-17,UTA,SAS,27.82,3,8,11,UTA,UTA,fg_make,6,False,False,Bogdanovic 4' Driving Layup (9 PTS) (Mitchell 3 AST),,82-71,82,71
+0022100437,2021-12-17,UTA,SAS,28.02,3,7,59,SAS,SAS,fg_make,78,False,False,,White 8' Floating Jump Shot (11 PTS),82-73,82,73
+0022100437,2021-12-17,UTA,SAS,28.28,3,7,43,UTA,UTA,fg_make,5,False,False,O'Neale 3' Layup (11 PTS) (Gobert 1 AST),,84-73,84,73
+0022100437,2021-12-17,UTA,SAS,28.48,3,7,31,SAS,SAS,fg_make,98,False,False,,Poeltl 3' Cutting Layup Shot (6 PTS) (Murray 3 AST),84-75,84,75
+0022100437,2021-12-17,UTA,SAS,28.73,3,7,16,UTA,UTA,fg3_miss,1,False,False,MISS Conley 24' 3PT Jump Shot,,84-75,84,75
+0022100437,2021-12-17,UTA,SAS,28.78,3,7,13,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:3),84-75,84,75
+0022100437,2021-12-17,UTA,SAS,28.92,3,7,5,SAS,SAS,fg3_miss,1,False,False,,MISS McDermott 27' 3PT Jump Shot,84-75,84,75
+0022100437,2021-12-17,UTA,SAS,28.97,3,7,2,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:3),,84-75,84,75
+0022100437,2021-12-17,UTA,SAS,29.08,3,6,55,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,84-75,84,75
+0022100437,2021-12-17,UTA,SAS,29.13,3,6,52,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:4),84-75,84,75
+0022100437,2021-12-17,UTA,SAS,29.35,3,6,39,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,84-77,84,77
+0022100437,2021-12-17,UTA,SAS,29.35,3,6,39,SAS,SAS,fg_make,58,False,False,,Poeltl 7' Turnaround Hook Shot (8 PTS) (Murray 4 AST),84-77,84,77
+0022100437,2021-12-17,UTA,SAS,29.63,3,6,22,UTA,UTA,fg_make,6,False,False,Bogdanovic 3' Driving Layup (11 PTS),,86-77,86,77
+0022100437,2021-12-17,UTA,SAS,29.82,3,6,11,SAS,SAS,fg_make,3,False,False,,Johnson 6' Hook Shot (15 PTS),86-79,86,79
+0022100437,2021-12-17,UTA,SAS,30.0,3,6,0,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 26' 3PT Jump Shot,,86-79,86,79
+0022100437,2021-12-17,UTA,SAS,30.05,3,5,57,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:3),,86-79,86,79
+0022100437,2021-12-17,UTA,SAS,30.07,3,5,56,UTA,UTA,fg3_make,1,False,False,Bogdanovic 25' 3PT Jump Shot (14 PTS) (O'Neale 3 AST),,89-79,89,79
+0022100437,2021-12-17,UTA,SAS,30.3,3,5,42,SAS,SAS,fg_make,98,False,False,,Poeltl 4' Cutting Layup Shot (10 PTS) (Murray 5 AST),89-81,89,81
+0022100437,2021-12-17,UTA,SAS,30.52,3,5,29,UTA,UTA,fg_make,78,False,False,Whiteside 5' Floating Jump Shot (8 PTS) (Bogdanovic 2 AST),,91-81,91,81
+0022100437,2021-12-17,UTA,SAS,30.72,3,5,17,SAS,SAS,fg3_miss,1,False,False,,MISS White 26' 3PT Jump Shot,91-81,91,81
+0022100437,2021-12-17,UTA,SAS,30.75,3,5,15,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:4),,91-81,91,81
+0022100437,2021-12-17,UTA,SAS,31.0,3,5,0,UTA,SAS,steal,2,False,True,steal,steal,91-81,91,81
+0022100437,2021-12-17,UTA,SAS,31.0,3,5,0,UTA,UTA,tov,2,False,True,Whiteside Lost Ball Turnover (P3.T11),,91-81,91,81
+0022100437,2021-12-17,UTA,SAS,31.02,3,4,59,SAS,UTA,foul,28,False,False,O'Neale Personal Take Foul (P2.T2) (B.Barnaky),,91-81,91,81
+0022100437,2021-12-17,UTA,SAS,31.23,3,4,46,SAS,SAS,fg3_make,1,False,False,,Vassell 26' 3PT Jump Shot (11 PTS),91-84,91,84
+0022100437,2021-12-17,UTA,SAS,31.5,3,4,30,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 5' Driving Layup,,91-84,91,84
+0022100437,2021-12-17,UTA,SAS,31.5,3,4,30,UTA,SAS,block,6,True,False,block,block,91-84,91,84
+0022100437,2021-12-17,UTA,SAS,31.52,3,4,29,SAS,UTA,foul,28,False,False,Bogdanovic Personal Take Foul (P2.T3) (B.Barnaky),,91-84,91,84
+0022100437,2021-12-17,UTA,SAS,31.52,3,4,29,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:5),91-84,91,84
+0022100437,2021-12-17,UTA,SAS,31.63,3,4,22,SAS,SAS,fg_make,102,False,False,,Johnson 8' Driving Floating Bank Jump Shot (17 PTS) (Murray 6 AST),91-86,91,86
+0022100437,2021-12-17,UTA,SAS,31.88,3,4,7,UTA,UTA,tov,21,False,False,Clarkson Palming Turnover (P2.T12),,91-86,91,86
+0022100437,2021-12-17,UTA,SAS,32.07,3,3,56,SAS,SAS,ft_miss,10,False,False,,MISS Johnson Free Throw 1 of 1,91-88,91,88
+0022100437,2021-12-17,UTA,SAS,32.07,3,3,56,SAS,UTA,foul,2,False,False,Ingles S.FOUL (P2.T4) (C.Flores),,91-88,91,88
+0022100437,2021-12-17,UTA,SAS,32.07,3,3,56,SAS,SAS,fg_make,98,False,False,,Johnson 3' Cutting Layup Shot (19 PTS) (Murray 7 AST),91-88,91,88
+0022100437,2021-12-17,UTA,SAS,32.12,3,3,53,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:4 Def:5),91-88,91,88
+0022100437,2021-12-17,UTA,SAS,32.23,3,3,46,SAS,SAS,fg_make,5,False,False,,Landale 2' Layup (2 PTS) (Murray 8 AST),91-90,91,90
+0022100437,2021-12-17,UTA,SAS,32.47,3,3,32,UTA,SAS,foul,2,False,False,,Landale S.FOUL (P1.T2) (C.Flores),91-90,91,90
+0022100437,2021-12-17,UTA,SAS,32.47,3,3,32,UTA,UTA,ft_make,11,False,False,Mitchell Free Throw 1 of 2 (19 PTS),,92-90,92,90
+0022100437,2021-12-17,UTA,SAS,32.47,3,3,32,UTA,UTA,ft_make,12,False,False,Mitchell Free Throw 2 of 2 (20 PTS),,93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.68,3,3,19,SAS,SAS,fg3_miss,1,False,False,,MISS Landale 24' 3PT Jump Shot,93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.73,3,3,16,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:3),,93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.8,3,3,12,UTA,UTA,fg3_miss,79,False,False,MISS Mitchell 26' 3PT Pullup Jump Shot,,93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.85,3,3,9,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:5),93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.93,3,3,4,SAS,SAS,ft_miss,11,False,False,,MISS Murray Free Throw 1 of 2,93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.93,3,3,4,SAS,UTA,foul,1,False,False,Clarkson P.FOUL (P1.PN) (B.Barnaky),,93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.93,3,3,4,SAS,SAS,reb,1,False,False,,Spurs Rebound,93-90,93,90
+0022100437,2021-12-17,UTA,SAS,32.93,3,3,4,SAS,SAS,ft_make,12,False,False,,Murray Free Throw 2 of 2 (9 PTS),93-91,93,91
+0022100437,2021-12-17,UTA,SAS,33.22,3,2,47,UTA,SAS,foul,1,False,False,,Murray P.FOUL (P1.T3) (K.Fitzgerald),93-91,93,91
+0022100437,2021-12-17,UTA,SAS,33.22,3,2,47,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.4 Short 0),93-91,93,91
+0022100437,2021-12-17,UTA,SAS,33.43,3,2,34,UTA,UTA,fg3_miss,1,False,False,MISS Gay 28' 3PT Jump Shot,,93-91,93,91
+0022100437,2021-12-17,UTA,SAS,33.48,3,2,31,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:2),93-91,93,91
+0022100437,2021-12-17,UTA,SAS,33.67,3,2,20,SAS,SAS,fg_make,79,False,False,,Walker IV 17' Pullup Jump Shot (13 PTS),93-93,93,93
+0022100437,2021-12-17,UTA,SAS,34.0,3,2,0,UTA,UTA,fg_miss,43,False,False,MISS Gobert 4' Alley Oop Layup,,93-93,93,93
+0022100437,2021-12-17,UTA,SAS,34.05,3,1,57,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:2 Def:1),93-93,93,93
+0022100437,2021-12-17,UTA,SAS,34.1,3,1,54,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 26' 3PT Jump Shot,93-93,93,93
+0022100437,2021-12-17,UTA,SAS,34.13,3,1,52,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:1 Def:4),,93-93,93,93
+0022100437,2021-12-17,UTA,SAS,34.47,3,1,32,UTA,UTA,tov,37,False,False,Ingles Offensive Foul Turnover (P4.T13),,93-93,93,93
+0022100437,2021-12-17,UTA,SAS,34.47,3,1,32,SAS,UTA,foul,4,False,False,Ingles OFF.Foul (P3) (B.Barnaky),,93-93,93,93
+0022100437,2021-12-17,UTA,SAS,34.72,3,1,17,SAS,SAS,fg_make,79,False,False,,Vassell 9' Pullup Jump Shot (13 PTS) (Walker IV 3 AST),93-95,93,95
+0022100437,2021-12-17,UTA,SAS,35.0,3,1,0,UTA,UTA,fg3_make,79,False,False,Conley 25' 3PT Pullup Jump Shot (10 PTS) (Gay 2 AST),,96-95,96,95
+0022100437,2021-12-17,UTA,SAS,35.17,3,0,50,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:1 Def:5),,96-95,96,95
+0022100437,2021-12-17,UTA,SAS,35.17,3,0,50,SAS,UTA,block,6,True,False,block,block,96-95,96,95
+0022100437,2021-12-17,UTA,SAS,35.17,3,0,50,SAS,SAS,fg_miss,6,True,False,,MISS White 3' Driving Layup,96-95,96,95
+0022100437,2021-12-17,UTA,SAS,35.17,3,0,50,UTA,UTA,timeout,7,False,False,JAZZ Timeout: Coach Challenge (Full 3 Short 0),,96-95,96,95
+0022100437,2021-12-17,UTA,SAS,35.4,3,0,36,UTA,UTA,fg_miss,6,False,False,MISS Conley 2' Driving Layup,,96-95,96,95
+0022100437,2021-12-17,UTA,SAS,35.43,3,0,34,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:2 Def:2),96-95,96,95
+0022100437,2021-12-17,UTA,SAS,35.5,3,0,30,SAS,SAS,fg_make,79,False,False,,Walker IV 12' Pullup Jump Shot (15 PTS) (White 3 AST),96-97,96,97
+0022100437,2021-12-17,UTA,SAS,35.87,3,0,8,UTA,UTA,fg3_miss,80,False,False,MISS Clarkson 24' 3PT Step Back Jump Shot,,96-97,96,97
+0022100437,2021-12-17,UTA,SAS,35.9,3,0,6,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:6),96-97,96,97
+0022100437,2021-12-17,UTA,SAS,35.98,3,0,1,SAS,SAS,fg3_make,79,False,False,,White 25' 3PT Pullup Jump Shot (14 PTS),96-100,96,100
+0022100437,2021-12-17,UTA,SAS,36.0,4,12,0,SAS,,period_start,0,False,False,,,96-100,96,100
+0022100437,2021-12-17,UTA,SAS,36.0,3,0,0,SAS,,period_end,0,False,False,,,96-100,96,100
+0022100437,2021-12-17,UTA,SAS,36.37,4,11,38,SAS,UTA,steal,1,False,True,steal,steal,96-100,96,100
+0022100437,2021-12-17,UTA,SAS,36.37,4,11,38,SAS,SAS,tov,1,False,True,,Poeltl Bad Pass Turnover (P1.T6),96-100,96,100
+0022100437,2021-12-17,UTA,SAS,36.47,4,11,32,UTA,SAS,foul,2,False,False,,Poeltl S.FOUL (P3.T1) (B.Barnaky),96-100,96,100
+0022100437,2021-12-17,UTA,SAS,36.47,4,11,32,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (15 PTS),,97-100,97,100
+0022100437,2021-12-17,UTA,SAS,36.47,4,11,32,UTA,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (16 PTS),,98-100,98,100
+0022100437,2021-12-17,UTA,SAS,36.77,4,11,14,SAS,SAS,fg_miss,79,True,False,,MISS Vassell 17' Pullup Jump Shot,98-100,98,100
+0022100437,2021-12-17,UTA,SAS,36.77,4,11,14,SAS,UTA,block,79,True,False,block,block,98-100,98,100
+0022100437,2021-12-17,UTA,SAS,36.82,4,11,11,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:3 Def:2),98-100,98,100
+0022100437,2021-12-17,UTA,SAS,36.85,4,11,9,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 26' 3PT Jump Shot,98-100,98,100
+0022100437,2021-12-17,UTA,SAS,36.92,4,11,5,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:0 Def:2),,98-100,98,100
+0022100437,2021-12-17,UTA,SAS,37.12,4,10,53,UTA,UTA,fg_make,47,False,False,Clarkson 3' Turnaround Jump Shot (14 PTS),,100-100,100,100
+0022100437,2021-12-17,UTA,SAS,37.32,4,10,41,SAS,SAS,fg3_miss,1,False,False,,MISS White 26' 3PT Jump Shot,100-100,100,100
+0022100437,2021-12-17,UTA,SAS,37.33,4,10,40,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:8),,100-100,100,100
+0022100437,2021-12-17,UTA,SAS,37.6,4,10,24,UTA,UTA,fg_miss,105,False,False,MISS Clarkson 5' Turnaround Fadeaway Bank Jump Shot,,100-100,100,100
+0022100437,2021-12-17,UTA,SAS,37.63,4,10,22,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:2),100-100,100,100
+0022100437,2021-12-17,UTA,SAS,37.85,4,10,9,SAS,SAS,fg_make,78,False,False,,Poeltl 13' Floating Jump Shot (12 PTS) (Walker IV 4 AST),100-102,100,102
+0022100437,2021-12-17,UTA,SAS,38.35,4,9,39,UTA,UTA,fg3_make,80,False,False,Clarkson 26' 3PT Step Back Jump Shot (17 PTS),,103-102,103,102
+0022100437,2021-12-17,UTA,SAS,38.65,4,9,21,SAS,SAS,fg_make,102,False,False,,Walker IV 10' Driving Floating Bank Jump Shot (17 PTS),103-104,103,104
+0022100437,2021-12-17,UTA,SAS,38.95,4,9,3,UTA,UTA,fg_miss,80,False,False,MISS Ingles 23' Step Back Jump Shot,,103-104,103,104
+0022100437,2021-12-17,UTA,SAS,39.0,4,9,0,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:3 Def:3),103-104,103,104
+0022100437,2021-12-17,UTA,SAS,39.17,4,8,50,SAS,UTA,foul,1,False,False,Gobert P.FOUL (P1.T1) (B.Barnaky),,103-104,103,104
+0022100437,2021-12-17,UTA,SAS,39.33,4,8,40,SAS,SAS,fg_miss,101,False,False,,MISS Johnson 6' Driving Floating Jump Shot,103-104,103,104
+0022100437,2021-12-17,UTA,SAS,39.37,4,8,38,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:2),,103-104,103,104
+0022100437,2021-12-17,UTA,SAS,39.45,4,8,33,UTA,UTA,fg_miss,78,False,False,MISS Whiteside 7' Floating Jump Shot,,103-104,103,104
+0022100437,2021-12-17,UTA,SAS,39.5,4,8,30,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:1 Def:2),,103-104,103,104
+0022100437,2021-12-17,UTA,SAS,39.7,4,8,18,UTA,UTA,fg_make,6,False,False,Clarkson 7' Driving Layup (19 PTS),,105-104,105,104
+0022100437,2021-12-17,UTA,SAS,40.02,4,7,59,SAS,SAS,fg_make,79,False,False,,Murray 19' Pullup Jump Shot (11 PTS),105-106,105,106
+0022100437,2021-12-17,UTA,SAS,40.27,4,7,44,UTA,UTA,fg3_miss,1,False,False,MISS Conley 25' 3PT Jump Shot,,105-106,105,106
+0022100437,2021-12-17,UTA,SAS,40.28,4,7,43,SAS,SAS,reb,0,False,False,,Spurs Rebound,105-106,105,106
+0022100437,2021-12-17,UTA,SAS,40.5,4,7,30,SAS,SAS,fg_make,101,False,False,,White 6' Driving Floating Jump Shot (16 PTS) (Murray 9 AST),105-108,105,108
+0022100437,2021-12-17,UTA,SAS,40.67,4,7,20,UTA,UTA,fg_miss,78,False,False,MISS Clarkson 11' Floating Jump Shot,,105-108,105,108
+0022100437,2021-12-17,UTA,SAS,40.72,4,7,17,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:7),105-108,105,108
+0022100437,2021-12-17,UTA,SAS,41.0,4,7,0,SAS,UTA,foul,2,False,False,Clarkson S.FOUL (P2.T2) (B.Barnaky),,105-108,105,108
+0022100437,2021-12-17,UTA,SAS,41.0,4,7,0,SAS,UTA,violation,1,False,False,JAZZ Violation: Delay of game Violation,,105-108,105,108
+0022100437,2021-12-17,UTA,SAS,41.0,4,7,0,SAS,SAS,ft_make,12,False,False,,White Free Throw 2 of 2 (18 PTS),105-110,105,110
+0022100437,2021-12-17,UTA,SAS,41.0,4,7,0,SAS,SAS,ft_make,11,False,False,,White Free Throw 1 of 2 (17 PTS),105-109,105,109
+0022100437,2021-12-17,UTA,SAS,41.28,4,6,43,UTA,SAS,foul,2,False,False,,Landale S.FOUL (P2.T2) (K.Fitzgerald),105-110,105,110
+0022100437,2021-12-17,UTA,SAS,41.28,4,6,43,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 4 Short 0),,105-110,105,110
+0022100437,2021-12-17,UTA,SAS,41.28,4,6,43,UTA,UTA,ft_make,11,False,False,Gay Free Throw 1 of 2 (3 PTS),,106-110,106,110
+0022100437,2021-12-17,UTA,SAS,41.28,4,6,43,UTA,UTA,ft_make,12,False,False,Gay Free Throw 2 of 2 (4 PTS),,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,41.53,4,6,28,SAS,SAS,tov,18,False,False,,McDermott Jump Ball Violation Turnover (P1.T7),107-110,107,110
+0022100437,2021-12-17,UTA,SAS,41.72,4,6,17,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 2' Driving Layup,,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,41.78,4,6,13,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:4 Def:6),107-110,107,110
+0022100437,2021-12-17,UTA,SAS,41.83,4,6,10,SAS,SAS,fg_miss,78,False,False,,MISS Murray 10' Floating Jump Shot,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,41.88,4,6,7,UTA,UTA,reb,0,False,False,Gay REBOUND (Off:1 Def:3),,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.12,4,5,53,UTA,UTA,fg_miss,5,False,False,MISS Clarkson 4' Layup,,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.15,4,5,51,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:3),107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.2,4,5,48,SAS,SAS,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.25,4,5,45,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:2 Def:3),,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.42,4,5,35,UTA,SAS,block,6,True,False,block,block,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.42,4,5,35,UTA,UTA,fg_miss,6,True,False,MISS Bogdanovic 4' Driving Layup,,107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.45,4,5,33,SAS,SAS,reb,0,False,False,,McDermott REBOUND (Off:0 Def:4),107-110,107,110
+0022100437,2021-12-17,UTA,SAS,42.62,4,5,23,SAS,SAS,fg3_make,1,False,False,,Johnson 3PT Jump Shot (22 PTS) (Murray 10 AST),107-113,107,113
+0022100437,2021-12-17,UTA,SAS,42.67,4,5,20,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 5 Short 0),,107-113,107,113
+0022100437,2021-12-17,UTA,SAS,42.88,4,5,7,UTA,UTA,fg_make,101,False,False,Clarkson 5' Driving Floating Jump Shot (21 PTS) (O'Neale 4 AST),,109-113,109,113
+0022100437,2021-12-17,UTA,SAS,43.18,4,4,49,SAS,SAS,fg3_miss,79,False,False,,MISS White 27' 3PT Pullup Jump Shot,109-113,109,113
+0022100437,2021-12-17,UTA,SAS,43.23,4,4,46,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:9),,109-113,109,113
+0022100437,2021-12-17,UTA,SAS,43.52,4,4,29,UTA,UTA,fg3_make,1,False,False,Conley 3PT Jump Shot (13 PTS) (Gobert 2 AST),,112-113,112,113
+0022100437,2021-12-17,UTA,SAS,43.6,4,4,24,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.5 Short 0),112-113,112,113
+0022100437,2021-12-17,UTA,SAS,43.78,4,4,13,SAS,SAS,fg_make,63,False,False,,Murray 14' Fadeaway Jumper (13 PTS),112-115,112,115
+0022100437,2021-12-17,UTA,SAS,44.05,4,3,57,UTA,UTA,fg_make,6,False,False,Bogdanovic 4' Driving Layup (16 PTS) (Conley 6 AST),,114-115,114,115
+0022100437,2021-12-17,UTA,SAS,44.45,4,3,33,SAS,SAS,fg_make,101,False,False,,Johnson 9' Driving Floating Jump Shot (24 PTS) (Murray 11 AST),114-117,114,117
+0022100437,2021-12-17,UTA,SAS,44.62,4,3,23,UTA,UTA,fg3_make,79,False,False,Conley 25' 3PT Pullup Jump Shot (16 PTS),,117-117,117,117
+0022100437,2021-12-17,UTA,SAS,44.85,4,3,9,SAS,SAS,fg_make,80,False,False,,Murray 12' Step Back Jump Shot (15 PTS),117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.22,4,2,47,UTA,UTA,fg3_miss,80,False,False,MISS Conley 24' 3PT Step Back Jump Shot,,117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.23,4,2,46,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:2 Def:2),,117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.32,4,2,41,UTA,UTA,fg3_miss,1,False,False,MISS Conley 24' 3PT Jump Shot,,117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.37,4,2,38,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:4),117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.38,4,2,37,SAS,UTA,foul,28,False,False,Bogdanovic Personal Take Foul (P3.T3) (B.Barnaky),,117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.68,4,2,19,SAS,SAS,fg3_miss,79,False,False,,MISS Murray 25' 3PT Pullup Jump Shot,117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.75,4,2,15,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:4),,117-119,117,119
+0022100437,2021-12-17,UTA,SAS,45.9,4,2,6,UTA,UTA,fg_make,6,False,False,Mitchell 3' Driving Layup (22 PTS),,119-119,119,119
+0022100437,2021-12-17,UTA,SAS,46.2,4,1,48,SAS,SAS,fg_make,1,False,False,,White 15' Jump Shot (20 PTS),119-121,119,121
+0022100437,2021-12-17,UTA,SAS,46.45,4,1,33,UTA,UTA,fg_make,101,False,False,Conley 10' Driving Floating Jump Shot (18 PTS) (Mitchell 4 AST),,121-121,121,121
+0022100437,2021-12-17,UTA,SAS,46.67,4,1,20,SAS,UTA,foul,1,False,False,Mitchell P.FOUL (P3.T4) (K.Fitzgerald),,121-121,121,121
+0022100437,2021-12-17,UTA,SAS,46.75,4,1,15,SAS,SAS,fg_miss,78,False,False,,MISS Poeltl 14' Floating Jump Shot,121-121,121,121
+0022100437,2021-12-17,UTA,SAS,46.8,4,1,12,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:3 Def:2),121-121,121,121
+0022100437,2021-12-17,UTA,SAS,46.8,4,1,12,SAS,SAS,fg_make,72,False,False,,Poeltl 3' Putback Layup (14 PTS),121-123,121,123
+0022100437,2021-12-17,UTA,SAS,46.98,4,1,1,UTA,UTA,ft_make,10,False,False,Mitchell Free Throw 1 of 1 (25 PTS),,124-123,124,123
+0022100437,2021-12-17,UTA,SAS,46.98,4,1,1,UTA,UTA,fg_make,6,False,False,Mitchell 3' Driving Layup (24 PTS),,123-123,123,123
+0022100437,2021-12-17,UTA,SAS,46.98,4,1,1,UTA,SAS,foul,2,False,False,,White S.FOUL (P4.T3) (K.Fitzgerald),123-123,123,123
+0022100437,2021-12-17,UTA,SAS,47.28,4,0,43,SAS,SAS,fg_make,80,False,False,,White 14' Step Back Jump Shot (22 PTS) (Walker IV 5 AST),124-125,124,125
+0022100437,2021-12-17,UTA,SAS,47.45,4,0,33,UTA,UTA,fg_make,47,False,False,Mitchell 12' Turnaround Jump Shot (27 PTS),,126-125,126,125
+0022100437,2021-12-17,UTA,SAS,47.77,4,0,14,SAS,SAS,fg_make,102,False,False,,Walker IV 4' Driving Floating Bank Jump Shot (19 PTS),126-127,126,127
+0022100437,2021-12-17,UTA,SAS,47.93,4,0,4,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 5' Driving Layup,,126-127,126,127
+0022100437,2021-12-17,UTA,SAS,47.95,4,0,3,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:4 Def:7),126-127,126,127
+0022100437,2021-12-17,UTA,SAS,47.95,4,0,3,SAS,UTA,foul,28,False,False,Bogdanovic Personal Take Foul (P4.PN) (B.Barnaky),,126-127,126,127
+0022100437,2021-12-17,UTA,SAS,47.95,4,0,3,SAS,SAS,ft_make,11,False,False,,Murray Free Throw 1 of 2 (16 PTS),126-128,126,128
+0022100437,2021-12-17,UTA,SAS,47.95,4,0,3,SAS,SAS,ft_miss,12,False,False,,MISS Murray Free Throw 2 of 2,126-128,126,128
+0022100437,2021-12-17,UTA,SAS,47.97,4,0,2,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:10),,126-128,126,128
+0022100437,2021-12-17,UTA,SAS,47.97,4,0,2,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 6 Short 0),,126-128,126,128
+0022100437,2021-12-17,UTA,SAS,48.0,4,0,0,UTA,,period_end,0,False,False,,,126-128,126,128
+0022100437,2021-12-17,UTA,SAS,48.0,4,0,0,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 31' 3PT Jump Shot,,126-128,126,128
+0022100437,2021-12-17,UTA,SAS,48.0,4,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,126-128,126,128

@@ -1,0 +1,415 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100396,2021-12-11,PHI,GSW,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100396,2021-12-11,PHI,GSW,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Looney: Tip to Curry,,0-0,0,0
+0022100396,2021-12-11,PHI,GSW,0.4,1,11,36,PHI,PHI,fg_miss,1,False,False,MISS Embiid 12' Jump Shot,,0-0,0,0
+0022100396,2021-12-11,PHI,GSW,0.45,1,11,33,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:1),0-0,0,0
+0022100396,2021-12-11,PHI,GSW,0.7,1,11,18,GSW,GSW,fg_miss,73,False,False,,MISS Curry 1' Driving Reverse Layup,0-0,0,0
+0022100396,2021-12-11,PHI,GSW,0.75,1,11,15,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:1),0-0,0,0
+0022100396,2021-12-11,PHI,GSW,0.78,1,11,13,GSW,GSW,fg_make,97,False,False,,Looney Tip Layup Shot (2 PTS),0-2,0,2
+0022100396,2021-12-11,PHI,GSW,0.9,1,11,6,PHI,PHI,fg_make,79,False,False,Curry 19' Pullup Jump Shot (2 PTS) (Embiid 1 AST),,2-2,2,2
+0022100396,2021-12-11,PHI,GSW,1.08,1,10,55,GSW,GSW,tov,1,False,True,,Looney Bad Pass Turnover (P1.T1),2-2,2,2
+0022100396,2021-12-11,PHI,GSW,1.08,1,10,55,GSW,PHI,steal,1,False,True,steal,steal,2-2,2,2
+0022100396,2021-12-11,PHI,GSW,1.2,1,10,48,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P1.T1),,2-2,2,2
+0022100396,2021-12-11,PHI,GSW,1.2,1,10,48,PHI,GSW,steal,1,False,True,steal,steal,2-2,2,2
+0022100396,2021-12-11,PHI,GSW,1.25,1,10,45,GSW,GSW,ft_make,11,False,False,,Green Free Throw 1 of 2 (1 PTS),2-3,2,3
+0022100396,2021-12-11,PHI,GSW,1.25,1,10,45,GSW,GSW,ft_make,12,False,False,,Green Free Throw 2 of 2 (2 PTS),2-4,2,4
+0022100396,2021-12-11,PHI,GSW,1.25,1,10,45,GSW,PHI,foul,2,False,False,Harris S.FOUL (P1.T1) (E.Malloy),,2-2,2,2
+0022100396,2021-12-11,PHI,GSW,1.62,1,10,23,PHI,PHI,fg_miss,79,False,False,MISS Maxey 17' Pullup Jump Shot,,2-4,2,4
+0022100396,2021-12-11,PHI,GSW,1.68,1,10,19,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:2),2-4,2,4
+0022100396,2021-12-11,PHI,GSW,1.93,1,10,4,GSW,GSW,fg3_make,1,False,False,,Wiggins 28' 3PT Jump Shot (3 PTS) (Poole 1 AST),2-7,2,7
+0022100396,2021-12-11,PHI,GSW,2.4,1,9,36,PHI,PHI,fg3_make,1,False,False,Maxey 24' 3PT Jump Shot (3 PTS) (Embiid 2 AST),,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.55,1,9,27,GSW,PHI,block,47,True,False,block,block,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.55,1,9,27,GSW,GSW,reb,0,False,False,,Warriors Rebound,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.55,1,9,27,GSW,GSW,fg_miss,47,True,False,,MISS Wiggins 3' Turnaround Jump Shot,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.62,1,9,23,GSW,GSW,fg_miss,79,False,False,,MISS Looney 15' Pullup Jump Shot,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.67,1,9,20,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:1),,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.77,1,9,14,PHI,GSW,block,41,True,False,block,block,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.77,1,9,14,PHI,PHI,fg_miss,41,True,False,MISS Embiid 1' Running Layup,,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,2.8,1,9,12,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:3),5-7,5,7
+0022100396,2021-12-11,PHI,GSW,3.0,1,9,0,GSW,GSW,fg_miss,101,False,False,,MISS Curry 7' Driving Floating Jump Shot,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,3.03,1,8,58,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:2),,5-7,5,7
+0022100396,2021-12-11,PHI,GSW,3.15,1,8,51,PHI,PHI,fg3_make,1,False,False,Maxey 3PT Jump Shot (6 PTS) (Curry 1 AST),,8-7,8,7
+0022100396,2021-12-11,PHI,GSW,3.53,1,8,28,GSW,GSW,fg_miss,79,False,False,,MISS Curry 20' Pullup Jump Shot,8-7,8,7
+0022100396,2021-12-11,PHI,GSW,3.57,1,8,26,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,8-7,8,7
+0022100396,2021-12-11,PHI,GSW,3.7,1,8,18,PHI,GSW,foul,1,False,False,,Green P.FOUL (P1.T1) (E.Malloy),8-7,8,7
+0022100396,2021-12-11,PHI,GSW,3.88,1,8,7,PHI,PHI,fg3_miss,1,False,False,MISS Harris 27' 3PT Jump Shot,,8-7,8,7
+0022100396,2021-12-11,PHI,GSW,3.95,1,8,3,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),8-7,8,7
+0022100396,2021-12-11,PHI,GSW,4.08,1,7,55,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 3PT Jump Shot,8-7,8,7
+0022100396,2021-12-11,PHI,GSW,4.12,1,7,53,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:1),,8-7,8,7
+0022100396,2021-12-11,PHI,GSW,4.2,1,7,48,PHI,PHI,fg_miss,41,False,False,MISS Thybulle 3' Running Layup,,8-7,8,7
+0022100396,2021-12-11,PHI,GSW,4.25,1,7,45,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:4),8-7,8,7
+0022100396,2021-12-11,PHI,GSW,4.35,1,7,39,GSW,GSW,fg_make,108,False,False,,Wiggins Cutting Dunk Shot (5 PTS) (Curry 1 AST),8-9,8,9
+0022100396,2021-12-11,PHI,GSW,4.65,1,7,21,PHI,PHI,fg_miss,101,False,False,MISS Maxey 10' Driving Floating Jump Shot,,8-9,8,9
+0022100396,2021-12-11,PHI,GSW,4.67,1,7,20,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:2),8-9,8,9
+0022100396,2021-12-11,PHI,GSW,4.72,1,7,17,GSW,GSW,fg3_miss,103,False,False,,MISS Poole 25' 3PT Running Pull-Up Jump Shot,8-9,8,9
+0022100396,2021-12-11,PHI,GSW,4.77,1,7,14,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,8-9,8,9
+0022100396,2021-12-11,PHI,GSW,4.82,1,7,11,PHI,GSW,foul,2,False,False,,Wiggins S.FOUL (P1.T2) (E.Malloy),10-9,10,9
+0022100396,2021-12-11,PHI,GSW,4.82,1,7,11,PHI,PHI,ft_make,10,False,False,Harris Free Throw 1 of 1 (3 PTS),,11-9,11,9
+0022100396,2021-12-11,PHI,GSW,4.82,1,7,11,PHI,PHI,fg_make,102,False,False,Harris 4' Driving Floating Bank Jump Shot (2 PTS),,10-9,10,9
+0022100396,2021-12-11,PHI,GSW,5.18,1,6,49,GSW,GSW,fg_make,75,False,False,,Curry 4' Driving Finger Roll Layup (2 PTS),11-11,11,11
+0022100396,2021-12-11,PHI,GSW,5.55,1,6,27,PHI,PHI,fg_make,58,False,False,Embiid 5' Turnaround Hook Shot (2 PTS),,13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.77,1,6,14,GSW,GSW,fg_miss,101,True,False,,MISS Poole 11' Driving Floating Jump Shot,13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.77,1,6,14,GSW,PHI,block,101,True,False,block,block,13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.82,1,6,11,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:2),13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.87,1,6,8,GSW,GSW,tov,2,False,True,,Wiggins Lost Ball Turnover (P1.T2),13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.87,1,6,8,GSW,PHI,steal,2,False,True,steal,steal,13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.92,1,6,5,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (3 PTS),,14-11,14,11
+0022100396,2021-12-11,PHI,GSW,5.92,1,6,5,PHI,GSW,foul,2,False,False,,Green S.FOUL (P2.T3) (M.Kogut),13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.92,1,6,5,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,13-11,13,11
+0022100396,2021-12-11,PHI,GSW,5.92,1,6,5,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (4 PTS),,15-11,15,11
+0022100396,2021-12-11,PHI,GSW,6.32,1,5,41,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 26' 3PT Jump Shot,15-11,15,11
+0022100396,2021-12-11,PHI,GSW,6.37,1,5,38,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:3),,15-11,15,11
+0022100396,2021-12-11,PHI,GSW,6.53,1,5,28,PHI,PHI,fg_miss,79,False,False,MISS Harris 14' Pullup Jump Shot,,15-11,15,11
+0022100396,2021-12-11,PHI,GSW,6.58,1,5,25,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:1),15-11,15,11
+0022100396,2021-12-11,PHI,GSW,6.78,1,5,13,GSW,GSW,fg_make,79,False,False,,Wiggins 19' Pullup Jump Shot (7 PTS),15-13,15,13
+0022100396,2021-12-11,PHI,GSW,7.05,1,4,57,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 25' 3PT Jump Shot,,15-13,15,13
+0022100396,2021-12-11,PHI,GSW,7.1,1,4,54,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:0 Def:1),15-13,15,13
+0022100396,2021-12-11,PHI,GSW,7.33,1,4,40,GSW,GSW,fg3_miss,80,False,False,,MISS Wiggins 24' 3PT Step Back Jump Shot,15-13,15,13
+0022100396,2021-12-11,PHI,GSW,7.38,1,4,37,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:1),15-13,15,13
+0022100396,2021-12-11,PHI,GSW,7.45,1,4,33,GSW,GSW,fg_make,75,False,False,,Poole 1' Driving Finger Roll Layup (2 PTS) (Payton II 1 AST),15-15,15,15
+0022100396,2021-12-11,PHI,GSW,7.67,1,4,20,PHI,GSW,foul,2,False,False,,Looney S.FOUL (P1.T4) (E.Malloy),15-15,15,15
+0022100396,2021-12-11,PHI,GSW,7.67,1,4,20,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (6 PTS),,17-15,17,15
+0022100396,2021-12-11,PHI,GSW,7.67,1,4,20,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (5 PTS),,16-15,16,15
+0022100396,2021-12-11,PHI,GSW,7.92,1,4,5,GSW,GSW,fg_make,79,False,False,,Porter Jr. 16' Pullup Jump Shot (2 PTS) (Looney 1 AST),17-17,17,17
+0022100396,2021-12-11,PHI,GSW,8.17,1,3,50,PHI,PHI,fg3_make,1,False,False,Green 3PT Jump Shot (3 PTS) (Maxey 1 AST),,20-17,20,17
+0022100396,2021-12-11,PHI,GSW,8.38,1,3,37,GSW,GSW,fg_miss,63,False,False,,MISS Porter Jr. 14' Fadeaway Jumper,20-17,20,17
+0022100396,2021-12-11,PHI,GSW,8.42,1,3,35,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:4),,20-17,20,17
+0022100396,2021-12-11,PHI,GSW,8.5,1,3,30,PHI,GSW,foul,2,False,False,,Porter Jr. S.FOUL (P1.PN) (M.Kogut),20-17,20,17
+0022100396,2021-12-11,PHI,GSW,8.5,1,3,30,PHI,PHI,ft_miss,11,False,False,MISS Maxey Free Throw 1 of 2,,20-17,20,17
+0022100396,2021-12-11,PHI,GSW,8.5,1,3,30,PHI,PHI,reb,1,False,False,76ERS Rebound,,20-17,20,17
+0022100396,2021-12-11,PHI,GSW,8.5,1,3,30,PHI,PHI,ft_make,12,False,False,Maxey Free Throw 2 of 2 (7 PTS),,21-17,21,17
+0022100396,2021-12-11,PHI,GSW,8.88,1,3,7,GSW,GSW,fg_make,79,False,False,,Wiggins 21' Pullup Jump Shot (9 PTS) (Looney 2 AST),21-19,21,19
+0022100396,2021-12-11,PHI,GSW,9.3,1,2,42,PHI,PHI,fg_miss,86,False,False,MISS Embiid 11' Turnaround Fadeaway Shot,,21-19,21,19
+0022100396,2021-12-11,PHI,GSW,9.33,1,2,40,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),21-19,21,19
+0022100396,2021-12-11,PHI,GSW,9.62,1,2,23,GSW,GSW,fg3_make,1,False,False,,Poole 25' 3PT Jump Shot (5 PTS) (Looney 3 AST),21-22,21,22
+0022100396,2021-12-11,PHI,GSW,9.78,1,2,13,PHI,PHI,fg_make,75,False,False,Maxey 1' Driving Finger Roll Layup (9 PTS),,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,9.92,1,2,5,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.1 Short 0),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,9.92,1,2,5,GSW,PHI,foul,1,False,False,Milton P.FOUL (P1.T2) (M.Kogut),,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.22,1,1,47,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 26' 3PT Jump Shot,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.28,1,1,43,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:1),,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.6,1,1,24,PHI,PHI,fg_miss,58,False,False,MISS Drummond 2' Turnaround Hook Shot,,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.63,1,1,22,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:1),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.75,1,1,15,GSW,GSW,tov,37,False,False,,Payton II Offensive Foul Turnover (P1.T3),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.75,1,1,15,PHI,GSW,foul,4,False,False,,Payton II OFF.Foul (P1) (D.Guthrie),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.93,1,1,4,PHI,PHI,fg_miss,101,False,False,MISS Milton 10' Driving Floating Jump Shot,,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,10.97,1,1,2,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:1),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.1,1,0,54,GSW,PHI,foul,1,False,False,Thybulle P.FOUL (P1.T3) (D.Guthrie),,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.27,1,0,44,GSW,GSW,tov,1,False,True,,Curry Bad Pass Turnover (P1.T4),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.27,1,0,44,GSW,PHI,steal,1,False,True,steal,steal,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.33,1,0,40,PHI,PHI,fg3_miss,2,False,False,MISS Green 27' 3PT Running Jump Shot,,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.4,1,0,36,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:2),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.72,1,0,17,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 3PT Jump Shot,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.77,1,0,14,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:1 Def:2),23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.97,1,0,2,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 27' 3PT Pullup Jump Shot,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,11.97,1,0,2,GSW,GSW,reb,0,False,False,,Warriors Rebound,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,12.0,2,12,0,GSW,,period_start,0,False,False,,,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,12.0,1,0,0,GSW,,period_end,0,False,False,,,23-22,23,22
+0022100396,2021-12-11,PHI,GSW,12.23,2,11,46,GSW,GSW,fg_make,79,False,False,,Curry 16' Pullup Jump Shot (4 PTS),23-24,23,24
+0022100396,2021-12-11,PHI,GSW,12.73,2,11,16,PHI,PHI,fg_miss,101,False,False,MISS Milton 10' Driving Floating Jump Shot,,23-24,23,24
+0022100396,2021-12-11,PHI,GSW,12.77,2,11,14,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:2),23-24,23,24
+0022100396,2021-12-11,PHI,GSW,12.92,2,11,5,GSW,GSW,fg3_miss,1,False,False,,MISS Iguodala 3PT Jump Shot,23-24,23,24
+0022100396,2021-12-11,PHI,GSW,12.95,2,11,3,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:1),,23-24,23,24
+0022100396,2021-12-11,PHI,GSW,13.03,2,10,58,PHI,PHI,fg_make,41,False,False,Milton 1' Running Layup (2 PTS),,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.32,2,10,41,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 26' 3PT Jump Shot,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.35,2,10,39,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:1),,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.5,2,10,30,PHI,PHI,fg_miss,6,False,False,MISS Milton 3' Driving Layup,,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.52,2,10,29,GSW,GSW,reb,0,False,False,,Warriors Rebound,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.68,2,10,19,GSW,PHI,block,1,True,False,block,block,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.68,2,10,19,GSW,GSW,fg3_miss,1,True,False,,MISS Curry 25' 3PT Jump Shot,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.73,2,10,16,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:1),,25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.9,2,10,6,PHI,GSW,foul,2,False,False,,Bjelica S.FOUL (P1.T1) (E.Malloy),25-24,25,24
+0022100396,2021-12-11,PHI,GSW,13.9,2,10,6,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (4 PTS),,26-24,26,24
+0022100396,2021-12-11,PHI,GSW,13.9,2,10,6,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (5 PTS),,27-24,27,24
+0022100396,2021-12-11,PHI,GSW,14.15,2,9,51,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 27' 3PT Jump Shot,27-24,27,24
+0022100396,2021-12-11,PHI,GSW,14.2,2,9,48,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,27-24,27,24
+0022100396,2021-12-11,PHI,GSW,14.42,2,9,35,PHI,PHI,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,27-24,27,24
+0022100396,2021-12-11,PHI,GSW,14.48,2,9,31,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:1 Def:1),,27-24,27,24
+0022100396,2021-12-11,PHI,GSW,14.53,2,9,28,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 25' 3PT Jump Shot,,27-24,27,24
+0022100396,2021-12-11,PHI,GSW,14.58,2,9,25,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:2 Def:1),,27-24,27,24
+0022100396,2021-12-11,PHI,GSW,14.58,2,9,25,PHI,PHI,fg_make,87,False,False,Drummond 1' Putback Dunk (2 PTS),,29-24,29,24
+0022100396,2021-12-11,PHI,GSW,14.77,2,9,14,GSW,PHI,foul,2,False,False,Thybulle S.FOUL (P2.T1) (E.Malloy),,29-24,29,24
+0022100396,2021-12-11,PHI,GSW,14.77,2,9,14,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (5 PTS),29-25,29,25
+0022100396,2021-12-11,PHI,GSW,14.77,2,9,14,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (6 PTS),29-26,29,26
+0022100396,2021-12-11,PHI,GSW,14.97,2,9,2,PHI,PHI,fg_make,52,False,False,Drummond 1' Alley Oop Dunk (4 PTS) (Harris 1 AST),,31-26,31,26
+0022100396,2021-12-11,PHI,GSW,15.23,2,8,46,GSW,GSW,fg_make,9,False,False,,Iguodala 2' Driving Dunk (2 PTS),31-28,31,28
+0022100396,2021-12-11,PHI,GSW,15.58,2,8,25,PHI,PHI,fg_make,67,False,False,Green 1' Hook Bank Shot (5 PTS) (Drummond 1 AST),,33-28,33,28
+0022100396,2021-12-11,PHI,GSW,15.78,2,8,13,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 27' 3PT Jump Shot,33-28,33,28
+0022100396,2021-12-11,PHI,GSW,15.82,2,8,11,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:2),,33-28,33,28
+0022100396,2021-12-11,PHI,GSW,15.9,2,8,6,PHI,PHI,ft_make,10,False,False,Milton Free Throw 1 of 1 (5 PTS),,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,15.9,2,8,6,PHI,GSW,foul,2,False,False,,Lee S.FOUL (P1.T2) (D.Guthrie),35-28,35,28
+0022100396,2021-12-11,PHI,GSW,15.9,2,8,6,PHI,PHI,fg_make,6,False,False,Milton 2' Driving Layup (4 PTS),,35-28,35,28
+0022100396,2021-12-11,PHI,GSW,15.98,2,8,1,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),36-28,36,28
+0022100396,2021-12-11,PHI,GSW,16.08,2,7,55,GSW,GSW,fg_miss,79,False,False,,MISS Lee 22' Pullup Jump Shot,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,16.13,2,7,52,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:2 Def:2),,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,16.45,2,7,33,PHI,PHI,fg_miss,101,False,False,MISS Harris 2' Driving Floating Jump Shot,,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,16.52,2,7,29,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),36-28,36,28
+0022100396,2021-12-11,PHI,GSW,16.67,2,7,20,GSW,GSW,tov,45,False,False,,Looney Out of Bounds - Bad Pass Turnover Turnover (P2.T5),36-28,36,28
+0022100396,2021-12-11,PHI,GSW,17.07,2,6,56,PHI,PHI,reb,0,False,False,76ERS Rebound,,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,17.07,2,6,56,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#2),,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,17.07,2,6,56,PHI,GSW,block,101,True,False,block,block,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,17.07,2,6,56,PHI,PHI,fg_miss,101,True,False,MISS Green 3' Driving Floating Jump Shot,,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,17.32,2,6,41,GSW,PHI,steal,1,False,True,steal,steal,36-28,36,28
+0022100396,2021-12-11,PHI,GSW,17.32,2,6,41,GSW,GSW,tov,1,False,True,,Poole Bad Pass Turnover (P1.T6),36-28,36,28
+0022100396,2021-12-11,PHI,GSW,17.42,2,6,35,PHI,PHI,fg_make,76,False,False,Harris 1' Running Finger Roll Layup (7 PTS) (Milton 1 AST),,38-28,38,28
+0022100396,2021-12-11,PHI,GSW,17.82,2,6,11,GSW,PHI,foul,2,False,False,Drummond S.FOUL (P1.T2) (D.Guthrie),,38-28,38,28
+0022100396,2021-12-11,PHI,GSW,17.82,2,6,11,GSW,GSW,ft_miss,11,False,False,,MISS Wiggins Free Throw 1 of 2,38-28,38,28
+0022100396,2021-12-11,PHI,GSW,17.82,2,6,11,GSW,GSW,reb,1,False,False,,Warriors Rebound,38-28,38,28
+0022100396,2021-12-11,PHI,GSW,17.82,2,6,11,GSW,GSW,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (10 PTS),38-29,38,29
+0022100396,2021-12-11,PHI,GSW,18.0,2,6,0,PHI,PHI,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,38-29,38,29
+0022100396,2021-12-11,PHI,GSW,18.05,2,5,57,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:5),38-29,38,29
+0022100396,2021-12-11,PHI,GSW,18.27,2,5,44,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 25' 3PT Jump Shot,38-29,38,29
+0022100396,2021-12-11,PHI,GSW,18.28,2,5,43,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:5),,38-29,38,29
+0022100396,2021-12-11,PHI,GSW,18.52,2,5,29,GSW,PHI,foul,4,False,False,Embiid OFF.Foul (P1) (D.Guthrie),,38-29,38,29
+0022100396,2021-12-11,PHI,GSW,18.52,2,5,29,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P1.T3),,38-29,38,29
+0022100396,2021-12-11,PHI,GSW,18.87,2,5,8,GSW,GSW,ft_miss,10,False,False,,MISS Wiggins Free Throw 1 of 1,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,18.87,2,5,8,GSW,PHI,foul,2,False,False,Maxey S.FOUL (P1.T3) (M.Kogut),,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,18.87,2,5,8,GSW,GSW,fg_make,101,False,False,,Wiggins 3' Driving Floating Jump Shot (12 PTS),38-31,38,31
+0022100396,2021-12-11,PHI,GSW,18.92,2,5,5,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.1,2,4,54,PHI,PHI,fg_miss,73,False,False,MISS Maxey 2' Driving Reverse Layup,,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.13,2,4,52,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:1),38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.18,2,4,49,GSW,GSW,fg_miss,74,False,False,,MISS Green 1' Running Reverse Layup,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.22,2,4,47,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:1 Def:0),38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.33,2,4,40,GSW,GSW,fg_miss,98,False,False,,MISS Lee 2' Cutting Layup Shot,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.33,2,4,40,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:6),,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.43,2,4,34,PHI,PHI,fg_miss,6,False,False,MISS Embiid 1' Driving Layup,,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.5,2,4,30,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:1),38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.53,2,4,28,GSW,GSW,fg_miss,41,False,False,,MISS Lee 1' Running Layup,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.57,2,4,26,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.77,2,4,14,GSW,PHI,foul,11,False,False,Embiid T.FOUL (P1.T3) (E.Malloy),,38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.77,2,4,14,PHI,GSW,foul,2,False,False,,Looney S.FOUL (P2.T3) (E.Malloy),38-31,38,31
+0022100396,2021-12-11,PHI,GSW,19.77,2,4,14,GSW,GSW,ft_make,16,False,False,,Poole Free Throw Technical (6 PTS),38-32,38,32
+0022100396,2021-12-11,PHI,GSW,19.77,2,4,14,GSW,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (7 PTS),,39-32,39,32
+0022100396,2021-12-11,PHI,GSW,19.77,2,4,14,GSW,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (8 PTS),,40-32,40,32
+0022100396,2021-12-11,PHI,GSW,20.1,2,3,54,GSW,GSW,fg_make,7,False,False,,Looney Dunk (4 PTS) (Wiggins 1 AST),40-34,40,34
+0022100396,2021-12-11,PHI,GSW,20.48,2,3,31,PHI,PHI,tov,1,False,True,Embiid Bad Pass Turnover (P2.T4),,40-34,40,34
+0022100396,2021-12-11,PHI,GSW,20.48,2,3,31,PHI,GSW,steal,1,False,True,steal,steal,40-34,40,34
+0022100396,2021-12-11,PHI,GSW,20.57,2,3,26,GSW,GSW,fg_make,76,False,False,,Poole Running Finger Roll Layup (8 PTS) (Wiggins 2 AST),40-36,40,36
+0022100396,2021-12-11,PHI,GSW,20.8,2,3,12,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 27' 3PT Jump Shot,,40-36,40,36
+0022100396,2021-12-11,PHI,GSW,20.85,2,3,9,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:2),40-36,40,36
+0022100396,2021-12-11,PHI,GSW,20.95,2,3,3,GSW,GSW,fg_make,98,False,False,,Looney 1' Cutting Layup Shot (6 PTS) (Green 1 AST),40-38,40,38
+0022100396,2021-12-11,PHI,GSW,20.95,2,3,3,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,40-38,40,38
+0022100396,2021-12-11,PHI,GSW,21.32,2,2,41,PHI,PHI,fg_make,101,False,False,Curry 10' Driving Floating Jump Shot (4 PTS),,42-38,42,38
+0022100396,2021-12-11,PHI,GSW,21.57,2,2,26,GSW,GSW,ft_miss,12,False,False,,MISS Curry Free Throw 2 of 2,42-39,42,39
+0022100396,2021-12-11,PHI,GSW,21.57,2,2,26,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (7 PTS),42-39,42,39
+0022100396,2021-12-11,PHI,GSW,21.57,2,2,26,GSW,PHI,foul,2,False,False,Thybulle S.FOUL (P3.T4) (M.Kogut),,42-38,42,38
+0022100396,2021-12-11,PHI,GSW,21.6,2,2,24,PHI,PHI,reb,0,False,False,Niang REBOUND (Off:0 Def:1),,42-39,42,39
+0022100396,2021-12-11,PHI,GSW,21.78,2,2,13,PHI,GSW,steal,1,False,True,steal,steal,42-39,42,39
+0022100396,2021-12-11,PHI,GSW,21.78,2,2,13,PHI,PHI,tov,1,False,True,Niang Bad Pass Turnover (P1.T5),,42-39,42,39
+0022100396,2021-12-11,PHI,GSW,21.95,2,2,3,GSW,GSW,fg_miss,5,False,False,,MISS Looney 1' Layup,42-39,42,39
+0022100396,2021-12-11,PHI,GSW,21.97,2,2,2,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:7),,42-39,42,39
+0022100396,2021-12-11,PHI,GSW,22.07,2,1,56,PHI,PHI,fg_miss,41,False,False,MISS Niang 2' Running Layup,,42-39,42,39
+0022100396,2021-12-11,PHI,GSW,22.1,2,1,54,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:6),42-39,42,39
+0022100396,2021-12-11,PHI,GSW,22.25,2,1,45,GSW,GSW,fg3_make,1,False,False,,Curry 26' 3PT Jump Shot (10 PTS) (Looney 4 AST),42-42,42,42
+0022100396,2021-12-11,PHI,GSW,22.42,2,1,35,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (10 PTS),,44-42,44,42
+0022100396,2021-12-11,PHI,GSW,22.42,2,1,35,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (9 PTS),,43-42,43,42
+0022100396,2021-12-11,PHI,GSW,22.42,2,1,35,PHI,GSW,foul,2,False,False,,Looney S.FOUL (P3.T4) (M.Kogut),42-42,42,42
+0022100396,2021-12-11,PHI,GSW,22.73,2,1,16,GSW,GSW,fg_make,75,False,False,,Curry 3' Driving Finger Roll Layup (12 PTS),44-44,44,44
+0022100396,2021-12-11,PHI,GSW,22.92,2,1,5,PHI,PHI,tov,4,False,False,Maxey Traveling Turnover (P1.T6),,44-44,44,44
+0022100396,2021-12-11,PHI,GSW,23.05,2,0,57,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 28' 3PT Pullup Jump Shot,44-44,44,44
+0022100396,2021-12-11,PHI,GSW,23.1,2,0,54,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:2),,44-44,44,44
+0022100396,2021-12-11,PHI,GSW,23.27,2,0,44,PHI,PHI,fg_miss,58,False,False,MISS Embiid 3' Turnaround Hook Shot,,44-44,44,44
+0022100396,2021-12-11,PHI,GSW,23.3,2,0,42,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:3),44-44,44,44
+0022100396,2021-12-11,PHI,GSW,23.35,2,0,39,GSW,GSW,ft_make,12,False,False,,Poole Free Throw 2 of 2 (10 PTS),44-46,44,46
+0022100396,2021-12-11,PHI,GSW,23.35,2,0,39,GSW,GSW,ft_make,11,False,False,,Poole Free Throw 1 of 2 (9 PTS),44-45,44,45
+0022100396,2021-12-11,PHI,GSW,23.35,2,0,39,GSW,PHI,foul,2,False,False,Green S.FOUL (P1.PN) (D.Guthrie),,44-44,44,44
+0022100396,2021-12-11,PHI,GSW,23.45,2,0,33,PHI,PHI,tov,40,False,False,Maxey Out of Bounds Lost Ball Turnover (P2.T7),,44-46,44,46
+0022100396,2021-12-11,PHI,GSW,23.72,2,0,17,GSW,GSW,fg3_make,1,False,False,,Curry 26' 3PT Jump Shot (15 PTS) (Green 2 AST),44-49,44,49
+0022100396,2021-12-11,PHI,GSW,24.0,2,0,0,PHI,,period_end,0,False,False,,,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.0,3,12,0,PHI,,period_start,0,False,False,,,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.0,2,0,0,PHI,PHI,fg_make,75,False,False,Maxey 1' Driving Finger Roll Layup (11 PTS) (Green 1 AST),,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.3,3,11,42,GSW,GSW,fg3_miss,79,False,False,,MISS Poole 25' 3PT Pullup Jump Shot,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.35,3,11,39,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:2),46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.43,3,11,34,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.43,3,11,34,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 24' 3PT Jump Shot,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.65,3,11,21,PHI,GSW,foul,1,False,False,,Poole P.FOUL (P1.T1) (D.Guthrie),46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.88,3,11,7,PHI,PHI,fg3_miss,1,False,False,MISS Maxey 28' 3PT Jump Shot,,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,24.93,3,11,4,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:2),46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.1,3,10,54,GSW,GSW,fg3_miss,1,False,False,,MISS Green 25' 3PT Jump Shot,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.17,3,10,50,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.33,3,10,40,PHI,PHI,fg3_miss,1,False,False,MISS Maxey 3PT Jump Shot,,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.38,3,10,37,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:3),46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.48,3,10,31,GSW,GSW,fg3_miss,80,True,False,,MISS Curry 26' 3PT Step Back Jump Shot,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.48,3,10,31,GSW,PHI,block,80,True,False,block,block,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.53,3,10,28,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:2 Def:3),46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.58,3,10,25,GSW,PHI,foul,1,False,False,Thybulle P.FOUL (P4.T1) (M.Kogut),,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.68,3,10,19,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 25' 3PT Jump Shot,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.72,3,10,17,GSW,PHI,foul,3,False,False,Curry L.B.FOUL (P1.T2) (E.Malloy),,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,25.72,3,10,17,GSW,GSW,reb,0,False,False,,Warriors Rebound,46-49,46,49
+0022100396,2021-12-11,PHI,GSW,26.02,3,9,59,GSW,GSW,fg3_make,80,False,False,,Wiggins 25' 3PT Step Back Jump Shot (15 PTS),46-52,46,52
+0022100396,2021-12-11,PHI,GSW,26.18,3,9,49,PHI,PHI,fg3_make,79,False,False,Harris 26' 3PT Pullup Jump Shot (10 PTS) (Embiid 3 AST),,49-52,49,52
+0022100396,2021-12-11,PHI,GSW,26.37,3,9,38,GSW,GSW,fg_make,101,False,False,,Green 10' Driving Floating Jump Shot (4 PTS) (Curry 2 AST),49-54,49,54
+0022100396,2021-12-11,PHI,GSW,26.52,3,9,29,PHI,GSW,foul,1,False,False,,Green P.FOUL (P3.T2) (D.Guthrie),49-54,49,54
+0022100396,2021-12-11,PHI,GSW,26.8,3,9,12,PHI,PHI,fg3_make,1,False,False,Embiid 26' 3PT Jump Shot (13 PTS),,52-54,52,54
+0022100396,2021-12-11,PHI,GSW,27.02,3,8,59,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 24' 3PT Jump Shot,52-54,52,54
+0022100396,2021-12-11,PHI,GSW,27.05,3,8,57,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:4),,52-54,52,54
+0022100396,2021-12-11,PHI,GSW,27.1,3,8,54,PHI,PHI,tov,2,False,True,Curry Lost Ball Turnover (P2.T8),,52-54,52,54
+0022100396,2021-12-11,PHI,GSW,27.1,3,8,54,PHI,GSW,steal,2,False,True,steal,steal,52-54,52,54
+0022100396,2021-12-11,PHI,GSW,27.17,3,8,50,GSW,GSW,fg_make,76,False,False,,Wiggins 2' Running Finger Roll Layup (17 PTS) (Poole 2 AST),52-56,52,56
+0022100396,2021-12-11,PHI,GSW,27.48,3,8,31,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,52-56,52,56
+0022100396,2021-12-11,PHI,GSW,27.53,3,8,28,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:2 Def:4),52-56,52,56
+0022100396,2021-12-11,PHI,GSW,27.55,3,8,27,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.3 Short 0),52-56,52,56
+0022100396,2021-12-11,PHI,GSW,27.55,3,8,27,GSW,GSW,tov,37,False,False,,Green Offensive Foul Turnover (P1.T7),52-56,52,56
+0022100396,2021-12-11,PHI,GSW,27.55,3,8,27,PHI,GSW,foul,4,False,False,,Green OFF.Foul (P4) (E.Malloy),52-56,52,56
+0022100396,2021-12-11,PHI,GSW,27.8,3,8,12,PHI,PHI,fg_make,79,False,False,Curry 16' Pullup Jump Shot (6 PTS),,54-56,54,56
+0022100396,2021-12-11,PHI,GSW,28.12,3,7,53,GSW,GSW,fg3_make,1,False,False,,Poole 25' 3PT Jump Shot (13 PTS) (Toscano-Anderson 1 AST),54-59,54,59
+0022100396,2021-12-11,PHI,GSW,28.43,3,7,34,PHI,PHI,fg3_miss,79,False,False,MISS Curry 25' 3PT Pullup Jump Shot,,54-59,54,59
+0022100396,2021-12-11,PHI,GSW,28.48,3,7,31,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:3),54-59,54,59
+0022100396,2021-12-11,PHI,GSW,28.67,3,7,20,GSW,GSW,fg3_make,1,False,False,,Wiggins 24' 3PT Jump Shot (20 PTS) (Toscano-Anderson 2 AST),54-62,54,62
+0022100396,2021-12-11,PHI,GSW,29.08,3,6,55,PHI,PHI,fg_make,63,False,False,Embiid 12' Fadeaway Jumper (15 PTS),,56-62,56,62
+0022100396,2021-12-11,PHI,GSW,29.3,3,6,42,GSW,GSW,ft_make,12,False,False,,Looney Free Throw 2 of 2 (7 PTS),56-63,56,63
+0022100396,2021-12-11,PHI,GSW,29.3,3,6,42,GSW,GSW,ft_miss,11,False,False,,MISS Looney Free Throw 1 of 2,56-62,56,62
+0022100396,2021-12-11,PHI,GSW,29.3,3,6,42,GSW,PHI,foul,2,False,False,Embiid S.FOUL (P2.T3) (E.Malloy),,56-62,56,62
+0022100396,2021-12-11,PHI,GSW,29.3,3,6,42,GSW,GSW,reb,1,False,False,,Warriors Rebound,56-62,56,62
+0022100396,2021-12-11,PHI,GSW,29.63,3,6,22,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,56-63,56,63
+0022100396,2021-12-11,PHI,GSW,29.7,3,6,18,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:7),56-63,56,63
+0022100396,2021-12-11,PHI,GSW,29.82,3,6,11,GSW,GSW,fg3_make,79,False,False,,Poole 25' 3PT Pullup Jump Shot (16 PTS),56-66,56,66
+0022100396,2021-12-11,PHI,GSW,30.17,3,5,50,PHI,PHI,tov,45,False,False,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,56-66,56,66
+0022100396,2021-12-11,PHI,GSW,30.32,3,5,41,GSW,GSW,fg3_make,79,False,False,,Poole 25' 3PT Pullup Jump Shot (19 PTS),56-69,56,69
+0022100396,2021-12-11,PHI,GSW,30.35,3,5,39,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,56-69,56,69
+0022100396,2021-12-11,PHI,GSW,30.47,3,5,32,PHI,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P1.T3) (E.Malloy),56-69,56,69
+0022100396,2021-12-11,PHI,GSW,30.72,3,5,17,PHI,PHI,fg_make,9,False,False,Embiid 1' Driving Dunk (17 PTS) (Harris 2 AST),,58-69,58,69
+0022100396,2021-12-11,PHI,GSW,31.08,3,4,55,GSW,GSW,fg_make,7,False,False,,Looney 2' Dunk (9 PTS) (Curry 3 AST),58-71,58,71
+0022100396,2021-12-11,PHI,GSW,31.37,3,4,38,PHI,PHI,fg3_make,1,False,False,Thybulle 3PT Jump Shot (3 PTS) (Harris 3 AST),,61-71,61,71
+0022100396,2021-12-11,PHI,GSW,31.8,3,4,12,GSW,GSW,tov,45,False,False,,Wiggins Out of Bounds - Bad Pass Turnover Turnover (P2.T8),61-71,61,71
+0022100396,2021-12-11,PHI,GSW,31.98,3,4,1,PHI,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P2.T4) (E.Malloy),61-71,61,71
+0022100396,2021-12-11,PHI,GSW,32.13,3,3,52,PHI,PHI,fg3_miss,1,False,False,MISS Milton 28' 3PT Jump Shot,,61-71,61,71
+0022100396,2021-12-11,PHI,GSW,32.18,3,3,49,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:3),61-71,61,71
+0022100396,2021-12-11,PHI,GSW,32.58,3,3,25,GSW,GSW,fg_make,79,False,False,,Poole 16' Pullup Jump Shot (21 PTS),61-73,61,73
+0022100396,2021-12-11,PHI,GSW,32.78,3,3,13,PHI,GSW,foul,2,False,False,,Wiggins S.FOUL (P2.PN) (D.Guthrie),61-73,61,73
+0022100396,2021-12-11,PHI,GSW,32.78,3,3,13,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (12 PTS),,63-73,63,73
+0022100396,2021-12-11,PHI,GSW,32.78,3,3,13,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (11 PTS),,62-73,62,73
+0022100396,2021-12-11,PHI,GSW,33.05,3,2,57,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 24' 3PT Jump Shot,63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.12,3,2,53,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:1 Def:1),63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.27,3,2,44,GSW,GSW,tov,2,False,True,,Poole Lost Ball Turnover (P2.T9),63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.27,3,2,44,GSW,PHI,steal,2,False,True,steal,steal,63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.43,3,2,34,PHI,GSW,block,5,True,False,block,block,63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.43,3,2,34,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Payton II: Tip to Milton,,63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.43,3,2,34,PHI,PHI,fg_miss,5,True,False,MISS Embiid 4' Layup,,63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.43,3,2,34,PHI,PHI,reb,0,False,False,76ERS Rebound,,63-73,63,73
+0022100396,2021-12-11,PHI,GSW,33.53,3,2,28,PHI,PHI,fg_make,6,False,False,Milton 2' Driving Layup (7 PTS),,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,33.88,3,2,7,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 26' 3PT Jump Shot,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,33.93,3,2,4,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:8),,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,34.05,3,1,57,PHI,PHI,tov,4,False,False,Embiid Traveling Turnover (P3.T10),,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,34.05,3,1,57,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),65-73,65,73
+0022100396,2021-12-11,PHI,GSW,34.45,3,1,33,GSW,GSW,fg3_miss,1,False,False,,MISS Toscano-Anderson 25' 3PT Jump Shot,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,34.45,3,1,33,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:2 Def:3),,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,34.88,3,1,7,PHI,PHI,fg_miss,63,False,False,MISS Milton 10' Fadeaway Jumper,,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,34.92,3,1,5,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:3 Def:3),,65-73,65,73
+0022100396,2021-12-11,PHI,GSW,34.95,3,1,3,PHI,PHI,fg_make,97,False,False,Drummond Tip Layup Shot (6 PTS),,67-73,67,73
+0022100396,2021-12-11,PHI,GSW,35.23,3,0,46,GSW,PHI,foul,1,False,False,Curry P.FOUL (P2.T4) (D.Guthrie),,67-73,67,73
+0022100396,2021-12-11,PHI,GSW,35.4,3,0,36,GSW,GSW,fg3_miss,1,False,False,,MISS Iguodala 25' 3PT Jump Shot,67-73,67,73
+0022100396,2021-12-11,PHI,GSW,35.43,3,0,34,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:3),,67-73,67,73
+0022100396,2021-12-11,PHI,GSW,35.6,3,0,24,PHI,PHI,fg3_make,1,False,False,Korkmaz 24' 3PT Jump Shot (3 PTS) (Green 2 AST),,70-73,70,73
+0022100396,2021-12-11,PHI,GSW,35.98,3,0,1,GSW,GSW,fg3_miss,1,False,False,,MISS Payton II 25' 3PT Jump Shot,70-73,70,73
+0022100396,2021-12-11,PHI,GSW,35.98,3,0,1,GSW,GSW,reb,0,False,False,,Warriors Rebound,70-73,70,73
+0022100396,2021-12-11,PHI,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,70-73,70,73
+0022100396,2021-12-11,PHI,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,70-73,70,73
+0022100396,2021-12-11,PHI,GSW,36.35,4,11,39,PHI,PHI,fg3_make,1,False,False,Niang 26' 3PT Jump Shot (3 PTS) (Korkmaz 1 AST),,73-73,73,73
+0022100396,2021-12-11,PHI,GSW,36.7,4,11,18,GSW,GSW,fg_make,98,False,False,,Payton II 3' Cutting Layup Shot (2 PTS) (Bjelica 1 AST),73-75,73,75
+0022100396,2021-12-11,PHI,GSW,36.8,4,11,12,PHI,PHI,fg_make,41,False,False,Milton 3' Running Layup (9 PTS),,75-75,75,75
+0022100396,2021-12-11,PHI,GSW,36.8,4,11,12,PHI,GSW,foul,2,False,False,,Bjelica S.FOUL (P2.T1) (D.Guthrie),75-75,75,75
+0022100396,2021-12-11,PHI,GSW,36.8,4,11,12,PHI,PHI,ft_make,10,False,False,Milton Free Throw 1 of 1 (10 PTS),,76-75,76,75
+0022100396,2021-12-11,PHI,GSW,37.02,4,10,59,GSW,GSW,fg3_make,1,False,False,,Bjelica 27' 3PT Jump Shot (3 PTS) (Curry 4 AST),76-78,76,78
+0022100396,2021-12-11,PHI,GSW,37.35,4,10,39,PHI,PHI,fg3_miss,79,False,False,MISS Korkmaz 27' 3PT Pullup Jump Shot,,76-78,76,78
+0022100396,2021-12-11,PHI,GSW,37.38,4,10,37,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:2 Def:5),76-78,76,78
+0022100396,2021-12-11,PHI,GSW,37.45,4,10,33,GSW,GSW,fg_miss,41,False,False,,MISS Payton II 2' Running Layup,76-78,76,78
+0022100396,2021-12-11,PHI,GSW,37.53,4,10,28,GSW,GSW,fg_miss,97,False,False,,MISS Porter Jr. Tip Layup Shot,76-78,76,78
+0022100396,2021-12-11,PHI,GSW,37.53,4,10,28,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:2),76-78,76,78
+0022100396,2021-12-11,PHI,GSW,37.53,4,10,28,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,76-78,76,78
+0022100396,2021-12-11,PHI,GSW,37.67,4,10,20,PHI,PHI,fg_make,43,False,False,Drummond 1' Alley Oop Layup (8 PTS) (Milton 2 AST),,78-78,78,78
+0022100396,2021-12-11,PHI,GSW,37.95,4,10,3,GSW,GSW,fg3_miss,1,False,False,,MISS Iguodala 25' 3PT Jump Shot,78-78,78,78
+0022100396,2021-12-11,PHI,GSW,37.98,4,10,1,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:3 Def:4),,78-78,78,78
+0022100396,2021-12-11,PHI,GSW,38.23,4,9,46,PHI,PHI,fg3_make,1,False,False,Thybulle 24' 3PT Jump Shot (6 PTS) (Korkmaz 2 AST),,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.27,4,9,44,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.5 Short 0),81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.48,4,9,31,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 25' 3PT Pullup Jump Shot,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.53,4,9,28,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:3 Def:5),,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.6,4,9,24,PHI,PHI,fg_miss,101,False,False,MISS Korkmaz 2' Driving Floating Jump Shot,,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.62,4,9,23,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:2 Def:6),81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.83,4,9,10,GSW,GSW,tov,2,False,True,,Curry Lost Ball Turnover (P2.T10),81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.83,4,9,10,GSW,PHI,steal,2,False,True,steal,steal,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,38.98,4,9,1,PHI,PHI,tov,40,False,False,Milton Out of Bounds Lost Ball Turnover (P1.T11),,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.2,4,8,48,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P2.T11),81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.2,4,8,48,GSW,PHI,steal,1,False,True,steal,steal,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.27,4,8,44,PHI,PHI,fg_miss,41,False,False,MISS Thybulle 1' Running Layup,,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.3,4,8,42,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:1 Def:2),81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.42,4,8,35,GSW,GSW,fg3_miss,1,False,False,,MISS Iguodala 3PT Jump Shot,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.47,4,8,32,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:3 Def:6),,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.77,4,8,14,PHI,PHI,ft_miss,11,False,False,MISS Drummond Free Throw 1 of 2,,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.77,4,8,14,PHI,PHI,ft_make,12,False,False,Drummond Free Throw 2 of 2 (9 PTS),,82-78,82,78
+0022100396,2021-12-11,PHI,GSW,39.77,4,8,14,PHI,GSW,foul,2,False,False,,Bjelica S.FOUL (P3.T2) (M.Kogut),81-78,81,78
+0022100396,2021-12-11,PHI,GSW,39.77,4,8,14,PHI,PHI,reb,1,False,False,76ERS Rebound,,81-78,81,78
+0022100396,2021-12-11,PHI,GSW,40.02,4,7,59,GSW,GSW,tov,45,False,False,,Curry Out of Bounds - Bad Pass Turnover Turnover (P3.T12),82-78,82,78
+0022100396,2021-12-11,PHI,GSW,40.22,4,7,47,PHI,PHI,fg_miss,79,True,False,MISS Milton 17' Pullup Jump Shot,,82-78,82,78
+0022100396,2021-12-11,PHI,GSW,40.22,4,7,47,PHI,GSW,block,79,True,False,block,block,82-78,82,78
+0022100396,2021-12-11,PHI,GSW,40.27,4,7,44,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:3),,82-78,82,78
+0022100396,2021-12-11,PHI,GSW,40.4,4,7,36,PHI,PHI,fg3_miss,1,False,False,MISS Milton 30' 3PT Jump Shot,,82-78,82,78
+0022100396,2021-12-11,PHI,GSW,40.42,4,7,35,PHI,PHI,reb,0,False,False,76ERS Rebound,,82-78,82,78
+0022100396,2021-12-11,PHI,GSW,40.42,4,7,35,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#12),,82-78,82,78
+0022100396,2021-12-11,PHI,GSW,40.6,4,7,24,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,82-80,82,80
+0022100396,2021-12-11,PHI,GSW,40.6,4,7,24,GSW,GSW,fg_make,9,False,False,,Green Driving Dunk (6 PTS) (Curry 5 AST),82-80,82,80
+0022100396,2021-12-11,PHI,GSW,40.9,4,7,6,PHI,PHI,fg_make,101,False,False,Harris 8' Driving Floating Jump Shot (14 PTS),,84-80,84,80
+0022100396,2021-12-11,PHI,GSW,41.22,4,6,47,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 25' 3PT Jump Shot,84-80,84,80
+0022100396,2021-12-11,PHI,GSW,41.25,4,6,45,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:5),,84-80,84,80
+0022100396,2021-12-11,PHI,GSW,41.53,4,6,28,PHI,PHI,fg3_miss,1,False,False,MISS Milton 26' 3PT Jump Shot,,84-80,84,80
+0022100396,2021-12-11,PHI,GSW,41.57,4,6,26,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:2 Def:7),84-80,84,80
+0022100396,2021-12-11,PHI,GSW,41.63,4,6,22,GSW,GSW,ft_make,11,False,False,,Poole Free Throw 1 of 2 (22 PTS),84-81,84,81
+0022100396,2021-12-11,PHI,GSW,41.63,4,6,22,GSW,PHI,foul,2,False,False,Milton S.FOUL (P2.T1) (E.Malloy),,84-80,84,80
+0022100396,2021-12-11,PHI,GSW,41.63,4,6,22,GSW,GSW,ft_make,12,False,False,,Poole Free Throw 2 of 2 (23 PTS),84-82,84,82
+0022100396,2021-12-11,PHI,GSW,41.87,4,6,8,PHI,PHI,ft_miss,12,False,False,MISS Maxey Free Throw 2 of 2,,85-82,85,82
+0022100396,2021-12-11,PHI,GSW,41.87,4,6,8,PHI,PHI,ft_make,11,False,False,Maxey Free Throw 1 of 2 (12 PTS),,85-82,85,82
+0022100396,2021-12-11,PHI,GSW,41.87,4,6,8,PHI,GSW,foul,2,False,False,,Curry S.FOUL (P1.T3) (M.Kogut),84-82,84,82
+0022100396,2021-12-11,PHI,GSW,41.92,4,6,5,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:4),85-82,85,82
+0022100396,2021-12-11,PHI,GSW,42.05,4,5,57,GSW,GSW,ft_miss,12,False,False,,MISS Green Free Throw 2 of 2,85-83,85,83
+0022100396,2021-12-11,PHI,GSW,42.05,4,5,57,GSW,GSW,ft_make,11,False,False,,Green Free Throw 1 of 2 (7 PTS),85-83,85,83
+0022100396,2021-12-11,PHI,GSW,42.05,4,5,57,GSW,PHI,foul,2,False,False,Harris S.FOUL (P2.T2) (M.Kogut),,85-82,85,82
+0022100396,2021-12-11,PHI,GSW,42.08,4,5,55,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:2),,85-83,85,83
+0022100396,2021-12-11,PHI,GSW,42.33,4,5,40,PHI,PHI,fg_make,1,False,False,Curry 22' Jump Shot (8 PTS),,87-83,87,83
+0022100396,2021-12-11,PHI,GSW,42.63,4,5,22,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 3PT Jump Shot,87-83,87,83
+0022100396,2021-12-11,PHI,GSW,42.67,4,5,20,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:6),,87-83,87,83
+0022100396,2021-12-11,PHI,GSW,42.93,4,5,4,PHI,PHI,fg_make,63,False,False,Embiid 18' Fadeaway Jumper (19 PTS) (Curry 2 AST),,89-83,89,83
+0022100396,2021-12-11,PHI,GSW,43.2,4,4,48,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 25' 3PT Jump Shot,89-83,89,83
+0022100396,2021-12-11,PHI,GSW,43.23,4,4,46,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:9),,89-83,89,83
+0022100396,2021-12-11,PHI,GSW,43.38,4,4,37,PHI,PHI,fg_make,6,False,False,Maxey 1' Driving Layup (14 PTS) (Embiid 4 AST),,91-83,91,83
+0022100396,2021-12-11,PHI,GSW,43.4,4,4,36,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.6 Short 0),91-83,91,83
+0022100396,2021-12-11,PHI,GSW,43.65,4,4,21,GSW,GSW,tov,21,False,False,,Poole Palming Turnover (P3.T13),91-83,91,83
+0022100396,2021-12-11,PHI,GSW,44.05,4,3,57,PHI,GSW,steal,2,False,True,steal,steal,91-83,91,83
+0022100396,2021-12-11,PHI,GSW,44.05,4,3,57,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P4.T13),,91-83,91,83
+0022100396,2021-12-11,PHI,GSW,44.18,4,3,49,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 24' 3PT Jump Shot,91-83,91,83
+0022100396,2021-12-11,PHI,GSW,44.25,4,3,45,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:7),,91-83,91,83
+0022100396,2021-12-11,PHI,GSW,44.57,4,3,26,PHI,PHI,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,91-83,91,83
+0022100396,2021-12-11,PHI,GSW,44.63,4,3,22,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:1 Def:4),,91-83,91,83
+0022100396,2021-12-11,PHI,GSW,44.68,4,3,19,PHI,PHI,fg_make,75,False,False,Curry 4' Driving Finger Roll Layup (10 PTS),,93-83,93,83
+0022100396,2021-12-11,PHI,GSW,44.88,4,3,7,GSW,PHI,foul,28,False,False,Embiid Personal Take Foul (P3.T3) (E.Malloy),,93-83,93,83
+0022100396,2021-12-11,PHI,GSW,44.97,4,3,2,GSW,GSW,fg3_make,1,False,False,,Curry 27' 3PT Jump Shot (18 PTS) (Wiggins 3 AST),93-86,93,86
+0022100396,2021-12-11,PHI,GSW,45.42,4,2,35,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 26' 3PT Jump Shot,,93-86,93,86
+0022100396,2021-12-11,PHI,GSW,45.45,4,2,33,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:0 Def:1),93-86,93,86
+0022100396,2021-12-11,PHI,GSW,45.55,4,2,27,GSW,PHI,block,76,True,False,block,block,93-86,93,86
+0022100396,2021-12-11,PHI,GSW,45.55,4,2,27,GSW,GSW,fg_miss,76,True,False,,MISS Poole 1' Running Finger Roll Layup,93-86,93,86
+0022100396,2021-12-11,PHI,GSW,45.6,4,2,24,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:8),,93-86,93,86
+0022100396,2021-12-11,PHI,GSW,45.77,4,2,14,PHI,PHI,ft_make,10,False,False,Embiid Free Throw 1 of 1 (22 PTS),,96-86,96,86
+0022100396,2021-12-11,PHI,GSW,45.77,4,2,14,PHI,PHI,fg_make,5,False,False,Embiid 2' Layup (21 PTS) (Thybulle 1 AST),,95-86,95,86
+0022100396,2021-12-11,PHI,GSW,45.77,4,2,14,PHI,GSW,foul,2,False,False,,Toscano-Anderson S.FOUL (P3.T4) (M.Kogut),95-86,95,86
+0022100396,2021-12-11,PHI,GSW,45.87,4,2,8,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 25' 3PT Pullup Jump Shot,96-86,96,86
+0022100396,2021-12-11,PHI,GSW,45.88,4,2,7,,PHI,jump_ball,0,False,False, ,,96-86,96,86
+0022100396,2021-12-11,PHI,GSW,45.88,4,2,7,PHI,PHI,timeout,7,False,False,76ERS Timeout: Coach Challenge (Full 4 Short 0),,96-86,96,86
+0022100396,2021-12-11,PHI,GSW,45.88,4,2,7,GSW,GSW,reb,0,False,False,,Warriors Rebound,96-86,96,86
+0022100396,2021-12-11,PHI,GSW,46.08,4,1,55,GSW,GSW,fg3_make,1,False,False,,Porter Jr. 26' 3PT Jump Shot (5 PTS) (Wiggins 4 AST),96-89,96,89
+0022100396,2021-12-11,PHI,GSW,46.4,4,1,36,PHI,PHI,fg_make,1,False,False,Embiid 17' Jump Shot (24 PTS) (Maxey 2 AST),,98-89,98,89
+0022100396,2021-12-11,PHI,GSW,46.6,4,1,24,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 26' 3PT Jump Shot,98-89,98,89
+0022100396,2021-12-11,PHI,GSW,46.6,4,1,24,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:2),,98-89,98,89
+0022100396,2021-12-11,PHI,GSW,46.87,4,1,8,PHI,GSW,foul,2,False,False,,Green S.FOUL (P5.PN) (E.Malloy),98-89,98,89
+0022100396,2021-12-11,PHI,GSW,46.87,4,1,8,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (25 PTS),,99-89,99,89
+0022100396,2021-12-11,PHI,GSW,46.87,4,1,8,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (26 PTS),,100-89,100,89
+0022100396,2021-12-11,PHI,GSW,47.0,4,1,0,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 3PT Jump Shot,100-89,100,89
+0022100396,2021-12-11,PHI,GSW,47.05,4,0,57,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:9),,100-89,100,89
+0022100396,2021-12-11,PHI,GSW,47.23,4,0,46,PHI,GSW,foul,1,False,False,,Porter Jr. P.FOUL (P2.PN) (D.Guthrie),100-89,100,89
+0022100396,2021-12-11,PHI,GSW,47.23,4,0,46,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (15 PTS),,101-89,101,89
+0022100396,2021-12-11,PHI,GSW,47.23,4,0,46,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (16 PTS),,102-89,102,89
+0022100396,2021-12-11,PHI,GSW,47.32,4,0,41,GSW,GSW,fg_make,41,False,False,,Kuminga 2' Running Layup (2 PTS),102-91,102,91
+0022100396,2021-12-11,PHI,GSW,47.53,4,0,28,PHI,GSW,block,6,True,False,block,block,102-91,102,91
+0022100396,2021-12-11,PHI,GSW,47.53,4,0,28,PHI,PHI,fg_miss,6,True,False,MISS Curry 2' Driving Layup,,102-91,102,91
+0022100396,2021-12-11,PHI,GSW,47.53,4,0,28,GSW,GSW,reb,0,False,False,,Warriors Rebound,102-91,102,91
+0022100396,2021-12-11,PHI,GSW,47.68,4,0,19,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 26' 3PT Jump Shot,102-91,102,91
+0022100396,2021-12-11,PHI,GSW,47.75,4,0,15,GSW,GSW,fg_make,107,False,False,,Payton II Tip Dunk Shot (4 PTS),102-93,102,93
+0022100396,2021-12-11,PHI,GSW,47.75,4,0,15,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:2 Def:1),102-91,102,91
+0022100396,2021-12-11,PHI,GSW,48.0,4,0,0,GSW,,period_end,0,False,False,,,102-93,102,93

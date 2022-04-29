@@ -1,0 +1,406 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100490,2021-12-25,PHX,GSW,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100490,2021-12-25,PHX,GSW,0.0,1,12,0,,PHX,jump_ball,0,False,False,Jump Ball Ayton vs. Looney: Tip to Payton II,,0-0,0,0
+0022100490,2021-12-25,PHX,GSW,0.33,1,11,40,GSW,GSW,fg3_make,1,False,False,,Green 26' 3PT Jump Shot (3 PTS) (Looney 1 AST),0-3,0,3
+0022100490,2021-12-25,PHX,GSW,0.73,1,11,16,PHX,PHX,fg_miss,3,False,False,MISS Ayton 7' Hook Shot,,0-3,0,3
+0022100490,2021-12-25,PHX,GSW,0.78,1,11,13,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:1),0-3,0,3
+0022100490,2021-12-25,PHX,GSW,0.88,1,11,7,GSW,GSW,fg3_make,80,False,False,,Curry 27' 3PT Step Back Jump Shot (3 PTS),0-6,0,6
+0022100490,2021-12-25,PHX,GSW,1.13,1,10,52,PHX,PHX,fg3_make,1,False,False,Crowder 3PT Jump Shot (3 PTS) (Bridges 1 AST),,3-6,3,6
+0022100490,2021-12-25,PHX,GSW,1.5,1,10,30,GSW,GSW,fg_make,80,False,False,,Porter Jr. 17' Step Back Jump Shot (2 PTS) (Green 1 AST),3-8,3,8
+0022100490,2021-12-25,PHX,GSW,1.7,1,10,18,PHX,PHX,fg_make,86,False,False,Ayton 12' Turnaround Fadeaway (2 PTS) (Paul 1 AST),,5-8,5,8
+0022100490,2021-12-25,PHX,GSW,1.95,1,10,3,GSW,GSW,fg_make,98,False,False,,Payton II 1' Cutting Layup Shot (2 PTS) (Green 2 AST),5-10,5,10
+0022100490,2021-12-25,PHX,GSW,2.17,1,9,50,PHX,PHX,fg3_miss,1,False,False,MISS Crowder 27' 3PT Jump Shot,,5-10,5,10
+0022100490,2021-12-25,PHX,GSW,2.22,1,9,47,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:0 Def:1),5-10,5,10
+0022100490,2021-12-25,PHX,GSW,2.33,1,9,40,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 24' 3PT Jump Shot,5-10,5,10
+0022100490,2021-12-25,PHX,GSW,2.37,1,9,38,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:0),5-10,5,10
+0022100490,2021-12-25,PHX,GSW,2.47,1,9,32,GSW,PHX,foul,2,False,False,Crowder S.FOUL (P1.T1) (D.Guthrie),,5-10,5,10
+0022100490,2021-12-25,PHX,GSW,2.47,1,9,32,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (4 PTS),5-11,5,11
+0022100490,2021-12-25,PHX,GSW,2.47,1,9,32,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (5 PTS),5-12,5,12
+0022100490,2021-12-25,PHX,GSW,2.67,1,9,20,PHX,PHX,fg3_make,1,False,False,Booker 24' 3PT Jump Shot (3 PTS) (Crowder 1 AST),,8-12,8,12
+0022100490,2021-12-25,PHX,GSW,2.85,1,9,9,GSW,PHX,foul,2,False,False,Crowder S.FOUL (P2.T2) (R.Acosta),,8-12,8,12
+0022100490,2021-12-25,PHX,GSW,2.85,1,9,9,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (6 PTS),8-13,8,13
+0022100490,2021-12-25,PHX,GSW,2.85,1,9,9,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (7 PTS),8-14,8,14
+0022100490,2021-12-25,PHX,GSW,3.1,1,8,54,PHX,PHX,fg_make,3,False,False,Ayton 5' Hook Shot (4 PTS) (Paul 2 AST),,10-14,10,14
+0022100490,2021-12-25,PHX,GSW,3.28,1,8,43,GSW,GSW,fg_make,5,False,False,,Looney 1' Layup (2 PTS) (Green 3 AST),10-16,10,16
+0022100490,2021-12-25,PHX,GSW,3.48,1,8,31,PHX,PHX,fg_make,79,False,False,Paul 13' Pullup Jump Shot (2 PTS),,12-16,12,16
+0022100490,2021-12-25,PHX,GSW,3.75,1,8,15,GSW,GSW,fg_make,80,False,False,,Curry 15' Step Back Jump Shot (9 PTS),12-18,12,18
+0022100490,2021-12-25,PHX,GSW,3.9,1,8,6,PHX,GSW,foul,1,False,False,,Curry P.FOUL (P1.T1) (R.Acosta),12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.05,1,7,57,PHX,PHX,fg3_miss,1,False,False,MISS Crowder 3PT Jump Shot,,12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.08,1,7,55,PHX,PHX,reb,0,False,False,SUNS Rebound,,12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.12,1,7,53,PHX,PHX,fg3_miss,1,False,False,MISS Booker 24' 3PT Jump Shot,,12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.18,1,7,49,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.23,1,7,46,GSW,GSW,fg3_miss,103,False,False,,MISS Curry 31' 3PT Running Pull-Up Jump Shot,12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.3,1,7,42,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.58,1,7,25,PHX,PHX,fg_miss,6,False,False,MISS Booker 2' Driving Layup,,12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.6,1,7,24,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:0),,12-18,12,18
+0022100490,2021-12-25,PHX,GSW,4.63,1,7,22,PHX,PHX,fg_make,72,False,False,Ayton Putback Layup (6 PTS),,14-18,14,18
+0022100490,2021-12-25,PHX,GSW,4.88,1,7,7,GSW,PHX,foul,1,False,False,Booker P.FOUL (P1.T3) (R.Acosta),,14-18,14,18
+0022100490,2021-12-25,PHX,GSW,4.97,1,7,2,GSW,GSW,fg_make,98,False,False,,Curry 1' Cutting Layup Shot (11 PTS) (Green 4 AST),14-20,14,20
+0022100490,2021-12-25,PHX,GSW,4.97,1,7,2,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 1 Short 0),,14-20,14,20
+0022100490,2021-12-25,PHX,GSW,5.23,1,6,46,PHX,PHX,fg_miss,79,False,False,MISS Booker 20' Pullup Jump Shot,,14-20,14,20
+0022100490,2021-12-25,PHX,GSW,5.3,1,6,42,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:2),14-20,14,20
+0022100490,2021-12-25,PHX,GSW,5.6,1,6,24,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 25' 3PT Jump Shot,14-20,14,20
+0022100490,2021-12-25,PHX,GSW,5.7,1,6,18,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:1),14-20,14,20
+0022100490,2021-12-25,PHX,GSW,5.7,1,6,18,GSW,GSW,fg_make,107,False,False,,Payton II Tip Dunk Shot (4 PTS),14-22,14,22
+0022100490,2021-12-25,PHX,GSW,5.8,1,6,12,PHX,PHX,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (3 PTS) (Crowder 2 AST),,17-22,17,22
+0022100490,2021-12-25,PHX,GSW,6.12,1,5,53,GSW,GSW,fg_make,98,False,False,,Payton II Cutting Layup Shot (6 PTS) (Green 5 AST),17-24,17,24
+0022100490,2021-12-25,PHX,GSW,6.38,1,5,37,PHX,PHX,fg_make,5,False,False,Ayton 2' Layup (8 PTS) (Paul 3 AST),,19-24,19,24
+0022100490,2021-12-25,PHX,GSW,6.62,1,5,23,GSW,GSW,fg3_miss,1,False,False,,MISS Payton II 27' 3PT Jump Shot,19-24,19,24
+0022100490,2021-12-25,PHX,GSW,6.72,1,5,17,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:2),,19-24,19,24
+0022100490,2021-12-25,PHX,GSW,6.82,1,5,11,PHX,GSW,foul,1,False,False,,Porter Jr. P.FOUL (P1.T2) (D.Guthrie),19-24,19,24
+0022100490,2021-12-25,PHX,GSW,6.93,1,5,4,PHX,PHX,tov,2,False,True,Payne Lost Ball Turnover (P1.T1),,19-24,19,24
+0022100490,2021-12-25,PHX,GSW,6.93,1,5,4,PHX,GSW,steal,2,False,True,steal,steal,19-24,19,24
+0022100490,2021-12-25,PHX,GSW,7.28,1,4,43,GSW,GSW,fg_make,6,False,False,,Toscano-Anderson 1' Driving Layup (2 PTS) (Curry 1 AST),19-26,19,26
+0022100490,2021-12-25,PHX,GSW,7.62,1,4,23,PHX,GSW,foul,1,False,False,,Looney P.FOUL (P1.T3) (C.Blair),19-26,19,26
+0022100490,2021-12-25,PHX,GSW,7.83,1,4,10,PHX,GSW,block,1,True,False,block,block,19-26,19,26
+0022100490,2021-12-25,PHX,GSW,7.83,1,4,10,PHX,PHX,fg3_miss,1,True,False,MISS Johnson 24' 3PT Jump Shot,,19-26,19,26
+0022100490,2021-12-25,PHX,GSW,7.88,1,4,7,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:0 Def:1),19-26,19,26
+0022100490,2021-12-25,PHX,GSW,7.97,1,4,2,GSW,GSW,fg_miss,41,False,False,,MISS Green 3' Running Layup,19-26,19,26
+0022100490,2021-12-25,PHX,GSW,8.02,1,3,59,PHX,PHX,tov,2,False,True,Bridges Lost Ball Turnover (P1.T2),,19-26,19,26
+0022100490,2021-12-25,PHX,GSW,8.02,1,3,59,PHX,GSW,steal,2,False,True,steal,steal,19-26,19,26
+0022100490,2021-12-25,PHX,GSW,8.02,1,3,59,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:3),,19-26,19,26
+0022100490,2021-12-25,PHX,GSW,8.08,1,3,55,GSW,GSW,fg_make,5,False,False,,Toscano-Anderson 1' Layup (4 PTS) (Green 6 AST),19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.32,1,3,41,PHX,PHX,fg_miss,79,False,False,MISS Booker 14' Pullup Jump Shot,,19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.32,1,3,41,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.62,1,3,23,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P1.T1),19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.62,1,3,23,GSW,PHX,steal,1,False,True,steal,steal,19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.78,1,3,13,GSW,PHX,foul,26,False,False,Payne Offensive Charge Foul (P1) (D.Guthrie),,19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.78,1,3,13,PHX,PHX,tov,37,False,False,Payne Offensive Foul Turnover (P2.T3),,19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.78,1,3,13,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.1 Short 0),19-28,19,28
+0022100490,2021-12-25,PHX,GSW,8.97,1,3,2,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 27' 3PT Jump Shot,19-28,19,28
+0022100490,2021-12-25,PHX,GSW,9.05,1,2,57,PHX,PHX,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,19-28,19,28
+0022100490,2021-12-25,PHX,GSW,9.27,1,2,44,PHX,PHX,fg_make,3,False,False,McGee 3' Hook Shot (2 PTS) (Johnson 1 AST),,21-28,21,28
+0022100490,2021-12-25,PHX,GSW,9.53,1,2,28,GSW,PHX,foul,1,False,False,Payne P.FOUL (P2.T4) (R.Acosta),,21-28,21,28
+0022100490,2021-12-25,PHX,GSW,9.78,1,2,13,GSW,GSW,fg_miss,86,False,False,,MISS Chiozza 10' Turnaround Fadeaway Shot,21-28,21,28
+0022100490,2021-12-25,PHX,GSW,9.83,1,2,10,PHX,PHX,reb,0,False,False,McGee REBOUND (Off:0 Def:2),,21-28,21,28
+0022100490,2021-12-25,PHX,GSW,9.88,1,2,7,PHX,PHX,tov,1,False,True,Payne Bad Pass Turnover (P3.T4),,21-28,21,28
+0022100490,2021-12-25,PHX,GSW,9.88,1,2,7,PHX,GSW,steal,1,False,True,steal,steal,21-28,21,28
+0022100490,2021-12-25,PHX,GSW,10.23,1,1,46,GSW,GSW,fg_make,78,False,False,,Bjelica 1' Floating Jump Shot (2 PTS) (Toscano-Anderson 1 AST),21-30,21,30
+0022100490,2021-12-25,PHX,GSW,10.55,1,1,27,PHX,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P1.T4) (D.Guthrie),21-30,21,30
+0022100490,2021-12-25,PHX,GSW,10.6,1,1,24,PHX,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P2.PN) (D.Guthrie),21-30,21,30
+0022100490,2021-12-25,PHX,GSW,10.6,1,1,24,PHX,PHX,ft_make,12,False,False,Paul Free Throw 2 of 2 (4 PTS),,23-30,23,30
+0022100490,2021-12-25,PHX,GSW,10.6,1,1,24,PHX,PHX,ft_make,11,False,False,Paul Free Throw 1 of 2 (3 PTS),,22-30,22,30
+0022100490,2021-12-25,PHX,GSW,10.83,1,1,10,GSW,GSW,ft_make,12,False,False,,Kuminga Free Throw 2 of 2 (1 PTS),23-31,23,31
+0022100490,2021-12-25,PHX,GSW,10.83,1,1,10,GSW,GSW,ft_miss,11,False,False,,MISS Kuminga Free Throw 1 of 2,23-30,23,30
+0022100490,2021-12-25,PHX,GSW,10.83,1,1,10,GSW,PHX,foul,2,False,False,Shamet S.FOUL (P1.PN) (R.Acosta),,23-30,23,30
+0022100490,2021-12-25,PHX,GSW,10.83,1,1,10,GSW,GSW,reb,1,False,False,,Warriors Rebound,23-30,23,30
+0022100490,2021-12-25,PHX,GSW,11.0,1,1,0,PHX,PHX,tov,1,False,True,Payne Bad Pass Turnover (P4.T5),,23-31,23,31
+0022100490,2021-12-25,PHX,GSW,11.0,1,1,0,PHX,GSW,steal,1,False,True,steal,steal,23-31,23,31
+0022100490,2021-12-25,PHX,GSW,11.05,1,0,57,GSW,GSW,fg_make,41,False,False,,Weatherspoon 1' Running Layup (2 PTS) (Toscano-Anderson 2 AST),23-33,23,33
+0022100490,2021-12-25,PHX,GSW,11.22,1,0,47,PHX,PHX,fg_miss,6,True,False,MISS Payne 5' Driving Layup,,23-33,23,33
+0022100490,2021-12-25,PHX,GSW,11.22,1,0,47,PHX,GSW,block,6,True,False,block,block,23-33,23,33
+0022100490,2021-12-25,PHX,GSW,11.23,1,0,46,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:1 Def:0),,23-33,23,33
+0022100490,2021-12-25,PHX,GSW,11.25,1,0,45,PHX,PHX,fg_make,72,False,False,Paul 1' Putback Layup (6 PTS),,25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.5,1,0,30,GSW,GSW,fg_miss,6,False,False,,MISS Chiozza 4' Driving Layup,25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.52,1,0,29,PHX,PHX,reb,0,False,False,McGee REBOUND (Off:0 Def:3),,25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.53,1,0,28,PHX,GSW,steal,1,False,True,steal,steal,25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.53,1,0,28,PHX,PHX,tov,1,False,True,McGee Bad Pass Turnover (P1.T6),,25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.6,1,0,24,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 25' 3PT Jump Shot,25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.6,1,0,24,PHX,PHX,reb,0,False,False,McGee REBOUND (Off:0 Def:4),,25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.7,1,0,18,PHX,GSW,foul,1,False,False,,Kuminga P.FOUL (P1.PN) (C.Blair),25-33,25,33
+0022100490,2021-12-25,PHX,GSW,11.7,1,0,18,PHX,PHX,ft_make,11,False,False,Paul Free Throw 1 of 2 (7 PTS),,26-33,26,33
+0022100490,2021-12-25,PHX,GSW,11.7,1,0,18,PHX,PHX,ft_make,12,False,False,Paul Free Throw 2 of 2 (8 PTS),,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,11.98,1,0,1,GSW,GSW,tov,45,False,False,,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T2),27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.0,2,12,0,PHX,,period_start,0,False,False,,,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.0,1,0,0,PHX,,period_end,0,False,False,,,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.0,1,0,0,PHX,PHX,reb,0,False,False,SUNS Rebound,,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.0,1,0,0,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 46' 3PT Jump Shot,,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.18,2,11,49,PHX,GSW,foul,1,False,False,,Weatherspoon P.FOUL (P1.T1) (D.Guthrie),27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.43,2,11,34,PHX,PHX,fg_miss,101,False,False,MISS Payne 11' Driving Floating Jump Shot,,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.5,2,11,30,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:2),27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.7,2,11,18,GSW,GSW,fg_miss,1,True,False,,MISS Kuminga 11' Jump Shot,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.7,2,11,18,GSW,PHX,block,1,True,False,block,block,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.73,2,11,16,PHX,PHX,reb,0,False,False,McGee REBOUND (Off:0 Def:5),,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.8,2,11,12,PHX,PHX,fg3_miss,103,False,False,MISS Shamet 29' 3PT Running Pull-Up Jump Shot,,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.8,2,11,12,GSW,GSW,reb,0,False,False,,Warriors Rebound,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,12.93,2,11,4,GSW,GSW,ft_make,11,False,False,,Bjelica Free Throw 1 of 2 (3 PTS),27-34,27,34
+0022100490,2021-12-25,PHX,GSW,12.93,2,11,4,GSW,GSW,ft_make,12,False,False,,Bjelica Free Throw 2 of 2 (4 PTS),27-35,27,35
+0022100490,2021-12-25,PHX,GSW,12.93,2,11,4,GSW,PHX,foul,2,False,False,Paul S.FOUL (P1.T1) (C.Blair),,27-33,27,33
+0022100490,2021-12-25,PHX,GSW,13.17,2,10,50,PHX,GSW,steal,1,False,True,steal,steal,27-35,27,35
+0022100490,2021-12-25,PHX,GSW,13.17,2,10,50,PHX,PHX,tov,1,False,True,Payne Bad Pass Turnover (P5.T7),,27-35,27,35
+0022100490,2021-12-25,PHX,GSW,13.23,2,10,46,GSW,GSW,fg_make,50,False,False,,Kuminga 1' Running Dunk (3 PTS) (Curry 2 AST),27-37,27,37
+0022100490,2021-12-25,PHX,GSW,13.55,2,10,27,PHX,PHX,fg_make,108,False,False,McGee 2' Cutting Dunk Shot (4 PTS) (Payne 1 AST),,29-37,29,37
+0022100490,2021-12-25,PHX,GSW,13.8,2,10,12,GSW,GSW,tov,37,False,False,,Weatherspoon Offensive Foul Turnover (P1.T3),29-37,29,37
+0022100490,2021-12-25,PHX,GSW,13.8,2,10,12,PHX,GSW,foul,4,False,False,,Weatherspoon OFF.Foul (P2) (R.Acosta),29-37,29,37
+0022100490,2021-12-25,PHX,GSW,13.98,2,10,1,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 28' 3PT Jump Shot,,29-37,29,37
+0022100490,2021-12-25,PHX,GSW,14.02,2,9,59,PHX,GSW,foul,2,False,False,,Porter Jr. S.FOUL (P2.T2) (C.Blair),29-37,29,37
+0022100490,2021-12-25,PHX,GSW,14.02,2,9,59,PHX,PHX,reb,0,False,False,McGee REBOUND (Off:1 Def:5),,29-37,29,37
+0022100490,2021-12-25,PHX,GSW,14.02,2,9,59,PHX,PHX,ft_make,11,False,False,McGee Free Throw 1 of 2 (5 PTS),,30-37,30,37
+0022100490,2021-12-25,PHX,GSW,14.02,2,9,59,PHX,PHX,ft_make,12,False,False,McGee Free Throw 2 of 2 (6 PTS),,31-37,31,37
+0022100490,2021-12-25,PHX,GSW,14.38,2,9,37,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 26' 3PT Jump Shot,31-37,31,37
+0022100490,2021-12-25,PHX,GSW,14.43,2,9,34,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:0 Def:1),,31-37,31,37
+0022100490,2021-12-25,PHX,GSW,14.67,2,9,20,PHX,PHX,fg3_miss,1,False,False,MISS Paul 29' 3PT Jump Shot,,31-37,31,37
+0022100490,2021-12-25,PHX,GSW,14.73,2,9,16,GSW,GSW,reb,0,False,False,,Kuminga REBOUND (Off:0 Def:1),31-37,31,37
+0022100490,2021-12-25,PHX,GSW,14.98,2,9,1,GSW,GSW,fg_make,108,False,False,,Weatherspoon 1' Cutting Dunk Shot (4 PTS) (Curry 3 AST),31-39,31,39
+0022100490,2021-12-25,PHX,GSW,15.23,2,8,46,PHX,PHX,fg3_make,1,False,False,Bridges 29' 3PT Jump Shot (6 PTS) (Booker 1 AST),,34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.43,2,8,34,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 27' 3PT Pullup Jump Shot,34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.47,2,8,32,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:1 Def:1),,34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.52,2,8,29,PHX,GSW,foul,1,False,False,,Bjelica P.FOUL (P1.T3) (D.Guthrie),34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.77,2,8,14,PHX,PHX,fg_miss,86,False,False,MISS Paul 13' Turnaround Fadeaway Shot,,34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.82,2,8,11,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:2),34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.93,2,8,4,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.93,2,8,4,PHX,PHX,tov,39,False,False,Booker Step Out of Bounds Turnover (P1.T8),,34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.93,2,8,4,GSW,PHX,steal,1,False,True,steal,steal,34-39,34,39
+0022100490,2021-12-25,PHX,GSW,15.93,2,8,4,GSW,GSW,tov,1,False,True,,Payton II Bad Pass Turnover (P1.T4),34-39,34,39
+0022100490,2021-12-25,PHX,GSW,16.3,2,7,42,GSW,GSW,fg_miss,101,False,False,,MISS Bjelica 14' Driving Floating Jump Shot,34-39,34,39
+0022100490,2021-12-25,PHX,GSW,16.35,2,7,39,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:2),34-39,34,39
+0022100490,2021-12-25,PHX,GSW,16.47,2,7,32,GSW,GSW,fg3_make,80,False,False,,Curry 28' 3PT Step Back Jump Shot (14 PTS) (Porter Jr. 1 AST),34-42,34,42
+0022100490,2021-12-25,PHX,GSW,16.83,2,7,10,PHX,PHX,fg_make,79,False,False,Crowder 24' Pullup Jump Shot (5 PTS) (Paul 4 AST),,36-42,36,42
+0022100490,2021-12-25,PHX,GSW,17.07,2,6,56,GSW,GSW,fg_miss,80,False,False,,MISS Curry 20' Step Back Jump Shot,36-42,36,42
+0022100490,2021-12-25,PHX,GSW,17.1,2,6,54,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:0 Def:2),,36-42,36,42
+0022100490,2021-12-25,PHX,GSW,17.25,2,6,45,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,36-42,36,42
+0022100490,2021-12-25,PHX,GSW,17.3,2,6,42,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:1 Def:2),,36-42,36,42
+0022100490,2021-12-25,PHX,GSW,17.33,2,6,40,PHX,PHX,ft_make,10,False,False,Booker Free Throw 1 of 1 (6 PTS),,39-42,39,42
+0022100490,2021-12-25,PHX,GSW,17.33,2,6,40,PHX,GSW,foul,2,False,False,,Bjelica S.FOUL (P2.T4) (R.Acosta),38-42,38,42
+0022100490,2021-12-25,PHX,GSW,17.33,2,6,40,PHX,PHX,fg_make,5,False,False,Booker Layup (5 PTS),,38-42,38,42
+0022100490,2021-12-25,PHX,GSW,17.53,2,6,28,GSW,GSW,fg_miss,78,False,False,,MISS Curry 19' Floating Jump Shot,39-42,39,42
+0022100490,2021-12-25,PHX,GSW,17.58,2,6,25,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:4),,39-42,39,42
+0022100490,2021-12-25,PHX,GSW,17.67,2,6,20,PHX,GSW,foul,2,False,False,,Looney S.FOUL (P2.PN) (C.Blair),39-42,39,42
+0022100490,2021-12-25,PHX,GSW,17.67,2,6,20,PHX,PHX,ft_make,11,False,False,Bridges Free Throw 1 of 2 (7 PTS),,40-42,40,42
+0022100490,2021-12-25,PHX,GSW,17.67,2,6,20,PHX,PHX,ft_make,12,False,False,Bridges Free Throw 2 of 2 (8 PTS),,41-42,41,42
+0022100490,2021-12-25,PHX,GSW,17.93,2,6,4,GSW,PHX,foul,1,False,False,Bridges P.FOUL (P1.T2) (C.Blair),,41-42,41,42
+0022100490,2021-12-25,PHX,GSW,18.17,2,5,50,GSW,GSW,fg_miss,63,False,False,,MISS Chiozza 13' Fadeaway Jumper,41-42,41,42
+0022100490,2021-12-25,PHX,GSW,18.22,2,5,47,PHX,PHX,reb,0,False,False,Crowder REBOUND (Off:0 Def:1),,41-42,41,42
+0022100490,2021-12-25,PHX,GSW,18.45,2,5,33,PHX,PHX,fg_make,3,False,False,Ayton 10' Hook Shot (10 PTS),,43-42,43,42
+0022100490,2021-12-25,PHX,GSW,18.85,2,5,9,GSW,GSW,fg_miss,1,False,False,,MISS Looney 20' Jump Shot,43-42,43,42
+0022100490,2021-12-25,PHX,GSW,18.88,2,5,7,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:1 Def:2),,43-42,43,42
+0022100490,2021-12-25,PHX,GSW,19.0,2,5,0,PHX,PHX,fg_make,79,False,False,Paul 12' Pullup Jump Shot (10 PTS),,45-42,45,42
+0022100490,2021-12-25,PHX,GSW,19.33,2,4,40,GSW,GSW,fg3_make,1,False,False,,Payton II 24' 3PT Jump Shot (9 PTS) (Toscano-Anderson 3 AST),45-45,45,45
+0022100490,2021-12-25,PHX,GSW,19.55,2,4,27,PHX,PHX,ft_make,11,False,False,Ayton Free Throw 1 of 2 (11 PTS),,46-45,46,45
+0022100490,2021-12-25,PHX,GSW,19.55,2,4,27,PHX,PHX,ft_make,12,False,False,Ayton Free Throw 2 of 2 (12 PTS),,47-45,47,45
+0022100490,2021-12-25,PHX,GSW,19.55,2,4,27,PHX,GSW,foul,1,False,False,,Toscano-Anderson P.FOUL (P3.PN) (D.Guthrie),45-45,45,45
+0022100490,2021-12-25,PHX,GSW,19.77,2,4,14,GSW,PHX,steal,1,False,True,steal,steal,47-45,47,45
+0022100490,2021-12-25,PHX,GSW,19.77,2,4,14,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P3.T5),47-45,47,45
+0022100490,2021-12-25,PHX,GSW,19.83,2,4,10,PHX,PHX,fg_miss,41,False,False,MISS Booker 7' Running Layup,,47-45,47,45
+0022100490,2021-12-25,PHX,GSW,19.87,2,4,8,PHX,PHX,fg_make,72,False,False,Ayton 1' Putback Layup (14 PTS),,49-45,49,45
+0022100490,2021-12-25,PHX,GSW,19.87,2,4,8,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:2 Def:0),,47-45,47,45
+0022100490,2021-12-25,PHX,GSW,19.93,2,4,4,PHX,GSW,foul,11,False,False,,Green T.FOUL (P0.PN) (D.Guthrie),49-45,49,45
+0022100490,2021-12-25,PHX,GSW,19.93,2,4,4,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.3 Short 0),49-45,49,45
+0022100490,2021-12-25,PHX,GSW,19.93,2,4,4,PHX,PHX,ft_make,16,False,False,Paul Free Throw Technical (11 PTS),,50-45,50,45
+0022100490,2021-12-25,PHX,GSW,20.22,2,3,47,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,50-45,50,45
+0022100490,2021-12-25,PHX,GSW,20.28,2,3,43,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:0),50-45,50,45
+0022100490,2021-12-25,PHX,GSW,20.28,2,3,43,GSW,PHX,foul,2,False,False,Ayton S.FOUL (P1.T3) (D.Guthrie),,50-45,50,45
+0022100490,2021-12-25,PHX,GSW,20.28,2,3,43,GSW,GSW,ft_make,11,False,False,,Looney Free Throw 1 of 2 (3 PTS),50-46,50,46
+0022100490,2021-12-25,PHX,GSW,20.28,2,3,43,GSW,GSW,ft_make,12,False,False,,Looney Free Throw 2 of 2 (4 PTS),50-47,50,47
+0022100490,2021-12-25,PHX,GSW,20.58,2,3,25,PHX,PHX,fg_miss,63,False,False,MISS Crowder 7' Fadeaway Jumper,,50-47,50,47
+0022100490,2021-12-25,PHX,GSW,20.65,2,3,21,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:1),50-47,50,47
+0022100490,2021-12-25,PHX,GSW,20.75,2,3,15,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,50-47,50,47
+0022100490,2021-12-25,PHX,GSW,20.8,2,3,12,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:3 Def:1),50-47,50,47
+0022100490,2021-12-25,PHX,GSW,20.8,2,3,12,GSW,GSW,fg_miss,5,False,False,,MISS Looney 5' Layup,50-47,50,47
+0022100490,2021-12-25,PHX,GSW,20.87,2,3,8,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:2 Def:1),,50-47,50,47
+0022100490,2021-12-25,PHX,GSW,20.98,2,3,1,PHX,PHX,fg_make,80,False,False,Booker 10' Step Back Jump Shot (8 PTS),,52-47,52,47
+0022100490,2021-12-25,PHX,GSW,21.07,2,2,56,GSW,PHX,violation,5,False,False,Bridges Violation:Kicked Ball (D.Guthrie),,52-47,52,47
+0022100490,2021-12-25,PHX,GSW,21.27,2,2,44,GSW,GSW,fg3_make,1,False,False,,Payton II 26' 3PT Jump Shot (12 PTS) (Curry 4 AST),52-50,52,50
+0022100490,2021-12-25,PHX,GSW,21.53,2,2,28,PHX,PHX,fg_make,79,False,False,Bridges 17' Pullup Jump Shot (10 PTS),,54-50,54,50
+0022100490,2021-12-25,PHX,GSW,21.9,2,2,6,GSW,GSW,fg3_make,1,False,False,,Kuminga 24' 3PT Jump Shot (6 PTS) (Green 7 AST),54-53,54,53
+0022100490,2021-12-25,PHX,GSW,22.25,2,1,45,PHX,PHX,fg3_miss,1,False,False,MISS Crowder 26' 3PT Jump Shot,,54-53,54,53
+0022100490,2021-12-25,PHX,GSW,22.32,2,1,41,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:3 Def:2),54-53,54,53
+0022100490,2021-12-25,PHX,GSW,22.42,2,1,35,GSW,GSW,fg3_make,80,False,False,,Curry 28' 3PT Step Back Jump Shot (17 PTS),54-56,54,56
+0022100490,2021-12-25,PHX,GSW,22.68,2,1,19,PHX,PHX,fg_miss,101,False,False,MISS Payne 3' Driving Floating Jump Shot,,54-56,54,56
+0022100490,2021-12-25,PHX,GSW,22.72,2,1,17,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:3 Def:1),,54-56,54,56
+0022100490,2021-12-25,PHX,GSW,22.75,2,1,15,PHX,PHX,fg3_make,1,False,False,Bridges 24' 3PT Jump Shot (13 PTS) (Ayton 1 AST),,57-56,57,56
+0022100490,2021-12-25,PHX,GSW,22.97,2,1,2,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,57-56,57,56
+0022100490,2021-12-25,PHX,GSW,23.02,2,0,59,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:3 Def:2),,57-56,57,56
+0022100490,2021-12-25,PHX,GSW,23.12,2,0,53,PHX,PHX,fg_miss,79,True,False,MISS Booker 16' Pullup Jump Shot,,57-56,57,56
+0022100490,2021-12-25,PHX,GSW,23.12,2,0,53,PHX,GSW,block,79,True,False,block,block,57-56,57,56
+0022100490,2021-12-25,PHX,GSW,23.13,2,0,52,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:3),57-56,57,56
+0022100490,2021-12-25,PHX,GSW,23.2,2,0,48,GSW,PHX,foul,2,False,False,Booker S.FOUL (P2.T4) (C.Blair),,57-56,57,56
+0022100490,2021-12-25,PHX,GSW,23.2,2,0,48,GSW,GSW,ft_make,11,False,False,,Kuminga Free Throw 1 of 2 (7 PTS),57-57,57,57
+0022100490,2021-12-25,PHX,GSW,23.2,2,0,48,GSW,GSW,ft_make,12,False,False,,Kuminga Free Throw 2 of 2 (8 PTS),57-58,57,58
+0022100490,2021-12-25,PHX,GSW,23.4,2,0,36,PHX,PHX,fg_make,75,False,False,Paul 7' Driving Finger Roll Layup (13 PTS),,59-58,59,58
+0022100490,2021-12-25,PHX,GSW,23.78,2,0,13,GSW,GSW,fg_miss,6,True,False,,MISS Curry 5' Driving Layup,59-58,59,58
+0022100490,2021-12-25,PHX,GSW,23.78,2,0,13,GSW,PHX,block,6,True,False,block,block,59-58,59,58
+0022100490,2021-12-25,PHX,GSW,23.8,2,0,12,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#6),59-58,59,58
+0022100490,2021-12-25,PHX,GSW,23.8,2,0,12,GSW,GSW,reb,0,False,False,,Warriors Rebound,59-58,59,58
+0022100490,2021-12-25,PHX,GSW,23.95,2,0,3,PHX,PHX,fg3_make,79,False,False,Paul 28' 3PT Pullup Jump Shot (16 PTS),,62-58,62,58
+0022100490,2021-12-25,PHX,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,62-58,62,58
+0022100490,2021-12-25,PHX,GSW,24.0,3,12,0,GSW,,period_start,0,False,False,,,62-58,62,58
+0022100490,2021-12-25,PHX,GSW,24.0,2,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,62-58,62,58
+0022100490,2021-12-25,PHX,GSW,24.0,2,0,0,GSW,GSW,fg3_miss,1,False,False,,MISS Green 50' 3PT Jump Shot,62-58,62,58
+0022100490,2021-12-25,PHX,GSW,24.32,3,11,41,PHX,PHX,tov,1,False,True,Paul Bad Pass Turnover (P1.T9),,62-58,62,58
+0022100490,2021-12-25,PHX,GSW,24.32,3,11,41,PHX,GSW,steal,1,False,True,steal,steal,62-58,62,58
+0022100490,2021-12-25,PHX,GSW,24.42,3,11,35,GSW,GSW,fg_make,50,False,False,,Porter Jr. 1' Running Dunk (4 PTS) (Payton II 1 AST),62-60,62,60
+0022100490,2021-12-25,PHX,GSW,24.63,3,11,22,PHX,GSW,block,79,True,False,block,block,62-60,62,60
+0022100490,2021-12-25,PHX,GSW,24.63,3,11,22,PHX,PHX,fg_miss,79,True,False,MISS Bridges 10' Pullup Jump Shot,,62-60,62,60
+0022100490,2021-12-25,PHX,GSW,24.7,3,11,18,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:2),62-60,62,60
+0022100490,2021-12-25,PHX,GSW,24.92,3,11,5,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 28' 3PT Jump Shot,62-60,62,60
+0022100490,2021-12-25,PHX,GSW,24.97,3,11,2,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:5),,62-60,62,60
+0022100490,2021-12-25,PHX,GSW,25.15,3,10,51,PHX,PHX,fg_make,79,False,False,Booker 17' Pullup Jump Shot (10 PTS) (Paul 5 AST),,64-60,64,60
+0022100490,2021-12-25,PHX,GSW,25.47,3,10,32,GSW,GSW,fg_make,98,False,False,,Payton II 2' Cutting Layup Shot (14 PTS) (Looney 2 AST),64-62,64,62
+0022100490,2021-12-25,PHX,GSW,25.77,3,10,14,PHX,PHX,fg_make,1,False,False,Bridges 15' Jump Shot (15 PTS),,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.05,3,9,57,GSW,GSW,fg_miss,98,False,False,,MISS Looney 2' Cutting Layup Shot,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.08,3,9,55,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:3),66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.08,3,9,55,GSW,GSW,fg3_miss,1,False,False,,MISS Payton II 26' 3PT Jump Shot,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.08,3,9,55,PHX,PHX,reb,0,False,False,SUNS Rebound,,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.42,3,9,35,PHX,PHX,fg_miss,78,False,False,MISS Paul 10' Floating Jump Shot,,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.45,3,9,33,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:3 Def:3),66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.65,3,9,21,GSW,GSW,fg_miss,101,False,False,,MISS Curry 18' Driving Floating Jump Shot,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,26.72,3,9,17,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:1 Def:3),,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,27.05,3,8,57,PHX,PHX,fg_miss,63,False,False,MISS Paul 12' Fadeaway Jumper,,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,27.12,3,8,53,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:3),66-62,66,62
+0022100490,2021-12-25,PHX,GSW,27.32,3,8,41,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (19 PTS),66-64,66,64
+0022100490,2021-12-25,PHX,GSW,27.32,3,8,41,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (18 PTS),66-63,66,63
+0022100490,2021-12-25,PHX,GSW,27.32,3,8,41,GSW,PHX,foul,2,False,False,Paul S.FOUL (P2.T1) (R.Acosta),,66-62,66,62
+0022100490,2021-12-25,PHX,GSW,27.52,3,8,29,PHX,PHX,fg_miss,79,False,False,MISS Booker 18' Pullup Jump Shot,,66-64,66,64
+0022100490,2021-12-25,PHX,GSW,27.57,3,8,26,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:4),66-64,66,64
+0022100490,2021-12-25,PHX,GSW,27.67,3,8,20,GSW,PHX,foul,1,False,False,Booker P.FOUL (P3.T2) (C.Blair),,66-64,66,64
+0022100490,2021-12-25,PHX,GSW,27.8,3,8,12,GSW,GSW,fg_miss,5,False,False,,MISS Looney 2' Layup,66-64,66,64
+0022100490,2021-12-25,PHX,GSW,27.8,3,8,12,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:2 Def:2),66-64,66,64
+0022100490,2021-12-25,PHX,GSW,27.92,3,8,5,GSW,GSW,fg_make,107,False,False,,Porter Jr. Tip Dunk Shot (6 PTS),66-66,66,66
+0022100490,2021-12-25,PHX,GSW,28.18,3,7,49,PHX,PHX,fg_miss,71,False,False,MISS Bridges 6' Finger Roll Layup,,66-66,66,66
+0022100490,2021-12-25,PHX,GSW,28.22,3,7,47,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:3 Def:4),66-66,66,66
+0022100490,2021-12-25,PHX,GSW,28.28,3,7,43,GSW,GSW,fg_make,41,False,False,,Curry 2' Running Layup (21 PTS),66-68,66,68
+0022100490,2021-12-25,PHX,GSW,28.6,3,7,24,PHX,PHX,fg_make,3,False,False,Ayton 9' Hook Shot (16 PTS),,68-68,68,68
+0022100490,2021-12-25,PHX,GSW,28.85,3,7,9,GSW,GSW,fg3_make,1,False,False,,Green 26' 3PT Jump Shot (6 PTS) (Porter Jr. 2 AST),68-71,68,71
+0022100490,2021-12-25,PHX,GSW,29.18,3,6,49,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 2 Short 0),,68-71,68,71
+0022100490,2021-12-25,PHX,GSW,29.18,3,6,49,PHX,GSW,foul,1,False,False,,Curry P.FOUL (P2.T1) (R.Acosta),68-71,68,71
+0022100490,2021-12-25,PHX,GSW,29.23,3,6,46,PHX,GSW,foul,1,False,False,,Curry P.FOUL (P3.T2) (D.Guthrie),68-71,68,71
+0022100490,2021-12-25,PHX,GSW,29.32,3,6,41,PHX,GSW,foul,2,False,False,,Green S.FOUL (P1.T3) (C.Blair),70-71,70,71
+0022100490,2021-12-25,PHX,GSW,29.32,3,6,41,PHX,PHX,ft_make,10,False,False,Booker Free Throw 1 of 1 (13 PTS),,71-71,71,71
+0022100490,2021-12-25,PHX,GSW,29.32,3,6,41,PHX,PHX,fg_make,75,False,False,Booker 3' Driving Finger Roll Layup (12 PTS),,70-71,70,71
+0022100490,2021-12-25,PHX,GSW,29.53,3,6,28,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P4.T7),71-71,71,71
+0022100490,2021-12-25,PHX,GSW,29.53,3,6,28,GSW,PHX,steal,1,False,True,steal,steal,71-71,71,71
+0022100490,2021-12-25,PHX,GSW,29.67,3,6,20,PHX,GSW,steal,1,False,True,steal,steal,71-71,71,71
+0022100490,2021-12-25,PHX,GSW,29.67,3,6,20,PHX,PHX,tov,1,False,True,Booker Bad Pass Turnover (P2.T10),,71-71,71,71
+0022100490,2021-12-25,PHX,GSW,29.73,3,6,16,GSW,GSW,fg_miss,41,False,False,,MISS Payton II 4' Running Layup,71-71,71,71
+0022100490,2021-12-25,PHX,GSW,29.75,3,6,15,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:4 Def:4),71-71,71,71
+0022100490,2021-12-25,PHX,GSW,29.83,3,6,10,GSW,GSW,fg_make,107,False,False,,Looney Tip Dunk Shot (6 PTS),71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.02,3,5,59,PHX,PHX,fg_miss,5,False,False,MISS Ayton 5' Layup,,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.03,3,5,58,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:4 Def:2),,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.15,3,5,51,PHX,GSW,steal,2,False,True,steal,steal,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.15,3,5,51,PHX,PHX,tov,2,False,True,Ayton Lost Ball Turnover (P1.T11),,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.18,3,5,49,GSW,GSW,fg3_miss,2,False,False,,MISS Curry 26' 3PT Running Jump Shot,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.18,3,5,49,PHX,PHX,reb,0,False,False,SUNS Rebound,,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.48,3,5,31,PHX,PHX,fg3_miss,1,False,False,MISS Crowder 27' 3PT Jump Shot,,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.53,3,5,28,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:5),71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.65,3,5,21,GSW,GSW,ft_miss,12,False,False,,MISS Curry Free Throw 2 of 2,71-74,71,74
+0022100490,2021-12-25,PHX,GSW,30.65,3,5,21,GSW,PHX,foul,2,False,False,Crowder S.FOUL (P3.T3) (C.Blair),,71-73,71,73
+0022100490,2021-12-25,PHX,GSW,30.65,3,5,21,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (22 PTS),71-74,71,74
+0022100490,2021-12-25,PHX,GSW,30.72,3,5,17,PHX,PHX,reb,0,False,False,Crowder REBOUND (Off:0 Def:2),,71-74,71,74
+0022100490,2021-12-25,PHX,GSW,30.83,3,5,10,PHX,PHX,fg_miss,6,True,False,MISS Booker 4' Driving Layup,,71-74,71,74
+0022100490,2021-12-25,PHX,GSW,30.83,3,5,10,PHX,GSW,block,6,True,False,block,block,71-74,71,74
+0022100490,2021-12-25,PHX,GSW,30.9,3,5,6,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:6),71-74,71,74
+0022100490,2021-12-25,PHX,GSW,31.15,3,4,51,GSW,GSW,fg_make,6,False,False,,Looney 3' Driving Layup (8 PTS),71-76,71,76
+0022100490,2021-12-25,PHX,GSW,31.42,3,4,35,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),71-77,71,77
+0022100490,2021-12-25,PHX,GSW,31.42,3,4,35,GSW,GSW,ft_make,16,False,False,,Curry Free Throw Technical (23 PTS),71-77,71,77
+0022100490,2021-12-25,PHX,GSW,31.42,3,4,35,GSW,PHX,foul,11,False,False,Paul T.FOUL (P2.T3) (R.Acosta),,71-76,71,76
+0022100490,2021-12-25,PHX,GSW,31.42,3,4,35,GSW,GSW,reb,0,False,False,,Warriors Rebound,71-76,71,76
+0022100490,2021-12-25,PHX,GSW,31.42,3,4,35,PHX,PHX,fg_miss,5,False,False,MISS Paul 3' Layup,,71-76,71,76
+0022100490,2021-12-25,PHX,GSW,31.68,3,4,19,GSW,GSW,fg_miss,101,False,False,,MISS Toscano-Anderson 12' Driving Floating Jump Shot,71-77,71,77
+0022100490,2021-12-25,PHX,GSW,31.73,3,4,16,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:4 Def:3),,71-77,71,77
+0022100490,2021-12-25,PHX,GSW,32.0,3,4,0,PHX,PHX,fg3_miss,1,False,False,MISS Booker 30' 3PT Jump Shot,,71-77,71,77
+0022100490,2021-12-25,PHX,GSW,32.05,3,3,57,PHX,GSW,foul,2,False,False,,Looney S.FOUL (P3.T4) (R.Acosta),73-77,73,77
+0022100490,2021-12-25,PHX,GSW,32.05,3,3,57,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:1 Def:0),,71-77,71,77
+0022100490,2021-12-25,PHX,GSW,32.05,3,3,57,PHX,PHX,fg_make,72,False,False,Johnson 3' Putback Layup (2 PTS),,73-77,73,77
+0022100490,2021-12-25,PHX,GSW,32.05,3,3,57,PHX,PHX,ft_make,10,False,False,Johnson Free Throw 1 of 1 (3 PTS),,74-77,74,77
+0022100490,2021-12-25,PHX,GSW,32.33,3,3,40,GSW,PHX,foul,1,False,False,Payne P.FOUL (P3.T4) (D.Guthrie),,74-77,74,77
+0022100490,2021-12-25,PHX,GSW,32.4,3,3,36,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 27' 3PT Jump Shot,74-77,74,77
+0022100490,2021-12-25,PHX,GSW,32.47,3,3,32,PHX,PHX,reb,0,False,False,Payne REBOUND (Off:0 Def:1),,74-77,74,77
+0022100490,2021-12-25,PHX,GSW,32.55,3,3,27,PHX,PHX,fg3_make,2,False,False,Johnson 24' 3PT Running Jump Shot (6 PTS) (Booker 2 AST),,77-77,77,77
+0022100490,2021-12-25,PHX,GSW,32.87,3,3,8,GSW,GSW,tov,45,False,False,,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T8),77-77,77,77
+0022100490,2021-12-25,PHX,GSW,33.08,3,2,55,PHX,PHX,fg3_make,1,False,False,Payne 26' 3PT Jump Shot (3 PTS) (Booker 3 AST),,80-77,80,77
+0022100490,2021-12-25,PHX,GSW,33.47,3,2,32,GSW,GSW,fg_make,80,False,False,,Chiozza 19' Step Back Jump Shot (2 PTS),80-79,80,79
+0022100490,2021-12-25,PHX,GSW,33.82,3,2,11,PHX,PHX,fg3_miss,1,False,False,MISS Payne 26' 3PT Jump Shot,,80-79,80,79
+0022100490,2021-12-25,PHX,GSW,33.9,3,2,6,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:4),80-79,80,79
+0022100490,2021-12-25,PHX,GSW,33.98,3,2,1,GSW,GSW,fg_miss,6,False,False,,MISS Green 2' Driving Layup,80-79,80,79
+0022100490,2021-12-25,PHX,GSW,33.98,3,2,1,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:1 Def:1),,80-79,80,79
+0022100490,2021-12-25,PHX,GSW,33.98,3,2,1,PHX,GSW,foul,1,False,False,,Weatherspoon P.FOUL (P3.PN) (D.Guthrie),80-79,80,79
+0022100490,2021-12-25,PHX,GSW,33.98,3,2,1,PHX,PHX,ft_make,11,False,False,Johnson Free Throw 1 of 2 (7 PTS),,81-79,81,79
+0022100490,2021-12-25,PHX,GSW,33.98,3,2,1,PHX,PHX,ft_make,12,False,False,Johnson Free Throw 2 of 2 (8 PTS),,82-79,82,79
+0022100490,2021-12-25,PHX,GSW,34.33,3,1,40,GSW,PHX,foul,1,False,False,McGee P.FOUL (P1.PN) (C.Blair),,82-79,82,79
+0022100490,2021-12-25,PHX,GSW,34.33,3,1,40,GSW,GSW,ft_make,11,False,False,,Bjelica Free Throw 1 of 2 (5 PTS),82-80,82,80
+0022100490,2021-12-25,PHX,GSW,34.33,3,1,40,GSW,GSW,ft_miss,12,False,False,,MISS Bjelica Free Throw 2 of 2,82-80,82,80
+0022100490,2021-12-25,PHX,GSW,34.38,3,1,37,PHX,PHX,reb,0,False,False,McGee REBOUND (Off:1 Def:6),,82-80,82,80
+0022100490,2021-12-25,PHX,GSW,34.68,3,1,19,PHX,PHX,fg_make,71,False,False,Payne 7' Finger Roll Layup (5 PTS),,84-80,84,80
+0022100490,2021-12-25,PHX,GSW,34.97,3,1,2,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 31' 3PT Jump Shot,84-80,84,80
+0022100490,2021-12-25,PHX,GSW,35.0,3,1,0,PHX,PHX,reb,0,False,False,Payne REBOUND (Off:0 Def:2),,84-80,84,80
+0022100490,2021-12-25,PHX,GSW,35.23,3,0,46,PHX,GSW,block,63,True,False,block,block,84-80,84,80
+0022100490,2021-12-25,PHX,GSW,35.23,3,0,46,PHX,PHX,fg_miss,63,True,False,MISS Booker 17' Fadeaway Jumper,,84-80,84,80
+0022100490,2021-12-25,PHX,GSW,35.3,3,0,42,GSW,GSW,reb,0,False,False,,Weatherspoon REBOUND (Off:0 Def:1),84-80,84,80
+0022100490,2021-12-25,PHX,GSW,35.4,3,0,36,GSW,GSW,ft_make,18,False,False,,Kuminga Free Throw Flagrant 1 of 2 (9 PTS),84-81,84,81
+0022100490,2021-12-25,PHX,GSW,35.4,3,0,36,GSW,GSW,ft_make,19,False,False,,Kuminga Free Throw Flagrant 2 of 2 (10 PTS),84-82,84,82
+0022100490,2021-12-25,PHX,GSW,35.4,3,0,36,GSW,PHX,foul,14,False,False,McGee FLAGRANT.FOUL.TYPE1 (P2.PN) (R.Acosta),,84-80,84,80
+0022100490,2021-12-25,PHX,GSW,35.68,3,0,19,GSW,GSW,fg_make,6,False,False,,Weatherspoon 3' Driving Layup (6 PTS) (Bjelica 1 AST),84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.0,3,0,0,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:2 Def:3),84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.0,3,0,0,PHX,PHX,fg_miss,6,False,False,MISS Booker 5' Driving Layup,,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.38,4,11,37,GSW,GSW,fg_miss,79,False,False,,MISS Porter Jr. 12' Pullup Jump Shot,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.43,4,11,34,PHX,PHX,reb,0,False,False,Shamet REBOUND (Off:0 Def:1),,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.65,4,11,21,,PHX,jump_ball,0,False,False,Jump Ball McGee vs. Porter Jr.: Tip to Bjelica,,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.65,4,11,21,PHX,PHX,tov,2,False,True,McGee Lost Ball Turnover (P2.T12),,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.65,4,11,21,PHX,GSW,steal,2,False,True,steal,steal,84-84,84,84
+0022100490,2021-12-25,PHX,GSW,36.73,4,11,16,GSW,GSW,fg_make,6,False,False,,Curry 3' Driving Layup (25 PTS),84-86,84,86
+0022100490,2021-12-25,PHX,GSW,37.03,4,10,58,PHX,PHX,fg3_make,1,False,False,Johnson 28' 3PT Jump Shot (11 PTS) (Payne 2 AST),,87-86,87,86
+0022100490,2021-12-25,PHX,GSW,37.3,4,10,42,GSW,GSW,fg3_make,80,False,False,,Curry 28' 3PT Step Back Jump Shot (28 PTS),87-89,87,89
+0022100490,2021-12-25,PHX,GSW,37.52,4,10,29,PHX,PHX,fg_make,6,False,False,Shamet 1' Driving Layup (2 PTS) (Paul 6 AST),,89-89,89,89
+0022100490,2021-12-25,PHX,GSW,37.7,4,10,18,GSW,GSW,fg3_make,1,False,False,,Bjelica 26' 3PT Jump Shot (8 PTS) (Curry 5 AST),89-92,89,92
+0022100490,2021-12-25,PHX,GSW,37.9,4,10,6,PHX,PHX,fg_make,6,False,False,McGee 1' Driving Layup (8 PTS) (Shamet 1 AST),,91-92,91,92
+0022100490,2021-12-25,PHX,GSW,38.02,4,9,59,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,91-92,91,92
+0022100490,2021-12-25,PHX,GSW,38.1,4,9,54,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:3 Def:3),91-92,91,92
+0022100490,2021-12-25,PHX,GSW,38.22,4,9,47,GSW,GSW,fg_make,78,False,False,,Bjelica 7' Floating Jump Shot (10 PTS) (Curry 6 AST),91-94,91,94
+0022100490,2021-12-25,PHX,GSW,38.43,4,9,34,PHX,PHX,fg_make,80,False,False,Payne 20' Step Back Jump Shot (7 PTS),,93-94,93,94
+0022100490,2021-12-25,PHX,GSW,38.77,4,9,14,GSW,GSW,tov,1,False,True,,Bjelica Bad Pass Turnover (P1.T9),93-94,93,94
+0022100490,2021-12-25,PHX,GSW,38.77,4,9,14,GSW,PHX,steal,1,False,True,steal,steal,93-94,93,94
+0022100490,2021-12-25,PHX,GSW,38.83,4,9,10,PHX,PHX,fg_make,50,False,False,Shamet Running Dunk (4 PTS),,95-94,95,94
+0022100490,2021-12-25,PHX,GSW,39.15,4,8,51,GSW,GSW,fg3_make,1,False,False,,Porter Jr. 27' 3PT Jump Shot (9 PTS) (Bjelica 2 AST),95-97,95,97
+0022100490,2021-12-25,PHX,GSW,39.37,4,8,38,PHX,GSW,foul,1,False,False,,Weatherspoon P.FOUL (P4.T1) (R.Acosta),95-97,95,97
+0022100490,2021-12-25,PHX,GSW,39.62,4,8,23,PHX,PHX,fg_miss,79,False,False,MISS Paul 18' Pullup Jump Shot,,95-97,95,97
+0022100490,2021-12-25,PHX,GSW,39.67,4,8,20,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:0 Def:2),95-97,95,97
+0022100490,2021-12-25,PHX,GSW,39.82,4,8,11,GSW,GSW,fg_make,73,False,False,,Curry 2' Driving Reverse Layup (30 PTS),95-99,95,99
+0022100490,2021-12-25,PHX,GSW,40.2,4,7,48,PHX,PHX,fg_make,43,False,False,Bridges 2' Alley Oop Layup (17 PTS) (Johnson 2 AST),,97-99,97,99
+0022100490,2021-12-25,PHX,GSW,40.4,4,7,36,GSW,PHX,foul,1,False,False,Crowder P.FOUL (P4.T1) (C.Blair),,97-99,97,99
+0022100490,2021-12-25,PHX,GSW,40.57,4,7,26,GSW,GSW,fg3_make,80,False,False,,Curry 27' 3PT Step Back Jump Shot (33 PTS),97-102,97,102
+0022100490,2021-12-25,PHX,GSW,41.0,4,7,0,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 25' 3PT Jump Shot,,97-102,97,102
+0022100490,2021-12-25,PHX,GSW,41.05,4,6,57,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:1),97-102,97,102
+0022100490,2021-12-25,PHX,GSW,41.13,4,6,52,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 30' 3PT Pullup Jump Shot,97-102,97,102
+0022100490,2021-12-25,PHX,GSW,41.2,4,6,48,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:2 Def:4),97-102,97,102
+0022100490,2021-12-25,PHX,GSW,41.23,4,6,46,GSW,GSW,fg_make,44,False,False,,Kuminga Reverse Layup (12 PTS) (Green 8 AST),97-104,97,104
+0022100490,2021-12-25,PHX,GSW,41.23,4,6,46,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 3 Short 0),,97-104,97,104
+0022100490,2021-12-25,PHX,GSW,41.45,4,6,33,PHX,PHX,fg_miss,6,False,False,MISS Crowder 3' Driving Layup,,97-104,97,104
+0022100490,2021-12-25,PHX,GSW,41.48,4,6,31,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:3),97-104,97,104
+0022100490,2021-12-25,PHX,GSW,41.82,4,6,11,GSW,GSW,fg3_miss,1,False,False,,MISS Green 27' 3PT Jump Shot,97-104,97,104
+0022100490,2021-12-25,PHX,GSW,41.83,4,6,10,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:1 Def:4),,97-104,97,104
+0022100490,2021-12-25,PHX,GSW,42.15,4,5,51,PHX,PHX,fg3_miss,1,False,False,MISS Crowder 24' 3PT Jump Shot,,97-104,97,104
+0022100490,2021-12-25,PHX,GSW,42.2,4,5,48,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:2),97-104,97,104
+0022100490,2021-12-25,PHX,GSW,42.53,4,5,28,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 30' 3PT Jump Shot,97-104,97,104
+0022100490,2021-12-25,PHX,GSW,42.6,4,5,24,PHX,PHX,reb,0,False,False,Crowder REBOUND (Off:0 Def:3),,97-104,97,104
+0022100490,2021-12-25,PHX,GSW,42.75,4,5,15,PHX,GSW,foul,1,False,False,,Bjelica P.FOUL (P3.T2) (C.Blair),97-104,97,104
+0022100490,2021-12-25,PHX,GSW,42.9,4,5,6,PHX,PHX,fg_make,6,False,False,Paul 1' Driving Layup (18 PTS),,99-104,99,104
+0022100490,2021-12-25,PHX,GSW,42.93,4,5,4,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.5 Short 0),99-104,99,104
+0022100490,2021-12-25,PHX,GSW,43.17,4,4,50,GSW,GSW,fg3_make,79,False,False,,Porter Jr. 26' 3PT Pullup Jump Shot (12 PTS),99-107,99,107
+0022100490,2021-12-25,PHX,GSW,43.62,4,4,23,PHX,PHX,fg3_make,79,False,False,Paul 26' 3PT Pullup Jump Shot (21 PTS),,102-107,102,107
+0022100490,2021-12-25,PHX,GSW,43.85,4,4,9,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 28' 3PT Jump Shot,102-107,102,107
+0022100490,2021-12-25,PHX,GSW,43.9,4,4,6,PHX,PHX,reb,0,False,False,SUNS Rebound,,102-107,102,107
+0022100490,2021-12-25,PHX,GSW,43.9,4,4,6,PHX,GSW,foul,3,False,False,,Toscano-Anderson L.B.FOUL (P4.T3) (D.Guthrie),102-107,102,107
+0022100490,2021-12-25,PHX,GSW,44.13,4,3,52,PHX,PHX,fg_make,3,False,False,Ayton 5' Hook Shot (18 PTS) (Paul 7 AST),,104-107,104,107
+0022100490,2021-12-25,PHX,GSW,44.47,4,3,32,GSW,GSW,fg_make,6,False,False,,Green 5' Driving Layup (8 PTS) (Porter Jr. 3 AST),104-109,104,109
+0022100490,2021-12-25,PHX,GSW,44.77,4,3,14,PHX,PHX,fg3_miss,1,False,False,MISS Booker 27' 3PT Jump Shot,,104-109,104,109
+0022100490,2021-12-25,PHX,GSW,44.82,4,3,11,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:1 Def:5),,104-109,104,109
+0022100490,2021-12-25,PHX,GSW,44.98,4,3,1,PHX,PHX,fg3_make,1,False,False,Crowder 27' 3PT Jump Shot (8 PTS) (Paul 8 AST),,107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.22,4,2,47,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.6 Short 0),107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.28,4,2,43,GSW,GSW,tov,37,False,False,,Looney Offensive Foul Turnover (P1.T10),107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.28,4,2,43,PHX,GSW,foul,4,False,False,,Looney OFF.Foul (P4) (C.Blair),107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.47,4,2,32,PHX,GSW,steal,2,False,True,steal,steal,107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.47,4,2,32,PHX,PHX,tov,2,False,True,Paul Lost Ball Turnover (P2.T13),,107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.65,4,2,21,GSW,GSW,fg_miss,101,False,False,,MISS Curry 15' Driving Floating Jump Shot,107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.7,4,2,18,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:5 Def:4),107-109,107,109
+0022100490,2021-12-25,PHX,GSW,45.85,4,2,9,GSW,GSW,fg_make,1,False,False,,Porter Jr. 16' Jump Shot (14 PTS) (Payton II 2 AST),107-111,107,111
+0022100490,2021-12-25,PHX,GSW,46.1,4,1,54,PHX,PHX,fg3_miss,1,False,False,MISS Crowder 27' 3PT Jump Shot,,107-111,107,111
+0022100490,2021-12-25,PHX,GSW,46.15,4,1,51,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:7),107-111,107,111
+0022100490,2021-12-25,PHX,GSW,46.33,4,1,40,GSW,GSW,fg_make,80,False,False,,Porter Jr. 16' Step Back Jump Shot (16 PTS) (Green 9 AST),107-113,107,113
+0022100490,2021-12-25,PHX,GSW,46.33,4,1,40,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 4 Short 0),,107-113,107,113
+0022100490,2021-12-25,PHX,GSW,46.6,4,1,24,PHX,PHX,fg3_miss,1,False,False,MISS Booker 24' 3PT Jump Shot,,107-113,107,113
+0022100490,2021-12-25,PHX,GSW,46.65,4,1,21,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:2 Def:5),107-113,107,113
+0022100490,2021-12-25,PHX,GSW,46.88,4,1,7,GSW,GSW,fg3_make,1,False,False,,Porter Jr. 28' 3PT Jump Shot (19 PTS) (Green 10 AST),107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.0,4,1,0,PHX,PHX,fg_miss,6,True,False,MISS Booker 5' Driving Layup,,107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.0,4,1,0,PHX,GSW,block,6,True,False,block,block,107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.07,4,0,56,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:2 Def:6),107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.17,4,0,50,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 27' 3PT Jump Shot,107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.2,4,0,48,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:1 Def:5),,107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.35,4,0,39,PHX,PHX,fg3_miss,80,False,False,MISS Paul 29' 3PT Step Back Jump Shot,,107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.4,4,0,36,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:4),107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.72,4,0,17,GSW,GSW,fg_miss,80,False,False,,MISS Curry 22' Step Back Jump Shot,107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.78,4,0,13,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:6 Def:4),107-116,107,116
+0022100490,2021-12-25,PHX,GSW,47.98,4,0,1,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#11),107-116,107,116
+0022100490,2021-12-25,PHX,GSW,48.0,4,0,0,GSW,,period_end,0,False,False,,,107-116,107,116

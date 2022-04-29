@@ -1,0 +1,375 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100306,2021-11-29,MIA,DEN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100306,2021-11-29,MIA,DEN,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Adebayo vs. Jokic: Tip to Gordon,,0-0,0,0
+0022100306,2021-11-29,MIA,DEN,0.38,1,11,37,DEN,MIA,foul,2,False,False,Tucker S.FOUL (P1.T1) (P.Fraher),,0-0,0,0
+0022100306,2021-11-29,MIA,DEN,0.38,1,11,37,DEN,DEN,ft_make,13,False,False,,Jokic Free Throw 1 of 3 (1 PTS),0-1,0,1
+0022100306,2021-11-29,MIA,DEN,0.38,1,11,37,DEN,DEN,ft_make,14,False,False,,Jokic Free Throw 2 of 3 (2 PTS),0-2,0,2
+0022100306,2021-11-29,MIA,DEN,0.38,1,11,37,DEN,DEN,ft_make,15,False,False,,Jokic Free Throw 3 of 3 (3 PTS),0-3,0,3
+0022100306,2021-11-29,MIA,DEN,0.58,1,11,25,MIA,MIA,tov,45,False,False,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,0-3,0,3
+0022100306,2021-11-29,MIA,DEN,0.92,1,11,5,DEN,MIA,steal,2,False,True,steal,steal,0-3,0,3
+0022100306,2021-11-29,MIA,DEN,0.92,1,11,5,DEN,DEN,tov,2,False,True,,Jokic Lost Ball Turnover (P1.T1),0-3,0,3
+0022100306,2021-11-29,MIA,DEN,1.0,1,11,0,MIA,MIA,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,0-3,0,3
+0022100306,2021-11-29,MIA,DEN,1.07,1,10,56,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:0 Def:1),0-3,0,3
+0022100306,2021-11-29,MIA,DEN,1.17,1,10,50,DEN,DEN,fg_miss,47,False,False,,MISS Gordon 16' Turnaround Jump Shot,0-3,0,3
+0022100306,2021-11-29,MIA,DEN,1.23,1,10,46,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,0-3,0,3
+0022100306,2021-11-29,MIA,DEN,1.55,1,10,27,MIA,MIA,fg_make,78,False,False,Tucker 5' Floating Jump Shot (2 PTS) (Lowry 1 AST),,2-3,2,3
+0022100306,2021-11-29,MIA,DEN,1.85,1,10,9,DEN,DEN,tov,45,False,False,,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T2),2-3,2,3
+0022100306,2021-11-29,MIA,DEN,1.98,1,10,1,MIA,MIA,fg_miss,79,False,False,MISS Adebayo 12' Pullup Jump Shot,,2-3,2,3
+0022100306,2021-11-29,MIA,DEN,2.07,1,9,56,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:1),2-3,2,3
+0022100306,2021-11-29,MIA,DEN,2.08,1,9,55,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.1 Short 0),2-3,2,3
+0022100306,2021-11-29,MIA,DEN,2.08,1,9,55,DEN,MIA,foul,2,False,False,Adebayo S.FOUL (P1.T2) (P.Fraher),,2-3,2,3
+0022100306,2021-11-29,MIA,DEN,2.08,1,9,55,DEN,DEN,ft_make,11,False,False,,Barton Free Throw 1 of 2 (1 PTS),2-4,2,4
+0022100306,2021-11-29,MIA,DEN,2.08,1,9,55,DEN,DEN,ft_make,12,False,False,,Barton Free Throw 2 of 2 (2 PTS),2-5,2,5
+0022100306,2021-11-29,MIA,DEN,2.25,1,9,45,MIA,MIA,fg3_make,1,False,False,Robinson 3PT Jump Shot (3 PTS) (Lowry 2 AST),,5-5,5,5
+0022100306,2021-11-29,MIA,DEN,2.6,1,9,24,DEN,DEN,ft_make,12,False,False,,Green Free Throw 2 of 2 (1 PTS),5-6,5,6
+0022100306,2021-11-29,MIA,DEN,2.6,1,9,24,DEN,DEN,reb,1,False,False,,Nuggets Rebound,5-5,5,5
+0022100306,2021-11-29,MIA,DEN,2.6,1,9,24,DEN,DEN,ft_miss,11,False,False,,MISS Green Free Throw 1 of 2,5-5,5,5
+0022100306,2021-11-29,MIA,DEN,2.6,1,9,24,DEN,MIA,foul,2,False,False,Lowry S.FOUL (P1.T3) (P.Fraher),,5-5,5,5
+0022100306,2021-11-29,MIA,DEN,2.9,1,9,6,MIA,MIA,fg_make,98,False,False,Tucker 2' Cutting Layup Shot (4 PTS) (Adebayo 1 AST),,7-6,7,6
+0022100306,2021-11-29,MIA,DEN,3.13,1,8,52,DEN,DEN,fg_make,79,False,False,,Morris 12' Pullup Jump Shot (2 PTS),7-8,7,8
+0022100306,2021-11-29,MIA,DEN,3.23,1,8,46,MIA,MIA,fg_make,106,False,False,Martin 2' Running Alley Oop Dunk Shot (2 PTS) (Lowry 3 AST),,9-8,9,8
+0022100306,2021-11-29,MIA,DEN,3.43,1,8,34,DEN,DEN,fg_miss,102,False,False,,MISS Barton 8' Driving Floating Bank Jump Shot,9-8,9,8
+0022100306,2021-11-29,MIA,DEN,3.53,1,8,28,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:0),9-8,9,8
+0022100306,2021-11-29,MIA,DEN,3.53,1,8,28,DEN,DEN,fg_make,72,False,False,,Jokic 2' Putback Layup (5 PTS),9-10,9,10
+0022100306,2021-11-29,MIA,DEN,3.6,1,8,24,MIA,MIA,fg3_miss,1,False,False,MISS Lowry 28' 3PT Jump Shot,,9-10,9,10
+0022100306,2021-11-29,MIA,DEN,3.6,1,8,24,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:0),,9-10,9,10
+0022100306,2021-11-29,MIA,DEN,3.78,1,8,13,MIA,MIA,fg_miss,101,False,False,MISS Lowry 6' Driving Floating Jump Shot,,9-10,9,10
+0022100306,2021-11-29,MIA,DEN,3.83,1,8,10,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:1),9-10,9,10
+0022100306,2021-11-29,MIA,DEN,3.93,1,8,4,DEN,DEN,fg3_miss,1,False,False,,MISS Morris 24' 3PT Jump Shot,9-10,9,10
+0022100306,2021-11-29,MIA,DEN,4.0,1,8,0,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:0 Def:1),,9-10,9,10
+0022100306,2021-11-29,MIA,DEN,4.07,1,7,56,MIA,MIA,fg_make,6,False,False,Lowry 2' Driving Layup (2 PTS),,11-10,11,10
+0022100306,2021-11-29,MIA,DEN,4.18,1,7,49,DEN,DEN,fg_make,6,False,False,,Green 1' Driving Layup (3 PTS),11-12,11,12
+0022100306,2021-11-29,MIA,DEN,4.5,1,7,30,MIA,DEN,foul,1,False,False,,Morris P.FOUL (P1.T1) (K.Cutler),11-12,11,12
+0022100306,2021-11-29,MIA,DEN,4.63,1,7,22,MIA,MIA,fg3_make,1,False,False,Lowry 24' 3PT Jump Shot (5 PTS) (Adebayo 2 AST),,14-12,14,12
+0022100306,2021-11-29,MIA,DEN,4.88,1,7,7,DEN,DEN,fg_miss,6,False,False,,MISS Gordon 5' Driving Layup,14-12,14,12
+0022100306,2021-11-29,MIA,DEN,4.92,1,7,5,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:1),,14-12,14,12
+0022100306,2021-11-29,MIA,DEN,4.98,1,7,1,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 11' Jump Shot,,14-12,14,12
+0022100306,2021-11-29,MIA,DEN,5.0,1,7,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,14-12,14,12
+0022100306,2021-11-29,MIA,DEN,5.0,1,7,0,DEN,MIA,foul,3,False,False,Martin L.B.FOUL (P1.T4) (K.Cutler),,14-12,14,12
+0022100306,2021-11-29,MIA,DEN,5.18,1,6,49,DEN,DEN,fg_make,98,False,False,,Jokic 5' Cutting Layup Shot (7 PTS) (Morris 1 AST),14-14,14,14
+0022100306,2021-11-29,MIA,DEN,5.65,1,6,21,MIA,MIA,fg_miss,47,False,False,MISS Tucker 10' Turnaround Jump Shot,,14-14,14,14
+0022100306,2021-11-29,MIA,DEN,5.72,1,6,17,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:2),14-14,14,14
+0022100306,2021-11-29,MIA,DEN,5.73,1,6,16,DEN,DEN,fg3_make,79,False,False,,Barton 26' 3PT Pullup Jump Shot (5 PTS),14-17,14,17
+0022100306,2021-11-29,MIA,DEN,5.92,1,6,5,MIA,MIA,fg3_make,1,False,False,Martin 3PT Jump Shot (5 PTS) (Lowry 4 AST),,17-17,17,17
+0022100306,2021-11-29,MIA,DEN,6.3,1,5,42,DEN,DEN,fg_make,79,False,False,,Morris 13' Pullup Jump Shot (4 PTS),17-19,17,19
+0022100306,2021-11-29,MIA,DEN,6.5,1,5,30,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 24' 3PT Jump Shot,,17-19,17,19
+0022100306,2021-11-29,MIA,DEN,6.55,1,5,27,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:2),17-19,17,19
+0022100306,2021-11-29,MIA,DEN,6.63,1,5,22,DEN,DEN,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,17-19,17,19
+0022100306,2021-11-29,MIA,DEN,6.67,1,5,20,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:2),17-19,17,19
+0022100306,2021-11-29,MIA,DEN,6.68,1,5,19,DEN,DEN,fg_make,72,False,False,,Jokic 3' Putback Layup (9 PTS),17-21,17,21
+0022100306,2021-11-29,MIA,DEN,6.68,1,5,19,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,17-21,17,21
+0022100306,2021-11-29,MIA,DEN,6.95,1,5,3,MIA,MIA,fg3_make,1,False,False,Strus 26' 3PT Jump Shot (3 PTS) (Robinson 1 AST),,20-21,20,21
+0022100306,2021-11-29,MIA,DEN,7.2,1,4,48,DEN,DEN,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (2 PTS),20-23,20,23
+0022100306,2021-11-29,MIA,DEN,7.2,1,4,48,DEN,MIA,foul,2,False,False,Strus S.FOUL (P1.PN) (A.Smith),,20-21,20,21
+0022100306,2021-11-29,MIA,DEN,7.2,1,4,48,DEN,DEN,ft_make,11,False,False,,Gordon Free Throw 1 of 2 (1 PTS),20-22,20,22
+0022100306,2021-11-29,MIA,DEN,7.37,1,4,38,MIA,DEN,foul,1,False,False,,Nnaji P.FOUL (P1.T2) (A.Smith),20-23,20,23
+0022100306,2021-11-29,MIA,DEN,7.45,1,4,33,MIA,MIA,fg_miss,79,False,False,MISS Adebayo 13' Pullup Jump Shot,,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,7.52,1,4,29,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:3),20-23,20,23
+0022100306,2021-11-29,MIA,DEN,7.88,1,4,7,DEN,DEN,fg3_miss,1,False,False,,MISS Campazzo 25' 3PT Jump Shot,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,7.88,1,4,7,MIA,MIA,reb,0,False,False,HEAT Rebound,,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,7.88,1,4,7,MIA,DEN,foul,3,False,False,,Gordon L.B.FOUL (P1.T3) (P.Fraher),20-23,20,23
+0022100306,2021-11-29,MIA,DEN,8.27,1,3,44,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,8.3,1,3,42,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:1 Def:0),,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,8.32,1,3,41,MIA,MIA,fg3_miss,1,False,False,MISS Strus 27' 3PT Jump Shot,,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,8.35,1,3,39,MIA,MIA,reb,0,False,False,HEAT Rebound,,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,8.38,1,3,37,MIA,MIA,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,20-23,20,23
+0022100306,2021-11-29,MIA,DEN,8.45,1,3,33,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:4),20-23,20,23
+0022100306,2021-11-29,MIA,DEN,8.48,1,3,31,DEN,DEN,fg_make,41,False,False,,Campazzo 2' Running Layup (2 PTS) (Nnaji 1 AST),20-25,20,25
+0022100306,2021-11-29,MIA,DEN,8.48,1,3,31,DEN,MIA,foul,2,False,False,Robinson S.FOUL (P1.PN) (K.Cutler),,20-25,20,25
+0022100306,2021-11-29,MIA,DEN,8.48,1,3,31,DEN,DEN,ft_miss,10,False,False,,MISS Campazzo Free Throw 1 of 1,20-25,20,25
+0022100306,2021-11-29,MIA,DEN,8.52,1,3,29,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:1 Def:1),,20-25,20,25
+0022100306,2021-11-29,MIA,DEN,8.78,1,3,13,MIA,MIA,fg_miss,6,False,False,MISS Vincent 2' Driving Layup,,20-25,20,25
+0022100306,2021-11-29,MIA,DEN,8.8,1,3,12,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:5),20-25,20,25
+0022100306,2021-11-29,MIA,DEN,9.12,1,2,53,DEN,DEN,fg_make,6,False,False,,Rivers 4' Driving Layup (2 PTS),20-27,20,27
+0022100306,2021-11-29,MIA,DEN,9.52,1,2,29,MIA,MIA,fg_miss,86,False,False,MISS Martin 20' Turnaround Fadeaway Shot,,20-27,20,27
+0022100306,2021-11-29,MIA,DEN,9.58,1,2,25,DEN,DEN,reb,0,False,False,,Nnaji REBOUND (Off:0 Def:1),20-27,20,27
+0022100306,2021-11-29,MIA,DEN,9.67,1,2,20,DEN,DEN,tov,45,False,False,,Barton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),20-27,20,27
+0022100306,2021-11-29,MIA,DEN,9.92,1,2,5,MIA,MIA,fg3_miss,80,False,False,MISS Vincent 26' 3PT Step Back Jump Shot,,20-27,20,27
+0022100306,2021-11-29,MIA,DEN,9.93,1,2,4,DEN,DEN,reb,0,False,False,,Nuggets Rebound,20-27,20,27
+0022100306,2021-11-29,MIA,DEN,10.2,1,1,48,DEN,DEN,fg_make,1,False,False,,Hyland 12' Jump Shot (2 PTS) (Campazzo 1 AST),20-29,20,29
+0022100306,2021-11-29,MIA,DEN,10.4,1,1,36,MIA,DEN,foul,2,False,False,,Nnaji S.FOUL (P2.T4) (K.Cutler),20-29,20,29
+0022100306,2021-11-29,MIA,DEN,10.4,1,1,36,MIA,MIA,ft_miss,11,False,False,MISS Lowry Free Throw 1 of 2,,20-29,20,29
+0022100306,2021-11-29,MIA,DEN,10.4,1,1,36,MIA,MIA,reb,1,False,False,HEAT Rebound,,20-29,20,29
+0022100306,2021-11-29,MIA,DEN,10.4,1,1,36,MIA,MIA,ft_make,12,False,False,Lowry Free Throw 2 of 2 (6 PTS),,21-29,21,29
+0022100306,2021-11-29,MIA,DEN,10.87,1,1,8,DEN,DEN,fg3_miss,63,False,False,,MISS Barton 26' 3PT Fadeaway Jumper,21-29,21,29
+0022100306,2021-11-29,MIA,DEN,10.9,1,1,6,MIA,MIA,reb,0,False,False,Lowry REBOUND (Off:0 Def:1),,21-29,21,29
+0022100306,2021-11-29,MIA,DEN,11.08,1,0,55,MIA,MIA,tov,1,False,True,Lowry Bad Pass Turnover (P1.T2),,21-29,21,29
+0022100306,2021-11-29,MIA,DEN,11.08,1,0,55,MIA,DEN,steal,1,False,True,steal,steal,21-29,21,29
+0022100306,2021-11-29,MIA,DEN,11.28,1,0,43,DEN,DEN,fg_miss,98,False,False,,MISS Nnaji 3' Cutting Layup Shot,21-29,21,29
+0022100306,2021-11-29,MIA,DEN,11.33,1,0,40,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:0 Def:2),,21-29,21,29
+0022100306,2021-11-29,MIA,DEN,11.38,1,0,37,MIA,MIA,fg_make,106,False,False,Dedmon 2' Running Alley Oop Dunk Shot (2 PTS) (Lowry 5 AST),,23-29,23,29
+0022100306,2021-11-29,MIA,DEN,11.65,1,0,21,DEN,DEN,fg3_make,1,False,False,,Rivers 24' 3PT Jump Shot (5 PTS) (Barton 1 AST),23-32,23,32
+0022100306,2021-11-29,MIA,DEN,11.98,1,0,1,MIA,DEN,block,1,True,False,block,block,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,11.98,1,0,1,MIA,MIA,fg3_miss,1,True,False,MISS Vincent 25' 3PT Jump Shot,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.0,2,12,0,MIA,,period_start,0,False,False,,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.0,1,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.0,1,0,0,MIA,,period_end,0,False,False,,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.18,2,11,49,MIA,MIA,ft_miss,12,False,False,MISS Dedmon Free Throw 2 of 2,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.18,2,11,49,MIA,MIA,ft_miss,11,False,False,MISS Dedmon Free Throw 1 of 2,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.18,2,11,49,MIA,DEN,foul,2,False,False,,Cancar S.FOUL (P1.T1) (A.Smith),23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.18,2,11,49,MIA,MIA,reb,1,False,False,HEAT Rebound,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.22,2,11,47,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:3),23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.47,2,11,32,DEN,DEN,fg3_miss,1,False,False,,MISS Hyland 26' 3PT Jump Shot,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.55,2,11,27,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:1 Def:2),,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.75,2,11,15,MIA,MIA,tov,45,False,False,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.87,2,11,8,MIA,DEN,foul,4,False,False,,Cancar OFF.Foul (P2) (P.Fraher),23-32,23,32
+0022100306,2021-11-29,MIA,DEN,12.87,2,11,8,DEN,DEN,tov,37,False,False,,Cancar Offensive Foul Turnover (P1.T4),23-32,23,32
+0022100306,2021-11-29,MIA,DEN,13.12,2,10,53,MIA,MIA,fg3_miss,79,False,False,MISS Lowry 26' 3PT Pullup Jump Shot,,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,13.18,2,10,49,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:2 Def:2),,23-32,23,32
+0022100306,2021-11-29,MIA,DEN,13.18,2,10,49,MIA,MIA,fg_make,72,False,False,Dedmon 2' Putback Layup (4 PTS),,25-32,25,32
+0022100306,2021-11-29,MIA,DEN,13.3,2,10,42,DEN,MIA,foul,1,False,False,Dedmon P.FOUL (P1.T1) (P.Fraher),,25-32,25,32
+0022100306,2021-11-29,MIA,DEN,13.43,2,10,34,DEN,DEN,fg3_miss,1,False,False,,MISS Rivers 27' 3PT Jump Shot,25-32,25,32
+0022100306,2021-11-29,MIA,DEN,13.48,2,10,31,DEN,DEN,reb,0,False,False,,Campazzo REBOUND (Off:1 Def:0),25-32,25,32
+0022100306,2021-11-29,MIA,DEN,13.65,2,10,21,DEN,DEN,fg3_make,1,False,False,,Hyland 29' 3PT Jump Shot (5 PTS) (Campazzo 2 AST),25-35,25,35
+0022100306,2021-11-29,MIA,DEN,13.9,2,10,6,MIA,MIA,fg_miss,6,False,False,MISS Martin 2' Driving Layup,,25-35,25,35
+0022100306,2021-11-29,MIA,DEN,13.93,2,10,4,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:3 Def:2),,25-35,25,35
+0022100306,2021-11-29,MIA,DEN,13.95,2,10,3,MIA,MIA,fg_make,72,False,False,Dedmon 2' Putback Layup (6 PTS),,27-35,27,35
+0022100306,2021-11-29,MIA,DEN,14.07,2,9,56,DEN,DEN,tov,40,False,False,,Barton Out of Bounds Lost Ball Turnover (P2.T5),27-35,27,35
+0022100306,2021-11-29,MIA,DEN,14.2,2,9,48,MIA,MIA,fg_make,52,False,False,Adebayo 3' Alley Oop Dunk (2 PTS) (Strus 1 AST),,29-35,29,35
+0022100306,2021-11-29,MIA,DEN,14.57,2,9,26,DEN,DEN,tov,45,False,False,,Barton Out of Bounds - Bad Pass Turnover Turnover (P3.T6),29-35,29,35
+0022100306,2021-11-29,MIA,DEN,14.68,2,9,19,MIA,MIA,fg3_make,1,False,False,Strus 3PT Jump Shot (6 PTS) (Adebayo 3 AST),,32-35,32,35
+0022100306,2021-11-29,MIA,DEN,14.68,2,9,19,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.2 Short 0),32-35,32,35
+0022100306,2021-11-29,MIA,DEN,14.95,2,9,3,DEN,DEN,fg3_make,1,False,False,,Hyland 30' 3PT Jump Shot (8 PTS) (Campazzo 3 AST),32-38,32,38
+0022100306,2021-11-29,MIA,DEN,15.23,2,8,46,MIA,MIA,fg3_make,1,False,False,Strus 27' 3PT Jump Shot (9 PTS) (Lowry 6 AST),,35-38,35,38
+0022100306,2021-11-29,MIA,DEN,15.45,2,8,33,DEN,DEN,fg3_make,1,False,False,,Hyland 26' 3PT Jump Shot (11 PTS) (Gordon 1 AST),35-41,35,41
+0022100306,2021-11-29,MIA,DEN,15.65,2,8,21,MIA,MIA,tov,45,False,False,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,35-41,35,41
+0022100306,2021-11-29,MIA,DEN,15.78,2,8,13,DEN,MIA,foul,2,False,False,Robinson S.FOUL (P2.T2) (A.Smith),,35-41,35,41
+0022100306,2021-11-29,MIA,DEN,15.78,2,8,13,DEN,DEN,ft_make,11,False,False,,Gordon Free Throw 1 of 2 (3 PTS),35-42,35,42
+0022100306,2021-11-29,MIA,DEN,15.78,2,8,13,DEN,DEN,ft_miss,12,False,False,,MISS Gordon Free Throw 2 of 2,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,15.82,2,8,11,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:0 Def:3),,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.1,2,7,54,MIA,MIA,fg3_miss,79,False,False,MISS Robinson 26' 3PT Pullup Jump Shot,,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.18,2,7,49,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:1),,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.32,2,7,41,MIA,MIA,fg3_miss,1,False,False,MISS Martin 24' 3PT Jump Shot,,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.33,2,7,40,DEN,DEN,reb,0,False,False,,Nuggets Rebound,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.73,2,7,16,DEN,DEN,fg_miss,86,False,False,,MISS Green 10' Turnaround Fadeaway Shot,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.77,2,7,14,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:2),,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.92,2,7,5,MIA,MIA,fg3_miss,1,False,False,MISS Strus 26' 3PT Jump Shot,,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,16.97,2,7,2,DEN,DEN,reb,0,False,False,,Gordon REBOUND (Off:0 Def:1),35-42,35,42
+0022100306,2021-11-29,MIA,DEN,17.05,2,6,57,DEN,DEN,ft_make,12,False,False,,Hyland Free Throw 2 of 2 (13 PTS),35-44,35,44
+0022100306,2021-11-29,MIA,DEN,17.05,2,6,57,DEN,MIA,foul,2,False,False,Lowry S.FOUL (P2.T3) (A.Smith),,35-42,35,42
+0022100306,2021-11-29,MIA,DEN,17.05,2,6,57,DEN,DEN,ft_make,11,False,False,,Hyland Free Throw 1 of 2 (12 PTS),35-43,35,43
+0022100306,2021-11-29,MIA,DEN,17.28,2,6,43,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,35-44,35,44
+0022100306,2021-11-29,MIA,DEN,17.37,2,6,38,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:0 Def:2),35-44,35,44
+0022100306,2021-11-29,MIA,DEN,17.62,2,6,23,DEN,DEN,fg3_make,1,False,False,,Green 3PT Jump Shot (6 PTS) (Jokic 1 AST),35-47,35,47
+0022100306,2021-11-29,MIA,DEN,17.65,2,6,21,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.0,2,6,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.0,2,6,0,MIA,MIA,fg3_miss,1,False,False,MISS Strus 28' 3PT Jump Shot,,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.17,2,5,50,DEN,DEN,tov,15,False,False,,Gordon Offensive Goaltending Turnover (P1.T7),35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.32,2,5,41,MIA,DEN,foul,1,False,False,,Hyland P.FOUL (P1.T2) (K.Cutler),35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.47,2,5,32,MIA,MIA,fg_miss,6,False,False,MISS Adebayo 1' Driving Layup,,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.5,2,5,30,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:2),,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.52,2,5,29,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.6,2,5,24,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:6),35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.72,2,5,17,DEN,MIA,steal,1,False,True,steal,steal,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.72,2,5,17,DEN,DEN,tov,1,False,True,,Hyland Bad Pass Turnover (P1.T8),35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.95,2,5,3,MIA,MIA,fg3_miss,1,False,False,MISS Strus 24' 3PT Jump Shot,,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.98,2,5,1,DEN,DEN,reb,0,False,False,,Nuggets Rebound,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,18.98,2,5,1,DEN,MIA,foul,3,False,False,Adebayo L.B.FOUL (P2.T4) (P.Fraher),,35-47,35,47
+0022100306,2021-11-29,MIA,DEN,19.18,2,4,49,DEN,DEN,fg3_make,1,False,False,,Morris 27' 3PT Jump Shot (7 PTS) (Jokic 2 AST),35-50,35,50
+0022100306,2021-11-29,MIA,DEN,19.58,2,4,25,MIA,MIA,fg_miss,79,False,False,MISS Vincent 17' Pullup Jump Shot,,35-50,35,50
+0022100306,2021-11-29,MIA,DEN,19.65,2,4,21,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:1 Def:0),,35-50,35,50
+0022100306,2021-11-29,MIA,DEN,19.67,2,4,20,MIA,MIA,fg_miss,58,False,False,MISS Adebayo 5' Turnaround Hook Shot,,35-50,35,50
+0022100306,2021-11-29,MIA,DEN,19.77,2,4,14,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:4),35-50,35,50
+0022100306,2021-11-29,MIA,DEN,19.87,2,4,8,DEN,DEN,fg3_miss,1,False,False,,MISS Morris 25' 3PT Jump Shot,35-50,35,50
+0022100306,2021-11-29,MIA,DEN,19.95,2,4,3,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:2),,35-50,35,50
+0022100306,2021-11-29,MIA,DEN,20.08,2,3,55,MIA,MIA,fg_make,79,False,False,Adebayo 11' Pullup Jump Shot (4 PTS) (Vincent 1 AST),,37-50,37,50
+0022100306,2021-11-29,MIA,DEN,20.43,2,3,34,DEN,DEN,fg_make,7,False,False,,Green 2' Dunk (8 PTS) (Gordon 2 AST),37-52,37,52
+0022100306,2021-11-29,MIA,DEN,20.62,2,3,23,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,37-52,37,52
+0022100306,2021-11-29,MIA,DEN,20.67,2,3,20,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:0 Def:3),37-52,37,52
+0022100306,2021-11-29,MIA,DEN,20.88,2,3,7,DEN,MIA,foul,1,False,False,Robinson P.FOUL (P3.PN) (K.Cutler),,37-52,37,52
+0022100306,2021-11-29,MIA,DEN,20.88,2,3,7,DEN,DEN,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (4 PTS),37-53,37,53
+0022100306,2021-11-29,MIA,DEN,20.88,2,3,7,DEN,DEN,reb,1,False,False,,Nuggets Rebound,37-52,37,52
+0022100306,2021-11-29,MIA,DEN,20.88,2,3,7,DEN,DEN,ft_miss,11,False,False,,MISS Gordon Free Throw 1 of 2,37-52,37,52
+0022100306,2021-11-29,MIA,DEN,21.1,2,2,54,MIA,MIA,fg_make,3,False,False,Tucker 3' Hook Shot (6 PTS) (Strus 2 AST),,39-53,39,53
+0022100306,2021-11-29,MIA,DEN,21.37,2,2,38,DEN,DEN,fg_make,75,False,False,,Green 3' Driving Finger Roll Layup (10 PTS),39-55,39,55
+0022100306,2021-11-29,MIA,DEN,21.7,2,2,18,MIA,MIA,fg_miss,98,False,False,MISS Dedmon 2' Cutting Layup Shot,,39-55,39,55
+0022100306,2021-11-29,MIA,DEN,21.78,2,2,13,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:0 Def:4),39-55,39,55
+0022100306,2021-11-29,MIA,DEN,21.87,2,2,8,DEN,DEN,fg3_miss,1,False,False,,MISS Green 27' 3PT Jump Shot,39-55,39,55
+0022100306,2021-11-29,MIA,DEN,21.9,2,2,6,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:6),39-55,39,55
+0022100306,2021-11-29,MIA,DEN,21.95,2,2,3,DEN,DEN,fg_make,72,False,False,,Jokic 6' Putback Layup (11 PTS),39-57,39,57
+0022100306,2021-11-29,MIA,DEN,22.13,2,1,52,MIA,MIA,fg_make,6,False,False,Lowry 4' Driving Layup (8 PTS),,41-57,41,57
+0022100306,2021-11-29,MIA,DEN,22.3,2,1,42,DEN,DEN,fg_make,5,False,False,,Jokic 2' Layup (13 PTS) (Barton 2 AST),41-59,41,59
+0022100306,2021-11-29,MIA,DEN,22.55,2,1,27,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 3PT Jump Shot,,41-59,41,59
+0022100306,2021-11-29,MIA,DEN,22.6,2,1,24,DEN,DEN,reb,0,False,False,,Gordon REBOUND (Off:0 Def:2),41-59,41,59
+0022100306,2021-11-29,MIA,DEN,22.7,2,1,18,DEN,DEN,fg_make,5,False,False,,Jokic 1' Layup (15 PTS) (Morris 2 AST),41-61,41,61
+0022100306,2021-11-29,MIA,DEN,23.0,2,1,0,MIA,MIA,ft_make,12,False,False,Dedmon Free Throw 2 of 2 (8 PTS),,43-61,43,61
+0022100306,2021-11-29,MIA,DEN,23.0,2,1,0,MIA,MIA,ft_make,11,False,False,Dedmon Free Throw 1 of 2 (7 PTS),,42-61,42,61
+0022100306,2021-11-29,MIA,DEN,23.0,2,1,0,MIA,DEN,foul,2,False,False,,Jokic S.FOUL (P1.T3) (K.Cutler),41-61,41,61
+0022100306,2021-11-29,MIA,DEN,23.3,2,0,42,DEN,DEN,fg_make,98,False,False,,Jokic 3' Cutting Layup Shot (17 PTS) (Gordon 3 AST),43-63,43,63
+0022100306,2021-11-29,MIA,DEN,23.48,2,0,31,MIA,MIA,tov,37,False,False,Dedmon Offensive Foul Turnover (P1.T5),,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,23.48,2,0,31,DEN,MIA,foul,26,False,False,Dedmon Offensive Charge Foul (P2) (P.Fraher),,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,23.82,2,0,11,DEN,MIA,block,98,True,False,block,block,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,23.82,2,0,11,DEN,DEN,fg_miss,98,True,False,,MISS Jokic 3' Cutting Layup Shot,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,23.88,2,0,7,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:1),,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,24.0,2,0,0,MIA,,period_end,0,False,False,,,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,24.0,2,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,24.0,2,0,0,MIA,MIA,fg3_miss,1,False,False,MISS Tucker 24' 3PT Jump Shot,,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,24.0,3,12,0,MIA,,period_start,0,False,False,,,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,24.2,3,11,48,MIA,MIA,fg3_miss,1,False,False,MISS Lowry 26' 3PT Jump Shot,,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,24.28,3,11,43,MIA,MIA,reb,0,False,False,Lowry REBOUND (Off:1 Def:1),,43-63,43,63
+0022100306,2021-11-29,MIA,DEN,24.47,3,11,32,MIA,MIA,fg3_make,1,False,False,Martin 26' 3PT Jump Shot (8 PTS) (Tucker 1 AST),,46-63,46,63
+0022100306,2021-11-29,MIA,DEN,24.82,3,11,11,DEN,DEN,fg3_make,1,False,False,,Gordon 3PT Jump Shot (7 PTS) (Jokic 3 AST),46-66,46,66
+0022100306,2021-11-29,MIA,DEN,25.25,3,10,45,MIA,MIA,fg3_miss,1,False,False,MISS Martin 25' 3PT Jump Shot,,46-66,46,66
+0022100306,2021-11-29,MIA,DEN,25.3,3,10,42,DEN,DEN,reb,0,False,False,,Green REBOUND (Off:0 Def:1),46-66,46,66
+0022100306,2021-11-29,MIA,DEN,25.48,3,10,31,DEN,DEN,fg3_miss,1,False,False,,MISS Barton 25' 3PT Jump Shot,46-66,46,66
+0022100306,2021-11-29,MIA,DEN,25.53,3,10,28,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:3),,46-66,46,66
+0022100306,2021-11-29,MIA,DEN,25.77,3,10,14,MIA,MIA,fg_miss,5,False,False,MISS Martin 3' Layup,,46-66,46,66
+0022100306,2021-11-29,MIA,DEN,25.82,3,10,11,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:7),46-66,46,66
+0022100306,2021-11-29,MIA,DEN,25.87,3,10,8,DEN,DEN,fg_make,50,False,False,,Gordon 2' Running Dunk (9 PTS) (Morris 3 AST),46-68,46,68
+0022100306,2021-11-29,MIA,DEN,26.2,3,9,48,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,46-68,46,68
+0022100306,2021-11-29,MIA,DEN,26.27,3,9,44,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:4 Def:3),,46-68,46,68
+0022100306,2021-11-29,MIA,DEN,26.42,3,9,35,MIA,MIA,fg_make,1,False,False,Adebayo 9' Jump Shot (6 PTS) (Robinson 2 AST),,48-68,48,68
+0022100306,2021-11-29,MIA,DEN,26.75,3,9,15,DEN,DEN,fg3_make,80,False,False,,Barton 26' 3PT Step Back Jump Shot (8 PTS) (Jokic 4 AST),48-71,48,71
+0022100306,2021-11-29,MIA,DEN,26.98,3,9,1,MIA,MIA,fg_make,1,False,False,Adebayo 15' Jump Shot (8 PTS) (Lowry 7 AST),,50-71,50,71
+0022100306,2021-11-29,MIA,DEN,27.28,3,8,43,DEN,DEN,fg_miss,80,False,False,,MISS Morris 18' Step Back Jump Shot,50-71,50,71
+0022100306,2021-11-29,MIA,DEN,27.3,3,8,42,MIA,MIA,reb,0,False,False,HEAT Rebound,,50-71,50,71
+0022100306,2021-11-29,MIA,DEN,27.42,3,8,35,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,50-71,50,71
+0022100306,2021-11-29,MIA,DEN,27.45,3,8,33,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:8),50-71,50,71
+0022100306,2021-11-29,MIA,DEN,27.53,3,8,28,DEN,DEN,tov,39,False,False,,Green Step Out of Bounds Turnover (P2.T9),50-71,50,71
+0022100306,2021-11-29,MIA,DEN,27.67,3,8,20,MIA,MIA,fg_make,1,False,False,Adebayo 9' Jump Shot (10 PTS) (Lowry 8 AST),,52-71,52,71
+0022100306,2021-11-29,MIA,DEN,27.67,3,8,20,MIA,DEN,foul,2,False,False,,Jokic S.FOUL (P2.T1) (K.Cutler),52-71,52,71
+0022100306,2021-11-29,MIA,DEN,27.67,3,8,20,MIA,MIA,ft_make,10,False,False,Adebayo Free Throw 1 of 1 (11 PTS),,53-71,53,71
+0022100306,2021-11-29,MIA,DEN,28.0,3,8,0,DEN,MIA,foul,1,False,False,Lowry P.FOUL (P3.T1) (P.Fraher),,53-71,53,71
+0022100306,2021-11-29,MIA,DEN,28.13,3,7,52,DEN,DEN,ft_miss,10,False,False,,MISS Jokic Free Throw 1 of 1,53-74,53,74
+0022100306,2021-11-29,MIA,DEN,28.13,3,7,52,DEN,MIA,foul,2,False,False,Adebayo S.FOUL (P3.T2) (P.Fraher),,53-74,53,74
+0022100306,2021-11-29,MIA,DEN,28.13,3,7,52,DEN,DEN,fg3_make,1,False,False,,Jokic 25' 3PT Jump Shot (20 PTS) (Gordon 4 AST),53-74,53,74
+0022100306,2021-11-29,MIA,DEN,28.18,3,7,49,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:2),,53-74,53,74
+0022100306,2021-11-29,MIA,DEN,28.37,3,7,38,MIA,MIA,fg_make,98,False,False,Tucker 1' Cutting Layup Shot (8 PTS) (Lowry 9 AST),,55-74,55,74
+0022100306,2021-11-29,MIA,DEN,28.63,3,7,22,DEN,DEN,fg3_make,1,False,False,,Gordon 25' 3PT Jump Shot (12 PTS) (Morris 4 AST),55-77,55,77
+0022100306,2021-11-29,MIA,DEN,28.83,3,7,10,MIA,MIA,fg_miss,6,False,False,MISS Adebayo 3' Driving Layup,,55-77,55,77
+0022100306,2021-11-29,MIA,DEN,28.88,3,7,7,DEN,DEN,reb,0,False,False,,Gordon REBOUND (Off:0 Def:3),55-77,55,77
+0022100306,2021-11-29,MIA,DEN,28.92,3,7,5,DEN,DEN,fg_make,41,False,False,,Green 1' Running Layup (12 PTS) (Gordon 5 AST),55-79,55,79
+0022100306,2021-11-29,MIA,DEN,28.92,3,7,5,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 3 Short 0),,55-79,55,79
+0022100306,2021-11-29,MIA,DEN,29.15,3,6,51,MIA,MIA,fg_make,98,False,False,Martin 1' Cutting Layup Shot (10 PTS) (Adebayo 4 AST),,57-79,57,79
+0022100306,2021-11-29,MIA,DEN,29.43,3,6,34,DEN,DEN,fg_miss,2,False,False,,MISS Jokic 6' Running Jump Shot,57-79,57,79
+0022100306,2021-11-29,MIA,DEN,29.48,3,6,31,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:3),,57-79,57,79
+0022100306,2021-11-29,MIA,DEN,29.52,3,6,29,MIA,MIA,fg_make,41,False,False,Martin 2' Running Layup (12 PTS) (Lowry 10 AST),,59-79,59,79
+0022100306,2021-11-29,MIA,DEN,29.63,3,6,22,DEN,DEN,ft_make,11,False,False,,Jokic Free Throw 1 of 2 (21 PTS),59-80,59,80
+0022100306,2021-11-29,MIA,DEN,29.63,3,6,22,DEN,MIA,foul,2,False,False,Martin S.FOUL (P2.T3) (K.Cutler),,59-79,59,79
+0022100306,2021-11-29,MIA,DEN,29.63,3,6,22,DEN,DEN,ft_make,12,False,False,,Jokic Free Throw 2 of 2 (22 PTS),59-81,59,81
+0022100306,2021-11-29,MIA,DEN,30.03,3,5,58,MIA,MIA,fg_make,6,False,False,Martin 2' Driving Layup (14 PTS),,61-81,61,81
+0022100306,2021-11-29,MIA,DEN,30.42,3,5,35,DEN,DEN,fg_miss,58,False,False,,MISS Jokic 10' Turnaround Hook Shot,61-81,61,81
+0022100306,2021-11-29,MIA,DEN,30.47,3,5,32,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:4),,61-81,61,81
+0022100306,2021-11-29,MIA,DEN,30.48,3,5,31,MIA,DEN,foul,2,False,False,,Barton S.FOUL (P1.T2) (P.Fraher),63-81,63,81
+0022100306,2021-11-29,MIA,DEN,30.48,3,5,31,MIA,MIA,fg_make,41,False,False,Adebayo 1' Running Layup (13 PTS) (Lowry 11 AST),,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,30.48,3,5,31,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.3 Short 0),63-81,63,81
+0022100306,2021-11-29,MIA,DEN,30.48,3,5,31,MIA,MIA,ft_miss,10,False,False,MISS Adebayo Free Throw 1 of 1,,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,30.53,3,5,28,DEN,DEN,reb,0,False,False,,Green REBOUND (Off:0 Def:2),63-81,63,81
+0022100306,2021-11-29,MIA,DEN,30.8,3,5,12,DEN,DEN,fg3_miss,1,False,False,,MISS Gordon 3PT Jump Shot,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,30.87,3,5,8,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:4 Def:4),,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,30.98,3,5,1,MIA,MIA,fg_miss,6,False,False,MISS Adebayo 4' Driving Layup,,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.03,3,4,58,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:9),63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.03,3,4,58,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:5 Def:4),,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.03,3,4,58,MIA,MIA,fg_miss,97,False,False,MISS Adebayo Tip Layup Shot,,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.08,3,4,55,DEN,DEN,fg3_miss,1,False,False,,MISS Morris 26' 3PT Jump Shot,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.18,3,4,49,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:5),,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.18,3,4,49,MIA,DEN,foul,28,False,False,,Green Personal Take Foul (P1.T3) (A.Smith),63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.32,3,4,41,MIA,MIA,fg_miss,43,False,False,MISS Martin 2' Alley Oop Layup,,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.38,3,4,37,DEN,DEN,reb,0,False,False,,Green REBOUND (Off:0 Def:3),63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.68,3,4,19,DEN,DEN,fg3_miss,80,False,False,,MISS Rivers 26' 3PT Step Back Jump Shot,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.78,3,4,13,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:5 Def:5),,63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.82,3,4,11,MIA,DEN,foul,1,False,False,,Campazzo P.FOUL (P1.T4) (P.Fraher),63-81,63,81
+0022100306,2021-11-29,MIA,DEN,31.95,3,4,3,MIA,MIA,fg_make,98,False,False,Adebayo 2' Cutting Layup Shot (15 PTS) (Robinson 3 AST),,65-81,65,81
+0022100306,2021-11-29,MIA,DEN,32.17,3,3,50,DEN,DEN,fg3_make,1,False,False,,Nnaji 3PT Jump Shot (3 PTS) (Campazzo 4 AST),65-84,65,84
+0022100306,2021-11-29,MIA,DEN,32.48,3,3,31,MIA,MIA,fg_make,79,False,False,Adebayo 10' Pullup Jump Shot (17 PTS),,67-84,67,84
+0022100306,2021-11-29,MIA,DEN,32.82,3,3,11,DEN,DEN,fg_make,6,False,False,,Rivers 3' Driving Layup (7 PTS) (Campazzo 5 AST),67-86,67,86
+0022100306,2021-11-29,MIA,DEN,33.13,3,2,52,MIA,MIA,fg_make,1,False,False,Adebayo 16' Jump Shot (19 PTS) (Lowry 12 AST),,69-86,69,86
+0022100306,2021-11-29,MIA,DEN,33.53,3,2,28,DEN,DEN,fg3_miss,66,False,False,,MISS Jokic 28' 3PT Jump Bank Shot,69-86,69,86
+0022100306,2021-11-29,MIA,DEN,33.63,3,2,22,DEN,DEN,reb,0,False,False,,Rivers REBOUND (Off:1 Def:0),69-86,69,86
+0022100306,2021-11-29,MIA,DEN,33.65,3,2,21,DEN,DEN,fg3_make,1,False,False,,Campazzo 26' 3PT Jump Shot (5 PTS) (Rivers 1 AST),69-89,69,89
+0022100306,2021-11-29,MIA,DEN,34.07,3,1,56,MIA,DEN,foul,1,False,False,,Nnaji P.FOUL (P3.PN) (A.Smith),69-89,69,89
+0022100306,2021-11-29,MIA,DEN,34.07,3,1,56,MIA,MIA,ft_make,11,False,False,Lowry Free Throw 1 of 2 (9 PTS),,70-89,70,89
+0022100306,2021-11-29,MIA,DEN,34.07,3,1,56,MIA,MIA,ft_make,12,False,False,Lowry Free Throw 2 of 2 (10 PTS),,71-89,71,89
+0022100306,2021-11-29,MIA,DEN,34.25,3,1,45,MIA,DEN,foul,26,False,False,,Campazzo Offensive Charge Foul (P2) (A.Smith),71-89,71,89
+0022100306,2021-11-29,MIA,DEN,34.25,3,1,45,DEN,DEN,tov,37,False,False,,Campazzo Offensive Foul Turnover (P1.T10),71-89,71,89
+0022100306,2021-11-29,MIA,DEN,34.42,3,1,35,MIA,MIA,fg_make,80,False,False,Lowry 21' Step Back Jump Shot (12 PTS),,73-89,73,89
+0022100306,2021-11-29,MIA,DEN,34.67,3,1,20,DEN,DEN,fg3_miss,1,False,False,,MISS Hyland 25' 3PT Jump Shot,73-89,73,89
+0022100306,2021-11-29,MIA,DEN,34.72,3,1,17,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:3 Def:3),,73-89,73,89
+0022100306,2021-11-29,MIA,DEN,34.82,3,1,11,MIA,MIA,fg3_miss,1,False,False,MISS Dedmon 26' 3PT Jump Shot,,73-89,73,89
+0022100306,2021-11-29,MIA,DEN,34.9,3,1,6,DEN,DEN,reb,0,False,False,,Rivers REBOUND (Off:1 Def:1),73-89,73,89
+0022100306,2021-11-29,MIA,DEN,34.97,3,1,2,DEN,DEN,fg3_make,1,False,False,,Barton 25' 3PT Jump Shot (11 PTS) (Hyland 1 AST),73-92,73,92
+0022100306,2021-11-29,MIA,DEN,35.17,3,0,50,MIA,MIA,ft_make,12,False,False,Lowry Free Throw 2 of 2 (14 PTS),,75-92,75,92
+0022100306,2021-11-29,MIA,DEN,35.17,3,0,50,MIA,DEN,foul,1,False,False,,Rivers P.FOUL (P1.PN) (K.Cutler),73-92,73,92
+0022100306,2021-11-29,MIA,DEN,35.17,3,0,50,MIA,MIA,ft_make,11,False,False,Lowry Free Throw 1 of 2 (13 PTS),,74-92,74,92
+0022100306,2021-11-29,MIA,DEN,35.57,3,0,26,DEN,DEN,fg_miss,78,False,False,,MISS Campazzo 13' Floating Jump Shot,75-92,75,92
+0022100306,2021-11-29,MIA,DEN,35.65,3,0,21,MIA,MIA,reb,0,False,False,Strus REBOUND (Off:0 Def:1),,75-92,75,92
+0022100306,2021-11-29,MIA,DEN,35.92,3,0,5,MIA,MIA,fg3_make,1,False,False,Vincent 26' 3PT Jump Shot (3 PTS) (Lowry 13 AST),,78-92,78,92
+0022100306,2021-11-29,MIA,DEN,35.98,3,0,1,DEN,DEN,fg3_make,1,False,False,,Campazzo 28' 3PT Jump Shot (8 PTS) (Hyland 2 AST),78-95,78,95
+0022100306,2021-11-29,MIA,DEN,36.0,4,12,0,MIA,,period_start,0,False,False,,,78-95,78,95
+0022100306,2021-11-29,MIA,DEN,36.0,3,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,78-95,78,95
+0022100306,2021-11-29,MIA,DEN,36.0,3,0,0,MIA,,period_end,0,False,False,,,78-95,78,95
+0022100306,2021-11-29,MIA,DEN,36.0,3,0,0,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 66' 3PT Jump Shot,,78-95,78,95
+0022100306,2021-11-29,MIA,DEN,36.35,4,11,39,DEN,DEN,fg_miss,86,False,False,,MISS Gordon 14' Turnaround Fadeaway Shot,78-95,78,95
+0022100306,2021-11-29,MIA,DEN,36.43,4,11,34,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:5 Def:6),,78-95,78,95
+0022100306,2021-11-29,MIA,DEN,36.68,4,11,19,MIA,MIA,fg_make,47,False,False,Adebayo 13' Turnaround Jump Shot (21 PTS),,80-95,80,95
+0022100306,2021-11-29,MIA,DEN,36.98,4,11,1,DEN,DEN,fg3_make,1,False,False,,Hyland 28' 3PT Jump Shot (16 PTS) (Barton 3 AST),80-98,80,98
+0022100306,2021-11-29,MIA,DEN,37.32,4,10,41,MIA,MIA,fg3_make,1,False,False,Strus 27' 3PT Jump Shot (12 PTS) (Adebayo 5 AST),,83-98,83,98
+0022100306,2021-11-29,MIA,DEN,37.62,4,10,23,DEN,DEN,fg3_miss,1,False,False,,MISS Hyland 27' 3PT Jump Shot,83-98,83,98
+0022100306,2021-11-29,MIA,DEN,37.7,4,10,18,MIA,MIA,reb,0,False,False,Strus REBOUND (Off:0 Def:2),,83-98,83,98
+0022100306,2021-11-29,MIA,DEN,37.75,4,10,15,MIA,MIA,fg_make,52,False,False,Martin Alley Oop Dunk (16 PTS) (Vincent 2 AST),,85-98,85,98
+0022100306,2021-11-29,MIA,DEN,37.75,4,10,15,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.4 Short 0),85-98,85,98
+0022100306,2021-11-29,MIA,DEN,38.08,4,9,55,DEN,DEN,fg3_make,1,False,False,,Barton 3PT Jump Shot (14 PTS) (Hyland 3 AST),85-101,85,101
+0022100306,2021-11-29,MIA,DEN,38.42,4,9,35,MIA,DEN,foul,2,False,False,,Green S.FOUL (P2.T1) (A.Smith),85-101,85,101
+0022100306,2021-11-29,MIA,DEN,38.42,4,9,35,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (22 PTS),,86-101,86,101
+0022100306,2021-11-29,MIA,DEN,38.42,4,9,35,MIA,MIA,ft_miss,12,False,False,MISS Adebayo Free Throw 2 of 2,,86-101,86,101
+0022100306,2021-11-29,MIA,DEN,38.47,4,9,32,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:5),86-101,86,101
+0022100306,2021-11-29,MIA,DEN,38.7,4,9,18,DEN,DEN,fg_make,108,False,False,,Gordon 2' Cutting Dunk Shot (14 PTS) (Barton 4 AST),86-103,86,103
+0022100306,2021-11-29,MIA,DEN,39.02,4,8,59,MIA,MIA,fg3_make,79,False,False,Strus 26' 3PT Pullup Jump Shot (15 PTS),,89-103,89,103
+0022100306,2021-11-29,MIA,DEN,39.28,4,8,43,DEN,DEN,tov,45,False,False,,Campazzo Out of Bounds - Bad Pass Turnover Turnover (P2.T11),89-103,89,103
+0022100306,2021-11-29,MIA,DEN,39.45,4,8,33,MIA,MIA,fg3_miss,1,False,False,MISS Strus 28' 3PT Jump Shot,,89-103,89,103
+0022100306,2021-11-29,MIA,DEN,39.52,4,8,29,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:6 Def:6),,89-103,89,103
+0022100306,2021-11-29,MIA,DEN,39.57,4,8,26,DEN,MIA,foul,4,False,False,Adebayo OFF.Foul (P4) (A.Smith),,89-103,89,103
+0022100306,2021-11-29,MIA,DEN,39.57,4,8,26,MIA,MIA,tov,37,False,False,Adebayo Offensive Foul Turnover (P3.T6),,89-103,89,103
+0022100306,2021-11-29,MIA,DEN,39.9,4,8,6,DEN,DEN,fg_make,101,False,False,,Campazzo 10' Driving Floating Jump Shot (10 PTS) (Morris 5 AST),89-105,89,105
+0022100306,2021-11-29,MIA,DEN,40.2,4,7,48,MIA,MIA,fg_make,99,False,False,Vincent 1' Cutting Finger Roll Layup Shot (5 PTS) (Adebayo 6 AST),,91-105,91,105
+0022100306,2021-11-29,MIA,DEN,40.48,4,7,31,DEN,DEN,fg_make,43,False,False,,Gordon 2' Alley Oop Layup (16 PTS) (Jokic 5 AST),91-107,91,107
+0022100306,2021-11-29,MIA,DEN,40.5,4,7,30,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 4 Short 0),,91-107,91,107
+0022100306,2021-11-29,MIA,DEN,40.68,4,7,19,MIA,MIA,fg_miss,44,False,False,MISS Vincent 2' Reverse Layup,,91-107,91,107
+0022100306,2021-11-29,MIA,DEN,40.75,4,7,15,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:10),91-107,91,107
+0022100306,2021-11-29,MIA,DEN,41.02,4,6,59,DEN,DEN,fg3_make,1,False,False,,Hyland 3PT Jump Shot (19 PTS) (Jokic 6 AST),91-110,91,110
+0022100306,2021-11-29,MIA,DEN,41.03,4,6,58,MIA,DEN,foul,11,False,False,,Hyland T.FOUL (P1.T1) (A.Smith),91-110,91,110
+0022100306,2021-11-29,MIA,DEN,41.03,4,6,58,MIA,MIA,ft_make,16,False,False,Strus Free Throw Technical (16 PTS),,92-110,92,110
+0022100306,2021-11-29,MIA,DEN,41.28,4,6,43,MIA,MIA,tov,40,False,False,Adebayo Out of Bounds Lost Ball Turnover (P4.T7),,92-110,92,110
+0022100306,2021-11-29,MIA,DEN,41.52,4,6,29,DEN,MIA,foul,1,False,False,Strus P.FOUL (P2.T1) (K.Cutler),,92-110,92,110
+0022100306,2021-11-29,MIA,DEN,41.67,4,6,20,MIA,DEN,foul,4,False,False,,Hyland OFF.Foul (P2) (K.Cutler),92-110,92,110
+0022100306,2021-11-29,MIA,DEN,41.67,4,6,20,DEN,DEN,tov,37,False,False,,Hyland Offensive Foul Turnover (P2.T12),92-110,92,110
+0022100306,2021-11-29,MIA,DEN,41.83,4,6,10,MIA,MIA,fg3_make,1,False,False,Lowry 27' 3PT Jump Shot (17 PTS) (Strus 3 AST),,95-110,95,110
+0022100306,2021-11-29,MIA,DEN,42.17,4,5,50,DEN,DEN,fg_make,101,False,False,,Morris 8' Driving Floating Jump Shot (9 PTS),95-112,95,112
+0022100306,2021-11-29,MIA,DEN,42.37,4,5,38,MIA,MIA,fg_make,108,False,False,Adebayo 2' Cutting Dunk Shot (24 PTS) (Vincent 3 AST),,97-112,97,112
+0022100306,2021-11-29,MIA,DEN,42.62,4,5,23,DEN,DEN,fg3_miss,1,False,False,,MISS Gordon 27' 3PT Jump Shot,97-112,97,112
+0022100306,2021-11-29,MIA,DEN,42.68,4,5,19,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:6 Def:7),,97-112,97,112
+0022100306,2021-11-29,MIA,DEN,42.92,4,5,5,MIA,MIA,fg3_miss,1,False,False,MISS Strus 24' 3PT Jump Shot,,97-112,97,112
+0022100306,2021-11-29,MIA,DEN,42.98,4,5,1,DEN,DEN,reb,0,False,False,,Gordon REBOUND (Off:0 Def:4),97-112,97,112
+0022100306,2021-11-29,MIA,DEN,43.28,4,4,43,DEN,DEN,fg_make,5,False,False,,Gordon 2' Layup (18 PTS) (Jokic 7 AST),97-114,97,114
+0022100306,2021-11-29,MIA,DEN,43.28,4,4,43,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 5 Short 0),,97-114,97,114
+0022100306,2021-11-29,MIA,DEN,43.48,4,4,31,MIA,DEN,steal,1,False,True,steal,steal,97-114,97,114
+0022100306,2021-11-29,MIA,DEN,43.48,4,4,31,MIA,MIA,tov,1,False,True,Vincent Bad Pass Turnover (P2.T8),,97-114,97,114
+0022100306,2021-11-29,MIA,DEN,43.72,4,4,17,DEN,MIA,foul,2,False,False,Adebayo S.FOUL (P5.T2) (A.Smith),,97-114,97,114
+0022100306,2021-11-29,MIA,DEN,43.72,4,4,17,DEN,DEN,ft_make,11,False,False,,Gordon Free Throw 1 of 2 (19 PTS),97-115,97,115
+0022100306,2021-11-29,MIA,DEN,43.72,4,4,17,DEN,DEN,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (20 PTS),97-116,97,116
+0022100306,2021-11-29,MIA,DEN,43.93,4,4,4,MIA,MIA,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,97-116,97,116
+0022100306,2021-11-29,MIA,DEN,44.02,4,3,59,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:11),97-116,97,116
+0022100306,2021-11-29,MIA,DEN,44.23,4,3,46,DEN,DEN,fg_make,78,False,False,,Jokic 9' Floating Jump Shot (24 PTS) (Morris 6 AST),97-118,97,118
+0022100306,2021-11-29,MIA,DEN,44.35,4,3,39,MIA,MIA,tov,45,False,False,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P5.T9),,97-118,97,118
+0022100306,2021-11-29,MIA,DEN,44.77,4,3,14,DEN,DEN,fg_miss,86,False,False,,MISS Jokic 18' Turnaround Fadeaway Shot,97-118,97,118
+0022100306,2021-11-29,MIA,DEN,44.85,4,3,9,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:6),,97-118,97,118
+0022100306,2021-11-29,MIA,DEN,44.98,4,3,1,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 26' 3PT Jump Shot,,97-118,97,118
+0022100306,2021-11-29,MIA,DEN,45.05,4,2,57,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:12),97-118,97,118
+0022100306,2021-11-29,MIA,DEN,45.38,4,2,37,DEN,DEN,tov,4,False,False,,Gordon Traveling Turnover (P2.T13),97-118,97,118
+0022100306,2021-11-29,MIA,DEN,45.58,4,2,25,MIA,MIA,fg3_make,79,False,False,Strus 27' 3PT Pullup Jump Shot (19 PTS) (Lowry 14 AST),,100-118,100,118
+0022100306,2021-11-29,MIA,DEN,46.02,4,1,59,DEN,DEN,fg_make,79,False,False,,Morris 18' Pullup Jump Shot (11 PTS),100-120,100,120
+0022100306,2021-11-29,MIA,DEN,46.33,4,1,40,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.5 Short 0),103-120,103,120
+0022100306,2021-11-29,MIA,DEN,46.33,4,1,40,MIA,MIA,fg3_make,1,False,False,Vincent 3PT Jump Shot (8 PTS) (Tucker 2 AST),,103-120,103,120
+0022100306,2021-11-29,MIA,DEN,46.73,4,1,16,DEN,DEN,fg_miss,79,False,False,,MISS Campazzo 14' Pullup Jump Shot,103-120,103,120
+0022100306,2021-11-29,MIA,DEN,46.8,4,1,12,MIA,MIA,reb,0,False,False,Okpala REBOUND (Off:0 Def:1),,103-120,103,120
+0022100306,2021-11-29,MIA,DEN,46.82,4,1,11,MIA,DEN,foul,1,False,False,,Hyland P.FOUL (P3.T2) (P.Fraher),103-120,103,120
+0022100306,2021-11-29,MIA,DEN,46.93,4,1,4,MIA,MIA,fg3_make,1,False,False,Vincent 25' 3PT Jump Shot (11 PTS) (Martin 1 AST),,106-120,106,120
+0022100306,2021-11-29,MIA,DEN,47.33,4,0,40,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:0 Def:1),,106-120,106,120
+0022100306,2021-11-29,MIA,DEN,47.33,4,0,40,DEN,DEN,fg_miss,6,False,False,,MISS Cancar 3' Driving Layup,106-120,106,120
+0022100306,2021-11-29,MIA,DEN,47.43,4,0,34,MIA,MIA,fg_miss,101,False,False,MISS Martin 10' Driving Floating Jump Shot,,106-120,106,120
+0022100306,2021-11-29,MIA,DEN,47.47,4,0,32,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:1 Def:3),,106-120,106,120
+0022100306,2021-11-29,MIA,DEN,47.48,4,0,31,MIA,MIA,fg_make,72,False,False,Martin 2' Putback Layup (18 PTS),,108-120,108,120
+0022100306,2021-11-29,MIA,DEN,47.83,4,0,10,DEN,DEN,fg3_miss,1,False,False,,MISS Howard 28' 3PT Jump Shot,108-120,108,120
+0022100306,2021-11-29,MIA,DEN,47.92,4,0,5,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:0 Def:2),,108-120,108,120
+0022100306,2021-11-29,MIA,DEN,48.0,4,0,0,MIA,MIA,fg3_make,80,False,False,Vincent 29' 3PT Step Back Jump Shot (14 PTS),,111-120,111,120
+0022100306,2021-11-29,MIA,DEN,48.0,4,0,0,MIA,,period_end,0,False,False,,,111-120,111,120

@@ -1,0 +1,426 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101110,2022-03-26,CLE,CHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.0,1,12,0,,CLE,jump_ball,0,False,False,Jump Ball Mobley vs. Vucevic: Tip to Dosunmu,,0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.25,1,11,45,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 18' Pullup Jump Shot,0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.3,1,11,42,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:1),,0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.35,1,11,39,CLE,CHI,foul,1,False,False,,DeRozan P.FOUL (P1.T1) (J.Goble),0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.52,1,11,29,CLE,CHI,foul,2,False,False,,Vucevic S.FOUL (P1.T2) (J.Schroeder),0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.52,1,11,29,CLE,CLE,ft_miss,11,False,False,MISS Okoro Free Throw 1 of 2,,0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.52,1,11,29,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,0-0,0,0
+0022101110,2022-03-26,CLE,CHI,0.52,1,11,29,CLE,CLE,ft_make,12,False,False,Okoro Free Throw 2 of 2 (1 PTS),,1-0,1,0
+0022101110,2022-03-26,CLE,CHI,0.75,1,11,15,CHI,CHI,fg_make,1,False,False,,Vucevic 10' Jump Shot (2 PTS) (Dosunmu 1 AST),1-2,1,2
+0022101110,2022-03-26,CLE,CHI,1.13,1,10,52,CLE,CLE,fg_make,6,False,False,Markkanen 3' Driving Layup (2 PTS) (Mobley 1 AST),,3-2,3,2
+0022101110,2022-03-26,CLE,CHI,1.42,1,10,35,CHI,CHI,fg3_make,1,False,False,,LaVine 3PT Jump Shot (3 PTS) (Dosunmu 2 AST),3-5,3,5
+0022101110,2022-03-26,CLE,CHI,1.68,1,10,19,CLE,CLE,fg_make,5,False,False,Mobley 1' Layup (2 PTS) (LeVert 1 AST),,5-5,5,5
+0022101110,2022-03-26,CLE,CHI,1.98,1,10,1,CHI,CHI,fg3_make,1,False,False,,Caruso 3PT Jump Shot (3 PTS) (Dosunmu 3 AST),5-8,5,8
+0022101110,2022-03-26,CLE,CHI,2.33,1,9,40,CLE,CLE,fg_miss,86,False,False,MISS Mobley 9' Turnaround Fadeaway Shot,,5-8,5,8
+0022101110,2022-03-26,CLE,CHI,2.38,1,9,37,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:0 Def:1),5-8,5,8
+0022101110,2022-03-26,CLE,CHI,2.48,1,9,31,CHI,CHI,fg_make,73,False,False,,Vucevic 1' Driving Reverse Layup (4 PTS) (Dosunmu 4 AST),5-10,5,10
+0022101110,2022-03-26,CLE,CHI,2.73,1,9,16,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,5-10,5,10
+0022101110,2022-03-26,CLE,CHI,2.77,1,9,14,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:1),5-10,5,10
+0022101110,2022-03-26,CLE,CHI,3.02,1,8,59,CHI,CHI,fg_make,6,False,False,,LaVine 2' Driving Layup (5 PTS) (Caruso 1 AST),5-12,5,12
+0022101110,2022-03-26,CLE,CHI,3.38,1,8,37,CLE,CLE,fg3_miss,1,False,False,MISS LeVert 25' 3PT Jump Shot,,5-12,5,12
+0022101110,2022-03-26,CLE,CHI,3.43,1,8,34,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:1),5-12,5,12
+0022101110,2022-03-26,CLE,CHI,3.58,1,8,25,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 26' 3PT Jump Shot,5-12,5,12
+0022101110,2022-03-26,CLE,CHI,3.65,1,8,21,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,5-12,5,12
+0022101110,2022-03-26,CLE,CHI,3.78,1,8,13,CLE,CLE,fg_make,47,False,False,LeVert 3' Turnaround Jump Shot (2 PTS),,7-12,7,12
+0022101110,2022-03-26,CLE,CHI,4.05,1,7,57,CHI,CHI,tov,1,False,True,,DeRozan Bad Pass Turnover (P1.T1),7-12,7,12
+0022101110,2022-03-26,CLE,CHI,4.05,1,7,57,CHI,CLE,steal,1,False,True,steal,steal,7-12,7,12
+0022101110,2022-03-26,CLE,CHI,4.17,1,7,50,CHI,CLE,foul,4,False,False,Okoro OFF.Foul (P1) (J.Goble),,7-12,7,12
+0022101110,2022-03-26,CLE,CHI,4.17,1,7,50,CLE,CLE,tov,37,False,False,Okoro Offensive Foul Turnover (P1.T1),,7-12,7,12
+0022101110,2022-03-26,CLE,CHI,4.4,1,7,36,CHI,CHI,fg_make,63,False,False,,DeRozan 10' Fadeaway Jumper (2 PTS),7-14,7,14
+0022101110,2022-03-26,CLE,CHI,4.63,1,7,22,CLE,CLE,fg3_miss,80,False,False,MISS LeVert 25' 3PT Step Back Jump Shot,,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,4.67,1,7,20,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:1 Def:1),,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,4.73,1,7,16,CLE,CLE,tov,45,False,False,LeVert Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.03,1,6,58,CHI,CHI,fg3_miss,80,False,False,,MISS LaVine 3PT Step Back Jump Shot,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.05,1,6,57,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.05,1,6,57,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.32,1,6,41,CLE,CLE,tov,1,False,True,Mobley Bad Pass Turnover (P1.T3),,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.32,1,6,41,CLE,CHI,steal,1,False,True,steal,steal,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.35,1,6,39,CHI,CLE,foul,1,False,False,LeVert P.FOUL (P1.T1) (J.Schroeder),,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.47,1,6,32,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 19' Pullup Jump Shot,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.53,1,6,28,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:0 Def:2),,7-14,7,14
+0022101110,2022-03-26,CLE,CHI,5.63,1,6,22,CLE,CLE,fg3_make,1,False,False,Markkanen 25' 3PT Jump Shot (5 PTS) (Garland 1 AST),,10-14,10,14
+0022101110,2022-03-26,CLE,CHI,6.08,1,5,55,CHI,CHI,fg_miss,5,True,False,,MISS Vucevic 7' Layup,10-14,10,14
+0022101110,2022-03-26,CLE,CHI,6.08,1,5,55,CHI,CLE,block,5,True,False,block,block,10-14,10,14
+0022101110,2022-03-26,CLE,CHI,6.1,1,5,54,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:1 Def:2),,10-14,10,14
+0022101110,2022-03-26,CLE,CHI,6.1,1,5,54,CLE,CHI,foul,1,False,False,,Dosunmu P.FOUL (P1.T3) (J.Goble),10-14,10,14
+0022101110,2022-03-26,CLE,CHI,6.42,1,5,35,CLE,CLE,fg3_miss,1,False,False,MISS Osman 3PT Jump Shot,,10-14,10,14
+0022101110,2022-03-26,CLE,CHI,6.47,1,5,32,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:2),10-14,10,14
+0022101110,2022-03-26,CLE,CHI,6.6,1,5,24,CHI,CHI,fg3_make,1,False,False,,Vucevic 26' 3PT Jump Shot (7 PTS) (LaVine 1 AST),10-17,10,17
+0022101110,2022-03-26,CLE,CHI,6.87,1,5,8,CLE,CLE,fg_make,98,False,False,LeVert 1' Cutting Layup Shot (4 PTS) (Mobley 2 AST),,12-17,12,17
+0022101110,2022-03-26,CLE,CHI,6.98,1,5,1,CHI,CHI,fg_make,63,False,False,,LaVine 14' Fadeaway Jumper (7 PTS),12-19,12,19
+0022101110,2022-03-26,CLE,CHI,7.43,1,4,34,CLE,CLE,fg3_miss,80,False,False,MISS Markkanen 25' 3PT Step Back Jump Shot,,12-19,12,19
+0022101110,2022-03-26,CLE,CHI,7.48,1,4,31,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:0 Def:2),12-19,12,19
+0022101110,2022-03-26,CLE,CHI,7.7,1,4,18,CHI,CHI,fg_make,5,False,False,,Vucevic 2' Layup (9 PTS) (Caruso 2 AST),12-21,12,21
+0022101110,2022-03-26,CLE,CHI,7.7,1,4,18,CHI,CLE,foul,2,False,False,Mobley S.FOUL (P1.T2) (J.Goble),,12-21,12,21
+0022101110,2022-03-26,CLE,CHI,7.7,1,4,18,CHI,CHI,ft_make,10,False,False,,Vucevic Free Throw 1 of 1 (10 PTS),12-22,12,22
+0022101110,2022-03-26,CLE,CHI,7.95,1,4,3,CLE,CLE,fg3_miss,1,False,False,MISS Love 25' 3PT Jump Shot,,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.0,1,4,0,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:1),12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.13,1,3,52,CHI,CHI,fg_miss,101,False,False,,MISS LaVine 7' Driving Floating Jump Shot,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.18,1,3,49,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:1),,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.3,1,3,42,CLE,CLE,fg3_miss,1,False,False,MISS Love 24' 3PT Jump Shot,,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.35,1,3,39,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:1),12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.4,1,3,36,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.1 Short 0),12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.53,1,3,28,CHI,CHI,fg3_miss,1,False,False,,MISS White 26' 3PT Jump Shot,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.58,1,3,25,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:2),,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.78,1,3,13,CLE,CLE,tov,1,False,True,Markkanen Bad Pass Turnover (P1.T4),,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,8.78,1,3,13,CLE,CHI,steal,1,False,True,steal,steal,12-22,12,22
+0022101110,2022-03-26,CLE,CHI,9.07,1,2,56,CHI,CHI,fg_make,6,False,False,,Green Driving Layup (2 PTS),12-24,12,24
+0022101110,2022-03-26,CLE,CHI,9.47,1,2,32,CLE,CLE,fg_make,80,False,False,Garland 17' Step Back Jump Shot (2 PTS),,14-24,14,24
+0022101110,2022-03-26,CLE,CHI,9.7,1,2,18,CHI,CHI,fg3_miss,79,False,False,,MISS LaVine 27' 3PT Pullup Jump Shot,14-24,14,24
+0022101110,2022-03-26,CLE,CHI,9.73,1,2,16,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:0 Def:1),,14-24,14,24
+0022101110,2022-03-26,CLE,CHI,9.93,1,2,4,CLE,CLE,fg_miss,1,False,False,MISS Markkanen 5' Jump Shot,,14-24,14,24
+0022101110,2022-03-26,CLE,CHI,9.97,1,2,2,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:1 Def:0),,14-24,14,24
+0022101110,2022-03-26,CLE,CHI,9.98,1,2,1,CLE,CLE,fg_make,107,False,False,Stevens Tip Dunk Shot (2 PTS),,16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.18,1,1,49,CHI,CLE,foul,1,False,False,Osman P.FOUL (P1.T3) (J.Goble),,16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.38,1,1,37,CHI,CHI,fg_miss,86,False,False,,MISS DeRozan 17' Turnaround Fadeaway Shot,16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.43,1,1,34,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:1),,16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.55,1,1,27,CLE,CLE,fg3_miss,1,False,False,MISS Garland 28' 3PT Jump Shot,,16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.6,1,1,24,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.73,1,1,16,CHI,CHI,fg3_miss,1,False,False,,MISS Green 28' 3PT Jump Shot,16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.75,1,1,15,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:1 Def:1),16-24,16,24
+0022101110,2022-03-26,CLE,CHI,10.77,1,1,14,CHI,CHI,fg_make,97,False,False,,Thompson Tip Layup Shot (2 PTS),16-26,16,26
+0022101110,2022-03-26,CLE,CHI,11.02,1,0,59,CLE,CLE,tov,1,False,True,Osman Bad Pass Turnover (P1.T5),,16-26,16,26
+0022101110,2022-03-26,CLE,CHI,11.02,1,0,59,CLE,CHI,steal,1,False,True,steal,steal,16-26,16,26
+0022101110,2022-03-26,CLE,CHI,11.25,1,0,45,CHI,CHI,fg_make,79,False,False,,DeRozan 15' Pullup Jump Shot (4 PTS),16-28,16,28
+0022101110,2022-03-26,CLE,CHI,11.63,1,0,22,CLE,CLE,fg_miss,101,False,False,MISS Garland 6' Driving Floating Jump Shot,,16-28,16,28
+0022101110,2022-03-26,CLE,CHI,11.68,1,0,19,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:2),16-28,16,28
+0022101110,2022-03-26,CLE,CHI,11.98,1,0,1,CHI,CHI,fg3_miss,1,False,False,,MISS Green 27' 3PT Jump Shot,16-28,16,28
+0022101110,2022-03-26,CLE,CHI,11.98,1,0,1,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:2),,16-28,16,28
+0022101110,2022-03-26,CLE,CHI,12.0,1,0,0,CLE,,period_end,0,False,False,,,16-28,16,28
+0022101110,2022-03-26,CLE,CHI,12.0,2,12,0,CLE,,period_start,0,False,False,,,16-28,16,28
+0022101110,2022-03-26,CLE,CHI,12.2,2,11,48,CLE,CLE,fg_make,1,False,False,Stevens 21' Jump Shot (4 PTS) (Garland 2 AST),,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,12.53,2,11,28,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 22' Pullup Jump Shot,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,12.58,2,11,25,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:0 Def:1),,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,12.7,2,11,18,CLE,CLE,fg3_miss,1,False,False,MISS Mobley 25' 3PT Jump Shot,,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,12.72,2,11,17,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:2 Def:2),,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,12.72,2,11,17,CLE,CLE,fg_miss,107,False,False,MISS Markkanen Tip Dunk Shot,,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,12.72,2,11,17,CHI,CHI,reb,0,False,False,,Bulls Rebound,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,13.03,2,10,58,CHI,CHI,tov,1,False,True,,DeRozan Bad Pass Turnover (P2.T2),18-28,18,28
+0022101110,2022-03-26,CLE,CHI,13.03,2,10,58,CHI,CLE,steal,1,False,True,steal,steal,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,13.13,2,10,52,CLE,CLE,tov,2,False,True,Stevens Lost Ball Turnover (P1.T6),,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,13.13,2,10,52,CLE,CHI,steal,2,False,True,steal,steal,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,13.15,2,10,51,CHI,CLE,foul,1,False,False,Garland P.FOUL (P1.T1) (M.Davis),,18-28,18,28
+0022101110,2022-03-26,CLE,CHI,13.3,2,10,42,CHI,CHI,fg_make,79,False,False,,DeRozan 18' Pullup Jump Shot (6 PTS) (Caruso 3 AST),18-30,18,30
+0022101110,2022-03-26,CLE,CHI,13.3,2,10,42,CHI,CLE,foul,2,False,False,Markkanen S.FOUL (P1.T2) (J.Goble),,18-30,18,30
+0022101110,2022-03-26,CLE,CHI,13.3,2,10,42,CHI,CHI,ft_miss,10,False,False,,MISS DeRozan Free Throw 1 of 1,18-30,18,30
+0022101110,2022-03-26,CLE,CHI,13.33,2,10,40,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:3),,18-30,18,30
+0022101110,2022-03-26,CLE,CHI,13.53,2,10,28,CLE,CHI,foul,1,False,False,,DeRozan P.FOUL (P2.T1) (M.Davis),18-30,18,30
+0022101110,2022-03-26,CLE,CHI,13.67,2,10,20,CLE,CLE,tov,1,False,True,Love Bad Pass Turnover (P1.T7),,18-30,18,30
+0022101110,2022-03-26,CLE,CHI,13.67,2,10,20,CLE,CHI,steal,1,False,True,steal,steal,18-30,18,30
+0022101110,2022-03-26,CLE,CHI,13.72,2,10,17,CHI,CHI,fg_make,41,False,False,,Thompson 1' Running Layup (4 PTS) (Williams 1 AST),18-32,18,32
+0022101110,2022-03-26,CLE,CHI,13.72,2,10,17,CHI,CLE,foul,2,False,False,Love S.FOUL (P1.T3) (M.Davis),,18-32,18,32
+0022101110,2022-03-26,CLE,CHI,13.72,2,10,17,CHI,CHI,ft_make,10,False,False,,Thompson Free Throw 1 of 1 (5 PTS),18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.05,2,9,57,CLE,CLE,fg_miss,47,False,False,MISS Mobley 5' Turnaround Jump Shot,,18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.1,2,9,54,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:3),18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.43,2,9,34,CHI,CHI,fg_miss,79,False,False,,MISS Thompson 17' Pullup Jump Shot,18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.5,2,9,30,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:3),,18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.62,2,9,23,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 27' 3PT Jump Shot,,18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.67,2,9,20,CHI,CHI,reb,0,False,False,,White REBOUND (Off:0 Def:1),18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.8,2,9,12,CHI,CHI,fg_miss,86,False,False,,MISS White 17' Turnaround Fadeaway Shot,18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.85,2,9,9,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:2 Def:3),,18-33,18,33
+0022101110,2022-03-26,CLE,CHI,14.9,2,9,6,CLE,CLE,fg_make,101,False,False,Garland 5' Driving Floating Jump Shot (4 PTS) (Markkanen 1 AST),,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,14.9,2,9,6,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.2 Short 0),20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.25,2,8,45,CHI,CHI,fg_miss,47,False,False,,MISS DeRozan 14' Turnaround Jump Shot,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.3,2,8,42,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:2 Def:4),,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.38,2,8,37,CHI,CLE,foul,4,False,False,Markkanen OFF.Foul (P2) (J.Goble),,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.38,2,8,37,CLE,CLE,tov,37,False,False,Markkanen Offensive Foul Turnover (P2.T8),,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.67,2,8,20,CHI,CHI,fg_miss,6,False,False,,MISS Williams Driving Layup,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.7,2,8,18,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:2 Def:1),20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.7,2,8,18,CHI,CHI,fg_miss,97,False,False,,MISS Thompson Tip Layup Shot,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.73,2,8,16,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:0 Def:2),,20-33,20,33
+0022101110,2022-03-26,CLE,CHI,15.83,2,8,10,CLE,CLE,fg_make,6,False,False,Garland 1' Driving Layup (6 PTS),,22-33,22,33
+0022101110,2022-03-26,CLE,CHI,16.08,2,7,55,CLE,CHI,foul,4,False,False,,DeRozan OFF.Foul (P3) (J.Goble),22-33,22,33
+0022101110,2022-03-26,CLE,CHI,16.08,2,7,55,CHI,CHI,tov,37,False,False,,DeRozan Offensive Foul Turnover (P3.T3),22-33,22,33
+0022101110,2022-03-26,CLE,CHI,16.33,2,7,40,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 26' 3PT Jump Shot,,22-33,22,33
+0022101110,2022-03-26,CLE,CHI,16.38,2,7,37,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:0 Def:3),22-33,22,33
+0022101110,2022-03-26,CLE,CHI,16.7,2,7,18,CHI,CHI,fg_make,79,False,False,,Dosunmu 16' Pullup Jump Shot (2 PTS) (Thompson 1 AST),22-35,22,35
+0022101110,2022-03-26,CLE,CHI,17.08,2,6,55,CLE,CLE,fg3_miss,1,False,False,MISS Garland 25' 3PT Jump Shot,,22-35,22,35
+0022101110,2022-03-26,CLE,CHI,17.12,2,6,53,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),22-35,22,35
+0022101110,2022-03-26,CLE,CHI,17.32,2,6,41,CHI,CHI,fg_make,6,False,False,,Dosunmu Driving Layup (4 PTS) (Caruso 4 AST),22-37,22,37
+0022101110,2022-03-26,CLE,CHI,17.32,2,6,41,CHI,CLE,foul,2,False,False,Windler S.FOUL (P1.T4) (J.Schroeder),,22-37,22,37
+0022101110,2022-03-26,CLE,CHI,17.32,2,6,41,CHI,CHI,ft_make,10,False,False,,Dosunmu Free Throw 1 of 1 (5 PTS),22-38,22,38
+0022101110,2022-03-26,CLE,CHI,17.6,2,6,24,CLE,CHI,foul,2,False,False,,Dosunmu S.FOUL (P2.T2) (J.Goble),22-38,22,38
+0022101110,2022-03-26,CLE,CHI,17.6,2,6,24,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (7 PTS),,23-38,23,38
+0022101110,2022-03-26,CLE,CHI,17.6,2,6,24,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (8 PTS),,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.0,2,6,0,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#4),24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.0,2,6,0,CLE,CHI,violation,1,False,False,,Bulls Violation: Delay of game Violation,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.27,2,5,44,CLE,CLE,fg_miss,101,False,False,MISS LeVert 1' Driving Floating Jump Shot,,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.28,2,5,43,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:1 Def:2),,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.37,2,5,38,CLE,CLE,fg_miss,102,False,False,MISS Love 6' Driving Floating Bank Jump Shot,,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.38,2,5,37,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:1 Def:2),,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.38,2,5,37,CLE,CLE,fg_miss,97,False,False,MISS Mobley Tip Layup Shot,,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.4,2,5,36,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:2 Def:2),,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.4,2,5,36,CLE,CLE,fg_miss,97,False,False,MISS Mobley 1' Tip Layup Shot,,24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.42,2,5,35,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),24-38,24,38
+0022101110,2022-03-26,CLE,CHI,18.7,2,5,18,CHI,CHI,fg_make,79,False,False,,Williams 18' Pullup Jump Shot (2 PTS) (Vucevic 1 AST),24-40,24,40
+0022101110,2022-03-26,CLE,CHI,18.93,2,5,4,CLE,CLE,fg3_miss,1,False,False,MISS Garland 26' 3PT Jump Shot,,24-40,24,40
+0022101110,2022-03-26,CLE,CHI,18.93,2,5,4,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:0 Def:4),24-40,24,40
+0022101110,2022-03-26,CLE,CHI,19.02,2,4,59,CHI,CHI,fg_make,41,False,False,,LaVine 1' Running Layup (9 PTS) (Caruso 5 AST),24-42,24,42
+0022101110,2022-03-26,CLE,CHI,19.02,2,4,59,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 2 Short 0),,24-42,24,42
+0022101110,2022-03-26,CLE,CHI,19.3,2,4,42,CLE,CHI,foul,2,False,False,,Dosunmu S.FOUL (P3.T3) (J.Schroeder),24-42,24,42
+0022101110,2022-03-26,CLE,CHI,19.3,2,4,42,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (9 PTS),,25-42,25,42
+0022101110,2022-03-26,CLE,CHI,19.3,2,4,42,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (10 PTS),,26-42,26,42
+0022101110,2022-03-26,CLE,CHI,19.53,2,4,28,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 28' 3PT Jump Shot,26-42,26,42
+0022101110,2022-03-26,CLE,CHI,19.57,2,4,26,CHI,CHI,reb,0,False,False,,Bulls Rebound,26-42,26,42
+0022101110,2022-03-26,CLE,CHI,19.62,2,4,23,,CLE,jump_ball,0,False,False,Jump Ball Love vs. Williams: Tip to Vucevic,,26-42,26,42
+0022101110,2022-03-26,CLE,CHI,19.77,2,4,14,CHI,CLE,foul,2,False,False,Markkanen S.FOUL (P3.PN) (J.Goble),,26-42,26,42
+0022101110,2022-03-26,CLE,CHI,19.77,2,4,14,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (10 PTS),26-43,26,43
+0022101110,2022-03-26,CLE,CHI,19.77,2,4,14,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (11 PTS),26-44,26,44
+0022101110,2022-03-26,CLE,CHI,19.95,2,4,3,CLE,CLE,fg_miss,98,True,False,MISS Garland 1' Cutting Layup Shot,,26-44,26,44
+0022101110,2022-03-26,CLE,CHI,19.95,2,4,3,CLE,CHI,block,98,True,False,block,block,26-44,26,44
+0022101110,2022-03-26,CLE,CHI,19.97,2,4,2,CHI,CHI,reb,0,False,False,,White REBOUND (Off:0 Def:2),26-44,26,44
+0022101110,2022-03-26,CLE,CHI,20.07,2,3,56,CHI,CHI,tov,2,False,True,,Vucevic Lost Ball Turnover (P1.T5),26-44,26,44
+0022101110,2022-03-26,CLE,CHI,20.07,2,3,56,CHI,CLE,steal,2,False,True,steal,steal,26-44,26,44
+0022101110,2022-03-26,CLE,CHI,20.17,2,3,50,CLE,CLE,fg_miss,41,False,False,MISS Garland 1' Running Layup,,26-44,26,44
+0022101110,2022-03-26,CLE,CHI,20.2,2,3,48,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:3 Def:4),,26-44,26,44
+0022101110,2022-03-26,CLE,CHI,20.2,2,3,48,CLE,CLE,fg_make,87,False,False,Markkanen Putback Dunk (7 PTS),,28-44,28,44
+0022101110,2022-03-26,CLE,CHI,20.28,2,3,43,CHI,CHI,fg_make,108,False,False,,LaVine 2' Cutting Dunk Shot (13 PTS) (Caruso 6 AST),28-46,28,46
+0022101110,2022-03-26,CLE,CHI,20.53,2,3,28,CLE,CLE,fg3_miss,1,False,False,MISS Love 24' 3PT Jump Shot,,28-46,28,46
+0022101110,2022-03-26,CLE,CHI,20.53,2,3,28,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:1 Def:3),,28-46,28,46
+0022101110,2022-03-26,CLE,CHI,20.63,2,3,22,CLE,CLE,fg3_miss,1,False,False,MISS Garland 27' 3PT Jump Shot,,28-46,28,46
+0022101110,2022-03-26,CLE,CHI,20.68,2,3,19,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:3),28-46,28,46
+0022101110,2022-03-26,CLE,CHI,20.85,2,3,9,CHI,CHI,fg_miss,101,True,False,,MISS LaVine 6' Driving Floating Jump Shot,28-46,28,46
+0022101110,2022-03-26,CLE,CHI,20.85,2,3,9,CHI,CLE,block,101,True,False,block,block,28-46,28,46
+0022101110,2022-03-26,CLE,CHI,20.87,2,3,8,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:1 Def:3),,28-46,28,46
+0022101110,2022-03-26,CLE,CHI,21.05,2,2,57,CLE,CHI,foul,2,False,False,,Vucevic S.FOUL (P2.T4) (J.Schroeder),28-46,28,46
+0022101110,2022-03-26,CLE,CHI,21.05,2,2,57,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (11 PTS),,29-46,29,46
+0022101110,2022-03-26,CLE,CHI,21.05,2,2,57,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (12 PTS),,30-46,30,46
+0022101110,2022-03-26,CLE,CHI,21.27,2,2,44,CHI,CHI,tov,1,False,True,,Williams Bad Pass Turnover (P1.T6),30-46,30,46
+0022101110,2022-03-26,CLE,CHI,21.27,2,2,44,CHI,CLE,steal,1,False,True,steal,steal,30-46,30,46
+0022101110,2022-03-26,CLE,CHI,21.42,2,2,35,CLE,CLE,fg3_miss,1,False,False,MISS Love 25' 3PT Jump Shot,,30-46,30,46
+0022101110,2022-03-26,CLE,CHI,21.42,2,2,35,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),30-46,30,46
+0022101110,2022-03-26,CLE,CHI,21.42,2,2,35,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.3 Short 0),30-46,30,46
+0022101110,2022-03-26,CLE,CHI,21.77,2,2,14,CHI,CHI,fg_make,98,False,False,,Williams 2' Cutting Layup Shot (4 PTS) (Vucevic 2 AST),30-48,30,48
+0022101110,2022-03-26,CLE,CHI,22.18,2,1,49,CLE,CLE,fg_make,79,False,False,Mobley 16' Pullup Jump Shot (4 PTS) (Love 1 AST),,32-48,32,48
+0022101110,2022-03-26,CLE,CHI,22.55,2,1,27,CHI,CHI,fg3_miss,1,False,False,,MISS White 27' 3PT Jump Shot,32-48,32,48
+0022101110,2022-03-26,CLE,CHI,22.58,2,1,25,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:2 Def:3),,32-48,32,48
+0022101110,2022-03-26,CLE,CHI,22.75,2,1,15,CLE,CLE,fg_miss,80,False,False,MISS Mobley 20' Step Back Jump Shot,,32-48,32,48
+0022101110,2022-03-26,CLE,CHI,22.77,2,1,14,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,32-48,32,48
+0022101110,2022-03-26,CLE,CHI,22.82,2,1,11,CLE,CLE,fg_make,102,False,False,Garland 10' Driving Floating Bank Jump Shot (14 PTS) (Okoro 1 AST),,34-48,34,48
+0022101110,2022-03-26,CLE,CHI,23.07,2,0,56,CHI,CHI,fg3_miss,1,False,False,,MISS Williams 24' 3PT Jump Shot,34-48,34,48
+0022101110,2022-03-26,CLE,CHI,23.1,2,0,54,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:1 Def:1),34-48,34,48
+0022101110,2022-03-26,CLE,CHI,23.1,2,0,54,CHI,CHI,fg_make,72,False,False,,Green 1' Putback Layup (4 PTS),34-50,34,50
+0022101110,2022-03-26,CLE,CHI,23.1,2,0,54,CHI,CLE,foul,2,False,False,Mobley S.FOUL (P2.PN) (J.Goble),,34-50,34,50
+0022101110,2022-03-26,CLE,CHI,23.1,2,0,54,CHI,CHI,ft_make,10,False,False,,Green Free Throw 1 of 1 (5 PTS),34-51,34,51
+0022101110,2022-03-26,CLE,CHI,23.52,2,0,29,CLE,CLE,fg3_miss,1,False,False,MISS Garland 28' 3PT Jump Shot,,34-51,34,51
+0022101110,2022-03-26,CLE,CHI,23.55,2,0,27,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:4),34-51,34,51
+0022101110,2022-03-26,CLE,CHI,23.68,2,0,19,CHI,CLE,foul,2,False,False,Love S.FOUL (P2.PN) (J.Schroeder),,34-51,34,51
+0022101110,2022-03-26,CLE,CHI,23.68,2,0,19,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (14 PTS),34-52,34,52
+0022101110,2022-03-26,CLE,CHI,23.68,2,0,19,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (15 PTS),34-53,34,53
+0022101110,2022-03-26,CLE,CHI,23.95,2,0,3,CLE,CHI,foul,2,False,False,,Green S.FOUL (P1.PN) (J.Schroeder),34-53,34,53
+0022101110,2022-03-26,CLE,CHI,23.95,2,0,3,CLE,CLE,ft_miss,11,False,False,MISS LeVert Free Throw 1 of 2,,34-53,34,53
+0022101110,2022-03-26,CLE,CHI,23.95,2,0,3,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,34-53,34,53
+0022101110,2022-03-26,CLE,CHI,23.95,2,0,3,CLE,CLE,ft_make,12,False,False,LeVert Free Throw 2 of 2 (5 PTS),,35-53,35,53
+0022101110,2022-03-26,CLE,CHI,24.0,2,0,0,CHI,CHI,fg3_miss,79,False,False,,MISS LaVine 38' 3PT Pullup Jump Shot,35-53,35,53
+0022101110,2022-03-26,CLE,CHI,24.0,2,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,35-53,35,53
+0022101110,2022-03-26,CLE,CHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,35-53,35,53
+0022101110,2022-03-26,CLE,CHI,24.0,3,12,0,CHI,,period_start,0,False,False,,,35-53,35,53
+0022101110,2022-03-26,CLE,CHI,24.37,3,11,38,CLE,CLE,fg_make,101,False,False,Markkanen 7' Driving Floating Jump Shot (9 PTS) (Mobley 3 AST),,37-53,37,53
+0022101110,2022-03-26,CLE,CHI,24.78,3,11,13,CHI,CHI,fg_miss,96,False,False,,MISS Vucevic 6' Turnaround Bank Hook Shot,37-53,37,53
+0022101110,2022-03-26,CLE,CHI,24.82,3,11,11,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:1 Def:4),37-53,37,53
+0022101110,2022-03-26,CLE,CHI,24.82,3,11,11,CHI,CHI,fg_make,97,False,False,,Caruso Tip Layup Shot (5 PTS),37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.07,3,10,56,CLE,CHI,foul,2,False,False,,Caruso S.FOUL (P1.T1) (M.Davis),37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.07,3,10,56,CLE,CLE,ft_miss,11,False,False,MISS LeVert Free Throw 1 of 2,,37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.07,3,10,56,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.07,3,10,56,CLE,CLE,ft_miss,12,False,False,MISS LeVert Free Throw 2 of 2,,37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.12,3,10,53,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:1 Def:5),37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.37,3,10,38,CHI,CHI,tov,1,False,True,,LaVine Bad Pass Turnover (P1.T7),37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.37,3,10,38,CHI,CLE,steal,1,False,True,steal,steal,37-55,37,55
+0022101110,2022-03-26,CLE,CHI,25.5,3,10,30,CLE,CLE,fg_make,73,False,False,LeVert 2' Driving Reverse Layup (7 PTS),,39-55,39,55
+0022101110,2022-03-26,CLE,CHI,25.82,3,10,11,CHI,CHI,fg_miss,58,False,False,,MISS Vucevic 2' Turnaround Hook Shot,39-55,39,55
+0022101110,2022-03-26,CLE,CHI,25.85,3,10,9,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:3 Def:5),,39-55,39,55
+0022101110,2022-03-26,CLE,CHI,26.1,3,9,54,CLE,CLE,fg3_make,1,False,False,Okoro 3PT Jump Shot (4 PTS) (LeVert 2 AST),,42-55,42,55
+0022101110,2022-03-26,CLE,CHI,26.38,3,9,37,CHI,CHI,fg_make,108,False,False,,Vucevic Cutting Dunk Shot (12 PTS) (DeRozan 1 AST),42-57,42,57
+0022101110,2022-03-26,CLE,CHI,26.55,3,9,27,CLE,CHI,foul,2,False,False,,Vucevic S.FOUL (P3.T2) (J.Goble),42-57,42,57
+0022101110,2022-03-26,CLE,CHI,26.55,3,9,27,CLE,CLE,ft_make,11,False,False,Markkanen Free Throw 1 of 2 (10 PTS),,43-57,43,57
+0022101110,2022-03-26,CLE,CHI,26.55,3,9,27,CLE,CLE,ft_make,12,False,False,Markkanen Free Throw 2 of 2 (11 PTS),,44-57,44,57
+0022101110,2022-03-26,CLE,CHI,26.7,3,9,18,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 3PT Jump Shot,44-57,44,57
+0022101110,2022-03-26,CLE,CHI,26.73,3,9,16,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:2 Def:4),,44-57,44,57
+0022101110,2022-03-26,CLE,CHI,26.9,3,9,6,CLE,CLE,fg_make,6,False,False,Mobley 2' Driving Layup (6 PTS),,46-57,46,57
+0022101110,2022-03-26,CLE,CHI,27.32,3,8,41,CHI,CHI,fg_miss,58,False,False,,MISS Vucevic 5' Turnaround Hook Shot,46-57,46,57
+0022101110,2022-03-26,CLE,CHI,27.35,3,8,39,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:3 Def:6),,46-57,46,57
+0022101110,2022-03-26,CLE,CHI,27.47,3,8,32,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 27' 3PT Jump Shot,,46-57,46,57
+0022101110,2022-03-26,CLE,CHI,27.53,3,8,28,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:4),46-57,46,57
+0022101110,2022-03-26,CLE,CHI,27.65,3,8,21,CHI,CLE,foul,2,False,False,Markkanen S.FOUL (P4.T1) (J.Goble),,46-57,46,57
+0022101110,2022-03-26,CLE,CHI,27.65,3,8,21,CHI,CHI,ft_make,11,False,False,,Caruso Free Throw 1 of 2 (6 PTS),46-58,46,58
+0022101110,2022-03-26,CLE,CHI,27.65,3,8,21,CHI,CHI,ft_make,12,False,False,,Caruso Free Throw 2 of 2 (7 PTS),46-59,46,59
+0022101110,2022-03-26,CLE,CHI,27.92,3,8,5,CLE,CLE,fg_miss,102,False,False,MISS Mobley 6' Driving Floating Bank Jump Shot,,46-59,46,59
+0022101110,2022-03-26,CLE,CHI,27.95,3,8,3,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:1),46-59,46,59
+0022101110,2022-03-26,CLE,CHI,28.08,3,7,55,CHI,CLE,foul,2,False,False,Stevens S.FOUL (P1.T2) (J.Schroeder),,46-59,46,59
+0022101110,2022-03-26,CLE,CHI,28.08,3,7,55,CHI,CHI,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (7 PTS),46-60,46,60
+0022101110,2022-03-26,CLE,CHI,28.08,3,7,55,CHI,CHI,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (8 PTS),46-61,46,61
+0022101110,2022-03-26,CLE,CHI,28.33,3,7,40,CLE,CLE,fg3_miss,1,False,False,MISS Garland 27' 3PT Jump Shot,,46-61,46,61
+0022101110,2022-03-26,CLE,CHI,28.38,3,7,37,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:1 Def:0),,46-61,46,61
+0022101110,2022-03-26,CLE,CHI,28.47,3,7,32,CLE,CLE,fg_miss,102,False,False,MISS Stevens 4' Driving Floating Bank Jump Shot,,46-61,46,61
+0022101110,2022-03-26,CLE,CHI,28.53,3,7,28,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:4),46-61,46,61
+0022101110,2022-03-26,CLE,CHI,28.53,3,7,28,CHI,CHI,tov,39,False,False,,Dosunmu Step Out of Bounds Turnover (P1.T8),46-61,46,61
+0022101110,2022-03-26,CLE,CHI,28.93,3,7,4,CLE,CLE,fg3_make,1,False,False,Stevens 3PT Jump Shot (7 PTS) (Mobley 4 AST),,49-61,49,61
+0022101110,2022-03-26,CLE,CHI,29.37,3,6,38,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 30' 3PT Jump Shot,49-61,49,61
+0022101110,2022-03-26,CLE,CHI,29.4,3,6,36,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:2 Def:5),49-61,49,61
+0022101110,2022-03-26,CLE,CHI,29.4,3,6,36,CHI,CHI,fg_miss,97,False,False,,MISS Caruso Tip Layup Shot,49-61,49,61
+0022101110,2022-03-26,CLE,CHI,29.42,3,6,35,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:2 Def:5),,49-61,49,61
+0022101110,2022-03-26,CLE,CHI,29.57,3,6,26,CLE,CLE,fg_make,6,False,False,Stevens 1' Driving Layup (9 PTS),,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,29.95,3,6,3,CHI,CHI,fg3_miss,1,False,False,,MISS Dosunmu 29' 3PT Jump Shot,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,29.95,3,6,3,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:2 Def:6),,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,30.18,3,5,49,CLE,CLE,fg_miss,98,False,False,MISS Mobley 1' Cutting Layup Shot,,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,30.2,3,5,48,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:3 Def:6),,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,30.2,3,5,48,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 3 Short 0),,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,30.2,3,5,48,CLE,CLE,tov,40,False,False,Mobley Out of Bounds Lost Ball Turnover (P2.T9),,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,30.37,3,5,38,CHI,CLE,foul,1,False,False,LeVert P.FOUL (P2.T3) (M.Davis),,51-61,51,61
+0022101110,2022-03-26,CLE,CHI,30.62,3,5,23,CHI,CHI,fg3_make,1,False,False,,Caruso 24' 3PT Jump Shot (10 PTS) (LaVine 2 AST),51-64,51,64
+0022101110,2022-03-26,CLE,CHI,31.0,3,5,0,CLE,CLE,fg_make,6,False,False,Okoro 1' Driving Layup (6 PTS),,53-64,53,64
+0022101110,2022-03-26,CLE,CHI,31.25,3,4,45,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 19' Pullup Jump Shot,53-64,53,64
+0022101110,2022-03-26,CLE,CHI,31.28,3,4,43,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:4),53-64,53,64
+0022101110,2022-03-26,CLE,CHI,31.3,3,4,42,CHI,CHI,fg_make,72,False,False,,Vucevic 1' Putback Layup (14 PTS),53-66,53,66
+0022101110,2022-03-26,CLE,CHI,31.53,3,4,28,CLE,CLE,fg_miss,6,False,False,MISS Garland 2' Driving Layup,,53-66,53,66
+0022101110,2022-03-26,CLE,CHI,31.57,3,4,26,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:5),53-66,53,66
+0022101110,2022-03-26,CLE,CHI,31.63,3,4,22,CHI,CHI,fg_make,74,False,False,,Dosunmu 1' Running Reverse Layup (7 PTS) (DeRozan 2 AST),53-68,53,68
+0022101110,2022-03-26,CLE,CHI,31.63,3,4,22,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 4 Short 0),,53-68,53,68
+0022101110,2022-03-26,CLE,CHI,31.87,3,4,8,CLE,CLE,fg_miss,63,False,False,MISS Garland 16' Fadeaway Jumper,,53-68,53,68
+0022101110,2022-03-26,CLE,CHI,31.92,3,4,5,CLE,CLE,reb,0,False,False,Windler REBOUND (Off:1 Def:0),,53-68,53,68
+0022101110,2022-03-26,CLE,CHI,31.95,3,4,3,CLE,CLE,fg3_make,1,False,False,Love 24' 3PT Jump Shot (3 PTS) (Stevens 1 AST),,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.33,3,3,40,CHI,CHI,fg_miss,58,False,False,,MISS Vucevic 6' Turnaround Hook Shot,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.37,3,3,38,CLE,CLE,reb,0,False,False,Windler REBOUND (Off:1 Def:1),,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.58,3,3,25,CLE,CLE,fg3_miss,1,False,False,MISS Love 29' 3PT Jump Shot,,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.6,3,3,24,CHI,CHI,reb,0,False,False,,Bulls Rebound,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.6,3,3,24,CHI,CLE,foul,3,False,False,Windler L.B.FOUL (P2.T4) (J.Goble),,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.8,3,3,12,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 2' Driving Layup,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.8,3,3,12,CHI,CLE,block,6,True,False,block,block,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.83,3,3,10,CLE,CLE,reb,0,False,False,Windler REBOUND (Off:1 Def:2),,56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.98,3,3,1,CLE,CHI,foul,2,False,False,,Green S.FOUL (P2.T3) (M.Davis),56-68,56,68
+0022101110,2022-03-26,CLE,CHI,32.98,3,3,1,CLE,CLE,ft_make,11,False,False,Windler Free Throw 1 of 2 (1 PTS),,57-68,57,68
+0022101110,2022-03-26,CLE,CHI,32.98,3,3,1,CLE,CLE,ft_make,12,False,False,Windler Free Throw 2 of 2 (2 PTS),,58-68,58,68
+0022101110,2022-03-26,CLE,CHI,33.13,3,2,52,CHI,CLE,foul,1,False,False,Stevens P.FOUL (P2.PN) (J.Goble),,58-68,58,68
+0022101110,2022-03-26,CLE,CHI,33.13,3,2,52,CHI,CHI,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (9 PTS),58-69,58,69
+0022101110,2022-03-26,CLE,CHI,33.13,3,2,52,CHI,CHI,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (10 PTS),58-70,58,70
+0022101110,2022-03-26,CLE,CHI,33.3,3,2,42,CLE,CHI,foul,1,False,False,,Green P.FOUL (P3.T4) (J.Schroeder),58-70,58,70
+0022101110,2022-03-26,CLE,CHI,33.48,3,2,31,CLE,CLE,tov,45,False,False,Garland Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,58-70,58,70
+0022101110,2022-03-26,CLE,CHI,33.65,3,2,21,CHI,CHI,tov,39,False,False,,Green Step Out of Bounds Turnover (P1.T9),58-70,58,70
+0022101110,2022-03-26,CLE,CHI,34.05,3,1,57,CLE,CLE,fg_miss,79,False,False,MISS Mobley 11' Pullup Jump Shot,,58-70,58,70
+0022101110,2022-03-26,CLE,CHI,34.12,3,1,53,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:3),,58-70,58,70
+0022101110,2022-03-26,CLE,CHI,34.15,3,1,51,CLE,CLE,fg_make,6,False,False,Love 1' Driving Layup (5 PTS),,60-70,60,70
+0022101110,2022-03-26,CLE,CHI,34.48,3,1,31,CHI,CLE,foul,2,False,False,Love S.FOUL (P3.PN) (M.Davis),,60-70,60,70
+0022101110,2022-03-26,CLE,CHI,34.48,3,1,31,CHI,CHI,ft_make,11,False,False,,Green Free Throw 1 of 2 (6 PTS),60-71,60,71
+0022101110,2022-03-26,CLE,CHI,34.48,3,1,31,CHI,CHI,ft_make,12,False,False,,Green Free Throw 2 of 2 (7 PTS),60-72,60,72
+0022101110,2022-03-26,CLE,CHI,34.82,3,1,11,CLE,CLE,fg_miss,102,False,False,MISS Stevens 4' Driving Floating Bank Jump Shot,,60-72,60,72
+0022101110,2022-03-26,CLE,CHI,34.83,3,1,10,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:2 Def:0),,60-72,60,72
+0022101110,2022-03-26,CLE,CHI,34.83,3,1,10,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 5 Short 0),,60-72,60,72
+0022101110,2022-03-26,CLE,CHI,34.93,3,1,4,CLE,CHI,foul,2,False,False,,Thompson S.FOUL (P1.PN) (M.Davis),60-72,60,72
+0022101110,2022-03-26,CLE,CHI,34.93,3,1,4,CLE,CLE,ft_make,11,False,False,LeVert Free Throw 1 of 2 (8 PTS),,61-72,61,72
+0022101110,2022-03-26,CLE,CHI,34.93,3,1,4,CLE,CLE,ft_miss,12,False,False,MISS LeVert Free Throw 2 of 2,,61-72,61,72
+0022101110,2022-03-26,CLE,CHI,34.98,3,1,1,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:2 Def:6),61-72,61,72
+0022101110,2022-03-26,CLE,CHI,35.15,3,0,51,CHI,CHI,fg3_miss,1,False,False,,MISS Green 24' 3PT Jump Shot,61-72,61,72
+0022101110,2022-03-26,CLE,CHI,35.22,3,0,47,CLE,CLE,reb,0,False,False,Windler REBOUND (Off:1 Def:3),,61-72,61,72
+0022101110,2022-03-26,CLE,CHI,35.33,3,0,40,CLE,CLE,tov,45,False,False,LeVert Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,61-72,61,72
+0022101110,2022-03-26,CLE,CHI,35.47,3,0,32,CHI,CHI,fg3_make,1,False,False,,LaVine 3PT Jump Shot (18 PTS) (Caruso 7 AST),61-75,61,75
+0022101110,2022-03-26,CLE,CHI,35.58,3,0,25,CLE,CLE,fg_make,101,False,False,Stevens 7' Driving Floating Jump Shot (11 PTS),,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,35.87,3,0,8,CHI,CHI,fg_miss,1,False,False,,MISS LaVine 17' Jump Shot,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,35.92,3,0,5,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:3 Def:7),,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.0,3,0,0,CLE,CLE,fg3_miss,1,False,False,MISS LeVert 27' 3PT Jump Shot,,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.0,3,0,0,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.0,3,0,0,CLE,,period_end,0,False,False,,,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.0,4,12,0,CLE,,period_start,0,False,False,,,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.2,4,11,48,CHI,CHI,tov,1,False,True,,White Bad Pass Turnover (P1.T10),63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.2,4,11,48,CHI,CLE,steal,1,False,True,steal,steal,63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.27,4,11,44,CLE,CHI,foul,2,False,False,,White S.FOUL (P1.T1) (J.Goble),63-75,63,75
+0022101110,2022-03-26,CLE,CHI,36.27,4,11,44,CLE,CLE,ft_make,11,False,False,Stevens Free Throw 1 of 2 (12 PTS),,64-75,64,75
+0022101110,2022-03-26,CLE,CHI,36.27,4,11,44,CLE,CLE,ft_make,12,False,False,Stevens Free Throw 2 of 2 (13 PTS),,65-75,65,75
+0022101110,2022-03-26,CLE,CHI,36.53,4,11,28,CHI,CHI,fg_make,80,False,False,,DeRozan 15' Step Back Jump Shot (12 PTS),65-77,65,77
+0022101110,2022-03-26,CLE,CHI,36.85,4,11,9,CLE,CLE,fg_miss,6,False,False,MISS LeVert 3' Driving Layup,,65-77,65,77
+0022101110,2022-03-26,CLE,CHI,36.85,4,11,9,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:2 Def:2),65-77,65,77
+0022101110,2022-03-26,CLE,CHI,36.9,4,11,6,,CLE,jump_ball,0,False,False,Jump Ball LeVert vs. Thompson: Tip to DeRozan,,65-77,65,77
+0022101110,2022-03-26,CLE,CHI,37.02,4,10,59,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 15' Pullup Jump Shot,65-77,65,77
+0022101110,2022-03-26,CLE,CHI,37.08,4,10,55,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:1 Def:4),,65-77,65,77
+0022101110,2022-03-26,CLE,CHI,37.18,4,10,49,CLE,CLE,fg_make,6,False,False,Garland 1' Driving Layup (16 PTS),,67-77,67,77
+0022101110,2022-03-26,CLE,CHI,37.57,4,10,26,CHI,CLE,foul,2,False,False,Stevens S.FOUL (P3.T1) (J.Goble),,67-77,67,77
+0022101110,2022-03-26,CLE,CHI,37.57,4,10,26,CHI,CHI,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,67-77,67,77
+0022101110,2022-03-26,CLE,CHI,37.57,4,10,26,CHI,CHI,reb,1,False,False,,Bulls Rebound,67-77,67,77
+0022101110,2022-03-26,CLE,CHI,37.57,4,10,26,CHI,CHI,ft_miss,12,False,False,,MISS Thompson Free Throw 2 of 2,67-77,67,77
+0022101110,2022-03-26,CLE,CHI,37.6,4,10,24,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:2 Def:1),,67-77,67,77
+0022101110,2022-03-26,CLE,CHI,37.77,4,10,14,CLE,CLE,fg_make,6,False,False,Markkanen 1' Driving Layup (13 PTS) (Garland 3 AST),,69-77,69,77
+0022101110,2022-03-26,CLE,CHI,38.2,4,9,48,CHI,CHI,fg_make,6,False,False,,DeRozan 1' Driving Layup (14 PTS),69-79,69,79
+0022101110,2022-03-26,CLE,CHI,38.53,4,9,28,CLE,CHI,foul,1,False,False,,Caruso P.FOUL (P2.T2) (J.Goble),69-79,69,79
+0022101110,2022-03-26,CLE,CHI,38.68,4,9,19,CLE,CLE,fg_make,101,False,False,LeVert 7' Driving Floating Jump Shot (10 PTS) (Garland 4 AST),,71-79,71,79
+0022101110,2022-03-26,CLE,CHI,38.93,4,9,4,CHI,CHI,tov,39,False,False,,White Step Out of Bounds Turnover (P2.T11),71-79,71,79
+0022101110,2022-03-26,CLE,CHI,39.1,4,8,54,CLE,CHI,foul,1,False,False,,DeRozan P.FOUL (P4.T3) (J.Schroeder),71-79,71,79
+0022101110,2022-03-26,CLE,CHI,39.35,4,8,39,CLE,CLE,fg_make,86,False,False,LeVert 10' Turnaround Fadeaway (12 PTS),,73-79,73,79
+0022101110,2022-03-26,CLE,CHI,39.35,4,8,39,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.4 Short 0),73-79,73,79
+0022101110,2022-03-26,CLE,CHI,39.62,4,8,23,CHI,CHI,fg_make,79,False,False,,DeRozan 13' Pullup Jump Shot (16 PTS) (Vucevic 3 AST),73-81,73,81
+0022101110,2022-03-26,CLE,CHI,39.88,4,8,7,CLE,CHI,foul,2,False,False,,Green S.FOUL (P4.T4) (M.Davis),73-81,73,81
+0022101110,2022-03-26,CLE,CHI,40.07,4,7,56,CLE,CLE,fg_make,6,False,False,Garland 1' Driving Layup (18 PTS),,75-81,75,81
+0022101110,2022-03-26,CLE,CHI,40.32,4,7,41,CHI,CHI,fg_make,1,False,False,,LaVine 15' Jump Shot (20 PTS) (Dosunmu 5 AST),75-83,75,83
+0022101110,2022-03-26,CLE,CHI,40.58,4,7,25,CLE,CLE,fg3_make,1,False,False,LeVert 25' 3PT Jump Shot (15 PTS) (Markkanen 2 AST),,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,40.95,4,7,3,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,41.0,4,7,0,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:1 Def:4),,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,41.25,4,6,45,CLE,CLE,fg_miss,63,False,False,MISS Stevens 9' Fadeaway Jumper,,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,41.3,4,6,42,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:6),78-83,78,83
+0022101110,2022-03-26,CLE,CHI,41.4,4,6,36,CHI,CHI,tov,4,False,False,,DeRozan Traveling Turnover (P4.T12),78-83,78,83
+0022101110,2022-03-26,CLE,CHI,41.68,4,6,19,CLE,CLE,fg_miss,101,False,False,MISS Garland 11' Driving Floating Jump Shot,,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,41.75,4,6,15,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:2 Def:0),,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,41.97,4,6,2,CLE,CLE,fg3_miss,1,False,False,MISS LeVert 25' 3PT Jump Shot,,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,42.0,4,6,0,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:5),78-83,78,83
+0022101110,2022-03-26,CLE,CHI,42.18,4,5,49,CHI,CHI,fg_miss,47,False,False,,MISS DeRozan 14' Turnaround Jump Shot,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,42.22,4,5,47,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:2 Def:2),,78-83,78,83
+0022101110,2022-03-26,CLE,CHI,42.42,4,5,35,CLE,CLE,fg_make,108,False,False,LeVert 1' Cutting Dunk Shot (17 PTS) (Garland 5 AST),,80-83,80,83
+0022101110,2022-03-26,CLE,CHI,42.85,4,5,9,CHI,CHI,fg_make,9,False,False,,DeRozan 1' Driving Dunk (18 PTS),80-85,80,85
+0022101110,2022-03-26,CLE,CHI,43.13,4,4,52,CLE,CLE,fg_make,79,False,False,Garland 17' Pullup Jump Shot (20 PTS),,82-85,82,85
+0022101110,2022-03-26,CLE,CHI,43.15,4,4,51,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.5 Short 0),82-85,82,85
+0022101110,2022-03-26,CLE,CHI,43.15,4,4,51,CHI,CLE,violation,1,False,False,CAVALIERS Violation: Delay of game Violation,,82-85,82,85
+0022101110,2022-03-26,CLE,CHI,43.37,4,4,38,CHI,CHI,fg3_miss,1,False,False,,MISS DeRozan 24' 3PT Jump Shot,82-85,82,85
+0022101110,2022-03-26,CLE,CHI,43.42,4,4,35,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,82-85,82,85
+0022101110,2022-03-26,CLE,CHI,43.73,4,4,16,CLE,CLE,fg_miss,6,False,False,MISS Garland 2' Driving Layup,,82-85,82,85
+0022101110,2022-03-26,CLE,CHI,43.75,4,4,15,CHI,CHI,reb,0,False,False,,Bulls Rebound,82-85,82,85
+0022101110,2022-03-26,CLE,CHI,44.12,4,3,53,CHI,CLE,foul,2,False,False,Markkanen S.FOUL (P5.T2) (M.Davis),,82-85,82,85
+0022101110,2022-03-26,CLE,CHI,44.12,4,3,53,CHI,CHI,ft_make,11,False,False,,Vucevic Free Throw 1 of 2 (15 PTS),82-86,82,86
+0022101110,2022-03-26,CLE,CHI,44.12,4,3,53,CHI,CHI,ft_make,12,False,False,,Vucevic Free Throw 2 of 2 (16 PTS),82-87,82,87
+0022101110,2022-03-26,CLE,CHI,44.27,4,3,44,CLE,CHI,foul,2,False,False,,DeRozan S.FOUL (P5.PN) (M.Davis),82-87,82,87
+0022101110,2022-03-26,CLE,CHI,44.27,4,3,44,CLE,CLE,ft_make,11,False,False,Markkanen Free Throw 1 of 2 (14 PTS),,83-87,83,87
+0022101110,2022-03-26,CLE,CHI,44.27,4,3,44,CLE,CLE,ft_miss,12,False,False,MISS Markkanen Free Throw 2 of 2,,83-87,83,87
+0022101110,2022-03-26,CLE,CHI,44.27,4,3,44,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:7),83-87,83,87
+0022101110,2022-03-26,CLE,CHI,44.6,4,3,24,CHI,CHI,fg_make,47,False,False,,DeRozan 11' Turnaround Jump Shot (20 PTS),83-89,83,89
+0022101110,2022-03-26,CLE,CHI,44.83,4,3,10,CLE,CLE,fg_miss,98,False,False,MISS Stevens 2' Cutting Layup Shot,,83-89,83,89
+0022101110,2022-03-26,CLE,CHI,44.88,4,3,7,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:8),83-89,83,89
+0022101110,2022-03-26,CLE,CHI,45.1,4,2,54,CHI,CHI,fg_make,6,False,False,,Dosunmu 1' Driving Layup (9 PTS) (Vucevic 4 AST),83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.13,4,2,52,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 6 Short 0),,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.27,4,2,44,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.3,4,2,42,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:2 Def:4),,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.37,4,2,38,CLE,CLE,tov,1,False,True,Garland Bad Pass Turnover (P2.T12),,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.37,4,2,38,CLE,CHI,steal,1,False,True,steal,steal,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.72,4,2,17,CHI,CHI,fg_miss,63,False,False,,MISS Caruso 21' Fadeaway Jumper,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.73,4,2,16,CHI,CHI,reb,0,False,False,,Bulls Rebound,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.73,4,2,16,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#13),83-91,83,91
+0022101110,2022-03-26,CLE,CHI,45.9,4,2,6,CLE,CLE,tov,45,False,False,LeVert Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,83-91,83,91
+0022101110,2022-03-26,CLE,CHI,46.22,4,1,47,CHI,CHI,fg_make,73,False,False,,LaVine 1' Driving Reverse Layup (22 PTS),83-93,83,93
+0022101110,2022-03-26,CLE,CHI,46.4,4,1,36,CLE,CLE,fg3_miss,1,False,False,MISS LeVert 27' 3PT Jump Shot,,83-93,83,93
+0022101110,2022-03-26,CLE,CHI,46.45,4,1,33,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:2),83-93,83,93
+0022101110,2022-03-26,CLE,CHI,46.8,4,1,12,CHI,CHI,fg_make,98,False,False,,Dosunmu 1' Cutting Layup Shot (11 PTS) (LaVine 3 AST),83-95,83,95
+0022101110,2022-03-26,CLE,CHI,46.83,4,1,10,CLE,CHI,foul,1,False,False,,Dosunmu P.FOUL (P4.PN) (J.Schroeder),83-95,83,95
+0022101110,2022-03-26,CLE,CHI,46.83,4,1,10,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (21 PTS),,84-95,84,95
+0022101110,2022-03-26,CLE,CHI,46.83,4,1,10,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (22 PTS),,85-95,85,95
+0022101110,2022-03-26,CLE,CHI,47.0,4,1,0,CHI,CHI,tov,40,False,False,,LaVine Out of Bounds Lost Ball Turnover (P2.T14),85-95,85,95
+0022101110,2022-03-26,CLE,CHI,47.08,4,0,55,CLE,CLE,fg3_make,1,False,False,Garland 26' 3PT Jump Shot (25 PTS),,88-95,88,95
+0022101110,2022-03-26,CLE,CHI,47.3,4,0,42,CHI,CLE,foul,1,False,False,Okoro P.FOUL (P2.T3) (J.Goble),,88-95,88,95
+0022101110,2022-03-26,CLE,CHI,47.37,4,0,38,CHI,CLE,foul,1,False,False,Markkanen P.FOUL (P6.PN) (M.Davis),,88-95,88,95
+0022101110,2022-03-26,CLE,CHI,47.37,4,0,38,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (23 PTS),88-96,88,96
+0022101110,2022-03-26,CLE,CHI,47.37,4,0,38,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (24 PTS),88-97,88,97
+0022101110,2022-03-26,CLE,CHI,47.48,4,0,31,CLE,CLE,fg_make,101,False,False,Garland 9' Driving Floating Jump Shot (27 PTS),,90-97,90,97
+0022101110,2022-03-26,CLE,CHI,47.52,4,0,29,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.6 Short 0),90-97,90,97
+0022101110,2022-03-26,CLE,CHI,47.52,4,0,29,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.7 Short 0),90-97,90,97
+0022101110,2022-03-26,CLE,CHI,47.6,4,0,24,CHI,CLE,foul,1,False,False,Stevens P.FOUL (P4.PN) (J.Goble),,90-97,90,97
+0022101110,2022-03-26,CLE,CHI,47.6,4,0,24,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (25 PTS),90-98,90,98
+0022101110,2022-03-26,CLE,CHI,47.6,4,0,24,CHI,CHI,ft_miss,12,False,False,,MISS LaVine Free Throw 2 of 2,90-98,90,98
+0022101110,2022-03-26,CLE,CHI,47.62,4,0,23,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:3 Def:8),,90-98,90,98
+0022101110,2022-03-26,CLE,CHI,47.73,4,0,16,CLE,CLE,fg3_make,1,False,False,Mobley 26' 3PT Jump Shot (9 PTS) (LeVert 3 AST),,93-98,93,98
+0022101110,2022-03-26,CLE,CHI,47.85,4,0,9,CHI,CHI,tov,2,False,True,,Vucevic Lost Ball Turnover (P2.T15),93-98,93,98
+0022101110,2022-03-26,CLE,CHI,47.85,4,0,9,CHI,CLE,steal,2,False,True,steal,steal,93-98,93,98
+0022101110,2022-03-26,CLE,CHI,47.85,4,0,9,CLE,CLE,timeout,7,False,False,CAVALIERS Timeout: Coach Challenge (Full 6 Short 0),,93-98,93,98
+0022101110,2022-03-26,CLE,CHI,47.9,4,0,6,CLE,CHI,foul,2,False,False,,Dosunmu S.FOUL (P5.PN) (M.Davis),93-98,93,98
+0022101110,2022-03-26,CLE,CHI,47.9,4,0,6,CLE,CLE,ft_miss,13,False,False,MISS Garland Free Throw 1 of 3,,93-98,93,98
+0022101110,2022-03-26,CLE,CHI,47.9,4,0,6,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,93-98,93,98
+0022101110,2022-03-26,CLE,CHI,47.9,4,0,6,CLE,CLE,ft_make,14,False,False,Garland Free Throw 2 of 3 (28 PTS),,94-98,94,98
+0022101110,2022-03-26,CLE,CHI,47.9,4,0,6,CLE,CLE,ft_miss,15,False,False,MISS Garland Free Throw 3 of 3,,94-98,94,98
+0022101110,2022-03-26,CLE,CHI,47.9,4,0,6,CHI,CHI,reb,0,False,False,,Bulls Rebound,94-98,94,98
+0022101110,2022-03-26,CLE,CHI,47.98,4,0,1,,CLE,jump_ball,0,False,False,Jump Ball Stevens vs. LaVine: Tip to Dosunmu,,94-98,94,98
+0022101110,2022-03-26,CLE,CHI,48.0,4,0,0,,,period_end,0,False,False,,,94-98,94,98

@@ -1,0 +1,444 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000467,2021-02-21,ORL,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000467,2021-02-21,ORL,DET,0.0,1,12,0,,ORL,jump_ball,0,False,False,Jump Ball Vucevic vs. Plumlee: Tip to Bey,,0-0,0,0
+0022000467,2021-02-21,ORL,DET,0.42,1,11,35,DET,DET,fg_make,79,False,False,,Grant 18' Pullup Jump Shot (2 PTS) (Ellington 1 AST),0-2,0,2
+0022000467,2021-02-21,ORL,DET,0.75,1,11,15,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 22' Jump Shot,,0-2,0,2
+0022000467,2021-02-21,ORL,DET,0.8,1,11,12,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:1),0-2,0,2
+0022000467,2021-02-21,ORL,DET,1.03,1,10,58,DET,DET,fg3_miss,1,False,False,,MISS Bey 27' 3PT Jump Shot,0-2,0,2
+0022000467,2021-02-21,ORL,DET,1.08,1,10,55,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:0 Def:1),,0-2,0,2
+0022000467,2021-02-21,ORL,DET,1.33,1,10,40,ORL,ORL,fg_make,58,False,False,Vucevic 8' Turnaround Hook Shot (2 PTS),,2-2,2,2
+0022000467,2021-02-21,ORL,DET,1.63,1,10,22,,ORL,jump_ball,0,False,False,Jump Ball Aminu vs. Smith Jr.: Tip to Fournier,,2-2,2,2
+0022000467,2021-02-21,ORL,DET,1.63,1,10,22,DET,DET,tov,2,False,True,,Smith Jr. Lost Ball Turnover (P1.T1),2-2,2,2
+0022000467,2021-02-21,ORL,DET,1.63,1,10,22,DET,ORL,steal,2,False,True,steal,steal,2-2,2,2
+0022000467,2021-02-21,ORL,DET,1.82,1,10,11,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 25' 3PT Jump Shot,,2-2,2,2
+0022000467,2021-02-21,ORL,DET,1.83,1,10,10,DET,DET,reb,0,False,False,,Pistons Rebound,2-2,2,2
+0022000467,2021-02-21,ORL,DET,2.07,1,9,56,DET,DET,fg3_make,1,False,False,,Ellington 26' 3PT Jump Shot (3 PTS) (Grant 1 AST),2-5,2,5
+0022000467,2021-02-21,ORL,DET,2.32,1,9,41,ORL,ORL,tov,1,False,True,Carter-Williams Bad Pass Turnover (P1.T1),,2-5,2,5
+0022000467,2021-02-21,ORL,DET,2.32,1,9,41,ORL,DET,steal,1,False,True,steal,steal,2-5,2,5
+0022000467,2021-02-21,ORL,DET,2.42,1,9,35,DET,DET,fg3_miss,2,False,False,,MISS Smith Jr. 26' 3PT Running Jump Shot,2-5,2,5
+0022000467,2021-02-21,ORL,DET,2.47,1,9,32,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:0 Def:1),,2-5,2,5
+0022000467,2021-02-21,ORL,DET,2.6,1,9,24,ORL,ORL,fg_make,79,False,False,Fournier 14' Pullup Jump Shot (2 PTS) (Vucevic 1 AST),,4-5,4,5
+0022000467,2021-02-21,ORL,DET,2.83,1,9,10,DET,DET,fg_make,80,False,False,,Grant 19' Step Back Jump Shot (4 PTS),4-7,4,7
+0022000467,2021-02-21,ORL,DET,3.22,1,8,47,ORL,ORL,fg_make,78,False,False,Vucevic 8' Floating Jump Shot (4 PTS) (Carter-Williams 1 AST),,6-7,6,7
+0022000467,2021-02-21,ORL,DET,3.53,1,8,28,DET,DET,fg3_miss,1,False,False,,MISS Smith Jr. 24' 3PT Jump Shot,6-7,6,7
+0022000467,2021-02-21,ORL,DET,3.58,1,8,25,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:1),,6-7,6,7
+0022000467,2021-02-21,ORL,DET,3.77,1,8,14,ORL,ORL,fg_make,101,False,False,Fournier 8' Driving Floating Jump Shot (4 PTS) (Aminu 1 AST),,8-7,8,7
+0022000467,2021-02-21,ORL,DET,4.12,1,7,53,DET,DET,fg3_miss,79,False,False,,MISS Bey 27' 3PT Pullup Jump Shot,8-7,8,7
+0022000467,2021-02-21,ORL,DET,4.18,1,7,49,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:2),,8-7,8,7
+0022000467,2021-02-21,ORL,DET,4.25,1,7,45,ORL,DET,foul,2,False,False,,Ellington S.FOUL (P1.T1) (B.Nansel),8-7,8,7
+0022000467,2021-02-21,ORL,DET,4.25,1,7,45,ORL,ORL,ft_make,11,False,False,Fournier Free Throw 1 of 2 (5 PTS),,9-7,9,7
+0022000467,2021-02-21,ORL,DET,4.25,1,7,45,ORL,ORL,ft_make,12,False,False,Fournier Free Throw 2 of 2 (6 PTS),,10-7,10,7
+0022000467,2021-02-21,ORL,DET,4.52,1,7,29,DET,DET,fg_make,1,False,False,,Plumlee 13' Jump Shot (2 PTS) (Ellington 2 AST),10-9,10,9
+0022000467,2021-02-21,ORL,DET,4.9,1,7,6,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 18' Jump Shot,,10-9,10,9
+0022000467,2021-02-21,ORL,DET,4.95,1,7,3,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:1),10-9,10,9
+0022000467,2021-02-21,ORL,DET,5.12,1,6,53,DET,DET,fg3_miss,1,False,False,,MISS Bey 27' 3PT Jump Shot,10-9,10,9
+0022000467,2021-02-21,ORL,DET,5.2,1,6,48,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:1),,10-9,10,9
+0022000467,2021-02-21,ORL,DET,5.23,1,6,46,ORL,ORL,tov,2,False,True,Fournier Lost Ball Turnover (P1.T2),,10-9,10,9
+0022000467,2021-02-21,ORL,DET,5.23,1,6,46,ORL,DET,steal,2,False,True,steal,steal,10-9,10,9
+0022000467,2021-02-21,ORL,DET,5.3,1,6,42,DET,DET,fg_make,50,False,False,,Plumlee 2' Running Dunk (4 PTS),10-11,10,11
+0022000467,2021-02-21,ORL,DET,5.53,1,6,28,ORL,DET,foul,1,False,False,,Ellington P.FOUL (P2.T2) (B.Nansel),10-11,10,11
+0022000467,2021-02-21,ORL,DET,5.53,1,6,28,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,10-11,10,11
+0022000467,2021-02-21,ORL,DET,5.62,1,6,23,ORL,ORL,fg_make,79,False,False,Vucevic 12' Pullup Jump Shot (6 PTS) (Fournier 1 AST),,12-11,12,11
+0022000467,2021-02-21,ORL,DET,5.82,1,6,11,DET,DET,fg_miss,79,False,False,,MISS Grant 20' Pullup Jump Shot,12-11,12,11
+0022000467,2021-02-21,ORL,DET,5.87,1,6,8,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:0 Def:1),,12-11,12,11
+0022000467,2021-02-21,ORL,DET,5.95,1,6,3,ORL,DET,foul,2,False,False,,Jackson S.FOUL (P1.T3) (B.Nansel),12-11,12,11
+0022000467,2021-02-21,ORL,DET,5.95,1,6,3,ORL,ORL,ft_make,13,False,False,Fournier Free Throw 1 of 3 (7 PTS),,13-11,13,11
+0022000467,2021-02-21,ORL,DET,5.95,1,6,3,ORL,ORL,ft_make,14,False,False,Fournier Free Throw 2 of 3 (8 PTS),,14-11,14,11
+0022000467,2021-02-21,ORL,DET,5.95,1,6,3,ORL,ORL,ft_make,15,False,False,Fournier Free Throw 3 of 3 (9 PTS),,15-11,15,11
+0022000467,2021-02-21,ORL,DET,6.12,1,5,53,DET,DET,tov,1,False,True,,Smith Jr. Bad Pass Turnover (P2.T2),15-11,15,11
+0022000467,2021-02-21,ORL,DET,6.12,1,5,53,DET,ORL,steal,1,False,True,steal,steal,15-11,15,11
+0022000467,2021-02-21,ORL,DET,6.22,1,5,47,ORL,ORL,fg3_make,2,False,False,Ross 24' 3PT Running Jump Shot (3 PTS) (Fournier 2 AST),,18-11,18,11
+0022000467,2021-02-21,ORL,DET,6.45,1,5,33,DET,DET,fg_miss,73,False,False,,MISS Grant 5' Driving Reverse Layup,18-11,18,11
+0022000467,2021-02-21,ORL,DET,6.47,1,5,32,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:0 Def:2),,18-11,18,11
+0022000467,2021-02-21,ORL,DET,6.82,1,5,11,ORL,ORL,fg3_make,79,False,False,Fournier 25' 3PT Pullup Jump Shot (12 PTS),,21-11,21,11
+0022000467,2021-02-21,ORL,DET,6.95,1,5,3,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),21-11,21,11
+0022000467,2021-02-21,ORL,DET,7.12,1,4,53,DET,DET,fg_make,5,False,False,,Grant 3' Layup (6 PTS) (Plumlee 1 AST),21-13,21,13
+0022000467,2021-02-21,ORL,DET,7.38,1,4,37,ORL,ORL,fg_make,6,False,False,Vucevic 1' Driving Layup (8 PTS) (Fournier 3 AST),,23-13,23,13
+0022000467,2021-02-21,ORL,DET,7.38,1,4,37,ORL,DET,foul,2,False,False,,Plumlee S.FOUL (P1.T4) (B.Nansel),23-13,23,13
+0022000467,2021-02-21,ORL,DET,7.38,1,4,37,ORL,ORL,ft_make,10,False,False,Vucevic Free Throw 1 of 1 (9 PTS),,24-13,24,13
+0022000467,2021-02-21,ORL,DET,7.53,1,4,28,DET,ORL,foul,1,False,False,Fournier P.FOUL (P1.T1) (B.Nansel),,24-13,24,13
+0022000467,2021-02-21,ORL,DET,7.63,1,4,22,DET,DET,fg_make,108,False,False,,Jackson 3' Cutting Dunk Shot (2 PTS) (Plumlee 2 AST),24-15,24,15
+0022000467,2021-02-21,ORL,DET,7.88,1,4,7,ORL,ORL,fg_make,44,False,False,Vucevic 2' Reverse Layup (11 PTS) (Fournier 4 AST),,26-15,26,15
+0022000467,2021-02-21,ORL,DET,8.18,1,3,49,DET,ORL,foul,1,False,False,Randle P.FOUL (P1.T2) (K.Lane),,26-15,26,15
+0022000467,2021-02-21,ORL,DET,8.25,1,3,45,DET,ORL,foul,2,False,False,Randle S.FOUL (P2.T3) (B.Nansel),,26-15,26,15
+0022000467,2021-02-21,ORL,DET,8.25,1,3,45,DET,DET,ft_make,11,False,False,,Grant Free Throw 1 of 2 (7 PTS),26-16,26,16
+0022000467,2021-02-21,ORL,DET,8.25,1,3,45,DET,DET,ft_make,12,False,False,,Grant Free Throw 2 of 2 (8 PTS),26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.48,1,3,31,ORL,ORL,fg3_miss,1,False,False,MISS Ross 25' 3PT Jump Shot,,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.55,1,3,27,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:2),26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.67,1,3,20,DET,DET,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.72,1,3,17,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:1),,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.82,1,3,11,ORL,ORL,fg_miss,41,True,False,MISS Okeke 6' Running Layup,,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.82,1,3,11,ORL,DET,block,41,True,False,block,block,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.88,1,3,7,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.9,1,3,6,DET,DET,fg_miss,41,True,False,,MISS Jackson 7' Running Layup,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.9,1,3,6,DET,ORL,block,41,True,False,block,block,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.92,1,3,5,DET,DET,reb,0,False,False,,Pistons Rebound,26-17,26,17
+0022000467,2021-02-21,ORL,DET,8.95,1,3,3,DET,DET,fg3_make,1,False,False,,Bey 25' 3PT Jump Shot (3 PTS) (Lee 1 AST),26-20,26,20
+0022000467,2021-02-21,ORL,DET,9.28,1,2,43,ORL,ORL,fg_miss,47,False,False,MISS Birch 4' Turnaround Jump Shot,,26-20,26,20
+0022000467,2021-02-21,ORL,DET,9.33,1,2,40,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:0 Def:1),26-20,26,20
+0022000467,2021-02-21,ORL,DET,9.47,1,2,32,DET,DET,fg3_miss,1,False,False,,MISS Bey 24' 3PT Jump Shot,26-20,26,20
+0022000467,2021-02-21,ORL,DET,9.53,1,2,28,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:1 Def:1),26-20,26,20
+0022000467,2021-02-21,ORL,DET,9.57,1,2,26,DET,DET,fg_make,9,False,False,,Jackson 2' Driving Dunk (4 PTS) (Stewart 1 AST),26-22,26,22
+0022000467,2021-02-21,ORL,DET,9.9,1,2,6,ORL,ORL,fg_miss,58,False,False,MISS Birch 6' Turnaround Hook Shot,,26-22,26,22
+0022000467,2021-02-21,ORL,DET,9.93,1,2,4,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:1 Def:2),26-22,26,22
+0022000467,2021-02-21,ORL,DET,10.03,1,1,58,DET,DET,fg3_miss,1,False,False,,MISS Stewart 26' 3PT Jump Shot,26-22,26,22
+0022000467,2021-02-21,ORL,DET,10.1,1,1,54,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:1),,26-22,26,22
+0022000467,2021-02-21,ORL,DET,10.17,1,1,50,ORL,DET,foul,2,False,False,,Lee S.FOUL (P1.PN) (C.Blair),26-22,26,22
+0022000467,2021-02-21,ORL,DET,10.17,1,1,50,ORL,ORL,ft_make,11,False,False,Bacon Free Throw 1 of 2 (1 PTS),,27-22,27,22
+0022000467,2021-02-21,ORL,DET,10.17,1,1,50,ORL,ORL,ft_make,12,False,False,Bacon Free Throw 2 of 2 (2 PTS),,28-22,28,22
+0022000467,2021-02-21,ORL,DET,10.5,1,1,30,DET,DET,fg_miss,101,False,False,,MISS Jackson 12' Driving Floating Jump Shot,28-22,28,22
+0022000467,2021-02-21,ORL,DET,10.6,1,1,24,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:2),28-22,28,22
+0022000467,2021-02-21,ORL,DET,10.6,1,1,24,DET,DET,fg_miss,97,False,False,,MISS Stewart Tip Layup Shot,28-22,28,22
+0022000467,2021-02-21,ORL,DET,10.6,1,1,24,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:3 Def:2),28-22,28,22
+0022000467,2021-02-21,ORL,DET,10.75,1,1,15,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 26' 3PT Jump Shot,28-22,28,22
+0022000467,2021-02-21,ORL,DET,10.82,1,1,11,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:2),,28-22,28,22
+0022000467,2021-02-21,ORL,DET,10.98,1,1,1,ORL,ORL,fg3_miss,1,False,False,MISS Bacon 27' 3PT Jump Shot,,28-22,28,22
+0022000467,2021-02-21,ORL,DET,11.03,1,0,58,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:1),28-22,28,22
+0022000467,2021-02-21,ORL,DET,11.33,1,0,40,DET,ORL,foul,2,False,False,Okeke S.FOUL (P1.T4) (C.Blair),,28-22,28,22
+0022000467,2021-02-21,ORL,DET,11.33,1,0,40,DET,DET,ft_make,11,False,False,,Bey Free Throw 1 of 2 (4 PTS),28-23,28,23
+0022000467,2021-02-21,ORL,DET,11.33,1,0,40,DET,DET,ft_make,12,False,False,,Bey Free Throw 2 of 2 (5 PTS),28-24,28,24
+0022000467,2021-02-21,ORL,DET,11.52,1,0,29,ORL,ORL,tov,1,False,True,Randle Bad Pass Turnover (P1.T3),,28-24,28,24
+0022000467,2021-02-21,ORL,DET,11.52,1,0,29,ORL,DET,steal,1,False,True,steal,steal,28-24,28,24
+0022000467,2021-02-21,ORL,DET,11.62,1,0,23,DET,DET,fg_make,76,False,False,,Jackson 2' Running Finger Roll Layup (6 PTS),28-26,28,26
+0022000467,2021-02-21,ORL,DET,11.95,1,0,3,ORL,ORL,fg_miss,101,False,False,MISS Bacon 8' Driving Floating Jump Shot,,28-26,28,26
+0022000467,2021-02-21,ORL,DET,11.98,1,0,1,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:3),28-26,28,26
+0022000467,2021-02-21,ORL,DET,12.0,1,0,0,DET,DET,fg3_miss,1,False,False,,MISS Jackson 27' 3PT Jump Shot,28-26,28,26
+0022000467,2021-02-21,ORL,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,28-26,28,26
+0022000467,2021-02-21,ORL,DET,12.0,1,0,0,DET,,period_end,0,False,False,,,28-26,28,26
+0022000467,2021-02-21,ORL,DET,12.0,2,12,0,DET,,period_start,0,False,False,,,28-26,28,26
+0022000467,2021-02-21,ORL,DET,12.27,2,11,44,ORL,ORL,fg_make,101,False,False,Ross 12' Driving Floating Jump Shot (5 PTS) (Okeke 1 AST),,30-26,30,26
+0022000467,2021-02-21,ORL,DET,12.67,2,11,20,DET,DET,fg_miss,5,True,False,,MISS Stewart 4' Layup,30-26,30,26
+0022000467,2021-02-21,ORL,DET,12.67,2,11,20,DET,ORL,block,5,True,False,block,block,30-26,30,26
+0022000467,2021-02-21,ORL,DET,12.68,2,11,19,DET,DET,reb,0,False,False,,Pistons Rebound,30-26,30,26
+0022000467,2021-02-21,ORL,DET,12.73,2,11,16,DET,DET,fg3_miss,63,False,False,,MISS Mykhailiuk 24' 3PT Fadeaway Jumper,30-26,30,26
+0022000467,2021-02-21,ORL,DET,12.82,2,11,11,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:4 Def:2),30-26,30,26
+0022000467,2021-02-21,ORL,DET,13.0,2,11,0,DET,DET,fg_miss,1,False,False,,MISS Jackson 14' Jump Shot,30-26,30,26
+0022000467,2021-02-21,ORL,DET,13.07,2,10,56,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:0 Def:2),,30-26,30,26
+0022000467,2021-02-21,ORL,DET,13.17,2,10,50,ORL,ORL,fg3_make,1,False,False,Ross 24' 3PT Jump Shot (8 PTS) (Carter-Williams 2 AST),,33-26,33,26
+0022000467,2021-02-21,ORL,DET,13.4,2,10,36,DET,ORL,foul,2,False,False,Birch S.FOUL (P1.T1) (B.Nansel),,33-26,33,26
+0022000467,2021-02-21,ORL,DET,13.4,2,10,36,DET,DET,ft_miss,11,False,False,,MISS Lee Free Throw 1 of 2,33-26,33,26
+0022000467,2021-02-21,ORL,DET,13.4,2,10,36,DET,DET,reb,1,False,False,,Pistons Rebound,33-26,33,26
+0022000467,2021-02-21,ORL,DET,13.4,2,10,36,DET,DET,ft_make,12,False,False,,Lee Free Throw 2 of 2 (1 PTS),33-27,33,27
+0022000467,2021-02-21,ORL,DET,13.8,2,10,12,ORL,DET,foul,2,False,False,,Lee S.FOUL (P2.T1) (B.Nansel),33-27,33,27
+0022000467,2021-02-21,ORL,DET,13.8,2,10,12,ORL,ORL,ft_make,11,False,False,Carter-Williams Free Throw 1 of 2 (1 PTS),,34-27,34,27
+0022000467,2021-02-21,ORL,DET,13.8,2,10,12,ORL,ORL,ft_miss,12,False,False,MISS Carter-Williams Free Throw 2 of 2,,34-27,34,27
+0022000467,2021-02-21,ORL,DET,13.88,2,10,7,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:4 Def:3),34-27,34,27
+0022000467,2021-02-21,ORL,DET,14.15,2,9,51,DET,DET,fg_make,6,False,False,,Lee 3' Driving Layup (3 PTS),34-29,34,29
+0022000467,2021-02-21,ORL,DET,14.33,2,9,40,ORL,ORL,fg_make,6,False,False,Carter-Williams 2' Driving Layup (3 PTS),,36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.5,2,9,30,DET,ORL,foul,1,False,False,Bacon P.FOUL (P1.T2) (C.Blair),,36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.63,2,9,22,DET,DET,fg_miss,1,False,False,,MISS Jackson 14' Jump Shot,36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.68,2,9,19,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:0 Def:3),,36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.75,2,9,15,ORL,ORL,fg3_miss,103,False,False,MISS Bacon 24' 3PT Running Pull-Up Jump Shot,,36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.82,2,9,11,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:1),36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.85,2,9,9,DET,ORL,foul,1,False,False,Bacon P.FOUL (P2.T3) (K.Lane),,36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.98,2,9,1,DET,DET,fg_miss,6,True,False,,MISS Mykhailiuk 6' Driving Layup,36-29,36,29
+0022000467,2021-02-21,ORL,DET,14.98,2,9,1,DET,ORL,block,6,True,False,block,block,36-29,36,29
+0022000467,2021-02-21,ORL,DET,15.03,2,8,58,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:2),,36-29,36,29
+0022000467,2021-02-21,ORL,DET,15.12,2,8,53,ORL,ORL,fg_make,79,False,False,Bacon 9' Pullup Jump Shot (4 PTS) (Carter-Williams 3 AST),,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.43,2,8,34,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 29' 3PT Jump Shot,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.5,2,8,30,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:1),,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.67,2,8,20,ORL,ORL,fg_miss,79,False,False,MISS Ross 21' Pullup Jump Shot,,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.7,2,8,18,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:2),38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.8,2,8,12,DET,DET,fg_miss,101,True,False,,MISS Jackson 6' Driving Floating Jump Shot,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.8,2,8,12,DET,ORL,block,101,True,False,block,block,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.87,2,8,8,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:0 Def:1),,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.92,2,8,5,ORL,ORL,fg_miss,41,True,False,MISS Carter-Williams 4' Running Layup,,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.92,2,8,5,ORL,DET,block,41,True,False,block,block,38-29,38,29
+0022000467,2021-02-21,ORL,DET,15.92,2,8,5,ORL,ORL,reb,0,False,False,MAGIC Rebound,,38-29,38,29
+0022000467,2021-02-21,ORL,DET,16.03,2,7,58,ORL,ORL,fg_miss,6,True,False,MISS Ross 4' Driving Layup,,38-29,38,29
+0022000467,2021-02-21,ORL,DET,16.03,2,7,58,ORL,DET,block,6,True,False,block,block,38-29,38,29
+0022000467,2021-02-21,ORL,DET,16.1,2,7,54,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:1),38-29,38,29
+0022000467,2021-02-21,ORL,DET,16.17,2,7,50,DET,DET,fg3_make,2,False,False,,Mykhailiuk 26' 3PT Running Jump Shot (3 PTS) (Lee 2 AST),38-32,38,32
+0022000467,2021-02-21,ORL,DET,16.58,2,7,25,ORL,ORL,fg_miss,47,False,False,MISS Vucevic 7' Turnaround Jump Shot,,38-32,38,32
+0022000467,2021-02-21,ORL,DET,16.67,2,7,20,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:3),38-32,38,32
+0022000467,2021-02-21,ORL,DET,16.78,2,7,13,DET,DET,fg3_make,1,False,False,,Mykhailiuk 27' 3PT Jump Shot (6 PTS) (Lee 3 AST),38-35,38,35
+0022000467,2021-02-21,ORL,DET,16.95,2,7,3,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,38-35,38,35
+0022000467,2021-02-21,ORL,DET,17.05,2,6,57,ORL,ORL,fg_make,1,False,False,Vucevic 18' Jump Shot (13 PTS) (Ross 1 AST),,40-35,40,35
+0022000467,2021-02-21,ORL,DET,17.32,2,6,41,DET,DET,fg3_miss,1,False,False,,MISS Ellington 26' 3PT Jump Shot,40-35,40,35
+0022000467,2021-02-21,ORL,DET,17.38,2,6,37,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:2),,40-35,40,35
+0022000467,2021-02-21,ORL,DET,17.53,2,6,28,ORL,ORL,fg_make,101,False,False,Ross 9' Driving Floating Jump Shot (10 PTS) (Vucevic 2 AST),,42-35,42,35
+0022000467,2021-02-21,ORL,DET,17.97,2,6,2,DET,DET,fg_miss,101,False,False,,MISS Doumbouya 12' Driving Floating Jump Shot,42-35,42,35
+0022000467,2021-02-21,ORL,DET,18.02,2,5,59,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:3),,42-35,42,35
+0022000467,2021-02-21,ORL,DET,18.1,2,5,54,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P2.T4),,42-35,42,35
+0022000467,2021-02-21,ORL,DET,18.1,2,5,54,ORL,DET,steal,1,False,True,steal,steal,42-35,42,35
+0022000467,2021-02-21,ORL,DET,18.17,2,5,50,DET,DET,fg3_miss,2,False,False,,MISS Mykhailiuk 25' 3PT Running Jump Shot,42-35,42,35
+0022000467,2021-02-21,ORL,DET,18.25,2,5,45,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:3),,42-35,42,35
+0022000467,2021-02-21,ORL,DET,18.27,2,5,44,ORL,DET,foul,2,False,False,,Doumbouya S.FOUL (P1.T2) (K.Lane),42-35,42,35
+0022000467,2021-02-21,ORL,DET,18.27,2,5,44,ORL,ORL,ft_make,11,False,False,Randle Free Throw 1 of 2 (1 PTS),,43-35,43,35
+0022000467,2021-02-21,ORL,DET,18.27,2,5,44,ORL,ORL,ft_make,12,False,False,Randle Free Throw 2 of 2 (2 PTS),,44-35,44,35
+0022000467,2021-02-21,ORL,DET,18.53,2,5,28,DET,DET,fg_make,52,False,False,,Plumlee 2' Alley Oop Dunk (6 PTS) (Ellington 3 AST),44-37,44,37
+0022000467,2021-02-21,ORL,DET,18.8,2,5,12,ORL,ORL,fg_make,75,False,False,Ennis III 1' Driving Finger Roll Layup (2 PTS),,46-37,46,37
+0022000467,2021-02-21,ORL,DET,18.98,2,5,1,DET,DET,fg_make,6,False,False,,Lee 7' Driving Layup (5 PTS),46-39,46,39
+0022000467,2021-02-21,ORL,DET,19.2,2,4,48,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 24' 3PT Jump Shot,,46-39,46,39
+0022000467,2021-02-21,ORL,DET,19.23,2,4,46,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),46-39,46,39
+0022000467,2021-02-21,ORL,DET,19.3,2,4,42,DET,ORL,foul,2,False,False,Vucevic S.FOUL (P1.T4) (K.Lane),,46-39,46,39
+0022000467,2021-02-21,ORL,DET,19.3,2,4,42,DET,DET,ft_make,11,False,False,,Grant Free Throw 1 of 2 (9 PTS),46-40,46,40
+0022000467,2021-02-21,ORL,DET,19.3,2,4,42,DET,DET,ft_make,12,False,False,,Grant Free Throw 2 of 2 (10 PTS),46-41,46,41
+0022000467,2021-02-21,ORL,DET,19.55,2,4,27,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 25' 3PT Jump Shot,,46-41,46,41
+0022000467,2021-02-21,ORL,DET,19.6,2,4,24,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:2),46-41,46,41
+0022000467,2021-02-21,ORL,DET,19.88,2,4,7,DET,DET,fg_miss,9,False,False,,MISS Lee 4' Driving Dunk,46-41,46,41
+0022000467,2021-02-21,ORL,DET,19.92,2,4,5,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:3),,46-41,46,41
+0022000467,2021-02-21,ORL,DET,19.97,2,4,2,ORL,DET,foul,2,False,False,,Ellington S.FOUL (P3.T3) (B.Nansel),46-41,46,41
+0022000467,2021-02-21,ORL,DET,19.97,2,4,2,ORL,ORL,ft_make,11,False,False,Ennis III Free Throw 1 of 2 (3 PTS),,47-41,47,41
+0022000467,2021-02-21,ORL,DET,19.97,2,4,2,ORL,ORL,ft_miss,12,False,False,MISS Ennis III Free Throw 2 of 2,,47-41,47,41
+0022000467,2021-02-21,ORL,DET,20.02,2,3,59,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:4),47-41,47,41
+0022000467,2021-02-21,ORL,DET,20.18,2,3,49,DET,DET,tov,45,False,False,,Grant Out of Bounds - Bad Pass Turnover Turnover (P1.T3),47-41,47,41
+0022000467,2021-02-21,ORL,DET,20.18,2,3,49,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),47-41,47,41
+0022000467,2021-02-21,ORL,DET,20.45,2,3,33,ORL,ORL,fg_make,80,False,False,Fournier 21' Step Back Jump Shot (14 PTS),,49-41,49,41
+0022000467,2021-02-21,ORL,DET,20.68,2,3,19,DET,DET,fg3_make,1,False,False,,Grant 27' 3PT Jump Shot (13 PTS) (Lee 4 AST),49-44,49,44
+0022000467,2021-02-21,ORL,DET,20.93,2,3,4,ORL,DET,foul,2,False,False,,Grant S.FOUL (P1.T4) (C.Blair),49-44,49,44
+0022000467,2021-02-21,ORL,DET,20.93,2,3,4,ORL,ORL,ft_make,11,False,False,Fournier Free Throw 1 of 2 (15 PTS),,50-44,50,44
+0022000467,2021-02-21,ORL,DET,20.93,2,3,4,ORL,ORL,ft_make,12,False,False,Fournier Free Throw 2 of 2 (16 PTS),,51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.13,2,2,52,DET,DET,fg_miss,1,False,False,,MISS Grant 18' Jump Shot,51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.22,2,2,47,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:4),,51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.38,2,2,37,ORL,ORL,fg_miss,79,False,False,MISS Ross 18' Pullup Jump Shot,,51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.43,2,2,34,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:2),51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.78,2,2,13,DET,DET,fg_miss,102,False,False,,MISS Jackson Driving Floating Bank Jump Shot,51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.8,2,2,12,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:5),,51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.82,2,2,11,ORL,DET,foul,1,False,False,,Grant P.FOUL (P2.PN) (B.Nansel),51-44,51,44
+0022000467,2021-02-21,ORL,DET,21.82,2,2,11,ORL,ORL,ft_make,11,False,False,Vucevic Free Throw 1 of 2 (14 PTS),,52-44,52,44
+0022000467,2021-02-21,ORL,DET,21.82,2,2,11,ORL,ORL,ft_make,12,False,False,Vucevic Free Throw 2 of 2 (15 PTS),,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.0,2,2,0,DET,DET,fg3_miss,1,False,False,,MISS Jackson 27' 3PT Jump Shot,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.08,2,1,55,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:0 Def:3),,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.23,2,1,46,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P3.T5),,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.23,2,1,46,ORL,DET,steal,1,False,True,steal,steal,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.32,2,1,41,DET,DET,fg_miss,50,False,False,,MISS Plumlee 3' Running Dunk,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.35,2,1,39,DET,DET,reb,0,False,False,,Bey REBOUND (Off:1 Def:4),53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.48,2,1,31,DET,DET,fg3_miss,1,False,False,,MISS Bey 26' 3PT Jump Shot,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.55,2,1,27,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:6),,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.78,2,1,13,ORL,ORL,fg3_miss,80,False,False,MISS Fournier 24' 3PT Step Back Jump Shot,,53-44,53,44
+0022000467,2021-02-21,ORL,DET,22.85,2,1,9,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:3),53-44,53,44
+0022000467,2021-02-21,ORL,DET,23.0,2,1,0,DET,DET,fg_make,102,False,False,,Lee 2' Driving Floating Bank Jump Shot (7 PTS),53-46,53,46
+0022000467,2021-02-21,ORL,DET,23.28,2,0,43,ORL,ORL,fg3_make,1,False,False,Ross 26' 3PT Jump Shot (13 PTS) (Okeke 2 AST),,56-46,56,46
+0022000467,2021-02-21,ORL,DET,23.48,2,0,31,DET,DET,fg_miss,78,False,False,,MISS Jackson 10' Floating Jump Shot,56-46,56,46
+0022000467,2021-02-21,ORL,DET,23.53,2,0,28,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:1),56-46,56,46
+0022000467,2021-02-21,ORL,DET,23.55,2,0,27,DET,DET,fg_make,7,False,False,,Plumlee 2' Dunk (8 PTS) (Jackson 1 AST),56-48,56,48
+0022000467,2021-02-21,ORL,DET,23.88,2,0,7,ORL,ORL,fg3_miss,79,False,False,MISS Fournier 25' 3PT Pullup Jump Shot,,56-48,56,48
+0022000467,2021-02-21,ORL,DET,23.93,2,0,4,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:4),56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.0,2,0,0,DET,,period_end,0,False,False,,,56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.0,3,12,0,DET,,period_start,0,False,False,,,56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.22,3,11,47,ORL,ORL,fg3_miss,1,False,False,MISS Ennis III 26' 3PT Jump Shot,,56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.32,3,11,41,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:1 Def:3),,56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.32,3,11,41,ORL,ORL,fg_miss,97,False,False,MISS Carter-Williams Tip Layup Shot,,56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.33,3,11,40,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:3),56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.47,3,11,32,DET,DET,fg3_miss,79,False,False,,MISS Ellington 24' 3PT Pullup Jump Shot,56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.52,3,11,29,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:1 Def:4),,56-48,56,48
+0022000467,2021-02-21,ORL,DET,24.68,3,11,19,ORL,ORL,fg_make,47,False,False,Vucevic 13' Turnaround Jump Shot (17 PTS) (Ennis III 1 AST),,58-48,58,48
+0022000467,2021-02-21,ORL,DET,24.88,3,11,7,DET,ORL,foul,1,False,False,Ennis III P.FOUL (P1.T1) (K.Lane),,58-48,58,48
+0022000467,2021-02-21,ORL,DET,25.1,3,10,54,DET,DET,tov,2,False,True,,Smith Jr. Lost Ball Turnover (P3.T4),58-48,58,48
+0022000467,2021-02-21,ORL,DET,25.1,3,10,54,DET,ORL,steal,2,False,True,steal,steal,58-48,58,48
+0022000467,2021-02-21,ORL,DET,25.22,3,10,47,ORL,ORL,fg3_make,1,False,False,Fournier 25' 3PT Jump Shot (19 PTS) (Carter-Williams 4 AST),,61-48,61,48
+0022000467,2021-02-21,ORL,DET,25.5,3,10,30,DET,DET,fg_miss,6,True,False,,MISS Smith Jr. 5' Driving Layup,61-48,61,48
+0022000467,2021-02-21,ORL,DET,25.5,3,10,30,DET,ORL,block,6,True,False,block,block,61-48,61,48
+0022000467,2021-02-21,ORL,DET,25.52,3,10,29,DET,DET,reb,0,False,False,,Pistons Rebound,61-48,61,48
+0022000467,2021-02-21,ORL,DET,25.52,3,10,29,DET,ORL,foul,1,False,False,Carter-Williams P.FOUL (P1.T2) (C.Blair),,61-48,61,48
+0022000467,2021-02-21,ORL,DET,25.7,3,10,18,DET,DET,fg_make,47,False,False,,Grant 13' Turnaround Jump Shot (15 PTS) (Smith Jr. 1 AST),61-50,61,50
+0022000467,2021-02-21,ORL,DET,25.92,3,10,5,ORL,ORL,fg_make,101,False,False,Fournier 15' Driving Floating Jump Shot (21 PTS),,63-50,63,50
+0022000467,2021-02-21,ORL,DET,26.13,3,9,52,DET,ORL,foul,1,False,False,Aminu P.FOUL (P1.T3) (C.Blair),,63-50,63,50
+0022000467,2021-02-21,ORL,DET,26.37,3,9,38,DET,DET,fg3_make,1,False,False,,Bey 24' 3PT Jump Shot (8 PTS) (Grant 2 AST),63-53,63,53
+0022000467,2021-02-21,ORL,DET,26.65,3,9,21,ORL,DET,foul,2,False,False,,Bey S.FOUL (P1.T1) (C.Blair),63-53,63,53
+0022000467,2021-02-21,ORL,DET,26.65,3,9,21,ORL,ORL,ft_make,11,False,False,Fournier Free Throw 1 of 2 (22 PTS),,64-53,64,53
+0022000467,2021-02-21,ORL,DET,26.65,3,9,21,ORL,ORL,ft_make,12,False,False,Fournier Free Throw 2 of 2 (23 PTS),,65-53,65,53
+0022000467,2021-02-21,ORL,DET,26.77,3,9,14,ORL,DET,foul,26,False,False,,Smith Jr. Offensive Charge Foul (P1.T2) (C.Blair),65-53,65,53
+0022000467,2021-02-21,ORL,DET,26.77,3,9,14,DET,DET,tov,37,False,False,,Smith Jr. Offensive Foul Turnover (P4.T5),65-53,65,53
+0022000467,2021-02-21,ORL,DET,26.98,3,9,1,ORL,ORL,fg3_miss,79,False,False,MISS Ennis III 26' 3PT Pullup Jump Shot,,65-53,65,53
+0022000467,2021-02-21,ORL,DET,27.03,3,8,58,DET,DET,reb,0,False,False,,Bey REBOUND (Off:1 Def:5),65-53,65,53
+0022000467,2021-02-21,ORL,DET,27.22,3,8,47,DET,DET,fg3_make,1,False,False,,Smith Jr. 3PT Jump Shot (3 PTS) (Grant 3 AST),65-56,65,56
+0022000467,2021-02-21,ORL,DET,27.52,3,8,29,ORL,ORL,tov,2,False,True,Vucevic Lost Ball Turnover (P1.T6),,65-56,65,56
+0022000467,2021-02-21,ORL,DET,27.52,3,8,29,ORL,DET,steal,2,False,True,steal,steal,65-56,65,56
+0022000467,2021-02-21,ORL,DET,27.6,3,8,24,DET,DET,fg3_make,2,False,False,,Smith Jr. 26' 3PT Running Jump Shot (6 PTS) (Grant 4 AST),65-59,65,59
+0022000467,2021-02-21,ORL,DET,27.62,3,8,23,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,65-59,65,59
+0022000467,2021-02-21,ORL,DET,27.83,3,8,10,ORL,ORL,fg3_make,1,False,False,Fournier 27' 3PT Jump Shot (26 PTS) (Carter-Williams 5 AST),,68-59,68,59
+0022000467,2021-02-21,ORL,DET,28.25,3,7,45,DET,DET,fg3_make,1,False,False,,Bey 24' 3PT Jump Shot (11 PTS) (Plumlee 3 AST),68-62,68,62
+0022000467,2021-02-21,ORL,DET,28.5,3,7,30,ORL,ORL,fg3_miss,1,False,False,MISS Aminu 26' 3PT Jump Shot,,68-62,68,62
+0022000467,2021-02-21,ORL,DET,28.53,3,7,28,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:5),68-62,68,62
+0022000467,2021-02-21,ORL,DET,28.73,3,7,16,DET,DET,fg3_make,1,False,False,,Grant 25' 3PT Jump Shot (18 PTS) (Smith Jr. 2 AST),68-65,68,65
+0022000467,2021-02-21,ORL,DET,28.88,3,7,7,ORL,DET,foul,1,False,False,,Smith Jr. P.FOUL (P2.T3) (C.Blair),68-65,68,65
+0022000467,2021-02-21,ORL,DET,29.02,3,6,59,ORL,ORL,fg3_make,1,False,False,Vucevic 27' 3PT Jump Shot (20 PTS) (Fournier 5 AST),,71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.2,3,6,48,DET,DET,fg_miss,79,False,False,,MISS Smith Jr. 13' Pullup Jump Shot,71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.23,3,6,46,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:1 Def:5),,71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.3,3,6,42,ORL,ORL,fg3_miss,2,False,False,MISS Vucevic 26' 3PT Running Jump Shot,,71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.38,3,6,37,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:4),71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.68,3,6,19,DET,DET,tov,1,False,True,,Bey Bad Pass Turnover (P1.T6),71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.68,3,6,19,DET,ORL,steal,1,False,True,steal,steal,71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.78,3,6,13,ORL,ORL,fg_miss,41,False,False,MISS Aminu 10' Running Layup,,71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.82,3,6,11,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:1 Def:3),,71-65,71,65
+0022000467,2021-02-21,ORL,DET,29.82,3,6,11,ORL,ORL,fg_make,72,False,False,Aminu 3' Putback Layup (2 PTS),,73-65,73,65
+0022000467,2021-02-21,ORL,DET,29.82,3,6,11,ORL,DET,foul,2,False,False,,Plumlee S.FOUL (P2.T4) (K.Lane),73-65,73,65
+0022000467,2021-02-21,ORL,DET,29.82,3,6,11,ORL,ORL,ft_make,10,False,False,Aminu Free Throw 1 of 1 (3 PTS),,74-65,74,65
+0022000467,2021-02-21,ORL,DET,29.98,3,6,1,DET,DET,fg_miss,79,False,False,,MISS Ellington 19' Pullup Jump Shot,74-65,74,65
+0022000467,2021-02-21,ORL,DET,30.02,3,5,59,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:7),,74-65,74,65
+0022000467,2021-02-21,ORL,DET,30.15,3,5,51,ORL,DET,foul,2,False,False,,Plumlee S.FOUL (P3.PN) (B.Nansel),74-65,74,65
+0022000467,2021-02-21,ORL,DET,30.15,3,5,51,ORL,ORL,ft_make,11,False,False,Vucevic Free Throw 1 of 2 (21 PTS),,75-65,75,65
+0022000467,2021-02-21,ORL,DET,30.15,3,5,51,ORL,ORL,ft_make,12,False,False,Vucevic Free Throw 2 of 2 (22 PTS),,76-65,76,65
+0022000467,2021-02-21,ORL,DET,30.37,3,5,38,DET,ORL,foul,2,False,False,Okeke S.FOUL (P2.T4) (K.Lane),,76-65,76,65
+0022000467,2021-02-21,ORL,DET,30.37,3,5,38,DET,DET,ft_make,11,False,False,,Grant Free Throw 1 of 2 (19 PTS),76-66,76,66
+0022000467,2021-02-21,ORL,DET,30.37,3,5,38,DET,DET,ft_make,12,False,False,,Grant Free Throw 2 of 2 (20 PTS),76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.55,3,5,27,ORL,ORL,fg_miss,98,False,False,MISS Vucevic 4' Cutting Layup Shot,,76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.62,3,5,23,DET,DET,reb,0,False,False,,Bey REBOUND (Off:1 Def:6),76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.75,3,5,15,DET,DET,tov,1,False,True,,Lee Bad Pass Turnover (P1.T7),76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.75,3,5,15,DET,ORL,steal,1,False,True,steal,steal,76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.75,3,5,15,ORL,DET,foul,1,False,False,,Lee P.FOUL (P3.PN) (B.Nansel),76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.75,3,5,15,ORL,ORL,ft_miss,11,False,False,MISS Fournier Free Throw 1 of 2,,76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.75,3,5,15,ORL,ORL,reb,1,False,False,MAGIC Rebound,,76-67,76,67
+0022000467,2021-02-21,ORL,DET,30.75,3,5,15,ORL,ORL,ft_make,12,False,False,Fournier Free Throw 2 of 2 (27 PTS),,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.05,3,4,57,DET,DET,fg3_miss,79,False,False,,MISS Grant 25' 3PT Pullup Jump Shot,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.1,3,4,54,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:1 Def:6),,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.13,3,4,52,ORL,ORL,fg3_miss,2,False,False,MISS Fournier 25' 3PT Running Jump Shot,,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.27,3,4,44,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:2),77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.47,3,4,32,DET,DET,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.53,3,4,28,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:2),,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.65,3,4,21,ORL,ORL,fg_miss,78,False,False,MISS Vucevic 9' Floating Jump Shot,,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.7,3,4,18,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:6),77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.82,3,4,11,DET,DET,tov,1,False,True,,Mykhailiuk Bad Pass Turnover (P1.T8),77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.82,3,4,11,DET,ORL,steal,1,False,True,steal,steal,77-67,77,67
+0022000467,2021-02-21,ORL,DET,31.9,3,4,6,ORL,ORL,fg_make,41,False,False,Okeke 2' Running Layup (2 PTS),,79-67,79,67
+0022000467,2021-02-21,ORL,DET,31.92,3,4,5,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),79-67,79,67
+0022000467,2021-02-21,ORL,DET,32.23,3,3,46,DET,DET,fg_miss,73,False,False,,MISS Mykhailiuk 3' Driving Reverse Layup,79-67,79,67
+0022000467,2021-02-21,ORL,DET,32.27,3,3,44,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:3),,79-67,79,67
+0022000467,2021-02-21,ORL,DET,32.57,3,3,26,ORL,ORL,fg_make,79,False,False,Randle 20' Pullup Jump Shot (4 PTS),,81-67,81,67
+0022000467,2021-02-21,ORL,DET,32.8,3,3,12,DET,DET,fg_miss,6,True,False,,MISS Lee 5' Driving Layup,81-67,81,67
+0022000467,2021-02-21,ORL,DET,32.8,3,3,12,DET,ORL,block,6,True,False,block,block,81-67,81,67
+0022000467,2021-02-21,ORL,DET,32.85,3,3,9,ORL,ORL,reb,0,False,False,Randle REBOUND (Off:0 Def:1),,81-67,81,67
+0022000467,2021-02-21,ORL,DET,32.95,3,3,3,ORL,ORL,fg_miss,79,False,False,MISS Ross 16' Pullup Jump Shot,,81-67,81,67
+0022000467,2021-02-21,ORL,DET,33.02,3,2,59,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:4 Def:4),81-67,81,67
+0022000467,2021-02-21,ORL,DET,33.25,3,2,45,DET,DET,fg_make,1,False,False,,Grant 21' Jump Shot (22 PTS) (Stewart 2 AST),81-69,81,69
+0022000467,2021-02-21,ORL,DET,33.53,3,2,28,ORL,ORL,fg_miss,73,False,False,MISS Ross 3' Driving Reverse Layup,,81-69,81,69
+0022000467,2021-02-21,ORL,DET,33.58,3,2,25,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:2),81-69,81,69
+0022000467,2021-02-21,ORL,DET,33.58,3,2,25,DET,ORL,foul,2,False,False,Ross S.FOUL (P1.PN) (C.Blair),,81-69,81,69
+0022000467,2021-02-21,ORL,DET,33.58,3,2,25,DET,DET,ft_miss,11,False,False,,MISS Jackson Free Throw 1 of 2,81-69,81,69
+0022000467,2021-02-21,ORL,DET,33.58,3,2,25,DET,DET,reb,1,False,False,,Pistons Rebound,81-69,81,69
+0022000467,2021-02-21,ORL,DET,33.58,3,2,25,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (7 PTS),81-70,81,70
+0022000467,2021-02-21,ORL,DET,33.88,3,2,7,ORL,ORL,fg_miss,79,False,False,MISS Ross 21' Pullup Jump Shot,,81-70,81,70
+0022000467,2021-02-21,ORL,DET,33.93,3,2,4,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:2),81-70,81,70
+0022000467,2021-02-21,ORL,DET,34.0,3,2,0,DET,DET,fg3_miss,2,False,False,,MISS Jackson 25' 3PT Running Jump Shot,81-70,81,70
+0022000467,2021-02-21,ORL,DET,34.07,3,1,56,ORL,ORL,reb,0,False,False,Randle REBOUND (Off:0 Def:2),,81-70,81,70
+0022000467,2021-02-21,ORL,DET,34.37,3,1,38,ORL,ORL,tov,4,False,False,Bacon Traveling Turnover (P1.T7),,81-70,81,70
+0022000467,2021-02-21,ORL,DET,34.57,3,1,26,DET,DET,fg_make,3,False,False,,Stewart 7' Hook Shot (2 PTS) (Jackson 2 AST),81-72,81,72
+0022000467,2021-02-21,ORL,DET,34.78,3,1,13,ORL,ORL,fg_make,79,False,False,Ross 22' Pullup Jump Shot (15 PTS) (Birch 1 AST),,83-72,83,72
+0022000467,2021-02-21,ORL,DET,35.03,3,0,58,DET,DET,fg3_miss,1,False,False,,MISS Lee 26' 3PT Jump Shot,83-72,83,72
+0022000467,2021-02-21,ORL,DET,35.07,3,0,56,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:3),,83-72,83,72
+0022000467,2021-02-21,ORL,DET,35.15,3,0,51,ORL,ORL,fg3_miss,103,False,False,MISS Ross 27' 3PT Running Pull-Up Jump Shot,,83-72,83,72
+0022000467,2021-02-21,ORL,DET,35.2,3,0,48,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:3),83-72,83,72
+0022000467,2021-02-21,ORL,DET,35.28,3,0,43,DET,DET,fg_make,101,False,False,,Jackson 6' Driving Floating Jump Shot (9 PTS),83-74,83,74
+0022000467,2021-02-21,ORL,DET,35.6,3,0,24,ORL,ORL,fg3_miss,80,False,False,MISS Bacon 27' 3PT Step Back Jump Shot,,83-74,83,74
+0022000467,2021-02-21,ORL,DET,35.67,3,0,20,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:1 Def:1),,83-74,83,74
+0022000467,2021-02-21,ORL,DET,35.9,3,0,6,ORL,ORL,fg_miss,101,False,False,MISS Ross 11' Driving Floating Jump Shot,,83-74,83,74
+0022000467,2021-02-21,ORL,DET,35.93,3,0,4,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:4),83-74,83,74
+0022000467,2021-02-21,ORL,DET,35.98,3,0,1,DET,DET,fg_make,74,False,False,,Jackson 2' Running Reverse Layup (11 PTS),83-76,83,76
+0022000467,2021-02-21,ORL,DET,36.0,3,0,0,DET,,period_end,0,False,False,,,83-76,83,76
+0022000467,2021-02-21,ORL,DET,36.0,4,12,0,DET,,period_start,0,False,False,,,83-76,83,76
+0022000467,2021-02-21,ORL,DET,36.23,4,11,46,DET,DET,fg_miss,57,False,False,,MISS Mykhailiuk 6' Driving Hook Shot,83-76,83,76
+0022000467,2021-02-21,ORL,DET,36.3,4,11,42,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:1 Def:4),,83-76,83,76
+0022000467,2021-02-21,ORL,DET,36.35,4,11,39,ORL,ORL,fg3_make,2,False,False,Bacon 26' 3PT Running Jump Shot (7 PTS) (Aminu 2 AST),,86-76,86,76
+0022000467,2021-02-21,ORL,DET,36.67,4,11,20,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 24' 3PT Jump Shot,86-76,86,76
+0022000467,2021-02-21,ORL,DET,36.72,4,11,17,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:4),,86-76,86,76
+0022000467,2021-02-21,ORL,DET,36.82,4,11,11,ORL,ORL,fg_make,1,False,False,Vucevic 19' Jump Shot (24 PTS) (Ross 2 AST),,88-76,88,76
+0022000467,2021-02-21,ORL,DET,37.07,4,10,56,DET,DET,fg3_make,1,False,False,,Doumbouya 24' 3PT Jump Shot (3 PTS) (Mykhailiuk 1 AST),88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.43,4,10,34,ORL,ORL,fg3_miss,1,False,False,MISS Aminu 26' 3PT Jump Shot,,88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.52,4,10,29,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:4),88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.72,4,10,17,DET,DET,fg_miss,6,True,False,,MISS Mykhailiuk 5' Driving Layup,88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.72,4,10,17,DET,ORL,block,6,True,False,block,block,88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.78,4,10,13,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:8),,88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.9,4,10,6,ORL,ORL,fg_miss,79,False,False,MISS Bacon 19' Pullup Jump Shot,,88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.93,4,10,4,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:3),88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.97,4,10,2,DET,DET,fg3_miss,2,False,False,,MISS Mykhailiuk 24' 3PT Running Jump Shot,88-79,88,79
+0022000467,2021-02-21,ORL,DET,37.97,4,10,2,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:1 Def:5),,88-79,88,79
+0022000467,2021-02-21,ORL,DET,38.28,4,9,43,ORL,DET,foul,1,False,False,,Lee P.FOUL (P4.T1) (C.Blair),88-79,88,79
+0022000467,2021-02-21,ORL,DET,38.35,4,9,39,ORL,ORL,fg_make,6,False,False,Vucevic 3' Driving Layup (26 PTS) (Ross 3 AST),,90-79,90,79
+0022000467,2021-02-21,ORL,DET,38.53,4,9,28,DET,DET,fg_make,98,False,False,,Stewart 1' Cutting Layup Shot (4 PTS) (Lee 5 AST),90-81,90,81
+0022000467,2021-02-21,ORL,DET,38.93,4,9,4,ORL,ORL,fg_make,9,False,False,Ross 2' Driving Dunk (17 PTS) (Vucevic 3 AST),,92-81,92,81
+0022000467,2021-02-21,ORL,DET,38.93,4,9,4,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.4 Short 0),92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.25,4,8,45,DET,DET,fg_miss,80,False,False,,MISS Grant 17' Step Back Jump Shot,92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.33,4,8,40,ORL,ORL,reb,0,False,False,Randle REBOUND (Off:0 Def:3),,92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.45,4,8,33,ORL,ORL,tov,2,False,True,Ross Lost Ball Turnover (P1.T8),,92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.45,4,8,33,ORL,DET,steal,2,False,True,steal,steal,92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.53,4,8,28,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P1.T9),92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.53,4,8,28,DET,ORL,steal,1,False,True,steal,steal,92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.82,4,8,11,ORL,ORL,fg_miss,6,True,False,MISS Vucevic 6' Driving Layup,,92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.82,4,8,11,ORL,DET,block,6,True,False,block,block,92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.87,4,8,8,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:5),92-81,92,81
+0022000467,2021-02-21,ORL,DET,39.87,4,8,8,DET,DET,fg_make,41,False,False,,Lee 2' Running Layup (9 PTS),92-83,92,83
+0022000467,2021-02-21,ORL,DET,39.87,4,8,8,DET,ORL,foul,2,False,False,Randle S.FOUL (P3.T1) (C.Blair),,92-83,92,83
+0022000467,2021-02-21,ORL,DET,39.87,4,8,8,DET,DET,ft_miss,10,False,False,,MISS Lee Free Throw 1 of 1,92-83,92,83
+0022000467,2021-02-21,ORL,DET,39.93,4,8,4,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:4),,92-83,92,83
+0022000467,2021-02-21,ORL,DET,40.22,4,7,47,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 20' Jump Shot,,92-83,92,83
+0022000467,2021-02-21,ORL,DET,40.27,4,7,44,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:4),92-83,92,83
+0022000467,2021-02-21,ORL,DET,40.35,4,7,39,DET,ORL,foul,2,False,False,Randle S.FOUL (P4.T2) (K.Lane),,92-83,92,83
+0022000467,2021-02-21,ORL,DET,40.35,4,7,39,DET,DET,ft_make,11,False,False,,Lee Free Throw 1 of 2 (10 PTS),92-84,92,84
+0022000467,2021-02-21,ORL,DET,40.35,4,7,39,DET,DET,ft_miss,12,False,False,,MISS Lee Free Throw 2 of 2,92-84,92,84
+0022000467,2021-02-21,ORL,DET,40.4,4,7,36,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:5),,92-84,92,84
+0022000467,2021-02-21,ORL,DET,40.77,4,7,14,ORL,ORL,fg_make,86,False,False,Vucevic 15' Turnaround Fadeaway (28 PTS),,94-84,94,84
+0022000467,2021-02-21,ORL,DET,41.0,4,7,0,DET,DET,fg_miss,98,True,False,,MISS Jackson 6' Cutting Layup Shot,94-84,94,84
+0022000467,2021-02-21,ORL,DET,41.0,4,7,0,DET,ORL,block,98,True,False,block,block,94-84,94,84
+0022000467,2021-02-21,ORL,DET,41.05,4,6,57,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:4),94-84,94,84
+0022000467,2021-02-21,ORL,DET,41.07,4,6,56,DET,DET,fg_make,72,False,False,,Jackson 2' Putback Layup (13 PTS),94-86,94,86
+0022000467,2021-02-21,ORL,DET,41.27,4,6,44,ORL,ORL,fg3_make,1,False,False,Vucevic 25' 3PT Jump Shot (31 PTS) (Fournier 6 AST),,97-86,97,86
+0022000467,2021-02-21,ORL,DET,41.7,4,6,18,DET,DET,fg_miss,63,False,False,,MISS Doumbouya 19' Fadeaway Jumper,97-86,97,86
+0022000467,2021-02-21,ORL,DET,41.73,4,6,16,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:0 Def:2),,97-86,97,86
+0022000467,2021-02-21,ORL,DET,41.88,4,6,7,ORL,ORL,tov,2,False,True,Fournier Lost Ball Turnover (P4.T9),,97-86,97,86
+0022000467,2021-02-21,ORL,DET,41.88,4,6,7,ORL,DET,steal,2,False,True,steal,steal,97-86,97,86
+0022000467,2021-02-21,ORL,DET,41.92,4,6,5,ORL,DET,foul,26,False,False,,Grant Offensive Charge Foul (P3.T2) (B.Nansel),97-86,97,86
+0022000467,2021-02-21,ORL,DET,41.92,4,6,5,DET,DET,tov,37,False,False,,Grant Offensive Foul Turnover (P2.T10),97-86,97,86
+0022000467,2021-02-21,ORL,DET,42.17,4,5,50,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 27' 3PT Jump Shot,,97-86,97,86
+0022000467,2021-02-21,ORL,DET,42.23,4,5,46,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:5),97-86,97,86
+0022000467,2021-02-21,ORL,DET,42.27,4,5,44,DET,ORL,foul,2,False,False,Carter-Williams S.FOUL (P2.T3) (C.Blair),,97-86,97,86
+0022000467,2021-02-21,ORL,DET,42.27,4,5,44,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (14 PTS),97-87,97,87
+0022000467,2021-02-21,ORL,DET,42.27,4,5,44,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (15 PTS),97-88,97,88
+0022000467,2021-02-21,ORL,DET,42.5,4,5,30,ORL,DET,foul,2,False,False,,Grant S.FOUL (P4.T3) (C.Blair),97-88,97,88
+0022000467,2021-02-21,ORL,DET,42.5,4,5,30,ORL,ORL,ft_make,11,False,False,Fournier Free Throw 1 of 2 (28 PTS),,98-88,98,88
+0022000467,2021-02-21,ORL,DET,42.5,4,5,30,ORL,ORL,ft_make,12,False,False,Fournier Free Throw 2 of 2 (29 PTS),,99-88,99,88
+0022000467,2021-02-21,ORL,DET,42.82,4,5,11,DET,DET,fg3_miss,1,False,False,,MISS Bey 26' 3PT Jump Shot,99-88,99,88
+0022000467,2021-02-21,ORL,DET,42.88,4,5,7,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:9),,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.05,4,4,57,ORL,ORL,tov,2,False,True,Carter-Williams Lost Ball Turnover (P2.T10),,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.05,4,4,57,ORL,DET,steal,2,False,True,steal,steal,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.15,4,4,51,DET,DET,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.32,4,4,41,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:10),,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.38,4,4,37,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 3PT Jump Shot,,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.45,4,4,33,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:5),99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.57,4,4,26,DET,DET,fg_miss,6,False,False,,MISS Jackson 3' Driving Layup,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.6,4,4,24,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:3 Def:5),99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.6,4,4,24,DET,DET,fg_miss,97,False,False,,MISS Jackson 2' Tip Layup Shot,99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.62,4,4,23,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:4 Def:5),99-88,99,88
+0022000467,2021-02-21,ORL,DET,43.63,4,4,22,DET,DET,fg_make,72,False,False,,Jackson 2' Putback Layup (17 PTS),99-90,99,90
+0022000467,2021-02-21,ORL,DET,43.8,4,4,12,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,99-90,99,90
+0022000467,2021-02-21,ORL,DET,43.87,4,4,8,ORL,ORL,tov,1,False,True,Ross Bad Pass Turnover (P2.T11),,99-90,99,90
+0022000467,2021-02-21,ORL,DET,43.87,4,4,8,ORL,DET,steal,1,False,True,steal,steal,99-90,99,90
+0022000467,2021-02-21,ORL,DET,44.12,4,3,53,DET,DET,fg3_miss,1,False,False,,MISS Bey 24' 3PT Jump Shot,99-90,99,90
+0022000467,2021-02-21,ORL,DET,44.18,4,3,49,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:6),,99-90,99,90
+0022000467,2021-02-21,ORL,DET,44.32,4,3,41,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 18' Jump Shot,,99-90,99,90
+0022000467,2021-02-21,ORL,DET,44.38,4,3,37,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:7),99-90,99,90
+0022000467,2021-02-21,ORL,DET,44.57,4,3,26,DET,ORL,foul,2,False,False,Vucevic S.FOUL (P2.T4) (B.Nansel),,99-90,99,90
+0022000467,2021-02-21,ORL,DET,44.57,4,3,26,DET,DET,ft_make,11,False,False,,Plumlee Free Throw 1 of 2 (9 PTS),99-91,99,91
+0022000467,2021-02-21,ORL,DET,44.57,4,3,26,DET,DET,ft_make,12,False,False,,Plumlee Free Throw 2 of 2 (10 PTS),99-92,99,92
+0022000467,2021-02-21,ORL,DET,44.63,4,3,22,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 5 Short 0),,99-92,99,92
+0022000467,2021-02-21,ORL,DET,44.73,4,3,16,ORL,DET,foul,2,False,False,,Bey S.FOUL (P2.T4) (B.Nansel),99-92,99,92
+0022000467,2021-02-21,ORL,DET,44.73,4,3,16,ORL,ORL,ft_make,11,False,False,Vucevic Free Throw 1 of 2 (32 PTS),,100-92,100,92
+0022000467,2021-02-21,ORL,DET,44.73,4,3,16,ORL,ORL,ft_make,12,False,False,Vucevic Free Throw 2 of 2 (33 PTS),,101-92,101,92
+0022000467,2021-02-21,ORL,DET,44.73,4,3,16,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.5 Short 0),101-92,101,92
+0022000467,2021-02-21,ORL,DET,44.95,4,3,3,DET,DET,tov,15,False,False,,Plumlee Offensive Goaltending Turnover (P1.T11),101-92,101,92
+0022000467,2021-02-21,ORL,DET,45.22,4,2,47,ORL,ORL,fg_make,58,False,False,Vucevic 10' Turnaround Hook Shot (35 PTS) (Fournier 7 AST),,103-92,103,92
+0022000467,2021-02-21,ORL,DET,45.63,4,2,22,DET,DET,fg3_miss,66,False,False,,MISS Grant 25' 3PT Jump Bank Shot,103-92,103,92
+0022000467,2021-02-21,ORL,DET,45.68,4,2,19,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:11),,103-92,103,92
+0022000467,2021-02-21,ORL,DET,45.9,4,2,6,ORL,ORL,fg_make,86,False,False,Vucevic 15' Turnaround Fadeaway (37 PTS),,105-92,105,92
+0022000467,2021-02-21,ORL,DET,46.22,4,1,47,DET,ORL,foul,1,False,False,Carter-Williams P.FOUL (P3.PN) (K.Lane),,105-92,105,92
+0022000467,2021-02-21,ORL,DET,46.22,4,1,47,DET,DET,ft_make,11,False,False,,Lee Free Throw 1 of 2 (11 PTS),105-93,105,93
+0022000467,2021-02-21,ORL,DET,46.22,4,1,47,DET,DET,ft_make,12,False,False,,Lee Free Throw 2 of 2 (12 PTS),105-94,105,94
+0022000467,2021-02-21,ORL,DET,46.52,4,1,29,ORL,ORL,fg3_miss,105,False,False,MISS Fournier 27' 3PT Turnaround Fadeaway Bank Jump Shot,,105-94,105,94
+0022000467,2021-02-21,ORL,DET,46.58,4,1,25,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:4 Def:6),105-94,105,94
+0022000467,2021-02-21,ORL,DET,46.7,4,1,18,DET,DET,fg3_miss,1,False,False,,MISS Grant 3PT Jump Shot,105-94,105,94
+0022000467,2021-02-21,ORL,DET,46.75,4,1,15,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:1 Def:7),,105-94,105,94
+0022000467,2021-02-21,ORL,DET,46.92,4,1,5,ORL,DET,foul,1,False,False,,Plumlee P.FOUL (P4.PN) (K.Lane),105-94,105,94
+0022000467,2021-02-21,ORL,DET,47.02,4,0,59,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 26' 3PT Jump Shot,,105-94,105,94
+0022000467,2021-02-21,ORL,DET,47.07,4,0,56,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:1 Def:6),,105-94,105,94
+0022000467,2021-02-21,ORL,DET,47.08,4,0,55,ORL,ORL,fg_miss,72,False,False,MISS Fournier 4' Putback Layup,,105-94,105,94
+0022000467,2021-02-21,ORL,DET,47.12,4,0,53,DET,DET,reb,0,False,False,,Bey REBOUND (Off:1 Def:7),105-94,105,94
+0022000467,2021-02-21,ORL,DET,47.23,4,0,46,DET,DET,fg_make,9,False,False,,Grant 1' Driving Dunk (24 PTS) (Bey 1 AST),105-96,105,96
+0022000467,2021-02-21,ORL,DET,47.55,4,0,27,ORL,ORL,fg_miss,58,False,False,MISS Vucevic 10' Turnaround Hook Shot,,105-96,105,96
+0022000467,2021-02-21,ORL,DET,47.6,4,0,24,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:2 Def:7),,105-96,105,96
+0022000467,2021-02-21,ORL,DET,47.8,4,0,12,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 33' 3PT Jump Shot,,105-96,105,96
+0022000467,2021-02-21,ORL,DET,47.82,4,0,11,ORL,ORL,reb,0,False,False,MAGIC Rebound,,105-96,105,96
+0022000467,2021-02-21,ORL,DET,47.82,4,0,11,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#12),,105-96,105,96
+0022000467,2021-02-21,ORL,DET,47.9,4,0,6,DET,DET,fg3_miss,1,False,False,,MISS Grant 27' 3PT Jump Shot,105-96,105,96
+0022000467,2021-02-21,ORL,DET,47.97,4,0,2,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:12),,105-96,105,96
+0022000467,2021-02-21,ORL,DET,48.0,4,0,0,ORL,,period_end,0,False,False,,,105-96,105,96

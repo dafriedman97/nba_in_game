@@ -1,0 +1,431 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900825,2020-02-20,GSW,HOU,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900825,2020-02-20,GSW,HOU,0.0,1,12,0,,GSW,jump_ball,0,False,False,Jump Ball Chriss vs. House Jr.: Tip to Green,,0-0,0,0
+0021900825,2020-02-20,GSW,HOU,0.18,1,11,49,GSW,GSW,fg3_miss,1,False,False,MISS Lee 24' 3PT Jump Shot,,0-0,0,0
+0021900825,2020-02-20,GSW,HOU,0.22,1,11,47,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:1),0-0,0,0
+0021900825,2020-02-20,GSW,HOU,0.45,1,11,33,HOU,HOU,fg3_make,1,False,False,,Harden 28' 3PT Jump Shot (3 PTS),0-3,0,3
+0021900825,2020-02-20,GSW,HOU,0.6,1,11,24,GSW,GSW,fg_make,101,False,False,Wiggins 11' Driving Floating Jump Shot (2 PTS) (Green 1 AST),,2-3,2,3
+0021900825,2020-02-20,GSW,HOU,0.88,1,11,7,HOU,HOU,fg_miss,73,False,False,,MISS Westbrook 3' Driving Reverse Layup,2-3,2,3
+0021900825,2020-02-20,GSW,HOU,0.9,1,11,6,GSW,GSW,reb,0,False,False,Chriss REBOUND (Off:0 Def:1),,2-3,2,3
+0021900825,2020-02-20,GSW,HOU,1.05,1,10,57,GSW,GSW,fg_make,108,False,False,Chriss 2' Cutting Dunk Shot (2 PTS) (Green 2 AST),,4-3,4,3
+0021900825,2020-02-20,GSW,HOU,1.38,1,10,37,HOU,HOU,fg3_miss,1,False,False,,MISS House Jr. 3PT Jump Shot,4-3,4,3
+0021900825,2020-02-20,GSW,HOU,1.42,1,10,35,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:1),,4-3,4,3
+0021900825,2020-02-20,GSW,HOU,1.5,1,10,30,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P1.T1),,4-3,4,3
+0021900825,2020-02-20,GSW,HOU,1.5,1,10,30,GSW,HOU,steal,1,False,True,steal,steal,4-3,4,3
+0021900825,2020-02-20,GSW,HOU,1.83,1,10,10,HOU,HOU,fg3_make,1,False,False,,Tucker 26' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),4-6,4,6
+0021900825,2020-02-20,GSW,HOU,2.12,1,9,53,GSW,GSW,fg3_miss,1,False,False,MISS Lee 28' 3PT Jump Shot,,4-6,4,6
+0021900825,2020-02-20,GSW,HOU,2.15,1,9,51,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:1),4-6,4,6
+0021900825,2020-02-20,GSW,HOU,2.28,1,9,43,HOU,HOU,fg3_make,1,False,False,,Westbrook 27' 3PT Jump Shot (3 PTS) (House Jr. 1 AST),4-9,4,9
+0021900825,2020-02-20,GSW,HOU,2.53,1,9,28,GSW,GSW,fg_miss,98,False,False,MISS Chriss 3' Cutting Layup Shot,,4-9,4,9
+0021900825,2020-02-20,GSW,HOU,2.55,1,9,27,HOU,HOU,reb,0,False,False,,Covington REBOUND (Off:0 Def:1),4-9,4,9
+0021900825,2020-02-20,GSW,HOU,2.65,1,9,21,HOU,HOU,fg_make,41,False,False,,Covington 1' Running Layup (2 PTS) (Harden 1 AST),4-11,4,11
+0021900825,2020-02-20,GSW,HOU,2.92,1,9,5,GSW,HOU,foul,1,False,False,,House Jr. P.FOUL (P1.T1) (N.Buchert),4-11,4,11
+0021900825,2020-02-20,GSW,HOU,2.95,1,9,3,GSW,GSW,tov,45,False,False,Poole Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,4-11,4,11
+0021900825,2020-02-20,GSW,HOU,3.17,1,8,50,HOU,HOU,fg3_miss,1,False,False,,MISS Covington 3PT Jump Shot,4-11,4,11
+0021900825,2020-02-20,GSW,HOU,3.2,1,8,48,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:2),,4-11,4,11
+0021900825,2020-02-20,GSW,HOU,3.28,1,8,43,GSW,GSW,tov,2,False,True,Wiggins Lost Ball Turnover (P1.T3),,4-11,4,11
+0021900825,2020-02-20,GSW,HOU,3.28,1,8,43,GSW,HOU,steal,2,False,True,steal,steal,4-11,4,11
+0021900825,2020-02-20,GSW,HOU,3.35,1,8,39,HOU,HOU,fg_make,52,False,False,,Westbrook 2' Alley Oop Dunk (5 PTS) (Harden 2 AST),4-13,4,13
+0021900825,2020-02-20,GSW,HOU,3.48,1,8,31,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 1 Short 0),,4-13,4,13
+0021900825,2020-02-20,GSW,HOU,3.63,1,8,22,GSW,GSW,fg3_miss,1,False,False,MISS Green 28' 3PT Jump Shot,,4-13,4,13
+0021900825,2020-02-20,GSW,HOU,3.67,1,8,20,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:0 Def:1),4-13,4,13
+0021900825,2020-02-20,GSW,HOU,3.77,1,8,14,HOU,HOU,fg3_make,1,False,False,,Harden 27' 3PT Jump Shot (6 PTS),4-16,4,16
+0021900825,2020-02-20,GSW,HOU,3.93,1,8,4,GSW,HOU,foul,1,False,False,,Harden P.FOUL (P1.T2) (J.Goble),4-16,4,16
+0021900825,2020-02-20,GSW,HOU,4.08,1,7,55,GSW,GSW,fg_miss,79,False,False,MISS Poole 18' Pullup Jump Shot,,4-16,4,16
+0021900825,2020-02-20,GSW,HOU,4.12,1,7,53,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:2),4-16,4,16
+0021900825,2020-02-20,GSW,HOU,4.37,1,7,38,HOU,HOU,fg_miss,73,False,False,,MISS Westbrook 3' Driving Reverse Layup,4-16,4,16
+0021900825,2020-02-20,GSW,HOU,4.37,1,7,38,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,4-16,4,16
+0021900825,2020-02-20,GSW,HOU,4.37,1,7,38,GSW,HOU,foul,11,False,False,,Westbrook T.FOUL (P0.T2) (J.Goble),4-16,4,16
+0021900825,2020-02-20,GSW,HOU,4.37,1,7,38,GSW,GSW,ft_make,16,False,False,Lee Free Throw Technical (1 PTS),,5-16,5,16
+0021900825,2020-02-20,GSW,HOU,4.75,1,7,15,GSW,GSW,fg_miss,1,False,False,MISS Lee 22' Jump Shot,,5-16,5,16
+0021900825,2020-02-20,GSW,HOU,4.78,1,7,13,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:0 Def:2),5-16,5,16
+0021900825,2020-02-20,GSW,HOU,4.92,1,7,5,HOU,GSW,foul,2,False,False,Chriss S.FOUL (P1.T1) (J.DeRosa),,5-16,5,16
+0021900825,2020-02-20,GSW,HOU,4.92,1,7,5,HOU,HOU,ft_make,11,False,False,,Harden Free Throw 1 of 2 (7 PTS),5-17,5,17
+0021900825,2020-02-20,GSW,HOU,4.92,1,7,5,HOU,HOU,ft_make,12,False,False,,Harden Free Throw 2 of 2 (8 PTS),5-18,5,18
+0021900825,2020-02-20,GSW,HOU,5.17,1,6,50,GSW,GSW,fg_make,57,False,False,Chriss 5' Driving Hook Shot (4 PTS),,7-18,7,18
+0021900825,2020-02-20,GSW,HOU,5.35,1,6,39,HOU,HOU,fg_make,6,False,False,,Westbrook 2' Driving Layup (7 PTS),7-20,7,20
+0021900825,2020-02-20,GSW,HOU,5.55,1,6,27,GSW,GSW,fg_make,98,False,False,Green 2' Cutting Layup Shot (2 PTS) (Poole 1 AST),,9-20,9,20
+0021900825,2020-02-20,GSW,HOU,5.7,1,6,18,HOU,HOU,fg3_miss,80,False,False,,MISS Harden 28' 3PT Step Back Jump Shot,9-20,9,20
+0021900825,2020-02-20,GSW,HOU,5.73,1,6,16,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:1),,9-20,9,20
+0021900825,2020-02-20,GSW,HOU,5.9,1,6,6,GSW,GSW,fg_miss,75,False,False,MISS Wiggins 6' Driving Finger Roll Layup,,9-20,9,20
+0021900825,2020-02-20,GSW,HOU,5.92,1,6,5,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:0 Def:3),9-20,9,20
+0021900825,2020-02-20,GSW,HOU,6.02,1,5,59,HOU,HOU,fg_miss,5,False,False,,MISS House Jr. 3' Layup,9-20,9,20
+0021900825,2020-02-20,GSW,HOU,6.02,1,5,59,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:1),9-20,9,20
+0021900825,2020-02-20,GSW,HOU,6.02,1,5,59,HOU,GSW,foul,1,False,False,Lee P.FOUL (P1.T2) (N.Buchert),,9-20,9,20
+0021900825,2020-02-20,GSW,HOU,6.18,1,5,49,HOU,HOU,fg_make,6,False,False,,Westbrook 2' Driving Layup (9 PTS) (Harden 3 AST),9-22,9,22
+0021900825,2020-02-20,GSW,HOU,6.47,1,5,32,GSW,GSW,fg_make,1,False,False,Paschall 13' Jump Shot (2 PTS) (Looney 1 AST),,11-22,11,22
+0021900825,2020-02-20,GSW,HOU,6.75,1,5,15,HOU,HOU,fg3_make,1,False,False,,Covington 30' 3PT Jump Shot (5 PTS) (Harden 4 AST),11-25,11,25
+0021900825,2020-02-20,GSW,HOU,6.75,1,5,15,HOU,GSW,foul,2,False,False,Lee S.FOUL (P2.T3) (N.Buchert),,11-25,11,25
+0021900825,2020-02-20,GSW,HOU,6.75,1,5,15,HOU,HOU,ft_make,10,False,False,,Covington Free Throw 1 of 1 (6 PTS),11-26,11,26
+0021900825,2020-02-20,GSW,HOU,7.08,1,4,55,GSW,GSW,fg_miss,5,False,False,MISS Looney 5' Layup,,11-26,11,26
+0021900825,2020-02-20,GSW,HOU,7.1,1,4,54,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:1 Def:0),,11-26,11,26
+0021900825,2020-02-20,GSW,HOU,7.17,1,4,50,GSW,GSW,tov,11,False,False,WARRIORS Turnover: Shot Clock (T#4),,11-26,11,26
+0021900825,2020-02-20,GSW,HOU,7.28,1,4,43,HOU,HOU,fg3_make,1,False,False,,Covington 28' 3PT Jump Shot (9 PTS) (Harden 5 AST),11-29,11,29
+0021900825,2020-02-20,GSW,HOU,7.67,1,4,20,GSW,GSW,fg3_miss,1,False,False,MISS Toscano-Anderson 27' 3PT Jump Shot,,11-29,11,29
+0021900825,2020-02-20,GSW,HOU,7.7,1,4,18,HOU,HOU,reb,0,False,False,,Rivers REBOUND (Off:0 Def:1),11-29,11,29
+0021900825,2020-02-20,GSW,HOU,7.83,1,4,10,HOU,GSW,foul,1,False,False,Paschall P.FOUL (P1.T4) (N.Buchert),,11-29,11,29
+0021900825,2020-02-20,GSW,HOU,7.9,1,4,6,HOU,GSW,foul,2,False,False,Toscano-Anderson S.FOUL (P1.PN) (J.Goble),,11-29,11,29
+0021900825,2020-02-20,GSW,HOU,7.9,1,4,6,HOU,HOU,ft_miss,13,False,False,,MISS Harden Free Throw 1 of 3,11-29,11,29
+0021900825,2020-02-20,GSW,HOU,7.9,1,4,6,HOU,HOU,reb,1,False,False,,Rockets Rebound,11-29,11,29
+0021900825,2020-02-20,GSW,HOU,7.9,1,4,6,HOU,HOU,ft_make,14,False,False,,Harden Free Throw 2 of 3 (9 PTS),11-30,11,30
+0021900825,2020-02-20,GSW,HOU,7.9,1,4,6,HOU,HOU,ft_make,15,False,False,,Harden Free Throw 3 of 3 (10 PTS),11-31,11,31
+0021900825,2020-02-20,GSW,HOU,8.13,1,3,52,GSW,GSW,fg3_miss,80,False,False,MISS Poole 27' 3PT Step Back Jump Shot,,11-31,11,31
+0021900825,2020-02-20,GSW,HOU,8.17,1,3,50,HOU,HOU,reb,0,False,False,,Rivers REBOUND (Off:0 Def:2),11-31,11,31
+0021900825,2020-02-20,GSW,HOU,8.18,1,3,49,HOU,GSW,foul,11,False,False,Chriss T.FOUL (P1.PN) (J.Goble),,11-31,11,31
+0021900825,2020-02-20,GSW,HOU,8.18,1,3,49,HOU,HOU,ft_make,16,False,False,,Harden Free Throw Technical (11 PTS),11-32,11,32
+0021900825,2020-02-20,GSW,HOU,8.35,1,3,39,HOU,HOU,fg_miss,75,False,False,,MISS Covington 10' Driving Finger Roll Layup,11-32,11,32
+0021900825,2020-02-20,GSW,HOU,8.37,1,3,38,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:1 Def:1),,11-32,11,32
+0021900825,2020-02-20,GSW,HOU,8.4,1,3,36,GSW,HOU,foul,1,False,False,,McLemore P.FOUL (P1.T3) (J.DeRosa),11-32,11,32
+0021900825,2020-02-20,GSW,HOU,8.78,1,3,13,GSW,GSW,fg3_miss,1,True,False,MISS Poole 27' 3PT Jump Shot,,11-32,11,32
+0021900825,2020-02-20,GSW,HOU,8.78,1,3,13,GSW,HOU,block,1,True,False,block,block,11-32,11,32
+0021900825,2020-02-20,GSW,HOU,8.8,1,3,12,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,11-32,11,32
+0021900825,2020-02-20,GSW,HOU,8.8,1,3,12,GSW,GSW,tov,11,False,False,WARRIORS Turnover: Shot Clock (T#5),,11-32,11,32
+0021900825,2020-02-20,GSW,HOU,9.1,1,2,54,HOU,HOU,fg3_make,79,False,False,,McLemore 25' 3PT Pullup Jump Shot (3 PTS) (Rivers 1 AST),11-35,11,35
+0021900825,2020-02-20,GSW,HOU,9.42,1,2,35,GSW,GSW,tov,2,False,True,Paschall Lost Ball Turnover (P1.T6),,11-35,11,35
+0021900825,2020-02-20,GSW,HOU,9.42,1,2,35,GSW,HOU,steal,2,False,True,steal,steal,11-35,11,35
+0021900825,2020-02-20,GSW,HOU,9.52,1,2,29,HOU,HOU,fg_miss,101,False,False,,MISS Harden 10' Driving Floating Jump Shot,11-35,11,35
+0021900825,2020-02-20,GSW,HOU,9.53,1,2,28,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:1),,11-35,11,35
+0021900825,2020-02-20,GSW,HOU,9.6,1,2,24,GSW,HOU,foul,1,False,False,,Rivers P.FOUL (P1.T4) (J.DeRosa),11-35,11,35
+0021900825,2020-02-20,GSW,HOU,9.6,1,2,24,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.1 Short 0),11-35,11,35
+0021900825,2020-02-20,GSW,HOU,9.88,1,2,7,GSW,GSW,fg_make,44,False,False,Looney 2' Reverse Layup (2 PTS) (Toscano-Anderson 1 AST),,13-35,13,35
+0021900825,2020-02-20,GSW,HOU,10.05,1,1,57,HOU,HOU,fg3_make,1,False,False,,Green 28' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),13-38,13,38
+0021900825,2020-02-20,GSW,HOU,10.4,1,1,36,GSW,GSW,tov,40,False,False,Paschall Out of Bounds Lost Ball Turnover (P2.T7),,13-38,13,38
+0021900825,2020-02-20,GSW,HOU,10.6,1,1,24,HOU,HOU,tov,1,False,True,,Green Bad Pass Turnover (P1.T1),13-38,13,38
+0021900825,2020-02-20,GSW,HOU,10.6,1,1,24,HOU,GSW,steal,1,False,True,steal,steal,13-38,13,38
+0021900825,2020-02-20,GSW,HOU,10.75,1,1,15,GSW,GSW,fg_make,41,False,False,Bowman 2' Running Layup (2 PTS) (Toscano-Anderson 2 AST),,15-38,15,38
+0021900825,2020-02-20,GSW,HOU,11.03,1,0,58,HOU,HOU,fg3_miss,1,False,False,,MISS Sefolosha 27' 3PT Jump Shot,15-38,15,38
+0021900825,2020-02-20,GSW,HOU,11.07,1,0,56,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:1),,15-38,15,38
+0021900825,2020-02-20,GSW,HOU,11.18,1,0,49,GSW,GSW,tov,1,False,True,Looney Bad Pass Turnover (P1.T8),,15-38,15,38
+0021900825,2020-02-20,GSW,HOU,11.18,1,0,49,GSW,HOU,steal,1,False,True,steal,steal,15-38,15,38
+0021900825,2020-02-20,GSW,HOU,11.33,1,0,40,HOU,HOU,fg_miss,6,False,False,,MISS Westbrook 5' Driving Layup,15-38,15,38
+0021900825,2020-02-20,GSW,HOU,11.37,1,0,38,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:2),,15-38,15,38
+0021900825,2020-02-20,GSW,HOU,11.48,1,0,31,GSW,GSW,fg_make,9,False,False,Toscano-Anderson 2' Driving Dunk (2 PTS),,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,11.57,1,0,26,HOU,HOU,fg_miss,74,True,False,,MISS Westbrook 3' Running Reverse Layup,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,11.57,1,0,26,HOU,GSW,block,74,True,False,block,block,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,11.58,1,0,25,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,11.68,1,0,19,HOU,HOU,fg_miss,1,False,False,,MISS Westbrook 14' Jump Shot,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,11.72,1,0,17,GSW,GSW,reb,0,False,False,Smailagic REBOUND (Off:0 Def:1),,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,11.93,1,0,4,GSW,GSW,tov,45,False,False,Smailagic Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,12.0,1,0,0,GSW,,period_end,0,False,False,,,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,12.0,2,12,0,GSW,,period_start,0,False,False,,,17-38,17,38
+0021900825,2020-02-20,GSW,HOU,12.2,2,11,48,HOU,HOU,tov,40,False,False,,Rivers Out of Bounds Lost Ball Turnover (P1.T2),17-38,17,38
+0021900825,2020-02-20,GSW,HOU,12.42,2,11,35,GSW,GSW,fg_make,6,False,False,Wiggins 2' Driving Layup (4 PTS) (Smailagic 1 AST),,19-38,19,38
+0021900825,2020-02-20,GSW,HOU,12.58,2,11,25,HOU,HOU,fg3_make,79,False,False,,Tucker 3PT Pullup Jump Shot (6 PTS) (Westbrook 3 AST),19-41,19,41
+0021900825,2020-02-20,GSW,HOU,12.97,2,11,2,GSW,GSW,fg3_miss,1,False,False,MISS Bowman 27' 3PT Jump Shot,,19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.02,2,10,59,GSW,GSW,reb,0,False,False,Smailagic REBOUND (Off:1 Def:1),,19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.12,2,10,53,GSW,GSW,tov,1,False,True,Bowman Bad Pass Turnover (P1.T10),,19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.12,2,10,53,GSW,HOU,steal,1,False,True,steal,steal,19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.22,2,10,47,HOU,HOU,fg3_miss,103,False,False,,MISS Rivers 26' 3PT Running Pull-Up Jump Shot,19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.25,2,10,45,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:2),,19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.37,2,10,38,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 27' 3PT Jump Shot,,19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.42,2,10,35,HOU,HOU,reb,0,False,False,,Rivers REBOUND (Off:0 Def:3),19-41,19,41
+0021900825,2020-02-20,GSW,HOU,13.65,2,10,21,HOU,HOU,fg3_make,1,False,False,,Tucker 3PT Jump Shot (9 PTS) (McLemore 1 AST),19-44,19,44
+0021900825,2020-02-20,GSW,HOU,13.85,2,10,9,GSW,GSW,tov,4,False,False,Paschall Traveling Turnover (P3.T11),,19-44,19,44
+0021900825,2020-02-20,GSW,HOU,14.0,2,10,0,HOU,HOU,fg_make,79,False,False,,Westbrook 19' Pullup Jump Shot (11 PTS),19-46,19,46
+0021900825,2020-02-20,GSW,HOU,14.43,2,9,34,GSW,GSW,fg_make,6,False,False,Smailagic 3' Driving Layup (2 PTS),,21-46,21,46
+0021900825,2020-02-20,GSW,HOU,14.43,2,9,34,GSW,HOU,foul,2,False,False,,Westbrook S.FOUL (P1.T1) (N.Buchert),21-46,21,46
+0021900825,2020-02-20,GSW,HOU,14.43,2,9,34,GSW,GSW,ft_make,10,False,False,Smailagic Free Throw 1 of 1 (3 PTS),,22-46,22,46
+0021900825,2020-02-20,GSW,HOU,14.75,2,9,15,HOU,HOU,fg_miss,1,False,False,,MISS Sefolosha 18' Jump Shot,22-46,22,46
+0021900825,2020-02-20,GSW,HOU,14.78,2,9,13,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:1 Def:2),,22-46,22,46
+0021900825,2020-02-20,GSW,HOU,15.12,2,8,53,GSW,GSW,fg_make,86,False,False,Poole 12' Turnaround Fadeaway (2 PTS),,24-46,24,46
+0021900825,2020-02-20,GSW,HOU,15.32,2,8,41,HOU,HOU,fg_make,103,False,False,,Westbrook 14' Running Pull-Up Jump Shot (13 PTS),24-48,24,48
+0021900825,2020-02-20,GSW,HOU,15.43,2,8,34,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 2 Short 0),,24-48,24,48
+0021900825,2020-02-20,GSW,HOU,15.58,2,8,25,GSW,GSW,fg_make,9,False,False,Paschall 2' Driving Dunk (4 PTS),,26-48,26,48
+0021900825,2020-02-20,GSW,HOU,15.58,2,8,25,GSW,HOU,foul,2,False,False,,Harden S.FOUL (P2.T2) (N.Buchert),26-48,26,48
+0021900825,2020-02-20,GSW,HOU,15.58,2,8,25,GSW,GSW,ft_make,10,False,False,Paschall Free Throw 1 of 1 (5 PTS),,27-48,27,48
+0021900825,2020-02-20,GSW,HOU,15.97,2,8,2,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 31' 3PT Jump Shot,27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.0,2,8,0,HOU,HOU,reb,0,False,False,,Carroll REBOUND (Off:1 Def:0),27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.05,2,7,57,HOU,HOU,tov,2,False,True,,Carroll Lost Ball Turnover (P1.T3),27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.05,2,7,57,HOU,GSW,steal,2,False,True,steal,steal,27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.17,2,7,50,GSW,GSW,fg3_miss,103,False,False,MISS Lee 28' 3PT Running Pull-Up Jump Shot,,27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.2,2,7,48,HOU,HOU,reb,0,False,False,,Covington REBOUND (Off:0 Def:2),27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.33,2,7,40,HOU,HOU,fg3_miss,1,False,False,,MISS Covington 27' 3PT Jump Shot,27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.37,2,7,38,HOU,HOU,reb,0,False,False,,Carroll REBOUND (Off:2 Def:0),27-48,27,48
+0021900825,2020-02-20,GSW,HOU,16.57,2,7,26,HOU,HOU,fg3_make,1,False,False,,House Jr. 27' 3PT Jump Shot (3 PTS) (Carroll 1 AST),27-51,27,51
+0021900825,2020-02-20,GSW,HOU,16.97,2,7,2,GSW,GSW,fg_make,6,False,False,Lee 6' Driving Layup (3 PTS) (Paschall 1 AST),,29-51,29,51
+0021900825,2020-02-20,GSW,HOU,17.15,2,6,51,HOU,HOU,fg3_make,79,False,False,,Tucker 24' 3PT Pullup Jump Shot (12 PTS) (Harden 6 AST),29-54,29,54
+0021900825,2020-02-20,GSW,HOU,17.37,2,6,38,HOU,GSW,foul,4,False,False,Looney OFF.Foul (P1) (J.Goble),,29-54,29,54
+0021900825,2020-02-20,GSW,HOU,17.37,2,6,38,GSW,GSW,tov,37,False,False,Looney Offensive Foul Turnover (P2.T12),,29-54,29,54
+0021900825,2020-02-20,GSW,HOU,17.55,2,6,27,HOU,HOU,fg3_make,1,False,False,,House Jr. 27' 3PT Jump Shot (6 PTS) (Covington 1 AST),29-57,29,57
+0021900825,2020-02-20,GSW,HOU,17.95,2,6,3,GSW,GSW,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,29-57,29,57
+0021900825,2020-02-20,GSW,HOU,17.98,2,6,1,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:1 Def:2),,29-57,29,57
+0021900825,2020-02-20,GSW,HOU,18.1,2,5,54,GSW,GSW,fg3_make,1,False,False,Poole 28' 3PT Jump Shot (5 PTS) (Lee 1 AST),,32-57,32,57
+0021900825,2020-02-20,GSW,HOU,18.33,2,5,40,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 28' 3PT Jump Shot,32-57,32,57
+0021900825,2020-02-20,GSW,HOU,18.37,2,5,38,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:1),,32-57,32,57
+0021900825,2020-02-20,GSW,HOU,18.48,2,5,31,GSW,GSW,fg_make,5,False,False,Poole 2' Layup (7 PTS),,34-57,34,57
+0021900825,2020-02-20,GSW,HOU,18.73,2,5,16,HOU,HOU,fg3_make,1,False,False,,Tucker 3PT Jump Shot (15 PTS) (Carroll 2 AST),34-60,34,60
+0021900825,2020-02-20,GSW,HOU,19.08,2,4,55,GSW,GSW,fg_miss,58,False,False,MISS Looney 9' Turnaround Hook Shot,,34-60,34,60
+0021900825,2020-02-20,GSW,HOU,19.08,2,4,55,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,34-60,34,60
+0021900825,2020-02-20,GSW,HOU,19.13,2,4,52,GSW,GSW,fg3_miss,1,False,False,MISS Poole 31' 3PT Jump Shot,,34-60,34,60
+0021900825,2020-02-20,GSW,HOU,19.17,2,4,50,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:0 Def:1),34-60,34,60
+0021900825,2020-02-20,GSW,HOU,19.55,2,4,27,HOU,HOU,tov,1,False,True,,Harden Bad Pass Turnover (P1.T4),34-60,34,60
+0021900825,2020-02-20,GSW,HOU,19.55,2,4,27,HOU,GSW,steal,1,False,True,steal,steal,34-60,34,60
+0021900825,2020-02-20,GSW,HOU,19.62,2,4,23,GSW,GSW,fg_make,5,False,False,Lee 3' Layup (5 PTS),,36-60,36,60
+0021900825,2020-02-20,GSW,HOU,19.73,2,4,16,HOU,HOU,tov,40,False,False,,Westbrook Out of Bounds Lost Ball Turnover (P1.T5),36-60,36,60
+0021900825,2020-02-20,GSW,HOU,19.87,2,4,8,GSW,GSW,fg_miss,1,True,False,MISS Chriss 8' Jump Shot,,36-60,36,60
+0021900825,2020-02-20,GSW,HOU,19.87,2,4,8,GSW,HOU,block,1,True,False,block,block,36-60,36,60
+0021900825,2020-02-20,GSW,HOU,19.88,2,4,7,HOU,HOU,reb,0,False,False,,Rockets Rebound,36-60,36,60
+0021900825,2020-02-20,GSW,HOU,20.18,2,3,49,HOU,HOU,fg3_miss,1,False,False,,MISS Westbrook 26' 3PT Jump Shot,36-60,36,60
+0021900825,2020-02-20,GSW,HOU,20.22,2,3,47,GSW,GSW,reb,0,False,False,Chriss REBOUND (Off:0 Def:2),,36-60,36,60
+0021900825,2020-02-20,GSW,HOU,20.25,2,3,45,GSW,GSW,fg_make,5,False,False,Wiggins 5' Layup (6 PTS) (Green 3 AST),,38-60,38,60
+0021900825,2020-02-20,GSW,HOU,20.72,2,3,17,HOU,HOU,fg_miss,44,False,False,,MISS House Jr. 3' Reverse Layup,38-60,38,60
+0021900825,2020-02-20,GSW,HOU,20.73,2,3,16,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:1 Def:3),,38-60,38,60
+0021900825,2020-02-20,GSW,HOU,20.83,2,3,10,GSW,GSW,fg_make,41,False,False,Chriss 3' Running Layup (6 PTS) (Lee 2 AST),,40-60,40,60
+0021900825,2020-02-20,GSW,HOU,20.85,2,3,9,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.2 Short 0),40-60,40,60
+0021900825,2020-02-20,GSW,HOU,21.03,2,2,58,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 29' 3PT Jump Shot,40-60,40,60
+0021900825,2020-02-20,GSW,HOU,21.07,2,2,56,GSW,GSW,reb,0,False,False,Chriss REBOUND (Off:0 Def:3),,40-60,40,60
+0021900825,2020-02-20,GSW,HOU,21.17,2,2,50,GSW,GSW,fg_make,1,False,False,Wiggins 19' Jump Shot (8 PTS) (Green 4 AST),,42-60,42,60
+0021900825,2020-02-20,GSW,HOU,21.45,2,2,33,HOU,GSW,foul,2,False,False,Poole S.FOUL (P1.T1) (J.Goble),,42-60,42,60
+0021900825,2020-02-20,GSW,HOU,21.45,2,2,33,HOU,HOU,ft_make,13,False,False,,Harden Free Throw 1 of 3 (12 PTS),42-61,42,61
+0021900825,2020-02-20,GSW,HOU,21.45,2,2,33,HOU,HOU,ft_make,14,False,False,,Harden Free Throw 2 of 3 (13 PTS),42-62,42,62
+0021900825,2020-02-20,GSW,HOU,21.45,2,2,33,HOU,HOU,ft_make,15,False,False,,Harden Free Throw 3 of 3 (14 PTS),42-63,42,63
+0021900825,2020-02-20,GSW,HOU,21.77,2,2,14,GSW,GSW,fg_make,75,False,False,Wiggins 4' Driving Finger Roll Layup (10 PTS) (Chriss 1 AST),,44-63,44,63
+0021900825,2020-02-20,GSW,HOU,22.03,2,1,58,HOU,HOU,fg3_make,79,False,False,,McLemore 28' 3PT Pullup Jump Shot (6 PTS) (Westbrook 4 AST),44-66,44,66
+0021900825,2020-02-20,GSW,HOU,22.2,2,1,48,GSW,HOU,foul,2,False,False,,Tucker S.FOUL (P1.T3) (J.Goble),44-66,44,66
+0021900825,2020-02-20,GSW,HOU,22.2,2,1,48,GSW,GSW,ft_make,11,False,False,Chriss Free Throw 1 of 2 (7 PTS),,45-66,45,66
+0021900825,2020-02-20,GSW,HOU,22.2,2,1,48,GSW,GSW,ft_make,12,False,False,Chriss Free Throw 2 of 2 (8 PTS),,46-66,46,66
+0021900825,2020-02-20,GSW,HOU,22.5,2,1,30,HOU,HOU,fg_make,6,False,False,,Harden 5' Driving Layup (16 PTS),46-68,46,68
+0021900825,2020-02-20,GSW,HOU,22.82,2,1,11,GSW,GSW,tov,45,False,False,Chriss Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,46-68,46,68
+0021900825,2020-02-20,GSW,HOU,23.22,2,0,47,HOU,HOU,fg_make,1,False,False,,Westbrook 11' Jump Shot (15 PTS) (Harden 7 AST),46-70,46,70
+0021900825,2020-02-20,GSW,HOU,23.32,2,0,41,GSW,GSW,fg_make,103,False,False,Green 18' Running Pull-Up Jump Shot (4 PTS),,48-70,48,70
+0021900825,2020-02-20,GSW,HOU,23.4,2,0,36,HOU,HOU,fg_make,41,False,False,,Westbrook 1' Running Layup (17 PTS) (Harden 8 AST),48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.53,2,0,28,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 28' 3PT Jump Shot,,48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.57,2,0,26,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:2 Def:2),,48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.62,2,0,23,GSW,GSW,fg3_miss,1,False,False,MISS Lee 28' 3PT Jump Shot,,48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.65,2,0,21,GSW,GSW,reb,0,False,False,Chriss REBOUND (Off:1 Def:3),,48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.72,2,0,17,GSW,GSW,fg_miss,5,True,False,MISS Chriss 3' Layup,,48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.72,2,0,17,GSW,HOU,block,5,True,False,block,block,48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.75,2,0,15,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:3 Def:2),,48-72,48,72
+0021900825,2020-02-20,GSW,HOU,23.77,2,0,14,GSW,GSW,fg_make,71,False,False,Lee 5' Finger Roll Layup (7 PTS) (Paschall 2 AST),,50-72,50,72
+0021900825,2020-02-20,GSW,HOU,23.95,2,0,3,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 28' 3PT Jump Shot,50-72,50,72
+0021900825,2020-02-20,GSW,HOU,23.98,2,0,1,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:2),50-72,50,72
+0021900825,2020-02-20,GSW,HOU,24.0,2,0,0,HOU,HOU,tov,39,False,False,,Tucker Step Out of Bounds Turnover (P1.T6),50-72,50,72
+0021900825,2020-02-20,GSW,HOU,24.0,2,0,0,HOU,,period_end,0,False,False,,,50-72,50,72
+0021900825,2020-02-20,GSW,HOU,24.0,3,12,0,HOU,,period_start,0,False,False,,,50-72,50,72
+0021900825,2020-02-20,GSW,HOU,24.35,3,11,39,HOU,HOU,fg3_miss,1,True,False,,MISS Covington 29' 3PT Jump Shot,50-72,50,72
+0021900825,2020-02-20,GSW,HOU,24.35,3,11,39,HOU,GSW,block,1,True,False,block,block,50-72,50,72
+0021900825,2020-02-20,GSW,HOU,24.38,3,11,37,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:3),,50-72,50,72
+0021900825,2020-02-20,GSW,HOU,24.43,3,11,34,GSW,GSW,fg_make,7,False,False,Wiggins 2' Dunk (12 PTS) (Green 5 AST),,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,24.67,3,11,20,HOU,HOU,fg_miss,5,True,False,,MISS Westbrook 3' Layup,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,24.67,3,11,20,HOU,GSW,block,5,True,False,block,block,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,24.7,3,11,18,GSW,GSW,reb,0,False,False,Chriss REBOUND (Off:1 Def:4),,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,24.85,3,11,9,GSW,GSW,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,24.9,3,11,6,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:2),52-72,52,72
+0021900825,2020-02-20,GSW,HOU,24.9,3,11,6,HOU,HOU,fg3_miss,1,False,False,,MISS Covington 30' 3PT Jump Shot,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,25.28,3,10,43,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:1),,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,25.63,3,10,22,GSW,GSW,fg3_miss,1,False,False,MISS Poole 26' 3PT Jump Shot,,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,25.68,3,10,19,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:3),52-72,52,72
+0021900825,2020-02-20,GSW,HOU,25.83,3,10,10,HOU,HOU,fg_miss,101,False,False,,MISS Tucker 11' Driving Floating Jump Shot,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,25.83,3,10,10,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,52-72,52,72
+0021900825,2020-02-20,GSW,HOU,25.83,3,10,10,GSW,HOU,foul,3,False,False,,Westbrook L.B.FOUL (P2.T1) (N.Buchert),52-72,52,72
+0021900825,2020-02-20,GSW,HOU,26.0,3,10,0,GSW,GSW,fg3_make,79,False,False,Wiggins 26' 3PT Pullup Jump Shot (15 PTS) (Poole 2 AST),,55-72,55,72
+0021900825,2020-02-20,GSW,HOU,26.32,3,9,41,HOU,GSW,foul,1,False,False,Green P.FOUL (P1.T1) (J.DeRosa),,55-72,55,72
+0021900825,2020-02-20,GSW,HOU,26.43,3,9,34,HOU,HOU,fg3_make,1,False,False,,House Jr. 24' 3PT Jump Shot (9 PTS) (Westbrook 5 AST),55-75,55,75
+0021900825,2020-02-20,GSW,HOU,26.45,3,9,33,GSW,HOU,foul,11,False,False,,House Jr. T.FOUL (P1.T1) (N.Buchert),55-75,55,75
+0021900825,2020-02-20,GSW,HOU,26.45,3,9,33,GSW,GSW,ft_make,16,False,False,Poole Free Throw Technical (8 PTS),,56-75,56,75
+0021900825,2020-02-20,GSW,HOU,26.75,3,9,15,GSW,GSW,fg_miss,5,True,False,MISS Chriss 3' Layup,,56-75,56,75
+0021900825,2020-02-20,GSW,HOU,26.75,3,9,15,GSW,HOU,block,5,True,False,block,block,56-75,56,75
+0021900825,2020-02-20,GSW,HOU,26.78,3,9,13,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:4),56-75,56,75
+0021900825,2020-02-20,GSW,HOU,27.12,3,8,53,HOU,HOU,fg3_make,1,False,False,,Covington 31' 3PT Jump Shot (12 PTS) (Harden 9 AST),56-78,56,78
+0021900825,2020-02-20,GSW,HOU,27.52,3,8,29,GSW,GSW,fg3_make,63,False,False,Poole 26' 3PT Fadeaway Jumper (11 PTS) (Chriss 2 AST),,59-78,59,78
+0021900825,2020-02-20,GSW,HOU,27.77,3,8,14,HOU,HOU,fg_make,6,False,False,,Harden 3' Driving Layup (18 PTS) (Westbrook 6 AST),59-80,59,80
+0021900825,2020-02-20,GSW,HOU,27.77,3,8,14,HOU,GSW,foul,2,False,False,Wiggins S.FOUL (P1.T2) (J.DeRosa),,59-80,59,80
+0021900825,2020-02-20,GSW,HOU,27.77,3,8,14,HOU,HOU,ft_make,10,False,False,,Harden Free Throw 1 of 1 (19 PTS),59-81,59,81
+0021900825,2020-02-20,GSW,HOU,27.92,3,8,5,GSW,GSW,fg_miss,6,True,False,MISS Wiggins 2' Driving Layup,,59-81,59,81
+0021900825,2020-02-20,GSW,HOU,27.92,3,8,5,GSW,HOU,block,6,True,False,block,block,59-81,59,81
+0021900825,2020-02-20,GSW,HOU,27.93,3,8,4,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:3),59-81,59,81
+0021900825,2020-02-20,GSW,HOU,27.98,3,8,1,HOU,HOU,fg_make,50,False,False,,House Jr. 2' Running Dunk (11 PTS) (Westbrook 7 AST),59-83,59,83
+0021900825,2020-02-20,GSW,HOU,28.27,3,7,44,GSW,GSW,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,59-83,59,83
+0021900825,2020-02-20,GSW,HOU,28.3,3,7,42,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:0 Def:2),59-83,59,83
+0021900825,2020-02-20,GSW,HOU,28.48,3,7,31,HOU,HOU,fg3_miss,1,False,False,,MISS Covington 29' 3PT Jump Shot,59-83,59,83
+0021900825,2020-02-20,GSW,HOU,28.53,3,7,28,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:4),,59-83,59,83
+0021900825,2020-02-20,GSW,HOU,28.58,3,7,25,GSW,GSW,fg_make,7,False,False,Chriss 1' Dunk (10 PTS) (Green 6 AST),,61-83,61,83
+0021900825,2020-02-20,GSW,HOU,28.98,3,7,1,HOU,HOU,fg_make,75,False,False,,Westbrook 4' Driving Finger Roll Layup (19 PTS),61-85,61,85
+0021900825,2020-02-20,GSW,HOU,29.2,3,6,48,GSW,GSW,fg3_make,1,False,False,Lee 3PT Jump Shot (10 PTS) (Green 7 AST),,64-85,64,85
+0021900825,2020-02-20,GSW,HOU,29.53,3,6,28,HOU,GSW,foul,2,False,False,Lee S.FOUL (P3.T3) (J.DeRosa),,64-85,64,85
+0021900825,2020-02-20,GSW,HOU,29.53,3,6,28,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,64-85,64,85
+0021900825,2020-02-20,GSW,HOU,29.53,3,6,28,HOU,HOU,ft_make,13,False,False,,Harden Free Throw 1 of 3 (20 PTS),64-86,64,86
+0021900825,2020-02-20,GSW,HOU,29.53,3,6,28,HOU,HOU,ft_make,14,False,False,,Harden Free Throw 2 of 3 (21 PTS),64-87,64,87
+0021900825,2020-02-20,GSW,HOU,29.53,3,6,28,HOU,HOU,ft_make,15,False,False,,Harden Free Throw 3 of 3 (22 PTS),64-88,64,88
+0021900825,2020-02-20,GSW,HOU,29.7,3,6,18,GSW,HOU,foul,1,False,False,,Covington P.FOUL (P1.T2) (J.Goble),64-88,64,88
+0021900825,2020-02-20,GSW,HOU,29.8,3,6,12,GSW,GSW,tov,1,False,True,Paschall Bad Pass Turnover (P4.T14),,64-88,64,88
+0021900825,2020-02-20,GSW,HOU,29.8,3,6,12,GSW,HOU,steal,1,False,True,steal,steal,64-88,64,88
+0021900825,2020-02-20,GSW,HOU,29.87,3,6,8,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 29' 3PT Jump Shot,64-88,64,88
+0021900825,2020-02-20,GSW,HOU,29.88,3,6,7,HOU,HOU,reb,0,False,False,,Covington REBOUND (Off:1 Def:2),64-88,64,88
+0021900825,2020-02-20,GSW,HOU,29.88,3,6,7,HOU,HOU,fg_make,87,False,False,,Covington 1' Putback Dunk (14 PTS),64-90,64,90
+0021900825,2020-02-20,GSW,HOU,30.2,3,5,48,GSW,GSW,tov,21,False,False,Paschall Palming Turnover (P5.T15),,64-90,64,90
+0021900825,2020-02-20,GSW,HOU,30.4,3,5,36,HOU,HOU,fg3_make,1,False,False,,Covington 25' 3PT Jump Shot (17 PTS) (Westbrook 8 AST),64-93,64,93
+0021900825,2020-02-20,GSW,HOU,30.53,3,5,28,GSW,GSW,fg3_miss,1,False,False,MISS Lee 3PT Jump Shot,,64-93,64,93
+0021900825,2020-02-20,GSW,HOU,30.63,3,5,22,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:4 Def:2),,64-93,64,93
+0021900825,2020-02-20,GSW,HOU,30.63,3,5,22,GSW,GSW,fg_make,97,False,False,Paschall 1' Tip Layup Shot (7 PTS),,66-93,66,93
+0021900825,2020-02-20,GSW,HOU,30.8,3,5,12,HOU,HOU,fg_miss,63,False,False,,MISS Westbrook 11' Fadeaway Jumper,66-93,66,93
+0021900825,2020-02-20,GSW,HOU,30.85,3,5,9,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,66-93,66,93
+0021900825,2020-02-20,GSW,HOU,30.92,3,5,5,GSW,GSW,fg_miss,6,True,False,MISS Lee 4' Driving Layup,,66-93,66,93
+0021900825,2020-02-20,GSW,HOU,30.92,3,5,5,GSW,HOU,block,6,True,False,block,block,66-93,66,93
+0021900825,2020-02-20,GSW,HOU,30.93,3,5,4,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,66-93,66,93
+0021900825,2020-02-20,GSW,HOU,31.03,3,4,58,GSW,GSW,fg_miss,1,False,False,MISS Paschall 20' Jump Shot,,66-93,66,93
+0021900825,2020-02-20,GSW,HOU,31.07,3,4,56,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:0 Def:1),66-93,66,93
+0021900825,2020-02-20,GSW,HOU,31.23,3,4,46,HOU,HOU,fg3_make,1,False,False,,Covington 24' 3PT Jump Shot (20 PTS) (Harden 10 AST),66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.52,3,4,29,GSW,GSW,fg3_miss,1,False,False,MISS Looney 3PT Jump Shot,,66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.6,3,4,24,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:0 Def:3),66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.67,3,4,20,HOU,HOU,tov,2,False,True,,Green Lost Ball Turnover (P2.T7),66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.67,3,4,20,HOU,GSW,steal,2,False,True,steal,steal,66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.7,3,4,18,GSW,HOU,foul,1,False,False,,Harden P.FOUL (P3.T3) (J.DeRosa),66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.85,3,4,9,GSW,GSW,fg_miss,80,False,False,MISS Bowman 17' Step Back Jump Shot,,66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.88,3,4,7,HOU,HOU,reb,0,False,False,,Covington REBOUND (Off:1 Def:3),66-96,66,96
+0021900825,2020-02-20,GSW,HOU,31.88,3,4,7,HOU,GSW,foul,1,False,False,Lee P.FOUL (P4.T4) (J.DeRosa),,66-96,66,96
+0021900825,2020-02-20,GSW,HOU,32.02,3,3,59,HOU,GSW,foul,2,False,False,Poole S.FOUL (P2.PN) (J.DeRosa),,66-96,66,96
+0021900825,2020-02-20,GSW,HOU,32.02,3,3,59,HOU,HOU,ft_make,11,False,False,,Harden Free Throw 1 of 2 (23 PTS),66-97,66,97
+0021900825,2020-02-20,GSW,HOU,32.02,3,3,59,HOU,HOU,ft_make,12,False,False,,Harden Free Throw 2 of 2 (24 PTS),66-98,66,98
+0021900825,2020-02-20,GSW,HOU,32.42,3,3,35,GSW,GSW,fg_make,101,False,False,Bowman 11' Driving Floating Jump Shot (4 PTS) (Toscano-Anderson 3 AST),,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.42,3,3,35,GSW,HOU,foul,2,False,False,,Green S.FOUL (P1.T4) (N.Buchert),68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.42,3,3,35,GSW,GSW,ft_miss,10,False,False,MISS Bowman Free Throw 1 of 1,,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.45,3,3,33,HOU,HOU,reb,0,False,False,,Covington REBOUND (Off:1 Def:4),68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.7,3,3,18,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 30' 3PT Jump Shot,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.77,3,3,14,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:3),,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.92,3,3,5,GSW,GSW,tov,1,False,True,Bowman Bad Pass Turnover (P2.T16),,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.92,3,3,5,GSW,HOU,steal,1,False,True,steal,steal,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,32.93,3,3,4,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.3 Short 0),68-98,68,98
+0021900825,2020-02-20,GSW,HOU,33.2,3,2,48,HOU,GSW,foul,2,False,False,Toscano-Anderson S.FOUL (P2.PN) (J.DeRosa),,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,33.2,3,2,48,HOU,HOU,ft_miss,11,False,False,,MISS Green Free Throw 1 of 2,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,33.2,3,2,48,HOU,HOU,reb,1,False,False,,Rockets Rebound,68-98,68,98
+0021900825,2020-02-20,GSW,HOU,33.2,3,2,48,HOU,HOU,ft_make,12,False,False,,Green Free Throw 2 of 2 (4 PTS),68-99,68,99
+0021900825,2020-02-20,GSW,HOU,33.45,3,2,33,GSW,GSW,fg_make,105,False,False,Poole 13' Turnaround Fadeaway Bank Jump Shot (13 PTS),,70-99,70,99
+0021900825,2020-02-20,GSW,HOU,33.7,3,2,18,HOU,HOU,fg3_miss,1,False,False,,MISS Sefolosha 25' 3PT Jump Shot,70-99,70,99
+0021900825,2020-02-20,GSW,HOU,33.75,3,2,15,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:4),,70-99,70,99
+0021900825,2020-02-20,GSW,HOU,33.95,3,2,3,GSW,GSW,fg_make,73,False,False,Toscano-Anderson 3' Driving Reverse Layup (4 PTS),,72-99,72,99
+0021900825,2020-02-20,GSW,HOU,34.18,3,1,49,HOU,HOU,fg_make,6,False,False,,Harden 2' Driving Layup (26 PTS),72-101,72,101
+0021900825,2020-02-20,GSW,HOU,34.48,3,1,31,GSW,GSW,tov,1,False,True,Toscano-Anderson Bad Pass Turnover (P1.T17),,72-101,72,101
+0021900825,2020-02-20,GSW,HOU,34.48,3,1,31,GSW,HOU,steal,1,False,True,steal,steal,72-101,72,101
+0021900825,2020-02-20,GSW,HOU,34.57,3,1,26,HOU,HOU,fg3_make,2,False,False,,Harden 30' 3PT Running Jump Shot (29 PTS),72-104,72,104
+0021900825,2020-02-20,GSW,HOU,34.78,3,1,13,GSW,GSW,tov,2,False,True,Poole Lost Ball Turnover (P2.T18),,72-104,72,104
+0021900825,2020-02-20,GSW,HOU,34.78,3,1,13,GSW,HOU,steal,2,False,True,steal,steal,72-104,72,104
+0021900825,2020-02-20,GSW,HOU,34.82,3,1,11,HOU,GSW,foul,28,False,False,Poole Personal Take Foul (P3.PN) (N.Buchert),,72-104,72,104
+0021900825,2020-02-20,GSW,HOU,34.82,3,1,11,HOU,HOU,ft_make,11,False,False,,Sefolosha Free Throw 1 of 2 (1 PTS),72-105,72,105
+0021900825,2020-02-20,GSW,HOU,34.82,3,1,11,HOU,HOU,ft_make,12,False,False,,Sefolosha Free Throw 2 of 2 (2 PTS),72-106,72,106
+0021900825,2020-02-20,GSW,HOU,35.0,3,1,0,GSW,GSW,fg_make,79,False,False,Wiggins 21' Pullup Jump Shot (17 PTS) (Smailagic 2 AST),,74-106,74,106
+0021900825,2020-02-20,GSW,HOU,35.18,3,0,49,HOU,HOU,fg_miss,5,True,False,,MISS Sefolosha 5' Layup,74-106,74,106
+0021900825,2020-02-20,GSW,HOU,35.18,3,0,49,HOU,GSW,block,5,True,False,block,block,74-106,74,106
+0021900825,2020-02-20,GSW,HOU,35.22,3,0,47,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:1 Def:1),74-106,74,106
+0021900825,2020-02-20,GSW,HOU,35.23,3,0,46,HOU,HOU,fg3_make,1,False,False,,McLemore 25' 3PT Jump Shot (9 PTS),74-109,74,109
+0021900825,2020-02-20,GSW,HOU,35.33,3,0,40,GSW,GSW,tov,1,False,True,Bowman Bad Pass Turnover (P3.T19),,74-109,74,109
+0021900825,2020-02-20,GSW,HOU,35.33,3,0,40,GSW,HOU,steal,1,False,True,steal,steal,74-109,74,109
+0021900825,2020-02-20,GSW,HOU,35.45,3,0,33,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 28' 3PT Jump Shot,74-109,74,109
+0021900825,2020-02-20,GSW,HOU,35.48,3,0,31,GSW,GSW,reb,0,False,False,Bowman REBOUND (Off:0 Def:1),,74-109,74,109
+0021900825,2020-02-20,GSW,HOU,35.62,3,0,23,GSW,GSW,fg3_make,1,False,False,Wiggins 3PT Jump Shot (20 PTS) (Toscano-Anderson 4 AST),,77-109,77,109
+0021900825,2020-02-20,GSW,HOU,35.97,3,0,2,HOU,HOU,fg3_miss,80,False,False,,MISS Harden 28' 3PT Step Back Jump Shot,77-109,77,109
+0021900825,2020-02-20,GSW,HOU,36.0,3,0,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,77-109,77,109
+0021900825,2020-02-20,GSW,HOU,36.0,3,0,0,HOU,,period_end,0,False,False,,,77-109,77,109
+0021900825,2020-02-20,GSW,HOU,36.0,4,12,0,HOU,,period_start,0,False,False,,,77-109,77,109
+0021900825,2020-02-20,GSW,HOU,36.23,4,11,46,GSW,GSW,fg3_miss,1,False,False,MISS Smailagic 3PT Jump Shot,,77-109,77,109
+0021900825,2020-02-20,GSW,HOU,36.3,4,11,42,HOU,HOU,reb,0,False,False,,Green REBOUND (Off:0 Def:1),77-109,77,109
+0021900825,2020-02-20,GSW,HOU,36.5,4,11,30,HOU,HOU,fg_make,52,False,False,,Green 1' Alley Oop Dunk (6 PTS) (Westbrook 9 AST),77-111,77,111
+0021900825,2020-02-20,GSW,HOU,36.92,4,11,5,GSW,GSW,fg_make,6,False,False,Paschall 3' Driving Layup (9 PTS),,79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.13,4,10,52,HOU,HOU,fg_miss,5,True,False,,MISS Westbrook 4' Layup,79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.13,4,10,52,HOU,GSW,block,5,True,False,block,block,79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.15,4,10,51,HOU,HOU,reb,0,False,False,,Green REBOUND (Off:1 Def:1),79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.33,4,10,40,HOU,HOU,tov,39,False,False,,Westbrook Step Out of Bounds Turnover (P2.T8),79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.45,4,10,33,GSW,HOU,foul,1,False,False,,Westbrook P.FOUL (P3.T1) (N.Buchert),79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.57,4,10,26,GSW,GSW,fg_miss,79,False,False,MISS Wiggins 19' Pullup Jump Shot,,79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.67,4,10,20,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:1 Def:2),79-111,79,111
+0021900825,2020-02-20,GSW,HOU,37.75,4,10,15,HOU,HOU,fg_make,5,False,False,,Rivers 4' Layup (2 PTS),79-113,79,113
+0021900825,2020-02-20,GSW,HOU,37.98,4,10,1,GSW,GSW,fg3_make,79,False,False,Paschall 25' 3PT Pullup Jump Shot (12 PTS) (Bowman 1 AST),,82-113,82,113
+0021900825,2020-02-20,GSW,HOU,38.28,4,9,43,HOU,HOU,fg3_make,1,False,False,,Green 3PT Jump Shot (9 PTS) (Westbrook 10 AST),82-116,82,116
+0021900825,2020-02-20,GSW,HOU,38.63,4,9,22,GSW,GSW,fg_miss,5,False,False,MISS Wiggins 7' Layup,,82-116,82,116
+0021900825,2020-02-20,GSW,HOU,38.65,4,9,21,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:1 Def:1),,82-116,82,116
+0021900825,2020-02-20,GSW,HOU,38.67,4,9,20,GSW,GSW,fg_miss,97,False,False,MISS Wiggins 1' Tip Layup Shot,,82-116,82,116
+0021900825,2020-02-20,GSW,HOU,38.68,4,9,19,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:2 Def:1),,82-116,82,116
+0021900825,2020-02-20,GSW,HOU,38.72,4,9,17,GSW,GSW,fg_make,72,False,False,Wiggins 1' Putback Layup (22 PTS),,84-116,84,116
+0021900825,2020-02-20,GSW,HOU,38.98,4,9,1,HOU,HOU,fg3_miss,1,False,False,,MISS McLemore 27' 3PT Jump Shot,84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.02,4,8,59,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:3),84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.17,4,8,50,HOU,HOU,fg3_miss,1,True,False,,MISS Green 27' 3PT Jump Shot,84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.17,4,8,50,HOU,GSW,block,1,True,False,block,block,84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.18,4,8,49,HOU,HOU,reb,0,False,False,,Rockets Rebound,84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.18,4,8,49,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#9),84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.37,4,8,38,GSW,GSW,fg_miss,1,False,False,MISS Paschall 3' Jump Shot,,84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.4,4,8,36,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:1 Def:4),,84-116,84,116
+0021900825,2020-02-20,GSW,HOU,39.45,4,8,33,GSW,GSW,fg_make,72,False,False,Toscano-Anderson 2' Putback Layup (6 PTS),,86-116,86,116
+0021900825,2020-02-20,GSW,HOU,39.65,4,8,21,HOU,HOU,tov,1,False,True,,Westbrook Bad Pass Turnover (P3.T10),86-116,86,116
+0021900825,2020-02-20,GSW,HOU,39.65,4,8,21,HOU,GSW,steal,1,False,True,steal,steal,86-116,86,116
+0021900825,2020-02-20,GSW,HOU,39.92,4,8,5,GSW,GSW,fg3_miss,1,False,False,MISS Lee 26' 3PT Jump Shot,,86-116,86,116
+0021900825,2020-02-20,GSW,HOU,39.97,4,8,2,HOU,HOU,reb,0,False,False,,Rockets Rebound,86-116,86,116
+0021900825,2020-02-20,GSW,HOU,40.27,4,7,44,HOU,HOU,fg_make,79,False,False,,Westbrook 18' Pullup Jump Shot (21 PTS),86-118,86,118
+0021900825,2020-02-20,GSW,HOU,40.6,4,7,24,GSW,GSW,tov,1,False,True,Lee Bad Pass Turnover (P1.T20),,86-118,86,118
+0021900825,2020-02-20,GSW,HOU,40.6,4,7,24,GSW,HOU,steal,1,False,True,steal,steal,86-118,86,118
+0021900825,2020-02-20,GSW,HOU,40.65,4,7,21,,GSW,jump_ball,0,False,False,Jump Ball Looney vs. Carroll: Tip to Lee,,86-118,86,118
+0021900825,2020-02-20,GSW,HOU,40.65,4,7,21,HOU,HOU,tov,2,False,True,,Carroll Lost Ball Turnover (P2.T11),86-118,86,118
+0021900825,2020-02-20,GSW,HOU,40.65,4,7,21,HOU,GSW,steal,2,False,True,steal,steal,86-118,86,118
+0021900825,2020-02-20,GSW,HOU,40.85,4,7,9,GSW,GSW,fg_make,73,False,False,Toscano-Anderson 2' Driving Reverse Layup (8 PTS) (Looney 2 AST),,88-118,88,118
+0021900825,2020-02-20,GSW,HOU,40.95,4,7,3,HOU,HOU,tov,2,False,True,,Westbrook Lost Ball Turnover (P4.T12),88-118,88,118
+0021900825,2020-02-20,GSW,HOU,40.95,4,7,3,HOU,GSW,steal,2,False,True,steal,steal,88-118,88,118
+0021900825,2020-02-20,GSW,HOU,41.03,4,6,58,GSW,GSW,fg3_miss,1,False,False,MISS Poole 25' 3PT Jump Shot,,88-118,88,118
+0021900825,2020-02-20,GSW,HOU,41.07,4,6,56,HOU,HOU,reb,0,False,False,,Carroll REBOUND (Off:2 Def:1),88-118,88,118
+0021900825,2020-02-20,GSW,HOU,41.4,4,6,36,HOU,HOU,fg3_make,79,False,False,,Rivers 26' 3PT Pullup Jump Shot (5 PTS) (Tucker 1 AST),88-121,88,121
+0021900825,2020-02-20,GSW,HOU,41.63,4,6,22,GSW,GSW,fg3_miss,1,False,False,MISS Poole 28' 3PT Jump Shot,,88-121,88,121
+0021900825,2020-02-20,GSW,HOU,41.67,4,6,20,HOU,HOU,reb,0,False,False,,Green REBOUND (Off:1 Def:2),88-121,88,121
+0021900825,2020-02-20,GSW,HOU,41.88,4,6,7,HOU,HOU,fg_make,73,False,False,,Rivers 3' Driving Reverse Layup (7 PTS),88-123,88,123
+0021900825,2020-02-20,GSW,HOU,41.93,4,6,4,GSW,HOU,violation,1,False,False,,Rockets Violation: Delay of game Violation,88-123,88,123
+0021900825,2020-02-20,GSW,HOU,41.93,4,6,4,GSW,HOU,foul,11,False,False,,Westbrook T.FOUL (P3.T1) (J.Goble),88-123,88,123
+0021900825,2020-02-20,GSW,HOU,41.93,4,6,4,GSW,HOU,ejection,4,False,False,,Westbrook Ejection:Other,88-123,88,123
+0021900825,2020-02-20,GSW,HOU,41.93,4,6,4,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,88-123,88,123
+0021900825,2020-02-20,GSW,HOU,41.93,4,6,4,GSW,GSW,ft_make,16,False,False,Lee Free Throw Technical (11 PTS),,89-123,89,123
+0021900825,2020-02-20,GSW,HOU,42.23,4,5,46,GSW,GSW,fg_miss,75,False,False,MISS Bowman 9' Driving Finger Roll Layup,,89-123,89,123
+0021900825,2020-02-20,GSW,HOU,42.25,4,5,45,GSW,GSW,reb,0,False,False,Bowman REBOUND (Off:1 Def:1),,89-123,89,123
+0021900825,2020-02-20,GSW,HOU,42.38,4,5,37,GSW,HOU,foul,2,False,False,,Frazier II S.FOUL (P1.T2) (J.DeRosa),89-123,89,123
+0021900825,2020-02-20,GSW,HOU,42.38,4,5,37,GSW,GSW,ft_miss,11,False,False,MISS Poole Free Throw 1 of 2,,89-123,89,123
+0021900825,2020-02-20,GSW,HOU,42.38,4,5,37,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,89-123,89,123
+0021900825,2020-02-20,GSW,HOU,42.38,4,5,37,GSW,GSW,ft_make,12,False,False,Poole Free Throw 2 of 2 (14 PTS),,90-123,90,123
+0021900825,2020-02-20,GSW,HOU,42.72,4,5,17,HOU,HOU,fg_miss,5,True,False,,MISS Rivers 7' Layup,90-123,90,123
+0021900825,2020-02-20,GSW,HOU,42.72,4,5,17,HOU,GSW,block,5,True,False,block,block,90-123,90,123
+0021900825,2020-02-20,GSW,HOU,42.75,4,5,15,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:3),,90-123,90,123
+0021900825,2020-02-20,GSW,HOU,42.82,4,5,11,GSW,HOU,foul,2,False,False,,Frazier II S.FOUL (P2.T3) (J.Goble),90-123,90,123
+0021900825,2020-02-20,GSW,HOU,42.82,4,5,11,GSW,GSW,ft_make,11,False,False,Lee Free Throw 1 of 2 (12 PTS),,91-123,91,123
+0021900825,2020-02-20,GSW,HOU,42.82,4,5,11,GSW,GSW,ft_make,12,False,False,Lee Free Throw 2 of 2 (13 PTS),,92-123,92,123
+0021900825,2020-02-20,GSW,HOU,43.03,4,4,58,HOU,HOU,fg_make,6,False,False,,Green 3' Driving Layup (11 PTS) (Rivers 2 AST),92-125,92,125
+0021900825,2020-02-20,GSW,HOU,43.18,4,4,49,GSW,GSW,fg_make,41,False,False,Bowman 4' Running Layup (6 PTS),,94-125,94,125
+0021900825,2020-02-20,GSW,HOU,43.3,4,4,42,HOU,HOU,tov,2,False,True,,Carroll Lost Ball Turnover (P3.T13),94-125,94,125
+0021900825,2020-02-20,GSW,HOU,43.3,4,4,42,HOU,GSW,steal,2,False,True,steal,steal,94-125,94,125
+0021900825,2020-02-20,GSW,HOU,43.63,4,4,22,GSW,GSW,fg3_miss,1,False,False,MISS Bowman 28' 3PT Jump Shot,,94-125,94,125
+0021900825,2020-02-20,GSW,HOU,43.67,4,4,20,HOU,HOU,reb,0,False,False,,Green REBOUND (Off:1 Def:3),94-125,94,125
+0021900825,2020-02-20,GSW,HOU,43.82,4,4,11,HOU,HOU,fg3_miss,1,False,False,,MISS Frazier II 26' 3PT Jump Shot,94-125,94,125
+0021900825,2020-02-20,GSW,HOU,43.85,4,4,9,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:1 Def:5),,94-125,94,125
+0021900825,2020-02-20,GSW,HOU,44.12,4,3,53,GSW,GSW,fg_make,63,False,False,Looney 16' Fadeaway Jumper (4 PTS) (Lee 3 AST),,96-125,96,125
+0021900825,2020-02-20,GSW,HOU,44.5,4,3,30,HOU,HOU,fg3_make,1,False,False,,Green 28' 3PT Jump Shot (14 PTS) (Carroll 3 AST),96-128,96,128
+0021900825,2020-02-20,GSW,HOU,44.52,4,3,29,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 5 Short 0),,96-128,96,128
+0021900825,2020-02-20,GSW,HOU,44.8,4,3,12,GSW,GSW,fg_make,79,False,False,Poole 17' Pullup Jump Shot (16 PTS),,98-128,98,128
+0021900825,2020-02-20,GSW,HOU,45.08,4,2,55,HOU,HOU,tov,2,False,True,,Caboclo Lost Ball Turnover (P1.T14),98-128,98,128
+0021900825,2020-02-20,GSW,HOU,45.08,4,2,55,HOU,GSW,steal,2,False,True,steal,steal,98-128,98,128
+0021900825,2020-02-20,GSW,HOU,45.18,4,2,49,GSW,GSW,fg3_make,103,False,False,Poole 26' 3PT Running Pull-Up Jump Shot (19 PTS),,101-128,101,128
+0021900825,2020-02-20,GSW,HOU,45.38,4,2,37,HOU,HOU,fg3_miss,1,False,False,,MISS Caboclo 28' 3PT Jump Shot,101-128,101,128
+0021900825,2020-02-20,GSW,HOU,45.43,4,2,34,GSW,GSW,reb,0,False,False,Bowman REBOUND (Off:1 Def:2),,101-128,101,128
+0021900825,2020-02-20,GSW,HOU,45.53,4,2,28,GSW,GSW,fg3_miss,80,False,False,MISS Poole 27' 3PT Step Back Jump Shot,,101-128,101,128
+0021900825,2020-02-20,GSW,HOU,45.62,4,2,23,HOU,HOU,reb,0,False,False,,Caboclo REBOUND (Off:0 Def:1),101-128,101,128
+0021900825,2020-02-20,GSW,HOU,45.75,4,2,15,HOU,HOU,fg3_make,1,False,False,,Green 27' 3PT Jump Shot (17 PTS) (Rivers 3 AST),101-131,101,131
+0021900825,2020-02-20,GSW,HOU,46.05,4,1,57,GSW,GSW,tov,2,False,True,Poole Lost Ball Turnover (P3.T21),,101-131,101,131
+0021900825,2020-02-20,GSW,HOU,46.05,4,1,57,GSW,HOU,steal,2,False,True,steal,steal,101-131,101,131
+0021900825,2020-02-20,GSW,HOU,46.13,4,1,52,HOU,HOU,tov,1,False,True,,Green Bad Pass Turnover (P3.T15),101-131,101,131
+0021900825,2020-02-20,GSW,HOU,46.13,4,1,52,HOU,GSW,steal,1,False,True,steal,steal,101-131,101,131
+0021900825,2020-02-20,GSW,HOU,46.15,4,1,51,GSW,GSW,fg_make,50,False,False,Toscano-Anderson 2' Running Dunk (10 PTS),,103-131,103,131
+0021900825,2020-02-20,GSW,HOU,46.3,4,1,42,HOU,GSW,foul,1,False,False,Poole P.FOUL (P4.T1) (J.DeRosa),,103-131,103,131
+0021900825,2020-02-20,GSW,HOU,46.5,4,1,30,HOU,GSW,foul,2,False,False,Poole S.FOUL (P5.PN) (N.Buchert),,103-131,103,131
+0021900825,2020-02-20,GSW,HOU,46.5,4,1,30,HOU,HOU,ft_make,11,False,False,,Carroll Free Throw 1 of 2 (1 PTS),103-132,103,132
+0021900825,2020-02-20,GSW,HOU,46.5,4,1,30,HOU,HOU,ft_make,12,False,False,,Carroll Free Throw 2 of 2 (2 PTS),103-133,103,133
+0021900825,2020-02-20,GSW,HOU,46.75,4,1,15,GSW,GSW,fg_miss,5,True,False,MISS Toscano-Anderson 3' Layup,,103-133,103,133
+0021900825,2020-02-20,GSW,HOU,46.75,4,1,15,GSW,HOU,block,5,True,False,block,block,103-133,103,133
+0021900825,2020-02-20,GSW,HOU,46.82,4,1,11,GSW,GSW,reb,0,False,False,Smailagic REBOUND (Off:2 Def:1),,103-133,103,133
+0021900825,2020-02-20,GSW,HOU,46.9,4,1,6,GSW,GSW,tov,1,False,True,Toscano-Anderson Bad Pass Turnover (P2.T22),,103-133,103,133
+0021900825,2020-02-20,GSW,HOU,46.9,4,1,6,GSW,HOU,steal,1,False,True,steal,steal,103-133,103,133
+0021900825,2020-02-20,GSW,HOU,46.93,4,1,4,HOU,HOU,fg_make,50,False,False,,Frazier II 1' Running Dunk (2 PTS) (Carroll 4 AST),103-135,103,135
+0021900825,2020-02-20,GSW,HOU,47.05,4,0,57,GSW,HOU,foul,1,False,False,,Caboclo P.FOUL (P1.T4) (N.Buchert),103-135,103,135
+0021900825,2020-02-20,GSW,HOU,47.05,4,0,57,GSW,GSW,tov,1,False,True,Bowman Bad Pass Turnover (P4.T23),,103-135,103,135
+0021900825,2020-02-20,GSW,HOU,47.05,4,0,57,GSW,HOU,steal,1,False,True,steal,steal,103-135,103,135
+0021900825,2020-02-20,GSW,HOU,47.18,4,0,49,HOU,HOU,tov,1,False,True,,Caboclo Bad Pass Turnover (P2.T16),103-135,103,135
+0021900825,2020-02-20,GSW,HOU,47.18,4,0,49,HOU,GSW,steal,1,False,True,steal,steal,103-135,103,135
+0021900825,2020-02-20,GSW,HOU,47.32,4,0,41,GSW,GSW,fg_make,101,False,False,Bowman 11' Driving Floating Jump Shot (8 PTS) (Toscano-Anderson 5 AST),,105-135,105,135
+0021900825,2020-02-20,GSW,HOU,47.5,4,0,30,HOU,HOU,fg3_miss,1,False,False,,MISS Rivers 27' 3PT Jump Shot,105-135,105,135
+0021900825,2020-02-20,GSW,HOU,47.53,4,0,28,GSW,GSW,reb,0,False,False,Bowman REBOUND (Off:1 Def:3),,105-135,105,135
+0021900825,2020-02-20,GSW,HOU,47.65,4,0,21,GSW,GSW,fg3_miss,1,False,False,MISS Bowman 27' 3PT Jump Shot,,105-135,105,135
+0021900825,2020-02-20,GSW,HOU,47.68,4,0,19,GSW,GSW,reb,0,False,False,Bowman REBOUND (Off:2 Def:3),,105-135,105,135
+0021900825,2020-02-20,GSW,HOU,47.78,4,0,13,GSW,GSW,fg3_miss,1,False,False,MISS Toscano-Anderson 28' 3PT Jump Shot,,105-135,105,135
+0021900825,2020-02-20,GSW,HOU,47.82,4,0,11,HOU,HOU,reb,0,False,False,,Rivers REBOUND (Off:0 Def:4),105-135,105,135
+0021900825,2020-02-20,GSW,HOU,48.0,4,0,0,HOU,,period_end,0,False,False,,,105-135,105,135

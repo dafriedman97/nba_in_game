@@ -1,0 +1,424 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900275,2019-11-29,OKC,NOP,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900275,2019-11-29,OKC,NOP,0.0,1,12,0,,OKC,jump_ball,0,False,False,Jump Ball Adams vs. Hayes: Tip to Paul,,0-0,0,0
+0021900275,2019-11-29,OKC,NOP,0.28,1,11,43,OKC,OKC,fg_make,47,False,False,Adams 1' Turnaround Jump Shot (2 PTS) (Gallinari 1 AST),,2-0,2,0
+0021900275,2019-11-29,OKC,NOP,0.68,1,11,19,NOP,NOP,fg_miss,5,False,False,,MISS Ingram 6' Layup,2-0,2,0
+0021900275,2019-11-29,OKC,NOP,0.77,1,11,14,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:1 Def:0),2-0,2,0
+0021900275,2019-11-29,OKC,NOP,0.77,1,11,14,NOP,NOP,fg_make,107,False,False,,Hayes 1' Tip Dunk Shot (2 PTS),2-2,2,2
+0021900275,2019-11-29,OKC,NOP,0.97,1,11,2,OKC,OKC,fg_make,6,False,False,Adams 2' Driving Layup (4 PTS),,4-2,4,2
+0021900275,2019-11-29,OKC,NOP,1.35,1,10,39,NOP,NOP,fg_miss,5,True,False,,MISS Williams 2' Layup,4-2,4,2
+0021900275,2019-11-29,OKC,NOP,1.35,1,10,39,NOP,OKC,block,5,True,False,block,block,4-2,4,2
+0021900275,2019-11-29,OKC,NOP,1.38,1,10,37,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:2 Def:0),4-2,4,2
+0021900275,2019-11-29,OKC,NOP,1.38,1,10,37,NOP,NOP,tov,15,False,False,,Hayes Offensive Goaltending Turnover (P1.T1),4-2,4,2
+0021900275,2019-11-29,OKC,NOP,1.68,1,10,19,OKC,OKC,fg_make,3,False,False,Adams 1' Hook Shot (6 PTS),,6-2,6,2
+0021900275,2019-11-29,OKC,NOP,1.82,1,10,11,NOP,NOP,fg_miss,101,False,False,,MISS Holiday 7' Driving Floating Jump Shot,6-2,6,2
+0021900275,2019-11-29,OKC,NOP,1.82,1,10,11,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:0 Def:1),,6-2,6,2
+0021900275,2019-11-29,OKC,NOP,2.08,1,9,55,OKC,NOP,foul,2,False,False,,Holiday S.FOUL (P1.T1) (R.Acosta),6-2,6,2
+0021900275,2019-11-29,OKC,NOP,2.08,1,9,55,OKC,OKC,ft_make,11,False,False,Gallinari Free Throw 1 of 2 (1 PTS),,7-2,7,2
+0021900275,2019-11-29,OKC,NOP,2.08,1,9,55,OKC,OKC,ft_make,12,False,False,Gallinari Free Throw 2 of 2 (2 PTS),,8-2,8,2
+0021900275,2019-11-29,OKC,NOP,2.28,1,9,43,NOP,NOP,fg3_miss,79,False,False,,MISS Redick 28' 3PT Pullup Jump Shot,8-2,8,2
+0021900275,2019-11-29,OKC,NOP,2.3,1,9,42,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:3 Def:0),8-2,8,2
+0021900275,2019-11-29,OKC,NOP,2.3,1,9,42,NOP,NOP,fg_make,107,False,False,,Hayes 1' Tip Dunk Shot (4 PTS),8-4,8,4
+0021900275,2019-11-29,OKC,NOP,2.43,1,9,34,OKC,NOP,foul,2,False,False,,Williams S.FOUL (P1.T2) (K.Mauer),8-4,8,4
+0021900275,2019-11-29,OKC,NOP,2.43,1,9,34,OKC,OKC,ft_miss,11,False,False,MISS Ferguson Free Throw 1 of 2,,8-4,8,4
+0021900275,2019-11-29,OKC,NOP,2.43,1,9,34,OKC,OKC,reb,1,False,False,THUNDER Rebound,,8-4,8,4
+0021900275,2019-11-29,OKC,NOP,2.43,1,9,34,OKC,OKC,ft_make,12,False,False,Ferguson Free Throw 2 of 2 (1 PTS),,9-4,9,4
+0021900275,2019-11-29,OKC,NOP,2.6,1,9,24,NOP,NOP,fg_make,6,False,False,,Ingram 2' Driving Layup (2 PTS),9-6,9,6
+0021900275,2019-11-29,OKC,NOP,2.78,1,9,13,OKC,OKC,fg_make,58,False,False,Adams 3' Turnaround Hook Shot (8 PTS) (Paul 1 AST),,11-6,11,6
+0021900275,2019-11-29,OKC,NOP,3.1,1,8,54,NOP,NOP,fg_miss,79,False,False,,MISS Ingram 20' Pullup Jump Shot,11-6,11,6
+0021900275,2019-11-29,OKC,NOP,3.15,1,8,51,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:1),,11-6,11,6
+0021900275,2019-11-29,OKC,NOP,3.27,1,8,44,OKC,OKC,fg_make,108,False,False,Adams 1' Cutting Dunk Shot (10 PTS) (Gallinari 2 AST),,13-6,13,6
+0021900275,2019-11-29,OKC,NOP,3.45,1,8,33,NOP,NOP,fg_make,6,False,False,,Holiday Driving Layup (2 PTS),13-8,13,8
+0021900275,2019-11-29,OKC,NOP,3.88,1,8,7,,OKC,jump_ball,0,False,False,Jump Ball Gallinari vs. Hayes: Tip to Paul,,13-8,13,8
+0021900275,2019-11-29,OKC,NOP,3.93,1,8,4,OKC,OKC,fg3_miss,79,False,False,MISS Paul 26' 3PT Pullup Jump Shot,,13-8,13,8
+0021900275,2019-11-29,OKC,NOP,3.98,1,8,1,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:1),,13-8,13,8
+0021900275,2019-11-29,OKC,NOP,4.02,1,7,59,OKC,OKC,fg3_make,1,False,False,Gallinari 25' 3PT Jump Shot (5 PTS),,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.18,1,7,49,NOP,NOP,fg_miss,98,False,False,,MISS Hayes 3' Cutting Layup Shot,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.22,1,7,47,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:1),,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.35,1,7,39,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 1' Driving Layup,,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.42,1,7,35,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:1),,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.42,1,7,35,OKC,OKC,fg_miss,97,False,False,MISS Adams 1' Tip Layup Shot,,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.43,1,7,34,NOP,NOP,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.5,1,7,30,NOP,NOP,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.53,1,7,28,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:2),,16-8,16,8
+0021900275,2019-11-29,OKC,NOP,4.63,1,7,22,OKC,OKC,fg_make,41,False,False,Gallinari 2' Running Layup (7 PTS),,18-8,18,8
+0021900275,2019-11-29,OKC,NOP,4.72,1,7,17,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.1 Short 0),18-8,18,8
+0021900275,2019-11-29,OKC,NOP,4.93,1,7,4,NOP,NOP,fg_make,5,False,False,,Ingram 1' Layup (4 PTS),18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.33,1,6,40,NOP,OKC,foul,4,False,False,Gilgeous-Alexander OFF.Foul (P1) (J.Goble),,18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.33,1,6,40,OKC,OKC,tov,37,False,False,Gilgeous-Alexander Offensive Foul Turnover (P1.T1),,18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.52,1,6,29,NOP,NOP,tov,45,False,False,,Okafor Out of Bounds - Bad Pass Turnover Turnover (P1.T2),18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.63,1,6,22,OKC,OKC,fg_miss,1,False,False,MISS Ferguson 18' Jump Shot,,18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.67,1,6,20,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:1),18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.75,1,6,15,NOP,NOP,fg_miss,41,False,False,,MISS Okafor 6' Running Layup,18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.78,1,6,13,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:3),,18-10,18,10
+0021900275,2019-11-29,OKC,NOP,5.88,1,6,7,OKC,OKC,fg_make,52,False,False,Noel Alley Oop Dunk (2 PTS) (Paul 2 AST),,20-10,20,10
+0021900275,2019-11-29,OKC,NOP,6.15,1,5,51,NOP,NOP,tov,1,False,True,,Holiday Bad Pass Turnover (P1.T3),20-10,20,10
+0021900275,2019-11-29,OKC,NOP,6.15,1,5,51,NOP,OKC,steal,1,False,True,steal,steal,20-10,20,10
+0021900275,2019-11-29,OKC,NOP,6.27,1,5,44,OKC,NOP,violation,5,False,False,,Williams Violation:Kicked Ball (R.Acosta),20-10,20,10
+0021900275,2019-11-29,OKC,NOP,6.35,1,5,39,OKC,OKC,fg_make,79,False,False,Gilgeous-Alexander 20' Pullup Jump Shot (2 PTS),,22-10,22,10
+0021900275,2019-11-29,OKC,NOP,6.83,1,5,10,NOP,NOP,fg3_miss,1,False,False,,MISS Ingram 27' 3PT Jump Shot,22-10,22,10
+0021900275,2019-11-29,OKC,NOP,6.87,1,5,8,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:4),,22-10,22,10
+0021900275,2019-11-29,OKC,NOP,6.95,1,5,3,OKC,NOP,foul,1,False,False,,Okafor P.FOUL (P1.T3) (R.Acosta),22-10,22,10
+0021900275,2019-11-29,OKC,NOP,6.95,1,5,3,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.2 Short 0),22-10,22,10
+0021900275,2019-11-29,OKC,NOP,7.05,1,4,57,OKC,NOP,foul,1,False,False,,Holiday P.FOUL (P2.T4) (K.Mauer),22-10,22,10
+0021900275,2019-11-29,OKC,NOP,7.12,1,4,53,OKC,OKC,fg_miss,101,False,False,MISS Gilgeous-Alexander 4' Driving Floating Jump Shot,,22-10,22,10
+0021900275,2019-11-29,OKC,NOP,7.15,1,4,51,NOP,NOP,reb,0,False,False,,Redick REBOUND (Off:0 Def:1),22-10,22,10
+0021900275,2019-11-29,OKC,NOP,7.28,1,4,43,NOP,NOP,fg_make,7,False,False,,Okafor 2' Dunk (2 PTS) (Ingram 1 AST),22-12,22,12
+0021900275,2019-11-29,OKC,NOP,7.53,1,4,28,OKC,OKC,fg_make,6,False,False,Ferguson 1' Driving Layup (3 PTS),,24-12,24,12
+0021900275,2019-11-29,OKC,NOP,7.92,1,4,5,NOP,NOP,fg_miss,44,True,False,,MISS Holiday 3' Reverse Layup,24-12,24,12
+0021900275,2019-11-29,OKC,NOP,7.92,1,4,5,NOP,OKC,block,44,True,False,block,block,24-12,24,12
+0021900275,2019-11-29,OKC,NOP,7.92,1,4,5,NOP,NOP,reb,0,False,False,,Pelicans Rebound,24-12,24,12
+0021900275,2019-11-29,OKC,NOP,7.98,1,4,1,NOP,NOP,fg3_make,1,False,False,,Okafor 27' 3PT Jump Shot (5 PTS) (Redick 1 AST),24-15,24,15
+0021900275,2019-11-29,OKC,NOP,8.23,1,3,46,OKC,OKC,fg3_miss,80,False,False,MISS Gallinari 25' 3PT Step Back Jump Shot,,24-15,24,15
+0021900275,2019-11-29,OKC,NOP,8.27,1,3,44,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:2),24-15,24,15
+0021900275,2019-11-29,OKC,NOP,8.38,1,3,37,NOP,NOP,fg3_miss,1,False,False,,MISS Redick 27' 3PT Jump Shot,24-15,24,15
+0021900275,2019-11-29,OKC,NOP,8.45,1,3,33,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:5),,24-15,24,15
+0021900275,2019-11-29,OKC,NOP,8.53,1,3,28,OKC,OKC,fg_make,5,False,False,Noel 1' Layup (4 PTS) (Gallinari 3 AST),,26-15,26,15
+0021900275,2019-11-29,OKC,NOP,8.68,1,3,19,NOP,NOP,fg_miss,52,False,False,,MISS Ingram 3' Alley Oop Dunk,26-15,26,15
+0021900275,2019-11-29,OKC,NOP,8.72,1,3,17,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:0 Def:1),,26-15,26,15
+0021900275,2019-11-29,OKC,NOP,8.83,1,3,10,OKC,NOP,foul,2,False,False,,Redick S.FOUL (P1.PN) (R.Acosta),26-15,26,15
+0021900275,2019-11-29,OKC,NOP,8.83,1,3,10,OKC,OKC,ft_miss,11,False,False,MISS Noel Free Throw 1 of 2,,26-15,26,15
+0021900275,2019-11-29,OKC,NOP,8.83,1,3,10,OKC,OKC,reb,1,False,False,THUNDER Rebound,,26-15,26,15
+0021900275,2019-11-29,OKC,NOP,8.83,1,3,10,OKC,OKC,ft_make,12,False,False,Noel Free Throw 2 of 2 (5 PTS),,27-15,27,15
+0021900275,2019-11-29,OKC,NOP,9.03,1,2,58,NOP,NOP,tov,45,False,False,,Hart Out of Bounds - Bad Pass Turnover Turnover (P1.T4),27-15,27,15
+0021900275,2019-11-29,OKC,NOP,9.37,1,2,38,OKC,OKC,fg_miss,1,False,False,MISS Noel 13' Jump Shot,,27-15,27,15
+0021900275,2019-11-29,OKC,NOP,9.4,1,2,36,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:1),27-15,27,15
+0021900275,2019-11-29,OKC,NOP,9.6,1,2,24,NOP,NOP,fg3_miss,1,False,False,,MISS Melli 25' 3PT Jump Shot,27-15,27,15
+0021900275,2019-11-29,OKC,NOP,9.67,1,2,20,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:0 Def:1),,27-15,27,15
+0021900275,2019-11-29,OKC,NOP,9.77,1,2,14,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 25' 3PT Jump Shot,,27-15,27,15
+0021900275,2019-11-29,OKC,NOP,9.83,1,2,10,NOP,NOP,reb,0,False,False,,Redick REBOUND (Off:0 Def:2),27-15,27,15
+0021900275,2019-11-29,OKC,NOP,10.0,1,2,0,NOP,OKC,foul,2,False,False,Noel S.FOUL (P1.T1) (R.Acosta),,27-15,27,15
+0021900275,2019-11-29,OKC,NOP,10.0,1,2,0,NOP,NOP,ft_make,11,False,False,,Okafor Free Throw 1 of 2 (6 PTS),27-16,27,16
+0021900275,2019-11-29,OKC,NOP,10.0,1,2,0,NOP,NOP,ft_make,12,False,False,,Okafor Free Throw 2 of 2 (7 PTS),27-17,27,17
+0021900275,2019-11-29,OKC,NOP,10.2,1,1,48,OKC,OKC,fg_miss,1,False,False,MISS Schroder 15' Jump Shot,,27-17,27,17
+0021900275,2019-11-29,OKC,NOP,10.25,1,1,45,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:1),27-17,27,17
+0021900275,2019-11-29,OKC,NOP,10.4,1,1,36,NOP,NOP,fg_make,75,False,False,,Ingram 3' Driving Finger Roll Layup (6 PTS) (Okafor 1 AST),27-19,27,19
+0021900275,2019-11-29,OKC,NOP,10.6,1,1,24,OKC,OKC,fg_make,6,False,False,Nader 5' Driving Layup (2 PTS) (Schroder 1 AST),,29-19,29,19
+0021900275,2019-11-29,OKC,NOP,10.8,1,1,12,NOP,OKC,foul,2,False,False,Adams S.FOUL (P1.PN) (K.Mauer),,29-19,29,19
+0021900275,2019-11-29,OKC,NOP,10.8,1,1,12,NOP,NOP,ft_miss,11,False,False,,MISS Okafor Free Throw 1 of 2,29-19,29,19
+0021900275,2019-11-29,OKC,NOP,10.8,1,1,12,NOP,NOP,reb,1,False,False,,Pelicans Rebound,29-19,29,19
+0021900275,2019-11-29,OKC,NOP,10.8,1,1,12,NOP,NOP,ft_make,12,False,False,,Okafor Free Throw 2 of 2 (8 PTS),29-20,29,20
+0021900275,2019-11-29,OKC,NOP,11.05,1,0,57,OKC,OKC,fg3_make,1,False,False,Bazley 26' 3PT Jump Shot (3 PTS) (Schroder 2 AST),,32-20,32,20
+0021900275,2019-11-29,OKC,NOP,11.2,1,0,48,NOP,OKC,foul,2,False,False,Burton S.FOUL (P1.PN) (J.Goble),,32-20,32,20
+0021900275,2019-11-29,OKC,NOP,11.2,1,0,48,NOP,NOP,ft_make,11,False,False,,Ingram Free Throw 1 of 2 (7 PTS),32-21,32,21
+0021900275,2019-11-29,OKC,NOP,11.2,1,0,48,NOP,NOP,ft_make,12,False,False,,Ingram Free Throw 2 of 2 (8 PTS),32-22,32,22
+0021900275,2019-11-29,OKC,NOP,11.42,1,0,35,OKC,OKC,fg_make,79,False,False,Schroder 14' Pullup Jump Shot (2 PTS),,34-22,34,22
+0021900275,2019-11-29,OKC,NOP,11.5,1,0,30,NOP,NOP,fg_make,76,False,False,,Ingram 2' Running Finger Roll Layup (10 PTS),34-24,34,24
+0021900275,2019-11-29,OKC,NOP,11.67,1,0,20,OKC,OKC,fg3_miss,79,False,False,MISS Schroder 28' 3PT Pullup Jump Shot,,34-24,34,24
+0021900275,2019-11-29,OKC,NOP,11.73,1,0,16,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:2),34-24,34,24
+0021900275,2019-11-29,OKC,NOP,12.0,1,0,0,NOP,NOP,fg_make,9,False,False,,Ingram 1' Driving Dunk (12 PTS),34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.0,1,0,0,NOP,,period_end,0,False,False,,,34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.0,2,12,0,NOP,,period_start,0,False,False,,,34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.17,2,11,50,NOP,NOP,fg3_miss,1,False,False,,MISS Moore 26' 3PT Jump Shot,34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.25,2,11,45,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.33,2,11,40,OKC,NOP,foul,2,False,False,,Okafor S.FOUL (P2.T1) (K.Mauer),34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.33,2,11,40,OKC,OKC,ft_miss,11,False,False,MISS Nader Free Throw 1 of 2,,34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.33,2,11,40,OKC,OKC,reb,1,False,False,THUNDER Rebound,,34-26,34,26
+0021900275,2019-11-29,OKC,NOP,12.33,2,11,40,OKC,OKC,ft_make,12,False,False,Nader Free Throw 2 of 2 (3 PTS),,35-26,35,26
+0021900275,2019-11-29,OKC,NOP,12.48,2,11,31,NOP,NOP,fg3_miss,1,False,False,,MISS Melli 3PT Jump Shot,35-26,35,26
+0021900275,2019-11-29,OKC,NOP,12.58,2,11,25,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:0 Def:2),,35-26,35,26
+0021900275,2019-11-29,OKC,NOP,12.78,2,11,13,OKC,OKC,fg_miss,3,False,False,MISS Adams 7' Hook Shot,,35-26,35,26
+0021900275,2019-11-29,OKC,NOP,12.82,2,11,11,OKC,OKC,reb,0,False,False,Burton REBOUND (Off:1 Def:0),,35-26,35,26
+0021900275,2019-11-29,OKC,NOP,12.97,2,11,2,OKC,OKC,fg_miss,79,False,False,MISS Nader 19' Pullup Jump Shot,,35-26,35,26
+0021900275,2019-11-29,OKC,NOP,12.97,2,11,2,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:2),35-26,35,26
+0021900275,2019-11-29,OKC,NOP,13.22,2,10,47,NOP,NOP,fg3_make,79,False,False,,Holiday 25' 3PT Pullup Jump Shot (5 PTS),35-29,35,29
+0021900275,2019-11-29,OKC,NOP,13.67,2,10,20,OKC,OKC,fg_miss,101,False,False,MISS Schroder 11' Driving Floating Jump Shot,,35-29,35,29
+0021900275,2019-11-29,OKC,NOP,13.7,2,10,18,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:3),35-29,35,29
+0021900275,2019-11-29,OKC,NOP,13.8,2,10,12,NOP,NOP,tov,45,False,False,,Moore Out of Bounds - Bad Pass Turnover Turnover (P1.T5),35-29,35,29
+0021900275,2019-11-29,OKC,NOP,13.92,2,10,5,OKC,OKC,fg_make,6,False,False,Schroder 1' Driving Layup (4 PTS),,37-29,37,29
+0021900275,2019-11-29,OKC,NOP,14.05,2,9,57,NOP,NOP,tov,45,False,False,,Hart Out of Bounds - Bad Pass Turnover Turnover (P2.T6),37-29,37,29
+0021900275,2019-11-29,OKC,NOP,14.23,2,9,46,OKC,OKC,fg3_make,1,False,False,Nader 3PT Jump Shot (6 PTS) (Schroder 3 AST),,40-29,40,29
+0021900275,2019-11-29,OKC,NOP,14.48,2,9,31,NOP,NOP,fg_make,47,False,False,,Holiday 2' Turnaround Jump Shot (7 PTS),40-31,40,31
+0021900275,2019-11-29,OKC,NOP,14.67,2,9,20,OKC,OKC,tov,1,False,True,Schroder Bad Pass Turnover (P1.T2),,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,14.67,2,9,20,OKC,NOP,steal,1,False,True,steal,steal,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,14.87,2,9,8,NOP,NOP,fg3_miss,1,False,False,,MISS Melli 28' 3PT Jump Shot,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,14.93,2,9,4,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:0 Def:2),,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,15.28,2,8,43,OKC,OKC,fg3_miss,1,False,False,MISS Paul 3PT Jump Shot,,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,15.35,2,8,39,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:4),40-31,40,31
+0021900275,2019-11-29,OKC,NOP,15.38,2,8,37,NOP,NOP,fg3_miss,1,False,False,,MISS Hart 26' 3PT Jump Shot,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,15.42,2,8,35,OKC,OKC,reb,0,False,False,THUNDER Rebound,,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,15.42,2,8,35,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,40-31,40,31
+0021900275,2019-11-29,OKC,NOP,15.73,2,8,16,OKC,OKC,fg_make,6,False,False,Schroder 1' Driving Layup (6 PTS),,42-31,42,31
+0021900275,2019-11-29,OKC,NOP,15.93,2,8,4,NOP,NOP,fg_miss,101,False,False,,MISS Moore 9' Driving Floating Jump Shot,42-31,42,31
+0021900275,2019-11-29,OKC,NOP,16.0,2,8,0,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:4 Def:0),42-31,42,31
+0021900275,2019-11-29,OKC,NOP,16.0,2,8,0,NOP,NOP,fg_miss,97,True,False,,MISS Hayes 1' Tip Layup Shot,42-31,42,31
+0021900275,2019-11-29,OKC,NOP,16.0,2,8,0,NOP,OKC,block,97,True,False,block,block,42-31,42,31
+0021900275,2019-11-29,OKC,NOP,16.02,2,7,59,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:0 Def:3),,42-31,42,31
+0021900275,2019-11-29,OKC,NOP,16.05,2,7,57,OKC,OKC,tov,1,False,True,Schroder Bad Pass Turnover (P2.T3),,42-31,42,31
+0021900275,2019-11-29,OKC,NOP,16.05,2,7,57,OKC,NOP,steal,1,False,True,steal,steal,42-31,42,31
+0021900275,2019-11-29,OKC,NOP,16.15,2,7,51,NOP,NOP,fg3_make,80,False,False,,Holiday 27' 3PT Step Back Jump Shot (10 PTS),42-34,42,34
+0021900275,2019-11-29,OKC,NOP,16.47,2,7,32,OKC,OKC,fg_make,98,False,False,Nader 2' Cutting Layup Shot (8 PTS) (Noel 1 AST),,44-34,44,34
+0021900275,2019-11-29,OKC,NOP,16.67,2,7,20,NOP,NOP,fg_make,80,False,False,,Moore 21' Step Back Jump Shot (2 PTS),44-36,44,36
+0021900275,2019-11-29,OKC,NOP,17.0,2,7,0,OKC,OKC,fg3_make,1,False,False,Schroder 25' 3PT Jump Shot (9 PTS) (Paul 3 AST),,47-36,47,36
+0021900275,2019-11-29,OKC,NOP,17.17,2,6,50,NOP,NOP,fg_make,79,False,False,,Holiday 9' Pullup Jump Shot (12 PTS),47-38,47,38
+0021900275,2019-11-29,OKC,NOP,17.42,2,6,35,OKC,OKC,fg3_make,1,False,False,Nader 24' 3PT Jump Shot (11 PTS) (Bazley 1 AST),,50-38,50,38
+0021900275,2019-11-29,OKC,NOP,17.65,2,6,21,NOP,NOP,fg3_miss,1,False,False,,MISS Melli 3PT Jump Shot,50-38,50,38
+0021900275,2019-11-29,OKC,NOP,17.65,2,6,21,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:2),,50-38,50,38
+0021900275,2019-11-29,OKC,NOP,17.82,2,6,11,OKC,OKC,fg3_miss,1,False,False,MISS Nader 3PT Jump Shot,,50-38,50,38
+0021900275,2019-11-29,OKC,NOP,17.85,2,6,9,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:3),,50-38,50,38
+0021900275,2019-11-29,OKC,NOP,17.9,2,6,6,OKC,OKC,fg_make,108,False,False,Nader 1' Cutting Dunk Shot (13 PTS) (Noel 2 AST),,52-38,52,38
+0021900275,2019-11-29,OKC,NOP,18.13,2,5,52,NOP,NOP,fg_miss,52,False,False,,MISS Hayes 3' Alley Oop Dunk,52-38,52,38
+0021900275,2019-11-29,OKC,NOP,18.18,2,5,49,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:4),,52-38,52,38
+0021900275,2019-11-29,OKC,NOP,18.27,2,5,44,OKC,OKC,fg_make,5,False,False,Bazley 1' Layup (5 PTS),,54-38,54,38
+0021900275,2019-11-29,OKC,NOP,18.37,2,5,38,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),54-38,54,38
+0021900275,2019-11-29,OKC,NOP,18.7,2,5,18,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#7),54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.05,2,4,57,OKC,OKC,fg_miss,1,False,False,MISS Gilgeous-Alexander 17' Jump Shot,,54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.1,2,4,54,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:4 Def:1),54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.23,2,4,46,NOP,NOP,fg3_miss,1,False,False,,MISS Redick 27' 3PT Jump Shot,54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.3,2,4,42,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:1 Def:0),54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.38,2,4,37,NOP,OKC,foul,2,False,False,Paul S.FOUL (P1.T1) (J.Goble),,54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.38,2,4,37,NOP,NOP,ft_miss,11,False,False,,MISS Moore Free Throw 1 of 2,54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.38,2,4,37,NOP,NOP,reb,1,False,False,,Pelicans Rebound,54-38,54,38
+0021900275,2019-11-29,OKC,NOP,19.38,2,4,37,NOP,NOP,ft_make,12,False,False,,Moore Free Throw 2 of 2 (3 PTS),54-39,54,39
+0021900275,2019-11-29,OKC,NOP,19.63,2,4,22,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 26' 3PT Jump Shot,,54-39,54,39
+0021900275,2019-11-29,OKC,NOP,19.65,2,4,21,NOP,NOP,reb,0,False,False,,Pelicans Rebound,54-39,54,39
+0021900275,2019-11-29,OKC,NOP,19.83,2,4,10,NOP,NOP,tov,1,False,True,,Redick Bad Pass Turnover (P1.T8),54-39,54,39
+0021900275,2019-11-29,OKC,NOP,19.83,2,4,10,NOP,OKC,steal,1,False,True,steal,steal,54-39,54,39
+0021900275,2019-11-29,OKC,NOP,19.92,2,4,5,OKC,OKC,fg3_miss,103,False,False,MISS Ferguson 26' 3PT Running Pull-Up Jump Shot,,54-39,54,39
+0021900275,2019-11-29,OKC,NOP,19.95,2,4,3,NOP,NOP,reb,0,False,False,,Pelicans Rebound,54-39,54,39
+0021900275,2019-11-29,OKC,NOP,20.23,2,3,46,NOP,NOP,fg_make,1,False,False,,Hayes 7' Jump Shot (6 PTS) (Ingram 2 AST),54-41,54,41
+0021900275,2019-11-29,OKC,NOP,20.53,2,3,28,OKC,OKC,tov,1,False,True,Ferguson Bad Pass Turnover (P1.T4),,54-41,54,41
+0021900275,2019-11-29,OKC,NOP,20.53,2,3,28,OKC,NOP,steal,1,False,True,steal,steal,54-41,54,41
+0021900275,2019-11-29,OKC,NOP,20.62,2,3,23,NOP,NOP,fg3_make,103,False,False,,Redick 28' 3PT Running Pull-Up Jump Shot (3 PTS) (Holiday 1 AST),54-44,54,44
+0021900275,2019-11-29,OKC,NOP,20.63,2,3,22,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,54-44,54,44
+0021900275,2019-11-29,OKC,NOP,20.77,2,3,14,OKC,OKC,fg_make,1,False,False,Gallinari 18' Jump Shot (9 PTS) (Paul 4 AST),,56-44,56,44
+0021900275,2019-11-29,OKC,NOP,21.13,2,2,52,NOP,NOP,fg_make,108,False,False,,Hayes 2' Cutting Dunk Shot (8 PTS) (Ingram 3 AST),56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.37,2,2,38,OKC,OKC,fg3_miss,79,True,False,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,,56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.37,2,2,38,OKC,NOP,block,79,True,False,block,block,56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.43,2,2,34,NOP,NOP,reb,0,False,False,,Redick REBOUND (Off:0 Def:3),56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.48,2,2,31,NOP,NOP,fg_miss,41,True,False,,MISS Hart 4' Running Layup,56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.48,2,2,31,NOP,OKC,block,41,True,False,block,block,56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.52,2,2,29,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:1),,56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.68,2,2,19,OKC,OKC,fg_miss,5,False,False,MISS Gallinari Layup,,56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.73,2,2,16,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),56-46,56,46
+0021900275,2019-11-29,OKC,NOP,21.78,2,2,13,NOP,NOP,fg3_make,79,False,False,,Redick 27' 3PT Pullup Jump Shot (6 PTS) (Holiday 2 AST),56-49,56,49
+0021900275,2019-11-29,OKC,NOP,22.15,2,1,51,OKC,OKC,fg_miss,6,False,False,MISS Gallinari 6' Driving Layup,,56-49,56,49
+0021900275,2019-11-29,OKC,NOP,22.17,2,1,50,NOP,NOP,reb,0,False,False,,Pelicans Rebound,56-49,56,49
+0021900275,2019-11-29,OKC,NOP,22.47,2,1,32,NOP,NOP,fg_make,108,False,False,,Hayes 2' Cutting Dunk Shot (10 PTS) (Redick 2 AST),56-51,56,51
+0021900275,2019-11-29,OKC,NOP,22.6,2,1,24,OKC,OKC,fg3_make,79,False,False,Gilgeous-Alexander 27' 3PT Pullup Jump Shot (5 PTS) (Gallinari 4 AST),,59-51,59,51
+0021900275,2019-11-29,OKC,NOP,23.0,2,1,0,NOP,NOP,fg_make,6,False,False,,Redick 1' Driving Layup (8 PTS) (Hart 1 AST),59-53,59,53
+0021900275,2019-11-29,OKC,NOP,23.1,2,0,54,OKC,OKC,fg3_make,79,False,False,Paul 25' 3PT Pullup Jump Shot (3 PTS),,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,23.27,2,0,44,NOP,NOP,fg3_miss,1,False,False,,MISS Hart 3PT Jump Shot,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,23.33,2,0,40,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:2),,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,23.47,2,0,32,OKC,OKC,tov,2,False,True,Paul Lost Ball Turnover (P1.T5),,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,23.47,2,0,32,OKC,NOP,steal,2,False,True,steal,steal,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,23.47,2,0,32,NOP,OKC,foul,1,False,False,Paul P.FOUL (P2.T2) (K.Mauer),,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,23.62,2,0,23,NOP,NOP,fg3_miss,1,False,False,,MISS Redick 28' 3PT Jump Shot,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,23.65,2,0,21,OKC,OKC,reb,0,False,False,THUNDER Rebound,,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,24.0,2,0,0,OKC,OKC,fg3_miss,80,False,False,MISS Paul 26' 3PT Step Back Jump Shot,,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,24.0,2,0,0,OKC,OKC,reb,0,False,False,THUNDER Rebound,,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,24.0,2,0,0,OKC,,period_end,0,False,False,,,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,24.0,3,12,0,OKC,,period_start,0,False,False,,,62-53,62,53
+0021900275,2019-11-29,OKC,NOP,24.2,3,11,48,NOP,NOP,fg_make,63,False,False,,Ingram 15' Fadeaway Jumper (14 PTS) (Holiday 3 AST),62-55,62,55
+0021900275,2019-11-29,OKC,NOP,24.55,3,11,27,OKC,OKC,fg_miss,3,False,False,MISS Adams 6' Hook Shot,,62-55,62,55
+0021900275,2019-11-29,OKC,NOP,24.6,3,11,24,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:3),62-55,62,55
+0021900275,2019-11-29,OKC,NOP,24.8,3,11,12,NOP,NOP,fg3_miss,1,False,False,,MISS Holiday 28' 3PT Jump Shot,62-55,62,55
+0021900275,2019-11-29,OKC,NOP,24.85,3,11,9,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:3),,62-55,62,55
+0021900275,2019-11-29,OKC,NOP,24.95,3,11,3,OKC,OKC,fg_miss,103,False,False,MISS Gallinari 16' Running Pull-Up Jump Shot,,62-55,62,55
+0021900275,2019-11-29,OKC,NOP,25.03,3,10,58,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:1 Def:2),62-55,62,55
+0021900275,2019-11-29,OKC,NOP,25.03,3,10,58,NOP,OKC,foul,1,False,False,Gallinari P.FOUL (P1.T1) (J.Goble),,62-55,62,55
+0021900275,2019-11-29,OKC,NOP,25.18,3,10,49,NOP,NOP,tov,2,False,True,,Holiday Lost Ball Turnover (P2.T9),62-55,62,55
+0021900275,2019-11-29,OKC,NOP,25.18,3,10,49,NOP,OKC,steal,2,False,True,steal,steal,62-55,62,55
+0021900275,2019-11-29,OKC,NOP,25.25,3,10,45,OKC,OKC,tov,39,False,False,Gilgeous-Alexander Step Out of Bounds Turnover (P2.T6),,62-55,62,55
+0021900275,2019-11-29,OKC,NOP,25.45,3,10,33,NOP,NOP,fg_make,6,False,False,,Ingram 1' Driving Layup (16 PTS),62-57,62,57
+0021900275,2019-11-29,OKC,NOP,25.45,3,10,33,NOP,OKC,foul,2,False,False,Gilgeous-Alexander S.FOUL (P2.T2) (R.Acosta),,62-57,62,57
+0021900275,2019-11-29,OKC,NOP,25.45,3,10,33,NOP,NOP,ft_make,10,False,False,,Ingram Free Throw 1 of 1 (17 PTS),62-58,62,58
+0021900275,2019-11-29,OKC,NOP,25.63,3,10,22,OKC,OKC,fg3_miss,1,False,False,MISS Ferguson 3PT Jump Shot,,62-58,62,58
+0021900275,2019-11-29,OKC,NOP,25.67,3,10,20,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:3),,62-58,62,58
+0021900275,2019-11-29,OKC,NOP,25.73,3,10,16,OKC,OKC,fg3_miss,1,False,False,MISS Gilgeous-Alexander 25' 3PT Jump Shot,,62-58,62,58
+0021900275,2019-11-29,OKC,NOP,25.77,3,10,14,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:3),62-58,62,58
+0021900275,2019-11-29,OKC,NOP,25.97,3,10,2,NOP,NOP,tov,39,False,False,,Ingram Step Out of Bounds Turnover (P1.T10),62-58,62,58
+0021900275,2019-11-29,OKC,NOP,26.23,3,9,46,OKC,OKC,fg3_make,1,False,False,Gallinari 27' 3PT Jump Shot (12 PTS) (Paul 5 AST),,65-58,65,58
+0021900275,2019-11-29,OKC,NOP,26.47,3,9,32,NOP,NOP,fg3_miss,79,False,False,,MISS Hart 26' 3PT Pullup Jump Shot,65-58,65,58
+0021900275,2019-11-29,OKC,NOP,26.52,3,9,29,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:4),,65-58,65,58
+0021900275,2019-11-29,OKC,NOP,26.53,3,9,28,OKC,NOP,foul,2,False,False,,Hart S.FOUL (P1.T1) (R.Acosta),65-58,65,58
+0021900275,2019-11-29,OKC,NOP,26.53,3,9,28,OKC,OKC,ft_make,11,False,False,Gallinari Free Throw 1 of 2 (13 PTS),,66-58,66,58
+0021900275,2019-11-29,OKC,NOP,26.53,3,9,28,OKC,OKC,ft_make,12,False,False,Gallinari Free Throw 2 of 2 (14 PTS),,67-58,67,58
+0021900275,2019-11-29,OKC,NOP,26.73,3,9,16,NOP,NOP,fg_make,79,False,False,,Redick 15' Pullup Jump Shot (10 PTS) (Holiday 4 AST),67-60,67,60
+0021900275,2019-11-29,OKC,NOP,26.88,3,9,7,OKC,OKC,fg3_miss,80,False,False,MISS Paul 26' 3PT Step Back Jump Shot,,67-60,67,60
+0021900275,2019-11-29,OKC,NOP,26.93,3,9,4,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:4),67-60,67,60
+0021900275,2019-11-29,OKC,NOP,27.03,3,8,58,NOP,OKC,foul,1,False,False,Ferguson P.FOUL (P1.T3) (R.Acosta),,67-60,67,60
+0021900275,2019-11-29,OKC,NOP,27.22,3,8,47,NOP,OKC,foul,2,False,False,Paul S.FOUL (P3.T4) (J.Goble),,67-60,67,60
+0021900275,2019-11-29,OKC,NOP,27.22,3,8,47,NOP,NOP,ft_miss,11,False,False,,MISS Ingram Free Throw 1 of 2,67-60,67,60
+0021900275,2019-11-29,OKC,NOP,27.22,3,8,47,NOP,NOP,reb,1,False,False,,Pelicans Rebound,67-60,67,60
+0021900275,2019-11-29,OKC,NOP,27.22,3,8,47,NOP,NOP,ft_make,12,False,False,,Ingram Free Throw 2 of 2 (18 PTS),67-61,67,61
+0021900275,2019-11-29,OKC,NOP,27.53,3,8,28,OKC,OKC,fg_make,78,False,False,Gilgeous-Alexander 10' Floating Jump Shot (7 PTS),,69-61,69,61
+0021900275,2019-11-29,OKC,NOP,27.78,3,8,13,NOP,NOP,fg_make,78,False,False,,Okafor 6' Floating Jump Shot (10 PTS),69-63,69,63
+0021900275,2019-11-29,OKC,NOP,27.95,3,8,3,OKC,OKC,fg_miss,79,False,False,MISS Gilgeous-Alexander 17' Pullup Jump Shot,,69-63,69,63
+0021900275,2019-11-29,OKC,NOP,27.98,3,8,1,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:0 Def:1),69-63,69,63
+0021900275,2019-11-29,OKC,NOP,28.03,3,7,58,NOP,OKC,foul,2,False,False,Gilgeous-Alexander S.FOUL (P3.PN) (K.Mauer),,69-63,69,63
+0021900275,2019-11-29,OKC,NOP,28.03,3,7,58,NOP,NOP,ft_make,11,False,False,,Hart Free Throw 1 of 2 (1 PTS),69-64,69,64
+0021900275,2019-11-29,OKC,NOP,28.03,3,7,58,NOP,NOP,ft_make,12,False,False,,Hart Free Throw 2 of 2 (2 PTS),69-65,69,65
+0021900275,2019-11-29,OKC,NOP,28.32,3,7,41,OKC,OKC,fg3_miss,1,False,False,MISS Gilgeous-Alexander 27' 3PT Jump Shot,,69-65,69,65
+0021900275,2019-11-29,OKC,NOP,28.37,3,7,38,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:5),69-65,69,65
+0021900275,2019-11-29,OKC,NOP,28.6,3,7,24,NOP,NOP,fg_make,75,False,False,,Ingram 1' Driving Finger Roll Layup (20 PTS),69-67,69,67
+0021900275,2019-11-29,OKC,NOP,28.87,3,7,8,OKC,OKC,tov,2,False,True,Gallinari Lost Ball Turnover (P1.T7),,69-67,69,67
+0021900275,2019-11-29,OKC,NOP,28.87,3,7,8,OKC,NOP,steal,2,False,True,steal,steal,69-67,69,67
+0021900275,2019-11-29,OKC,NOP,28.98,3,7,1,NOP,NOP,fg3_make,1,False,False,,Hart 26' 3PT Jump Shot (5 PTS) (Redick 3 AST),69-70,69,70
+0021900275,2019-11-29,OKC,NOP,28.98,3,7,1,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 3 Short 0),,69-70,69,70
+0021900275,2019-11-29,OKC,NOP,29.28,3,6,43,OKC,NOP,foul,2,False,False,,Okafor S.FOUL (P3.T2) (J.Goble),69-70,69,70
+0021900275,2019-11-29,OKC,NOP,29.28,3,6,43,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.4 Short 0),69-70,69,70
+0021900275,2019-11-29,OKC,NOP,29.28,3,6,43,OKC,OKC,ft_miss,11,False,False,MISS Noel Free Throw 1 of 2,,69-70,69,70
+0021900275,2019-11-29,OKC,NOP,29.28,3,6,43,OKC,OKC,reb,1,False,False,THUNDER Rebound,,69-70,69,70
+0021900275,2019-11-29,OKC,NOP,29.28,3,6,43,OKC,OKC,ft_make,12,False,False,Noel Free Throw 2 of 2 (6 PTS),,70-70,70,70
+0021900275,2019-11-29,OKC,NOP,29.48,3,6,31,NOP,NOP,fg3_miss,1,False,False,,MISS Redick 27' 3PT Jump Shot,70-70,70,70
+0021900275,2019-11-29,OKC,NOP,29.52,3,6,29,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:3),,70-70,70,70
+0021900275,2019-11-29,OKC,NOP,29.6,3,6,24,OKC,OKC,fg3_miss,103,False,False,MISS Paul 28' 3PT Running Pull-Up Jump Shot,,70-70,70,70
+0021900275,2019-11-29,OKC,NOP,29.65,3,6,21,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:6),70-70,70,70
+0021900275,2019-11-29,OKC,NOP,29.72,3,6,17,NOP,OKC,foul,1,False,False,Ferguson P.FOUL (P2.PN) (J.Goble),,70-70,70,70
+0021900275,2019-11-29,OKC,NOP,29.72,3,6,17,NOP,NOP,ft_make,11,False,False,,Hart Free Throw 1 of 2 (6 PTS),70-71,70,71
+0021900275,2019-11-29,OKC,NOP,29.72,3,6,17,NOP,NOP,ft_miss,12,False,False,,MISS Hart Free Throw 2 of 2,70-71,70,71
+0021900275,2019-11-29,OKC,NOP,29.75,3,6,15,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:4),,70-71,70,71
+0021900275,2019-11-29,OKC,NOP,29.9,3,6,6,OKC,NOP,foul,1,False,False,,Ingram P.FOUL (P1.T3) (K.Mauer),70-71,70,71
+0021900275,2019-11-29,OKC,NOP,30.03,3,5,58,OKC,OKC,tov,1,False,True,Schroder Bad Pass Turnover (P3.T8),,70-71,70,71
+0021900275,2019-11-29,OKC,NOP,30.03,3,5,58,OKC,NOP,steal,1,False,True,steal,steal,70-71,70,71
+0021900275,2019-11-29,OKC,NOP,30.13,3,5,52,NOP,NOP,fg3_make,1,False,False,,Redick 24' 3PT Jump Shot (13 PTS) (Hart 2 AST),70-74,70,74
+0021900275,2019-11-29,OKC,NOP,30.4,3,5,36,OKC,OKC,fg_miss,6,False,False,MISS Schroder 2' Driving Layup,,70-74,70,74
+0021900275,2019-11-29,OKC,NOP,30.43,3,5,34,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:5),70-74,70,74
+0021900275,2019-11-29,OKC,NOP,30.73,3,5,16,NOP,NOP,tov,45,False,False,,Hart Out of Bounds - Bad Pass Turnover Turnover (P3.T11),70-74,70,74
+0021900275,2019-11-29,OKC,NOP,30.88,3,5,7,OKC,OKC,fg_make,75,False,False,Paul 2' Driving Finger Roll Layup (5 PTS) (Gallinari 5 AST),,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.17,3,4,50,NOP,NOP,fg_miss,101,False,False,,MISS Moore 8' Driving Floating Jump Shot,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.23,3,4,46,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:5 Def:1),72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.23,3,4,46,NOP,NOP,fg_miss,97,False,False,,MISS Hayes 1' Tip Layup Shot,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.23,3,4,46,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:5),,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.6,3,4,24,OKC,OKC,tov,2,False,True,Gallinari Lost Ball Turnover (P2.T9),,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.6,3,4,24,OKC,NOP,steal,2,False,True,steal,steal,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.7,3,4,18,NOP,OKC,foul,1,False,False,Paul P.FOUL (P4.PN) (J.Goble),,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.7,3,4,18,NOP,NOP,ft_miss,11,False,False,,MISS Hayes Free Throw 1 of 2,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.7,3,4,18,NOP,NOP,reb,1,False,False,,Pelicans Rebound,72-74,72,74
+0021900275,2019-11-29,OKC,NOP,31.7,3,4,18,NOP,NOP,ft_make,12,False,False,,Hayes Free Throw 2 of 2 (11 PTS),72-75,72,75
+0021900275,2019-11-29,OKC,NOP,31.9,3,4,6,OKC,OKC,fg_miss,101,False,False,MISS Schroder 7' Driving Floating Jump Shot,,72-75,72,75
+0021900275,2019-11-29,OKC,NOP,31.9,3,4,6,NOP,NOP,reb,0,False,False,,Pelicans Rebound,72-75,72,75
+0021900275,2019-11-29,OKC,NOP,31.9,3,4,6,NOP,OKC,foul,3,False,False,Adams L.B.FOUL (P2.PN) (R.Acosta),,72-75,72,75
+0021900275,2019-11-29,OKC,NOP,31.9,3,4,6,NOP,NOP,ft_make,11,False,False,,Moore Free Throw 1 of 2 (4 PTS),72-76,72,76
+0021900275,2019-11-29,OKC,NOP,31.9,3,4,6,NOP,NOP,ft_make,12,False,False,,Moore Free Throw 2 of 2 (5 PTS),72-77,72,77
+0021900275,2019-11-29,OKC,NOP,32.17,3,3,50,OKC,OKC,fg3_make,1,False,False,Gallinari 26' 3PT Jump Shot (17 PTS) (Schroder 4 AST),,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,32.45,3,3,33,NOP,NOP,fg_miss,6,False,False,,MISS Holiday 4' Driving Layup,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,32.5,3,3,30,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:6),,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,32.68,3,3,19,OKC,OKC,tov,1,False,True,Gilgeous-Alexander Bad Pass Turnover (P3.T10),,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,32.68,3,3,19,OKC,NOP,steal,1,False,True,steal,steal,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,32.9,3,3,6,NOP,NOP,fg3_miss,1,False,False,,MISS Ingram 25' 3PT Jump Shot,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,32.97,3,3,2,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:2),,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,33.3,3,2,42,OKC,OKC,fg_miss,3,False,False,MISS Gallinari 12' Hook Shot,,75-77,75,77
+0021900275,2019-11-29,OKC,NOP,33.33,3,2,40,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:5 Def:2),75-77,75,77
+0021900275,2019-11-29,OKC,NOP,33.6,3,2,24,NOP,NOP,fg_make,75,False,False,,Ingram 1' Driving Finger Roll Layup (22 PTS),75-79,75,79
+0021900275,2019-11-29,OKC,NOP,33.6,3,2,24,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,75-79,75,79
+0021900275,2019-11-29,OKC,NOP,33.83,3,2,10,OKC,OKC,fg_make,79,False,False,Schroder 19' Pullup Jump Shot (11 PTS) (Adams 1 AST),,77-79,77,79
+0021900275,2019-11-29,OKC,NOP,34.12,3,1,53,NOP,NOP,fg3_miss,1,False,False,,MISS Hart 26' 3PT Jump Shot,77-79,77,79
+0021900275,2019-11-29,OKC,NOP,34.17,3,1,50,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:5),,77-79,77,79
+0021900275,2019-11-29,OKC,NOP,34.27,3,1,44,OKC,OKC,fg3_miss,79,False,False,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,,77-79,77,79
+0021900275,2019-11-29,OKC,NOP,34.33,3,1,40,NOP,NOP,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),77-79,77,79
+0021900275,2019-11-29,OKC,NOP,34.52,3,1,29,NOP,NOP,fg3_make,80,False,False,,Moore 26' 3PT Step Back Jump Shot (8 PTS) (Holiday 5 AST),77-82,77,82
+0021900275,2019-11-29,OKC,NOP,34.77,3,1,14,OKC,OKC,tov,4,False,False,Gilgeous-Alexander Traveling Turnover (P4.T11),,77-82,77,82
+0021900275,2019-11-29,OKC,NOP,34.92,3,1,5,NOP,NOP,fg3_miss,1,False,False,,MISS Holiday 25' 3PT Jump Shot,77-82,77,82
+0021900275,2019-11-29,OKC,NOP,34.97,3,1,2,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:6),,77-82,77,82
+0021900275,2019-11-29,OKC,NOP,35.1,3,0,54,OKC,OKC,fg_make,98,False,False,Schroder 4' Cutting Layup Shot (13 PTS) (Adams 2 AST),,79-82,79,82
+0021900275,2019-11-29,OKC,NOP,35.25,3,0,45,NOP,NOP,tov,1,False,True,,Holiday Bad Pass Turnover (P3.T12),79-82,79,82
+0021900275,2019-11-29,OKC,NOP,35.25,3,0,45,NOP,OKC,steal,1,False,True,steal,steal,79-82,79,82
+0021900275,2019-11-29,OKC,NOP,35.35,3,0,39,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,79-82,79,82
+0021900275,2019-11-29,OKC,NOP,35.43,3,0,34,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:4),79-82,79,82
+0021900275,2019-11-29,OKC,NOP,35.5,3,0,30,NOP,NOP,fg_make,5,False,False,,Moore 1' Layup (10 PTS) (Okafor 2 AST),79-84,79,84
+0021900275,2019-11-29,OKC,NOP,35.78,3,0,13,OKC,OKC,fg_miss,80,False,False,MISS Nader 18' Step Back Jump Shot,,79-84,79,84
+0021900275,2019-11-29,OKC,NOP,35.85,3,0,9,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:6),79-84,79,84
+0021900275,2019-11-29,OKC,NOP,36.0,3,0,0,NOP,NOP,fg_miss,6,True,False,,MISS Holiday 1' Driving Layup,79-84,79,84
+0021900275,2019-11-29,OKC,NOP,36.0,3,0,0,NOP,OKC,block,6,True,False,block,block,79-84,79,84
+0021900275,2019-11-29,OKC,NOP,36.0,3,0,0,NOP,NOP,reb,0,False,False,,Pelicans Rebound,79-84,79,84
+0021900275,2019-11-29,OKC,NOP,36.0,3,0,0,NOP,,period_end,0,False,False,,,79-84,79,84
+0021900275,2019-11-29,OKC,NOP,36.0,4,12,0,NOP,,period_start,0,False,False,,,79-84,79,84
+0021900275,2019-11-29,OKC,NOP,36.3,4,11,42,OKC,OKC,fg3_make,1,False,False,Schroder 26' 3PT Jump Shot (16 PTS) (Gilgeous-Alexander 1 AST),,82-84,82,84
+0021900275,2019-11-29,OKC,NOP,36.63,4,11,22,NOP,NOP,fg_make,5,False,False,,Okafor 1' Layup (12 PTS),82-86,82,86
+0021900275,2019-11-29,OKC,NOP,36.9,4,11,6,OKC,OKC,fg_make,101,False,False,Gilgeous-Alexander 6' Driving Floating Jump Shot (9 PTS) (Schroder 5 AST),,84-86,84,86
+0021900275,2019-11-29,OKC,NOP,36.9,4,11,6,OKC,NOP,foul,2,False,False,,Hart S.FOUL (P2.T1) (R.Acosta),84-86,84,86
+0021900275,2019-11-29,OKC,NOP,36.9,4,11,6,OKC,OKC,ft_miss,10,False,False,MISS Gilgeous-Alexander Free Throw 1 of 1,,84-86,84,86
+0021900275,2019-11-29,OKC,NOP,36.95,4,11,3,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:7),84-86,84,86
+0021900275,2019-11-29,OKC,NOP,37.08,4,10,55,NOP,NOP,fg3_make,1,False,False,,Hart 26' 3PT Jump Shot (9 PTS) (Jackson 1 AST),84-89,84,89
+0021900275,2019-11-29,OKC,NOP,37.38,4,10,37,OKC,OKC,fg_miss,75,False,False,MISS Bazley 3' Driving Finger Roll Layup,,84-89,84,89
+0021900275,2019-11-29,OKC,NOP,37.38,4,10,37,NOP,NOP,reb,0,False,False,,Pelicans Rebound,84-89,84,89
+0021900275,2019-11-29,OKC,NOP,37.38,4,10,37,NOP,OKC,foul,3,False,False,Bazley L.B.FOUL (P1.T1) (K.Mauer),,84-89,84,89
+0021900275,2019-11-29,OKC,NOP,37.73,4,10,16,NOP,NOP,fg_miss,3,False,False,,MISS Okafor 5' Hook Shot,84-89,84,89
+0021900275,2019-11-29,OKC,NOP,37.77,4,10,14,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:5),,84-89,84,89
+0021900275,2019-11-29,OKC,NOP,37.92,4,10,5,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,84-89,84,89
+0021900275,2019-11-29,OKC,NOP,37.98,4,10,1,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:0 Def:2),84-89,84,89
+0021900275,2019-11-29,OKC,NOP,38.12,4,9,53,NOP,NOP,fg3_make,79,False,False,,Moore 25' 3PT Pullup Jump Shot (13 PTS) (Okafor 3 AST),84-92,84,92
+0021900275,2019-11-29,OKC,NOP,38.45,4,9,33,OKC,OKC,fg3_miss,79,True,False,MISS Schroder 27' 3PT Pullup Jump Shot,,84-92,84,92
+0021900275,2019-11-29,OKC,NOP,38.45,4,9,33,OKC,NOP,block,79,True,False,block,block,84-92,84,92
+0021900275,2019-11-29,OKC,NOP,38.5,4,9,30,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:1 Def:3),84-92,84,92
+0021900275,2019-11-29,OKC,NOP,38.53,4,9,28,NOP,NOP,fg3_miss,1,False,False,,MISS Moore 26' 3PT Jump Shot,84-92,84,92
+0021900275,2019-11-29,OKC,NOP,38.6,4,9,24,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:1),,84-92,84,92
+0021900275,2019-11-29,OKC,NOP,38.78,4,9,13,OKC,OKC,fg_make,98,False,False,Noel 2' Cutting Layup Shot (8 PTS) (Nader 1 AST),,86-92,86,92
+0021900275,2019-11-29,OKC,NOP,38.98,4,9,1,NOP,OKC,foul,2,False,False,Noel S.FOUL (P2.T2) (R.Acosta),,86-92,86,92
+0021900275,2019-11-29,OKC,NOP,38.98,4,9,1,NOP,NOP,ft_miss,11,False,False,,MISS Hart Free Throw 1 of 2,86-92,86,92
+0021900275,2019-11-29,OKC,NOP,38.98,4,9,1,NOP,NOP,reb,1,False,False,,Pelicans Rebound,86-92,86,92
+0021900275,2019-11-29,OKC,NOP,38.98,4,9,1,NOP,NOP,ft_make,12,False,False,,Hart Free Throw 2 of 2 (10 PTS),86-93,86,93
+0021900275,2019-11-29,OKC,NOP,39.2,4,8,48,OKC,OKC,fg3_make,1,False,False,Nader 26' 3PT Jump Shot (16 PTS) (Gilgeous-Alexander 2 AST),,89-93,89,93
+0021900275,2019-11-29,OKC,NOP,39.42,4,8,35,NOP,NOP,tov,1,False,True,,Jackson Bad Pass Turnover (P1.T13),89-93,89,93
+0021900275,2019-11-29,OKC,NOP,39.42,4,8,35,NOP,OKC,steal,1,False,True,steal,steal,89-93,89,93
+0021900275,2019-11-29,OKC,NOP,39.52,4,8,29,OKC,OKC,fg_make,75,False,False,Schroder 3' Driving Finger Roll Layup (18 PTS) (Gilgeous-Alexander 3 AST),,91-93,91,93
+0021900275,2019-11-29,OKC,NOP,39.88,4,8,7,NOP,OKC,foul,1,False,False,Burton P.FOUL (P2.T3) (K.Mauer),,91-93,91,93
+0021900275,2019-11-29,OKC,NOP,40.13,4,7,52,NOP,NOP,tov,1,False,True,,Ingram Bad Pass Turnover (P2.T14),91-93,91,93
+0021900275,2019-11-29,OKC,NOP,40.13,4,7,52,NOP,OKC,steal,1,False,True,steal,steal,91-93,91,93
+0021900275,2019-11-29,OKC,NOP,40.28,4,7,43,OKC,OKC,fg_make,79,False,False,Schroder 21' Pullup Jump Shot (20 PTS),,93-93,93,93
+0021900275,2019-11-29,OKC,NOP,40.53,4,7,28,NOP,NOP,fg_miss,98,True,False,,MISS Redick 5' Cutting Layup Shot,93-93,93,93
+0021900275,2019-11-29,OKC,NOP,40.53,4,7,28,NOP,OKC,block,98,True,False,block,block,93-93,93,93
+0021900275,2019-11-29,OKC,NOP,40.57,4,7,26,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:0 Def:3),,93-93,93,93
+0021900275,2019-11-29,OKC,NOP,40.7,4,7,18,OKC,NOP,foul,1,False,False,,Redick P.FOUL (P2.T2) (J.Goble),93-93,93,93
+0021900275,2019-11-29,OKC,NOP,40.7,4,7,18,OKC,NOP,foul,11,False,False,,Redick T.FOUL (P2.T2) (J.Goble),93-93,93,93
+0021900275,2019-11-29,OKC,NOP,40.7,4,7,18,OKC,OKC,ft_make,16,False,False,Gilgeous-Alexander Free Throw Technical (10 PTS),,94-93,94,93
+0021900275,2019-11-29,OKC,NOP,40.7,4,7,18,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 5 Short 0),,94-93,94,93
+0021900275,2019-11-29,OKC,NOP,40.82,4,7,11,OKC,OKC,fg3_make,1,False,False,Nader 28' 3PT Jump Shot (19 PTS) (Schroder 6 AST),,97-93,97,93
+0021900275,2019-11-29,OKC,NOP,41.15,4,6,51,NOP,NOP,fg_make,108,False,False,,Okafor 1' Cutting Dunk Shot (14 PTS) (Ingram 4 AST),97-95,97,95
+0021900275,2019-11-29,OKC,NOP,41.42,4,6,35,OKC,OKC,fg3_miss,79,False,False,MISS Gilgeous-Alexander 29' 3PT Pullup Jump Shot,,97-95,97,95
+0021900275,2019-11-29,OKC,NOP,41.47,4,6,32,NOP,NOP,reb,0,False,False,,Redick REBOUND (Off:0 Def:4),97-95,97,95
+0021900275,2019-11-29,OKC,NOP,41.58,4,6,25,NOP,NOP,fg_make,75,False,False,,Holiday 2' Driving Finger Roll Layup (14 PTS),97-97,97,97
+0021900275,2019-11-29,OKC,NOP,41.95,4,6,3,OKC,OKC,fg3_make,1,False,False,Schroder 28' 3PT Jump Shot (23 PTS) (Nader 2 AST),,100-97,100,97
+0021900275,2019-11-29,OKC,NOP,42.4,4,5,36,NOP,NOP,fg_make,63,False,False,,Ingram 11' Fadeaway Jumper (24 PTS),100-99,100,99
+0021900275,2019-11-29,OKC,NOP,42.72,4,5,17,OKC,OKC,fg_miss,75,False,False,MISS Schroder 3' Driving Finger Roll Layup,,100-99,100,99
+0021900275,2019-11-29,OKC,NOP,42.75,4,5,15,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:0 Def:3),100-99,100,99
+0021900275,2019-11-29,OKC,NOP,42.82,4,5,11,NOP,NOP,fg3_make,1,False,False,,Redick 24' 3PT Jump Shot (16 PTS) (Holiday 6 AST),100-102,100,102
+0021900275,2019-11-29,OKC,NOP,43.17,4,4,50,OKC,OKC,fg_miss,6,False,False,MISS Nader 7' Driving Layup,,100-102,100,102
+0021900275,2019-11-29,OKC,NOP,43.18,4,4,49,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:5),100-102,100,102
+0021900275,2019-11-29,OKC,NOP,43.53,4,4,28,NOP,NOP,fg3_miss,1,False,False,,MISS Hart 24' 3PT Jump Shot,100-102,100,102
+0021900275,2019-11-29,OKC,NOP,43.58,4,4,25,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:6),,100-102,100,102
+0021900275,2019-11-29,OKC,NOP,43.65,4,4,21,OKC,NOP,foul,2,False,False,,Ingram S.FOUL (P2.T3) (K.Mauer),100-102,100,102
+0021900275,2019-11-29,OKC,NOP,43.65,4,4,21,OKC,OKC,ft_make,11,False,False,Burton Free Throw 1 of 2 (1 PTS),,101-102,101,102
+0021900275,2019-11-29,OKC,NOP,43.65,4,4,21,OKC,OKC,ft_miss,12,False,False,MISS Burton Free Throw 2 of 2,,101-102,101,102
+0021900275,2019-11-29,OKC,NOP,43.68,4,4,19,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:6),101-102,101,102
+0021900275,2019-11-29,OKC,NOP,43.92,4,4,5,NOP,NOP,fg3_miss,1,False,False,,MISS Redick 25' 3PT Jump Shot,101-102,101,102
+0021900275,2019-11-29,OKC,NOP,43.98,4,4,1,OKC,OKC,reb,0,False,False,Burton REBOUND (Off:1 Def:1),,101-102,101,102
+0021900275,2019-11-29,OKC,NOP,44.17,4,3,50,OKC,OKC,fg_make,79,False,False,Schroder 21' Pullup Jump Shot (25 PTS),,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.38,4,3,37,NOP,NOP,fg_miss,79,False,False,,MISS Redick 14' Pullup Jump Shot,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.43,4,3,34,OKC,OKC,reb,0,False,False,Burton REBOUND (Off:1 Def:2),,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.55,4,3,27,OKC,OKC,fg_miss,79,True,False,MISS Schroder 19' Pullup Jump Shot,,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.55,4,3,27,OKC,NOP,block,79,True,False,block,block,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.57,4,3,26,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:0 Def:4),103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.63,4,3,22,NOP,NOP,fg_miss,41,True,False,,MISS Holiday 3' Running Layup,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.63,4,3,22,NOP,OKC,block,41,True,False,block,block,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.63,4,3,22,OKC,OKC,reb,0,False,False,THUNDER Rebound,,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.8,4,3,12,OKC,OKC,fg_miss,78,False,False,MISS Adams 9' Floating Jump Shot,,103-102,103,102
+0021900275,2019-11-29,OKC,NOP,44.87,4,3,8,NOP,NOP,reb,0,False,False,,Redick REBOUND (Off:0 Def:5),103-102,103,102
+0021900275,2019-11-29,OKC,NOP,45.2,4,2,48,NOP,NOP,fg_make,6,False,False,,Ingram 1' Driving Layup (26 PTS),103-104,103,104
+0021900275,2019-11-29,OKC,NOP,45.48,4,2,31,OKC,OKC,fg_miss,101,False,False,MISS Schroder 15' Driving Floating Jump Shot,,103-104,103,104
+0021900275,2019-11-29,OKC,NOP,45.53,4,2,28,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:7),103-104,103,104
+0021900275,2019-11-29,OKC,NOP,45.9,4,2,6,NOP,NOP,fg3_miss,1,False,False,,MISS Moore 25' 3PT Jump Shot,103-104,103,104
+0021900275,2019-11-29,OKC,NOP,45.97,4,2,2,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:6),,103-104,103,104
+0021900275,2019-11-29,OKC,NOP,46.03,4,1,58,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 29' 3PT Jump Shot,,103-104,103,104
+0021900275,2019-11-29,OKC,NOP,46.08,4,1,55,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:7),103-104,103,104
+0021900275,2019-11-29,OKC,NOP,46.15,4,1,51,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.5 Short 0),103-104,103,104
+0021900275,2019-11-29,OKC,NOP,46.28,4,1,43,NOP,NOP,fg_miss,101,True,False,,MISS Holiday 13' Driving Floating Jump Shot,103-104,103,104
+0021900275,2019-11-29,OKC,NOP,46.28,4,1,43,NOP,OKC,block,101,True,False,block,block,103-104,103,104
+0021900275,2019-11-29,OKC,NOP,46.33,4,1,40,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:7),,103-104,103,104
+0021900275,2019-11-29,OKC,NOP,46.6,4,1,24,OKC,OKC,fg_make,78,False,False,Paul 6' Floating Jump Shot (7 PTS),,105-104,105,104
+0021900275,2019-11-29,OKC,NOP,46.8,4,1,12,NOP,NOP,fg3_miss,1,False,False,,MISS Redick 26' 3PT Jump Shot,105-104,105,104
+0021900275,2019-11-29,OKC,NOP,46.83,4,1,10,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:8),,105-104,105,104
+0021900275,2019-11-29,OKC,NOP,47.08,4,0,55,OKC,OKC,fg_miss,79,False,False,MISS Paul 15' Pullup Jump Shot,,105-104,105,104
+0021900275,2019-11-29,OKC,NOP,47.12,4,0,53,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:3 Def:8),,105-104,105,104
+0021900275,2019-11-29,OKC,NOP,47.12,4,0,53,OKC,OKC,fg_make,97,False,False,Adams 1' Tip Layup Shot (12 PTS),,107-104,107,104
+0021900275,2019-11-29,OKC,NOP,47.38,4,0,37,NOP,NOP,fg3_miss,1,False,False,,MISS Ingram 27' 3PT Jump Shot,107-104,107,104
+0021900275,2019-11-29,OKC,NOP,47.43,4,0,34,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:3 Def:9),,107-104,107,104
+0021900275,2019-11-29,OKC,NOP,47.75,4,0,15,OKC,OKC,fg_make,108,False,False,Adams 2' Cutting Dunk Shot (14 PTS) (Schroder 7 AST),,109-104,109,104
+0021900275,2019-11-29,OKC,NOP,47.75,4,0,15,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.6 Short 0),109-104,109,104
+0021900275,2019-11-29,OKC,NOP,47.82,4,0,11,NOP,NOP,fg3_miss,80,False,False,,MISS Redick 27' 3PT Step Back Jump Shot,109-104,109,104
+0021900275,2019-11-29,OKC,NOP,47.88,4,0,7,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:1 Def:7),109-104,109,104
+0021900275,2019-11-29,OKC,NOP,47.9,4,0,6,NOP,NOP,fg3_miss,1,False,False,,MISS Redick 25' 3PT Jump Shot,109-104,109,104
+0021900275,2019-11-29,OKC,NOP,47.9,4,0,6,OKC,OKC,reb,0,False,False,THUNDER Rebound,,109-104,109,104
+0021900275,2019-11-29,OKC,NOP,48.0,4,0,0,OKC,,period_end,0,False,False,,,109-104,109,104

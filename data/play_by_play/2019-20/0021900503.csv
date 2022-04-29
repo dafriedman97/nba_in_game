@@ -1,0 +1,476 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900503,2019-12-31,OKC,DAL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.0,1,12,0,,OKC,jump_ball,0,False,False,Jump Ball Adams vs. Powell: Tip to Gilgeous-Alexander,,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.23,1,11,46,OKC,OKC,fg_miss,58,False,False,MISS Adams 4' Turnaround Hook Shot,,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.25,1,11,45,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:0),,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.28,1,11,43,OKC,OKC,fg_miss,87,False,False,MISS Adams 1' Putback Dunk,,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.32,1,11,41,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:0),,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.32,1,11,41,OKC,DAL,foul,2,False,False,,Doncic S.FOUL (P1.T1) (L.Holtkamp),0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.32,1,11,41,OKC,OKC,ft_miss,11,False,False,MISS Adams Free Throw 1 of 2,,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.32,1,11,41,OKC,OKC,reb,1,False,False,THUNDER Rebound,,0-0,0,0
+0021900503,2019-12-31,OKC,DAL,0.32,1,11,41,OKC,OKC,ft_make,12,False,False,Adams Free Throw 2 of 2 (1 PTS),,1-0,1,0
+0021900503,2019-12-31,OKC,DAL,0.65,1,11,21,DAL,OKC,foul,1,False,False,Ferguson P.FOUL (P1.T1) (L.Holtkamp),,1-0,1,0
+0021900503,2019-12-31,OKC,DAL,0.78,1,11,13,DAL,DAL,fg3_miss,1,False,False,,MISS Brunson 3PT Jump Shot,1-0,1,0
+0021900503,2019-12-31,OKC,DAL,0.82,1,11,11,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:1),,1-0,1,0
+0021900503,2019-12-31,OKC,DAL,0.97,1,11,2,OKC,OKC,tov,1,False,True,Gallinari Bad Pass Turnover (P1.T1),,1-0,1,0
+0021900503,2019-12-31,OKC,DAL,0.97,1,11,2,OKC,DAL,steal,1,False,True,steal,steal,1-0,1,0
+0021900503,2019-12-31,OKC,DAL,1.1,1,10,54,DAL,DAL,fg_make,102,False,False,,Doncic 4' Driving Floating Bank Jump Shot (2 PTS),1-2,1,2
+0021900503,2019-12-31,OKC,DAL,1.1,1,10,54,DAL,OKC,foul,2,False,False,Ferguson S.FOUL (P2.T2) (T.Ford),,1-2,1,2
+0021900503,2019-12-31,OKC,DAL,1.1,1,10,54,DAL,DAL,ft_make,10,False,False,,Doncic Free Throw 1 of 1 (3 PTS),1-3,1,3
+0021900503,2019-12-31,OKC,DAL,1.33,1,10,40,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 25' 3PT Jump Shot,,1-3,1,3
+0021900503,2019-12-31,OKC,DAL,1.4,1,10,36,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:0 Def:1),1-3,1,3
+0021900503,2019-12-31,OKC,DAL,1.62,1,10,23,DAL,DAL,fg_make,63,False,False,,Brunson 11' Fadeaway Jumper (2 PTS),1-5,1,5
+0021900503,2019-12-31,OKC,DAL,1.93,1,10,4,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 27' 3PT Jump Shot,,1-5,1,5
+0021900503,2019-12-31,OKC,DAL,1.98,1,10,1,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:1),1-5,1,5
+0021900503,2019-12-31,OKC,DAL,2.13,1,9,52,DAL,DAL,fg_miss,6,True,False,,MISS Finney-Smith 8' Driving Layup,1-5,1,5
+0021900503,2019-12-31,OKC,DAL,2.13,1,9,52,DAL,OKC,block,6,True,False,block,block,1-5,1,5
+0021900503,2019-12-31,OKC,DAL,2.17,1,9,50,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:1),,1-5,1,5
+0021900503,2019-12-31,OKC,DAL,2.42,1,9,35,OKC,OKC,fg_miss,6,True,False,MISS Gilgeous-Alexander 2' Driving Layup,,1-5,1,5
+0021900503,2019-12-31,OKC,DAL,2.42,1,9,35,OKC,DAL,block,6,True,False,block,block,1-5,1,5
+0021900503,2019-12-31,OKC,DAL,2.42,1,9,35,OKC,OKC,reb,0,False,False,THUNDER Rebound,,1-5,1,5
+0021900503,2019-12-31,OKC,DAL,2.57,1,9,26,OKC,OKC,fg_make,63,False,False,Gallinari 13' Fadeaway Jumper (2 PTS),,3-5,3,5
+0021900503,2019-12-31,OKC,DAL,2.77,1,9,14,DAL,DAL,fg3_miss,80,False,False,,MISS Doncic 25' 3PT Step Back Jump Shot,3-5,3,5
+0021900503,2019-12-31,OKC,DAL,2.82,1,9,11,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:1),,3-5,3,5
+0021900503,2019-12-31,OKC,DAL,2.95,1,9,3,OKC,OKC,tov,45,False,False,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,3-5,3,5
+0021900503,2019-12-31,OKC,DAL,3.27,1,8,44,DAL,DAL,fg_miss,101,False,False,,MISS Doncic 11' Driving Floating Jump Shot,3-5,3,5
+0021900503,2019-12-31,OKC,DAL,3.35,1,8,39,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:2),,3-5,3,5
+0021900503,2019-12-31,OKC,DAL,3.6,1,8,24,OKC,OKC,fg_make,5,False,False,Adams 2' Layup (3 PTS),,5-5,5,5
+0021900503,2019-12-31,OKC,DAL,3.98,1,8,1,DAL,DAL,fg3_make,1,False,False,,Finney-Smith 26' 3PT Jump Shot (3 PTS) (Powell 1 AST),5-8,5,8
+0021900503,2019-12-31,OKC,DAL,4.28,1,7,43,OKC,OKC,fg_make,108,False,False,Adams 1' Cutting Dunk Shot (5 PTS) (Gallinari 1 AST),,7-8,7,8
+0021900503,2019-12-31,OKC,DAL,4.52,1,7,29,DAL,DAL,tov,1,False,True,,Brunson Bad Pass Turnover (P1.T1),7-8,7,8
+0021900503,2019-12-31,OKC,DAL,4.52,1,7,29,DAL,OKC,steal,1,False,True,steal,steal,7-8,7,8
+0021900503,2019-12-31,OKC,DAL,4.78,1,7,13,OKC,OKC,fg3_miss,1,False,False,MISS Ferguson 3PT Jump Shot,,7-8,7,8
+0021900503,2019-12-31,OKC,DAL,4.85,1,7,9,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:2),7-8,7,8
+0021900503,2019-12-31,OKC,DAL,4.95,1,7,3,DAL,DAL,fg_make,75,False,False,,Doncic 2' Driving Finger Roll Layup (5 PTS),7-10,7,10
+0021900503,2019-12-31,OKC,DAL,4.95,1,7,3,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,7-10,7,10
+0021900503,2019-12-31,OKC,DAL,5.27,1,6,44,OKC,OKC,fg_make,1,False,False,Gallinari 9' Jump Shot (4 PTS) (Gilgeous-Alexander 1 AST),,9-10,9,10
+0021900503,2019-12-31,OKC,DAL,5.48,1,6,31,DAL,DAL,fg_miss,52,False,False,,MISS Finney-Smith 1' Alley Oop Dunk,9-10,9,10
+0021900503,2019-12-31,OKC,DAL,5.52,1,6,29,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:2),,9-10,9,10
+0021900503,2019-12-31,OKC,DAL,5.58,1,6,25,OKC,OKC,fg3_miss,1,False,False,MISS Gilgeous-Alexander 24' 3PT Jump Shot,,9-10,9,10
+0021900503,2019-12-31,OKC,DAL,5.65,1,6,21,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:0 Def:1),9-10,9,10
+0021900503,2019-12-31,OKC,DAL,5.77,1,6,14,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 3PT Jump Shot,9-10,9,10
+0021900503,2019-12-31,OKC,DAL,5.83,1,6,10,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:1 Def:1),9-10,9,10
+0021900503,2019-12-31,OKC,DAL,5.87,1,6,8,DAL,DAL,fg_make,72,False,False,,Marjanovic 2' Putback Layup (2 PTS),9-12,9,12
+0021900503,2019-12-31,OKC,DAL,6.05,1,5,57,OKC,OKC,fg_miss,63,False,False,MISS Paul 9' Fadeaway Jumper,,9-12,9,12
+0021900503,2019-12-31,OKC,DAL,6.07,1,5,56,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:0),,9-12,9,12
+0021900503,2019-12-31,OKC,DAL,6.08,1,5,55,OKC,OKC,fg_make,97,False,False,Noel 1' Tip Layup Shot (2 PTS),,11-12,11,12
+0021900503,2019-12-31,OKC,DAL,6.33,1,5,40,DAL,DAL,fg3_make,79,False,False,,Doncic 25' 3PT Pullup Jump Shot (8 PTS),11-15,11,15
+0021900503,2019-12-31,OKC,DAL,6.75,1,5,15,OKC,DAL,foul,2,False,False,,Marjanovic S.FOUL (P1.T2) (T.Ford),11-15,11,15
+0021900503,2019-12-31,OKC,DAL,6.75,1,5,15,OKC,OKC,ft_make,11,False,False,Gallinari Free Throw 1 of 2 (5 PTS),,12-15,12,15
+0021900503,2019-12-31,OKC,DAL,6.75,1,5,15,OKC,OKC,ft_miss,12,False,False,MISS Gallinari Free Throw 2 of 2,,12-15,12,15
+0021900503,2019-12-31,OKC,DAL,6.82,1,5,11,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:1),12-15,12,15
+0021900503,2019-12-31,OKC,DAL,6.9,1,5,6,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 25' 3PT Pullup Jump Shot,12-15,12,15
+0021900503,2019-12-31,OKC,DAL,6.92,1,5,5,OKC,OKC,reb,0,False,False,THUNDER Rebound,,12-15,12,15
+0021900503,2019-12-31,OKC,DAL,7.25,1,4,45,OKC,OKC,fg_make,101,False,False,Gilgeous-Alexander 6' Driving Floating Jump Shot (2 PTS),,14-15,14,15
+0021900503,2019-12-31,OKC,DAL,7.55,1,4,27,DAL,DAL,tov,4,False,False,,Finney-Smith Traveling Turnover (P1.T2),14-15,14,15
+0021900503,2019-12-31,OKC,DAL,7.77,1,4,14,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 8' Driving Layup,,14-15,14,15
+0021900503,2019-12-31,OKC,DAL,7.78,1,4,13,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:2 Def:0),,14-15,14,15
+0021900503,2019-12-31,OKC,DAL,7.78,1,4,13,OKC,OKC,fg_miss,97,False,False,MISS Noel 1' Tip Layup Shot,,14-15,14,15
+0021900503,2019-12-31,OKC,DAL,7.8,1,4,12,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:1 Def:2),14-15,14,15
+0021900503,2019-12-31,OKC,DAL,7.92,1,4,5,DAL,DAL,fg3_make,1,False,False,,Kleber 3PT Jump Shot (3 PTS) (Doncic 1 AST),14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.32,1,3,41,OKC,OKC,fg_miss,6,True,False,MISS Schroder 7' Driving Layup,,14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.32,1,3,41,OKC,DAL,block,6,True,False,block,block,14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.35,1,3,39,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:1 Def:0),,14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.37,1,3,38,OKC,OKC,fg_miss,5,False,False,MISS Diallo 4' Layup,,14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.4,1,3,36,OKC,OKC,reb,0,False,False,THUNDER Rebound,,14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.4,1,3,36,OKC,OKC,tov,11,False,False,THUNDER Turnover: Shot Clock (T#3),,14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.52,1,3,29,DAL,OKC,foul,2,False,False,Diallo S.FOUL (P1.T3) (L.Holtkamp),,14-18,14,18
+0021900503,2019-12-31,OKC,DAL,8.52,1,3,29,DAL,DAL,ft_make,11,False,False,,Doncic Free Throw 1 of 2 (9 PTS),14-19,14,19
+0021900503,2019-12-31,OKC,DAL,8.52,1,3,29,DAL,DAL,ft_make,12,False,False,,Doncic Free Throw 2 of 2 (10 PTS),14-20,14,20
+0021900503,2019-12-31,OKC,DAL,8.67,1,3,20,OKC,OKC,fg3_miss,1,False,False,MISS Bazley 26' 3PT Jump Shot,,14-20,14,20
+0021900503,2019-12-31,OKC,DAL,8.72,1,3,17,DAL,DAL,reb,0,False,False,,Wright REBOUND (Off:0 Def:1),14-20,14,20
+0021900503,2019-12-31,OKC,DAL,8.88,1,3,7,DAL,DAL,fg_miss,1,False,False,,MISS Marjanovic 7' Jump Shot,14-20,14,20
+0021900503,2019-12-31,OKC,DAL,8.92,1,3,5,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:1 Def:1),,14-20,14,20
+0021900503,2019-12-31,OKC,DAL,9.0,1,3,0,OKC,OKC,fg_make,79,False,False,Schroder 14' Pullup Jump Shot (2 PTS) (Gilgeous-Alexander 2 AST),,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.03,1,2,58,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.1 Short 0),16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.23,1,2,46,DAL,DAL,fg3_miss,1,False,False,,MISS Curry 25' 3PT Jump Shot,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.25,1,2,45,OKC,OKC,reb,0,False,False,THUNDER Rebound,,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.47,1,2,32,OKC,OKC,fg3_miss,1,False,False,MISS Bazley 25' 3PT Jump Shot,,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.55,1,2,27,DAL,DAL,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.63,1,2,22,DAL,DAL,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.65,1,2,21,DAL,DAL,reb,0,False,False,,Mavericks Rebound,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.65,1,2,21,DAL,OKC,foul,3,False,False,Adams L.B.FOUL (P1.T4) (J.Goble),,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.88,1,2,7,DAL,DAL,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.93,1,2,4,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:1 Def:2),,16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.95,1,2,3,OKC,DAL,foul,2,False,False,,Curry S.FOUL (P1.T3) (J.Goble),16-20,16,20
+0021900503,2019-12-31,OKC,DAL,9.95,1,2,3,OKC,OKC,ft_make,11,False,False,Bazley Free Throw 1 of 2 (1 PTS),,17-20,17,20
+0021900503,2019-12-31,OKC,DAL,9.95,1,2,3,OKC,OKC,ft_make,12,False,False,Bazley Free Throw 2 of 2 (2 PTS),,18-20,18,20
+0021900503,2019-12-31,OKC,DAL,10.32,1,1,41,DAL,DAL,fg_make,5,False,False,,Marjanovic 2' Layup (4 PTS) (Doncic 2 AST),18-22,18,22
+0021900503,2019-12-31,OKC,DAL,10.53,1,1,28,OKC,OKC,fg_miss,79,False,False,MISS Schroder 15' Pullup Jump Shot,,18-22,18,22
+0021900503,2019-12-31,OKC,DAL,10.57,1,1,26,DAL,DAL,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),18-22,18,22
+0021900503,2019-12-31,OKC,DAL,10.77,1,1,14,DAL,DAL,fg3_make,80,False,False,,Doncic 31' 3PT Step Back Jump Shot (13 PTS),18-25,18,25
+0021900503,2019-12-31,OKC,DAL,11.07,1,0,56,OKC,OKC,fg_make,78,False,False,Gilgeous-Alexander 15' Floating Jump Shot (4 PTS) (Adams 1 AST),,20-25,20,25
+0021900503,2019-12-31,OKC,DAL,11.23,1,0,46,DAL,DAL,fg_make,6,False,False,,Doncic 3' Driving Layup (15 PTS),20-27,20,27
+0021900503,2019-12-31,OKC,DAL,11.4,1,0,36,OKC,OKC,tov,1,False,True,Schroder Bad Pass Turnover (P1.T4),,20-27,20,27
+0021900503,2019-12-31,OKC,DAL,11.4,1,0,36,OKC,DAL,steal,1,False,True,steal,steal,20-27,20,27
+0021900503,2019-12-31,OKC,DAL,11.45,1,0,33,DAL,DAL,fg_make,41,False,False,,Wright 1' Running Layup (2 PTS) (Jackson 1 AST),20-29,20,29
+0021900503,2019-12-31,OKC,DAL,11.45,1,0,33,DAL,OKC,foul,2,False,False,Diallo S.FOUL (P2.PN) (J.Goble),,20-29,20,29
+0021900503,2019-12-31,OKC,DAL,11.45,1,0,33,DAL,DAL,ft_make,10,False,False,,Wright Free Throw 1 of 1 (3 PTS),20-30,20,30
+0021900503,2019-12-31,OKC,DAL,11.57,1,0,26,OKC,OKC,fg_miss,79,False,False,MISS Paul 14' Pullup Jump Shot,,20-30,20,30
+0021900503,2019-12-31,OKC,DAL,11.6,1,0,24,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:1 Def:3),20-30,20,30
+0021900503,2019-12-31,OKC,DAL,11.93,1,0,4,DAL,OKC,foul,2,False,False,Bazley S.FOUL (P1.PN) (L.Holtkamp),,20-30,20,30
+0021900503,2019-12-31,OKC,DAL,11.93,1,0,4,DAL,DAL,ft_miss,13,False,False,,MISS Doncic Free Throw 1 of 3,20-30,20,30
+0021900503,2019-12-31,OKC,DAL,11.93,1,0,4,DAL,DAL,reb,1,False,False,,Mavericks Rebound,20-30,20,30
+0021900503,2019-12-31,OKC,DAL,11.93,1,0,4,DAL,DAL,ft_make,14,False,False,,Doncic Free Throw 2 of 3 (16 PTS),20-31,20,31
+0021900503,2019-12-31,OKC,DAL,11.93,1,0,4,DAL,DAL,ft_make,15,False,False,,Doncic Free Throw 3 of 3 (17 PTS),20-32,20,32
+0021900503,2019-12-31,OKC,DAL,11.93,1,0,4,OKC,OKC,tov,45,False,False,Adams Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,20-32,20,32
+0021900503,2019-12-31,OKC,DAL,12.0,1,0,0,OKC,,period_end,0,False,False,,,20-32,20,32
+0021900503,2019-12-31,OKC,DAL,12.0,2,12,0,OKC,,period_start,0,False,False,,,20-32,20,32
+0021900503,2019-12-31,OKC,DAL,12.32,2,11,41,DAL,DAL,fg_miss,79,False,False,,MISS Curry 19' Pullup Jump Shot,20-32,20,32
+0021900503,2019-12-31,OKC,DAL,12.37,2,11,38,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:2),,20-32,20,32
+0021900503,2019-12-31,OKC,DAL,12.58,2,11,25,OKC,OKC,fg_make,78,False,False,Diallo 10' Floating Jump Shot (2 PTS) (Schroder 1 AST),,22-32,22,32
+0021900503,2019-12-31,OKC,DAL,12.82,2,11,11,DAL,DAL,fg_miss,101,False,False,,MISS Jackson 7' Driving Floating Jump Shot,22-32,22,32
+0021900503,2019-12-31,OKC,DAL,12.85,2,11,9,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:3),,22-32,22,32
+0021900503,2019-12-31,OKC,DAL,12.92,2,11,5,OKC,OKC,fg3_make,1,False,False,Schroder 25' 3PT Jump Shot (5 PTS) (Paul 1 AST),,25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.22,2,10,47,DAL,DAL,fg_miss,101,False,False,,MISS Curry 9' Driving Floating Jump Shot,25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.27,2,10,44,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:1 Def:1),25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.3,2,10,42,DAL,DAL,fg3_miss,1,False,False,,MISS Curry 3PT Jump Shot,25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.35,2,10,39,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:1 Def:1),25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.53,2,10,28,DAL,DAL,fg_miss,80,False,False,,MISS Wright 22' Step Back Jump Shot,25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.6,2,10,24,DAL,DAL,reb,0,False,False,,Curry REBOUND (Off:1 Def:1),25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.63,2,10,22,DAL,OKC,foul,2,False,False,Adams S.FOUL (P2.T1) (T.Ford),,25-32,25,32
+0021900503,2019-12-31,OKC,DAL,13.63,2,10,22,DAL,DAL,ft_make,11,False,False,,Powell Free Throw 1 of 2 (1 PTS),25-33,25,33
+0021900503,2019-12-31,OKC,DAL,13.63,2,10,22,DAL,DAL,ft_miss,12,False,False,,MISS Powell Free Throw 2 of 2,25-33,25,33
+0021900503,2019-12-31,OKC,DAL,13.68,2,10,19,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:1),25-33,25,33
+0021900503,2019-12-31,OKC,DAL,13.7,2,10,18,DAL,DAL,fg_miss,6,False,False,,MISS Powell 8' Driving Layup,25-33,25,33
+0021900503,2019-12-31,OKC,DAL,13.72,2,10,17,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:2 Def:1),,25-33,25,33
+0021900503,2019-12-31,OKC,DAL,13.87,2,10,8,OKC,OKC,fg_make,6,False,False,Schroder 3' Driving Layup (7 PTS) (Paul 2 AST),,27-33,27,33
+0021900503,2019-12-31,OKC,DAL,13.87,2,10,8,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.2 Short 0),27-33,27,33
+0021900503,2019-12-31,OKC,DAL,14.12,2,9,53,DAL,DAL,fg_make,5,False,False,,Powell 2' Layup (3 PTS) (Kleber 1 AST),27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.32,2,9,41,OKC,OKC,fg3_miss,1,False,False,MISS Bazley 24' 3PT Jump Shot,,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.37,2,9,38,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:1 Def:2),27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.65,2,9,21,DAL,DAL,fg_miss,78,False,False,,MISS Jackson 11' Floating Jump Shot,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.68,2,9,19,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:1),,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.77,2,9,14,OKC,OKC,fg_miss,41,False,False,MISS Diallo 2' Running Layup,,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.8,2,9,12,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:1 Def:3),27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.92,2,9,5,DAL,DAL,fg_miss,6,False,False,,MISS Wright 4' Driving Layup,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,14.95,2,9,3,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:2),,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,15.08,2,8,55,OKC,OKC,fg3_miss,1,False,False,MISS Diallo 3PT Jump Shot,,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,15.13,2,8,52,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:2 Def:2),,27-35,27,35
+0021900503,2019-12-31,OKC,DAL,15.18,2,8,49,OKC,OKC,fg3_make,79,False,False,Schroder 26' 3PT Pullup Jump Shot (10 PTS),,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.38,2,8,37,DAL,DAL,tov,2,False,True,,Wright Lost Ball Turnover (P1.T3),30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.38,2,8,37,DAL,OKC,steal,2,False,True,steal,steal,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.47,2,8,32,OKC,OKC,fg3_miss,79,False,False,MISS Schroder 25' 3PT Pullup Jump Shot,,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.52,2,8,29,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:1 Def:4),30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.72,2,8,17,DAL,DAL,fg_miss,6,True,False,,MISS Wright 3' Driving Layup,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.72,2,8,17,DAL,OKC,block,6,True,False,block,block,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.75,2,8,15,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:2 Def:4),30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.9,2,8,6,DAL,DAL,fg3_miss,1,False,False,,MISS Curry 28' 3PT Jump Shot,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.97,2,8,2,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:3 Def:4),30-35,30,35
+0021900503,2019-12-31,OKC,DAL,15.98,2,8,1,DAL,DAL,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,16.05,2,7,57,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:3),,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,16.07,2,7,56,OKC,OKC,tov,1,False,True,Bazley Bad Pass Turnover (P1.T6),,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,16.07,2,7,56,OKC,DAL,steal,1,False,True,steal,steal,30-35,30,35
+0021900503,2019-12-31,OKC,DAL,16.17,2,7,50,OKC,DAL,foul,4,False,False,,Wright OFF.Foul (P1) (T.Ford),30-35,30,35
+0021900503,2019-12-31,OKC,DAL,16.17,2,7,50,DAL,DAL,tov,37,False,False,,Wright Offensive Foul Turnover (P2.T4),30-35,30,35
+0021900503,2019-12-31,OKC,DAL,16.38,2,7,37,OKC,OKC,fg_make,6,False,False,Schroder 2' Driving Layup (12 PTS),,32-35,32,35
+0021900503,2019-12-31,OKC,DAL,16.67,2,7,20,DAL,DAL,fg_make,6,False,False,,Doncic 6' Driving Layup (19 PTS),32-37,32,37
+0021900503,2019-12-31,OKC,DAL,16.8,2,7,12,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 2' Driving Layup,,32-37,32,37
+0021900503,2019-12-31,OKC,DAL,16.8,2,7,12,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:3 Def:1),,32-37,32,37
+0021900503,2019-12-31,OKC,DAL,16.8,2,7,12,OKC,DAL,foul,2,False,False,,Kleber S.FOUL (P1.T1) (T.Ford),32-37,32,37
+0021900503,2019-12-31,OKC,DAL,16.8,2,7,12,OKC,OKC,ft_miss,11,False,False,MISS Noel Free Throw 1 of 2,,32-37,32,37
+0021900503,2019-12-31,OKC,DAL,16.8,2,7,12,OKC,OKC,reb,1,False,False,THUNDER Rebound,,32-37,32,37
+0021900503,2019-12-31,OKC,DAL,16.8,2,7,12,OKC,OKC,ft_make,12,False,False,Noel Free Throw 2 of 2 (3 PTS),,33-37,33,37
+0021900503,2019-12-31,OKC,DAL,17.12,2,6,53,DAL,DAL,fg_make,6,False,False,,Doncic 3' Driving Layup (21 PTS),33-39,33,39
+0021900503,2019-12-31,OKC,DAL,17.12,2,6,53,DAL,OKC,foul,2,False,False,Ferguson S.FOUL (P3.T2) (L.Holtkamp),,33-39,33,39
+0021900503,2019-12-31,OKC,DAL,17.12,2,6,53,DAL,DAL,ft_make,10,False,False,,Doncic Free Throw 1 of 1 (22 PTS),33-40,33,40
+0021900503,2019-12-31,OKC,DAL,17.23,2,6,46,OKC,OKC,fg_miss,1,False,False,MISS Noel 18' Jump Shot,,33-40,33,40
+0021900503,2019-12-31,OKC,DAL,17.3,2,6,42,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:1),33-40,33,40
+0021900503,2019-12-31,OKC,DAL,17.47,2,6,32,DAL,DAL,fg3_make,1,False,False,,Brunson 3PT Jump Shot (5 PTS) (Doncic 3 AST),33-43,33,43
+0021900503,2019-12-31,OKC,DAL,17.48,2,6,31,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,33-43,33,43
+0021900503,2019-12-31,OKC,DAL,17.68,2,6,19,OKC,OKC,fg_miss,1,False,False,MISS Gallinari 18' Jump Shot,,33-43,33,43
+0021900503,2019-12-31,OKC,DAL,17.75,2,6,15,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:4 Def:1),,33-43,33,43
+0021900503,2019-12-31,OKC,DAL,17.8,2,6,12,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 27' 3PT Jump Shot,,33-43,33,43
+0021900503,2019-12-31,OKC,DAL,17.83,2,6,10,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:3 Def:5),33-43,33,43
+0021900503,2019-12-31,OKC,DAL,18.08,2,5,55,DAL,DAL,fg_miss,79,False,False,,MISS Brunson 19' Pullup Jump Shot,33-43,33,43
+0021900503,2019-12-31,OKC,DAL,18.15,2,5,51,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:4 Def:2),,33-43,33,43
+0021900503,2019-12-31,OKC,DAL,18.3,2,5,42,OKC,OKC,fg_make,108,False,False,Noel 2' Cutting Dunk Shot (5 PTS) (Gilgeous-Alexander 3 AST),,35-43,35,43
+0021900503,2019-12-31,OKC,DAL,18.48,2,5,31,DAL,OKC,foul,1,False,False,Burton P.FOUL (P1.T3) (T.Ford),,35-43,35,43
+0021900503,2019-12-31,OKC,DAL,18.72,2,5,17,DAL,DAL,fg3_miss,1,False,False,,MISS Marjanovic 26' 3PT Jump Shot,35-43,35,43
+0021900503,2019-12-31,OKC,DAL,18.8,2,5,12,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:1),,35-43,35,43
+0021900503,2019-12-31,OKC,DAL,18.88,2,5,7,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 8' Driving Layup (6 PTS),,37-43,37,43
+0021900503,2019-12-31,OKC,DAL,18.88,2,5,7,OKC,DAL,foul,2,False,False,,Brunson S.FOUL (P1.T2) (J.Goble),37-43,37,43
+0021900503,2019-12-31,OKC,DAL,18.88,2,5,7,OKC,OKC,ft_make,10,False,False,Gilgeous-Alexander Free Throw 1 of 1 (7 PTS),,38-43,38,43
+0021900503,2019-12-31,OKC,DAL,19.03,2,4,58,DAL,OKC,foul,1,False,False,Adams P.FOUL (P3.T4) (J.Goble),,38-43,38,43
+0021900503,2019-12-31,OKC,DAL,19.17,2,4,50,DAL,DAL,fg3_miss,1,False,False,,MISS Doncic 27' 3PT Jump Shot,38-43,38,43
+0021900503,2019-12-31,OKC,DAL,19.23,2,4,46,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:2),,38-43,38,43
+0021900503,2019-12-31,OKC,DAL,19.32,2,4,41,OKC,OKC,fg_make,41,False,False,Gilgeous-Alexander 1' Running Layup (9 PTS),,40-43,40,43
+0021900503,2019-12-31,OKC,DAL,19.48,2,4,31,DAL,OKC,foul,2,False,False,Burton S.FOUL (P2.PN) (L.Holtkamp),,40-43,40,43
+0021900503,2019-12-31,OKC,DAL,19.48,2,4,31,DAL,DAL,ft_make,11,False,False,,Doncic Free Throw 1 of 2 (23 PTS),40-44,40,44
+0021900503,2019-12-31,OKC,DAL,19.48,2,4,31,DAL,DAL,ft_miss,12,False,False,,MISS Doncic Free Throw 2 of 2,40-44,40,44
+0021900503,2019-12-31,OKC,DAL,19.52,2,4,29,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:3),,40-44,40,44
+0021900503,2019-12-31,OKC,DAL,19.77,2,4,14,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 25' 3PT Jump Shot,,40-44,40,44
+0021900503,2019-12-31,OKC,DAL,19.83,2,4,10,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:3),40-44,40,44
+0021900503,2019-12-31,OKC,DAL,19.93,2,4,4,DAL,DAL,fg3_miss,1,False,False,,MISS Doncic 25' 3PT Jump Shot,40-44,40,44
+0021900503,2019-12-31,OKC,DAL,19.95,2,4,3,OKC,OKC,reb,0,False,False,THUNDER Rebound,,40-44,40,44
+0021900503,2019-12-31,OKC,DAL,19.95,2,4,3,OKC,DAL,foul,3,False,False,,Finney-Smith L.B.FOUL (P1.T3) (T.Ford),40-44,40,44
+0021900503,2019-12-31,OKC,DAL,20.08,2,3,55,OKC,OKC,fg3_miss,80,False,False,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,,40-44,40,44
+0021900503,2019-12-31,OKC,DAL,20.15,2,3,51,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:3 Def:6),40-44,40,44
+0021900503,2019-12-31,OKC,DAL,20.28,2,3,43,DAL,DAL,fg3_make,1,False,False,,Kleber 29' 3PT Jump Shot (6 PTS) (Doncic 4 AST),40-47,40,47
+0021900503,2019-12-31,OKC,DAL,20.48,2,3,31,OKC,OKC,tov,1,False,False,Paul Bad Pass Turnover (P2.T7),,40-47,40,47
+0021900503,2019-12-31,OKC,DAL,20.5,2,3,30,DAL,OKC,foul,3,False,False,Paul L.B.FOUL (P1.PN) (T.Ford),,40-47,40,47
+0021900503,2019-12-31,OKC,DAL,20.5,2,3,30,DAL,DAL,ft_make,11,False,False,,Powell Free Throw 1 of 2 (4 PTS),40-48,40,48
+0021900503,2019-12-31,OKC,DAL,20.5,2,3,30,DAL,DAL,ft_make,12,False,False,,Powell Free Throw 2 of 2 (5 PTS),40-49,40,49
+0021900503,2019-12-31,OKC,DAL,20.85,2,3,9,OKC,OKC,fg_make,1,False,False,Gallinari 19' Jump Shot (7 PTS),,42-49,42,49
+0021900503,2019-12-31,OKC,DAL,21.1,2,2,54,DAL,DAL,fg_make,108,False,False,,Powell 2' Cutting Dunk Shot (7 PTS) (Brunson 1 AST),42-51,42,51
+0021900503,2019-12-31,OKC,DAL,21.38,2,2,37,OKC,OKC,fg_make,79,False,False,Paul 12' Pullup Jump Shot (2 PTS),,44-51,44,51
+0021900503,2019-12-31,OKC,DAL,21.65,2,2,21,OKC,DAL,foul,4,False,False,,Kleber OFF.Foul (P2) (T.Ford),44-51,44,51
+0021900503,2019-12-31,OKC,DAL,21.65,2,2,21,DAL,DAL,tov,37,False,False,,Kleber Offensive Foul Turnover (P1.T5),44-51,44,51
+0021900503,2019-12-31,OKC,DAL,21.85,2,2,9,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,44-51,44,51
+0021900503,2019-12-31,OKC,DAL,21.9,2,2,6,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:4),44-51,44,51
+0021900503,2019-12-31,OKC,DAL,21.98,2,2,1,DAL,DAL,fg3_miss,1,False,False,,MISS Brunson 26' 3PT Jump Shot,44-51,44,51
+0021900503,2019-12-31,OKC,DAL,22.02,2,1,59,OKC,OKC,reb,0,False,False,THUNDER Rebound,,44-51,44,51
+0021900503,2019-12-31,OKC,DAL,22.35,2,1,39,OKC,DAL,foul,2,False,False,,Doncic S.FOUL (P2.T4) (T.Ford),44-51,44,51
+0021900503,2019-12-31,OKC,DAL,22.35,2,1,39,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (10 PTS),,45-51,45,51
+0021900503,2019-12-31,OKC,DAL,22.35,2,1,39,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (11 PTS),,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,22.52,2,1,29,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 29' 3PT Jump Shot,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,22.58,2,1,25,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:3),,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,22.68,2,1,19,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 27' 3PT Jump Shot,,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,22.75,2,1,15,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:1 Def:3),,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,22.88,2,1,7,OKC,OKC,fg3_miss,79,False,False,MISS Paul 26' 3PT Pullup Jump Shot,,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,22.93,2,1,4,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:0 Def:1),46-51,46,51
+0021900503,2019-12-31,OKC,DAL,23.18,2,0,49,DAL,OKC,foul,2,False,False,Paul S.FOUL (P2.PN) (T.Ford),,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,23.18,2,0,49,DAL,DAL,ft_miss,11,False,False,,MISS Doncic Free Throw 1 of 2,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,23.18,2,0,49,DAL,DAL,reb,1,False,False,,Mavericks Rebound,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,23.18,2,0,49,DAL,DAL,ft_miss,12,False,False,,MISS Doncic Free Throw 2 of 2,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,23.22,2,0,47,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:4),,46-51,46,51
+0021900503,2019-12-31,OKC,DAL,23.33,2,0,40,OKC,OKC,fg_make,5,False,False,Noel 4' Layup (7 PTS) (Gallinari 2 AST),,48-51,48,51
+0021900503,2019-12-31,OKC,DAL,23.53,2,0,28,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 3PT Pullup Jump Shot,48-51,48,51
+0021900503,2019-12-31,OKC,DAL,23.57,2,0,26,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:1 Def:4),48-51,48,51
+0021900503,2019-12-31,OKC,DAL,23.58,2,0,25,DAL,DAL,fg_miss,6,True,False,,MISS Doncic 2' Driving Layup,48-51,48,51
+0021900503,2019-12-31,OKC,DAL,23.58,2,0,25,DAL,OKC,block,6,True,False,block,block,48-51,48,51
+0021900503,2019-12-31,OKC,DAL,23.58,2,0,25,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:2 Def:3),,48-51,48,51
+0021900503,2019-12-31,OKC,DAL,23.92,2,0,5,OKC,OKC,fg_make,75,False,False,Schroder 2' Driving Finger Roll Layup (14 PTS),,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.0,2,0,0,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 49' 3PT Pullup Jump Shot,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.0,2,0,0,DAL,DAL,reb,0,False,False,,Mavericks Rebound,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.0,2,0,0,DAL,,period_end,0,False,False,,,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.0,3,12,0,DAL,,period_start,0,False,False,,,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.25,3,11,45,DAL,DAL,fg_miss,101,False,False,,MISS Brunson 8' Driving Floating Jump Shot,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.32,3,11,41,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:1 Def:1),50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.37,3,11,38,DAL,DAL,fg3_miss,1,False,False,,MISS Powell 25' 3PT Jump Shot,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.4,3,11,36,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:1 Def:4),,50-51,50,51
+0021900503,2019-12-31,OKC,DAL,24.53,3,11,28,OKC,OKC,fg_make,79,False,False,Paul 16' Pullup Jump Shot (4 PTS),,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,24.9,3,11,6,DAL,DAL,fg_miss,78,False,False,,MISS Doncic 15' Floating Jump Shot,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,24.9,3,11,6,DAL,DAL,reb,0,False,False,,Mavericks Rebound,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,24.92,3,11,5,DAL,OKC,foul,3,False,False,Ferguson L.B.FOUL (P4.T1) (J.Goble),,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.02,3,10,59,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P1.T6),52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.02,3,10,59,DAL,OKC,steal,1,False,True,steal,steal,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.1,3,10,54,OKC,OKC,fg3_miss,1,False,False,MISS Ferguson 25' 3PT Jump Shot,,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.18,3,10,49,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:1 Def:5),52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.37,3,10,38,DAL,DAL,fg_miss,102,False,False,,MISS Finney-Smith 7' Driving Floating Bank Jump Shot,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.4,3,10,36,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:4),,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.63,3,10,22,OKC,OKC,fg_miss,98,True,False,MISS Gilgeous-Alexander 7' Cutting Layup Shot,,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.63,3,10,22,OKC,DAL,block,98,True,False,block,block,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.67,3,10,20,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:4),,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.72,3,10,17,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 26' 3PT Jump Shot,,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,25.75,3,10,15,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:1 Def:6),52-51,52,51
+0021900503,2019-12-31,OKC,DAL,26.02,3,9,59,DAL,OKC,foul,2,False,False,Gilgeous-Alexander S.FOUL (P1.T2) (L.Holtkamp),,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,26.02,3,9,59,DAL,DAL,ft_miss,11,False,False,,MISS Finney-Smith Free Throw 1 of 2,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,26.02,3,9,59,DAL,DAL,reb,1,False,False,,Mavericks Rebound,52-51,52,51
+0021900503,2019-12-31,OKC,DAL,26.02,3,9,59,DAL,DAL,ft_make,12,False,False,,Finney-Smith Free Throw 2 of 2 (4 PTS),52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.22,3,9,47,OKC,OKC,tov,45,False,False,Paul Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.42,3,9,35,DAL,DAL,fg3_miss,80,False,False,,MISS Doncic 25' 3PT Step Back Jump Shot,52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.47,3,9,32,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:3),,52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.48,3,9,31,OKC,OKC,tov,2,False,True,Gallinari Lost Ball Turnover (P2.T9),,52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.48,3,9,31,OKC,DAL,steal,2,False,True,steal,steal,52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.55,3,9,27,DAL,DAL,fg_miss,78,False,False,,MISS Brunson 9' Floating Jump Shot,52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.58,3,9,25,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:5),,52-52,52,52
+0021900503,2019-12-31,OKC,DAL,26.72,3,9,17,OKC,OKC,fg_make,78,False,False,Gilgeous-Alexander 7' Floating Jump Shot (13 PTS),,54-52,54,52
+0021900503,2019-12-31,OKC,DAL,26.97,3,9,2,DAL,OKC,foul,2,False,False,Adams S.FOUL (P4.T3) (T.Ford),,54-52,54,52
+0021900503,2019-12-31,OKC,DAL,26.97,3,9,2,DAL,DAL,ft_make,11,False,False,,Powell Free Throw 1 of 2 (8 PTS),54-53,54,53
+0021900503,2019-12-31,OKC,DAL,26.97,3,9,2,DAL,DAL,ft_make,12,False,False,,Powell Free Throw 2 of 2 (9 PTS),54-54,54,54
+0021900503,2019-12-31,OKC,DAL,27.18,3,8,49,OKC,OKC,fg3_make,104,False,False,Gallinari 25' 3PT Step Back Bank Jump Shot (10 PTS) (Paul 3 AST),,57-54,57,54
+0021900503,2019-12-31,OKC,DAL,27.4,3,8,36,DAL,DAL,fg3_make,1,False,False,,Kleber 25' 3PT Jump Shot (9 PTS) (Doncic 5 AST),57-57,57,57
+0021900503,2019-12-31,OKC,DAL,27.53,3,8,28,OKC,DAL,foul,1,False,False,,Finney-Smith P.FOUL (P2.T1) (J.Goble),57-57,57,57
+0021900503,2019-12-31,OKC,DAL,27.67,3,8,20,OKC,OKC,fg3_make,1,False,False,Gallinari 26' 3PT Jump Shot (13 PTS) (Paul 4 AST),,60-57,60,57
+0021900503,2019-12-31,OKC,DAL,28.05,3,7,57,DAL,DAL,fg_make,9,False,False,,Powell 1' Driving Dunk (11 PTS) (Doncic 6 AST),60-59,60,59
+0021900503,2019-12-31,OKC,DAL,28.22,3,7,47,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 2' Driving Layup,,60-59,60,59
+0021900503,2019-12-31,OKC,DAL,28.23,3,7,46,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:5 Def:2),,60-59,60,59
+0021900503,2019-12-31,OKC,DAL,28.23,3,7,46,OKC,OKC,fg_make,107,False,False,Noel 1' Tip Dunk Shot (9 PTS),,62-59,62,59
+0021900503,2019-12-31,OKC,DAL,28.45,3,7,33,DAL,DAL,fg3_miss,1,False,False,,MISS Finney-Smith 25' 3PT Jump Shot,62-59,62,59
+0021900503,2019-12-31,OKC,DAL,28.5,3,7,30,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:5 Def:3),,62-59,62,59
+0021900503,2019-12-31,OKC,DAL,28.58,3,7,25,OKC,OKC,fg3_miss,1,False,False,MISS Ferguson 3PT Jump Shot,,62-59,62,59
+0021900503,2019-12-31,OKC,DAL,28.65,3,7,21,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:2),62-59,62,59
+0021900503,2019-12-31,OKC,DAL,28.87,3,7,8,DAL,DAL,tov,1,False,True,,Finney-Smith Bad Pass Turnover (P2.T7),62-59,62,59
+0021900503,2019-12-31,OKC,DAL,28.87,3,7,8,DAL,OKC,steal,1,False,True,steal,steal,62-59,62,59
+0021900503,2019-12-31,OKC,DAL,28.97,3,7,2,OKC,OKC,fg3_make,1,False,False,Gallinari 27' 3PT Jump Shot (16 PTS) (Paul 5 AST),,65-59,65,59
+0021900503,2019-12-31,OKC,DAL,29.0,3,7,0,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.3 Short 0),65-59,65,59
+0021900503,2019-12-31,OKC,DAL,29.35,3,6,39,DAL,DAL,fg_miss,6,False,False,,MISS Finney-Smith 3' Driving Layup,65-59,65,59
+0021900503,2019-12-31,OKC,DAL,29.38,3,6,37,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:2 Def:6),65-59,65,59
+0021900503,2019-12-31,OKC,DAL,29.38,3,6,37,DAL,DAL,fg_make,97,False,False,,Doncic 1' Tip Layup Shot (25 PTS),65-61,65,61
+0021900503,2019-12-31,OKC,DAL,29.52,3,6,29,OKC,DAL,foul,1,False,False,,Wright P.FOUL (P2.T2) (J.Goble),65-61,65,61
+0021900503,2019-12-31,OKC,DAL,29.63,3,6,22,OKC,OKC,fg_make,52,False,False,Noel 2' Alley Oop Dunk (11 PTS) (Paul 6 AST),,67-61,67,61
+0021900503,2019-12-31,OKC,DAL,29.95,3,6,3,DAL,DAL,fg_miss,6,True,False,,MISS Finney-Smith 5' Driving Layup,67-61,67,61
+0021900503,2019-12-31,OKC,DAL,29.95,3,6,3,DAL,OKC,block,6,True,False,block,block,67-61,67,61
+0021900503,2019-12-31,OKC,DAL,30.0,3,6,0,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:6),,67-61,67,61
+0021900503,2019-12-31,OKC,DAL,30.07,3,5,56,OKC,OKC,fg_miss,41,False,False,MISS Gilgeous-Alexander 2' Running Layup,,67-61,67,61
+0021900503,2019-12-31,OKC,DAL,30.1,3,5,54,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:1 Def:4),67-61,67,61
+0021900503,2019-12-31,OKC,DAL,30.25,3,5,45,DAL,DAL,fg_make,108,False,False,,Kleber 2' Cutting Dunk Shot (11 PTS) (Marjanovic 1 AST),67-63,67,63
+0021900503,2019-12-31,OKC,DAL,30.63,3,5,22,OKC,OKC,fg_miss,79,False,False,MISS Paul 17' Pullup Jump Shot,,67-63,67,63
+0021900503,2019-12-31,OKC,DAL,30.65,3,5,21,DAL,DAL,reb,0,False,False,,Wright REBOUND (Off:0 Def:2),67-63,67,63
+0021900503,2019-12-31,OKC,DAL,30.87,3,5,8,DAL,DAL,fg3_miss,80,False,False,,MISS Doncic 25' 3PT Step Back Jump Shot,67-63,67,63
+0021900503,2019-12-31,OKC,DAL,30.9,3,5,6,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:2 Def:4),67-63,67,63
+0021900503,2019-12-31,OKC,DAL,30.9,3,5,6,DAL,DAL,tov,2,False,True,,Marjanovic Lost Ball Turnover (P1.T8),67-63,67,63
+0021900503,2019-12-31,OKC,DAL,30.9,3,5,6,DAL,OKC,steal,2,False,True,steal,steal,67-63,67,63
+0021900503,2019-12-31,OKC,DAL,30.9,3,5,6,OKC,DAL,foul,1,False,False,,Marjanovic P.FOUL (P2.T3) (J.Goble),67-63,67,63
+0021900503,2019-12-31,OKC,DAL,31.17,3,4,50,OKC,OKC,fg_miss,101,False,False,MISS Gilgeous-Alexander 5' Driving Floating Jump Shot,,67-63,67,63
+0021900503,2019-12-31,OKC,DAL,31.2,3,4,48,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:2 Def:6),,67-63,67,63
+0021900503,2019-12-31,OKC,DAL,31.4,3,4,36,OKC,OKC,fg_make,63,False,False,Gallinari 10' Fadeaway Jumper (18 PTS) (Schroder 2 AST),,69-63,69,63
+0021900503,2019-12-31,OKC,DAL,31.62,3,4,23,DAL,DAL,fg_make,6,False,False,,Doncic 7' Driving Layup (27 PTS),69-65,69,65
+0021900503,2019-12-31,OKC,DAL,31.62,3,4,23,DAL,OKC,foul,2,False,False,Ferguson S.FOUL (P5.T4) (T.Ford),,69-65,69,65
+0021900503,2019-12-31,OKC,DAL,31.62,3,4,23,DAL,DAL,ft_make,10,False,False,,Doncic Free Throw 1 of 1 (28 PTS),69-66,69,66
+0021900503,2019-12-31,OKC,DAL,31.72,3,4,17,OKC,DAL,foul,1,False,False,,Kleber P.FOUL (P3.T4) (T.Ford),69-66,69,66
+0021900503,2019-12-31,OKC,DAL,31.92,3,4,5,OKC,OKC,fg_miss,98,False,False,MISS Noel 13' Cutting Layup Shot,,69-66,69,66
+0021900503,2019-12-31,OKC,DAL,31.97,3,4,2,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:2 Def:7),69-66,69,66
+0021900503,2019-12-31,OKC,DAL,32.17,3,3,50,DAL,DAL,fg3_make,1,False,False,,Jackson 28' 3PT Jump Shot (3 PTS) (Wright 1 AST),69-69,69,69
+0021900503,2019-12-31,OKC,DAL,32.67,3,3,20,OKC,OKC,fg_make,1,False,False,Gallinari 20' Jump Shot (20 PTS) (Schroder 3 AST),,71-69,71,69
+0021900503,2019-12-31,OKC,DAL,33.05,3,2,57,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 26' 3PT Pullup Jump Shot,71-69,71,69
+0021900503,2019-12-31,OKC,DAL,33.05,3,2,57,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:2 Def:4),,71-69,71,69
+0021900503,2019-12-31,OKC,DAL,33.15,3,2,51,OKC,OKC,fg_make,102,False,False,Gilgeous-Alexander 4' Driving Floating Bank Jump Shot (15 PTS),,73-69,73,69
+0021900503,2019-12-31,OKC,DAL,33.15,3,2,51,OKC,DAL,foul,2,False,False,,Curry S.FOUL (P2.PN) (L.Holtkamp),73-69,73,69
+0021900503,2019-12-31,OKC,DAL,33.15,3,2,51,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 3 Short 0),,73-69,73,69
+0021900503,2019-12-31,OKC,DAL,33.15,3,2,51,OKC,OKC,ft_make,10,False,False,Gilgeous-Alexander Free Throw 1 of 1 (16 PTS),,74-69,74,69
+0021900503,2019-12-31,OKC,DAL,33.37,3,2,38,DAL,OKC,foul,1,False,False,Schroder P.FOUL (P1.PN) (J.Goble),,74-69,74,69
+0021900503,2019-12-31,OKC,DAL,33.37,3,2,38,DAL,DAL,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (4 PTS),74-70,74,70
+0021900503,2019-12-31,OKC,DAL,33.37,3,2,38,DAL,DAL,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (5 PTS),74-71,74,71
+0021900503,2019-12-31,OKC,DAL,33.52,3,2,29,OKC,OKC,fg_miss,6,False,False,MISS Bazley 3' Driving Layup,,74-71,74,71
+0021900503,2019-12-31,OKC,DAL,33.55,3,2,27,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:6 Def:3),,74-71,74,71
+0021900503,2019-12-31,OKC,DAL,33.55,3,2,27,OKC,OKC,fg_miss,97,False,False,MISS Noel 1' Tip Layup Shot,,74-71,74,71
+0021900503,2019-12-31,OKC,DAL,33.57,3,2,26,DAL,DAL,reb,0,False,False,,Mavericks Rebound,74-71,74,71
+0021900503,2019-12-31,OKC,DAL,33.73,3,2,16,DAL,DAL,fg3_make,1,False,False,,Curry 25' 3PT Jump Shot (3 PTS) (Powell 2 AST),74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.0,3,2,0,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 29' 3PT Jump Shot,,74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.03,3,1,58,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:7 Def:3),,74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.07,3,1,56,OKC,DAL,violation,5,False,False,,Doncic Violation:Kicked Ball (J.Goble),74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.2,3,1,48,OKC,OKC,fg_miss,79,False,False,MISS Paul 17' Pullup Jump Shot,,74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.22,3,1,47,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:8 Def:3),,74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.22,3,1,47,OKC,DAL,foul,1,False,False,,Wright P.FOUL (P3.PN) (J.Goble),74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.22,3,1,47,OKC,OKC,ft_miss,11,False,False,MISS Noel Free Throw 1 of 2,,74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.22,3,1,47,OKC,OKC,reb,1,False,False,THUNDER Rebound,,74-74,74,74
+0021900503,2019-12-31,OKC,DAL,34.22,3,1,47,OKC,OKC,ft_make,12,False,False,Noel Free Throw 2 of 2 (12 PTS),,75-74,75,74
+0021900503,2019-12-31,OKC,DAL,34.53,3,1,28,DAL,DAL,fg3_make,1,False,False,,Jackson 28' 3PT Jump Shot (8 PTS) (Curry 1 AST),75-77,75,77
+0021900503,2019-12-31,OKC,DAL,34.97,3,1,2,OKC,OKC,fg_miss,6,False,False,MISS Paul 9' Driving Layup,,75-77,75,77
+0021900503,2019-12-31,OKC,DAL,35.0,3,1,0,DAL,DAL,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),75-77,75,77
+0021900503,2019-12-31,OKC,DAL,35.05,3,0,57,DAL,OKC,foul,1,False,False,Noel P.FOUL (P1.PN) (J.Goble),,75-77,75,77
+0021900503,2019-12-31,OKC,DAL,35.05,3,0,57,DAL,DAL,ft_miss,11,False,False,,MISS Wright Free Throw 1 of 2,75-77,75,77
+0021900503,2019-12-31,OKC,DAL,35.05,3,0,57,DAL,DAL,reb,1,False,False,,Mavericks Rebound,75-77,75,77
+0021900503,2019-12-31,OKC,DAL,35.05,3,0,57,DAL,DAL,ft_make,12,False,False,,Wright Free Throw 2 of 2 (4 PTS),75-78,75,78
+0021900503,2019-12-31,OKC,DAL,35.33,3,0,40,OKC,OKC,fg_miss,102,False,False,MISS Bazley 10' Driving Floating Bank Jump Shot,,75-78,75,78
+0021900503,2019-12-31,OKC,DAL,35.35,3,0,39,DAL,DAL,reb,0,False,False,,Mavericks Rebound,75-78,75,78
+0021900503,2019-12-31,OKC,DAL,35.52,3,0,29,DAL,DAL,fg3_miss,1,False,False,,MISS Jackson 24' 3PT Jump Shot,75-78,75,78
+0021900503,2019-12-31,OKC,DAL,35.55,3,0,27,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:8 Def:4),,75-78,75,78
+0021900503,2019-12-31,OKC,DAL,35.87,3,0,8,OKC,DAL,foul,1,False,False,,Curry P.FOUL (P3.PN) (T.Ford),75-78,75,78
+0021900503,2019-12-31,OKC,DAL,35.87,3,0,8,OKC,OKC,ft_make,11,False,False,Schroder Free Throw 1 of 2 (15 PTS),,76-78,76,78
+0021900503,2019-12-31,OKC,DAL,35.87,3,0,8,OKC,OKC,ft_make,12,False,False,Schroder Free Throw 2 of 2 (16 PTS),,77-78,77,78
+0021900503,2019-12-31,OKC,DAL,35.98,3,0,1,DAL,DAL,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,77-78,77,78
+0021900503,2019-12-31,OKC,DAL,35.98,3,0,1,DAL,DAL,reb,0,False,False,,Mavericks Rebound,77-78,77,78
+0021900503,2019-12-31,OKC,DAL,36.0,3,0,0,DAL,,period_end,0,False,False,,,77-78,77,78
+0021900503,2019-12-31,OKC,DAL,36.0,4,12,0,DAL,,period_start,0,False,False,,,77-78,77,78
+0021900503,2019-12-31,OKC,DAL,36.37,4,11,38,OKC,OKC,fg_miss,79,False,False,MISS Schroder 16' Pullup Jump Shot,,77-78,77,78
+0021900503,2019-12-31,OKC,DAL,36.42,4,11,35,DAL,DAL,reb,0,False,False,,Jackson REBOUND (Off:0 Def:3),77-78,77,78
+0021900503,2019-12-31,OKC,DAL,36.47,4,11,32,DAL,DAL,fg_make,76,False,False,,Brunson 1' Running Finger Roll Layup (7 PTS) (Jackson 2 AST),77-80,77,80
+0021900503,2019-12-31,OKC,DAL,36.72,4,11,17,OKC,OKC,tov,1,False,True,Schroder Bad Pass Turnover (P2.T10),,77-80,77,80
+0021900503,2019-12-31,OKC,DAL,36.72,4,11,17,OKC,DAL,steal,1,False,True,steal,steal,77-80,77,80
+0021900503,2019-12-31,OKC,DAL,36.82,4,11,11,DAL,DAL,fg3_make,1,False,False,,Curry 26' 3PT Jump Shot (6 PTS) (Wright 2 AST),77-83,77,83
+0021900503,2019-12-31,OKC,DAL,36.85,4,11,9,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,77-83,77,83
+0021900503,2019-12-31,OKC,DAL,37.2,4,10,48,OKC,OKC,fg_make,9,False,False,Nader 1' Driving Dunk (2 PTS) (Adams 2 AST),,79-83,79,83
+0021900503,2019-12-31,OKC,DAL,37.62,4,10,23,DAL,DAL,fg3_make,80,False,False,,Wright 25' 3PT Step Back Jump Shot (7 PTS),79-86,79,86
+0021900503,2019-12-31,OKC,DAL,37.82,4,10,11,OKC,OKC,tov,45,False,False,Paul Out of Bounds - Bad Pass Turnover Turnover (P4.T11),,79-86,79,86
+0021900503,2019-12-31,OKC,DAL,38.08,4,9,55,DAL,DAL,fg_miss,101,False,False,,MISS Brunson 5' Driving Floating Jump Shot,79-86,79,86
+0021900503,2019-12-31,OKC,DAL,38.13,4,9,52,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:5),,79-86,79,86
+0021900503,2019-12-31,OKC,DAL,38.23,4,9,46,OKC,OKC,fg_make,52,False,False,Adams 2' Alley Oop Dunk (7 PTS) (Schroder 4 AST),,81-86,81,86
+0021900503,2019-12-31,OKC,DAL,38.67,4,9,20,DAL,DAL,tov,11,False,False,,Mavericks Turnover: Shot Clock (T#9),81-86,81,86
+0021900503,2019-12-31,OKC,DAL,38.77,4,9,14,OKC,OKC,fg_miss,79,False,False,MISS Paul 14' Pullup Jump Shot,,81-86,81,86
+0021900503,2019-12-31,OKC,DAL,38.82,4,9,11,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:3 Def:5),,81-86,81,86
+0021900503,2019-12-31,OKC,DAL,38.82,4,9,11,OKC,DAL,foul,2,False,False,,Powell S.FOUL (P1.T1) (J.Goble),81-86,81,86
+0021900503,2019-12-31,OKC,DAL,38.82,4,9,11,OKC,OKC,ft_make,11,False,False,Adams Free Throw 1 of 2 (8 PTS),,82-86,82,86
+0021900503,2019-12-31,OKC,DAL,38.82,4,9,11,OKC,OKC,ft_miss,12,False,False,MISS Adams Free Throw 2 of 2,,82-86,82,86
+0021900503,2019-12-31,OKC,DAL,38.85,4,9,9,DAL,DAL,reb,0,False,False,,Jackson REBOUND (Off:0 Def:4),82-86,82,86
+0021900503,2019-12-31,OKC,DAL,39.13,4,8,52,DAL,DAL,fg_miss,101,False,False,,MISS Curry 15' Driving Floating Jump Shot,82-86,82,86
+0021900503,2019-12-31,OKC,DAL,39.18,4,8,49,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:3 Def:6),,82-86,82,86
+0021900503,2019-12-31,OKC,DAL,39.25,4,8,45,OKC,DAL,foul,2,False,False,,Brunson S.FOUL (P2.T2) (L.Holtkamp),82-86,82,86
+0021900503,2019-12-31,OKC,DAL,39.25,4,8,45,OKC,OKC,ft_make,11,False,False,Diallo Free Throw 1 of 2 (3 PTS),,83-86,83,86
+0021900503,2019-12-31,OKC,DAL,39.25,4,8,45,OKC,OKC,ft_make,12,False,False,Diallo Free Throw 2 of 2 (4 PTS),,84-86,84,86
+0021900503,2019-12-31,OKC,DAL,39.58,4,8,25,DAL,DAL,fg_miss,6,True,False,,MISS Wright 5' Driving Layup,84-86,84,86
+0021900503,2019-12-31,OKC,DAL,39.58,4,8,25,DAL,OKC,block,6,True,False,block,block,84-86,84,86
+0021900503,2019-12-31,OKC,DAL,39.6,4,8,24,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:0 Def:1),,84-86,84,86
+0021900503,2019-12-31,OKC,DAL,39.6,4,8,24,OKC,DAL,foul,1,False,False,,Brunson P.FOUL (P3.T3) (T.Ford),84-86,84,86
+0021900503,2019-12-31,OKC,DAL,39.78,4,8,13,OKC,OKC,fg_make,7,False,False,Adams 2' Dunk (10 PTS) (Paul 7 AST),,86-86,86,86
+0021900503,2019-12-31,OKC,DAL,39.78,4,8,13,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.4 Short 0),86-86,86,86
+0021900503,2019-12-31,OKC,DAL,40.1,4,7,54,DAL,DAL,fg3_make,1,False,False,,Kleber 25' 3PT Jump Shot (14 PTS) (Doncic 7 AST),86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.35,4,7,39,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 25' 3PT Jump Shot,,86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.4,4,7,36,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:3 Def:7),86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.57,4,7,26,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 26' 3PT Jump Shot,86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.62,4,7,23,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:1 Def:5),,86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.7,4,7,18,OKC,OKC,fg_miss,3,False,False,MISS Adams 7' Hook Shot,,86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.75,4,7,15,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:3 Def:8),86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.85,4,7,9,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 26' 3PT Pullup Jump Shot,86-89,86,89
+0021900503,2019-12-31,OKC,DAL,40.9,4,7,6,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:2 Def:5),,86-89,86,89
+0021900503,2019-12-31,OKC,DAL,41.03,4,6,58,OKC,OKC,fg_make,79,False,False,Schroder 16' Pullup Jump Shot (18 PTS),,88-89,88,89
+0021900503,2019-12-31,OKC,DAL,41.25,4,6,45,DAL,DAL,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,88-89,88,89
+0021900503,2019-12-31,OKC,DAL,41.3,4,6,42,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:1 Def:6),,88-89,88,89
+0021900503,2019-12-31,OKC,DAL,41.45,4,6,33,OKC,OKC,tov,4,False,False,Schroder Traveling Turnover (P3.T12),,88-89,88,89
+0021900503,2019-12-31,OKC,DAL,41.63,4,6,22,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 25' 3PT Jump Shot,88-89,88,89
+0021900503,2019-12-31,OKC,DAL,41.7,4,6,18,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:1),88-89,88,89
+0021900503,2019-12-31,OKC,DAL,41.77,4,6,14,DAL,DAL,fg_make,75,False,False,,Doncic 3' Driving Finger Roll Layup (30 PTS),88-91,88,91
+0021900503,2019-12-31,OKC,DAL,41.98,4,6,1,OKC,OKC,fg3_miss,1,False,False,MISS Nader 26' 3PT Jump Shot,,88-91,88,91
+0021900503,2019-12-31,OKC,DAL,42.05,4,5,57,DAL,DAL,reb,0,False,False,,Curry REBOUND (Off:1 Def:2),88-91,88,91
+0021900503,2019-12-31,OKC,DAL,42.38,4,5,37,DAL,DAL,fg3_make,1,False,False,,Curry 25' 3PT Jump Shot (9 PTS) (Finney-Smith 1 AST),88-94,88,94
+0021900503,2019-12-31,OKC,DAL,42.4,4,5,36,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 5 Short 0),,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,42.72,4,5,17,OKC,OKC,fg_miss,79,False,False,MISS Schroder 19' Pullup Jump Shot,,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,42.77,4,5,14,OKC,OKC,reb,0,False,False,Ferguson REBOUND (Off:1 Def:0),,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,42.87,4,5,8,OKC,OKC,fg_miss,79,True,False,MISS Schroder 15' Pullup Jump Shot,,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,42.87,4,5,8,OKC,DAL,block,79,True,False,block,block,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,42.92,4,5,5,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:2 Def:8),88-94,88,94
+0021900503,2019-12-31,OKC,DAL,43.15,4,4,51,DAL,DAL,fg3_miss,79,False,False,,MISS Curry 25' 3PT Pullup Jump Shot,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,43.2,4,4,48,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:4 Def:8),88-94,88,94
+0021900503,2019-12-31,OKC,DAL,43.23,4,4,46,DAL,DAL,fg3_miss,1,False,False,,MISS Wright 28' 3PT Jump Shot,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,43.25,4,4,45,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:2 Def:7),,88-94,88,94
+0021900503,2019-12-31,OKC,DAL,43.33,4,4,40,OKC,DAL,foul,1,False,False,,Curry P.FOUL (P4.T4) (J.Goble),88-94,88,94
+0021900503,2019-12-31,OKC,DAL,43.48,4,4,31,OKC,OKC,fg_make,79,False,False,Paul 18' Pullup Jump Shot (6 PTS),,90-94,90,94
+0021900503,2019-12-31,OKC,DAL,43.78,4,4,13,DAL,DAL,fg3_miss,1,False,False,,MISS Finney-Smith 24' 3PT Jump Shot,90-94,90,94
+0021900503,2019-12-31,OKC,DAL,43.83,4,4,10,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:5 Def:8),90-94,90,94
+0021900503,2019-12-31,OKC,DAL,43.97,4,4,2,DAL,OKC,foul,2,False,False,Adams S.FOUL (P5.T1) (J.Goble),,90-94,90,94
+0021900503,2019-12-31,OKC,DAL,43.97,4,4,2,DAL,DAL,ft_make,11,False,False,,Finney-Smith Free Throw 1 of 2 (5 PTS),90-95,90,95
+0021900503,2019-12-31,OKC,DAL,43.97,4,4,2,DAL,DAL,ft_make,12,False,False,,Finney-Smith Free Throw 2 of 2 (6 PTS),90-96,90,96
+0021900503,2019-12-31,OKC,DAL,44.15,4,3,51,OKC,OKC,fg_make,79,False,False,Paul 16' Pullup Jump Shot (8 PTS),,92-96,92,96
+0021900503,2019-12-31,OKC,DAL,44.57,4,3,26,DAL,DAL,fg3_miss,1,False,False,,MISS Curry 26' 3PT Jump Shot,92-96,92,96
+0021900503,2019-12-31,OKC,DAL,44.63,4,3,22,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:6 Def:8),92-96,92,96
+0021900503,2019-12-31,OKC,DAL,44.78,4,3,13,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 28' 3PT Pullup Jump Shot,92-96,92,96
+0021900503,2019-12-31,OKC,DAL,44.85,4,3,9,DAL,DAL,reb,0,False,False,,Wright REBOUND (Off:1 Def:2),92-96,92,96
+0021900503,2019-12-31,OKC,DAL,44.85,4,3,9,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.5 Short 0),92-96,92,96
+0021900503,2019-12-31,OKC,DAL,45.05,4,2,57,DAL,DAL,fg3_make,1,False,False,,Doncic 28' 3PT Jump Shot (33 PTS) (Kleber 2 AST),92-99,92,99
+0021900503,2019-12-31,OKC,DAL,45.3,4,2,42,OKC,DAL,foul,1,False,False,,Finney-Smith P.FOUL (P3.PN) (T.Ford),92-99,92,99
+0021900503,2019-12-31,OKC,DAL,45.3,4,2,42,OKC,OKC,ft_make,11,False,False,Paul Free Throw 1 of 2 (9 PTS),,93-99,93,99
+0021900503,2019-12-31,OKC,DAL,45.3,4,2,42,OKC,OKC,ft_make,12,False,False,Paul Free Throw 2 of 2 (10 PTS),,94-99,94,99
+0021900503,2019-12-31,OKC,DAL,45.68,4,2,19,DAL,DAL,fg_miss,101,False,False,,MISS Doncic 15' Driving Floating Jump Shot,94-99,94,99
+0021900503,2019-12-31,OKC,DAL,45.73,4,2,16,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:3 Def:7),,94-99,94,99
+0021900503,2019-12-31,OKC,DAL,45.88,4,2,7,OKC,OKC,fg_miss,6,False,False,MISS Paul 4' Driving Layup,,94-99,94,99
+0021900503,2019-12-31,OKC,DAL,45.9,4,2,6,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:4 Def:7),,94-99,94,99
+0021900503,2019-12-31,OKC,DAL,46.02,4,1,59,OKC,OKC,fg3_make,1,False,False,Paul 24' 3PT Jump Shot (13 PTS),,97-99,97,99
+0021900503,2019-12-31,OKC,DAL,46.32,4,1,41,DAL,DAL,tov,2,False,True,,Wright Lost Ball Turnover (P3.T10),97-99,97,99
+0021900503,2019-12-31,OKC,DAL,46.32,4,1,41,DAL,OKC,steal,2,False,True,steal,steal,97-99,97,99
+0021900503,2019-12-31,OKC,DAL,46.33,4,1,40,OKC,DAL,foul,1,False,False,,Doncic P.FOUL (P3.PN) (J.Goble),97-99,97,99
+0021900503,2019-12-31,OKC,DAL,46.33,4,1,40,OKC,OKC,ft_miss,11,False,False,MISS Gilgeous-Alexander Free Throw 1 of 2,,97-99,97,99
+0021900503,2019-12-31,OKC,DAL,46.33,4,1,40,OKC,OKC,reb,1,False,False,THUNDER Rebound,,97-99,97,99
+0021900503,2019-12-31,OKC,DAL,46.33,4,1,40,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (17 PTS),,98-99,98,99
+0021900503,2019-12-31,OKC,DAL,46.33,4,1,40,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.6 Short 0),98-99,98,99
+0021900503,2019-12-31,OKC,DAL,46.63,4,1,22,DAL,DAL,fg_make,101,False,False,,Doncic 5' Driving Floating Jump Shot (35 PTS),98-101,98,101
+0021900503,2019-12-31,OKC,DAL,46.77,4,1,14,OKC,OKC,fg_make,101,False,False,Paul 4' Driving Floating Jump Shot (15 PTS),,100-101,100,101
+0021900503,2019-12-31,OKC,DAL,46.83,4,1,10,DAL,OKC,foul,1,False,False,Schroder P.FOUL (P2.T2) (T.Ford),,100-101,100,101
+0021900503,2019-12-31,OKC,DAL,47.15,4,0,51,DAL,DAL,fg3_miss,80,False,False,,MISS Doncic 27' 3PT Step Back Jump Shot,100-101,100,101
+0021900503,2019-12-31,OKC,DAL,47.2,4,0,48,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:1 Def:7),,100-101,100,101
+0021900503,2019-12-31,OKC,DAL,47.32,4,0,41,OKC,OKC,fg_make,79,False,False,Paul 17' Pullup Jump Shot (17 PTS),,102-101,102,101
+0021900503,2019-12-31,OKC,DAL,47.33,4,0,40,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.7 Short 0),102-101,102,101
+0021900503,2019-12-31,OKC,DAL,47.6,4,0,24,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P2.T11),102-101,102,101
+0021900503,2019-12-31,OKC,DAL,47.6,4,0,24,DAL,OKC,steal,2,False,True,steal,steal,102-101,102,101
+0021900503,2019-12-31,OKC,DAL,47.68,4,0,19,OKC,DAL,foul,28,False,False,,Curry Personal Take Foul (P5.PN) (L.Holtkamp),102-101,102,101
+0021900503,2019-12-31,OKC,DAL,47.68,4,0,19,OKC,OKC,ft_make,11,False,False,Schroder Free Throw 1 of 2 (19 PTS),,103-101,103,101
+0021900503,2019-12-31,OKC,DAL,47.68,4,0,19,OKC,OKC,ft_make,12,False,False,Schroder Free Throw 2 of 2 (20 PTS),,104-101,104,101
+0021900503,2019-12-31,OKC,DAL,47.83,4,0,10,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 26' 3PT Jump Shot,104-101,104,101
+0021900503,2019-12-31,OKC,DAL,47.92,4,0,5,DAL,DAL,reb,0,False,False,,Curry REBOUND (Off:2 Def:2),104-101,104,101
+0021900503,2019-12-31,OKC,DAL,47.92,4,0,5,DAL,DAL,fg3_miss,1,False,False,,MISS Doncic 29' 3PT Jump Shot,104-101,104,101
+0021900503,2019-12-31,OKC,DAL,47.97,4,0,2,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:2 Def:8),,104-101,104,101
+0021900503,2019-12-31,OKC,DAL,47.97,4,0,2,OKC,DAL,foul,28,False,False,,Finney-Smith Personal Take Foul (P4.PN) (J.Goble),104-101,104,101
+0021900503,2019-12-31,OKC,DAL,47.97,4,0,2,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (18 PTS),,105-101,105,101
+0021900503,2019-12-31,OKC,DAL,47.97,4,0,2,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (19 PTS),,106-101,106,101
+0021900503,2019-12-31,OKC,DAL,48.0,4,0,0,OKC,,period_end,0,False,False,,,106-101,106,101

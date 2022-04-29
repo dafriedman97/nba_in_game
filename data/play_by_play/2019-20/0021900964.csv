@@ -1,0 +1,463 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900964,2020-03-10,MEM,ORL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900964,2020-03-10,MEM,ORL,0.0,1,12,0,,MEM,jump_ball,0,False,False,Jump Ball Valanciunas vs. Vucevic: Tip to Melton,,0-0,0,0
+0021900964,2020-03-10,MEM,ORL,0.23,1,11,46,MEM,MEM,fg_make,86,False,False,Valanciunas 6' Turnaround Fadeaway (2 PTS) (Morant 1 AST),,2-0,2,0
+0021900964,2020-03-10,MEM,ORL,0.5,1,11,30,ORL,ORL,fg_miss,79,False,False,,MISS Gordon 18' Pullup Jump Shot,2-0,2,0
+0021900964,2020-03-10,MEM,ORL,0.5,1,11,30,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,2-0,2,0
+0021900964,2020-03-10,MEM,ORL,0.85,1,11,9,MEM,MEM,fg_make,3,False,False,Valanciunas 8' Hook Shot (4 PTS) (Anderson 1 AST),,4-0,4,0
+0021900964,2020-03-10,MEM,ORL,1.15,1,10,51,ORL,ORL,fg_make,73,False,False,,Fultz 1' Driving Reverse Layup (2 PTS) (Vucevic 1 AST),4-2,4,2
+0021900964,2020-03-10,MEM,ORL,1.38,1,10,37,MEM,ORL,foul,2,False,False,,Gordon S.FOUL (P1.T1) (T.Ford),4-2,4,2
+0021900964,2020-03-10,MEM,ORL,1.38,1,10,37,MEM,MEM,ft_make,11,False,False,Valanciunas Free Throw 1 of 2 (5 PTS),,5-2,5,2
+0021900964,2020-03-10,MEM,ORL,1.38,1,10,37,MEM,MEM,ft_make,12,False,False,Valanciunas Free Throw 2 of 2 (6 PTS),,6-2,6,2
+0021900964,2020-03-10,MEM,ORL,1.62,1,10,23,ORL,ORL,tov,1,False,True,,Ennis III Bad Pass Turnover (P1.T1),6-2,6,2
+0021900964,2020-03-10,MEM,ORL,1.62,1,10,23,ORL,MEM,steal,1,False,True,steal,steal,6-2,6,2
+0021900964,2020-03-10,MEM,ORL,1.73,1,10,16,MEM,MEM,fg3_make,1,False,False,Brooks 25' 3PT Jump Shot (3 PTS) (Melton 1 AST),,9-2,9,2
+0021900964,2020-03-10,MEM,ORL,1.75,1,10,15,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.1 Short 0),9-2,9,2
+0021900964,2020-03-10,MEM,ORL,1.98,1,10,1,ORL,ORL,fg_make,5,False,False,,Ennis III 2' Layup (2 PTS) (Gordon 1 AST),9-4,9,4
+0021900964,2020-03-10,MEM,ORL,2.22,1,9,47,MEM,MEM,tov,1,False,True,Valanciunas Bad Pass Turnover (P1.T1),,9-4,9,4
+0021900964,2020-03-10,MEM,ORL,2.22,1,9,47,MEM,ORL,steal,1,False,True,steal,steal,9-4,9,4
+0021900964,2020-03-10,MEM,ORL,2.28,1,9,43,ORL,ORL,tov,2,False,True,,Gordon Lost Ball Turnover (P1.T2),9-4,9,4
+0021900964,2020-03-10,MEM,ORL,2.28,1,9,43,ORL,MEM,steal,2,False,True,steal,steal,9-4,9,4
+0021900964,2020-03-10,MEM,ORL,2.32,1,9,41,MEM,MEM,fg_make,50,False,False,Morant Running Dunk (2 PTS),,11-4,11,4
+0021900964,2020-03-10,MEM,ORL,2.42,1,9,35,ORL,ORL,fg3_miss,2,False,False,,MISS Iwundu 25' 3PT Running Jump Shot,11-4,11,4
+0021900964,2020-03-10,MEM,ORL,2.45,1,9,33,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:1),,11-4,11,4
+0021900964,2020-03-10,MEM,ORL,2.65,1,9,21,MEM,MEM,fg_make,1,False,False,Valanciunas 19' Jump Shot (8 PTS) (Anderson 2 AST),,13-4,13,4
+0021900964,2020-03-10,MEM,ORL,3.03,1,8,58,ORL,ORL,fg3_miss,1,False,False,,MISS Ennis III 26' 3PT Jump Shot,13-4,13,4
+0021900964,2020-03-10,MEM,ORL,3.1,1,8,54,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:0),13-4,13,4
+0021900964,2020-03-10,MEM,ORL,3.12,1,8,53,ORL,ORL,fg_make,101,False,False,,Vucevic 11' Driving Floating Jump Shot (2 PTS),13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.28,1,8,43,MEM,MEM,fg3_miss,103,False,False,MISS Melton 26' 3PT Running Pull-Up Jump Shot,,13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.32,1,8,41,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:1),13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.42,1,8,35,ORL,ORL,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.48,1,8,31,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:1),,13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.57,1,8,26,MEM,ORL,foul,1,False,False,,Ennis III P.FOUL (P1.T2) (E.Malloy),13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.75,1,8,15,MEM,ORL,foul,2,False,False,,Vucevic S.FOUL (P1.T3) (T.Ford),13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.75,1,8,15,MEM,MEM,ft_miss,11,False,False,MISS Valanciunas Free Throw 1 of 2,,13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.75,1,8,15,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,13-6,13,6
+0021900964,2020-03-10,MEM,ORL,3.75,1,8,15,MEM,MEM,ft_make,12,False,False,Valanciunas Free Throw 2 of 2 (9 PTS),,14-6,14,6
+0021900964,2020-03-10,MEM,ORL,3.97,1,8,2,ORL,ORL,fg_miss,79,False,False,,MISS Fultz 19' Pullup Jump Shot,14-6,14,6
+0021900964,2020-03-10,MEM,ORL,4.0,1,8,0,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:1 Def:0),14-6,14,6
+0021900964,2020-03-10,MEM,ORL,4.08,1,7,55,ORL,ORL,fg3_make,1,False,False,,Ennis III 26' 3PT Jump Shot (5 PTS) (Vucevic 2 AST),14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.47,1,7,32,,MEM,jump_ball,0,False,False,Jump Ball Valanciunas vs. Vucevic: Tip to Morant,,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.48,1,7,31,MEM,MEM,tov,1,False,True,Valanciunas Bad Pass Turnover (P2.T2),,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.48,1,7,31,MEM,ORL,steal,1,False,True,steal,steal,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.55,1,7,27,ORL,ORL,tov,1,False,True,,Fultz Bad Pass Turnover (P1.T3),14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.55,1,7,27,ORL,MEM,steal,1,False,True,steal,steal,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.63,1,7,22,MEM,MEM,fg3_miss,2,False,False,MISS Melton 27' 3PT Running Jump Shot,,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.7,1,7,18,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:2),14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.75,1,7,15,ORL,ORL,fg_miss,41,True,False,,MISS Fultz 2' Running Layup,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.75,1,7,15,ORL,MEM,block,41,True,False,block,block,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,4.77,1,7,14,ORL,ORL,reb,0,False,False,,Magic Rebound,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.05,1,6,57,ORL,ORL,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.05,1,6,57,ORL,ORL,reb,0,False,False,,Magic Rebound,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.05,1,6,57,ORL,ORL,tov,11,False,False,,Magic Turnover: Shot Clock (T#4),14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.35,1,6,39,MEM,MEM,tov,2,False,True,Brooks Lost Ball Turnover (P1.T3),,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.35,1,6,39,MEM,ORL,steal,2,False,True,steal,steal,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.35,1,6,39,ORL,MEM,foul,1,False,False,Brooks P.FOUL (P1.T1) (E.Malloy),,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.65,1,6,21,ORL,ORL,fg3_miss,1,False,False,,MISS Gordon 26' 3PT Jump Shot,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.72,1,6,17,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:1),,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.82,1,6,11,MEM,MEM,fg3_miss,103,False,False,MISS Brooks 26' 3PT Running Pull-Up Jump Shot,,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,5.87,1,6,8,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:0),,14-9,14,9
+0021900964,2020-03-10,MEM,ORL,6.02,1,5,59,MEM,MEM,fg_make,96,False,False,Valanciunas 3' Turnaround Bank Hook Shot (11 PTS) (Melton 2 AST),,16-9,16,9
+0021900964,2020-03-10,MEM,ORL,6.2,1,5,48,ORL,ORL,fg3_miss,1,False,False,,MISS Vucevic 26' 3PT Jump Shot,16-9,16,9
+0021900964,2020-03-10,MEM,ORL,6.25,1,5,45,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:2),,16-9,16,9
+0021900964,2020-03-10,MEM,ORL,6.38,1,5,37,MEM,MEM,fg_miss,75,False,False,MISS Morant 2' Driving Finger Roll Layup,,16-9,16,9
+0021900964,2020-03-10,MEM,ORL,6.43,1,5,34,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:3),16-9,16,9
+0021900964,2020-03-10,MEM,ORL,6.55,1,5,27,ORL,ORL,fg_make,101,False,False,,Vucevic 10' Driving Floating Jump Shot (4 PTS) (Gordon 2 AST),16-11,16,11
+0021900964,2020-03-10,MEM,ORL,6.92,1,5,5,MEM,MEM,fg_make,101,False,False,Morant 12' Driving Floating Jump Shot (4 PTS),,18-11,18,11
+0021900964,2020-03-10,MEM,ORL,7.12,1,4,53,ORL,MEM,violation,5,False,False,Morant Violation:Kicked Ball (T.Ford),,18-11,18,11
+0021900964,2020-03-10,MEM,ORL,7.22,1,4,47,ORL,ORL,tov,4,False,False,,Vucevic Traveling Turnover (P1.T5),18-11,18,11
+0021900964,2020-03-10,MEM,ORL,7.22,1,4,47,MEM,ORL,foul,11,False,False,,Vucevic T.FOUL (P1.T3) (D.Taylor),18-11,18,11
+0021900964,2020-03-10,MEM,ORL,7.22,1,4,47,MEM,MEM,ft_make,16,False,False,Brooks Free Throw Technical (4 PTS),,19-11,19,11
+0021900964,2020-03-10,MEM,ORL,7.42,1,4,35,MEM,MEM,fg_miss,101,False,False,MISS Jackson 1' Driving Floating Jump Shot,,19-11,19,11
+0021900964,2020-03-10,MEM,ORL,7.45,1,4,33,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,19-11,19,11
+0021900964,2020-03-10,MEM,ORL,7.5,1,4,30,MEM,MEM,fg3_make,47,False,False,Brooks 3PT Turnaround Jump Shot (7 PTS) (Jackson 1 AST),,22-11,22,11
+0021900964,2020-03-10,MEM,ORL,7.7,1,4,18,ORL,ORL,fg_make,79,False,False,,Fultz 19' Pullup Jump Shot (4 PTS),22-13,22,13
+0021900964,2020-03-10,MEM,ORL,7.92,1,4,5,MEM,MEM,fg3_make,1,False,False,Dieng 3PT Jump Shot (3 PTS) (Jackson 2 AST),,25-13,25,13
+0021900964,2020-03-10,MEM,ORL,7.92,1,4,5,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.2 Short 0),25-13,25,13
+0021900964,2020-03-10,MEM,ORL,8.2,1,3,48,ORL,ORL,fg_miss,58,True,False,,MISS Gordon 3' Turnaround Hook Shot,25-13,25,13
+0021900964,2020-03-10,MEM,ORL,8.2,1,3,48,ORL,MEM,block,58,True,False,block,block,25-13,25,13
+0021900964,2020-03-10,MEM,ORL,8.3,1,3,42,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:3),,25-13,25,13
+0021900964,2020-03-10,MEM,ORL,8.4,1,3,36,MEM,MEM,fg_make,58,False,False,Jackson 3' Turnaround Hook Shot (2 PTS),,27-13,27,13
+0021900964,2020-03-10,MEM,ORL,8.4,1,3,36,MEM,ORL,foul,2,False,False,,Gordon S.FOUL (P2.T4) (T.Ford),27-13,27,13
+0021900964,2020-03-10,MEM,ORL,8.4,1,3,36,MEM,MEM,ft_make,10,False,False,Jackson Free Throw 1 of 1 (3 PTS),,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.65,1,3,21,ORL,ORL,fg3_miss,1,False,False,,MISS Ross 26' 3PT Jump Shot,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.73,1,3,16,ORL,ORL,reb,0,False,False,,Carter-Williams REBOUND (Off:1 Def:0),28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.75,1,3,15,ORL,ORL,tov,1,False,True,,Carter-Williams Bad Pass Turnover (P1.T6),28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.75,1,3,15,ORL,MEM,steal,1,False,True,steal,steal,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.83,1,3,10,MEM,MEM,tov,1,False,True,Jackson Bad Pass Turnover (P1.T4),,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.83,1,3,10,MEM,ORL,steal,1,False,True,steal,steal,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.93,1,3,4,ORL,ORL,fg_miss,101,True,False,,MISS Ross 3' Driving Floating Jump Shot,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,8.93,1,3,4,ORL,MEM,block,101,True,False,block,block,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,9.0,1,3,0,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:4),,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,9.15,1,2,51,MEM,MEM,fg_miss,101,False,False,MISS Jones 11' Driving Floating Jump Shot,,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,9.18,1,2,49,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,28-13,28,13
+0021900964,2020-03-10,MEM,ORL,9.25,1,2,45,MEM,MEM,fg_make,1,False,False,Dieng 18' Jump Shot (5 PTS) (Konchar 1 AST),,30-13,30,13
+0021900964,2020-03-10,MEM,ORL,9.58,1,2,25,ORL,MEM,foul,2,False,False,Konchar S.FOUL (P1.T2) (D.Taylor),,30-13,30,13
+0021900964,2020-03-10,MEM,ORL,9.58,1,2,25,ORL,ORL,ft_make,11,False,False,,Carter-Williams Free Throw 1 of 2 (1 PTS),30-14,30,14
+0021900964,2020-03-10,MEM,ORL,9.58,1,2,25,ORL,ORL,ft_make,12,False,False,,Carter-Williams Free Throw 2 of 2 (2 PTS),30-15,30,15
+0021900964,2020-03-10,MEM,ORL,9.78,1,2,13,MEM,MEM,fg_make,101,False,False,Jackson 13' Driving Floating Jump Shot (5 PTS) (Dieng 1 AST),,32-15,32,15
+0021900964,2020-03-10,MEM,ORL,10.0,1,2,0,ORL,ORL,fg3_make,1,False,False,,Bamba 26' 3PT Jump Shot (3 PTS) (Augustin 1 AST),32-18,32,18
+0021900964,2020-03-10,MEM,ORL,10.22,1,1,47,MEM,MEM,tov,1,False,True,Jones Bad Pass Turnover (P1.T5),,32-18,32,18
+0021900964,2020-03-10,MEM,ORL,10.22,1,1,47,MEM,ORL,steal,1,False,True,steal,steal,32-18,32,18
+0021900964,2020-03-10,MEM,ORL,10.28,1,1,43,ORL,ORL,fg3_make,2,False,False,,Ross 26' 3PT Running Jump Shot (3 PTS) (Ennis III 1 AST),32-21,32,21
+0021900964,2020-03-10,MEM,ORL,10.63,1,1,22,MEM,MEM,tov,4,False,False,Tolliver Traveling Turnover (P1.T6),,32-21,32,21
+0021900964,2020-03-10,MEM,ORL,10.83,1,1,10,ORL,ORL,fg3_make,79,False,False,,Ross 25' 3PT Pullup Jump Shot (6 PTS),32-24,32,24
+0021900964,2020-03-10,MEM,ORL,11.12,1,0,53,MEM,MEM,fg3_make,1,False,False,Jackson 29' 3PT Jump Shot (8 PTS) (Konchar 2 AST),,35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.12,1,0,53,MEM,ORL,foul,2,False,False,,Ennis III S.FOUL (P2.PN) (E.Malloy),35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.12,1,0,53,MEM,MEM,ft_miss,10,False,False,MISS Jackson Free Throw 1 of 1,,35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.13,1,0,52,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:1),35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.4,1,0,36,ORL,ORL,fg_miss,80,False,False,,MISS Ross 19' Step Back Jump Shot,35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.45,1,0,33,ORL,ORL,reb,0,False,False,,Ennis III REBOUND (Off:1 Def:0),35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.52,1,0,29,ORL,ORL,fg_miss,75,False,False,,MISS Carter-Williams 2' Driving Finger Roll Layup,35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.55,1,0,27,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:1 Def:1),35-24,35,24
+0021900964,2020-03-10,MEM,ORL,11.58,1,0,25,ORL,ORL,fg3_make,1,False,False,,Augustin 28' 3PT Jump Shot (3 PTS) (Bamba 1 AST),35-27,35,27
+0021900964,2020-03-10,MEM,ORL,11.93,1,0,4,MEM,MEM,fg_miss,101,False,False,MISS Jones 8' Driving Floating Jump Shot,,35-27,35,27
+0021900964,2020-03-10,MEM,ORL,11.98,1,0,1,ORL,ORL,reb,0,False,False,,Augustin REBOUND (Off:0 Def:1),35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.0,1,0,0,ORL,ORL,fg_miss,101,False,False,,MISS Augustin 12' Driving Floating Jump Shot,35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.0,1,0,0,ORL,ORL,reb,0,False,False,,Magic Rebound,35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.0,1,0,0,ORL,,period_end,0,False,False,,,35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.0,2,12,0,ORL,,period_start,0,False,False,,,35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.18,2,11,49,ORL,MEM,foul,1,False,False,Dieng P.FOUL (P1.T1) (E.Malloy),,35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.37,2,11,38,ORL,ORL,tov,45,False,False,,Augustin Out of Bounds - Bad Pass Turnover Turnover (P1.T7),35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.65,2,11,21,MEM,ORL,foul,2,False,False,,Carter-Williams S.FOUL (P1.T1) (T.Ford),35-27,35,27
+0021900964,2020-03-10,MEM,ORL,12.65,2,11,21,MEM,MEM,ft_make,11,False,False,Morant Free Throw 1 of 2 (5 PTS),,36-27,36,27
+0021900964,2020-03-10,MEM,ORL,12.65,2,11,21,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (6 PTS),,37-27,37,27
+0021900964,2020-03-10,MEM,ORL,13.0,2,11,0,ORL,MEM,foul,2,False,False,Jackson S.FOUL (P1.T2) (E.Malloy),,37-27,37,27
+0021900964,2020-03-10,MEM,ORL,13.0,2,11,0,ORL,ORL,ft_make,11,False,False,,Carter-Williams Free Throw 1 of 2 (3 PTS),37-28,37,28
+0021900964,2020-03-10,MEM,ORL,13.0,2,11,0,ORL,ORL,ft_make,12,False,False,,Carter-Williams Free Throw 2 of 2 (4 PTS),37-29,37,29
+0021900964,2020-03-10,MEM,ORL,13.17,2,10,50,MEM,MEM,tov,1,False,True,Jackson Bad Pass Turnover (P2.T7),,37-29,37,29
+0021900964,2020-03-10,MEM,ORL,13.17,2,10,50,MEM,ORL,steal,1,False,True,steal,steal,37-29,37,29
+0021900964,2020-03-10,MEM,ORL,13.22,2,10,47,ORL,ORL,fg_make,50,False,False,,Carter-Williams 1' Running Dunk (6 PTS),37-31,37,31
+0021900964,2020-03-10,MEM,ORL,13.22,2,10,47,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 1 Short 0),,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,13.63,2,10,22,MEM,MEM,tov,1,False,True,Morant Bad Pass Turnover (P1.T8),,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,13.63,2,10,22,MEM,ORL,steal,1,False,True,steal,steal,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,13.77,2,10,14,MEM,ORL,foul,26,False,False,,Ross Offensive Charge Foul (P1.T2) (T.Ford),37-31,37,31
+0021900964,2020-03-10,MEM,ORL,13.77,2,10,14,ORL,ORL,tov,37,False,False,,Ross Offensive Foul Turnover (P1.T8),37-31,37,31
+0021900964,2020-03-10,MEM,ORL,13.95,2,10,3,MEM,MEM,fg3_miss,79,False,False,MISS Morant 27' 3PT Pullup Jump Shot,,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,13.98,2,10,1,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:1 Def:2),37-31,37,31
+0021900964,2020-03-10,MEM,ORL,14.13,2,9,52,ORL,ORL,fg3_miss,1,False,False,,MISS Bamba 26' 3PT Jump Shot,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,14.18,2,9,49,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:5),,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,14.57,2,9,26,MEM,MEM,tov,2,False,True,Valanciunas Lost Ball Turnover (P3.T9),,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,14.57,2,9,26,MEM,ORL,steal,2,False,True,steal,steal,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,14.82,2,9,11,ORL,ORL,fg3_miss,1,False,False,,MISS Clark 26' 3PT Jump Shot,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,14.87,2,9,8,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:1),,37-31,37,31
+0021900964,2020-03-10,MEM,ORL,15.0,2,9,0,MEM,MEM,fg3_make,1,False,False,Tolliver 24' 3PT Jump Shot (3 PTS) (Melton 3 AST),,40-31,40,31
+0021900964,2020-03-10,MEM,ORL,15.32,2,8,41,ORL,ORL,fg_miss,5,False,False,,MISS Clark 2' Layup,40-31,40,31
+0021900964,2020-03-10,MEM,ORL,15.35,2,8,39,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:2 Def:2),40-31,40,31
+0021900964,2020-03-10,MEM,ORL,15.38,2,8,37,ORL,ORL,fg_make,63,False,False,,Carter-Williams 11' Fadeaway Jumper (8 PTS) (Bamba 2 AST),40-33,40,33
+0021900964,2020-03-10,MEM,ORL,15.55,2,8,27,MEM,MEM,fg_miss,73,False,False,MISS Morant 2' Driving Reverse Layup,,40-33,40,33
+0021900964,2020-03-10,MEM,ORL,15.6,2,8,24,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:5),,40-33,40,33
+0021900964,2020-03-10,MEM,ORL,15.6,2,8,24,MEM,MEM,fg_make,97,False,False,Valanciunas 1' Tip Layup Shot (13 PTS),,42-33,42,33
+0021900964,2020-03-10,MEM,ORL,15.75,2,8,15,ORL,ORL,fg_make,98,False,False,,Carter-Williams 2' Cutting Layup Shot (10 PTS) (Augustin 2 AST),42-35,42,35
+0021900964,2020-03-10,MEM,ORL,16.05,2,7,57,MEM,MEM,fg_miss,98,True,False,MISS Valanciunas 1' Cutting Layup Shot,,42-35,42,35
+0021900964,2020-03-10,MEM,ORL,16.05,2,7,57,MEM,ORL,block,98,True,False,block,block,42-35,42,35
+0021900964,2020-03-10,MEM,ORL,16.05,2,7,57,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:5),,42-35,42,35
+0021900964,2020-03-10,MEM,ORL,16.05,2,7,57,MEM,ORL,foul,2,False,False,,Carter-Williams S.FOUL (P2.T3) (E.Malloy),42-35,42,35
+0021900964,2020-03-10,MEM,ORL,16.05,2,7,57,MEM,MEM,ft_make,11,False,False,Valanciunas Free Throw 1 of 2 (14 PTS),,43-35,43,35
+0021900964,2020-03-10,MEM,ORL,16.05,2,7,57,MEM,MEM,ft_make,12,False,False,Valanciunas Free Throw 2 of 2 (15 PTS),,44-35,44,35
+0021900964,2020-03-10,MEM,ORL,16.2,2,7,48,ORL,ORL,fg_miss,1,False,False,,MISS Vucevic 20' Jump Shot,44-35,44,35
+0021900964,2020-03-10,MEM,ORL,16.23,2,7,46,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:2),,44-35,44,35
+0021900964,2020-03-10,MEM,ORL,16.37,2,7,38,MEM,MEM,fg3_make,1,False,False,Jackson 3PT Jump Shot (11 PTS) (Melton 4 AST),,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,16.73,2,7,16,ORL,ORL,fg_miss,3,False,False,,MISS Fultz 7' Hook Shot,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,16.77,2,7,14,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:6),,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,16.88,2,7,7,MEM,MEM,fg3_miss,1,False,False,MISS Jackson 3PT Jump Shot,,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,16.97,2,7,2,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:2 Def:2),,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,17.18,2,6,49,MEM,MEM,fg_miss,75,False,False,MISS Melton 1' Driving Finger Roll Layup,,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,17.22,2,6,47,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:1),47-35,47,35
+0021900964,2020-03-10,MEM,ORL,17.37,2,6,38,ORL,ORL,fg_miss,101,False,False,,MISS Augustin 10' Driving Floating Jump Shot,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,17.42,2,6,35,MEM,MEM,reb,0,False,False,Jackson REBOUND (Off:0 Def:1),,47-35,47,35
+0021900964,2020-03-10,MEM,ORL,17.52,2,6,29,MEM,MEM,fg3_make,1,False,False,Morant 25' 3PT Jump Shot (9 PTS) (Jackson 3 AST),,50-35,50,35
+0021900964,2020-03-10,MEM,ORL,17.53,2,6,28,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.3 Short 0),50-35,50,35
+0021900964,2020-03-10,MEM,ORL,17.7,2,6,18,ORL,ORL,fg_miss,1,False,False,,MISS Ross 13' Jump Shot,50-35,50,35
+0021900964,2020-03-10,MEM,ORL,17.73,2,6,16,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:2),,50-35,50,35
+0021900964,2020-03-10,MEM,ORL,17.97,2,6,2,MEM,MEM,fg3_miss,1,False,False,MISS Morant 25' 3PT Jump Shot,,50-35,50,35
+0021900964,2020-03-10,MEM,ORL,18.05,2,5,57,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:2),50-35,50,35
+0021900964,2020-03-10,MEM,ORL,18.15,2,5,51,ORL,ORL,fg_make,75,False,False,,Augustin 1' Driving Finger Roll Layup (5 PTS) (Gordon 3 AST),50-37,50,37
+0021900964,2020-03-10,MEM,ORL,18.47,2,5,32,MEM,MEM,fg_miss,101,True,False,MISS Anderson 5' Driving Floating Jump Shot,,50-37,50,37
+0021900964,2020-03-10,MEM,ORL,18.47,2,5,32,MEM,ORL,block,101,True,False,block,block,50-37,50,37
+0021900964,2020-03-10,MEM,ORL,18.52,2,5,29,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:1 Def:1),50-37,50,37
+0021900964,2020-03-10,MEM,ORL,18.55,2,5,27,MEM,ORL,foul,4,False,False,,Augustin OFF.Foul (P1) (T.Ford),50-37,50,37
+0021900964,2020-03-10,MEM,ORL,18.55,2,5,27,ORL,ORL,tov,37,False,False,,Augustin Offensive Foul Turnover (P2.T9),50-37,50,37
+0021900964,2020-03-10,MEM,ORL,18.73,2,5,16,MEM,ORL,foul,2,False,False,,Gordon S.FOUL (P3.T4) (T.Ford),50-37,50,37
+0021900964,2020-03-10,MEM,ORL,18.73,2,5,16,MEM,MEM,ft_make,11,False,False,Anderson Free Throw 1 of 2 (1 PTS),,51-37,51,37
+0021900964,2020-03-10,MEM,ORL,18.73,2,5,16,MEM,MEM,ft_make,12,False,False,Anderson Free Throw 2 of 2 (2 PTS),,52-37,52,37
+0021900964,2020-03-10,MEM,ORL,19.0,2,5,0,ORL,MEM,foul,1,False,False,Valanciunas P.FOUL (P1.T3) (T.Ford),,52-37,52,37
+0021900964,2020-03-10,MEM,ORL,19.1,2,4,54,ORL,ORL,fg_make,79,False,False,,Augustin 14' Pullup Jump Shot (7 PTS) (Vucevic 3 AST),52-39,52,39
+0021900964,2020-03-10,MEM,ORL,19.1,2,4,54,ORL,MEM,foul,2,False,False,Jones S.FOUL (P1.T4) (T.Ford),,52-39,52,39
+0021900964,2020-03-10,MEM,ORL,19.1,2,4,54,ORL,ORL,ft_make,10,False,False,,Augustin Free Throw 1 of 1 (8 PTS),52-40,52,40
+0021900964,2020-03-10,MEM,ORL,19.23,2,4,46,MEM,MEM,fg3_make,1,False,False,Brooks 26' 3PT Jump Shot (10 PTS) (Jones 1 AST),,55-40,55,40
+0021900964,2020-03-10,MEM,ORL,19.45,2,4,33,ORL,ORL,fg_miss,73,False,False,,MISS Augustin 2' Driving Reverse Layup,55-40,55,40
+0021900964,2020-03-10,MEM,ORL,19.53,2,4,28,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:2 Def:1),55-40,55,40
+0021900964,2020-03-10,MEM,ORL,19.53,2,4,28,ORL,ORL,fg_make,97,False,False,,Fultz 1' Tip Layup Shot (6 PTS),55-42,55,42
+0021900964,2020-03-10,MEM,ORL,19.63,2,4,22,ORL,MEM,foul,26,False,False,Brooks Offensive Charge Foul (P2.PN) (D.Taylor),,55-42,55,42
+0021900964,2020-03-10,MEM,ORL,19.63,2,4,22,MEM,MEM,tov,37,False,False,Brooks Offensive Foul Turnover (P2.T10),,55-42,55,42
+0021900964,2020-03-10,MEM,ORL,19.87,2,4,8,ORL,ORL,fg_miss,73,True,False,,MISS Fultz Driving Reverse Layup,55-42,55,42
+0021900964,2020-03-10,MEM,ORL,19.87,2,4,8,ORL,MEM,block,73,True,False,block,block,55-42,55,42
+0021900964,2020-03-10,MEM,ORL,19.88,2,4,7,ORL,ORL,reb,0,False,False,,Clark REBOUND (Off:1 Def:0),55-42,55,42
+0021900964,2020-03-10,MEM,ORL,19.95,2,4,3,ORL,ORL,fg3_miss,1,False,False,,MISS Augustin 26' 3PT Jump Shot,55-42,55,42
+0021900964,2020-03-10,MEM,ORL,20.0,2,4,0,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:7),,55-42,55,42
+0021900964,2020-03-10,MEM,ORL,20.13,2,3,52,MEM,MEM,fg_make,63,False,False,Melton 12' Fadeaway Jumper (2 PTS),,57-42,57,42
+0021900964,2020-03-10,MEM,ORL,20.35,2,3,39,ORL,ORL,tov,1,False,True,,Augustin Bad Pass Turnover (P3.T10),57-42,57,42
+0021900964,2020-03-10,MEM,ORL,20.35,2,3,39,ORL,MEM,steal,1,False,True,steal,steal,57-42,57,42
+0021900964,2020-03-10,MEM,ORL,20.37,2,3,38,MEM,ORL,foul,2,False,False,,Augustin S.FOUL (P2.PN) (E.Malloy),57-42,57,42
+0021900964,2020-03-10,MEM,ORL,20.37,2,3,38,MEM,MEM,ft_miss,11,False,False,MISS Jones Free Throw 1 of 2,,57-42,57,42
+0021900964,2020-03-10,MEM,ORL,20.37,2,3,38,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,57-42,57,42
+0021900964,2020-03-10,MEM,ORL,20.37,2,3,38,MEM,MEM,ft_make,12,False,False,Jones Free Throw 2 of 2 (1 PTS),,58-42,58,42
+0021900964,2020-03-10,MEM,ORL,20.62,2,3,23,ORL,ORL,fg_miss,1,False,False,,MISS Vucevic 14' Jump Shot,58-42,58,42
+0021900964,2020-03-10,MEM,ORL,20.63,2,3,22,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:3 Def:1),58-42,58,42
+0021900964,2020-03-10,MEM,ORL,20.73,2,3,16,ORL,ORL,fg_make,6,False,False,,Vucevic 2' Driving Layup (6 PTS),58-44,58,44
+0021900964,2020-03-10,MEM,ORL,20.9,2,3,6,MEM,MEM,fg_miss,101,True,False,MISS Melton 3' Driving Floating Jump Shot,,58-44,58,44
+0021900964,2020-03-10,MEM,ORL,20.9,2,3,6,MEM,ORL,block,101,True,False,block,block,58-44,58,44
+0021900964,2020-03-10,MEM,ORL,20.95,2,3,3,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:3),58-44,58,44
+0021900964,2020-03-10,MEM,ORL,21.13,2,2,52,ORL,ORL,fg_make,57,False,False,,Vucevic 3' Driving Hook Shot (8 PTS),58-46,58,46
+0021900964,2020-03-10,MEM,ORL,21.57,2,2,26,MEM,MEM,fg_miss,79,False,False,MISS Brooks 23' Pullup Jump Shot,,58-46,58,46
+0021900964,2020-03-10,MEM,ORL,21.57,2,2,26,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,58-46,58,46
+0021900964,2020-03-10,MEM,ORL,21.57,2,2,26,MEM,MEM,tov,11,False,False,GRIZZLIES Turnover: Shot Clock (T#11),,58-46,58,46
+0021900964,2020-03-10,MEM,ORL,21.77,2,2,14,ORL,MEM,foul,2,False,False,Brooks S.FOUL (P3.PN) (D.Taylor),,58-46,58,46
+0021900964,2020-03-10,MEM,ORL,21.77,2,2,14,ORL,ORL,ft_make,11,False,False,,Iwundu Free Throw 1 of 2 (1 PTS),58-47,58,47
+0021900964,2020-03-10,MEM,ORL,21.77,2,2,14,ORL,ORL,ft_make,12,False,False,,Iwundu Free Throw 2 of 2 (2 PTS),58-48,58,48
+0021900964,2020-03-10,MEM,ORL,21.92,2,2,5,MEM,MEM,fg_make,101,False,False,Jones 10' Driving Floating Jump Shot (3 PTS) (Dieng 2 AST),,60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.25,2,1,45,ORL,ORL,fg_miss,57,True,False,,MISS Vucevic 7' Driving Hook Shot,60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.25,2,1,45,ORL,MEM,block,57,True,False,block,block,60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.3,2,1,42,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:0 Def:1),,60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.33,2,1,40,MEM,MEM,tov,2,False,True,Morant Lost Ball Turnover (P2.T12),,60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.33,2,1,40,MEM,ORL,steal,2,False,True,steal,steal,60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.37,2,1,38,ORL,ORL,tov,45,False,False,,Clark Out of Bounds - Bad Pass Turnover Turnover (P1.T11),60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.55,2,1,27,MEM,MEM,fg_miss,101,False,False,MISS Jones 7' Driving Floating Jump Shot,,60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.6,2,1,24,ORL,ORL,reb,0,False,False,,Clark REBOUND (Off:1 Def:1),60-48,60,48
+0021900964,2020-03-10,MEM,ORL,22.8,2,1,12,ORL,ORL,fg_make,58,False,False,,Vucevic 7' Turnaround Hook Shot (10 PTS) (Ross 1 AST),60-50,60,50
+0021900964,2020-03-10,MEM,ORL,23.07,2,0,56,MEM,MEM,fg_make,80,False,False,Morant 14' Step Back Jump Shot (11 PTS),,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.25,2,0,45,ORL,ORL,fg_miss,79,False,False,,MISS Fultz 15' Pullup Jump Shot,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.28,2,0,43,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:2),,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.45,2,0,33,MEM,MEM,fg_miss,101,False,False,MISS Dieng 10' Driving Floating Jump Shot,,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.52,2,0,29,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:4),62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.78,2,0,13,ORL,ORL,fg_miss,101,False,False,,MISS Ross 11' Driving Floating Jump Shot,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.82,2,0,11,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:3),,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.98,2,0,1,MEM,ORL,foul,1,False,False,,Clark P.FOUL (P1.PN) (T.Ford),62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.98,2,0,1,MEM,MEM,ft_miss,11,False,False,MISS Morant Free Throw 1 of 2,,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.98,2,0,1,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,62-50,62,50
+0021900964,2020-03-10,MEM,ORL,23.98,2,0,1,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (12 PTS),,63-50,63,50
+0021900964,2020-03-10,MEM,ORL,24.0,2,0,0,ORL,ORL,fg3_miss,2,False,False,,MISS Fultz 60' 3PT Running Jump Shot,63-50,63,50
+0021900964,2020-03-10,MEM,ORL,24.0,2,0,0,ORL,ORL,reb,0,False,False,,Magic Rebound,63-50,63,50
+0021900964,2020-03-10,MEM,ORL,24.0,2,0,0,ORL,,period_end,0,False,False,,,63-50,63,50
+0021900964,2020-03-10,MEM,ORL,24.0,3,12,0,ORL,,period_start,0,False,False,,,63-50,63,50
+0021900964,2020-03-10,MEM,ORL,24.28,3,11,43,ORL,ORL,fg_make,78,False,False,,Vucevic 10' Floating Jump Shot (12 PTS) (Fultz 1 AST),63-52,63,52
+0021900964,2020-03-10,MEM,ORL,24.65,3,11,21,MEM,MEM,fg3_miss,1,False,False,MISS Morant 31' 3PT Jump Shot,,63-52,63,52
+0021900964,2020-03-10,MEM,ORL,24.7,3,11,18,ORL,ORL,reb,0,False,False,,Iwundu REBOUND (Off:0 Def:1),63-52,63,52
+0021900964,2020-03-10,MEM,ORL,24.8,3,11,12,ORL,ORL,fg_make,76,False,False,,Iwundu 1' Running Finger Roll Layup (4 PTS),63-54,63,54
+0021900964,2020-03-10,MEM,ORL,25.0,3,11,0,MEM,ORL,foul,2,False,False,,Fultz S.FOUL (P1.T1) (T.Ford),63-54,63,54
+0021900964,2020-03-10,MEM,ORL,25.0,3,11,0,MEM,MEM,ft_make,11,False,False,Morant Free Throw 1 of 2 (13 PTS),,64-54,64,54
+0021900964,2020-03-10,MEM,ORL,25.0,3,11,0,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (14 PTS),,65-54,65,54
+0021900964,2020-03-10,MEM,ORL,25.17,3,10,50,ORL,ORL,fg_miss,1,False,False,,MISS Ennis III 12' Jump Shot,65-54,65,54
+0021900964,2020-03-10,MEM,ORL,25.23,3,10,46,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:8),,65-54,65,54
+0021900964,2020-03-10,MEM,ORL,25.33,3,10,40,MEM,MEM,fg_miss,80,False,False,MISS Brooks 12' Step Back Jump Shot,,65-54,65,54
+0021900964,2020-03-10,MEM,ORL,25.38,3,10,37,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:4),65-54,65,54
+0021900964,2020-03-10,MEM,ORL,25.57,3,10,26,ORL,ORL,fg_miss,101,False,False,,MISS Fultz 1' Driving Floating Jump Shot,65-54,65,54
+0021900964,2020-03-10,MEM,ORL,25.6,3,10,24,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:9),,65-54,65,54
+0021900964,2020-03-10,MEM,ORL,25.65,3,10,21,MEM,MEM,fg_make,74,False,False,Brooks 1' Running Reverse Layup (12 PTS) (Melton 5 AST),,67-54,67,54
+0021900964,2020-03-10,MEM,ORL,25.65,3,10,21,MEM,ORL,foul,2,False,False,,Ennis III S.FOUL (P3.T2) (D.Taylor),67-54,67,54
+0021900964,2020-03-10,MEM,ORL,25.65,3,10,21,MEM,MEM,ft_make,10,False,False,Brooks Free Throw 1 of 1 (13 PTS),,68-54,68,54
+0021900964,2020-03-10,MEM,ORL,25.93,3,10,4,ORL,ORL,fg_make,86,False,False,,Gordon 12' Turnaround Fadeaway (2 PTS) (Vucevic 4 AST),68-56,68,56
+0021900964,2020-03-10,MEM,ORL,26.25,3,9,45,MEM,MEM,fg_make,101,False,False,Melton 7' Driving Floating Jump Shot (4 PTS) (Brooks 1 AST),,70-56,70,56
+0021900964,2020-03-10,MEM,ORL,26.47,3,9,32,ORL,ORL,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,70-56,70,56
+0021900964,2020-03-10,MEM,ORL,26.47,3,9,32,ORL,ORL,reb,0,False,False,,Magic Rebound,70-56,70,56
+0021900964,2020-03-10,MEM,ORL,26.47,3,9,32,ORL,MEM,foul,3,False,False,Anderson L.B.FOUL (P1.T1) (D.Taylor),,70-56,70,56
+0021900964,2020-03-10,MEM,ORL,26.63,3,9,22,ORL,MEM,foul,2,False,False,Melton S.FOUL (P1.T2) (D.Taylor),,70-56,70,56
+0021900964,2020-03-10,MEM,ORL,26.63,3,9,22,ORL,ORL,ft_make,11,False,False,,Gordon Free Throw 1 of 2 (3 PTS),70-57,70,57
+0021900964,2020-03-10,MEM,ORL,26.63,3,9,22,ORL,ORL,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (4 PTS),70-58,70,58
+0021900964,2020-03-10,MEM,ORL,26.8,3,9,12,MEM,MEM,fg_miss,78,False,False,MISS Morant 8' Floating Jump Shot,,70-58,70,58
+0021900964,2020-03-10,MEM,ORL,26.85,3,9,9,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:5),70-58,70,58
+0021900964,2020-03-10,MEM,ORL,26.9,3,9,6,ORL,MEM,foul,1,False,False,Morant P.FOUL (P1.T3) (T.Ford),,70-58,70,58
+0021900964,2020-03-10,MEM,ORL,27.0,3,9,0,ORL,ORL,fg3_make,1,False,False,,Fultz 26' 3PT Jump Shot (9 PTS) (Vucevic 5 AST),70-61,70,61
+0021900964,2020-03-10,MEM,ORL,27.3,3,8,42,MEM,MEM,fg_miss,80,False,False,MISS Brooks 17' Step Back Jump Shot,,70-61,70,61
+0021900964,2020-03-10,MEM,ORL,27.35,3,8,39,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:5),70-61,70,61
+0021900964,2020-03-10,MEM,ORL,27.48,3,8,31,ORL,ORL,fg_make,108,False,False,,Gordon 1' Cutting Dunk Shot (6 PTS) (Ennis III 2 AST),70-63,70,63
+0021900964,2020-03-10,MEM,ORL,27.48,3,8,31,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 2 Short 0),,70-63,70,63
+0021900964,2020-03-10,MEM,ORL,27.77,3,8,14,MEM,MEM,fg3_make,1,False,False,Melton 27' 3PT Jump Shot (7 PTS) (Morant 2 AST),,73-63,73,63
+0021900964,2020-03-10,MEM,ORL,28.07,3,7,56,ORL,ORL,fg_make,79,False,False,,Fultz 10' Pullup Jump Shot (11 PTS) (Gordon 4 AST),73-65,73,65
+0021900964,2020-03-10,MEM,ORL,28.32,3,7,41,MEM,MEM,tov,13,False,False,Brooks Backcourt Turnover (P3.T13),,73-65,73,65
+0021900964,2020-03-10,MEM,ORL,28.45,3,7,33,ORL,MEM,foul,2,False,False,Anderson S.FOUL (P2.T4) (D.Taylor),,73-65,73,65
+0021900964,2020-03-10,MEM,ORL,28.45,3,7,33,ORL,ORL,ft_make,11,False,False,,Fultz Free Throw 1 of 2 (12 PTS),73-66,73,66
+0021900964,2020-03-10,MEM,ORL,28.45,3,7,33,ORL,ORL,ft_miss,12,False,False,,MISS Fultz Free Throw 2 of 2,73-66,73,66
+0021900964,2020-03-10,MEM,ORL,28.5,3,7,30,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:2 Def:3),,73-66,73,66
+0021900964,2020-03-10,MEM,ORL,28.78,3,7,13,MEM,ORL,foul,2,False,False,,Vucevic S.FOUL (P2.T3) (T.Ford),73-66,73,66
+0021900964,2020-03-10,MEM,ORL,28.78,3,7,13,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.4 Short 0),73-66,73,66
+0021900964,2020-03-10,MEM,ORL,28.78,3,7,13,MEM,MEM,ft_miss,11,False,False,MISS Morant Free Throw 1 of 2,,73-66,73,66
+0021900964,2020-03-10,MEM,ORL,28.78,3,7,13,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,73-66,73,66
+0021900964,2020-03-10,MEM,ORL,28.78,3,7,13,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (15 PTS),,74-66,74,66
+0021900964,2020-03-10,MEM,ORL,29.17,3,6,50,ORL,ORL,fg3_make,1,False,False,,Iwundu 26' 3PT Jump Shot (7 PTS) (Gordon 5 AST),74-69,74,69
+0021900964,2020-03-10,MEM,ORL,29.38,3,6,37,MEM,MEM,tov,4,False,False,Morant Traveling Turnover (P3.T14),,74-69,74,69
+0021900964,2020-03-10,MEM,ORL,29.58,3,6,25,ORL,ORL,fg_make,78,False,False,,Vucevic 10' Floating Jump Shot (14 PTS) (Fultz 2 AST),74-71,74,71
+0021900964,2020-03-10,MEM,ORL,29.87,3,6,8,MEM,MEM,fg_make,79,False,False,Brooks 12' Pullup Jump Shot (15 PTS),,76-71,76,71
+0021900964,2020-03-10,MEM,ORL,30.03,3,5,58,ORL,ORL,tov,4,False,False,,Iwundu Traveling Turnover (P1.T12),76-71,76,71
+0021900964,2020-03-10,MEM,ORL,30.18,3,5,49,MEM,MEM,fg_make,101,False,False,Morant 12' Driving Floating Jump Shot (17 PTS),,78-71,78,71
+0021900964,2020-03-10,MEM,ORL,30.43,3,5,34,ORL,ORL,fg3_make,1,False,False,,Carter-Williams 26' 3PT Jump Shot (13 PTS) (Vucevic 6 AST),78-74,78,74
+0021900964,2020-03-10,MEM,ORL,30.72,3,5,17,MEM,MEM,fg3_miss,1,False,False,MISS Melton 26' 3PT Jump Shot,,78-74,78,74
+0021900964,2020-03-10,MEM,ORL,30.83,3,5,10,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:3 Def:9),,80-74,80,74
+0021900964,2020-03-10,MEM,ORL,30.83,3,5,10,MEM,MEM,fg_make,72,False,False,Valanciunas 1' Putback Layup (17 PTS),,80-74,80,74
+0021900964,2020-03-10,MEM,ORL,31.02,3,4,59,ORL,ORL,fg_make,78,False,False,,Carter-Williams 10' Floating Jump Shot (15 PTS) (Fultz 3 AST),80-76,80,76
+0021900964,2020-03-10,MEM,ORL,31.32,3,4,41,MEM,MEM,fg3_miss,80,False,False,MISS Brooks 26' 3PT Step Back Jump Shot,,80-76,80,76
+0021900964,2020-03-10,MEM,ORL,31.35,3,4,39,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:4 Def:9),,80-76,80,76
+0021900964,2020-03-10,MEM,ORL,31.45,3,4,33,MEM,MEM,tov,45,False,False,Morant Out of Bounds - Bad Pass Turnover Turnover (P4.T15),,80-76,80,76
+0021900964,2020-03-10,MEM,ORL,31.75,3,4,15,ORL,ORL,fg3_miss,79,False,False,,MISS Ross 26' 3PT Pullup Jump Shot,80-76,80,76
+0021900964,2020-03-10,MEM,ORL,31.8,3,4,12,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:0 Def:2),,80-76,80,76
+0021900964,2020-03-10,MEM,ORL,32.12,3,3,53,MEM,MEM,tov,2,False,False,Valanciunas Lost Ball Turnover (P4.T16),,80-76,80,76
+0021900964,2020-03-10,MEM,ORL,32.12,3,3,53,ORL,MEM,foul,3,False,False,Valanciunas L.B.FOUL (P2.PN) (D.Taylor),,80-76,80,76
+0021900964,2020-03-10,MEM,ORL,32.12,3,3,53,ORL,ORL,ft_make,11,False,False,,Carter-Williams Free Throw 1 of 2 (16 PTS),80-77,80,77
+0021900964,2020-03-10,MEM,ORL,32.12,3,3,53,ORL,ORL,ft_make,12,False,False,,Carter-Williams Free Throw 2 of 2 (17 PTS),80-78,80,78
+0021900964,2020-03-10,MEM,ORL,32.32,3,3,41,MEM,MEM,fg_miss,6,False,False,MISS Brooks 2' Driving Layup,,80-78,80,78
+0021900964,2020-03-10,MEM,ORL,32.35,3,3,39,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,80-78,80,78
+0021900964,2020-03-10,MEM,ORL,32.48,3,3,31,MEM,MEM,fg_miss,47,False,False,MISS Brooks 7' Turnaround Jump Shot,,80-78,80,78
+0021900964,2020-03-10,MEM,ORL,32.52,3,3,29,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:6),80-78,80,78
+0021900964,2020-03-10,MEM,ORL,32.62,3,3,23,ORL,ORL,fg3_miss,103,False,False,,MISS Augustin 25' 3PT Running Pull-Up Jump Shot,80-78,80,78
+0021900964,2020-03-10,MEM,ORL,32.68,3,3,19,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:0 Def:3),,80-78,80,78
+0021900964,2020-03-10,MEM,ORL,32.8,3,3,12,MEM,MEM,fg_make,101,False,False,Jackson 9' Driving Floating Jump Shot (13 PTS),,82-78,82,78
+0021900964,2020-03-10,MEM,ORL,33.07,3,2,56,ORL,ORL,fg3_miss,80,False,False,,MISS Ross 3PT Step Back Jump Shot,82-78,82,78
+0021900964,2020-03-10,MEM,ORL,33.1,3,2,54,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:0 Def:4),,82-78,82,78
+0021900964,2020-03-10,MEM,ORL,33.2,3,2,48,MEM,MEM,fg3_miss,1,False,False,MISS Tolliver 28' 3PT Jump Shot,,82-78,82,78
+0021900964,2020-03-10,MEM,ORL,33.27,3,2,44,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:7),82-78,82,78
+0021900964,2020-03-10,MEM,ORL,33.37,3,2,38,ORL,ORL,fg_make,41,False,False,,Gordon 2' Running Layup (8 PTS),82-80,82,80
+0021900964,2020-03-10,MEM,ORL,33.4,3,2,36,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 3 Short 0),,82-80,82,80
+0021900964,2020-03-10,MEM,ORL,33.68,3,2,19,MEM,MEM,fg_make,79,False,False,Brooks 14' Pullup Jump Shot (17 PTS) (Dieng 3 AST),,84-80,84,80
+0021900964,2020-03-10,MEM,ORL,34.07,3,1,56,ORL,ORL,fg_make,75,False,False,,Augustin 1' Driving Finger Roll Layup (10 PTS),84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.17,3,1,50,ORL,MEM,foul,26,False,False,Jackson Offensive Charge Foul (P2.PN) (E.Malloy),,84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.17,3,1,50,MEM,MEM,tov,37,False,False,Jackson Offensive Foul Turnover (P3.T17),,84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.4,3,1,36,ORL,ORL,fg_miss,5,False,False,,MISS Augustin 4' Layup,84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.42,3,1,35,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:0 Def:5),,84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.42,3,1,35,MEM,ORL,foul,1,False,False,,Augustin P.FOUL (P3.T4) (D.Taylor),84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.58,3,1,25,MEM,MEM,fg3_miss,79,False,False,MISS Jones 27' 3PT Pullup Jump Shot,,84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.62,3,1,23,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:2 Def:3),84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.85,3,1,9,ORL,ORL,fg_miss,58,False,False,,MISS Bamba 7' Turnaround Hook Shot,84-82,84,82
+0021900964,2020-03-10,MEM,ORL,34.88,3,1,7,ORL,ORL,reb,0,False,False,,Augustin REBOUND (Off:1 Def:1),84-82,84,82
+0021900964,2020-03-10,MEM,ORL,35.1,3,0,54,ORL,ORL,fg3_miss,1,False,False,,MISS Carter-Williams 3PT Jump Shot,84-82,84,82
+0021900964,2020-03-10,MEM,ORL,35.13,3,0,52,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:3 Def:3),84-82,84,82
+0021900964,2020-03-10,MEM,ORL,35.13,3,0,52,ORL,ORL,fg_make,72,False,False,,Bamba 1' Putback Layup (5 PTS),84-84,84,84
+0021900964,2020-03-10,MEM,ORL,35.13,3,0,52,ORL,MEM,foul,2,False,False,Jackson S.FOUL (P3.PN) (E.Malloy),,84-84,84,84
+0021900964,2020-03-10,MEM,ORL,35.13,3,0,52,ORL,ORL,ft_miss,10,False,False,,MISS Bamba Free Throw 1 of 1,84-84,84,84
+0021900964,2020-03-10,MEM,ORL,35.13,3,0,52,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,84-84,84,84
+0021900964,2020-03-10,MEM,ORL,35.3,3,0,42,MEM,MEM,fg3_miss,79,False,False,MISS Jones 27' 3PT Pullup Jump Shot,,84-84,84,84
+0021900964,2020-03-10,MEM,ORL,35.35,3,0,39,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:3 Def:4),84-84,84,84
+0021900964,2020-03-10,MEM,ORL,35.43,3,0,34,ORL,MEM,foul,6,False,False,Jackson AWAY.FROM.PLAY.FOUL (P4.PN) (E.Malloy),,84-84,84,84
+0021900964,2020-03-10,MEM,ORL,35.43,3,0,34,ORL,ORL,ft_make,10,False,False,,Augustin Free Throw 1 of 1 (11 PTS),84-85,84,85
+0021900964,2020-03-10,MEM,ORL,35.5,3,0,30,ORL,ORL,tov,1,False,True,,Ross Bad Pass Turnover (P2.T13),84-85,84,85
+0021900964,2020-03-10,MEM,ORL,35.5,3,0,30,ORL,MEM,steal,1,False,True,steal,steal,84-85,84,85
+0021900964,2020-03-10,MEM,ORL,35.53,3,0,28,MEM,MEM,fg_make,76,False,False,Jackson 1' Running Finger Roll Layup (15 PTS),,86-85,86,85
+0021900964,2020-03-10,MEM,ORL,35.53,3,0,28,MEM,ORL,foul,2,False,False,,Ross S.FOUL (P2.PN) (E.Malloy),86-85,86,85
+0021900964,2020-03-10,MEM,ORL,35.53,3,0,28,MEM,MEM,ft_miss,10,False,False,MISS Jackson Free Throw 1 of 1,,86-85,86,85
+0021900964,2020-03-10,MEM,ORL,35.6,3,0,24,ORL,ORL,reb,0,False,False,,Ross REBOUND (Off:0 Def:1),86-85,86,85
+0021900964,2020-03-10,MEM,ORL,35.92,3,0,5,ORL,ORL,fg3_miss,1,False,False,,MISS Ross 25' 3PT Jump Shot,86-85,86,85
+0021900964,2020-03-10,MEM,ORL,35.92,3,0,5,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:0 Def:6),,86-85,86,85
+0021900964,2020-03-10,MEM,ORL,36.0,3,0,0,MEM,,period_end,0,False,False,,,86-85,86,85
+0021900964,2020-03-10,MEM,ORL,36.0,4,12,0,MEM,,period_start,0,False,False,,,86-85,86,85
+0021900964,2020-03-10,MEM,ORL,36.37,4,11,38,MEM,MEM,fg_make,57,False,False,Valanciunas 7' Driving Hook Shot (19 PTS),,88-85,88,85
+0021900964,2020-03-10,MEM,ORL,36.58,4,11,25,ORL,ORL,fg_make,109,False,False,,Ross 1' Driving Reverse Dunk Shot (8 PTS) (Gordon 6 AST),88-87,88,87
+0021900964,2020-03-10,MEM,ORL,36.8,4,11,12,MEM,MEM,tov,39,False,False,Jackson Step Out of Bounds Turnover (P4.T18),,88-87,88,87
+0021900964,2020-03-10,MEM,ORL,37.18,4,10,49,ORL,ORL,fg3_make,1,False,False,,Carter-Williams 3PT Jump Shot (20 PTS) (Gordon 7 AST),88-90,88,90
+0021900964,2020-03-10,MEM,ORL,37.53,4,10,28,MEM,MEM,fg_make,98,False,False,Konchar 1' Cutting Layup Shot (2 PTS) (Jackson 4 AST),,90-90,90,90
+0021900964,2020-03-10,MEM,ORL,37.73,4,10,16,ORL,ORL,fg_make,79,False,False,,Ross 13' Pullup Jump Shot (10 PTS) (Augustin 3 AST),90-92,90,92
+0021900964,2020-03-10,MEM,ORL,38.15,4,9,51,MEM,ORL,foul,2,False,False,,Bamba S.FOUL (P1.T1) (T.Ford),90-92,90,92
+0021900964,2020-03-10,MEM,ORL,38.15,4,9,51,MEM,MEM,ft_miss,11,False,False,MISS Valanciunas Free Throw 1 of 2,,90-92,90,92
+0021900964,2020-03-10,MEM,ORL,38.15,4,9,51,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,90-92,90,92
+0021900964,2020-03-10,MEM,ORL,38.15,4,9,51,MEM,MEM,ft_miss,12,False,False,MISS Valanciunas Free Throw 2 of 2,,90-92,90,92
+0021900964,2020-03-10,MEM,ORL,38.23,4,9,46,ORL,ORL,reb,0,False,False,,Ross REBOUND (Off:0 Def:2),90-92,90,92
+0021900964,2020-03-10,MEM,ORL,38.43,4,9,34,ORL,MEM,foul,2,False,False,Jackson S.FOUL (P5.T1) (E.Malloy),,90-92,90,92
+0021900964,2020-03-10,MEM,ORL,38.43,4,9,34,ORL,ORL,ft_make,13,False,False,,Ross Free Throw 1 of 3 (11 PTS),90-93,90,93
+0021900964,2020-03-10,MEM,ORL,38.43,4,9,34,ORL,ORL,ft_make,14,False,False,,Ross Free Throw 2 of 3 (12 PTS),90-94,90,94
+0021900964,2020-03-10,MEM,ORL,38.43,4,9,34,ORL,ORL,ft_make,15,False,False,,Ross Free Throw 3 of 3 (13 PTS),90-95,90,95
+0021900964,2020-03-10,MEM,ORL,38.47,4,9,32,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 4 Short 0),,90-95,90,95
+0021900964,2020-03-10,MEM,ORL,38.75,4,9,15,MEM,ORL,foul,2,False,False,,Carter-Williams S.FOUL (P3.T2) (E.Malloy),90-95,90,95
+0021900964,2020-03-10,MEM,ORL,38.75,4,9,15,MEM,MEM,ft_make,11,False,False,Valanciunas Free Throw 1 of 2 (20 PTS),,91-95,91,95
+0021900964,2020-03-10,MEM,ORL,38.75,4,9,15,MEM,MEM,ft_make,12,False,False,Valanciunas Free Throw 2 of 2 (21 PTS),,92-95,92,95
+0021900964,2020-03-10,MEM,ORL,38.97,4,9,2,ORL,ORL,fg_make,108,False,False,,Ross Cutting Dunk Shot (15 PTS) (Gordon 8 AST),92-97,92,97
+0021900964,2020-03-10,MEM,ORL,39.22,4,8,47,MEM,ORL,foul,2,False,False,,Gordon S.FOUL (P4.T3) (D.Taylor),92-97,92,97
+0021900964,2020-03-10,MEM,ORL,39.22,4,8,47,MEM,MEM,ft_make,11,False,False,Tolliver Free Throw 1 of 2 (4 PTS),,93-97,93,97
+0021900964,2020-03-10,MEM,ORL,39.22,4,8,47,MEM,MEM,ft_make,12,False,False,Tolliver Free Throw 2 of 2 (5 PTS),,94-97,94,97
+0021900964,2020-03-10,MEM,ORL,39.42,4,8,35,ORL,ORL,fg_make,1,False,False,,Vucevic 18' Jump Shot (16 PTS) (Augustin 4 AST),94-99,94,99
+0021900964,2020-03-10,MEM,ORL,39.68,4,8,19,MEM,ORL,foul,2,False,False,,Vucevic S.FOUL (P3.T4) (E.Malloy),94-99,94,99
+0021900964,2020-03-10,MEM,ORL,39.68,4,8,19,MEM,MEM,ft_make,11,False,False,Valanciunas Free Throw 1 of 2 (22 PTS),,95-99,95,99
+0021900964,2020-03-10,MEM,ORL,39.68,4,8,19,MEM,MEM,ft_make,12,False,False,Valanciunas Free Throw 2 of 2 (23 PTS),,96-99,96,99
+0021900964,2020-03-10,MEM,ORL,39.83,4,8,10,ORL,MEM,foul,1,False,False,Morant P.FOUL (P2.T2) (D.Taylor),,96-99,96,99
+0021900964,2020-03-10,MEM,ORL,39.88,4,8,7,ORL,ORL,tov,1,False,True,,Gordon Bad Pass Turnover (P2.T14),96-99,96,99
+0021900964,2020-03-10,MEM,ORL,39.88,4,8,7,ORL,MEM,steal,1,False,True,steal,steal,96-99,96,99
+0021900964,2020-03-10,MEM,ORL,39.95,4,8,3,MEM,MEM,tov,1,False,True,Brooks Bad Pass Turnover (P4.T19),,96-99,96,99
+0021900964,2020-03-10,MEM,ORL,39.95,4,8,3,MEM,ORL,steal,1,False,True,steal,steal,96-99,96,99
+0021900964,2020-03-10,MEM,ORL,40.03,4,7,58,ORL,ORL,fg3_make,2,False,False,,Ross 3PT Running Jump Shot (18 PTS) (Gordon 9 AST),96-102,96,102
+0021900964,2020-03-10,MEM,ORL,40.32,4,7,41,MEM,MEM,fg_make,78,False,False,Valanciunas 7' Floating Jump Shot (25 PTS) (Melton 6 AST),,98-102,98,102
+0021900964,2020-03-10,MEM,ORL,40.6,4,7,24,ORL,ORL,fg_miss,79,False,False,,MISS Gordon 17' Pullup Jump Shot,98-102,98,102
+0021900964,2020-03-10,MEM,ORL,40.63,4,7,22,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:2 Def:4),,98-102,98,102
+0021900964,2020-03-10,MEM,ORL,40.73,4,7,16,MEM,MEM,fg3_miss,1,False,False,MISS Tolliver 26' 3PT Jump Shot,,98-102,98,102
+0021900964,2020-03-10,MEM,ORL,40.77,4,7,14,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:8),98-102,98,102
+0021900964,2020-03-10,MEM,ORL,40.95,4,7,3,ORL,ORL,fg_miss,79,False,False,,MISS Fultz 8' Pullup Jump Shot,98-102,98,102
+0021900964,2020-03-10,MEM,ORL,41.0,4,7,0,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:4 Def:10),,98-102,98,102
+0021900964,2020-03-10,MEM,ORL,41.2,4,6,48,MEM,MEM,fg_make,101,False,False,Morant 12' Driving Floating Jump Shot (19 PTS),,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,41.55,4,6,27,ORL,ORL,fg3_miss,1,False,False,,MISS Ross 25' 3PT Jump Shot,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,41.57,4,6,26,MEM,MEM,reb,0,False,False,Tolliver REBOUND (Off:0 Def:1),,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,41.9,4,6,6,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 25' 3PT Jump Shot,,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,41.97,4,6,2,ORL,ORL,reb,0,False,False,,Ennis III REBOUND (Off:1 Def:1),100-102,100,102
+0021900964,2020-03-10,MEM,ORL,42.1,4,5,54,ORL,ORL,fg_miss,79,False,False,,MISS Augustin 16' Pullup Jump Shot,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,42.13,4,5,52,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:2 Def:5),,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,42.2,4,5,48,MEM,ORL,foul,2,False,False,,Vucevic S.FOUL (P4.PN) (T.Ford),100-102,100,102
+0021900964,2020-03-10,MEM,ORL,42.2,4,5,48,MEM,MEM,ft_miss,11,False,False,MISS Anderson Free Throw 1 of 2,,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,42.2,4,5,48,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,100-102,100,102
+0021900964,2020-03-10,MEM,ORL,42.2,4,5,48,MEM,MEM,ft_make,12,False,False,Anderson Free Throw 2 of 2 (3 PTS),,101-102,101,102
+0021900964,2020-03-10,MEM,ORL,42.37,4,5,38,ORL,ORL,fg3_make,1,False,False,,Vucevic 26' 3PT Jump Shot (19 PTS) (Fultz 4 AST),101-105,101,105
+0021900964,2020-03-10,MEM,ORL,42.78,4,5,13,MEM,MEM,fg3_miss,79,False,False,MISS Melton 26' 3PT Pullup Jump Shot,,101-105,101,105
+0021900964,2020-03-10,MEM,ORL,42.82,4,5,11,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:9),101-105,101,105
+0021900964,2020-03-10,MEM,ORL,43.12,4,4,53,ORL,ORL,fg3_make,1,False,False,,Augustin 26' 3PT Jump Shot (14 PTS) (Vucevic 7 AST),101-108,101,108
+0021900964,2020-03-10,MEM,ORL,43.13,4,4,52,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 5 Short 0),,101-108,101,108
+0021900964,2020-03-10,MEM,ORL,43.3,4,4,42,MEM,MEM,tov,15,False,False,Valanciunas Offensive Goaltending Turnover (P5.T20),,101-108,101,108
+0021900964,2020-03-10,MEM,ORL,43.53,4,4,28,ORL,MEM,foul,2,False,False,Jones S.FOUL (P2.T3) (D.Taylor),,101-108,101,108
+0021900964,2020-03-10,MEM,ORL,43.53,4,4,28,ORL,ORL,ft_make,11,False,False,,Ennis III Free Throw 1 of 2 (6 PTS),101-109,101,109
+0021900964,2020-03-10,MEM,ORL,43.53,4,4,28,ORL,ORL,ft_make,12,False,False,,Ennis III Free Throw 2 of 2 (7 PTS),101-110,101,110
+0021900964,2020-03-10,MEM,ORL,43.63,4,4,22,MEM,MEM,fg3_make,1,False,False,Brooks 28' 3PT Jump Shot (20 PTS) (Morant 3 AST),,104-110,104,110
+0021900964,2020-03-10,MEM,ORL,43.63,4,4,22,MEM,ORL,foul,2,False,False,,Ennis III S.FOUL (P4.PN) (E.Malloy),104-110,104,110
+0021900964,2020-03-10,MEM,ORL,43.63,4,4,22,MEM,MEM,ft_make,10,False,False,Brooks Free Throw 1 of 1 (21 PTS),,105-110,105,110
+0021900964,2020-03-10,MEM,ORL,43.9,4,4,6,ORL,ORL,tov,45,False,False,,Carter-Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T15),105-110,105,110
+0021900964,2020-03-10,MEM,ORL,44.03,4,3,58,MEM,MEM,fg_miss,101,False,False,MISS Morant 2' Driving Floating Jump Shot,,105-110,105,110
+0021900964,2020-03-10,MEM,ORL,44.07,4,3,56,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:10),105-110,105,110
+0021900964,2020-03-10,MEM,ORL,44.15,4,3,51,ORL,ORL,fg_miss,101,False,False,,MISS Fultz 2' Driving Floating Jump Shot,105-110,105,110
+0021900964,2020-03-10,MEM,ORL,44.22,4,3,47,ORL,ORL,reb,0,False,False,,Carter-Williams REBOUND (Off:2 Def:0),105-110,105,110
+0021900964,2020-03-10,MEM,ORL,44.22,4,3,47,ORL,ORL,fg_miss,97,False,False,,MISS Carter-Williams 1' Tip Layup Shot,105-110,105,110
+0021900964,2020-03-10,MEM,ORL,44.23,4,3,46,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:4 Def:11),,105-110,105,110
+0021900964,2020-03-10,MEM,ORL,44.33,4,3,40,MEM,MEM,fg3_make,1,False,False,Jones 3PT Jump Shot (6 PTS) (Morant 4 AST),,108-110,108,110
+0021900964,2020-03-10,MEM,ORL,44.48,4,3,31,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.5 Short 0),108-110,108,110
+0021900964,2020-03-10,MEM,ORL,44.72,4,3,17,ORL,ORL,fg_make,73,False,False,,Fultz 1' Driving Reverse Layup (14 PTS),108-112,108,112
+0021900964,2020-03-10,MEM,ORL,44.97,4,3,2,MEM,MEM,fg_make,86,False,False,Valanciunas 2' Turnaround Fadeaway (27 PTS) (Morant 5 AST),,110-112,110,112
+0021900964,2020-03-10,MEM,ORL,44.97,4,3,2,MEM,ORL,foul,2,False,False,,Ross S.FOUL (P3.PN) (E.Malloy),110-112,110,112
+0021900964,2020-03-10,MEM,ORL,44.97,4,3,2,MEM,MEM,ft_miss,10,False,False,MISS Valanciunas Free Throw 1 of 1,,110-112,110,112
+0021900964,2020-03-10,MEM,ORL,45.03,4,2,58,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:6),110-112,110,112
+0021900964,2020-03-10,MEM,ORL,45.3,4,2,42,MEM,ORL,foul,26,False,False,,Ross Offensive Charge Foul (P4.PN) (T.Ford),110-112,110,112
+0021900964,2020-03-10,MEM,ORL,45.3,4,2,42,ORL,ORL,tov,37,False,False,,Ross Offensive Foul Turnover (P3.T16),110-112,110,112
+0021900964,2020-03-10,MEM,ORL,45.48,4,2,31,MEM,MEM,fg3_miss,79,False,False,MISS Morant 26' 3PT Pullup Jump Shot,,110-112,110,112
+0021900964,2020-03-10,MEM,ORL,45.5,4,2,30,ORL,ORL,reb,0,False,False,,Magic Rebound,110-112,110,112
+0021900964,2020-03-10,MEM,ORL,45.9,4,2,6,ORL,ORL,fg_miss,86,False,False,,MISS Fultz 13' Turnaround Fadeaway Shot,110-112,110,112
+0021900964,2020-03-10,MEM,ORL,45.93,4,2,4,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:4 Def:12),,110-112,110,112
+0021900964,2020-03-10,MEM,ORL,46.03,4,1,58,MEM,MEM,fg_make,73,False,False,Morant 2' Driving Reverse Layup (21 PTS),,112-112,112,112
+0021900964,2020-03-10,MEM,ORL,46.33,4,1,40,ORL,ORL,fg3_miss,1,False,False,,MISS Ross 26' 3PT Jump Shot,112-112,112,112
+0021900964,2020-03-10,MEM,ORL,46.38,4,1,37,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:4),,112-112,112,112
+0021900964,2020-03-10,MEM,ORL,46.57,4,1,26,MEM,MEM,fg_miss,101,False,False,MISS Morant 12' Driving Floating Jump Shot,,112-112,112,112
+0021900964,2020-03-10,MEM,ORL,46.6,4,1,24,ORL,ORL,reb,0,False,False,,Carter-Williams REBOUND (Off:2 Def:1),112-112,112,112
+0021900964,2020-03-10,MEM,ORL,46.68,4,1,19,ORL,ORL,fg3_make,2,False,False,,Ross 24' 3PT Running Jump Shot (21 PTS) (Fultz 5 AST),112-115,112,115
+0021900964,2020-03-10,MEM,ORL,46.93,4,1,4,MEM,MEM,fg_miss,102,False,False,MISS Brooks 4' Driving Floating Bank Jump Shot,,112-115,112,115
+0021900964,2020-03-10,MEM,ORL,46.97,4,1,2,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:1 Def:2),,112-115,112,115
+0021900964,2020-03-10,MEM,ORL,47.08,4,0,55,ORL,MEM,foul,26,False,False,Morant Offensive Charge Foul (P3.T4) (T.Ford),,112-115,112,115
+0021900964,2020-03-10,MEM,ORL,47.08,4,0,55,MEM,MEM,tov,37,False,False,Morant Offensive Foul Turnover (P5.T21),,112-115,112,115
+0021900964,2020-03-10,MEM,ORL,47.28,4,0,43,ORL,ORL,fg3_make,1,False,False,,Ross 26' 3PT Jump Shot (24 PTS) (Fultz 6 AST),112-118,112,118
+0021900964,2020-03-10,MEM,ORL,47.28,4,0,43,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 6 Short 0),,112-118,112,118
+0021900964,2020-03-10,MEM,ORL,47.35,4,0,39,MEM,ORL,foul,2,False,False,,Fultz S.FOUL (P2.PN) (T.Ford),112-118,112,118
+0021900964,2020-03-10,MEM,ORL,47.35,4,0,39,MEM,MEM,ft_make,13,False,False,Jones Free Throw 1 of 3 (7 PTS),,113-118,113,118
+0021900964,2020-03-10,MEM,ORL,47.35,4,0,39,MEM,MEM,ft_make,14,False,False,Jones Free Throw 2 of 3 (8 PTS),,114-118,114,118
+0021900964,2020-03-10,MEM,ORL,47.35,4,0,39,MEM,MEM,ft_make,15,False,False,Jones Free Throw 3 of 3 (9 PTS),,115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.72,4,0,17,ORL,ORL,fg_miss,79,False,False,,MISS Ross 20' Pullup Jump Shot,115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.78,4,0,13,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:1 Def:3),,115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.85,4,0,9,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 7 Short 0),,115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.93,4,0,4,MEM,MEM,fg3_miss,79,False,False,MISS Jones 26' 3PT Pullup Jump Shot,,115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.98,4,0,1,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:7),115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.98,4,0,1,ORL,MEM,foul,1,False,False,Brooks P.FOUL (P4.PN) (T.Ford),,115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.98,4,0,1,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.6 Short 0),115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.98,4,0,1,ORL,MEM,foul,1,False,False,Morant P.FOUL (P4.PN) (E.Malloy),,115-118,115,118
+0021900964,2020-03-10,MEM,ORL,47.98,4,0,1,ORL,ORL,ft_make,11,False,False,,Augustin Free Throw 1 of 2 (15 PTS),115-119,115,119
+0021900964,2020-03-10,MEM,ORL,47.98,4,0,1,ORL,ORL,ft_make,12,False,False,,Augustin Free Throw 2 of 2 (16 PTS),115-120,115,120
+0021900964,2020-03-10,MEM,ORL,48.0,4,0,0,MEM,MEM,fg3_miss,2,False,False,MISS Melton 51' 3PT Running Jump Shot,,115-120,115,120
+0021900964,2020-03-10,MEM,ORL,48.0,4,0,0,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,115-120,115,120
+0021900964,2020-03-10,MEM,ORL,48.0,4,0,0,MEM,,period_end,0,False,False,,,115-120,115,120

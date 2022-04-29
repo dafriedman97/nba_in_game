@@ -1,0 +1,453 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900282,2019-11-30,HOU,ATL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900282,2019-11-30,HOU,ATL,0.0,1,12,0,,HOU,jump_ball,0,False,False,Jump Ball Chandler vs. Jones: Tip to Westbrook,,0-0,0,0
+0021900282,2019-11-30,HOU,ATL,0.33,1,11,40,HOU,HOU,fg_make,7,False,False,Chandler 1' Dunk (2 PTS) (Tucker 1 AST),,2-0,2,0
+0021900282,2019-11-30,HOU,ATL,0.75,1,11,15,ATL,ATL,fg3_make,1,False,False,,Crabbe 26' 3PT Jump Shot (3 PTS) (Jones 1 AST),2-3,2,3
+0021900282,2019-11-30,HOU,ATL,1.0,1,11,0,HOU,HOU,fg_miss,79,False,False,MISS Westbrook 17' Pullup Jump Shot,,2-3,2,3
+0021900282,2019-11-30,HOU,ATL,1.07,1,10,56,ATL,ATL,reb,0,False,False,,Parker REBOUND (Off:0 Def:1),2-3,2,3
+0021900282,2019-11-30,HOU,ATL,1.17,1,10,50,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P1.T1),2-3,2,3
+0021900282,2019-11-30,HOU,ATL,1.17,1,10,50,ATL,HOU,steal,1,False,True,steal,steal,2-3,2,3
+0021900282,2019-11-30,HOU,ATL,1.22,1,10,47,HOU,HOU,tov,45,False,False,Harden Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,2-3,2,3
+0021900282,2019-11-30,HOU,ATL,1.62,1,10,23,ATL,ATL,fg_make,108,False,False,,Jones 1' Cutting Dunk Shot (2 PTS) (Parker 1 AST),2-5,2,5
+0021900282,2019-11-30,HOU,ATL,1.75,1,10,15,HOU,ATL,foul,2,False,False,,Jones S.FOUL (P1.T1) (L.Richardson),2-5,2,5
+0021900282,2019-11-30,HOU,ATL,1.75,1,10,15,HOU,HOU,ft_make,11,False,False,Tucker Free Throw 1 of 2 (1 PTS),,3-5,3,5
+0021900282,2019-11-30,HOU,ATL,1.75,1,10,15,HOU,HOU,ft_make,12,False,False,Tucker Free Throw 2 of 2 (2 PTS),,4-5,4,5
+0021900282,2019-11-30,HOU,ATL,1.93,1,10,4,ATL,ATL,tov,1,False,True,,Parker Bad Pass Turnover (P1.T2),4-5,4,5
+0021900282,2019-11-30,HOU,ATL,1.93,1,10,4,ATL,HOU,steal,1,False,True,steal,steal,4-5,4,5
+0021900282,2019-11-30,HOU,ATL,2.0,1,10,0,HOU,HOU,fg_make,52,False,False,Westbrook 1' Alley Oop Dunk (2 PTS) (Harden 1 AST),,6-5,6,5
+0021900282,2019-11-30,HOU,ATL,2.18,1,9,49,ATL,ATL,fg3_miss,1,False,False,,MISS Parker 27' 3PT Jump Shot,6-5,6,5
+0021900282,2019-11-30,HOU,ATL,2.25,1,9,45,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:1),,6-5,6,5
+0021900282,2019-11-30,HOU,ATL,2.37,1,9,38,HOU,HOU,fg3_make,80,False,False,Harden 25' 3PT Step Back Jump Shot (3 PTS),,9-5,9,5
+0021900282,2019-11-30,HOU,ATL,2.83,1,9,10,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 25' 3PT Jump Shot,9-5,9,5
+0021900282,2019-11-30,HOU,ATL,2.87,1,9,8,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:2),,9-5,9,5
+0021900282,2019-11-30,HOU,ATL,2.98,1,9,1,HOU,HOU,fg_make,6,False,False,Harden 1' Driving Layup (5 PTS),,11-5,11,5
+0021900282,2019-11-30,HOU,ATL,3.32,1,8,41,ATL,ATL,fg3_miss,1,False,False,,MISS Crabbe 25' 3PT Jump Shot,11-5,11,5
+0021900282,2019-11-30,HOU,ATL,3.37,1,8,38,HOU,HOU,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,11-5,11,5
+0021900282,2019-11-30,HOU,ATL,3.6,1,8,24,HOU,HOU,fg3_make,1,False,False,McLemore 25' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),,14-5,14,5
+0021900282,2019-11-30,HOU,ATL,3.62,1,8,23,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.1 Short 0),14-5,14,5
+0021900282,2019-11-30,HOU,ATL,3.87,1,8,8,ATL,HOU,foul,1,False,False,Westbrook P.FOUL (P1.T1) (J.Goble),,14-5,14,5
+0021900282,2019-11-30,HOU,ATL,4.13,1,7,52,ATL,ATL,fg_make,57,False,False,,Parker 5' Driving Hook Shot (2 PTS) (Crabbe 1 AST),14-7,14,7
+0021900282,2019-11-30,HOU,ATL,4.42,1,7,35,HOU,HOU,fg_make,98,False,False,Harden 2' Cutting Layup Shot (7 PTS) (Westbrook 2 AST),,16-7,16,7
+0021900282,2019-11-30,HOU,ATL,4.58,1,7,25,ATL,ATL,fg3_make,79,False,False,,Young 26' 3PT Pullup Jump Shot (3 PTS),16-10,16,10
+0021900282,2019-11-30,HOU,ATL,4.7,1,7,18,HOU,ATL,foul,1,False,False,,Hunter P.FOUL (P1.T2) (L.Richardson),16-10,16,10
+0021900282,2019-11-30,HOU,ATL,4.78,1,7,13,HOU,HOU,tov,1,False,True,Westbrook Bad Pass Turnover (P1.T2),,16-10,16,10
+0021900282,2019-11-30,HOU,ATL,4.78,1,7,13,HOU,ATL,steal,1,False,True,steal,steal,16-10,16,10
+0021900282,2019-11-30,HOU,ATL,4.87,1,7,8,ATL,ATL,fg_make,41,False,False,,Hunter 2' Running Layup (2 PTS) (Young 1 AST),16-12,16,12
+0021900282,2019-11-30,HOU,ATL,5.12,1,6,53,HOU,HOU,fg_make,9,False,False,McLemore 1' Driving Dunk (5 PTS) (Harden 2 AST),,18-12,18,12
+0021900282,2019-11-30,HOU,ATL,5.3,1,6,42,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P2.T3),18-12,18,12
+0021900282,2019-11-30,HOU,ATL,5.3,1,6,42,ATL,HOU,steal,1,False,True,steal,steal,18-12,18,12
+0021900282,2019-11-30,HOU,ATL,5.38,1,6,37,HOU,HOU,fg_make,50,False,False,McLemore 1' Running Dunk (7 PTS) (Westbrook 3 AST),,20-12,20,12
+0021900282,2019-11-30,HOU,ATL,5.7,1,6,18,ATL,ATL,fg_miss,79,False,False,,MISS Hunter 12' Pullup Jump Shot,20-12,20,12
+0021900282,2019-11-30,HOU,ATL,5.73,1,6,16,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:0 Def:1),,20-12,20,12
+0021900282,2019-11-30,HOU,ATL,5.83,1,6,10,HOU,HOU,fg3_make,1,False,False,Harden 27' 3PT Jump Shot (10 PTS) (Westbrook 4 AST),,23-12,23,12
+0021900282,2019-11-30,HOU,ATL,6.12,1,5,53,ATL,ATL,fg3_make,1,False,False,,Parker 26' 3PT Jump Shot (5 PTS) (Crabbe 2 AST),23-15,23,15
+0021900282,2019-11-30,HOU,ATL,6.32,1,5,41,HOU,HOU,fg3_make,1,False,False,McLemore 27' 3PT Jump Shot (10 PTS) (Tucker 2 AST),,26-15,26,15
+0021900282,2019-11-30,HOU,ATL,6.53,1,5,28,ATL,ATL,fg_make,52,False,False,,Jones 1' Alley Oop Dunk (4 PTS) (Young 2 AST),26-17,26,17
+0021900282,2019-11-30,HOU,ATL,6.55,1,5,27,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,26-17,26,17
+0021900282,2019-11-30,HOU,ATL,6.85,1,5,9,HOU,HOU,fg_make,6,False,False,Harden 1' Driving Layup (12 PTS) (Clark 1 AST),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,7.18,1,4,49,ATL,ATL,fg3_miss,1,False,False,,MISS Bembry 24' 3PT Jump Shot,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,7.2,1,4,48,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,7.35,1,4,39,HOU,HOU,fg3_miss,1,False,False,MISS Clark 26' 3PT Jump Shot,,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,7.45,1,4,33,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:1 Def:0),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,7.53,1,4,28,HOU,HOU,tov,45,False,False,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,7.87,1,4,8,ATL,ATL,fg_miss,6,False,False,,MISS Bembry 1' Driving Layup,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,7.9,1,4,6,HOU,HOU,reb,0,False,False,Clark REBOUND (Off:0 Def:1),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,8.07,1,3,56,HOU,HOU,fg3_miss,1,False,False,MISS Sefolosha 24' 3PT Jump Shot,,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,8.08,1,3,55,ATL,ATL,reb,0,False,False,,Hawks Rebound,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,8.33,1,3,40,ATL,ATL,fg3_miss,1,False,False,,MISS Bembry 26' 3PT Jump Shot,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,8.38,1,3,37,HOU,HOU,reb,0,False,False,Clark REBOUND (Off:0 Def:2),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,8.58,1,3,25,HOU,HOU,tov,45,False,False,Harden Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,8.83,1,3,10,ATL,HOU,foul,1,False,False,Sefolosha P.FOUL (P1.T2) (L.Richardson),,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,9.0,1,3,0,ATL,ATL,tov,2,False,True,,Bembry Lost Ball Turnover (P1.T4),28-17,28,17
+0021900282,2019-11-30,HOU,ATL,9.0,1,3,0,ATL,HOU,steal,2,False,True,steal,steal,28-17,28,17
+0021900282,2019-11-30,HOU,ATL,9.07,1,2,56,HOU,HOU,fg_make,41,False,False,Rivers 1' Running Layup (2 PTS) (Harden 3 AST),,30-17,30,17
+0021900282,2019-11-30,HOU,ATL,9.38,1,2,37,ATL,ATL,fg_miss,75,False,False,,MISS Wallace 1' Driving Finger Roll Layup,30-17,30,17
+0021900282,2019-11-30,HOU,ATL,9.42,1,2,35,HOU,HOU,reb,0,False,False,Sefolosha REBOUND (Off:0 Def:1),,30-17,30,17
+0021900282,2019-11-30,HOU,ATL,9.48,1,2,31,HOU,ATL,foul,2,False,False,,Bembry S.FOUL (P1.T3) (L.Richardson),30-17,30,17
+0021900282,2019-11-30,HOU,ATL,9.48,1,2,31,HOU,HOU,ft_miss,11,False,False,MISS Harden Free Throw 1 of 2,,30-17,30,17
+0021900282,2019-11-30,HOU,ATL,9.48,1,2,31,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,30-17,30,17
+0021900282,2019-11-30,HOU,ATL,9.48,1,2,31,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (13 PTS),,31-17,31,17
+0021900282,2019-11-30,HOU,ATL,9.77,1,2,14,ATL,ATL,fg3_miss,1,False,False,,MISS Carter 25' 3PT Jump Shot,31-17,31,17
+0021900282,2019-11-30,HOU,ATL,9.83,1,2,10,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:0 Def:1),,31-17,31,17
+0021900282,2019-11-30,HOU,ATL,9.97,1,2,2,HOU,HOU,fg3_miss,80,False,False,MISS Harden 28' 3PT Step Back Jump Shot,,31-17,31,17
+0021900282,2019-11-30,HOU,ATL,10.0,1,2,0,ATL,ATL,reb,0,False,False,,Wallace REBOUND (Off:0 Def:1),31-17,31,17
+0021900282,2019-11-30,HOU,ATL,10.0,1,2,0,ATL,HOU,foul,1,False,False,Hartenstein P.FOUL (P1.T3) (L.Richardson),,31-17,31,17
+0021900282,2019-11-30,HOU,ATL,10.25,1,1,45,ATL,ATL,fg_make,7,False,False,,Len 1' Dunk (2 PTS) (Bembry 1 AST),31-19,31,19
+0021900282,2019-11-30,HOU,ATL,10.52,1,1,29,HOU,HOU,fg_miss,63,False,False,MISS Westbrook 14' Fadeaway Jumper,,31-19,31,19
+0021900282,2019-11-30,HOU,ATL,10.58,1,1,25,HOU,HOU,reb,0,False,False,Hartenstein REBOUND (Off:1 Def:0),,33-19,33,19
+0021900282,2019-11-30,HOU,ATL,10.58,1,1,25,HOU,HOU,fg_make,97,False,False,Hartenstein 1' Tip Layup Shot (2 PTS),,33-19,33,19
+0021900282,2019-11-30,HOU,ATL,10.93,1,1,4,ATL,ATL,fg3_miss,1,False,False,,MISS Turner 25' 3PT Jump Shot,33-19,33,19
+0021900282,2019-11-30,HOU,ATL,10.95,1,1,3,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:0 Def:2),,33-19,33,19
+0021900282,2019-11-30,HOU,ATL,11.07,1,0,56,HOU,HOU,tov,1,False,True,Westbrook Bad Pass Turnover (P2.T5),,33-19,33,19
+0021900282,2019-11-30,HOU,ATL,11.07,1,0,56,HOU,ATL,steal,1,False,True,steal,steal,33-19,33,19
+0021900282,2019-11-30,HOU,ATL,11.12,1,0,53,ATL,ATL,tov,45,False,False,,Bembry Out of Bounds - Bad Pass Turnover Turnover (P2.T5),33-19,33,19
+0021900282,2019-11-30,HOU,ATL,11.38,1,0,37,HOU,HOU,fg_make,43,False,False,Hartenstein Alley Oop Layup (4 PTS) (Westbrook 5 AST),,35-19,35,19
+0021900282,2019-11-30,HOU,ATL,11.47,1,0,32,ATL,HOU,foul,1,False,False,Rivers P.FOUL (P1.PN) (K.Lane),,35-19,35,19
+0021900282,2019-11-30,HOU,ATL,11.47,1,0,32,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (4 PTS),35-20,35,20
+0021900282,2019-11-30,HOU,ATL,11.47,1,0,32,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (5 PTS),35-21,35,21
+0021900282,2019-11-30,HOU,ATL,11.58,1,0,25,HOU,HOU,fg3_make,80,False,False,Westbrook 25' 3PT Step Back Jump Shot (5 PTS),,38-21,38,21
+0021900282,2019-11-30,HOU,ATL,11.98,1,0,1,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#6),38-21,38,21
+0021900282,2019-11-30,HOU,ATL,12.0,1,0,0,HOU,HOU,fg3_miss,1,False,False,MISS Rivers 28' 3PT Jump Shot,,38-21,38,21
+0021900282,2019-11-30,HOU,ATL,12.0,1,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,38-21,38,21
+0021900282,2019-11-30,HOU,ATL,12.0,1,0,0,HOU,,period_end,0,False,False,,,38-21,38,21
+0021900282,2019-11-30,HOU,ATL,12.0,2,12,0,HOU,,period_start,0,False,False,,,38-21,38,21
+0021900282,2019-11-30,HOU,ATL,12.25,2,11,45,ATL,ATL,fg_make,7,False,False,,Len 2' Dunk (4 PTS) (Turner 1 AST),38-23,38,23
+0021900282,2019-11-30,HOU,ATL,12.55,2,11,27,HOU,HOU,fg3_miss,1,False,False,MISS Clark 25' 3PT Jump Shot,,38-23,38,23
+0021900282,2019-11-30,HOU,ATL,12.57,2,11,26,ATL,ATL,reb,0,False,False,,Hawks Rebound,38-23,38,23
+0021900282,2019-11-30,HOU,ATL,12.83,2,11,10,ATL,ATL,fg3_miss,79,False,False,,MISS Young 30' 3PT Pullup Jump Shot,38-23,38,23
+0021900282,2019-11-30,HOU,ATL,12.85,2,11,9,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,38-23,38,23
+0021900282,2019-11-30,HOU,ATL,13.02,2,10,59,HOU,HOU,fg_make,6,False,False,Rivers Driving Layup (4 PTS),,40-23,40,23
+0021900282,2019-11-30,HOU,ATL,13.02,2,10,59,HOU,ATL,foul,2,False,False,,Crabbe S.FOUL (P1.T1) (K.Lane),40-23,40,23
+0021900282,2019-11-30,HOU,ATL,13.02,2,10,59,HOU,HOU,ft_make,10,False,False,Rivers Free Throw 1 of 1 (5 PTS),,41-23,41,23
+0021900282,2019-11-30,HOU,ATL,13.3,2,10,42,ATL,ATL,fg_make,7,False,False,,Len 1' Dunk (6 PTS) (Parsons 1 AST),41-25,41,25
+0021900282,2019-11-30,HOU,ATL,13.57,2,10,26,HOU,HOU,tov,13,False,False,Westbrook Backcourt Turnover (P3.T6),,41-25,41,25
+0021900282,2019-11-30,HOU,ATL,13.75,2,10,15,ATL,ATL,fg3_miss,1,False,False,,MISS Parsons 3PT Jump Shot,41-25,41,25
+0021900282,2019-11-30,HOU,ATL,13.8,2,10,12,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:0 Def:3),,41-25,41,25
+0021900282,2019-11-30,HOU,ATL,13.93,2,10,4,HOU,HOU,fg_make,101,False,False,Hartenstein 5' Driving Floating Jump Shot (6 PTS) (Westbrook 6 AST),,43-25,43,25
+0021900282,2019-11-30,HOU,ATL,14.08,2,9,55,ATL,HOU,foul,1,False,False,Westbrook P.FOUL (P2.T1) (K.Lane),,43-25,43,25
+0021900282,2019-11-30,HOU,ATL,14.08,2,9,55,ATL,,foul,16,False,False,,,43-25,43,25
+0021900282,2019-11-30,HOU,ATL,14.13,2,9,52,ATL,ATL,fg3_make,1,False,False,,Young 26' 3PT Jump Shot (8 PTS) (Parsons 2 AST),43-28,43,28
+0021900282,2019-11-30,HOU,ATL,14.3,2,9,42,HOU,HOU,tov,2,False,True,Westbrook Lost Ball Turnover (P4.T7),,43-28,43,28
+0021900282,2019-11-30,HOU,ATL,14.3,2,9,42,HOU,ATL,steal,2,False,True,steal,steal,43-28,43,28
+0021900282,2019-11-30,HOU,ATL,14.3,2,9,42,ATL,HOU,foul,14,False,False,Hartenstein FLAGRANT.FOUL.TYPE1 (P2.T2) (L.Richardson),,43-28,43,28
+0021900282,2019-11-30,HOU,ATL,14.3,2,9,42,ATL,ATL,ft_make,18,False,False,,Young Free Throw Flagrant 1 of 2 (9 PTS),43-29,43,29
+0021900282,2019-11-30,HOU,ATL,14.3,2,9,42,ATL,ATL,ft_make,19,False,False,,Young Free Throw Flagrant 2 of 2 (10 PTS),43-30,43,30
+0021900282,2019-11-30,HOU,ATL,14.47,2,9,32,ATL,HOU,foul,1,False,False,McLemore P.FOUL (P1.T3) (K.Lane),,43-30,43,30
+0021900282,2019-11-30,HOU,ATL,14.47,2,9,32,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (11 PTS),43-31,43,31
+0021900282,2019-11-30,HOU,ATL,14.47,2,9,32,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (12 PTS),43-32,43,32
+0021900282,2019-11-30,HOU,ATL,14.55,2,9,27,HOU,ATL,foul,2,False,False,,Len S.FOUL (P1.T2) (K.Lane),43-32,43,32
+0021900282,2019-11-30,HOU,ATL,14.55,2,9,27,HOU,HOU,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (6 PTS),,44-32,44,32
+0021900282,2019-11-30,HOU,ATL,14.55,2,9,27,HOU,HOU,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (7 PTS),,45-32,45,32
+0021900282,2019-11-30,HOU,ATL,14.78,2,9,13,ATL,ATL,fg_miss,47,False,False,,MISS Turner 14' Turnaround Jump Shot,45-32,45,32
+0021900282,2019-11-30,HOU,ATL,14.85,2,9,9,HOU,HOU,reb,0,False,False,Clark REBOUND (Off:0 Def:3),,45-32,45,32
+0021900282,2019-11-30,HOU,ATL,14.9,2,9,6,HOU,HOU,fg_make,41,False,False,Westbrook 1' Running Layup (9 PTS),,47-32,47,32
+0021900282,2019-11-30,HOU,ATL,15.02,2,8,59,ATL,ATL,fg3_miss,1,False,False,,MISS Parsons 27' 3PT Jump Shot,47-32,47,32
+0021900282,2019-11-30,HOU,ATL,15.02,2,8,59,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:3),,47-32,47,32
+0021900282,2019-11-30,HOU,ATL,15.28,2,8,43,HOU,HOU,fg3_make,1,False,False,Clark 3PT Jump Shot (3 PTS) (McLemore 1 AST),,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,15.32,2,8,41,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.2 Short 0),50-32,50,32
+0021900282,2019-11-30,HOU,ATL,15.55,2,8,27,ATL,ATL,tov,4,False,False,,Parker Traveling Turnover (P2.T7),50-32,50,32
+0021900282,2019-11-30,HOU,ATL,15.72,2,8,17,HOU,HOU,fg3_miss,1,False,False,MISS Clark 25' 3PT Jump Shot,,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,15.78,2,8,13,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:1),,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,15.93,2,8,4,HOU,HOU,fg3_miss,80,False,False,MISS Harden 26' 3PT Step Back Jump Shot,,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,15.98,2,8,1,ATL,ATL,reb,0,False,False,,Parker REBOUND (Off:0 Def:2),50-32,50,32
+0021900282,2019-11-30,HOU,ATL,15.98,2,8,1,ATL,HOU,foul,28,False,False,Harden Personal Take Foul (P1.T4) (L.Richardson),,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,16.22,2,7,47,ATL,HOU,foul,2,False,False,Tucker S.FOUL (P1.PN) (K.Lane),,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,16.22,2,7,47,ATL,ATL,ft_miss,11,False,False,,MISS Jones Free Throw 1 of 2,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,16.22,2,7,47,ATL,ATL,reb,1,False,False,,Hawks Rebound,50-32,50,32
+0021900282,2019-11-30,HOU,ATL,16.22,2,7,47,ATL,ATL,ft_make,12,False,False,,Jones Free Throw 2 of 2 (5 PTS),50-33,50,33
+0021900282,2019-11-30,HOU,ATL,16.47,2,7,32,HOU,HOU,fg3_make,1,False,False,Tucker 27' 3PT Jump Shot (5 PTS) (Harden 4 AST),,53-33,53,33
+0021900282,2019-11-30,HOU,ATL,16.83,2,7,10,ATL,ATL,tov,1,False,True,,Bembry Bad Pass Turnover (P3.T8),53-33,53,33
+0021900282,2019-11-30,HOU,ATL,16.83,2,7,10,ATL,HOU,steal,1,False,True,steal,steal,53-33,53,33
+0021900282,2019-11-30,HOU,ATL,16.95,2,7,3,HOU,HOU,fg_miss,6,False,False,MISS Rivers 1' Driving Layup,,53-33,53,33
+0021900282,2019-11-30,HOU,ATL,17.0,2,7,0,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:0 Def:1),53-33,53,33
+0021900282,2019-11-30,HOU,ATL,17.08,2,6,55,ATL,ATL,fg3_miss,103,False,False,,MISS Hunter 25' 3PT Running Pull-Up Jump Shot,53-33,53,33
+0021900282,2019-11-30,HOU,ATL,17.12,2,6,53,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:2),,53-33,53,33
+0021900282,2019-11-30,HOU,ATL,17.15,2,6,51,HOU,HOU,fg_make,74,False,False,Harden Running Reverse Layup (15 PTS),,55-33,55,33
+0021900282,2019-11-30,HOU,ATL,17.15,2,6,51,HOU,ATL,foul,2,False,False,,Jones S.FOUL (P2.T3) (L.Richardson),55-33,55,33
+0021900282,2019-11-30,HOU,ATL,17.15,2,6,51,HOU,HOU,ft_make,10,False,False,Harden Free Throw 1 of 1 (16 PTS),,56-33,56,33
+0021900282,2019-11-30,HOU,ATL,17.32,2,6,41,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 25' 3PT Jump Shot,56-33,56,33
+0021900282,2019-11-30,HOU,ATL,17.38,2,6,37,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:4),,56-33,56,33
+0021900282,2019-11-30,HOU,ATL,17.45,2,6,33,HOU,HOU,fg3_miss,79,False,False,MISS Harden 28' 3PT Pullup Jump Shot,,56-33,56,33
+0021900282,2019-11-30,HOU,ATL,17.52,2,6,29,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:0 Def:2),56-33,56,33
+0021900282,2019-11-30,HOU,ATL,17.65,2,6,21,ATL,ATL,fg_miss,101,False,False,,MISS Bembry 6' Driving Floating Jump Shot,56-33,56,33
+0021900282,2019-11-30,HOU,ATL,17.68,2,6,19,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:3),,56-33,56,33
+0021900282,2019-11-30,HOU,ATL,17.85,2,6,9,HOU,HOU,fg3_make,1,False,False,Tucker 3PT Jump Shot (8 PTS) (Clark 2 AST),,59-33,59,33
+0021900282,2019-11-30,HOU,ATL,17.87,2,6,8,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.3 Short 0),59-33,59,33
+0021900282,2019-11-30,HOU,ATL,18.1,2,5,54,ATL,HOU,foul,17,False,False,ROCKETS T.Foul (Def. 3 Sec Harden ) (K.Lane),,59-33,59,33
+0021900282,2019-11-30,HOU,ATL,18.1,2,5,54,ATL,ATL,ft_make,16,False,False,,Young Free Throw Technical (13 PTS),59-34,59,34
+0021900282,2019-11-30,HOU,ATL,18.23,2,5,46,ATL,ATL,fg3_miss,1,False,False,,MISS Parker 26' 3PT Jump Shot,59-34,59,34
+0021900282,2019-11-30,HOU,ATL,18.32,2,5,41,ATL,ATL,reb,0,False,False,,Jones REBOUND (Off:1 Def:0),59-34,59,34
+0021900282,2019-11-30,HOU,ATL,18.32,2,5,41,ATL,ATL,fg_miss,97,False,False,,MISS Jones 1' Tip Layup Shot,59-34,59,34
+0021900282,2019-11-30,HOU,ATL,18.33,2,5,40,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:2),59-34,59,34
+0021900282,2019-11-30,HOU,ATL,18.33,2,5,40,ATL,ATL,fg_miss,97,False,False,,MISS Hunter 1' Tip Layup Shot,59-34,59,34
+0021900282,2019-11-30,HOU,ATL,18.35,2,5,39,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:2),,59-34,59,34
+0021900282,2019-11-30,HOU,ATL,18.5,2,5,30,HOU,HOU,fg3_make,80,False,False,Harden 25' 3PT Step Back Jump Shot (19 PTS),,62-34,62,34
+0021900282,2019-11-30,HOU,ATL,18.67,2,5,20,ATL,ATL,fg_make,101,False,False,,Young 9' Driving Floating Jump Shot (15 PTS),62-36,62,36
+0021900282,2019-11-30,HOU,ATL,19.05,2,4,57,HOU,ATL,foul,1,False,False,,Bembry P.FOUL (P2.T4) (J.Goble),62-36,62,36
+0021900282,2019-11-30,HOU,ATL,19.22,2,4,47,HOU,HOU,tov,1,False,True,Harden Bad Pass Turnover (P3.T8),,62-36,62,36
+0021900282,2019-11-30,HOU,ATL,19.22,2,4,47,HOU,ATL,steal,1,False,True,steal,steal,62-36,62,36
+0021900282,2019-11-30,HOU,ATL,19.33,2,4,40,ATL,ATL,fg_make,7,False,False,,Jones 1' Dunk (7 PTS) (Hunter 1 AST),62-38,62,38
+0021900282,2019-11-30,HOU,ATL,19.33,2,4,40,ATL,HOU,foul,2,False,False,Harden S.FOUL (P2.PN) (J.Goble),,62-38,62,38
+0021900282,2019-11-30,HOU,ATL,19.33,2,4,40,ATL,ATL,ft_make,10,False,False,,Jones Free Throw 1 of 1 (8 PTS),62-39,62,39
+0021900282,2019-11-30,HOU,ATL,19.63,2,4,22,HOU,HOU,fg_miss,79,False,False,MISS Westbrook 18' Pullup Jump Shot,,62-39,62,39
+0021900282,2019-11-30,HOU,ATL,19.67,2,4,20,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:1),62-39,62,39
+0021900282,2019-11-30,HOU,ATL,19.85,2,4,9,ATL,ATL,fg_make,5,False,False,,Parker 2' Layup (7 PTS) (Young 3 AST),62-41,62,41
+0021900282,2019-11-30,HOU,ATL,20.1,2,3,54,HOU,HOU,fg_make,75,False,False,Harden 1' Driving Finger Roll Layup (21 PTS),,64-41,64,41
+0021900282,2019-11-30,HOU,ATL,20.23,2,3,46,ATL,ATL,fg3_miss,80,False,False,,MISS Young 28' 3PT Step Back Jump Shot,64-41,64,41
+0021900282,2019-11-30,HOU,ATL,20.3,2,3,42,HOU,HOU,reb,0,False,False,Clark REBOUND (Off:0 Def:4),,64-41,64,41
+0021900282,2019-11-30,HOU,ATL,20.33,2,3,40,HOU,HOU,fg3_make,2,False,False,Rivers 26' 3PT Running Jump Shot (8 PTS) (Westbrook 7 AST),,67-41,67,41
+0021900282,2019-11-30,HOU,ATL,20.7,2,3,18,ATL,ATL,fg_miss,6,False,False,,MISS Hunter 1' Driving Layup,67-41,67,41
+0021900282,2019-11-30,HOU,ATL,20.75,2,3,15,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:4),,67-41,67,41
+0021900282,2019-11-30,HOU,ATL,20.83,2,3,10,HOU,HOU,fg_miss,41,False,False,MISS Harden 1' Running Layup,,67-41,67,41
+0021900282,2019-11-30,HOU,ATL,20.88,2,3,7,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:3),67-41,67,41
+0021900282,2019-11-30,HOU,ATL,21.08,2,2,55,ATL,ATL,fg_miss,101,False,False,,MISS Young 8' Driving Floating Jump Shot,67-41,67,41
+0021900282,2019-11-30,HOU,ATL,21.1,2,2,54,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,67-41,67,41
+0021900282,2019-11-30,HOU,ATL,21.1,2,2,54,HOU,ATL,foul,3,False,False,,Jones L.B.FOUL (P3.PN) (L.Richardson),67-41,67,41
+0021900282,2019-11-30,HOU,ATL,21.1,2,2,54,HOU,HOU,ft_make,11,False,False,Tucker Free Throw 1 of 2 (9 PTS),,68-41,68,41
+0021900282,2019-11-30,HOU,ATL,21.1,2,2,54,HOU,HOU,ft_make,12,False,False,Tucker Free Throw 2 of 2 (10 PTS),,69-41,69,41
+0021900282,2019-11-30,HOU,ATL,21.27,2,2,44,ATL,ATL,fg_make,108,False,False,,Len 1' Cutting Dunk Shot (8 PTS) (Bembry 2 AST),69-43,69,43
+0021900282,2019-11-30,HOU,ATL,21.57,2,2,26,HOU,ATL,foul,2,False,False,,Bembry S.FOUL (P3.PN) (K.Lane),69-43,69,43
+0021900282,2019-11-30,HOU,ATL,21.57,2,2,26,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (22 PTS),,70-43,70,43
+0021900282,2019-11-30,HOU,ATL,21.57,2,2,26,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (23 PTS),,71-43,71,43
+0021900282,2019-11-30,HOU,ATL,21.87,2,2,8,ATL,ATL,fg_make,3,False,False,,Parker 5' Hook Shot (9 PTS) (Young 4 AST),71-45,71,45
+0021900282,2019-11-30,HOU,ATL,22.08,2,1,55,HOU,HOU,fg_miss,105,False,False,MISS Westbrook 13' Turnaround Fadeaway Bank Jump Shot,,71-45,71,45
+0021900282,2019-11-30,HOU,ATL,22.12,2,1,53,ATL,ATL,reb,0,False,False,,Len REBOUND (Off:0 Def:1),71-45,71,45
+0021900282,2019-11-30,HOU,ATL,22.27,2,1,44,HOU,ATL,foul,26,False,False,,Len Offensive Charge Foul (P2.PN) (K.Lane),71-45,71,45
+0021900282,2019-11-30,HOU,ATL,22.27,2,1,44,ATL,ATL,tov,37,False,False,,Len Offensive Foul Turnover (P1.T9),71-45,71,45
+0021900282,2019-11-30,HOU,ATL,22.48,2,1,31,HOU,HOU,fg3_make,80,False,False,Harden 27' 3PT Step Back Jump Shot (26 PTS),,74-45,74,45
+0021900282,2019-11-30,HOU,ATL,22.68,2,1,19,ATL,HOU,foul,1,False,False,Rivers P.FOUL (P2.PN) (L.Richardson),,74-45,74,45
+0021900282,2019-11-30,HOU,ATL,22.68,2,1,19,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (16 PTS),74-46,74,46
+0021900282,2019-11-30,HOU,ATL,22.68,2,1,19,ATL,ATL,ft_miss,12,False,False,,MISS Young Free Throw 2 of 2,74-46,74,46
+0021900282,2019-11-30,HOU,ATL,22.73,2,1,16,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:5),,74-46,74,46
+0021900282,2019-11-30,HOU,ATL,22.77,2,1,14,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,74-46,74,46
+0021900282,2019-11-30,HOU,ATL,22.98,2,1,1,HOU,HOU,fg_miss,5,False,False,MISS Westbrook 6' Layup,,74-46,74,46
+0021900282,2019-11-30,HOU,ATL,23.0,2,1,0,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:3),,74-46,74,46
+0021900282,2019-11-30,HOU,ATL,23.0,2,1,0,HOU,HOU,fg_make,72,False,False,Westbrook 1' Putback Layup (11 PTS),,76-46,76,46
+0021900282,2019-11-30,HOU,ATL,23.18,2,0,49,ATL,ATL,fg_make,101,False,False,,Young 10' Driving Floating Jump Shot (18 PTS),76-48,76,48
+0021900282,2019-11-30,HOU,ATL,23.42,2,0,35,HOU,ATL,foul,1,False,False,,Parker P.FOUL (P1.PN) (K.Lane),76-48,76,48
+0021900282,2019-11-30,HOU,ATL,23.42,2,0,35,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (27 PTS),,77-48,77,48
+0021900282,2019-11-30,HOU,ATL,23.42,2,0,35,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (28 PTS),,78-48,78,48
+0021900282,2019-11-30,HOU,ATL,23.53,2,0,28,ATL,ATL,fg_make,5,False,False,,Len 1' Layup (10 PTS) (Young 5 AST),78-50,78,50
+0021900282,2019-11-30,HOU,ATL,23.9,2,0,6,HOU,HOU,fg3_make,80,False,False,Harden 27' 3PT Step Back Jump Shot (31 PTS),,81-50,81,50
+0021900282,2019-11-30,HOU,ATL,23.97,2,0,2,ATL,HOU,foul,2,False,False,McLemore S.FOUL (P2.PN) (L.Richardson),,81-50,81,50
+0021900282,2019-11-30,HOU,ATL,23.97,2,0,2,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (19 PTS),81-51,81,51
+0021900282,2019-11-30,HOU,ATL,23.97,2,0,2,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (20 PTS),81-52,81,52
+0021900282,2019-11-30,HOU,ATL,24.0,2,0,0,ATL,,period_end,0,False,False,,,81-52,81,52
+0021900282,2019-11-30,HOU,ATL,24.0,3,12,0,ATL,,period_start,0,False,False,,,81-52,81,52
+0021900282,2019-11-30,HOU,ATL,24.0,3,12,0,ATL,,violation,1,False,False,,,81-52,81,52
+0021900282,2019-11-30,HOU,ATL,24.0,3,12,0,ATL,,violation,1,False,False,,,81-52,81,52
+0021900282,2019-11-30,HOU,ATL,24.32,3,11,41,ATL,ATL,fg_make,63,False,False,,Parker 13' Fadeaway Jumper (11 PTS),81-54,81,54
+0021900282,2019-11-30,HOU,ATL,24.6,3,11,24,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 26' 3PT Jump Shot,,81-54,81,54
+0021900282,2019-11-30,HOU,ATL,24.65,3,11,21,ATL,ATL,reb,0,False,False,,Parker REBOUND (Off:0 Def:3),81-54,81,54
+0021900282,2019-11-30,HOU,ATL,24.72,3,11,17,ATL,ATL,fg_make,76,False,False,,Young 1' Running Finger Roll Layup (22 PTS) (Parker 2 AST),81-56,81,56
+0021900282,2019-11-30,HOU,ATL,24.98,3,11,1,HOU,HOU,tov,1,False,True,Harden Bad Pass Turnover (P4.T9),,81-56,81,56
+0021900282,2019-11-30,HOU,ATL,24.98,3,11,1,HOU,ATL,steal,1,False,True,steal,steal,81-56,81,56
+0021900282,2019-11-30,HOU,ATL,25.1,3,10,54,ATL,ATL,fg_miss,101,False,False,,MISS Young 18' Driving Floating Jump Shot,81-56,81,56
+0021900282,2019-11-30,HOU,ATL,25.13,3,10,52,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:4),,81-56,81,56
+0021900282,2019-11-30,HOU,ATL,25.25,3,10,45,HOU,HOU,fg_make,79,False,False,Westbrook 15' Pullup Jump Shot (13 PTS),,83-56,83,56
+0021900282,2019-11-30,HOU,ATL,25.63,3,10,22,ATL,ATL,fg3_miss,1,False,False,,MISS Parker 24' 3PT Jump Shot,83-56,83,56
+0021900282,2019-11-30,HOU,ATL,25.63,3,10,22,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,83-56,83,56
+0021900282,2019-11-30,HOU,ATL,25.63,3,10,22,HOU,ATL,foul,3,False,False,,Jones L.B.FOUL (P4.T1) (J.Goble),83-56,83,56
+0021900282,2019-11-30,HOU,ATL,25.8,3,10,12,HOU,HOU,fg3_make,1,False,False,Harden 26' 3PT Jump Shot (34 PTS) (Westbrook 8 AST),,86-56,86,56
+0021900282,2019-11-30,HOU,ATL,25.92,3,10,5,ATL,ATL,fg3_miss,79,False,False,,MISS Crabbe 26' 3PT Pullup Jump Shot,86-56,86,56
+0021900282,2019-11-30,HOU,ATL,25.95,3,10,3,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:3),,86-56,86,56
+0021900282,2019-11-30,HOU,ATL,26.07,3,9,56,HOU,ATL,foul,2,False,False,,Hunter S.FOUL (P2.T2) (K.Lane),86-56,86,56
+0021900282,2019-11-30,HOU,ATL,26.07,3,9,56,HOU,HOU,ft_make,13,False,False,Harden Free Throw 1 of 3 (35 PTS),,87-56,87,56
+0021900282,2019-11-30,HOU,ATL,26.07,3,9,56,HOU,HOU,ft_make,14,False,False,Harden Free Throw 2 of 3 (36 PTS),,88-56,88,56
+0021900282,2019-11-30,HOU,ATL,26.07,3,9,56,HOU,HOU,ft_make,15,False,False,Harden Free Throw 3 of 3 (37 PTS),,89-56,89,56
+0021900282,2019-11-30,HOU,ATL,26.3,3,9,42,ATL,ATL,fg3_miss,1,False,False,,MISS Carter 26' 3PT Jump Shot,89-56,89,56
+0021900282,2019-11-30,HOU,ATL,26.32,3,9,41,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,89-56,89,56
+0021900282,2019-11-30,HOU,ATL,26.52,3,9,29,HOU,HOU,tov,45,False,False,Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,89-56,89,56
+0021900282,2019-11-30,HOU,ATL,26.6,3,9,24,ATL,HOU,foul,1,False,False,Tucker P.FOUL (P2.T1) (J.Goble),,89-56,89,56
+0021900282,2019-11-30,HOU,ATL,26.75,3,9,15,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 26' 3PT Jump Shot,89-56,89,56
+0021900282,2019-11-30,HOU,ATL,26.75,3,9,15,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,89-56,89,56
+0021900282,2019-11-30,HOU,ATL,26.92,3,9,5,HOU,HOU,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (40 PTS),,92-56,92,56
+0021900282,2019-11-30,HOU,ATL,27.02,3,8,59,ATL,HOU,foul,1,False,False,Westbrook P.FOUL (P3.T2) (J.Goble),,92-56,92,56
+0021900282,2019-11-30,HOU,ATL,27.13,3,8,52,ATL,ATL,fg3_make,79,False,False,,Young 26' 3PT Pullup Jump Shot (25 PTS),92-59,92,59
+0021900282,2019-11-30,HOU,ATL,27.33,3,8,40,HOU,HOU,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (43 PTS),,95-59,95,59
+0021900282,2019-11-30,HOU,ATL,27.37,3,8,38,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.4 Short 0),95-59,95,59
+0021900282,2019-11-30,HOU,ATL,27.6,3,8,24,ATL,ATL,fg_miss,1,False,False,,MISS Hunter 18' Jump Shot,95-59,95,59
+0021900282,2019-11-30,HOU,ATL,27.63,3,8,22,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:5),,95-59,95,59
+0021900282,2019-11-30,HOU,ATL,27.7,3,8,18,HOU,ATL,foul,2,False,False,,Hunter S.FOUL (P3.T3) (K.Lane),95-59,95,59
+0021900282,2019-11-30,HOU,ATL,27.7,3,8,18,HOU,HOU,ft_make,13,False,False,Harden Free Throw 1 of 3 (44 PTS),,96-59,96,59
+0021900282,2019-11-30,HOU,ATL,27.7,3,8,18,HOU,HOU,ft_make,14,False,False,Harden Free Throw 2 of 3 (45 PTS),,97-59,97,59
+0021900282,2019-11-30,HOU,ATL,27.7,3,8,18,HOU,HOU,ft_make,15,False,False,Harden Free Throw 3 of 3 (46 PTS),,98-59,98,59
+0021900282,2019-11-30,HOU,ATL,28.13,3,7,52,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 25' 3PT Jump Shot,98-59,98,59
+0021900282,2019-11-30,HOU,ATL,28.17,3,7,50,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:6),,98-59,98,59
+0021900282,2019-11-30,HOU,ATL,28.5,3,7,30,HOU,HOU,fg_make,99,False,False,Harden 1' Cutting Finger Roll Layup Shot (48 PTS) (Tucker 3 AST),,100-59,100,59
+0021900282,2019-11-30,HOU,ATL,28.8,3,7,12,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P3.T10),100-59,100,59
+0021900282,2019-11-30,HOU,ATL,28.8,3,7,12,ATL,HOU,steal,1,False,True,steal,steal,100-59,100,59
+0021900282,2019-11-30,HOU,ATL,28.9,3,7,6,HOU,ATL,foul,2,False,False,,Hunter S.FOUL (P4.T4) (L.Richardson),100-59,100,59
+0021900282,2019-11-30,HOU,ATL,28.9,3,7,6,HOU,HOU,ft_miss,13,False,False,MISS Harden Free Throw 1 of 3,,100-59,100,59
+0021900282,2019-11-30,HOU,ATL,28.9,3,7,6,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,100-59,100,59
+0021900282,2019-11-30,HOU,ATL,28.9,3,7,6,HOU,HOU,ft_make,14,False,False,Harden Free Throw 2 of 3 (49 PTS),,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,28.9,3,7,6,HOU,HOU,ft_miss,15,False,False,MISS Harden Free Throw 3 of 3,,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,28.95,3,7,3,HOU,HOU,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:0),,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,28.95,3,7,3,HOU,HOU,fg_miss,97,False,False,MISS Hartenstein 1' Tip Layup Shot,,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,29.0,3,7,0,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:2 Def:4),,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,29.07,3,6,56,HOU,HOU,tov,4,False,False,Tucker Traveling Turnover (P2.T11),,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,29.18,3,6,49,ATL,ATL,fg3_miss,79,False,False,,MISS Young 28' 3PT Pullup Jump Shot,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,29.2,3,6,48,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,101-59,101,59
+0021900282,2019-11-30,HOU,ATL,29.37,3,6,38,HOU,ATL,foul,2,False,False,,Carter S.FOUL (P1.PN) (J.Goble),101-59,101,59
+0021900282,2019-11-30,HOU,ATL,29.37,3,6,38,HOU,HOU,ft_make,11,False,False,Hartenstein Free Throw 1 of 2 (7 PTS),,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.37,3,6,38,HOU,HOU,ft_miss,12,False,False,MISS Hartenstein Free Throw 2 of 2,,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.37,3,6,38,ATL,ATL,reb,0,False,False,,Carter REBOUND (Off:0 Def:1),102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.58,3,6,25,ATL,ATL,fg_miss,5,True,False,,MISS Bembry 1' Layup,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.58,3,6,25,ATL,HOU,block,5,True,False,block,block,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.62,3,6,23,ATL,ATL,reb,0,False,False,,Hawks Rebound,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.7,3,6,18,ATL,HOU,foul,2,False,False,Hartenstein S.FOUL (P3.T3) (J.Goble),,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.7,3,6,18,ATL,ATL,ft_miss,11,False,False,,MISS Carter Free Throw 1 of 2,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.7,3,6,18,ATL,ATL,reb,1,False,False,,Hawks Rebound,102-59,102,59
+0021900282,2019-11-30,HOU,ATL,29.7,3,6,18,ATL,ATL,ft_make,12,False,False,,Carter Free Throw 2 of 2 (1 PTS),102-60,102,60
+0021900282,2019-11-30,HOU,ATL,29.82,3,6,11,HOU,HOU,fg3_make,1,False,False,McLemore 28' 3PT Jump Shot (13 PTS) (Harden 5 AST),,105-60,105,60
+0021900282,2019-11-30,HOU,ATL,30.12,3,5,53,ATL,ATL,fg_miss,98,False,False,,MISS Len 1' Cutting Layup Shot,105-60,105,60
+0021900282,2019-11-30,HOU,ATL,30.13,3,5,52,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:6),,105-60,105,60
+0021900282,2019-11-30,HOU,ATL,30.27,3,5,44,HOU,ATL,foul,2,False,False,,Len S.FOUL (P3.PN) (L.Richardson),105-60,105,60
+0021900282,2019-11-30,HOU,ATL,30.27,3,5,44,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (50 PTS),,106-60,106,60
+0021900282,2019-11-30,HOU,ATL,30.27,3,5,44,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (51 PTS),,107-60,107,60
+0021900282,2019-11-30,HOU,ATL,30.67,3,5,20,ATL,ATL,fg3_make,1,False,False,,Fernando 24' 3PT Jump Shot (3 PTS) (Bembry 3 AST),107-63,107,63
+0021900282,2019-11-30,HOU,ATL,30.88,3,5,7,HOU,HOU,fg3_make,1,False,False,Rivers 27' 3PT Jump Shot (11 PTS) (Harden 6 AST),,110-63,110,63
+0021900282,2019-11-30,HOU,ATL,31.17,3,4,50,ATL,ATL,tov,45,False,False,,Carter Out of Bounds - Bad Pass Turnover Turnover (P1.T11),110-63,110,63
+0021900282,2019-11-30,HOU,ATL,31.43,3,4,34,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 24' 3PT Jump Shot,,110-63,110,63
+0021900282,2019-11-30,HOU,ATL,31.47,3,4,32,ATL,ATL,reb,0,False,False,,Carter REBOUND (Off:0 Def:2),110-63,110,63
+0021900282,2019-11-30,HOU,ATL,31.65,3,4,21,ATL,ATL,fg_make,98,False,False,,Bembry 1' Cutting Layup Shot (2 PTS) (Turner 2 AST),110-65,110,65
+0021900282,2019-11-30,HOU,ATL,31.75,3,4,15,ATL,HOU,foul,4,False,False,Harden OFF.Foul (P3) (L.Richardson),,110-65,110,65
+0021900282,2019-11-30,HOU,ATL,31.75,3,4,15,HOU,HOU,tov,37,False,False,Harden Offensive Foul Turnover (P5.T12),,110-65,110,65
+0021900282,2019-11-30,HOU,ATL,32.03,3,3,58,ATL,ATL,fg_miss,5,False,False,,MISS Bembry 2' Layup,110-65,110,65
+0021900282,2019-11-30,HOU,ATL,32.05,3,3,57,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:7),,110-65,110,65
+0021900282,2019-11-30,HOU,ATL,32.17,3,3,50,HOU,HOU,fg3_make,1,False,False,McLemore 25' 3PT Jump Shot (16 PTS) (Harden 7 AST),,113-65,113,65
+0021900282,2019-11-30,HOU,ATL,32.43,3,3,34,ATL,ATL,fg3_miss,1,False,False,,MISS Wallace 3PT Jump Shot,113-65,113,65
+0021900282,2019-11-30,HOU,ATL,32.48,3,3,31,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:1 Def:1),,113-65,113,65
+0021900282,2019-11-30,HOU,ATL,32.63,3,3,22,HOU,HOU,fg_make,6,False,False,Harden 1' Driving Layup (53 PTS),,115-65,115,65
+0021900282,2019-11-30,HOU,ATL,32.63,3,3,22,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.5 Short 0),115-65,115,65
+0021900282,2019-11-30,HOU,ATL,32.87,3,3,8,ATL,HOU,foul,2,False,False,Westbrook S.FOUL (P4.T4) (L.Richardson),,115-65,115,65
+0021900282,2019-11-30,HOU,ATL,32.87,3,3,8,ATL,ATL,ft_make,11,False,False,,Fernando Free Throw 1 of 2 (4 PTS),115-66,115,66
+0021900282,2019-11-30,HOU,ATL,32.87,3,3,8,ATL,ATL,ft_miss,12,False,False,,MISS Fernando Free Throw 2 of 2,115-66,115,66
+0021900282,2019-11-30,HOU,ATL,32.87,3,3,8,HOU,HOU,reb,0,False,False,Sefolosha REBOUND (Off:0 Def:2),,115-66,115,66
+0021900282,2019-11-30,HOU,ATL,33.12,3,2,53,HOU,HOU,fg3_miss,80,False,False,MISS Harden 29' 3PT Step Back Jump Shot,,115-66,115,66
+0021900282,2019-11-30,HOU,ATL,33.17,3,2,50,HOU,HOU,reb,0,False,False,Clark REBOUND (Off:1 Def:4),,115-66,115,66
+0021900282,2019-11-30,HOU,ATL,33.33,3,2,40,HOU,HOU,fg_make,57,False,False,Harden 6' Driving Hook Shot (55 PTS),,117-66,117,66
+0021900282,2019-11-30,HOU,ATL,33.63,3,2,22,ATL,ATL,tov,2,False,True,,Fernando Lost Ball Turnover (P1.T12),117-66,117,66
+0021900282,2019-11-30,HOU,ATL,33.63,3,2,22,ATL,HOU,steal,2,False,True,steal,steal,117-66,117,66
+0021900282,2019-11-30,HOU,ATL,33.82,3,2,11,HOU,HOU,fg_make,75,False,False,Westbrook 1' Driving Finger Roll Layup (15 PTS) (Sefolosha 1 AST),,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.05,3,1,57,ATL,ATL,fg_miss,79,False,False,,MISS Turner 17' Pullup Jump Shot,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.08,3,1,55,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:1 Def:0),119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.1,3,1,54,ATL,ATL,fg_miss,72,False,False,,MISS Fernando 1' Putback Layup,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.12,3,1,53,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:2 Def:0),119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.17,3,1,50,ATL,ATL,fg3_miss,1,False,False,,MISS Parsons 26' 3PT Jump Shot,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.2,3,1,48,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:1 Def:0),119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.23,3,1,46,ATL,ATL,fg_miss,47,False,False,,MISS Bembry 6' Turnaround Jump Shot,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.27,3,1,44,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:7),,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.32,3,1,41,HOU,HOU,fg_miss,41,True,False,MISS Harden 3' Running Layup,,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.32,3,1,41,HOU,ATL,block,41,True,False,block,block,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.32,3,1,41,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.4,3,1,36,HOU,ATL,foul,1,False,False,,Wallace P.FOUL (P1.PN) (J.Goble),119-66,119,66
+0021900282,2019-11-30,HOU,ATL,34.4,3,1,36,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (56 PTS),,120-66,120,66
+0021900282,2019-11-30,HOU,ATL,34.4,3,1,36,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (57 PTS),,121-66,121,66
+0021900282,2019-11-30,HOU,ATL,34.68,3,1,19,ATL,ATL,fg3_miss,1,False,False,,MISS Wallace 26' 3PT Jump Shot,121-66,121,66
+0021900282,2019-11-30,HOU,ATL,34.7,3,1,18,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:2 Def:0),121-66,121,66
+0021900282,2019-11-30,HOU,ATL,34.87,3,1,8,ATL,ATL,tov,1,False,True,,Turner Bad Pass Turnover (P1.T13),121-66,121,66
+0021900282,2019-11-30,HOU,ATL,34.87,3,1,8,ATL,HOU,steal,1,False,True,steal,steal,121-66,121,66
+0021900282,2019-11-30,HOU,ATL,35.0,3,1,0,HOU,HOU,fg3_make,1,False,False,Sefolosha 3PT Jump Shot (3 PTS) (Harden 8 AST),,124-66,124,66
+0021900282,2019-11-30,HOU,ATL,35.32,3,0,41,ATL,ATL,fg_miss,86,False,False,,MISS Turner 11' Turnaround Fadeaway Shot,124-66,124,66
+0021900282,2019-11-30,HOU,ATL,35.33,3,0,40,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:3 Def:0),124-66,124,66
+0021900282,2019-11-30,HOU,ATL,35.35,3,0,39,ATL,ATL,fg_make,72,False,False,,Fernando 1' Putback Layup (6 PTS),124-68,124,68
+0021900282,2019-11-30,HOU,ATL,35.52,3,0,29,HOU,HOU,fg3_miss,79,False,False,MISS Harden 30' 3PT Pullup Jump Shot,,124-68,124,68
+0021900282,2019-11-30,HOU,ATL,35.55,3,0,27,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:2 Def:1),124-68,124,68
+0021900282,2019-11-30,HOU,ATL,35.6,3,0,24,ATL,ATL,fg_make,41,False,False,,Wallace 1' Running Layup (2 PTS) (Turner 3 AST),124-70,124,70
+0021900282,2019-11-30,HOU,ATL,35.82,3,0,11,HOU,ATL,foul,2,False,False,,Turner S.FOUL (P1.PN) (K.Lane),124-70,124,70
+0021900282,2019-11-30,HOU,ATL,35.82,3,0,11,HOU,HOU,ft_make,13,False,False,Harden Free Throw 1 of 3 (58 PTS),,125-70,125,70
+0021900282,2019-11-30,HOU,ATL,35.82,3,0,11,HOU,HOU,ft_make,14,False,False,Harden Free Throw 2 of 3 (59 PTS),,126-70,126,70
+0021900282,2019-11-30,HOU,ATL,35.82,3,0,11,HOU,HOU,ft_make,15,False,False,Harden Free Throw 3 of 3 (60 PTS),,127-70,127,70
+0021900282,2019-11-30,HOU,ATL,35.9,3,0,6,ATL,ATL,fg3_make,1,False,False,,Parsons 26' 3PT Jump Shot (3 PTS) (Turner 4 AST),127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.0,3,0,0,HOU,HOU,fg3_miss,66,False,False,MISS Harden 25' 3PT Jump Bank Shot,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.0,3,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.0,3,0,0,HOU,,period_end,0,False,False,,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.0,4,12,0,HOU,,period_start,0,False,False,,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.28,4,11,43,HOU,HOU,fg3_miss,80,False,False,MISS Rivers 24' 3PT Step Back Jump Shot,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.33,4,11,40,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:3 Def:4),,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.33,4,11,40,HOU,ATL,foul,1,False,False,,Carter P.FOUL (P2.T1) (L.Richardson),127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.43,4,11,34,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 25' 3PT Jump Shot,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.47,4,11,32,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:2 Def:1),,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.5,4,11,30,HOU,ATL,foul,2,False,False,,Hunter S.FOUL (P5.T2) (K.Lane),127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.5,4,11,30,HOU,HOU,ft_miss,11,False,False,MISS Rivers Free Throw 1 of 2,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.5,4,11,30,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,127-73,127,73
+0021900282,2019-11-30,HOU,ATL,36.5,4,11,30,HOU,HOU,ft_make,12,False,False,Rivers Free Throw 2 of 2 (12 PTS),,128-73,128,73
+0021900282,2019-11-30,HOU,ATL,36.82,4,11,11,ATL,ATL,fg3_make,1,False,False,,Crabbe 26' 3PT Jump Shot (6 PTS) (Fernando 1 AST),128-76,128,76
+0021900282,2019-11-30,HOU,ATL,37.1,4,10,54,HOU,HOU,fg_make,6,False,False,Sefolosha 1' Driving Layup (5 PTS) (Rivers 1 AST),,130-76,130,76
+0021900282,2019-11-30,HOU,ATL,37.32,4,10,41,ATL,ATL,fg3_make,1,False,False,,Young 29' 3PT Jump Shot (28 PTS),130-79,130,79
+0021900282,2019-11-30,HOU,ATL,37.72,4,10,17,HOU,HOU,fg3_miss,79,False,False,MISS Clemons 26' 3PT Pullup Jump Shot,,130-79,130,79
+0021900282,2019-11-30,HOU,ATL,37.73,4,10,16,ATL,ATL,reb,0,False,False,,Crabbe REBOUND (Off:0 Def:1),130-79,130,79
+0021900282,2019-11-30,HOU,ATL,37.78,4,10,13,ATL,HOU,foul,1,False,False,Rivers P.FOUL (P3.T1) (J.Goble),,130-79,130,79
+0021900282,2019-11-30,HOU,ATL,37.93,4,10,4,ATL,ATL,fg_make,101,False,False,,Young 13' Driving Floating Jump Shot (30 PTS) (Carter 1 AST),130-81,130,81
+0021900282,2019-11-30,HOU,ATL,38.08,4,9,55,HOU,HOU,fg_make,75,False,False,Clemons 1' Driving Finger Roll Layup (2 PTS),,132-81,132,81
+0021900282,2019-11-30,HOU,ATL,38.28,4,9,43,ATL,ATL,fg_miss,1,False,False,,MISS Fernando 8' Jump Shot,132-81,132,81
+0021900282,2019-11-30,HOU,ATL,38.32,4,9,41,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:8),,132-81,132,81
+0021900282,2019-11-30,HOU,ATL,38.48,4,9,31,HOU,HOU,fg3_miss,1,False,False,MISS Clemons 27' 3PT Jump Shot,,132-81,132,81
+0021900282,2019-11-30,HOU,ATL,38.52,4,9,29,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:3 Def:1),,132-81,132,81
+0021900282,2019-11-30,HOU,ATL,38.57,4,9,26,HOU,HOU,fg3_make,1,False,False,McLemore 26' 3PT Jump Shot (19 PTS) (Rivers 2 AST),,135-81,135,81
+0021900282,2019-11-30,HOU,ATL,38.57,4,9,26,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.6 Short 0),135-81,135,81
+0021900282,2019-11-30,HOU,ATL,38.77,4,9,14,ATL,ATL,tov,1,False,True,,Fernando Bad Pass Turnover (P2.T14),135-81,135,81
+0021900282,2019-11-30,HOU,ATL,38.77,4,9,14,ATL,HOU,steal,1,False,True,steal,steal,135-81,135,81
+0021900282,2019-11-30,HOU,ATL,39.03,4,8,58,HOU,HOU,fg_miss,75,False,False,MISS Rivers 2' Driving Finger Roll Layup,,135-81,135,81
+0021900282,2019-11-30,HOU,ATL,39.07,4,8,56,HOU,HOU,reb,0,False,False,Sefolosha REBOUND (Off:1 Def:2),,135-81,135,81
+0021900282,2019-11-30,HOU,ATL,39.08,4,8,55,HOU,HOU,fg_make,97,False,False,Sefolosha 1' Tip Layup Shot (7 PTS),,137-81,137,81
+0021900282,2019-11-30,HOU,ATL,39.37,4,8,38,ATL,ATL,fg3_make,1,False,False,,Hunter 26' 3PT Jump Shot (5 PTS) (Young 6 AST),137-84,137,84
+0021900282,2019-11-30,HOU,ATL,39.55,4,8,27,HOU,HOU,fg3_miss,1,False,False,MISS Clemons 28' 3PT Jump Shot,,137-84,137,84
+0021900282,2019-11-30,HOU,ATL,39.6,4,8,24,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:2),137-84,137,84
+0021900282,2019-11-30,HOU,ATL,39.68,4,8,19,ATL,ATL,fg3_make,2,False,False,,Hunter 24' 3PT Running Jump Shot (8 PTS) (Young 7 AST),137-87,137,87
+0021900282,2019-11-30,HOU,ATL,39.97,4,8,2,HOU,HOU,fg3_miss,1,False,False,MISS Clark 27' 3PT Jump Shot,,137-87,137,87
+0021900282,2019-11-30,HOU,ATL,40.0,4,8,0,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:4),137-87,137,87
+0021900282,2019-11-30,HOU,ATL,40.08,4,7,55,ATL,ATL,fg3_make,79,False,False,,Young 33' 3PT Pullup Jump Shot (33 PTS),137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.48,4,7,31,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 27' 3PT Jump Shot,,137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.5,4,7,30,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:3),137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.55,4,7,27,ATL,HOU,foul,28,False,False,Rivers Personal Take Foul (P4.T2) (J.Goble),,137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.77,4,7,14,ATL,ATL,fg3_miss,1,False,False,,MISS Crabbe 26' 3PT Jump Shot,137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.82,4,7,11,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:3 Def:2),,137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.87,4,7,8,HOU,ATL,foul,1,False,False,,Parsons P.FOUL (P1.T3) (J.Goble),137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.95,4,7,3,HOU,ATL,violation,5,False,False,,Parsons Violation:Kicked Ball (J.Goble),137-90,137,90
+0021900282,2019-11-30,HOU,ATL,40.97,4,7,2,HOU,HOU,tov,4,False,False,McLemore Traveling Turnover (P1.T13),,137-90,137,90
+0021900282,2019-11-30,HOU,ATL,41.18,4,6,49,ATL,ATL,fg_make,75,False,False,,Hunter Driving Finger Roll Layup (10 PTS),137-92,137,92
+0021900282,2019-11-30,HOU,ATL,41.18,4,6,49,ATL,HOU,foul,2,False,False,Hartenstein S.FOUL (P4.T3) (J.Goble),,137-92,137,92
+0021900282,2019-11-30,HOU,ATL,41.18,4,6,49,ATL,ATL,ft_make,10,False,False,,Hunter Free Throw 1 of 1 (11 PTS),137-93,137,93
+0021900282,2019-11-30,HOU,ATL,41.33,4,6,40,HOU,HOU,tov,6,False,False,Hartenstein Double Dribble Turnover (P2.T14),,137-93,137,93
+0021900282,2019-11-30,HOU,ATL,41.4,4,6,36,ATL,HOU,foul,2,False,False,Clemons S.FOUL (P1.T4) (L.Richardson),,137-93,137,93
+0021900282,2019-11-30,HOU,ATL,41.4,4,6,36,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (34 PTS),137-94,137,94
+0021900282,2019-11-30,HOU,ATL,41.4,4,6,36,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (35 PTS),137-95,137,95
+0021900282,2019-11-30,HOU,ATL,41.6,4,6,24,HOU,HOU,fg3_make,1,False,False,Clemons 27' 3PT Jump Shot (5 PTS) (Hartenstein 1 AST),,140-95,140,95
+0021900282,2019-11-30,HOU,ATL,41.78,4,6,13,ATL,ATL,fg3_miss,1,False,False,,MISS Carter 26' 3PT Jump Shot,140-95,140,95
+0021900282,2019-11-30,HOU,ATL,41.8,4,6,12,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:9),,140-95,140,95
+0021900282,2019-11-30,HOU,ATL,42.03,4,5,58,HOU,HOU,fg_make,6,False,False,McLemore 5' Driving Layup (21 PTS),,142-95,142,95
+0021900282,2019-11-30,HOU,ATL,42.23,4,5,46,ATL,ATL,fg_make,102,False,False,,Young 6' Driving Floating Bank Jump Shot (37 PTS),142-97,142,97
+0021900282,2019-11-30,HOU,ATL,42.37,4,5,38,HOU,ATL,foul,1,False,False,,Parsons P.FOUL (P2.T4) (L.Richardson),142-97,142,97
+0021900282,2019-11-30,HOU,ATL,42.48,4,5,31,HOU,HOU,fg_make,6,False,False,Rivers 1' Driving Layup (14 PTS) (Hartenstein 2 AST),,144-97,144,97
+0021900282,2019-11-30,HOU,ATL,42.62,4,5,23,ATL,ATL,fg3_miss,79,False,False,,MISS Young 30' 3PT Pullup Jump Shot,144-97,144,97
+0021900282,2019-11-30,HOU,ATL,42.65,4,5,21,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:10),,144-97,144,97
+0021900282,2019-11-30,HOU,ATL,42.92,4,5,5,HOU,HOU,fg3_miss,1,False,False,MISS Rivers 28' 3PT Jump Shot,,144-97,144,97
+0021900282,2019-11-30,HOU,ATL,42.95,4,5,3,HOU,HOU,reb,0,False,False,Hartenstein REBOUND (Off:3 Def:0),,144-97,144,97
+0021900282,2019-11-30,HOU,ATL,43.08,4,4,55,HOU,HOU,fg3_make,1,False,False,Clemons 27' 3PT Jump Shot (8 PTS) (Rivers 3 AST),,147-97,147,97
+0021900282,2019-11-30,HOU,ATL,43.47,4,4,32,ATL,ATL,fg3_make,1,False,False,,Hunter 27' 3PT Jump Shot (14 PTS) (Bembry 4 AST),147-100,147,100
+0021900282,2019-11-30,HOU,ATL,43.62,4,4,23,HOU,HOU,fg_make,75,False,False,Clemons 1' Driving Finger Roll Layup (10 PTS),,149-100,149,100
+0021900282,2019-11-30,HOU,ATL,43.92,4,4,5,ATL,ATL,fg3_miss,79,False,False,,MISS Hunter 28' 3PT Pullup Jump Shot,149-100,149,100
+0021900282,2019-11-30,HOU,ATL,43.92,4,4,5,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:11),,149-100,149,100
+0021900282,2019-11-30,HOU,ATL,43.92,4,4,5,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,149-100,149,100
+0021900282,2019-11-30,HOU,ATL,44.12,4,3,53,HOU,HOU,fg3_miss,1,False,False,MISS Clemons 26' 3PT Jump Shot,,149-100,149,100
+0021900282,2019-11-30,HOU,ATL,44.13,4,3,52,ATL,ATL,reb,0,False,False,,Wallace REBOUND (Off:0 Def:2),149-100,149,100
+0021900282,2019-11-30,HOU,ATL,44.38,4,3,37,ATL,ATL,fg3_make,79,False,False,,Carter 26' 3PT Pullup Jump Shot (4 PTS),149-103,149,103
+0021900282,2019-11-30,HOU,ATL,44.7,4,3,18,HOU,HOU,fg3_miss,1,False,False,MISS Rivers 26' 3PT Jump Shot,,149-103,149,103
+0021900282,2019-11-30,HOU,ATL,44.75,4,3,15,HOU,HOU,reb,0,False,False,Clark REBOUND (Off:2 Def:4),,149-103,149,103
+0021900282,2019-11-30,HOU,ATL,44.8,4,3,12,HOU,HOU,fg3_make,1,False,False,McLemore 26' 3PT Jump Shot (24 PTS) (Clark 3 AST),,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.07,4,2,56,ATL,ATL,fg3_miss,1,False,False,,MISS Carter 27' 3PT Jump Shot,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.1,4,2,54,HOU,HOU,reb,0,False,False,Hartenstein REBOUND (Off:3 Def:1),,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.23,4,2,46,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 26' 3PT Jump Shot,,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.27,4,2,44,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:2 Def:2),152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.47,4,2,32,ATL,ATL,fg3_miss,1,False,False,,MISS Bembry 3PT Jump Shot,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.53,4,2,28,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:12),,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.78,4,2,13,HOU,HOU,fg_miss,1,True,False,MISS Rivers 7' Jump Shot,,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.78,4,2,13,HOU,ATL,block,1,True,False,block,block,152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.8,4,2,12,ATL,ATL,reb,0,False,False,,Wallace REBOUND (Off:0 Def:3),152-103,152,103
+0021900282,2019-11-30,HOU,ATL,45.92,4,2,5,ATL,ATL,fg_make,5,False,False,,Len 1' Layup (12 PTS) (Carter 2 AST),152-105,152,105
+0021900282,2019-11-30,HOU,ATL,46.13,4,1,52,HOU,HOU,fg3_miss,1,False,False,MISS Hartenstein 27' 3PT Jump Shot,,152-105,152,105
+0021900282,2019-11-30,HOU,ATL,46.17,4,1,50,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:2 Def:3),152-105,152,105
+0021900282,2019-11-30,HOU,ATL,46.28,4,1,43,ATL,HOU,foul,1,False,False,Rivers P.FOUL (P5.PN) (K.Lane),,152-105,152,105
+0021900282,2019-11-30,HOU,ATL,46.28,4,1,43,ATL,ATL,ft_make,11,False,False,,Bembry Free Throw 1 of 2 (3 PTS),152-106,152,106
+0021900282,2019-11-30,HOU,ATL,46.28,4,1,43,ATL,ATL,ft_make,12,False,False,,Bembry Free Throw 2 of 2 (4 PTS),152-107,152,107
+0021900282,2019-11-30,HOU,ATL,46.42,4,1,35,HOU,HOU,fg3_make,80,False,False,Clemons 25' 3PT Step Back Jump Shot (13 PTS),,155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.6,4,1,24,ATL,ATL,fg3_miss,1,False,False,,MISS Parsons 26' 3PT Jump Shot,155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.62,4,1,23,ATL,ATL,reb,0,False,False,,Turner REBOUND (Off:1 Def:0),155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.67,4,1,20,ATL,ATL,fg_miss,6,True,False,,MISS Wallace 6' Driving Layup,155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.67,4,1,20,ATL,HOU,block,6,True,False,block,block,155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.72,4,1,17,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:3 Def:3),,155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.77,4,1,14,HOU,HOU,fg3_miss,103,False,False,MISS McLemore 26' 3PT Running Pull-Up Jump Shot,,155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.8,4,1,12,ATL,ATL,reb,0,False,False,,Parsons REBOUND (Off:0 Def:1),155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.9,4,1,6,ATL,HOU,foul,2,False,False,McLemore S.FOUL (P3.PN) (J.Goble),,155-107,155,107
+0021900282,2019-11-30,HOU,ATL,46.9,4,1,6,ATL,ATL,ft_make,11,False,False,,Bembry Free Throw 1 of 2 (5 PTS),155-108,155,108
+0021900282,2019-11-30,HOU,ATL,46.9,4,1,6,ATL,ATL,ft_miss,12,False,False,,MISS Bembry Free Throw 2 of 2,155-108,155,108
+0021900282,2019-11-30,HOU,ATL,46.9,4,1,6,HOU,HOU,reb,0,False,False,Hartenstein REBOUND (Off:3 Def:2),,155-108,155,108
+0021900282,2019-11-30,HOU,ATL,47.03,4,0,58,HOU,HOU,tov,45,False,False,Clemons Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,155-108,155,108
+0021900282,2019-11-30,HOU,ATL,47.17,4,0,50,ATL,ATL,fg3_make,79,False,False,,Wallace 27' 3PT Pullup Jump Shot (5 PTS),155-111,155,111
+0021900282,2019-11-30,HOU,ATL,47.35,4,0,39,HOU,HOU,fg3_make,1,False,False,Clemons 27' 3PT Jump Shot (16 PTS) (Rivers 4 AST),,158-111,158,111
+0021900282,2019-11-30,HOU,ATL,47.58,4,0,25,ATL,HOU,violation,5,False,False,Hartenstein Violation:Kicked Ball (L.Richardson),,158-111,158,111
+0021900282,2019-11-30,HOU,ATL,47.77,4,0,14,ATL,ATL,fg3_miss,1,False,False,,MISS Wallace 25' 3PT Jump Shot,158-111,158,111
+0021900282,2019-11-30,HOU,ATL,47.78,4,0,13,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:13),,158-111,158,111
+0021900282,2019-11-30,HOU,ATL,48.0,4,0,0,HOU,,period_end,0,False,False,,,158-111,158,111

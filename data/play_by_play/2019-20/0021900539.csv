@@ -1,0 +1,403 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900539,2020-01-06,CHA,IND,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900539,2020-01-06,CHA,IND,0.0,1,12,0,IND,CHA,violation,4,False,False,Biyombo Violation:Jump Ball (M.Smith),,0-0,0,0
+0021900539,2020-01-06,CHA,IND,0.28,1,11,43,IND,IND,fg_miss,3,False,False,,MISS Sabonis 8' Hook Shot,0-0,0,0
+0021900539,2020-01-06,CHA,IND,0.3,1,11,42,IND,IND,reb,0,False,False,,Pacers Rebound,0-0,0,0
+0021900539,2020-01-06,CHA,IND,0.43,1,11,34,IND,IND,fg3_make,79,False,False,,Holiday 27' 3PT Pullup Jump Shot (3 PTS),0-3,0,3
+0021900539,2020-01-06,CHA,IND,0.77,1,11,14,CHA,CHA,fg_make,7,False,False,Biyombo 1' Dunk (2 PTS) (Graham 1 AST),,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.07,1,10,56,IND,IND,fg_miss,6,True,False,,MISS Sabonis 3' Driving Layup,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.07,1,10,56,IND,CHA,block,6,True,False,block,block,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.1,1,10,54,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:1),,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.22,1,10,47,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.27,1,10,44,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.4,1,10,36,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.45,1,10,33,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:2),,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.67,1,10,20,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 3PT Jump Shot,,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.72,1,10,17,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:0 Def:1),2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.9,1,10,6,IND,IND,fg3_miss,1,False,False,,MISS Turner 25' 3PT Jump Shot,2-3,2,3
+0021900539,2020-01-06,CHA,IND,1.95,1,10,3,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,2-3,2,3
+0021900539,2020-01-06,CHA,IND,2.07,1,9,56,CHA,CHA,fg_miss,3,False,False,MISS Washington 6' Hook Shot,,2-3,2,3
+0021900539,2020-01-06,CHA,IND,2.12,1,9,53,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:1),2-3,2,3
+0021900539,2020-01-06,CHA,IND,2.2,1,9,48,IND,IND,fg3_make,1,False,False,,Lamb 28' 3PT Jump Shot (3 PTS) (Holiday 1 AST),2-6,2,6
+0021900539,2020-01-06,CHA,IND,2.4,1,9,36,CHA,IND,foul,2,False,False,,Lamb S.FOUL (P1.T1) (M.Smith),2-6,2,6
+0021900539,2020-01-06,CHA,IND,2.4,1,9,36,CHA,CHA,ft_make,11,False,False,Rozier Free Throw 1 of 2 (1 PTS),,3-6,3,6
+0021900539,2020-01-06,CHA,IND,2.4,1,9,36,CHA,CHA,ft_make,12,False,False,Rozier Free Throw 2 of 2 (2 PTS),,4-6,4,6
+0021900539,2020-01-06,CHA,IND,2.7,1,9,18,IND,IND,fg3_miss,1,False,False,,MISS Holiday 27' 3PT Jump Shot,4-6,4,6
+0021900539,2020-01-06,CHA,IND,2.72,1,9,17,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:2),,4-6,4,6
+0021900539,2020-01-06,CHA,IND,2.87,1,9,8,CHA,CHA,tov,2,False,True,Graham Lost Ball Turnover (P1.T1),,4-6,4,6
+0021900539,2020-01-06,CHA,IND,2.87,1,9,8,CHA,IND,steal,2,False,True,steal,steal,4-6,4,6
+0021900539,2020-01-06,CHA,IND,2.95,1,9,3,IND,IND,fg_make,50,False,False,,Sabonis 1' Running Dunk (2 PTS) (Warren 1 AST),4-8,4,8
+0021900539,2020-01-06,CHA,IND,3.13,1,8,52,CHA,CHA,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (3 PTS) (Graham 2 AST),,7-8,7,8
+0021900539,2020-01-06,CHA,IND,3.55,1,8,27,IND,IND,fg_make,5,False,False,,Turner 6' Layup (2 PTS),7-10,7,10
+0021900539,2020-01-06,CHA,IND,3.82,1,8,11,CHA,CHA,fg_make,6,False,False,Washington 3' Driving Layup (2 PTS) (Graham 3 AST),,9-10,9,10
+0021900539,2020-01-06,CHA,IND,4.15,1,7,51,IND,IND,fg_make,5,False,False,,Turner 3' Layup (4 PTS),9-12,9,12
+0021900539,2020-01-06,CHA,IND,4.37,1,7,38,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,9-12,9,12
+0021900539,2020-01-06,CHA,IND,4.42,1,7,35,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:0 Def:2),9-12,9,12
+0021900539,2020-01-06,CHA,IND,4.67,1,7,20,IND,IND,tov,45,False,False,,Turner Out of Bounds - Bad Pass Turnover Turnover (P1.T1),9-12,9,12
+0021900539,2020-01-06,CHA,IND,4.98,1,7,1,CHA,IND,violation,5,False,False,,Turner Violation:Kicked Ball (M.Smith),9-12,9,12
+0021900539,2020-01-06,CHA,IND,4.98,1,7,1,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.23,1,6,46,CHA,CHA,fg_miss,6,False,False,MISS Graham 3' Driving Layup,,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.25,1,6,45,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:1 Def:0),,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.25,1,6,45,CHA,CHA,fg_miss,72,True,False,MISS Biyombo 3' Putback Layup,,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.25,1,6,45,CHA,IND,block,72,True,False,block,block,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.27,1,6,44,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:1 Def:0),,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.47,1,6,32,CHA,CHA,fg3_miss,79,False,False,MISS Monk 26' 3PT Pullup Jump Shot,,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.52,1,6,29,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:2 Def:0),,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.57,1,6,26,CHA,CHA,fg_miss,3,False,False,MISS Biyombo 7' Hook Shot,,9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.6,1,6,24,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:0 Def:3),9-12,9,12
+0021900539,2020-01-06,CHA,IND,5.77,1,6,14,IND,IND,tov,4,False,False,,Turner Traveling Turnover (P2.T2),9-12,9,12
+0021900539,2020-01-06,CHA,IND,6.02,1,5,59,CHA,CHA,fg3_make,79,False,False,Graham 29' 3PT Pullup Jump Shot (3 PTS) (Bacon 1 AST),,12-12,12,12
+0021900539,2020-01-06,CHA,IND,6.28,1,5,43,IND,IND,fg3_miss,1,False,False,,MISS Warren 24' 3PT Jump Shot,12-12,12,12
+0021900539,2020-01-06,CHA,IND,6.32,1,5,41,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:0 Def:1),,12-12,12,12
+0021900539,2020-01-06,CHA,IND,6.5,1,5,30,CHA,CHA,fg3_miss,80,False,False,MISS Graham 27' 3PT Step Back Jump Shot,,12-12,12,12
+0021900539,2020-01-06,CHA,IND,6.55,1,5,27,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:0 Def:4),12-12,12,12
+0021900539,2020-01-06,CHA,IND,6.7,1,5,18,IND,IND,fg_make,5,False,False,,Warren 2' Layup (2 PTS) (Lamb 1 AST),12-14,12,14
+0021900539,2020-01-06,CHA,IND,6.93,1,5,4,CHA,CHA,fg3_make,1,False,False,Zeller 26' 3PT Jump Shot (3 PTS) (Graham 4 AST),,15-14,15,14
+0021900539,2020-01-06,CHA,IND,7.23,1,4,46,IND,IND,fg3_miss,1,False,False,,MISS Turner 26' 3PT Jump Shot,15-14,15,14
+0021900539,2020-01-06,CHA,IND,7.33,1,4,40,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:3),,15-14,15,14
+0021900539,2020-01-06,CHA,IND,7.53,1,4,28,CHA,CHA,fg_make,44,False,False,Zeller 2' Reverse Layup (5 PTS) (Graham 5 AST),,17-14,17,14
+0021900539,2020-01-06,CHA,IND,7.83,1,4,10,IND,IND,fg3_miss,1,False,False,,MISS Sabonis 25' 3PT Jump Shot,17-14,17,14
+0021900539,2020-01-06,CHA,IND,7.87,1,4,8,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:0),17-14,17,14
+0021900539,2020-01-06,CHA,IND,7.87,1,4,8,IND,IND,fg_miss,97,False,False,,MISS Warren 1' Tip Layup Shot,17-14,17,14
+0021900539,2020-01-06,CHA,IND,7.88,1,4,7,CHA,CHA,reb,0,False,False,Bacon REBOUND (Off:0 Def:1),,17-14,17,14
+0021900539,2020-01-06,CHA,IND,8.0,1,4,0,CHA,CHA,tov,1,False,True,Graham Bad Pass Turnover (P2.T2),,17-14,17,14
+0021900539,2020-01-06,CHA,IND,8.0,1,4,0,CHA,IND,steal,1,False,True,steal,steal,17-14,17,14
+0021900539,2020-01-06,CHA,IND,8.22,1,3,47,IND,IND,fg_make,6,False,False,,Lamb 2' Driving Layup (5 PTS),17-16,17,16
+0021900539,2020-01-06,CHA,IND,8.22,1,3,47,IND,CHA,violation,2,False,False,Washington Violation:Defensive Goaltending (M.Smith),,17-16,17,16
+0021900539,2020-01-06,CHA,IND,8.43,1,3,34,CHA,CHA,fg_make,6,False,False,Graham 1' Driving Layup (5 PTS),,19-16,19,16
+0021900539,2020-01-06,CHA,IND,8.6,1,3,24,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.1 Short 0),19-16,19,16
+0021900539,2020-01-06,CHA,IND,8.78,1,3,13,IND,IND,fg_miss,1,False,False,,MISS Warren 20' Jump Shot,19-16,19,16
+0021900539,2020-01-06,CHA,IND,8.82,1,3,11,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:1),19-16,19,16
+0021900539,2020-01-06,CHA,IND,8.87,1,3,8,IND,IND,fg3_miss,1,False,False,,MISS Sumner 25' 3PT Jump Shot,19-16,19,16
+0021900539,2020-01-06,CHA,IND,8.95,1,3,3,IND,IND,reb,0,False,False,,McConnell REBOUND (Off:1 Def:0),19-16,19,16
+0021900539,2020-01-06,CHA,IND,9.05,1,2,57,IND,IND,fg_make,73,False,False,,Warren 1' Driving Reverse Layup (4 PTS),19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.32,1,2,41,CHA,CHA,fg_miss,6,True,False,MISS Rozier 2' Driving Layup,,19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.32,1,2,41,CHA,IND,block,6,True,False,block,block,19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.32,1,2,41,CHA,CHA,reb,0,False,False,HORNETS Rebound,,19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.4,1,2,36,CHA,IND,foul,1,False,False,,Warren P.FOUL (P1.T2) (S.Wright),19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.5,1,2,30,CHA,CHA,fg_miss,6,False,False,MISS Bacon 3' Driving Layup,,19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.55,1,2,27,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:1),19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.67,1,2,20,IND,IND,fg_make,1,False,False,,Bitadze 20' Jump Shot (2 PTS) (McConnell 1 AST),19-20,19,20
+0021900539,2020-01-06,CHA,IND,9.93,1,2,4,CHA,IND,foul,1,False,False,,Holiday P.FOUL (P1.T3) (S.Wright),19-20,19,20
+0021900539,2020-01-06,CHA,IND,10.03,1,1,58,CHA,CHA,fg3_make,1,False,False,Monk 26' 3PT Jump Shot (3 PTS) (Rozier 1 AST),,22-20,22,20
+0021900539,2020-01-06,CHA,IND,10.25,1,1,45,IND,IND,fg_miss,1,False,False,,MISS Bitadze 16' Jump Shot,22-20,22,20
+0021900539,2020-01-06,CHA,IND,10.28,1,1,43,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:0 Def:1),,22-20,22,20
+0021900539,2020-01-06,CHA,IND,10.38,1,1,37,CHA,IND,foul,1,False,False,,Holiday P.FOUL (P2.T4) (M.Smith),22-20,22,20
+0021900539,2020-01-06,CHA,IND,10.5,1,1,30,CHA,CHA,fg_make,6,False,False,Rozier 3' Driving Layup (4 PTS),,24-20,24,20
+0021900539,2020-01-06,CHA,IND,10.68,1,1,19,IND,IND,tov,45,False,False,,Bitadze Out of Bounds - Bad Pass Turnover Turnover (P1.T3),24-20,24,20
+0021900539,2020-01-06,CHA,IND,10.85,1,1,9,CHA,CHA,fg_make,9,False,False,Zeller 1' Driving Dunk (7 PTS) (Rozier 2 AST),,26-20,26,20
+0021900539,2020-01-06,CHA,IND,11.05,1,0,57,IND,CHA,foul,1,False,False,Zeller P.FOUL (P1.T1) (S.Jelks),,26-20,26,20
+0021900539,2020-01-06,CHA,IND,11.13,1,0,52,IND,IND,fg_make,98,False,False,,McDermott 2' Cutting Layup Shot (2 PTS) (Holiday 1 AST),26-22,26,22
+0021900539,2020-01-06,CHA,IND,11.28,1,0,43,CHA,CHA,fg_make,6,False,False,Zeller 3' Driving Layup (9 PTS) (Rozier 3 AST),,28-22,28,22
+0021900539,2020-01-06,CHA,IND,11.28,1,0,43,CHA,IND,foul,2,False,False,,Bitadze S.FOUL (P1.PN) (S.Jelks),28-22,28,22
+0021900539,2020-01-06,CHA,IND,11.28,1,0,43,CHA,CHA,ft_make,10,False,False,Zeller Free Throw 1 of 1 (10 PTS),,29-22,29,22
+0021900539,2020-01-06,CHA,IND,11.48,1,0,31,IND,IND,fg3_make,80,False,False,,Holiday 3PT Step Back Jump Shot (3 PTS) (Sumner 1 AST),29-25,29,25
+0021900539,2020-01-06,CHA,IND,11.83,1,0,10,CHA,CHA,fg_miss,79,False,False,MISS Rozier 22' Pullup Jump Shot,,29-25,29,25
+0021900539,2020-01-06,CHA,IND,11.9,1,0,6,IND,IND,reb,0,False,False,,Bitadze REBOUND (Off:0 Def:1),29-25,29,25
+0021900539,2020-01-06,CHA,IND,11.98,1,0,1,IND,IND,fg_make,108,False,False,,Sumner 1' Cutting Dunk Shot (2 PTS) (McConnell 2 AST),29-27,29,27
+0021900539,2020-01-06,CHA,IND,12.0,1,0,0,IND,,period_end,0,False,False,,,29-27,29,27
+0021900539,2020-01-06,CHA,IND,12.0,2,12,0,IND,,period_start,0,False,False,,,29-27,29,27
+0021900539,2020-01-06,CHA,IND,12.32,2,11,41,CHA,IND,foul,1,False,False,,Sabonis P.FOUL (P1.T1) (S.Jelks),29-27,29,27
+0021900539,2020-01-06,CHA,IND,12.55,2,11,27,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#3),,29-27,29,27
+0021900539,2020-01-06,CHA,IND,12.93,2,11,4,IND,IND,fg3_miss,1,False,False,,MISS McDermott 26' 3PT Jump Shot,29-27,29,27
+0021900539,2020-01-06,CHA,IND,12.98,2,11,1,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:3),,29-27,29,27
+0021900539,2020-01-06,CHA,IND,13.03,2,10,58,CHA,IND,foul,1,False,False,,Sumner P.FOUL (P1.T2) (S.Wright),29-27,29,27
+0021900539,2020-01-06,CHA,IND,13.13,2,10,52,CHA,CHA,fg3_make,1,False,False,Rozier 26' 3PT Jump Shot (7 PTS) (Bridges 1 AST),,32-27,32,27
+0021900539,2020-01-06,CHA,IND,13.35,2,10,39,IND,IND,fg3_make,1,False,False,,Holiday 25' 3PT Jump Shot (6 PTS) (Sabonis 1 AST),32-30,32,30
+0021900539,2020-01-06,CHA,IND,13.67,2,10,20,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 26' 3PT Jump Shot,,32-30,32,30
+0021900539,2020-01-06,CHA,IND,13.7,2,10,18,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:1),32-30,32,30
+0021900539,2020-01-06,CHA,IND,13.88,2,10,7,IND,IND,fg_make,98,False,False,,Sabonis 2' Cutting Layup Shot (4 PTS) (McConnell 3 AST),32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.12,2,9,53,CHA,CHA,fg_miss,6,False,False,MISS Martin 3' Driving Layup,,32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.17,2,9,50,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:2),32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.43,2,9,34,IND,IND,fg_miss,6,False,False,,MISS Sumner 4' Driving Layup,32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.48,2,9,31,IND,IND,reb,0,False,False,,Pacers Rebound,32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.55,2,9,27,IND,IND,fg3_miss,1,False,False,,MISS McDermott 27' 3PT Jump Shot,32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.6,2,9,24,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:2),32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.85,2,9,9,IND,IND,fg3_miss,1,False,False,,MISS McDermott 24' 3PT Jump Shot,32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.88,2,9,7,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:4),,32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.95,2,9,3,IND,CHA,foul,26,False,False,Bridges Offensive Charge Foul (P1.T1) (S.Jelks),,32-32,32,32
+0021900539,2020-01-06,CHA,IND,14.95,2,9,3,CHA,CHA,tov,37,False,False,Bridges Offensive Foul Turnover (P1.T4),,32-32,32,32
+0021900539,2020-01-06,CHA,IND,15.15,2,8,51,IND,IND,fg3_miss,1,False,False,,MISS Holiday 25' 3PT Jump Shot,32-32,32,32
+0021900539,2020-01-06,CHA,IND,15.2,2,8,48,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:2 Def:1),,32-32,32,32
+0021900539,2020-01-06,CHA,IND,15.38,2,8,37,CHA,CHA,fg_miss,78,False,False,MISS Graham 15' Floating Jump Shot,,32-32,32,32
+0021900539,2020-01-06,CHA,IND,15.42,2,8,35,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:3),32-32,32,32
+0021900539,2020-01-06,CHA,IND,15.6,2,8,24,IND,IND,fg3_make,1,False,False,,McConnell 24' 3PT Jump Shot (3 PTS) (Sabonis 2 AST),32-35,32,35
+0021900539,2020-01-06,CHA,IND,15.87,2,8,8,CHA,CHA,fg_miss,3,False,False,MISS Biyombo 5' Hook Shot,,32-35,32,35
+0021900539,2020-01-06,CHA,IND,15.88,2,8,7,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:4),32-35,32,35
+0021900539,2020-01-06,CHA,IND,16.12,2,7,53,IND,IND,fg_miss,78,False,False,,MISS Sumner 10' Floating Jump Shot,32-35,32,35
+0021900539,2020-01-06,CHA,IND,16.17,2,7,50,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:2 Def:2),,32-35,32,35
+0021900539,2020-01-06,CHA,IND,16.4,2,7,36,CHA,IND,foul,1,False,False,,McConnell P.FOUL (P1.T3) (M.Smith),32-35,32,35
+0021900539,2020-01-06,CHA,IND,16.4,2,7,36,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,32-35,32,35
+0021900539,2020-01-06,CHA,IND,16.5,2,7,30,CHA,IND,foul,1,False,False,,Holiday P.FOUL (P3.T4) (S.Wright),32-35,32,35
+0021900539,2020-01-06,CHA,IND,16.67,2,7,20,CHA,CHA,fg3_miss,79,False,False,MISS Graham 26' 3PT Pullup Jump Shot,,32-35,32,35
+0021900539,2020-01-06,CHA,IND,16.72,2,7,17,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:2),32-35,32,35
+0021900539,2020-01-06,CHA,IND,17.0,2,7,0,IND,CHA,foul,2,False,False,Washington S.FOUL (P1.T2) (S.Wright),,32-35,32,35
+0021900539,2020-01-06,CHA,IND,17.0,2,7,0,IND,IND,ft_make,11,False,False,,Sabonis Free Throw 1 of 2 (5 PTS),32-36,32,36
+0021900539,2020-01-06,CHA,IND,17.0,2,7,0,IND,IND,ft_miss,12,False,False,,MISS Sabonis Free Throw 2 of 2,32-36,32,36
+0021900539,2020-01-06,CHA,IND,17.05,2,6,57,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:2 Def:3),,32-36,32,36
+0021900539,2020-01-06,CHA,IND,17.25,2,6,45,CHA,CHA,fg_make,3,False,False,Washington 7' Hook Shot (4 PTS) (Rozier 4 AST),,34-36,34,36
+0021900539,2020-01-06,CHA,IND,17.5,2,6,30,IND,IND,fg_miss,75,False,False,,MISS McDermott 3' Driving Finger Roll Layup,34-36,34,36
+0021900539,2020-01-06,CHA,IND,17.57,2,6,26,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:0 Def:2),,34-36,34,36
+0021900539,2020-01-06,CHA,IND,17.88,2,6,7,CHA,CHA,fg_miss,5,True,False,MISS Biyombo 3' Layup,,34-36,34,36
+0021900539,2020-01-06,CHA,IND,17.88,2,6,7,CHA,IND,block,5,True,False,block,block,34-36,34,36
+0021900539,2020-01-06,CHA,IND,17.92,2,6,5,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:1 Def:0),,34-36,34,36
+0021900539,2020-01-06,CHA,IND,17.92,2,6,5,CHA,CHA,fg_make,97,False,False,Martin 1' Tip Layup Shot (2 PTS),,36-36,36,36
+0021900539,2020-01-06,CHA,IND,18.18,2,5,49,IND,IND,fg_miss,5,True,False,,MISS Turner 2' Layup,36-36,36,36
+0021900539,2020-01-06,CHA,IND,18.18,2,5,49,IND,CHA,block,5,True,False,block,block,36-36,36,36
+0021900539,2020-01-06,CHA,IND,18.23,2,5,46,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:1 Def:1),,36-36,36,36
+0021900539,2020-01-06,CHA,IND,18.4,2,5,36,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,36-36,36,36
+0021900539,2020-01-06,CHA,IND,18.45,2,5,33,IND,IND,reb,0,False,False,,McConnell REBOUND (Off:1 Def:1),36-36,36,36
+0021900539,2020-01-06,CHA,IND,18.55,2,5,27,IND,IND,fg_make,73,False,False,,McConnell 2' Driving Reverse Layup (5 PTS),36-38,36,38
+0021900539,2020-01-06,CHA,IND,18.75,2,5,15,CHA,CHA,fg_miss,78,False,False,MISS Martin 4' Floating Jump Shot,,36-38,36,38
+0021900539,2020-01-06,CHA,IND,18.78,2,5,13,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:5),36-38,36,38
+0021900539,2020-01-06,CHA,IND,19.02,2,4,59,IND,IND,fg_miss,1,False,False,,MISS Turner 15' Jump Shot,36-38,36,38
+0021900539,2020-01-06,CHA,IND,19.03,2,4,58,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:4),,36-38,36,38
+0021900539,2020-01-06,CHA,IND,19.15,2,4,51,CHA,CHA,fg_make,6,False,False,Rozier 2' Driving Layup (9 PTS),,38-38,38,38
+0021900539,2020-01-06,CHA,IND,19.18,2,4,49,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.2 Short 0),38-38,38,38
+0021900539,2020-01-06,CHA,IND,19.58,2,4,25,IND,IND,tov,1,False,True,,Warren Bad Pass Turnover (P1.T4),38-38,38,38
+0021900539,2020-01-06,CHA,IND,19.58,2,4,25,IND,CHA,steal,1,False,True,steal,steal,38-38,38,38
+0021900539,2020-01-06,CHA,IND,19.8,2,4,12,CHA,CHA,fg_miss,44,False,False,MISS Washington 2' Reverse Layup,,38-38,38,38
+0021900539,2020-01-06,CHA,IND,19.85,2,4,9,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:6),38-38,38,38
+0021900539,2020-01-06,CHA,IND,19.95,2,4,3,IND,CHA,violation,5,False,False,Washington Violation:Kicked Ball (S.Wright),,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.17,2,3,50,IND,IND,fg_miss,6,False,False,,MISS Warren 10' Driving Layup,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.2,2,3,48,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:0 Def:2),,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.37,2,3,38,CHA,CHA,fg_miss,3,True,False,MISS Zeller 5' Hook Shot,,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.37,2,3,38,CHA,IND,block,3,True,False,block,block,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.4,2,3,36,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:0 Def:5),38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.47,2,3,32,IND,IND,fg_miss,6,False,False,,MISS Lamb 3' Driving Layup,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.52,2,3,29,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:6),38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.62,2,3,23,IND,IND,tov,2,False,True,,Sabonis Lost Ball Turnover (P1.T5),38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.62,2,3,23,IND,CHA,steal,2,False,True,steal,steal,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.7,2,3,18,CHA,CHA,tov,1,False,True,Washington Bad Pass Turnover (P1.T5),,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.7,2,3,18,CHA,IND,steal,1,False,True,steal,steal,38-38,38,38
+0021900539,2020-01-06,CHA,IND,20.85,2,3,9,IND,IND,fg_make,108,False,False,,Warren 1' Cutting Dunk Shot (6 PTS) (Sabonis 3 AST),38-40,38,40
+0021900539,2020-01-06,CHA,IND,21.13,2,2,52,CHA,CHA,fg3_miss,1,False,False,MISS Monk 25' 3PT Jump Shot,,38-40,38,40
+0021900539,2020-01-06,CHA,IND,21.18,2,2,49,CHA,CHA,reb,0,False,False,HORNETS Rebound,,38-40,38,40
+0021900539,2020-01-06,CHA,IND,21.23,2,2,46,CHA,CHA,tov,2,False,True,Bridges Lost Ball Turnover (P2.T6),,38-40,38,40
+0021900539,2020-01-06,CHA,IND,21.23,2,2,46,CHA,IND,steal,2,False,True,steal,steal,38-40,38,40
+0021900539,2020-01-06,CHA,IND,21.37,2,2,38,IND,CHA,foul,1,False,False,Monk P.FOUL (P1.T3) (S.Wright),,38-40,38,40
+0021900539,2020-01-06,CHA,IND,21.62,2,2,23,IND,IND,fg_make,3,False,False,,Sabonis 5' Hook Shot (7 PTS),38-42,38,42
+0021900539,2020-01-06,CHA,IND,21.95,2,2,3,CHA,CHA,fg_miss,80,False,False,MISS Graham 16' Step Back Jump Shot,,38-42,38,42
+0021900539,2020-01-06,CHA,IND,22.0,2,2,0,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:7),38-42,38,42
+0021900539,2020-01-06,CHA,IND,22.15,2,1,51,IND,IND,fg_miss,79,False,False,,MISS Lamb 14' Pullup Jump Shot,38-42,38,42
+0021900539,2020-01-06,CHA,IND,22.2,2,1,48,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:5),,38-42,38,42
+0021900539,2020-01-06,CHA,IND,22.43,2,1,34,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 26' 3PT Jump Shot,,38-42,38,42
+0021900539,2020-01-06,CHA,IND,22.48,2,1,31,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:4),,38-42,38,42
+0021900539,2020-01-06,CHA,IND,22.48,2,1,31,CHA,CHA,fg_make,97,False,False,Bridges 1' Tip Layup Shot (5 PTS),,40-42,40,42
+0021900539,2020-01-06,CHA,IND,22.82,2,1,11,IND,IND,fg_miss,66,False,False,,MISS Lamb 15' Jump Bank Shot,40-42,40,42
+0021900539,2020-01-06,CHA,IND,22.88,2,1,7,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:1),,40-42,40,42
+0021900539,2020-01-06,CHA,IND,23.12,2,0,53,CHA,CHA,fg_make,6,False,False,Washington 8' Driving Layup (6 PTS) (Rozier 5 AST),,42-42,42,42
+0021900539,2020-01-06,CHA,IND,23.32,2,0,41,IND,IND,fg_miss,58,False,False,,MISS Turner 9' Turnaround Hook Shot,42-42,42,42
+0021900539,2020-01-06,CHA,IND,23.37,2,0,38,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:0 Def:3),,42-42,42,42
+0021900539,2020-01-06,CHA,IND,23.47,2,0,32,CHA,CHA,fg_make,74,False,False,Zeller 2' Running Reverse Layup (12 PTS) (Graham 6 AST),,44-42,44,42
+0021900539,2020-01-06,CHA,IND,23.47,2,0,32,CHA,IND,foul,2,False,False,,Turner S.FOUL (P1.PN) (M.Smith),44-42,44,42
+0021900539,2020-01-06,CHA,IND,23.47,2,0,32,CHA,CHA,ft_miss,10,False,False,MISS Zeller Free Throw 1 of 1,,44-42,44,42
+0021900539,2020-01-06,CHA,IND,23.5,2,0,30,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:0 Def:1),44-42,44,42
+0021900539,2020-01-06,CHA,IND,23.82,2,0,11,IND,IND,fg_miss,6,False,False,,MISS Holiday 3' Driving Layup,44-42,44,42
+0021900539,2020-01-06,CHA,IND,23.85,2,0,9,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:6),,44-42,44,42
+0021900539,2020-01-06,CHA,IND,24.0,2,0,0,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 25' 3PT Jump Shot,,44-42,44,42
+0021900539,2020-01-06,CHA,IND,24.0,2,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,44-42,44,42
+0021900539,2020-01-06,CHA,IND,24.0,2,0,0,CHA,,period_end,0,False,False,,,44-42,44,42
+0021900539,2020-01-06,CHA,IND,24.0,3,12,0,CHA,,period_start,0,False,False,,,44-42,44,42
+0021900539,2020-01-06,CHA,IND,24.23,3,11,46,CHA,IND,foul,17,False,False,,Pacers T.Foul (Def. 3 Sec Turner ) (M.Smith),44-42,44,42
+0021900539,2020-01-06,CHA,IND,24.23,3,11,46,CHA,CHA,ft_make,16,False,False,Rozier Free Throw Technical (10 PTS),,45-42,45,42
+0021900539,2020-01-06,CHA,IND,24.33,3,11,40,CHA,CHA,fg3_miss,1,False,False,MISS Washington 25' 3PT Jump Shot,,45-42,45,42
+0021900539,2020-01-06,CHA,IND,24.4,3,11,36,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:3),45-42,45,42
+0021900539,2020-01-06,CHA,IND,24.58,3,11,25,IND,IND,fg_miss,6,False,False,,MISS Lamb 3' Driving Layup,45-42,45,42
+0021900539,2020-01-06,CHA,IND,24.62,3,11,23,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:5),,45-42,45,42
+0021900539,2020-01-06,CHA,IND,24.67,3,11,20,CHA,CHA,tov,1,False,True,Biyombo Bad Pass Turnover (P1.T7),,45-42,45,42
+0021900539,2020-01-06,CHA,IND,24.67,3,11,20,CHA,IND,steal,1,False,True,steal,steal,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.02,3,10,59,IND,IND,fg_miss,6,True,False,,MISS Holiday 4' Driving Layup,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.02,3,10,59,IND,CHA,block,6,True,False,block,block,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.03,3,10,58,IND,IND,reb,0,False,False,,Pacers Rebound,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.08,3,10,55,IND,IND,fg3_miss,1,False,False,,MISS Turner 24' 3PT Jump Shot,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.13,3,10,52,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:2 Def:4),,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.33,3,10,40,CHA,CHA,tov,1,False,True,Biyombo Bad Pass Turnover (P2.T8),,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.33,3,10,40,CHA,IND,steal,1,False,True,steal,steal,45-42,45,42
+0021900539,2020-01-06,CHA,IND,25.4,3,10,36,IND,IND,fg_make,5,False,False,,Warren 5' Layup (8 PTS) (Holiday 2 AST),45-44,45,44
+0021900539,2020-01-06,CHA,IND,25.65,3,10,21,CHA,IND,foul,2,False,False,,Holiday S.FOUL (P1.T1) (M.Smith),45-44,45,44
+0021900539,2020-01-06,CHA,IND,25.65,3,10,21,CHA,CHA,ft_make,11,False,False,Bridges Free Throw 1 of 2 (6 PTS),,46-44,46,44
+0021900539,2020-01-06,CHA,IND,25.65,3,10,21,CHA,CHA,ft_make,12,False,False,Bridges Free Throw 2 of 2 (7 PTS),,47-44,47,44
+0021900539,2020-01-06,CHA,IND,25.97,3,10,2,IND,IND,fg_make,1,False,False,,Warren 13' Jump Shot (10 PTS),47-46,47,46
+0021900539,2020-01-06,CHA,IND,25.97,3,10,2,IND,CHA,foul,2,False,False,Washington S.FOUL (P2.T1) (S.Wright),,47-46,47,46
+0021900539,2020-01-06,CHA,IND,25.97,3,10,2,IND,IND,ft_make,10,False,False,,Warren Free Throw 1 of 1 (11 PTS),47-47,47,47
+0021900539,2020-01-06,CHA,IND,26.22,3,9,47,CHA,CHA,tov,2,False,True,Rozier Lost Ball Turnover (P1.T9),,47-47,47,47
+0021900539,2020-01-06,CHA,IND,26.22,3,9,47,CHA,IND,steal,2,False,True,steal,steal,47-47,47,47
+0021900539,2020-01-06,CHA,IND,26.25,3,9,45,IND,CHA,foul,2,False,False,Bridges S.FOUL (P2.T2) (S.Jelks),,47-47,47,47
+0021900539,2020-01-06,CHA,IND,26.25,3,9,45,IND,IND,ft_make,11,False,False,,Warren Free Throw 1 of 2 (12 PTS),47-48,47,48
+0021900539,2020-01-06,CHA,IND,26.25,3,9,45,IND,IND,ft_make,12,False,False,,Warren Free Throw 2 of 2 (13 PTS),47-49,47,49
+0021900539,2020-01-06,CHA,IND,26.45,3,9,33,CHA,CHA,fg3_make,1,False,False,Rozier 26' 3PT Jump Shot (13 PTS) (Bridges 2 AST),,50-49,50,49
+0021900539,2020-01-06,CHA,IND,26.77,3,9,14,IND,IND,fg_make,2,False,False,,Warren 4' Running Jump Shot (15 PTS) (Sabonis 4 AST),50-51,50,51
+0021900539,2020-01-06,CHA,IND,27.02,3,8,59,CHA,IND,foul,1,False,False,,Sabonis P.FOUL (P2.T2) (S.Wright),50-51,50,51
+0021900539,2020-01-06,CHA,IND,27.12,3,8,53,CHA,CHA,tov,2,False,True,Bridges Lost Ball Turnover (P3.T10),,50-51,50,51
+0021900539,2020-01-06,CHA,IND,27.12,3,8,53,CHA,IND,steal,2,False,True,steal,steal,50-51,50,51
+0021900539,2020-01-06,CHA,IND,27.2,3,8,48,IND,IND,fg_make,41,False,False,,Lamb 2' Running Layup (7 PTS) (Warren 2 AST),50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.2,3,8,48,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.42,3,8,35,CHA,CHA,fg3_miss,1,False,False,MISS Graham 25' 3PT Jump Shot,,50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.45,3,8,33,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:4),50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.47,3,8,32,IND,CHA,foul,1,False,False,Biyombo P.FOUL (P1.T3) (S.Wright),,50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.67,3,8,20,IND,IND,fg_miss,80,False,False,,MISS Warren 16' Step Back Jump Shot,50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.72,3,8,17,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:3 Def:7),50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.73,3,8,16,IND,IND,fg_miss,3,False,False,,MISS Sabonis 5' Hook Shot,50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.77,3,8,14,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:0 Def:4),,50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.83,3,8,10,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 3PT Jump Shot,,50-53,50,53
+0021900539,2020-01-06,CHA,IND,27.9,3,8,6,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:2),50-53,50,53
+0021900539,2020-01-06,CHA,IND,28.07,3,7,56,IND,IND,fg_miss,79,False,False,,MISS Holiday 19' Pullup Jump Shot,50-53,50,53
+0021900539,2020-01-06,CHA,IND,28.13,3,7,52,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:7),,50-53,50,53
+0021900539,2020-01-06,CHA,IND,28.32,3,7,41,CHA,CHA,fg_make,101,False,False,Bridges 4' Driving Floating Jump Shot (9 PTS),,52-53,52,53
+0021900539,2020-01-06,CHA,IND,28.57,3,7,26,IND,CHA,foul,1,False,False,Washington P.FOUL (P3.T4) (M.Smith),,52-53,52,53
+0021900539,2020-01-06,CHA,IND,28.63,3,7,22,IND,IND,fg_make,3,False,False,,Sabonis 5' Hook Shot (9 PTS) (Lamb 2 AST),52-55,52,55
+0021900539,2020-01-06,CHA,IND,28.88,3,7,7,CHA,CHA,fg_miss,6,True,False,MISS Graham 6' Driving Layup,,52-55,52,55
+0021900539,2020-01-06,CHA,IND,28.88,3,7,7,CHA,IND,block,6,True,False,block,block,52-55,52,55
+0021900539,2020-01-06,CHA,IND,28.92,3,7,5,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:5),52-55,52,55
+0021900539,2020-01-06,CHA,IND,29.1,3,6,54,IND,IND,fg_make,6,False,False,,Warren 2' Driving Layup (17 PTS) (Holiday 3 AST),52-57,52,57
+0021900539,2020-01-06,CHA,IND,29.43,3,6,34,CHA,CHA,fg_miss,6,False,False,MISS Washington 3' Driving Layup,,52-57,52,57
+0021900539,2020-01-06,CHA,IND,29.48,3,6,31,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:0 Def:6),52-57,52,57
+0021900539,2020-01-06,CHA,IND,29.58,3,6,25,IND,IND,fg_make,5,False,False,,Sabonis 2' Layup (11 PTS) (Turner 1 AST),52-59,52,59
+0021900539,2020-01-06,CHA,IND,29.95,3,6,3,CHA,CHA,fg_make,6,False,False,Bacon 2' Driving Layup (2 PTS) (Washington 1 AST),,54-59,54,59
+0021900539,2020-01-06,CHA,IND,30.27,3,5,44,IND,IND,fg_make,7,False,False,,Sabonis 1' Dunk (13 PTS) (Holiday 4 AST),54-61,54,61
+0021900539,2020-01-06,CHA,IND,30.52,3,5,29,CHA,CHA,fg_miss,6,False,False,MISS Zeller 1' Driving Layup,,54-61,54,61
+0021900539,2020-01-06,CHA,IND,30.52,3,5,29,IND,IND,reb,0,False,False,,Pacers Rebound,54-61,54,61
+0021900539,2020-01-06,CHA,IND,30.52,3,5,29,IND,CHA,foul,3,False,False,Zeller L.B.FOUL (P2.PN) (S.Wright),,54-61,54,61
+0021900539,2020-01-06,CHA,IND,30.52,3,5,29,IND,IND,ft_make,11,False,False,,Sabonis Free Throw 1 of 2 (14 PTS),54-62,54,62
+0021900539,2020-01-06,CHA,IND,30.52,3,5,29,IND,IND,ft_make,12,False,False,,Sabonis Free Throw 2 of 2 (15 PTS),54-63,54,63
+0021900539,2020-01-06,CHA,IND,30.85,3,5,9,CHA,CHA,fg_make,6,False,False,Graham 2' Driving Layup (7 PTS),,56-63,56,63
+0021900539,2020-01-06,CHA,IND,31.07,3,4,56,IND,IND,fg3_make,1,False,False,,Turner 27' 3PT Jump Shot (7 PTS) (Lamb 3 AST),56-66,56,66
+0021900539,2020-01-06,CHA,IND,31.42,3,4,35,CHA,CHA,tov,39,False,False,Graham Step Out of Bounds Turnover (P3.T11),,56-66,56,66
+0021900539,2020-01-06,CHA,IND,31.65,3,4,21,IND,IND,fg_miss,6,False,False,,MISS Lamb 2' Driving Layup,56-66,56,66
+0021900539,2020-01-06,CHA,IND,31.68,3,4,19,CHA,CHA,reb,0,False,False,Bacon REBOUND (Off:0 Def:2),,56-66,56,66
+0021900539,2020-01-06,CHA,IND,31.82,3,4,11,CHA,CHA,fg_miss,6,False,False,MISS Bacon 6' Driving Layup,,56-66,56,66
+0021900539,2020-01-06,CHA,IND,31.85,3,4,9,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:6),56-66,56,66
+0021900539,2020-01-06,CHA,IND,32.03,3,3,58,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,56-66,56,66
+0021900539,2020-01-06,CHA,IND,32.07,3,3,56,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:6),56-66,56,66
+0021900539,2020-01-06,CHA,IND,32.07,3,3,56,IND,IND,fg_make,72,False,False,,Lamb 1' Putback Layup (9 PTS),56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.33,3,3,40,CHA,CHA,fg3_miss,1,False,False,MISS Graham 26' 3PT Jump Shot,,56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.38,3,3,37,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:7),56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.5,3,3,30,IND,IND,fg3_miss,1,False,False,,MISS Turner 25' 3PT Jump Shot,56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.53,3,3,28,IND,IND,reb,0,False,False,,Warren REBOUND (Off:2 Def:2),56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.53,3,3,28,IND,IND,fg_miss,97,False,False,,MISS Warren 3' Tip Layup Shot,56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.55,3,3,27,IND,IND,fg_miss,97,False,False,,MISS Warren 1' Tip Layup Shot,56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.55,3,3,27,IND,IND,reb,0,False,False,,Warren REBOUND (Off:3 Def:2),56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.58,3,3,25,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.73,3,3,16,IND,IND,fg_make,47,False,False,,Warren 8' Turnaround Jump Shot (19 PTS),56-70,56,70
+0021900539,2020-01-06,CHA,IND,32.78,3,3,13,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 4 Short 0),,56-70,56,70
+0021900539,2020-01-06,CHA,IND,33.02,3,2,59,CHA,CHA,fg3_make,1,False,False,Rozier 25' 3PT Jump Shot (16 PTS) (Bridges 3 AST),,59-70,59,70
+0021900539,2020-01-06,CHA,IND,33.37,3,2,38,IND,IND,fg3_make,1,False,False,,McDermott 24' 3PT Jump Shot (5 PTS) (Holiday 2 AST),59-73,59,73
+0021900539,2020-01-06,CHA,IND,33.62,3,2,23,CHA,CHA,fg_make,6,False,False,Bacon 1' Driving Layup (4 PTS) (Bridges 4 AST),,61-73,61,73
+0021900539,2020-01-06,CHA,IND,33.62,3,2,23,CHA,IND,foul,2,False,False,,Turner S.FOUL (P2.T3) (S.Wright),61-73,61,73
+0021900539,2020-01-06,CHA,IND,33.62,3,2,23,CHA,CHA,ft_make,10,False,False,Bacon Free Throw 1 of 1 (5 PTS),,62-73,62,73
+0021900539,2020-01-06,CHA,IND,33.87,3,2,8,IND,IND,fg_make,98,False,False,,Turner 3' Cutting Layup Shot (9 PTS) (McConnell 4 AST),62-75,62,75
+0021900539,2020-01-06,CHA,IND,34.23,3,1,46,CHA,CHA,fg_miss,6,False,False,MISS Monk 3' Driving Layup,,62-75,62,75
+0021900539,2020-01-06,CHA,IND,34.27,3,1,44,IND,IND,reb,0,False,False,,McConnell REBOUND (Off:1 Def:2),62-75,62,75
+0021900539,2020-01-06,CHA,IND,34.48,3,1,31,IND,IND,fg_make,6,False,False,,Turner 3' Driving Layup (11 PTS) (McConnell 5 AST),62-77,62,77
+0021900539,2020-01-06,CHA,IND,34.8,3,1,12,CHA,CHA,fg3_make,1,False,False,Bridges 26' 3PT Jump Shot (12 PTS) (Bacon 2 AST),,65-77,65,77
+0021900539,2020-01-06,CHA,IND,35.18,3,0,49,IND,IND,tov,4,False,False,,Holiday Traveling Turnover (P1.T6),65-77,65,77
+0021900539,2020-01-06,CHA,IND,35.53,3,0,28,CHA,CHA,fg_miss,6,False,False,MISS Bacon 2' Driving Layup,,65-77,65,77
+0021900539,2020-01-06,CHA,IND,35.57,3,0,26,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:7),65-77,65,77
+0021900539,2020-01-06,CHA,IND,35.88,3,0,7,IND,IND,fg_make,6,False,False,,Sumner 2' Driving Layup (4 PTS),65-79,65,79
+0021900539,2020-01-06,CHA,IND,36.0,3,0,0,CHA,CHA,fg3_miss,1,False,False,MISS Zeller 30' 3PT Jump Shot,,65-79,65,79
+0021900539,2020-01-06,CHA,IND,36.0,3,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,65-79,65,79
+0021900539,2020-01-06,CHA,IND,36.0,3,0,0,CHA,,period_end,0,False,False,,,65-79,65,79
+0021900539,2020-01-06,CHA,IND,36.0,4,12,0,CHA,,period_start,0,False,False,,,65-79,65,79
+0021900539,2020-01-06,CHA,IND,36.17,4,11,50,CHA,IND,foul,4,False,False,,Holiday OFF.Foul (P4) (S.Jelks),65-79,65,79
+0021900539,2020-01-06,CHA,IND,36.17,4,11,50,IND,IND,tov,37,False,False,,Holiday Offensive Foul Turnover (P2.T7),65-79,65,79
+0021900539,2020-01-06,CHA,IND,36.38,4,11,37,CHA,CHA,fg_make,66,False,False,Bridges 15' Jump Bank Shot (14 PTS),,67-79,67,79
+0021900539,2020-01-06,CHA,IND,36.68,4,11,19,CHA,IND,foul,4,False,False,,Sabonis OFF.Foul (P3) (S.Wright),67-79,67,79
+0021900539,2020-01-06,CHA,IND,36.68,4,11,19,IND,IND,tov,37,False,False,,Sabonis Offensive Foul Turnover (P2.T8),67-79,67,79
+0021900539,2020-01-06,CHA,IND,36.93,4,11,4,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 25' 3PT Jump Shot,,67-79,67,79
+0021900539,2020-01-06,CHA,IND,36.98,4,11,1,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:3 Def:8),67-79,67,79
+0021900539,2020-01-06,CHA,IND,37.28,4,10,43,IND,IND,fg3_make,1,False,False,,Holiday 25' 3PT Jump Shot (9 PTS) (McConnell 6 AST),67-82,67,82
+0021900539,2020-01-06,CHA,IND,37.57,4,10,26,CHA,CHA,fg_make,98,False,False,Martin 9' Cutting Layup Shot (4 PTS) (Bacon 3 AST),,69-82,69,82
+0021900539,2020-01-06,CHA,IND,37.78,4,10,13,IND,IND,tov,2,False,True,,Sumner Lost Ball Turnover (P1.T9),69-82,69,82
+0021900539,2020-01-06,CHA,IND,37.78,4,10,13,IND,CHA,steal,2,False,True,steal,steal,69-82,69,82
+0021900539,2020-01-06,CHA,IND,37.83,4,10,10,CHA,CHA,fg_miss,74,False,False,MISS Bacon 2' Running Reverse Layup,,69-82,69,82
+0021900539,2020-01-06,CHA,IND,37.92,4,10,5,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:2 Def:5),,71-82,71,82
+0021900539,2020-01-06,CHA,IND,37.92,4,10,5,CHA,CHA,fg_make,72,False,False,Bridges 1' Putback Layup (16 PTS),,71-82,71,82
+0021900539,2020-01-06,CHA,IND,38.1,4,9,54,IND,IND,fg_make,5,False,False,,Sumner 2' Layup (6 PTS) (McConnell 7 AST),71-84,71,84
+0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,foul,1,False,False,,Holiday P.FOUL (P5.T1) (M.Smith),71-84,71,84
+0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,foul,11,False,False,,Holiday T.FOUL (P5.T1) (M.Smith),71-84,71,84
+0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,CHA,ft_make,16,False,False,Rozier Free Throw Technical (17 PTS),,72-84,72,84
+0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,foul,11,False,False,,Holiday T.FOUL (P5.T1) (S.Wright),71-84,71,84
+0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,ejection,4,False,False,,Holiday Ejection:Other,71-84,71,84
+0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,CHA,ft_make,16,False,False,Rozier Free Throw Technical (18 PTS),,73-84,73,84
+0021900539,2020-01-06,CHA,IND,38.48,4,9,31,CHA,CHA,fg_make,80,False,False,Rozier 22' Step Back Jump Shot (20 PTS),,75-84,75,84
+0021900539,2020-01-06,CHA,IND,38.52,4,9,29,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),75-84,75,84
+0021900539,2020-01-06,CHA,IND,38.87,4,9,8,IND,IND,fg_miss,78,False,False,,MISS McDermott 7' Floating Jump Shot,75-84,75,84
+0021900539,2020-01-06,CHA,IND,38.9,4,9,6,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:2 Def:5),,75-84,75,84
+0021900539,2020-01-06,CHA,IND,39.18,4,8,49,CHA,CHA,fg_make,66,False,False,Bacon 17' Jump Bank Shot (7 PTS),,77-84,77,84
+0021900539,2020-01-06,CHA,IND,39.43,4,8,34,IND,IND,fg_make,101,False,False,,Warren 6' Driving Floating Jump Shot (21 PTS),77-86,77,86
+0021900539,2020-01-06,CHA,IND,39.43,4,8,34,IND,CHA,foul,2,False,False,Bridges S.FOUL (P3.T1) (S.Wright),,77-86,77,86
+0021900539,2020-01-06,CHA,IND,39.43,4,8,34,IND,IND,ft_make,10,False,False,,Warren Free Throw 1 of 1 (22 PTS),77-87,77,87
+0021900539,2020-01-06,CHA,IND,39.65,4,8,21,CHA,CHA,fg_make,79,False,False,Rozier 14' Pullup Jump Shot (22 PTS),,79-87,79,87
+0021900539,2020-01-06,CHA,IND,39.98,4,8,1,IND,IND,fg_make,63,False,False,,Warren 19' Fadeaway Jumper (24 PTS) (Sabonis 5 AST),79-89,79,89
+0021900539,2020-01-06,CHA,IND,40.33,4,7,40,CHA,CHA,tov,40,False,False,Bacon Out of Bounds Lost Ball Turnover (P1.T12),,79-89,79,89
+0021900539,2020-01-06,CHA,IND,40.63,4,7,22,IND,IND,fg_make,79,False,False,,McConnell 14' Pullup Jump Shot (7 PTS),79-91,79,91
+0021900539,2020-01-06,CHA,IND,40.85,4,7,9,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 24' 3PT Jump Shot,,79-91,79,91
+0021900539,2020-01-06,CHA,IND,40.9,4,7,6,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:8),79-91,79,91
+0021900539,2020-01-06,CHA,IND,41.12,4,6,53,IND,IND,fg_make,71,False,False,,Sabonis 2' Finger Roll Layup (17 PTS) (Warren 3 AST),79-93,79,93
+0021900539,2020-01-06,CHA,IND,41.15,4,6,51,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 5 Short 0),,79-93,79,93
+0021900539,2020-01-06,CHA,IND,41.32,4,6,41,CHA,IND,foul,2,False,False,,Sabonis S.FOUL (P4.T2) (M.Smith),79-93,79,93
+0021900539,2020-01-06,CHA,IND,41.32,4,6,41,CHA,CHA,ft_make,11,False,False,Rozier Free Throw 1 of 2 (23 PTS),,80-93,80,93
+0021900539,2020-01-06,CHA,IND,41.32,4,6,41,CHA,CHA,ft_make,12,False,False,Rozier Free Throw 2 of 2 (24 PTS),,81-93,81,93
+0021900539,2020-01-06,CHA,IND,41.62,4,6,23,IND,IND,fg3_make,1,False,False,,McDermott 3PT Jump Shot (8 PTS) (Lamb 4 AST),81-96,81,96
+0021900539,2020-01-06,CHA,IND,41.85,4,6,9,CHA,IND,foul,2,False,False,,Turner S.FOUL (P3.T3) (M.Smith),81-96,81,96
+0021900539,2020-01-06,CHA,IND,41.85,4,6,9,CHA,CHA,ft_make,11,False,False,Rozier Free Throw 1 of 2 (25 PTS),,82-96,82,96
+0021900539,2020-01-06,CHA,IND,41.85,4,6,9,CHA,CHA,ft_make,12,False,False,Rozier Free Throw 2 of 2 (26 PTS),,83-96,83,96
+0021900539,2020-01-06,CHA,IND,42.12,4,5,53,IND,IND,fg_make,78,False,False,,Warren 8' Floating Jump Shot (26 PTS),83-98,83,98
+0021900539,2020-01-06,CHA,IND,42.32,4,5,41,CHA,IND,foul,1,False,False,,Lamb P.FOUL (P2.T4) (S.Jelks),83-98,83,98
+0021900539,2020-01-06,CHA,IND,42.4,4,5,36,CHA,CHA,fg_make,6,False,False,Graham 2' Driving Layup (9 PTS),,85-98,85,98
+0021900539,2020-01-06,CHA,IND,42.68,4,5,19,IND,IND,fg_make,6,False,False,,Warren 8' Driving Layup (28 PTS),85-100,85,100
+0021900539,2020-01-06,CHA,IND,42.68,4,5,19,IND,CHA,foul,2,False,False,Martin S.FOUL (P1.T2) (M.Smith),,85-100,85,100
+0021900539,2020-01-06,CHA,IND,42.68,4,5,19,IND,IND,ft_make,10,False,False,,Warren Free Throw 1 of 1 (29 PTS),85-101,85,101
+0021900539,2020-01-06,CHA,IND,42.85,4,5,9,CHA,CHA,fg_miss,6,False,False,MISS Washington 2' Driving Layup,,85-101,85,101
+0021900539,2020-01-06,CHA,IND,42.87,4,5,8,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:1 Def:2),,85-101,85,101
+0021900539,2020-01-06,CHA,IND,42.87,4,5,8,CHA,CHA,fg_miss,97,False,False,MISS Zeller 1' Tip Layup Shot,,85-101,85,101
+0021900539,2020-01-06,CHA,IND,42.88,4,5,7,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:2 Def:2),,85-101,85,101
+0021900539,2020-01-06,CHA,IND,42.88,4,5,7,CHA,CHA,fg_make,97,False,False,Zeller 1' Tip Layup Shot (14 PTS),,87-101,87,101
+0021900539,2020-01-06,CHA,IND,43.17,4,4,50,IND,IND,fg3_miss,1,False,False,,MISS Lamb 26' 3PT Jump Shot,87-101,87,101
+0021900539,2020-01-06,CHA,IND,43.22,4,4,47,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:7),87-101,87,101
+0021900539,2020-01-06,CHA,IND,43.25,4,4,45,IND,IND,fg_make,78,False,False,,Warren 7' Floating Jump Shot (31 PTS) (Turner 2 AST),87-103,87,103
+0021900539,2020-01-06,CHA,IND,43.42,4,4,35,CHA,IND,foul,1,False,False,,Warren P.FOUL (P2.PN) (S.Wright),87-103,87,103
+0021900539,2020-01-06,CHA,IND,43.42,4,4,35,CHA,CHA,ft_miss,11,False,False,MISS Graham Free Throw 1 of 2,,87-103,87,103
+0021900539,2020-01-06,CHA,IND,43.42,4,4,35,CHA,CHA,reb,1,False,False,HORNETS Rebound,,87-103,87,103
+0021900539,2020-01-06,CHA,IND,43.42,4,4,35,CHA,CHA,ft_make,12,False,False,Graham Free Throw 2 of 2 (10 PTS),,88-103,88,103
+0021900539,2020-01-06,CHA,IND,43.42,4,4,35,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.4 Short 0),88-103,88,103
+0021900539,2020-01-06,CHA,IND,43.77,4,4,14,IND,IND,fg3_miss,1,False,False,,MISS Warren 24' 3PT Jump Shot,88-103,88,103
+0021900539,2020-01-06,CHA,IND,43.82,4,4,11,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:8),,88-103,88,103
+0021900539,2020-01-06,CHA,IND,43.88,4,4,7,CHA,CHA,fg_make,41,False,False,Rozier 2' Running Layup (28 PTS),,90-103,90,103
+0021900539,2020-01-06,CHA,IND,44.25,4,3,45,IND,IND,tov,45,False,False,,Lamb Out of Bounds - Bad Pass Turnover Turnover (P1.T10),90-103,90,103
+0021900539,2020-01-06,CHA,IND,44.4,4,3,36,CHA,IND,foul,1,False,False,,Warren P.FOUL (P3.PN) (S.Jelks),90-103,90,103
+0021900539,2020-01-06,CHA,IND,44.4,4,3,36,CHA,CHA,ft_make,11,False,False,Graham Free Throw 1 of 2 (11 PTS),,91-103,91,103
+0021900539,2020-01-06,CHA,IND,44.4,4,3,36,CHA,CHA,ft_make,12,False,False,Graham Free Throw 2 of 2 (12 PTS),,92-103,92,103
+0021900539,2020-01-06,CHA,IND,44.72,4,3,17,IND,IND,fg3_make,1,False,False,,Turner 3PT Jump Shot (14 PTS) (Holiday 5 AST),92-106,92,106
+0021900539,2020-01-06,CHA,IND,45.03,4,2,58,CHA,CHA,fg3_make,80,False,False,Graham 3PT Step Back Jump Shot (15 PTS) (Washington 2 AST),,95-106,95,106
+0021900539,2020-01-06,CHA,IND,45.48,4,2,31,IND,IND,fg_miss,101,False,False,,MISS Warren 7' Driving Floating Jump Shot,95-106,95,106
+0021900539,2020-01-06,CHA,IND,45.53,4,2,28,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:4 Def:8),95-106,95,106
+0021900539,2020-01-06,CHA,IND,45.55,4,2,27,IND,CHA,foul,2,False,False,Zeller S.FOUL (P3.T3) (S.Jelks),,95-106,95,106
+0021900539,2020-01-06,CHA,IND,45.55,4,2,27,IND,IND,ft_make,11,False,False,,Sabonis Free Throw 1 of 2 (18 PTS),95-107,95,107
+0021900539,2020-01-06,CHA,IND,45.55,4,2,27,IND,IND,ft_miss,12,False,False,,MISS Sabonis Free Throw 2 of 2,95-107,95,107
+0021900539,2020-01-06,CHA,IND,45.6,4,2,24,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:0 Def:5),,95-107,95,107
+0021900539,2020-01-06,CHA,IND,45.65,4,2,21,CHA,IND,violation,5,False,False,,Turner Violation:Kicked Ball (S.Jelks),95-107,95,107
+0021900539,2020-01-06,CHA,IND,45.77,4,2,14,CHA,CHA,fg3_make,1,False,False,Graham 24' 3PT Jump Shot (18 PTS) (Rozier 6 AST),,98-107,98,107
+0021900539,2020-01-06,CHA,IND,46.13,4,1,52,IND,IND,fg_make,108,False,False,,Warren 1' Cutting Dunk Shot (33 PTS) (Sabonis 6 AST),98-109,98,109
+0021900539,2020-01-06,CHA,IND,46.3,4,1,42,CHA,IND,foul,1,False,False,,Warren P.FOUL (P4.PN) (S.Wright),98-109,98,109
+0021900539,2020-01-06,CHA,IND,46.3,4,1,42,CHA,CHA,ft_make,11,False,False,Bridges Free Throw 1 of 2 (17 PTS),,99-109,99,109
+0021900539,2020-01-06,CHA,IND,46.3,4,1,42,CHA,CHA,ft_make,12,False,False,Bridges Free Throw 2 of 2 (18 PTS),,100-109,100,109
+0021900539,2020-01-06,CHA,IND,46.4,4,1,36,IND,IND,fg_make,98,False,False,,Warren 2' Cutting Layup Shot (35 PTS) (Sabonis 7 AST),100-111,100,111
+0021900539,2020-01-06,CHA,IND,46.4,4,1,36,IND,CHA,foul,2,False,False,Washington S.FOUL (P4.T4) (S.Jelks),,100-111,100,111
+0021900539,2020-01-06,CHA,IND,46.4,4,1,36,IND,IND,ft_make,10,False,False,,Warren Free Throw 1 of 1 (36 PTS),100-112,100,112
+0021900539,2020-01-06,CHA,IND,46.62,4,1,23,CHA,IND,foul,2,False,False,,Warren S.FOUL (P5.PN) (S.Wright),100-112,100,112
+0021900539,2020-01-06,CHA,IND,46.62,4,1,23,CHA,CHA,ft_make,11,False,False,Graham Free Throw 1 of 2 (19 PTS),,101-112,101,112
+0021900539,2020-01-06,CHA,IND,46.62,4,1,23,CHA,CHA,ft_make,12,False,False,Graham Free Throw 2 of 2 (20 PTS),,102-112,102,112
+0021900539,2020-01-06,CHA,IND,46.92,4,1,5,IND,CHA,foul,2,False,False,Bridges S.FOUL (P4.PN) (S.Wright),,102-112,102,112
+0021900539,2020-01-06,CHA,IND,46.92,4,1,5,IND,IND,ft_make,11,False,False,,Turner Free Throw 1 of 2 (15 PTS),102-113,102,113
+0021900539,2020-01-06,CHA,IND,46.92,4,1,5,IND,IND,ft_miss,12,False,False,,MISS Turner Free Throw 2 of 2,102-113,102,113
+0021900539,2020-01-06,CHA,IND,46.98,4,1,1,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:9),,102-113,102,113
+0021900539,2020-01-06,CHA,IND,47.03,4,0,58,CHA,CHA,fg_make,74,False,False,Graham 1' Running Reverse Layup (22 PTS),,104-113,104,113
+0021900539,2020-01-06,CHA,IND,47.38,4,0,37,IND,IND,fg_make,66,False,False,,Lamb 11' Jump Bank Shot (11 PTS),104-115,104,115
+0021900539,2020-01-06,CHA,IND,47.52,4,0,29,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,104-115,104,115
+0021900539,2020-01-06,CHA,IND,47.58,4,0,25,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:9),104-115,104,115
+0021900539,2020-01-06,CHA,IND,47.95,4,0,3,IND,IND,tov,11,False,False,,Pacers Turnover: Shot Clock (T#11),104-115,104,115
+0021900539,2020-01-06,CHA,IND,48.0,4,0,0,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 24' 3PT Jump Shot,,104-115,104,115
+0021900539,2020-01-06,CHA,IND,48.0,4,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,104-115,104,115
+0021900539,2020-01-06,CHA,IND,48.0,4,0,0,CHA,,period_end,0,False,False,,,104-115,104,115

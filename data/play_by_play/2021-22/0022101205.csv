@@ -1,0 +1,423 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101205,2022-04-08,BKN,CLE,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.0,1,12,0,,BKN,jump_ball,0,False,False,Jump Ball Drummond vs. Mobley: Tip to Brown,,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.23,1,11,46,CLE,BKN,foul,4,False,False,Drummond OFF.Foul (P1) (E.Lewis),,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.23,1,11,46,BKN,BKN,tov,37,False,False,Drummond Offensive Foul Turnover (P1.T1),,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.43,1,11,34,CLE,CLE,fg3_miss,1,False,False,,MISS Markkanen 27' 3PT Jump Shot,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.52,1,11,29,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:1),,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.6,1,11,24,BKN,BKN,fg_miss,79,False,False,MISS Irving 22' Pullup Jump Shot,,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.62,1,11,23,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:1 Def:0),,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.62,1,11,23,BKN,BKN,fg_miss,72,True,False,MISS Brown 3' Putback Layup,,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.62,1,11,23,BKN,CLE,block,72,True,False,block,block,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.62,1,11,23,BKN,BKN,reb,0,False,False,NETS Rebound,,0-0,0,0
+0022101205,2022-04-08,BKN,CLE,0.65,1,11,21,BKN,BKN,fg_make,1,False,False,Curry 17' Jump Shot (2 PTS) (Irving 1 AST),,2-0,2,0
+0022101205,2022-04-08,BKN,CLE,0.93,1,11,4,CLE,CLE,fg_miss,78,False,False,,MISS Garland 15' Floating Jump Shot,2-0,2,0
+0022101205,2022-04-08,BKN,CLE,0.97,1,11,2,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:0 Def:1),,2-0,2,0
+0022101205,2022-04-08,BKN,CLE,1.12,1,10,53,BKN,BKN,fg_make,101,False,False,Curry 9' Driving Floating Jump Shot (4 PTS),,4-0,4,0
+0022101205,2022-04-08,BKN,CLE,1.3,1,10,42,CLE,CLE,fg_miss,98,False,False,,MISS Markkanen 4' Cutting Layup Shot,4-0,4,0
+0022101205,2022-04-08,BKN,CLE,1.4,1,10,36,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:0),4-0,4,0
+0022101205,2022-04-08,BKN,CLE,1.4,1,10,36,CLE,CLE,fg_make,97,False,False,,Markkanen Tip Layup Shot (2 PTS),4-2,4,2
+0022101205,2022-04-08,BKN,CLE,1.58,1,10,25,BKN,BKN,fg_miss,78,False,False,MISS Brown 12' Floating Jump Shot,,4-2,4,2
+0022101205,2022-04-08,BKN,CLE,1.63,1,10,22,BKN,BKN,reb,0,False,False,NETS Rebound,,4-2,4,2
+0022101205,2022-04-08,BKN,CLE,1.63,1,10,22,BKN,CLE,foul,3,False,False,,Markkanen L.B.FOUL (P1.T1) (S.Wall),4-2,4,2
+0022101205,2022-04-08,BKN,CLE,1.82,1,10,11,BKN,BKN,fg3_make,1,False,False,Brown 25' 3PT Jump Shot (3 PTS) (Irving 2 AST),,7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.13,1,9,52,CLE,CLE,fg_miss,80,False,False,,MISS LeVert 19' Step Back Jump Shot,7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.18,1,9,49,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:2),,7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.23,1,9,46,BKN,BKN,fg3_miss,103,False,False,MISS Curry 26' 3PT Running Pull-Up Jump Shot,,7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.28,1,9,43,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:1),7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.43,1,9,34,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P1.T1),7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.43,1,9,34,CLE,BKN,steal,1,False,True,steal,steal,7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.55,1,9,27,BKN,BKN,fg_miss,6,False,False,MISS Irving 6' Driving Layup,,7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.6,1,9,24,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:2),7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.63,1,9,22,CLE,BKN,foul,28,False,False,Curry Personal Take Foul (P1.T1) (S.Wall),,7-2,7,2
+0022101205,2022-04-08,BKN,CLE,2.85,1,9,9,CLE,CLE,fg_make,79,False,False,,Garland 20' Pullup Jump Shot (2 PTS),7-4,7,4
+0022101205,2022-04-08,BKN,CLE,3.23,1,8,46,BKN,BKN,fg_miss,44,False,False,MISS Drummond 4' Reverse Layup,,7-4,7,4
+0022101205,2022-04-08,BKN,CLE,3.3,1,8,42,CLE,CLE,reb,0,False,False,,Okoro REBOUND (Off:0 Def:1),7-4,7,4
+0022101205,2022-04-08,BKN,CLE,3.42,1,8,35,CLE,CLE,fg3_miss,79,False,False,,MISS Mobley 26' 3PT Pullup Jump Shot,7-4,7,4
+0022101205,2022-04-08,BKN,CLE,3.45,1,8,33,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:1 Def:1),,7-4,7,4
+0022101205,2022-04-08,BKN,CLE,3.62,1,8,23,BKN,BKN,fg3_miss,1,False,False,MISS Brown 25' 3PT Jump Shot,,7-4,7,4
+0022101205,2022-04-08,BKN,CLE,3.65,1,8,21,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:0 Def:1),7-4,7,4
+0022101205,2022-04-08,BKN,CLE,3.8,1,8,12,CLE,CLE,fg_make,78,False,False,,Mobley 6' Floating Jump Shot (2 PTS) (Okoro 1 AST),7-6,7,6
+0022101205,2022-04-08,BKN,CLE,4.07,1,7,56,BKN,BKN,fg_miss,86,False,False,MISS Durant 14' Turnaround Fadeaway Shot,,7-6,7,6
+0022101205,2022-04-08,BKN,CLE,4.1,1,7,54,CLE,CLE,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:3),7-6,7,6
+0022101205,2022-04-08,BKN,CLE,4.28,1,7,43,CLE,CLE,tov,2,False,True,,Markkanen Lost Ball Turnover (P1.T2),7-6,7,6
+0022101205,2022-04-08,BKN,CLE,4.28,1,7,43,CLE,BKN,steal,2,False,True,steal,steal,7-6,7,6
+0022101205,2022-04-08,BKN,CLE,4.4,1,7,36,BKN,CLE,foul,2,False,False,,Okoro S.FOUL (P1.T2) (B.Taylor),7-6,7,6
+0022101205,2022-04-08,BKN,CLE,4.4,1,7,36,BKN,BKN,ft_make,11,False,False,Brown Free Throw 1 of 2 (4 PTS),,8-6,8,6
+0022101205,2022-04-08,BKN,CLE,4.4,1,7,36,BKN,BKN,ft_make,12,False,False,Brown Free Throw 2 of 2 (5 PTS),,9-6,9,6
+0022101205,2022-04-08,BKN,CLE,4.6,1,7,24,CLE,CLE,fg_make,101,False,False,,Garland 12' Driving Floating Jump Shot (4 PTS),9-8,9,8
+0022101205,2022-04-08,BKN,CLE,4.77,1,7,14,BKN,BKN,fg_make,79,False,False,Durant 12' Pullup Jump Shot (2 PTS),,11-8,11,8
+0022101205,2022-04-08,BKN,CLE,4.98,1,7,1,CLE,CLE,fg_make,75,False,False,,Garland 7' Driving Finger Roll Layup (6 PTS),11-10,11,10
+0022101205,2022-04-08,BKN,CLE,5.43,1,6,34,BKN,BKN,tov,2,False,True,Curry Lost Ball Turnover (P1.T2),,11-10,11,10
+0022101205,2022-04-08,BKN,CLE,5.43,1,6,34,BKN,CLE,steal,2,False,True,steal,steal,11-10,11,10
+0022101205,2022-04-08,BKN,CLE,5.55,1,6,27,CLE,BKN,foul,1,False,False,Curry P.FOUL (P2.T2) (B.Taylor),,11-10,11,10
+0022101205,2022-04-08,BKN,CLE,5.55,1,6,27,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 1 Short 0),,11-10,11,10
+0022101205,2022-04-08,BKN,CLE,5.78,1,6,13,CLE,CLE,fg3_miss,1,False,False,,MISS Love 28' 3PT Jump Shot,11-10,11,10
+0022101205,2022-04-08,BKN,CLE,5.85,1,6,9,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:1 Def:2),,11-10,11,10
+0022101205,2022-04-08,BKN,CLE,5.9,1,6,6,BKN,BKN,fg3_make,1,False,False,Durant 26' 3PT Jump Shot (5 PTS) (Brown 1 AST),,14-10,14,10
+0022101205,2022-04-08,BKN,CLE,6.35,1,5,39,CLE,CLE,fg_miss,86,False,False,,MISS Mobley 19' Turnaround Fadeaway Shot,14-10,14,10
+0022101205,2022-04-08,BKN,CLE,6.4,1,5,36,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:1),,14-10,14,10
+0022101205,2022-04-08,BKN,CLE,6.53,1,5,28,BKN,BKN,fg_make,99,False,False,Brown 3' Cutting Finger Roll Layup Shot (7 PTS) (Irving 3 AST),,16-10,16,10
+0022101205,2022-04-08,BKN,CLE,6.85,1,5,9,CLE,CLE,fg3_miss,1,False,False,,MISS Markkanen 26' 3PT Jump Shot,16-10,16,10
+0022101205,2022-04-08,BKN,CLE,6.9,1,5,6,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:2),,16-10,16,10
+0022101205,2022-04-08,BKN,CLE,7.05,1,4,57,BKN,BKN,fg_make,79,False,False,Durant 20' Pullup Jump Shot (7 PTS) (Brown 2 AST),,18-10,18,10
+0022101205,2022-04-08,BKN,CLE,7.38,1,4,37,CLE,CLE,fg3_miss,79,False,False,,MISS Garland 26' 3PT Pullup Jump Shot,18-10,18,10
+0022101205,2022-04-08,BKN,CLE,7.43,1,4,34,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:0 Def:1),,18-10,18,10
+0022101205,2022-04-08,BKN,CLE,7.53,1,4,28,BKN,BKN,fg_make,108,False,False,Claxton 3' Cutting Dunk Shot (2 PTS) (Durant 1 AST),,20-10,20,10
+0022101205,2022-04-08,BKN,CLE,7.55,1,4,27,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.1 Short 0),20-10,20,10
+0022101205,2022-04-08,BKN,CLE,7.88,1,4,7,CLE,CLE,fg3_miss,1,False,False,,MISS Stevens 3PT Jump Shot,20-10,20,10
+0022101205,2022-04-08,BKN,CLE,7.93,1,4,4,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:3),,20-10,20,10
+0022101205,2022-04-08,BKN,CLE,8.13,1,3,52,BKN,BKN,fg3_miss,1,False,False,MISS Edwards 3PT Jump Shot,,20-10,20,10
+0022101205,2022-04-08,BKN,CLE,8.18,1,3,49,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:2 Def:2),,20-10,20,10
+0022101205,2022-04-08,BKN,CLE,8.3,1,3,42,BKN,BKN,fg_make,63,False,False,Irving 15' Fadeaway Jumper (2 PTS) (Brown 3 AST),,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,8.77,1,3,14,CLE,CLE,fg3_miss,1,False,False,,MISS Stevens 24' 3PT Jump Shot,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,8.83,1,3,10,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:1 Def:0),22-10,22,10
+0022101205,2022-04-08,BKN,CLE,8.95,1,3,3,CLE,CLE,fg_miss,6,True,False,,MISS Garland 5' Driving Layup,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,8.95,1,3,3,CLE,BKN,block,6,True,False,block,block,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.0,1,3,0,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:2 Def:0),22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.07,1,2,56,CLE,CLE,tov,1,False,True,,Love Bad Pass Turnover (P1.T3),22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.07,1,2,56,CLE,BKN,steal,1,False,True,steal,steal,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.3,1,2,42,BKN,BKN,fg3_miss,1,False,False,MISS Irving 3PT Jump Shot,,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.3,1,2,42,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.47,1,2,32,CLE,BKN,foul,2,False,False,Brown S.FOUL (P1.T3) (S.Wall),,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.47,1,2,32,CLE,CLE,ft_miss,11,False,False,,MISS LeVert Free Throw 1 of 2,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.47,1,2,32,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,22-10,22,10
+0022101205,2022-04-08,BKN,CLE,9.47,1,2,32,CLE,CLE,ft_make,12,False,False,,LeVert Free Throw 2 of 2 (1 PTS),22-11,22,11
+0022101205,2022-04-08,BKN,CLE,9.8,1,2,12,BKN,CLE,foul,1,False,False,,Stevens P.FOUL (P1.T3) (E.Lewis),22-11,22,11
+0022101205,2022-04-08,BKN,CLE,9.95,1,2,3,BKN,CLE,foul,2,False,False,,Stevens S.FOUL (P2.T4) (S.Wall),22-11,22,11
+0022101205,2022-04-08,BKN,CLE,9.95,1,2,3,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (8 PTS),,23-11,23,11
+0022101205,2022-04-08,BKN,CLE,9.95,1,2,3,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (9 PTS),,24-11,24,11
+0022101205,2022-04-08,BKN,CLE,10.13,1,1,52,CLE,CLE,fg_make,79,False,False,,LeVert 12' Pullup Jump Shot (3 PTS) (Rondo 1 AST),24-13,24,13
+0022101205,2022-04-08,BKN,CLE,10.37,1,1,38,BKN,BKN,fg_make,79,False,False,Durant 12' Pullup Jump Shot (11 PTS),,26-13,26,13
+0022101205,2022-04-08,BKN,CLE,10.68,1,1,19,CLE,CLE,fg_make,86,False,False,,Markkanen 11' Turnaround Fadeaway (4 PTS),26-15,26,15
+0022101205,2022-04-08,BKN,CLE,10.92,1,1,5,BKN,BKN,fg_make,1,False,False,Durant 14' Jump Shot (13 PTS) (Curry 1 AST),,28-15,28,15
+0022101205,2022-04-08,BKN,CLE,11.03,1,0,58,BKN,CLE,foul,4,False,False,,Markkanen OFF.Foul (P2) (E.Lewis),28-15,28,15
+0022101205,2022-04-08,BKN,CLE,11.03,1,0,58,CLE,CLE,tov,37,False,False,,Markkanen Offensive Foul Turnover (P2.T4),28-15,28,15
+0022101205,2022-04-08,BKN,CLE,11.27,1,0,44,BKN,BKN,fg3_make,1,False,False,Curry 26' 3PT Jump Shot (7 PTS) (Durant 2 AST),,31-15,31,15
+0022101205,2022-04-08,BKN,CLE,11.53,1,0,28,CLE,CLE,fg_make,86,False,False,,Stevens 10' Turnaround Fadeaway (2 PTS) (Rondo 2 AST),31-17,31,17
+0022101205,2022-04-08,BKN,CLE,11.87,1,0,8,BKN,BKN,fg3_make,1,False,False,Durant 3PT Jump Shot (16 PTS) (Mills 1 AST),,34-17,34,17
+0022101205,2022-04-08,BKN,CLE,11.98,1,0,1,CLE,BKN,foul,2,False,False,Edwards S.FOUL (P1.T4) (B.Taylor),,34-17,34,17
+0022101205,2022-04-08,BKN,CLE,11.98,1,0,1,CLE,CLE,ft_make,11,False,False,,LeVert Free Throw 1 of 2 (4 PTS),34-18,34,18
+0022101205,2022-04-08,BKN,CLE,11.98,1,0,1,CLE,CLE,ft_make,12,False,False,,LeVert Free Throw 2 of 2 (5 PTS),34-19,34,19
+0022101205,2022-04-08,BKN,CLE,12.0,1,0,0,CLE,,period_end,0,False,False,,,34-19,34,19
+0022101205,2022-04-08,BKN,CLE,12.0,2,12,0,CLE,,period_start,0,False,False,,,34-19,34,19
+0022101205,2022-04-08,BKN,CLE,12.2,2,11,48,CLE,CLE,fg3_make,1,False,False,,Love 26' 3PT Jump Shot (3 PTS) (Rondo 3 AST),34-22,34,22
+0022101205,2022-04-08,BKN,CLE,12.48,2,11,31,BKN,BKN,fg_miss,101,False,False,MISS Claxton 8' Driving Floating Jump Shot,,34-22,34,22
+0022101205,2022-04-08,BKN,CLE,12.5,2,11,30,BKN,BKN,reb,0,False,False,NETS Rebound,,34-22,34,22
+0022101205,2022-04-08,BKN,CLE,12.62,2,11,23,BKN,BKN,fg_make,79,False,False,Irving 9' Pullup Jump Shot (4 PTS),,36-22,36,22
+0022101205,2022-04-08,BKN,CLE,12.83,2,11,10,CLE,CLE,fg3_miss,1,True,False,,MISS Love 26' 3PT Jump Shot,36-22,36,22
+0022101205,2022-04-08,BKN,CLE,12.83,2,11,10,CLE,BKN,block,1,True,False,block,block,36-22,36,22
+0022101205,2022-04-08,BKN,CLE,12.85,2,11,9,BKN,BKN,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,36-22,36,22
+0022101205,2022-04-08,BKN,CLE,12.85,2,11,9,BKN,CLE,foul,1,False,False,,Okoro P.FOUL (P2.T1) (E.Lewis),36-22,36,22
+0022101205,2022-04-08,BKN,CLE,13.07,2,10,56,BKN,CLE,foul,1,False,False,,Love P.FOUL (P1.T2) (B.Taylor),36-22,36,22
+0022101205,2022-04-08,BKN,CLE,13.33,2,10,40,BKN,BKN,fg3_miss,80,False,False,MISS Curry 26' 3PT Step Back Jump Shot,,36-22,36,22
+0022101205,2022-04-08,BKN,CLE,13.4,2,10,36,CLE,CLE,reb,0,False,False,,LeVert REBOUND (Off:0 Def:1),36-22,36,22
+0022101205,2022-04-08,BKN,CLE,13.45,2,10,33,CLE,BKN,foul,2,False,False,Claxton S.FOUL (P1.T1) (B.Taylor),,36-22,36,22
+0022101205,2022-04-08,BKN,CLE,13.45,2,10,33,CLE,CLE,ft_make,11,False,False,,LeVert Free Throw 1 of 2 (6 PTS),36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.45,2,10,33,CLE,CLE,ft_miss,12,False,False,,MISS LeVert Free Throw 2 of 2,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.48,2,10,31,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:3),,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.67,2,10,20,BKN,CLE,foul,1,False,False,,Osman P.FOUL (P1.T3) (S.Wall),36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.77,2,10,14,BKN,BKN,fg_miss,1,False,False,MISS Edwards 21' Jump Shot,,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.83,2,10,10,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:1 Def:1),,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.88,2,10,7,BKN,BKN,fg_miss,5,False,False,MISS Drummond 3' Layup,,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.93,2,10,4,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:3 Def:2),,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.95,2,10,3,BKN,BKN,tov,1,False,True,Brown Bad Pass Turnover (P1.T3),,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,13.95,2,10,3,BKN,CLE,steal,1,False,True,steal,steal,36-23,36,23
+0022101205,2022-04-08,BKN,CLE,14.03,2,9,58,CLE,CLE,fg_make,74,False,False,,Garland 3' Running Reverse Layup (8 PTS),36-25,36,25
+0022101205,2022-04-08,BKN,CLE,14.27,2,9,44,BKN,BKN,fg3_make,1,False,False,Edwards 25' 3PT Jump Shot (3 PTS) (Irving 4 AST),,39-25,39,25
+0022101205,2022-04-08,BKN,CLE,14.4,2,9,36,CLE,CLE,fg3_make,1,False,False,,Osman 3PT Jump Shot (3 PTS) (LeVert 1 AST),39-28,39,28
+0022101205,2022-04-08,BKN,CLE,14.63,2,9,22,BKN,BKN,fg_make,6,False,False,Irving 5' Driving Layup (6 PTS),,41-28,41,28
+0022101205,2022-04-08,BKN,CLE,15.05,2,8,57,CLE,CLE,fg_make,6,False,False,,Mobley 3' Driving Layup (4 PTS),41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.4,2,8,36,BKN,BKN,fg_miss,6,True,False,MISS Drummond 5' Driving Layup,,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.4,2,8,36,BKN,CLE,block,6,True,False,block,block,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.43,2,8,34,BKN,BKN,reb,0,False,False,NETS Rebound,,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.52,2,8,29,BKN,BKN,fg_miss,101,False,False,MISS Brown 6' Driving Floating Jump Shot,,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.55,2,8,27,CLE,CLE,reb,0,False,False,,LeVert REBOUND (Off:0 Def:2),41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.63,2,8,22,CLE,CLE,fg_miss,86,False,False,,MISS Garland 11' Turnaround Fadeaway Shot,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.67,2,8,20,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:1 Def:2),,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.85,2,8,9,BKN,BKN,fg_miss,101,False,False,MISS Irving 7' Driving Floating Jump Shot,,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.87,2,8,8,BKN,BKN,reb,0,False,False,NETS Rebound,,41-30,41,30
+0022101205,2022-04-08,BKN,CLE,15.95,2,8,3,BKN,BKN,fg_make,5,False,False,Drummond 4' Layup (2 PTS) (Brown 4 AST),,43-30,43,30
+0022101205,2022-04-08,BKN,CLE,15.95,2,8,3,BKN,CLE,foul,2,False,False,,Mobley S.FOUL (P1.T4) (E.Lewis),43-30,43,30
+0022101205,2022-04-08,BKN,CLE,15.95,2,8,3,BKN,BKN,ft_make,10,False,False,Drummond Free Throw 1 of 1 (3 PTS),,44-30,44,30
+0022101205,2022-04-08,BKN,CLE,16.27,2,7,44,CLE,CLE,fg_make,5,False,False,,Love 3' Layup (5 PTS),44-32,44,32
+0022101205,2022-04-08,BKN,CLE,16.6,2,7,24,BKN,CLE,violation,5,False,False,,Garland Violation:Kicked Ball (S.Wall),44-32,44,32
+0022101205,2022-04-08,BKN,CLE,16.82,2,7,11,BKN,BKN,fg3_miss,1,False,False,MISS Brown 25' 3PT Jump Shot,,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,16.85,2,7,9,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,16.85,2,7,9,CLE,BKN,foul,3,False,False,Drummond L.B.FOUL (P2.T2) (B.Taylor),,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,17.13,2,6,52,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 3PT Jump Shot,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,17.17,2,6,50,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:1 Def:3),,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,17.47,2,6,32,BKN,BKN,fg_miss,79,False,False,MISS Durant 13' Pullup Jump Shot,,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,17.53,2,6,28,BKN,BKN,reb,0,False,False,Curry REBOUND (Off:1 Def:1),,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,17.57,2,6,26,BKN,BKN,fg3_miss,79,False,False,MISS Curry 24' 3PT Pullup Jump Shot,,44-32,44,32
+0022101205,2022-04-08,BKN,CLE,17.63,2,6,22,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:0 Def:2),44-32,44,32
+0022101205,2022-04-08,BKN,CLE,17.72,2,6,17,CLE,CLE,fg_make,76,False,False,,Garland 4' Running Finger Roll Layup (10 PTS),44-34,44,34
+0022101205,2022-04-08,BKN,CLE,17.73,2,6,16,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,44-34,44,34
+0022101205,2022-04-08,BKN,CLE,18.05,2,5,57,BKN,BKN,fg3_miss,1,False,False,MISS Mills 26' 3PT Jump Shot,,44-34,44,34
+0022101205,2022-04-08,BKN,CLE,18.08,2,5,55,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:1),44-34,44,34
+0022101205,2022-04-08,BKN,CLE,18.25,2,5,45,CLE,CLE,fg_make,78,False,False,,Markkanen 6' Floating Jump Shot (6 PTS) (LeVert 2 AST),44-36,44,36
+0022101205,2022-04-08,BKN,CLE,18.58,2,5,25,BKN,BKN,fg_miss,86,False,False,MISS Durant 12' Turnaround Fadeaway Shot,,44-36,44,36
+0022101205,2022-04-08,BKN,CLE,18.62,2,5,23,BKN,BKN,reb,0,False,False,NETS Rebound,,44-36,44,36
+0022101205,2022-04-08,BKN,CLE,18.78,2,5,13,BKN,BKN,fg_miss,47,False,False,MISS Durant 15' Turnaround Jump Shot,,44-36,44,36
+0022101205,2022-04-08,BKN,CLE,18.83,2,5,10,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,44-36,44,36
+0022101205,2022-04-08,BKN,CLE,18.83,2,5,10,CLE,BKN,foul,3,False,False,Claxton L.B.FOUL (P2.T3) (B.Taylor),,44-36,44,36
+0022101205,2022-04-08,BKN,CLE,19.07,2,4,56,CLE,CLE,fg_miss,96,False,False,,MISS Markkanen 8' Turnaround Bank Hook Shot,44-36,44,36
+0022101205,2022-04-08,BKN,CLE,19.12,2,4,53,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:1 Def:2),44-36,44,36
+0022101205,2022-04-08,BKN,CLE,19.12,2,4,53,CLE,CLE,fg_make,107,False,False,,Mobley Tip Dunk Shot (6 PTS),44-38,44,38
+0022101205,2022-04-08,BKN,CLE,19.4,2,4,36,BKN,BKN,fg_miss,78,False,False,MISS Brown 5' Floating Jump Shot,,44-38,44,38
+0022101205,2022-04-08,BKN,CLE,19.47,2,4,32,,BKN,jump_ball,0,False,False,Jump Ball Brown vs. Mobley: Tip to Markkanen,,44-38,44,38
+0022101205,2022-04-08,BKN,CLE,19.47,2,4,32,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,44-38,44,38
+0022101205,2022-04-08,BKN,CLE,19.53,2,4,28,CLE,CLE,fg_miss,79,False,False,,MISS LeVert 7' Pullup Jump Shot,44-38,44,38
+0022101205,2022-04-08,BKN,CLE,19.57,2,4,26,BKN,BKN,reb,0,False,False,NETS Rebound,,44-38,44,38
+0022101205,2022-04-08,BKN,CLE,19.57,2,4,26,BKN,CLE,foul,3,False,False,,LeVert L.B.FOUL (P1.PN) (S.Wall),44-38,44,38
+0022101205,2022-04-08,BKN,CLE,19.57,2,4,26,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (17 PTS),,45-38,45,38
+0022101205,2022-04-08,BKN,CLE,19.57,2,4,26,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (18 PTS),,46-38,46,38
+0022101205,2022-04-08,BKN,CLE,19.83,2,4,10,CLE,CLE,fg_make,3,False,False,,Mobley 5' Hook Shot (8 PTS) (Garland 1 AST),46-40,46,40
+0022101205,2022-04-08,BKN,CLE,19.83,2,4,10,CLE,BKN,foul,2,False,False,Durant S.FOUL (P1.T4) (S.Wall),,46-40,46,40
+0022101205,2022-04-08,BKN,CLE,19.83,2,4,10,CLE,CLE,ft_miss,10,False,False,,MISS Mobley Free Throw 1 of 1,46-40,46,40
+0022101205,2022-04-08,BKN,CLE,19.87,2,4,8,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:4),,46-40,46,40
+0022101205,2022-04-08,BKN,CLE,20.02,2,3,59,BKN,CLE,foul,1,False,False,,Markkanen P.FOUL (P3.PN) (S.Wall),46-40,46,40
+0022101205,2022-04-08,BKN,CLE,20.02,2,3,59,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (19 PTS),,47-40,47,40
+0022101205,2022-04-08,BKN,CLE,20.02,2,3,59,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (20 PTS),,48-40,48,40
+0022101205,2022-04-08,BKN,CLE,20.15,2,3,51,CLE,BKN,foul,1,False,False,Claxton P.FOUL (P3.PN) (S.Wall),,48-40,48,40
+0022101205,2022-04-08,BKN,CLE,20.15,2,3,51,CLE,CLE,ft_make,11,False,False,,Mobley Free Throw 1 of 2 (9 PTS),48-41,48,41
+0022101205,2022-04-08,BKN,CLE,20.15,2,3,51,CLE,CLE,ft_make,12,False,False,,Mobley Free Throw 2 of 2 (10 PTS),48-42,48,42
+0022101205,2022-04-08,BKN,CLE,20.28,2,3,43,BKN,BKN,fg3_make,1,False,False,Irving 3PT Jump Shot (9 PTS) (Brown 5 AST),,51-42,51,42
+0022101205,2022-04-08,BKN,CLE,20.3,2,3,42,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.2 Short 0),51-42,51,42
+0022101205,2022-04-08,BKN,CLE,20.45,2,3,33,CLE,CLE,fg_make,98,False,False,,Osman 4' Cutting Layup Shot (5 PTS) (Mobley 1 AST),51-44,51,44
+0022101205,2022-04-08,BKN,CLE,20.9,2,3,6,BKN,BKN,fg_make,78,False,False,Brown 11' Floating Jump Shot (9 PTS) (Durant 3 AST),,53-44,53,44
+0022101205,2022-04-08,BKN,CLE,21.13,2,2,52,CLE,BKN,foul,2,False,False,Irving S.FOUL (P1.PN) (B.Taylor),,53-44,53,44
+0022101205,2022-04-08,BKN,CLE,21.13,2,2,52,CLE,CLE,ft_make,11,False,False,,LeVert Free Throw 1 of 2 (7 PTS),53-45,53,45
+0022101205,2022-04-08,BKN,CLE,21.13,2,2,52,CLE,CLE,ft_make,12,False,False,,LeVert Free Throw 2 of 2 (8 PTS),53-46,53,46
+0022101205,2022-04-08,BKN,CLE,21.3,2,2,42,BKN,BKN,tov,45,False,False,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,53-46,53,46
+0022101205,2022-04-08,BKN,CLE,21.45,2,2,33,CLE,CLE,fg_make,6,False,False,,LeVert 3' Driving Layup (10 PTS),53-48,53,48
+0022101205,2022-04-08,BKN,CLE,21.72,2,2,17,BKN,BKN,fg3_miss,1,False,False,MISS Irving 26' 3PT Jump Shot,,53-48,53,48
+0022101205,2022-04-08,BKN,CLE,21.77,2,2,14,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:1 Def:3),53-48,53,48
+0022101205,2022-04-08,BKN,CLE,22.05,2,1,57,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 3PT Jump Shot,53-48,53,48
+0022101205,2022-04-08,BKN,CLE,22.13,2,1,52,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:3 Def:3),,53-48,53,48
+0022101205,2022-04-08,BKN,CLE,22.32,2,1,41,BKN,BKN,fg3_miss,1,False,False,MISS Mills 25' 3PT Jump Shot,,53-48,53,48
+0022101205,2022-04-08,BKN,CLE,22.37,2,1,38,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:1 Def:1),,53-48,53,48
+0022101205,2022-04-08,BKN,CLE,22.37,2,1,38,BKN,BKN,fg_make,72,False,False,Edwards 4' Putback Layup (5 PTS),,55-48,55,48
+0022101205,2022-04-08,BKN,CLE,22.53,2,1,28,BKN,CLE,foul,4,False,False,,LeVert OFF.Foul (P2) (S.Wall),55-48,55,48
+0022101205,2022-04-08,BKN,CLE,22.53,2,1,28,CLE,CLE,tov,37,False,False,,LeVert Offensive Foul Turnover (P1.T5),55-48,55,48
+0022101205,2022-04-08,BKN,CLE,22.85,2,1,9,BKN,BKN,fg3_miss,79,False,False,MISS Irving 26' 3PT Pullup Jump Shot,,55-48,55,48
+0022101205,2022-04-08,BKN,CLE,22.92,2,1,5,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:2 Def:1),,55-48,55,48
+0022101205,2022-04-08,BKN,CLE,22.98,2,1,1,BKN,BKN,fg3_make,1,False,False,Mills 24' 3PT Jump Shot (3 PTS) (Durant 4 AST),,58-48,58,48
+0022101205,2022-04-08,BKN,CLE,23.23,2,0,46,CLE,CLE,fg3_make,80,False,False,,Garland 26' 3PT Step Back Jump Shot (13 PTS),58-51,58,51
+0022101205,2022-04-08,BKN,CLE,23.37,2,0,38,BKN,CLE,foul,2,False,False,,LeVert S.FOUL (P3.PN) (E.Lewis),58-51,58,51
+0022101205,2022-04-08,BKN,CLE,23.37,2,0,38,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (21 PTS),,59-51,59,51
+0022101205,2022-04-08,BKN,CLE,23.37,2,0,38,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (22 PTS),,60-51,60,51
+0022101205,2022-04-08,BKN,CLE,23.57,2,0,26,CLE,CLE,fg3_make,80,False,False,,Garland 24' 3PT Step Back Jump Shot (16 PTS),60-54,60,54
+0022101205,2022-04-08,BKN,CLE,23.9,2,0,6,BKN,BKN,fg_make,79,False,False,Irving 12' Pullup Jump Shot (11 PTS),,62-54,62,54
+0022101205,2022-04-08,BKN,CLE,23.98,2,0,1,CLE,CLE,fg_miss,6,True,False,,MISS Garland 8' Driving Layup,62-54,62,54
+0022101205,2022-04-08,BKN,CLE,23.98,2,0,1,CLE,BKN,block,6,True,False,block,block,62-54,62,54
+0022101205,2022-04-08,BKN,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,62-54,62,54
+0022101205,2022-04-08,BKN,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,62-54,62,54
+0022101205,2022-04-08,BKN,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,62-54,62,54
+0022101205,2022-04-08,BKN,CLE,24.13,3,11,52,CLE,CLE,fg_make,98,False,False,,Markkanen 3' Cutting Layup Shot (8 PTS) (Mobley 2 AST),62-56,62,56
+0022101205,2022-04-08,BKN,CLE,24.13,3,11,52,CLE,BKN,foul,2,False,False,Durant S.FOUL (P2.T1) (S.Wall),,62-56,62,56
+0022101205,2022-04-08,BKN,CLE,24.13,3,11,52,CLE,CLE,ft_make,10,False,False,,Markkanen Free Throw 1 of 1 (9 PTS),62-57,62,57
+0022101205,2022-04-08,BKN,CLE,24.33,3,11,40,BKN,BKN,fg_make,73,False,False,Durant 3' Driving Reverse Layup (24 PTS) (Brown 6 AST),,64-57,64,57
+0022101205,2022-04-08,BKN,CLE,24.6,3,11,24,CLE,CLE,fg3_miss,1,False,False,,MISS LeVert 26' 3PT Jump Shot,64-57,64,57
+0022101205,2022-04-08,BKN,CLE,24.65,3,11,21,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:1 Def:4),,64-57,64,57
+0022101205,2022-04-08,BKN,CLE,24.9,3,11,6,BKN,BKN,fg_make,5,False,False,Drummond 4' Layup (5 PTS) (Curry 2 AST),,66-57,66,57
+0022101205,2022-04-08,BKN,CLE,25.18,3,10,49,CLE,CLE,fg_miss,98,True,False,,MISS Markkanen 5' Cutting Layup Shot,66-57,66,57
+0022101205,2022-04-08,BKN,CLE,25.18,3,10,49,CLE,BKN,block,98,True,False,block,block,66-57,66,57
+0022101205,2022-04-08,BKN,CLE,25.2,3,10,48,BKN,BKN,reb,0,False,False,Curry REBOUND (Off:1 Def:2),,66-57,66,57
+0022101205,2022-04-08,BKN,CLE,25.3,3,10,42,BKN,BKN,fg_make,63,False,False,Irving 13' Fadeaway Jumper (13 PTS) (Curry 3 AST),,68-57,68,57
+0022101205,2022-04-08,BKN,CLE,25.6,3,10,24,CLE,CLE,fg3_make,1,False,False,,Markkanen 27' 3PT Jump Shot (12 PTS) (Mobley 3 AST),68-60,68,60
+0022101205,2022-04-08,BKN,CLE,25.88,3,10,7,BKN,BKN,tov,1,False,True,Durant Bad Pass Turnover (P1.T5),,68-60,68,60
+0022101205,2022-04-08,BKN,CLE,25.88,3,10,7,BKN,CLE,steal,1,False,True,steal,steal,68-60,68,60
+0022101205,2022-04-08,BKN,CLE,26.03,3,9,58,CLE,CLE,fg_miss,5,True,False,,MISS Mobley 5' Layup,68-60,68,60
+0022101205,2022-04-08,BKN,CLE,26.03,3,9,58,CLE,BKN,block,5,True,False,block,block,68-60,68,60
+0022101205,2022-04-08,BKN,CLE,26.08,3,9,55,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:3 Def:4),,68-60,68,60
+0022101205,2022-04-08,BKN,CLE,26.12,3,9,53,BKN,BKN,fg_make,41,False,False,Brown 5' Running Layup (11 PTS),,70-60,70,60
+0022101205,2022-04-08,BKN,CLE,26.17,3,9,50,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.3 Short 0),70-60,70,60
+0022101205,2022-04-08,BKN,CLE,26.35,3,9,39,CLE,CLE,fg_make,9,False,False,,LeVert 2' Driving Dunk (12 PTS),70-62,70,62
+0022101205,2022-04-08,BKN,CLE,26.65,3,9,21,BKN,BKN,tov,45,False,False,Durant Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,70-62,70,62
+0022101205,2022-04-08,BKN,CLE,26.87,3,9,8,CLE,BKN,foul,2,False,False,Drummond S.FOUL (P3.T2) (E.Lewis),,70-62,70,62
+0022101205,2022-04-08,BKN,CLE,26.87,3,9,8,CLE,CLE,ft_make,11,False,False,,Okoro Free Throw 1 of 2 (1 PTS),70-63,70,63
+0022101205,2022-04-08,BKN,CLE,26.87,3,9,8,CLE,CLE,ft_miss,12,False,False,,MISS Okoro Free Throw 2 of 2,70-63,70,63
+0022101205,2022-04-08,BKN,CLE,26.9,3,9,6,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:1),,70-63,70,63
+0022101205,2022-04-08,BKN,CLE,27.1,3,8,54,BKN,BKN,fg3_miss,1,False,False,MISS Irving 26' 3PT Jump Shot,,70-63,70,63
+0022101205,2022-04-08,BKN,CLE,27.18,3,8,49,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:1),,70-63,70,63
+0022101205,2022-04-08,BKN,CLE,27.18,3,8,49,BKN,BKN,tov,1,False,False,Durant Bad Pass Turnover (P3.T7),,70-63,70,63
+0022101205,2022-04-08,BKN,CLE,27.18,3,8,49,CLE,BKN,foul,3,False,False,Irving L.B.FOUL (P2.T3) (B.Taylor),,70-63,70,63
+0022101205,2022-04-08,BKN,CLE,27.42,3,8,35,CLE,CLE,fg_make,6,False,False,,Garland 4' Driving Layup (18 PTS),70-65,70,65
+0022101205,2022-04-08,BKN,CLE,27.62,3,8,23,BKN,BKN,fg3_miss,1,False,False,MISS Durant 25' 3PT Jump Shot,,70-65,70,65
+0022101205,2022-04-08,BKN,CLE,27.65,3,8,21,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:2 Def:4),,70-65,70,65
+0022101205,2022-04-08,BKN,CLE,27.68,3,8,19,BKN,BKN,fg_make,72,False,False,Drummond 3' Putback Layup (7 PTS),,72-65,72,65
+0022101205,2022-04-08,BKN,CLE,27.85,3,8,9,CLE,CLE,fg3_make,1,False,False,,Markkanen 26' 3PT Jump Shot (15 PTS) (LeVert 3 AST),72-68,72,68
+0022101205,2022-04-08,BKN,CLE,28.07,3,7,56,BKN,CLE,foul,2,False,False,,Markkanen S.FOUL (P4.T1) (S.Wall),72-68,72,68
+0022101205,2022-04-08,BKN,CLE,28.07,3,7,56,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (25 PTS),,73-68,73,68
+0022101205,2022-04-08,BKN,CLE,28.07,3,7,56,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (26 PTS),,74-68,74,68
+0022101205,2022-04-08,BKN,CLE,28.23,3,7,46,CLE,BKN,foul,2,False,False,Drummond S.FOUL (P4.T4) (S.Wall),,74-68,74,68
+0022101205,2022-04-08,BKN,CLE,28.23,3,7,46,CLE,CLE,ft_miss,11,False,False,,MISS Mobley Free Throw 1 of 2,74-68,74,68
+0022101205,2022-04-08,BKN,CLE,28.23,3,7,46,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,74-68,74,68
+0022101205,2022-04-08,BKN,CLE,28.23,3,7,46,CLE,CLE,ft_make,12,False,False,,Mobley Free Throw 2 of 2 (11 PTS),74-69,74,69
+0022101205,2022-04-08,BKN,CLE,28.53,3,7,28,BKN,BKN,fg_make,7,False,False,Claxton 4' Dunk (4 PTS) (Brown 7 AST),,76-69,76,69
+0022101205,2022-04-08,BKN,CLE,28.73,3,7,16,CLE,CLE,fg_make,73,False,False,,LeVert 2' Driving Reverse Layup (14 PTS),76-71,76,71
+0022101205,2022-04-08,BKN,CLE,29.0,3,7,0,BKN,BKN,fg3_miss,1,False,False,MISS Irving 3PT Jump Shot,,76-71,76,71
+0022101205,2022-04-08,BKN,CLE,29.03,3,6,58,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:4 Def:4),,76-71,76,71
+0022101205,2022-04-08,BKN,CLE,29.13,3,6,52,BKN,BKN,fg_miss,1,False,False,MISS Durant 16' Jump Shot,,76-71,76,71
+0022101205,2022-04-08,BKN,CLE,29.2,3,6,48,CLE,CLE,reb,0,False,False,,LeVert REBOUND (Off:0 Def:3),76-71,76,71
+0022101205,2022-04-08,BKN,CLE,29.3,3,6,42,CLE,BKN,foul,2,False,False,Brown S.FOUL (P2.PN) (B.Taylor),,76-71,76,71
+0022101205,2022-04-08,BKN,CLE,29.3,3,6,42,CLE,CLE,ft_make,11,False,False,,Garland Free Throw 1 of 2 (19 PTS),76-72,76,72
+0022101205,2022-04-08,BKN,CLE,29.3,3,6,42,CLE,CLE,ft_make,12,False,False,,Garland Free Throw 2 of 2 (20 PTS),76-73,76,73
+0022101205,2022-04-08,BKN,CLE,29.6,3,6,24,BKN,BKN,fg_make,1,False,False,Durant 14' Jump Shot (28 PTS) (Claxton 1 AST),,78-73,78,73
+0022101205,2022-04-08,BKN,CLE,29.8,3,6,12,CLE,CLE,fg_miss,73,False,False,,MISS Garland 6' Driving Reverse Layup,78-73,78,73
+0022101205,2022-04-08,BKN,CLE,29.82,3,6,11,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:2 Def:3),78-73,78,73
+0022101205,2022-04-08,BKN,CLE,29.82,3,6,11,CLE,BKN,foul,2,False,False,Irving S.FOUL (P3.PN) (E.Lewis),,78-73,78,73
+0022101205,2022-04-08,BKN,CLE,29.82,3,6,11,CLE,CLE,ft_make,11,False,False,,Mobley Free Throw 1 of 2 (12 PTS),78-74,78,74
+0022101205,2022-04-08,BKN,CLE,29.82,3,6,11,CLE,CLE,ft_make,12,False,False,,Mobley Free Throw 2 of 2 (13 PTS),78-75,78,75
+0022101205,2022-04-08,BKN,CLE,30.0,3,6,0,BKN,CLE,foul,17,False,False,,Cavaliers T.Foul (Def. 3 Sec Osman ) (E.Lewis),78-75,78,75
+0022101205,2022-04-08,BKN,CLE,30.0,3,6,0,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (14 PTS),,79-75,79,75
+0022101205,2022-04-08,BKN,CLE,30.17,3,5,50,BKN,BKN,fg_miss,63,False,False,MISS Irving 16' Fadeaway Jumper,,79-75,79,75
+0022101205,2022-04-08,BKN,CLE,30.17,3,5,50,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,79-75,79,75
+0022101205,2022-04-08,BKN,CLE,30.17,3,5,50,CLE,BKN,foul,3,False,False,Claxton L.B.FOUL (P4.PN) (E.Lewis),,79-75,79,75
+0022101205,2022-04-08,BKN,CLE,30.17,3,5,50,CLE,CLE,ft_make,11,False,False,,Osman Free Throw 1 of 2 (6 PTS),79-76,79,76
+0022101205,2022-04-08,BKN,CLE,30.17,3,5,50,CLE,CLE,ft_make,12,False,False,,Osman Free Throw 2 of 2 (7 PTS),79-77,79,77
+0022101205,2022-04-08,BKN,CLE,30.38,3,5,37,BKN,CLE,foul,1,False,False,,LeVert P.FOUL (P4.T2) (E.Lewis),79-77,79,77
+0022101205,2022-04-08,BKN,CLE,30.65,3,5,21,BKN,BKN,fg_make,79,False,False,Durant 16' Pullup Jump Shot (30 PTS) (Edwards 1 AST),,81-77,81,77
+0022101205,2022-04-08,BKN,CLE,30.92,3,5,5,CLE,CLE,fg3_make,80,False,False,,Garland 29' 3PT Step Back Jump Shot (23 PTS) (Osman 1 AST),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.17,3,4,50,BKN,BKN,fg_miss,1,False,False,MISS Edwards 23' Jump Shot,,81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.25,3,4,45,CLE,CLE,reb,0,False,False,,Stevens REBOUND (Off:0 Def:1),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.28,3,4,43,CLE,CLE,fg3_miss,79,False,False,,MISS Garland 30' 3PT Pullup Jump Shot,81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.33,3,4,40,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:3 Def:0),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.35,3,4,39,CLE,CLE,tov,40,False,False,,Love Out of Bounds Lost Ball Turnover (P2.T6),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.65,3,4,21,BKN,BKN,fg3_miss,1,False,False,MISS Edwards 24' 3PT Jump Shot,,81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.72,3,4,17,CLE,CLE,reb,0,False,False,,Stevens REBOUND (Off:0 Def:2),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.92,3,4,5,CLE,CLE,fg_miss,63,False,False,,MISS Garland 20' Fadeaway Jumper,81-80,81,80
+0022101205,2022-04-08,BKN,CLE,31.95,3,4,3,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:5),,81-80,81,80
+0022101205,2022-04-08,BKN,CLE,32.05,3,3,57,BKN,CLE,foul,1,False,False,,Garland P.FOUL (P1.T3) (B.Taylor),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,32.15,3,3,51,BKN,CLE,violation,5,False,False,,Osman Violation:Kicked Ball (B.Taylor),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,32.38,3,3,37,BKN,BKN,fg_miss,6,False,False,MISS Durant 3' Driving Layup,,81-80,81,80
+0022101205,2022-04-08,BKN,CLE,32.42,3,3,35,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:3 Def:1),81-80,81,80
+0022101205,2022-04-08,BKN,CLE,32.52,3,3,29,CLE,CLE,fg_make,6,False,False,,Okoro 4' Driving Layup (3 PTS) (Osman 2 AST),81-82,81,82
+0022101205,2022-04-08,BKN,CLE,32.53,3,3,28,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,81-82,81,82
+0022101205,2022-04-08,BKN,CLE,32.95,3,3,3,BKN,BKN,fg_miss,63,False,False,MISS Irving 11' Fadeaway Jumper,,81-82,81,82
+0022101205,2022-04-08,BKN,CLE,33.0,3,3,0,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:3 Def:2),81-82,81,82
+0022101205,2022-04-08,BKN,CLE,33.2,3,2,48,CLE,CLE,fg_make,3,False,False,,Love 4' Hook Shot (7 PTS) (Garland 2 AST),81-84,81,84
+0022101205,2022-04-08,BKN,CLE,33.35,3,2,39,BKN,BKN,fg_miss,79,False,False,MISS Irving 10' Pullup Jump Shot,,81-84,81,84
+0022101205,2022-04-08,BKN,CLE,33.38,3,2,37,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:3 Def:3),81-84,81,84
+0022101205,2022-04-08,BKN,CLE,33.43,3,2,34,CLE,BKN,foul,1,False,False,Irving P.FOUL (P4.PN) (S.Wall),,81-84,81,84
+0022101205,2022-04-08,BKN,CLE,33.43,3,2,34,CLE,CLE,ft_make,11,False,False,,Garland Free Throw 1 of 2 (24 PTS),81-85,81,85
+0022101205,2022-04-08,BKN,CLE,33.43,3,2,34,CLE,CLE,ft_make,12,False,False,,Garland Free Throw 2 of 2 (25 PTS),81-86,81,86
+0022101205,2022-04-08,BKN,CLE,33.63,3,2,22,BKN,BKN,fg_miss,63,False,False,MISS Durant 13' Fadeaway Jumper,,81-86,81,86
+0022101205,2022-04-08,BKN,CLE,33.68,3,2,19,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:3 Def:4),81-86,81,86
+0022101205,2022-04-08,BKN,CLE,33.78,3,2,13,CLE,CLE,fg_make,101,False,False,,Garland 10' Driving Floating Jump Shot (27 PTS),81-88,81,88
+0022101205,2022-04-08,BKN,CLE,34.03,3,1,58,BKN,CLE,violation,5,False,False,,Osman Violation:Kicked Ball (E.Lewis),81-88,81,88
+0022101205,2022-04-08,BKN,CLE,34.12,3,1,53,BKN,BKN,tov,39,False,False,Durant Step Out of Bounds Turnover (P4.T8),,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,34.47,3,1,32,CLE,CLE,fg_miss,5,True,False,,MISS Stevens 5' Layup,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,34.47,3,1,32,CLE,BKN,block,5,True,False,block,block,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,34.52,3,1,29,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:2),,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,34.65,3,1,21,BKN,BKN,fg3_miss,80,False,False,MISS Mills 24' 3PT Step Back Jump Shot,,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,34.7,3,1,18,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.02,3,0,59,CLE,CLE,fg_miss,6,True,False,,MISS Garland 4' Driving Layup,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.02,3,0,59,CLE,BKN,block,6,True,False,block,block,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.07,3,0,56,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:4 Def:4),81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.1,3,0,54,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 29' 3PT Jump Shot,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.13,3,0,52,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:4),,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.23,3,0,46,BKN,BKN,tov,40,False,False,Durant Out of Bounds Lost Ball Turnover (P5.T9),,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.43,3,0,34,CLE,CLE,fg3_miss,79,False,False,,MISS Garland 27' 3PT Pullup Jump Shot,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.47,3,0,32,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:3),,81-88,81,88
+0022101205,2022-04-08,BKN,CLE,35.55,3,0,27,BKN,BKN,fg_make,6,False,False,Brown 5' Driving Layup (13 PTS) (Durant 5 AST),,83-88,83,88
+0022101205,2022-04-08,BKN,CLE,36.0,3,0,0,CLE,CLE,fg3_miss,1,False,False,,MISS Stevens 24' 3PT Jump Shot,83-88,83,88
+0022101205,2022-04-08,BKN,CLE,36.0,3,0,0,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:5),,83-88,83,88
+0022101205,2022-04-08,BKN,CLE,36.0,3,0,0,BKN,,period_end,0,False,False,,,83-88,83,88
+0022101205,2022-04-08,BKN,CLE,36.0,4,12,0,BKN,,period_start,0,False,False,,,83-88,83,88
+0022101205,2022-04-08,BKN,CLE,36.28,4,11,43,BKN,BKN,fg_make,79,False,False,Curry 18' Pullup Jump Shot (9 PTS) (Irving 5 AST),,85-88,85,88
+0022101205,2022-04-08,BKN,CLE,36.52,4,11,29,CLE,CLE,fg3_miss,79,False,False,,MISS Love 26' 3PT Pullup Jump Shot,85-88,85,88
+0022101205,2022-04-08,BKN,CLE,36.57,4,11,26,CLE,CLE,reb,0,False,False,,Rondo REBOUND (Off:1 Def:0),85-88,85,88
+0022101205,2022-04-08,BKN,CLE,36.78,4,11,13,CLE,CLE,tov,11,False,False,,Cavaliers Turnover: Shot Clock (T#7),85-88,85,88
+0022101205,2022-04-08,BKN,CLE,36.92,4,11,5,BKN,CLE,foul,2,False,False,,LeVert S.FOUL (P5.T1) (B.Taylor),85-88,85,88
+0022101205,2022-04-08,BKN,CLE,36.92,4,11,5,BKN,BKN,ft_make,13,False,False,Mills Free Throw 1 of 3 (4 PTS),,86-88,86,88
+0022101205,2022-04-08,BKN,CLE,36.92,4,11,5,BKN,BKN,ft_miss,14,False,False,MISS Mills Free Throw 2 of 3,,86-88,86,88
+0022101205,2022-04-08,BKN,CLE,36.92,4,11,5,BKN,BKN,reb,1,False,False,NETS Rebound,,86-88,86,88
+0022101205,2022-04-08,BKN,CLE,36.92,4,11,5,BKN,BKN,ft_make,15,False,False,Mills Free Throw 3 of 3 (5 PTS),,87-88,87,88
+0022101205,2022-04-08,BKN,CLE,37.2,4,10,48,CLE,CLE,fg3_make,1,False,False,,Love 3PT Jump Shot (10 PTS) (Rondo 4 AST),87-91,87,91
+0022101205,2022-04-08,BKN,CLE,37.53,4,10,28,BKN,BKN,fg_miss,5,True,False,MISS Drummond 4' Layup,,87-91,87,91
+0022101205,2022-04-08,BKN,CLE,37.53,4,10,28,BKN,CLE,block,5,True,False,block,block,87-91,87,91
+0022101205,2022-04-08,BKN,CLE,37.53,4,10,28,BKN,BKN,reb,0,False,False,NETS Rebound,,87-91,87,91
+0022101205,2022-04-08,BKN,CLE,37.65,4,10,21,BKN,BKN,fg_make,108,False,False,Edwards 3' Cutting Dunk Shot (7 PTS) (Drummond 1 AST),,89-91,89,91
+0022101205,2022-04-08,BKN,CLE,37.82,4,10,11,CLE,CLE,fg3_miss,1,False,False,,MISS Love 25' 3PT Jump Shot,89-91,89,91
+0022101205,2022-04-08,BKN,CLE,37.85,4,10,9,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:2 Def:2),,89-91,89,91
+0022101205,2022-04-08,BKN,CLE,38.05,4,9,57,BKN,BKN,fg_miss,79,False,False,MISS Irving 15' Pullup Jump Shot,,89-91,89,91
+0022101205,2022-04-08,BKN,CLE,38.08,4,9,55,CLE,CLE,reb,0,False,False,,Rondo REBOUND (Off:1 Def:1),89-91,89,91
+0022101205,2022-04-08,BKN,CLE,38.13,4,9,52,CLE,CLE,fg_make,41,False,False,,Osman 2' Running Layup (9 PTS) (Rondo 5 AST),89-93,89,93
+0022101205,2022-04-08,BKN,CLE,38.42,4,9,35,BKN,BKN,fg_miss,108,True,False,MISS Edwards 3' Cutting Dunk Shot,,89-93,89,93
+0022101205,2022-04-08,BKN,CLE,38.42,4,9,35,BKN,CLE,block,108,True,False,block,block,89-93,89,93
+0022101205,2022-04-08,BKN,CLE,38.47,4,9,32,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:4 Def:5),89-93,89,93
+0022101205,2022-04-08,BKN,CLE,38.55,4,9,27,CLE,CLE,tov,1,False,True,,Rondo Bad Pass Turnover (P1.T8),89-93,89,93
+0022101205,2022-04-08,BKN,CLE,38.55,4,9,27,CLE,BKN,steal,1,False,True,steal,steal,89-93,89,93
+0022101205,2022-04-08,BKN,CLE,38.55,4,9,27,BKN,CLE,foul,28,False,False,,Rondo Personal Take Foul (P1.T2) (S.Wall),89-93,89,93
+0022101205,2022-04-08,BKN,CLE,38.73,4,9,16,BKN,BKN,fg3_make,1,False,False,Mills 24' 3PT Jump Shot (8 PTS) (Irving 6 AST),,92-93,92,93
+0022101205,2022-04-08,BKN,CLE,39.0,4,9,0,CLE,CLE,fg_miss,98,False,False,,MISS Love 5' Cutting Layup Shot,92-93,92,93
+0022101205,2022-04-08,BKN,CLE,39.03,4,8,58,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:3 Def:3),92-93,92,93
+0022101205,2022-04-08,BKN,CLE,39.03,4,8,58,CLE,CLE,fg_miss,97,False,False,,MISS Mobley Tip Layup Shot,92-93,92,93
+0022101205,2022-04-08,BKN,CLE,39.05,4,8,57,CLE,CLE,reb,0,False,False,,Mobley REBOUND (Off:4 Def:3),92-93,92,93
+0022101205,2022-04-08,BKN,CLE,39.07,4,8,56,CLE,CLE,fg_miss,97,False,False,,MISS Mobley Tip Layup Shot,92-93,92,93
+0022101205,2022-04-08,BKN,CLE,39.08,4,8,55,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:2 Def:5),,92-93,92,93
+0022101205,2022-04-08,BKN,CLE,39.13,4,8,52,BKN,BKN,fg3_make,79,False,False,Durant 25' 3PT Pullup Jump Shot (33 PTS) (Irving 7 AST),,95-93,95,93
+0022101205,2022-04-08,BKN,CLE,39.15,4,8,51,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.4 Short 0),95-93,95,93
+0022101205,2022-04-08,BKN,CLE,39.4,4,8,36,CLE,CLE,fg_miss,101,False,False,,MISS Garland 7' Driving Floating Jump Shot,95-93,95,93
+0022101205,2022-04-08,BKN,CLE,39.43,4,8,34,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:2 Def:6),,95-93,95,93
+0022101205,2022-04-08,BKN,CLE,39.77,4,8,14,BKN,BKN,fg_make,9,False,False,Drummond 4' Driving Dunk (9 PTS),,97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.0,4,8,0,CLE,CLE,fg3_miss,1,False,False,,MISS Okoro 24' 3PT Jump Shot,97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.03,4,7,58,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:4),,97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.27,4,7,44,BKN,BKN,fg_miss,78,False,False,MISS Edwards 6' Floating Jump Shot,,97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.3,4,7,42,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:2),97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.47,4,7,32,CLE,CLE,tov,2,False,True,,Garland Lost Ball Turnover (P2.T9),97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.47,4,7,32,CLE,BKN,steal,2,False,True,steal,steal,97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.52,4,7,29,BKN,CLE,foul,2,False,False,,Osman S.FOUL (P2.T3) (E.Lewis),97-93,97,93
+0022101205,2022-04-08,BKN,CLE,40.52,4,7,29,BKN,BKN,ft_make,11,False,False,Irving Free Throw 1 of 2 (15 PTS),,98-93,98,93
+0022101205,2022-04-08,BKN,CLE,40.52,4,7,29,BKN,BKN,ft_make,12,False,False,Irving Free Throw 2 of 2 (16 PTS),,99-93,99,93
+0022101205,2022-04-08,BKN,CLE,40.82,4,7,11,CLE,CLE,fg_make,78,False,False,,Garland 7' Floating Jump Shot (29 PTS),99-95,99,95
+0022101205,2022-04-08,BKN,CLE,41.02,4,6,59,BKN,BKN,tov,2,False,True,Irving Lost Ball Turnover (P2.T10),,99-95,99,95
+0022101205,2022-04-08,BKN,CLE,41.02,4,6,59,BKN,CLE,steal,2,False,True,steal,steal,99-95,99,95
+0022101205,2022-04-08,BKN,CLE,41.08,4,6,55,CLE,CLE,fg_make,50,False,False,,Markkanen 5' Running Dunk (17 PTS),99-97,99,97
+0022101205,2022-04-08,BKN,CLE,41.15,4,6,51,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,99-97,99,97
+0022101205,2022-04-08,BKN,CLE,41.48,4,6,31,BKN,BKN,fg3_make,1,False,False,Durant 25' 3PT Jump Shot (36 PTS) (Brown 8 AST),,102-97,102,97
+0022101205,2022-04-08,BKN,CLE,41.83,4,6,10,CLE,CLE,fg_miss,1,False,False,,MISS LeVert 8' Jump Shot,102-97,102,97
+0022101205,2022-04-08,BKN,CLE,41.87,4,6,8,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:2 Def:7),,102-97,102,97
+0022101205,2022-04-08,BKN,CLE,42.22,4,5,47,BKN,BKN,fg3_make,1,False,False,Brown 24' 3PT Jump Shot (16 PTS) (Drummond 2 AST),,105-97,105,97
+0022101205,2022-04-08,BKN,CLE,42.52,4,5,29,CLE,CLE,fg_miss,80,False,False,,MISS Markkanen 21' Step Back Jump Shot,105-97,105,97
+0022101205,2022-04-08,BKN,CLE,42.53,4,5,28,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:4 Def:5),,105-97,105,97
+0022101205,2022-04-08,BKN,CLE,42.77,4,5,14,BKN,BKN,fg3_miss,1,False,False,MISS Irving 25' 3PT Jump Shot,,105-97,105,97
+0022101205,2022-04-08,BKN,CLE,42.8,4,5,12,CLE,CLE,reb,0,False,False,,LeVert REBOUND (Off:0 Def:4),105-97,105,97
+0022101205,2022-04-08,BKN,CLE,42.8,4,5,12,CLE,BKN,foul,1,False,False,Brown P.FOUL (P3.T1) (B.Taylor),,105-97,105,97
+0022101205,2022-04-08,BKN,CLE,42.8,4,5,12,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.5 Short 0),105-97,105,97
+0022101205,2022-04-08,BKN,CLE,43.03,4,4,58,CLE,CLE,fg_miss,79,False,False,,MISS LeVert 10' Pullup Jump Shot,105-97,105,97
+0022101205,2022-04-08,BKN,CLE,43.08,4,4,55,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:4 Def:6),,105-97,105,97
+0022101205,2022-04-08,BKN,CLE,43.43,4,4,34,BKN,BKN,fg_make,101,False,False,Irving 5' Driving Floating Jump Shot (18 PTS),,107-97,107,97
+0022101205,2022-04-08,BKN,CLE,43.58,4,4,25,CLE,CLE,fg_make,52,False,False,,Mobley 4' Alley Oop Dunk (15 PTS) (Garland 3 AST),107-99,107,99
+0022101205,2022-04-08,BKN,CLE,43.83,4,4,10,BKN,BKN,fg_miss,6,False,False,MISS Irving 7' Driving Layup,,107-99,107,99
+0022101205,2022-04-08,BKN,CLE,43.88,4,4,7,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:3 Def:7),,107-99,107,99
+0022101205,2022-04-08,BKN,CLE,43.9,4,4,6,BKN,BKN,fg_make,72,False,False,Drummond 3' Putback Layup (11 PTS),,109-99,109,99
+0022101205,2022-04-08,BKN,CLE,44.03,4,3,58,CLE,CLE,fg_miss,6,True,False,,MISS Garland 7' Driving Layup,109-99,109,99
+0022101205,2022-04-08,BKN,CLE,44.03,4,3,58,CLE,BKN,block,6,True,False,block,block,109-99,109,99
+0022101205,2022-04-08,BKN,CLE,44.1,4,3,54,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:6),,109-99,109,99
+0022101205,2022-04-08,BKN,CLE,44.35,4,3,39,BKN,BKN,fg3_make,1,False,False,Curry 3PT Jump Shot (12 PTS) (Irving 8 AST),,112-99,112,99
+0022101205,2022-04-08,BKN,CLE,44.35,4,3,39,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.6 Short 0),112-99,112,99
+0022101205,2022-04-08,BKN,CLE,44.57,4,3,26,CLE,CLE,fg_make,7,False,False,,Mobley 5' Dunk (17 PTS) (LeVert 4 AST),112-101,112,101
+0022101205,2022-04-08,BKN,CLE,45.02,4,2,59,BKN,BKN,fg_make,7,False,False,Drummond 4' Dunk (13 PTS) (Curry 4 AST),,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.17,4,2,50,CLE,CLE,fg3_miss,1,False,False,,MISS Markkanen 26' 3PT Jump Shot,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.2,4,2,48,BKN,BKN,reb,0,False,False,NETS Rebound,,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.55,4,2,27,BKN,BKN,fg_miss,63,False,False,MISS Irving 17' Fadeaway Jumper,,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.62,4,2,23,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:4 Def:7),,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.65,4,2,21,BKN,BKN,fg3_miss,79,False,False,MISS Curry 28' 3PT Pullup Jump Shot,,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.68,4,2,19,BKN,BKN,reb,0,False,False,NETS Rebound,,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.78,4,2,13,BKN,BKN,fg3_miss,79,False,False,MISS Durant 26' 3PT Pullup Jump Shot,,114-101,114,101
+0022101205,2022-04-08,BKN,CLE,45.87,4,2,8,BKN,BKN,reb,0,False,False,Drummond REBOUND (Off:5 Def:7),,116-101,116,101
+0022101205,2022-04-08,BKN,CLE,45.87,4,2,8,BKN,BKN,fg_make,97,False,False,Drummond Tip Layup Shot (15 PTS),,116-101,116,101
+0022101205,2022-04-08,BKN,CLE,46.2,4,1,48,CLE,CLE,fg_make,101,False,False,,LeVert 7' Driving Floating Jump Shot (16 PTS),116-103,116,103
+0022101205,2022-04-08,BKN,CLE,46.43,4,1,34,BKN,CLE,foul,2,False,False,,Mobley S.FOUL (P2.T4) (B.Taylor),116-103,116,103
+0022101205,2022-04-08,BKN,CLE,46.43,4,1,34,BKN,BKN,ft_make,11,False,False,Brown Free Throw 1 of 2 (17 PTS),,117-103,117,103
+0022101205,2022-04-08,BKN,CLE,46.43,4,1,34,BKN,BKN,ft_make,12,False,False,Brown Free Throw 2 of 2 (18 PTS),,118-103,118,103
+0022101205,2022-04-08,BKN,CLE,46.6,4,1,24,CLE,CLE,fg_make,5,False,False,,Garland 4' Layup (31 PTS),118-105,118,105
+0022101205,2022-04-08,BKN,CLE,46.6,4,1,24,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 5 Short 0),,118-105,118,105
+0022101205,2022-04-08,BKN,CLE,46.98,4,1,1,BKN,BKN,fg3_miss,1,False,False,MISS Edwards 3PT Jump Shot,,118-105,118,105
+0022101205,2022-04-08,BKN,CLE,47.0,4,1,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,118-105,118,105
+0022101205,2022-04-08,BKN,CLE,47.35,4,0,39,CLE,CLE,fg_make,7,False,False,,Brown 5' Dunk (2 PTS) (Windler 1 AST),118-107,118,107
+0022101205,2022-04-08,BKN,CLE,47.75,4,0,15,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#11),,118-107,118,107
+0022101205,2022-04-08,BKN,CLE,48.0,4,0,0,BKN,,period_end,0,False,False,,,118-107,118,107

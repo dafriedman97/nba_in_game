@@ -1,0 +1,460 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100661,2022-01-17,ORL,POR,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100661,2022-01-17,ORL,POR,0.0,1,12,0,,ORL,jump_ball,0,False,False,Jump Ball Lopez vs. Nurkic: Tip to Anthony,,0-0,0,0
+0022100661,2022-01-17,ORL,POR,0.32,1,11,41,ORL,ORL,fg_make,58,False,False,Lopez 9' Turnaround Hook Shot (2 PTS),,2-0,2,0
+0022100661,2022-01-17,ORL,POR,0.63,1,11,22,POR,POR,fg3_miss,1,False,False,,MISS McCollum 27' 3PT Jump Shot,2-0,2,0
+0022100661,2022-01-17,ORL,POR,0.68,1,11,19,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:1),,2-0,2,0
+0022100661,2022-01-17,ORL,POR,0.88,1,11,7,POR,POR,reb,0,False,False,,Trail Blazers Rebound,2-0,2,0
+0022100661,2022-01-17,ORL,POR,0.88,1,11,7,ORL,POR,block,101,True,False,block,block,2-0,2,0
+0022100661,2022-01-17,ORL,POR,0.88,1,11,7,ORL,ORL,fg_miss,101,True,False,MISS Wagner 6' Driving Floating Jump Shot,,2-0,2,0
+0022100661,2022-01-17,ORL,POR,1.2,1,10,48,POR,POR,fg_make,6,False,False,,Nurkic 3' Driving Layup (2 PTS) (McCollum 1 AST),2-2,2,2
+0022100661,2022-01-17,ORL,POR,1.5,1,10,30,ORL,ORL,fg3_miss,1,False,False,MISS Anthony 25' 3PT Jump Shot,,2-2,2,2
+0022100661,2022-01-17,ORL,POR,1.55,1,10,27,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:0 Def:1),2-2,2,2
+0022100661,2022-01-17,ORL,POR,1.68,1,10,19,POR,POR,fg3_miss,1,False,False,,MISS Simons 25' 3PT Jump Shot,2-2,2,2
+0022100661,2022-01-17,ORL,POR,1.73,1,10,16,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:1),,2-2,2,2
+0022100661,2022-01-17,ORL,POR,1.8,1,10,12,ORL,ORL,fg3_miss,103,False,False,MISS Wagner 24' 3PT Running Pull-Up Jump Shot,,2-2,2,2
+0022100661,2022-01-17,ORL,POR,1.87,1,10,8,POR,POR,reb,0,False,False,,Covington REBOUND (Off:0 Def:1),2-2,2,2
+0022100661,2022-01-17,ORL,POR,2.07,1,9,56,POR,POR,fg_make,79,False,False,,McCollum 14' Pullup Jump Shot (2 PTS),2-4,2,4
+0022100661,2022-01-17,ORL,POR,2.37,1,9,38,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 24' 3PT Jump Shot,,2-4,2,4
+0022100661,2022-01-17,ORL,POR,2.43,1,9,34,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:1),2-4,2,4
+0022100661,2022-01-17,ORL,POR,2.67,1,9,20,POR,POR,fg3_miss,1,False,False,,MISS Little 24' 3PT Jump Shot,2-4,2,4
+0022100661,2022-01-17,ORL,POR,2.72,1,9,17,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:2),,2-4,2,4
+0022100661,2022-01-17,ORL,POR,2.82,1,9,11,ORL,ORL,tov,1,False,True,Wagner Bad Pass Turnover (P1.T1),,2-4,2,4
+0022100661,2022-01-17,ORL,POR,2.82,1,9,11,ORL,POR,steal,1,False,True,steal,steal,2-4,2,4
+0022100661,2022-01-17,ORL,POR,3.03,1,8,58,POR,POR,fg3_make,1,False,False,,McCollum 3PT Jump Shot (5 PTS) (Little 1 AST),2-7,2,7
+0022100661,2022-01-17,ORL,POR,3.33,1,8,40,ORL,POR,foul,17,False,False,,Trail Blazers T.Foul (Def. 3 Sec Little ) (R.Acosta),2-7,2,7
+0022100661,2022-01-17,ORL,POR,3.33,1,8,40,ORL,ORL,ft_miss,16,False,False,MISS Anthony Free Throw Technical,,2-7,2,7
+0022100661,2022-01-17,ORL,POR,3.33,1,8,40,ORL,ORL,reb,1,False,False,MAGIC Rebound,,2-7,2,7
+0022100661,2022-01-17,ORL,POR,3.5,1,8,30,ORL,ORL,fg_make,44,False,False,Harris 2' Reverse Layup (2 PTS) (Wagner 1 AST),,4-7,4,7
+0022100661,2022-01-17,ORL,POR,3.67,1,8,20,POR,POR,tov,1,False,True,,Nurkic Bad Pass Turnover (P1.T1),4-7,4,7
+0022100661,2022-01-17,ORL,POR,3.67,1,8,20,POR,ORL,steal,1,False,True,steal,steal,4-7,4,7
+0022100661,2022-01-17,ORL,POR,3.78,1,8,13,ORL,POR,block,1,True,False,block,block,4-7,4,7
+0022100661,2022-01-17,ORL,POR,3.78,1,8,13,ORL,ORL,reb,0,False,False,MAGIC Rebound,,4-7,4,7
+0022100661,2022-01-17,ORL,POR,3.78,1,8,13,ORL,ORL,fg3_miss,1,True,False,MISS Anthony 3PT Jump Shot,,4-7,4,7
+0022100661,2022-01-17,ORL,POR,4.0,1,8,0,ORL,ORL,fg_miss,58,False,False,MISS Lopez 9' Turnaround Hook Shot,,4-7,4,7
+0022100661,2022-01-17,ORL,POR,4.05,1,7,57,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:1 Def:1),,4-7,4,7
+0022100661,2022-01-17,ORL,POR,4.07,1,7,56,ORL,POR,steal,2,False,True,steal,steal,4-7,4,7
+0022100661,2022-01-17,ORL,POR,4.07,1,7,56,ORL,ORL,tov,2,False,True,Anthony Lost Ball Turnover (P1.T2),,4-7,4,7
+0022100661,2022-01-17,ORL,POR,4.22,1,7,47,POR,POR,fg_make,57,False,False,,Nurkic 9' Driving Hook Shot (4 PTS),4-9,4,9
+0022100661,2022-01-17,ORL,POR,4.32,1,7,41,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,4-9,4,9
+0022100661,2022-01-17,ORL,POR,4.45,1,7,33,ORL,ORL,fg_miss,1,False,False,MISS Harris 15' Jump Shot,,4-9,4,9
+0022100661,2022-01-17,ORL,POR,4.52,1,7,29,POR,POR,reb,0,False,False,,Little REBOUND (Off:0 Def:1),4-9,4,9
+0022100661,2022-01-17,ORL,POR,4.63,1,7,22,POR,POR,tov,37,False,False,,Nurkic Offensive Foul Turnover (P2.T2),4-9,4,9
+0022100661,2022-01-17,ORL,POR,4.63,1,7,22,ORL,POR,foul,4,False,False,,Nurkic OFF.Foul (P1) (Z.Zarba),4-9,4,9
+0022100661,2022-01-17,ORL,POR,4.92,1,7,5,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 25' 3PT Jump Shot,,4-9,4,9
+0022100661,2022-01-17,ORL,POR,4.95,1,7,3,POR,POR,reb,0,False,False,,Little REBOUND (Off:0 Def:2),4-9,4,9
+0022100661,2022-01-17,ORL,POR,5.07,1,6,56,POR,POR,fg_make,99,False,False,,Nurkic 4' Cutting Finger Roll Layup Shot (6 PTS) (McCollum 2 AST),4-11,4,11
+0022100661,2022-01-17,ORL,POR,5.33,1,6,40,ORL,ORL,fg_make,108,False,False,Wagner 2' Cutting Dunk Shot (2 PTS) (Anthony 1 AST),,6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.68,1,6,19,POR,POR,fg_miss,57,False,False,,MISS Little 3' Driving Hook Shot,6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.77,1,6,14,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:1),,6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.87,1,6,8,ORL,POR,block,5,True,False,block,block,6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.87,1,6,8,ORL,ORL,fg_miss,5,True,False,MISS Anthony 5' Layup,,6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.9,1,6,6,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:0 Def:2),6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.9,1,6,6,ORL,POR,block,5,True,False,block,block,6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.9,1,6,6,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:2 Def:1),,6-11,6,11
+0022100661,2022-01-17,ORL,POR,5.9,1,6,6,ORL,ORL,fg_miss,5,True,False,MISS Wagner 4' Layup,,6-11,6,11
+0022100661,2022-01-17,ORL,POR,6.02,1,5,59,POR,POR,fg_miss,80,False,False,,MISS McCollum 16' Step Back Jump Shot,6-11,6,11
+0022100661,2022-01-17,ORL,POR,6.08,1,5,55,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,6-11,6,11
+0022100661,2022-01-17,ORL,POR,6.15,1,5,51,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 3PT Jump Shot,,6-11,6,11
+0022100661,2022-01-17,ORL,POR,6.22,1,5,47,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:0 Def:3),6-11,6,11
+0022100661,2022-01-17,ORL,POR,6.58,1,5,25,POR,POR,fg_make,6,False,False,,Simons 4' Driving Layup (2 PTS),6-13,6,13
+0022100661,2022-01-17,ORL,POR,6.78,1,5,13,ORL,ORL,tov,39,False,False,Harris Step Out of Bounds Turnover (P1.T3),,6-13,6,13
+0022100661,2022-01-17,ORL,POR,6.92,1,5,5,POR,POR,fg3_make,1,False,False,,McLemore 27' 3PT Jump Shot (3 PTS) (Nurkic 1 AST),6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.12,1,4,53,ORL,ORL,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.18,1,4,49,ORL,ORL,reb,0,False,False,MAGIC Rebound,,6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.3,1,4,42,ORL,ORL,fg_miss,101,False,False,MISS Anthony 10' Driving Floating Jump Shot,,6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.37,1,4,38,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:0 Def:4),6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.55,1,4,27,POR,POR,fg_miss,6,False,False,,MISS Nurkic 3' Driving Layup,6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.58,1,4,25,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:1),,6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.72,1,4,17,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 3PT Jump Shot,,6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.75,1,4,15,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.75,1,4,15,ORL,POR,foul,2,False,False,,Snell S.FOUL (P1.T1) (R.Hussey),6-16,6,16
+0022100661,2022-01-17,ORL,POR,7.75,1,4,15,ORL,ORL,ft_miss,12,False,False,MISS Harris Free Throw 2 of 2,,7-16,7,16
+0022100661,2022-01-17,ORL,POR,7.75,1,4,15,ORL,ORL,ft_make,11,False,False,Harris Free Throw 1 of 2 (3 PTS),,7-16,7,16
+0022100661,2022-01-17,ORL,POR,7.8,1,4,12,POR,POR,reb,0,False,False,,Covington REBOUND (Off:0 Def:2),7-16,7,16
+0022100661,2022-01-17,ORL,POR,8.08,1,3,55,POR,POR,fg_make,98,False,False,,Watford 4' Cutting Layup Shot (2 PTS) (Covington 1 AST),7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.25,1,3,45,ORL,ORL,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.3,1,3,42,POR,POR,reb,0,False,False,,McLemore REBOUND (Off:0 Def:1),7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.38,1,3,37,POR,ORL,steal,1,False,True,steal,steal,7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.38,1,3,37,POR,POR,tov,1,False,True,,McLemore Bad Pass Turnover (P1.T3),7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.45,1,3,33,ORL,ORL,fg3_miss,2,False,False,MISS Harris 3PT Running Jump Shot,,7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.5,1,3,30,POR,POR,reb,0,False,False,,Watford REBOUND (Off:0 Def:1),7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.67,1,3,20,POR,POR,fg_miss,101,False,False,,MISS Simons 13' Driving Floating Jump Shot,7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.73,1,3,16,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:2),7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.77,1,3,14,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:2),,7-18,7,18
+0022100661,2022-01-17,ORL,POR,8.77,1,3,14,POR,POR,fg3_miss,1,False,False,,MISS McLemore 26' 3PT Jump Shot,7-18,7,18
+0022100661,2022-01-17,ORL,POR,9.0,1,3,0,ORL,ORL,fg_miss,75,False,False,MISS Harris 4' Driving Finger Roll Layup,,7-18,7,18
+0022100661,2022-01-17,ORL,POR,9.1,1,2,54,ORL,ORL,fg_make,97,False,False,Harris Tip Layup Shot (5 PTS),,9-18,9,18
+0022100661,2022-01-17,ORL,POR,9.1,1,2,54,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:2 Def:1),,9-18,9,18
+0022100661,2022-01-17,ORL,POR,9.3,1,2,42,POR,POR,fg_miss,1,False,False,,MISS McLemore 23' Jump Shot,9-18,9,18
+0022100661,2022-01-17,ORL,POR,9.35,1,2,39,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:3),,9-18,9,18
+0022100661,2022-01-17,ORL,POR,9.42,1,2,35,ORL,ORL,fg_make,75,False,False,Suggs 3' Driving Finger Roll Layup (2 PTS),,11-18,11,18
+0022100661,2022-01-17,ORL,POR,9.67,1,2,20,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.1 Short 0),11-18,11,18
+0022100661,2022-01-17,ORL,POR,9.67,1,2,20,POR,POR,tov,40,False,False,,Simons Out of Bounds Lost Ball Turnover (P1.T4),11-18,11,18
+0022100661,2022-01-17,ORL,POR,10.03,1,1,58,ORL,ORL,fg_miss,63,False,False,MISS Okeke 14' Fadeaway Jumper,,11-18,11,18
+0022100661,2022-01-17,ORL,POR,10.1,1,1,54,POR,POR,reb,0,False,False,,Smith Jr. REBOUND (Off:0 Def:1),11-18,11,18
+0022100661,2022-01-17,ORL,POR,10.23,1,1,46,POR,POR,ft_make,11,False,False,,Watford Free Throw 1 of 2 (3 PTS),11-19,11,19
+0022100661,2022-01-17,ORL,POR,10.23,1,1,46,POR,POR,ft_make,12,False,False,,Watford Free Throw 2 of 2 (4 PTS),11-20,11,20
+0022100661,2022-01-17,ORL,POR,10.23,1,1,46,POR,ORL,foul,2,False,False,Suggs S.FOUL (P1.T1) (R.Hussey),,11-18,11,18
+0022100661,2022-01-17,ORL,POR,10.48,1,1,31,ORL,ORL,fg_make,71,False,False,Bamba 3' Finger Roll Layup (2 PTS) (Ross 1 AST),,13-20,13,20
+0022100661,2022-01-17,ORL,POR,10.85,1,1,9,POR,ORL,steal,1,False,True,steal,steal,13-20,13,20
+0022100661,2022-01-17,ORL,POR,10.85,1,1,9,POR,POR,tov,1,False,True,,McCollum Bad Pass Turnover (P1.T5),13-20,13,20
+0022100661,2022-01-17,ORL,POR,11.12,1,0,53,ORL,ORL,ft_make,12,False,False,Wagner Free Throw 2 of 2 (2 PTS),,15-20,15,20
+0022100661,2022-01-17,ORL,POR,11.12,1,0,53,ORL,ORL,ft_make,11,False,False,Wagner Free Throw 1 of 2 (1 PTS),,14-20,14,20
+0022100661,2022-01-17,ORL,POR,11.12,1,0,53,ORL,POR,foul,2,False,False,,Little S.FOUL (P1.T2) (R.Acosta),13-20,13,20
+0022100661,2022-01-17,ORL,POR,11.32,1,0,41,POR,POR,fg_miss,79,False,False,,MISS McCollum 17' Pullup Jump Shot,15-20,15,20
+0022100661,2022-01-17,ORL,POR,11.37,1,0,38,ORL,ORL,tov,40,False,False,Bamba Out of Bounds Lost Ball Turnover (P1.T4),,15-20,15,20
+0022100661,2022-01-17,ORL,POR,11.37,1,0,38,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:4),,15-20,15,20
+0022100661,2022-01-17,ORL,POR,11.5,1,0,30,POR,ORL,block,6,True,False,block,block,15-20,15,20
+0022100661,2022-01-17,ORL,POR,11.5,1,0,30,POR,POR,fg_miss,6,True,False,,MISS Smith Jr. 3' Driving Layup,15-20,15,20
+0022100661,2022-01-17,ORL,POR,11.53,1,0,28,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:1),,15-20,15,20
+0022100661,2022-01-17,ORL,POR,11.58,1,0,25,ORL,ORL,fg_make,41,False,False,Suggs 3' Running Layup (4 PTS),,17-20,17,20
+0022100661,2022-01-17,ORL,POR,11.97,1,0,2,POR,POR,fg_make,6,False,False,,Little 2' Driving Layup (2 PTS) (Smith Jr. 1 AST),17-22,17,22
+0022100661,2022-01-17,ORL,POR,12.0,2,12,0,ORL,,period_start,0,False,False,,,17-22,17,22
+0022100661,2022-01-17,ORL,POR,12.0,1,0,0,ORL,,period_end,0,False,False,,,17-22,17,22
+0022100661,2022-01-17,ORL,POR,12.0,1,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,17-22,17,22
+0022100661,2022-01-17,ORL,POR,12.0,1,0,0,ORL,ORL,fg3_miss,1,False,False,MISS Suggs 46' 3PT Jump Shot,,17-22,17,22
+0022100661,2022-01-17,ORL,POR,12.3,2,11,42,POR,POR,fg_make,98,False,False,,Smith Jr. 4' Cutting Layup Shot (2 PTS) (Little 2 AST),17-24,17,24
+0022100661,2022-01-17,ORL,POR,12.5,2,11,30,ORL,ORL,fg3_make,1,False,False,Wagner 25' 3PT Jump Shot (5 PTS) (Suggs 1 AST),,20-24,20,24
+0022100661,2022-01-17,ORL,POR,12.75,2,11,15,POR,POR,fg_miss,101,False,False,,MISS Watford 10' Driving Floating Jump Shot,20-24,20,24
+0022100661,2022-01-17,ORL,POR,12.8,2,11,12,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:1),,20-24,20,24
+0022100661,2022-01-17,ORL,POR,13.05,2,10,57,ORL,ORL,fg_miss,79,False,False,MISS Hampton 11' Pullup Jump Shot,,20-24,20,24
+0022100661,2022-01-17,ORL,POR,13.1,2,10,54,POR,POR,reb,0,False,False,,Watford REBOUND (Off:0 Def:2),20-24,20,24
+0022100661,2022-01-17,ORL,POR,13.35,2,10,39,POR,POR,fg_make,98,False,False,,Smith Jr. 4' Cutting Layup Shot (4 PTS) (McLemore 1 AST),20-26,20,26
+0022100661,2022-01-17,ORL,POR,13.62,2,10,23,ORL,POR,foul,1,False,False,,Smith Jr. P.FOUL (P1.T1) (R.Hussey),20-26,20,26
+0022100661,2022-01-17,ORL,POR,13.72,2,10,17,ORL,ORL,fg_make,98,False,False,Wagner 3' Cutting Layup Shot (7 PTS) (Ross 2 AST),,22-26,22,26
+0022100661,2022-01-17,ORL,POR,13.95,2,10,3,POR,POR,fg_make,78,False,False,,McCollum 10' Floating Jump Shot (7 PTS) (Smith Jr. 2 AST),22-28,22,28
+0022100661,2022-01-17,ORL,POR,14.17,2,9,50,ORL,ORL,reb,1,False,False,MAGIC Rebound,,22-28,22,28
+0022100661,2022-01-17,ORL,POR,14.17,2,9,50,ORL,POR,foul,2,False,False,,McLemore S.FOUL (P1.T2) (Z.Zarba),22-28,22,28
+0022100661,2022-01-17,ORL,POR,14.17,2,9,50,ORL,ORL,ft_make,12,False,False,Ross Free Throw 2 of 2 (1 PTS),,23-28,23,28
+0022100661,2022-01-17,ORL,POR,14.17,2,9,50,ORL,ORL,ft_miss,11,False,False,MISS Ross Free Throw 1 of 2,,22-28,22,28
+0022100661,2022-01-17,ORL,POR,14.5,2,9,30,POR,POR,fg_miss,3,False,False,,MISS Smith Jr. 4' Hook Shot,23-28,23,28
+0022100661,2022-01-17,ORL,POR,14.55,2,9,27,POR,POR,reb,0,False,False,,Watford REBOUND (Off:1 Def:2),23-28,23,28
+0022100661,2022-01-17,ORL,POR,14.57,2,9,26,POR,POR,fg_make,72,False,False,,Watford 4' Putback Layup (6 PTS),23-30,23,30
+0022100661,2022-01-17,ORL,POR,14.67,2,9,20,ORL,ORL,fg3_make,1,False,False,Wagner 25' 3PT Jump Shot (10 PTS) (Suggs 2 AST),,26-30,26,30
+0022100661,2022-01-17,ORL,POR,14.95,2,9,3,POR,ORL,steal,1,False,True,steal,steal,26-30,26,30
+0022100661,2022-01-17,ORL,POR,14.95,2,9,3,POR,POR,tov,1,False,True,,Simons Bad Pass Turnover (P2.T6),26-30,26,30
+0022100661,2022-01-17,ORL,POR,15.0,2,9,0,ORL,ORL,fg_make,41,False,False,Suggs 2' Running Layup (6 PTS),,28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.0,2,9,0,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.25,2,8,45,POR,POR,fg3_miss,1,False,False,,MISS Covington 26' 3PT Jump Shot,28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.3,2,8,42,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:1),,28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.42,2,8,35,ORL,POR,block,98,True,False,block,block,28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.42,2,8,35,ORL,ORL,fg_miss,98,True,False,MISS Wagner 2' Cutting Layup Shot,,28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.42,2,8,35,ORL,ORL,reb,0,False,False,MAGIC Rebound,,28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.48,2,8,31,ORL,POR,foul,1,False,False,,Snell P.FOUL (P2.T3) (R.Hussey),28-30,28,30
+0022100661,2022-01-17,ORL,POR,15.67,2,8,20,ORL,ORL,fg_make,98,False,False,Suggs 2' Cutting Layup Shot (8 PTS) (Wagner 2 AST),,30-30,30,30
+0022100661,2022-01-17,ORL,POR,15.83,2,8,10,POR,ORL,violation,5,False,False,Ross Violation:Kicked Ball (Z.Zarba),,30-30,30,30
+0022100661,2022-01-17,ORL,POR,15.93,2,8,4,POR,POR,fg3_miss,79,False,False,,MISS Simons 26' 3PT Pullup Jump Shot,30-30,30,30
+0022100661,2022-01-17,ORL,POR,16.0,2,8,0,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:2),,30-30,30,30
+0022100661,2022-01-17,ORL,POR,16.2,2,7,48,ORL,ORL,fg_miss,6,False,False,MISS Wagner 7' Driving Layup,,30-30,30,30
+0022100661,2022-01-17,ORL,POR,16.25,2,7,45,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:0 Def:5),30-30,30,30
+0022100661,2022-01-17,ORL,POR,16.43,2,7,34,POR,POR,fg_make,6,False,False,,Nurkic 6' Driving Layup (8 PTS),30-32,30,32
+0022100661,2022-01-17,ORL,POR,16.75,2,7,15,ORL,ORL,fg_miss,101,False,False,MISS Hampton 3' Driving Floating Jump Shot,,30-32,30,32
+0022100661,2022-01-17,ORL,POR,16.8,2,7,12,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:3),30-32,30,32
+0022100661,2022-01-17,ORL,POR,16.83,2,7,10,POR,POR,tov,2,False,True,,Covington Lost Ball Turnover (P1.T7),30-32,30,32
+0022100661,2022-01-17,ORL,POR,16.83,2,7,10,POR,ORL,steal,2,False,True,steal,steal,30-32,30,32
+0022100661,2022-01-17,ORL,POR,16.97,2,7,2,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 25' 3PT Jump Shot,,30-32,30,32
+0022100661,2022-01-17,ORL,POR,17.02,2,6,59,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:4),30-32,30,32
+0022100661,2022-01-17,ORL,POR,17.18,2,6,49,POR,POR,fg_make,6,False,False,,Nurkic 6' Driving Layup (10 PTS),30-34,30,34
+0022100661,2022-01-17,ORL,POR,17.18,2,6,49,POR,ORL,foul,2,False,False,Wagner S.FOUL (P1.T1) (Z.Zarba),,30-34,30,34
+0022100661,2022-01-17,ORL,POR,17.18,2,6,49,POR,POR,ft_miss,10,False,False,,MISS Nurkic Free Throw 1 of 1,30-34,30,34
+0022100661,2022-01-17,ORL,POR,17.23,2,6,46,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:5),,30-34,30,34
+0022100661,2022-01-17,ORL,POR,17.35,2,6,39,ORL,POR,foul,2,False,False,,Simons S.FOUL (P1.T4) (Z.Zarba),30-34,30,34
+0022100661,2022-01-17,ORL,POR,17.35,2,6,39,ORL,ORL,ft_make,11,False,False,Anthony Free Throw 1 of 2 (1 PTS),,31-34,31,34
+0022100661,2022-01-17,ORL,POR,17.35,2,6,39,ORL,ORL,ft_make,12,False,False,Anthony Free Throw 2 of 2 (2 PTS),,32-34,32,34
+0022100661,2022-01-17,ORL,POR,17.62,2,6,23,POR,POR,fg_miss,3,False,False,,MISS Nurkic 8' Hook Shot,32-34,32,34
+0022100661,2022-01-17,ORL,POR,17.65,2,6,21,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:1 Def:5),32-34,32,34
+0022100661,2022-01-17,ORL,POR,17.67,2,6,20,POR,POR,fg_miss,72,True,False,,MISS Nurkic 4' Putback Layup,32-34,32,34
+0022100661,2022-01-17,ORL,POR,17.67,2,6,20,POR,ORL,block,72,True,False,block,block,32-34,32,34
+0022100661,2022-01-17,ORL,POR,17.73,2,6,16,POR,POR,fg_make,72,False,False,,Nurkic 3' Putback Layup (12 PTS),32-36,32,36
+0022100661,2022-01-17,ORL,POR,17.73,2,6,16,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:2 Def:5),32-34,32,34
+0022100661,2022-01-17,ORL,POR,17.85,2,6,9,ORL,ORL,fg3_make,1,False,False,Bamba 25' 3PT Jump Shot (5 PTS) (Anthony 2 AST),,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.18,2,5,49,POR,POR,fg_miss,6,False,False,,MISS Nurkic 4' Driving Layup,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.22,2,5,47,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:6),,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.38,2,5,37,ORL,POR,steal,1,False,True,steal,steal,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.38,2,5,37,ORL,ORL,tov,1,False,True,Wagner Bad Pass Turnover (P2.T5),,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.4,2,5,36,POR,POR,tov,45,False,False,,Covington Out of Bounds - Bad Pass Turnover Turnover (P2.T8),35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.62,2,5,23,ORL,ORL,fg_miss,101,False,False,MISS Wagner 11' Driving Floating Jump Shot,,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.67,2,5,20,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:2 Def:6),35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.73,2,5,16,POR,ORL,steal,2,False,True,steal,steal,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.73,2,5,16,POR,POR,tov,2,False,True,,Nurkic Lost Ball Turnover (P3.T9),35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.8,2,5,12,ORL,POR,steal,1,False,True,steal,steal,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.8,2,5,12,ORL,ORL,tov,1,False,True,Anthony Bad Pass Turnover (P2.T6),,35-36,35,36
+0022100661,2022-01-17,ORL,POR,18.87,2,5,8,POR,POR,fg_make,101,False,False,,Covington 3' Driving Floating Jump Shot (2 PTS),35-38,35,38
+0022100661,2022-01-17,ORL,POR,19.17,2,4,50,ORL,POR,foul,1,False,False,,Nurkic P.FOUL (P2.PN) (R.Hussey),35-38,35,38
+0022100661,2022-01-17,ORL,POR,19.17,2,4,50,ORL,ORL,ft_miss,11,False,False,MISS Lopez Free Throw 1 of 2,,35-38,35,38
+0022100661,2022-01-17,ORL,POR,19.17,2,4,50,ORL,ORL,reb,1,False,False,MAGIC Rebound,,35-38,35,38
+0022100661,2022-01-17,ORL,POR,19.17,2,4,50,ORL,ORL,ft_make,12,False,False,Lopez Free Throw 2 of 2 (3 PTS),,36-38,36,38
+0022100661,2022-01-17,ORL,POR,19.45,2,4,33,POR,POR,fg3_miss,79,False,False,,MISS Simons 26' 3PT Pullup Jump Shot,36-38,36,38
+0022100661,2022-01-17,ORL,POR,19.5,2,4,30,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:2 Def:2),,36-38,36,38
+0022100661,2022-01-17,ORL,POR,19.62,2,4,23,ORL,ORL,fg_make,102,False,False,Wagner 6' Driving Floating Bank Jump Shot (4 PTS) (Anthony 3 AST),,38-38,38,38
+0022100661,2022-01-17,ORL,POR,19.85,2,4,9,POR,POR,ft_make,10,False,False,,Nurkic Free Throw 1 of 1 (15 PTS),38-41,38,41
+0022100661,2022-01-17,ORL,POR,19.85,2,4,9,POR,POR,fg_make,99,False,False,,Nurkic 4' Cutting Finger Roll Layup Shot (14 PTS) (Simons 1 AST),38-40,38,40
+0022100661,2022-01-17,ORL,POR,19.85,2,4,9,POR,ORL,foul,2,False,False,Lopez S.FOUL (P1.T2) (R.Hussey),,38-40,38,40
+0022100661,2022-01-17,ORL,POR,20.03,2,3,58,ORL,ORL,tov,4,False,False,Lopez Traveling Turnover (P1.T7),,38-41,38,41
+0022100661,2022-01-17,ORL,POR,20.22,2,3,47,POR,POR,ft_make,11,False,False,,Little Free Throw 1 of 2 (3 PTS),38-42,38,42
+0022100661,2022-01-17,ORL,POR,20.22,2,3,47,POR,ORL,foul,2,False,False,Bamba S.FOUL (P1.T3) (R.Acosta),,38-41,38,41
+0022100661,2022-01-17,ORL,POR,20.22,2,3,47,POR,POR,ft_make,12,False,False,,Little Free Throw 2 of 2 (4 PTS),38-43,38,43
+0022100661,2022-01-17,ORL,POR,20.33,2,3,40,POR,ORL,foul,4,False,False,Lopez OFF.Foul (P2) (R.Hussey),,38-43,38,43
+0022100661,2022-01-17,ORL,POR,20.33,2,3,40,ORL,ORL,tov,37,False,False,Lopez Offensive Foul Turnover (P2.T8),,38-43,38,43
+0022100661,2022-01-17,ORL,POR,20.6,2,3,24,POR,POR,fg3_miss,1,False,False,,MISS McLemore 3PT Jump Shot,38-43,38,43
+0022100661,2022-01-17,ORL,POR,20.67,2,3,20,POR,POR,reb,0,False,False,,Little REBOUND (Off:1 Def:2),38-43,38,43
+0022100661,2022-01-17,ORL,POR,20.78,2,3,13,POR,POR,fg3_miss,1,False,False,,MISS Simons 27' 3PT Jump Shot,38-43,38,43
+0022100661,2022-01-17,ORL,POR,20.83,2,3,10,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:7),,38-43,38,43
+0022100661,2022-01-17,ORL,POR,21.03,2,2,58,ORL,ORL,fg_miss,101,False,False,MISS Anthony 13' Driving Floating Jump Shot,,38-43,38,43
+0022100661,2022-01-17,ORL,POR,21.08,2,2,55,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:5),38-43,38,43
+0022100661,2022-01-17,ORL,POR,21.13,2,2,52,POR,ORL,block,6,True,False,block,block,38-43,38,43
+0022100661,2022-01-17,ORL,POR,21.13,2,2,52,POR,POR,fg_miss,6,True,False,,MISS Covington 5' Driving Layup,38-43,38,43
+0022100661,2022-01-17,ORL,POR,21.22,2,2,47,POR,POR,fg_make,72,False,False,,Little 4' Putback Layup (6 PTS),38-45,38,45
+0022100661,2022-01-17,ORL,POR,21.22,2,2,47,POR,POR,reb,0,False,False,,Little REBOUND (Off:2 Def:2),38-43,38,43
+0022100661,2022-01-17,ORL,POR,21.43,2,2,34,ORL,ORL,fg_miss,101,False,False,MISS Okeke 6' Driving Floating Jump Shot,,38-45,38,45
+0022100661,2022-01-17,ORL,POR,21.5,2,2,30,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:2 Def:7),38-45,38,45
+0022100661,2022-01-17,ORL,POR,21.57,2,2,26,POR,POR,fg3_miss,1,False,False,,MISS McLemore 24' 3PT Jump Shot,38-45,38,45
+0022100661,2022-01-17,ORL,POR,21.62,2,2,23,POR,POR,reb,0,False,False,,Little REBOUND (Off:3 Def:2),38-45,38,45
+0022100661,2022-01-17,ORL,POR,21.65,2,2,21,POR,POR,fg3_make,1,False,False,,Covington 25' 3PT Jump Shot (5 PTS) (Little 3 AST),38-48,38,48
+0022100661,2022-01-17,ORL,POR,21.67,2,2,20,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,38-48,38,48
+0022100661,2022-01-17,ORL,POR,21.88,2,2,7,ORL,ORL,fg_miss,47,False,False,MISS Bamba 16' Turnaround Jump Shot,,38-48,38,48
+0022100661,2022-01-17,ORL,POR,21.93,2,2,4,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:6),38-48,38,48
+0022100661,2022-01-17,ORL,POR,22.13,2,1,52,POR,POR,fg3_miss,1,False,False,,MISS Covington 26' 3PT Jump Shot,38-48,38,48
+0022100661,2022-01-17,ORL,POR,22.2,2,1,48,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:7),38-48,38,48
+0022100661,2022-01-17,ORL,POR,22.28,2,1,43,POR,POR,fg_make,98,False,False,,Little 4' Cutting Layup Shot (8 PTS) (Covington 2 AST),38-50,38,50
+0022100661,2022-01-17,ORL,POR,22.62,2,1,23,ORL,ORL,fg_make,105,False,False,Anthony 14' Turnaround Fadeaway Bank Jump Shot (4 PTS),,40-50,40,50
+0022100661,2022-01-17,ORL,POR,22.88,2,1,7,POR,POR,fg3_miss,1,False,False,,MISS Nurkic 26' 3PT Jump Shot,40-50,40,50
+0022100661,2022-01-17,ORL,POR,22.93,2,1,4,POR,POR,reb,0,False,False,,Little REBOUND (Off:4 Def:2),40-50,40,50
+0022100661,2022-01-17,ORL,POR,23.0,2,1,0,POR,POR,tov,40,False,False,,Nurkic Out of Bounds Lost Ball Turnover (P4.T10),40-50,40,50
+0022100661,2022-01-17,ORL,POR,23.2,2,0,48,POR,ORL,foul,26,False,False,Harris Offensive Charge Foul (P1) (Z.Zarba),,40-50,40,50
+0022100661,2022-01-17,ORL,POR,23.2,2,0,48,ORL,ORL,tov,37,False,False,Harris Offensive Foul Turnover (P2.T9),,40-50,40,50
+0022100661,2022-01-17,ORL,POR,23.2,2,0,48,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,40-50,40,50
+0022100661,2022-01-17,ORL,POR,23.4,2,0,36,POR,ORL,foul,2,False,False,Lopez S.FOUL (P3.T4) (Z.Zarba),,40-50,40,50
+0022100661,2022-01-17,ORL,POR,23.4,2,0,36,POR,POR,ft_make,11,False,False,,Simons Free Throw 1 of 2 (3 PTS),40-51,40,51
+0022100661,2022-01-17,ORL,POR,23.4,2,0,36,POR,POR,ft_make,12,False,False,,Simons Free Throw 2 of 2 (4 PTS),40-52,40,52
+0022100661,2022-01-17,ORL,POR,23.58,2,0,25,ORL,ORL,fg3_miss,1,False,False,MISS Anthony 26' 3PT Jump Shot,,40-52,40,52
+0022100661,2022-01-17,ORL,POR,23.63,2,0,22,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:1),40-52,40,52
+0022100661,2022-01-17,ORL,POR,23.87,2,0,8,POR,POR,fg_make,86,False,False,,McCollum 12' Turnaround Fadeaway (9 PTS),40-54,40,54
+0022100661,2022-01-17,ORL,POR,23.87,2,0,8,ORL,ORL,tov,45,False,False,Bamba Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,40-54,40,54
+0022100661,2022-01-17,ORL,POR,23.93,2,0,4,POR,POR,tov,39,False,False,,McCollum Step Out of Bounds Turnover (P2.T11),40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.0,2,0,0,ORL,ORL,fg_miss,41,False,False,MISS Anthony 2' Running Layup,,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.0,2,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.0,3,12,0,ORL,,period_start,0,False,False,,,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.0,2,0,0,ORL,,period_end,0,False,False,,,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.32,3,11,41,POR,POR,fg_miss,80,False,False,,MISS McCollum 22' Step Back Jump Shot,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.33,3,11,40,POR,POR,reb,0,False,False,,Trail Blazers Rebound,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.33,3,11,40,POR,ORL,foul,3,False,False,Harris L.B.FOUL (P2.T1) (Z.Zarba),,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.47,3,11,32,POR,POR,fg_miss,79,False,False,,MISS Simons 16' Pullup Jump Shot,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.53,3,11,28,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:2 Def:3),,40-54,40,54
+0022100661,2022-01-17,ORL,POR,24.72,3,11,17,ORL,ORL,fg3_make,1,False,False,Okeke 27' 3PT Jump Shot (3 PTS) (Anthony 4 AST),,43-54,43,54
+0022100661,2022-01-17,ORL,POR,25.15,3,10,51,POR,POR,fg_miss,79,False,False,,MISS Little 13' Pullup Jump Shot,43-54,43,54
+0022100661,2022-01-17,ORL,POR,25.2,3,10,48,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:2 Def:4),,43-54,43,54
+0022100661,2022-01-17,ORL,POR,25.27,3,10,44,ORL,ORL,fg_make,76,False,False,Wagner 3' Running Finger Roll Layup (6 PTS) (Anthony 5 AST),,45-54,45,54
+0022100661,2022-01-17,ORL,POR,25.53,3,10,28,POR,POR,fg_make,101,False,False,,Simons 11' Driving Floating Jump Shot (6 PTS),45-56,45,56
+0022100661,2022-01-17,ORL,POR,25.88,3,10,7,ORL,ORL,fg_miss,6,False,False,MISS Okeke 4' Driving Layup,,45-56,45,56
+0022100661,2022-01-17,ORL,POR,25.92,3,10,5,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:8),45-56,45,56
+0022100661,2022-01-17,ORL,POR,26.08,3,9,55,POR,POR,reb,0,False,False,,Trail Blazers Rebound,45-56,45,56
+0022100661,2022-01-17,ORL,POR,26.08,3,9,55,POR,POR,fg_miss,98,False,False,,MISS Little 2' Cutting Layup Shot,45-56,45,56
+0022100661,2022-01-17,ORL,POR,26.27,3,9,44,POR,POR,fg_make,75,False,False,,Nurkic 3' Driving Finger Roll Layup (17 PTS),45-58,45,58
+0022100661,2022-01-17,ORL,POR,26.65,3,9,21,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 24' 3PT Jump Shot,,45-58,45,58
+0022100661,2022-01-17,ORL,POR,26.68,3,9,19,POR,POR,reb,0,False,False,,Little REBOUND (Off:4 Def:3),45-58,45,58
+0022100661,2022-01-17,ORL,POR,26.8,3,9,12,POR,ORL,steal,1,False,True,steal,steal,45-58,45,58
+0022100661,2022-01-17,ORL,POR,26.8,3,9,12,POR,POR,tov,1,False,True,,McCollum Bad Pass Turnover (P3.T12),45-58,45,58
+0022100661,2022-01-17,ORL,POR,26.93,3,9,4,ORL,ORL,fg_make,6,False,False,Wagner 3' Driving Layup (8 PTS),,47-58,47,58
+0022100661,2022-01-17,ORL,POR,27.25,3,8,45,POR,ORL,foul,1,False,False,Lopez P.FOUL (P4.T2) (Z.Zarba),,47-58,47,58
+0022100661,2022-01-17,ORL,POR,27.37,3,8,38,POR,POR,fg_miss,101,False,False,,MISS Covington 13' Driving Floating Jump Shot,47-58,47,58
+0022100661,2022-01-17,ORL,POR,27.42,3,8,35,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:2),,47-58,47,58
+0022100661,2022-01-17,ORL,POR,27.5,3,8,30,ORL,POR,foul,1,False,False,,Covington P.FOUL (P1.T1) (R.Acosta),47-58,47,58
+0022100661,2022-01-17,ORL,POR,27.62,3,8,23,ORL,ORL,fg_miss,6,False,False,MISS Harris 3' Driving Layup,,47-58,47,58
+0022100661,2022-01-17,ORL,POR,27.72,3,8,17,ORL,ORL,fg_make,97,False,False,Lopez Tip Layup Shot (5 PTS),,49-58,49,58
+0022100661,2022-01-17,ORL,POR,27.72,3,8,17,ORL,ORL,reb,0,False,False,Lopez REBOUND (Off:1 Def:0),,47-58,47,58
+0022100661,2022-01-17,ORL,POR,27.92,3,8,5,POR,ORL,foul,2,False,False,Wagner S.FOUL (P1.T3) (R.Acosta),,49-60,49,60
+0022100661,2022-01-17,ORL,POR,27.92,3,8,5,POR,POR,ft_make,10,False,False,,Little Free Throw 1 of 1 (11 PTS),49-61,49,61
+0022100661,2022-01-17,ORL,POR,27.92,3,8,5,POR,POR,fg_make,98,False,False,,Little 2' Cutting Layup Shot (10 PTS),49-60,49,60
+0022100661,2022-01-17,ORL,POR,28.1,3,7,54,ORL,ORL,tov,1,False,True,Anthony Bad Pass Turnover (P3.T11),,49-61,49,61
+0022100661,2022-01-17,ORL,POR,28.1,3,7,54,ORL,POR,steal,1,False,True,steal,steal,49-61,49,61
+0022100661,2022-01-17,ORL,POR,28.15,3,7,51,POR,POR,ft_make,11,False,False,,Little Free Throw 1 of 2 (12 PTS),49-62,49,62
+0022100661,2022-01-17,ORL,POR,28.15,3,7,51,POR,POR,ft_make,12,False,False,,Little Free Throw 2 of 2 (13 PTS),49-63,49,63
+0022100661,2022-01-17,ORL,POR,28.15,3,7,51,POR,ORL,foul,2,False,False,Anthony S.FOUL (P1.T4) (R.Hussey),,49-61,49,61
+0022100661,2022-01-17,ORL,POR,28.35,3,7,39,ORL,ORL,fg_make,73,False,False,Wagner 3' Driving Reverse Layup (10 PTS) (Lopez 1 AST),,51-63,51,63
+0022100661,2022-01-17,ORL,POR,28.68,3,7,19,POR,POR,fg_miss,57,False,False,,MISS Nurkic 2' Driving Hook Shot,51-63,51,63
+0022100661,2022-01-17,ORL,POR,28.73,3,7,16,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:2 Def:5),,51-63,51,63
+0022100661,2022-01-17,ORL,POR,28.83,3,7,10,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 26' 3PT Jump Shot,,51-63,51,63
+0022100661,2022-01-17,ORL,POR,28.92,3,7,5,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:2),51-63,51,63
+0022100661,2022-01-17,ORL,POR,29.03,3,6,58,POR,POR,fg3_miss,79,False,False,,MISS Simons 25' 3PT Pullup Jump Shot,51-63,51,63
+0022100661,2022-01-17,ORL,POR,29.07,3,6,56,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:3),,51-63,51,63
+0022100661,2022-01-17,ORL,POR,29.25,3,6,45,ORL,ORL,fg_miss,3,False,False,MISS Lopez 6' Hook Shot,,51-63,51,63
+0022100661,2022-01-17,ORL,POR,29.27,3,6,44,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:9),51-63,51,63
+0022100661,2022-01-17,ORL,POR,29.27,3,6,44,POR,ORL,foul,11,False,False,Lopez T.FOUL (P4.T4) (R.Hussey),,51-63,51,63
+0022100661,2022-01-17,ORL,POR,29.27,3,6,44,POR,POR,ft_make,16,False,False,,Simons Free Throw Technical (7 PTS),51-64,51,64
+0022100661,2022-01-17,ORL,POR,29.27,3,6,44,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,51-64,51,64
+0022100661,2022-01-17,ORL,POR,29.43,3,6,34,POR,POR,ft_make,12,False,False,,McLemore Free Throw 2 of 2 (5 PTS),51-66,51,66
+0022100661,2022-01-17,ORL,POR,29.43,3,6,34,POR,POR,ft_make,11,False,False,,McLemore Free Throw 1 of 2 (4 PTS),51-65,51,65
+0022100661,2022-01-17,ORL,POR,29.43,3,6,34,POR,ORL,foul,1,False,False,Anthony P.FOUL (P2.PN) (R.Acosta),,51-64,51,64
+0022100661,2022-01-17,ORL,POR,29.63,3,6,22,ORL,POR,violation,5,False,False,,McLemore Violation:Kicked Ball (R.Hussey),51-66,51,66
+0022100661,2022-01-17,ORL,POR,29.8,3,6,12,ORL,ORL,fg_miss,98,False,False,MISS Bamba 3' Cutting Layup Shot,,51-66,51,66
+0022100661,2022-01-17,ORL,POR,29.83,3,6,10,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:10),51-66,51,66
+0022100661,2022-01-17,ORL,POR,29.95,3,6,3,POR,POR,fg_make,102,False,False,,Simons 3' Driving Floating Bank Jump Shot (9 PTS),51-68,51,68
+0022100661,2022-01-17,ORL,POR,30.22,3,5,47,ORL,POR,steal,1,False,True,steal,steal,51-68,51,68
+0022100661,2022-01-17,ORL,POR,30.22,3,5,47,ORL,ORL,tov,1,False,True,Wagner Bad Pass Turnover (P3.T12),,51-68,51,68
+0022100661,2022-01-17,ORL,POR,30.3,3,5,42,POR,POR,fg3_make,2,False,False,,McLemore 3PT Running Jump Shot (8 PTS) (Simons 2 AST),51-71,51,71
+0022100661,2022-01-17,ORL,POR,30.32,3,5,41,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 5 Short 0),,51-71,51,71
+0022100661,2022-01-17,ORL,POR,30.73,3,5,16,ORL,ORL,fg_miss,101,False,False,MISS Ross 16' Driving Floating Jump Shot,,51-71,51,71
+0022100661,2022-01-17,ORL,POR,30.78,3,5,13,POR,POR,reb,0,False,False,,Little REBOUND (Off:4 Def:4),51-71,51,71
+0022100661,2022-01-17,ORL,POR,30.85,3,5,9,POR,POR,fg3_make,1,False,False,,McLemore 3PT Jump Shot (11 PTS) (Simons 3 AST),51-74,51,74
+0022100661,2022-01-17,ORL,POR,31.18,3,4,49,ORL,ORL,fg_make,58,False,False,Wagner 5' Turnaround Hook Shot (12 PTS),,53-74,53,74
+0022100661,2022-01-17,ORL,POR,31.48,3,4,31,POR,POR,fg3_miss,1,False,False,,MISS McLemore 27' 3PT Jump Shot,53-74,53,74
+0022100661,2022-01-17,ORL,POR,31.55,3,4,27,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:2),,53-74,53,74
+0022100661,2022-01-17,ORL,POR,31.68,3,4,19,ORL,ORL,fg_make,79,False,False,Hampton 17' Pullup Jump Shot (2 PTS) (Bamba 1 AST),,55-74,55,74
+0022100661,2022-01-17,ORL,POR,31.95,3,4,3,POR,ORL,block,1,True,False,block,block,55-74,55,74
+0022100661,2022-01-17,ORL,POR,31.95,3,4,3,POR,POR,fg3_miss,1,True,False,,MISS McLemore 25' 3PT Jump Shot,55-74,55,74
+0022100661,2022-01-17,ORL,POR,32.02,3,3,59,ORL,POR,steal,1,False,True,steal,steal,55-74,55,74
+0022100661,2022-01-17,ORL,POR,32.02,3,3,59,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:3),,55-74,55,74
+0022100661,2022-01-17,ORL,POR,32.02,3,3,59,ORL,ORL,tov,1,False,True,Suggs Bad Pass Turnover (P1.T13),,55-74,55,74
+0022100661,2022-01-17,ORL,POR,32.3,3,3,42,POR,POR,fg3_make,1,False,False,,McLemore 3PT Jump Shot (14 PTS) (Little 4 AST),55-77,55,77
+0022100661,2022-01-17,ORL,POR,32.5,3,3,30,ORL,ORL,ft_make,12,False,False,Hampton Free Throw 2 of 2 (3 PTS),,56-77,56,77
+0022100661,2022-01-17,ORL,POR,32.5,3,3,30,ORL,ORL,reb,1,False,False,MAGIC Rebound,,55-77,55,77
+0022100661,2022-01-17,ORL,POR,32.5,3,3,30,ORL,ORL,ft_miss,11,False,False,MISS Hampton Free Throw 1 of 2,,55-77,55,77
+0022100661,2022-01-17,ORL,POR,32.5,3,3,30,ORL,POR,foul,2,False,False,,Covington S.FOUL (P2.T2) (R.Acosta),55-77,55,77
+0022100661,2022-01-17,ORL,POR,32.72,3,3,17,POR,POR,fg_miss,6,False,False,,MISS Nurkic 2' Driving Layup,56-77,56,77
+0022100661,2022-01-17,ORL,POR,32.72,3,3,17,ORL,ORL,reb,0,False,False,MAGIC Rebound,,56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.0,3,3,0,ORL,ORL,fg_miss,101,False,False,MISS Hampton 9' Driving Floating Jump Shot,,56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.05,3,2,57,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:7),56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.15,3,2,51,POR,POR,fg3_miss,79,False,False,,MISS Covington 27' 3PT Pullup Jump Shot,56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.23,3,2,46,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:4),,56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.5,3,2,30,ORL,ORL,fg3_miss,1,False,False,MISS Suggs 26' 3PT Jump Shot,,56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.58,3,2,25,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:8),56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.68,3,2,19,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.88,3,2,7,POR,POR,fg3_miss,1,False,False,,MISS McLemore 24' 3PT Jump Shot,56-77,56,77
+0022100661,2022-01-17,ORL,POR,33.93,3,2,4,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:3),,56-77,56,77
+0022100661,2022-01-17,ORL,POR,34.2,3,1,48,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:9),56-77,56,77
+0022100661,2022-01-17,ORL,POR,34.2,3,1,48,ORL,POR,block,101,True,False,block,block,56-77,56,77
+0022100661,2022-01-17,ORL,POR,34.2,3,1,48,ORL,ORL,fg_miss,101,True,False,MISS Ross 9' Driving Floating Jump Shot,,56-77,56,77
+0022100661,2022-01-17,ORL,POR,34.47,3,1,32,POR,POR,fg_make,5,False,False,,Watford 5' Layup (8 PTS),56-79,56,79
+0022100661,2022-01-17,ORL,POR,34.72,3,1,17,ORL,POR,steal,2,False,True,steal,steal,56-79,56,79
+0022100661,2022-01-17,ORL,POR,34.72,3,1,17,ORL,ORL,tov,2,False,True,Suggs Lost Ball Turnover (P2.T14),,56-79,56,79
+0022100661,2022-01-17,ORL,POR,34.88,3,1,7,POR,ORL,block,6,True,False,block,block,56-79,56,79
+0022100661,2022-01-17,ORL,POR,34.88,3,1,7,POR,POR,fg_miss,6,True,False,,MISS Smith Jr. 3' Driving Layup,56-79,56,79
+0022100661,2022-01-17,ORL,POR,34.88,3,1,7,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:2),,56-79,56,79
+0022100661,2022-01-17,ORL,POR,34.88,3,1,7,ORL,POR,foul,28,False,False,,McLemore Personal Take Foul (P2.T3) (Z.Zarba),56-79,56,79
+0022100661,2022-01-17,ORL,POR,35.08,3,0,55,ORL,ORL,fg3_make,63,False,False,Ross 25' 3PT Fadeaway Jumper (4 PTS) (Wagner 1 AST),,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.4,3,0,36,POR,POR,fg_miss,80,False,False,,MISS Blevins 15' Step Back Jump Shot,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.45,3,0,33,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:8),,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.55,3,0,27,ORL,ORL,fg_miss,101,False,False,MISS Suggs 6' Driving Floating Jump Shot,,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,POR,POR,reb,0,False,False,,Snell REBOUND (Off:0 Def:1),59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:1 Def:4),,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,ORL,ORL,fg_miss,72,False,False,MISS Suggs 4' Putback Layup,,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,ORL,POR,foul,4,False,False,,Smith Jr. OFF.Foul (P2) (Z.Zarba),59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,POR,POR,tov,37,False,False,,Smith Jr. Offensive Foul Turnover (P1.T13),59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,POR,ORL,foul,14,False,False,Suggs FLAGRANT.FOUL.TYPE1 (P2.PN) (Z.Zarba),,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,ORL,ORL,tov,0,False,False,Suggs No Turnover (P3.T15),,59-79,59,79
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,ORL,POR,ft_make,18,False,False,,Smith Jr. Free Throw Flagrant 1 of 2 (5 PTS),59-80,59,80
+0022100661,2022-01-17,ORL,POR,35.58,3,0,25,ORL,POR,ft_make,19,False,False,,Smith Jr. Free Throw Flagrant 2 of 2 (6 PTS),59-81,59,81
+0022100661,2022-01-17,ORL,POR,35.82,3,0,11,POR,POR,fg3_miss,1,False,False,,MISS Snell 25' 3PT Jump Shot,59-81,59,81
+0022100661,2022-01-17,ORL,POR,35.88,3,0,7,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:1),,59-81,59,81
+0022100661,2022-01-17,ORL,POR,35.97,3,0,2,ORL,ORL,ft_make,11,False,False,Hampton Free Throw 1 of 2 (4 PTS),,60-81,60,81
+0022100661,2022-01-17,ORL,POR,35.97,3,0,2,ORL,POR,foul,1,False,False,,Smith Jr. P.FOUL (P3.PN) (R.Acosta),59-81,59,81
+0022100661,2022-01-17,ORL,POR,35.97,3,0,2,ORL,ORL,ft_make,12,False,False,Hampton Free Throw 2 of 2 (5 PTS),,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.0,3,0,0,ORL,,period_end,0,False,False,,,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.0,4,12,0,ORL,,period_start,0,False,False,,,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.27,4,11,44,ORL,ORL,fg_miss,6,True,False,MISS Wagner 4' Driving Layup,,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.27,4,11,44,ORL,POR,block,6,True,False,block,block,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.38,4,11,37,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:1 Def:2),,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.38,4,11,37,ORL,ORL,fg_miss,75,False,False,MISS Suggs 3' Driving Finger Roll Layup,,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.42,4,11,35,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:11),61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.57,4,11,26,POR,POR,tov,1,False,True,,McCollum Bad Pass Turnover (P4.T14),61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.57,4,11,26,POR,ORL,steal,1,False,True,steal,steal,61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.58,4,11,25,ORL,ORL,ft_miss,12,False,False,MISS Hampton Free Throw 2 of 2,,62-81,62,81
+0022100661,2022-01-17,ORL,POR,36.58,4,11,25,ORL,ORL,ft_make,11,False,False,Hampton Free Throw 1 of 2 (6 PTS),,62-81,62,81
+0022100661,2022-01-17,ORL,POR,36.58,4,11,25,ORL,POR,foul,2,False,False,,McCollum S.FOUL (P1.T1) (R.Acosta),61-81,61,81
+0022100661,2022-01-17,ORL,POR,36.63,4,11,22,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:12),62-81,62,81
+0022100661,2022-01-17,ORL,POR,36.93,4,11,4,POR,POR,fg3_make,1,False,False,,McCollum 26' 3PT Jump Shot (12 PTS) (Nurkic 2 AST),62-84,62,84
+0022100661,2022-01-17,ORL,POR,37.28,4,10,43,ORL,ORL,fg3_miss,1,False,False,MISS Ross 26' 3PT Jump Shot,,62-84,62,84
+0022100661,2022-01-17,ORL,POR,37.35,4,10,39,POR,POR,reb,0,False,False,,Snell REBOUND (Off:0 Def:2),62-84,62,84
+0022100661,2022-01-17,ORL,POR,37.67,4,10,20,POR,POR,fg_make,63,False,False,,McCollum 19' Fadeaway Jumper (14 PTS),62-86,62,86
+0022100661,2022-01-17,ORL,POR,37.93,4,10,4,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 26' 3PT Jump Shot,,62-86,62,86
+0022100661,2022-01-17,ORL,POR,37.97,4,10,2,POR,POR,reb,0,False,False,,Smith Jr. REBOUND (Off:0 Def:2),62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.23,4,9,46,POR,POR,tov,1,False,True,,Nurkic Bad Pass Turnover (P5.T15),62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.23,4,9,46,POR,ORL,steal,1,False,True,steal,steal,62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.33,4,9,40,ORL,ORL,fg_miss,101,False,False,MISS Hampton 5' Driving Floating Jump Shot,,62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.38,4,9,37,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:13),62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.57,4,9,26,POR,POR,fg3_miss,1,False,False,,MISS Snell 25' 3PT Jump Shot,62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.6,4,9,24,POR,POR,reb,0,False,False,,Little REBOUND (Off:5 Def:4),62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.63,4,9,22,POR,POR,fg3_miss,1,False,False,,MISS McCollum 28' 3PT Jump Shot,62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.68,4,9,19,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:4 Def:13),62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.72,4,9,17,POR,POR,fg_miss,72,False,False,,MISS Nurkic 3' Putback Layup,62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.77,4,9,14,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:3),,62-86,62,86
+0022100661,2022-01-17,ORL,POR,38.82,4,9,11,ORL,POR,foul,2,False,False,,McCollum S.FOUL (P2.T2) (R.Hussey),64-86,64,86
+0022100661,2022-01-17,ORL,POR,38.82,4,9,11,ORL,ORL,fg_make,98,False,False,Okeke 3' Cutting Layup Shot (5 PTS) (Suggs 3 AST),,64-86,64,86
+0022100661,2022-01-17,ORL,POR,38.82,4,9,11,ORL,ORL,ft_miss,10,False,False,MISS Okeke Free Throw 1 of 1,,64-86,64,86
+0022100661,2022-01-17,ORL,POR,38.85,4,9,9,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:3),,64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.07,4,8,56,ORL,ORL,fg_miss,5,True,False,MISS Wagner 6' Layup,,64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.07,4,8,56,ORL,POR,block,5,True,False,block,block,64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.12,4,8,53,POR,POR,reb,0,False,False,,Little REBOUND (Off:5 Def:5),64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.12,4,8,53,POR,POR,tov,4,False,False,,Little Traveling Turnover (P1.T16),64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.4,4,8,36,ORL,ORL,fg_miss,3,False,False,MISS Lopez 9' Hook Shot,,64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.45,4,8,33,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:4 Def:14),64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.52,4,8,29,ORL,POR,foul,26,False,False,,Nurkic Offensive Charge Foul (P3) (R.Acosta),64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.52,4,8,29,POR,POR,tov,37,False,False,,Nurkic Offensive Foul Turnover (P6.T17),64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.8,4,8,12,ORL,ORL,fg_miss,6,False,False,MISS Wagner 4' Driving Layup,,64-86,64,86
+0022100661,2022-01-17,ORL,POR,39.85,4,8,9,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:4 Def:15),64-86,64,86
+0022100661,2022-01-17,ORL,POR,40.08,4,7,55,POR,POR,fg_make,101,False,False,,McCollum 8' Driving Floating Jump Shot (16 PTS) (Simons 4 AST),64-88,64,88
+0022100661,2022-01-17,ORL,POR,40.32,4,7,41,ORL,ORL,fg_make,7,False,False,Lopez 1' Dunk (7 PTS) (Okeke 1 AST),,66-88,66,88
+0022100661,2022-01-17,ORL,POR,40.62,4,7,23,POR,ORL,block,6,True,False,block,block,66-88,66,88
+0022100661,2022-01-17,ORL,POR,40.62,4,7,23,POR,POR,fg_miss,6,True,False,,MISS McCollum 3' Driving Layup,66-88,66,88
+0022100661,2022-01-17,ORL,POR,40.67,4,7,20,ORL,ORL,reb,0,False,False,Lopez REBOUND (Off:1 Def:1),,66-88,66,88
+0022100661,2022-01-17,ORL,POR,40.7,4,7,18,ORL,ORL,fg3_miss,103,False,False,MISS Anthony 27' 3PT Running Pull-Up Jump Shot,,66-88,66,88
+0022100661,2022-01-17,ORL,POR,40.77,4,7,14,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:4 Def:16),66-88,66,88
+0022100661,2022-01-17,ORL,POR,41.0,4,7,0,POR,POR,fg_miss,6,False,False,,MISS Nurkic 3' Driving Layup,66-88,66,88
+0022100661,2022-01-17,ORL,POR,41.05,4,6,57,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:4),,66-88,66,88
+0022100661,2022-01-17,ORL,POR,41.12,4,6,53,ORL,ORL,fg_make,76,False,False,Wagner 3' Running Finger Roll Layup (12 PTS),,68-88,68,88
+0022100661,2022-01-17,ORL,POR,41.48,4,6,31,POR,POR,fg_make,101,False,False,,Simons 8' Driving Floating Jump Shot (11 PTS),68-90,68,90
+0022100661,2022-01-17,ORL,POR,41.68,4,6,19,ORL,ORL,tov,2,False,True,Lopez Lost Ball Turnover (P3.T16),,68-90,68,90
+0022100661,2022-01-17,ORL,POR,41.68,4,6,19,ORL,POR,steal,2,False,True,steal,steal,68-90,68,90
+0022100661,2022-01-17,ORL,POR,41.82,4,6,11,POR,POR,fg3_miss,1,False,False,,MISS Little 26' 3PT Jump Shot,68-90,68,90
+0022100661,2022-01-17,ORL,POR,41.9,4,6,6,ORL,ORL,reb,0,False,False,Lopez REBOUND (Off:1 Def:2),,68-90,68,90
+0022100661,2022-01-17,ORL,POR,42.02,4,5,59,ORL,ORL,fg_make,1,False,False,Anthony 17' Jump Shot (6 PTS),,70-90,70,90
+0022100661,2022-01-17,ORL,POR,42.27,4,5,44,POR,ORL,foul,2,False,False,Okeke S.FOUL (P1.T1) (R.Acosta),,70-90,70,90
+0022100661,2022-01-17,ORL,POR,42.27,4,5,44,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 6 Short 0),,70-90,70,90
+0022100661,2022-01-17,ORL,POR,42.27,4,5,44,ORL,POR,ft_make,11,False,False,,Simons Free Throw 1 of 2 (12 PTS),70-91,70,91
+0022100661,2022-01-17,ORL,POR,42.27,4,5,44,ORL,POR,ft_make,12,False,False,,Simons Free Throw 2 of 2 (13 PTS),70-92,70,92
+0022100661,2022-01-17,ORL,POR,42.47,4,5,32,ORL,ORL,fg3_miss,1,False,False,MISS Harris 28' 3PT Jump Shot,,70-92,70,92
+0022100661,2022-01-17,ORL,POR,42.55,4,5,27,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:10),70-92,70,92
+0022100661,2022-01-17,ORL,POR,42.68,4,5,19,POR,POR,fg3_miss,1,False,False,,MISS Nurkic 24' 3PT Jump Shot,70-92,70,92
+0022100661,2022-01-17,ORL,POR,42.75,4,5,15,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:2 Def:6),,70-92,70,92
+0022100661,2022-01-17,ORL,POR,42.87,4,5,8,ORL,ORL,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (8 PTS) (Lopez 2 AST),,73-92,73,92
+0022100661,2022-01-17,ORL,POR,43.13,4,4,52,POR,POR,fg3_miss,1,False,False,,MISS Nurkic 25' 3PT Jump Shot,73-92,73,92
+0022100661,2022-01-17,ORL,POR,43.2,4,4,48,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:2 Def:7),,73-92,73,92
+0022100661,2022-01-17,ORL,POR,43.25,4,4,45,ORL,POR,foul,2,False,False,,Covington S.FOUL (P3.T3) (R.Acosta),73-92,73,92
+0022100661,2022-01-17,ORL,POR,43.25,4,4,45,ORL,ORL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (8 PTS),,74-92,74,92
+0022100661,2022-01-17,ORL,POR,43.25,4,4,45,ORL,ORL,reb,0,False,False,Lopez REBOUND (Off:2 Def:2),,73-92,73,92
+0022100661,2022-01-17,ORL,POR,43.25,4,4,45,ORL,ORL,fg3_miss,103,False,False,MISS Anthony 26' 3PT Running Pull-Up Jump Shot,,73-92,73,92
+0022100661,2022-01-17,ORL,POR,43.25,4,4,45,ORL,ORL,ft_miss,12,False,False,MISS Lopez Free Throw 2 of 2,,74-92,74,92
+0022100661,2022-01-17,ORL,POR,43.3,4,4,42,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:4 Def:17),74-92,74,92
+0022100661,2022-01-17,ORL,POR,43.58,4,4,25,POR,POR,fg_make,75,False,False,,Covington 2' Driving Finger Roll Layup (7 PTS) (Simons 5 AST),74-94,74,94
+0022100661,2022-01-17,ORL,POR,43.8,4,4,12,ORL,ORL,fg_make,6,False,False,Wagner 3' Driving Layup (14 PTS) (Okeke 2 AST),,76-94,76,94
+0022100661,2022-01-17,ORL,POR,44.05,4,3,57,POR,POR,fg3_miss,1,False,False,,MISS Covington 25' 3PT Jump Shot,76-94,76,94
+0022100661,2022-01-17,ORL,POR,44.08,4,3,55,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:5),,76-94,76,94
+0022100661,2022-01-17,ORL,POR,44.3,4,3,42,ORL,ORL,fg_make,101,False,False,Harris 7' Driving Floating Jump Shot (10 PTS) (Anthony 6 AST),,78-94,78,94
+0022100661,2022-01-17,ORL,POR,44.3,4,3,42,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),78-94,78,94
+0022100661,2022-01-17,ORL,POR,44.63,4,3,22,POR,ORL,block,101,True,False,block,block,78-94,78,94
+0022100661,2022-01-17,ORL,POR,44.63,4,3,22,POR,POR,fg_miss,101,True,False,,MISS Covington 5' Driving Floating Jump Shot,78-94,78,94
+0022100661,2022-01-17,ORL,POR,44.7,4,3,18,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:9),,78-94,78,94
+0022100661,2022-01-17,ORL,POR,44.8,4,3,12,ORL,ORL,fg3_make,1,False,False,Anthony 27' 3PT Jump Shot (9 PTS),,81-94,81,94
+0022100661,2022-01-17,ORL,POR,45.18,4,2,49,POR,POR,fg_make,98,False,False,,Nurkic 3' Cutting Layup Shot (19 PTS) (Simons 6 AST),81-96,81,96
+0022100661,2022-01-17,ORL,POR,45.33,4,2,40,ORL,POR,violation,5,False,False,,Kicked Ball,81-96,81,96
+0022100661,2022-01-17,ORL,POR,45.53,4,2,28,ORL,ORL,fg3_miss,79,False,False,MISS Anthony 27' 3PT Pullup Jump Shot,,81-96,81,96
+0022100661,2022-01-17,ORL,POR,45.62,4,2,23,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:4 Def:18),81-96,81,96
+0022100661,2022-01-17,ORL,POR,45.82,4,2,11,POR,POR,fg_make,98,False,False,,Nurkic 3' Cutting Layup Shot (21 PTS) (Simons 7 AST),81-98,81,98
+0022100661,2022-01-17,ORL,POR,45.82,4,2,11,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 7 Short 0),,81-98,81,98
+0022100661,2022-01-17,ORL,POR,46.2,4,1,48,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 3PT Jump Shot,,81-98,81,98
+0022100661,2022-01-17,ORL,POR,46.3,4,1,42,ORL,ORL,reb,0,False,False,Schofield REBOUND (Off:1 Def:0),,81-98,81,98
+0022100661,2022-01-17,ORL,POR,46.4,4,1,36,ORL,ORL,fg_make,73,False,False,Suggs 3' Driving Reverse Layup (10 PTS),,83-98,83,98
+0022100661,2022-01-17,ORL,POR,46.65,4,1,21,POR,ORL,foul,1,False,False,Suggs P.FOUL (P3.T2) (Z.Zarba),,83-98,83,98
+0022100661,2022-01-17,ORL,POR,46.78,4,1,13,POR,POR,fg3_miss,1,False,False,,MISS Blevins 24' 3PT Jump Shot,83-98,83,98
+0022100661,2022-01-17,ORL,POR,46.87,4,1,8,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:0 Def:4),,83-98,83,98
+0022100661,2022-01-17,ORL,POR,46.98,4,1,1,ORL,ORL,fg3_miss,1,False,False,MISS Schofield 26' 3PT Jump Shot,,83-98,83,98
+0022100661,2022-01-17,ORL,POR,47.05,4,0,57,POR,POR,reb,0,False,False,,Brown III REBOUND (Off:0 Def:1),83-98,83,98
+0022100661,2022-01-17,ORL,POR,47.22,4,0,47,POR,POR,fg3_miss,79,False,False,,MISS Blevins 26' 3PT Pullup Jump Shot,83-98,83,98
+0022100661,2022-01-17,ORL,POR,47.27,4,0,44,ORL,ORL,reb,0,False,False,Brazdeikis REBOUND (Off:0 Def:1),,83-98,83,98
+0022100661,2022-01-17,ORL,POR,47.38,4,0,37,ORL,ORL,fg_make,51,False,False,Wagner 3' Reverse Dunk (14 PTS) (Brazdeikis 1 AST),,85-98,85,98
+0022100661,2022-01-17,ORL,POR,47.65,4,0,21,POR,POR,fg3_miss,1,False,False,,MISS Watford 24' 3PT Jump Shot,85-98,85,98
+0022100661,2022-01-17,ORL,POR,47.72,4,0,17,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:1 Def:5),,85-98,85,98
+0022100661,2022-01-17,ORL,POR,47.97,4,0,2,ORL,ORL,fg3_make,1,False,False,Hampton 27' 3PT Jump Shot (9 PTS) (Wagner 2 AST),,88-98,88,98
+0022100661,2022-01-17,ORL,POR,48.0,4,0,0,ORL,,period_end,0,False,False,,,88-98,88,98

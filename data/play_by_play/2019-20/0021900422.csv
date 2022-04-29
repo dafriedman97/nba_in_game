@@ -1,0 +1,456 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900422,2019-12-20,BOS,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900422,2019-12-20,BOS,DET,0.0,1,12,0,,BOS,jump_ball,0,False,False,Jump Ball Theis vs. Drummond: Tip to Morris,,0-0,0,0
+0021900422,2019-12-20,BOS,DET,0.23,1,11,46,DET,DET,fg3_make,1,False,False,,Snell 3PT Jump Shot (3 PTS) (Mykhailiuk 1 AST),0-3,0,3
+0021900422,2019-12-20,BOS,DET,0.48,1,11,31,BOS,BOS,fg_make,80,False,False,Tatum 17' Step Back Jump Shot (2 PTS) (Brown 1 AST),,2-3,2,3
+0021900422,2019-12-20,BOS,DET,0.75,1,11,15,DET,DET,fg3_make,1,False,False,,Morris 25' 3PT Jump Shot (3 PTS) (Brown 1 AST),2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.03,1,10,58,BOS,BOS,tov,1,False,True,Brown Bad Pass Turnover (P1.T1),,2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.03,1,10,58,BOS,DET,steal,1,False,True,steal,steal,2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.15,1,10,51,DET,DET,fg3_miss,1,False,False,,MISS Brown 3PT Jump Shot,2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.17,1,10,50,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:1),,2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.33,1,10,40,BOS,BOS,fg3_miss,1,False,False,MISS Brown 26' 3PT Jump Shot,,2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.37,1,10,38,DET,DET,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.43,1,10,34,DET,DET,tov,1,False,True,,Brown Bad Pass Turnover (P1.T1),2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.43,1,10,34,DET,BOS,steal,1,False,True,steal,steal,2-6,2,6
+0021900422,2019-12-20,BOS,DET,1.68,1,10,19,BOS,BOS,fg_make,6,False,False,Brown 1' Driving Layup (2 PTS),,4-6,4,6
+0021900422,2019-12-20,BOS,DET,2.0,1,10,0,DET,BOS,foul,2,False,False,Tatum S.FOUL (P1.T1) (J.Goldenberg),,4-6,4,6
+0021900422,2019-12-20,BOS,DET,2.0,1,10,0,DET,DET,ft_make,11,False,False,,Morris Free Throw 1 of 2 (4 PTS),4-7,4,7
+0021900422,2019-12-20,BOS,DET,2.0,1,10,0,DET,DET,ft_make,12,False,False,,Morris Free Throw 2 of 2 (5 PTS),4-8,4,8
+0021900422,2019-12-20,BOS,DET,2.15,1,9,51,BOS,DET,foul,2,False,False,,Morris S.FOUL (P1.T1) (J.Goldenberg),4-8,4,8
+0021900422,2019-12-20,BOS,DET,2.15,1,9,51,BOS,BOS,ft_miss,11,False,False,MISS Theis Free Throw 1 of 2,,4-8,4,8
+0021900422,2019-12-20,BOS,DET,2.15,1,9,51,BOS,BOS,reb,1,False,False,CELTICS Rebound,,4-8,4,8
+0021900422,2019-12-20,BOS,DET,2.15,1,9,51,BOS,BOS,ft_make,12,False,False,Theis Free Throw 2 of 2 (1 PTS),,5-8,5,8
+0021900422,2019-12-20,BOS,DET,2.38,1,9,37,DET,DET,tov,45,False,False,,Brown Out of Bounds - Bad Pass Turnover Turnover (P2.T2),5-8,5,8
+0021900422,2019-12-20,BOS,DET,2.55,1,9,27,BOS,BOS,fg3_make,1,False,False,Ojeleye 24' 3PT Jump Shot (3 PTS) (Walker 1 AST),,8-8,8,8
+0021900422,2019-12-20,BOS,DET,2.73,1,9,16,DET,DET,fg_miss,75,False,False,,MISS Drummond 3' Driving Finger Roll Layup,8-8,8,8
+0021900422,2019-12-20,BOS,DET,2.73,1,9,16,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:2),,8-8,8,8
+0021900422,2019-12-20,BOS,DET,2.83,1,9,10,BOS,BOS,fg3_make,79,False,False,Tatum 27' 3PT Pullup Jump Shot (5 PTS),,11-8,11,8
+0021900422,2019-12-20,BOS,DET,3.08,1,8,55,DET,DET,fg_miss,101,False,False,,MISS Drummond 12' Driving Floating Jump Shot,11-8,11,8
+0021900422,2019-12-20,BOS,DET,3.1,1,8,54,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,11-8,11,8
+0021900422,2019-12-20,BOS,DET,3.2,1,8,48,BOS,BOS,fg3_miss,1,False,False,MISS Walker 25' 3PT Jump Shot,,11-8,11,8
+0021900422,2019-12-20,BOS,DET,3.23,1,8,46,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:1),11-8,11,8
+0021900422,2019-12-20,BOS,DET,3.45,1,8,33,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 26' 3PT Jump Shot,11-8,11,8
+0021900422,2019-12-20,BOS,DET,3.47,1,8,32,DET,DET,reb,0,False,False,,Brown REBOUND (Off:1 Def:1),11-8,11,8
+0021900422,2019-12-20,BOS,DET,3.52,1,8,29,DET,DET,fg3_make,1,False,False,,Morris 3PT Jump Shot (8 PTS) (Brown 2 AST),11-11,11,11
+0021900422,2019-12-20,BOS,DET,3.78,1,8,13,BOS,BOS,fg_miss,108,False,False,MISS Theis 3' Cutting Dunk Shot,,11-11,11,11
+0021900422,2019-12-20,BOS,DET,3.8,1,8,12,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:1),11-11,11,11
+0021900422,2019-12-20,BOS,DET,4.08,1,7,55,DET,DET,fg_make,5,False,False,,Drummond 4' Layup (2 PTS) (Morris 1 AST),11-13,11,13
+0021900422,2019-12-20,BOS,DET,4.28,1,7,43,BOS,BOS,fg3_miss,1,False,False,MISS Theis 27' 3PT Jump Shot,,11-13,11,13
+0021900422,2019-12-20,BOS,DET,4.3,1,7,42,DET,DET,reb,0,False,False,,Snell REBOUND (Off:0 Def:1),11-13,11,13
+0021900422,2019-12-20,BOS,DET,4.35,1,7,39,DET,BOS,foul,1,False,False,Theis P.FOUL (P1.T2) (J.Goldenberg),,11-13,11,13
+0021900422,2019-12-20,BOS,DET,4.53,1,7,28,DET,DET,fg_miss,86,False,False,,MISS Morris 10' Turnaround Fadeaway Shot,11-13,11,13
+0021900422,2019-12-20,BOS,DET,4.57,1,7,26,BOS,BOS,reb,0,False,False,Walker REBOUND (Off:0 Def:1),,11-13,11,13
+0021900422,2019-12-20,BOS,DET,4.9,1,7,6,BOS,BOS,fg_make,80,False,False,Tatum 18' Step Back Jump Shot (7 PTS),,13-13,13,13
+0021900422,2019-12-20,BOS,DET,5.03,1,6,58,DET,DET,tov,45,False,False,,Snell Out of Bounds - Bad Pass Turnover Turnover (P1.T3),13-13,13,13
+0021900422,2019-12-20,BOS,DET,5.03,1,6,58,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 1 Short 0),,13-13,13,13
+0021900422,2019-12-20,BOS,DET,5.23,1,6,46,BOS,BOS,fg_miss,63,False,False,MISS Tatum 11' Fadeaway Jumper,,13-13,13,13
+0021900422,2019-12-20,BOS,DET,5.25,1,6,45,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:1 Def:0),,13-13,13,13
+0021900422,2019-12-20,BOS,DET,5.25,1,6,45,BOS,BOS,fg_miss,97,False,False,MISS Kanter 1' Tip Layup Shot,,13-13,13,13
+0021900422,2019-12-20,BOS,DET,5.28,1,6,43,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:1),,13-13,13,13
+0021900422,2019-12-20,BOS,DET,5.33,1,6,40,BOS,BOS,fg_make,86,False,False,Brown 17' Turnaround Fadeaway (4 PTS),,15-13,15,13
+0021900422,2019-12-20,BOS,DET,5.65,1,6,21,DET,DET,fg3_miss,1,False,False,,MISS Snell 26' 3PT Jump Shot,15-13,15,13
+0021900422,2019-12-20,BOS,DET,5.67,1,6,20,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:2),,15-13,15,13
+0021900422,2019-12-20,BOS,DET,5.92,1,6,5,BOS,BOS,tov,2,False,True,Kanter Lost Ball Turnover (P1.T2),,15-13,15,13
+0021900422,2019-12-20,BOS,DET,5.92,1,6,5,BOS,DET,steal,2,False,True,steal,steal,15-13,15,13
+0021900422,2019-12-20,BOS,DET,5.97,1,6,2,DET,DET,fg_miss,41,False,False,,MISS Mykhailiuk 1' Running Layup,15-13,15,13
+0021900422,2019-12-20,BOS,DET,5.98,1,6,1,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:3),,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.22,1,5,47,BOS,BOS,fg3_miss,1,False,False,MISS Ojeleye 3PT Jump Shot,,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.27,1,5,44,BOS,BOS,reb,0,False,False,Ojeleye REBOUND (Off:1 Def:0),,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.33,1,5,40,BOS,BOS,fg_miss,72,True,False,MISS Ojeleye 1' Putback Layup,,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.33,1,5,40,BOS,DET,block,72,True,False,block,block,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.37,1,5,38,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:2 Def:0),,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.4,1,5,36,BOS,BOS,fg_miss,5,False,False,MISS Kanter 1' Layup,,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.43,1,5,34,DET,DET,reb,0,False,False,,Morris REBOUND (Off:0 Def:1),15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.63,1,5,22,DET,DET,fg_miss,79,False,False,,MISS Snell 16' Pullup Jump Shot,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.65,1,5,21,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:2 Def:1),,15-13,15,13
+0021900422,2019-12-20,BOS,DET,6.88,1,5,7,BOS,BOS,fg_make,1,False,False,Kanter 19' Jump Shot (2 PTS) (Brown 2 AST),,17-13,17,13
+0021900422,2019-12-20,BOS,DET,7.18,1,4,49,DET,DET,fg_miss,101,False,False,,MISS Brown 5' Driving Floating Jump Shot,17-13,17,13
+0021900422,2019-12-20,BOS,DET,7.25,1,4,45,DET,DET,reb,0,False,False,,Brown REBOUND (Off:2 Def:1),17-15,17,15
+0021900422,2019-12-20,BOS,DET,7.25,1,4,45,DET,DET,fg_make,97,False,False,,Brown 1' Tip Layup Shot (2 PTS),17-15,17,15
+0021900422,2019-12-20,BOS,DET,7.48,1,4,31,BOS,BOS,fg_miss,1,False,False,MISS Walker 21' Jump Shot,,17-15,17,15
+0021900422,2019-12-20,BOS,DET,7.48,1,4,31,DET,DET,reb,0,False,False,,Pistons Rebound,17-15,17,15
+0021900422,2019-12-20,BOS,DET,7.67,1,4,20,DET,DET,tov,45,False,False,,Mykhailiuk Out of Bounds - Bad Pass Turnover Turnover (P1.T4),17-15,17,15
+0021900422,2019-12-20,BOS,DET,7.9,1,4,6,BOS,BOS,fg_make,78,False,False,Tatum 10' Floating Jump Shot (9 PTS),,19-15,19,15
+0021900422,2019-12-20,BOS,DET,8.12,1,3,53,DET,DET,fg_make,79,False,False,,Rose 12' Pullup Jump Shot (2 PTS),19-17,19,17
+0021900422,2019-12-20,BOS,DET,8.32,1,3,41,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 28' 3PT Jump Shot,,19-17,19,17
+0021900422,2019-12-20,BOS,DET,8.35,1,3,39,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:3 Def:1),,19-17,19,17
+0021900422,2019-12-20,BOS,DET,8.5,1,3,30,BOS,BOS,fg_make,5,False,False,Tatum 5' Layup (11 PTS),,21-17,21,17
+0021900422,2019-12-20,BOS,DET,8.63,1,3,22,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 2 Short 0),,21-17,21,17
+0021900422,2019-12-20,BOS,DET,8.63,1,3,22,DET,DET,tov,1,False,True,,Rose Bad Pass Turnover (P1.T5),21-17,21,17
+0021900422,2019-12-20,BOS,DET,8.63,1,3,22,DET,BOS,steal,1,False,True,steal,steal,21-17,21,17
+0021900422,2019-12-20,BOS,DET,8.92,1,3,5,BOS,BOS,fg_make,6,False,False,Langford 2' Driving Layup (2 PTS),,23-17,23,17
+0021900422,2019-12-20,BOS,DET,9.33,1,2,40,DET,DET,fg_make,73,False,False,,Drummond 2' Driving Reverse Layup (4 PTS),23-19,23,19
+0021900422,2019-12-20,BOS,DET,9.65,1,2,21,BOS,BOS,fg3_make,1,False,False,Williams 24' 3PT Jump Shot (3 PTS) (Tatum 1 AST),,26-19,26,19
+0021900422,2019-12-20,BOS,DET,9.85,1,2,9,DET,DET,tov,2,False,True,,Rose Lost Ball Turnover (P2.T6),26-19,26,19
+0021900422,2019-12-20,BOS,DET,9.85,1,2,9,DET,BOS,steal,2,False,True,steal,steal,26-19,26,19
+0021900422,2019-12-20,BOS,DET,9.95,1,2,3,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 27' 3PT Jump Shot,,26-19,26,19
+0021900422,2019-12-20,BOS,DET,10.0,1,2,0,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:2),26-19,26,19
+0021900422,2019-12-20,BOS,DET,10.13,1,1,52,DET,BOS,foul,1,False,False,Langford P.FOUL (P1.T3) (J.Williams),,26-19,26,19
+0021900422,2019-12-20,BOS,DET,10.32,1,1,41,DET,DET,fg_make,101,False,False,,Rose 9' Driving Floating Jump Shot (4 PTS),26-21,26,21
+0021900422,2019-12-20,BOS,DET,10.58,1,1,25,BOS,BOS,fg_make,75,False,False,Tatum 1' Driving Finger Roll Layup (13 PTS) (Wanamaker 1 AST),,28-21,28,21
+0021900422,2019-12-20,BOS,DET,10.8,1,1,12,DET,DET,fg_make,80,False,False,,Galloway 17' Step Back Jump Shot (2 PTS) (Rose 1 AST),28-23,28,23
+0021900422,2019-12-20,BOS,DET,11.22,1,0,47,BOS,BOS,fg_miss,80,False,False,MISS Wanamaker 18' Step Back Jump Shot,,28-23,28,23
+0021900422,2019-12-20,BOS,DET,11.25,1,0,45,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:3),28-23,28,23
+0021900422,2019-12-20,BOS,DET,11.4,1,0,36,DET,DET,fg3_make,1,False,False,,Maker 3PT Jump Shot (3 PTS) (Drummond 1 AST),28-26,28,26
+0021900422,2019-12-20,BOS,DET,11.53,1,0,28,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 27' 3PT Jump Shot,,28-26,28,26
+0021900422,2019-12-20,BOS,DET,11.55,1,0,27,DET,DET,reb,0,False,False,,Galloway REBOUND (Off:0 Def:1),28-26,28,26
+0021900422,2019-12-20,BOS,DET,11.88,1,0,7,DET,DET,fg_miss,101,False,False,,MISS Rose 8' Driving Floating Jump Shot,28-26,28,26
+0021900422,2019-12-20,BOS,DET,11.92,1,0,5,BOS,BOS,reb,0,False,False,Wanamaker REBOUND (Off:0 Def:1),,28-26,28,26
+0021900422,2019-12-20,BOS,DET,11.95,1,0,3,BOS,DET,foul,1,False,False,,Snell P.FOUL (P1.T2) (A.Smith),28-26,28,26
+0021900422,2019-12-20,BOS,DET,11.98,1,0,1,BOS,BOS,fg_miss,1,False,False,MISS Tatum 21' Jump Shot,,28-26,28,26
+0021900422,2019-12-20,BOS,DET,11.98,1,0,1,BOS,BOS,reb,0,False,False,CELTICS Rebound,,28-26,28,26
+0021900422,2019-12-20,BOS,DET,12.0,1,0,0,BOS,,period_end,0,False,False,,,28-26,28,26
+0021900422,2019-12-20,BOS,DET,12.0,2,12,0,BOS,,period_start,0,False,False,,,28-26,28,26
+0021900422,2019-12-20,BOS,DET,12.32,2,11,41,BOS,BOS,fg_make,6,False,False,Williams 3' Driving Layup (5 PTS) (Brown 3 AST),,30-26,30,26
+0021900422,2019-12-20,BOS,DET,12.67,2,11,20,DET,DET,fg_make,6,False,False,,Rose 3' Driving Layup (6 PTS),30-28,30,28
+0021900422,2019-12-20,BOS,DET,12.98,2,11,1,BOS,BOS,tov,1,False,True,Green Bad Pass Turnover (P1.T3),,30-28,30,28
+0021900422,2019-12-20,BOS,DET,12.98,2,11,1,BOS,DET,steal,1,False,True,steal,steal,30-28,30,28
+0021900422,2019-12-20,BOS,DET,13.02,2,10,59,DET,DET,fg_miss,41,False,False,,MISS Snell 4' Running Layup,30-28,30,28
+0021900422,2019-12-20,BOS,DET,13.02,2,10,59,DET,DET,reb,0,False,False,,Maker REBOUND (Off:1 Def:0),30-28,30,28
+0021900422,2019-12-20,BOS,DET,13.02,2,10,59,DET,DET,fg_make,97,False,False,,Maker 1' Tip Layup Shot (5 PTS),30-30,30,30
+0021900422,2019-12-20,BOS,DET,13.02,2,10,59,DET,BOS,foul,2,False,False,Williams S.FOUL (P1.T1) (A.Smith),,30-30,30,30
+0021900422,2019-12-20,BOS,DET,13.02,2,10,59,DET,DET,ft_make,10,False,False,,Maker Free Throw 1 of 1 (6 PTS),30-31,30,31
+0021900422,2019-12-20,BOS,DET,13.32,2,10,41,BOS,BOS,tov,2,False,True,Wanamaker Lost Ball Turnover (P1.T4),,30-31,30,31
+0021900422,2019-12-20,BOS,DET,13.32,2,10,41,BOS,DET,steal,2,False,True,steal,steal,30-31,30,31
+0021900422,2019-12-20,BOS,DET,13.47,2,10,32,DET,DET,tov,39,False,False,,Morris Step Out of Bounds Turnover (P1.T7),30-31,30,31
+0021900422,2019-12-20,BOS,DET,13.75,2,10,15,BOS,BOS,fg_make,102,False,False,Green 9' Driving Floating Bank Jump Shot (2 PTS) (Brown 4 AST),,32-31,32,31
+0021900422,2019-12-20,BOS,DET,14.0,2,10,0,DET,DET,tov,1,False,True,,Morris Bad Pass Turnover (P2.T8),32-31,32,31
+0021900422,2019-12-20,BOS,DET,14.0,2,10,0,DET,BOS,steal,1,False,True,steal,steal,32-31,32,31
+0021900422,2019-12-20,BOS,DET,14.07,2,9,56,BOS,DET,foul,2,False,False,,Maker S.FOUL (P1.T1) (A.Smith),32-31,32,31
+0021900422,2019-12-20,BOS,DET,14.07,2,9,56,BOS,BOS,ft_miss,11,False,False,MISS Brown Free Throw 1 of 2,,32-31,32,31
+0021900422,2019-12-20,BOS,DET,14.07,2,9,56,BOS,BOS,reb,1,False,False,CELTICS Rebound,,32-31,32,31
+0021900422,2019-12-20,BOS,DET,14.07,2,9,56,BOS,BOS,ft_make,12,False,False,Brown Free Throw 2 of 2 (5 PTS),,33-31,33,31
+0021900422,2019-12-20,BOS,DET,14.27,2,9,44,DET,DET,fg3_miss,1,False,False,,MISS Snell 3PT Jump Shot,33-31,33,31
+0021900422,2019-12-20,BOS,DET,14.28,2,9,43,BOS,BOS,reb,0,False,False,Green REBOUND (Off:0 Def:1),,33-31,33,31
+0021900422,2019-12-20,BOS,DET,14.38,2,9,37,BOS,DET,foul,2,False,False,,Morris S.FOUL (P2.T2) (J.Goldenberg),33-31,33,31
+0021900422,2019-12-20,BOS,DET,14.38,2,9,37,BOS,BOS,ft_make,11,False,False,Wanamaker Free Throw 1 of 2 (1 PTS),,34-31,34,31
+0021900422,2019-12-20,BOS,DET,14.38,2,9,37,BOS,BOS,ft_make,12,False,False,Wanamaker Free Throw 2 of 2 (2 PTS),,35-31,35,31
+0021900422,2019-12-20,BOS,DET,14.53,2,9,28,DET,DET,fg_miss,101,False,False,,MISS Rose 13' Driving Floating Jump Shot,35-31,35,31
+0021900422,2019-12-20,BOS,DET,14.55,2,9,27,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:4),,35-31,35,31
+0021900422,2019-12-20,BOS,DET,14.7,2,9,18,BOS,BOS,fg_make,75,False,False,Brown 6' Driving Finger Roll Layup (7 PTS),,37-31,37,31
+0021900422,2019-12-20,BOS,DET,14.83,2,9,10,DET,DET,fg_miss,1,False,False,,MISS Maker 14' Jump Shot,37-31,37,31
+0021900422,2019-12-20,BOS,DET,14.85,2,9,9,DET,DET,reb,0,False,False,,Maker REBOUND (Off:2 Def:0),37-31,37,31
+0021900422,2019-12-20,BOS,DET,14.95,2,9,3,DET,BOS,foul,1,False,False,Brown P.FOUL (P1.T2) (J.Goldenberg),,37-31,37,31
+0021900422,2019-12-20,BOS,DET,14.95,2,9,3,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),37-31,37,31
+0021900422,2019-12-20,BOS,DET,15.08,2,8,55,DET,DET,tov,45,False,False,,Rose Out of Bounds - Bad Pass Turnover Turnover (P3.T9),37-31,37,31
+0021900422,2019-12-20,BOS,DET,15.4,2,8,36,BOS,BOS,fg_miss,1,False,False,MISS Theis 16' Jump Shot,,37-31,37,31
+0021900422,2019-12-20,BOS,DET,15.42,2,8,35,BOS,BOS,reb,0,False,False,Williams REBOUND (Off:1 Def:0),,37-31,37,31
+0021900422,2019-12-20,BOS,DET,15.42,2,8,35,BOS,BOS,fg_make,97,False,False,Williams 1' Tip Layup Shot (7 PTS),,39-31,39,31
+0021900422,2019-12-20,BOS,DET,15.7,2,8,18,DET,DET,tov,1,False,True,,Maker Bad Pass Turnover (P1.T10),39-31,39,31
+0021900422,2019-12-20,BOS,DET,15.7,2,8,18,DET,BOS,steal,1,False,True,steal,steal,39-31,39,31
+0021900422,2019-12-20,BOS,DET,15.77,2,8,14,BOS,BOS,fg_make,50,False,False,Green 1' Running Dunk (4 PTS) (Wanamaker 2 AST),,41-31,41,31
+0021900422,2019-12-20,BOS,DET,16.08,2,7,55,DET,DET,fg_miss,57,False,False,,MISS Maker 6' Driving Hook Shot,41-31,41,31
+0021900422,2019-12-20,BOS,DET,16.12,2,7,53,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:0 Def:1),,41-31,41,31
+0021900422,2019-12-20,BOS,DET,16.22,2,7,47,BOS,BOS,tov,1,False,True,Brown Bad Pass Turnover (P2.T5),,41-31,41,31
+0021900422,2019-12-20,BOS,DET,16.22,2,7,47,BOS,DET,steal,1,False,True,steal,steal,41-31,41,31
+0021900422,2019-12-20,BOS,DET,16.32,2,7,41,DET,DET,fg_make,52,False,False,,Maker 2' Alley Oop Dunk (8 PTS) (Rose 2 AST),41-33,41,33
+0021900422,2019-12-20,BOS,DET,16.32,2,7,41,BOS,DET,violation,1,False,False,,Pistons Violation: Delay of game Violation,41-33,41,33
+0021900422,2019-12-20,BOS,DET,16.6,2,7,24,BOS,BOS,fg_make,101,False,False,Wanamaker 13' Driving Floating Jump Shot (4 PTS) (Theis 1 AST),,43-33,43,33
+0021900422,2019-12-20,BOS,DET,16.88,2,7,7,DET,DET,fg3_miss,1,False,False,,MISS Morris 26' 3PT Jump Shot,43-33,43,33
+0021900422,2019-12-20,BOS,DET,16.92,2,7,5,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:0 Def:2),,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.1,2,6,54,BOS,BOS,fg_miss,1,False,False,MISS Wanamaker 19' Jump Shot,,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.12,2,6,53,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:1 Def:2),,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.3,2,6,42,BOS,BOS,fg_miss,79,False,False,MISS Walker 16' Pullup Jump Shot,,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.33,2,6,40,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:4),43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.62,2,6,23,DET,BOS,foul,1,False,False,Wanamaker P.FOUL (P1.T3) (J.Goldenberg),,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.85,2,6,9,DET,DET,fg_miss,63,True,False,,MISS Galloway 17' Fadeaway Jumper,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.85,2,6,9,DET,BOS,block,63,True,False,block,block,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.87,2,6,8,DET,DET,reb,0,False,False,,Pistons Rebound,43-33,43,33
+0021900422,2019-12-20,BOS,DET,17.87,2,6,8,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#11),43-33,43,33
+0021900422,2019-12-20,BOS,DET,18.05,2,5,57,BOS,DET,foul,2,False,False,,Brown S.FOUL (P1.T3) (A.Smith),43-33,43,33
+0021900422,2019-12-20,BOS,DET,18.05,2,5,57,BOS,BOS,ft_miss,11,False,False,MISS Walker Free Throw 1 of 2,,43-33,43,33
+0021900422,2019-12-20,BOS,DET,18.05,2,5,57,BOS,BOS,reb,1,False,False,CELTICS Rebound,,43-33,43,33
+0021900422,2019-12-20,BOS,DET,18.05,2,5,57,BOS,BOS,ft_make,12,False,False,Walker Free Throw 2 of 2 (1 PTS),,44-33,44,33
+0021900422,2019-12-20,BOS,DET,18.28,2,5,43,DET,BOS,foul,2,False,False,Wanamaker S.FOUL (P2.T4) (A.Smith),,44-33,44,33
+0021900422,2019-12-20,BOS,DET,18.28,2,5,43,DET,DET,ft_make,11,False,False,,Galloway Free Throw 1 of 2 (3 PTS),44-34,44,34
+0021900422,2019-12-20,BOS,DET,18.28,2,5,43,DET,DET,ft_make,12,False,False,,Galloway Free Throw 2 of 2 (4 PTS),44-35,44,35
+0021900422,2019-12-20,BOS,DET,18.53,2,5,28,BOS,BOS,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,44-35,44,35
+0021900422,2019-12-20,BOS,DET,18.75,2,5,15,DET,DET,fg_miss,6,True,False,,MISS Mykhailiuk 4' Driving Layup,44-35,44,35
+0021900422,2019-12-20,BOS,DET,18.75,2,5,15,DET,BOS,block,6,True,False,block,block,44-35,44,35
+0021900422,2019-12-20,BOS,DET,18.82,2,5,11,BOS,BOS,reb,0,False,False,Wanamaker REBOUND (Off:0 Def:2),,44-35,44,35
+0021900422,2019-12-20,BOS,DET,18.88,2,5,7,BOS,BOS,fg_make,41,False,False,Green 2' Running Layup (6 PTS) (Walker 2 AST),,46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.1,2,4,54,DET,DET,fg3_miss,1,False,False,,MISS Morris 25' 3PT Jump Shot,46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.1,2,4,54,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:1 Def:3),,46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.3,2,4,42,BOS,BOS,fg3_miss,1,False,False,MISS Theis 26' 3PT Jump Shot,,46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.35,2,4,39,DET,DET,reb,0,False,False,,Morris REBOUND (Off:0 Def:2),46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.35,2,4,39,BOS,DET,foul,26,False,False,,Drummond Offensive Charge Foul (P1.T4) (J.Goldenberg),46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.35,2,4,39,DET,DET,tov,37,False,False,,Drummond Offensive Foul Turnover (P1.T12),46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.55,2,4,27,BOS,BOS,fg_miss,41,False,False,MISS Walker 4' Running Layup,,46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.58,2,4,25,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:5),46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,DET,fg_miss,41,False,False,,MISS Mykhailiuk 2' Running Layup,46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,DET,fg_make,72,False,False,,Morris 1' Putback Layup (10 PTS),46-37,46,37
+0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,DET,reb,0,False,False,,Morris REBOUND (Off:1 Def:2),46-35,46,35
+0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,BOS,violation,2,False,False,Defensive Goaltending,,46-37,46,37
+0021900422,2019-12-20,BOS,DET,19.9,2,4,6,BOS,BOS,tov,1,False,True,Brown Bad Pass Turnover (P3.T7),,46-37,46,37
+0021900422,2019-12-20,BOS,DET,19.9,2,4,6,BOS,DET,steal,1,False,True,steal,steal,46-37,46,37
+0021900422,2019-12-20,BOS,DET,19.92,2,4,5,DET,DET,tov,4,False,False,,Drummond Traveling Turnover (P2.T13),46-37,46,37
+0021900422,2019-12-20,BOS,DET,20.18,2,3,49,BOS,BOS,fg_miss,6,True,False,MISS Williams 3' Driving Layup,,46-37,46,37
+0021900422,2019-12-20,BOS,DET,20.18,2,3,49,BOS,DET,block,6,True,False,block,block,46-37,46,37
+0021900422,2019-12-20,BOS,DET,20.23,2,3,46,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:6),46-37,46,37
+0021900422,2019-12-20,BOS,DET,20.35,2,3,39,DET,DET,fg3_make,1,False,False,,Mykhailiuk 28' 3PT Jump Shot (3 PTS) (Drummond 2 AST),46-40,46,40
+0021900422,2019-12-20,BOS,DET,20.55,2,3,27,BOS,BOS,tov,2,False,True,Walker Lost Ball Turnover (P1.T8),,46-40,46,40
+0021900422,2019-12-20,BOS,DET,20.55,2,3,27,BOS,DET,steal,2,False,True,steal,steal,46-40,46,40
+0021900422,2019-12-20,BOS,DET,20.63,2,3,22,DET,DET,tov,45,False,False,,Drummond Out of Bounds - Bad Pass Turnover Turnover (P3.T14),46-40,46,40
+0021900422,2019-12-20,BOS,DET,20.98,2,3,1,BOS,BOS,fg_make,79,False,False,Brown 13' Pullup Jump Shot (9 PTS),,48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.3,2,2,42,DET,DET,fg_miss,6,True,False,,MISS Mykhailiuk 8' Driving Layup,48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.3,2,2,42,DET,BOS,block,6,True,False,block,block,48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.3,2,2,42,DET,DET,reb,0,False,False,,Pistons Rebound,48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.3,2,2,42,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 3 Short 0),,48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.38,2,2,37,DET,DET,tov,1,False,True,,Mykhailiuk Bad Pass Turnover (P2.T15),48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.38,2,2,37,DET,BOS,steal,1,False,True,steal,steal,48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.45,2,2,33,BOS,BOS,fg_make,41,False,False,Tatum Running Layup (15 PTS) (Walker 3 AST),,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.5,2,2,30,DET,BOS,foul,1,False,False,Williams P.FOUL (P2.PN) (J.Williams),,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.5,2,2,30,DET,DET,ft_miss,11,False,False,,MISS Drummond Free Throw 1 of 2,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.5,2,2,30,DET,DET,reb,1,False,False,,Pistons Rebound,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.5,2,2,30,DET,DET,ft_miss,12,False,False,,MISS Drummond Free Throw 2 of 2,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.55,2,2,27,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:3 Def:2),,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.83,2,2,10,BOS,BOS,tov,1,False,True,Walker Bad Pass Turnover (P2.T9),,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.83,2,2,10,BOS,DET,steal,1,False,True,steal,steal,50-40,50,40
+0021900422,2019-12-20,BOS,DET,21.9,2,2,6,DET,DET,fg_make,41,False,False,,Rose 1' Running Layup (8 PTS),50-42,50,42
+0021900422,2019-12-20,BOS,DET,22.17,2,1,50,BOS,BOS,tov,4,False,False,Kanter Traveling Turnover (P2.T10),,50-42,50,42
+0021900422,2019-12-20,BOS,DET,22.35,2,1,39,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 3PT Jump Shot,50-42,50,42
+0021900422,2019-12-20,BOS,DET,22.38,2,1,37,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:3),,50-42,50,42
+0021900422,2019-12-20,BOS,DET,22.47,2,1,32,BOS,BOS,fg3_make,1,False,False,Brown 3PT Jump Shot (12 PTS) (Walker 4 AST),,53-42,53,42
+0021900422,2019-12-20,BOS,DET,22.58,2,1,25,DET,DET,tov,2,False,True,,Brown Lost Ball Turnover (P3.T16),53-42,53,42
+0021900422,2019-12-20,BOS,DET,22.58,2,1,25,DET,BOS,steal,2,False,True,steal,steal,53-42,53,42
+0021900422,2019-12-20,BOS,DET,22.65,2,1,21,BOS,BOS,fg3_make,79,False,False,Brown 26' 3PT Pullup Jump Shot (15 PTS),,56-42,56,42
+0021900422,2019-12-20,BOS,DET,22.95,2,1,3,DET,DET,fg3_make,1,False,False,,Brown 3PT Jump Shot (5 PTS) (Rose 3 AST),56-45,56,45
+0021900422,2019-12-20,BOS,DET,23.28,2,0,43,BOS,BOS,fg3_miss,1,False,False,MISS Brown 26' 3PT Jump Shot,,56-45,56,45
+0021900422,2019-12-20,BOS,DET,23.32,2,0,41,DET,DET,reb,0,False,False,,Pistons Rebound,56-45,56,45
+0021900422,2019-12-20,BOS,DET,23.5,2,0,30,DET,DET,fg_miss,5,False,False,,MISS Doumbouya 3' Layup,56-45,56,45
+0021900422,2019-12-20,BOS,DET,23.55,2,0,27,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:6),56-45,56,45
+0021900422,2019-12-20,BOS,DET,23.63,2,0,22,DET,DET,fg3_make,1,False,False,,Galloway 27' 3PT Jump Shot (7 PTS) (Drummond 3 AST),56-48,56,48
+0021900422,2019-12-20,BOS,DET,23.98,2,0,1,BOS,BOS,fg3_make,1,False,False,Brown 27' 3PT Jump Shot (18 PTS) (Walker 5 AST),,59-48,59,48
+0021900422,2019-12-20,BOS,DET,23.98,2,0,1,BOS,DET,foul,2,False,False,,Galloway S.FOUL (P1.PN) (A.Smith),59-48,59,48
+0021900422,2019-12-20,BOS,DET,23.98,2,0,1,BOS,BOS,ft_make,10,False,False,Brown Free Throw 1 of 1 (19 PTS),,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.0,2,0,0,BOS,,period_end,0,False,False,,,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.0,3,12,0,BOS,,period_start,0,False,False,,,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.17,3,11,50,BOS,BOS,fg3_miss,1,False,False,MISS Brown 27' 3PT Jump Shot,,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.2,3,11,48,DET,DET,reb,0,False,False,,Morris REBOUND (Off:1 Def:3),60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.55,3,11,27,DET,DET,tov,2,False,True,,Drummond Lost Ball Turnover (P4.T17),60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.55,3,11,27,DET,BOS,steal,2,False,True,steal,steal,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.58,3,11,25,BOS,BOS,tov,1,False,True,Walker Bad Pass Turnover (P3.T11),,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.58,3,11,25,BOS,DET,steal,1,False,True,steal,steal,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.63,3,11,22,DET,DET,fg_miss,5,True,False,,MISS Drummond 1' Layup,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.63,3,11,22,DET,BOS,block,5,True,False,block,block,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.67,3,11,20,DET,DET,reb,0,False,False,,Pistons Rebound,60-48,60,48
+0021900422,2019-12-20,BOS,DET,24.73,3,11,16,DET,DET,fg_make,63,False,False,,Snell 22' Fadeaway Jumper (5 PTS) (Brown 3 AST),60-50,60,50
+0021900422,2019-12-20,BOS,DET,24.92,3,11,5,BOS,BOS,fg_make,108,False,False,Theis 2' Cutting Dunk Shot (3 PTS) (Walker 6 AST),,62-50,62,50
+0021900422,2019-12-20,BOS,DET,25.18,3,10,49,DET,DET,fg_make,51,False,False,,Drummond Reverse Dunk (6 PTS) (Morris 2 AST),62-52,62,52
+0021900422,2019-12-20,BOS,DET,25.42,3,10,35,BOS,BOS,tov,45,False,False,Walker Out of Bounds - Bad Pass Turnover Turnover (P4.T12),,62-52,62,52
+0021900422,2019-12-20,BOS,DET,25.62,3,10,23,DET,DET,fg_miss,79,False,False,,MISS Snell 15' Pullup Jump Shot,62-52,62,52
+0021900422,2019-12-20,BOS,DET,25.65,3,10,21,BOS,BOS,reb,0,False,False,Ojeleye REBOUND (Off:1 Def:1),,62-52,62,52
+0021900422,2019-12-20,BOS,DET,25.75,3,10,15,BOS,BOS,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,62-52,62,52
+0021900422,2019-12-20,BOS,DET,25.87,3,10,8,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:2 Def:3),,64-52,64,52
+0021900422,2019-12-20,BOS,DET,25.87,3,10,8,BOS,BOS,fg_make,107,False,False,Theis 1' Tip Dunk Shot (5 PTS),,64-52,64,52
+0021900422,2019-12-20,BOS,DET,26.12,3,9,53,DET,DET,fg_miss,6,True,False,,MISS Drummond 2' Driving Layup,64-52,64,52
+0021900422,2019-12-20,BOS,DET,26.12,3,9,53,DET,BOS,block,6,True,False,block,block,64-52,64,52
+0021900422,2019-12-20,BOS,DET,26.17,3,9,50,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:4),,64-52,64,52
+0021900422,2019-12-20,BOS,DET,26.23,3,9,46,BOS,DET,foul,2,False,False,,Brown S.FOUL (P2.T1) (A.Smith),64-52,64,52
+0021900422,2019-12-20,BOS,DET,26.23,3,9,46,BOS,BOS,ft_make,11,False,False,Tatum Free Throw 1 of 2 (16 PTS),,65-52,65,52
+0021900422,2019-12-20,BOS,DET,26.23,3,9,46,BOS,BOS,ft_make,12,False,False,Tatum Free Throw 2 of 2 (17 PTS),,66-52,66,52
+0021900422,2019-12-20,BOS,DET,26.47,3,9,32,DET,DET,tov,1,False,True,,Morris Bad Pass Turnover (P3.T18),66-52,66,52
+0021900422,2019-12-20,BOS,DET,26.47,3,9,32,DET,BOS,steal,1,False,True,steal,steal,66-52,66,52
+0021900422,2019-12-20,BOS,DET,26.58,3,9,25,BOS,BOS,tov,45,False,False,Walker Out of Bounds - Bad Pass Turnover Turnover (P5.T13),,66-52,66,52
+0021900422,2019-12-20,BOS,DET,26.85,3,9,9,DET,DET,fg_make,7,False,False,,Drummond 8' Dunk (8 PTS) (Brown 4 AST),66-54,66,54
+0021900422,2019-12-20,BOS,DET,27.17,3,8,50,BOS,BOS,fg_make,5,False,False,Tatum 6' Layup (19 PTS),,68-54,68,54
+0021900422,2019-12-20,BOS,DET,27.23,3,8,46,DET,BOS,foul,1,False,False,Theis P.FOUL (P2.T1) (A.Smith),,68-54,68,54
+0021900422,2019-12-20,BOS,DET,27.32,3,8,41,DET,DET,fg3_make,1,False,False,,Mykhailiuk 26' 3PT Jump Shot (6 PTS) (Brown 5 AST),68-57,68,57
+0021900422,2019-12-20,BOS,DET,27.68,3,8,19,BOS,BOS,fg3_make,80,False,False,Tatum 26' 3PT Step Back Jump Shot (22 PTS),,71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.0,3,8,0,DET,DET,tov,1,False,True,,Mykhailiuk Bad Pass Turnover (P3.T19),71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.0,3,8,0,DET,BOS,steal,1,False,True,steal,steal,71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.25,3,7,45,BOS,BOS,tov,45,False,False,Walker Out of Bounds - Bad Pass Turnover Turnover (P6.T14),,71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.4,3,7,36,DET,DET,fg_miss,102,False,False,,MISS Brown 2' Driving Floating Bank Jump Shot,71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.43,3,7,34,DET,DET,reb,0,False,False,,Brown REBOUND (Off:3 Def:1),71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.45,3,7,33,DET,DET,fg_miss,72,False,False,,MISS Brown 2' Putback Layup,71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.47,3,7,32,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:2 Def:6),71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.47,3,7,32,DET,BOS,foul,2,False,False,Theis S.FOUL (P3.T2) (J.Williams),,71-57,71,57
+0021900422,2019-12-20,BOS,DET,28.47,3,7,32,DET,DET,ft_make,11,False,False,,Drummond Free Throw 1 of 2 (9 PTS),71-58,71,58
+0021900422,2019-12-20,BOS,DET,28.47,3,7,32,DET,DET,ft_miss,12,False,False,,MISS Drummond Free Throw 2 of 2,71-58,71,58
+0021900422,2019-12-20,BOS,DET,28.5,3,7,30,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:5),,71-58,71,58
+0021900422,2019-12-20,BOS,DET,28.78,3,7,13,BOS,BOS,fg_make,57,False,False,Tatum 9' Driving Hook Shot (24 PTS) (Walker 7 AST),,73-58,73,58
+0021900422,2019-12-20,BOS,DET,29.07,3,6,56,DET,DET,fg3_make,1,False,False,,Mykhailiuk 25' 3PT Jump Shot (9 PTS) (Drummond 4 AST),73-61,73,61
+0021900422,2019-12-20,BOS,DET,29.5,3,6,30,BOS,BOS,tov,2,False,True,Walker Lost Ball Turnover (P7.T15),,73-61,73,61
+0021900422,2019-12-20,BOS,DET,29.5,3,6,30,BOS,DET,steal,2,False,True,steal,steal,73-61,73,61
+0021900422,2019-12-20,BOS,DET,29.55,3,6,27,DET,DET,fg_make,50,False,False,,Drummond Running Dunk (11 PTS),73-63,73,63
+0021900422,2019-12-20,BOS,DET,29.98,3,6,1,BOS,BOS,fg3_make,1,False,False,Brown 24' 3PT Jump Shot (22 PTS) (Tatum 2 AST),,76-63,76,63
+0021900422,2019-12-20,BOS,DET,30.15,3,5,51,DET,DET,tov,2,False,True,,Brown Lost Ball Turnover (P4.T20),76-63,76,63
+0021900422,2019-12-20,BOS,DET,30.15,3,5,51,DET,BOS,steal,2,False,True,steal,steal,76-63,76,63
+0021900422,2019-12-20,BOS,DET,30.3,3,5,42,BOS,BOS,fg_make,101,False,False,Brown 9' Driving Floating Jump Shot (24 PTS) (Tatum 3 AST),,78-63,78,63
+0021900422,2019-12-20,BOS,DET,30.33,3,5,40,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),78-63,78,63
+0021900422,2019-12-20,BOS,DET,30.5,3,5,30,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 25' 3PT Jump Shot,78-63,78,63
+0021900422,2019-12-20,BOS,DET,30.53,3,5,28,DET,DET,reb,0,False,False,,Pistons Rebound,78-63,78,63
+0021900422,2019-12-20,BOS,DET,30.53,3,5,28,DET,BOS,foul,3,False,False,Theis L.B.FOUL (P4.T3) (J.Goldenberg),,78-63,78,63
+0021900422,2019-12-20,BOS,DET,30.73,3,5,16,DET,DET,tov,8,False,False,,Drummond 3 Second Violation Turnover (P5.T21),78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.0,3,5,0,BOS,BOS,fg3_miss,80,False,False,MISS Tatum 27' 3PT Step Back Jump Shot,,78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.03,3,4,58,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:2),78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.15,3,4,51,DET,DET,fg_miss,78,False,False,,MISS Rose 12' Floating Jump Shot,78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.18,3,4,49,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:6),78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.2,3,4,48,DET,DET,fg_miss,72,True,False,,MISS Drummond 1' Putback Layup,78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.2,3,4,48,DET,BOS,block,72,True,False,block,block,78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.23,3,4,46,BOS,BOS,reb,0,False,False,Walker REBOUND (Off:0 Def:2),,78-63,78,63
+0021900422,2019-12-20,BOS,DET,31.28,3,4,43,BOS,BOS,fg_make,52,False,False,Theis 1' Alley Oop Dunk (7 PTS) (Brown 5 AST),,80-63,80,63
+0021900422,2019-12-20,BOS,DET,31.28,3,4,43,BOS,DET,foul,2,False,False,,Mykhailiuk S.FOUL (P1.T2) (J.Goldenberg),80-63,80,63
+0021900422,2019-12-20,BOS,DET,31.28,3,4,43,BOS,BOS,ft_make,10,False,False,Theis Free Throw 1 of 1 (8 PTS),,81-63,81,63
+0021900422,2019-12-20,BOS,DET,31.63,3,4,22,DET,DET,fg3_miss,1,False,False,,MISS Drummond 27' 3PT Jump Shot,81-63,81,63
+0021900422,2019-12-20,BOS,DET,31.67,3,4,20,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:2 Def:4),,81-63,81,63
+0021900422,2019-12-20,BOS,DET,31.88,3,4,7,BOS,DET,foul,1,False,False,,Morris P.FOUL (P3.T3) (J.Williams),81-63,81,63
+0021900422,2019-12-20,BOS,DET,31.88,3,4,7,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),81-63,81,63
+0021900422,2019-12-20,BOS,DET,31.93,3,4,4,BOS,DET,foul,1,False,False,,Drummond P.FOUL (P2.T4) (J.Williams),81-63,81,63
+0021900422,2019-12-20,BOS,DET,32.08,3,3,55,BOS,BOS,fg3_miss,1,False,False,MISS Wanamaker 26' 3PT Jump Shot,,81-63,81,63
+0021900422,2019-12-20,BOS,DET,32.15,3,3,51,DET,DET,reb,0,False,False,,Morris REBOUND (Off:1 Def:4),81-63,81,63
+0021900422,2019-12-20,BOS,DET,32.27,3,3,44,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 24' 3PT Jump Shot,81-63,81,63
+0021900422,2019-12-20,BOS,DET,32.28,3,3,43,BOS,BOS,reb,0,False,False,Wanamaker REBOUND (Off:0 Def:3),,81-63,81,63
+0021900422,2019-12-20,BOS,DET,32.35,3,3,39,BOS,DET,foul,1,False,False,,Mykhailiuk P.FOUL (P2.PN) (J.Goldenberg),81-63,81,63
+0021900422,2019-12-20,BOS,DET,32.35,3,3,39,BOS,BOS,ft_make,11,False,False,Brown Free Throw 1 of 2 (25 PTS),,82-63,82,63
+0021900422,2019-12-20,BOS,DET,32.35,3,3,39,BOS,BOS,ft_make,12,False,False,Brown Free Throw 2 of 2 (26 PTS),,83-63,83,63
+0021900422,2019-12-20,BOS,DET,32.68,3,3,19,DET,DET,fg3_miss,1,False,False,,MISS Morris 27' 3PT Jump Shot,83-63,83,63
+0021900422,2019-12-20,BOS,DET,32.73,3,3,16,DET,DET,reb,0,False,False,,Pistons Rebound,83-63,83,63
+0021900422,2019-12-20,BOS,DET,32.95,3,3,3,DET,DET,fg3_miss,1,False,False,,MISS Rose 26' 3PT Jump Shot,83-63,83,63
+0021900422,2019-12-20,BOS,DET,32.97,3,3,2,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:3 Def:3),,83-63,83,63
+0021900422,2019-12-20,BOS,DET,33.15,3,2,51,BOS,DET,foul,1,False,False,,Galloway P.FOUL (P2.PN) (A.Smith),83-63,83,63
+0021900422,2019-12-20,BOS,DET,33.15,3,2,51,BOS,BOS,ft_make,11,False,False,Tatum Free Throw 1 of 2 (25 PTS),,84-63,84,63
+0021900422,2019-12-20,BOS,DET,33.15,3,2,51,BOS,BOS,ft_make,12,False,False,Tatum Free Throw 2 of 2 (26 PTS),,85-63,85,63
+0021900422,2019-12-20,BOS,DET,33.35,3,2,39,DET,BOS,foul,2,False,False,Brown S.FOUL (P2.T4) (J.Goldenberg),,85-63,85,63
+0021900422,2019-12-20,BOS,DET,33.35,3,2,39,DET,DET,ft_make,11,False,False,,Maker Free Throw 1 of 2 (9 PTS),85-64,85,64
+0021900422,2019-12-20,BOS,DET,33.35,3,2,39,DET,DET,ft_miss,12,False,False,,MISS Maker Free Throw 2 of 2,85-64,85,64
+0021900422,2019-12-20,BOS,DET,33.35,3,2,39,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:3 Def:4),,85-64,85,64
+0021900422,2019-12-20,BOS,DET,33.58,3,2,25,BOS,BOS,fg_miss,63,False,False,MISS Brown 13' Fadeaway Jumper,,85-64,85,64
+0021900422,2019-12-20,BOS,DET,33.65,3,2,21,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:7),85-64,85,64
+0021900422,2019-12-20,BOS,DET,33.77,3,2,14,DET,DET,fg3_miss,1,False,False,,MISS Galloway 26' 3PT Jump Shot,85-64,85,64
+0021900422,2019-12-20,BOS,DET,33.8,3,2,12,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:3 Def:5),,85-64,85,64
+0021900422,2019-12-20,BOS,DET,33.95,3,2,3,BOS,BOS,fg_make,101,False,False,Wanamaker 16' Driving Floating Jump Shot (6 PTS),,87-64,87,64
+0021900422,2019-12-20,BOS,DET,34.13,3,1,52,DET,DET,fg_miss,73,True,False,,MISS Rose 2' Driving Reverse Layup,87-64,87,64
+0021900422,2019-12-20,BOS,DET,34.13,3,1,52,DET,BOS,block,73,True,False,block,block,87-64,87,64
+0021900422,2019-12-20,BOS,DET,34.15,3,1,51,DET,DET,reb,0,False,False,,Pistons Rebound,87-64,87,64
+0021900422,2019-12-20,BOS,DET,34.22,3,1,47,DET,DET,fg_make,75,False,False,,Snell 4' Driving Finger Roll Layup (7 PTS) (Rose 4 AST),87-66,87,66
+0021900422,2019-12-20,BOS,DET,34.43,3,1,34,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 26' 3PT Jump Shot,,87-66,87,66
+0021900422,2019-12-20,BOS,DET,34.47,3,1,32,DET,DET,reb,0,False,False,,Galloway REBOUND (Off:0 Def:2),87-66,87,66
+0021900422,2019-12-20,BOS,DET,34.6,3,1,24,DET,BOS,foul,1,False,False,Wanamaker P.FOUL (P3.PN) (J.Goldenberg),,87-66,87,66
+0021900422,2019-12-20,BOS,DET,34.6,3,1,24,DET,DET,ft_make,11,False,False,,Rose Free Throw 1 of 2 (9 PTS),87-67,87,67
+0021900422,2019-12-20,BOS,DET,34.6,3,1,24,DET,DET,ft_make,12,False,False,,Rose Free Throw 2 of 2 (10 PTS),87-68,87,68
+0021900422,2019-12-20,BOS,DET,34.9,3,1,6,BOS,BOS,fg_make,101,False,False,Williams 6' Driving Floating Jump Shot (9 PTS) (Walker 8 AST),,89-68,89,68
+0021900422,2019-12-20,BOS,DET,35.13,3,0,52,DET,BOS,foul,2,False,False,Kanter S.FOUL (P1.PN) (J.Williams),,89-68,89,68
+0021900422,2019-12-20,BOS,DET,35.13,3,0,52,DET,DET,ft_make,11,False,False,,Drummond Free Throw 1 of 2 (12 PTS),89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.13,3,0,52,DET,DET,ft_miss,12,False,False,,MISS Drummond Free Throw 2 of 2,89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.13,3,0,52,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:4 Def:7),89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.27,3,0,44,DET,DET,tov,1,False,True,,Drummond Bad Pass Turnover (P6.T22),89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.27,3,0,44,DET,BOS,steal,1,False,True,steal,steal,89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.37,3,0,38,BOS,BOS,fg_miss,101,False,False,MISS Wanamaker 6' Driving Floating Jump Shot,,89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.4,3,0,36,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:4 Def:5),,89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.4,3,0,36,BOS,BOS,fg_miss,97,False,False,MISS Kanter 1' Tip Layup Shot,,89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.43,3,0,34,BOS,BOS,reb,0,False,False,Williams REBOUND (Off:2 Def:0),,89-69,89,69
+0021900422,2019-12-20,BOS,DET,35.62,3,0,23,BOS,BOS,fg_make,80,False,False,Williams 8' Step Back Jump Shot (11 PTS),,91-69,91,69
+0021900422,2019-12-20,BOS,DET,35.97,3,0,2,DET,DET,fg3_miss,1,False,False,,MISS Maker 24' 3PT Jump Shot,91-69,91,69
+0021900422,2019-12-20,BOS,DET,35.98,3,0,1,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:4 Def:6),,91-69,91,69
+0021900422,2019-12-20,BOS,DET,36.0,3,0,0,BOS,,period_end,0,False,False,,,91-69,91,69
+0021900422,2019-12-20,BOS,DET,36.0,4,12,0,BOS,,period_start,0,False,False,,,91-69,91,69
+0021900422,2019-12-20,BOS,DET,36.2,4,11,48,DET,DET,fg_make,6,False,False,,Rose 2' Driving Layup (12 PTS),91-71,91,71
+0021900422,2019-12-20,BOS,DET,36.48,4,11,31,BOS,BOS,fg_miss,3,False,False,MISS Kanter 2' Hook Shot,,91-71,91,71
+0021900422,2019-12-20,BOS,DET,36.53,4,11,28,DET,DET,reb,0,False,False,,Morris REBOUND (Off:1 Def:5),91-71,91,71
+0021900422,2019-12-20,BOS,DET,36.77,4,11,14,DET,DET,fg3_miss,1,False,False,,MISS Morris 26' 3PT Jump Shot,91-71,91,71
+0021900422,2019-12-20,BOS,DET,36.82,4,11,11,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:4 Def:7),,91-71,91,71
+0021900422,2019-12-20,BOS,DET,37.0,4,11,0,BOS,BOS,fg_miss,75,False,False,MISS Green 4' Driving Finger Roll Layup,,91-71,91,71
+0021900422,2019-12-20,BOS,DET,37.02,4,10,59,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:5 Def:7),,91-71,91,71
+0021900422,2019-12-20,BOS,DET,37.02,4,10,59,BOS,BOS,fg_make,97,False,False,Kanter 1' Tip Layup Shot (4 PTS),,93-71,93,71
+0021900422,2019-12-20,BOS,DET,37.02,4,10,59,BOS,DET,violation,2,False,False,,Maker Violation:Defensive Goaltending (A.Smith),93-71,93,71
+0021900422,2019-12-20,BOS,DET,37.2,4,10,48,DET,DET,fg_make,1,False,False,,Rose 17' Jump Shot (14 PTS),93-73,93,73
+0021900422,2019-12-20,BOS,DET,37.5,4,10,30,BOS,BOS,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,93-73,93,73
+0021900422,2019-12-20,BOS,DET,37.5,4,10,30,DET,DET,reb,0,False,False,,Pistons Rebound,93-73,93,73
+0021900422,2019-12-20,BOS,DET,37.77,4,10,14,DET,DET,fg3_miss,1,False,False,,MISS Maker 26' 3PT Jump Shot,93-73,93,73
+0021900422,2019-12-20,BOS,DET,37.77,4,10,14,BOS,BOS,reb,0,False,False,Walker REBOUND (Off:0 Def:3),,93-73,93,73
+0021900422,2019-12-20,BOS,DET,37.92,4,10,5,BOS,BOS,fg3_make,1,False,False,Williams 26' 3PT Jump Shot (14 PTS) (Walker 9 AST),,96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.07,4,9,56,DET,DET,fg3_miss,1,False,False,,MISS Galloway 24' 3PT Jump Shot,96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.08,4,9,55,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:5 Def:8),,96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.38,4,9,37,BOS,DET,violation,5,False,False,,Maker Violation:Kicked Ball (J.Williams),96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.58,4,9,25,BOS,BOS,fg_miss,101,False,False,MISS Langford 8' Driving Floating Jump Shot,,96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.62,4,9,23,DET,DET,reb,0,False,False,,Maker REBOUND (Off:2 Def:1),96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.62,4,9,23,DET,DET,tov,7,False,False,,Maker Discontinue Dribble Turnover (P2.T23),96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.78,4,9,13,BOS,BOS,fg3_miss,1,False,False,MISS Walker 25' 3PT Jump Shot,,96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.8,4,9,12,BOS,BOS,reb,0,False,False,Williams REBOUND (Off:3 Def:0),,96-73,96,73
+0021900422,2019-12-20,BOS,DET,38.8,4,9,12,BOS,BOS,fg_make,107,False,False,Williams 1' Tip Dunk Shot (16 PTS),,98-73,98,73
+0021900422,2019-12-20,BOS,DET,38.83,4,9,10,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.4 Short 0),98-73,98,73
+0021900422,2019-12-20,BOS,DET,39.07,4,8,56,DET,DET,fg_miss,1,False,False,,MISS Morris 14' Jump Shot,98-73,98,73
+0021900422,2019-12-20,BOS,DET,39.17,4,8,50,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:5 Def:9),,98-73,98,73
+0021900422,2019-12-20,BOS,DET,39.38,4,8,37,BOS,BOS,fg_make,99,False,False,Williams 4' Cutting Finger Roll Layup Shot (18 PTS) (Walker 10 AST),,100-73,100,73
+0021900422,2019-12-20,BOS,DET,39.68,4,8,19,DET,DET,fg_miss,79,False,False,,MISS Rose 17' Pullup Jump Shot,100-73,100,73
+0021900422,2019-12-20,BOS,DET,39.75,4,8,15,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:5 Def:10),,100-73,100,73
+0021900422,2019-12-20,BOS,DET,39.9,4,8,6,BOS,BOS,fg3_miss,1,False,False,MISS Williams 3PT Jump Shot,,100-73,100,73
+0021900422,2019-12-20,BOS,DET,39.93,4,8,4,DET,DET,reb,0,False,False,,Snell REBOUND (Off:0 Def:2),100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.05,4,7,57,DET,DET,fg3_miss,1,False,False,,MISS Morris 28' 3PT Jump Shot,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.08,4,7,55,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:5 Def:11),,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.42,4,7,35,BOS,BOS,fg_miss,57,False,False,MISS Kanter 3' Driving Hook Shot,,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.43,4,7,34,BOS,BOS,reb,0,False,False,Green REBOUND (Off:1 Def:1),,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.43,4,7,34,BOS,BOS,fg_miss,97,False,False,MISS Green 1' Tip Layup Shot,,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.45,4,7,33,DET,DET,reb,0,False,False,,Pistons Rebound,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.5,4,7,30,,BOS,jump_ball,0,False,False,Jump Ball Kanter vs. Maker: Tip to Rose,,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.72,4,7,17,DET,DET,fg_miss,1,True,False,,MISS Galloway 16' Jump Shot,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.72,4,7,17,DET,BOS,block,1,True,False,block,block,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.72,4,7,17,BOS,BOS,reb,0,False,False,Green REBOUND (Off:1 Def:2),,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.77,4,7,14,BOS,BOS,fg_miss,41,False,False,MISS Green 2' Running Layup,,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.82,4,7,11,DET,DET,reb,0,False,False,,Maker REBOUND (Off:2 Def:2),100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.87,4,7,8,DET,BOS,foul,1,False,False,Langford P.FOUL (P2.T1) (J.Goldenberg),,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.87,4,7,8,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.5 Short 0),100-73,100,73
+0021900422,2019-12-20,BOS,DET,41.02,4,6,59,DET,DET,fg3_make,1,False,False,,Galloway 28' 3PT Jump Shot (10 PTS) (Frazier 1 AST),100-76,100,76
+0021900422,2019-12-20,BOS,DET,41.32,4,6,41,BOS,BOS,fg_make,101,False,False,Langford 16' Driving Floating Jump Shot (4 PTS) (Walker 11 AST),,102-76,102,76
+0021900422,2019-12-20,BOS,DET,41.45,4,6,33,DET,DET,fg_make,41,False,False,,Brown 3' Running Layup (7 PTS) (Frazier 2 AST),102-78,102,78
+0021900422,2019-12-20,BOS,DET,41.62,4,6,23,BOS,DET,foul,2,False,False,,Frazier S.FOUL (P1.T1) (J.Goldenberg),102-78,102,78
+0021900422,2019-12-20,BOS,DET,41.62,4,6,23,BOS,DET,foul,11,False,False,,Morris T.FOUL (P3.T1) (J.Goldenberg),102-78,102,78
+0021900422,2019-12-20,BOS,DET,41.62,4,6,23,BOS,BOS,ft_make,16,False,False,Walker Free Throw Technical (2 PTS),,103-78,103,78
+0021900422,2019-12-20,BOS,DET,41.62,4,6,23,BOS,BOS,ft_miss,11,False,False,MISS Kanter Free Throw 1 of 2,,103-78,103,78
+0021900422,2019-12-20,BOS,DET,41.62,4,6,23,BOS,BOS,reb,1,False,False,CELTICS Rebound,,103-78,103,78
+0021900422,2019-12-20,BOS,DET,41.62,4,6,23,BOS,BOS,ft_miss,12,False,False,MISS Kanter Free Throw 2 of 2,,103-78,103,78
+0021900422,2019-12-20,BOS,DET,41.62,4,6,23,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:1),103-78,103,78
+0021900422,2019-12-20,BOS,DET,41.95,4,6,3,DET,DET,fg_miss,6,False,False,,MISS Brown 9' Driving Layup,103-78,103,78
+0021900422,2019-12-20,BOS,DET,41.97,4,6,2,DET,DET,reb,0,False,False,,Maker REBOUND (Off:3 Def:2),103-78,103,78
+0021900422,2019-12-20,BOS,DET,42.1,4,5,54,DET,DET,fg_make,6,False,False,,Doumbouya 4' Driving Layup (2 PTS) (Frazier 3 AST),103-80,103,80
+0021900422,2019-12-20,BOS,DET,42.4,4,5,36,BOS,BOS,fg_make,101,False,False,Kanter 9' Driving Floating Jump Shot (6 PTS),,105-80,105,80
+0021900422,2019-12-20,BOS,DET,42.57,4,5,26,DET,DET,fg3_miss,1,False,False,,MISS Galloway 24' 3PT Jump Shot,105-80,105,80
+0021900422,2019-12-20,BOS,DET,42.58,4,5,25,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:5 Def:12),,105-80,105,80
+0021900422,2019-12-20,BOS,DET,42.78,4,5,13,BOS,BOS,fg_make,98,False,False,Kanter 2' Cutting Layup Shot (8 PTS) (Green 1 AST),,107-80,107,80
+0021900422,2019-12-20,BOS,DET,43.2,4,4,48,DET,DET,fg_miss,1,False,False,,MISS Maker 18' Jump Shot,107-80,107,80
+0021900422,2019-12-20,BOS,DET,43.22,4,4,47,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:5 Def:13),,107-80,107,80
+0021900422,2019-12-20,BOS,DET,43.4,4,4,36,BOS,BOS,fg3_miss,1,False,False,MISS Langford 24' 3PT Jump Shot,,107-80,107,80
+0021900422,2019-12-20,BOS,DET,43.45,4,4,33,DET,DET,reb,0,False,False,,Maker REBOUND (Off:3 Def:3),107-80,107,80
+0021900422,2019-12-20,BOS,DET,43.48,4,4,31,DET,BOS,foul,1,False,False,Wanamaker P.FOUL (P4.T2) (A.Smith),,107-80,107,80
+0021900422,2019-12-20,BOS,DET,43.62,4,4,23,DET,BOS,foul,2,False,False,Fall S.FOUL (P1.T3) (J.Williams),,107-80,107,80
+0021900422,2019-12-20,BOS,DET,43.62,4,4,23,DET,DET,ft_make,11,False,False,,Maker Free Throw 1 of 2 (10 PTS),107-81,107,81
+0021900422,2019-12-20,BOS,DET,43.62,4,4,23,DET,DET,ft_make,12,False,False,,Maker Free Throw 2 of 2 (11 PTS),107-82,107,82
+0021900422,2019-12-20,BOS,DET,43.85,4,4,9,BOS,BOS,fg_make,101,False,False,Langford 10' Driving Floating Jump Shot (6 PTS),,109-82,109,82
+0021900422,2019-12-20,BOS,DET,44.12,4,3,53,DET,DET,tov,2,False,True,,Doumbouya Lost Ball Turnover (P1.T24),109-82,109,82
+0021900422,2019-12-20,BOS,DET,44.12,4,3,53,DET,BOS,steal,2,False,True,steal,steal,109-82,109,82
+0021900422,2019-12-20,BOS,DET,44.17,4,3,50,BOS,BOS,tov,2,False,True,Langford Lost Ball Turnover (P1.T16),,109-82,109,82
+0021900422,2019-12-20,BOS,DET,44.17,4,3,50,BOS,DET,steal,2,False,True,steal,steal,109-82,109,82
+0021900422,2019-12-20,BOS,DET,44.42,4,3,35,DET,DET,tov,45,False,False,,Maker Out of Bounds - Bad Pass Turnover Turnover (P3.T25),109-82,109,82
+0021900422,2019-12-20,BOS,DET,44.6,4,3,24,BOS,BOS,tov,45,False,False,Wanamaker Out of Bounds - Bad Pass Turnover Turnover (P2.T17),,109-82,109,82
+0021900422,2019-12-20,BOS,DET,44.68,4,3,19,DET,DET,fg_make,50,False,False,,Maker 1' Running Dunk (13 PTS) (Frazier 4 AST),109-84,109,84
+0021900422,2019-12-20,BOS,DET,45.13,4,2,52,BOS,BOS,tov,2,False,True,Fall Lost Ball Turnover (P1.T18),,109-84,109,84
+0021900422,2019-12-20,BOS,DET,45.13,4,2,52,BOS,DET,steal,2,False,True,steal,steal,109-84,109,84
+0021900422,2019-12-20,BOS,DET,45.18,4,2,49,DET,BOS,foul,2,False,False,Green S.FOUL (P1.T4) (J.Williams),,109-84,109,84
+0021900422,2019-12-20,BOS,DET,45.18,4,2,49,DET,DET,ft_make,11,False,False,,Maker Free Throw 1 of 2 (14 PTS),109-85,109,85
+0021900422,2019-12-20,BOS,DET,45.18,4,2,49,DET,DET,ft_make,12,False,False,,Maker Free Throw 2 of 2 (15 PTS),109-86,109,86
+0021900422,2019-12-20,BOS,DET,45.35,4,2,39,DET,BOS,foul,4,False,False,Williams OFF.Foul (P3) (J.Goldenberg),,109-86,109,86
+0021900422,2019-12-20,BOS,DET,45.35,4,2,39,BOS,BOS,tov,37,False,False,Williams Offensive Foul Turnover (P1.T19),,109-86,109,86
+0021900422,2019-12-20,BOS,DET,45.52,4,2,29,DET,DET,fg_make,79,False,False,,Frazier 19' Pullup Jump Shot (2 PTS),109-88,109,88
+0021900422,2019-12-20,BOS,DET,45.93,4,2,4,BOS,BOS,fg_miss,6,False,False,MISS Green 5' Driving Layup,,109-88,109,88
+0021900422,2019-12-20,BOS,DET,45.95,4,2,3,DET,DET,reb,0,False,False,,Brown REBOUND (Off:3 Def:2),109-88,109,88
+0021900422,2019-12-20,BOS,DET,46.0,4,2,0,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.6 Short 0),109-88,109,88
+0021900422,2019-12-20,BOS,DET,46.18,4,1,49,DET,DET,fg_miss,98,True,False,,MISS Doumbouya 4' Cutting Layup Shot,109-88,109,88
+0021900422,2019-12-20,BOS,DET,46.18,4,1,49,DET,BOS,block,98,True,False,block,block,109-88,109,88
+0021900422,2019-12-20,BOS,DET,46.23,4,1,46,BOS,BOS,reb,0,False,False,Fall REBOUND (Off:0 Def:1),,109-88,109,88
+0021900422,2019-12-20,BOS,DET,46.53,4,1,28,BOS,BOS,fg_make,58,False,False,Fall 6' Turnaround Hook Shot (2 PTS),,111-88,111,88
+0021900422,2019-12-20,BOS,DET,46.65,4,1,21,DET,DET,fg_miss,73,False,False,,MISS Mykhailiuk 2' Driving Reverse Layup,111-88,111,88
+0021900422,2019-12-20,BOS,DET,46.7,4,1,18,BOS,BOS,reb,0,False,False,Fall REBOUND (Off:0 Def:2),,111-88,111,88
+0021900422,2019-12-20,BOS,DET,46.8,4,1,12,BOS,BOS,tov,2,False,True,Fall Lost Ball Turnover (P2.T20),,111-88,111,88
+0021900422,2019-12-20,BOS,DET,46.8,4,1,12,BOS,DET,steal,2,False,True,steal,steal,111-88,111,88
+0021900422,2019-12-20,BOS,DET,46.85,4,1,9,DET,DET,fg_make,50,False,False,,Brown 1' Running Dunk (9 PTS),111-90,111,90
+0021900422,2019-12-20,BOS,DET,47.07,4,0,56,BOS,DET,foul,1,False,False,,Brown P.FOUL (P3.T2) (A.Smith),111-90,111,90
+0021900422,2019-12-20,BOS,DET,47.13,4,0,52,BOS,DET,foul,2,False,False,,Maker S.FOUL (P2.PN) (J.Williams),111-90,111,90
+0021900422,2019-12-20,BOS,DET,47.13,4,0,52,BOS,BOS,ft_make,11,False,False,Fall Free Throw 1 of 2 (3 PTS),,112-90,112,90
+0021900422,2019-12-20,BOS,DET,47.13,4,0,52,BOS,BOS,ft_miss,12,False,False,MISS Fall Free Throw 2 of 2,,112-90,112,90
+0021900422,2019-12-20,BOS,DET,47.13,4,0,52,DET,DET,reb,0,False,False,,Maker REBOUND (Off:3 Def:4),112-90,112,90
+0021900422,2019-12-20,BOS,DET,47.27,4,0,44,DET,DET,fg3_make,1,False,False,,Mykhailiuk 27' 3PT Jump Shot (12 PTS) (Frazier 5 AST),112-93,112,93
+0021900422,2019-12-20,BOS,DET,47.47,4,0,32,BOS,BOS,fg_make,108,False,False,Fall 1' Cutting Dunk Shot (5 PTS) (Wanamaker 3 AST),,114-93,114,93
+0021900422,2019-12-20,BOS,DET,47.72,4,0,17,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 26' 3PT Jump Shot,114-93,114,93
+0021900422,2019-12-20,BOS,DET,47.73,4,0,16,BOS,BOS,reb,0,False,False,Green REBOUND (Off:1 Def:3),,114-93,114,93
+0021900422,2019-12-20,BOS,DET,48.0,4,0,0,BOS,,period_end,0,False,False,,,114-93,114,93

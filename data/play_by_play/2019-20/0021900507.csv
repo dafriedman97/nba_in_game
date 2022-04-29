@@ -1,0 +1,463 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900507,2020-01-01,LAL,PHX,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900507,2020-01-01,LAL,PHX,0.0,1,12,0,,LAL,jump_ball,0,False,False,,,0-0,0,0
+0021900507,2020-01-01,LAL,PHX,0.27,1,11,44,PHX,PHX,fg_miss,75,True,False,,MISS Oubre Jr. 2' Driving Finger Roll Layup,0-0,0,0
+0021900507,2020-01-01,LAL,PHX,0.27,1,11,44,PHX,LAL,block,75,True,False,block,block,0-0,0,0
+0021900507,2020-01-01,LAL,PHX,0.32,1,11,41,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:1),,0-0,0,0
+0021900507,2020-01-01,LAL,PHX,0.35,1,11,39,LAL,PHX,foul,1,False,False,,Oubre Jr. P.FOUL (P1.T1) (K.Cutler),0-0,0,0
+0021900507,2020-01-01,LAL,PHX,0.45,1,11,33,LAL,LAL,fg_make,99,False,False,Green 2' Cutting Finger Roll Layup Shot (2 PTS) (McGee 1 AST),,2-0,2,0
+0021900507,2020-01-01,LAL,PHX,0.58,1,11,25,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P1.T1),2-0,2,0
+0021900507,2020-01-01,LAL,PHX,0.58,1,11,25,PHX,LAL,steal,1,False,True,steal,steal,2-0,2,0
+0021900507,2020-01-01,LAL,PHX,0.83,1,11,10,LAL,LAL,fg_make,86,False,False,James 12' Turnaround Fadeaway (2 PTS),,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.1,1,10,54,PHX,PHX,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.2,1,10,48,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:1 Def:0),4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.23,1,10,46,PHX,PHX,fg_miss,73,False,False,,MISS Rubio 2' Driving Reverse Layup,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.37,1,10,38,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:0),4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.37,1,10,38,PHX,PHX,fg_miss,107,False,False,,MISS Oubre Jr. 1' Tip Dunk Shot,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.38,1,10,37,LAL,LAL,reb,0,False,False,Green REBOUND (Off:0 Def:1),,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.42,1,10,35,LAL,LAL,tov,4,False,False,Bradley Traveling Turnover (P1.T1),,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.6,1,10,24,PHX,PHX,fg_miss,98,False,False,,MISS Saric 2' Cutting Layup Shot,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.68,1,10,19,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,4-0,4,0
+0021900507,2020-01-01,LAL,PHX,1.75,1,10,15,LAL,LAL,fg_make,80,False,False,Davis 17' Step Back Jump Shot (2 PTS),,6-0,6,0
+0021900507,2020-01-01,LAL,PHX,2.02,1,9,59,PHX,PHX,fg_make,101,False,False,,Booker 6' Driving Floating Jump Shot (2 PTS) (Baynes 1 AST),6-2,6,2
+0021900507,2020-01-01,LAL,PHX,2.28,1,9,43,LAL,LAL,fg3_make,1,False,False,Green 24' 3PT Jump Shot (5 PTS) (Davis 1 AST),,9-2,9,2
+0021900507,2020-01-01,LAL,PHX,2.52,1,9,29,PHX,PHX,fg_make,78,False,False,,Saric 10' Floating Jump Shot (2 PTS) (Rubio 1 AST),9-4,9,4
+0021900507,2020-01-01,LAL,PHX,2.58,1,9,25,LAL,PHX,foul,1,False,False,,Saric P.FOUL (P1.T2) (M.Dagher),9-4,9,4
+0021900507,2020-01-01,LAL,PHX,2.78,1,9,13,LAL,LAL,fg_make,98,False,False,McGee 2' Cutting Layup Shot (2 PTS) (James 1 AST),,11-4,11,4
+0021900507,2020-01-01,LAL,PHX,3.0,1,9,0,PHX,PHX,fg_miss,5,True,False,,MISS Booker 2' Layup,11-4,11,4
+0021900507,2020-01-01,LAL,PHX,3.0,1,9,0,PHX,LAL,block,5,True,False,block,block,11-4,11,4
+0021900507,2020-01-01,LAL,PHX,3.05,1,8,57,PHX,PHX,reb,0,False,False,,Baynes REBOUND (Off:1 Def:0),11-4,11,4
+0021900507,2020-01-01,LAL,PHX,3.07,1,8,56,PHX,PHX,fg_make,1,False,False,,Booker 8' Jump Shot (4 PTS) (Baynes 2 AST),11-6,11,6
+0021900507,2020-01-01,LAL,PHX,3.15,1,8,51,LAL,LAL,fg_make,100,False,False,Davis 2' Running Alley Oop Layup Shot (4 PTS) (James 2 AST),,13-6,13,6
+0021900507,2020-01-01,LAL,PHX,3.33,1,8,40,PHX,PHX,fg_make,79,False,False,,Booker 16' Pullup Jump Shot (6 PTS) (Rubio 2 AST),13-8,13,8
+0021900507,2020-01-01,LAL,PHX,3.48,1,8,31,LAL,LAL,fg_make,103,False,False,Bradley 19' Running Pull-Up Jump Shot (2 PTS),,15-8,15,8
+0021900507,2020-01-01,LAL,PHX,3.65,1,8,21,PHX,LAL,foul,1,False,False,Green P.FOUL (P1.T1) (K.Cutler),,15-8,15,8
+0021900507,2020-01-01,LAL,PHX,3.9,1,8,6,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P2.T2),15-8,15,8
+0021900507,2020-01-01,LAL,PHX,3.9,1,8,6,PHX,LAL,steal,1,False,True,steal,steal,15-8,15,8
+0021900507,2020-01-01,LAL,PHX,4.02,1,7,59,LAL,LAL,fg_make,79,False,False,Bradley 18' Pullup Jump Shot (4 PTS) (Green 1 AST),,17-8,17,8
+0021900507,2020-01-01,LAL,PHX,4.33,1,7,40,PHX,PHX,fg3_miss,1,False,False,,MISS Rubio 25' 3PT Jump Shot,17-8,17,8
+0021900507,2020-01-01,LAL,PHX,4.37,1,7,38,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:2),,17-8,17,8
+0021900507,2020-01-01,LAL,PHX,4.63,1,7,22,LAL,LAL,fg_make,52,False,False,Davis 1' Alley Oop Dunk (6 PTS) (Green 2 AST),,19-8,19,8
+0021900507,2020-01-01,LAL,PHX,4.73,1,7,16,PHX,LAL,foul,2,False,False,McGee S.FOUL (P1.T2) (M.Dagher),,19-8,19,8
+0021900507,2020-01-01,LAL,PHX,4.73,1,7,16,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (7 PTS),19-9,19,9
+0021900507,2020-01-01,LAL,PHX,4.73,1,7,16,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (8 PTS),19-10,19,10
+0021900507,2020-01-01,LAL,PHX,4.83,1,7,10,LAL,LAL,fg_make,74,False,False,James 1' Running Reverse Layup (4 PTS),,21-10,21,10
+0021900507,2020-01-01,LAL,PHX,4.83,1,7,10,LAL,PHX,foul,2,False,False,,Saric S.FOUL (P2.T3) (T.Washington),21-10,21,10
+0021900507,2020-01-01,LAL,PHX,4.83,1,7,10,LAL,PHX,violation,3,False,False,,Lane,21-10,21,10
+0021900507,2020-01-01,LAL,PHX,4.83,1,7,10,LAL,LAL,ft_make,10,False,False,James Free Throw 1 of 1 (5 PTS),,22-10,22,10
+0021900507,2020-01-01,LAL,PHX,5.0,1,7,0,PHX,LAL,foul,2,False,False,McGee S.FOUL (P2.T3) (T.Washington),,22-10,22,10
+0021900507,2020-01-01,LAL,PHX,5.0,1,7,0,PHX,PHX,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (1 PTS),22-11,22,11
+0021900507,2020-01-01,LAL,PHX,5.0,1,7,0,PHX,PHX,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (2 PTS),22-12,22,12
+0021900507,2020-01-01,LAL,PHX,5.28,1,6,43,LAL,LAL,fg3_make,1,False,False,Davis 24' 3PT Jump Shot (9 PTS) (McGee 2 AST),,25-12,25,12
+0021900507,2020-01-01,LAL,PHX,5.4,1,6,36,PHX,PHX,tov,40,False,False,,Booker Out of Bounds Lost Ball Turnover (P3.T3),25-12,25,12
+0021900507,2020-01-01,LAL,PHX,5.4,1,6,36,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,25-12,25,12
+0021900507,2020-01-01,LAL,PHX,5.52,1,6,29,LAL,PHX,foul,1,False,False,,Oubre Jr. P.FOUL (P2.T4) (M.Dagher),25-12,25,12
+0021900507,2020-01-01,LAL,PHX,5.7,1,6,18,LAL,LAL,fg3_miss,1,False,False,MISS Green 25' 3PT Jump Shot,,25-12,25,12
+0021900507,2020-01-01,LAL,PHX,5.75,1,6,15,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:0),,25-12,25,12
+0021900507,2020-01-01,LAL,PHX,5.78,1,6,13,LAL,LAL,fg_make,108,False,False,Green 2' Cutting Dunk Shot (7 PTS) (McGee 3 AST),,27-12,27,12
+0021900507,2020-01-01,LAL,PHX,6.28,1,5,43,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#4),27-12,27,12
+0021900507,2020-01-01,LAL,PHX,6.5,1,5,30,LAL,LAL,fg_make,1,False,False,Davis 19' Jump Shot (11 PTS) (James 3 AST),,29-12,29,12
+0021900507,2020-01-01,LAL,PHX,6.5,1,5,30,LAL,PHX,foul,2,False,False,,Diallo S.FOUL (P1.PN) (T.Washington),29-12,29,12
+0021900507,2020-01-01,LAL,PHX,6.5,1,5,30,LAL,LAL,ft_make,10,False,False,Davis Free Throw 1 of 1 (12 PTS),,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.58,1,5,25,PHX,LAL,foul,1,False,False,Green P.FOUL (P2.T4) (K.Cutler),,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.73,1,5,16,PHX,PHX,fg_miss,101,False,False,,MISS Booker 8' Driving Floating Jump Shot,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.77,1,5,14,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:0),30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.77,1,5,14,PHX,PHX,fg_miss,97,False,False,,MISS Ayton 2' Tip Layup Shot,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.78,1,5,13,PHX,PHX,fg_miss,97,False,False,,MISS Ayton 1' Tip Layup Shot,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.78,1,5,13,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:0),30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.82,1,5,11,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,6.97,1,5,2,LAL,LAL,fg3_miss,1,False,False,MISS Davis 26' 3PT Jump Shot,,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,7.02,1,4,59,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:2 Def:0),,30-12,30,12
+0021900507,2020-01-01,LAL,PHX,7.05,1,4,57,LAL,LAL,fg_make,52,False,False,Davis 2' Alley Oop Dunk (14 PTS) (James 4 AST),,32-12,32,12
+0021900507,2020-01-01,LAL,PHX,7.32,1,4,41,PHX,PHX,tov,1,False,True,,Carter Bad Pass Turnover (P1.T5),32-12,32,12
+0021900507,2020-01-01,LAL,PHX,7.32,1,4,41,PHX,LAL,steal,1,False,True,steal,steal,32-12,32,12
+0021900507,2020-01-01,LAL,PHX,7.37,1,4,38,LAL,LAL,fg_make,50,False,False,James 1' Running Dunk (7 PTS),,34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.38,1,4,37,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.1 Short 0),34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.55,1,4,27,PHX,PHX,tov,2,False,True,,Carter Lost Ball Turnover (P2.T6),34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.55,1,4,27,PHX,LAL,steal,2,False,True,steal,steal,34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.67,1,4,20,LAL,LAL,fg3_miss,1,False,False,MISS James 3PT Jump Shot,,34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.72,1,4,17,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:1),34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.75,1,4,15,PHX,PHX,tov,1,False,True,,Ayton Bad Pass Turnover (P1.T7),34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.75,1,4,15,PHX,LAL,steal,1,False,True,steal,steal,34-12,34,12
+0021900507,2020-01-01,LAL,PHX,7.82,1,4,11,LAL,LAL,fg_make,98,False,False,Bradley 1' Cutting Layup Shot (6 PTS) (McGee 4 AST),,36-12,36,12
+0021900507,2020-01-01,LAL,PHX,8.1,1,3,54,PHX,PHX,fg_miss,6,False,False,,MISS Booker 1' Driving Layup,36-12,36,12
+0021900507,2020-01-01,LAL,PHX,8.17,1,3,50,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:1),36-12,36,12
+0021900507,2020-01-01,LAL,PHX,8.22,1,3,47,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 25' 3PT Jump Shot,36-12,36,12
+0021900507,2020-01-01,LAL,PHX,8.25,1,3,45,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:1),,36-12,36,12
+0021900507,2020-01-01,LAL,PHX,8.42,1,3,35,LAL,LAL,fg_make,101,False,False,Bradley 3' Driving Floating Jump Shot (8 PTS),,38-12,38,12
+0021900507,2020-01-01,LAL,PHX,8.65,1,3,21,PHX,PHX,fg_miss,47,False,False,,MISS Ayton 11' Turnaround Jump Shot,38-12,38,12
+0021900507,2020-01-01,LAL,PHX,8.7,1,3,18,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:4),,38-12,38,12
+0021900507,2020-01-01,LAL,PHX,8.78,1,3,13,LAL,LAL,tov,45,False,False,James Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,38-12,38,12
+0021900507,2020-01-01,LAL,PHX,9.08,1,2,55,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 25' 3PT Jump Shot,38-12,38,12
+0021900507,2020-01-01,LAL,PHX,9.15,1,2,51,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:2),,38-12,38,12
+0021900507,2020-01-01,LAL,PHX,9.47,1,2,32,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 28' 3PT Jump Shot,,38-12,38,12
+0021900507,2020-01-01,LAL,PHX,9.52,1,2,29,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:1),38-12,38,12
+0021900507,2020-01-01,LAL,PHX,9.57,1,2,26,PHX,PHX,fg_make,102,False,False,,Booker 3' Driving Floating Bank Jump Shot (10 PTS),38-14,38,14
+0021900507,2020-01-01,LAL,PHX,9.98,1,2,1,LAL,LAL,fg_miss,75,True,False,MISS Rondo 5' Driving Finger Roll Layup,,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,9.98,1,2,1,LAL,PHX,block,75,True,False,block,block,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.0,1,2,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.0,1,2,0,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#3),,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.27,1,1,44,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 28' 3PT Jump Shot,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.28,1,1,43,LAL,LAL,reb,0,False,False,LAKERS Rebound,,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.28,1,1,43,LAL,PHX,foul,3,False,False,,Ayton L.B.FOUL (P1.PN) (M.Dagher),38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.28,1,1,43,LAL,LAL,ft_miss,11,False,False,MISS Davis Free Throw 1 of 2,,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.28,1,1,43,LAL,LAL,reb,1,False,False,LAKERS Rebound,,38-14,38,14
+0021900507,2020-01-01,LAL,PHX,10.28,1,1,43,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (15 PTS),,39-14,39,14
+0021900507,2020-01-01,LAL,PHX,10.57,1,1,26,PHX,PHX,fg_miss,75,True,False,,MISS Rubio 2' Driving Finger Roll Layup,39-14,39,14
+0021900507,2020-01-01,LAL,PHX,10.57,1,1,26,PHX,LAL,block,75,True,False,block,block,39-14,39,14
+0021900507,2020-01-01,LAL,PHX,10.62,1,1,23,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:3),,39-14,39,14
+0021900507,2020-01-01,LAL,PHX,10.7,1,1,18,LAL,LAL,fg_make,101,False,False,Kuzma 6' Driving Floating Jump Shot (2 PTS) (Rondo 1 AST),,41-14,41,14
+0021900507,2020-01-01,LAL,PHX,10.95,1,1,3,PHX,PHX,fg_miss,5,False,False,,MISS Okobo 2' Layup,41-14,41,14
+0021900507,2020-01-01,LAL,PHX,10.95,1,1,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,41-14,41,14
+0021900507,2020-01-01,LAL,PHX,11.22,1,0,47,LAL,LAL,fg_miss,93,False,False,MISS Caldwell-Pope 4' Driving Bank Hook Shot,,41-14,41,14
+0021900507,2020-01-01,LAL,PHX,11.25,1,0,45,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:1 Def:3),,41-14,41,14
+0021900507,2020-01-01,LAL,PHX,11.25,1,0,45,LAL,LAL,fg_make,107,False,False,Bradley 1' Tip Dunk Shot (10 PTS),,43-14,43,14
+0021900507,2020-01-01,LAL,PHX,11.4,1,0,36,PHX,PHX,fg_make,79,False,False,,Bridges 16' Pullup Jump Shot (2 PTS) (Rubio 3 AST),43-16,43,16
+0021900507,2020-01-01,LAL,PHX,11.5,1,0,30,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 30' 3PT Jump Shot,,43-16,43,16
+0021900507,2020-01-01,LAL,PHX,11.53,1,0,28,PHX,PHX,reb,0,False,False,,Suns Rebound,43-16,43,16
+0021900507,2020-01-01,LAL,PHX,11.78,1,0,13,PHX,LAL,foul,2,False,False,Bradley S.FOUL (P1.PN) (K.Cutler),,43-16,43,16
+0021900507,2020-01-01,LAL,PHX,11.78,1,0,13,PHX,PHX,ft_miss,11,False,False,,MISS Rubio Free Throw 1 of 2,43-16,43,16
+0021900507,2020-01-01,LAL,PHX,11.78,1,0,13,PHX,PHX,reb,1,False,False,,Suns Rebound,43-16,43,16
+0021900507,2020-01-01,LAL,PHX,11.78,1,0,13,PHX,PHX,ft_make,12,False,False,,Rubio Free Throw 2 of 2 (1 PTS),43-17,43,17
+0021900507,2020-01-01,LAL,PHX,12.0,1,0,0,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 3PT Jump Shot,,43-17,43,17
+0021900507,2020-01-01,LAL,PHX,12.0,1,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,43-17,43,17
+0021900507,2020-01-01,LAL,PHX,12.0,1,0,0,LAL,,period_end,0,False,False,,,43-17,43,17
+0021900507,2020-01-01,LAL,PHX,12.0,2,12,0,LAL,,period_start,0,False,False,,,43-17,43,17
+0021900507,2020-01-01,LAL,PHX,12.37,2,11,38,LAL,LAL,fg3_make,1,False,False,Kuzma 3PT Jump Shot (5 PTS) (James 5 AST),,46-17,46,17
+0021900507,2020-01-01,LAL,PHX,12.65,2,11,21,PHX,PHX,fg3_miss,1,False,False,,MISS Baynes 3PT Jump Shot,46-17,46,17
+0021900507,2020-01-01,LAL,PHX,12.68,2,11,19,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:1),,46-17,46,17
+0021900507,2020-01-01,LAL,PHX,12.82,2,11,11,LAL,LAL,fg_miss,79,False,False,MISS James 17' Pullup Jump Shot,,46-17,46,17
+0021900507,2020-01-01,LAL,PHX,12.87,2,11,8,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:1 Def:1),46-17,46,17
+0021900507,2020-01-01,LAL,PHX,12.93,2,11,4,PHX,PHX,fg3_make,103,False,False,,Oubre Jr. 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Johnson 1 AST),46-20,46,20
+0021900507,2020-01-01,LAL,PHX,13.18,2,10,49,LAL,LAL,fg_make,52,False,False,Howard 2' Alley Oop Dunk (2 PTS) (James 6 AST),,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,13.4,2,10,36,PHX,PHX,tov,40,False,False,,Oubre Jr. Out of Bounds Lost Ball Turnover (P1.T8),48-20,48,20
+0021900507,2020-01-01,LAL,PHX,13.62,2,10,23,LAL,LAL,fg_miss,101,False,False,MISS Kuzma 5' Driving Floating Jump Shot,,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,13.67,2,10,20,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:0),,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,13.82,2,10,11,LAL,LAL,fg_miss,43,False,False,MISS Howard 4' Alley Oop Layup,,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,13.87,2,10,8,PHX,PHX,reb,0,False,False,,Baynes REBOUND (Off:1 Def:1),48-20,48,20
+0021900507,2020-01-01,LAL,PHX,13.98,2,10,1,PHX,PHX,tov,2,False,True,,Rubio Lost Ball Turnover (P1.T9),48-20,48,20
+0021900507,2020-01-01,LAL,PHX,13.98,2,10,1,PHX,LAL,steal,2,False,True,steal,steal,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,14.05,2,9,57,LAL,LAL,tov,45,False,False,Rondo Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,14.32,2,9,41,PHX,PHX,fg_miss,6,False,False,,MISS Baynes 3' Driving Layup,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,14.35,2,9,39,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,48-20,48,20
+0021900507,2020-01-01,LAL,PHX,14.5,2,9,30,LAL,LAL,fg_make,5,False,False,Howard 3' Layup (4 PTS) (James 7 AST),,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.5,2,9,30,LAL,PHX,foul,2,False,False,,Bridges S.FOUL (P1.T1) (K.Cutler),50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.5,2,9,30,LAL,LAL,ft_miss,10,False,False,MISS Howard Free Throw 1 of 1,,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.57,2,9,26,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:1),50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.68,2,9,19,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.75,2,9,15,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:3),,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.87,2,9,8,LAL,LAL,fg_miss,5,True,False,MISS Howard 3' Layup,,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.87,2,9,8,LAL,PHX,block,5,True,False,block,block,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.92,2,9,5,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:0),,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.92,2,9,5,LAL,LAL,fg_miss,3,False,False,MISS Howard 5' Hook Shot,,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.92,2,9,5,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:3),,50-20,50,20
+0021900507,2020-01-01,LAL,PHX,14.92,2,9,5,LAL,LAL,fg_make,97,False,False,James 1' Tip Layup Shot (9 PTS),,52-20,52,20
+0021900507,2020-01-01,LAL,PHX,14.92,2,9,5,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.2 Short 0),52-20,52,20
+0021900507,2020-01-01,LAL,PHX,15.18,2,8,49,PHX,PHX,fg_make,7,False,False,,Baynes 1' Dunk (2 PTS) (Oubre Jr. 1 AST),52-22,52,22
+0021900507,2020-01-01,LAL,PHX,15.62,2,8,23,LAL,LAL,fg_miss,86,False,False,MISS James 16' Turnaround Fadeaway Shot,,52-22,52,22
+0021900507,2020-01-01,LAL,PHX,15.68,2,8,19,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:1 Def:2),52-22,52,22
+0021900507,2020-01-01,LAL,PHX,15.93,2,8,4,PHX,LAL,foul,2,False,False,Howard S.FOUL (P1.T1) (T.Washington),,52-22,52,22
+0021900507,2020-01-01,LAL,PHX,15.93,2,8,4,PHX,PHX,ft_miss,11,False,False,,MISS Oubre Jr. Free Throw 1 of 2,52-22,52,22
+0021900507,2020-01-01,LAL,PHX,15.93,2,8,4,PHX,PHX,reb,1,False,False,,Suns Rebound,52-22,52,22
+0021900507,2020-01-01,LAL,PHX,15.93,2,8,4,PHX,PHX,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (6 PTS),52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.23,2,7,46,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.28,2,7,43,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.38,2,7,37,PHX,LAL,foul,1,False,False,Rondo P.FOUL (P1.T2) (K.Cutler),,52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.45,2,7,33,PHX,PHX,fg_miss,47,False,False,,MISS Baynes 15' Turnaround Jump Shot,52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.5,2,7,30,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:4),,52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.65,2,7,21,LAL,LAL,fg_miss,79,False,False,MISS Rondo 16' Pullup Jump Shot,,52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.7,2,7,18,PHX,PHX,reb,0,False,False,,Baynes REBOUND (Off:1 Def:2),52-23,52,23
+0021900507,2020-01-01,LAL,PHX,16.77,2,7,14,PHX,PHX,fg_make,41,False,False,,Bridges 3' Running Layup (4 PTS) (Booker 1 AST),52-25,52,25
+0021900507,2020-01-01,LAL,PHX,17.17,2,6,50,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 3PT Jump Shot,,52-25,52,25
+0021900507,2020-01-01,LAL,PHX,17.18,2,6,49,PHX,PHX,reb,0,False,False,,Suns Rebound,52-25,52,25
+0021900507,2020-01-01,LAL,PHX,17.37,2,6,38,PHX,PHX,tov,45,False,False,,Rubio Out of Bounds - Bad Pass Turnover Turnover (P2.T10),52-25,52,25
+0021900507,2020-01-01,LAL,PHX,17.62,2,6,23,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 24' 3PT Jump Shot,,52-25,52,25
+0021900507,2020-01-01,LAL,PHX,17.65,2,6,21,LAL,LAL,reb,0,False,False,LAKERS Rebound,,52-25,52,25
+0021900507,2020-01-01,LAL,PHX,17.83,2,6,10,LAL,LAL,fg_miss,101,False,False,MISS Kuzma 8' Driving Floating Jump Shot,,52-25,52,25
+0021900507,2020-01-01,LAL,PHX,17.87,2,6,8,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:1 Def:3),52-25,52,25
+0021900507,2020-01-01,LAL,PHX,18.05,2,5,57,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P4.T11),52-25,52,25
+0021900507,2020-01-01,LAL,PHX,18.05,2,5,57,PHX,LAL,steal,1,False,True,steal,steal,52-25,52,25
+0021900507,2020-01-01,LAL,PHX,18.27,2,5,44,LAL,LAL,fg_make,102,False,False,Howard 8' Driving Floating Bank Jump Shot (6 PTS) (Caldwell-Pope 1 AST),,54-25,54,25
+0021900507,2020-01-01,LAL,PHX,18.27,2,5,44,LAL,PHX,foul,2,False,False,,Johnson S.FOUL (P1.T2) (T.Washington),54-25,54,25
+0021900507,2020-01-01,LAL,PHX,18.27,2,5,44,LAL,LAL,ft_make,10,False,False,Howard Free Throw 1 of 1 (7 PTS),,55-25,55,25
+0021900507,2020-01-01,LAL,PHX,18.63,2,5,22,PHX,PHX,fg_miss,80,False,False,,MISS Rubio 22' Step Back Jump Shot,55-25,55,25
+0021900507,2020-01-01,LAL,PHX,18.7,2,5,18,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:5),,55-25,55,25
+0021900507,2020-01-01,LAL,PHX,19.12,2,4,53,LAL,LAL,fg3_make,1,False,False,Caldwell-Pope 25' 3PT Jump Shot (3 PTS),,58-25,58,25
+0021900507,2020-01-01,LAL,PHX,19.32,2,4,41,PHX,PHX,fg_make,6,False,False,,Booker 3' Driving Layup (12 PTS) (Saric 1 AST),58-27,58,27
+0021900507,2020-01-01,LAL,PHX,19.55,2,4,27,LAL,LAL,fg_miss,1,False,False,MISS Green 18' Jump Shot,,58-27,58,27
+0021900507,2020-01-01,LAL,PHX,19.62,2,4,23,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:2 Def:0),,58-27,58,27
+0021900507,2020-01-01,LAL,PHX,19.7,2,4,18,LAL,LAL,tov,39,False,False,Green Step Out of Bounds Turnover (P1.T5),,58-27,58,27
+0021900507,2020-01-01,LAL,PHX,19.97,2,4,2,PHX,PHX,fg3_make,1,False,False,,Oubre Jr. 25' 3PT Jump Shot (9 PTS) (Booker 2 AST),58-30,58,30
+0021900507,2020-01-01,LAL,PHX,20.38,2,3,37,LAL,LAL,fg_make,101,False,False,Davis 6' Driving Floating Jump Shot (17 PTS),,60-30,60,30
+0021900507,2020-01-01,LAL,PHX,20.65,2,3,21,PHX,PHX,fg_make,101,False,False,,Saric 9' Driving Floating Jump Shot (4 PTS) (Booker 3 AST),60-32,60,32
+0021900507,2020-01-01,LAL,PHX,20.87,2,3,8,LAL,PHX,foul,2,False,False,,Booker S.FOUL (P1.T3) (K.Cutler),60-32,60,32
+0021900507,2020-01-01,LAL,PHX,20.87,2,3,8,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (10 PTS),,61-32,61,32
+0021900507,2020-01-01,LAL,PHX,20.87,2,3,8,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,61-32,61,32
+0021900507,2020-01-01,LAL,PHX,20.9,2,3,6,PHX,PHX,reb,0,False,False,,Saric REBOUND (Off:0 Def:1),61-32,61,32
+0021900507,2020-01-01,LAL,PHX,21.1,2,2,54,PHX,PHX,fg_miss,98,True,False,,MISS Ayton 4' Cutting Layup Shot,61-32,61,32
+0021900507,2020-01-01,LAL,PHX,21.1,2,2,54,PHX,LAL,block,98,True,False,block,block,61-32,61,32
+0021900507,2020-01-01,LAL,PHX,21.17,2,2,50,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:5),,61-32,61,32
+0021900507,2020-01-01,LAL,PHX,21.2,2,2,48,LAL,LAL,fg_make,41,False,False,Bradley 2' Running Layup (12 PTS) (James 8 AST),,63-32,63,32
+0021900507,2020-01-01,LAL,PHX,21.32,2,2,41,PHX,PHX,tov,2,False,True,,Okobo Lost Ball Turnover (P1.T12),63-32,63,32
+0021900507,2020-01-01,LAL,PHX,21.32,2,2,41,PHX,LAL,steal,2,False,True,steal,steal,63-32,63,32
+0021900507,2020-01-01,LAL,PHX,21.32,2,2,41,LAL,PHX,foul,28,False,False,,Okobo Personal Take Foul (P1.T4) (T.Washington),63-32,63,32
+0021900507,2020-01-01,LAL,PHX,21.32,2,2,41,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,63-32,63,32
+0021900507,2020-01-01,LAL,PHX,21.55,2,2,27,LAL,LAL,fg_make,47,False,False,Bradley 18' Turnaround Jump Shot (14 PTS) (James 9 AST),,65-32,65,32
+0021900507,2020-01-01,LAL,PHX,21.87,2,2,8,PHX,PHX,fg_miss,79,False,False,,MISS Booker 19' Pullup Jump Shot,65-32,65,32
+0021900507,2020-01-01,LAL,PHX,21.87,2,2,8,LAL,LAL,reb,0,False,False,LAKERS Rebound,,65-32,65,32
+0021900507,2020-01-01,LAL,PHX,21.87,2,2,8,LAL,PHX,foul,3,False,False,,Ayton L.B.FOUL (P2.PN) (T.Washington),65-32,65,32
+0021900507,2020-01-01,LAL,PHX,21.87,2,2,8,LAL,LAL,ft_make,11,False,False,Howard Free Throw 1 of 2 (8 PTS),,66-32,66,32
+0021900507,2020-01-01,LAL,PHX,21.87,2,2,8,LAL,LAL,ft_miss,12,False,False,MISS Howard Free Throw 2 of 2,,66-32,66,32
+0021900507,2020-01-01,LAL,PHX,21.9,2,2,6,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:2),66-32,66,32
+0021900507,2020-01-01,LAL,PHX,22.08,2,1,55,PHX,PHX,fg_make,79,False,False,,Booker 10' Pullup Jump Shot (14 PTS) (Rubio 4 AST),66-34,66,34
+0021900507,2020-01-01,LAL,PHX,22.08,2,1,55,PHX,LAL,foul,2,False,False,Green S.FOUL (P3.T3) (T.Washington),,66-34,66,34
+0021900507,2020-01-01,LAL,PHX,22.08,2,1,55,PHX,PHX,ft_make,10,False,False,,Booker Free Throw 1 of 1 (15 PTS),66-35,66,35
+0021900507,2020-01-01,LAL,PHX,22.35,2,1,39,LAL,LAL,fg3_make,1,False,False,Kuzma 3PT Jump Shot (8 PTS) (Bradley 1 AST),,69-35,69,35
+0021900507,2020-01-01,LAL,PHX,22.57,2,1,26,PHX,LAL,foul,2,False,False,Kuzma S.FOUL (P1.PN) (K.Cutler),,69-35,69,35
+0021900507,2020-01-01,LAL,PHX,22.57,2,1,26,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (16 PTS),69-36,69,36
+0021900507,2020-01-01,LAL,PHX,22.57,2,1,26,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (17 PTS),69-37,69,37
+0021900507,2020-01-01,LAL,PHX,22.85,2,1,9,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P1.T6),,69-37,69,37
+0021900507,2020-01-01,LAL,PHX,22.85,2,1,9,LAL,PHX,steal,1,False,True,steal,steal,69-37,69,37
+0021900507,2020-01-01,LAL,PHX,23.02,2,0,59,PHX,PHX,fg_make,98,False,False,,Ayton 1' Cutting Layup Shot (2 PTS) (Booker 4 AST),69-39,69,39
+0021900507,2020-01-01,LAL,PHX,23.35,2,0,39,LAL,LAL,fg3_make,1,False,False,Kuzma 3PT Jump Shot (11 PTS) (James 10 AST),,72-39,72,39
+0021900507,2020-01-01,LAL,PHX,23.6,2,0,24,PHX,PHX,fg_make,108,False,False,,Oubre Jr. 1' Cutting Dunk Shot (11 PTS) (Ayton 1 AST),72-41,72,41
+0021900507,2020-01-01,LAL,PHX,24.0,2,0,0,LAL,LAL,fg_make,5,False,False,Davis 3' Layup (19 PTS) (Kuzma 1 AST),,74-41,74,41
+0021900507,2020-01-01,LAL,PHX,24.0,2,0,0,LAL,,period_end,0,False,False,,,74-41,74,41
+0021900507,2020-01-01,LAL,PHX,24.0,3,12,0,LAL,,period_start,0,False,False,,,74-41,74,41
+0021900507,2020-01-01,LAL,PHX,24.25,3,11,45,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P2.T7),,74-41,74,41
+0021900507,2020-01-01,LAL,PHX,24.25,3,11,45,LAL,PHX,steal,2,False,True,steal,steal,74-41,74,41
+0021900507,2020-01-01,LAL,PHX,24.33,3,11,40,PHX,PHX,fg_miss,41,False,False,,MISS Oubre Jr. 2' Running Layup,74-41,74,41
+0021900507,2020-01-01,LAL,PHX,24.37,3,11,38,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:2 Def:3),74-41,74,41
+0021900507,2020-01-01,LAL,PHX,24.38,3,11,37,PHX,PHX,fg_make,5,False,False,,Oubre Jr. 3' Layup (13 PTS) (Rubio 5 AST),74-43,74,43
+0021900507,2020-01-01,LAL,PHX,24.7,3,11,18,LAL,LAL,fg_make,6,False,False,James 1' Driving Layup (12 PTS),,76-43,76,43
+0021900507,2020-01-01,LAL,PHX,24.7,3,11,18,LAL,PHX,foul,14,False,False,,Oubre Jr. FLAGRANT.FOUL.TYPE1 (P3.T1) (K.Cutler),76-43,76,43
+0021900507,2020-01-01,LAL,PHX,24.7,3,11,18,LAL,LAL,ft_miss,18,False,False,MISS James Free Throw Flagrant 1 of 2,,76-43,76,43
+0021900507,2020-01-01,LAL,PHX,24.7,3,11,18,LAL,LAL,reb,1,False,False,LAKERS Rebound,,76-43,76,43
+0021900507,2020-01-01,LAL,PHX,24.7,3,11,18,LAL,LAL,ft_make,19,False,False,James Free Throw Flagrant 2 of 2 (13 PTS),,77-43,77,43
+0021900507,2020-01-01,LAL,PHX,24.95,3,11,3,LAL,LAL,fg_make,1,False,False,James 20' Jump Shot (15 PTS),,79-43,79,43
+0021900507,2020-01-01,LAL,PHX,25.15,3,10,51,PHX,PHX,fg3_make,1,False,False,,Rubio 24' 3PT Jump Shot (4 PTS) (Oubre Jr. 2 AST),79-46,79,46
+0021900507,2020-01-01,LAL,PHX,25.3,3,10,42,LAL,LAL,fg_miss,106,False,False,MISS McGee 1' Running Alley Oop Dunk Shot,,79-46,79,46
+0021900507,2020-01-01,LAL,PHX,25.3,3,10,42,PHX,PHX,reb,0,False,False,,Baynes REBOUND (Off:1 Def:3),79-46,79,46
+0021900507,2020-01-01,LAL,PHX,25.43,3,10,34,PHX,PHX,fg3_make,1,False,False,,Oubre Jr. 25' 3PT Jump Shot (16 PTS) (Rubio 6 AST),79-49,79,49
+0021900507,2020-01-01,LAL,PHX,25.73,3,10,16,LAL,LAL,tov,40,False,False,Davis Out of Bounds Lost Ball Turnover (P2.T8),,79-49,79,49
+0021900507,2020-01-01,LAL,PHX,25.93,3,10,4,PHX,PHX,fg_make,78,False,False,,Baynes 10' Floating Jump Shot (4 PTS) (Rubio 7 AST),79-51,79,51
+0021900507,2020-01-01,LAL,PHX,25.95,3,10,3,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,79-51,79,51
+0021900507,2020-01-01,LAL,PHX,26.25,3,9,45,LAL,LAL,fg_miss,57,False,False,MISS Davis 6' Driving Hook Shot,,79-51,79,51
+0021900507,2020-01-01,LAL,PHX,26.28,3,9,43,PHX,PHX,reb,0,False,False,,Baynes REBOUND (Off:1 Def:4),79-51,79,51
+0021900507,2020-01-01,LAL,PHX,26.58,3,9,25,PHX,PHX,fg_miss,101,False,False,,MISS Booker 4' Driving Floating Jump Shot,79-51,79,51
+0021900507,2020-01-01,LAL,PHX,26.63,3,9,22,LAL,LAL,reb,0,False,False,Green REBOUND (Off:0 Def:2),,79-51,79,51
+0021900507,2020-01-01,LAL,PHX,26.68,3,9,19,LAL,LAL,fg_make,80,False,False,Bradley 16' Step Back Jump Shot (16 PTS) (James 11 AST),,81-51,81,51
+0021900507,2020-01-01,LAL,PHX,27.0,3,9,0,PHX,PHX,fg3_miss,1,False,False,,MISS Rubio 25' 3PT Jump Shot,81-51,81,51
+0021900507,2020-01-01,LAL,PHX,27.0,3,9,0,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:1),81-51,81,51
+0021900507,2020-01-01,LAL,PHX,27.08,3,8,55,PHX,PHX,fg_make,1,False,False,,Oubre Jr. 7' Jump Shot (18 PTS),81-53,81,53
+0021900507,2020-01-01,LAL,PHX,27.35,3,8,39,LAL,PHX,foul,1,False,False,,Baynes P.FOUL (P1.T2) (M.Dagher),81-53,81,53
+0021900507,2020-01-01,LAL,PHX,27.43,3,8,34,LAL,PHX,foul,1,False,False,,Baynes P.FOUL (P2.T3) (K.Cutler),81-53,81,53
+0021900507,2020-01-01,LAL,PHX,27.65,3,8,21,LAL,LAL,fg_make,63,False,False,Davis 11' Fadeaway Jumper (21 PTS),,83-53,83,53
+0021900507,2020-01-01,LAL,PHX,27.77,3,8,14,PHX,LAL,foul,2,False,False,Green S.FOUL (P4.T1) (M.Dagher),,83-53,83,53
+0021900507,2020-01-01,LAL,PHX,27.77,3,8,14,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (18 PTS),83-54,83,54
+0021900507,2020-01-01,LAL,PHX,27.77,3,8,14,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (19 PTS),83-55,83,55
+0021900507,2020-01-01,LAL,PHX,28.0,3,8,0,LAL,LAL,fg_miss,1,False,False,MISS Davis 11' Jump Shot,,83-55,83,55
+0021900507,2020-01-01,LAL,PHX,28.03,3,7,58,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:2),83-55,83,55
+0021900507,2020-01-01,LAL,PHX,28.15,3,7,51,PHX,PHX,fg_make,9,False,False,,Oubre Jr. 2' Driving Dunk (20 PTS),83-57,83,57
+0021900507,2020-01-01,LAL,PHX,28.47,3,7,32,LAL,PHX,foul,2,False,False,,Baynes S.FOUL (P3.T4) (T.Washington),83-57,83,57
+0021900507,2020-01-01,LAL,PHX,28.47,3,7,32,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (22 PTS),,84-57,84,57
+0021900507,2020-01-01,LAL,PHX,28.47,3,7,32,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (23 PTS),,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.62,3,7,23,PHX,LAL,foul,1,False,False,McGee P.FOUL (P3.T2) (M.Dagher),,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.62,3,7,23,PHX,LAL,foul,11,False,False,McGee T.FOUL (P3.T2) (M.Dagher),,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.62,3,7,23,PHX,PHX,ft_miss,16,False,False,,MISS Booker Free Throw Technical,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.62,3,7,23,PHX,PHX,reb,1,False,False,,Suns Rebound,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.82,3,7,11,PHX,PHX,fg_miss,7,True,False,,MISS Ayton 2' Dunk,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.82,3,7,11,PHX,LAL,block,7,True,False,block,block,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.87,3,7,8,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:6),,85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.93,3,7,4,LAL,PHX,foul,1,False,False,,Rubio P.FOUL (P1.PN) (T.Washington),85-57,85,57
+0021900507,2020-01-01,LAL,PHX,28.93,3,7,4,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (16 PTS),,86-57,86,57
+0021900507,2020-01-01,LAL,PHX,28.93,3,7,4,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,86-57,86,57
+0021900507,2020-01-01,LAL,PHX,28.98,3,7,1,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:3),86-57,86,57
+0021900507,2020-01-01,LAL,PHX,29.22,3,6,47,PHX,PHX,fg_make,58,False,False,,Ayton 6' Turnaround Hook Shot (4 PTS) (Rubio 8 AST),86-59,86,59
+0021900507,2020-01-01,LAL,PHX,29.37,3,6,38,LAL,LAL,fg_make,98,False,False,Bradley 1' Cutting Layup Shot (18 PTS) (James 12 AST),,88-59,88,59
+0021900507,2020-01-01,LAL,PHX,29.67,3,6,20,PHX,PHX,fg_make,79,False,False,,Rubio 15' Pullup Jump Shot (6 PTS),88-61,88,61
+0021900507,2020-01-01,LAL,PHX,30.13,3,5,52,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,88-61,88,61
+0021900507,2020-01-01,LAL,PHX,30.17,3,5,50,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:3),88-61,88,61
+0021900507,2020-01-01,LAL,PHX,30.33,3,5,40,PHX,PHX,fg_make,105,False,False,,Booker 9' Turnaround Fadeaway Bank Jump Shot (21 PTS) (Oubre Jr. 3 AST),88-63,88,63
+0021900507,2020-01-01,LAL,PHX,30.63,3,5,22,LAL,LAL,fg_make,9,False,False,Kuzma 1' Driving Dunk (13 PTS) (Davis 2 AST),,90-63,90,63
+0021900507,2020-01-01,LAL,PHX,30.65,3,5,21,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.3 Short 0),90-63,90,63
+0021900507,2020-01-01,LAL,PHX,30.92,3,5,5,PHX,PHX,fg_make,67,False,False,,Diallo 1' Hook Bank Shot (2 PTS) (Booker 5 AST),90-65,90,65
+0021900507,2020-01-01,LAL,PHX,31.25,3,4,45,LAL,LAL,tov,2,False,True,McGee Lost Ball Turnover (P1.T9),,90-65,90,65
+0021900507,2020-01-01,LAL,PHX,31.25,3,4,45,LAL,PHX,steal,2,False,True,steal,steal,90-65,90,65
+0021900507,2020-01-01,LAL,PHX,31.33,3,4,40,PHX,PHX,fg_miss,101,False,False,,MISS Booker 9' Driving Floating Jump Shot,90-65,90,65
+0021900507,2020-01-01,LAL,PHX,31.37,3,4,38,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:2 Def:1),,90-65,90,65
+0021900507,2020-01-01,LAL,PHX,31.37,3,4,38,LAL,PHX,foul,1,False,False,,Booker P.FOUL (P2.PN) (M.Dagher),92-65,92,65
+0021900507,2020-01-01,LAL,PHX,31.37,3,4,38,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (14 PTS),,91-65,91,65
+0021900507,2020-01-01,LAL,PHX,31.37,3,4,38,LAL,LAL,ft_make,12,False,False,Kuzma Free Throw 2 of 2 (15 PTS),,92-65,92,65
+0021900507,2020-01-01,LAL,PHX,31.57,3,4,26,PHX,PHX,fg_make,52,False,False,,Ayton 2' Alley Oop Dunk (6 PTS) (Booker 6 AST),92-67,92,67
+0021900507,2020-01-01,LAL,PHX,31.77,3,4,14,LAL,LAL,fg_miss,98,False,False,MISS McGee 2' Cutting Layup Shot,,92-67,92,67
+0021900507,2020-01-01,LAL,PHX,31.8,3,4,12,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:4),92-67,92,67
+0021900507,2020-01-01,LAL,PHX,31.92,3,4,5,PHX,PHX,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,92-67,92,67
+0021900507,2020-01-01,LAL,PHX,31.98,3,4,1,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:6),,92-67,92,67
+0021900507,2020-01-01,LAL,PHX,32.17,3,3,50,LAL,LAL,fg_make,1,False,False,James 18' Jump Shot (18 PTS),,94-67,94,67
+0021900507,2020-01-01,LAL,PHX,32.48,3,3,31,PHX,LAL,foul,2,False,False,McGee S.FOUL (P4.T3) (K.Cutler),,94-67,94,67
+0021900507,2020-01-01,LAL,PHX,32.48,3,3,31,PHX,PHX,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (21 PTS),94-68,94,68
+0021900507,2020-01-01,LAL,PHX,32.48,3,3,31,PHX,PHX,ft_miss,12,False,False,,MISS Oubre Jr. Free Throw 2 of 2,94-68,94,68
+0021900507,2020-01-01,LAL,PHX,32.52,3,3,29,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:7),,94-68,94,68
+0021900507,2020-01-01,LAL,PHX,32.73,3,3,16,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,94-68,94,68
+0021900507,2020-01-01,LAL,PHX,32.8,3,3,12,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:5),94-68,94,68
+0021900507,2020-01-01,LAL,PHX,32.92,3,3,5,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,94-68,94,68
+0021900507,2020-01-01,LAL,PHX,32.95,3,3,3,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:8),,94-68,94,68
+0021900507,2020-01-01,LAL,PHX,33.05,3,2,57,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P3.T10),,94-68,94,68
+0021900507,2020-01-01,LAL,PHX,33.05,3,2,57,LAL,PHX,steal,2,False,True,steal,steal,94-68,94,68
+0021900507,2020-01-01,LAL,PHX,33.13,3,2,52,PHX,PHX,fg_make,76,False,False,,Booker 1' Running Finger Roll Layup (23 PTS) (Diallo 1 AST),94-70,94,70
+0021900507,2020-01-01,LAL,PHX,33.43,3,2,34,LAL,LAL,fg_miss,80,False,False,MISS James 16' Step Back Jump Shot,,94-70,94,70
+0021900507,2020-01-01,LAL,PHX,33.47,3,2,32,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:2),94-70,94,70
+0021900507,2020-01-01,LAL,PHX,33.6,3,2,24,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P5.T13),94-70,94,70
+0021900507,2020-01-01,LAL,PHX,33.6,3,2,24,PHX,LAL,steal,1,False,True,steal,steal,94-70,94,70
+0021900507,2020-01-01,LAL,PHX,33.63,3,2,22,LAL,PHX,foul,2,False,False,,Booker S.FOUL (P3.PN) (K.Cutler),94-70,94,70
+0021900507,2020-01-01,LAL,PHX,33.63,3,2,22,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (16 PTS),,95-70,95,70
+0021900507,2020-01-01,LAL,PHX,33.63,3,2,22,LAL,LAL,ft_make,12,False,False,Kuzma Free Throw 2 of 2 (17 PTS),,96-70,96,70
+0021900507,2020-01-01,LAL,PHX,33.8,3,2,12,PHX,LAL,foul,2,False,False,Caldwell-Pope S.FOUL (P1.T4) (M.Dagher),,96-70,96,70
+0021900507,2020-01-01,LAL,PHX,33.8,3,2,12,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (24 PTS),96-71,96,71
+0021900507,2020-01-01,LAL,PHX,33.8,3,2,12,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (25 PTS),96-72,96,72
+0021900507,2020-01-01,LAL,PHX,34.03,3,1,58,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P3.T11),,96-72,96,72
+0021900507,2020-01-01,LAL,PHX,34.03,3,1,58,LAL,PHX,steal,1,False,True,steal,steal,96-72,96,72
+0021900507,2020-01-01,LAL,PHX,34.1,3,1,54,PHX,LAL,foul,2,False,False,Kuzma S.FOUL (P2.PN) (T.Washington),,96-72,96,72
+0021900507,2020-01-01,LAL,PHX,34.1,3,1,54,PHX,PHX,ft_make,11,False,False,,Ayton Free Throw 1 of 2 (7 PTS),96-73,96,73
+0021900507,2020-01-01,LAL,PHX,34.1,3,1,54,PHX,PHX,ft_make,12,False,False,,Ayton Free Throw 2 of 2 (8 PTS),96-74,96,74
+0021900507,2020-01-01,LAL,PHX,34.23,3,1,46,LAL,LAL,fg3_miss,1,False,False,MISS James 26' 3PT Jump Shot,,96-74,96,74
+0021900507,2020-01-01,LAL,PHX,34.3,3,1,42,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:6),96-74,96,74
+0021900507,2020-01-01,LAL,PHX,34.42,3,1,35,PHX,PHX,fg_make,79,False,False,,Johnson 14' Pullup Jump Shot (2 PTS),96-76,96,76
+0021900507,2020-01-01,LAL,PHX,34.85,3,1,9,LAL,LAL,fg_make,6,False,False,James 3' Driving Layup (20 PTS),,98-76,98,76
+0021900507,2020-01-01,LAL,PHX,34.85,3,1,9,LAL,PHX,foul,2,False,False,,Ayton S.FOUL (P3.PN) (T.Washington),98-76,98,76
+0021900507,2020-01-01,LAL,PHX,34.85,3,1,9,LAL,LAL,ft_make,10,False,False,James Free Throw 1 of 1 (21 PTS),,99-76,99,76
+0021900507,2020-01-01,LAL,PHX,35.07,3,0,56,PHX,PHX,fg_miss,1,False,False,,MISS Ayton 17' Jump Shot,99-76,99,76
+0021900507,2020-01-01,LAL,PHX,35.1,3,0,54,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:9),,99-76,99,76
+0021900507,2020-01-01,LAL,PHX,35.28,3,0,43,LAL,LAL,fg_make,6,False,False,James 2' Driving Layup (23 PTS),,101-76,101,76
+0021900507,2020-01-01,LAL,PHX,35.52,3,0,29,PHX,PHX,fg3_make,1,False,False,,Okobo 25' 3PT Jump Shot (3 PTS) (Ayton 2 AST),101-79,101,79
+0021900507,2020-01-01,LAL,PHX,35.9,3,0,6,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 29' 3PT Jump Shot,,101-79,101,79
+0021900507,2020-01-01,LAL,PHX,35.9,3,0,6,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),101-79,101,79
+0021900507,2020-01-01,LAL,PHX,36.0,3,0,0,PHX,PHX,fg_miss,103,False,False,,MISS Johnson 20' Running Pull-Up Jump Shot,101-79,101,79
+0021900507,2020-01-01,LAL,PHX,36.0,3,0,0,PHX,PHX,reb,0,False,False,,Suns Rebound,101-79,101,79
+0021900507,2020-01-01,LAL,PHX,36.0,3,0,0,PHX,,period_end,0,False,False,,,101-79,101,79
+0021900507,2020-01-01,LAL,PHX,36.0,4,12,0,PHX,,period_start,0,False,False,,,101-79,101,79
+0021900507,2020-01-01,LAL,PHX,36.27,4,11,44,PHX,PHX,fg_make,6,False,False,,Johnson 2' Driving Layup (2 PTS) (Johnson 1 AST),101-81,101,81
+0021900507,2020-01-01,LAL,PHX,36.63,4,11,22,LAL,LAL,fg3_miss,1,False,False,MISS Rondo 24' 3PT Jump Shot,,101-81,101,81
+0021900507,2020-01-01,LAL,PHX,36.68,4,11,19,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),101-81,101,81
+0021900507,2020-01-01,LAL,PHX,36.77,4,11,14,PHX,PHX,fg_make,41,False,False,,Johnson 2' Running Layup (4 PTS) (Bridges 1 AST),101-83,101,83
+0021900507,2020-01-01,LAL,PHX,36.77,4,11,14,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,101-83,101,83
+0021900507,2020-01-01,LAL,PHX,37.05,4,10,57,LAL,PHX,foul,2,False,False,,Johnson S.FOUL (P2.T1) (T.Washington),101-83,101,83
+0021900507,2020-01-01,LAL,PHX,37.05,4,10,57,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (18 PTS),,102-83,102,83
+0021900507,2020-01-01,LAL,PHX,37.05,4,10,57,LAL,LAL,ft_make,12,False,False,Kuzma Free Throw 2 of 2 (19 PTS),,103-83,103,83
+0021900507,2020-01-01,LAL,PHX,37.3,4,10,42,PHX,PHX,fg_make,98,False,False,,Johnson 1' Cutting Layup Shot (6 PTS) (Okobo 1 AST),103-85,103,85
+0021900507,2020-01-01,LAL,PHX,37.58,4,10,25,LAL,LAL,fg_miss,80,False,False,MISS Kuzma 22' Step Back Jump Shot,,103-85,103,85
+0021900507,2020-01-01,LAL,PHX,37.63,4,10,22,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),103-85,103,85
+0021900507,2020-01-01,LAL,PHX,37.82,4,10,11,PHX,PHX,fg_make,58,False,False,,Ayton 7' Turnaround Hook Shot (10 PTS),103-87,103,87
+0021900507,2020-01-01,LAL,PHX,38.12,4,9,53,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 25' 3PT Jump Shot,,103-87,103,87
+0021900507,2020-01-01,LAL,PHX,38.17,4,9,50,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:0),,103-87,103,87
+0021900507,2020-01-01,LAL,PHX,38.3,4,9,42,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,103-87,103,87
+0021900507,2020-01-01,LAL,PHX,38.35,4,9,39,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),103-87,103,87
+0021900507,2020-01-01,LAL,PHX,38.45,4,9,33,PHX,PHX,fg_make,47,False,False,,Ayton 14' Turnaround Jump Shot (12 PTS) (Okobo 2 AST),103-89,103,89
+0021900507,2020-01-01,LAL,PHX,38.47,4,9,32,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,38.87,4,9,8,LAL,LAL,fg_miss,3,False,False,MISS Rondo 5' Hook Shot,,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,38.92,4,9,5,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:1 Def:1),,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,38.97,4,9,2,LAL,LAL,fg_miss,79,False,False,MISS Daniels 15' Pullup Jump Shot,,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.0,4,9,0,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:3 Def:0),,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.0,4,9,0,LAL,PHX,foul,2,False,False,,Bridges S.FOUL (P2.T2) (K.Cutler),103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.0,4,9,0,LAL,LAL,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.0,4,9,0,LAL,LAL,reb,1,False,False,LAKERS Rebound,,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.0,4,9,0,LAL,LAL,ft_miss,12,False,False,MISS Howard Free Throw 2 of 2,,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.03,4,8,58,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.27,4,8,44,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.32,4,8,41,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:3 Def:1),,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.5,4,8,30,LAL,LAL,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.6,4,8,24,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:7),103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.73,4,8,16,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 24' 3PT Jump Shot,103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.77,4,8,14,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:1 Def:2),103-89,103,89
+0021900507,2020-01-01,LAL,PHX,39.82,4,8,11,PHX,PHX,fg_make,102,False,False,,Okobo 10' Driving Floating Bank Jump Shot (5 PTS) (Johnson 2 AST),103-91,103,91
+0021900507,2020-01-01,LAL,PHX,39.82,4,8,11,PHX,LAL,foul,2,False,False,Daniels S.FOUL (P1.T1) (T.Washington),,103-91,103,91
+0021900507,2020-01-01,LAL,PHX,39.82,4,8,11,PHX,PHX,ft_miss,10,False,False,,MISS Okobo Free Throw 1 of 1,103-91,103,91
+0021900507,2020-01-01,LAL,PHX,39.87,4,8,8,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:1),,103-91,103,91
+0021900507,2020-01-01,LAL,PHX,40.07,4,7,56,LAL,LAL,fg3_miss,1,False,False,MISS Davis 25' 3PT Jump Shot,,103-91,103,91
+0021900507,2020-01-01,LAL,PHX,40.13,4,7,52,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:5),103-91,103,91
+0021900507,2020-01-01,LAL,PHX,40.32,4,7,41,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,103-91,103,91
+0021900507,2020-01-01,LAL,PHX,40.37,4,7,38,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:7),103-91,103,91
+0021900507,2020-01-01,LAL,PHX,40.48,4,7,31,PHX,LAL,foul,2,False,False,Davis S.FOUL (P1.T2) (M.Dagher),,103-91,103,91
+0021900507,2020-01-01,LAL,PHX,40.48,4,7,31,PHX,PHX,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (22 PTS),103-92,103,92
+0021900507,2020-01-01,LAL,PHX,40.48,4,7,31,PHX,PHX,ft_miss,12,False,False,,MISS Oubre Jr. Free Throw 2 of 2,103-92,103,92
+0021900507,2020-01-01,LAL,PHX,40.55,4,7,27,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:2),,103-92,103,92
+0021900507,2020-01-01,LAL,PHX,40.85,4,7,9,LAL,LAL,fg_make,78,False,False,Green 8' Floating Jump Shot (9 PTS) (Caldwell-Pope 2 AST),,105-92,105,92
+0021900507,2020-01-01,LAL,PHX,41.18,4,6,49,PHX,PHX,fg3_make,1,False,False,,Booker 27' 3PT Jump Shot (28 PTS),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,41.58,4,6,25,LAL,LAL,fg3_miss,80,False,False,MISS James 24' 3PT Step Back Jump Shot,,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,41.62,4,6,23,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,41.73,4,6,16,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 27' 3PT Jump Shot,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,41.78,4,6,13,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:7),,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,41.87,4,6,8,LAL,LAL,fg_miss,41,True,False,MISS James 2' Running Layup,,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,41.87,4,6,8,LAL,PHX,block,41,True,False,block,block,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,41.92,4,6,5,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.07,4,5,56,PHX,PHX,fg_miss,63,False,False,,MISS Booker 15' Fadeaway Jumper,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.08,4,5,55,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:10),,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.42,4,5,35,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P4.T12),,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.42,4,5,35,LAL,PHX,steal,1,False,True,steal,steal,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.53,4,5,28,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.62,4,5,23,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:8),,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.7,4,5,18,LAL,PHX,foul,1,False,False,,Oubre Jr. P.FOUL (P4.T3) (M.Dagher),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.92,4,5,5,LAL,LAL,fg_miss,102,False,False,MISS James 4' Driving Floating Bank Jump Shot,,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.93,4,5,4,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:8),,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,42.98,4,5,1,LAL,LAL,fg_miss,63,False,False,MISS Davis 6' Fadeaway Jumper,,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,43.02,4,4,59,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:6),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,43.02,4,4,59,LAL,PHX,foul,26,False,False,,Ayton Offensive Charge Foul (P4.T4) (M.Dagher),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,43.02,4,4,59,PHX,PHX,tov,37,False,False,,Ayton Offensive Foul Turnover (P2.T14),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,43.02,4,4,59,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.4 Short 0),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,43.3,4,4,42,LAL,LAL,fg_miss,73,False,False,MISS Davis 2' Driving Reverse Layup,,105-95,105,95
+0021900507,2020-01-01,LAL,PHX,43.33,4,4,40,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:8),105-95,105,95
+0021900507,2020-01-01,LAL,PHX,43.4,4,4,36,PHX,PHX,fg_make,50,False,False,,Ayton 2' Running Dunk (14 PTS) (Rubio 9 AST),105-97,105,97
+0021900507,2020-01-01,LAL,PHX,43.63,4,4,22,LAL,LAL,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,105-97,105,97
+0021900507,2020-01-01,LAL,PHX,43.68,4,4,19,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:10),,105-97,105,97
+0021900507,2020-01-01,LAL,PHX,43.72,4,4,17,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 3PT Jump Shot,,105-97,105,97
+0021900507,2020-01-01,LAL,PHX,43.77,4,4,14,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:7),105-97,105,97
+0021900507,2020-01-01,LAL,PHX,43.85,4,4,9,PHX,PHX,fg_miss,103,False,False,,MISS Booker 6' Running Pull-Up Jump Shot,105-97,105,97
+0021900507,2020-01-01,LAL,PHX,43.85,4,4,9,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:1 Def:4),,105-97,105,97
+0021900507,2020-01-01,LAL,PHX,43.85,4,4,9,LAL,PHX,foul,28,False,False,,Bridges Personal Take Foul (P3.PN) (M.Dagher),105-97,105,97
+0021900507,2020-01-01,LAL,PHX,44.12,4,3,53,LAL,LAL,fg3_make,1,False,False,James 26' 3PT Jump Shot (26 PTS),,108-97,108,97
+0021900507,2020-01-01,LAL,PHX,44.42,4,3,35,PHX,PHX,tov,45,False,False,,Booker Out of Bounds - Bad Pass Turnover Turnover (P6.T15),108-97,108,97
+0021900507,2020-01-01,LAL,PHX,44.57,4,3,26,LAL,LAL,fg_miss,6,False,False,MISS James 2' Driving Layup,,108-97,108,97
+0021900507,2020-01-01,LAL,PHX,44.6,4,3,24,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:9),108-97,108,97
+0021900507,2020-01-01,LAL,PHX,44.68,4,3,19,PHX,PHX,fg_make,103,False,False,,Booker 12' Running Pull-Up Jump Shot (30 PTS),108-99,108,99
+0021900507,2020-01-01,LAL,PHX,44.72,4,3,17,LAL,PHX,foul,11,False,False,,Booker T.FOUL (P3.PN) (M.Dagher),108-99,108,99
+0021900507,2020-01-01,LAL,PHX,44.72,4,3,17,LAL,LAL,ft_make,16,False,False,Davis Free Throw Technical (24 PTS),,109-99,109,99
+0021900507,2020-01-01,LAL,PHX,45.02,4,2,59,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P5.T13),,109-99,109,99
+0021900507,2020-01-01,LAL,PHX,45.02,4,2,59,LAL,PHX,steal,1,False,True,steal,steal,109-99,109,99
+0021900507,2020-01-01,LAL,PHX,45.02,4,2,59,PHX,LAL,foul,1,False,False,Bradley P.FOUL (P2.T3) (K.Cutler),,109-99,109,99
+0021900507,2020-01-01,LAL,PHX,45.17,4,2,50,PHX,PHX,fg_make,9,False,False,,Oubre Jr. 2' Driving Dunk (24 PTS),109-101,109,101
+0021900507,2020-01-01,LAL,PHX,45.2,4,2,48,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,109-101,109,101
+0021900507,2020-01-01,LAL,PHX,45.43,4,2,34,LAL,PHX,foul,2,False,False,,Ayton S.FOUL (P5.PN) (K.Cutler),109-101,109,101
+0021900507,2020-01-01,LAL,PHX,45.43,4,2,34,LAL,LAL,ft_make,11,False,False,McGee Free Throw 1 of 2 (3 PTS),,110-101,110,101
+0021900507,2020-01-01,LAL,PHX,45.43,4,2,34,LAL,LAL,ft_miss,12,False,False,MISS McGee Free Throw 2 of 2,,110-101,110,101
+0021900507,2020-01-01,LAL,PHX,45.5,4,2,30,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:10),110-101,110,101
+0021900507,2020-01-01,LAL,PHX,45.7,4,2,18,PHX,PHX,fg_miss,101,False,False,,MISS Booker 11' Driving Floating Jump Shot,110-101,110,101
+0021900507,2020-01-01,LAL,PHX,45.75,4,2,15,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:3 Def:3),110-101,110,101
+0021900507,2020-01-01,LAL,PHX,45.78,4,2,13,PHX,PHX,fg_make,78,False,False,,Oubre Jr. 5' Floating Jump Shot (26 PTS),110-103,110,103
+0021900507,2020-01-01,LAL,PHX,46.17,4,1,50,LAL,LAL,fg_miss,1,False,False,MISS James 22' Jump Shot,,110-103,110,103
+0021900507,2020-01-01,LAL,PHX,46.23,4,1,46,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:0 Def:3),110-103,110,103
+0021900507,2020-01-01,LAL,PHX,46.35,4,1,39,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 25' 3PT Jump Shot,110-103,110,103
+0021900507,2020-01-01,LAL,PHX,46.42,4,1,35,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:9),,110-103,110,103
+0021900507,2020-01-01,LAL,PHX,46.68,4,1,19,LAL,LAL,fg_make,6,False,False,James 3' Driving Layup (28 PTS),,112-103,112,103
+0021900507,2020-01-01,LAL,PHX,46.68,4,1,19,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.5 Short 0),112-103,112,103
+0021900507,2020-01-01,LAL,PHX,46.73,4,1,16,PHX,PHX,fg_make,73,False,False,,Booker 2' Driving Reverse Layup (32 PTS) (Johnson 2 AST),112-105,112,105
+0021900507,2020-01-01,LAL,PHX,46.73,4,1,16,PHX,LAL,violation,2,False,False,McGee Violation:Defensive Goaltending (M.Dagher),,112-105,112,105
+0021900507,2020-01-01,LAL,PHX,46.97,4,1,2,LAL,LAL,fg_miss,80,False,False,MISS Davis 12' Step Back Jump Shot,,112-105,112,105
+0021900507,2020-01-01,LAL,PHX,47.02,4,0,59,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:0 Def:4),112-105,112,105
+0021900507,2020-01-01,LAL,PHX,47.13,4,0,52,PHX,PHX,fg_miss,103,False,False,,MISS Booker 11' Running Pull-Up Jump Shot,112-105,112,105
+0021900507,2020-01-01,LAL,PHX,47.17,4,0,50,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:10),,112-105,112,105
+0021900507,2020-01-01,LAL,PHX,47.42,4,0,35,LAL,PHX,foul,2,False,False,,Bridges S.FOUL (P4.PN) (T.Washington),112-105,112,105
+0021900507,2020-01-01,LAL,PHX,47.42,4,0,35,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (29 PTS),,113-105,113,105
+0021900507,2020-01-01,LAL,PHX,47.42,4,0,35,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (30 PTS),,114-105,114,105
+0021900507,2020-01-01,LAL,PHX,47.42,4,0,35,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.6 Short 0),114-105,114,105
+0021900507,2020-01-01,LAL,PHX,47.47,4,0,32,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 26' 3PT Jump Shot,114-105,114,105
+0021900507,2020-01-01,LAL,PHX,47.52,4,0,29,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:11),,114-105,114,105
+0021900507,2020-01-01,LAL,PHX,47.52,4,0,29,LAL,PHX,foul,28,False,False,,Bridges Personal Take Foul (P5.PN) (T.Washington),114-105,114,105
+0021900507,2020-01-01,LAL,PHX,47.52,4,0,29,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (31 PTS),,115-105,115,105
+0021900507,2020-01-01,LAL,PHX,47.52,4,0,29,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,115-105,115,105
+0021900507,2020-01-01,LAL,PHX,47.58,4,0,25,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:2 Def:1),,115-105,115,105
+0021900507,2020-01-01,LAL,PHX,47.62,4,0,23,LAL,PHX,foul,28,False,False,,Bridges Personal Take Foul (P6.PN) (M.Dagher),115-105,115,105
+0021900507,2020-01-01,LAL,PHX,47.62,4,0,23,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (25 PTS),,116-105,116,105
+0021900507,2020-01-01,LAL,PHX,47.62,4,0,23,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (26 PTS),,117-105,117,105
+0021900507,2020-01-01,LAL,PHX,47.77,4,0,14,PHX,PHX,fg_make,43,False,False,,Ayton 1' Alley Oop Layup (16 PTS) (Booker 7 AST),117-107,117,107
+0021900507,2020-01-01,LAL,PHX,48.0,4,0,0,PHX,,period_end,0,False,False,,,117-107,117,107

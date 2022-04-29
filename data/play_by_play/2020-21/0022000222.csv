@@ -1,0 +1,450 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000222,2021-01-20,HOU,PHX,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000222,2021-01-20,HOU,PHX,0.0,1,12,0,,HOU,jump_ball,0,False,False,Jump Ball Wood vs. Ayton: Tip to Oladipo,,0-0,0,0
+0022000222,2021-01-20,HOU,PHX,0.25,1,11,45,HOU,HOU,fg_miss,6,False,False,MISS Oladipo 2' Driving Layup,,0-0,0,0
+0022000222,2021-01-20,HOU,PHX,0.27,1,11,44,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:0 Def:1),0-0,0,0
+0022000222,2021-01-20,HOU,PHX,0.42,1,11,35,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 24' 3PT Jump Shot,0-0,0,0
+0022000222,2021-01-20,HOU,PHX,0.42,1,11,35,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:1),,0-0,0,0
+0022000222,2021-01-20,HOU,PHX,0.67,1,11,20,HOU,HOU,fg_make,73,False,False,Gordon 1' Driving Reverse Layup (2 PTS),,2-0,2,0
+0022000222,2021-01-20,HOU,PHX,0.98,1,11,1,PHX,HOU,foul,1,False,False,Wood P.FOUL (P1.T1) (L.Richardson),,2-0,2,0
+0022000222,2021-01-20,HOU,PHX,1.13,1,10,52,PHX,PHX,fg_make,43,False,False,,Ayton 3' Alley Oop Layup (2 PTS) (Booker 1 AST),2-2,2,2
+0022000222,2021-01-20,HOU,PHX,1.35,1,10,39,HOU,HOU,fg_miss,6,True,False,MISS Oladipo 10' Driving Layup,,2-2,2,2
+0022000222,2021-01-20,HOU,PHX,1.35,1,10,39,HOU,PHX,block,6,True,False,block,block,2-2,2,2
+0022000222,2021-01-20,HOU,PHX,1.38,1,10,37,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),2-2,2,2
+0022000222,2021-01-20,HOU,PHX,1.45,1,10,33,PHX,PHX,fg_make,41,False,False,,Bridges 2' Running Layup (2 PTS) (Paul 1 AST),2-4,2,4
+0022000222,2021-01-20,HOU,PHX,1.62,1,10,23,HOU,HOU,tov,45,False,False,Wood Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,2-4,2,4
+0022000222,2021-01-20,HOU,PHX,1.83,1,10,10,PHX,PHX,tov,45,False,False,,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T1),2-4,2,4
+0022000222,2021-01-20,HOU,PHX,2.03,1,9,58,HOU,HOU,fg_make,98,False,False,Gordon 2' Cutting Layup Shot (4 PTS) (Oladipo 1 AST),,4-4,4,4
+0022000222,2021-01-20,HOU,PHX,2.13,1,9,52,PHX,PHX,fg3_miss,79,False,False,,MISS Booker 28' 3PT Pullup Jump Shot,4-4,4,4
+0022000222,2021-01-20,HOU,PHX,2.15,1,9,51,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:2),,4-4,4,4
+0022000222,2021-01-20,HOU,PHX,2.35,1,9,39,HOU,HOU,fg_make,6,False,False,Oladipo 1' Driving Layup (2 PTS) (Wood 1 AST),,6-4,6,4
+0022000222,2021-01-20,HOU,PHX,2.63,1,9,22,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 24' 3PT Jump Shot,6-4,6,4
+0022000222,2021-01-20,HOU,PHX,2.7,1,9,18,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:1),6-4,6,4
+0022000222,2021-01-20,HOU,PHX,2.7,1,9,18,PHX,PHX,fg_make,97,False,False,,Ayton Tip Layup Shot (4 PTS),6-6,6,6
+0022000222,2021-01-20,HOU,PHX,2.88,1,9,7,HOU,HOU,fg3_miss,79,False,False,MISS Oladipo 26' 3PT Pullup Jump Shot,,6-6,6,6
+0022000222,2021-01-20,HOU,PHX,2.88,1,9,7,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:2),6-6,6,6
+0022000222,2021-01-20,HOU,PHX,3.03,1,8,58,PHX,PHX,tov,1,False,True,,Paul Bad Pass Turnover (P2.T2),6-6,6,6
+0022000222,2021-01-20,HOU,PHX,3.03,1,8,58,PHX,HOU,steal,1,False,True,steal,steal,6-6,6,6
+0022000222,2021-01-20,HOU,PHX,3.1,1,8,54,HOU,HOU,fg_make,74,False,False,Wood 3' Running Reverse Layup (2 PTS),,8-6,8,6
+0022000222,2021-01-20,HOU,PHX,3.42,1,8,35,PHX,HOU,foul,1,False,False,Tate P.FOUL (P1.T2) (J.Tiven),,8-6,8,6
+0022000222,2021-01-20,HOU,PHX,3.52,1,8,29,PHX,PHX,fg_make,98,False,False,,Booker 3' Cutting Layup Shot (2 PTS) (Johnson 1 AST),8-8,8,8
+0022000222,2021-01-20,HOU,PHX,3.75,1,8,15,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 26' 3PT Jump Shot,,8-8,8,8
+0022000222,2021-01-20,HOU,PHX,3.77,1,8,14,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:1),8-8,8,8
+0022000222,2021-01-20,HOU,PHX,3.95,1,8,3,PHX,PHX,fg3_make,79,False,False,,Booker 29' 3PT Pullup Jump Shot (5 PTS),8-11,8,11
+0022000222,2021-01-20,HOU,PHX,4.17,1,7,50,HOU,HOU,tov,1,False,False,Wood Bad Pass Turnover (P2.T2),,8-11,8,11
+0022000222,2021-01-20,HOU,PHX,4.43,1,7,34,PHX,PHX,tov,1,False,True,,Paul Bad Pass Turnover (P3.T3),8-11,8,11
+0022000222,2021-01-20,HOU,PHX,4.43,1,7,34,PHX,HOU,steal,1,False,True,steal,steal,8-11,8,11
+0022000222,2021-01-20,HOU,PHX,4.5,1,7,30,HOU,HOU,fg_miss,5,True,False,MISS Oladipo 3' Layup,,8-11,8,11
+0022000222,2021-01-20,HOU,PHX,4.5,1,7,30,HOU,PHX,block,5,True,False,block,block,8-11,8,11
+0022000222,2021-01-20,HOU,PHX,4.55,1,7,27,HOU,HOU,reb,0,False,False,Gordon REBOUND (Off:1 Def:0),,8-11,8,11
+0022000222,2021-01-20,HOU,PHX,4.57,1,7,26,HOU,HOU,fg_make,87,False,False,Gordon 1' Putback Dunk (6 PTS),,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,4.9,1,7,6,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P1.T4),10-11,10,11
+0022000222,2021-01-20,HOU,PHX,4.9,1,7,6,PHX,HOU,steal,1,False,True,steal,steal,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.02,1,6,59,HOU,HOU,tov,1,False,True,Tucker Bad Pass Turnover (P1.T3),,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.02,1,6,59,HOU,PHX,steal,1,False,True,steal,steal,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.17,1,6,50,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.2,1,6,48,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:3),,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.32,1,6,41,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.35,1,6,39,PHX,PHX,reb,0,False,False,,Suns Rebound,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.35,1,6,39,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,10-11,10,11
+0022000222,2021-01-20,HOU,PHX,5.7,1,6,18,PHX,PHX,fg_make,102,False,False,,Booker 5' Driving Floating Bank Jump Shot (7 PTS),10-13,10,13
+0022000222,2021-01-20,HOU,PHX,5.9,1,6,6,HOU,HOU,fg_miss,79,False,False,MISS Oladipo 20' Pullup Jump Shot,,10-13,10,13
+0022000222,2021-01-20,HOU,PHX,5.92,1,6,5,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:3),10-13,10,13
+0022000222,2021-01-20,HOU,PHX,6.07,1,5,56,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P2.T5),10-13,10,13
+0022000222,2021-01-20,HOU,PHX,6.07,1,5,56,PHX,HOU,steal,1,False,True,steal,steal,10-13,10,13
+0022000222,2021-01-20,HOU,PHX,6.17,1,5,50,HOU,HOU,fg_make,41,False,False,Wood 6' Running Layup (4 PTS),,12-13,12,13
+0022000222,2021-01-20,HOU,PHX,6.37,1,5,38,PHX,PHX,fg_make,1,False,False,,Ayton 23' Jump Shot (6 PTS),12-15,12,15
+0022000222,2021-01-20,HOU,PHX,6.6,1,5,24,HOU,HOU,fg_make,5,False,False,Tate 2' Layup (2 PTS),,14-15,14,15
+0022000222,2021-01-20,HOU,PHX,6.73,1,5,16,PHX,HOU,foul,1,False,False,Tate P.FOUL (P2.T3) (J.Tiven),,14-15,14,15
+0022000222,2021-01-20,HOU,PHX,6.88,1,5,7,PHX,PHX,fg3_miss,1,False,False,,MISS Payne 26' 3PT Jump Shot,14-15,14,15
+0022000222,2021-01-20,HOU,PHX,6.9,1,5,6,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,14-15,14,15
+0022000222,2021-01-20,HOU,PHX,7.1,1,4,54,HOU,PHX,foul,1,False,False,,Payne P.FOUL (P1.T1) (L.Richardson),14-15,14,15
+0022000222,2021-01-20,HOU,PHX,7.25,1,4,45,HOU,HOU,fg_miss,101,False,False,MISS Oladipo 10' Driving Floating Jump Shot,,14-15,14,15
+0022000222,2021-01-20,HOU,PHX,7.28,1,4,43,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),14-15,14,15
+0022000222,2021-01-20,HOU,PHX,7.35,1,4,39,PHX,HOU,foul,2,False,False,Nwaba S.FOUL (P1.T4) (L.Richardson),,14-15,14,15
+0022000222,2021-01-20,HOU,PHX,7.35,1,4,39,PHX,PHX,ft_make,11,False,False,,Ayton Free Throw 1 of 2 (7 PTS),14-16,14,16
+0022000222,2021-01-20,HOU,PHX,7.35,1,4,39,PHX,PHX,ft_make,12,False,False,,Ayton Free Throw 2 of 2 (8 PTS),14-17,14,17
+0022000222,2021-01-20,HOU,PHX,7.57,1,4,26,HOU,HOU,fg_miss,1,False,False,MISS Wood 19' Jump Shot,,14-17,14,17
+0022000222,2021-01-20,HOU,PHX,7.65,1,4,21,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:1 Def:0),,14-17,14,17
+0022000222,2021-01-20,HOU,PHX,7.65,1,4,21,HOU,HOU,fg_miss,97,False,False,MISS Nwaba Tip Layup Shot,,14-17,14,17
+0022000222,2021-01-20,HOU,PHX,7.65,1,4,21,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:2),14-17,14,17
+0022000222,2021-01-20,HOU,PHX,7.7,1,4,18,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P3.T6),14-17,14,17
+0022000222,2021-01-20,HOU,PHX,7.7,1,4,18,PHX,HOU,steal,1,False,True,steal,steal,14-17,14,17
+0022000222,2021-01-20,HOU,PHX,7.75,1,4,15,HOU,HOU,fg_make,78,False,False,Tucker 2' Floating Jump Shot (2 PTS) (Nwaba 1 AST),,16-17,16,17
+0022000222,2021-01-20,HOU,PHX,7.93,1,4,4,PHX,PHX,fg3_miss,1,False,False,,MISS Crowder 27' 3PT Jump Shot,16-17,16,17
+0022000222,2021-01-20,HOU,PHX,7.93,1,4,4,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:1),,16-17,16,17
+0022000222,2021-01-20,HOU,PHX,8.07,1,3,56,HOU,HOU,fg_make,78,False,False,Oladipo 11' Floating Jump Shot (4 PTS),,18-17,18,17
+0022000222,2021-01-20,HOU,PHX,8.32,1,3,41,PHX,PHX,fg_miss,5,True,False,,MISS Carter 5' Layup,18-17,18,17
+0022000222,2021-01-20,HOU,PHX,8.32,1,3,41,PHX,HOU,block,5,True,False,block,block,18-17,18,17
+0022000222,2021-01-20,HOU,PHX,8.32,1,3,41,PHX,PHX,reb,0,False,False,,Suns Rebound,18-17,18,17
+0022000222,2021-01-20,HOU,PHX,8.43,1,3,34,PHX,PHX,fg_make,44,False,False,,Booker 1' Reverse Layup (9 PTS),18-19,18,19
+0022000222,2021-01-20,HOU,PHX,8.65,1,3,21,HOU,HOU,fg_miss,79,False,False,MISS Wood 19' Pullup Jump Shot,,18-19,18,19
+0022000222,2021-01-20,HOU,PHX,8.7,1,3,18,PHX,PHX,reb,0,False,False,,Payne REBOUND (Off:0 Def:1),18-19,18,19
+0022000222,2021-01-20,HOU,PHX,8.98,1,3,1,PHX,HOU,foul,2,False,False,McLemore S.FOUL (P1.PN) (J.Tiven),,18-19,18,19
+0022000222,2021-01-20,HOU,PHX,8.98,1,3,1,PHX,PHX,ft_make,13,False,False,,Payne Free Throw 1 of 3 (1 PTS),18-20,18,20
+0022000222,2021-01-20,HOU,PHX,8.98,1,3,1,PHX,PHX,ft_make,14,False,False,,Payne Free Throw 2 of 3 (2 PTS),18-21,18,21
+0022000222,2021-01-20,HOU,PHX,8.98,1,3,1,PHX,PHX,ft_make,15,False,False,,Payne Free Throw 3 of 3 (3 PTS),18-22,18,22
+0022000222,2021-01-20,HOU,PHX,9.27,1,2,44,HOU,HOU,fg3_miss,1,False,False,MISS Nwaba 25' 3PT Jump Shot,,18-22,18,22
+0022000222,2021-01-20,HOU,PHX,9.3,1,2,42,PHX,PHX,reb,0,False,False,,Suns Rebound,18-22,18,22
+0022000222,2021-01-20,HOU,PHX,9.3,1,2,42,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.1 Short 0),18-22,18,22
+0022000222,2021-01-20,HOU,PHX,9.53,1,2,28,PHX,PHX,fg_miss,1,False,False,,MISS Booker 17' Jump Shot,18-22,18,22
+0022000222,2021-01-20,HOU,PHX,9.57,1,2,26,PHX,PHX,reb,0,False,False,,Suns Rebound,18-22,18,22
+0022000222,2021-01-20,HOU,PHX,9.62,1,2,23,PHX,PHX,fg_make,1,False,False,,Booker 23' Jump Shot (11 PTS) (Payne 1 AST),18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.02,1,1,59,HOU,HOU,fg_miss,6,False,False,MISS Gordon 3' Driving Layup,,18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.02,1,1,59,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.02,1,1,59,HOU,PHX,foul,3,False,False,,Crowder L.B.FOUL (P1.T2) (J.Tiven),18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.18,1,1,49,HOU,HOU,fg3_miss,1,False,False,MISS Cousins 26' 3PT Jump Shot,,18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.23,1,1,46,PHX,PHX,reb,0,False,False,,Payne REBOUND (Off:0 Def:2),18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.27,1,1,44,PHX,HOU,foul,1,False,False,Nwaba P.FOUL (P2.PN) (L.Richardson),,18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.27,1,1,44,PHX,PHX,ft_miss,11,False,False,,MISS Booker Free Throw 1 of 2,18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.27,1,1,44,PHX,PHX,reb,1,False,False,,Suns Rebound,18-24,18,24
+0022000222,2021-01-20,HOU,PHX,10.27,1,1,44,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (12 PTS),18-25,18,25
+0022000222,2021-01-20,HOU,PHX,10.48,1,1,31,HOU,PHX,foul,2,False,False,,Kaminsky S.FOUL (P1.PN) (L.Richardson),18-25,18,25
+0022000222,2021-01-20,HOU,PHX,10.48,1,1,31,HOU,HOU,ft_miss,11,False,False,MISS Cousins Free Throw 1 of 2,,18-25,18,25
+0022000222,2021-01-20,HOU,PHX,10.48,1,1,31,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,18-25,18,25
+0022000222,2021-01-20,HOU,PHX,10.48,1,1,31,HOU,HOU,ft_make,12,False,False,Cousins Free Throw 2 of 2 (1 PTS),,19-25,19,25
+0022000222,2021-01-20,HOU,PHX,10.77,1,1,14,PHX,PHX,fg3_miss,1,False,False,,MISS Kaminsky 25' 3PT Jump Shot,19-25,19,25
+0022000222,2021-01-20,HOU,PHX,10.78,1,1,13,HOU,HOU,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,19-25,19,25
+0022000222,2021-01-20,HOU,PHX,11.02,1,0,59,HOU,HOU,fg_make,73,False,False,Gordon 1' Driving Reverse Layup (8 PTS) (Brown 1 AST),,21-25,21,25
+0022000222,2021-01-20,HOU,PHX,11.23,1,0,46,PHX,PHX,fg_make,5,False,False,,Kaminsky 3' Layup (2 PTS) (Payne 2 AST),21-27,21,27
+0022000222,2021-01-20,HOU,PHX,11.47,1,0,32,HOU,HOU,fg_make,98,False,False,Brown 1' Cutting Layup Shot (2 PTS) (Cousins 1 AST),,23-27,23,27
+0022000222,2021-01-20,HOU,PHX,11.85,1,0,9,PHX,PHX,fg3_make,1,False,False,,Crowder 3PT Jump Shot (3 PTS) (Payne 3 AST),23-30,23,30
+0022000222,2021-01-20,HOU,PHX,12.0,1,0,0,HOU,HOU,fg_miss,86,False,False,MISS Gordon 20' Turnaround Fadeaway Shot,,23-30,23,30
+0022000222,2021-01-20,HOU,PHX,12.0,1,0,0,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:3),23-30,23,30
+0022000222,2021-01-20,HOU,PHX,12.0,1,0,0,PHX,,period_end,0,False,False,,,23-30,23,30
+0022000222,2021-01-20,HOU,PHX,12.0,2,12,0,PHX,,period_start,0,False,False,,,23-30,23,30
+0022000222,2021-01-20,HOU,PHX,12.25,2,11,45,PHX,PHX,fg3_miss,79,False,False,,MISS Crowder 27' 3PT Pullup Jump Shot,23-30,23,30
+0022000222,2021-01-20,HOU,PHX,12.27,2,11,44,HOU,HOU,reb,0,False,False,Cousins REBOUND (Off:0 Def:1),,23-30,23,30
+0022000222,2021-01-20,HOU,PHX,12.57,2,11,26,HOU,HOU,fg_make,6,False,False,Gordon 1' Driving Layup (10 PTS) (Cousins 2 AST),,25-30,25,30
+0022000222,2021-01-20,HOU,PHX,12.83,2,11,10,PHX,PHX,fg_miss,79,False,False,,MISS Crowder 14' Pullup Jump Shot,25-30,25,30
+0022000222,2021-01-20,HOU,PHX,12.85,2,11,9,HOU,HOU,reb,0,False,False,Cousins REBOUND (Off:0 Def:2),,25-30,25,30
+0022000222,2021-01-20,HOU,PHX,13.08,2,10,55,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 3PT Jump Shot,,25-30,25,30
+0022000222,2021-01-20,HOU,PHX,13.08,2,10,55,PHX,PHX,reb,0,False,False,,Paul REBOUND (Off:0 Def:1),25-30,25,30
+0022000222,2021-01-20,HOU,PHX,13.25,2,10,45,PHX,PHX,fg_make,79,False,False,,Paul 14' Pullup Jump Shot (2 PTS),25-32,25,32
+0022000222,2021-01-20,HOU,PHX,13.45,2,10,33,HOU,HOU,fg3_make,79,False,False,McLemore 25' 3PT Pullup Jump Shot (3 PTS) (Gordon 1 AST),,28-32,28,32
+0022000222,2021-01-20,HOU,PHX,13.45,2,10,33,HOU,PHX,foul,2,False,False,,Nader S.FOUL (P1.T1) (L.Richardson),28-32,28,32
+0022000222,2021-01-20,HOU,PHX,13.45,2,10,33,HOU,HOU,ft_make,10,False,False,McLemore Free Throw 1 of 1 (4 PTS),,29-32,29,32
+0022000222,2021-01-20,HOU,PHX,13.67,2,10,20,PHX,PHX,fg3_miss,1,False,False,,MISS Carter 26' 3PT Jump Shot,29-32,29,32
+0022000222,2021-01-20,HOU,PHX,13.68,2,10,19,HOU,HOU,reb,0,False,False,Gordon REBOUND (Off:1 Def:1),,29-32,29,32
+0022000222,2021-01-20,HOU,PHX,13.87,2,10,8,HOU,HOU,tov,4,False,False,Cousins Traveling Turnover (P1.T4),,29-32,29,32
+0022000222,2021-01-20,HOU,PHX,13.98,2,10,1,PHX,PHX,fg_make,79,False,False,,Paul 14' Pullup Jump Shot (4 PTS),29-34,29,34
+0022000222,2021-01-20,HOU,PHX,14.35,2,9,39,HOU,HOU,tov,1,False,True,Cousins Bad Pass Turnover (P2.T5),,29-34,29,34
+0022000222,2021-01-20,HOU,PHX,14.35,2,9,39,HOU,PHX,steal,1,False,True,steal,steal,29-34,29,34
+0022000222,2021-01-20,HOU,PHX,14.53,2,9,28,PHX,PHX,fg_make,79,False,False,,Paul 15' Pullup Jump Shot (6 PTS),29-36,29,36
+0022000222,2021-01-20,HOU,PHX,14.67,2,9,20,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,29-36,29,36
+0022000222,2021-01-20,HOU,PHX,15.02,2,8,59,HOU,HOU,fg_make,47,False,False,Cousins 13' Turnaround Jump Shot (3 PTS),,31-36,31,36
+0022000222,2021-01-20,HOU,PHX,15.22,2,8,47,PHX,PHX,fg_make,1,False,False,,Nader 6' Jump Shot (2 PTS) (Paul 2 AST),31-38,31,38
+0022000222,2021-01-20,HOU,PHX,15.22,2,8,47,PHX,HOU,foul,2,False,False,Cousins S.FOUL (P1.T1) (J.Tiven),,31-38,31,38
+0022000222,2021-01-20,HOU,PHX,15.22,2,8,47,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,31-38,31,38
+0022000222,2021-01-20,HOU,PHX,15.22,2,8,47,HOU,PHX,ft_make,10,False,False,,Nader Free Throw 1 of 1 (3 PTS),31-39,31,39
+0022000222,2021-01-20,HOU,PHX,15.48,2,8,31,HOU,HOU,fg_miss,5,True,False,MISS Gordon 4' Layup,,31-39,31,39
+0022000222,2021-01-20,HOU,PHX,15.48,2,8,31,HOU,PHX,block,5,True,False,block,block,31-39,31,39
+0022000222,2021-01-20,HOU,PHX,15.53,2,8,28,PHX,PHX,reb,0,False,False,,Nader REBOUND (Off:0 Def:1),31-39,31,39
+0022000222,2021-01-20,HOU,PHX,15.62,2,8,23,PHX,PHX,tov,1,False,True,,Johnson Bad Pass Turnover (P1.T7),31-39,31,39
+0022000222,2021-01-20,HOU,PHX,15.62,2,8,23,PHX,HOU,steal,1,False,True,steal,steal,31-39,31,39
+0022000222,2021-01-20,HOU,PHX,15.62,2,8,23,HOU,HOU,tov,45,False,False,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,31-39,31,39
+0022000222,2021-01-20,HOU,PHX,15.72,2,8,17,PHX,PHX,fg_make,75,False,False,,Ayton 3' Driving Finger Roll Layup (10 PTS) (Johnson 2 AST),31-41,31,41
+0022000222,2021-01-20,HOU,PHX,15.95,2,8,3,HOU,HOU,fg3_make,1,False,False,Jones 3PT Jump Shot (3 PTS) (Wood 2 AST),,34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.27,2,7,44,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 29' 3PT Jump Shot,34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.27,2,7,44,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:3),34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.33,2,7,40,PHX,PHX,tov,2,False,True,,Ayton Lost Ball Turnover (P1.T8),34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.33,2,7,40,PHX,HOU,steal,2,False,True,steal,steal,34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.62,2,7,23,HOU,HOU,fg3_miss,1,False,False,MISS Wood 25' 3PT Jump Shot,,34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.63,2,7,22,PHX,PHX,reb,0,False,False,,Nader REBOUND (Off:0 Def:2),34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.75,2,7,15,PHX,PHX,fg_miss,1,False,False,,MISS Bridges 22' Jump Shot,34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.75,2,7,15,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:1),,34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.9,2,7,6,HOU,PHX,foul,2,False,False,,Ayton S.FOUL (P1.T2) (J.Tiven),34-41,34,41
+0022000222,2021-01-20,HOU,PHX,16.9,2,7,6,HOU,HOU,ft_make,11,False,False,Wood Free Throw 1 of 2 (5 PTS),,35-41,35,41
+0022000222,2021-01-20,HOU,PHX,16.9,2,7,6,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.2 Short 0),35-41,35,41
+0022000222,2021-01-20,HOU,PHX,16.9,2,7,6,HOU,HOU,ft_miss,12,False,False,MISS Wood Free Throw 2 of 2,,35-41,35,41
+0022000222,2021-01-20,HOU,PHX,16.9,2,7,6,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:4),35-41,35,41
+0022000222,2021-01-20,HOU,PHX,17.3,2,6,42,PHX,PHX,fg3_make,79,False,False,,Paul 27' 3PT Pullup Jump Shot (9 PTS),35-44,35,44
+0022000222,2021-01-20,HOU,PHX,17.52,2,6,29,HOU,HOU,tov,1,False,True,Jones Bad Pass Turnover (P2.T7),,35-44,35,44
+0022000222,2021-01-20,HOU,PHX,17.52,2,6,29,HOU,PHX,steal,1,False,True,steal,steal,35-44,35,44
+0022000222,2021-01-20,HOU,PHX,17.6,2,6,24,PHX,PHX,fg3_miss,2,False,False,,MISS Johnson 26' 3PT Running Jump Shot,35-44,35,44
+0022000222,2021-01-20,HOU,PHX,17.63,2,6,22,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:1 Def:1),,35-44,35,44
+0022000222,2021-01-20,HOU,PHX,17.72,2,6,17,HOU,HOU,fg_make,41,False,False,Nwaba 2' Running Layup (2 PTS),,37-44,37,44
+0022000222,2021-01-20,HOU,PHX,17.98,2,6,1,HOU,PHX,foul,4,False,False,,Booker OFF.Foul (P1) (L.Richardson),37-44,37,44
+0022000222,2021-01-20,HOU,PHX,17.98,2,6,1,PHX,PHX,tov,37,False,False,,Booker Offensive Foul Turnover (P4.T9),37-44,37,44
+0022000222,2021-01-20,HOU,PHX,18.15,2,5,51,HOU,HOU,fg3_make,79,False,False,Jones 25' 3PT Pullup Jump Shot (6 PTS),,40-44,40,44
+0022000222,2021-01-20,HOU,PHX,18.38,2,5,37,PHX,PHX,fg3_miss,1,False,False,,MISS Crowder 26' 3PT Jump Shot,40-44,40,44
+0022000222,2021-01-20,HOU,PHX,18.38,2,5,37,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:1 Def:2),,40-44,40,44
+0022000222,2021-01-20,HOU,PHX,18.58,2,5,25,PHX,PHX,timeout,7,False,False,,Suns Timeout: Coach Challenge (Reg.2 Short 0),40-44,40,44
+0022000222,2021-01-20,HOU,PHX,18.75,2,5,15,,HOU,jump_ball,1,False,False,Coach Challenge,,40-44,40,44
+0022000222,2021-01-20,HOU,PHX,18.8,2,5,12,HOU,HOU,fg_miss,80,False,False,MISS Oladipo 13' Step Back Jump Shot,,40-44,40,44
+0022000222,2021-01-20,HOU,PHX,18.87,2,5,8,PHX,PHX,reb,0,False,False,,Crowder REBOUND (Off:0 Def:1),40-44,40,44
+0022000222,2021-01-20,HOU,PHX,19.02,2,4,59,PHX,HOU,foul,1,False,False,Tucker P.FOUL (P1.T2) (J.Tiven),,40-44,40,44
+0022000222,2021-01-20,HOU,PHX,19.23,2,4,46,PHX,PHX,fg3_make,1,False,False,,Crowder 26' 3PT Jump Shot (6 PTS) (Payne 4 AST),40-47,40,47
+0022000222,2021-01-20,HOU,PHX,19.42,2,4,35,HOU,HOU,fg_miss,79,False,False,MISS Wood 20' Pullup Jump Shot,,40-47,40,47
+0022000222,2021-01-20,HOU,PHX,19.47,2,4,32,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),40-47,40,47
+0022000222,2021-01-20,HOU,PHX,19.6,2,4,24,PHX,PHX,fg3_make,1,False,False,,Payne 25' 3PT Jump Shot (6 PTS) (Kaminsky 1 AST),40-50,40,50
+0022000222,2021-01-20,HOU,PHX,19.75,2,4,15,HOU,HOU,fg_miss,6,True,False,MISS Oladipo 5' Driving Layup,,40-50,40,50
+0022000222,2021-01-20,HOU,PHX,19.75,2,4,15,HOU,PHX,block,6,True,False,block,block,40-50,40,50
+0022000222,2021-01-20,HOU,PHX,19.82,2,4,11,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:4),40-50,40,50
+0022000222,2021-01-20,HOU,PHX,19.82,2,4,11,PHX,PHX,fg_make,50,False,False,,Crowder 2' Running Dunk (8 PTS) (Booker 2 AST),40-52,40,52
+0022000222,2021-01-20,HOU,PHX,19.82,2,4,11,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,40-52,40,52
+0022000222,2021-01-20,HOU,PHX,20.05,2,3,57,PHX,HOU,foul,4,False,False,Tucker OFF.Foul (P2) (J.Tiven),,40-52,40,52
+0022000222,2021-01-20,HOU,PHX,20.05,2,3,57,HOU,HOU,tov,37,False,False,Tucker Offensive Foul Turnover (P2.T8),,40-52,40,52
+0022000222,2021-01-20,HOU,PHX,20.23,2,3,46,PHX,PHX,fg_make,44,False,False,,Bridges 2' Reverse Layup (4 PTS) (Payne 5 AST),40-54,40,54
+0022000222,2021-01-20,HOU,PHX,20.23,2,3,46,PHX,HOU,foul,2,False,False,Tate S.FOUL (P3.T3) (J.Tiven),,40-54,40,54
+0022000222,2021-01-20,HOU,PHX,20.23,2,3,46,PHX,PHX,ft_make,10,False,False,,Bridges Free Throw 1 of 1 (5 PTS),40-55,40,55
+0022000222,2021-01-20,HOU,PHX,20.38,2,3,37,HOU,PHX,foul,1,False,False,,Kaminsky P.FOUL (P2.T3) (J.Tiven),40-55,40,55
+0022000222,2021-01-20,HOU,PHX,20.55,2,3,27,HOU,HOU,fg3_miss,1,False,False,MISS Oladipo 28' 3PT Jump Shot,,40-55,40,55
+0022000222,2021-01-20,HOU,PHX,20.55,2,3,27,PHX,PHX,reb,0,False,False,,Suns Rebound,40-55,40,55
+0022000222,2021-01-20,HOU,PHX,20.92,2,3,5,PHX,PHX,fg3_miss,1,False,False,,MISS Kaminsky 25' 3PT Jump Shot,40-55,40,55
+0022000222,2021-01-20,HOU,PHX,20.93,2,3,4,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:2),,40-55,40,55
+0022000222,2021-01-20,HOU,PHX,21.13,2,2,52,HOU,HOU,tov,40,False,False,Tate Out of Bounds Lost Ball Turnover (P1.T9),,40-55,40,55
+0022000222,2021-01-20,HOU,PHX,21.25,2,2,45,PHX,PHX,fg_make,108,False,False,,Kaminsky 2' Cutting Dunk Shot (4 PTS) (Bridges 1 AST),40-57,40,57
+0022000222,2021-01-20,HOU,PHX,21.62,2,2,23,HOU,HOU,fg_miss,78,False,False,MISS Tucker 9' Floating Jump Shot,,40-57,40,57
+0022000222,2021-01-20,HOU,PHX,21.62,2,2,23,PHX,PHX,reb,0,False,False,,Kaminsky REBOUND (Off:0 Def:1),40-57,40,57
+0022000222,2021-01-20,HOU,PHX,21.65,2,2,21,PHX,HOU,foul,28,False,False,Tucker Personal Take Foul (P3.T4) (J.Tiven),,40-57,40,57
+0022000222,2021-01-20,HOU,PHX,21.75,2,2,15,PHX,PHX,fg3_miss,1,False,False,,MISS Crowder 26' 3PT Jump Shot,40-57,40,57
+0022000222,2021-01-20,HOU,PHX,21.75,2,2,15,HOU,HOU,reb,0,False,False,Cousins REBOUND (Off:0 Def:3),,40-57,40,57
+0022000222,2021-01-20,HOU,PHX,21.93,2,2,4,HOU,HOU,fg_make,101,False,False,Oladipo 9' Driving Floating Jump Shot (6 PTS),,42-57,42,57
+0022000222,2021-01-20,HOU,PHX,22.23,2,1,46,PHX,PHX,fg_make,75,False,False,,Payne 4' Driving Finger Roll Layup (8 PTS),42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.53,2,1,28,HOU,HOU,fg_miss,79,False,False,MISS Oladipo 17' Pullup Jump Shot,,42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.53,2,1,28,PHX,PHX,reb,0,False,False,,Crowder REBOUND (Off:0 Def:2),42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.63,2,1,22,PHX,PHX,fg_miss,41,True,False,,MISS Kaminsky 3' Running Layup,42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.63,2,1,22,PHX,HOU,block,41,True,False,block,block,42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.68,2,1,19,HOU,HOU,reb,0,False,False,Oladipo REBOUND (Off:0 Def:1),,42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.85,2,1,9,HOU,PHX,foul,2,False,False,,Kaminsky S.FOUL (P3.T4) (L.Richardson),42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.85,2,1,9,HOU,HOU,ft_miss,11,False,False,MISS Gordon Free Throw 1 of 2,,42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.85,2,1,9,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,42-59,42,59
+0022000222,2021-01-20,HOU,PHX,22.85,2,1,9,HOU,HOU,ft_make,12,False,False,Gordon Free Throw 2 of 2 (11 PTS),,43-59,43,59
+0022000222,2021-01-20,HOU,PHX,23.15,2,0,51,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P5.T10),43-59,43,59
+0022000222,2021-01-20,HOU,PHX,23.15,2,0,51,PHX,HOU,steal,1,False,True,steal,steal,43-59,43,59
+0022000222,2021-01-20,HOU,PHX,23.2,2,0,48,HOU,HOU,fg_make,76,False,False,Oladipo 2' Running Finger Roll Layup (8 PTS),,45-59,45,59
+0022000222,2021-01-20,HOU,PHX,23.33,2,0,40,HOU,PHX,foul,4,False,False,,Booker OFF.Foul (P2) (L.Richardson),45-59,45,59
+0022000222,2021-01-20,HOU,PHX,23.33,2,0,40,PHX,PHX,tov,37,False,False,,Booker Offensive Foul Turnover (P6.T11),45-59,45,59
+0022000222,2021-01-20,HOU,PHX,23.45,2,0,33,HOU,HOU,fg3_make,79,False,False,Oladipo 25' 3PT Pullup Jump Shot (11 PTS),,48-59,48,59
+0022000222,2021-01-20,HOU,PHX,23.48,2,0,31,PHX,HOU,foul,1,False,False,Cousins P.FOUL (P2.PN) (J.Tiven),,48-59,48,59
+0022000222,2021-01-20,HOU,PHX,23.48,2,0,31,PHX,PHX,ft_make,11,False,False,,Paul Free Throw 1 of 2 (10 PTS),48-60,48,60
+0022000222,2021-01-20,HOU,PHX,23.48,2,0,31,PHX,PHX,ft_make,12,False,False,,Paul Free Throw 2 of 2 (11 PTS),48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.67,2,0,20,HOU,HOU,fg_miss,6,True,False,MISS Oladipo 3' Driving Layup,,48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.67,2,0,20,HOU,PHX,block,6,True,False,block,block,48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.67,2,0,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.75,2,0,15,HOU,HOU,fg_miss,78,True,False,MISS Oladipo 7' Floating Jump Shot,,48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.75,2,0,15,HOU,PHX,block,78,True,False,block,block,48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.75,2,0,15,PHX,PHX,reb,0,False,False,,Suns Rebound,48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.75,2,0,15,PHX,HOU,foul,3,False,False,Oladipo L.B.FOUL (P1.PN) (L.Richardson),,48-61,48,61
+0022000222,2021-01-20,HOU,PHX,23.75,2,0,15,PHX,PHX,ft_make,11,False,False,,Paul Free Throw 1 of 2 (12 PTS),48-62,48,62
+0022000222,2021-01-20,HOU,PHX,23.75,2,0,15,PHX,PHX,ft_make,12,False,False,,Paul Free Throw 2 of 2 (13 PTS),48-63,48,63
+0022000222,2021-01-20,HOU,PHX,23.98,2,0,1,HOU,HOU,fg3_make,1,False,False,Gordon 29' 3PT Jump Shot (14 PTS) (Oladipo 2 AST),,51-63,51,63
+0022000222,2021-01-20,HOU,PHX,24.0,2,0,0,HOU,,period_end,0,False,False,,,51-63,51,63
+0022000222,2021-01-20,HOU,PHX,24.0,3,12,0,HOU,,period_start,0,False,False,,,51-63,51,63
+0022000222,2021-01-20,HOU,PHX,24.23,3,11,46,PHX,PHX,fg_make,7,False,False,,Ayton Dunk (12 PTS) (Bridges 2 AST),51-65,51,65
+0022000222,2021-01-20,HOU,PHX,24.53,3,11,28,HOU,HOU,tov,40,False,False,Gordon Out of Bounds Lost Ball Turnover (P1.T10),,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,24.73,3,11,16,PHX,PHX,fg_miss,86,False,False,,MISS Ayton 12' Turnaround Fadeaway Shot,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,24.75,3,11,15,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:4),,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.02,3,10,59,HOU,HOU,fg_miss,101,True,False,MISS Wood 7' Driving Floating Jump Shot,,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.02,3,10,59,HOU,PHX,block,101,True,False,block,block,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.02,3,10,59,PHX,PHX,reb,0,False,False,,Suns Rebound,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.15,3,10,51,HOU,PHX,foul,4,False,False,,Bridges OFF.Foul (P1) (L.Richardson),51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.15,3,10,51,PHX,PHX,tov,37,False,False,,Bridges Offensive Foul Turnover (P1.T12),51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.33,3,10,40,PHX,HOU,foul,4,False,False,Oladipo OFF.Foul (P2) (J.Tiven),,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.33,3,10,40,HOU,HOU,tov,37,False,False,Oladipo Offensive Foul Turnover (P1.T11),,51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.53,3,10,28,PHX,PHX,tov,8,False,False,,Ayton 3 Second Violation Turnover (P2.T13),51-65,51,65
+0022000222,2021-01-20,HOU,PHX,25.7,3,10,18,HOU,HOU,fg3_make,79,False,False,Gordon 29' 3PT Pullup Jump Shot (17 PTS),,54-65,54,65
+0022000222,2021-01-20,HOU,PHX,25.97,3,10,2,PHX,PHX,fg_make,101,False,False,,Booker 2' Driving Floating Jump Shot (14 PTS) (Ayton 1 AST),54-67,54,67
+0022000222,2021-01-20,HOU,PHX,26.2,3,9,48,HOU,HOU,fg3_miss,1,False,False,MISS Wood 26' 3PT Jump Shot,,54-67,54,67
+0022000222,2021-01-20,HOU,PHX,26.2,3,9,48,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:5),54-67,54,67
+0022000222,2021-01-20,HOU,PHX,26.37,3,9,38,PHX,PHX,fg_make,79,False,False,,Booker 11' Pullup Jump Shot (16 PTS),54-69,54,69
+0022000222,2021-01-20,HOU,PHX,26.65,3,9,21,HOU,HOU,fg_miss,66,False,False,MISS Gordon 16' Jump Bank Shot,,54-69,54,69
+0022000222,2021-01-20,HOU,PHX,26.67,3,9,20,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:6),54-69,54,69
+0022000222,2021-01-20,HOU,PHX,26.83,3,9,10,PHX,PHX,fg_miss,79,False,False,,MISS Paul 18' Pullup Jump Shot,54-69,54,69
+0022000222,2021-01-20,HOU,PHX,26.85,3,9,9,HOU,HOU,reb,0,False,False,Oladipo REBOUND (Off:0 Def:2),,54-69,54,69
+0022000222,2021-01-20,HOU,PHX,27.03,3,8,58,HOU,HOU,tov,40,False,False,Tate Out of Bounds Lost Ball Turnover (P2.T12),,54-69,54,69
+0022000222,2021-01-20,HOU,PHX,27.28,3,8,43,PHX,PHX,fg3_make,1,False,False,,Bridges 3PT Jump Shot (8 PTS) (Ayton 2 AST),54-72,54,72
+0022000222,2021-01-20,HOU,PHX,27.53,3,8,28,HOU,HOU,fg3_miss,1,False,False,MISS Tate 25' 3PT Jump Shot,,54-72,54,72
+0022000222,2021-01-20,HOU,PHX,27.53,3,8,28,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),54-72,54,72
+0022000222,2021-01-20,HOU,PHX,27.67,3,8,20,PHX,PHX,tov,40,False,False,,Bridges Out of Bounds Lost Ball Turnover (P2.T14),54-72,54,72
+0022000222,2021-01-20,HOU,PHX,27.87,3,8,8,HOU,HOU,tov,1,False,True,Oladipo Bad Pass Turnover (P2.T13),,54-72,54,72
+0022000222,2021-01-20,HOU,PHX,27.87,3,8,8,HOU,PHX,steal,1,False,True,steal,steal,54-72,54,72
+0022000222,2021-01-20,HOU,PHX,27.93,3,8,4,PHX,PHX,fg_make,50,False,False,,Johnson 3' Running Dunk (2 PTS) (Bridges 3 AST),54-74,54,74
+0022000222,2021-01-20,HOU,PHX,27.93,3,8,4,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 5 Short 0),,54-74,54,74
+0022000222,2021-01-20,HOU,PHX,28.23,3,7,46,HOU,HOU,fg3_make,79,False,False,Gordon 27' 3PT Pullup Jump Shot (20 PTS),,57-74,57,74
+0022000222,2021-01-20,HOU,PHX,28.53,3,7,28,PHX,PHX,fg3_miss,1,False,False,,MISS Paul 26' 3PT Jump Shot,57-74,57,74
+0022000222,2021-01-20,HOU,PHX,28.57,3,7,26,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:5),,57-74,57,74
+0022000222,2021-01-20,HOU,PHX,28.83,3,7,10,HOU,HOU,fg3_make,1,False,False,Wood 3PT Jump Shot (8 PTS) (Oladipo 3 AST),,60-74,60,74
+0022000222,2021-01-20,HOU,PHX,29.02,3,6,59,PHX,PHX,fg_miss,102,False,False,,MISS Booker 6' Driving Floating Bank Jump Shot,60-74,60,74
+0022000222,2021-01-20,HOU,PHX,29.02,3,6,59,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,60-74,60,74
+0022000222,2021-01-20,HOU,PHX,29.22,3,6,47,HOU,HOU,fg_make,79,False,False,Oladipo 18' Pullup Jump Shot (13 PTS),,62-74,62,74
+0022000222,2021-01-20,HOU,PHX,29.53,3,6,28,PHX,PHX,fg3_make,1,False,False,,Johnson 25' 3PT Jump Shot (5 PTS) (Bridges 4 AST),62-77,62,77
+0022000222,2021-01-20,HOU,PHX,29.82,3,6,11,HOU,HOU,fg_make,9,False,False,Wood 2' Driving Dunk (10 PTS) (Oladipo 4 AST),,64-77,64,77
+0022000222,2021-01-20,HOU,PHX,30.1,3,5,54,PHX,PHX,fg3_miss,79,False,False,,MISS Booker 25' 3PT Pullup Jump Shot,64-77,64,77
+0022000222,2021-01-20,HOU,PHX,30.1,3,5,54,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:6),64-77,64,77
+0022000222,2021-01-20,HOU,PHX,30.33,3,5,40,PHX,PHX,fg_make,52,False,False,,Ayton 1' Alley Oop Dunk (14 PTS) (Johnson 3 AST),64-79,64,79
+0022000222,2021-01-20,HOU,PHX,30.62,3,5,23,HOU,HOU,fg3_make,1,False,False,Tate 26' 3PT Jump Shot (5 PTS) (Oladipo 5 AST),,67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.03,3,4,58,PHX,PHX,fg_miss,5,True,False,,MISS Booker 8' Layup,67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.03,3,4,58,PHX,HOU,block,5,True,False,block,block,67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.08,3,4,55,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:6),,67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.2,3,4,48,HOU,HOU,fg_miss,6,False,False,MISS Gordon 2' Driving Layup,,67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.23,3,4,46,PHX,PHX,reb,0,False,False,,Paul REBOUND (Off:0 Def:2),67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.33,3,4,40,PHX,PHX,fg_miss,76,False,False,,MISS Bridges 2' Running Finger Roll Layup,67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.4,3,4,36,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:6),67-79,67,79
+0022000222,2021-01-20,HOU,PHX,31.4,3,4,36,PHX,PHX,fg_make,97,False,False,,Ayton Tip Layup Shot (16 PTS),67-81,67,81
+0022000222,2021-01-20,HOU,PHX,31.75,3,4,15,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 30' 3PT Jump Shot,,67-81,67,81
+0022000222,2021-01-20,HOU,PHX,31.78,3,4,13,HOU,HOU,reb,0,False,False,Oladipo REBOUND (Off:1 Def:2),,67-81,67,81
+0022000222,2021-01-20,HOU,PHX,31.9,3,4,6,HOU,PHX,foul,1,False,False,,Paul P.FOUL (P1.T1) (L.Richardson),67-81,67,81
+0022000222,2021-01-20,HOU,PHX,32.02,3,3,59,HOU,PHX,foul,2,False,False,,Bridges S.FOUL (P2.T2) (J.Tiven),67-81,67,81
+0022000222,2021-01-20,HOU,PHX,32.02,3,3,59,HOU,HOU,ft_make,13,False,False,Oladipo Free Throw 1 of 3 (14 PTS),,68-81,68,81
+0022000222,2021-01-20,HOU,PHX,32.02,3,3,59,HOU,HOU,ft_make,14,False,False,Oladipo Free Throw 2 of 3 (15 PTS),,69-81,69,81
+0022000222,2021-01-20,HOU,PHX,32.02,3,3,59,HOU,HOU,ft_make,15,False,False,Oladipo Free Throw 3 of 3 (16 PTS),,70-81,70,81
+0022000222,2021-01-20,HOU,PHX,32.33,3,3,40,PHX,HOU,foul,2,False,False,Tate S.FOUL (P4.T1) (L.Richardson),,70-81,70,81
+0022000222,2021-01-20,HOU,PHX,32.33,3,3,40,PHX,PHX,ft_miss,11,False,False,,MISS Crowder Free Throw 1 of 2,70-81,70,81
+0022000222,2021-01-20,HOU,PHX,32.33,3,3,40,PHX,PHX,reb,1,False,False,,Suns Rebound,70-81,70,81
+0022000222,2021-01-20,HOU,PHX,32.33,3,3,40,PHX,PHX,ft_make,12,False,False,,Crowder Free Throw 2 of 2 (9 PTS),70-82,70,82
+0022000222,2021-01-20,HOU,PHX,32.6,3,3,24,HOU,HOU,fg3_make,1,False,False,Wood 26' 3PT Jump Shot (13 PTS) (Oladipo 6 AST),,73-82,73,82
+0022000222,2021-01-20,HOU,PHX,32.85,3,3,9,PHX,PHX,fg_miss,79,False,False,,MISS Booker 18' Pullup Jump Shot,73-82,73,82
+0022000222,2021-01-20,HOU,PHX,32.85,3,3,9,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:3),,73-82,73,82
+0022000222,2021-01-20,HOU,PHX,33.17,3,2,50,HOU,HOU,fg_make,6,False,False,Brown 3' Driving Layup (4 PTS),,75-82,75,82
+0022000222,2021-01-20,HOU,PHX,33.43,3,2,34,PHX,PHX,fg3_miss,1,False,False,,MISS Crowder 25' 3PT Jump Shot,75-82,75,82
+0022000222,2021-01-20,HOU,PHX,33.43,3,2,34,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:4),,75-82,75,82
+0022000222,2021-01-20,HOU,PHX,33.52,3,2,29,HOU,PHX,foul,2,False,False,,Booker S.FOUL (P3.T3) (L.Richardson),75-82,75,82
+0022000222,2021-01-20,HOU,PHX,33.52,3,2,29,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.3 Short 0),75-82,75,82
+0022000222,2021-01-20,HOU,PHX,33.52,3,2,29,PHX,HOU,ft_make,11,False,False,Tate Free Throw 1 of 2 (6 PTS),,76-82,76,82
+0022000222,2021-01-20,HOU,PHX,33.52,3,2,29,PHX,HOU,ft_make,12,False,False,Tate Free Throw 2 of 2 (7 PTS),,77-82,77,82
+0022000222,2021-01-20,HOU,PHX,33.87,3,2,8,PHX,PHX,fg_miss,75,True,False,,MISS Payne 4' Driving Finger Roll Layup,77-82,77,82
+0022000222,2021-01-20,HOU,PHX,33.87,3,2,8,PHX,HOU,block,75,True,False,block,block,77-82,77,82
+0022000222,2021-01-20,HOU,PHX,33.92,3,2,5,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:5),,77-82,77,82
+0022000222,2021-01-20,HOU,PHX,34.07,3,1,56,HOU,HOU,fg_miss,1,False,False,MISS Wood 20' Jump Shot,,77-82,77,82
+0022000222,2021-01-20,HOU,PHX,34.07,3,1,56,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),77-82,77,82
+0022000222,2021-01-20,HOU,PHX,34.27,3,1,44,PHX,PHX,fg3_miss,1,False,False,,MISS Crowder 3PT Jump Shot,77-82,77,82
+0022000222,2021-01-20,HOU,PHX,34.28,3,1,43,PHX,PHX,reb,0,False,False,,Kaminsky REBOUND (Off:1 Def:1),77-82,77,82
+0022000222,2021-01-20,HOU,PHX,34.38,3,1,37,PHX,PHX,fg3_make,1,False,False,,Johnson 3PT Jump Shot (8 PTS) (Crowder 1 AST),77-85,77,85
+0022000222,2021-01-20,HOU,PHX,34.87,3,1,8,HOU,HOU,fg_make,101,False,False,Wood 12' Driving Floating Jump Shot (15 PTS) (Brown 2 AST),,79-85,79,85
+0022000222,2021-01-20,HOU,PHX,35.1,3,0,54,PHX,PHX,fg_make,1,False,False,,Payne 16' Jump Shot (10 PTS),79-87,79,87
+0022000222,2021-01-20,HOU,PHX,35.25,3,0,45,HOU,HOU,fg_miss,6,False,False,MISS Brown 2' Driving Layup,,79-87,79,87
+0022000222,2021-01-20,HOU,PHX,35.25,3,0,45,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:5),79-87,79,87
+0022000222,2021-01-20,HOU,PHX,35.38,3,0,37,PHX,PHX,fg_make,63,False,False,,Booker 12' Fadeaway Jumper (18 PTS),79-89,79,89
+0022000222,2021-01-20,HOU,PHX,35.67,3,0,20,HOU,HOU,fg_miss,6,False,False,MISS Wood 7' Driving Layup,,79-89,79,89
+0022000222,2021-01-20,HOU,PHX,35.67,3,0,20,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:2 Def:2),,79-89,79,89
+0022000222,2021-01-20,HOU,PHX,35.68,3,0,19,HOU,HOU,fg_make,101,False,False,Nwaba 2' Driving Floating Jump Shot (4 PTS),,81-89,81,89
+0022000222,2021-01-20,HOU,PHX,35.68,3,0,19,HOU,PHX,foul,2,False,False,,Booker S.FOUL (P4.T4) (J.Tiven),81-89,81,89
+0022000222,2021-01-20,HOU,PHX,35.68,3,0,19,HOU,HOU,ft_make,10,False,False,Nwaba Free Throw 1 of 1 (5 PTS),,82-89,82,89
+0022000222,2021-01-20,HOU,PHX,36.0,3,0,0,PHX,PHX,fg_miss,1,False,False,,MISS Kaminsky 18' Jump Shot,82-89,82,89
+0022000222,2021-01-20,HOU,PHX,36.0,3,0,0,PHX,PHX,reb,0,False,False,,Suns Rebound,82-89,82,89
+0022000222,2021-01-20,HOU,PHX,36.0,3,0,0,PHX,,period_end,0,False,False,,,82-89,82,89
+0022000222,2021-01-20,HOU,PHX,36.0,4,12,0,PHX,,period_start,0,False,False,,,82-89,82,89
+0022000222,2021-01-20,HOU,PHX,36.17,4,11,50,HOU,HOU,fg_make,98,False,False,Jones 2' Cutting Layup Shot (8 PTS) (Cousins 3 AST),,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.43,4,11,34,PHX,PHX,tov,1,False,True,,Paul Bad Pass Turnover (P4.T15),84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.43,4,11,34,PHX,HOU,steal,1,False,True,steal,steal,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.47,4,11,32,HOU,HOU,tov,2,False,True,Brown Lost Ball Turnover (P1.T14),,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.47,4,11,32,HOU,PHX,steal,2,False,True,steal,steal,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.55,4,11,27,PHX,PHX,fg3_miss,1,False,False,,MISS Crowder 25' 3PT Jump Shot,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.63,4,11,22,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.63,4,11,22,PHX,PHX,fg_miss,97,False,False,,MISS Johnson Tip Layup Shot,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.65,4,11,21,HOU,HOU,reb,0,False,False,Cousins REBOUND (Off:0 Def:4),,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.72,4,11,17,HOU,HOU,fg3_miss,1,False,False,MISS Cousins 26' 3PT Jump Shot,,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,36.77,4,11,14,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:3 Def:2),,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,37.0,4,11,0,HOU,HOU,fg3_miss,1,False,False,MISS Jones 33' 3PT Jump Shot,,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,37.0,4,11,0,PHX,PHX,reb,0,False,False,,Suns Rebound,84-89,84,89
+0022000222,2021-01-20,HOU,PHX,37.35,4,10,39,PHX,PHX,fg_make,86,False,False,,Ayton 12' Turnaround Fadeaway (18 PTS),84-91,84,91
+0022000222,2021-01-20,HOU,PHX,37.53,4,10,28,HOU,HOU,fg_miss,1,False,False,MISS Nwaba 13' Jump Shot,,84-91,84,91
+0022000222,2021-01-20,HOU,PHX,37.57,4,10,26,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:7),84-91,84,91
+0022000222,2021-01-20,HOU,PHX,37.75,4,10,15,PHX,PHX,fg_make,6,False,False,,Crowder 2' Driving Layup (11 PTS) (Paul 3 AST),84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.0,4,10,0,HOU,HOU,tov,1,False,True,McLemore Bad Pass Turnover (P1.T15),,84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.0,4,10,0,HOU,PHX,steal,1,False,True,steal,steal,84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.13,4,9,52,PHX,PHX,tov,1,False,True,,Johnson Bad Pass Turnover (P2.T16),84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.13,4,9,52,PHX,HOU,steal,1,False,True,steal,steal,84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.2,4,9,48,HOU,HOU,fg_miss,41,True,False,MISS Jones 4' Running Layup,,84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.2,4,9,48,HOU,PHX,block,41,True,False,block,block,84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.25,4,9,45,PHX,PHX,reb,0,False,False,,Paul REBOUND (Off:0 Def:3),84-93,84,93
+0022000222,2021-01-20,HOU,PHX,38.43,4,9,34,PHX,PHX,fg_make,52,False,False,,Ayton 1' Alley Oop Dunk (20 PTS) (Paul 4 AST),84-95,84,95
+0022000222,2021-01-20,HOU,PHX,38.65,4,9,21,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 26' 3PT Jump Shot,,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,38.65,4,9,21,PHX,PHX,reb,0,False,False,,Crowder REBOUND (Off:0 Def:3),84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.02,4,8,59,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.02,4,8,59,HOU,HOU,reb,0,False,False,Cousins REBOUND (Off:0 Def:5),,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.22,4,8,47,HOU,HOU,tov,39,False,False,Jones Step Out of Bounds Turnover (P3.T16),,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.33,4,8,40,PHX,HOU,foul,1,False,False,Cousins P.FOUL (P3.T1) (J.Tiven),,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.48,4,8,31,PHX,PHX,fg_miss,86,False,False,,MISS Ayton 7' Turnaround Fadeaway Shot,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.48,4,8,31,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:2),,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.63,4,8,22,HOU,HOU,fg_miss,6,True,False,MISS Cousins 5' Driving Layup,,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.63,4,8,22,HOU,PHX,block,6,True,False,block,block,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.68,4,8,19,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:1 Def:2),84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.73,4,8,16,PHX,PHX,fg3_miss,79,False,False,,MISS Paul 25' 3PT Pullup Jump Shot,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.78,4,8,13,HOU,HOU,reb,0,False,False,Cousins REBOUND (Off:0 Def:6),,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,39.97,4,8,2,HOU,PHX,foul,1,False,False,,Johnson P.FOUL (P1.T1) (J.Tiven),84-95,84,95
+0022000222,2021-01-20,HOU,PHX,40.08,4,7,55,HOU,HOU,fg_miss,6,True,False,MISS Gordon 3' Driving Layup,,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,40.08,4,7,55,HOU,PHX,block,6,True,False,block,block,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,40.12,4,7,53,PHX,PHX,reb,0,False,False,,Paul REBOUND (Off:0 Def:4),84-95,84,95
+0022000222,2021-01-20,HOU,PHX,40.23,4,7,46,PHX,HOU,foul,1,False,False,Nwaba P.FOUL (P3.T2) (L.Richardson),,84-95,84,95
+0022000222,2021-01-20,HOU,PHX,40.33,4,7,40,PHX,PHX,fg_make,1,False,False,,Ayton 22' Jump Shot (22 PTS) (Nader 1 AST),84-97,84,97
+0022000222,2021-01-20,HOU,PHX,40.63,4,7,22,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 3PT Jump Shot,,84-97,84,97
+0022000222,2021-01-20,HOU,PHX,40.63,4,7,22,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:8),84-97,84,97
+0022000222,2021-01-20,HOU,PHX,40.9,4,7,6,PHX,PHX,fg_make,7,False,False,,Ayton 2' Dunk (24 PTS) (Bridges 5 AST),84-99,84,99
+0022000222,2021-01-20,HOU,PHX,40.92,4,7,5,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 6 Short 0),,84-99,84,99
+0022000222,2021-01-20,HOU,PHX,41.23,4,6,46,HOU,HOU,fg3_miss,79,False,False,MISS Oladipo 27' 3PT Pullup Jump Shot,,84-99,84,99
+0022000222,2021-01-20,HOU,PHX,41.25,4,6,45,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:6),,84-99,84,99
+0022000222,2021-01-20,HOU,PHX,41.27,4,6,44,HOU,HOU,fg_make,87,False,False,Wood 2' Putback Dunk (17 PTS),,86-99,86,99
+0022000222,2021-01-20,HOU,PHX,41.65,4,6,21,PHX,PHX,fg_make,9,False,False,,Nader 1' Driving Dunk (5 PTS) (Ayton 3 AST),86-101,86,101
+0022000222,2021-01-20,HOU,PHX,41.85,4,6,9,HOU,PHX,violation,5,False,False,,Nader Violation:Kicked Ball (J.Tiven),86-101,86,101
+0022000222,2021-01-20,HOU,PHX,41.9,4,6,6,HOU,HOU,fg3_miss,1,False,False,MISS Wood 26' 3PT Jump Shot,,86-101,86,101
+0022000222,2021-01-20,HOU,PHX,41.92,4,6,5,PHX,PHX,reb,0,False,False,,Crowder REBOUND (Off:0 Def:4),86-101,86,101
+0022000222,2021-01-20,HOU,PHX,42.12,4,5,53,PHX,PHX,tov,1,False,True,,Bridges Bad Pass Turnover (P3.T17),86-101,86,101
+0022000222,2021-01-20,HOU,PHX,42.12,4,5,53,PHX,HOU,steal,1,False,True,steal,steal,86-101,86,101
+0022000222,2021-01-20,HOU,PHX,42.18,4,5,49,HOU,PHX,foul,2,False,False,,Payne S.FOUL (P2.T2) (J.Tiven),86-101,86,101
+0022000222,2021-01-20,HOU,PHX,42.18,4,5,49,HOU,HOU,ft_make,11,False,False,Nwaba Free Throw 1 of 2 (6 PTS),,87-101,87,101
+0022000222,2021-01-20,HOU,PHX,42.18,4,5,49,HOU,HOU,ft_make,12,False,False,Nwaba Free Throw 2 of 2 (7 PTS),,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.3,4,5,42,PHX,PHX,fg_miss,6,True,False,,MISS Payne 4' Driving Layup,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.3,4,5,42,PHX,HOU,block,6,True,False,block,block,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.3,4,5,42,PHX,PHX,reb,0,False,False,,Suns Rebound,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.53,4,5,28,PHX,PHX,fg_miss,58,False,False,,MISS Ayton 6' Turnaround Hook Shot,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.53,4,5,28,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:7),,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.67,4,5,20,HOU,HOU,fg_miss,79,False,False,MISS Oladipo 18' Pullup Jump Shot,,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.67,4,5,20,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:9),88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.87,4,5,8,PHX,PHX,fg3_miss,1,False,False,,MISS Nader 24' 3PT Jump Shot,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,42.87,4,5,8,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:8),,88-101,88,101
+0022000222,2021-01-20,HOU,PHX,43.1,4,4,54,HOU,HOU,fg_make,98,False,False,Wood 2' Cutting Layup Shot (19 PTS) (Gordon 2 AST),,90-101,90,101
+0022000222,2021-01-20,HOU,PHX,43.1,4,4,54,HOU,PHX,foul,2,False,False,,Ayton S.FOUL (P2.T3) (L.Richardson),90-101,90,101
+0022000222,2021-01-20,HOU,PHX,43.1,4,4,54,HOU,HOU,ft_make,10,False,False,Wood Free Throw 1 of 1 (20 PTS),,91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.4,4,4,36,PHX,PHX,fg3_miss,1,False,False,,MISS Crowder 3PT Jump Shot,91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.4,4,4,36,HOU,HOU,reb,0,False,False,Oladipo REBOUND (Off:1 Def:3),,91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.5,4,4,30,HOU,PHX,foul,1,False,False,,Kaminsky P.FOUL (P4.T4) (J.Tiven),91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.63,4,4,22,HOU,HOU,fg_miss,6,True,False,MISS Gordon 8' Driving Layup,,91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.63,4,4,22,HOU,PHX,block,6,True,False,block,block,91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.68,4,4,19,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:5),91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.73,4,4,16,PHX,PHX,fg3_miss,2,False,False,,MISS Payne 25' 3PT Running Jump Shot,91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.73,4,4,16,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:9),,91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.93,4,4,4,HOU,PHX,foul,1,False,False,,Payne P.FOUL (P3.PN) (L.Richardson),91-101,91,101
+0022000222,2021-01-20,HOU,PHX,43.93,4,4,4,HOU,HOU,ft_make,11,False,False,Nwaba Free Throw 1 of 2 (8 PTS),,92-101,92,101
+0022000222,2021-01-20,HOU,PHX,43.93,4,4,4,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.4 Short 0),92-101,92,101
+0022000222,2021-01-20,HOU,PHX,43.93,4,4,4,PHX,HOU,ft_make,12,False,False,Nwaba Free Throw 2 of 2 (9 PTS),,93-101,93,101
+0022000222,2021-01-20,HOU,PHX,44.18,4,3,49,PHX,PHX,fg_miss,101,False,False,,MISS Booker 6' Driving Floating Jump Shot,93-101,93,101
+0022000222,2021-01-20,HOU,PHX,44.2,4,3,48,HOU,HOU,reb,0,False,False,Oladipo REBOUND (Off:1 Def:4),,93-101,93,101
+0022000222,2021-01-20,HOU,PHX,44.32,4,3,41,HOU,HOU,fg3_miss,1,False,False,MISS Tate 26' 3PT Jump Shot,,93-101,93,101
+0022000222,2021-01-20,HOU,PHX,44.35,4,3,39,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:10),93-101,93,101
+0022000222,2021-01-20,HOU,PHX,44.62,4,3,23,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 25' 3PT Jump Shot,93-101,93,101
+0022000222,2021-01-20,HOU,PHX,44.63,4,3,22,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:10),,93-101,93,101
+0022000222,2021-01-20,HOU,PHX,44.88,4,3,7,HOU,HOU,fg_make,6,False,False,Gordon 2' Driving Layup (22 PTS),,95-101,95,101
+0022000222,2021-01-20,HOU,PHX,45.23,4,2,46,PHX,PHX,fg_make,79,False,False,,Booker 12' Pullup Jump Shot (20 PTS),95-103,95,103
+0022000222,2021-01-20,HOU,PHX,45.47,4,2,32,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,95-103,95,103
+0022000222,2021-01-20,HOU,PHX,45.5,4,2,30,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:5),,95-103,95,103
+0022000222,2021-01-20,HOU,PHX,45.55,4,2,27,HOU,PHX,foul,2,False,False,,Booker S.FOUL (P5.PN) (J.Tiven),95-103,95,103
+0022000222,2021-01-20,HOU,PHX,45.55,4,2,27,HOU,HOU,ft_make,11,False,False,Oladipo Free Throw 1 of 2 (17 PTS),,96-103,96,103
+0022000222,2021-01-20,HOU,PHX,45.55,4,2,27,HOU,HOU,ft_make,12,False,False,Oladipo Free Throw 2 of 2 (18 PTS),,97-103,97,103
+0022000222,2021-01-20,HOU,PHX,45.77,4,2,14,PHX,PHX,fg_miss,6,False,False,,MISS Paul 2' Driving Layup,97-103,97,103
+0022000222,2021-01-20,HOU,PHX,45.77,4,2,14,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:5 Def:10),97-103,97,103
+0022000222,2021-01-20,HOU,PHX,45.77,4,2,14,PHX,PHX,fg_miss,97,False,False,,MISS Ayton Tip Layup Shot,97-103,97,103
+0022000222,2021-01-20,HOU,PHX,45.77,4,2,14,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,97-103,97,103
+0022000222,2021-01-20,HOU,PHX,46.07,4,1,56,HOU,HOU,fg_make,6,False,False,Oladipo 2' Driving Layup (20 PTS),,99-103,99,103
+0022000222,2021-01-20,HOU,PHX,46.3,4,1,42,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,99-103,99,103
+0022000222,2021-01-20,HOU,PHX,46.33,4,1,40,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:3 Def:3),,99-103,99,103
+0022000222,2021-01-20,HOU,PHX,46.37,4,1,38,HOU,HOU,fg_make,50,False,False,Tate 1' Running Dunk (9 PTS) (Nwaba 2 AST),,101-103,101,103
+0022000222,2021-01-20,HOU,PHX,46.77,4,1,14,PHX,PHX,fg_miss,66,False,False,,MISS Paul 16' Jump Bank Shot,101-103,101,103
+0022000222,2021-01-20,HOU,PHX,46.77,4,1,14,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:6 Def:10),101-103,101,103
+0022000222,2021-01-20,HOU,PHX,46.77,4,1,14,PHX,HOU,foul,2,False,False,Oladipo S.FOUL (P3.T3) (L.Richardson),,101-103,101,103
+0022000222,2021-01-20,HOU,PHX,46.77,4,1,14,PHX,PHX,ft_make,11,False,False,,Ayton Free Throw 1 of 2 (25 PTS),101-104,101,104
+0022000222,2021-01-20,HOU,PHX,46.77,4,1,14,PHX,PHX,ft_make,12,False,False,,Ayton Free Throw 2 of 2 (26 PTS),101-105,101,105
+0022000222,2021-01-20,HOU,PHX,46.95,4,1,3,HOU,HOU,fg3_miss,1,False,False,MISS Wood 27' 3PT Jump Shot,,101-105,101,105
+0022000222,2021-01-20,HOU,PHX,46.95,4,1,3,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:6 Def:11),101-105,101,105
+0022000222,2021-01-20,HOU,PHX,47.25,4,0,45,PHX,HOU,foul,1,False,False,Oladipo P.FOUL (P4.PN) (J.Tiven),,101-105,101,105
+0022000222,2021-01-20,HOU,PHX,47.25,4,0,45,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (21 PTS),101-106,101,106
+0022000222,2021-01-20,HOU,PHX,47.25,4,0,45,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (22 PTS),101-107,101,107
+0022000222,2021-01-20,HOU,PHX,47.38,4,0,37,HOU,PHX,foul,2,False,False,,Ayton S.FOUL (P3.PN) (L.Richardson),101-107,101,107
+0022000222,2021-01-20,HOU,PHX,47.38,4,0,37,HOU,HOU,ft_make,11,False,False,Oladipo Free Throw 1 of 2 (21 PTS),,102-107,102,107
+0022000222,2021-01-20,HOU,PHX,47.38,4,0,37,HOU,HOU,ft_make,12,False,False,Oladipo Free Throw 2 of 2 (22 PTS),,103-107,103,107
+0022000222,2021-01-20,HOU,PHX,47.75,4,0,15,PHX,PHX,fg_make,6,False,False,,Booker 2' Driving Layup (24 PTS),103-109,103,109
+0022000222,2021-01-20,HOU,PHX,47.85,4,0,9,HOU,HOU,fg3_miss,79,False,False,MISS Oladipo 31' 3PT Pullup Jump Shot,,103-109,103,109
+0022000222,2021-01-20,HOU,PHX,47.85,4,0,9,PHX,PHX,reb,0,False,False,,Crowder REBOUND (Off:0 Def:5),103-109,103,109
+0022000222,2021-01-20,HOU,PHX,48.0,4,0,0,PHX,,period_end,0,False,False,,,103-109,103,109

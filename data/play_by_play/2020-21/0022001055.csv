@@ -1,0 +1,443 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022001055,2021-05-14,PHI,ORL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Carter Jr.: Tip to Anthony,,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,0.2,1,11,48,ORL,PHI,foul,1,False,False,Harris P.FOUL (P1.T1) (D.Guthrie),,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,0.28,1,11,43,ORL,ORL,fg_miss,66,False,False,,MISS Carter Jr. 15' Jump Bank Shot,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,0.35,1,11,39,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:1),,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,0.4,1,11,36,PHI,PHI,tov,39,False,False,Green Step Out of Bounds Turnover (P1.T1),,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,0.62,1,11,23,PHI,ORL,foul,26,False,False,,Wagner Offensive Charge Foul (P1.T1) (N.Green),0-0,0,0
+0022001055,2021-05-14,PHI,ORL,0.62,1,11,23,ORL,ORL,tov,37,False,False,,Wagner Offensive Foul Turnover (P1.T1),0-0,0,0
+0022001055,2021-05-14,PHI,ORL,1.03,1,10,58,PHI,PHI,fg_miss,1,False,False,MISS Harris 9' Jump Shot,,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,1.07,1,10,56,ORL,ORL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:1),0-0,0,0
+0022001055,2021-05-14,PHI,ORL,1.18,1,10,49,ORL,ORL,fg_miss,101,True,False,,MISS Anthony 3' Driving Floating Jump Shot,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,1.18,1,10,49,ORL,PHI,block,101,True,False,block,block,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,1.23,1,10,46,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:2),,0-0,0,0
+0022001055,2021-05-14,PHI,ORL,1.3,1,10,42,PHI,PHI,fg_make,50,False,False,Simmons 1' Running Dunk (2 PTS),,2-0,2,0
+0022001055,2021-05-14,PHI,ORL,1.52,1,10,29,ORL,ORL,tov,6,False,False,,Anthony Double Dribble Turnover (P1.T2),2-0,2,0
+0022001055,2021-05-14,PHI,ORL,1.72,1,10,17,PHI,PHI,fg_miss,79,False,False,MISS Green 13' Pullup Jump Shot,,2-0,2,0
+0022001055,2021-05-14,PHI,ORL,1.75,1,10,15,ORL,ORL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:2),2-0,2,0
+0022001055,2021-05-14,PHI,ORL,2.05,1,9,57,ORL,ORL,fg3_miss,1,False,False,,MISS Wagner 3PT Jump Shot,2-0,2,0
+0022001055,2021-05-14,PHI,ORL,2.1,1,9,54,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:1),,2-0,2,0
+0022001055,2021-05-14,PHI,ORL,2.23,1,9,46,PHI,ORL,foul,1,False,False,,Wagner P.FOUL (P2.T2) (B.Forte),2-0,2,0
+0022001055,2021-05-14,PHI,ORL,2.3,1,9,42,PHI,ORL,foul,2,False,False,,Carter Jr. S.FOUL (P1.T3) (D.Guthrie),2-0,2,0
+0022001055,2021-05-14,PHI,ORL,2.3,1,9,42,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (1 PTS),,3-0,3,0
+0022001055,2021-05-14,PHI,ORL,2.3,1,9,42,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (2 PTS),,4-0,4,0
+0022001055,2021-05-14,PHI,ORL,2.58,1,9,25,ORL,ORL,tov,1,False,True,,Anthony Bad Pass Turnover (P2.T3),4-0,4,0
+0022001055,2021-05-14,PHI,ORL,2.58,1,9,25,ORL,PHI,steal,1,False,True,steal,steal,4-0,4,0
+0022001055,2021-05-14,PHI,ORL,2.72,1,9,17,PHI,PHI,fg_miss,5,False,False,MISS Embiid 4' Layup,,4-0,4,0
+0022001055,2021-05-14,PHI,ORL,2.73,1,9,16,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:2),,4-0,4,0
+0022001055,2021-05-14,PHI,ORL,2.73,1,9,16,PHI,ORL,foul,2,False,False,,Wagner S.FOUL (P3.T4) (D.Guthrie),4-0,4,0
+0022001055,2021-05-14,PHI,ORL,2.73,1,9,16,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (3 PTS),,5-0,5,0
+0022001055,2021-05-14,PHI,ORL,2.73,1,9,16,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (4 PTS),,6-0,6,0
+0022001055,2021-05-14,PHI,ORL,3.03,1,8,58,ORL,ORL,fg_miss,79,False,False,,MISS Bacon 13' Pullup Jump Shot,6-0,6,0
+0022001055,2021-05-14,PHI,ORL,3.08,1,8,55,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,6-0,6,0
+0022001055,2021-05-14,PHI,ORL,3.33,1,8,40,PHI,PHI,fg_miss,47,False,False,MISS Harris 4' Turnaround Jump Shot,,6-0,6,0
+0022001055,2021-05-14,PHI,ORL,3.37,1,8,38,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:0 Def:1),6-0,6,0
+0022001055,2021-05-14,PHI,ORL,3.6,1,8,24,ORL,ORL,fg_miss,79,False,False,,MISS Anthony 13' Pullup Jump Shot,6-0,6,0
+0022001055,2021-05-14,PHI,ORL,3.65,1,8,21,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:4),,6-0,6,0
+0022001055,2021-05-14,PHI,ORL,3.82,1,8,11,PHI,PHI,fg_make,58,False,False,Simmons 7' Turnaround Hook Shot (4 PTS),,8-0,8,0
+0022001055,2021-05-14,PHI,ORL,4.03,1,7,58,ORL,ORL,fg3_make,80,False,False,,Harris 26' 3PT Step Back Jump Shot (3 PTS),8-3,8,3
+0022001055,2021-05-14,PHI,ORL,4.23,1,7,46,PHI,PHI,fg3_make,79,False,False,Curry 28' 3PT Pullup Jump Shot (3 PTS) (Embiid 1 AST),,11-3,11,3
+0022001055,2021-05-14,PHI,ORL,4.48,1,7,31,ORL,ORL,fg3_make,79,False,False,,Harris 25' 3PT Pullup Jump Shot (6 PTS) (Anthony 1 AST),11-6,11,6
+0022001055,2021-05-14,PHI,ORL,4.93,1,7,4,PHI,PHI,fg3_make,1,False,False,Harris 3PT Jump Shot (3 PTS) (Simmons 1 AST),,14-6,14,6
+0022001055,2021-05-14,PHI,ORL,5.32,1,6,41,ORL,ORL,fg_miss,6,True,False,,MISS Anthony 4' Driving Layup,14-6,14,6
+0022001055,2021-05-14,PHI,ORL,5.32,1,6,41,ORL,PHI,block,6,True,False,block,block,14-6,14,6
+0022001055,2021-05-14,PHI,ORL,5.38,1,6,37,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:5),,14-6,14,6
+0022001055,2021-05-14,PHI,ORL,5.43,1,6,34,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P1.T2),,14-6,14,6
+0022001055,2021-05-14,PHI,ORL,5.43,1,6,34,PHI,ORL,steal,2,False,True,steal,steal,14-6,14,6
+0022001055,2021-05-14,PHI,ORL,5.58,1,6,25,ORL,ORL,fg3_make,1,False,False,,Brazdeikis 24' 3PT Jump Shot (3 PTS) (Bacon 1 AST),14-9,14,9
+0022001055,2021-05-14,PHI,ORL,5.98,1,6,1,PHI,PHI,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,14-9,14,9
+0022001055,2021-05-14,PHI,ORL,6.03,1,5,58,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:0 Def:2),14-9,14,9
+0022001055,2021-05-14,PHI,ORL,6.15,1,5,51,ORL,ORL,fg_miss,101,False,False,,MISS Bacon 7' Driving Floating Jump Shot,14-9,14,9
+0022001055,2021-05-14,PHI,ORL,6.2,1,5,48,ORL,ORL,reb,0,False,False,,Bacon REBOUND (Off:1 Def:0),14-9,14,9
+0022001055,2021-05-14,PHI,ORL,6.28,1,5,43,ORL,ORL,fg_make,6,False,False,,Brazdeikis 3' Driving Layup (5 PTS) (Bacon 2 AST),14-11,14,11
+0022001055,2021-05-14,PHI,ORL,6.28,1,5,43,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,14-11,14,11
+0022001055,2021-05-14,PHI,ORL,6.58,1,5,25,PHI,PHI,fg_miss,47,False,False,MISS Embiid 2' Turnaround Jump Shot,,14-11,14,11
+0022001055,2021-05-14,PHI,ORL,6.62,1,5,23,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:0 Def:1),14-11,14,11
+0022001055,2021-05-14,PHI,ORL,6.75,1,5,15,ORL,ORL,fg3_make,1,False,False,,Anthony 27' 3PT Jump Shot (3 PTS) (Harris 1 AST),14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.2,1,4,48,PHI,PHI,fg_miss,101,False,False,MISS Harris 4' Driving Floating Jump Shot,,14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.23,1,4,46,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:0),,14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.32,1,4,41,PHI,PHI,fg_miss,57,False,False,MISS Simmons 8' Driving Hook Shot,,14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.33,1,4,40,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:0 Def:3),14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.35,1,4,39,ORL,PHI,foul,1,False,False,Embiid P.FOUL (P1.T2) (D.Guthrie),,14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.57,1,4,26,ORL,ORL,fg_miss,104,False,False,,MISS Harris 12' Step Back Bank Jump Shot,14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.62,1,4,23,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.68,1,4,19,PHI,ORL,foul,2,False,False,,Anthony S.FOUL (P1.PN) (D.Guthrie),14-14,14,14
+0022001055,2021-05-14,PHI,ORL,7.68,1,4,19,PHI,PHI,ft_make,13,False,False,Green Free Throw 1 of 3 (1 PTS),,15-14,15,14
+0022001055,2021-05-14,PHI,ORL,7.68,1,4,19,PHI,PHI,ft_make,14,False,False,Green Free Throw 2 of 3 (2 PTS),,16-14,16,14
+0022001055,2021-05-14,PHI,ORL,7.68,1,4,19,PHI,PHI,ft_miss,15,False,False,MISS Green Free Throw 3 of 3,,16-14,16,14
+0022001055,2021-05-14,PHI,ORL,7.73,1,4,16,ORL,ORL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:3),16-14,16,14
+0022001055,2021-05-14,PHI,ORL,7.98,1,4,1,ORL,ORL,tov,1,False,True,,Anthony Bad Pass Turnover (P3.T4),16-14,16,14
+0022001055,2021-05-14,PHI,ORL,7.98,1,4,1,ORL,PHI,steal,1,False,True,steal,steal,16-14,16,14
+0022001055,2021-05-14,PHI,ORL,7.98,1,4,1,PHI,ORL,foul,1,False,False,,Anthony P.FOUL (P2.PN) (B.Forte),16-14,16,14
+0022001055,2021-05-14,PHI,ORL,7.98,1,4,1,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (5 PTS),,17-14,17,14
+0022001055,2021-05-14,PHI,ORL,7.98,1,4,1,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (6 PTS),,18-14,18,14
+0022001055,2021-05-14,PHI,ORL,8.32,1,3,41,ORL,ORL,fg3_make,1,False,False,,Brazdeikis 26' 3PT Jump Shot (8 PTS) (Thornwell 1 AST),18-17,18,17
+0022001055,2021-05-14,PHI,ORL,8.63,1,3,22,PHI,PHI,fg_make,79,False,False,Embiid 11' Pullup Jump Shot (8 PTS) (Milton 1 AST),,20-17,20,17
+0022001055,2021-05-14,PHI,ORL,8.92,1,3,5,ORL,ORL,fg3_make,1,False,False,,Bamba 24' 3PT Jump Shot (3 PTS) (Hampton 1 AST),20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.23,1,2,46,PHI,PHI,fg_miss,102,False,False,MISS G. Hill 7' Driving Floating Bank Jump Shot,,20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.27,1,2,44,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.3,1,2,42,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 27' 3PT Jump Shot,,20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.35,1,2,39,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:0),,20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.43,1,2,34,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P2.T3),,20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.43,1,2,34,PHI,ORL,steal,2,False,True,steal,steal,20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.45,1,2,33,ORL,PHI,foul,1,False,False,G. Hill P.FOUL (P1.T3) (N.Green),,20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.45,1,2,33,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.1 Short 0),20-20,20,20
+0022001055,2021-05-14,PHI,ORL,9.85,1,2,9,ORL,ORL,fg_make,63,False,False,,Brazdeikis 6' Fadeaway Jumper (10 PTS),20-22,20,22
+0022001055,2021-05-14,PHI,ORL,10.18,1,1,49,PHI,PHI,fg3_make,1,False,False,G. Hill 26' 3PT Jump Shot (3 PTS) (Korkmaz 1 AST),,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.4,1,1,36,ORL,ORL,fg3_miss,79,False,False,,MISS Randle 26' 3PT Pullup Jump Shot,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.45,1,1,33,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:2),,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.62,1,1,23,PHI,PHI,fg_miss,98,True,False,MISS G. Hill 5' Cutting Layup Shot,,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.62,1,1,23,PHI,ORL,block,98,True,False,block,block,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.62,1,1,23,PHI,PHI,reb,0,False,False,76ERS Rebound,,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.8,1,1,12,PHI,PHI,fg3_miss,79,False,False,MISS Milton 26' 3PT Pullup Jump Shot,,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.85,1,1,9,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:0),,23-22,23,22
+0022001055,2021-05-14,PHI,ORL,10.92,1,1,5,PHI,PHI,fg_make,108,False,False,Korkmaz 1' Cutting Dunk Shot (2 PTS) (Milton 2 AST),,25-22,25,22
+0022001055,2021-05-14,PHI,ORL,11.22,1,0,47,ORL,ORL,fg3_miss,1,False,False,,MISS Thornwell 26' 3PT Jump Shot,25-22,25,22
+0022001055,2021-05-14,PHI,ORL,11.3,1,0,42,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:0),25-22,25,22
+0022001055,2021-05-14,PHI,ORL,11.38,1,0,37,ORL,ORL,fg_make,7,False,False,,Bamba 2' Dunk (5 PTS) (Hampton 2 AST),25-24,25,24
+0022001055,2021-05-14,PHI,ORL,11.58,1,0,25,PHI,PHI,fg_make,79,False,False,Scott 9' Pullup Jump Shot (2 PTS) (G. Hill 1 AST),,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,11.82,1,0,11,ORL,PHI,foul,28,False,False,G. Hill Personal Take Foul (P2.T4) (D.Guthrie),,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,11.93,1,0,4,ORL,ORL,fg3_miss,1,False,False,,MISS Bamba 26' 3PT Jump Shot,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,11.98,1,0,1,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,11.98,1,0,1,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 47' 3PT Jump Shot,,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,12.0,1,0,0,PHI,PHI,reb,0,False,False,76ERS Rebound,,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,12.0,1,0,0,PHI,,period_end,0,False,False,,,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,12.0,2,12,0,PHI,,period_start,0,False,False,,,27-24,27,24
+0022001055,2021-05-14,PHI,ORL,12.22,2,11,47,PHI,PHI,fg_make,6,False,False,Milton 1' Driving Layup (2 PTS) (Maxey 1 AST),,29-24,29,24
+0022001055,2021-05-14,PHI,ORL,12.52,2,11,29,ORL,ORL,fg3_miss,1,False,False,,MISS Hampton 24' 3PT Jump Shot,29-24,29,24
+0022001055,2021-05-14,PHI,ORL,12.55,2,11,27,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:1),,29-24,29,24
+0022001055,2021-05-14,PHI,ORL,12.7,2,11,18,PHI,PHI,fg_miss,101,False,False,MISS Maxey 6' Driving Floating Jump Shot,,29-24,29,24
+0022001055,2021-05-14,PHI,ORL,12.73,2,11,16,ORL,ORL,reb,0,False,False,,Randle REBOUND (Off:0 Def:1),29-24,29,24
+0022001055,2021-05-14,PHI,ORL,12.95,2,11,3,ORL,ORL,tov,40,False,False,,Bamba Out of Bounds Lost Ball Turnover (P1.T5),29-24,29,24
+0022001055,2021-05-14,PHI,ORL,13.2,2,10,48,PHI,PHI,fg_make,79,False,False,Milton 16' Pullup Jump Shot (4 PTS) (Korkmaz 2 AST),,31-24,31,24
+0022001055,2021-05-14,PHI,ORL,13.47,2,10,32,ORL,ORL,fg_miss,6,True,False,,MISS Randle 3' Driving Layup,31-24,31,24
+0022001055,2021-05-14,PHI,ORL,13.47,2,10,32,ORL,PHI,block,6,True,False,block,block,31-24,31,24
+0022001055,2021-05-14,PHI,ORL,13.5,2,10,30,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:1),,31-24,31,24
+0022001055,2021-05-14,PHI,ORL,13.75,2,10,15,PHI,PHI,fg3_miss,1,False,False,MISS Milton 24' 3PT Jump Shot,,31-24,31,24
+0022001055,2021-05-14,PHI,ORL,13.82,2,10,11,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:1),31-24,31,24
+0022001055,2021-05-14,PHI,ORL,13.93,2,10,4,ORL,ORL,fg_miss,79,False,False,,MISS Hampton 13' Pullup Jump Shot,31-24,31,24
+0022001055,2021-05-14,PHI,ORL,13.98,2,10,1,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:2),,31-24,31,24
+0022001055,2021-05-14,PHI,ORL,14.08,2,9,55,PHI,PHI,fg3_make,1,False,False,Scott 26' 3PT Jump Shot (5 PTS) (Maxey 2 AST),,34-24,34,24
+0022001055,2021-05-14,PHI,ORL,14.08,2,9,55,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.2 Short 0),34-24,34,24
+0022001055,2021-05-14,PHI,ORL,14.35,2,9,39,ORL,ORL,fg_make,52,False,False,,Bamba 1' Alley Oop Dunk (7 PTS) (Hampton 3 AST),34-26,34,26
+0022001055,2021-05-14,PHI,ORL,14.58,2,9,25,PHI,PHI,fg3_make,1,False,False,Korkmaz 26' 3PT Jump Shot (5 PTS) (Maxey 3 AST),,37-26,37,26
+0022001055,2021-05-14,PHI,ORL,14.92,2,9,5,ORL,ORL,fg_make,101,False,False,,Brazdeikis 4' Driving Floating Jump Shot (12 PTS) (Hampton 4 AST),37-28,37,28
+0022001055,2021-05-14,PHI,ORL,15.05,2,8,57,PHI,ORL,foul,1,False,False,,Bamba P.FOUL (P1.T1) (N.Green),37-28,37,28
+0022001055,2021-05-14,PHI,ORL,15.15,2,8,51,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,37-28,37,28
+0022001055,2021-05-14,PHI,ORL,15.2,2,8,48,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:2),37-28,37,28
+0022001055,2021-05-14,PHI,ORL,15.35,2,8,39,ORL,ORL,fg3_miss,1,False,False,,MISS Brazdeikis 3PT Jump Shot,37-28,37,28
+0022001055,2021-05-14,PHI,ORL,15.4,2,8,36,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:2),,37-28,37,28
+0022001055,2021-05-14,PHI,ORL,15.47,2,8,32,PHI,PHI,fg_make,41,False,False,Maxey 2' Running Layup (2 PTS) (Simmons 2 AST),,39-28,39,28
+0022001055,2021-05-14,PHI,ORL,15.87,2,8,8,ORL,ORL,fg_make,6,False,False,,Randle 1' Driving Layup (2 PTS),39-30,39,30
+0022001055,2021-05-14,PHI,ORL,15.98,2,8,1,PHI,PHI,fg3_make,1,False,False,Korkmaz 24' 3PT Jump Shot (8 PTS) (Simmons 3 AST),,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.0,2,8,0,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.3 Short 0),42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.18,2,7,49,ORL,ORL,fg_miss,101,False,False,,MISS Hampton 4' Driving Floating Jump Shot,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.2,2,7,48,ORL,ORL,reb,0,False,False,,Magic Rebound,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.23,2,7,46,ORL,ORL,fg3_miss,1,False,False,,MISS Randle 24' 3PT Jump Shot,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.3,2,7,42,,PHI,jump_ball,0,False,False,Jump Ball Simmons vs. Bamba: Tip to Hampton,,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.3,2,7,42,ORL,ORL,reb,0,False,False,,Magic Rebound,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.3,2,7,42,ORL,PHI,foul,2,False,False,Milton S.FOUL (P1.T1) (B.Forte),,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.3,2,7,42,ORL,ORL,ft_miss,11,False,False,,MISS Hampton Free Throw 1 of 2,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.3,2,7,42,ORL,ORL,reb,1,False,False,,Magic Rebound,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.3,2,7,42,ORL,ORL,ft_miss,12,False,False,,MISS Hampton Free Throw 2 of 2,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.33,2,7,40,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:1),,42-30,42,30
+0022001055,2021-05-14,PHI,ORL,16.55,2,7,27,PHI,PHI,fg_make,5,False,False,Milton 4' Layup (6 PTS) (Simmons 4 AST),,44-30,44,30
+0022001055,2021-05-14,PHI,ORL,16.55,2,7,27,PHI,ORL,violation,2,False,False,,Defensive Goaltending,44-30,44,30
+0022001055,2021-05-14,PHI,ORL,16.88,2,7,7,ORL,ORL,fg_make,43,False,False,,Bamba 2' Alley Oop Layup (9 PTS) (Hampton 5 AST),44-32,44,32
+0022001055,2021-05-14,PHI,ORL,16.97,2,7,2,PHI,ORL,foul,2,False,False,,Randle S.FOUL (P1.T2) (B.Forte),44-32,44,32
+0022001055,2021-05-14,PHI,ORL,16.97,2,7,2,PHI,PHI,ft_make,11,False,False,Maxey Free Throw 1 of 2 (3 PTS),,45-32,45,32
+0022001055,2021-05-14,PHI,ORL,16.97,2,7,2,PHI,PHI,ft_make,12,False,False,Maxey Free Throw 2 of 2 (4 PTS),,46-32,46,32
+0022001055,2021-05-14,PHI,ORL,17.17,2,6,50,ORL,ORL,tov,1,False,True,,Anthony Bad Pass Turnover (P4.T6),46-32,46,32
+0022001055,2021-05-14,PHI,ORL,17.17,2,6,50,ORL,PHI,steal,1,False,True,steal,steal,46-32,46,32
+0022001055,2021-05-14,PHI,ORL,17.25,2,6,45,PHI,PHI,fg_make,50,False,False,Embiid 2' Running Dunk (10 PTS),,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.58,2,6,25,ORL,PHI,foul,2,False,False,Maxey S.FOUL (P1.T2) (N.Green),,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.58,2,6,25,ORL,ORL,ft_miss,11,False,False,,MISS Anthony Free Throw 1 of 2,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.58,2,6,25,ORL,ORL,reb,1,False,False,,Magic Rebound,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.58,2,6,25,ORL,ORL,ft_miss,12,False,False,,MISS Anthony Free Throw 2 of 2,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.58,2,6,25,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:1),,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.73,2,6,16,PHI,PHI,fg_miss,75,True,False,MISS Simmons 3' Driving Finger Roll Layup,,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.73,2,6,16,PHI,ORL,block,75,True,False,block,block,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.75,2,6,15,PHI,PHI,reb,0,False,False,76ERS Rebound,,48-32,48,32
+0022001055,2021-05-14,PHI,ORL,17.98,2,6,1,PHI,PHI,fg_make,101,False,False,Maxey 4' Driving Floating Jump Shot (6 PTS) (Curry 1 AST),,50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.28,2,5,43,ORL,ORL,fg_miss,101,False,False,,MISS Anthony 7' Driving Floating Jump Shot,50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.28,2,5,43,ORL,ORL,reb,0,False,False,,Randle REBOUND (Off:1 Def:1),50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.43,2,5,34,ORL,PHI,violation,5,False,False,Embiid Violation:Kicked Ball (N.Green),,50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.63,2,5,22,ORL,ORL,fg3_miss,79,False,False,,MISS Brazdeikis 26' 3PT Pullup Jump Shot,50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.67,2,5,20,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:1 Def:3),50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.77,2,5,14,ORL,ORL,fg_miss,101,False,False,,MISS Bacon 8' Driving Floating Jump Shot,50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.8,2,5,12,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:1 Def:1),50-32,50,32
+0022001055,2021-05-14,PHI,ORL,18.85,2,5,9,ORL,ORL,fg_make,72,False,False,,Brazdeikis 3' Putback Layup (14 PTS),50-34,50,34
+0022001055,2021-05-14,PHI,ORL,19.12,2,4,53,PHI,PHI,fg3_make,1,False,False,Embiid 25' 3PT Jump Shot (13 PTS) (Harris 1 AST),,53-34,53,34
+0022001055,2021-05-14,PHI,ORL,19.32,2,4,41,ORL,PHI,foul,1,False,False,Maxey P.FOUL (P2.T3) (D.Guthrie),,53-34,53,34
+0022001055,2021-05-14,PHI,ORL,19.38,2,4,37,ORL,ORL,fg_miss,79,False,False,,MISS Bacon 18' Pullup Jump Shot,53-34,53,34
+0022001055,2021-05-14,PHI,ORL,19.42,2,4,35,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:6),,53-34,53,34
+0022001055,2021-05-14,PHI,ORL,19.6,2,4,24,PHI,PHI,fg_make,75,False,False,Curry 3' Driving Finger Roll Layup (5 PTS),,55-34,55,34
+0022001055,2021-05-14,PHI,ORL,19.87,2,4,8,ORL,ORL,tov,1,False,True,,Carter Jr. Bad Pass Turnover (P1.T7),55-34,55,34
+0022001055,2021-05-14,PHI,ORL,19.87,2,4,8,ORL,PHI,steal,1,False,True,steal,steal,55-34,55,34
+0022001055,2021-05-14,PHI,ORL,19.93,2,4,4,ORL,,foul,11,False,False,,,55-34,55,34
+0022001055,2021-05-14,PHI,ORL,19.93,2,4,4,ORL,PHI,ft_make,16,False,False,Harris Free Throw Technical (4 PTS),,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.1,2,3,54,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P3.T4),,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.1,2,3,54,PHI,ORL,steal,2,False,True,steal,steal,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.12,2,3,53,ORL,PHI,foul,1,False,False,Embiid P.FOUL (P2.T4) (B.Forte),,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.4,2,3,36,ORL,ORL,fg_miss,101,False,False,,MISS Bacon 4' Driving Floating Jump Shot,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.45,2,3,33,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:3),,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.67,2,3,20,PHI,PHI,fg_miss,5,True,False,MISS Embiid 5' Layup,,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.67,2,3,20,PHI,ORL,block,5,True,False,block,block,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.72,2,3,17,ORL,ORL,reb,0,False,False,,Bacon REBOUND (Off:1 Def:1),56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.73,2,3,16,ORL,PHI,foul,2,False,False,Curry S.FOUL (P1.PN) (B.Forte),,56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.73,2,3,16,PHI,ORL,foul,11,False,False,,Anthony T.FOUL (P2.T2) (B.Forte),56-34,56,34
+0022001055,2021-05-14,PHI,ORL,20.73,2,3,16,PHI,PHI,ft_make,16,False,False,Harris Free Throw Technical (5 PTS),,57-34,57,34
+0022001055,2021-05-14,PHI,ORL,20.73,2,3,16,PHI,,foul,16,False,False,,,57-34,57,34
+0022001055,2021-05-14,PHI,ORL,20.73,2,3,16,PHI,ORL,ft_make,11,False,False,,Bacon Free Throw 1 of 2 (1 PTS),57-35,57,35
+0022001055,2021-05-14,PHI,ORL,20.73,2,3,16,PHI,ORL,ft_make,12,False,False,,Bacon Free Throw 2 of 2 (2 PTS),57-36,57,36
+0022001055,2021-05-14,PHI,ORL,20.9,2,3,6,PHI,PHI,fg_make,5,False,False,Harris Layup (7 PTS) (Green 1 AST),,59-36,59,36
+0022001055,2021-05-14,PHI,ORL,21.12,2,2,53,ORL,ORL,fg3_miss,1,False,False,,MISS Hampton 25' 3PT Jump Shot,59-36,59,36
+0022001055,2021-05-14,PHI,ORL,21.15,2,2,51,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:2 Def:3),59-36,59,36
+0022001055,2021-05-14,PHI,ORL,21.2,2,2,48,ORL,ORL,fg_miss,3,False,False,,MISS Carter Jr. 11' Hook Shot,59-36,59,36
+0022001055,2021-05-14,PHI,ORL,21.2,2,2,48,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:2),59-36,59,36
+0022001055,2021-05-14,PHI,ORL,21.3,2,2,42,ORL,ORL,fg_make,107,False,False,,Hampton Tip Dunk Shot (2 PTS),59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.52,2,2,29,PHI,PHI,fg_miss,58,False,False,MISS Harris 4' Turnaround Hook Shot,,59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.53,2,2,28,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:3),,59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.62,2,2,23,PHI,PHI,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.65,2,2,21,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:3 Def:3),,59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.68,2,2,19,PHI,PHI,fg_miss,5,True,False,MISS Harris 2' Layup,,59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.68,2,2,19,PHI,ORL,block,5,True,False,block,block,59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.68,2,2,19,PHI,PHI,reb,0,False,False,76ERS Rebound,,59-38,59,38
+0022001055,2021-05-14,PHI,ORL,21.75,2,2,15,PHI,PHI,fg3_make,1,False,False,Curry 3PT Jump Shot (8 PTS) (Simmons 5 AST),,62-38,62,38
+0022001055,2021-05-14,PHI,ORL,22.08,2,1,55,ORL,ORL,fg_make,79,False,False,,Hampton 6' Pullup Jump Shot (4 PTS),62-40,62,40
+0022001055,2021-05-14,PHI,ORL,22.28,2,1,43,PHI,ORL,foul,1,False,False,,Carter Jr. P.FOUL (P2.T3) (D.Guthrie),62-40,62,40
+0022001055,2021-05-14,PHI,ORL,22.53,2,1,28,PHI,PHI,fg_make,101,False,False,Curry 3' Driving Floating Jump Shot (10 PTS) (Embiid 2 AST),,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,22.68,2,1,19,ORL,ORL,fg3_miss,79,False,False,,MISS Bacon 26' 3PT Pullup Jump Shot,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,22.75,2,1,15,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,22.87,2,1,8,PHI,PHI,tov,2,False,True,Curry Lost Ball Turnover (P1.T5),,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,22.87,2,1,8,PHI,ORL,steal,2,False,True,steal,steal,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.0,2,1,0,ORL,ORL,fg3_miss,1,False,False,,MISS Randle 25' 3PT Jump Shot,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.05,2,0,57,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:7),,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.25,2,0,45,PHI,PHI,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.3,2,0,42,ORL,ORL,reb,0,False,False,,Randle REBOUND (Off:1 Def:2),64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.32,2,0,41,ORL,PHI,foul,1,False,False,Curry P.FOUL (P2.PN) (B.Forte),,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.32,2,0,41,ORL,ORL,ft_miss,11,False,False,,MISS Randle Free Throw 1 of 2,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.32,2,0,41,ORL,ORL,reb,1,False,False,,Magic Rebound,64-40,64,40
+0022001055,2021-05-14,PHI,ORL,23.32,2,0,41,ORL,ORL,ft_make,12,False,False,,Randle Free Throw 2 of 2 (3 PTS),64-41,64,41
+0022001055,2021-05-14,PHI,ORL,23.4,2,0,36,PHI,ORL,foul,2,False,False,,Randle S.FOUL (P2.PN) (B.Forte),64-41,64,41
+0022001055,2021-05-14,PHI,ORL,23.4,2,0,36,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (5 PTS),,65-41,65,41
+0022001055,2021-05-14,PHI,ORL,23.4,2,0,36,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (6 PTS),,66-41,66,41
+0022001055,2021-05-14,PHI,ORL,23.62,2,0,23,ORL,ORL,fg_make,101,False,False,,Hampton 5' Driving Floating Jump Shot (6 PTS),66-43,66,43
+0022001055,2021-05-14,PHI,ORL,23.97,2,0,2,PHI,PHI,fg_miss,79,False,False,MISS Curry 17' Pullup Jump Shot,,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,23.97,2,0,2,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:3),66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.0,2,0,0,ORL,,period_end,0,False,False,,,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.0,3,12,0,ORL,,period_start,0,False,False,,,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.37,3,11,38,PHI,PHI,fg_miss,63,False,False,MISS Embiid 21' Fadeaway Jumper,,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.4,3,11,36,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:0 Def:1),66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.47,3,11,32,ORL,ORL,fg_miss,74,True,False,,MISS Carter Jr. 2' Running Reverse Layup,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.47,3,11,32,ORL,PHI,block,74,True,False,block,block,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.5,3,11,30,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:3 Def:3),66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.62,3,11,23,ORL,ORL,fg_miss,6,False,False,,MISS Bacon 1' Driving Layup,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.62,3,11,23,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:8),,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.63,3,11,22,PHI,ORL,foul,1,False,False,,Bacon P.FOUL (P1.T1) (N.Green),66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.93,3,11,4,PHI,PHI,fg_miss,79,False,False,MISS Harris 14' Pullup Jump Shot,,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,24.97,3,11,2,ORL,ORL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:4),66-43,66,43
+0022001055,2021-05-14,PHI,ORL,25.18,3,10,49,ORL,ORL,fg_miss,6,True,False,,MISS Bacon 2' Driving Layup,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,25.18,3,10,49,ORL,PHI,block,6,True,False,block,block,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,25.18,3,10,49,ORL,ORL,reb,0,False,False,,Magic Rebound,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,25.35,3,10,39,ORL,ORL,fg_miss,101,False,False,,MISS Anthony 8' Driving Floating Jump Shot,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,25.4,3,10,36,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:9),,66-43,66,43
+0022001055,2021-05-14,PHI,ORL,25.52,3,10,29,PHI,ORL,foul,2,False,False,,Anthony S.FOUL (P3.T2) (B.Forte),66-43,66,43
+0022001055,2021-05-14,PHI,ORL,25.52,3,10,29,PHI,PHI,ft_make,11,False,False,Curry Free Throw 1 of 2 (11 PTS),,67-43,67,43
+0022001055,2021-05-14,PHI,ORL,25.52,3,10,29,PHI,PHI,ft_make,12,False,False,Curry Free Throw 2 of 2 (12 PTS),,68-43,68,43
+0022001055,2021-05-14,PHI,ORL,25.87,3,10,8,ORL,PHI,foul,2,False,False,Embiid S.FOUL (P3.T1) (N.Green),,68-43,68,43
+0022001055,2021-05-14,PHI,ORL,25.87,3,10,8,ORL,ORL,ft_make,11,False,False,,Wagner Free Throw 1 of 2 (1 PTS),68-44,68,44
+0022001055,2021-05-14,PHI,ORL,25.87,3,10,8,ORL,ORL,ft_make,12,False,False,,Wagner Free Throw 2 of 2 (2 PTS),68-45,68,45
+0022001055,2021-05-14,PHI,ORL,26.23,3,9,46,PHI,PHI,fg_miss,86,False,False,MISS Embiid 15' Turnaround Fadeaway Shot,,68-45,68,45
+0022001055,2021-05-14,PHI,ORL,26.3,3,9,42,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:3 Def:4),68-45,68,45
+0022001055,2021-05-14,PHI,ORL,26.38,3,9,37,ORL,ORL,fg3_make,1,False,False,,Wagner 25' 3PT Jump Shot (5 PTS) (Anthony 2 AST),68-48,68,48
+0022001055,2021-05-14,PHI,ORL,26.65,3,9,21,PHI,PHI,fg_make,3,False,False,Simmons 7' Hook Shot (8 PTS) (Green 2 AST),,70-48,70,48
+0022001055,2021-05-14,PHI,ORL,26.9,3,9,6,ORL,ORL,tov,1,False,True,,Wagner Bad Pass Turnover (P2.T8),70-48,70,48
+0022001055,2021-05-14,PHI,ORL,26.9,3,9,6,ORL,PHI,steal,1,False,True,steal,steal,70-48,70,48
+0022001055,2021-05-14,PHI,ORL,27.0,3,9,0,PHI,PHI,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,70-48,70,48
+0022001055,2021-05-14,PHI,ORL,27.02,3,8,59,ORL,ORL,reb,0,False,False,,Magic Rebound,70-48,70,48
+0022001055,2021-05-14,PHI,ORL,27.2,3,8,48,ORL,ORL,fg3_make,1,False,False,,Anthony 26' 3PT Jump Shot (6 PTS) (Carter Jr. 1 AST),70-51,70,51
+0022001055,2021-05-14,PHI,ORL,27.6,3,8,24,PHI,PHI,fg_miss,63,False,False,MISS Embiid 16' Fadeaway Jumper,,70-51,70,51
+0022001055,2021-05-14,PHI,ORL,27.6,3,8,24,ORL,ORL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:5),70-51,70,51
+0022001055,2021-05-14,PHI,ORL,27.72,3,8,17,ORL,ORL,fg3_miss,1,False,False,,MISS Wagner 25' 3PT Jump Shot,70-51,70,51
+0022001055,2021-05-14,PHI,ORL,27.75,3,8,15,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:10),,70-51,70,51
+0022001055,2021-05-14,PHI,ORL,27.88,3,8,7,PHI,PHI,fg3_make,1,False,False,Curry 26' 3PT Jump Shot (15 PTS) (Harris 2 AST),,73-51,73,51
+0022001055,2021-05-14,PHI,ORL,28.23,3,7,46,ORL,ORL,fg_miss,1,False,False,,MISS Carter Jr. 19' Jump Shot,73-51,73,51
+0022001055,2021-05-14,PHI,ORL,28.27,3,7,44,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,73-51,73,51
+0022001055,2021-05-14,PHI,ORL,28.58,3,7,25,PHI,PHI,fg3_make,1,False,False,Green 24' 3PT Jump Shot (5 PTS) (Simmons 6 AST),,76-51,76,51
+0022001055,2021-05-14,PHI,ORL,28.88,3,7,7,ORL,PHI,foul,2,False,False,Green S.FOUL (P1.T2) (B.Forte),,76-51,76,51
+0022001055,2021-05-14,PHI,ORL,28.88,3,7,7,ORL,ORL,ft_make,11,False,False,,Bacon Free Throw 1 of 2 (3 PTS),76-52,76,52
+0022001055,2021-05-14,PHI,ORL,28.88,3,7,7,ORL,ORL,ft_make,12,False,False,,Bacon Free Throw 2 of 2 (4 PTS),76-53,76,53
+0022001055,2021-05-14,PHI,ORL,29.05,3,6,57,PHI,PHI,fg3_make,79,False,False,Curry 26' 3PT Pullup Jump Shot (18 PTS) (Simmons 7 AST),,79-53,79,53
+0022001055,2021-05-14,PHI,ORL,29.33,3,6,40,ORL,ORL,fg_make,80,False,False,,Harris 20' Step Back Jump Shot (8 PTS) (Anthony 3 AST),79-55,79,55
+0022001055,2021-05-14,PHI,ORL,29.62,3,6,23,ORL,PHI,foul,26,False,False,Embiid Offensive Charge Foul (P4.T3) (N.Green),,79-55,79,55
+0022001055,2021-05-14,PHI,ORL,29.62,3,6,23,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P4.T6),,79-55,79,55
+0022001055,2021-05-14,PHI,ORL,29.62,3,6,23,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,79-55,79,55
+0022001055,2021-05-14,PHI,ORL,29.98,3,6,1,ORL,ORL,fg_miss,6,False,False,,MISS Harris 5' Driving Layup,79-55,79,55
+0022001055,2021-05-14,PHI,ORL,30.02,3,5,59,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:4 Def:4),79-55,79,55
+0022001055,2021-05-14,PHI,ORL,30.07,3,5,56,ORL,ORL,fg3_miss,1,False,False,,MISS Bacon 26' 3PT Jump Shot,79-55,79,55
+0022001055,2021-05-14,PHI,ORL,30.1,3,5,54,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,79-55,79,55
+0022001055,2021-05-14,PHI,ORL,30.15,3,5,51,PHI,PHI,fg_make,41,False,False,Simmons 1' Running Layup (10 PTS) (Curry 2 AST),,81-55,81,55
+0022001055,2021-05-14,PHI,ORL,30.38,3,5,37,ORL,ORL,fg_make,102,False,False,,Anthony 2' Driving Floating Bank Jump Shot (8 PTS),81-57,81,57
+0022001055,2021-05-14,PHI,ORL,30.38,3,5,37,ORL,PHI,foul,2,False,False,Harris S.FOUL (P2.T4) (D.Guthrie),,81-57,81,57
+0022001055,2021-05-14,PHI,ORL,30.38,3,5,37,ORL,ORL,ft_make,10,False,False,,Anthony Free Throw 1 of 1 (9 PTS),81-58,81,58
+0022001055,2021-05-14,PHI,ORL,30.57,3,5,26,PHI,PHI,fg_make,79,False,False,Curry 17' Pullup Jump Shot (20 PTS) (Simmons 8 AST),,83-58,83,58
+0022001055,2021-05-14,PHI,ORL,30.9,3,5,6,ORL,ORL,fg_miss,6,False,False,,MISS Bacon 1' Driving Layup,83-58,83,58
+0022001055,2021-05-14,PHI,ORL,30.98,3,5,1,ORL,ORL,reb,0,False,False,,Bacon REBOUND (Off:2 Def:1),83-58,83,58
+0022001055,2021-05-14,PHI,ORL,30.98,3,5,1,ORL,ORL,fg_miss,97,False,False,,MISS Bacon Tip Layup Shot,83-58,83,58
+0022001055,2021-05-14,PHI,ORL,30.98,3,5,1,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:2),,83-58,83,58
+0022001055,2021-05-14,PHI,ORL,31.12,3,4,53,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,83-58,83,58
+0022001055,2021-05-14,PHI,ORL,31.17,3,4,50,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:0 Def:2),83-58,83,58
+0022001055,2021-05-14,PHI,ORL,31.4,3,4,36,ORL,ORL,fg_make,101,False,False,,Anthony 13' Driving Floating Jump Shot (11 PTS),83-60,83,60
+0022001055,2021-05-14,PHI,ORL,31.55,3,4,27,PHI,PHI,fg3_make,1,False,False,Scott 25' 3PT Jump Shot (8 PTS) (Simmons 9 AST),,86-60,86,60
+0022001055,2021-05-14,PHI,ORL,31.73,3,4,16,ORL,PHI,foul,1,False,False,Simmons P.FOUL (P1.PN) (B.Forte),,86-60,86,60
+0022001055,2021-05-14,PHI,ORL,32.03,3,3,58,ORL,ORL,tov,4,False,False,,Anthony Traveling Turnover (P5.T9),86-60,86,60
+0022001055,2021-05-14,PHI,ORL,32.2,3,3,48,PHI,PHI,fg_make,79,False,False,Harris 17' Pullup Jump Shot (9 PTS),,88-60,88,60
+0022001055,2021-05-14,PHI,ORL,32.48,3,3,31,ORL,ORL,fg_miss,79,False,False,,MISS Hampton 12' Pullup Jump Shot,88-60,88,60
+0022001055,2021-05-14,PHI,ORL,32.53,3,3,28,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:2),,88-60,88,60
+0022001055,2021-05-14,PHI,ORL,32.67,3,3,20,PHI,PHI,fg3_make,79,False,False,Green 25' 3PT Pullup Jump Shot (8 PTS) (Scott 1 AST),,91-60,91,60
+0022001055,2021-05-14,PHI,ORL,32.8,3,3,12,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.4 Short 0),91-60,91,60
+0022001055,2021-05-14,PHI,ORL,33.03,3,2,58,ORL,ORL,fg_make,75,False,False,,Randle 2' Driving Finger Roll Layup (5 PTS) (Hampton 6 AST),91-62,91,62
+0022001055,2021-05-14,PHI,ORL,33.28,3,2,43,PHI,PHI,fg_miss,99,False,False,MISS Simmons 2' Cutting Finger Roll Layup Shot,,91-62,91,62
+0022001055,2021-05-14,PHI,ORL,33.33,3,2,40,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:4),91-62,91,62
+0022001055,2021-05-14,PHI,ORL,33.37,3,2,38,ORL,ORL,fg3_miss,1,False,False,,MISS Randle 26' 3PT Jump Shot,91-62,91,62
+0022001055,2021-05-14,PHI,ORL,33.37,3,2,38,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:3 Def:4),,91-62,91,62
+0022001055,2021-05-14,PHI,ORL,33.43,3,2,34,PHI,PHI,fg_make,50,False,False,Simmons 1' Running Dunk (12 PTS) (Harris 3 AST),,93-62,93,62
+0022001055,2021-05-14,PHI,ORL,33.43,3,2,34,PHI,ORL,foul,2,False,False,,Thornwell S.FOUL (P1.T3) (D.Guthrie),93-62,93,62
+0022001055,2021-05-14,PHI,ORL,33.43,3,2,34,PHI,PHI,ft_make,10,False,False,Simmons Free Throw 1 of 1 (13 PTS),,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,33.72,3,2,17,ORL,ORL,fg_miss,5,True,False,,MISS Wagner 2' Layup,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,33.72,3,2,17,ORL,PHI,block,5,True,False,block,block,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,33.77,3,2,14,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:3),,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,33.82,3,2,11,PHI,PHI,tov,39,False,False,G. Hill Step Out of Bounds Turnover (P1.T7),,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.1,3,1,54,ORL,ORL,fg_miss,58,True,False,,MISS Bamba 2' Turnaround Hook Shot,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.1,3,1,54,ORL,PHI,block,58,True,False,block,block,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.18,3,1,49,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:2),,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.22,3,1,47,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 24' 3PT Jump Shot,,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.27,3,1,44,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:5),94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.37,3,1,38,ORL,ORL,fg3_miss,1,False,False,,MISS Bamba 25' 3PT Jump Shot,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.37,3,1,38,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:3),,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.5,3,1,30,PHI,PHI,fg_miss,101,True,False,MISS Maxey 4' Driving Floating Jump Shot,,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.5,3,1,30,PHI,ORL,block,101,True,False,block,block,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.55,3,1,27,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:1 Def:3),,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.57,3,1,26,PHI,PHI,fg3_miss,1,False,False,MISS G. Hill 26' 3PT Jump Shot,,94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.6,3,1,24,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:1),94-62,94,62
+0022001055,2021-05-14,PHI,ORL,34.68,3,1,19,ORL,ORL,fg_make,101,False,False,,Hampton 8' Driving Floating Jump Shot (8 PTS),94-64,94,64
+0022001055,2021-05-14,PHI,ORL,34.68,3,1,19,ORL,PHI,foul,2,False,False,Maxey S.FOUL (P3.PN) (D.Guthrie),,94-64,94,64
+0022001055,2021-05-14,PHI,ORL,34.68,3,1,19,ORL,ORL,ft_miss,10,False,False,,MISS Hampton Free Throw 1 of 1,94-64,94,64
+0022001055,2021-05-14,PHI,ORL,34.73,3,1,16,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:1 Def:4),,94-64,94,64
+0022001055,2021-05-14,PHI,ORL,34.97,3,1,2,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,94-64,94,64
+0022001055,2021-05-14,PHI,ORL,35.05,3,0,57,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:6),94-64,94,64
+0022001055,2021-05-14,PHI,ORL,35.27,3,0,44,ORL,ORL,fg_make,78,False,False,,Thornwell 11' Floating Jump Shot (2 PTS) (Hampton 7 AST),94-66,94,66
+0022001055,2021-05-14,PHI,ORL,35.63,3,0,22,PHI,PHI,fg_make,1,False,False,Milton 8' Jump Shot (8 PTS),,96-66,96,66
+0022001055,2021-05-14,PHI,ORL,35.93,3,0,4,ORL,PHI,foul,2,False,False,Scott S.FOUL (P1.PN) (B.Forte),,96-66,96,66
+0022001055,2021-05-14,PHI,ORL,35.93,3,0,4,ORL,ORL,ft_make,13,False,False,,Randle Free Throw 1 of 3 (6 PTS),96-67,96,67
+0022001055,2021-05-14,PHI,ORL,35.93,3,0,4,ORL,ORL,ft_make,14,False,False,,Randle Free Throw 2 of 3 (7 PTS),96-68,96,68
+0022001055,2021-05-14,PHI,ORL,35.93,3,0,4,ORL,ORL,ft_make,15,False,False,,Randle Free Throw 3 of 3 (8 PTS),96-69,96,69
+0022001055,2021-05-14,PHI,ORL,36.0,3,0,0,PHI,PHI,fg3_miss,103,False,False,MISS Korkmaz 27' 3PT Running Pull-Up Jump Shot,,96-69,96,69
+0022001055,2021-05-14,PHI,ORL,36.0,3,0,0,PHI,PHI,reb,0,False,False,76ERS Rebound,,96-69,96,69
+0022001055,2021-05-14,PHI,ORL,36.0,3,0,0,PHI,,period_end,0,False,False,,,96-69,96,69
+0022001055,2021-05-14,PHI,ORL,36.0,4,12,0,PHI,,period_start,0,False,False,,,96-69,96,69
+0022001055,2021-05-14,PHI,ORL,36.23,4,11,46,ORL,ORL,fg_make,1,False,False,,Brazdeikis 19' Jump Shot (16 PTS) (Randle 1 AST),96-71,96,71
+0022001055,2021-05-14,PHI,ORL,36.57,4,11,26,PHI,PHI,fg_miss,47,False,False,MISS Scott 7' Turnaround Jump Shot,,96-71,96,71
+0022001055,2021-05-14,PHI,ORL,36.6,4,11,24,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:2),96-71,96,71
+0022001055,2021-05-14,PHI,ORL,36.75,4,11,15,ORL,ORL,fg3_miss,1,False,False,,MISS Bamba 25' 3PT Jump Shot,96-71,96,71
+0022001055,2021-05-14,PHI,ORL,36.77,4,11,14,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:3),,96-71,96,71
+0022001055,2021-05-14,PHI,ORL,36.9,4,11,6,PHI,PHI,fg_make,101,False,False,Milton 4' Driving Floating Jump Shot (10 PTS) (Maxey 4 AST),,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.27,4,10,44,ORL,ORL,fg_miss,1,False,False,,MISS Bamba 14' Jump Shot,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.27,4,10,44,PHI,PHI,reb,0,False,False,76ERS Rebound,,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.6,4,10,24,PHI,PHI,fg_miss,6,False,False,MISS Scott 1' Driving Layup,,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.63,4,10,22,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:3),98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.83,4,10,10,ORL,ORL,fg_miss,5,True,False,,MISS Brazdeikis 1' Layup,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.83,4,10,10,ORL,PHI,block,5,True,False,block,block,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.88,4,10,7,,PHI,jump_ball,0,False,False,Jump Ball Scott vs. Brazdeikis: Tip to Milton,,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,37.88,4,10,7,PHI,PHI,reb,0,False,False,76ERS Rebound,,98-71,98,71
+0022001055,2021-05-14,PHI,ORL,38.02,4,9,59,PHI,PHI,fg_make,75,False,False,Milton 1' Driving Finger Roll Layup (12 PTS),,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.17,4,9,50,ORL,PHI,foul,1,False,False,Scott P.FOUL (P2.T1) (N.Green),,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.3,4,9,42,ORL,ORL,fg_miss,47,False,False,,MISS Hampton 10' Turnaround Jump Shot,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.33,4,9,40,PHI,PHI,reb,0,False,False,76ERS Rebound,,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.57,4,9,26,PHI,PHI,fg_miss,6,False,False,MISS Milton 2' Driving Layup,,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.63,4,9,22,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:1 Def:2),100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.73,4,9,16,ORL,PHI,foul,1,False,False,G. Hill P.FOUL (P3.T2) (D.Guthrie),,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.87,4,9,8,ORL,ORL,fg3_miss,1,False,False,,MISS Bamba 26' 3PT Jump Shot,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,38.92,4,9,5,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:1 Def:5),,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.0,4,9,0,PHI,PHI,fg3_miss,1,False,False,MISS Maxey 25' 3PT Jump Shot,,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.03,4,8,58,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:7),100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.18,4,8,49,ORL,ORL,fg3_miss,1,False,False,,MISS Thornwell 24' 3PT Jump Shot,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.23,4,8,46,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:4),,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.47,4,8,32,PHI,PHI,fg_miss,79,False,False,MISS G. Hill 17' Pullup Jump Shot,,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.52,4,8,29,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:4),100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.85,4,8,9,ORL,ORL,fg3_miss,1,False,False,,MISS Hampton 26' 3PT Jump Shot,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,39.88,4,8,7,ORL,ORL,reb,0,False,False,,Magic Rebound,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,40.0,4,8,0,ORL,ORL,fg_miss,6,False,False,,MISS Randle 2' Driving Layup,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,40.03,4,7,58,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:5),,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,40.12,4,7,53,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 3PT Jump Shot,,100-71,100,71
+0022001055,2021-05-14,PHI,ORL,40.17,4,7,50,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:1 Def:3),100-71,100,71
+0022001055,2021-05-14,PHI,ORL,40.33,4,7,40,ORL,ORL,fg_make,58,False,False,,Brazdeikis 1' Turnaround Hook Shot (18 PTS),100-73,100,73
+0022001055,2021-05-14,PHI,ORL,40.62,4,7,23,PHI,PHI,fg_miss,75,False,False,MISS Maxey 2' Driving Finger Roll Layup,,100-73,100,73
+0022001055,2021-05-14,PHI,ORL,40.65,4,7,21,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:5),100-73,100,73
+0022001055,2021-05-14,PHI,ORL,40.75,4,7,15,ORL,ORL,fg3_make,1,False,False,,Brazdeikis 25' 3PT Jump Shot (21 PTS) (Hampton 8 AST),100-76,100,76
+0022001055,2021-05-14,PHI,ORL,41.03,4,6,58,PHI,PHI,fg_make,101,False,False,Milton 7' Driving Floating Jump Shot (14 PTS) (Scott 2 AST),,102-76,102,76
+0022001055,2021-05-14,PHI,ORL,41.03,4,6,58,PHI,ORL,foul,2,False,False,,Bamba S.FOUL (P2.T1) (D.Guthrie),102-76,102,76
+0022001055,2021-05-14,PHI,ORL,41.03,4,6,58,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,102-76,102,76
+0022001055,2021-05-14,PHI,ORL,41.03,4,6,58,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,102-76,102,76
+0022001055,2021-05-14,PHI,ORL,41.03,4,6,58,PHI,PHI,ft_make,10,False,False,Milton Free Throw 1 of 1 (15 PTS),,103-76,103,76
+0022001055,2021-05-14,PHI,ORL,41.25,4,6,45,ORL,PHI,foul,2,False,False,Joe S.FOUL (P1.T3) (D.Guthrie),,103-76,103,76
+0022001055,2021-05-14,PHI,ORL,41.25,4,6,45,ORL,ORL,ft_make,11,False,False,,Hampton Free Throw 1 of 2 (9 PTS),103-77,103,77
+0022001055,2021-05-14,PHI,ORL,41.25,4,6,45,ORL,ORL,ft_make,12,False,False,,Hampton Free Throw 2 of 2 (10 PTS),103-78,103,78
+0022001055,2021-05-14,PHI,ORL,41.48,4,6,31,PHI,PHI,fg_make,75,False,False,Korkmaz 1' Driving Finger Roll Layup (10 PTS) (Milton 3 AST),,105-78,105,78
+0022001055,2021-05-14,PHI,ORL,41.7,4,6,18,ORL,PHI,foul,2,False,False,Reed S.FOUL (P1.T4) (N.Green),,105-78,105,78
+0022001055,2021-05-14,PHI,ORL,41.7,4,6,18,ORL,ORL,ft_make,11,False,False,,Bamba Free Throw 1 of 2 (10 PTS),105-79,105,79
+0022001055,2021-05-14,PHI,ORL,41.7,4,6,18,ORL,ORL,ft_make,12,False,False,,Bamba Free Throw 2 of 2 (11 PTS),105-80,105,80
+0022001055,2021-05-14,PHI,ORL,41.88,4,6,7,PHI,PHI,fg_make,79,False,False,Joe 16' Pullup Jump Shot (2 PTS) (Reed 1 AST),,107-80,107,80
+0022001055,2021-05-14,PHI,ORL,42.1,4,5,54,ORL,ORL,fg_make,6,False,False,,Randle 2' Driving Layup (10 PTS),107-82,107,82
+0022001055,2021-05-14,PHI,ORL,42.32,4,5,41,PHI,PHI,tov,45,False,False,Joe Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,107-82,107,82
+0022001055,2021-05-14,PHI,ORL,42.53,4,5,28,ORL,ORL,tov,1,False,True,,Hampton Bad Pass Turnover (P1.T10),107-82,107,82
+0022001055,2021-05-14,PHI,ORL,42.53,4,5,28,ORL,PHI,steal,1,False,True,steal,steal,107-82,107,82
+0022001055,2021-05-14,PHI,ORL,42.83,4,5,10,PHI,PHI,fg3_miss,1,False,False,MISS Joe 3PT Jump Shot,,107-82,107,82
+0022001055,2021-05-14,PHI,ORL,42.87,4,5,8,PHI,PHI,reb,0,False,False,Reed REBOUND (Off:1 Def:0),,107-82,107,82
+0022001055,2021-05-14,PHI,ORL,42.97,4,5,2,PHI,PHI,fg_miss,44,False,False,MISS Reed 2' Reverse Layup,,107-82,107,82
+0022001055,2021-05-14,PHI,ORL,43.02,4,4,59,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:1 Def:4),107-82,107,82
+0022001055,2021-05-14,PHI,ORL,43.18,4,4,49,ORL,ORL,fg_make,43,False,False,,Hall 1' Alley Oop Layup (2 PTS) (Brazdeikis 1 AST),107-84,107,84
+0022001055,2021-05-14,PHI,ORL,43.48,4,4,31,PHI,PHI,fg3_make,1,False,False,Joe 3PT Jump Shot (5 PTS) (Reed 2 AST),,110-84,110,84
+0022001055,2021-05-14,PHI,ORL,43.83,4,4,10,ORL,ORL,tov,1,False,True,,Hampton Bad Pass Turnover (P2.T11),110-84,110,84
+0022001055,2021-05-14,PHI,ORL,43.83,4,4,10,ORL,PHI,steal,1,False,True,steal,steal,110-84,110,84
+0022001055,2021-05-14,PHI,ORL,43.92,4,4,5,PHI,PHI,fg3_miss,1,False,False,MISS Joe 26' 3PT Jump Shot,,110-84,110,84
+0022001055,2021-05-14,PHI,ORL,43.97,4,4,2,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:1 Def:5),110-84,110,84
+0022001055,2021-05-14,PHI,ORL,44.05,4,3,57,ORL,ORL,tov,1,False,True,,Brazdeikis Bad Pass Turnover (P1.T12),110-84,110,84
+0022001055,2021-05-14,PHI,ORL,44.05,4,3,57,ORL,PHI,steal,1,False,True,steal,steal,110-84,110,84
+0022001055,2021-05-14,PHI,ORL,44.05,4,3,57,PHI,ORL,foul,28,False,False,,Brazdeikis Personal Take Foul (P1.T2) (N.Green),110-84,110,84
+0022001055,2021-05-14,PHI,ORL,44.27,4,3,44,PHI,PHI,fg_miss,5,False,False,MISS Reed 2' Layup,,110-84,110,84
+0022001055,2021-05-14,PHI,ORL,44.37,4,3,38,PHI,PHI,reb,0,False,False,Reed REBOUND (Off:2 Def:0),,110-84,110,84
+0022001055,2021-05-14,PHI,ORL,44.37,4,3,38,PHI,PHI,fg_make,72,False,False,Reed Putback Layup (2 PTS),,112-84,112,84
+0022001055,2021-05-14,PHI,ORL,44.6,4,3,24,ORL,ORL,fg_make,98,False,False,,Hall 1' Cutting Layup Shot (4 PTS) (Thornwell 2 AST),112-86,112,86
+0022001055,2021-05-14,PHI,ORL,44.6,4,3,24,ORL,PHI,foul,2,False,False,Maxey S.FOUL (P4.PN) (B.Forte),,112-86,112,86
+0022001055,2021-05-14,PHI,ORL,44.6,4,3,24,ORL,ORL,ft_make,10,False,False,,Hall Free Throw 1 of 1 (5 PTS),112-87,112,87
+0022001055,2021-05-14,PHI,ORL,44.87,4,3,8,PHI,PHI,fg_miss,79,False,False,MISS Maxey 14' Pullup Jump Shot,,112-87,112,87
+0022001055,2021-05-14,PHI,ORL,44.9,4,3,6,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:0 Def:3),112-87,112,87
+0022001055,2021-05-14,PHI,ORL,45.1,4,2,54,ORL,ORL,fg3_make,1,False,False,,Wagner 26' 3PT Jump Shot (8 PTS) (Hampton 9 AST),112-90,112,90
+0022001055,2021-05-14,PHI,ORL,45.32,4,2,41,PHI,PHI,fg_miss,58,False,False,MISS Reed 4' Turnaround Hook Shot,,112-90,112,90
+0022001055,2021-05-14,PHI,ORL,45.32,4,2,41,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:8),112-90,112,90
+0022001055,2021-05-14,PHI,ORL,45.32,4,2,41,ORL,PHI,foul,1,False,False,Reed P.FOUL (P2.PN) (B.Forte),,112-90,112,90
+0022001055,2021-05-14,PHI,ORL,45.32,4,2,41,ORL,ORL,ft_make,11,False,False,,Hampton Free Throw 1 of 2 (11 PTS),112-91,112,91
+0022001055,2021-05-14,PHI,ORL,45.32,4,2,41,ORL,ORL,ft_make,12,False,False,,Hampton Free Throw 2 of 2 (12 PTS),112-92,112,92
+0022001055,2021-05-14,PHI,ORL,45.5,4,2,30,PHI,PHI,fg_miss,79,False,False,MISS Maxey 20' Pullup Jump Shot,,112-92,112,92
+0022001055,2021-05-14,PHI,ORL,45.53,4,2,28,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:2 Def:9),112-92,112,92
+0022001055,2021-05-14,PHI,ORL,45.75,4,2,15,ORL,PHI,foul,2,False,False,Clark S.FOUL (P1.PN) (D.Guthrie),,112-92,112,92
+0022001055,2021-05-14,PHI,ORL,45.75,4,2,15,ORL,ORL,ft_make,11,False,False,,Hall Free Throw 1 of 2 (6 PTS),112-93,112,93
+0022001055,2021-05-14,PHI,ORL,45.75,4,2,15,ORL,ORL,ft_make,12,False,False,,Hall Free Throw 2 of 2 (7 PTS),112-94,112,94
+0022001055,2021-05-14,PHI,ORL,46.1,4,1,54,PHI,PHI,fg3_make,1,False,False,Joe 27' 3PT Jump Shot (8 PTS) (Maxey 5 AST),,115-94,115,94
+0022001055,2021-05-14,PHI,ORL,46.33,4,1,40,ORL,ORL,tov,1,False,True,,Hampton Bad Pass Turnover (P3.T13),115-94,115,94
+0022001055,2021-05-14,PHI,ORL,46.33,4,1,40,ORL,PHI,steal,1,False,True,steal,steal,115-94,115,94
+0022001055,2021-05-14,PHI,ORL,46.42,4,1,35,PHI,PHI,fg_make,78,False,False,Reed 6' Floating Jump Shot (4 PTS) (Clark 1 AST),,117-94,117,94
+0022001055,2021-05-14,PHI,ORL,46.62,4,1,23,ORL,ORL,fg3_miss,79,False,False,,MISS Randle 26' 3PT Pullup Jump Shot,117-94,117,94
+0022001055,2021-05-14,PHI,ORL,46.65,4,1,21,PHI,PHI,reb,0,False,False,Clark REBOUND (Off:0 Def:1),,117-94,117,94
+0022001055,2021-05-14,PHI,ORL,46.78,4,1,13,PHI,PHI,fg_make,58,False,False,Maxey 4' Turnaround Hook Shot (8 PTS),,119-94,119,94
+0022001055,2021-05-14,PHI,ORL,46.95,4,1,3,ORL,PHI,foul,2,False,False,Reed S.FOUL (P3.PN) (N.Green),,119-94,119,94
+0022001055,2021-05-14,PHI,ORL,46.95,4,1,3,ORL,ORL,ft_miss,11,False,False,,MISS Thornwell Free Throw 1 of 2,119-94,119,94
+0022001055,2021-05-14,PHI,ORL,46.95,4,1,3,ORL,ORL,reb,1,False,False,,Magic Rebound,119-94,119,94
+0022001055,2021-05-14,PHI,ORL,46.95,4,1,3,ORL,ORL,ft_make,12,False,False,,Thornwell Free Throw 2 of 2 (3 PTS),119-95,119,95
+0022001055,2021-05-14,PHI,ORL,47.25,4,0,45,PHI,PHI,fg3_make,80,False,False,Joe 26' 3PT Step Back Jump Shot (11 PTS) (Maxey 6 AST),,122-95,122,95
+0022001055,2021-05-14,PHI,ORL,47.38,4,0,37,ORL,ORL,fg_make,44,False,False,,Randle Reverse Layup (12 PTS) (Thornwell 3 AST),122-97,122,97
+0022001055,2021-05-14,PHI,ORL,47.77,4,0,14,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#9),,122-97,122,97
+0022001055,2021-05-14,PHI,ORL,48.0,4,0,0,PHI,,period_end,0,False,False,,,122-97,122,97

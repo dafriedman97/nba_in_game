@@ -1,0 +1,445 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100949,2022-03-04,CHI,MIL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100949,2022-03-04,CHI,MIL,0.0,1,12,0,,CHI,jump_ball,0,False,False,Jump Ball Vucevic vs. Portis: Tip to G. Antetokounmpo,,0-0,0,0
+0022100949,2022-03-04,CHI,MIL,0.27,1,11,44,MIL,MIL,fg_make,101,False,False,,Portis 8' Driving Floating Jump Shot (2 PTS) (G. Antetokounmpo 1 AST),0-2,0,2
+0022100949,2022-03-04,CHI,MIL,0.55,1,11,27,CHI,CHI,fg_miss,1,False,False,MISS Vucevic 14' Jump Shot,,0-2,0,2
+0022100949,2022-03-04,CHI,MIL,0.58,1,11,25,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:1),0-2,0,2
+0022100949,2022-03-04,CHI,MIL,0.72,1,11,17,MIL,MIL,fg_miss,6,False,False,,MISS G. Antetokounmpo 1' Driving Layup,0-2,0,2
+0022100949,2022-03-04,CHI,MIL,0.75,1,11,15,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:1),,0-2,0,2
+0022100949,2022-03-04,CHI,MIL,0.82,1,11,11,CHI,CHI,fg_make,1,False,False,LaVine 17' Jump Shot (2 PTS) (Dosunmu 1 AST),,2-2,2,2
+0022100949,2022-03-04,CHI,MIL,1.02,1,10,59,MIL,MIL,fg3_make,1,False,False,,Portis 27' 3PT Jump Shot (5 PTS) (Holiday 1 AST),2-5,2,5
+0022100949,2022-03-04,CHI,MIL,1.13,1,10,52,CHI,MIL,foul,1,False,False,,Holiday P.FOUL (P1.T1) (J.DeRosa),2-5,2,5
+0022100949,2022-03-04,CHI,MIL,1.22,1,10,47,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 21' Pullup Jump Shot,,2-5,2,5
+0022100949,2022-03-04,CHI,MIL,1.28,1,10,43,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),2-5,2,5
+0022100949,2022-03-04,CHI,MIL,1.43,1,10,34,MIL,MIL,fg_make,86,False,False,,Middleton 14' Turnaround Fadeaway (2 PTS),2-7,2,7
+0022100949,2022-03-04,CHI,MIL,1.77,1,10,14,CHI,CHI,tov,2,False,True,Vucevic Lost Ball Turnover (P1.T1),,2-7,2,7
+0022100949,2022-03-04,CHI,MIL,1.77,1,10,14,CHI,MIL,steal,2,False,True,steal,steal,2-7,2,7
+0022100949,2022-03-04,CHI,MIL,1.92,1,10,5,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 25' 3PT Jump Shot,2-7,2,7
+0022100949,2022-03-04,CHI,MIL,1.95,1,10,3,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:2),,2-7,2,7
+0022100949,2022-03-04,CHI,MIL,2.08,1,9,55,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (4 PTS),,4-7,4,7
+0022100949,2022-03-04,CHI,MIL,2.17,1,9,50,MIL,CHI,foul,1,False,False,DeRozan P.FOUL (P1.T1) (Z.Zarba),,4-7,4,7
+0022100949,2022-03-04,CHI,MIL,2.4,1,9,36,MIL,MIL,tov,45,False,False,,G. Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),4-7,4,7
+0022100949,2022-03-04,CHI,MIL,2.62,1,9,23,CHI,CHI,fg3_miss,1,False,False,MISS Dosunmu 25' 3PT Jump Shot,,4-7,4,7
+0022100949,2022-03-04,CHI,MIL,2.67,1,9,20,CHI,CHI,reb,0,False,False,Thompson REBOUND (Off:1 Def:0),,4-7,4,7
+0022100949,2022-03-04,CHI,MIL,2.77,1,9,14,CHI,CHI,fg_miss,5,False,False,MISS DeRozan 2' Layup,,4-7,4,7
+0022100949,2022-03-04,CHI,MIL,2.82,1,9,11,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:0),,4-7,4,7
+0022100949,2022-03-04,CHI,MIL,2.82,1,9,11,CHI,CHI,fg_make,97,False,False,Vucevic Tip Layup Shot (2 PTS),,6-7,6,7
+0022100949,2022-03-04,CHI,MIL,2.92,1,9,5,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P1.T2),6-7,6,7
+0022100949,2022-03-04,CHI,MIL,2.92,1,9,5,MIL,CHI,steal,1,False,True,steal,steal,6-7,6,7
+0022100949,2022-03-04,CHI,MIL,3.17,1,8,50,CHI,CHI,fg_make,79,False,False,DeRozan 9' Pullup Jump Shot (2 PTS),,8-7,8,7
+0022100949,2022-03-04,CHI,MIL,3.42,1,8,35,MIL,CHI,foul,2,False,False,Thompson S.FOUL (P1.T2) (J.Goldenberg),,8-7,8,7
+0022100949,2022-03-04,CHI,MIL,3.42,1,8,35,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (1 PTS),8-8,8,8
+0022100949,2022-03-04,CHI,MIL,3.42,1,8,35,MIL,MIL,ft_miss,12,False,False,,MISS G. Antetokounmpo Free Throw 2 of 2,8-8,8,8
+0022100949,2022-03-04,CHI,MIL,3.43,1,8,34,MIL,MIL,reb,0,False,False,,Bucks Rebound,8-8,8,8
+0022100949,2022-03-04,CHI,MIL,3.43,1,8,34,MIL,CHI,foul,3,False,False,Vucevic L.B.FOUL (P1.T3) (J.Goldenberg),,8-8,8,8
+0022100949,2022-03-04,CHI,MIL,3.63,1,8,22,MIL,MIL,fg3_make,1,False,False,,Portis 25' 3PT Jump Shot (8 PTS) (Middleton 1 AST),8-11,8,11
+0022100949,2022-03-04,CHI,MIL,3.92,1,8,5,CHI,CHI,fg_make,78,False,False,Thompson 8' Floating Jump Shot (2 PTS) (LaVine 1 AST),,10-11,10,11
+0022100949,2022-03-04,CHI,MIL,4.13,1,7,52,MIL,MIL,fg_make,6,False,False,,G. Antetokounmpo 2' Driving Layup (3 PTS) (Middleton 2 AST),10-13,10,13
+0022100949,2022-03-04,CHI,MIL,4.57,1,7,26,CHI,CHI,tov,45,False,False,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,10-13,10,13
+0022100949,2022-03-04,CHI,MIL,4.73,1,7,16,MIL,MIL,fg3_miss,1,False,False,,MISS Ibaka 26' 3PT Jump Shot,10-13,10,13
+0022100949,2022-03-04,CHI,MIL,4.8,1,7,12,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:1),,10-13,10,13
+0022100949,2022-03-04,CHI,MIL,4.93,1,7,4,CHI,CHI,fg_make,6,False,False,LaVine 2' Driving Layup (6 PTS),,12-13,12,13
+0022100949,2022-03-04,CHI,MIL,5.07,1,6,56,MIL,MIL,fg3_make,80,False,False,,Holiday 25' 3PT Step Back Jump Shot (3 PTS),12-16,12,16
+0022100949,2022-03-04,CHI,MIL,5.27,1,6,44,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 26' 3PT Jump Shot,,12-16,12,16
+0022100949,2022-03-04,CHI,MIL,5.33,1,6,40,MIL,MIL,reb,0,False,False,,Ibaka REBOUND (Off:0 Def:1),12-16,12,16
+0022100949,2022-03-04,CHI,MIL,5.42,1,6,35,MIL,MIL,fg3_miss,79,False,False,,MISS G. Antetokounmpo 26' 3PT Pullup Jump Shot,12-16,12,16
+0022100949,2022-03-04,CHI,MIL,5.48,1,6,31,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),12-16,12,16
+0022100949,2022-03-04,CHI,MIL,5.5,1,6,30,MIL,MIL,fg_make,6,False,False,,Holiday 2' Driving Layup (5 PTS),12-18,12,18
+0022100949,2022-03-04,CHI,MIL,5.5,1,6,30,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,12-18,12,18
+0022100949,2022-03-04,CHI,MIL,5.75,1,6,15,CHI,CHI,fg_make,58,False,False,Vucevic 5' Turnaround Hook Shot (4 PTS) (LaVine 2 AST),,14-18,14,18
+0022100949,2022-03-04,CHI,MIL,5.98,1,6,1,MIL,MIL,fg_miss,47,False,False,,MISS Holiday 6' Turnaround Jump Shot,14-18,14,18
+0022100949,2022-03-04,CHI,MIL,6.0,1,6,0,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:2),,14-18,14,18
+0022100949,2022-03-04,CHI,MIL,6.05,1,5,57,CHI,CHI,fg3_miss,1,False,False,MISS White 26' 3PT Jump Shot,,14-18,14,18
+0022100949,2022-03-04,CHI,MIL,6.1,1,5,54,MIL,MIL,reb,0,False,False,,Allen REBOUND (Off:0 Def:1),14-18,14,18
+0022100949,2022-03-04,CHI,MIL,6.2,1,5,48,CHI,MIL,foul,4,False,False,,Middleton OFF.Foul (P1) (Z.Zarba),14-18,14,18
+0022100949,2022-03-04,CHI,MIL,6.2,1,5,48,MIL,MIL,tov,37,False,False,,Middleton Offensive Foul Turnover (P2.T3),14-18,14,18
+0022100949,2022-03-04,CHI,MIL,6.37,1,5,38,CHI,CHI,fg_make,78,False,False,Vucevic 10' Floating Jump Shot (6 PTS) (LaVine 3 AST),,16-18,16,18
+0022100949,2022-03-04,CHI,MIL,6.57,1,5,26,MIL,MIL,fg_make,98,False,False,,G. Antetokounmpo 1' Cutting Layup Shot (5 PTS) (Middleton 3 AST),16-20,16,20
+0022100949,2022-03-04,CHI,MIL,6.87,1,5,8,CHI,CHI,fg_make,63,False,False,LaVine 18' Fadeaway Jumper (8 PTS),,18-20,18,20
+0022100949,2022-03-04,CHI,MIL,7.05,1,4,57,MIL,MIL,fg_miss,1,False,False,,MISS Ibaka 20' Jump Shot,18-20,18,20
+0022100949,2022-03-04,CHI,MIL,7.05,1,4,57,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:3),,18-20,18,20
+0022100949,2022-03-04,CHI,MIL,7.23,1,4,46,CHI,CHI,fg_make,80,False,False,LaVine 21' Step Back Jump Shot (10 PTS),,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,7.55,1,4,27,CHI,MIL,foul,4,False,False,,Middleton OFF.Foul (P2) (J.Goldenberg),20-20,20,20
+0022100949,2022-03-04,CHI,MIL,7.55,1,4,27,MIL,MIL,tov,37,False,False,,Middleton Offensive Foul Turnover (P3.T4),20-20,20,20
+0022100949,2022-03-04,CHI,MIL,7.83,1,4,10,CHI,CHI,fg_miss,6,False,False,MISS Vucevic 2' Driving Layup,,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,7.87,1,4,8,MIL,MIL,reb,0,False,False,,Allen REBOUND (Off:0 Def:2),20-20,20,20
+0022100949,2022-03-04,CHI,MIL,7.93,1,4,4,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 26' 3PT Jump Shot,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,8.0,1,4,0,CHI,CHI,reb,0,False,False,Green REBOUND (Off:0 Def:1),,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,8.15,1,3,51,CHI,CHI,tov,6,False,False,Vucevic Double Dribble Turnover (P2.T3),,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,8.15,1,3,51,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),20-20,20,20
+0022100949,2022-03-04,CHI,MIL,8.43,1,3,34,MIL,MIL,fg_miss,1,False,False,,MISS Ibaka 14' Jump Shot,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,8.48,1,3,31,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:4),,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,8.82,1,3,11,CHI,CHI,fg3_miss,1,False,False,MISS White 27' 3PT Jump Shot,,20-20,20,20
+0022100949,2022-03-04,CHI,MIL,8.87,1,3,8,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:1),20-20,20,20
+0022100949,2022-03-04,CHI,MIL,9.03,1,2,58,MIL,MIL,fg_make,47,False,False,,Portis 8' Turnaround Jump Shot (10 PTS),20-22,20,22
+0022100949,2022-03-04,CHI,MIL,9.33,1,2,40,CHI,CHI,fg3_miss,1,False,False,MISS Dosunmu 24' 3PT Jump Shot,,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,9.37,1,2,38,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),20-22,20,22
+0022100949,2022-03-04,CHI,MIL,9.53,1,2,28,MIL,MIL,fg3_miss,1,False,False,,MISS Carter 3PT Jump Shot,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,9.6,1,2,24,MIL,MIL,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:1),20-22,20,22
+0022100949,2022-03-04,CHI,MIL,9.68,1,2,19,MIL,MIL,tov,45,False,False,,Ibaka Out of Bounds - Bad Pass Turnover Turnover (P1.T5),20-22,20,22
+0022100949,2022-03-04,CHI,MIL,9.92,1,2,5,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 10' Pullup Jump Shot,,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,9.95,1,2,3,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:3),20-22,20,22
+0022100949,2022-03-04,CHI,MIL,10.1,1,1,54,MIL,MIL,fg_miss,79,False,False,,MISS Holiday 23' Pullup Jump Shot,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,10.13,1,1,52,CHI,CHI,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:1),,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,10.25,1,1,45,CHI,CHI,fg3_miss,66,False,False,MISS Green 3PT Jump Bank Shot,,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,10.32,1,1,41,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:4),20-22,20,22
+0022100949,2022-03-04,CHI,MIL,10.52,1,1,29,MIL,MIL,fg_miss,1,False,False,,MISS Portis 14' Jump Shot,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,10.58,1,1,25,CHI,CHI,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:1),,20-22,20,22
+0022100949,2022-03-04,CHI,MIL,10.73,1,1,16,CHI,CHI,fg_make,98,False,False,Brown Jr. 1' Cutting Layup Shot (2 PTS) (White 1 AST),,22-22,22,22
+0022100949,2022-03-04,CHI,MIL,10.92,1,1,5,MIL,CHI,foul,2,False,False,Brown Jr. S.FOUL (P1.T4) (J.Goldenberg),,22-22,22,22
+0022100949,2022-03-04,CHI,MIL,10.92,1,1,5,MIL,MIL,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (6 PTS),22-23,22,23
+0022100949,2022-03-04,CHI,MIL,10.92,1,1,5,MIL,MIL,ft_miss,12,False,False,,MISS Holiday Free Throw 2 of 2,22-23,22,23
+0022100949,2022-03-04,CHI,MIL,10.97,1,1,2,CHI,CHI,reb,0,False,False,BULLS Rebound,,22-23,22,23
+0022100949,2022-03-04,CHI,MIL,11.2,1,0,48,CHI,CHI,tov,2,False,True,White Lost Ball Turnover (P1.T4),,22-23,22,23
+0022100949,2022-03-04,CHI,MIL,11.2,1,0,48,CHI,MIL,steal,2,False,True,steal,steal,22-23,22,23
+0022100949,2022-03-04,CHI,MIL,11.25,1,0,45,MIL,MIL,tov,4,False,False,,G. Antetokounmpo Traveling Turnover (P2.T6),22-23,22,23
+0022100949,2022-03-04,CHI,MIL,11.48,1,0,31,CHI,CHI,fg3_make,1,False,False,Brown Jr. 3PT Jump Shot (5 PTS) (Jones Jr. 1 AST),,25-23,25,23
+0022100949,2022-03-04,CHI,MIL,11.65,1,0,21,MIL,CHI,foul,2,False,False,Green S.FOUL (P1.PN) (J.DeRosa),,25-23,25,23
+0022100949,2022-03-04,CHI,MIL,11.65,1,0,21,MIL,MIL,ft_make,11,False,False,,Nwora Free Throw 1 of 2 (1 PTS),25-24,25,24
+0022100949,2022-03-04,CHI,MIL,11.65,1,0,21,MIL,MIL,ft_make,12,False,False,,Nwora Free Throw 2 of 2 (2 PTS),25-25,25,25
+0022100949,2022-03-04,CHI,MIL,11.98,1,0,1,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 22' Pullup Jump Shot,,25-25,25,25
+0022100949,2022-03-04,CHI,MIL,11.98,1,0,1,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:2),25-25,25,25
+0022100949,2022-03-04,CHI,MIL,12.0,1,0,0,MIL,,period_end,0,False,False,,,25-25,25,25
+0022100949,2022-03-04,CHI,MIL,12.0,2,12,0,MIL,,period_start,0,False,False,,,25-25,25,25
+0022100949,2022-03-04,CHI,MIL,12.3,2,11,42,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 20' Pullup Jump Shot,,25-25,25,25
+0022100949,2022-03-04,CHI,MIL,12.3,2,11,42,MIL,MIL,reb,0,False,False,,Bucks Rebound,25-25,25,25
+0022100949,2022-03-04,CHI,MIL,12.57,2,11,26,MIL,MIL,fg_miss,79,False,False,,MISS G. Antetokounmpo 18' Pullup Jump Shot,25-25,25,25
+0022100949,2022-03-04,CHI,MIL,12.6,2,11,24,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:1 Def:0),25-25,25,25
+0022100949,2022-03-04,CHI,MIL,12.6,2,11,24,MIL,MIL,fg_make,97,False,False,,Matthews Tip Layup Shot (2 PTS),25-27,25,27
+0022100949,2022-03-04,CHI,MIL,12.87,2,11,8,CHI,CHI,fg_miss,5,True,False,MISS DeRozan 2' Layup,,25-27,25,27
+0022100949,2022-03-04,CHI,MIL,12.87,2,11,8,CHI,MIL,block,5,True,False,block,block,25-27,25,27
+0022100949,2022-03-04,CHI,MIL,12.87,2,11,8,CHI,CHI,reb,0,False,False,BULLS Rebound,,25-27,25,27
+0022100949,2022-03-04,CHI,MIL,13.05,2,10,57,CHI,CHI,fg_miss,86,False,False,MISS DeRozan 16' Turnaround Fadeaway Shot,,25-27,25,27
+0022100949,2022-03-04,CHI,MIL,13.12,2,10,53,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:3),25-27,25,27
+0022100949,2022-03-04,CHI,MIL,13.15,2,10,51,MIL,MIL,fg_make,41,False,False,,G. Antetokounmpo 5' Running Layup (7 PTS),25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.15,2,10,51,MIL,CHI,foul,2,False,False,Jones Jr. S.FOUL (P1.T1) (J.Goldenberg),,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.15,2,10,51,MIL,MIL,ft_miss,10,False,False,,MISS G. Antetokounmpo Free Throw 1 of 1,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.2,2,10,48,CHI,CHI,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:2),,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.4,2,10,36,MIL,CHI,foul,4,False,False,Thompson OFF.Foul (P2) (Z.Zarba),,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.4,2,10,36,CHI,CHI,tov,37,False,False,Thompson Offensive Foul Turnover (P1.T5),,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.6,2,10,24,MIL,MIL,fg_miss,102,False,False,,MISS Middleton 6' Driving Floating Bank Jump Shot,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.65,2,10,21,,CHI,jump_ball,0,False,False,Jump Ball DeRozan vs. G. Antetokounmpo: Tip to Matthews,,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.65,2,10,21,MIL,MIL,reb,0,False,False,,Bucks Rebound,25-29,25,29
+0022100949,2022-03-04,CHI,MIL,13.73,2,10,16,MIL,MIL,fg_make,6,False,False,,G. Antetokounmpo 1' Driving Layup (9 PTS) (Matthews 1 AST),25-31,25,31
+0022100949,2022-03-04,CHI,MIL,13.98,2,10,1,CHI,CHI,fg_make,6,False,False,DeRozan 1' Driving Layup (4 PTS),,27-31,27,31
+0022100949,2022-03-04,CHI,MIL,14.15,2,9,51,MIL,MIL,fg_make,79,False,False,,G. Antetokounmpo 17' Pullup Jump Shot (11 PTS),27-33,27,33
+0022100949,2022-03-04,CHI,MIL,14.4,2,9,36,CHI,CHI,fg_make,101,False,False,DeRozan 7' Driving Floating Jump Shot (6 PTS),,29-33,29,33
+0022100949,2022-03-04,CHI,MIL,14.55,2,9,27,MIL,MIL,fg3_make,79,False,False,,Carter 26' 3PT Pullup Jump Shot (3 PTS),29-36,29,36
+0022100949,2022-03-04,CHI,MIL,14.97,2,9,2,CHI,CHI,fg_miss,58,False,False,MISS Thompson 6' Turnaround Hook Shot,,29-36,29,36
+0022100949,2022-03-04,CHI,MIL,15.0,2,9,0,MIL,MIL,reb,0,False,False,,Nwora REBOUND (Off:0 Def:1),29-36,29,36
+0022100949,2022-03-04,CHI,MIL,15.07,2,8,56,MIL,MIL,fg_make,47,False,False,,Middleton 7' Turnaround Jump Shot (4 PTS),29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.07,2,8,56,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.37,2,8,38,CHI,CHI,fg_miss,78,False,False,MISS Thompson 7' Floating Jump Shot,,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.4,2,8,36,MIL,MIL,reb,0,False,False,,Nwora REBOUND (Off:0 Def:2),29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.47,2,8,32,MIL,CHI,foul,2,False,False,Thompson S.FOUL (P3.T2) (J.Goldenberg),,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.47,2,8,32,MIL,MIL,ft_miss,11,False,False,,MISS G. Antetokounmpo Free Throw 1 of 2,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.47,2,8,32,MIL,MIL,reb,1,False,False,,Bucks Rebound,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.47,2,8,32,MIL,MIL,ft_miss,12,False,False,,MISS G. Antetokounmpo Free Throw 2 of 2,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.5,2,8,30,CHI,CHI,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:3),,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.65,2,8,21,MIL,CHI,foul,11,False,False,Thompson T.FOUL (P3.T2) (J.DeRosa),,29-38,29,38
+0022100949,2022-03-04,CHI,MIL,15.65,2,8,21,MIL,MIL,ft_make,16,False,False,,Middleton Free Throw Technical (5 PTS),29-39,29,39
+0022100949,2022-03-04,CHI,MIL,15.78,2,8,13,CHI,CHI,fg_miss,1,True,False,MISS LaVine 15' Jump Shot,,29-39,29,39
+0022100949,2022-03-04,CHI,MIL,15.78,2,8,13,CHI,MIL,block,1,True,False,block,block,29-39,29,39
+0022100949,2022-03-04,CHI,MIL,15.78,2,8,13,MIL,MIL,reb,0,False,False,,Carter REBOUND (Off:0 Def:1),29-39,29,39
+0022100949,2022-03-04,CHI,MIL,15.98,2,8,1,MIL,MIL,fg_make,7,False,False,,G. Antetokounmpo Dunk (13 PTS) (Nwora 1 AST),29-41,29,41
+0022100949,2022-03-04,CHI,MIL,16.22,2,7,47,CHI,CHI,fg_make,79,False,False,DeRozan 16' Pullup Jump Shot (8 PTS),,31-41,31,41
+0022100949,2022-03-04,CHI,MIL,16.48,2,7,31,MIL,MIL,fg_miss,5,False,False,,MISS G. Antetokounmpo 2' Layup,31-41,31,41
+0022100949,2022-03-04,CHI,MIL,16.55,2,7,27,CHI,CHI,reb,0,False,False,Dosunmu REBOUND (Off:0 Def:1),,31-41,31,41
+0022100949,2022-03-04,CHI,MIL,16.62,2,7,23,CHI,CHI,fg_make,41,False,False,Dosunmu 1' Running Layup (2 PTS),,33-41,33,41
+0022100949,2022-03-04,CHI,MIL,16.9,2,7,6,MIL,MIL,fg3_make,79,False,False,,Middleton 26' 3PT Pullup Jump Shot (8 PTS),33-44,33,44
+0022100949,2022-03-04,CHI,MIL,17.07,2,6,56,CHI,MIL,foul,1,False,False,,Matthews P.FOUL (P1.T1) (Z.Zarba),33-44,33,44
+0022100949,2022-03-04,CHI,MIL,17.18,2,6,49,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 13' Pullup Jump Shot,,33-44,33,44
+0022100949,2022-03-04,CHI,MIL,17.25,2,6,45,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:4),33-44,33,44
+0022100949,2022-03-04,CHI,MIL,17.48,2,6,31,MIL,MIL,fg3_make,1,False,False,,Matthews 25' 3PT Jump Shot (5 PTS) (Holiday 2 AST),33-47,33,47
+0022100949,2022-03-04,CHI,MIL,17.75,2,6,15,CHI,CHI,fg3_make,79,False,False,LaVine 27' 3PT Pullup Jump Shot (13 PTS) (Vucevic 1 AST),,36-47,36,47
+0022100949,2022-03-04,CHI,MIL,17.9,2,6,6,MIL,MIL,tov,4,False,False,,Middleton Traveling Turnover (P4.T7),36-47,36,47
+0022100949,2022-03-04,CHI,MIL,18.18,2,5,49,CHI,CHI,fg_miss,63,False,False,MISS LaVine 13' Fadeaway Jumper,,36-47,36,47
+0022100949,2022-03-04,CHI,MIL,18.22,2,5,47,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:5),36-47,36,47
+0022100949,2022-03-04,CHI,MIL,18.33,2,5,40,MIL,MIL,fg_make,6,False,False,,Holiday 2' Driving Layup (8 PTS) (G. Antetokounmpo 2 AST),36-49,36,49
+0022100949,2022-03-04,CHI,MIL,18.53,2,5,28,CHI,CHI,fg_make,1,False,False,Vucevic 16' Jump Shot (8 PTS) (Dosunmu 2 AST),,38-49,38,49
+0022100949,2022-03-04,CHI,MIL,18.63,2,5,22,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.2 Short 0),38-49,38,49
+0022100949,2022-03-04,CHI,MIL,18.87,2,5,8,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 25' 3PT Jump Shot,38-49,38,49
+0022100949,2022-03-04,CHI,MIL,18.93,2,5,4,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:4),38-49,38,49
+0022100949,2022-03-04,CHI,MIL,19.13,2,4,52,MIL,MIL,fg3_miss,1,False,False,,MISS Holiday 25' 3PT Jump Shot,38-49,38,49
+0022100949,2022-03-04,CHI,MIL,19.13,2,4,52,MIL,MIL,reb,0,False,False,,Bucks Rebound,38-49,38,49
+0022100949,2022-03-04,CHI,MIL,19.13,2,4,52,MIL,MIL,tov,11,False,False,,Bucks Turnover: Shot Clock (T#8),38-49,38,49
+0022100949,2022-03-04,CHI,MIL,19.3,2,4,42,CHI,CHI,tov,45,False,False,Dosunmu Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,38-49,38,49
+0022100949,2022-03-04,CHI,MIL,19.63,2,4,22,MIL,MIL,fg_miss,80,False,False,,MISS Middleton 19' Step Back Jump Shot,38-49,38,49
+0022100949,2022-03-04,CHI,MIL,19.73,2,4,16,CHI,CHI,reb,0,False,False,Dosunmu REBOUND (Off:0 Def:2),,38-49,38,49
+0022100949,2022-03-04,CHI,MIL,19.83,2,4,10,CHI,CHI,fg_make,79,False,False,Dosunmu 16' Pullup Jump Shot (4 PTS),,40-49,40,49
+0022100949,2022-03-04,CHI,MIL,20.1,2,3,54,MIL,MIL,fg_miss,78,False,False,,MISS Holiday 5' Floating Jump Shot,40-49,40,49
+0022100949,2022-03-04,CHI,MIL,20.13,2,3,52,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:1),,40-49,40,49
+0022100949,2022-03-04,CHI,MIL,20.42,2,3,35,CHI,CHI,fg3_make,1,False,False,Vucevic 26' 3PT Jump Shot (11 PTS) (Dosunmu 3 AST),,43-49,43,49
+0022100949,2022-03-04,CHI,MIL,20.72,2,3,17,MIL,MIL,fg_make,79,False,False,,Middleton 7' Pullup Jump Shot (10 PTS),43-51,43,51
+0022100949,2022-03-04,CHI,MIL,20.95,2,3,3,CHI,CHI,fg_miss,9,True,False,MISS LaVine 1' Driving Dunk,,43-51,43,51
+0022100949,2022-03-04,CHI,MIL,20.95,2,3,3,CHI,MIL,block,9,True,False,block,block,43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.0,2,3,0,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:2),43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.05,2,2,57,MIL,MIL,tov,6,False,False,,Ibaka Double Dribble Turnover (P2.T9),43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.27,2,2,44,CHI,CHI,fg3_miss,1,False,False,MISS White 3PT Jump Shot,,43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.32,2,2,41,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:1),43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.4,2,2,36,MIL,CHI,foul,1,False,False,Green P.FOUL (P2.T3) (Z.Zarba),,43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.55,2,2,27,MIL,MIL,fg3_miss,1,False,False,,MISS Allen 3PT Jump Shot,43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.62,2,2,23,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:1),,43-51,43,51
+0022100949,2022-03-04,CHI,MIL,21.85,2,2,9,CHI,CHI,fg_make,9,False,False,Green 1' Driving Dunk (2 PTS),,45-51,45,51
+0022100949,2022-03-04,CHI,MIL,22.17,2,1,50,MIL,MIL,tov,2,False,True,,Portis Lost Ball Turnover (P1.T10),45-51,45,51
+0022100949,2022-03-04,CHI,MIL,22.17,2,1,50,MIL,CHI,steal,2,False,True,steal,steal,45-51,45,51
+0022100949,2022-03-04,CHI,MIL,22.22,2,1,47,CHI,CHI,fg_make,50,False,False,Green 2' Running Dunk (4 PTS),,47-51,47,51
+0022100949,2022-03-04,CHI,MIL,22.22,2,1,47,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.3 Short 0),47-51,47,51
+0022100949,2022-03-04,CHI,MIL,22.42,2,1,35,MIL,MIL,fg_make,73,False,False,,Portis Driving Reverse Layup (12 PTS) (Middleton 4 AST),47-53,47,53
+0022100949,2022-03-04,CHI,MIL,22.75,2,1,15,CHI,CHI,fg_miss,80,False,False,MISS LaVine 19' Step Back Jump Shot,,47-53,47,53
+0022100949,2022-03-04,CHI,MIL,22.77,2,1,14,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:6),47-53,47,53
+0022100949,2022-03-04,CHI,MIL,22.95,2,1,3,MIL,MIL,fg_miss,105,False,False,,MISS Holiday 2' Turnaround Fadeaway Bank Jump Shot,47-53,47,53
+0022100949,2022-03-04,CHI,MIL,22.98,2,1,1,CHI,CHI,reb,0,False,False,Green REBOUND (Off:0 Def:2),,47-53,47,53
+0022100949,2022-03-04,CHI,MIL,23.15,2,0,51,CHI,CHI,fg3_make,1,False,False,DeRozan 25' 3PT Jump Shot (11 PTS) (Vucevic 2 AST),,50-53,50,53
+0022100949,2022-03-04,CHI,MIL,23.15,2,0,51,CHI,MIL,foul,2,False,False,,Holiday S.FOUL (P2.T2) (Z.Zarba),50-53,50,53
+0022100949,2022-03-04,CHI,MIL,23.15,2,0,51,CHI,CHI,ft_make,10,False,False,DeRozan Free Throw 1 of 1 (12 PTS),,51-53,51,53
+0022100949,2022-03-04,CHI,MIL,23.43,2,0,34,MIL,CHI,foul,2,False,False,LaVine S.FOUL (P1.T4) (J.DeRosa),,51-53,51,53
+0022100949,2022-03-04,CHI,MIL,23.43,2,0,34,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (11 PTS),51-54,51,54
+0022100949,2022-03-04,CHI,MIL,23.43,2,0,34,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (12 PTS),51-55,51,55
+0022100949,2022-03-04,CHI,MIL,23.78,2,0,13,CHI,CHI,fg_make,6,False,False,Green 2' Driving Layup (6 PTS) (DeRozan 1 AST),,53-55,53,55
+0022100949,2022-03-04,CHI,MIL,23.95,2,0,3,MIL,CHI,foul,2,False,False,Green S.FOUL (P3.PN) (Z.Zarba),,53-55,53,55
+0022100949,2022-03-04,CHI,MIL,23.95,2,0,3,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (14 PTS),53-56,53,56
+0022100949,2022-03-04,CHI,MIL,23.95,2,0,3,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (15 PTS),53-57,53,57
+0022100949,2022-03-04,CHI,MIL,24.0,2,0,0,CHI,CHI,fg3_miss,103,False,False,MISS LaVine 32' 3PT Running Pull-Up Jump Shot,,53-57,53,57
+0022100949,2022-03-04,CHI,MIL,24.0,2,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,53-57,53,57
+0022100949,2022-03-04,CHI,MIL,24.0,2,0,0,CHI,,period_end,0,False,False,,,53-57,53,57
+0022100949,2022-03-04,CHI,MIL,24.0,3,12,0,CHI,,period_start,0,False,False,,,53-57,53,57
+0022100949,2022-03-04,CHI,MIL,24.33,3,11,40,CHI,CHI,fg_make,3,False,False,Vucevic 3' Hook Shot (13 PTS) (LaVine 4 AST),,55-57,55,57
+0022100949,2022-03-04,CHI,MIL,24.55,3,11,27,MIL,MIL,fg_make,6,False,False,,G. Antetokounmpo 2' Driving Layup (17 PTS) (Middleton 5 AST),55-59,55,59
+0022100949,2022-03-04,CHI,MIL,24.77,3,11,14,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 17' Pullup Jump Shot,,55-59,55,59
+0022100949,2022-03-04,CHI,MIL,24.87,3,11,8,MIL,MIL,reb,0,False,False,,Allen REBOUND (Off:0 Def:3),55-59,55,59
+0022100949,2022-03-04,CHI,MIL,25.0,3,11,0,MIL,MIL,tov,1,False,True,,G. Antetokounmpo Bad Pass Turnover (P3.T11),55-59,55,59
+0022100949,2022-03-04,CHI,MIL,25.0,3,11,0,MIL,CHI,steal,1,False,True,steal,steal,55-59,55,59
+0022100949,2022-03-04,CHI,MIL,25.03,3,10,58,CHI,CHI,tov,2,False,True,Vucevic Lost Ball Turnover (P3.T7),,55-59,55,59
+0022100949,2022-03-04,CHI,MIL,25.03,3,10,58,CHI,MIL,steal,2,False,True,steal,steal,55-59,55,59
+0022100949,2022-03-04,CHI,MIL,25.03,3,10,58,MIL,CHI,foul,2,False,False,LaVine S.FOUL (P2.T1) (J.DeRosa),,55-59,55,59
+0022100949,2022-03-04,CHI,MIL,25.03,3,10,58,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (18 PTS),55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.03,3,10,58,MIL,MIL,ft_miss,12,False,False,,MISS G. Antetokounmpo Free Throw 2 of 2,55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.08,3,10,55,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:2),,55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.22,3,10,47,CHI,CHI,fg_miss,79,False,False,MISS DeRozan 15' Pullup Jump Shot,,55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.23,3,10,46,CHI,CHI,reb,0,False,False,BULLS Rebound,,55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.23,3,10,46,CHI,MIL,foul,3,False,False,,Portis L.B.FOUL (P1.T1) (J.DeRosa),55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.27,3,10,44,CHI,CHI,fg_miss,1,False,False,MISS LaVine 14' Jump Shot,,55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.28,3,10,43,CHI,CHI,reb,0,False,False,BULLS Rebound,,55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.28,3,10,43,CHI,MIL,foul,3,False,False,,Middleton L.B.FOUL (P3.T2) (Z.Zarba),55-60,55,60
+0022100949,2022-03-04,CHI,MIL,25.4,3,10,36,CHI,CHI,fg3_make,1,False,False,Vucevic 25' 3PT Jump Shot (16 PTS) (DeRozan 2 AST),,58-60,58,60
+0022100949,2022-03-04,CHI,MIL,25.7,3,10,18,MIL,MIL,fg_make,9,False,False,,G. Antetokounmpo 1' Driving Dunk (20 PTS),58-62,58,62
+0022100949,2022-03-04,CHI,MIL,25.9,3,10,6,CHI,MIL,foul,1,False,False,,Allen P.FOUL (P1.T3) (Z.Zarba),58-62,58,62
+0022100949,2022-03-04,CHI,MIL,26.03,3,9,58,CHI,CHI,fg_miss,6,False,False,MISS DeRozan 1' Driving Layup,,58-62,58,62
+0022100949,2022-03-04,CHI,MIL,26.05,3,9,57,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:7),58-62,58,62
+0022100949,2022-03-04,CHI,MIL,26.1,3,9,54,MIL,MIL,fg_make,50,False,False,,Allen Running Dunk (2 PTS) (Holiday 3 AST),58-64,58,64
+0022100949,2022-03-04,CHI,MIL,26.3,3,9,42,CHI,MIL,foul,1,False,False,,Allen P.FOUL (P2.T4) (Z.Zarba),58-64,58,64
+0022100949,2022-03-04,CHI,MIL,26.5,3,9,30,CHI,CHI,fg_make,79,False,False,Dosunmu 16' Pullup Jump Shot (6 PTS) (DeRozan 3 AST),,60-64,60,64
+0022100949,2022-03-04,CHI,MIL,26.6,3,9,24,MIL,MIL,fg_make,79,False,False,,Holiday 16' Pullup Jump Shot (10 PTS),60-66,60,66
+0022100949,2022-03-04,CHI,MIL,26.8,3,9,12,CHI,MIL,foul,2,False,False,,Portis S.FOUL (P2.PN) (J.Goldenberg),60-66,60,66
+0022100949,2022-03-04,CHI,MIL,26.8,3,9,12,CHI,CHI,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (13 PTS),,61-66,61,66
+0022100949,2022-03-04,CHI,MIL,26.8,3,9,12,CHI,CHI,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (14 PTS),,62-66,62,66
+0022100949,2022-03-04,CHI,MIL,26.93,3,9,4,MIL,MIL,fg3_miss,79,False,False,,MISS Holiday 26' 3PT Pullup Jump Shot,62-66,62,66
+0022100949,2022-03-04,CHI,MIL,27.0,3,9,0,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:3),,62-66,62,66
+0022100949,2022-03-04,CHI,MIL,27.1,3,8,54,CHI,CHI,tov,39,False,False,Dosunmu Step Out of Bounds Turnover (P2.T8),,62-66,62,66
+0022100949,2022-03-04,CHI,MIL,27.27,3,8,44,MIL,CHI,foul,2,False,False,Thompson S.FOUL (P4.T2) (J.Goldenberg),,62-66,62,66
+0022100949,2022-03-04,CHI,MIL,27.27,3,8,44,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (21 PTS),62-67,62,67
+0022100949,2022-03-04,CHI,MIL,27.27,3,8,44,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (22 PTS),62-68,62,68
+0022100949,2022-03-04,CHI,MIL,27.55,3,8,27,CHI,CHI,fg3_make,80,False,False,LaVine 3PT Step Back Jump Shot (16 PTS),,65-68,65,68
+0022100949,2022-03-04,CHI,MIL,27.8,3,8,12,MIL,MIL,fg_miss,98,True,False,,MISS Matthews 1' Cutting Layup Shot,65-68,65,68
+0022100949,2022-03-04,CHI,MIL,27.8,3,8,12,MIL,CHI,block,98,True,False,block,block,65-68,65,68
+0022100949,2022-03-04,CHI,MIL,27.87,3,8,8,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:4),,65-68,65,68
+0022100949,2022-03-04,CHI,MIL,27.93,3,8,4,CHI,CHI,fg3_miss,1,False,False,MISS Vucevic 25' 3PT Jump Shot,,65-68,65,68
+0022100949,2022-03-04,CHI,MIL,28.0,3,8,0,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:5),65-68,65,68
+0022100949,2022-03-04,CHI,MIL,28.1,3,7,54,MIL,MIL,fg_miss,6,False,False,,MISS Holiday 2' Driving Layup,65-68,65,68
+0022100949,2022-03-04,CHI,MIL,28.13,3,7,52,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:5),,65-68,65,68
+0022100949,2022-03-04,CHI,MIL,28.25,3,7,45,CHI,MIL,foul,1,False,False,,G. Antetokounmpo P.FOUL (P1.PN) (Z.Zarba),65-68,65,68
+0022100949,2022-03-04,CHI,MIL,28.25,3,7,45,CHI,CHI,ft_make,11,False,False,LaVine Free Throw 1 of 2 (17 PTS),,66-68,66,68
+0022100949,2022-03-04,CHI,MIL,28.25,3,7,45,CHI,CHI,ft_miss,12,False,False,MISS LaVine Free Throw 2 of 2,,66-68,66,68
+0022100949,2022-03-04,CHI,MIL,28.28,3,7,43,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:8),66-68,66,68
+0022100949,2022-03-04,CHI,MIL,28.65,3,7,21,MIL,MIL,fg_miss,6,False,False,,MISS Matthews 2' Driving Layup,66-68,66,68
+0022100949,2022-03-04,CHI,MIL,28.68,3,7,19,CHI,CHI,reb,0,False,False,DeRozan REBOUND (Off:0 Def:3),,66-68,66,68
+0022100949,2022-03-04,CHI,MIL,28.82,3,7,11,CHI,CHI,tov,2,False,True,DeRozan Lost Ball Turnover (P2.T9),,66-68,66,68
+0022100949,2022-03-04,CHI,MIL,28.82,3,7,11,CHI,MIL,steal,2,False,True,steal,steal,66-68,66,68
+0022100949,2022-03-04,CHI,MIL,28.87,3,7,8,MIL,MIL,fg_make,50,False,False,,G. Antetokounmpo Running Dunk (24 PTS) (Holiday 4 AST),66-70,66,70
+0022100949,2022-03-04,CHI,MIL,29.23,3,6,46,CHI,CHI,fg_make,105,False,False,DeRozan 10' Turnaround Fadeaway Bank Jump Shot (16 PTS) (Green 1 AST),,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.33,3,6,40,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.4 Short 0),68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.52,3,6,29,MIL,CHI,foul,17,False,False,BULLS T.Foul (Def. 3 Sec DeRozan ) (J.Goldenberg),,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.52,3,6,29,MIL,MIL,ft_miss,16,False,False,,MISS Middleton Free Throw Technical,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.52,3,6,29,MIL,MIL,reb,1,False,False,,Bucks Rebound,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.67,3,6,20,MIL,MIL,fg_miss,79,False,False,,MISS Portis 17' Pullup Jump Shot,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.73,3,6,16,CHI,CHI,reb,0,False,False,Dosunmu REBOUND (Off:0 Def:3),,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.9,3,6,6,CHI,CHI,tov,1,False,True,Dosunmu Bad Pass Turnover (P3.T10),,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.9,3,6,6,CHI,MIL,steal,1,False,True,steal,steal,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.98,3,6,1,MIL,MIL,fg_miss,5,True,False,,MISS G. Antetokounmpo 2' Layup,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,29.98,3,6,1,MIL,CHI,block,5,True,False,block,block,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,30.02,3,5,59,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:8),68-70,68,70
+0022100949,2022-03-04,CHI,MIL,30.05,3,5,57,MIL,CHI,foul,2,False,False,Vucevic S.FOUL (P2.T3) (J.Goldenberg),,68-70,68,70
+0022100949,2022-03-04,CHI,MIL,30.05,3,5,57,MIL,MIL,ft_make,11,False,False,,Matthews Free Throw 1 of 2 (6 PTS),68-71,68,71
+0022100949,2022-03-04,CHI,MIL,30.05,3,5,57,MIL,MIL,ft_make,12,False,False,,Matthews Free Throw 2 of 2 (7 PTS),68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.25,3,5,45,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 26' 3PT Jump Shot,,68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.32,3,5,41,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:2),68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.43,3,5,34,MIL,MIL,fg_miss,80,False,False,,MISS Middleton 23' Step Back Jump Shot,68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.47,3,5,32,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:5),,68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.58,3,5,25,CHI,CHI,fg3_miss,1,False,False,MISS DeRozan 3PT Jump Shot,,68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.63,3,5,22,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:6),68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.82,3,5,11,MIL,MIL,fg_miss,58,False,False,,MISS Holiday 6' Turnaround Hook Shot,68-72,68,72
+0022100949,2022-03-04,CHI,MIL,30.85,3,5,9,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:6),,68-72,68,72
+0022100949,2022-03-04,CHI,MIL,31.05,3,4,57,CHI,CHI,fg_make,63,False,False,DeRozan 9' Fadeaway Jumper (18 PTS),,70-72,70,72
+0022100949,2022-03-04,CHI,MIL,31.38,3,4,37,MIL,MIL,fg_make,79,False,False,,Middleton 7' Pullup Jump Shot (14 PTS),70-74,70,74
+0022100949,2022-03-04,CHI,MIL,31.63,3,4,22,CHI,CHI,fg_make,7,False,False,LaVine 1' Dunk (19 PTS) (Dosunmu 4 AST),,72-74,72,74
+0022100949,2022-03-04,CHI,MIL,31.73,3,4,16,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P5.T12),72-74,72,74
+0022100949,2022-03-04,CHI,MIL,31.73,3,4,16,MIL,CHI,steal,2,False,True,steal,steal,72-74,72,74
+0022100949,2022-03-04,CHI,MIL,31.8,3,4,12,CHI,CHI,fg_make,52,False,False,LaVine 1' Alley Oop Dunk (21 PTS) (Dosunmu 5 AST),,74-74,74,74
+0022100949,2022-03-04,CHI,MIL,32.03,3,3,58,MIL,MIL,fg_make,80,False,False,,Middleton 19' Step Back Jump Shot (16 PTS),74-76,74,76
+0022100949,2022-03-04,CHI,MIL,32.3,3,3,42,CHI,MIL,foul,17,False,False,,Bucks T.Foul (Def. 3 Sec Ibaka ) (Z.Zarba),74-76,74,76
+0022100949,2022-03-04,CHI,MIL,32.3,3,3,42,CHI,CHI,ft_make,16,False,False,DeRozan Free Throw Technical (19 PTS),,75-76,75,76
+0022100949,2022-03-04,CHI,MIL,32.3,3,3,42,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,75-76,75,76
+0022100949,2022-03-04,CHI,MIL,32.45,3,3,33,CHI,CHI,tov,45,False,False,LaVine Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,75-76,75,76
+0022100949,2022-03-04,CHI,MIL,32.62,3,3,23,CHI,MIL,foul,4,False,False,,G. Antetokounmpo OFF.Foul (P2) (J.DeRosa),75-76,75,76
+0022100949,2022-03-04,CHI,MIL,32.62,3,3,23,MIL,MIL,tov,37,False,False,,G. Antetokounmpo Offensive Foul Turnover (P4.T13),75-76,75,76
+0022100949,2022-03-04,CHI,MIL,32.92,3,3,5,CHI,CHI,fg_make,6,False,False,Vucevic 1' Driving Layup (18 PTS),,77-76,77,76
+0022100949,2022-03-04,CHI,MIL,33.28,3,2,43,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 3PT Jump Shot,77-76,77,76
+0022100949,2022-03-04,CHI,MIL,33.35,3,2,39,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:1 Def:6),,77-76,77,76
+0022100949,2022-03-04,CHI,MIL,33.4,3,2,36,CHI,CHI,fg_make,41,False,False,LaVine 1' Running Layup (23 PTS),,79-76,79,76
+0022100949,2022-03-04,CHI,MIL,33.4,3,2,36,CHI,MIL,foul,2,False,False,,Ibaka S.FOUL (P1.PN) (J.DeRosa),79-76,79,76
+0022100949,2022-03-04,CHI,MIL,33.4,3,2,36,CHI,CHI,ft_miss,10,False,False,MISS LaVine Free Throw 1 of 1,,79-76,79,76
+0022100949,2022-03-04,CHI,MIL,33.43,3,2,34,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:9),79-76,79,76
+0022100949,2022-03-04,CHI,MIL,33.53,3,2,28,MIL,MIL,fg3_miss,1,False,False,,MISS Nwora 26' 3PT Jump Shot,79-76,79,76
+0022100949,2022-03-04,CHI,MIL,33.6,3,2,24,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:2),,79-76,79,76
+0022100949,2022-03-04,CHI,MIL,33.65,3,2,21,CHI,CHI,fg_make,41,False,False,Dosunmu 2' Running Layup (8 PTS),,81-76,81,76
+0022100949,2022-03-04,CHI,MIL,33.93,3,2,4,MIL,MIL,fg_miss,63,False,False,,MISS G. Antetokounmpo 13' Fadeaway Jumper,81-76,81,76
+0022100949,2022-03-04,CHI,MIL,33.98,3,2,1,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:7),,81-76,81,76
+0022100949,2022-03-04,CHI,MIL,34.17,3,1,50,CHI,CHI,fg_miss,79,False,False,MISS LaVine 18' Pullup Jump Shot,,81-76,81,76
+0022100949,2022-03-04,CHI,MIL,34.23,3,1,46,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:2 Def:6),,81-76,81,76
+0022100949,2022-03-04,CHI,MIL,34.27,3,1,44,CHI,CHI,fg_make,108,False,False,Jones Jr. 1' Cutting Dunk Shot (2 PTS) (Dosunmu 6 AST),,83-76,83,76
+0022100949,2022-03-04,CHI,MIL,34.27,3,1,44,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),83-76,83,76
+0022100949,2022-03-04,CHI,MIL,34.47,3,1,32,MIL,CHI,foul,1,False,False,Green P.FOUL (P4.T4) (Z.Zarba),,83-76,83,76
+0022100949,2022-03-04,CHI,MIL,34.65,3,1,21,MIL,MIL,fg_make,79,False,False,,Middleton 20' Pullup Jump Shot (18 PTS),83-78,83,78
+0022100949,2022-03-04,CHI,MIL,34.92,3,1,5,CHI,CHI,fg_make,1,False,False,DeRozan 16' Jump Shot (21 PTS),,85-78,85,78
+0022100949,2022-03-04,CHI,MIL,35.25,3,0,45,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P6.T14),85-78,85,78
+0022100949,2022-03-04,CHI,MIL,35.25,3,0,45,MIL,CHI,steal,1,False,True,steal,steal,85-78,85,78
+0022100949,2022-03-04,CHI,MIL,35.45,3,0,33,CHI,CHI,fg_miss,5,True,False,MISS Jones Jr. 4' Layup,,85-78,85,78
+0022100949,2022-03-04,CHI,MIL,35.45,3,0,33,CHI,MIL,block,5,True,False,block,block,85-78,85,78
+0022100949,2022-03-04,CHI,MIL,35.48,3,0,31,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:3),85-78,85,78
+0022100949,2022-03-04,CHI,MIL,35.55,3,0,27,MIL,MIL,fg3_make,1,False,False,,Carter 3PT Jump Shot (6 PTS) (G. Antetokounmpo 3 AST),85-81,85,81
+0022100949,2022-03-04,CHI,MIL,35.87,3,0,8,CHI,CHI,fg_make,79,False,False,DeRozan 16' Pullup Jump Shot (23 PTS),,87-81,87,81
+0022100949,2022-03-04,CHI,MIL,35.87,3,0,8,CHI,MIL,foul,2,False,False,,Nwora S.FOUL (P1.PN) (J.Goldenberg),87-81,87,81
+0022100949,2022-03-04,CHI,MIL,35.87,3,0,8,CHI,CHI,ft_make,10,False,False,DeRozan Free Throw 1 of 1 (24 PTS),,88-81,88,81
+0022100949,2022-03-04,CHI,MIL,36.0,3,0,0,MIL,MIL,fg3_miss,1,False,False,,MISS Nwora 26' 3PT Jump Shot,88-81,88,81
+0022100949,2022-03-04,CHI,MIL,36.0,3,0,0,CHI,CHI,reb,0,False,False,Dosunmu REBOUND (Off:0 Def:4),,88-81,88,81
+0022100949,2022-03-04,CHI,MIL,36.0,3,0,0,CHI,,period_end,0,False,False,,,88-81,88,81
+0022100949,2022-03-04,CHI,MIL,36.0,4,12,0,CHI,,period_start,0,False,False,,,88-81,88,81
+0022100949,2022-03-04,CHI,MIL,36.35,4,11,39,MIL,MIL,fg_make,3,False,False,,G. Antetokounmpo 4' Hook Shot (26 PTS),88-83,88,83
+0022100949,2022-03-04,CHI,MIL,36.72,4,11,17,CHI,CHI,fg_miss,63,False,False,MISS DeRozan 12' Fadeaway Jumper,,88-83,88,83
+0022100949,2022-03-04,CHI,MIL,36.75,4,11,15,CHI,CHI,reb,0,False,False,Thompson REBOUND (Off:2 Def:0),,88-83,88,83
+0022100949,2022-03-04,CHI,MIL,36.77,4,11,14,CHI,CHI,fg3_make,1,False,False,White 25' 3PT Jump Shot (3 PTS) (DeRozan 4 AST),,91-83,91,83
+0022100949,2022-03-04,CHI,MIL,36.97,4,11,2,MIL,MIL,fg3_make,1,False,False,,Holiday 25' 3PT Jump Shot (13 PTS) (G. Antetokounmpo 4 AST),91-86,91,86
+0022100949,2022-03-04,CHI,MIL,37.25,4,10,45,CHI,CHI,fg_miss,86,False,False,MISS DeRozan 12' Turnaround Fadeaway Shot,,91-86,91,86
+0022100949,2022-03-04,CHI,MIL,37.3,4,10,42,MIL,MIL,reb,0,False,False,,Nwora REBOUND (Off:0 Def:3),91-86,91,86
+0022100949,2022-03-04,CHI,MIL,37.52,4,10,29,MIL,MIL,fg_make,108,False,False,,G. Antetokounmpo Cutting Dunk Shot (28 PTS) (Nwora 2 AST),91-88,91,88
+0022100949,2022-03-04,CHI,MIL,37.85,4,10,9,CHI,CHI,fg_make,1,False,False,DeRozan 16' Jump Shot (26 PTS) (White 2 AST),,93-88,93,88
+0022100949,2022-03-04,CHI,MIL,38.25,4,9,45,MIL,MIL,fg3_make,1,False,False,,Allen 24' 3PT Jump Shot (5 PTS) (Holiday 5 AST),93-91,93,91
+0022100949,2022-03-04,CHI,MIL,38.57,4,9,26,CHI,CHI,fg_miss,6,True,False,MISS DeRozan 1' Driving Layup,,93-91,93,91
+0022100949,2022-03-04,CHI,MIL,38.57,4,9,26,CHI,MIL,block,6,True,False,block,block,93-91,93,91
+0022100949,2022-03-04,CHI,MIL,38.57,4,9,26,MIL,MIL,reb,0,False,False,,Bucks Rebound,93-91,93,91
+0022100949,2022-03-04,CHI,MIL,38.82,4,9,11,MIL,MIL,fg_miss,79,False,False,,MISS G. Antetokounmpo 17' Pullup Jump Shot,93-91,93,91
+0022100949,2022-03-04,CHI,MIL,38.9,4,9,6,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:3),,93-91,93,91
+0022100949,2022-03-04,CHI,MIL,39.07,4,8,56,CHI,CHI,fg3_miss,79,False,False,MISS LaVine 26' 3PT Pullup Jump Shot,,93-91,93,91
+0022100949,2022-03-04,CHI,MIL,39.1,4,8,54,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:10),93-91,93,91
+0022100949,2022-03-04,CHI,MIL,39.22,4,8,47,MIL,MIL,fg3_miss,1,False,False,,MISS G. Antetokounmpo 26' 3PT Jump Shot,93-91,93,91
+0022100949,2022-03-04,CHI,MIL,39.3,4,8,42,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:3),93-91,93,91
+0022100949,2022-03-04,CHI,MIL,39.3,4,8,42,MIL,MIL,fg_make,72,False,False,,Middleton 2' Putback Layup (20 PTS),93-93,93,93
+0022100949,2022-03-04,CHI,MIL,39.32,4,8,41,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,93-93,93,93
+0022100949,2022-03-04,CHI,MIL,39.55,4,8,27,CHI,CHI,fg_miss,47,False,False,MISS DeRozan 12' Turnaround Jump Shot,,93-93,93,93
+0022100949,2022-03-04,CHI,MIL,39.58,4,8,25,MIL,MIL,reb,0,False,False,,Nwora REBOUND (Off:0 Def:4),93-93,93,93
+0022100949,2022-03-04,CHI,MIL,39.65,4,8,21,MIL,CHI,foul,14,False,False,Jones Jr. FLAGRANT.FOUL.TYPE1 (P2.T1) (Z.Zarba),,93-93,93,93
+0022100949,2022-03-04,CHI,MIL,39.65,4,8,21,MIL,MIL,ft_make,18,False,False,,Allen Free Throw Flagrant 1 of 2 (6 PTS),93-94,93,94
+0022100949,2022-03-04,CHI,MIL,39.65,4,8,21,MIL,MIL,ft_make,19,False,False,,Allen Free Throw Flagrant 2 of 2 (7 PTS),93-95,93,95
+0022100949,2022-03-04,CHI,MIL,39.85,4,8,9,MIL,MIL,fg3_miss,1,False,False,,MISS Allen 27' 3PT Jump Shot,93-95,93,95
+0022100949,2022-03-04,CHI,MIL,39.93,4,8,4,CHI,CHI,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:4),,93-95,93,95
+0022100949,2022-03-04,CHI,MIL,40.22,4,7,47,CHI,CHI,fg3_make,1,False,False,DeRozan 3PT Jump Shot (29 PTS) (LaVine 5 AST),,96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.43,4,7,34,MIL,MIL,fg_miss,6,False,False,,MISS Holiday 2' Driving Layup,96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.43,4,7,34,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:2 Def:10),96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.43,4,7,34,MIL,CHI,foul,2,False,False,Thompson S.FOUL (P5.T2) (Z.Zarba),,96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.43,4,7,34,MIL,MIL,ft_miss,11,False,False,,MISS G. Antetokounmpo Free Throw 1 of 2,96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.43,4,7,34,MIL,MIL,reb,1,False,False,,Bucks Rebound,96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.43,4,7,34,MIL,MIL,ft_miss,12,False,False,,MISS G. Antetokounmpo Free Throw 2 of 2,96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.47,4,7,32,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:4),,96-95,96,95
+0022100949,2022-03-04,CHI,MIL,40.57,4,7,26,CHI,CHI,fg_make,41,False,False,Jones Jr. 1' Running Layup (4 PTS) (LaVine 6 AST),,98-95,98,95
+0022100949,2022-03-04,CHI,MIL,40.57,4,7,26,CHI,MIL,foul,2,False,False,,Portis S.FOUL (P3.T1) (Z.Zarba),98-95,98,95
+0022100949,2022-03-04,CHI,MIL,40.57,4,7,26,CHI,CHI,ft_make,10,False,False,Jones Jr. Free Throw 1 of 1 (5 PTS),,99-95,99,95
+0022100949,2022-03-04,CHI,MIL,40.75,4,7,15,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 27' 3PT Jump Shot,99-95,99,95
+0022100949,2022-03-04,CHI,MIL,40.82,4,7,11,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:3 Def:10),99-95,99,95
+0022100949,2022-03-04,CHI,MIL,40.88,4,7,7,MIL,MIL,fg3_make,1,False,False,,Holiday 26' 3PT Jump Shot (16 PTS) (G. Antetokounmpo 5 AST),99-98,99,98
+0022100949,2022-03-04,CHI,MIL,41.15,4,6,51,CHI,CHI,fg3_miss,79,False,False,MISS LaVine 26' 3PT Pullup Jump Shot,,99-98,99,98
+0022100949,2022-03-04,CHI,MIL,41.2,4,6,48,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:3 Def:11),99-98,99,98
+0022100949,2022-03-04,CHI,MIL,41.25,4,6,45,MIL,CHI,foul,2,False,False,Jones Jr. S.FOUL (P3.T3) (Z.Zarba),,99-98,99,98
+0022100949,2022-03-04,CHI,MIL,41.25,4,6,45,MIL,MIL,ft_miss,11,False,False,,MISS G. Antetokounmpo Free Throw 1 of 2,99-98,99,98
+0022100949,2022-03-04,CHI,MIL,41.25,4,6,45,MIL,MIL,reb,1,False,False,,Bucks Rebound,99-98,99,98
+0022100949,2022-03-04,CHI,MIL,41.25,4,6,45,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (29 PTS),99-99,99,99
+0022100949,2022-03-04,CHI,MIL,41.38,4,6,37,MIL,CHI,foul,4,False,False,Jones Jr. OFF.Foul (P4) (J.DeRosa),,99-99,99,99
+0022100949,2022-03-04,CHI,MIL,41.38,4,6,37,CHI,CHI,tov,37,False,False,Jones Jr. Offensive Foul Turnover (P1.T12),,99-99,99,99
+0022100949,2022-03-04,CHI,MIL,41.53,4,6,28,MIL,CHI,foul,1,False,False,LaVine P.FOUL (P3.T4) (J.DeRosa),,99-99,99,99
+0022100949,2022-03-04,CHI,MIL,41.62,4,6,23,MIL,CHI,foul,2,False,False,Vucevic S.FOUL (P3.PN) (J.Goldenberg),,99-99,99,99
+0022100949,2022-03-04,CHI,MIL,41.62,4,6,23,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (30 PTS),99-100,99,100
+0022100949,2022-03-04,CHI,MIL,41.62,4,6,23,MIL,MIL,ft_miss,12,False,False,,MISS G. Antetokounmpo Free Throw 2 of 2,99-100,99,100
+0022100949,2022-03-04,CHI,MIL,41.68,4,6,19,CHI,CHI,reb,0,False,False,Vucevic REBOUND (Off:2 Def:7),,99-100,99,100
+0022100949,2022-03-04,CHI,MIL,42.0,4,6,0,CHI,CHI,fg3_make,1,False,False,Green 3PT Jump Shot (9 PTS) (DeRozan 5 AST),,102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.18,4,5,49,MIL,MIL,fg3_miss,79,False,False,,MISS Holiday 26' 3PT Pullup Jump Shot,102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.23,4,5,46,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:2 Def:2),102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.25,4,5,45,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 3PT Jump Shot,102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.33,4,5,40,CHI,CHI,reb,0,False,False,Green REBOUND (Off:0 Def:3),,102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.33,4,5,40,CHI,MIL,foul,3,False,False,,G. Antetokounmpo L.B.FOUL (P3.T2) (Z.Zarba),102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.65,4,5,21,CHI,CHI,fg_miss,47,False,False,MISS DeRozan 15' Turnaround Jump Shot,,102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.68,4,5,19,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:4),102-100,102,100
+0022100949,2022-03-04,CHI,MIL,42.78,4,5,13,MIL,MIL,fg_make,52,False,False,,G. Antetokounmpo Alley Oop Dunk (32 PTS) (Middleton 6 AST),102-102,102,102
+0022100949,2022-03-04,CHI,MIL,43.2,4,4,48,CHI,CHI,fg_miss,101,False,False,MISS DeRozan 9' Driving Floating Jump Shot,,102-102,102,102
+0022100949,2022-03-04,CHI,MIL,43.23,4,4,46,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:2 Def:3),102-102,102,102
+0022100949,2022-03-04,CHI,MIL,43.28,4,4,43,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 3PT Jump Shot,102-102,102,102
+0022100949,2022-03-04,CHI,MIL,43.33,4,4,40,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:3 Def:3),102-102,102,102
+0022100949,2022-03-04,CHI,MIL,43.33,4,4,40,MIL,MIL,fg_make,72,False,False,,Holiday Putback Layup (18 PTS),102-104,102,104
+0022100949,2022-03-04,CHI,MIL,43.33,4,4,40,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 5 Short 0),,102-104,102,104
+0022100949,2022-03-04,CHI,MIL,43.6,4,4,24,CHI,CHI,fg_miss,1,False,False,MISS Vucevic 18' Jump Shot,,102-104,102,104
+0022100949,2022-03-04,CHI,MIL,43.65,4,4,21,MIL,MIL,reb,0,False,False,,Allen REBOUND (Off:0 Def:4),102-104,102,104
+0022100949,2022-03-04,CHI,MIL,43.82,4,4,11,MIL,MIL,fg_make,47,False,False,,Middleton 8' Turnaround Jump Shot (22 PTS),102-106,102,106
+0022100949,2022-03-04,CHI,MIL,44.08,4,3,55,CHI,MIL,foul,2,False,False,,G. Antetokounmpo S.FOUL (P4.T3) (J.Goldenberg),102-106,102,106
+0022100949,2022-03-04,CHI,MIL,44.08,4,3,55,CHI,CHI,ft_make,11,False,False,Vucevic Free Throw 1 of 2 (19 PTS),,103-106,103,106
+0022100949,2022-03-04,CHI,MIL,44.08,4,3,55,CHI,CHI,ft_miss,12,False,False,MISS Vucevic Free Throw 2 of 2,,103-106,103,106
+0022100949,2022-03-04,CHI,MIL,44.13,4,3,52,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:3 Def:12),103-106,103,106
+0022100949,2022-03-04,CHI,MIL,44.35,4,3,39,MIL,MIL,fg_make,79,False,False,,Holiday 11' Pullup Jump Shot (20 PTS),103-108,103,108
+0022100949,2022-03-04,CHI,MIL,44.57,4,3,26,CHI,CHI,fg_make,78,False,False,Thompson 8' Floating Jump Shot (4 PTS),,105-108,105,108
+0022100949,2022-03-04,CHI,MIL,44.73,4,3,16,MIL,MIL,fg_make,6,False,False,,Holiday 1' Driving Layup (22 PTS),105-110,105,110
+0022100949,2022-03-04,CHI,MIL,45.15,4,2,51,CHI,CHI,fg_make,79,False,False,LaVine 18' Pullup Jump Shot (25 PTS) (Thompson 1 AST),,107-110,107,110
+0022100949,2022-03-04,CHI,MIL,45.28,4,2,43,MIL,MIL,fg_make,47,False,False,,Holiday 10' Turnaround Jump Shot (24 PTS),107-112,107,112
+0022100949,2022-03-04,CHI,MIL,45.52,4,2,29,CHI,MIL,foul,1,False,False,,Middleton P.FOUL (P4.T4) (J.Goldenberg),107-112,107,112
+0022100949,2022-03-04,CHI,MIL,45.68,4,2,19,CHI,CHI,fg_miss,101,False,False,MISS Dosunmu 11' Driving Floating Jump Shot,,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,45.72,4,2,17,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:5),107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.0,4,2,0,MIL,MIL,fg_miss,6,False,False,,MISS G. Antetokounmpo 4' Driving Layup,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.0,4,2,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.12,4,1,53,MIL,MIL,fg3_miss,1,False,False,,MISS Allen 3PT Jump Shot,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.18,4,1,49,CHI,CHI,reb,0,False,False,Dosunmu REBOUND (Off:0 Def:5),,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.37,4,1,38,CHI,CHI,fg_miss,1,False,False,MISS DeRozan 13' Jump Shot,,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.4,4,1,36,CHI,CHI,reb,0,False,False,Thompson REBOUND (Off:3 Def:0),,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.47,4,1,32,CHI,CHI,fg3_miss,1,False,False,MISS Vucevic 3PT Jump Shot,,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.53,4,1,28,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:3 Def:4),107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.77,4,1,14,MIL,MIL,fg3_miss,79,False,False,,MISS Middleton 25' 3PT Pullup Jump Shot,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.82,4,1,11,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:4 Def:12),107-112,107,112
+0022100949,2022-03-04,CHI,MIL,46.95,4,1,3,MIL,MIL,fg_miss,1,False,False,,MISS G. Antetokounmpo 18' Jump Shot,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,47.03,4,0,58,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:4 Def:4),107-112,107,112
+0022100949,2022-03-04,CHI,MIL,47.07,4,0,56,MIL,MIL,fg3_miss,1,False,False,,MISS Allen 25' 3PT Jump Shot,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,47.15,4,0,51,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:8),,107-112,107,112
+0022100949,2022-03-04,CHI,MIL,47.22,4,0,47,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (27 PTS),,109-112,109,112
+0022100949,2022-03-04,CHI,MIL,47.53,4,0,28,MIL,CHI,foul,2,False,False,Dosunmu S.FOUL (P1.PN) (J.Goldenberg),,109-112,109,112
+0022100949,2022-03-04,CHI,MIL,47.53,4,0,28,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (33 PTS),109-113,109,113
+0022100949,2022-03-04,CHI,MIL,47.53,4,0,28,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (34 PTS),109-114,109,114
+0022100949,2022-03-04,CHI,MIL,47.53,4,0,28,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 6 Short 0),,109-114,109,114
+0022100949,2022-03-04,CHI,MIL,47.6,4,0,24,CHI,CHI,fg3_make,79,False,False,LaVine 24' 3PT Pullup Jump Shot (30 PTS) (Dosunmu 7 AST),,112-114,112,114
+0022100949,2022-03-04,CHI,MIL,47.68,4,0,19,MIL,MIL,fg_make,44,False,False,,Carter 1' Reverse Layup (8 PTS) (Middleton 7 AST),112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.68,4,0,19,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 7 Short 0),,112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.75,4,0,15,MIL,MIL,timeout,7,False,False,,Bucks Timeout: Coach Challenge (Reg.5 Short 0),112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.75,4,0,15,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 27' 3PT Jump Shot,,112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.75,4,0,15,MIL,MIL,reb,0,False,False,,Bucks Rebound,112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.78,4,0,13,,CHI,jump_ball,1,False,False,Jump Ball (CC) Vucevic vs. G. Antetokounmpo: Tip to Carter,,112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.78,4,0,13,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.6 Short 0),112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.8,4,0,12,MIL,CHI,foul,1,False,False,Dosunmu P.FOUL (P2.PN) (Z.Zarba),,112-116,112,116
+0022100949,2022-03-04,CHI,MIL,47.8,4,0,12,MIL,MIL,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (25 PTS),112-117,112,117
+0022100949,2022-03-04,CHI,MIL,47.8,4,0,12,MIL,MIL,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (26 PTS),112-118,112,118
+0022100949,2022-03-04,CHI,MIL,47.9,4,0,6,CHI,CHI,fg3_miss,103,False,False,MISS LaVine 25' 3PT Running Pull-Up Jump Shot,,112-118,112,118
+0022100949,2022-03-04,CHI,MIL,47.95,4,0,3,MIL,MIL,reb,0,False,False,,Bembry REBOUND (Off:0 Def:1),112-118,112,118
+0022100949,2022-03-04,CHI,MIL,48.0,4,0,0,MIL,,period_end,0,False,False,,,112-118,112,118

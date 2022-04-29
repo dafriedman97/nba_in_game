@@ -1,0 +1,431 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100905,2022-02-26,DET,BOS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.0,1,12,0,,DET,jump_ball,0,False,False,Jump Ball Stewart vs. Williams III: Tip to Horford,,0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.27,1,11,44,BOS,DET,foul,1,False,False,Cunningham P.FOUL (P1.T1) (R.Mott),,0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.38,1,11,37,BOS,BOS,fg_miss,43,False,False,,MISS Williams III 2' Alley Oop Layup,0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.43,1,11,34,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:1),,0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.73,1,11,16,DET,DET,fg_miss,101,False,False,MISS Bey 3' Driving Floating Jump Shot,,0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.78,1,11,13,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:0 Def:1),0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.9,1,11,6,BOS,BOS,fg_miss,101,False,False,,MISS Smart 5' Driving Floating Jump Shot,0-0,0,0
+0022100905,2022-02-26,DET,BOS,0.92,1,11,5,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:1),0-0,0,0
+0022100905,2022-02-26,DET,BOS,1.02,1,10,59,BOS,BOS,fg_miss,43,False,False,,MISS Williams III 4' Alley Oop Layup,0-0,0,0
+0022100905,2022-02-26,DET,BOS,1.05,1,10,57,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:1),,0-0,0,0
+0022100905,2022-02-26,DET,BOS,1.22,1,10,47,DET,DET,fg_make,63,False,False,Joseph 6' Fadeaway Jumper (2 PTS),,2-0,2,0
+0022100905,2022-02-26,DET,BOS,1.43,1,10,34,BOS,BOS,fg_make,6,False,False,,Brown 1' Driving Layup (2 PTS) (Smart 1 AST),2-2,2,2
+0022100905,2022-02-26,DET,BOS,1.62,1,10,23,DET,DET,fg3_make,79,False,False,Cunningham 27' 3PT Pullup Jump Shot (3 PTS),,5-2,5,2
+0022100905,2022-02-26,DET,BOS,2.03,1,9,58,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 3PT Jump Shot,5-2,5,2
+0022100905,2022-02-26,DET,BOS,2.1,1,9,54,DET,DET,reb,0,False,False,Stewart REBOUND (Off:0 Def:1),,5-2,5,2
+0022100905,2022-02-26,DET,BOS,2.18,1,9,49,DET,DET,fg_miss,73,False,False,MISS Cunningham 2' Driving Reverse Layup,,5-2,5,2
+0022100905,2022-02-26,DET,BOS,2.22,1,9,47,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),5-2,5,2
+0022100905,2022-02-26,DET,BOS,2.32,1,9,41,BOS,BOS,fg_miss,41,False,False,,MISS Smart 3' Running Layup,5-2,5,2
+0022100905,2022-02-26,DET,BOS,2.32,1,9,41,DET,DET,reb,0,False,False,Stewart REBOUND (Off:0 Def:2),,5-2,5,2
+0022100905,2022-02-26,DET,BOS,2.55,1,9,27,DET,DET,fg_make,1,False,False,Cunningham 15' Jump Shot (5 PTS) (Joseph 1 AST),,7-2,7,2
+0022100905,2022-02-26,DET,BOS,2.83,1,9,10,BOS,BOS,fg_make,108,False,False,,Williams III 2' Cutting Dunk Shot (2 PTS) (Tatum 1 AST),7-4,7,4
+0022100905,2022-02-26,DET,BOS,3.03,1,8,58,DET,DET,fg_make,5,False,False,Stewart 2' Layup (2 PTS) (Cunningham 1 AST),,9-4,9,4
+0022100905,2022-02-26,DET,BOS,3.03,1,8,58,DET,BOS,foul,2,False,False,,Smart S.FOUL (P1.T1) (M.Smith),9-4,9,4
+0022100905,2022-02-26,DET,BOS,3.03,1,8,58,DET,DET,ft_make,10,False,False,Stewart Free Throw 1 of 1 (3 PTS),,10-4,10,4
+0022100905,2022-02-26,DET,BOS,3.32,1,8,41,BOS,BOS,fg3_miss,79,False,False,,MISS Brown 29' 3PT Pullup Jump Shot,10-4,10,4
+0022100905,2022-02-26,DET,BOS,3.37,1,8,38,DET,DET,reb,0,False,False,Joseph REBOUND (Off:0 Def:1),,10-4,10,4
+0022100905,2022-02-26,DET,BOS,3.48,1,8,31,DET,DET,tov,1,False,True,Joseph Bad Pass Turnover (P1.T1),,10-4,10,4
+0022100905,2022-02-26,DET,BOS,3.48,1,8,31,DET,BOS,steal,1,False,True,steal,steal,10-4,10,4
+0022100905,2022-02-26,DET,BOS,3.55,1,8,27,BOS,DET,foul,2,False,False,Cunningham S.FOUL (P2.T2) (M.Smith),,10-4,10,4
+0022100905,2022-02-26,DET,BOS,3.55,1,8,27,BOS,BOS,ft_make,11,False,False,,Brown Free Throw 1 of 2 (3 PTS),10-5,10,5
+0022100905,2022-02-26,DET,BOS,3.55,1,8,27,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (4 PTS),10-6,10,6
+0022100905,2022-02-26,DET,BOS,3.77,1,8,14,DET,DET,fg_make,6,False,False,Cunningham 2' Driving Layup (7 PTS),,12-6,12,6
+0022100905,2022-02-26,DET,BOS,3.82,1,8,11,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.1 Short 0),12-6,12,6
+0022100905,2022-02-26,DET,BOS,3.95,1,8,3,BOS,BOS,fg_make,98,False,False,,Tatum 2' Cutting Layup Shot (2 PTS) (Smart 2 AST),12-8,12,8
+0022100905,2022-02-26,DET,BOS,4.27,1,7,44,DET,DET,fg3_miss,1,False,False,MISS Grant 30' 3PT Jump Shot,,12-8,12,8
+0022100905,2022-02-26,DET,BOS,4.3,1,7,42,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:2),12-8,12,8
+0022100905,2022-02-26,DET,BOS,4.4,1,7,36,BOS,BOS,fg3_make,79,False,False,,Tatum 28' 3PT Pullup Jump Shot (5 PTS) (Smart 3 AST),12-11,12,11
+0022100905,2022-02-26,DET,BOS,4.63,1,7,22,DET,DET,fg_make,79,False,False,Grant 20' Pullup Jump Shot (2 PTS),,14-11,14,11
+0022100905,2022-02-26,DET,BOS,4.95,1,7,3,BOS,BOS,fg_miss,1,False,False,,MISS Tatum 16' Jump Shot,14-11,14,11
+0022100905,2022-02-26,DET,BOS,4.98,1,7,1,DET,DET,reb,0,False,False,Stewart REBOUND (Off:0 Def:3),,14-11,14,11
+0022100905,2022-02-26,DET,BOS,5.12,1,6,53,DET,DET,fg3_miss,1,False,False,MISS Grant 3PT Jump Shot,,14-11,14,11
+0022100905,2022-02-26,DET,BOS,5.15,1,6,51,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:0 Def:1),14-11,14,11
+0022100905,2022-02-26,DET,BOS,5.2,1,6,48,BOS,BOS,fg_make,6,False,False,,Tatum 2' Driving Layup (7 PTS),14-13,14,13
+0022100905,2022-02-26,DET,BOS,5.2,1,6,48,BOS,DET,foul,2,False,False,Joseph S.FOUL (P1.T3) (R.Mott),,14-13,14,13
+0022100905,2022-02-26,DET,BOS,5.2,1,6,48,BOS,BOS,ft_make,10,False,False,,Tatum Free Throw 1 of 1 (8 PTS),14-14,14,14
+0022100905,2022-02-26,DET,BOS,5.53,1,6,28,DET,DET,fg_make,63,False,False,Bey 5' Fadeaway Jumper (2 PTS),,16-14,16,14
+0022100905,2022-02-26,DET,BOS,5.87,1,6,8,BOS,BOS,fg_miss,79,False,False,,MISS Smart 17' Pullup Jump Shot,16-14,16,14
+0022100905,2022-02-26,DET,BOS,5.9,1,6,6,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:1),16-14,16,14
+0022100905,2022-02-26,DET,BOS,5.92,1,6,5,BOS,BOS,fg_make,97,False,False,,Williams III Tip Layup Shot (4 PTS),16-16,16,16
+0022100905,2022-02-26,DET,BOS,6.13,1,5,52,DET,DET,fg_make,79,False,False,Joseph 20' Pullup Jump Shot (4 PTS),,18-16,18,16
+0022100905,2022-02-26,DET,BOS,6.43,1,5,34,BOS,BOS,fg_make,43,False,False,,Williams III 2' Alley Oop Layup (6 PTS) (Tatum 2 AST),18-18,18,18
+0022100905,2022-02-26,DET,BOS,6.7,1,5,18,DET,DET,fg_miss,79,False,False,MISS Grant 20' Pullup Jump Shot,,18-18,18,18
+0022100905,2022-02-26,DET,BOS,6.73,1,5,16,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:2),18-18,18,18
+0022100905,2022-02-26,DET,BOS,6.83,1,5,10,BOS,BOS,fg_miss,101,False,False,,MISS Brown 3' Driving Floating Jump Shot,18-18,18,18
+0022100905,2022-02-26,DET,BOS,6.83,1,5,10,BOS,BOS,reb,0,False,False,,Celtics Rebound,18-18,18,18
+0022100905,2022-02-26,DET,BOS,6.83,1,5,10,BOS,BOS,tov,4,False,False,,Brown Traveling Turnover (P1.T1),18-18,18,18
+0022100905,2022-02-26,DET,BOS,7.15,1,4,51,DET,DET,fg_make,1,False,False,Diallo 18' Jump Shot (2 PTS) (Grant 1 AST),,20-18,20,18
+0022100905,2022-02-26,DET,BOS,7.43,1,4,34,BOS,BOS,tov,45,False,False,,Brown Out of Bounds - Bad Pass Turnover Turnover (P2.T2),20-18,20,18
+0022100905,2022-02-26,DET,BOS,7.67,1,4,20,DET,BOS,foul,2,False,False,,Williams III S.FOUL (P1.T2) (M.Smith),20-18,20,18
+0022100905,2022-02-26,DET,BOS,7.67,1,4,20,DET,DET,ft_make,11,False,False,Grant Free Throw 1 of 2 (3 PTS),,21-18,21,18
+0022100905,2022-02-26,DET,BOS,7.67,1,4,20,DET,DET,ft_make,12,False,False,Grant Free Throw 2 of 2 (4 PTS),,22-18,22,18
+0022100905,2022-02-26,DET,BOS,8.05,1,3,57,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 27' 3PT Jump Shot,22-18,22,18
+0022100905,2022-02-26,DET,BOS,8.1,1,3,54,DET,DET,reb,0,False,False,Stewart REBOUND (Off:0 Def:4),,22-18,22,18
+0022100905,2022-02-26,DET,BOS,8.37,1,3,38,DET,DET,fg_make,63,False,False,Bey 10' Fadeaway Jumper (4 PTS),,24-18,24,18
+0022100905,2022-02-26,DET,BOS,8.67,1,3,20,BOS,BOS,fg_make,5,False,False,,Brown 2' Layup (6 PTS) (Smart 4 AST),24-20,24,20
+0022100905,2022-02-26,DET,BOS,8.97,1,3,2,BOS,DET,foul,26,False,False,Diallo Offensive Charge Foul (P1) (M.Smith),,24-20,24,20
+0022100905,2022-02-26,DET,BOS,8.97,1,3,2,DET,DET,tov,37,False,False,Diallo Offensive Foul Turnover (P1.T2),,24-20,24,20
+0022100905,2022-02-26,DET,BOS,9.25,1,2,45,BOS,BOS,fg_make,101,False,False,,Smart 8' Driving Floating Jump Shot (2 PTS),24-22,24,22
+0022100905,2022-02-26,DET,BOS,9.25,1,2,45,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 1 Short 0),,24-22,24,22
+0022100905,2022-02-26,DET,BOS,9.62,1,2,23,DET,DET,fg_make,58,False,False,Bagley III 7' Turnaround Hook Shot (2 PTS) (Diallo 1 AST),,26-22,26,22
+0022100905,2022-02-26,DET,BOS,9.92,1,2,5,BOS,BOS,fg_miss,101,False,False,,MISS Smart 4' Driving Floating Jump Shot,26-22,26,22
+0022100905,2022-02-26,DET,BOS,9.97,1,2,2,DET,DET,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,26-22,26,22
+0022100905,2022-02-26,DET,BOS,10.0,1,2,0,DET,DET,tov,40,False,False,Diallo Out of Bounds Lost Ball Turnover (P2.T3),,26-22,26,22
+0022100905,2022-02-26,DET,BOS,10.32,1,1,41,BOS,BOS,tov,1,False,True,,White Bad Pass Turnover (P1.T3),26-22,26,22
+0022100905,2022-02-26,DET,BOS,10.32,1,1,41,BOS,DET,steal,1,False,True,steal,steal,26-22,26,22
+0022100905,2022-02-26,DET,BOS,10.62,1,1,23,DET,DET,fg_miss,1,False,False,MISS Bagley III 12' Jump Shot,,26-22,26,22
+0022100905,2022-02-26,DET,BOS,10.67,1,1,20,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:1),26-22,26,22
+0022100905,2022-02-26,DET,BOS,10.78,1,1,13,BOS,BOS,fg_make,98,False,False,,Horford 2' Cutting Layup Shot (2 PTS) (Tatum 3 AST),26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.03,1,0,58,DET,DET,tov,1,False,True,Hayes Bad Pass Turnover (P1.T4),,26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.03,1,0,58,DET,BOS,steal,1,False,True,steal,steal,26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.03,1,0,58,BOS,DET,foul,28,False,False,Hayes Personal Take Foul (P1.T4) (R.Mott),,26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.27,1,0,44,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 26' 3PT Step Back Jump Shot,26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.3,1,0,42,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:1 Def:1),26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.33,1,0,40,BOS,BOS,fg3_miss,1,False,False,,MISS Williams 26' 3PT Jump Shot,26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.37,1,0,38,BOS,BOS,reb,0,False,False,,White REBOUND (Off:1 Def:0),26-24,26,24
+0022100905,2022-02-26,DET,BOS,11.4,1,0,36,BOS,BOS,fg3_make,1,False,False,,Smart 24' 3PT Jump Shot (5 PTS) (Tatum 4 AST),26-27,26,27
+0022100905,2022-02-26,DET,BOS,11.73,1,0,16,DET,DET,fg_miss,79,False,False,MISS Diallo 16' Pullup Jump Shot,,26-27,26,27
+0022100905,2022-02-26,DET,BOS,11.77,1,0,14,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),26-27,26,27
+0022100905,2022-02-26,DET,BOS,11.98,1,0,1,BOS,BOS,fg3_make,1,False,False,,White 3PT Jump Shot (3 PTS) (Tatum 5 AST),26-30,26,30
+0022100905,2022-02-26,DET,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,26-30,26,30
+0022100905,2022-02-26,DET,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,26-30,26,30
+0022100905,2022-02-26,DET,BOS,12.42,2,11,35,DET,DET,fg_make,101,False,False,Diallo 6' Driving Floating Jump Shot (4 PTS),,28-30,28,30
+0022100905,2022-02-26,DET,BOS,12.67,2,11,20,BOS,BOS,fg3_make,1,False,False,,Tatum 27' 3PT Jump Shot (11 PTS) (Pritchard 1 AST),28-33,28,33
+0022100905,2022-02-26,DET,BOS,12.82,2,11,11,DET,BOS,foul,1,False,False,,Tatum P.FOUL (P1.T1) (S.Mehta),28-33,28,33
+0022100905,2022-02-26,DET,BOS,12.92,2,11,5,DET,DET,fg_miss,6,True,False,MISS Olynyk 2' Driving Layup,,28-33,28,33
+0022100905,2022-02-26,DET,BOS,12.92,2,11,5,DET,BOS,block,6,True,False,block,block,28-33,28,33
+0022100905,2022-02-26,DET,BOS,12.93,2,11,4,DET,DET,reb,0,False,False,PISTONS Rebound,,28-33,28,33
+0022100905,2022-02-26,DET,BOS,13.02,2,10,59,DET,DET,fg_make,1,False,False,McGruder 21' Jump Shot (2 PTS) (Hayes 1 AST),,30-33,30,33
+0022100905,2022-02-26,DET,BOS,13.13,2,10,52,BOS,BOS,fg_miss,41,False,False,,MISS White 2' Running Layup,30-33,30,33
+0022100905,2022-02-26,DET,BOS,13.18,2,10,49,DET,DET,reb,0,False,False,Olynyk REBOUND (Off:0 Def:2),,30-33,30,33
+0022100905,2022-02-26,DET,BOS,13.33,2,10,40,DET,DET,fg3_make,1,False,False,McGruder 25' 3PT Jump Shot (5 PTS) (Hayes 2 AST),,33-33,33,33
+0022100905,2022-02-26,DET,BOS,13.65,2,10,21,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 8' Fadeaway Jumper,33-33,33,33
+0022100905,2022-02-26,DET,BOS,13.68,2,10,19,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:0 Def:1),,33-33,33,33
+0022100905,2022-02-26,DET,BOS,13.85,2,10,9,DET,DET,fg3_make,1,False,False,Bagley III 26' 3PT Jump Shot (5 PTS) (McGruder 1 AST),,36-33,36,33
+0022100905,2022-02-26,DET,BOS,14.07,2,9,56,BOS,BOS,fg3_miss,1,False,False,,MISS Pritchard 27' 3PT Jump Shot,36-33,36,33
+0022100905,2022-02-26,DET,BOS,14.15,2,9,51,DET,DET,reb,0,False,False,Olynyk REBOUND (Off:0 Def:3),,36-33,36,33
+0022100905,2022-02-26,DET,BOS,14.2,2,9,48,DET,DET,fg_miss,41,True,False,MISS Hayes 5' Running Layup,,36-33,36,33
+0022100905,2022-02-26,DET,BOS,14.2,2,9,48,DET,BOS,block,41,True,False,block,block,36-33,36,33
+0022100905,2022-02-26,DET,BOS,14.3,2,9,42,BOS,BOS,reb,0,False,False,,Pritchard REBOUND (Off:0 Def:1),36-33,36,33
+0022100905,2022-02-26,DET,BOS,14.3,2,9,42,BOS,BOS,fg_make,41,False,False,,Williams 2' Running Layup (2 PTS) (Tatum 6 AST),36-35,36,35
+0022100905,2022-02-26,DET,BOS,14.3,2,9,42,DET,BOS,violation,1,False,False,,Celtics Violation: Delay of game Violation,36-35,36,35
+0022100905,2022-02-26,DET,BOS,14.5,2,9,30,DET,DET,tov,13,False,False,McGruder Backcourt Turnover (P1.T5),,36-35,36,35
+0022100905,2022-02-26,DET,BOS,14.75,2,9,15,BOS,BOS,fg_miss,3,False,False,,MISS Horford 6' Hook Shot,36-35,36,35
+0022100905,2022-02-26,DET,BOS,14.77,2,9,14,BOS,BOS,reb,0,False,False,,Celtics Rebound,36-35,36,35
+0022100905,2022-02-26,DET,BOS,14.77,2,9,14,BOS,BOS,tov,4,False,False,,Horford Traveling Turnover (P1.T4),36-35,36,35
+0022100905,2022-02-26,DET,BOS,15.17,2,8,50,DET,DET,tov,1,False,False,Diallo Bad Pass Turnover (P3.T6),,36-35,36,35
+0022100905,2022-02-26,DET,BOS,15.23,2,8,46,BOS,DET,foul,3,False,False,Olynyk L.B.FOUL (P1.T1) (S.Mehta),,36-35,36,35
+0022100905,2022-02-26,DET,BOS,15.32,2,8,41,BOS,BOS,fg_make,44,False,False,,Williams 2' Reverse Layup (4 PTS) (White 1 AST),36-37,36,37
+0022100905,2022-02-26,DET,BOS,15.32,2,8,41,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 2 Short 0),,36-37,36,37
+0022100905,2022-02-26,DET,BOS,15.55,2,8,27,DET,DET,fg3_miss,1,False,False,MISS Diallo 3PT Jump Shot,,36-37,36,37
+0022100905,2022-02-26,DET,BOS,15.6,2,8,24,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),36-37,36,37
+0022100905,2022-02-26,DET,BOS,15.68,2,8,19,BOS,DET,foul,1,False,False,Olynyk P.FOUL (P2.T2) (M.Smith),,36-37,36,37
+0022100905,2022-02-26,DET,BOS,15.87,2,8,8,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 26' 3PT Step Back Jump Shot,36-37,36,37
+0022100905,2022-02-26,DET,BOS,15.9,2,8,6,DET,DET,reb,0,False,False,Olynyk REBOUND (Off:0 Def:4),,36-37,36,37
+0022100905,2022-02-26,DET,BOS,16.1,2,7,54,DET,DET,fg_miss,57,False,False,MISS Bagley III 5' Driving Hook Shot,,36-37,36,37
+0022100905,2022-02-26,DET,BOS,16.15,2,7,51,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:4),36-37,36,37
+0022100905,2022-02-26,DET,BOS,16.33,2,7,40,BOS,BOS,fg_make,3,False,False,,Horford 3' Hook Shot (4 PTS) (Williams 1 AST),36-39,36,39
+0022100905,2022-02-26,DET,BOS,16.55,2,7,27,DET,DET,fg3_make,1,False,False,Olynyk 27' 3PT Jump Shot (3 PTS) (Hayes 3 AST),,39-39,39,39
+0022100905,2022-02-26,DET,BOS,16.98,2,7,1,BOS,BOS,fg3_make,104,False,False,,Tatum 28' 3PT Step Back Bank Jump Shot (14 PTS),39-42,39,42
+0022100905,2022-02-26,DET,BOS,17.28,2,6,43,DET,DET,fg_make,101,False,False,Diallo 4' Driving Floating Jump Shot (6 PTS) (Olynyk 1 AST),,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.5,2,6,30,BOS,BOS,fg3_miss,1,True,False,,MISS White 26' 3PT Jump Shot,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.5,2,6,30,BOS,DET,block,1,True,False,block,block,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.52,2,6,29,DET,DET,reb,0,False,False,Diallo REBOUND (Off:0 Def:1),,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.52,2,6,29,BOS,DET,foul,11,False,False,Diallo T.FOUL (P1.T2) (R.Mott),,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.52,2,6,29,BOS,BOS,ft_miss,16,False,False,,MISS Tatum Free Throw Technical,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.52,2,6,29,DET,DET,reb,1,False,False,PISTONS Rebound,,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.52,2,6,29,BOS,DET,ejection,4,False,False,Diallo Ejection:Other,,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.78,2,6,13,DET,BOS,foul,2,False,False,,Williams S.FOUL (P1.T2) (S.Mehta),41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.78,2,6,13,DET,DET,ft_miss,11,False,False,MISS Hayes Free Throw 1 of 2,,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.78,2,6,13,DET,DET,reb,1,False,False,PISTONS Rebound,,41-42,41,42
+0022100905,2022-02-26,DET,BOS,17.78,2,6,13,DET,DET,ft_make,12,False,False,Hayes Free Throw 2 of 2 (1 PTS),,42-42,42,42
+0022100905,2022-02-26,DET,BOS,17.97,2,6,2,BOS,BOS,fg_miss,6,False,False,,MISS Brown 2' Driving Layup,42-42,42,42
+0022100905,2022-02-26,DET,BOS,18.0,2,6,0,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:1),42-42,42,42
+0022100905,2022-02-26,DET,BOS,18.0,2,6,0,BOS,BOS,fg_miss,107,False,False,,MISS Williams III Tip Dunk Shot,42-42,42,42
+0022100905,2022-02-26,DET,BOS,18.02,2,5,59,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:3 Def:1),42-42,42,42
+0022100905,2022-02-26,DET,BOS,18.05,2,5,57,BOS,BOS,fg_make,1,False,False,,Pritchard 17' Jump Shot (2 PTS) (Williams III 1 AST),42-44,42,44
+0022100905,2022-02-26,DET,BOS,18.28,2,5,43,DET,DET,fg_make,1,False,False,Bey 19' Jump Shot (6 PTS) (Hayes 4 AST),,44-44,44,44
+0022100905,2022-02-26,DET,BOS,18.53,2,5,28,BOS,BOS,fg_make,3,False,False,,Brown 4' Hook Shot (8 PTS) (Williams III 2 AST),44-46,44,46
+0022100905,2022-02-26,DET,BOS,18.7,2,5,18,DET,DET,fg_miss,5,False,False,MISS Stewart 1' Layup,,44-46,44,46
+0022100905,2022-02-26,DET,BOS,18.72,2,5,17,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:1 Def:1),,44-46,44,46
+0022100905,2022-02-26,DET,BOS,18.73,2,5,16,DET,DET,fg_make,97,False,False,Bagley III Tip Layup Shot (7 PTS),,46-46,46,46
+0022100905,2022-02-26,DET,BOS,18.73,2,5,16,DET,BOS,foul,2,False,False,,Smart S.FOUL (P2.T3) (M.Smith),46-46,46,46
+0022100905,2022-02-26,DET,BOS,18.73,2,5,16,DET,DET,ft_make,10,False,False,Bagley III Free Throw 1 of 1 (8 PTS),,47-46,47,46
+0022100905,2022-02-26,DET,BOS,19.0,2,5,0,BOS,BOS,fg_make,6,False,False,,Williams 2' Driving Layup (6 PTS) (Pritchard 2 AST),47-48,47,48
+0022100905,2022-02-26,DET,BOS,19.23,2,4,46,DET,DET,fg_make,79,False,False,Cunningham 15' Pullup Jump Shot (9 PTS),,49-48,49,48
+0022100905,2022-02-26,DET,BOS,19.58,2,4,25,BOS,BOS,fg_miss,6,False,False,,MISS Brown 2' Driving Layup,49-48,49,48
+0022100905,2022-02-26,DET,BOS,19.62,2,4,23,DET,DET,reb,0,False,False,Stewart REBOUND (Off:0 Def:5),,49-48,49,48
+0022100905,2022-02-26,DET,BOS,19.72,2,4,17,DET,DET,fg_miss,58,False,False,MISS Cunningham 5' Turnaround Hook Shot,,49-48,49,48
+0022100905,2022-02-26,DET,BOS,19.72,2,4,17,DET,DET,reb,0,False,False,PISTONS Rebound,,49-48,49,48
+0022100905,2022-02-26,DET,BOS,19.72,2,4,17,DET,BOS,foul,3,False,False,,Smart L.B.FOUL (P3.T4) (R.Mott),49-48,49,48
+0022100905,2022-02-26,DET,BOS,19.72,2,4,17,BOS,DET,foul,11,False,False,Stewart T.FOUL (P0.T2) (R.Mott),,49-48,49,48
+0022100905,2022-02-26,DET,BOS,19.72,2,4,17,BOS,BOS,ft_make,16,False,False,,Brown Free Throw Technical (9 PTS),49-49,49,49
+0022100905,2022-02-26,DET,BOS,19.9,2,4,6,DET,DET,fg3_miss,1,False,False,MISS Grant 26' 3PT Jump Shot,,49-49,49,49
+0022100905,2022-02-26,DET,BOS,19.93,2,4,4,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:5),49-49,49,49
+0022100905,2022-02-26,DET,BOS,20.08,2,3,55,BOS,DET,foul,2,False,False,Cunningham S.FOUL (P3.T3) (R.Mott),,49-49,49,49
+0022100905,2022-02-26,DET,BOS,20.08,2,3,55,BOS,BOS,ft_make,11,False,False,,Williams Free Throw 1 of 2 (7 PTS),49-50,49,50
+0022100905,2022-02-26,DET,BOS,20.08,2,3,55,BOS,BOS,ft_make,12,False,False,,Williams Free Throw 2 of 2 (8 PTS),49-51,49,51
+0022100905,2022-02-26,DET,BOS,20.3,2,3,42,DET,DET,fg_miss,79,False,False,MISS Joseph 20' Pullup Jump Shot,,49-51,49,51
+0022100905,2022-02-26,DET,BOS,20.35,2,3,39,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),49-51,49,51
+0022100905,2022-02-26,DET,BOS,20.65,2,3,21,BOS,BOS,fg_miss,80,False,False,,MISS Tatum 20' Step Back Jump Shot,49-51,49,51
+0022100905,2022-02-26,DET,BOS,20.68,2,3,19,DET,DET,reb,0,False,False,Grant REBOUND (Off:0 Def:1),,49-51,49,51
+0022100905,2022-02-26,DET,BOS,20.8,2,3,12,BOS,DET,foul,4,False,False,Grant OFF.Foul (P1) (R.Mott),,49-51,49,51
+0022100905,2022-02-26,DET,BOS,20.8,2,3,12,DET,DET,tov,37,False,False,Grant Offensive Foul Turnover (P1.T7),,49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.2,2,2,48,BOS,BOS,fg_miss,79,False,False,,MISS Tatum 17' Pullup Jump Shot,49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.23,2,2,46,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:2),,49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.38,2,2,37,DET,DET,fg3_miss,79,False,False,MISS Bey 26' 3PT Pullup Jump Shot,,49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.38,2,2,37,BOS,BOS,reb,0,False,False,,Celtics Rebound,49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.38,2,2,37,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.2 Short 0),49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.57,2,2,26,BOS,BOS,fg_miss,58,False,False,,MISS Brown 3' Turnaround Hook Shot,49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.6,2,2,24,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:4 Def:1),49-51,49,51
+0022100905,2022-02-26,DET,BOS,21.62,2,2,23,BOS,BOS,fg_make,97,False,False,,Williams III Tip Layup Shot (8 PTS),49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.83,2,2,10,DET,DET,fg3_miss,1,False,False,MISS Grant 25' 3PT Jump Shot,,49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.87,2,2,8,DET,DET,reb,0,False,False,Stewart REBOUND (Off:1 Def:5),,49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.87,2,2,8,DET,DET,fg_miss,72,False,False,MISS Stewart 1' Putback Layup,,49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.9,2,2,6,DET,DET,reb,0,False,False,Stewart REBOUND (Off:2 Def:5),,49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.9,2,2,6,DET,DET,fg_miss,97,False,False,MISS Stewart 1' Tip Layup Shot,,49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.9,2,2,6,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:6),49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.98,2,2,1,BOS,DET,foul,2,False,False,Grant S.FOUL (P2.T4) (S.Mehta),,49-53,49,53
+0022100905,2022-02-26,DET,BOS,21.98,2,2,1,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (15 PTS),49-54,49,54
+0022100905,2022-02-26,DET,BOS,21.98,2,2,1,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (16 PTS),49-55,49,55
+0022100905,2022-02-26,DET,BOS,22.3,2,1,42,DET,DET,fg_miss,5,False,False,MISS Grant 5' Layup,,49-55,49,55
+0022100905,2022-02-26,DET,BOS,22.32,2,1,41,DET,DET,reb,0,False,False,Stewart REBOUND (Off:3 Def:5),,49-55,49,55
+0022100905,2022-02-26,DET,BOS,22.33,2,1,40,DET,DET,fg_miss,97,False,False,MISS Stewart Tip Layup Shot,,49-55,49,55
+0022100905,2022-02-26,DET,BOS,22.35,2,1,39,DET,DET,reb,0,False,False,Stewart REBOUND (Off:4 Def:5),,49-55,49,55
+0022100905,2022-02-26,DET,BOS,22.35,2,1,39,DET,DET,fg_make,72,False,False,Stewart Putback Layup (5 PTS),,51-55,51,55
+0022100905,2022-02-26,DET,BOS,22.6,2,1,24,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 27' 3PT Jump Shot,51-55,51,55
+0022100905,2022-02-26,DET,BOS,22.65,2,1,21,DET,DET,reb,0,False,False,Joseph REBOUND (Off:0 Def:2),,51-55,51,55
+0022100905,2022-02-26,DET,BOS,22.75,2,1,15,DET,DET,fg3_miss,1,False,False,MISS Grant 3PT Jump Shot,,51-55,51,55
+0022100905,2022-02-26,DET,BOS,22.82,2,1,11,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:7),51-55,51,55
+0022100905,2022-02-26,DET,BOS,22.97,2,1,2,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 28' 3PT Step Back Jump Shot,51-55,51,55
+0022100905,2022-02-26,DET,BOS,22.97,2,1,2,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:3),,51-55,51,55
+0022100905,2022-02-26,DET,BOS,23.07,2,0,56,DET,DET,fg3_make,2,False,False,Bey 27' 3PT Running Jump Shot (9 PTS) (Joseph 2 AST),,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.35,2,0,39,BOS,BOS,fg_miss,98,True,False,,MISS Brown 5' Cutting Layup Shot,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.35,2,0,39,BOS,DET,block,98,True,False,block,block,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.4,2,0,36,,DET,jump_ball,0,False,False,Jump Ball Joseph vs. Brown: Tip to McGruder,,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.4,2,0,36,DET,DET,reb,0,False,False,PISTONS Rebound,,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.5,2,0,30,DET,DET,fg3_miss,2,False,False,MISS Bey 27' 3PT Running Jump Shot,,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.5,2,0,30,BOS,BOS,reb,0,False,False,,Celtics Rebound,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.82,2,0,11,BOS,DET,foul,2,False,False,Joseph S.FOUL (P2.PN) (M.Smith),,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.82,2,0,11,BOS,BOS,ft_miss,11,False,False,,MISS Tatum Free Throw 1 of 2,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.82,2,0,11,BOS,BOS,reb,1,False,False,,Celtics Rebound,54-55,54,55
+0022100905,2022-02-26,DET,BOS,23.82,2,0,11,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (17 PTS),54-56,54,56
+0022100905,2022-02-26,DET,BOS,23.98,2,0,1,DET,DET,fg_miss,1,True,False,MISS Stewart 14' Jump Shot,,54-56,54,56
+0022100905,2022-02-26,DET,BOS,23.98,2,0,1,DET,BOS,block,1,True,False,block,block,54-56,54,56
+0022100905,2022-02-26,DET,BOS,23.98,2,0,1,DET,DET,reb,0,False,False,PISTONS Rebound,,54-56,54,56
+0022100905,2022-02-26,DET,BOS,24.0,2,0,0,DET,,period_end,0,False,False,,,54-56,54,56
+0022100905,2022-02-26,DET,BOS,24.0,3,12,0,DET,,period_start,0,False,False,,,54-56,54,56
+0022100905,2022-02-26,DET,BOS,24.37,3,11,38,DET,DET,fg_miss,79,False,False,MISS Grant 15' Pullup Jump Shot,,54-56,54,56
+0022100905,2022-02-26,DET,BOS,24.42,3,11,35,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:8),54-56,54,56
+0022100905,2022-02-26,DET,BOS,24.63,3,11,22,BOS,BOS,fg_miss,1,False,False,,MISS Tatum 17' Jump Shot,54-56,54,56
+0022100905,2022-02-26,DET,BOS,24.72,3,11,17,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:2),,54-56,54,56
+0022100905,2022-02-26,DET,BOS,24.93,3,11,4,DET,DET,fg3_make,1,False,False,Joseph 24' 3PT Jump Shot (7 PTS) (Bey 1 AST),,57-56,57,56
+0022100905,2022-02-26,DET,BOS,25.03,3,10,58,BOS,DET,foul,2,False,False,Grant S.FOUL (P3.T1) (M.Smith),,57-56,57,56
+0022100905,2022-02-26,DET,BOS,25.03,3,10,58,BOS,BOS,ft_make,11,False,False,,Brown Free Throw 1 of 2 (10 PTS),57-57,57,57
+0022100905,2022-02-26,DET,BOS,25.03,3,10,58,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (11 PTS),57-58,57,58
+0022100905,2022-02-26,DET,BOS,25.35,3,10,39,DET,DET,tov,8,False,False,Stewart 3 Second Violation Turnover (P1.T8),,57-58,57,58
+0022100905,2022-02-26,DET,BOS,25.62,3,10,23,BOS,BOS,fg_make,80,False,False,,Brown 10' Step Back Jump Shot (13 PTS) (Horford 1 AST),57-60,57,60
+0022100905,2022-02-26,DET,BOS,25.92,3,10,5,DET,DET,fg_make,5,False,False,Stewart 2' Layup (7 PTS) (Bey 2 AST),,59-60,59,60
+0022100905,2022-02-26,DET,BOS,26.17,3,9,50,BOS,BOS,fg_make,63,False,False,,Brown 9' Fadeaway Jumper (15 PTS),59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.28,3,9,43,DET,DET,fg_miss,6,True,False,MISS Grant 2' Driving Layup,,59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.28,3,9,43,DET,BOS,block,6,True,False,block,block,59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.28,3,9,43,DET,DET,reb,0,False,False,PISTONS Rebound,,59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.28,3,9,43,BOS,DET,foul,4,False,False,Cunningham OFF.Foul (P4) (S.Mehta),,59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.28,3,9,43,DET,DET,tov,37,False,False,Cunningham Offensive Foul Turnover (P1.T9),,59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.55,3,9,27,BOS,BOS,fg_miss,86,False,False,,MISS Brown 7' Turnaround Fadeaway Shot,59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.58,3,9,25,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:4),,59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.62,3,9,23,DET,BOS,foul,1,False,False,,Horford P.FOUL (P1.T1) (R.Mott),59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.77,3,9,14,DET,BOS,foul,2,False,False,,Horford S.FOUL (P2.T2) (S.Mehta),59-62,59,62
+0022100905,2022-02-26,DET,BOS,26.77,3,9,14,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (10 PTS),,60-62,60,62
+0022100905,2022-02-26,DET,BOS,26.77,3,9,14,DET,DET,ft_make,12,False,False,Bey Free Throw 2 of 2 (11 PTS),,61-62,61,62
+0022100905,2022-02-26,DET,BOS,26.98,3,9,1,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 26' 3PT Step Back Jump Shot,61-62,61,62
+0022100905,2022-02-26,DET,BOS,27.03,3,8,58,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:5),,61-62,61,62
+0022100905,2022-02-26,DET,BOS,27.25,3,8,45,DET,BOS,foul,2,False,False,,Brown S.FOUL (P1.T3) (M.Smith),61-62,61,62
+0022100905,2022-02-26,DET,BOS,27.25,3,8,45,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (12 PTS),,62-62,62,62
+0022100905,2022-02-26,DET,BOS,27.25,3,8,45,DET,DET,ft_make,12,False,False,Bey Free Throw 2 of 2 (13 PTS),,63-62,63,62
+0022100905,2022-02-26,DET,BOS,27.6,3,8,24,BOS,BOS,fg_miss,102,False,False,,MISS Horford 3' Driving Floating Bank Jump Shot,63-62,63,62
+0022100905,2022-02-26,DET,BOS,27.6,3,8,24,DET,DET,reb,0,False,False,PISTONS Rebound,,63-62,63,62
+0022100905,2022-02-26,DET,BOS,27.98,3,8,1,DET,DET,fg_miss,101,False,False,MISS Bey 8' Driving Floating Jump Shot,,63-62,63,62
+0022100905,2022-02-26,DET,BOS,28.02,3,7,59,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:4 Def:2),63-62,63,62
+0022100905,2022-02-26,DET,BOS,28.08,3,7,55,DET,BOS,foul,4,False,False,,Tatum OFF.Foul (P2) (R.Mott),63-62,63,62
+0022100905,2022-02-26,DET,BOS,28.08,3,7,55,BOS,BOS,tov,37,False,False,,Tatum Offensive Foul Turnover (P1.T5),63-62,63,62
+0022100905,2022-02-26,DET,BOS,28.1,3,7,54,DET,BOS,foul,11,False,False,,Tatum T.FOUL (P2.T3) (S.Mehta),63-62,63,62
+0022100905,2022-02-26,DET,BOS,28.1,3,7,54,DET,DET,ft_make,16,False,False,Grant Free Throw Technical (5 PTS),,64-62,64,62
+0022100905,2022-02-26,DET,BOS,28.35,3,7,39,DET,BOS,foul,1,False,False,,Smart P.FOUL (P4.T4) (M.Smith),64-62,64,62
+0022100905,2022-02-26,DET,BOS,28.45,3,7,33,DET,BOS,foul,2,False,False,,Williams III S.FOUL (P2.PN) (S.Mehta),64-62,64,62
+0022100905,2022-02-26,DET,BOS,28.45,3,7,33,DET,DET,ft_make,11,False,False,Grant Free Throw 1 of 2 (6 PTS),,65-62,65,62
+0022100905,2022-02-26,DET,BOS,28.45,3,7,33,DET,DET,ft_make,12,False,False,Grant Free Throw 2 of 2 (7 PTS),,66-62,66,62
+0022100905,2022-02-26,DET,BOS,28.78,3,7,13,BOS,BOS,fg_make,101,False,False,,Tatum 3' Driving Floating Jump Shot (19 PTS),66-64,66,64
+0022100905,2022-02-26,DET,BOS,29.02,3,6,59,DET,DET,fg3_miss,1,False,False,MISS Grant 3PT Jump Shot,,66-64,66,64
+0022100905,2022-02-26,DET,BOS,29.05,3,6,57,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:9),66-64,66,64
+0022100905,2022-02-26,DET,BOS,29.2,3,6,48,BOS,BOS,fg_make,6,False,False,,Brown 3' Driving Layup (17 PTS),66-66,66,66
+0022100905,2022-02-26,DET,BOS,29.2,3,6,48,BOS,DET,foul,2,False,False,Joseph S.FOUL (P3.T2) (S.Mehta),,66-66,66,66
+0022100905,2022-02-26,DET,BOS,29.2,3,6,48,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 3 Short 0),,66-66,66,66
+0022100905,2022-02-26,DET,BOS,29.2,3,6,48,DET,BOS,ft_make,10,False,False,,Brown Free Throw 1 of 1 (18 PTS),66-67,66,67
+0022100905,2022-02-26,DET,BOS,29.45,3,6,33,DET,DET,fg_make,80,False,False,Cunningham 12' Step Back Jump Shot (11 PTS),,68-67,68,67
+0022100905,2022-02-26,DET,BOS,29.78,3,6,13,BOS,BOS,fg_make,67,False,False,,Horford 8' Hook Bank Shot (6 PTS),68-69,68,69
+0022100905,2022-02-26,DET,BOS,30.05,3,5,57,DET,DET,fg3_miss,1,False,False,MISS Cunningham 27' 3PT Jump Shot,,68-69,68,69
+0022100905,2022-02-26,DET,BOS,30.08,3,5,55,BOS,BOS,reb,0,False,False,,Celtics Rebound,68-69,68,69
+0022100905,2022-02-26,DET,BOS,30.37,3,5,38,BOS,BOS,fg_miss,9,True,False,,MISS Brown 3' Driving Dunk,68-69,68,69
+0022100905,2022-02-26,DET,BOS,30.37,3,5,38,BOS,DET,block,9,True,False,block,block,68-69,68,69
+0022100905,2022-02-26,DET,BOS,30.47,3,5,32,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:3),,68-69,68,69
+0022100905,2022-02-26,DET,BOS,30.48,3,5,31,DET,DET,fg_make,50,False,False,Grant 2' Running Dunk (9 PTS) (Bey 3 AST),,70-69,70,69
+0022100905,2022-02-26,DET,BOS,30.97,3,5,2,BOS,BOS,fg_make,5,False,False,,Williams III 2' Layup (10 PTS) (White 2 AST),70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.13,3,4,52,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.3 Short 0),70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.13,3,4,52,DET,DET,fg_miss,9,True,False,MISS Grant 3' Driving Dunk,,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.13,3,4,52,DET,BOS,block,9,True,False,block,block,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.13,3,4,52,BOS,BOS,reb,0,False,False,,Celtics Rebound,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.17,3,4,50,,DET,jump_ball,1,False,False,Jump Ball (CC) Grant vs. Williams III: Tip to Tatum,,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.35,3,4,39,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 27' 3PT Step Back Jump Shot,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.4,3,4,36,DET,DET,reb,0,False,False,Joseph REBOUND (Off:0 Def:3),,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.47,3,4,32,DET,DET,fg_miss,106,False,False,MISS Grant 3' Running Alley Oop Dunk Shot,,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.48,3,4,31,BOS,BOS,reb,0,False,False,,Celtics Rebound,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.68,3,4,19,BOS,BOS,fg_miss,5,False,False,,MISS Brown 3' Layup,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.7,3,4,18,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:5 Def:2),70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.7,3,4,18,BOS,BOS,fg_miss,97,False,False,,MISS Williams III 2' Tip Layup Shot,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.7,3,4,18,DET,DET,reb,0,False,False,Joseph REBOUND (Off:0 Def:4),,70-71,70,71
+0022100905,2022-02-26,DET,BOS,31.98,3,4,1,DET,DET,fg3_miss,79,False,False,MISS Cunningham 27' 3PT Pullup Jump Shot,,70-71,70,71
+0022100905,2022-02-26,DET,BOS,32.03,3,3,58,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:10),70-71,70,71
+0022100905,2022-02-26,DET,BOS,32.05,3,3,57,BOS,DET,foul,1,False,False,Joseph P.FOUL (P4.T3) (S.Mehta),,70-71,70,71
+0022100905,2022-02-26,DET,BOS,32.27,3,3,44,BOS,BOS,fg3_miss,80,False,False,,MISS Williams 27' 3PT Step Back Jump Shot,70-71,70,71
+0022100905,2022-02-26,DET,BOS,32.33,3,3,40,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:4),,70-71,70,71
+0022100905,2022-02-26,DET,BOS,32.57,3,3,26,DET,DET,fg_make,75,False,False,Cunningham 2' Driving Finger Roll Layup (13 PTS) (Olynyk 2 AST),,72-71,72,71
+0022100905,2022-02-26,DET,BOS,32.93,3,3,4,BOS,BOS,fg_miss,1,False,False,,MISS Pritchard 20' Jump Shot,72-71,72,71
+0022100905,2022-02-26,DET,BOS,32.98,3,3,1,DET,DET,reb,0,False,False,McGruder REBOUND (Off:0 Def:1),,72-71,72,71
+0022100905,2022-02-26,DET,BOS,33.1,3,2,54,DET,DET,fg_make,102,False,False,Cunningham 4' Driving Floating Bank Jump Shot (15 PTS),,74-71,74,71
+0022100905,2022-02-26,DET,BOS,33.35,3,2,39,BOS,BOS,fg3_make,1,False,False,,Pritchard 27' 3PT Jump Shot (5 PTS) (Williams III 3 AST),74-74,74,74
+0022100905,2022-02-26,DET,BOS,33.7,3,2,18,DET,DET,fg_miss,78,False,False,MISS Olynyk 4' Floating Jump Shot,,74-74,74,74
+0022100905,2022-02-26,DET,BOS,33.77,3,2,14,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:2 Def:1),,74-74,74,74
+0022100905,2022-02-26,DET,BOS,33.77,3,2,14,DET,DET,fg_make,97,False,False,Bagley III Tip Layup Shot (10 PTS),,76-74,76,74
+0022100905,2022-02-26,DET,BOS,34.02,3,1,59,BOS,BOS,fg_make,80,False,False,,Pritchard 21' Step Back Jump Shot (7 PTS),76-76,76,76
+0022100905,2022-02-26,DET,BOS,34.32,3,1,41,DET,DET,fg_make,67,False,False,Cunningham 3' Hook Bank Shot (17 PTS),,78-76,78,76
+0022100905,2022-02-26,DET,BOS,34.57,3,1,26,BOS,BOS,tov,39,False,False,,Pritchard Step Out of Bounds Turnover (P1.T6),78-76,78,76
+0022100905,2022-02-26,DET,BOS,34.68,3,1,19,DET,DET,fg_make,43,False,False,Bagley III 2' Alley Oop Layup (12 PTS) (Cunningham 2 AST),,80-76,80,76
+0022100905,2022-02-26,DET,BOS,34.68,3,1,19,DET,BOS,foul,2,False,False,,Williams S.FOUL (P2.PN) (S.Mehta),80-76,80,76
+0022100905,2022-02-26,DET,BOS,34.68,3,1,19,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.4 Short 0),80-76,80,76
+0022100905,2022-02-26,DET,BOS,34.68,3,1,19,BOS,DET,ft_make,10,False,False,Bagley III Free Throw 1 of 1 (13 PTS),,81-76,81,76
+0022100905,2022-02-26,DET,BOS,35.02,3,0,59,BOS,BOS,fg_miss,80,False,False,,MISS Tatum 14' Step Back Jump Shot,81-76,81,76
+0022100905,2022-02-26,DET,BOS,35.07,3,0,56,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:5),,81-76,81,76
+0022100905,2022-02-26,DET,BOS,35.1,3,0,54,DET,BOS,foul,2,False,False,,Tatum S.FOUL (P3.PN) (M.Smith),81-76,81,76
+0022100905,2022-02-26,DET,BOS,35.1,3,0,54,DET,DET,ft_miss,11,False,False,MISS Bagley III Free Throw 1 of 2,,81-76,81,76
+0022100905,2022-02-26,DET,BOS,35.1,3,0,54,DET,DET,reb,1,False,False,PISTONS Rebound,,81-76,81,76
+0022100905,2022-02-26,DET,BOS,35.1,3,0,54,DET,DET,ft_make,12,False,False,Bagley III Free Throw 2 of 2 (14 PTS),,82-76,82,76
+0022100905,2022-02-26,DET,BOS,35.35,3,0,39,BOS,DET,foul,1,False,False,McGruder P.FOUL (P1.T4) (S.Mehta),,82-76,82,76
+0022100905,2022-02-26,DET,BOS,35.53,3,0,28,BOS,BOS,tov,1,False,True,,White Bad Pass Turnover (P2.T7),82-76,82,76
+0022100905,2022-02-26,DET,BOS,35.53,3,0,28,BOS,DET,steal,1,False,True,steal,steal,82-76,82,76
+0022100905,2022-02-26,DET,BOS,35.9,3,0,6,DET,DET,fg3_miss,1,True,False,MISS McGruder 30' 3PT Jump Shot,,82-76,82,76
+0022100905,2022-02-26,DET,BOS,35.9,3,0,6,DET,BOS,block,1,True,False,block,block,82-76,82,76
+0022100905,2022-02-26,DET,BOS,35.95,3,0,3,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),82-76,82,76
+0022100905,2022-02-26,DET,BOS,35.97,3,0,2,BOS,BOS,fg_make,41,False,False,,Pritchard 2' Running Layup (9 PTS) (Williams 2 AST),82-78,82,78
+0022100905,2022-02-26,DET,BOS,36.0,3,0,0,DET,DET,fg3_miss,103,False,False,MISS Olynyk 33' 3PT Running Pull-Up Jump Shot,,82-78,82,78
+0022100905,2022-02-26,DET,BOS,36.0,3,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,82-78,82,78
+0022100905,2022-02-26,DET,BOS,36.0,3,0,0,DET,,period_end,0,False,False,,,82-78,82,78
+0022100905,2022-02-26,DET,BOS,36.0,4,12,0,DET,,period_start,0,False,False,,,82-78,82,78
+0022100905,2022-02-26,DET,BOS,36.15,4,11,51,BOS,BOS,fg_make,75,False,False,,Williams 2' Driving Finger Roll Layup (10 PTS) (White 3 AST),82-80,82,80
+0022100905,2022-02-26,DET,BOS,36.15,4,11,51,BOS,DET,foul,2,False,False,Hayes S.FOUL (P2.T1) (R.Mott),,82-80,82,80
+0022100905,2022-02-26,DET,BOS,36.15,4,11,51,BOS,BOS,ft_make,10,False,False,,Williams Free Throw 1 of 1 (11 PTS),82-81,82,81
+0022100905,2022-02-26,DET,BOS,36.37,4,11,38,DET,DET,fg3_miss,1,False,False,MISS Joseph 26' 3PT Jump Shot,,82-81,82,81
+0022100905,2022-02-26,DET,BOS,36.42,4,11,35,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),82-81,82,81
+0022100905,2022-02-26,DET,BOS,36.68,4,11,19,BOS,DET,foul,2,False,False,Olynyk S.FOUL (P3.T2) (S.Mehta),,82-81,82,81
+0022100905,2022-02-26,DET,BOS,36.68,4,11,19,BOS,BOS,ft_make,11,False,False,,Williams Free Throw 1 of 2 (12 PTS),82-82,82,82
+0022100905,2022-02-26,DET,BOS,36.68,4,11,19,BOS,BOS,ft_make,12,False,False,,Williams Free Throw 2 of 2 (13 PTS),82-83,82,83
+0022100905,2022-02-26,DET,BOS,36.92,4,11,5,DET,BOS,foul,3,False,False,,Williams L.B.FOUL (P3.T1) (S.Mehta),82-83,82,83
+0022100905,2022-02-26,DET,BOS,37.2,4,10,48,DET,DET,fg_make,80,False,False,Joseph 21' Step Back Jump Shot (9 PTS),,84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.38,4,10,37,BOS,BOS,tov,1,False,True,,Williams Bad Pass Turnover (P1.T8),84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.38,4,10,37,BOS,DET,steal,1,False,True,steal,steal,84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.62,4,10,23,DET,DET,fg3_miss,1,False,False,MISS McGruder 3PT Jump Shot,,84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.65,4,10,21,DET,DET,reb,0,False,False,Olynyk REBOUND (Off:1 Def:4),,84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.67,4,10,20,DET,DET,fg_miss,5,False,False,MISS McGruder 2' Layup,,84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.67,4,10,20,DET,DET,reb,0,False,False,McGruder REBOUND (Off:1 Def:1),,84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.8,4,10,12,DET,DET,fg3_miss,1,False,False,MISS Bagley III 3PT Jump Shot,,84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.83,4,10,10,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),84-83,84,83
+0022100905,2022-02-26,DET,BOS,37.97,4,10,2,BOS,DET,foul,1,False,False,Hayes P.FOUL (P3.T3) (M.Smith),,84-83,84,83
+0022100905,2022-02-26,DET,BOS,38.12,4,9,53,BOS,BOS,fg_miss,6,False,False,,MISS Brown 3' Driving Layup,84-83,84,83
+0022100905,2022-02-26,DET,BOS,38.18,4,9,49,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:2),84-83,84,83
+0022100905,2022-02-26,DET,BOS,38.2,4,9,48,BOS,BOS,fg3_miss,1,False,False,,MISS Pritchard 27' 3PT Jump Shot,84-83,84,83
+0022100905,2022-02-26,DET,BOS,38.2,4,9,48,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:2 Def:2),,84-83,84,83
+0022100905,2022-02-26,DET,BOS,38.55,4,9,27,DET,DET,fg3_miss,1,False,False,MISS Hayes 27' 3PT Jump Shot,,84-83,84,83
+0022100905,2022-02-26,DET,BOS,38.58,4,9,25,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:4),84-83,84,83
+0022100905,2022-02-26,DET,BOS,38.72,4,9,17,BOS,BOS,tov,45,False,False,,White Out of Bounds - Bad Pass Turnover Turnover (P3.T9),84-83,84,83
+0022100905,2022-02-26,DET,BOS,39.05,4,8,57,DET,DET,fg_miss,58,False,False,MISS Bagley III 7' Turnaround Hook Shot,,84-83,84,83
+0022100905,2022-02-26,DET,BOS,39.07,4,8,56,BOS,BOS,reb,0,False,False,,Celtics Rebound,84-83,84,83
+0022100905,2022-02-26,DET,BOS,39.18,4,8,49,BOS,DET,foul,1,False,False,Hayes P.FOUL (P4.T4) (M.Smith),,84-83,84,83
+0022100905,2022-02-26,DET,BOS,39.25,4,8,45,BOS,BOS,fg_make,98,False,False,,Brown 2' Cutting Layup Shot (20 PTS) (Williams 3 AST),84-85,84,85
+0022100905,2022-02-26,DET,BOS,39.62,4,8,23,DET,DET,fg_make,98,False,False,Cunningham 2' Cutting Layup Shot (19 PTS) (McGruder 2 AST),,86-85,86,85
+0022100905,2022-02-26,DET,BOS,39.85,4,8,9,BOS,BOS,tov,2,False,True,,Brown Lost Ball Turnover (P3.T10),86-85,86,85
+0022100905,2022-02-26,DET,BOS,39.85,4,8,9,BOS,DET,steal,2,False,True,steal,steal,86-85,86,85
+0022100905,2022-02-26,DET,BOS,39.92,4,8,5,DET,DET,fg_make,50,False,False,Hayes 3' Running Dunk (3 PTS),,88-85,88,85
+0022100905,2022-02-26,DET,BOS,40.27,4,7,44,BOS,BOS,fg3_make,1,False,False,,Pritchard 26' 3PT Jump Shot (12 PTS) (Horford 2 AST),88-88,88,88
+0022100905,2022-02-26,DET,BOS,40.5,4,7,30,DET,DET,tov,1,False,True,Hayes Bad Pass Turnover (P2.T10),,88-88,88,88
+0022100905,2022-02-26,DET,BOS,40.5,4,7,30,DET,BOS,steal,1,False,True,steal,steal,88-88,88,88
+0022100905,2022-02-26,DET,BOS,40.5,4,7,30,BOS,DET,foul,1,False,False,Cunningham P.FOUL (P5.PN) (S.Mehta),,88-88,88,88
+0022100905,2022-02-26,DET,BOS,40.5,4,7,30,BOS,BOS,ft_make,11,False,False,,Smart Free Throw 1 of 2 (6 PTS),88-89,88,89
+0022100905,2022-02-26,DET,BOS,40.5,4,7,30,BOS,BOS,ft_make,12,False,False,,Smart Free Throw 2 of 2 (7 PTS),88-90,88,90
+0022100905,2022-02-26,DET,BOS,40.67,4,7,20,DET,BOS,foul,1,False,False,,Brown P.FOUL (P2.T2) (S.Mehta),88-90,88,90
+0022100905,2022-02-26,DET,BOS,40.78,4,7,13,DET,DET,tov,39,False,False,Hayes Step Out of Bounds Turnover (P3.T11),,88-90,88,90
+0022100905,2022-02-26,DET,BOS,40.95,4,7,3,BOS,BOS,fg_make,75,False,False,,Pritchard 1' Driving Finger Roll Layup (14 PTS) (Horford 3 AST),88-92,88,92
+0022100905,2022-02-26,DET,BOS,41.02,4,6,59,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 4 Short 0),,88-92,88,92
+0022100905,2022-02-26,DET,BOS,41.37,4,6,38,DET,DET,fg_miss,6,False,False,MISS Joseph 3' Driving Layup,,88-92,88,92
+0022100905,2022-02-26,DET,BOS,41.4,4,6,36,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:1 Def:2),88-92,88,92
+0022100905,2022-02-26,DET,BOS,41.5,4,6,30,BOS,BOS,fg3_make,1,False,False,,Brown 24' 3PT Jump Shot (23 PTS) (Pritchard 3 AST),88-95,88,95
+0022100905,2022-02-26,DET,BOS,41.87,4,6,8,DET,DET,fg_make,6,False,False,Grant 2' Driving Layup (11 PTS),,90-95,90,95
+0022100905,2022-02-26,DET,BOS,42.25,4,5,45,BOS,BOS,fg_make,1,False,False,,Horford 16' Jump Shot (8 PTS) (Pritchard 4 AST),90-97,90,97
+0022100905,2022-02-26,DET,BOS,42.43,4,5,34,DET,DET,fg_miss,79,False,False,MISS Bey 18' Pullup Jump Shot,,90-97,90,97
+0022100905,2022-02-26,DET,BOS,42.48,4,5,31,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:1 Def:3),90-97,90,97
+0022100905,2022-02-26,DET,BOS,42.63,4,5,22,BOS,BOS,fg_miss,98,False,False,,MISS Pritchard 2' Cutting Layup Shot,90-97,90,97
+0022100905,2022-02-26,DET,BOS,42.67,4,5,20,BOS,BOS,reb,0,False,False,,Pritchard REBOUND (Off:1 Def:1),90-97,90,97
+0022100905,2022-02-26,DET,BOS,42.72,4,5,17,BOS,BOS,fg3_make,1,False,False,,Tatum 28' 3PT Jump Shot (22 PTS) (Pritchard 5 AST),90-100,90,100
+0022100905,2022-02-26,DET,BOS,42.82,4,5,11,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 5 Short 0),,90-100,90,100
+0022100905,2022-02-26,DET,BOS,43.0,4,5,0,DET,DET,fg_make,6,False,False,Cunningham 1' Driving Layup (21 PTS),,92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.0,4,5,0,DET,BOS,foul,2,False,False,,Brown S.FOUL (P3.T3) (S.Mehta),92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.0,4,5,0,DET,DET,ft_miss,10,False,False,MISS Cunningham Free Throw 1 of 1,,92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.05,4,4,57,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:11),92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.32,4,4,41,BOS,BOS,fg_miss,3,True,False,,MISS Tatum 3' Hook Shot,92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.32,4,4,41,BOS,DET,block,3,True,False,block,block,92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.37,4,4,38,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:6),,92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.42,4,4,35,DET,DET,tov,39,False,False,Bey Step Out of Bounds Turnover (P1.T12),,92-100,92,100
+0022100905,2022-02-26,DET,BOS,43.68,4,4,19,BOS,BOS,fg_make,86,False,False,,Brown 12' Turnaround Fadeaway (25 PTS) (Smart 5 AST),92-102,92,102
+0022100905,2022-02-26,DET,BOS,43.9,4,4,6,DET,DET,fg_make,80,False,False,Cunningham 20' Step Back Jump Shot (23 PTS),,94-102,94,102
+0022100905,2022-02-26,DET,BOS,44.13,4,3,52,BOS,BOS,fg3_make,1,False,False,,Pritchard 26' 3PT Jump Shot (17 PTS) (Smart 6 AST),94-105,94,105
+0022100905,2022-02-26,DET,BOS,44.5,4,3,30,DET,DET,fg_miss,101,False,False,MISS Stewart 4' Driving Floating Jump Shot,,94-105,94,105
+0022100905,2022-02-26,DET,BOS,44.53,4,3,28,DET,DET,reb,0,False,False,Bey REBOUND (Off:1 Def:5),,94-105,94,105
+0022100905,2022-02-26,DET,BOS,44.55,4,3,27,DET,DET,fg3_miss,1,False,False,MISS Cunningham 27' 3PT Jump Shot,,94-105,94,105
+0022100905,2022-02-26,DET,BOS,44.55,4,3,27,DET,DET,reb,0,False,False,PISTONS Rebound,,94-105,94,105
+0022100905,2022-02-26,DET,BOS,44.55,4,3,27,DET,BOS,foul,3,False,False,,Horford L.B.FOUL (P3.T4) (S.Mehta),94-105,94,105
+0022100905,2022-02-26,DET,BOS,44.72,4,3,17,DET,BOS,foul,1,False,False,,Smart P.FOUL (P5.PN) (M.Smith),94-105,94,105
+0022100905,2022-02-26,DET,BOS,44.72,4,3,17,DET,DET,ft_make,11,False,False,Cunningham Free Throw 1 of 2 (24 PTS),,95-105,95,105
+0022100905,2022-02-26,DET,BOS,44.72,4,3,17,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.5 Short 0),95-105,95,105
+0022100905,2022-02-26,DET,BOS,44.72,4,3,17,BOS,DET,ft_make,12,False,False,Cunningham Free Throw 2 of 2 (25 PTS),,96-105,96,105
+0022100905,2022-02-26,DET,BOS,45.0,4,3,0,BOS,BOS,fg_miss,86,False,False,,MISS Tatum 13' Turnaround Fadeaway Shot,96-105,96,105
+0022100905,2022-02-26,DET,BOS,45.03,4,2,58,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:7),,96-105,96,105
+0022100905,2022-02-26,DET,BOS,45.15,4,2,51,DET,DET,fg3_miss,80,False,False,MISS Cunningham 27' 3PT Step Back Jump Shot,,96-105,96,105
+0022100905,2022-02-26,DET,BOS,45.17,4,2,50,DET,DET,reb,0,False,False,Bey REBOUND (Off:2 Def:5),,96-105,96,105
+0022100905,2022-02-26,DET,BOS,45.25,4,2,45,DET,DET,fg3_make,1,False,False,Joseph 24' 3PT Jump Shot (12 PTS) (Cunningham 3 AST),,99-105,99,105
+0022100905,2022-02-26,DET,BOS,45.63,4,2,22,BOS,BOS,fg_make,75,False,False,,Brown 2' Driving Finger Roll Layup (27 PTS),99-107,99,107
+0022100905,2022-02-26,DET,BOS,45.9,4,2,6,DET,DET,fg_miss,6,False,False,MISS Cunningham 3' Driving Layup,,99-107,99,107
+0022100905,2022-02-26,DET,BOS,45.93,4,2,4,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:1 Def:4),99-107,99,107
+0022100905,2022-02-26,DET,BOS,46.22,4,1,47,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 25' 3PT Jump Shot,99-107,99,107
+0022100905,2022-02-26,DET,BOS,46.23,4,1,46,DET,DET,reb,0,False,False,PISTONS Rebound,,99-107,99,107
+0022100905,2022-02-26,DET,BOS,46.38,4,1,37,DET,BOS,foul,1,False,False,,Brown P.FOUL (P4.PN) (R.Mott),99-107,99,107
+0022100905,2022-02-26,DET,BOS,46.38,4,1,37,DET,DET,ft_make,11,False,False,Stewart Free Throw 1 of 2 (8 PTS),,100-107,100,107
+0022100905,2022-02-26,DET,BOS,46.38,4,1,37,DET,DET,ft_make,12,False,False,Stewart Free Throw 2 of 2 (9 PTS),,101-107,101,107
+0022100905,2022-02-26,DET,BOS,46.78,4,1,13,BOS,BOS,fg_make,9,False,False,,Tatum 3' Driving Dunk (24 PTS) (Pritchard 6 AST),101-109,101,109
+0022100905,2022-02-26,DET,BOS,46.98,4,1,1,DET,DET,tov,2,False,True,Cunningham Lost Ball Turnover (P2.T13),,101-109,101,109
+0022100905,2022-02-26,DET,BOS,46.98,4,1,1,DET,BOS,steal,2,False,True,steal,steal,101-109,101,109
+0022100905,2022-02-26,DET,BOS,47.03,4,0,58,BOS,BOS,fg_make,74,False,False,,Pritchard 2' Running Reverse Layup (19 PTS) (Smart 7 AST),101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.03,4,0,58,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 6 Short 0),,101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.25,4,0,45,DET,DET,fg3_miss,1,False,False,MISS Cunningham 27' 3PT Jump Shot,,101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.28,4,0,43,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:3),101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.62,4,0,23,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 27' 3PT Jump Shot,101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.67,4,0,20,DET,DET,reb,0,False,False,Stewart REBOUND (Off:4 Def:6),,101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.73,4,0,16,DET,DET,tov,1,False,True,Stewart Bad Pass Turnover (P2.T14),,101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.73,4,0,16,DET,BOS,steal,1,False,True,steal,steal,101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.73,4,0,16,BOS,DET,foul,1,False,False,Joseph P.FOUL (P5.PN) (R.Mott),,101-111,101,111
+0022100905,2022-02-26,DET,BOS,47.73,4,0,16,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (25 PTS),101-112,101,112
+0022100905,2022-02-26,DET,BOS,47.73,4,0,16,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (26 PTS),101-113,101,113
+0022100905,2022-02-26,DET,BOS,47.83,4,0,10,DET,DET,fg_make,6,False,False,Joseph 3' Driving Layup (14 PTS),,103-113,103,113
+0022100905,2022-02-26,DET,BOS,47.83,4,0,10,DET,BOS,foul,2,False,False,,Horford S.FOUL (P4.PN) (R.Mott),103-113,103,113
+0022100905,2022-02-26,DET,BOS,47.83,4,0,10,DET,DET,ft_make,10,False,False,Joseph Free Throw 1 of 1 (15 PTS),,104-113,104,113
+0022100905,2022-02-26,DET,BOS,48.0,4,0,0,DET,,period_end,0,False,False,,,104-113,104,113

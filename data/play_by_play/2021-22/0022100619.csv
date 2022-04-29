@@ -1,0 +1,397 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100619,2022-01-12,PHI,CHA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100619,2022-01-12,PHI,CHA,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Plumlee: Tip to Hayward,,0-0,0,0
+0022100619,2022-01-12,PHI,CHA,0.4,1,11,36,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 24' 3PT Jump Shot,0-0,0,0
+0022100619,2022-01-12,PHI,CHA,0.48,1,11,31,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:1),,0-0,0,0
+0022100619,2022-01-12,PHI,CHA,0.68,1,11,19,PHI,PHI,fg_miss,101,False,False,MISS Harris 9' Driving Floating Jump Shot,,0-0,0,0
+0022100619,2022-01-12,PHI,CHA,0.72,1,11,17,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:1),0-0,0,0
+0022100619,2022-01-12,PHI,CHA,0.73,1,11,16,CHA,CHA,fg3_make,103,False,False,,Hayward 27' 3PT Running Pull-Up Jump Shot (3 PTS) (Rozier 1 AST),0-3,0,3
+0022100619,2022-01-12,PHI,CHA,1.07,1,10,56,PHI,PHI,fg_make,101,False,False,Maxey 10' Driving Floating Jump Shot (2 PTS) (Embiid 1 AST),,2-3,2,3
+0022100619,2022-01-12,PHI,CHA,1.32,1,10,41,CHA,PHI,steal,2,False,True,steal,steal,2-3,2,3
+0022100619,2022-01-12,PHI,CHA,1.32,1,10,41,CHA,CHA,tov,2,False,True,,Bridges Lost Ball Turnover (P1.T1),2-3,2,3
+0022100619,2022-01-12,PHI,CHA,1.38,1,10,37,PHI,CHA,foul,2,False,False,,Rozier S.FOUL (P1.T1) (D.Collins),2-3,2,3
+0022100619,2022-01-12,PHI,CHA,1.38,1,10,37,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (1 PTS),,3-3,3,3
+0022100619,2022-01-12,PHI,CHA,1.38,1,10,37,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (2 PTS),,4-3,4,3
+0022100619,2022-01-12,PHI,CHA,1.65,1,10,21,CHA,CHA,fg_make,101,False,False,,Rozier 6' Driving Floating Jump Shot (2 PTS),4-5,4,5
+0022100619,2022-01-12,PHI,CHA,1.97,1,10,2,PHI,PHI,fg3_make,1,False,False,Harris 3PT Jump Shot (3 PTS) (Curry 1 AST),,7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.32,1,9,41,CHA,CHA,fg_miss,101,False,False,,MISS Bridges 9' Driving Floating Jump Shot,7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.37,1,9,38,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.43,1,9,34,PHI,PHI,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.45,1,9,33,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.45,1,9,33,PHI,CHA,foul,2,False,False,,Hayward S.FOUL (P1.T2) (J.Ralls),7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.45,1,9,33,PHI,PHI,reb,1,False,False,76ERS Rebound,,7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.45,1,9,33,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (4 PTS),,8-5,8,5
+0022100619,2022-01-12,PHI,CHA,2.45,1,9,33,PHI,PHI,ft_miss,11,False,False,MISS Harris Free Throw 1 of 2,,7-5,7,5
+0022100619,2022-01-12,PHI,CHA,2.67,1,9,20,CHA,CHA,fg_make,73,False,False,,Ball 2' Driving Reverse Layup (2 PTS),8-7,8,7
+0022100619,2022-01-12,PHI,CHA,2.92,1,9,5,CHA,PHI,foul,26,False,False,Embiid Offensive Charge Foul (P1) (D.Collins),,8-7,8,7
+0022100619,2022-01-12,PHI,CHA,2.92,1,9,5,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P1.T1),,8-7,8,7
+0022100619,2022-01-12,PHI,CHA,3.13,1,8,52,CHA,CHA,fg_miss,79,False,False,,MISS Rozier 10' Pullup Jump Shot,8-7,8,7
+0022100619,2022-01-12,PHI,CHA,3.18,1,8,49,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:2),,8-7,8,7
+0022100619,2022-01-12,PHI,CHA,3.53,1,8,28,PHI,PHI,fg_miss,79,False,False,MISS Harris 11' Pullup Jump Shot,,8-7,8,7
+0022100619,2022-01-12,PHI,CHA,3.58,1,8,25,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:2),8-7,8,7
+0022100619,2022-01-12,PHI,CHA,3.68,1,8,19,CHA,CHA,fg3_make,1,False,False,,Bridges 27' 3PT Jump Shot (3 PTS) (Hayward 1 AST),8-10,8,10
+0022100619,2022-01-12,PHI,CHA,4.05,1,7,57,PHI,PHI,ft_make,10,False,False,Embiid Free Throw 1 of 1 (5 PTS),,11-10,11,10
+0022100619,2022-01-12,PHI,CHA,4.05,1,7,57,PHI,PHI,fg_make,47,False,False,Embiid 13' Turnaround Jump Shot (4 PTS),,10-10,10,10
+0022100619,2022-01-12,PHI,CHA,4.05,1,7,57,PHI,CHA,foul,2,False,False,,Plumlee S.FOUL (P1.T3) (J.Ralls),10-10,10,10
+0022100619,2022-01-12,PHI,CHA,4.2,1,7,48,CHA,CHA,fg_make,101,False,False,,Bridges 4' Driving Floating Jump Shot (5 PTS) (Ball 1 AST),11-12,11,12
+0022100619,2022-01-12,PHI,CHA,4.4,1,7,36,PHI,PHI,fg_miss,79,False,False,MISS Maxey 17' Pullup Jump Shot,,11-12,11,12
+0022100619,2022-01-12,PHI,CHA,4.45,1,7,33,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),11-12,11,12
+0022100619,2022-01-12,PHI,CHA,4.53,1,7,28,CHA,CHA,fg_make,103,False,False,,Ball 12' Running Pull-Up Jump Shot (4 PTS),11-14,11,14
+0022100619,2022-01-12,PHI,CHA,4.8,1,7,12,PHI,CHA,steal,1,False,True,steal,steal,11-14,11,14
+0022100619,2022-01-12,PHI,CHA,4.8,1,7,12,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P1.T2),,11-14,11,14
+0022100619,2022-01-12,PHI,CHA,4.85,1,7,9,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,11-16,11,16
+0022100619,2022-01-12,PHI,CHA,4.85,1,7,9,CHA,CHA,fg_make,50,False,False,,Hayward 3' Running Dunk (5 PTS) (Bridges 1 AST),11-16,11,16
+0022100619,2022-01-12,PHI,CHA,5.2,1,6,48,CHA,PHI,foul,4,False,False,Embiid OFF.Foul (P2) (J.Ralls),,11-16,11,16
+0022100619,2022-01-12,PHI,CHA,5.2,1,6,48,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P2.T3),,11-16,11,16
+0022100619,2022-01-12,PHI,CHA,5.4,1,6,36,CHA,CHA,fg_make,79,False,False,,Hayward 14' Pullup Jump Shot (7 PTS) (Bridges 2 AST),11-18,11,18
+0022100619,2022-01-12,PHI,CHA,5.77,1,6,14,PHI,PHI,fg3_make,80,False,False,Embiid 25' 3PT Step Back Jump Shot (8 PTS),,14-18,14,18
+0022100619,2022-01-12,PHI,CHA,5.93,1,6,4,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 30' 3PT Jump Shot,14-18,14,18
+0022100619,2022-01-12,PHI,CHA,5.95,1,6,3,PHI,PHI,reb,0,False,False,76ERS Rebound,,14-18,14,18
+0022100619,2022-01-12,PHI,CHA,6.23,1,5,46,PHI,PHI,fg_make,101,False,False,Embiid 7' Driving Floating Jump Shot (10 PTS),,16-18,16,18
+0022100619,2022-01-12,PHI,CHA,6.52,1,5,29,CHA,CHA,fg_make,79,False,False,,Hayward 15' Pullup Jump Shot (9 PTS) (Rozier 2 AST),16-20,16,20
+0022100619,2022-01-12,PHI,CHA,6.93,1,5,4,PHI,PHI,fg3_miss,79,False,False,MISS Embiid 26' 3PT Pullup Jump Shot,,16-20,16,20
+0022100619,2022-01-12,PHI,CHA,7.02,1,4,59,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),16-20,16,20
+0022100619,2022-01-12,PHI,CHA,7.13,1,4,52,CHA,CHA,fg_miss,101,False,False,,MISS Rozier 7' Driving Floating Jump Shot,16-20,16,20
+0022100619,2022-01-12,PHI,CHA,7.17,1,4,50,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:1),,16-20,16,20
+0022100619,2022-01-12,PHI,CHA,7.4,1,4,36,PHI,PHI,fg_make,6,False,False,Embiid 2' Driving Layup (12 PTS),,18-20,18,20
+0022100619,2022-01-12,PHI,CHA,7.58,1,4,25,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 27' 3PT Jump Shot,18-20,18,20
+0022100619,2022-01-12,PHI,CHA,7.62,1,4,23,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:1),,18-20,18,20
+0022100619,2022-01-12,PHI,CHA,7.77,1,4,14,PHI,PHI,fg_miss,79,False,False,MISS Embiid 16' Pullup Jump Shot,,18-20,18,20
+0022100619,2022-01-12,PHI,CHA,7.8,1,4,12,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),18-20,18,20
+0022100619,2022-01-12,PHI,CHA,7.95,1,4,3,CHA,PHI,foul,2,False,False,Curry S.FOUL (P1.T1) (D.Collins),,18-20,18,20
+0022100619,2022-01-12,PHI,CHA,7.95,1,4,3,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (5 PTS),18-21,18,21
+0022100619,2022-01-12,PHI,CHA,7.95,1,4,3,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (6 PTS),18-22,18,22
+0022100619,2022-01-12,PHI,CHA,8.17,1,3,50,PHI,PHI,fg3_make,79,False,False,Green 26' 3PT Pullup Jump Shot (3 PTS) (Curry 2 AST),,21-22,21,22
+0022100619,2022-01-12,PHI,CHA,8.48,1,3,31,CHA,CHA,fg_miss,102,False,False,,MISS Bridges 4' Driving Floating Bank Jump Shot,21-22,21,22
+0022100619,2022-01-12,PHI,CHA,8.53,1,3,28,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:2),,21-22,21,22
+0022100619,2022-01-12,PHI,CHA,8.6,1,3,24,PHI,CHA,block,101,True,False,block,block,21-22,21,22
+0022100619,2022-01-12,PHI,CHA,8.6,1,3,24,PHI,PHI,fg_miss,101,True,False,MISS Embiid 11' Driving Floating Jump Shot,,21-22,21,22
+0022100619,2022-01-12,PHI,CHA,8.62,1,3,23,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),21-22,21,22
+0022100619,2022-01-12,PHI,CHA,8.75,1,3,15,CHA,CHA,fg_make,71,False,False,,Rozier 3' Finger Roll Layup (4 PTS) (Hayward 2 AST),21-24,21,24
+0022100619,2022-01-12,PHI,CHA,8.98,1,3,1,PHI,CHA,foul,2,False,False,,Rozier S.FOUL (P2.T4) (N.Buchert),21-24,21,24
+0022100619,2022-01-12,PHI,CHA,8.98,1,3,1,CHA,PHI,ft_make,11,False,False,Korkmaz Free Throw 1 of 2 (1 PTS),,22-24,22,24
+0022100619,2022-01-12,PHI,CHA,8.98,1,3,1,CHA,PHI,ft_make,12,False,False,Korkmaz Free Throw 2 of 2 (2 PTS),,23-24,23,24
+0022100619,2022-01-12,PHI,CHA,8.98,1,3,1,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),21-24,21,24
+0022100619,2022-01-12,PHI,CHA,9.4,1,2,36,CHA,CHA,fg_miss,78,False,False,,MISS Washington 4' Floating Jump Shot,23-24,23,24
+0022100619,2022-01-12,PHI,CHA,9.47,1,2,32,CHA,CHA,fg_make,97,False,False,,Washington Tip Layup Shot (2 PTS),23-26,23,26
+0022100619,2022-01-12,PHI,CHA,9.47,1,2,32,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:0),23-26,23,26
+0022100619,2022-01-12,PHI,CHA,9.72,1,2,17,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P2.T4),,23-26,23,26
+0022100619,2022-01-12,PHI,CHA,9.72,1,2,17,PHI,CHA,steal,1,False,True,steal,steal,23-26,23,26
+0022100619,2022-01-12,PHI,CHA,9.8,1,2,12,CHA,CHA,fg_make,50,False,False,,McDaniels 1' Running Dunk (2 PTS) (Hayward 3 AST),23-28,23,28
+0022100619,2022-01-12,PHI,CHA,9.9,1,2,6,PHI,PHI,fg_make,76,False,False,Korkmaz 3' Running Finger Roll Layup (4 PTS),,25-28,25,28
+0022100619,2022-01-12,PHI,CHA,10.15,1,1,51,CHA,CHA,fg3_make,80,False,False,,Hayward 24' 3PT Step Back Jump Shot (12 PTS),25-31,25,31
+0022100619,2022-01-12,PHI,CHA,10.4,1,1,36,PHI,PHI,fg3_miss,79,False,False,MISS Korkmaz 27' 3PT Pullup Jump Shot,,25-31,25,31
+0022100619,2022-01-12,PHI,CHA,10.45,1,1,33,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:3),25-31,25,31
+0022100619,2022-01-12,PHI,CHA,10.5,1,1,30,CHA,CHA,tov,40,False,False,,Hayward Out of Bounds Lost Ball Turnover (P1.T2),25-31,25,31
+0022100619,2022-01-12,PHI,CHA,10.7,1,1,18,PHI,CHA,foul,1,False,False,,McDaniels P.FOUL (P1.PN) (J.Ralls),25-31,25,31
+0022100619,2022-01-12,PHI,CHA,10.7,1,1,18,PHI,PHI,ft_make,12,False,False,Green Free Throw 2 of 2 (4 PTS),,26-31,26,31
+0022100619,2022-01-12,PHI,CHA,10.7,1,1,18,PHI,PHI,reb,1,False,False,76ERS Rebound,,25-31,25,31
+0022100619,2022-01-12,PHI,CHA,10.7,1,1,18,PHI,PHI,ft_miss,11,False,False,MISS Green Free Throw 1 of 2,,25-31,25,31
+0022100619,2022-01-12,PHI,CHA,10.9,1,1,6,CHA,CHA,fg_miss,6,True,False,,MISS Ball 7' Driving Layup,26-31,26,31
+0022100619,2022-01-12,PHI,CHA,10.9,1,1,6,CHA,PHI,block,6,True,False,block,block,26-31,26,31
+0022100619,2022-01-12,PHI,CHA,10.93,1,1,4,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:2),,26-31,26,31
+0022100619,2022-01-12,PHI,CHA,11.0,1,1,0,PHI,PHI,fg3_make,1,False,False,Green 26' 3PT Jump Shot (7 PTS) (Maxey 1 AST),,29-31,29,31
+0022100619,2022-01-12,PHI,CHA,11.25,1,0,45,CHA,CHA,fg3_miss,1,False,False,,MISS McDaniels 28' 3PT Jump Shot,29-31,29,31
+0022100619,2022-01-12,PHI,CHA,11.27,1,0,44,PHI,PHI,reb,0,False,False,76ERS Rebound,,29-31,29,31
+0022100619,2022-01-12,PHI,CHA,11.43,1,0,34,PHI,PHI,fg3_make,79,False,False,Maxey 26' 3PT Pullup Jump Shot (5 PTS),,32-31,32,31
+0022100619,2022-01-12,PHI,CHA,11.75,1,0,15,CHA,CHA,fg3_make,79,False,False,,Hayward 28' 3PT Pullup Jump Shot (15 PTS) (Washington 1 AST),32-34,32,34
+0022100619,2022-01-12,PHI,CHA,11.95,1,0,3,PHI,PHI,fg3_make,79,False,False,Maxey 26' 3PT Pullup Jump Shot (8 PTS),,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.0,1,0,0,CHA,CHA,fg3_miss,2,False,False,,MISS Ball 38' 3PT Running Jump Shot,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.0,1,0,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.0,1,0,0,CHA,,period_end,0,False,False,,,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.0,2,12,0,CHA,,period_start,0,False,False,,,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.25,2,11,45,PHI,PHI,fg3_miss,1,False,False,MISS Niang 24' 3PT Jump Shot,,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.3,2,11,42,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:1),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.53,2,11,28,CHA,CHA,fg3_miss,79,False,False,,MISS Bridges 27' 3PT Pullup Jump Shot,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.58,2,11,25,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:1),,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.63,2,11,22,PHI,PHI,tov,39,False,False,Green Step Out of Bounds Turnover (P1.T5),,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.9,2,11,6,CHA,CHA,fg_miss,6,False,False,,MISS Rozier 3' Driving Layup,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.97,2,11,2,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:0),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.97,2,11,2,CHA,CHA,fg_miss,97,False,False,,MISS McDaniels Tip Layup Shot,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,12.98,2,11,1,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:2),,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.12,2,10,53,PHI,PHI,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.17,2,10,50,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.3,2,10,42,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 3PT Jump Shot,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.32,2,10,41,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:2 Def:1),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.37,2,10,38,CHA,CHA,fg3_miss,1,False,False,,MISS McDaniels 27' 3PT Jump Shot,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.45,2,10,33,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:1),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.48,2,10,31,CHA,CHA,fg3_miss,79,False,False,,MISS Washington 24' 3PT Pullup Jump Shot,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.57,2,10,26,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:1 Def:2),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.6,2,10,24,CHA,CHA,tov,40,False,False,,Washington Out of Bounds Lost Ball Turnover (P1.T3),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.78,2,10,13,PHI,PHI,fg_miss,79,False,False,MISS Korkmaz 9' Pullup Jump Shot,,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,13.82,2,10,11,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:2),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.02,2,9,59,CHA,CHA,tov,40,False,False,,Bridges Out of Bounds Lost Ball Turnover (P2.T4),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.25,2,9,45,PHI,PHI,fg_miss,63,False,False,MISS Maxey 13' Fadeaway Jumper,,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.3,2,9,42,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:1),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.37,2,9,38,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 27' 3PT Jump Shot,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.42,2,9,35,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:1),,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.63,2,9,22,PHI,PHI,fg_miss,6,True,False,MISS Green 2' Driving Layup,,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.63,2,9,22,PHI,CHA,block,6,True,False,block,block,35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.68,2,9,19,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:3),35-34,35,34
+0022100619,2022-01-12,PHI,CHA,14.7,2,9,18,CHA,CHA,ft_miss,10,False,False,,MISS Rozier Free Throw 1 of 1,35-36,35,36
+0022100619,2022-01-12,PHI,CHA,14.7,2,9,18,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,35-36,35,36
+0022100619,2022-01-12,PHI,CHA,14.7,2,9,18,CHA,PHI,foul,2,False,False,Harris S.FOUL (P1.T1) (J.Ralls),,35-36,35,36
+0022100619,2022-01-12,PHI,CHA,14.7,2,9,18,CHA,CHA,fg_make,41,False,False,,Rozier 3' Running Layup (6 PTS) (Washington 2 AST),35-36,35,36
+0022100619,2022-01-12,PHI,CHA,14.75,2,9,15,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:2),,35-36,35,36
+0022100619,2022-01-12,PHI,CHA,14.98,2,9,1,PHI,PHI,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,35-36,35,36
+0022100619,2022-01-12,PHI,CHA,15.03,2,8,58,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:4),35-36,35,36
+0022100619,2022-01-12,PHI,CHA,15.18,2,8,49,CHA,CHA,tov,4,False,False,,McDaniels Traveling Turnover (P1.T5),35-36,35,36
+0022100619,2022-01-12,PHI,CHA,15.32,2,8,41,PHI,PHI,fg3_miss,1,False,False,MISS Niang 26' 3PT Jump Shot,,35-36,35,36
+0022100619,2022-01-12,PHI,CHA,15.38,2,8,37,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:2),35-36,35,36
+0022100619,2022-01-12,PHI,CHA,15.52,2,8,29,CHA,CHA,ft_make,10,False,False,,Martin Free Throw 1 of 1 (3 PTS),35-39,35,39
+0022100619,2022-01-12,PHI,CHA,15.52,2,8,29,CHA,PHI,foul,2,False,False,Niang S.FOUL (P1.T2) (N.Buchert),,35-38,35,38
+0022100619,2022-01-12,PHI,CHA,15.52,2,8,29,CHA,CHA,fg_make,6,False,False,,Martin 4' Driving Layup (2 PTS),35-38,35,38
+0022100619,2022-01-12,PHI,CHA,15.75,2,8,15,PHI,PHI,fg_miss,101,False,False,MISS Maxey 3' Driving Floating Jump Shot,,35-39,35,39
+0022100619,2022-01-12,PHI,CHA,15.77,2,8,14,PHI,PHI,reb,0,False,False,76ERS Rebound,,35-39,35,39
+0022100619,2022-01-12,PHI,CHA,15.83,2,8,10,PHI,PHI,fg_make,47,False,False,Korkmaz 9' Turnaround Jump Shot (6 PTS) (Maxey 2 AST),,37-39,37,39
+0022100619,2022-01-12,PHI,CHA,16.12,2,7,53,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 24' 3PT Jump Shot,37-39,37,39
+0022100619,2022-01-12,PHI,CHA,16.15,2,7,51,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:3),,37-39,37,39
+0022100619,2022-01-12,PHI,CHA,16.3,2,7,42,PHI,PHI,fg3_miss,79,False,False,MISS Maxey 29' 3PT Pullup Jump Shot,,37-39,37,39
+0022100619,2022-01-12,PHI,CHA,16.35,2,7,39,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),37-39,37,39
+0022100619,2022-01-12,PHI,CHA,16.6,2,7,24,CHA,CHA,fg_make,80,False,False,,Martin 17' Step Back Jump Shot (5 PTS),37-41,37,41
+0022100619,2022-01-12,PHI,CHA,16.95,2,7,3,PHI,PHI,fg3_make,1,False,False,Niang 25' 3PT Jump Shot (3 PTS) (Korkmaz 1 AST),,40-41,40,41
+0022100619,2022-01-12,PHI,CHA,17.1,2,6,54,CHA,CHA,fg_make,6,False,False,,Rozier 4' Driving Layup (8 PTS),40-43,40,43
+0022100619,2022-01-12,PHI,CHA,17.32,2,6,41,PHI,PHI,fg_make,98,False,False,Maxey 2' Cutting Layup Shot (10 PTS) (Drummond 1 AST),,42-43,42,43
+0022100619,2022-01-12,PHI,CHA,17.48,2,6,31,CHA,PHI,foul,2,False,False,Drummond S.FOUL (P1.T3) (D.Collins),,42-43,42,43
+0022100619,2022-01-12,PHI,CHA,17.48,2,6,31,CHA,CHA,ft_make,13,False,False,,Martin Free Throw 1 of 3 (6 PTS),42-44,42,44
+0022100619,2022-01-12,PHI,CHA,17.48,2,6,31,CHA,CHA,ft_make,14,False,False,,Martin Free Throw 2 of 3 (7 PTS),42-45,42,45
+0022100619,2022-01-12,PHI,CHA,17.48,2,6,31,CHA,CHA,ft_make,15,False,False,,Martin Free Throw 3 of 3 (8 PTS),42-46,42,46
+0022100619,2022-01-12,PHI,CHA,17.75,2,6,15,PHI,PHI,tov,45,False,False,Embiid Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,42-46,42,46
+0022100619,2022-01-12,PHI,CHA,18.15,2,5,51,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#6),42-46,42,46
+0022100619,2022-01-12,PHI,CHA,18.53,2,5,28,PHI,PHI,fg_miss,3,False,False,MISS Harris 8' Hook Shot,,42-46,42,46
+0022100619,2022-01-12,PHI,CHA,18.57,2,5,26,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:1),,42-46,42,46
+0022100619,2022-01-12,PHI,CHA,18.6,2,5,24,PHI,PHI,fg_make,6,False,False,Harris 3' Driving Layup (6 PTS),,44-46,44,46
+0022100619,2022-01-12,PHI,CHA,18.83,2,5,10,CHA,CHA,fg_miss,3,False,False,,MISS Plumlee 5' Hook Shot,44-46,44,46
+0022100619,2022-01-12,PHI,CHA,18.88,2,5,7,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:2),,44-46,44,46
+0022100619,2022-01-12,PHI,CHA,19.07,2,4,56,PHI,CHA,foul,17,False,False,,Hornets T.Foul (Def. 3 Sec McDaniels ) (N.Buchert),44-46,44,46
+0022100619,2022-01-12,PHI,CHA,19.07,2,4,56,PHI,PHI,ft_miss,16,False,False,MISS Embiid Free Throw Technical,,44-46,44,46
+0022100619,2022-01-12,PHI,CHA,19.07,2,4,56,PHI,PHI,reb,1,False,False,76ERS Rebound,,44-46,44,46
+0022100619,2022-01-12,PHI,CHA,19.3,2,4,42,PHI,PHI,fg_make,58,False,False,Embiid 10' Turnaround Hook Shot (14 PTS) (Harris 1 AST),,46-46,46,46
+0022100619,2022-01-12,PHI,CHA,19.3,2,4,42,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),46-46,46,46
+0022100619,2022-01-12,PHI,CHA,19.67,2,4,20,CHA,CHA,fg_make,98,False,False,,Rozier 2' Cutting Layup Shot (10 PTS) (Plumlee 1 AST),46-48,46,48
+0022100619,2022-01-12,PHI,CHA,19.95,2,4,3,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P3.T7),,46-48,46,48
+0022100619,2022-01-12,PHI,CHA,19.95,2,4,3,PHI,CHA,steal,1,False,True,steal,steal,46-48,46,48
+0022100619,2022-01-12,PHI,CHA,20.03,2,3,58,CHA,CHA,fg_make,50,False,False,,Plumlee 1' Running Dunk (2 PTS) (Hayward 4 AST),46-50,46,50
+0022100619,2022-01-12,PHI,CHA,20.37,2,3,38,PHI,PHI,fg_make,102,False,False,Curry 6' Driving Floating Bank Jump Shot (2 PTS),,48-50,48,50
+0022100619,2022-01-12,PHI,CHA,20.58,2,3,25,CHA,CHA,fg_make,6,False,False,,Bridges Driving Layup (7 PTS) (Plumlee 2 AST),48-52,48,52
+0022100619,2022-01-12,PHI,CHA,20.95,2,3,3,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 24' 3PT Jump Shot,,48-52,48,52
+0022100619,2022-01-12,PHI,CHA,21.02,2,2,59,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),48-52,48,52
+0022100619,2022-01-12,PHI,CHA,21.23,2,2,46,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,48-52,48,52
+0022100619,2022-01-12,PHI,CHA,21.27,2,2,44,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:3),,48-52,48,52
+0022100619,2022-01-12,PHI,CHA,21.4,2,2,36,PHI,PHI,fg_miss,101,False,False,MISS Maxey 8' Driving Floating Jump Shot,,48-52,48,52
+0022100619,2022-01-12,PHI,CHA,21.43,2,2,34,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),48-52,48,52
+0022100619,2022-01-12,PHI,CHA,21.52,2,2,29,CHA,CHA,fg_make,74,False,False,,Hayward 2' Running Reverse Layup (17 PTS) (Rozier 3 AST),48-54,48,54
+0022100619,2022-01-12,PHI,CHA,21.82,2,2,11,PHI,PHI,ft_miss,12,False,False,MISS Embiid Free Throw 2 of 2,,48-54,48,54
+0022100619,2022-01-12,PHI,CHA,21.82,2,2,11,PHI,CHA,foul,2,False,False,,Plumlee S.FOUL (P2.T1) (J.Ralls),48-54,48,54
+0022100619,2022-01-12,PHI,CHA,21.82,2,2,11,PHI,PHI,ft_miss,11,False,False,MISS Embiid Free Throw 1 of 2,,48-54,48,54
+0022100619,2022-01-12,PHI,CHA,21.82,2,2,11,PHI,PHI,reb,1,False,False,76ERS Rebound,,48-54,48,54
+0022100619,2022-01-12,PHI,CHA,21.87,2,2,8,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:1),48-54,48,54
+0022100619,2022-01-12,PHI,CHA,22.12,2,1,53,CHA,CHA,fg3_make,79,False,False,,Bridges 26' 3PT Pullup Jump Shot (10 PTS) (Ball 2 AST),48-57,48,57
+0022100619,2022-01-12,PHI,CHA,22.42,2,1,35,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P4.T8),,48-57,48,57
+0022100619,2022-01-12,PHI,CHA,22.42,2,1,35,PHI,CHA,steal,2,False,True,steal,steal,48-57,48,57
+0022100619,2022-01-12,PHI,CHA,22.47,2,1,32,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,48-59,48,59
+0022100619,2022-01-12,PHI,CHA,22.47,2,1,32,CHA,CHA,fg_make,41,False,False,,Hayward 1' Running Layup (19 PTS) (Rozier 4 AST),48-59,48,59
+0022100619,2022-01-12,PHI,CHA,22.78,2,1,13,PHI,PHI,fg_miss,105,False,False,MISS Harris 5' Turnaround Fadeaway Bank Jump Shot,,48-59,48,59
+0022100619,2022-01-12,PHI,CHA,22.83,2,1,10,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:2),48-59,48,59
+0022100619,2022-01-12,PHI,CHA,23.0,2,1,0,CHA,CHA,fg3_make,1,False,False,,Hayward 26' 3PT Jump Shot (22 PTS) (Plumlee 3 AST),48-62,48,62
+0022100619,2022-01-12,PHI,CHA,23.18,2,0,49,PHI,CHA,foul,1,False,False,,Plumlee P.FOUL (P3.T2) (N.Buchert),48-62,48,62
+0022100619,2022-01-12,PHI,CHA,23.38,2,0,37,PHI,PHI,fg_make,86,False,False,Embiid 10' Turnaround Fadeaway (16 PTS) (Curry 3 AST),,50-62,50,62
+0022100619,2022-01-12,PHI,CHA,23.48,2,0,31,CHA,CHA,fg_make,6,False,False,,Bridges 2' Driving Layup (12 PTS) (Ball 3 AST),50-64,50,64
+0022100619,2022-01-12,PHI,CHA,23.92,2,0,5,PHI,PHI,fg_miss,75,False,False,MISS Maxey 1' Driving Finger Roll Layup,,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,23.98,2,0,1,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:5),50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.0,3,12,0,CHA,,period_start,0,False,False,,,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.0,2,0,0,CHA,,period_end,0,False,False,,,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.32,3,11,41,CHA,PHI,foul,26,False,False,Embiid Offensive Charge Foul (P3) (N.Buchert),,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.32,3,11,41,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P5.T9),,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.53,3,11,28,CHA,CHA,fg_miss,86,False,False,,MISS Hayward 11' Turnaround Fadeaway Shot,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.58,3,11,25,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:3),,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.65,3,11,21,PHI,PHI,fg3_miss,79,False,False,MISS Harris 26' 3PT Pullup Jump Shot,,50-64,50,64
+0022100619,2022-01-12,PHI,CHA,24.7,3,11,18,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:4),50-64,50,64
+0022100619,2022-01-12,PHI,CHA,25.0,3,11,0,CHA,CHA,fg_make,108,False,False,,Plumlee 1' Cutting Dunk Shot (4 PTS) (Hayward 5 AST),50-66,50,66
+0022100619,2022-01-12,PHI,CHA,25.45,3,10,33,PHI,PHI,fg_miss,47,False,False,MISS Embiid 13' Turnaround Jump Shot,,50-66,50,66
+0022100619,2022-01-12,PHI,CHA,25.48,3,10,31,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:2),50-66,50,66
+0022100619,2022-01-12,PHI,CHA,25.6,3,10,24,CHA,CHA,fg_make,44,False,False,,Hayward 2' Reverse Layup (24 PTS) (Ball 4 AST),50-68,50,68
+0022100619,2022-01-12,PHI,CHA,25.8,3,10,12,PHI,PHI,tov,1,False,True,Harris Bad Pass Turnover (P1.T10),,50-68,50,68
+0022100619,2022-01-12,PHI,CHA,25.8,3,10,12,PHI,CHA,steal,1,False,True,steal,steal,50-68,50,68
+0022100619,2022-01-12,PHI,CHA,25.87,3,10,8,CHA,CHA,fg_make,41,False,False,,Hayward 1' Running Layup (26 PTS),50-70,50,70
+0022100619,2022-01-12,PHI,CHA,25.87,3,10,8,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,50-70,50,70
+0022100619,2022-01-12,PHI,CHA,26.08,3,9,55,PHI,PHI,fg_make,101,False,False,Harris 8' Driving Floating Jump Shot (8 PTS) (Maxey 3 AST),,52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.28,3,9,43,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 27' 3PT Jump Shot,52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.33,3,9,40,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:3),,52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.47,3,9,32,PHI,CHA,violation,5,False,False,,Hayward Violation:Kicked Ball (D.Collins),52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.63,3,9,22,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 27' 3PT Jump Shot,,52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.7,3,9,18,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:5),52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.75,3,9,15,CHA,CHA,fg_miss,41,True,False,,MISS Plumlee 2' Running Layup,52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.75,3,9,15,CHA,PHI,block,41,True,False,block,block,52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.82,3,9,11,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:4),,52-70,52,70
+0022100619,2022-01-12,PHI,CHA,26.9,3,9,6,PHI,PHI,fg3_make,79,False,False,Curry 27' 3PT Pullup Jump Shot (5 PTS),,55-70,55,70
+0022100619,2022-01-12,PHI,CHA,27.05,3,8,57,CHA,CHA,fg3_miss,80,False,False,,MISS Bridges 25' 3PT Step Back Jump Shot,55-70,55,70
+0022100619,2022-01-12,PHI,CHA,27.1,3,8,54,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:3),,55-70,55,70
+0022100619,2022-01-12,PHI,CHA,27.23,3,8,46,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (17 PTS),,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,27.23,3,8,46,PHI,PHI,reb,1,False,False,76ERS Rebound,,55-70,55,70
+0022100619,2022-01-12,PHI,CHA,27.23,3,8,46,PHI,PHI,ft_miss,11,False,False,MISS Embiid Free Throw 1 of 2,,55-70,55,70
+0022100619,2022-01-12,PHI,CHA,27.23,3,8,46,PHI,CHA,foul,2,False,False,,Plumlee S.FOUL (P4.T1) (N.Buchert),55-70,55,70
+0022100619,2022-01-12,PHI,CHA,27.5,3,8,30,CHA,CHA,fg_miss,101,False,False,,MISS Bridges 7' Driving Floating Jump Shot,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,27.53,3,8,28,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:5),,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,27.58,3,8,25,PHI,CHA,block,6,True,False,block,block,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,27.58,3,8,25,PHI,PHI,fg_miss,6,True,False,MISS Harris 7' Driving Layup,,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,27.63,3,8,22,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:3),56-70,56,70
+0022100619,2022-01-12,PHI,CHA,27.67,3,8,20,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,27.72,3,8,17,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,28.03,3,7,58,PHI,PHI,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,28.07,3,7,56,PHI,PHI,ft_make,10,False,False,Embiid Free Throw 1 of 1 (20 PTS),,59-70,59,70
+0022100619,2022-01-12,PHI,CHA,28.07,3,7,56,PHI,CHA,foul,2,False,False,,Washington S.FOUL (P1.T2) (J.Ralls),58-70,58,70
+0022100619,2022-01-12,PHI,CHA,28.07,3,7,56,PHI,PHI,fg_make,72,False,False,Embiid Putback Layup (19 PTS),,58-70,58,70
+0022100619,2022-01-12,PHI,CHA,28.07,3,7,56,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,56-70,56,70
+0022100619,2022-01-12,PHI,CHA,28.32,3,7,41,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 27' 3PT Jump Shot,59-70,59,70
+0022100619,2022-01-12,PHI,CHA,28.38,3,7,37,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:4),,59-70,59,70
+0022100619,2022-01-12,PHI,CHA,28.5,3,7,30,PHI,PHI,tov,37,False,False,Harris Offensive Foul Turnover (P2.T11),,59-70,59,70
+0022100619,2022-01-12,PHI,CHA,28.5,3,7,30,CHA,PHI,foul,4,False,False,Harris OFF.Foul (P2) (D.Collins),,59-70,59,70
+0022100619,2022-01-12,PHI,CHA,28.78,3,7,13,CHA,CHA,fg_make,79,False,False,,Rozier 17' Pullup Jump Shot (12 PTS),59-72,59,72
+0022100619,2022-01-12,PHI,CHA,29.13,3,6,52,PHI,CHA,foul,2,False,False,,Washington S.FOUL (P2.T3) (D.Collins),61-72,61,72
+0022100619,2022-01-12,PHI,CHA,29.13,3,6,52,PHI,PHI,fg_make,9,False,False,Embiid 1' Driving Dunk (22 PTS),,61-72,61,72
+0022100619,2022-01-12,PHI,CHA,29.13,3,6,52,PHI,PHI,ft_make,10,False,False,Embiid Free Throw 1 of 1 (23 PTS),,62-72,62,72
+0022100619,2022-01-12,PHI,CHA,29.38,3,6,37,CHA,CHA,fg_miss,79,False,False,,MISS Rozier 8' Pullup Jump Shot,62-72,62,72
+0022100619,2022-01-12,PHI,CHA,29.45,3,6,33,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,62-72,62,72
+0022100619,2022-01-12,PHI,CHA,29.48,3,6,31,PHI,PHI,fg3_make,103,False,False,Curry 27' 3PT Running Pull-Up Jump Shot (8 PTS),,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,29.5,3,6,30,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),65-72,65,72
+0022100619,2022-01-12,PHI,CHA,29.78,3,6,13,CHA,PHI,steal,1,False,True,steal,steal,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,29.78,3,6,13,CHA,CHA,tov,1,False,True,,Martin Bad Pass Turnover (P1.T7),65-72,65,72
+0022100619,2022-01-12,PHI,CHA,29.88,3,6,7,PHI,CHA,foul,1,False,False,,Washington P.FOUL (P3.T4) (N.Buchert),65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.17,3,5,50,PHI,PHI,fg_miss,63,False,False,MISS Embiid 7' Fadeaway Jumper,,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.22,3,5,47,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:5),65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.27,3,5,44,CHA,PHI,foul,1,False,False,Niang P.FOUL (P2.T1) (J.Ralls),,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.45,3,5,33,PHI,PHI,reb,0,False,False,76ERS Rebound,,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.45,3,5,33,CHA,CHA,fg_miss,79,False,False,,MISS Ball 17' Pullup Jump Shot,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.75,3,5,15,PHI,CHA,steal,1,False,True,steal,steal,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.75,3,5,15,PHI,PHI,tov,1,False,True,Niang Bad Pass Turnover (P1.T12),,65-72,65,72
+0022100619,2022-01-12,PHI,CHA,30.8,3,5,12,CHA,CHA,ft_make,10,False,False,,Ball Free Throw 1 of 1 (9 PTS),65-75,65,75
+0022100619,2022-01-12,PHI,CHA,30.8,3,5,12,CHA,CHA,fg_make,41,False,False,,Ball 1' Running Layup (8 PTS) (Martin 1 AST),65-74,65,74
+0022100619,2022-01-12,PHI,CHA,30.8,3,5,12,CHA,PHI,foul,2,False,False,Niang S.FOUL (P3.T2) (N.Buchert),,65-74,65,74
+0022100619,2022-01-12,PHI,CHA,31.22,3,4,47,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#13),,65-75,65,75
+0022100619,2022-01-12,PHI,CHA,31.38,3,4,37,CHA,PHI,foul,1,False,False,Niang P.FOUL (P4.T3) (N.Buchert),,65-75,65,75
+0022100619,2022-01-12,PHI,CHA,31.5,3,4,30,CHA,CHA,fg_make,80,False,False,,Hayward 9' Step Back Jump Shot (28 PTS),65-77,65,77
+0022100619,2022-01-12,PHI,CHA,31.73,3,4,16,PHI,PHI,fg_make,79,False,False,Curry 21' Pullup Jump Shot (10 PTS) (Niang 1 AST),,67-77,67,77
+0022100619,2022-01-12,PHI,CHA,31.83,3,4,10,PHI,CHA,foul,4,False,False,,Washington OFF.Foul (P4) (J.Ralls),67-77,67,77
+0022100619,2022-01-12,PHI,CHA,31.83,3,4,10,CHA,CHA,tov,37,False,False,,Washington Offensive Foul Turnover (P2.T8),67-77,67,77
+0022100619,2022-01-12,PHI,CHA,32.13,3,3,52,PHI,CHA,foul,2,False,False,,Washington S.FOUL (P5.PN) (N.Buchert),67-77,67,77
+0022100619,2022-01-12,PHI,CHA,32.13,3,3,52,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (24 PTS),,68-77,68,77
+0022100619,2022-01-12,PHI,CHA,32.13,3,3,52,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (25 PTS),,69-77,69,77
+0022100619,2022-01-12,PHI,CHA,32.25,3,3,45,CHA,PHI,foul,1,False,False,Niang P.FOUL (P5.T4) (J.Ralls),,69-77,69,77
+0022100619,2022-01-12,PHI,CHA,32.38,3,3,37,CHA,CHA,fg_make,79,False,False,,Rozier 15' Pullup Jump Shot (14 PTS) (Ball 5 AST),69-79,69,79
+0022100619,2022-01-12,PHI,CHA,32.67,3,3,20,PHI,PHI,fg_miss,6,False,False,MISS Curry 3' Driving Layup,,69-79,69,79
+0022100619,2022-01-12,PHI,CHA,32.7,3,3,18,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:6),69-79,69,79
+0022100619,2022-01-12,PHI,CHA,32.98,3,3,1,CHA,CHA,fg_make,43,False,False,,Plumlee 1' Alley Oop Layup (6 PTS) (Ball 6 AST),69-81,69,81
+0022100619,2022-01-12,PHI,CHA,33.17,3,2,50,PHI,PHI,tov,45,False,False,Embiid Out of Bounds - Bad Pass Turnover Turnover (P6.T14),,69-81,69,81
+0022100619,2022-01-12,PHI,CHA,33.4,3,2,36,CHA,CHA,fg_make,101,False,False,,Ball 11' Driving Floating Jump Shot (11 PTS) (Hayward 6 AST),69-83,69,83
+0022100619,2022-01-12,PHI,CHA,33.6,3,2,24,PHI,CHA,steal,2,False,True,steal,steal,69-83,69,83
+0022100619,2022-01-12,PHI,CHA,33.6,3,2,24,PHI,PHI,tov,2,False,True,Harris Lost Ball Turnover (P3.T15),,69-83,69,83
+0022100619,2022-01-12,PHI,CHA,33.67,3,2,20,CHA,CHA,fg_make,76,False,False,,Rozier 1' Running Finger Roll Layup (16 PTS),69-85,69,85
+0022100619,2022-01-12,PHI,CHA,33.67,3,2,20,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,69-85,69,85
+0022100619,2022-01-12,PHI,CHA,34.02,3,1,59,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (10 PTS),,71-85,71,85
+0022100619,2022-01-12,PHI,CHA,34.02,3,1,59,PHI,CHA,foul,2,False,False,,Bridges S.FOUL (P1.PN) (J.Ralls),69-85,69,85
+0022100619,2022-01-12,PHI,CHA,34.02,3,1,59,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (9 PTS),,70-85,70,85
+0022100619,2022-01-12,PHI,CHA,34.28,3,1,43,CHA,CHA,fg_miss,86,False,False,,MISS Hayward 14' Turnaround Fadeaway Shot,71-85,71,85
+0022100619,2022-01-12,PHI,CHA,34.33,3,1,40,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:4),,71-85,71,85
+0022100619,2022-01-12,PHI,CHA,34.6,3,1,24,PHI,PHI,fg3_make,1,False,False,Korkmaz 28' 3PT Jump Shot (9 PTS) (Harris 2 AST),,74-85,74,85
+0022100619,2022-01-12,PHI,CHA,34.92,3,1,5,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 24' 3PT Jump Shot,74-85,74,85
+0022100619,2022-01-12,PHI,CHA,34.95,3,1,3,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:5),,74-85,74,85
+0022100619,2022-01-12,PHI,CHA,35.07,3,0,56,PHI,PHI,ft_miss,12,False,False,MISS Drummond Free Throw 2 of 2,,74-85,74,85
+0022100619,2022-01-12,PHI,CHA,35.07,3,0,56,PHI,PHI,reb,1,False,False,76ERS Rebound,,74-85,74,85
+0022100619,2022-01-12,PHI,CHA,35.07,3,0,56,PHI,PHI,ft_miss,11,False,False,MISS Drummond Free Throw 1 of 2,,74-85,74,85
+0022100619,2022-01-12,PHI,CHA,35.07,3,0,56,PHI,CHA,foul,1,False,False,,Martin P.FOUL (P1.PN) (D.Collins),74-85,74,85
+0022100619,2022-01-12,PHI,CHA,35.1,3,0,54,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:1 Def:3),74-85,74,85
+0022100619,2022-01-12,PHI,CHA,35.3,3,0,42,CHA,CHA,tov,45,False,False,,Hayward Out of Bounds - Bad Pass Turnover Turnover (P2.T9),74-85,74,85
+0022100619,2022-01-12,PHI,CHA,35.57,3,0,26,PHI,PHI,fg_make,79,False,False,Harris 4' Pullup Jump Shot (12 PTS) (Joe 1 AST),,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,35.95,3,0,3,CHA,CHA,fg_miss,102,False,False,,MISS Bridges 11' Driving Floating Bank Jump Shot,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,35.97,3,0,2,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#10),76-85,76,85
+0022100619,2022-01-12,PHI,CHA,35.97,3,0,2,CHA,CHA,reb,0,False,False,,Hornets Rebound,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,35.98,3,0,1,PHI,PHI,reb,0,False,False,76ERS Rebound,,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,35.98,3,0,1,PHI,PHI,fg3_miss,79,False,False,MISS Joe 44' 3PT Pullup Jump Shot,,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,36.0,4,12,0,PHI,,period_start,0,False,False,,,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,36.0,3,0,0,PHI,,period_end,0,False,False,,,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,36.23,4,11,46,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P1.T11),76-85,76,85
+0022100619,2022-01-12,PHI,CHA,36.23,4,11,46,CHA,PHI,steal,1,False,True,steal,steal,76-85,76,85
+0022100619,2022-01-12,PHI,CHA,36.57,4,11,26,PHI,PHI,fg3_make,79,False,False,Korkmaz 26' 3PT Pullup Jump Shot (12 PTS) (Harris 3 AST),,79-85,79,85
+0022100619,2022-01-12,PHI,CHA,36.98,4,11,1,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,79-85,79,85
+0022100619,2022-01-12,PHI,CHA,37.05,4,10,57,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:2 Def:2),79-85,79,85
+0022100619,2022-01-12,PHI,CHA,37.08,4,10,55,CHA,CHA,fg3_make,1,False,False,,Martin 24' 3PT Jump Shot (11 PTS) (McDaniels 1 AST),79-88,79,88
+0022100619,2022-01-12,PHI,CHA,37.35,4,10,39,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,79-88,79,88
+0022100619,2022-01-12,PHI,CHA,37.4,4,10,36,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:2),79-88,79,88
+0022100619,2022-01-12,PHI,CHA,37.58,4,10,25,CHA,CHA,fg_make,101,False,False,,Ball 20' Driving Floating Jump Shot (13 PTS),79-90,79,90
+0022100619,2022-01-12,PHI,CHA,37.82,4,10,11,PHI,CHA,steal,2,False,True,steal,steal,79-90,79,90
+0022100619,2022-01-12,PHI,CHA,37.82,4,10,11,PHI,PHI,tov,2,False,True,Drummond Lost Ball Turnover (P1.T16),,79-90,79,90
+0022100619,2022-01-12,PHI,CHA,38.0,4,10,0,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,79-90,79,90
+0022100619,2022-01-12,PHI,CHA,38.05,4,9,57,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:6),,79-90,79,90
+0022100619,2022-01-12,PHI,CHA,38.08,4,9,55,PHI,PHI,ft_make,12,False,False,Korkmaz Free Throw 2 of 2 (14 PTS),,81-90,81,90
+0022100619,2022-01-12,PHI,CHA,38.08,4,9,55,PHI,PHI,ft_make,11,False,False,Korkmaz Free Throw 1 of 2 (13 PTS),,80-90,80,90
+0022100619,2022-01-12,PHI,CHA,38.08,4,9,55,PHI,CHA,foul,2,False,False,,Bridges S.FOUL (P2.T1) (D.Collins),79-90,79,90
+0022100619,2022-01-12,PHI,CHA,38.42,4,9,35,CHA,CHA,fg_make,101,False,False,,McDaniels 6' Driving Floating Jump Shot (4 PTS) (Martin 2 AST),81-92,81,92
+0022100619,2022-01-12,PHI,CHA,38.6,4,9,24,PHI,PHI,fg_make,9,False,False,Drummond 1' Driving Dunk (2 PTS),,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.0,4,9,0,CHA,CHA,fg3_miss,80,False,False,,MISS Bridges 26' 3PT Step Back Jump Shot,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.07,4,8,56,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:7),,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.22,4,8,47,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.27,4,8,44,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:3),83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.47,4,8,32,CHA,CHA,tov,37,False,False,,Bridges Offensive Foul Turnover (P3.T12),83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.47,4,8,32,PHI,CHA,foul,26,False,False,,Bridges Offensive Charge Foul (P3) (J.Ralls),83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.63,4,8,22,PHI,PHI,fg_miss,79,False,False,MISS Maxey 9' Pullup Jump Shot,,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.68,4,8,19,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:4),83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.82,4,8,11,CHA,CHA,fg3_miss,79,False,False,,MISS Ball 26' 3PT Pullup Jump Shot,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,39.87,4,8,8,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:5),,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,40.13,4,7,52,PHI,PHI,fg_miss,44,False,False,MISS Drummond 2' Reverse Layup,,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,40.17,4,7,50,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:6),83-92,83,92
+0022100619,2022-01-12,PHI,CHA,40.22,4,7,47,CHA,PHI,foul,28,False,False,Korkmaz Personal Take Foul (P1.T1) (N.Buchert),,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,40.4,4,7,36,CHA,PHI,block,6,True,False,block,block,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,40.4,4,7,36,CHA,CHA,fg_miss,6,True,False,,MISS Bridges 4' Driving Layup,83-92,83,92
+0022100619,2022-01-12,PHI,CHA,40.48,4,7,31,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:6),83-92,83,92
+0022100619,2022-01-12,PHI,CHA,40.48,4,7,31,CHA,CHA,fg_make,87,False,False,,Bridges Putback Dunk (14 PTS),83-94,83,94
+0022100619,2022-01-12,PHI,CHA,40.77,4,7,14,PHI,CHA,foul,1,False,False,,Rozier P.FOUL (P3.T2) (D.Collins),83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.02,4,6,59,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 6 Short 0),,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.02,4,6,59,PHI,PHI,fg_miss,6,False,False,MISS Maxey 5' Driving Layup,,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.02,4,6,59,PHI,PHI,reb,0,False,False,76ERS Rebound,,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.17,4,6,50,PHI,PHI,ft_miss,12,False,False,MISS Drummond Free Throw 2 of 2,,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.17,4,6,50,PHI,PHI,reb,1,False,False,76ERS Rebound,,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.17,4,6,50,PHI,PHI,ft_miss,11,False,False,MISS Drummond Free Throw 1 of 2,,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.17,4,6,50,PHI,CHA,foul,2,False,False,,Bridges S.FOUL (P4.T3) (J.Ralls),83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.22,4,6,47,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:4),83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.52,4,6,29,PHI,CHA,foul,3,False,False,,Plumlee L.B.FOUL (P5.T4) (N.Buchert),83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.52,4,6,29,PHI,PHI,reb,0,False,False,76ERS Rebound,,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.52,4,6,29,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 3PT Jump Shot,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.83,4,6,10,PHI,PHI,fg3_miss,1,False,False,MISS Maxey 27' 3PT Jump Shot,,83-94,83,94
+0022100619,2022-01-12,PHI,CHA,41.92,4,6,5,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:3),83-94,83,94
+0022100619,2022-01-12,PHI,CHA,42.12,4,5,53,CHA,CHA,fg_make,79,False,False,,Hayward 14' Pullup Jump Shot (30 PTS),83-96,83,96
+0022100619,2022-01-12,PHI,CHA,42.28,4,5,43,PHI,PHI,fg_make,79,False,False,Harris 15' Pullup Jump Shot (14 PTS) (Embiid 2 AST),,85-96,85,96
+0022100619,2022-01-12,PHI,CHA,42.62,4,5,23,CHA,CHA,fg_miss,102,False,False,,MISS Hayward 6' Driving Floating Bank Jump Shot,85-96,85,96
+0022100619,2022-01-12,PHI,CHA,42.67,4,5,20,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:8),,85-96,85,96
+0022100619,2022-01-12,PHI,CHA,42.87,4,5,8,PHI,PHI,fg3_make,1,False,False,Harris 29' 3PT Jump Shot (17 PTS) (Embiid 3 AST),,88-96,88,96
+0022100619,2022-01-12,PHI,CHA,42.9,4,5,6,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.4 Short 0),88-96,88,96
+0022100619,2022-01-12,PHI,CHA,43.17,4,4,50,CHA,CHA,fg3_make,79,False,False,,Rozier 27' 3PT Pullup Jump Shot (19 PTS) (Ball 7 AST),88-99,88,99
+0022100619,2022-01-12,PHI,CHA,43.48,4,4,31,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (26 PTS),,89-99,89,99
+0022100619,2022-01-12,PHI,CHA,43.48,4,4,31,PHI,PHI,reb,0,False,False,76ERS Rebound,,88-99,88,99
+0022100619,2022-01-12,PHI,CHA,43.48,4,4,31,PHI,PHI,fg3_miss,79,False,False,MISS Curry 26' 3PT Pullup Jump Shot,,88-99,88,99
+0022100619,2022-01-12,PHI,CHA,43.48,4,4,31,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (27 PTS),,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,43.48,4,4,31,PHI,CHA,foul,3,False,False,,Hayward L.B.FOUL (P2.PN) (J.Ralls),88-99,88,99
+0022100619,2022-01-12,PHI,CHA,43.88,4,4,7,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 29' 3PT Pullup Jump Shot,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,43.93,4,4,4,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:6),,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.2,4,3,48,PHI,CHA,steal,2,False,True,steal,steal,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.2,4,3,48,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Washington: Tip to Ball,,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.2,4,3,48,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P7.T17),,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.38,4,3,37,CHA,CHA,fg3_miss,79,False,False,,MISS Ball 27' 3PT Pullup Jump Shot,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.4,4,3,36,PHI,PHI,reb,0,False,False,76ERS Rebound,,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.77,4,3,14,PHI,PHI,fg_miss,86,False,False,MISS Embiid 10' Turnaround Fadeaway Shot,,90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.8,4,3,12,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:7),90-99,90,99
+0022100619,2022-01-12,PHI,CHA,44.85,4,3,9,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.5 Short 0),90-99,90,99
+0022100619,2022-01-12,PHI,CHA,45.07,4,2,56,CHA,CHA,fg3_make,1,False,False,,Bridges 24' 3PT Jump Shot (17 PTS) (Hayward 7 AST),90-102,90,102
+0022100619,2022-01-12,PHI,CHA,45.55,4,2,27,PHI,PHI,fg_make,75,False,False,Embiid 1' Driving Finger Roll Layup (29 PTS) (Harris 4 AST),,92-102,92,102
+0022100619,2022-01-12,PHI,CHA,45.88,4,2,7,CHA,CHA,fg_make,52,False,False,,Bridges 1' Alley Oop Dunk (19 PTS) (Ball 8 AST),92-104,92,104
+0022100619,2022-01-12,PHI,CHA,46.08,4,1,55,PHI,PHI,fg_make,7,False,False,Embiid 1' Dunk (31 PTS) (Harris 5 AST),,94-104,94,104
+0022100619,2022-01-12,PHI,CHA,46.48,4,1,31,CHA,CHA,fg_make,75,False,False,,Bridges 2' Driving Finger Roll Layup (21 PTS),94-106,94,106
+0022100619,2022-01-12,PHI,CHA,46.58,4,1,25,PHI,PHI,fg3_miss,79,False,False,MISS Embiid 28' 3PT Pullup Jump Shot,,94-106,94,106
+0022100619,2022-01-12,PHI,CHA,46.67,4,1,20,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:7),94-106,94,106
+0022100619,2022-01-12,PHI,CHA,46.95,4,1,3,CHA,CHA,fg_miss,93,False,False,,MISS Ball 4' Driving Bank Hook Shot,94-106,94,106
+0022100619,2022-01-12,PHI,CHA,46.97,4,1,2,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,94-106,94,106
+0022100619,2022-01-12,PHI,CHA,46.98,4,1,1,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 7 Short 0),,94-106,94,106
+0022100619,2022-01-12,PHI,CHA,47.27,4,0,44,PHI,PHI,fg_make,1,False,False,Bassey 5' Jump Shot (2 PTS),,96-106,96,106
+0022100619,2022-01-12,PHI,CHA,47.62,4,0,23,CHA,CHA,fg3_make,79,False,False,,Rozier 26' 3PT Pullup Jump Shot (22 PTS),96-109,96,109
+0022100619,2022-01-12,PHI,CHA,47.78,4,0,13,PHI,PHI,fg_make,75,False,False,Powell 1' Driving Finger Roll Layup (2 PTS),,98-109,98,109
+0022100619,2022-01-12,PHI,CHA,48.0,4,0,0,PHI,,period_end,0,False,False,,,98-109,98,109

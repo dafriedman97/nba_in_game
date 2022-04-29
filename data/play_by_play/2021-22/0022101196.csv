@@ -1,0 +1,461 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101196,2022-04-07,CHA,ORL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101196,2022-04-07,CHA,ORL,0.0,1,12,0,,CHA,jump_ball,0,False,False,Jump Ball Plumlee vs. Bamba: Tip to Fultz,,0-0,0,0
+0022101196,2022-04-07,CHA,ORL,0.22,1,11,47,ORL,ORL,fg_miss,98,True,False,,MISS Wagner 4' Cutting Layup Shot,0-0,0,0
+0022101196,2022-04-07,CHA,ORL,0.22,1,11,47,ORL,CHA,block,98,True,False,block,block,0-0,0,0
+0022101196,2022-04-07,CHA,ORL,0.22,1,11,47,CHA,CHA,reb,0,False,False,HORNETS Rebound,,0-0,0,0
+0022101196,2022-04-07,CHA,ORL,0.58,1,11,25,CHA,CHA,fg_miss,6,False,False,MISS Bridges 5' Driving Layup,,0-0,0,0
+0022101196,2022-04-07,CHA,ORL,0.65,1,11,21,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:0),,0-0,0,0
+0022101196,2022-04-07,CHA,ORL,0.65,1,11,21,CHA,CHA,fg_make,97,False,False,Plumlee Tip Layup Shot (2 PTS),,2-0,2,0
+0022101196,2022-04-07,CHA,ORL,0.77,1,11,14,ORL,ORL,tov,40,False,False,,Suggs Out of Bounds Lost Ball Turnover (P1.T1),2-0,2,0
+0022101196,2022-04-07,CHA,ORL,1.03,1,10,58,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 26' 3PT Jump Shot,,2-0,2,0
+0022101196,2022-04-07,CHA,ORL,1.08,1,10,55,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:1),2-0,2,0
+0022101196,2022-04-07,CHA,ORL,1.23,1,10,46,ORL,ORL,fg_make,73,False,False,,Fultz 3' Driving Reverse Layup (2 PTS),2-2,2,2
+0022101196,2022-04-07,CHA,ORL,1.47,1,10,32,CHA,CHA,fg_make,5,False,False,Washington 2' Layup (2 PTS) (Rozier 1 AST),,4-2,4,2
+0022101196,2022-04-07,CHA,ORL,1.62,1,10,23,ORL,CHA,foul,1,False,False,Plumlee P.FOUL (P1.T1) (B.Barnaky),,4-2,4,2
+0022101196,2022-04-07,CHA,ORL,1.78,1,10,13,ORL,ORL,fg_make,79,False,False,,Fultz 19' Pullup Jump Shot (4 PTS),4-4,4,4
+0022101196,2022-04-07,CHA,ORL,2.07,1,9,56,CHA,ORL,foul,1,False,False,,Bamba P.FOUL (P1.T1) (B.Barnaky),4-4,4,4
+0022101196,2022-04-07,CHA,ORL,2.17,1,9,50,CHA,CHA,fg3_miss,1,False,False,MISS Ball 26' 3PT Jump Shot,,4-4,4,4
+0022101196,2022-04-07,CHA,ORL,2.23,1,9,46,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:0 Def:2),4-4,4,4
+0022101196,2022-04-07,CHA,ORL,2.42,1,9,35,ORL,ORL,fg_make,9,False,False,,Okeke 1' Driving Dunk (2 PTS) (Bamba 1 AST),4-6,4,6
+0022101196,2022-04-07,CHA,ORL,2.48,1,9,31,ORL,CHA,foul,26,False,False,Plumlee Offensive Charge Foul (P2) (R.Mott),,4-6,4,6
+0022101196,2022-04-07,CHA,ORL,2.48,1,9,31,CHA,CHA,tov,37,False,False,Plumlee Offensive Foul Turnover (P1.T1),,4-6,4,6
+0022101196,2022-04-07,CHA,ORL,2.68,1,9,19,ORL,ORL,tov,40,False,False,,Fultz Out of Bounds Lost Ball Turnover (P1.T2),4-6,4,6
+0022101196,2022-04-07,CHA,ORL,2.98,1,9,1,CHA,CHA,fg3_miss,1,False,False,MISS Ball 26' 3PT Jump Shot,,4-6,4,6
+0022101196,2022-04-07,CHA,ORL,3.03,1,8,58,ORL,ORL,reb,0,False,False,,Okeke REBOUND (Off:0 Def:1),4-6,4,6
+0022101196,2022-04-07,CHA,ORL,3.28,1,8,43,ORL,ORL,fg_make,79,False,False,,Okeke 13' Pullup Jump Shot (4 PTS) (Bamba 2 AST),4-8,4,8
+0022101196,2022-04-07,CHA,ORL,3.4,1,8,36,CHA,ORL,foul,2,False,False,,Suggs S.FOUL (P1.T2) (B.Schwab),4-8,4,8
+0022101196,2022-04-07,CHA,ORL,3.4,1,8,36,CHA,CHA,ft_make,11,False,False,Plumlee Free Throw 1 of 2 (3 PTS),,5-8,5,8
+0022101196,2022-04-07,CHA,ORL,3.4,1,8,36,CHA,CHA,ft_make,12,False,False,Plumlee Free Throw 2 of 2 (4 PTS),,6-8,6,8
+0022101196,2022-04-07,CHA,ORL,3.73,1,8,16,ORL,ORL,fg3_make,79,False,False,,Suggs 26' 3PT Pullup Jump Shot (3 PTS),6-11,6,11
+0022101196,2022-04-07,CHA,ORL,3.95,1,8,3,CHA,CHA,tov,2,False,True,Washington Lost Ball Turnover (P1.T2),,6-11,6,11
+0022101196,2022-04-07,CHA,ORL,3.95,1,8,3,CHA,ORL,steal,2,False,True,steal,steal,6-11,6,11
+0022101196,2022-04-07,CHA,ORL,4.03,1,7,58,ORL,ORL,fg_make,98,False,False,,Bamba 1' Cutting Layup Shot (2 PTS) (Suggs 1 AST),6-13,6,13
+0022101196,2022-04-07,CHA,ORL,4.2,1,7,48,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,6-13,6,13
+0022101196,2022-04-07,CHA,ORL,4.25,1,7,45,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:0 Def:1),6-13,6,13
+0022101196,2022-04-07,CHA,ORL,4.35,1,7,39,ORL,ORL,fg3_miss,1,False,False,,MISS Bamba 26' 3PT Jump Shot,6-13,6,13
+0022101196,2022-04-07,CHA,ORL,4.4,1,7,36,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,6-13,6,13
+0022101196,2022-04-07,CHA,ORL,4.47,1,7,32,CHA,CHA,fg3_make,1,False,False,Ball 31' 3PT Jump Shot (3 PTS) (Rozier 2 AST),,9-13,9,13
+0022101196,2022-04-07,CHA,ORL,4.5,1,7,30,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.1 Short 0),9-13,9,13
+0022101196,2022-04-07,CHA,ORL,4.73,1,7,16,ORL,ORL,tov,2,False,True,,Schofield Lost Ball Turnover (P1.T3),9-13,9,13
+0022101196,2022-04-07,CHA,ORL,4.73,1,7,16,ORL,CHA,steal,2,False,True,steal,steal,9-13,9,13
+0022101196,2022-04-07,CHA,ORL,4.88,1,7,7,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 25' 3PT Jump Shot,,9-13,9,13
+0022101196,2022-04-07,CHA,ORL,4.92,1,7,5,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:0 Def:1),9-13,9,13
+0022101196,2022-04-07,CHA,ORL,5.1,1,6,54,ORL,ORL,fg_make,6,False,False,,Fultz 2' Driving Layup (6 PTS),9-15,9,15
+0022101196,2022-04-07,CHA,ORL,5.25,1,6,45,CHA,ORL,foul,2,False,False,,Hampton S.FOUL (P1.T3) (B.Barnaky),9-15,9,15
+0022101196,2022-04-07,CHA,ORL,5.25,1,6,45,CHA,CHA,ft_miss,11,False,False,MISS Washington Free Throw 1 of 2,,9-15,9,15
+0022101196,2022-04-07,CHA,ORL,5.25,1,6,45,CHA,CHA,reb,1,False,False,HORNETS Rebound,,9-15,9,15
+0022101196,2022-04-07,CHA,ORL,5.25,1,6,45,CHA,CHA,ft_make,12,False,False,Washington Free Throw 2 of 2 (3 PTS),,10-15,10,15
+0022101196,2022-04-07,CHA,ORL,5.48,1,6,31,ORL,ORL,fg_miss,6,True,False,,MISS Fultz 7' Driving Layup,10-15,10,15
+0022101196,2022-04-07,CHA,ORL,5.48,1,6,31,ORL,CHA,block,6,True,False,block,block,10-15,10,15
+0022101196,2022-04-07,CHA,ORL,5.48,1,6,31,ORL,ORL,reb,0,False,False,,Magic Rebound,10-15,10,15
+0022101196,2022-04-07,CHA,ORL,5.65,1,6,21,ORL,ORL,fg_make,73,False,False,,Fultz 2' Driving Reverse Layup (8 PTS),10-17,10,17
+0022101196,2022-04-07,CHA,ORL,5.83,1,6,10,CHA,CHA,fg_make,75,False,False,Ball 2' Driving Finger Roll Layup (5 PTS),,12-17,12,17
+0022101196,2022-04-07,CHA,ORL,6.08,1,5,55,ORL,ORL,fg_miss,63,False,False,,MISS Fultz 7' Fadeaway Jumper,12-17,12,17
+0022101196,2022-04-07,CHA,ORL,6.12,1,5,53,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:1),,12-17,12,17
+0022101196,2022-04-07,CHA,ORL,6.3,1,5,42,CHA,CHA,fg_make,9,False,False,Washington 1' Driving Dunk (5 PTS) (Rozier 3 AST),,14-17,14,17
+0022101196,2022-04-07,CHA,ORL,6.65,1,5,21,ORL,ORL,fg3_make,1,False,False,,Wagner 26' 3PT Jump Shot (3 PTS) (Fultz 1 AST),14-20,14,20
+0022101196,2022-04-07,CHA,ORL,6.93,1,5,4,CHA,CHA,fg_miss,6,True,False,MISS Bridges 3' Driving Layup,,14-20,14,20
+0022101196,2022-04-07,CHA,ORL,6.93,1,5,4,CHA,ORL,block,6,True,False,block,block,14-20,14,20
+0022101196,2022-04-07,CHA,ORL,7.0,1,5,0,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:0 Def:1),14-20,14,20
+0022101196,2022-04-07,CHA,ORL,7.08,1,4,55,ORL,ORL,fg3_miss,1,False,False,,MISS Okeke 27' 3PT Jump Shot,14-20,14,20
+0022101196,2022-04-07,CHA,ORL,7.13,1,4,52,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,14-20,14,20
+0022101196,2022-04-07,CHA,ORL,7.32,1,4,41,CHA,CHA,fg_make,101,False,False,Ball 15' Driving Floating Jump Shot (7 PTS),,16-20,16,20
+0022101196,2022-04-07,CHA,ORL,7.57,1,4,26,ORL,ORL,fg3_miss,1,False,False,,MISS Wagner 26' 3PT Jump Shot,16-20,16,20
+0022101196,2022-04-07,CHA,ORL,7.62,1,4,23,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:1),,16-20,16,20
+0022101196,2022-04-07,CHA,ORL,7.7,1,4,18,CHA,CHA,fg_make,50,False,False,Martin 1' Running Dunk (2 PTS),,18-20,18,20
+0022101196,2022-04-07,CHA,ORL,8.02,1,3,59,ORL,ORL,fg_make,108,False,False,,Wagner 2' Cutting Dunk Shot (5 PTS) (Okeke 1 AST),18-22,18,22
+0022101196,2022-04-07,CHA,ORL,8.02,1,3,59,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,18-22,18,22
+0022101196,2022-04-07,CHA,ORL,8.35,1,3,39,CHA,CHA,fg_miss,6,False,False,MISS Rozier 4' Driving Layup,,18-22,18,22
+0022101196,2022-04-07,CHA,ORL,8.42,1,3,35,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:1 Def:1),,18-22,18,22
+0022101196,2022-04-07,CHA,ORL,8.42,1,3,35,CHA,CHA,fg_make,97,False,False,Rozier Tip Layup Shot (2 PTS),,20-22,20,22
+0022101196,2022-04-07,CHA,ORL,8.67,1,3,20,ORL,ORL,tov,1,False,True,,Hampton Bad Pass Turnover (P1.T4),20-22,20,22
+0022101196,2022-04-07,CHA,ORL,8.67,1,3,20,ORL,CHA,steal,1,False,True,steal,steal,20-22,20,22
+0022101196,2022-04-07,CHA,ORL,8.77,1,3,14,CHA,CHA,fg_make,41,False,False,Martin Running Layup (4 PTS) (McDaniels 1 AST),,22-22,22,22
+0022101196,2022-04-07,CHA,ORL,9.12,1,2,53,ORL,ORL,fg_miss,79,False,False,,MISS Cannady 17' Pullup Jump Shot,22-22,22,22
+0022101196,2022-04-07,CHA,ORL,9.13,1,2,52,CHA,CHA,reb,0,False,False,HORNETS Rebound,,22-22,22,22
+0022101196,2022-04-07,CHA,ORL,9.4,1,2,36,CHA,CHA,fg_make,79,False,False,Rozier 14' Pullup Jump Shot (4 PTS) (Harrell 1 AST),,24-22,24,22
+0022101196,2022-04-07,CHA,ORL,9.58,1,2,25,ORL,ORL,fg3_miss,79,False,False,,MISS Hampton 26' 3PT Pullup Jump Shot,24-22,24,22
+0022101196,2022-04-07,CHA,ORL,9.63,1,2,22,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,24-22,24,22
+0022101196,2022-04-07,CHA,ORL,9.72,1,2,17,CHA,CHA,fg_make,5,False,False,Harrell 2' Layup (2 PTS) (Oubre Jr. 1 AST),,26-22,26,22
+0022101196,2022-04-07,CHA,ORL,9.72,1,2,17,CHA,ORL,foul,2,False,False,,Lopez S.FOUL (P1.T4) (B.Schwab),26-22,26,22
+0022101196,2022-04-07,CHA,ORL,9.72,1,2,17,CHA,CHA,ft_miss,10,False,False,MISS Harrell Free Throw 1 of 1,,26-22,26,22
+0022101196,2022-04-07,CHA,ORL,9.83,1,2,10,ORL,ORL,reb,0,False,False,,Schofield REBOUND (Off:0 Def:1),26-22,26,22
+0022101196,2022-04-07,CHA,ORL,9.95,1,2,3,ORL,CHA,foul,2,False,False,Oubre Jr. S.FOUL (P1.T2) (B.Schwab),,26-22,26,22
+0022101196,2022-04-07,CHA,ORL,9.95,1,2,3,ORL,ORL,ft_make,11,False,False,,Brazdeikis Free Throw 1 of 2 (1 PTS),26-23,26,23
+0022101196,2022-04-07,CHA,ORL,9.95,1,2,3,ORL,ORL,ft_make,12,False,False,,Brazdeikis Free Throw 2 of 2 (2 PTS),26-24,26,24
+0022101196,2022-04-07,CHA,ORL,10.15,1,1,51,CHA,CHA,fg_make,6,False,False,McDaniels 1' Driving Layup (2 PTS),,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.43,1,1,34,ORL,ORL,fg_miss,6,False,False,,MISS Brazdeikis 5' Driving Layup,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.47,1,1,32,ORL,ORL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:0),28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.52,1,1,29,ORL,ORL,fg3_miss,1,False,False,,MISS Cannady 26' 3PT Jump Shot,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.62,1,1,23,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.65,1,1,21,CHA,CHA,fg3_miss,63,False,False,MISS Rozier 25' 3PT Fadeaway Jumper,,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.7,1,1,18,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:0 Def:2),28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.88,1,1,7,ORL,ORL,fg_miss,79,False,False,,MISS Hampton 14' Pullup Jump Shot,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.92,1,1,5,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:1 Def:2),,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,10.98,1,1,1,CHA,CHA,fg3_miss,79,False,False,MISS Rozier 26' 3PT Pullup Jump Shot,,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,11.03,1,0,58,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:0 Def:3),28-24,28,24
+0022101196,2022-04-07,CHA,ORL,11.32,1,0,41,ORL,ORL,fg_miss,3,False,False,,MISS Lopez 6' Hook Shot,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,11.37,1,0,38,CHA,CHA,reb,0,False,False,McDaniels REBOUND (Off:0 Def:1),,28-24,28,24
+0022101196,2022-04-07,CHA,ORL,11.47,1,0,32,CHA,ORL,foul,2,False,False,,Lopez S.FOUL (P2.PN) (B.Schwab),28-24,28,24
+0022101196,2022-04-07,CHA,ORL,11.47,1,0,32,CHA,CHA,ft_make,11,False,False,Harrell Free Throw 1 of 2 (3 PTS),,29-24,29,24
+0022101196,2022-04-07,CHA,ORL,11.47,1,0,32,CHA,CHA,ft_make,12,False,False,Harrell Free Throw 2 of 2 (4 PTS),,30-24,30,24
+0022101196,2022-04-07,CHA,ORL,11.77,1,0,14,ORL,CHA,foul,2,False,False,Harrell S.FOUL (P1.T3) (B.Schwab),,30-24,30,24
+0022101196,2022-04-07,CHA,ORL,11.77,1,0,14,ORL,ORL,ft_make,11,False,False,,Brazdeikis Free Throw 1 of 2 (3 PTS),30-25,30,25
+0022101196,2022-04-07,CHA,ORL,11.77,1,0,14,ORL,ORL,ft_miss,12,False,False,,MISS Brazdeikis Free Throw 2 of 2,30-25,30,25
+0022101196,2022-04-07,CHA,ORL,11.78,1,0,13,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:0 Def:1),,30-25,30,25
+0022101196,2022-04-07,CHA,ORL,11.97,1,0,2,CHA,CHA,fg3_miss,80,False,False,MISS Ball 25' 3PT Step Back Jump Shot,,30-25,30,25
+0022101196,2022-04-07,CHA,ORL,11.97,1,0,2,ORL,ORL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:1),30-25,30,25
+0022101196,2022-04-07,CHA,ORL,12.0,1,0,0,ORL,ORL,fg3_make,79,False,False,,Hampton 31' 3PT Pullup Jump Shot (3 PTS) (Lopez 1 AST),30-28,30,28
+0022101196,2022-04-07,CHA,ORL,12.0,1,0,0,ORL,,period_end,0,False,False,,,30-28,30,28
+0022101196,2022-04-07,CHA,ORL,12.0,2,12,0,ORL,,period_start,0,False,False,,,30-28,30,28
+0022101196,2022-04-07,CHA,ORL,12.2,2,11,48,CHA,CHA,fg_make,51,False,False,Harrell 2' Reverse Dunk (6 PTS) (Washington 1 AST),,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.4,2,11,36,ORL,ORL,fg_miss,6,False,False,,MISS Schofield 3' Driving Layup,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.4,2,11,36,ORL,ORL,reb,0,False,False,,Magic Rebound,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.4,2,11,36,ORL,CHA,foul,3,False,False,Ball L.B.FOUL (P1.T1) (B.Barnaky),,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.47,2,11,32,ORL,CHA,foul,1,False,False,McDaniels P.FOUL (P1.T2) (B.Schwab),,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.7,2,11,18,ORL,ORL,tov,1,False,True,,Schofield Bad Pass Turnover (P2.T5),32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.7,2,11,18,ORL,CHA,steal,1,False,True,steal,steal,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.8,2,11,12,CHA,CHA,fg_miss,6,False,False,MISS Ball 3' Driving Layup,,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.83,2,11,10,ORL,ORL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:2),32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.9,2,11,6,ORL,ORL,fg3_miss,1,False,False,,MISS Brazdeikis 27' 3PT Jump Shot,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,12.97,2,11,2,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:2),,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.05,2,10,57,CHA,ORL,foul,1,False,False,,Cannady P.FOUL (P1.T1) (R.Mott),32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.17,2,10,50,CHA,CHA,fg_miss,6,False,False,MISS Oubre Jr. 3' Driving Layup,,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.22,2,10,47,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:0 Def:1),32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.3,2,10,42,ORL,ORL,fg_miss,5,True,False,,MISS Schofield 2' Layup,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.3,2,10,42,ORL,CHA,block,5,True,False,block,block,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.3,2,10,42,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:1),,32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.42,2,10,35,CHA,ORL,foul,2,False,False,,Schofield S.FOUL (P1.T2) (B.Barnaky),32-28,32,28
+0022101196,2022-04-07,CHA,ORL,13.42,2,10,35,CHA,CHA,ft_make,11,False,False,Ball Free Throw 1 of 2 (8 PTS),,33-28,33,28
+0022101196,2022-04-07,CHA,ORL,13.42,2,10,35,CHA,CHA,ft_make,12,False,False,Ball Free Throw 2 of 2 (9 PTS),,34-28,34,28
+0022101196,2022-04-07,CHA,ORL,13.8,2,10,12,ORL,ORL,fg_miss,3,False,False,,MISS Lopez 7' Hook Shot,34-28,34,28
+0022101196,2022-04-07,CHA,ORL,13.85,2,10,9,ORL,ORL,reb,0,False,False,,Schofield REBOUND (Off:1 Def:1),34-28,34,28
+0022101196,2022-04-07,CHA,ORL,13.85,2,10,9,ORL,ORL,fg_miss,97,False,False,,MISS Schofield Tip Layup Shot,34-28,34,28
+0022101196,2022-04-07,CHA,ORL,13.88,2,10,7,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:2),,34-28,34,28
+0022101196,2022-04-07,CHA,ORL,14.15,2,9,51,CHA,CHA,fg_make,73,False,False,Harrell 1' Driving Reverse Layup (8 PTS) (Ball 1 AST),,36-28,36,28
+0022101196,2022-04-07,CHA,ORL,14.27,2,9,44,ORL,ORL,fg_make,98,False,False,,Brazdeikis 2' Cutting Layup Shot (5 PTS) (Cannady 1 AST),36-30,36,30
+0022101196,2022-04-07,CHA,ORL,14.53,2,9,28,CHA,CHA,fg3_make,1,False,False,Washington 25' 3PT Jump Shot (8 PTS) (Ball 2 AST),,39-30,39,30
+0022101196,2022-04-07,CHA,ORL,14.73,2,9,16,ORL,ORL,fg3_miss,1,False,False,,MISS Cannady 25' 3PT Jump Shot,39-30,39,30
+0022101196,2022-04-07,CHA,ORL,14.78,2,9,13,CHA,CHA,reb,0,False,False,McDaniels REBOUND (Off:0 Def:2),,39-30,39,30
+0022101196,2022-04-07,CHA,ORL,14.88,2,9,7,CHA,CHA,fg3_make,1,False,False,Ball 25' 3PT Jump Shot (12 PTS) (McDaniels 2 AST),,42-30,42,30
+0022101196,2022-04-07,CHA,ORL,14.88,2,9,7,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.2 Short 0),42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.07,2,8,56,ORL,ORL,fg_miss,79,False,False,,MISS Fultz 16' Pullup Jump Shot,42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.1,2,8,54,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:3),,42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.23,2,8,46,CHA,CHA,fg3_miss,1,False,False,MISS Oubre Jr. 26' 3PT Jump Shot,,42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.28,2,8,43,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:0 Def:2),42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.37,2,8,38,ORL,ORL,fg_miss,9,True,False,,MISS Brazdeikis 2' Driving Dunk,42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.37,2,8,38,ORL,CHA,block,9,True,False,block,block,42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.42,2,8,35,CHA,CHA,reb,0,False,False,McDaniels REBOUND (Off:0 Def:3),,42-30,42,30
+0022101196,2022-04-07,CHA,ORL,15.48,2,8,31,CHA,CHA,fg_make,41,False,False,McDaniels 1' Running Layup (4 PTS),,44-30,44,30
+0022101196,2022-04-07,CHA,ORL,15.88,2,8,7,ORL,ORL,fg_miss,6,True,False,,MISS Hampton 3' Driving Layup,44-30,44,30
+0022101196,2022-04-07,CHA,ORL,15.88,2,8,7,ORL,CHA,block,6,True,False,block,block,44-30,44,30
+0022101196,2022-04-07,CHA,ORL,15.93,2,8,4,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:3),,44-30,44,30
+0022101196,2022-04-07,CHA,ORL,16.05,2,7,57,CHA,ORL,foul,2,False,False,,Brazdeikis S.FOUL (P1.T3) (R.Mott),44-30,44,30
+0022101196,2022-04-07,CHA,ORL,16.05,2,7,57,CHA,CHA,ft_make,11,False,False,Oubre Jr. Free Throw 1 of 2 (1 PTS),,45-30,45,30
+0022101196,2022-04-07,CHA,ORL,16.05,2,7,57,CHA,CHA,ft_make,12,False,False,Oubre Jr. Free Throw 2 of 2 (2 PTS),,46-30,46,30
+0022101196,2022-04-07,CHA,ORL,16.3,2,7,42,ORL,ORL,fg3_miss,1,False,False,,MISS Suggs 25' 3PT Jump Shot,46-30,46,30
+0022101196,2022-04-07,CHA,ORL,16.33,2,7,40,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:4),,46-30,46,30
+0022101196,2022-04-07,CHA,ORL,16.47,2,7,32,CHA,CHA,fg_make,3,False,False,Harrell 1' Hook Shot (10 PTS) (Ball 3 AST),,48-30,48,30
+0022101196,2022-04-07,CHA,ORL,16.72,2,7,17,ORL,ORL,tov,2,False,True,,Fultz Lost Ball Turnover (P2.T6),48-30,48,30
+0022101196,2022-04-07,CHA,ORL,16.72,2,7,17,ORL,CHA,steal,2,False,True,steal,steal,48-30,48,30
+0022101196,2022-04-07,CHA,ORL,16.82,2,7,11,CHA,CHA,fg_make,5,False,False,Oubre Jr. 1' Layup (4 PTS) (Ball 4 AST),,50-30,50,30
+0022101196,2022-04-07,CHA,ORL,17.18,2,6,49,ORL,ORL,fg3_make,1,False,False,,Brazdeikis 3PT Jump Shot (8 PTS) (Suggs 2 AST),50-33,50,33
+0022101196,2022-04-07,CHA,ORL,17.45,2,6,33,CHA,CHA,fg3_miss,1,False,False,MISS McDaniels 25' 3PT Jump Shot,,50-33,50,33
+0022101196,2022-04-07,CHA,ORL,17.48,2,6,31,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:4),,50-33,50,33
+0022101196,2022-04-07,CHA,ORL,17.48,2,6,31,CHA,ORL,foul,2,False,False,,Brazdeikis S.FOUL (P2.T4) (B.Schwab),50-33,50,33
+0022101196,2022-04-07,CHA,ORL,17.48,2,6,31,CHA,CHA,ft_make,11,False,False,Oubre Jr. Free Throw 1 of 2 (5 PTS),,51-33,51,33
+0022101196,2022-04-07,CHA,ORL,17.48,2,6,31,CHA,CHA,ft_make,12,False,False,Oubre Jr. Free Throw 2 of 2 (6 PTS),,52-33,52,33
+0022101196,2022-04-07,CHA,ORL,17.73,2,6,16,ORL,ORL,fg3_miss,1,False,False,,MISS Suggs 24' 3PT Jump Shot,52-33,52,33
+0022101196,2022-04-07,CHA,ORL,17.78,2,6,13,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:2),,52-33,52,33
+0022101196,2022-04-07,CHA,ORL,17.82,2,6,11,CHA,ORL,foul,2,False,False,,Okeke S.FOUL (P1.PN) (B.Barnaky),52-33,52,33
+0022101196,2022-04-07,CHA,ORL,17.82,2,6,11,CHA,CHA,ft_make,11,False,False,Bridges Free Throw 1 of 2 (1 PTS),,53-33,53,33
+0022101196,2022-04-07,CHA,ORL,17.82,2,6,11,CHA,CHA,ft_make,12,False,False,Bridges Free Throw 2 of 2 (2 PTS),,54-33,54,33
+0022101196,2022-04-07,CHA,ORL,18.0,2,6,0,ORL,ORL,fg_make,79,False,False,,Suggs 15' Pullup Jump Shot (5 PTS) (Fultz 2 AST),54-35,54,35
+0022101196,2022-04-07,CHA,ORL,18.2,2,5,48,CHA,CHA,fg_make,5,False,False,Harrell 2' Layup (12 PTS) (Ball 5 AST),,56-35,56,35
+0022101196,2022-04-07,CHA,ORL,18.48,2,5,31,ORL,ORL,fg_miss,6,True,False,,MISS Fultz 5' Driving Layup,56-35,56,35
+0022101196,2022-04-07,CHA,ORL,18.48,2,5,31,ORL,CHA,block,6,True,False,block,block,56-35,56,35
+0022101196,2022-04-07,CHA,ORL,18.48,2,5,31,ORL,ORL,reb,0,False,False,,Magic Rebound,56-35,56,35
+0022101196,2022-04-07,CHA,ORL,18.52,2,5,29,ORL,ORL,tov,1,False,True,,Fultz Bad Pass Turnover (P3.T7),56-35,56,35
+0022101196,2022-04-07,CHA,ORL,18.52,2,5,29,ORL,CHA,steal,1,False,True,steal,steal,56-35,56,35
+0022101196,2022-04-07,CHA,ORL,18.57,2,5,26,CHA,CHA,tov,45,False,False,Washington Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,56-35,56,35
+0022101196,2022-04-07,CHA,ORL,18.9,2,5,6,ORL,ORL,fg3_make,1,False,False,,Okeke 3PT Jump Shot (7 PTS) (Wagner 1 AST),56-38,56,38
+0022101196,2022-04-07,CHA,ORL,19.08,2,4,55,CHA,CHA,fg3_make,1,False,False,Oubre Jr. 26' 3PT Jump Shot (9 PTS) (Bridges 1 AST),,59-38,59,38
+0022101196,2022-04-07,CHA,ORL,19.33,2,4,40,ORL,CHA,foul,2,False,False,Rozier S.FOUL (P1.T3) (B.Barnaky),,59-38,59,38
+0022101196,2022-04-07,CHA,ORL,19.33,2,4,40,ORL,ORL,ft_make,11,False,False,,Wagner Free Throw 1 of 2 (6 PTS),59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.33,2,4,40,ORL,ORL,ft_miss,12,False,False,,MISS Wagner Free Throw 2 of 2,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.4,2,4,36,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:3),,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.58,2,4,25,CHA,ORL,foul,2,False,False,,Suggs S.FOUL (P2.PN) (R.Mott),59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.58,2,4,25,CHA,CHA,ft_miss,11,False,False,MISS Oubre Jr. Free Throw 1 of 2,,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.58,2,4,25,CHA,CHA,reb,1,False,False,HORNETS Rebound,,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.58,2,4,25,CHA,CHA,ft_miss,12,False,False,MISS Oubre Jr. Free Throw 2 of 2,,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.63,2,4,22,ORL,ORL,reb,0,False,False,,Suggs REBOUND (Off:0 Def:1),59-39,59,39
+0022101196,2022-04-07,CHA,ORL,19.7,2,4,18,ORL,CHA,foul,1,False,False,Oubre Jr. P.FOUL (P2.T4) (B.Barnaky),,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,20.02,2,3,59,ORL,ORL,fg3_miss,1,False,False,,MISS Okeke 3PT Jump Shot,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,20.05,2,3,57,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:4),,59-39,59,39
+0022101196,2022-04-07,CHA,ORL,20.17,2,3,50,CHA,CHA,fg_make,79,False,False,Rozier 11' Pullup Jump Shot (6 PTS),,61-39,61,39
+0022101196,2022-04-07,CHA,ORL,20.43,2,3,34,ORL,CHA,foul,2,False,False,Washington S.FOUL (P1.PN) (R.Mott),,61-39,61,39
+0022101196,2022-04-07,CHA,ORL,20.43,2,3,34,ORL,ORL,ft_make,11,False,False,,Wagner Free Throw 1 of 2 (7 PTS),61-40,61,40
+0022101196,2022-04-07,CHA,ORL,20.43,2,3,34,ORL,ORL,ft_make,12,False,False,,Wagner Free Throw 2 of 2 (8 PTS),61-41,61,41
+0022101196,2022-04-07,CHA,ORL,20.73,2,3,16,CHA,CHA,fg3_make,79,False,False,Rozier 25' 3PT Pullup Jump Shot (9 PTS),,64-41,64,41
+0022101196,2022-04-07,CHA,ORL,20.75,2,3,15,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.3 Short 0),64-41,64,41
+0022101196,2022-04-07,CHA,ORL,21.02,2,2,59,ORL,ORL,fg_make,9,False,False,,Wagner 1' Driving Dunk (10 PTS) (Fultz 3 AST),64-43,64,43
+0022101196,2022-04-07,CHA,ORL,21.33,2,2,40,CHA,CHA,fg_miss,6,False,False,MISS Bridges 4' Driving Layup,,64-43,64,43
+0022101196,2022-04-07,CHA,ORL,21.37,2,2,38,ORL,ORL,reb,0,False,False,,Okeke REBOUND (Off:0 Def:2),64-43,64,43
+0022101196,2022-04-07,CHA,ORL,21.48,2,2,31,ORL,ORL,fg_make,73,False,False,,Fultz 2' Driving Reverse Layup (10 PTS) (Okeke 2 AST),64-45,64,45
+0022101196,2022-04-07,CHA,ORL,21.62,2,2,23,CHA,CHA,fg_make,6,False,False,Rozier 1' Driving Layup (11 PTS),,66-45,66,45
+0022101196,2022-04-07,CHA,ORL,21.98,2,2,1,ORL,ORL,fg3_miss,80,False,False,,MISS Fultz 26' 3PT Step Back Jump Shot,66-45,66,45
+0022101196,2022-04-07,CHA,ORL,22.03,2,1,58,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:4),,66-45,66,45
+0022101196,2022-04-07,CHA,ORL,22.12,2,1,53,CHA,CHA,fg_make,41,False,False,Bridges 2' Running Layup (4 PTS),,68-45,68,45
+0022101196,2022-04-07,CHA,ORL,22.37,2,1,38,ORL,ORL,fg3_make,1,False,False,,Okeke 27' 3PT Jump Shot (10 PTS) (Brazdeikis 1 AST),68-48,68,48
+0022101196,2022-04-07,CHA,ORL,22.62,2,1,23,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,22.67,2,1,20,ORL,ORL,reb,0,False,False,,Okeke REBOUND (Off:0 Def:3),68-48,68,48
+0022101196,2022-04-07,CHA,ORL,22.82,2,1,11,ORL,ORL,fg3_miss,1,False,False,,MISS Okeke 28' 3PT Jump Shot,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,22.85,2,1,9,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:1 Def:3),,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,22.97,2,1,2,CHA,CHA,fg_miss,6,True,False,MISS Rozier 3' Driving Layup,,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,22.97,2,1,2,CHA,ORL,block,6,True,False,block,block,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.02,2,0,59,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:0 Def:3),68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.08,2,0,55,ORL,ORL,fg3_miss,1,False,False,,MISS Cannady 26' 3PT Jump Shot,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.15,2,0,51,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:1 Def:1),68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.33,2,0,40,ORL,ORL,tov,40,False,False,,Hampton Out of Bounds Lost Ball Turnover (P2.T8),68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.4,2,0,36,CHA,CHA,fg3_miss,103,False,False,MISS Ball 25' 3PT Running Pull-Up Jump Shot,,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.45,2,0,33,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:0 Def:2),68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.55,2,0,27,ORL,ORL,fg_miss,41,False,False,,MISS Brazdeikis 3' Running Layup,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.6,2,0,24,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:5),,68-48,68,48
+0022101196,2022-04-07,CHA,ORL,23.83,2,0,10,CHA,CHA,fg_make,9,False,False,Bridges 1' Driving Dunk (6 PTS),,70-48,70,48
+0022101196,2022-04-07,CHA,ORL,24.0,2,0,0,ORL,ORL,fg_miss,79,False,False,,MISS Hampton 9' Pullup Jump Shot,70-48,70,48
+0022101196,2022-04-07,CHA,ORL,24.0,2,0,0,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:3),70-48,70,48
+0022101196,2022-04-07,CHA,ORL,24.0,2,0,0,ORL,ORL,fg_make,63,False,False,,Hampton 14' Fadeaway Jumper (5 PTS),70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.0,2,0,0,ORL,,period_end,0,False,False,,,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.0,3,12,0,ORL,,period_start,0,False,False,,,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.07,3,11,56,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.13,3,11,52,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:0 Def:4),70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.27,3,11,44,ORL,ORL,fg3_miss,1,False,False,,MISS Cannady 26' 3PT Jump Shot,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.3,3,11,42,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:1),,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.48,3,11,31,CHA,CHA,fg3_miss,1,False,False,MISS Ball 33' 3PT Jump Shot,,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.57,3,11,26,ORL,ORL,reb,0,False,False,,Suggs REBOUND (Off:0 Def:2),70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.73,3,11,16,ORL,ORL,fg3_miss,1,False,False,,MISS Okeke 26' 3PT Jump Shot,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.8,3,11,12,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:1 Def:4),,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,24.87,3,11,8,CHA,ORL,violation,5,False,False,,Wagner Violation:Kicked Ball (B.Barnaky),70-50,70,50
+0022101196,2022-04-07,CHA,ORL,25.13,3,10,52,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 26' 3PT Jump Shot,,70-50,70,50
+0022101196,2022-04-07,CHA,ORL,25.18,3,10,49,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:1 Def:2),70-50,70,50
+0022101196,2022-04-07,CHA,ORL,25.28,3,10,43,ORL,ORL,fg3_make,1,False,False,,Wagner 26' 3PT Jump Shot (13 PTS) (Fultz 4 AST),70-53,70,53
+0022101196,2022-04-07,CHA,ORL,25.55,3,10,27,CHA,CHA,fg_miss,5,False,False,MISS Rozier 6' Layup,,70-53,70,53
+0022101196,2022-04-07,CHA,ORL,25.58,3,10,25,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:1 Def:3),70-53,70,53
+0022101196,2022-04-07,CHA,ORL,25.72,3,10,17,CHA,ORL,foul,4,False,False,,Wagner OFF.Foul (P1) (R.Mott),70-53,70,53
+0022101196,2022-04-07,CHA,ORL,25.72,3,10,17,ORL,ORL,tov,37,False,False,,Wagner Offensive Foul Turnover (P1.T9),70-53,70,53
+0022101196,2022-04-07,CHA,ORL,25.87,3,10,8,CHA,CHA,tov,45,False,False,Washington Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,70-53,70,53
+0022101196,2022-04-07,CHA,ORL,26.17,3,9,50,ORL,ORL,fg_make,63,False,False,,Fultz 6' Fadeaway Jumper (12 PTS),70-55,70,55
+0022101196,2022-04-07,CHA,ORL,26.33,3,9,40,CHA,CHA,fg_miss,6,False,False,MISS Ball 3' Driving Layup,,70-55,70,55
+0022101196,2022-04-07,CHA,ORL,26.38,3,9,37,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:2 Def:1),,70-55,70,55
+0022101196,2022-04-07,CHA,ORL,26.4,3,9,36,CHA,CHA,tov,1,False,True,Plumlee Bad Pass Turnover (P2.T5),,70-55,70,55
+0022101196,2022-04-07,CHA,ORL,26.4,3,9,36,CHA,ORL,steal,1,False,True,steal,steal,70-55,70,55
+0022101196,2022-04-07,CHA,ORL,26.52,3,9,29,ORL,ORL,fg3_make,1,False,False,,Cannady 3PT Jump Shot (3 PTS) (Okeke 3 AST),70-58,70,58
+0022101196,2022-04-07,CHA,ORL,26.52,3,9,29,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,26.78,3,9,13,CHA,CHA,tov,1,False,True,Ball Bad Pass Turnover (P1.T6),,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,26.78,3,9,13,CHA,ORL,steal,1,False,True,steal,steal,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,26.95,3,9,3,CHA,ORL,foul,4,False,False,,Wagner OFF.Foul (P2) (B.Barnaky),70-58,70,58
+0022101196,2022-04-07,CHA,ORL,26.95,3,9,3,ORL,ORL,tov,37,False,False,,Wagner Offensive Foul Turnover (P2.T10),70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.17,3,8,50,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 3PT Jump Shot,,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.22,3,8,47,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:0 Def:5),70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.27,3,8,44,ORL,ORL,fg_miss,41,True,False,,MISS Suggs 4' Running Layup,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.27,3,8,44,ORL,CHA,block,41,True,False,block,block,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.32,3,8,41,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:6),,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.38,3,8,37,CHA,CHA,fg3_miss,1,False,False,MISS Washington 25' 3PT Jump Shot,,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.4,3,8,36,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:2 Def:4),,70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.4,3,8,36,CHA,ORL,foul,2,False,False,,Wagner S.FOUL (P3.T1) (R.Mott),70-58,70,58
+0022101196,2022-04-07,CHA,ORL,27.4,3,8,36,CHA,CHA,ft_make,11,False,False,Rozier Free Throw 1 of 2 (12 PTS),,71-58,71,58
+0022101196,2022-04-07,CHA,ORL,27.4,3,8,36,CHA,CHA,ft_make,12,False,False,Rozier Free Throw 2 of 2 (13 PTS),,72-58,72,58
+0022101196,2022-04-07,CHA,ORL,27.6,3,8,24,ORL,ORL,tov,2,False,True,,Fultz Lost Ball Turnover (P4.T11),72-58,72,58
+0022101196,2022-04-07,CHA,ORL,27.6,3,8,24,ORL,CHA,steal,2,False,True,steal,steal,72-58,72,58
+0022101196,2022-04-07,CHA,ORL,27.67,3,8,20,CHA,CHA,fg_make,50,False,False,Ball 2' Running Dunk (14 PTS),,74-58,74,58
+0022101196,2022-04-07,CHA,ORL,27.95,3,8,3,ORL,ORL,fg3_miss,1,False,False,,MISS Cannady 3PT Jump Shot,74-58,74,58
+0022101196,2022-04-07,CHA,ORL,27.98,3,8,1,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:2 Def:2),,74-58,74,58
+0022101196,2022-04-07,CHA,ORL,28.02,3,7,59,CHA,CHA,tov,1,False,True,Ball Bad Pass Turnover (P2.T7),,74-58,74,58
+0022101196,2022-04-07,CHA,ORL,28.02,3,7,59,CHA,ORL,steal,1,False,True,steal,steal,74-58,74,58
+0022101196,2022-04-07,CHA,ORL,28.02,3,7,59,ORL,CHA,foul,1,False,False,Washington P.FOUL (P2.T1) (B.Barnaky),,74-58,74,58
+0022101196,2022-04-07,CHA,ORL,28.27,3,7,44,ORL,ORL,fg3_make,1,False,False,,Cannady 26' 3PT Jump Shot (6 PTS) (Suggs 3 AST),74-61,74,61
+0022101196,2022-04-07,CHA,ORL,28.58,3,7,25,CHA,CHA,fg_make,6,False,False,Bridges 2' Driving Layup (8 PTS),,76-61,76,61
+0022101196,2022-04-07,CHA,ORL,28.85,3,7,9,ORL,ORL,fg3_miss,1,True,False,,MISS Wagner 26' 3PT Jump Shot,76-61,76,61
+0022101196,2022-04-07,CHA,ORL,28.85,3,7,9,ORL,CHA,block,1,True,False,block,block,76-61,76,61
+0022101196,2022-04-07,CHA,ORL,28.92,3,7,5,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:3),,76-61,76,61
+0022101196,2022-04-07,CHA,ORL,28.98,3,7,1,CHA,ORL,foul,1,False,False,,Okeke P.FOUL (P2.T2) (B.Barnaky),76-61,76,61
+0022101196,2022-04-07,CHA,ORL,29.08,3,6,55,CHA,CHA,fg3_make,1,False,False,Rozier 24' 3PT Jump Shot (16 PTS) (Plumlee 1 AST),,79-61,79,61
+0022101196,2022-04-07,CHA,ORL,29.37,3,6,38,ORL,ORL,fg3_miss,1,False,False,,MISS Suggs 26' 3PT Jump Shot,79-61,79,61
+0022101196,2022-04-07,CHA,ORL,29.38,3,6,37,CHA,CHA,reb,0,False,False,HORNETS Rebound,,79-61,79,61
+0022101196,2022-04-07,CHA,ORL,29.38,3,6,37,CHA,ORL,foul,3,False,False,,Wagner L.B.FOUL (P4.T3) (B.Barnaky),79-61,79,61
+0022101196,2022-04-07,CHA,ORL,29.62,3,6,23,CHA,CHA,fg_make,75,False,False,Rozier 2' Driving Finger Roll Layup (18 PTS) (Bridges 2 AST),,81-61,81,61
+0022101196,2022-04-07,CHA,ORL,29.62,3,6,23,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.4 Short 0),81-61,81,61
+0022101196,2022-04-07,CHA,ORL,29.8,3,6,12,ORL,ORL,fg3_miss,1,False,False,,MISS Okeke 29' 3PT Jump Shot,81-61,81,61
+0022101196,2022-04-07,CHA,ORL,29.87,3,6,8,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:4),,81-61,81,61
+0022101196,2022-04-07,CHA,ORL,30.08,3,5,55,CHA,CHA,tov,1,False,True,Bridges Bad Pass Turnover (P1.T8),,81-61,81,61
+0022101196,2022-04-07,CHA,ORL,30.08,3,5,55,CHA,ORL,steal,1,False,True,steal,steal,81-61,81,61
+0022101196,2022-04-07,CHA,ORL,30.23,3,5,46,ORL,ORL,fg_make,6,False,False,,Brazdeikis 1' Driving Layup (10 PTS) (Fultz 5 AST),81-63,81,63
+0022101196,2022-04-07,CHA,ORL,30.58,3,5,25,CHA,CHA,fg3_make,1,False,False,Bridges 3PT Jump Shot (11 PTS) (Ball 6 AST),,84-63,84,63
+0022101196,2022-04-07,CHA,ORL,30.88,3,5,7,ORL,ORL,fg_make,9,False,False,,Okeke 1' Driving Dunk (12 PTS) (Fultz 6 AST),84-65,84,65
+0022101196,2022-04-07,CHA,ORL,31.25,3,4,45,CHA,CHA,fg_miss,6,False,False,MISS Ball 2' Driving Layup,,84-65,84,65
+0022101196,2022-04-07,CHA,ORL,31.28,3,4,43,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:3 Def:2),,84-65,84,65
+0022101196,2022-04-07,CHA,ORL,31.28,3,4,43,CHA,CHA,fg_miss,72,True,False,MISS Plumlee Putback Layup,,84-65,84,65
+0022101196,2022-04-07,CHA,ORL,31.28,3,4,43,CHA,ORL,block,72,True,False,block,block,84-65,84,65
+0022101196,2022-04-07,CHA,ORL,31.28,3,4,43,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:4),84-65,84,65
+0022101196,2022-04-07,CHA,ORL,31.28,3,4,43,ORL,CHA,foul,28,False,False,Bridges Personal Take Foul (P1.T2) (B.Schwab),,84-65,84,65
+0022101196,2022-04-07,CHA,ORL,31.48,3,4,31,ORL,ORL,fg3_make,1,False,False,,Schofield 3PT Jump Shot (3 PTS) (Okeke 4 AST),84-68,84,68
+0022101196,2022-04-07,CHA,ORL,31.87,3,4,8,CHA,CHA,fg_miss,86,False,False,MISS Bridges 9' Turnaround Fadeaway Shot,,84-68,84,68
+0022101196,2022-04-07,CHA,ORL,31.95,3,4,3,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:3 Def:4),,84-68,84,68
+0022101196,2022-04-07,CHA,ORL,31.95,3,4,3,CHA,CHA,fg_make,72,False,False,Rozier Putback Layup (20 PTS),,86-68,86,68
+0022101196,2022-04-07,CHA,ORL,32.1,3,3,54,ORL,ORL,fg3_miss,1,False,False,,MISS Brazdeikis 28' 3PT Jump Shot,86-68,86,68
+0022101196,2022-04-07,CHA,ORL,32.15,3,3,51,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:3 Def:5),,86-68,86,68
+0022101196,2022-04-07,CHA,ORL,32.25,3,3,45,CHA,ORL,foul,2,False,False,,Lopez S.FOUL (P3.T4) (B.Schwab),86-68,86,68
+0022101196,2022-04-07,CHA,ORL,32.25,3,3,45,CHA,CHA,ft_make,11,False,False,Bridges Free Throw 1 of 2 (12 PTS),,87-68,87,68
+0022101196,2022-04-07,CHA,ORL,32.25,3,3,45,CHA,CHA,ft_make,12,False,False,Bridges Free Throw 2 of 2 (13 PTS),,88-68,88,68
+0022101196,2022-04-07,CHA,ORL,32.52,3,3,29,ORL,ORL,fg3_miss,1,False,False,,MISS Schofield 3PT Jump Shot,88-68,88,68
+0022101196,2022-04-07,CHA,ORL,32.57,3,3,26,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:2),,88-68,88,68
+0022101196,2022-04-07,CHA,ORL,32.73,3,3,16,CHA,CHA,fg_make,75,False,False,Rozier 3' Driving Finger Roll Layup (22 PTS),,90-68,90,68
+0022101196,2022-04-07,CHA,ORL,32.98,3,3,1,ORL,ORL,fg_make,6,False,False,,Brazdeikis 2' Driving Layup (12 PTS) (Lopez 2 AST),90-70,90,70
+0022101196,2022-04-07,CHA,ORL,33.33,3,2,40,CHA,CHA,fg3_miss,1,False,False,MISS Oubre Jr. 26' 3PT Jump Shot,,90-70,90,70
+0022101196,2022-04-07,CHA,ORL,33.4,3,2,36,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:5),90-70,90,70
+0022101196,2022-04-07,CHA,ORL,33.48,3,2,31,ORL,ORL,fg3_make,1,False,False,,Schofield 3PT Jump Shot (6 PTS) (Hampton 1 AST),90-73,90,73
+0022101196,2022-04-07,CHA,ORL,33.48,3,2,31,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,90-73,90,73
+0022101196,2022-04-07,CHA,ORL,33.7,3,2,18,CHA,CHA,fg_miss,47,False,False,MISS McDaniels 6' Turnaround Jump Shot,,90-73,90,73
+0022101196,2022-04-07,CHA,ORL,33.73,3,2,16,ORL,ORL,reb,0,False,False,,Okeke REBOUND (Off:0 Def:4),90-73,90,73
+0022101196,2022-04-07,CHA,ORL,33.93,3,2,4,ORL,ORL,fg_make,6,False,False,,Hampton 5' Driving Layup (7 PTS),90-75,90,75
+0022101196,2022-04-07,CHA,ORL,34.27,3,1,44,CHA,CHA,fg3_make,1,False,False,Ball 30' 3PT Jump Shot (17 PTS) (McDaniels 3 AST),,93-75,93,75
+0022101196,2022-04-07,CHA,ORL,34.42,3,1,35,ORL,CHA,foul,2,False,False,McDaniels S.FOUL (P2.T3) (R.Mott),,93-75,93,75
+0022101196,2022-04-07,CHA,ORL,34.65,3,1,21,ORL,ORL,fg3_make,1,False,False,,Okeke 3PT Jump Shot (15 PTS) (Hampton 2 AST),93-78,93,78
+0022101196,2022-04-07,CHA,ORL,34.73,3,1,16,CHA,CHA,fg_miss,78,False,False,MISS Ball 9' Floating Jump Shot,,93-78,93,78
+0022101196,2022-04-07,CHA,ORL,34.75,3,1,15,ORL,ORL,reb,0,False,False,,Okeke REBOUND (Off:0 Def:5),93-78,93,78
+0022101196,2022-04-07,CHA,ORL,34.85,3,1,9,ORL,ORL,fg_miss,5,True,False,,MISS Hampton 2' Layup,93-78,93,78
+0022101196,2022-04-07,CHA,ORL,34.85,3,1,9,ORL,CHA,block,5,True,False,block,block,93-78,93,78
+0022101196,2022-04-07,CHA,ORL,34.85,3,1,9,ORL,ORL,reb,0,False,False,,Okeke REBOUND (Off:1 Def:5),93-78,93,78
+0022101196,2022-04-07,CHA,ORL,34.97,3,1,2,ORL,ORL,fg_make,72,False,False,,Okeke Putback Layup (17 PTS),93-80,93,80
+0022101196,2022-04-07,CHA,ORL,35.27,3,0,44,CHA,CHA,fg_miss,6,False,False,MISS Ball 3' Driving Layup,,93-80,93,80
+0022101196,2022-04-07,CHA,ORL,35.27,3,0,44,ORL,ORL,reb,0,False,False,,Magic Rebound,93-80,93,80
+0022101196,2022-04-07,CHA,ORL,35.48,3,0,31,ORL,ORL,tov,2,False,True,,Hampton Lost Ball Turnover (P3.T12),93-80,93,80
+0022101196,2022-04-07,CHA,ORL,35.48,3,0,31,ORL,CHA,steal,2,False,True,steal,steal,93-80,93,80
+0022101196,2022-04-07,CHA,ORL,35.53,3,0,28,CHA,CHA,fg_make,41,False,False,Oubre Jr. 1' Running Layup (11 PTS) (Martin 1 AST),,95-80,95,80
+0022101196,2022-04-07,CHA,ORL,35.85,3,0,9,ORL,CHA,foul,2,False,False,Harrell S.FOUL (P2.PN) (B.Barnaky),,95-80,95,80
+0022101196,2022-04-07,CHA,ORL,35.85,3,0,9,ORL,ORL,ft_make,11,False,False,,Schofield Free Throw 1 of 2 (7 PTS),95-81,95,81
+0022101196,2022-04-07,CHA,ORL,35.85,3,0,9,ORL,ORL,ft_make,12,False,False,,Schofield Free Throw 2 of 2 (8 PTS),95-82,95,82
+0022101196,2022-04-07,CHA,ORL,35.95,3,0,3,CHA,CHA,fg_make,6,False,False,Ball 2' Driving Layup (19 PTS),,97-82,97,82
+0022101196,2022-04-07,CHA,ORL,36.0,3,0,0,CHA,,period_end,0,False,False,,,97-82,97,82
+0022101196,2022-04-07,CHA,ORL,36.0,4,12,0,CHA,,period_start,0,False,False,,,97-82,97,82
+0022101196,2022-04-07,CHA,ORL,36.2,4,11,48,ORL,ORL,fg3_miss,1,False,False,,MISS Brazdeikis 24' 3PT Jump Shot,97-82,97,82
+0022101196,2022-04-07,CHA,ORL,36.28,4,11,43,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:5),,97-82,97,82
+0022101196,2022-04-07,CHA,ORL,36.4,4,11,36,CHA,ORL,foul,2,False,False,,Lopez S.FOUL (P4.T1) (B.Schwab),97-82,97,82
+0022101196,2022-04-07,CHA,ORL,36.4,4,11,36,CHA,CHA,ft_make,11,False,False,McDaniels Free Throw 1 of 2 (5 PTS),,98-82,98,82
+0022101196,2022-04-07,CHA,ORL,36.4,4,11,36,CHA,CHA,ft_make,12,False,False,McDaniels Free Throw 2 of 2 (6 PTS),,99-82,99,82
+0022101196,2022-04-07,CHA,ORL,36.72,4,11,17,ORL,ORL,fg3_miss,1,False,False,,MISS Schofield 3PT Jump Shot,99-82,99,82
+0022101196,2022-04-07,CHA,ORL,36.78,4,11,13,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:6),,99-82,99,82
+0022101196,2022-04-07,CHA,ORL,36.87,4,11,8,CHA,CHA,fg3_miss,1,False,False,MISS Oubre Jr. 24' 3PT Jump Shot,,99-82,99,82
+0022101196,2022-04-07,CHA,ORL,36.92,4,11,5,ORL,ORL,reb,0,False,False,,Schofield REBOUND (Off:1 Def:2),99-82,99,82
+0022101196,2022-04-07,CHA,ORL,37.08,4,10,55,ORL,ORL,fg3_miss,1,False,False,,MISS Schofield 25' 3PT Jump Shot,99-82,99,82
+0022101196,2022-04-07,CHA,ORL,37.15,4,10,51,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:0 Def:2),,99-82,99,82
+0022101196,2022-04-07,CHA,ORL,37.48,4,10,31,CHA,CHA,fg_make,75,False,False,Ball 4' Driving Finger Roll Layup (21 PTS) (Harrell 2 AST),,101-82,101,82
+0022101196,2022-04-07,CHA,ORL,37.7,4,10,18,ORL,ORL,tov,2,False,True,,Lopez Lost Ball Turnover (P1.T13),101-82,101,82
+0022101196,2022-04-07,CHA,ORL,37.7,4,10,18,ORL,CHA,steal,2,False,True,steal,steal,101-82,101,82
+0022101196,2022-04-07,CHA,ORL,37.77,4,10,14,CHA,CHA,fg_make,52,False,False,Harrell 2' Alley Oop Dunk (14 PTS) (Ball 7 AST),,103-82,103,82
+0022101196,2022-04-07,CHA,ORL,37.77,4,10,14,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.5 Short 0),103-82,103,82
+0022101196,2022-04-07,CHA,ORL,37.92,4,10,5,CHA,ORL,foul,4,False,False,,Cannady OFF.Foul (P2) (R.Mott),103-82,103,82
+0022101196,2022-04-07,CHA,ORL,37.92,4,10,5,ORL,ORL,tov,37,False,False,,Cannady Offensive Foul Turnover (P1.T14),103-82,103,82
+0022101196,2022-04-07,CHA,ORL,38.13,4,9,52,CHA,CHA,fg_make,98,False,False,Oubre Jr. 2' Cutting Layup Shot (13 PTS) (Ball 8 AST),,105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.43,4,9,34,ORL,ORL,fg_miss,5,False,False,,MISS Hampton 6' Layup,105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.48,4,9,31,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:7),,105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.52,4,9,29,CHA,ORL,foul,1,False,False,,Cannady P.FOUL (P3.T2) (B.Barnaky),105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.73,4,9,16,CHA,CHA,fg_miss,3,False,False,MISS Washington 6' Hook Shot,,105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.78,4,9,13,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:6),105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.85,4,9,9,ORL,ORL,fg_miss,50,False,False,,MISS Schofield 1' Running Dunk,105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.88,4,9,7,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:5),,105-82,105,82
+0022101196,2022-04-07,CHA,ORL,38.92,4,9,5,CHA,CHA,fg3_make,2,False,False,Ball 25' 3PT Running Jump Shot (24 PTS) (Washington 2 AST),,108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.27,4,8,44,ORL,ORL,fg3_miss,79,False,False,,MISS Brazdeikis 26' 3PT Pullup Jump Shot,108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.32,4,8,41,ORL,ORL,reb,0,False,False,,Lopez REBOUND (Off:2 Def:2),108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.37,4,8,38,ORL,ORL,fg3_miss,1,False,False,,MISS Hampton 25' 3PT Jump Shot,108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.42,4,8,35,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:8),,108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.58,4,8,25,CHA,CHA,fg3_miss,79,False,False,MISS Ball 30' 3PT Pullup Jump Shot,,108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.63,4,8,22,ORL,ORL,reb,0,False,False,,Schofield REBOUND (Off:1 Def:3),108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.78,4,8,13,ORL,CHA,foul,2,False,False,Oubre Jr. S.FOUL (P3.T1) (B.Barnaky),,108-82,108,82
+0022101196,2022-04-07,CHA,ORL,39.78,4,8,13,ORL,ORL,ft_make,11,False,False,,Lopez Free Throw 1 of 2 (1 PTS),108-83,108,83
+0022101196,2022-04-07,CHA,ORL,39.78,4,8,13,ORL,ORL,ft_miss,12,False,False,,MISS Lopez Free Throw 2 of 2,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,39.83,4,8,10,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:1 Def:2),108-83,108,83
+0022101196,2022-04-07,CHA,ORL,39.85,4,8,9,ORL,ORL,tov,1,False,True,,Brazdeikis Bad Pass Turnover (P1.T15),108-83,108,83
+0022101196,2022-04-07,CHA,ORL,39.85,4,8,9,ORL,CHA,steal,1,False,True,steal,steal,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.05,4,7,57,CHA,CHA,fg_miss,6,False,False,MISS Washington 2' Driving Layup,,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.12,4,7,53,ORL,ORL,reb,0,False,False,,Schofield REBOUND (Off:1 Def:4),108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,ORL,CHA,foul,1,False,False,McDaniels P.FOUL (P3.T2) (R.Mott),,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,ORL,CHA,foul,11,False,False,McDaniels T.FOUL (P3.T2) (R.Mott),,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,ORL,CHA,foul,11,False,False,Harrell T.FOUL (P2.T2) (R.Mott),,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,CHA,ORL,foul,11,False,False,,Lopez T.FOUL (P4.T2) (R.Mott),108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,CHA,CHA,ejection,4,False,False,Harrell Ejection:Other,,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,CHA,ORL,ejection,4,False,False,,Schofield Ejection:Other,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,CHA,ORL,ejection,4,False,False,,Lopez Ejection:Other,108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.25,4,7,45,CHA,ORL,foul,11,False,False,,Schofield T.FOUL (P1.T2) (R.Mott),108-83,108,83
+0022101196,2022-04-07,CHA,ORL,40.4,4,7,36,ORL,ORL,fg_make,7,False,False,,Wagner 1' Dunk (15 PTS) (Hampton 3 AST),108-85,108,85
+0022101196,2022-04-07,CHA,ORL,40.58,4,7,25,CHA,CHA,tov,40,False,False,Ball Out of Bounds Lost Ball Turnover (P3.T9),,108-85,108,85
+0022101196,2022-04-07,CHA,ORL,40.75,4,7,15,ORL,ORL,fg3_make,1,False,False,,Okeke 26' 3PT Jump Shot (20 PTS) (Wagner 2 AST),108-88,108,88
+0022101196,2022-04-07,CHA,ORL,40.98,4,7,1,CHA,CHA,tov,1,False,True,Plumlee Bad Pass Turnover (P3.T10),,108-88,108,88
+0022101196,2022-04-07,CHA,ORL,40.98,4,7,1,CHA,ORL,steal,1,False,True,steal,steal,108-88,108,88
+0022101196,2022-04-07,CHA,ORL,41.3,4,6,42,ORL,ORL,fg3_miss,1,False,False,,MISS Cannady 25' 3PT Jump Shot,108-88,108,88
+0022101196,2022-04-07,CHA,ORL,41.37,4,6,38,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:3),,108-88,108,88
+0022101196,2022-04-07,CHA,ORL,41.58,4,6,25,CHA,CHA,fg_make,7,False,False,Washington 1' Dunk (10 PTS) (Ball 9 AST),,110-88,110,88
+0022101196,2022-04-07,CHA,ORL,41.85,4,6,9,ORL,ORL,fg3_miss,80,False,False,,MISS Okeke 25' 3PT Step Back Jump Shot,110-88,110,88
+0022101196,2022-04-07,CHA,ORL,41.85,4,6,9,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:3 Def:3),,110-88,110,88
+0022101196,2022-04-07,CHA,ORL,42.1,4,5,54,CHA,CHA,fg_make,6,False,False,Ball 3' Driving Layup (26 PTS),,112-88,112,88
+0022101196,2022-04-07,CHA,ORL,42.33,4,5,40,ORL,ORL,fg_make,7,False,False,,Wagner Dunk (17 PTS) (Hampton 4 AST),112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.58,4,5,25,CHA,ORL,foul,2,False,False,,Wagner S.FOUL (P5.T3) (R.Mott),112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.58,4,5,25,CHA,CHA,ft_miss,11,False,False,MISS Plumlee Free Throw 1 of 2,,112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.58,4,5,25,CHA,CHA,reb,1,False,False,HORNETS Rebound,,112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.58,4,5,25,CHA,CHA,ft_miss,12,False,False,MISS Plumlee Free Throw 2 of 2,,112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.63,4,5,22,ORL,ORL,reb,0,False,False,,Okeke REBOUND (Off:1 Def:6),112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.87,4,5,8,ORL,ORL,fg_miss,101,False,False,,MISS Hampton 9' Driving Floating Jump Shot,112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.9,4,5,6,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:2 Def:2),112-90,112,90
+0022101196,2022-04-07,CHA,ORL,42.95,4,5,3,ORL,ORL,fg3_miss,1,False,False,,MISS Wagner 3PT Jump Shot,112-90,112,90
+0022101196,2022-04-07,CHA,ORL,43.02,4,4,59,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:6),,112-90,112,90
+0022101196,2022-04-07,CHA,ORL,43.1,4,4,54,CHA,CHA,fg3_make,1,False,False,Martin 26' 3PT Jump Shot (7 PTS) (Thomas 1 AST),,115-90,115,90
+0022101196,2022-04-07,CHA,ORL,43.42,4,4,35,ORL,ORL,fg_make,5,False,False,,Hampton 7' Layup (9 PTS),115-92,115,92
+0022101196,2022-04-07,CHA,ORL,43.42,4,4,35,ORL,CHA,foul,2,False,False,Thomas S.FOUL (P1.T3) (B.Schwab),,115-92,115,92
+0022101196,2022-04-07,CHA,ORL,43.42,4,4,35,ORL,ORL,ft_make,10,False,False,,Hampton Free Throw 1 of 1 (10 PTS),115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.6,4,4,24,CHA,CHA,fg_miss,101,False,False,MISS Thomas 7' Driving Floating Jump Shot,,115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.63,4,4,22,CHA,CHA,reb,0,False,False,Thomas REBOUND (Off:1 Def:0),,115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.68,4,4,19,CHA,CHA,fg_miss,63,False,False,MISS Thomas 10' Fadeaway Jumper,,115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.72,4,4,17,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:2 Def:3),115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.9,4,4,6,ORL,ORL,fg_miss,73,False,False,,MISS Brazdeikis 3' Driving Reverse Layup,115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.93,4,4,4,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:4),,115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.98,4,4,1,CHA,ORL,foul,2,False,False,,Brazdeikis S.FOUL (P3.T4) (R.Mott),115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.98,4,4,1,CHA,CHA,ft_miss,11,False,False,MISS Thor Free Throw 1 of 2,,115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.98,4,4,1,CHA,CHA,reb,1,False,False,HORNETS Rebound,,115-93,115,93
+0022101196,2022-04-07,CHA,ORL,43.98,4,4,1,CHA,CHA,ft_make,12,False,False,Thor Free Throw 2 of 2 (1 PTS),,116-93,116,93
+0022101196,2022-04-07,CHA,ORL,44.27,4,3,44,ORL,ORL,fg3_miss,1,False,False,,MISS Okeke 26' 3PT Jump Shot,116-93,116,93
+0022101196,2022-04-07,CHA,ORL,44.32,4,3,41,CHA,CHA,reb,0,False,False,Bouknight REBOUND (Off:0 Def:1),,116-93,116,93
+0022101196,2022-04-07,CHA,ORL,44.38,4,3,37,CHA,CHA,fg3_miss,79,False,False,MISS Thor 27' 3PT Pullup Jump Shot,,116-93,116,93
+0022101196,2022-04-07,CHA,ORL,44.43,4,3,34,CHA,CHA,reb,0,False,False,Bouknight REBOUND (Off:1 Def:1),,116-93,116,93
+0022101196,2022-04-07,CHA,ORL,44.48,4,3,31,CHA,CHA,fg3_make,1,False,False,Oubre Jr. 24' 3PT Jump Shot (16 PTS) (Bouknight 1 AST),,119-93,119,93
+0022101196,2022-04-07,CHA,ORL,44.48,4,3,31,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.6 Short 0),119-93,119,93
+0022101196,2022-04-07,CHA,ORL,44.67,4,3,20,ORL,ORL,fg3_miss,1,False,False,,MISS Brazdeikis 26' 3PT Jump Shot,119-93,119,93
+0022101196,2022-04-07,CHA,ORL,44.72,4,3,17,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:5),,119-93,119,93
+0022101196,2022-04-07,CHA,ORL,44.9,4,3,6,CHA,CHA,fg_make,78,False,False,Thomas 13' Floating Jump Shot (2 PTS) (Bouknight 2 AST),,121-93,121,93
+0022101196,2022-04-07,CHA,ORL,45.27,4,2,44,ORL,ORL,fg3_miss,1,False,False,,MISS Cannady 25' 3PT Jump Shot,121-93,121,93
+0022101196,2022-04-07,CHA,ORL,45.32,4,2,41,CHA,CHA,reb,0,False,False,Richards REBOUND (Off:0 Def:1),,121-93,121,93
+0022101196,2022-04-07,CHA,ORL,45.4,4,2,36,CHA,CHA,fg_make,5,False,False,Thomas 3' Layup (4 PTS),,123-93,123,93
+0022101196,2022-04-07,CHA,ORL,45.43,4,2,34,ORL,ORL,tov,40,False,False,,Hampton Out of Bounds Lost Ball Turnover (P4.T16),123-93,123,93
+0022101196,2022-04-07,CHA,ORL,45.58,4,2,25,CHA,CHA,fg3_make,1,False,False,Thomas 26' 3PT Jump Shot (7 PTS) (Thor 1 AST),,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,45.93,4,2,4,ORL,ORL,fg3_miss,1,False,False,,MISS Brazdeikis 3PT Jump Shot,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,45.98,4,2,1,CHA,CHA,reb,0,False,False,Bouknight REBOUND (Off:1 Def:2),,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.1,4,1,54,CHA,CHA,fg_miss,5,False,False,MISS Bouknight 3' Layup,,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.13,4,1,52,CHA,CHA,reb,0,False,False,Richards REBOUND (Off:1 Def:1),,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.13,4,1,52,CHA,CHA,tov,20,False,False,Bouknight Illegal Assist Turnover (P1.T11),,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.13,4,1,52,CHA,CHA,fg_miss,72,False,False,MISS Richards Putback Layup,,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.13,4,1,52,CHA,CHA,reb,0,False,False,HORNETS Rebound,,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.53,4,1,28,ORL,ORL,fg_miss,6,True,False,,MISS Brazdeikis 3' Driving Layup,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.53,4,1,28,ORL,CHA,block,6,True,False,block,block,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.58,4,1,25,CHA,CHA,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,126-93,126,93
+0022101196,2022-04-07,CHA,ORL,46.63,4,1,22,CHA,CHA,fg_make,52,False,False,Jones 1' Alley Oop Dunk (2 PTS) (Bouknight 3 AST),,128-93,128,93
+0022101196,2022-04-07,CHA,ORL,46.82,4,1,11,ORL,ORL,fg_make,6,False,False,,Hampton 2' Driving Layup (12 PTS),128-95,128,95
+0022101196,2022-04-07,CHA,ORL,47.1,4,0,54,CHA,CHA,fg_miss,1,True,False,MISS Bouknight 8' Jump Shot,,128-95,128,95
+0022101196,2022-04-07,CHA,ORL,47.1,4,0,54,CHA,ORL,block,1,True,False,block,block,128-95,128,95
+0022101196,2022-04-07,CHA,ORL,47.13,4,0,52,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:7),128-95,128,95
+0022101196,2022-04-07,CHA,ORL,47.13,4,0,52,ORL,CHA,foul,28,False,False,Jones Personal Take Foul (P1.T4) (B.Barnaky),,128-95,128,95
+0022101196,2022-04-07,CHA,ORL,47.25,4,0,45,ORL,ORL,fg3_make,1,False,False,,Cannady 26' 3PT Jump Shot (9 PTS) (Wagner 3 AST),128-98,128,98
+0022101196,2022-04-07,CHA,ORL,47.38,4,0,37,CHA,CHA,fg3_miss,1,False,False,MISS Thomas 26' 3PT Jump Shot,,128-98,128,98
+0022101196,2022-04-07,CHA,ORL,47.43,4,0,34,ORL,ORL,reb,0,False,False,,Wagner REBOUND (Off:1 Def:4),128-98,128,98
+0022101196,2022-04-07,CHA,ORL,47.55,4,0,27,ORL,ORL,fg3_make,1,False,False,,Cannady 3PT Jump Shot (12 PTS) (Hampton 5 AST),128-101,128,101
+0022101196,2022-04-07,CHA,ORL,47.93,4,0,4,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#12),,128-101,128,101
+0022101196,2022-04-07,CHA,ORL,48.0,4,0,0,CHA,,period_end,0,False,False,,,128-101,128,101

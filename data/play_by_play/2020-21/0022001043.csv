@@ -1,0 +1,433 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022001043,2021-05-12,BKN,SAS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022001043,2021-05-12,BKN,SAS,0.0,1,12,0,,BKN,jump_ball,0,False,False,Jump Ball Durant vs. Poeltl: Tip to Johnson,,0-0,0,0
+0022001043,2021-05-12,BKN,SAS,0.27,1,11,44,SAS,SAS,fg_make,6,False,False,,Johnson 2' Driving Layup (2 PTS),0-2,0,2
+0022001043,2021-05-12,BKN,SAS,0.58,1,11,25,BKN,BKN,fg_make,58,False,False,Griffin 3' Turnaround Hook Shot (2 PTS),,2-2,2,2
+0022001043,2021-05-12,BKN,SAS,0.85,1,11,9,SAS,SAS,fg_miss,79,False,False,,MISS Murray 15' Pullup Jump Shot,2-2,2,2
+0022001043,2021-05-12,BKN,SAS,0.92,1,11,5,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:1),,2-2,2,2
+0022001043,2021-05-12,BKN,SAS,1.1,1,10,54,BKN,BKN,fg_make,9,False,False,Durant 2' Driving Dunk (2 PTS) (James 1 AST),,4-2,4,2
+0022001043,2021-05-12,BKN,SAS,1.38,1,10,37,SAS,SAS,fg_make,79,False,False,,DeRozan 18' Pullup Jump Shot (2 PTS),4-4,4,4
+0022001043,2021-05-12,BKN,SAS,1.55,1,10,27,BKN,BKN,fg3_make,1,False,False,Griffin 25' 3PT Jump Shot (5 PTS) (James 2 AST),,7-4,7,4
+0022001043,2021-05-12,BKN,SAS,1.75,1,10,15,SAS,SAS,fg_miss,6,False,False,,MISS Johnson Driving Layup,7-4,7,4
+0022001043,2021-05-12,BKN,SAS,1.78,1,10,13,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,7-4,7,4
+0022001043,2021-05-12,BKN,SAS,2.12,1,9,53,BKN,BKN,fg3_miss,80,False,False,MISS Griffin 24' 3PT Step Back Jump Shot,,7-4,7,4
+0022001043,2021-05-12,BKN,SAS,2.18,1,9,49,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:1),7-4,7,4
+0022001043,2021-05-12,BKN,SAS,2.37,1,9,38,SAS,SAS,fg_make,63,False,False,,DeRozan 8' Fadeaway Jumper (4 PTS),7-6,7,6
+0022001043,2021-05-12,BKN,SAS,2.37,1,9,38,SAS,BKN,foul,2,False,False,Brown S.FOUL (P1.T1) (J.Goble),,7-6,7,6
+0022001043,2021-05-12,BKN,SAS,2.37,1,9,38,SAS,SAS,ft_miss,10,False,False,,MISS DeRozan Free Throw 1 of 1,7-6,7,6
+0022001043,2021-05-12,BKN,SAS,2.43,1,9,34,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:2),,7-6,7,6
+0022001043,2021-05-12,BKN,SAS,2.67,1,9,20,BKN,BKN,fg_make,98,False,False,Brown 4' Cutting Layup Shot (2 PTS) (Griffin 1 AST),,9-6,9,6
+0022001043,2021-05-12,BKN,SAS,2.88,1,9,7,SAS,SAS,fg_miss,58,True,False,,MISS Johnson 5' Turnaround Hook Shot,9-6,9,6
+0022001043,2021-05-12,BKN,SAS,2.88,1,9,7,SAS,BKN,block,58,True,False,block,block,9-6,9,6
+0022001043,2021-05-12,BKN,SAS,2.92,1,9,5,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:2),,9-6,9,6
+0022001043,2021-05-12,BKN,SAS,2.98,1,9,1,BKN,BKN,fg_make,41,False,False,Shamet 1' Running Layup (2 PTS) (Durant 1 AST),,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,2.98,1,9,1,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.1 Short 0),11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.15,1,8,51,SAS,SAS,fg_miss,6,True,False,,MISS Johnson 4' Driving Layup,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.15,1,8,51,SAS,BKN,block,6,True,False,block,block,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.18,1,8,49,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:0),11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.2,1,8,48,SAS,SAS,fg_miss,6,False,False,,MISS Johnson 2' Driving Layup,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.28,1,8,43,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:1 Def:0),11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.28,1,8,43,SAS,SAS,fg_miss,97,False,False,,MISS Poeltl Tip Layup Shot,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.3,1,8,42,BKN,BKN,reb,0,False,False,Griffin REBOUND (Off:0 Def:1),,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.38,1,8,37,BKN,BKN,fg_miss,63,False,False,MISS James 8' Fadeaway Jumper,,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.45,1,8,33,BKN,BKN,reb,0,False,False,Griffin REBOUND (Off:1 Def:1),,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.45,1,8,33,BKN,BKN,fg_miss,97,False,False,MISS Griffin Tip Layup Shot,,11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.47,1,8,32,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),11-6,11,6
+0022001043,2021-05-12,BKN,SAS,3.55,1,8,27,SAS,SAS,fg_make,79,False,False,,DeRozan 8' Pullup Jump Shot (6 PTS),11-8,11,8
+0022001043,2021-05-12,BKN,SAS,3.92,1,8,5,BKN,BKN,fg_make,108,False,False,Shamet Cutting Dunk Shot (4 PTS) (Durant 2 AST),,13-8,13,8
+0022001043,2021-05-12,BKN,SAS,4.17,1,7,50,SAS,SAS,tov,45,False,False,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T1),13-8,13,8
+0022001043,2021-05-12,BKN,SAS,4.22,1,7,47,BKN,BKN,tov,1,False,True,James Bad Pass Turnover (P1.T1),,13-8,13,8
+0022001043,2021-05-12,BKN,SAS,4.22,1,7,47,BKN,SAS,steal,1,False,True,steal,steal,13-8,13,8
+0022001043,2021-05-12,BKN,SAS,4.32,1,7,41,SAS,SAS,fg_make,6,False,False,,Murray 2' Driving Layup (2 PTS),13-10,13,10
+0022001043,2021-05-12,BKN,SAS,4.62,1,7,23,BKN,BKN,fg3_make,79,False,False,James 3PT Pullup Jump Shot (3 PTS) (Durant 3 AST),,16-10,16,10
+0022001043,2021-05-12,BKN,SAS,4.87,1,7,8,SAS,BKN,foul,1,False,False,Shamet P.FOUL (P1.T2) (S.Foster),,16-10,16,10
+0022001043,2021-05-12,BKN,SAS,5.0,1,7,0,SAS,SAS,fg_miss,47,False,False,,MISS DeRozan 13' Turnaround Jump Shot,16-10,16,10
+0022001043,2021-05-12,BKN,SAS,5.07,1,6,56,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:0),16-10,16,10
+0022001043,2021-05-12,BKN,SAS,5.07,1,6,56,SAS,SAS,fg_miss,72,False,False,,MISS Poeltl Putback Layup,16-10,16,10
+0022001043,2021-05-12,BKN,SAS,5.07,1,6,56,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:3 Def:0),16-10,16,10
+0022001043,2021-05-12,BKN,SAS,5.13,1,6,52,SAS,SAS,fg_make,97,False,False,,Poeltl Tip Layup Shot (2 PTS),16-12,16,12
+0022001043,2021-05-12,BKN,SAS,5.37,1,6,38,BKN,BKN,fg3_miss,1,False,False,MISS Durant 26' 3PT Jump Shot,,16-12,16,12
+0022001043,2021-05-12,BKN,SAS,5.42,1,6,35,BKN,BKN,reb,0,False,False,Shamet REBOUND (Off:1 Def:0),,16-12,16,12
+0022001043,2021-05-12,BKN,SAS,5.47,1,6,32,BKN,BKN,fg_make,7,False,False,Griffin Dunk (7 PTS) (Shamet 1 AST),,18-12,18,12
+0022001043,2021-05-12,BKN,SAS,5.83,1,6,10,SAS,SAS,fg_miss,79,False,False,,MISS Murray 16' Pullup Jump Shot,18-12,18,12
+0022001043,2021-05-12,BKN,SAS,5.93,1,6,4,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:4 Def:0),18-14,18,14
+0022001043,2021-05-12,BKN,SAS,5.93,1,6,4,SAS,SAS,fg_make,97,False,False,,Poeltl Tip Layup Shot (4 PTS),18-14,18,14
+0022001043,2021-05-12,BKN,SAS,6.15,1,5,51,BKN,BKN,fg3_miss,1,False,False,MISS Griffin 3PT Jump Shot,,18-14,18,14
+0022001043,2021-05-12,BKN,SAS,6.23,1,5,46,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:2),18-14,18,14
+0022001043,2021-05-12,BKN,SAS,6.32,1,5,41,SAS,SAS,fg_make,78,False,False,,Murray 10' Floating Jump Shot (4 PTS),18-16,18,16
+0022001043,2021-05-12,BKN,SAS,6.55,1,5,27,BKN,BKN,fg_make,79,False,False,Durant 15' Pullup Jump Shot (4 PTS),,20-16,20,16
+0022001043,2021-05-12,BKN,SAS,6.82,1,5,11,SAS,SAS,fg_miss,79,False,False,,MISS DeRozan 17' Pullup Jump Shot,20-16,20,16
+0022001043,2021-05-12,BKN,SAS,6.87,1,5,8,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:3),,20-16,20,16
+0022001043,2021-05-12,BKN,SAS,7.07,1,4,56,BKN,BKN,fg_miss,93,False,False,MISS James 5' Driving Bank Hook Shot,,20-16,20,16
+0022001043,2021-05-12,BKN,SAS,7.12,1,4,53,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:3),20-16,20,16
+0022001043,2021-05-12,BKN,SAS,7.18,1,4,49,SAS,SAS,fg_miss,6,False,False,,MISS Murray 4' Driving Layup,20-16,20,16
+0022001043,2021-05-12,BKN,SAS,7.25,1,4,45,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:3),20-16,20,16
+0022001043,2021-05-12,BKN,SAS,7.25,1,4,45,SAS,SAS,fg_miss,97,False,False,,MISS Murray Tip Layup Shot,20-16,20,16
+0022001043,2021-05-12,BKN,SAS,7.27,1,4,44,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:3),,20-16,20,16
+0022001043,2021-05-12,BKN,SAS,7.52,1,4,29,BKN,BKN,fg_make,5,False,False,Brown 1' Layup (4 PTS) (Durant 4 AST),,22-16,22,16
+0022001043,2021-05-12,BKN,SAS,7.78,1,4,13,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 25' 3PT Jump Shot,22-16,22,16
+0022001043,2021-05-12,BKN,SAS,7.83,1,4,10,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:4),,22-16,22,16
+0022001043,2021-05-12,BKN,SAS,7.98,1,4,1,BKN,BKN,fg3_miss,1,False,False,MISS Shamet 26' 3PT Jump Shot,,22-16,22,16
+0022001043,2021-05-12,BKN,SAS,8.03,1,3,58,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:4),22-16,22,16
+0022001043,2021-05-12,BKN,SAS,8.13,1,3,52,SAS,SAS,fg_miss,105,False,False,,MISS Johnson 5' Turnaround Fadeaway Bank Jump Shot,22-16,22,16
+0022001043,2021-05-12,BKN,SAS,8.2,1,3,48,BKN,BKN,reb,0,False,False,Griffin REBOUND (Off:1 Def:2),,22-16,22,16
+0022001043,2021-05-12,BKN,SAS,8.23,1,3,46,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 1 Short 0),,22-16,22,16
+0022001043,2021-05-12,BKN,SAS,8.42,1,3,35,BKN,BKN,fg_make,101,False,False,James 10' Driving Floating Jump Shot (5 PTS),,24-16,24,16
+0022001043,2021-05-12,BKN,SAS,8.6,1,3,24,BKN,SAS,foul,4,False,False,,Mills OFF.Foul (P1) (S.Foster),24-16,24,16
+0022001043,2021-05-12,BKN,SAS,8.6,1,3,24,SAS,SAS,tov,37,False,False,,Mills Offensive Foul Turnover (P1.T2),24-16,24,16
+0022001043,2021-05-12,BKN,SAS,8.8,1,3,12,SAS,BKN,foul,4,False,False,Claxton OFF.Foul (P1) (J.Goble),,24-16,24,16
+0022001043,2021-05-12,BKN,SAS,8.8,1,3,12,BKN,BKN,tov,37,False,False,Claxton Offensive Foul Turnover (P1.T2),,24-16,24,16
+0022001043,2021-05-12,BKN,SAS,9.08,1,2,55,SAS,SAS,fg_miss,58,False,False,,MISS Eubanks 8' Turnaround Hook Shot,24-16,24,16
+0022001043,2021-05-12,BKN,SAS,9.13,1,2,52,BKN,BKN,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,24-16,24,16
+0022001043,2021-05-12,BKN,SAS,9.23,1,2,46,BKN,BKN,fg_make,6,False,False,Brown 1' Driving Layup (6 PTS) (Johnson 1 AST),,26-16,26,16
+0022001043,2021-05-12,BKN,SAS,9.23,1,2,46,BKN,SAS,foul,2,False,False,,DeRozan S.FOUL (P1.T1) (T.Washington),26-16,26,16
+0022001043,2021-05-12,BKN,SAS,9.23,1,2,46,BKN,BKN,ft_make,10,False,False,Brown Free Throw 1 of 1 (7 PTS),,27-16,27,16
+0022001043,2021-05-12,BKN,SAS,9.52,1,2,29,SAS,SAS,fg_miss,79,False,False,,MISS Vassell 18' Pullup Jump Shot,27-16,27,16
+0022001043,2021-05-12,BKN,SAS,9.6,1,2,24,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:4),,27-16,27,16
+0022001043,2021-05-12,BKN,SAS,9.73,1,2,16,BKN,BKN,fg_make,79,False,False,James 12' Pullup Jump Shot (7 PTS),,29-16,29,16
+0022001043,2021-05-12,BKN,SAS,10.03,1,1,58,SAS,SAS,fg_miss,79,False,False,,MISS Murray 11' Pullup Jump Shot,29-16,29,16
+0022001043,2021-05-12,BKN,SAS,10.08,1,1,55,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:1 Def:0),29-16,29,16
+0022001043,2021-05-12,BKN,SAS,10.12,1,1,53,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 25' 3PT Jump Shot,29-16,29,16
+0022001043,2021-05-12,BKN,SAS,10.18,1,1,49,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:5),,29-16,29,16
+0022001043,2021-05-12,BKN,SAS,10.33,1,1,40,BKN,BKN,fg_make,101,False,False,James 6' Driving Floating Jump Shot (9 PTS),,31-16,31,16
+0022001043,2021-05-12,BKN,SAS,10.7,1,1,18,SAS,BKN,foul,2,False,False,Brown S.FOUL (P2.T3) (J.Goble),,31-16,31,16
+0022001043,2021-05-12,BKN,SAS,10.7,1,1,18,SAS,SAS,ft_make,13,False,False,,Vassell Free Throw 1 of 3 (1 PTS),31-17,31,17
+0022001043,2021-05-12,BKN,SAS,10.7,1,1,18,SAS,SAS,ft_miss,14,False,False,,MISS Vassell Free Throw 2 of 3,31-17,31,17
+0022001043,2021-05-12,BKN,SAS,10.7,1,1,18,SAS,SAS,reb,1,False,False,,Spurs Rebound,31-17,31,17
+0022001043,2021-05-12,BKN,SAS,10.7,1,1,18,SAS,SAS,ft_make,15,False,False,,Vassell Free Throw 3 of 3 (2 PTS),31-18,31,18
+0022001043,2021-05-12,BKN,SAS,10.98,1,1,1,BKN,SAS,foul,2,False,False,,Eubanks S.FOUL (P1.T2) (J.Goble),31-18,31,18
+0022001043,2021-05-12,BKN,SAS,10.98,1,1,1,BKN,BKN,ft_make,11,False,False,Claxton Free Throw 1 of 2 (1 PTS),,32-18,32,18
+0022001043,2021-05-12,BKN,SAS,10.98,1,1,1,BKN,BKN,ft_miss,12,False,False,MISS Claxton Free Throw 2 of 2,,32-18,32,18
+0022001043,2021-05-12,BKN,SAS,11.03,1,0,58,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:1 Def:1),32-18,32,18
+0022001043,2021-05-12,BKN,SAS,11.28,1,0,43,SAS,SAS,fg_miss,6,False,False,,MISS Gay 1' Driving Layup,32-18,32,18
+0022001043,2021-05-12,BKN,SAS,11.33,1,0,40,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:1),,32-18,32,18
+0022001043,2021-05-12,BKN,SAS,11.37,1,0,38,BKN,BKN,fg3_miss,103,False,False,MISS Johnson 25' 3PT Running Pull-Up Jump Shot,,32-18,32,18
+0022001043,2021-05-12,BKN,SAS,11.42,1,0,35,SAS,SAS,reb,0,False,False,,Mills REBOUND (Off:0 Def:1),32-18,32,18
+0022001043,2021-05-12,BKN,SAS,11.48,1,0,31,SAS,SAS,fg_make,41,False,False,,Murray Running Layup (6 PTS),32-20,32,20
+0022001043,2021-05-12,BKN,SAS,11.73,1,0,16,BKN,BKN,fg3_make,1,False,False,Shamet 24' 3PT Jump Shot (7 PTS) (Luwawu-Cabarrot 1 AST),,35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.0,1,0,0,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 25' 3PT Jump Shot,35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.0,1,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.0,1,0,0,SAS,,period_end,0,False,False,,,35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.0,2,12,0,SAS,,period_start,0,False,False,,,35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.25,2,11,45,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,,35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.3,2,11,42,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:0 Def:1),35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.48,2,11,31,SAS,BKN,foul,2,False,False,Luwawu-Cabarrot S.FOUL (P1.T1) (T.Washington),,35-20,35,20
+0022001043,2021-05-12,BKN,SAS,12.48,2,11,31,SAS,SAS,ft_make,11,False,False,,Poeltl Free Throw 1 of 2 (5 PTS),35-21,35,21
+0022001043,2021-05-12,BKN,SAS,12.48,2,11,31,SAS,SAS,ft_miss,12,False,False,,MISS Poeltl Free Throw 2 of 2,35-21,35,21
+0022001043,2021-05-12,BKN,SAS,12.53,2,11,28,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:2),,35-21,35,21
+0022001043,2021-05-12,BKN,SAS,12.77,2,11,14,BKN,BKN,tov,1,False,True,Johnson Bad Pass Turnover (P1.T3),,35-21,35,21
+0022001043,2021-05-12,BKN,SAS,12.77,2,11,14,BKN,SAS,steal,1,False,True,steal,steal,35-21,35,21
+0022001043,2021-05-12,BKN,SAS,12.88,2,11,7,SAS,BKN,foul,2,False,False,Claxton S.FOUL (P2.T2) (S.Foster),,35-21,35,21
+0022001043,2021-05-12,BKN,SAS,12.88,2,11,7,SAS,SAS,ft_make,11,False,False,,Gay Free Throw 1 of 2 (1 PTS),35-22,35,22
+0022001043,2021-05-12,BKN,SAS,12.88,2,11,7,SAS,SAS,ft_make,12,False,False,,Gay Free Throw 2 of 2 (2 PTS),35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.15,2,10,51,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.22,2,10,47,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:5),35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.35,2,10,39,SAS,BKN,foul,1,False,False,James P.FOUL (P1.T3) (T.Washington),,35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.45,2,10,33,SAS,SAS,fg_miss,79,False,False,,MISS Murray 14' Pullup Jump Shot,35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.52,2,10,29,BKN,BKN,reb,0,False,False,James REBOUND (Off:0 Def:1),,35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.6,2,10,24,BKN,BKN,fg_miss,79,False,False,MISS James 14' Pullup Jump Shot,,35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.65,2,10,21,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:1),35-23,35,23
+0022001043,2021-05-12,BKN,SAS,13.88,2,10,7,SAS,SAS,fg_make,6,False,False,,Mills Driving Layup (2 PTS),35-25,35,25
+0022001043,2021-05-12,BKN,SAS,14.32,2,9,41,BKN,BKN,fg_miss,1,False,False,MISS Luwawu-Cabarrot 21' Jump Shot,,35-25,35,25
+0022001043,2021-05-12,BKN,SAS,14.37,2,9,38,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:6),35-25,35,25
+0022001043,2021-05-12,BKN,SAS,14.42,2,9,35,SAS,SAS,fg3_make,1,False,False,,Gay 26' 3PT Jump Shot (5 PTS) (Murray 1 AST),35-28,35,28
+0022001043,2021-05-12,BKN,SAS,14.68,2,9,19,BKN,BKN,fg_make,98,False,False,Claxton 1' Cutting Layup Shot (3 PTS) (Luwawu-Cabarrot 2 AST),,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,14.68,2,9,19,BKN,SAS,foul,2,False,False,,Vassell S.FOUL (P1.T1) (J.Goble),37-28,37,28
+0022001043,2021-05-12,BKN,SAS,14.68,2,9,19,BKN,BKN,ft_miss,10,False,False,MISS Claxton Free Throw 1 of 1,,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,14.75,2,9,15,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:4 Def:1),37-28,37,28
+0022001043,2021-05-12,BKN,SAS,14.82,2,9,11,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 28' 3PT Jump Shot,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,14.9,2,9,6,BKN,BKN,reb,0,False,False,Luwawu-Cabarrot REBOUND (Off:0 Def:1),,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.08,2,8,55,BKN,BKN,fg3_miss,1,False,False,MISS James 25' 3PT Jump Shot,,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.15,2,8,51,BKN,BKN,reb,0,False,False,NETS Rebound,,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.15,2,8,51,BKN,SAS,foul,3,False,False,,Vassell L.B.FOUL (P2.T2) (J.Goble),37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.4,2,8,36,BKN,BKN,fg_miss,6,False,False,MISS Claxton 3' Driving Layup,,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.4,2,8,36,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:4 Def:2),37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.62,2,8,23,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 26' 3PT Jump Shot,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.68,2,8,19,BKN,BKN,reb,0,False,False,James REBOUND (Off:0 Def:2),,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.77,2,8,14,BKN,BKN,fg_miss,9,True,False,MISS James 1' Driving Dunk,,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.77,2,8,14,BKN,SAS,block,9,True,False,block,block,37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.77,2,8,14,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:1),37-28,37,28
+0022001043,2021-05-12,BKN,SAS,15.87,2,8,8,SAS,SAS,fg3_make,1,False,False,,Gay 3PT Jump Shot (8 PTS) (Walker IV 1 AST),37-31,37,31
+0022001043,2021-05-12,BKN,SAS,15.9,2,8,6,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,37-31,37,31
+0022001043,2021-05-12,BKN,SAS,16.07,2,7,56,BKN,SAS,foul,1,False,False,,Walker IV P.FOUL (P1.T3) (S.Foster),37-31,37,31
+0022001043,2021-05-12,BKN,SAS,16.23,2,7,46,BKN,BKN,tov,1,False,True,Durant Bad Pass Turnover (P1.T4),,37-31,37,31
+0022001043,2021-05-12,BKN,SAS,16.23,2,7,46,BKN,SAS,steal,1,False,True,steal,steal,37-31,37,31
+0022001043,2021-05-12,BKN,SAS,16.37,2,7,38,SAS,SAS,fg3_make,1,False,False,,Mills 27' 3PT Jump Shot (5 PTS) (DeRozan 1 AST),37-34,37,34
+0022001043,2021-05-12,BKN,SAS,16.67,2,7,20,BKN,SAS,foul,2,False,False,,Walker IV S.FOUL (P2.T4) (J.Goble),37-34,37,34
+0022001043,2021-05-12,BKN,SAS,16.67,2,7,20,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (5 PTS),,38-34,38,34
+0022001043,2021-05-12,BKN,SAS,16.67,2,7,20,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (6 PTS),,39-34,39,34
+0022001043,2021-05-12,BKN,SAS,16.9,2,7,6,SAS,SAS,fg3_make,1,False,False,,Walker IV 25' 3PT Jump Shot (3 PTS) (DeRozan 2 AST),39-37,39,37
+0022001043,2021-05-12,BKN,SAS,17.08,2,6,55,BKN,SAS,foul,1,False,False,,Mills P.FOUL (P2.PN) (S.Foster),39-37,39,37
+0022001043,2021-05-12,BKN,SAS,17.08,2,6,55,BKN,BKN,ft_make,11,False,False,Harden Free Throw 1 of 2 (1 PTS),,40-37,40,37
+0022001043,2021-05-12,BKN,SAS,17.08,2,6,55,BKN,BKN,ft_make,12,False,False,Harden Free Throw 2 of 2 (2 PTS),,41-37,41,37
+0022001043,2021-05-12,BKN,SAS,17.27,2,6,44,SAS,SAS,fg_miss,63,False,False,,MISS Gay 13' Fadeaway Jumper,41-37,41,37
+0022001043,2021-05-12,BKN,SAS,17.33,2,6,40,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:5 Def:2),41-37,41,37
+0022001043,2021-05-12,BKN,SAS,17.45,2,6,33,SAS,SAS,fg3_make,1,False,False,,Walker IV 26' 3PT Jump Shot (6 PTS) (DeRozan 3 AST),41-40,41,40
+0022001043,2021-05-12,BKN,SAS,17.82,2,6,11,BKN,BKN,fg3_make,1,False,False,Shamet 25' 3PT Jump Shot (10 PTS) (Griffin 2 AST),,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.13,2,5,52,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 3PT Jump Shot,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.2,2,5,48,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.32,2,5,41,BKN,BKN,fg_miss,98,True,False,MISS Brown 4' Cutting Layup Shot,,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.32,2,5,41,BKN,SAS,block,98,True,False,block,block,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.37,2,5,38,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:2),44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.47,2,5,32,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 29' 3PT Jump Shot,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.52,2,5,29,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:2),,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.6,2,5,24,BKN,BKN,fg3_miss,1,False,False,MISS Durant 25' 3PT Jump Shot,,44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.7,2,5,18,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:2),44-40,44,40
+0022001043,2021-05-12,BKN,SAS,18.78,2,5,13,SAS,SAS,fg_make,99,False,False,,DeRozan 1' Cutting Finger Roll Layup Shot (8 PTS) (Walker IV 2 AST),44-42,44,42
+0022001043,2021-05-12,BKN,SAS,19.08,2,4,55,BKN,BKN,fg_make,57,False,False,Griffin 5' Driving Hook Shot (9 PTS),,46-42,46,42
+0022001043,2021-05-12,BKN,SAS,19.1,2,4,54,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),46-42,46,42
+0022001043,2021-05-12,BKN,SAS,19.42,2,4,35,SAS,SAS,fg_miss,98,True,False,,MISS Walker IV 1' Cutting Layup Shot,46-42,46,42
+0022001043,2021-05-12,BKN,SAS,19.42,2,4,35,SAS,BKN,block,98,True,False,block,block,46-42,46,42
+0022001043,2021-05-12,BKN,SAS,19.45,2,4,33,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:2 Def:1),46-42,46,42
+0022001043,2021-05-12,BKN,SAS,19.62,2,4,23,SAS,SAS,fg_make,98,False,False,,Johnson 6' Cutting Layup Shot (4 PTS) (DeRozan 4 AST),46-44,46,44
+0022001043,2021-05-12,BKN,SAS,19.9,2,4,6,BKN,BKN,fg3_miss,1,False,False,MISS Durant 3PT Jump Shot,,46-44,46,44
+0022001043,2021-05-12,BKN,SAS,19.95,2,4,3,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:3),46-44,46,44
+0022001043,2021-05-12,BKN,SAS,20.05,2,3,57,SAS,SAS,fg3_miss,79,False,False,,MISS Walker IV 25' 3PT Pullup Jump Shot,46-44,46,44
+0022001043,2021-05-12,BKN,SAS,20.1,2,3,54,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:6),,46-44,46,44
+0022001043,2021-05-12,BKN,SAS,20.2,2,3,48,BKN,BKN,fg3_make,1,False,False,Shamet 3PT Jump Shot (13 PTS) (Griffin 3 AST),,49-44,49,44
+0022001043,2021-05-12,BKN,SAS,20.2,2,3,48,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.3 Short 0),49-44,49,44
+0022001043,2021-05-12,BKN,SAS,20.5,2,3,30,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 26' 3PT Jump Shot,49-44,49,44
+0022001043,2021-05-12,BKN,SAS,20.55,2,3,27,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:3),,49-44,49,44
+0022001043,2021-05-12,BKN,SAS,20.93,2,3,4,BKN,BKN,fg_miss,99,False,False,MISS Brown 1' Cutting Finger Roll Layup Shot,,49-44,49,44
+0022001043,2021-05-12,BKN,SAS,20.97,2,3,2,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:2 Def:2),49-44,49,44
+0022001043,2021-05-12,BKN,SAS,21.28,2,2,43,SAS,SAS,fg_miss,79,False,False,,MISS Murray 16' Pullup Jump Shot,49-44,49,44
+0022001043,2021-05-12,BKN,SAS,21.37,2,2,38,BKN,BKN,reb,0,False,False,Green REBOUND (Off:0 Def:1),,49-44,49,44
+0022001043,2021-05-12,BKN,SAS,21.5,2,2,30,BKN,BKN,fg_make,75,False,False,Green 1' Driving Finger Roll Layup (2 PTS) (Harden 1 AST),,51-44,51,44
+0022001043,2021-05-12,BKN,SAS,21.78,2,2,13,SAS,SAS,fg_miss,6,True,False,,MISS DeRozan 7' Driving Layup,51-44,51,44
+0022001043,2021-05-12,BKN,SAS,21.78,2,2,13,SAS,BKN,block,6,True,False,block,block,51-44,51,44
+0022001043,2021-05-12,BKN,SAS,21.83,2,2,10,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:7),,51-44,51,44
+0022001043,2021-05-12,BKN,SAS,21.9,2,2,6,BKN,BKN,fg_make,50,False,False,Green 2' Running Dunk (4 PTS) (Harden 2 AST),,53-44,53,44
+0022001043,2021-05-12,BKN,SAS,22.32,2,1,41,SAS,SAS,fg_make,78,False,False,,Murray 7' Floating Jump Shot (8 PTS),53-46,53,46
+0022001043,2021-05-12,BKN,SAS,22.53,2,1,28,BKN,BKN,fg_make,98,False,False,Green 1' Cutting Layup Shot (6 PTS) (Harden 3 AST),,55-46,55,46
+0022001043,2021-05-12,BKN,SAS,22.87,2,1,8,SAS,SAS,fg_make,3,False,False,,Eubanks 4' Hook Shot (2 PTS) (Murray 2 AST),55-48,55,48
+0022001043,2021-05-12,BKN,SAS,23.08,2,0,55,BKN,SAS,foul,2,False,False,,Eubanks S.FOUL (P2.PN) (T.Washington),55-48,55,48
+0022001043,2021-05-12,BKN,SAS,23.08,2,0,55,BKN,BKN,ft_make,11,False,False,Griffin Free Throw 1 of 2 (10 PTS),,56-48,56,48
+0022001043,2021-05-12,BKN,SAS,23.08,2,0,55,BKN,BKN,ft_make,12,False,False,Griffin Free Throw 2 of 2 (11 PTS),,57-48,57,48
+0022001043,2021-05-12,BKN,SAS,23.43,2,0,34,SAS,SAS,tov,2,False,True,,DeRozan Lost Ball Turnover (P1.T3),57-48,57,48
+0022001043,2021-05-12,BKN,SAS,23.43,2,0,34,SAS,BKN,steal,2,False,True,steal,steal,57-48,57,48
+0022001043,2021-05-12,BKN,SAS,23.52,2,0,29,BKN,BKN,fg3_miss,103,False,False,MISS Harden 25' 3PT Running Pull-Up Jump Shot,,57-48,57,48
+0022001043,2021-05-12,BKN,SAS,23.58,2,0,25,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:7),57-48,57,48
+0022001043,2021-05-12,BKN,SAS,23.63,2,0,22,SAS,SAS,fg3_make,1,False,False,,Walker IV 25' 3PT Jump Shot (9 PTS) (Murray 3 AST),57-51,57,51
+0022001043,2021-05-12,BKN,SAS,24.0,2,0,0,BKN,BKN,fg_miss,101,False,False,MISS Harden 5' Driving Floating Jump Shot,,57-51,57,51
+0022001043,2021-05-12,BKN,SAS,24.0,2,0,0,BKN,BKN,reb,0,False,False,NETS Rebound,,57-51,57,51
+0022001043,2021-05-12,BKN,SAS,24.0,2,0,0,BKN,,period_end,0,False,False,,,57-51,57,51
+0022001043,2021-05-12,BKN,SAS,24.0,3,12,0,BKN,,period_start,0,False,False,,,57-51,57,51
+0022001043,2021-05-12,BKN,SAS,24.25,3,11,45,BKN,BKN,fg_make,78,False,False,Brown 5' Floating Jump Shot (9 PTS) (Durant 5 AST),,59-51,59,51
+0022001043,2021-05-12,BKN,SAS,24.47,3,11,32,SAS,SAS,fg_make,6,False,False,,DeRozan 2' Driving Layup (10 PTS),59-53,59,53
+0022001043,2021-05-12,BKN,SAS,24.62,3,11,23,BKN,BKN,fg_make,98,False,False,Brown 1' Cutting Layup Shot (11 PTS) (Griffin 4 AST),,61-53,61,53
+0022001043,2021-05-12,BKN,SAS,24.87,3,11,8,SAS,SAS,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,61-53,61,53
+0022001043,2021-05-12,BKN,SAS,24.9,3,11,6,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:8),,61-53,61,53
+0022001043,2021-05-12,BKN,SAS,24.98,3,11,1,BKN,BKN,fg_make,9,False,False,Durant 1' Driving Dunk (8 PTS) (Brown 1 AST),,63-53,63,53
+0022001043,2021-05-12,BKN,SAS,25.37,3,10,38,SAS,SAS,fg_miss,79,False,False,,MISS Walker IV 18' Pullup Jump Shot,63-53,63,53
+0022001043,2021-05-12,BKN,SAS,25.43,3,10,34,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:9),,63-53,63,53
+0022001043,2021-05-12,BKN,SAS,25.6,3,10,24,BKN,SAS,foul,1,False,False,,DeRozan P.FOUL (P2.T1) (S.Foster),63-53,63,53
+0022001043,2021-05-12,BKN,SAS,25.72,3,10,17,BKN,BKN,fg3_miss,1,False,False,MISS Shamet 3PT Jump Shot,,63-53,63,53
+0022001043,2021-05-12,BKN,SAS,25.8,3,10,12,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:8),63-53,63,53
+0022001043,2021-05-12,BKN,SAS,25.87,3,10,8,SAS,SAS,fg_make,101,False,False,,Murray 12' Driving Floating Jump Shot (10 PTS),63-55,63,55
+0022001043,2021-05-12,BKN,SAS,26.2,3,9,48,BKN,BKN,fg_miss,47,False,False,MISS James 18' Turnaround Jump Shot,,63-55,63,55
+0022001043,2021-05-12,BKN,SAS,26.28,3,9,43,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:9),63-55,63,55
+0022001043,2021-05-12,BKN,SAS,26.33,3,9,40,SAS,SAS,fg_make,6,False,False,,Murray 1' Driving Layup (12 PTS),63-57,63,57
+0022001043,2021-05-12,BKN,SAS,26.57,3,9,26,BKN,BKN,fg_make,9,False,False,Griffin 1' Driving Dunk (13 PTS) (James 3 AST),,65-57,65,57
+0022001043,2021-05-12,BKN,SAS,26.8,3,9,12,SAS,SAS,fg_make,1,False,False,,DeRozan 21' Jump Shot (12 PTS) (Johnson 1 AST),65-59,65,59
+0022001043,2021-05-12,BKN,SAS,27.1,3,8,54,BKN,BKN,fg3_make,1,False,False,Shamet 25' 3PT Jump Shot (16 PTS) (James 4 AST),,68-59,68,59
+0022001043,2021-05-12,BKN,SAS,27.35,3,8,39,SAS,SAS,fg_make,63,False,False,,DeRozan 10' Fadeaway Jumper (14 PTS) (Murray 4 AST),68-61,68,61
+0022001043,2021-05-12,BKN,SAS,27.57,3,8,26,BKN,BKN,fg3_make,1,False,False,Shamet 3PT Jump Shot (19 PTS) (James 5 AST),,71-61,71,61
+0022001043,2021-05-12,BKN,SAS,27.8,3,8,12,SAS,BKN,foul,2,False,False,Brown S.FOUL (P3.T1) (S.Foster),,71-61,71,61
+0022001043,2021-05-12,BKN,SAS,27.8,3,8,12,SAS,SAS,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (5 PTS),71-62,71,62
+0022001043,2021-05-12,BKN,SAS,27.8,3,8,12,SAS,SAS,ft_miss,12,False,False,,MISS Johnson Free Throw 2 of 2,71-62,71,62
+0022001043,2021-05-12,BKN,SAS,27.87,3,8,8,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:5),,71-62,71,62
+0022001043,2021-05-12,BKN,SAS,27.98,3,8,1,BKN,SAS,foul,2,False,False,,Johnson S.FOUL (P1.T2) (S.Foster),71-62,71,62
+0022001043,2021-05-12,BKN,SAS,27.98,3,8,1,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (9 PTS),,72-62,72,62
+0022001043,2021-05-12,BKN,SAS,27.98,3,8,1,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (10 PTS),,73-62,73,62
+0022001043,2021-05-12,BKN,SAS,28.23,3,7,46,SAS,SAS,fg_make,79,False,False,,Murray 12' Pullup Jump Shot (14 PTS),73-64,73,64
+0022001043,2021-05-12,BKN,SAS,28.63,3,7,22,BKN,BKN,fg3_make,80,False,False,Harden 25' 3PT Step Back Jump Shot (5 PTS),,76-64,76,64
+0022001043,2021-05-12,BKN,SAS,28.95,3,7,3,SAS,SAS,fg_miss,79,False,False,,MISS DeRozan 21' Pullup Jump Shot,76-64,76,64
+0022001043,2021-05-12,BKN,SAS,29.0,3,7,0,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:6),,76-64,76,64
+0022001043,2021-05-12,BKN,SAS,29.05,3,6,57,BKN,SAS,foul,2,False,False,,DeRozan S.FOUL (P3.T3) (S.Foster),76-64,76,64
+0022001043,2021-05-12,BKN,SAS,29.05,3,6,57,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,76-64,76,64
+0022001043,2021-05-12,BKN,SAS,29.05,3,6,57,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (11 PTS),,77-64,77,64
+0022001043,2021-05-12,BKN,SAS,29.05,3,6,57,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (12 PTS),,78-64,78,64
+0022001043,2021-05-12,BKN,SAS,29.25,3,6,45,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 26' 3PT Jump Shot,78-64,78,64
+0022001043,2021-05-12,BKN,SAS,29.32,3,6,41,BKN,BKN,reb,0,False,False,Shamet REBOUND (Off:1 Def:1),,78-64,78,64
+0022001043,2021-05-12,BKN,SAS,29.53,3,6,28,BKN,BKN,fg_make,58,False,False,Claxton Turnaround Hook Shot (5 PTS) (Durant 6 AST),,80-64,80,64
+0022001043,2021-05-12,BKN,SAS,29.83,3,6,10,SAS,SAS,fg_make,6,False,False,,Johnson 2' Driving Layup (7 PTS) (Poeltl 1 AST),80-66,80,66
+0022001043,2021-05-12,BKN,SAS,30.03,3,5,58,BKN,BKN,fg_make,78,False,False,Johnson 6' Floating Jump Shot (2 PTS) (Harden 4 AST),,82-66,82,66
+0022001043,2021-05-12,BKN,SAS,30.3,3,5,42,SAS,SAS,fg_miss,47,True,False,,MISS Poeltl 4' Turnaround Jump Shot,82-66,82,66
+0022001043,2021-05-12,BKN,SAS,30.3,3,5,42,SAS,BKN,block,47,True,False,block,block,82-66,82,66
+0022001043,2021-05-12,BKN,SAS,30.37,3,5,38,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:6 Def:2),82-66,82,66
+0022001043,2021-05-12,BKN,SAS,30.38,3,5,37,SAS,SAS,fg_make,1,False,False,,DeRozan 21' Jump Shot (16 PTS) (Poeltl 2 AST),82-68,82,68
+0022001043,2021-05-12,BKN,SAS,30.65,3,5,21,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P1.T5),,82-68,82,68
+0022001043,2021-05-12,BKN,SAS,30.65,3,5,21,BKN,SAS,steal,1,False,True,steal,steal,82-68,82,68
+0022001043,2021-05-12,BKN,SAS,30.72,3,5,17,SAS,SAS,tov,1,False,True,,DeRozan Bad Pass Turnover (P2.T4),82-68,82,68
+0022001043,2021-05-12,BKN,SAS,30.72,3,5,17,SAS,BKN,steal,1,False,True,steal,steal,82-68,82,68
+0022001043,2021-05-12,BKN,SAS,30.78,3,5,13,BKN,BKN,fg_make,50,False,False,Claxton Running Dunk (7 PTS),,84-68,84,68
+0022001043,2021-05-12,BKN,SAS,30.92,3,5,5,SAS,BKN,foul,2,False,False,Claxton S.FOUL (P3.T2) (T.Washington),,84-68,84,68
+0022001043,2021-05-12,BKN,SAS,30.92,3,5,5,SAS,SAS,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (17 PTS),84-69,84,69
+0022001043,2021-05-12,BKN,SAS,30.92,3,5,5,SAS,SAS,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (18 PTS),84-70,84,70
+0022001043,2021-05-12,BKN,SAS,31.17,3,4,50,BKN,BKN,fg_miss,79,False,False,MISS Durant 18' Pullup Jump Shot,,84-70,84,70
+0022001043,2021-05-12,BKN,SAS,31.22,3,4,47,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:2),84-70,84,70
+0022001043,2021-05-12,BKN,SAS,31.28,3,4,43,SAS,SAS,fg_make,102,False,False,,DeRozan 6' Driving Floating Bank Jump Shot (20 PTS),84-72,84,72
+0022001043,2021-05-12,BKN,SAS,31.28,3,4,43,SAS,BKN,foul,2,False,False,Johnson S.FOUL (P1.T3) (J.Goble),,84-72,84,72
+0022001043,2021-05-12,BKN,SAS,31.28,3,4,43,SAS,SAS,ft_make,10,False,False,,DeRozan Free Throw 1 of 1 (21 PTS),84-73,84,73
+0022001043,2021-05-12,BKN,SAS,31.47,3,4,32,BKN,BKN,fg_make,75,False,False,Claxton 1' Driving Finger Roll Layup (9 PTS),,86-73,86,73
+0022001043,2021-05-12,BKN,SAS,31.75,3,4,15,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 26' 3PT Jump Shot,86-73,86,73
+0022001043,2021-05-12,BKN,SAS,31.8,3,4,12,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:4),,86-73,86,73
+0022001043,2021-05-12,BKN,SAS,31.9,3,4,6,BKN,SAS,foul,2,False,False,,Gay S.FOUL (P1.T4) (J.Goble),86-73,86,73
+0022001043,2021-05-12,BKN,SAS,31.9,3,4,6,BKN,BKN,ft_make,11,False,False,Shamet Free Throw 1 of 2 (20 PTS),,87-73,87,73
+0022001043,2021-05-12,BKN,SAS,31.9,3,4,6,BKN,BKN,ft_make,12,False,False,Shamet Free Throw 2 of 2 (21 PTS),,88-73,88,73
+0022001043,2021-05-12,BKN,SAS,32.13,3,3,52,SAS,BKN,foul,2,False,False,Green S.FOUL (P1.T4) (S.Foster),,88-73,88,73
+0022001043,2021-05-12,BKN,SAS,32.13,3,3,52,SAS,SAS,ft_make,11,False,False,,Mills Free Throw 1 of 2 (6 PTS),88-74,88,74
+0022001043,2021-05-12,BKN,SAS,32.13,3,3,52,SAS,SAS,ft_make,12,False,False,,Mills Free Throw 2 of 2 (7 PTS),88-75,88,75
+0022001043,2021-05-12,BKN,SAS,32.48,3,3,31,BKN,BKN,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,88-75,88,75
+0022001043,2021-05-12,BKN,SAS,32.53,3,3,28,BKN,BKN,reb,0,False,False,Luwawu-Cabarrot REBOUND (Off:1 Def:1),,88-75,88,75
+0022001043,2021-05-12,BKN,SAS,32.68,3,3,19,BKN,BKN,fg_make,98,False,False,Green 3' Cutting Layup Shot (8 PTS) (Harden 5 AST),,90-75,90,75
+0022001043,2021-05-12,BKN,SAS,32.88,3,3,7,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 3PT Jump Shot,90-75,90,75
+0022001043,2021-05-12,BKN,SAS,32.97,3,3,2,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:3 Def:2),90-75,90,75
+0022001043,2021-05-12,BKN,SAS,32.97,3,3,2,SAS,SAS,fg_make,6,False,False,,Vassell Driving Layup (4 PTS) (Mills 1 AST),90-77,90,77
+0022001043,2021-05-12,BKN,SAS,32.97,3,3,2,SAS,BKN,foul,2,False,False,Luwawu-Cabarrot S.FOUL (P2.PN) (T.Washington),,90-77,90,77
+0022001043,2021-05-12,BKN,SAS,32.97,3,3,2,SAS,SAS,ft_make,10,False,False,,Vassell Free Throw 1 of 1 (5 PTS),90-78,90,78
+0022001043,2021-05-12,BKN,SAS,33.17,3,2,50,BKN,BKN,fg_make,6,False,False,Green 2' Driving Layup (10 PTS) (Harden 6 AST),,92-78,92,78
+0022001043,2021-05-12,BKN,SAS,33.33,3,2,40,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 26' 3PT Jump Shot,92-78,92,78
+0022001043,2021-05-12,BKN,SAS,33.37,3,2,38,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:3),,92-78,92,78
+0022001043,2021-05-12,BKN,SAS,33.45,3,2,33,BKN,BKN,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (8 PTS),,95-78,95,78
+0022001043,2021-05-12,BKN,SAS,33.45,3,2,33,BKN,SAS,foul,2,False,False,,Vassell S.FOUL (P3.PN) (J.Goble),95-78,95,78
+0022001043,2021-05-12,BKN,SAS,33.45,3,2,33,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.4 Short 0),95-78,95,78
+0022001043,2021-05-12,BKN,SAS,33.45,3,2,33,BKN,BKN,ft_miss,10,False,False,MISS Harden Free Throw 1 of 1,,95-78,95,78
+0022001043,2021-05-12,BKN,SAS,33.5,3,2,30,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:3),95-78,95,78
+0022001043,2021-05-12,BKN,SAS,33.67,3,2,20,SAS,BKN,foul,1,False,False,Green P.FOUL (P2.PN) (S.Foster),,95-78,95,78
+0022001043,2021-05-12,BKN,SAS,33.67,3,2,20,SAS,SAS,ft_make,11,False,False,,Mills Free Throw 1 of 2 (8 PTS),95-79,95,79
+0022001043,2021-05-12,BKN,SAS,33.67,3,2,20,SAS,SAS,ft_make,12,False,False,,Mills Free Throw 2 of 2 (9 PTS),95-80,95,80
+0022001043,2021-05-12,BKN,SAS,33.92,3,2,5,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,33.98,3,2,1,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:4),95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.07,3,1,56,SAS,SAS,fg3_miss,103,False,False,,MISS Mills 25' 3PT Running Pull-Up Jump Shot,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.13,3,1,52,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:4),,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.13,3,1,52,BKN,BKN,tov,1,False,True,Claxton Bad Pass Turnover (P2.T6),,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.13,3,1,52,BKN,SAS,steal,1,False,True,steal,steal,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.13,3,1,52,SAS,BKN,foul,1,False,False,Harden P.FOUL (P1.PN) (S.Foster),,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.13,3,1,52,SAS,SAS,ft_miss,11,False,False,,MISS Murray Free Throw 1 of 2,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.13,3,1,52,SAS,SAS,reb,1,False,False,,Spurs Rebound,95-80,95,80
+0022001043,2021-05-12,BKN,SAS,34.13,3,1,52,SAS,SAS,ft_make,12,False,False,,Murray Free Throw 2 of 2 (15 PTS),95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.33,3,1,40,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P2.T7),,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.33,3,1,40,BKN,SAS,steal,1,False,True,steal,steal,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.43,3,1,34,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 26' 3PT Jump Shot,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.47,3,1,32,SAS,SAS,reb,0,False,False,,Spurs Rebound,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.57,3,1,26,SAS,SAS,fg_miss,86,False,False,,MISS Gay 14' Turnaround Fadeaway Shot,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.62,3,1,23,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:0 Def:5),,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.82,3,1,11,BKN,SAS,foul,2,False,False,,Gay S.FOUL (P2.PN) (J.Goble),95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.82,3,1,11,BKN,BKN,ft_miss,11,False,False,MISS Green Free Throw 1 of 2,,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.82,3,1,11,BKN,BKN,reb,1,False,False,NETS Rebound,,95-81,95,81
+0022001043,2021-05-12,BKN,SAS,34.82,3,1,11,BKN,BKN,ft_make,12,False,False,Green Free Throw 2 of 2 (11 PTS),,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.03,3,0,58,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 3PT Jump Shot,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.12,3,0,53,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:7 Def:2),96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.17,3,0,50,SAS,SAS,tov,1,False,True,,Murray Bad Pass Turnover (P1.T5),96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.17,3,0,50,SAS,BKN,steal,1,False,True,steal,steal,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.47,3,0,32,BKN,BKN,fg3_miss,1,False,False,MISS Johnson 25' 3PT Jump Shot,,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.53,3,0,28,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:10),96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.83,3,0,10,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 3PT Jump Shot,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.88,3,0,7,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:5),,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,35.92,3,0,5,BKN,BKN,tov,45,False,False,Harden Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,36.0,3,0,0,SAS,SAS,tov,39,False,False,,Mills Step Out of Bounds Turnover (P2.T6),96-81,96,81
+0022001043,2021-05-12,BKN,SAS,36.0,3,0,0,SAS,,period_end,0,False,False,,,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,36.0,4,12,0,SAS,,period_start,0,False,False,,,96-81,96,81
+0022001043,2021-05-12,BKN,SAS,36.28,4,11,43,SAS,SAS,tov,39,False,False,,Gay Step Out of Bounds Turnover (P1.T7),96-81,96,81
+0022001043,2021-05-12,BKN,SAS,36.47,4,11,32,BKN,BKN,fg_make,98,False,False,Claxton 1' Cutting Layup Shot (11 PTS) (Durant 7 AST),,98-81,98,81
+0022001043,2021-05-12,BKN,SAS,36.77,4,11,14,SAS,SAS,fg_make,47,False,False,,Gay 9' Turnaround Jump Shot (10 PTS),98-83,98,83
+0022001043,2021-05-12,BKN,SAS,36.97,4,11,2,BKN,SAS,foul,2,False,False,,Poeltl S.FOUL (P1.T1) (T.Washington),98-83,98,83
+0022001043,2021-05-12,BKN,SAS,36.97,4,11,2,BKN,BKN,ft_make,11,False,False,Claxton Free Throw 1 of 2 (12 PTS),,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,36.97,4,11,2,BKN,BKN,ft_miss,12,False,False,MISS Claxton Free Throw 2 of 2,,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.03,4,10,58,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:5),99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.27,4,10,44,SAS,SAS,fg_miss,75,False,False,,MISS Mills 5' Driving Finger Roll Layup,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.28,4,10,43,SAS,SAS,reb,0,False,False,,Spurs Rebound,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.45,4,10,33,SAS,SAS,fg3_miss,80,True,False,,MISS Mills 26' 3PT Step Back Jump Shot,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.45,4,10,33,SAS,BKN,block,80,True,False,block,block,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.48,4,10,31,SAS,SAS,reb,0,False,False,,Spurs Rebound,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.52,4,10,29,SAS,SAS,fg_miss,5,True,False,,MISS Poeltl 2' Layup,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.52,4,10,29,SAS,BKN,block,5,True,False,block,block,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.6,4,10,24,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:10),,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.68,4,10,19,BKN,SAS,foul,2,False,False,,Poeltl S.FOUL (P2.T2) (S.Foster),99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.68,4,10,19,BKN,BKN,ft_miss,11,False,False,MISS Brown Free Throw 1 of 2,,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.68,4,10,19,BKN,BKN,reb,1,False,False,NETS Rebound,,99-83,99,83
+0022001043,2021-05-12,BKN,SAS,37.68,4,10,19,BKN,BKN,ft_make,12,False,False,Brown Free Throw 2 of 2 (12 PTS),,100-83,100,83
+0022001043,2021-05-12,BKN,SAS,37.92,4,10,5,SAS,SAS,fg_miss,63,False,False,,MISS Murray 11' Fadeaway Jumper,100-83,100,83
+0022001043,2021-05-12,BKN,SAS,37.97,4,10,2,SAS,SAS,reb,0,False,False,,Dieng REBOUND (Off:1 Def:0),100-83,100,83
+0022001043,2021-05-12,BKN,SAS,38.02,4,9,59,SAS,SAS,fg3_make,1,False,False,,Mills 25' 3PT Jump Shot (12 PTS) (DeRozan 5 AST),100-86,100,86
+0022001043,2021-05-12,BKN,SAS,38.53,4,9,28,BKN,BKN,fg_make,5,False,False,Claxton 1' Layup (14 PTS) (Johnson 2 AST),,102-86,102,86
+0022001043,2021-05-12,BKN,SAS,38.75,4,9,15,SAS,SAS,fg3_make,1,False,False,,Mills 25' 3PT Jump Shot (15 PTS) (Murray 5 AST),102-89,102,89
+0022001043,2021-05-12,BKN,SAS,38.92,4,9,5,BKN,SAS,foul,2,False,False,,DeRozan S.FOUL (P4.T3) (J.Goble),102-89,102,89
+0022001043,2021-05-12,BKN,SAS,38.92,4,9,5,BKN,BKN,ft_make,11,False,False,Claxton Free Throw 1 of 2 (15 PTS),,103-89,103,89
+0022001043,2021-05-12,BKN,SAS,38.92,4,9,5,BKN,BKN,ft_make,12,False,False,Claxton Free Throw 2 of 2 (16 PTS),,104-89,104,89
+0022001043,2021-05-12,BKN,SAS,39.08,4,8,55,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 24' 3PT Jump Shot,104-89,104,89
+0022001043,2021-05-12,BKN,SAS,39.15,4,8,51,BKN,BKN,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,104-89,104,89
+0022001043,2021-05-12,BKN,SAS,39.35,4,8,39,BKN,BKN,tov,45,False,False,Harden Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,104-89,104,89
+0022001043,2021-05-12,BKN,SAS,39.5,4,8,30,SAS,SAS,fg_miss,6,False,False,,MISS DeRozan 1' Driving Layup,104-89,104,89
+0022001043,2021-05-12,BKN,SAS,39.53,4,8,28,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:6),,104-89,104,89
+0022001043,2021-05-12,BKN,SAS,39.67,4,8,20,BKN,BKN,fg_make,108,False,False,Claxton 1' Cutting Dunk Shot (18 PTS) (Harden 7 AST),,106-89,106,89
+0022001043,2021-05-12,BKN,SAS,39.7,4,8,18,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.5 Short 0),106-89,106,89
+0022001043,2021-05-12,BKN,SAS,39.83,4,8,10,SAS,SAS,tov,45,False,False,,Dieng Out of Bounds - Bad Pass Turnover Turnover (P1.T8),106-89,106,89
+0022001043,2021-05-12,BKN,SAS,40.07,4,7,56,BKN,BKN,fg_make,108,False,False,Durant 1' Cutting Dunk Shot (14 PTS) (Harden 8 AST),,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,40.38,4,7,37,SAS,SAS,fg_miss,44,True,False,,MISS Dieng 2' Reverse Layup,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,40.38,4,7,37,SAS,BKN,block,44,True,False,block,block,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,40.43,4,7,34,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:7),,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,40.62,4,7,23,BKN,BKN,fg_miss,102,False,False,MISS Durant 10' Driving Floating Bank Jump Shot,,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,40.67,4,7,20,SAS,SAS,reb,0,False,False,,Bates-Diop REBOUND (Off:0 Def:1),108-89,108,89
+0022001043,2021-05-12,BKN,SAS,40.8,4,7,12,SAS,SAS,fg_miss,78,False,False,,MISS Jones 11' Floating Jump Shot,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,40.85,4,7,9,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:7),,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,41.03,4,6,58,BKN,BKN,fg3_miss,1,False,False,MISS Durant 26' 3PT Jump Shot,,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,41.1,4,6,54,SAS,SAS,reb,0,False,False,,Dieng REBOUND (Off:1 Def:1),108-89,108,89
+0022001043,2021-05-12,BKN,SAS,41.35,4,6,39,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 25' 3PT Jump Shot,108-89,108,89
+0022001043,2021-05-12,BKN,SAS,41.4,4,6,36,SAS,SAS,reb,0,False,False,,Dieng REBOUND (Off:2 Def:1),108-89,108,89
+0022001043,2021-05-12,BKN,SAS,41.4,4,6,36,SAS,SAS,fg_make,72,False,False,,Dieng Putback Layup (2 PTS),108-91,108,91
+0022001043,2021-05-12,BKN,SAS,41.4,4,6,36,SAS,BKN,foul,2,False,False,Harden S.FOUL (P2.T1) (J.Goble),,108-91,108,91
+0022001043,2021-05-12,BKN,SAS,41.4,4,6,36,SAS,SAS,ft_make,10,False,False,,Dieng Free Throw 1 of 1 (3 PTS),108-92,108,92
+0022001043,2021-05-12,BKN,SAS,41.52,4,6,29,BKN,BKN,tov,2,False,True,Claxton Lost Ball Turnover (P3.T10),,108-92,108,92
+0022001043,2021-05-12,BKN,SAS,41.52,4,6,29,BKN,SAS,steal,2,False,True,steal,steal,108-92,108,92
+0022001043,2021-05-12,BKN,SAS,41.6,4,6,24,SAS,SAS,fg_make,63,False,False,,Vassell 10' Fadeaway Jumper (7 PTS),108-94,108,94
+0022001043,2021-05-12,BKN,SAS,41.6,4,6,24,SAS,BKN,foul,2,False,False,Shamet S.FOUL (P2.T2) (T.Washington),,108-94,108,94
+0022001043,2021-05-12,BKN,SAS,41.6,4,6,24,SAS,SAS,ft_make,10,False,False,,Vassell Free Throw 1 of 1 (8 PTS),108-95,108,95
+0022001043,2021-05-12,BKN,SAS,41.83,4,6,10,BKN,BKN,fg_make,101,False,False,Harden 10' Driving Floating Jump Shot (10 PTS),,110-95,110,95
+0022001043,2021-05-12,BKN,SAS,42.12,4,5,53,SAS,SAS,fg_make,98,False,False,,Bates-Diop 2' Cutting Layup Shot (2 PTS) (Dieng 1 AST),110-97,110,97
+0022001043,2021-05-12,BKN,SAS,42.27,4,5,44,BKN,SAS,foul,2,False,False,,Bates-Diop S.FOUL (P1.T4) (J.Goble),110-97,110,97
+0022001043,2021-05-12,BKN,SAS,42.27,4,5,44,BKN,BKN,ft_miss,11,False,False,MISS Harden Free Throw 1 of 2,,110-97,110,97
+0022001043,2021-05-12,BKN,SAS,42.27,4,5,44,BKN,BKN,reb,1,False,False,NETS Rebound,,110-97,110,97
+0022001043,2021-05-12,BKN,SAS,42.27,4,5,44,BKN,BKN,ft_make,12,False,False,Harden Free Throw 2 of 2 (11 PTS),,111-97,111,97
+0022001043,2021-05-12,BKN,SAS,42.47,4,5,32,SAS,SAS,fg_make,5,False,False,,Bates-Diop 1' Layup (4 PTS) (Dieng 2 AST),111-99,111,99
+0022001043,2021-05-12,BKN,SAS,42.47,4,5,32,SAS,BKN,foul,2,False,False,Claxton S.FOUL (P4.T3) (J.Goble),,111-99,111,99
+0022001043,2021-05-12,BKN,SAS,42.47,4,5,32,SAS,SAS,ft_make,10,False,False,,Bates-Diop Free Throw 1 of 1 (5 PTS),111-100,111,100
+0022001043,2021-05-12,BKN,SAS,42.72,4,5,17,BKN,BKN,fg_miss,79,False,False,MISS James 16' Pullup Jump Shot,,111-100,111,100
+0022001043,2021-05-12,BKN,SAS,42.77,4,5,14,SAS,SAS,reb,0,False,False,,Dieng REBOUND (Off:2 Def:2),111-100,111,100
+0022001043,2021-05-12,BKN,SAS,42.88,4,5,7,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 25' 3PT Jump Shot,111-100,111,100
+0022001043,2021-05-12,BKN,SAS,42.95,4,5,3,BKN,BKN,reb,0,False,False,Shamet REBOUND (Off:1 Def:2),,111-100,111,100
+0022001043,2021-05-12,BKN,SAS,42.98,4,5,1,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,111-100,111,100
+0022001043,2021-05-12,BKN,SAS,43.12,4,4,53,BKN,BKN,fg_make,98,False,False,Green Cutting Layup Shot (13 PTS) (Harden 9 AST),,113-100,113,100
+0022001043,2021-05-12,BKN,SAS,43.25,4,4,45,SAS,BKN,foul,2,False,False,James S.FOUL (P2.T4) (T.Washington),,113-100,113,100
+0022001043,2021-05-12,BKN,SAS,43.25,4,4,45,SAS,SAS,ft_make,11,False,False,,Jones Free Throw 1 of 2 (1 PTS),113-101,113,101
+0022001043,2021-05-12,BKN,SAS,43.25,4,4,45,SAS,SAS,ft_make,12,False,False,,Jones Free Throw 2 of 2 (2 PTS),113-102,113,102
+0022001043,2021-05-12,BKN,SAS,43.53,4,4,28,BKN,BKN,fg_make,101,False,False,Harden 8' Driving Floating Jump Shot (13 PTS),,115-102,115,102
+0022001043,2021-05-12,BKN,SAS,43.85,4,4,9,SAS,SAS,fg_miss,6,True,False,,MISS Samanic 5' Driving Layup,115-102,115,102
+0022001043,2021-05-12,BKN,SAS,43.85,4,4,9,SAS,BKN,block,6,True,False,block,block,115-102,115,102
+0022001043,2021-05-12,BKN,SAS,43.87,4,4,8,SAS,SAS,reb,0,False,False,,Bates-Diop REBOUND (Off:1 Def:1),115-102,115,102
+0022001043,2021-05-12,BKN,SAS,43.88,4,4,7,SAS,SAS,fg_make,57,False,False,,Samanic 2' Driving Hook Shot (2 PTS) (Bates-Diop 1 AST),115-104,115,104
+0022001043,2021-05-12,BKN,SAS,44.17,4,3,50,BKN,BKN,fg_make,98,False,False,Brown 1' Cutting Layup Shot (14 PTS) (Harden 10 AST),,117-104,117,104
+0022001043,2021-05-12,BKN,SAS,44.33,4,3,40,SAS,SAS,fg3_miss,1,False,False,,MISS Bates-Diop 24' 3PT Jump Shot,117-104,117,104
+0022001043,2021-05-12,BKN,SAS,44.37,4,3,38,SAS,SAS,reb,0,False,False,,Spurs Rebound,117-104,117,104
+0022001043,2021-05-12,BKN,SAS,44.5,4,3,30,SAS,SAS,fg_miss,101,False,False,,MISS Bates-Diop 9' Driving Floating Jump Shot,117-104,117,104
+0022001043,2021-05-12,BKN,SAS,44.62,4,3,23,SAS,SAS,reb,0,False,False,,Jones REBOUND (Off:1 Def:0),117-104,117,104
+0022001043,2021-05-12,BKN,SAS,44.62,4,3,23,SAS,SAS,fg_make,97,False,False,,Jones Tip Layup Shot (4 PTS),117-106,117,106
+0022001043,2021-05-12,BKN,SAS,44.97,4,3,2,BKN,BKN,fg_make,101,False,False,Harden 9' Driving Floating Jump Shot (15 PTS),,119-106,119,106
+0022001043,2021-05-12,BKN,SAS,45.23,4,2,46,SAS,SAS,fg_miss,73,False,False,,MISS Eubanks 2' Driving Reverse Layup,119-106,119,106
+0022001043,2021-05-12,BKN,SAS,45.27,4,2,44,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:11),,119-106,119,106
+0022001043,2021-05-12,BKN,SAS,45.4,4,2,36,BKN,BKN,fg_miss,58,False,False,MISS Brown 6' Turnaround Hook Shot,,119-106,119,106
+0022001043,2021-05-12,BKN,SAS,45.47,4,2,32,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:0 Def:2),119-106,119,106
+0022001043,2021-05-12,BKN,SAS,45.67,4,2,20,SAS,SAS,fg_make,58,False,False,,Dieng 6' Turnaround Hook Shot (5 PTS),119-108,119,108
+0022001043,2021-05-12,BKN,SAS,45.93,4,2,4,BKN,SAS,violation,5,False,False,,Eubanks Violation:Kicked Ball (S.Foster),119-108,119,108
+0022001043,2021-05-12,BKN,SAS,46.12,4,1,53,BKN,BKN,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (18 PTS),,122-108,122,108
+0022001043,2021-05-12,BKN,SAS,46.23,4,1,46,SAS,SAS,fg_make,44,False,False,,Bates-Diop 1' Reverse Layup (7 PTS) (Dieng 3 AST),122-110,122,110
+0022001043,2021-05-12,BKN,SAS,46.58,4,1,25,BKN,BKN,fg3_make,1,False,False,Green 26' 3PT Jump Shot (16 PTS) (Harden 11 AST),,125-110,125,110
+0022001043,2021-05-12,BKN,SAS,46.8,4,1,12,SAS,BKN,foul,2,False,False,Brown S.FOUL (P4.PN) (T.Washington),,125-110,125,110
+0022001043,2021-05-12,BKN,SAS,46.8,4,1,12,SAS,SAS,ft_make,11,False,False,,Eubanks Free Throw 1 of 2 (3 PTS),125-111,125,111
+0022001043,2021-05-12,BKN,SAS,46.8,4,1,12,SAS,SAS,ft_make,12,False,False,,Eubanks Free Throw 2 of 2 (4 PTS),125-112,125,112
+0022001043,2021-05-12,BKN,SAS,47.05,4,0,57,BKN,BKN,tov,45,False,False,Luwawu-Cabarrot Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,125-112,125,112
+0022001043,2021-05-12,BKN,SAS,47.33,4,0,40,SAS,SAS,fg_make,98,False,False,,Dieng Cutting Layup Shot (7 PTS) (Jones 1 AST),125-114,125,114
+0022001043,2021-05-12,BKN,SAS,47.52,4,0,29,BKN,BKN,fg3_make,79,False,False,James 26' 3PT Pullup Jump Shot (12 PTS),,128-114,128,114
+0022001043,2021-05-12,BKN,SAS,47.7,4,0,18,SAS,SAS,fg_make,99,False,False,,Eubanks Cutting Finger Roll Layup Shot (6 PTS),128-116,128,116
+0022001043,2021-05-12,BKN,SAS,48.0,4,0,0,SAS,,period_end,0,False,False,,,128-116,128,116

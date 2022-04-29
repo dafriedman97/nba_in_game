@@ -1,0 +1,498 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100723,2022-01-26,IND,CHA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100723,2022-01-26,IND,CHA,0.0,1,12,0,,IND,jump_ball,0,False,False,Jump Ball Bitadze vs. Plumlee: Tip to Craig,,0-0,0,0
+0022100723,2022-01-26,IND,CHA,0.32,1,11,41,IND,IND,fg3_miss,1,False,False,MISS Craig 26' 3PT Jump Shot,,0-0,0,0
+0022100723,2022-01-26,IND,CHA,0.33,1,11,40,IND,IND,reb,0,False,False,PACERS Rebound,,0-0,0,0
+0022100723,2022-01-26,IND,CHA,0.33,1,11,40,IND,CHA,foul,3,False,False,,Martin L.B.FOUL (P1.T1) (M.Kogut),0-0,0,0
+0022100723,2022-01-26,IND,CHA,0.37,1,11,38,IND,CHA,foul,2,False,False,,Ball S.FOUL (P1.T2) (M.Dagher),0-0,0,0
+0022100723,2022-01-26,IND,CHA,0.37,1,11,38,IND,IND,ft_make,11,False,False,Holiday Free Throw 1 of 2 (1 PTS),,1-0,1,0
+0022100723,2022-01-26,IND,CHA,0.37,1,11,38,IND,IND,tov,17,False,False,Bitadze Lane Violation Turnover (P1.T1),,1-0,1,0
+0022100723,2022-01-26,IND,CHA,0.63,1,11,22,CHA,CHA,fg3_make,1,False,False,,Bridges 24' 3PT Jump Shot (3 PTS) (Rozier 1 AST),1-3,1,3
+0022100723,2022-01-26,IND,CHA,0.88,1,11,7,CHA,IND,foul,4,False,False,Bitadze OFF.Foul (P1) (M.Kogut),,1-3,1,3
+0022100723,2022-01-26,IND,CHA,0.88,1,11,7,IND,IND,tov,37,False,False,Bitadze Offensive Foul Turnover (P2.T2),,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.15,1,10,51,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 25' 3PT Jump Shot,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.18,1,10,49,CHA,CHA,reb,0,False,False,,Hornets Rebound,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.18,1,10,49,CHA,IND,foul,3,False,False,LeVert L.B.FOUL (P1.T1) (M.Dagher),,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.33,1,10,40,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 3PT Jump Shot,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.42,1,10,35,IND,IND,reb,0,False,False,Duarte REBOUND (Off:0 Def:1),,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.67,1,10,20,IND,CHA,block,5,True,False,block,block,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.67,1,10,20,IND,IND,fg_miss,5,True,False,MISS Bitadze 4' Layup,,1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.7,1,10,18,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:1),1-3,1,3
+0022100723,2022-01-26,IND,CHA,1.75,1,10,15,CHA,CHA,fg_make,76,False,False,,Martin 2' Running Finger Roll Layup (2 PTS) (Ball 1 AST),1-5,1,5
+0022100723,2022-01-26,IND,CHA,1.95,1,10,3,IND,IND,fg_make,75,False,False,LeVert 3' Driving Finger Roll Layup (2 PTS) (Holiday 1 AST),,3-5,3,5
+0022100723,2022-01-26,IND,CHA,2.2,1,9,48,CHA,CHA,fg_make,51,False,False,,Plumlee 1' Reverse Dunk (2 PTS) (Bridges 1 AST),3-7,3,7
+0022100723,2022-01-26,IND,CHA,2.52,1,9,29,CHA,IND,foul,26,False,False,Craig Offensive Charge Foul (P1) (M.Dagher),,3-7,3,7
+0022100723,2022-01-26,IND,CHA,2.52,1,9,29,IND,IND,tov,37,False,False,Craig Offensive Foul Turnover (P1.T3),,3-7,3,7
+0022100723,2022-01-26,IND,CHA,2.92,1,9,5,CHA,CHA,fg_make,101,False,False,,Ball 5' Driving Floating Jump Shot (2 PTS),3-9,3,9
+0022100723,2022-01-26,IND,CHA,3.0,1,9,0,IND,IND,tov,1,False,True,Bitadze Bad Pass Turnover (P3.T4),,3-9,3,9
+0022100723,2022-01-26,IND,CHA,3.0,1,9,0,IND,CHA,steal,1,False,True,steal,steal,3-9,3,9
+0022100723,2022-01-26,IND,CHA,3.13,1,8,52,CHA,CHA,fg3_make,1,False,False,,Rozier 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.18,1,8,49,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 1 Short 0),,3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.37,1,8,38,IND,IND,fg_miss,47,False,False,MISS Bitadze 8' Turnaround Jump Shot,,3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.42,1,8,35,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.57,1,8,26,CHA,CHA,fg_miss,79,False,False,,MISS Ball 20' Pullup Jump Shot,3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.63,1,8,22,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.72,1,8,17,IND,IND,fg3_miss,2,False,False,MISS Duarte 26' 3PT Running Jump Shot,,3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.75,1,8,15,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:1 Def:0),,3-12,3,12
+0022100723,2022-01-26,IND,CHA,3.77,1,8,14,IND,IND,fg_make,72,False,False,Bitadze 2' Putback Layup (2 PTS),,5-12,5,12
+0022100723,2022-01-26,IND,CHA,3.98,1,8,1,CHA,CHA,fg_miss,75,False,False,,MISS Martin 2' Driving Finger Roll Layup,5-12,5,12
+0022100723,2022-01-26,IND,CHA,4.03,1,7,58,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:2),,5-12,5,12
+0022100723,2022-01-26,IND,CHA,4.12,1,7,53,IND,IND,fg_make,41,False,False,Craig 2' Running Layup (2 PTS) (Holiday 2 AST),,7-12,7,12
+0022100723,2022-01-26,IND,CHA,4.28,1,7,43,CHA,CHA,fg_make,44,False,False,,Bridges 3' Reverse Layup (5 PTS) (Ball 2 AST),7-14,7,14
+0022100723,2022-01-26,IND,CHA,4.58,1,7,25,IND,IND,fg3_make,66,False,False,Duarte 25' 3PT Jump Bank Shot (3 PTS) (Craig 1 AST),,10-14,10,14
+0022100723,2022-01-26,IND,CHA,4.73,1,7,16,CHA,IND,foul,1,False,False,LeVert P.FOUL (P2.T2) (M.Kogut),,10-14,10,14
+0022100723,2022-01-26,IND,CHA,4.83,1,7,10,CHA,CHA,fg_miss,52,False,False,,MISS Plumlee 1' Alley Oop Dunk,10-14,10,14
+0022100723,2022-01-26,IND,CHA,4.87,1,7,8,IND,IND,reb,0,False,False,PACERS Rebound,,10-14,10,14
+0022100723,2022-01-26,IND,CHA,4.87,1,7,8,IND,CHA,foul,3,False,False,,Plumlee L.B.FOUL (P1.T3) (M.Dagher),10-14,10,14
+0022100723,2022-01-26,IND,CHA,5.15,1,6,51,IND,IND,fg_make,44,False,False,Bitadze 2' Reverse Layup (4 PTS) (Holiday 3 AST),,12-14,12,14
+0022100723,2022-01-26,IND,CHA,5.23,1,6,46,CHA,CHA,fg_make,106,False,False,,Bridges 2' Running Alley Oop Dunk Shot (7 PTS) (Ball 3 AST),12-16,12,16
+0022100723,2022-01-26,IND,CHA,5.62,1,6,23,IND,IND,fg_miss,80,False,False,MISS Craig 20' Step Back Jump Shot,,12-16,12,16
+0022100723,2022-01-26,IND,CHA,5.68,1,6,19,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:2 Def:0),,12-16,12,16
+0022100723,2022-01-26,IND,CHA,5.73,1,6,16,IND,IND,fg_make,75,False,False,Duarte 2' Driving Finger Roll Layup (5 PTS) (Bitadze 1 AST),,14-16,14,16
+0022100723,2022-01-26,IND,CHA,6.03,1,5,58,CHA,CHA,fg3_make,1,False,False,,Rozier 26' 3PT Jump Shot (6 PTS) (Plumlee 1 AST),14-19,14,19
+0022100723,2022-01-26,IND,CHA,6.18,1,5,49,IND,IND,fg3_make,2,False,False,Craig 3PT Running Jump Shot (5 PTS) (Stephenson 1 AST),,17-19,17,19
+0022100723,2022-01-26,IND,CHA,6.22,1,5,47,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),17-19,17,19
+0022100723,2022-01-26,IND,CHA,6.5,1,5,30,CHA,CHA,fg_make,9,False,False,,Bridges 1' Driving Dunk (9 PTS),17-21,17,21
+0022100723,2022-01-26,IND,CHA,6.78,1,5,13,IND,IND,fg3_make,1,False,False,Holiday 26' 3PT Jump Shot (4 PTS) (Stephenson 2 AST),,20-21,20,21
+0022100723,2022-01-26,IND,CHA,6.98,1,5,1,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 25' 3PT Jump Shot,20-21,20,21
+0022100723,2022-01-26,IND,CHA,7.08,1,4,55,IND,IND,reb,0,False,False,Duarte REBOUND (Off:0 Def:2),,20-21,20,21
+0022100723,2022-01-26,IND,CHA,7.33,1,4,40,IND,IND,fg_make,105,False,False,Bitadze 2' Turnaround Fadeaway Bank Jump Shot (6 PTS) (Stephenson 3 AST),,22-21,22,21
+0022100723,2022-01-26,IND,CHA,7.33,1,4,40,IND,CHA,foul,2,False,False,,Oubre Jr. S.FOUL (P1.T4) (M.Kogut),22-21,22,21
+0022100723,2022-01-26,IND,CHA,7.33,1,4,40,IND,IND,ft_make,10,False,False,Bitadze Free Throw 1 of 1 (7 PTS),,23-21,23,21
+0022100723,2022-01-26,IND,CHA,7.6,1,4,24,CHA,CHA,fg3_make,79,False,False,,Rozier 25' 3PT Pullup Jump Shot (9 PTS),23-24,23,24
+0022100723,2022-01-26,IND,CHA,7.93,1,4,4,IND,IND,fg3_make,1,False,False,Holiday 3PT Jump Shot (7 PTS) (Stephenson 4 AST),,26-24,26,24
+0022100723,2022-01-26,IND,CHA,8.1,1,3,54,CHA,CHA,fg_miss,98,False,False,,MISS Oubre Jr. 4' Cutting Layup Shot,26-24,26,24
+0022100723,2022-01-26,IND,CHA,8.13,1,3,52,IND,IND,reb,0,False,False,Craig REBOUND (Off:0 Def:1),,26-24,26,24
+0022100723,2022-01-26,IND,CHA,8.22,1,3,47,IND,IND,fg_make,74,False,False,Craig 1' Running Reverse Layup (7 PTS) (Stephenson 5 AST),,28-24,28,24
+0022100723,2022-01-26,IND,CHA,8.48,1,3,31,CHA,IND,foul,2,False,False,Stephenson S.FOUL (P1.T3) (M.Kogut),,28-26,28,26
+0022100723,2022-01-26,IND,CHA,8.48,1,3,31,CHA,CHA,ft_make,10,False,False,,Bridges Free Throw 1 of 1 (12 PTS),28-27,28,27
+0022100723,2022-01-26,IND,CHA,8.48,1,3,31,CHA,CHA,fg_make,75,False,False,,Bridges 2' Driving Finger Roll Layup (11 PTS),28-26,28,26
+0022100723,2022-01-26,IND,CHA,8.87,1,3,8,IND,IND,fg_make,63,False,False,Craig 12' Fadeaway Jumper (9 PTS),,30-27,30,27
+0022100723,2022-01-26,IND,CHA,9.27,1,2,44,CHA,CHA,tov,4,False,False,,Rozier Traveling Turnover (P1.T1),30-27,30,27
+0022100723,2022-01-26,IND,CHA,9.65,1,2,21,IND,IND,fg_make,78,False,False,Jackson 5' Floating Jump Shot (2 PTS) (Stephenson 6 AST),,32-27,32,27
+0022100723,2022-01-26,IND,CHA,9.93,1,2,4,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 26' 3PT Jump Shot,32-27,32,27
+0022100723,2022-01-26,IND,CHA,9.97,1,2,2,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:1),,32-27,32,27
+0022100723,2022-01-26,IND,CHA,10.13,1,1,52,IND,IND,fg3_miss,1,False,False,MISS Stephenson 26' 3PT Jump Shot,,32-27,32,27
+0022100723,2022-01-26,IND,CHA,10.18,1,1,49,IND,IND,reb,0,False,False,Jackson REBOUND (Off:1 Def:0),,32-27,32,27
+0022100723,2022-01-26,IND,CHA,10.23,1,1,46,IND,IND,fg3_miss,1,False,False,MISS Duarte 27' 3PT Jump Shot,,32-27,32,27
+0022100723,2022-01-26,IND,CHA,10.27,1,1,44,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:1),32-27,32,27
+0022100723,2022-01-26,IND,CHA,10.37,1,1,38,CHA,IND,foul,2,False,False,Brissett S.FOUL (P1.T4) (D.Guthrie),,32-29,32,29
+0022100723,2022-01-26,IND,CHA,10.37,1,1,38,CHA,CHA,fg_make,101,False,False,,Oubre Jr. 6' Driving Floating Jump Shot (2 PTS),32-29,32,29
+0022100723,2022-01-26,IND,CHA,10.37,1,1,38,CHA,CHA,ft_make,10,False,False,,Oubre Jr. Free Throw 1 of 1 (3 PTS),32-30,32,30
+0022100723,2022-01-26,IND,CHA,10.63,1,1,22,IND,IND,fg_make,101,False,False,Washington Jr. 12' Driving Floating Jump Shot (2 PTS) (Stephenson 7 AST),,34-30,34,30
+0022100723,2022-01-26,IND,CHA,10.83,1,1,10,IND,IND,reb,0,False,False,Brissett REBOUND (Off:0 Def:1),,34-30,34,30
+0022100723,2022-01-26,IND,CHA,10.83,1,1,10,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 25' 3PT Jump Shot,34-30,34,30
+0022100723,2022-01-26,IND,CHA,10.98,1,1,1,IND,CHA,foul,2,False,False,,Washington S.FOUL (P1.PN) (D.Guthrie),34-30,34,30
+0022100723,2022-01-26,IND,CHA,10.98,1,1,1,IND,IND,ft_miss,11,False,False,MISS Stephenson Free Throw 1 of 2,,34-30,34,30
+0022100723,2022-01-26,IND,CHA,10.98,1,1,1,IND,IND,reb,1,False,False,PACERS Rebound,,34-30,34,30
+0022100723,2022-01-26,IND,CHA,10.98,1,1,1,IND,IND,ft_make,12,False,False,Stephenson Free Throw 2 of 2 (1 PTS),,35-30,35,30
+0022100723,2022-01-26,IND,CHA,11.18,1,0,49,CHA,CHA,fg_miss,75,False,False,,MISS Ball 2' Driving Finger Roll Layup,35-30,35,30
+0022100723,2022-01-26,IND,CHA,11.23,1,0,46,IND,IND,reb,0,False,False,Brissett REBOUND (Off:0 Def:2),,35-30,35,30
+0022100723,2022-01-26,IND,CHA,11.43,1,0,34,IND,IND,tov,45,False,False,Washington Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,35-30,35,30
+0022100723,2022-01-26,IND,CHA,11.62,1,0,23,CHA,IND,foul,2,False,False,Brissett S.FOUL (P2.PN) (M.Kogut),,35-32,35,32
+0022100723,2022-01-26,IND,CHA,11.62,1,0,23,CHA,CHA,fg_make,98,False,False,,Washington 2' Cutting Layup Shot (2 PTS) (Ball 4 AST),35-32,35,32
+0022100723,2022-01-26,IND,CHA,11.62,1,0,23,CHA,CHA,ft_make,10,False,False,,Washington Free Throw 1 of 1 (3 PTS),35-33,35,33
+0022100723,2022-01-26,IND,CHA,11.93,1,0,4,IND,CHA,foul,1,False,False,,Bouknight P.FOUL (P1.PN) (D.Guthrie),35-33,35,33
+0022100723,2022-01-26,IND,CHA,11.93,1,0,4,IND,IND,ft_make,11,False,False,Stephenson Free Throw 1 of 2 (2 PTS),,36-33,36,33
+0022100723,2022-01-26,IND,CHA,11.93,1,0,4,IND,IND,ft_miss,12,False,False,MISS Stephenson Free Throw 2 of 2,,36-33,36,33
+0022100723,2022-01-26,IND,CHA,11.95,1,0,3,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.0,2,12,0,IND,CHA,violation,1,False,False,,Hornets Violation: Delay of game Violation,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.0,1,0,0,CHA,CHA,fg_miss,2,False,False,,MISS Bouknight 23' Running Jump Shot,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.0,1,0,0,CHA,,period_end,0,False,False,,,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.0,1,0,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.0,2,12,0,CHA,,period_start,0,False,False,,,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.22,2,11,47,CHA,CHA,tov,2,False,True,,Bouknight Lost Ball Turnover (P1.T2),36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.22,2,11,47,CHA,IND,steal,2,False,True,steal,steal,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.3,2,11,42,IND,IND,tov,2,False,True,Washington Jr. Lost Ball Turnover (P2.T6),,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.3,2,11,42,IND,CHA,steal,2,False,True,steal,steal,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.37,2,11,38,CHA,CHA,fg_miss,76,False,False,,MISS Ball 3' Running Finger Roll Layup,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.4,2,11,36,IND,IND,reb,0,False,False,Washington Jr. REBOUND (Off:0 Def:1),,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.45,2,11,33,IND,CHA,foul,1,False,False,,Bouknight P.FOUL (P2.T1) (M.Dagher),36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.67,2,11,20,IND,IND,fg_miss,78,False,False,MISS Jackson 12' Floating Jump Shot,,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.73,2,11,16,IND,IND,reb,0,False,False,Jackson REBOUND (Off:2 Def:0),,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.75,2,11,15,IND,IND,fg_miss,97,False,False,MISS Jackson 3' Tip Layup Shot,,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.75,2,11,15,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:2),36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.82,2,11,11,CHA,IND,foul,1,False,False,Jackson P.FOUL (P1.T1) (D.Guthrie),,36-33,36,33
+0022100723,2022-01-26,IND,CHA,12.92,2,11,5,CHA,CHA,fg3_make,79,False,False,,Oubre Jr. 24' 3PT Pullup Jump Shot (6 PTS) (Washington 1 AST),36-36,36,36
+0022100723,2022-01-26,IND,CHA,13.12,2,10,53,IND,IND,fg_make,99,False,False,Washington Jr. 3' Cutting Finger Roll Layup Shot (4 PTS) (Jackson 1 AST),,38-36,38,36
+0022100723,2022-01-26,IND,CHA,13.43,2,10,34,CHA,CHA,ft_make,12,False,False,,Bouknight Free Throw 2 of 2 (2 PTS),38-38,38,38
+0022100723,2022-01-26,IND,CHA,13.43,2,10,34,CHA,IND,foul,2,False,False,Jackson S.FOUL (P2.T2) (M.Kogut),,38-36,38,36
+0022100723,2022-01-26,IND,CHA,13.43,2,10,34,CHA,CHA,ft_make,11,False,False,,Bouknight Free Throw 1 of 2 (1 PTS),38-37,38,37
+0022100723,2022-01-26,IND,CHA,13.62,2,10,23,IND,IND,fg3_make,1,False,False,Washington Jr. 26' 3PT Jump Shot (7 PTS) (Jackson 2 AST),,41-38,41,38
+0022100723,2022-01-26,IND,CHA,13.9,2,10,6,CHA,CHA,fg3_make,79,False,False,,Ball 25' 3PT Pullup Jump Shot (5 PTS) (Bouknight 1 AST),41-41,41,41
+0022100723,2022-01-26,IND,CHA,14.33,2,9,40,IND,IND,tov,1,False,True,Stephenson Bad Pass Turnover (P1.T7),,41-41,41,41
+0022100723,2022-01-26,IND,CHA,14.33,2,9,40,IND,CHA,steal,1,False,True,steal,steal,41-41,41,41
+0022100723,2022-01-26,IND,CHA,14.38,2,9,37,CHA,IND,foul,2,False,False,Lamb S.FOUL (P1.T3) (M.Dagher),,41-41,41,41
+0022100723,2022-01-26,IND,CHA,14.38,2,9,37,CHA,CHA,ft_make,11,False,False,,Bouknight Free Throw 1 of 2 (3 PTS),41-42,41,42
+0022100723,2022-01-26,IND,CHA,14.38,2,9,37,CHA,CHA,ft_make,12,False,False,,Bouknight Free Throw 2 of 2 (4 PTS),41-43,41,43
+0022100723,2022-01-26,IND,CHA,14.68,2,9,19,IND,IND,fg_make,108,False,False,Jackson Cutting Dunk Shot (4 PTS) (LeVert 1 AST),,43-43,43,43
+0022100723,2022-01-26,IND,CHA,14.87,2,9,8,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 27' 3PT Jump Shot (9 PTS) (Ball 5 AST),43-46,43,46
+0022100723,2022-01-26,IND,CHA,15.03,2,8,58,IND,CHA,steal,1,False,True,steal,steal,43-46,43,46
+0022100723,2022-01-26,IND,CHA,15.03,2,8,58,IND,IND,tov,1,False,True,Washington Jr. Bad Pass Turnover (P3.T8),,43-46,43,46
+0022100723,2022-01-26,IND,CHA,15.18,2,8,49,CHA,CHA,fg3_miss,1,False,False,,MISS Bouknight 26' 3PT Jump Shot,43-46,43,46
+0022100723,2022-01-26,IND,CHA,15.23,2,8,46,IND,IND,reb,0,False,False,Washington Jr. REBOUND (Off:0 Def:2),,43-46,43,46
+0022100723,2022-01-26,IND,CHA,15.53,2,8,28,IND,IND,fg3_miss,79,False,False,MISS LeVert 26' 3PT Pullup Jump Shot,,43-46,43,46
+0022100723,2022-01-26,IND,CHA,15.6,2,8,24,CHA,CHA,reb,0,False,False,,Bouknight REBOUND (Off:0 Def:1),43-46,43,46
+0022100723,2022-01-26,IND,CHA,15.72,2,8,17,CHA,CHA,fg_make,58,False,False,,Washington 4' Turnaround Hook Shot (5 PTS) (Ball 6 AST),43-48,43,48
+0022100723,2022-01-26,IND,CHA,15.75,2,8,15,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 2 Short 0),,43-48,43,48
+0022100723,2022-01-26,IND,CHA,15.95,2,8,3,IND,IND,fg3_miss,1,False,False,MISS Washington Jr. 26' 3PT Jump Shot,,43-48,43,48
+0022100723,2022-01-26,IND,CHA,16.03,2,7,58,IND,IND,ft_miss,10,False,False,MISS Bitadze Free Throw 1 of 1,,45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.03,2,7,58,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:3 Def:0),,43-48,43,48
+0022100723,2022-01-26,IND,CHA,16.03,2,7,58,IND,IND,fg_make,5,False,False,Bitadze 3' Layup (9 PTS),,45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.03,2,7,58,IND,CHA,foul,2,False,False,,Washington S.FOUL (P2.T2) (M.Dagher),45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.07,2,7,56,IND,IND,reb,0,False,False,Brissett REBOUND (Off:1 Def:2),,45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.1,2,7,54,IND,IND,fg3_miss,1,False,False,MISS Washington Jr. 25' 3PT Jump Shot,,45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.17,2,7,50,CHA,CHA,reb,0,False,False,,Bouknight REBOUND (Off:0 Def:2),45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.27,2,7,44,CHA,IND,block,41,True,False,block,block,45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.27,2,7,44,CHA,CHA,fg_miss,41,True,False,,MISS Bouknight 7' Running Layup,45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.28,2,7,43,IND,IND,reb,0,False,False,Washington Jr. REBOUND (Off:0 Def:3),,45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.3,2,7,42,IND,CHA,foul,28,False,False,,Martin Personal Take Foul (P2.T3) (M.Dagher),45-48,45,48
+0022100723,2022-01-26,IND,CHA,16.48,2,7,31,IND,IND,fg3_make,1,False,False,Lamb 25' 3PT Jump Shot (3 PTS) (LeVert 2 AST),,48-48,48,48
+0022100723,2022-01-26,IND,CHA,16.67,2,7,20,CHA,CHA,fg_make,75,False,False,,Bouknight 2' Driving Finger Roll Layup (6 PTS) (Ball 7 AST),48-50,48,50
+0022100723,2022-01-26,IND,CHA,16.85,2,7,9,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),48-50,48,50
+0022100723,2022-01-26,IND,CHA,16.85,2,7,9,IND,CHA,foul,1,False,False,,Martin P.FOUL (P3.T4) (D.Guthrie),48-50,48,50
+0022100723,2022-01-26,IND,CHA,16.98,2,7,1,IND,IND,fg_make,99,False,False,Bitadze 2' Cutting Finger Roll Layup Shot (11 PTS) (Lamb 1 AST),,50-50,50,50
+0022100723,2022-01-26,IND,CHA,17.23,2,6,46,CHA,CHA,fg_make,75,False,False,,Ball 2' Driving Finger Roll Layup (7 PTS),50-52,50,52
+0022100723,2022-01-26,IND,CHA,17.43,2,6,34,IND,IND,fg_make,79,False,False,LeVert 17' Pullup Jump Shot (4 PTS) (Bitadze 2 AST),,52-52,52,52
+0022100723,2022-01-26,IND,CHA,17.58,2,6,25,CHA,IND,foul,1,False,False,Bitadze P.FOUL (P2.T4) (D.Guthrie),,52-52,52,52
+0022100723,2022-01-26,IND,CHA,17.63,2,6,22,CHA,IND,foul,2,False,False,Washington Jr. S.FOUL (P1.PN) (M.Kogut),,52-52,52,52
+0022100723,2022-01-26,IND,CHA,17.63,2,6,22,CHA,CHA,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (10 PTS),52-53,52,53
+0022100723,2022-01-26,IND,CHA,17.63,2,6,22,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (11 PTS),52-54,52,54
+0022100723,2022-01-26,IND,CHA,17.93,2,6,4,IND,CHA,steal,1,False,True,steal,steal,52-54,52,54
+0022100723,2022-01-26,IND,CHA,17.93,2,6,4,IND,IND,tov,1,False,True,Holiday Bad Pass Turnover (P1.T9),,52-54,52,54
+0022100723,2022-01-26,IND,CHA,17.98,2,6,1,CHA,CHA,fg3_miss,103,False,False,,MISS Rozier 25' 3PT Running Pull-Up Jump Shot,52-54,52,54
+0022100723,2022-01-26,IND,CHA,18.05,2,5,57,IND,IND,reb,0,False,False,Duarte REBOUND (Off:0 Def:3),,52-54,52,54
+0022100723,2022-01-26,IND,CHA,18.18,2,5,49,IND,IND,fg_miss,101,False,False,MISS Duarte 8' Driving Floating Jump Shot,,52-54,52,54
+0022100723,2022-01-26,IND,CHA,18.2,2,5,48,IND,IND,ft_make,11,False,False,Duarte Free Throw 1 of 2 (6 PTS),,53-54,53,54
+0022100723,2022-01-26,IND,CHA,18.2,2,5,48,IND,CHA,foul,2,False,False,,Oubre Jr. S.FOUL (P2.PN) (D.Guthrie),52-54,52,54
+0022100723,2022-01-26,IND,CHA,18.2,2,5,48,IND,IND,ft_make,12,False,False,Duarte Free Throw 2 of 2 (7 PTS),,54-54,54,54
+0022100723,2022-01-26,IND,CHA,18.2,2,5,48,IND,IND,reb,0,False,False,Duarte REBOUND (Off:1 Def:3),,52-54,52,54
+0022100723,2022-01-26,IND,CHA,18.42,2,5,35,CHA,IND,steal,2,False,True,steal,steal,54-54,54,54
+0022100723,2022-01-26,IND,CHA,18.42,2,5,35,CHA,CHA,tov,2,False,True,,Plumlee Lost Ball Turnover (P1.T3),54-54,54,54
+0022100723,2022-01-26,IND,CHA,18.42,2,5,35,IND,CHA,foul,1,False,False,,Plumlee P.FOUL (P2.PN) (M.Kogut),54-54,54,54
+0022100723,2022-01-26,IND,CHA,18.42,2,5,35,IND,IND,ft_make,11,False,False,LeVert Free Throw 1 of 2 (5 PTS),,55-54,55,54
+0022100723,2022-01-26,IND,CHA,18.42,2,5,35,IND,IND,ft_make,12,False,False,LeVert Free Throw 2 of 2 (6 PTS),,56-54,56,54
+0022100723,2022-01-26,IND,CHA,18.53,2,5,28,CHA,IND,foul,2,False,False,Bitadze S.FOUL (P3.PN) (M.Dagher),,56-54,56,54
+0022100723,2022-01-26,IND,CHA,18.53,2,5,28,CHA,CHA,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (10 PTS),56-55,56,55
+0022100723,2022-01-26,IND,CHA,18.53,2,5,28,CHA,CHA,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (11 PTS),56-56,56,56
+0022100723,2022-01-26,IND,CHA,18.68,2,5,19,IND,IND,fg3_make,1,False,False,Holiday 3PT Jump Shot (10 PTS) (Craig 2 AST),,59-56,59,56
+0022100723,2022-01-26,IND,CHA,18.97,2,5,2,CHA,CHA,fg_make,79,False,False,,Bridges 22' Pullup Jump Shot (14 PTS) (Oubre Jr. 1 AST),59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.07,2,4,56,CHA,IND,foul,4,False,False,Jackson OFF.Foul (P3) (M.Kogut),,59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.07,2,4,56,IND,IND,tov,37,False,False,Jackson Offensive Foul Turnover (P1.T10),,59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.23,2,4,46,CHA,CHA,fg_miss,101,False,False,,MISS Ball 14' Driving Floating Jump Shot,59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.28,2,4,43,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:2),59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.3,2,4,42,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.3,2,4,42,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:1),59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.35,2,4,39,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 25' 3PT Jump Shot,59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.42,2,4,35,CHA,CHA,reb,0,False,False,,Hornets Rebound,59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.48,2,4,31,CHA,IND,foul,2,False,False,LeVert S.FOUL (P3.PN) (M.Dagher),,59-58,59,58
+0022100723,2022-01-26,IND,CHA,19.48,2,4,31,CHA,CHA,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (12 PTS),59-59,59,59
+0022100723,2022-01-26,IND,CHA,19.48,2,4,31,CHA,CHA,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (13 PTS),59-60,59,60
+0022100723,2022-01-26,IND,CHA,19.75,2,4,15,IND,IND,fg_miss,6,True,False,MISS Duarte 6' Driving Layup,,59-60,59,60
+0022100723,2022-01-26,IND,CHA,19.75,2,4,15,IND,CHA,block,6,True,False,block,block,59-60,59,60
+0022100723,2022-01-26,IND,CHA,19.8,2,4,12,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),59-60,59,60
+0022100723,2022-01-26,IND,CHA,19.85,2,4,9,CHA,CHA,fg_make,41,False,False,,Ball 3' Running Layup (9 PTS),59-62,59,62
+0022100723,2022-01-26,IND,CHA,20.08,2,3,55,IND,IND,fg_make,47,False,False,Craig 13' Turnaround Jump Shot (11 PTS) (Brissett 1 AST),,61-62,61,62
+0022100723,2022-01-26,IND,CHA,20.35,2,3,39,CHA,CHA,reb,1,False,False,,Hornets Rebound,61-62,61,62
+0022100723,2022-01-26,IND,CHA,20.35,2,3,39,CHA,CHA,ft_miss,11,False,False,,MISS Plumlee Free Throw 1 of 2,61-62,61,62
+0022100723,2022-01-26,IND,CHA,20.35,2,3,39,CHA,CHA,ft_make,12,False,False,,Plumlee Free Throw 2 of 2 (3 PTS),61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.35,2,3,39,CHA,IND,foul,1,False,False,Craig P.FOUL (P2.PN) (D.Guthrie),,61-62,61,62
+0022100723,2022-01-26,IND,CHA,20.53,2,3,28,IND,IND,fg_miss,80,False,False,MISS Craig 15' Step Back Jump Shot,,61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.58,2,3,25,IND,IND,reb,0,False,False,Brissett REBOUND (Off:2 Def:2),,61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.62,2,3,23,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.62,2,3,23,IND,IND,fg3_miss,79,False,False,MISS Brissett 3PT Pullup Jump Shot,,61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.8,2,3,12,CHA,CHA,reb,1,False,False,,Hornets Rebound,61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.8,2,3,12,CHA,CHA,ft_miss,11,False,False,,MISS Plumlee Free Throw 1 of 2,61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.8,2,3,12,CHA,IND,foul,2,False,False,Holiday S.FOUL (P1.PN) (M.Dagher),,61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.8,2,3,12,CHA,CHA,ft_miss,12,False,False,,MISS Plumlee Free Throw 2 of 2,61-63,61,63
+0022100723,2022-01-26,IND,CHA,20.83,2,3,10,IND,IND,reb,0,False,False,Brissett REBOUND (Off:2 Def:3),,61-63,61,63
+0022100723,2022-01-26,IND,CHA,21.23,2,2,46,IND,IND,tov,11,False,False,PACERS Turnover: Shot Clock (T#11),,61-63,61,63
+0022100723,2022-01-26,IND,CHA,21.35,2,2,39,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P1.T4),61-63,61,63
+0022100723,2022-01-26,IND,CHA,21.35,2,2,39,CHA,IND,steal,1,False,True,steal,steal,61-63,61,63
+0022100723,2022-01-26,IND,CHA,21.42,2,2,35,IND,IND,ft_make,12,False,False,Craig Free Throw 2 of 2 (12 PTS),,62-63,62,63
+0022100723,2022-01-26,IND,CHA,21.42,2,2,35,IND,CHA,foul,28,False,False,,Bridges Personal Take Foul (P1.PN) (M.Dagher),61-63,61,63
+0022100723,2022-01-26,IND,CHA,21.42,2,2,35,IND,IND,ft_miss,11,False,False,MISS Craig Free Throw 1 of 2,,61-63,61,63
+0022100723,2022-01-26,IND,CHA,21.42,2,2,35,IND,IND,reb,1,False,False,PACERS Rebound,,61-63,61,63
+0022100723,2022-01-26,IND,CHA,21.53,2,2,28,CHA,CHA,tov,2,False,True,,Washington Lost Ball Turnover (P1.T5),62-63,62,63
+0022100723,2022-01-26,IND,CHA,21.53,2,2,28,CHA,IND,steal,2,False,True,steal,steal,62-63,62,63
+0022100723,2022-01-26,IND,CHA,21.58,2,2,25,IND,IND,fg_make,50,False,False,Duarte 1' Running Dunk (9 PTS),,64-63,64,63
+0022100723,2022-01-26,IND,CHA,21.73,2,2,16,CHA,CHA,fg3_make,2,False,False,,Oubre Jr. 24' 3PT Running Jump Shot (16 PTS) (Washington 2 AST),64-66,64,66
+0022100723,2022-01-26,IND,CHA,22.1,2,1,54,IND,IND,fg_miss,86,False,False,MISS Duarte 16' Turnaround Fadeaway Shot,,64-66,64,66
+0022100723,2022-01-26,IND,CHA,22.17,2,1,50,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),64-66,64,66
+0022100723,2022-01-26,IND,CHA,22.27,2,1,44,CHA,CHA,fg_make,50,False,False,,Washington 1' Running Dunk (7 PTS) (Rozier 2 AST),64-68,64,68
+0022100723,2022-01-26,IND,CHA,22.27,2,1,44,CHA,IND,violation,1,False,False,PACERS Violation: Delay of game Violation,,64-68,64,68
+0022100723,2022-01-26,IND,CHA,22.27,2,1,44,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,64-68,64,68
+0022100723,2022-01-26,IND,CHA,22.47,2,1,32,IND,IND,fg_make,75,False,False,Stephenson 1' Driving Finger Roll Layup (4 PTS),,66-68,66,68
+0022100723,2022-01-26,IND,CHA,22.68,2,1,19,CHA,CHA,fg_miss,101,False,False,,MISS Rozier 6' Driving Floating Jump Shot,66-68,66,68
+0022100723,2022-01-26,IND,CHA,22.7,2,1,18,CHA,CHA,reb,0,False,False,,Hornets Rebound,66-68,66,68
+0022100723,2022-01-26,IND,CHA,22.75,2,1,15,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 25' 3PT Jump Shot,66-68,66,68
+0022100723,2022-01-26,IND,CHA,22.8,2,1,12,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:2),,66-68,66,68
+0022100723,2022-01-26,IND,CHA,23.1,2,0,54,IND,IND,ft_make,11,False,False,Duarte Free Throw 1 of 2 (10 PTS),,67-68,67,68
+0022100723,2022-01-26,IND,CHA,23.1,2,0,54,IND,CHA,foul,1,False,False,,Bridges P.FOUL (P2.PN) (M.Kogut),66-68,66,68
+0022100723,2022-01-26,IND,CHA,23.1,2,0,54,IND,IND,ft_make,12,False,False,Duarte Free Throw 2 of 2 (11 PTS),,68-68,68,68
+0022100723,2022-01-26,IND,CHA,23.3,2,0,42,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P2.T6),68-68,68,68
+0022100723,2022-01-26,IND,CHA,23.3,2,0,42,CHA,IND,steal,1,False,True,steal,steal,68-68,68,68
+0022100723,2022-01-26,IND,CHA,23.52,2,0,29,IND,CHA,foul,2,False,False,,Washington S.FOUL (P3.PN) (D.Guthrie),68-68,68,68
+0022100723,2022-01-26,IND,CHA,23.52,2,0,29,IND,IND,ft_make,12,False,False,Stephenson Free Throw 2 of 2 (6 PTS),,70-68,70,68
+0022100723,2022-01-26,IND,CHA,23.52,2,0,29,IND,IND,ft_make,11,False,False,Stephenson Free Throw 1 of 2 (5 PTS),,69-68,69,68
+0022100723,2022-01-26,IND,CHA,23.87,2,0,8,CHA,CHA,fg3_make,80,False,False,,Rozier 25' 3PT Step Back Jump Shot (14 PTS),70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.0,3,12,0,IND,,period_start,0,False,False,,,70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.0,2,0,0,IND,,period_end,0,False,False,,,70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.0,2,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.0,2,0,0,IND,IND,fg_miss,102,False,False,MISS Stephenson 10' Driving Floating Bank Jump Shot,,70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.18,3,11,49,CHA,CHA,tov,37,False,False,,Bridges Offensive Foul Turnover (P1.T7),70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.18,3,11,49,IND,CHA,foul,26,False,False,,Bridges Offensive Charge Foul (P3) (M.Kogut),70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.33,3,11,40,IND,IND,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.43,3,11,34,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:3),70-71,70,71
+0022100723,2022-01-26,IND,CHA,24.5,3,11,30,CHA,CHA,fg3_make,2,False,False,,Martin 3PT Running Jump Shot (5 PTS) (Ball 8 AST),70-74,70,74
+0022100723,2022-01-26,IND,CHA,24.83,3,11,10,IND,IND,fg_miss,101,False,False,MISS Craig 11' Driving Floating Jump Shot,,70-74,70,74
+0022100723,2022-01-26,IND,CHA,24.87,3,11,8,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),70-74,70,74
+0022100723,2022-01-26,IND,CHA,24.98,3,11,1,CHA,CHA,fg_make,101,False,False,,Martin 7' Driving Floating Jump Shot (7 PTS),70-76,70,76
+0022100723,2022-01-26,IND,CHA,25.0,3,11,0,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 4 Short 0),,70-76,70,76
+0022100723,2022-01-26,IND,CHA,25.32,3,10,41,IND,IND,fg3_miss,1,False,False,MISS Bitadze 24' 3PT Jump Shot,,70-76,70,76
+0022100723,2022-01-26,IND,CHA,25.35,3,10,39,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:4),70-76,70,76
+0022100723,2022-01-26,IND,CHA,25.58,3,10,25,CHA,CHA,ft_make,12,False,False,,Bridges Free Throw 2 of 2 (16 PTS),70-78,70,78
+0022100723,2022-01-26,IND,CHA,25.58,3,10,25,CHA,IND,foul,2,False,False,Holiday S.FOUL (P2.T1) (D.Guthrie),,70-76,70,76
+0022100723,2022-01-26,IND,CHA,25.58,3,10,25,CHA,CHA,ft_make,11,False,False,,Bridges Free Throw 1 of 2 (15 PTS),70-77,70,77
+0022100723,2022-01-26,IND,CHA,25.72,3,10,17,IND,IND,ft_miss,12,False,False,MISS LeVert Free Throw 2 of 2,,71-78,71,78
+0022100723,2022-01-26,IND,CHA,25.72,3,10,17,IND,IND,ft_make,11,False,False,LeVert Free Throw 1 of 2 (7 PTS),,71-78,71,78
+0022100723,2022-01-26,IND,CHA,25.72,3,10,17,IND,CHA,foul,2,False,False,,Bridges S.FOUL (P4.T1) (D.Guthrie),70-78,70,78
+0022100723,2022-01-26,IND,CHA,25.75,3,10,15,CHA,CHA,reb,0,False,False,,Hornets Rebound,71-78,71,78
+0022100723,2022-01-26,IND,CHA,25.95,3,10,3,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 3PT Jump Shot,71-78,71,78
+0022100723,2022-01-26,IND,CHA,25.98,3,10,1,CHA,IND,foul,3,False,False,Craig L.B.FOUL (P3.T2) (D.Guthrie),,71-78,71,78
+0022100723,2022-01-26,IND,CHA,25.98,3,10,1,CHA,CHA,reb,0,False,False,,Hornets Rebound,71-78,71,78
+0022100723,2022-01-26,IND,CHA,26.18,3,9,49,CHA,CHA,fg_make,57,False,False,,Ball 7' Driving Hook Shot (11 PTS),71-80,71,80
+0022100723,2022-01-26,IND,CHA,26.4,3,9,36,IND,IND,fg3_miss,80,False,False,MISS LeVert 25' 3PT Step Back Jump Shot,,71-80,71,80
+0022100723,2022-01-26,IND,CHA,26.43,3,9,34,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:4 Def:0),,71-80,71,80
+0022100723,2022-01-26,IND,CHA,26.48,3,9,31,IND,IND,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,71-80,71,80
+0022100723,2022-01-26,IND,CHA,26.53,3,9,28,IND,IND,reb,0,False,False,LeVert REBOUND (Off:1 Def:2),,71-80,71,80
+0022100723,2022-01-26,IND,CHA,26.55,3,9,27,IND,IND,ft_miss,12,False,False,MISS LeVert Free Throw 2 of 2,,72-80,72,80
+0022100723,2022-01-26,IND,CHA,26.55,3,9,27,IND,IND,ft_make,11,False,False,LeVert Free Throw 1 of 2 (8 PTS),,72-80,72,80
+0022100723,2022-01-26,IND,CHA,26.55,3,9,27,IND,CHA,foul,2,False,False,,Plumlee S.FOUL (P3.T2) (D.Guthrie),71-80,71,80
+0022100723,2022-01-26,IND,CHA,26.58,3,9,25,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:2),72-80,72,80
+0022100723,2022-01-26,IND,CHA,26.8,3,9,12,CHA,CHA,fg_make,108,False,False,,Oubre Jr. 1' Cutting Dunk Shot (18 PTS) (Plumlee 2 AST),72-82,72,82
+0022100723,2022-01-26,IND,CHA,27.1,3,8,54,IND,IND,tov,1,False,True,Duarte Bad Pass Turnover (P1.T12),,72-82,72,82
+0022100723,2022-01-26,IND,CHA,27.1,3,8,54,IND,CHA,steal,1,False,True,steal,steal,72-82,72,82
+0022100723,2022-01-26,IND,CHA,27.18,3,8,49,CHA,CHA,fg_make,41,False,False,,Rozier 2' Running Layup (16 PTS),72-84,72,84
+0022100723,2022-01-26,IND,CHA,27.22,3,8,47,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 5 Short 0),,72-84,72,84
+0022100723,2022-01-26,IND,CHA,27.42,3,8,35,IND,IND,fg_make,99,False,False,Bitadze 2' Cutting Finger Roll Layup Shot (13 PTS) (LeVert 3 AST),,74-84,74,84
+0022100723,2022-01-26,IND,CHA,27.65,3,8,21,CHA,IND,foul,1,False,False,LeVert P.FOUL (P4.T3) (M.Kogut),,74-84,74,84
+0022100723,2022-01-26,IND,CHA,27.75,3,8,15,CHA,CHA,fg3_make,1,False,False,,Martin 3PT Jump Shot (10 PTS) (Plumlee 3 AST),74-87,74,87
+0022100723,2022-01-26,IND,CHA,28.0,3,8,0,IND,CHA,foul,1,False,False,,Oubre Jr. P.FOUL (P3.T3) (M.Kogut),74-87,74,87
+0022100723,2022-01-26,IND,CHA,28.07,3,7,56,IND,IND,fg3_miss,1,False,False,MISS Bitadze 25' 3PT Jump Shot,,74-87,74,87
+0022100723,2022-01-26,IND,CHA,28.1,3,7,54,IND,IND,reb,0,False,False,Craig REBOUND (Off:1 Def:1),,74-87,74,87
+0022100723,2022-01-26,IND,CHA,28.13,3,7,52,IND,IND,fg3_miss,1,False,False,MISS Holiday 26' 3PT Jump Shot,,74-87,74,87
+0022100723,2022-01-26,IND,CHA,28.17,3,7,50,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:5 Def:0),,74-87,74,87
+0022100723,2022-01-26,IND,CHA,28.2,3,7,48,IND,IND,fg_make,7,False,False,Bitadze Dunk (15 PTS),,76-87,76,87
+0022100723,2022-01-26,IND,CHA,28.37,3,7,38,CHA,CHA,fg3_make,79,False,False,,Ball 26' 3PT Pullup Jump Shot (14 PTS) (Rozier 3 AST),76-90,76,90
+0022100723,2022-01-26,IND,CHA,28.37,3,7,38,CHA,IND,foul,2,False,False,Washington Jr. S.FOUL (P2.T4) (M.Dagher),,76-90,76,90
+0022100723,2022-01-26,IND,CHA,28.37,3,7,38,CHA,CHA,ft_make,10,False,False,,Ball Free Throw 1 of 1 (15 PTS),76-91,76,91
+0022100723,2022-01-26,IND,CHA,28.58,3,7,25,IND,IND,fg_miss,6,False,False,MISS Stephenson 3' Driving Layup,,76-91,76,91
+0022100723,2022-01-26,IND,CHA,28.65,3,7,21,IND,IND,fg_make,107,False,False,Bitadze Tip Dunk Shot (17 PTS),,78-91,78,91
+0022100723,2022-01-26,IND,CHA,28.65,3,7,21,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:6 Def:0),,78-91,78,91
+0022100723,2022-01-26,IND,CHA,28.83,3,7,10,CHA,CHA,fg_make,75,False,False,,Ball 4' Driving Finger Roll Layup (17 PTS),78-93,78,93
+0022100723,2022-01-26,IND,CHA,29.13,3,6,52,IND,IND,fg_make,75,False,False,Craig 1' Driving Finger Roll Layup (14 PTS) (Stephenson 8 AST),,80-93,80,93
+0022100723,2022-01-26,IND,CHA,29.33,3,6,40,CHA,CHA,fg_make,101,False,False,,Ball 16' Driving Floating Jump Shot (19 PTS) (Plumlee 4 AST),80-95,80,95
+0022100723,2022-01-26,IND,CHA,29.67,3,6,20,IND,IND,fg_make,6,False,False,Washington Jr. 4' Driving Layup (9 PTS) (Stephenson 9 AST),,82-95,82,95
+0022100723,2022-01-26,IND,CHA,29.97,3,6,2,CHA,CHA,fg_make,7,False,False,,Plumlee 1' Dunk (5 PTS) (Martin 2 AST),82-97,82,97
+0022100723,2022-01-26,IND,CHA,30.22,3,5,47,IND,IND,fg3_miss,1,False,False,MISS Holiday 24' 3PT Jump Shot,,82-97,82,97
+0022100723,2022-01-26,IND,CHA,30.25,3,5,45,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),82-97,82,97
+0022100723,2022-01-26,IND,CHA,30.42,3,5,35,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 31' 3PT Jump Shot,82-97,82,97
+0022100723,2022-01-26,IND,CHA,30.45,3,5,33,IND,IND,reb,0,False,False,PACERS Rebound,,82-97,82,97
+0022100723,2022-01-26,IND,CHA,30.62,3,5,23,IND,IND,tov,40,False,False,Stephenson Out of Bounds Lost Ball Turnover (P2.T13),,82-97,82,97
+0022100723,2022-01-26,IND,CHA,30.88,3,5,7,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (18 PTS),82-99,82,99
+0022100723,2022-01-26,IND,CHA,30.88,3,5,7,CHA,CHA,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (17 PTS),82-98,82,98
+0022100723,2022-01-26,IND,CHA,30.88,3,5,7,CHA,IND,foul,2,False,False,Holiday S.FOUL (P3.PN) (D.Guthrie),,82-97,82,97
+0022100723,2022-01-26,IND,CHA,31.05,3,4,57,IND,CHA,block,1,True,False,block,block,82-99,82,99
+0022100723,2022-01-26,IND,CHA,31.05,3,4,57,IND,IND,fg3_miss,1,True,False,MISS Washington Jr. 25' 3PT Jump Shot,,82-99,82,99
+0022100723,2022-01-26,IND,CHA,31.12,3,4,53,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:5),82-99,82,99
+0022100723,2022-01-26,IND,CHA,31.22,3,4,47,CHA,CHA,ft_miss,10,False,False,,MISS Oubre Jr. Free Throw 1 of 1,82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.22,3,4,47,CHA,IND,foul,2,False,False,Craig S.FOUL (P4.PN) (D.Guthrie),,82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.22,3,4,47,CHA,CHA,fg3_make,2,False,False,,Oubre Jr. 25' 3PT Running Jump Shot (21 PTS) (Martin 3 AST),82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.23,3,4,46,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:1),82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.35,3,4,39,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.38,3,4,37,IND,IND,reb,0,False,False,PACERS Rebound,,82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.63,3,4,22,IND,IND,tov,2,False,True,Jackson Lost Ball Turnover (P2.T14),,82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.63,3,4,22,IND,CHA,steal,2,False,True,steal,steal,82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.7,3,4,18,CHA,CHA,ft_make,12,False,False,,Washington Free Throw 2 of 2 (9 PTS),82-104,82,104
+0022100723,2022-01-26,IND,CHA,31.7,3,4,18,CHA,CHA,ft_make,11,False,False,,Washington Free Throw 1 of 2 (8 PTS),82-103,82,103
+0022100723,2022-01-26,IND,CHA,31.7,3,4,18,CHA,IND,foul,2,False,False,Washington Jr. S.FOUL (P3.PN) (M.Dagher),,82-102,82,102
+0022100723,2022-01-26,IND,CHA,31.95,3,4,3,IND,CHA,foul,1,False,False,,Washington P.FOUL (P4.T4) (M.Kogut),82-104,82,104
+0022100723,2022-01-26,IND,CHA,32.05,3,3,57,IND,IND,fg_make,75,False,False,Stephenson 1' Driving Finger Roll Layup (8 PTS),,84-104,84,104
+0022100723,2022-01-26,IND,CHA,32.22,3,3,47,CHA,CHA,tov,1,False,True,,Martin Bad Pass Turnover (P1.T8),84-104,84,104
+0022100723,2022-01-26,IND,CHA,32.22,3,3,47,CHA,IND,steal,1,False,True,steal,steal,84-104,84,104
+0022100723,2022-01-26,IND,CHA,32.27,3,3,44,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),86-104,86,104
+0022100723,2022-01-26,IND,CHA,32.27,3,3,44,IND,IND,fg_make,76,False,False,Stephenson 2' Running Finger Roll Layup (10 PTS) (Washington Jr. 1 AST),,86-104,86,104
+0022100723,2022-01-26,IND,CHA,32.5,3,3,30,CHA,CHA,tov,4,False,False,,Ball Traveling Turnover (P3.T9),86-104,86,104
+0022100723,2022-01-26,IND,CHA,32.65,3,3,21,IND,IND,fg_make,6,False,False,Stephenson 2' Driving Layup (12 PTS),,88-104,88,104
+0022100723,2022-01-26,IND,CHA,32.85,3,3,9,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 26' 3PT Pullup Jump Shot,88-104,88,104
+0022100723,2022-01-26,IND,CHA,32.9,3,3,6,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,88-104,88,104
+0022100723,2022-01-26,IND,CHA,32.9,3,3,6,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:2),88-104,88,104
+0022100723,2022-01-26,IND,CHA,32.97,3,3,2,IND,IND,reb,0,False,False,Craig REBOUND (Off:1 Def:2),,88-104,88,104
+0022100723,2022-01-26,IND,CHA,33.03,3,2,58,IND,IND,tov,1,False,True,Craig Bad Pass Turnover (P2.T15),,88-104,88,104
+0022100723,2022-01-26,IND,CHA,33.03,3,2,58,IND,CHA,steal,1,False,True,steal,steal,88-104,88,104
+0022100723,2022-01-26,IND,CHA,33.07,3,2,56,CHA,CHA,fg_make,76,False,False,,Rozier 1' Running Finger Roll Layup (20 PTS),88-106,88,106
+0022100723,2022-01-26,IND,CHA,33.25,3,2,45,IND,IND,tov,45,False,False,Washington Jr. Out of Bounds - Bad Pass Turnover Turnover (P4.T16),,88-106,88,106
+0022100723,2022-01-26,IND,CHA,33.55,3,2,27,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 3PT Jump Shot,88-106,88,106
+0022100723,2022-01-26,IND,CHA,33.6,3,2,24,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:3),,88-106,88,106
+0022100723,2022-01-26,IND,CHA,33.8,3,2,12,IND,CHA,violation,5,False,False,,Plumlee Violation:Kicked Ball (D.Guthrie),88-106,88,106
+0022100723,2022-01-26,IND,CHA,33.95,3,2,3,IND,IND,ft_make,11,False,False,Jackson Free Throw 1 of 2 (5 PTS),,89-106,89,106
+0022100723,2022-01-26,IND,CHA,33.95,3,2,3,IND,CHA,foul,2,False,False,,Plumlee S.FOUL (P4.PN) (M.Dagher),88-106,88,106
+0022100723,2022-01-26,IND,CHA,33.95,3,2,3,IND,IND,ft_make,12,False,False,Jackson Free Throw 2 of 2 (6 PTS),,90-106,90,106
+0022100723,2022-01-26,IND,CHA,34.08,3,1,55,CHA,CHA,tov,1,False,True,,Rozier Bad Pass Turnover (P2.T10),90-106,90,106
+0022100723,2022-01-26,IND,CHA,34.08,3,1,55,CHA,IND,steal,1,False,True,steal,steal,90-106,90,106
+0022100723,2022-01-26,IND,CHA,34.12,3,1,53,IND,IND,fg_make,76,False,False,Jackson 1' Running Finger Roll Layup (8 PTS),,92-106,92,106
+0022100723,2022-01-26,IND,CHA,34.32,3,1,41,CHA,CHA,fg_miss,63,False,False,,MISS Rozier 15' Fadeaway Jumper,92-106,92,106
+0022100723,2022-01-26,IND,CHA,34.38,3,1,37,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:4),,92-106,92,106
+0022100723,2022-01-26,IND,CHA,34.53,3,1,28,IND,IND,fg_miss,6,False,False,MISS Stephenson 1' Driving Layup,,92-106,92,106
+0022100723,2022-01-26,IND,CHA,34.57,3,1,26,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:2),92-106,92,106
+0022100723,2022-01-26,IND,CHA,34.58,3,1,25,CHA,CHA,ft_miss,12,False,False,,MISS Martin Free Throw 2 of 2,92-107,92,107
+0022100723,2022-01-26,IND,CHA,34.58,3,1,25,CHA,CHA,ft_make,11,False,False,,Martin Free Throw 1 of 2 (11 PTS),92-107,92,107
+0022100723,2022-01-26,IND,CHA,34.58,3,1,25,CHA,IND,foul,28,False,False,Sykes Personal Take Foul (P1.PN) (M.Kogut),,92-106,92,106
+0022100723,2022-01-26,IND,CHA,34.6,3,1,24,IND,IND,reb,0,False,False,Brissett REBOUND (Off:2 Def:4),,92-107,92,107
+0022100723,2022-01-26,IND,CHA,34.87,3,1,8,IND,IND,fg_miss,73,False,False,MISS Lamb 2' Driving Reverse Layup,,92-107,92,107
+0022100723,2022-01-26,IND,CHA,34.93,3,1,4,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:6),92-107,92,107
+0022100723,2022-01-26,IND,CHA,34.97,3,1,2,CHA,CHA,fg_make,76,False,False,,Plumlee 2' Running Finger Roll Layup (7 PTS) (Ball 9 AST),92-109,92,109
+0022100723,2022-01-26,IND,CHA,35.32,3,0,41,IND,IND,fg_miss,1,False,False,MISS Jackson 15' Jump Shot,,92-109,92,109
+0022100723,2022-01-26,IND,CHA,35.35,3,0,39,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:7),92-109,92,109
+0022100723,2022-01-26,IND,CHA,35.47,3,0,32,CHA,CHA,tov,2,False,True,,Ball Lost Ball Turnover (P4.T11),92-109,92,109
+0022100723,2022-01-26,IND,CHA,35.47,3,0,32,CHA,IND,steal,2,False,True,steal,steal,92-109,92,109
+0022100723,2022-01-26,IND,CHA,35.53,3,0,28,IND,IND,tov,1,False,True,Jackson Bad Pass Turnover (P3.T17),,92-109,92,109
+0022100723,2022-01-26,IND,CHA,35.53,3,0,28,IND,CHA,steal,1,False,True,steal,steal,92-109,92,109
+0022100723,2022-01-26,IND,CHA,35.58,3,0,25,CHA,CHA,fg3_make,79,False,False,,Oubre Jr. 28' 3PT Pullup Jump Shot (24 PTS),92-112,92,112
+0022100723,2022-01-26,IND,CHA,35.83,3,0,10,IND,IND,fg_miss,79,True,False,MISS Sykes 13' Pullup Jump Shot,,92-112,92,112
+0022100723,2022-01-26,IND,CHA,35.83,3,0,10,IND,CHA,block,79,True,False,block,block,92-112,92,112
+0022100723,2022-01-26,IND,CHA,35.85,3,0,9,IND,IND,reb,0,False,False,PACERS Rebound,,92-112,92,112
+0022100723,2022-01-26,IND,CHA,35.92,3,0,5,IND,CHA,foul,2,False,False,,Bouknight S.FOUL (P3.PN) (M.Dagher),92-112,92,112
+0022100723,2022-01-26,IND,CHA,35.92,3,0,5,IND,IND,ft_make,11,False,False,Brissett Free Throw 1 of 2 (1 PTS),,93-112,93,112
+0022100723,2022-01-26,IND,CHA,35.92,3,0,5,IND,IND,ft_make,12,False,False,Brissett Free Throw 2 of 2 (2 PTS),,94-112,94,112
+0022100723,2022-01-26,IND,CHA,35.95,3,0,3,CHA,IND,foul,1,False,False,Sykes P.FOUL (P2.PN) (M.Kogut),,94-112,94,112
+0022100723,2022-01-26,IND,CHA,35.95,3,0,3,CHA,CHA,ft_miss,11,False,False,,MISS Ball Free Throw 1 of 2,94-112,94,112
+0022100723,2022-01-26,IND,CHA,35.95,3,0,3,CHA,CHA,reb,1,False,False,,Hornets Rebound,94-112,94,112
+0022100723,2022-01-26,IND,CHA,35.95,3,0,3,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (20 PTS),94-113,94,113
+0022100723,2022-01-26,IND,CHA,35.98,3,0,1,IND,IND,fg3_miss,79,False,False,MISS Lamb 48' 3PT Pullup Jump Shot,,94-113,94,113
+0022100723,2022-01-26,IND,CHA,35.98,3,0,1,IND,IND,reb,0,False,False,PACERS Rebound,,94-113,94,113
+0022100723,2022-01-26,IND,CHA,36.0,3,0,0,IND,,period_end,0,False,False,,,94-113,94,113
+0022100723,2022-01-26,IND,CHA,36.0,4,12,0,IND,,period_start,0,False,False,,,94-113,94,113
+0022100723,2022-01-26,IND,CHA,36.23,4,11,46,IND,IND,fg3_make,1,False,False,Lamb 26' 3PT Jump Shot (6 PTS) (LeVert 4 AST),,97-113,97,113
+0022100723,2022-01-26,IND,CHA,36.53,4,11,28,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 24' 3PT Jump Shot (27 PTS) (Plumlee 5 AST),97-116,97,116
+0022100723,2022-01-26,IND,CHA,36.67,4,11,20,IND,IND,fg3_miss,2,False,False,MISS Lamb 27' 3PT Running Jump Shot,,97-116,97,116
+0022100723,2022-01-26,IND,CHA,36.7,4,11,18,CHA,CHA,reb,0,False,False,,Hornets Rebound,97-116,97,116
+0022100723,2022-01-26,IND,CHA,36.87,4,11,8,CHA,IND,foul,1,False,False,LeVert P.FOUL (P5.T1) (M.Dagher),,97-116,97,116
+0022100723,2022-01-26,IND,CHA,37.0,4,11,0,CHA,IND,steal,1,False,True,steal,steal,97-116,97,116
+0022100723,2022-01-26,IND,CHA,37.0,4,11,0,CHA,CHA,tov,1,False,True,,Oubre Jr. Bad Pass Turnover (P1.T12),97-116,97,116
+0022100723,2022-01-26,IND,CHA,37.05,4,10,57,IND,IND,fg_make,76,False,False,Brissett 2' Running Finger Roll Layup (4 PTS) (LeVert 5 AST),,99-116,99,116
+0022100723,2022-01-26,IND,CHA,37.05,4,10,57,IND,CHA,foul,2,False,False,,Oubre Jr. S.FOUL (P4.T1) (M.Dagher),99-116,99,116
+0022100723,2022-01-26,IND,CHA,37.05,4,10,57,IND,IND,ft_make,10,False,False,Brissett Free Throw 1 of 1 (5 PTS),,100-116,100,116
+0022100723,2022-01-26,IND,CHA,37.33,4,10,40,CHA,CHA,fg_make,101,False,False,,Ball 6' Driving Floating Jump Shot (22 PTS) (Oubre Jr. 2 AST),100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.5,4,10,30,IND,IND,fg_miss,79,False,False,MISS LeVert 15' Pullup Jump Shot,,100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.55,4,10,27,IND,IND,reb,0,False,False,LeVert REBOUND (Off:2 Def:2),,100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.58,4,10,25,IND,IND,fg_miss,72,False,False,MISS LeVert 1' Putback Layup,,100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.62,4,10,23,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:2),100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.72,4,10,17,CHA,CHA,fg_miss,41,False,False,,MISS Bouknight 4' Running Layup,100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.73,4,10,16,CHA,CHA,tov,4,False,False,,Bouknight Traveling Turnover (P2.T13),100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.73,4,10,16,CHA,CHA,reb,0,False,False,,Hornets Rebound,100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.88,4,10,7,IND,IND,fg_miss,57,False,False,MISS Lamb 4' Driving Hook Shot,,100-118,100,118
+0022100723,2022-01-26,IND,CHA,37.93,4,10,4,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),100-118,100,118
+0022100723,2022-01-26,IND,CHA,38.03,4,9,58,CHA,CHA,fg_miss,6,True,False,,MISS Bouknight 2' Driving Layup,100-118,100,118
+0022100723,2022-01-26,IND,CHA,38.03,4,9,58,CHA,IND,block,6,True,False,block,block,100-118,100,118
+0022100723,2022-01-26,IND,CHA,38.07,4,9,56,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:2),100-118,100,118
+0022100723,2022-01-26,IND,CHA,38.08,4,9,55,CHA,CHA,fg3_make,1,False,False,,Ball 25' 3PT Jump Shot (25 PTS) (Plumlee 6 AST),100-121,100,121
+0022100723,2022-01-26,IND,CHA,38.25,4,9,45,IND,IND,fg_miss,6,False,False,MISS Brissett 5' Driving Layup,,100-121,100,121
+0022100723,2022-01-26,IND,CHA,38.32,4,9,41,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:8),100-121,100,121
+0022100723,2022-01-26,IND,CHA,38.37,4,9,38,CHA,CHA,fg3_make,2,False,False,,Oubre Jr. 25' 3PT Running Jump Shot (30 PTS) (Ball 10 AST),100-124,100,124
+0022100723,2022-01-26,IND,CHA,38.37,4,9,38,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 6 Short 0),,100-124,100,124
+0022100723,2022-01-26,IND,CHA,38.37,4,9,38,CHA,IND,foul,11,False,False,Lamb T.FOUL (P1.T1) (M.Dagher),,100-124,100,124
+0022100723,2022-01-26,IND,CHA,38.37,4,9,38,CHA,IND,ejection,4,False,False,Lamb Ejection:Other,,100-124,100,124
+0022100723,2022-01-26,IND,CHA,38.37,4,9,38,CHA,IND,foul,11,False,False,Lamb T.FOUL (P1.T1) (M.Dagher),,100-124,100,124
+0022100723,2022-01-26,IND,CHA,38.37,4,9,38,IND,CHA,ft_make,16,False,False,,Ball Free Throw Technical (26 PTS),100-125,100,125
+0022100723,2022-01-26,IND,CHA,38.37,4,9,38,IND,CHA,ft_make,16,False,False,,Ball Free Throw Technical (27 PTS),100-126,100,126
+0022100723,2022-01-26,IND,CHA,38.58,4,9,25,IND,CHA,foul,1,False,False,,Bouknight P.FOUL (P4.T2) (D.Guthrie),100-126,100,126
+0022100723,2022-01-26,IND,CHA,38.63,4,9,22,IND,IND,fg3_miss,79,False,False,MISS Washington Jr. 28' 3PT Pullup Jump Shot,,100-126,100,126
+0022100723,2022-01-26,IND,CHA,38.73,4,9,16,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:3),100-126,100,126
+0022100723,2022-01-26,IND,CHA,38.8,4,9,12,CHA,CHA,fg3_make,2,False,False,,Bouknight 28' 3PT Running Jump Shot (9 PTS) (Ball 11 AST),100-129,100,129
+0022100723,2022-01-26,IND,CHA,39.02,4,8,59,IND,IND,fg_make,1,False,False,Sykes 17' Jump Shot (2 PTS),,102-129,102,129
+0022100723,2022-01-26,IND,CHA,39.25,4,8,45,CHA,CHA,fg3_miss,1,False,False,,MISS Bouknight 28' 3PT Jump Shot,102-129,102,129
+0022100723,2022-01-26,IND,CHA,39.32,4,8,41,IND,IND,reb,0,False,False,Taylor REBOUND (Off:0 Def:1),,102-129,102,129
+0022100723,2022-01-26,IND,CHA,39.37,4,8,38,IND,,foul,16,False,False,,,102-129,102,129
+0022100723,2022-01-26,IND,CHA,39.37,4,8,38,IND,IND,ft_make,12,False,False,Sykes Free Throw 2 of 2 (4 PTS),,104-129,104,129
+0022100723,2022-01-26,IND,CHA,39.37,4,8,38,IND,IND,ft_make,11,False,False,Sykes Free Throw 1 of 2 (3 PTS),,103-129,103,129
+0022100723,2022-01-26,IND,CHA,39.37,4,8,38,IND,CHA,foul,2,False,False,,Ball S.FOUL (P2.T3) (M.Dagher),102-129,102,129
+0022100723,2022-01-26,IND,CHA,39.57,4,8,26,CHA,CHA,fg_make,101,False,False,,Ball 12' Driving Floating Jump Shot (29 PTS),104-131,104,131
+0022100723,2022-01-26,IND,CHA,39.77,4,8,14,IND,IND,fg_make,98,False,False,Taylor 2' Cutting Layup Shot (2 PTS) (Washington Jr. 2 AST),,106-131,106,131
+0022100723,2022-01-26,IND,CHA,40.13,4,7,52,CHA,CHA,fg3_make,1,False,False,,Bridges 27' 3PT Jump Shot (19 PTS) (Oubre Jr. 3 AST),106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.3,4,7,42,IND,IND,fg_miss,101,False,False,MISS Washington Jr. 11' Driving Floating Jump Shot,,106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.35,4,7,39,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.38,4,7,37,CHA,CHA,fg3_miss,2,False,False,,MISS Oubre Jr. 26' 3PT Running Jump Shot,106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.45,4,7,33,IND,IND,reb,0,False,False,Taylor REBOUND (Off:0 Def:2),,106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.75,4,7,15,IND,IND,fg_miss,101,False,False,MISS Washington Jr. 5' Driving Floating Jump Shot,,106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.82,4,7,11,IND,IND,fg_miss,107,False,False,MISS Jackson Tip Dunk Shot,,106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.82,4,7,11,IND,IND,reb,0,False,False,Jackson REBOUND (Off:3 Def:0),,106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.83,4,7,10,IND,IND,reb,0,False,False,Taylor REBOUND (Off:1 Def:2),,106-134,106,134
+0022100723,2022-01-26,IND,CHA,40.83,4,7,10,IND,IND,fg3_make,1,False,False,Sykes 26' 3PT Jump Shot (7 PTS) (Taylor 1 AST),,109-134,109,134
+0022100723,2022-01-26,IND,CHA,41.1,4,6,54,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 28' 3PT Jump Shot (33 PTS) (Ball 12 AST),109-137,109,137
+0022100723,2022-01-26,IND,CHA,41.42,4,6,35,IND,IND,fg_make,9,False,False,LeVert 1' Driving Dunk (10 PTS) (Washington Jr. 3 AST),,111-137,111,137
+0022100723,2022-01-26,IND,CHA,41.58,4,6,25,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 25' 3PT Jump Shot,111-137,111,137
+0022100723,2022-01-26,IND,CHA,41.63,4,6,22,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:3 Def:2),111-137,111,137
+0022100723,2022-01-26,IND,CHA,41.65,4,6,21,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 3PT Jump Shot (36 PTS),111-140,111,140
+0022100723,2022-01-26,IND,CHA,41.83,4,6,10,CHA,IND,foul,3,False,False,Jackson L.B.FOUL (P4.T2) (M.Kogut),,111-140,111,140
+0022100723,2022-01-26,IND,CHA,41.83,4,6,10,IND,IND,tov,1,False,False,Sykes Bad Pass Turnover (P1.T18),,111-140,111,140
+0022100723,2022-01-26,IND,CHA,42.13,4,5,52,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 30' 3PT Jump Shot (39 PTS) (Ball 13 AST),111-143,111,143
+0022100723,2022-01-26,IND,CHA,42.47,4,5,32,IND,CHA,foul,1,False,False,,Ball P.FOUL (P3.T4) (M.Dagher),111-143,111,143
+0022100723,2022-01-26,IND,CHA,42.53,4,5,28,IND,IND,fg_make,52,False,False,Jackson 1' Alley Oop Dunk (10 PTS) (Sykes 1 AST),,113-143,113,143
+0022100723,2022-01-26,IND,CHA,42.77,4,5,14,CHA,CHA,fg3_make,79,False,False,,Bridges 26' 3PT Pullup Jump Shot (22 PTS) (Washington 3 AST),113-146,113,146
+0022100723,2022-01-26,IND,CHA,42.98,4,5,1,IND,IND,fg3_miss,80,False,False,MISS Stephenson 25' 3PT Step Back Jump Shot,,113-146,113,146
+0022100723,2022-01-26,IND,CHA,43.05,4,4,57,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:9),113-146,113,146
+0022100723,2022-01-26,IND,CHA,43.12,4,4,53,CHA,CHA,fg_make,41,False,False,,Bouknight 1' Running Layup (11 PTS) (Washington 4 AST),113-148,113,148
+0022100723,2022-01-26,IND,CHA,43.13,4,4,52,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 7 Short 0),,113-148,113,148
+0022100723,2022-01-26,IND,CHA,43.3,4,4,42,CHA,IND,foul,4,False,False,Jackson OFF.Foul (P5) (M.Dagher),,113-148,113,148
+0022100723,2022-01-26,IND,CHA,43.3,4,4,42,IND,IND,tov,37,False,False,Jackson Offensive Foul Turnover (P4.T19),,113-148,113,148
+0022100723,2022-01-26,IND,CHA,43.58,4,4,25,CHA,IND,foul,2,False,False,Taylor S.FOUL (P1.T3) (M.Dagher),,113-148,113,148
+0022100723,2022-01-26,IND,CHA,43.58,4,4,25,CHA,CHA,ft_miss,11,False,False,,MISS Richards Free Throw 1 of 2,113-148,113,148
+0022100723,2022-01-26,IND,CHA,43.58,4,4,25,CHA,CHA,reb,1,False,False,,Hornets Rebound,113-148,113,148
+0022100723,2022-01-26,IND,CHA,43.58,4,4,25,CHA,CHA,ft_make,12,False,False,,Richards Free Throw 2 of 2 (1 PTS),113-149,113,149
+0022100723,2022-01-26,IND,CHA,43.72,4,4,17,IND,IND,fg_make,75,False,False,Washington Jr. 2' Driving Finger Roll Layup (11 PTS) (Sykes 2 AST),,115-149,115,149
+0022100723,2022-01-26,IND,CHA,43.92,4,4,5,CHA,IND,block,6,True,False,block,block,115-149,115,149
+0022100723,2022-01-26,IND,CHA,43.92,4,4,5,CHA,CHA,fg_miss,6,True,False,,MISS Bouknight 9' Driving Layup,115-149,115,149
+0022100723,2022-01-26,IND,CHA,43.93,4,4,4,IND,IND,reb,0,False,False,Taylor REBOUND (Off:1 Def:3),,115-149,115,149
+0022100723,2022-01-26,IND,CHA,43.98,4,4,1,IND,IND,fg3_miss,103,False,False,MISS Washington Jr. 26' 3PT Running Pull-Up Jump Shot,,115-149,115,149
+0022100723,2022-01-26,IND,CHA,44.05,4,3,57,CHA,CHA,reb,0,False,False,,Thor REBOUND (Off:0 Def:1),115-149,115,149
+0022100723,2022-01-26,IND,CHA,44.1,4,3,54,CHA,CHA,fg3_miss,103,False,False,,MISS Thor 26' 3PT Running Pull-Up Jump Shot,115-149,115,149
+0022100723,2022-01-26,IND,CHA,44.18,4,3,49,IND,IND,reb,0,False,False,Jackson REBOUND (Off:3 Def:1),,115-149,115,149
+0022100723,2022-01-26,IND,CHA,44.38,4,3,37,IND,IND,fg_make,6,False,False,Stephenson 2' Driving Layup (14 PTS) (Taylor 2 AST),,117-149,117,149
+0022100723,2022-01-26,IND,CHA,44.58,4,3,25,CHA,CHA,fg3_miss,80,False,False,,MISS Bouknight 26' 3PT Step Back Jump Shot,117-149,117,149
+0022100723,2022-01-26,IND,CHA,44.65,4,3,21,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:5),,117-149,117,149
+0022100723,2022-01-26,IND,CHA,44.92,4,3,5,IND,CHA,foul,2,False,False,,Washington S.FOUL (P5.PN) (M.Kogut),117-149,117,149
+0022100723,2022-01-26,IND,CHA,44.92,4,3,5,IND,IND,ft_make,11,False,False,Jackson Free Throw 1 of 2 (11 PTS),,118-149,118,149
+0022100723,2022-01-26,IND,CHA,44.92,4,3,5,IND,IND,ft_make,12,False,False,Jackson Free Throw 2 of 2 (12 PTS),,119-149,119,149
+0022100723,2022-01-26,IND,CHA,45.18,4,2,49,CHA,CHA,fg_make,58,False,False,,Richards 8' Turnaround Hook Shot (3 PTS) (Smith 1 AST),119-151,119,151
+0022100723,2022-01-26,IND,CHA,45.37,4,2,38,IND,CHA,foul,2,False,False,,Jones S.FOUL (P1.PN) (D.Guthrie),119-151,119,151
+0022100723,2022-01-26,IND,CHA,45.37,4,2,38,IND,IND,ft_make,11,False,False,Jackson Free Throw 1 of 2 (13 PTS),,120-151,120,151
+0022100723,2022-01-26,IND,CHA,45.37,4,2,38,IND,IND,ft_make,12,False,False,Jackson Free Throw 2 of 2 (14 PTS),,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.6,4,2,24,CHA,CHA,fg_miss,80,False,False,,MISS Smith 18' Step Back Jump Shot,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.67,4,2,20,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:6),,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.7,4,2,18,IND,IND,fg_miss,50,True,False,MISS Washington Jr. 4' Running Dunk,,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.7,4,2,18,IND,IND,reb,0,False,False,PACERS Rebound,,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.7,4,2,18,IND,CHA,block,50,True,False,block,block,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.73,4,2,16,IND,IND,fg3_miss,1,False,False,MISS Washington Jr. 3PT Jump Shot,,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.77,4,2,14,IND,IND,reb,0,False,False,Taylor REBOUND (Off:2 Def:3),,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.82,4,2,11,IND,IND,fg3_miss,79,False,False,MISS Sykes 25' 3PT Pullup Jump Shot,,121-151,121,151
+0022100723,2022-01-26,IND,CHA,45.87,4,2,8,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:0 Def:1),121-151,121,151
+0022100723,2022-01-26,IND,CHA,46.15,4,1,51,CHA,CHA,fg_make,47,False,False,,Richards 10' Turnaround Jump Shot (5 PTS),121-153,121,153
+0022100723,2022-01-26,IND,CHA,46.4,4,1,36,IND,IND,fg3_miss,79,False,False,MISS Sykes 25' 3PT Pullup Jump Shot,,121-153,121,153
+0022100723,2022-01-26,IND,CHA,46.47,4,1,32,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:0 Def:2),121-153,121,153
+0022100723,2022-01-26,IND,CHA,46.68,4,1,19,CHA,CHA,fg_make,75,False,False,,Bouknight 1' Driving Finger Roll Layup (13 PTS) (Jones 1 AST),121-155,121,155
+0022100723,2022-01-26,IND,CHA,46.97,4,1,2,IND,IND,fg3_make,1,False,False,Jackson 25' 3PT Jump Shot (17 PTS) (Stephenson 10 AST),,124-155,124,155
+0022100723,2022-01-26,IND,CHA,47.17,4,0,50,CHA,CHA,fg_miss,6,False,False,,MISS Bouknight 6' Driving Layup,124-155,124,155
+0022100723,2022-01-26,IND,CHA,47.23,4,0,46,CHA,CHA,reb,0,False,False,,Jones REBOUND (Off:1 Def:0),124-155,124,155
+0022100723,2022-01-26,IND,CHA,47.23,4,0,46,CHA,IND,foul,1,False,False,Washington Jr. P.FOUL (P4.T4) (D.Guthrie),,124-155,124,155
+0022100723,2022-01-26,IND,CHA,47.33,4,0,40,CHA,CHA,fg3_make,1,False,False,,Jones 24' 3PT Jump Shot (3 PTS) (Smith 2 AST),124-158,124,158
+0022100723,2022-01-26,IND,CHA,47.48,4,0,31,IND,IND,tov,45,False,False,Sykes Out of Bounds - Bad Pass Turnover Turnover (P2.T20),,124-158,124,158
+0022100723,2022-01-26,IND,CHA,47.88,4,0,7,CHA,CHA,fg_miss,47,False,False,,MISS Thor 17' Turnaround Jump Shot,124-158,124,158
+0022100723,2022-01-26,IND,CHA,47.92,4,0,5,IND,IND,ft_make,12,False,False,Taylor Free Throw 2 of 2 (4 PTS),,126-158,126,158
+0022100723,2022-01-26,IND,CHA,47.92,4,0,5,IND,IND,ft_make,11,False,False,Taylor Free Throw 1 of 2 (3 PTS),,125-158,125,158
+0022100723,2022-01-26,IND,CHA,47.92,4,0,5,IND,CHA,foul,3,False,False,,Jones L.B.FOUL (P2.PN) (M.Dagher),124-158,124,158
+0022100723,2022-01-26,IND,CHA,47.92,4,0,5,IND,IND,reb,0,False,False,PACERS Rebound,,124-158,124,158
+0022100723,2022-01-26,IND,CHA,47.92,4,0,5,CHA,CHA,fg_miss,47,False,False,,MISS Bouknight 9' Turnaround Jump Shot,124-158,124,158
+0022100723,2022-01-26,IND,CHA,47.92,4,0,5,CHA,CHA,reb,0,False,False,,Bouknight REBOUND (Off:1 Def:2),124-158,124,158
+0022100723,2022-01-26,IND,CHA,48.0,4,0,0,IND,,period_end,0,False,False,,,126-158,126,158

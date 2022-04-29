@@ -1,0 +1,452 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900139,2019-11-10,LAL,TOR,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900139,2019-11-10,LAL,TOR,0.0,1,12,0,,LAL,jump_ball,0,False,False,Jump Ball McGee vs. Gasol: Tip to James,,0-0,0,0
+0021900139,2019-11-10,LAL,TOR,0.12,1,11,53,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P1.T1),,0-0,0,0
+0021900139,2019-11-10,LAL,TOR,0.12,1,11,53,LAL,TOR,steal,1,False,True,steal,steal,0-0,0,0
+0021900139,2019-11-10,LAL,TOR,0.43,1,11,34,TOR,TOR,fg3_miss,1,False,False,,MISS Gasol 28' 3PT Jump Shot,0-0,0,0
+0021900139,2019-11-10,LAL,TOR,0.5,1,11,30,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:1),,0-0,0,0
+0021900139,2019-11-10,LAL,TOR,0.6,1,11,24,LAL,LAL,fg3_make,1,False,False,Bradley 25' 3PT Jump Shot (3 PTS) (James 1 AST),,3-0,3,0
+0021900139,2019-11-10,LAL,TOR,0.93,1,11,4,TOR,TOR,tov,45,False,False,,Gasol Out of Bounds - Bad Pass Turnover Turnover (P1.T1),3-0,3,0
+0021900139,2019-11-10,LAL,TOR,1.32,1,10,41,LAL,LAL,fg_miss,5,False,False,MISS McGee 3' Layup,,3-0,3,0
+0021900139,2019-11-10,LAL,TOR,1.37,1,10,38,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:1),3-0,3,0
+0021900139,2019-11-10,LAL,TOR,1.52,1,10,29,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 27' 3PT Jump Shot,3-0,3,0
+0021900139,2019-11-10,LAL,TOR,1.58,1,10,25,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,3-0,3,0
+0021900139,2019-11-10,LAL,TOR,1.77,1,10,14,LAL,LAL,tov,4,False,False,Davis Traveling Turnover (P1.T2),,3-0,3,0
+0021900139,2019-11-10,LAL,TOR,2.1,1,9,54,TOR,TOR,fg_make,58,False,False,,Gasol 7' Turnaround Hook Shot (2 PTS),3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.38,1,9,37,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P2.T3),,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.38,1,9,37,LAL,TOR,steal,1,False,True,steal,steal,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.47,1,9,32,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 25' 3PT Jump Shot,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.53,1,9,28,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.57,1,9,26,LAL,LAL,fg3_miss,2,False,False,MISS Green 28' 3PT Running Jump Shot,,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.6,1,9,24,TOR,TOR,reb,0,False,False,,Raptors Rebound,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.6,1,9,24,TOR,LAL,foul,3,False,False,McGee L.B.FOUL (P1.T1) (J.Williams),,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.8,1,9,12,TOR,TOR,fg_miss,86,True,False,,MISS Siakam 9' Turnaround Fadeaway Shot,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.8,1,9,12,TOR,LAL,block,86,True,False,block,block,3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.82,1,9,11,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:1 Def:0),3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.82,1,9,11,TOR,TOR,tov,39,False,False,,Gasol Step Out of Bounds Turnover (P2.T2),3-2,3,2
+0021900139,2019-11-10,LAL,TOR,2.97,1,9,2,LAL,LAL,fg_make,98,False,False,Bradley 2' Cutting Layup Shot (5 PTS) (Davis 1 AST),,5-2,5,2
+0021900139,2019-11-10,LAL,TOR,3.13,1,8,52,TOR,LAL,foul,2,False,False,Bradley S.FOUL (P1.T2) (L.Richardson),,5-2,5,2
+0021900139,2019-11-10,LAL,TOR,3.13,1,8,52,TOR,TOR,ft_miss,11,False,False,,MISS VanVleet Free Throw 1 of 2,5-2,5,2
+0021900139,2019-11-10,LAL,TOR,3.13,1,8,52,TOR,TOR,reb,1,False,False,,Raptors Rebound,5-2,5,2
+0021900139,2019-11-10,LAL,TOR,3.13,1,8,52,TOR,TOR,ft_make,12,False,False,,VanVleet Free Throw 2 of 2 (1 PTS),5-3,5,3
+0021900139,2019-11-10,LAL,TOR,3.28,1,8,43,LAL,LAL,fg_make,79,False,False,Bradley 18' Pullup Jump Shot (7 PTS) (James 2 AST),,7-3,7,3
+0021900139,2019-11-10,LAL,TOR,3.52,1,8,29,TOR,TOR,tov,2,False,True,,VanVleet Lost Ball Turnover (P1.T3),7-3,7,3
+0021900139,2019-11-10,LAL,TOR,3.52,1,8,29,TOR,LAL,steal,2,False,True,steal,steal,7-3,7,3
+0021900139,2019-11-10,LAL,TOR,3.58,1,8,25,LAL,TOR,foul,2,False,False,,Anunoby S.FOUL (P1.T1) (Z.Zarba),7-3,7,3
+0021900139,2019-11-10,LAL,TOR,3.58,1,8,25,LAL,LAL,ft_miss,11,False,False,MISS James Free Throw 1 of 2,,7-3,7,3
+0021900139,2019-11-10,LAL,TOR,3.58,1,8,25,LAL,LAL,reb,1,False,False,LAKERS Rebound,,7-3,7,3
+0021900139,2019-11-10,LAL,TOR,3.58,1,8,25,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (1 PTS),,8-3,8,3
+0021900139,2019-11-10,LAL,TOR,3.83,1,8,10,TOR,TOR,tov,4,False,False,,Gasol Traveling Turnover (P3.T4),8-3,8,3
+0021900139,2019-11-10,LAL,TOR,4.15,1,7,51,LAL,LAL,fg_make,7,False,False,McGee 1' Dunk (2 PTS),,10-3,10,3
+0021900139,2019-11-10,LAL,TOR,4.4,1,7,36,TOR,TOR,fg3_miss,1,False,False,,MISS Anunoby 3PT Jump Shot,10-3,10,3
+0021900139,2019-11-10,LAL,TOR,4.48,1,7,31,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:1),,10-3,10,3
+0021900139,2019-11-10,LAL,TOR,4.53,1,7,28,LAL,LAL,fg3_miss,2,False,False,MISS Green 25' 3PT Running Jump Shot,,10-3,10,3
+0021900139,2019-11-10,LAL,TOR,4.55,1,7,27,TOR,TOR,reb,0,False,False,,Raptors Rebound,10-3,10,3
+0021900139,2019-11-10,LAL,TOR,4.87,1,7,8,TOR,TOR,fg_make,73,False,False,,Powell 2' Driving Reverse Layup (2 PTS) (VanVleet 1 AST),10-5,10,5
+0021900139,2019-11-10,LAL,TOR,5.13,1,6,52,LAL,TOR,foul,1,False,False,,Anunoby P.FOUL (P2.T2) (J.Williams),10-5,10,5
+0021900139,2019-11-10,LAL,TOR,5.13,1,6,52,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,10-5,10,5
+0021900139,2019-11-10,LAL,TOR,5.25,1,6,45,LAL,LAL,fg_make,5,False,False,Davis 3' Layup (2 PTS) (James 3 AST),,12-5,12,5
+0021900139,2019-11-10,LAL,TOR,5.52,1,6,29,TOR,TOR,fg_miss,6,True,False,,MISS Powell 4' Driving Layup,12-5,12,5
+0021900139,2019-11-10,LAL,TOR,5.52,1,6,29,TOR,LAL,block,6,True,False,block,block,12-5,12,5
+0021900139,2019-11-10,LAL,TOR,5.53,1,6,28,LAL,LAL,reb,0,False,False,Green REBOUND (Off:0 Def:1),,12-5,12,5
+0021900139,2019-11-10,LAL,TOR,5.78,1,6,13,LAL,LAL,fg_make,98,False,False,James 2' Cutting Layup Shot (3 PTS) (Davis 2 AST),,14-5,14,5
+0021900139,2019-11-10,LAL,TOR,6.05,1,5,57,TOR,LAL,foul,2,False,False,McGee S.FOUL (P2.T3) (Z.Zarba),,14-5,14,5
+0021900139,2019-11-10,LAL,TOR,6.05,1,5,57,TOR,TOR,ft_make,11,False,False,,Powell Free Throw 1 of 2 (3 PTS),14-6,14,6
+0021900139,2019-11-10,LAL,TOR,6.05,1,5,57,TOR,TOR,ft_make,12,False,False,,Powell Free Throw 2 of 2 (4 PTS),14-7,14,7
+0021900139,2019-11-10,LAL,TOR,6.23,1,5,46,LAL,LAL,fg_miss,78,False,False,MISS McGee 7' Floating Jump Shot,,14-7,14,7
+0021900139,2019-11-10,LAL,TOR,6.33,1,5,40,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:1),,16-7,16,7
+0021900139,2019-11-10,LAL,TOR,6.33,1,5,40,LAL,LAL,fg_make,97,False,False,McGee 1' Tip Layup Shot (4 PTS),,16-7,16,7
+0021900139,2019-11-10,LAL,TOR,6.57,1,5,26,TOR,TOR,fg3_make,1,False,False,,Powell 26' 3PT Jump Shot (7 PTS) (Gasol 1 AST),16-10,16,10
+0021900139,2019-11-10,LAL,TOR,6.75,1,5,15,LAL,LAL,fg_make,79,False,False,Bradley 10' Pullup Jump Shot (9 PTS) (James 4 AST),,18-10,18,10
+0021900139,2019-11-10,LAL,TOR,6.8,1,5,12,TOR,LAL,foul,1,False,False,McGee P.FOUL (P3.T4) (J.Williams),,18-10,18,10
+0021900139,2019-11-10,LAL,TOR,7.08,1,4,55,TOR,TOR,fg_make,75,False,False,,Siakam 2' Driving Finger Roll Layup (2 PTS),18-12,18,12
+0021900139,2019-11-10,LAL,TOR,7.22,1,4,47,LAL,LAL,fg_make,50,False,False,Davis 1' Running Dunk (4 PTS) (James 5 AST),,20-12,20,12
+0021900139,2019-11-10,LAL,TOR,7.42,1,4,35,TOR,TOR,fg3_make,1,False,False,,VanVleet 26' 3PT Jump Shot (4 PTS),20-15,20,15
+0021900139,2019-11-10,LAL,TOR,7.62,1,4,23,LAL,LAL,fg_make,75,False,False,James 2' Driving Finger Roll Layup (5 PTS),,22-15,22,15
+0021900139,2019-11-10,LAL,TOR,7.75,1,4,15,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.1 Short 0),22-15,22,15
+0021900139,2019-11-10,LAL,TOR,7.88,1,4,7,TOR,TOR,fg_miss,1,False,False,,MISS Siakam 19' Jump Shot,22-15,22,15
+0021900139,2019-11-10,LAL,TOR,7.93,1,4,4,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,22-15,22,15
+0021900139,2019-11-10,LAL,TOR,8.03,1,3,58,LAL,LAL,fg_miss,6,False,False,MISS James 2' Driving Layup,,22-15,22,15
+0021900139,2019-11-10,LAL,TOR,8.13,1,3,52,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:1),,22-15,22,15
+0021900139,2019-11-10,LAL,TOR,8.13,1,3,52,LAL,LAL,fg_make,72,False,False,Davis 1' Putback Layup (6 PTS),,24-15,24,15
+0021900139,2019-11-10,LAL,TOR,8.3,1,3,42,TOR,TOR,fg_miss,79,False,False,,MISS Powell 19' Pullup Jump Shot,24-15,24,15
+0021900139,2019-11-10,LAL,TOR,8.35,1,3,39,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:3),,24-15,24,15
+0021900139,2019-11-10,LAL,TOR,8.37,1,3,38,LAL,TOR,foul,1,False,False,,VanVleet P.FOUL (P1.T3) (Z.Zarba),24-15,24,15
+0021900139,2019-11-10,LAL,TOR,8.45,1,3,33,LAL,LAL,fg_make,78,False,False,Kuzma 12' Floating Jump Shot (2 PTS) (Cook 1 AST),,26-15,26,15
+0021900139,2019-11-10,LAL,TOR,8.7,1,3,18,TOR,TOR,fg3_make,1,False,False,,Davis 27' 3PT Jump Shot (3 PTS) (Siakam 1 AST),26-18,26,18
+0021900139,2019-11-10,LAL,TOR,9.03,1,2,58,LAL,LAL,tov,39,False,False,Green Step Out of Bounds Turnover (P1.T4),,26-18,26,18
+0021900139,2019-11-10,LAL,TOR,9.35,1,2,39,TOR,TOR,fg_make,79,False,False,,Boucher 20' Pullup Jump Shot (2 PTS) (Thomas 1 AST),26-20,26,20
+0021900139,2019-11-10,LAL,TOR,9.53,1,2,28,LAL,LAL,fg_miss,79,False,False,MISS Caldwell-Pope 18' Pullup Jump Shot,,26-20,26,20
+0021900139,2019-11-10,LAL,TOR,9.6,1,2,24,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),26-20,26,20
+0021900139,2019-11-10,LAL,TOR,9.72,1,2,17,TOR,TOR,fg3_miss,1,False,False,,MISS Davis 27' 3PT Jump Shot,26-20,26,20
+0021900139,2019-11-10,LAL,TOR,9.77,1,2,14,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:1),,26-20,26,20
+0021900139,2019-11-10,LAL,TOR,9.9,1,2,6,LAL,LAL,fg_miss,1,False,False,MISS Davis 15' Jump Shot,,26-20,26,20
+0021900139,2019-11-10,LAL,TOR,9.97,1,2,2,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:0 Def:1),26-20,26,20
+0021900139,2019-11-10,LAL,TOR,10.08,1,1,55,TOR,TOR,fg_make,47,False,False,,Siakam 6' Turnaround Jump Shot (4 PTS),26-22,26,22
+0021900139,2019-11-10,LAL,TOR,10.08,1,1,55,TOR,LAL,foul,2,False,False,Kuzma S.FOUL (P1.PN) (Z.Zarba),,26-22,26,22
+0021900139,2019-11-10,LAL,TOR,10.08,1,1,55,TOR,TOR,ft_make,10,False,False,,Siakam Free Throw 1 of 1 (5 PTS),26-23,26,23
+0021900139,2019-11-10,LAL,TOR,10.23,1,1,46,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 28' 3PT Jump Shot,,26-23,26,23
+0021900139,2019-11-10,LAL,TOR,10.3,1,1,42,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:1),26-23,26,23
+0021900139,2019-11-10,LAL,TOR,10.45,1,1,33,TOR,LAL,foul,1,False,False,Cook P.FOUL (P1.PN) (L.Richardson),,26-23,26,23
+0021900139,2019-11-10,LAL,TOR,10.45,1,1,33,TOR,TOR,ft_make,11,False,False,,Siakam Free Throw 1 of 2 (6 PTS),26-24,26,24
+0021900139,2019-11-10,LAL,TOR,10.45,1,1,33,TOR,TOR,ft_miss,12,False,False,,MISS Siakam Free Throw 2 of 2,26-24,26,24
+0021900139,2019-11-10,LAL,TOR,10.48,1,1,31,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,26-24,26,24
+0021900139,2019-11-10,LAL,TOR,10.67,1,1,20,LAL,TOR,foul,1,False,False,,Thomas P.FOUL (P1.T4) (J.Williams),26-24,26,24
+0021900139,2019-11-10,LAL,TOR,10.93,1,1,4,LAL,LAL,fg_make,102,False,False,Cook 4' Driving Floating Bank Jump Shot (2 PTS) (Caruso 1 AST),,28-24,28,24
+0021900139,2019-11-10,LAL,TOR,11.18,1,0,49,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 26' 3PT Jump Shot,28-24,28,24
+0021900139,2019-11-10,LAL,TOR,11.22,1,0,47,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:1),,28-24,28,24
+0021900139,2019-11-10,LAL,TOR,11.4,1,0,36,LAL,LAL,fg_make,98,False,False,Davis 1' Cutting Layup Shot (8 PTS) (Cook 2 AST),,30-24,30,24
+0021900139,2019-11-10,LAL,TOR,11.57,1,0,26,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 27' 3PT Jump Shot,30-24,30,24
+0021900139,2019-11-10,LAL,TOR,11.6,1,0,24,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:2),,30-24,30,24
+0021900139,2019-11-10,LAL,TOR,11.85,1,0,9,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P3.T5),,30-24,30,24
+0021900139,2019-11-10,LAL,TOR,11.85,1,0,9,LAL,TOR,steal,1,False,True,steal,steal,30-24,30,24
+0021900139,2019-11-10,LAL,TOR,11.95,1,0,3,TOR,TOR,fg3_make,1,False,False,,Thomas 26' 3PT Jump Shot (3 PTS) (Boucher 1 AST),30-27,30,27
+0021900139,2019-11-10,LAL,TOR,11.95,1,0,3,TOR,LAL,foul,2,False,False,Kuzma S.FOUL (P2.PN) (Z.Zarba),,30-27,30,27
+0021900139,2019-11-10,LAL,TOR,11.95,1,0,3,TOR,TOR,ft_miss,10,False,False,,MISS Thomas Free Throw 1 of 1,30-27,30,27
+0021900139,2019-11-10,LAL,TOR,11.98,1,0,1,TOR,TOR,reb,0,False,False,,Raptors Rebound,30-27,30,27
+0021900139,2019-11-10,LAL,TOR,12.0,1,0,0,TOR,TOR,fg_make,1,False,False,,Thomas 15' Jump Shot (5 PTS) (VanVleet 2 AST),30-29,30,29
+0021900139,2019-11-10,LAL,TOR,12.0,1,0,0,TOR,,period_end,0,False,False,,,30-29,30,29
+0021900139,2019-11-10,LAL,TOR,12.0,2,12,0,TOR,,period_start,0,False,False,,,30-29,30,29
+0021900139,2019-11-10,LAL,TOR,12.22,2,11,47,TOR,TOR,fg_miss,98,False,False,,MISS Hollis-Jefferson 2' Cutting Layup Shot,30-29,30,29
+0021900139,2019-11-10,LAL,TOR,12.22,2,11,47,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:4),,30-29,30,29
+0021900139,2019-11-10,LAL,TOR,12.52,2,11,29,LAL,LAL,fg_make,5,False,False,Howard 2' Layup (2 PTS) (Caruso 2 AST),,32-29,32,29
+0021900139,2019-11-10,LAL,TOR,12.72,2,11,17,TOR,TOR,fg_make,1,False,False,,Hollis-Jefferson 12' Jump Shot (2 PTS) (VanVleet 3 AST),32-31,32,31
+0021900139,2019-11-10,LAL,TOR,13.17,2,10,50,LAL,LAL,fg_miss,75,True,False,MISS Caruso 4' Driving Finger Roll Layup,,32-31,32,31
+0021900139,2019-11-10,LAL,TOR,13.17,2,10,50,LAL,TOR,block,75,True,False,block,block,32-31,32,31
+0021900139,2019-11-10,LAL,TOR,13.2,2,10,48,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:1 Def:1),32-31,32,31
+0021900139,2019-11-10,LAL,TOR,13.25,2,10,45,TOR,TOR,fg_make,106,False,False,,Boucher 2' Running Alley Oop Dunk Shot (4 PTS) (VanVleet 4 AST),32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.5,2,10,30,LAL,LAL,tov,1,False,True,Caruso Bad Pass Turnover (P1.T6),,32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.5,2,10,30,LAL,TOR,steal,1,False,True,steal,steal,32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.58,2,10,25,LAL,TOR,foul,26,False,False,,Hollis-Jefferson Offensive Charge Foul (P1.T1) (J.Williams),32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.58,2,10,25,TOR,TOR,tov,37,False,False,,Hollis-Jefferson Offensive Foul Turnover (P1.T5),32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.78,2,10,13,LAL,TOR,foul,2,False,False,,Gasol S.FOUL (P1.T2) (L.Richardson),32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.78,2,10,13,LAL,LAL,ft_miss,11,False,False,MISS Caruso Free Throw 1 of 2,,32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.78,2,10,13,LAL,LAL,reb,1,False,False,LAKERS Rebound,,32-33,32,33
+0021900139,2019-11-10,LAL,TOR,13.78,2,10,13,LAL,LAL,ft_make,12,False,False,Caruso Free Throw 2 of 2 (1 PTS),,33-33,33,33
+0021900139,2019-11-10,LAL,TOR,14.03,2,9,58,TOR,LAL,foul,1,False,False,Howard P.FOUL (P1.T1) (J.Williams),,33-33,33,33
+0021900139,2019-11-10,LAL,TOR,14.22,2,9,47,TOR,TOR,fg_make,6,False,False,,VanVleet 4' Driving Layup (6 PTS),33-35,33,35
+0021900139,2019-11-10,LAL,TOR,14.35,2,9,39,LAL,LAL,fg_miss,103,False,False,MISS Daniels 15' Running Pull-Up Jump Shot,,33-35,33,35
+0021900139,2019-11-10,LAL,TOR,14.35,2,9,39,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:2),33-35,33,35
+0021900139,2019-11-10,LAL,TOR,14.45,2,9,33,TOR,TOR,fg3_miss,103,False,False,,MISS VanVleet 27' 3PT Running Pull-Up Jump Shot,33-35,33,35
+0021900139,2019-11-10,LAL,TOR,14.52,2,9,29,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:0 Def:1),,33-35,33,35
+0021900139,2019-11-10,LAL,TOR,14.63,2,9,22,LAL,LAL,fg3_make,1,False,False,Daniels 28' 3PT Jump Shot (3 PTS) (James 6 AST),,36-35,36,35
+0021900139,2019-11-10,LAL,TOR,14.85,2,9,9,TOR,TOR,fg_miss,6,False,False,,MISS VanVleet 2' Driving Layup,36-35,36,35
+0021900139,2019-11-10,LAL,TOR,14.87,2,9,8,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:5),,36-35,36,35
+0021900139,2019-11-10,LAL,TOR,14.95,2,9,3,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 24' 3PT Jump Shot,,36-35,36,35
+0021900139,2019-11-10,LAL,TOR,15.03,2,8,58,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:3),36-35,36,35
+0021900139,2019-11-10,LAL,TOR,15.15,2,8,51,TOR,TOR,fg_make,76,False,False,,VanVleet 3' Running Finger Roll Layup (8 PTS) (Hollis-Jefferson 1 AST),36-37,36,37
+0021900139,2019-11-10,LAL,TOR,15.15,2,8,51,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,36-37,36,37
+0021900139,2019-11-10,LAL,TOR,15.38,2,8,37,LAL,LAL,fg_make,1,False,False,James 19' Jump Shot (7 PTS),,38-37,38,37
+0021900139,2019-11-10,LAL,TOR,15.6,2,8,24,TOR,TOR,fg3_miss,1,False,False,,MISS Thomas 3PT Jump Shot,38-37,38,37
+0021900139,2019-11-10,LAL,TOR,15.65,2,8,21,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,38-37,38,37
+0021900139,2019-11-10,LAL,TOR,15.82,2,8,11,LAL,LAL,fg3_make,63,False,False,Daniels 3PT Fadeaway Jumper (6 PTS) (James 7 AST),,41-37,41,37
+0021900139,2019-11-10,LAL,TOR,16.22,2,7,47,TOR,TOR,fg_make,5,False,False,,Anunoby 1' Layup (2 PTS) (VanVleet 5 AST),41-39,41,39
+0021900139,2019-11-10,LAL,TOR,16.43,2,7,34,LAL,LAL,fg3_make,79,False,False,Daniels 25' 3PT Pullup Jump Shot (9 PTS) (James 8 AST),,44-39,44,39
+0021900139,2019-11-10,LAL,TOR,16.9,2,7,6,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 24' 3PT Jump Shot,44-39,44,39
+0021900139,2019-11-10,LAL,TOR,16.93,2,7,4,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:0 Def:2),,44-39,44,39
+0021900139,2019-11-10,LAL,TOR,17.0,2,7,0,LAL,LAL,fg_miss,103,False,False,MISS Kuzma 13' Running Pull-Up Jump Shot,,44-39,44,39
+0021900139,2019-11-10,LAL,TOR,17.08,2,6,55,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:5),,46-39,46,39
+0021900139,2019-11-10,LAL,TOR,17.08,2,6,55,LAL,LAL,fg_make,97,False,False,James 1' Tip Layup Shot (9 PTS),,46-39,46,39
+0021900139,2019-11-10,LAL,TOR,17.08,2,6,55,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.2 Short 0),46-39,46,39
+0021900139,2019-11-10,LAL,TOR,17.35,2,6,39,TOR,LAL,foul,1,False,False,Howard P.FOUL (P2.T2) (Z.Zarba),,46-39,46,39
+0021900139,2019-11-10,LAL,TOR,17.43,2,6,34,TOR,TOR,fg3_make,1,False,False,,VanVleet 26' 3PT Jump Shot (11 PTS) (Powell 1 AST),46-42,46,42
+0021900139,2019-11-10,LAL,TOR,17.73,2,6,16,LAL,LAL,fg_make,102,False,False,Daniels 9' Driving Floating Bank Jump Shot (11 PTS) (James 9 AST),,48-42,48,42
+0021900139,2019-11-10,LAL,TOR,17.95,2,6,3,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 25' 3PT Jump Shot,48-42,48,42
+0021900139,2019-11-10,LAL,TOR,18.0,2,6,0,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:2),,48-42,48,42
+0021900139,2019-11-10,LAL,TOR,18.18,2,5,49,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 3PT Jump Shot,,48-42,48,42
+0021900139,2019-11-10,LAL,TOR,18.27,2,5,44,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:4),48-42,48,42
+0021900139,2019-11-10,LAL,TOR,18.45,2,5,33,TOR,TOR,fg_miss,5,True,False,,MISS Siakam 4' Layup,48-42,48,42
+0021900139,2019-11-10,LAL,TOR,18.45,2,5,33,TOR,LAL,block,5,True,False,block,block,48-42,48,42
+0021900139,2019-11-10,LAL,TOR,18.53,2,5,28,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:1),48-44,48,44
+0021900139,2019-11-10,LAL,TOR,18.53,2,5,28,TOR,TOR,fg_make,72,False,False,,Siakam 1' Putback Layup (8 PTS),48-44,48,44
+0021900139,2019-11-10,LAL,TOR,18.72,2,5,17,LAL,LAL,fg_miss,78,False,False,MISS James 6' Floating Jump Shot,,48-44,48,44
+0021900139,2019-11-10,LAL,TOR,18.72,2,5,17,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:1),,48-44,48,44
+0021900139,2019-11-10,LAL,TOR,18.72,2,5,17,LAL,TOR,foul,2,False,False,,Gasol S.FOUL (P2.T3) (J.Williams),48-44,48,44
+0021900139,2019-11-10,LAL,TOR,18.72,2,5,17,LAL,LAL,ft_make,11,False,False,Howard Free Throw 1 of 2 (3 PTS),,49-44,49,44
+0021900139,2019-11-10,LAL,TOR,18.72,2,5,17,LAL,LAL,ft_make,12,False,False,Howard Free Throw 2 of 2 (4 PTS),,50-44,50,44
+0021900139,2019-11-10,LAL,TOR,18.92,2,5,5,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 27' 3PT Jump Shot,50-44,50,44
+0021900139,2019-11-10,LAL,TOR,18.97,2,5,2,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:2),,50-44,50,44
+0021900139,2019-11-10,LAL,TOR,19.32,2,4,41,LAL,LAL,fg3_miss,80,True,False,MISS Daniels 28' 3PT Step Back Jump Shot,,50-44,50,44
+0021900139,2019-11-10,LAL,TOR,19.32,2,4,41,LAL,TOR,block,80,True,False,block,block,50-44,50,44
+0021900139,2019-11-10,LAL,TOR,19.4,2,4,36,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:1),50-44,50,44
+0021900139,2019-11-10,LAL,TOR,19.52,2,4,29,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.3 Short 0),50-44,50,44
+0021900139,2019-11-10,LAL,TOR,19.7,2,4,18,TOR,TOR,fg_miss,79,False,False,,MISS Siakam 21' Pullup Jump Shot,50-44,50,44
+0021900139,2019-11-10,LAL,TOR,19.73,2,4,16,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:3),,50-44,50,44
+0021900139,2019-11-10,LAL,TOR,19.9,2,4,6,LAL,LAL,fg_make,79,False,False,Cook 18' Pullup Jump Shot (4 PTS),,52-44,52,44
+0021900139,2019-11-10,LAL,TOR,20.1,2,3,54,TOR,TOR,fg_miss,79,False,False,,MISS VanVleet 18' Pullup Jump Shot,52-44,52,44
+0021900139,2019-11-10,LAL,TOR,20.15,2,3,51,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:2),,52-44,52,44
+0021900139,2019-11-10,LAL,TOR,20.35,2,3,39,LAL,LAL,tov,1,False,True,Cook Bad Pass Turnover (P1.T7),,52-44,52,44
+0021900139,2019-11-10,LAL,TOR,20.35,2,3,39,LAL,TOR,steal,1,False,True,steal,steal,52-44,52,44
+0021900139,2019-11-10,LAL,TOR,20.45,2,3,33,TOR,TOR,fg_miss,98,False,False,,MISS Siakam 2' Cutting Layup Shot,52-44,52,44
+0021900139,2019-11-10,LAL,TOR,20.52,2,3,29,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:1),52-44,52,44
+0021900139,2019-11-10,LAL,TOR,20.52,2,3,29,TOR,TOR,fg_make,97,False,False,,Powell 1' Tip Layup Shot (9 PTS),52-46,52,46
+0021900139,2019-11-10,LAL,TOR,20.72,2,3,17,LAL,LAL,fg_make,52,False,False,Howard 1' Alley Oop Dunk (6 PTS) (Bradley 1 AST),,54-46,54,46
+0021900139,2019-11-10,LAL,TOR,21.03,2,2,58,TOR,TOR,fg3_miss,1,False,False,,MISS Johnson 24' 3PT Jump Shot,54-46,54,46
+0021900139,2019-11-10,LAL,TOR,21.08,2,2,55,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:0 Def:3),,54-46,54,46
+0021900139,2019-11-10,LAL,TOR,21.28,2,2,43,LAL,LAL,fg_miss,79,False,False,MISS Cook 16' Pullup Jump Shot,,54-46,54,46
+0021900139,2019-11-10,LAL,TOR,21.33,2,2,40,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:5),54-46,54,46
+0021900139,2019-11-10,LAL,TOR,21.4,2,2,36,TOR,TOR,fg_make,76,False,False,,VanVleet 1' Running Finger Roll Layup (13 PTS),54-48,54,48
+0021900139,2019-11-10,LAL,TOR,21.68,2,2,19,LAL,LAL,fg_make,5,False,False,Howard 1' Layup (8 PTS) (Bradley 2 AST),,56-48,56,48
+0021900139,2019-11-10,LAL,TOR,21.68,2,2,19,LAL,TOR,foul,2,False,False,,Anunoby S.FOUL (P3.T4) (J.Williams),56-48,56,48
+0021900139,2019-11-10,LAL,TOR,21.68,2,2,19,LAL,LAL,ft_miss,10,False,False,MISS Howard Free Throw 1 of 1,,56-48,56,48
+0021900139,2019-11-10,LAL,TOR,21.73,2,2,16,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:2),56-48,56,48
+0021900139,2019-11-10,LAL,TOR,21.98,2,2,1,TOR,TOR,fg3_miss,1,False,False,,MISS Powell 26' 3PT Jump Shot,56-48,56,48
+0021900139,2019-11-10,LAL,TOR,22.02,2,1,59,TOR,TOR,reb,0,False,False,,Raptors Rebound,56-48,56,48
+0021900139,2019-11-10,LAL,TOR,22.03,2,1,58,TOR,TOR,tov,1,False,True,,VanVleet Bad Pass Turnover (P2.T6),56-48,56,48
+0021900139,2019-11-10,LAL,TOR,22.03,2,1,58,TOR,LAL,steal,1,False,True,steal,steal,56-48,56,48
+0021900139,2019-11-10,LAL,TOR,22.15,2,1,51,LAL,LAL,fg3_make,1,False,False,Cook 26' 3PT Jump Shot (7 PTS) (Davis 3 AST),,59-48,59,48
+0021900139,2019-11-10,LAL,TOR,22.43,2,1,34,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 3PT Jump Shot,59-48,59,48
+0021900139,2019-11-10,LAL,TOR,22.45,2,1,33,LAL,LAL,reb,0,False,False,LAKERS Rebound,,59-48,59,48
+0021900139,2019-11-10,LAL,TOR,22.65,2,1,21,LAL,LAL,fg_miss,79,False,False,MISS Bradley 18' Pullup Jump Shot,,59-48,59,48
+0021900139,2019-11-10,LAL,TOR,22.72,2,1,17,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:3),59-48,59,48
+0021900139,2019-11-10,LAL,TOR,22.78,2,1,13,LAL,TOR,foul,26,False,False,,Powell Offensive Charge Foul (P1.PN) (J.Williams),59-48,59,48
+0021900139,2019-11-10,LAL,TOR,22.78,2,1,13,TOR,TOR,tov,37,False,False,,Powell Offensive Foul Turnover (P1.T7),59-48,59,48
+0021900139,2019-11-10,LAL,TOR,23.02,2,0,59,LAL,LAL,tov,45,False,False,Davis Out of Bounds - Bad Pass Turnover Turnover (P4.T8),,59-48,59,48
+0021900139,2019-11-10,LAL,TOR,23.27,2,0,44,TOR,TOR,fg_make,108,False,False,,Boucher 1' Cutting Dunk Shot (6 PTS) (Powell 2 AST),59-50,59,50
+0021900139,2019-11-10,LAL,TOR,23.47,2,0,32,LAL,TOR,foul,2,False,False,,Boucher S.FOUL (P1.PN) (J.Williams),59-50,59,50
+0021900139,2019-11-10,LAL,TOR,23.47,2,0,32,LAL,LAL,ft_miss,11,False,False,MISS Davis Free Throw 1 of 2,,59-50,59,50
+0021900139,2019-11-10,LAL,TOR,23.47,2,0,32,LAL,LAL,reb,1,False,False,LAKERS Rebound,,59-50,59,50
+0021900139,2019-11-10,LAL,TOR,23.47,2,0,32,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (9 PTS),,60-50,60,50
+0021900139,2019-11-10,LAL,TOR,23.65,2,0,21,TOR,TOR,fg_make,80,False,False,,Powell 19' Step Back Jump Shot (11 PTS),60-52,60,52
+0021900139,2019-11-10,LAL,TOR,23.97,2,0,2,LAL,LAL,fg3_miss,79,False,False,MISS James 28' 3PT Pullup Jump Shot,,60-52,60,52
+0021900139,2019-11-10,LAL,TOR,24.0,2,0,0,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:2),,60-52,60,52
+0021900139,2019-11-10,LAL,TOR,24.0,2,0,0,LAL,LAL,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,60-52,60,52
+0021900139,2019-11-10,LAL,TOR,24.0,2,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,60-52,60,52
+0021900139,2019-11-10,LAL,TOR,24.0,2,0,0,LAL,,period_end,0,False,False,,,60-52,60,52
+0021900139,2019-11-10,LAL,TOR,24.0,3,12,0,LAL,,period_start,0,False,False,,,60-52,60,52
+0021900139,2019-11-10,LAL,TOR,24.35,3,11,39,TOR,TOR,fg_make,75,False,False,,Powell 5' Driving Finger Roll Layup (13 PTS) (Siakam 2 AST),60-54,60,54
+0021900139,2019-11-10,LAL,TOR,24.35,3,11,39,TOR,LAL,foul,2,False,False,Green S.FOUL (P1.T1) (L.Richardson),,60-54,60,54
+0021900139,2019-11-10,LAL,TOR,24.35,3,11,39,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,60-54,60,54
+0021900139,2019-11-10,LAL,TOR,24.35,3,11,39,LAL,TOR,ft_make,10,False,False,,Powell Free Throw 1 of 1 (14 PTS),60-55,60,55
+0021900139,2019-11-10,LAL,TOR,24.62,3,11,23,LAL,LAL,fg_make,5,False,False,McGee 1' Layup (6 PTS) (James 10 AST),,62-55,62,55
+0021900139,2019-11-10,LAL,TOR,24.93,3,11,4,TOR,TOR,fg3_miss,79,False,False,,MISS Siakam 27' 3PT Pullup Jump Shot,62-55,62,55
+0021900139,2019-11-10,LAL,TOR,24.98,3,11,1,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:2),,62-55,62,55
+0021900139,2019-11-10,LAL,TOR,25.23,3,10,46,LAL,LAL,fg_make,51,False,False,McGee 1' Reverse Dunk (8 PTS) (James 11 AST),,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.5,3,10,30,TOR,TOR,fg3_miss,1,False,False,,MISS Anunoby 26' 3PT Jump Shot,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.55,3,10,27,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:3),,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.77,3,10,14,LAL,LAL,tov,1,False,True,McGee Bad Pass Turnover (P1.T9),,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.77,3,10,14,LAL,TOR,steal,1,False,True,steal,steal,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.83,3,10,10,TOR,TOR,tov,2,False,True,,Anunoby Lost Ball Turnover (P1.T8),64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.83,3,10,10,TOR,LAL,steal,2,False,True,steal,steal,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.92,3,10,5,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 27' 3PT Jump Shot,,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,25.93,3,10,4,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:1 Def:1),,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,26.15,3,9,51,LAL,LAL,fg_miss,98,False,False,MISS McGee 3' Cutting Layup Shot,,64-55,64,55
+0021900139,2019-11-10,LAL,TOR,26.18,3,9,49,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:2),64-55,64,55
+0021900139,2019-11-10,LAL,TOR,26.33,3,9,40,TOR,TOR,fg3_make,79,False,False,,VanVleet 25' 3PT Pullup Jump Shot (16 PTS),64-58,64,58
+0021900139,2019-11-10,LAL,TOR,26.63,3,9,22,LAL,LAL,fg_miss,1,False,False,MISS Davis 21' Jump Shot,,64-58,64,58
+0021900139,2019-11-10,LAL,TOR,26.67,3,9,20,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:1 Def:2),64-58,64,58
+0021900139,2019-11-10,LAL,TOR,26.73,3,9,16,TOR,TOR,fg_make,41,False,False,,VanVleet 1' Running Layup (18 PTS),64-60,64,60
+0021900139,2019-11-10,LAL,TOR,26.73,3,9,16,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.0,3,9,0,LAL,LAL,fg_miss,58,False,False,MISS McGee 9' Turnaround Hook Shot,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.05,3,8,57,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:1 Def:3),64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.23,3,8,46,TOR,TOR,tov,2,False,True,,Siakam Lost Ball Turnover (P1.T9),64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.23,3,8,46,TOR,LAL,steal,2,False,True,steal,steal,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.3,3,8,42,LAL,LAL,fg_miss,76,True,False,MISS Davis 2' Running Finger Roll Layup,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.3,3,8,42,LAL,TOR,block,76,True,False,block,block,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.33,3,8,40,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:2 Def:1),,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.35,3,8,39,LAL,LAL,fg_miss,58,True,False,MISS Bradley 7' Turnaround Hook Shot,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.35,3,8,39,LAL,TOR,block,58,True,False,block,block,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.35,3,8,39,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:3 Def:1),,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.52,3,8,29,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 26' 3PT Jump Shot,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.55,3,8,27,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:1 Def:4),64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.8,3,8,12,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 26' 3PT Jump Shot,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,27.87,3,8,8,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:3),,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.12,3,7,53,LAL,LAL,fg_miss,79,False,False,MISS Green 14' Pullup Jump Shot,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.17,3,7,50,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:1 Def:5),64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.23,3,7,46,TOR,TOR,fg_miss,1,False,False,,MISS VanVleet 23' Jump Shot,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.32,3,7,41,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:6),,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.4,3,7,36,TOR,TOR,timeout,7,False,False,,Raptors Timeout: Coach Challenge (Reg.3 Short 0),64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.4,3,7,36,LAL,LAL,fg_miss,1,False,False,MISS James 6' Jump Shot,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.4,3,7,36,LAL,LAL,reb,0,False,False,LAKERS Rebound,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.5,3,7,30,,LAL,jump_ball,1,False,False,Jump Ball (CC) McGee vs. Gasol: Tip to Davis,,64-60,64,60
+0021900139,2019-11-10,LAL,TOR,28.67,3,7,20,LAL,LAL,fg_make,52,False,False,Davis 14' Alley Oop Dunk (11 PTS) (Bradley 3 AST),,66-60,66,60
+0021900139,2019-11-10,LAL,TOR,29.1,3,6,54,TOR,TOR,fg_make,105,False,False,,Siakam 4' Turnaround Fadeaway Bank Jump Shot (10 PTS) (VanVleet 6 AST),66-62,66,62
+0021900139,2019-11-10,LAL,TOR,29.1,3,6,54,TOR,LAL,foul,2,False,False,Bradley S.FOUL (P2.T2) (Z.Zarba),,66-62,66,62
+0021900139,2019-11-10,LAL,TOR,29.1,3,6,54,TOR,TOR,ft_miss,10,False,False,,MISS Siakam Free Throw 1 of 1,66-62,66,62
+0021900139,2019-11-10,LAL,TOR,29.15,3,6,51,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:7),,66-62,66,62
+0021900139,2019-11-10,LAL,TOR,29.32,3,6,41,LAL,LAL,fg_miss,43,False,False,MISS McGee 4' Alley Oop Layup,,66-62,66,62
+0021900139,2019-11-10,LAL,TOR,29.35,3,6,39,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:0 Def:1),66-62,66,62
+0021900139,2019-11-10,LAL,TOR,29.45,3,6,33,TOR,TOR,fg3_make,1,False,False,,Anunoby 3PT Jump Shot (5 PTS) (Gasol 2 AST),66-65,66,65
+0021900139,2019-11-10,LAL,TOR,29.75,3,6,15,LAL,LAL,fg_make,44,False,False,McGee 3' Reverse Layup (10 PTS) (Green 1 AST),,68-65,68,65
+0021900139,2019-11-10,LAL,TOR,29.83,3,6,10,TOR,TOR,fg3_make,2,False,False,,VanVleet 34' 3PT Running Jump Shot (21 PTS) (Siakam 3 AST),68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.25,3,5,45,LAL,LAL,fg3_miss,1,False,False,MISS James 26' 3PT Jump Shot,,68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.3,3,5,42,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:3),68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.4,3,5,36,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 3PT Jump Shot,68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.47,3,5,32,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:4),,68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.78,3,5,13,LAL,LAL,fg_miss,108,False,False,MISS McGee 2' Cutting Dunk Shot,,68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.87,3,5,8,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:4),,68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.92,3,5,5,LAL,LAL,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.93,3,5,4,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:4),68-68,68,68
+0021900139,2019-11-10,LAL,TOR,30.97,3,5,2,TOR,TOR,tov,40,False,False,,VanVleet Out of Bounds Lost Ball Turnover (P3.T10),68-68,68,68
+0021900139,2019-11-10,LAL,TOR,31.17,3,4,50,LAL,LAL,fg3_make,1,False,False,Davis 25' 3PT Jump Shot (14 PTS) (James 12 AST),,71-68,71,68
+0021900139,2019-11-10,LAL,TOR,31.55,3,4,27,TOR,LAL,foul,1,False,False,Bradley P.FOUL (P3.T3) (J.Williams),,71-68,71,68
+0021900139,2019-11-10,LAL,TOR,31.68,3,4,19,TOR,TOR,fg3_miss,1,False,False,,MISS Powell 25' 3PT Jump Shot,71-68,71,68
+0021900139,2019-11-10,LAL,TOR,31.75,3,4,15,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:3),,71-68,71,68
+0021900139,2019-11-10,LAL,TOR,31.87,3,4,8,LAL,LAL,fg3_miss,1,False,False,MISS Davis 26' 3PT Jump Shot,,71-68,71,68
+0021900139,2019-11-10,LAL,TOR,31.93,3,4,4,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:5),71-68,71,68
+0021900139,2019-11-10,LAL,TOR,31.98,3,4,1,TOR,LAL,foul,2,False,False,Kuzma S.FOUL (P3.T4) (Z.Zarba),,71-68,71,68
+0021900139,2019-11-10,LAL,TOR,31.98,3,4,1,TOR,TOR,ft_make,11,False,False,,Siakam Free Throw 1 of 2 (11 PTS),71-69,71,69
+0021900139,2019-11-10,LAL,TOR,31.98,3,4,1,TOR,TOR,ft_make,12,False,False,,Siakam Free Throw 2 of 2 (12 PTS),71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.12,3,3,53,LAL,LAL,tov,40,False,False,James Out of Bounds Lost Ball Turnover (P2.T10),,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.38,3,3,37,TOR,TOR,fg_miss,75,True,False,,MISS Anunoby 4' Driving Finger Roll Layup,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.38,3,3,37,TOR,LAL,block,75,True,False,block,block,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.4,3,3,36,TOR,TOR,reb,0,False,False,,Raptors Rebound,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.4,3,3,36,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.4 Short 0),71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.47,3,3,32,TOR,TOR,fg_miss,6,True,False,,MISS Davis 5' Driving Layup,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.47,3,3,32,TOR,LAL,block,6,True,False,block,block,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.52,3,3,29,LAL,LAL,reb,0,False,False,Cook REBOUND (Off:0 Def:1),,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.77,3,3,14,LAL,LAL,fg_miss,79,False,False,MISS Bradley 17' Pullup Jump Shot,,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,32.8,3,3,12,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:0 Def:2),71-70,71,70
+0021900139,2019-11-10,LAL,TOR,33.02,3,2,59,TOR,TOR,fg_miss,6,False,False,,MISS Siakam 3' Driving Layup,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,33.03,3,2,58,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:4),,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,33.13,3,2,52,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 29' 3PT Jump Shot,,71-70,71,70
+0021900139,2019-11-10,LAL,TOR,33.18,3,2,49,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:1 Def:6),71-70,71,70
+0021900139,2019-11-10,LAL,TOR,33.27,3,2,44,TOR,TOR,fg3_make,80,False,False,,Davis 25' 3PT Step Back Jump Shot (6 PTS) (VanVleet 7 AST),71-73,71,73
+0021900139,2019-11-10,LAL,TOR,33.65,3,2,21,LAL,LAL,fg_miss,101,False,False,MISS Cook 7' Driving Floating Jump Shot,,71-73,71,73
+0021900139,2019-11-10,LAL,TOR,33.68,3,2,19,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:6),71-73,71,73
+0021900139,2019-11-10,LAL,TOR,33.75,3,2,15,TOR,TOR,fg3_miss,2,False,False,,MISS Davis 3PT Running Jump Shot,71-73,71,73
+0021900139,2019-11-10,LAL,TOR,33.75,3,2,15,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:5),,71-73,71,73
+0021900139,2019-11-10,LAL,TOR,34.03,3,1,58,LAL,LAL,fg_make,1,False,False,Davis 18' Jump Shot (16 PTS) (Cook 3 AST),,73-73,73,73
+0021900139,2019-11-10,LAL,TOR,34.47,3,1,32,TOR,TOR,fg_miss,98,False,False,,MISS Anunoby 3' Cutting Layup Shot,73-73,73,73
+0021900139,2019-11-10,LAL,TOR,34.48,3,1,31,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:0 Def:4),,73-73,73,73
+0021900139,2019-11-10,LAL,TOR,34.58,3,1,25,LAL,LAL,tov,45,False,False,Bradley Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,73-73,73,73
+0021900139,2019-11-10,LAL,TOR,34.78,3,1,13,TOR,TOR,fg_make,75,False,False,,Siakam 2' Driving Finger Roll Layup (14 PTS) (Thomas 2 AST),73-75,73,75
+0021900139,2019-11-10,LAL,TOR,35.02,3,0,59,LAL,LAL,fg_make,80,False,False,Davis 16' Step Back Jump Shot (18 PTS),,75-75,75,75
+0021900139,2019-11-10,LAL,TOR,35.28,3,0,43,TOR,TOR,fg3_make,80,False,False,,Siakam 27' 3PT Step Back Jump Shot (17 PTS),75-78,75,78
+0021900139,2019-11-10,LAL,TOR,35.42,3,0,35,LAL,LAL,fg3_make,1,False,False,Davis 27' 3PT Jump Shot (21 PTS) (Caruso 3 AST),,78-78,78,78
+0021900139,2019-11-10,LAL,TOR,35.68,3,0,19,TOR,TOR,tov,1,False,True,,Siakam Bad Pass Turnover (P2.T11),78-78,78,78
+0021900139,2019-11-10,LAL,TOR,35.68,3,0,19,TOR,LAL,steal,1,False,True,steal,steal,78-78,78,78
+0021900139,2019-11-10,LAL,TOR,35.7,3,0,18,LAL,TOR,foul,1,False,False,,Davis P.FOUL (P1.T1) (L.Richardson),78-78,78,78
+0021900139,2019-11-10,LAL,TOR,35.97,3,0,2,LAL,LAL,fg_miss,1,False,False,MISS Davis 23' Jump Shot,,78-78,78,78
+0021900139,2019-11-10,LAL,TOR,35.98,3,0,1,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:2),78-78,78,78
+0021900139,2019-11-10,LAL,TOR,36.0,3,0,0,TOR,,period_end,0,False,False,,,78-78,78,78
+0021900139,2019-11-10,LAL,TOR,36.0,4,12,0,TOR,,period_start,0,False,False,,,78-78,78,78
+0021900139,2019-11-10,LAL,TOR,36.23,4,11,46,LAL,LAL,fg_miss,98,True,False,MISS Kuzma 4' Cutting Layup Shot,,78-78,78,78
+0021900139,2019-11-10,LAL,TOR,36.23,4,11,46,LAL,TOR,block,98,True,False,block,block,78-78,78,78
+0021900139,2019-11-10,LAL,TOR,36.3,4,11,42,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:7),78-78,78,78
+0021900139,2019-11-10,LAL,TOR,36.58,4,11,25,TOR,TOR,fg_make,5,False,False,,Boucher 2' Layup (8 PTS) (Siakam 4 AST),78-80,78,80
+0021900139,2019-11-10,LAL,TOR,36.58,4,11,25,TOR,LAL,foul,2,False,False,Daniels S.FOUL (P1.T1) (J.Williams),,78-80,78,80
+0021900139,2019-11-10,LAL,TOR,36.58,4,11,25,TOR,TOR,ft_miss,10,False,False,,MISS Boucher Free Throw 1 of 1,78-80,78,80
+0021900139,2019-11-10,LAL,TOR,36.63,4,11,22,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:1 Def:0),78-80,78,80
+0021900139,2019-11-10,LAL,TOR,36.83,4,11,10,TOR,TOR,fg_miss,75,False,False,,MISS Siakam 2' Driving Finger Roll Layup,78-80,78,80
+0021900139,2019-11-10,LAL,TOR,36.92,4,11,5,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:1 Def:2),78-80,78,80
+0021900139,2019-11-10,LAL,TOR,36.92,4,11,5,TOR,TOR,fg_make,107,False,False,,Davis 1' Tip Dunk Shot (8 PTS),78-82,78,82
+0021900139,2019-11-10,LAL,TOR,37.17,4,10,50,LAL,LAL,fg3_make,1,False,False,Kuzma 24' 3PT Jump Shot (5 PTS) (James 13 AST),,81-82,81,82
+0021900139,2019-11-10,LAL,TOR,37.65,4,10,21,TOR,TOR,fg_miss,63,False,False,,MISS Hollis-Jefferson 4' Fadeaway Jumper,81-82,81,82
+0021900139,2019-11-10,LAL,TOR,37.7,4,10,18,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:1),81-82,81,82
+0021900139,2019-11-10,LAL,TOR,37.7,4,10,18,TOR,TOR,fg_make,97,False,False,,Boucher 1' Tip Layup Shot (10 PTS),81-84,81,84
+0021900139,2019-11-10,LAL,TOR,37.83,4,10,10,LAL,TOR,foul,2,False,False,,Hollis-Jefferson S.FOUL (P2.T1) (Z.Zarba),81-84,81,84
+0021900139,2019-11-10,LAL,TOR,37.83,4,10,10,LAL,LAL,ft_miss,11,False,False,MISS James Free Throw 1 of 2,,81-84,81,84
+0021900139,2019-11-10,LAL,TOR,37.83,4,10,10,LAL,LAL,reb,1,False,False,LAKERS Rebound,,81-84,81,84
+0021900139,2019-11-10,LAL,TOR,37.83,4,10,10,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,81-84,81,84
+0021900139,2019-11-10,LAL,TOR,37.87,4,10,8,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:8),81-84,81,84
+0021900139,2019-11-10,LAL,TOR,38.05,4,9,57,TOR,TOR,fg3_make,1,False,False,,Boucher 26' 3PT Jump Shot (13 PTS) (Davis 1 AST),81-87,81,87
+0021900139,2019-11-10,LAL,TOR,38.28,4,9,43,LAL,LAL,fg_miss,6,False,False,MISS James 4' Driving Layup,,81-87,81,87
+0021900139,2019-11-10,LAL,TOR,38.33,4,9,40,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:1 Def:3),81-87,81,87
+0021900139,2019-11-10,LAL,TOR,38.37,4,9,38,TOR,LAL,foul,2,False,False,Caruso S.FOUL (P1.T2) (Z.Zarba),,81-87,81,87
+0021900139,2019-11-10,LAL,TOR,38.37,4,9,38,TOR,TOR,ft_make,11,False,False,,Hollis-Jefferson Free Throw 1 of 2 (3 PTS),81-88,81,88
+0021900139,2019-11-10,LAL,TOR,38.37,4,9,38,TOR,TOR,ft_make,12,False,False,,Hollis-Jefferson Free Throw 2 of 2 (4 PTS),81-89,81,89
+0021900139,2019-11-10,LAL,TOR,38.62,4,9,23,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 30' 3PT Jump Shot,,81-89,81,89
+0021900139,2019-11-10,LAL,TOR,38.67,4,9,20,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:1 Def:1),81-89,81,89
+0021900139,2019-11-10,LAL,TOR,38.82,4,9,11,TOR,TOR,fg_make,75,False,False,,Siakam 2' Driving Finger Roll Layup (19 PTS),81-91,81,91
+0021900139,2019-11-10,LAL,TOR,38.83,4,9,10,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,81-91,81,91
+0021900139,2019-11-10,LAL,TOR,39.13,4,8,52,LAL,LAL,fg_make,6,False,False,Caruso 1' Driving Layup (3 PTS) (James 14 AST),,83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.43,4,8,34,TOR,TOR,fg_miss,63,False,False,,MISS Siakam 20' Fadeaway Jumper,83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.43,4,8,34,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:4),,83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.62,4,8,23,LAL,LAL,fg_miss,5,True,False,MISS James 2' Layup,,83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.62,4,8,23,LAL,TOR,block,5,True,False,block,block,83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.67,4,8,20,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:1 Def:2),83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.72,4,8,17,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 25' 3PT Jump Shot,83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.75,4,8,15,TOR,TOR,reb,0,False,False,,Raptors Rebound,83-91,83,91
+0021900139,2019-11-10,LAL,TOR,39.88,4,8,7,TOR,TOR,fg_make,98,False,False,,Boucher 5' Cutting Layup Shot (15 PTS) (Davis 2 AST),83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.88,4,8,7,TOR,LAL,foul,2,False,False,Howard S.FOUL (P3.T3) (L.Richardson),,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.88,4,8,7,TOR,TOR,ft_miss,10,False,False,,MISS Boucher Free Throw 1 of 1,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.93,4,8,4,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:8),,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.95,4,8,3,LAL,LAL,fg_miss,5,True,False,MISS Davis 2' Layup,,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.95,4,8,3,LAL,TOR,block,5,True,False,block,block,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.98,4,8,1,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:2 Def:4),,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.98,4,8,1,LAL,TOR,foul,2,False,False,,Thomas S.FOUL (P2.T2) (J.Williams),83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.98,4,8,1,LAL,LAL,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.98,4,8,1,LAL,LAL,reb,1,False,False,LAKERS Rebound,,83-93,83,93
+0021900139,2019-11-10,LAL,TOR,39.98,4,8,1,LAL,LAL,ft_make,12,False,False,Howard Free Throw 2 of 2 (9 PTS),,84-93,84,93
+0021900139,2019-11-10,LAL,TOR,40.18,4,7,49,TOR,TOR,fg_make,44,False,False,,Hollis-Jefferson 2' Reverse Layup (6 PTS) (Davis 3 AST),84-95,84,95
+0021900139,2019-11-10,LAL,TOR,40.42,4,7,35,LAL,TOR,foul,2,False,False,,Boucher S.FOUL (P2.T3) (Z.Zarba),84-95,84,95
+0021900139,2019-11-10,LAL,TOR,40.42,4,7,35,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (22 PTS),,85-95,85,95
+0021900139,2019-11-10,LAL,TOR,40.42,4,7,35,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (23 PTS),,86-95,86,95
+0021900139,2019-11-10,LAL,TOR,40.63,4,7,22,TOR,TOR,fg_make,5,False,False,,Hollis-Jefferson 2' Layup (8 PTS),86-97,86,97
+0021900139,2019-11-10,LAL,TOR,40.85,4,7,9,LAL,LAL,fg_miss,80,False,False,MISS James 10' Step Back Jump Shot,,86-97,86,97
+0021900139,2019-11-10,LAL,TOR,40.85,4,7,9,LAL,LAL,reb,0,False,False,LAKERS Rebound,,86-97,86,97
+0021900139,2019-11-10,LAL,TOR,40.85,4,7,9,LAL,TOR,foul,3,False,False,,Siakam L.B.FOUL (P1.T4) (L.Richardson),86-97,86,97
+0021900139,2019-11-10,LAL,TOR,40.98,4,7,1,LAL,LAL,fg_miss,101,False,False,MISS Davis 6' Driving Floating Jump Shot,,86-97,86,97
+0021900139,2019-11-10,LAL,TOR,40.98,4,7,1,TOR,TOR,reb,0,False,False,,Raptors Rebound,86-97,86,97
+0021900139,2019-11-10,LAL,TOR,41.33,4,6,40,TOR,TOR,fg3_miss,80,False,False,,MISS VanVleet 26' 3PT Step Back Jump Shot,86-97,86,97
+0021900139,2019-11-10,LAL,TOR,41.4,4,6,36,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:5),,86-97,86,97
+0021900139,2019-11-10,LAL,TOR,41.5,4,6,30,LAL,LAL,tov,40,False,False,Davis Out of Bounds Lost Ball Turnover (P5.T12),,86-97,86,97
+0021900139,2019-11-10,LAL,TOR,41.77,4,6,14,TOR,TOR,tov,6,False,False,,Siakam Double Dribble Turnover (P3.T12),86-97,86,97
+0021900139,2019-11-10,LAL,TOR,42.0,4,6,0,LAL,LAL,fg_make,52,False,False,Davis 1' Alley Oop Dunk (25 PTS) (Bradley 4 AST),,88-97,88,97
+0021900139,2019-11-10,LAL,TOR,42.35,4,5,39,TOR,TOR,fg_make,86,False,False,,Hollis-Jefferson 14' Turnaround Fadeaway (10 PTS) (VanVleet 8 AST),88-99,88,99
+0021900139,2019-11-10,LAL,TOR,42.53,4,5,28,LAL,TOR,foul,1,False,False,,Siakam P.FOUL (P2.PN) (Z.Zarba),88-99,88,99
+0021900139,2019-11-10,LAL,TOR,42.53,4,5,28,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (26 PTS),,89-99,89,99
+0021900139,2019-11-10,LAL,TOR,42.53,4,5,28,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (27 PTS),,90-99,90,99
+0021900139,2019-11-10,LAL,TOR,42.92,4,5,5,TOR,TOR,fg_miss,75,False,False,,MISS VanVleet 5' Driving Finger Roll Layup,90-99,90,99
+0021900139,2019-11-10,LAL,TOR,42.93,4,5,4,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:9),,90-99,90,99
+0021900139,2019-11-10,LAL,TOR,43.17,4,4,50,LAL,LAL,fg_miss,5,False,False,MISS James 3' Layup,,90-99,90,99
+0021900139,2019-11-10,LAL,TOR,43.25,4,4,45,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:9),,90-99,90,99
+0021900139,2019-11-10,LAL,TOR,43.28,4,4,43,LAL,LAL,fg_miss,72,True,False,MISS James 3' Putback Layup,,90-99,90,99
+0021900139,2019-11-10,LAL,TOR,43.28,4,4,43,LAL,TOR,block,72,True,False,block,block,90-99,90,99
+0021900139,2019-11-10,LAL,TOR,43.33,4,4,40,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:1 Def:4),90-99,90,99
+0021900139,2019-11-10,LAL,TOR,43.35,4,4,39,TOR,TOR,fg_make,41,False,False,,Davis 1' Running Layup (10 PTS),90-101,90,101
+0021900139,2019-11-10,LAL,TOR,43.58,4,4,25,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 3PT Jump Shot,,90-101,90,101
+0021900139,2019-11-10,LAL,TOR,43.68,4,4,19,LAL,LAL,reb,0,False,False,James REBOUND (Off:3 Def:9),,90-101,90,101
+0021900139,2019-11-10,LAL,TOR,43.68,4,4,19,LAL,LAL,fg_make,72,False,False,James 1' Putback Layup (11 PTS),,92-101,92,101
+0021900139,2019-11-10,LAL,TOR,43.93,4,4,4,TOR,TOR,tov,2,False,True,,Davis Lost Ball Turnover (P1.T13),92-101,92,101
+0021900139,2019-11-10,LAL,TOR,43.93,4,4,4,TOR,LAL,steal,2,False,True,steal,steal,92-101,92,101
+0021900139,2019-11-10,LAL,TOR,44.03,4,3,58,LAL,LAL,fg_miss,41,False,False,MISS Kuzma 3' Running Layup,,92-101,92,101
+0021900139,2019-11-10,LAL,TOR,44.1,4,3,54,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:6),92-101,92,101
+0021900139,2019-11-10,LAL,TOR,44.17,4,3,50,TOR,TOR,fg3_make,1,False,False,,Davis 24' 3PT Jump Shot (13 PTS) (Hollis-Jefferson 2 AST),92-104,92,104
+0021900139,2019-11-10,LAL,TOR,44.18,4,3,49,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,92-104,92,104
+0021900139,2019-11-10,LAL,TOR,44.42,4,3,35,LAL,LAL,fg3_make,1,False,False,Kuzma 3PT Jump Shot (8 PTS) (Green 2 AST),,95-104,95,104
+0021900139,2019-11-10,LAL,TOR,44.83,4,3,10,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 3PT Jump Shot,95-104,95,104
+0021900139,2019-11-10,LAL,TOR,44.88,4,3,7,LAL,LAL,reb,0,False,False,Green REBOUND (Off:0 Def:2),,95-104,95,104
+0021900139,2019-11-10,LAL,TOR,45.0,4,3,0,LAL,LAL,fg3_make,1,False,False,Kuzma 28' 3PT Jump Shot (11 PTS) (James 15 AST),,98-104,98,104
+0021900139,2019-11-10,LAL,TOR,45.43,4,2,34,TOR,TOR,fg_miss,5,True,False,,MISS Boucher 2' Layup,98-104,98,104
+0021900139,2019-11-10,LAL,TOR,45.43,4,2,34,TOR,LAL,block,5,True,False,block,block,98-104,98,104
+0021900139,2019-11-10,LAL,TOR,45.43,4,2,34,TOR,TOR,reb,0,False,False,,Raptors Rebound,98-104,98,104
+0021900139,2019-11-10,LAL,TOR,45.45,4,2,33,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#14),98-104,98,104
+0021900139,2019-11-10,LAL,TOR,45.57,4,2,26,LAL,TOR,foul,2,False,False,,Hollis-Jefferson S.FOUL (P3.PN) (Z.Zarba),98-104,98,104
+0021900139,2019-11-10,LAL,TOR,45.57,4,2,26,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (12 PTS),,99-104,99,104
+0021900139,2019-11-10,LAL,TOR,45.57,4,2,26,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (13 PTS),,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,45.97,4,2,2,TOR,TOR,fg_miss,6,True,False,,MISS VanVleet 5' Driving Layup,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,45.97,4,2,2,TOR,LAL,block,6,True,False,block,block,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.0,4,2,0,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:2 Def:8),100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.03,4,1,58,TOR,TOR,fg_miss,1,False,False,,MISS Siakam 18' Jump Shot,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.03,4,1,58,LAL,LAL,reb,0,False,False,James REBOUND (Off:3 Def:10),,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.17,4,1,50,LAL,LAL,fg3_miss,1,False,False,MISS Davis 27' 3PT Jump Shot,,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.23,4,1,46,LAL,LAL,reb,0,False,False,Green REBOUND (Off:1 Def:2),,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.27,4,1,44,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.35,4,1,39,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:7),100-104,100,104
+0021900139,2019-11-10,LAL,TOR,46.38,4,1,37,TOR,TOR,fg_make,50,False,False,,Siakam Running Dunk (21 PTS) (VanVleet 9 AST),100-106,100,106
+0021900139,2019-11-10,LAL,TOR,46.6,4,1,24,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 27' 3PT Jump Shot,,100-106,100,106
+0021900139,2019-11-10,LAL,TOR,46.65,4,1,21,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:4),100-106,100,106
+0021900139,2019-11-10,LAL,TOR,46.7,4,1,18,TOR,TOR,fg_make,100,False,False,,Siakam 1' Running Alley Oop Layup Shot (23 PTS) (VanVleet 10 AST),100-108,100,108
+0021900139,2019-11-10,LAL,TOR,46.7,4,1,18,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 7 Short 0),,100-108,100,108
+0021900139,2019-11-10,LAL,TOR,46.83,4,1,10,LAL,LAL,fg3_miss,1,False,False,MISS Davis 24' 3PT Jump Shot,,100-108,100,108
+0021900139,2019-11-10,LAL,TOR,46.92,4,1,5,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:2 Def:9),100-108,100,108
+0021900139,2019-11-10,LAL,TOR,46.98,4,1,1,TOR,LAL,foul,1,False,False,Davis P.FOUL (P1.T4) (Z.Zarba),,100-108,100,108
+0021900139,2019-11-10,LAL,TOR,47.02,4,0,59,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.5 Short 0),100-108,100,108
+0021900139,2019-11-10,LAL,TOR,47.03,4,0,58,TOR,LAL,foul,28,False,False,Davis Personal Take Foul (P2.PN) (Z.Zarba),,100-108,100,108
+0021900139,2019-11-10,LAL,TOR,47.03,4,0,58,TOR,TOR,ft_miss,11,False,False,,MISS Siakam Free Throw 1 of 2,100-108,100,108
+0021900139,2019-11-10,LAL,TOR,47.03,4,0,58,TOR,TOR,reb,1,False,False,,Raptors Rebound,100-108,100,108
+0021900139,2019-11-10,LAL,TOR,47.03,4,0,58,TOR,TOR,ft_make,12,False,False,,Siakam Free Throw 2 of 2 (24 PTS),100-109,100,109
+0021900139,2019-11-10,LAL,TOR,47.18,4,0,49,LAL,LAL,fg3_miss,1,False,False,MISS Green 28' 3PT Jump Shot,,100-109,100,109
+0021900139,2019-11-10,LAL,TOR,47.22,4,0,47,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:0 Def:3),100-109,100,109
+0021900139,2019-11-10,LAL,TOR,47.22,4,0,47,TOR,LAL,foul,28,False,False,Davis Personal Take Foul (P3.PN) (Z.Zarba),,100-109,100,109
+0021900139,2019-11-10,LAL,TOR,47.22,4,0,47,TOR,TOR,ft_make,11,False,False,,Anunoby Free Throw 1 of 2 (6 PTS),100-110,100,110
+0021900139,2019-11-10,LAL,TOR,47.22,4,0,47,TOR,TOR,ft_make,12,False,False,,Anunoby Free Throw 2 of 2 (7 PTS),100-111,100,111
+0021900139,2019-11-10,LAL,TOR,47.33,4,0,40,LAL,LAL,fg_make,6,False,False,Kuzma 1' Driving Layup (13 PTS) (Caruso 4 AST),,102-111,102,111
+0021900139,2019-11-10,LAL,TOR,47.42,4,0,35,TOR,LAL,foul,1,False,False,Bradley P.FOUL (P4.PN) (Z.Zarba),,102-111,102,111
+0021900139,2019-11-10,LAL,TOR,47.42,4,0,35,TOR,TOR,ft_make,11,False,False,,VanVleet Free Throw 1 of 2 (22 PTS),102-112,102,112
+0021900139,2019-11-10,LAL,TOR,47.42,4,0,35,TOR,TOR,ft_make,12,False,False,,VanVleet Free Throw 2 of 2 (23 PTS),102-113,102,113
+0021900139,2019-11-10,LAL,TOR,47.53,4,0,28,LAL,LAL,fg_make,93,False,False,Kuzma 6' Driving Bank Hook Shot (15 PTS),,104-113,104,113
+0021900139,2019-11-10,LAL,TOR,47.93,4,0,4,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#15),104-113,104,113
+0021900139,2019-11-10,LAL,TOR,48.0,4,0,0,TOR,,period_end,0,False,False,,,104-113,104,113

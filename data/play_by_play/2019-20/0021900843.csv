@@ -1,0 +1,473 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900843,2020-02-23,TOR,IND,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900843,2020-02-23,TOR,IND,0.0,1,12,0,,TOR,jump_ball,0,False,False,Jump Ball Ibaka vs. Turner: Tip to Siakam,,0-0,0,0
+0021900843,2020-02-23,TOR,IND,0.33,1,11,40,TOR,TOR,fg_make,57,False,False,Ibaka 3' Driving Hook Shot (2 PTS) (Lowry 1 AST),,2-0,2,0
+0021900843,2020-02-23,TOR,IND,0.62,1,11,23,IND,IND,fg_miss,57,False,False,,MISS Holiday 4' Driving Hook Shot,2-0,2,0
+0021900843,2020-02-23,TOR,IND,0.67,1,11,20,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:1),,2-0,2,0
+0021900843,2020-02-23,TOR,IND,0.82,1,11,11,TOR,TOR,fg_miss,78,False,False,MISS Ibaka 13' Floating Jump Shot,,2-0,2,0
+0021900843,2020-02-23,TOR,IND,0.83,1,11,10,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:0),,2-0,2,0
+0021900843,2020-02-23,TOR,IND,0.87,1,11,8,TOR,TOR,fg_make,1,False,False,Ibaka 7' Jump Shot (4 PTS),,4-0,4,0
+0021900843,2020-02-23,TOR,IND,1.17,1,10,50,IND,TOR,foul,2,False,False,Ibaka S.FOUL (P1.T1) (Z.Zarba),,4-0,4,0
+0021900843,2020-02-23,TOR,IND,1.17,1,10,50,IND,IND,ft_miss,11,False,False,,MISS Sabonis Free Throw 1 of 2,4-0,4,0
+0021900843,2020-02-23,TOR,IND,1.17,1,10,50,IND,IND,reb,1,False,False,,Pacers Rebound,4-0,4,0
+0021900843,2020-02-23,TOR,IND,1.17,1,10,50,IND,IND,ft_make,12,False,False,,Sabonis Free Throw 2 of 2 (1 PTS),4-1,4,1
+0021900843,2020-02-23,TOR,IND,1.27,1,10,44,TOR,TOR,fg3_make,1,False,False,Ibaka 27' 3PT Jump Shot (7 PTS) (Anunoby 1 AST),,7-1,7,1
+0021900843,2020-02-23,TOR,IND,1.67,1,10,20,IND,IND,fg3_miss,79,False,False,,MISS Brogdon 26' 3PT Pullup Jump Shot,7-1,7,1
+0021900843,2020-02-23,TOR,IND,1.72,1,10,17,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:1),,7-1,7,1
+0021900843,2020-02-23,TOR,IND,1.78,1,10,13,TOR,TOR,fg3_make,103,False,False,Lowry 26' 3PT Running Pull-Up Jump Shot (3 PTS),,10-1,10,1
+0021900843,2020-02-23,TOR,IND,2.02,1,9,59,IND,IND,fg3_miss,1,False,False,,MISS Warren 3PT Jump Shot,10-1,10,1
+0021900843,2020-02-23,TOR,IND,2.07,1,9,56,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:0),10-1,10,1
+0021900843,2020-02-23,TOR,IND,2.12,1,9,53,IND,IND,fg3_miss,1,False,False,,MISS Holiday 26' 3PT Jump Shot,10-1,10,1
+0021900843,2020-02-23,TOR,IND,2.18,1,9,49,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:1),,10-1,10,1
+0021900843,2020-02-23,TOR,IND,2.23,1,9,46,TOR,TOR,fg3_make,2,False,False,Siakam 27' 3PT Running Jump Shot (3 PTS) (Lowry 2 AST),,13-1,13,1
+0021900843,2020-02-23,TOR,IND,2.25,1,9,45,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.1 Short 0),13-1,13,1
+0021900843,2020-02-23,TOR,IND,2.65,1,9,21,IND,IND,tov,11,False,False,,Pacers Turnover: Shot Clock (T#1),13-1,13,1
+0021900843,2020-02-23,TOR,IND,2.82,1,9,11,TOR,TOR,fg_miss,6,False,False,MISS Anunoby 5' Driving Layup,,13-1,13,1
+0021900843,2020-02-23,TOR,IND,2.87,1,9,8,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.1,1,8,54,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.17,1,8,50,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:2),,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.27,1,8,44,TOR,TOR,fg3_miss,1,False,False,MISS Ibaka 26' 3PT Jump Shot,,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.32,1,8,41,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:1),13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.52,1,8,29,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.57,1,8,26,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:3),,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.68,1,8,19,TOR,TOR,fg_miss,6,False,False,MISS Siakam 4' Driving Layup,,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.72,1,8,17,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:1),13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.78,1,8,13,IND,IND,fg_miss,41,False,False,,MISS Warren 2' Running Layup,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.82,1,8,11,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:1),,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.93,1,8,4,TOR,TOR,tov,2,False,True,Ibaka Lost Ball Turnover (P1.T1),,13-1,13,1
+0021900843,2020-02-23,TOR,IND,3.93,1,8,4,TOR,IND,steal,2,False,True,steal,steal,13-1,13,1
+0021900843,2020-02-23,TOR,IND,4.08,1,7,55,IND,IND,fg_miss,101,False,False,,MISS Warren 11' Driving Floating Jump Shot,13-1,13,1
+0021900843,2020-02-23,TOR,IND,4.13,1,7,52,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:0),13-1,13,1
+0021900843,2020-02-23,TOR,IND,4.15,1,7,51,IND,IND,tov,2,False,True,,Warren Lost Ball Turnover (P1.T2),13-1,13,1
+0021900843,2020-02-23,TOR,IND,4.15,1,7,51,IND,TOR,steal,2,False,True,steal,steal,13-1,13,1
+0021900843,2020-02-23,TOR,IND,4.37,1,7,38,TOR,TOR,fg_make,98,False,False,Ibaka 2' Cutting Layup Shot (9 PTS) (Siakam 1 AST),,15-1,15,1
+0021900843,2020-02-23,TOR,IND,4.73,1,7,16,IND,IND,fg_miss,47,False,False,,MISS Turner 11' Turnaround Jump Shot,15-1,15,1
+0021900843,2020-02-23,TOR,IND,4.77,1,7,14,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:4),,15-1,15,1
+0021900843,2020-02-23,TOR,IND,4.83,1,7,10,TOR,TOR,fg3_miss,79,False,False,MISS Lowry 26' 3PT Pullup Jump Shot,,15-1,15,1
+0021900843,2020-02-23,TOR,IND,4.88,1,7,7,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:2),15-1,15,1
+0021900843,2020-02-23,TOR,IND,5.05,1,6,57,IND,IND,fg_make,75,False,False,,Brogdon 3' Driving Finger Roll Layup (2 PTS),15-3,15,3
+0021900843,2020-02-23,TOR,IND,5.37,1,6,38,TOR,IND,violation,5,False,False,,Turner Violation:Kicked Ball (Z.Zarba),15-3,15,3
+0021900843,2020-02-23,TOR,IND,5.53,1,6,28,TOR,TOR,fg3_miss,79,False,False,MISS VanVleet 26' 3PT Pullup Jump Shot,,15-3,15,3
+0021900843,2020-02-23,TOR,IND,5.58,1,6,25,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:2),15-3,15,3
+0021900843,2020-02-23,TOR,IND,5.85,1,6,9,IND,IND,tov,45,False,False,,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T3),15-3,15,3
+0021900843,2020-02-23,TOR,IND,6.15,1,5,51,TOR,TOR,fg_make,108,False,False,Ibaka 1' Cutting Dunk Shot (11 PTS) (Siakam 2 AST),,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.47,1,5,32,IND,IND,fg3_miss,1,False,False,,MISS Warren 3PT Jump Shot,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.47,1,5,32,IND,IND,reb,0,False,False,,Pacers Rebound,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.47,1,5,32,IND,TOR,foul,3,False,False,Lowry L.B.FOUL (P1.T2) (M.Ayotte),,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.72,1,5,17,IND,IND,fg_miss,63,False,False,,MISS Lamb 15' Fadeaway Jumper,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.77,1,5,14,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:5),,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.88,1,5,7,TOR,TOR,fg_miss,6,False,False,MISS Ibaka 5' Driving Layup,,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.88,1,5,7,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,17-3,17,3
+0021900843,2020-02-23,TOR,IND,6.88,1,5,7,TOR,IND,foul,3,False,False,,Lamb L.B.FOUL (P1.T1) (M.Ayotte),17-3,17,3
+0021900843,2020-02-23,TOR,IND,7.0,1,5,0,TOR,TOR,fg_make,9,False,False,Davis 1' Driving Dunk (2 PTS) (VanVleet 1 AST),,19-3,19,3
+0021900843,2020-02-23,TOR,IND,7.05,1,4,57,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.2 Short 0),19-3,19,3
+0021900843,2020-02-23,TOR,IND,7.22,1,4,47,IND,IND,fg_miss,75,False,False,,MISS Lamb 4' Driving Finger Roll Layup,19-3,19,3
+0021900843,2020-02-23,TOR,IND,7.23,1,4,46,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:2),19-3,19,3
+0021900843,2020-02-23,TOR,IND,7.38,1,4,37,IND,IND,fg3_miss,1,False,False,,MISS Brogdon 30' 3PT Jump Shot,19-3,19,3
+0021900843,2020-02-23,TOR,IND,7.45,1,4,33,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,19-3,19,3
+0021900843,2020-02-23,TOR,IND,7.55,1,4,27,TOR,TOR,fg_make,96,False,False,Siakam 1' Turnaround Bank Hook Shot (5 PTS) (Davis 1 AST),,21-3,21,3
+0021900843,2020-02-23,TOR,IND,7.8,1,4,12,IND,IND,fg_miss,98,False,False,,MISS Lamb 2' Cutting Layup Shot,21-3,21,3
+0021900843,2020-02-23,TOR,IND,7.83,1,4,10,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:1),,21-3,21,3
+0021900843,2020-02-23,TOR,IND,8.07,1,3,56,TOR,TOR,tov,1,False,True,Siakam Bad Pass Turnover (P1.T2),,21-3,21,3
+0021900843,2020-02-23,TOR,IND,8.07,1,3,56,TOR,IND,steal,1,False,True,steal,steal,21-3,21,3
+0021900843,2020-02-23,TOR,IND,8.12,1,3,53,IND,IND,fg3_make,2,False,False,,Holiday 24' 3PT Running Jump Shot (3 PTS) (Brogdon 1 AST),21-6,21,6
+0021900843,2020-02-23,TOR,IND,8.42,1,3,35,TOR,TOR,fg_miss,101,True,False,MISS Davis 13' Driving Floating Jump Shot,,21-6,21,6
+0021900843,2020-02-23,TOR,IND,8.42,1,3,35,TOR,IND,block,101,True,False,block,block,21-6,21,6
+0021900843,2020-02-23,TOR,IND,8.5,1,3,30,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:0),,21-6,21,6
+0021900843,2020-02-23,TOR,IND,8.5,1,3,30,TOR,TOR,fg_make,72,False,False,Hollis-Jefferson 1' Putback Layup (2 PTS),,23-6,23,6
+0021900843,2020-02-23,TOR,IND,8.73,1,3,16,IND,IND,fg_miss,98,False,False,,MISS Warren 4' Cutting Layup Shot,23-6,23,6
+0021900843,2020-02-23,TOR,IND,8.77,1,3,14,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:0 Def:2),,23-6,23,6
+0021900843,2020-02-23,TOR,IND,8.87,1,3,8,TOR,IND,violation,5,False,False,,Turner Violation:Kicked Ball (M.Ayotte),23-6,23,6
+0021900843,2020-02-23,TOR,IND,8.87,1,3,8,TOR,IND,foul,1,False,False,,Warren P.FOUL (P1.T2) (M.Ayotte),23-6,23,6
+0021900843,2020-02-23,TOR,IND,9.03,1,2,58,TOR,TOR,fg_make,71,False,False,Siakam 4' Finger Roll Layup (7 PTS),,25-6,25,6
+0021900843,2020-02-23,TOR,IND,9.25,1,2,45,IND,TOR,foul,1,False,False,Siakam P.FOUL (P1.T3) (M.Ayotte),,25-6,25,6
+0021900843,2020-02-23,TOR,IND,9.48,1,2,31,IND,IND,fg3_miss,1,False,False,,MISS Lamb 27' 3PT Jump Shot,25-6,25,6
+0021900843,2020-02-23,TOR,IND,9.53,1,2,28,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:1),,25-6,25,6
+0021900843,2020-02-23,TOR,IND,9.62,1,2,23,TOR,TOR,fg3_make,1,False,False,Davis 24' 3PT Jump Shot (5 PTS) (Lowry 3 AST),,28-6,28,6
+0021900843,2020-02-23,TOR,IND,9.88,1,2,7,IND,IND,fg_miss,6,True,False,,MISS McConnell 4' Driving Layup,28-6,28,6
+0021900843,2020-02-23,TOR,IND,9.88,1,2,7,IND,TOR,block,6,True,False,block,block,28-6,28,6
+0021900843,2020-02-23,TOR,IND,9.93,1,2,4,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:2),,28-6,28,6
+0021900843,2020-02-23,TOR,IND,10.18,1,1,49,TOR,TOR,fg_miss,98,False,False,MISS Hollis-Jefferson 2' Cutting Layup Shot,,28-6,28,6
+0021900843,2020-02-23,TOR,IND,10.2,1,1,48,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:3),28-6,28,6
+0021900843,2020-02-23,TOR,IND,10.33,1,1,40,IND,IND,fg_miss,75,False,False,,MISS Lamb 3' Driving Finger Roll Layup,28-6,28,6
+0021900843,2020-02-23,TOR,IND,10.38,1,1,37,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:3),,28-6,28,6
+0021900843,2020-02-23,TOR,IND,10.47,1,1,32,TOR,IND,foul,2,False,False,,McDermott S.FOUL (P1.T3) (S.Twardoski),28-6,28,6
+0021900843,2020-02-23,TOR,IND,10.47,1,1,32,TOR,TOR,ft_make,11,False,False,Siakam Free Throw 1 of 2 (8 PTS),,29-6,29,6
+0021900843,2020-02-23,TOR,IND,10.47,1,1,32,TOR,TOR,ft_make,12,False,False,Siakam Free Throw 2 of 2 (9 PTS),,30-6,30,6
+0021900843,2020-02-23,TOR,IND,10.63,1,1,22,IND,IND,tov,45,False,False,,McConnell Out of Bounds - Bad Pass Turnover Turnover (P1.T4),30-6,30,6
+0021900843,2020-02-23,TOR,IND,10.75,1,1,15,TOR,TOR,fg_make,47,False,False,Siakam 2' Turnaround Jump Shot (11 PTS) (Lowry 4 AST),,32-6,32,6
+0021900843,2020-02-23,TOR,IND,10.98,1,1,1,IND,IND,fg_make,6,False,False,,Lamb 7' Driving Layup (2 PTS) (Sabonis 1 AST),32-8,32,8
+0021900843,2020-02-23,TOR,IND,10.98,1,1,1,IND,TOR,foul,2,False,False,Boucher S.FOUL (P1.T4) (S.Twardoski),,32-8,32,8
+0021900843,2020-02-23,TOR,IND,10.98,1,1,1,IND,IND,ft_make,10,False,False,,Lamb Free Throw 1 of 1 (3 PTS),32-9,32,9
+0021900843,2020-02-23,TOR,IND,11.05,1,0,57,TOR,IND,foul,2,False,False,,McDermott S.FOUL (P2.PN) (S.Twardoski),32-9,32,9
+0021900843,2020-02-23,TOR,IND,11.05,1,0,57,TOR,TOR,ft_make,11,False,False,Hollis-Jefferson Free Throw 1 of 2 (3 PTS),,33-9,33,9
+0021900843,2020-02-23,TOR,IND,11.05,1,0,57,TOR,TOR,ft_make,12,False,False,Hollis-Jefferson Free Throw 2 of 2 (4 PTS),,34-9,34,9
+0021900843,2020-02-23,TOR,IND,11.37,1,0,38,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,34-9,34,9
+0021900843,2020-02-23,TOR,IND,11.4,1,0,36,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:2),,34-9,34,9
+0021900843,2020-02-23,TOR,IND,11.5,1,0,30,TOR,TOR,fg_miss,79,False,False,MISS Lowry 23' Pullup Jump Shot,,34-9,34,9
+0021900843,2020-02-23,TOR,IND,11.55,1,0,27,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:0 Def:1),34-9,34,9
+0021900843,2020-02-23,TOR,IND,11.7,1,0,18,IND,IND,fg3_make,1,False,False,,Holiday 24' 3PT Jump Shot (6 PTS) (Sabonis 2 AST),34-12,34,12
+0021900843,2020-02-23,TOR,IND,12.0,1,0,0,TOR,TOR,tov,2,False,True,Siakam Lost Ball Turnover (P2.T3),,34-12,34,12
+0021900843,2020-02-23,TOR,IND,12.0,1,0,0,TOR,IND,steal,2,False,True,steal,steal,34-12,34,12
+0021900843,2020-02-23,TOR,IND,12.0,1,0,0,TOR,,period_end,0,False,False,,,34-12,34,12
+0021900843,2020-02-23,TOR,IND,12.0,2,12,0,TOR,,period_start,0,False,False,,,34-12,34,12
+0021900843,2020-02-23,TOR,IND,12.23,2,11,46,IND,IND,fg_make,96,False,False,,Sabonis 5' Turnaround Bank Hook Shot (3 PTS) (McDermott 1 AST),34-14,34,14
+0021900843,2020-02-23,TOR,IND,12.57,2,11,26,TOR,TOR,tov,45,False,False,Hollis-Jefferson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,34-14,34,14
+0021900843,2020-02-23,TOR,IND,12.82,2,11,11,IND,IND,tov,45,False,False,,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T5),34-14,34,14
+0021900843,2020-02-23,TOR,IND,12.97,2,11,2,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P1.T5),,34-14,34,14
+0021900843,2020-02-23,TOR,IND,12.97,2,11,2,TOR,IND,steal,1,False,True,steal,steal,34-14,34,14
+0021900843,2020-02-23,TOR,IND,13.07,2,10,56,IND,IND,fg3_make,2,False,False,,McDermott 28' 3PT Running Jump Shot (3 PTS) (Lamb 1 AST),34-17,34,17
+0021900843,2020-02-23,TOR,IND,13.5,2,10,30,TOR,TOR,fg3_make,1,False,False,Lowry 34' 3PT Jump Shot (6 PTS) (Boucher 1 AST),,37-17,37,17
+0021900843,2020-02-23,TOR,IND,13.88,2,10,7,IND,IND,fg_miss,57,False,False,,MISS Sabonis 3' Driving Hook Shot,37-17,37,17
+0021900843,2020-02-23,TOR,IND,13.92,2,10,5,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:1),,37-17,37,17
+0021900843,2020-02-23,TOR,IND,14.03,2,9,58,TOR,TOR,tov,1,False,True,Hollis-Jefferson Bad Pass Turnover (P2.T6),,37-17,37,17
+0021900843,2020-02-23,TOR,IND,14.03,2,9,58,TOR,IND,steal,1,False,True,steal,steal,37-17,37,17
+0021900843,2020-02-23,TOR,IND,14.1,2,9,54,IND,TOR,foul,2,False,False,Davis S.FOUL (P1.T1) (M.Ayotte),,37-17,37,17
+0021900843,2020-02-23,TOR,IND,14.1,2,9,54,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),37-17,37,17
+0021900843,2020-02-23,TOR,IND,14.1,2,9,54,IND,IND,ft_make,11,False,False,,Lamb Free Throw 1 of 2 (4 PTS),37-18,37,18
+0021900843,2020-02-23,TOR,IND,14.1,2,9,54,IND,IND,ft_make,12,False,False,,Lamb Free Throw 2 of 2 (5 PTS),37-19,37,19
+0021900843,2020-02-23,TOR,IND,14.13,2,9,52,TOR,IND,foul,28,False,False,,McConnell Personal Take Foul (P1.T1) (Z.Zarba),37-19,37,19
+0021900843,2020-02-23,TOR,IND,14.48,2,9,31,TOR,TOR,fg3_make,79,False,False,Davis 26' 3PT Pullup Jump Shot (8 PTS) (Thomas 1 AST),,40-19,40,19
+0021900843,2020-02-23,TOR,IND,14.78,2,9,13,IND,TOR,foul,17,False,False,RAPTORS T.Foul (Def. 3 Sec Anunoby ) (M.Ayotte),,40-19,40,19
+0021900843,2020-02-23,TOR,IND,14.78,2,9,13,IND,IND,ft_make,16,False,False,,Brogdon Free Throw Technical (3 PTS),40-20,40,20
+0021900843,2020-02-23,TOR,IND,14.92,2,9,5,IND,IND,fg_make,58,False,False,,Sabonis 4' Turnaround Hook Shot (5 PTS) (McConnell 1 AST),40-22,40,22
+0021900843,2020-02-23,TOR,IND,15.08,2,8,55,TOR,TOR,fg_make,51,False,False,Anunoby 1' Reverse Dunk (2 PTS) (Hollis-Jefferson 1 AST),,42-22,42,22
+0021900843,2020-02-23,TOR,IND,15.28,2,8,43,IND,IND,fg_miss,73,False,False,,MISS McConnell 2' Driving Reverse Layup,42-22,42,22
+0021900843,2020-02-23,TOR,IND,15.28,2,8,43,IND,IND,reb,0,False,False,,Pacers Rebound,42-22,42,22
+0021900843,2020-02-23,TOR,IND,15.28,2,8,43,IND,TOR,foul,3,False,False,Anunoby L.B.FOUL (P1.T2) (Z.Zarba),,42-22,42,22
+0021900843,2020-02-23,TOR,IND,15.48,2,8,31,IND,IND,fg3_make,1,False,False,,McDermott 3PT Jump Shot (6 PTS) (Sabonis 3 AST),42-25,42,25
+0021900843,2020-02-23,TOR,IND,15.72,2,8,17,TOR,TOR,fg_make,6,False,False,Lowry 1' Driving Layup (8 PTS),,44-25,44,25
+0021900843,2020-02-23,TOR,IND,15.85,2,8,9,IND,IND,fg_miss,6,False,False,,MISS Brogdon 3' Driving Layup,44-25,44,25
+0021900843,2020-02-23,TOR,IND,15.9,2,8,6,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:2),,44-25,44,25
+0021900843,2020-02-23,TOR,IND,15.93,2,8,4,TOR,TOR,fg_miss,50,False,False,MISS Davis 2' Running Dunk,,44-25,44,25
+0021900843,2020-02-23,TOR,IND,15.93,2,8,4,IND,IND,reb,0,False,False,,Pacers Rebound,44-25,44,25
+0021900843,2020-02-23,TOR,IND,16.07,2,7,56,IND,IND,fg_miss,57,False,False,,MISS Sabonis 4' Driving Hook Shot,44-25,44,25
+0021900843,2020-02-23,TOR,IND,16.08,2,7,55,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:4),,44-25,44,25
+0021900843,2020-02-23,TOR,IND,16.23,2,7,46,TOR,TOR,fg_make,7,False,False,Hollis-Jefferson Dunk (6 PTS) (Anunoby 2 AST),,46-25,46,25
+0021900843,2020-02-23,TOR,IND,16.5,2,7,30,TOR,IND,foul,4,False,False,,McDermott OFF.Foul (P3) (S.Twardoski),46-25,46,25
+0021900843,2020-02-23,TOR,IND,16.5,2,7,30,IND,IND,tov,37,False,False,,McDermott Offensive Foul Turnover (P1.T6),46-25,46,25
+0021900843,2020-02-23,TOR,IND,16.68,2,7,19,TOR,TOR,fg_miss,75,False,False,MISS Hollis-Jefferson 3' Driving Finger Roll Layup,,46-25,46,25
+0021900843,2020-02-23,TOR,IND,16.72,2,7,17,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:2 Def:1),,46-25,46,25
+0021900843,2020-02-23,TOR,IND,16.73,2,7,16,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 26' 3PT Jump Shot,,46-25,46,25
+0021900843,2020-02-23,TOR,IND,16.73,2,7,16,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:4),46-25,46,25
+0021900843,2020-02-23,TOR,IND,17.1,2,6,54,IND,IND,fg_miss,58,False,False,,MISS Turner 2' Turnaround Hook Shot,46-25,46,25
+0021900843,2020-02-23,TOR,IND,17.13,2,6,52,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:0 Def:1),,46-25,46,25
+0021900843,2020-02-23,TOR,IND,17.28,2,6,43,TOR,TOR,fg_make,108,False,False,Anunoby 1' Cutting Dunk Shot (4 PTS) (Hollis-Jefferson 2 AST),,48-25,48,25
+0021900843,2020-02-23,TOR,IND,17.52,2,6,29,IND,TOR,foul,1,False,False,Anunoby P.FOUL (P2.T3) (S.Twardoski),,48-25,48,25
+0021900843,2020-02-23,TOR,IND,17.73,2,6,16,IND,IND,fg3_miss,79,False,False,,MISS Brogdon 27' 3PT Pullup Jump Shot,48-25,48,25
+0021900843,2020-02-23,TOR,IND,17.78,2,6,13,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:5),,48-25,48,25
+0021900843,2020-02-23,TOR,IND,17.82,2,6,11,TOR,TOR,fg_make,41,False,False,Lowry 2' Running Layup (10 PTS),,50-25,50,25
+0021900843,2020-02-23,TOR,IND,17.82,2,6,11,TOR,IND,foul,2,False,False,,Warren S.FOUL (P2.T2) (S.Twardoski),50-25,50,25
+0021900843,2020-02-23,TOR,IND,17.82,2,6,11,TOR,TOR,ft_make,10,False,False,Lowry Free Throw 1 of 1 (11 PTS),,51-25,51,25
+0021900843,2020-02-23,TOR,IND,18.07,2,5,56,IND,IND,fg_make,98,False,False,,Holiday 2' Cutting Layup Shot (2 PTS) (Sabonis 4 AST),51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.2,2,5,48,TOR,TOR,fg3_miss,80,False,False,MISS Lowry 26' 3PT Step Back Jump Shot,,51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.2,2,5,48,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.2,2,5,48,TOR,IND,foul,3,False,False,,Sabonis L.B.FOUL (P1.T3) (M.Ayotte),51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.37,2,5,38,TOR,TOR,fg_miss,1,False,False,MISS Ibaka 18' Jump Shot,,51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.38,2,5,37,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:5),51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.67,2,5,20,IND,IND,fg_miss,1,False,False,,MISS Sabonis 15' Jump Shot,51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.7,2,5,18,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:3),,51-27,51,27
+0021900843,2020-02-23,TOR,IND,18.97,2,5,2,TOR,TOR,fg3_miss,1,False,False,MISS Davis 25' 3PT Jump Shot,,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.02,2,4,59,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:2 Def:5),,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.07,2,4,56,TOR,TOR,tov,1,False,True,Ibaka Bad Pass Turnover (P2.T7),,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.07,2,4,56,TOR,IND,steal,1,False,True,steal,steal,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.15,2,4,51,IND,IND,fg3_miss,1,False,False,,MISS Holiday 26' 3PT Jump Shot,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.22,2,4,47,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:2 Def:6),,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.28,2,4,43,TOR,TOR,fg3_miss,2,False,False,MISS VanVleet 27' 3PT Running Jump Shot,,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.32,2,4,41,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:3 Def:6),,51-27,51,27
+0021900843,2020-02-23,TOR,IND,19.37,2,4,38,TOR,TOR,fg3_make,1,False,False,VanVleet 3PT Jump Shot (3 PTS) (Ibaka 1 AST),,54-27,54,27
+0021900843,2020-02-23,TOR,IND,19.6,2,4,24,IND,TOR,foul,1,False,False,VanVleet P.FOUL (P1.T4) (Z.Zarba),,54-27,54,27
+0021900843,2020-02-23,TOR,IND,19.72,2,4,17,IND,IND,tov,2,False,True,,Holiday Lost Ball Turnover (P2.T7),54-27,54,27
+0021900843,2020-02-23,TOR,IND,19.72,2,4,17,IND,TOR,steal,2,False,True,steal,steal,54-27,54,27
+0021900843,2020-02-23,TOR,IND,19.88,2,4,7,TOR,TOR,fg_miss,75,True,False,MISS VanVleet 2' Driving Finger Roll Layup,,54-27,54,27
+0021900843,2020-02-23,TOR,IND,19.88,2,4,7,TOR,IND,block,75,True,False,block,block,54-27,54,27
+0021900843,2020-02-23,TOR,IND,19.88,2,4,7,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.07,2,3,56,TOR,TOR,fg3_miss,1,False,False,MISS Anunoby 26' 3PT Jump Shot,,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.12,2,3,53,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:4 Def:6),,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.13,2,3,52,TOR,TOR,fg_miss,66,False,False,MISS Ibaka 4' Jump Bank Shot,,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.18,2,3,49,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:0 Def:1),54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.5,2,3,30,IND,IND,fg3_miss,1,False,False,,MISS Turner 3PT Jump Shot,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.55,2,3,27,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:4 Def:7),,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.62,2,3,23,TOR,IND,foul,2,False,False,,Brogdon S.FOUL (P1.T4) (Z.Zarba),54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.62,2,3,23,TOR,TOR,ft_miss,11,False,False,MISS Siakam Free Throw 1 of 2,,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.62,2,3,23,TOR,TOR,reb,1,False,False,RAPTORS Rebound,,54-27,54,27
+0021900843,2020-02-23,TOR,IND,20.62,2,3,23,TOR,TOR,ft_make,12,False,False,Siakam Free Throw 2 of 2 (12 PTS),,55-27,55,27
+0021900843,2020-02-23,TOR,IND,20.93,2,3,4,IND,IND,fg_miss,93,False,False,,MISS Holiday 6' Driving Bank Hook Shot,55-27,55,27
+0021900843,2020-02-23,TOR,IND,20.97,2,3,2,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:2),,55-27,55,27
+0021900843,2020-02-23,TOR,IND,21.07,2,2,56,TOR,TOR,fg3_miss,80,False,False,MISS VanVleet 28' 3PT Step Back Jump Shot,,55-27,55,27
+0021900843,2020-02-23,TOR,IND,21.08,2,2,55,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:3),55-27,55,27
+0021900843,2020-02-23,TOR,IND,21.32,2,2,41,IND,IND,fg_miss,6,False,False,,MISS Turner 5' Driving Layup,55-27,55,27
+0021900843,2020-02-23,TOR,IND,21.33,2,2,40,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:1 Def:1),55-27,55,27
+0021900843,2020-02-23,TOR,IND,21.38,2,2,37,IND,IND,fg3_make,1,False,False,,Holiday 3PT Jump Shot (9 PTS) (Brogdon 2 AST),55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.52,2,2,29,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.63,2,2,22,TOR,TOR,fg3_miss,1,False,False,MISS Anunoby 27' 3PT Jump Shot,,55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.68,2,2,19,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:1),55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.85,2,2,9,IND,IND,tov,2,False,True,,Holiday Lost Ball Turnover (P2.T8),55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.85,2,2,9,IND,TOR,steal,2,False,True,steal,steal,55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.87,2,2,8,TOR,TOR,tov,1,False,True,Ibaka Bad Pass Turnover (P3.T8),,55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.87,2,2,8,TOR,IND,steal,1,False,True,steal,steal,55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.95,2,2,3,IND,IND,fg_miss,43,False,False,,MISS Warren 1' Alley Oop Layup,55-30,55,30
+0021900843,2020-02-23,TOR,IND,21.98,2,2,1,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:4 Def:8),,55-30,55,30
+0021900843,2020-02-23,TOR,IND,22.18,2,1,49,TOR,TOR,fg3_make,1,False,False,Lowry 25' 3PT Jump Shot (14 PTS) (VanVleet 2 AST),,58-30,58,30
+0021900843,2020-02-23,TOR,IND,22.38,2,1,37,IND,TOR,foul,1,False,False,Anunoby P.FOUL (P3.PN) (M.Ayotte),,58-30,58,30
+0021900843,2020-02-23,TOR,IND,22.38,2,1,37,IND,IND,ft_miss,11,False,False,,MISS Holiday Free Throw 1 of 2,58-30,58,30
+0021900843,2020-02-23,TOR,IND,22.38,2,1,37,IND,IND,reb,1,False,False,,Pacers Rebound,58-30,58,30
+0021900843,2020-02-23,TOR,IND,22.38,2,1,37,IND,IND,ft_miss,12,False,False,,MISS Holiday Free Throw 2 of 2,58-30,58,30
+0021900843,2020-02-23,TOR,IND,22.43,2,1,34,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:4 Def:9),,58-30,58,30
+0021900843,2020-02-23,TOR,IND,22.63,2,1,22,TOR,TOR,fg_make,1,False,False,Siakam 17' Jump Shot (14 PTS) (VanVleet 3 AST),,60-30,60,30
+0021900843,2020-02-23,TOR,IND,22.83,2,1,10,IND,IND,fg3_miss,1,False,False,,MISS Holiday 25' 3PT Jump Shot,60-30,60,30
+0021900843,2020-02-23,TOR,IND,22.87,2,1,8,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:2 Def:1),60-30,60,30
+0021900843,2020-02-23,TOR,IND,22.92,2,1,5,IND,IND,tov,2,False,True,,Brogdon Lost Ball Turnover (P1.T9),60-30,60,30
+0021900843,2020-02-23,TOR,IND,22.92,2,1,5,IND,TOR,steal,2,False,True,steal,steal,60-30,60,30
+0021900843,2020-02-23,TOR,IND,22.95,2,1,3,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P2.T9),,60-30,60,30
+0021900843,2020-02-23,TOR,IND,22.95,2,1,3,TOR,IND,steal,1,False,True,steal,steal,60-30,60,30
+0021900843,2020-02-23,TOR,IND,23.02,2,0,59,TOR,IND,foul,26,False,False,,Holiday Offensive Charge Foul (P1.PN) (M.Ayotte),60-30,60,30
+0021900843,2020-02-23,TOR,IND,23.02,2,0,59,IND,IND,tov,37,False,False,,Holiday Offensive Foul Turnover (P3.T10),60-30,60,30
+0021900843,2020-02-23,TOR,IND,23.18,2,0,49,TOR,TOR,fg3_miss,79,False,False,MISS VanVleet 27' 3PT Pullup Jump Shot,,60-30,60,30
+0021900843,2020-02-23,TOR,IND,23.23,2,0,46,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:2),60-30,60,30
+0021900843,2020-02-23,TOR,IND,23.42,2,0,35,IND,IND,fg_miss,79,False,False,,MISS Brogdon 20' Pullup Jump Shot,60-30,60,30
+0021900843,2020-02-23,TOR,IND,23.45,2,0,33,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:3),60-30,60,30
+0021900843,2020-02-23,TOR,IND,23.45,2,0,33,IND,IND,fg_make,97,False,False,,Turner 1' Tip Layup Shot (2 PTS),60-32,60,32
+0021900843,2020-02-23,TOR,IND,23.48,2,0,31,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 32' 3PT Jump Shot,,60-32,60,32
+0021900843,2020-02-23,TOR,IND,23.52,2,0,29,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:2),60-32,60,32
+0021900843,2020-02-23,TOR,IND,23.87,2,0,8,IND,IND,fg_miss,6,True,False,,MISS Brogdon 2' Driving Layup,60-32,60,32
+0021900843,2020-02-23,TOR,IND,23.87,2,0,8,IND,TOR,block,6,True,False,block,block,60-32,60,32
+0021900843,2020-02-23,TOR,IND,23.9,2,0,6,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:4 Def:10),,60-32,60,32
+0021900843,2020-02-23,TOR,IND,23.95,2,0,3,TOR,TOR,fg3_make,2,False,False,VanVleet 27' 3PT Running Jump Shot (6 PTS) (Lowry 5 AST),,63-32,63,32
+0021900843,2020-02-23,TOR,IND,23.98,2,0,1,IND,IND,fg3_miss,1,False,False,,MISS Warren 29' 3PT Jump Shot,63-32,63,32
+0021900843,2020-02-23,TOR,IND,23.98,2,0,1,IND,IND,reb,0,False,False,,Pacers Rebound,63-32,63,32
+0021900843,2020-02-23,TOR,IND,24.0,2,0,0,IND,,period_end,0,False,False,,,63-32,63,32
+0021900843,2020-02-23,TOR,IND,24.0,3,12,0,IND,,period_start,0,False,False,,,63-32,63,32
+0021900843,2020-02-23,TOR,IND,24.32,3,11,41,IND,IND,fg_make,1,False,False,,Sabonis 19' Jump Shot (7 PTS) (Brogdon 3 AST),63-34,63,34
+0021900843,2020-02-23,TOR,IND,24.6,3,11,24,TOR,TOR,fg_miss,79,False,False,MISS VanVleet 19' Pullup Jump Shot,,63-34,63,34
+0021900843,2020-02-23,TOR,IND,24.67,3,11,20,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:2 Def:2),63-34,63,34
+0021900843,2020-02-23,TOR,IND,24.77,3,11,14,IND,IND,fg_make,101,False,False,,Brogdon 13' Driving Floating Jump Shot (5 PTS) (Sabonis 5 AST),63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.17,3,10,50,TOR,TOR,fg_miss,5,False,False,MISS Anunoby 3' Layup,,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.17,3,10,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.17,3,10,50,TOR,TOR,tov,4,False,False,Anunoby Traveling Turnover (P1.T10),,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.33,3,10,40,IND,IND,fg_miss,1,False,False,,MISS Sabonis 20' Jump Shot,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.35,3,10,39,IND,IND,reb,0,False,False,,Pacers Rebound,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.35,3,10,39,IND,TOR,foul,3,False,False,VanVleet L.B.FOUL (P2.T1) (M.Ayotte),,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.47,3,10,32,IND,TOR,foul,1,False,False,VanVleet P.FOUL (P3.T2) (Z.Zarba),,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.57,3,10,26,IND,IND,fg_miss,79,False,False,,MISS Brogdon 21' Pullup Jump Shot,63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.62,3,10,23,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:3 Def:2),63-36,63,36
+0021900843,2020-02-23,TOR,IND,25.65,3,10,21,IND,IND,fg_make,101,False,False,,Brogdon 7' Driving Floating Jump Shot (7 PTS),63-38,63,38
+0021900843,2020-02-23,TOR,IND,25.85,3,10,9,TOR,TOR,fg_make,1,False,False,Ibaka 17' Jump Shot (13 PTS) (Lowry 6 AST),,65-38,65,38
+0021900843,2020-02-23,TOR,IND,26.05,3,9,57,IND,IND,fg3_make,1,False,False,,Holiday 27' 3PT Jump Shot (5 PTS) (Warren 1 AST),65-41,65,41
+0021900843,2020-02-23,TOR,IND,26.23,3,9,46,TOR,TOR,fg_make,80,False,False,Siakam 13' Step Back Jump Shot (16 PTS),,67-41,67,41
+0021900843,2020-02-23,TOR,IND,26.4,3,9,36,TOR,IND,foul,4,False,False,,Sabonis OFF.Foul (P2) (Z.Zarba),67-41,67,41
+0021900843,2020-02-23,TOR,IND,26.4,3,9,36,IND,IND,tov,37,False,False,,Sabonis Offensive Foul Turnover (P1.T11),67-41,67,41
+0021900843,2020-02-23,TOR,IND,26.6,3,9,24,TOR,TOR,fg3_miss,1,False,False,MISS Siakam 26' 3PT Jump Shot,,67-41,67,41
+0021900843,2020-02-23,TOR,IND,26.68,3,9,19,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:3),67-41,67,41
+0021900843,2020-02-23,TOR,IND,26.97,3,9,2,IND,IND,fg3_miss,1,False,False,,MISS Turner 28' 3PT Jump Shot,67-41,67,41
+0021900843,2020-02-23,TOR,IND,27.03,3,8,58,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:4),,67-41,67,41
+0021900843,2020-02-23,TOR,IND,27.1,3,8,54,TOR,TOR,fg_make,76,False,False,Lowry 2' Running Finger Roll Layup (16 PTS),,69-41,69,41
+0021900843,2020-02-23,TOR,IND,27.28,3,8,43,IND,IND,fg_miss,73,False,False,,MISS Brogdon 2' Driving Reverse Layup,69-41,69,41
+0021900843,2020-02-23,TOR,IND,27.3,3,8,42,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:4 Def:11),,69-41,69,41
+0021900843,2020-02-23,TOR,IND,27.52,3,8,29,TOR,IND,foul,2,False,False,,Turner S.FOUL (P1.T1) (Z.Zarba),69-41,69,41
+0021900843,2020-02-23,TOR,IND,27.52,3,8,29,TOR,TOR,ft_miss,11,False,False,MISS Anunoby Free Throw 1 of 2,,69-41,69,41
+0021900843,2020-02-23,TOR,IND,27.52,3,8,29,TOR,TOR,reb,1,False,False,RAPTORS Rebound,,69-41,69,41
+0021900843,2020-02-23,TOR,IND,27.52,3,8,29,TOR,TOR,ft_make,12,False,False,Anunoby Free Throw 2 of 2 (5 PTS),,70-41,70,41
+0021900843,2020-02-23,TOR,IND,27.7,3,8,18,IND,IND,tov,1,False,True,,Sabonis Bad Pass Turnover (P2.T12),70-41,70,41
+0021900843,2020-02-23,TOR,IND,27.7,3,8,18,IND,TOR,steal,1,False,True,steal,steal,70-41,70,41
+0021900843,2020-02-23,TOR,IND,27.75,3,8,15,TOR,TOR,fg_make,41,False,False,Anunoby 1' Running Layup (7 PTS),,72-41,72,41
+0021900843,2020-02-23,TOR,IND,27.77,3,8,14,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.4 Short 0),72-41,72,41
+0021900843,2020-02-23,TOR,IND,28.0,3,8,0,IND,IND,tov,2,False,True,,Warren Lost Ball Turnover (P2.T13),72-41,72,41
+0021900843,2020-02-23,TOR,IND,28.0,3,8,0,IND,TOR,steal,2,False,True,steal,steal,72-41,72,41
+0021900843,2020-02-23,TOR,IND,28.1,3,7,54,TOR,TOR,fg_make,41,False,False,Ibaka 1' Running Layup (15 PTS) (Siakam 3 AST),,74-41,74,41
+0021900843,2020-02-23,TOR,IND,28.43,3,7,34,IND,IND,tov,6,False,False,,Holiday Double Dribble Turnover (P3.T14),74-41,74,41
+0021900843,2020-02-23,TOR,IND,28.82,3,7,11,TOR,TOR,fg3_miss,1,False,False,MISS Siakam 26' 3PT Jump Shot,,74-41,74,41
+0021900843,2020-02-23,TOR,IND,28.83,3,7,10,IND,IND,reb,0,False,False,,Pacers Rebound,74-41,74,41
+0021900843,2020-02-23,TOR,IND,29.08,3,6,55,IND,IND,fg3_make,1,False,False,,Warren 3PT Jump Shot (3 PTS) (Holiday 1 AST),74-44,74,44
+0021900843,2020-02-23,TOR,IND,29.3,3,6,42,TOR,TOR,fg3_miss,79,False,False,MISS Siakam 24' 3PT Pullup Jump Shot,,74-44,74,44
+0021900843,2020-02-23,TOR,IND,29.35,3,6,39,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:4),74-44,74,44
+0021900843,2020-02-23,TOR,IND,29.57,3,6,26,IND,IND,fg_make,75,False,False,,Turner 4' Driving Finger Roll Layup (4 PTS) (Brogdon 4 AST),74-46,74,46
+0021900843,2020-02-23,TOR,IND,29.75,3,6,15,TOR,TOR,tov,2,False,True,Anunoby Lost Ball Turnover (P2.T11),,74-46,74,46
+0021900843,2020-02-23,TOR,IND,29.75,3,6,15,TOR,IND,steal,2,False,True,steal,steal,74-46,74,46
+0021900843,2020-02-23,TOR,IND,29.82,3,6,11,IND,IND,fg_miss,41,True,False,,MISS Brogdon 1' Running Layup,74-46,74,46
+0021900843,2020-02-23,TOR,IND,29.82,3,6,11,IND,TOR,block,41,True,False,block,block,74-46,74,46
+0021900843,2020-02-23,TOR,IND,29.82,3,6,11,IND,IND,reb,0,False,False,,Warren REBOUND (Off:2 Def:2),74-46,74,46
+0021900843,2020-02-23,TOR,IND,29.82,3,6,11,IND,IND,fg_make,72,False,False,,Warren 1' Putback Layup (5 PTS),74-48,74,48
+0021900843,2020-02-23,TOR,IND,29.82,3,6,11,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 2 Short 0),,74-48,74,48
+0021900843,2020-02-23,TOR,IND,30.12,3,5,53,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 26' 3PT Jump Shot,,74-48,74,48
+0021900843,2020-02-23,TOR,IND,30.17,3,5,50,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:1 Def:5),,74-48,74,48
+0021900843,2020-02-23,TOR,IND,30.27,3,5,44,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 24' 3PT Jump Shot,,74-48,74,48
+0021900843,2020-02-23,TOR,IND,30.33,3,5,40,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:5),74-48,74,48
+0021900843,2020-02-23,TOR,IND,30.7,3,5,18,IND,IND,fg3_miss,1,False,False,,MISS Turner 27' 3PT Jump Shot,74-48,74,48
+0021900843,2020-02-23,TOR,IND,30.75,3,5,15,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:2),,74-48,74,48
+0021900843,2020-02-23,TOR,IND,31.03,3,4,58,TOR,TOR,fg_make,78,False,False,VanVleet 6' Floating Jump Shot (8 PTS) (Lowry 7 AST),,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.3,3,4,42,IND,IND,fg_miss,3,False,False,,MISS Sabonis 4' Hook Shot,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.3,3,4,42,IND,IND,reb,0,False,False,,Pacers Rebound,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.3,3,4,42,IND,TOR,foul,3,False,False,Ibaka L.B.FOUL (P2.T3) (S.Twardoski),,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.48,3,4,31,IND,IND,fg3_miss,79,False,False,,MISS Brogdon 30' 3PT Pullup Jump Shot,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.53,3,4,28,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:3),,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.57,3,4,26,TOR,IND,foul,1,False,False,,Brogdon P.FOUL (P2.T2) (Z.Zarba),76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.73,3,4,16,TOR,TOR,tov,1,False,True,VanVleet Bad Pass Turnover (P1.T12),,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.73,3,4,16,TOR,IND,steal,1,False,True,steal,steal,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.82,3,4,11,IND,TOR,foul,1,False,False,VanVleet P.FOUL (P4.T4) (S.Twardoski),,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.92,3,4,5,IND,IND,fg_miss,75,True,False,,MISS Sampson 4' Driving Finger Roll Layup,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.92,3,4,5,IND,TOR,block,75,True,False,block,block,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.92,3,4,5,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,76-48,76,48
+0021900843,2020-02-23,TOR,IND,31.92,3,4,5,TOR,IND,foul,3,False,False,,Sampson L.B.FOUL (P1.T3) (M.Ayotte),76-48,76,48
+0021900843,2020-02-23,TOR,IND,32.08,3,3,55,TOR,TOR,fg3_miss,1,False,False,MISS Davis 28' 3PT Jump Shot,,76-48,76,48
+0021900843,2020-02-23,TOR,IND,32.17,3,3,50,IND,IND,reb,0,False,False,,Warren REBOUND (Off:2 Def:3),76-48,76,48
+0021900843,2020-02-23,TOR,IND,32.38,3,3,37,IND,IND,fg_miss,79,True,False,,MISS Warren 7' Pullup Jump Shot,76-48,76,48
+0021900843,2020-02-23,TOR,IND,32.38,3,3,37,IND,TOR,block,79,True,False,block,block,76-48,76,48
+0021900843,2020-02-23,TOR,IND,32.42,3,3,35,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,76-48,76,48
+0021900843,2020-02-23,TOR,IND,32.45,3,3,33,TOR,IND,foul,2,False,False,,Sampson S.FOUL (P2.T4) (S.Twardoski),78-48,78,48
+0021900843,2020-02-23,TOR,IND,32.45,3,3,33,TOR,TOR,timeout,7,False,False,RAPTORS Timeout: Coach Challenge (Full 2 Short 0),,78-48,78,48
+0021900843,2020-02-23,TOR,IND,32.45,3,3,33,TOR,TOR,ft_make,10,False,False,Siakam Free Throw 1 of 1 (19 PTS),,79-48,79,48
+0021900843,2020-02-23,TOR,IND,32.45,3,3,33,TOR,TOR,fg_make,101,False,False,Siakam 3' Driving Floating Jump Shot (18 PTS),,78-48,78,48
+0021900843,2020-02-23,TOR,IND,32.68,3,3,19,IND,IND,fg3_miss,1,False,False,,MISS Sampson 27' 3PT Jump Shot,79-48,79,48
+0021900843,2020-02-23,TOR,IND,32.77,3,3,14,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:3),,79-48,79,48
+0021900843,2020-02-23,TOR,IND,32.97,3,3,2,TOR,TOR,tov,39,False,False,Davis Step Out of Bounds Turnover (P1.T13),,79-48,79,48
+0021900843,2020-02-23,TOR,IND,33.22,3,2,47,IND,IND,fg_make,47,False,False,,Turner 4' Turnaround Jump Shot (6 PTS),79-50,79,50
+0021900843,2020-02-23,TOR,IND,33.22,3,2,47,IND,TOR,foul,2,False,False,Siakam S.FOUL (P2.PN) (Z.Zarba),,79-50,79,50
+0021900843,2020-02-23,TOR,IND,33.22,3,2,47,IND,IND,ft_make,10,False,False,,Turner Free Throw 1 of 1 (7 PTS),79-51,79,51
+0021900843,2020-02-23,TOR,IND,33.62,3,2,23,TOR,TOR,fg_miss,5,False,False,MISS Lowry 2' Layup,,79-51,79,51
+0021900843,2020-02-23,TOR,IND,33.62,3,2,23,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:0 Def:1),79-51,79,51
+0021900843,2020-02-23,TOR,IND,33.75,3,2,15,IND,IND,tov,1,False,True,,Warren Bad Pass Turnover (P3.T15),79-51,79,51
+0021900843,2020-02-23,TOR,IND,33.75,3,2,15,IND,TOR,steal,1,False,True,steal,steal,79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.15,3,1,51,TOR,TOR,tov,1,False,True,Siakam Bad Pass Turnover (P3.T14),,79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.15,3,1,51,TOR,IND,steal,1,False,True,steal,steal,79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.22,3,1,47,IND,IND,fg_miss,41,True,False,,MISS Brogdon 2' Running Layup,79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.22,3,1,47,IND,TOR,block,41,True,False,block,block,79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.27,3,1,44,IND,IND,reb,0,False,False,,Warren REBOUND (Off:3 Def:3),79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.47,3,1,32,IND,IND,fg3_miss,1,False,False,,MISS Warren 29' 3PT Jump Shot,79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.52,3,1,29,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:4),,79-51,79,51
+0021900843,2020-02-23,TOR,IND,34.8,3,1,12,TOR,TOR,fg_make,75,False,False,Siakam 2' Driving Finger Roll Layup (21 PTS) (Lowry 8 AST),,81-51,81,51
+0021900843,2020-02-23,TOR,IND,35.22,3,0,47,IND,IND,fg_make,101,False,False,,Warren 9' Driving Floating Jump Shot (7 PTS) (Holiday 1 AST),81-53,81,53
+0021900843,2020-02-23,TOR,IND,35.48,3,0,31,TOR,TOR,fg_make,5,False,False,Hollis-Jefferson 1' Layup (8 PTS),,83-53,83,53
+0021900843,2020-02-23,TOR,IND,35.87,3,0,8,IND,IND,fg3_miss,1,False,False,,MISS Turner 27' 3PT Jump Shot,83-53,83,53
+0021900843,2020-02-23,TOR,IND,35.92,3,0,5,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:5),,83-53,83,53
+0021900843,2020-02-23,TOR,IND,35.92,3,0,5,TOR,IND,foul,1,False,False,,Warren P.FOUL (P3.PN) (Z.Zarba),83-53,83,53
+0021900843,2020-02-23,TOR,IND,35.92,3,0,5,TOR,TOR,ft_make,11,False,False,Boucher Free Throw 1 of 2 (1 PTS),,84-53,84,53
+0021900843,2020-02-23,TOR,IND,35.92,3,0,5,TOR,TOR,ft_make,12,False,False,Boucher Free Throw 2 of 2 (2 PTS),,85-53,85,53
+0021900843,2020-02-23,TOR,IND,36.0,3,0,0,IND,IND,fg_make,75,False,False,,Brogdon 2' Driving Finger Roll Layup (9 PTS),85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.0,3,0,0,IND,TOR,foul,2,False,False,Lowry S.FOUL (P2.PN) (Z.Zarba),,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.0,3,0,0,IND,IND,ft_miss,10,False,False,,MISS Brogdon Free Throw 1 of 1,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.0,3,0,0,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:6),,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.0,3,0,0,TOR,,period_end,0,False,False,,,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.0,4,12,0,TOR,,period_start,0,False,False,,,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.28,4,11,43,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 27' 3PT Jump Shot,,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.33,4,11,40,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:3 Def:1),,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.35,4,11,39,TOR,TOR,tov,45,False,False,Hollis-Jefferson Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.55,4,11,27,IND,IND,tov,2,False,True,,McDermott Lost Ball Turnover (P2.T16),85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.55,4,11,27,IND,TOR,steal,2,False,True,steal,steal,85-55,85,55
+0021900843,2020-02-23,TOR,IND,36.6,4,11,24,TOR,TOR,fg_make,50,False,False,Boucher 1' Running Dunk (4 PTS) (Lowry 9 AST),,87-55,87,55
+0021900843,2020-02-23,TOR,IND,36.78,4,11,13,IND,TOR,foul,1,False,False,Thomas P.FOUL (P1.T1) (S.Twardoski),,87-55,87,55
+0021900843,2020-02-23,TOR,IND,36.93,4,11,4,IND,IND,fg_make,57,False,False,,Sabonis 4' Driving Hook Shot (9 PTS) (McDermott 2 AST),87-57,87,57
+0021900843,2020-02-23,TOR,IND,37.15,4,10,51,TOR,IND,foul,2,False,False,,Sampson S.FOUL (P3.T1) (S.Twardoski),87-57,87,57
+0021900843,2020-02-23,TOR,IND,37.15,4,10,51,TOR,TOR,ft_make,11,False,False,Boucher Free Throw 1 of 2 (5 PTS),,88-57,88,57
+0021900843,2020-02-23,TOR,IND,37.15,4,10,51,TOR,TOR,ft_make,12,False,False,Boucher Free Throw 2 of 2 (6 PTS),,89-57,89,57
+0021900843,2020-02-23,TOR,IND,37.35,4,10,39,IND,IND,fg_miss,98,False,False,,MISS Sabonis 2' Cutting Layup Shot,89-57,89,57
+0021900843,2020-02-23,TOR,IND,37.38,4,10,37,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:7),,89-57,89,57
+0021900843,2020-02-23,TOR,IND,37.48,4,10,31,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 24' 3PT Jump Shot,,89-57,89,57
+0021900843,2020-02-23,TOR,IND,37.55,4,10,27,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:2 Def:5),,89-57,89,57
+0021900843,2020-02-23,TOR,IND,37.57,4,10,26,TOR,TOR,fg3_make,1,False,False,Thomas 26' 3PT Jump Shot (3 PTS) (Lowry 10 AST),,92-57,92,57
+0021900843,2020-02-23,TOR,IND,37.78,4,10,13,IND,IND,fg3_miss,1,False,False,,MISS McDermott 27' 3PT Jump Shot,92-57,92,57
+0021900843,2020-02-23,TOR,IND,37.83,4,10,10,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:8),,92-57,92,57
+0021900843,2020-02-23,TOR,IND,37.93,4,10,4,TOR,TOR,fg3_make,1,False,False,Boucher 27' 3PT Jump Shot (9 PTS) (Hollis-Jefferson 3 AST),,95-57,95,57
+0021900843,2020-02-23,TOR,IND,38.25,4,9,45,IND,IND,fg3_make,1,False,False,,Holiday 28' 3PT Jump Shot (12 PTS) (Holiday 2 AST),95-60,95,60
+0021900843,2020-02-23,TOR,IND,38.5,4,9,30,TOR,TOR,fg3_make,1,False,False,Davis 27' 3PT Jump Shot (11 PTS) (Lowry 11 AST),,98-60,98,60
+0021900843,2020-02-23,TOR,IND,38.52,4,9,29,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.5 Short 0),98-60,98,60
+0021900843,2020-02-23,TOR,IND,38.82,4,9,11,IND,IND,fg3_miss,1,False,False,,MISS Bitadze 27' 3PT Jump Shot,98-60,98,60
+0021900843,2020-02-23,TOR,IND,38.87,4,9,8,TOR,TOR,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,98-60,98,60
+0021900843,2020-02-23,TOR,IND,38.95,4,9,3,TOR,TOR,fg3_miss,1,False,False,MISS Thomas 24' 3PT Jump Shot,,98-60,98,60
+0021900843,2020-02-23,TOR,IND,38.98,4,9,1,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:6),98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.07,4,8,56,IND,IND,fg3_miss,1,False,False,,MISS McDermott 3PT Jump Shot,98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.13,4,8,52,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:1 Def:3),98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.18,4,8,49,IND,IND,fg_miss,79,False,False,,MISS Holiday 18' Pullup Jump Shot,98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.2,4,8,48,IND,IND,reb,0,False,False,,Pacers Rebound,98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.2,4,8,48,IND,TOR,foul,3,False,False,Johnson L.B.FOUL (P1.T2) (S.Twardoski),,98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.33,4,8,40,IND,IND,fg3_miss,1,False,False,,MISS McDermott 26' 3PT Jump Shot,98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.38,4,8,37,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:0 Def:4),,98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.43,4,8,34,TOR,IND,foul,1,False,False,,Holiday P.FOUL (P1.T2) (S.Twardoski),98-60,98,60
+0021900843,2020-02-23,TOR,IND,39.68,4,8,19,TOR,TOR,fg_make,75,False,False,Hollis-Jefferson 4' Driving Finger Roll Layup (10 PTS),,100-60,100,60
+0021900843,2020-02-23,TOR,IND,39.87,4,8,8,IND,IND,fg_miss,73,False,False,,MISS Sabonis 1' Driving Reverse Layup,100-60,100,60
+0021900843,2020-02-23,TOR,IND,39.95,4,8,3,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:6),100-60,100,60
+0021900843,2020-02-23,TOR,IND,39.95,4,8,3,IND,IND,fg_miss,72,True,False,,MISS Sabonis 1' Putback Layup,100-60,100,60
+0021900843,2020-02-23,TOR,IND,39.95,4,8,3,IND,TOR,block,72,True,False,block,block,100-60,100,60
+0021900843,2020-02-23,TOR,IND,39.98,4,8,1,TOR,TOR,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,100-60,100,60
+0021900843,2020-02-23,TOR,IND,40.02,4,7,59,TOR,TOR,fg3_miss,1,False,False,MISS Boucher 28' 3PT Jump Shot,,100-60,100,60
+0021900843,2020-02-23,TOR,IND,40.07,4,7,56,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:7),100-60,100,60
+0021900843,2020-02-23,TOR,IND,40.15,4,7,51,IND,IND,fg_make,98,False,False,,Sabonis 1' Cutting Layup Shot (11 PTS) (Holiday 3 AST),100-62,100,62
+0021900843,2020-02-23,TOR,IND,40.15,4,7,51,IND,TOR,foul,2,False,False,Boucher S.FOUL (P2.T3) (S.Twardoski),,100-62,100,62
+0021900843,2020-02-23,TOR,IND,40.15,4,7,51,IND,IND,ft_make,10,False,False,,Sabonis Free Throw 1 of 1 (12 PTS),100-63,100,63
+0021900843,2020-02-23,TOR,IND,40.35,4,7,39,TOR,TOR,fg3_miss,1,False,False,MISS Thomas 28' 3PT Jump Shot,,100-63,100,63
+0021900843,2020-02-23,TOR,IND,40.38,4,7,37,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:8),100-63,100,63
+0021900843,2020-02-23,TOR,IND,40.5,4,7,30,IND,IND,fg_make,99,False,False,,Sabonis 1' Cutting Finger Roll Layup Shot (14 PTS) (Holiday 4 AST),100-65,100,65
+0021900843,2020-02-23,TOR,IND,40.73,4,7,16,TOR,TOR,fg3_miss,1,False,False,MISS Davis 26' 3PT Jump Shot,,100-65,100,65
+0021900843,2020-02-23,TOR,IND,40.78,4,7,13,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:1 Def:8),,100-65,100,65
+0021900843,2020-02-23,TOR,IND,40.78,4,7,13,TOR,TOR,fg_miss,97,False,False,MISS Boucher 1' Tip Layup Shot,,100-65,100,65
+0021900843,2020-02-23,TOR,IND,40.8,4,7,12,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:9),100-65,100,65
+0021900843,2020-02-23,TOR,IND,40.98,4,7,1,IND,IND,fg_miss,98,True,False,,MISS Sabonis 2' Cutting Layup Shot,100-65,100,65
+0021900843,2020-02-23,TOR,IND,40.98,4,7,1,IND,TOR,block,98,True,False,block,block,100-65,100,65
+0021900843,2020-02-23,TOR,IND,41.03,4,6,58,TOR,TOR,reb,0,False,False,Johnson REBOUND (Off:0 Def:3),,100-65,100,65
+0021900843,2020-02-23,TOR,IND,41.03,4,6,58,TOR,IND,foul,2,False,False,,Holiday S.FOUL (P2.T3) (S.Twardoski),100-65,100,65
+0021900843,2020-02-23,TOR,IND,41.03,4,6,58,TOR,TOR,ft_make,11,False,False,Johnson Free Throw 1 of 2 (1 PTS),,101-65,101,65
+0021900843,2020-02-23,TOR,IND,41.03,4,6,58,TOR,TOR,ft_make,12,False,False,Johnson Free Throw 2 of 2 (2 PTS),,102-65,102,65
+0021900843,2020-02-23,TOR,IND,41.3,4,6,42,IND,IND,fg_make,93,False,False,,McDermott 6' Driving Bank Hook Shot (8 PTS) (Bitadze 1 AST),102-67,102,67
+0021900843,2020-02-23,TOR,IND,41.47,4,6,32,TOR,TOR,tov,1,False,True,Thomas Bad Pass Turnover (P1.T16),,102-67,102,67
+0021900843,2020-02-23,TOR,IND,41.47,4,6,32,TOR,IND,steal,1,False,True,steal,steal,102-67,102,67
+0021900843,2020-02-23,TOR,IND,41.55,4,6,27,IND,TOR,foul,2,False,False,Johnson S.FOUL (P2.T4) (M.Ayotte),,102-67,102,67
+0021900843,2020-02-23,TOR,IND,41.55,4,6,27,IND,IND,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (6 PTS),102-68,102,68
+0021900843,2020-02-23,TOR,IND,41.55,4,6,27,IND,IND,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (7 PTS),102-69,102,69
+0021900843,2020-02-23,TOR,IND,41.92,4,6,5,TOR,TOR,fg_make,75,False,False,Davis 1' Driving Finger Roll Layup (13 PTS),,104-69,104,69
+0021900843,2020-02-23,TOR,IND,42.13,4,5,52,IND,IND,fg_miss,58,True,False,,MISS Sabonis 5' Turnaround Hook Shot,104-69,104,69
+0021900843,2020-02-23,TOR,IND,42.13,4,5,52,IND,TOR,block,58,True,False,block,block,104-69,104,69
+0021900843,2020-02-23,TOR,IND,42.18,4,5,49,TOR,TOR,reb,0,False,False,Johnson REBOUND (Off:0 Def:4),,104-69,104,69
+0021900843,2020-02-23,TOR,IND,42.52,4,5,29,TOR,TOR,fg_make,80,False,False,Hollis-Jefferson 14' Step Back Jump Shot (12 PTS),,106-69,106,69
+0021900843,2020-02-23,TOR,IND,42.52,4,5,29,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.6 Short 0),106-69,106,69
+0021900843,2020-02-23,TOR,IND,42.73,4,5,16,IND,IND,fg_make,108,False,False,,Bitadze Cutting Dunk Shot (2 PTS) (Holiday 5 AST),106-71,106,71
+0021900843,2020-02-23,TOR,IND,42.95,4,5,3,TOR,TOR,fg3_make,1,False,False,Miller 24' 3PT Jump Shot (3 PTS) (Brissett 1 AST),,109-71,109,71
+0021900843,2020-02-23,TOR,IND,43.13,4,4,52,IND,IND,fg3_miss,80,False,False,,MISS Holiday 25' 3PT Step Back Jump Shot,109-71,109,71
+0021900843,2020-02-23,TOR,IND,43.23,4,4,46,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:1 Def:9),,109-71,109,71
+0021900843,2020-02-23,TOR,IND,43.38,4,4,37,TOR,TOR,fg_make,79,False,False,Thomas 22' Pullup Jump Shot (5 PTS),,111-71,111,71
+0021900843,2020-02-23,TOR,IND,43.6,4,4,24,IND,IND,tov,45,False,False,,Holiday Out of Bounds - Bad Pass Turnover Turnover (P4.T17),111-71,111,71
+0021900843,2020-02-23,TOR,IND,43.77,4,4,14,TOR,TOR,fg3_make,1,False,False,Thomas 30' 3PT Jump Shot (8 PTS) (Boucher 2 AST),,114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.05,4,3,57,IND,IND,fg_miss,58,False,False,,MISS Leaf 7' Turnaround Hook Shot,114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.08,4,3,55,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:1 Def:10),,114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.2,4,3,48,TOR,TOR,fg3_miss,1,False,False,MISS Miller 25' 3PT Jump Shot,,114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.27,4,3,44,IND,IND,reb,0,False,False,,Bitadze REBOUND (Off:0 Def:1),114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.4,4,3,36,IND,TOR,foul,1,False,False,Miller P.FOUL (P1.PN) (Z.Zarba),,114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.4,4,3,36,IND,IND,ft_miss,11,False,False,,MISS Leaf Free Throw 1 of 2,114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.4,4,3,36,IND,IND,reb,1,False,False,,Pacers Rebound,114-71,114,71
+0021900843,2020-02-23,TOR,IND,44.4,4,3,36,IND,IND,ft_make,12,False,False,,Leaf Free Throw 2 of 2 (1 PTS),114-72,114,72
+0021900843,2020-02-23,TOR,IND,44.6,4,3,24,TOR,TOR,fg_miss,101,True,False,MISS Johnson 2' Driving Floating Jump Shot,,114-72,114,72
+0021900843,2020-02-23,TOR,IND,44.6,4,3,24,TOR,IND,block,101,True,False,block,block,114-72,114,72
+0021900843,2020-02-23,TOR,IND,44.6,4,3,24,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,114-72,114,72
+0021900843,2020-02-23,TOR,IND,44.72,4,3,17,TOR,TOR,fg3_miss,79,False,False,MISS Johnson 28' 3PT Pullup Jump Shot,,114-72,114,72
+0021900843,2020-02-23,TOR,IND,44.78,4,3,13,IND,IND,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),114-72,114,72
+0021900843,2020-02-23,TOR,IND,45.08,4,2,55,IND,IND,fg_miss,98,True,False,,MISS Johnson 3' Cutting Layup Shot,114-72,114,72
+0021900843,2020-02-23,TOR,IND,45.08,4,2,55,IND,TOR,block,98,True,False,block,block,114-72,114,72
+0021900843,2020-02-23,TOR,IND,45.12,4,2,53,TOR,TOR,reb,0,False,False,Brissett REBOUND (Off:0 Def:1),,114-72,114,72
+0021900843,2020-02-23,TOR,IND,45.18,4,2,49,TOR,TOR,fg3_make,2,False,False,Thomas 24' 3PT Running Jump Shot (11 PTS) (Brissett 2 AST),,117-72,117,72
+0021900843,2020-02-23,TOR,IND,45.48,4,2,31,IND,IND,fg_make,75,False,False,,Holiday 1' Driving Finger Roll Layup (9 PTS) (McDermott 3 AST),117-74,117,74
+0021900843,2020-02-23,TOR,IND,45.68,4,2,19,TOR,TOR,fg_miss,6,True,False,MISS Brissett 5' Driving Layup,,117-74,117,74
+0021900843,2020-02-23,TOR,IND,45.68,4,2,19,TOR,IND,block,6,True,False,block,block,117-74,117,74
+0021900843,2020-02-23,TOR,IND,45.68,4,2,19,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,117-74,117,74
+0021900843,2020-02-23,TOR,IND,45.72,4,2,17,TOR,TOR,fg3_make,1,False,False,Thomas 25' 3PT Jump Shot (14 PTS) (Johnson 1 AST),,120-74,120,74
+0021900843,2020-02-23,TOR,IND,45.9,4,2,6,IND,IND,fg_make,9,False,False,,Holiday 2' Driving Dunk (11 PTS),120-76,120,76
+0021900843,2020-02-23,TOR,IND,46.05,4,1,57,TOR,IND,foul,2,False,False,,Leaf S.FOUL (P1.T4) (M.Ayotte),120-76,120,76
+0021900843,2020-02-23,TOR,IND,46.05,4,1,57,TOR,TOR,ft_make,11,False,False,Brissett Free Throw 1 of 2 (1 PTS),,121-76,121,76
+0021900843,2020-02-23,TOR,IND,46.05,4,1,57,TOR,TOR,ft_make,12,False,False,Brissett Free Throw 2 of 2 (2 PTS),,122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.35,4,1,39,IND,IND,fg_miss,58,False,False,,MISS Bitadze 11' Turnaround Hook Shot,122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.38,4,1,37,TOR,TOR,reb,0,False,False,Watson REBOUND (Off:0 Def:1),,122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.53,4,1,28,TOR,TOR,fg3_miss,1,False,False,MISS Watson 28' 3PT Jump Shot,,122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.58,4,1,25,IND,IND,reb,0,False,False,,Leaf REBOUND (Off:0 Def:1),122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.7,4,1,18,IND,IND,fg_miss,6,False,False,,MISS Holiday 2' Driving Layup,122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.75,4,1,15,IND,IND,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.77,4,1,14,IND,IND,tov,2,False,True,,Johnson Lost Ball Turnover (P1.T18),122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.77,4,1,14,IND,TOR,steal,2,False,True,steal,steal,122-76,122,76
+0021900843,2020-02-23,TOR,IND,46.83,4,1,10,TOR,TOR,fg_make,50,False,False,Brissett 1' Running Dunk (4 PTS) (Watson 1 AST),,124-76,124,76
+0021900843,2020-02-23,TOR,IND,47.12,4,0,53,IND,IND,fg_make,57,False,False,,Holiday 4' Driving Hook Shot (13 PTS),124-78,124,78
+0021900843,2020-02-23,TOR,IND,47.28,4,0,43,TOR,TOR,fg3_make,1,False,False,Thomas 27' 3PT Jump Shot (17 PTS) (Johnson 2 AST),,127-78,127,78
+0021900843,2020-02-23,TOR,IND,47.37,4,0,38,IND,IND,fg_make,5,False,False,,Bitadze 1' Layup (4 PTS) (Holiday 6 AST),127-80,127,80
+0021900843,2020-02-23,TOR,IND,47.58,4,0,25,TOR,TOR,tov,1,False,True,Thomas Bad Pass Turnover (P2.T17),,127-80,127,80
+0021900843,2020-02-23,TOR,IND,47.58,4,0,25,TOR,IND,steal,1,False,True,steal,steal,127-80,127,80
+0021900843,2020-02-23,TOR,IND,47.68,4,0,19,IND,TOR,foul,2,False,False,Thomas S.FOUL (P2.PN) (Z.Zarba),,127-80,127,80
+0021900843,2020-02-23,TOR,IND,47.68,4,0,19,IND,IND,ft_miss,11,False,False,,MISS Holiday Free Throw 1 of 2,127-80,127,80
+0021900843,2020-02-23,TOR,IND,47.68,4,0,19,IND,IND,reb,1,False,False,,Pacers Rebound,127-80,127,80
+0021900843,2020-02-23,TOR,IND,47.68,4,0,19,IND,IND,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (14 PTS),127-81,127,81
+0021900843,2020-02-23,TOR,IND,48.0,4,0,0,IND,,period_end,0,False,False,,,127-81,127,81

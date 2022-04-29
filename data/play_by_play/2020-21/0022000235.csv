@@ -1,0 +1,497 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000235,2021-05-05,MIL,WAS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000235,2021-05-05,MIL,WAS,0.0,1,12,0,,MIL,jump_ball,0,False,False,Jump Ball Lopez vs. Len: Tip to Gill,,0-0,0,0
+0022000235,2021-05-05,MIL,WAS,0.32,1,11,41,WAS,WAS,fg_miss,5,True,False,,MISS Len 1' Layup,0-0,0,0
+0022000235,2021-05-05,MIL,WAS,0.32,1,11,41,WAS,MIL,block,5,True,False,block,block,0-0,0,0
+0022000235,2021-05-05,MIL,WAS,0.33,1,11,40,WAS,WAS,reb,0,False,False,,Len REBOUND (Off:1 Def:0),0-0,0,0
+0022000235,2021-05-05,MIL,WAS,0.33,1,11,40,WAS,WAS,fg_miss,72,False,False,,MISS Len 3' Putback Layup,0-0,0,0
+0022000235,2021-05-05,MIL,WAS,0.37,1,11,38,MIL,MIL,reb,0,False,False,Tucker REBOUND (Off:0 Def:1),,0-0,0,0
+0022000235,2021-05-05,MIL,WAS,0.53,1,11,28,MIL,MIL,fg3_make,1,False,False,Lopez 3PT Jump Shot (3 PTS) (Antetokounmpo 1 AST),,3-0,3,0
+0022000235,2021-05-05,MIL,WAS,0.8,1,11,12,WAS,WAS,fg_miss,6,False,False,,MISS Beal 2' Driving Layup,3-0,3,0
+0022000235,2021-05-05,MIL,WAS,0.87,1,11,8,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:1),,3-0,3,0
+0022000235,2021-05-05,MIL,WAS,0.93,1,11,4,MIL,MIL,fg_make,98,False,False,Antetokounmpo 2' Cutting Layup Shot (2 PTS) (DiVincenzo 1 AST),,5-0,5,0
+0022000235,2021-05-05,MIL,WAS,1.23,1,10,46,WAS,WAS,fg_make,79,False,False,,Westbrook 19' Pullup Jump Shot (2 PTS),5-2,5,2
+0022000235,2021-05-05,MIL,WAS,1.57,1,10,26,,MIL,jump_ball,0,False,False,Jump Ball Tucker vs. Beal: Tip to Westbrook,,5-2,5,2
+0022000235,2021-05-05,MIL,WAS,1.57,1,10,26,MIL,MIL,tov,2,False,True,Tucker Lost Ball Turnover (P1.T1),,5-2,5,2
+0022000235,2021-05-05,MIL,WAS,1.57,1,10,26,MIL,WAS,steal,2,False,True,steal,steal,5-2,5,2
+0022000235,2021-05-05,MIL,WAS,1.73,1,10,16,WAS,WAS,fg_make,47,False,False,,Beal 6' Turnaround Jump Shot (2 PTS),5-4,5,4
+0022000235,2021-05-05,MIL,WAS,1.92,1,10,5,MIL,MIL,fg3_make,1,False,False,Holiday 27' 3PT Jump Shot (3 PTS) (Lopez 1 AST),,8-4,8,4
+0022000235,2021-05-05,MIL,WAS,2.28,1,9,43,WAS,WAS,fg_miss,98,False,False,,MISS Gill 3' Cutting Layup Shot,8-4,8,4
+0022000235,2021-05-05,MIL,WAS,2.35,1,9,39,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,8-4,8,4
+0022000235,2021-05-05,MIL,WAS,2.37,1,9,38,MIL,MIL,fg_miss,41,False,False,MISS Holiday 2' Running Layup,,8-4,8,4
+0022000235,2021-05-05,MIL,WAS,2.42,1,9,35,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:1),8-4,8,4
+0022000235,2021-05-05,MIL,WAS,2.5,1,9,30,WAS,WAS,fg_miss,79,False,False,,MISS Neto 14' Pullup Jump Shot,8-4,8,4
+0022000235,2021-05-05,MIL,WAS,2.55,1,9,27,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:1 Def:0),8-4,8,4
+0022000235,2021-05-05,MIL,WAS,2.7,1,9,18,WAS,WAS,fg_make,63,False,False,,Beal 10' Fadeaway Jumper (4 PTS),8-6,8,6
+0022000235,2021-05-05,MIL,WAS,2.9,1,9,6,MIL,MIL,fg_miss,6,True,False,MISS Holiday 5' Driving Layup,,8-6,8,6
+0022000235,2021-05-05,MIL,WAS,2.9,1,9,6,MIL,WAS,block,6,True,False,block,block,8-6,8,6
+0022000235,2021-05-05,MIL,WAS,2.93,1,9,4,WAS,WAS,reb,0,False,False,,Len REBOUND (Off:1 Def:1),8-6,8,6
+0022000235,2021-05-05,MIL,WAS,3.02,1,8,59,WAS,WAS,fg_miss,41,False,False,,MISS Beal 3' Running Layup,8-6,8,6
+0022000235,2021-05-05,MIL,WAS,3.08,1,8,55,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:1),,8-6,8,6
+0022000235,2021-05-05,MIL,WAS,3.1,1,8,54,MIL,MIL,tov,40,False,False,Holiday Out of Bounds Lost Ball Turnover (P1.T2),,8-6,8,6
+0022000235,2021-05-05,MIL,WAS,3.37,1,8,38,WAS,MIL,foul,2,False,False,Tucker S.FOUL (P1.T1) (E.Scott),,8-6,8,6
+0022000235,2021-05-05,MIL,WAS,3.37,1,8,38,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (5 PTS),8-7,8,7
+0022000235,2021-05-05,MIL,WAS,3.37,1,8,38,WAS,WAS,ft_miss,12,False,False,,MISS Beal Free Throw 2 of 2,8-7,8,7
+0022000235,2021-05-05,MIL,WAS,3.38,1,8,37,WAS,WAS,reb,0,False,False,,Wizards Rebound,8-7,8,7
+0022000235,2021-05-05,MIL,WAS,3.53,1,8,28,WAS,WAS,fg3_make,1,False,False,,Gill 25' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),8-10,8,10
+0022000235,2021-05-05,MIL,WAS,3.77,1,8,14,WAS,MIL,foul,4,False,False,Antetokounmpo OFF.Foul (P1) (T.Brothers),,8-10,8,10
+0022000235,2021-05-05,MIL,WAS,3.77,1,8,14,MIL,MIL,tov,37,False,False,Antetokounmpo Offensive Foul Turnover (P1.T3),,8-10,8,10
+0022000235,2021-05-05,MIL,WAS,3.95,1,8,3,WAS,WAS,fg_make,6,False,False,,Neto 2' Driving Layup (2 PTS) (Westbrook 2 AST),8-12,8,12
+0022000235,2021-05-05,MIL,WAS,4.13,1,7,52,MIL,WAS,foul,1,False,False,,Gill P.FOUL (P1.T1) (D.Taylor),8-12,8,12
+0022000235,2021-05-05,MIL,WAS,4.28,1,7,43,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 26' 3PT Jump Shot,,8-12,8,12
+0022000235,2021-05-05,MIL,WAS,4.35,1,7,39,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:2),8-12,8,12
+0022000235,2021-05-05,MIL,WAS,4.53,1,7,28,WAS,WAS,fg_make,79,False,False,,Beal 17' Pullup Jump Shot (7 PTS),8-14,8,14
+0022000235,2021-05-05,MIL,WAS,4.63,1,7,22,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,8-14,8,14
+0022000235,2021-05-05,MIL,WAS,4.77,1,7,14,MIL,MIL,fg_make,79,False,False,Forbes 15' Pullup Jump Shot (2 PTS) (DiVincenzo 2 AST),,10-14,10,14
+0022000235,2021-05-05,MIL,WAS,5.05,1,6,57,WAS,WAS,fg_make,78,False,False,,Gill 7' Floating Jump Shot (5 PTS) (Westbrook 3 AST),10-16,10,16
+0022000235,2021-05-05,MIL,WAS,5.37,1,6,38,MIL,MIL,fg_miss,86,False,False,MISS Antetokounmpo 10' Turnaround Fadeaway Shot,,10-16,10,16
+0022000235,2021-05-05,MIL,WAS,5.42,1,6,35,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:3),10-16,10,16
+0022000235,2021-05-05,MIL,WAS,5.5,1,6,30,WAS,WAS,fg3_make,2,False,False,,Neto 3PT Running Jump Shot (5 PTS) (Westbrook 4 AST),10-19,10,19
+0022000235,2021-05-05,MIL,WAS,5.82,1,6,11,MIL,MIL,fg3_make,1,False,False,DiVincenzo 3PT Jump Shot (3 PTS) (Forbes 1 AST),,13-19,13,19
+0022000235,2021-05-05,MIL,WAS,6.03,1,5,58,WAS,WAS,fg_make,102,False,False,,Gill 6' Driving Floating Bank Jump Shot (7 PTS) (Beal 1 AST),13-21,13,21
+0022000235,2021-05-05,MIL,WAS,6.5,1,5,30,MIL,MIL,fg3_miss,1,False,False,MISS Tucker 24' 3PT Jump Shot,,13-21,13,21
+0022000235,2021-05-05,MIL,WAS,6.6,1,5,24,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:1),,13-21,13,21
+0022000235,2021-05-05,MIL,WAS,6.6,1,5,24,MIL,MIL,fg_make,72,False,False,DiVincenzo Putback Layup (5 PTS),,15-21,15,21
+0022000235,2021-05-05,MIL,WAS,6.73,1,5,16,WAS,WAS,fg_make,79,False,False,,Beal 9' Pullup Jump Shot (9 PTS) (Westbrook 5 AST),15-23,15,23
+0022000235,2021-05-05,MIL,WAS,6.73,1,5,16,WAS,MIL,foul,2,False,False,DiVincenzo S.FOUL (P1.T2) (D.Taylor),,15-23,15,23
+0022000235,2021-05-05,MIL,WAS,6.73,1,5,16,WAS,WAS,ft_make,10,False,False,,Beal Free Throw 1 of 1 (10 PTS),15-24,15,24
+0022000235,2021-05-05,MIL,WAS,6.98,1,5,1,MIL,MIL,fg3_miss,1,False,False,MISS Forbes 26' 3PT Jump Shot,,15-24,15,24
+0022000235,2021-05-05,MIL,WAS,7.05,1,4,57,WAS,WAS,reb,0,False,False,,Len REBOUND (Off:1 Def:2),15-24,15,24
+0022000235,2021-05-05,MIL,WAS,7.07,1,4,56,WAS,MIL,foul,1,False,False,Forbes P.FOUL (P1.T3) (E.Scott),,15-24,15,24
+0022000235,2021-05-05,MIL,WAS,7.17,1,4,50,WAS,WAS,fg3_miss,79,False,False,,MISS Beal 27' 3PT Pullup Jump Shot,15-24,15,24
+0022000235,2021-05-05,MIL,WAS,7.22,1,4,47,MIL,MIL,reb,0,False,False,Forbes REBOUND (Off:0 Def:1),,15-24,15,24
+0022000235,2021-05-05,MIL,WAS,7.42,1,4,35,MIL,MIL,fg3_make,1,False,False,DiVincenzo 26' 3PT Jump Shot (8 PTS) (Connaughton 1 AST),,18-24,18,24
+0022000235,2021-05-05,MIL,WAS,7.62,1,4,23,WAS,WAS,fg_make,52,False,False,,Len 1' Alley Oop Dunk (2 PTS) (Beal 2 AST),18-26,18,26
+0022000235,2021-05-05,MIL,WAS,7.82,1,4,11,MIL,WAS,foul,2,False,False,,Neto S.FOUL (P1.T2) (E.Scott),18-26,18,26
+0022000235,2021-05-05,MIL,WAS,7.82,1,4,11,MIL,MIL,ft_make,13,False,False,DiVincenzo Free Throw 1 of 3 (9 PTS),,19-26,19,26
+0022000235,2021-05-05,MIL,WAS,7.82,1,4,11,MIL,MIL,ft_make,14,False,False,DiVincenzo Free Throw 2 of 3 (10 PTS),,20-26,20,26
+0022000235,2021-05-05,MIL,WAS,7.82,1,4,11,MIL,MIL,ft_miss,15,False,False,MISS DiVincenzo Free Throw 3 of 3,,20-26,20,26
+0022000235,2021-05-05,MIL,WAS,7.85,1,4,9,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:1),20-26,20,26
+0022000235,2021-05-05,MIL,WAS,8.05,1,3,57,WAS,MIL,foul,2,False,False,Connaughton S.FOUL (P1.T4) (D.Taylor),,20-26,20,26
+0022000235,2021-05-05,MIL,WAS,8.05,1,3,57,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (11 PTS),20-27,20,27
+0022000235,2021-05-05,MIL,WAS,8.05,1,3,57,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (12 PTS),20-28,20,28
+0022000235,2021-05-05,MIL,WAS,8.28,1,3,43,MIL,MIL,fg_make,78,False,False,Portis 11' Floating Jump Shot (2 PTS) (Holiday 1 AST),,22-28,22,28
+0022000235,2021-05-05,MIL,WAS,8.48,1,3,31,WAS,WAS,fg_make,108,False,False,,Bertans 1' Cutting Dunk Shot (2 PTS) (Smith 1 AST),22-30,22,30
+0022000235,2021-05-05,MIL,WAS,8.72,1,3,17,MIL,MIL,fg3_miss,1,False,False,MISS Forbes 3PT Jump Shot,,22-30,22,30
+0022000235,2021-05-05,MIL,WAS,8.78,1,3,13,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:2),22-30,22,30
+0022000235,2021-05-05,MIL,WAS,8.78,1,3,13,WAS,MIL,foul,1,False,False,Antetokounmpo P.FOUL (P1.PN) (T.Brothers),,22-30,22,30
+0022000235,2021-05-05,MIL,WAS,8.78,1,3,13,WAS,WAS,ft_make,11,False,False,,Bertans Free Throw 1 of 2 (3 PTS),22-31,22,31
+0022000235,2021-05-05,MIL,WAS,8.78,1,3,13,WAS,WAS,ft_miss,12,False,False,,MISS Bertans Free Throw 2 of 2,22-31,22,31
+0022000235,2021-05-05,MIL,WAS,8.83,1,3,10,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:0 Def:1),,22-31,22,31
+0022000235,2021-05-05,MIL,WAS,9.03,1,2,58,MIL,MIL,fg3_miss,1,False,False,MISS Portis 25' 3PT Jump Shot,,22-31,22,31
+0022000235,2021-05-05,MIL,WAS,9.03,1,2,58,MIL,MIL,reb,0,False,False,BUCKS Rebound,,22-31,22,31
+0022000235,2021-05-05,MIL,WAS,9.03,1,2,58,MIL,WAS,foul,3,False,False,,Neto L.B.FOUL (P2.T3) (T.Brothers),22-31,22,31
+0022000235,2021-05-05,MIL,WAS,9.03,1,2,58,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),22-31,22,31
+0022000235,2021-05-05,MIL,WAS,9.18,1,2,49,MIL,MIL,fg_make,6,False,False,Holiday 2' Driving Layup (5 PTS) (Antetokounmpo 1 AST),,24-31,24,31
+0022000235,2021-05-05,MIL,WAS,9.4,1,2,36,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 25' 3PT Jump Shot,24-31,24,31
+0022000235,2021-05-05,MIL,WAS,9.45,1,2,33,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:1),,24-31,24,31
+0022000235,2021-05-05,MIL,WAS,9.53,1,2,28,MIL,MIL,fg_make,79,False,False,Forbes 22' Pullup Jump Shot (4 PTS) (Holiday 2 AST),,26-31,26,31
+0022000235,2021-05-05,MIL,WAS,9.78,1,2,13,WAS,WAS,fg_make,79,False,False,,Westbrook 14' Pullup Jump Shot (4 PTS),26-33,26,33
+0022000235,2021-05-05,MIL,WAS,9.93,1,2,4,MIL,MIL,fg_miss,1,False,False,MISS Forbes 22' Jump Shot,,26-33,26,33
+0022000235,2021-05-05,MIL,WAS,9.98,1,2,1,WAS,WAS,reb,0,False,False,,Hutchison REBOUND (Off:0 Def:1),26-33,26,33
+0022000235,2021-05-05,MIL,WAS,10.13,1,1,52,WAS,WAS,fg_make,57,False,False,,Lopez 9' Driving Hook Shot (2 PTS),26-35,26,35
+0022000235,2021-05-05,MIL,WAS,10.4,1,1,36,MIL,MIL,fg_miss,108,True,False,MISS Antetokounmpo 1' Cutting Dunk Shot,,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,10.4,1,1,36,MIL,WAS,block,108,True,False,block,block,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,10.5,1,1,30,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:1),,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,10.5,1,1,30,MIL,MIL,tov,45,False,False,Connaughton Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,10.85,1,1,9,WAS,WAS,fg_miss,98,False,False,,MISS Hutchison 2' Cutting Layup Shot,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,10.92,1,1,5,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:0 Def:2),,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,11.0,1,1,0,MIL,WAS,foul,2,False,False,,Lopez S.FOUL (P1.T4) (E.Scott),26-35,26,35
+0022000235,2021-05-05,MIL,WAS,11.0,1,1,0,MIL,MIL,ft_miss,11,False,False,MISS Antetokounmpo Free Throw 1 of 2,,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,11.0,1,1,0,MIL,MIL,reb,1,False,False,BUCKS Rebound,,26-35,26,35
+0022000235,2021-05-05,MIL,WAS,11.0,1,1,0,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (1 PTS),,27-35,27,35
+0022000235,2021-05-05,MIL,WAS,11.15,1,0,51,WAS,WAS,fg_miss,79,False,False,,MISS Smith 20' Pullup Jump Shot,27-35,27,35
+0022000235,2021-05-05,MIL,WAS,11.22,1,0,47,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,27-35,27,35
+0022000235,2021-05-05,MIL,WAS,11.33,1,0,40,MIL,MIL,fg_miss,44,False,False,MISS Antetokounmpo 1' Reverse Layup,,27-35,27,35
+0022000235,2021-05-05,MIL,WAS,11.38,1,0,37,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:1 Def:2),,27-35,27,35
+0022000235,2021-05-05,MIL,WAS,11.4,1,0,36,MIL,MIL,fg_make,58,False,False,Portis 5' Turnaround Hook Shot (4 PTS),,29-35,29,35
+0022000235,2021-05-05,MIL,WAS,11.5,1,0,30,WAS,WAS,fg_make,79,False,False,,Westbrook 13' Pullup Jump Shot (6 PTS),29-37,29,37
+0022000235,2021-05-05,MIL,WAS,11.85,1,0,9,MIL,MIL,fg3_miss,1,False,False,MISS Portis 24' 3PT Jump Shot,,29-37,29,37
+0022000235,2021-05-05,MIL,WAS,11.9,1,0,6,MIL,MIL,reb,0,False,False,BUCKS Rebound,,29-37,29,37
+0022000235,2021-05-05,MIL,WAS,11.98,1,0,1,MIL,MIL,fg3_miss,1,False,False,MISS Holiday 24' 3PT Jump Shot,,29-37,29,37
+0022000235,2021-05-05,MIL,WAS,11.98,1,0,1,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),29-37,29,37
+0022000235,2021-05-05,MIL,WAS,12.0,1,0,0,WAS,,period_end,0,False,False,,,29-37,29,37
+0022000235,2021-05-05,MIL,WAS,12.0,2,12,0,WAS,,period_start,0,False,False,,,29-37,29,37
+0022000235,2021-05-05,MIL,WAS,12.22,2,11,47,WAS,MIL,foul,26,False,False,Holiday Offensive Charge Foul (P1.T1) (D.Taylor),,29-37,29,37
+0022000235,2021-05-05,MIL,WAS,12.22,2,11,47,MIL,MIL,tov,37,False,False,Holiday Offensive Foul Turnover (P2.T5),,29-37,29,37
+0022000235,2021-05-05,MIL,WAS,12.42,2,11,35,WAS,WAS,fg3_make,1,False,False,,Bertans 26' 3PT Jump Shot (6 PTS) (Westbrook 6 AST),29-40,29,40
+0022000235,2021-05-05,MIL,WAS,12.65,2,11,21,MIL,WAS,foul,1,False,False,,Gill P.FOUL (P2.T1) (D.Taylor),29-40,29,40
+0022000235,2021-05-05,MIL,WAS,12.75,2,11,15,MIL,WAS,foul,2,False,False,,Smith S.FOUL (P1.T2) (T.Brothers),29-40,29,40
+0022000235,2021-05-05,MIL,WAS,12.75,2,11,15,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (3 PTS),,30-40,30,40
+0022000235,2021-05-05,MIL,WAS,12.75,2,11,15,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (4 PTS),,31-40,31,40
+0022000235,2021-05-05,MIL,WAS,13.03,2,10,58,WAS,WAS,fg_make,105,False,False,,Lopez 6' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Westbrook 7 AST),31-42,31,42
+0022000235,2021-05-05,MIL,WAS,13.42,2,10,35,MIL,WAS,foul,2,False,False,,Gill S.FOUL (P3.T3) (D.Taylor),31-42,31,42
+0022000235,2021-05-05,MIL,WAS,13.42,2,10,35,MIL,MIL,ft_make,11,False,False,Teague Free Throw 1 of 2 (1 PTS),,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,13.42,2,10,35,MIL,MIL,ft_miss,12,False,False,MISS Teague Free Throw 2 of 2,,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,13.53,2,10,28,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:2 Def:2),,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,13.53,2,10,28,MIL,MIL,fg_miss,97,False,False,MISS Portis Tip Layup Shot,,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,13.55,2,10,27,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:4),32-42,32,42
+0022000235,2021-05-05,MIL,WAS,13.8,2,10,12,WAS,WAS,tov,2,False,True,,Lopez Lost Ball Turnover (P1.T1),32-42,32,42
+0022000235,2021-05-05,MIL,WAS,13.8,2,10,12,WAS,MIL,steal,2,False,True,steal,steal,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,13.98,2,10,1,MIL,MIL,fg3_miss,1,False,False,MISS Teague 24' 3PT Jump Shot,,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,14.03,2,9,58,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:5),32-42,32,42
+0022000235,2021-05-05,MIL,WAS,14.12,2,9,53,WAS,WAS,fg3_miss,2,False,False,,MISS Bertans 27' 3PT Running Jump Shot,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,14.17,2,9,50,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:1),,32-42,32,42
+0022000235,2021-05-05,MIL,WAS,14.32,2,9,41,MIL,MIL,fg3_make,1,False,False,Connaughton 27' 3PT Jump Shot (3 PTS) (Antetokounmpo 2 AST),,35-42,35,42
+0022000235,2021-05-05,MIL,WAS,14.52,2,9,29,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 3PT Jump Shot,35-42,35,42
+0022000235,2021-05-05,MIL,WAS,14.57,2,9,26,MIL,MIL,reb,0,False,False,Teague REBOUND (Off:0 Def:1),,35-42,35,42
+0022000235,2021-05-05,MIL,WAS,14.63,2,9,22,MIL,MIL,fg_make,50,False,False,Connaughton 1' Running Dunk (5 PTS) (Teague 1 AST),,37-42,37,42
+0022000235,2021-05-05,MIL,WAS,14.63,2,9,22,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.2 Short 0),37-42,37,42
+0022000235,2021-05-05,MIL,WAS,14.8,2,9,12,MIL,WAS,foul,4,False,False,,Lopez OFF.Foul (P2) (T.Brothers),37-42,37,42
+0022000235,2021-05-05,MIL,WAS,14.8,2,9,12,WAS,WAS,tov,37,False,False,,Lopez Offensive Foul Turnover (P2.T2),37-42,37,42
+0022000235,2021-05-05,MIL,WAS,15.08,2,8,55,MIL,MIL,fg_miss,6,False,False,MISS Portis 1' Driving Layup,,37-42,37,42
+0022000235,2021-05-05,MIL,WAS,15.15,2,8,51,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:6),37-42,37,42
+0022000235,2021-05-05,MIL,WAS,15.18,2,8,49,WAS,WAS,fg_make,74,False,False,,Beal 2' Running Reverse Layup (14 PTS) (Westbrook 8 AST),37-44,37,44
+0022000235,2021-05-05,MIL,WAS,15.18,2,8,49,WAS,MIL,foul,2,False,False,Tucker S.FOUL (P2.T2) (D.Taylor),,37-44,37,44
+0022000235,2021-05-05,MIL,WAS,15.18,2,8,49,WAS,WAS,ft_make,10,False,False,,Beal Free Throw 1 of 1 (15 PTS),37-45,37,45
+0022000235,2021-05-05,MIL,WAS,15.33,2,8,40,MIL,MIL,tov,2,False,True,Antetokounmpo Lost Ball Turnover (P2.T6),,37-45,37,45
+0022000235,2021-05-05,MIL,WAS,15.33,2,8,40,MIL,WAS,steal,2,False,True,steal,steal,37-45,37,45
+0022000235,2021-05-05,MIL,WAS,15.43,2,8,34,WAS,WAS,fg_make,2,False,False,,Bertans 21' Running Jump Shot (8 PTS) (Westbrook 9 AST),37-47,37,47
+0022000235,2021-05-05,MIL,WAS,15.75,2,8,15,MIL,MIL,fg3_make,1,False,False,Connaughton 27' 3PT Jump Shot (8 PTS) (Antetokounmpo 3 AST),,40-47,40,47
+0022000235,2021-05-05,MIL,WAS,16.05,2,7,57,WAS,WAS,fg_make,79,False,False,,Westbrook 18' Pullup Jump Shot (8 PTS),40-49,40,49
+0022000235,2021-05-05,MIL,WAS,16.38,2,7,37,MIL,MIL,fg3_make,1,False,False,DiVincenzo 25' 3PT Jump Shot (13 PTS) (Teague 2 AST),,43-49,43,49
+0022000235,2021-05-05,MIL,WAS,16.68,2,7,19,WAS,WAS,tov,2,False,True,,Beal Lost Ball Turnover (P1.T3),43-49,43,49
+0022000235,2021-05-05,MIL,WAS,16.68,2,7,19,WAS,MIL,steal,2,False,True,steal,steal,43-49,43,49
+0022000235,2021-05-05,MIL,WAS,16.88,2,7,7,MIL,MIL,fg3_make,1,False,False,Teague 25' 3PT Jump Shot (4 PTS) (Antetokounmpo 4 AST),,46-49,46,49
+0022000235,2021-05-05,MIL,WAS,17.12,2,6,53,WAS,WAS,fg_make,79,False,False,,Westbrook 18' Pullup Jump Shot (10 PTS),46-51,46,51
+0022000235,2021-05-05,MIL,WAS,17.38,2,6,37,MIL,MIL,fg3_make,1,False,False,DiVincenzo 26' 3PT Jump Shot (16 PTS) (Connaughton 2 AST),,49-51,49,51
+0022000235,2021-05-05,MIL,WAS,17.57,2,6,26,WAS,WAS,fg_make,108,False,False,,Gafford 1' Cutting Dunk Shot (2 PTS) (Westbrook 10 AST),49-53,49,53
+0022000235,2021-05-05,MIL,WAS,17.57,2,6,26,WAS,MIL,foul,2,False,False,Teague S.FOUL (P1.T3) (D.Taylor),,49-53,49,53
+0022000235,2021-05-05,MIL,WAS,17.57,2,6,26,WAS,WAS,ft_make,10,False,False,,Gafford Free Throw 1 of 1 (3 PTS),49-54,49,54
+0022000235,2021-05-05,MIL,WAS,17.87,2,6,8,MIL,MIL,fg_make,101,False,False,Teague 12' Driving Floating Jump Shot (6 PTS) (DiVincenzo 3 AST),,51-54,51,54
+0022000235,2021-05-05,MIL,WAS,17.87,2,6,8,MIL,WAS,foul,2,False,False,,Bonga S.FOUL (P1.T4) (T.Brothers),51-54,51,54
+0022000235,2021-05-05,MIL,WAS,17.87,2,6,8,MIL,MIL,ft_make,10,False,False,Teague Free Throw 1 of 1 (7 PTS),,52-54,52,54
+0022000235,2021-05-05,MIL,WAS,18.07,2,5,56,WAS,WAS,fg_make,98,False,False,,Gafford 1' Cutting Layup Shot (5 PTS) (Bonga 1 AST),52-56,52,56
+0022000235,2021-05-05,MIL,WAS,18.27,2,5,44,MIL,WAS,foul,2,False,False,,Beal S.FOUL (P1.PN) (E.Scott),52-56,52,56
+0022000235,2021-05-05,MIL,WAS,18.27,2,5,44,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (5 PTS),,53-56,53,56
+0022000235,2021-05-05,MIL,WAS,18.27,2,5,44,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (6 PTS),,54-56,54,56
+0022000235,2021-05-05,MIL,WAS,18.45,2,5,33,WAS,WAS,fg_make,6,False,False,,Beal 2' Driving Layup (17 PTS) (Gafford 1 AST),54-58,54,58
+0022000235,2021-05-05,MIL,WAS,18.45,2,5,33,WAS,MIL,foul,2,False,False,Lopez S.FOUL (P1.T4) (E.Scott),,54-58,54,58
+0022000235,2021-05-05,MIL,WAS,18.45,2,5,33,WAS,WAS,ft_make,10,False,False,,Beal Free Throw 1 of 1 (18 PTS),54-59,54,59
+0022000235,2021-05-05,MIL,WAS,18.77,2,5,14,MIL,MIL,fg_make,6,False,False,Antetokounmpo 1' Driving Layup (8 PTS),,56-59,56,59
+0022000235,2021-05-05,MIL,WAS,19.05,2,4,57,WAS,WAS,fg_miss,1,False,False,,MISS Westbrook 16' Jump Shot,56-59,56,59
+0022000235,2021-05-05,MIL,WAS,19.07,2,4,56,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:1 Def:0),56-59,56,59
+0022000235,2021-05-05,MIL,WAS,19.07,2,4,56,WAS,MIL,foul,2,False,False,Lopez S.FOUL (P2.PN) (E.Scott),,56-59,56,59
+0022000235,2021-05-05,MIL,WAS,19.07,2,4,56,WAS,WAS,ft_miss,11,False,False,,MISS Gafford Free Throw 1 of 2,56-59,56,59
+0022000235,2021-05-05,MIL,WAS,19.07,2,4,56,WAS,WAS,reb,1,False,False,,Wizards Rebound,56-59,56,59
+0022000235,2021-05-05,MIL,WAS,19.07,2,4,56,WAS,WAS,ft_make,12,False,False,,Gafford Free Throw 2 of 2 (6 PTS),56-60,56,60
+0022000235,2021-05-05,MIL,WAS,19.27,2,4,44,WAS,MIL,foul,26,False,False,DiVincenzo Offensive Charge Foul (P2.PN) (E.Scott),,56-60,56,60
+0022000235,2021-05-05,MIL,WAS,19.27,2,4,44,MIL,MIL,tov,37,False,False,DiVincenzo Offensive Foul Turnover (P1.T7),,56-60,56,60
+0022000235,2021-05-05,MIL,WAS,19.57,2,4,26,WAS,MIL,foul,2,False,False,DiVincenzo S.FOUL (P3.PN) (E.Scott),,56-60,56,60
+0022000235,2021-05-05,MIL,WAS,19.57,2,4,26,WAS,WAS,ft_make,11,False,False,,Neto Free Throw 1 of 2 (6 PTS),56-61,56,61
+0022000235,2021-05-05,MIL,WAS,19.57,2,4,26,WAS,WAS,ft_make,12,False,False,,Neto Free Throw 2 of 2 (7 PTS),56-62,56,62
+0022000235,2021-05-05,MIL,WAS,19.78,2,4,13,MIL,MIL,fg_make,101,False,False,Holiday 9' Driving Floating Jump Shot (7 PTS),,58-62,58,62
+0022000235,2021-05-05,MIL,WAS,19.78,2,4,13,MIL,WAS,foul,2,False,False,,Neto S.FOUL (P3.PN) (D.Taylor),58-62,58,62
+0022000235,2021-05-05,MIL,WAS,19.78,2,4,13,MIL,MIL,ft_miss,10,False,False,MISS Holiday Free Throw 1 of 1,,58-62,58,62
+0022000235,2021-05-05,MIL,WAS,19.83,2,4,10,MIL,MIL,reb,0,False,False,BUCKS Rebound,,58-62,58,62
+0022000235,2021-05-05,MIL,WAS,19.83,2,4,10,MIL,WAS,foul,3,False,False,,Bonga L.B.FOUL (P2.PN) (E.Scott),58-62,58,62
+0022000235,2021-05-05,MIL,WAS,19.83,2,4,10,MIL,MIL,ft_make,11,False,False,Holiday Free Throw 1 of 2 (8 PTS),,59-62,59,62
+0022000235,2021-05-05,MIL,WAS,19.83,2,4,10,MIL,MIL,ft_make,12,False,False,Holiday Free Throw 2 of 2 (9 PTS),,60-62,60,62
+0022000235,2021-05-05,MIL,WAS,20.15,2,3,51,WAS,WAS,fg_make,75,False,False,,Beal 3' Driving Finger Roll Layup (20 PTS),60-64,60,64
+0022000235,2021-05-05,MIL,WAS,20.33,2,3,40,MIL,MIL,fg3_make,79,False,False,Holiday 25' 3PT Pullup Jump Shot (12 PTS),,63-64,63,64
+0022000235,2021-05-05,MIL,WAS,20.53,2,3,28,WAS,WAS,fg3_make,1,False,False,,Bertans 26' 3PT Jump Shot (11 PTS) (Westbrook 11 AST),63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.82,2,3,11,MIL,MIL,fg_miss,5,True,False,MISS Holiday 6' Layup,,63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.82,2,3,11,MIL,WAS,block,5,True,False,block,block,63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.85,2,3,9,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:1 Def:1),63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.93,2,3,4,WAS,WAS,fg_miss,74,False,False,,MISS Bertans 4' Running Reverse Layup,63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.93,2,3,4,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:2 Def:1),63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.93,2,3,4,WAS,MIL,foul,2,False,False,Holiday S.FOUL (P2.PN) (T.Brothers),,63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.93,2,3,4,WAS,WAS,ft_miss,11,False,False,,MISS Gafford Free Throw 1 of 2,63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.93,2,3,4,WAS,WAS,reb,1,False,False,,Wizards Rebound,63-67,63,67
+0022000235,2021-05-05,MIL,WAS,20.93,2,3,4,WAS,WAS,ft_make,12,False,False,,Gafford Free Throw 2 of 2 (7 PTS),63-68,63,68
+0022000235,2021-05-05,MIL,WAS,21.0,2,3,0,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 2 Short 0),,63-68,63,68
+0022000235,2021-05-05,MIL,WAS,21.23,2,2,46,MIL,MIL,fg_miss,80,False,False,MISS Holiday 13' Step Back Jump Shot,,63-68,63,68
+0022000235,2021-05-05,MIL,WAS,21.3,2,2,42,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:3),63-68,63,68
+0022000235,2021-05-05,MIL,WAS,21.35,2,2,39,WAS,WAS,tov,40,False,False,,Bonga Out of Bounds Lost Ball Turnover (P1.T4),63-68,63,68
+0022000235,2021-05-05,MIL,WAS,21.58,2,2,25,MIL,MIL,fg_make,3,False,False,Lopez 6' Hook Shot (5 PTS),,65-68,65,68
+0022000235,2021-05-05,MIL,WAS,21.97,2,2,2,WAS,MIL,foul,2,False,False,Antetokounmpo S.FOUL (P2.PN) (D.Taylor),,65-68,65,68
+0022000235,2021-05-05,MIL,WAS,21.97,2,2,2,WAS,WAS,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (11 PTS),65-69,65,69
+0022000235,2021-05-05,MIL,WAS,21.97,2,2,2,WAS,WAS,ft_miss,12,False,False,,MISS Westbrook Free Throw 2 of 2,65-69,65,69
+0022000235,2021-05-05,MIL,WAS,22.02,2,1,59,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:2),,65-69,65,69
+0022000235,2021-05-05,MIL,WAS,22.15,2,1,51,MIL,WAS,foul,2,False,False,,Gafford S.FOUL (P1.PN) (E.Scott),65-69,65,69
+0022000235,2021-05-05,MIL,WAS,22.15,2,1,51,MIL,MIL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (6 PTS),,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.15,2,1,51,MIL,MIL,ft_miss,12,False,False,MISS Lopez Free Throw 2 of 2,,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.22,2,1,47,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:0 Def:1),66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.42,2,1,35,WAS,WAS,fg_miss,79,False,False,,MISS Smith 13' Pullup Jump Shot,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.5,2,1,30,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:2),,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.62,2,1,23,MIL,MIL,tov,45,False,False,Holiday Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.72,2,1,17,WAS,WAS,fg_miss,75,False,False,,MISS Westbrook 1' Driving Finger Roll Layup,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.77,2,1,14,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:3),,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.8,2,1,12,MIL,MIL,tov,2,False,True,Lopez Lost Ball Turnover (P1.T9),,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.8,2,1,12,MIL,WAS,steal,2,False,True,steal,steal,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,22.83,2,1,10,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.3 Short 0),66-69,66,69
+0022000235,2021-05-05,MIL,WAS,23.03,2,0,58,WAS,WAS,fg_miss,57,False,False,,MISS Len 7' Driving Hook Shot,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,23.08,2,0,55,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:3),,66-69,66,69
+0022000235,2021-05-05,MIL,WAS,23.27,2,0,44,MIL,MIL,fg3_make,79,False,False,Holiday 26' 3PT Pullup Jump Shot (15 PTS),,69-69,69,69
+0022000235,2021-05-05,MIL,WAS,23.27,2,0,44,WAS,MIL,violation,1,False,False,BUCKS Violation: Delay of game Violation,,69-69,69,69
+0022000235,2021-05-05,MIL,WAS,23.42,2,0,35,WAS,WAS,fg_miss,79,False,False,,MISS Westbrook 16' Pullup Jump Shot,69-69,69,69
+0022000235,2021-05-05,MIL,WAS,23.48,2,0,31,MIL,MIL,reb,0,False,False,Forbes REBOUND (Off:0 Def:2),,69-69,69,69
+0022000235,2021-05-05,MIL,WAS,23.75,2,0,15,MIL,MIL,fg_make,79,False,False,Holiday 10' Pullup Jump Shot (17 PTS),,71-69,71,69
+0022000235,2021-05-05,MIL,WAS,24.0,2,0,0,WAS,WAS,fg_make,47,False,False,,Beal 9' Turnaround Jump Shot (22 PTS),71-71,71,71
+0022000235,2021-05-05,MIL,WAS,24.0,2,0,0,WAS,,period_end,0,False,False,,,71-71,71,71
+0022000235,2021-05-05,MIL,WAS,24.0,3,12,0,WAS,,period_start,0,False,False,,,71-71,71,71
+0022000235,2021-05-05,MIL,WAS,24.23,3,11,46,MIL,MIL,fg_miss,80,False,False,MISS Antetokounmpo 14' Step Back Jump Shot,,71-71,71,71
+0022000235,2021-05-05,MIL,WAS,24.32,3,11,41,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:7),71-71,71,71
+0022000235,2021-05-05,MIL,WAS,24.57,3,11,26,WAS,WAS,fg_miss,79,False,False,,MISS Beal 17' Pullup Jump Shot,71-71,71,71
+0022000235,2021-05-05,MIL,WAS,24.65,3,11,21,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,71-71,71,71
+0022000235,2021-05-05,MIL,WAS,24.72,3,11,17,MIL,MIL,fg_make,99,False,False,Antetokounmpo 1' Cutting Finger Roll Layup Shot (10 PTS) (DiVincenzo 4 AST),,73-71,73,71
+0022000235,2021-05-05,MIL,WAS,24.72,3,11,17,MIL,WAS,foul,2,False,False,,Westbrook S.FOUL (P1.T1) (D.Taylor),73-71,73,71
+0022000235,2021-05-05,MIL,WAS,24.72,3,11,17,MIL,MIL,ft_miss,10,False,False,MISS Antetokounmpo Free Throw 1 of 1,,73-71,73,71
+0022000235,2021-05-05,MIL,WAS,24.77,3,11,14,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:8),73-71,73,71
+0022000235,2021-05-05,MIL,WAS,24.95,3,11,3,WAS,WAS,fg_make,79,False,False,,Westbrook 19' Pullup Jump Shot (13 PTS),73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.23,3,10,46,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 25' 3PT Jump Shot,,73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.3,3,10,42,WAS,WAS,reb,0,False,False,,Gill REBOUND (Off:0 Def:1),73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.43,3,10,34,WAS,WAS,fg_miss,98,True,False,,MISS Gill 1' Cutting Layup Shot,73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.43,3,10,34,WAS,MIL,block,98,True,False,block,block,73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.5,3,10,30,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:4),,73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.5,3,10,30,MIL,MIL,tov,39,False,False,Tucker Step Out of Bounds Turnover (P2.T10),,73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.75,3,10,15,WAS,WAS,tov,1,False,True,,Beal Bad Pass Turnover (P2.T5),73-73,73,73
+0022000235,2021-05-05,MIL,WAS,25.75,3,10,15,WAS,MIL,steal,1,False,True,steal,steal,73-73,73,73
+0022000235,2021-05-05,MIL,WAS,26.02,3,9,59,MIL,MIL,fg_make,6,False,False,Holiday 2' Driving Layup (19 PTS),,75-73,75,73
+0022000235,2021-05-05,MIL,WAS,26.13,3,9,52,WAS,MIL,foul,2,False,False,DiVincenzo S.FOUL (P4.T1) (D.Taylor),,75-73,75,73
+0022000235,2021-05-05,MIL,WAS,26.13,3,9,52,WAS,WAS,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,75-73,75,73
+0022000235,2021-05-05,MIL,WAS,26.13,3,9,52,WAS,WAS,reb,1,False,False,,Wizards Rebound,75-73,75,73
+0022000235,2021-05-05,MIL,WAS,26.13,3,9,52,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (14 PTS),75-74,75,74
+0022000235,2021-05-05,MIL,WAS,26.32,3,9,41,MIL,MIL,fg3_make,1,False,False,DiVincenzo 25' 3PT Jump Shot (19 PTS) (Antetokounmpo 5 AST),,78-74,78,74
+0022000235,2021-05-05,MIL,WAS,26.63,3,9,22,WAS,MIL,foul,1,False,False,Tucker P.FOUL (P3.T2) (D.Taylor),,78-74,78,74
+0022000235,2021-05-05,MIL,WAS,26.77,3,9,14,WAS,WAS,fg3_miss,1,False,False,,MISS Westbrook 25' 3PT Jump Shot,78-74,78,74
+0022000235,2021-05-05,MIL,WAS,26.83,3,9,10,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:4),,78-74,78,74
+0022000235,2021-05-05,MIL,WAS,26.95,3,9,3,MIL,MIL,fg_make,75,False,False,Antetokounmpo 4' Driving Finger Roll Layup (12 PTS),,80-74,80,74
+0022000235,2021-05-05,MIL,WAS,27.12,3,8,53,WAS,WAS,fg_miss,79,False,False,,MISS Westbrook 12' Pullup Jump Shot,80-74,80,74
+0022000235,2021-05-05,MIL,WAS,27.18,3,8,49,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:2),,80-74,80,74
+0022000235,2021-05-05,MIL,WAS,27.23,3,8,46,MIL,MIL,fg3_miss,103,False,False,MISS Antetokounmpo 26' 3PT Running Pull-Up Jump Shot,,80-74,80,74
+0022000235,2021-05-05,MIL,WAS,27.3,3,8,42,WAS,WAS,reb,0,False,False,,Len REBOUND (Off:1 Def:3),80-74,80,74
+0022000235,2021-05-05,MIL,WAS,27.42,3,8,35,WAS,WAS,fg3_make,1,False,False,,Beal 25' 3PT Jump Shot (25 PTS) (Westbrook 12 AST),80-77,80,77
+0022000235,2021-05-05,MIL,WAS,27.68,3,8,19,MIL,MIL,fg_make,79,False,False,Holiday 14' Pullup Jump Shot (21 PTS),,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,27.83,3,8,10,WAS,WAS,fg3_miss,1,False,False,,MISS Gill 25' 3PT Jump Shot,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,27.88,3,8,7,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:5),,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.05,3,7,57,MIL,MIL,fg_miss,101,False,False,MISS Lopez 11' Driving Floating Jump Shot,,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.12,3,7,53,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:9),82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.13,3,7,52,WAS,WAS,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P1.T6),82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.5,3,7,30,MIL,MIL,fg_miss,6,False,False,MISS Holiday 2' Driving Layup,,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.55,3,7,27,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:1 Def:1),82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.58,3,7,25,WAS,WAS,fg_miss,41,True,False,,MISS Gill 2' Running Layup,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.58,3,7,25,WAS,MIL,block,41,True,False,block,block,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.58,3,7,25,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:3),,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.63,3,7,22,MIL,MIL,tov,1,False,True,Antetokounmpo Bad Pass Turnover (P3.T11),,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.63,3,7,22,MIL,WAS,steal,1,False,True,steal,steal,82-77,82,77
+0022000235,2021-05-05,MIL,WAS,28.67,3,7,20,WAS,WAS,fg_make,7,False,False,,Westbrook 1' Dunk (16 PTS) (Neto 1 AST),82-79,82,79
+0022000235,2021-05-05,MIL,WAS,28.67,3,7,20,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 3 Short 0),,82-79,82,79
+0022000235,2021-05-05,MIL,WAS,28.92,3,7,5,MIL,MIL,fg_miss,71,False,False,MISS Antetokounmpo 6' Finger Roll Layup,,82-79,82,79
+0022000235,2021-05-05,MIL,WAS,28.92,3,7,5,WAS,WAS,reb,0,False,False,,Wizards Rebound,82-79,82,79
+0022000235,2021-05-05,MIL,WAS,28.92,3,7,5,WAS,MIL,foul,3,False,False,Antetokounmpo L.B.FOUL (P2.T3) (D.Taylor),,82-79,82,79
+0022000235,2021-05-05,MIL,WAS,28.92,3,7,5,WAS,MIL,foul,11,False,False,Antetokounmpo T.FOUL (P2.T3) (D.Taylor),,82-79,82,79
+0022000235,2021-05-05,MIL,WAS,28.92,3,7,5,WAS,WAS,ft_make,16,False,False,,Beal Free Throw Technical (26 PTS),82-80,82,80
+0022000235,2021-05-05,MIL,WAS,29.07,3,6,56,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 26' 3PT Jump Shot,82-80,82,80
+0022000235,2021-05-05,MIL,WAS,29.17,3,6,50,MIL,MIL,reb,0,False,False,Forbes REBOUND (Off:0 Def:3),,82-80,82,80
+0022000235,2021-05-05,MIL,WAS,29.22,3,6,47,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 4 Short 0),,82-80,82,80
+0022000235,2021-05-05,MIL,WAS,29.52,3,6,29,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 3PT Jump Shot,,82-80,82,80
+0022000235,2021-05-05,MIL,WAS,29.57,3,6,26,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:10),82-80,82,80
+0022000235,2021-05-05,MIL,WAS,29.63,3,6,22,WAS,WAS,fg_make,100,False,False,,Gill 1' Running Alley Oop Layup Shot (9 PTS) (Westbrook 13 AST),82-82,82,82
+0022000235,2021-05-05,MIL,WAS,29.9,3,6,6,MIL,MIL,fg_make,75,False,False,Antetokounmpo 1' Driving Finger Roll Layup (14 PTS) (Teague 3 AST),,84-82,84,82
+0022000235,2021-05-05,MIL,WAS,29.9,3,6,6,MIL,WAS,foul,2,False,False,,Len S.FOUL (P1.T2) (D.Taylor),84-82,84,82
+0022000235,2021-05-05,MIL,WAS,29.9,3,6,6,MIL,MIL,ft_make,10,False,False,Antetokounmpo Free Throw 1 of 1 (15 PTS),,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.03,3,5,58,WAS,WAS,fg_miss,6,False,False,,MISS Westbrook 1' Driving Layup,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.08,3,5,55,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:4),,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.18,3,5,49,MIL,WAS,violation,5,False,False,,Gill Violation:Kicked Ball (E.Scott),85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.38,3,5,37,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 2' Driving Layup,,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.38,3,5,37,MIL,WAS,block,6,True,False,block,block,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.42,3,5,35,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:5),,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.43,3,5,34,MIL,MIL,tov,11,False,False,BUCKS Turnover: Shot Clock (T#12),,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.6,3,5,24,WAS,WAS,fg_miss,73,False,False,,MISS Beal 1' Driving Reverse Layup,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.63,3,5,22,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:1),85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.68,3,5,19,WAS,WAS,fg_miss,3,False,False,,MISS Lopez 1' Hook Shot,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.73,3,5,16,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:6),,85-82,85,82
+0022000235,2021-05-05,MIL,WAS,30.8,3,5,12,MIL,MIL,fg_make,75,False,False,Antetokounmpo 1' Driving Finger Roll Layup (17 PTS),,87-82,87,82
+0022000235,2021-05-05,MIL,WAS,30.95,3,5,3,WAS,WAS,fg_miss,6,False,False,,MISS Smith 1' Driving Layup,87-82,87,82
+0022000235,2021-05-05,MIL,WAS,30.97,3,5,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,87-82,87,82
+0022000235,2021-05-05,MIL,WAS,30.97,3,5,2,WAS,MIL,foul,3,False,False,Lopez L.B.FOUL (P3.T4) (D.Taylor),,87-82,87,82
+0022000235,2021-05-05,MIL,WAS,30.97,3,5,2,WAS,MIL,foul,11,False,False,Lopez T.FOUL (P3.T4) (D.Taylor),,87-82,87,82
+0022000235,2021-05-05,MIL,WAS,30.97,3,5,2,WAS,WAS,ft_make,16,False,False,,Beal Free Throw Technical (27 PTS),87-83,87,83
+0022000235,2021-05-05,MIL,WAS,31.1,3,4,54,WAS,WAS,fg_make,75,False,False,,Beal 1' Driving Finger Roll Layup (29 PTS) (Bertans 1 AST),87-85,87,85
+0022000235,2021-05-05,MIL,WAS,31.38,3,4,37,MIL,MIL,fg_make,101,False,False,Teague 8' Driving Floating Jump Shot (9 PTS),,89-85,89,85
+0022000235,2021-05-05,MIL,WAS,31.55,3,4,27,WAS,WAS,fg_make,79,False,False,,Beal 12' Pullup Jump Shot (31 PTS),89-87,89,87
+0022000235,2021-05-05,MIL,WAS,31.8,3,4,12,MIL,MIL,tov,1,False,False,Antetokounmpo Bad Pass Turnover (P4.T13),,89-87,89,87
+0022000235,2021-05-05,MIL,WAS,31.8,3,4,12,WAS,MIL,foul,3,False,False,Antetokounmpo L.B.FOUL (P3.PN) (T.Brothers),,89-87,89,87
+0022000235,2021-05-05,MIL,WAS,31.8,3,4,12,WAS,WAS,ft_make,11,False,False,,Smith Free Throw 1 of 2 (1 PTS),89-88,89,88
+0022000235,2021-05-05,MIL,WAS,31.8,3,4,12,WAS,WAS,ft_make,12,False,False,,Smith Free Throw 2 of 2 (2 PTS),89-89,89,89
+0022000235,2021-05-05,MIL,WAS,32.07,3,3,56,MIL,MIL,fg_miss,101,False,False,MISS Teague 8' Driving Floating Jump Shot,,89-89,89,89
+0022000235,2021-05-05,MIL,WAS,32.13,3,3,52,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:2),89-89,89,89
+0022000235,2021-05-05,MIL,WAS,32.25,3,3,45,WAS,WAS,fg3_miss,1,False,False,,MISS Bonga 3PT Jump Shot,89-89,89,89
+0022000235,2021-05-05,MIL,WAS,32.32,3,3,41,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:1),,89-89,89,89
+0022000235,2021-05-05,MIL,WAS,32.48,3,3,31,MIL,MIL,fg_make,3,False,False,Portis 6' Hook Shot (6 PTS),,91-89,91,89
+0022000235,2021-05-05,MIL,WAS,32.92,3,3,5,WAS,WAS,fg_make,58,False,False,,Lopez 9' Turnaround Hook Shot (6 PTS),91-91,91,91
+0022000235,2021-05-05,MIL,WAS,33.2,3,2,48,MIL,WAS,foul,2,False,False,,Bertans S.FOUL (P1.T3) (T.Brothers),91-91,91,91
+0022000235,2021-05-05,MIL,WAS,33.2,3,2,48,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (2 PTS),,92-91,92,91
+0022000235,2021-05-05,MIL,WAS,33.2,3,2,48,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (3 PTS),,93-91,93,91
+0022000235,2021-05-05,MIL,WAS,33.42,3,2,35,WAS,WAS,fg_make,98,False,False,,Lopez 5' Cutting Layup Shot (8 PTS) (Beal 3 AST),93-93,93,93
+0022000235,2021-05-05,MIL,WAS,33.65,3,2,21,MIL,MIL,fg3_make,80,False,False,Holiday 26' 3PT Step Back Jump Shot (24 PTS),,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,33.88,3,2,7,WAS,WAS,fg3_miss,79,False,False,,MISS Beal 26' 3PT Pullup Jump Shot,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,33.95,3,2,3,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:4),,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.18,3,1,49,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 31' 3PT Jump Shot,,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.22,3,1,47,MIL,MIL,reb,0,False,False,Teague REBOUND (Off:1 Def:1),,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.22,3,1,47,MIL,WAS,foul,1,False,False,,Bonga P.FOUL (P3.T4) (T.Brothers),96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.3,3,1,42,MIL,MIL,tov,4,False,False,Antetokounmpo Traveling Turnover (P1.T14),,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.47,3,1,32,WAS,WAS,fg_miss,79,False,False,,MISS Smith 11' Pullup Jump Shot,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.52,3,1,29,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:2 Def:2),96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.58,3,1,25,WAS,WAS,fg_miss,102,False,False,,MISS Smith 11' Driving Floating Bank Jump Shot,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.67,3,1,20,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:2 Def:3),,96-93,96,93
+0022000235,2021-05-05,MIL,WAS,34.73,3,1,16,MIL,MIL,fg3_make,1,False,False,Portis 27' 3PT Jump Shot (9 PTS) (Holiday 3 AST),,99-93,99,93
+0022000235,2021-05-05,MIL,WAS,34.97,3,1,2,WAS,MIL,foul,2,False,False,Forbes S.FOUL (P2.PN) (E.Scott),,99-93,99,93
+0022000235,2021-05-05,MIL,WAS,34.97,3,1,2,WAS,WAS,ft_make,11,False,False,,Bertans Free Throw 1 of 2 (12 PTS),99-94,99,94
+0022000235,2021-05-05,MIL,WAS,34.97,3,1,2,WAS,WAS,ft_make,12,False,False,,Bertans Free Throw 2 of 2 (13 PTS),99-95,99,95
+0022000235,2021-05-05,MIL,WAS,35.33,3,0,40,MIL,MIL,fg_make,101,False,False,Forbes 7' Driving Floating Jump Shot (6 PTS) (Holiday 4 AST),,101-95,101,95
+0022000235,2021-05-05,MIL,WAS,35.58,3,0,25,WAS,WAS,fg_miss,1,False,False,,MISS Bertans 16' Jump Shot,101-95,101,95
+0022000235,2021-05-05,MIL,WAS,35.65,3,0,21,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:2 Def:4),,101-95,101,95
+0022000235,2021-05-05,MIL,WAS,36.0,3,0,0,MIL,MIL,fg_make,79,False,False,Holiday 9' Pullup Jump Shot (26 PTS),,103-95,103,95
+0022000235,2021-05-05,MIL,WAS,36.0,3,0,0,MIL,,period_end,0,False,False,,,103-95,103,95
+0022000235,2021-05-05,MIL,WAS,36.0,4,12,0,MIL,,period_start,0,False,False,,,103-95,103,95
+0022000235,2021-05-05,MIL,WAS,36.23,4,11,46,WAS,WAS,fg_make,79,False,False,,Westbrook 17' Pullup Jump Shot (18 PTS),103-97,103,97
+0022000235,2021-05-05,MIL,WAS,36.47,4,11,32,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 26' 3PT Jump Shot,,103-97,103,97
+0022000235,2021-05-05,MIL,WAS,36.52,4,11,29,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:0 Def:2),103-97,103,97
+0022000235,2021-05-05,MIL,WAS,36.72,4,11,17,WAS,MIL,foul,2,False,False,Connaughton S.FOUL (P2.T1) (D.Taylor),,103-97,103,97
+0022000235,2021-05-05,MIL,WAS,36.72,4,11,17,WAS,WAS,ft_make,13,False,False,,Mathews Free Throw 1 of 3 (1 PTS),103-98,103,98
+0022000235,2021-05-05,MIL,WAS,36.72,4,11,17,WAS,WAS,ft_make,14,False,False,,Mathews Free Throw 2 of 3 (2 PTS),103-99,103,99
+0022000235,2021-05-05,MIL,WAS,36.72,4,11,17,WAS,WAS,ft_make,15,False,False,,Mathews Free Throw 3 of 3 (3 PTS),103-100,103,100
+0022000235,2021-05-05,MIL,WAS,36.83,4,11,10,MIL,MIL,fg3_miss,1,False,False,MISS Forbes 25' 3PT Jump Shot,,103-100,103,100
+0022000235,2021-05-05,MIL,WAS,36.88,4,11,7,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:2 Def:4),,103-100,103,100
+0022000235,2021-05-05,MIL,WAS,36.95,4,11,3,MIL,MIL,fg_miss,1,False,False,MISS Portis 21' Jump Shot,,103-100,103,100
+0022000235,2021-05-05,MIL,WAS,36.98,4,11,1,MIL,MIL,reb,0,False,False,BUCKS Rebound,,103-100,103,100
+0022000235,2021-05-05,MIL,WAS,36.98,4,11,1,MIL,WAS,foul,3,False,False,,Mathews L.B.FOUL (P1.T1) (D.Taylor),103-100,103,100
+0022000235,2021-05-05,MIL,WAS,37.03,4,10,58,WAS,MIL,foul,4,False,False,Antetokounmpo OFF.Foul (P4) (T.Brothers),,103-100,103,100
+0022000235,2021-05-05,MIL,WAS,37.03,4,10,58,MIL,MIL,tov,37,False,False,Antetokounmpo Offensive Foul Turnover (P5.T15),,103-100,103,100
+0022000235,2021-05-05,MIL,WAS,37.15,4,10,51,WAS,WAS,fg_make,79,False,False,,Westbrook 15' Pullup Jump Shot (20 PTS),103-102,103,102
+0022000235,2021-05-05,MIL,WAS,37.4,4,10,36,MIL,WAS,foul,1,False,False,,Westbrook P.FOUL (P2.T2) (T.Brothers),103-102,103,102
+0022000235,2021-05-05,MIL,WAS,37.63,4,10,22,MIL,MIL,fg_miss,108,True,False,MISS Portis 1' Cutting Dunk Shot,,103-102,103,102
+0022000235,2021-05-05,MIL,WAS,37.63,4,10,22,MIL,WAS,block,108,True,False,block,block,103-102,103,102
+0022000235,2021-05-05,MIL,WAS,37.72,4,10,17,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:4),,103-102,103,102
+0022000235,2021-05-05,MIL,WAS,37.75,4,10,15,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 25' 3PT Jump Shot,,103-102,103,102
+0022000235,2021-05-05,MIL,WAS,37.75,4,10,15,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:2 Def:3),103-102,103,102
+0022000235,2021-05-05,MIL,WAS,37.92,4,10,5,WAS,WAS,fg_make,6,False,False,,Westbrook Driving Layup (22 PTS),103-104,103,104
+0022000235,2021-05-05,MIL,WAS,38.15,4,9,51,MIL,MIL,fg_miss,79,False,False,MISS Antetokounmpo 17' Pullup Jump Shot,,103-104,103,104
+0022000235,2021-05-05,MIL,WAS,38.2,4,9,48,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:11),103-104,103,104
+0022000235,2021-05-05,MIL,WAS,38.35,4,9,39,WAS,WAS,fg3_miss,1,False,False,,MISS Smith 25' 3PT Jump Shot,103-104,103,104
+0022000235,2021-05-05,MIL,WAS,38.4,4,9,36,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:2),,103-104,103,104
+0022000235,2021-05-05,MIL,WAS,38.45,4,9,33,WAS,MIL,foul,4,False,False,DiVincenzo OFF.Foul (P5) (D.Taylor),,103-104,103,104
+0022000235,2021-05-05,MIL,WAS,38.45,4,9,33,MIL,MIL,tov,37,False,False,DiVincenzo Offensive Foul Turnover (P2.T16),,103-104,103,104
+0022000235,2021-05-05,MIL,WAS,38.57,4,9,26,WAS,WAS,fg_make,79,False,False,,Westbrook 15' Pullup Jump Shot (24 PTS),103-106,103,106
+0022000235,2021-05-05,MIL,WAS,38.7,4,9,18,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 5 Short 0),,103-106,103,106
+0022000235,2021-05-05,MIL,WAS,38.83,4,9,10,MIL,MIL,fg_make,101,False,False,Teague 11' Driving Floating Jump Shot (11 PTS),,105-106,105,106
+0022000235,2021-05-05,MIL,WAS,39.12,4,8,53,WAS,MIL,foul,2,False,False,Forbes S.FOUL (P3.T2) (E.Scott),,105-106,105,106
+0022000235,2021-05-05,MIL,WAS,39.12,4,8,53,WAS,WAS,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (25 PTS),105-107,105,107
+0022000235,2021-05-05,MIL,WAS,39.12,4,8,53,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (26 PTS),105-108,105,108
+0022000235,2021-05-05,MIL,WAS,39.38,4,8,37,MIL,MIL,fg_make,98,False,False,Antetokounmpo 3' Cutting Layup Shot (19 PTS) (Connaughton 3 AST),,107-108,107,108
+0022000235,2021-05-05,MIL,WAS,39.57,4,8,26,WAS,WAS,fg3_miss,79,False,False,,MISS Westbrook 25' 3PT Pullup Jump Shot,107-108,107,108
+0022000235,2021-05-05,MIL,WAS,39.6,4,8,24,MIL,MIL,reb,0,False,False,Forbes REBOUND (Off:0 Def:4),,107-108,107,108
+0022000235,2021-05-05,MIL,WAS,39.65,4,8,21,MIL,MIL,fg_make,76,False,False,Antetokounmpo 1' Running Finger Roll Layup (21 PTS) (Forbes 2 AST),,109-108,109,108
+0022000235,2021-05-05,MIL,WAS,39.65,4,8,21,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.4 Short 0),109-108,109,108
+0022000235,2021-05-05,MIL,WAS,39.87,4,8,8,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 27' 3PT Jump Shot,109-108,109,108
+0022000235,2021-05-05,MIL,WAS,39.92,4,8,5,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:5),,109-108,109,108
+0022000235,2021-05-05,MIL,WAS,40.05,4,7,57,MIL,WAS,foul,2,False,False,,Lopez S.FOUL (P3.T3) (E.Scott),109-108,109,108
+0022000235,2021-05-05,MIL,WAS,40.05,4,7,57,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (22 PTS),,110-108,110,108
+0022000235,2021-05-05,MIL,WAS,40.05,4,7,57,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (23 PTS),,111-108,111,108
+0022000235,2021-05-05,MIL,WAS,40.4,4,7,36,WAS,WAS,fg_miss,102,False,False,,MISS Beal 6' Driving Floating Bank Jump Shot,111-108,111,108
+0022000235,2021-05-05,MIL,WAS,40.45,4,7,33,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:3 Def:3),111-108,111,108
+0022000235,2021-05-05,MIL,WAS,40.45,4,7,33,WAS,WAS,fg_miss,97,False,False,,MISS Lopez Tip Layup Shot,111-108,111,108
+0022000235,2021-05-05,MIL,WAS,40.45,4,7,33,WAS,WAS,reb,0,False,False,,Wizards Rebound,111-108,111,108
+0022000235,2021-05-05,MIL,WAS,40.52,4,7,29,WAS,WAS,fg_miss,101,False,False,,MISS Neto 11' Driving Floating Jump Shot,111-108,111,108
+0022000235,2021-05-05,MIL,WAS,40.6,4,7,24,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:5),,111-108,111,108
+0022000235,2021-05-05,MIL,WAS,40.77,4,7,14,MIL,MIL,fg_make,102,False,False,Forbes 12' Driving Floating Bank Jump Shot (8 PTS) (Antetokounmpo 6 AST),,113-108,113,108
+0022000235,2021-05-05,MIL,WAS,40.93,4,7,4,WAS,MIL,foul,2,False,False,Antetokounmpo S.FOUL (P5.T3) (T.Brothers),,113-108,113,108
+0022000235,2021-05-05,MIL,WAS,40.93,4,7,4,WAS,WAS,ft_miss,11,False,False,,MISS Beal Free Throw 1 of 2,113-108,113,108
+0022000235,2021-05-05,MIL,WAS,40.93,4,7,4,WAS,WAS,reb,1,False,False,,Wizards Rebound,113-108,113,108
+0022000235,2021-05-05,MIL,WAS,40.93,4,7,4,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (32 PTS),113-109,113,109
+0022000235,2021-05-05,MIL,WAS,41.05,4,6,57,MIL,MIL,fg_make,73,False,False,Lopez 1' Driving Reverse Layup (8 PTS) (Forbes 3 AST),,115-109,115,109
+0022000235,2021-05-05,MIL,WAS,41.05,4,6,57,MIL,WAS,foul,2,False,False,,Gafford S.FOUL (P2.T4) (T.Brothers),115-109,115,109
+0022000235,2021-05-05,MIL,WAS,41.05,4,6,57,MIL,MIL,ft_make,10,False,False,Lopez Free Throw 1 of 1 (9 PTS),,116-109,116,109
+0022000235,2021-05-05,MIL,WAS,41.2,4,6,48,WAS,WAS,fg_miss,1,True,False,,MISS Gill 8' Jump Shot,116-109,116,109
+0022000235,2021-05-05,MIL,WAS,41.2,4,6,48,WAS,MIL,block,1,True,False,block,block,116-109,116,109
+0022000235,2021-05-05,MIL,WAS,41.23,4,6,46,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:3 Def:1),116-109,116,109
+0022000235,2021-05-05,MIL,WAS,41.27,4,6,44,WAS,WAS,fg_make,5,False,False,,Gill Layup (11 PTS) (Gafford 2 AST),116-111,116,111
+0022000235,2021-05-05,MIL,WAS,41.42,4,6,35,MIL,MIL,fg3_make,1,False,False,Forbes 27' 3PT Jump Shot (11 PTS) (Teague 4 AST),,119-111,119,111
+0022000235,2021-05-05,MIL,WAS,41.62,4,6,23,WAS,MIL,foul,17,False,False,BUCKS T.Foul (Def. 3 Sec Lopez ) (T.Brothers),,119-111,119,111
+0022000235,2021-05-05,MIL,WAS,41.62,4,6,23,WAS,WAS,ft_make,16,False,False,,Beal Free Throw Technical (33 PTS),119-112,119,112
+0022000235,2021-05-05,MIL,WAS,41.77,4,6,14,WAS,WAS,fg3_make,1,False,False,,Mathews 3PT Jump Shot (6 PTS) (Westbrook 14 AST),119-115,119,115
+0022000235,2021-05-05,MIL,WAS,42.02,4,5,59,MIL,MIL,fg_miss,78,False,False,MISS Lopez 10' Floating Jump Shot,,119-115,119,115
+0022000235,2021-05-05,MIL,WAS,42.07,4,5,56,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:3 Def:2),119-115,119,115
+0022000235,2021-05-05,MIL,WAS,42.2,4,5,48,WAS,WAS,fg_miss,79,False,False,,MISS Beal 10' Pullup Jump Shot,119-115,119,115
+0022000235,2021-05-05,MIL,WAS,42.23,4,5,46,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:4 Def:2),119-115,119,115
+0022000235,2021-05-05,MIL,WAS,42.23,4,5,46,WAS,WAS,fg_make,97,False,False,,Gafford Tip Layup Shot (9 PTS),119-117,119,117
+0022000235,2021-05-05,MIL,WAS,42.47,4,5,32,MIL,MIL,fg3_miss,80,False,False,MISS Holiday 24' 3PT Step Back Jump Shot,,119-117,119,117
+0022000235,2021-05-05,MIL,WAS,42.5,4,5,30,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:12),119-117,119,117
+0022000235,2021-05-05,MIL,WAS,42.58,4,5,25,WAS,MIL,foul,2,False,False,DiVincenzo S.FOUL (P6.T4) (E.Scott),,119-117,119,117
+0022000235,2021-05-05,MIL,WAS,42.58,4,5,25,WAS,WAS,ft_make,13,False,False,,Mathews Free Throw 1 of 3 (7 PTS),119-118,119,118
+0022000235,2021-05-05,MIL,WAS,42.58,4,5,25,WAS,WAS,ft_miss,14,False,False,,MISS Mathews Free Throw 2 of 3,119-118,119,118
+0022000235,2021-05-05,MIL,WAS,42.58,4,5,25,WAS,WAS,reb,1,False,False,,Wizards Rebound,119-118,119,118
+0022000235,2021-05-05,MIL,WAS,42.58,4,5,25,WAS,WAS,ft_make,15,False,False,,Mathews Free Throw 3 of 3 (8 PTS),119-119,119,119
+0022000235,2021-05-05,MIL,WAS,42.83,4,5,10,MIL,WAS,foul,1,False,False,,Westbrook P.FOUL (P3.PN) (T.Brothers),119-119,119,119
+0022000235,2021-05-05,MIL,WAS,42.83,4,5,10,MIL,MIL,ft_make,11,False,False,Holiday Free Throw 1 of 2 (27 PTS),,120-119,120,119
+0022000235,2021-05-05,MIL,WAS,42.83,4,5,10,MIL,MIL,ft_make,12,False,False,Holiday Free Throw 2 of 2 (28 PTS),,121-119,121,119
+0022000235,2021-05-05,MIL,WAS,43.03,4,4,58,WAS,MIL,foul,2,False,False,Lopez S.FOUL (P4.PN) (T.Brothers),,121-119,121,119
+0022000235,2021-05-05,MIL,WAS,43.03,4,4,58,WAS,WAS,ft_miss,11,False,False,,MISS Beal Free Throw 1 of 2,121-119,121,119
+0022000235,2021-05-05,MIL,WAS,43.03,4,4,58,WAS,WAS,reb,1,False,False,,Wizards Rebound,121-119,121,119
+0022000235,2021-05-05,MIL,WAS,43.03,4,4,58,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (34 PTS),121-120,121,120
+0022000235,2021-05-05,MIL,WAS,43.17,4,4,50,MIL,MIL,fg_miss,98,True,False,MISS Lopez 1' Cutting Layup Shot,,121-120,121,120
+0022000235,2021-05-05,MIL,WAS,43.17,4,4,50,MIL,WAS,block,98,True,False,block,block,121-120,121,120
+0022000235,2021-05-05,MIL,WAS,43.18,4,4,49,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:4 Def:3),121-120,121,120
+0022000235,2021-05-05,MIL,WAS,43.23,4,4,46,WAS,MIL,foul,1,False,False,Lopez P.FOUL (P5.PN) (D.Taylor),,121-120,121,120
+0022000235,2021-05-05,MIL,WAS,43.23,4,4,46,WAS,WAS,ft_miss,11,False,False,,MISS Gafford Free Throw 1 of 2,121-120,121,120
+0022000235,2021-05-05,MIL,WAS,43.23,4,4,46,WAS,WAS,reb,1,False,False,,Wizards Rebound,121-120,121,120
+0022000235,2021-05-05,MIL,WAS,43.23,4,4,46,WAS,WAS,ft_make,12,False,False,,Gafford Free Throw 2 of 2 (10 PTS),121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.42,4,4,35,MIL,MIL,fg3_miss,79,False,False,MISS Holiday 26' 3PT Pullup Jump Shot,,121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.48,4,4,31,WAS,WAS,reb,0,False,False,,Mathews REBOUND (Off:0 Def:1),121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.55,4,4,27,WAS,WAS,tov,2,False,True,,Westbrook Lost Ball Turnover (P2.T7),121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.55,4,4,27,WAS,MIL,steal,2,False,True,steal,steal,121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.67,4,4,20,MIL,MIL,tov,1,False,True,Teague Bad Pass Turnover (P1.T17),,121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.67,4,4,20,MIL,WAS,steal,1,False,True,steal,steal,121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.73,4,4,16,WAS,WAS,fg_miss,41,False,False,,MISS Neto 2' Running Layup,121-121,121,121
+0022000235,2021-05-05,MIL,WAS,43.73,4,4,16,MIL,MIL,reb,0,False,False,BUCKS Rebound,,121-121,121,121
+0022000235,2021-05-05,MIL,WAS,44.0,4,4,0,MIL,MIL,fg_make,98,False,False,Connaughton 1' Cutting Layup Shot (10 PTS) (Antetokounmpo 7 AST),,123-121,123,121
+0022000235,2021-05-05,MIL,WAS,44.22,4,3,47,WAS,MIL,foul,2,False,False,Teague S.FOUL (P2.PN) (D.Taylor),,123-121,123,121
+0022000235,2021-05-05,MIL,WAS,44.22,4,3,47,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 6 Short 0),,123-121,123,121
+0022000235,2021-05-05,MIL,WAS,44.22,4,3,47,WAS,WAS,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,123-121,123,121
+0022000235,2021-05-05,MIL,WAS,44.22,4,3,47,WAS,WAS,reb,1,False,False,,Wizards Rebound,123-121,123,121
+0022000235,2021-05-05,MIL,WAS,44.22,4,3,47,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (27 PTS),123-122,123,122
+0022000235,2021-05-05,MIL,WAS,44.4,4,3,36,MIL,WAS,foul,1,False,False,,Beal P.FOUL (P2.PN) (T.Brothers),123-122,123,122
+0022000235,2021-05-05,MIL,WAS,44.4,4,3,36,MIL,MIL,ft_make,11,False,False,Holiday Free Throw 1 of 2 (29 PTS),,124-122,124,122
+0022000235,2021-05-05,MIL,WAS,44.4,4,3,36,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.5 Short 0),124-122,124,122
+0022000235,2021-05-05,MIL,WAS,44.4,4,3,36,MIL,MIL,ft_miss,12,False,False,MISS Holiday Free Throw 2 of 2,,124-122,124,122
+0022000235,2021-05-05,MIL,WAS,44.45,4,3,33,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:4 Def:4),124-122,124,122
+0022000235,2021-05-05,MIL,WAS,44.7,4,3,18,WAS,WAS,fg3_miss,1,False,False,,MISS Neto 24' 3PT Jump Shot,124-122,124,122
+0022000235,2021-05-05,MIL,WAS,44.77,4,3,14,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:5 Def:4),124-122,124,122
+0022000235,2021-05-05,MIL,WAS,44.78,4,3,13,WAS,WAS,fg_make,87,False,False,,Gafford 1' Putback Dunk (12 PTS),124-124,124,124
+0022000235,2021-05-05,MIL,WAS,45.08,4,2,55,MIL,MIL,tov,45,False,False,Holiday Out of Bounds - Bad Pass Turnover Turnover (P4.T18),,124-124,124,124
+0022000235,2021-05-05,MIL,WAS,45.38,4,2,37,WAS,WAS,fg_miss,47,False,False,,MISS Westbrook 8' Turnaround Jump Shot,124-124,124,124
+0022000235,2021-05-05,MIL,WAS,45.43,4,2,34,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:6),,124-124,124,124
+0022000235,2021-05-05,MIL,WAS,45.52,4,2,29,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 29' 3PT Jump Shot,,124-124,124,124
+0022000235,2021-05-05,MIL,WAS,45.57,4,2,26,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:6),,124-124,124,124
+0022000235,2021-05-05,MIL,WAS,45.62,4,2,23,MIL,MIL,fg3_make,1,False,False,Forbes 25' 3PT Jump Shot (14 PTS) (Antetokounmpo 8 AST),,127-124,127,124
+0022000235,2021-05-05,MIL,WAS,45.95,4,2,3,WAS,WAS,fg_miss,6,False,False,,MISS Beal 3' Driving Layup,127-124,127,124
+0022000235,2021-05-05,MIL,WAS,45.98,4,2,1,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:7),,127-124,127,124
+0022000235,2021-05-05,MIL,WAS,46.1,4,1,54,WAS,MIL,foul,26,False,False,Antetokounmpo Offensive Charge Foul (P6.PN) (E.Scott),,127-124,127,124
+0022000235,2021-05-05,MIL,WAS,46.1,4,1,54,MIL,MIL,tov,37,False,False,Antetokounmpo Offensive Foul Turnover (P6.T19),,127-124,127,124
+0022000235,2021-05-05,MIL,WAS,46.35,4,1,39,WAS,WAS,fg_make,7,False,False,,Westbrook 1' Dunk (29 PTS) (Mathews 1 AST),127-126,127,126
+0022000235,2021-05-05,MIL,WAS,46.57,4,1,26,MIL,MIL,fg3_make,1,False,False,Connaughton 3PT Jump Shot (13 PTS) (Holiday 5 AST),,130-126,130,126
+0022000235,2021-05-05,MIL,WAS,46.75,4,1,15,WAS,WAS,fg_make,108,False,False,,Beal 1' Cutting Dunk Shot (36 PTS) (Westbrook 15 AST),130-128,130,128
+0022000235,2021-05-05,MIL,WAS,46.93,4,1,4,MIL,MIL,fg3_make,1,False,False,Connaughton 26' 3PT Jump Shot (16 PTS) (Holiday 6 AST),,133-128,133,128
+0022000235,2021-05-05,MIL,WAS,46.93,4,1,4,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.6 Short 0),133-128,133,128
+0022000235,2021-05-05,MIL,WAS,47.05,4,0,57,WAS,WAS,fg3_make,1,False,False,,Beal 25' 3PT Jump Shot (39 PTS) (Westbrook 16 AST),133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.23,4,0,46,MIL,MIL,fg3_miss,79,False,False,MISS Holiday 25' 3PT Pullup Jump Shot,,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.3,4,0,42,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:4),133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.45,4,0,33,WAS,WAS,fg_miss,5,True,False,,MISS Gafford 1' Layup,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.45,4,0,33,WAS,MIL,block,5,True,False,block,block,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.48,4,0,31,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:6 Def:4),133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.48,4,0,31,WAS,WAS,fg_miss,72,True,False,,MISS Gafford 1' Putback Layup,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.48,4,0,31,WAS,MIL,block,72,True,False,block,block,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.48,4,0,31,MIL,MIL,reb,0,False,False,BUCKS Rebound,,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.88,4,0,7,MIL,MIL,fg_miss,80,False,False,MISS Holiday 23' Step Back Jump Shot,,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.9,4,0,6,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:2 Def:6),,133-131,133,131
+0022000235,2021-05-05,MIL,WAS,47.9,4,0,6,MIL,MIL,fg_make,87,False,False,Lopez Putback Dunk (11 PTS),,135-131,135,131
+0022000235,2021-05-05,MIL,WAS,47.9,4,0,6,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.7 Short 0),135-131,135,131
+0022000235,2021-05-05,MIL,WAS,47.92,4,0,5,WAS,WAS,fg3_make,1,False,False,,Beal 25' 3PT Jump Shot (42 PTS) (Westbrook 17 AST),135-134,135,134
+0022000235,2021-05-05,MIL,WAS,47.97,4,0,2,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 7 Short 0),,135-134,135,134
+0022000235,2021-05-05,MIL,WAS,48.0,4,0,0,MIL,MIL,tov,1,False,True,Holiday Bad Pass Turnover (P5.T20),,135-134,135,134
+0022000235,2021-05-05,MIL,WAS,48.0,4,0,0,MIL,WAS,steal,1,False,True,steal,steal,135-134,135,134
+0022000235,2021-05-05,MIL,WAS,48.0,4,0,0,WAS,WAS,fg3_miss,1,False,False,,MISS Mathews 52' 3PT Jump Shot,135-134,135,134
+0022000235,2021-05-05,MIL,WAS,48.0,4,0,0,WAS,WAS,reb,0,False,False,,Wizards Rebound,135-134,135,134
+0022000235,2021-05-05,MIL,WAS,48.0,4,0,0,WAS,,period_end,0,False,False,,,135-134,135,134

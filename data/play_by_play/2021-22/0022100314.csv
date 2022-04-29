@@ -1,0 +1,410 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100314,2021-11-30,BKN,NYK,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100314,2021-11-30,BKN,NYK,0.0,1,12,0,,BKN,jump_ball,0,False,False,Jump Ball Aldridge vs. Robinson: Tip to Burks,,0-0,0,0
+0022100314,2021-11-30,BKN,NYK,0.43,1,11,34,NYK,NYK,fg_make,79,False,False,,Fournier 21' Pullup Jump Shot (2 PTS),0-2,0,2
+0022100314,2021-11-30,BKN,NYK,0.73,1,11,16,BKN,BKN,fg_miss,101,False,False,MISS Harden 4' Driving Floating Jump Shot,,0-2,0,2
+0022100314,2021-11-30,BKN,NYK,0.77,1,11,14,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:1),0-2,0,2
+0022100314,2021-11-30,BKN,NYK,0.85,1,11,9,NYK,NYK,fg3_miss,1,False,False,,MISS Fournier 26' 3PT Jump Shot,0-2,0,2
+0022100314,2021-11-30,BKN,NYK,0.92,1,11,5,BKN,BKN,reb,0,False,False,Aldridge REBOUND (Off:0 Def:1),,0-2,0,2
+0022100314,2021-11-30,BKN,NYK,1.08,1,10,55,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:2),0-2,0,2
+0022100314,2021-11-30,BKN,NYK,1.08,1,10,55,BKN,BKN,fg_miss,79,False,False,MISS Aldridge 14' Pullup Jump Shot,,0-2,0,2
+0022100314,2021-11-30,BKN,NYK,1.28,1,10,43,NYK,NYK,fg_make,5,False,False,,Barrett 3' Layup (2 PTS) (Robinson 1 AST),0-4,0,4
+0022100314,2021-11-30,BKN,NYK,1.6,1,10,24,BKN,BKN,fg_miss,3,False,False,MISS Aldridge 6' Hook Shot,,0-4,0,4
+0022100314,2021-11-30,BKN,NYK,1.65,1,10,21,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:1),0-4,0,4
+0022100314,2021-11-30,BKN,NYK,1.9,1,10,6,NYK,NYK,fg3_miss,1,False,False,,MISS Fournier 24' 3PT Jump Shot,0-4,0,4
+0022100314,2021-11-30,BKN,NYK,1.93,1,10,4,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:1 Def:2),0-4,0,4
+0022100314,2021-11-30,BKN,NYK,1.97,1,10,2,NYK,NYK,fg_miss,5,False,False,,MISS Barrett 6' Layup,0-4,0,4
+0022100314,2021-11-30,BKN,NYK,2.02,1,9,59,BKN,BKN,reb,0,False,False,Bembry REBOUND (Off:0 Def:1),,0-4,0,4
+0022100314,2021-11-30,BKN,NYK,2.12,1,9,53,BKN,BKN,fg_make,6,False,False,Mills 2' Driving Layup (2 PTS) (Bembry 1 AST),,2-4,2,4
+0022100314,2021-11-30,BKN,NYK,2.47,1,9,32,NYK,BKN,block,75,True,False,block,block,2-4,2,4
+0022100314,2021-11-30,BKN,NYK,2.47,1,9,32,NYK,NYK,fg_miss,75,True,False,,MISS Burks 2' Driving Finger Roll Layup,2-4,2,4
+0022100314,2021-11-30,BKN,NYK,2.52,1,9,29,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:1),,2-4,2,4
+0022100314,2021-11-30,BKN,NYK,2.55,1,9,27,BKN,BKN,fg_make,50,False,False,Harden 1' Running Dunk (2 PTS) (Durant 1 AST),,4-4,4,4
+0022100314,2021-11-30,BKN,NYK,2.97,1,9,2,NYK,NYK,fg_make,80,False,False,,Randle 20' Step Back Jump Shot (2 PTS),4-6,4,6
+0022100314,2021-11-30,BKN,NYK,3.12,1,8,53,BKN,NYK,steal,1,False,True,steal,steal,4-6,4,6
+0022100314,2021-11-30,BKN,NYK,3.12,1,8,53,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P1.T1),,4-6,4,6
+0022100314,2021-11-30,BKN,NYK,3.23,1,8,46,NYK,NYK,fg_make,108,False,False,,Robinson Cutting Dunk Shot (2 PTS) (Randle 1 AST),4-8,4,8
+0022100314,2021-11-30,BKN,NYK,3.63,1,8,22,BKN,BKN,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (5 PTS),,7-8,7,8
+0022100314,2021-11-30,BKN,NYK,3.97,1,8,2,NYK,NYK,reb,1,False,False,,Knicks Rebound,7-8,7,8
+0022100314,2021-11-30,BKN,NYK,3.97,1,8,2,NYK,NYK,ft_make,12,False,False,,Burks Free Throw 2 of 2 (1 PTS),7-9,7,9
+0022100314,2021-11-30,BKN,NYK,3.97,1,8,2,NYK,BKN,foul,2,False,False,Aldridge S.FOUL (P1.T1) (S.Foster),,7-8,7,8
+0022100314,2021-11-30,BKN,NYK,3.97,1,8,2,NYK,NYK,ft_miss,11,False,False,,MISS Burks Free Throw 1 of 2,7-8,7,8
+0022100314,2021-11-30,BKN,NYK,4.2,1,7,48,BKN,BKN,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (8 PTS) (Aldridge 1 AST),,10-9,10,9
+0022100314,2021-11-30,BKN,NYK,4.37,1,7,38,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.1 Short 0),10-9,10,9
+0022100314,2021-11-30,BKN,NYK,4.58,1,7,25,NYK,NYK,fg_make,5,False,False,,Robinson 1' Layup (4 PTS) (Randle 2 AST),10-11,10,11
+0022100314,2021-11-30,BKN,NYK,4.85,1,7,9,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P2.T2),,10-11,10,11
+0022100314,2021-11-30,BKN,NYK,4.85,1,7,9,BKN,NYK,steal,1,False,True,steal,steal,10-11,10,11
+0022100314,2021-11-30,BKN,NYK,4.95,1,7,3,NYK,NYK,fg3_make,2,False,False,,Burks 3PT Running Jump Shot (4 PTS) (Randle 3 AST),10-14,10,14
+0022100314,2021-11-30,BKN,NYK,5.08,1,6,55,BKN,BKN,fg_miss,103,False,False,MISS Durant 19' Running Pull-Up Jump Shot,,10-14,10,14
+0022100314,2021-11-30,BKN,NYK,5.12,1,6,53,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:0 Def:1),10-14,10,14
+0022100314,2021-11-30,BKN,NYK,5.28,1,6,43,NYK,NYK,fg_make,5,False,False,,Robinson 1' Layup (6 PTS),10-16,10,16
+0022100314,2021-11-30,BKN,NYK,5.55,1,6,27,BKN,BKN,fg_miss,1,False,False,MISS Aldridge 12' Jump Shot,,10-16,10,16
+0022100314,2021-11-30,BKN,NYK,5.62,1,6,23,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:2),10-16,10,16
+0022100314,2021-11-30,BKN,NYK,5.8,1,6,12,NYK,NYK,fg_make,101,False,False,,Rose 9' Driving Floating Jump Shot (2 PTS) (Randle 4 AST),10-18,10,18
+0022100314,2021-11-30,BKN,NYK,6.03,1,5,58,BKN,BKN,fg_make,6,False,False,Harden 1' Driving Layup (10 PTS),,12-18,12,18
+0022100314,2021-11-30,BKN,NYK,6.03,1,5,58,BKN,NYK,foul,2,False,False,,Fournier S.FOUL (P1.T1) (S.Foster),12-18,12,18
+0022100314,2021-11-30,BKN,NYK,6.03,1,5,58,BKN,BKN,ft_make,10,False,False,Harden Free Throw 1 of 1 (11 PTS),,13-18,13,18
+0022100314,2021-11-30,BKN,NYK,6.27,1,5,44,NYK,NYK,fg_make,6,False,False,,Fournier 1' Driving Layup (4 PTS) (Burks 1 AST),13-20,13,20
+0022100314,2021-11-30,BKN,NYK,6.45,1,5,33,BKN,BKN,fg3_miss,1,False,False,MISS Durant 27' 3PT Jump Shot,,13-20,13,20
+0022100314,2021-11-30,BKN,NYK,6.53,1,5,28,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:1),13-20,13,20
+0022100314,2021-11-30,BKN,NYK,6.58,1,5,25,NYK,NYK,tov,1,False,True,,Fournier Bad Pass Turnover (P1.T1),13-20,13,20
+0022100314,2021-11-30,BKN,NYK,6.58,1,5,25,NYK,BKN,steal,1,False,True,steal,steal,13-20,13,20
+0022100314,2021-11-30,BKN,NYK,6.67,1,5,20,BKN,BKN,fg_make,41,False,False,Brown 1' Running Layup (2 PTS) (Thomas 1 AST),,15-20,15,20
+0022100314,2021-11-30,BKN,NYK,6.87,1,5,8,NYK,NYK,fg3_miss,80,False,False,,MISS Burks 25' 3PT Step Back Jump Shot,15-20,15,20
+0022100314,2021-11-30,BKN,NYK,6.92,1,5,5,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,15-20,15,20
+0022100314,2021-11-30,BKN,NYK,7.03,1,4,58,BKN,BKN,ft_make,15,False,False,Harden Free Throw 3 of 3 (14 PTS),,18-20,18,20
+0022100314,2021-11-30,BKN,NYK,7.03,1,4,58,BKN,BKN,ft_make,13,False,False,Harden Free Throw 1 of 3 (12 PTS),,16-20,16,20
+0022100314,2021-11-30,BKN,NYK,7.03,1,4,58,BKN,NYK,foul,2,False,False,,Randle S.FOUL (P1.T2) (J.Goldenberg),15-20,15,20
+0022100314,2021-11-30,BKN,NYK,7.03,1,4,58,BKN,BKN,ft_make,14,False,False,Harden Free Throw 2 of 3 (13 PTS),,17-20,17,20
+0022100314,2021-11-30,BKN,NYK,7.17,1,4,50,NYK,NYK,fg_make,79,False,False,,Burks 21' Pullup Jump Shot (6 PTS),18-22,18,22
+0022100314,2021-11-30,BKN,NYK,7.33,1,4,40,BKN,BKN,fg_make,108,False,False,Aldridge 1' Cutting Dunk Shot (2 PTS) (Durant 2 AST),,20-22,20,22
+0022100314,2021-11-30,BKN,NYK,7.72,1,4,17,NYK,NYK,fg_miss,63,False,False,,MISS Randle 13' Fadeaway Jumper,20-22,20,22
+0022100314,2021-11-30,BKN,NYK,7.77,1,4,14,BKN,BKN,reb,0,False,False,Aldridge REBOUND (Off:0 Def:2),,20-22,20,22
+0022100314,2021-11-30,BKN,NYK,7.93,1,4,4,BKN,BKN,ft_make,11,False,False,Harden Free Throw 1 of 2 (15 PTS),,21-22,21,22
+0022100314,2021-11-30,BKN,NYK,7.93,1,4,4,BKN,BKN,ft_miss,12,False,False,MISS Harden Free Throw 2 of 2,,21-22,21,22
+0022100314,2021-11-30,BKN,NYK,7.93,1,4,4,BKN,NYK,foul,2,False,False,,Burks S.FOUL (P1.T3) (M.Lindsay),20-22,20,22
+0022100314,2021-11-30,BKN,NYK,7.97,1,4,2,NYK,NYK,reb,0,False,False,,Noel REBOUND (Off:0 Def:1),21-22,21,22
+0022100314,2021-11-30,BKN,NYK,8.32,1,3,41,NYK,NYK,fg3_miss,79,False,False,,MISS Burks 25' 3PT Pullup Jump Shot,21-22,21,22
+0022100314,2021-11-30,BKN,NYK,8.37,1,3,38,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,21-22,21,22
+0022100314,2021-11-30,BKN,NYK,8.47,1,3,32,BKN,BKN,fg3_make,1,False,False,Thomas 3PT Jump Shot (3 PTS) (Harden 1 AST),,24-22,24,22
+0022100314,2021-11-30,BKN,NYK,8.6,1,3,24,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.2 Short 0),24-22,24,22
+0022100314,2021-11-30,BKN,NYK,8.73,1,3,16,NYK,NYK,fg3_miss,79,False,False,,MISS Rose 25' 3PT Pullup Jump Shot,24-22,24,22
+0022100314,2021-11-30,BKN,NYK,8.82,1,3,11,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:1 Def:0),24-22,24,22
+0022100314,2021-11-30,BKN,NYK,8.95,1,3,3,NYK,NYK,fg_miss,80,False,False,,MISS Quickley 21' Step Back Jump Shot,24-22,24,22
+0022100314,2021-11-30,BKN,NYK,9.03,1,2,58,BKN,BKN,reb,0,False,False,Millsap REBOUND (Off:0 Def:1),,24-22,24,22
+0022100314,2021-11-30,BKN,NYK,9.12,1,2,53,BKN,BKN,fg_make,103,False,False,Thomas 13' Running Pull-Up Jump Shot (5 PTS),,26-22,26,22
+0022100314,2021-11-30,BKN,NYK,9.43,1,2,34,NYK,NYK,fg3_miss,1,False,False,,MISS Burks 3PT Jump Shot,26-22,26,22
+0022100314,2021-11-30,BKN,NYK,9.48,1,2,31,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:2),,26-22,26,22
+0022100314,2021-11-30,BKN,NYK,9.6,1,2,24,BKN,BKN,fg3_make,1,False,False,Thomas 25' 3PT Jump Shot (8 PTS) (Durant 3 AST),,29-22,29,22
+0022100314,2021-11-30,BKN,NYK,9.98,1,2,1,NYK,NYK,fg3_make,1,False,False,,Rose 25' 3PT Jump Shot (5 PTS) (Randle 5 AST),29-25,29,25
+0022100314,2021-11-30,BKN,NYK,10.2,1,1,48,BKN,BKN,fg_make,79,False,False,Durant 17' Pullup Jump Shot (2 PTS) (Mills 1 AST),,31-25,31,25
+0022100314,2021-11-30,BKN,NYK,10.47,1,1,32,NYK,NYK,fg_miss,80,False,False,,MISS Rose 20' Step Back Jump Shot,31-25,31,25
+0022100314,2021-11-30,BKN,NYK,10.52,1,1,29,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:2),,31-25,31,25
+0022100314,2021-11-30,BKN,NYK,10.62,1,1,23,BKN,BKN,fg3_miss,1,False,False,MISS Thomas 26' 3PT Jump Shot,,31-25,31,25
+0022100314,2021-11-30,BKN,NYK,10.67,1,1,20,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:1 Def:2),,31-25,31,25
+0022100314,2021-11-30,BKN,NYK,10.7,1,1,18,BKN,BKN,fg_make,72,False,False,Brown 2' Putback Layup (4 PTS),,33-25,33,25
+0022100314,2021-11-30,BKN,NYK,11.05,1,0,57,NYK,NYK,fg3_make,1,False,False,,Burks 3PT Jump Shot (9 PTS) (Randle 6 AST),33-28,33,28
+0022100314,2021-11-30,BKN,NYK,11.25,1,0,45,BKN,BKN,fg3_miss,1,False,False,MISS Mills 25' 3PT Jump Shot,,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,11.3,1,0,42,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:3),33-28,33,28
+0022100314,2021-11-30,BKN,NYK,11.47,1,0,32,NYK,NYK,fg_miss,80,False,False,,MISS Randle 19' Step Back Jump Shot,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,11.53,1,0,28,BKN,BKN,reb,0,False,False,Mills REBOUND (Off:0 Def:1),,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,11.58,1,0,25,BKN,BKN,tov,40,False,False,Millsap Out of Bounds Lost Ball Turnover (P1.T3),,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,12.0,1,0,0,NYK,NYK,fg_miss,1,False,False,,MISS Burks 19' Jump Shot,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,12.0,1,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,12.0,1,0,0,NYK,,period_end,0,False,False,,,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,12.0,2,12,0,NYK,,period_start,0,False,False,,,33-28,33,28
+0022100314,2021-11-30,BKN,NYK,12.2,2,11,48,BKN,BKN,fg_make,79,False,False,Harden 14' Pullup Jump Shot (17 PTS),,35-28,35,28
+0022100314,2021-11-30,BKN,NYK,12.52,2,11,29,NYK,NYK,tov,45,False,False,,Toppin Out of Bounds - Bad Pass Turnover Turnover (P1.T2),35-28,35,28
+0022100314,2021-11-30,BKN,NYK,12.72,2,11,17,BKN,BKN,fg_make,75,False,False,Harden 4' Driving Finger Roll Layup (19 PTS),,37-28,37,28
+0022100314,2021-11-30,BKN,NYK,13.02,2,10,59,NYK,BKN,steal,2,False,True,steal,steal,37-28,37,28
+0022100314,2021-11-30,BKN,NYK,13.02,2,10,59,NYK,NYK,tov,2,False,True,,Barrett Lost Ball Turnover (P1.T3),37-28,37,28
+0022100314,2021-11-30,BKN,NYK,13.17,2,10,50,BKN,BKN,fg3_miss,80,False,False,MISS Harden 26' 3PT Step Back Jump Shot,,37-28,37,28
+0022100314,2021-11-30,BKN,NYK,13.23,2,10,46,NYK,NYK,reb,0,False,False,,Rose REBOUND (Off:0 Def:1),37-28,37,28
+0022100314,2021-11-30,BKN,NYK,13.28,2,10,43,NYK,NYK,ft_make,12,False,False,,Rose Free Throw 2 of 2 (7 PTS),37-30,37,30
+0022100314,2021-11-30,BKN,NYK,13.28,2,10,43,NYK,NYK,ft_make,11,False,False,,Rose Free Throw 1 of 2 (6 PTS),37-29,37,29
+0022100314,2021-11-30,BKN,NYK,13.28,2,10,43,NYK,BKN,foul,2,False,False,Brown S.FOUL (P1.T1) (M.Lindsay),,37-28,37,28
+0022100314,2021-11-30,BKN,NYK,13.47,2,10,32,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P3.T4),,37-30,37,30
+0022100314,2021-11-30,BKN,NYK,13.47,2,10,32,BKN,NYK,steal,1,False,True,steal,steal,37-30,37,30
+0022100314,2021-11-30,BKN,NYK,13.55,2,10,27,NYK,NYK,fg_miss,41,False,False,,MISS Quickley 1' Running Layup,37-30,37,30
+0022100314,2021-11-30,BKN,NYK,13.62,2,10,23,NYK,NYK,fg_make,107,False,False,,Barrett Tip Dunk Shot (4 PTS),37-32,37,32
+0022100314,2021-11-30,BKN,NYK,13.62,2,10,23,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:2 Def:2),37-32,37,32
+0022100314,2021-11-30,BKN,NYK,14.0,2,10,0,BKN,BKN,fg3_miss,1,False,False,MISS Mills 3PT Jump Shot,,37-32,37,32
+0022100314,2021-11-30,BKN,NYK,14.05,2,9,57,NYK,NYK,reb,0,False,False,,Rose REBOUND (Off:0 Def:2),37-32,37,32
+0022100314,2021-11-30,BKN,NYK,14.1,2,9,54,NYK,NYK,fg_make,50,False,False,,Toppin 1' Running Dunk (2 PTS) (Rose 1 AST),37-34,37,34
+0022100314,2021-11-30,BKN,NYK,14.38,2,9,37,BKN,BKN,fg_make,78,False,False,Brown 8' Floating Jump Shot (6 PTS),,39-34,39,34
+0022100314,2021-11-30,BKN,NYK,14.55,2,9,27,NYK,NYK,fg_make,108,False,False,,Toppin 1' Cutting Dunk Shot (4 PTS) (Quickley 1 AST),39-36,39,36
+0022100314,2021-11-30,BKN,NYK,14.85,2,9,9,BKN,NYK,foul,2,False,False,,Barrett S.FOUL (P1.T1) (J.Goldenberg),39-36,39,36
+0022100314,2021-11-30,BKN,NYK,14.85,2,9,9,BKN,BKN,ft_make,11,False,False,Millsap Free Throw 1 of 2 (1 PTS),,40-36,40,36
+0022100314,2021-11-30,BKN,NYK,14.85,2,9,9,BKN,BKN,ft_make,12,False,False,Millsap Free Throw 2 of 2 (2 PTS),,41-36,41,36
+0022100314,2021-11-30,BKN,NYK,15.05,2,8,57,BKN,NYK,foul,4,False,False,,Toppin OFF.Foul (P1) (S.Foster),41-36,41,36
+0022100314,2021-11-30,BKN,NYK,15.05,2,8,57,NYK,NYK,tov,37,False,False,,Toppin Offensive Foul Turnover (P2.T4),41-36,41,36
+0022100314,2021-11-30,BKN,NYK,15.2,2,8,48,BKN,NYK,foul,2,False,False,,Toppin S.FOUL (P2.T2) (M.Lindsay),41-36,41,36
+0022100314,2021-11-30,BKN,NYK,15.2,2,8,48,BKN,BKN,ft_make,12,False,False,Harden Free Throw 2 of 2 (21 PTS),,43-36,43,36
+0022100314,2021-11-30,BKN,NYK,15.2,2,8,48,BKN,BKN,ft_make,11,False,False,Harden Free Throw 1 of 2 (20 PTS),,42-36,42,36
+0022100314,2021-11-30,BKN,NYK,15.5,2,8,30,NYK,NYK,fg3_miss,1,False,False,,MISS Toppin 25' 3PT Jump Shot,43-36,43,36
+0022100314,2021-11-30,BKN,NYK,15.57,2,8,26,BKN,BKN,reb,0,False,False,Millsap REBOUND (Off:0 Def:2),,43-36,43,36
+0022100314,2021-11-30,BKN,NYK,15.75,2,8,15,BKN,BKN,fg_make,98,False,False,Johnson Cutting Layup Shot (2 PTS) (Harden 2 AST),,45-36,45,36
+0022100314,2021-11-30,BKN,NYK,15.92,2,8,5,NYK,NYK,fg3_make,1,False,False,,Rose 25' 3PT Jump Shot (10 PTS) (Barrett 1 AST),45-39,45,39
+0022100314,2021-11-30,BKN,NYK,16.37,2,7,38,BKN,BKN,fg3_miss,80,False,False,MISS Mills 25' 3PT Step Back Jump Shot,,45-39,45,39
+0022100314,2021-11-30,BKN,NYK,16.4,2,7,36,NYK,NYK,reb,0,False,False,,Toppin REBOUND (Off:0 Def:1),45-39,45,39
+0022100314,2021-11-30,BKN,NYK,16.47,2,7,32,NYK,NYK,fg3_miss,103,False,False,,MISS Quickley 26' 3PT Running Pull-Up Jump Shot,45-39,45,39
+0022100314,2021-11-30,BKN,NYK,16.53,2,7,28,NYK,NYK,reb,0,False,False,,Noel REBOUND (Off:1 Def:1),45-39,45,39
+0022100314,2021-11-30,BKN,NYK,16.67,2,7,20,NYK,NYK,fg_make,1,False,False,,Rose 17' Jump Shot (12 PTS),45-41,45,41
+0022100314,2021-11-30,BKN,NYK,16.7,2,7,18,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 1 Short 0),,45-41,45,41
+0022100314,2021-11-30,BKN,NYK,16.9,2,7,6,BKN,BKN,tov,45,False,False,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,45-41,45,41
+0022100314,2021-11-30,BKN,NYK,17.35,2,6,39,NYK,BKN,block,1,True,False,block,block,45-41,45,41
+0022100314,2021-11-30,BKN,NYK,17.35,2,6,39,NYK,NYK,fg_miss,1,True,False,,MISS Burks 21' Jump Shot,45-41,45,41
+0022100314,2021-11-30,BKN,NYK,17.4,2,6,36,BKN,BKN,reb,0,False,False,Carter REBOUND (Off:0 Def:1),,45-41,45,41
+0022100314,2021-11-30,BKN,NYK,17.47,2,6,32,BKN,BKN,fg_miss,101,False,False,MISS Harden 6' Driving Floating Jump Shot,,45-41,45,41
+0022100314,2021-11-30,BKN,NYK,17.52,2,6,29,NYK,BKN,foul,2,False,False,Carter S.FOUL (P1.T2) (M.Lindsay),,45-41,45,41
+0022100314,2021-11-30,BKN,NYK,17.52,2,6,29,NYK,NYK,ft_make,11,False,False,,Quickley Free Throw 1 of 2 (1 PTS),45-42,45,42
+0022100314,2021-11-30,BKN,NYK,17.52,2,6,29,NYK,NYK,ft_make,12,False,False,,Quickley Free Throw 2 of 2 (2 PTS),45-43,45,43
+0022100314,2021-11-30,BKN,NYK,17.52,2,6,29,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:2),45-41,45,41
+0022100314,2021-11-30,BKN,NYK,17.85,2,6,9,BKN,NYK,steal,2,False,True,steal,steal,45-43,45,43
+0022100314,2021-11-30,BKN,NYK,17.85,2,6,9,BKN,BKN,tov,2,False,True,Harden Lost Ball Turnover (P4.T6),,45-43,45,43
+0022100314,2021-11-30,BKN,NYK,17.92,2,6,5,NYK,NYK,fg_make,76,False,False,,Quickley 1' Running Finger Roll Layup (4 PTS) (Burks 2 AST),45-45,45,45
+0022100314,2021-11-30,BKN,NYK,17.92,2,6,5,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,45-45,45,45
+0022100314,2021-11-30,BKN,NYK,18.13,2,5,52,BKN,BKN,fg_make,1,False,False,Durant 20' Jump Shot (4 PTS) (Bembry 2 AST),,47-45,47,45
+0022100314,2021-11-30,BKN,NYK,18.45,2,5,33,NYK,NYK,fg3_miss,1,False,False,,MISS Fournier 26' 3PT Jump Shot,47-45,47,45
+0022100314,2021-11-30,BKN,NYK,18.47,2,5,32,NYK,BKN,foul,3,False,False,Bembry L.B.FOUL (P1.T3) (J.Goldenberg),,47-45,47,45
+0022100314,2021-11-30,BKN,NYK,18.47,2,5,32,NYK,NYK,reb,0,False,False,,Knicks Rebound,47-45,47,45
+0022100314,2021-11-30,BKN,NYK,18.68,2,5,19,NYK,NYK,fg_make,75,False,False,,Quickley 10' Driving Finger Roll Layup (6 PTS),47-47,47,47
+0022100314,2021-11-30,BKN,NYK,18.9,2,5,6,BKN,BKN,fg_miss,79,False,False,MISS Thomas 19' Pullup Jump Shot,,47-47,47,47
+0022100314,2021-11-30,BKN,NYK,18.93,2,5,4,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:3),47-47,47,47
+0022100314,2021-11-30,BKN,NYK,19.07,2,4,56,NYK,NYK,fg_make,63,False,False,,Burks 14' Fadeaway Jumper (11 PTS),47-49,47,49
+0022100314,2021-11-30,BKN,NYK,19.27,2,4,44,BKN,BKN,fg3_miss,1,False,False,MISS Durant 25' 3PT Jump Shot,,47-49,47,49
+0022100314,2021-11-30,BKN,NYK,19.32,2,4,41,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),47-49,47,49
+0022100314,2021-11-30,BKN,NYK,19.43,2,4,34,NYK,NYK,fg3_miss,1,False,False,,MISS Quickley 25' 3PT Jump Shot,47-49,47,49
+0022100314,2021-11-30,BKN,NYK,19.48,2,4,31,BKN,BKN,reb,0,False,False,Thomas REBOUND (Off:0 Def:1),,47-49,47,49
+0022100314,2021-11-30,BKN,NYK,19.57,2,4,26,BKN,BKN,fg_make,41,False,False,Thomas 1' Running Layup (10 PTS) (Durant 4 AST),,49-49,49,49
+0022100314,2021-11-30,BKN,NYK,20.02,2,3,59,NYK,NYK,fg_miss,1,False,False,,MISS Burks 21' Jump Shot,49-49,49,49
+0022100314,2021-11-30,BKN,NYK,20.17,2,3,50,BKN,BKN,reb,0,False,False,Bembry REBOUND (Off:0 Def:2),,49-49,49,49
+0022100314,2021-11-30,BKN,NYK,20.2,2,3,48,BKN,BKN,fg_miss,79,False,False,MISS Thomas 12' Pullup Jump Shot,,49-49,49,49
+0022100314,2021-11-30,BKN,NYK,20.25,2,3,45,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:0 Def:3),49-49,49,49
+0022100314,2021-11-30,BKN,NYK,20.55,2,3,27,NYK,NYK,fg_make,75,False,False,,Randle 2' Driving Finger Roll Layup (4 PTS),49-51,49,51
+0022100314,2021-11-30,BKN,NYK,20.55,2,3,27,NYK,NYK,ft_make,10,False,False,,Randle Free Throw 1 of 1 (5 PTS),49-52,49,52
+0022100314,2021-11-30,BKN,NYK,20.55,2,3,27,NYK,BKN,foul,2,False,False,Durant S.FOUL (P1.T4) (S.Foster),,49-51,49,51
+0022100314,2021-11-30,BKN,NYK,20.77,2,3,14,BKN,BKN,fg_miss,79,False,False,MISS Durant 13' Pullup Jump Shot,,49-52,49,52
+0022100314,2021-11-30,BKN,NYK,20.82,2,3,11,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:4),49-52,49,52
+0022100314,2021-11-30,BKN,NYK,20.88,2,3,7,NYK,NYK,tov,37,False,False,,Randle Offensive Foul Turnover (P1.T5),49-52,49,52
+0022100314,2021-11-30,BKN,NYK,20.88,2,3,7,BKN,NYK,foul,4,False,False,,Randle OFF.Foul (P2) (S.Foster),49-52,49,52
+0022100314,2021-11-30,BKN,NYK,21.1,2,2,54,BKN,NYK,foul,1,False,False,,Robinson P.FOUL (P1.T3) (M.Lindsay),49-52,49,52
+0022100314,2021-11-30,BKN,NYK,21.25,2,2,45,BKN,BKN,fg_miss,79,False,False,MISS Durant 14' Pullup Jump Shot,,49-52,49,52
+0022100314,2021-11-30,BKN,NYK,21.33,2,2,40,BKN,BKN,reb,0,False,False,Bembry REBOUND (Off:1 Def:2),,49-52,49,52
+0022100314,2021-11-30,BKN,NYK,21.33,2,2,40,BKN,BKN,fg_make,97,False,False,Bembry Tip Layup Shot (2 PTS),,51-52,51,52
+0022100314,2021-11-30,BKN,NYK,21.47,2,2,32,NYK,NYK,fg3_miss,1,False,False,,MISS Fournier 25' 3PT Jump Shot,51-52,51,52
+0022100314,2021-11-30,BKN,NYK,21.48,2,2,31,BKN,NYK,foul,3,False,False,,Robinson L.B.FOUL (P2.T4) (S.Foster),51-52,51,52
+0022100314,2021-11-30,BKN,NYK,21.48,2,2,31,BKN,BKN,reb,0,False,False,NETS Rebound,,51-52,51,52
+0022100314,2021-11-30,BKN,NYK,21.68,2,2,19,BKN,NYK,foul,2,False,False,,Burks S.FOUL (P2.PN) (J.Goldenberg),51-52,51,52
+0022100314,2021-11-30,BKN,NYK,21.68,2,2,19,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (5 PTS),,52-52,52,52
+0022100314,2021-11-30,BKN,NYK,21.68,2,2,19,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (6 PTS),,53-52,53,52
+0022100314,2021-11-30,BKN,NYK,21.98,2,2,1,NYK,NYK,fg_make,47,False,False,,Randle 7' Turnaround Jump Shot (7 PTS),53-54,53,54
+0022100314,2021-11-30,BKN,NYK,22.17,2,1,50,BKN,BKN,fg_miss,79,False,False,MISS Durant 16' Pullup Jump Shot,,53-54,53,54
+0022100314,2021-11-30,BKN,NYK,22.22,2,1,47,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:1 Def:1),53-54,53,54
+0022100314,2021-11-30,BKN,NYK,22.32,2,1,41,NYK,NYK,fg_miss,6,False,False,,MISS Fournier 1' Driving Layup,53-54,53,54
+0022100314,2021-11-30,BKN,NYK,22.37,2,1,38,NYK,NYK,fg_make,107,False,False,,Robinson Tip Dunk Shot (8 PTS),53-56,53,56
+0022100314,2021-11-30,BKN,NYK,22.37,2,1,38,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:1 Def:3),53-54,53,54
+0022100314,2021-11-30,BKN,NYK,22.68,2,1,19,BKN,BKN,fg_miss,79,False,False,MISS Durant 12' Pullup Jump Shot,,53-56,53,56
+0022100314,2021-11-30,BKN,NYK,22.73,2,1,16,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:1 Def:2),53-56,53,56
+0022100314,2021-11-30,BKN,NYK,22.87,2,1,8,NYK,NYK,fg_miss,102,False,False,,MISS Burks 6' Driving Floating Bank Jump Shot,53-56,53,56
+0022100314,2021-11-30,BKN,NYK,22.9,2,1,6,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:3),,53-56,53,56
+0022100314,2021-11-30,BKN,NYK,22.95,2,1,3,BKN,BKN,fg_make,76,False,False,Harden 2' Running Finger Roll Layup (23 PTS) (Durant 5 AST),,55-56,55,56
+0022100314,2021-11-30,BKN,NYK,23.3,2,0,42,NYK,NYK,fg_make,1,False,False,,Randle 12' Jump Shot (9 PTS),55-58,55,58
+0022100314,2021-11-30,BKN,NYK,23.3,2,0,42,NYK,BKN,foul,2,False,False,Durant S.FOUL (P2.PN) (S.Foster),,55-58,55,58
+0022100314,2021-11-30,BKN,NYK,23.3,2,0,42,NYK,NYK,ft_make,10,False,False,,Randle Free Throw 1 of 1 (10 PTS),55-59,55,59
+0022100314,2021-11-30,BKN,NYK,23.47,2,0,32,BKN,NYK,foul,1,False,False,,Robinson P.FOUL (P3.PN) (J.Goldenberg),55-59,55,59
+0022100314,2021-11-30,BKN,NYK,23.47,2,0,32,BKN,BKN,ft_make,11,False,False,Harden Free Throw 1 of 2 (24 PTS),,56-59,56,59
+0022100314,2021-11-30,BKN,NYK,23.47,2,0,32,BKN,BKN,ft_make,12,False,False,Harden Free Throw 2 of 2 (25 PTS),,57-59,57,59
+0022100314,2021-11-30,BKN,NYK,23.83,2,0,10,NYK,NYK,fg_make,97,False,False,,Burks Tip Layup Shot (13 PTS),57-61,57,61
+0022100314,2021-11-30,BKN,NYK,23.83,2,0,10,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:1 Def:4),57-59,57,59
+0022100314,2021-11-30,BKN,NYK,23.83,2,0,10,NYK,NYK,fg_miss,79,False,False,,MISS Randle 12' Pullup Jump Shot,57-59,57,59
+0022100314,2021-11-30,BKN,NYK,23.95,2,0,3,BKN,BKN,fg3_make,103,False,False,Harden 28' 3PT Running Pull-Up Jump Shot (28 PTS),,60-61,60,61
+0022100314,2021-11-30,BKN,NYK,24.0,2,0,0,NYK,BKN,steal,1,False,True,steal,steal,60-61,60,61
+0022100314,2021-11-30,BKN,NYK,24.0,2,0,0,NYK,NYK,tov,1,False,True,,Randle Bad Pass Turnover (P2.T6),60-61,60,61
+0022100314,2021-11-30,BKN,NYK,24.0,3,12,0,BKN,,period_start,0,False,False,,,60-61,60,61
+0022100314,2021-11-30,BKN,NYK,24.0,2,0,0,BKN,,period_end,0,False,False,,,60-61,60,61
+0022100314,2021-11-30,BKN,NYK,24.0,2,0,0,BKN,BKN,reb,0,False,False,NETS Rebound,,60-61,60,61
+0022100314,2021-11-30,BKN,NYK,24.0,2,0,0,BKN,BKN,fg3_miss,2,False,False,MISS Harden 33' 3PT Running Jump Shot,,60-61,60,61
+0022100314,2021-11-30,BKN,NYK,24.23,3,11,46,BKN,BKN,fg3_make,1,False,False,Mills 25' 3PT Jump Shot (5 PTS) (Durant 6 AST),,63-61,63,61
+0022100314,2021-11-30,BKN,NYK,24.65,3,11,21,NYK,NYK,fg_miss,6,True,False,,MISS Burks 2' Driving Layup,63-61,63,61
+0022100314,2021-11-30,BKN,NYK,24.65,3,11,21,NYK,BKN,block,6,True,False,block,block,63-61,63,61
+0022100314,2021-11-30,BKN,NYK,24.72,3,11,17,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:2),,63-61,63,61
+0022100314,2021-11-30,BKN,NYK,24.78,3,11,13,BKN,BKN,fg3_make,2,False,False,Mills 26' 3PT Running Jump Shot (8 PTS) (Harden 3 AST),,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,24.8,3,11,12,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.3 Short 0),66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.1,3,10,54,NYK,NYK,fg_miss,1,False,False,,MISS Randle 14' Jump Shot,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.17,3,10,50,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:3),,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.25,3,10,45,BKN,BKN,fg_miss,101,False,False,MISS Harden 6' Driving Floating Jump Shot,,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.27,3,10,44,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:1 Def:3),,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.28,3,10,43,BKN,NYK,block,72,True,False,block,block,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.28,3,10,43,BKN,BKN,reb,0,False,False,NETS Rebound,,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.28,3,10,43,BKN,BKN,fg_miss,72,True,False,MISS Harden 3' Putback Layup,,66-61,66,61
+0022100314,2021-11-30,BKN,NYK,25.38,3,10,37,BKN,BKN,fg_make,79,False,False,Durant 10' Pullup Jump Shot (8 PTS),,68-61,68,61
+0022100314,2021-11-30,BKN,NYK,25.6,3,10,24,NYK,NYK,tov,1,False,True,,Burks Bad Pass Turnover (P1.T7),68-61,68,61
+0022100314,2021-11-30,BKN,NYK,25.6,3,10,24,NYK,BKN,steal,1,False,True,steal,steal,68-61,68,61
+0022100314,2021-11-30,BKN,NYK,25.7,3,10,18,BKN,BKN,fg3_miss,103,False,False,MISS Mills 25' 3PT Running Pull-Up Jump Shot,,68-61,68,61
+0022100314,2021-11-30,BKN,NYK,25.77,3,10,14,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:4),68-61,68,61
+0022100314,2021-11-30,BKN,NYK,26.07,3,9,56,NYK,BKN,steal,1,False,True,steal,steal,68-61,68,61
+0022100314,2021-11-30,BKN,NYK,26.07,3,9,56,NYK,NYK,tov,1,False,True,,Fournier Bad Pass Turnover (P2.T8),68-61,68,61
+0022100314,2021-11-30,BKN,NYK,26.13,3,9,52,BKN,BKN,fg_make,76,False,False,Bembry 1' Running Finger Roll Layup (4 PTS) (Mills 2 AST),,70-61,70,61
+0022100314,2021-11-30,BKN,NYK,26.3,3,9,42,NYK,NYK,fg3_miss,1,False,False,,MISS Randle 27' 3PT Jump Shot,70-61,70,61
+0022100314,2021-11-30,BKN,NYK,26.35,3,9,39,BKN,BKN,reb,0,False,False,Aldridge REBOUND (Off:0 Def:3),,70-61,70,61
+0022100314,2021-11-30,BKN,NYK,26.45,3,9,33,BKN,BKN,fg3_miss,1,False,False,MISS Durant 24' 3PT Jump Shot,,70-61,70,61
+0022100314,2021-11-30,BKN,NYK,26.52,3,9,29,BKN,BKN,reb,0,False,False,Mills REBOUND (Off:1 Def:1),,70-61,70,61
+0022100314,2021-11-30,BKN,NYK,26.53,3,9,28,BKN,BKN,fg3_miss,79,False,False,MISS Mills 25' 3PT Pullup Jump Shot,,70-61,70,61
+0022100314,2021-11-30,BKN,NYK,26.55,3,9,27,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.4 Short 0),72-61,72,61
+0022100314,2021-11-30,BKN,NYK,26.55,3,9,27,BKN,BKN,fg_make,107,False,False,Harden Tip Dunk Shot (30 PTS),,72-61,72,61
+0022100314,2021-11-30,BKN,NYK,26.55,3,9,27,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:2 Def:3),,70-61,70,61
+0022100314,2021-11-30,BKN,NYK,26.83,3,9,10,NYK,NYK,fg_miss,101,False,False,,MISS Fournier 10' Driving Floating Jump Shot,72-61,72,61
+0022100314,2021-11-30,BKN,NYK,26.9,3,9,6,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:2 Def:4),,72-61,72,61
+0022100314,2021-11-30,BKN,NYK,26.97,3,9,2,BKN,BKN,fg_make,41,False,False,Aldridge 1' Running Layup (4 PTS) (Bembry 3 AST),,74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.4,3,8,36,NYK,NYK,tov,11,False,False,,Knicks Turnover: Shot Clock (T#9),74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.63,3,8,22,BKN,BKN,fg_miss,6,False,False,MISS Durant 1' Driving Layup,,74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.68,3,8,19,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:1 Def:4),74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.75,3,8,15,NYK,NYK,fg3_miss,2,False,False,,MISS Quickley 25' 3PT Running Jump Shot,74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.8,3,8,12,NYK,NYK,reb,0,False,False,,Rose REBOUND (Off:1 Def:2),74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.83,3,8,10,NYK,NYK,fg3_miss,1,False,False,,MISS Burks 26' 3PT Jump Shot,74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.85,3,8,9,NYK,BKN,block,97,True,False,block,block,74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.85,3,8,9,NYK,NYK,reb,0,False,False,,Knicks Rebound,74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.85,3,8,9,NYK,NYK,fg_miss,97,True,False,,MISS Quickley Tip Layup Shot,74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.85,3,8,9,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:2 Def:2),74-61,74,61
+0022100314,2021-11-30,BKN,NYK,27.93,3,8,4,NYK,NYK,fg_make,6,False,False,,Randle 2' Driving Layup (12 PTS) (Rose 2 AST),74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.15,3,7,51,BKN,NYK,foul,3,False,False,,Rose L.B.FOUL (P1.T1) (S.Foster),74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.15,3,7,51,BKN,BKN,reb,0,False,False,NETS Rebound,,74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.15,3,7,51,BKN,BKN,fg_miss,98,False,False,MISS Aldridge 2' Cutting Layup Shot,,74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.25,3,7,45,BKN,BKN,fg3_miss,1,True,False,MISS Mills 3PT Jump Shot,,74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.25,3,7,45,BKN,NYK,block,1,True,False,block,block,74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.28,3,7,43,NYK,NYK,reb,0,False,False,,Knicks Rebound,74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.68,3,7,19,NYK,NYK,fg_miss,86,False,False,,MISS Randle 13' Turnaround Fadeaway Shot,74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.75,3,7,15,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:2 Def:5),,74-63,74,63
+0022100314,2021-11-30,BKN,NYK,28.8,3,7,12,BKN,BKN,fg_make,106,False,False,Bembry 1' Running Alley Oop Dunk Shot (6 PTS) (Harden 4 AST),,76-63,76,63
+0022100314,2021-11-30,BKN,NYK,29.12,3,6,53,NYK,NYK,fg3_make,1,False,False,,Quickley 26' 3PT Jump Shot (9 PTS) (Rose 3 AST),76-66,76,66
+0022100314,2021-11-30,BKN,NYK,29.33,3,6,40,BKN,BKN,fg_make,1,False,False,Aldridge 20' Jump Shot (6 PTS) (Harden 5 AST),,78-66,78,66
+0022100314,2021-11-30,BKN,NYK,29.63,3,6,22,NYK,NYK,fg_miss,1,False,False,,MISS Rose 21' Jump Shot,78-66,78,66
+0022100314,2021-11-30,BKN,NYK,29.67,3,6,20,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:2 Def:6),,78-66,78,66
+0022100314,2021-11-30,BKN,NYK,29.98,3,6,1,BKN,NYK,foul,1,False,False,,Rose P.FOUL (P2.T2) (S.Foster),78-66,78,66
+0022100314,2021-11-30,BKN,NYK,30.1,3,5,54,BKN,BKN,fg_make,47,False,False,Durant 16' Turnaround Jump Shot (10 PTS),,80-66,80,66
+0022100314,2021-11-30,BKN,NYK,30.48,3,5,31,NYK,NYK,fg_miss,98,True,False,,MISS Randle 1' Cutting Layup Shot,80-66,80,66
+0022100314,2021-11-30,BKN,NYK,30.48,3,5,31,NYK,BKN,block,98,True,False,block,block,80-66,80,66
+0022100314,2021-11-30,BKN,NYK,30.55,3,5,27,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:2 Def:7),,80-66,80,66
+0022100314,2021-11-30,BKN,NYK,30.63,3,5,22,BKN,BKN,fg_make,63,False,False,Durant 11' Fadeaway Jumper (12 PTS) (Thomas 2 AST),,82-66,82,66
+0022100314,2021-11-30,BKN,NYK,31.12,3,4,53,NYK,NYK,fg_make,98,False,False,,Burks 2' Cutting Layup Shot (15 PTS) (Quickley 2 AST),82-68,82,68
+0022100314,2021-11-30,BKN,NYK,31.27,3,4,44,BKN,BKN,fg_miss,1,False,False,MISS Aldridge 18' Jump Shot,,82-68,82,68
+0022100314,2021-11-30,BKN,NYK,31.32,3,4,41,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:5),82-68,82,68
+0022100314,2021-11-30,BKN,NYK,31.6,3,4,24,NYK,NYK,fg3_miss,79,False,False,,MISS Rose 26' 3PT Pullup Jump Shot,82-68,82,68
+0022100314,2021-11-30,BKN,NYK,31.67,3,4,20,BKN,BKN,reb,0,False,False,Aldridge REBOUND (Off:0 Def:4),,82-68,82,68
+0022100314,2021-11-30,BKN,NYK,31.88,3,4,7,BKN,BKN,fg_make,101,False,False,Thomas 11' Driving Floating Jump Shot (12 PTS) (Durant 7 AST),,84-68,84,68
+0022100314,2021-11-30,BKN,NYK,32.1,3,3,54,NYK,NYK,fg_make,75,False,False,,Randle 1' Driving Finger Roll Layup (14 PTS) (Rose 4 AST),84-70,84,70
+0022100314,2021-11-30,BKN,NYK,32.42,3,3,35,BKN,BKN,fg3_miss,80,False,False,MISS Harden 24' 3PT Step Back Jump Shot,,84-70,84,70
+0022100314,2021-11-30,BKN,NYK,32.47,3,3,32,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:2 Def:3),84-70,84,70
+0022100314,2021-11-30,BKN,NYK,32.72,3,3,17,NYK,NYK,ft_make,12,False,False,,Burks Free Throw 2 of 2 (17 PTS),84-72,84,72
+0022100314,2021-11-30,BKN,NYK,32.72,3,3,17,NYK,NYK,ft_make,11,False,False,,Burks Free Throw 1 of 2 (16 PTS),84-71,84,71
+0022100314,2021-11-30,BKN,NYK,32.72,3,3,17,NYK,BKN,foul,2,False,False,Thomas S.FOUL (P1.T1) (M.Lindsay),,84-70,84,70
+0022100314,2021-11-30,BKN,NYK,32.93,3,3,4,BKN,BKN,tov,37,False,False,Durant Offensive Foul Turnover (P1.T7),,84-72,84,72
+0022100314,2021-11-30,BKN,NYK,32.93,3,3,4,NYK,BKN,foul,4,False,False,Durant OFF.Foul (P3) (J.Goldenberg),,84-72,84,72
+0022100314,2021-11-30,BKN,NYK,33.2,3,2,48,NYK,NYK,fg_make,98,False,False,,Randle 3' Cutting Layup Shot (16 PTS) (Rose 5 AST),84-74,84,74
+0022100314,2021-11-30,BKN,NYK,33.23,3,2,46,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,84-74,84,74
+0022100314,2021-11-30,BKN,NYK,33.52,3,2,29,BKN,BKN,fg_make,78,False,False,Durant 14' Floating Jump Shot (14 PTS),,86-74,86,74
+0022100314,2021-11-30,BKN,NYK,33.75,3,2,15,NYK,BKN,foul,1,False,False,Millsap P.FOUL (P1.T2) (M.Lindsay),,86-74,86,74
+0022100314,2021-11-30,BKN,NYK,33.88,3,2,7,NYK,NYK,fg_make,75,False,False,,Rose 1' Driving Finger Roll Layup (14 PTS),86-76,86,76
+0022100314,2021-11-30,BKN,NYK,34.07,3,1,56,BKN,NYK,foul,1,False,False,,Fournier P.FOUL (P2.T3) (M.Lindsay),86-76,86,76
+0022100314,2021-11-30,BKN,NYK,34.25,3,1,45,BKN,BKN,fg3_miss,1,False,False,MISS Mills 24' 3PT Jump Shot,,86-76,86,76
+0022100314,2021-11-30,BKN,NYK,34.32,3,1,41,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:6),86-76,86,76
+0022100314,2021-11-30,BKN,NYK,34.47,3,1,32,NYK,NYK,fg3_make,1,False,False,,Fournier 3PT Jump Shot (7 PTS) (Randle 7 AST),86-79,86,79
+0022100314,2021-11-30,BKN,NYK,34.7,3,1,18,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (16 PTS),,88-79,88,79
+0022100314,2021-11-30,BKN,NYK,34.7,3,1,18,BKN,NYK,foul,1,False,False,,Randle P.FOUL (P3.PN) (S.Foster),86-79,86,79
+0022100314,2021-11-30,BKN,NYK,34.7,3,1,18,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (15 PTS),,87-79,87,79
+0022100314,2021-11-30,BKN,NYK,34.97,3,1,2,NYK,NYK,fg3_make,1,False,False,,Fournier 26' 3PT Jump Shot (10 PTS) (Randle 8 AST),88-82,88,82
+0022100314,2021-11-30,BKN,NYK,35.2,3,0,48,BKN,BKN,fg3_miss,79,False,False,MISS Mills 24' 3PT Pullup Jump Shot,,88-82,88,82
+0022100314,2021-11-30,BKN,NYK,35.25,3,0,45,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:7),88-82,88,82
+0022100314,2021-11-30,BKN,NYK,35.42,3,0,35,NYK,BKN,foul,1,False,False,Millsap P.FOUL (P2.T3) (S.Foster),,88-82,88,82
+0022100314,2021-11-30,BKN,NYK,35.5,3,0,30,NYK,NYK,fg_make,80,False,False,,Randle 9' Step Back Jump Shot (18 PTS),88-84,88,84
+0022100314,2021-11-30,BKN,NYK,35.92,3,0,5,BKN,BKN,fg3_miss,1,False,False,MISS Thomas 25' 3PT Jump Shot,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,35.95,3,0,3,BKN,BKN,reb,0,False,False,Millsap REBOUND (Off:1 Def:2),,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,35.98,3,0,1,BKN,BKN,fg_miss,44,False,False,MISS Millsap Reverse Layup,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.0,3,0,0,BKN,BKN,reb,0,False,False,Millsap REBOUND (Off:2 Def:2),,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.0,3,0,0,BKN,BKN,fg_miss,97,False,False,MISS Millsap 1' Tip Layup Shot,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.0,3,0,0,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:8),88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.0,3,0,0,NYK,,period_end,0,False,False,,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.0,4,12,0,NYK,,period_start,0,False,False,,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.3,4,11,42,NYK,NYK,fg_miss,63,False,False,,MISS Randle 15' Fadeaway Jumper,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.37,4,11,38,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:2 Def:8),,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.47,4,11,32,BKN,BKN,ft_miss,12,False,False,MISS Bembry Free Throw 2 of 2,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.47,4,11,32,BKN,BKN,reb,1,False,False,NETS Rebound,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.47,4,11,32,BKN,BKN,ft_miss,11,False,False,MISS Bembry Free Throw 1 of 2,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.47,4,11,32,BKN,NYK,foul,2,False,False,,Fournier S.FOUL (P3.T1) (S.Foster),88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.55,4,11,27,BKN,BKN,reb,0,False,False,Millsap REBOUND (Off:3 Def:2),,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.55,4,11,27,BKN,BKN,fg_miss,97,False,False,MISS Millsap Tip Layup Shot,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.58,4,11,25,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:2 Def:4),88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.9,4,11,6,NYK,NYK,fg_miss,101,False,False,,MISS Quickley 12' Driving Floating Jump Shot,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.93,4,11,4,BKN,NYK,foul,3,False,False,,Toppin L.B.FOUL (P3.T2) (J.Goldenberg),88-84,88,84
+0022100314,2021-11-30,BKN,NYK,36.93,4,11,4,BKN,BKN,reb,0,False,False,NETS Rebound,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,37.12,4,10,53,BKN,BKN,fg3_miss,80,False,False,MISS Harden 25' 3PT Step Back Jump Shot,,88-84,88,84
+0022100314,2021-11-30,BKN,NYK,37.18,4,10,49,NYK,NYK,reb,0,False,False,,Rose REBOUND (Off:1 Def:3),88-84,88,84
+0022100314,2021-11-30,BKN,NYK,37.33,4,10,40,NYK,NYK,fg3_make,1,False,False,,Burks 25' 3PT Jump Shot (20 PTS) (Rose 6 AST),88-87,88,87
+0022100314,2021-11-30,BKN,NYK,37.58,4,10,25,BKN,BKN,tov,37,False,False,Johnson Offensive Foul Turnover (P2.T8),,88-87,88,87
+0022100314,2021-11-30,BKN,NYK,37.58,4,10,25,NYK,BKN,foul,4,False,False,Johnson OFF.Foul (P1) (S.Foster),,88-87,88,87
+0022100314,2021-11-30,BKN,NYK,37.9,4,10,6,NYK,NYK,fg3_miss,79,False,False,,MISS Rose 25' 3PT Pullup Jump Shot,88-87,88,87
+0022100314,2021-11-30,BKN,NYK,37.95,4,10,3,BKN,BKN,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,88-87,88,87
+0022100314,2021-11-30,BKN,NYK,38.1,4,9,54,BKN,BKN,fg3_miss,1,False,False,MISS Durant 25' 3PT Jump Shot,,88-87,88,87
+0022100314,2021-11-30,BKN,NYK,38.15,4,9,51,BKN,BKN,reb,0,False,False,Bembry REBOUND (Off:2 Def:2),,88-87,88,87
+0022100314,2021-11-30,BKN,NYK,38.27,4,9,44,BKN,BKN,fg_make,101,False,False,Harden 7' Driving Floating Jump Shot (32 PTS) (Durant 8 AST),,90-87,90,87
+0022100314,2021-11-30,BKN,NYK,38.62,4,9,23,NYK,NYK,fg_make,79,False,False,,Burks 19' Pullup Jump Shot (22 PTS) (Toppin 1 AST),90-89,90,89
+0022100314,2021-11-30,BKN,NYK,38.92,4,9,5,BKN,BKN,fg_miss,79,False,False,MISS Durant 17' Pullup Jump Shot,,90-89,90,89
+0022100314,2021-11-30,BKN,NYK,38.95,4,9,3,NYK,NYK,reb,0,False,False,,Noel REBOUND (Off:1 Def:2),90-89,90,89
+0022100314,2021-11-30,BKN,NYK,39.1,4,8,54,NYK,NYK,fg3_make,1,False,False,,Quickley 28' 3PT Jump Shot (12 PTS) (Rose 7 AST),90-92,90,92
+0022100314,2021-11-30,BKN,NYK,39.12,4,8,53,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,90-92,90,92
+0022100314,2021-11-30,BKN,NYK,39.47,4,8,32,BKN,BKN,fg3_make,1,False,False,Johnson 24' 3PT Jump Shot (5 PTS) (Millsap 1 AST),,93-92,93,92
+0022100314,2021-11-30,BKN,NYK,39.9,4,8,6,NYK,NYK,ft_make,12,False,False,,Toppin Free Throw 2 of 2 (6 PTS),93-94,93,94
+0022100314,2021-11-30,BKN,NYK,39.9,4,8,6,NYK,NYK,ft_make,11,False,False,,Toppin Free Throw 1 of 2 (5 PTS),93-93,93,93
+0022100314,2021-11-30,BKN,NYK,39.9,4,8,6,NYK,BKN,foul,2,False,False,Millsap S.FOUL (P3.T1) (S.Foster),,93-92,93,92
+0022100314,2021-11-30,BKN,NYK,40.17,4,7,50,BKN,BKN,fg_make,6,False,False,Harden 1' Driving Layup (34 PTS),,95-94,95,94
+0022100314,2021-11-30,BKN,NYK,40.5,4,7,30,NYK,NYK,fg3_miss,79,False,False,,MISS Burks 27' 3PT Pullup Jump Shot,95-94,95,94
+0022100314,2021-11-30,BKN,NYK,40.53,4,7,28,BKN,BKN,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,95-94,95,94
+0022100314,2021-11-30,BKN,NYK,40.55,4,7,27,BKN,NYK,foul,28,False,False,,Quickley Personal Take Foul (P1.T3) (J.Goldenberg),95-94,95,94
+0022100314,2021-11-30,BKN,NYK,40.78,4,7,13,BKN,BKN,fg3_miss,1,False,False,MISS Durant 25' 3PT Jump Shot,,95-94,95,94
+0022100314,2021-11-30,BKN,NYK,40.85,4,7,9,NYK,NYK,reb,0,False,False,,Toppin REBOUND (Off:0 Def:2),95-94,95,94
+0022100314,2021-11-30,BKN,NYK,41.23,4,6,46,NYK,NYK,fg_make,80,False,False,,Randle 21' Step Back Jump Shot (20 PTS),95-96,95,96
+0022100314,2021-11-30,BKN,NYK,41.43,4,6,34,BKN,NYK,steal,2,False,True,steal,steal,95-96,95,96
+0022100314,2021-11-30,BKN,NYK,41.43,4,6,34,BKN,BKN,tov,2,False,True,Harden Lost Ball Turnover (P5.T9),,95-96,95,96
+0022100314,2021-11-30,BKN,NYK,41.52,4,6,29,NYK,NYK,fg_make,50,False,False,,Toppin 2' Running Dunk (8 PTS) (Rose 8 AST),95-98,95,98
+0022100314,2021-11-30,BKN,NYK,41.75,4,6,15,BKN,BKN,fg_make,1,False,False,Aldridge 19' Jump Shot (8 PTS) (Durant 9 AST),,97-98,97,98
+0022100314,2021-11-30,BKN,NYK,42.18,4,5,49,NYK,BKN,steal,2,False,True,steal,steal,97-98,97,98
+0022100314,2021-11-30,BKN,NYK,42.18,4,5,49,NYK,NYK,tov,2,False,True,,Quickley Lost Ball Turnover (P1.T10),97-98,97,98
+0022100314,2021-11-30,BKN,NYK,42.25,4,5,45,NYK,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (17 PTS),,98-98,98,98
+0022100314,2021-11-30,BKN,NYK,42.25,4,5,45,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.5 Short 0),97-98,97,98
+0022100314,2021-11-30,BKN,NYK,42.25,4,5,45,BKN,NYK,foul,2,False,False,,Rose S.FOUL (P3.T4) (M.Lindsay),97-98,97,98
+0022100314,2021-11-30,BKN,NYK,42.25,4,5,45,NYK,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (18 PTS),,99-98,99,98
+0022100314,2021-11-30,BKN,NYK,42.52,4,5,29,NYK,NYK,fg_miss,6,False,False,,MISS Randle 1' Driving Layup,99-98,99,98
+0022100314,2021-11-30,BKN,NYK,42.58,4,5,25,BKN,BKN,reb,0,False,False,Bembry REBOUND (Off:2 Def:3),,99-98,99,98
+0022100314,2021-11-30,BKN,NYK,42.73,4,5,16,BKN,BKN,fg_make,1,False,False,Durant 15' Jump Shot (20 PTS) (Harden 6 AST),,101-98,101,98
+0022100314,2021-11-30,BKN,NYK,43.05,4,4,57,NYK,NYK,fg_miss,101,True,False,,MISS Rose 8' Driving Floating Jump Shot,101-98,101,98
+0022100314,2021-11-30,BKN,NYK,43.05,4,4,57,NYK,BKN,block,101,True,False,block,block,101-98,101,98
+0022100314,2021-11-30,BKN,NYK,43.12,4,4,53,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:3 Def:4),101-98,101,98
+0022100314,2021-11-30,BKN,NYK,43.17,4,4,50,NYK,NYK,fg_make,47,False,False,,Rose 4' Turnaround Jump Shot (16 PTS),101-100,101,100
+0022100314,2021-11-30,BKN,NYK,43.37,4,4,38,BKN,NYK,violation,5,False,False,,Toppin Violation:Kicked Ball (J.Goldenberg),101-100,101,100
+0022100314,2021-11-30,BKN,NYK,43.53,4,4,28,BKN,BKN,fg_miss,79,False,False,MISS Durant 16' Pullup Jump Shot,,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,43.58,4,4,25,NYK,NYK,reb,0,False,False,,Rose REBOUND (Off:1 Def:4),101-100,101,100
+0022100314,2021-11-30,BKN,NYK,43.85,4,4,9,NYK,BKN,foul,1,False,False,Harden P.FOUL (P1.T2) (S.Foster),,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,43.98,4,4,1,NYK,BKN,block,5,True,False,block,block,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,43.98,4,4,1,NYK,NYK,fg_miss,5,True,False,,MISS Robinson 1' Layup,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,43.98,4,4,1,NYK,NYK,reb,0,False,False,,Knicks Rebound,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,44.02,4,3,59,NYK,NYK,fg3_miss,1,False,False,,MISS Randle 3PT Jump Shot,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,44.07,4,3,56,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:4),,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,44.22,4,3,47,BKN,BKN,fg_miss,1,False,False,MISS Aldridge 20' Jump Shot,,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,44.28,4,3,43,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:9),101-100,101,100
+0022100314,2021-11-30,BKN,NYK,44.43,4,3,34,NYK,NYK,fg3_miss,1,False,False,,MISS Burks 3PT Jump Shot,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,44.48,4,3,31,NYK,NYK,reb,0,False,False,,Knicks Rebound,101-100,101,100
+0022100314,2021-11-30,BKN,NYK,44.6,4,3,24,NYK,NYK,fg_make,57,False,False,,Randle 8' Driving Hook Shot (22 PTS) (Burks 3 AST),101-102,101,102
+0022100314,2021-11-30,BKN,NYK,44.63,4,3,22,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 5 Short 0),,101-102,101,102
+0022100314,2021-11-30,BKN,NYK,44.9,4,3,6,BKN,BKN,fg_make,79,False,False,Durant 12' Pullup Jump Shot (22 PTS) (Harden 7 AST),,103-102,103,102
+0022100314,2021-11-30,BKN,NYK,45.33,4,2,40,NYK,NYK,fg3_make,1,False,False,,Burks 26' 3PT Jump Shot (25 PTS) (Rose 9 AST),103-105,103,105
+0022100314,2021-11-30,BKN,NYK,45.83,4,2,10,BKN,BKN,fg_make,6,False,False,Mills 1' Driving Layup (10 PTS) (Johnson 1 AST),,105-105,105,105
+0022100314,2021-11-30,BKN,NYK,46.22,4,1,47,NYK,NYK,fg_miss,86,False,False,,MISS Randle 9' Turnaround Fadeaway Shot,105-105,105,105
+0022100314,2021-11-30,BKN,NYK,46.27,4,1,44,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:5),,105-105,105,105
+0022100314,2021-11-30,BKN,NYK,46.38,4,1,37,BKN,BKN,fg_make,79,False,False,Durant 18' Pullup Jump Shot (24 PTS) (Harden 8 AST),,107-105,107,105
+0022100314,2021-11-30,BKN,NYK,46.4,4,1,36,BKN,BKN,ft_make,16,False,False,Durant Free Throw Technical (25 PTS),,108-105,108,105
+0022100314,2021-11-30,BKN,NYK,46.4,4,1,36,BKN,NYK,foul,11,False,False,,Randle T.FOUL (P3.T4) (M.Lindsay),107-105,107,105
+0022100314,2021-11-30,BKN,NYK,46.4,4,1,36,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.6 Short 0),107-105,107,105
+0022100314,2021-11-30,BKN,NYK,46.58,4,1,25,NYK,NYK,fg3_miss,1,False,False,,MISS Rose 3PT Jump Shot,108-105,108,105
+0022100314,2021-11-30,BKN,NYK,46.63,4,1,22,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:2 Def:4),108-105,108,105
+0022100314,2021-11-30,BKN,NYK,46.72,4,1,17,NYK,NYK,tov,2,False,True,,Randle Lost Ball Turnover (P3.T11),108-105,108,105
+0022100314,2021-11-30,BKN,NYK,46.72,4,1,17,NYK,BKN,steal,2,False,True,steal,steal,108-105,108,105
+0022100314,2021-11-30,BKN,NYK,47.08,4,0,55,BKN,BKN,fg3_miss,80,False,False,MISS Harden 33' 3PT Step Back Jump Shot,,108-105,108,105
+0022100314,2021-11-30,BKN,NYK,47.17,4,0,50,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:2 Def:5),108-105,108,105
+0022100314,2021-11-30,BKN,NYK,47.18,4,0,49,NYK,NYK,fg_make,50,False,False,,Randle Running Dunk (24 PTS) (Burks 4 AST),108-107,108,107
+0022100314,2021-11-30,BKN,NYK,47.43,4,0,34,BKN,BKN,fg_miss,63,False,False,MISS Durant 5' Fadeaway Jumper,,108-107,108,107
+0022100314,2021-11-30,BKN,NYK,47.45,4,0,33,BKN,BKN,reb,0,False,False,NETS Rebound,,108-107,108,107
+0022100314,2021-11-30,BKN,NYK,47.45,4,0,33,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 6 Short 0),,108-107,108,107
+0022100314,2021-11-30,BKN,NYK,47.55,4,0,27,BKN,NYK,foul,2,False,False,,Randle S.FOUL (P4.PN) (S.Foster),108-107,108,107
+0022100314,2021-11-30,BKN,NYK,47.55,4,0,27,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (26 PTS),,109-107,109,107
+0022100314,2021-11-30,BKN,NYK,47.55,4,0,27,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (27 PTS),,110-107,110,107
+0022100314,2021-11-30,BKN,NYK,47.68,4,0,19,NYK,BKN,foul,1,False,False,Bembry P.FOUL (P2.T3) (M.Lindsay),,110-107,110,107
+0022100314,2021-11-30,BKN,NYK,47.68,4,0,19,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.7 Short 0),110-107,110,107
+0022100314,2021-11-30,BKN,NYK,47.72,4,0,17,NYK,NYK,fg3_make,1,False,False,,Fournier 27' 3PT Jump Shot (13 PTS) (Burks 5 AST),110-110,110,110
+0022100314,2021-11-30,BKN,NYK,47.72,4,0,17,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 7 Short 0),,110-110,110,110
+0022100314,2021-11-30,BKN,NYK,47.97,4,0,2,BKN,NYK,foul,2,False,False,,Robinson S.FOUL (P4.PN) (J.Goldenberg),110-110,110,110
+0022100314,2021-11-30,BKN,NYK,47.97,4,0,2,BKN,BKN,ft_make,11,False,False,Johnson Free Throw 1 of 2 (6 PTS),,111-110,111,110
+0022100314,2021-11-30,BKN,NYK,47.97,4,0,2,BKN,BKN,ft_make,12,False,False,Johnson Free Throw 2 of 2 (7 PTS),,112-110,112,110
+0022100314,2021-11-30,BKN,NYK,48.0,4,0,0,NYK,NYK,fg3_miss,103,False,False,,MISS Fournier 45' 3PT Running Pull-Up Jump Shot,112-110,112,110
+0022100314,2021-11-30,BKN,NYK,48.0,4,0,0,NYK,,period_end,0,False,False,,,112-110,112,110
+0022100314,2021-11-30,BKN,NYK,48.0,4,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,112-110,112,110

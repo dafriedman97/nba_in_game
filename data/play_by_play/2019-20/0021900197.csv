@@ -1,0 +1,442 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900197,2019-11-18,LAC,OKC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900197,2019-11-18,LAC,OKC,0.0,1,12,0,,LAC,jump_ball,0,False,False,Jump Ball Zubac vs. Adams: Tip to Harkless,,0-0,0,0
+0021900197,2019-11-18,LAC,OKC,0.33,1,11,40,LAC,LAC,fg_make,57,False,False,George 5' Driving Hook Shot (2 PTS) (Harkless 1 AST),,2-0,2,0
+0021900197,2019-11-18,LAC,OKC,0.58,1,11,25,OKC,OKC,fg_make,108,False,False,,Gilgeous-Alexander 3' Cutting Dunk Shot (2 PTS) (Paul 1 AST),2-2,2,2
+0021900197,2019-11-18,LAC,OKC,0.92,1,11,5,LAC,LAC,tov,1,False,True,Zubac Bad Pass Turnover (P1.T1),,2-2,2,2
+0021900197,2019-11-18,LAC,OKC,0.92,1,11,5,LAC,OKC,steal,1,False,True,steal,steal,2-2,2,2
+0021900197,2019-11-18,LAC,OKC,1.13,1,10,52,OKC,OKC,fg_miss,1,False,False,,MISS Gallinari 19' Jump Shot,2-2,2,2
+0021900197,2019-11-18,LAC,OKC,1.17,1,10,50,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:0 Def:1),,2-2,2,2
+0021900197,2019-11-18,LAC,OKC,1.32,1,10,41,LAC,LAC,fg_miss,5,False,False,MISS Mann 4' Layup,,2-2,2,2
+0021900197,2019-11-18,LAC,OKC,1.38,1,10,37,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:1),2-2,2,2
+0021900197,2019-11-18,LAC,OKC,1.55,1,10,27,OKC,OKC,fg3_miss,1,False,False,,MISS Gallinari 24' 3PT Jump Shot,2-2,2,2
+0021900197,2019-11-18,LAC,OKC,1.6,1,10,24,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:1),,2-2,2,2
+0021900197,2019-11-18,LAC,OKC,1.72,1,10,17,LAC,LAC,fg_make,80,False,False,George 18' Step Back Jump Shot (4 PTS),,4-2,4,2
+0021900197,2019-11-18,LAC,OKC,2.22,1,9,47,OKC,OKC,fg_make,5,False,False,,Adams 3' Layup (2 PTS) (Gallinari 1 AST),4-4,4,4
+0021900197,2019-11-18,LAC,OKC,2.37,1,9,38,LAC,OKC,foul,1,False,False,,Gallinari P.FOUL (P1.T1) (S.Twardoski),4-4,4,4
+0021900197,2019-11-18,LAC,OKC,2.55,1,9,27,LAC,LAC,tov,1,False,True,George Bad Pass Turnover (P1.T2),,4-4,4,4
+0021900197,2019-11-18,LAC,OKC,2.55,1,9,27,LAC,OKC,steal,1,False,True,steal,steal,4-4,4,4
+0021900197,2019-11-18,LAC,OKC,2.72,1,9,17,OKC,OKC,fg_miss,1,False,False,,MISS Paul 12' Jump Shot,4-4,4,4
+0021900197,2019-11-18,LAC,OKC,2.8,1,9,12,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:0 Def:1),,4-4,4,4
+0021900197,2019-11-18,LAC,OKC,2.88,1,9,7,LAC,LAC,fg_make,80,False,False,George 20' Step Back Jump Shot (6 PTS),,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.28,1,8,43,OKC,OKC,fg_miss,5,False,False,,MISS Gilgeous-Alexander 2' Layup,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.33,1,8,40,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:1),,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.5,1,8,30,LAC,LAC,fg3_miss,1,False,False,MISS Harkless 24' 3PT Jump Shot,,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.53,1,8,28,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:0 Def:1),6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.67,1,8,20,OKC,OKC,fg_miss,5,True,False,,MISS Gallinari 3' Layup,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.67,1,8,20,OKC,LAC,block,5,True,False,block,block,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.72,1,8,17,LAC,LAC,reb,0,False,False,Harkless REBOUND (Off:0 Def:1),,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.77,1,8,14,LAC,LAC,fg3_miss,1,False,False,MISS Beverley 24' 3PT Jump Shot,,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.8,1,8,12,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:1 Def:1),,6-4,6,4
+0021900197,2019-11-18,LAC,OKC,3.83,1,8,10,LAC,LAC,fg_make,72,False,False,Zubac 1' Putback Layup (2 PTS),,8-4,8,4
+0021900197,2019-11-18,LAC,OKC,4.02,1,7,59,OKC,OKC,fg_miss,1,False,False,,MISS Gallinari 21' Jump Shot,8-4,8,4
+0021900197,2019-11-18,LAC,OKC,4.07,1,7,56,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:2),,8-4,8,4
+0021900197,2019-11-18,LAC,OKC,4.33,1,7,40,LAC,LAC,fg3_miss,1,False,False,MISS Beverley 25' 3PT Jump Shot,,8-4,8,4
+0021900197,2019-11-18,LAC,OKC,4.38,1,7,37,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:1),8-4,8,4
+0021900197,2019-11-18,LAC,OKC,4.5,1,7,30,OKC,OKC,fg_make,78,False,False,,Gilgeous-Alexander 10' Floating Jump Shot (4 PTS) (Adams 1 AST),8-6,8,6
+0021900197,2019-11-18,LAC,OKC,4.9,1,7,6,LAC,LAC,fg3_miss,1,False,False,MISS Zubac 27' 3PT Jump Shot,,8-6,8,6
+0021900197,2019-11-18,LAC,OKC,4.95,1,7,3,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:1),8-6,8,6
+0021900197,2019-11-18,LAC,OKC,5.02,1,6,59,OKC,OKC,fg_miss,58,False,False,,MISS Adams 5' Turnaround Hook Shot,8-6,8,6
+0021900197,2019-11-18,LAC,OKC,5.07,1,6,56,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:0 Def:2),,8-6,8,6
+0021900197,2019-11-18,LAC,OKC,5.25,1,6,45,LAC,LAC,fg3_miss,79,False,False,MISS George 26' 3PT Pullup Jump Shot,,8-6,8,6
+0021900197,2019-11-18,LAC,OKC,5.28,1,6,43,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:2),8-6,8,6
+0021900197,2019-11-18,LAC,OKC,5.52,1,6,29,OKC,OKC,fg_make,108,False,False,,Adams Cutting Dunk Shot (4 PTS) (Paul 2 AST),8-8,8,8
+0021900197,2019-11-18,LAC,OKC,5.75,1,6,15,LAC,LAC,fg_miss,1,False,False,MISS Harkless 21' Jump Shot,,8-8,8,8
+0021900197,2019-11-18,LAC,OKC,5.8,1,6,12,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:2),8-8,8,8
+0021900197,2019-11-18,LAC,OKC,6.03,1,5,58,OKC,OKC,fg_miss,5,False,False,,MISS Adams 3' Layup,8-8,8,8
+0021900197,2019-11-18,LAC,OKC,6.08,1,5,55,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:1 Def:2),,8-8,8,8
+0021900197,2019-11-18,LAC,OKC,6.13,1,5,52,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,8-8,8,8
+0021900197,2019-11-18,LAC,OKC,6.33,1,5,40,LAC,LAC,fg_make,7,False,False,Zubac 2' Dunk (4 PTS) (George 1 AST),,10-8,10,8
+0021900197,2019-11-18,LAC,OKC,6.6,1,5,24,OKC,OKC,fg_make,105,False,False,,Gilgeous-Alexander 11' Turnaround Fadeaway Bank Jump Shot (6 PTS),10-10,10,10
+0021900197,2019-11-18,LAC,OKC,6.87,1,5,8,LAC,LAC,fg3_miss,79,False,False,MISS George 27' 3PT Pullup Jump Shot,,10-10,10,10
+0021900197,2019-11-18,LAC,OKC,6.88,1,5,7,OKC,OKC,reb,0,False,False,,Thunder Rebound,10-10,10,10
+0021900197,2019-11-18,LAC,OKC,7.17,1,4,50,OKC,OKC,fg3_miss,1,False,False,,MISS Gallinari 31' 3PT Jump Shot,10-10,10,10
+0021900197,2019-11-18,LAC,OKC,7.2,1,4,48,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:1 Def:0),10-10,10,10
+0021900197,2019-11-18,LAC,OKC,7.25,1,4,45,OKC,OKC,fg3_miss,1,False,False,,MISS Ferguson 3PT Jump Shot,10-10,10,10
+0021900197,2019-11-18,LAC,OKC,7.28,1,4,43,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:1 Def:3),,10-10,10,10
+0021900197,2019-11-18,LAC,OKC,7.63,1,4,22,LAC,LAC,fg_miss,71,False,False,MISS Mann 4' Finger Roll Layup,,10-10,10,10
+0021900197,2019-11-18,LAC,OKC,7.72,1,4,17,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:2 Def:3),,10-10,10,10
+0021900197,2019-11-18,LAC,OKC,7.72,1,4,17,LAC,LAC,fg_make,97,False,False,Zubac 1' Tip Layup Shot (6 PTS),,12-10,12,10
+0021900197,2019-11-18,LAC,OKC,7.93,1,4,4,OKC,OKC,tov,1,False,True,,Gilgeous-Alexander Bad Pass Turnover (P1.T1),12-10,12,10
+0021900197,2019-11-18,LAC,OKC,7.93,1,4,4,OKC,LAC,steal,1,False,True,steal,steal,12-10,12,10
+0021900197,2019-11-18,LAC,OKC,8.12,1,3,53,LAC,LAC,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,12-10,12,10
+0021900197,2019-11-18,LAC,OKC,8.17,1,3,50,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:1 Def:1),12-10,12,10
+0021900197,2019-11-18,LAC,OKC,8.33,1,3,40,OKC,OKC,fg_make,79,False,False,,Schroder 18' Pullup Jump Shot (2 PTS),12-12,12,12
+0021900197,2019-11-18,LAC,OKC,8.7,1,3,18,LAC,LAC,fg3_miss,1,False,False,MISS Mann 3PT Jump Shot,,12-12,12,12
+0021900197,2019-11-18,LAC,OKC,8.7,1,3,18,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:3 Def:3),,12-12,12,12
+0021900197,2019-11-18,LAC,OKC,8.7,1,3,18,LAC,OKC,foul,2,False,False,,Noel S.FOUL (P1.T2) (J.Tiven),12-12,12,12
+0021900197,2019-11-18,LAC,OKC,8.7,1,3,18,LAC,LAC,ft_make,11,False,False,Zubac Free Throw 1 of 2 (7 PTS),,13-12,13,12
+0021900197,2019-11-18,LAC,OKC,8.7,1,3,18,LAC,LAC,ft_make,12,False,False,Zubac Free Throw 2 of 2 (8 PTS),,14-12,14,12
+0021900197,2019-11-18,LAC,OKC,9.02,1,2,59,OKC,OKC,fg_make,6,False,False,,Nader 3' Driving Layup (2 PTS) (Noel 1 AST),14-14,14,14
+0021900197,2019-11-18,LAC,OKC,9.02,1,2,59,OKC,LAC,foul,2,False,False,Zubac S.FOUL (P1.T1) (J.Tiven),,14-14,14,14
+0021900197,2019-11-18,LAC,OKC,9.02,1,2,59,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),14-14,14,14
+0021900197,2019-11-18,LAC,OKC,9.02,1,2,59,OKC,OKC,ft_make,10,False,False,,Nader Free Throw 1 of 1 (3 PTS),14-15,14,15
+0021900197,2019-11-18,LAC,OKC,9.33,1,2,40,LAC,LAC,fg3_make,1,False,False,Williams 25' 3PT Jump Shot (3 PTS) (McGruder 1 AST),,17-15,17,15
+0021900197,2019-11-18,LAC,OKC,9.55,1,2,27,OKC,OKC,tov,45,False,False,,Schroder Out of Bounds - Bad Pass Turnover Turnover (P1.T2),17-15,17,15
+0021900197,2019-11-18,LAC,OKC,9.88,1,2,7,LAC,LAC,fg_miss,75,False,False,MISS Williams 2' Driving Finger Roll Layup,,17-15,17,15
+0021900197,2019-11-18,LAC,OKC,10.02,1,1,59,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:0),,19-15,19,15
+0021900197,2019-11-18,LAC,OKC,10.02,1,1,59,LAC,LAC,fg_make,72,False,False,Harrell 1' Putback Layup (2 PTS),,19-15,19,15
+0021900197,2019-11-18,LAC,OKC,10.25,1,1,45,OKC,OKC,fg_make,79,False,False,,Schroder 15' Pullup Jump Shot (4 PTS) (Noel 2 AST),19-17,19,17
+0021900197,2019-11-18,LAC,OKC,10.47,1,1,32,LAC,LAC,fg3_miss,1,False,False,MISS Robinson 27' 3PT Jump Shot,,19-17,19,17
+0021900197,2019-11-18,LAC,OKC,10.48,1,1,31,LAC,LAC,reb,0,False,False,McGruder REBOUND (Off:1 Def:0),,19-17,19,17
+0021900197,2019-11-18,LAC,OKC,10.6,1,1,24,LAC,OKC,violation,5,False,False,,Ferguson Violation:Kicked Ball (S.Twardoski),19-17,19,17
+0021900197,2019-11-18,LAC,OKC,10.62,1,1,23,LAC,LAC,fg_make,5,False,False,Harrell 3' Layup (4 PTS) (Williams 1 AST),,21-17,21,17
+0021900197,2019-11-18,LAC,OKC,10.62,1,1,23,LAC,OKC,foul,2,False,False,,Noel S.FOUL (P2.T3) (S.Twardoski),21-17,21,17
+0021900197,2019-11-18,LAC,OKC,10.62,1,1,23,LAC,LAC,ft_miss,10,False,False,MISS Harrell Free Throw 1 of 1,,21-17,21,17
+0021900197,2019-11-18,LAC,OKC,10.77,1,1,14,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:1 Def:2),21-17,21,17
+0021900197,2019-11-18,LAC,OKC,10.88,1,1,7,OKC,OKC,fg_miss,78,False,False,,MISS Schroder 11' Floating Jump Shot,21-17,21,17
+0021900197,2019-11-18,LAC,OKC,10.93,1,1,4,LAC,LAC,reb,0,False,False,Green REBOUND (Off:0 Def:1),,21-17,21,17
+0021900197,2019-11-18,LAC,OKC,11.02,1,0,59,LAC,LAC,fg_make,80,False,False,Williams 12' Step Back Jump Shot (5 PTS),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,11.33,1,0,40,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 3PT Jump Shot,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,11.38,1,0,37,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:1),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,11.45,1,0,33,LAC,LAC,tov,40,False,False,Williams Out of Bounds Lost Ball Turnover (P1.T3),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,11.78,1,0,13,OKC,LAC,foul,1,False,False,Green P.FOUL (P1.T2) (J.Goble),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,11.98,1,0,1,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 27' 3PT Jump Shot,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.0,1,0,0,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:2),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.0,1,0,0,LAC,,period_end,0,False,False,,,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.0,2,12,0,LAC,,period_start,0,False,False,,,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.2,2,11,48,OKC,LAC,foul,1,False,False,McGruder P.FOUL (P1.T1) (J.Tiven),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.33,2,11,40,OKC,OKC,fg_miss,79,False,False,,MISS Schroder 18' Pullup Jump Shot,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.33,2,11,40,OKC,OKC,reb,0,False,False,,Thunder Rebound,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.33,2,11,40,OKC,LAC,foul,3,False,False,Robinson L.B.FOUL (P1.T2) (J.Goble),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.6,2,11,24,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 24' 3PT Jump Shot,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.63,2,11,22,LAC,LAC,reb,0,False,False,McGruder REBOUND (Off:1 Def:1),,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.72,2,11,17,LAC,LAC,fg_miss,78,False,False,MISS Harrell 11' Floating Jump Shot,,23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.77,2,11,14,OKC,OKC,reb,0,False,False,,Nader REBOUND (Off:0 Def:1),23-17,23,17
+0021900197,2019-11-18,LAC,OKC,12.87,2,11,8,OKC,OKC,fg_make,103,False,False,,Paul 12' Running Pull-Up Jump Shot (2 PTS),23-19,23,19
+0021900197,2019-11-18,LAC,OKC,13.12,2,10,53,LAC,OKC,foul,2,False,False,,Adams S.FOUL (P1.T1) (J.Tiven),23-19,23,19
+0021900197,2019-11-18,LAC,OKC,13.12,2,10,53,LAC,LAC,ft_make,11,False,False,Harrell Free Throw 1 of 2 (5 PTS),,24-19,24,19
+0021900197,2019-11-18,LAC,OKC,13.12,2,10,53,LAC,LAC,ft_make,12,False,False,Harrell Free Throw 2 of 2 (6 PTS),,25-19,25,19
+0021900197,2019-11-18,LAC,OKC,13.32,2,10,41,OKC,LAC,foul,2,False,False,Green S.FOUL (P2.T3) (J.Tiven),,25-19,25,19
+0021900197,2019-11-18,LAC,OKC,13.32,2,10,41,OKC,OKC,ft_make,11,False,False,,Adams Free Throw 1 of 2 (5 PTS),25-20,25,20
+0021900197,2019-11-18,LAC,OKC,13.32,2,10,41,OKC,OKC,ft_miss,12,False,False,,MISS Adams Free Throw 2 of 2,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,13.37,2,10,38,LAC,LAC,reb,0,False,False,Green REBOUND (Off:0 Def:2),,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,13.65,2,10,21,LAC,LAC,fg3_miss,1,False,False,MISS McGruder 26' 3PT Jump Shot,,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,13.67,2,10,20,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:1),25-20,25,20
+0021900197,2019-11-18,LAC,OKC,13.8,2,10,12,OKC,LAC,violation,5,False,False,Harrell Violation:Kicked Ball (J.Goble),,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,14.07,2,9,56,OKC,OKC,fg_miss,1,False,False,,MISS Adams 8' Jump Shot,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,14.1,2,9,54,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:3),,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,14.2,2,9,48,LAC,LAC,tov,1,False,True,George Bad Pass Turnover (P2.T4),,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,14.2,2,9,48,LAC,OKC,steal,1,False,True,steal,steal,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,14.22,2,9,47,OKC,LAC,foul,28,False,False,Williams Personal Take Foul (P1.T4) (J.Goble),,25-20,25,20
+0021900197,2019-11-18,LAC,OKC,14.22,2,9,47,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),25-20,25,20
+0021900197,2019-11-18,LAC,OKC,14.37,2,9,38,OKC,OKC,fg_make,79,False,False,,Schroder 13' Pullup Jump Shot (6 PTS) (Adams 2 AST),25-22,25,22
+0021900197,2019-11-18,LAC,OKC,14.7,2,9,18,LAC,LAC,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,25-22,25,22
+0021900197,2019-11-18,LAC,OKC,14.7,2,9,18,OKC,OKC,reb,0,False,False,,Thunder Rebound,25-22,25,22
+0021900197,2019-11-18,LAC,OKC,14.85,2,9,9,OKC,LAC,foul,1,False,False,Beverley P.FOUL (P1.PN) (J.Tiven),,25-22,25,22
+0021900197,2019-11-18,LAC,OKC,14.85,2,9,9,OKC,OKC,ft_make,11,False,False,,Paul Free Throw 1 of 2 (3 PTS),25-23,25,23
+0021900197,2019-11-18,LAC,OKC,14.85,2,9,9,OKC,OKC,ft_make,12,False,False,,Paul Free Throw 2 of 2 (4 PTS),25-24,25,24
+0021900197,2019-11-18,LAC,OKC,15.03,2,8,58,LAC,LAC,fg_make,98,False,False,Harrell 2' Cutting Layup Shot (8 PTS) (Williams 2 AST),,27-24,27,24
+0021900197,2019-11-18,LAC,OKC,15.18,2,8,49,OKC,OKC,tov,2,False,True,,Schroder Lost Ball Turnover (P2.T3),27-24,27,24
+0021900197,2019-11-18,LAC,OKC,15.18,2,8,49,OKC,LAC,steal,2,False,True,steal,steal,27-24,27,24
+0021900197,2019-11-18,LAC,OKC,15.27,2,8,44,LAC,LAC,fg_make,98,False,False,Harrell 2' Cutting Layup Shot (10 PTS),,29-24,29,24
+0021900197,2019-11-18,LAC,OKC,15.5,2,8,30,OKC,OKC,fg_make,100,False,False,,Gallinari 2' Running Alley Oop Layup Shot (2 PTS) (Adams 3 AST),29-26,29,26
+0021900197,2019-11-18,LAC,OKC,15.8,2,8,12,LAC,LAC,fg3_miss,1,False,False,MISS Beverley 25' 3PT Jump Shot,,29-26,29,26
+0021900197,2019-11-18,LAC,OKC,15.83,2,8,10,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:3),29-26,29,26
+0021900197,2019-11-18,LAC,OKC,16.05,2,7,57,OKC,OKC,fg_make,79,False,False,,Paul 17' Pullup Jump Shot (6 PTS),29-28,29,28
+0021900197,2019-11-18,LAC,OKC,16.18,2,7,49,LAC,LAC,fg_make,1,False,False,George 20' Jump Shot (8 PTS) (Harrell 1 AST),,31-28,31,28
+0021900197,2019-11-18,LAC,OKC,16.45,2,7,33,OKC,OKC,fg3_miss,80,False,False,,MISS Gallinari 27' 3PT Step Back Jump Shot,31-28,31,28
+0021900197,2019-11-18,LAC,OKC,16.48,2,7,31,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:4),,31-28,31,28
+0021900197,2019-11-18,LAC,OKC,16.63,2,7,22,LAC,LAC,fg3_make,1,False,False,Beverley 26' 3PT Jump Shot (3 PTS) (Harrell 2 AST),,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.0,2,7,0,OKC,OKC,fg_miss,79,False,False,,MISS Schroder 17' Pullup Jump Shot,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.02,2,6,59,OKC,OKC,reb,0,False,False,,Nader REBOUND (Off:1 Def:1),34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.03,2,6,58,OKC,OKC,fg3_miss,1,False,False,,MISS Nader 28' 3PT Jump Shot,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.08,2,6,55,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:3),,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.15,2,6,51,LAC,LAC,tov,1,False,True,George Bad Pass Turnover (P3.T5),,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.15,2,6,51,LAC,OKC,steal,1,False,True,steal,steal,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.28,2,6,43,OKC,LAC,foul,1,False,False,George P.FOUL (P1.PN) (J.Goble),,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.28,2,6,43,OKC,OKC,ft_miss,11,False,False,,MISS Paul Free Throw 1 of 2,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.28,2,6,43,OKC,OKC,reb,1,False,False,,Thunder Rebound,34-28,34,28
+0021900197,2019-11-18,LAC,OKC,17.28,2,6,43,OKC,OKC,ft_make,12,False,False,,Paul Free Throw 2 of 2 (7 PTS),34-29,34,29
+0021900197,2019-11-18,LAC,OKC,17.5,2,6,30,LAC,LAC,tov,1,False,True,George Bad Pass Turnover (P4.T6),,34-29,34,29
+0021900197,2019-11-18,LAC,OKC,17.5,2,6,30,LAC,OKC,steal,1,False,True,steal,steal,34-29,34,29
+0021900197,2019-11-18,LAC,OKC,17.77,2,6,14,OKC,OKC,fg3_make,80,False,False,,Gilgeous-Alexander 27' 3PT Step Back Jump Shot (9 PTS),34-32,34,32
+0021900197,2019-11-18,LAC,OKC,17.98,2,6,1,LAC,LAC,fg_make,7,False,False,Harrell 1' Dunk (12 PTS) (Harkless 2 AST),,36-32,36,32
+0021900197,2019-11-18,LAC,OKC,18.22,2,5,47,OKC,LAC,foul,2,False,False,Harkless S.FOUL (P1.PN) (S.Twardoski),,36-32,36,32
+0021900197,2019-11-18,LAC,OKC,18.22,2,5,47,OKC,OKC,ft_make,13,False,False,,Paul Free Throw 1 of 3 (8 PTS),36-33,36,33
+0021900197,2019-11-18,LAC,OKC,18.22,2,5,47,OKC,OKC,ft_make,14,False,False,,Paul Free Throw 2 of 3 (9 PTS),36-34,36,34
+0021900197,2019-11-18,LAC,OKC,18.22,2,5,47,OKC,OKC,ft_make,15,False,False,,Paul Free Throw 3 of 3 (10 PTS),36-35,36,35
+0021900197,2019-11-18,LAC,OKC,18.45,2,5,33,LAC,LAC,fg_miss,5,True,False,MISS Zubac 2' Layup,,36-35,36,35
+0021900197,2019-11-18,LAC,OKC,18.45,2,5,33,LAC,OKC,block,5,True,False,block,block,36-35,36,35
+0021900197,2019-11-18,LAC,OKC,18.45,2,5,33,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,36-35,36,35
+0021900197,2019-11-18,LAC,OKC,18.53,2,5,28,LAC,LAC,fg3_miss,1,False,False,MISS George 25' 3PT Jump Shot,,36-35,36,35
+0021900197,2019-11-18,LAC,OKC,18.57,2,5,26,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:1),36-35,36,35
+0021900197,2019-11-18,LAC,OKC,18.65,2,5,21,OKC,LAC,foul,2,False,False,Harkless S.FOUL (P2.PN) (J.Tiven),,36-35,36,35
+0021900197,2019-11-18,LAC,OKC,18.65,2,5,21,OKC,OKC,ft_make,11,False,False,,Gallinari Free Throw 1 of 2 (3 PTS),36-36,36,36
+0021900197,2019-11-18,LAC,OKC,18.65,2,5,21,OKC,OKC,ft_make,12,False,False,,Gallinari Free Throw 2 of 2 (4 PTS),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,18.78,2,5,13,LAC,OKC,foul,1,False,False,,Ferguson P.FOUL (P1.T2) (S.Twardoski),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,18.92,2,5,5,LAC,LAC,fg_miss,6,False,False,MISS George 3' Driving Layup,,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,18.95,2,5,3,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:0 Def:2),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.13,2,4,52,OKC,OKC,fg3_miss,1,False,False,,MISS Ferguson 25' 3PT Jump Shot,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.18,2,4,49,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:3 Def:4),,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.38,2,4,37,LAC,LAC,fg3_miss,1,False,False,MISS Beverley 25' 3PT Jump Shot,,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.43,2,4,34,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:3),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.48,2,4,31,LAC,OKC,foul,4,False,False,,Gallinari OFF.Foul (P2) (S.Twardoski),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.48,2,4,31,OKC,OKC,tov,37,False,False,,Gallinari Offensive Foul Turnover (P1.T4),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.68,2,4,19,LAC,LAC,tov,1,False,True,Zubac Bad Pass Turnover (P2.T7),,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.68,2,4,19,LAC,OKC,steal,1,False,True,steal,steal,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.8,2,4,12,OKC,OKC,fg3_miss,1,True,False,,MISS Gallinari 24' 3PT Jump Shot,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.8,2,4,12,OKC,LAC,block,1,True,False,block,block,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.82,2,4,11,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:3 Def:5),,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,19.82,2,4,11,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,20.02,2,3,59,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P2.T8),,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,20.02,2,3,59,LAC,OKC,steal,1,False,True,steal,steal,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,20.1,2,3,54,OKC,OKC,tov,1,False,True,,Gilgeous-Alexander Bad Pass Turnover (P2.T5),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,20.1,2,3,54,OKC,LAC,steal,1,False,True,steal,steal,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,20.28,2,3,43,LAC,LAC,fg_miss,101,False,False,MISS Mann 11' Driving Floating Jump Shot,,36-37,36,37
+0021900197,2019-11-18,LAC,OKC,20.33,2,3,40,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:1 Def:3),36-37,36,37
+0021900197,2019-11-18,LAC,OKC,20.4,2,3,36,OKC,OKC,fg_make,5,False,False,,Schroder 3' Layup (8 PTS),36-39,36,39
+0021900197,2019-11-18,LAC,OKC,20.65,2,3,21,LAC,LAC,fg_make,108,False,False,Zubac 2' Cutting Dunk Shot (10 PTS) (Williams 3 AST),,38-39,38,39
+0021900197,2019-11-18,LAC,OKC,21.07,2,2,56,OKC,OKC,fg_miss,101,False,False,,MISS Schroder 5' Driving Floating Jump Shot,38-39,38,39
+0021900197,2019-11-18,LAC,OKC,21.12,2,2,53,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:2 Def:3),38-39,38,39
+0021900197,2019-11-18,LAC,OKC,21.25,2,2,45,OKC,OKC,fg_make,79,False,False,,Noel 16' Pullup Jump Shot (2 PTS) (Gallinari 2 AST),38-41,38,41
+0021900197,2019-11-18,LAC,OKC,21.28,2,2,43,LAC,OKC,foul,1,False,False,,Ferguson P.FOUL (P2.T3) (S.Twardoski),38-41,38,41
+0021900197,2019-11-18,LAC,OKC,21.58,2,2,25,LAC,LAC,fg3_miss,1,False,False,MISS Mann 3PT Jump Shot,,38-41,38,41
+0021900197,2019-11-18,LAC,OKC,21.58,2,2,25,OKC,OKC,reb,0,False,False,,Thunder Rebound,38-41,38,41
+0021900197,2019-11-18,LAC,OKC,21.82,2,2,11,OKC,LAC,foul,1,False,False,Mann P.FOUL (P1.PN) (J.Goble),,38-41,38,41
+0021900197,2019-11-18,LAC,OKC,21.82,2,2,11,OKC,OKC,ft_miss,11,False,False,,MISS Noel Free Throw 1 of 2,38-41,38,41
+0021900197,2019-11-18,LAC,OKC,21.82,2,2,11,OKC,OKC,reb,1,False,False,,Thunder Rebound,38-41,38,41
+0021900197,2019-11-18,LAC,OKC,21.82,2,2,11,OKC,OKC,ft_make,12,False,False,,Noel Free Throw 2 of 2 (3 PTS),38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.02,2,1,59,LAC,LAC,fg_miss,79,False,False,MISS Williams 12' Pullup Jump Shot,,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.03,2,1,58,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:2 Def:4),38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.13,2,1,52,OKC,OKC,fg_miss,79,False,False,,MISS Schroder 15' Pullup Jump Shot,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.18,2,1,49,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:3 Def:6),,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.25,2,1,45,LAC,LAC,tov,2,False,True,Harkless Lost Ball Turnover (P1.T9),,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.25,2,1,45,LAC,OKC,steal,2,False,True,steal,steal,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.33,2,1,40,OKC,OKC,fg_miss,41,True,False,,MISS Gilgeous-Alexander 2' Running Layup,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.33,2,1,40,OKC,LAC,block,41,True,False,block,block,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.33,2,1,40,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,38-42,38,42
+0021900197,2019-11-18,LAC,OKC,22.62,2,1,23,LAC,LAC,fg_make,6,False,False,Williams 2' Driving Layup (7 PTS),,40-42,40,42
+0021900197,2019-11-18,LAC,OKC,22.95,2,1,3,OKC,OKC,fg_miss,6,False,False,,MISS Schroder 1' Driving Layup,40-42,40,42
+0021900197,2019-11-18,LAC,OKC,22.98,2,1,1,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:0 Def:3),,40-42,40,42
+0021900197,2019-11-18,LAC,OKC,23.1,2,0,54,LAC,LAC,fg_make,79,False,False,Williams 20' Pullup Jump Shot (9 PTS) (Harkless 3 AST),,42-42,42,42
+0021900197,2019-11-18,LAC,OKC,23.42,2,0,35,OKC,LAC,foul,2,False,False,Harrell S.FOUL (P1.PN) (J.Tiven),,42-42,42,42
+0021900197,2019-11-18,LAC,OKC,23.42,2,0,35,OKC,OKC,ft_make,11,False,False,,Noel Free Throw 1 of 2 (4 PTS),42-43,42,43
+0021900197,2019-11-18,LAC,OKC,23.42,2,0,35,OKC,OKC,ft_make,12,False,False,,Noel Free Throw 2 of 2 (5 PTS),42-44,42,44
+0021900197,2019-11-18,LAC,OKC,23.52,2,0,29,LAC,OKC,foul,1,False,False,,Noel P.FOUL (P3.T4) (J.Tiven),42-44,42,44
+0021900197,2019-11-18,LAC,OKC,23.6,2,0,24,LAC,LAC,fg_miss,6,False,False,MISS Harrell 2' Driving Layup,,42-44,42,44
+0021900197,2019-11-18,LAC,OKC,23.63,2,0,22,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:2),42-44,42,44
+0021900197,2019-11-18,LAC,OKC,23.98,2,0,1,OKC,OKC,fg3_make,79,False,False,,Paul 25' 3PT Pullup Jump Shot (13 PTS),42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.0,2,0,0,LAC,LAC,fg3_miss,2,False,False,MISS Harrell 46' 3PT Running Jump Shot,,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.0,2,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.0,2,0,0,LAC,,period_end,0,False,False,,,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.0,3,12,0,LAC,,period_start,0,False,False,,,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.3,3,11,42,OKC,OKC,tov,2,False,True,,Gallinari Lost Ball Turnover (P2.T6),42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.3,3,11,42,OKC,LAC,steal,2,False,True,steal,steal,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.55,3,11,27,LAC,LAC,fg_miss,58,False,False,MISS Zubac 6' Turnaround Hook Shot,,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.58,3,11,25,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:4),42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.85,3,11,9,OKC,OKC,fg_miss,3,False,False,,MISS Adams 3' Hook Shot,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,24.88,3,11,7,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:5),,42-47,42,47
+0021900197,2019-11-18,LAC,OKC,25.12,3,10,53,LAC,LAC,fg3_make,1,False,False,Beverley 27' 3PT Jump Shot (6 PTS) (George 2 AST),,45-47,45,47
+0021900197,2019-11-18,LAC,OKC,25.23,3,10,46,OKC,OKC,tov,40,False,False,,Gilgeous-Alexander Out of Bounds Lost Ball Turnover (P3.T7),45-47,45,47
+0021900197,2019-11-18,LAC,OKC,25.53,3,10,28,LAC,OKC,foul,2,False,False,,Gilgeous-Alexander S.FOUL (P1.T1) (J.Goble),45-47,45,47
+0021900197,2019-11-18,LAC,OKC,25.53,3,10,28,LAC,LAC,ft_make,11,False,False,Mann Free Throw 1 of 2 (1 PTS),,46-47,46,47
+0021900197,2019-11-18,LAC,OKC,25.53,3,10,28,LAC,LAC,ft_miss,12,False,False,MISS Mann Free Throw 2 of 2,,46-47,46,47
+0021900197,2019-11-18,LAC,OKC,25.58,3,10,25,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:5),46-47,46,47
+0021900197,2019-11-18,LAC,OKC,25.9,3,10,6,OKC,OKC,fg3_make,80,False,False,,Gallinari 25' 3PT Step Back Jump Shot (7 PTS),46-50,46,50
+0021900197,2019-11-18,LAC,OKC,26.15,3,9,51,LAC,LAC,fg3_make,1,False,False,Harkless 25' 3PT Jump Shot (3 PTS) (George 3 AST),,49-50,49,50
+0021900197,2019-11-18,LAC,OKC,26.27,3,9,44,OKC,LAC,foul,1,False,False,Beverley P.FOUL (P2.T1) (J.Tiven),,49-50,49,50
+0021900197,2019-11-18,LAC,OKC,26.42,3,9,35,OKC,LAC,foul,2,False,False,George S.FOUL (P2.T2) (J.Goble),,49-50,49,50
+0021900197,2019-11-18,LAC,OKC,26.42,3,9,35,OKC,OKC,ft_make,11,False,False,,Gallinari Free Throw 1 of 2 (8 PTS),49-51,49,51
+0021900197,2019-11-18,LAC,OKC,26.42,3,9,35,OKC,OKC,ft_make,12,False,False,,Gallinari Free Throw 2 of 2 (9 PTS),49-52,49,52
+0021900197,2019-11-18,LAC,OKC,26.5,3,9,30,LAC,OKC,foul,1,False,False,,Gilgeous-Alexander P.FOUL (P2.T2) (S.Twardoski),49-52,49,52
+0021900197,2019-11-18,LAC,OKC,26.6,3,9,24,LAC,LAC,fg_miss,79,False,False,MISS George 17' Pullup Jump Shot,,49-52,49,52
+0021900197,2019-11-18,LAC,OKC,26.68,3,9,19,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:6),49-52,49,52
+0021900197,2019-11-18,LAC,OKC,26.82,3,9,11,OKC,LAC,foul,1,False,False,Mann P.FOUL (P2.T3) (S.Twardoski),,49-52,49,52
+0021900197,2019-11-18,LAC,OKC,26.92,3,9,5,OKC,OKC,tov,4,False,False,,Paul Traveling Turnover (P1.T8),49-52,49,52
+0021900197,2019-11-18,LAC,OKC,26.97,3,9,2,OKC,LAC,foul,4,False,False,Harkless OFF.Foul (P3) (S.Twardoski),,49-52,49,52
+0021900197,2019-11-18,LAC,OKC,26.97,3,9,2,LAC,LAC,tov,37,False,False,Harkless Offensive Foul Turnover (P2.T10),,49-52,49,52
+0021900197,2019-11-18,LAC,OKC,27.25,3,8,45,OKC,OKC,fg_make,5,False,False,,Adams 1' Layup (7 PTS) (Paul 3 AST),49-54,49,54
+0021900197,2019-11-18,LAC,OKC,27.53,3,8,28,LAC,LAC,fg3_make,1,False,False,George 25' 3PT Jump Shot (11 PTS) (Zubac 1 AST),,52-54,52,54
+0021900197,2019-11-18,LAC,OKC,27.75,3,8,15,OKC,OKC,tov,4,False,False,,Gallinari Traveling Turnover (P3.T9),52-54,52,54
+0021900197,2019-11-18,LAC,OKC,28.03,3,7,58,LAC,LAC,tov,1,False,True,Harkless Bad Pass Turnover (P3.T11),,52-54,52,54
+0021900197,2019-11-18,LAC,OKC,28.03,3,7,58,LAC,OKC,steal,1,False,True,steal,steal,52-54,52,54
+0021900197,2019-11-18,LAC,OKC,28.1,3,7,54,OKC,OKC,fg3_miss,103,False,False,,MISS Gilgeous-Alexander 27' 3PT Running Pull-Up Jump Shot,52-54,52,54
+0021900197,2019-11-18,LAC,OKC,28.13,3,7,52,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:1 Def:2),52-54,52,54
+0021900197,2019-11-18,LAC,OKC,28.17,3,7,50,OKC,OKC,tov,4,False,False,,Gilgeous-Alexander Traveling Turnover (P4.T10),52-54,52,54
+0021900197,2019-11-18,LAC,OKC,28.3,3,7,42,LAC,OKC,foul,2,False,False,,Gilgeous-Alexander S.FOUL (P3.T3) (J.Tiven),52-54,52,54
+0021900197,2019-11-18,LAC,OKC,28.3,3,7,42,LAC,LAC,ft_make,11,False,False,Mann Free Throw 1 of 2 (2 PTS),,53-54,53,54
+0021900197,2019-11-18,LAC,OKC,28.3,3,7,42,LAC,LAC,ft_make,12,False,False,Mann Free Throw 2 of 2 (3 PTS),,54-54,54,54
+0021900197,2019-11-18,LAC,OKC,28.38,3,7,37,OKC,LAC,foul,1,False,False,Beverley P.FOUL (P3.T4) (S.Twardoski),,54-54,54,54
+0021900197,2019-11-18,LAC,OKC,28.52,3,7,29,OKC,LAC,foul,2,False,False,Harkless S.FOUL (P4.PN) (J.Goble),,54-54,54,54
+0021900197,2019-11-18,LAC,OKC,28.52,3,7,29,OKC,OKC,ft_make,11,False,False,,Gallinari Free Throw 1 of 2 (10 PTS),54-55,54,55
+0021900197,2019-11-18,LAC,OKC,28.52,3,7,29,OKC,OKC,ft_make,12,False,False,,Gallinari Free Throw 2 of 2 (11 PTS),54-56,54,56
+0021900197,2019-11-18,LAC,OKC,28.82,3,7,11,LAC,OKC,foul,1,False,False,,Gilgeous-Alexander P.FOUL (P4.T4) (S.Twardoski),54-56,54,56
+0021900197,2019-11-18,LAC,OKC,28.93,3,7,4,LAC,LAC,fg3_miss,1,False,False,MISS Patterson 25' 3PT Jump Shot,,54-56,54,56
+0021900197,2019-11-18,LAC,OKC,28.97,3,7,2,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:4 Def:6),,54-56,54,56
+0021900197,2019-11-18,LAC,OKC,28.97,3,7,2,LAC,LAC,fg_miss,97,False,False,MISS Zubac 2' Tip Layup Shot,,54-56,54,56
+0021900197,2019-11-18,LAC,OKC,29.0,3,7,0,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:3),54-56,54,56
+0021900197,2019-11-18,LAC,OKC,29.07,3,6,56,OKC,OKC,fg3_make,103,False,False,,Paul 25' 3PT Running Pull-Up Jump Shot (16 PTS),54-59,54,59
+0021900197,2019-11-18,LAC,OKC,29.35,3,6,39,LAC,LAC,tov,45,False,False,George Out of Bounds - Bad Pass Turnover Turnover (P5.T12),,54-59,54,59
+0021900197,2019-11-18,LAC,OKC,29.35,3,6,39,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,54-59,54,59
+0021900197,2019-11-18,LAC,OKC,29.57,3,6,26,OKC,OKC,tov,8,False,False,,Adams 3 Second Violation Turnover (P1.T11),54-59,54,59
+0021900197,2019-11-18,LAC,OKC,29.78,3,6,13,LAC,OKC,foul,2,False,False,,Ferguson S.FOUL (P3.PN) (J.Tiven),54-59,54,59
+0021900197,2019-11-18,LAC,OKC,29.78,3,6,13,LAC,LAC,ft_make,11,False,False,Zubac Free Throw 1 of 2 (11 PTS),,55-59,55,59
+0021900197,2019-11-18,LAC,OKC,29.78,3,6,13,LAC,LAC,ft_make,12,False,False,Zubac Free Throw 2 of 2 (12 PTS),,56-59,56,59
+0021900197,2019-11-18,LAC,OKC,30.23,3,5,46,OKC,OKC,fg3_miss,1,False,False,,MISS Gallinari 29' 3PT Jump Shot,56-59,56,59
+0021900197,2019-11-18,LAC,OKC,30.28,3,5,43,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:2 Def:2),56-59,56,59
+0021900197,2019-11-18,LAC,OKC,30.3,3,5,42,OKC,OKC,tov,2,False,True,,Ferguson Lost Ball Turnover (P1.T12),56-59,56,59
+0021900197,2019-11-18,LAC,OKC,30.3,3,5,42,OKC,LAC,steal,2,False,True,steal,steal,56-59,56,59
+0021900197,2019-11-18,LAC,OKC,30.47,3,5,32,LAC,LAC,fg_make,63,False,False,Williams 19' Fadeaway Jumper (11 PTS),,58-59,58,59
+0021900197,2019-11-18,LAC,OKC,30.8,3,5,12,OKC,OKC,fg3_miss,80,False,False,,MISS Paul 3PT Step Back Jump Shot,58-59,58,59
+0021900197,2019-11-18,LAC,OKC,30.87,3,5,8,LAC,LAC,reb,0,False,False,Patterson REBOUND (Off:0 Def:1),,58-59,58,59
+0021900197,2019-11-18,LAC,OKC,31.13,3,4,52,LAC,LAC,fg3_miss,1,False,False,MISS Patterson 28' 3PT Jump Shot,,58-59,58,59
+0021900197,2019-11-18,LAC,OKC,31.17,3,4,50,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:1),58-59,58,59
+0021900197,2019-11-18,LAC,OKC,31.23,3,4,46,OKC,OKC,fg_miss,41,True,False,,MISS Schroder 1' Running Layup,58-59,58,59
+0021900197,2019-11-18,LAC,OKC,31.23,3,4,46,OKC,LAC,block,41,True,False,block,block,58-59,58,59
+0021900197,2019-11-18,LAC,OKC,31.23,3,4,46,OKC,OKC,reb,0,False,False,,Thunder Rebound,58-59,58,59
+0021900197,2019-11-18,LAC,OKC,31.23,3,4,46,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),58-59,58,59
+0021900197,2019-11-18,LAC,OKC,31.3,3,4,42,OKC,OKC,fg3_make,1,False,False,,Nader 3PT Jump Shot (6 PTS) (Schroder 1 AST),58-62,58,62
+0021900197,2019-11-18,LAC,OKC,31.67,3,4,20,LAC,LAC,fg3_miss,1,False,False,MISS McGruder 24' 3PT Jump Shot,,58-62,58,62
+0021900197,2019-11-18,LAC,OKC,31.7,3,4,18,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:2 Def:5),58-62,58,62
+0021900197,2019-11-18,LAC,OKC,31.92,3,4,5,OKC,OKC,fg_miss,6,False,False,,MISS Schroder 2' Driving Layup,58-62,58,62
+0021900197,2019-11-18,LAC,OKC,31.95,3,4,3,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:3 Def:5),58-62,58,62
+0021900197,2019-11-18,LAC,OKC,32.0,3,4,0,OKC,OKC,fg3_miss,1,False,False,,MISS Schroder 3PT Jump Shot,58-62,58,62
+0021900197,2019-11-18,LAC,OKC,32.05,3,3,57,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,58-62,58,62
+0021900197,2019-11-18,LAC,OKC,32.17,3,3,50,LAC,LAC,fg_miss,63,False,False,MISS Williams 15' Fadeaway Jumper,,58-62,58,62
+0021900197,2019-11-18,LAC,OKC,32.23,3,3,46,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:1),,58-62,58,62
+0021900197,2019-11-18,LAC,OKC,32.23,3,3,46,LAC,LAC,fg_make,97,False,False,Harrell 1' Tip Layup Shot (14 PTS),,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,32.5,3,3,30,OKC,OKC,fg_miss,101,False,False,,MISS Nader 6' Driving Floating Jump Shot,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,32.53,3,3,28,LAC,LAC,reb,0,False,False,Patterson REBOUND (Off:0 Def:2),,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,32.7,3,3,18,LAC,LAC,tov,2,False,True,Harrell Lost Ball Turnover (P1.T13),,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,32.7,3,3,18,LAC,OKC,steal,2,False,True,steal,steal,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,32.97,3,3,2,OKC,OKC,tov,40,False,False,,Nader Out of Bounds Lost Ball Turnover (P1.T13),60-62,60,62
+0021900197,2019-11-18,LAC,OKC,33.17,3,2,50,LAC,LAC,fg_miss,6,False,False,MISS Williams 1' Driving Layup,,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,33.2,3,2,48,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:2 Def:3),60-62,60,62
+0021900197,2019-11-18,LAC,OKC,33.35,3,2,39,OKC,OKC,fg3_miss,1,False,False,,MISS Ferguson 24' 3PT Jump Shot,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,33.4,3,2,36,LAC,LAC,reb,0,False,False,Patterson REBOUND (Off:0 Def:3),,60-62,60,62
+0021900197,2019-11-18,LAC,OKC,33.53,3,2,28,LAC,LAC,fg3_make,2,False,False,Patterson 26' 3PT Running Jump Shot (3 PTS) (Williams 4 AST),,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,33.88,3,2,7,OKC,OKC,fg_miss,1,False,False,,MISS Noel 19' Jump Shot,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,33.92,3,2,5,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:2),,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.22,3,1,47,LAC,LAC,fg3_miss,1,False,False,MISS Patterson 27' 3PT Jump Shot,,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.25,3,1,45,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:2),63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.37,3,1,38,OKC,OKC,fg_miss,79,False,False,,MISS Schroder 15' Pullup Jump Shot,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.42,3,1,35,LAC,LAC,reb,0,False,False,Patterson REBOUND (Off:0 Def:4),,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.55,3,1,27,LAC,LAC,fg_miss,79,False,False,MISS Robinson 18' Pullup Jump Shot,,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.57,3,1,26,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:3),63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.6,3,1,24,OKC,OKC,tov,40,False,False,,Schroder Out of Bounds Lost Ball Turnover (P3.T14),63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.88,3,1,7,LAC,LAC,fg_miss,75,True,False,MISS McGruder 5' Driving Finger Roll Layup,,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.88,3,1,7,LAC,OKC,block,75,True,False,block,block,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,34.95,3,1,3,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:2),,63-62,63,62
+0021900197,2019-11-18,LAC,OKC,35.0,3,1,0,LAC,LAC,fg3_make,1,False,False,Green 32' 3PT Jump Shot (3 PTS) (Harrell 3 AST),,66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.0,3,1,0,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.33,3,0,40,OKC,OKC,fg_miss,101,False,False,,MISS Schroder 14' Driving Floating Jump Shot,66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.37,3,0,38,LAC,LAC,reb,0,False,False,Green REBOUND (Off:0 Def:3),,66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.48,3,0,31,LAC,LAC,fg_miss,43,True,False,MISS Harrell 2' Alley Oop Layup,,66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.48,3,0,31,LAC,OKC,block,43,True,False,block,block,66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.52,3,0,29,OKC,OKC,reb,0,False,False,,Nader REBOUND (Off:1 Def:2),66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.62,3,0,23,OKC,LAC,foul,1,False,False,Robinson P.FOUL (P2.PN) (S.Twardoski),,66-62,66,62
+0021900197,2019-11-18,LAC,OKC,35.62,3,0,23,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (10 PTS),66-63,66,63
+0021900197,2019-11-18,LAC,OKC,35.62,3,0,23,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (11 PTS),66-64,66,64
+0021900197,2019-11-18,LAC,OKC,36.0,3,0,0,LAC,LAC,fg3_miss,1,False,False,MISS Harrell 30' 3PT Jump Shot,,66-64,66,64
+0021900197,2019-11-18,LAC,OKC,36.0,3,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,66-64,66,64
+0021900197,2019-11-18,LAC,OKC,36.0,3,0,0,LAC,,period_end,0,False,False,,,66-64,66,64
+0021900197,2019-11-18,LAC,OKC,36.0,4,12,0,LAC,,period_start,0,False,False,,,66-64,66,64
+0021900197,2019-11-18,LAC,OKC,36.25,4,11,45,LAC,LAC,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,66-64,66,64
+0021900197,2019-11-18,LAC,OKC,36.28,4,11,43,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:7),66-64,66,64
+0021900197,2019-11-18,LAC,OKC,36.58,4,11,25,OKC,OKC,fg_make,78,False,False,,Adams 7' Floating Jump Shot (9 PTS) (Schroder 2 AST),66-66,66,66
+0021900197,2019-11-18,LAC,OKC,36.75,4,11,15,LAC,LAC,tov,45,False,False,Harrell Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,66-66,66,66
+0021900197,2019-11-18,LAC,OKC,37.1,4,10,54,OKC,OKC,fg_make,79,False,False,,Nader 18' Pullup Jump Shot (8 PTS) (Adams 4 AST),66-68,66,68
+0021900197,2019-11-18,LAC,OKC,37.38,4,10,37,LAC,OKC,foul,1,False,False,,Paul P.FOUL (P1.T1) (S.Twardoski),66-68,66,68
+0021900197,2019-11-18,LAC,OKC,37.45,4,10,33,LAC,LAC,fg_make,52,False,False,Harrell 2' Alley Oop Dunk (16 PTS) (George 4 AST),,68-68,68,68
+0021900197,2019-11-18,LAC,OKC,37.83,4,10,10,OKC,OKC,fg_miss,1,False,False,,MISS Paul 8' Jump Shot,68-68,68,68
+0021900197,2019-11-18,LAC,OKC,37.85,4,10,9,LAC,LAC,reb,0,False,False,Green REBOUND (Off:0 Def:4),,68-68,68,68
+0021900197,2019-11-18,LAC,OKC,38.02,4,9,59,LAC,LAC,fg_miss,1,False,False,MISS McGruder 8' Jump Shot,,68-68,68,68
+0021900197,2019-11-18,LAC,OKC,38.05,4,9,57,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:2),68-68,68,68
+0021900197,2019-11-18,LAC,OKC,38.22,4,9,47,OKC,OKC,fg_miss,6,True,False,,MISS Gilgeous-Alexander 1' Driving Layup,68-68,68,68
+0021900197,2019-11-18,LAC,OKC,38.22,4,9,47,OKC,LAC,block,6,True,False,block,block,68-68,68,68
+0021900197,2019-11-18,LAC,OKC,38.25,4,9,45,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:6),,68-68,68,68
+0021900197,2019-11-18,LAC,OKC,38.25,4,9,45,LAC,OKC,foul,28,False,False,,Paul Personal Take Foul (P2.T2) (J.Goble),68-68,68,68
+0021900197,2019-11-18,LAC,OKC,38.33,4,9,40,LAC,LAC,fg_make,108,False,False,Harrell 2' Cutting Dunk Shot (18 PTS) (Williams 5 AST),,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,38.77,4,9,14,OKC,OKC,fg_miss,73,False,False,,MISS Bazley 1' Driving Reverse Layup,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,38.8,4,9,12,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:3),,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,38.92,4,9,5,LAC,LAC,fg3_miss,1,False,False,MISS McGruder 24' 3PT Jump Shot,,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,38.97,4,9,2,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:4 Def:3),,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.18,4,8,49,LAC,LAC,fg3_miss,1,False,False,MISS George 26' 3PT Jump Shot,,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.22,4,8,47,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:5 Def:3),,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.45,4,8,33,LAC,LAC,fg_miss,63,False,False,MISS Williams 13' Fadeaway Jumper,,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.45,4,8,33,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.45,4,8,33,LAC,OKC,foul,3,False,False,,Paul L.B.FOUL (P3.T3) (S.Twardoski),70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.63,4,8,22,LAC,LAC,fg_miss,101,False,False,MISS Williams 7' Driving Floating Jump Shot,,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.7,4,8,18,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:6 Def:3),,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.7,4,8,18,LAC,LAC,fg_miss,97,False,False,MISS Harrell 1' Tip Layup Shot,,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.72,4,8,17,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:8),70-68,70,68
+0021900197,2019-11-18,LAC,OKC,39.75,4,8,15,OKC,LAC,foul,1,False,False,Williams P.FOUL (P2.T1) (J.Tiven),,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,40.05,4,7,57,OKC,OKC,tov,2,False,True,,Adams Lost Ball Turnover (P2.T15),70-68,70,68
+0021900197,2019-11-18,LAC,OKC,40.05,4,7,57,OKC,LAC,steal,2,False,True,steal,steal,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,40.27,4,7,44,LAC,LAC,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,40.32,4,7,41,OKC,OKC,reb,0,False,False,,Burton REBOUND (Off:0 Def:1),70-68,70,68
+0021900197,2019-11-18,LAC,OKC,40.38,4,7,37,OKC,OKC,fg3_miss,2,False,False,,MISS Gilgeous-Alexander 27' 3PT Running Jump Shot,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,40.45,4,7,33,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:6 Def:4),,70-68,70,68
+0021900197,2019-11-18,LAC,OKC,40.63,4,7,22,LAC,LAC,fg_make,99,False,False,Harrell 3' Cutting Finger Roll Layup Shot (20 PTS) (Williams 6 AST),,72-68,72,68
+0021900197,2019-11-18,LAC,OKC,41.13,4,6,52,OKC,OKC,fg3_miss,1,False,False,,MISS Burton 25' 3PT Jump Shot,72-68,72,68
+0021900197,2019-11-18,LAC,OKC,41.15,4,6,51,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:3 Def:3),72-68,72,68
+0021900197,2019-11-18,LAC,OKC,41.32,4,6,41,OKC,OKC,fg_make,1,False,False,,Ferguson 17' Jump Shot (2 PTS) (Adams 5 AST),72-70,72,70
+0021900197,2019-11-18,LAC,OKC,41.55,4,6,27,LAC,LAC,fg3_make,1,False,False,George 3PT Jump Shot (14 PTS) (Harrell 4 AST),,75-70,75,70
+0021900197,2019-11-18,LAC,OKC,41.77,4,6,14,OKC,OKC,fg_make,79,False,False,,Paul 15' Pullup Jump Shot (18 PTS),75-72,75,72
+0021900197,2019-11-18,LAC,OKC,41.77,4,6,14,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 4 Short 0),,75-72,75,72
+0021900197,2019-11-18,LAC,OKC,42.07,4,5,56,LAC,LAC,tov,2,False,True,George Lost Ball Turnover (P6.T15),,75-72,75,72
+0021900197,2019-11-18,LAC,OKC,42.07,4,5,56,LAC,OKC,steal,2,False,True,steal,steal,75-72,75,72
+0021900197,2019-11-18,LAC,OKC,42.15,4,5,51,OKC,OKC,fg_miss,1,False,False,,MISS Paul 14' Jump Shot,75-72,75,72
+0021900197,2019-11-18,LAC,OKC,42.2,4,5,48,LAC,LAC,reb,0,False,False,Green REBOUND (Off:0 Def:5),,75-72,75,72
+0021900197,2019-11-18,LAC,OKC,42.38,4,5,37,LAC,LAC,fg3_make,1,False,False,Beverley 24' 3PT Jump Shot (9 PTS) (Harrell 5 AST),,78-72,78,72
+0021900197,2019-11-18,LAC,OKC,42.68,4,5,19,OKC,LAC,foul,1,False,False,Beverley P.FOUL (P4.T2) (J.Goble),,78-72,78,72
+0021900197,2019-11-18,LAC,OKC,42.88,4,5,7,OKC,OKC,fg3_make,1,False,False,,Ferguson 29' 3PT Jump Shot (5 PTS) (Noel 3 AST),78-75,78,75
+0021900197,2019-11-18,LAC,OKC,42.98,4,5,1,LAC,OKC,foul,1,False,False,,Ferguson P.FOUL (P4.T4) (J.Tiven),78-75,78,75
+0021900197,2019-11-18,LAC,OKC,43.1,4,4,54,LAC,LAC,tov,4,False,False,Green Traveling Turnover (P1.T16),,78-75,78,75
+0021900197,2019-11-18,LAC,OKC,43.4,4,4,36,OKC,LAC,foul,2,False,False,Beverley S.FOUL (P5.T3) (S.Twardoski),,78-75,78,75
+0021900197,2019-11-18,LAC,OKC,43.4,4,4,36,OKC,OKC,ft_make,11,False,False,,Noel Free Throw 1 of 2 (6 PTS),78-76,78,76
+0021900197,2019-11-18,LAC,OKC,43.4,4,4,36,OKC,OKC,ft_make,12,False,False,,Noel Free Throw 2 of 2 (7 PTS),78-77,78,77
+0021900197,2019-11-18,LAC,OKC,43.65,4,4,21,LAC,LAC,fg_miss,98,True,False,MISS McGruder Cutting Layup Shot,,78-77,78,77
+0021900197,2019-11-18,LAC,OKC,43.65,4,4,21,LAC,OKC,block,98,True,False,block,block,78-77,78,77
+0021900197,2019-11-18,LAC,OKC,43.7,4,4,18,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:4),78-77,78,77
+0021900197,2019-11-18,LAC,OKC,43.97,4,4,2,OKC,OKC,fg_make,6,False,False,,Schroder 3' Driving Layup (10 PTS),78-79,78,79
+0021900197,2019-11-18,LAC,OKC,44.18,4,3,49,LAC,LAC,fg_make,71,False,False,Harrell 3' Finger Roll Layup (22 PTS) (Williams 7 AST),,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,44.42,4,3,35,OKC,LAC,foul,1,False,False,Green P.FOUL (P3.T4) (S.Twardoski),,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,44.42,4,3,35,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),80-79,80,79
+0021900197,2019-11-18,LAC,OKC,44.67,4,3,20,OKC,OKC,fg3_miss,1,False,False,,MISS Gallinari 31' 3PT Jump Shot,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,44.67,4,3,20,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:4),,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,44.67,4,3,20,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 5 Short 0),,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,44.9,4,3,6,LAC,LAC,fg3_miss,1,False,False,MISS McGruder 3PT Jump Shot,,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,44.95,4,3,3,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:4),80-79,80,79
+0021900197,2019-11-18,LAC,OKC,45.07,4,2,56,OKC,OKC,tov,45,False,False,,Gilgeous-Alexander Out of Bounds - Bad Pass Turnover Turnover (P5.T16),80-79,80,79
+0021900197,2019-11-18,LAC,OKC,45.27,4,2,44,LAC,LAC,fg_miss,63,False,False,MISS Williams 5' Fadeaway Jumper,,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,45.27,4,2,44,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:7 Def:4),,80-79,80,79
+0021900197,2019-11-18,LAC,OKC,45.27,4,2,44,LAC,LAC,fg_make,72,False,False,Harrell Putback Layup (24 PTS),,82-79,82,79
+0021900197,2019-11-18,LAC,OKC,45.27,4,2,44,LAC,OKC,foul,2,False,False,,Gilgeous-Alexander S.FOUL (P5.PN) (S.Twardoski),82-79,82,79
+0021900197,2019-11-18,LAC,OKC,45.27,4,2,44,LAC,LAC,ft_miss,10,False,False,MISS Harrell Free Throw 1 of 1,,82-79,82,79
+0021900197,2019-11-18,LAC,OKC,45.3,4,2,42,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:9),82-79,82,79
+0021900197,2019-11-18,LAC,OKC,45.4,4,2,36,OKC,LAC,foul,1,False,False,McGruder P.FOUL (P2.PN) (J.Goble),,82-79,82,79
+0021900197,2019-11-18,LAC,OKC,45.4,4,2,36,OKC,OKC,ft_make,11,False,False,,Paul Free Throw 1 of 2 (19 PTS),82-80,82,80
+0021900197,2019-11-18,LAC,OKC,45.4,4,2,36,OKC,OKC,ft_make,12,False,False,,Paul Free Throw 2 of 2 (20 PTS),82-81,82,81
+0021900197,2019-11-18,LAC,OKC,45.72,4,2,17,LAC,LAC,fg_make,9,False,False,Harrell 2' Driving Dunk (26 PTS),,84-81,84,81
+0021900197,2019-11-18,LAC,OKC,46.03,4,1,58,OKC,OKC,fg_make,98,False,False,,Schroder Cutting Layup Shot (12 PTS) (Adams 6 AST),84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.22,4,1,47,LAC,LAC,fg_miss,105,False,False,MISS George 3' Turnaround Fadeaway Bank Jump Shot,,84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.25,4,1,45,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:8 Def:4),,84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.25,4,1,45,LAC,LAC,fg_miss,97,False,False,MISS Harrell 1' Tip Layup Shot,,84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.25,4,1,45,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:10),84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.32,4,1,41,,LAC,jump_ball,0,False,False,Jump Ball McGruder vs. Adams: Tip to Gallinari,,84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.65,4,1,21,OKC,OKC,fg3_miss,1,False,False,,MISS Paul 27' 3PT Jump Shot,84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.7,4,1,18,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:4 Def:3),84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.78,4,1,13,OKC,OKC,tov,2,False,True,,Schroder Lost Ball Turnover (P4.T17),84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.78,4,1,13,OKC,LAC,steal,2,False,True,steal,steal,84-83,84,83
+0021900197,2019-11-18,LAC,OKC,46.95,4,1,3,LAC,LAC,fg_make,98,False,False,Harrell 3' Cutting Layup Shot (28 PTS) (Williams 8 AST),,86-83,86,83
+0021900197,2019-11-18,LAC,OKC,47.13,4,0,52,OKC,OKC,fg3_make,1,False,False,,Gallinari 26' 3PT Jump Shot (14 PTS) (Paul 4 AST),86-86,86,86
+0021900197,2019-11-18,LAC,OKC,47.4,4,0,36,LAC,LAC,tov,2,False,True,George Lost Ball Turnover (P7.T17),,86-86,86,86
+0021900197,2019-11-18,LAC,OKC,47.4,4,0,36,LAC,OKC,steal,2,False,True,steal,steal,86-86,86,86
+0021900197,2019-11-18,LAC,OKC,47.48,4,0,31,OKC,LAC,foul,1,False,False,George P.FOUL (P3.PN) (J.Tiven),,86-86,86,86
+0021900197,2019-11-18,LAC,OKC,47.48,4,0,31,OKC,OKC,ft_make,11,False,False,,Paul Free Throw 1 of 2 (21 PTS),86-87,86,87
+0021900197,2019-11-18,LAC,OKC,47.48,4,0,31,OKC,OKC,ft_make,12,False,False,,Paul Free Throw 2 of 2 (22 PTS),86-88,86,88
+0021900197,2019-11-18,LAC,OKC,47.48,4,0,31,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 6 Short 0),,86-88,86,88
+0021900197,2019-11-18,LAC,OKC,47.58,4,0,25,LAC,LAC,fg3_make,1,False,False,George 26' 3PT Jump Shot (17 PTS) (Williams 9 AST),,89-88,89,88
+0021900197,2019-11-18,LAC,OKC,47.58,4,0,25,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),89-88,89,88
+0021900197,2019-11-18,LAC,OKC,47.8,4,0,12,OKC,OKC,fg3_miss,1,False,False,,MISS Gilgeous-Alexander 27' 3PT Jump Shot,89-88,89,88
+0021900197,2019-11-18,LAC,OKC,47.85,4,0,9,OKC,OKC,reb,0,False,False,,Gallinari REBOUND (Off:1 Def:4),89-88,89,88
+0021900197,2019-11-18,LAC,OKC,47.88,4,0,7,LAC,LAC,timeout,7,False,False,CLIPPERS Timeout: Coach Challenge (Full 6 Short 0),,89-88,89,88
+0021900197,2019-11-18,LAC,OKC,47.93,4,0,4,OKC,OKC,fg_miss,79,False,False,,MISS Gallinari 19' Pullup Jump Shot,89-88,89,88
+0021900197,2019-11-18,LAC,OKC,47.98,4,0,1,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:7),,89-88,89,88
+0021900197,2019-11-18,LAC,OKC,48.0,4,0,0,LAC,OKC,foul,1,False,False,,Adams P.FOUL (P2.PN) (J.Tiven),89-88,89,88
+0021900197,2019-11-18,LAC,OKC,48.0,4,0,0,LAC,LAC,ft_make,11,False,False,George Free Throw 1 of 2 (18 PTS),,90-88,90,88
+0021900197,2019-11-18,LAC,OKC,48.0,4,0,0,LAC,LAC,ft_miss,12,False,False,MISS George Free Throw 2 of 2,,90-88,90,88
+0021900197,2019-11-18,LAC,OKC,48.0,4,0,0,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:0 Def:4),90-88,90,88
+0021900197,2019-11-18,LAC,OKC,48.0,4,0,0,OKC,,period_end,0,False,False,,,90-88,90,88

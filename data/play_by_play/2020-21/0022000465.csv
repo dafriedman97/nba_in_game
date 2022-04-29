@@ -1,0 +1,544 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000465,2021-02-21,NOP,BOS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000465,2021-02-21,NOP,BOS,0.0,1,12,0,,NOP,jump_ball,0,False,False,Jump Ball Hernangomez vs. Theis: Tip to Ingram,,0-0,0,0
+0022000465,2021-02-21,NOP,BOS,0.42,1,11,35,NOP,NOP,fg3_make,1,False,False,Ball 3PT Jump Shot (3 PTS) (Bledsoe 1 AST),,3-0,3,0
+0022000465,2021-02-21,NOP,BOS,0.78,1,11,13,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 27' 3PT Jump Shot,3-0,3,0
+0022000465,2021-02-21,NOP,BOS,0.83,1,11,10,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:1),,3-0,3,0
+0022000465,2021-02-21,NOP,BOS,1.08,1,10,55,NOP,NOP,fg_make,108,False,False,Hernangomez Cutting Dunk Shot (2 PTS) (Ball 1 AST),,5-0,5,0
+0022000465,2021-02-21,NOP,BOS,1.28,1,10,43,BOS,BOS,fg_make,80,False,False,,Walker 23' Step Back Jump Shot (2 PTS),5-2,5,2
+0022000465,2021-02-21,NOP,BOS,1.52,1,10,29,NOP,NOP,fg_make,79,False,False,Ingram 21' Pullup Jump Shot (2 PTS) (Hernangomez 1 AST),,7-2,7,2
+0022000465,2021-02-21,NOP,BOS,1.73,1,10,16,BOS,BOS,fg3_miss,79,False,False,,MISS Brown 25' 3PT Pullup Jump Shot,7-2,7,2
+0022000465,2021-02-21,NOP,BOS,1.78,1,10,13,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:2),,7-2,7,2
+0022000465,2021-02-21,NOP,BOS,1.98,1,10,1,NOP,NOP,fg3_miss,1,False,False,MISS Bledsoe 24' 3PT Jump Shot,,7-2,7,2
+0022000465,2021-02-21,NOP,BOS,2.02,1,9,59,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),7-2,7,2
+0022000465,2021-02-21,NOP,BOS,2.2,1,9,48,BOS,BOS,fg_miss,3,False,False,,MISS Thompson 4' Hook Shot,7-2,7,2
+0022000465,2021-02-21,NOP,BOS,2.23,1,9,46,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,7-2,7,2
+0022000465,2021-02-21,NOP,BOS,2.3,1,9,42,NOP,NOP,fg_make,79,False,False,Ball 16' Pullup Jump Shot (5 PTS),,9-2,9,2
+0022000465,2021-02-21,NOP,BOS,2.5,1,9,30,BOS,BOS,fg3_miss,79,False,False,,MISS Walker 25' 3PT Pullup Jump Shot,9-2,9,2
+0022000465,2021-02-21,NOP,BOS,2.53,1,9,28,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:2),,9-2,9,2
+0022000465,2021-02-21,NOP,BOS,2.7,1,9,18,NOP,NOP,fg_make,6,False,False,Bledsoe 2' Driving Layup (2 PTS) (Ball 2 AST),,11-2,11,2
+0022000465,2021-02-21,NOP,BOS,2.7,1,9,18,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.1 Short 0),11-2,11,2
+0022000465,2021-02-21,NOP,BOS,2.92,1,9,5,BOS,BOS,fg_miss,79,False,False,,MISS Brown 18' Pullup Jump Shot,11-2,11,2
+0022000465,2021-02-21,NOP,BOS,2.97,1,9,2,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:0),11-2,11,2
+0022000465,2021-02-21,NOP,BOS,3.0,1,9,0,BOS,BOS,fg3_make,1,False,False,,Brown 25' 3PT Jump Shot (3 PTS) (Walker 1 AST),11-5,11,5
+0022000465,2021-02-21,NOP,BOS,3.28,1,8,43,NOP,NOP,tov,2,False,True,Williamson Lost Ball Turnover (P1.T1),,11-5,11,5
+0022000465,2021-02-21,NOP,BOS,3.28,1,8,43,NOP,BOS,steal,2,False,True,steal,steal,11-5,11,5
+0022000465,2021-02-21,NOP,BOS,3.45,1,8,33,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 25' 3PT Jump Shot,11-5,11,5
+0022000465,2021-02-21,NOP,BOS,3.48,1,8,31,BOS,BOS,reb,0,False,False,,Celtics Rebound,11-5,11,5
+0022000465,2021-02-21,NOP,BOS,3.53,1,8,28,BOS,BOS,fg_make,63,False,False,,Tatum 13' Fadeaway Jumper (2 PTS) (Brown 1 AST),11-7,11,7
+0022000465,2021-02-21,NOP,BOS,3.97,1,8,2,NOP,NOP,tov,2,False,True,Williamson Lost Ball Turnover (P2.T2),,11-7,11,7
+0022000465,2021-02-21,NOP,BOS,3.97,1,8,2,NOP,BOS,steal,2,False,True,steal,steal,11-7,11,7
+0022000465,2021-02-21,NOP,BOS,4.15,1,7,51,BOS,NOP,violation,5,False,False,Williamson Violation:Kicked Ball (J.DeRosa),,11-7,11,7
+0022000465,2021-02-21,NOP,BOS,4.32,1,7,41,BOS,BOS,fg_make,73,False,False,,Theis 2' Driving Reverse Layup (2 PTS) (Brown 2 AST),11-9,11,9
+0022000465,2021-02-21,NOP,BOS,4.52,1,7,29,NOP,NOP,fg_make,98,False,False,Williamson 3' Cutting Layup Shot (2 PTS) (Bledsoe 2 AST),,13-9,13,9
+0022000465,2021-02-21,NOP,BOS,4.52,1,7,29,NOP,BOS,foul,2,False,False,,Theis S.FOUL (P1.T1) (J.DeRosa),13-9,13,9
+0022000465,2021-02-21,NOP,BOS,4.52,1,7,29,NOP,NOP,ft_make,10,False,False,Williamson Free Throw 1 of 1 (3 PTS),,14-9,14,9
+0022000465,2021-02-21,NOP,BOS,4.68,1,7,19,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 13' Fadeaway Jumper,14-9,14,9
+0022000465,2021-02-21,NOP,BOS,4.75,1,7,15,NOP,NOP,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:1),,14-9,14,9
+0022000465,2021-02-21,NOP,BOS,4.97,1,7,2,NOP,NOP,fg_make,3,False,False,Hernangomez 2' Hook Shot (4 PTS),,16-9,16,9
+0022000465,2021-02-21,NOP,BOS,5.23,1,6,46,BOS,NOP,foul,2,False,False,Ingram S.FOUL (P1.T1) (J.DeRosa),,16-9,16,9
+0022000465,2021-02-21,NOP,BOS,5.23,1,6,46,BOS,BOS,ft_make,13,False,False,,Brown Free Throw 1 of 3 (4 PTS),16-10,16,10
+0022000465,2021-02-21,NOP,BOS,5.23,1,6,46,BOS,BOS,ft_make,14,False,False,,Brown Free Throw 2 of 3 (5 PTS),16-11,16,11
+0022000465,2021-02-21,NOP,BOS,5.23,1,6,46,BOS,BOS,ft_make,15,False,False,,Brown Free Throw 3 of 3 (6 PTS),16-12,16,12
+0022000465,2021-02-21,NOP,BOS,5.4,1,6,36,NOP,NOP,fg_miss,5,False,False,MISS Hernangomez 4' Layup,,16-12,16,12
+0022000465,2021-02-21,NOP,BOS,5.4,1,6,36,NOP,NOP,reb,0,False,False,PELICANS Rebound,,16-12,16,12
+0022000465,2021-02-21,NOP,BOS,5.5,1,6,30,NOP,BOS,foul,1,False,False,,Nesmith P.FOUL (P1.T2) (M.Ayotte),16-12,16,12
+0022000465,2021-02-21,NOP,BOS,5.68,1,6,19,NOP,NOP,fg3_make,1,False,False,Ball 25' 3PT Jump Shot (8 PTS) (Williamson 1 AST),,19-12,19,12
+0022000465,2021-02-21,NOP,BOS,5.92,1,6,5,BOS,BOS,fg_make,6,False,False,,Thompson 1' Driving Layup (2 PTS) (Walker 2 AST),19-14,19,14
+0022000465,2021-02-21,NOP,BOS,6.1,1,5,54,NOP,NOP,tov,2,False,True,Ball Lost Ball Turnover (P1.T3),,19-14,19,14
+0022000465,2021-02-21,NOP,BOS,6.1,1,5,54,NOP,BOS,steal,2,False,True,steal,steal,19-14,19,14
+0022000465,2021-02-21,NOP,BOS,6.2,1,5,48,BOS,BOS,fg3_make,1,False,False,,Brown 3PT Jump Shot (9 PTS) (Walker 3 AST),19-17,19,17
+0022000465,2021-02-21,NOP,BOS,6.58,1,5,25,NOP,NOP,fg_miss,78,False,False,MISS Hernangomez 11' Floating Jump Shot,,19-17,19,17
+0022000465,2021-02-21,NOP,BOS,6.62,1,5,23,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),19-17,19,17
+0022000465,2021-02-21,NOP,BOS,6.68,1,5,19,BOS,BOS,fg_make,6,False,False,,Walker 1' Driving Layup (4 PTS),19-19,19,19
+0022000465,2021-02-21,NOP,BOS,6.68,1,5,19,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,6.95,1,5,3,NOP,NOP,tov,1,False,True,Ball Bad Pass Turnover (P2.T4),,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,6.95,1,5,3,NOP,BOS,steal,1,False,True,steal,steal,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.0,1,5,0,BOS,NOP,foul,1,False,False,Hart P.FOUL (P1.T2) (J.DeRosa),,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.17,1,4,50,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 25' 3PT Jump Shot,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.25,1,4,45,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:3),,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.38,1,4,37,NOP,NOP,fg_miss,47,False,False,MISS Ingram 9' Turnaround Jump Shot,,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.43,1,4,34,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:1),19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.78,1,4,13,BOS,BOS,fg3_miss,79,True,False,,MISS Walker 29' 3PT Pullup Jump Shot,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.78,1,4,13,BOS,NOP,block,79,True,False,block,block,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.8,1,4,12,BOS,BOS,reb,0,False,False,,Celtics Rebound,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.8,1,4,12,BOS,BOS,tov,11,False,False,,Celtics Turnover: Shot Clock (T#1),19-19,19,19
+0022000465,2021-02-21,NOP,BOS,7.98,1,4,1,NOP,NOP,fg_miss,79,False,False,MISS Ingram 17' Pullup Jump Shot,,19-19,19,19
+0022000465,2021-02-21,NOP,BOS,8.03,1,3,58,BOS,BOS,reb,0,False,False,,Nesmith REBOUND (Off:0 Def:1),19-19,19,19
+0022000465,2021-02-21,NOP,BOS,8.15,1,3,51,BOS,BOS,fg3_make,1,False,False,,Ojeleye 26' 3PT Jump Shot (3 PTS) (Brown 3 AST),19-22,19,22
+0022000465,2021-02-21,NOP,BOS,8.33,1,3,40,NOP,BOS,foul,2,False,False,,Ojeleye S.FOUL (P1.T3) (J.DeRosa),19-22,19,22
+0022000465,2021-02-21,NOP,BOS,8.33,1,3,40,NOP,NOP,ft_make,11,False,False,Ingram Free Throw 1 of 2 (3 PTS),,20-22,20,22
+0022000465,2021-02-21,NOP,BOS,8.33,1,3,40,NOP,NOP,ft_make,12,False,False,Ingram Free Throw 2 of 2 (4 PTS),,21-22,21,22
+0022000465,2021-02-21,NOP,BOS,8.6,1,3,24,BOS,BOS,fg_make,80,False,False,,Pritchard 23' Step Back Jump Shot (2 PTS) (Brown 4 AST),21-24,21,24
+0022000465,2021-02-21,NOP,BOS,8.78,1,3,13,NOP,NOP,tov,2,False,True,Ingram Lost Ball Turnover (P1.T5),,21-24,21,24
+0022000465,2021-02-21,NOP,BOS,8.78,1,3,13,NOP,BOS,steal,2,False,True,steal,steal,21-24,21,24
+0022000465,2021-02-21,NOP,BOS,8.88,1,3,7,BOS,BOS,fg_make,52,False,False,,Williams III Alley Oop Dunk (2 PTS) (Brown 5 AST),21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.05,1,2,57,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 2 Short 0),,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.3,1,2,42,NOP,NOP,fg_miss,6,True,False,MISS Ingram 1' Driving Layup,,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.3,1,2,42,NOP,BOS,block,6,True,False,block,block,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.3,1,2,42,BOS,BOS,reb,0,False,False,,Celtics Rebound,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.57,1,2,26,BOS,BOS,fg_miss,80,False,False,,MISS Brown 19' Step Back Jump Shot,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.63,1,2,22,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:1),,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.85,1,2,9,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 27' 3PT Jump Shot,,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,9.9,1,2,6,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:2),21-26,21,26
+0022000465,2021-02-21,NOP,BOS,10.02,1,1,59,BOS,BOS,fg_miss,6,False,False,,MISS Brown 6' Driving Layup,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,10.08,1,1,55,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:0),21-26,21,26
+0022000465,2021-02-21,NOP,BOS,10.12,1,1,53,BOS,BOS,fg3_miss,1,False,False,,MISS Nesmith 25' 3PT Jump Shot,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,10.15,1,1,51,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,21-26,21,26
+0022000465,2021-02-21,NOP,BOS,10.38,1,1,37,NOP,NOP,fg_make,66,False,False,Hayes 1' Jump Bank Shot (2 PTS) (Lewis Jr. 1 AST),,23-26,23,26
+0022000465,2021-02-21,NOP,BOS,10.62,1,1,23,BOS,BOS,fg_miss,6,False,False,,MISS Brown 2' Driving Layup,23-26,23,26
+0022000465,2021-02-21,NOP,BOS,10.65,1,1,21,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:0),23-26,23,26
+0022000465,2021-02-21,NOP,BOS,10.65,1,1,21,BOS,BOS,fg_miss,72,True,False,,MISS Williams III 3' Putback Layup,23-26,23,26
+0022000465,2021-02-21,NOP,BOS,10.65,1,1,21,BOS,NOP,block,72,True,False,block,block,23-26,23,26
+0022000465,2021-02-21,NOP,BOS,10.67,1,1,20,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:2),,23-26,23,26
+0022000465,2021-02-21,NOP,BOS,10.78,1,1,13,NOP,NOP,fg_make,6,False,False,Hart 3' Driving Layup (2 PTS) (Ingram 1 AST),,25-26,25,26
+0022000465,2021-02-21,NOP,BOS,11.03,1,0,58,BOS,BOS,fg_make,80,False,False,,Brown 16' Step Back Jump Shot (11 PTS),25-28,25,28
+0022000465,2021-02-21,NOP,BOS,11.18,1,0,49,NOP,NOP,fg3_make,1,False,False,Ingram 3PT Jump Shot (7 PTS) (Lewis Jr. 2 AST),,28-28,28,28
+0022000465,2021-02-21,NOP,BOS,11.43,1,0,34,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 26' 3PT Jump Shot,28-28,28,28
+0022000465,2021-02-21,NOP,BOS,11.45,1,0,33,BOS,BOS,reb,0,False,False,,Nesmith REBOUND (Off:1 Def:1),28-28,28,28
+0022000465,2021-02-21,NOP,BOS,11.45,1,0,33,BOS,BOS,fg_make,72,False,False,,Nesmith Putback Layup (2 PTS),28-30,28,30
+0022000465,2021-02-21,NOP,BOS,11.67,1,0,20,NOP,NOP,fg3_miss,1,False,False,MISS Hart 3PT Jump Shot,,28-30,28,30
+0022000465,2021-02-21,NOP,BOS,11.73,1,0,16,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:3),28-30,28,30
+0022000465,2021-02-21,NOP,BOS,12.0,1,0,0,BOS,BOS,fg_miss,6,True,False,,MISS Brown 2' Driving Layup,28-30,28,30
+0022000465,2021-02-21,NOP,BOS,12.0,1,0,0,BOS,NOP,block,6,True,False,block,block,28-30,28,30
+0022000465,2021-02-21,NOP,BOS,12.0,1,0,0,BOS,BOS,reb,0,False,False,,Celtics Rebound,28-30,28,30
+0022000465,2021-02-21,NOP,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,28-30,28,30
+0022000465,2021-02-21,NOP,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,28-30,28,30
+0022000465,2021-02-21,NOP,BOS,12.22,2,11,47,BOS,BOS,fg3_make,1,False,False,,Nesmith 3PT Jump Shot (5 PTS) (Williams III 1 AST),28-33,28,33
+0022000465,2021-02-21,NOP,BOS,12.7,2,11,18,NOP,NOP,fg_miss,6,True,False,MISS Hart 5' Driving Layup,,28-33,28,33
+0022000465,2021-02-21,NOP,BOS,12.7,2,11,18,NOP,BOS,block,6,True,False,block,block,28-33,28,33
+0022000465,2021-02-21,NOP,BOS,12.75,2,11,15,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:2),28-33,28,33
+0022000465,2021-02-21,NOP,BOS,12.92,2,11,5,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 27' 3PT Jump Shot,28-33,28,33
+0022000465,2021-02-21,NOP,BOS,12.98,2,11,1,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:0 Def:1),,28-33,28,33
+0022000465,2021-02-21,NOP,BOS,13.1,2,10,54,NOP,NOP,fg3_miss,1,False,False,MISS Redick 3PT Jump Shot,,28-33,28,33
+0022000465,2021-02-21,NOP,BOS,13.17,2,10,50,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),28-33,28,33
+0022000465,2021-02-21,NOP,BOS,13.33,2,10,40,BOS,NOP,foul,1,False,False,Redick P.FOUL (P1.T1) (M.Ayotte),,28-33,28,33
+0022000465,2021-02-21,NOP,BOS,13.55,2,10,27,BOS,NOP,foul,2,False,False,Hart S.FOUL (P2.T2) (J.Tiven),,28-33,28,33
+0022000465,2021-02-21,NOP,BOS,13.55,2,10,27,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (3 PTS),28-34,28,34
+0022000465,2021-02-21,NOP,BOS,13.55,2,10,27,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (4 PTS),28-35,28,35
+0022000465,2021-02-21,NOP,BOS,13.78,2,10,13,NOP,BOS,foul,2,False,False,,Ojeleye S.FOUL (P2.T1) (J.Tiven),28-35,28,35
+0022000465,2021-02-21,NOP,BOS,13.78,2,10,13,NOP,NOP,ft_make,11,False,False,Williamson Free Throw 1 of 2 (4 PTS),,29-35,29,35
+0022000465,2021-02-21,NOP,BOS,13.78,2,10,13,NOP,NOP,ft_miss,12,False,False,MISS Williamson Free Throw 2 of 2,,29-35,29,35
+0022000465,2021-02-21,NOP,BOS,13.82,2,10,11,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:4),29-35,29,35
+0022000465,2021-02-21,NOP,BOS,14.18,2,9,49,BOS,BOS,fg_make,5,False,False,,Thompson 2' Layup (4 PTS) (Tatum 1 AST),29-37,29,37
+0022000465,2021-02-21,NOP,BOS,14.35,2,9,39,NOP,NOP,fg3_miss,1,False,False,MISS Williamson 25' 3PT Jump Shot,,29-37,29,37
+0022000465,2021-02-21,NOP,BOS,14.4,2,9,36,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:5),29-37,29,37
+0022000465,2021-02-21,NOP,BOS,14.62,2,9,23,BOS,BOS,fg3_make,1,False,False,,Theis 25' 3PT Jump Shot (5 PTS) (Pritchard 1 AST),29-40,29,40
+0022000465,2021-02-21,NOP,BOS,14.85,2,9,9,NOP,NOP,fg3_make,1,False,False,Hart 24' 3PT Jump Shot (5 PTS) (Redick 1 AST),,32-40,32,40
+0022000465,2021-02-21,NOP,BOS,15.2,2,8,48,BOS,BOS,fg_make,78,False,False,,Thompson 8' Floating Jump Shot (6 PTS) (Pritchard 2 AST),32-42,32,42
+0022000465,2021-02-21,NOP,BOS,15.4,2,8,36,NOP,NOP,fg_make,1,False,False,Redick 15' Jump Shot (2 PTS) (Lewis Jr. 3 AST),,34-42,34,42
+0022000465,2021-02-21,NOP,BOS,15.4,2,8,36,NOP,NOP,fg_make,1,False,False,Redick 15' Jump Shot (2 PTS) (Lewis Jr. 3 AST),,34-42,34,42
+0022000465,2021-02-21,NOP,BOS,15.67,2,8,20,BOS,BOS,fg_make,6,False,False,,Pritchard 1' Driving Layup (4 PTS),34-44,34,44
+0022000465,2021-02-21,NOP,BOS,15.83,2,8,10,NOP,NOP,tov,2,False,True,Williamson Lost Ball Turnover (P3.T6),,34-44,34,44
+0022000465,2021-02-21,NOP,BOS,15.83,2,8,10,NOP,BOS,steal,2,False,True,steal,steal,34-44,34,44
+0022000465,2021-02-21,NOP,BOS,15.88,2,8,7,BOS,BOS,fg_make,50,False,False,,Tatum 1' Running Dunk (6 PTS),34-46,34,46
+0022000465,2021-02-21,NOP,BOS,15.88,2,8,7,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 3 Short 0),,34-46,34,46
+0022000465,2021-02-21,NOP,BOS,16.3,2,7,42,NOP,NOP,fg_miss,6,False,False,MISS Williamson 2' Driving Layup,,34-46,34,46
+0022000465,2021-02-21,NOP,BOS,16.33,2,7,40,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:0 Def:2),34-46,34,46
+0022000465,2021-02-21,NOP,BOS,16.7,2,7,18,BOS,BOS,fg3_miss,79,False,False,,MISS Pritchard 27' 3PT Pullup Jump Shot,34-46,34,46
+0022000465,2021-02-21,NOP,BOS,16.8,2,7,12,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:2),34-46,34,46
+0022000465,2021-02-21,NOP,BOS,16.8,2,7,12,BOS,BOS,fg_miss,97,False,False,,MISS Thompson Tip Layup Shot,34-46,34,46
+0022000465,2021-02-21,NOP,BOS,16.82,2,7,11,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:3),,34-46,34,46
+0022000465,2021-02-21,NOP,BOS,16.87,2,7,8,NOP,NOP,fg3_make,1,False,False,Ball 26' 3PT Jump Shot (11 PTS),,37-46,37,46
+0022000465,2021-02-21,NOP,BOS,17.23,2,6,46,BOS,BOS,tov,1,False,True,,Pritchard Bad Pass Turnover (P1.T2),37-46,37,46
+0022000465,2021-02-21,NOP,BOS,17.23,2,6,46,BOS,NOP,steal,1,False,True,steal,steal,37-46,37,46
+0022000465,2021-02-21,NOP,BOS,17.4,2,6,36,NOP,NOP,fg_miss,5,True,False,MISS Williamson 2' Layup,,37-46,37,46
+0022000465,2021-02-21,NOP,BOS,17.4,2,6,36,NOP,BOS,block,5,True,False,block,block,37-46,37,46
+0022000465,2021-02-21,NOP,BOS,17.43,2,6,34,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:3),37-46,37,46
+0022000465,2021-02-21,NOP,BOS,17.45,2,6,33,BOS,NOP,foul,2,False,False,Redick S.FOUL (P2.T3) (M.Ayotte),,37-46,37,46
+0022000465,2021-02-21,NOP,BOS,17.45,2,6,33,BOS,BOS,ft_make,11,False,False,,Nesmith Free Throw 1 of 2 (6 PTS),37-47,37,47
+0022000465,2021-02-21,NOP,BOS,17.45,2,6,33,BOS,BOS,ft_make,12,False,False,,Nesmith Free Throw 2 of 2 (7 PTS),37-48,37,48
+0022000465,2021-02-21,NOP,BOS,17.72,2,6,17,NOP,NOP,fg3_miss,1,False,False,MISS Redick 25' 3PT Jump Shot,,37-48,37,48
+0022000465,2021-02-21,NOP,BOS,17.75,2,6,15,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:1),37-48,37,48
+0022000465,2021-02-21,NOP,BOS,17.95,2,6,3,BOS,BOS,fg_miss,6,False,False,,MISS Tatum 3' Driving Layup,37-48,37,48
+0022000465,2021-02-21,NOP,BOS,17.97,2,6,2,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.2 Short 0),37-50,37,50
+0022000465,2021-02-21,NOP,BOS,17.97,2,6,2,BOS,BOS,fg_make,87,False,False,,Williams III 1' Putback Dunk (4 PTS),37-50,37,50
+0022000465,2021-02-21,NOP,BOS,17.97,2,6,2,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:3 Def:1),37-48,37,48
+0022000465,2021-02-21,NOP,BOS,18.25,2,5,45,NOP,NOP,fg_make,6,False,False,Bledsoe 1' Driving Layup (4 PTS) (Ingram 2 AST),,39-50,39,50
+0022000465,2021-02-21,NOP,BOS,18.25,2,5,45,NOP,BOS,foul,2,False,False,,Williams III S.FOUL (P1.T2) (M.Ayotte),39-50,39,50
+0022000465,2021-02-21,NOP,BOS,18.25,2,5,45,NOP,NOP,ft_miss,10,False,False,MISS Bledsoe Free Throw 1 of 1,,39-50,39,50
+0022000465,2021-02-21,NOP,BOS,18.3,2,5,42,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:3 Def:2),39-50,39,50
+0022000465,2021-02-21,NOP,BOS,18.55,2,5,27,BOS,BOS,fg_miss,78,False,False,,MISS Brown 5' Floating Jump Shot,39-50,39,50
+0022000465,2021-02-21,NOP,BOS,18.55,2,5,27,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:4),,39-50,39,50
+0022000465,2021-02-21,NOP,BOS,18.83,2,5,10,NOP,NOP,fg3_make,1,False,False,Ingram 24' 3PT Jump Shot (10 PTS) (Bledsoe 3 AST),,42-50,42,50
+0022000465,2021-02-21,NOP,BOS,19.03,2,4,58,BOS,BOS,fg_miss,5,True,False,,MISS Walker 3' Layup,42-50,42,50
+0022000465,2021-02-21,NOP,BOS,19.03,2,4,58,BOS,NOP,block,5,True,False,block,block,42-50,42,50
+0022000465,2021-02-21,NOP,BOS,19.05,2,4,57,BOS,BOS,reb,0,False,False,,Celtics Rebound,42-50,42,50
+0022000465,2021-02-21,NOP,BOS,19.15,2,4,51,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 14' Fadeaway Jumper,42-50,42,50
+0022000465,2021-02-21,NOP,BOS,19.22,2,4,47,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:2),,42-50,42,50
+0022000465,2021-02-21,NOP,BOS,19.33,2,4,40,NOP,NOP,tov,45,False,False,Hernangomez Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,42-50,42,50
+0022000465,2021-02-21,NOP,BOS,19.62,2,4,23,BOS,BOS,fg_make,6,False,False,,Tatum 1' Driving Layup (8 PTS) (Williams III 2 AST),42-52,42,52
+0022000465,2021-02-21,NOP,BOS,19.92,2,4,5,NOP,NOP,fg_miss,101,False,False,MISS Bledsoe 8' Driving Floating Jump Shot,,42-52,42,52
+0022000465,2021-02-21,NOP,BOS,19.95,2,4,3,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:0 Def:1),42-52,42,52
+0022000465,2021-02-21,NOP,BOS,20.25,2,3,45,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 25' 3PT Jump Shot,42-52,42,52
+0022000465,2021-02-21,NOP,BOS,20.3,2,3,42,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:5),,42-52,42,52
+0022000465,2021-02-21,NOP,BOS,20.4,2,3,36,BOS,NOP,foul,26,False,False,Ball Offensive Charge Foul (P1.T4) (J.DeRosa),,42-52,42,52
+0022000465,2021-02-21,NOP,BOS,20.4,2,3,36,NOP,NOP,tov,37,False,False,Ball Offensive Foul Turnover (P3.T8),,42-52,42,52
+0022000465,2021-02-21,NOP,BOS,20.68,2,3,19,BOS,BOS,fg_make,75,False,False,,Brown 2' Driving Finger Roll Layup (13 PTS),42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.02,2,2,59,NOP,NOP,fg_miss,75,False,False,MISS Williamson 6' Driving Finger Roll Layup,,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.07,2,2,56,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:1),42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.17,2,2,50,BOS,BOS,tov,45,False,False,,Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T3),42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.43,2,2,34,NOP,NOP,fg_miss,5,True,False,MISS Bledsoe 4' Layup,,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.43,2,2,34,NOP,BOS,block,5,True,False,block,block,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.45,2,2,33,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:5),,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.45,2,2,33,NOP,NOP,fg_miss,5,False,False,MISS Hernangomez 3' Layup,,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.47,2,2,32,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:2 Def:5),,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.47,2,2,32,NOP,NOP,fg_miss,72,False,False,MISS Hernangomez Putback Layup,,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.48,2,2,31,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:3 Def:5),,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.48,2,2,31,NOP,NOP,fg_miss,97,False,False,MISS Hernangomez 2' Tip Layup Shot,,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.5,2,2,30,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:4 Def:5),,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.5,2,2,30,NOP,NOP,fg_miss,72,True,False,MISS Hernangomez 1' Putback Layup,,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.5,2,2,30,NOP,BOS,block,72,True,False,block,block,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.53,2,2,28,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:5 Def:5),,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.55,2,2,27,NOP,NOP,fg3_miss,1,False,False,MISS Ball 25' 3PT Jump Shot,,42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.57,2,2,26,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:4),42-54,42,54
+0022000465,2021-02-21,NOP,BOS,21.72,2,2,17,BOS,BOS,fg_make,6,False,False,,Tatum 2' Driving Layup (10 PTS) (Brown 6 AST),42-56,42,56
+0022000465,2021-02-21,NOP,BOS,21.82,2,2,11,NOP,BOS,foul,2,False,False,,Theis S.FOUL (P2.T3) (J.DeRosa),42-56,42,56
+0022000465,2021-02-21,NOP,BOS,21.82,2,2,11,NOP,NOP,ft_make,11,False,False,Ball Free Throw 1 of 2 (12 PTS),,43-56,43,56
+0022000465,2021-02-21,NOP,BOS,21.82,2,2,11,NOP,NOP,ft_make,12,False,False,Ball Free Throw 2 of 2 (13 PTS),,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,21.97,2,2,2,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 25' 3PT Jump Shot,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.02,2,1,59,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:3),,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.15,2,1,51,NOP,NOP,fg3_miss,1,False,False,MISS Ball 3PT Jump Shot,,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.23,2,1,46,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:4),44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.35,2,1,39,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 27' 3PT Jump Shot,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.38,2,1,37,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:5 Def:6),,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.45,2,1,33,BOS,NOP,foul,26,False,False,Ball Offensive Charge Foul (P2.PN) (J.Tiven),,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.45,2,1,33,NOP,NOP,tov,37,False,False,Ball Offensive Foul Turnover (P4.T9),,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.62,2,1,23,BOS,NOP,foul,2,False,False,Alexander-Walker S.FOUL (P1.PN) (J.DeRosa),,44-56,44,56
+0022000465,2021-02-21,NOP,BOS,22.62,2,1,23,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (11 PTS),44-57,44,57
+0022000465,2021-02-21,NOP,BOS,22.62,2,1,23,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (12 PTS),44-58,44,58
+0022000465,2021-02-21,NOP,BOS,22.9,2,1,6,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 3PT Jump Shot,,44-58,44,58
+0022000465,2021-02-21,NOP,BOS,22.95,2,1,3,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:2),44-58,44,58
+0022000465,2021-02-21,NOP,BOS,23.12,2,0,53,BOS,BOS,fg3_make,1,False,False,,Tatum 25' 3PT Jump Shot (15 PTS),44-61,44,61
+0022000465,2021-02-21,NOP,BOS,23.32,2,0,41,NOP,NOP,tov,45,False,False,Ingram Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,44-61,44,61
+0022000465,2021-02-21,NOP,BOS,23.47,2,0,32,BOS,NOP,foul,2,False,False,Alexander-Walker S.FOUL (P2.PN) (J.DeRosa),,44-61,44,61
+0022000465,2021-02-21,NOP,BOS,23.47,2,0,32,BOS,BOS,ft_miss,13,False,False,,MISS Tatum Free Throw 1 of 3,44-61,44,61
+0022000465,2021-02-21,NOP,BOS,23.47,2,0,32,BOS,BOS,reb,1,False,False,,Celtics Rebound,44-61,44,61
+0022000465,2021-02-21,NOP,BOS,23.47,2,0,32,BOS,BOS,ft_make,14,False,False,,Tatum Free Throw 2 of 3 (16 PTS),44-62,44,62
+0022000465,2021-02-21,NOP,BOS,23.47,2,0,32,BOS,BOS,ft_make,15,False,False,,Tatum Free Throw 3 of 3 (17 PTS),44-63,44,63
+0022000465,2021-02-21,NOP,BOS,23.53,2,0,28,NOP,NOP,fg3_make,79,False,False,Ingram 25' 3PT Pullup Jump Shot (13 PTS),,47-63,47,63
+0022000465,2021-02-21,NOP,BOS,23.9,2,0,6,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 26' 3PT Jump Shot,47-63,47,63
+0022000465,2021-02-21,NOP,BOS,23.95,2,0,3,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:5 Def:7),,47-63,47,63
+0022000465,2021-02-21,NOP,BOS,24.0,2,0,0,NOP,,period_end,0,False,False,,,47-63,47,63
+0022000465,2021-02-21,NOP,BOS,24.0,3,12,0,NOP,,period_start,0,False,False,,,47-63,47,63
+0022000465,2021-02-21,NOP,BOS,24.23,3,11,46,BOS,BOS,tov,1,False,True,,Brown Bad Pass Turnover (P1.T4),47-63,47,63
+0022000465,2021-02-21,NOP,BOS,24.23,3,11,46,BOS,NOP,steal,1,False,True,steal,steal,47-63,47,63
+0022000465,2021-02-21,NOP,BOS,24.3,3,11,42,NOP,NOP,fg_make,6,False,False,Ball 2' Driving Layup (15 PTS),,49-63,49,63
+0022000465,2021-02-21,NOP,BOS,24.52,3,11,29,BOS,BOS,fg_miss,79,False,False,,MISS Walker 18' Pullup Jump Shot,49-63,49,63
+0022000465,2021-02-21,NOP,BOS,24.57,3,11,26,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:4),49-63,49,63
+0022000465,2021-02-21,NOP,BOS,24.73,3,11,16,BOS,BOS,fg_make,101,False,False,,Tatum 6' Driving Floating Jump Shot (19 PTS),49-65,49,65
+0022000465,2021-02-21,NOP,BOS,25.02,3,10,59,NOP,NOP,fg_make,6,False,False,Williamson 2' Driving Layup (6 PTS),,51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.35,3,10,39,BOS,BOS,fg_miss,78,False,False,,MISS Thompson 6' Floating Jump Shot,51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.38,3,10,37,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:0 Def:2),,51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.48,3,10,31,NOP,BOS,foul,2,False,False,,Thompson S.FOUL (P1.T1) (J.Tiven),51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.48,3,10,31,NOP,NOP,ft_miss,11,False,False,MISS Hernangomez Free Throw 1 of 2,,51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.48,3,10,31,NOP,NOP,reb,1,False,False,PELICANS Rebound,,51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.48,3,10,31,NOP,NOP,ft_miss,12,False,False,MISS Hernangomez Free Throw 2 of 2,,51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.5,3,10,30,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:5),51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.68,3,10,19,BOS,NOP,foul,2,False,False,Bledsoe S.FOUL (P1.T1) (J.DeRosa),,51-65,51,65
+0022000465,2021-02-21,NOP,BOS,25.68,3,10,19,BOS,BOS,ft_make,13,False,False,,Walker Free Throw 1 of 3 (5 PTS),51-66,51,66
+0022000465,2021-02-21,NOP,BOS,25.68,3,10,19,BOS,BOS,ft_make,14,False,False,,Walker Free Throw 2 of 3 (6 PTS),51-67,51,67
+0022000465,2021-02-21,NOP,BOS,25.68,3,10,19,BOS,BOS,ft_make,15,False,False,,Walker Free Throw 3 of 3 (7 PTS),51-68,51,68
+0022000465,2021-02-21,NOP,BOS,25.87,3,10,8,NOP,NOP,fg_miss,6,False,False,MISS Williamson 1' Driving Layup,,51-68,51,68
+0022000465,2021-02-21,NOP,BOS,25.95,3,10,3,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:3),51-68,51,68
+0022000465,2021-02-21,NOP,BOS,26.08,3,9,55,BOS,NOP,foul,2,False,False,Bledsoe S.FOUL (P2.T2) (J.DeRosa),,51-68,51,68
+0022000465,2021-02-21,NOP,BOS,26.08,3,9,55,BOS,BOS,ft_miss,11,False,False,,MISS Tatum Free Throw 1 of 2,51-68,51,68
+0022000465,2021-02-21,NOP,BOS,26.08,3,9,55,BOS,BOS,reb,1,False,False,,Celtics Rebound,51-68,51,68
+0022000465,2021-02-21,NOP,BOS,26.08,3,9,55,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (20 PTS),51-69,51,69
+0022000465,2021-02-21,NOP,BOS,26.38,3,9,37,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 27' 3PT Jump Shot,,51-69,51,69
+0022000465,2021-02-21,NOP,BOS,26.43,3,9,34,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:6),51-69,51,69
+0022000465,2021-02-21,NOP,BOS,26.55,3,9,27,BOS,BOS,fg3_make,1,False,False,,Tatum 24' 3PT Jump Shot (23 PTS),51-72,51,72
+0022000465,2021-02-21,NOP,BOS,26.57,3,9,26,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,51-72,51,72
+0022000465,2021-02-21,NOP,BOS,26.72,3,9,17,NOP,NOP,fg_make,6,False,False,Bledsoe 1' Driving Layup (6 PTS) (Hernangomez 2 AST),,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.03,3,8,58,BOS,BOS,fg_miss,6,False,False,,MISS Brown 6' Driving Layup,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.07,3,8,56,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:4),,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.15,3,8,51,NOP,BOS,foul,2,False,False,,Theis S.FOUL (P3.T2) (J.DeRosa),53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.15,3,8,51,NOP,NOP,ft_miss,11,False,False,MISS Williamson Free Throw 1 of 2,,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.15,3,8,51,NOP,NOP,reb,1,False,False,PELICANS Rebound,,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.15,3,8,51,NOP,NOP,ft_miss,12,False,False,MISS Williamson Free Throw 2 of 2,,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.2,3,8,48,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:7),53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.37,3,8,38,BOS,BOS,fg_miss,5,True,False,,MISS Theis 1' Layup,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.37,3,8,38,BOS,NOP,block,5,True,False,block,block,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.43,3,8,34,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:5 Def:8),,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.58,3,8,25,NOP,NOP,fg_miss,78,False,False,MISS Hernangomez 6' Floating Jump Shot,,53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.62,3,8,23,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:4),53-72,53,72
+0022000465,2021-02-21,NOP,BOS,27.68,3,8,19,BOS,BOS,fg3_make,79,False,False,,Walker 25' 3PT Pullup Jump Shot (10 PTS) (Brown 7 AST),53-75,53,75
+0022000465,2021-02-21,NOP,BOS,27.88,3,8,7,NOP,NOP,fg_make,79,False,False,Ingram 14' Pullup Jump Shot (15 PTS),,55-75,55,75
+0022000465,2021-02-21,NOP,BOS,28.28,3,7,43,BOS,BOS,fg_make,5,False,False,,Thompson 2' Layup (8 PTS),55-77,55,77
+0022000465,2021-02-21,NOP,BOS,28.48,3,7,31,NOP,NOP,tov,1,False,True,Ball Bad Pass Turnover (P5.T11),,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,28.48,3,7,31,NOP,BOS,steal,1,False,True,steal,steal,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,28.57,3,7,26,BOS,NOP,foul,1,False,False,Hernangomez P.FOUL (P1.T3) (M.Ayotte),,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,28.75,3,7,15,BOS,NOP,foul,1,False,False,Ball P.FOUL (P3.T4) (J.DeRosa),,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,28.88,3,7,7,BOS,BOS,fg_miss,79,True,False,,MISS Walker 19' Pullup Jump Shot,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,28.88,3,7,7,BOS,NOP,block,79,True,False,block,block,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,28.9,3,7,6,NOP,NOP,reb,0,False,False,PELICANS Rebound,,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.15,3,6,51,NOP,NOP,fg_miss,5,False,False,MISS Williamson 2' Layup,,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.18,3,6,49,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:5),55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.27,3,6,44,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 26' 3PT Jump Shot,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.33,3,6,40,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:0 Def:3),,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.42,3,6,35,NOP,NOP,tov,1,False,True,Ball Bad Pass Turnover (P6.T12),,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.42,3,6,35,NOP,BOS,steal,1,False,True,steal,steal,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.52,3,6,29,BOS,NOP,foul,1,False,False,Ingram P.FOUL (P2.PN) (J.Tiven),,55-77,55,77
+0022000465,2021-02-21,NOP,BOS,29.52,3,6,29,BOS,BOS,ft_make,11,False,False,,Thompson Free Throw 1 of 2 (9 PTS),55-78,55,78
+0022000465,2021-02-21,NOP,BOS,29.52,3,6,29,BOS,BOS,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (10 PTS),55-79,55,79
+0022000465,2021-02-21,NOP,BOS,29.8,3,6,12,NOP,NOP,fg_miss,78,False,False,MISS Ball 7' Floating Jump Shot,,55-79,55,79
+0022000465,2021-02-21,NOP,BOS,29.82,3,6,11,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:1 Def:3),,55-79,55,79
+0022000465,2021-02-21,NOP,BOS,29.82,3,6,11,NOP,NOP,fg_miss,5,True,False,MISS Williamson 2' Layup,,55-79,55,79
+0022000465,2021-02-21,NOP,BOS,29.82,3,6,11,NOP,BOS,block,5,True,False,block,block,55-79,55,79
+0022000465,2021-02-21,NOP,BOS,29.83,3,6,10,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:2 Def:3),,55-79,55,79
+0022000465,2021-02-21,NOP,BOS,29.85,3,6,9,NOP,NOP,fg_make,72,False,False,Williamson Putback Layup (8 PTS),,57-79,57,79
+0022000465,2021-02-21,NOP,BOS,30.02,3,5,59,BOS,NOP,foul,2,False,False,Hernangomez S.FOUL (P2.PN) (J.DeRosa),,57-79,57,79
+0022000465,2021-02-21,NOP,BOS,30.02,3,5,59,BOS,BOS,ft_miss,11,False,False,,MISS Brown Free Throw 1 of 2,57-79,57,79
+0022000465,2021-02-21,NOP,BOS,30.02,3,5,59,BOS,BOS,reb,1,False,False,,Celtics Rebound,57-79,57,79
+0022000465,2021-02-21,NOP,BOS,30.02,3,5,59,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (14 PTS),57-80,57,80
+0022000465,2021-02-21,NOP,BOS,30.43,3,5,34,NOP,NOP,fg_make,6,False,False,Ingram 1' Driving Layup (17 PTS) (Redick 2 AST),,59-80,59,80
+0022000465,2021-02-21,NOP,BOS,30.65,3,5,21,BOS,BOS,fg_miss,80,False,False,,MISS Walker 21' Step Back Jump Shot,59-80,59,80
+0022000465,2021-02-21,NOP,BOS,30.7,3,5,18,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:4 Def:2),59-80,59,80
+0022000465,2021-02-21,NOP,BOS,30.72,3,5,17,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 26' 3PT Jump Shot,59-80,59,80
+0022000465,2021-02-21,NOP,BOS,30.78,3,5,13,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,59-80,59,80
+0022000465,2021-02-21,NOP,BOS,30.87,3,5,8,NOP,NOP,fg_make,71,False,False,Hernangomez 2' Finger Roll Layup (6 PTS) (Ingram 3 AST),,61-80,61,80
+0022000465,2021-02-21,NOP,BOS,30.87,3,5,8,NOP,BOS,foul,2,False,False,,Nesmith S.FOUL (P2.T3) (J.DeRosa),61-80,61,80
+0022000465,2021-02-21,NOP,BOS,30.87,3,5,8,NOP,NOP,ft_miss,10,False,False,MISS Hernangomez Free Throw 1 of 1,,61-80,61,80
+0022000465,2021-02-21,NOP,BOS,30.92,3,5,5,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:4 Def:3),61-80,61,80
+0022000465,2021-02-21,NOP,BOS,31.18,3,4,49,BOS,BOS,fg_make,5,False,False,,Walker 2' Layup (12 PTS),61-82,61,82
+0022000465,2021-02-21,NOP,BOS,31.38,3,4,37,NOP,NOP,fg_make,6,False,False,Ingram 1' Driving Layup (19 PTS),,63-82,63,82
+0022000465,2021-02-21,NOP,BOS,31.72,3,4,17,BOS,BOS,fg_make,52,False,False,,Williams III 1' Alley Oop Dunk (6 PTS) (Brown 8 AST),63-84,63,84
+0022000465,2021-02-21,NOP,BOS,31.93,3,4,4,NOP,NOP,fg3_miss,1,False,False,MISS Hart 3PT Jump Shot,,63-84,63,84
+0022000465,2021-02-21,NOP,BOS,32.05,3,3,57,BOS,BOS,reb,0,False,False,,Nesmith REBOUND (Off:1 Def:2),63-84,63,84
+0022000465,2021-02-21,NOP,BOS,32.17,3,3,50,BOS,BOS,tov,45,False,False,,Walker Out of Bounds - Bad Pass Turnover Turnover (P2.T5),63-84,63,84
+0022000465,2021-02-21,NOP,BOS,32.25,3,3,45,NOP,BOS,foul,1,False,False,,Brown P.FOUL (P1.T4) (J.Tiven),63-84,63,84
+0022000465,2021-02-21,NOP,BOS,32.33,3,3,40,NOP,BOS,foul,2,False,False,,Brown S.FOUL (P2.PN) (M.Ayotte),63-84,63,84
+0022000465,2021-02-21,NOP,BOS,32.33,3,3,40,NOP,NOP,ft_miss,11,False,False,MISS Hayes Free Throw 1 of 2,,63-84,63,84
+0022000465,2021-02-21,NOP,BOS,32.33,3,3,40,NOP,NOP,reb,1,False,False,PELICANS Rebound,,63-84,63,84
+0022000465,2021-02-21,NOP,BOS,32.33,3,3,40,NOP,NOP,ft_make,12,False,False,Hayes Free Throw 2 of 2 (3 PTS),,64-84,64,84
+0022000465,2021-02-21,NOP,BOS,32.57,3,3,26,BOS,BOS,tov,2,False,True,,Brown Lost Ball Turnover (P2.T6),64-84,64,84
+0022000465,2021-02-21,NOP,BOS,32.57,3,3,26,BOS,NOP,steal,2,False,True,steal,steal,64-84,64,84
+0022000465,2021-02-21,NOP,BOS,32.6,3,3,24,NOP,BOS,foul,2,False,False,,Pritchard S.FOUL (P1.PN) (J.Tiven),64-84,64,84
+0022000465,2021-02-21,NOP,BOS,32.6,3,3,24,NOP,NOP,ft_make,11,False,False,Bledsoe Free Throw 1 of 2 (7 PTS),,65-84,65,84
+0022000465,2021-02-21,NOP,BOS,32.6,3,3,24,NOP,NOP,ft_make,12,False,False,Bledsoe Free Throw 2 of 2 (8 PTS),,66-84,66,84
+0022000465,2021-02-21,NOP,BOS,32.82,3,3,11,NOP,BOS,foul,4,False,False,,Williams III OFF.Foul (P2) (M.Ayotte),66-84,66,84
+0022000465,2021-02-21,NOP,BOS,32.82,3,3,11,BOS,BOS,tov,37,False,False,,Williams III Offensive Foul Turnover (P1.T7),66-84,66,84
+0022000465,2021-02-21,NOP,BOS,32.97,3,3,2,NOP,BOS,foul,1,False,False,,Nesmith P.FOUL (P3.PN) (J.Tiven),66-84,66,84
+0022000465,2021-02-21,NOP,BOS,32.97,3,3,2,NOP,NOP,ft_make,11,False,False,Redick Free Throw 1 of 2 (3 PTS),,67-84,67,84
+0022000465,2021-02-21,NOP,BOS,32.97,3,3,2,NOP,NOP,ft_make,12,False,False,Redick Free Throw 2 of 2 (4 PTS),,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,33.07,3,2,56,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.3 Short 0),68-84,68,84
+0022000465,2021-02-21,NOP,BOS,33.28,3,2,43,BOS,BOS,fg_miss,1,False,False,,MISS Williams III 11' Jump Shot,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,33.3,3,2,42,NOP,NOP,reb,0,False,False,PELICANS Rebound,,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,33.53,3,2,28,NOP,NOP,fg_miss,1,False,False,MISS Ingram 15' Jump Shot,,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,33.57,3,2,26,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:0 Def:1),68-84,68,84
+0022000465,2021-02-21,NOP,BOS,33.85,3,2,9,BOS,BOS,fg_miss,78,False,False,,MISS Tatum 8' Floating Jump Shot,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,33.88,3,2,7,NOP,NOP,reb,0,False,False,Redick REBOUND (Off:0 Def:1),,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,34.0,3,2,0,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 25' 3PT Jump Shot,,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,34.07,3,1,56,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:4 Def:4),68-84,68,84
+0022000465,2021-02-21,NOP,BOS,34.3,3,1,42,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 12' Fadeaway Jumper,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,34.35,3,1,39,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:0 Def:1),,68-84,68,84
+0022000465,2021-02-21,NOP,BOS,34.65,3,1,21,NOP,NOP,fg_make,6,False,False,Ingram 2' Driving Layup (21 PTS) (Redick 3 AST),,70-84,70,84
+0022000465,2021-02-21,NOP,BOS,34.95,3,1,3,BOS,BOS,fg_make,6,False,False,,Nesmith 3' Driving Layup (9 PTS),70-86,70,86
+0022000465,2021-02-21,NOP,BOS,34.95,3,1,3,BOS,NOP,foul,2,False,False,Redick S.FOUL (P3.PN) (J.Tiven),,70-86,70,86
+0022000465,2021-02-21,NOP,BOS,34.95,3,1,3,BOS,BOS,ft_make,10,False,False,,Nesmith Free Throw 1 of 1 (10 PTS),70-87,70,87
+0022000465,2021-02-21,NOP,BOS,35.13,3,0,52,NOP,NOP,fg3_miss,1,False,False,MISS Redick 26' 3PT Jump Shot,,70-87,70,87
+0022000465,2021-02-21,NOP,BOS,35.15,3,0,51,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:3 Def:3),,70-87,70,87
+0022000465,2021-02-21,NOP,BOS,35.18,3,0,49,NOP,NOP,fg_make,72,False,False,Williamson 3' Putback Layup (10 PTS),,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.43,3,0,34,BOS,NOP,foul,2,False,False,Williamson S.FOUL (P1.PN) (M.Ayotte),,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.43,3,0,34,BOS,BOS,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.43,3,0,34,BOS,BOS,reb,1,False,False,,Celtics Rebound,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.43,3,0,34,BOS,BOS,ft_miss,12,False,False,,MISS Thompson Free Throw 2 of 2,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.45,3,0,33,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:3 Def:4),,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.57,3,0,26,NOP,NOP,tov,1,False,True,Bledsoe Bad Pass Turnover (P1.T13),,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.57,3,0,26,NOP,BOS,steal,1,False,True,steal,steal,72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.88,3,0,7,NOP,BOS,foul,26,False,False,,Tatum Offensive Charge Foul (P1.PN) (J.Tiven),72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.88,3,0,7,BOS,BOS,tov,37,False,False,,Tatum Offensive Foul Turnover (P1.T8),72-87,72,87
+0022000465,2021-02-21,NOP,BOS,35.98,3,0,1,NOP,NOP,fg_make,6,False,False,Williamson 2' Driving Layup (12 PTS),,74-87,74,87
+0022000465,2021-02-21,NOP,BOS,36.0,3,0,0,NOP,,period_end,0,False,False,,,74-87,74,87
+0022000465,2021-02-21,NOP,BOS,36.0,4,12,0,NOP,,period_start,0,False,False,,,74-87,74,87
+0022000465,2021-02-21,NOP,BOS,36.23,4,11,46,NOP,NOP,fg3_miss,1,False,False,MISS Melli 26' 3PT Jump Shot,,74-87,74,87
+0022000465,2021-02-21,NOP,BOS,36.28,4,11,43,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:4 Def:4),,74-87,74,87
+0022000465,2021-02-21,NOP,BOS,36.3,4,11,42,NOP,NOP,fg_make,72,False,False,Williamson 1' Putback Layup (14 PTS),,76-87,76,87
+0022000465,2021-02-21,NOP,BOS,36.3,4,11,42,BOS,NOP,foul,11,False,False,Redick T.FOUL (P3.T0) (J.Tiven),,76-87,76,87
+0022000465,2021-02-21,NOP,BOS,36.3,4,11,42,BOS,BOS,ft_make,16,False,False,,Tatum Free Throw Technical (24 PTS),76-88,76,88
+0022000465,2021-02-21,NOP,BOS,36.53,4,11,28,BOS,BOS,fg_miss,44,False,False,,MISS Theis 2' Reverse Layup,76-88,76,88
+0022000465,2021-02-21,NOP,BOS,36.57,4,11,26,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:4 Def:5),,76-88,76,88
+0022000465,2021-02-21,NOP,BOS,36.6,4,11,24,NOP,BOS,foul,1,False,False,,Nesmith P.FOUL (P4.T1) (J.DeRosa),76-88,76,88
+0022000465,2021-02-21,NOP,BOS,36.6,4,11,24,BOS,NOP,foul,11,False,False,Redick T.FOUL (P3.T0) (J.Tiven),,76-88,76,88
+0022000465,2021-02-21,NOP,BOS,36.6,4,11,24,BOS,BOS,ft_make,16,False,False,,Tatum Free Throw Technical (25 PTS),76-89,76,89
+0022000465,2021-02-21,NOP,BOS,36.6,4,11,24,BOS,NOP,ejection,4,False,False,Redick Ejection:Other,,76-88,76,88
+0022000465,2021-02-21,NOP,BOS,36.73,4,11,16,NOP,NOP,fg3_miss,1,False,False,MISS Ball 3PT Jump Shot,,76-89,76,89
+0022000465,2021-02-21,NOP,BOS,36.78,4,11,13,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:8),76-89,76,89
+0022000465,2021-02-21,NOP,BOS,36.85,4,11,9,BOS,NOP,foul,1,False,False,Williamson P.FOUL (P2.T1) (J.Tiven),,76-89,76,89
+0022000465,2021-02-21,NOP,BOS,37.0,4,11,0,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 11' Fadeaway Jumper,76-89,76,89
+0022000465,2021-02-21,NOP,BOS,37.07,4,10,56,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:1),,76-89,76,89
+0022000465,2021-02-21,NOP,BOS,37.25,4,10,45,NOP,NOP,fg_make,6,False,False,Alexander-Walker 2' Driving Layup (2 PTS),,78-89,78,89
+0022000465,2021-02-21,NOP,BOS,37.6,4,10,24,BOS,BOS,fg_make,52,False,False,,Thompson 1' Alley Oop Dunk (12 PTS) (Pritchard 3 AST),78-91,78,91
+0022000465,2021-02-21,NOP,BOS,37.8,4,10,12,NOP,NOP,fg_miss,6,False,False,MISS Ball 1' Driving Layup,,78-91,78,91
+0022000465,2021-02-21,NOP,BOS,37.82,4,10,11,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:5 Def:5),,78-91,78,91
+0022000465,2021-02-21,NOP,BOS,37.82,4,10,11,NOP,NOP,fg_make,87,False,False,Williamson Putback Dunk (16 PTS),,80-91,80,91
+0022000465,2021-02-21,NOP,BOS,38.18,4,9,49,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 25' 3PT Jump Shot,80-91,80,91
+0022000465,2021-02-21,NOP,BOS,38.25,4,9,45,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:4),,80-91,80,91
+0022000465,2021-02-21,NOP,BOS,38.3,4,9,42,NOP,NOP,fg_make,6,False,False,Hart 2' Driving Layup (7 PTS),,82-91,82,91
+0022000465,2021-02-21,NOP,BOS,38.3,4,9,42,NOP,BOS,foul,2,False,False,,Tatum S.FOUL (P2.T2) (J.DeRosa),82-91,82,91
+0022000465,2021-02-21,NOP,BOS,38.3,4,9,42,NOP,NOP,ft_make,10,False,False,Hart Free Throw 1 of 1 (8 PTS),,83-91,83,91
+0022000465,2021-02-21,NOP,BOS,38.57,4,9,26,BOS,NOP,foul,2,False,False,Melli S.FOUL (P1.T2) (M.Ayotte),,83-91,83,91
+0022000465,2021-02-21,NOP,BOS,38.57,4,9,26,BOS,BOS,ft_make,11,False,False,,Thompson Free Throw 1 of 2 (13 PTS),83-92,83,92
+0022000465,2021-02-21,NOP,BOS,38.57,4,9,26,BOS,BOS,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (14 PTS),83-93,83,93
+0022000465,2021-02-21,NOP,BOS,38.75,4,9,15,NOP,NOP,fg3_make,1,False,False,Hart 25' 3PT Jump Shot (11 PTS) (Williamson 2 AST),,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.07,4,8,56,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 26' 3PT Jump Shot,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.1,4,8,54,NOP,NOP,reb,0,False,False,PELICANS Rebound,,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.28,4,8,43,NOP,BOS,foul,1,False,False,,Nesmith P.FOUL (P5.T3) (J.DeRosa),86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.37,4,8,38,NOP,NOP,fg3_miss,1,False,False,MISS Alexander-Walker 26' 3PT Jump Shot,,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.42,4,8,35,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:6),86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.78,4,8,13,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 29' 3PT Jump Shot,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.87,4,8,8,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:0 Def:1),,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.95,4,8,3,NOP,NOP,fg_miss,5,True,False,MISS Ball 2' Layup,,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.95,4,8,3,NOP,BOS,block,5,True,False,block,block,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.95,4,8,3,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:4),,86-93,86,93
+0022000465,2021-02-21,NOP,BOS,39.97,4,8,2,NOP,NOP,fg_make,44,False,False,Hart 2' Reverse Layup (13 PTS),,88-93,88,93
+0022000465,2021-02-21,NOP,BOS,39.97,4,8,2,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.4 Short 0),88-93,88,93
+0022000465,2021-02-21,NOP,BOS,40.25,4,7,45,BOS,BOS,fg_miss,80,False,False,,MISS Walker 21' Step Back Jump Shot,88-93,88,93
+0022000465,2021-02-21,NOP,BOS,40.3,4,7,42,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:0 Def:2),,88-93,88,93
+0022000465,2021-02-21,NOP,BOS,40.38,4,7,37,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 26' 3PT Jump Shot,,88-93,88,93
+0022000465,2021-02-21,NOP,BOS,40.43,4,7,34,BOS,BOS,reb,0,False,False,,Celtics Rebound,88-93,88,93
+0022000465,2021-02-21,NOP,BOS,40.78,4,7,13,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 27' 3PT Jump Shot,88-93,88,93
+0022000465,2021-02-21,NOP,BOS,40.97,4,7,2,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:4),,88-93,88,93
+0022000465,2021-02-21,NOP,BOS,41.18,4,6,49,NOP,BOS,foul,2,False,False,,Tatum S.FOUL (P3.T4) (J.Tiven),88-93,88,93
+0022000465,2021-02-21,NOP,BOS,41.18,4,6,49,NOP,NOP,ft_make,11,False,False,Williamson Free Throw 1 of 2 (17 PTS),,89-93,89,93
+0022000465,2021-02-21,NOP,BOS,41.18,4,6,49,NOP,NOP,ft_make,12,False,False,Williamson Free Throw 2 of 2 (18 PTS),,90-93,90,93
+0022000465,2021-02-21,NOP,BOS,41.6,4,6,24,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 27' 3PT Jump Shot,90-93,90,93
+0022000465,2021-02-21,NOP,BOS,41.67,4,6,20,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:8),90-93,90,93
+0022000465,2021-02-21,NOP,BOS,41.7,4,6,18,BOS,BOS,fg3_make,1,False,False,,Brown 26' 3PT Jump Shot (17 PTS) (Tatum 2 AST),90-96,90,96
+0022000465,2021-02-21,NOP,BOS,42.12,4,5,53,NOP,NOP,fg3_miss,1,False,False,MISS Melli 26' 3PT Jump Shot,,90-96,90,96
+0022000465,2021-02-21,NOP,BOS,42.15,4,5,51,BOS,BOS,reb,0,False,False,,Celtics Rebound,90-96,90,96
+0022000465,2021-02-21,NOP,BOS,42.15,4,5,51,BOS,NOP,foul,3,False,False,Hart L.B.FOUL (P3.T3) (J.DeRosa),,90-96,90,96
+0022000465,2021-02-21,NOP,BOS,42.4,4,5,36,BOS,BOS,fg_miss,63,False,False,,MISS Brown 16' Fadeaway Jumper,90-96,90,96
+0022000465,2021-02-21,NOP,BOS,42.47,4,5,32,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:5),,90-96,90,96
+0022000465,2021-02-21,NOP,BOS,42.5,4,5,30,NOP,NOP,fg_make,98,False,False,Ingram 1' Cutting Layup Shot (23 PTS),,92-96,92,96
+0022000465,2021-02-21,NOP,BOS,42.5,4,5,30,NOP,BOS,foul,2,False,False,,Walker S.FOUL (P1.PN) (M.Ayotte),92-96,92,96
+0022000465,2021-02-21,NOP,BOS,42.5,4,5,30,NOP,NOP,ft_make,10,False,False,Ingram Free Throw 1 of 1 (24 PTS),,93-96,93,96
+0022000465,2021-02-21,NOP,BOS,42.78,4,5,13,BOS,BOS,fg_make,6,False,False,,Walker 2' Driving Layup (14 PTS) (Brown 9 AST),93-98,93,98
+0022000465,2021-02-21,NOP,BOS,43.03,4,4,58,NOP,NOP,fg_miss,5,True,False,MISS Williamson 2' Layup,,93-98,93,98
+0022000465,2021-02-21,NOP,BOS,43.03,4,4,58,NOP,BOS,block,5,True,False,block,block,93-98,93,98
+0022000465,2021-02-21,NOP,BOS,43.07,4,4,56,BOS,BOS,reb,0,False,False,,Nesmith REBOUND (Off:1 Def:3),93-98,93,98
+0022000465,2021-02-21,NOP,BOS,43.22,4,4,47,BOS,BOS,tov,45,False,False,,Brown Out of Bounds - Bad Pass Turnover Turnover (P3.T9),93-98,93,98
+0022000465,2021-02-21,NOP,BOS,43.35,4,4,39,NOP,NOP,fg_make,6,False,False,Williamson 2' Driving Layup (20 PTS),,95-98,95,98
+0022000465,2021-02-21,NOP,BOS,43.68,4,4,19,BOS,BOS,fg3_miss,80,False,False,,MISS Walker 26' 3PT Step Back Jump Shot,95-98,95,98
+0022000465,2021-02-21,NOP,BOS,43.73,4,4,16,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:5),,95-98,95,98
+0022000465,2021-02-21,NOP,BOS,43.82,4,4,11,NOP,NOP,fg3_make,103,False,False,Ingram 25' 3PT Running Pull-Up Jump Shot (27 PTS),,98-98,98,98
+0022000465,2021-02-21,NOP,BOS,43.83,4,4,10,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.5 Short 0),98-98,98,98
+0022000465,2021-02-21,NOP,BOS,44.17,4,3,50,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 13' Fadeaway Jumper,98-98,98,98
+0022000465,2021-02-21,NOP,BOS,44.23,4,3,46,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:5),,98-98,98,98
+0022000465,2021-02-21,NOP,BOS,44.35,4,3,39,NOP,NOP,fg3_make,1,False,False,Melli 28' 3PT Jump Shot (3 PTS) (Williamson 3 AST),,101-98,101,98
+0022000465,2021-02-21,NOP,BOS,44.57,4,3,26,BOS,BOS,fg_miss,1,False,False,,MISS Theis 19' Jump Shot,101-98,101,98
+0022000465,2021-02-21,NOP,BOS,44.63,4,3,22,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:5 Def:4),101-98,101,98
+0022000465,2021-02-21,NOP,BOS,44.8,4,3,12,BOS,BOS,fg3_make,80,False,False,,Tatum 26' 3PT Step Back Jump Shot (28 PTS),101-101,101,101
+0022000465,2021-02-21,NOP,BOS,44.93,4,3,4,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 5 Short 0),,101-101,101,101
+0022000465,2021-02-21,NOP,BOS,45.03,4,2,58,NOP,NOP,fg3_miss,1,False,False,MISS Melli 3PT Jump Shot,,101-101,101,101
+0022000465,2021-02-21,NOP,BOS,45.1,4,2,54,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:5),101-101,101,101
+0022000465,2021-02-21,NOP,BOS,45.28,4,2,43,BOS,BOS,fg_miss,6,True,False,,MISS Tatum 1' Driving Layup,101-101,101,101
+0022000465,2021-02-21,NOP,BOS,45.28,4,2,43,BOS,NOP,block,6,True,False,block,block,101-101,101,101
+0022000465,2021-02-21,NOP,BOS,45.28,4,2,43,NOP,NOP,reb,0,False,False,PELICANS Rebound,,101-101,101,101
+0022000465,2021-02-21,NOP,BOS,45.58,4,2,25,NOP,NOP,fg_make,5,False,False,Williamson 2' Layup (22 PTS) (Ball 3 AST),,103-101,103,101
+0022000465,2021-02-21,NOP,BOS,45.97,4,2,2,BOS,BOS,tov,1,False,True,,Theis Bad Pass Turnover (P1.T10),103-101,103,101
+0022000465,2021-02-21,NOP,BOS,45.97,4,2,2,BOS,NOP,steal,1,False,True,steal,steal,103-101,103,101
+0022000465,2021-02-21,NOP,BOS,46.05,4,1,57,NOP,BOS,foul,2,False,False,,Walker S.FOUL (P2.PN) (J.Tiven),103-101,103,101
+0022000465,2021-02-21,NOP,BOS,46.05,4,1,57,NOP,NOP,ft_miss,11,False,False,MISS Hart Free Throw 1 of 2,,103-101,103,101
+0022000465,2021-02-21,NOP,BOS,46.05,4,1,57,NOP,NOP,reb,1,False,False,PELICANS Rebound,,103-101,103,101
+0022000465,2021-02-21,NOP,BOS,46.05,4,1,57,NOP,NOP,ft_make,12,False,False,Hart Free Throw 2 of 2 (14 PTS),,104-101,104,101
+0022000465,2021-02-21,NOP,BOS,46.2,4,1,48,BOS,BOS,fg_make,6,False,False,,Brown 2' Driving Layup (19 PTS) (Williams III 3 AST),104-103,104,103
+0022000465,2021-02-21,NOP,BOS,46.2,4,1,48,BOS,NOP,foul,2,False,False,Melli S.FOUL (P2.T4) (M.Ayotte),,104-103,104,103
+0022000465,2021-02-21,NOP,BOS,46.2,4,1,48,BOS,BOS,ft_make,10,False,False,,Brown Free Throw 1 of 1 (20 PTS),104-104,104,104
+0022000465,2021-02-21,NOP,BOS,46.42,4,1,35,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 25' 3PT Jump Shot,,104-104,104,104
+0022000465,2021-02-21,NOP,BOS,46.45,4,1,33,BOS,BOS,reb,0,False,False,,Celtics Rebound,104-104,104,104
+0022000465,2021-02-21,NOP,BOS,46.73,4,1,16,BOS,BOS,fg_miss,86,False,False,,MISS Tatum 15' Turnaround Fadeaway Shot,104-104,104,104
+0022000465,2021-02-21,NOP,BOS,46.8,4,1,12,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:6),,104-104,104,104
+0022000465,2021-02-21,NOP,BOS,47.0,4,1,0,NOP,NOP,fg3_miss,1,False,False,MISS Hart 24' 3PT Jump Shot,,104-104,104,104
+0022000465,2021-02-21,NOP,BOS,47.08,4,0,55,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:7),104-104,104,104
+0022000465,2021-02-21,NOP,BOS,47.27,4,0,44,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.6 Short 0),104-104,104,104
+0022000465,2021-02-21,NOP,BOS,47.37,4,0,38,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 26' 3PT Jump Shot,104-104,104,104
+0022000465,2021-02-21,NOP,BOS,47.43,4,0,34,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:6),,104-104,104,104
+0022000465,2021-02-21,NOP,BOS,47.47,4,0,32,NOP,BOS,foul,2,False,False,,Brown S.FOUL (P3.PN) (J.Tiven),104-104,104,104
+0022000465,2021-02-21,NOP,BOS,47.47,4,0,32,NOP,NOP,ft_make,11,False,False,Ball Free Throw 1 of 2 (16 PTS),,105-104,105,104
+0022000465,2021-02-21,NOP,BOS,47.47,4,0,32,NOP,NOP,ft_miss,12,False,False,MISS Ball Free Throw 2 of 2,,105-104,105,104
+0022000465,2021-02-21,NOP,BOS,47.47,4,0,32,BOS,BOS,reb,0,False,False,,Celtics Rebound,105-104,105,104
+0022000465,2021-02-21,NOP,BOS,47.75,4,0,15,BOS,BOS,fg_miss,5,False,False,,MISS Brown 4' Layup,105-104,105,104
+0022000465,2021-02-21,NOP,BOS,47.75,4,0,15,BOS,BOS,reb,0,False,False,,Celtics Rebound,105-104,105,104
+0022000465,2021-02-21,NOP,BOS,47.82,4,0,11,BOS,BOS,fg_make,80,False,False,,Tatum 17' Step Back Jump Shot (30 PTS),105-106,105,106
+0022000465,2021-02-21,NOP,BOS,47.83,4,0,10,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 6 Short 0),,105-106,105,106
+0022000465,2021-02-21,NOP,BOS,47.9,4,0,6,NOP,NOP,fg_make,6,False,False,Williamson 2' Driving Layup (24 PTS) (Ball 4 AST),,107-106,107,106
+0022000465,2021-02-21,NOP,BOS,47.9,4,0,6,NOP,BOS,foul,2,False,False,,Thompson S.FOUL (P2.PN) (J.Tiven),107-106,107,106
+0022000465,2021-02-21,NOP,BOS,47.9,4,0,6,NOP,NOP,ft_make,10,False,False,Williamson Free Throw 1 of 1 (25 PTS),,108-106,108,106
+0022000465,2021-02-21,NOP,BOS,47.9,4,0,6,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.7 Short 0),108-106,108,106
+0022000465,2021-02-21,NOP,BOS,48.0,4,0,0,BOS,BOS,fg_make,101,False,False,,Tatum 2' Driving Floating Jump Shot (32 PTS),108-108,108,108
+0022000465,2021-02-21,NOP,BOS,48.0,4,0,0,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 7 Short 0),,108-108,108,108
+0022000465,2021-02-21,NOP,BOS,48.0,4,0,0,NOP,,period_end,0,False,False,,,108-108,108,108
+0022000465,2021-02-21,NOP,BOS,48.0,5,5,0,NOP,,period_start,0,False,False,,,108-108,108,108
+0022000465,2021-02-21,NOP,BOS,48.0,5,5,0,,NOP,jump_ball,0,False,False,Jump Ball Williamson vs. Williams III: Tip to Tatum,,108-108,108,108
+0022000465,2021-02-21,NOP,BOS,48.27,5,4,44,BOS,BOS,fg_make,43,False,False,,Williams III 1' Alley Oop Layup (8 PTS) (Theis 1 AST),108-110,108,110
+0022000465,2021-02-21,NOP,BOS,48.48,5,4,31,NOP,BOS,foul,1,False,False,,Tatum P.FOUL (P4.T1) (J.DeRosa),108-110,108,110
+0022000465,2021-02-21,NOP,BOS,48.57,5,4,26,NOP,NOP,fg_make,6,False,False,Williamson 2' Driving Layup (27 PTS),,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,48.57,5,4,26,NOP,BOS,violation,2,False,False,,Williams III Violation:Defensive Goaltending (J.Tiven),110-110,110,110
+0022000465,2021-02-21,NOP,BOS,48.95,5,4,3,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 25' 3PT Jump Shot,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.02,5,3,59,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:7),,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.25,5,3,45,NOP,NOP,fg_miss,6,False,False,MISS Williamson 2' Driving Layup,,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.28,5,3,43,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:5 Def:5),110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.33,5,3,40,BOS,NOP,foul,1,False,False,Melli P.FOUL (P3.T1) (J.DeRosa),,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.55,5,3,27,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 26' 3PT Jump Shot,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.6,5,3,24,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:8),,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.75,5,3,15,NOP,NOP,fg3_miss,1,True,False,MISS Ingram 25' 3PT Jump Shot,,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.75,5,3,15,NOP,BOS,block,1,True,False,block,block,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.78,5,3,13,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:1 Def:5),,110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.9,5,3,6,NOP,BOS,foul,2,False,False,,Theis S.FOUL (P4.T2) (M.Ayotte),110-110,110,110
+0022000465,2021-02-21,NOP,BOS,49.9,5,3,6,NOP,NOP,ft_make,11,False,False,Williamson Free Throw 1 of 2 (28 PTS),,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,49.9,5,3,6,NOP,NOP,ft_miss,12,False,False,MISS Williamson Free Throw 2 of 2,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,49.93,5,3,4,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:5 Def:6),111-110,111,110
+0022000465,2021-02-21,NOP,BOS,50.17,5,2,50,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 25' 3PT Jump Shot,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,50.22,5,2,47,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:0 Def:3),,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,50.48,5,2,31,NOP,NOP,fg3_miss,1,False,False,MISS Melli 28' 3PT Jump Shot,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,50.55,5,2,27,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:6),111-110,111,110
+0022000465,2021-02-21,NOP,BOS,50.72,5,2,17,,NOP,jump_ball,1,False,False,Jump Ball (CC) Williamson vs. Williams III: Tip to Theis,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.0,5,2,0,BOS,BOS,fg_miss,78,False,False,,MISS Tatum 8' Floating Jump Shot,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.03,5,1,58,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:6 Def:6),111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.17,5,1,50,BOS,BOS,tov,2,False,True,,Theis Lost Ball Turnover (P2.T11),111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.17,5,1,50,BOS,NOP,steal,2,False,True,steal,steal,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.23,5,1,46,NOP,NOP,fg_miss,6,True,False,MISS Hart 3' Driving Layup,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.23,5,1,46,NOP,BOS,block,6,True,False,block,block,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.23,5,1,46,NOP,NOP,reb,0,False,False,PELICANS Rebound,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.45,5,1,33,NOP,NOP,fg3_miss,1,False,False,MISS Melli 25' 3PT Jump Shot,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.45,5,1,33,NOP,NOP,reb,0,False,False,PELICANS Rebound,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.58,5,1,25,NOP,NOP,fg_miss,5,True,False,MISS Williamson 4' Layup,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.58,5,1,25,NOP,BOS,block,5,True,False,block,block,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.58,5,1,25,NOP,NOP,reb,0,False,False,PELICANS Rebound,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.68,5,1,19,NOP,NOP,fg3_miss,1,False,False,MISS Melli 27' 3PT Jump Shot,,111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.75,5,1,15,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:6 Def:7),111-110,111,110
+0022000465,2021-02-21,NOP,BOS,51.8,5,1,12,BOS,BOS,fg_make,75,False,False,,Brown 3' Driving Finger Roll Layup (22 PTS) (Walker 4 AST),111-112,111,112
+0022000465,2021-02-21,NOP,BOS,51.97,5,1,2,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 8 Short 0),,111-112,111,112
+0022000465,2021-02-21,NOP,BOS,52.08,5,0,55,NOP,BOS,foul,1,False,False,,Brown P.FOUL (P4.T3) (J.DeRosa),111-112,111,112
+0022000465,2021-02-21,NOP,BOS,52.17,5,0,50,NOP,BOS,foul,2,False,False,,Williams III S.FOUL (P3.PN) (J.Tiven),111-112,111,112
+0022000465,2021-02-21,NOP,BOS,52.17,5,0,50,NOP,NOP,ft_make,11,False,False,Ingram Free Throw 1 of 2 (28 PTS),,112-112,112,112
+0022000465,2021-02-21,NOP,BOS,52.17,5,0,50,BOS,NOP,violation,6,False,False,Double Lane,,112-112,112,112
+0022000465,2021-02-21,NOP,BOS,52.17,5,0,50,NOP,BOS,violation,6,False,False,,Double Lane,112-112,112,112
+0022000465,2021-02-21,NOP,BOS,52.25,5,0,45,,NOP,jump_ball,0,False,False,Jump Ball Williamson vs. Williams III: Tip to Melli,,112-112,112,112
+0022000465,2021-02-21,NOP,BOS,52.43,5,0,34,NOP,NOP,fg3_make,1,False,False,Ingram 25' 3PT Jump Shot (31 PTS) (Williamson 4 AST),,115-112,115,112
+0022000465,2021-02-21,NOP,BOS,52.62,5,0,23,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 25' 3PT Jump Shot,115-112,115,112
+0022000465,2021-02-21,NOP,BOS,52.67,5,0,20,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:9),,115-112,115,112
+0022000465,2021-02-21,NOP,BOS,52.7,5,0,18,NOP,BOS,foul,28,False,False,,Theis Personal Take Foul (P5.PN) (M.Ayotte),115-112,115,112
+0022000465,2021-02-21,NOP,BOS,52.7,5,0,18,NOP,NOP,ft_make,11,False,False,Hart Free Throw 1 of 2 (15 PTS),,116-112,116,112
+0022000465,2021-02-21,NOP,BOS,52.7,5,0,18,NOP,NOP,ft_make,12,False,False,Hart Free Throw 2 of 2 (16 PTS),,117-112,117,112
+0022000465,2021-02-21,NOP,BOS,52.7,5,0,18,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.8 Short 0),117-112,117,112
+0022000465,2021-02-21,NOP,BOS,52.73,5,0,16,BOS,NOP,foul,2,False,False,Ingram S.FOUL (P3.T2) (M.Ayotte),,117-112,117,112
+0022000465,2021-02-21,NOP,BOS,52.73,5,0,16,BOS,BOS,ft_make,13,False,False,,Brown Free Throw 1 of 3 (23 PTS),117-113,117,113
+0022000465,2021-02-21,NOP,BOS,52.73,5,0,16,BOS,BOS,ft_make,14,False,False,,Brown Free Throw 2 of 3 (24 PTS),117-114,117,114
+0022000465,2021-02-21,NOP,BOS,52.73,5,0,16,BOS,BOS,ft_make,15,False,False,,Brown Free Throw 3 of 3 (25 PTS),117-115,117,115
+0022000465,2021-02-21,NOP,BOS,52.82,5,0,11,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 9 Short 0),,117-115,117,115
+0022000465,2021-02-21,NOP,BOS,52.87,5,0,8,NOP,BOS,foul,1,False,False,,Brown P.FOUL (P5.PN) (J.Tiven),117-115,117,115
+0022000465,2021-02-21,NOP,BOS,52.87,5,0,8,NOP,NOP,ft_miss,11,False,False,MISS Hart Free Throw 1 of 2,,117-115,117,115
+0022000465,2021-02-21,NOP,BOS,52.87,5,0,8,NOP,NOP,reb,1,False,False,PELICANS Rebound,,117-115,117,115
+0022000465,2021-02-21,NOP,BOS,52.87,5,0,8,NOP,NOP,ft_make,12,False,False,Hart Free Throw 2 of 2 (17 PTS),,118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.87,5,0,8,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.9 Short 0),118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.92,5,0,5,BOS,NOP,foul,1,False,False,Hart P.FOUL (P4.PN) (M.Ayotte),,118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.92,5,0,5,BOS,BOS,ft_miss,11,False,False,,MISS Tatum Free Throw 1 of 2,118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.92,5,0,5,BOS,BOS,reb,1,False,False,,Celtics Rebound,118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.92,5,0,5,BOS,BOS,ft_miss,12,False,False,,MISS Tatum Free Throw 2 of 2,118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.92,5,0,5,NOP,NOP,reb,0,False,False,PELICANS Rebound,,118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.95,5,0,3,NOP,BOS,foul,1,False,False,,Walker P.FOUL (P3.PN) (J.Tiven),118-115,118,115
+0022000465,2021-02-21,NOP,BOS,52.95,5,0,3,NOP,NOP,ft_make,11,False,False,Ingram Free Throw 1 of 2 (32 PTS),,119-115,119,115
+0022000465,2021-02-21,NOP,BOS,52.95,5,0,3,NOP,NOP,ft_make,12,False,False,Ingram Free Throw 2 of 2 (33 PTS),,120-115,120,115
+0022000465,2021-02-21,NOP,BOS,53.0,5,0,0,NOP,,period_end,0,False,False,,,120-115,120,115

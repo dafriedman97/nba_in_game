@@ -1,0 +1,462 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100373,2021-12-08,MEM,DAL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100373,2021-12-08,MEM,DAL,0.0,1,12,0,,MEM,jump_ball,0,False,False,Jump Ball Adams vs. Porzingis: Tip to Jones,,0-0,0,0
+0022100373,2021-12-08,MEM,DAL,0.25,1,11,45,MEM,MEM,fg_miss,102,False,False,MISS Bane 11' Driving Floating Bank Jump Shot,,0-0,0,0
+0022100373,2021-12-08,MEM,DAL,0.3,1,11,42,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:0 Def:1),0-0,0,0
+0022100373,2021-12-08,MEM,DAL,0.65,1,11,21,DAL,DAL,fg_miss,80,False,False,,MISS Powell 18' Step Back Jump Shot,0-0,0,0
+0022100373,2021-12-08,MEM,DAL,0.68,1,11,19,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:0 Def:1),,0-0,0,0
+0022100373,2021-12-08,MEM,DAL,0.85,1,11,9,MEM,MEM,fg_make,102,False,False,Jackson Jr. 9' Driving Floating Bank Jump Shot (2 PTS) (Jones 1 AST),,2-0,2,0
+0022100373,2021-12-08,MEM,DAL,0.97,1,11,2,DAL,MEM,foul,1,False,False,Brooks P.FOUL (P1.T1) (M.Boland),,2-0,2,0
+0022100373,2021-12-08,MEM,DAL,1.13,1,10,52,DAL,MEM,foul,2,False,False,Jackson Jr. S.FOUL (P1.T2) (S.Corbin),,2-2,2,2
+0022100373,2021-12-08,MEM,DAL,1.13,1,10,52,DAL,DAL,ft_make,10,False,False,,Porzingis Free Throw 1 of 1 (3 PTS),2-3,2,3
+0022100373,2021-12-08,MEM,DAL,1.13,1,10,52,DAL,DAL,fg_make,79,False,False,,Porzingis 15' Pullup Jump Shot (2 PTS) (Doncic 1 AST),2-2,2,2
+0022100373,2021-12-08,MEM,DAL,1.37,1,10,38,MEM,DAL,foul,2,False,False,,Porzingis S.FOUL (P1.T1) (S.Corbin),2-3,2,3
+0022100373,2021-12-08,MEM,DAL,1.37,1,10,38,MEM,MEM,ft_make,11,False,False,Adams Free Throw 1 of 2 (1 PTS),,3-3,3,3
+0022100373,2021-12-08,MEM,DAL,1.37,1,10,38,MEM,MEM,ft_miss,12,False,False,MISS Adams Free Throw 2 of 2,,3-3,3,3
+0022100373,2021-12-08,MEM,DAL,1.4,1,10,36,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:0 Def:1),3-3,3,3
+0022100373,2021-12-08,MEM,DAL,1.77,1,10,14,DAL,DAL,fg3_miss,1,False,False,,MISS Porzingis 27' 3PT Jump Shot,3-3,3,3
+0022100373,2021-12-08,MEM,DAL,1.78,1,10,13,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:0 Def:1),,3-3,3,3
+0022100373,2021-12-08,MEM,DAL,1.87,1,10,8,MEM,MEM,fg3_miss,2,False,False,MISS Jackson Jr. 27' 3PT Running Jump Shot,,3-3,3,3
+0022100373,2021-12-08,MEM,DAL,1.93,1,10,4,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:1),3-3,3,3
+0022100373,2021-12-08,MEM,DAL,1.98,1,10,1,DAL,MEM,violation,5,False,False,Bane Violation:Kicked Ball (S.Corbin),,3-3,3,3
+0022100373,2021-12-08,MEM,DAL,2.02,1,9,59,DAL,DAL,fg_make,43,False,False,,Finney-Smith 1' Alley Oop Layup (2 PTS) (Bullock 1 AST),3-5,3,5
+0022100373,2021-12-08,MEM,DAL,2.25,1,9,45,MEM,MEM,fg_make,75,False,False,Brooks 2' Driving Finger Roll Layup (2 PTS) (Bane 1 AST),,5-5,5,5
+0022100373,2021-12-08,MEM,DAL,2.45,1,9,33,DAL,MEM,foul,1,False,False,Brooks P.FOUL (P2.T3) (S.Corbin),,5-5,5,5
+0022100373,2021-12-08,MEM,DAL,2.48,1,9,31,DAL,DAL,fg3_miss,1,False,False,,MISS Porzingis 25' 3PT Jump Shot,5-5,5,5
+0022100373,2021-12-08,MEM,DAL,2.57,1,9,26,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:1 Def:1),5-5,5,5
+0022100373,2021-12-08,MEM,DAL,2.73,1,9,16,DAL,MEM,steal,1,False,True,steal,steal,5-5,5,5
+0022100373,2021-12-08,MEM,DAL,2.73,1,9,16,DAL,DAL,tov,1,False,True,,Porzingis Bad Pass Turnover (P1.T1),5-5,5,5
+0022100373,2021-12-08,MEM,DAL,2.83,1,9,10,MEM,MEM,fg3_make,1,False,False,Melton 26' 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.07,1,8,56,DAL,DAL,fg_miss,43,False,False,,MISS Powell 3' Alley Oop Layup,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.08,1,8,55,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:0 Def:2),,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.08,1,8,55,MEM,DAL,foul,28,False,False,,Doncic Personal Take Foul (P1.T2) (M.Boland),8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.23,1,8,46,MEM,MEM,fg_miss,102,False,False,MISS Jackson Jr. 8' Driving Floating Bank Jump Shot,,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.25,1,8,45,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.25,1,8,45,MEM,DAL,foul,3,False,False,,Finney-Smith L.B.FOUL (P1.T3) (J.Goble),8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.38,1,8,37,MEM,MEM,tov,1,False,True,Adams Bad Pass Turnover (P1.T1),,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.38,1,8,37,MEM,DAL,steal,1,False,True,steal,steal,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.47,1,8,32,DAL,DAL,fg3_miss,103,False,False,,MISS Bullock 27' 3PT Running Pull-Up Jump Shot,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.52,1,8,29,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:1),8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.6,1,8,24,DAL,DAL,fg3_miss,80,False,False,,MISS Doncic 26' 3PT Step Back Jump Shot,8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.6,1,8,24,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:1 Def:1),8-5,8,5
+0022100373,2021-12-08,MEM,DAL,3.73,1,8,16,DAL,DAL,fg_make,87,False,False,,Porzingis Putback Dunk (5 PTS),8-7,8,7
+0022100373,2021-12-08,MEM,DAL,3.8,1,8,12,MEM,DAL,foul,1,False,False,,Porzingis P.FOUL (P2.T4) (S.Corbin),8-7,8,7
+0022100373,2021-12-08,MEM,DAL,3.93,1,8,4,MEM,MEM,fg_miss,79,False,False,MISS Bane 5' Pullup Jump Shot,,8-7,8,7
+0022100373,2021-12-08,MEM,DAL,3.97,1,8,2,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:2),8-7,8,7
+0022100373,2021-12-08,MEM,DAL,4.12,1,7,53,DAL,DAL,fg_miss,101,False,False,,MISS Doncic 2' Driving Floating Jump Shot,8-7,8,7
+0022100373,2021-12-08,MEM,DAL,4.15,1,7,51,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:1),,8-7,8,7
+0022100373,2021-12-08,MEM,DAL,4.23,1,7,46,MEM,MEM,fg_make,76,False,False,Jackson Jr. 1' Running Finger Roll Layup (4 PTS),,10-7,10,7
+0022100373,2021-12-08,MEM,DAL,4.45,1,7,33,DAL,DAL,fg_make,101,False,False,,Doncic 11' Driving Floating Jump Shot (2 PTS),10-9,10,9
+0022100373,2021-12-08,MEM,DAL,4.73,1,7,16,MEM,MEM,fg3_miss,1,False,False,MISS Melton 3PT Jump Shot,,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,4.77,1,7,14,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:1),10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.03,1,6,58,DAL,DAL,fg_miss,80,False,False,,MISS Brunson 11' Step Back Jump Shot,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.08,1,6,55,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:1 Def:0),10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.08,1,6,55,DAL,MEM,foul,1,False,False,Melton P.FOUL (P1.T4) (M.Boland),,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.08,1,6,55,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 1 Short 0),,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.25,1,6,45,DAL,DAL,fg_miss,80,False,False,,MISS Doncic 20' Step Back Jump Shot,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.28,1,6,43,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:0 Def:1),,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.53,1,6,28,MEM,MEM,fg_miss,58,False,False,MISS Jackson Jr. 6' Turnaround Hook Shot,,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.6,1,6,24,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:1),10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.67,1,6,20,DAL,DAL,fg3_miss,1,False,False,,MISS Finney-Smith 24' 3PT Jump Shot,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.73,1,6,16,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:0 Def:3),,10-9,10,9
+0022100373,2021-12-08,MEM,DAL,5.97,1,6,2,MEM,MEM,fg_make,98,False,False,Bane 2' Cutting Layup Shot (2 PTS) (Adams 1 AST),,12-9,12,9
+0022100373,2021-12-08,MEM,DAL,6.15,1,5,51,DAL,MEM,foul,1,False,False,Bane P.FOUL (P1.PN) (S.Corbin),,12-9,12,9
+0022100373,2021-12-08,MEM,DAL,6.15,1,5,51,DAL,DAL,ft_make,11,False,False,,Brunson Free Throw 1 of 2 (1 PTS),12-10,12,10
+0022100373,2021-12-08,MEM,DAL,6.15,1,5,51,DAL,DAL,ft_make,12,False,False,,Brunson Free Throw 2 of 2 (2 PTS),12-11,12,11
+0022100373,2021-12-08,MEM,DAL,6.45,1,5,33,MEM,MEM,fg3_miss,1,False,False,MISS Tillman 25' 3PT Jump Shot,,12-11,12,11
+0022100373,2021-12-08,MEM,DAL,6.52,1,5,29,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:2),12-11,12,11
+0022100373,2021-12-08,MEM,DAL,6.57,1,5,26,DAL,DAL,fg_miss,41,False,False,,MISS Brown 2' Running Layup,12-11,12,11
+0022100373,2021-12-08,MEM,DAL,6.62,1,5,23,MEM,MEM,reb,0,False,False,Aldama REBOUND (Off:0 Def:1),,12-11,12,11
+0022100373,2021-12-08,MEM,DAL,6.72,1,5,17,MEM,MEM,fg_miss,101,False,False,MISS Bane 10' Driving Floating Jump Shot,,12-11,12,11
+0022100373,2021-12-08,MEM,DAL,6.75,1,5,15,DAL,DAL,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:1),12-11,12,11
+0022100373,2021-12-08,MEM,DAL,6.98,1,5,1,DAL,DAL,fg_make,43,False,False,,Kleber 1' Alley Oop Layup (2 PTS) (Doncic 2 AST),12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.18,1,4,49,MEM,MEM,fg_miss,78,False,False,MISS Tillman 9' Floating Jump Shot,,12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.23,1,4,46,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:2),12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.48,1,4,31,DAL,DAL,fg3_miss,1,False,False,,MISS Brunson 25' 3PT Jump Shot,12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.53,1,4,28,DAL,DAL,reb,0,False,False,,Brown REBOUND (Off:1 Def:0),12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.53,1,4,28,DAL,MEM,foul,1,False,False,Melton P.FOUL (P2.PN) (J.Goble),,12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.53,1,4,28,DAL,DAL,ft_miss,11,False,False,,MISS Brown Free Throw 1 of 2,12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.53,1,4,28,DAL,DAL,reb,1,False,False,,Mavericks Rebound,12-13,12,13
+0022100373,2021-12-08,MEM,DAL,7.53,1,4,28,DAL,DAL,ft_make,12,False,False,,Brown Free Throw 2 of 2 (1 PTS),12-14,12,14
+0022100373,2021-12-08,MEM,DAL,7.77,1,4,14,MEM,MEM,fg3_miss,1,False,False,MISS Aldama 25' 3PT Jump Shot,,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,7.82,1,4,11,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:0),,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,7.85,1,4,9,MEM,MEM,tov,4,False,False,Tillman Traveling Turnover (P1.T2),,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.1,1,3,54,DAL,DAL,tov,39,False,False,,Doncic Step Out of Bounds Turnover (P1.T2),12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.43,1,3,34,MEM,MEM,fg3_miss,80,False,False,MISS Tillie 3PT Step Back Jump Shot,,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.5,1,3,30,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:3),12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.78,1,3,13,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P2.T3),12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.78,1,3,13,DAL,MEM,steal,2,False,True,steal,steal,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.87,1,3,8,MEM,DAL,block,41,True,False,block,block,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.87,1,3,8,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.87,1,3,8,MEM,MEM,fg_miss,41,True,False,MISS Konchar 3' Running Layup,,12-14,12,14
+0022100373,2021-12-08,MEM,DAL,8.9,1,3,6,MEM,MEM,fg_make,1,False,False,Bane 18' Jump Shot (4 PTS) (Konchar 1 AST),,14-14,14,14
+0022100373,2021-12-08,MEM,DAL,9.27,1,2,44,DAL,DAL,fg3_make,1,False,False,,Doncic 28' 3PT Jump Shot (5 PTS) (Brunson 1 AST),14-17,14,17
+0022100373,2021-12-08,MEM,DAL,9.52,1,2,29,MEM,DAL,block,79,True,False,block,block,14-17,14,17
+0022100373,2021-12-08,MEM,DAL,9.52,1,2,29,MEM,MEM,fg_miss,79,True,False,MISS Aldama 13' Pullup Jump Shot,,14-17,14,17
+0022100373,2021-12-08,MEM,DAL,9.52,1,2,29,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:2 Def:0),,14-17,14,17
+0022100373,2021-12-08,MEM,DAL,9.63,1,2,22,MEM,MEM,fg3_make,1,False,False,Tillie 26' 3PT Jump Shot (3 PTS) (Tillman 1 AST),,17-17,17,17
+0022100373,2021-12-08,MEM,DAL,9.9,1,2,6,DAL,DAL,fg3_make,80,False,False,,Doncic 27' 3PT Step Back Jump Shot (8 PTS),17-20,17,20
+0022100373,2021-12-08,MEM,DAL,10.23,1,1,46,MEM,MEM,fg_make,102,False,False,Bane 3' Driving Floating Bank Jump Shot (6 PTS),,19-20,19,20
+0022100373,2021-12-08,MEM,DAL,10.47,1,1,32,DAL,DAL,fg3_miss,1,False,False,,MISS Hardaway Jr. 26' 3PT Jump Shot,19-20,19,20
+0022100373,2021-12-08,MEM,DAL,10.52,1,1,29,DAL,DAL,reb,0,False,False,,Brown REBOUND (Off:2 Def:0),19-20,19,20
+0022100373,2021-12-08,MEM,DAL,10.52,1,1,29,DAL,MEM,foul,2,False,False,Tillman S.FOUL (P1.PN) (J.Goble),,19-20,19,20
+0022100373,2021-12-08,MEM,DAL,10.52,1,1,29,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.1 Short 0),19-20,19,20
+0022100373,2021-12-08,MEM,DAL,10.52,1,1,29,DAL,DAL,ft_make,11,False,False,,Brown Free Throw 1 of 2 (2 PTS),19-21,19,21
+0022100373,2021-12-08,MEM,DAL,10.52,1,1,29,DAL,DAL,ft_make,12,False,False,,Brown Free Throw 2 of 2 (3 PTS),19-22,19,22
+0022100373,2021-12-08,MEM,DAL,10.8,1,1,12,MEM,DAL,block,80,True,False,block,block,19-22,19,22
+0022100373,2021-12-08,MEM,DAL,10.8,1,1,12,MEM,MEM,fg3_miss,80,True,False,MISS Jackson Jr. 26' 3PT Step Back Jump Shot,,19-22,19,22
+0022100373,2021-12-08,MEM,DAL,10.85,1,1,9,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:3 Def:0),,19-22,19,22
+0022100373,2021-12-08,MEM,DAL,10.88,1,1,7,MEM,MEM,fg3_make,1,False,False,Konchar 25' 3PT Jump Shot (3 PTS) (Tillman 2 AST),,22-22,22,22
+0022100373,2021-12-08,MEM,DAL,11.18,1,0,49,,MEM,jump_ball,0,False,False,Jump Ball Jackson Jr. vs. Brown: Tip to Kleber,,22-22,22,22
+0022100373,2021-12-08,MEM,DAL,11.23,1,0,46,DAL,DAL,fg3_make,1,False,False,,Bullock 3PT Jump Shot (3 PTS) (Brunson 2 AST),22-25,22,25
+0022100373,2021-12-08,MEM,DAL,11.47,1,0,32,MEM,MEM,fg_make,78,False,False,Tillman 7' Floating Jump Shot (2 PTS) (Jones 2 AST),,24-25,24,25
+0022100373,2021-12-08,MEM,DAL,11.57,1,0,26,DAL,DAL,tov,2,False,True,,Hardaway Jr. Lost Ball Turnover (P1.T4),24-25,24,25
+0022100373,2021-12-08,MEM,DAL,11.57,1,0,26,DAL,MEM,steal,2,False,True,steal,steal,24-25,24,25
+0022100373,2021-12-08,MEM,DAL,11.82,1,0,11,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,24-25,24,25
+0022100373,2021-12-08,MEM,DAL,11.82,1,0,11,MEM,MEM,ft_make,12,False,False,Tillman Free Throw 2 of 2 (3 PTS),,25-25,25,25
+0022100373,2021-12-08,MEM,DAL,11.82,1,0,11,MEM,MEM,ft_miss,11,False,False,MISS Tillman Free Throw 1 of 2,,24-25,24,25
+0022100373,2021-12-08,MEM,DAL,11.82,1,0,11,MEM,DAL,foul,1,False,False,,Brown P.FOUL (P1.PN) (S.Corbin),24-25,24,25
+0022100373,2021-12-08,MEM,DAL,12.0,1,0,0,DAL,,period_end,0,False,False,,,25-26,25,26
+0022100373,2021-12-08,MEM,DAL,12.0,2,12,0,DAL,,period_start,0,False,False,,,25-26,25,26
+0022100373,2021-12-08,MEM,DAL,12.0,1,0,0,DAL,DAL,reb,1,False,False,,Mavericks Rebound,25-25,25,25
+0022100373,2021-12-08,MEM,DAL,12.0,1,0,0,DAL,MEM,foul,2,False,False,Tillie S.FOUL (P1.PN) (M.Boland),,25-25,25,25
+0022100373,2021-12-08,MEM,DAL,12.0,1,0,0,DAL,DAL,ft_make,12,False,False,,Brunson Free Throw 2 of 2 (3 PTS),25-26,25,26
+0022100373,2021-12-08,MEM,DAL,12.0,1,0,0,DAL,DAL,ft_miss,11,False,False,,MISS Brunson Free Throw 1 of 2,25-25,25,25
+0022100373,2021-12-08,MEM,DAL,12.37,2,11,38,DAL,DAL,fg3_miss,79,False,False,,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,25-26,25,26
+0022100373,2021-12-08,MEM,DAL,12.4,2,11,36,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,25-26,25,26
+0022100373,2021-12-08,MEM,DAL,12.77,2,11,14,MEM,MEM,fg_make,58,False,False,Adams 6' Turnaround Hook Shot (3 PTS) (Brooks 1 AST),,27-26,27,26
+0022100373,2021-12-08,MEM,DAL,13.08,2,10,55,DAL,DAL,tov,4,False,False,,Kleber Traveling Turnover (P1.T5),27-26,27,26
+0022100373,2021-12-08,MEM,DAL,13.27,2,10,44,MEM,DAL,foul,1,False,False,,Bullock P.FOUL (P1.T1) (J.Goble),27-26,27,26
+0022100373,2021-12-08,MEM,DAL,13.38,2,10,37,MEM,DAL,block,6,True,False,block,block,27-26,27,26
+0022100373,2021-12-08,MEM,DAL,13.38,2,10,37,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,27-26,27,26
+0022100373,2021-12-08,MEM,DAL,13.38,2,10,37,MEM,MEM,fg_miss,6,True,False,MISS Brooks 5' Driving Layup,,27-26,27,26
+0022100373,2021-12-08,MEM,DAL,13.48,2,10,31,MEM,MEM,fg_make,86,False,False,Brooks 9' Turnaround Fadeaway (4 PTS),,29-26,29,26
+0022100373,2021-12-08,MEM,DAL,13.85,2,10,9,DAL,DAL,fg_make,79,False,False,,Hardaway Jr. 18' Pullup Jump Shot (2 PTS) (Bullock 2 AST),29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.07,2,9,56,MEM,MEM,fg_miss,6,False,False,MISS Brooks 2' Driving Layup,,29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.13,2,9,52,DAL,DAL,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:2),29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.25,2,9,45,DAL,DAL,fg_miss,75,True,False,,MISS Hardaway Jr. 1' Driving Finger Roll Layup,29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.25,2,9,45,DAL,MEM,block,75,True,False,block,block,29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.28,2,9,43,MEM,MEM,reb,0,False,False,Tillie REBOUND (Off:0 Def:1),,29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.38,2,9,37,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 25' 3PT Jump Shot,,29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.45,2,9,33,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:1 Def:3),,29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.47,2,9,32,MEM,DAL,foul,1,False,False,,Kleber P.FOUL (P1.T2) (J.Goble),29-28,29,28
+0022100373,2021-12-08,MEM,DAL,14.63,2,9,22,MEM,MEM,fg_make,101,False,False,Jackson Jr. 6' Driving Floating Jump Shot (6 PTS),,31-28,31,28
+0022100373,2021-12-08,MEM,DAL,14.87,2,9,8,DAL,DAL,fg_miss,79,False,False,,MISS Porzingis 13' Pullup Jump Shot,31-28,31,28
+0022100373,2021-12-08,MEM,DAL,14.9,2,9,6,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,31-28,31,28
+0022100373,2021-12-08,MEM,DAL,15.0,2,9,0,MEM,MEM,fg_make,41,False,False,Jackson Jr. 1' Running Layup (8 PTS) (Jones 3 AST),,33-28,33,28
+0022100373,2021-12-08,MEM,DAL,15.02,2,8,59,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.2 Short 0),33-28,33,28
+0022100373,2021-12-08,MEM,DAL,15.37,2,8,38,DAL,DAL,fg_make,101,False,False,,Hardaway Jr. 12' Driving Floating Jump Shot (4 PTS) (Porzingis 1 AST),33-30,33,30
+0022100373,2021-12-08,MEM,DAL,15.55,2,8,27,MEM,MEM,fg_miss,101,False,False,MISS Jones 4' Driving Floating Jump Shot,,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,15.58,2,8,25,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:1 Def:1),33-30,33,30
+0022100373,2021-12-08,MEM,DAL,15.65,2,8,21,DAL,DAL,fg3_miss,2,False,False,,MISS Porzingis 27' 3PT Running Jump Shot,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,15.73,2,8,16,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:1),,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,15.85,2,8,9,MEM,MEM,fg_miss,63,False,False,MISS Brooks 9' Fadeaway Jumper,,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,15.9,2,8,6,DAL,DAL,reb,0,False,False,,Green REBOUND (Off:0 Def:1),33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.12,2,7,53,DAL,MEM,steal,2,False,True,steal,steal,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.12,2,7,53,DAL,DAL,tov,2,False,True,,Finney-Smith Lost Ball Turnover (P1.T6),33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.13,2,7,52,DAL,MEM,foul,3,False,False,Adams L.B.FOUL (P1.T1) (M.Boland),,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.13,2,7,52,MEM,MEM,tov,1,False,False,Adams Bad Pass Turnover (P2.T3),,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.45,2,7,33,DAL,DAL,fg_miss,5,True,False,,MISS Porzingis 1' Layup,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.45,2,7,33,DAL,MEM,block,5,True,False,block,block,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.5,2,7,30,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:2),,33-30,33,30
+0022100373,2021-12-08,MEM,DAL,16.6,2,7,24,MEM,DAL,foul,11,False,False,,Porzingis T.FOUL (P2.T2) (J.Goble),35-30,35,30
+0022100373,2021-12-08,MEM,DAL,16.6,2,7,24,MEM,MEM,ft_make,16,False,False,Jones Free Throw Technical (1 PTS),,36-30,36,30
+0022100373,2021-12-08,MEM,DAL,16.6,2,7,24,MEM,MEM,fg_make,5,False,False,Adams 1' Layup (5 PTS),,35-30,35,30
+0022100373,2021-12-08,MEM,DAL,16.92,2,7,5,DAL,DAL,fg_make,9,False,False,,Porzingis 1' Driving Dunk (7 PTS) (Doncic 3 AST),36-32,36,32
+0022100373,2021-12-08,MEM,DAL,17.23,2,6,46,MEM,MEM,fg3_miss,1,False,False,MISS Melton 25' 3PT Jump Shot,,36-32,36,32
+0022100373,2021-12-08,MEM,DAL,17.28,2,6,43,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,36-32,36,32
+0022100373,2021-12-08,MEM,DAL,17.32,2,6,41,MEM,MEM,fg3_make,1,False,False,Melton 24' 3PT Jump Shot (6 PTS) (Jones 4 AST),,39-32,39,32
+0022100373,2021-12-08,MEM,DAL,17.57,2,6,26,DAL,DAL,fg_make,108,False,False,,Green Cutting Dunk Shot (2 PTS) (Doncic 4 AST),39-34,39,34
+0022100373,2021-12-08,MEM,DAL,17.67,2,6,20,MEM,DAL,foul,1,False,False,,Green P.FOUL (P1.T3) (J.Goble),39-34,39,34
+0022100373,2021-12-08,MEM,DAL,17.92,2,6,5,MEM,MEM,tov,1,False,True,Adams Bad Pass Turnover (P3.T4),,39-34,39,34
+0022100373,2021-12-08,MEM,DAL,17.92,2,6,5,MEM,DAL,steal,1,False,True,steal,steal,39-34,39,34
+0022100373,2021-12-08,MEM,DAL,17.98,2,6,1,DAL,DAL,fg3_miss,1,False,False,,MISS Hardaway Jr. 26' 3PT Jump Shot,39-34,39,34
+0022100373,2021-12-08,MEM,DAL,18.03,2,5,58,MEM,MEM,reb,0,False,False,Aldama REBOUND (Off:0 Def:2),,39-34,39,34
+0022100373,2021-12-08,MEM,DAL,18.27,2,5,44,MEM,MEM,fg_make,6,False,False,Brooks 2' Driving Layup (6 PTS) (Melton 1 AST),,41-34,41,34
+0022100373,2021-12-08,MEM,DAL,18.5,2,5,30,DAL,DAL,ft_make,16,False,False,,Porzingis Free Throw Technical (8 PTS),41-35,41,35
+0022100373,2021-12-08,MEM,DAL,18.5,2,5,30,DAL,MEM,foul,17,False,False,GRIZZLIES T.Foul (Def. 3 Sec Bane ) (S.Corbin),,41-34,41,34
+0022100373,2021-12-08,MEM,DAL,18.65,2,5,21,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P3.T7),41-35,41,35
+0022100373,2021-12-08,MEM,DAL,18.65,2,5,21,DAL,MEM,steal,1,False,True,steal,steal,41-35,41,35
+0022100373,2021-12-08,MEM,DAL,19.0,2,5,0,MEM,MEM,fg_make,6,False,False,Brooks 1' Driving Layup (8 PTS),,43-35,43,35
+0022100373,2021-12-08,MEM,DAL,19.2,2,4,48,DAL,MEM,foul,1,False,False,Aldama P.FOUL (P1.T2) (M.Boland),,43-35,43,35
+0022100373,2021-12-08,MEM,DAL,19.33,2,4,40,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 27' 3PT Pullup Jump Shot,43-35,43,35
+0022100373,2021-12-08,MEM,DAL,19.35,2,4,39,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:1 Def:4),,43-35,43,35
+0022100373,2021-12-08,MEM,DAL,19.47,2,4,32,MEM,MEM,fg_make,76,False,False,Bane 6' Running Finger Roll Layup (8 PTS),,45-35,45,35
+0022100373,2021-12-08,MEM,DAL,19.77,2,4,14,DAL,DAL,fg3_miss,1,False,False,,MISS Bullock 27' 3PT Jump Shot,45-35,45,35
+0022100373,2021-12-08,MEM,DAL,19.83,2,4,10,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:2),,45-35,45,35
+0022100373,2021-12-08,MEM,DAL,19.92,2,4,5,MEM,MEM,fg3_miss,1,False,False,MISS Bane 3PT Jump Shot,,45-35,45,35
+0022100373,2021-12-08,MEM,DAL,19.98,2,4,1,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:2),45-35,45,35
+0022100373,2021-12-08,MEM,DAL,19.98,2,4,1,MEM,MEM,fg_miss,97,False,False,MISS Aldama 2' Tip Layup Shot,,45-35,45,35
+0022100373,2021-12-08,MEM,DAL,19.98,2,4,1,MEM,MEM,reb,0,False,False,Aldama REBOUND (Off:1 Def:2),,45-35,45,35
+0022100373,2021-12-08,MEM,DAL,20.1,2,3,54,DAL,DAL,fg_make,80,False,False,,Green 13' Step Back Jump Shot (4 PTS),45-37,45,37
+0022100373,2021-12-08,MEM,DAL,20.47,2,3,32,MEM,MEM,fg_make,51,False,False,Aldama Reverse Dunk (2 PTS) (Adams 2 AST),,47-37,47,37
+0022100373,2021-12-08,MEM,DAL,20.57,2,3,26,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P4.T8),47-37,47,37
+0022100373,2021-12-08,MEM,DAL,20.57,2,3,26,DAL,MEM,steal,1,False,True,steal,steal,47-37,47,37
+0022100373,2021-12-08,MEM,DAL,20.8,2,3,12,MEM,DAL,foul,1,False,False,,Powell P.FOUL (P1.T4) (M.Boland),47-37,47,37
+0022100373,2021-12-08,MEM,DAL,21.02,2,2,59,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.3 Short 0),49-37,49,37
+0022100373,2021-12-08,MEM,DAL,21.02,2,2,59,MEM,MEM,fg_make,75,False,False,Brooks 2' Driving Finger Roll Layup (10 PTS),,49-37,49,37
+0022100373,2021-12-08,MEM,DAL,21.22,2,2,47,DAL,DAL,fg_miss,79,False,False,,MISS Doncic 13' Pullup Jump Shot,49-37,49,37
+0022100373,2021-12-08,MEM,DAL,21.32,2,2,41,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:2 Def:1),49-37,49,37
+0022100373,2021-12-08,MEM,DAL,21.47,2,2,32,DAL,DAL,fg_make,44,False,False,,Powell 1' Reverse Layup (2 PTS) (Finney-Smith 1 AST),49-39,49,39
+0022100373,2021-12-08,MEM,DAL,21.67,2,2,20,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,49-39,49,39
+0022100373,2021-12-08,MEM,DAL,21.67,2,2,20,MEM,MEM,ft_miss,11,False,False,MISS Jackson Jr. Free Throw 1 of 2,,49-39,49,39
+0022100373,2021-12-08,MEM,DAL,21.67,2,2,20,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (9 PTS),,50-39,50,39
+0022100373,2021-12-08,MEM,DAL,21.67,2,2,20,MEM,DAL,foul,2,False,False,,Powell S.FOUL (P2.PN) (J.Goble),49-39,49,39
+0022100373,2021-12-08,MEM,DAL,21.95,2,2,3,DAL,DAL,fg_make,86,False,False,,Doncic 13' Turnaround Fadeaway (10 PTS),50-41,50,41
+0022100373,2021-12-08,MEM,DAL,22.1,2,1,54,MEM,MEM,tov,2,False,True,Jones Lost Ball Turnover (P1.T5),,50-41,50,41
+0022100373,2021-12-08,MEM,DAL,22.1,2,1,54,MEM,DAL,steal,2,False,True,steal,steal,50-41,50,41
+0022100373,2021-12-08,MEM,DAL,22.17,2,1,50,DAL,DAL,fg_make,50,False,False,,Brunson 1' Running Dunk (5 PTS),50-43,50,43
+0022100373,2021-12-08,MEM,DAL,22.33,2,1,40,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (11 PTS),,52-43,52,43
+0022100373,2021-12-08,MEM,DAL,22.33,2,1,40,MEM,DAL,foul,1,False,False,,Powell P.FOUL (P3.PN) (S.Corbin),50-43,50,43
+0022100373,2021-12-08,MEM,DAL,22.33,2,1,40,MEM,MEM,ft_make,11,False,False,Jackson Jr. Free Throw 1 of 2 (10 PTS),,51-43,51,43
+0022100373,2021-12-08,MEM,DAL,22.67,2,1,20,DAL,DAL,fg3_make,1,False,False,,Bullock 3PT Jump Shot (6 PTS) (Brunson 3 AST),52-46,52,46
+0022100373,2021-12-08,MEM,DAL,22.98,2,1,1,MEM,MEM,fg3_miss,1,False,False,MISS Bane 24' 3PT Jump Shot,,52-46,52,46
+0022100373,2021-12-08,MEM,DAL,23.05,2,0,57,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:3),52-46,52,46
+0022100373,2021-12-08,MEM,DAL,23.15,2,0,51,DAL,DAL,fg_make,80,False,False,,Brunson 14' Step Back Jump Shot (7 PTS),52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.45,2,0,33,MEM,MEM,fg3_miss,79,False,False,MISS Jones 26' 3PT Pullup Jump Shot,,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.5,2,0,30,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:2 Def:2),52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.87,2,0,8,DAL,DAL,fg_miss,101,False,False,,MISS Doncic 8' Driving Floating Jump Shot,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.92,2,0,5,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:2),,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.95,2,0,3,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:1 Def:2),,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.95,2,0,3,MEM,MEM,fg_miss,43,False,False,MISS Bane 2' Alley Oop Layup,,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.97,2,0,2,MEM,MEM,fg_miss,1,False,False,MISS Jones 10' Jump Shot,,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,23.98,2,0,1,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,24.0,3,12,0,MEM,MEM,ft_make,16,False,False,Brooks Free Throw Technical (11 PTS),,53-48,53,48
+0022100373,2021-12-08,MEM,DAL,24.0,3,12,0,MEM,DAL,foul,11,False,False,,Doncic T.FOUL (P1.T0) (S.Corbin),52-48,52,48
+0022100373,2021-12-08,MEM,DAL,24.0,2,0,0,MEM,,period_end,0,False,False,,,52-48,52,48
+0022100373,2021-12-08,MEM,DAL,24.0,3,12,0,MEM,,period_start,0,False,False,,,53-48,53,48
+0022100373,2021-12-08,MEM,DAL,24.4,3,11,36,DAL,MEM,block,98,True,False,block,block,53-48,53,48
+0022100373,2021-12-08,MEM,DAL,24.4,3,11,36,DAL,DAL,reb,0,False,False,,Mavericks Rebound,53-48,53,48
+0022100373,2021-12-08,MEM,DAL,24.4,3,11,36,DAL,DAL,fg_miss,98,True,False,,MISS Powell 3' Cutting Layup Shot,53-48,53,48
+0022100373,2021-12-08,MEM,DAL,24.4,3,11,36,DAL,DAL,tov,11,False,False,,Mavericks Turnover: Shot Clock (T#9),53-48,53,48
+0022100373,2021-12-08,MEM,DAL,24.67,3,11,20,MEM,MEM,fg_make,102,False,False,Jackson Jr. 11' Driving Floating Bank Jump Shot (13 PTS) (Brooks 2 AST),,55-48,55,48
+0022100373,2021-12-08,MEM,DAL,24.9,3,11,6,DAL,DAL,fg3_make,1,False,False,,Porzingis 26' 3PT Jump Shot (11 PTS) (Doncic 5 AST),55-51,55,51
+0022100373,2021-12-08,MEM,DAL,25.2,3,10,48,MEM,MEM,fg_miss,79,False,False,MISS Brooks 13' Pullup Jump Shot,,55-51,55,51
+0022100373,2021-12-08,MEM,DAL,25.23,3,10,46,DAL,DAL,reb,0,False,False,,Bullock REBOUND (Off:0 Def:1),55-51,55,51
+0022100373,2021-12-08,MEM,DAL,25.3,3,10,42,DAL,MEM,foul,1,False,False,Jackson Jr. P.FOUL (P2.T1) (J.Goble),,55-51,55,51
+0022100373,2021-12-08,MEM,DAL,25.43,3,10,34,DAL,MEM,foul,2,False,False,Brooks S.FOUL (P3.T2) (M.Boland),,55-51,55,51
+0022100373,2021-12-08,MEM,DAL,25.43,3,10,34,DAL,DAL,ft_make,12,False,False,,Doncic Free Throw 2 of 2 (11 PTS),55-52,55,52
+0022100373,2021-12-08,MEM,DAL,25.43,3,10,34,DAL,DAL,ft_miss,11,False,False,,MISS Doncic Free Throw 1 of 2,55-51,55,51
+0022100373,2021-12-08,MEM,DAL,25.43,3,10,34,DAL,DAL,reb,1,False,False,,Mavericks Rebound,55-51,55,51
+0022100373,2021-12-08,MEM,DAL,25.65,3,10,21,MEM,MEM,fg3_make,79,False,False,Jackson Jr. 28' 3PT Pullup Jump Shot (16 PTS) (Jones 5 AST),,58-52,58,52
+0022100373,2021-12-08,MEM,DAL,25.88,3,10,7,DAL,DAL,fg3_make,1,False,False,,Doncic 25' 3PT Jump Shot (14 PTS) (Powell 1 AST),58-55,58,55
+0022100373,2021-12-08,MEM,DAL,26.08,3,9,55,MEM,MEM,fg_miss,6,False,False,MISS Jackson Jr. 2' Driving Layup,,58-55,58,55
+0022100373,2021-12-08,MEM,DAL,26.12,3,9,53,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:3),58-55,58,55
+0022100373,2021-12-08,MEM,DAL,26.3,3,9,42,DAL,DAL,fg_make,79,False,False,,Doncic 19' Pullup Jump Shot (16 PTS),58-57,58,57
+0022100373,2021-12-08,MEM,DAL,26.57,3,9,26,MEM,MEM,fg_miss,101,False,False,MISS Bane 7' Driving Floating Jump Shot,,58-57,58,57
+0022100373,2021-12-08,MEM,DAL,26.58,3,9,25,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,58-57,58,57
+0022100373,2021-12-08,MEM,DAL,26.65,3,9,21,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 26' 3PT Jump Shot,,58-57,58,57
+0022100373,2021-12-08,MEM,DAL,26.72,3,9,17,DAL,DAL,reb,0,False,False,,Bullock REBOUND (Off:0 Def:2),58-57,58,57
+0022100373,2021-12-08,MEM,DAL,26.87,3,9,8,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 26' 3PT Pullup Jump Shot,58-57,58,57
+0022100373,2021-12-08,MEM,DAL,26.93,3,9,4,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:1 Def:5),,58-57,58,57
+0022100373,2021-12-08,MEM,DAL,27.07,3,8,56,MEM,MEM,ft_make,12,False,False,Bane Free Throw 2 of 2 (10 PTS),,60-57,60,57
+0022100373,2021-12-08,MEM,DAL,27.07,3,8,56,MEM,MEM,ft_make,11,False,False,Bane Free Throw 1 of 2 (9 PTS),,59-57,59,57
+0022100373,2021-12-08,MEM,DAL,27.07,3,8,56,MEM,DAL,foul,2,False,False,,Bullock S.FOUL (P2.T1) (J.Goble),58-57,58,57
+0022100373,2021-12-08,MEM,DAL,27.25,3,8,45,DAL,MEM,foul,1,False,False,Bane P.FOUL (P2.T3) (M.Boland),,60-57,60,57
+0022100373,2021-12-08,MEM,DAL,27.35,3,8,39,DAL,DAL,fg3_make,1,False,False,,Porzingis 25' 3PT Jump Shot (14 PTS) (Bullock 3 AST),60-60,60,60
+0022100373,2021-12-08,MEM,DAL,27.58,3,8,25,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 26' 3PT Jump Shot,,60-60,60,60
+0022100373,2021-12-08,MEM,DAL,27.65,3,8,21,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:3),60-60,60,60
+0022100373,2021-12-08,MEM,DAL,27.68,3,8,19,DAL,DAL,fg_miss,50,False,False,,MISS Porzingis 1' Running Dunk,60-60,60,60
+0022100373,2021-12-08,MEM,DAL,27.72,3,8,17,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:3),,60-60,60,60
+0022100373,2021-12-08,MEM,DAL,27.88,3,8,7,MEM,MEM,tov,39,False,False,Bane Step Out of Bounds Turnover (P1.T6),,60-60,60,60
+0022100373,2021-12-08,MEM,DAL,28.08,3,7,55,DAL,DAL,fg3_make,1,False,False,,Bullock 26' 3PT Jump Shot (9 PTS) (Finney-Smith 2 AST),60-63,60,63
+0022100373,2021-12-08,MEM,DAL,28.1,3,7,54,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 2 Short 0),,60-63,60,63
+0022100373,2021-12-08,MEM,DAL,28.12,3,7,53,MEM,MEM,tov,13,False,False,Adams Backcourt Turnover (P4.T7),,60-63,60,63
+0022100373,2021-12-08,MEM,DAL,28.48,3,7,31,DAL,DAL,fg_make,86,False,False,,Doncic 14' Turnaround Fadeaway (18 PTS),60-65,60,65
+0022100373,2021-12-08,MEM,DAL,28.87,3,7,8,MEM,MEM,ft_miss,11,False,False,MISS Jackson Jr. Free Throw 1 of 2,,60-65,60,65
+0022100373,2021-12-08,MEM,DAL,28.87,3,7,8,MEM,DAL,foul,2,False,False,,Porzingis S.FOUL (P3.T2) (S.Corbin),60-65,60,65
+0022100373,2021-12-08,MEM,DAL,28.87,3,7,8,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,60-65,60,65
+0022100373,2021-12-08,MEM,DAL,28.87,3,7,8,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (17 PTS),,61-65,61,65
+0022100373,2021-12-08,MEM,DAL,29.18,3,6,49,DAL,DAL,fg_miss,79,False,False,,MISS Brunson 19' Pullup Jump Shot,61-65,61,65
+0022100373,2021-12-08,MEM,DAL,29.25,3,6,45,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:3),,61-65,61,65
+0022100373,2021-12-08,MEM,DAL,29.35,3,6,39,MEM,DAL,foul,1,False,False,,Powell P.FOUL (P4.T3) (J.Goble),61-65,61,65
+0022100373,2021-12-08,MEM,DAL,29.43,3,6,34,MEM,MEM,fg_make,101,False,False,Jones 9' Driving Floating Jump Shot (3 PTS) (Melton 2 AST),,63-65,63,65
+0022100373,2021-12-08,MEM,DAL,29.68,3,6,19,DAL,MEM,steal,1,False,True,steal,steal,63-65,63,65
+0022100373,2021-12-08,MEM,DAL,29.68,3,6,19,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P5.T10),63-65,63,65
+0022100373,2021-12-08,MEM,DAL,29.85,3,6,9,MEM,MEM,fg3_make,79,False,False,Melton 26' 3PT Pullup Jump Shot (9 PTS),,66-65,66,65
+0022100373,2021-12-08,MEM,DAL,30.15,3,5,51,DAL,MEM,foul,1,False,False,Jackson Jr. P.FOUL (P3.T4) (M.Boland),,66-65,66,65
+0022100373,2021-12-08,MEM,DAL,30.3,3,5,42,DAL,DAL,fg_make,108,False,False,,Brown 1' Cutting Dunk Shot (5 PTS) (Doncic 6 AST),66-67,66,67
+0022100373,2021-12-08,MEM,DAL,30.53,3,5,28,MEM,MEM,fg3_miss,1,False,False,MISS Jones 26' 3PT Jump Shot,,66-67,66,67
+0022100373,2021-12-08,MEM,DAL,30.6,3,5,24,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:1),,66-67,66,67
+0022100373,2021-12-08,MEM,DAL,30.62,3,5,23,MEM,MEM,fg_make,101,False,False,Melton 5' Driving Floating Jump Shot (11 PTS),,68-67,68,67
+0022100373,2021-12-08,MEM,DAL,30.98,3,5,1,DAL,MEM,steal,1,False,True,steal,steal,68-67,68,67
+0022100373,2021-12-08,MEM,DAL,30.98,3,5,1,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P6.T11),68-67,68,67
+0022100373,2021-12-08,MEM,DAL,31.13,3,4,52,MEM,MEM,fg_miss,93,False,False,MISS Adams 2' Driving Bank Hook Shot,,68-67,68,67
+0022100373,2021-12-08,MEM,DAL,31.17,3,4,50,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:4),68-67,68,67
+0022100373,2021-12-08,MEM,DAL,31.25,3,4,45,DAL,DAL,fg_make,106,False,False,,Finney-Smith 1' Running Alley Oop Dunk Shot (4 PTS) (Brunson 4 AST),68-69,68,69
+0022100373,2021-12-08,MEM,DAL,31.67,3,4,20,MEM,MEM,fg_miss,101,False,False,MISS Brooks 11' Driving Floating Jump Shot,,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,31.68,3,4,19,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,31.85,3,4,9,MEM,MEM,fg3_miss,1,False,False,MISS Melton 25' 3PT Jump Shot,,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,31.92,3,4,5,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:2 Def:5),,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,31.93,3,4,4,MEM,MEM,tov,2,False,True,Adams Lost Ball Turnover (P5.T8),,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,31.93,3,4,4,MEM,DAL,steal,2,False,True,steal,steal,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,32.05,3,3,57,DAL,DAL,fg_miss,43,False,False,,MISS Brown 2' Alley Oop Layup,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,32.08,3,3,55,DAL,DAL,reb,0,False,False,,Brown REBOUND (Off:3 Def:0),68-69,68,69
+0022100373,2021-12-08,MEM,DAL,32.1,3,3,54,DAL,DAL,fg_miss,96,False,False,,MISS Brown 4' Turnaround Bank Hook Shot,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,32.15,3,3,51,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:2 Def:6),,68-69,68,69
+0022100373,2021-12-08,MEM,DAL,32.3,3,3,42,MEM,DAL,foul,2,False,False,,Brown S.FOUL (P2.T4) (M.Boland),68-69,68,69
+0022100373,2021-12-08,MEM,DAL,32.3,3,3,42,MEM,MEM,ft_miss,12,False,False,MISS Adams Free Throw 2 of 2,,69-69,69,69
+0022100373,2021-12-08,MEM,DAL,32.3,3,3,42,MEM,MEM,ft_make,11,False,False,Adams Free Throw 1 of 2 (6 PTS),,69-69,69,69
+0022100373,2021-12-08,MEM,DAL,32.33,3,3,40,DAL,DAL,reb,0,False,False,,Brown REBOUND (Off:3 Def:1),69-69,69,69
+0022100373,2021-12-08,MEM,DAL,32.68,3,3,19,DAL,MEM,foul,1,False,False,Adams P.FOUL (P2.PN) (J.Goble),,69-69,69,69
+0022100373,2021-12-08,MEM,DAL,32.68,3,3,19,DAL,DAL,ft_make,11,False,False,,Brown Free Throw 1 of 2 (6 PTS),69-70,69,70
+0022100373,2021-12-08,MEM,DAL,32.68,3,3,19,DAL,DAL,ft_make,12,False,False,,Brown Free Throw 2 of 2 (7 PTS),69-71,69,71
+0022100373,2021-12-08,MEM,DAL,32.95,3,3,3,MEM,MEM,fg_miss,102,False,False,MISS Melton 6' Driving Floating Bank Jump Shot,,69-71,69,71
+0022100373,2021-12-08,MEM,DAL,33.0,3,3,0,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:3 Def:6),,69-71,69,71
+0022100373,2021-12-08,MEM,DAL,33.0,3,3,0,MEM,MEM,fg_miss,97,False,False,MISS Adams Tip Layup Shot,,69-71,69,71
+0022100373,2021-12-08,MEM,DAL,33.0,3,3,0,DAL,DAL,reb,0,False,False,,Brown REBOUND (Off:3 Def:2),69-71,69,71
+0022100373,2021-12-08,MEM,DAL,33.0,3,3,0,DAL,MEM,foul,1,False,False,Melton P.FOUL (P3.PN) (J.Goble),,69-71,69,71
+0022100373,2021-12-08,MEM,DAL,33.0,3,3,0,DAL,DAL,ft_make,11,False,False,,Brown Free Throw 1 of 2 (8 PTS),69-72,69,72
+0022100373,2021-12-08,MEM,DAL,33.0,3,3,0,DAL,DAL,ft_make,12,False,False,,Brown Free Throw 2 of 2 (9 PTS),69-73,69,73
+0022100373,2021-12-08,MEM,DAL,33.2,3,2,48,MEM,MEM,fg_make,78,False,False,Melton 8' Floating Jump Shot (13 PTS) (Adams 3 AST),,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.47,3,2,32,DAL,DAL,fg3_miss,79,False,False,,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.52,3,2,29,DAL,DAL,reb,0,False,False,,Brown REBOUND (Off:4 Def:2),71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.57,3,2,26,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 25' 3PT Jump Shot,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.62,3,2,23,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:0 Def:2),,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.72,3,2,17,MEM,MEM,fg_miss,101,False,False,MISS Bane 8' Driving Floating Jump Shot,,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.77,3,2,14,DAL,DAL,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:3),71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.95,3,2,3,DAL,DAL,tov,39,False,False,,Hardaway Jr. Step Out of Bounds Turnover (P2.T12),71-73,71,73
+0022100373,2021-12-08,MEM,DAL,33.95,3,2,3,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.4 Short 0),71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.25,3,1,45,MEM,DAL,block,101,True,False,block,block,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.25,3,1,45,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.25,3,1,45,MEM,MEM,fg_miss,101,True,False,MISS Bane 8' Driving Floating Jump Shot,,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.32,3,1,41,MEM,MEM,fg_miss,78,False,False,MISS Bane 10' Floating Jump Shot,,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.38,3,1,37,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:4),71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.65,3,1,21,MEM,MEM,ft_miss,12,False,False,MISS Konchar Free Throw 2 of 2,,72-73,72,73
+0022100373,2021-12-08,MEM,DAL,34.65,3,1,21,MEM,MEM,ft_make,11,False,False,Konchar Free Throw 1 of 2 (4 PTS),,72-73,72,73
+0022100373,2021-12-08,MEM,DAL,34.65,3,1,21,MEM,DAL,foul,28,False,False,,Brunson Personal Take Foul (P1.PN) (M.Boland),71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.65,3,1,21,DAL,DAL,tov,1,False,True,,Kleber Bad Pass Turnover (P2.T13),71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.65,3,1,21,DAL,MEM,steal,1,False,True,steal,steal,71-73,71,73
+0022100373,2021-12-08,MEM,DAL,34.73,3,1,16,DAL,DAL,reb,0,False,False,,Brown REBOUND (Off:4 Def:3),72-73,72,73
+0022100373,2021-12-08,MEM,DAL,35.08,3,0,55,DAL,DAL,fg3_make,1,False,False,,Hardaway Jr. 3PT Jump Shot (7 PTS) (Brunson 5 AST),72-76,72,76
+0022100373,2021-12-08,MEM,DAL,35.32,3,0,41,MEM,DAL,foul,17,False,False,,Mavericks T.Foul (Def. 3 Sec Brown ) (M.Boland),72-76,72,76
+0022100373,2021-12-08,MEM,DAL,35.32,3,0,41,MEM,MEM,ft_make,16,False,False,Bane Free Throw Technical (11 PTS),,73-76,73,76
+0022100373,2021-12-08,MEM,DAL,35.47,3,0,32,MEM,MEM,fg_miss,58,False,False,MISS Tillman 8' Turnaround Hook Shot,,73-76,73,76
+0022100373,2021-12-08,MEM,DAL,35.52,3,0,29,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:4 Def:0),,73-76,73,76
+0022100373,2021-12-08,MEM,DAL,35.52,3,0,29,MEM,MEM,fg_make,97,False,False,Tillman Tip Layup Shot (5 PTS),,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,35.88,3,0,7,DAL,DAL,fg_miss,79,False,False,,MISS Brunson 13' Pullup Jump Shot,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,35.92,3,0,5,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:2),,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.0,4,12,0,MEM,,period_start,0,False,False,,,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.0,3,0,0,MEM,MEM,fg3_miss,103,True,False,MISS Melton 26' 3PT Running Pull-Up Jump Shot,,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.0,3,0,0,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.0,3,0,0,MEM,DAL,block,103,True,False,block,block,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.0,3,0,0,MEM,,period_end,0,False,False,,,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.35,4,11,39,MEM,MEM,fg_miss,75,False,False,MISS Jackson Jr. 2' Driving Finger Roll Layup,,75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.38,4,11,37,DAL,DAL,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:4),75-76,75,76
+0022100373,2021-12-08,MEM,DAL,36.53,4,11,28,DAL,DAL,fg_make,9,False,False,,Hardaway Jr. 1' Driving Dunk (9 PTS),75-78,75,78
+0022100373,2021-12-08,MEM,DAL,36.77,4,11,14,MEM,DAL,foul,2,False,False,,Porzingis S.FOUL (P4.T1) (S.Corbin),75-78,75,78
+0022100373,2021-12-08,MEM,DAL,36.77,4,11,14,MEM,MEM,ft_miss,11,False,False,MISS Tillman Free Throw 1 of 2,,75-78,75,78
+0022100373,2021-12-08,MEM,DAL,36.77,4,11,14,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,75-78,75,78
+0022100373,2021-12-08,MEM,DAL,36.77,4,11,14,MEM,MEM,ft_miss,12,False,False,MISS Tillman Free Throw 2 of 2,,75-78,75,78
+0022100373,2021-12-08,MEM,DAL,36.8,4,11,12,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:1 Def:2),75-78,75,78
+0022100373,2021-12-08,MEM,DAL,37.08,4,10,55,DAL,MEM,foul,17,False,False,GRIZZLIES T.Foul (Def. 3 Sec Konchar ) (S.Corbin),,75-78,75,78
+0022100373,2021-12-08,MEM,DAL,37.08,4,10,55,DAL,DAL,ft_make,16,False,False,,Porzingis Free Throw Technical (15 PTS),75-79,75,79
+0022100373,2021-12-08,MEM,DAL,37.33,4,10,40,DAL,DAL,fg_miss,86,False,False,,MISS Green 14' Turnaround Fadeaway Shot,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,37.38,4,10,37,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:1 Def:4),75-79,75,79
+0022100373,2021-12-08,MEM,DAL,37.45,4,10,33,DAL,DAL,tov,2,False,True,,Kleber Lost Ball Turnover (P3.T14),75-79,75,79
+0022100373,2021-12-08,MEM,DAL,37.45,4,10,33,DAL,MEM,steal,2,False,True,steal,steal,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,37.45,4,10,33,,MEM,jump_ball,0,False,False,Jump Ball Bane vs. Kleber: Tip to Konchar,,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,37.67,4,10,20,DAL,MEM,foul,4,False,False,Jackson Jr. OFF.Foul (P4) (M.Boland),,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,37.67,4,10,20,MEM,MEM,tov,37,False,False,Jackson Jr. Offensive Foul Turnover (P1.T9),,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.07,4,9,56,DAL,DAL,fg_miss,79,False,False,,MISS Kleber 22' Pullup Jump Shot,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.12,4,9,53,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:3),,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.23,4,9,46,DAL,MEM,foul,26,False,False,Tillman Offensive Charge Foul (P2) (J.Goble),,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.23,4,9,46,MEM,MEM,tov,37,False,False,Tillman Offensive Foul Turnover (P2.T10),,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.48,4,9,31,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P7.T15),75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.48,4,9,31,DAL,MEM,steal,2,False,True,steal,steal,75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.53,4,9,28,MEM,DAL,foul,2,False,False,,Porzingis S.FOUL (P5.T2) (S.Corbin),75-79,75,79
+0022100373,2021-12-08,MEM,DAL,38.53,4,9,28,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (19 PTS),,77-79,77,79
+0022100373,2021-12-08,MEM,DAL,38.53,4,9,28,MEM,MEM,ft_make,11,False,False,Jackson Jr. Free Throw 1 of 2 (18 PTS),,76-79,76,79
+0022100373,2021-12-08,MEM,DAL,38.83,4,9,10,DAL,DAL,fg3_miss,79,False,False,,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,77-79,77,79
+0022100373,2021-12-08,MEM,DAL,38.88,4,9,7,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:4),,77-79,77,79
+0022100373,2021-12-08,MEM,DAL,38.95,4,9,3,MEM,MEM,fg3_miss,2,False,False,MISS Brooks 26' 3PT Running Jump Shot,,77-79,77,79
+0022100373,2021-12-08,MEM,DAL,39.02,4,8,59,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:1 Def:4),,77-79,77,79
+0022100373,2021-12-08,MEM,DAL,39.03,4,8,58,MEM,DAL,foul,1,False,False,,Green P.FOUL (P2.T3) (J.Goble),77-79,77,79
+0022100373,2021-12-08,MEM,DAL,39.12,4,8,53,MEM,MEM,fg_make,58,False,False,Jackson Jr. 7' Turnaround Hook Shot (21 PTS),,79-79,79,79
+0022100373,2021-12-08,MEM,DAL,39.42,4,8,35,DAL,DAL,fg_make,102,False,False,,Finney-Smith 6' Driving Floating Bank Jump Shot (6 PTS) (Bullock 4 AST),79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.73,4,8,16,MEM,MEM,fg_miss,101,False,False,MISS Brooks 11' Driving Floating Jump Shot,,79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.8,4,8,12,MEM,MEM,fg_miss,97,False,False,MISS Jackson Jr. Tip Layup Shot,,79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.8,4,8,12,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:4),,79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.83,4,8,10,DAL,MEM,steal,2,False,True,steal,steal,79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.83,4,8,10,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:5),79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.83,4,8,10,DAL,DAL,tov,2,False,True,,Finney-Smith Lost Ball Turnover (P2.T16),79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.92,4,8,5,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 3PT Jump Shot,,79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.95,4,8,3,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:4),79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.97,4,8,2,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P8.T17),79-81,79,81
+0022100373,2021-12-08,MEM,DAL,39.97,4,8,2,DAL,MEM,steal,1,False,True,steal,steal,79-81,79,81
+0022100373,2021-12-08,MEM,DAL,40.1,4,7,54,MEM,DAL,foul,1,False,False,,Green P.FOUL (P3.T4) (M.Boland),79-81,79,81
+0022100373,2021-12-08,MEM,DAL,40.3,4,7,42,MEM,MEM,fg3_miss,1,False,False,MISS Melton 27' 3PT Jump Shot,,79-81,79,81
+0022100373,2021-12-08,MEM,DAL,40.33,4,7,40,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:5),79-81,79,81
+0022100373,2021-12-08,MEM,DAL,40.5,4,7,30,DAL,DAL,fg_make,75,False,False,,Doncic 2' Driving Finger Roll Layup (20 PTS),79-83,79,83
+0022100373,2021-12-08,MEM,DAL,40.78,4,7,13,MEM,MEM,fg_miss,79,False,False,MISS Melton 19' Pullup Jump Shot,,79-83,79,83
+0022100373,2021-12-08,MEM,DAL,40.82,4,7,11,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:2 Def:3),79-83,79,83
+0022100373,2021-12-08,MEM,DAL,40.9,4,7,6,DAL,MEM,foul,1,False,False,Brooks P.FOUL (P4.T1) (J.Goble),,79-83,79,83
+0022100373,2021-12-08,MEM,DAL,41.03,4,6,58,DAL,DAL,fg3_make,79,False,False,,Doncic 26' 3PT Pullup Jump Shot (23 PTS),79-86,79,86
+0022100373,2021-12-08,MEM,DAL,41.07,4,6,56,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 3 Short 0),,79-86,79,86
+0022100373,2021-12-08,MEM,DAL,41.28,4,6,43,MEM,MEM,fg_make,79,False,False,Brooks 12' Pullup Jump Shot (13 PTS) (Jones 6 AST),,81-86,81,86
+0022100373,2021-12-08,MEM,DAL,41.53,4,6,28,DAL,DAL,tov,45,False,False,,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T18),81-86,81,86
+0022100373,2021-12-08,MEM,DAL,41.83,4,6,10,MEM,MEM,tov,4,False,False,Adams Traveling Turnover (P6.T11),,81-86,81,86
+0022100373,2021-12-08,MEM,DAL,42.03,4,5,58,DAL,DAL,fg3_miss,1,False,False,,MISS Finney-Smith 24' 3PT Jump Shot,81-86,81,86
+0022100373,2021-12-08,MEM,DAL,42.07,4,5,56,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:1 Def:3),,81-86,81,86
+0022100373,2021-12-08,MEM,DAL,42.3,4,5,42,MEM,MEM,fg_miss,101,False,False,MISS Brooks 7' Driving Floating Jump Shot,,81-86,81,86
+0022100373,2021-12-08,MEM,DAL,42.33,4,5,40,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:6),81-86,81,86
+0022100373,2021-12-08,MEM,DAL,42.33,4,5,40,DAL,MEM,foul,11,False,False,Adams T.FOUL (P2.T2) (M.Boland),,81-86,81,86
+0022100373,2021-12-08,MEM,DAL,42.33,4,5,40,DAL,MEM,foul,28,False,False,Brooks Personal Take Foul (P5.T2) (S.Corbin),,81-86,81,86
+0022100373,2021-12-08,MEM,DAL,42.33,4,5,40,DAL,DAL,ft_make,16,False,False,,Bullock Free Throw Technical (10 PTS),81-87,81,87
+0022100373,2021-12-08,MEM,DAL,42.55,4,5,27,DAL,DAL,fg3_make,79,False,False,,Doncic 29' 3PT Pullup Jump Shot (26 PTS) (Finney-Smith 3 AST),81-90,81,90
+0022100373,2021-12-08,MEM,DAL,42.78,4,5,13,MEM,MEM,fg3_make,1,False,False,Tillie 28' 3PT Jump Shot (6 PTS) (Jones 7 AST),,84-90,84,90
+0022100373,2021-12-08,MEM,DAL,43.15,4,4,51,DAL,DAL,fg_make,79,False,False,,Brunson 13' Pullup Jump Shot (9 PTS) (Powell 2 AST),84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.35,4,4,39,MEM,DAL,foul,1,False,False,,Finney-Smith P.FOUL (P2.PN) (S.Corbin),84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.35,4,4,39,MEM,MEM,ft_miss,11,False,False,MISS Adams Free Throw 1 of 2,,84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.35,4,4,39,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.35,4,4,39,MEM,MEM,ft_miss,12,False,False,MISS Adams Free Throw 2 of 2,,84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.4,4,4,36,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:6),84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.67,4,4,20,DAL,DAL,fg3_miss,80,False,False,,MISS Doncic 26' 3PT Step Back Jump Shot,84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.73,4,4,16,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:1 Def:4),,84-92,84,92
+0022100373,2021-12-08,MEM,DAL,43.85,4,4,9,MEM,MEM,fg_make,75,False,False,Brooks 4' Driving Finger Roll Layup (15 PTS) (Bane 2 AST),,86-92,86,92
+0022100373,2021-12-08,MEM,DAL,44.15,4,3,51,DAL,DAL,fg3_make,1,False,False,,Bullock 26' 3PT Jump Shot (13 PTS) (Brunson 6 AST),86-95,86,95
+0022100373,2021-12-08,MEM,DAL,44.17,4,3,50,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 4 Short 0),,86-95,86,95
+0022100373,2021-12-08,MEM,DAL,44.17,4,3,50,DAL,MEM,foul,11,False,False,Brooks T.FOUL (P5.T2) (S.Corbin),,86-95,86,95
+0022100373,2021-12-08,MEM,DAL,44.17,4,3,50,DAL,DAL,ft_make,16,False,False,,Porzingis Free Throw Technical (16 PTS),86-96,86,96
+0022100373,2021-12-08,MEM,DAL,44.33,4,3,40,DAL,MEM,foul,4,False,False,Jackson Jr. OFF.Foul (P5) (J.Goble),,86-96,86,96
+0022100373,2021-12-08,MEM,DAL,44.33,4,3,40,MEM,MEM,tov,37,False,False,Jackson Jr. Offensive Foul Turnover (P2.T12),,86-96,86,96
+0022100373,2021-12-08,MEM,DAL,44.65,4,3,21,DAL,DAL,fg_make,5,False,False,,Bullock 1' Layup (15 PTS) (Doncic 7 AST),86-98,86,98
+0022100373,2021-12-08,MEM,DAL,44.85,4,3,9,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,86-98,86,98
+0022100373,2021-12-08,MEM,DAL,44.85,4,3,9,DAL,DAL,timeout,7,False,False,,Mavericks Timeout: Coach Challenge (Reg.4 Short 0),86-98,86,98
+0022100373,2021-12-08,MEM,DAL,44.85,4,3,9,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 3PT Jump Shot,,86-98,86,98
+0022100373,2021-12-08,MEM,DAL,44.85,4,3,9,,MEM,jump_ball,1,False,False,Jump Ball (CC) Jackson Jr. vs. Porzingis: Tip to Jackson Jr.,,86-98,86,98
+0022100373,2021-12-08,MEM,DAL,45.02,4,2,59,MEM,DAL,steal,2,False,True,steal,steal,86-98,86,98
+0022100373,2021-12-08,MEM,DAL,45.02,4,2,59,MEM,MEM,tov,2,False,True,Jackson Jr. Lost Ball Turnover (P3.T13),,86-98,86,98
+0022100373,2021-12-08,MEM,DAL,45.08,4,2,55,DAL,DAL,fg_make,50,False,False,,Porzingis 1' Running Dunk (18 PTS),86-100,86,100
+0022100373,2021-12-08,MEM,DAL,45.13,4,2,52,MEM,MEM,fg3_make,1,False,False,Bane 27' 3PT Jump Shot (14 PTS) (Melton 3 AST),,89-100,89,100
+0022100373,2021-12-08,MEM,DAL,45.6,4,2,24,DAL,DAL,fg3_miss,1,False,False,,MISS Porzingis 28' 3PT Jump Shot,89-100,89,100
+0022100373,2021-12-08,MEM,DAL,45.65,4,2,21,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:4),,89-100,89,100
+0022100373,2021-12-08,MEM,DAL,45.75,4,2,15,MEM,MEM,fg_miss,75,False,False,MISS Brooks 3' Driving Finger Roll Layup,,89-100,89,100
+0022100373,2021-12-08,MEM,DAL,45.8,4,2,12,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:1 Def:3),89-100,89,100
+0022100373,2021-12-08,MEM,DAL,45.85,4,2,9,DAL,,foul,11,False,False,,,89-102,89,102
+0022100373,2021-12-08,MEM,DAL,45.85,4,2,9,DAL,DAL,fg_make,50,False,False,,Finney-Smith 1' Running Dunk (8 PTS) (Brunson 7 AST),89-102,89,102
+0022100373,2021-12-08,MEM,DAL,45.85,4,2,9,DAL,DAL,ft_make,16,False,False,,Porzingis Free Throw Technical (19 PTS),89-103,89,103
+0022100373,2021-12-08,MEM,DAL,46.07,4,1,56,MEM,MEM,fg_make,75,False,False,Jackson Jr. 1' Driving Finger Roll Layup (23 PTS),,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.42,4,1,35,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 25' 3PT Pullup Jump Shot,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.48,4,1,31,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:5),,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.58,4,1,25,MEM,MEM,fg3_miss,1,False,False,MISS Melton 29' 3PT Jump Shot,,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.65,4,1,21,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:7),91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.7,4,1,18,DAL,MEM,steal,1,False,True,steal,steal,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.7,4,1,18,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P9.T19),91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.77,4,1,14,MEM,MEM,fg3_miss,1,False,False,MISS Jones 27' 3PT Jump Shot,,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,46.83,4,1,10,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:8),91-103,91,103
+0022100373,2021-12-08,MEM,DAL,47.18,4,0,49,,MEM,jump_ball,0,False,False,Jump Ball Jackson Jr. vs. Brunson: Tip to Porzingis,,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,47.22,4,0,47,DAL,DAL,fg3_miss,1,False,False,,MISS Brunson 26' 3PT Jump Shot,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,47.25,4,0,45,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:4),,91-103,91,103
+0022100373,2021-12-08,MEM,DAL,47.35,4,0,39,MEM,MEM,fg_make,75,False,False,Jones 3' Driving Finger Roll Layup (5 PTS) (Bane 3 AST),,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.37,4,0,38,DAL,MEM,foul,1,False,False,Bane P.FOUL (P3.T3) (J.Goble),,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,MEM,foul,1,False,False,Melton P.FOUL (P4.PN) (J.Goble),,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,DAL,ft_miss,11,False,False,,MISS Brunson Free Throw 1 of 2,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,DAL,reb,1,False,False,,Mavericks Rebound,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,MEM,foul,11,False,False,Brooks T.FOUL (P5.PN) (S.Corbin),,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,MEM,ejection,4,False,False,Brooks Ejection:Other,,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,DAL,ft_miss,16,False,False,,MISS Brunson Free Throw Technical,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,DAL,reb,1,False,False,,Mavericks Rebound,93-103,93,103
+0022100373,2021-12-08,MEM,DAL,47.55,4,0,27,DAL,DAL,ft_make,12,False,False,,Brunson Free Throw 2 of 2 (10 PTS),93-104,93,104
+0022100373,2021-12-08,MEM,DAL,47.67,4,0,20,MEM,MEM,fg3_make,1,False,False,Jackson Jr. 27' 3PT Jump Shot (26 PTS) (Jones 8 AST),,96-104,96,104
+0022100373,2021-12-08,MEM,DAL,48.0,4,0,0,MEM,,period_end,0,False,False,,,96-104,96,104

@@ -1,0 +1,485 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000545,2021-03-03,PHI,UTA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000545,2021-03-03,PHI,UTA,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Gobert: Tip to Bogdanovic,,0-0,0,0
+0022000545,2021-03-03,PHI,UTA,0.35,1,11,39,UTA,UTA,fg_make,6,False,False,,Bogdanovic 2' Driving Layup (2 PTS),0-2,0,2
+0022000545,2021-03-03,PHI,UTA,0.68,1,11,19,PHI,PHI,fg_make,86,False,False,Embiid 13' Turnaround Fadeaway (2 PTS) (Curry 1 AST),,2-2,2,2
+0022000545,2021-03-03,PHI,UTA,0.88,1,11,7,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 27' 3PT Jump Shot,2-2,2,2
+0022000545,2021-03-03,PHI,UTA,0.93,1,11,4,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:1),,2-2,2,2
+0022000545,2021-03-03,PHI,UTA,1.07,1,10,56,PHI,PHI,fg_make,57,False,False,Simmons 4' Driving Hook Shot (2 PTS),,4-2,4,2
+0022000545,2021-03-03,PHI,UTA,1.37,1,10,38,UTA,UTA,fg_miss,5,True,False,,MISS Bogdanovic 8' Layup,4-2,4,2
+0022000545,2021-03-03,PHI,UTA,1.37,1,10,38,UTA,PHI,block,5,True,False,block,block,4-2,4,2
+0022000545,2021-03-03,PHI,UTA,1.42,1,10,35,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,4-2,4,2
+0022000545,2021-03-03,PHI,UTA,1.53,1,10,28,PHI,PHI,fg_miss,75,False,False,MISS Green 5' Driving Finger Roll Layup,,4-2,4,2
+0022000545,2021-03-03,PHI,UTA,1.58,1,10,25,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:0),,4-2,4,2
+0022000545,2021-03-03,PHI,UTA,1.62,1,10,23,PHI,PHI,fg_make,72,False,False,Simmons 1' Putback Layup (4 PTS),,6-2,6,2
+0022000545,2021-03-03,PHI,UTA,1.9,1,10,6,UTA,UTA,fg_miss,79,False,False,,MISS Conley 17' Pullup Jump Shot,6-2,6,2
+0022000545,2021-03-03,PHI,UTA,1.93,1,10,4,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:1),,6-2,6,2
+0022000545,2021-03-03,PHI,UTA,2.27,1,9,44,PHI,PHI,fg_make,5,False,False,Embiid 1' Layup (4 PTS) (Curry 2 AST),,8-2,8,2
+0022000545,2021-03-03,PHI,UTA,2.75,1,9,15,UTA,UTA,fg3_make,1,False,False,,Mitchell 27' 3PT Jump Shot (3 PTS) (Gobert 1 AST),8-5,8,5
+0022000545,2021-03-03,PHI,UTA,2.92,1,9,5,PHI,PHI,fg_miss,79,False,False,MISS Embiid 12' Pullup Jump Shot,,8-5,8,5
+0022000545,2021-03-03,PHI,UTA,2.95,1,9,3,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),8-5,8,5
+0022000545,2021-03-03,PHI,UTA,3.02,1,8,59,UTA,UTA,fg_make,41,False,False,,Mitchell 1' Running Layup (5 PTS),8-7,8,7
+0022000545,2021-03-03,PHI,UTA,3.22,1,8,47,PHI,PHI,fg_miss,80,False,False,MISS Harris 14' Step Back Jump Shot,,8-7,8,7
+0022000545,2021-03-03,PHI,UTA,3.27,1,8,44,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:2),8-7,8,7
+0022000545,2021-03-03,PHI,UTA,3.37,1,8,38,UTA,UTA,fg3_make,79,False,False,,Mitchell 27' 3PT Pullup Jump Shot (8 PTS),8-10,8,10
+0022000545,2021-03-03,PHI,UTA,3.58,1,8,25,PHI,PHI,fg_make,79,False,False,Harris 11' Pullup Jump Shot (2 PTS) (Simmons 1 AST),,10-10,10,10
+0022000545,2021-03-03,PHI,UTA,3.8,1,8,12,UTA,UTA,fg_miss,43,False,False,,MISS Gobert 6' Alley Oop Layup,10-10,10,10
+0022000545,2021-03-03,PHI,UTA,3.82,1,8,11,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,10-10,10,10
+0022000545,2021-03-03,PHI,UTA,3.82,1,8,11,PHI,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P1.T1) (B.Adair),10-10,10,10
+0022000545,2021-03-03,PHI,UTA,3.98,1,8,1,PHI,PHI,fg_miss,6,False,False,MISS Harris 1' Driving Layup,,10-10,10,10
+0022000545,2021-03-03,PHI,UTA,4.02,1,7,59,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:1),10-10,10,10
+0022000545,2021-03-03,PHI,UTA,4.12,1,7,53,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 28' 3PT Pullup Jump Shot,10-10,10,10
+0022000545,2021-03-03,PHI,UTA,4.17,1,7,50,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:2),,10-10,10,10
+0022000545,2021-03-03,PHI,UTA,4.38,1,7,37,PHI,PHI,fg3_miss,80,False,False,MISS Green 24' 3PT Step Back Jump Shot,,10-10,10,10
+0022000545,2021-03-03,PHI,UTA,4.43,1,7,34,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),10-10,10,10
+0022000545,2021-03-03,PHI,UTA,4.57,1,7,26,UTA,UTA,fg_make,86,False,False,,Bogdanovic 10' Turnaround Fadeaway (4 PTS),10-12,10,12
+0022000545,2021-03-03,PHI,UTA,4.87,1,7,8,PHI,PHI,fg_make,1,False,False,Curry 16' Jump Shot (2 PTS),,12-12,12,12
+0022000545,2021-03-03,PHI,UTA,5.23,1,6,46,UTA,UTA,fg_make,86,False,False,,Bogdanovic 13' Turnaround Fadeaway (6 PTS),12-14,12,14
+0022000545,2021-03-03,PHI,UTA,5.53,1,6,28,PHI,PHI,fg_miss,1,False,False,MISS Embiid 13' Jump Shot,,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,5.58,1,6,25,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:3),12-14,12,14
+0022000545,2021-03-03,PHI,UTA,5.63,1,6,22,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,5.85,1,6,9,UTA,UTA,fg3_miss,80,False,False,,MISS Bogdanovic 26' 3PT Step Back Jump Shot,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,5.92,1,6,5,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,5.95,1,6,3,PHI,PHI,tov,45,False,False,Simmons Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.17,1,5,50,UTA,UTA,fg_miss,75,False,False,,MISS Mitchell 4' Driving Finger Roll Layup,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.2,1,5,48,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:3),,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.38,1,5,37,PHI,PHI,fg3_miss,1,False,False,MISS Curry 26' 3PT Jump Shot,,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.45,1,5,33,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:1),12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.57,1,5,26,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 3PT Jump Shot,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.6,1,5,24,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.67,1,5,20,PHI,PHI,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.77,1,5,14,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:2),12-14,12,14
+0022000545,2021-03-03,PHI,UTA,6.98,1,5,1,UTA,UTA,fg_make,6,False,False,,Mitchell 3' Driving Layup (10 PTS),12-16,12,16
+0022000545,2021-03-03,PHI,UTA,7.3,1,4,42,PHI,PHI,fg3_miss,79,False,False,MISS Curry 25' 3PT Pullup Jump Shot,,12-16,12,16
+0022000545,2021-03-03,PHI,UTA,7.33,1,4,40,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:2),12-16,12,16
+0022000545,2021-03-03,PHI,UTA,7.57,1,4,26,UTA,UTA,fg3_make,79,False,False,,Ingles 26' 3PT Pullup Jump Shot (3 PTS),12-19,12,19
+0022000545,2021-03-03,PHI,UTA,7.85,1,4,9,PHI,PHI,fg_make,63,False,False,Embiid 9' Fadeaway Jumper (6 PTS),,14-19,14,19
+0022000545,2021-03-03,PHI,UTA,8.15,1,3,51,UTA,UTA,fg_make,78,False,False,,Favors 6' Floating Jump Shot (2 PTS) (O'Neale 1 AST),14-21,14,21
+0022000545,2021-03-03,PHI,UTA,8.42,1,3,35,PHI,PHI,fg_make,1,False,False,Embiid 11' Jump Shot (8 PTS),,16-21,16,21
+0022000545,2021-03-03,PHI,UTA,8.62,1,3,23,UTA,UTA,fg_make,108,False,False,,Favors 1' Cutting Dunk Shot (4 PTS) (Mitchell 1 AST),16-23,16,23
+0022000545,2021-03-03,PHI,UTA,8.92,1,3,5,PHI,PHI,tov,1,False,True,Embiid Bad Pass Turnover (P1.T2),,16-23,16,23
+0022000545,2021-03-03,PHI,UTA,8.92,1,3,5,PHI,UTA,steal,1,False,True,steal,steal,16-23,16,23
+0022000545,2021-03-03,PHI,UTA,8.97,1,3,2,UTA,UTA,tov,1,False,True,,O'Neale Bad Pass Turnover (P1.T1),16-23,16,23
+0022000545,2021-03-03,PHI,UTA,8.97,1,3,2,UTA,PHI,steal,1,False,True,steal,steal,16-23,16,23
+0022000545,2021-03-03,PHI,UTA,8.98,1,3,1,PHI,UTA,foul,2,False,False,,Favors S.FOUL (P1.T2) (M.Smith),16-23,16,23
+0022000545,2021-03-03,PHI,UTA,8.98,1,3,1,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (9 PTS),,17-23,17,23
+0022000545,2021-03-03,PHI,UTA,8.98,1,3,1,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.1 Short 0),18-23,18,23
+0022000545,2021-03-03,PHI,UTA,8.98,1,3,1,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (10 PTS),,18-23,18,23
+0022000545,2021-03-03,PHI,UTA,9.23,1,2,46,UTA,UTA,fg3_make,1,False,False,,Conley 26' 3PT Jump Shot (3 PTS) (Gobert 2 AST),18-26,18,26
+0022000545,2021-03-03,PHI,UTA,9.62,1,2,23,PHI,PHI,fg_make,5,False,False,Embiid 1' Layup (12 PTS),,20-26,20,26
+0022000545,2021-03-03,PHI,UTA,9.97,1,2,2,UTA,UTA,tov,1,False,True,,Ingles Bad Pass Turnover (P1.T2),20-26,20,26
+0022000545,2021-03-03,PHI,UTA,9.97,1,2,2,UTA,PHI,steal,1,False,True,steal,steal,20-26,20,26
+0022000545,2021-03-03,PHI,UTA,10.05,1,1,57,PHI,UTA,foul,2,False,False,,Niang S.FOUL (P1.T3) (M.Smith),20-26,20,26
+0022000545,2021-03-03,PHI,UTA,10.05,1,1,57,PHI,PHI,ft_make,13,False,False,Korkmaz Free Throw 1 of 3 (1 PTS),,21-26,21,26
+0022000545,2021-03-03,PHI,UTA,10.05,1,1,57,PHI,PHI,ft_make,14,False,False,Korkmaz Free Throw 2 of 3 (2 PTS),,22-26,22,26
+0022000545,2021-03-03,PHI,UTA,10.05,1,1,57,PHI,PHI,ft_make,15,False,False,Korkmaz Free Throw 3 of 3 (3 PTS),,23-26,23,26
+0022000545,2021-03-03,PHI,UTA,10.22,1,1,47,UTA,PHI,foul,1,False,False,Korkmaz P.FOUL (P1.T1) (S.Corbin),,23-26,23,26
+0022000545,2021-03-03,PHI,UTA,10.33,1,1,40,UTA,UTA,fg3_make,1,False,False,,Niang 27' 3PT Jump Shot (3 PTS) (Gobert 3 AST),23-29,23,29
+0022000545,2021-03-03,PHI,UTA,10.6,1,1,24,PHI,PHI,fg3_make,1,False,False,Korkmaz 26' 3PT Jump Shot (6 PTS) (Milton 1 AST),,26-29,26,29
+0022000545,2021-03-03,PHI,UTA,10.92,1,1,5,UTA,UTA,fg3_make,66,False,False,,Clarkson 27' 3PT Jump Bank Shot (3 PTS) (Ingles 1 AST),26-32,26,32
+0022000545,2021-03-03,PHI,UTA,11.15,1,0,51,PHI,PHI,fg_miss,79,False,False,MISS Milton 14' Pullup Jump Shot,,26-32,26,32
+0022000545,2021-03-03,PHI,UTA,11.18,1,0,49,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:1),26-32,26,32
+0022000545,2021-03-03,PHI,UTA,11.28,1,0,43,UTA,PHI,foul,2,False,False,Korkmaz S.FOUL (P2.PN) (B.Adair),,26-32,26,32
+0022000545,2021-03-03,PHI,UTA,11.28,1,0,43,UTA,UTA,ft_make,11,False,False,,Clarkson Free Throw 1 of 2 (4 PTS),26-33,26,33
+0022000545,2021-03-03,PHI,UTA,11.28,1,0,43,UTA,UTA,ft_make,12,False,False,,Clarkson Free Throw 2 of 2 (5 PTS),26-34,26,34
+0022000545,2021-03-03,PHI,UTA,11.58,1,0,25,PHI,PHI,fg_miss,6,False,False,MISS Howard 2' Driving Layup,,26-34,26,34
+0022000545,2021-03-03,PHI,UTA,11.62,1,0,23,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:2),26-34,26,34
+0022000545,2021-03-03,PHI,UTA,11.97,1,0,2,UTA,UTA,fg_miss,79,False,False,,MISS Conley 3' Pullup Jump Shot,26-34,26,34
+0022000545,2021-03-03,PHI,UTA,11.98,1,0,1,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,26-34,26,34
+0022000545,2021-03-03,PHI,UTA,12.0,1,0,0,PHI,,period_end,0,False,False,,,26-34,26,34
+0022000545,2021-03-03,PHI,UTA,12.0,2,12,0,PHI,,period_start,0,False,False,,,26-34,26,34
+0022000545,2021-03-03,PHI,UTA,12.3,2,11,42,PHI,PHI,fg_miss,5,False,False,MISS Howard 2' Layup,,26-34,26,34
+0022000545,2021-03-03,PHI,UTA,12.35,2,11,39,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:2),26-34,26,34
+0022000545,2021-03-03,PHI,UTA,12.48,2,11,31,UTA,UTA,fg_make,75,False,False,,Ingles 1' Driving Finger Roll Layup (5 PTS),26-36,26,36
+0022000545,2021-03-03,PHI,UTA,12.68,2,11,19,PHI,PHI,fg_make,75,False,False,Milton Driving Finger Roll Layup (2 PTS) (Howard 1 AST),,28-36,28,36
+0022000545,2021-03-03,PHI,UTA,12.97,2,11,2,UTA,UTA,fg_miss,98,False,False,,MISS Gobert 4' Cutting Layup Shot,28-36,28,36
+0022000545,2021-03-03,PHI,UTA,12.98,2,11,1,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:2),28-36,28,36
+0022000545,2021-03-03,PHI,UTA,13.02,2,10,59,UTA,UTA,fg_make,72,False,False,,Gobert 2' Putback Layup (2 PTS),28-38,28,38
+0022000545,2021-03-03,PHI,UTA,13.18,2,10,49,PHI,PHI,fg_make,101,False,False,Milton 7' Driving Floating Jump Shot (4 PTS) (Howard 2 AST),,30-38,30,38
+0022000545,2021-03-03,PHI,UTA,13.63,2,10,22,UTA,UTA,tov,8,False,False,,Gobert 3 Second Violation Turnover (P1.T3),30-38,30,38
+0022000545,2021-03-03,PHI,UTA,13.87,2,10,8,PHI,PHI,fg_miss,101,False,False,MISS Korkmaz 7' Driving Floating Jump Shot,,30-38,30,38
+0022000545,2021-03-03,PHI,UTA,13.92,2,10,5,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:1),30-38,30,38
+0022000545,2021-03-03,PHI,UTA,13.98,2,10,1,UTA,UTA,fg_miss,78,False,False,,MISS Clarkson 8' Floating Jump Shot,30-38,30,38
+0022000545,2021-03-03,PHI,UTA,14.0,2,10,0,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:1),30-38,30,38
+0022000545,2021-03-03,PHI,UTA,14.27,2,9,44,UTA,UTA,fg_make,101,False,False,,Conley 10' Driving Floating Jump Shot (5 PTS),30-40,30,40
+0022000545,2021-03-03,PHI,UTA,14.77,2,9,14,PHI,PHI,fg_miss,1,False,False,MISS Korkmaz 21' Jump Shot,,30-40,30,40
+0022000545,2021-03-03,PHI,UTA,14.8,2,9,12,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:2),30-40,30,40
+0022000545,2021-03-03,PHI,UTA,14.88,2,9,7,UTA,UTA,fg3_make,1,False,False,,Conley 25' 3PT Jump Shot (8 PTS) (Clarkson 1 AST),30-43,30,43
+0022000545,2021-03-03,PHI,UTA,14.88,2,9,7,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,30-43,30,43
+0022000545,2021-03-03,PHI,UTA,15.17,2,8,50,PHI,PHI,fg_make,52,False,False,Howard Alley Oop Dunk (2 PTS) (Milton 2 AST),,32-43,32,43
+0022000545,2021-03-03,PHI,UTA,15.55,2,8,27,UTA,UTA,fg_make,101,False,False,,Niang 8' Driving Floating Jump Shot (5 PTS) (Clarkson 2 AST),32-45,32,45
+0022000545,2021-03-03,PHI,UTA,15.95,2,8,3,PHI,PHI,fg_miss,79,False,False,MISS Milton 15' Pullup Jump Shot,,32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.0,2,8,0,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:3),32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.12,2,7,53,UTA,UTA,tov,2,False,True,,Clarkson Lost Ball Turnover (P1.T4),32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.12,2,7,53,UTA,PHI,steal,2,False,True,steal,steal,32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.13,2,7,52,PHI,UTA,foul,28,False,False,,Conley Personal Take Foul (P1.T1) (S.Corbin),32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.38,2,7,37,PHI,PHI,fg_miss,6,False,False,MISS Thybulle 3' Driving Layup,,32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.38,2,7,37,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:1),,32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.38,2,7,37,PHI,UTA,foul,2,False,False,,Favors S.FOUL (P2.T2) (B.Adair),32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.38,2,7,37,PHI,PHI,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.38,2,7,37,PHI,PHI,reb,1,False,False,76ERS Rebound,,32-45,32,45
+0022000545,2021-03-03,PHI,UTA,16.38,2,7,37,PHI,PHI,ft_make,12,False,False,Howard Free Throw 2 of 2 (3 PTS),,33-45,33,45
+0022000545,2021-03-03,PHI,UTA,16.73,2,7,16,UTA,PHI,foul,2,False,False,Milton S.FOUL (P1.T1) (B.Adair),,33-45,33,45
+0022000545,2021-03-03,PHI,UTA,16.73,2,7,16,UTA,UTA,ft_make,11,False,False,,Mitchell Free Throw 1 of 2 (11 PTS),33-46,33,46
+0022000545,2021-03-03,PHI,UTA,16.73,2,7,16,UTA,UTA,ft_miss,12,False,False,,MISS Mitchell Free Throw 2 of 2,33-46,33,46
+0022000545,2021-03-03,PHI,UTA,16.8,2,7,12,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:2),,33-46,33,46
+0022000545,2021-03-03,PHI,UTA,16.95,2,7,3,PHI,PHI,fg_make,47,False,False,Harris 9' Turnaround Jump Shot (4 PTS) (Simmons 2 AST),,35-46,35,46
+0022000545,2021-03-03,PHI,UTA,17.13,2,6,52,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 26' 3PT Pullup Jump Shot,35-46,35,46
+0022000545,2021-03-03,PHI,UTA,17.2,2,6,48,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,35-46,35,46
+0022000545,2021-03-03,PHI,UTA,17.3,2,6,42,PHI,PHI,fg_make,101,False,False,Simmons 6' Driving Floating Jump Shot (6 PTS),,37-46,37,46
+0022000545,2021-03-03,PHI,UTA,17.3,2,6,42,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.2 Short 0),37-46,37,46
+0022000545,2021-03-03,PHI,UTA,17.3,2,6,42,UTA,UTA,tov,12,False,False,,Clarkson Inbound Turnover (P2.T5),37-46,37,46
+0022000545,2021-03-03,PHI,UTA,17.42,2,6,35,PHI,PHI,fg_make,63,False,False,Embiid 13' Fadeaway Jumper (14 PTS),,39-46,39,46
+0022000545,2021-03-03,PHI,UTA,17.7,2,6,18,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 14' Pullup Jump Shot,39-46,39,46
+0022000545,2021-03-03,PHI,UTA,17.75,2,6,15,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:0),39-46,39,46
+0022000545,2021-03-03,PHI,UTA,17.95,2,6,3,UTA,UTA,fg3_make,1,False,False,,O'Neale 26' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.2,2,5,48,PHI,PHI,fg3_miss,80,False,False,MISS Harris 26' 3PT Step Back Jump Shot,,39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.25,2,5,45,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:1),39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.3,2,5,42,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 24' 3PT Jump Shot,39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.38,2,5,37,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:2),39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.53,2,5,28,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 26' 3PT Pullup Jump Shot,39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.58,2,5,25,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:3),,39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.7,2,5,18,PHI,PHI,fg3_miss,1,False,False,MISS Milton 26' 3PT Jump Shot,,39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.77,2,5,14,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:2),39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.9,2,5,6,UTA,UTA,tov,2,False,True,,Clarkson Lost Ball Turnover (P3.T6),39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.9,2,5,6,UTA,PHI,steal,2,False,True,steal,steal,39-49,39,49
+0022000545,2021-03-03,PHI,UTA,18.97,2,5,2,PHI,PHI,fg_make,76,False,False,Milton Running Finger Roll Layup (6 PTS),,41-49,41,49
+0022000545,2021-03-03,PHI,UTA,19.45,2,4,33,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 9' Pullup Jump Shot,41-49,41,49
+0022000545,2021-03-03,PHI,UTA,19.5,2,4,30,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:4),,41-49,41,49
+0022000545,2021-03-03,PHI,UTA,19.55,2,4,27,PHI,UTA,foul,2,False,False,,O'Neale S.FOUL (P1.T3) (S.Corbin),41-49,41,49
+0022000545,2021-03-03,PHI,UTA,19.55,2,4,27,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (5 PTS),,42-49,42,49
+0022000545,2021-03-03,PHI,UTA,19.55,2,4,27,PHI,PHI,ft_miss,12,False,False,MISS Harris Free Throw 2 of 2,,42-49,42,49
+0022000545,2021-03-03,PHI,UTA,19.6,2,4,24,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:3),42-49,42,49
+0022000545,2021-03-03,PHI,UTA,19.75,2,4,15,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 26' 3PT Jump Shot (9 PTS) (Favors 1 AST),42-52,42,52
+0022000545,2021-03-03,PHI,UTA,19.97,2,4,2,PHI,PHI,fg_miss,86,False,False,MISS Embiid 9' Turnaround Fadeaway Shot,,42-52,42,52
+0022000545,2021-03-03,PHI,UTA,20.0,2,4,0,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:4),42-52,42,52
+0022000545,2021-03-03,PHI,UTA,20.23,2,3,46,UTA,UTA,tov,4,False,False,,O'Neale Traveling Turnover (P2.T7),42-52,42,52
+0022000545,2021-03-03,PHI,UTA,20.57,2,3,26,PHI,PHI,fg_make,6,False,False,Embiid 1' Driving Layup (16 PTS),,44-52,44,52
+0022000545,2021-03-03,PHI,UTA,20.57,2,3,26,PHI,UTA,foul,2,False,False,,Gobert S.FOUL (P1.T4) (B.Adair),44-52,44,52
+0022000545,2021-03-03,PHI,UTA,20.57,2,3,26,PHI,PHI,ft_make,10,False,False,Embiid Free Throw 1 of 1 (17 PTS),,45-52,45,52
+0022000545,2021-03-03,PHI,UTA,20.78,2,3,13,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 17' Pullup Jump Shot,45-52,45,52
+0022000545,2021-03-03,PHI,UTA,20.83,2,3,10,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:5),,45-52,45,52
+0022000545,2021-03-03,PHI,UTA,20.92,2,3,5,PHI,PHI,fg_make,41,False,False,Harris 1' Running Layup (7 PTS),,47-52,47,52
+0022000545,2021-03-03,PHI,UTA,21.15,2,2,51,UTA,UTA,fg_make,79,False,False,,Mitchell 20' Pullup Jump Shot (13 PTS),47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.43,2,2,34,PHI,PHI,fg_miss,63,False,False,MISS Embiid 13' Fadeaway Jumper,,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.47,2,2,32,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:4),47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.57,2,2,26,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 26' 3PT Jump Shot,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.62,2,2,23,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:5),,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.68,2,2,19,PHI,PHI,fg_miss,6,True,False,MISS Harris 2' Driving Layup,,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.68,2,2,19,PHI,UTA,block,6,True,False,block,block,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.7,2,2,18,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:3),47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.72,2,2,17,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.3 Short 0),47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.72,2,2,17,UTA,UTA,tov,39,False,False,,Gobert Step Out of Bounds Turnover (P2.T8),47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.88,2,2,7,PHI,PHI,fg_miss,5,False,False,MISS Embiid 2' Layup,,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,21.92,2,2,5,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:3),47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.08,2,1,55,UTA,UTA,fg_miss,43,False,False,,MISS Gobert 9' Alley Oop Layup,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.12,2,1,53,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:6),,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.22,2,1,47,PHI,PHI,fg_miss,6,False,False,MISS Harris 6' Driving Layup,,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.25,2,1,45,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:5),47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.3,2,1,42,UTA,PHI,foul,2,False,False,Simmons S.FOUL (P1.T2) (S.Corbin),,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.3,2,1,42,UTA,UTA,ft_miss,11,False,False,,MISS Gobert Free Throw 1 of 2,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.3,2,1,42,UTA,UTA,reb,1,False,False,,Jazz Rebound,47-54,47,54
+0022000545,2021-03-03,PHI,UTA,22.3,2,1,42,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (3 PTS),47-55,47,55
+0022000545,2021-03-03,PHI,UTA,22.43,2,1,34,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P2.T3),,47-55,47,55
+0022000545,2021-03-03,PHI,UTA,22.43,2,1,34,PHI,UTA,steal,1,False,True,steal,steal,47-55,47,55
+0022000545,2021-03-03,PHI,UTA,22.55,2,1,27,UTA,UTA,fg_make,6,False,False,,Mitchell 5' Driving Layup (15 PTS),47-57,47,57
+0022000545,2021-03-03,PHI,UTA,22.72,2,1,17,PHI,PHI,fg_make,96,False,False,Simmons 3' Turnaround Bank Hook Shot (8 PTS),,49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.93,2,1,4,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 27' 3PT Jump Shot,49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.98,2,1,1,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:3),49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.98,2,1,1,UTA,UTA,fg_miss,72,False,False,,MISS Gobert Putback Layup,49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.98,2,1,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:6),,49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.98,2,1,1,PHI,UTA,foul,1,False,False,,Gobert P.FOUL (P2.PN) (B.Adair),49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.98,2,1,1,PHI,PHI,ft_miss,11,False,False,MISS Embiid Free Throw 1 of 2,,49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.98,2,1,1,PHI,PHI,reb,1,False,False,76ERS Rebound,,49-57,49,57
+0022000545,2021-03-03,PHI,UTA,22.98,2,1,1,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (18 PTS),,50-57,50,57
+0022000545,2021-03-03,PHI,UTA,23.12,2,0,53,UTA,PHI,violation,5,False,False,Green Violation:Kicked Ball (M.Smith),,50-57,50,57
+0022000545,2021-03-03,PHI,UTA,23.38,2,0,37,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 27' 3PT Jump Shot (12 PTS) (Conley 1 AST),50-60,50,60
+0022000545,2021-03-03,PHI,UTA,23.47,2,0,32,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,50-60,50,60
+0022000545,2021-03-03,PHI,UTA,23.52,2,0,29,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:3),50-60,50,60
+0022000545,2021-03-03,PHI,UTA,23.83,2,0,10,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 27' 3PT Jump Shot,50-60,50,60
+0022000545,2021-03-03,PHI,UTA,23.9,2,0,6,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:4),,50-60,50,60
+0022000545,2021-03-03,PHI,UTA,23.98,2,0,1,PHI,PHI,fg_miss,41,False,False,MISS Simmons 4' Running Layup,,50-60,50,60
+0022000545,2021-03-03,PHI,UTA,23.98,2,0,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:6),,50-60,50,60
+0022000545,2021-03-03,PHI,UTA,24.0,2,0,0,PHI,PHI,fg_make,97,False,False,Embiid Tip Layup Shot (20 PTS),,52-60,52,60
+0022000545,2021-03-03,PHI,UTA,24.0,2,0,0,UTA,PHI,foul,1,False,False,Embiid P.FOUL (P1.PN) (M.Smith),,52-60,52,60
+0022000545,2021-03-03,PHI,UTA,24.0,2,0,0,UTA,UTA,ft_miss,11,False,False,,MISS O'Neale Free Throw 1 of 2,52-60,52,60
+0022000545,2021-03-03,PHI,UTA,24.0,2,0,0,UTA,UTA,reb,1,False,False,,Jazz Rebound,52-60,52,60
+0022000545,2021-03-03,PHI,UTA,24.0,2,0,0,UTA,UTA,ft_make,12,False,False,,O'Neale Free Throw 2 of 2 (4 PTS),52-61,52,61
+0022000545,2021-03-03,PHI,UTA,24.0,2,0,0,UTA,,period_end,0,False,False,,,52-61,52,61
+0022000545,2021-03-03,PHI,UTA,24.0,3,12,0,UTA,,period_start,0,False,False,,,52-61,52,61
+0022000545,2021-03-03,PHI,UTA,24.4,3,11,36,PHI,PHI,fg_make,6,False,False,Harris 3' Driving Layup (9 PTS),,54-61,54,61
+0022000545,2021-03-03,PHI,UTA,24.62,3,11,23,UTA,PHI,foul,2,False,False,Embiid S.FOUL (P2.T1) (S.Corbin),,54-61,54,61
+0022000545,2021-03-03,PHI,UTA,24.62,3,11,23,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (4 PTS),54-62,54,62
+0022000545,2021-03-03,PHI,UTA,24.62,3,11,23,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (5 PTS),54-63,54,63
+0022000545,2021-03-03,PHI,UTA,24.8,3,11,12,PHI,PHI,fg_miss,101,False,False,MISS Harris 5' Driving Floating Jump Shot,,54-63,54,63
+0022000545,2021-03-03,PHI,UTA,24.87,3,11,8,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:0 Def:1),54-63,54,63
+0022000545,2021-03-03,PHI,UTA,24.97,3,11,2,UTA,UTA,fg_miss,6,False,False,,MISS Mitchell 2' Driving Layup,54-63,54,63
+0022000545,2021-03-03,PHI,UTA,24.98,3,11,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:7),,54-63,54,63
+0022000545,2021-03-03,PHI,UTA,25.13,3,10,52,PHI,PHI,fg_make,75,False,False,Simmons 2' Driving Finger Roll Layup (10 PTS),,56-63,56,63
+0022000545,2021-03-03,PHI,UTA,25.37,3,10,38,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 22' Pullup Jump Shot,56-63,56,63
+0022000545,2021-03-03,PHI,UTA,25.42,3,10,35,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:8),,56-63,56,63
+0022000545,2021-03-03,PHI,UTA,25.55,3,10,27,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 25' 3PT Jump Shot,,56-63,56,63
+0022000545,2021-03-03,PHI,UTA,25.6,3,10,24,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:4),56-63,56,63
+0022000545,2021-03-03,PHI,UTA,25.7,3,10,18,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 24' 3PT Jump Shot,56-63,56,63
+0022000545,2021-03-03,PHI,UTA,25.77,3,10,14,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:7),,56-63,56,63
+0022000545,2021-03-03,PHI,UTA,25.93,3,10,4,PHI,PHI,fg_make,1,False,False,Curry 16' Jump Shot (4 PTS),,58-63,58,63
+0022000545,2021-03-03,PHI,UTA,26.23,3,9,46,UTA,UTA,fg_make,101,False,False,,Conley 3' Driving Floating Jump Shot (10 PTS),58-65,58,65
+0022000545,2021-03-03,PHI,UTA,26.5,3,9,30,PHI,UTA,foul,17,False,False,,Jazz T.Foul (Def. 3 Sec O'Neale ) (S.Corbin),58-65,58,65
+0022000545,2021-03-03,PHI,UTA,26.5,3,9,30,PHI,PHI,ft_make,16,False,False,Curry Free Throw Technical (5 PTS),,59-65,59,65
+0022000545,2021-03-03,PHI,UTA,26.6,3,9,24,PHI,PHI,fg_make,1,False,False,Embiid 20' Jump Shot (22 PTS) (Harris 1 AST),,61-65,61,65
+0022000545,2021-03-03,PHI,UTA,26.82,3,9,11,UTA,UTA,fg3_make,79,False,False,,Mitchell 24' 3PT Pullup Jump Shot (18 PTS) (O'Neale 2 AST),61-68,61,68
+0022000545,2021-03-03,PHI,UTA,27.12,3,8,53,PHI,PHI,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,61-68,61,68
+0022000545,2021-03-03,PHI,UTA,27.15,3,8,51,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:5),61-68,61,68
+0022000545,2021-03-03,PHI,UTA,27.47,3,8,32,UTA,PHI,foul,2,False,False,Simmons S.FOUL (P2.T2) (B.Adair),,61-68,61,68
+0022000545,2021-03-03,PHI,UTA,27.47,3,8,32,UTA,UTA,ft_miss,11,False,False,,MISS Gobert Free Throw 1 of 2,61-68,61,68
+0022000545,2021-03-03,PHI,UTA,27.47,3,8,32,UTA,UTA,reb,1,False,False,,Jazz Rebound,61-68,61,68
+0022000545,2021-03-03,PHI,UTA,27.47,3,8,32,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (6 PTS),61-69,61,69
+0022000545,2021-03-03,PHI,UTA,27.55,3,8,27,UTA,PHI,foul,4,False,False,Simmons OFF.Foul (P3) (M.Smith),,61-69,61,69
+0022000545,2021-03-03,PHI,UTA,27.55,3,8,27,PHI,PHI,tov,37,False,False,Simmons Offensive Foul Turnover (P3.T4),,61-69,61,69
+0022000545,2021-03-03,PHI,UTA,27.68,3,8,19,UTA,UTA,fg3_make,79,False,False,,Conley 25' 3PT Pullup Jump Shot (13 PTS) (O'Neale 3 AST),61-72,61,72
+0022000545,2021-03-03,PHI,UTA,27.72,3,8,17,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,61-72,61,72
+0022000545,2021-03-03,PHI,UTA,27.9,3,8,6,PHI,PHI,fg_make,44,False,False,Simmons 1' Reverse Layup (12 PTS) (Harris 2 AST),,63-72,63,72
+0022000545,2021-03-03,PHI,UTA,27.9,3,8,6,PHI,UTA,foul,2,False,False,,O'Neale S.FOUL (P2.T1) (B.Adair),63-72,63,72
+0022000545,2021-03-03,PHI,UTA,27.9,3,8,6,PHI,PHI,ft_make,10,False,False,Simmons Free Throw 1 of 1 (13 PTS),,64-72,64,72
+0022000545,2021-03-03,PHI,UTA,28.15,3,7,51,UTA,PHI,foul,1,False,False,Harris P.FOUL (P1.T3) (B.Adair),,64-72,64,72
+0022000545,2021-03-03,PHI,UTA,28.25,3,7,45,UTA,UTA,tov,1,False,True,,O'Neale Bad Pass Turnover (P3.T9),64-72,64,72
+0022000545,2021-03-03,PHI,UTA,28.25,3,7,45,UTA,PHI,steal,1,False,True,steal,steal,64-72,64,72
+0022000545,2021-03-03,PHI,UTA,28.32,3,7,41,PHI,PHI,fg3_miss,103,False,False,MISS Green 28' 3PT Running Pull-Up Jump Shot,,64-72,64,72
+0022000545,2021-03-03,PHI,UTA,28.35,3,7,39,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:8),,64-72,64,72
+0022000545,2021-03-03,PHI,UTA,28.35,3,7,39,PHI,UTA,foul,2,False,False,,Mitchell S.FOUL (P2.T2) (M.Smith),64-72,64,72
+0022000545,2021-03-03,PHI,UTA,28.35,3,7,39,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (23 PTS),,65-72,65,72
+0022000545,2021-03-03,PHI,UTA,28.35,3,7,39,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (24 PTS),,66-72,66,72
+0022000545,2021-03-03,PHI,UTA,28.53,3,7,28,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 26' 3PT Jump Shot,66-72,66,72
+0022000545,2021-03-03,PHI,UTA,28.6,3,7,24,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:1),,66-72,66,72
+0022000545,2021-03-03,PHI,UTA,28.65,3,7,21,PHI,PHI,fg3_make,1,False,False,Curry 26' 3PT Jump Shot (8 PTS) (Simmons 3 AST),,69-72,69,72
+0022000545,2021-03-03,PHI,UTA,28.67,3,7,20,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),69-72,69,72
+0022000545,2021-03-03,PHI,UTA,28.75,3,7,15,UTA,PHI,foul,1,False,False,Curry P.FOUL (P1.T4) (S.Corbin),,69-72,69,72
+0022000545,2021-03-03,PHI,UTA,28.93,3,7,4,UTA,UTA,fg_miss,93,False,False,,MISS Mitchell 5' Driving Bank Hook Shot,69-72,69,72
+0022000545,2021-03-03,PHI,UTA,28.98,3,7,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:9),,69-72,69,72
+0022000545,2021-03-03,PHI,UTA,29.07,3,6,56,PHI,UTA,foul,1,False,False,,Favors P.FOUL (P3.T3) (S.Corbin),69-72,69,72
+0022000545,2021-03-03,PHI,UTA,29.3,3,6,42,PHI,PHI,fg_miss,105,False,False,MISS Embiid 4' Turnaround Fadeaway Bank Jump Shot,,69-72,69,72
+0022000545,2021-03-03,PHI,UTA,29.33,3,6,40,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:4),69-72,69,72
+0022000545,2021-03-03,PHI,UTA,29.42,3,6,35,UTA,UTA,fg_miss,6,True,False,,MISS Bogdanovic 16' Driving Layup,69-72,69,72
+0022000545,2021-03-03,PHI,UTA,29.42,3,6,35,UTA,PHI,block,6,True,False,block,block,69-72,69,72
+0022000545,2021-03-03,PHI,UTA,29.47,3,6,32,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:2 Def:4),69-72,69,72
+0022000545,2021-03-03,PHI,UTA,29.53,3,6,28,UTA,UTA,fg3_make,1,False,False,,O'Neale 26' 3PT Jump Shot (7 PTS) (Favors 2 AST),69-75,69,75
+0022000545,2021-03-03,PHI,UTA,29.67,3,6,20,PHI,PHI,fg3_miss,79,False,False,MISS Harris 26' 3PT Pullup Jump Shot,,69-75,69,75
+0022000545,2021-03-03,PHI,UTA,29.72,3,6,17,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:3),69-75,69,75
+0022000545,2021-03-03,PHI,UTA,29.87,3,6,8,PHI,UTA,foul,4,False,False,,Ingles OFF.Foul (P1) (S.Corbin),69-75,69,75
+0022000545,2021-03-03,PHI,UTA,29.87,3,6,8,UTA,UTA,tov,37,False,False,,Ingles Offensive Foul Turnover (P2.T10),69-75,69,75
+0022000545,2021-03-03,PHI,UTA,30.02,3,5,59,PHI,PHI,fg3_make,1,False,False,Green 3PT Jump Shot (3 PTS) (Simmons 4 AST),,72-75,72,75
+0022000545,2021-03-03,PHI,UTA,30.4,3,5,36,UTA,UTA,fg3_make,79,False,False,,Mitchell 27' 3PT Pullup Jump Shot (21 PTS),72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.67,3,5,20,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P4.T5),,72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.67,3,5,20,PHI,UTA,steal,1,False,True,steal,steal,72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.73,3,5,16,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 3PT Jump Shot,72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.77,3,5,14,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.77,3,5,14,PHI,UTA,foul,1,False,False,,Mitchell P.FOUL (P3.T4) (M.Smith),72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.97,3,5,2,PHI,UTA,foul,2,False,False,,Favors S.FOUL (P4.PN) (B.Adair),72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.97,3,5,2,PHI,PHI,ft_miss,11,False,False,MISS Embiid Free Throw 1 of 2,,72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.97,3,5,2,PHI,PHI,reb,1,False,False,76ERS Rebound,,72-78,72,78
+0022000545,2021-03-03,PHI,UTA,30.97,3,5,2,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (25 PTS),,73-78,73,78
+0022000545,2021-03-03,PHI,UTA,31.22,3,4,47,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 18' Pullup Jump Shot,73-78,73,78
+0022000545,2021-03-03,PHI,UTA,31.28,3,4,43,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:10),,73-78,73,78
+0022000545,2021-03-03,PHI,UTA,31.37,3,4,38,PHI,PHI,tov,2,False,True,Simmons Lost Ball Turnover (P5.T6),,73-78,73,78
+0022000545,2021-03-03,PHI,UTA,31.37,3,4,38,PHI,UTA,steal,2,False,True,steal,steal,73-78,73,78
+0022000545,2021-03-03,PHI,UTA,31.47,3,4,32,UTA,UTA,tov,1,False,True,,Ingles Bad Pass Turnover (P3.T11),73-78,73,78
+0022000545,2021-03-03,PHI,UTA,31.47,3,4,32,UTA,PHI,steal,1,False,True,steal,steal,73-78,73,78
+0022000545,2021-03-03,PHI,UTA,31.52,3,4,29,PHI,PHI,fg_make,50,False,False,Simmons Running Dunk (15 PTS) (Embiid 1 AST),,75-78,75,78
+0022000545,2021-03-03,PHI,UTA,31.52,3,4,29,PHI,UTA,foul,2,False,False,,Ingles S.FOUL (P2.PN) (M.Smith),75-78,75,78
+0022000545,2021-03-03,PHI,UTA,31.52,3,4,29,PHI,PHI,ft_miss,10,False,False,MISS Simmons Free Throw 1 of 1,,75-78,75,78
+0022000545,2021-03-03,PHI,UTA,31.6,3,4,24,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:6),75-78,75,78
+0022000545,2021-03-03,PHI,UTA,31.78,3,4,13,UTA,UTA,fg_make,6,False,False,,Mitchell 3' Driving Layup (23 PTS),75-80,75,80
+0022000545,2021-03-03,PHI,UTA,31.78,3,4,13,UTA,PHI,foul,2,False,False,Embiid S.FOUL (P3.PN) (M.Smith),,75-80,75,80
+0022000545,2021-03-03,PHI,UTA,31.78,3,4,13,UTA,UTA,ft_make,10,False,False,,Mitchell Free Throw 1 of 1 (24 PTS),75-81,75,81
+0022000545,2021-03-03,PHI,UTA,32.05,3,3,57,PHI,PHI,fg_miss,79,False,False,MISS Embiid 16' Pullup Jump Shot,,75-81,75,81
+0022000545,2021-03-03,PHI,UTA,32.08,3,3,55,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:4),75-81,75,81
+0022000545,2021-03-03,PHI,UTA,32.2,3,3,48,UTA,UTA,fg_make,75,False,False,,Ingles 4' Driving Finger Roll Layup (7 PTS),75-83,75,83
+0022000545,2021-03-03,PHI,UTA,32.38,3,3,37,PHI,PHI,fg3_miss,80,False,False,MISS Embiid 26' 3PT Step Back Jump Shot,,75-83,75,83
+0022000545,2021-03-03,PHI,UTA,32.43,3,3,34,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:6),75-83,75,83
+0022000545,2021-03-03,PHI,UTA,32.8,3,3,12,UTA,UTA,fg_miss,78,False,False,,MISS Mitchell 20' Floating Jump Shot,75-83,75,83
+0022000545,2021-03-03,PHI,UTA,32.83,3,3,10,PHI,PHI,reb,0,False,False,76ERS Rebound,,75-83,75,83
+0022000545,2021-03-03,PHI,UTA,33.07,3,2,56,PHI,PHI,tov,1,False,True,Milton Bad Pass Turnover (P1.T7),,75-83,75,83
+0022000545,2021-03-03,PHI,UTA,33.07,3,2,56,PHI,UTA,steal,1,False,True,steal,steal,75-83,75,83
+0022000545,2021-03-03,PHI,UTA,33.17,3,2,50,UTA,UTA,fg3_make,1,False,False,,Clarkson 26' 3PT Jump Shot (8 PTS) (Mitchell 3 AST),75-86,75,86
+0022000545,2021-03-03,PHI,UTA,33.48,3,2,31,PHI,PHI,fg_make,93,False,False,Simmons 2' Driving Bank Hook Shot (17 PTS),,77-86,77,86
+0022000545,2021-03-03,PHI,UTA,33.57,3,2,26,UTA,UTA,tov,45,False,False,,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P1.T12),77-86,77,86
+0022000545,2021-03-03,PHI,UTA,33.8,3,2,12,PHI,PHI,fg3_miss,1,False,False,MISS Milton 24' 3PT Jump Shot,,77-86,77,86
+0022000545,2021-03-03,PHI,UTA,33.87,3,2,8,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:4),77-86,77,86
+0022000545,2021-03-03,PHI,UTA,33.93,3,2,4,UTA,UTA,fg3_miss,103,False,False,,MISS Clarkson 28' 3PT Running Pull-Up Jump Shot,77-86,77,86
+0022000545,2021-03-03,PHI,UTA,33.98,3,2,1,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:0 Def:1),,77-86,77,86
+0022000545,2021-03-03,PHI,UTA,34.22,3,1,47,PHI,PHI,fg_make,1,False,False,Howard 7' Jump Shot (5 PTS) (Simmons 5 AST),,79-86,79,86
+0022000545,2021-03-03,PHI,UTA,34.42,3,1,35,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 24' 3PT Jump Shot,79-86,79,86
+0022000545,2021-03-03,PHI,UTA,34.48,3,1,31,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:1),,79-86,79,86
+0022000545,2021-03-03,PHI,UTA,34.58,3,1,25,PHI,PHI,fg_miss,101,False,False,MISS Simmons 7' Driving Floating Jump Shot,,79-86,79,86
+0022000545,2021-03-03,PHI,UTA,34.62,3,1,23,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:0),,79-86,79,86
+0022000545,2021-03-03,PHI,UTA,34.65,3,1,21,PHI,UTA,foul,2,False,False,,Gobert S.FOUL (P3.PN) (B.Adair),79-86,79,86
+0022000545,2021-03-03,PHI,UTA,34.65,3,1,21,PHI,PHI,ft_make,11,False,False,Milton Free Throw 1 of 2 (7 PTS),,80-86,80,86
+0022000545,2021-03-03,PHI,UTA,34.65,3,1,21,PHI,PHI,ft_make,12,False,False,Milton Free Throw 2 of 2 (8 PTS),,81-86,81,86
+0022000545,2021-03-03,PHI,UTA,34.8,3,1,12,UTA,UTA,fg_make,5,False,False,,Conley 5' Layup (15 PTS),81-88,81,88
+0022000545,2021-03-03,PHI,UTA,34.8,3,1,12,UTA,PHI,foul,2,False,False,Milton S.FOUL (P2.PN) (B.Adair),,81-88,81,88
+0022000545,2021-03-03,PHI,UTA,34.8,3,1,12,UTA,UTA,ft_make,10,False,False,,Conley Free Throw 1 of 1 (16 PTS),81-89,81,89
+0022000545,2021-03-03,PHI,UTA,35.0,3,1,0,PHI,UTA,foul,1,False,False,,Conley P.FOUL (P2.PN) (S.Corbin),81-89,81,89
+0022000545,2021-03-03,PHI,UTA,35.0,3,1,0,PHI,PHI,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,81-89,81,89
+0022000545,2021-03-03,PHI,UTA,35.0,3,1,0,PHI,PHI,reb,1,False,False,76ERS Rebound,,81-89,81,89
+0022000545,2021-03-03,PHI,UTA,35.0,3,1,0,PHI,PHI,ft_make,12,False,False,Howard Free Throw 2 of 2 (6 PTS),,82-89,82,89
+0022000545,2021-03-03,PHI,UTA,35.33,3,0,40,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 26' 3PT Jump Shot,82-89,82,89
+0022000545,2021-03-03,PHI,UTA,35.37,3,0,38,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:2),,82-89,82,89
+0022000545,2021-03-03,PHI,UTA,35.45,3,0,33,PHI,UTA,foul,2,False,False,,Conley S.FOUL (P3.PN) (M.Smith),82-89,82,89
+0022000545,2021-03-03,PHI,UTA,35.45,3,0,33,PHI,PHI,ft_make,11,False,False,Milton Free Throw 1 of 2 (9 PTS),,83-89,83,89
+0022000545,2021-03-03,PHI,UTA,35.45,3,0,33,PHI,PHI,ft_make,12,False,False,Milton Free Throw 2 of 2 (10 PTS),,84-89,84,89
+0022000545,2021-03-03,PHI,UTA,35.73,3,0,16,UTA,UTA,fg_miss,101,False,False,,MISS Conley 10' Driving Floating Jump Shot,84-89,84,89
+0022000545,2021-03-03,PHI,UTA,35.78,3,0,13,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:2),,84-89,84,89
+0022000545,2021-03-03,PHI,UTA,35.98,3,0,1,PHI,PHI,fg3_miss,79,False,False,MISS Milton 27' 3PT Pullup Jump Shot,,84-89,84,89
+0022000545,2021-03-03,PHI,UTA,35.98,3,0,1,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:5),84-89,84,89
+0022000545,2021-03-03,PHI,UTA,36.0,3,0,0,UTA,,period_end,0,False,False,,,84-89,84,89
+0022000545,2021-03-03,PHI,UTA,36.0,4,12,0,UTA,,period_start,0,False,False,,,84-89,84,89
+0022000545,2021-03-03,PHI,UTA,36.3,4,11,42,UTA,UTA,fg3_make,1,False,False,,Ingles 24' 3PT Jump Shot (10 PTS) (Gobert 4 AST),84-92,84,92
+0022000545,2021-03-03,PHI,UTA,36.63,4,11,22,PHI,PHI,fg_make,98,False,False,Howard 1' Cutting Layup Shot (8 PTS) (Scott 1 AST),,86-92,86,92
+0022000545,2021-03-03,PHI,UTA,36.95,4,11,3,UTA,UTA,fg_miss,1,False,False,,MISS Gobert 16' Jump Shot,86-92,86,92
+0022000545,2021-03-03,PHI,UTA,36.98,4,11,1,PHI,PHI,reb,0,False,False,76ERS Rebound,,86-92,86,92
+0022000545,2021-03-03,PHI,UTA,37.35,4,10,39,PHI,PHI,fg3_make,1,False,False,Howard 26' 3PT Jump Shot (11 PTS) (Milton 3 AST),,89-92,89,92
+0022000545,2021-03-03,PHI,UTA,37.58,4,10,25,UTA,UTA,tov,2,False,True,,Gobert Lost Ball Turnover (P3.T13),89-92,89,92
+0022000545,2021-03-03,PHI,UTA,37.58,4,10,25,UTA,PHI,steal,2,False,True,steal,steal,89-92,89,92
+0022000545,2021-03-03,PHI,UTA,37.68,4,10,19,PHI,UTA,foul,2,False,False,,Clarkson S.FOUL (P1.T1) (M.Smith),89-92,89,92
+0022000545,2021-03-03,PHI,UTA,37.68,4,10,19,PHI,PHI,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,89-92,89,92
+0022000545,2021-03-03,PHI,UTA,37.68,4,10,19,PHI,PHI,reb,1,False,False,76ERS Rebound,,89-92,89,92
+0022000545,2021-03-03,PHI,UTA,37.68,4,10,19,PHI,PHI,ft_make,12,False,False,Howard Free Throw 2 of 2 (12 PTS),,90-92,90,92
+0022000545,2021-03-03,PHI,UTA,37.87,4,10,8,UTA,UTA,fg_miss,6,True,False,,MISS Conley 6' Driving Layup,90-92,90,92
+0022000545,2021-03-03,PHI,UTA,37.87,4,10,8,UTA,PHI,block,6,True,False,block,block,90-92,90,92
+0022000545,2021-03-03,PHI,UTA,37.92,4,10,5,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:3),,90-92,90,92
+0022000545,2021-03-03,PHI,UTA,37.98,4,10,1,PHI,PHI,fg_make,101,False,False,Korkmaz 4' Driving Floating Jump Shot (8 PTS),,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,37.98,4,10,1,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.5 Short 0),92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.27,4,9,44,UTA,UTA,fg_miss,101,True,False,,MISS Conley 17' Driving Floating Jump Shot,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.27,4,9,44,UTA,PHI,block,101,True,False,block,block,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.37,4,9,38,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:3),,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.42,4,9,35,PHI,PHI,fg_miss,101,False,False,MISS Milton 17' Driving Floating Jump Shot,,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.47,4,9,32,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:2 Def:5),92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.48,4,9,31,UTA,UTA,tov,1,False,True,,Favors Bad Pass Turnover (P1.T14),92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.48,4,9,31,UTA,PHI,steal,1,False,True,steal,steal,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.8,4,9,12,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P1.T8),,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.8,4,9,12,PHI,UTA,steal,1,False,True,steal,steal,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.95,4,9,3,UTA,UTA,fg_miss,6,False,False,,MISS Clarkson 7' Driving Layup,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,38.98,4,9,1,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,92-92,92,92
+0022000545,2021-03-03,PHI,UTA,39.05,4,8,57,PHI,PHI,fg3_make,1,False,False,Scott 25' 3PT Jump Shot (3 PTS) (Thybulle 1 AST),,95-92,95,92
+0022000545,2021-03-03,PHI,UTA,39.35,4,8,39,UTA,PHI,foul,1,False,False,Milton P.FOUL (P3.T1) (B.Adair),,95-92,95,92
+0022000545,2021-03-03,PHI,UTA,39.52,4,8,29,UTA,UTA,fg_make,101,False,False,,Mitchell 4' Driving Floating Jump Shot (26 PTS),95-94,95,94
+0022000545,2021-03-03,PHI,UTA,39.82,4,8,11,PHI,PHI,fg_make,6,False,False,Milton 1' Driving Layup (12 PTS) (Scott 2 AST),,97-94,97,94
+0022000545,2021-03-03,PHI,UTA,40.12,4,7,53,UTA,UTA,fg_make,101,False,False,,Clarkson 13' Driving Floating Jump Shot (10 PTS) (O'Neale 4 AST),97-96,97,96
+0022000545,2021-03-03,PHI,UTA,40.3,4,7,42,PHI,PHI,fg3_miss,1,False,False,MISS Scott 25' 3PT Jump Shot,,97-96,97,96
+0022000545,2021-03-03,PHI,UTA,40.35,4,7,39,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:7),97-96,97,96
+0022000545,2021-03-03,PHI,UTA,40.45,4,7,33,UTA,UTA,fg_make,102,False,False,,Mitchell 4' Driving Floating Bank Jump Shot (28 PTS),97-98,97,98
+0022000545,2021-03-03,PHI,UTA,40.45,4,7,33,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,97-98,97,98
+0022000545,2021-03-03,PHI,UTA,40.65,4,7,21,PHI,PHI,fg3_miss,1,False,False,MISS Milton 3PT Jump Shot,,97-98,97,98
+0022000545,2021-03-03,PHI,UTA,40.7,4,7,18,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:6),97-98,97,98
+0022000545,2021-03-03,PHI,UTA,40.97,4,7,2,UTA,UTA,fg3_make,1,False,False,,Ingles 26' 3PT Jump Shot (13 PTS) (Mitchell 4 AST),97-101,97,101
+0022000545,2021-03-03,PHI,UTA,41.37,4,6,38,PHI,PHI,fg_make,79,False,False,Curry 20' Pullup Jump Shot (10 PTS) (Embiid 2 AST),,99-101,99,101
+0022000545,2021-03-03,PHI,UTA,41.58,4,6,25,UTA,UTA,fg_make,52,False,False,,Gobert 2' Alley Oop Dunk (8 PTS) (Mitchell 5 AST),99-103,99,103
+0022000545,2021-03-03,PHI,UTA,41.92,4,6,5,PHI,PHI,fg_make,9,False,False,Embiid 1' Driving Dunk (27 PTS) (Curry 3 AST),,101-103,101,103
+0022000545,2021-03-03,PHI,UTA,42.23,4,5,46,UTA,UTA,fg3_make,79,False,False,,Ingles 27' 3PT Pullup Jump Shot (16 PTS),101-106,101,106
+0022000545,2021-03-03,PHI,UTA,42.57,4,5,26,PHI,PHI,fg3_make,1,False,False,Curry 28' 3PT Jump Shot (13 PTS) (Embiid 3 AST),,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,42.97,4,5,2,UTA,UTA,fg_miss,75,False,False,,MISS O'Neale 3' Driving Finger Roll Layup,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.02,4,4,59,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:11),,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.02,4,4,59,PHI,PHI,tov,40,False,False,Embiid Out of Bounds Lost Ball Turnover (P2.T9),,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.35,4,4,39,UTA,UTA,fg_miss,7,True,False,,MISS Gobert 3' Dunk,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.35,4,4,39,UTA,PHI,block,7,True,False,block,block,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.35,4,4,39,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:12),,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.6,4,4,24,PHI,PHI,tov,4,False,False,Milton Traveling Turnover (P2.T10),,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.83,4,4,10,UTA,UTA,fg_miss,80,False,False,,MISS Mitchell 21' Step Back Jump Shot,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,43.88,4,4,7,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:2),,104-106,104,106
+0022000545,2021-03-03,PHI,UTA,44.05,4,3,57,PHI,PHI,fg3_make,1,False,False,Embiid 26' 3PT Jump Shot (30 PTS) (Simmons 6 AST),,107-106,107,106
+0022000545,2021-03-03,PHI,UTA,44.28,4,3,43,UTA,PHI,foul,1,False,False,Harris P.FOUL (P2.T2) (S.Corbin),,107-106,107,106
+0022000545,2021-03-03,PHI,UTA,44.4,4,3,36,UTA,UTA,fg3_make,1,False,False,,Mitchell 26' 3PT Jump Shot (31 PTS),107-109,107,109
+0022000545,2021-03-03,PHI,UTA,44.4,4,3,36,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,107-109,107,109
+0022000545,2021-03-03,PHI,UTA,44.77,4,3,14,PHI,PHI,fg_miss,6,False,False,MISS Embiid 1' Driving Layup,,107-109,107,109
+0022000545,2021-03-03,PHI,UTA,44.83,4,3,10,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:3 Def:12),,109-109,109,109
+0022000545,2021-03-03,PHI,UTA,44.83,4,3,10,PHI,PHI,fg_make,97,False,False,Embiid Tip Layup Shot (32 PTS),,109-109,109,109
+0022000545,2021-03-03,PHI,UTA,45.08,4,2,55,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 24' 3PT Jump Shot (15 PTS) (Conley 2 AST),109-112,109,112
+0022000545,2021-03-03,PHI,UTA,45.43,4,2,34,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 26' 3PT Jump Shot,,109-112,109,112
+0022000545,2021-03-03,PHI,UTA,45.48,4,2,31,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:7),109-112,109,112
+0022000545,2021-03-03,PHI,UTA,45.7,4,2,18,UTA,UTA,fg_make,7,False,False,,Gobert 2' Dunk (10 PTS) (O'Neale 5 AST),109-114,109,114
+0022000545,2021-03-03,PHI,UTA,45.72,4,2,17,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 6 Short 0),,109-114,109,114
+0022000545,2021-03-03,PHI,UTA,45.87,4,2,8,PHI,PHI,fg_make,75,False,False,Embiid Driving Finger Roll Layup (34 PTS),,111-114,111,114
+0022000545,2021-03-03,PHI,UTA,46.1,4,1,54,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P2.T15),111-114,111,114
+0022000545,2021-03-03,PHI,UTA,46.1,4,1,54,UTA,PHI,steal,1,False,True,steal,steal,111-114,111,114
+0022000545,2021-03-03,PHI,UTA,46.12,4,1,53,PHI,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P4.T2) (B.Adair),111-114,111,114
+0022000545,2021-03-03,PHI,UTA,46.22,4,1,47,PHI,UTA,foul,2,False,False,,Gobert S.FOUL (P4.PN) (S.Corbin),111-114,111,114
+0022000545,2021-03-03,PHI,UTA,46.22,4,1,47,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (35 PTS),,112-114,112,114
+0022000545,2021-03-03,PHI,UTA,46.22,4,1,47,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (36 PTS),,113-114,113,114
+0022000545,2021-03-03,PHI,UTA,46.5,4,1,30,UTA,UTA,fg_miss,75,False,False,,MISS Mitchell 3' Driving Finger Roll Layup,113-114,113,114
+0022000545,2021-03-03,PHI,UTA,46.52,4,1,29,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:3),113-114,113,114
+0022000545,2021-03-03,PHI,UTA,46.52,4,1,29,UTA,UTA,fg_make,107,False,False,,Gobert Tip Dunk Shot (12 PTS),113-116,113,116
+0022000545,2021-03-03,PHI,UTA,46.8,4,1,12,PHI,PHI,fg_miss,1,False,False,MISS Embiid 8' Jump Shot,,113-116,113,116
+0022000545,2021-03-03,PHI,UTA,46.85,4,1,9,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:0 Def:2),113-116,113,116
+0022000545,2021-03-03,PHI,UTA,46.95,4,1,3,UTA,PHI,foul,1,False,False,Curry P.FOUL (P2.T3) (M.Smith),,113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.13,4,0,52,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 29' 3PT Pullup Jump Shot,113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.18,4,0,49,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:3),113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.33,4,0,40,UTA,UTA,fg_miss,1,True,False,,MISS Mitchell 11' Jump Shot,113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.33,4,0,40,UTA,PHI,block,1,True,False,block,block,113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.47,4,0,32,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:1 Def:7),113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.48,4,0,31,UTA,UTA,fg_miss,1,False,False,,MISS Mitchell 8' Jump Shot,113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.53,4,0,28,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:4),,113-116,113,116
+0022000545,2021-03-03,PHI,UTA,47.62,4,0,23,PHI,PHI,fg_make,6,False,False,Harris 1' Driving Layup (11 PTS),,115-116,115,116
+0022000545,2021-03-03,PHI,UTA,47.65,4,0,21,UTA,PHI,foul,28,False,False,Curry Personal Take Foul (P3.PN) (M.Smith),,115-116,115,116
+0022000545,2021-03-03,PHI,UTA,47.65,4,0,21,UTA,UTA,ft_make,11,False,False,,Conley Free Throw 1 of 2 (17 PTS),115-117,115,117
+0022000545,2021-03-03,PHI,UTA,47.65,4,0,21,UTA,UTA,ft_make,12,False,False,,Conley Free Throw 2 of 2 (18 PTS),115-118,115,118
+0022000545,2021-03-03,PHI,UTA,47.9,4,0,6,PHI,PHI,fg3_make,1,False,False,Embiid 27' 3PT Jump Shot (39 PTS),,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.0,4,0,0,UTA,UTA,fg_miss,101,False,False,,MISS Conley 16' Driving Floating Jump Shot,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.0,4,0,0,UTA,UTA,reb,0,False,False,,Jazz Rebound,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.0,4,0,0,UTA,,period_end,0,False,False,,,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.0,5,5,0,UTA,,period_start,0,False,False,,,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.0,5,5,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Gobert: Tip to Conley,,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.27,5,4,44,UTA,UTA,fg_miss,1,False,False,,MISS Conley 18' Jump Shot,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.33,5,4,40,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:3 Def:13),,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.57,5,4,26,PHI,PHI,fg_miss,63,False,False,MISS Embiid 12' Fadeaway Jumper,,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.6,5,4,24,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:5),118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.7,5,4,18,UTA,UTA,fg_miss,75,False,False,,MISS Mitchell 7' Driving Finger Roll Layup,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.7,5,4,18,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:2 Def:7),118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.75,5,4,15,UTA,PHI,foul,2,False,False,Curry S.FOUL (P4.T1) (M.Smith),,118-118,118,118
+0022000545,2021-03-03,PHI,UTA,48.75,5,4,15,UTA,UTA,ft_make,13,False,False,,Mitchell Free Throw 1 of 3 (32 PTS),118-119,118,119
+0022000545,2021-03-03,PHI,UTA,48.75,5,4,15,UTA,UTA,ft_miss,14,False,False,,MISS Mitchell Free Throw 2 of 3,118-119,118,119
+0022000545,2021-03-03,PHI,UTA,48.75,5,4,15,UTA,UTA,reb,1,False,False,,Jazz Rebound,118-119,118,119
+0022000545,2021-03-03,PHI,UTA,48.75,5,4,15,UTA,UTA,ft_make,15,False,False,,Mitchell Free Throw 3 of 3 (33 PTS),118-120,118,120
+0022000545,2021-03-03,PHI,UTA,48.98,5,4,1,PHI,PHI,fg_make,57,False,False,Harris 6' Driving Hook Shot (13 PTS),,120-120,120,120
+0022000545,2021-03-03,PHI,UTA,49.27,5,3,44,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 26' 3PT Pullup Jump Shot,120-120,120,120
+0022000545,2021-03-03,PHI,UTA,49.32,5,3,41,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:8),,120-120,120,120
+0022000545,2021-03-03,PHI,UTA,49.58,5,3,25,PHI,PHI,fg_make,6,False,False,Harris 2' Driving Layup (15 PTS),,122-120,122,120
+0022000545,2021-03-03,PHI,UTA,49.85,5,3,9,UTA,UTA,fg_miss,75,False,False,,MISS Mitchell 4' Driving Finger Roll Layup,122-120,122,120
+0022000545,2021-03-03,PHI,UTA,49.88,5,3,7,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:9),,122-120,122,120
+0022000545,2021-03-03,PHI,UTA,50.1,5,2,54,PHI,PHI,tov,2,False,True,Curry Lost Ball Turnover (P1.T11),,122-120,122,120
+0022000545,2021-03-03,PHI,UTA,50.1,5,2,54,PHI,UTA,steal,2,False,True,steal,steal,122-120,122,120
+0022000545,2021-03-03,PHI,UTA,50.42,5,2,35,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 24' 3PT Jump Shot (18 PTS) (Mitchell 6 AST),122-123,122,123
+0022000545,2021-03-03,PHI,UTA,50.83,5,2,10,PHI,PHI,fg_make,5,False,False,Harris 2' Layup (17 PTS),,124-123,124,123
+0022000545,2021-03-03,PHI,UTA,50.83,5,2,10,PHI,UTA,violation,2,False,False,,Gobert Violation:Defensive Goaltending (S.Corbin),124-123,124,123
+0022000545,2021-03-03,PHI,UTA,51.05,5,1,57,PHI,UTA,foul,4,False,False,,Mitchell OFF.Foul (P5) (S.Corbin),124-123,124,123
+0022000545,2021-03-03,PHI,UTA,51.05,5,1,57,UTA,UTA,tov,37,False,False,,Mitchell Offensive Foul Turnover (P3.T16),124-123,124,123
+0022000545,2021-03-03,PHI,UTA,51.38,5,1,37,PHI,PHI,fg_make,86,False,False,Harris 14' Turnaround Fadeaway (19 PTS),,126-123,126,123
+0022000545,2021-03-03,PHI,UTA,51.67,5,1,20,UTA,UTA,fg3_miss,79,False,False,,MISS Bogdanovic 26' 3PT Pullup Jump Shot,126-123,126,123
+0022000545,2021-03-03,PHI,UTA,51.72,5,1,17,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:3 Def:14),,126-123,126,123
+0022000545,2021-03-03,PHI,UTA,52.02,5,0,59,PHI,PHI,fg_miss,5,False,False,MISS Harris 2' Layup,,126-123,126,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:2),,126-123,126,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,PHI,fg_miss,97,False,False,MISS Simmons Tip Layup Shot,,126-123,126,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:4 Def:14),,126-123,126,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,UTA,foul,11,False,False,,Mitchell T.FOUL (P5.T0) (S.Corbin),126-123,126,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,PHI,ft_make,16,False,False,Curry Free Throw Technical (14 PTS),,127-123,127,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,UTA,foul,2,False,False,,Gobert S.FOUL (P5.T1) (S.Corbin),127-123,127,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (40 PTS),,128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.05,5,0,57,PHI,PHI,ft_miss,12,False,False,MISS Embiid Free Throw 2 of 2,,128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.08,5,0,55,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:4),128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.15,5,0,51,UTA,UTA,fg3_miss,103,False,False,,MISS Mitchell 29' 3PT Running Pull-Up Jump Shot,128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.2,5,0,48,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:4),128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.32,5,0,41,UTA,UTA,fg3_miss,80,False,False,,MISS Mitchell 25' 3PT Step Back Jump Shot,128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.37,5,0,38,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:4 Def:15),,128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.5,5,0,30,PHI,UTA,foul,11,False,False,,Mitchell T.FOUL (P5.T1) (S.Corbin),128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.5,5,0,30,PHI,PHI,ft_make,16,False,False,Harris Free Throw Technical (20 PTS),,129-123,129,123
+0022000545,2021-03-03,PHI,UTA,52.5,5,0,30,PHI,UTA,ejection,4,False,False,,Mitchell Ejection:Other,128-123,128,123
+0022000545,2021-03-03,PHI,UTA,52.53,5,0,28,,PHI,jump_ball,0,False,False,Jump Ball Milton vs. Bogdanovic: Tip to Harris,,129-123,129,123
+0022000545,2021-03-03,PHI,UTA,52.55,5,0,27,PHI,UTA,foul,28,False,False,,Conley Personal Take Foul (P4.PN) (B.Adair),129-123,129,123
+0022000545,2021-03-03,PHI,UTA,52.55,5,0,27,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (21 PTS),,130-123,130,123
+0022000545,2021-03-03,PHI,UTA,52.55,5,0,27,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (22 PTS),,131-123,131,123
+0022000545,2021-03-03,PHI,UTA,52.55,5,0,27,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.6 Short 0),131-123,131,123
+0022000545,2021-03-03,PHI,UTA,52.55,5,0,27,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.7 Short 0),131-123,131,123
+0022000545,2021-03-03,PHI,UTA,52.58,5,0,25,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 25' 3PT Pullup Jump Shot,131-123,131,123
+0022000545,2021-03-03,PHI,UTA,52.63,5,0,22,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:3 Def:7),131-123,131,123
+0022000545,2021-03-03,PHI,UTA,52.67,5,0,20,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 26' 3PT Jump Shot,131-123,131,123
+0022000545,2021-03-03,PHI,UTA,52.73,5,0,16,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:10),,131-123,131,123
+0022000545,2021-03-03,PHI,UTA,53.0,5,0,0,PHI,,period_end,0,False,False,,,131-123,131,123

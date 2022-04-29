@@ -1,0 +1,454 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100102,2021-11-01,LAC,OKC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100102,2021-11-01,LAC,OKC,0.0,1,12,0,,LAC,jump_ball,0,False,False,Jump Ball Zubac vs. Favors: Tip to Robinson-Earl,,0-0,0,0
+0022100102,2021-11-01,LAC,OKC,0.28,1,11,43,OKC,OKC,fg_miss,101,False,False,,MISS Gilgeous-Alexander 8' Driving Floating Jump Shot,0-0,0,0
+0022100102,2021-11-01,LAC,OKC,0.32,1,11,41,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:0 Def:1),,0-0,0,0
+0022100102,2021-11-01,LAC,OKC,0.67,1,11,20,LAC,LAC,fg3_miss,1,False,False,MISS Bledsoe 26' 3PT Jump Shot,,0-0,0,0
+0022100102,2021-11-01,LAC,OKC,0.73,1,11,16,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:0 Def:1),0-0,0,0
+0022100102,2021-11-01,LAC,OKC,0.92,1,11,5,OKC,OKC,fg_make,102,False,False,,Bazley 7' Driving Floating Bank Jump Shot (2 PTS),0-2,0,2
+0022100102,2021-11-01,LAC,OKC,1.15,1,10,51,LAC,LAC,fg_make,102,False,False,Bledsoe 5' Driving Floating Bank Jump Shot (2 PTS) (George 1 AST),,2-2,2,2
+0022100102,2021-11-01,LAC,OKC,1.43,1,10,34,OKC,OKC,fg_make,1,False,False,,Favors 19' Jump Shot (2 PTS) (Giddey 1 AST),2-4,2,4
+0022100102,2021-11-01,LAC,OKC,1.6,1,10,24,LAC,LAC,fg_miss,79,False,False,MISS George 17' Pullup Jump Shot,,2-4,2,4
+0022100102,2021-11-01,LAC,OKC,1.65,1,10,21,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:0 Def:2),2-4,2,4
+0022100102,2021-11-01,LAC,OKC,1.8,1,10,12,OKC,LAC,steal,1,False,True,steal,steal,2-4,2,4
+0022100102,2021-11-01,LAC,OKC,1.8,1,10,12,OKC,OKC,tov,1,False,True,,Bazley Bad Pass Turnover (P1.T1),2-4,2,4
+0022100102,2021-11-01,LAC,OKC,2.02,1,9,59,LAC,LAC,fg3_make,1,False,False,Batum 24' 3PT Jump Shot (3 PTS) (George 2 AST),,5-4,5,4
+0022100102,2021-11-01,LAC,OKC,2.25,1,9,45,OKC,OKC,fg_make,6,False,False,,Gilgeous-Alexander 2' Driving Layup (2 PTS),5-6,5,6
+0022100102,2021-11-01,LAC,OKC,2.43,1,9,34,LAC,LAC,tov,45,False,False,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,5-6,5,6
+0022100102,2021-11-01,LAC,OKC,2.75,1,9,15,OKC,OKC,fg_miss,78,False,False,,MISS Gilgeous-Alexander 11' Floating Jump Shot,5-6,5,6
+0022100102,2021-11-01,LAC,OKC,2.78,1,9,13,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:0),5-6,5,6
+0022100102,2021-11-01,LAC,OKC,2.88,1,9,7,OKC,OKC,fg3_make,1,False,False,,Favors 25' 3PT Jump Shot (5 PTS) (Bazley 1 AST),5-9,5,9
+0022100102,2021-11-01,LAC,OKC,3.12,1,8,53,LAC,LAC,ft_miss,11,False,False,MISS Zubac Free Throw 1 of 2,,5-9,5,9
+0022100102,2021-11-01,LAC,OKC,3.12,1,8,53,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,5-9,5,9
+0022100102,2021-11-01,LAC,OKC,3.12,1,8,53,LAC,LAC,ft_make,12,False,False,Zubac Free Throw 2 of 2 (1 PTS),,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.12,1,8,53,LAC,OKC,foul,2,False,False,,Favors S.FOUL (P1.T1) (J.Williams),5-9,5,9
+0022100102,2021-11-01,LAC,OKC,3.23,1,8,46,OKC,OKC,fg_miss,78,False,False,,MISS Gilgeous-Alexander 9' Floating Jump Shot,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.28,1,8,43,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:0 Def:1),,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.45,1,8,33,LAC,LAC,fg3_miss,1,False,False,MISS Jackson 27' 3PT Jump Shot,,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.52,1,8,29,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:1 Def:1),,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.53,1,8,28,LAC,LAC,fg3_miss,1,False,False,MISS Batum 26' 3PT Jump Shot,,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.58,1,8,25,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:2 Def:1),,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.73,1,8,16,LAC,LAC,fg_miss,79,False,False,MISS Jackson 19' Pullup Jump Shot,,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.8,1,8,12,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:1),6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.92,1,8,5,OKC,OKC,fg3_miss,1,False,False,,MISS Robinson-Earl 26' 3PT Jump Shot,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,3.97,1,8,2,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.23,1,7,46,LAC,LAC,fg3_miss,1,False,False,MISS Bledsoe 26' 3PT Jump Shot,,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.3,1,7,42,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:0 Def:1),6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.45,1,7,33,OKC,LAC,block,1,True,False,block,block,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.45,1,7,33,OKC,OKC,reb,0,False,False,,Thunder Rebound,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.45,1,7,33,OKC,OKC,fg3_miss,1,True,False,,MISS Giddey 3PT Jump Shot,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.63,1,7,22,OKC,LAC,foul,1,False,False,Bledsoe P.FOUL (P1.T1) (S.Corbin),,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.73,1,7,16,OKC,OKC,fg_miss,101,False,False,,MISS Giddey 11' Driving Floating Jump Shot,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.8,1,7,12,LAC,LAC,reb,0,False,False,Jackson REBOUND (Off:0 Def:1),,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.92,1,7,5,LAC,LAC,fg_miss,73,False,False,MISS George 2' Driving Reverse Layup,,6-9,6,9
+0022100102,2021-11-01,LAC,OKC,4.95,1,7,3,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:2),6-9,6,9
+0022100102,2021-11-01,LAC,OKC,5.1,1,6,54,OKC,OKC,fg_make,75,False,False,,Bazley 4' Driving Finger Roll Layup (4 PTS) (Gilgeous-Alexander 1 AST),6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.23,1,6,46,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.33,1,6,40,LAC,LAC,fg3_miss,1,False,False,MISS George 25' 3PT Jump Shot,,6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.43,1,6,34,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:1 Def:1),,6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.55,1,6,27,LAC,LAC,fg_miss,102,False,False,MISS Batum 5' Driving Floating Bank Jump Shot,,6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.58,1,6,25,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:0 Def:1),6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.72,1,6,17,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P1.T2),6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.72,1,6,17,OKC,LAC,steal,1,False,True,steal,steal,6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.82,1,6,11,LAC,LAC,fg3_miss,1,False,False,MISS Mann 3PT Jump Shot,,6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.87,1,6,8,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:1),6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.88,1,6,7,OKC,OKC,tov,2,False,True,,Bazley Lost Ball Turnover (P2.T3),6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.88,1,6,7,OKC,LAC,steal,2,False,True,steal,steal,6-11,6,11
+0022100102,2021-11-01,LAC,OKC,5.97,1,6,2,LAC,LAC,fg_make,99,False,False,Mann 3' Cutting Finger Roll Layup Shot (2 PTS) (Batum 1 AST),,8-11,8,11
+0022100102,2021-11-01,LAC,OKC,6.2,1,5,48,OKC,OKC,fg3_make,1,False,False,,Bazley 25' 3PT Jump Shot (7 PTS) (Giddey 2 AST),8-14,8,14
+0022100102,2021-11-01,LAC,OKC,6.52,1,5,29,LAC,LAC,fg3_miss,1,False,False,MISS Mann 25' 3PT Jump Shot,,8-14,8,14
+0022100102,2021-11-01,LAC,OKC,6.58,1,5,25,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:2),8-14,8,14
+0022100102,2021-11-01,LAC,OKC,6.68,1,5,19,OKC,LAC,foul,1,False,False,Mann P.FOUL (P1.T2) (J.Williams),,8-14,8,14
+0022100102,2021-11-01,LAC,OKC,6.82,1,5,11,OKC,OKC,fg_make,78,False,False,,Robinson-Earl 8' Floating Jump Shot (2 PTS) (Giddey 3 AST),8-16,8,16
+0022100102,2021-11-01,LAC,OKC,7.08,1,4,55,LAC,LAC,fg3_miss,1,False,False,MISS Mann 3PT Jump Shot,,8-16,8,16
+0022100102,2021-11-01,LAC,OKC,7.13,1,4,52,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:3),8-16,8,16
+0022100102,2021-11-01,LAC,OKC,7.23,1,4,46,OKC,OKC,ft_miss,12,False,False,,MISS Bazley Free Throw 2 of 2,8-17,8,17
+0022100102,2021-11-01,LAC,OKC,7.23,1,4,46,OKC,LAC,foul,2,False,False,Mann S.FOUL (P2.T3) (J.Sterling),,8-16,8,16
+0022100102,2021-11-01,LAC,OKC,7.23,1,4,46,OKC,OKC,ft_make,11,False,False,,Bazley Free Throw 1 of 2 (8 PTS),8-17,8,17
+0022100102,2021-11-01,LAC,OKC,7.25,1,4,45,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,8-17,8,17
+0022100102,2021-11-01,LAC,OKC,7.67,1,4,20,LAC,LAC,fg_miss,3,False,False,MISS Hartenstein 7' Hook Shot,,8-17,8,17
+0022100102,2021-11-01,LAC,OKC,7.68,1,4,19,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:4),8-17,8,17
+0022100102,2021-11-01,LAC,OKC,7.88,1,4,7,OKC,OKC,fg_make,6,False,False,,Gilgeous-Alexander 4' Driving Layup (4 PTS),8-19,8,19
+0022100102,2021-11-01,LAC,OKC,8.08,1,3,55,LAC,LAC,fg_miss,101,False,False,MISS Jackson 10' Driving Floating Jump Shot,,8-19,8,19
+0022100102,2021-11-01,LAC,OKC,8.13,1,3,52,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:1 Def:0),,8-19,8,19
+0022100102,2021-11-01,LAC,OKC,8.18,1,3,49,LAC,LAC,fg_make,98,False,False,Winslow 1' Cutting Layup Shot (2 PTS) (Hartenstein 1 AST),,10-19,10,19
+0022100102,2021-11-01,LAC,OKC,8.48,1,3,31,OKC,OKC,fg3_miss,1,False,False,,MISS Robinson-Earl 26' 3PT Jump Shot,10-19,10,19
+0022100102,2021-11-01,LAC,OKC,8.53,1,3,28,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:2),10-19,10,19
+0022100102,2021-11-01,LAC,OKC,8.62,1,3,23,OKC,LAC,block,6,True,False,block,block,10-19,10,19
+0022100102,2021-11-01,LAC,OKC,8.62,1,3,23,OKC,OKC,fg_miss,6,True,False,,MISS Gilgeous-Alexander 2' Driving Layup,10-19,10,19
+0022100102,2021-11-01,LAC,OKC,8.67,1,3,20,LAC,LAC,reb,0,False,False,Kennard REBOUND (Off:0 Def:1),,10-19,10,19
+0022100102,2021-11-01,LAC,OKC,8.77,1,3,14,LAC,LAC,fg_make,105,False,False,Winslow 3' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Kennard 1 AST),,12-19,12,19
+0022100102,2021-11-01,LAC,OKC,8.93,1,3,4,OKC,OKC,fg_make,78,False,False,,Gilgeous-Alexander 6' Floating Jump Shot (6 PTS),12-21,12,21
+0022100102,2021-11-01,LAC,OKC,9.17,1,2,50,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:0 Def:1),12-21,12,21
+0022100102,2021-11-01,LAC,OKC,9.17,1,2,50,LAC,LAC,fg3_miss,1,False,False,MISS Jackson 24' 3PT Jump Shot,,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,9.57,1,2,26,OKC,OKC,fg_miss,6,False,False,,MISS Maledon 3' Driving Layup,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,9.6,1,2,24,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:1 Def:1),,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,9.68,1,2,19,LAC,LAC,fg3_miss,103,False,False,MISS Kennard 26' 3PT Running Pull-Up Jump Shot,,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,9.72,1,2,17,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),12-21,12,21
+0022100102,2021-11-01,LAC,OKC,9.78,1,2,13,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.13,1,1,52,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 27' 3PT Jump Shot,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.2,1,1,48,LAC,LAC,reb,0,False,False,Kennard REBOUND (Off:0 Def:2),,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.27,1,1,44,LAC,LAC,fg_miss,1,False,False,MISS Bledsoe 12' Jump Shot,,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.3,1,1,42,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:1),12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.42,1,1,35,OKC,OKC,fg_miss,1,False,False,,MISS Muscala 14' Jump Shot,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.48,1,1,31,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:1 Def:1),12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.5,1,1,30,OKC,OKC,tov,1,False,True,,Maledon Bad Pass Turnover (P1.T4),12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.5,1,1,30,OKC,LAC,steal,1,False,True,steal,steal,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.6,1,1,24,LAC,LAC,fg_miss,98,False,False,MISS Winslow 3' Cutting Layup Shot,,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.67,1,1,20,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:1),,12-21,12,21
+0022100102,2021-11-01,LAC,OKC,10.67,1,1,20,LAC,LAC,fg_make,97,False,False,Hartenstein Tip Layup Shot (2 PTS),,14-21,14,21
+0022100102,2021-11-01,LAC,OKC,10.82,1,1,11,OKC,OKC,ft_make,12,False,False,,Muscala Free Throw 2 of 2 (2 PTS),14-23,14,23
+0022100102,2021-11-01,LAC,OKC,10.82,1,1,11,OKC,OKC,ft_make,11,False,False,,Muscala Free Throw 1 of 2 (1 PTS),14-22,14,22
+0022100102,2021-11-01,LAC,OKC,10.82,1,1,11,OKC,LAC,foul,2,False,False,Hartenstein S.FOUL (P1.T4) (S.Corbin),,14-21,14,21
+0022100102,2021-11-01,LAC,OKC,10.98,1,1,1,LAC,LAC,fg3_miss,1,False,False,MISS Kennard 26' 3PT Jump Shot,,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.05,1,0,57,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:1),14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.18,1,0,49,OKC,OKC,fg_miss,78,False,False,,MISS Muscala 7' Floating Jump Shot,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.22,1,0,47,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:1),,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.4,1,0,36,LAC,LAC,fg_miss,80,False,False,MISS George 19' Step Back Jump Shot,,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.47,1,0,32,LAC,LAC,reb,0,False,False,Winslow REBOUND (Off:1 Def:0),,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.58,1,0,25,LAC,LAC,fg_miss,63,False,False,MISS George 12' Fadeaway Jumper,,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.65,1,0,21,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:1 Def:2),14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.97,1,0,2,OKC,OKC,fg3_miss,1,False,False,,MISS Maledon 24' 3PT Jump Shot,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,11.98,1,0,1,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:2),,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,12.0,2,12,0,LAC,,period_start,0,False,False,,,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,12.0,1,0,0,LAC,,period_end,0,False,False,,,14-23,14,23
+0022100102,2021-11-01,LAC,OKC,12.2,2,11,48,LAC,LAC,fg_make,63,False,False,George 8' Fadeaway Jumper (2 PTS),,16-23,16,23
+0022100102,2021-11-01,LAC,OKC,12.6,2,11,24,OKC,OKC,fg3_miss,1,False,False,,MISS Jerome 32' 3PT Jump Shot,16-23,16,23
+0022100102,2021-11-01,LAC,OKC,12.67,2,11,20,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:2),,16-23,16,23
+0022100102,2021-11-01,LAC,OKC,12.73,2,11,16,LAC,LAC,fg3_miss,2,False,False,MISS Bledsoe 3PT Running Jump Shot,,16-23,16,23
+0022100102,2021-11-01,LAC,OKC,12.78,2,11,13,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:2),16-23,16,23
+0022100102,2021-11-01,LAC,OKC,12.87,2,11,8,OKC,OKC,fg3_make,103,False,False,,Pokusevski 25' 3PT Running Pull-Up Jump Shot (3 PTS),16-26,16,26
+0022100102,2021-11-01,LAC,OKC,13.1,2,10,54,LAC,LAC,fg3_miss,1,False,False,MISS Hartenstein 26' 3PT Jump Shot,,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,13.15,2,10,51,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:3),16-26,16,26
+0022100102,2021-11-01,LAC,OKC,13.38,2,10,37,OKC,OKC,fg_miss,63,False,False,,MISS Jerome 6' Fadeaway Jumper,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,13.4,2,10,36,LAC,LAC,reb,0,False,False,Winslow REBOUND (Off:1 Def:1),,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,13.5,2,10,30,LAC,LAC,tov,45,False,False,George Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,13.68,2,10,19,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 27' 3PT Jump Shot,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,13.72,2,10,17,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,14.05,2,9,57,LAC,LAC,fg_miss,78,False,False,MISS Winslow 7' Floating Jump Shot,,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,14.15,2,9,51,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:2),16-26,16,26
+0022100102,2021-11-01,LAC,OKC,14.15,2,9,51,OKC,LAC,foul,1,False,False,Winslow P.FOUL (P1.T1) (S.Corbin),,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,14.3,2,9,42,OKC,OKC,fg_miss,6,False,False,,MISS Williams 4' Driving Layup,16-26,16,26
+0022100102,2021-11-01,LAC,OKC,14.33,2,9,40,OKC,OKC,fg_make,97,False,False,,Pokusevski Tip Layup Shot (5 PTS),16-28,16,28
+0022100102,2021-11-01,LAC,OKC,14.33,2,9,40,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:1 Def:3),16-26,16,26
+0022100102,2021-11-01,LAC,OKC,14.53,2,9,28,LAC,LAC,fg3_miss,1,False,False,MISS Kennard 3PT Jump Shot,,16-28,16,28
+0022100102,2021-11-01,LAC,OKC,14.58,2,9,25,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:1 Def:4),16-28,16,28
+0022100102,2021-11-01,LAC,OKC,14.72,2,9,17,OKC,OKC,ft_make,10,False,False,,Muscala Free Throw 1 of 1 (5 PTS),16-31,16,31
+0022100102,2021-11-01,LAC,OKC,14.72,2,9,17,OKC,LAC,foul,2,False,False,Winslow S.FOUL (P2.T2) (J.Sterling),,16-30,16,30
+0022100102,2021-11-01,LAC,OKC,14.72,2,9,17,OKC,OKC,fg_make,5,False,False,,Muscala 5' Layup (4 PTS) (Pokusevski 1 AST),16-30,16,30
+0022100102,2021-11-01,LAC,OKC,15.0,2,9,0,LAC,LAC,fg3_miss,1,False,False,MISS Jackson 3PT Jump Shot,,16-31,16,31
+0022100102,2021-11-01,LAC,OKC,15.07,2,8,56,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:3),16-31,16,31
+0022100102,2021-11-01,LAC,OKC,15.13,2,8,52,OKC,OKC,fg3_miss,103,False,False,,MISS Jerome 27' 3PT Running Pull-Up Jump Shot,16-31,16,31
+0022100102,2021-11-01,LAC,OKC,15.18,2,8,49,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:3),,16-31,16,31
+0022100102,2021-11-01,LAC,OKC,15.28,2,8,43,LAC,LAC,fg_make,100,False,False,Mann 1' Running Alley Oop Layup Shot (4 PTS) (George 3 AST),,18-31,18,31
+0022100102,2021-11-01,LAC,OKC,15.57,2,8,26,OKC,OKC,fg_miss,105,False,False,,MISS Williams 6' Turnaround Fadeaway Bank Jump Shot,18-31,18,31
+0022100102,2021-11-01,LAC,OKC,15.62,2,8,23,LAC,OKC,foul,28,False,False,,Jerome Personal Take Foul (P1.T1) (J.Williams),18-31,18,31
+0022100102,2021-11-01,LAC,OKC,15.62,2,8,23,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:4),,18-31,18,31
+0022100102,2021-11-01,LAC,OKC,15.73,2,8,16,LAC,OKC,steal,2,False,True,steal,steal,18-31,18,31
+0022100102,2021-11-01,LAC,OKC,15.73,2,8,16,LAC,LAC,tov,2,False,True,Bledsoe Lost Ball Turnover (P2.T3),,18-31,18,31
+0022100102,2021-11-01,LAC,OKC,15.88,2,8,7,OKC,OKC,fg3_miss,1,False,False,,MISS Williams 24' 3PT Jump Shot,18-31,18,31
+0022100102,2021-11-01,LAC,OKC,15.95,2,8,3,LAC,LAC,reb,0,False,False,Jackson REBOUND (Off:0 Def:2),,18-31,18,31
+0022100102,2021-11-01,LAC,OKC,16.03,2,7,58,LAC,LAC,fg_make,79,False,False,Jackson 15' Pullup Jump Shot (2 PTS),,20-31,20,31
+0022100102,2021-11-01,LAC,OKC,16.37,2,7,38,OKC,OKC,fg3_make,1,False,False,,Maledon 3PT Jump Shot (3 PTS) (Muscala 1 AST),20-34,20,34
+0022100102,2021-11-01,LAC,OKC,16.52,2,7,29,LAC,LAC,ft_make,12,False,False,George Free Throw 2 of 2 (3 PTS),,21-34,21,34
+0022100102,2021-11-01,LAC,OKC,16.52,2,7,29,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,20-34,20,34
+0022100102,2021-11-01,LAC,OKC,16.52,2,7,29,LAC,LAC,ft_miss,11,False,False,MISS George Free Throw 1 of 2,,20-34,20,34
+0022100102,2021-11-01,LAC,OKC,16.52,2,7,29,LAC,OKC,foul,2,False,False,,Williams S.FOUL (P1.T2) (J.Sterling),20-34,20,34
+0022100102,2021-11-01,LAC,OKC,16.72,2,7,17,OKC,OKC,fg3_miss,1,False,False,,MISS Maledon 27' 3PT Jump Shot,21-34,21,34
+0022100102,2021-11-01,LAC,OKC,16.8,2,7,12,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:0 Def:1),,21-34,21,34
+0022100102,2021-11-01,LAC,OKC,16.85,2,7,9,LAC,LAC,fg_make,76,False,False,Mann 2' Running Finger Roll Layup (6 PTS),,23-34,23,34
+0022100102,2021-11-01,LAC,OKC,17.08,2,6,55,OKC,OKC,fg_make,98,False,False,,Pokusevski 2' Cutting Layup Shot (7 PTS) (Williams 1 AST),23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.23,2,6,46,LAC,LAC,fg_miss,79,False,False,MISS Jackson 19' Pullup Jump Shot,,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.28,2,6,43,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:0 Def:2),23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.35,2,6,39,OKC,LAC,block,41,True,False,block,block,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.35,2,6,39,OKC,OKC,fg_miss,41,True,False,,MISS Maledon 4' Running Layup,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.38,2,6,37,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:5),,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.42,2,6,35,LAC,OKC,block,41,True,False,block,block,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.42,2,6,35,LAC,LAC,fg_miss,41,True,False,MISS Mann 2' Running Layup,,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.43,2,6,34,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.43,2,6,34,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.53,2,6,28,LAC,LAC,fg_miss,63,False,False,MISS George 10' Fadeaway Jumper,,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.58,2,6,25,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:1 Def:1),,23-36,23,36
+0022100102,2021-11-01,LAC,OKC,17.62,2,6,23,LAC,LAC,fg_make,72,False,False,Mann Putback Layup (8 PTS),,25-36,25,36
+0022100102,2021-11-01,LAC,OKC,17.9,2,6,6,OKC,OKC,tov,4,False,False,,Bazley Traveling Turnover (P3.T5),25-36,25,36
+0022100102,2021-11-01,LAC,OKC,18.05,2,5,57,LAC,LAC,fg3_make,1,False,False,Batum 26' 3PT Jump Shot (6 PTS) (Jackson 1 AST),,28-36,28,36
+0022100102,2021-11-01,LAC,OKC,18.32,2,5,41,OKC,OKC,tov,40,False,False,,Bazley Out of Bounds Lost Ball Turnover (P4.T6),28-36,28,36
+0022100102,2021-11-01,LAC,OKC,18.48,2,5,31,LAC,LAC,tov,1,False,True,Jackson Bad Pass Turnover (P1.T4),,28-36,28,36
+0022100102,2021-11-01,LAC,OKC,18.48,2,5,31,LAC,OKC,steal,1,False,True,steal,steal,28-36,28,36
+0022100102,2021-11-01,LAC,OKC,18.57,2,5,26,OKC,OKC,fg_make,41,False,False,,Pokusevski 4' Running Layup (9 PTS),28-38,28,38
+0022100102,2021-11-01,LAC,OKC,18.77,2,5,14,LAC,LAC,ft_make,10,False,False,Bledsoe Free Throw 1 of 1 (5 PTS),,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,18.77,2,5,14,LAC,OKC,foul,2,False,False,,Giddey S.FOUL (P1.T3) (J.Williams),30-38,30,38
+0022100102,2021-11-01,LAC,OKC,18.77,2,5,14,LAC,LAC,fg_make,6,False,False,Bledsoe 4' Driving Layup (4 PTS),,30-38,30,38
+0022100102,2021-11-01,LAC,OKC,18.9,2,5,6,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 26' 3PT Jump Shot,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,18.93,2,5,4,OKC,LAC,foul,3,False,False,Bledsoe L.B.FOUL (P2.T3) (J.Sterling),,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,18.93,2,5,4,OKC,OKC,reb,0,False,False,,Thunder Rebound,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,19.12,2,4,53,OKC,OKC,fg_miss,80,False,False,,MISS Gilgeous-Alexander 18' Step Back Jump Shot,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,19.22,2,4,47,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:1 Def:1),31-38,31,38
+0022100102,2021-11-01,LAC,OKC,19.3,2,4,42,OKC,OKC,fg_miss,47,False,False,,MISS Giddey 8' Turnaround Jump Shot,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,19.35,2,4,39,LAC,LAC,tov,40,False,False,Mann Out of Bounds Lost Ball Turnover (P1.T5),,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,19.35,2,4,39,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:1 Def:2),,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,19.52,2,4,29,OKC,LAC,foul,17,False,False,CLIPPERS T.Foul (Def. 3 Sec Bledsoe ) (J.Williams),,31-38,31,38
+0022100102,2021-11-01,LAC,OKC,19.52,2,4,29,OKC,OKC,ft_make,16,False,False,,Gilgeous-Alexander Free Throw Technical (7 PTS),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,19.6,2,4,24,LAC,OKC,foul,26,False,False,,Giddey Offensive Charge Foul (P2) (J.Sterling),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,19.6,2,4,24,OKC,OKC,tov,37,False,False,,Giddey Offensive Foul Turnover (P2.T7),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,19.78,2,4,13,LAC,LAC,fg_miss,79,False,False,MISS George 17' Pullup Jump Shot,,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,19.87,2,4,8,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:2 Def:2),,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,19.9,2,4,6,LAC,LAC,fg3_miss,1,False,False,MISS Batum 27' 3PT Jump Shot,,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,19.98,2,4,1,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:5),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.17,2,3,50,OKC,OKC,fg_miss,101,False,False,,MISS Gilgeous-Alexander 7' Driving Floating Jump Shot,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.18,2,3,49,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:6),,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.25,2,3,45,LAC,LAC,fg_miss,74,False,False,MISS Bledsoe 2' Running Reverse Layup,,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.28,2,3,43,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:0 Def:2),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.37,2,3,38,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 26' 3PT Jump Shot,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.43,2,3,34,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:2 Def:1),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.52,2,3,29,OKC,OKC,fg_miss,101,False,False,,MISS Bazley 4' Driving Floating Jump Shot,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.57,2,3,26,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:7),,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.8,2,3,12,LAC,LAC,fg3_miss,1,False,False,MISS Jackson 26' 3PT Jump Shot,,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,20.83,2,3,10,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:0 Def:3),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,21.02,2,2,59,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,21.02,2,2,59,OKC,OKC,tov,7,False,False,,Giddey Discontinue Dribble Turnover (P3.T8),31-39,31,39
+0022100102,2021-11-01,LAC,OKC,21.3,2,2,42,LAC,LAC,fg_miss,73,False,False,MISS George 3' Driving Reverse Layup,,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,21.4,2,2,36,LAC,LAC,fg_make,72,False,False,Batum Putback Layup (8 PTS),,33-39,33,39
+0022100102,2021-11-01,LAC,OKC,21.4,2,2,36,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:2 Def:1),,31-39,31,39
+0022100102,2021-11-01,LAC,OKC,21.58,2,2,25,OKC,OKC,fg_make,102,False,False,,Gilgeous-Alexander 3' Driving Floating Bank Jump Shot (9 PTS) (Giddey 4 AST),33-41,33,41
+0022100102,2021-11-01,LAC,OKC,21.87,2,2,8,LAC,LAC,fg3_make,1,False,False,Jackson 27' 3PT Jump Shot (5 PTS) (George 4 AST),,36-41,36,41
+0022100102,2021-11-01,LAC,OKC,22.18,2,1,49,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 25' 3PT Jump Shot,36-41,36,41
+0022100102,2021-11-01,LAC,OKC,22.23,2,1,46,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:2 Def:2),,36-41,36,41
+0022100102,2021-11-01,LAC,OKC,22.28,2,1,43,LAC,LAC,ft_make,12,False,False,Mann Free Throw 2 of 2 (10 PTS),,38-41,38,41
+0022100102,2021-11-01,LAC,OKC,22.28,2,1,43,LAC,LAC,ft_make,11,False,False,Mann Free Throw 1 of 2 (9 PTS),,37-41,37,41
+0022100102,2021-11-01,LAC,OKC,22.28,2,1,43,LAC,OKC,foul,2,False,False,,Maledon S.FOUL (P1.T4) (J.Williams),36-41,36,41
+0022100102,2021-11-01,LAC,OKC,22.42,2,1,35,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 26' 3PT Jump Shot,38-41,38,41
+0022100102,2021-11-01,LAC,OKC,22.48,2,1,31,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:3 Def:1),38-41,38,41
+0022100102,2021-11-01,LAC,OKC,22.57,2,1,26,OKC,OKC,fg3_make,1,False,False,,Giddey 27' 3PT Jump Shot (3 PTS) (Maledon 1 AST),38-44,38,44
+0022100102,2021-11-01,LAC,OKC,22.78,2,1,13,LAC,LAC,ft_make,12,False,False,George Free Throw 2 of 2 (5 PTS),,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,22.78,2,1,13,LAC,LAC,ft_make,11,False,False,George Free Throw 1 of 2 (4 PTS),,39-44,39,44
+0022100102,2021-11-01,LAC,OKC,22.78,2,1,13,LAC,OKC,foul,2,False,False,,Robinson-Earl S.FOUL (P1.PN) (J.Williams),38-44,38,44
+0022100102,2021-11-01,LAC,OKC,22.87,2,1,8,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 26' 3PT Jump Shot,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,22.95,2,1,3,LAC,LAC,reb,0,False,False,Kennard REBOUND (Off:0 Def:3),,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.02,2,0,59,LAC,OKC,steal,1,False,True,steal,steal,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.02,2,0,59,LAC,LAC,tov,1,False,True,Jackson Bad Pass Turnover (P2.T6),,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.2,2,0,48,OKC,LAC,steal,2,False,True,steal,steal,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.2,2,0,48,OKC,OKC,tov,2,False,True,,Gilgeous-Alexander Lost Ball Turnover (P1.T9),40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.28,2,0,43,OKC,LAC,foul,4,False,False,Winslow OFF.Foul (P3) (J.Williams),,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.28,2,0,43,LAC,LAC,tov,37,False,False,Winslow Offensive Foul Turnover (P1.T7),,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.47,2,0,32,OKC,OKC,fg3_miss,1,False,False,,MISS Gilgeous-Alexander 27' 3PT Jump Shot,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.55,2,0,27,OKC,OKC,tov,39,False,False,,Maledon Step Out of Bounds Turnover (P2.T10),40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.55,2,0,27,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:1 Def:2),40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.92,2,0,5,LAC,LAC,fg3_miss,1,False,False,MISS Coffey 26' 3PT Jump Shot,,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,23.97,2,0,2,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:0 Def:4),40-44,40,44
+0022100102,2021-11-01,LAC,OKC,24.0,2,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,24.0,3,12,0,OKC,,period_start,0,False,False,,,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,24.0,2,0,0,OKC,,period_end,0,False,False,,,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,24.0,2,0,0,OKC,OKC,fg3_miss,1,False,False,,MISS Gilgeous-Alexander 3PT Jump Shot,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,24.17,3,11,50,LAC,LAC,fg_miss,9,False,False,MISS Jackson 6' Driving Dunk,,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,24.2,3,11,48,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:3 Def:1),,40-44,40,44
+0022100102,2021-11-01,LAC,OKC,24.22,3,11,47,LAC,LAC,fg_make,107,False,False,Zubac Tip Dunk Shot (3 PTS),,42-44,42,44
+0022100102,2021-11-01,LAC,OKC,24.5,3,11,30,OKC,OKC,fg_make,78,False,False,,Favors 11' Floating Jump Shot (7 PTS) (Gilgeous-Alexander 2 AST),42-46,42,46
+0022100102,2021-11-01,LAC,OKC,24.72,3,11,17,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:3 Def:2),42-46,42,46
+0022100102,2021-11-01,LAC,OKC,24.72,3,11,17,LAC,LAC,fg3_miss,1,False,False,MISS Bledsoe 27' 3PT Jump Shot,,42-46,42,46
+0022100102,2021-11-01,LAC,OKC,24.98,3,11,1,LAC,LAC,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:1),,42-46,42,46
+0022100102,2021-11-01,LAC,OKC,24.98,3,11,1,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 26' 3PT Jump Shot,42-46,42,46
+0022100102,2021-11-01,LAC,OKC,25.22,3,10,47,LAC,LAC,fg_make,79,False,False,George 17' Pullup Jump Shot (7 PTS),,44-46,44,46
+0022100102,2021-11-01,LAC,OKC,25.57,3,10,26,OKC,OKC,fg3_make,1,False,False,,Bazley 3PT Jump Shot (11 PTS) (Robinson-Earl 1 AST),44-49,44,49
+0022100102,2021-11-01,LAC,OKC,25.87,3,10,8,LAC,LAC,fg3_make,80,False,False,Jackson 26' 3PT Step Back Jump Shot (8 PTS),,47-49,47,49
+0022100102,2021-11-01,LAC,OKC,26.05,3,9,57,OKC,LAC,foul,1,False,False,Batum P.FOUL (P1.T1) (J.Williams),,47-49,47,49
+0022100102,2021-11-01,LAC,OKC,26.18,3,9,49,OKC,OKC,fg_make,6,False,False,,Giddey 2' Driving Layup (5 PTS),47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.38,3,9,37,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:0 Def:3),47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.38,3,9,37,LAC,LAC,fg_miss,79,False,False,MISS George 21' Pullup Jump Shot,,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.65,3,9,21,OKC,OKC,fg_miss,79,False,False,,MISS Bazley 9' Pullup Jump Shot,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.68,3,9,19,LAC,LAC,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:2),,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.77,3,9,14,LAC,OKC,steal,2,False,True,steal,steal,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.77,3,9,14,LAC,LAC,tov,2,False,True,George Lost Ball Turnover (P2.T8),,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.78,3,9,13,OKC,OKC,ft_miss,25,False,False,,MISS Robinson-Earl Free Throw Clear Path 1 of 2,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.78,3,9,13,OKC,LAC,foul,9,False,False,George C.P.FOUL (P1.T2) (J.Sterling),,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.78,3,9,13,OKC,OKC,ft_make,26,False,False,,Robinson-Earl Free Throw Clear Path 2 of 2 (3 PTS),47-52,47,52
+0022100102,2021-11-01,LAC,OKC,26.78,3,9,13,OKC,OKC,reb,1,False,False,,Thunder Rebound,47-51,47,51
+0022100102,2021-11-01,LAC,OKC,26.92,3,9,5,OKC,LAC,foul,2,False,False,Bledsoe S.FOUL (P3.T3) (S.Corbin),,47-52,47,52
+0022100102,2021-11-01,LAC,OKC,26.92,3,9,5,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (11 PTS),47-54,47,54
+0022100102,2021-11-01,LAC,OKC,26.92,3,9,5,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (10 PTS),47-53,47,53
+0022100102,2021-11-01,LAC,OKC,27.15,3,8,51,LAC,LAC,fg_make,1,False,False,George 20' Jump Shot (9 PTS),,49-54,49,54
+0022100102,2021-11-01,LAC,OKC,27.38,3,8,37,OKC,OKC,fg3_miss,1,False,False,,MISS Giddey 3PT Jump Shot,49-54,49,54
+0022100102,2021-11-01,LAC,OKC,27.43,3,8,34,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:2 Def:3),,49-54,49,54
+0022100102,2021-11-01,LAC,OKC,27.65,3,8,21,LAC,LAC,tov,2,False,True,Bledsoe Lost Ball Turnover (P3.T9),,49-54,49,54
+0022100102,2021-11-01,LAC,OKC,27.65,3,8,21,LAC,OKC,steal,2,False,True,steal,steal,49-54,49,54
+0022100102,2021-11-01,LAC,OKC,27.7,3,8,18,OKC,OKC,fg_make,41,False,False,,Gilgeous-Alexander 1' Running Layup (13 PTS),49-56,49,56
+0022100102,2021-11-01,LAC,OKC,28.03,3,7,58,OKC,LAC,ft_make,11,False,False,George Free Throw 1 of 2 (10 PTS),,50-56,50,56
+0022100102,2021-11-01,LAC,OKC,28.03,3,7,58,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),49-56,49,56
+0022100102,2021-11-01,LAC,OKC,28.03,3,7,58,LAC,OKC,foul,2,False,False,,Favors S.FOUL (P2.T1) (J.Sterling),49-56,49,56
+0022100102,2021-11-01,LAC,OKC,28.03,3,7,58,OKC,LAC,ft_make,12,False,False,George Free Throw 2 of 2 (11 PTS),,51-56,51,56
+0022100102,2021-11-01,LAC,OKC,28.37,3,7,38,OKC,OKC,fg_miss,101,False,False,,MISS Giddey 5' Driving Floating Jump Shot,51-56,51,56
+0022100102,2021-11-01,LAC,OKC,28.42,3,7,35,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:3 Def:2),,51-56,51,56
+0022100102,2021-11-01,LAC,OKC,28.48,3,7,31,LAC,LAC,fg3_make,1,False,False,George 27' 3PT Jump Shot (14 PTS) (Bledsoe 1 AST),,54-56,54,56
+0022100102,2021-11-01,LAC,OKC,28.87,3,7,8,OKC,OKC,ft_make,12,False,False,,Favors Free Throw 2 of 2 (9 PTS),54-58,54,58
+0022100102,2021-11-01,LAC,OKC,28.87,3,7,8,OKC,OKC,ft_make,11,False,False,,Favors Free Throw 1 of 2 (8 PTS),54-57,54,57
+0022100102,2021-11-01,LAC,OKC,28.87,3,7,8,OKC,LAC,foul,2,False,False,George S.FOUL (P2.T4) (J.Williams),,54-56,54,56
+0022100102,2021-11-01,LAC,OKC,29.2,3,6,48,LAC,LAC,fg3_miss,1,False,False,MISS George 28' 3PT Jump Shot,,54-58,54,58
+0022100102,2021-11-01,LAC,OKC,29.25,3,6,45,OKC,OKC,reb,0,False,False,,Robinson-Earl REBOUND (Off:3 Def:3),54-58,54,58
+0022100102,2021-11-01,LAC,OKC,29.45,3,6,33,OKC,OKC,fg3_make,80,False,False,,Gilgeous-Alexander 27' 3PT Step Back Jump Shot (16 PTS),54-61,54,61
+0022100102,2021-11-01,LAC,OKC,29.68,3,6,19,LAC,LAC,fg3_miss,1,False,False,MISS Batum 24' 3PT Jump Shot,,54-61,54,61
+0022100102,2021-11-01,LAC,OKC,29.73,3,6,16,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:3),54-61,54,61
+0022100102,2021-11-01,LAC,OKC,29.88,3,6,7,OKC,OKC,fg_miss,101,False,False,,MISS Gilgeous-Alexander 8' Driving Floating Jump Shot,54-61,54,61
+0022100102,2021-11-01,LAC,OKC,29.9,3,6,6,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:2 Def:4),,54-61,54,61
+0022100102,2021-11-01,LAC,OKC,30.0,3,6,0,LAC,LAC,fg3_miss,2,False,False,MISS George 3PT Running Jump Shot,,54-61,54,61
+0022100102,2021-11-01,LAC,OKC,30.03,3,5,58,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:0 Def:5),54-61,54,61
+0022100102,2021-11-01,LAC,OKC,30.17,3,5,50,OKC,OKC,ft_make,12,False,False,,Giddey Free Throw 2 of 2 (7 PTS),54-63,54,63
+0022100102,2021-11-01,LAC,OKC,30.17,3,5,50,OKC,LAC,foul,1,False,False,George P.FOUL (P3.PN) (J.Sterling),,54-61,54,61
+0022100102,2021-11-01,LAC,OKC,30.17,3,5,50,OKC,OKC,ft_make,11,False,False,,Giddey Free Throw 1 of 2 (6 PTS),54-62,54,62
+0022100102,2021-11-01,LAC,OKC,30.38,3,5,37,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,54-63,54,63
+0022100102,2021-11-01,LAC,OKC,30.38,3,5,37,LAC,OKC,foul,2,False,False,,Giddey S.FOUL (P3.T2) (S.Corbin),54-63,54,63
+0022100102,2021-11-01,LAC,OKC,30.38,3,5,37,LAC,LAC,ft_miss,11,False,False,MISS Mann Free Throw 1 of 2,,54-63,54,63
+0022100102,2021-11-01,LAC,OKC,30.38,3,5,37,LAC,LAC,ft_miss,12,False,False,MISS Mann Free Throw 2 of 2,,54-63,54,63
+0022100102,2021-11-01,LAC,OKC,30.42,3,5,35,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:6),54-63,54,63
+0022100102,2021-11-01,LAC,OKC,30.53,3,5,28,OKC,OKC,fg3_make,80,False,False,,Gilgeous-Alexander 27' 3PT Step Back Jump Shot (19 PTS),54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.0,3,5,0,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#10),,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.23,3,4,46,OKC,LAC,steal,2,False,True,steal,steal,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.23,3,4,46,OKC,OKC,tov,2,False,True,,Bazley Lost Ball Turnover (P5.T11),54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.28,3,4,43,LAC,LAC,fg_miss,6,True,False,MISS Mann 2' Driving Layup,,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.28,3,4,43,LAC,OKC,block,6,True,False,block,block,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.3,3,4,42,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.3,3,4,42,,LAC,jump_ball,0,False,False,Jump Ball Mann vs. Giddey: Tip to Kennard,,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.57,3,4,26,LAC,LAC,fg3_miss,1,False,False,MISS Jackson 28' 3PT Jump Shot,,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.67,3,4,20,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:0 Def:4),54-66,54,66
+0022100102,2021-11-01,LAC,OKC,31.97,3,4,2,OKC,OKC,fg3_miss,1,False,False,,MISS Giddey 30' 3PT Jump Shot,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,32.02,3,3,59,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:3),,54-66,54,66
+0022100102,2021-11-01,LAC,OKC,32.1,3,3,54,LAC,LAC,fg3_make,80,False,False,Kennard 26' 3PT Step Back Jump Shot (3 PTS) (George 5 AST),,57-66,57,66
+0022100102,2021-11-01,LAC,OKC,32.42,3,3,35,OKC,OKC,fg_miss,101,False,False,,MISS Giddey 7' Driving Floating Jump Shot,57-66,57,66
+0022100102,2021-11-01,LAC,OKC,32.45,3,3,33,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:4),,57-66,57,66
+0022100102,2021-11-01,LAC,OKC,32.58,3,3,25,LAC,LAC,fg3_make,1,False,False,Kennard 25' 3PT Jump Shot (6 PTS) (George 6 AST),,60-66,60,66
+0022100102,2021-11-01,LAC,OKC,32.88,3,3,7,OKC,OKC,fg_miss,102,False,False,,MISS Gilgeous-Alexander 4' Driving Floating Bank Jump Shot,60-66,60,66
+0022100102,2021-11-01,LAC,OKC,32.92,3,3,5,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:5),,60-66,60,66
+0022100102,2021-11-01,LAC,OKC,32.92,3,3,5,LAC,OKC,foul,1,False,False,,Gilgeous-Alexander P.FOUL (P1.T3) (S.Corbin),60-66,60,66
+0022100102,2021-11-01,LAC,OKC,33.12,3,2,53,LAC,LAC,fg3_make,1,False,False,George 27' 3PT Jump Shot (17 PTS) (Jackson 2 AST),,63-66,63,66
+0022100102,2021-11-01,LAC,OKC,33.45,3,2,33,OKC,OKC,fg3_make,1,False,False,,Bazley 25' 3PT Jump Shot (14 PTS) (Muscala 2 AST),63-69,63,69
+0022100102,2021-11-01,LAC,OKC,33.83,3,2,10,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,33.87,3,2,8,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,33.87,3,2,8,LAC,OKC,block,9,True,False,block,block,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,33.87,3,2,8,LAC,LAC,fg_miss,9,True,False,MISS George 7' Driving Dunk,,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,33.87,3,2,8,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#11),,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,34.2,3,1,48,OKC,OKC,tov,4,False,False,,Bazley Traveling Turnover (P6.T12),63-69,63,69
+0022100102,2021-11-01,LAC,OKC,34.48,3,1,31,LAC,LAC,fg_miss,80,False,False,MISS Jackson 19' Step Back Jump Shot,,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,34.53,3,1,28,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:1 Def:3),63-69,63,69
+0022100102,2021-11-01,LAC,OKC,34.65,3,1,21,OKC,OKC,fg3_miss,1,False,False,,MISS Maledon 26' 3PT Jump Shot,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,34.73,3,1,16,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:6),,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,34.85,3,1,9,LAC,LAC,fg3_miss,1,False,False,MISS Mann 26' 3PT Jump Shot,,63-69,63,69
+0022100102,2021-11-01,LAC,OKC,34.88,3,1,7,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:1 Def:4),63-69,63,69
+0022100102,2021-11-01,LAC,OKC,35.0,3,1,0,OKC,OKC,fg3_make,80,False,False,,Gilgeous-Alexander 26' 3PT Step Back Jump Shot (22 PTS),63-72,63,72
+0022100102,2021-11-01,LAC,OKC,35.22,3,0,47,LAC,OKC,foul,1,False,False,,Maledon P.FOUL (P2.T4) (J.Williams),63-72,63,72
+0022100102,2021-11-01,LAC,OKC,35.23,3,0,46,LAC,OKC,steal,1,False,True,steal,steal,63-72,63,72
+0022100102,2021-11-01,LAC,OKC,35.23,3,0,46,LAC,LAC,tov,1,False,True,Bledsoe Bad Pass Turnover (P4.T12),,63-72,63,72
+0022100102,2021-11-01,LAC,OKC,35.45,3,0,33,OKC,OKC,fg_make,80,False,False,,Gilgeous-Alexander 17' Step Back Jump Shot (24 PTS),63-74,63,74
+0022100102,2021-11-01,LAC,OKC,35.75,3,0,15,LAC,LAC,fg3_make,79,False,False,Batum 26' 3PT Pullup Jump Shot (11 PTS) (Bledsoe 2 AST),,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.0,3,0,0,LAC,,period_end,0,False,False,,,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.0,4,12,0,LAC,,period_start,0,False,False,,,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.3,4,11,42,OKC,OKC,fg_miss,101,False,False,,MISS Pokusevski 8' Driving Floating Jump Shot,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.33,4,11,40,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:7),,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.67,4,11,20,LAC,LAC,fg_miss,6,True,False,MISS Mann 7' Driving Layup,,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.67,4,11,20,LAC,OKC,block,6,True,False,block,block,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.72,4,11,17,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:3 Def:7),,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.73,4,11,16,LAC,OKC,foul,3,False,False,,Muscala L.B.FOUL (P1.T1) (J.Williams),66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.73,4,11,16,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.73,4,11,16,LAC,LAC,fg3_miss,1,False,False,MISS Batum 24' 3PT Jump Shot,,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.87,4,11,8,LAC,LAC,fg3_miss,1,False,False,MISS Kennard 27' 3PT Jump Shot,,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,36.95,4,11,3,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:1 Def:5),66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.17,4,10,50,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 25' 3PT Jump Shot,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.23,4,10,46,LAC,LAC,reb,0,False,False,Kennard REBOUND (Off:0 Def:4),,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.45,4,10,33,LAC,LAC,fg_miss,6,False,False,MISS Mann 4' Driving Layup,,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.5,4,10,30,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:4),66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.6,4,10,24,OKC,OKC,fg3_miss,1,False,False,,MISS Pokusevski 26' 3PT Jump Shot,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.68,4,10,19,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:2 Def:2),66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.72,4,10,17,OKC,OKC,tov,1,False,True,,Williams Bad Pass Turnover (P1.T13),66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.72,4,10,17,OKC,LAC,steal,1,False,True,steal,steal,66-74,66,74
+0022100102,2021-11-01,LAC,OKC,37.77,4,10,14,LAC,LAC,fg3_make,103,False,False,Kennard 27' 3PT Running Pull-Up Jump Shot (9 PTS) (Bledsoe 3 AST),,69-74,69,74
+0022100102,2021-11-01,LAC,OKC,38.07,4,9,56,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 29' 3PT Jump Shot,69-74,69,74
+0022100102,2021-11-01,LAC,OKC,38.13,4,9,52,LAC,LAC,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:3),,69-74,69,74
+0022100102,2021-11-01,LAC,OKC,38.22,4,9,47,LAC,LAC,fg3_make,2,False,False,Batum 3PT Running Jump Shot (14 PTS) (Hartenstein 2 AST),,72-74,72,74
+0022100102,2021-11-01,LAC,OKC,38.23,4,9,46,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),72-74,72,74
+0022100102,2021-11-01,LAC,OKC,38.38,4,9,37,OKC,OKC,fg_make,79,False,False,,Giddey 15' Pullup Jump Shot (9 PTS),72-76,72,76
+0022100102,2021-11-01,LAC,OKC,38.8,4,9,12,LAC,LAC,fg_miss,6,False,False,MISS Kennard 7' Driving Layup,,72-76,72,76
+0022100102,2021-11-01,LAC,OKC,38.8,4,9,12,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:4 Def:7),,72-76,72,76
+0022100102,2021-11-01,LAC,OKC,38.8,4,9,12,LAC,OKC,foul,1,False,False,,Gilgeous-Alexander P.FOUL (P2.T2) (S.Corbin),72-76,72,76
+0022100102,2021-11-01,LAC,OKC,38.9,4,9,6,LAC,LAC,fg_make,6,False,False,George 3' Driving Layup (19 PTS),,74-76,74,76
+0022100102,2021-11-01,LAC,OKC,39.05,4,8,57,OKC,LAC,violation,5,False,False,Hartenstein Violation:Kicked Ball (J.Williams),,74-76,74,76
+0022100102,2021-11-01,LAC,OKC,39.18,4,8,49,OKC,OKC,fg3_make,1,False,False,,Muscala 27' 3PT Jump Shot (8 PTS) (Giddey 5 AST),74-79,74,79
+0022100102,2021-11-01,LAC,OKC,39.33,4,8,40,LAC,OKC,foul,1,False,False,,Muscala P.FOUL (P2.T3) (J.Williams),74-79,74,79
+0022100102,2021-11-01,LAC,OKC,39.5,4,8,30,LAC,LAC,fg3_miss,1,False,False,MISS Mann 3PT Jump Shot,,74-79,74,79
+0022100102,2021-11-01,LAC,OKC,39.57,4,8,26,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:5),74-79,74,79
+0022100102,2021-11-01,LAC,OKC,39.87,4,8,8,OKC,OKC,fg_miss,101,False,False,,MISS Gilgeous-Alexander 5' Driving Floating Jump Shot,74-79,74,79
+0022100102,2021-11-01,LAC,OKC,39.9,4,8,6,LAC,LAC,reb,0,False,False,Hartenstein REBOUND (Off:4 Def:8),,74-79,74,79
+0022100102,2021-11-01,LAC,OKC,40.05,4,7,57,LAC,LAC,fg3_make,79,False,False,George 26' 3PT Pullup Jump Shot (22 PTS),,77-79,77,79
+0022100102,2021-11-01,LAC,OKC,40.47,4,7,32,OKC,OKC,fg_make,93,False,False,,Maledon 6' Driving Bank Hook Shot (5 PTS) (Muscala 3 AST),77-81,77,81
+0022100102,2021-11-01,LAC,OKC,40.77,4,7,14,LAC,LAC,tov,2,False,True,George Lost Ball Turnover (P3.T13),,77-81,77,81
+0022100102,2021-11-01,LAC,OKC,40.77,4,7,14,LAC,OKC,steal,2,False,True,steal,steal,77-81,77,81
+0022100102,2021-11-01,LAC,OKC,40.83,4,7,10,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 4 Short 0),,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,40.83,4,7,10,OKC,OKC,fg_make,74,False,False,,Maledon 1' Running Reverse Layup (7 PTS) (Giddey 6 AST),77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.2,4,6,48,LAC,OKC,steal,1,False,True,steal,steal,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.2,4,6,48,LAC,LAC,tov,1,False,True,George Bad Pass Turnover (P4.T14),,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.28,4,6,43,OKC,OKC,reb,0,False,False,,Thunder Rebound,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.28,4,6,43,OKC,OKC,fg_miss,2,True,False,,MISS Giddey 3' Running Jump Shot,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.28,4,6,43,OKC,LAC,block,2,True,False,block,block,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.33,4,6,40,OKC,LAC,block,98,True,False,block,block,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.33,4,6,40,OKC,OKC,fg_miss,98,True,False,,MISS Muscala 3' Cutting Layup Shot,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.42,4,6,35,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:2 Def:5),,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.45,4,6,33,LAC,LAC,fg_miss,41,False,False,MISS Kennard 3' Running Layup,,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.45,4,6,33,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:3 Def:2),,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.5,4,6,30,LAC,LAC,fg_miss,97,False,False,MISS Mann Tip Layup Shot,,77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.52,4,6,29,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:4),77-83,77,83
+0022100102,2021-11-01,LAC,OKC,41.78,4,6,13,OKC,OKC,fg_make,79,False,False,,Giddey 17' Pullup Jump Shot (11 PTS),77-85,77,85
+0022100102,2021-11-01,LAC,OKC,42.13,4,5,52,LAC,LAC,fg_miss,101,False,False,MISS Jackson 5' Driving Floating Jump Shot,,77-85,77,85
+0022100102,2021-11-01,LAC,OKC,42.17,4,5,50,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:6),77-85,77,85
+0022100102,2021-11-01,LAC,OKC,42.4,4,5,36,OKC,OKC,tov,4,False,False,,Maledon Traveling Turnover (P3.T14),77-85,77,85
+0022100102,2021-11-01,LAC,OKC,42.77,4,5,14,LAC,LAC,fg_make,80,False,False,Jackson 18' Step Back Jump Shot (10 PTS),,79-85,79,85
+0022100102,2021-11-01,LAC,OKC,43.12,4,4,53,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),79-85,79,85
+0022100102,2021-11-01,LAC,OKC,43.25,4,4,45,OKC,OKC,fg_make,86,False,False,,Gilgeous-Alexander 14' Turnaround Fadeaway (26 PTS),79-87,79,87
+0022100102,2021-11-01,LAC,OKC,43.55,4,4,27,LAC,LAC,fg_make,63,False,False,George 12' Fadeaway Jumper (24 PTS) (Mann 1 AST),,81-87,81,87
+0022100102,2021-11-01,LAC,OKC,43.85,4,4,9,OKC,OKC,fg_make,6,False,False,,Giddey 2' Driving Layup (13 PTS),81-89,81,89
+0022100102,2021-11-01,LAC,OKC,44.03,4,3,58,LAC,OKC,foul,1,False,False,,Gilgeous-Alexander P.FOUL (P3.T4) (J.Williams),81-89,81,89
+0022100102,2021-11-01,LAC,OKC,44.22,4,3,47,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,81-89,81,89
+0022100102,2021-11-01,LAC,OKC,44.22,4,3,47,LAC,LAC,ft_make,12,False,False,Jackson Free Throw 2 of 2 (11 PTS),,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.22,4,3,47,LAC,OKC,foul,2,False,False,,Giddey S.FOUL (P4.PN) (J.Sterling),81-89,81,89
+0022100102,2021-11-01,LAC,OKC,44.22,4,3,47,LAC,LAC,ft_miss,11,False,False,MISS Jackson Free Throw 1 of 2,,81-89,81,89
+0022100102,2021-11-01,LAC,OKC,44.62,4,3,23,OKC,OKC,fg_miss,73,False,False,,MISS Maledon 3' Driving Reverse Layup,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.65,4,3,21,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:2 Def:6),,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.82,4,3,11,LAC,LAC,fg_miss,6,True,False,MISS George 3' Driving Layup,,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.82,4,3,11,LAC,OKC,block,6,True,False,block,block,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.87,4,3,8,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:2 Def:5),82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.88,4,3,7,OKC,OKC,tov,40,False,False,,Gilgeous-Alexander Out of Bounds Lost Ball Turnover (P2.T15),82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.88,4,3,7,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 5 Short 0),,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.98,4,3,1,LAC,OKC,block,6,True,False,block,block,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,44.98,4,3,1,LAC,LAC,fg_miss,6,True,False,MISS Jackson 4' Driving Layup,,82-89,82,89
+0022100102,2021-11-01,LAC,OKC,45.05,4,2,57,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:0 Def:7),82-89,82,89
+0022100102,2021-11-01,LAC,OKC,45.27,4,2,44,OKC,OKC,fg_make,47,False,False,,Giddey 12' Turnaround Jump Shot (15 PTS),82-91,82,91
+0022100102,2021-11-01,LAC,OKC,45.42,4,2,35,LAC,LAC,fg3_make,1,False,False,George 26' 3PT Jump Shot (27 PTS),,85-91,85,91
+0022100102,2021-11-01,LAC,OKC,45.73,4,2,16,OKC,OKC,fg_miss,1,False,False,,MISS Giddey 20' Jump Shot,85-91,85,91
+0022100102,2021-11-01,LAC,OKC,45.77,4,2,14,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:8),,85-91,85,91
+0022100102,2021-11-01,LAC,OKC,45.85,4,2,9,LAC,LAC,fg3_make,80,False,False,George 25' 3PT Step Back Jump Shot (30 PTS),,88-91,88,91
+0022100102,2021-11-01,LAC,OKC,46.08,4,1,55,OKC,OKC,fg_miss,57,False,False,,MISS Gilgeous-Alexander 4' Driving Hook Shot,88-91,88,91
+0022100102,2021-11-01,LAC,OKC,46.1,4,1,54,OKC,OKC,reb,0,False,False,,Thunder Rebound,88-91,88,91
+0022100102,2021-11-01,LAC,OKC,46.15,4,1,51,OKC,OKC,fg_miss,98,False,False,,MISS Muscala 4' Cutting Layup Shot,88-91,88,91
+0022100102,2021-11-01,LAC,OKC,46.2,4,1,48,LAC,LAC,reb,0,False,False,Jackson REBOUND (Off:0 Def:3),,88-91,88,91
+0022100102,2021-11-01,LAC,OKC,46.35,4,1,39,LAC,LAC,fg3_make,1,False,False,Kennard 26' 3PT Jump Shot (12 PTS) (George 7 AST),,91-91,91,91
+0022100102,2021-11-01,LAC,OKC,46.7,4,1,18,OKC,OKC,ft_make,12,False,False,,Bazley Free Throw 2 of 2 (15 PTS),91-92,91,92
+0022100102,2021-11-01,LAC,OKC,46.7,4,1,18,OKC,OKC,reb,1,False,False,,Thunder Rebound,91-91,91,91
+0022100102,2021-11-01,LAC,OKC,46.7,4,1,18,OKC,OKC,ft_miss,11,False,False,,MISS Bazley Free Throw 1 of 2,91-91,91,91
+0022100102,2021-11-01,LAC,OKC,46.7,4,1,18,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 6 Short 0),,91-91,91,91
+0022100102,2021-11-01,LAC,OKC,46.7,4,1,18,OKC,LAC,foul,2,False,False,Mann S.FOUL (P3.T1) (J.Sterling),,91-91,91,91
+0022100102,2021-11-01,LAC,OKC,46.87,4,1,8,LAC,LAC,fg_make,1,False,False,George 10' Jump Shot (32 PTS) (Kennard 2 AST),,93-92,93,92
+0022100102,2021-11-01,LAC,OKC,47.0,4,1,0,OKC,LAC,steal,2,False,True,steal,steal,93-92,93,92
+0022100102,2021-11-01,LAC,OKC,47.0,4,1,0,OKC,OKC,tov,2,False,True,,Bazley Lost Ball Turnover (P7.T16),93-92,93,92
+0022100102,2021-11-01,LAC,OKC,47.4,4,0,36,LAC,LAC,fg_make,101,False,False,Jackson 6' Driving Floating Jump Shot (13 PTS),,95-92,95,92
+0022100102,2021-11-01,LAC,OKC,47.4,4,0,36,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),95-92,95,92
+0022100102,2021-11-01,LAC,OKC,47.5,4,0,30,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 26' 3PT Jump Shot,95-92,95,92
+0022100102,2021-11-01,LAC,OKC,47.55,4,0,27,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:9),,95-92,95,92
+0022100102,2021-11-01,LAC,OKC,47.73,4,0,16,LAC,OKC,violation,5,False,False,,Gilgeous-Alexander Violation:Kicked Ball (S.Corbin),95-92,95,92
+0022100102,2021-11-01,LAC,OKC,47.8,4,0,12,LAC,OKC,foul,28,False,False,,Williams Personal Take Foul (P2.PN) (S.Corbin),95-92,95,92
+0022100102,2021-11-01,LAC,OKC,47.8,4,0,12,LAC,LAC,ft_make,11,False,False,Kennard Free Throw 1 of 2 (13 PTS),,96-92,96,92
+0022100102,2021-11-01,LAC,OKC,47.8,4,0,12,LAC,LAC,ft_make,12,False,False,Kennard Free Throw 2 of 2 (14 PTS),,97-92,97,92
+0022100102,2021-11-01,LAC,OKC,47.93,4,0,4,OKC,OKC,fg_make,80,False,False,,Gilgeous-Alexander 12' Step Back Jump Shot (28 PTS) (Giddey 7 AST),97-94,97,94
+0022100102,2021-11-01,LAC,OKC,47.93,4,0,4,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 7 Short 0),,97-94,97,94
+0022100102,2021-11-01,LAC,OKC,47.97,4,0,2,LAC,OKC,foul,28,False,False,,Gilgeous-Alexander Personal Take Foul (P4.PN) (S.Corbin),97-94,97,94
+0022100102,2021-11-01,LAC,OKC,47.97,4,0,2,LAC,LAC,ft_make,11,False,False,Jackson Free Throw 1 of 2 (14 PTS),,98-94,98,94
+0022100102,2021-11-01,LAC,OKC,47.97,4,0,2,LAC,LAC,ft_make,12,False,False,Jackson Free Throw 2 of 2 (15 PTS),,99-94,99,94
+0022100102,2021-11-01,LAC,OKC,47.97,4,0,2,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.7 Short 0),99-94,99,94
+0022100102,2021-11-01,LAC,OKC,47.97,4,0,2,OKC,OKC,fg3_miss,1,False,False,,MISS Maledon 3PT Jump Shot,99-94,99,94
+0022100102,2021-11-01,LAC,OKC,48.0,4,0,0,OKC,,period_end,0,False,False,,,99-94,99,94
+0022100102,2021-11-01,LAC,OKC,48.0,4,0,0,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:2 Def:5),99-94,99,94

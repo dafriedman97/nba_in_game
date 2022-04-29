@@ -1,0 +1,500 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100674,2022-01-19,MIL,MEM,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100674,2022-01-19,MIL,MEM,0.0,1,12,0,,MIL,jump_ball,0,False,False,Jump Ball Portis vs. Adams: Tip to Morant,,0-0,0,0
+0022100674,2022-01-19,MIL,MEM,0.43,1,11,34,MEM,MEM,fg3_miss,1,False,False,,MISS Williams 24' 3PT Jump Shot,0-0,0,0
+0022100674,2022-01-19,MIL,MEM,0.43,1,11,34,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,0-0,0,0
+0022100674,2022-01-19,MIL,MEM,0.45,1,11,33,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#1),0-0,0,0
+0022100674,2022-01-19,MIL,MEM,0.65,1,11,21,MIL,MIL,fg_make,98,False,False,Hill 2' Cutting Layup Shot (2 PTS) (G. Antetokounmpo 1 AST),,2-0,2,0
+0022100674,2022-01-19,MIL,MEM,0.73,1,11,16,MEM,MEM,fg_make,98,False,False,,Williams 4' Cutting Layup Shot (2 PTS) (Morant 1 AST),2-2,2,2
+0022100674,2022-01-19,MIL,MEM,0.73,1,11,16,MEM,MIL,foul,2,False,False,Allen S.FOUL (P1.T1) (B.Nansel),,2-2,2,2
+0022100674,2022-01-19,MIL,MEM,0.73,1,11,16,MEM,MEM,ft_make,10,False,False,,Williams Free Throw 1 of 1 (3 PTS),2-3,2,3
+0022100674,2022-01-19,MIL,MEM,1.0,1,11,0,MIL,MIL,fg3_miss,1,False,False,MISS Portis 27' 3PT Jump Shot,,2-3,2,3
+0022100674,2022-01-19,MIL,MEM,1.05,1,10,57,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:1),2-3,2,3
+0022100674,2022-01-19,MIL,MEM,1.23,1,10,46,MEM,MEM,fg3_make,1,False,False,,Morant 28' 3PT Jump Shot (3 PTS) (Konchar 1 AST),2-6,2,6
+0022100674,2022-01-19,MIL,MEM,1.5,1,10,30,MIL,MEM,block,98,True,False,block,block,2-6,2,6
+0022100674,2022-01-19,MIL,MEM,1.5,1,10,30,MIL,MIL,fg_miss,98,True,False,MISS G. Antetokounmpo 4' Cutting Layup Shot,,2-6,2,6
+0022100674,2022-01-19,MIL,MEM,1.55,1,10,27,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:0 Def:1),2-6,2,6
+0022100674,2022-01-19,MIL,MEM,1.57,1,10,26,MEM,MEM,fg_make,106,False,False,,Williams 5' Running Alley Oop Dunk Shot (5 PTS) (Morant 2 AST),2-8,2,8
+0022100674,2022-01-19,MIL,MEM,1.88,1,10,7,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 27' 3PT Jump Shot,,2-8,2,8
+0022100674,2022-01-19,MIL,MEM,1.93,1,10,4,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:0 Def:2),2-8,2,8
+0022100674,2022-01-19,MIL,MEM,2.02,1,9,59,MEM,MEM,fg3_miss,1,False,False,,MISS Konchar 27' 3PT Jump Shot,2-8,2,8
+0022100674,2022-01-19,MIL,MEM,2.08,1,9,55,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:0 Def:1),,2-8,2,8
+0022100674,2022-01-19,MIL,MEM,2.2,1,9,48,MIL,MIL,tov,45,False,False,G. Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,2-8,2,8
+0022100674,2022-01-19,MIL,MEM,2.35,1,9,39,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 25' 3PT Jump Shot,2-8,2,8
+0022100674,2022-01-19,MIL,MEM,2.43,1,9,34,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:1 Def:2),2-8,2,8
+0022100674,2022-01-19,MIL,MEM,2.43,1,9,34,MEM,MEM,fg_make,97,False,False,,Konchar Tip Layup Shot (2 PTS),2-10,2,10
+0022100674,2022-01-19,MIL,MEM,2.77,1,9,14,MIL,MIL,fg_miss,79,False,False,MISS G. Antetokounmpo 16' Pullup Jump Shot,,2-10,2,10
+0022100674,2022-01-19,MIL,MEM,2.83,1,9,10,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:0 Def:1),2-10,2,10
+0022100674,2022-01-19,MIL,MEM,2.9,1,9,6,MEM,MEM,tov,1,False,True,,Adams Bad Pass Turnover (P1.T2),2-10,2,10
+0022100674,2022-01-19,MIL,MEM,2.9,1,9,6,MEM,MIL,steal,1,False,True,steal,steal,2-10,2,10
+0022100674,2022-01-19,MIL,MEM,2.98,1,9,1,MIL,MIL,fg_make,50,False,False,Allen 1' Running Dunk (2 PTS) (Portis 1 AST),,4-10,4,10
+0022100674,2022-01-19,MIL,MEM,3.1,1,8,54,MEM,MEM,fg_miss,102,False,False,,MISS Konchar 12' Driving Floating Bank Jump Shot,4-10,4,10
+0022100674,2022-01-19,MIL,MEM,3.13,1,8,52,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:0 Def:1),,4-10,4,10
+0022100674,2022-01-19,MIL,MEM,3.2,1,8,48,MIL,MIL,ft_make,12,False,False,G. Antetokounmpo Free Throw 2 of 2 (2 PTS),,6-10,6,10
+0022100674,2022-01-19,MIL,MEM,3.2,1,8,48,MIL,MEM,foul,2,False,False,,Adams S.FOUL (P1.T1) (B.Nansel),4-10,4,10
+0022100674,2022-01-19,MIL,MEM,3.2,1,8,48,MIL,MIL,ft_make,11,False,False,G. Antetokounmpo Free Throw 1 of 2 (1 PTS),,5-10,5,10
+0022100674,2022-01-19,MIL,MEM,3.5,1,8,30,MEM,MEM,fg_miss,102,False,False,,MISS Morant 12' Driving Floating Bank Jump Shot,6-10,6,10
+0022100674,2022-01-19,MIL,MEM,3.53,1,8,28,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:0 Def:2),,6-10,6,10
+0022100674,2022-01-19,MIL,MEM,3.72,1,8,17,MIL,MIL,fg_make,96,False,False,Portis 10' Turnaround Bank Hook Shot (2 PTS),,8-10,8,10
+0022100674,2022-01-19,MIL,MEM,3.98,1,8,1,MEM,MEM,fg3_miss,1,False,False,,MISS Morant 27' 3PT Jump Shot,8-10,8,10
+0022100674,2022-01-19,MIL,MEM,4.03,1,7,58,MIL,MIL,reb,0,False,False,BUCKS Rebound,,8-10,8,10
+0022100674,2022-01-19,MIL,MEM,4.32,1,7,41,MIL,MIL,fg3_make,1,False,False,Portis 3PT Jump Shot (5 PTS) (G. Antetokounmpo 2 AST),,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.32,1,7,41,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.1 Short 0),11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.5,1,7,30,MEM,MIL,foul,2,False,False,Middleton S.FOUL (P1.T2) (B.Forte),,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.5,1,7,30,MEM,MEM,ft_miss,11,False,False,,MISS Adams Free Throw 1 of 2,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.5,1,7,30,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.5,1,7,30,MEM,MEM,ft_miss,12,False,False,,MISS Adams Free Throw 2 of 2,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.53,1,7,28,MIL,MIL,reb,0,False,False,BUCKS Rebound,,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.82,1,7,11,MIL,MIL,fg_miss,5,True,False,MISS G. Antetokounmpo 4' Layup,,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.82,1,7,11,MIL,MEM,block,5,True,False,block,block,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.88,1,7,7,MIL,MIL,tov,39,False,False,Portis Step Out of Bounds Turnover (P1.T2),,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,4.88,1,7,7,MIL,MIL,reb,0,False,False,BUCKS Rebound,,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,5.15,1,6,51,MEM,MEM,fg_miss,78,False,False,,MISS Jackson Jr. 11' Floating Jump Shot,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,5.2,1,6,48,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:0 Def:2),,11-10,11,10
+0022100674,2022-01-19,MIL,MEM,5.4,1,6,36,MIL,MIL,fg3_make,1,False,False,G. Antetokounmpo 28' 3PT Jump Shot (5 PTS) (Middleton 1 AST),,14-10,14,10
+0022100674,2022-01-19,MIL,MEM,5.57,1,6,26,MEM,MEM,fg3_make,80,False,False,,Morant 27' 3PT Step Back Jump Shot (6 PTS),14-13,14,13
+0022100674,2022-01-19,MIL,MEM,5.75,1,6,15,MIL,MIL,ft_make,10,False,False,G. Antetokounmpo Free Throw 1 of 1 (8 PTS),,17-13,17,13
+0022100674,2022-01-19,MIL,MEM,5.75,1,6,15,MIL,MIL,fg_make,6,False,False,G. Antetokounmpo 2' Driving Layup (7 PTS),,16-13,16,13
+0022100674,2022-01-19,MIL,MEM,5.75,1,6,15,MIL,MEM,foul,2,False,False,,Jackson Jr. S.FOUL (P1.T2) (B.Forte),16-13,16,13
+0022100674,2022-01-19,MIL,MEM,5.92,1,6,5,MEM,MEM,fg_miss,58,False,False,,MISS Jackson Jr. 9' Turnaround Hook Shot,17-13,17,13
+0022100674,2022-01-19,MIL,MEM,5.95,1,6,3,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:1 Def:0),17-13,17,13
+0022100674,2022-01-19,MIL,MEM,6.0,1,6,0,MEM,MEM,fg_make,108,False,False,,Williams 1' Cutting Dunk Shot (7 PTS) (Adams 1 AST),17-15,17,15
+0022100674,2022-01-19,MIL,MEM,6.28,1,5,43,MIL,MIL,tov,2,False,True,G. Antetokounmpo Lost Ball Turnover (P2.T3),,17-15,17,15
+0022100674,2022-01-19,MIL,MEM,6.28,1,5,43,MIL,MEM,steal,2,False,True,steal,steal,17-15,17,15
+0022100674,2022-01-19,MIL,MEM,6.28,1,5,43,,MIL,jump_ball,0,False,False,Jump Ball G. Antetokounmpo vs. Adams: Tip to Melton,,17-15,17,15
+0022100674,2022-01-19,MIL,MEM,6.37,1,5,38,MEM,MEM,fg3_miss,79,False,False,,MISS Melton 27' 3PT Pullup Jump Shot,17-15,17,15
+0022100674,2022-01-19,MIL,MEM,6.47,1,5,32,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:0 Def:3),,17-15,17,15
+0022100674,2022-01-19,MIL,MEM,6.67,1,5,20,MIL,MIL,fg3_make,1,False,False,G. Antetokounmpo 28' 3PT Jump Shot (11 PTS) (Hill 1 AST),,20-15,20,15
+0022100674,2022-01-19,MIL,MEM,6.93,1,5,4,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (8 PTS),20-17,20,17
+0022100674,2022-01-19,MIL,MEM,6.93,1,5,4,MEM,MEM,ft_make,11,False,False,,Morant Free Throw 1 of 2 (7 PTS),20-16,20,16
+0022100674,2022-01-19,MIL,MEM,6.93,1,5,4,MEM,MIL,foul,2,False,False,Hill S.FOUL (P1.T3) (J.Capers),,20-15,20,15
+0022100674,2022-01-19,MIL,MEM,7.27,1,4,44,MIL,MIL,fg_miss,5,True,False,MISS Portis 13' Layup,,20-17,20,17
+0022100674,2022-01-19,MIL,MEM,7.27,1,4,44,MIL,MEM,block,5,True,False,block,block,20-17,20,17
+0022100674,2022-01-19,MIL,MEM,7.33,1,4,40,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:0 Def:1),20-17,20,17
+0022100674,2022-01-19,MIL,MEM,7.37,1,4,38,MEM,MEM,fg_make,41,False,False,,Melton 2' Running Layup (2 PTS) (Clarke 1 AST),20-19,20,19
+0022100674,2022-01-19,MIL,MEM,7.55,1,4,27,MIL,MIL,fg_miss,98,False,False,MISS Holiday 2' Cutting Layup Shot,,20-19,20,19
+0022100674,2022-01-19,MIL,MEM,7.63,1,4,22,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:1 Def:2),,20-19,20,19
+0022100674,2022-01-19,MIL,MEM,7.63,1,4,22,MIL,MIL,fg_make,97,False,False,Portis Tip Layup Shot (7 PTS),,22-19,22,19
+0022100674,2022-01-19,MIL,MEM,7.68,1,4,19,MEM,MEM,fg3_miss,1,False,False,,MISS Melton 27' 3PT Jump Shot,22-19,22,19
+0022100674,2022-01-19,MIL,MEM,7.8,1,4,12,MEM,MEM,fg_make,107,False,False,,Aldama Tip Dunk Shot (2 PTS),22-21,22,21
+0022100674,2022-01-19,MIL,MEM,7.8,1,4,12,MEM,MEM,reb,0,False,False,,Aldama REBOUND (Off:1 Def:0),22-21,22,21
+0022100674,2022-01-19,MIL,MEM,7.9,1,4,6,MIL,MIL,fg3_miss,1,False,False,MISS Portis 24' 3PT Jump Shot,,22-21,22,21
+0022100674,2022-01-19,MIL,MEM,7.97,1,4,2,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:2),22-21,22,21
+0022100674,2022-01-19,MIL,MEM,8.08,1,3,55,MEM,MEM,fg3_miss,1,False,False,,MISS Clarke 24' 3PT Jump Shot,22-21,22,21
+0022100674,2022-01-19,MIL,MEM,8.12,1,3,53,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,22-21,22,21
+0022100674,2022-01-19,MIL,MEM,8.18,1,3,49,MIL,MIL,tov,2,False,True,Holiday Lost Ball Turnover (P1.T4),,22-21,22,21
+0022100674,2022-01-19,MIL,MEM,8.18,1,3,49,MIL,MEM,steal,2,False,True,steal,steal,22-21,22,21
+0022100674,2022-01-19,MIL,MEM,8.27,1,3,44,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,22-23,22,23
+0022100674,2022-01-19,MIL,MEM,8.27,1,3,44,MEM,MEM,fg_make,41,False,False,,Aldama 3' Running Layup (4 PTS),22-23,22,23
+0022100674,2022-01-19,MIL,MEM,8.62,1,3,23,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 27' 3PT Jump Shot,,22-23,22,23
+0022100674,2022-01-19,MIL,MEM,8.75,1,3,15,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:2 Def:2),,22-23,22,23
+0022100674,2022-01-19,MIL,MEM,8.75,1,3,15,MIL,MIL,fg_make,72,False,False,Portis Putback Layup (9 PTS),,24-23,24,23
+0022100674,2022-01-19,MIL,MEM,8.87,1,3,8,MEM,MEM,fg_make,78,False,False,,Clarke 6' Floating Jump Shot (2 PTS) (Culver 1 AST),24-25,24,25
+0022100674,2022-01-19,MIL,MEM,9.05,1,2,57,MIL,MIL,tov,2,False,True,Holiday Lost Ball Turnover (P2.T5),,24-25,24,25
+0022100674,2022-01-19,MIL,MEM,9.05,1,2,57,MIL,MEM,steal,2,False,True,steal,steal,24-25,24,25
+0022100674,2022-01-19,MIL,MEM,9.15,1,2,51,MEM,MEM,fg3_make,2,False,False,,Morant 26' 3PT Running Jump Shot (11 PTS) (Culver 2 AST),24-28,24,28
+0022100674,2022-01-19,MIL,MEM,9.55,1,2,27,MIL,MIL,fg3_make,1,False,False,Connaughton 3PT Jump Shot (3 PTS) (Middleton 2 AST),,27-28,27,28
+0022100674,2022-01-19,MIL,MEM,9.93,1,2,4,MEM,MEM,fg_make,101,False,False,,Clarke 10' Driving Floating Jump Shot (4 PTS) (Morant 3 AST),27-30,27,30
+0022100674,2022-01-19,MIL,MEM,10.18,1,1,49,MIL,MEM,block,101,True,False,block,block,27-30,27,30
+0022100674,2022-01-19,MIL,MEM,10.18,1,1,49,MIL,MIL,fg_miss,101,True,False,MISS Holiday 9' Driving Floating Jump Shot,,27-30,27,30
+0022100674,2022-01-19,MIL,MEM,10.18,1,1,49,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,27-30,27,30
+0022100674,2022-01-19,MIL,MEM,10.4,1,1,36,MEM,MEM,fg3_miss,1,False,False,,MISS Melton 26' 3PT Jump Shot,27-30,27,30
+0022100674,2022-01-19,MIL,MEM,10.5,1,1,30,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:0 Def:4),,27-30,27,30
+0022100674,2022-01-19,MIL,MEM,10.55,1,1,27,MIL,MIL,fg3_make,1,False,False,Holiday 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 3 AST),,30-30,30,30
+0022100674,2022-01-19,MIL,MEM,10.77,1,1,14,MEM,MEM,fg3_miss,79,False,False,,MISS Morant 26' 3PT Pullup Jump Shot,30-30,30,30
+0022100674,2022-01-19,MIL,MEM,10.82,1,1,11,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:0 Def:5),,30-30,30,30
+0022100674,2022-01-19,MIL,MEM,10.95,1,1,3,MIL,MIL,fg_make,6,False,False,G. Antetokounmpo 5' Driving Layup (13 PTS),,32-30,32,30
+0022100674,2022-01-19,MIL,MEM,11.17,1,0,50,MEM,MEM,fg3_miss,79,False,False,,MISS Aldama 28' 3PT Pullup Jump Shot,32-30,32,30
+0022100674,2022-01-19,MIL,MEM,11.22,1,0,47,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:1),,32-30,32,30
+0022100674,2022-01-19,MIL,MEM,11.32,1,0,41,MIL,MEM,foul,1,False,False,,Melton P.FOUL (P1.T3) (B.Forte),32-30,32,30
+0022100674,2022-01-19,MIL,MEM,11.4,1,0,36,MIL,MIL,fg3_miss,1,False,False,MISS G. Antetokounmpo 27' 3PT Jump Shot,,32-30,32,30
+0022100674,2022-01-19,MIL,MEM,11.43,1,0,34,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:1),,32-30,32,30
+0022100674,2022-01-19,MIL,MEM,11.5,1,0,30,MIL,MIL,fg_make,6,False,False,Connaughton 3' Driving Layup (5 PTS) (Matthews 1 AST),,34-30,34,30
+0022100674,2022-01-19,MIL,MEM,11.75,1,0,15,MEM,MEM,fg_miss,93,False,False,,MISS Jackson Jr. 3' Driving Bank Hook Shot,34-30,34,30
+0022100674,2022-01-19,MIL,MEM,11.8,1,0,12,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:0 Def:6),,34-30,34,30
+0022100674,2022-01-19,MIL,MEM,11.95,1,0,3,MIL,MIL,fg_make,75,False,False,G. Antetokounmpo 2' Driving Finger Roll Layup (15 PTS),,36-30,36,30
+0022100674,2022-01-19,MIL,MEM,12.0,2,12,0,MEM,,period_start,0,False,False,,,36-30,36,30
+0022100674,2022-01-19,MIL,MEM,12.0,1,0,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,36-30,36,30
+0022100674,2022-01-19,MIL,MEM,12.0,1,0,0,MEM,MEM,fg3_miss,79,False,False,,MISS Konchar 38' 3PT Pullup Jump Shot,36-30,36,30
+0022100674,2022-01-19,MIL,MEM,12.0,1,0,0,MEM,,period_end,0,False,False,,,36-30,36,30
+0022100674,2022-01-19,MIL,MEM,12.18,2,11,49,MIL,MIL,tov,1,False,True,DiVincenzo Bad Pass Turnover (P1.T6),,36-30,36,30
+0022100674,2022-01-19,MIL,MEM,12.18,2,11,49,MIL,MEM,steal,1,False,True,steal,steal,36-30,36,30
+0022100674,2022-01-19,MIL,MEM,12.37,2,11,38,MEM,MEM,fg_make,6,False,False,,Jackson Jr. 3' Driving Layup (2 PTS) (Tillman 1 AST),36-32,36,32
+0022100674,2022-01-19,MIL,MEM,12.67,2,11,20,MIL,MIL,fg3_make,1,False,False,Hill 27' 3PT Jump Shot (5 PTS) (G. Antetokounmpo 4 AST),,39-32,39,32
+0022100674,2022-01-19,MIL,MEM,12.87,2,11,8,MEM,MEM,fg_make,102,False,False,,Culver 3' Driving Floating Bank Jump Shot (2 PTS),39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.25,2,10,45,MIL,MIL,fg_miss,101,False,False,MISS Connaughton 2' Driving Floating Jump Shot,,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.3,2,10,42,MEM,MEM,reb,0,False,False,,Aldama REBOUND (Off:1 Def:1),39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.3,2,10,42,MEM,MIL,foul,1,False,False,G. Antetokounmpo P.FOUL (P1.T1) (B.Nansel),,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.37,2,10,38,MEM,MEM,fg3_miss,1,False,False,,MISS Culver 26' 3PT Jump Shot,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.42,2,10,35,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:1),39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.45,2,10,33,MIL,MEM,foul,4,False,False,,Jackson Jr. OFF.Foul (P2) (J.Capers),39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.45,2,10,33,MEM,MEM,tov,37,False,False,,Jackson Jr. Offensive Foul Turnover (P1.T3),39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.7,2,10,18,MIL,MIL,tov,2,False,True,Connaughton Lost Ball Turnover (P1.T7),,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.7,2,10,18,MIL,MEM,steal,2,False,True,steal,steal,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.7,2,10,18,MEM,MIL,violation,5,False,False,Connaughton Violation:Kicked Ball (B.Forte),,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.9,2,10,6,MEM,MEM,fg_miss,6,False,False,,MISS Jackson Jr. 5' Driving Layup,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.93,2,10,4,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:2 Def:2),39-34,39,34
+0022100674,2022-01-19,MIL,MEM,13.97,2,10,2,MEM,MEM,fg_miss,98,False,False,,MISS Aldama 3' Cutting Layup Shot,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,14.02,2,9,59,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:2),,39-34,39,34
+0022100674,2022-01-19,MIL,MEM,14.08,2,9,55,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.2 Short 0),42-34,42,34
+0022100674,2022-01-19,MIL,MEM,14.08,2,9,55,MIL,MIL,fg3_make,2,False,False,Hill 25' 3PT Running Jump Shot (8 PTS) (DiVincenzo 1 AST),,42-34,42,34
+0022100674,2022-01-19,MIL,MEM,14.45,2,9,33,MEM,MEM,fg3_miss,1,False,False,,MISS Culver 26' 3PT Jump Shot,42-34,42,34
+0022100674,2022-01-19,MIL,MEM,14.48,2,9,31,MIL,MIL,reb,0,False,False,Hill REBOUND (Off:0 Def:1),,42-34,42,34
+0022100674,2022-01-19,MIL,MEM,14.5,2,9,30,MIL,MIL,ft_make,10,False,False,Middleton Free Throw 1 of 1 (3 PTS),,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,14.5,2,9,30,MIL,MIL,fg_make,41,False,False,Middleton 2' Running Layup (2 PTS) (Hill 2 AST),,44-34,44,34
+0022100674,2022-01-19,MIL,MEM,14.5,2,9,30,MIL,MEM,foul,2,False,False,,Culver S.FOUL (P1.T1) (B.Nansel),44-34,44,34
+0022100674,2022-01-19,MIL,MEM,14.82,2,9,11,MEM,MEM,tov,2,False,True,,Jackson Jr. Lost Ball Turnover (P2.T4),45-34,45,34
+0022100674,2022-01-19,MIL,MEM,14.82,2,9,11,MEM,MIL,steal,2,False,True,steal,steal,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.1,2,8,54,MIL,MIL,fg_miss,98,False,False,MISS Allen 2' Cutting Layup Shot,,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.17,2,8,50,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:1 Def:6),,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.17,2,8,50,MIL,MIL,fg_miss,97,False,False,MISS G. Antetokounmpo Tip Layup Shot,,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.18,2,8,49,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:0 Def:1),45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.45,2,8,33,MEM,MEM,fg_miss,102,False,False,,MISS Culver 6' Driving Floating Bank Jump Shot,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.5,2,8,30,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:1 Def:7),,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.52,2,8,29,MIL,MEM,steal,2,False,True,steal,steal,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.52,2,8,29,MIL,MIL,tov,2,False,True,G. Antetokounmpo Lost Ball Turnover (P3.T8),,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.55,2,8,27,MEM,MIL,foul,1,False,False,G. Antetokounmpo P.FOUL (P2.T2) (B.Forte),,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.7,2,8,18,MEM,MEM,fg3_miss,1,False,False,,MISS Konchar 24' 3PT Jump Shot,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.77,2,8,14,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:1),,45-34,45,34
+0022100674,2022-01-19,MIL,MEM,15.93,2,8,4,MIL,MIL,fg_make,102,False,False,Middleton 8' Driving Floating Bank Jump Shot (5 PTS),,47-34,47,34
+0022100674,2022-01-19,MIL,MEM,16.17,2,7,50,MEM,MEM,fg3_miss,79,False,False,,MISS Jackson Jr. 26' 3PT Pullup Jump Shot,47-34,47,34
+0022100674,2022-01-19,MIL,MEM,16.22,2,7,47,MIL,MIL,reb,0,False,False,Hill REBOUND (Off:0 Def:2),,47-34,47,34
+0022100674,2022-01-19,MIL,MEM,16.3,2,7,42,MIL,MEM,foul,1,False,False,,Culver P.FOUL (P2.T2) (J.Capers),47-34,47,34
+0022100674,2022-01-19,MIL,MEM,16.43,2,7,34,MIL,MIL,fg3_miss,1,False,False,MISS Hill 28' 3PT Jump Shot,,47-34,47,34
+0022100674,2022-01-19,MIL,MEM,16.48,2,7,31,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:2),47-34,47,34
+0022100674,2022-01-19,MIL,MEM,16.63,2,7,22,MEM,MEM,fg_make,66,False,False,,Tillman 4' Jump Bank Shot (2 PTS) (Morant 4 AST),47-36,47,36
+0022100674,2022-01-19,MIL,MEM,16.85,2,7,9,MIL,MIL,reb,0,False,False,BUCKS Rebound,,47-36,47,36
+0022100674,2022-01-19,MIL,MEM,16.85,2,7,9,MIL,MIL,fg_miss,1,False,False,MISS Middleton 17' Jump Shot,,47-36,47,36
+0022100674,2022-01-19,MIL,MEM,17.07,2,6,56,MIL,MIL,fg3_make,1,False,False,Matthews 26' 3PT Jump Shot (3 PTS) (Middleton 3 AST),,50-36,50,36
+0022100674,2022-01-19,MIL,MEM,17.13,2,6,52,MIL,MEM,foul,4,False,False,,Jackson Jr. OFF.Foul (P3) (J.Capers),50-36,50,36
+0022100674,2022-01-19,MIL,MEM,17.13,2,6,52,MEM,MEM,tov,37,False,False,,Jackson Jr. Offensive Foul Turnover (P3.T5),50-36,50,36
+0022100674,2022-01-19,MIL,MEM,17.47,2,6,32,MIL,MIL,fg_miss,1,False,False,MISS Portis 20' Jump Shot,,50-36,50,36
+0022100674,2022-01-19,MIL,MEM,17.5,2,6,30,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:2 Def:3),50-36,50,36
+0022100674,2022-01-19,MIL,MEM,17.6,2,6,24,MEM,MEM,fg3_miss,2,False,False,,MISS Williams 28' 3PT Running Jump Shot,50-36,50,36
+0022100674,2022-01-19,MIL,MEM,17.65,2,6,21,MIL,MIL,reb,0,False,False,Hill REBOUND (Off:0 Def:3),,50-36,50,36
+0022100674,2022-01-19,MIL,MEM,17.75,2,6,15,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.3 Short 0),53-36,53,36
+0022100674,2022-01-19,MIL,MEM,17.75,2,6,15,MIL,MIL,fg3_make,2,False,False,Allen 27' 3PT Running Jump Shot (5 PTS) (Hill 3 AST),,53-36,53,36
+0022100674,2022-01-19,MIL,MEM,17.93,2,6,4,MEM,MIL,block,101,True,False,block,block,53-36,53,36
+0022100674,2022-01-19,MIL,MEM,17.93,2,6,4,MIL,MIL,reb,0,False,False,BUCKS Rebound,,53-36,53,36
+0022100674,2022-01-19,MIL,MEM,17.93,2,6,4,MEM,MEM,fg_miss,101,True,False,,MISS Clarke 8' Driving Floating Jump Shot,53-36,53,36
+0022100674,2022-01-19,MIL,MEM,18.18,2,5,49,MIL,MIL,fg3_miss,1,False,False,MISS Allen 27' 3PT Jump Shot,,53-36,53,36
+0022100674,2022-01-19,MIL,MEM,18.2,2,5,48,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,53-36,53,36
+0022100674,2022-01-19,MIL,MEM,18.33,2,5,40,MEM,MEM,fg_make,108,False,False,,Clarke 1' Cutting Dunk Shot (6 PTS) (Morant 5 AST),53-38,53,38
+0022100674,2022-01-19,MIL,MEM,18.38,2,5,37,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.4 Short 0),53-38,53,38
+0022100674,2022-01-19,MIL,MEM,18.38,2,5,37,MIL,MEM,foul,28,False,False,,Melton Personal Take Foul (P2.T3) (B.Forte),53-38,53,38
+0022100674,2022-01-19,MIL,MEM,18.57,2,5,26,MIL,MIL,fg_miss,79,False,False,MISS Middleton 19' Pullup Jump Shot,,53-38,53,38
+0022100674,2022-01-19,MIL,MEM,18.65,2,5,21,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:1 Def:1),53-38,53,38
+0022100674,2022-01-19,MIL,MEM,18.87,2,5,8,MEM,MEM,fg_make,78,False,False,,Clarke 3' Floating Jump Shot (8 PTS) (Morant 6 AST),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.02,2,4,59,MIL,MIL,fg3_miss,79,False,False,MISS Holiday 27' 3PT Pullup Jump Shot,,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.05,2,4,57,MIL,MEM,foul,1,False,False,,Melton P.FOUL (P3.T4) (J.Capers),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.05,2,4,57,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:0),,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.3,2,4,42,MIL,MIL,fg_miss,63,False,False,MISS Holiday 12' Fadeaway Jumper,,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.35,2,4,39,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:1 Def:2),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.45,2,4,33,MEM,MEM,fg3_miss,80,False,False,,MISS Morant 27' 3PT Step Back Jump Shot,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.52,2,4,29,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.52,2,4,29,MEM,MEM,ft_miss,11,False,False,,MISS Adams Free Throw 1 of 2,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.52,2,4,29,MEM,MIL,foul,2,False,False,Connaughton S.FOUL (P1.T3) (B.Nansel),,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.52,2,4,29,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:2 Def:2),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.52,2,4,29,MEM,MEM,ft_miss,12,False,False,,MISS Adams Free Throw 2 of 2,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.58,2,4,25,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:1),,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.82,2,4,11,MIL,MIL,fg3_miss,80,False,False,MISS Middleton 3PT Step Back Jump Shot,,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.87,2,4,8,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:3),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.95,2,4,3,MEM,MEM,tov,2,False,True,,Melton Lost Ball Turnover (P1.T6),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,19.95,2,4,3,MEM,MIL,steal,2,False,True,steal,steal,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.03,2,3,58,MIL,MEM,steal,1,False,True,steal,steal,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.03,2,3,58,MIL,MIL,tov,1,False,True,Middleton Bad Pass Turnover (P1.T9),,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.1,2,3,54,MEM,MEM,fg3_miss,2,False,False,,MISS Melton 24' 3PT Running Jump Shot,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.15,2,3,51,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:2),,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.48,2,3,31,MIL,MIL,fg3_miss,1,False,False,MISS Allen 26' 3PT Jump Shot,,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.55,2,3,27,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:0 Def:2),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.8,2,3,12,MEM,MEM,fg_miss,1,False,False,,MISS Clarke 8' Jump Shot,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,20.85,2,3,9,MIL,MIL,reb,0,False,False,Allen REBOUND (Off:0 Def:1),,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.03,2,2,58,MIL,MIL,fg_miss,1,False,False,MISS G. Antetokounmpo 19' Jump Shot,,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.08,2,2,55,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:4),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.15,2,2,51,MEM,MEM,fg_miss,101,False,False,,MISS Morant 5' Driving Floating Jump Shot,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.22,2,2,47,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:4),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.23,2,2,46,MEM,MIL,block,72,True,False,block,block,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.23,2,2,46,MEM,MEM,fg_miss,72,True,False,,MISS Morant 3' Putback Layup,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.28,2,2,43,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:3 Def:2),53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.38,2,2,37,MEM,MEM,fg_miss,1,False,False,,MISS Morant 17' Jump Shot,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.43,2,2,34,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,53-40,53,40
+0022100674,2022-01-19,MIL,MEM,21.68,2,2,19,MIL,MIL,fg_make,98,False,False,Matthews 2' Cutting Layup Shot (5 PTS) (Holiday 1 AST),,55-40,55,40
+0022100674,2022-01-19,MIL,MEM,22.05,2,1,57,MEM,MEM,fg_miss,101,False,False,,MISS Morant 9' Driving Floating Jump Shot,55-40,55,40
+0022100674,2022-01-19,MIL,MEM,22.1,2,1,54,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,55-40,55,40
+0022100674,2022-01-19,MIL,MEM,22.2,2,1,48,MEM,MIL,foul,2,False,False,Holiday S.FOUL (P1.T4) (J.Capers),,55-40,55,40
+0022100674,2022-01-19,MIL,MEM,22.2,2,1,48,MEM,MEM,ft_make,11,False,False,,Morant Free Throw 1 of 2 (12 PTS),55-41,55,41
+0022100674,2022-01-19,MIL,MEM,22.2,2,1,48,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (13 PTS),55-42,55,42
+0022100674,2022-01-19,MIL,MEM,22.53,2,1,28,MIL,MIL,tov,1,False,True,Matthews Bad Pass Turnover (P1.T10),,55-42,55,42
+0022100674,2022-01-19,MIL,MEM,22.53,2,1,28,MIL,MEM,steal,1,False,True,steal,steal,55-42,55,42
+0022100674,2022-01-19,MIL,MEM,22.57,2,1,26,MEM,MEM,tov,1,False,True,,Konchar Bad Pass Turnover (P1.T7),55-42,55,42
+0022100674,2022-01-19,MIL,MEM,22.57,2,1,26,MEM,MIL,steal,1,False,True,steal,steal,55-42,55,42
+0022100674,2022-01-19,MIL,MEM,22.67,2,1,20,MIL,MIL,fg_make,50,False,False,Holiday 1' Running Dunk (5 PTS) (G. Antetokounmpo 5 AST),,57-42,57,42
+0022100674,2022-01-19,MIL,MEM,22.8,2,1,12,MEM,MEM,fg_make,7,False,False,,Clarke 2' Dunk (10 PTS) (Morant 7 AST),57-44,57,44
+0022100674,2022-01-19,MIL,MEM,23.02,2,0,59,MIL,MIL,fg_make,9,False,False,G. Antetokounmpo Driving Dunk (17 PTS),,59-44,59,44
+0022100674,2022-01-19,MIL,MEM,23.38,2,0,37,MEM,MEM,fg3_make,1,False,False,,Morant 36' 3PT Jump Shot (16 PTS) (Konchar 2 AST),59-47,59,47
+0022100674,2022-01-19,MIL,MEM,23.43,2,0,34,MIL,MIL,tov,37,False,False,G. Antetokounmpo Offensive Foul Turnover (P4.T11),,59-47,59,47
+0022100674,2022-01-19,MIL,MEM,23.43,2,0,34,MEM,MIL,foul,26,False,False,G. Antetokounmpo Offensive Charge Foul (P3) (J.Capers),,59-47,59,47
+0022100674,2022-01-19,MIL,MEM,23.75,2,0,15,MEM,MEM,fg3_miss,1,False,False,,MISS Aldama 25' 3PT Jump Shot,59-47,59,47
+0022100674,2022-01-19,MIL,MEM,23.82,2,0,11,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,59-47,59,47
+0022100674,2022-01-19,MIL,MEM,23.97,2,0,2,MIL,MEM,foul,1,False,False,,Morant P.FOUL (P1.PN) (B.Forte),59-47,59,47
+0022100674,2022-01-19,MIL,MEM,23.97,2,0,2,MIL,MIL,ft_make,11,False,False,Holiday Free Throw 1 of 2 (6 PTS),,60-47,60,47
+0022100674,2022-01-19,MIL,MEM,23.97,2,0,2,MIL,MIL,ft_make,12,False,False,Holiday Free Throw 2 of 2 (7 PTS),,61-47,61,47
+0022100674,2022-01-19,MIL,MEM,24.0,2,0,0,MIL,,period_end,0,False,False,,,61-47,61,47
+0022100674,2022-01-19,MIL,MEM,24.0,3,12,0,MIL,,period_start,0,False,False,,,61-47,61,47
+0022100674,2022-01-19,MIL,MEM,24.23,3,11,46,MIL,MIL,fg_make,6,False,False,Allen Driving Layup (7 PTS) (G. Antetokounmpo 6 AST),,63-47,63,47
+0022100674,2022-01-19,MIL,MEM,24.62,3,11,23,MEM,MEM,fg_make,6,False,False,,Jackson Jr. 3' Driving Layup (4 PTS) (Morant 8 AST),63-49,63,49
+0022100674,2022-01-19,MIL,MEM,24.75,3,11,15,MIL,MIL,fg3_miss,79,False,False,MISS G. Antetokounmpo 27' 3PT Pullup Jump Shot,,63-49,63,49
+0022100674,2022-01-19,MIL,MEM,24.75,3,11,15,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,63-49,63,49
+0022100674,2022-01-19,MIL,MEM,24.9,3,11,6,MEM,MEM,tov,1,False,True,,Morant Bad Pass Turnover (P1.T8),63-49,63,49
+0022100674,2022-01-19,MIL,MEM,24.9,3,11,6,MEM,MIL,steal,1,False,True,steal,steal,63-49,63,49
+0022100674,2022-01-19,MIL,MEM,25.0,3,11,0,MIL,MIL,fg_make,41,False,False,G. Antetokounmpo 2' Running Layup (19 PTS),,65-49,65,49
+0022100674,2022-01-19,MIL,MEM,25.23,3,10,46,MEM,MEM,fg_miss,98,False,False,,MISS Adams 2' Cutting Layup Shot,65-49,65,49
+0022100674,2022-01-19,MIL,MEM,25.27,3,10,44,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:4 Def:2),65-49,65,49
+0022100674,2022-01-19,MIL,MEM,25.27,3,10,44,MEM,MEM,fg_make,97,False,False,,Adams Tip Layup Shot (2 PTS),65-51,65,51
+0022100674,2022-01-19,MIL,MEM,25.38,3,10,37,MIL,MEM,violation,5,False,False,,Williams Violation:Kicked Ball (B.Nansel),65-51,65,51
+0022100674,2022-01-19,MIL,MEM,25.55,3,10,27,MIL,MIL,fg3_miss,1,False,False,MISS Allen 26' 3PT Jump Shot,,65-51,65,51
+0022100674,2022-01-19,MIL,MEM,25.6,3,10,24,MEM,MEM,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),65-51,65,51
+0022100674,2022-01-19,MIL,MEM,25.77,3,10,14,MEM,MEM,fg_make,78,False,False,,Morant 9' Floating Jump Shot (18 PTS),65-53,65,53
+0022100674,2022-01-19,MIL,MEM,25.92,3,10,5,MIL,MIL,ft_make,12,False,False,Allen Free Throw 2 of 2 (9 PTS),,67-53,67,53
+0022100674,2022-01-19,MIL,MEM,25.92,3,10,5,MIL,MIL,ft_make,11,False,False,Allen Free Throw 1 of 2 (8 PTS),,66-53,66,53
+0022100674,2022-01-19,MIL,MEM,25.92,3,10,5,MIL,MEM,foul,2,False,False,,Adams S.FOUL (P2.T1) (B.Forte),65-53,65,53
+0022100674,2022-01-19,MIL,MEM,26.18,3,9,49,MEM,MEM,fg_make,79,False,False,,Morant 15' Pullup Jump Shot (20 PTS),67-55,67,55
+0022100674,2022-01-19,MIL,MEM,26.32,3,9,41,MIL,MIL,fg_make,101,False,False,Middleton 14' Driving Floating Jump Shot (7 PTS),,69-55,69,55
+0022100674,2022-01-19,MIL,MEM,26.57,3,9,26,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 26' 3PT Jump Shot,69-55,69,55
+0022100674,2022-01-19,MIL,MEM,26.62,3,9,23,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:1 Def:8),,69-55,69,55
+0022100674,2022-01-19,MIL,MEM,26.67,3,9,20,MIL,MEM,violation,2,False,False,,Jackson Jr. Violation:Defensive Goaltending (J.Capers),71-55,71,55
+0022100674,2022-01-19,MIL,MEM,26.67,3,9,20,MIL,MIL,fg_make,98,False,False,Hill 2' Cutting Layup Shot (10 PTS) (G. Antetokounmpo 7 AST),,71-55,71,55
+0022100674,2022-01-19,MIL,MEM,26.9,3,9,6,MEM,MEM,fg_make,47,False,False,,Adams 3' Turnaround Jump Shot (4 PTS),71-57,71,57
+0022100674,2022-01-19,MIL,MEM,27.23,3,8,46,MIL,MIL,fg_make,98,False,False,G. Antetokounmpo 1' Cutting Layup Shot (21 PTS) (Middleton 4 AST),,73-57,73,57
+0022100674,2022-01-19,MIL,MEM,27.5,3,8,30,MEM,MIL,foul,2,False,False,G. Antetokounmpo S.FOUL (P4.T1) (B.Forte),,73-59,73,59
+0022100674,2022-01-19,MIL,MEM,27.5,3,8,30,MEM,MEM,fg_make,6,False,False,,Jackson Jr. 2' Driving Layup (6 PTS) (Morant 9 AST),73-59,73,59
+0022100674,2022-01-19,MIL,MEM,27.5,3,8,30,MEM,MEM,ft_make,10,False,False,,Jackson Jr. Free Throw 1 of 1 (7 PTS),73-60,73,60
+0022100674,2022-01-19,MIL,MEM,27.75,3,8,15,MIL,MIL,fg3_miss,79,False,False,MISS Middleton 28' 3PT Pullup Jump Shot,,73-60,73,60
+0022100674,2022-01-19,MIL,MEM,27.8,3,8,12,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:5),73-60,73,60
+0022100674,2022-01-19,MIL,MEM,27.9,3,8,6,MEM,MEM,fg_make,75,False,False,,Morant 2' Driving Finger Roll Layup (22 PTS),73-62,73,62
+0022100674,2022-01-19,MIL,MEM,28.17,3,7,50,MIL,MIL,fg3_make,1,False,False,Portis 3PT Jump Shot (12 PTS) (Connaughton 1 AST),,76-62,76,62
+0022100674,2022-01-19,MIL,MEM,28.53,3,7,28,MEM,MEM,fg_make,5,False,False,,Jackson Jr. 1' Layup (9 PTS) (Adams 2 AST),76-64,76,64
+0022100674,2022-01-19,MIL,MEM,28.97,3,7,2,MIL,MIL,fg_make,6,False,False,Middleton 2' Driving Layup (9 PTS) (Hill 4 AST),,78-64,78,64
+0022100674,2022-01-19,MIL,MEM,29.15,3,6,51,MEM,MIL,foul,1,False,False,Connaughton P.FOUL (P2.T2) (J.Capers),,78-64,78,64
+0022100674,2022-01-19,MIL,MEM,29.15,3,6,51,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 2 Short 0),,78-64,78,64
+0022100674,2022-01-19,MIL,MEM,29.32,3,6,41,MEM,MEM,fg_make,47,False,False,,Jackson Jr. 11' Turnaround Jump Shot (11 PTS) (Morant 10 AST),78-66,78,66
+0022100674,2022-01-19,MIL,MEM,29.58,3,6,25,MIL,MIL,ft_make,10,False,False,Middleton Free Throw 1 of 1 (12 PTS),,81-66,81,66
+0022100674,2022-01-19,MIL,MEM,29.58,3,6,25,MIL,MEM,foul,2,False,False,,Morant S.FOUL (P2.T2) (J.Capers),80-66,80,66
+0022100674,2022-01-19,MIL,MEM,29.58,3,6,25,MIL,MIL,fg_make,1,False,False,Middleton 14' Jump Shot (11 PTS),,80-66,80,66
+0022100674,2022-01-19,MIL,MEM,29.82,3,6,11,MEM,MEM,fg_miss,78,False,False,,MISS Adams 13' Floating Jump Shot,81-66,81,66
+0022100674,2022-01-19,MIL,MEM,29.87,3,6,8,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:2),,81-66,81,66
+0022100674,2022-01-19,MIL,MEM,29.97,3,6,2,MIL,MIL,fg3_miss,2,True,False,MISS Connaughton 3PT Running Jump Shot,,81-66,81,66
+0022100674,2022-01-19,MIL,MEM,29.97,3,6,2,MIL,MEM,block,2,True,False,block,block,81-66,81,66
+0022100674,2022-01-19,MIL,MEM,30.05,3,5,57,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:1),81-66,81,66
+0022100674,2022-01-19,MIL,MEM,30.1,3,5,54,MEM,MEM,fg3_miss,2,False,False,,MISS Williams 3PT Running Jump Shot,81-66,81,66
+0022100674,2022-01-19,MIL,MEM,30.15,3,5,51,MIL,MIL,reb,0,False,False,Allen REBOUND (Off:0 Def:2),,81-66,81,66
+0022100674,2022-01-19,MIL,MEM,30.3,3,5,42,MIL,MIL,fg3_make,1,False,False,Connaughton 26' 3PT Jump Shot (8 PTS) (Middleton 5 AST),,84-66,84,66
+0022100674,2022-01-19,MIL,MEM,30.58,3,5,25,MEM,MEM,fg_make,96,False,False,,Jackson Jr. 10' Turnaround Bank Hook Shot (13 PTS),84-68,84,68
+0022100674,2022-01-19,MIL,MEM,30.78,3,5,13,MIL,MIL,fg_make,63,False,False,Middleton 14' Fadeaway Jumper (14 PTS),,86-68,86,68
+0022100674,2022-01-19,MIL,MEM,31.03,3,4,58,MEM,MEM,fg3_make,1,False,False,,Melton 27' 3PT Jump Shot (5 PTS) (Morant 11 AST),86-71,86,71
+0022100674,2022-01-19,MIL,MEM,31.17,3,4,50,MIL,MIL,fg3_miss,79,False,False,MISS Allen 26' 3PT Pullup Jump Shot,,86-71,86,71
+0022100674,2022-01-19,MIL,MEM,31.22,3,4,47,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:3),86-71,86,71
+0022100674,2022-01-19,MIL,MEM,31.42,3,4,35,MEM,MEM,ft_make,11,False,False,,Jackson Jr. Free Throw 1 of 2 (14 PTS),86-72,86,72
+0022100674,2022-01-19,MIL,MEM,31.42,3,4,35,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (15 PTS),86-73,86,73
+0022100674,2022-01-19,MIL,MEM,31.42,3,4,35,MEM,MIL,foul,2,False,False,Portis S.FOUL (P1.T3) (B.Nansel),,86-71,86,71
+0022100674,2022-01-19,MIL,MEM,31.53,3,4,28,MIL,MIL,ft_make,12,False,False,Holiday Free Throw 2 of 2 (9 PTS),,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.53,3,4,28,MIL,MIL,ft_make,11,False,False,Holiday Free Throw 1 of 2 (8 PTS),,87-73,87,73
+0022100674,2022-01-19,MIL,MEM,31.53,3,4,28,MIL,MEM,foul,2,False,False,,Melton S.FOUL (P4.T3) (B.Nansel),86-73,86,73
+0022100674,2022-01-19,MIL,MEM,31.73,3,4,16,MEM,MEM,fg3_miss,1,False,False,,MISS Melton 26' 3PT Jump Shot,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.87,3,4,8,MEM,MEM,reb,0,False,False,,Culver REBOUND (Off:2 Def:0),88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.87,3,4,8,MEM,MEM,fg_miss,97,False,False,,MISS Culver Tip Layup Shot,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.88,3,4,7,MEM,MEM,reb,0,False,False,,Culver REBOUND (Off:2 Def:0),88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.9,3,4,6,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:3),,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.9,3,4,6,MEM,MEM,fg_miss,97,True,False,,MISS Culver 2' Tip Layup Shot,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.9,3,4,6,MEM,MIL,block,97,True,False,block,block,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,31.97,3,4,2,MIL,MIL,fg_miss,6,False,False,MISS Holiday 1' Driving Layup,,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,32.02,3,3,59,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:4),88-73,88,73
+0022100674,2022-01-19,MIL,MEM,32.07,3,3,56,MEM,MIL,block,6,True,False,block,block,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,32.07,3,3,56,MEM,MEM,fg_miss,6,True,False,,MISS Morant 5' Driving Layup,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,32.12,3,3,53,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:3),,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,32.32,3,3,41,MIL,MIL,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,88-73,88,73
+0022100674,2022-01-19,MIL,MEM,32.37,3,3,38,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:5),88-73,88,73
+0022100674,2022-01-19,MIL,MEM,32.43,3,3,34,MEM,MEM,fg_make,6,False,False,,Jackson Jr. 2' Driving Layup (17 PTS),88-75,88,75
+0022100674,2022-01-19,MIL,MEM,32.43,3,3,34,MEM,MEM,ft_miss,10,False,False,,MISS Jackson Jr. Free Throw 1 of 1,88-75,88,75
+0022100674,2022-01-19,MIL,MEM,32.43,3,3,34,MEM,MIL,foul,2,False,False,Holiday S.FOUL (P2.T4) (B.Nansel),,88-75,88,75
+0022100674,2022-01-19,MIL,MEM,32.5,3,3,30,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:1 Def:9),,88-75,88,75
+0022100674,2022-01-19,MIL,MEM,32.72,3,3,17,MIL,MIL,fg3_make,1,False,False,Connaughton 27' 3PT Jump Shot (11 PTS) (Holiday 2 AST),,91-75,91,75
+0022100674,2022-01-19,MIL,MEM,32.92,3,3,5,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (19 PTS),91-77,91,77
+0022100674,2022-01-19,MIL,MEM,32.92,3,3,5,MEM,MEM,ft_make,11,False,False,,Jackson Jr. Free Throw 1 of 2 (18 PTS),91-76,91,76
+0022100674,2022-01-19,MIL,MEM,32.92,3,3,5,MEM,MIL,foul,1,False,False,Matthews P.FOUL (P1.PN) (B.Forte),,91-75,91,75
+0022100674,2022-01-19,MIL,MEM,33.23,3,2,46,MIL,MIL,fg3_miss,1,False,False,MISS Matthews 24' 3PT Jump Shot,,91-77,91,77
+0022100674,2022-01-19,MIL,MEM,33.28,3,2,43,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:6),91-77,91,77
+0022100674,2022-01-19,MIL,MEM,33.32,3,2,41,MEM,MEM,fg_make,41,False,False,,Morant 2' Running Layup (24 PTS) (Jackson Jr. 1 AST),91-79,91,79
+0022100674,2022-01-19,MIL,MEM,33.45,3,2,33,MIL,MIL,fg_make,6,False,False,G. Antetokounmpo 1' Driving Layup (23 PTS) (DiVincenzo 2 AST),,93-79,93,79
+0022100674,2022-01-19,MIL,MEM,33.45,3,2,33,MIL,MEM,foul,2,False,False,,Jackson Jr. S.FOUL (P4.T4) (B.Nansel),93-79,93,79
+0022100674,2022-01-19,MIL,MEM,33.45,3,2,33,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),93-79,93,79
+0022100674,2022-01-19,MIL,MEM,33.45,3,2,33,MEM,MIL,ft_make,10,False,False,G. Antetokounmpo Free Throw 1 of 1 (24 PTS),,94-79,94,79
+0022100674,2022-01-19,MIL,MEM,33.65,3,2,21,MEM,MEM,fg3_make,79,False,False,,Culver 27' 3PT Pullup Jump Shot (5 PTS),94-82,94,82
+0022100674,2022-01-19,MIL,MEM,34.05,3,1,57,MIL,MIL,fg_miss,98,False,False,MISS G. Antetokounmpo 3' Cutting Layup Shot,,94-82,94,82
+0022100674,2022-01-19,MIL,MEM,34.05,3,1,57,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,94-82,94,82
+0022100674,2022-01-19,MIL,MEM,34.23,3,1,46,MEM,MEM,fg_make,79,False,False,,Morant 13' Pullup Jump Shot (26 PTS),94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.52,3,1,29,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 25' 3PT Jump Shot,,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.57,3,1,26,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:1 Def:3),,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.6,3,1,24,MIL,MIL,tov,1,False,True,Holiday Bad Pass Turnover (P3.T12),,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.6,3,1,24,MIL,MEM,steal,1,False,True,steal,steal,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.7,3,1,18,MEM,MEM,fg3_miss,2,False,False,,MISS Morant 26' 3PT Running Jump Shot,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.75,3,1,15,MIL,MIL,reb,0,False,False,Matthews REBOUND (Off:0 Def:1),,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.87,3,1,8,MIL,MIL,fg_miss,41,False,False,MISS G. Antetokounmpo 6' Running Layup,,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.87,3,1,8,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:2 Def:9),,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,34.93,3,1,4,,MIL,jump_ball,0,False,False,Jump Ball G. Antetokounmpo vs. Culver: Tip to Matthews,,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,35.05,3,0,57,MIL,MIL,fg3_miss,1,False,False,MISS Matthews 26' 3PT Jump Shot,,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,35.08,3,0,55,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:2 Def:3),,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,35.15,3,0,51,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 27' 3PT Jump Shot,,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,35.15,3,0,51,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:2 Def:2),,94-84,94,84
+0022100674,2022-01-19,MIL,MEM,35.2,3,0,48,MIL,MIL,fg_make,72,False,False,Connaughton Putback Layup (13 PTS),,96-84,96,84
+0022100674,2022-01-19,MIL,MEM,35.47,3,0,32,MEM,MEM,fg_make,101,False,False,,Morant 9' Driving Floating Jump Shot (28 PTS),96-86,96,86
+0022100674,2022-01-19,MIL,MEM,35.47,3,0,32,MIL,MEM,ft_make,10,False,False,,Morant Free Throw 1 of 1 (29 PTS),96-87,96,87
+0022100674,2022-01-19,MIL,MEM,35.47,3,0,32,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 3 Short 0),,96-86,96,86
+0022100674,2022-01-19,MIL,MEM,35.47,3,0,32,MEM,MIL,foul,2,False,False,Holiday S.FOUL (P3.PN) (B.Forte),,96-86,96,86
+0022100674,2022-01-19,MIL,MEM,35.57,3,0,26,MIL,MIL,fg_miss,6,False,False,MISS DiVincenzo 2' Driving Layup,,96-87,96,87
+0022100674,2022-01-19,MIL,MEM,35.62,3,0,23,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:6),96-87,96,87
+0022100674,2022-01-19,MIL,MEM,35.88,3,0,7,MEM,MEM,fg_miss,79,False,False,,MISS Morant 16' Pullup Jump Shot,96-87,96,87
+0022100674,2022-01-19,MIL,MEM,35.93,3,0,4,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:5 Def:2),96-87,96,87
+0022100674,2022-01-19,MIL,MEM,35.95,3,0,3,MEM,MEM,fg_miss,72,True,False,,MISS Adams 3' Putback Layup,96-87,96,87
+0022100674,2022-01-19,MIL,MEM,35.95,3,0,3,MEM,MIL,block,72,True,False,block,block,96-87,96,87
+0022100674,2022-01-19,MIL,MEM,36.0,3,0,0,MIL,,period_end,0,False,False,,,96-87,96,87
+0022100674,2022-01-19,MIL,MEM,36.0,3,0,0,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:4),,96-87,96,87
+0022100674,2022-01-19,MIL,MEM,36.0,4,12,0,MIL,,period_start,0,False,False,,,96-87,96,87
+0022100674,2022-01-19,MIL,MEM,36.33,4,11,40,MEM,MEM,fg_make,78,False,False,,Aldama 12' Floating Jump Shot (6 PTS) (Melton 1 AST),96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.5,4,11,30,MIL,MEM,foul,1,False,False,,Culver P.FOUL (P3.T1) (J.Capers),96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.62,4,11,23,MIL,MIL,fg_miss,6,True,False,MISS DiVincenzo 6' Driving Layup,,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.62,4,11,23,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.62,4,11,23,MIL,MEM,block,6,True,False,block,block,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.68,4,11,19,,MIL,jump_ball,0,False,False,Jump Ball DiVincenzo vs. Konchar: Tip to Culver,,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.87,4,11,8,MEM,MIL,foul,2,False,False,DiVincenzo S.FOUL (P1.T1) (B.Forte),,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.87,4,11,8,MEM,MEM,ft_miss,11,False,False,,MISS Melton Free Throw 1 of 2,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.87,4,11,8,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.87,4,11,8,MEM,MEM,ft_miss,12,False,False,,MISS Melton Free Throw 2 of 2,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.88,4,11,7,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:6 Def:2),96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.88,4,11,7,MEM,MEM,fg_miss,97,False,False,,MISS Adams Tip Layup Shot,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,36.92,4,11,5,MIL,MIL,reb,0,False,False,Hill REBOUND (Off:0 Def:4),,96-89,96,89
+0022100674,2022-01-19,MIL,MEM,37.12,4,10,53,MIL,MIL,fg_make,6,False,False,Matthews 3' Driving Layup (7 PTS) (Hill 5 AST),,98-89,98,89
+0022100674,2022-01-19,MIL,MEM,37.28,4,10,43,MEM,MEM,tov,1,False,True,,Culver Bad Pass Turnover (P1.T9),98-89,98,89
+0022100674,2022-01-19,MIL,MEM,37.28,4,10,43,MEM,MIL,steal,1,False,True,steal,steal,98-89,98,89
+0022100674,2022-01-19,MIL,MEM,37.35,4,10,39,MIL,MIL,fg_make,41,False,False,Hill 2' Running Layup (12 PTS) (Middleton 6 AST),,100-89,100,89
+0022100674,2022-01-19,MIL,MEM,37.35,4,10,39,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.6 Short 0),100-89,100,89
+0022100674,2022-01-19,MIL,MEM,37.67,4,10,20,MEM,MEM,fg3_miss,1,False,False,,MISS Aldama 27' 3PT Jump Shot,100-89,100,89
+0022100674,2022-01-19,MIL,MEM,37.67,4,10,20,MIL,MIL,reb,0,False,False,BUCKS Rebound,,100-89,100,89
+0022100674,2022-01-19,MIL,MEM,37.93,4,10,4,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 26' 3PT Jump Shot,,100-89,100,89
+0022100674,2022-01-19,MIL,MEM,37.98,4,10,1,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:6 Def:3),100-89,100,89
+0022100674,2022-01-19,MIL,MEM,38.08,4,9,55,MEM,MEM,fg_make,6,False,False,,Konchar 3' Driving Layup (4 PTS) (Williams 1 AST),100-91,100,91
+0022100674,2022-01-19,MIL,MEM,38.32,4,9,41,MIL,MIL,fg_make,86,False,False,Middleton 10' Turnaround Fadeaway (16 PTS),,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.48,4,9,31,MEM,MEM,fg3_miss,1,False,False,,MISS Williams 27' 3PT Jump Shot,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.57,4,9,26,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:2 Def:10),,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.67,4,9,20,MIL,MIL,fg_miss,79,False,False,MISS G. Antetokounmpo 15' Pullup Jump Shot,,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.7,4,9,18,MEM,MEM,reb,0,False,False,,Aldama REBOUND (Off:1 Def:2),102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.9,4,9,6,MEM,MEM,fg_miss,1,False,False,,MISS Culver 17' Jump Shot,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.92,4,9,5,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:7 Def:3),102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.95,4,9,3,MEM,MEM,fg_miss,97,False,False,,MISS Adams Tip Layup Shot,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.97,4,9,2,MEM,MEM,reb,0,False,False,,Adams REBOUND (Off:8 Def:3),102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.98,4,9,1,MEM,MEM,fg_miss,97,False,False,,MISS Adams Tip Layup Shot,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.98,4,9,1,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,38.98,4,9,1,MEM,MIL,foul,3,False,False,Matthews L.B.FOUL (P2.T2) (J.Capers),,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,39.02,4,8,59,MEM,MEM,fg_miss,57,False,False,,MISS Jackson Jr. 1' Driving Hook Shot,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,39.03,4,8,58,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:2 Def:11),,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,39.17,4,8,50,MIL,MIL,fg_miss,6,False,False,MISS G. Antetokounmpo 3' Driving Layup,,102-91,102,91
+0022100674,2022-01-19,MIL,MEM,39.18,4,8,49,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:2 Def:4),102-91,102,91
+0022100674,2022-01-19,MIL,MEM,39.32,4,8,41,MEM,MEM,fg_make,41,False,False,,Konchar 2' Running Layup (6 PTS),102-93,102,93
+0022100674,2022-01-19,MIL,MEM,39.42,4,8,35,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 4 Short 0),,102-93,102,93
+0022100674,2022-01-19,MIL,MEM,39.67,4,8,20,MIL,MIL,fg3_miss,1,False,False,MISS Hill 3PT Jump Shot,,102-93,102,93
+0022100674,2022-01-19,MIL,MEM,39.67,4,8,20,MIL,MIL,reb,0,False,False,Allen REBOUND (Off:1 Def:2),,102-93,102,93
+0022100674,2022-01-19,MIL,MEM,39.67,4,8,20,MIL,MEM,foul,2,False,False,,Culver S.FOUL (P4.T2) (B.Forte),102-93,102,93
+0022100674,2022-01-19,MIL,MEM,39.67,4,8,20,MIL,MIL,ft_make,11,False,False,G. Antetokounmpo Free Throw 1 of 2 (25 PTS),,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,39.67,4,8,20,MIL,MIL,ft_miss,12,False,False,MISS G. Antetokounmpo Free Throw 2 of 2,,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,39.72,4,8,17,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:2 Def:5),103-93,103,93
+0022100674,2022-01-19,MIL,MEM,39.93,4,8,4,MEM,MEM,fg_miss,6,False,False,,MISS Jackson Jr. 7' Driving Layup,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,39.98,4,8,1,MIL,MIL,reb,0,False,False,Hill REBOUND (Off:0 Def:5),,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,40.17,4,7,50,MIL,MIL,fg_miss,80,False,False,MISS G. Antetokounmpo 15' Step Back Jump Shot,,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,40.22,4,7,47,,MIL,jump_ball,0,False,False,Jump Ball Hill vs. Jackson Jr.: Tip to Morant,,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,40.22,4,7,47,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,40.37,4,7,38,MEM,MEM,fg_miss,1,False,False,,MISS Williams 6' Jump Shot,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,40.4,4,7,36,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:4),,103-93,103,93
+0022100674,2022-01-19,MIL,MEM,40.47,4,7,32,MIL,MEM,foul,2,False,False,,Konchar S.FOUL (P1.T3) (B.Forte),103-93,103,93
+0022100674,2022-01-19,MIL,MEM,40.47,4,7,32,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (18 PTS),,105-93,105,93
+0022100674,2022-01-19,MIL,MEM,40.47,4,7,32,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (17 PTS),,104-93,104,93
+0022100674,2022-01-19,MIL,MEM,40.7,4,7,18,MEM,MEM,fg3_miss,79,False,False,,MISS Jackson Jr. 3PT Pullup Jump Shot,105-93,105,93
+0022100674,2022-01-19,MIL,MEM,40.7,4,7,18,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:2 Def:3),,105-93,105,93
+0022100674,2022-01-19,MIL,MEM,41.03,4,6,58,MIL,MIL,fg3_make,1,False,False,Middleton 3PT Jump Shot (21 PTS) (Hill 6 AST),,108-93,108,93
+0022100674,2022-01-19,MIL,MEM,41.33,4,6,40,MEM,MEM,fg_miss,78,False,False,,MISS Jackson Jr. 9' Floating Jump Shot,108-93,108,93
+0022100674,2022-01-19,MIL,MEM,41.37,4,6,38,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:2 Def:4),,108-93,108,93
+0022100674,2022-01-19,MIL,MEM,41.38,4,6,37,MIL,MEM,steal,2,False,True,steal,steal,108-93,108,93
+0022100674,2022-01-19,MIL,MEM,41.38,4,6,37,MIL,MIL,tov,2,False,True,Portis Lost Ball Turnover (P2.T13),,108-93,108,93
+0022100674,2022-01-19,MIL,MEM,41.4,4,6,36,MEM,MEM,ft_make,11,False,False,,Jackson Jr. Free Throw 1 of 2 (20 PTS),108-94,108,94
+0022100674,2022-01-19,MIL,MEM,41.4,4,6,36,MEM,MIL,foul,2,False,False,Portis S.FOUL (P2.T3) (B.Forte),,108-93,108,93
+0022100674,2022-01-19,MIL,MEM,41.4,4,6,36,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (21 PTS),108-95,108,95
+0022100674,2022-01-19,MIL,MEM,41.75,4,6,15,MIL,MIL,fg_make,86,False,False,Middleton 15' Turnaround Fadeaway (23 PTS) (Holiday 3 AST),,110-95,110,95
+0022100674,2022-01-19,MIL,MEM,41.92,4,6,5,MEM,MEM,fg3_miss,1,False,False,,MISS Konchar 24' 3PT Jump Shot,110-95,110,95
+0022100674,2022-01-19,MIL,MEM,41.97,4,6,2,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:5),,110-95,110,95
+0022100674,2022-01-19,MIL,MEM,42.05,4,5,57,MIL,MIL,fg3_miss,103,False,False,MISS Middleton 27' 3PT Running Pull-Up Jump Shot,,110-95,110,95
+0022100674,2022-01-19,MIL,MEM,42.05,4,5,57,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:7),110-95,110,95
+0022100674,2022-01-19,MIL,MEM,42.2,4,5,48,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 29' 3PT Jump Shot (24 PTS) (Morant 12 AST),110-98,110,98
+0022100674,2022-01-19,MIL,MEM,42.65,4,5,21,MIL,MEM,block,75,True,False,block,block,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,42.65,4,5,21,MIL,MIL,fg_miss,75,True,False,MISS Connaughton 6' Driving Finger Roll Layup,,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,42.72,4,5,17,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:8),110-98,110,98
+0022100674,2022-01-19,MIL,MEM,42.87,4,5,8,MEM,MEM,fg3_miss,79,False,False,,MISS Morant 27' 3PT Pullup Jump Shot,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,42.93,4,5,4,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:6),,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,42.97,4,5,2,MIL,MIL,fg_miss,41,False,False,MISS Portis 5' Running Layup,,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,43.0,4,5,0,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:3 Def:4),,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,43.0,4,5,0,MIL,MIL,fg_miss,97,False,False,MISS Portis 4' Tip Layup Shot,,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,43.02,4,4,59,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:4 Def:4),,110-98,110,98
+0022100674,2022-01-19,MIL,MEM,43.03,4,4,58,MIL,MIL,fg_make,72,False,False,Portis Putback Layup (14 PTS),,112-98,112,98
+0022100674,2022-01-19,MIL,MEM,43.33,4,4,40,MEM,MIL,foul,2,False,False,Middleton S.FOUL (P2.T4) (B.Nansel),,112-98,112,98
+0022100674,2022-01-19,MIL,MEM,43.33,4,4,40,MEM,MEM,ft_make,11,False,False,,Jackson Jr. Free Throw 1 of 2 (25 PTS),112-99,112,99
+0022100674,2022-01-19,MIL,MEM,43.33,4,4,40,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (26 PTS),112-100,112,100
+0022100674,2022-01-19,MIL,MEM,43.53,4,4,28,MIL,MIL,tov,45,False,False,Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,112-100,112,100
+0022100674,2022-01-19,MIL,MEM,43.72,4,4,17,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 27' 3PT Jump Shot (29 PTS) (Morant 13 AST),112-103,112,103
+0022100674,2022-01-19,MIL,MEM,43.97,4,4,2,MIL,MIL,fg_miss,5,True,False,MISS G. Antetokounmpo 3' Layup,,112-103,112,103
+0022100674,2022-01-19,MIL,MEM,43.97,4,4,2,MIL,MEM,block,5,True,False,block,block,112-103,112,103
+0022100674,2022-01-19,MIL,MEM,43.98,4,4,1,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:3 Def:11),,112-103,112,103
+0022100674,2022-01-19,MIL,MEM,44.0,4,4,0,MIL,MIL,ft_make,12,False,False,G. Antetokounmpo Free Throw 2 of 2 (27 PTS),,114-103,114,103
+0022100674,2022-01-19,MIL,MEM,44.0,4,4,0,MIL,MEM,foul,2,False,False,,Morant S.FOUL (P3.T4) (B.Nansel),112-103,112,103
+0022100674,2022-01-19,MIL,MEM,44.0,4,4,0,MIL,MIL,ft_make,11,False,False,G. Antetokounmpo Free Throw 1 of 2 (26 PTS),,113-103,113,103
+0022100674,2022-01-19,MIL,MEM,44.38,4,3,37,MEM,MIL,steal,1,False,True,steal,steal,114-103,114,103
+0022100674,2022-01-19,MIL,MEM,44.38,4,3,37,MEM,MEM,tov,1,False,True,,Jackson Jr. Bad Pass Turnover (P4.T10),114-103,114,103
+0022100674,2022-01-19,MIL,MEM,44.43,4,3,34,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 5 Short 0),,114-103,114,103
+0022100674,2022-01-19,MIL,MEM,44.62,4,3,23,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 26' 3PT Jump Shot,,114-103,114,103
+0022100674,2022-01-19,MIL,MEM,44.67,4,3,20,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:0 Def:3),114-103,114,103
+0022100674,2022-01-19,MIL,MEM,44.75,4,3,15,MEM,MEM,fg3_make,2,False,False,,Williams 3PT Running Jump Shot (10 PTS) (Konchar 3 AST),114-106,114,106
+0022100674,2022-01-19,MIL,MEM,44.97,4,3,2,MEM,MIL,foul,4,False,False,G. Antetokounmpo OFF.Foul (P5) (B.Nansel),,114-106,114,106
+0022100674,2022-01-19,MIL,MEM,44.97,4,3,2,MIL,MIL,tov,37,False,False,G. Antetokounmpo Offensive Foul Turnover (P5.T15),,114-106,114,106
+0022100674,2022-01-19,MIL,MEM,45.1,4,2,54,MEM,MIL,foul,2,False,False,Middleton S.FOUL (P3.PN) (B.Nansel),,114-108,114,108
+0022100674,2022-01-19,MIL,MEM,45.1,4,2,54,MEM,MEM,fg_make,43,False,False,,Clarke 3' Alley Oop Layup (12 PTS) (Morant 14 AST),114-108,114,108
+0022100674,2022-01-19,MIL,MEM,45.1,4,2,54,MEM,MEM,ft_make,10,False,False,,Clarke Free Throw 1 of 1 (13 PTS),114-109,114,109
+0022100674,2022-01-19,MIL,MEM,45.37,4,2,38,MIL,MIL,fg_miss,6,False,False,MISS Middleton 6' Driving Layup,,114-109,114,109
+0022100674,2022-01-19,MIL,MEM,45.4,4,2,36,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:7),114-109,114,109
+0022100674,2022-01-19,MIL,MEM,45.47,4,2,32,MEM,MEM,fg_make,41,False,False,,Morant 9' Running Layup (31 PTS),114-111,114,111
+0022100674,2022-01-19,MIL,MEM,45.67,4,2,20,MIL,MIL,ft_make,12,False,False,Hill Free Throw 2 of 2 (14 PTS),,116-111,116,111
+0022100674,2022-01-19,MIL,MEM,45.67,4,2,20,MIL,MIL,ft_make,11,False,False,Hill Free Throw 1 of 2 (13 PTS),,115-111,115,111
+0022100674,2022-01-19,MIL,MEM,45.67,4,2,20,MIL,MEM,foul,1,False,False,,Williams P.FOUL (P1.PN) (J.Capers),114-111,114,111
+0022100674,2022-01-19,MIL,MEM,45.87,4,2,8,MEM,MEM,fg3_miss,1,False,False,,MISS Williams 24' 3PT Jump Shot,116-111,116,111
+0022100674,2022-01-19,MIL,MEM,45.95,4,2,3,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:7),,116-111,116,111
+0022100674,2022-01-19,MIL,MEM,46.08,4,1,55,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.7 Short 0),118-111,118,111
+0022100674,2022-01-19,MIL,MEM,46.08,4,1,55,MIL,MIL,fg_make,108,False,False,G. Antetokounmpo Cutting Dunk Shot (29 PTS) (Holiday 4 AST),,118-111,118,111
+0022100674,2022-01-19,MIL,MEM,46.33,4,1,40,MEM,MEM,fg_miss,5,False,False,,MISS Morant 7' Layup,118-111,118,111
+0022100674,2022-01-19,MIL,MEM,46.37,4,1,38,MIL,MIL,reb,0,False,False,G. Antetokounmpo REBOUND (Off:3 Def:12),,118-111,118,111
+0022100674,2022-01-19,MIL,MEM,46.6,4,1,24,MIL,MIL,fg_make,58,False,False,G. Antetokounmpo 11' Turnaround Hook Shot (31 PTS) (Middleton 7 AST),,120-111,120,111
+0022100674,2022-01-19,MIL,MEM,46.72,4,1,17,MEM,MEM,fg3_miss,1,False,False,,MISS Williams 29' 3PT Jump Shot,120-111,120,111
+0022100674,2022-01-19,MIL,MEM,46.8,4,1,12,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:4 Def:5),,120-111,120,111
+0022100674,2022-01-19,MIL,MEM,47.12,4,0,53,,MIL,jump_ball,0,False,False, ,,120-111,120,111
+0022100674,2022-01-19,MIL,MEM,47.2,4,0,48,MIL,MIL,fg_make,86,False,False,G. Antetokounmpo 14' Turnaround Fadeaway (33 PTS),,122-111,122,111
+0022100674,2022-01-19,MIL,MEM,47.35,4,0,39,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 6 Short 0),,122-111,122,111
+0022100674,2022-01-19,MIL,MEM,47.35,4,0,39,MEM,MIL,foul,2,False,False,G. Antetokounmpo S.FOUL (P6.PN) (B.Forte),,122-111,122,111
+0022100674,2022-01-19,MIL,MEM,47.35,4,0,39,MEM,MEM,fg3_miss,1,False,False,,MISS Morant 27' 3PT Jump Shot,122-111,122,111
+0022100674,2022-01-19,MIL,MEM,47.35,4,0,39,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:4 Def:6),,122-112,122,112
+0022100674,2022-01-19,MIL,MEM,47.35,4,0,39,MEM,MEM,ft_miss,12,False,False,,MISS Clarke Free Throw 2 of 2,122-112,122,112
+0022100674,2022-01-19,MIL,MEM,47.35,4,0,39,MIL,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (14 PTS),122-112,122,112
+0022100674,2022-01-19,MIL,MEM,47.35,4,0,39,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:1 Def:3),122-111,122,111
+0022100674,2022-01-19,MIL,MEM,47.65,4,0,21,MIL,MIL,fg_make,101,False,False,Middleton 2' Driving Floating Jump Shot (25 PTS),,124-112,124,112
+0022100674,2022-01-19,MIL,MEM,47.77,4,0,14,MEM,MEM,fg_make,6,False,False,,Morant 4' Driving Layup (33 PTS),124-114,124,114
+0022100674,2022-01-19,MIL,MEM,47.83,4,0,10,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (27 PTS),,126-114,126,114
+0022100674,2022-01-19,MIL,MEM,47.83,4,0,10,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (26 PTS),,125-114,125,114
+0022100674,2022-01-19,MIL,MEM,47.83,4,0,10,MIL,MEM,foul,28,False,False,,Jackson Jr. Personal Take Foul (P5.PN) (B.Forte),124-114,124,114
+0022100674,2022-01-19,MIL,MEM,47.95,4,0,3,MIL,MIL,reb,0,False,False,Hill REBOUND (Off:0 Def:6),,126-114,126,114
+0022100674,2022-01-19,MIL,MEM,47.95,4,0,3,MEM,MEM,fg_miss,6,True,False,,MISS Morant 2' Driving Layup,126-114,126,114
+0022100674,2022-01-19,MIL,MEM,47.95,4,0,3,MEM,MIL,block,6,True,False,block,block,126-114,126,114
+0022100674,2022-01-19,MIL,MEM,48.0,4,0,0,MIL,,period_end,0,False,False,,,126-114,126,114

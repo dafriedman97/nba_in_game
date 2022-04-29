@@ -1,0 +1,424 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900684,2020-01-25,PHI,LAL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900684,2020-01-25,PHI,LAL,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Horford vs. Howard: Tip to Bradley,,0-0,0,0
+0021900684,2020-01-25,PHI,LAL,0.35,1,11,39,LAL,LAL,tov,1,False,True,,Green Bad Pass Turnover (P1.T1),0-0,0,0
+0021900684,2020-01-25,PHI,LAL,0.35,1,11,39,LAL,PHI,steal,1,False,True,steal,steal,0-0,0,0
+0021900684,2020-01-25,PHI,LAL,0.45,1,11,33,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 3PT Jump Shot,,0-0,0,0
+0021900684,2020-01-25,PHI,LAL,0.53,1,11,28,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:1 Def:0),,0-0,0,0
+0021900684,2020-01-25,PHI,LAL,0.55,1,11,27,PHI,PHI,fg3_make,1,False,False,Harris 27' 3PT Jump Shot (3 PTS) (Thybulle 1 AST),,3-0,3,0
+0021900684,2020-01-25,PHI,LAL,0.85,1,11,9,LAL,LAL,fg_make,63,False,False,,Davis 13' Fadeaway Jumper (2 PTS),3-2,3,2
+0021900684,2020-01-25,PHI,LAL,0.98,1,11,1,PHI,LAL,foul,1,False,False,,Bradley P.FOUL (P1.T1) (D.Taylor),3-2,3,2
+0021900684,2020-01-25,PHI,LAL,1.17,1,10,50,PHI,PHI,fg_make,102,False,False,Harris 7' Driving Floating Bank Jump Shot (5 PTS),,5-2,5,2
+0021900684,2020-01-25,PHI,LAL,1.4,1,10,36,LAL,LAL,fg_make,1,False,False,,Davis 14' Jump Shot (4 PTS),5-4,5,4
+0021900684,2020-01-25,PHI,LAL,1.4,1,10,36,LAL,PHI,foul,2,False,False,Horford S.FOUL (P1.T1) (D.Taylor),,5-4,5,4
+0021900684,2020-01-25,PHI,LAL,1.4,1,10,36,LAL,LAL,ft_make,10,False,False,,Davis Free Throw 1 of 1 (5 PTS),5-5,5,5
+0021900684,2020-01-25,PHI,LAL,1.65,1,10,21,PHI,PHI,fg3_miss,1,False,False,MISS Horford 25' 3PT Jump Shot,,5-5,5,5
+0021900684,2020-01-25,PHI,LAL,1.7,1,10,18,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),5-5,5,5
+0021900684,2020-01-25,PHI,LAL,1.87,1,10,8,LAL,LAL,tov,2,False,True,,James Lost Ball Turnover (P1.T2),5-5,5,5
+0021900684,2020-01-25,PHI,LAL,1.87,1,10,8,LAL,PHI,steal,2,False,True,steal,steal,5-5,5,5
+0021900684,2020-01-25,PHI,LAL,2.17,1,9,50,PHI,PHI,fg3_miss,79,False,False,MISS Harris 27' 3PT Pullup Jump Shot,,5-5,5,5
+0021900684,2020-01-25,PHI,LAL,2.2,1,9,48,LAL,LAL,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),5-5,5,5
+0021900684,2020-01-25,PHI,LAL,2.28,1,9,43,LAL,PHI,foul,2,False,False,Milton S.FOUL (P1.T2) (D.Taylor),,5-5,5,5
+0021900684,2020-01-25,PHI,LAL,2.28,1,9,43,LAL,LAL,ft_miss,11,False,False,,MISS James Free Throw 1 of 2,5-5,5,5
+0021900684,2020-01-25,PHI,LAL,2.28,1,9,43,LAL,LAL,reb,1,False,False,,Lakers Rebound,5-5,5,5
+0021900684,2020-01-25,PHI,LAL,2.28,1,9,43,LAL,LAL,ft_make,12,False,False,,James Free Throw 2 of 2 (1 PTS),5-6,5,6
+0021900684,2020-01-25,PHI,LAL,2.45,1,9,33,PHI,PHI,tov,40,False,False,Milton Out of Bounds Lost Ball Turnover (P1.T1),,5-6,5,6
+0021900684,2020-01-25,PHI,LAL,2.63,1,9,22,LAL,LAL,fg_make,1,False,False,,Bradley 16' Jump Shot (2 PTS) (James 1 AST),5-8,5,8
+0021900684,2020-01-25,PHI,LAL,2.93,1,9,4,PHI,PHI,tov,39,False,False,Harris Step Out of Bounds Turnover (P1.T2),,5-8,5,8
+0021900684,2020-01-25,PHI,LAL,3.2,1,8,48,LAL,LAL,fg_miss,73,False,False,,MISS Davis 2' Driving Reverse Layup,5-8,5,8
+0021900684,2020-01-25,PHI,LAL,3.23,1,8,46,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:1),,5-8,5,8
+0021900684,2020-01-25,PHI,LAL,3.35,1,8,39,PHI,PHI,fg_make,9,False,False,Simmons 1' Driving Dunk (2 PTS),,7-8,7,8
+0021900684,2020-01-25,PHI,LAL,3.67,1,8,20,LAL,LAL,fg_miss,80,False,False,,MISS Davis 19' Step Back Jump Shot,7-8,7,8
+0021900684,2020-01-25,PHI,LAL,3.7,1,8,18,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:0),7-8,7,8
+0021900684,2020-01-25,PHI,LAL,3.75,1,8,15,LAL,LAL,fg_make,72,False,False,,Howard 1' Putback Layup (2 PTS),7-10,7,10
+0021900684,2020-01-25,PHI,LAL,3.87,1,8,8,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P1.T3),,7-10,7,10
+0021900684,2020-01-25,PHI,LAL,3.87,1,8,8,PHI,LAL,steal,1,False,True,steal,steal,7-10,7,10
+0021900684,2020-01-25,PHI,LAL,3.88,1,8,7,LAL,LAL,fg_make,41,False,False,,James 1' Running Layup (3 PTS),7-12,7,12
+0021900684,2020-01-25,PHI,LAL,3.88,1,8,7,LAL,PHI,foul,2,False,False,Harris S.FOUL (P1.T3) (K.Lane),,7-12,7,12
+0021900684,2020-01-25,PHI,LAL,3.88,1,8,7,LAL,LAL,ft_make,10,False,False,,James Free Throw 1 of 1 (4 PTS),7-13,7,13
+0021900684,2020-01-25,PHI,LAL,4.07,1,7,56,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,7-13,7,13
+0021900684,2020-01-25,PHI,LAL,4.13,1,7,52,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:1),7-13,7,13
+0021900684,2020-01-25,PHI,LAL,4.17,1,7,50,LAL,LAL,tov,45,False,False,,James Out of Bounds - Bad Pass Turnover Turnover (P2.T3),7-13,7,13
+0021900684,2020-01-25,PHI,LAL,4.37,1,7,38,PHI,PHI,fg_make,98,False,False,Milton 1' Cutting Layup Shot (2 PTS) (Simmons 1 AST),,9-13,9,13
+0021900684,2020-01-25,PHI,LAL,4.48,1,7,31,LAL,LAL,fg3_miss,103,False,False,,MISS James 27' 3PT Running Pull-Up Jump Shot,9-13,9,13
+0021900684,2020-01-25,PHI,LAL,4.55,1,7,27,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:1),,9-13,9,13
+0021900684,2020-01-25,PHI,LAL,4.62,1,7,23,PHI,PHI,fg_make,41,False,False,Simmons 4' Running Layup (4 PTS),,11-13,11,13
+0021900684,2020-01-25,PHI,LAL,4.85,1,7,9,LAL,LAL,tov,1,False,True,,Green Bad Pass Turnover (P2.T4),11-13,11,13
+0021900684,2020-01-25,PHI,LAL,4.85,1,7,9,LAL,PHI,steal,1,False,True,steal,steal,11-13,11,13
+0021900684,2020-01-25,PHI,LAL,4.97,1,7,2,,PHI,jump_ball,0,False,False,Jump Ball Horford vs. Davis: Tip to Thybulle,,11-13,11,13
+0021900684,2020-01-25,PHI,LAL,5.07,1,6,56,PHI,PHI,fg_make,5,False,False,Simmons 1' Layup (6 PTS) (Milton 1 AST),,13-13,13,13
+0021900684,2020-01-25,PHI,LAL,5.07,1,6,56,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),13-13,13,13
+0021900684,2020-01-25,PHI,LAL,5.42,1,6,35,LAL,LAL,fg3_make,1,False,False,,Bradley 24' 3PT Jump Shot (5 PTS) (James 2 AST),13-16,13,16
+0021900684,2020-01-25,PHI,LAL,5.77,1,6,14,PHI,LAL,foul,2,False,False,,Howard S.FOUL (P1.T2) (M.Davis),13-16,13,16
+0021900684,2020-01-25,PHI,LAL,5.77,1,6,14,PHI,PHI,ft_miss,11,False,False,MISS Harris Free Throw 1 of 2,,13-16,13,16
+0021900684,2020-01-25,PHI,LAL,5.77,1,6,14,PHI,PHI,reb,1,False,False,76ERS Rebound,,13-16,13,16
+0021900684,2020-01-25,PHI,LAL,5.77,1,6,14,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (6 PTS),,14-16,14,16
+0021900684,2020-01-25,PHI,LAL,6.07,1,5,56,LAL,LAL,fg3_miss,1,False,False,,MISS James 27' 3PT Jump Shot,14-16,14,16
+0021900684,2020-01-25,PHI,LAL,6.13,1,5,52,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:2),,14-16,14,16
+0021900684,2020-01-25,PHI,LAL,6.22,1,5,47,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 24' 3PT Jump Shot,,14-16,14,16
+0021900684,2020-01-25,PHI,LAL,6.27,1,5,44,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:2),14-16,14,16
+0021900684,2020-01-25,PHI,LAL,6.3,1,5,42,LAL,LAL,tov,2,False,True,,Davis Lost Ball Turnover (P1.T5),14-16,14,16
+0021900684,2020-01-25,PHI,LAL,6.3,1,5,42,LAL,PHI,steal,2,False,True,steal,steal,14-16,14,16
+0021900684,2020-01-25,PHI,LAL,6.47,1,5,32,PHI,PHI,fg3_make,1,False,False,Thybulle 24' 3PT Jump Shot (3 PTS) (Milton 2 AST),,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,6.68,1,5,19,LAL,LAL,tov,1,False,True,,James Bad Pass Turnover (P3.T6),17-16,17,16
+0021900684,2020-01-25,PHI,LAL,6.68,1,5,19,LAL,PHI,steal,1,False,True,steal,steal,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,6.75,1,5,15,PHI,PHI,tov,39,False,False,Harris Step Out of Bounds Turnover (P2.T4),,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.03,1,4,58,LAL,LAL,fg_miss,3,False,False,,MISS Davis 3' Hook Shot,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.07,1,4,56,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.15,1,4,51,PHI,PHI,fg_miss,93,False,False,MISS Harris 6' Driving Bank Hook Shot,,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.2,1,4,48,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:3),17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.28,1,4,43,LAL,LAL,fg_miss,41,False,False,,MISS Davis 2' Running Layup,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.32,1,4,41,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.4,1,4,36,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,17-16,17,16
+0021900684,2020-01-25,PHI,LAL,7.53,1,4,28,PHI,PHI,fg3_make,1,False,False,Harris 24' 3PT Jump Shot (9 PTS) (Neto 1 AST),,20-16,20,16
+0021900684,2020-01-25,PHI,LAL,7.92,1,4,5,LAL,LAL,fg_make,6,False,False,,James 2' Driving Layup (6 PTS),20-18,20,18
+0021900684,2020-01-25,PHI,LAL,8.3,1,3,42,PHI,PHI,fg3_make,1,False,False,Neto 26' 3PT Jump Shot (3 PTS) (Harris 1 AST),,23-18,23,18
+0021900684,2020-01-25,PHI,LAL,8.55,1,3,27,LAL,LAL,tov,1,False,True,,Davis Bad Pass Turnover (P2.T7),23-18,23,18
+0021900684,2020-01-25,PHI,LAL,8.55,1,3,27,LAL,PHI,steal,1,False,True,steal,steal,23-18,23,18
+0021900684,2020-01-25,PHI,LAL,8.78,1,3,13,PHI,PHI,fg_make,1,False,False,Horford 17' Jump Shot (2 PTS),,25-18,25,18
+0021900684,2020-01-25,PHI,LAL,9.03,1,2,58,LAL,LAL,tov,45,False,False,,James Out of Bounds - Bad Pass Turnover Turnover (P4.T8),25-18,25,18
+0021900684,2020-01-25,PHI,LAL,9.2,1,2,48,PHI,PHI,fg_make,75,False,False,Simmons 1' Driving Finger Roll Layup (8 PTS),,27-18,27,18
+0021900684,2020-01-25,PHI,LAL,9.45,1,2,33,PHI,LAL,foul,4,False,False,,Davis OFF.Foul (P1) (M.Davis),27-18,27,18
+0021900684,2020-01-25,PHI,LAL,9.45,1,2,33,LAL,LAL,tov,37,False,False,,Davis Offensive Foul Turnover (P3.T9),27-18,27,18
+0021900684,2020-01-25,PHI,LAL,9.67,1,2,20,PHI,PHI,fg3_make,1,False,False,Korkmaz 26' 3PT Jump Shot (3 PTS) (Neto 2 AST),,30-18,30,18
+0021900684,2020-01-25,PHI,LAL,9.7,1,2,18,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.2 Short 0),30-18,30,18
+0021900684,2020-01-25,PHI,LAL,10.0,1,2,0,LAL,LAL,fg_make,101,False,False,,Davis 5' Driving Floating Jump Shot (7 PTS) (Rondo 1 AST),30-20,30,20
+0021900684,2020-01-25,PHI,LAL,10.0,1,2,0,LAL,PHI,foul,2,False,False,Scott S.FOUL (P1.T4) (M.Davis),,30-20,30,20
+0021900684,2020-01-25,PHI,LAL,10.0,1,2,0,LAL,LAL,ft_make,10,False,False,,Davis Free Throw 1 of 1 (8 PTS),30-21,30,21
+0021900684,2020-01-25,PHI,LAL,10.3,1,1,42,LAL,PHI,foul,4,False,False,Simmons OFF.Foul (P1) (M.Davis),,30-21,30,21
+0021900684,2020-01-25,PHI,LAL,10.3,1,1,42,PHI,PHI,tov,37,False,False,Simmons Offensive Foul Turnover (P2.T5),,30-21,30,21
+0021900684,2020-01-25,PHI,LAL,10.52,1,1,29,LAL,LAL,fg_make,75,False,False,,Rondo 2' Driving Finger Roll Layup (2 PTS),30-23,30,23
+0021900684,2020-01-25,PHI,LAL,10.87,1,1,8,PHI,PHI,tov,2,False,True,Neto Lost Ball Turnover (P1.T6),,30-23,30,23
+0021900684,2020-01-25,PHI,LAL,10.87,1,1,8,PHI,LAL,steal,2,False,True,steal,steal,30-23,30,23
+0021900684,2020-01-25,PHI,LAL,11.0,1,1,0,LAL,LAL,fg_make,9,False,False,,Davis 1' Driving Dunk (10 PTS) (Kuzma 1 AST),30-25,30,25
+0021900684,2020-01-25,PHI,LAL,11.37,1,0,38,PHI,PHI,fg3_make,1,False,False,Korkmaz 26' 3PT Jump Shot (6 PTS) (Smith 1 AST),,33-25,33,25
+0021900684,2020-01-25,PHI,LAL,11.48,1,0,31,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 25' 3PT Jump Shot,33-25,33,25
+0021900684,2020-01-25,PHI,LAL,11.52,1,0,29,PHI,PHI,reb,0,False,False,76ERS Rebound,,33-25,33,25
+0021900684,2020-01-25,PHI,LAL,11.52,1,0,29,PHI,LAL,foul,3,False,False,,Kuzma L.B.FOUL (P1.T3) (K.Lane),33-25,33,25
+0021900684,2020-01-25,PHI,LAL,11.88,1,0,7,PHI,PHI,fg_miss,5,False,False,MISS Simmons 2' Layup,,33-25,33,25
+0021900684,2020-01-25,PHI,LAL,11.9,1,0,6,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:0),,33-25,33,25
+0021900684,2020-01-25,PHI,LAL,11.92,1,0,5,PHI,PHI,fg_make,97,False,False,Scott 1' Tip Layup Shot (2 PTS),,35-25,35,25
+0021900684,2020-01-25,PHI,LAL,12.0,1,0,0,PHI,,period_end,0,False,False,,,35-25,35,25
+0021900684,2020-01-25,PHI,LAL,12.0,2,12,0,PHI,,period_start,0,False,False,,,35-25,35,25
+0021900684,2020-01-25,PHI,LAL,12.35,2,11,39,PHI,PHI,fg3_miss,104,False,False,MISS Neto 26' 3PT Step Back Bank Jump Shot,,35-25,35,25
+0021900684,2020-01-25,PHI,LAL,12.42,2,11,35,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:2),35-25,35,25
+0021900684,2020-01-25,PHI,LAL,12.5,2,11,30,LAL,LAL,fg_make,76,False,False,,James 1' Running Finger Roll Layup (8 PTS),35-27,35,27
+0021900684,2020-01-25,PHI,LAL,12.77,2,11,14,PHI,PHI,fg_make,47,False,False,Harris 5' Turnaround Jump Shot (11 PTS),,37-27,37,27
+0021900684,2020-01-25,PHI,LAL,13.13,2,10,52,LAL,PHI,foul,2,False,False,Milton S.FOUL (P2.T1) (M.Davis),,37-27,37,27
+0021900684,2020-01-25,PHI,LAL,13.13,2,10,52,LAL,LAL,ft_make,11,False,False,,James Free Throw 1 of 2 (9 PTS),37-28,37,28
+0021900684,2020-01-25,PHI,LAL,13.13,2,10,52,LAL,LAL,ft_make,12,False,False,,James Free Throw 2 of 2 (10 PTS),37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.33,2,10,40,PHI,PHI,fg_miss,80,False,False,MISS Harris 11' Step Back Jump Shot,,37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.37,2,10,38,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:3),37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.38,2,10,37,LAL,PHI,foul,28,False,False,Neto Personal Take Foul (P1.T2) (K.Lane),,37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.52,2,10,29,LAL,LAL,fg3_miss,1,False,False,,MISS Kuzma 25' 3PT Jump Shot,37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.57,2,10,26,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:0 Def:1),,37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.82,2,10,11,PHI,PHI,fg3_miss,1,False,False,MISS Ennis III 25' 3PT Jump Shot,,37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.9,2,10,6,LAL,LAL,reb,0,False,False,,Dudley REBOUND (Off:0 Def:1),37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.97,2,10,2,LAL,PHI,foul,2,False,False,Ennis III S.FOUL (P1.T3) (D.Taylor),,37-29,37,29
+0021900684,2020-01-25,PHI,LAL,13.97,2,10,2,LAL,LAL,ft_make,11,False,False,,James Free Throw 1 of 2 (11 PTS),37-30,37,30
+0021900684,2020-01-25,PHI,LAL,13.97,2,10,2,LAL,LAL,ft_make,12,False,False,,James Free Throw 2 of 2 (12 PTS),37-31,37,31
+0021900684,2020-01-25,PHI,LAL,14.12,2,9,53,PHI,LAL,foul,1,False,False,,James P.FOUL (P1.T1) (K.Lane),37-31,37,31
+0021900684,2020-01-25,PHI,LAL,14.38,2,9,37,PHI,PHI,fg3_miss,1,False,False,MISS Milton 26' 3PT Jump Shot,,37-31,37,31
+0021900684,2020-01-25,PHI,LAL,14.43,2,9,34,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:2),,37-31,37,31
+0021900684,2020-01-25,PHI,LAL,14.43,2,9,34,PHI,LAL,foul,2,False,False,,James S.FOUL (P2.T2) (M.Davis),37-31,37,31
+0021900684,2020-01-25,PHI,LAL,14.43,2,9,34,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (12 PTS),,38-31,38,31
+0021900684,2020-01-25,PHI,LAL,14.43,2,9,34,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (13 PTS),,39-31,39,31
+0021900684,2020-01-25,PHI,LAL,14.8,2,9,12,LAL,LAL,fg3_miss,1,False,False,,MISS Rondo 26' 3PT Jump Shot,39-31,39,31
+0021900684,2020-01-25,PHI,LAL,14.85,2,9,9,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:1),,39-31,39,31
+0021900684,2020-01-25,PHI,LAL,15.07,2,8,56,PHI,PHI,fg3_miss,1,False,False,MISS Milton 26' 3PT Jump Shot,,39-31,39,31
+0021900684,2020-01-25,PHI,LAL,15.12,2,8,53,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:0 Def:1),39-31,39,31
+0021900684,2020-01-25,PHI,LAL,15.23,2,8,46,LAL,LAL,fg_make,47,False,False,,Kuzma 3' Turnaround Jump Shot (2 PTS) (Rondo 2 AST),39-33,39,33
+0021900684,2020-01-25,PHI,LAL,15.63,2,8,22,PHI,PHI,fg_miss,6,False,False,MISS Ennis III 3' Driving Layup,,39-33,39,33
+0021900684,2020-01-25,PHI,LAL,15.68,2,8,19,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:4),39-33,39,33
+0021900684,2020-01-25,PHI,LAL,15.77,2,8,14,LAL,LAL,fg_miss,76,False,False,,MISS James 3' Running Finger Roll Layup,39-33,39,33
+0021900684,2020-01-25,PHI,LAL,15.8,2,8,12,PHI,PHI,reb,0,False,False,Neto REBOUND (Off:0 Def:1),,39-33,39,33
+0021900684,2020-01-25,PHI,LAL,15.95,2,8,3,PHI,PHI,fg_make,5,False,False,Ennis III 3' Layup (2 PTS) (Neto 3 AST),,41-33,41,33
+0021900684,2020-01-25,PHI,LAL,15.98,2,8,1,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.3 Short 0),41-33,41,33
+0021900684,2020-01-25,PHI,LAL,15.98,2,8,1,PHI,LAL,foul,11,False,False,,Caldwell-Pope T.FOUL (P0.T2) (M.Davis),41-33,41,33
+0021900684,2020-01-25,PHI,LAL,15.98,2,8,1,PHI,PHI,ft_make,16,False,False,Harris Free Throw Technical (14 PTS),,42-33,42,33
+0021900684,2020-01-25,PHI,LAL,16.23,2,7,46,LAL,LAL,fg3_make,1,False,False,,Dudley 24' 3PT Jump Shot (3 PTS) (James 3 AST),42-36,42,36
+0021900684,2020-01-25,PHI,LAL,16.57,2,7,26,PHI,PHI,fg_miss,71,False,False,MISS Simmons 1' Finger Roll Layup,,42-36,42,36
+0021900684,2020-01-25,PHI,LAL,16.6,2,7,24,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:5),42-36,42,36
+0021900684,2020-01-25,PHI,LAL,16.9,2,7,6,LAL,LAL,fg3_miss,1,False,False,,MISS Kuzma 25' 3PT Jump Shot,42-36,42,36
+0021900684,2020-01-25,PHI,LAL,16.95,2,7,3,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:3),,42-36,42,36
+0021900684,2020-01-25,PHI,LAL,17.23,2,6,46,PHI,PHI,fg_make,71,False,False,Horford 2' Finger Roll Layup (4 PTS),,44-36,44,36
+0021900684,2020-01-25,PHI,LAL,17.38,2,6,37,LAL,LAL,fg3_miss,1,False,False,,MISS Dudley 27' 3PT Jump Shot,44-36,44,36
+0021900684,2020-01-25,PHI,LAL,17.45,2,6,33,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:4),,44-36,44,36
+0021900684,2020-01-25,PHI,LAL,17.7,2,6,18,PHI,PHI,fg_make,79,False,False,Harris 10' Pullup Jump Shot (16 PTS),,46-36,46,36
+0021900684,2020-01-25,PHI,LAL,17.92,2,6,5,LAL,LAL,fg3_miss,1,False,False,,MISS Rondo 26' 3PT Jump Shot,46-36,46,36
+0021900684,2020-01-25,PHI,LAL,17.97,2,6,2,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:5),,46-36,46,36
+0021900684,2020-01-25,PHI,LAL,18.02,2,5,59,PHI,LAL,foul,1,False,False,,Dudley P.FOUL (P1.T3) (D.Taylor),46-36,46,36
+0021900684,2020-01-25,PHI,LAL,18.18,2,5,49,PHI,PHI,tov,2,False,True,Thybulle Lost Ball Turnover (P1.T7),,46-36,46,36
+0021900684,2020-01-25,PHI,LAL,18.18,2,5,49,PHI,LAL,steal,2,False,True,steal,steal,46-36,46,36
+0021900684,2020-01-25,PHI,LAL,18.25,2,5,45,LAL,PHI,foul,2,False,False,Harris S.FOUL (P2.T4) (M.Davis),,46-36,46,36
+0021900684,2020-01-25,PHI,LAL,18.25,2,5,45,LAL,LAL,ft_make,11,False,False,,Caruso Free Throw 1 of 2 (1 PTS),46-37,46,37
+0021900684,2020-01-25,PHI,LAL,18.25,2,5,45,LAL,LAL,ft_make,12,False,False,,Caruso Free Throw 2 of 2 (2 PTS),46-38,46,38
+0021900684,2020-01-25,PHI,LAL,18.42,2,5,35,PHI,PHI,fg3_miss,1,False,False,MISS Horford 27' 3PT Jump Shot,,46-38,46,38
+0021900684,2020-01-25,PHI,LAL,18.47,2,5,32,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:1),46-38,46,38
+0021900684,2020-01-25,PHI,LAL,18.72,2,5,17,LAL,LAL,fg3_miss,1,False,False,,MISS Caldwell-Pope 3PT Jump Shot,46-38,46,38
+0021900684,2020-01-25,PHI,LAL,18.75,2,5,15,PHI,PHI,reb,0,False,False,76ERS Rebound,,46-38,46,38
+0021900684,2020-01-25,PHI,LAL,18.75,2,5,15,PHI,LAL,foul,3,False,False,,Davis L.B.FOUL (P2.T4) (K.Lane),46-38,46,38
+0021900684,2020-01-25,PHI,LAL,18.95,2,5,3,PHI,PHI,tov,1,False,True,Neto Bad Pass Turnover (P2.T8),,46-38,46,38
+0021900684,2020-01-25,PHI,LAL,18.95,2,5,3,PHI,LAL,steal,1,False,True,steal,steal,46-38,46,38
+0021900684,2020-01-25,PHI,LAL,19.03,2,4,58,LAL,LAL,fg_make,76,False,False,,Green 2' Running Finger Roll Layup (2 PTS) (Caruso 1 AST),46-40,46,40
+0021900684,2020-01-25,PHI,LAL,19.37,2,4,38,PHI,LAL,foul,1,False,False,,Green P.FOUL (P1.PN) (D.Taylor),46-40,46,40
+0021900684,2020-01-25,PHI,LAL,19.37,2,4,38,PHI,PHI,ft_miss,11,False,False,MISS Neto Free Throw 1 of 2,,46-40,46,40
+0021900684,2020-01-25,PHI,LAL,19.37,2,4,38,PHI,PHI,reb,1,False,False,76ERS Rebound,,46-40,46,40
+0021900684,2020-01-25,PHI,LAL,19.37,2,4,38,PHI,PHI,ft_make,12,False,False,Neto Free Throw 2 of 2 (4 PTS),,47-40,47,40
+0021900684,2020-01-25,PHI,LAL,19.52,2,4,29,LAL,LAL,fg_make,47,False,False,,Davis 10' Turnaround Jump Shot (12 PTS),47-42,47,42
+0021900684,2020-01-25,PHI,LAL,19.85,2,4,9,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P1.T9),,47-42,47,42
+0021900684,2020-01-25,PHI,LAL,19.85,2,4,9,PHI,LAL,steal,1,False,True,steal,steal,47-42,47,42
+0021900684,2020-01-25,PHI,LAL,20.03,2,3,58,LAL,LAL,fg_make,101,False,False,,Davis 5' Driving Floating Jump Shot (14 PTS) (Bradley 1 AST),47-44,47,44
+0021900684,2020-01-25,PHI,LAL,20.03,2,3,58,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,47-44,47,44
+0021900684,2020-01-25,PHI,LAL,20.33,2,3,40,PHI,PHI,fg3_make,1,False,False,Horford 27' 3PT Jump Shot (7 PTS) (Korkmaz 1 AST),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.42,2,3,35,LAL,PHI,foul,28,False,False,Neto Personal Take Foul (P2.PN) (M.Davis),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.42,2,3,35,LAL,LAL,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.42,2,3,35,LAL,LAL,reb,1,False,False,,Lakers Rebound,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.42,2,3,35,LAL,LAL,ft_miss,12,False,False,,MISS Howard Free Throw 2 of 2,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.47,2,3,32,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:1),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.77,2,3,14,PHI,PHI,tov,40,False,False,Scott Out of Bounds Lost Ball Turnover (P1.T10),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.8,2,3,12,LAL,PHI,foul,28,False,False,Scott Personal Take Foul (P2.PN) (D.Taylor),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.8,2,3,12,LAL,LAL,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.8,2,3,12,LAL,LAL,reb,1,False,False,,Lakers Rebound,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.8,2,3,12,LAL,LAL,ft_miss,12,False,False,,MISS Howard Free Throw 2 of 2,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,20.83,2,3,10,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:2),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.07,2,2,56,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 27' 3PT Jump Shot,,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.13,2,2,52,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:4),50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.15,2,2,51,LAL,LAL,tov,1,False,True,,Davis Bad Pass Turnover (P4.T10),50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.15,2,2,51,LAL,PHI,steal,1,False,True,steal,steal,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.23,2,2,46,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.28,2,2,43,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:2),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.32,2,2,41,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.37,2,2,38,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:2),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.4,2,2,36,PHI,PHI,fg3_miss,1,False,False,MISS Scott 3PT Jump Shot,,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.43,2,2,34,LAL,LAL,reb,0,False,False,,Lakers Rebound,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.43,2,2,34,LAL,PHI,foul,3,False,False,Simmons L.B.FOUL (P2.PN) (K.Lane),,50-44,50,44
+0021900684,2020-01-25,PHI,LAL,21.43,2,2,34,LAL,LAL,ft_make,11,False,False,,James Free Throw 1 of 2 (13 PTS),50-45,50,45
+0021900684,2020-01-25,PHI,LAL,21.43,2,2,34,LAL,LAL,ft_miss,12,False,False,,MISS James Free Throw 2 of 2,50-45,50,45
+0021900684,2020-01-25,PHI,LAL,21.48,2,2,31,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:2),,50-45,50,45
+0021900684,2020-01-25,PHI,LAL,21.67,2,2,20,PHI,PHI,tov,4,False,False,Korkmaz Traveling Turnover (P2.T11),,50-45,50,45
+0021900684,2020-01-25,PHI,LAL,21.87,2,2,8,LAL,LAL,fg_make,52,False,False,,Davis 1' Alley Oop Dunk (16 PTS) (James 4 AST),50-47,50,47
+0021900684,2020-01-25,PHI,LAL,21.98,2,2,1,PHI,LAL,foul,1,False,False,,Davis P.FOUL (P3.PN) (M.Davis),50-47,50,47
+0021900684,2020-01-25,PHI,LAL,21.98,2,2,1,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (9 PTS),,51-47,51,47
+0021900684,2020-01-25,PHI,LAL,21.98,2,2,1,PHI,PHI,ft_miss,12,False,False,MISS Simmons Free Throw 2 of 2,,51-47,51,47
+0021900684,2020-01-25,PHI,LAL,22.02,2,1,59,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:6),51-47,51,47
+0021900684,2020-01-25,PHI,LAL,22.02,2,1,59,LAL,PHI,foul,6,False,False,Korkmaz AWAY.FROM.PLAY.FOUL (P1.PN) (M.Davis),,51-47,51,47
+0021900684,2020-01-25,PHI,LAL,22.02,2,1,59,LAL,LAL,ft_make,10,False,False,,James Free Throw 1 of 1 (14 PTS),51-48,51,48
+0021900684,2020-01-25,PHI,LAL,22.22,2,1,47,LAL,LAL,fg3_miss,1,False,False,,MISS James 26' 3PT Jump Shot,51-48,51,48
+0021900684,2020-01-25,PHI,LAL,22.28,2,1,43,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:1),51-48,51,48
+0021900684,2020-01-25,PHI,LAL,22.43,2,1,34,LAL,LAL,fg3_miss,1,False,False,,MISS Bradley 25' 3PT Jump Shot,51-48,51,48
+0021900684,2020-01-25,PHI,LAL,22.43,2,1,34,PHI,PHI,reb,0,False,False,76ERS Rebound,,51-48,51,48
+0021900684,2020-01-25,PHI,LAL,22.45,2,1,33,PHI,LAL,foul,3,False,False,,Howard L.B.FOUL (P2.PN) (M.Davis),51-48,51,48
+0021900684,2020-01-25,PHI,LAL,22.45,2,1,33,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (10 PTS),,52-48,52,48
+0021900684,2020-01-25,PHI,LAL,22.45,2,1,33,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (11 PTS),,53-48,53,48
+0021900684,2020-01-25,PHI,LAL,22.62,2,1,23,LAL,LAL,tov,40,False,False,,Green Out of Bounds Lost Ball Turnover (P3.T11),53-48,53,48
+0021900684,2020-01-25,PHI,LAL,22.85,2,1,9,PHI,PHI,fg3_make,1,False,False,Korkmaz 27' 3PT Jump Shot (9 PTS) (Horford 1 AST),,56-48,56,48
+0021900684,2020-01-25,PHI,LAL,22.98,2,1,1,PHI,LAL,foul,26,False,False,,James Offensive Charge Foul (P3.PN) (D.Taylor),56-48,56,48
+0021900684,2020-01-25,PHI,LAL,22.98,2,1,1,LAL,LAL,tov,37,False,False,,James Offensive Foul Turnover (P5.T12),56-48,56,48
+0021900684,2020-01-25,PHI,LAL,23.17,2,0,50,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 25' 3PT Jump Shot,,56-48,56,48
+0021900684,2020-01-25,PHI,LAL,23.22,2,0,47,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:2),56-48,56,48
+0021900684,2020-01-25,PHI,LAL,23.32,2,0,41,LAL,LAL,fg_make,44,False,False,,Bradley 1' Reverse Layup (7 PTS) (Caruso 2 AST),56-50,56,50
+0021900684,2020-01-25,PHI,LAL,23.53,2,0,28,PHI,PHI,fg3_make,1,False,False,Thybulle 25' 3PT Jump Shot (6 PTS) (Simmons 2 AST),,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,23.7,2,0,18,LAL,LAL,fg3_miss,80,False,False,,MISS Kuzma 25' 3PT Step Back Jump Shot,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,23.75,2,0,15,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:3),,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,23.98,2,0,1,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 24' 3PT Jump Shot,,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,23.98,2,0,1,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:1),59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.0,2,0,0,LAL,,period_end,0,False,False,,,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.0,3,12,0,LAL,,period_start,0,False,False,,,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.28,3,11,43,PHI,PHI,fg_miss,86,False,False,MISS Harris 15' Turnaround Fadeaway Shot,,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.33,3,11,40,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:5),59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.5,3,11,30,LAL,LAL,fg_miss,1,False,False,,MISS James 20' Jump Shot,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.55,3,11,27,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:2),,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.65,3,11,21,PHI,PHI,fg3_miss,1,False,False,MISS Harris 27' 3PT Jump Shot,,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.7,3,11,18,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:5),,59-50,59,50
+0021900684,2020-01-25,PHI,LAL,24.7,3,11,18,PHI,PHI,fg_make,99,False,False,Simmons 1' Cutting Finger Roll Layup Shot (13 PTS) (Milton 3 AST),,61-50,61,50
+0021900684,2020-01-25,PHI,LAL,24.7,3,11,18,PHI,LAL,foul,2,False,False,,Bradley S.FOUL (P2.T1) (K.Lane),61-50,61,50
+0021900684,2020-01-25,PHI,LAL,24.7,3,11,18,PHI,PHI,ft_make,10,False,False,Simmons Free Throw 1 of 1 (14 PTS),,62-50,62,50
+0021900684,2020-01-25,PHI,LAL,24.85,3,11,9,LAL,LAL,fg_miss,1,False,False,,MISS Davis 15' Jump Shot,62-50,62,50
+0021900684,2020-01-25,PHI,LAL,24.88,3,11,7,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:3),,62-50,62,50
+0021900684,2020-01-25,PHI,LAL,24.93,3,11,4,PHI,PHI,tov,4,False,False,Simmons Traveling Turnover (P3.T12),,62-50,62,50
+0021900684,2020-01-25,PHI,LAL,25.22,3,10,47,LAL,LAL,fg_make,98,False,False,,James 1' Cutting Layup Shot (16 PTS) (Davis 1 AST),62-52,62,52
+0021900684,2020-01-25,PHI,LAL,25.35,3,10,39,PHI,PHI,fg3_make,1,False,False,Milton 26' 3PT Jump Shot (5 PTS) (Simmons 3 AST),,65-52,65,52
+0021900684,2020-01-25,PHI,LAL,25.8,3,10,12,LAL,LAL,fg_miss,47,False,False,,MISS Davis 3' Turnaround Jump Shot,65-52,65,52
+0021900684,2020-01-25,PHI,LAL,25.8,3,10,12,LAL,LAL,reb,0,False,False,,Green REBOUND (Off:1 Def:0),65-52,65,52
+0021900684,2020-01-25,PHI,LAL,25.8,3,10,12,LAL,LAL,tov,11,False,False,,Lakers Turnover: Shot Clock (T#13),65-52,65,52
+0021900684,2020-01-25,PHI,LAL,26.12,3,9,53,PHI,PHI,fg_miss,101,False,False,MISS Harris 8' Driving Floating Jump Shot,,65-52,65,52
+0021900684,2020-01-25,PHI,LAL,26.15,3,9,51,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:6),65-52,65,52
+0021900684,2020-01-25,PHI,LAL,26.3,3,9,42,LAL,LAL,fg3_miss,63,False,False,,MISS James 26' 3PT Fadeaway Jumper,65-52,65,52
+0021900684,2020-01-25,PHI,LAL,26.35,3,9,39,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:3),,65-52,65,52
+0021900684,2020-01-25,PHI,LAL,26.43,3,9,34,PHI,PHI,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (19 PTS) (Simmons 4 AST),,68-52,68,52
+0021900684,2020-01-25,PHI,LAL,26.47,3,9,32,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.4 Short 0),68-52,68,52
+0021900684,2020-01-25,PHI,LAL,26.85,3,9,9,LAL,LAL,fg_miss,80,False,False,,MISS James 20' Step Back Jump Shot,68-52,68,52
+0021900684,2020-01-25,PHI,LAL,26.92,3,9,5,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:3 Def:2),68-52,68,52
+0021900684,2020-01-25,PHI,LAL,26.93,3,9,4,LAL,LAL,fg3_miss,1,False,False,,MISS Davis 26' 3PT Jump Shot,68-52,68,52
+0021900684,2020-01-25,PHI,LAL,26.98,3,9,1,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:4),,68-52,68,52
+0021900684,2020-01-25,PHI,LAL,27.23,3,8,46,PHI,PHI,fg_make,93,False,False,Simmons 3' Driving Bank Hook Shot (16 PTS),,70-52,70,52
+0021900684,2020-01-25,PHI,LAL,27.35,3,8,39,LAL,LAL,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,70-52,70,52
+0021900684,2020-01-25,PHI,LAL,27.4,3,8,36,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:4),,70-52,70,52
+0021900684,2020-01-25,PHI,LAL,27.6,3,8,24,PHI,PHI,fg_make,79,False,False,Harris 14' Pullup Jump Shot (21 PTS),,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,27.87,3,8,8,LAL,LAL,fg_miss,79,False,False,,MISS Green 15' Pullup Jump Shot,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,27.92,3,8,5,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:6),,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,27.93,3,8,4,PHI,LAL,foul,2,False,False,,Bradley S.FOUL (P3.T2) (D.Taylor),72-52,72,52
+0021900684,2020-01-25,PHI,LAL,27.93,3,8,4,PHI,PHI,ft_miss,11,False,False,MISS Milton Free Throw 1 of 2,,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,27.93,3,8,4,PHI,PHI,reb,1,False,False,76ERS Rebound,,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,27.93,3,8,4,PHI,PHI,ft_miss,12,False,False,MISS Milton Free Throw 2 of 2,,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,27.98,3,8,1,LAL,LAL,reb,0,False,False,,Green REBOUND (Off:1 Def:1),72-52,72,52
+0021900684,2020-01-25,PHI,LAL,28.2,3,7,48,LAL,LAL,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,28.27,3,7,44,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:7),,72-52,72,52
+0021900684,2020-01-25,PHI,LAL,28.42,3,7,35,PHI,PHI,fg_make,9,False,False,Harris Driving Dunk (23 PTS),,74-52,74,52
+0021900684,2020-01-25,PHI,LAL,28.42,3,7,35,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.5 Short 0),74-52,74,52
+0021900684,2020-01-25,PHI,LAL,28.63,3,7,22,LAL,LAL,fg_make,6,False,False,,James 1' Driving Layup (18 PTS) (Davis 2 AST),74-54,74,54
+0021900684,2020-01-25,PHI,LAL,28.92,3,7,5,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 26' 3PT Jump Shot,,74-54,74,54
+0021900684,2020-01-25,PHI,LAL,28.97,3,7,2,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:7),74-54,74,54
+0021900684,2020-01-25,PHI,LAL,29.07,3,6,56,LAL,LAL,fg_make,43,False,False,,Davis 1' Alley Oop Layup (18 PTS) (James 5 AST),74-56,74,56
+0021900684,2020-01-25,PHI,LAL,29.07,3,6,56,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,74-56,74,56
+0021900684,2020-01-25,PHI,LAL,29.35,3,6,39,PHI,PHI,fg_make,73,False,False,Harris 2' Driving Reverse Layup (25 PTS),,76-56,76,56
+0021900684,2020-01-25,PHI,LAL,29.68,3,6,19,PHI,LAL,foul,4,False,False,,Kuzma OFF.Foul (P2) (M.Davis),76-56,76,56
+0021900684,2020-01-25,PHI,LAL,29.68,3,6,19,LAL,LAL,tov,37,False,False,,Kuzma Offensive Foul Turnover (P1.T14),76-56,76,56
+0021900684,2020-01-25,PHI,LAL,30.0,3,6,0,PHI,PHI,fg3_miss,79,False,False,MISS Harris 28' 3PT Pullup Jump Shot,,76-56,76,56
+0021900684,2020-01-25,PHI,LAL,30.05,3,5,57,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:2),76-56,76,56
+0021900684,2020-01-25,PHI,LAL,30.27,3,5,44,LAL,LAL,tov,13,False,False,,James Backcourt Turnover (P6.T15),76-56,76,56
+0021900684,2020-01-25,PHI,LAL,30.45,3,5,33,PHI,PHI,fg_make,101,False,False,Simmons 3' Driving Floating Jump Shot (18 PTS),,78-56,78,56
+0021900684,2020-01-25,PHI,LAL,30.67,3,5,20,LAL,LAL,fg3_make,1,False,False,,Davis 26' 3PT Jump Shot (21 PTS) (James 6 AST),78-59,78,59
+0021900684,2020-01-25,PHI,LAL,31.07,3,4,56,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,78-59,78,59
+0021900684,2020-01-25,PHI,LAL,31.1,3,4,54,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:3),78-59,78,59
+0021900684,2020-01-25,PHI,LAL,31.38,3,4,37,LAL,LAL,fg_make,79,False,False,,Caldwell-Pope 20' Pullup Jump Shot (2 PTS) (James 7 AST),78-61,78,61
+0021900684,2020-01-25,PHI,LAL,31.87,3,4,8,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#13),,78-61,78,61
+0021900684,2020-01-25,PHI,LAL,32.22,3,3,47,LAL,LAL,fg3_make,1,False,False,,Davis 24' 3PT Jump Shot (24 PTS) (James 8 AST),78-64,78,64
+0021900684,2020-01-25,PHI,LAL,32.55,3,3,27,PHI,PHI,fg_make,73,False,False,Simmons 1' Driving Reverse Layup (20 PTS),,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,32.6,3,3,24,LAL,PHI,foul,11,False,False,Simmons T.FOUL (P2.T0) (K.Lane),,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,32.6,3,3,24,LAL,LAL,ft_miss,16,False,False,,MISS Davis Free Throw Technical,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,32.6,3,3,24,LAL,LAL,reb,1,False,False,,Lakers Rebound,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,32.75,3,3,15,LAL,LAL,tov,39,False,False,,Davis Step Out of Bounds Turnover (P5.T16),80-64,80,64
+0021900684,2020-01-25,PHI,LAL,33.13,3,2,52,PHI,PHI,tov,1,False,True,Horford Bad Pass Turnover (P1.T14),,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,33.13,3,2,52,PHI,LAL,steal,1,False,True,steal,steal,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,33.22,3,2,47,LAL,LAL,fg_miss,41,False,False,,MISS Kuzma 1' Running Layup,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,33.3,3,2,42,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:3),,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,33.3,3,2,42,LAL,PHI,foul,26,False,False,Korkmaz Offensive Charge Foul (P2.T1) (D.Taylor),,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,33.3,3,2,42,PHI,PHI,tov,37,False,False,Korkmaz Offensive Foul Turnover (P3.T15),,80-64,80,64
+0021900684,2020-01-25,PHI,LAL,33.5,3,2,30,LAL,LAL,fg_make,52,False,False,,Davis 2' Alley Oop Dunk (26 PTS) (Rondo 3 AST),80-66,80,66
+0021900684,2020-01-25,PHI,LAL,33.73,3,2,16,PHI,PHI,fg3_miss,1,False,False,MISS Horford 27' 3PT Jump Shot,,80-66,80,66
+0021900684,2020-01-25,PHI,LAL,33.78,3,2,13,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:4),80-66,80,66
+0021900684,2020-01-25,PHI,LAL,33.87,3,2,8,LAL,LAL,fg_make,6,False,False,,Kuzma 1' Driving Layup (4 PTS) (Rondo 4 AST),80-68,80,68
+0021900684,2020-01-25,PHI,LAL,34.1,3,1,54,PHI,PHI,tov,1,False,True,Horford Bad Pass Turnover (P2.T16),,80-68,80,68
+0021900684,2020-01-25,PHI,LAL,34.1,3,1,54,PHI,LAL,steal,1,False,True,steal,steal,80-68,80,68
+0021900684,2020-01-25,PHI,LAL,34.12,3,1,53,LAL,PHI,foul,28,False,False,Neto Personal Take Foul (P3.T2) (M.Davis),,80-68,80,68
+0021900684,2020-01-25,PHI,LAL,34.27,3,1,44,LAL,LAL,fg_miss,6,False,False,,MISS Rondo 1' Driving Layup,80-68,80,68
+0021900684,2020-01-25,PHI,LAL,34.33,3,1,40,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:5),,80-68,80,68
+0021900684,2020-01-25,PHI,LAL,34.4,3,1,36,PHI,PHI,fg3_make,1,False,False,Neto 26' 3PT Jump Shot (7 PTS) (Simmons 5 AST),,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,34.65,3,1,21,LAL,LAL,fg3_miss,1,False,False,,MISS Davis 26' 3PT Jump Shot,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,34.65,3,1,21,PHI,PHI,reb,0,False,False,76ERS Rebound,,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.0,3,1,0,PHI,PHI,fg_miss,101,False,False,MISS Korkmaz 4' Driving Floating Jump Shot,,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.02,3,0,59,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:0 Def:2),83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.12,3,0,53,LAL,LAL,tov,45,False,False,,Rondo Out of Bounds - Bad Pass Turnover Turnover (P1.T17),83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.43,3,0,34,PHI,PHI,fg_miss,101,True,False,MISS Neto 16' Driving Floating Jump Shot,,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.43,3,0,34,PHI,LAL,block,101,True,False,block,block,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.43,3,0,34,LAL,LAL,reb,0,False,False,,Lakers Rebound,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.52,3,0,29,LAL,LAL,tov,1,False,True,,Caruso Bad Pass Turnover (P1.T18),83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.52,3,0,29,LAL,PHI,steal,1,False,True,steal,steal,83-68,83,68
+0021900684,2020-01-25,PHI,LAL,35.58,3,0,25,PHI,PHI,fg_make,50,False,False,Simmons 2' Running Dunk (22 PTS),,85-68,85,68
+0021900684,2020-01-25,PHI,LAL,35.62,3,0,23,LAL,LAL,fg_make,41,False,False,,Davis Running Layup (28 PTS) (Caldwell-Pope 1 AST),85-70,85,70
+0021900684,2020-01-25,PHI,LAL,35.62,3,0,23,LAL,PHI,foul,2,False,False,Neto S.FOUL (P4.PN) (K.Lane),,85-70,85,70
+0021900684,2020-01-25,PHI,LAL,35.62,3,0,23,LAL,LAL,ft_make,10,False,False,,Davis Free Throw 1 of 1 (29 PTS),85-71,85,71
+0021900684,2020-01-25,PHI,LAL,35.9,3,0,6,PHI,PHI,fg_miss,101,False,False,MISS Korkmaz 5' Driving Floating Jump Shot,,85-71,85,71
+0021900684,2020-01-25,PHI,LAL,35.95,3,0,3,PHI,PHI,reb,0,False,False,Neto REBOUND (Off:1 Def:1),,85-71,85,71
+0021900684,2020-01-25,PHI,LAL,35.97,3,0,2,PHI,PHI,tov,1,False,True,Neto Bad Pass Turnover (P3.T17),,85-71,85,71
+0021900684,2020-01-25,PHI,LAL,35.97,3,0,2,PHI,LAL,steal,1,False,True,steal,steal,85-71,85,71
+0021900684,2020-01-25,PHI,LAL,36.0,3,0,0,LAL,LAL,fg_make,41,False,False,,Caruso 1' Running Layup (4 PTS),85-73,85,73
+0021900684,2020-01-25,PHI,LAL,36.0,3,0,0,LAL,,period_end,0,False,False,,,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,36.0,4,12,0,LAL,,period_start,0,False,False,,,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,36.35,4,11,39,LAL,LAL,fg3_miss,1,False,False,,MISS Rondo 26' 3PT Jump Shot,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,36.42,4,11,35,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:6),,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,36.82,4,11,11,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,36.87,4,11,8,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:5),85-73,85,73
+0021900684,2020-01-25,PHI,LAL,37.1,4,10,54,LAL,LAL,fg_miss,76,True,False,,MISS Rondo 3' Running Finger Roll Layup,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,37.1,4,10,54,LAL,PHI,block,76,True,False,block,block,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,37.12,4,10,53,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:1 Def:0),85-73,85,73
+0021900684,2020-01-25,PHI,LAL,37.13,4,10,52,LAL,LAL,tov,1,False,True,,Rondo Bad Pass Turnover (P2.T19),85-73,85,73
+0021900684,2020-01-25,PHI,LAL,37.13,4,10,52,LAL,PHI,steal,1,False,True,steal,steal,85-73,85,73
+0021900684,2020-01-25,PHI,LAL,37.22,4,10,47,PHI,LAL,foul,2,False,False,,Caldwell-Pope S.FOUL (P1.T1) (K.Lane),85-73,85,73
+0021900684,2020-01-25,PHI,LAL,37.22,4,10,47,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (26 PTS),,86-73,86,73
+0021900684,2020-01-25,PHI,LAL,37.22,4,10,47,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (27 PTS),,87-73,87,73
+0021900684,2020-01-25,PHI,LAL,37.52,4,10,29,LAL,LAL,fg_make,9,False,False,,James 1' Driving Dunk (20 PTS),87-75,87,75
+0021900684,2020-01-25,PHI,LAL,37.93,4,10,4,PHI,PHI,fg_miss,43,False,False,MISS Simmons 1' Alley Oop Layup,,87-75,87,75
+0021900684,2020-01-25,PHI,LAL,38.0,4,10,0,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:7),87-75,87,75
+0021900684,2020-01-25,PHI,LAL,38.23,4,9,46,LAL,LAL,tov,1,False,True,,Caldwell-Pope Bad Pass Turnover (P1.T20),87-75,87,75
+0021900684,2020-01-25,PHI,LAL,38.23,4,9,46,LAL,PHI,steal,1,False,True,steal,steal,87-75,87,75
+0021900684,2020-01-25,PHI,LAL,38.27,4,9,44,PHI,PHI,tov,40,False,False,Ennis III Out of Bounds Lost Ball Turnover (P1.T18),,87-75,87,75
+0021900684,2020-01-25,PHI,LAL,38.43,4,9,34,LAL,LAL,fg_miss,79,False,False,,MISS Caruso 21' Pullup Jump Shot,87-75,87,75
+0021900684,2020-01-25,PHI,LAL,38.48,4,9,31,PHI,PHI,reb,0,False,False,76ERS Rebound,,87-75,87,75
+0021900684,2020-01-25,PHI,LAL,38.7,4,9,18,PHI,PHI,fg_make,5,False,False,Milton 1' Layup (7 PTS) (Simmons 6 AST),,89-75,89,75
+0021900684,2020-01-25,PHI,LAL,39.1,4,8,54,LAL,LAL,fg_miss,101,False,False,,MISS James 4' Driving Floating Jump Shot,89-75,89,75
+0021900684,2020-01-25,PHI,LAL,39.15,4,8,51,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:7),,89-75,89,75
+0021900684,2020-01-25,PHI,LAL,39.3,4,8,42,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P4.T19),,89-75,89,75
+0021900684,2020-01-25,PHI,LAL,39.3,4,8,42,PHI,LAL,steal,1,False,True,steal,steal,89-75,89,75
+0021900684,2020-01-25,PHI,LAL,39.38,4,8,37,LAL,PHI,foul,1,False,False,Simmons P.FOUL (P3.T1) (M.Davis),,89-75,89,75
+0021900684,2020-01-25,PHI,LAL,39.53,4,8,28,LAL,LAL,fg_make,1,False,False,,Davis 20' Jump Shot (31 PTS),89-77,89,77
+0021900684,2020-01-25,PHI,LAL,39.82,4,8,11,PHI,PHI,fg_make,9,False,False,Simmons Driving Dunk (24 PTS),,91-77,91,77
+0021900684,2020-01-25,PHI,LAL,40.25,4,7,45,LAL,LAL,fg_miss,101,True,False,,MISS Caruso 1' Driving Floating Jump Shot,91-77,91,77
+0021900684,2020-01-25,PHI,LAL,40.25,4,7,45,LAL,PHI,block,101,True,False,block,block,91-77,91,77
+0021900684,2020-01-25,PHI,LAL,40.32,4,7,41,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:4),,91-77,91,77
+0021900684,2020-01-25,PHI,LAL,40.42,4,7,35,PHI,PHI,fg_miss,9,False,False,MISS Ennis III 2' Driving Dunk,,91-77,91,77
+0021900684,2020-01-25,PHI,LAL,40.47,4,7,32,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:1),91-77,91,77
+0021900684,2020-01-25,PHI,LAL,40.55,4,7,27,LAL,PHI,foul,11,False,False,Ennis III T.FOUL (P1.T1) (M.Davis),,91-77,91,77
+0021900684,2020-01-25,PHI,LAL,40.55,4,7,27,LAL,LAL,ft_make,16,False,False,,James Free Throw Technical (21 PTS),91-78,91,78
+0021900684,2020-01-25,PHI,LAL,40.55,4,7,27,LAL,PHI,foul,2,False,False,Harris S.FOUL (P3.T2) (D.Taylor),,91-78,91,78
+0021900684,2020-01-25,PHI,LAL,40.55,4,7,27,LAL,LAL,ft_make,11,False,False,,James Free Throw 1 of 2 (22 PTS),91-79,91,79
+0021900684,2020-01-25,PHI,LAL,40.55,4,7,27,LAL,LAL,ft_miss,12,False,False,,MISS James Free Throw 2 of 2,91-79,91,79
+0021900684,2020-01-25,PHI,LAL,40.58,4,7,25,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:5),,91-79,91,79
+0021900684,2020-01-25,PHI,LAL,41.0,4,7,0,PHI,PHI,tov,2,False,True,Thybulle Lost Ball Turnover (P2.T20),,91-79,91,79
+0021900684,2020-01-25,PHI,LAL,41.0,4,7,0,PHI,LAL,steal,2,False,True,steal,steal,91-79,91,79
+0021900684,2020-01-25,PHI,LAL,41.05,4,6,57,LAL,LAL,fg_make,50,False,False,,James 1' Running Dunk (24 PTS) (Caldwell-Pope 2 AST),91-81,91,81
+0021900684,2020-01-25,PHI,LAL,41.05,4,6,57,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,91-81,91,81
+0021900684,2020-01-25,PHI,LAL,41.25,4,6,45,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P5.T21),,91-81,91,81
+0021900684,2020-01-25,PHI,LAL,41.25,4,6,45,PHI,LAL,steal,1,False,True,steal,steal,91-81,91,81
+0021900684,2020-01-25,PHI,LAL,41.32,4,6,41,LAL,LAL,fg_make,106,False,False,,James Running Alley Oop Dunk Shot (26 PTS) (Caruso 3 AST),91-83,91,83
+0021900684,2020-01-25,PHI,LAL,41.6,4,6,24,,PHI,jump_ball,0,False,False,Jump Ball Horford vs. Caruso: Tip to Korkmaz,,91-83,91,83
+0021900684,2020-01-25,PHI,LAL,41.7,4,6,18,PHI,PHI,fg_make,102,False,False,Simmons 2' Driving Floating Bank Jump Shot (26 PTS),,93-83,93,83
+0021900684,2020-01-25,PHI,LAL,42.03,4,5,58,LAL,LAL,fg3_make,1,False,False,,Caldwell-Pope 28' 3PT Jump Shot (5 PTS) (Green 1 AST),93-86,93,86
+0021900684,2020-01-25,PHI,LAL,42.47,4,5,32,PHI,PHI,tov,2,False,True,Harris Lost Ball Turnover (P3.T22),,93-86,93,86
+0021900684,2020-01-25,PHI,LAL,42.47,4,5,32,PHI,LAL,steal,2,False,True,steal,steal,93-86,93,86
+0021900684,2020-01-25,PHI,LAL,42.65,4,5,21,LAL,LAL,fg_make,79,False,False,,Caldwell-Pope 21' Pullup Jump Shot (7 PTS) (Kuzma 2 AST),93-88,93,88
+0021900684,2020-01-25,PHI,LAL,42.68,4,5,19,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,93-88,93,88
+0021900684,2020-01-25,PHI,LAL,43.05,4,4,57,PHI,PHI,fg3_miss,79,False,False,MISS Korkmaz 27' 3PT Pullup Jump Shot,,93-88,93,88
+0021900684,2020-01-25,PHI,LAL,43.08,4,4,55,PHI,PHI,reb,0,False,False,76ERS Rebound,,93-88,93,88
+0021900684,2020-01-25,PHI,LAL,43.08,4,4,55,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#23),,93-88,93,88
+0021900684,2020-01-25,PHI,LAL,43.27,4,4,44,LAL,LAL,fg3_miss,1,False,False,,MISS James 27' 3PT Jump Shot,93-88,93,88
+0021900684,2020-01-25,PHI,LAL,43.32,4,4,41,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:5),,93-88,93,88
+0021900684,2020-01-25,PHI,LAL,43.55,4,4,27,PHI,PHI,fg_make,1,False,False,Horford 13' Jump Shot (9 PTS) (Simmons 7 AST),,95-88,95,88
+0021900684,2020-01-25,PHI,LAL,43.93,4,4,4,LAL,LAL,fg3_miss,80,False,False,,MISS Caruso 26' 3PT Step Back Jump Shot,95-88,95,88
+0021900684,2020-01-25,PHI,LAL,44.02,4,3,59,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:6),,95-88,95,88
+0021900684,2020-01-25,PHI,LAL,44.23,4,3,46,PHI,PHI,fg3_make,1,False,False,Horford 26' 3PT Jump Shot (12 PTS) (Simmons 8 AST),,98-88,98,88
+0021900684,2020-01-25,PHI,LAL,44.25,4,3,45,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),98-88,98,88
+0021900684,2020-01-25,PHI,LAL,44.52,4,3,29,LAL,LAL,tov,1,False,True,,James Bad Pass Turnover (P7.T21),98-88,98,88
+0021900684,2020-01-25,PHI,LAL,44.52,4,3,29,LAL,PHI,steal,1,False,True,steal,steal,98-88,98,88
+0021900684,2020-01-25,PHI,LAL,44.75,4,3,15,PHI,PHI,fg_make,86,False,False,Horford 14' Turnaround Fadeaway (14 PTS),,100-88,100,88
+0021900684,2020-01-25,PHI,LAL,44.97,4,3,2,LAL,LAL,fg3_miss,1,False,False,,MISS Davis 25' 3PT Jump Shot,100-88,100,88
+0021900684,2020-01-25,PHI,LAL,44.97,4,3,2,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:7),,100-88,100,88
+0021900684,2020-01-25,PHI,LAL,45.25,4,2,45,PHI,PHI,fg_make,6,False,False,Simmons 3' Driving Layup (28 PTS),,102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.25,4,2,45,PHI,LAL,foul,2,False,False,,Green S.FOUL (P2.T2) (K.Lane),102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.25,4,2,45,PHI,PHI,ft_miss,10,False,False,MISS Simmons Free Throw 1 of 1,,102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.28,4,2,43,LAL,LAL,reb,0,False,False,,Green REBOUND (Off:1 Def:2),102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.38,4,2,37,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 24' 3PT Jump Shot,102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.45,4,2,33,LAL,LAL,reb,0,False,False,,Green REBOUND (Off:2 Def:2),102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.47,4,2,32,LAL,LAL,fg3_miss,1,False,False,,MISS Green 24' 3PT Jump Shot,102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.5,4,2,30,LAL,LAL,reb,0,False,False,,Lakers Rebound,102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.63,4,2,22,LAL,LAL,tov,1,False,True,,James Bad Pass Turnover (P8.T22),102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.63,4,2,22,LAL,PHI,steal,1,False,True,steal,steal,102-88,102,88
+0021900684,2020-01-25,PHI,LAL,45.92,4,2,5,PHI,PHI,fg_make,47,False,False,Harris 5' Turnaround Jump Shot (29 PTS),,104-88,104,88
+0021900684,2020-01-25,PHI,LAL,46.15,4,1,51,LAL,LAL,fg3_make,80,False,False,,James 25' 3PT Step Back Jump Shot (29 PTS),104-91,104,91
+0021900684,2020-01-25,PHI,LAL,46.52,4,1,29,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 27' 3PT Jump Shot,,104-91,104,91
+0021900684,2020-01-25,PHI,LAL,46.58,4,1,25,LAL,LAL,reb,0,False,False,,Green REBOUND (Off:2 Def:3),104-91,104,91
+0021900684,2020-01-25,PHI,LAL,46.67,4,1,20,LAL,LAL,fg3_miss,1,True,False,,MISS Green 26' 3PT Jump Shot,104-91,104,91
+0021900684,2020-01-25,PHI,LAL,46.67,4,1,20,LAL,PHI,block,1,True,False,block,block,104-91,104,91
+0021900684,2020-01-25,PHI,LAL,46.67,4,1,20,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:6),,104-91,104,91
+0021900684,2020-01-25,PHI,LAL,46.67,4,1,20,PHI,LAL,foul,9,False,False,,Green C.P.FOUL (P3.T3) (D.Taylor),104-91,104,91
+0021900684,2020-01-25,PHI,LAL,46.67,4,1,20,PHI,PHI,ft_make,25,False,False,Horford Free Throw Clear Path 1 of 2 (15 PTS),,105-91,105,91
+0021900684,2020-01-25,PHI,LAL,46.67,4,1,20,PHI,PHI,ft_make,26,False,False,Horford Free Throw Clear Path 2 of 2 (16 PTS),,106-91,106,91
+0021900684,2020-01-25,PHI,LAL,47.0,4,1,0,PHI,PHI,fg_miss,6,False,False,MISS Harris 2' Driving Layup,,106-91,106,91
+0021900684,2020-01-25,PHI,LAL,47.03,4,0,58,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:3 Def:7),,106-91,106,91
+0021900684,2020-01-25,PHI,LAL,47.08,4,0,55,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 6 Short 0),,106-91,106,91
+0021900684,2020-01-25,PHI,LAL,47.37,4,0,38,PHI,PHI,fg_make,63,False,False,Neto 16' Fadeaway Jumper (9 PTS),,108-91,108,91
+0021900684,2020-01-25,PHI,LAL,47.58,4,0,25,LAL,LAL,fg3_miss,79,False,False,,MISS Green 26' 3PT Pullup Jump Shot,108-91,108,91
+0021900684,2020-01-25,PHI,LAL,47.65,4,0,21,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:8),,108-91,108,91
+0021900684,2020-01-25,PHI,LAL,48.0,4,0,0,PHI,,period_end,0,False,False,,,108-91,108,91

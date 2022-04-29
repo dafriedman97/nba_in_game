@@ -1,0 +1,434 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000326,2021-02-02,GSW,BOS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000326,2021-02-02,GSW,BOS,0.0,1,12,0,,GSW,jump_ball,0,False,False,Jump Ball Looney vs. Thompson: Tip to Curry,,0-0,0,0
+0022000326,2021-02-02,GSW,BOS,0.18,1,11,49,GSW,GSW,fg3_make,79,False,False,Curry 26' 3PT Pullup Jump Shot (3 PTS) (Green 1 AST),,3-0,3,0
+0022000326,2021-02-02,GSW,BOS,0.45,1,11,33,BOS,BOS,fg_make,79,False,False,,Walker 19' Pullup Jump Shot (2 PTS) (Tatum 1 AST),3-2,3,2
+0022000326,2021-02-02,GSW,BOS,0.72,1,11,17,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P1.T1),,3-2,3,2
+0022000326,2021-02-02,GSW,BOS,0.72,1,11,17,GSW,BOS,steal,1,False,True,steal,steal,3-2,3,2
+0022000326,2021-02-02,GSW,BOS,0.82,1,11,11,BOS,BOS,fg3_make,103,False,False,,Walker 26' 3PT Running Pull-Up Jump Shot (5 PTS),3-5,3,5
+0022000326,2021-02-02,GSW,BOS,1.08,1,10,55,GSW,GSW,fg_make,79,False,False,Oubre Jr. 11' Pullup Jump Shot (2 PTS) (Curry 1 AST),,5-5,5,5
+0022000326,2021-02-02,GSW,BOS,1.27,1,10,44,BOS,GSW,foul,2,False,False,Looney S.FOUL (P1.T1) (T.Brown),,5-5,5,5
+0022000326,2021-02-02,GSW,BOS,1.27,1,10,44,BOS,BOS,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,5-5,5,5
+0022000326,2021-02-02,GSW,BOS,1.27,1,10,44,BOS,BOS,reb,1,False,False,,Celtics Rebound,5-5,5,5
+0022000326,2021-02-02,GSW,BOS,1.27,1,10,44,BOS,BOS,ft_miss,12,False,False,,MISS Thompson Free Throw 2 of 2,5-5,5,5
+0022000326,2021-02-02,GSW,BOS,1.28,1,10,43,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,5-5,5,5
+0022000326,2021-02-02,GSW,BOS,1.48,1,10,31,GSW,GSW,fg_make,7,False,False,Oubre Jr. 3' Dunk (4 PTS) (Curry 2 AST),,7-5,7,5
+0022000326,2021-02-02,GSW,BOS,1.8,1,10,12,BOS,BOS,fg_make,86,False,False,,Brown 9' Turnaround Fadeaway (2 PTS),7-7,7,7
+0022000326,2021-02-02,GSW,BOS,2.08,1,9,55,GSW,GSW,fg_miss,86,False,False,MISS Wiggins 9' Turnaround Fadeaway Shot,,7-7,7,7
+0022000326,2021-02-02,GSW,BOS,2.12,1,9,53,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:0 Def:1),7-7,7,7
+0022000326,2021-02-02,GSW,BOS,2.23,1,9,46,BOS,BOS,fg3_miss,79,True,False,,MISS Walker 28' 3PT Pullup Jump Shot,7-7,7,7
+0022000326,2021-02-02,GSW,BOS,2.23,1,9,46,BOS,GSW,block,79,True,False,block,block,7-7,7,7
+0022000326,2021-02-02,GSW,BOS,2.27,1,9,44,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:0),7-7,7,7
+0022000326,2021-02-02,GSW,BOS,2.33,1,9,40,BOS,BOS,fg_make,78,False,False,,Thompson Floating Jump Shot (2 PTS),7-9,7,9
+0022000326,2021-02-02,GSW,BOS,2.53,1,9,28,GSW,GSW,fg3_make,1,False,False,Curry 25' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),,10-9,10,9
+0022000326,2021-02-02,GSW,BOS,2.87,1,9,8,BOS,BOS,tov,4,False,False,,Brown Traveling Turnover (P1.T1),10-9,10,9
+0022000326,2021-02-02,GSW,BOS,3.22,1,8,47,GSW,GSW,fg3_make,1,False,False,Oubre Jr. 3PT Jump Shot (7 PTS) (Green 2 AST),,13-9,13,9
+0022000326,2021-02-02,GSW,BOS,3.58,1,8,25,BOS,BOS,fg_miss,80,False,False,,MISS Tatum 19' Step Back Jump Shot,13-9,13,9
+0022000326,2021-02-02,GSW,BOS,3.62,1,8,23,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:0),13-9,13,9
+0022000326,2021-02-02,GSW,BOS,3.78,1,8,13,BOS,BOS,fg_make,57,False,False,,Thompson 6' Driving Hook Shot (4 PTS),13-11,13,11
+0022000326,2021-02-02,GSW,BOS,4.12,1,7,53,GSW,GSW,fg3_miss,1,False,False,MISS Green 29' 3PT Jump Shot,,13-11,13,11
+0022000326,2021-02-02,GSW,BOS,4.15,1,7,51,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),13-11,13,11
+0022000326,2021-02-02,GSW,BOS,4.28,1,7,43,BOS,BOS,fg_miss,79,False,False,,MISS Brown 16' Pullup Jump Shot,13-11,13,11
+0022000326,2021-02-02,GSW,BOS,4.28,1,7,43,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:1),,13-11,13,11
+0022000326,2021-02-02,GSW,BOS,4.45,1,7,33,GSW,GSW,fg3_make,1,False,False,Curry 30' 3PT Jump Shot (9 PTS) (Oubre Jr. 1 AST),,16-11,16,11
+0022000326,2021-02-02,GSW,BOS,4.47,1,7,32,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.1 Short 0),16-11,16,11
+0022000326,2021-02-02,GSW,BOS,4.6,1,7,24,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 25' 3PT Jump Shot,16-11,16,11
+0022000326,2021-02-02,GSW,BOS,4.63,1,7,22,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,16-11,16,11
+0022000326,2021-02-02,GSW,BOS,4.92,1,7,5,GSW,GSW,fg_miss,6,False,False,MISS Looney 5' Driving Layup,,16-11,16,11
+0022000326,2021-02-02,GSW,BOS,4.95,1,7,3,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:1 Def:0),,16-11,16,11
+0022000326,2021-02-02,GSW,BOS,5.0,1,7,0,GSW,GSW,fg_make,97,False,False,Looney Tip Layup Shot (2 PTS),,18-11,18,11
+0022000326,2021-02-02,GSW,BOS,5.15,1,6,51,BOS,BOS,fg_make,79,False,False,,Walker 13' Pullup Jump Shot (7 PTS),18-13,18,13
+0022000326,2021-02-02,GSW,BOS,5.37,1,6,38,GSW,GSW,fg3_miss,79,False,False,MISS Curry 26' 3PT Pullup Jump Shot,,18-13,18,13
+0022000326,2021-02-02,GSW,BOS,5.4,1,6,36,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),18-13,18,13
+0022000326,2021-02-02,GSW,BOS,5.53,1,6,28,BOS,GSW,foul,2,False,False,Oubre Jr. S.FOUL (P1.T2) (D.Collins),,18-13,18,13
+0022000326,2021-02-02,GSW,BOS,5.53,1,6,28,BOS,BOS,ft_make,11,False,False,,Walker Free Throw 1 of 2 (8 PTS),18-14,18,14
+0022000326,2021-02-02,GSW,BOS,5.53,1,6,28,BOS,BOS,ft_make,12,False,False,,Walker Free Throw 2 of 2 (9 PTS),18-15,18,15
+0022000326,2021-02-02,GSW,BOS,5.75,1,6,15,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 27' 3PT Jump Shot,,18-15,18,15
+0022000326,2021-02-02,GSW,BOS,5.82,1,6,11,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:0 Def:1),18-15,18,15
+0022000326,2021-02-02,GSW,BOS,5.95,1,6,3,BOS,BOS,tov,40,False,False,,Brown Out of Bounds Lost Ball Turnover (P2.T2),18-15,18,15
+0022000326,2021-02-02,GSW,BOS,6.2,1,5,48,GSW,GSW,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,18-15,18,15
+0022000326,2021-02-02,GSW,BOS,6.35,1,5,39,BOS,BOS,fg3_make,1,False,False,,Williams 3PT Jump Shot (3 PTS) (Walker 1 AST),18-18,18,18
+0022000326,2021-02-02,GSW,BOS,6.6,1,5,24,GSW,GSW,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,18-18,18,18
+0022000326,2021-02-02,GSW,BOS,6.63,1,5,22,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:3),18-18,18,18
+0022000326,2021-02-02,GSW,BOS,6.73,1,5,16,BOS,BOS,fg3_miss,79,False,False,,MISS Brown 26' 3PT Pullup Jump Shot,18-18,18,18
+0022000326,2021-02-02,GSW,BOS,6.77,1,5,14,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:2),,18-18,18,18
+0022000326,2021-02-02,GSW,BOS,6.82,1,5,11,GSW,GSW,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,18-18,18,18
+0022000326,2021-02-02,GSW,BOS,7.07,1,4,56,BOS,BOS,fg_miss,80,False,False,,MISS Brown 18' Step Back Jump Shot,18-18,18,18
+0022000326,2021-02-02,GSW,BOS,7.1,1,4,54,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:3),,18-18,18,18
+0022000326,2021-02-02,GSW,BOS,7.28,1,4,43,GSW,GSW,fg3_make,79,False,False,Wiggins 27' 3PT Pullup Jump Shot (3 PTS) (Looney 1 AST),,21-18,21,18
+0022000326,2021-02-02,GSW,BOS,7.55,1,4,27,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 29' 3PT Jump Shot,21-18,21,18
+0022000326,2021-02-02,GSW,BOS,7.58,1,4,25,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:4),,21-18,21,18
+0022000326,2021-02-02,GSW,BOS,7.68,1,4,19,GSW,BOS,foul,1,False,False,,Brown P.FOUL (P1.T1) (T.Brown),21-18,21,18
+0022000326,2021-02-02,GSW,BOS,7.75,1,4,15,GSW,GSW,fg_make,75,False,False,Curry 7' Driving Finger Roll Layup (11 PTS) (Looney 2 AST),,23-18,23,18
+0022000326,2021-02-02,GSW,BOS,7.75,1,4,15,GSW,BOS,foul,2,False,False,,Williams III S.FOUL (P1.T2) (J.DeRosa),23-18,23,18
+0022000326,2021-02-02,GSW,BOS,7.75,1,4,15,GSW,GSW,ft_make,10,False,False,Curry Free Throw 1 of 1 (12 PTS),,24-18,24,18
+0022000326,2021-02-02,GSW,BOS,8.03,1,3,58,BOS,BOS,fg_make,75,False,False,,Tatum 5' Driving Finger Roll Layup (2 PTS),24-20,24,20
+0022000326,2021-02-02,GSW,BOS,8.3,1,3,42,GSW,GSW,fg_miss,79,False,False,MISS Curry 13' Pullup Jump Shot,,24-20,24,20
+0022000326,2021-02-02,GSW,BOS,8.33,1,3,40,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:1 Def:0),,24-20,24,20
+0022000326,2021-02-02,GSW,BOS,8.38,1,3,37,GSW,GSW,fg3_make,1,False,False,Curry 27' 3PT Jump Shot (15 PTS) (Bazemore 1 AST),,27-20,27,20
+0022000326,2021-02-02,GSW,BOS,8.63,1,3,22,BOS,BOS,fg3_miss,79,False,False,,MISS Tatum 28' 3PT Pullup Jump Shot,27-20,27,20
+0022000326,2021-02-02,GSW,BOS,8.67,1,3,20,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,27-20,27,20
+0022000326,2021-02-02,GSW,BOS,8.75,1,3,15,GSW,GSW,tov,39,False,False,Wiggins Step Out of Bounds Turnover (P1.T4),,27-20,27,20
+0022000326,2021-02-02,GSW,BOS,9.1,1,2,54,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 24' 3PT Jump Shot,27-20,27,20
+0022000326,2021-02-02,GSW,BOS,9.13,1,2,52,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:5),,27-20,27,20
+0022000326,2021-02-02,GSW,BOS,9.23,1,2,46,GSW,GSW,fg_miss,103,False,False,MISS Green 21' Running Pull-Up Jump Shot,,27-20,27,20
+0022000326,2021-02-02,GSW,BOS,9.27,1,2,44,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:0 Def:2),27-20,27,20
+0022000326,2021-02-02,GSW,BOS,9.47,1,2,32,BOS,BOS,fg_make,101,False,False,,Tatum 6' Driving Floating Jump Shot (4 PTS),27-22,27,22
+0022000326,2021-02-02,GSW,BOS,9.6,1,2,24,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 1 Short 0),,27-22,27,22
+0022000326,2021-02-02,GSW,BOS,9.65,1,2,21,GSW,GSW,fg_make,75,False,False,Toscano-Anderson 7' Driving Finger Roll Layup (2 PTS) (Curry 3 AST),,29-22,29,22
+0022000326,2021-02-02,GSW,BOS,9.92,1,2,5,BOS,BOS,tov,1,False,True,,Williams III Bad Pass Turnover (P1.T3),29-22,29,22
+0022000326,2021-02-02,GSW,BOS,9.92,1,2,5,BOS,GSW,steal,1,False,True,steal,steal,29-22,29,22
+0022000326,2021-02-02,GSW,BOS,9.98,1,2,1,GSW,GSW,fg_make,41,False,False,Bazemore 2' Running Layup (2 PTS),,31-22,31,22
+0022000326,2021-02-02,GSW,BOS,10.35,1,1,39,BOS,BOS,fg_make,80,False,False,,Tatum 21' Step Back Jump Shot (6 PTS) (Ojeleye 1 AST),31-24,31,24
+0022000326,2021-02-02,GSW,BOS,10.62,1,1,23,GSW,GSW,fg_make,75,False,False,Curry 6' Driving Finger Roll Layup (17 PTS),,33-24,33,24
+0022000326,2021-02-02,GSW,BOS,10.87,1,1,8,BOS,BOS,fg_miss,79,True,False,,MISS Teague 9' Pullup Jump Shot,33-24,33,24
+0022000326,2021-02-02,GSW,BOS,10.87,1,1,8,BOS,GSW,block,79,True,False,block,block,33-24,33,24
+0022000326,2021-02-02,GSW,BOS,10.9,1,1,6,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:1),,33-24,33,24
+0022000326,2021-02-02,GSW,BOS,11.0,1,1,0,GSW,GSW,fg_make,44,False,False,Toscano-Anderson 7' Reverse Layup (4 PTS) (Wiggins 2 AST),,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,11.3,1,0,42,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 26' 3PT Jump Shot,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,11.33,1,0,40,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,11.5,1,0,30,GSW,GSW,tov,4,False,False,Green Traveling Turnover (P3.T5),,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,11.6,1,0,24,BOS,BOS,fg_miss,80,False,False,,MISS Walker 20' Step Back Jump Shot,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,11.63,1,0,22,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:4),,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,11.97,1,0,2,GSW,GSW,fg3_miss,80,False,False,MISS Curry 30' 3PT Step Back Jump Shot,,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.0,1,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.0,1,0,0,GSW,,period_end,0,False,False,,,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.0,2,12,0,GSW,,period_start,0,False,False,,,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.18,2,11,49,BOS,GSW,foul,1,False,False,Oubre Jr. P.FOUL (P2.T1) (D.Collins),,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.43,2,11,34,BOS,BOS,tov,11,False,False,,Celtics Turnover: Shot Clock (T#4),35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.58,2,11,25,GSW,GSW,fg_miss,6,False,False,MISS Wanamaker 7' Driving Layup,,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.62,2,11,23,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.68,2,11,19,BOS,GSW,foul,1,False,False,Wanamaker P.FOUL (P1.T2) (J.DeRosa),,35-24,35,24
+0022000326,2021-02-02,GSW,BOS,12.82,2,11,11,BOS,BOS,fg_make,47,False,False,,Tatum 12' Turnaround Jump Shot (8 PTS),35-26,35,26
+0022000326,2021-02-02,GSW,BOS,13.18,2,10,49,GSW,GSW,fg_make,86,False,False,Oubre Jr. 8' Turnaround Fadeaway (9 PTS),,37-26,37,26
+0022000326,2021-02-02,GSW,BOS,13.42,2,10,35,BOS,BOS,fg3_make,79,False,False,,Teague 26' 3PT Pullup Jump Shot (3 PTS),37-29,37,29
+0022000326,2021-02-02,GSW,BOS,13.67,2,10,20,GSW,GSW,fg_miss,1,False,False,MISS Lee 19' Jump Shot,,37-29,37,29
+0022000326,2021-02-02,GSW,BOS,13.7,2,10,18,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:2),37-29,37,29
+0022000326,2021-02-02,GSW,BOS,13.83,2,10,10,BOS,BOS,tov,4,False,False,,Tatum Traveling Turnover (P1.T5),37-29,37,29
+0022000326,2021-02-02,GSW,BOS,14.03,2,9,58,GSW,BOS,violation,5,False,False,,Ojeleye Violation:Kicked Ball (D.Collins),37-29,37,29
+0022000326,2021-02-02,GSW,BOS,14.2,2,9,48,GSW,BOS,foul,2,False,False,,Theis S.FOUL (P1.T1) (J.DeRosa),37-29,37,29
+0022000326,2021-02-02,GSW,BOS,14.2,2,9,48,GSW,GSW,ft_make,11,False,False,Paschall Free Throw 1 of 2 (1 PTS),,38-29,38,29
+0022000326,2021-02-02,GSW,BOS,14.2,2,9,48,GSW,GSW,ft_miss,12,False,False,MISS Paschall Free Throw 2 of 2,,38-29,38,29
+0022000326,2021-02-02,GSW,BOS,14.23,2,9,46,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),38-29,38,29
+0022000326,2021-02-02,GSW,BOS,14.47,2,9,32,BOS,GSW,foul,2,False,False,Wanamaker S.FOUL (P2.T3) (D.Collins),,38-29,38,29
+0022000326,2021-02-02,GSW,BOS,14.47,2,9,32,BOS,BOS,ft_miss,11,False,False,,MISS Tatum Free Throw 1 of 2,38-29,38,29
+0022000326,2021-02-02,GSW,BOS,14.47,2,9,32,BOS,BOS,reb,1,False,False,,Celtics Rebound,38-29,38,29
+0022000326,2021-02-02,GSW,BOS,14.47,2,9,32,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (9 PTS),38-30,38,30
+0022000326,2021-02-02,GSW,BOS,14.68,2,9,19,GSW,GSW,tov,40,False,False,Paschall Out of Bounds Lost Ball Turnover (P1.T6),,38-30,38,30
+0022000326,2021-02-02,GSW,BOS,14.87,2,9,8,BOS,BOS,fg_make,80,False,False,,Teague 15' Step Back Jump Shot (5 PTS),38-32,38,32
+0022000326,2021-02-02,GSW,BOS,15.15,2,8,51,GSW,GSW,fg_miss,75,True,False,MISS Toscano-Anderson 4' Driving Finger Roll Layup,,38-32,38,32
+0022000326,2021-02-02,GSW,BOS,15.15,2,8,51,GSW,BOS,block,75,True,False,block,block,38-32,38,32
+0022000326,2021-02-02,GSW,BOS,15.18,2,8,49,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:1),38-32,38,32
+0022000326,2021-02-02,GSW,BOS,15.28,2,8,43,BOS,BOS,fg_make,75,False,False,,Tatum 6' Driving Finger Roll Layup (11 PTS),38-34,38,34
+0022000326,2021-02-02,GSW,BOS,15.3,2,8,42,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 2 Short 0),,38-34,38,34
+0022000326,2021-02-02,GSW,BOS,15.58,2,8,25,GSW,BOS,foul,1,False,False,,Tatum P.FOUL (P1.T2) (D.Collins),38-34,38,34
+0022000326,2021-02-02,GSW,BOS,15.77,2,8,14,GSW,GSW,fg_miss,98,False,False,MISS Paschall 5' Cutting Layup Shot,,38-34,38,34
+0022000326,2021-02-02,GSW,BOS,15.8,2,8,12,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:2),38-34,38,34
+0022000326,2021-02-02,GSW,BOS,16.08,2,7,55,BOS,BOS,fg_make,1,False,False,,Theis 18' Jump Shot (2 PTS) (Teague 1 AST),38-36,38,36
+0022000326,2021-02-02,GSW,BOS,16.48,2,7,31,GSW,GSW,fg_miss,108,False,False,MISS Oubre Jr. 2' Cutting Dunk Shot,,38-36,38,36
+0022000326,2021-02-02,GSW,BOS,16.52,2,7,29,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:4),38-36,38,36
+0022000326,2021-02-02,GSW,BOS,16.77,2,7,14,BOS,BOS,fg3_make,79,False,False,,Tatum 31' 3PT Pullup Jump Shot (14 PTS),38-39,38,39
+0022000326,2021-02-02,GSW,BOS,17.15,2,6,51,GSW,GSW,fg_make,108,False,False,Oubre Jr. 2' Cutting Dunk Shot (11 PTS) (Toscano-Anderson 1 AST),,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,17.47,2,6,32,BOS,GSW,foul,1,False,False,Toscano-Anderson P.FOUL (P1.T4) (T.Brown),,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,17.67,2,6,20,BOS,BOS,fg3_miss,79,False,False,,MISS Tatum 32' 3PT Pullup Jump Shot,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,17.7,2,6,18,GSW,GSW,reb,0,False,False,Wanamaker REBOUND (Off:0 Def:1),,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,17.85,2,6,9,GSW,GSW,fg_miss,101,False,False,MISS Oubre Jr. 5' Driving Floating Jump Shot,,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,17.88,2,6,7,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:2 Def:0),,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,17.98,2,6,1,GSW,GSW,fg_miss,97,False,False,MISS Looney Tip Layup Shot,,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.0,2,6,0,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:0 Def:2),40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.07,2,5,56,BOS,BOS,fg_miss,6,False,False,,MISS Walker 6' Driving Layup,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.08,2,5,55,BOS,BOS,reb,0,False,False,,Celtics Rebound,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.22,2,5,47,BOS,BOS,fg_miss,1,False,False,,MISS Tatum 19' Jump Shot,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.25,2,5,45,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:6),,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.4,2,5,36,GSW,GSW,fg_miss,58,False,False,MISS Looney 4' Turnaround Hook Shot,,40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.43,2,5,34,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:3),40-39,40,39
+0022000326,2021-02-02,GSW,BOS,18.62,2,5,23,BOS,BOS,fg_make,58,False,False,,Thompson 3' Turnaround Hook Shot (6 PTS) (Theis 1 AST),40-41,40,41
+0022000326,2021-02-02,GSW,BOS,18.87,2,5,8,GSW,GSW,fg3_miss,79,False,False,MISS Wiggins 27' 3PT Pullup Jump Shot,,40-41,40,41
+0022000326,2021-02-02,GSW,BOS,18.9,2,5,6,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:4),40-41,40,41
+0022000326,2021-02-02,GSW,BOS,19.02,2,4,59,BOS,BOS,fg_make,75,False,False,,Brown 5' Driving Finger Roll Layup (4 PTS),40-43,40,43
+0022000326,2021-02-02,GSW,BOS,19.05,2,4,57,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,40-43,40,43
+0022000326,2021-02-02,GSW,BOS,19.27,2,4,44,GSW,GSW,fg_make,1,False,False,Curry 19' Jump Shot (19 PTS) (Green 3 AST),,42-43,42,43
+0022000326,2021-02-02,GSW,BOS,19.52,2,4,29,BOS,BOS,fg_miss,73,False,False,,MISS Walker 5' Driving Reverse Layup,42-43,42,43
+0022000326,2021-02-02,GSW,BOS,19.55,2,4,27,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:5),,42-43,42,43
+0022000326,2021-02-02,GSW,BOS,19.6,2,4,24,GSW,GSW,fg_make,50,False,False,Wiggins 3' Running Dunk (5 PTS) (Curry 4 AST),,44-43,44,43
+0022000326,2021-02-02,GSW,BOS,19.93,2,4,4,BOS,BOS,fg3_make,1,False,False,,Brown 3PT Jump Shot (7 PTS) (Walker 2 AST),44-46,44,46
+0022000326,2021-02-02,GSW,BOS,20.15,2,3,51,GSW,GSW,fg3_make,79,False,False,Curry 27' 3PT Pullup Jump Shot (22 PTS) (Looney 3 AST),,47-46,47,46
+0022000326,2021-02-02,GSW,BOS,20.4,2,3,36,BOS,BOS,fg_miss,80,False,False,,MISS Walker 22' Step Back Jump Shot,47-46,47,46
+0022000326,2021-02-02,GSW,BOS,20.43,2,3,34,BOS,BOS,reb,0,False,False,,Celtics Rebound,47-46,47,46
+0022000326,2021-02-02,GSW,BOS,20.57,2,3,26,BOS,GSW,foul,2,False,False,Oubre Jr. S.FOUL (P3.PN) (J.DeRosa),,47-46,47,46
+0022000326,2021-02-02,GSW,BOS,20.57,2,3,26,BOS,BOS,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,47-46,47,46
+0022000326,2021-02-02,GSW,BOS,20.57,2,3,26,BOS,BOS,reb,1,False,False,,Celtics Rebound,47-46,47,46
+0022000326,2021-02-02,GSW,BOS,20.57,2,3,26,BOS,BOS,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (7 PTS),47-47,47,47
+0022000326,2021-02-02,GSW,BOS,20.7,2,3,18,GSW,GSW,fg3_miss,1,False,False,MISS Lee 3PT Jump Shot,,47-47,47,47
+0022000326,2021-02-02,GSW,BOS,20.73,2,3,16,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:3 Def:0),,47-47,47,47
+0022000326,2021-02-02,GSW,BOS,20.88,2,3,7,GSW,GSW,fg_make,43,False,False,Looney 4' Alley Oop Layup (4 PTS) (Green 4 AST),,49-47,49,47
+0022000326,2021-02-02,GSW,BOS,21.23,2,2,46,BOS,BOS,fg_miss,101,False,False,,MISS Green 11' Driving Floating Jump Shot,49-47,49,47
+0022000326,2021-02-02,GSW,BOS,21.27,2,2,44,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:1),,49-47,49,47
+0022000326,2021-02-02,GSW,BOS,21.55,2,2,27,GSW,GSW,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,49-47,49,47
+0022000326,2021-02-02,GSW,BOS,21.58,2,2,25,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),49-47,49,47
+0022000326,2021-02-02,GSW,BOS,21.7,2,2,18,BOS,BOS,fg3_make,79,False,False,,Walker 27' 3PT Pullup Jump Shot (12 PTS) (Brown 1 AST),49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.13,2,1,52,GSW,GSW,fg3_miss,1,False,False,MISS Lee 24' 3PT Jump Shot,,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.17,2,1,50,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:1),49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.3,2,1,42,BOS,BOS,fg3_miss,79,False,False,,MISS Brown 28' 3PT Pullup Jump Shot,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.33,2,1,40,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.45,2,1,33,GSW,GSW,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P4.T7),,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.62,2,1,23,BOS,BOS,tov,1,False,True,,Thompson Bad Pass Turnover (P1.T6),49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.62,2,1,23,BOS,GSW,steal,1,False,True,steal,steal,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.7,2,1,18,GSW,GSW,fg_miss,41,False,False,MISS Green 7' Running Layup,,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.73,2,1,16,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:5),49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.83,2,1,10,BOS,BOS,fg3_miss,2,False,False,,MISS Walker 3PT Running Jump Shot,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,22.87,2,1,8,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:6),,49-50,49,50
+0022000326,2021-02-02,GSW,BOS,23.15,2,0,51,GSW,BOS,foul,1,False,False,,Brown P.FOUL (P2.T3) (D.Collins),49-50,49,50
+0022000326,2021-02-02,GSW,BOS,23.33,2,0,40,GSW,GSW,fg_make,6,False,False,Wiggins 3' Driving Layup (7 PTS),,51-50,51,50
+0022000326,2021-02-02,GSW,BOS,23.33,2,0,40,GSW,BOS,foul,2,False,False,,Thompson S.FOUL (P1.PN) (T.Brown),51-50,51,50
+0022000326,2021-02-02,GSW,BOS,23.33,2,0,40,GSW,GSW,ft_make,10,False,False,Wiggins Free Throw 1 of 1 (8 PTS),,52-50,52,50
+0022000326,2021-02-02,GSW,BOS,23.48,2,0,31,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 28' 3PT Step Back Jump Shot,52-50,52,50
+0022000326,2021-02-02,GSW,BOS,23.52,2,0,29,BOS,BOS,reb,0,False,False,,Celtics Rebound,52-50,52,50
+0022000326,2021-02-02,GSW,BOS,23.52,2,0,29,BOS,GSW,foul,3,False,False,Lee L.B.FOUL (P1.PN) (T.Brown),,52-50,52,50
+0022000326,2021-02-02,GSW,BOS,23.52,2,0,29,BOS,BOS,ft_make,11,False,False,,Williams Free Throw 1 of 2 (4 PTS),52-51,52,51
+0022000326,2021-02-02,GSW,BOS,23.52,2,0,29,BOS,BOS,ft_make,12,False,False,,Williams Free Throw 2 of 2 (5 PTS),52-52,52,52
+0022000326,2021-02-02,GSW,BOS,23.83,2,0,10,GSW,GSW,fg3_miss,1,True,False,MISS Curry 27' 3PT Jump Shot,,52-52,52,52
+0022000326,2021-02-02,GSW,BOS,23.83,2,0,10,GSW,BOS,block,1,True,False,block,block,52-52,52,52
+0022000326,2021-02-02,GSW,BOS,23.87,2,0,8,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:4),52-52,52,52
+0022000326,2021-02-02,GSW,BOS,23.97,2,0,2,BOS,BOS,fg_miss,6,False,False,,MISS Brown 6' Driving Layup,52-52,52,52
+0022000326,2021-02-02,GSW,BOS,24.0,2,0,0,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:0 Def:1),,52-52,52,52
+0022000326,2021-02-02,GSW,BOS,24.0,2,0,0,GSW,,period_end,0,False,False,,,52-52,52,52
+0022000326,2021-02-02,GSW,BOS,24.0,3,12,0,GSW,,period_start,0,False,False,,,52-52,52,52
+0022000326,2021-02-02,GSW,BOS,24.37,3,11,38,BOS,BOS,fg3_make,80,False,False,,Tatum 27' 3PT Step Back Jump Shot (17 PTS),52-55,52,55
+0022000326,2021-02-02,GSW,BOS,24.58,3,11,25,GSW,BOS,foul,2,False,False,,Brown S.FOUL (P3.T1) (J.DeRosa),52-55,52,55
+0022000326,2021-02-02,GSW,BOS,24.58,3,11,25,GSW,GSW,ft_make,11,False,False,Wiggins Free Throw 1 of 2 (9 PTS),,53-55,53,55
+0022000326,2021-02-02,GSW,BOS,24.58,3,11,25,GSW,GSW,ft_miss,12,False,False,MISS Wiggins Free Throw 2 of 2,,53-55,53,55
+0022000326,2021-02-02,GSW,BOS,24.62,3,11,23,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:6),53-55,53,55
+0022000326,2021-02-02,GSW,BOS,24.97,3,11,2,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 26' 3PT Step Back Jump Shot,53-55,53,55
+0022000326,2021-02-02,GSW,BOS,25.0,3,11,0,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:1),53-55,53,55
+0022000326,2021-02-02,GSW,BOS,25.08,3,10,55,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 26' 3PT Jump Shot,53-55,53,55
+0022000326,2021-02-02,GSW,BOS,25.12,3,10,53,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:1 Def:2),53-55,53,55
+0022000326,2021-02-02,GSW,BOS,25.18,3,10,49,BOS,BOS,fg_miss,6,True,False,,MISS Brown 5' Driving Layup,53-55,53,55
+0022000326,2021-02-02,GSW,BOS,25.18,3,10,49,BOS,GSW,block,6,True,False,block,block,53-55,53,55
+0022000326,2021-02-02,GSW,BOS,25.22,3,10,47,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:4),53-55,53,55
+0022000326,2021-02-02,GSW,BOS,25.3,3,10,42,BOS,BOS,fg_make,72,False,False,,Brown Putback Layup (9 PTS),53-57,53,57
+0022000326,2021-02-02,GSW,BOS,25.38,3,10,37,GSW,GSW,fg3_make,1,False,False,Toscano-Anderson 3PT Jump Shot (7 PTS) (Wiggins 3 AST),,56-57,56,57
+0022000326,2021-02-02,GSW,BOS,25.63,3,10,22,BOS,GSW,foul,2,False,False,Toscano-Anderson S.FOUL (P2.T1) (J.DeRosa),,56-57,56,57
+0022000326,2021-02-02,GSW,BOS,25.63,3,10,22,BOS,BOS,ft_make,11,False,False,,Thompson Free Throw 1 of 2 (8 PTS),56-58,56,58
+0022000326,2021-02-02,GSW,BOS,25.63,3,10,22,BOS,BOS,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (9 PTS),56-59,56,59
+0022000326,2021-02-02,GSW,BOS,25.87,3,10,8,GSW,GSW,fg_miss,6,False,False,MISS Toscano-Anderson 5' Driving Layup,,56-59,56,59
+0022000326,2021-02-02,GSW,BOS,25.9,3,10,6,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:5),56-59,56,59
+0022000326,2021-02-02,GSW,BOS,26.17,3,9,50,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,56-59,56,59
+0022000326,2021-02-02,GSW,BOS,26.2,3,9,48,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,56-59,56,59
+0022000326,2021-02-02,GSW,BOS,26.28,3,9,43,BOS,GSW,foul,26,False,False,Oubre Jr. Offensive Charge Foul (P4.T2) (J.DeRosa),,56-59,56,59
+0022000326,2021-02-02,GSW,BOS,26.28,3,9,43,GSW,GSW,tov,37,False,False,Oubre Jr. Offensive Foul Turnover (P1.T8),,56-59,56,59
+0022000326,2021-02-02,GSW,BOS,26.47,3,9,32,BOS,BOS,fg_make,1,False,False,,Theis 13' Jump Shot (4 PTS) (Walker 3 AST),56-61,56,61
+0022000326,2021-02-02,GSW,BOS,26.67,3,9,20,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 24' 3PT Jump Shot,,56-61,56,61
+0022000326,2021-02-02,GSW,BOS,26.7,3,9,18,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:5),56-61,56,61
+0022000326,2021-02-02,GSW,BOS,26.77,3,9,14,BOS,BOS,fg_miss,41,False,False,,MISS Brown 8' Running Layup,56-61,56,61
+0022000326,2021-02-02,GSW,BOS,26.8,3,9,12,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:2 Def:2),56-61,56,61
+0022000326,2021-02-02,GSW,BOS,26.88,3,9,7,BOS,BOS,fg_miss,6,True,False,,MISS Brown 6' Driving Layup,56-61,56,61
+0022000326,2021-02-02,GSW,BOS,26.88,3,9,7,BOS,GSW,block,6,True,False,block,block,56-61,56,61
+0022000326,2021-02-02,GSW,BOS,26.9,3,9,6,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,56-61,56,61
+0022000326,2021-02-02,GSW,BOS,27.17,3,8,50,GSW,GSW,fg_make,101,False,False,Wiggins 4' Driving Floating Jump Shot (11 PTS) (Bazemore 2 AST),,58-61,58,61
+0022000326,2021-02-02,GSW,BOS,27.57,3,8,26,BOS,GSW,foul,2,False,False,Green S.FOUL (P1.T3) (T.Brown),,58-61,58,61
+0022000326,2021-02-02,GSW,BOS,27.57,3,8,26,BOS,BOS,ft_make,11,False,False,,Walker Free Throw 1 of 2 (13 PTS),58-62,58,62
+0022000326,2021-02-02,GSW,BOS,27.57,3,8,26,BOS,BOS,ft_make,12,False,False,,Walker Free Throw 2 of 2 (14 PTS),58-63,58,63
+0022000326,2021-02-02,GSW,BOS,27.85,3,8,9,GSW,GSW,fg_miss,101,False,False,MISS Wiggins 3' Driving Floating Jump Shot,,58-63,58,63
+0022000326,2021-02-02,GSW,BOS,27.88,3,8,7,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:2),58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.08,3,7,55,BOS,BOS,tov,1,False,True,,Tatum Bad Pass Turnover (P2.T7),58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.08,3,7,55,BOS,GSW,steal,1,False,True,steal,steal,58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.23,3,7,46,GSW,GSW,fg3_miss,79,False,False,MISS Bazemore 3PT Pullup Jump Shot,,58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.27,3,7,44,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:2 Def:3),58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.4,3,7,36,BOS,BOS,fg3_miss,79,False,False,,MISS Walker 26' 3PT Pullup Jump Shot,58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.43,3,7,34,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:1 Def:1),,58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.48,3,7,31,GSW,BOS,foul,2,False,False,,Walker S.FOUL (P1.T2) (T.Brown),58-63,58,63
+0022000326,2021-02-02,GSW,BOS,28.48,3,7,31,GSW,GSW,ft_make,11,False,False,Bazemore Free Throw 1 of 2 (3 PTS),,59-63,59,63
+0022000326,2021-02-02,GSW,BOS,28.48,3,7,31,GSW,GSW,ft_make,12,False,False,Bazemore Free Throw 2 of 2 (4 PTS),,60-63,60,63
+0022000326,2021-02-02,GSW,BOS,28.7,3,7,18,BOS,GSW,foul,1,False,False,Green P.FOUL (P2.T4) (D.Collins),,60-63,60,63
+0022000326,2021-02-02,GSW,BOS,28.8,3,7,12,BOS,BOS,fg3_make,1,False,False,,Theis 24' 3PT Jump Shot (7 PTS) (Brown 2 AST),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.07,3,6,56,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 27' 3PT Jump Shot,,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.1,3,6,54,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:6),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.28,3,6,43,BOS,BOS,tov,2,False,True,,Tatum Lost Ball Turnover (P3.T8),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.28,3,6,43,BOS,GSW,steal,2,False,True,steal,steal,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.3,3,6,42,GSW,BOS,foul,28,False,False,,Theis Personal Take Foul (P2.T3) (T.Brown),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.3,3,6,42,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.58,3,6,25,GSW,GSW,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.62,3,6,23,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:7),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,29.82,3,6,11,BOS,GSW,foul,1,False,False,Bazemore P.FOUL (P1.PN) (T.Brown),,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,30.03,3,5,58,BOS,BOS,fg_miss,86,False,False,,MISS Tatum 14' Turnaround Fadeaway Shot,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,30.07,3,5,56,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:7),,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,30.18,3,5,49,GSW,GSW,fg3_miss,80,False,False,MISS Curry 26' 3PT Step Back Jump Shot,,60-66,60,66
+0022000326,2021-02-02,GSW,BOS,30.22,3,5,47,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:6),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,30.32,3,5,41,BOS,BOS,tov,40,False,False,,Brown Out of Bounds Lost Ball Turnover (P3.T9),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,30.42,3,5,35,GSW,BOS,foul,1,False,False,,Theis P.FOUL (P3.T4) (T.Brown),60-66,60,66
+0022000326,2021-02-02,GSW,BOS,30.57,3,5,26,GSW,GSW,fg3_make,1,False,False,Bazemore 26' 3PT Jump Shot (7 PTS) (Green 5 AST),,63-66,63,66
+0022000326,2021-02-02,GSW,BOS,30.82,3,5,11,BOS,BOS,fg_make,80,False,False,,Walker 15' Step Back Jump Shot (16 PTS),63-68,63,68
+0022000326,2021-02-02,GSW,BOS,31.05,3,4,57,GSW,GSW,fg_miss,63,False,False,MISS Green 7' Fadeaway Jumper,,63-68,63,68
+0022000326,2021-02-02,GSW,BOS,31.08,3,4,55,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:7),63-68,63,68
+0022000326,2021-02-02,GSW,BOS,31.22,3,4,47,BOS,BOS,fg_make,5,False,False,,Thompson 5' Layup (11 PTS) (Brown 3 AST),63-70,63,70
+0022000326,2021-02-02,GSW,BOS,31.48,3,4,31,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P2.T9),,63-70,63,70
+0022000326,2021-02-02,GSW,BOS,31.48,3,4,31,GSW,BOS,steal,1,False,True,steal,steal,63-70,63,70
+0022000326,2021-02-02,GSW,BOS,31.55,3,4,27,BOS,BOS,fg_make,50,False,False,,Green 3' Running Dunk (2 PTS),63-72,63,72
+0022000326,2021-02-02,GSW,BOS,31.88,3,4,7,GSW,GSW,fg3_make,1,False,False,Toscano-Anderson 26' 3PT Jump Shot (10 PTS) (Curry 5 AST),,66-72,66,72
+0022000326,2021-02-02,GSW,BOS,32.07,3,3,56,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.2 Short 0),66-72,66,72
+0022000326,2021-02-02,GSW,BOS,32.27,3,3,44,BOS,BOS,fg_make,6,False,False,,Brown 5' Driving Layup (11 PTS),66-74,66,74
+0022000326,2021-02-02,GSW,BOS,32.65,3,3,21,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 27' 3PT Jump Shot,,66-74,66,74
+0022000326,2021-02-02,GSW,BOS,32.67,3,3,20,BOS,BOS,reb,0,False,False,,Celtics Rebound,66-74,66,74
+0022000326,2021-02-02,GSW,BOS,32.83,3,3,10,BOS,BOS,fg_miss,6,False,False,,MISS Brown 4' Driving Layup,66-74,66,74
+0022000326,2021-02-02,GSW,BOS,32.87,3,3,8,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:8),,66-74,66,74
+0022000326,2021-02-02,GSW,BOS,32.98,3,3,1,GSW,GSW,fg3_make,2,False,False,Bazemore 3PT Running Jump Shot (10 PTS) (Curry 6 AST),,69-74,69,74
+0022000326,2021-02-02,GSW,BOS,33.25,3,2,45,BOS,BOS,tov,2,False,True,,Teague Lost Ball Turnover (P1.T10),69-74,69,74
+0022000326,2021-02-02,GSW,BOS,33.25,3,2,45,BOS,GSW,steal,2,False,True,steal,steal,69-74,69,74
+0022000326,2021-02-02,GSW,BOS,33.32,3,2,41,GSW,GSW,fg_make,41,False,False,Toscano-Anderson 3' Running Layup (12 PTS) (Curry 7 AST),,71-74,71,74
+0022000326,2021-02-02,GSW,BOS,33.32,3,2,41,GSW,BOS,foul,2,False,False,,Brown S.FOUL (P4.PN) (J.DeRosa),71-74,71,74
+0022000326,2021-02-02,GSW,BOS,33.32,3,2,41,GSW,GSW,ft_make,10,False,False,Toscano-Anderson Free Throw 1 of 1 (13 PTS),,72-74,72,74
+0022000326,2021-02-02,GSW,BOS,33.45,3,2,33,BOS,GSW,foul,2,False,False,Mulder S.FOUL (P1.PN) (J.DeRosa),,72-74,72,74
+0022000326,2021-02-02,GSW,BOS,33.45,3,2,33,BOS,BOS,ft_make,11,False,False,,Teague Free Throw 1 of 2 (6 PTS),72-75,72,75
+0022000326,2021-02-02,GSW,BOS,33.45,3,2,33,BOS,BOS,ft_make,12,False,False,,Teague Free Throw 2 of 2 (7 PTS),72-76,72,76
+0022000326,2021-02-02,GSW,BOS,33.63,3,2,22,GSW,BOS,foul,2,False,False,,Williams III S.FOUL (P2.PN) (D.Collins),72-76,72,76
+0022000326,2021-02-02,GSW,BOS,33.63,3,2,22,GSW,GSW,ft_make,11,False,False,Paschall Free Throw 1 of 2 (2 PTS),,73-76,73,76
+0022000326,2021-02-02,GSW,BOS,33.63,3,2,22,GSW,GSW,ft_miss,12,False,False,MISS Paschall Free Throw 2 of 2,,73-76,73,76
+0022000326,2021-02-02,GSW,BOS,33.67,3,2,20,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:8),73-76,73,76
+0022000326,2021-02-02,GSW,BOS,33.95,3,2,3,BOS,BOS,fg3_make,1,False,False,,Williams 3PT Jump Shot (8 PTS) (Tatum 2 AST),73-79,73,79
+0022000326,2021-02-02,GSW,BOS,34.18,3,1,49,GSW,GSW,fg_make,98,False,False,Paschall 3' Cutting Layup Shot (4 PTS) (Bazemore 3 AST),,75-79,75,79
+0022000326,2021-02-02,GSW,BOS,34.52,3,1,29,BOS,BOS,fg_miss,98,False,False,,MISS Williams III 2' Cutting Layup Shot,75-79,75,79
+0022000326,2021-02-02,GSW,BOS,34.55,3,1,27,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:7),,75-79,75,79
+0022000326,2021-02-02,GSW,BOS,34.58,3,1,25,GSW,BOS,foul,1,False,False,,Green P.FOUL (P1.PN) (T.Brown),75-79,75,79
+0022000326,2021-02-02,GSW,BOS,34.58,3,1,25,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (23 PTS),,76-79,76,79
+0022000326,2021-02-02,GSW,BOS,34.58,3,1,25,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (24 PTS),,77-79,77,79
+0022000326,2021-02-02,GSW,BOS,34.82,3,1,11,BOS,BOS,fg_make,101,False,False,,Teague 9' Driving Floating Jump Shot (9 PTS),77-81,77,81
+0022000326,2021-02-02,GSW,BOS,34.95,3,1,3,GSW,GSW,fg3_make,1,False,False,Curry 25' 3PT Jump Shot (27 PTS) (Green 6 AST),,80-81,80,81
+0022000326,2021-02-02,GSW,BOS,35.3,3,0,42,BOS,GSW,foul,1,False,False,Bazemore P.FOUL (P2.PN) (D.Collins),,80-81,80,81
+0022000326,2021-02-02,GSW,BOS,35.3,3,0,42,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (18 PTS),80-82,80,82
+0022000326,2021-02-02,GSW,BOS,35.3,3,0,42,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (19 PTS),80-83,80,83
+0022000326,2021-02-02,GSW,BOS,35.42,3,0,35,GSW,GSW,fg3_make,79,False,False,Curry 30' 3PT Pullup Jump Shot (30 PTS),,83-83,83,83
+0022000326,2021-02-02,GSW,BOS,35.75,3,0,15,BOS,BOS,fg3_make,80,False,False,,Williams 26' 3PT Step Back Jump Shot (11 PTS) (Tatum 3 AST),83-86,83,86
+0022000326,2021-02-02,GSW,BOS,35.95,3,0,3,GSW,GSW,fg_miss,6,False,False,MISS Wiggins 8' Driving Layup,,83-86,83,86
+0022000326,2021-02-02,GSW,BOS,35.97,3,0,2,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:7),,83-86,83,86
+0022000326,2021-02-02,GSW,BOS,35.98,3,0,1,GSW,GSW,fg_make,97,False,False,Green Tip Layup Shot (2 PTS),,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,35.98,3,0,1,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.3 Short 0),85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.0,3,0,0,BOS,BOS,tov,1,False,True,,Theis Bad Pass Turnover (P1.T11),85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.0,3,0,0,BOS,GSW,steal,1,False,True,steal,steal,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.0,3,0,0,BOS,,period_end,0,False,False,,,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.0,4,12,0,BOS,,period_start,0,False,False,,,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.22,4,11,47,GSW,GSW,fg_miss,6,False,False,MISS Paschall 3' Driving Layup,,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.25,4,11,45,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:3),85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.6,4,11,24,BOS,BOS,fg_miss,86,False,False,,MISS Tatum 18' Turnaround Fadeaway Shot,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.63,4,11,22,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:1 Def:1),85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.77,4,11,14,BOS,BOS,fg3_miss,79,False,False,,MISS Teague 27' 3PT Pullup Jump Shot,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.8,4,11,12,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:9),,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.92,4,11,5,GSW,GSW,tov,2,False,True,Curry Lost Ball Turnover (P3.T10),,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.92,4,11,5,GSW,BOS,steal,2,False,True,steal,steal,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.98,4,11,1,BOS,BOS,tov,1,False,True,,Teague Bad Pass Turnover (P2.T12),85-86,85,86
+0022000326,2021-02-02,GSW,BOS,36.98,4,11,1,BOS,GSW,steal,1,False,True,steal,steal,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,37.08,4,10,55,GSW,GSW,fg_miss,79,False,False,MISS Paschall 13' Pullup Jump Shot,,85-86,85,86
+0022000326,2021-02-02,GSW,BOS,37.12,4,10,53,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:4),85-86,85,86
+0022000326,2021-02-02,GSW,BOS,37.42,4,10,35,BOS,BOS,fg3_make,80,False,False,,Tatum 29' 3PT Step Back Jump Shot (22 PTS),85-89,85,89
+0022000326,2021-02-02,GSW,BOS,37.68,4,10,19,GSW,BOS,foul,1,False,False,,Green P.FOUL (P2.T1) (T.Brown),85-89,85,89
+0022000326,2021-02-02,GSW,BOS,37.88,4,10,7,GSW,GSW,fg3_make,1,False,False,Wanamaker 27' 3PT Jump Shot (3 PTS) (Lee 1 AST),,88-89,88,89
+0022000326,2021-02-02,GSW,BOS,38.18,4,9,49,BOS,GSW,foul,3,False,False,Lee L.B.FOUL (P2.T1) (T.Brown),,88-89,88,89
+0022000326,2021-02-02,GSW,BOS,38.37,4,9,38,BOS,BOS,fg_miss,1,False,False,,MISS Teague 15' Jump Shot,88-89,88,89
+0022000326,2021-02-02,GSW,BOS,38.4,4,9,36,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:3 Def:4),88-89,88,89
+0022000326,2021-02-02,GSW,BOS,38.6,4,9,24,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 29' 3PT Step Back Jump Shot,88-89,88,89
+0022000326,2021-02-02,GSW,BOS,38.63,4,9,22,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:3),,88-89,88,89
+0022000326,2021-02-02,GSW,BOS,38.78,4,9,13,GSW,GSW,fg_make,7,False,False,Wiggins 2' Dunk (13 PTS) (Oubre Jr. 2 AST),,90-89,90,89
+0022000326,2021-02-02,GSW,BOS,39.17,4,8,50,BOS,BOS,fg_make,58,False,False,,Thompson 6' Turnaround Hook Shot (13 PTS) (Teague 2 AST),90-91,90,91
+0022000326,2021-02-02,GSW,BOS,39.43,4,8,34,GSW,BOS,foul,2,False,False,,Thompson S.FOUL (P2.T2) (T.Brown),90-91,90,91
+0022000326,2021-02-02,GSW,BOS,39.43,4,8,34,GSW,GSW,ft_make,11,False,False,Paschall Free Throw 1 of 2 (5 PTS),,91-91,91,91
+0022000326,2021-02-02,GSW,BOS,39.43,4,8,34,GSW,GSW,ft_miss,12,False,False,MISS Paschall Free Throw 2 of 2,,91-91,91,91
+0022000326,2021-02-02,GSW,BOS,39.47,4,8,32,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:3 Def:5),91-91,91,91
+0022000326,2021-02-02,GSW,BOS,39.68,4,8,19,BOS,BOS,tov,45,False,False,,Thompson Out of Bounds - Bad Pass Turnover Turnover (P2.T13),91-91,91,91
+0022000326,2021-02-02,GSW,BOS,39.95,4,8,3,GSW,GSW,fg_make,101,False,False,Lee 12' Driving Floating Jump Shot (2 PTS) (Wanamaker 1 AST),,93-91,93,91
+0022000326,2021-02-02,GSW,BOS,40.25,4,7,45,BOS,BOS,tov,8,False,False,,Thompson 3 Second Violation Turnover (P3.T14),93-91,93,91
+0022000326,2021-02-02,GSW,BOS,40.47,4,7,32,GSW,BOS,foul,2,False,False,,Thompson S.FOUL (P3.T3) (D.Collins),93-91,93,91
+0022000326,2021-02-02,GSW,BOS,40.47,4,7,32,GSW,GSW,ft_miss,11,False,False,MISS Oubre Jr. Free Throw 1 of 2,,93-91,93,91
+0022000326,2021-02-02,GSW,BOS,40.47,4,7,32,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,93-91,93,91
+0022000326,2021-02-02,GSW,BOS,40.47,4,7,32,GSW,GSW,ft_make,12,False,False,Oubre Jr. Free Throw 2 of 2 (12 PTS),,94-91,94,91
+0022000326,2021-02-02,GSW,BOS,40.73,4,7,16,BOS,BOS,fg_miss,1,False,False,,MISS Theis 13' Jump Shot,94-91,94,91
+0022000326,2021-02-02,GSW,BOS,40.77,4,7,14,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:3 Def:3),94-91,94,91
+0022000326,2021-02-02,GSW,BOS,40.83,4,7,10,BOS,BOS,fg_make,6,False,False,,Brown 7' Driving Layup (13 PTS),94-93,94,93
+0022000326,2021-02-02,GSW,BOS,41.02,4,6,59,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 27' 3PT Jump Shot,,94-93,94,93
+0022000326,2021-02-02,GSW,BOS,41.05,4,6,57,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:8),94-93,94,93
+0022000326,2021-02-02,GSW,BOS,41.2,4,6,48,BOS,BOS,fg3_make,1,False,False,,Tatum 3PT Jump Shot (25 PTS) (Walker 4 AST),94-96,94,96
+0022000326,2021-02-02,GSW,BOS,41.42,4,6,35,GSW,BOS,foul,1,False,False,,Tatum P.FOUL (P2.T4) (D.Collins),94-96,94,96
+0022000326,2021-02-02,GSW,BOS,41.42,4,6,35,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 5 Short 0),,94-96,94,96
+0022000326,2021-02-02,GSW,BOS,41.48,4,6,31,GSW,GSW,fg_make,6,False,False,Curry 7' Driving Layup (32 PTS) (Lee 2 AST),,96-96,96,96
+0022000326,2021-02-02,GSW,BOS,41.73,4,6,16,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 27' 3PT Jump Shot,96-96,96,96
+0022000326,2021-02-02,GSW,BOS,41.77,4,6,14,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:8),96-96,96,96
+0022000326,2021-02-02,GSW,BOS,41.82,4,6,11,BOS,BOS,fg_miss,72,False,False,,MISS Theis 2' Putback Layup,96-96,96,96
+0022000326,2021-02-02,GSW,BOS,41.85,4,6,9,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:2 Def:1),96-96,96,96
+0022000326,2021-02-02,GSW,BOS,41.88,4,6,7,BOS,BOS,fg_make,97,False,False,,Williams Tip Layup Shot (13 PTS),96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.05,4,5,57,BOS,GSW,foul,4,False,False,Green OFF.Foul (P3) (D.Collins),,96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.05,4,5,57,GSW,GSW,tov,37,False,False,Green Offensive Foul Turnover (P5.T11),,96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.28,4,5,43,BOS,BOS,fg_miss,1,False,False,,MISS Theis 11' Jump Shot,96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.32,4,5,41,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:10),,96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.55,4,5,27,GSW,GSW,fg_miss,7,True,False,MISS Oubre Jr. 5' Dunk,,96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.55,4,5,27,GSW,BOS,block,7,True,False,block,block,96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.58,4,5,25,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:7),96-98,96,98
+0022000326,2021-02-02,GSW,BOS,42.7,4,5,18,BOS,BOS,fg3_make,1,False,False,,Walker 26' 3PT Jump Shot (19 PTS) (Brown 4 AST),96-101,96,101
+0022000326,2021-02-02,GSW,BOS,42.85,4,5,9,GSW,GSW,fg3_miss,1,False,False,MISS Curry 30' 3PT Jump Shot,,96-101,96,101
+0022000326,2021-02-02,GSW,BOS,42.88,4,5,7,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:9),96-101,96,101
+0022000326,2021-02-02,GSW,BOS,43.03,4,4,58,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 29' 3PT Jump Shot,96-101,96,101
+0022000326,2021-02-02,GSW,BOS,43.07,4,4,56,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:2 Def:7),96-101,96,101
+0022000326,2021-02-02,GSW,BOS,43.07,4,4,56,BOS,BOS,fg_make,72,False,False,,Brown Putback Layup (15 PTS),96-103,96,103
+0022000326,2021-02-02,GSW,BOS,43.07,4,4,56,BOS,GSW,foul,2,False,False,Green S.FOUL (P4.T2) (D.Collins),,96-103,96,103
+0022000326,2021-02-02,GSW,BOS,43.07,4,4,56,BOS,BOS,ft_make,10,False,False,,Brown Free Throw 1 of 1 (16 PTS),96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.25,4,4,45,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 3PT Jump Shot,,96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.3,4,4,42,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.38,4,4,37,GSW,GSW,fg3_miss,79,False,False,MISS Wiggins 26' 3PT Pullup Jump Shot,,96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.42,4,4,35,BOS,BOS,reb,0,False,False,,Celtics Rebound,96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.77,4,4,14,BOS,BOS,tov,1,False,True,,Tatum Bad Pass Turnover (P4.T15),96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.77,4,4,14,BOS,GSW,steal,1,False,True,steal,steal,96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.87,4,4,8,GSW,GSW,fg_miss,108,True,False,MISS Oubre Jr. 2' Cutting Dunk Shot,,96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.87,4,4,8,GSW,BOS,block,108,True,False,block,block,96-104,96,104
+0022000326,2021-02-02,GSW,BOS,43.88,4,4,7,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:3 Def:4),96-104,96,104
+0022000326,2021-02-02,GSW,BOS,44.0,4,4,0,BOS,BOS,fg_make,50,False,False,,Brown 2' Running Dunk (18 PTS) (Walker 5 AST),96-106,96,106
+0022000326,2021-02-02,GSW,BOS,44.0,4,4,0,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 6 Short 0),,96-106,96,106
+0022000326,2021-02-02,GSW,BOS,44.2,4,3,48,GSW,GSW,fg_miss,43,False,False,MISS Toscano-Anderson 3' Alley Oop Layup,,96-106,96,106
+0022000326,2021-02-02,GSW,BOS,44.23,4,3,46,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:9),96-106,96,106
+0022000326,2021-02-02,GSW,BOS,44.58,4,3,25,BOS,BOS,fg_miss,80,False,False,,MISS Walker 15' Step Back Jump Shot,96-106,96,106
+0022000326,2021-02-02,GSW,BOS,44.67,4,3,20,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:8),,96-106,96,106
+0022000326,2021-02-02,GSW,BOS,44.72,4,3,17,GSW,GSW,fg_make,74,False,False,Curry 7' Running Reverse Layup (34 PTS),,98-106,98,106
+0022000326,2021-02-02,GSW,BOS,44.72,4,3,17,GSW,BOS,foul,2,False,False,,Brown S.FOUL (P5.PN) (D.Collins),98-106,98,106
+0022000326,2021-02-02,GSW,BOS,44.72,4,3,17,GSW,GSW,ft_make,10,False,False,Curry Free Throw 1 of 1 (35 PTS),,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,44.83,4,3,10,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.4 Short 0),99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.1,4,2,54,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 27' 3PT Jump Shot,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.13,4,2,52,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:2),,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.38,4,2,37,GSW,BOS,foul,2,False,False,,Theis S.FOUL (P4.PN) (T.Brown),99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.38,4,2,37,GSW,GSW,ft_miss,11,False,False,MISS Wiggins Free Throw 1 of 2,,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.38,4,2,37,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.38,4,2,37,GSW,GSW,ft_miss,12,False,False,MISS Wiggins Free Throw 2 of 2,,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.4,4,2,36,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:2 Def:8),99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.68,4,2,19,BOS,BOS,fg_miss,101,False,False,,MISS Walker 10' Driving Floating Jump Shot,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.7,4,2,18,BOS,BOS,reb,0,False,False,,Celtics Rebound,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.7,4,2,18,BOS,GSW,foul,3,False,False,Toscano-Anderson L.B.FOUL (P3.T3) (T.Brown),,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.92,4,2,5,BOS,BOS,tov,2,False,True,,Williams Lost Ball Turnover (P1.T16),99-106,99,106
+0022000326,2021-02-02,GSW,BOS,45.92,4,2,5,BOS,GSW,steal,2,False,True,steal,steal,99-106,99,106
+0022000326,2021-02-02,GSW,BOS,46.0,4,2,0,GSW,BOS,foul,2,False,False,,Williams S.FOUL (P1.PN) (D.Collins),99-106,99,106
+0022000326,2021-02-02,GSW,BOS,46.0,4,2,0,GSW,GSW,ft_make,13,False,False,Curry Free Throw 1 of 3 (36 PTS),,100-106,100,106
+0022000326,2021-02-02,GSW,BOS,46.0,4,2,0,GSW,GSW,ft_make,14,False,False,Curry Free Throw 2 of 3 (37 PTS),,101-106,101,106
+0022000326,2021-02-02,GSW,BOS,46.0,4,2,0,GSW,GSW,ft_make,15,False,False,Curry Free Throw 3 of 3 (38 PTS),,102-106,102,106
+0022000326,2021-02-02,GSW,BOS,46.38,4,1,37,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.5 Short 0),102-106,102,106
+0022000326,2021-02-02,GSW,BOS,46.42,4,1,35,BOS,GSW,foul,2,False,False,Bazemore S.FOUL (P3.T4) (T.Brown),,102-106,102,106
+0022000326,2021-02-02,GSW,BOS,46.42,4,1,35,BOS,BOS,ft_make,11,False,False,,Theis Free Throw 1 of 2 (8 PTS),102-107,102,107
+0022000326,2021-02-02,GSW,BOS,46.42,4,1,35,BOS,BOS,ft_miss,12,False,False,,MISS Theis Free Throw 2 of 2,102-107,102,107
+0022000326,2021-02-02,GSW,BOS,46.43,4,1,34,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:11),,102-107,102,107
+0022000326,2021-02-02,GSW,BOS,46.55,4,1,27,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 3PT Jump Shot,,102-107,102,107
+0022000326,2021-02-02,GSW,BOS,46.58,4,1,25,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:2 Def:2),102-107,102,107
+0022000326,2021-02-02,GSW,BOS,46.92,4,1,5,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 25' 3PT Jump Shot,102-107,102,107
+0022000326,2021-02-02,GSW,BOS,46.95,4,1,3,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:9),,102-107,102,107
+0022000326,2021-02-02,GSW,BOS,47.0,4,1,0,GSW,GSW,fg_make,41,False,False,Wiggins 4' Running Layup (15 PTS) (Green 7 AST),,104-107,104,107
+0022000326,2021-02-02,GSW,BOS,47.18,4,0,49,BOS,GSW,foul,1,False,False,Bazemore P.FOUL (P4.PN) (T.Brown),,104-107,104,107
+0022000326,2021-02-02,GSW,BOS,47.18,4,0,49,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (26 PTS),104-108,104,108
+0022000326,2021-02-02,GSW,BOS,47.18,4,0,49,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (27 PTS),104-109,104,109
+0022000326,2021-02-02,GSW,BOS,47.25,4,0,45,GSW,GSW,fg3_miss,79,False,False,MISS Curry 28' 3PT Pullup Jump Shot,,104-109,104,109
+0022000326,2021-02-02,GSW,BOS,47.3,4,0,42,BOS,BOS,reb,0,False,False,,Celtics Rebound,104-109,104,109
+0022000326,2021-02-02,GSW,BOS,47.43,4,0,34,BOS,GSW,foul,28,False,False,Green Personal Take Foul (P5.PN) (D.Collins),,104-109,104,109
+0022000326,2021-02-02,GSW,BOS,47.43,4,0,34,BOS,BOS,ft_make,11,False,False,,Williams Free Throw 1 of 2 (14 PTS),104-110,104,110
+0022000326,2021-02-02,GSW,BOS,47.43,4,0,34,BOS,BOS,ft_make,12,False,False,,Williams Free Throw 2 of 2 (15 PTS),104-111,104,111
+0022000326,2021-02-02,GSW,BOS,47.53,4,0,28,GSW,GSW,fg3_make,1,False,False,Toscano-Anderson 3PT Jump Shot (16 PTS) (Curry 8 AST),,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.77,4,0,14,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.6 Short 0),107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.8,4,0,12,BOS,GSW,foul,28,False,False,Toscano-Anderson Personal Take Foul (P4.PN) (T.Brown),,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.8,4,0,12,BOS,BOS,ft_miss,11,False,False,,MISS Williams Free Throw 1 of 2,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.8,4,0,12,BOS,BOS,reb,1,False,False,,Celtics Rebound,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.8,4,0,12,BOS,BOS,ft_miss,12,False,False,,MISS Williams Free Throw 2 of 2,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.82,4,0,11,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:10),,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.92,4,0,5,GSW,GSW,fg_miss,79,False,False,MISS Curry 20' Pullup Jump Shot,,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,47.98,4,0,1,GSW,GSW,reb,0,False,False,Toscano-Anderson REBOUND (Off:1 Def:1),,107-111,107,111
+0022000326,2021-02-02,GSW,BOS,48.0,4,0,0,GSW,,period_end,0,False,False,,,107-111,107,111

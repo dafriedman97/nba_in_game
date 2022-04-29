@@ -1,0 +1,458 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101043,2022-03-16,SAC,MIL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101043,2022-03-16,SAC,MIL,0.0,1,12,0,,SAC,jump_ball,0,False,False,Jump Ball Sabonis vs. Portis: Tip to G. Antetokounmpo,,0-0,0,0
+0022101043,2022-03-16,SAC,MIL,0.28,1,11,43,MIL,MIL,fg3_miss,1,False,False,,MISS Allen 25' 3PT Jump Shot,0-0,0,0
+0022101043,2022-03-16,SAC,MIL,0.33,1,11,40,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:1),,0-0,0,0
+0022101043,2022-03-16,SAC,MIL,0.52,1,11,29,SAC,SAC,fg3_miss,1,False,False,MISS Fox 25' 3PT Jump Shot,,0-0,0,0
+0022101043,2022-03-16,SAC,MIL,0.58,1,11,25,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:1),0-0,0,0
+0022101043,2022-03-16,SAC,MIL,0.62,1,11,23,MIL,SAC,foul,1,False,False,Lyles P.FOUL (P1.T1) (A.Nagy),,0-0,0,0
+0022101043,2022-03-16,SAC,MIL,0.83,1,11,10,MIL,MIL,fg3_make,80,False,False,,Middleton 25' 3PT Step Back Jump Shot (3 PTS),0-3,0,3
+0022101043,2022-03-16,SAC,MIL,1.12,1,10,53,SAC,SAC,fg3_miss,1,False,False,MISS Holiday 24' 3PT Jump Shot,,0-3,0,3
+0022101043,2022-03-16,SAC,MIL,1.17,1,10,50,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),0-3,0,3
+0022101043,2022-03-16,SAC,MIL,1.4,1,10,36,MIL,MIL,fg_make,1,False,False,,Portis 17' Jump Shot (2 PTS),0-5,0,5
+0022101043,2022-03-16,SAC,MIL,1.58,1,10,25,SAC,SAC,fg_make,5,False,False,Sabonis 3' Layup (2 PTS) (Fox 1 AST),,2-5,2,5
+0022101043,2022-03-16,SAC,MIL,1.75,1,10,15,MIL,MIL,fg_miss,5,False,False,,MISS G. Antetokounmpo 3' Layup,2-5,2,5
+0022101043,2022-03-16,SAC,MIL,1.82,1,10,11,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:2),,2-5,2,5
+0022101043,2022-03-16,SAC,MIL,1.88,1,10,7,SAC,SAC,fg3_miss,2,False,False,MISS Barnes 3PT Running Jump Shot,,2-5,2,5
+0022101043,2022-03-16,SAC,MIL,1.93,1,10,4,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:1),2-5,2,5
+0022101043,2022-03-16,SAC,MIL,2.05,1,9,57,MIL,MIL,fg_make,63,False,False,,Middleton 6' Fadeaway Jumper (5 PTS),2-7,2,7
+0022101043,2022-03-16,SAC,MIL,2.32,1,9,41,SAC,SAC,fg_make,6,False,False,Barnes 4' Driving Layup (2 PTS) (Holiday 1 AST),,4-7,4,7
+0022101043,2022-03-16,SAC,MIL,2.32,1,9,41,SAC,MIL,foul,2,False,False,,Allen S.FOUL (P1.T1) (T.Washington),4-7,4,7
+0022101043,2022-03-16,SAC,MIL,2.32,1,9,41,SAC,SAC,ft_make,10,False,False,Barnes Free Throw 1 of 1 (3 PTS),,5-7,5,7
+0022101043,2022-03-16,SAC,MIL,2.45,1,9,33,MIL,MIL,fg3_miss,79,False,False,,MISS Holiday 25' 3PT Pullup Jump Shot,5-7,5,7
+0022101043,2022-03-16,SAC,MIL,2.5,1,9,30,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:3),,5-7,5,7
+0022101043,2022-03-16,SAC,MIL,2.68,1,9,19,SAC,SAC,fg3_make,1,False,False,Fox 26' 3PT Jump Shot (3 PTS) (Sabonis 1 AST),,8-7,8,7
+0022101043,2022-03-16,SAC,MIL,2.87,1,9,8,MIL,MIL,fg_make,52,False,False,,G. Antetokounmpo 1' Alley Oop Dunk (2 PTS) (Middleton 1 AST),8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.0,1,9,0,SAC,SAC,tov,2,False,True,Sabonis Lost Ball Turnover (P1.T1),,8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.0,1,9,0,SAC,MIL,steal,2,False,True,steal,steal,8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.05,1,8,57,MIL,MIL,tov,1,False,True,,Holiday Bad Pass Turnover (P1.T1),8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.05,1,8,57,MIL,SAC,steal,1,False,True,steal,steal,8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.23,1,8,46,SAC,SAC,fg_miss,3,False,False,MISS Sabonis 8' Hook Shot,,8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.3,1,8,42,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:0 Def:1),8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.3,1,8,42,SAC,MIL,foul,26,False,False,,G. Antetokounmpo Offensive Charge Foul (P1) (T.Washington),8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.3,1,8,42,MIL,MIL,tov,37,False,False,,G. Antetokounmpo Offensive Foul Turnover (P1.T2),8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.4,1,8,36,SAC,MIL,violation,5,False,False,,Holiday Violation:Kicked Ball (A.Nagy),8-9,8,9
+0022101043,2022-03-16,SAC,MIL,3.52,1,8,29,SAC,SAC,fg3_make,1,False,False,Lyles 3PT Jump Shot (3 PTS) (Fox 2 AST),,11-9,11,9
+0022101043,2022-03-16,SAC,MIL,3.78,1,8,13,MIL,MIL,fg_miss,66,False,False,,MISS G. Antetokounmpo 4' Jump Bank Shot,11-9,11,9
+0022101043,2022-03-16,SAC,MIL,3.8,1,8,12,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:1),11-9,11,9
+0022101043,2022-03-16,SAC,MIL,3.8,1,8,12,MIL,MIL,fg_make,72,False,False,,G. Antetokounmpo 2' Putback Layup (4 PTS),11-11,11,11
+0022101043,2022-03-16,SAC,MIL,3.97,1,8,2,SAC,SAC,fg3_miss,1,False,False,MISS Fox 25' 3PT Jump Shot,,11-11,11,11
+0022101043,2022-03-16,SAC,MIL,3.97,1,8,2,MIL,MIL,reb,0,False,False,,Bucks Rebound,11-11,11,11
+0022101043,2022-03-16,SAC,MIL,4.15,1,7,51,MIL,MIL,fg_miss,101,True,False,,MISS Middleton 8' Driving Floating Jump Shot,11-11,11,11
+0022101043,2022-03-16,SAC,MIL,4.15,1,7,51,MIL,SAC,block,101,True,False,block,block,11-11,11,11
+0022101043,2022-03-16,SAC,MIL,4.2,1,7,48,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:4),,11-11,11,11
+0022101043,2022-03-16,SAC,MIL,4.3,1,7,42,SAC,SAC,fg3_miss,1,False,False,MISS Holiday 3PT Jump Shot,,11-11,11,11
+0022101043,2022-03-16,SAC,MIL,4.37,1,7,38,MIL,MIL,reb,0,False,False,,Bucks Rebound,11-11,11,11
+0022101043,2022-03-16,SAC,MIL,4.52,1,7,29,MIL,MIL,fg3_make,1,False,False,,Allen 26' 3PT Jump Shot (3 PTS) (Holiday 1 AST),11-14,11,14
+0022101043,2022-03-16,SAC,MIL,4.77,1,7,14,SAC,SAC,fg3_miss,1,False,False,MISS Holiday 26' 3PT Jump Shot,,11-14,11,14
+0022101043,2022-03-16,SAC,MIL,4.85,1,7,9,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:2),11-14,11,14
+0022101043,2022-03-16,SAC,MIL,4.88,1,7,7,MIL,MIL,fg3_miss,79,False,False,,MISS G. Antetokounmpo 25' 3PT Pullup Jump Shot,11-14,11,14
+0022101043,2022-03-16,SAC,MIL,4.97,1,7,2,SAC,SAC,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,11-14,11,14
+0022101043,2022-03-16,SAC,MIL,5.1,1,6,54,SAC,SAC,fg_make,78,False,False,Fox 9' Floating Jump Shot (5 PTS),,13-14,13,14
+0022101043,2022-03-16,SAC,MIL,5.43,1,6,34,MIL,MIL,fg_miss,102,False,False,,MISS Holiday 12' Driving Floating Bank Jump Shot,13-14,13,14
+0022101043,2022-03-16,SAC,MIL,5.45,1,6,33,SAC,SAC,reb,0,False,False,KINGS Rebound,,13-14,13,14
+0022101043,2022-03-16,SAC,MIL,5.45,1,6,33,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 1 Short 0),,13-14,13,14
+0022101043,2022-03-16,SAC,MIL,5.63,1,6,22,SAC,SAC,fg_make,1,False,False,Sabonis 15' Jump Shot (4 PTS) (Fox 3 AST),,15-14,15,14
+0022101043,2022-03-16,SAC,MIL,5.88,1,6,7,MIL,MIL,fg_miss,5,True,False,,MISS Ibaka 3' Layup,15-14,15,14
+0022101043,2022-03-16,SAC,MIL,5.88,1,6,7,MIL,SAC,block,5,True,False,block,block,15-14,15,14
+0022101043,2022-03-16,SAC,MIL,5.95,1,6,3,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:0 Def:1),,15-14,15,14
+0022101043,2022-03-16,SAC,MIL,6.03,1,5,58,SAC,SAC,fg3_miss,1,False,False,MISS Barnes 25' 3PT Jump Shot,,15-14,15,14
+0022101043,2022-03-16,SAC,MIL,6.08,1,5,55,MIL,MIL,reb,0,False,False,,Ibaka REBOUND (Off:0 Def:1),15-14,15,14
+0022101043,2022-03-16,SAC,MIL,6.25,1,5,45,MIL,SAC,foul,2,False,False,Holmes S.FOUL (P1.T2) (A.Nagy),,15-14,15,14
+0022101043,2022-03-16,SAC,MIL,6.25,1,5,45,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (5 PTS),15-15,15,15
+0022101043,2022-03-16,SAC,MIL,6.25,1,5,45,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (6 PTS),15-16,15,16
+0022101043,2022-03-16,SAC,MIL,6.45,1,5,33,SAC,SAC,fg_make,78,False,False,Fox 11' Floating Jump Shot (7 PTS) (Holmes 1 AST),,17-16,17,16
+0022101043,2022-03-16,SAC,MIL,6.65,1,5,21,MIL,MIL,fg3_miss,1,False,False,,MISS Hill 27' 3PT Jump Shot,17-16,17,16
+0022101043,2022-03-16,SAC,MIL,6.7,1,5,18,SAC,SAC,reb,0,False,False,Sabonis REBOUND (Off:0 Def:1),,17-16,17,16
+0022101043,2022-03-16,SAC,MIL,6.8,1,5,12,SAC,SAC,fg3_miss,79,False,False,MISS Mitchell 26' 3PT Pullup Jump Shot,,17-16,17,16
+0022101043,2022-03-16,SAC,MIL,6.85,1,5,9,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:1),17-16,17,16
+0022101043,2022-03-16,SAC,MIL,7.0,1,5,0,MIL,MIL,fg_make,98,False,False,,Ibaka 3' Cutting Layup Shot (2 PTS) (Matthews 1 AST),17-18,17,18
+0022101043,2022-03-16,SAC,MIL,7.07,1,4,56,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P1.T2),,17-18,17,18
+0022101043,2022-03-16,SAC,MIL,7.07,1,4,56,SAC,MIL,steal,1,False,True,steal,steal,17-18,17,18
+0022101043,2022-03-16,SAC,MIL,7.33,1,4,40,MIL,MIL,fg_make,6,False,False,,Ibaka 4' Driving Layup (4 PTS) (Matthews 2 AST),17-20,17,20
+0022101043,2022-03-16,SAC,MIL,7.63,1,4,22,SAC,SAC,fg3_make,1,False,False,Mitchell 25' 3PT Jump Shot (3 PTS) (Fox 4 AST),,20-20,20,20
+0022101043,2022-03-16,SAC,MIL,7.83,1,4,10,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 25' 3PT Jump Shot,20-20,20,20
+0022101043,2022-03-16,SAC,MIL,7.85,1,4,9,SAC,SAC,reb,0,False,False,KINGS Rebound,,20-20,20,20
+0022101043,2022-03-16,SAC,MIL,8.07,1,3,56,SAC,SAC,fg_miss,78,False,False,MISS Holmes 14' Floating Jump Shot,,20-20,20,20
+0022101043,2022-03-16,SAC,MIL,8.12,1,3,53,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:2),20-20,20,20
+0022101043,2022-03-16,SAC,MIL,8.3,1,3,42,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P1.T3),20-20,20,20
+0022101043,2022-03-16,SAC,MIL,8.3,1,3,42,MIL,SAC,steal,1,False,True,steal,steal,20-20,20,20
+0022101043,2022-03-16,SAC,MIL,8.35,1,3,39,SAC,SAC,fg_miss,5,False,False,MISS Holmes 2' Layup,,20-20,20,20
+0022101043,2022-03-16,SAC,MIL,8.38,1,3,37,SAC,SAC,reb,0,False,False,Metu REBOUND (Off:1 Def:0),,20-20,20,20
+0022101043,2022-03-16,SAC,MIL,8.38,1,3,37,SAC,SAC,fg_make,107,False,False,Metu 3' Tip Dunk Shot (2 PTS),,22-20,22,20
+0022101043,2022-03-16,SAC,MIL,8.67,1,3,20,MIL,MIL,fg_make,47,False,False,,Portis 11' Turnaround Jump Shot (4 PTS) (Middleton 2 AST),22-22,22,22
+0022101043,2022-03-16,SAC,MIL,8.93,1,3,4,SAC,SAC,fg3_miss,1,False,False,MISS DiVincenzo 26' 3PT Jump Shot,,22-22,22,22
+0022101043,2022-03-16,SAC,MIL,9.0,1,3,0,MIL,MIL,reb,0,False,False,,Ibaka REBOUND (Off:0 Def:2),22-22,22,22
+0022101043,2022-03-16,SAC,MIL,9.1,1,2,54,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P2.T4),22-22,22,22
+0022101043,2022-03-16,SAC,MIL,9.1,1,2,54,MIL,SAC,steal,1,False,True,steal,steal,22-22,22,22
+0022101043,2022-03-16,SAC,MIL,9.27,1,2,44,SAC,SAC,fg_miss,6,False,False,MISS Fox 3' Driving Layup,,22-22,22,22
+0022101043,2022-03-16,SAC,MIL,9.37,1,2,38,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:1 Def:0),,22-22,22,22
+0022101043,2022-03-16,SAC,MIL,9.37,1,2,38,SAC,SAC,fg_make,97,False,False,Holmes 2' Tip Layup Shot (2 PTS),,24-22,24,22
+0022101043,2022-03-16,SAC,MIL,9.38,1,2,37,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),24-22,24,22
+0022101043,2022-03-16,SAC,MIL,9.5,1,2,30,MIL,MIL,fg_miss,6,False,False,,MISS Hill 2' Driving Layup,24-22,24,22
+0022101043,2022-03-16,SAC,MIL,9.6,1,2,24,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:1 Def:2),24-22,24,22
+0022101043,2022-03-16,SAC,MIL,9.6,1,2,24,MIL,MIL,fg_miss,97,False,False,,MISS Matthews Tip Layup Shot,24-22,24,22
+0022101043,2022-03-16,SAC,MIL,9.63,1,2,22,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:2 Def:2),24-22,24,22
+0022101043,2022-03-16,SAC,MIL,9.72,1,2,17,MIL,MIL,fg3_make,79,False,False,,Middleton 25' 3PT Pullup Jump Shot (8 PTS) (Portis 1 AST),24-25,24,25
+0022101043,2022-03-16,SAC,MIL,10.03,1,1,58,SAC,SAC,fg_make,1,False,False,Metu 18' Jump Shot (4 PTS),,26-25,26,25
+0022101043,2022-03-16,SAC,MIL,10.22,1,1,47,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 25' 3PT Jump Shot,26-25,26,25
+0022101043,2022-03-16,SAC,MIL,10.25,1,1,45,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:1),,26-25,26,25
+0022101043,2022-03-16,SAC,MIL,10.35,1,1,39,SAC,SAC,fg3_miss,1,False,False,MISS Fox 25' 3PT Jump Shot,,26-25,26,25
+0022101043,2022-03-16,SAC,MIL,10.45,1,1,33,SAC,SAC,reb,0,False,False,Metu REBOUND (Off:2 Def:0),,26-25,26,25
+0022101043,2022-03-16,SAC,MIL,10.45,1,1,33,SAC,SAC,fg_make,97,False,False,Metu Tip Layup Shot (6 PTS),,28-25,28,25
+0022101043,2022-03-16,SAC,MIL,10.62,1,1,23,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 25' 3PT Jump Shot,28-25,28,25
+0022101043,2022-03-16,SAC,MIL,10.65,1,1,21,SAC,SAC,reb,0,False,False,KINGS Rebound,,28-25,28,25
+0022101043,2022-03-16,SAC,MIL,11.0,1,1,0,SAC,SAC,fg_make,98,False,False,Sabonis 3' Cutting Layup Shot (6 PTS) (Mitchell 1 AST),,30-25,30,25
+0022101043,2022-03-16,SAC,MIL,11.0,1,1,0,SAC,MIL,foul,2,False,False,,Portis S.FOUL (P1.T2) (A.Nagy),30-25,30,25
+0022101043,2022-03-16,SAC,MIL,11.0,1,1,0,SAC,SAC,ft_make,10,False,False,Sabonis Free Throw 1 of 1 (7 PTS),,31-25,31,25
+0022101043,2022-03-16,SAC,MIL,11.23,1,0,46,MIL,MIL,fg3_miss,1,False,False,,MISS Carter 24' 3PT Jump Shot,31-25,31,25
+0022101043,2022-03-16,SAC,MIL,11.3,1,0,42,SAC,SAC,reb,0,False,False,Sabonis REBOUND (Off:0 Def:2),,31-25,31,25
+0022101043,2022-03-16,SAC,MIL,11.42,1,0,35,SAC,SAC,fg3_miss,1,False,False,MISS Metu 25' 3PT Jump Shot,,31-25,31,25
+0022101043,2022-03-16,SAC,MIL,11.47,1,0,32,MIL,MIL,reb,0,False,False,,Carter REBOUND (Off:0 Def:1),31-25,31,25
+0022101043,2022-03-16,SAC,MIL,11.58,1,0,25,MIL,MIL,fg3_make,1,False,False,,Matthews 3PT Jump Shot (3 PTS) (Portis 2 AST),31-28,31,28
+0022101043,2022-03-16,SAC,MIL,11.58,1,0,25,MIL,SAC,foul,2,False,False,DiVincenzo S.FOUL (P1.T3) (A.Nagy),,31-28,31,28
+0022101043,2022-03-16,SAC,MIL,11.58,1,0,25,MIL,MIL,ft_miss,10,False,False,,MISS Matthews Free Throw 1 of 1,31-28,31,28
+0022101043,2022-03-16,SAC,MIL,11.63,1,0,22,SAC,SAC,reb,0,False,False,Mitchell REBOUND (Off:0 Def:1),,31-28,31,28
+0022101043,2022-03-16,SAC,MIL,11.97,1,0,2,SAC,SAC,fg_miss,3,True,False,MISS DiVincenzo 3' Hook Shot,,31-28,31,28
+0022101043,2022-03-16,SAC,MIL,11.97,1,0,2,SAC,MIL,block,3,True,False,block,block,31-28,31,28
+0022101043,2022-03-16,SAC,MIL,11.97,1,0,2,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:3),31-28,31,28
+0022101043,2022-03-16,SAC,MIL,12.0,1,0,0,MIL,,period_end,0,False,False,,,31-28,31,28
+0022101043,2022-03-16,SAC,MIL,12.0,2,12,0,MIL,,period_start,0,False,False,,,31-28,31,28
+0022101043,2022-03-16,SAC,MIL,12.28,2,11,43,SAC,SAC,fg3_make,1,False,False,Mitchell 26' 3PT Jump Shot (6 PTS) (Metu 1 AST),,34-28,34,28
+0022101043,2022-03-16,SAC,MIL,12.73,2,11,16,MIL,MIL,fg3_make,1,False,False,,Lopez 24' 3PT Jump Shot (3 PTS),34-31,34,31
+0022101043,2022-03-16,SAC,MIL,12.97,2,11,2,SAC,SAC,fg_miss,79,False,False,MISS Holiday 18' Pullup Jump Shot,,34-31,34,31
+0022101043,2022-03-16,SAC,MIL,13.02,2,10,59,MIL,MIL,reb,0,False,False,,Carter REBOUND (Off:0 Def:2),34-31,34,31
+0022101043,2022-03-16,SAC,MIL,13.15,2,10,51,MIL,MIL,tov,1,False,True,,Holiday Bad Pass Turnover (P2.T5),34-31,34,31
+0022101043,2022-03-16,SAC,MIL,13.15,2,10,51,MIL,SAC,steal,1,False,True,steal,steal,34-31,34,31
+0022101043,2022-03-16,SAC,MIL,13.23,2,10,46,SAC,MIL,foul,2,False,False,,Lopez S.FOUL (P1.T1) (A.Nagy),34-31,34,31
+0022101043,2022-03-16,SAC,MIL,13.23,2,10,46,SAC,SAC,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (8 PTS),,35-31,35,31
+0022101043,2022-03-16,SAC,MIL,13.23,2,10,46,SAC,SAC,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (9 PTS),,36-31,36,31
+0022101043,2022-03-16,SAC,MIL,13.47,2,10,32,MIL,MIL,fg_make,79,False,False,,G. Antetokounmpo 16' Pullup Jump Shot (8 PTS),36-33,36,33
+0022101043,2022-03-16,SAC,MIL,13.68,2,10,19,SAC,SAC,fg_make,57,False,False,Sabonis 6' Driving Hook Shot (11 PTS),,38-33,38,33
+0022101043,2022-03-16,SAC,MIL,13.83,2,10,10,MIL,MIL,fg3_make,80,False,False,,Carter 25' 3PT Step Back Jump Shot (3 PTS),38-36,38,36
+0022101043,2022-03-16,SAC,MIL,14.12,2,9,53,SAC,SAC,fg3_make,1,False,False,DiVincenzo 24' 3PT Jump Shot (3 PTS) (Holiday 2 AST),,41-36,41,36
+0022101043,2022-03-16,SAC,MIL,14.38,2,9,37,MIL,MIL,fg_make,5,False,False,,G. Antetokounmpo 2' Layup (10 PTS) (Portis 3 AST),41-38,41,38
+0022101043,2022-03-16,SAC,MIL,14.55,2,9,27,SAC,MIL,foul,1,False,False,,Carter P.FOUL (P1.T2) (P.Fraher),41-38,41,38
+0022101043,2022-03-16,SAC,MIL,14.73,2,9,16,SAC,SAC,fg3_miss,1,False,False,MISS DiVincenzo 3PT Jump Shot,,41-38,41,38
+0022101043,2022-03-16,SAC,MIL,14.78,2,9,13,MIL,MIL,reb,0,False,False,,Carter REBOUND (Off:0 Def:3),41-38,41,38
+0022101043,2022-03-16,SAC,MIL,14.93,2,9,4,MIL,MIL,fg_make,86,False,False,,Holiday 9' Turnaround Fadeaway (2 PTS),41-40,41,40
+0022101043,2022-03-16,SAC,MIL,15.2,2,8,48,SAC,SAC,fg3_make,1,False,False,DiVincenzo 24' 3PT Jump Shot (6 PTS) (Mitchell 2 AST),,44-40,44,40
+0022101043,2022-03-16,SAC,MIL,15.33,2,8,40,MIL,SAC,foul,2,False,False,Metu S.FOUL (P1.T1) (A.Nagy),,44-40,44,40
+0022101043,2022-03-16,SAC,MIL,15.33,2,8,40,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (11 PTS),44-41,44,41
+0022101043,2022-03-16,SAC,MIL,15.33,2,8,40,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (12 PTS),44-42,44,42
+0022101043,2022-03-16,SAC,MIL,15.52,2,8,29,SAC,SAC,fg3_make,1,False,False,Metu 24' 3PT Jump Shot (9 PTS) (DiVincenzo 1 AST),,47-42,47,42
+0022101043,2022-03-16,SAC,MIL,15.72,2,8,17,MIL,MIL,fg_miss,6,True,False,,MISS G. Antetokounmpo 3' Driving Layup,47-42,47,42
+0022101043,2022-03-16,SAC,MIL,15.72,2,8,17,MIL,SAC,block,6,True,False,block,block,47-42,47,42
+0022101043,2022-03-16,SAC,MIL,15.78,2,8,13,SAC,SAC,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,47-42,47,42
+0022101043,2022-03-16,SAC,MIL,15.8,2,8,12,SAC,MIL,foul,1,False,False,,Lopez P.FOUL (P2.T3) (A.Nagy),47-42,47,42
+0022101043,2022-03-16,SAC,MIL,15.92,2,8,5,SAC,SAC,fg3_make,1,False,False,Holiday 26' 3PT Jump Shot (3 PTS) (Sabonis 2 AST),,50-42,50,42
+0022101043,2022-03-16,SAC,MIL,16.2,2,7,48,MIL,MIL,fg_make,6,False,False,,Holiday 3' Driving Layup (4 PTS),50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.38,2,7,37,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P2.T3),,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.38,2,7,37,SAC,MIL,steal,1,False,True,steal,steal,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.42,2,7,35,MIL,SAC,foul,2,False,False,Metu S.FOUL (P2.T2) (P.Fraher),,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.42,2,7,35,MIL,MIL,ft_miss,11,False,False,,MISS G. Antetokounmpo Free Throw 1 of 2,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.42,2,7,35,MIL,MIL,reb,1,False,False,,Bucks Rebound,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.42,2,7,35,MIL,MIL,ft_miss,12,False,False,,MISS G. Antetokounmpo Free Throw 2 of 2,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.42,2,7,35,SAC,SAC,reb,0,False,False,Sabonis REBOUND (Off:0 Def:3),,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.67,2,7,20,SAC,SAC,fg3_miss,1,False,False,MISS Lyles 26' 3PT Jump Shot,,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.75,2,7,15,MIL,MIL,reb,0,False,False,,Allen REBOUND (Off:0 Def:1),50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.87,2,7,8,MIL,MIL,fg_miss,79,False,False,,MISS G. Antetokounmpo 19' Pullup Jump Shot,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,16.92,2,7,5,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:5),,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.0,2,7,0,SAC,SAC,fg3_miss,1,False,False,MISS Sabonis 26' 3PT Jump Shot,,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.12,2,6,53,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:2),50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.17,2,6,50,MIL,MIL,fg_miss,78,False,False,,MISS Middleton 13' Floating Jump Shot,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.25,2,6,45,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:6),,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.37,2,6,38,SAC,SAC,fg_miss,80,False,False,MISS Sabonis 16' Step Back Jump Shot,,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.43,2,6,34,MIL,MIL,reb,0,False,False,,Allen REBOUND (Off:0 Def:2),50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.47,2,6,32,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.2 Short 0),50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.67,2,6,20,MIL,MIL,fg_miss,1,False,False,,MISS Holiday 16' Jump Shot,50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.72,2,6,17,MIL,MIL,reb,0,False,False,,Allen REBOUND (Off:1 Def:2),50-44,50,44
+0022101043,2022-03-16,SAC,MIL,17.75,2,6,15,MIL,MIL,fg3_make,1,False,False,,Middleton 27' 3PT Jump Shot (11 PTS) (Allen 1 AST),50-47,50,47
+0022101043,2022-03-16,SAC,MIL,18.05,2,5,57,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P3.T4),,50-47,50,47
+0022101043,2022-03-16,SAC,MIL,18.05,2,5,57,SAC,MIL,steal,1,False,True,steal,steal,50-47,50,47
+0022101043,2022-03-16,SAC,MIL,18.18,2,5,49,MIL,MIL,fg3_make,1,False,False,,Middleton 25' 3PT Jump Shot (14 PTS) (Holiday 2 AST),50-50,50,50
+0022101043,2022-03-16,SAC,MIL,18.4,2,5,36,SAC,SAC,fg_miss,6,False,False,MISS Fox 3' Driving Layup,,50-50,50,50
+0022101043,2022-03-16,SAC,MIL,18.45,2,5,33,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),50-50,50,50
+0022101043,2022-03-16,SAC,MIL,18.6,2,5,24,MIL,SAC,foul,11,False,False,Fox T.FOUL (P0.T2) (P.Fraher),,50-50,50,50
+0022101043,2022-03-16,SAC,MIL,18.6,2,5,24,MIL,MIL,ft_make,16,False,False,,Middleton Free Throw Technical (15 PTS),50-51,50,51
+0022101043,2022-03-16,SAC,MIL,18.82,2,5,11,MIL,MIL,fg_miss,63,False,False,,MISS Middleton 19' Fadeaway Jumper,50-51,50,51
+0022101043,2022-03-16,SAC,MIL,18.9,2,5,6,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:2),,50-51,50,51
+0022101043,2022-03-16,SAC,MIL,19.05,2,4,57,SAC,SAC,fg_make,101,False,False,Barnes 4' Driving Floating Jump Shot (5 PTS) (Lyles 1 AST),,52-51,52,51
+0022101043,2022-03-16,SAC,MIL,19.42,2,4,35,MIL,MIL,fg_make,1,False,False,,Ibaka 16' Jump Shot (6 PTS) (Hill 1 AST),52-53,52,53
+0022101043,2022-03-16,SAC,MIL,19.55,2,4,27,SAC,SAC,fg_miss,6,False,False,MISS Fox 4' Driving Layup,,52-53,52,53
+0022101043,2022-03-16,SAC,MIL,19.58,2,4,25,MIL,MIL,reb,0,False,False,,Hill REBOUND (Off:0 Def:1),52-53,52,53
+0022101043,2022-03-16,SAC,MIL,19.8,2,4,12,MIL,MIL,fg_make,80,False,False,,Middleton 16' Step Back Jump Shot (17 PTS),52-55,52,55
+0022101043,2022-03-16,SAC,MIL,19.82,2,4,11,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 2 Short 0),,52-55,52,55
+0022101043,2022-03-16,SAC,MIL,19.93,2,4,4,SAC,SAC,fg3_make,1,False,False,DiVincenzo 26' 3PT Jump Shot (9 PTS) (Fox 5 AST),,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.33,2,3,40,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 25' 3PT Jump Shot,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.38,2,3,37,SAC,SAC,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:1),,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.48,2,3,31,SAC,SAC,tov,2,False,True,Barnes Lost Ball Turnover (P1.T5),,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.48,2,3,31,SAC,MIL,steal,2,False,True,steal,steal,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.58,2,3,25,MIL,MIL,fg_miss,41,False,False,,MISS Middleton 3' Running Layup,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.62,2,3,23,SAC,SAC,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:2),,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.83,2,3,10,SAC,SAC,fg3_miss,1,False,False,MISS DiVincenzo 26' 3PT Jump Shot,,55-55,55,55
+0022101043,2022-03-16,SAC,MIL,20.87,2,3,8,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:4),55-55,55,55
+0022101043,2022-03-16,SAC,MIL,21.15,2,2,51,MIL,MIL,fg_make,78,False,False,,Portis 16' Floating Jump Shot (6 PTS) (Middleton 3 AST),55-57,55,57
+0022101043,2022-03-16,SAC,MIL,21.35,2,2,39,SAC,SAC,fg_miss,79,False,False,MISS Fox 14' Pullup Jump Shot,,55-57,55,57
+0022101043,2022-03-16,SAC,MIL,21.4,2,2,36,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:3),55-57,55,57
+0022101043,2022-03-16,SAC,MIL,21.57,2,2,26,MIL,MIL,fg3_make,1,False,False,,Hill 3PT Jump Shot (3 PTS) (Middleton 4 AST),55-60,55,60
+0022101043,2022-03-16,SAC,MIL,21.77,2,2,14,SAC,MIL,foul,2,False,False,,Hill S.FOUL (P1.T4) (T.Washington),55-60,55,60
+0022101043,2022-03-16,SAC,MIL,21.77,2,2,14,SAC,SAC,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (12 PTS),,56-60,56,60
+0022101043,2022-03-16,SAC,MIL,21.77,2,2,14,SAC,SAC,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (13 PTS),,57-60,57,60
+0022101043,2022-03-16,SAC,MIL,22.02,2,1,59,MIL,SAC,foul,2,False,False,Mitchell S.FOUL (P1.T3) (T.Washington),,57-60,57,60
+0022101043,2022-03-16,SAC,MIL,22.02,2,1,59,MIL,MIL,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (5 PTS),57-61,57,61
+0022101043,2022-03-16,SAC,MIL,22.02,2,1,59,MIL,MIL,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (6 PTS),57-62,57,62
+0022101043,2022-03-16,SAC,MIL,22.22,2,1,47,SAC,SAC,fg_miss,6,False,False,MISS Sabonis 3' Driving Layup,,57-62,57,62
+0022101043,2022-03-16,SAC,MIL,22.28,2,1,43,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:1 Def:1),,57-62,57,62
+0022101043,2022-03-16,SAC,MIL,22.3,2,1,42,SAC,SAC,fg_miss,6,True,False,MISS Lyles 2' Driving Layup,,57-62,57,62
+0022101043,2022-03-16,SAC,MIL,22.3,2,1,42,SAC,MIL,block,6,True,False,block,block,57-62,57,62
+0022101043,2022-03-16,SAC,MIL,22.3,2,1,42,SAC,SAC,reb,0,False,False,KINGS Rebound,,57-62,57,62
+0022101043,2022-03-16,SAC,MIL,22.43,2,1,34,SAC,SAC,fg_make,63,False,False,DiVincenzo 15' Fadeaway Jumper (11 PTS) (Sabonis 3 AST),,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,22.88,2,1,7,MIL,MIL,fg_miss,47,False,False,,MISS Holiday 12' Turnaround Jump Shot,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,22.93,2,1,4,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:7),,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.0,2,1,0,SAC,SAC,fg3_miss,1,False,False,MISS DiVincenzo 28' 3PT Jump Shot,,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.0,2,1,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.05,2,0,57,MIL,SAC,foul,3,False,False,Barnes L.B.FOUL (P1.PN) (A.Nagy),,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.05,2,0,57,MIL,MIL,ft_miss,11,False,False,,MISS Hill Free Throw 1 of 2,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.05,2,0,57,MIL,MIL,reb,1,False,False,,Bucks Rebound,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.05,2,0,57,MIL,MIL,ft_miss,12,False,False,,MISS Hill Free Throw 2 of 2,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.1,2,0,54,SAC,SAC,reb,0,False,False,Mitchell REBOUND (Off:0 Def:2),,59-62,59,62
+0022101043,2022-03-16,SAC,MIL,23.32,2,0,41,SAC,SAC,fg_make,6,False,False,Mitchell 2' Driving Layup (8 PTS),,61-62,61,62
+0022101043,2022-03-16,SAC,MIL,23.45,2,0,33,MIL,MIL,fg_make,6,False,False,,Holiday 2' Driving Layup (8 PTS),61-64,61,64
+0022101043,2022-03-16,SAC,MIL,23.77,2,0,14,SAC,SAC,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,61-64,61,64
+0022101043,2022-03-16,SAC,MIL,23.87,2,0,8,MIL,MIL,reb,0,False,False,,Hill REBOUND (Off:0 Def:2),61-64,61,64
+0022101043,2022-03-16,SAC,MIL,23.9,2,0,6,MIL,MIL,fg_make,50,False,False,,G. Antetokounmpo 1' Running Dunk (14 PTS),61-66,61,66
+0022101043,2022-03-16,SAC,MIL,23.98,2,0,1,SAC,SAC,fg_miss,41,False,False,MISS Lyles 4' Running Layup,,61-66,61,66
+0022101043,2022-03-16,SAC,MIL,24.0,2,0,0,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:0 Def:2),61-66,61,66
+0022101043,2022-03-16,SAC,MIL,24.0,2,0,0,MIL,SAC,foul,3,False,False,Sabonis L.B.FOUL (P1.PN) (P.Fraher),,61-66,61,66
+0022101043,2022-03-16,SAC,MIL,24.0,2,0,0,MIL,MIL,ft_make,11,False,False,,Matthews Free Throw 1 of 2 (4 PTS),61-67,61,67
+0022101043,2022-03-16,SAC,MIL,24.0,2,0,0,MIL,MIL,ft_make,12,False,False,,Matthews Free Throw 2 of 2 (5 PTS),61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.0,2,0,0,MIL,,period_end,0,False,False,,,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.0,3,12,0,MIL,,period_start,0,False,False,,,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.22,3,11,47,SAC,SAC,tov,1,False,True,Holiday Bad Pass Turnover (P1.T6),,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.22,3,11,47,SAC,MIL,steal,1,False,True,steal,steal,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.37,3,11,38,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.43,3,11,34,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:0 Def:8),,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.65,3,11,21,SAC,SAC,tov,1,False,True,Sabonis Bad Pass Turnover (P2.T7),,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.65,3,11,21,SAC,MIL,steal,1,False,True,steal,steal,61-68,61,68
+0022101043,2022-03-16,SAC,MIL,24.72,3,11,17,MIL,MIL,fg_make,41,False,False,,G. Antetokounmpo 1' Running Layup (16 PTS) (Middleton 5 AST),61-70,61,70
+0022101043,2022-03-16,SAC,MIL,24.97,3,11,2,SAC,MIL,foul,2,False,False,,G. Antetokounmpo S.FOUL (P2.T1) (A.Nagy),61-70,61,70
+0022101043,2022-03-16,SAC,MIL,24.97,3,11,2,SAC,SAC,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (14 PTS),,62-70,62,70
+0022101043,2022-03-16,SAC,MIL,24.97,3,11,2,SAC,SAC,ft_miss,12,False,False,MISS Sabonis Free Throw 2 of 2,,62-70,62,70
+0022101043,2022-03-16,SAC,MIL,25.03,3,10,58,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:3),62-70,62,70
+0022101043,2022-03-16,SAC,MIL,25.13,3,10,52,MIL,MIL,fg3_miss,79,False,False,,MISS G. Antetokounmpo 26' 3PT Pullup Jump Shot,62-70,62,70
+0022101043,2022-03-16,SAC,MIL,25.18,3,10,49,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:3),,62-70,62,70
+0022101043,2022-03-16,SAC,MIL,25.22,3,10,47,SAC,SAC,fg3_make,103,False,False,Fox 25' 3PT Running Pull-Up Jump Shot (10 PTS),,65-70,65,70
+0022101043,2022-03-16,SAC,MIL,25.55,3,10,27,MIL,MIL,fg3_make,1,False,False,,Middleton 26' 3PT Jump Shot (20 PTS),65-73,65,73
+0022101043,2022-03-16,SAC,MIL,25.85,3,10,9,SAC,SAC,tov,2,False,True,Sabonis Lost Ball Turnover (P3.T8),,65-73,65,73
+0022101043,2022-03-16,SAC,MIL,25.85,3,10,9,SAC,MIL,steal,2,False,True,steal,steal,65-73,65,73
+0022101043,2022-03-16,SAC,MIL,26.0,3,10,0,MIL,MIL,fg3_make,1,False,False,,Allen 3PT Jump Shot (6 PTS) (Middleton 6 AST),65-76,65,76
+0022101043,2022-03-16,SAC,MIL,26.23,3,9,46,SAC,SAC,fg_miss,6,False,False,MISS Fox 1' Driving Layup,,65-76,65,76
+0022101043,2022-03-16,SAC,MIL,26.23,3,9,46,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:1 Def:8),,65-76,65,76
+0022101043,2022-03-16,SAC,MIL,26.33,3,9,40,SAC,SAC,fg3_make,1,False,False,Barnes 25' 3PT Jump Shot (8 PTS) (Sabonis 4 AST),,68-76,68,76
+0022101043,2022-03-16,SAC,MIL,26.5,3,9,30,MIL,MIL,fg_make,108,False,False,,Portis 1' Cutting Dunk Shot (8 PTS) (Middleton 7 AST),68-78,68,78
+0022101043,2022-03-16,SAC,MIL,26.63,3,9,22,SAC,MIL,foul,2,False,False,,Middleton S.FOUL (P1.T2) (P.Fraher),68-78,68,78
+0022101043,2022-03-16,SAC,MIL,26.63,3,9,22,SAC,SAC,ft_make,11,False,False,Holiday Free Throw 1 of 2 (4 PTS),,69-78,69,78
+0022101043,2022-03-16,SAC,MIL,26.63,3,9,22,SAC,SAC,ft_make,12,False,False,Holiday Free Throw 2 of 2 (5 PTS),,70-78,70,78
+0022101043,2022-03-16,SAC,MIL,26.78,3,9,13,MIL,MIL,fg_miss,6,False,False,,MISS G. Antetokounmpo 2' Driving Layup,70-78,70,78
+0022101043,2022-03-16,SAC,MIL,26.85,3,9,9,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:4),,70-78,70,78
+0022101043,2022-03-16,SAC,MIL,26.98,3,9,1,SAC,MIL,foul,1,False,False,,Portis P.FOUL (P2.T3) (T.Washington),70-78,70,78
+0022101043,2022-03-16,SAC,MIL,27.08,3,8,55,SAC,SAC,fg3_miss,1,False,False,MISS Fox 25' 3PT Jump Shot,,70-78,70,78
+0022101043,2022-03-16,SAC,MIL,27.2,3,8,48,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:4),70-78,70,78
+0022101043,2022-03-16,SAC,MIL,27.2,3,8,48,MIL,MIL,tov,45,False,False,,Middleton Out of Bounds - Bad Pass Turnover Turnover (P3.T6),70-78,70,78
+0022101043,2022-03-16,SAC,MIL,27.48,3,8,31,SAC,MIL,foul,2,False,False,,Middleton S.FOUL (P2.T4) (P.Fraher),70-78,70,78
+0022101043,2022-03-16,SAC,MIL,27.48,3,8,31,SAC,SAC,ft_make,11,False,False,Barnes Free Throw 1 of 2 (9 PTS),,71-78,71,78
+0022101043,2022-03-16,SAC,MIL,27.48,3,8,31,SAC,SAC,ft_make,12,False,False,Barnes Free Throw 2 of 2 (10 PTS),,72-78,72,78
+0022101043,2022-03-16,SAC,MIL,27.7,3,8,18,SAC,MIL,foul,26,False,False,,G. Antetokounmpo Offensive Charge Foul (P3) (P.Fraher),72-78,72,78
+0022101043,2022-03-16,SAC,MIL,27.7,3,8,18,MIL,MIL,tov,37,False,False,,G. Antetokounmpo Offensive Foul Turnover (P2.T7),72-78,72,78
+0022101043,2022-03-16,SAC,MIL,27.98,3,8,1,SAC,SAC,fg_make,6,False,False,Lyles 2' Driving Layup (5 PTS) (Sabonis 5 AST),,74-78,74,78
+0022101043,2022-03-16,SAC,MIL,28.13,3,7,52,MIL,MIL,tov,1,False,True,,Allen Bad Pass Turnover (P1.T8),74-78,74,78
+0022101043,2022-03-16,SAC,MIL,28.13,3,7,52,MIL,SAC,steal,1,False,True,steal,steal,74-78,74,78
+0022101043,2022-03-16,SAC,MIL,28.4,3,7,36,SAC,SAC,fg3_make,1,False,False,Lyles 3PT Jump Shot (8 PTS) (Barnes 1 AST),,77-78,77,78
+0022101043,2022-03-16,SAC,MIL,28.53,3,7,28,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.3 Short 0),77-78,77,78
+0022101043,2022-03-16,SAC,MIL,28.67,3,7,20,MIL,MIL,fg_make,98,False,False,,Holiday 3' Cutting Layup Shot (10 PTS) (Middleton 8 AST),77-80,77,80
+0022101043,2022-03-16,SAC,MIL,28.93,3,7,4,SAC,SAC,fg_miss,5,False,False,MISS Sabonis 3' Layup,,77-80,77,80
+0022101043,2022-03-16,SAC,MIL,29.0,3,7,0,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:5),77-80,77,80
+0022101043,2022-03-16,SAC,MIL,29.05,3,6,57,MIL,SAC,foul,1,False,False,Barnes P.FOUL (P2.T1) (A.Nagy),,77-80,77,80
+0022101043,2022-03-16,SAC,MIL,29.17,3,6,50,MIL,SAC,foul,2,False,False,Holiday S.FOUL (P1.T2) (T.Washington),,77-80,77,80
+0022101043,2022-03-16,SAC,MIL,29.17,3,6,50,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (21 PTS),77-81,77,81
+0022101043,2022-03-16,SAC,MIL,29.17,3,6,50,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (22 PTS),77-82,77,82
+0022101043,2022-03-16,SAC,MIL,29.3,3,6,42,SAC,SAC,fg3_make,1,False,False,Holiday 26' 3PT Jump Shot (8 PTS) (Fox 6 AST),,80-82,80,82
+0022101043,2022-03-16,SAC,MIL,29.48,3,6,31,MIL,MIL,fg3_miss,103,False,False,,MISS Holiday 25' 3PT Running Pull-Up Jump Shot,80-82,80,82
+0022101043,2022-03-16,SAC,MIL,29.53,3,6,28,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:1 Def:2),,80-82,80,82
+0022101043,2022-03-16,SAC,MIL,29.67,3,6,20,SAC,SAC,fg3_miss,1,False,False,MISS Lyles 26' 3PT Jump Shot,,80-82,80,82
+0022101043,2022-03-16,SAC,MIL,29.7,3,6,18,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:6),80-82,80,82
+0022101043,2022-03-16,SAC,MIL,29.87,3,6,8,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 25' 3PT Jump Shot,80-82,80,82
+0022101043,2022-03-16,SAC,MIL,29.93,3,6,4,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:4),80-82,80,82
+0022101043,2022-03-16,SAC,MIL,29.95,3,6,3,MIL,MIL,fg_make,72,False,False,,Portis 3' Putback Layup (10 PTS),80-84,80,84
+0022101043,2022-03-16,SAC,MIL,30.13,3,5,52,SAC,SAC,fg3_miss,1,False,False,MISS Fox 25' 3PT Jump Shot,,80-84,80,84
+0022101043,2022-03-16,SAC,MIL,30.2,3,5,48,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:5),80-84,80,84
+0022101043,2022-03-16,SAC,MIL,30.28,3,5,43,MIL,MIL,fg_make,6,False,False,,Middleton 3' Driving Layup (24 PTS),80-86,80,86
+0022101043,2022-03-16,SAC,MIL,30.4,3,5,36,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 3 Short 0),,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,30.68,3,5,19,SAC,SAC,fg_miss,78,False,False,MISS Fox 8' Floating Jump Shot,,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,30.73,3,5,16,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.08,3,4,55,MIL,MIL,fg_miss,63,False,False,,MISS Lopez 12' Fadeaway Jumper,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.08,3,4,55,MIL,MIL,reb,0,False,False,,Bucks Rebound,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.08,3,4,55,MIL,MIL,tov,11,False,False,,Bucks Turnover: Shot Clock (T#9),80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.3,3,4,42,SAC,SAC,fg3_miss,1,False,False,MISS Sabonis 25' 3PT Jump Shot,,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.35,3,4,39,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:7),80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.45,3,4,33,MIL,MIL,fg3_miss,1,False,False,,MISS Holiday 24' 3PT Jump Shot,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.52,3,4,29,SAC,SAC,reb,0,False,False,Metu REBOUND (Off:2 Def:1),,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.62,3,4,23,SAC,SAC,tov,39,False,False,Fox Step Out of Bounds Turnover (P4.T9),,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.9,3,4,6,MIL,MIL,fg_miss,1,False,False,,MISS Middleton 9' Jump Shot,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,31.93,3,4,4,SAC,SAC,reb,0,False,False,Sabonis REBOUND (Off:0 Def:4),,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,32.0,3,4,0,SAC,SAC,fg_miss,1,False,False,MISS DiVincenzo 19' Jump Shot,,80-86,80,86
+0022101043,2022-03-16,SAC,MIL,32.05,3,3,57,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:4),80-86,80,86
+0022101043,2022-03-16,SAC,MIL,32.15,3,3,51,MIL,MIL,fg3_make,1,False,False,,Hill 3PT Jump Shot (6 PTS) (G. Antetokounmpo 1 AST),80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.37,3,3,38,SAC,SAC,tov,40,False,False,Fox Out of Bounds Lost Ball Turnover (P5.T10),,80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.67,3,3,20,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 3PT Jump Shot,80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.73,3,3,16,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:3 Def:2),80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.75,3,3,15,MIL,MIL,tov,1,False,True,,Matthews Bad Pass Turnover (P1.T10),80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.75,3,3,15,MIL,SAC,steal,1,False,True,steal,steal,80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.83,3,3,10,SAC,SAC,fg_miss,41,False,False,MISS DiVincenzo 1' Running Layup,,80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.83,3,3,10,SAC,SAC,reb,0,False,False,Sabonis REBOUND (Off:1 Def:4),,80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.83,3,3,10,SAC,MIL,foul,2,False,False,,Matthews S.FOUL (P1.PN) (P.Fraher),80-89,80,89
+0022101043,2022-03-16,SAC,MIL,32.83,3,3,10,SAC,SAC,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (15 PTS),,81-89,81,89
+0022101043,2022-03-16,SAC,MIL,32.83,3,3,10,SAC,SAC,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (16 PTS),,82-89,82,89
+0022101043,2022-03-16,SAC,MIL,33.0,3,3,0,MIL,SAC,foul,1,False,False,Metu P.FOUL (P3.T3) (P.Fraher),,82-89,82,89
+0022101043,2022-03-16,SAC,MIL,33.13,3,2,52,MIL,MIL,fg_miss,9,True,False,,MISS G. Antetokounmpo 2' Driving Dunk,82-89,82,89
+0022101043,2022-03-16,SAC,MIL,33.13,3,2,52,MIL,SAC,block,9,True,False,block,block,82-89,82,89
+0022101043,2022-03-16,SAC,MIL,33.17,3,2,50,SAC,SAC,reb,0,False,False,Harkless REBOUND (Off:0 Def:1),,82-89,82,89
+0022101043,2022-03-16,SAC,MIL,33.25,3,2,45,SAC,MIL,foul,2,False,False,,Lopez S.FOUL (P3.PN) (P.Fraher),82-89,82,89
+0022101043,2022-03-16,SAC,MIL,33.25,3,2,45,SAC,SAC,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (17 PTS),,83-89,83,89
+0022101043,2022-03-16,SAC,MIL,33.25,3,2,45,SAC,SAC,ft_miss,12,False,False,MISS Sabonis Free Throw 2 of 2,,83-89,83,89
+0022101043,2022-03-16,SAC,MIL,33.3,3,2,42,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:1 Def:5),83-89,83,89
+0022101043,2022-03-16,SAC,MIL,33.43,3,2,34,MIL,SAC,foul,2,False,False,Harkless S.FOUL (P1.T4) (T.Washington),,83-89,83,89
+0022101043,2022-03-16,SAC,MIL,33.43,3,2,34,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (17 PTS),83-90,83,90
+0022101043,2022-03-16,SAC,MIL,33.43,3,2,34,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (18 PTS),83-91,83,91
+0022101043,2022-03-16,SAC,MIL,33.77,3,2,14,SAC,SAC,fg_make,78,False,False,Mitchell 11' Floating Jump Shot (10 PTS) (Sabonis 6 AST),,85-91,85,91
+0022101043,2022-03-16,SAC,MIL,34.02,3,1,59,MIL,SAC,foul,1,False,False,Metu P.FOUL (P4.PN) (P.Fraher),,85-91,85,91
+0022101043,2022-03-16,SAC,MIL,34.02,3,1,59,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (19 PTS),85-92,85,92
+0022101043,2022-03-16,SAC,MIL,34.02,3,1,59,MIL,MIL,ft_miss,12,False,False,,MISS G. Antetokounmpo Free Throw 2 of 2,85-92,85,92
+0022101043,2022-03-16,SAC,MIL,34.08,3,1,55,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:2 Def:5),85-92,85,92
+0022101043,2022-03-16,SAC,MIL,34.12,3,1,53,MIL,MIL,fg_make,6,False,False,,G. Antetokounmpo 3' Driving Layup (21 PTS),85-94,85,94
+0022101043,2022-03-16,SAC,MIL,34.38,3,1,37,SAC,SAC,fg_make,98,False,False,Sabonis 3' Cutting Layup Shot (19 PTS) (Mitchell 3 AST),,87-94,87,94
+0022101043,2022-03-16,SAC,MIL,34.55,3,1,27,MIL,MIL,fg_make,63,False,False,,G. Antetokounmpo 15' Fadeaway Jumper (23 PTS),87-96,87,96
+0022101043,2022-03-16,SAC,MIL,34.83,3,1,10,SAC,SAC,fg_make,78,False,False,DiVincenzo 7' Floating Jump Shot (13 PTS),,89-96,89,96
+0022101043,2022-03-16,SAC,MIL,34.95,3,1,3,MIL,SAC,foul,2,False,False,Lyles S.FOUL (P2.PN) (A.Nagy),,89-96,89,96
+0022101043,2022-03-16,SAC,MIL,34.95,3,1,3,MIL,MIL,ft_miss,11,False,False,,MISS G. Antetokounmpo Free Throw 1 of 2,89-96,89,96
+0022101043,2022-03-16,SAC,MIL,34.95,3,1,3,MIL,MIL,reb,1,False,False,,Bucks Rebound,89-96,89,96
+0022101043,2022-03-16,SAC,MIL,34.95,3,1,3,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (24 PTS),89-97,89,97
+0022101043,2022-03-16,SAC,MIL,35.17,3,0,50,SAC,SAC,fg_make,80,False,False,Mitchell 11' Step Back Jump Shot (12 PTS),,91-97,91,97
+0022101043,2022-03-16,SAC,MIL,35.42,3,0,35,MIL,MIL,fg_make,79,False,False,,G. Antetokounmpo 16' Pullup Jump Shot (26 PTS),91-99,91,99
+0022101043,2022-03-16,SAC,MIL,35.68,3,0,19,SAC,SAC,fg_miss,78,False,False,MISS Mitchell 8' Floating Jump Shot,,91-99,91,99
+0022101043,2022-03-16,SAC,MIL,35.73,3,0,16,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:2 Def:6),91-99,91,99
+0022101043,2022-03-16,SAC,MIL,35.83,3,0,10,MIL,SAC,foul,2,False,False,Mitchell S.FOUL (P2.PN) (P.Fraher),,91-99,91,99
+0022101043,2022-03-16,SAC,MIL,35.83,3,0,10,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (27 PTS),91-100,91,100
+0022101043,2022-03-16,SAC,MIL,35.83,3,0,10,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (28 PTS),91-101,91,101
+0022101043,2022-03-16,SAC,MIL,35.97,3,0,2,SAC,MIL,foul,2,False,False,,Ibaka S.FOUL (P1.PN) (T.Washington),91-101,91,101
+0022101043,2022-03-16,SAC,MIL,35.97,3,0,2,SAC,SAC,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (20 PTS),,92-101,92,101
+0022101043,2022-03-16,SAC,MIL,35.97,3,0,2,SAC,SAC,ft_miss,12,False,False,MISS Sabonis Free Throw 2 of 2,,92-101,92,101
+0022101043,2022-03-16,SAC,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:2 Def:7),92-101,92,101
+0022101043,2022-03-16,SAC,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,92-101,92,101
+0022101043,2022-03-16,SAC,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,92-101,92,101
+0022101043,2022-03-16,SAC,MIL,36.28,4,11,43,MIL,MIL,fg_make,1,False,False,,Ibaka 17' Jump Shot (8 PTS) (Carter 1 AST),92-103,92,103
+0022101043,2022-03-16,SAC,MIL,36.67,4,11,20,SAC,SAC,fg3_make,1,False,False,Mitchell 25' 3PT Jump Shot (15 PTS) (Lyles 2 AST),,95-103,95,103
+0022101043,2022-03-16,SAC,MIL,36.87,4,11,8,MIL,MIL,fg_make,5,False,False,,G. Antetokounmpo 2' Layup (30 PTS),95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.08,4,10,55,SAC,SAC,fg3_miss,1,False,False,MISS Fox 3PT Jump Shot,,95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.15,4,10,51,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:3 Def:3),95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.22,4,10,47,MIL,SAC,foul,2,False,False,Fox S.FOUL (P1.T1) (A.Nagy),,95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.22,4,10,47,MIL,MIL,ft_miss,11,False,False,,MISS Holiday Free Throw 1 of 2,95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.22,4,10,47,MIL,MIL,reb,1,False,False,,Bucks Rebound,95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.22,4,10,47,MIL,MIL,ft_miss,12,False,False,,MISS Holiday Free Throw 2 of 2,95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.25,4,10,45,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:1 Def:1),,95-105,95,105
+0022101043,2022-03-16,SAC,MIL,37.4,4,10,36,SAC,SAC,fg3_make,1,False,False,DiVincenzo 25' 3PT Jump Shot (16 PTS) (Mitchell 4 AST),,98-105,98,105
+0022101043,2022-03-16,SAC,MIL,37.78,4,10,13,MIL,MIL,fg_miss,3,False,False,,MISS G. Antetokounmpo 8' Hook Shot,98-105,98,105
+0022101043,2022-03-16,SAC,MIL,37.82,4,10,11,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:2),98-105,98,105
+0022101043,2022-03-16,SAC,MIL,37.82,4,10,11,MIL,MIL,fg_miss,5,False,False,,MISS Holiday 2' Layup,98-105,98,105
+0022101043,2022-03-16,SAC,MIL,37.82,4,10,11,SAC,SAC,reb,0,False,False,KINGS Rebound,,98-105,98,105
+0022101043,2022-03-16,SAC,MIL,37.82,4,10,11,SAC,MIL,foul,3,False,False,,Ibaka L.B.FOUL (P2.T1) (P.Fraher),98-105,98,105
+0022101043,2022-03-16,SAC,MIL,38.03,4,9,58,SAC,SAC,fg_make,6,False,False,Mitchell 2' Driving Layup (17 PTS),,100-105,100,105
+0022101043,2022-03-16,SAC,MIL,38.27,4,9,44,MIL,MIL,fg3_miss,1,False,False,,MISS Ibaka 25' 3PT Jump Shot,100-105,100,105
+0022101043,2022-03-16,SAC,MIL,38.27,4,9,44,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:1 Def:9),,100-105,100,105
+0022101043,2022-03-16,SAC,MIL,38.43,4,9,34,SAC,SAC,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,100-105,100,105
+0022101043,2022-03-16,SAC,MIL,38.52,4,9,29,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:3),100-105,100,105
+0022101043,2022-03-16,SAC,MIL,38.58,4,9,25,MIL,MIL,fg3_make,2,False,False,,Holiday 26' 3PT Running Jump Shot (13 PTS),100-108,100,108
+0022101043,2022-03-16,SAC,MIL,38.7,4,9,18,SAC,SAC,fg_make,6,False,False,Fox 3' Driving Layup (12 PTS),,102-108,102,108
+0022101043,2022-03-16,SAC,MIL,38.7,4,9,18,SAC,MIL,foul,2,False,False,,Ibaka S.FOUL (P3.T2) (P.Fraher),102-108,102,108
+0022101043,2022-03-16,SAC,MIL,38.7,4,9,18,SAC,SAC,ft_make,10,False,False,Fox Free Throw 1 of 1 (13 PTS),,103-108,103,108
+0022101043,2022-03-16,SAC,MIL,39.0,4,9,0,MIL,MIL,tov,1,False,True,,Holiday Bad Pass Turnover (P3.T11),103-108,103,108
+0022101043,2022-03-16,SAC,MIL,39.0,4,9,0,MIL,SAC,steal,1,False,True,steal,steal,103-108,103,108
+0022101043,2022-03-16,SAC,MIL,39.07,4,8,56,SAC,SAC,fg_make,41,False,False,Mitchell 1' Running Layup (19 PTS),,105-108,105,108
+0022101043,2022-03-16,SAC,MIL,39.07,4,8,56,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.4 Short 0),105-108,105,108
+0022101043,2022-03-16,SAC,MIL,39.28,4,8,43,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,105-108,105,108
+0022101043,2022-03-16,SAC,MIL,39.35,4,8,39,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:1 Def:10),,105-108,105,108
+0022101043,2022-03-16,SAC,MIL,39.55,4,8,27,SAC,SAC,fg_make,63,False,False,Lyles 6' Fadeaway Jumper (10 PTS),,107-108,107,108
+0022101043,2022-03-16,SAC,MIL,39.72,4,8,17,MIL,MIL,fg_make,78,False,False,,Holiday 8' Floating Jump Shot (15 PTS),107-110,107,110
+0022101043,2022-03-16,SAC,MIL,40.07,4,7,56,SAC,SAC,fg3_miss,1,False,False,MISS Fox 25' 3PT Jump Shot,,107-110,107,110
+0022101043,2022-03-16,SAC,MIL,40.12,4,7,53,SAC,SAC,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:2),,107-110,107,110
+0022101043,2022-03-16,SAC,MIL,40.2,4,7,48,SAC,SAC,fg_make,58,False,False,Holmes 6' Turnaround Hook Shot (4 PTS) (Lyles 3 AST),,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.38,4,7,37,MIL,MIL,fg_miss,6,False,False,,MISS Holiday 7' Driving Layup,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.45,4,7,33,SAC,SAC,reb,0,False,False,Mitchell REBOUND (Off:0 Def:3),,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.55,4,7,27,SAC,SAC,tov,40,False,False,DiVincenzo Out of Bounds Lost Ball Turnover (P1.T11),,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.88,4,7,7,MIL,MIL,fg_miss,6,True,False,,MISS G. Antetokounmpo 5' Driving Layup,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.88,4,7,7,MIL,SAC,block,6,True,False,block,block,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.88,4,7,7,MIL,MIL,reb,0,False,False,,Bucks Rebound,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.9,4,7,6,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 4 Short 0),,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.93,4,7,4,,SAC,jump_ball,1,False,False,Coach Challenge                         ,,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.98,4,7,1,MIL,SAC,foul,1,False,False,Mitchell P.FOUL (P3.T2) (T.Washington),,109-110,109,110
+0022101043,2022-03-16,SAC,MIL,40.98,4,7,1,MIL,MIL,tov,9,False,False,,Bucks Turnover: 5 Second Violation (T#12),109-110,109,110
+0022101043,2022-03-16,SAC,MIL,41.15,4,6,51,SAC,SAC,fg_make,1,False,False,Fox 13' Jump Shot (15 PTS),,111-110,111,110
+0022101043,2022-03-16,SAC,MIL,41.32,4,6,41,MIL,MIL,fg_miss,63,False,False,,MISS Middleton 10' Fadeaway Jumper,111-110,111,110
+0022101043,2022-03-16,SAC,MIL,41.32,4,6,41,SAC,SAC,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:3),,111-110,111,110
+0022101043,2022-03-16,SAC,MIL,41.67,4,6,20,SAC,SAC,fg_make,7,False,False,Holmes 1' Dunk (6 PTS),,113-110,113,110
+0022101043,2022-03-16,SAC,MIL,41.92,4,6,5,MIL,SAC,foul,2,False,False,Mitchell S.FOUL (P4.T3) (A.Nagy),,113-110,113,110
+0022101043,2022-03-16,SAC,MIL,41.92,4,6,5,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (25 PTS),113-111,113,111
+0022101043,2022-03-16,SAC,MIL,41.92,4,6,5,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (26 PTS),113-112,113,112
+0022101043,2022-03-16,SAC,MIL,42.13,4,5,52,SAC,SAC,fg_miss,101,False,False,MISS Fox 7' Driving Floating Jump Shot,,113-112,113,112
+0022101043,2022-03-16,SAC,MIL,42.18,4,5,49,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:2),113-112,113,112
+0022101043,2022-03-16,SAC,MIL,42.27,4,5,44,MIL,MIL,fg3_make,103,False,False,,Middleton 25' 3PT Running Pull-Up Jump Shot (29 PTS),113-115,113,115
+0022101043,2022-03-16,SAC,MIL,42.28,4,5,43,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 5 Short 0),,113-115,113,115
+0022101043,2022-03-16,SAC,MIL,42.6,4,5,24,SAC,SAC,fg_make,3,False,False,Sabonis 6' Hook Shot (22 PTS),,115-115,115,115
+0022101043,2022-03-16,SAC,MIL,42.85,4,5,9,MIL,MIL,fg_miss,86,False,False,,MISS Middleton 15' Turnaround Fadeaway Shot,115-115,115,115
+0022101043,2022-03-16,SAC,MIL,42.92,4,5,5,SAC,SAC,reb,0,False,False,Lyles REBOUND (Off:1 Def:11),,115-115,115,115
+0022101043,2022-03-16,SAC,MIL,43.12,4,4,53,SAC,SAC,fg_make,102,False,False,DiVincenzo 6' Driving Floating Bank Jump Shot (18 PTS),,117-115,117,115
+0022101043,2022-03-16,SAC,MIL,43.12,4,4,53,SAC,MIL,foul,2,False,False,,Lopez S.FOUL (P4.T3) (A.Nagy),117-115,117,115
+0022101043,2022-03-16,SAC,MIL,43.12,4,4,53,SAC,SAC,ft_make,10,False,False,DiVincenzo Free Throw 1 of 1 (19 PTS),,118-115,118,115
+0022101043,2022-03-16,SAC,MIL,43.32,4,4,41,MIL,MIL,fg3_make,79,False,False,,Holiday 26' 3PT Pullup Jump Shot (18 PTS),118-118,118,118
+0022101043,2022-03-16,SAC,MIL,43.7,4,4,18,SAC,SAC,fg_miss,3,True,False,MISS Sabonis 6' Hook Shot,,118-118,118,118
+0022101043,2022-03-16,SAC,MIL,43.7,4,4,18,SAC,MIL,block,3,True,False,block,block,118-118,118,118
+0022101043,2022-03-16,SAC,MIL,43.7,4,4,18,SAC,SAC,reb,0,False,False,KINGS Rebound,,118-118,118,118
+0022101043,2022-03-16,SAC,MIL,43.77,4,4,14,SAC,SAC,fg_make,108,False,False,Lyles 1' Cutting Dunk Shot (12 PTS) (Fox 7 AST),,120-118,120,118
+0022101043,2022-03-16,SAC,MIL,43.92,4,4,5,MIL,MIL,fg_make,6,False,False,,G. Antetokounmpo 5' Driving Layup (32 PTS),120-120,120,120
+0022101043,2022-03-16,SAC,MIL,44.17,4,3,50,SAC,SAC,fg_make,101,False,False,Fox 4' Driving Floating Jump Shot (17 PTS),,122-120,122,120
+0022101043,2022-03-16,SAC,MIL,44.17,4,3,50,SAC,MIL,foul,2,False,False,,Matthews S.FOUL (P2.T4) (T.Washington),122-120,122,120
+0022101043,2022-03-16,SAC,MIL,44.17,4,3,50,SAC,SAC,ft_make,10,False,False,Fox Free Throw 1 of 1 (18 PTS),,123-120,123,120
+0022101043,2022-03-16,SAC,MIL,44.38,4,3,37,MIL,MIL,fg3_make,80,False,False,,Holiday 25' 3PT Step Back Jump Shot (21 PTS),123-123,123,123
+0022101043,2022-03-16,SAC,MIL,44.63,4,3,22,SAC,SAC,fg3_miss,1,False,False,MISS Fox 24' 3PT Jump Shot,,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,44.68,4,3,19,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:8),123-123,123,123
+0022101043,2022-03-16,SAC,MIL,44.88,4,3,7,MIL,MIL,fg_miss,5,False,False,,MISS G. Antetokounmpo 3' Layup,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,44.88,4,3,7,SAC,SAC,reb,0,False,False,KINGS Rebound,,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.3,4,2,42,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P6.T12),,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.3,4,2,42,SAC,MIL,steal,1,False,True,steal,steal,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.3,4,2,42,MIL,SAC,foul,28,False,False,Lyles Personal Take Foul (P3.T4) (T.Washington),,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.6,4,2,24,,SAC,jump_ball,0,False,False,Jump Ball Mitchell vs. Holiday: Tip to Lyles,,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.6,4,2,24,MIL,MIL,tov,2,False,True,,Holiday Lost Ball Turnover (P4.T13),123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.6,4,2,24,MIL,SAC,steal,2,False,True,steal,steal,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.73,4,2,16,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P7.T13),,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.73,4,2,16,SAC,MIL,steal,1,False,True,steal,steal,123-123,123,123
+0022101043,2022-03-16,SAC,MIL,45.88,4,2,7,MIL,MIL,fg3_make,1,False,False,,Middleton 27' 3PT Jump Shot (32 PTS) (G. Antetokounmpo 2 AST),123-126,123,126
+0022101043,2022-03-16,SAC,MIL,46.22,4,1,47,SAC,SAC,fg3_make,80,False,False,Fox 26' 3PT Step Back Jump Shot (21 PTS) (Sabonis 7 AST),,126-126,126,126
+0022101043,2022-03-16,SAC,MIL,46.47,4,1,32,MIL,MIL,fg3_make,1,False,False,,Matthews 24' 3PT Jump Shot (8 PTS) (Holiday 3 AST),126-129,126,129
+0022101043,2022-03-16,SAC,MIL,46.67,4,1,20,SAC,SAC,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,126-129,126,129
+0022101043,2022-03-16,SAC,MIL,46.73,4,1,16,MIL,MIL,reb,0,False,False,,G. Antetokounmpo REBOUND (Off:2 Def:8),126-129,126,129
+0022101043,2022-03-16,SAC,MIL,46.93,4,1,4,MIL,MIL,fg_make,3,False,False,,G. Antetokounmpo 7' Hook Shot (34 PTS),126-131,126,131
+0022101043,2022-03-16,SAC,MIL,46.93,4,1,4,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 6 Short 0),,126-131,126,131
+0022101043,2022-03-16,SAC,MIL,47.25,4,0,45,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P8.T14),,126-131,126,131
+0022101043,2022-03-16,SAC,MIL,47.25,4,0,45,SAC,MIL,steal,1,False,True,steal,steal,126-131,126,131
+0022101043,2022-03-16,SAC,MIL,47.37,4,0,38,MIL,SAC,foul,28,False,False,Fox Personal Take Foul (P2.PN) (P.Fraher),,126-131,126,131
+0022101043,2022-03-16,SAC,MIL,47.37,4,0,38,MIL,MIL,ft_make,11,False,False,,G. Antetokounmpo Free Throw 1 of 2 (35 PTS),126-132,126,132
+0022101043,2022-03-16,SAC,MIL,47.37,4,0,38,MIL,MIL,ft_make,12,False,False,,G. Antetokounmpo Free Throw 2 of 2 (36 PTS),126-133,126,133
+0022101043,2022-03-16,SAC,MIL,47.48,4,0,31,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P9.T15),,126-133,126,133
+0022101043,2022-03-16,SAC,MIL,47.48,4,0,31,SAC,MIL,steal,1,False,True,steal,steal,126-133,126,133
+0022101043,2022-03-16,SAC,MIL,47.58,4,0,25,MIL,SAC,foul,28,False,False,Mitchell Personal Take Foul (P5.PN) (A.Nagy),,126-133,126,133
+0022101043,2022-03-16,SAC,MIL,47.58,4,0,25,MIL,MIL,ft_make,11,False,False,,Portis Free Throw 1 of 2 (11 PTS),126-134,126,134
+0022101043,2022-03-16,SAC,MIL,47.58,4,0,25,MIL,MIL,ft_make,12,False,False,,Portis Free Throw 2 of 2 (12 PTS),126-135,126,135
+0022101043,2022-03-16,SAC,MIL,47.7,4,0,18,SAC,SAC,fg3_miss,79,False,False,MISS Lyles 26' 3PT Pullup Jump Shot,,126-135,126,135
+0022101043,2022-03-16,SAC,MIL,47.77,4,0,14,MIL,MIL,reb,0,False,False,,Carter REBOUND (Off:0 Def:4),126-135,126,135
+0022101043,2022-03-16,SAC,MIL,48.0,4,0,0,MIL,,period_end,0,False,False,,,126-135,126,135

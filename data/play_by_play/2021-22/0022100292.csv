@@ -1,0 +1,521 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100292,2021-11-27,PHI,MIN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100292,2021-11-27,PHI,MIN,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Towns: Tip to Maxey,,0-0,0,0
+0022100292,2021-11-27,PHI,MIN,0.32,1,11,41,PHI,PHI,fg_miss,79,False,False,MISS Embiid 17' Pullup Jump Shot,,0-0,0,0
+0022100292,2021-11-27,PHI,MIN,0.37,1,11,38,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:0 Def:1),0-0,0,0
+0022100292,2021-11-27,PHI,MIN,0.63,1,11,22,MIN,MIN,fg_miss,102,False,False,,MISS Russell 4' Driving Floating Bank Jump Shot,0-0,0,0
+0022100292,2021-11-27,PHI,MIN,0.67,1,11,20,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:1),0-0,0,0
+0022100292,2021-11-27,PHI,MIN,0.7,1,11,18,MIN,MIN,fg3_make,1,False,False,,Towns 26' 3PT Jump Shot (3 PTS) (Vanderbilt 1 AST),0-3,0,3
+0022100292,2021-11-27,PHI,MIN,1.05,1,10,57,PHI,MIN,steal,1,False,True,steal,steal,0-3,0,3
+0022100292,2021-11-27,PHI,MIN,1.05,1,10,57,PHI,PHI,tov,1,False,True,Maxey Bad Pass Turnover (P1.T1),,0-3,0,3
+0022100292,2021-11-27,PHI,MIN,1.12,1,10,53,MIN,MIN,fg_make,76,False,False,,Towns 1' Running Finger Roll Layup (5 PTS) (Prince 1 AST),0-5,0,5
+0022100292,2021-11-27,PHI,MIN,1.45,1,10,33,PHI,PHI,fg_miss,79,False,False,MISS Maxey 17' Pullup Jump Shot,,0-5,0,5
+0022100292,2021-11-27,PHI,MIN,1.5,1,10,30,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:0),,0-5,0,5
+0022100292,2021-11-27,PHI,MIN,1.5,1,10,30,PHI,MIN,foul,2,False,False,,Prince S.FOUL (P1.T1) (J.Goble),0-5,0,5
+0022100292,2021-11-27,PHI,MIN,1.5,1,10,30,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (1 PTS),,1-5,1,5
+0022100292,2021-11-27,PHI,MIN,1.5,1,10,30,PHI,PHI,ft_miss,12,False,False,MISS Embiid Free Throw 2 of 2,,1-5,1,5
+0022100292,2021-11-27,PHI,MIN,1.53,1,10,28,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:2),1-5,1,5
+0022100292,2021-11-27,PHI,MIN,1.75,1,10,15,MIN,MIN,fg_make,102,False,False,,Towns 3' Driving Floating Bank Jump Shot (7 PTS) (Russell 1 AST),1-7,1,7
+0022100292,2021-11-27,PHI,MIN,2.1,1,9,54,PHI,PHI,fg_miss,79,False,False,MISS Harris 10' Pullup Jump Shot,,1-7,1,7
+0022100292,2021-11-27,PHI,MIN,2.15,1,9,51,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:3),1-7,1,7
+0022100292,2021-11-27,PHI,MIN,2.3,1,9,42,MIN,PHI,steal,1,False,True,steal,steal,1-7,1,7
+0022100292,2021-11-27,PHI,MIN,2.3,1,9,42,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P1.T1),1-7,1,7
+0022100292,2021-11-27,PHI,MIN,2.35,1,9,39,PHI,PHI,ft_make,11,False,False,Maxey Free Throw 1 of 2 (1 PTS),,2-7,2,7
+0022100292,2021-11-27,PHI,MIN,2.35,1,9,39,PHI,PHI,ft_make,12,False,False,Maxey Free Throw 2 of 2 (2 PTS),,3-7,3,7
+0022100292,2021-11-27,PHI,MIN,2.35,1,9,39,PHI,MIN,foul,2,False,False,,Prince S.FOUL (P2.T2) (M.Ervin),1-7,1,7
+0022100292,2021-11-27,PHI,MIN,2.52,1,9,29,MIN,MIN,fg_make,98,False,False,,Vanderbilt 1' Cutting Layup Shot (2 PTS) (Russell 2 AST),3-9,3,9
+0022100292,2021-11-27,PHI,MIN,2.75,1,9,15,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 3PT Jump Shot,,3-9,3,9
+0022100292,2021-11-27,PHI,MIN,2.8,1,9,12,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:4),3-9,3,9
+0022100292,2021-11-27,PHI,MIN,2.93,1,9,4,MIN,MIN,fg3_miss,1,False,False,,MISS Prince 24' 3PT Jump Shot,3-9,3,9
+0022100292,2021-11-27,PHI,MIN,2.98,1,9,1,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:1),,3-9,3,9
+0022100292,2021-11-27,PHI,MIN,3.23,1,8,46,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 26' 3PT Jump Shot,,3-9,3,9
+0022100292,2021-11-27,PHI,MIN,3.28,1,8,43,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:1),3-9,3,9
+0022100292,2021-11-27,PHI,MIN,3.42,1,8,35,MIN,MIN,fg_miss,79,False,False,,MISS Russell 20' Pullup Jump Shot,3-9,3,9
+0022100292,2021-11-27,PHI,MIN,3.48,1,8,31,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,3-9,3,9
+0022100292,2021-11-27,PHI,MIN,3.67,1,8,20,PHI,MIN,foul,2,False,False,,Russell S.FOUL (P1.T3) (S.Corbin),3-9,3,9
+0022100292,2021-11-27,PHI,MIN,3.67,1,8,20,PHI,PHI,ft_make,11,False,False,Curry Free Throw 1 of 2 (1 PTS),,4-9,4,9
+0022100292,2021-11-27,PHI,MIN,3.67,1,8,20,PHI,PHI,ft_miss,12,False,False,MISS Curry Free Throw 2 of 2,,4-9,4,9
+0022100292,2021-11-27,PHI,MIN,3.7,1,8,18,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:5),4-9,4,9
+0022100292,2021-11-27,PHI,MIN,3.88,1,8,7,MIN,MIN,fg_make,6,False,False,,Edwards 1' Driving Layup (2 PTS) (Russell 3 AST),4-11,4,11
+0022100292,2021-11-27,PHI,MIN,4.13,1,7,52,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 24' 3PT Jump Shot,,4-11,4,11
+0022100292,2021-11-27,PHI,MIN,4.17,1,7,50,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),4-11,4,11
+0022100292,2021-11-27,PHI,MIN,4.33,1,7,40,MIN,MIN,fg3_miss,79,False,False,,MISS Edwards 26' 3PT Pullup Jump Shot,4-11,4,11
+0022100292,2021-11-27,PHI,MIN,4.38,1,7,37,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:1 Def:1),4-11,4,11
+0022100292,2021-11-27,PHI,MIN,4.42,1,7,35,MIN,MIN,fg_make,108,False,False,,Edwards 1' Cutting Dunk Shot (4 PTS) (Prince 2 AST),4-13,4,13
+0022100292,2021-11-27,PHI,MIN,4.62,1,7,23,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,4-13,4,13
+0022100292,2021-11-27,PHI,MIN,4.75,1,7,15,PHI,MIN,foul,2,False,False,,Russell S.FOUL (P2.T4) (J.Goble),4-13,4,13
+0022100292,2021-11-27,PHI,MIN,4.75,1,7,15,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (2 PTS),,6-13,6,13
+0022100292,2021-11-27,PHI,MIN,4.75,1,7,15,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (1 PTS),,5-13,5,13
+0022100292,2021-11-27,PHI,MIN,5.05,1,6,57,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 26' 3PT Jump Shot,6-13,6,13
+0022100292,2021-11-27,PHI,MIN,5.12,1,6,53,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:1),,6-13,6,13
+0022100292,2021-11-27,PHI,MIN,5.3,1,6,42,PHI,PHI,fg_make,79,False,False,Curry 19' Pullup Jump Shot (3 PTS) (Maxey 1 AST),,8-13,8,13
+0022100292,2021-11-27,PHI,MIN,5.58,1,6,25,MIN,MIN,fg_make,73,False,False,,Edwards 1' Driving Reverse Layup (6 PTS),8-15,8,15
+0022100292,2021-11-27,PHI,MIN,5.82,1,6,11,PHI,PHI,fg_make,1,False,False,Embiid 17' Jump Shot (3 PTS) (Maxey 2 AST),,10-15,10,15
+0022100292,2021-11-27,PHI,MIN,5.93,1,6,4,MIN,PHI,foul,2,False,False,Maxey S.FOUL (P1.T1) (S.Corbin),,10-15,10,15
+0022100292,2021-11-27,PHI,MIN,5.93,1,6,4,MIN,MIN,ft_make,11,False,False,,Russell Free Throw 1 of 2 (1 PTS),10-16,10,16
+0022100292,2021-11-27,PHI,MIN,5.93,1,6,4,MIN,MIN,ft_make,12,False,False,,Russell Free Throw 2 of 2 (2 PTS),10-17,10,17
+0022100292,2021-11-27,PHI,MIN,6.13,1,5,52,PHI,PHI,fg_miss,79,False,False,MISS Embiid 12' Pullup Jump Shot,,10-17,10,17
+0022100292,2021-11-27,PHI,MIN,6.18,1,5,49,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:1),10-17,10,17
+0022100292,2021-11-27,PHI,MIN,6.28,1,5,43,MIN,PHI,block,41,True,False,block,block,10-17,10,17
+0022100292,2021-11-27,PHI,MIN,6.28,1,5,43,PHI,PHI,reb,0,False,False,76ERS Rebound,,10-17,10,17
+0022100292,2021-11-27,PHI,MIN,6.28,1,5,43,MIN,MIN,fg_miss,41,True,False,,MISS Russell 3' Running Layup,10-17,10,17
+0022100292,2021-11-27,PHI,MIN,6.53,1,5,28,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (4 PTS),,11-17,11,17
+0022100292,2021-11-27,PHI,MIN,6.53,1,5,28,PHI,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P1.PN) (S.Corbin),10-17,10,17
+0022100292,2021-11-27,PHI,MIN,6.53,1,5,28,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (5 PTS),,12-17,12,17
+0022100292,2021-11-27,PHI,MIN,6.77,1,5,14,MIN,MIN,fg_make,80,False,False,,Edwards 18' Step Back Jump Shot (8 PTS),12-19,12,19
+0022100292,2021-11-27,PHI,MIN,7.17,1,4,50,PHI,MIN,foul,1,False,False,,Towns P.FOUL (P1.PN) (M.Ervin),12-19,12,19
+0022100292,2021-11-27,PHI,MIN,7.17,1,4,50,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (6 PTS),,13-19,13,19
+0022100292,2021-11-27,PHI,MIN,7.17,1,4,50,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (7 PTS),,14-19,14,19
+0022100292,2021-11-27,PHI,MIN,7.47,1,4,32,MIN,MIN,fg_make,73,False,False,,Edwards 1' Driving Reverse Layup (10 PTS),14-21,14,21
+0022100292,2021-11-27,PHI,MIN,7.65,1,4,21,PHI,PHI,fg_miss,75,False,False,MISS Maxey Driving Finger Roll Layup,,14-21,14,21
+0022100292,2021-11-27,PHI,MIN,7.68,1,4,19,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:1),14-21,14,21
+0022100292,2021-11-27,PHI,MIN,7.78,1,4,13,MIN,MIN,fg3_miss,80,False,False,,MISS Edwards 27' 3PT Step Back Jump Shot,14-21,14,21
+0022100292,2021-11-27,PHI,MIN,7.82,1,4,11,PHI,PHI,reb,0,False,False,76ERS Rebound,,14-21,14,21
+0022100292,2021-11-27,PHI,MIN,8.25,1,3,45,PHI,PHI,fg_make,79,False,False,Green 21' Pullup Jump Shot (2 PTS) (Harris 1 AST),,16-21,16,21
+0022100292,2021-11-27,PHI,MIN,8.67,1,3,20,MIN,MIN,fg_make,1,False,False,,Towns 22' Jump Shot (9 PTS),16-23,16,23
+0022100292,2021-11-27,PHI,MIN,8.98,1,3,1,PHI,MIN,foul,17,False,False,,Timberwolves T.Foul (Def. 3 Sec Edwards ) (S.Corbin),16-23,16,23
+0022100292,2021-11-27,PHI,MIN,8.98,1,3,1,PHI,PHI,ft_make,16,False,False,Curry Free Throw Technical (4 PTS),,17-23,17,23
+0022100292,2021-11-27,PHI,MIN,9.18,1,2,49,PHI,PHI,fg_miss,80,False,False,MISS Curry 17' Step Back Jump Shot,,17-23,17,23
+0022100292,2021-11-27,PHI,MIN,9.25,1,2,45,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:1),17-23,17,23
+0022100292,2021-11-27,PHI,MIN,9.42,1,2,35,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.1 Short 0),17-23,17,23
+0022100292,2021-11-27,PHI,MIN,9.42,1,2,35,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (10 PTS),17-24,17,24
+0022100292,2021-11-27,PHI,MIN,9.42,1,2,35,MIN,PHI,foul,2,False,False,Drummond S.FOUL (P1.T2) (J.Goble),,17-23,17,23
+0022100292,2021-11-27,PHI,MIN,9.42,1,2,35,MIN,MIN,ft_miss,12,False,False,,MISS Towns Free Throw 2 of 2,17-24,17,24
+0022100292,2021-11-27,PHI,MIN,9.47,1,2,32,PHI,PHI,reb,0,False,False,Niang REBOUND (Off:0 Def:1),,17-24,17,24
+0022100292,2021-11-27,PHI,MIN,9.6,1,2,24,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P1.T2),,17-24,17,24
+0022100292,2021-11-27,PHI,MIN,9.6,1,2,24,PHI,MIN,steal,1,False,True,steal,steal,17-24,17,24
+0022100292,2021-11-27,PHI,MIN,9.67,1,2,20,MIN,MIN,fg_make,50,False,False,,Edwards 1' Running Dunk (12 PTS),17-26,17,26
+0022100292,2021-11-27,PHI,MIN,9.92,1,2,5,PHI,PHI,fg3_miss,1,False,False,MISS Curry 26' 3PT Jump Shot,,17-26,17,26
+0022100292,2021-11-27,PHI,MIN,9.97,1,2,2,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:2),17-26,17,26
+0022100292,2021-11-27,PHI,MIN,10.33,1,1,40,MIN,MIN,fg_make,75,False,False,,Towns 1' Driving Finger Roll Layup (12 PTS),17-28,17,28
+0022100292,2021-11-27,PHI,MIN,10.72,1,1,17,PHI,PHI,fg_miss,47,False,False,MISS Green 5' Turnaround Jump Shot,,17-28,17,28
+0022100292,2021-11-27,PHI,MIN,10.75,1,1,15,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:3),17-28,17,28
+0022100292,2021-11-27,PHI,MIN,10.85,1,1,9,MIN,MIN,fg3_make,1,False,False,,Towns 25' 3PT Jump Shot (15 PTS) (Edwards 1 AST),17-31,17,31
+0022100292,2021-11-27,PHI,MIN,11.13,1,0,52,PHI,PHI,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,17-31,17,31
+0022100292,2021-11-27,PHI,MIN,11.18,1,0,49,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:2),17-31,17,31
+0022100292,2021-11-27,PHI,MIN,11.3,1,0,42,MIN,PHI,foul,1,False,False,Drummond P.FOUL (P2.T3) (M.Ervin),,17-31,17,31
+0022100292,2021-11-27,PHI,MIN,11.53,1,0,28,MIN,MIN,fg_make,6,False,False,,McDaniels 2' Driving Layup (2 PTS) (Edwards 2 AST),17-33,17,33
+0022100292,2021-11-27,PHI,MIN,11.83,1,0,10,PHI,PHI,fg3_make,1,False,False,Korkmaz 27' 3PT Jump Shot (3 PTS) (Joe 1 AST),,20-33,20,33
+0022100292,2021-11-27,PHI,MIN,11.97,1,0,2,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 29' 3PT Jump Shot,20-33,20,33
+0022100292,2021-11-27,PHI,MIN,12.0,1,0,0,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:1 Def:0),20-33,20,33
+0022100292,2021-11-27,PHI,MIN,12.0,1,0,0,MIN,MIN,fg_make,63,False,False,,Beasley 18' Fadeaway Jumper (2 PTS),20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.0,1,0,0,MIN,,period_end,0,False,False,,,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.0,2,12,0,MIN,,period_start,0,False,False,,,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.23,2,11,46,PHI,MIN,foul,4,False,False,,Reid OFF.Foul (P1) (J.Goble),20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.23,2,11,46,MIN,MIN,tov,37,False,False,,Reid Offensive Foul Turnover (P1.T2),20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.47,2,11,32,PHI,PHI,fg_miss,108,False,False,MISS Korkmaz 1' Cutting Dunk Shot,,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.52,2,11,29,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:1 Def:1),20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.75,2,11,15,MIN,PHI,steal,2,False,True,steal,steal,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,12.75,2,11,15,MIN,MIN,tov,2,False,True,,Reid Lost Ball Turnover (P2.T3),20-35,20,35
+0022100292,2021-11-27,PHI,MIN,13.07,2,10,56,PHI,PHI,tov,45,False,False,Drummond Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,13.32,2,10,41,MIN,MIN,tov,1,False,True,,Russell Bad Pass Turnover (P1.T4),20-35,20,35
+0022100292,2021-11-27,PHI,MIN,13.32,2,10,41,MIN,PHI,steal,1,False,True,steal,steal,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,13.4,2,10,36,PHI,PHI,fg3_miss,1,False,False,MISS Niang 26' 3PT Jump Shot,,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,13.43,2,10,34,PHI,PHI,reb,0,False,False,Green REBOUND (Off:1 Def:0),,20-35,20,35
+0022100292,2021-11-27,PHI,MIN,13.52,2,10,29,PHI,PHI,fg3_make,1,False,False,Niang 24' 3PT Jump Shot (3 PTS) (Joe 2 AST),,23-35,23,35
+0022100292,2021-11-27,PHI,MIN,13.83,2,10,10,MIN,PHI,steal,2,False,True,steal,steal,23-35,23,35
+0022100292,2021-11-27,PHI,MIN,13.83,2,10,10,MIN,MIN,tov,2,False,True,,Reid Lost Ball Turnover (P3.T5),23-35,23,35
+0022100292,2021-11-27,PHI,MIN,13.93,2,10,4,PHI,PHI,fg3_make,1,False,False,Green 26' 3PT Jump Shot (5 PTS) (Korkmaz 1 AST),,26-35,26,35
+0022100292,2021-11-27,PHI,MIN,14.3,2,9,42,MIN,MIN,fg3_miss,79,False,False,,MISS Beasley 26' 3PT Pullup Jump Shot,26-35,26,35
+0022100292,2021-11-27,PHI,MIN,14.33,2,9,40,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:1),,26-35,26,35
+0022100292,2021-11-27,PHI,MIN,14.63,2,9,22,PHI,MIN,foul,1,False,False,,McDaniels P.FOUL (P1.T1) (S.Corbin),26-35,26,35
+0022100292,2021-11-27,PHI,MIN,14.85,2,9,9,PHI,PHI,fg_make,98,False,False,Korkmaz 1' Cutting Layup Shot (5 PTS) (Green 1 AST),,28-35,28,35
+0022100292,2021-11-27,PHI,MIN,15.07,2,8,56,MIN,MIN,fg_make,101,False,False,,Russell 5' Driving Floating Jump Shot (4 PTS),28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.38,2,8,37,PHI,PHI,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.52,2,8,29,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 27' 3PT Jump Shot,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.57,2,8,26,PHI,PHI,reb,0,False,False,76ERS Rebound,,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.72,2,8,17,PHI,PHI,tov,1,False,True,Maxey Bad Pass Turnover (P2.T5),,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.72,2,8,17,PHI,MIN,steal,1,False,True,steal,steal,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.75,2,8,15,MIN,PHI,block,41,True,False,block,block,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.75,2,8,15,MIN,MIN,fg_miss,41,True,False,,MISS McDaniels 5' Running Layup,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,15.78,2,8,13,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:1),,28-37,28,37
+0022100292,2021-11-27,PHI,MIN,16.05,2,7,57,PHI,PHI,fg_make,101,False,False,Maxey 6' Driving Floating Jump Shot (4 PTS) (Niang 1 AST),,30-37,30,37
+0022100292,2021-11-27,PHI,MIN,16.18,2,7,49,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.2 Short 0),30-37,30,37
+0022100292,2021-11-27,PHI,MIN,16.3,2,7,42,MIN,MIN,fg_make,75,False,False,,Russell 1' Driving Finger Roll Layup (6 PTS),30-39,30,39
+0022100292,2021-11-27,PHI,MIN,16.62,2,7,23,PHI,PHI,fg_miss,101,False,False,MISS Niang 7' Driving Floating Jump Shot,,30-39,30,39
+0022100292,2021-11-27,PHI,MIN,16.65,2,7,21,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:1 Def:2),30-39,30,39
+0022100292,2021-11-27,PHI,MIN,16.72,2,7,17,MIN,PHI,block,50,True,False,block,block,30-39,30,39
+0022100292,2021-11-27,PHI,MIN,16.72,2,7,17,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,30-39,30,39
+0022100292,2021-11-27,PHI,MIN,16.72,2,7,17,MIN,MIN,fg_miss,50,True,False,,MISS Reid 1' Running Dunk,30-39,30,39
+0022100292,2021-11-27,PHI,MIN,16.9,2,7,6,PHI,MIN,violation,1,False,False,,Timberwolves Violation: Delay of game Violation,30-41,30,41
+0022100292,2021-11-27,PHI,MIN,16.9,2,7,6,MIN,MIN,fg_make,5,False,False,,Reid 2' Layup (2 PTS),30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.15,2,6,51,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 3PT Jump Shot,,30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.18,2,6,49,MIN,PHI,foul,3,False,False,Thybulle L.B.FOUL (P1.T1) (M.Ervin),,30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.18,2,6,49,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.42,2,6,35,MIN,MIN,tov,1,False,True,,Edwards Bad Pass Turnover (P1.T6),30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.42,2,6,35,MIN,PHI,steal,1,False,True,steal,steal,30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.55,2,6,27,PHI,PHI,fg_miss,79,False,False,MISS Curry 19' Pullup Jump Shot,,30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.6,2,6,24,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:6),30-41,30,41
+0022100292,2021-11-27,PHI,MIN,17.73,2,6,16,MIN,MIN,fg_make,98,False,False,,Vanderbilt 1' Cutting Layup Shot (4 PTS) (Russell 4 AST),30-43,30,43
+0022100292,2021-11-27,PHI,MIN,18.1,2,5,54,PHI,PHI,fg_make,80,False,False,Embiid 16' Step Back Jump Shot (9 PTS),,32-43,32,43
+0022100292,2021-11-27,PHI,MIN,18.47,2,5,32,MIN,MIN,fg_miss,79,False,False,,MISS Russell 18' Pullup Jump Shot,32-43,32,43
+0022100292,2021-11-27,PHI,MIN,18.52,2,5,29,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:2),,32-43,32,43
+0022100292,2021-11-27,PHI,MIN,18.62,2,5,23,PHI,PHI,fg_make,41,False,False,Thybulle 3' Running Layup (2 PTS) (Embiid 1 AST),,34-43,34,43
+0022100292,2021-11-27,PHI,MIN,18.8,2,5,12,MIN,MIN,fg3_miss,79,False,False,,MISS Edwards 27' 3PT Pullup Jump Shot,34-43,34,43
+0022100292,2021-11-27,PHI,MIN,18.87,2,5,8,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,34-43,34,43
+0022100292,2021-11-27,PHI,MIN,18.95,2,5,3,PHI,MIN,foul,1,False,False,,Towns P.FOUL (P2.T2) (J.Goble),34-43,34,43
+0022100292,2021-11-27,PHI,MIN,19.07,2,4,56,PHI,PHI,fg3_miss,1,False,False,MISS Curry 3PT Jump Shot,,34-43,34,43
+0022100292,2021-11-27,PHI,MIN,19.12,2,4,53,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:4),34-43,34,43
+0022100292,2021-11-27,PHI,MIN,19.38,2,4,37,MIN,PHI,foul,1,False,False,Embiid P.FOUL (P1.T2) (J.Goble),,34-43,34,43
+0022100292,2021-11-27,PHI,MIN,19.45,2,4,33,MIN,PHI,foul,1,False,False,Curry P.FOUL (P1.T3) (M.Ervin),,34-43,34,43
+0022100292,2021-11-27,PHI,MIN,19.58,2,4,25,MIN,MIN,fg_miss,63,False,False,,MISS Edwards 10' Fadeaway Jumper,34-43,34,43
+0022100292,2021-11-27,PHI,MIN,19.62,2,4,23,MIN,MIN,reb,0,False,False,,Bolmaro REBOUND (Off:1 Def:0),34-43,34,43
+0022100292,2021-11-27,PHI,MIN,19.65,2,4,21,MIN,MIN,fg3_make,1,False,False,,McDaniels 27' 3PT Jump Shot (5 PTS) (Bolmaro 1 AST),34-46,34,46
+0022100292,2021-11-27,PHI,MIN,19.9,2,4,6,PHI,MIN,foul,1,False,False,,Vanderbilt P.FOUL (P2.T3) (S.Corbin),34-46,34,46
+0022100292,2021-11-27,PHI,MIN,20.12,2,3,53,PHI,PHI,fg_miss,86,False,False,MISS Embiid 11' Turnaround Fadeaway Shot,,34-46,34,46
+0022100292,2021-11-27,PHI,MIN,20.15,2,3,51,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:3),34-46,34,46
+0022100292,2021-11-27,PHI,MIN,20.25,2,3,45,MIN,PHI,foul,1,False,False,Thybulle P.FOUL (P2.T4) (M.Ervin),,34-46,34,46
+0022100292,2021-11-27,PHI,MIN,20.45,2,3,33,MIN,MIN,ft_miss,12,False,False,,MISS Bolmaro Free Throw 2 of 2,34-47,34,47
+0022100292,2021-11-27,PHI,MIN,20.45,2,3,33,MIN,MIN,ft_make,11,False,False,,Bolmaro Free Throw 1 of 2 (1 PTS),34-47,34,47
+0022100292,2021-11-27,PHI,MIN,20.45,2,3,33,MIN,PHI,foul,2,False,False,Maxey S.FOUL (P2.PN) (J.Goble),,34-46,34,46
+0022100292,2021-11-27,PHI,MIN,20.5,2,3,30,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,34-47,34,47
+0022100292,2021-11-27,PHI,MIN,20.68,2,3,19,PHI,MIN,foul,17,False,False,,Timberwolves T.Foul (Def. 3 Sec McDaniels ) (S.Corbin),34-47,34,47
+0022100292,2021-11-27,PHI,MIN,20.68,2,3,19,PHI,PHI,ft_make,16,False,False,Curry Free Throw Technical (5 PTS),,35-47,35,47
+0022100292,2021-11-27,PHI,MIN,20.9,2,3,6,PHI,MIN,foul,2,False,False,,McDaniels S.FOUL (P2.T4) (J.Goble),35-47,35,47
+0022100292,2021-11-27,PHI,MIN,20.9,2,3,6,PHI,PHI,reb,1,False,False,76ERS Rebound,,35-47,35,47
+0022100292,2021-11-27,PHI,MIN,20.9,2,3,6,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (10 PTS),,36-47,36,47
+0022100292,2021-11-27,PHI,MIN,20.9,2,3,6,PHI,PHI,ft_miss,11,False,False,MISS Embiid Free Throw 1 of 2,,35-47,35,47
+0022100292,2021-11-27,PHI,MIN,21.25,2,2,45,MIN,PHI,foul,2,False,False,Maxey S.FOUL (P3.PN) (J.Goble),,36-49,36,49
+0022100292,2021-11-27,PHI,MIN,21.25,2,2,45,PHI,MIN,ft_make,10,False,False,,McDaniels Free Throw 1 of 1 (8 PTS),36-50,36,50
+0022100292,2021-11-27,PHI,MIN,21.25,2,2,45,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,36-49,36,49
+0022100292,2021-11-27,PHI,MIN,21.25,2,2,45,MIN,MIN,fg_make,75,False,False,,McDaniels 3' Driving Finger Roll Layup (7 PTS),36-49,36,49
+0022100292,2021-11-27,PHI,MIN,21.5,2,2,30,PHI,PHI,fg_miss,80,False,False,MISS Harris 12' Step Back Jump Shot,,36-50,36,50
+0022100292,2021-11-27,PHI,MIN,21.57,2,2,26,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:7),36-50,36,50
+0022100292,2021-11-27,PHI,MIN,21.7,2,2,18,MIN,MIN,tov,37,False,False,,Bolmaro Offensive Foul Turnover (P1.T7),36-50,36,50
+0022100292,2021-11-27,PHI,MIN,21.7,2,2,18,PHI,MIN,foul,4,False,False,,Bolmaro OFF.Foul (P1) (S.Corbin),36-50,36,50
+0022100292,2021-11-27,PHI,MIN,21.93,2,2,4,PHI,PHI,ft_make,11,False,False,Korkmaz Free Throw 1 of 2 (6 PTS),,37-50,37,50
+0022100292,2021-11-27,PHI,MIN,21.93,2,2,4,PHI,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P3.PN) (J.Goble),36-50,36,50
+0022100292,2021-11-27,PHI,MIN,21.93,2,2,4,PHI,PHI,ft_make,12,False,False,Korkmaz Free Throw 2 of 2 (7 PTS),,38-50,38,50
+0022100292,2021-11-27,PHI,MIN,22.18,2,1,49,MIN,MIN,fg_make,6,False,False,,Bolmaro 1' Driving Layup (3 PTS),38-52,38,52
+0022100292,2021-11-27,PHI,MIN,22.42,2,1,35,PHI,PHI,fg3_make,1,False,False,Curry 3PT Jump Shot (8 PTS) (Embiid 2 AST),,41-52,41,52
+0022100292,2021-11-27,PHI,MIN,22.8,2,1,12,MIN,MIN,fg_miss,75,False,False,,MISS McDaniels 2' Driving Finger Roll Layup,41-52,41,52
+0022100292,2021-11-27,PHI,MIN,22.88,2,1,7,MIN,MIN,fg_make,72,False,False,,Towns Putback Layup (17 PTS),41-54,41,54
+0022100292,2021-11-27,PHI,MIN,22.88,2,1,7,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:4),41-52,41,52
+0022100292,2021-11-27,PHI,MIN,23.08,2,0,55,PHI,PHI,fg_miss,86,False,False,MISS Embiid 8' Turnaround Fadeaway Shot,,41-54,41,54
+0022100292,2021-11-27,PHI,MIN,23.13,2,0,52,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:1 Def:1),,41-54,41,54
+0022100292,2021-11-27,PHI,MIN,23.17,2,0,50,PHI,PHI,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,41-54,41,54
+0022100292,2021-11-27,PHI,MIN,23.22,2,0,47,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:1 Def:0),,41-54,41,54
+0022100292,2021-11-27,PHI,MIN,23.23,2,0,46,PHI,PHI,fg_miss,75,False,False,MISS Korkmaz 8' Driving Finger Roll Layup,,41-54,41,54
+0022100292,2021-11-27,PHI,MIN,23.27,2,0,44,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:5),41-54,41,54
+0022100292,2021-11-27,PHI,MIN,23.52,2,0,29,MIN,MIN,ft_make,12,False,False,,Edwards Free Throw 2 of 2 (14 PTS),41-56,41,56
+0022100292,2021-11-27,PHI,MIN,23.52,2,0,29,MIN,MIN,ft_make,11,False,False,,Edwards Free Throw 1 of 2 (13 PTS),41-55,41,55
+0022100292,2021-11-27,PHI,MIN,23.52,2,0,29,MIN,PHI,foul,2,False,False,Korkmaz S.FOUL (P1.PN) (S.Corbin),,41-54,41,54
+0022100292,2021-11-27,PHI,MIN,23.93,2,0,4,PHI,PHI,fg3_miss,1,False,False,MISS Green 25' 3PT Jump Shot,,41-56,41,56
+0022100292,2021-11-27,PHI,MIN,23.97,2,0,2,MIN,MIN,reb,0,False,False,,Bolmaro REBOUND (Off:1 Def:1),41-56,41,56
+0022100292,2021-11-27,PHI,MIN,24.0,3,12,0,MIN,,period_start,0,False,False,,,41-56,41,56
+0022100292,2021-11-27,PHI,MIN,24.0,2,0,0,MIN,,period_end,0,False,False,,,41-56,41,56
+0022100292,2021-11-27,PHI,MIN,24.25,3,11,45,MIN,MIN,fg_make,63,False,False,,Towns 19' Fadeaway Jumper (19 PTS) (Edwards 3 AST),41-58,41,58
+0022100292,2021-11-27,PHI,MIN,24.7,3,11,18,PHI,PHI,tov,1,False,True,Thybulle Bad Pass Turnover (P1.T6),,41-58,41,58
+0022100292,2021-11-27,PHI,MIN,24.7,3,11,18,PHI,MIN,steal,1,False,True,steal,steal,41-58,41,58
+0022100292,2021-11-27,PHI,MIN,24.78,3,11,13,MIN,PHI,foul,1,False,False,Curry P.FOUL (P2.T1) (J.Goble),,41-58,41,58
+0022100292,2021-11-27,PHI,MIN,24.88,3,11,7,MIN,PHI,foul,1,False,False,Maxey P.FOUL (P4.T2) (S.Corbin),,41-58,41,58
+0022100292,2021-11-27,PHI,MIN,25.05,3,10,57,MIN,MIN,fg3_miss,79,False,False,,MISS Edwards 24' 3PT Pullup Jump Shot,41-58,41,58
+0022100292,2021-11-27,PHI,MIN,25.12,3,10,53,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:2 Def:7),41-58,41,58
+0022100292,2021-11-27,PHI,MIN,25.13,3,10,52,MIN,MIN,fg3_make,1,False,False,,Prince 26' 3PT Jump Shot (3 PTS) (Russell 5 AST),41-61,41,61
+0022100292,2021-11-27,PHI,MIN,25.52,3,10,29,PHI,PHI,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,41-61,41,61
+0022100292,2021-11-27,PHI,MIN,25.55,3,10,27,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:2),41-61,41,61
+0022100292,2021-11-27,PHI,MIN,25.72,3,10,17,MIN,MIN,fg3_miss,79,False,False,,MISS Russell 26' 3PT Pullup Jump Shot,41-61,41,61
+0022100292,2021-11-27,PHI,MIN,25.77,3,10,14,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:4),,41-61,41,61
+0022100292,2021-11-27,PHI,MIN,25.93,3,10,4,PHI,PHI,ft_miss,10,False,False,MISS Harris Free Throw 1 of 1,,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,25.93,3,10,4,PHI,MIN,foul,2,False,False,,Russell S.FOUL (P3.T1) (S.Corbin),43-61,43,61
+0022100292,2021-11-27,PHI,MIN,25.93,3,10,4,PHI,PHI,fg_make,6,False,False,Harris 3' Driving Layup (4 PTS),,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,25.97,3,10,2,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:6),43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.12,3,9,53,MIN,MIN,fg_miss,6,False,False,,MISS Edwards 5' Driving Layup,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.18,3,9,49,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:3 Def:7),43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.22,3,9,47,,PHI,jump_ball,0,False,False,Jump Ball Harris vs. Vanderbilt: Tip to Russell,,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.33,3,9,40,MIN,MIN,tov,1,False,True,,Russell Bad Pass Turnover (P2.T8),43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.33,3,9,40,MIN,PHI,steal,1,False,True,steal,steal,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.58,3,9,25,PHI,PHI,fg3_miss,1,False,False,MISS Maxey 27' 3PT Jump Shot,,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.63,3,9,22,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:3 Def:8),43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.92,3,9,5,MIN,PHI,foul,2,False,False,Harris S.FOUL (P1.T3) (M.Ervin),,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.92,3,9,5,MIN,MIN,ft_miss,11,False,False,,MISS Towns Free Throw 1 of 2,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.92,3,9,5,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,43-61,43,61
+0022100292,2021-11-27,PHI,MIN,26.92,3,9,5,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (20 PTS),43-62,43,62
+0022100292,2021-11-27,PHI,MIN,27.1,3,8,54,PHI,PHI,tov,45,False,False,Maxey Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,43-62,43,62
+0022100292,2021-11-27,PHI,MIN,27.33,3,8,40,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 25' 3PT Jump Shot,43-62,43,62
+0022100292,2021-11-27,PHI,MIN,27.37,3,8,38,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:2),,43-62,43,62
+0022100292,2021-11-27,PHI,MIN,27.55,3,8,27,PHI,PHI,fg3_make,1,False,False,Curry 3PT Jump Shot (11 PTS) (Green 2 AST),,46-62,46,62
+0022100292,2021-11-27,PHI,MIN,27.8,3,8,12,MIN,MIN,fg_make,75,False,False,,Russell 1' Driving Finger Roll Layup (8 PTS),46-64,46,64
+0022100292,2021-11-27,PHI,MIN,28.08,3,7,55,PHI,PHI,fg3_make,1,False,False,Green 25' 3PT Jump Shot (8 PTS) (Harris 2 AST),,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.33,3,7,40,MIN,PHI,block,98,True,False,block,block,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.33,3,7,40,MIN,MIN,fg_miss,98,True,False,,MISS Vanderbilt 4' Cutting Layup Shot,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.33,3,7,40,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.37,3,7,38,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 25' 3PT Jump Shot,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.43,3,7,34,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.58,3,7,25,PHI,MIN,block,6,True,False,block,block,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.58,3,7,25,PHI,PHI,reb,0,False,False,76ERS Rebound,,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.58,3,7,25,PHI,PHI,fg_miss,6,True,False,MISS Maxey 1' Driving Layup,,49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.65,3,7,21,PHI,MIN,foul,1,False,False,,Towns P.FOUL (P3.T2) (S.Corbin),49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.78,3,7,13,PHI,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P4.T3) (S.Corbin),49-64,49,64
+0022100292,2021-11-27,PHI,MIN,28.78,3,7,13,PHI,PHI,ft_miss,12,False,False,MISS Embiid Free Throw 2 of 2,,50-64,50,64
+0022100292,2021-11-27,PHI,MIN,28.78,3,7,13,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (11 PTS),,50-64,50,64
+0022100292,2021-11-27,PHI,MIN,28.82,3,7,11,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:1 Def:3),50-64,50,64
+0022100292,2021-11-27,PHI,MIN,29.0,3,7,0,MIN,PHI,steal,2,False,True,steal,steal,50-64,50,64
+0022100292,2021-11-27,PHI,MIN,29.0,3,7,0,MIN,MIN,tov,2,False,True,,Edwards Lost Ball Turnover (P2.T9),50-64,50,64
+0022100292,2021-11-27,PHI,MIN,29.22,3,6,47,PHI,PHI,fg3_miss,1,False,False,MISS Curry 24' 3PT Jump Shot,,50-64,50,64
+0022100292,2021-11-27,PHI,MIN,29.28,3,6,43,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:3),50-64,50,64
+0022100292,2021-11-27,PHI,MIN,29.58,3,6,25,MIN,MIN,fg_miss,63,False,False,,MISS Edwards 16' Fadeaway Jumper,50-64,50,64
+0022100292,2021-11-27,PHI,MIN,29.62,3,6,23,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:5),,50-64,50,64
+0022100292,2021-11-27,PHI,MIN,29.83,3,6,10,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),52-64,52,64
+0022100292,2021-11-27,PHI,MIN,29.83,3,6,10,PHI,PHI,fg_make,86,False,False,Embiid 15' Turnaround Fadeaway (13 PTS) (Green 3 AST),,52-64,52,64
+0022100292,2021-11-27,PHI,MIN,30.23,3,5,46,MIN,MIN,fg_miss,86,False,False,,MISS Towns 17' Turnaround Fadeaway Shot,52-64,52,64
+0022100292,2021-11-27,PHI,MIN,30.28,3,5,43,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,52-64,52,64
+0022100292,2021-11-27,PHI,MIN,30.48,3,5,31,PHI,PHI,fg3_make,1,False,False,Curry 3PT Jump Shot (14 PTS) (Embiid 3 AST),,55-64,55,64
+0022100292,2021-11-27,PHI,MIN,30.8,3,5,12,MIN,MIN,tov,4,False,False,,Edwards Traveling Turnover (P3.T10),55-64,55,64
+0022100292,2021-11-27,PHI,MIN,31.18,3,4,49,PHI,PHI,fg3_make,1,False,False,Green 24' 3PT Jump Shot (11 PTS) (Harris 3 AST),,58-64,58,64
+0022100292,2021-11-27,PHI,MIN,31.47,3,4,32,MIN,MIN,fg_miss,79,False,False,,MISS Bolmaro 19' Pullup Jump Shot,58-64,58,64
+0022100292,2021-11-27,PHI,MIN,31.53,3,4,28,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:6),,58-64,58,64
+0022100292,2021-11-27,PHI,MIN,31.58,3,4,25,PHI,PHI,fg3_miss,2,False,False,MISS Harris 28' 3PT Running Jump Shot,,58-64,58,64
+0022100292,2021-11-27,PHI,MIN,31.63,3,4,22,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:7),58-64,58,64
+0022100292,2021-11-27,PHI,MIN,31.87,3,4,8,PHI,MIN,foul,3,False,False,,McDaniels L.B.FOUL (P3.T4) (S.Corbin),58-67,58,67
+0022100292,2021-11-27,PHI,MIN,31.87,3,4,8,MIN,MIN,fg3_make,1,False,False,,Beasley 24' 3PT Jump Shot (5 PTS) (McDaniels 1 AST),58-67,58,67
+0022100292,2021-11-27,PHI,MIN,32.0,3,4,0,PHI,PHI,ft_make,10,False,False,Maxey Free Throw 1 of 1 (7 PTS),,61-67,61,67
+0022100292,2021-11-27,PHI,MIN,32.0,3,4,0,PHI,MIN,foul,2,False,False,,McDaniels S.FOUL (P4.PN) (S.Corbin),60-67,60,67
+0022100292,2021-11-27,PHI,MIN,32.0,3,4,0,PHI,PHI,fg_make,75,False,False,Maxey 2' Driving Finger Roll Layup (6 PTS),,60-67,60,67
+0022100292,2021-11-27,PHI,MIN,32.28,3,3,43,MIN,MIN,fg_make,57,False,False,,Towns 6' Driving Hook Shot (22 PTS) (Edwards 4 AST),61-69,61,69
+0022100292,2021-11-27,PHI,MIN,32.48,3,3,31,PHI,PHI,fg_make,79,False,False,Maxey 13' Pullup Jump Shot (9 PTS),,63-69,63,69
+0022100292,2021-11-27,PHI,MIN,32.72,3,3,17,MIN,MIN,fg_miss,73,False,False,,MISS Towns 1' Driving Reverse Layup,63-69,63,69
+0022100292,2021-11-27,PHI,MIN,32.77,3,3,14,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,63-69,63,69
+0022100292,2021-11-27,PHI,MIN,32.85,3,3,9,PHI,PHI,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,63-69,63,69
+0022100292,2021-11-27,PHI,MIN,32.9,3,3,6,PHI,PHI,reb,0,False,False,Green REBOUND (Off:2 Def:0),,63-69,63,69
+0022100292,2021-11-27,PHI,MIN,32.93,3,3,4,PHI,PHI,fg3_miss,79,False,False,MISS Curry 28' 3PT Pullup Jump Shot,,63-69,63,69
+0022100292,2021-11-27,PHI,MIN,33.0,3,3,0,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:4),63-69,63,69
+0022100292,2021-11-27,PHI,MIN,33.08,3,2,55,MIN,MIN,fg_make,74,False,False,,Edwards 1' Running Reverse Layup (16 PTS),63-71,63,71
+0022100292,2021-11-27,PHI,MIN,33.33,3,2,40,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,63-71,63,71
+0022100292,2021-11-27,PHI,MIN,33.47,3,2,32,PHI,PHI,fg_make,47,False,False,Embiid 8' Turnaround Jump Shot (15 PTS),,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,33.85,3,2,9,MIN,MIN,fg_miss,58,False,False,,MISS Towns 10' Turnaround Hook Shot,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,33.92,3,2,5,PHI,PHI,reb,0,False,False,Green REBOUND (Off:2 Def:1),,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,33.95,3,2,3,PHI,PHI,tov,39,False,False,Green Step Out of Bounds Turnover (P2.T8),,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,34.18,3,1,49,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 26' 3PT Jump Shot,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,34.25,3,1,45,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:7),,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,34.27,3,1,44,PHI,PHI,tov,45,False,False,Embiid Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,34.38,3,1,37,MIN,PHI,foul,1,False,False,Korkmaz P.FOUL (P2.T4) (M.Ervin),,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,34.63,3,1,22,MIN,PHI,steal,2,False,True,steal,steal,65-71,65,71
+0022100292,2021-11-27,PHI,MIN,34.63,3,1,22,MIN,MIN,tov,2,False,True,,Towns Lost Ball Turnover (P2.T11),65-71,65,71
+0022100292,2021-11-27,PHI,MIN,34.75,3,1,15,PHI,PHI,fg3_make,79,False,False,Maxey 28' 3PT Pullup Jump Shot (12 PTS),,68-71,68,71
+0022100292,2021-11-27,PHI,MIN,34.98,3,1,1,MIN,MIN,fg_miss,79,False,False,,MISS Russell 18' Pullup Jump Shot,68-71,68,71
+0022100292,2021-11-27,PHI,MIN,35.02,3,0,59,PHI,PHI,reb,0,False,False,Niang REBOUND (Off:0 Def:2),,68-71,68,71
+0022100292,2021-11-27,PHI,MIN,35.25,3,0,45,PHI,PHI,fg_miss,6,False,False,MISS Maxey 3' Driving Layup,,68-71,68,71
+0022100292,2021-11-27,PHI,MIN,35.28,3,0,43,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:2),68-71,68,71
+0022100292,2021-11-27,PHI,MIN,35.37,3,0,38,MIN,MIN,fg3_miss,80,False,False,,MISS McDaniels 26' 3PT Step Back Jump Shot,68-71,68,71
+0022100292,2021-11-27,PHI,MIN,35.45,3,0,33,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:3),,68-71,68,71
+0022100292,2021-11-27,PHI,MIN,35.58,3,0,25,PHI,PHI,fg_make,71,False,False,Embiid 1' Finger Roll Layup (17 PTS) (Maxey 3 AST),,70-71,70,71
+0022100292,2021-11-27,PHI,MIN,35.63,3,0,22,MIN,MIN,tov,2,False,True,,Beasley Lost Ball Turnover (P1.T12),70-71,70,71
+0022100292,2021-11-27,PHI,MIN,35.63,3,0,22,MIN,PHI,steal,2,False,True,steal,steal,70-71,70,71
+0022100292,2021-11-27,PHI,MIN,35.68,3,0,19,PHI,PHI,fg3_miss,1,False,False,MISS Green 25' 3PT Jump Shot,,70-71,70,71
+0022100292,2021-11-27,PHI,MIN,35.72,3,0,17,MIN,MIN,reb,0,False,False,,Bolmaro REBOUND (Off:1 Def:2),70-71,70,71
+0022100292,2021-11-27,PHI,MIN,35.93,3,0,4,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (23 PTS),70-72,70,72
+0022100292,2021-11-27,PHI,MIN,35.93,3,0,4,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,70-71,70,71
+0022100292,2021-11-27,PHI,MIN,35.93,3,0,4,MIN,MIN,ft_miss,11,False,False,,MISS Towns Free Throw 1 of 2,70-71,70,71
+0022100292,2021-11-27,PHI,MIN,35.93,3,0,4,MIN,PHI,foul,1,False,False,Embiid P.FOUL (P2.PN) (M.Ervin),,70-71,70,71
+0022100292,2021-11-27,PHI,MIN,36.0,4,12,0,PHI,,period_start,0,False,False,,,70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.0,3,0,0,PHI,,period_end,0,False,False,,,70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.0,3,0,0,PHI,PHI,reb,0,False,False,76ERS Rebound,,70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.0,3,0,0,PHI,PHI,fg_miss,101,False,False,MISS Maxey 17' Driving Floating Jump Shot,,70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.18,4,11,49,PHI,PHI,tov,37,False,False,Drummond Offensive Foul Turnover (P2.T10),,70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.18,4,11,49,MIN,PHI,foul,4,False,False,Drummond OFF.Foul (P3) (M.Ervin),,70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.47,4,11,32,MIN,MIN,fg_miss,63,False,False,,MISS Russell 18' Fadeaway Jumper,70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.58,4,11,25,MIN,MIN,fg_make,72,False,False,,Reid Putback Layup (4 PTS),70-74,70,74
+0022100292,2021-11-27,PHI,MIN,36.58,4,11,25,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:1 Def:0),70-72,70,72
+0022100292,2021-11-27,PHI,MIN,36.77,4,11,14,PHI,MIN,steal,1,False,True,steal,steal,70-74,70,74
+0022100292,2021-11-27,PHI,MIN,36.77,4,11,14,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P2.T11),,70-74,70,74
+0022100292,2021-11-27,PHI,MIN,36.87,4,11,8,MIN,MIN,fg3_make,80,False,False,,Russell 25' 3PT Step Back Jump Shot (11 PTS),70-77,70,77
+0022100292,2021-11-27,PHI,MIN,36.88,4,11,7,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,70-77,70,77
+0022100292,2021-11-27,PHI,MIN,37.22,4,10,47,PHI,PHI,fg_miss,80,False,False,MISS Joe 15' Step Back Jump Shot,,70-77,70,77
+0022100292,2021-11-27,PHI,MIN,37.23,4,10,46,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:3),,70-77,70,77
+0022100292,2021-11-27,PHI,MIN,37.27,4,10,44,PHI,PHI,fg_make,72,False,False,Harris 2' Putback Layup (6 PTS),,72-77,72,77
+0022100292,2021-11-27,PHI,MIN,37.55,4,10,27,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 27' 3PT Jump Shot,72-77,72,77
+0022100292,2021-11-27,PHI,MIN,37.6,4,10,24,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:4 Def:8),72-77,72,77
+0022100292,2021-11-27,PHI,MIN,37.62,4,10,23,MIN,MIN,fg3_make,1,False,False,,Russell 25' 3PT Jump Shot (14 PTS) (Vanderbilt 2 AST),72-80,72,80
+0022100292,2021-11-27,PHI,MIN,37.87,4,10,8,PHI,PHI,fg_make,108,False,False,Harris 1' Cutting Dunk Shot (8 PTS) (Drummond 1 AST),,74-80,74,80
+0022100292,2021-11-27,PHI,MIN,38.02,4,9,59,MIN,PHI,foul,1,False,False,Joe P.FOUL (P1.T1) (J.Goble),,74-80,74,80
+0022100292,2021-11-27,PHI,MIN,38.15,4,9,51,MIN,MIN,fg_miss,75,False,False,,MISS Reid 11' Driving Finger Roll Layup,74-80,74,80
+0022100292,2021-11-27,PHI,MIN,38.2,4,9,48,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:0 Def:2),,74-80,74,80
+0022100292,2021-11-27,PHI,MIN,38.27,4,9,44,PHI,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P5.T1) (S.Corbin),74-80,74,80
+0022100292,2021-11-27,PHI,MIN,38.27,4,9,44,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.4 Short 0),74-80,74,80
+0022100292,2021-11-27,PHI,MIN,38.27,4,9,44,MIN,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (9 PTS),,75-80,75,80
+0022100292,2021-11-27,PHI,MIN,38.27,4,9,44,MIN,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (10 PTS),,76-80,76,80
+0022100292,2021-11-27,PHI,MIN,38.47,4,9,32,MIN,PHI,foul,1,False,False,Maxey P.FOUL (P5.T2) (M.Ervin),,76-80,76,80
+0022100292,2021-11-27,PHI,MIN,38.57,4,9,26,MIN,MIN,fg_make,6,False,False,,Reid 1' Driving Layup (6 PTS),76-82,76,82
+0022100292,2021-11-27,PHI,MIN,38.83,4,9,10,PHI,MIN,block,101,True,False,block,block,76-82,76,82
+0022100292,2021-11-27,PHI,MIN,38.83,4,9,10,PHI,PHI,fg_miss,101,True,False,MISS Harris 4' Driving Floating Jump Shot,,76-82,76,82
+0022100292,2021-11-27,PHI,MIN,38.83,4,9,10,PHI,PHI,reb,0,False,False,76ERS Rebound,,76-82,76,82
+0022100292,2021-11-27,PHI,MIN,38.92,4,9,5,PHI,PHI,fg_miss,80,False,False,MISS Harris 19' Step Back Jump Shot,,76-82,76,82
+0022100292,2021-11-27,PHI,MIN,38.97,4,9,2,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:4 Def:9),76-82,76,82
+0022100292,2021-11-27,PHI,MIN,39.12,4,8,53,MIN,MIN,fg_make,6,False,False,,Russell 2' Driving Layup (16 PTS),76-84,76,84
+0022100292,2021-11-27,PHI,MIN,39.38,4,8,37,PHI,PHI,fg_miss,63,False,False,MISS Korkmaz 9' Fadeaway Jumper,,76-84,76,84
+0022100292,2021-11-27,PHI,MIN,39.42,4,8,35,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:1 Def:1),76-84,76,84
+0022100292,2021-11-27,PHI,MIN,39.67,4,8,20,MIN,MIN,fg3_make,1,False,False,,Russell 26' 3PT Jump Shot (19 PTS) (Prince 3 AST),76-87,76,87
+0022100292,2021-11-27,PHI,MIN,39.67,4,8,20,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,76-87,76,87
+0022100292,2021-11-27,PHI,MIN,39.67,4,8,20,MIN,PHI,foul,6,False,False,Niang AWAY.FROM.PLAY.FOUL (P1.T3) (J.Goble),,76-87,76,87
+0022100292,2021-11-27,PHI,MIN,39.67,4,8,20,MIN,MIN,ft_make,10,False,False,,Vanderbilt Free Throw 1 of 1 (5 PTS),76-88,76,88
+0022100292,2021-11-27,PHI,MIN,39.93,4,8,4,PHI,PHI,fg3_make,1,False,False,Niang 24' 3PT Jump Shot (6 PTS) (Harris 4 AST),,79-88,79,88
+0022100292,2021-11-27,PHI,MIN,40.13,4,7,52,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:8),,79-88,79,88
+0022100292,2021-11-27,PHI,MIN,40.13,4,7,52,MIN,MIN,fg_miss,80,False,False,,MISS Russell 18' Step Back Jump Shot,79-88,79,88
+0022100292,2021-11-27,PHI,MIN,40.42,4,7,35,PHI,MIN,foul,2,False,False,,Reid S.FOUL (P2.T2) (J.Goble),79-88,79,88
+0022100292,2021-11-27,PHI,MIN,40.42,4,7,35,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (19 PTS),,81-88,81,88
+0022100292,2021-11-27,PHI,MIN,40.42,4,7,35,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (18 PTS),,80-88,80,88
+0022100292,2021-11-27,PHI,MIN,40.83,4,7,10,MIN,MIN,tov,2,False,True,,Towns Lost Ball Turnover (P3.T13),81-88,81,88
+0022100292,2021-11-27,PHI,MIN,40.83,4,7,10,MIN,PHI,steal,2,False,True,steal,steal,81-88,81,88
+0022100292,2021-11-27,PHI,MIN,40.95,4,7,3,PHI,PHI,fg3_make,1,False,False,Embiid 28' 3PT Jump Shot (22 PTS) (Thybulle 1 AST),,84-88,84,88
+0022100292,2021-11-27,PHI,MIN,41.23,4,6,46,MIN,MIN,fg3_make,1,False,False,,Towns 25' 3PT Jump Shot (26 PTS) (Edwards 5 AST),84-91,84,91
+0022100292,2021-11-27,PHI,MIN,41.67,4,6,20,PHI,MIN,steal,1,False,True,steal,steal,84-91,84,91
+0022100292,2021-11-27,PHI,MIN,41.67,4,6,20,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P1.T12),,84-91,84,91
+0022100292,2021-11-27,PHI,MIN,41.82,4,6,11,MIN,PHI,steal,2,False,True,steal,steal,84-91,84,91
+0022100292,2021-11-27,PHI,MIN,41.82,4,6,11,MIN,MIN,tov,2,False,True,,Russell Lost Ball Turnover (P3.T14),84-91,84,91
+0022100292,2021-11-27,PHI,MIN,41.9,4,6,6,PHI,PHI,fg_make,76,False,False,Harris 1' Running Finger Roll Layup (12 PTS) (Niang 2 AST),,86-91,86,91
+0022100292,2021-11-27,PHI,MIN,42.05,4,5,57,MIN,PHI,foul,1,False,False,Embiid P.FOUL (P3.T4) (S.Corbin),,86-91,86,91
+0022100292,2021-11-27,PHI,MIN,42.08,4,5,55,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 26' 3PT Jump Shot,86-91,86,91
+0022100292,2021-11-27,PHI,MIN,42.15,4,5,51,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:1 Def:2),,86-91,86,91
+0022100292,2021-11-27,PHI,MIN,42.52,4,5,29,PHI,PHI,fg_make,78,False,False,Harris 7' Floating Jump Shot (14 PTS) (Maxey 4 AST),,88-91,88,91
+0022100292,2021-11-27,PHI,MIN,42.83,4,5,10,MIN,MIN,fg_make,79,False,False,,Russell 18' Pullup Jump Shot (21 PTS),88-93,88,93
+0022100292,2021-11-27,PHI,MIN,43.1,4,4,54,PHI,PHI,fg_make,75,False,False,Maxey 2' Driving Finger Roll Layup (14 PTS),,90-93,90,93
+0022100292,2021-11-27,PHI,MIN,43.4,4,4,36,MIN,MIN,fg_make,1,False,False,,Russell 17' Jump Shot (23 PTS),90-95,90,95
+0022100292,2021-11-27,PHI,MIN,43.57,4,4,26,PHI,PHI,fg_make,75,False,False,Embiid 1' Driving Finger Roll Layup (24 PTS) (Maxey 5 AST),,92-95,92,95
+0022100292,2021-11-27,PHI,MIN,43.57,4,4,26,PHI,MIN,foul,2,False,False,,Towns S.FOUL (P4.T3) (S.Corbin),92-95,92,95
+0022100292,2021-11-27,PHI,MIN,43.57,4,4,26,PHI,PHI,ft_make,10,False,False,Embiid Free Throw 1 of 1 (25 PTS),,93-95,93,95
+0022100292,2021-11-27,PHI,MIN,43.57,4,4,26,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.5 Short 0),93-95,93,95
+0022100292,2021-11-27,PHI,MIN,43.88,4,4,7,MIN,PHI,steal,1,False,True,steal,steal,93-95,93,95
+0022100292,2021-11-27,PHI,MIN,43.88,4,4,7,MIN,MIN,tov,1,False,True,,Vanderbilt Bad Pass Turnover (P1.T15),93-95,93,95
+0022100292,2021-11-27,PHI,MIN,43.9,4,4,6,PHI,PHI,fg_make,50,False,False,Thybulle 3' Running Dunk (4 PTS),,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,44.22,4,3,47,PHI,MIN,foul,4,False,False,,Russell OFF.Foul (P4) (M.Ervin),95-95,95,95
+0022100292,2021-11-27,PHI,MIN,44.22,4,3,47,MIN,MIN,tov,37,False,False,,Russell Offensive Foul Turnover (P4.T16),95-95,95,95
+0022100292,2021-11-27,PHI,MIN,44.53,4,3,28,PHI,PHI,fg_miss,47,False,False,MISS Embiid 5' Turnaround Jump Shot,,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,44.57,4,3,26,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:4),95-95,95,95
+0022100292,2021-11-27,PHI,MIN,44.67,4,3,20,MIN,MIN,fg_miss,76,False,False,,MISS Vanderbilt 3' Running Finger Roll Layup,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,44.7,4,3,18,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:4),,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.03,4,2,58,PHI,MIN,block,6,True,False,block,block,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.03,4,2,58,PHI,PHI,fg_miss,6,True,False,MISS Maxey 3' Driving Layup,,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.08,4,2,55,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:5),95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.1,4,2,54,PHI,MIN,foul,26,False,False,,Edwards Offensive Charge Foul (P1) (S.Corbin),95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.1,4,2,54,MIN,MIN,tov,37,False,False,,Edwards Offensive Foul Turnover (P4.T17),95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.25,4,2,45,PHI,PHI,fg_miss,1,False,False,MISS Embiid 22' Jump Shot,,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.32,4,2,41,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:4),,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.32,4,2,41,PHI,PHI,fg_miss,72,False,False,MISS Harris Putback Layup,,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.32,4,2,41,PHI,PHI,reb,0,False,False,76ERS Rebound,,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.45,4,2,33,PHI,PHI,fg_miss,47,False,False,MISS Embiid 14' Turnaround Jump Shot,,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.48,4,2,31,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:2 Def:2),,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.57,4,2,26,PHI,PHI,fg_miss,101,False,False,MISS Maxey 16' Driving Floating Jump Shot,,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.63,4,2,22,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.67,4,2,20,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 27' 3PT Jump Shot,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,45.72,4,2,17,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:9),,95-95,95,95
+0022100292,2021-11-27,PHI,MIN,46.08,4,1,55,PHI,PHI,fg3_make,79,False,False,Embiid 29' 3PT Pullup Jump Shot (28 PTS),,98-95,98,95
+0022100292,2021-11-27,PHI,MIN,46.28,4,1,43,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 24' 3PT Jump Shot,98-95,98,95
+0022100292,2021-11-27,PHI,MIN,46.38,4,1,37,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:7),98-95,98,95
+0022100292,2021-11-27,PHI,MIN,46.38,4,1,37,MIN,MIN,fg_make,72,False,False,,Towns Putback Layup (28 PTS),98-97,98,97
+0022100292,2021-11-27,PHI,MIN,46.68,4,1,19,PHI,PHI,fg_miss,101,False,False,MISS Maxey 14' Driving Floating Jump Shot,,98-97,98,97
+0022100292,2021-11-27,PHI,MIN,46.72,4,1,17,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:3),98-97,98,97
+0022100292,2021-11-27,PHI,MIN,46.8,4,1,12,MIN,MIN,fg3_make,1,False,False,,Edwards 3PT Jump Shot (19 PTS) (Russell 6 AST),98-100,98,100
+0022100292,2021-11-27,PHI,MIN,46.82,4,1,11,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 6 Short 0),,98-100,98,100
+0022100292,2021-11-27,PHI,MIN,47.0,4,1,0,PHI,MIN,foul,2,False,False,,Towns S.FOUL (P5.T4) (M.Ervin),98-100,98,100
+0022100292,2021-11-27,PHI,MIN,47.0,4,1,0,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (29 PTS),,99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.0,4,1,0,PHI,PHI,ft_miss,12,False,False,MISS Embiid Free Throw 2 of 2,,99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.07,4,0,56,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:8),99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.32,4,0,41,MIN,MIN,fg_miss,6,False,False,,MISS Edwards 2' Driving Layup,99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.33,4,0,40,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:10),,99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.67,4,0,20,PHI,PHI,fg_miss,1,False,False,MISS Embiid 12' Jump Shot,,99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.7,4,0,18,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:3 Def:4),,99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.7,4,0,18,PHI,MIN,foul,2,False,False,,Towns S.FOUL (P6.PN) (J.Goble),99-100,99,100
+0022100292,2021-11-27,PHI,MIN,47.7,4,0,18,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (15 PTS),,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,47.7,4,0,18,PHI,PHI,ft_miss,12,False,False,MISS Harris Free Throw 2 of 2,,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,47.72,4,0,17,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.6 Short 0),100-100,100,100
+0022100292,2021-11-27,PHI,MIN,47.72,4,0,17,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:1 Def:2),100-100,100,100
+0022100292,2021-11-27,PHI,MIN,47.98,4,0,1,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,47.98,4,0,1,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 27' 3PT Jump Shot,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.0,5,5,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Reid: Tip to Harris,,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.0,5,5,0,MIN,,period_start,0,False,False,,,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.0,4,0,0,MIN,,period_end,0,False,False,,,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.33,5,4,40,PHI,PHI,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.38,5,4,37,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:4),100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.53,5,4,28,MIN,PHI,foul,1,False,False,Curry P.FOUL (P3.T1) (M.Ervin),,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.65,5,4,21,MIN,MIN,fg_miss,98,False,False,,MISS Reid 4' Cutting Layup Shot,100-100,100,100
+0022100292,2021-11-27,PHI,MIN,48.73,5,4,16,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:2 Def:2),100-102,100,102
+0022100292,2021-11-27,PHI,MIN,48.73,5,4,16,MIN,MIN,fg_make,97,False,False,,Reid Tip Layup Shot (8 PTS),100-102,100,102
+0022100292,2021-11-27,PHI,MIN,49.0,5,4,0,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (30 PTS),,101-102,101,102
+0022100292,2021-11-27,PHI,MIN,49.0,5,4,0,PHI,MIN,foul,2,False,False,,Reid S.FOUL (P3.T1) (S.Corbin),100-102,100,102
+0022100292,2021-11-27,PHI,MIN,49.0,5,4,0,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (31 PTS),,102-102,102,102
+0022100292,2021-11-27,PHI,MIN,49.15,5,3,51,MIN,MIN,fg3_miss,79,False,False,,MISS Russell 26' 3PT Pullup Jump Shot,102-102,102,102
+0022100292,2021-11-27,PHI,MIN,49.18,5,3,49,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:3 Def:5),,102-102,102,102
+0022100292,2021-11-27,PHI,MIN,49.57,5,3,26,PHI,PHI,fg_make,73,False,False,Thybulle 2' Driving Reverse Layup (6 PTS) (Curry 1 AST),,104-102,104,102
+0022100292,2021-11-27,PHI,MIN,49.95,5,3,3,MIN,MIN,fg3_make,1,False,False,,Reid 24' 3PT Jump Shot (11 PTS) (Edwards 6 AST),104-105,104,105
+0022100292,2021-11-27,PHI,MIN,50.22,5,2,47,PHI,PHI,fg_make,86,False,False,Embiid 12' Turnaround Fadeaway (33 PTS) (Maxey 6 AST),,106-105,106,105
+0022100292,2021-11-27,PHI,MIN,50.62,5,2,23,MIN,PHI,steal,2,False,True,steal,steal,106-105,106,105
+0022100292,2021-11-27,PHI,MIN,50.62,5,2,23,MIN,MIN,tov,2,False,True,,Reid Lost Ball Turnover (P4.T18),106-105,106,105
+0022100292,2021-11-27,PHI,MIN,50.67,5,2,20,PHI,MIN,block,41,True,False,block,block,106-105,106,105
+0022100292,2021-11-27,PHI,MIN,50.67,5,2,20,PHI,PHI,fg_miss,41,True,False,MISS Harris 4' Running Layup,,106-105,106,105
+0022100292,2021-11-27,PHI,MIN,50.7,5,2,18,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:1 Def:4),106-105,106,105
+0022100292,2021-11-27,PHI,MIN,50.9,5,2,6,MIN,PHI,foul,1,False,False,Curry P.FOUL (P4.T2) (M.Ervin),,106-105,106,105
+0022100292,2021-11-27,PHI,MIN,51.02,5,1,59,MIN,MIN,fg_make,1,False,False,,Russell 15' Jump Shot (25 PTS),106-107,106,107
+0022100292,2021-11-27,PHI,MIN,51.08,5,1,55,PHI,MIN,foul,1,False,False,,Reid P.FOUL (P4.T2) (S.Corbin),106-107,106,107
+0022100292,2021-11-27,PHI,MIN,51.18,5,1,49,PHI,PHI,fg3_miss,1,False,False,MISS Maxey 28' 3PT Jump Shot,,106-107,106,107
+0022100292,2021-11-27,PHI,MIN,51.18,5,1,49,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:6),106-107,106,107
+0022100292,2021-11-27,PHI,MIN,51.37,5,1,38,MIN,MIN,fg_miss,6,False,False,,MISS Edwards 2' Driving Layup,106-107,106,107
+0022100292,2021-11-27,PHI,MIN,51.38,5,1,37,PHI,PHI,reb,0,False,False,Maxey REBOUND (Off:0 Def:4),,106-107,106,107
+0022100292,2021-11-27,PHI,MIN,51.58,5,1,25,PHI,MIN,foul,2,False,False,,Reid S.FOUL (P5.PN) (J.Goble),106-107,106,107
+0022100292,2021-11-27,PHI,MIN,51.58,5,1,25,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (34 PTS),,107-107,107,107
+0022100292,2021-11-27,PHI,MIN,51.58,5,1,25,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (35 PTS),,108-107,108,107
+0022100292,2021-11-27,PHI,MIN,51.87,5,1,8,MIN,MIN,tov,45,False,False,,Vanderbilt Out of Bounds - Bad Pass Turnover Turnover (P2.T19),108-107,108,107
+0022100292,2021-11-27,PHI,MIN,52.05,5,0,57,MIN,PHI,foul,4,False,False,Embiid OFF.Foul (P4) (M.Ervin),,108-107,108,107
+0022100292,2021-11-27,PHI,MIN,52.05,5,0,57,PHI,PHI,tov,37,False,False,Embiid Offensive Foul Turnover (P2.T13),,108-107,108,107
+0022100292,2021-11-27,PHI,MIN,52.3,5,0,42,MIN,MIN,fg_miss,79,False,False,,MISS Russell 12' Pullup Jump Shot,108-107,108,107
+0022100292,2021-11-27,PHI,MIN,52.33,5,0,40,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:11),,108-107,108,107
+0022100292,2021-11-27,PHI,MIN,52.42,5,0,35,PHI,PHI,fg_make,41,False,False,Harris 2' Running Layup (17 PTS) (Maxey 7 AST),,110-107,110,107
+0022100292,2021-11-27,PHI,MIN,52.42,5,0,35,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.7 Short 0),110-107,110,107
+0022100292,2021-11-27,PHI,MIN,52.47,5,0,32,MIN,MIN,fg3_make,79,False,False,,Russell 27' 3PT Pullup Jump Shot (28 PTS) (Edwards 7 AST),110-110,110,110
+0022100292,2021-11-27,PHI,MIN,52.48,5,0,31,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 7 Short 0),,110-110,110,110
+0022100292,2021-11-27,PHI,MIN,52.63,5,0,22,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 8 Short 0),,110-110,110,110
+0022100292,2021-11-27,PHI,MIN,52.63,5,0,22,PHI,PHI,tov,45,False,False,Embiid Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,110-110,110,110
+0022100292,2021-11-27,PHI,MIN,52.92,5,0,5,MIN,MIN,fg3_make,80,False,False,,Russell 26' 3PT Step Back Jump Shot (31 PTS),110-113,110,113
+0022100292,2021-11-27,PHI,MIN,52.93,5,0,4,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 9 Short 0),,110-113,110,113
+0022100292,2021-11-27,PHI,MIN,52.97,5,0,2,PHI,MIN,foul,28,False,False,,McDaniels Personal Take Foul (P5.PN) (S.Corbin),110-113,110,113
+0022100292,2021-11-27,PHI,MIN,52.97,5,0,2,PHI,PHI,ft_make,11,False,False,Maxey Free Throw 1 of 2 (15 PTS),,111-113,111,113
+0022100292,2021-11-27,PHI,MIN,52.97,5,0,2,PHI,PHI,ft_miss,12,False,False,MISS Maxey Free Throw 2 of 2,,111-113,111,113
+0022100292,2021-11-27,PHI,MIN,53.0,6,5,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Reid: Tip to McDaniels,,113-113,113,113
+0022100292,2021-11-27,PHI,MIN,53.0,5,0,0,PHI,PHI,reb,0,False,False,Drummond REBOUND (Off:1 Def:2),,111-113,111,113
+0022100292,2021-11-27,PHI,MIN,53.0,5,0,0,PHI,PHI,fg_make,97,False,False,Drummond Tip Layup Shot (2 PTS),,113-113,113,113
+0022100292,2021-11-27,PHI,MIN,53.0,5,0,0,MIN,MIN,fg3_miss,2,False,False,,MISS Edwards 35' 3PT Running Jump Shot,113-113,113,113
+0022100292,2021-11-27,PHI,MIN,53.0,5,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,113-113,113,113
+0022100292,2021-11-27,PHI,MIN,53.0,5,0,0,MIN,,period_end,0,False,False,,,113-113,113,113
+0022100292,2021-11-27,PHI,MIN,53.0,6,5,0,MIN,,period_start,0,False,False,,,113-113,113,113
+0022100292,2021-11-27,PHI,MIN,53.27,6,4,44,MIN,MIN,fg3_make,1,False,False,,Russell 26' 3PT Jump Shot (34 PTS),113-116,113,116
+0022100292,2021-11-27,PHI,MIN,53.68,6,4,19,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,113-116,113,116
+0022100292,2021-11-27,PHI,MIN,53.78,6,4,13,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:3 Def:2),,113-116,113,116
+0022100292,2021-11-27,PHI,MIN,53.78,6,4,13,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:2 Def:3),113-116,113,116
+0022100292,2021-11-27,PHI,MIN,53.78,6,4,13,PHI,PHI,fg_miss,72,False,False,MISS Thybulle Putback Layup,,113-116,113,116
+0022100292,2021-11-27,PHI,MIN,54.02,6,3,59,MIN,MIN,ft_make,12,False,False,,Russell Free Throw 2 of 2 (35 PTS),113-117,113,117
+0022100292,2021-11-27,PHI,MIN,54.02,6,3,59,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,113-116,113,116
+0022100292,2021-11-27,PHI,MIN,54.02,6,3,59,MIN,MIN,ft_miss,11,False,False,,MISS Russell Free Throw 1 of 2,113-116,113,116
+0022100292,2021-11-27,PHI,MIN,54.02,6,3,59,MIN,PHI,foul,2,False,False,Thybulle S.FOUL (P3.T1) (S.Corbin),,113-116,113,116
+0022100292,2021-11-27,PHI,MIN,54.3,6,3,42,PHI,PHI,ft_miss,12,False,False,MISS Embiid Free Throw 2 of 2,,114-117,114,117
+0022100292,2021-11-27,PHI,MIN,54.3,6,3,42,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (36 PTS),,114-117,114,117
+0022100292,2021-11-27,PHI,MIN,54.3,6,3,42,PHI,MIN,foul,2,False,False,,McDaniels S.FOUL (P6.T1) (S.Corbin),113-117,113,117
+0022100292,2021-11-27,PHI,MIN,54.3,6,3,42,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:11),,113-117,113,117
+0022100292,2021-11-27,PHI,MIN,54.3,6,3,42,PHI,PHI,fg_miss,6,True,False,MISS Embiid 5' Driving Layup,,113-117,113,117
+0022100292,2021-11-27,PHI,MIN,54.3,6,3,42,PHI,MIN,block,6,True,False,block,block,113-117,113,117
+0022100292,2021-11-27,PHI,MIN,54.35,6,3,39,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:4 Def:10),114-117,114,117
+0022100292,2021-11-27,PHI,MIN,54.5,6,3,30,MIN,MIN,tov,45,False,False,,Russell Out of Bounds - Bad Pass Turnover Turnover (P5.T20),114-117,114,117
+0022100292,2021-11-27,PHI,MIN,54.68,6,3,19,PHI,PHI,fg_make,75,False,False,Embiid 2' Driving Finger Roll Layup (38 PTS) (Maxey 8 AST),,116-117,116,117
+0022100292,2021-11-27,PHI,MIN,55.03,6,2,58,MIN,MIN,fg3_miss,79,False,False,,MISS Russell 26' 3PT Pullup Jump Shot,116-117,116,117
+0022100292,2021-11-27,PHI,MIN,55.07,6,2,56,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:3 Def:6),,116-117,116,117
+0022100292,2021-11-27,PHI,MIN,55.37,6,2,38,PHI,PHI,fg_make,80,False,False,Embiid 19' Step Back Jump Shot (40 PTS),,118-117,118,117
+0022100292,2021-11-27,PHI,MIN,55.73,6,2,16,MIN,MIN,fg_miss,98,True,False,,MISS Vanderbilt 11' Cutting Layup Shot,118-117,118,117
+0022100292,2021-11-27,PHI,MIN,55.73,6,2,16,MIN,PHI,block,98,True,False,block,block,118-117,118,117
+0022100292,2021-11-27,PHI,MIN,55.78,6,2,13,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:12),,118-117,118,117
+0022100292,2021-11-27,PHI,MIN,56.02,6,1,59,PHI,PHI,fg_make,63,False,False,Embiid 12' Fadeaway Jumper (42 PTS) (Maxey 9 AST),,120-117,120,117
+0022100292,2021-11-27,PHI,MIN,56.37,6,1,38,MIN,MIN,tov,45,False,False,,Prince Out of Bounds - Bad Pass Turnover Turnover (P1.T21),120-117,120,117
+0022100292,2021-11-27,PHI,MIN,56.67,6,1,20,PHI,PHI,tov,4,False,False,Embiid Traveling Turnover (P4.T15),,120-117,120,117
+0022100292,2021-11-27,PHI,MIN,56.88,6,1,7,MIN,PHI,foul,1,False,False,Curry P.FOUL (P5.T2) (M.Ervin),,120-117,120,117
+0022100292,2021-11-27,PHI,MIN,56.98,6,1,1,MIN,MIN,fg_miss,6,False,False,,MISS Edwards 10' Driving Layup,120-117,120,117
+0022100292,2021-11-27,PHI,MIN,57.02,6,0,59,PHI,MIN,foul,1,False,False,,Vanderbilt P.FOUL (P6.T2) (S.Corbin),120-117,120,117
+0022100292,2021-11-27,PHI,MIN,57.02,6,0,59,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,120-117,120,117
+0022100292,2021-11-27,PHI,MIN,57.27,6,0,44,PHI,PHI,fg3_miss,1,False,False,MISS Niang 3PT Jump Shot,,120-117,120,117
+0022100292,2021-11-27,PHI,MIN,57.33,6,0,40,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:1 Def:5),120-117,120,117
+0022100292,2021-11-27,PHI,MIN,57.5,6,0,30,MIN,MIN,fg_make,58,False,False,,Reid 11' Turnaround Hook Shot (13 PTS) (Russell 7 AST),120-119,120,119
+0022100292,2021-11-27,PHI,MIN,57.83,6,0,10,PHI,MIN,steal,1,False,True,steal,steal,120-119,120,119
+0022100292,2021-11-27,PHI,MIN,57.83,6,0,10,PHI,PHI,tov,1,False,True,Maxey Bad Pass Turnover (P4.T16),,120-119,120,119
+0022100292,2021-11-27,PHI,MIN,57.93,6,0,4,MIN,MIN,fg_make,76,False,False,,Prince 3' Running Finger Roll Layup (5 PTS) (Russell 8 AST),120-121,120,121
+0022100292,2021-11-27,PHI,MIN,57.93,6,0,4,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 10 Short 0),,120-121,120,121
+0022100292,2021-11-27,PHI,MIN,57.98,6,0,1,PHI,PHI,fg3_miss,1,True,False,MISS Embiid 28' 3PT Jump Shot,,120-121,120,121
+0022100292,2021-11-27,PHI,MIN,57.98,6,0,1,PHI,PHI,reb,0,False,False,76ERS Rebound,,120-121,120,121
+0022100292,2021-11-27,PHI,MIN,57.98,6,0,1,PHI,MIN,block,1,True,False,block,block,120-121,120,121
+0022100292,2021-11-27,PHI,MIN,58.0,6,0,0,PHI,,period_end,0,False,False,,,120-121,120,121

@@ -1,0 +1,468 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900624,2020-01-17,SAS,ATL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900624,2020-01-17,SAS,ATL,0.0,1,12,0,,SAS,jump_ball,0,False,False,Jump Ball Aldridge vs. Collins: Tip to Hunter,,0-0,0,0
+0021900624,2020-01-17,SAS,ATL,0.28,1,11,43,ATL,ATL,tov,1,False,True,,Collins Bad Pass Turnover (P1.T1),0-0,0,0
+0021900624,2020-01-17,SAS,ATL,0.28,1,11,43,ATL,SAS,steal,1,False,True,steal,steal,0-0,0,0
+0021900624,2020-01-17,SAS,ATL,0.35,1,11,39,SAS,SAS,fg_make,76,False,False,Murray 6' Running Finger Roll Layup (2 PTS),,2-0,2,0
+0021900624,2020-01-17,SAS,ATL,0.52,1,11,29,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 28' 3PT Jump Shot,2-0,2,0
+0021900624,2020-01-17,SAS,ATL,0.52,1,11,29,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:1),,2-0,2,0
+0021900624,2020-01-17,SAS,ATL,0.75,1,11,15,SAS,SAS,fg_miss,79,False,False,MISS Lyles 17' Pullup Jump Shot,,2-0,2,0
+0021900624,2020-01-17,SAS,ATL,0.78,1,11,13,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:1),2-0,2,0
+0021900624,2020-01-17,SAS,ATL,0.87,1,11,8,ATL,SAS,foul,2,False,False,Aldridge S.FOUL (P1.T1) (L.Wood),,2-0,2,0
+0021900624,2020-01-17,SAS,ATL,0.87,1,11,8,ATL,ATL,ft_make,11,False,False,,Hunter Free Throw 1 of 2 (1 PTS),2-1,2,1
+0021900624,2020-01-17,SAS,ATL,0.87,1,11,8,ATL,ATL,ft_make,12,False,False,,Hunter Free Throw 2 of 2 (2 PTS),2-2,2,2
+0021900624,2020-01-17,SAS,ATL,1.1,1,10,54,SAS,ATL,foul,1,False,False,,Hunter P.FOUL (P1.T1) (L.Wood),2-2,2,2
+0021900624,2020-01-17,SAS,ATL,1.27,1,10,44,SAS,SAS,fg_make,80,False,False,Aldridge 11' Step Back Jump Shot (2 PTS) (Forbes 1 AST),,4-2,4,2
+0021900624,2020-01-17,SAS,ATL,1.65,1,10,21,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 24' 3PT Jump Shot,4-2,4,2
+0021900624,2020-01-17,SAS,ATL,1.72,1,10,17,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:2),,4-2,4,2
+0021900624,2020-01-17,SAS,ATL,1.83,1,10,10,SAS,SAS,fg3_miss,79,False,False,MISS Murray 26' 3PT Pullup Jump Shot,,4-2,4,2
+0021900624,2020-01-17,SAS,ATL,1.88,1,10,7,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:1),4-2,4,2
+0021900624,2020-01-17,SAS,ATL,1.95,1,10,3,ATL,ATL,fg3_make,79,False,False,,Huerter 28' 3PT Pullup Jump Shot (3 PTS) (Young 1 AST),4-5,4,5
+0021900624,2020-01-17,SAS,ATL,2.18,1,9,49,SAS,SAS,fg_make,1,False,False,Aldridge 20' Jump Shot (4 PTS) (Murray 1 AST),,6-5,6,5
+0021900624,2020-01-17,SAS,ATL,2.43,1,9,34,ATL,ATL,fg3_make,79,False,False,,Young 28' 3PT Pullup Jump Shot (3 PTS),6-8,6,8
+0021900624,2020-01-17,SAS,ATL,2.58,1,9,25,SAS,ATL,foul,1,False,False,,Huerter P.FOUL (P1.T2) (J.Williams),6-8,6,8
+0021900624,2020-01-17,SAS,ATL,2.73,1,9,16,SAS,SAS,fg3_miss,1,False,False,MISS Aldridge 28' 3PT Jump Shot,,6-8,6,8
+0021900624,2020-01-17,SAS,ATL,2.8,1,9,12,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:0 Def:1),6-8,6,8
+0021900624,2020-01-17,SAS,ATL,2.8,1,9,12,ATL,ATL,tov,40,False,False,,Hunter Out of Bounds Lost Ball Turnover (P1.T2),6-8,6,8
+0021900624,2020-01-17,SAS,ATL,2.83,1,9,10,SAS,SAS,tov,1,False,True,Forbes Bad Pass Turnover (P1.T1),,6-8,6,8
+0021900624,2020-01-17,SAS,ATL,2.83,1,9,10,SAS,ATL,steal,1,False,True,steal,steal,6-8,6,8
+0021900624,2020-01-17,SAS,ATL,2.92,1,9,5,ATL,ATL,fg_make,52,False,False,,Collins 4' Alley Oop Dunk (2 PTS) (Reddish 1 AST),6-10,6,10
+0021900624,2020-01-17,SAS,ATL,3.18,1,8,49,SAS,SAS,fg_make,109,False,False,DeRozan 3' Driving Reverse Dunk Shot (2 PTS),,8-10,8,10
+0021900624,2020-01-17,SAS,ATL,3.4,1,8,36,ATL,ATL,fg3_make,1,False,False,,Collins 26' 3PT Jump Shot (5 PTS) (Young 2 AST),8-13,8,13
+0021900624,2020-01-17,SAS,ATL,3.68,1,8,19,SAS,SAS,fg_make,75,False,False,Murray 3' Driving Finger Roll Layup (4 PTS) (DeRozan 1 AST),,10-13,10,13
+0021900624,2020-01-17,SAS,ATL,3.9,1,8,6,ATL,SAS,foul,2,False,False,DeRozan S.FOUL (P1.T2) (J.Williams),,10-13,10,13
+0021900624,2020-01-17,SAS,ATL,3.9,1,8,6,ATL,ATL,ft_make,11,False,False,,Collins Free Throw 1 of 2 (6 PTS),10-14,10,14
+0021900624,2020-01-17,SAS,ATL,3.9,1,8,6,ATL,ATL,ft_make,12,False,False,,Collins Free Throw 2 of 2 (7 PTS),10-15,10,15
+0021900624,2020-01-17,SAS,ATL,4.23,1,7,46,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 27' 3PT Jump Shot,,10-15,10,15
+0021900624,2020-01-17,SAS,ATL,4.28,1,7,43,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:2),10-15,10,15
+0021900624,2020-01-17,SAS,ATL,4.45,1,7,33,ATL,ATL,fg_miss,52,False,False,,MISS Collins 7' Alley Oop Dunk,10-15,10,15
+0021900624,2020-01-17,SAS,ATL,4.48,1,7,31,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:1),,10-15,10,15
+0021900624,2020-01-17,SAS,ATL,4.55,1,7,27,SAS,SAS,fg_make,7,False,False,Aldridge 4' Dunk (6 PTS) (Murray 2 AST),,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,4.85,1,7,9,ATL,ATL,fg_miss,79,False,False,,MISS Huerter 12' Pullup Jump Shot,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,4.88,1,7,7,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:1),,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,4.98,1,7,1,SAS,SAS,fg_miss,5,True,False,MISS Aldridge 6' Layup,,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,4.98,1,7,1,SAS,ATL,block,5,True,False,block,block,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.02,1,6,59,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:3),12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.07,1,6,56,ATL,SAS,foul,1,False,False,Murray P.FOUL (P1.T3) (L.Wood),,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.07,1,6,56,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 1 Short 0),,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.2,1,6,48,ATL,ATL,fg_miss,75,False,False,,MISS Collins 5' Driving Finger Roll Layup,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.25,1,6,45,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:3),,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.3,1,6,42,SAS,SAS,tov,4,False,False,DeRozan Traveling Turnover (P1.T2),,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.57,1,6,26,ATL,ATL,fg3_miss,1,False,False,,MISS Collins 26' 3PT Jump Shot,12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.6,1,6,24,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:1 Def:1),12-15,12,15
+0021900624,2020-01-17,SAS,ATL,5.63,1,6,22,ATL,ATL,fg_make,73,False,False,,Young 4' Driving Reverse Layup (5 PTS),12-17,12,17
+0021900624,2020-01-17,SAS,ATL,5.9,1,6,6,SAS,SAS,fg_make,5,False,False,Aldridge 3' Layup (8 PTS),,14-17,14,17
+0021900624,2020-01-17,SAS,ATL,6.13,1,5,52,ATL,ATL,fg_make,52,False,False,,Collins 3' Alley Oop Dunk (9 PTS) (Young 3 AST),14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.42,1,5,35,SAS,SAS,fg_miss,102,False,False,MISS DeRozan 2' Driving Floating Bank Jump Shot,,14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.45,1,5,33,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:4),14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.52,1,5,29,ATL,ATL,fg3_miss,79,False,False,,MISS Young 28' 3PT Pullup Jump Shot,14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.6,1,5,24,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:0 Def:1),,14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.7,1,5,18,SAS,SAS,fg_miss,47,False,False,MISS DeRozan 9' Turnaround Jump Shot,,14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.82,1,5,11,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:1 Def:1),,14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.82,1,5,11,SAS,SAS,fg_miss,72,False,False,MISS Lyles 1' Putback Layup,,14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.85,1,5,9,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:3),,14-19,14,19
+0021900624,2020-01-17,SAS,ATL,6.85,1,5,9,SAS,SAS,fg_make,97,False,False,Murray 1' Tip Layup Shot (6 PTS),,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.12,1,4,53,ATL,ATL,fg_miss,6,False,False,,MISS Reddish 5' Driving Layup,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.17,1,4,50,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:1 Def:2),,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.27,1,4,44,SAS,SAS,fg3_miss,1,False,False,MISS Murray 24' 3PT Jump Shot,,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.32,1,4,41,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:2 Def:2),,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.47,1,4,32,SAS,SAS,fg3_miss,79,False,False,MISS Mills 28' 3PT Pullup Jump Shot,,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.5,1,4,30,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:5),16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.7,1,4,18,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P1.T3),16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.7,1,4,18,ATL,SAS,steal,1,False,True,steal,steal,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.8,1,4,12,SAS,SAS,fg3_miss,1,False,False,MISS Mills 27' 3PT Jump Shot,,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.87,1,4,8,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:0),,16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.93,1,4,4,SAS,ATL,foul,2,False,False,,Collins S.FOUL (P1.T3) (L.Wood),16-19,16,19
+0021900624,2020-01-17,SAS,ATL,7.93,1,4,4,SAS,SAS,ft_make,11,False,False,Aldridge Free Throw 1 of 2 (9 PTS),,17-19,17,19
+0021900624,2020-01-17,SAS,ATL,7.93,1,4,4,SAS,SAS,ft_make,12,False,False,Aldridge Free Throw 2 of 2 (10 PTS),,18-19,18,19
+0021900624,2020-01-17,SAS,ATL,8.12,1,3,53,ATL,ATL,fg3_miss,79,False,False,,MISS Huerter 26' 3PT Pullup Jump Shot,18-19,18,19
+0021900624,2020-01-17,SAS,ATL,8.17,1,3,50,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:1),,18-19,18,19
+0021900624,2020-01-17,SAS,ATL,8.3,1,3,42,SAS,SAS,tov,2,False,True,White Lost Ball Turnover (P1.T3),,18-19,18,19
+0021900624,2020-01-17,SAS,ATL,8.3,1,3,42,SAS,ATL,steal,2,False,True,steal,steal,18-19,18,19
+0021900624,2020-01-17,SAS,ATL,8.37,1,3,38,ATL,ATL,fg_make,76,False,False,,Huerter 5' Running Finger Roll Layup (5 PTS),18-21,18,21
+0021900624,2020-01-17,SAS,ATL,8.68,1,3,19,SAS,ATL,foul,1,False,False,,Jones P.FOUL (P1.T4) (J.Capers),18-21,18,21
+0021900624,2020-01-17,SAS,ATL,8.83,1,3,10,SAS,SAS,fg_miss,47,False,False,MISS Aldridge 11' Turnaround Jump Shot,,18-21,18,21
+0021900624,2020-01-17,SAS,ATL,8.85,1,3,9,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:1 Def:2),18-21,18,21
+0021900624,2020-01-17,SAS,ATL,8.98,1,3,1,ATL,ATL,fg3_make,1,False,False,,Carter 26' 3PT Jump Shot (3 PTS),18-24,18,24
+0021900624,2020-01-17,SAS,ATL,9.32,1,2,41,SAS,SAS,fg_make,79,False,False,Belinelli 19' Pullup Jump Shot (2 PTS) (White 1 AST),,20-24,20,24
+0021900624,2020-01-17,SAS,ATL,9.7,1,2,18,ATL,SAS,foul,2,False,False,Mills S.FOUL (P1.T4) (J.Capers),,20-24,20,24
+0021900624,2020-01-17,SAS,ATL,9.7,1,2,18,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.1 Short 0),20-24,20,24
+0021900624,2020-01-17,SAS,ATL,9.7,1,2,18,ATL,ATL,ft_make,11,False,False,,Jones Free Throw 1 of 2 (1 PTS),20-25,20,25
+0021900624,2020-01-17,SAS,ATL,9.7,1,2,18,ATL,ATL,ft_make,12,False,False,,Jones Free Throw 2 of 2 (2 PTS),20-26,20,26
+0021900624,2020-01-17,SAS,ATL,9.92,1,2,5,SAS,SAS,fg_miss,6,False,False,MISS White 6' Driving Layup,,20-26,20,26
+0021900624,2020-01-17,SAS,ATL,9.97,1,2,2,SAS,SAS,reb,0,False,False,White REBOUND (Off:1 Def:0),,20-26,20,26
+0021900624,2020-01-17,SAS,ATL,10.05,1,1,57,SAS,SAS,fg3_make,79,False,False,White 28' 3PT Pullup Jump Shot (3 PTS) (Belinelli 1 AST),,23-26,23,26
+0021900624,2020-01-17,SAS,ATL,10.35,1,1,39,ATL,ATL,fg3_make,1,False,False,,Reddish 26' 3PT Jump Shot (3 PTS) (Goodwin 1 AST),23-29,23,29
+0021900624,2020-01-17,SAS,ATL,10.58,1,1,25,SAS,SAS,fg_miss,79,True,False,MISS Mills 19' Pullup Jump Shot,,23-29,23,29
+0021900624,2020-01-17,SAS,ATL,10.58,1,1,25,SAS,ATL,block,79,True,False,block,block,23-29,23,29
+0021900624,2020-01-17,SAS,ATL,10.65,1,1,21,ATL,ATL,reb,0,False,False,,Goodwin REBOUND (Off:0 Def:1),23-29,23,29
+0021900624,2020-01-17,SAS,ATL,10.77,1,1,14,ATL,ATL,fg3_miss,1,False,False,,MISS Goodwin 27' 3PT Jump Shot,23-29,23,29
+0021900624,2020-01-17,SAS,ATL,10.82,1,1,11,SAS,SAS,reb,0,False,False,Walker IV REBOUND (Off:0 Def:1),,23-29,23,29
+0021900624,2020-01-17,SAS,ATL,10.93,1,1,4,SAS,SAS,fg_miss,6,False,False,MISS Walker IV 8' Driving Layup,,23-29,23,29
+0021900624,2020-01-17,SAS,ATL,11.02,1,0,59,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:0),,23-29,23,29
+0021900624,2020-01-17,SAS,ATL,11.02,1,0,59,SAS,SAS,fg_make,72,False,False,Poeltl 1' Putback Layup (2 PTS),,25-29,25,29
+0021900624,2020-01-17,SAS,ATL,11.27,1,0,44,ATL,ATL,fg3_miss,1,False,False,,MISS Bembry 26' 3PT Jump Shot,25-29,25,29
+0021900624,2020-01-17,SAS,ATL,11.3,1,0,42,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:1),,25-29,25,29
+0021900624,2020-01-17,SAS,ATL,11.4,1,0,36,SAS,SAS,fg_make,1,False,False,Belinelli 21' Jump Shot (4 PTS) (Walker IV 1 AST),,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,11.67,1,0,20,ATL,ATL,fg3_miss,1,False,False,,MISS Reddish 26' 3PT Jump Shot,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,11.73,1,0,16,SAS,SAS,reb,0,False,False,White REBOUND (Off:1 Def:1),,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,11.97,1,0,2,SAS,SAS,fg3_miss,79,False,False,MISS White 27' 3PT Pullup Jump Shot,,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,11.97,1,0,2,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:1),27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.0,1,0,0,ATL,,period_end,0,False,False,,,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.0,2,12,0,ATL,,period_start,0,False,False,,,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.2,2,11,48,ATL,SAS,foul,4,False,False,Poeltl OFF.Foul (P1) (J.Williams),,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.2,2,11,48,SAS,SAS,tov,37,False,False,Poeltl Offensive Foul Turnover (P1.T4),,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.42,2,11,35,ATL,ATL,fg3_miss,1,False,False,,MISS Goodwin 26' 3PT Jump Shot,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.43,2,11,34,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:2),,27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.6,2,11,24,SAS,ATL,foul,2,False,False,,Reddish S.FOUL (P1.T1) (L.Wood),27-29,27,29
+0021900624,2020-01-17,SAS,ATL,12.6,2,11,24,SAS,SAS,ft_make,11,False,False,Forbes Free Throw 1 of 2 (1 PTS),,28-29,28,29
+0021900624,2020-01-17,SAS,ATL,12.6,2,11,24,SAS,SAS,ft_make,12,False,False,Forbes Free Throw 2 of 2 (2 PTS),,29-29,29,29
+0021900624,2020-01-17,SAS,ATL,12.9,2,11,6,ATL,ATL,fg_make,80,False,False,,Reddish 17' Step Back Jump Shot (5 PTS),29-31,29,31
+0021900624,2020-01-17,SAS,ATL,13.1,2,10,54,SAS,SAS,fg_miss,79,False,False,MISS Belinelli 21' Pullup Jump Shot,,29-31,29,31
+0021900624,2020-01-17,SAS,ATL,13.15,2,10,51,ATL,ATL,reb,0,False,False,,Carter REBOUND (Off:0 Def:1),29-31,29,31
+0021900624,2020-01-17,SAS,ATL,13.25,2,10,45,ATL,ATL,tov,1,False,True,,Goodwin Bad Pass Turnover (P1.T4),29-31,29,31
+0021900624,2020-01-17,SAS,ATL,13.25,2,10,45,ATL,SAS,steal,1,False,True,steal,steal,29-31,29,31
+0021900624,2020-01-17,SAS,ATL,13.33,2,10,40,SAS,SAS,fg3_make,79,False,False,Forbes 27' 3PT Pullup Jump Shot (5 PTS) (Poeltl 1 AST),,32-31,32,31
+0021900624,2020-01-17,SAS,ATL,13.65,2,10,21,ATL,SAS,foul,2,False,False,White S.FOUL (P1.T1) (L.Wood),,32-31,32,31
+0021900624,2020-01-17,SAS,ATL,13.65,2,10,21,ATL,ATL,ft_miss,11,False,False,,MISS Carter Free Throw 1 of 2,32-31,32,31
+0021900624,2020-01-17,SAS,ATL,13.65,2,10,21,ATL,ATL,reb,1,False,False,,Hawks Rebound,32-31,32,31
+0021900624,2020-01-17,SAS,ATL,13.65,2,10,21,ATL,ATL,ft_make,12,False,False,,Carter Free Throw 2 of 2 (4 PTS),32-32,32,32
+0021900624,2020-01-17,SAS,ATL,13.8,2,10,12,SAS,SAS,tov,1,False,True,Forbes Bad Pass Turnover (P2.T5),,32-32,32,32
+0021900624,2020-01-17,SAS,ATL,13.8,2,10,12,SAS,ATL,steal,1,False,True,steal,steal,32-32,32,32
+0021900624,2020-01-17,SAS,ATL,13.87,2,10,8,ATL,SAS,foul,1,False,False,Forbes P.FOUL (P1.T2) (J.Williams),,32-32,32,32
+0021900624,2020-01-17,SAS,ATL,13.95,2,10,3,ATL,ATL,fg3_make,1,False,False,,Carter 26' 3PT Jump Shot (7 PTS) (Fernando 1 AST),32-35,32,35
+0021900624,2020-01-17,SAS,ATL,14.18,2,9,49,SAS,SAS,fg3_make,1,False,False,Belinelli 27' 3PT Jump Shot (7 PTS) (Poeltl 2 AST),,35-35,35,35
+0021900624,2020-01-17,SAS,ATL,14.5,2,9,30,ATL,ATL,fg_miss,73,False,False,,MISS Carter 6' Driving Reverse Layup,35-35,35,35
+0021900624,2020-01-17,SAS,ATL,14.52,2,9,29,ATL,ATL,reb,0,False,False,,Goodwin REBOUND (Off:1 Def:1),35-35,35,35
+0021900624,2020-01-17,SAS,ATL,14.52,2,9,29,ATL,ATL,fg_miss,97,False,False,,MISS Goodwin 1' Tip Layup Shot,35-35,35,35
+0021900624,2020-01-17,SAS,ATL,14.52,2,9,29,ATL,ATL,reb,0,False,False,,Carter REBOUND (Off:1 Def:1),35-35,35,35
+0021900624,2020-01-17,SAS,ATL,14.6,2,9,24,ATL,ATL,fg3_make,1,False,False,,Carter 24' 3PT Jump Shot (10 PTS),35-38,35,38
+0021900624,2020-01-17,SAS,ATL,14.82,2,9,11,SAS,SAS,tov,1,False,True,DeRozan Bad Pass Turnover (P2.T6),,35-38,35,38
+0021900624,2020-01-17,SAS,ATL,14.82,2,9,11,SAS,ATL,steal,1,False,True,steal,steal,35-38,35,38
+0021900624,2020-01-17,SAS,ATL,14.88,2,9,7,ATL,SAS,foul,2,False,False,White S.FOUL (P2.T3) (J.Capers),,35-38,35,38
+0021900624,2020-01-17,SAS,ATL,14.88,2,9,7,ATL,ATL,ft_make,11,False,False,,Bembry Free Throw 1 of 2 (1 PTS),35-39,35,39
+0021900624,2020-01-17,SAS,ATL,14.88,2,9,7,ATL,ATL,tov,17,False,False,,Bembry Lane Violation Turnover (P1.T5),35-39,35,39
+0021900624,2020-01-17,SAS,ATL,15.02,2,8,59,SAS,ATL,foul,1,False,False,,Bembry P.FOUL (P1.T2) (J.Williams),35-39,35,39
+0021900624,2020-01-17,SAS,ATL,15.23,2,8,46,SAS,SAS,fg_make,44,False,False,DeRozan 7' Reverse Layup (4 PTS),,37-39,37,39
+0021900624,2020-01-17,SAS,ATL,15.53,2,8,28,ATL,ATL,fg_miss,75,False,False,,MISS Fernando 7' Driving Finger Roll Layup,37-39,37,39
+0021900624,2020-01-17,SAS,ATL,15.57,2,8,26,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:2),,37-39,37,39
+0021900624,2020-01-17,SAS,ATL,15.72,2,8,17,SAS,SAS,tov,1,False,True,Murray Bad Pass Turnover (P1.T7),,37-39,37,39
+0021900624,2020-01-17,SAS,ATL,15.72,2,8,17,SAS,ATL,steal,1,False,True,steal,steal,37-39,37,39
+0021900624,2020-01-17,SAS,ATL,15.92,2,8,5,ATL,ATL,fg_make,78,False,False,,Goodwin 13' Floating Jump Shot (2 PTS),37-41,37,41
+0021900624,2020-01-17,SAS,ATL,15.92,2,8,5,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 2 Short 0),,37-41,37,41
+0021900624,2020-01-17,SAS,ATL,16.05,2,7,57,SAS,SAS,fg_make,78,False,False,Poeltl 8' Floating Jump Shot (4 PTS) (DeRozan 2 AST),,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.22,2,7,47,ATL,SAS,foul,1,False,False,DeRozan P.FOUL (P2.T4) (L.Wood),,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.35,2,7,39,ATL,ATL,fg_miss,75,False,False,,MISS Young 7' Driving Finger Roll Layup,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.38,2,7,37,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:4),,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.43,2,7,34,SAS,SAS,fg3_miss,1,False,False,MISS Belinelli 26' 3PT Jump Shot,,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.43,2,7,34,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:2 Def:4),,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.55,2,7,27,SAS,SAS,fg_miss,107,False,False,MISS Murray 1' Tip Dunk Shot,,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.57,2,7,26,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:0 Def:1),39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.63,2,7,22,ATL,ATL,tov,39,False,False,,Goodwin Step Out of Bounds Turnover (P2.T6),39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.8,2,7,12,SAS,SAS,fg3_miss,1,False,False,MISS Belinelli 3PT Jump Shot,,39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.85,2,7,9,ATL,ATL,reb,0,False,False,,Goodwin REBOUND (Off:1 Def:2),39-41,39,41
+0021900624,2020-01-17,SAS,ATL,16.88,2,7,7,ATL,ATL,fg_make,7,False,False,,Fernando 4' Dunk (2 PTS) (Goodwin 2 AST),39-43,39,43
+0021900624,2020-01-17,SAS,ATL,17.17,2,6,50,SAS,SAS,fg_make,102,False,False,Forbes 11' Driving Floating Bank Jump Shot (7 PTS) (DeRozan 3 AST),,41-43,41,43
+0021900624,2020-01-17,SAS,ATL,17.57,2,6,26,ATL,ATL,fg_make,75,False,False,,Young 3' Driving Finger Roll Layup (7 PTS) (Carter 1 AST),41-45,41,45
+0021900624,2020-01-17,SAS,ATL,17.72,2,6,17,SAS,SAS,fg_make,79,False,False,Belinelli 21' Pullup Jump Shot (9 PTS) (Poeltl 3 AST),,43-45,43,45
+0021900624,2020-01-17,SAS,ATL,18.07,2,5,56,ATL,ATL,fg_make,47,False,False,,Carter 9' Turnaround Jump Shot (12 PTS),43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.25,2,5,45,SAS,SAS,fg_miss,79,False,False,MISS Belinelli 19' Pullup Jump Shot,,43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.25,2,5,45,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:0 Def:2),43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.32,2,5,41,ATL,ATL,tov,1,False,True,,Fernando Bad Pass Turnover (P1.T7),43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.32,2,5,41,ATL,SAS,steal,1,False,True,steal,steal,43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.38,2,5,37,SAS,SAS,fg3_miss,79,False,False,MISS Forbes 27' 3PT Pullup Jump Shot,,43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.43,2,5,34,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:0 Def:3),43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.48,2,5,31,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.2 Short 0),43-47,43,47
+0021900624,2020-01-17,SAS,ATL,18.57,2,5,26,ATL,ATL,fg3_make,79,False,False,,Young 27' 3PT Pullup Jump Shot (10 PTS),43-50,43,50
+0021900624,2020-01-17,SAS,ATL,18.93,2,5,4,SAS,SAS,fg_miss,58,False,False,MISS Aldridge 8' Turnaround Hook Shot,,43-50,43,50
+0021900624,2020-01-17,SAS,ATL,18.93,2,5,4,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:0 Def:2),43-50,43,50
+0021900624,2020-01-17,SAS,ATL,19.22,2,4,47,ATL,ATL,fg_make,80,False,False,,Reddish 20' Step Back Jump Shot (7 PTS) (Hunter 1 AST),43-52,43,52
+0021900624,2020-01-17,SAS,ATL,19.47,2,4,32,SAS,SAS,fg_make,44,False,False,Aldridge 4' Reverse Layup (12 PTS) (Murray 3 AST),,45-52,45,52
+0021900624,2020-01-17,SAS,ATL,19.82,2,4,11,ATL,ATL,fg_make,79,False,False,,Huerter 11' Pullup Jump Shot (7 PTS),45-54,45,54
+0021900624,2020-01-17,SAS,ATL,19.98,2,4,1,SAS,SAS,fg_make,5,False,False,DeRozan 5' Layup (6 PTS),,47-54,47,54
+0021900624,2020-01-17,SAS,ATL,20.28,2,3,43,ATL,ATL,fg3_miss,1,False,False,,MISS Collins 26' 3PT Jump Shot,47-54,47,54
+0021900624,2020-01-17,SAS,ATL,20.32,2,3,41,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:2 Def:3),,47-54,47,54
+0021900624,2020-01-17,SAS,ATL,20.47,2,3,32,SAS,SAS,fg3_miss,1,False,False,MISS Murray 24' 3PT Jump Shot,,47-54,47,54
+0021900624,2020-01-17,SAS,ATL,20.55,2,3,27,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:2),47-54,47,54
+0021900624,2020-01-17,SAS,ATL,20.6,2,3,24,ATL,ATL,fg_make,101,False,False,,Young 16' Driving Floating Jump Shot (12 PTS),47-56,47,56
+0021900624,2020-01-17,SAS,ATL,20.6,2,3,24,ATL,SAS,foul,2,False,False,Murray S.FOUL (P2.PN) (L.Wood),,47-56,47,56
+0021900624,2020-01-17,SAS,ATL,20.6,2,3,24,ATL,ATL,ft_make,10,False,False,,Young Free Throw 1 of 1 (13 PTS),47-57,47,57
+0021900624,2020-01-17,SAS,ATL,20.85,2,3,9,SAS,SAS,fg_make,75,False,False,DeRozan 5' Driving Finger Roll Layup (8 PTS) (Lyles 1 AST),,49-57,49,57
+0021900624,2020-01-17,SAS,ATL,21.07,2,2,56,ATL,ATL,fg3_make,80,False,False,,Young 27' 3PT Step Back Jump Shot (16 PTS),49-60,49,60
+0021900624,2020-01-17,SAS,ATL,21.35,2,2,39,SAS,SAS,fg_miss,80,False,False,MISS Aldridge 9' Step Back Jump Shot,,49-60,49,60
+0021900624,2020-01-17,SAS,ATL,21.35,2,2,39,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:1 Def:3),49-60,49,60
+0021900624,2020-01-17,SAS,ATL,21.47,2,2,32,ATL,ATL,fg_miss,52,False,False,,MISS Reddish 4' Alley Oop Dunk,49-60,49,60
+0021900624,2020-01-17,SAS,ATL,21.52,2,2,29,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:2 Def:5),,49-60,49,60
+0021900624,2020-01-17,SAS,ATL,21.75,2,2,15,SAS,SAS,tov,1,False,True,Lyles Bad Pass Turnover (P1.T8),,49-60,49,60
+0021900624,2020-01-17,SAS,ATL,21.75,2,2,15,SAS,ATL,steal,1,False,True,steal,steal,49-60,49,60
+0021900624,2020-01-17,SAS,ATL,21.83,2,2,10,ATL,ATL,fg_make,108,False,False,,Collins 3' Cutting Dunk Shot (11 PTS) (Young 4 AST),49-62,49,62
+0021900624,2020-01-17,SAS,ATL,22.12,2,1,53,SAS,SAS,fg3_make,1,False,False,Mills 27' 3PT Jump Shot (3 PTS) (DeRozan 4 AST),,52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.37,2,1,38,ATL,ATL,fg3_miss,1,False,False,,MISS Huerter 29' 3PT Jump Shot,52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.37,2,1,38,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:2),,52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.53,2,1,28,SAS,SAS,fg3_miss,80,False,False,MISS Mills 3PT Step Back Jump Shot,,52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.55,2,1,27,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:6),52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.77,2,1,14,ATL,ATL,fg_miss,6,False,False,,MISS Hunter 6' Driving Layup,52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.77,2,1,14,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:2),52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.77,2,1,14,ATL,SAS,foul,2,False,False,Aldridge S.FOUL (P2.PN) (J.Williams),,52-62,52,62
+0021900624,2020-01-17,SAS,ATL,22.77,2,1,14,ATL,ATL,ft_make,11,False,False,,Hunter Free Throw 1 of 2 (3 PTS),52-63,52,63
+0021900624,2020-01-17,SAS,ATL,22.77,2,1,14,ATL,ATL,ft_make,12,False,False,,Hunter Free Throw 2 of 2 (4 PTS),52-64,52,64
+0021900624,2020-01-17,SAS,ATL,22.95,2,1,3,SAS,SAS,fg3_miss,1,False,False,MISS Lyles 27' 3PT Jump Shot,,52-64,52,64
+0021900624,2020-01-17,SAS,ATL,23.02,2,0,59,ATL,ATL,reb,0,False,False,,Huerter REBOUND (Off:0 Def:1),52-64,52,64
+0021900624,2020-01-17,SAS,ATL,23.1,2,0,54,ATL,ATL,fg_miss,6,True,False,,MISS Huerter 7' Driving Layup,52-64,52,64
+0021900624,2020-01-17,SAS,ATL,23.1,2,0,54,ATL,SAS,block,6,True,False,block,block,52-64,52,64
+0021900624,2020-01-17,SAS,ATL,23.15,2,0,51,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:2),,52-64,52,64
+0021900624,2020-01-17,SAS,ATL,23.17,2,0,50,SAS,SAS,fg_make,52,False,False,Murray 3' Alley Oop Dunk (8 PTS) (Mills 1 AST),,54-64,54,64
+0021900624,2020-01-17,SAS,ATL,23.18,2,0,49,ATL,ATL,tov,40,False,False,,Young Out of Bounds Lost Ball Turnover (P1.T8),54-64,54,64
+0021900624,2020-01-17,SAS,ATL,23.28,2,0,43,SAS,ATL,foul,2,False,False,,Bembry S.FOUL (P2.T3) (J.Capers),54-64,54,64
+0021900624,2020-01-17,SAS,ATL,23.28,2,0,43,SAS,SAS,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (9 PTS),,55-64,55,64
+0021900624,2020-01-17,SAS,ATL,23.28,2,0,43,SAS,SAS,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (10 PTS),,56-64,56,64
+0021900624,2020-01-17,SAS,ATL,23.55,2,0,27,ATL,ATL,fg3_make,1,False,False,,Young 26' 3PT Jump Shot (19 PTS),56-67,56,67
+0021900624,2020-01-17,SAS,ATL,23.9,2,0,6,SAS,SAS,tov,2,False,True,DeRozan Lost Ball Turnover (P3.T9),,56-67,56,67
+0021900624,2020-01-17,SAS,ATL,23.9,2,0,6,SAS,ATL,steal,2,False,True,steal,steal,56-67,56,67
+0021900624,2020-01-17,SAS,ATL,23.97,2,0,2,ATL,ATL,tov,2,False,True,,Reddish Lost Ball Turnover (P1.T9),56-67,56,67
+0021900624,2020-01-17,SAS,ATL,23.97,2,0,2,ATL,SAS,steal,2,False,True,steal,steal,56-67,56,67
+0021900624,2020-01-17,SAS,ATL,24.0,2,0,0,SAS,SAS,fg_make,1,False,False,Aldridge 18' Jump Shot (14 PTS) (Mills 2 AST),,58-67,58,67
+0021900624,2020-01-17,SAS,ATL,24.0,2,0,0,SAS,,period_end,0,False,False,,,58-67,58,67
+0021900624,2020-01-17,SAS,ATL,24.0,3,12,0,SAS,,period_start,0,False,False,,,58-67,58,67
+0021900624,2020-01-17,SAS,ATL,24.22,3,11,47,SAS,SAS,fg_make,3,False,False,Aldridge 7' Hook Shot (16 PTS) (Murray 4 AST),,60-67,60,67
+0021900624,2020-01-17,SAS,ATL,24.57,3,11,26,ATL,ATL,fg_make,1,False,False,,Collins 16' Jump Shot (13 PTS) (Reddish 2 AST),60-69,60,69
+0021900624,2020-01-17,SAS,ATL,24.83,3,11,10,SAS,SAS,fg_make,86,False,False,Aldridge 11' Turnaround Fadeaway (18 PTS),,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.18,3,10,49,ATL,ATL,fg3_miss,1,False,False,,MISS Huerter 26' 3PT Jump Shot,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.23,3,10,46,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:3),,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.33,3,10,40,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 27' 3PT Jump Shot,,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.38,3,10,37,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:2 Def:2),,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.42,3,10,35,SAS,SAS,fg_miss,1,False,False,MISS Aldridge 15' Jump Shot,,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.48,3,10,31,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:3),62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.62,3,10,23,ATL,ATL,fg3_miss,1,False,False,,MISS Young 27' 3PT Jump Shot,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.65,3,10,21,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:2 Def:4),,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.83,3,10,10,SAS,SAS,fg_miss,5,True,False,MISS Murray Layup,,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.83,3,10,10,SAS,ATL,block,5,True,False,block,block,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.83,3,10,10,SAS,SAS,reb,0,False,False,SPURS Rebound,,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.92,3,10,5,SAS,SAS,fg_miss,1,False,False,MISS Aldridge 8' Jump Shot,,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,25.98,3,10,1,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:4),62-69,62,69
+0021900624,2020-01-17,SAS,ATL,26.07,3,9,56,ATL,ATL,fg_miss,5,True,False,,MISS Collins 4' Layup,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,26.07,3,9,56,ATL,SAS,block,5,True,False,block,block,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,26.12,3,9,53,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:2 Def:6),,62-69,62,69
+0021900624,2020-01-17,SAS,ATL,26.17,3,9,50,SAS,ATL,foul,2,False,False,,Collins S.FOUL (P2.T1) (L.Wood),62-69,62,69
+0021900624,2020-01-17,SAS,ATL,26.17,3,9,50,SAS,SAS,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (11 PTS),,63-69,63,69
+0021900624,2020-01-17,SAS,ATL,26.17,3,9,50,SAS,SAS,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (12 PTS),,64-69,64,69
+0021900624,2020-01-17,SAS,ATL,26.45,3,9,33,ATL,ATL,fg_miss,79,False,False,,MISS Huerter 17' Pullup Jump Shot,64-69,64,69
+0021900624,2020-01-17,SAS,ATL,26.52,3,9,29,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:2 Def:5),,64-69,64,69
+0021900624,2020-01-17,SAS,ATL,26.6,3,9,24,SAS,SAS,tov,1,False,True,DeRozan Bad Pass Turnover (P4.T10),,64-69,64,69
+0021900624,2020-01-17,SAS,ATL,26.6,3,9,24,SAS,ATL,steal,1,False,True,steal,steal,64-69,64,69
+0021900624,2020-01-17,SAS,ATL,26.83,3,9,10,ATL,ATL,fg3_make,1,False,False,,Huerter 25' 3PT Jump Shot (10 PTS) (Young 5 AST),64-72,64,72
+0021900624,2020-01-17,SAS,ATL,27.12,3,8,53,SAS,SAS,fg_make,9,False,False,Aldridge 5' Driving Dunk (20 PTS),,66-72,66,72
+0021900624,2020-01-17,SAS,ATL,27.12,3,8,53,SAS,ATL,foul,2,False,False,,Huerter S.FOUL (P2.T2) (J.Capers),66-72,66,72
+0021900624,2020-01-17,SAS,ATL,27.12,3,8,53,SAS,SAS,ft_make,10,False,False,Aldridge Free Throw 1 of 1 (21 PTS),,67-72,67,72
+0021900624,2020-01-17,SAS,ATL,27.37,3,8,38,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P2.T10),67-72,67,72
+0021900624,2020-01-17,SAS,ATL,27.37,3,8,38,ATL,SAS,steal,1,False,True,steal,steal,67-72,67,72
+0021900624,2020-01-17,SAS,ATL,27.38,3,8,37,SAS,ATL,foul,2,False,False,,Collins S.FOUL (P3.T3) (J.Williams),67-72,67,72
+0021900624,2020-01-17,SAS,ATL,27.38,3,8,37,SAS,SAS,ft_make,11,False,False,Murray Free Throw 1 of 2 (9 PTS),,68-72,68,72
+0021900624,2020-01-17,SAS,ATL,27.38,3,8,37,SAS,SAS,ft_make,12,False,False,Murray Free Throw 2 of 2 (10 PTS),,69-72,69,72
+0021900624,2020-01-17,SAS,ATL,27.6,3,8,24,ATL,SAS,foul,2,False,False,Aldridge S.FOUL (P3.T1) (J.Williams),,69-72,69,72
+0021900624,2020-01-17,SAS,ATL,27.6,3,8,24,ATL,ATL,ft_miss,11,False,False,,MISS Hunter Free Throw 1 of 2,69-72,69,72
+0021900624,2020-01-17,SAS,ATL,27.6,3,8,24,ATL,ATL,reb,1,False,False,,Hawks Rebound,69-72,69,72
+0021900624,2020-01-17,SAS,ATL,27.6,3,8,24,ATL,ATL,ft_miss,12,False,False,,MISS Hunter Free Throw 2 of 2,69-72,69,72
+0021900624,2020-01-17,SAS,ATL,27.65,3,8,21,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:2 Def:6),,69-72,69,72
+0021900624,2020-01-17,SAS,ATL,27.88,3,8,7,SAS,SAS,fg3_make,1,False,False,Aldridge 26' 3PT Jump Shot (24 PTS) (DeRozan 5 AST),,72-72,72,72
+0021900624,2020-01-17,SAS,ATL,27.93,3,8,4,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.3 Short 0),72-72,72,72
+0021900624,2020-01-17,SAS,ATL,28.25,3,7,45,ATL,SAS,foul,1,False,False,Lyles P.FOUL (P1.T2) (J.Capers),,72-72,72,72
+0021900624,2020-01-17,SAS,ATL,28.3,3,7,42,ATL,SAS,foul,1,False,False,Murray P.FOUL (P3.T3) (J.Capers),,72-72,72,72
+0021900624,2020-01-17,SAS,ATL,28.4,3,7,36,ATL,ATL,fg_make,52,False,False,,Jones 4' Alley Oop Dunk (4 PTS) (Young 6 AST),72-74,72,74
+0021900624,2020-01-17,SAS,ATL,28.77,3,7,14,ATL,SAS,foul,4,False,False,Aldridge OFF.Foul (P4) (J.Capers),,72-74,72,74
+0021900624,2020-01-17,SAS,ATL,28.77,3,7,14,SAS,SAS,tov,37,False,False,Aldridge Offensive Foul Turnover (P1.T11),,72-74,72,74
+0021900624,2020-01-17,SAS,ATL,29.02,3,6,59,ATL,ATL,fg_make,75,False,False,,Hunter 2' Driving Finger Roll Layup (6 PTS) (Young 7 AST),72-76,72,76
+0021900624,2020-01-17,SAS,ATL,29.17,3,6,50,SAS,SAS,fg_make,1,False,False,DeRozan 14' Jump Shot (14 PTS),,74-76,74,76
+0021900624,2020-01-17,SAS,ATL,29.17,3,6,50,SAS,ATL,foul,2,False,False,,Hunter S.FOUL (P2.T4) (J.Capers),74-76,74,76
+0021900624,2020-01-17,SAS,ATL,29.17,3,6,50,SAS,SAS,ft_make,10,False,False,DeRozan Free Throw 1 of 1 (15 PTS),,75-76,75,76
+0021900624,2020-01-17,SAS,ATL,29.43,3,6,34,ATL,ATL,fg_miss,79,False,False,,MISS Hunter 23' Pullup Jump Shot,75-76,75,76
+0021900624,2020-01-17,SAS,ATL,29.48,3,6,31,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:2 Def:7),,75-76,75,76
+0021900624,2020-01-17,SAS,ATL,29.57,3,6,26,SAS,SAS,fg_make,79,False,False,Murray 10' Pullup Jump Shot (12 PTS),,77-76,77,76
+0021900624,2020-01-17,SAS,ATL,29.72,3,6,17,ATL,ATL,fg3_miss,79,False,False,,MISS Young 30' 3PT Pullup Jump Shot,77-76,77,76
+0021900624,2020-01-17,SAS,ATL,29.75,3,6,15,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:2 Def:8),,77-76,77,76
+0021900624,2020-01-17,SAS,ATL,29.75,3,6,15,SAS,ATL,foul,11,False,False,,Young T.FOUL (P0.T4) (J.Williams),77-76,77,76
+0021900624,2020-01-17,SAS,ATL,29.75,3,6,15,SAS,SAS,ft_make,16,False,False,DeRozan Free Throw Technical (16 PTS),,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,29.92,3,6,5,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 26' 3PT Jump Shot,,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,29.95,3,6,3,SAS,SAS,reb,0,False,False,SPURS Rebound,,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.13,3,5,52,SAS,SAS,fg_miss,86,True,False,MISS Forbes 11' Turnaround Fadeaway Shot,,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.13,3,5,52,SAS,ATL,block,86,True,False,block,block,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.2,3,5,48,ATL,ATL,reb,0,False,False,,Jones REBOUND (Off:0 Def:1),78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.28,3,5,43,ATL,ATL,fg_miss,5,True,False,,MISS Young 4' Layup,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.28,3,5,43,ATL,SAS,block,5,True,False,block,block,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.38,3,5,37,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:4),,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.43,3,5,34,SAS,SAS,fg_miss,5,True,False,MISS DeRozan 6' Layup,,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.43,3,5,34,SAS,ATL,block,5,True,False,block,block,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.5,3,5,30,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:3 Def:6),,78-76,78,76
+0021900624,2020-01-17,SAS,ATL,30.57,3,5,26,SAS,SAS,fg_make,75,False,False,DeRozan 2' Driving Finger Roll Layup (18 PTS) (Walker IV 2 AST),,80-76,80,76
+0021900624,2020-01-17,SAS,ATL,30.82,3,5,11,ATL,SAS,foul,1,False,False,Murray P.FOUL (P4.T4) (J.Williams),,80-76,80,76
+0021900624,2020-01-17,SAS,ATL,30.92,3,5,5,ATL,ATL,fg_miss,75,True,False,,MISS Young 5' Driving Finger Roll Layup,80-76,80,76
+0021900624,2020-01-17,SAS,ATL,30.92,3,5,5,ATL,SAS,block,75,True,False,block,block,80-76,80,76
+0021900624,2020-01-17,SAS,ATL,31.0,3,5,0,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:5),,80-76,80,76
+0021900624,2020-01-17,SAS,ATL,31.05,3,4,57,SAS,SAS,fg_make,71,False,False,DeRozan 4' Finger Roll Layup (20 PTS),,82-76,82,76
+0021900624,2020-01-17,SAS,ATL,31.38,3,4,37,ATL,ATL,fg3_miss,79,False,False,,MISS Huerter 27' 3PT Pullup Jump Shot,82-76,82,76
+0021900624,2020-01-17,SAS,ATL,31.47,3,4,32,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:6),,82-76,82,76
+0021900624,2020-01-17,SAS,ATL,31.57,3,4,26,SAS,SAS,fg3_make,1,False,False,Mills 3PT Jump Shot (6 PTS) (DeRozan 6 AST),,85-76,85,76
+0021900624,2020-01-17,SAS,ATL,31.57,3,4,26,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.4 Short 0),85-76,85,76
+0021900624,2020-01-17,SAS,ATL,31.57,3,4,26,ATL,,foul,11,False,False,,,85-76,85,76
+0021900624,2020-01-17,SAS,ATL,31.57,3,4,26,ATL,SAS,ft_make,16,False,False,DeRozan Free Throw Technical (21 PTS),,86-76,86,76
+0021900624,2020-01-17,SAS,ATL,31.85,3,4,9,ATL,ATL,fg3_miss,1,False,False,,MISS Huerter 27' 3PT Jump Shot,86-76,86,76
+0021900624,2020-01-17,SAS,ATL,31.9,3,4,6,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:7),,86-76,86,76
+0021900624,2020-01-17,SAS,ATL,31.95,3,4,3,SAS,SAS,fg_make,43,False,False,Mills 3' Alley Oop Layup (8 PTS) (DeRozan 7 AST),,88-76,88,76
+0021900624,2020-01-17,SAS,ATL,32.17,3,3,50,ATL,ATL,fg_miss,75,True,False,,MISS Huerter 5' Driving Finger Roll Layup,88-76,88,76
+0021900624,2020-01-17,SAS,ATL,32.17,3,3,50,ATL,SAS,block,75,True,False,block,block,88-76,88,76
+0021900624,2020-01-17,SAS,ATL,32.18,3,3,49,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:1 Def:6),88-76,88,76
+0021900624,2020-01-17,SAS,ATL,32.2,3,3,48,ATL,SAS,foul,2,False,False,Poeltl S.FOUL (P2.PN) (L.Wood),,88-76,88,76
+0021900624,2020-01-17,SAS,ATL,32.2,3,3,48,ATL,ATL,ft_miss,11,False,False,,MISS Collins Free Throw 1 of 2,88-76,88,76
+0021900624,2020-01-17,SAS,ATL,32.2,3,3,48,ATL,ATL,reb,1,False,False,,Hawks Rebound,88-76,88,76
+0021900624,2020-01-17,SAS,ATL,32.2,3,3,48,ATL,ATL,ft_make,12,False,False,,Collins Free Throw 2 of 2 (14 PTS),88-77,88,77
+0021900624,2020-01-17,SAS,ATL,32.47,3,3,32,SAS,SAS,fg_miss,78,True,False,MISS DeRozan 9' Floating Jump Shot,,88-77,88,77
+0021900624,2020-01-17,SAS,ATL,32.47,3,3,32,SAS,ATL,block,78,True,False,block,block,88-77,88,77
+0021900624,2020-01-17,SAS,ATL,32.52,3,3,29,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:1 Def:7),,88-77,88,77
+0021900624,2020-01-17,SAS,ATL,32.6,3,3,24,SAS,SAS,fg_miss,78,False,False,MISS White 7' Floating Jump Shot,,88-77,88,77
+0021900624,2020-01-17,SAS,ATL,32.63,3,3,22,ATL,ATL,reb,0,False,False,,Carter REBOUND (Off:1 Def:2),88-77,88,77
+0021900624,2020-01-17,SAS,ATL,32.77,3,3,14,ATL,ATL,fg_miss,47,False,False,,MISS Collins 14' Turnaround Jump Shot,88-77,88,77
+0021900624,2020-01-17,SAS,ATL,32.82,3,3,11,SAS,SAS,reb,0,False,False,White REBOUND (Off:1 Def:2),,88-77,88,77
+0021900624,2020-01-17,SAS,ATL,33.0,3,3,0,SAS,SAS,fg_make,79,False,False,Walker IV 16' Pullup Jump Shot (2 PTS) (DeRozan 8 AST),,90-77,90,77
+0021900624,2020-01-17,SAS,ATL,33.28,3,2,43,ATL,ATL,fg_miss,6,False,False,,MISS Carter 5' Driving Layup,90-77,90,77
+0021900624,2020-01-17,SAS,ATL,33.37,3,2,38,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:2 Def:6),90-77,90,77
+0021900624,2020-01-17,SAS,ATL,33.37,3,2,38,ATL,ATL,fg_make,97,False,False,,Collins 1' Tip Layup Shot (16 PTS),90-79,90,79
+0021900624,2020-01-17,SAS,ATL,33.47,3,2,32,SAS,SAS,fg_make,79,False,False,Mills 17' Pullup Jump Shot (10 PTS),,92-79,92,79
+0021900624,2020-01-17,SAS,ATL,33.87,3,2,8,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P3.T11),92-79,92,79
+0021900624,2020-01-17,SAS,ATL,33.87,3,2,8,ATL,SAS,steal,1,False,True,steal,steal,92-79,92,79
+0021900624,2020-01-17,SAS,ATL,33.92,3,2,5,SAS,SAS,fg_make,50,False,False,Walker IV 2' Running Dunk (4 PTS),,94-79,94,79
+0021900624,2020-01-17,SAS,ATL,33.92,3,2,5,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.5 Short 0),94-79,94,79
+0021900624,2020-01-17,SAS,ATL,34.12,3,1,53,ATL,ATL,fg_make,78,False,False,,Reddish 10' Floating Jump Shot (9 PTS),94-81,94,81
+0021900624,2020-01-17,SAS,ATL,34.12,3,1,53,ATL,SAS,foul,2,False,False,Belinelli S.FOUL (P1.PN) (J.Capers),,94-81,94,81
+0021900624,2020-01-17,SAS,ATL,34.12,3,1,53,ATL,ATL,ft_make,10,False,False,,Reddish Free Throw 1 of 1 (10 PTS),94-82,94,82
+0021900624,2020-01-17,SAS,ATL,34.38,3,1,37,SAS,SAS,fg_make,79,False,False,Walker IV 17' Pullup Jump Shot (6 PTS),,96-82,96,82
+0021900624,2020-01-17,SAS,ATL,34.72,3,1,17,ATL,ATL,fg_miss,75,True,False,,MISS Reddish 8' Driving Finger Roll Layup,96-82,96,82
+0021900624,2020-01-17,SAS,ATL,34.72,3,1,17,ATL,SAS,block,75,True,False,block,block,96-82,96,82
+0021900624,2020-01-17,SAS,ATL,34.8,3,1,12,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:1),,96-82,96,82
+0021900624,2020-01-17,SAS,ATL,34.87,3,1,8,SAS,SAS,fg_miss,5,False,False,MISS White 8' Layup,,96-82,96,82
+0021900624,2020-01-17,SAS,ATL,34.93,3,1,4,ATL,ATL,reb,0,False,False,,Goodwin REBOUND (Off:1 Def:3),96-82,96,82
+0021900624,2020-01-17,SAS,ATL,34.97,3,1,2,ATL,ATL,fg3_make,1,False,False,,Reddish 27' 3PT Jump Shot (13 PTS) (Goodwin 3 AST),96-85,96,85
+0021900624,2020-01-17,SAS,ATL,35.25,3,0,45,SAS,SAS,fg_miss,75,False,False,MISS Walker IV 5' Driving Finger Roll Layup,,96-85,96,85
+0021900624,2020-01-17,SAS,ATL,35.28,3,0,43,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:0 Def:4),96-85,96,85
+0021900624,2020-01-17,SAS,ATL,35.35,3,0,39,ATL,SAS,foul,2,False,False,Walker IV S.FOUL (P1.PN) (J.Williams),,96-85,96,85
+0021900624,2020-01-17,SAS,ATL,35.35,3,0,39,ATL,ATL,ft_miss,11,False,False,,MISS Fernando Free Throw 1 of 2,96-85,96,85
+0021900624,2020-01-17,SAS,ATL,35.35,3,0,39,ATL,ATL,reb,1,False,False,,Hawks Rebound,96-85,96,85
+0021900624,2020-01-17,SAS,ATL,35.35,3,0,39,ATL,ATL,ft_make,12,False,False,,Fernando Free Throw 2 of 2 (3 PTS),96-86,96,86
+0021900624,2020-01-17,SAS,ATL,35.5,3,0,30,SAS,SAS,fg3_miss,79,False,False,MISS Mills 25' 3PT Pullup Jump Shot,,96-86,96,86
+0021900624,2020-01-17,SAS,ATL,35.55,3,0,27,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:2 Def:2),,96-86,96,86
+0021900624,2020-01-17,SAS,ATL,35.57,3,0,26,SAS,SAS,fg3_make,1,False,False,Walker IV 26' 3PT Jump Shot (9 PTS) (Poeltl 4 AST),,99-86,99,86
+0021900624,2020-01-17,SAS,ATL,35.93,3,0,4,ATL,ATL,fg_make,78,False,False,,Goodwin 8' Floating Jump Shot (4 PTS),99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.0,3,0,0,SAS,SAS,fg3_miss,79,False,False,MISS Walker IV 32' 3PT Pullup Jump Shot,,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.0,3,0,0,SAS,SAS,reb,0,False,False,SPURS Rebound,,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.0,3,0,0,SAS,,period_end,0,False,False,,,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.0,4,12,0,SAS,,period_start,0,False,False,,,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.28,4,11,43,ATL,ATL,fg3_miss,1,False,False,,MISS Goodwin 24' 3PT Jump Shot,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.3,4,11,42,ATL,ATL,reb,0,False,False,,Hawks Rebound,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.3,4,11,42,ATL,SAS,foul,3,False,False,Poeltl L.B.FOUL (P3.T1) (L.Wood),,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.35,4,11,39,ATL,SAS,foul,2,False,False,White S.FOUL (P3.T2) (J.Williams),,99-88,99,88
+0021900624,2020-01-17,SAS,ATL,36.35,4,11,39,ATL,ATL,ft_make,11,False,False,,Carter Free Throw 1 of 2 (13 PTS),99-89,99,89
+0021900624,2020-01-17,SAS,ATL,36.35,4,11,39,ATL,ATL,ft_make,12,False,False,,Carter Free Throw 2 of 2 (14 PTS),99-90,99,90
+0021900624,2020-01-17,SAS,ATL,36.57,4,11,26,SAS,SAS,fg_make,101,False,False,White 7' Driving Floating Jump Shot (5 PTS) (Belinelli 2 AST),,101-90,101,90
+0021900624,2020-01-17,SAS,ATL,36.57,4,11,26,SAS,ATL,foul,2,False,False,,Goodwin S.FOUL (P1.T1) (J.Williams),101-90,101,90
+0021900624,2020-01-17,SAS,ATL,36.57,4,11,26,SAS,SAS,ft_make,10,False,False,White Free Throw 1 of 1 (6 PTS),,102-90,102,90
+0021900624,2020-01-17,SAS,ATL,36.9,4,11,6,ATL,ATL,fg3_make,1,False,False,,Reddish 27' 3PT Jump Shot (16 PTS),102-93,102,93
+0021900624,2020-01-17,SAS,ATL,37.13,4,10,52,SAS,SAS,fg3_make,1,False,False,Mills 27' 3PT Jump Shot (13 PTS) (Walker IV 3 AST),,105-93,105,93
+0021900624,2020-01-17,SAS,ATL,37.4,4,10,36,ATL,ATL,tov,20,False,False,,Carter Illegal Assist Turnover (P1.T12),105-93,105,93
+0021900624,2020-01-17,SAS,ATL,37.67,4,10,20,SAS,ATL,foul,2,False,False,,Goodwin S.FOUL (P2.T2) (J.Capers),105-93,105,93
+0021900624,2020-01-17,SAS,ATL,37.67,4,10,20,SAS,SAS,ft_make,11,False,False,White Free Throw 1 of 2 (7 PTS),,106-93,106,93
+0021900624,2020-01-17,SAS,ATL,37.67,4,10,20,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (8 PTS),,107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.0,4,10,0,ATL,ATL,fg3_miss,1,False,False,,MISS Carter 24' 3PT Jump Shot,107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.05,4,9,57,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:1 Def:0),107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.08,4,9,55,ATL,ATL,tov,2,False,True,,Bembry Lost Ball Turnover (P2.T13),107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.08,4,9,55,ATL,SAS,steal,2,False,True,steal,steal,107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.12,4,9,53,SAS,SAS,tov,1,False,True,Mills Bad Pass Turnover (P1.T12),,107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.12,4,9,53,SAS,ATL,steal,1,False,True,steal,steal,107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.12,4,9,53,SAS,ATL,foul,26,False,False,,Reddish Offensive Charge Foul (P2.T3) (J.Capers),107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.12,4,9,53,ATL,ATL,tov,37,False,False,,Reddish Offensive Foul Turnover (P2.T14),107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.27,4,9,44,SAS,SAS,fg_miss,79,False,False,MISS Belinelli 18' Pullup Jump Shot,,107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.33,4,9,40,ATL,ATL,reb,0,False,False,,Goodwin REBOUND (Off:1 Def:4),107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.48,4,9,31,ATL,SAS,foul,1,False,False,Belinelli P.FOUL (P2.T3) (J.Capers),,107-93,107,93
+0021900624,2020-01-17,SAS,ATL,38.63,4,9,22,ATL,ATL,fg3_make,1,False,False,,Reddish 27' 3PT Jump Shot (19 PTS),107-96,107,96
+0021900624,2020-01-17,SAS,ATL,38.85,4,9,9,SAS,SAS,fg_miss,47,False,False,MISS Poeltl 7' Turnaround Jump Shot,,107-96,107,96
+0021900624,2020-01-17,SAS,ATL,38.88,4,9,7,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:2 Def:7),107-96,107,96
+0021900624,2020-01-17,SAS,ATL,39.0,4,9,0,ATL,ATL,fg3_make,1,False,False,,Huerter 29' 3PT Jump Shot (13 PTS) (Young 8 AST),107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.02,4,8,59,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 3 Short 0),,107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.2,4,8,48,SAS,SAS,tov,40,False,False,Mills Out of Bounds Lost Ball Turnover (P2.T13),,107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.3,4,8,42,ATL,ATL,tov,2,False,True,,Reddish Lost Ball Turnover (P3.T15),107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.3,4,8,42,ATL,SAS,steal,2,False,True,steal,steal,107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.57,4,8,26,SAS,SAS,fg_miss,79,False,False,MISS DeRozan 9' Pullup Jump Shot,,107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.6,4,8,24,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:4 Def:6),,107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.7,4,8,18,SAS,SAS,fg3_miss,79,False,False,MISS DeRozan 27' 3PT Pullup Jump Shot,,107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.8,4,8,12,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:5 Def:6),,107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.85,4,8,9,SAS,ATL,foul,2,False,False,,Collins S.FOUL (P4.T4) (J.Williams),107-99,107,99
+0021900624,2020-01-17,SAS,ATL,39.85,4,8,9,SAS,SAS,ft_make,11,False,False,Murray Free Throw 1 of 2 (13 PTS),,108-99,108,99
+0021900624,2020-01-17,SAS,ATL,39.85,4,8,9,SAS,SAS,ft_miss,12,False,False,MISS Murray Free Throw 2 of 2,,108-99,108,99
+0021900624,2020-01-17,SAS,ATL,39.9,4,8,6,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:2 Def:8),108-99,108,99
+0021900624,2020-01-17,SAS,ATL,40.13,4,7,52,ATL,SAS,foul,1,False,False,DeRozan P.FOUL (P3.T4) (J.Williams),,108-99,108,99
+0021900624,2020-01-17,SAS,ATL,40.28,4,7,43,ATL,ATL,fg3_miss,1,False,False,,MISS Huerter 29' 3PT Jump Shot,108-99,108,99
+0021900624,2020-01-17,SAS,ATL,40.35,4,7,39,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:5 Def:7),,108-99,108,99
+0021900624,2020-01-17,SAS,ATL,40.45,4,7,33,SAS,SAS,tov,1,False,True,Murray Bad Pass Turnover (P2.T14),,108-99,108,99
+0021900624,2020-01-17,SAS,ATL,40.45,4,7,33,SAS,ATL,steal,1,False,True,steal,steal,108-99,108,99
+0021900624,2020-01-17,SAS,ATL,40.58,4,7,25,ATL,ATL,fg_make,99,False,False,,Collins 3' Cutting Finger Roll Layup Shot (18 PTS) (Reddish 3 AST),108-101,108,101
+0021900624,2020-01-17,SAS,ATL,40.92,4,7,5,SAS,SAS,fg_make,47,False,False,Aldridge 13' Turnaround Jump Shot (26 PTS),,110-101,110,101
+0021900624,2020-01-17,SAS,ATL,41.27,4,6,44,ATL,ATL,fg_make,75,False,False,,Huerter 3' Driving Finger Roll Layup (15 PTS) (Young 9 AST),110-103,110,103
+0021900624,2020-01-17,SAS,ATL,41.63,4,6,22,SAS,SAS,fg3_miss,1,False,False,MISS Aldridge 26' 3PT Jump Shot,,110-103,110,103
+0021900624,2020-01-17,SAS,ATL,41.7,4,6,18,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:5),110-103,110,103
+0021900624,2020-01-17,SAS,ATL,41.88,4,6,7,ATL,ATL,tov,40,False,False,,Reddish Out of Bounds Lost Ball Turnover (P4.T16),110-103,110,103
+0021900624,2020-01-17,SAS,ATL,42.17,4,5,50,SAS,SAS,fg_miss,101,False,False,MISS Forbes 7' Driving Floating Jump Shot,,110-103,110,103
+0021900624,2020-01-17,SAS,ATL,42.18,4,5,49,ATL,ATL,reb,0,False,False,,Hawks Rebound,110-103,110,103
+0021900624,2020-01-17,SAS,ATL,42.43,4,5,34,ATL,ATL,fg3_make,1,False,False,,Reddish 3PT Jump Shot (22 PTS) (Huerter 1 AST),110-106,110,106
+0021900624,2020-01-17,SAS,ATL,42.9,4,5,6,SAS,SAS,fg_miss,101,False,False,MISS DeRozan 10' Driving Floating Jump Shot,,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,42.95,4,5,3,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:1 Def:4),110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.02,4,4,59,ATL,SAS,foul,1,False,False,Walker IV P.FOUL (P2.PN) (J.Williams),,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.02,4,4,59,ATL,ATL,ft_miss,11,False,False,,MISS Young Free Throw 1 of 2,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.02,4,4,59,ATL,ATL,reb,1,False,False,,Hawks Rebound,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.02,4,4,59,ATL,ATL,ft_miss,12,False,False,,MISS Young Free Throw 2 of 2,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.05,4,4,57,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:1 Def:8),,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.28,4,4,43,SAS,SAS,fg3_miss,1,False,False,MISS Belinelli 24' 3PT Jump Shot,,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.38,4,4,37,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:3),110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.5,4,4,30,ATL,ATL,tov,1,False,True,,Hunter Bad Pass Turnover (P2.T17),110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.5,4,4,30,ATL,SAS,steal,1,False,True,steal,steal,110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.5,4,4,30,SAS,ATL,foul,1,False,False,,Collins P.FOUL (P5.PN) (L.Wood),110-106,110,106
+0021900624,2020-01-17,SAS,ATL,43.68,4,4,19,SAS,SAS,fg_make,79,False,False,DeRozan 16' Pullup Jump Shot (23 PTS) (Murray 5 AST),,112-106,112,106
+0021900624,2020-01-17,SAS,ATL,44.03,4,3,58,ATL,ATL,fg3_miss,1,False,False,,MISS Bembry 24' 3PT Jump Shot,112-106,112,106
+0021900624,2020-01-17,SAS,ATL,44.1,4,3,54,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:2 Def:3),,112-106,112,106
+0021900624,2020-01-17,SAS,ATL,44.33,4,3,40,SAS,SAS,fg_make,79,False,False,DeRozan 4' Pullup Jump Shot (25 PTS),,114-106,114,106
+0021900624,2020-01-17,SAS,ATL,44.52,4,3,29,ATL,ATL,fg3_make,79,False,False,,Young 28' 3PT Pullup Jump Shot (22 PTS),114-109,114,109
+0021900624,2020-01-17,SAS,ATL,44.87,4,3,8,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 25' 3PT Jump Shot,,114-109,114,109
+0021900624,2020-01-17,SAS,ATL,44.95,4,3,3,ATL,ATL,reb,0,False,False,,Jones REBOUND (Off:0 Def:2),114-109,114,109
+0021900624,2020-01-17,SAS,ATL,45.02,4,2,59,ATL,SAS,foul,1,False,False,Murray P.FOUL (P5.PN) (J.Williams),,114-109,114,109
+0021900624,2020-01-17,SAS,ATL,45.02,4,2,59,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.6 Short 0),114-109,114,109
+0021900624,2020-01-17,SAS,ATL,45.02,4,2,59,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (23 PTS),114-110,114,110
+0021900624,2020-01-17,SAS,ATL,45.02,4,2,59,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (24 PTS),114-111,114,111
+0021900624,2020-01-17,SAS,ATL,45.3,4,2,42,SAS,ATL,foul,1,False,False,,Jones P.FOUL (P2.PN) (J.Williams),114-111,114,111
+0021900624,2020-01-17,SAS,ATL,45.3,4,2,42,SAS,SAS,ft_make,11,False,False,Aldridge Free Throw 1 of 2 (27 PTS),,115-111,115,111
+0021900624,2020-01-17,SAS,ATL,45.3,4,2,42,SAS,SAS,ft_make,12,False,False,Aldridge Free Throw 2 of 2 (28 PTS),,116-111,116,111
+0021900624,2020-01-17,SAS,ATL,45.57,4,2,26,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P2.T18),116-111,116,111
+0021900624,2020-01-17,SAS,ATL,45.57,4,2,26,ATL,SAS,steal,1,False,True,steal,steal,116-111,116,111
+0021900624,2020-01-17,SAS,ATL,45.78,4,2,13,SAS,ATL,foul,1,False,False,,Hunter P.FOUL (P3.PN) (L.Wood),116-111,116,111
+0021900624,2020-01-17,SAS,ATL,45.78,4,2,13,SAS,SAS,ft_make,11,False,False,Aldridge Free Throw 1 of 2 (29 PTS),,117-111,117,111
+0021900624,2020-01-17,SAS,ATL,45.78,4,2,13,SAS,SAS,ft_make,12,False,False,Aldridge Free Throw 2 of 2 (30 PTS),,118-111,118,111
+0021900624,2020-01-17,SAS,ATL,45.98,4,2,1,ATL,ATL,fg3_make,1,False,False,,Young 30' 3PT Jump Shot (27 PTS),118-114,118,114
+0021900624,2020-01-17,SAS,ATL,46.32,4,1,41,SAS,SAS,fg_miss,47,False,False,MISS Aldridge 13' Turnaround Jump Shot,,118-114,118,114
+0021900624,2020-01-17,SAS,ATL,46.4,4,1,36,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:4),118-114,118,114
+0021900624,2020-01-17,SAS,ATL,46.52,4,1,29,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P3.T19),118-114,118,114
+0021900624,2020-01-17,SAS,ATL,46.52,4,1,29,ATL,SAS,steal,1,False,True,steal,steal,118-114,118,114
+0021900624,2020-01-17,SAS,ATL,46.58,4,1,25,SAS,SAS,fg_make,99,False,False,Mills 4' Cutting Finger Roll Layup Shot (15 PTS) (DeRozan 9 AST),,120-114,120,114
+0021900624,2020-01-17,SAS,ATL,46.67,4,1,20,ATL,SAS,foul,2,False,False,Aldridge S.FOUL (P5.PN) (L.Wood),,120-114,120,114
+0021900624,2020-01-17,SAS,ATL,46.67,4,1,20,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 4 Short 0),,120-114,120,114
+0021900624,2020-01-17,SAS,ATL,46.67,4,1,20,SAS,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (28 PTS),120-115,120,115
+0021900624,2020-01-17,SAS,ATL,46.67,4,1,20,SAS,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (29 PTS),120-116,120,116
+0021900624,2020-01-17,SAS,ATL,46.85,4,1,9,ATL,SAS,foul,4,False,False,Aldridge OFF.Foul (P6) (L.Wood),,120-116,120,116
+0021900624,2020-01-17,SAS,ATL,46.85,4,1,9,SAS,SAS,tov,37,False,False,Aldridge Offensive Foul Turnover (P2.T15),,120-116,120,116
+0021900624,2020-01-17,SAS,ATL,47.07,4,0,56,ATL,ATL,fg3_miss,79,False,False,,MISS Reddish 27' 3PT Pullup Jump Shot,120-116,120,116
+0021900624,2020-01-17,SAS,ATL,47.13,4,0,52,ATL,ATL,reb,0,False,False,,Huerter REBOUND (Off:1 Def:1),120-116,120,116
+0021900624,2020-01-17,SAS,ATL,47.2,4,0,48,ATL,ATL,fg_make,78,False,False,,Young 6' Floating Jump Shot (31 PTS) (Reddish 4 AST),120-118,120,118
+0021900624,2020-01-17,SAS,ATL,47.58,4,0,25,SAS,SAS,fg_miss,44,False,False,MISS DeRozan 4' Reverse Layup,,120-118,120,118
+0021900624,2020-01-17,SAS,ATL,47.58,4,0,25,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:3 Def:2),,120-118,120,118
+0021900624,2020-01-17,SAS,ATL,47.58,4,0,25,SAS,SAS,fg_miss,97,False,False,MISS Poeltl 1' Tip Layup Shot,,120-118,120,118
+0021900624,2020-01-17,SAS,ATL,47.58,4,0,25,ATL,ATL,reb,0,False,False,,Hawks Rebound,120-118,120,118
+0021900624,2020-01-17,SAS,ATL,47.88,4,0,7,ATL,ATL,fg3_make,1,False,False,,Huerter 24' 3PT Jump Shot (18 PTS) (Hunter 2 AST),120-121,120,121
+0021900624,2020-01-17,SAS,ATL,47.9,4,0,6,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 5 Short 0),,120-121,120,121
+0021900624,2020-01-17,SAS,ATL,48.0,4,0,0,SAS,SAS,fg_miss,63,False,False,MISS DeRozan 4' Fadeaway Jumper,,120-121,120,121
+0021900624,2020-01-17,SAS,ATL,48.0,4,0,0,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:5),120-121,120,121
+0021900624,2020-01-17,SAS,ATL,48.0,4,0,0,ATL,,period_end,0,False,False,,,120-121,120,121

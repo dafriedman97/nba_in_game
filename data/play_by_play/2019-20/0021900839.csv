@@ -1,0 +1,477 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900839,2020-02-22,CHI,PHX,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900839,2020-02-22,CHI,PHX,0.0,1,12,0,,CHI,jump_ball,0,False,False,Jump Ball Gafford vs. Ayton: Tip to Satoransky,,0-0,0,0
+0021900839,2020-02-22,CHI,PHX,0.38,1,11,37,CHI,CHI,fg3_miss,1,False,False,MISS Satoransky 24' 3PT Jump Shot,,0-0,0,0
+0021900839,2020-02-22,CHI,PHX,0.45,1,11,33,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:0 Def:1),0-0,0,0
+0021900839,2020-02-22,CHI,PHX,0.72,1,11,17,PHX,PHX,fg_miss,6,True,False,,MISS Ayton 2' Driving Layup,0-0,0,0
+0021900839,2020-02-22,CHI,PHX,0.72,1,11,17,PHX,CHI,block,6,True,False,block,block,0-0,0,0
+0021900839,2020-02-22,CHI,PHX,0.77,1,11,14,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:1),,0-0,0,0
+0021900839,2020-02-22,CHI,PHX,0.8,1,11,12,CHI,CHI,fg3_make,1,False,False,LaVine 26' 3PT Jump Shot (3 PTS) (Satoransky 1 AST),,3-0,3,0
+0021900839,2020-02-22,CHI,PHX,1.12,1,10,53,PHX,PHX,fg_make,108,False,False,,Ayton 1' Cutting Dunk Shot (2 PTS) (Rubio 1 AST),3-2,3,2
+0021900839,2020-02-22,CHI,PHX,1.48,1,10,31,CHI,CHI,fg_make,6,False,False,Arcidiacono 2' Driving Layup (2 PTS),,5-2,5,2
+0021900839,2020-02-22,CHI,PHX,1.75,1,10,15,PHX,PHX,fg_make,79,False,False,,Oubre Jr. 8' Pullup Jump Shot (2 PTS) (Bridges 1 AST),5-4,5,4
+0021900839,2020-02-22,CHI,PHX,2.2,1,9,48,CHI,CHI,tov,1,False,True,LaVine Bad Pass Turnover (P1.T1),,5-4,5,4
+0021900839,2020-02-22,CHI,PHX,2.2,1,9,48,CHI,PHX,steal,1,False,True,steal,steal,5-4,5,4
+0021900839,2020-02-22,CHI,PHX,2.42,1,9,35,PHX,PHX,fg_make,101,False,False,,Booker 8' Driving Floating Jump Shot (2 PTS),5-6,5,6
+0021900839,2020-02-22,CHI,PHX,2.7,1,9,18,CHI,CHI,fg_miss,6,False,False,MISS Satoransky 2' Driving Layup,,5-6,5,6
+0021900839,2020-02-22,CHI,PHX,2.73,1,9,16,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:0 Def:2),5-6,5,6
+0021900839,2020-02-22,CHI,PHX,2.87,1,9,8,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 25' 3PT Jump Shot,5-6,5,6
+0021900839,2020-02-22,CHI,PHX,2.93,1,9,4,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:0 Def:1),,5-6,5,6
+0021900839,2020-02-22,CHI,PHX,2.98,1,9,1,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 26' 3PT Jump Shot,,5-6,5,6
+0021900839,2020-02-22,CHI,PHX,3.03,1,8,58,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:0 Def:3),5-6,5,6
+0021900839,2020-02-22,CHI,PHX,3.25,1,8,45,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 30' 3PT Jump Shot,5-6,5,6
+0021900839,2020-02-22,CHI,PHX,3.25,1,8,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,5-6,5,6
+0021900839,2020-02-22,CHI,PHX,3.57,1,8,26,CHI,CHI,fg3_make,1,False,False,Young 24' 3PT Jump Shot (3 PTS) (LaVine 1 AST),,8-6,8,6
+0021900839,2020-02-22,CHI,PHX,4.02,1,7,59,PHX,PHX,fg_make,108,False,False,,Ayton 1' Cutting Dunk Shot (4 PTS) (Rubio 2 AST),8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.22,1,7,47,CHI,CHI,fg_miss,6,False,False,MISS LaVine 2' Driving Layup,,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.25,1,7,45,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:0 Def:1),8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.3,1,7,42,PHX,PHX,fg3_miss,79,False,False,,MISS Booker 26' 3PT Pullup Jump Shot,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.37,1,7,38,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:0 Def:1),,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.38,1,7,37,CHI,CHI,tov,40,False,False,Young Out of Bounds Lost Ball Turnover (P1.T2),,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.58,1,7,25,PHX,PHX,fg3_miss,1,False,False,,MISS Oubre Jr. 24' 3PT Jump Shot,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.6,1,7,24,PHX,PHX,reb,0,False,False,,Suns Rebound,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.63,1,7,22,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.7,1,7,18,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:2),,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.8,1,7,12,CHI,CHI,tov,1,False,True,Arcidiacono Bad Pass Turnover (P1.T3),,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.8,1,7,12,CHI,PHX,steal,1,False,True,steal,steal,8-8,8,8
+0021900839,2020-02-22,CHI,PHX,4.88,1,7,7,PHX,PHX,fg3_make,1,False,False,,Booker 25' 3PT Jump Shot (5 PTS) (Rubio 3 AST),8-11,8,11
+0021900839,2020-02-22,CHI,PHX,5.25,1,6,45,CHI,CHI,fg_miss,6,False,False,MISS LaVine 2' Driving Layup,,8-11,8,11
+0021900839,2020-02-22,CHI,PHX,5.28,1,6,43,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),8-11,8,11
+0021900839,2020-02-22,CHI,PHX,5.35,1,6,39,PHX,PHX,fg_make,43,False,False,,Ayton Alley Oop Layup (6 PTS) (Bridges 2 AST),8-13,8,13
+0021900839,2020-02-22,CHI,PHX,5.35,1,6,39,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,8-13,8,13
+0021900839,2020-02-22,CHI,PHX,5.7,1,6,18,CHI,CHI,fg_miss,6,False,False,MISS Young 2' Driving Layup,,8-13,8,13
+0021900839,2020-02-22,CHI,PHX,5.73,1,6,16,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:0 Def:4),8-13,8,13
+0021900839,2020-02-22,CHI,PHX,5.78,1,6,13,PHX,CHI,foul,2,False,False,White S.FOUL (P1.T1) (B.Forte),,8-13,8,13
+0021900839,2020-02-22,CHI,PHX,5.78,1,6,13,PHX,PHX,ft_make,11,False,False,,Rubio Free Throw 1 of 2 (1 PTS),8-14,8,14
+0021900839,2020-02-22,CHI,PHX,5.78,1,6,13,PHX,PHX,ft_make,12,False,False,,Rubio Free Throw 2 of 2 (2 PTS),8-15,8,15
+0021900839,2020-02-22,CHI,PHX,6.08,1,5,55,CHI,CHI,fg3_miss,1,False,False,MISS Young 24' 3PT Jump Shot,,8-15,8,15
+0021900839,2020-02-22,CHI,PHX,6.12,1,5,53,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:0 Def:2),8-15,8,15
+0021900839,2020-02-22,CHI,PHX,6.3,1,5,42,PHX,PHX,tov,2,False,True,,Ayton Lost Ball Turnover (P1.T1),8-15,8,15
+0021900839,2020-02-22,CHI,PHX,6.3,1,5,42,PHX,CHI,steal,2,False,True,steal,steal,8-15,8,15
+0021900839,2020-02-22,CHI,PHX,6.38,1,5,37,CHI,CHI,fg_make,108,False,False,LaVine 1' Cutting Dunk Shot (5 PTS) (Young 1 AST),,10-15,10,15
+0021900839,2020-02-22,CHI,PHX,6.62,1,5,23,PHX,PHX,fg_make,43,False,False,,Oubre Jr. 1' Alley Oop Layup (4 PTS) (Rubio 4 AST),10-17,10,17
+0021900839,2020-02-22,CHI,PHX,6.62,1,5,23,PHX,CHI,foul,2,False,False,Satoransky S.FOUL (P1.T2) (R.Acosta),,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,6.62,1,5,23,PHX,PHX,ft_miss,10,False,False,,MISS Oubre Jr. Free Throw 1 of 1,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,6.67,1,5,20,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:3),,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.0,1,5,0,CHI,CHI,fg_miss,101,False,False,MISS Satoransky 7' Driving Floating Jump Shot,,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.03,1,4,58,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:1 Def:0),,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.05,1,4,57,CHI,CHI,tov,2,False,True,Felicio Lost Ball Turnover (P1.T4),,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.05,1,4,57,CHI,PHX,steal,2,False,True,steal,steal,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.23,1,4,46,PHX,PHX,fg_miss,101,True,False,,MISS Jerome 6' Driving Floating Jump Shot,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.23,1,4,46,PHX,CHI,block,101,True,False,block,block,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.28,1,4,43,CHI,CHI,reb,0,False,False,Young REBOUND (Off:0 Def:1),,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.33,1,4,40,CHI,CHI,fg_miss,6,False,False,MISS Satoransky 2' Driving Layup,,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.37,1,4,38,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:1),10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.53,1,4,28,PHX,PHX,fg3_miss,1,False,False,,MISS Jerome 26' 3PT Jump Shot,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.58,1,4,25,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:0),10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.72,1,4,17,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P1.T2),10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.72,1,4,17,PHX,CHI,steal,1,False,True,steal,steal,10-17,10,17
+0021900839,2020-02-22,CHI,PHX,7.92,1,4,5,CHI,CHI,fg3_make,1,False,False,White 3PT Jump Shot (3 PTS) (Young 2 AST),,13-17,13,17
+0021900839,2020-02-22,CHI,PHX,8.23,1,3,46,PHX,PHX,fg_make,79,False,False,,Booker 8' Pullup Jump Shot (7 PTS) (Oubre Jr. 1 AST),13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.57,1,3,26,CHI,CHI,tov,1,False,True,Felicio Bad Pass Turnover (P2.T5),,13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.57,1,3,26,CHI,PHX,steal,1,False,True,steal,steal,13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.83,1,3,10,PHX,PHX,fg_miss,6,True,False,,MISS Oubre Jr. 2' Driving Layup,13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.83,1,3,10,PHX,CHI,block,6,True,False,block,block,13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.85,1,3,9,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:0),13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.87,1,3,8,PHX,PHX,fg_miss,72,False,False,,MISS Oubre Jr. 1' Putback Layup,13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.87,1,3,8,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:3 Def:0),13-19,13,19
+0021900839,2020-02-22,CHI,PHX,8.88,1,3,7,PHX,PHX,fg_make,97,False,False,,Oubre Jr. 1' Tip Layup Shot (6 PTS),13-21,13,21
+0021900839,2020-02-22,CHI,PHX,9.05,1,2,57,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (7 PTS),,15-21,15,21
+0021900839,2020-02-22,CHI,PHX,9.05,1,2,57,CHI,PHX,foul,2,False,False,,Jerome S.FOUL (P1.T1) (R.Acosta),15-21,15,21
+0021900839,2020-02-22,CHI,PHX,9.05,1,2,57,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.1 Short 0),15-21,15,21
+0021900839,2020-02-22,CHI,PHX,9.05,1,2,57,CHI,PHX,foul,11,False,False,,Oubre Jr. T.FOUL (P0.T1) (R.Acosta),15-21,15,21
+0021900839,2020-02-22,CHI,PHX,9.05,1,2,57,CHI,CHI,ft_make,16,False,False,LaVine Free Throw Technical (8 PTS),,16-21,16,21
+0021900839,2020-02-22,CHI,PHX,9.05,1,2,57,CHI,CHI,ft_make,10,False,False,LaVine Free Throw 1 of 1 (9 PTS),,17-21,17,21
+0021900839,2020-02-22,CHI,PHX,9.42,1,2,35,PHX,PHX,fg_miss,101,False,False,,MISS Johnson 13' Driving Floating Jump Shot,17-21,17,21
+0021900839,2020-02-22,CHI,PHX,9.47,1,2,32,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:1),,17-21,17,21
+0021900839,2020-02-22,CHI,PHX,9.52,1,2,29,CHI,CHI,fg_make,41,False,False,White Running Layup (5 PTS),,19-21,19,21
+0021900839,2020-02-22,CHI,PHX,9.52,1,2,29,CHI,PHX,foul,2,False,False,,Baynes S.FOUL (P1.T2) (J.Orr),19-21,19,21
+0021900839,2020-02-22,CHI,PHX,9.52,1,2,29,CHI,CHI,ft_make,10,False,False,White Free Throw 1 of 1 (6 PTS),,20-21,20,21
+0021900839,2020-02-22,CHI,PHX,9.7,1,2,18,PHX,CHI,foul,1,False,False,Mokoka P.FOUL (P1.T3) (J.Orr),,20-21,20,21
+0021900839,2020-02-22,CHI,PHX,9.93,1,2,4,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#3),20-21,20,21
+0021900839,2020-02-22,CHI,PHX,10.28,1,1,43,CHI,CHI,fg_miss,47,False,False,MISS White 8' Turnaround Jump Shot,,20-21,20,21
+0021900839,2020-02-22,CHI,PHX,10.32,1,1,41,PHX,PHX,reb,0,False,False,,Carter REBOUND (Off:0 Def:1),20-21,20,21
+0021900839,2020-02-22,CHI,PHX,10.57,1,1,26,PHX,PHX,tov,45,False,False,,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T4),20-21,20,21
+0021900839,2020-02-22,CHI,PHX,10.7,1,1,18,CHI,PHX,foul,2,False,False,,Johnson S.FOUL (P1.T3) (R.Acosta),20-21,20,21
+0021900839,2020-02-22,CHI,PHX,10.7,1,1,18,CHI,CHI,ft_make,11,False,False,Gafford Free Throw 1 of 2 (1 PTS),,21-21,21,21
+0021900839,2020-02-22,CHI,PHX,10.7,1,1,18,CHI,CHI,ft_make,12,False,False,Gafford Free Throw 2 of 2 (2 PTS),,22-21,22,21
+0021900839,2020-02-22,CHI,PHX,10.87,1,1,8,PHX,PHX,tov,1,False,True,,Rubio Bad Pass Turnover (P1.T5),22-21,22,21
+0021900839,2020-02-22,CHI,PHX,10.87,1,1,8,PHX,CHI,steal,1,False,True,steal,steal,22-21,22,21
+0021900839,2020-02-22,CHI,PHX,10.93,1,1,4,CHI,CHI,fg_make,98,False,False,White 1' Cutting Layup Shot (8 PTS) (Arcidiacono 1 AST),,24-21,24,21
+0021900839,2020-02-22,CHI,PHX,11.15,1,0,51,PHX,CHI,foul,1,False,False,Gafford P.FOUL (P1.T4) (R.Acosta),,24-21,24,21
+0021900839,2020-02-22,CHI,PHX,11.32,1,0,41,PHX,CHI,foul,6,False,False,Mokoka AWAY.FROM.PLAY.FOUL (P2.PN) (R.Acosta),,24-21,24,21
+0021900839,2020-02-22,CHI,PHX,11.32,1,0,41,PHX,PHX,ft_make,10,False,False,,Rubio Free Throw 1 of 1 (3 PTS),24-22,24,22
+0021900839,2020-02-22,CHI,PHX,11.45,1,0,33,PHX,PHX,fg_miss,58,False,False,,MISS Ayton 8' Turnaround Hook Shot,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,11.5,1,0,30,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:0 Def:1),,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,11.53,1,0,28,CHI,CHI,fg3_miss,1,False,False,MISS White 26' 3PT Jump Shot,,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,11.6,1,0,24,PHX,PHX,reb,0,False,False,,Saric REBOUND (Off:0 Def:1),24-22,24,22
+0021900839,2020-02-22,CHI,PHX,11.93,1,0,4,PHX,PHX,fg_miss,108,True,False,,MISS Ayton 1' Cutting Dunk Shot,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,11.93,1,0,4,PHX,CHI,block,108,True,False,block,block,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,11.98,1,0,1,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:2),,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.0,1,0,0,CHI,CHI,fg3_miss,79,False,False,MISS Harrison 25' 3PT Pullup Jump Shot,,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.0,1,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.0,1,0,0,CHI,,period_end,0,False,False,,,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.0,2,12,0,CHI,,period_start,0,False,False,,,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.17,2,11,50,CHI,PHX,foul,26,False,False,,Ayton Offensive Charge Foul (P1.T1) (J.Orr),24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.17,2,11,50,PHX,PHX,tov,37,False,False,,Ayton Offensive Foul Turnover (P2.T6),24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.4,2,11,36,CHI,CHI,fg_miss,6,False,False,MISS Mokoka 2' Driving Layup,,24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.43,2,11,34,PHX,PHX,reb,0,False,False,,Carter REBOUND (Off:0 Def:2),24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.55,2,11,27,PHX,PHX,tov,4,False,False,,Ayton Traveling Turnover (P3.T7),24-22,24,22
+0021900839,2020-02-22,CHI,PHX,12.72,2,11,17,CHI,CHI,fg3_make,1,False,False,Arcidiacono 25' 3PT Jump Shot (5 PTS),,27-22,27,22
+0021900839,2020-02-22,CHI,PHX,13.0,2,11,0,PHX,PHX,fg_make,86,False,False,,Rubio 11' Turnaround Fadeaway (5 PTS) (Saric 1 AST),27-24,27,24
+0021900839,2020-02-22,CHI,PHX,13.15,2,10,51,CHI,PHX,foul,2,False,False,,Saric S.FOUL (P1.T2) (B.Forte),27-24,27,24
+0021900839,2020-02-22,CHI,PHX,13.15,2,10,51,CHI,CHI,ft_make,11,False,False,Harrison Free Throw 1 of 2 (1 PTS),,28-24,28,24
+0021900839,2020-02-22,CHI,PHX,13.15,2,10,51,CHI,CHI,ft_make,12,False,False,Harrison Free Throw 2 of 2 (2 PTS),,29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.32,2,10,41,PHX,PHX,tov,2,False,True,,Ayton Lost Ball Turnover (P4.T8),29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.32,2,10,41,PHX,CHI,steal,2,False,True,steal,steal,29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.5,2,10,30,CHI,CHI,fg3_miss,1,False,False,MISS Arcidiacono 26' 3PT Jump Shot,,29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.52,2,10,29,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:3 Def:1),29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.62,2,10,23,PHX,CHI,foul,1,False,False,Harrison P.FOUL (P1.T1) (J.Orr),,29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.73,2,10,16,PHX,PHX,tov,2,False,True,,Saric Lost Ball Turnover (P2.T9),29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.73,2,10,16,PHX,CHI,steal,2,False,True,steal,steal,29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.8,2,10,12,CHI,CHI,fg_miss,41,False,False,MISS White 2' Running Layup,,29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.85,2,10,9,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:1 Def:1),,29-24,29,24
+0021900839,2020-02-22,CHI,PHX,13.85,2,10,9,CHI,CHI,fg_make,107,False,False,Gafford 1' Tip Dunk Shot (4 PTS),,31-24,31,24
+0021900839,2020-02-22,CHI,PHX,13.87,2,10,8,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.2 Short 0),31-24,31,24
+0021900839,2020-02-22,CHI,PHX,14.07,2,9,56,PHX,PHX,tov,2,False,True,,Ayton Lost Ball Turnover (P5.T10),31-24,31,24
+0021900839,2020-02-22,CHI,PHX,14.07,2,9,56,PHX,CHI,steal,2,False,True,steal,steal,31-24,31,24
+0021900839,2020-02-22,CHI,PHX,14.47,2,9,32,CHI,CHI,fg_make,6,False,False,White 1' Driving Layup (10 PTS),,33-24,33,24
+0021900839,2020-02-22,CHI,PHX,14.65,2,9,21,PHX,CHI,foul,1,False,False,Harrison P.FOUL (P2.T2) (B.Forte),,33-24,33,24
+0021900839,2020-02-22,CHI,PHX,14.72,2,9,17,PHX,PHX,tov,2,False,False,,Baynes Lost Ball Turnover (P1.T11),33-24,33,24
+0021900839,2020-02-22,CHI,PHX,14.72,2,9,17,CHI,PHX,foul,3,False,False,,Baynes L.B.FOUL (P2.T3) (B.Forte),33-24,33,24
+0021900839,2020-02-22,CHI,PHX,14.88,2,9,7,CHI,CHI,tov,45,False,False,White Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,33-24,33,24
+0021900839,2020-02-22,CHI,PHX,15.07,2,8,56,PHX,PHX,fg_miss,101,False,False,,MISS Booker 7' Driving Floating Jump Shot,33-24,33,24
+0021900839,2020-02-22,CHI,PHX,15.1,2,8,54,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:0 Def:2),,33-24,33,24
+0021900839,2020-02-22,CHI,PHX,15.3,2,8,42,CHI,CHI,fg3_miss,1,False,False,MISS White 25' 3PT Jump Shot,,33-24,33,24
+0021900839,2020-02-22,CHI,PHX,15.37,2,8,38,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),33-24,33,24
+0021900839,2020-02-22,CHI,PHX,15.52,2,8,29,PHX,PHX,fg_make,5,False,False,,Baynes 1' Layup (2 PTS) (Booker 1 AST),33-26,33,26
+0021900839,2020-02-22,CHI,PHX,15.62,2,8,23,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,33-26,33,26
+0021900839,2020-02-22,CHI,PHX,15.67,2,8,20,CHI,CHI,tov,1,False,True,Arcidiacono Bad Pass Turnover (P2.T7),,33-26,33,26
+0021900839,2020-02-22,CHI,PHX,15.67,2,8,20,CHI,PHX,steal,1,False,True,steal,steal,33-26,33,26
+0021900839,2020-02-22,CHI,PHX,15.72,2,8,17,PHX,PHX,fg_make,6,False,False,,Bridges 1' Driving Layup (2 PTS),33-28,33,28
+0021900839,2020-02-22,CHI,PHX,16.12,2,7,53,CHI,CHI,fg_make,79,False,False,LaVine 17' Pullup Jump Shot (11 PTS) (Arcidiacono 2 AST),,35-28,35,28
+0021900839,2020-02-22,CHI,PHX,16.47,2,7,32,PHX,PHX,fg_make,7,False,False,,Baynes 1' Dunk (4 PTS),35-30,35,30
+0021900839,2020-02-22,CHI,PHX,16.8,2,7,12,CHI,CHI,fg3_miss,80,False,False,MISS LaVine 3PT Step Back Jump Shot,,35-30,35,30
+0021900839,2020-02-22,CHI,PHX,16.85,2,7,9,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),35-30,35,30
+0021900839,2020-02-22,CHI,PHX,16.87,2,7,8,PHX,CHI,foul,1,False,False,Young P.FOUL (P1.T3) (R.Acosta),,35-30,35,30
+0021900839,2020-02-22,CHI,PHX,16.93,2,7,4,PHX,PHX,fg3_make,1,False,False,,Oubre Jr. 25' 3PT Jump Shot (9 PTS) (Booker 2 AST),35-33,35,33
+0021900839,2020-02-22,CHI,PHX,17.25,2,6,45,CHI,CHI,fg3_miss,1,False,False,MISS Arcidiacono 3PT Jump Shot,,35-33,35,33
+0021900839,2020-02-22,CHI,PHX,17.3,2,6,42,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:2 Def:0),,35-33,35,33
+0021900839,2020-02-22,CHI,PHX,17.32,2,6,41,CHI,CHI,fg3_miss,1,False,False,MISS Young 25' 3PT Jump Shot,,35-33,35,33
+0021900839,2020-02-22,CHI,PHX,17.35,2,6,39,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:3 Def:0),,35-33,35,33
+0021900839,2020-02-22,CHI,PHX,17.35,2,6,39,CHI,CHI,fg_make,72,False,False,Felicio 1' Putback Layup (2 PTS),,37-33,37,33
+0021900839,2020-02-22,CHI,PHX,17.35,2,6,39,CHI,PHX,foul,2,False,False,,Bridges S.FOUL (P1.T4) (J.Orr),37-33,37,33
+0021900839,2020-02-22,CHI,PHX,17.35,2,6,39,CHI,CHI,ft_make,10,False,False,Felicio Free Throw 1 of 1 (3 PTS),,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,17.75,2,6,15,PHX,PHX,fg_miss,108,False,False,,MISS Oubre Jr. 1' Cutting Dunk Shot,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,17.8,2,6,12,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:0 Def:2),,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,17.85,2,6,9,CHI,CHI,fg3_miss,1,False,False,MISS Arcidiacono 27' 3PT Jump Shot,,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,17.85,2,6,9,CHI,CHI,reb,0,False,False,Young REBOUND (Off:1 Def:1),,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,17.93,2,6,4,CHI,CHI,fg_miss,72,False,False,MISS Young 1' Putback Layup,,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,17.97,2,6,2,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:2),38-33,38,33
+0021900839,2020-02-22,CHI,PHX,18.0,2,6,0,CHI,PHX,foul,26,False,False,,Booker Offensive Charge Foul (P1.PN) (J.Orr),38-33,38,33
+0021900839,2020-02-22,CHI,PHX,18.0,2,6,0,PHX,PHX,tov,37,False,False,,Booker Offensive Foul Turnover (P2.T12),38-33,38,33
+0021900839,2020-02-22,CHI,PHX,18.22,2,5,47,CHI,PHX,foul,2,False,False,,Bolden S.FOUL (P1.PN) (B.Forte),38-33,38,33
+0021900839,2020-02-22,CHI,PHX,18.22,2,5,47,CHI,CHI,ft_miss,11,False,False,MISS Felicio Free Throw 1 of 2,,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,18.22,2,5,47,CHI,CHI,reb,1,False,False,BULLS Rebound,,38-33,38,33
+0021900839,2020-02-22,CHI,PHX,18.22,2,5,47,CHI,CHI,ft_make,12,False,False,Felicio Free Throw 2 of 2 (4 PTS),,39-33,39,33
+0021900839,2020-02-22,CHI,PHX,18.35,2,5,39,PHX,PHX,tov,45,False,False,,Jerome Out of Bounds - Bad Pass Turnover Turnover (P1.T13),39-33,39,33
+0021900839,2020-02-22,CHI,PHX,18.53,2,5,28,CHI,CHI,fg3_make,1,False,False,Arcidiacono 3PT Jump Shot (8 PTS) (Felicio 1 AST),,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,18.85,2,5,9,PHX,PHX,fg3_miss,1,False,False,,MISS Bolden 3PT Jump Shot,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,18.9,2,5,6,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:0 Def:3),,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.02,2,4,59,PHX,CHI,foul,4,False,False,LaVine OFF.Foul (P1) (J.Orr),,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.02,2,4,59,CHI,CHI,tov,37,False,False,LaVine Offensive Foul Turnover (P2.T8),,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.22,2,4,47,PHX,PHX,fg_miss,101,False,False,,MISS Booker 5' Driving Floating Jump Shot,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.25,2,4,45,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:4),,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.35,2,4,39,CHI,CHI,fg_miss,6,False,False,MISS Young 2' Driving Layup,,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.38,2,4,37,PHX,PHX,reb,0,False,False,,Bolden REBOUND (Off:0 Def:1),42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.47,2,4,32,PHX,PHX,tov,2,False,True,,Booker Lost Ball Turnover (P3.T14),42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.47,2,4,32,PHX,CHI,steal,2,False,True,steal,steal,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.55,2,4,27,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 26' 3PT Jump Shot,,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.57,2,4,26,CHI,CHI,reb,0,False,False,BULLS Rebound,,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.62,2,4,23,CHI,CHI,fg_miss,1,False,False,MISS LaVine 16' Jump Shot,,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.65,2,4,21,CHI,CHI,reb,0,False,False,BULLS Rebound,,42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.65,2,4,21,CHI,PHX,foul,3,False,False,,Bolden L.B.FOUL (P2.PN) (J.Orr),42-33,42,33
+0021900839,2020-02-22,CHI,PHX,19.65,2,4,21,CHI,CHI,ft_make,11,False,False,White Free Throw 1 of 2 (11 PTS),,43-33,43,33
+0021900839,2020-02-22,CHI,PHX,19.65,2,4,21,CHI,CHI,ft_make,12,False,False,White Free Throw 2 of 2 (12 PTS),,44-33,44,33
+0021900839,2020-02-22,CHI,PHX,19.93,2,4,4,PHX,PHX,tov,1,False,True,,Rubio Bad Pass Turnover (P2.T15),44-33,44,33
+0021900839,2020-02-22,CHI,PHX,19.93,2,4,4,PHX,CHI,steal,1,False,True,steal,steal,44-33,44,33
+0021900839,2020-02-22,CHI,PHX,20.07,2,3,56,CHI,CHI,fg3_miss,1,False,False,MISS White 26' 3PT Jump Shot,,44-33,44,33
+0021900839,2020-02-22,CHI,PHX,20.17,2,3,50,CHI,CHI,reb,0,False,False,Young REBOUND (Off:2 Def:1),,46-33,46,33
+0021900839,2020-02-22,CHI,PHX,20.17,2,3,50,CHI,CHI,fg_make,97,False,False,Young 1' Tip Layup Shot (5 PTS),,46-33,46,33
+0021900839,2020-02-22,CHI,PHX,20.42,2,3,35,PHX,PHX,fg_miss,79,False,False,,MISS Rubio 15' Pullup Jump Shot,46-33,46,33
+0021900839,2020-02-22,CHI,PHX,20.47,2,3,32,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:0 Def:3),,46-33,46,33
+0021900839,2020-02-22,CHI,PHX,20.53,2,3,28,CHI,CHI,tov,45,False,False,Satoransky Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,46-33,46,33
+0021900839,2020-02-22,CHI,PHX,20.77,2,3,14,PHX,PHX,fg_miss,101,False,False,,MISS Booker 9' Driving Floating Jump Shot,46-33,46,33
+0021900839,2020-02-22,CHI,PHX,20.8,2,3,12,CHI,CHI,reb,0,False,False,Young REBOUND (Off:2 Def:2),,46-33,46,33
+0021900839,2020-02-22,CHI,PHX,20.87,2,3,8,CHI,CHI,fg3_make,1,False,False,White 3PT Jump Shot (15 PTS) (LaVine 2 AST),,49-33,49,33
+0021900839,2020-02-22,CHI,PHX,20.88,2,3,7,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.3 Short 0),49-33,49,33
+0021900839,2020-02-22,CHI,PHX,21.08,2,2,55,PHX,CHI,foul,2,False,False,White S.FOUL (P2.T4) (J.Orr),,49-33,49,33
+0021900839,2020-02-22,CHI,PHX,21.08,2,2,55,PHX,PHX,ft_make,11,False,False,,Rubio Free Throw 1 of 2 (6 PTS),49-34,49,34
+0021900839,2020-02-22,CHI,PHX,21.08,2,2,55,PHX,PHX,ft_make,12,False,False,,Rubio Free Throw 2 of 2 (7 PTS),49-35,49,35
+0021900839,2020-02-22,CHI,PHX,21.4,2,2,36,CHI,CHI,fg3_make,1,False,False,Young 24' 3PT Jump Shot (8 PTS) (White 1 AST),,52-35,52,35
+0021900839,2020-02-22,CHI,PHX,21.6,2,2,24,PHX,PHX,fg3_make,1,False,False,,Rubio 26' 3PT Jump Shot (10 PTS) (Oubre Jr. 2 AST),52-38,52,38
+0021900839,2020-02-22,CHI,PHX,21.78,2,2,13,CHI,CHI,tov,4,False,False,White Traveling Turnover (P2.T10),,52-38,52,38
+0021900839,2020-02-22,CHI,PHX,22.0,2,2,0,PHX,PHX,fg_make,43,False,False,,Ayton 2' Alley Oop Layup (8 PTS) (Rubio 5 AST),52-40,52,40
+0021900839,2020-02-22,CHI,PHX,22.32,2,1,41,CHI,CHI,fg_miss,6,False,False,MISS White 2' Driving Layup,,52-40,52,40
+0021900839,2020-02-22,CHI,PHX,22.37,2,1,38,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:2 Def:1),,52-40,52,40
+0021900839,2020-02-22,CHI,PHX,22.37,2,1,38,CHI,CHI,fg_make,107,False,False,Gafford 1' Tip Dunk Shot (6 PTS),,54-40,54,40
+0021900839,2020-02-22,CHI,PHX,22.63,2,1,22,PHX,PHX,fg3_make,1,False,False,,Booker 29' 3PT Jump Shot (10 PTS) (Rubio 6 AST),54-43,54,43
+0021900839,2020-02-22,CHI,PHX,22.95,2,1,3,CHI,CHI,fg_miss,101,False,False,MISS Satoransky 4' Driving Floating Jump Shot,,54-43,54,43
+0021900839,2020-02-22,CHI,PHX,22.97,2,1,2,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:0 Def:3),54-43,54,43
+0021900839,2020-02-22,CHI,PHX,22.97,2,1,2,PHX,CHI,foul,1,False,False,Gafford P.FOUL (P2.PN) (J.Orr),,54-43,54,43
+0021900839,2020-02-22,CHI,PHX,22.97,2,1,2,PHX,PHX,ft_make,11,False,False,,Rubio Free Throw 1 of 2 (11 PTS),54-44,54,44
+0021900839,2020-02-22,CHI,PHX,22.97,2,1,2,PHX,PHX,ft_make,12,False,False,,Rubio Free Throw 2 of 2 (12 PTS),54-45,54,45
+0021900839,2020-02-22,CHI,PHX,23.25,2,0,45,CHI,CHI,fg3_miss,1,False,False,MISS White 3PT Jump Shot,,54-45,54,45
+0021900839,2020-02-22,CHI,PHX,23.3,2,0,42,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:0 Def:5),54-45,54,45
+0021900839,2020-02-22,CHI,PHX,23.35,2,0,39,PHX,CHI,foul,2,False,False,Satoransky S.FOUL (P2.PN) (J.Orr),,54-45,54,45
+0021900839,2020-02-22,CHI,PHX,23.35,2,0,39,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (11 PTS),54-46,54,46
+0021900839,2020-02-22,CHI,PHX,23.35,2,0,39,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (12 PTS),54-47,54,47
+0021900839,2020-02-22,CHI,PHX,23.43,2,0,34,CHI,CHI,fg3_make,103,False,False,LaVine 28' 3PT Running Pull-Up Jump Shot (14 PTS),,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,23.82,2,0,11,PHX,PHX,tov,2,False,True,,Ayton Lost Ball Turnover (P6.T16),57-47,57,47
+0021900839,2020-02-22,CHI,PHX,23.82,2,0,11,PHX,CHI,steal,2,False,True,steal,steal,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,23.97,2,0,2,CHI,CHI,tov,1,False,True,Satoransky Bad Pass Turnover (P2.T11),,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,23.97,2,0,2,CHI,PHX,steal,1,False,True,steal,steal,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.0,2,0,0,CHI,,period_end,0,False,False,,,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.0,3,12,0,CHI,,period_start,0,False,False,,,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.27,3,11,44,PHX,PHX,fg_miss,101,False,False,,MISS Booker 12' Driving Floating Jump Shot,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.32,3,11,41,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:5),57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.32,3,11,41,PHX,PHX,fg_miss,97,False,False,,MISS Ayton 1' Tip Layup Shot,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.33,3,11,40,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:5),57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.33,3,11,40,PHX,PHX,fg_miss,72,False,False,,MISS Ayton 1' Putback Layup,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.35,3,11,39,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:2 Def:2),,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.67,3,11,20,CHI,CHI,fg_miss,6,True,False,MISS Arcidiacono 2' Driving Layup,,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.67,3,11,20,CHI,PHX,block,6,True,False,block,block,57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.72,3,11,17,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:3),57-47,57,47
+0021900839,2020-02-22,CHI,PHX,24.75,3,11,15,PHX,PHX,fg_make,98,False,False,,Oubre Jr. 1' Cutting Layup Shot (11 PTS) (Booker 3 AST),57-49,57,49
+0021900839,2020-02-22,CHI,PHX,25.07,3,10,56,CHI,CHI,tov,1,False,True,LaVine Bad Pass Turnover (P3.T12),,57-49,57,49
+0021900839,2020-02-22,CHI,PHX,25.07,3,10,56,CHI,PHX,steal,1,False,True,steal,steal,57-49,57,49
+0021900839,2020-02-22,CHI,PHX,25.22,3,10,47,PHX,PHX,fg_make,5,False,False,,Ayton 1' Layup (10 PTS) (Rubio 7 AST),57-51,57,51
+0021900839,2020-02-22,CHI,PHX,25.47,3,10,32,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 27' 3PT Jump Shot,,57-51,57,51
+0021900839,2020-02-22,CHI,PHX,25.52,3,10,29,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:6),57-51,57,51
+0021900839,2020-02-22,CHI,PHX,25.67,3,10,20,PHX,PHX,fg_miss,98,False,False,,MISS Ayton 1' Cutting Layup Shot,57-51,57,51
+0021900839,2020-02-22,CHI,PHX,25.72,3,10,17,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:6),57-51,57,51
+0021900839,2020-02-22,CHI,PHX,25.72,3,10,17,PHX,PHX,fg_make,97,False,False,,Ayton 1' Tip Layup Shot (12 PTS),57-53,57,53
+0021900839,2020-02-22,CHI,PHX,25.75,3,10,15,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.05,3,9,57,CHI,CHI,fg_miss,63,False,False,MISS Satoransky 17' Fadeaway Jumper,,57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.1,3,9,54,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:0 Def:4),57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.18,3,9,49,PHX,PHX,fg_miss,73,False,False,,MISS Rubio 2' Driving Reverse Layup,57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.22,3,9,47,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:2 Def:3),,57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.5,3,9,30,CHI,CHI,fg_miss,101,False,False,MISS Young 5' Driving Floating Jump Shot,,57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.55,3,9,27,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:1 Def:3),,57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.57,3,9,26,CHI,PHX,foul,1,False,False,,Rubio P.FOUL (P1.T1) (R.Acosta),57-53,57,53
+0021900839,2020-02-22,CHI,PHX,26.8,3,9,12,CHI,CHI,tov,11,False,False,BULLS Turnover: Shot Clock (T#13),,57-53,57,53
+0021900839,2020-02-22,CHI,PHX,27.0,3,9,0,PHX,PHX,fg_make,79,False,False,,Booker 12' Pullup Jump Shot (14 PTS) (Ayton 1 AST),57-55,57,55
+0021900839,2020-02-22,CHI,PHX,27.22,3,8,47,CHI,CHI,fg3_miss,1,False,False,MISS Satoransky 24' 3PT Jump Shot,,57-55,57,55
+0021900839,2020-02-22,CHI,PHX,27.28,3,8,43,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:0 Def:5),57-55,57,55
+0021900839,2020-02-22,CHI,PHX,27.35,3,8,39,PHX,PHX,fg3_make,1,False,False,,Booker 26' 3PT Jump Shot (17 PTS) (Rubio 8 AST),57-58,57,58
+0021900839,2020-02-22,CHI,PHX,27.7,3,8,18,CHI,CHI,fg3_miss,1,False,False,MISS Arcidiacono 3PT Jump Shot,,57-58,57,58
+0021900839,2020-02-22,CHI,PHX,27.75,3,8,15,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:4),57-58,57,58
+0021900839,2020-02-22,CHI,PHX,27.85,3,8,9,PHX,CHI,foul,1,False,False,Arcidiacono P.FOUL (P1.T1) (R.Acosta),,57-58,57,58
+0021900839,2020-02-22,CHI,PHX,27.93,3,8,4,PHX,CHI,foul,2,False,False,Young S.FOUL (P2.T2) (B.Forte),,57-58,57,58
+0021900839,2020-02-22,CHI,PHX,27.93,3,8,4,PHX,PHX,ft_make,11,False,False,,Ayton Free Throw 1 of 2 (13 PTS),57-59,57,59
+0021900839,2020-02-22,CHI,PHX,27.93,3,8,4,PHX,PHX,ft_make,12,False,False,,Ayton Free Throw 2 of 2 (14 PTS),57-60,57,60
+0021900839,2020-02-22,CHI,PHX,28.23,3,7,46,CHI,CHI,tov,2,False,True,LaVine Lost Ball Turnover (P4.T14),,57-60,57,60
+0021900839,2020-02-22,CHI,PHX,28.23,3,7,46,CHI,PHX,steal,2,False,True,steal,steal,57-60,57,60
+0021900839,2020-02-22,CHI,PHX,28.33,3,7,40,PHX,PHX,fg3_miss,1,False,False,,MISS Rubio 25' 3PT Jump Shot,57-60,57,60
+0021900839,2020-02-22,CHI,PHX,28.38,3,7,37,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:3 Def:1),,57-60,57,60
+0021900839,2020-02-22,CHI,PHX,28.67,3,7,20,CHI,CHI,fg3_make,1,False,False,Young 3PT Jump Shot (11 PTS) (White 2 AST),,60-60,60,60
+0021900839,2020-02-22,CHI,PHX,28.9,3,7,6,PHX,CHI,foul,2,False,False,Arcidiacono S.FOUL (P2.T3) (J.Orr),,60-60,60,60
+0021900839,2020-02-22,CHI,PHX,28.9,3,7,6,PHX,PHX,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (12 PTS),60-61,60,61
+0021900839,2020-02-22,CHI,PHX,28.9,3,7,6,PHX,PHX,ft_miss,12,False,False,,MISS Oubre Jr. Free Throw 2 of 2,60-61,60,61
+0021900839,2020-02-22,CHI,PHX,28.95,3,7,3,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:3),60-61,60,61
+0021900839,2020-02-22,CHI,PHX,28.97,3,7,2,PHX,PHX,fg_make,72,False,False,,Bridges 1' Putback Layup (4 PTS),60-63,60,63
+0021900839,2020-02-22,CHI,PHX,29.22,3,6,47,CHI,CHI,fg_miss,6,True,False,MISS White 2' Driving Layup,,60-63,60,63
+0021900839,2020-02-22,CHI,PHX,29.22,3,6,47,CHI,PHX,block,6,True,False,block,block,60-63,60,63
+0021900839,2020-02-22,CHI,PHX,29.22,3,6,47,CHI,CHI,reb,0,False,False,BULLS Rebound,,60-63,60,63
+0021900839,2020-02-22,CHI,PHX,29.25,3,6,45,CHI,CHI,tov,13,False,False,Arcidiacono Backcourt Turnover (P3.T15),,60-63,60,63
+0021900839,2020-02-22,CHI,PHX,29.47,3,6,32,PHX,PHX,fg_make,6,False,False,,Rubio 2' Driving Layup (14 PTS) (Booker 4 AST),60-65,60,65
+0021900839,2020-02-22,CHI,PHX,29.5,3,6,30,CHI,PHX,foul,1,False,False,,Oubre Jr. P.FOUL (P1.T2) (B.Forte),60-65,60,65
+0021900839,2020-02-22,CHI,PHX,29.73,3,6,16,CHI,CHI,fg_miss,6,True,False,MISS LaVine 6' Driving Layup,,60-65,60,65
+0021900839,2020-02-22,CHI,PHX,29.73,3,6,16,CHI,PHX,block,6,True,False,block,block,60-65,60,65
+0021900839,2020-02-22,CHI,PHX,29.73,3,6,16,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:7),60-65,60,65
+0021900839,2020-02-22,CHI,PHX,29.82,3,6,11,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 25' 3PT Jump Shot,60-65,60,65
+0021900839,2020-02-22,CHI,PHX,29.87,3,6,8,CHI,CHI,reb,0,False,False,Harrison REBOUND (Off:0 Def:1),,60-65,60,65
+0021900839,2020-02-22,CHI,PHX,29.95,3,6,3,CHI,CHI,fg_make,108,False,False,Young 1' Cutting Dunk Shot (13 PTS) (LaVine 3 AST),,62-65,62,65
+0021900839,2020-02-22,CHI,PHX,30.2,3,5,48,PHX,PHX,fg_miss,1,False,False,,MISS Oubre Jr. 8' Jump Shot,62-65,62,65
+0021900839,2020-02-22,CHI,PHX,30.2,3,5,48,CHI,CHI,reb,0,False,False,BULLS Rebound,,62-65,62,65
+0021900839,2020-02-22,CHI,PHX,30.22,3,5,47,CHI,PHX,foul,3,False,False,,Oubre Jr. L.B.FOUL (P2.T3) (R.Acosta),62-65,62,65
+0021900839,2020-02-22,CHI,PHX,30.42,3,5,35,CHI,CHI,fg_make,98,False,False,Felicio 2' Cutting Layup Shot (6 PTS) (LaVine 4 AST),,64-65,64,65
+0021900839,2020-02-22,CHI,PHX,30.68,3,5,19,PHX,PHX,fg_miss,5,True,False,,MISS Oubre Jr. 1' Layup,64-65,64,65
+0021900839,2020-02-22,CHI,PHX,30.68,3,5,19,PHX,CHI,block,5,True,False,block,block,64-65,64,65
+0021900839,2020-02-22,CHI,PHX,30.68,3,5,19,PHX,PHX,reb,0,False,False,,Suns Rebound,64-65,64,65
+0021900839,2020-02-22,CHI,PHX,30.85,3,5,9,PHX,PHX,fg_make,47,False,False,,Ayton 9' Turnaround Jump Shot (16 PTS) (Okobo 1 AST),64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.12,3,4,53,CHI,CHI,fg_miss,5,True,False,MISS LaVine 2' Layup,,64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.12,3,4,53,CHI,PHX,block,5,True,False,block,block,64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.17,3,4,50,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:8),64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.23,3,4,46,PHX,PHX,tov,2,False,True,,Booker Lost Ball Turnover (P4.T17),64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.23,3,4,46,PHX,CHI,steal,2,False,True,steal,steal,64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.23,3,4,46,CHI,PHX,foul,28,False,False,,Bridges Personal Take Foul (P2.T4) (B.Forte),64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.42,3,4,35,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 28' 3PT Jump Shot,,64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.45,3,4,33,PHX,PHX,reb,0,False,False,,Suns Rebound,64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.45,3,4,33,PHX,CHI,foul,3,False,False,Felicio L.B.FOUL (P1.T4) (J.Orr),,64-67,64,67
+0021900839,2020-02-22,CHI,PHX,31.58,3,4,25,PHX,PHX,fg3_make,1,False,False,,Booker 25' 3PT Jump Shot (20 PTS) (Okobo 2 AST),64-70,64,70
+0021900839,2020-02-22,CHI,PHX,31.8,3,4,12,CHI,CHI,fg3_make,1,False,False,White 27' 3PT Jump Shot (18 PTS),,67-70,67,70
+0021900839,2020-02-22,CHI,PHX,31.97,3,4,2,CHI,PHX,foul,26,False,False,,Booker Offensive Charge Foul (P2.PN) (B.Forte),67-70,67,70
+0021900839,2020-02-22,CHI,PHX,31.97,3,4,2,PHX,PHX,tov,37,False,False,,Booker Offensive Foul Turnover (P5.T18),67-70,67,70
+0021900839,2020-02-22,CHI,PHX,32.2,3,3,48,CHI,PHX,foul,2,False,False,,Baynes S.FOUL (P3.PN) (R.Acosta),67-70,67,70
+0021900839,2020-02-22,CHI,PHX,32.2,3,3,48,CHI,CHI,ft_make,11,False,False,Harrison Free Throw 1 of 2 (3 PTS),,68-70,68,70
+0021900839,2020-02-22,CHI,PHX,32.2,3,3,48,CHI,CHI,ft_make,12,False,False,Harrison Free Throw 2 of 2 (4 PTS),,69-70,69,70
+0021900839,2020-02-22,CHI,PHX,32.43,3,3,34,PHX,CHI,foul,2,False,False,Harrison S.FOUL (P3.PN) (R.Acosta),,69-70,69,70
+0021900839,2020-02-22,CHI,PHX,32.43,3,3,34,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (21 PTS),69-71,69,71
+0021900839,2020-02-22,CHI,PHX,32.43,3,3,34,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (22 PTS),69-72,69,72
+0021900839,2020-02-22,CHI,PHX,32.62,3,3,23,CHI,CHI,fg3_make,1,False,False,White 25' 3PT Jump Shot (21 PTS) (LaVine 5 AST),,72-72,72,72
+0021900839,2020-02-22,CHI,PHX,32.92,3,3,5,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 3PT Jump Shot,72-72,72,72
+0021900839,2020-02-22,CHI,PHX,32.97,3,3,2,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:3),,72-72,72,72
+0021900839,2020-02-22,CHI,PHX,33.07,3,2,56,CHI,CHI,fg3_miss,1,False,False,MISS Harrison 25' 3PT Jump Shot,,72-72,72,72
+0021900839,2020-02-22,CHI,PHX,33.12,3,2,53,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:4 Def:1),,72-72,72,72
+0021900839,2020-02-22,CHI,PHX,33.13,3,2,52,CHI,CHI,fg3_make,1,False,False,White 27' 3PT Jump Shot (24 PTS) (Felicio 2 AST),,75-72,75,72
+0021900839,2020-02-22,CHI,PHX,33.32,3,2,41,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.4 Short 0),75-72,75,72
+0021900839,2020-02-22,CHI,PHX,33.52,3,2,29,PHX,PHX,fg3_make,1,False,False,,Johnson 3PT Jump Shot (3 PTS) (Okobo 3 AST),75-75,75,75
+0021900839,2020-02-22,CHI,PHX,33.95,3,2,3,CHI,CHI,tov,8,False,False,Felicio 3 Second Violation Turnover (P3.T16),,75-75,75,75
+0021900839,2020-02-22,CHI,PHX,34.32,3,1,41,PHX,PHX,fg_miss,79,False,False,,MISS Booker 17' Pullup Jump Shot,75-75,75,75
+0021900839,2020-02-22,CHI,PHX,34.35,3,1,39,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:4 Def:1),75-75,75,75
+0021900839,2020-02-22,CHI,PHX,34.35,3,1,39,PHX,PHX,fg_miss,97,False,False,,MISS Oubre Jr. 1' Tip Layup Shot,75-75,75,75
+0021900839,2020-02-22,CHI,PHX,34.35,3,1,39,CHI,CHI,reb,0,False,False,BULLS Rebound,,75-75,75,75
+0021900839,2020-02-22,CHI,PHX,34.55,3,1,27,CHI,CHI,fg_make,108,False,False,Felicio 1' Cutting Dunk Shot (8 PTS) (Arcidiacono 3 AST),,77-75,77,75
+0021900839,2020-02-22,CHI,PHX,34.78,3,1,13,PHX,PHX,fg3_miss,1,False,False,,MISS Baynes 25' 3PT Jump Shot,77-75,77,75
+0021900839,2020-02-22,CHI,PHX,34.82,3,1,11,CHI,CHI,reb,0,False,False,Harrison REBOUND (Off:0 Def:2),,77-75,77,75
+0021900839,2020-02-22,CHI,PHX,34.92,3,1,5,CHI,CHI,fg3_miss,1,False,False,MISS White 27' 3PT Jump Shot,,77-75,77,75
+0021900839,2020-02-22,CHI,PHX,34.97,3,1,2,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:4),77-75,77,75
+0021900839,2020-02-22,CHI,PHX,35.05,3,0,57,PHX,CHI,foul,1,False,False,Mokoka P.FOUL (P3.PN) (J.Orr),,77-75,77,75
+0021900839,2020-02-22,CHI,PHX,35.05,3,0,57,PHX,PHX,ft_make,11,False,False,,Bridges Free Throw 1 of 2 (5 PTS),77-76,77,76
+0021900839,2020-02-22,CHI,PHX,35.05,3,0,57,PHX,PHX,ft_make,12,False,False,,Bridges Free Throw 2 of 2 (6 PTS),77-77,77,77
+0021900839,2020-02-22,CHI,PHX,35.25,3,0,45,CHI,CHI,fg_make,79,False,False,Arcidiacono 8' Pullup Jump Shot (10 PTS),,79-77,79,77
+0021900839,2020-02-22,CHI,PHX,35.32,3,0,41,PHX,CHI,foul,1,False,False,Harrison P.FOUL (P4.PN) (B.Forte),,79-77,79,77
+0021900839,2020-02-22,CHI,PHX,35.32,3,0,41,PHX,PHX,ft_miss,11,False,False,,MISS Rubio Free Throw 1 of 2,79-77,79,77
+0021900839,2020-02-22,CHI,PHX,35.32,3,0,41,PHX,PHX,reb,1,False,False,,Suns Rebound,79-77,79,77
+0021900839,2020-02-22,CHI,PHX,35.32,3,0,41,PHX,PHX,ft_make,12,False,False,,Rubio Free Throw 2 of 2 (15 PTS),79-78,79,78
+0021900839,2020-02-22,CHI,PHX,35.42,3,0,35,CHI,PHX,foul,1,False,False,,Baynes P.FOUL (P4.PN) (B.Forte),79-78,79,78
+0021900839,2020-02-22,CHI,PHX,35.42,3,0,35,CHI,CHI,ft_miss,11,False,False,MISS Arcidiacono Free Throw 1 of 2,,79-78,79,78
+0021900839,2020-02-22,CHI,PHX,35.42,3,0,35,CHI,CHI,reb,1,False,False,BULLS Rebound,,79-78,79,78
+0021900839,2020-02-22,CHI,PHX,35.42,3,0,35,CHI,CHI,ft_make,12,False,False,Arcidiacono Free Throw 2 of 2 (11 PTS),,80-78,80,78
+0021900839,2020-02-22,CHI,PHX,35.57,3,0,26,PHX,PHX,fg3_make,1,False,False,,Booker 25' 3PT Jump Shot (25 PTS) (Rubio 9 AST),80-81,80,81
+0021900839,2020-02-22,CHI,PHX,35.9,3,0,6,CHI,CHI,tov,40,False,False,LaVine Out of Bounds Lost Ball Turnover (P5.T17),,80-81,80,81
+0021900839,2020-02-22,CHI,PHX,35.98,3,0,1,PHX,PHX,fg_miss,79,False,False,,MISS Booker 11' Pullup Jump Shot,80-81,80,81
+0021900839,2020-02-22,CHI,PHX,36.0,3,0,0,PHX,PHX,reb,0,False,False,,Johnson REBOUND (Off:1 Def:0),80-81,80,81
+0021900839,2020-02-22,CHI,PHX,36.0,3,0,0,PHX,CHI,foul,2,False,False,White S.FOUL (P3.PN) (J.Orr),,80-81,80,81
+0021900839,2020-02-22,CHI,PHX,36.0,3,0,0,PHX,PHX,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (4 PTS),80-82,80,82
+0021900839,2020-02-22,CHI,PHX,36.0,3,0,0,PHX,PHX,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (5 PTS),80-83,80,83
+0021900839,2020-02-22,CHI,PHX,36.0,3,0,0,PHX,,period_end,0,False,False,,,80-83,80,83
+0021900839,2020-02-22,CHI,PHX,36.0,4,12,0,PHX,,period_start,0,False,False,,,80-83,80,83
+0021900839,2020-02-22,CHI,PHX,36.17,4,11,50,CHI,PHX,foul,2,False,False,,Ayton S.FOUL (P2.T1) (R.Acosta),80-83,80,83
+0021900839,2020-02-22,CHI,PHX,36.17,4,11,50,CHI,CHI,ft_make,11,False,False,Gafford Free Throw 1 of 2 (7 PTS),,81-83,81,83
+0021900839,2020-02-22,CHI,PHX,36.17,4,11,50,CHI,CHI,ft_miss,12,False,False,MISS Gafford Free Throw 2 of 2,,81-83,81,83
+0021900839,2020-02-22,CHI,PHX,36.22,4,11,47,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:0 Def:6),81-83,81,83
+0021900839,2020-02-22,CHI,PHX,36.4,4,11,36,PHX,CHI,foul,1,False,False,Arcidiacono P.FOUL (P3.T1) (R.Acosta),,81-83,81,83
+0021900839,2020-02-22,CHI,PHX,36.5,4,11,30,PHX,CHI,foul,1,False,False,Gafford P.FOUL (P3.T2) (B.Forte),,81-83,81,83
+0021900839,2020-02-22,CHI,PHX,36.65,4,11,21,PHX,PHX,tov,1,False,True,,Rubio Bad Pass Turnover (P3.T19),81-83,81,83
+0021900839,2020-02-22,CHI,PHX,36.65,4,11,21,PHX,CHI,steal,1,False,True,steal,steal,81-83,81,83
+0021900839,2020-02-22,CHI,PHX,36.68,4,11,19,CHI,CHI,fg_make,41,False,False,White 1' Running Layup (26 PTS),,83-83,83,83
+0021900839,2020-02-22,CHI,PHX,36.68,4,11,19,CHI,PHX,foul,2,False,False,,Bridges S.FOUL (P3.T2) (J.Orr),83-83,83,83
+0021900839,2020-02-22,CHI,PHX,36.68,4,11,19,CHI,CHI,ft_make,10,False,False,White Free Throw 1 of 1 (27 PTS),,84-83,84,83
+0021900839,2020-02-22,CHI,PHX,36.95,4,11,3,PHX,PHX,fg_miss,5,False,False,,MISS Ayton 1' Layup,84-83,84,83
+0021900839,2020-02-22,CHI,PHX,37.0,4,11,0,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:8),84-83,84,83
+0021900839,2020-02-22,CHI,PHX,37.0,4,11,0,PHX,PHX,fg_miss,72,False,False,,MISS Ayton 1' Putback Layup,84-83,84,83
+0021900839,2020-02-22,CHI,PHX,37.03,4,10,58,CHI,CHI,reb,0,False,False,Harrison REBOUND (Off:0 Def:3),,84-83,84,83
+0021900839,2020-02-22,CHI,PHX,37.23,4,10,46,CHI,CHI,fg3_make,79,False,False,White 25' 3PT Pullup Jump Shot (30 PTS),,87-83,87,83
+0021900839,2020-02-22,CHI,PHX,37.48,4,10,31,PHX,PHX,fg3_make,1,False,False,,Johnson 3PT Jump Shot (8 PTS) (Rubio 10 AST),87-86,87,86
+0021900839,2020-02-22,CHI,PHX,37.57,4,10,26,CHI,PHX,foul,1,False,False,,Carter P.FOUL (P1.T3) (J.Orr),87-86,87,86
+0021900839,2020-02-22,CHI,PHX,37.83,4,10,10,CHI,CHI,fg_make,6,False,False,Harrison 2' Driving Layup (6 PTS) (Gafford 1 AST),,89-86,89,86
+0021900839,2020-02-22,CHI,PHX,38.08,4,9,55,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,89-86,89,86
+0021900839,2020-02-22,CHI,PHX,38.15,4,9,51,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:5 Def:8),89-86,89,86
+0021900839,2020-02-22,CHI,PHX,38.15,4,9,51,PHX,PHX,fg_make,97,False,False,,Ayton 1' Tip Layup Shot (18 PTS),89-88,89,88
+0021900839,2020-02-22,CHI,PHX,38.23,4,9,46,CHI,CHI,tov,2,False,True,White Lost Ball Turnover (P3.T18),,89-88,89,88
+0021900839,2020-02-22,CHI,PHX,38.23,4,9,46,CHI,PHX,steal,2,False,True,steal,steal,89-88,89,88
+0021900839,2020-02-22,CHI,PHX,38.32,4,9,41,PHX,PHX,fg_make,41,False,False,,Rubio Running Layup (17 PTS),89-90,89,90
+0021900839,2020-02-22,CHI,PHX,38.62,4,9,23,CHI,CHI,fg3_make,1,False,False,White 26' 3PT Jump Shot (33 PTS) (Harrison 1 AST),,92-90,92,90
+0021900839,2020-02-22,CHI,PHX,39.1,4,8,54,PHX,PHX,fg_miss,102,False,False,,MISS Rubio 8' Driving Floating Bank Jump Shot,92-90,92,90
+0021900839,2020-02-22,CHI,PHX,39.13,4,8,52,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:0 Def:4),,92-90,92,90
+0021900839,2020-02-22,CHI,PHX,39.18,4,8,49,CHI,CHI,fg_make,73,False,False,Harrison 2' Driving Reverse Layup (8 PTS) (Mokoka 1 AST),,94-90,94,90
+0021900839,2020-02-22,CHI,PHX,39.48,4,8,31,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,94-90,94,90
+0021900839,2020-02-22,CHI,PHX,39.53,4,8,28,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:6 Def:8),94-90,94,90
+0021900839,2020-02-22,CHI,PHX,39.53,4,8,28,PHX,PHX,fg_make,72,False,False,,Ayton 1' Putback Layup (20 PTS),94-92,94,92
+0021900839,2020-02-22,CHI,PHX,39.53,4,8,28,PHX,CHI,foul,2,False,False,Gafford S.FOUL (P4.T3) (J.Orr),,94-92,94,92
+0021900839,2020-02-22,CHI,PHX,39.53,4,8,28,PHX,PHX,ft_make,10,False,False,,Ayton Free Throw 1 of 1 (21 PTS),94-93,94,93
+0021900839,2020-02-22,CHI,PHX,39.72,4,8,17,PHX,CHI,foul,4,False,False,White OFF.Foul (P4) (B.Forte),,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,39.72,4,8,17,CHI,CHI,tov,37,False,False,White Offensive Foul Turnover (P4.T19),,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,40.0,4,8,0,PHX,PHX,fg3_miss,1,True,False,,MISS Oubre Jr. 24' 3PT Jump Shot,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,40.0,4,8,0,PHX,CHI,block,1,True,False,block,block,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,40.07,4,7,56,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:4 Def:2),,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,40.35,4,7,39,CHI,CHI,fg_miss,6,False,False,MISS White 3' Driving Layup,,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,40.35,4,7,39,CHI,CHI,reb,0,False,False,BULLS Rebound,,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,40.48,4,7,31,CHI,CHI,tov,40,False,False,Felicio Out of Bounds Lost Ball Turnover (P4.T20),,94-93,94,93
+0021900839,2020-02-22,CHI,PHX,40.85,4,7,9,PHX,PHX,fg_make,86,False,False,,Ayton 11' Turnaround Fadeaway (23 PTS) (Oubre Jr. 3 AST),94-95,94,95
+0021900839,2020-02-22,CHI,PHX,41.0,4,7,0,CHI,PHX,foul,1,False,False,,Johnson P.FOUL (P2.T4) (R.Acosta),94-95,94,95
+0021900839,2020-02-22,CHI,PHX,41.13,4,6,52,CHI,CHI,fg3_miss,1,False,False,MISS Arcidiacono 26' 3PT Jump Shot,,94-95,94,95
+0021900839,2020-02-22,CHI,PHX,41.2,4,6,48,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:2 Def:3),,94-95,94,95
+0021900839,2020-02-22,CHI,PHX,41.23,4,6,46,CHI,CHI,fg_miss,72,False,False,MISS Satoransky 2' Putback Layup,,94-95,94,95
+0021900839,2020-02-22,CHI,PHX,41.3,4,6,42,CHI,CHI,reb,0,False,False,Mokoka REBOUND (Off:1 Def:0),,94-95,94,95
+0021900839,2020-02-22,CHI,PHX,41.3,4,6,42,CHI,CHI,fg_make,97,False,False,Mokoka 1' Tip Layup Shot (2 PTS),,96-95,96,95
+0021900839,2020-02-22,CHI,PHX,41.5,4,6,30,PHX,PHX,fg3_make,1,False,False,,Johnson 3PT Jump Shot (11 PTS) (Booker 5 AST),96-98,96,98
+0021900839,2020-02-22,CHI,PHX,41.67,4,6,20,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,41.97,4,6,2,CHI,CHI,fg3_miss,1,False,False,MISS Arcidiacono 26' 3PT Jump Shot,,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.0,4,6,0,PHX,PHX,reb,0,False,False,,Suns Rebound,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.0,4,6,0,PHX,CHI,foul,3,False,False,Satoransky L.B.FOUL (P3.T4) (R.Acosta),,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.2,4,5,48,PHX,PHX,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.25,4,5,45,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:7 Def:8),96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.28,4,5,43,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 25' 3PT Jump Shot,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.38,4,5,37,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:2 Def:4),,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.45,4,5,33,CHI,CHI,tov,2,False,True,Satoransky Lost Ball Turnover (P3.T21),,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.45,4,5,33,CHI,PHX,steal,2,False,True,steal,steal,96-98,96,98
+0021900839,2020-02-22,CHI,PHX,42.53,4,5,28,PHX,PHX,fg_make,50,False,False,,Oubre Jr. 2' Running Dunk (14 PTS),96-100,96,100
+0021900839,2020-02-22,CHI,PHX,42.83,4,5,10,CHI,CHI,fg_make,9,False,False,LaVine 1' Driving Dunk (16 PTS),,98-100,98,100
+0021900839,2020-02-22,CHI,PHX,43.12,4,4,53,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 30' 3PT Jump Shot,98-100,98,100
+0021900839,2020-02-22,CHI,PHX,43.17,4,4,50,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:8 Def:8),98-100,98,100
+0021900839,2020-02-22,CHI,PHX,43.18,4,4,49,PHX,PHX,fg_make,72,False,False,,Ayton 1' Putback Layup (25 PTS),98-102,98,102
+0021900839,2020-02-22,CHI,PHX,43.53,4,4,28,CHI,CHI,fg3_miss,79,False,False,MISS LaVine 28' 3PT Pullup Jump Shot,,98-102,98,102
+0021900839,2020-02-22,CHI,PHX,43.6,4,4,24,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:5),98-102,98,102
+0021900839,2020-02-22,CHI,PHX,43.7,4,4,18,PHX,PHX,fg_miss,6,False,False,,MISS Johnson 2' Driving Layup,98-102,98,102
+0021900839,2020-02-22,CHI,PHX,43.75,4,4,15,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:9 Def:8),98-102,98,102
+0021900839,2020-02-22,CHI,PHX,43.75,4,4,15,PHX,PHX,fg_make,97,False,False,,Ayton 1' Tip Layup Shot (27 PTS),98-104,98,104
+0021900839,2020-02-22,CHI,PHX,43.92,4,4,5,CHI,CHI,tov,45,False,False,LaVine Out of Bounds - Bad Pass Turnover Turnover (P6.T22),,98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.1,4,3,54,PHX,PHX,fg_miss,101,False,False,,MISS Booker 8' Driving Floating Jump Shot,98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.17,4,3,50,CHI,CHI,reb,0,False,False,Young REBOUND (Off:2 Def:3),,98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.35,4,3,39,CHI,CHI,tov,45,False,False,LaVine Out of Bounds - Bad Pass Turnover Turnover (P7.T23),,98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.35,4,3,39,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.5 Short 0),98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.55,4,3,27,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 25' 3PT Jump Shot,98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.6,4,3,24,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:0 Def:5),,98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.82,4,3,11,CHI,CHI,fg_miss,6,False,False,MISS LaVine 1' Driving Layup,,98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.83,4,3,10,PHX,PHX,reb,0,False,False,,Rubio REBOUND (Off:0 Def:7),98-104,98,104
+0021900839,2020-02-22,CHI,PHX,44.9,4,3,6,PHX,PHX,fg_make,6,False,False,,Booker 1' Driving Layup (27 PTS) (Rubio 11 AST),98-106,98,106
+0021900839,2020-02-22,CHI,PHX,44.92,4,3,5,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 5 Short 0),,98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.07,4,2,56,CHI,CHI,tov,45,False,False,White Out of Bounds - Bad Pass Turnover Turnover (P5.T24),,98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.28,4,2,43,PHX,PHX,fg_miss,6,True,False,,MISS Oubre Jr. 3' Driving Layup,98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.28,4,2,43,PHX,CHI,block,6,True,False,block,block,98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.28,4,2,43,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:10 Def:8),98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.28,4,2,43,PHX,CHI,foul,2,False,False,Young S.FOUL (P3.PN) (R.Acosta),,98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.28,4,2,43,PHX,PHX,ft_miss,11,False,False,,MISS Ayton Free Throw 1 of 2,98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.28,4,2,43,PHX,PHX,reb,1,False,False,,Suns Rebound,98-106,98,106
+0021900839,2020-02-22,CHI,PHX,45.28,4,2,43,PHX,PHX,ft_make,12,False,False,,Ayton Free Throw 2 of 2 (28 PTS),98-107,98,107
+0021900839,2020-02-22,CHI,PHX,45.43,4,2,34,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (18 PTS),,100-107,100,107
+0021900839,2020-02-22,CHI,PHX,45.65,4,2,21,CHI,PHX,foul,4,False,False,,Ayton OFF.Foul (P3) (J.Orr),100-107,100,107
+0021900839,2020-02-22,CHI,PHX,45.65,4,2,21,PHX,PHX,tov,37,False,False,,Ayton Offensive Foul Turnover (P7.T20),100-107,100,107
+0021900839,2020-02-22,CHI,PHX,45.82,4,2,11,CHI,CHI,fg3_miss,1,False,False,MISS White 25' 3PT Jump Shot,,100-107,100,107
+0021900839,2020-02-22,CHI,PHX,45.88,4,2,7,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:10 Def:9),100-107,100,107
+0021900839,2020-02-22,CHI,PHX,46.2,4,1,48,PHX,PHX,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,100-107,100,107
+0021900839,2020-02-22,CHI,PHX,46.22,4,1,47,CHI,CHI,reb,0,False,False,BULLS Rebound,,100-107,100,107
+0021900839,2020-02-22,CHI,PHX,46.45,4,1,33,CHI,CHI,tov,2,False,False,Young Lost Ball Turnover (P2.T25),,100-107,100,107
+0021900839,2020-02-22,CHI,PHX,46.45,4,1,33,PHX,CHI,foul,3,False,False,Young L.B.FOUL (P4.PN) (J.Orr),,100-107,100,107
+0021900839,2020-02-22,CHI,PHX,46.45,4,1,33,PHX,PHX,ft_make,11,False,False,,Bridges Free Throw 1 of 2 (7 PTS),100-108,100,108
+0021900839,2020-02-22,CHI,PHX,46.45,4,1,33,PHX,PHX,ft_make,12,False,False,,Bridges Free Throw 2 of 2 (8 PTS),100-109,100,109
+0021900839,2020-02-22,CHI,PHX,46.8,4,1,12,CHI,CHI,tov,45,False,False,Arcidiacono Out of Bounds - Bad Pass Turnover Turnover (P4.T26),,100-109,100,109
+0021900839,2020-02-22,CHI,PHX,47.2,4,0,48,PHX,PHX,fg3_miss,1,False,False,,MISS Rubio 3PT Jump Shot,100-109,100,109
+0021900839,2020-02-22,CHI,PHX,47.25,4,0,45,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:2 Def:4),100-109,100,109
+0021900839,2020-02-22,CHI,PHX,47.32,4,0,41,PHX,CHI,foul,1,False,False,Arcidiacono P.FOUL (P4.PN) (J.Orr),,100-109,100,109
+0021900839,2020-02-22,CHI,PHX,47.32,4,0,41,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (28 PTS),100-110,100,110
+0021900839,2020-02-22,CHI,PHX,47.32,4,0,41,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (29 PTS),100-111,100,111
+0021900839,2020-02-22,CHI,PHX,47.42,4,0,35,CHI,CHI,fg_make,50,False,False,LaVine Running Dunk (20 PTS),,102-111,102,111
+0021900839,2020-02-22,CHI,PHX,47.5,4,0,30,PHX,CHI,foul,28,False,False,White Personal Take Foul (P5.PN) (B.Forte),,102-111,102,111
+0021900839,2020-02-22,CHI,PHX,47.5,4,0,30,PHX,PHX,ft_miss,11,False,False,,MISS Rubio Free Throw 1 of 2,102-111,102,111
+0021900839,2020-02-22,CHI,PHX,47.5,4,0,30,PHX,PHX,reb,1,False,False,,Suns Rebound,102-111,102,111
+0021900839,2020-02-22,CHI,PHX,47.5,4,0,30,PHX,PHX,ft_make,12,False,False,,Rubio Free Throw 2 of 2 (18 PTS),102-112,102,112
+0021900839,2020-02-22,CHI,PHX,47.5,4,0,30,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 6 Short 0),,102-112,102,112
+0021900839,2020-02-22,CHI,PHX,47.58,4,0,25,CHI,PHX,foul,1,False,False,,Oubre Jr. P.FOUL (P3.PN) (B.Forte),102-112,102,112
+0021900839,2020-02-22,CHI,PHX,47.58,4,0,25,CHI,CHI,ft_make,11,False,False,Arcidiacono Free Throw 1 of 2 (12 PTS),,103-112,103,112
+0021900839,2020-02-22,CHI,PHX,47.58,4,0,25,CHI,CHI,ft_make,12,False,False,Arcidiacono Free Throw 2 of 2 (13 PTS),,104-112,104,112
+0021900839,2020-02-22,CHI,PHX,47.98,4,0,1,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#21),104-112,104,112
+0021900839,2020-02-22,CHI,PHX,48.0,4,0,0,PHX,,period_end,0,False,False,,,104-112,104,112

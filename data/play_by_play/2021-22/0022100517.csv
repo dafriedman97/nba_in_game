@@ -1,0 +1,473 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100517,2021-12-29,IND,CHA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.0,1,12,0,,IND,jump_ball,0,False,False,Jump Ball Turner vs. Plumlee: Tip to Ball,,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.32,1,11,41,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 24' 3PT Jump Shot,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.35,1,11,39,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:0),0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.38,1,11,37,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 24' 3PT Jump Shot,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.43,1,11,34,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:2 Def:0),0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.58,1,11,25,CHA,CHA,reb,0,False,False,,Hornets Rebound,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.58,1,11,25,CHA,IND,block,6,True,False,block,block,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.58,1,11,25,CHA,CHA,fg_miss,6,True,False,,MISS Rozier 5' Driving Layup,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.62,1,11,23,CHA,IND,foul,2,False,False,LeVert S.FOUL (P1.T1) (J.Schroeder),,0-0,0,0
+0022100517,2021-12-29,IND,CHA,0.62,1,11,23,CHA,CHA,ft_make,11,False,False,,Plumlee Free Throw 1 of 2 (1 PTS),0-1,0,1
+0022100517,2021-12-29,IND,CHA,0.62,1,11,23,CHA,CHA,ft_miss,12,False,False,,MISS Plumlee Free Throw 2 of 2,0-1,0,1
+0022100517,2021-12-29,IND,CHA,0.63,1,11,22,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:1),,0-1,0,1
+0022100517,2021-12-29,IND,CHA,0.93,1,11,4,IND,IND,fg_miss,101,False,False,MISS Duarte 12' Driving Floating Jump Shot,,0-1,0,1
+0022100517,2021-12-29,IND,CHA,0.97,1,11,2,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),0-1,0,1
+0022100517,2021-12-29,IND,CHA,1.17,1,10,50,CHA,CHA,tov,2,False,True,,McDaniels Lost Ball Turnover (P1.T1),0-1,0,1
+0022100517,2021-12-29,IND,CHA,1.17,1,10,50,CHA,IND,steal,2,False,True,steal,steal,0-1,0,1
+0022100517,2021-12-29,IND,CHA,1.25,1,10,45,IND,IND,fg_make,76,False,False,Holiday 2' Running Finger Roll Layup (2 PTS) (Duarte 1 AST),,2-1,2,1
+0022100517,2021-12-29,IND,CHA,1.35,1,10,39,CHA,CHA,fg_miss,75,False,False,,MISS Ball 7' Driving Finger Roll Layup,2-1,2,1
+0022100517,2021-12-29,IND,CHA,1.38,1,10,37,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (2 PTS),2-3,2,3
+0022100517,2021-12-29,IND,CHA,1.38,1,10,37,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:0),2-1,2,1
+0022100517,2021-12-29,IND,CHA,1.38,1,10,37,CHA,IND,foul,2,False,False,Turner S.FOUL (P1.T2) (B.Barnaky),,2-1,2,1
+0022100517,2021-12-29,IND,CHA,1.38,1,10,37,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (1 PTS),2-2,2,2
+0022100517,2021-12-29,IND,CHA,1.58,1,10,25,IND,IND,fg3_make,1,False,False,Turner 27' 3PT Jump Shot (3 PTS) (Sabonis 1 AST),,5-3,5,3
+0022100517,2021-12-29,IND,CHA,1.85,1,10,9,CHA,CHA,tov,1,False,True,,Plumlee Bad Pass Turnover (P1.T2),5-3,5,3
+0022100517,2021-12-29,IND,CHA,1.85,1,10,9,CHA,IND,steal,1,False,True,steal,steal,5-3,5,3
+0022100517,2021-12-29,IND,CHA,1.93,1,10,4,IND,IND,tov,2,False,True,Holiday Lost Ball Turnover (P1.T1),,5-3,5,3
+0022100517,2021-12-29,IND,CHA,1.93,1,10,4,IND,CHA,steal,2,False,True,steal,steal,5-3,5,3
+0022100517,2021-12-29,IND,CHA,2.02,1,9,59,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P1.T3),5-3,5,3
+0022100517,2021-12-29,IND,CHA,2.02,1,9,59,CHA,IND,steal,1,False,True,steal,steal,5-3,5,3
+0022100517,2021-12-29,IND,CHA,2.12,1,9,53,IND,IND,fg_make,41,False,False,Sabonis 3' Running Layup (2 PTS),,7-3,7,3
+0022100517,2021-12-29,IND,CHA,2.33,1,9,40,CHA,CHA,fg_make,99,False,False,,Plumlee 4' Cutting Finger Roll Layup Shot (3 PTS) (Ball 1 AST),7-5,7,5
+0022100517,2021-12-29,IND,CHA,2.55,1,9,27,IND,IND,fg_miss,79,False,False,MISS Duarte 23' Pullup Jump Shot,,7-5,7,5
+0022100517,2021-12-29,IND,CHA,2.6,1,9,24,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:1),7-5,7,5
+0022100517,2021-12-29,IND,CHA,2.73,1,9,16,CHA,CHA,fg_make,75,False,False,,Rozier 2' Driving Finger Roll Layup (2 PTS),7-7,7,7
+0022100517,2021-12-29,IND,CHA,2.93,1,9,4,IND,IND,fg3_miss,1,False,False,MISS Turner 24' 3PT Jump Shot,,7-7,7,7
+0022100517,2021-12-29,IND,CHA,2.97,1,9,2,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:2),7-7,7,7
+0022100517,2021-12-29,IND,CHA,3.07,1,8,56,CHA,CHA,fg_miss,103,False,False,,MISS Rozier 5' Running Pull-Up Jump Shot,7-7,7,7
+0022100517,2021-12-29,IND,CHA,3.07,1,8,56,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:0),7-7,7,7
+0022100517,2021-12-29,IND,CHA,3.1,1,8,54,CHA,CHA,fg_make,97,False,False,,McDaniels Tip Layup Shot (2 PTS),7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.1,1,8,54,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 1 Short 0),,7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.32,1,8,41,IND,CHA,steal,1,False,True,steal,steal,7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.32,1,8,41,IND,IND,tov,1,False,True,LeVert Bad Pass Turnover (P1.T2),,7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.38,1,8,37,CHA,CHA,fg3_miss,103,False,False,,MISS Ball 27' 3PT Running Pull-Up Jump Shot,7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.45,1,8,33,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:1),,7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.62,1,8,23,IND,IND,fg3_miss,80,False,False,MISS LeVert 24' 3PT Step Back Jump Shot,,7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.67,1,8,20,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:1),7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.92,1,8,5,CHA,CHA,ft_make,11,False,False,,McDaniels Free Throw 1 of 2 (3 PTS),7-10,7,10
+0022100517,2021-12-29,IND,CHA,3.92,1,8,5,CHA,IND,foul,2,False,False,Sabonis S.FOUL (P1.T3) (B.Barnaky),,7-9,7,9
+0022100517,2021-12-29,IND,CHA,3.92,1,8,5,CHA,CHA,ft_make,12,False,False,,McDaniels Free Throw 2 of 2 (4 PTS),7-11,7,11
+0022100517,2021-12-29,IND,CHA,4.1,1,7,54,IND,IND,fg3_make,79,False,False,LeVert 26' 3PT Pullup Jump Shot (3 PTS),,10-11,10,11
+0022100517,2021-12-29,IND,CHA,4.48,1,7,31,CHA,CHA,fg_make,75,False,False,,Ball 2' Driving Finger Roll Layup (4 PTS),10-13,10,13
+0022100517,2021-12-29,IND,CHA,4.65,1,7,21,IND,IND,fg3_miss,1,False,False,MISS LeVert 27' 3PT Jump Shot,,10-13,10,13
+0022100517,2021-12-29,IND,CHA,4.7,1,7,18,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:2),10-13,10,13
+0022100517,2021-12-29,IND,CHA,4.98,1,7,1,CHA,CHA,fg_make,86,False,False,,McDaniels 7' Turnaround Fadeaway (6 PTS) (Plumlee 1 AST),10-15,10,15
+0022100517,2021-12-29,IND,CHA,5.17,1,6,50,IND,CHA,foul,1,False,False,,Hayward P.FOUL (P1.T1) (M.Lindsay),10-15,10,15
+0022100517,2021-12-29,IND,CHA,5.28,1,6,43,IND,IND,fg3_miss,1,False,False,MISS Turner 27' 3PT Jump Shot,,10-15,10,15
+0022100517,2021-12-29,IND,CHA,5.4,1,6,36,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:1),10-15,10,15
+0022100517,2021-12-29,IND,CHA,5.45,1,6,33,CHA,CHA,fg3_make,103,False,False,,Rozier 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Oubre Jr. 1 AST),10-18,10,18
+0022100517,2021-12-29,IND,CHA,5.67,1,6,20,IND,IND,fg3_miss,1,False,False,MISS Sabonis 25' 3PT Jump Shot,,10-18,10,18
+0022100517,2021-12-29,IND,CHA,5.73,1,6,16,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),10-18,10,18
+0022100517,2021-12-29,IND,CHA,5.78,1,6,13,CHA,CHA,ft_make,14,False,False,,Rozier Free Throw 2 of 3 (6 PTS),10-19,10,19
+0022100517,2021-12-29,IND,CHA,5.78,1,6,13,CHA,CHA,ft_miss,15,False,False,,MISS Rozier Free Throw 3 of 3,10-19,10,19
+0022100517,2021-12-29,IND,CHA,5.78,1,6,13,CHA,CHA,reb,1,False,False,,Hornets Rebound,10-18,10,18
+0022100517,2021-12-29,IND,CHA,5.78,1,6,13,CHA,CHA,ft_miss,13,False,False,,MISS Rozier Free Throw 1 of 3,10-18,10,18
+0022100517,2021-12-29,IND,CHA,5.78,1,6,13,CHA,IND,foul,2,False,False,Duarte S.FOUL (P1.T4) (M.Lindsay),,10-18,10,18
+0022100517,2021-12-29,IND,CHA,5.85,1,6,9,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,10-19,10,19
+0022100517,2021-12-29,IND,CHA,6.0,1,6,0,IND,IND,fg3_make,1,False,False,Holiday 3PT Jump Shot (5 PTS) (Turner 1 AST),,13-19,13,19
+0022100517,2021-12-29,IND,CHA,6.25,1,5,45,CHA,CHA,fg_make,108,False,False,,Richards 1' Cutting Dunk Shot (2 PTS) (Ball 2 AST),13-21,13,21
+0022100517,2021-12-29,IND,CHA,6.53,1,5,28,IND,IND,fg_miss,78,False,False,MISS Brissett 15' Floating Jump Shot,,13-21,13,21
+0022100517,2021-12-29,IND,CHA,6.6,1,5,24,IND,IND,reb,0,False,False,Brissett REBOUND (Off:1 Def:0),,13-21,13,21
+0022100517,2021-12-29,IND,CHA,6.63,1,5,22,IND,IND,fg3_make,1,False,False,Brissett 3PT Jump Shot (3 PTS) (Craig 1 AST),,16-21,16,21
+0022100517,2021-12-29,IND,CHA,6.87,1,5,8,CHA,CHA,fg_make,1,False,False,,Rozier 13' Jump Shot (8 PTS) (Ball 3 AST),16-23,16,23
+0022100517,2021-12-29,IND,CHA,7.02,1,4,59,IND,IND,fg_miss,47,False,False,MISS LeVert 9' Turnaround Jump Shot,,16-23,16,23
+0022100517,2021-12-29,IND,CHA,7.05,1,4,57,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),16-23,16,23
+0022100517,2021-12-29,IND,CHA,7.13,1,4,52,CHA,CHA,fg3_make,2,False,False,,Rozier 24' 3PT Running Jump Shot (11 PTS) (Martin 1 AST),16-26,16,26
+0022100517,2021-12-29,IND,CHA,7.37,1,4,38,IND,IND,fg_miss,79,False,False,MISS Turner 6' Pullup Jump Shot,,16-26,16,26
+0022100517,2021-12-29,IND,CHA,7.42,1,4,35,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:2),16-26,16,26
+0022100517,2021-12-29,IND,CHA,7.53,1,4,28,CHA,CHA,fg_make,80,False,False,,Rozier 19' Step Back Jump Shot (13 PTS),16-28,16,28
+0022100517,2021-12-29,IND,CHA,7.62,1,4,23,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 2 Short 0),,16-28,16,28
+0022100517,2021-12-29,IND,CHA,7.97,1,4,2,IND,IND,fg3_make,1,False,False,LeVert 26' 3PT Jump Shot (6 PTS) (Duarte 2 AST),,19-28,19,28
+0022100517,2021-12-29,IND,CHA,8.28,1,3,43,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 3PT Jump Shot (3 PTS) (Martin 2 AST),19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.52,1,3,29,IND,IND,fg_miss,47,False,False,MISS Sabonis 12' Turnaround Jump Shot,,19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.55,1,3,27,IND,IND,reb,0,False,False,Brissett REBOUND (Off:2 Def:0),,19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.57,1,3,26,IND,IND,reb,0,False,False,Brissett REBOUND (Off:3 Def:0),,19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.57,1,3,26,IND,IND,fg_miss,72,False,False,MISS Brissett 3' Putback Layup,,19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.63,1,3,22,IND,CHA,block,97,True,False,block,block,19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.63,1,3,22,IND,IND,fg_miss,97,True,False,MISS Brissett Tip Layup Shot,,19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.65,1,3,21,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:2),19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.68,1,3,19,CHA,CHA,fg3_miss,2,False,False,,MISS Oubre Jr. 27' 3PT Running Jump Shot,19-31,19,31
+0022100517,2021-12-29,IND,CHA,8.72,1,3,17,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:2),,19-31,19,31
+0022100517,2021-12-29,IND,CHA,9.0,1,3,0,IND,IND,fg3_miss,1,False,False,MISS LeVert 27' 3PT Jump Shot,,19-31,19,31
+0022100517,2021-12-29,IND,CHA,9.07,1,2,56,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:3),19-31,19,31
+0022100517,2021-12-29,IND,CHA,9.15,1,2,51,CHA,CHA,tov,4,False,False,,Ball Traveling Turnover (P2.T4),19-31,19,31
+0022100517,2021-12-29,IND,CHA,9.27,1,2,44,IND,CHA,foul,2,False,False,,Richards S.FOUL (P1.T2) (J.Schroeder),19-31,19,31
+0022100517,2021-12-29,IND,CHA,9.27,1,2,44,IND,IND,ft_make,11,False,False,LeVert Free Throw 1 of 2 (7 PTS),,20-31,20,31
+0022100517,2021-12-29,IND,CHA,9.27,1,2,44,IND,IND,ft_miss,12,False,False,MISS LeVert Free Throw 2 of 2,,20-31,20,31
+0022100517,2021-12-29,IND,CHA,9.28,1,2,43,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:0 Def:1),20-31,20,31
+0022100517,2021-12-29,IND,CHA,9.5,1,2,30,CHA,CHA,fg_make,79,False,False,,Hayward 20' Pullup Jump Shot (2 PTS),20-33,20,33
+0022100517,2021-12-29,IND,CHA,9.83,1,2,10,IND,IND,fg3_miss,1,False,False,MISS Craig 3PT Jump Shot,,20-33,20,33
+0022100517,2021-12-29,IND,CHA,9.88,1,2,7,CHA,CHA,reb,0,False,False,,Smith REBOUND (Off:0 Def:1),20-33,20,33
+0022100517,2021-12-29,IND,CHA,10.23,1,1,46,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,20-33,20,33
+0022100517,2021-12-29,IND,CHA,10.28,1,1,43,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:3),,20-33,20,33
+0022100517,2021-12-29,IND,CHA,10.43,1,1,34,IND,IND,fg3_make,1,False,False,Sabonis 26' 3PT Jump Shot (5 PTS) (LeVert 1 AST),,23-33,23,33
+0022100517,2021-12-29,IND,CHA,10.6,1,1,24,CHA,CHA,fg_miss,6,False,False,,MISS Martin 5' Driving Layup,23-33,23,33
+0022100517,2021-12-29,IND,CHA,10.65,1,1,21,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:4),,23-33,23,33
+0022100517,2021-12-29,IND,CHA,10.73,1,1,16,IND,IND,tov,40,False,False,Sabonis Out of Bounds Lost Ball Turnover (P1.T3),,23-33,23,33
+0022100517,2021-12-29,IND,CHA,10.97,1,1,2,CHA,CHA,fg_miss,5,True,False,,MISS Oubre Jr. 3' Layup,23-33,23,33
+0022100517,2021-12-29,IND,CHA,10.97,1,1,2,IND,IND,reb,0,False,False,PACERS Rebound,,23-33,23,33
+0022100517,2021-12-29,IND,CHA,10.97,1,1,2,CHA,IND,block,5,True,False,block,block,23-33,23,33
+0022100517,2021-12-29,IND,CHA,11.33,1,0,40,IND,IND,fg_make,79,False,False,Duarte 16' Pullup Jump Shot (2 PTS) (Brissett 1 AST),,25-33,25,33
+0022100517,2021-12-29,IND,CHA,11.5,1,0,30,CHA,CHA,ft_miss,11,False,False,,MISS Oubre Jr. Free Throw 1 of 2,25-33,25,33
+0022100517,2021-12-29,IND,CHA,11.5,1,0,30,CHA,IND,foul,1,False,False,Sykes P.FOUL (P1.PN) (J.Schroeder),,25-33,25,33
+0022100517,2021-12-29,IND,CHA,11.5,1,0,30,CHA,CHA,reb,1,False,False,,Hornets Rebound,25-33,25,33
+0022100517,2021-12-29,IND,CHA,11.5,1,0,30,CHA,CHA,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (4 PTS),25-34,25,34
+0022100517,2021-12-29,IND,CHA,11.83,1,0,10,IND,IND,fg_miss,79,False,False,MISS Sykes 18' Pullup Jump Shot,,25-34,25,34
+0022100517,2021-12-29,IND,CHA,11.88,1,0,7,IND,IND,reb,0,False,False,Brissett REBOUND (Off:4 Def:0),,25-34,25,34
+0022100517,2021-12-29,IND,CHA,11.93,1,0,4,IND,IND,fg_make,6,False,False,Duarte 2' Driving Layup (4 PTS) (Brissett 2 AST),,27-34,27,34
+0022100517,2021-12-29,IND,CHA,11.98,1,0,1,CHA,CHA,reb,1,False,False,,Hornets Rebound,27-34,27,34
+0022100517,2021-12-29,IND,CHA,11.98,1,0,1,CHA,CHA,ft_miss,11,False,False,,MISS Oubre Jr. Free Throw 1 of 2,27-34,27,34
+0022100517,2021-12-29,IND,CHA,11.98,1,0,1,CHA,CHA,ft_miss,12,False,False,,MISS Oubre Jr. Free Throw 2 of 2,27-34,27,34
+0022100517,2021-12-29,IND,CHA,11.98,1,0,1,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:5),,27-34,27,34
+0022100517,2021-12-29,IND,CHA,11.98,1,0,1,CHA,IND,foul,1,False,False,Brissett P.FOUL (P1.PN) (B.Barnaky),,27-34,27,34
+0022100517,2021-12-29,IND,CHA,12.0,2,12,0,IND,,period_start,0,False,False,,,27-34,27,34
+0022100517,2021-12-29,IND,CHA,12.0,1,0,0,IND,,period_end,0,False,False,,,27-34,27,34
+0022100517,2021-12-29,IND,CHA,12.32,2,11,41,IND,IND,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (7 PTS),,29-34,29,34
+0022100517,2021-12-29,IND,CHA,12.32,2,11,41,IND,IND,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (6 PTS),,28-34,28,34
+0022100517,2021-12-29,IND,CHA,12.32,2,11,41,IND,CHA,foul,2,False,False,,Plumlee S.FOUL (P1.T1) (B.Barnaky),27-34,27,34
+0022100517,2021-12-29,IND,CHA,12.53,2,11,28,CHA,CHA,ft_make,11,False,False,,Smith Free Throw 1 of 2 (1 PTS),29-35,29,35
+0022100517,2021-12-29,IND,CHA,12.53,2,11,28,CHA,IND,foul,2,False,False,Sykes S.FOUL (P2.T1) (J.Schroeder),,29-34,29,34
+0022100517,2021-12-29,IND,CHA,12.53,2,11,28,CHA,CHA,ft_make,12,False,False,,Smith Free Throw 2 of 2 (2 PTS),29-36,29,36
+0022100517,2021-12-29,IND,CHA,12.7,2,11,18,IND,IND,fg3_miss,79,False,False,MISS Sykes 28' 3PT Pullup Jump Shot,,29-36,29,36
+0022100517,2021-12-29,IND,CHA,12.75,2,11,15,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:3),29-36,29,36
+0022100517,2021-12-29,IND,CHA,12.93,2,11,4,CHA,CHA,tov,45,False,False,,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T5),29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.15,2,10,51,IND,IND,tov,1,False,True,Duarte Bad Pass Turnover (P1.T4),,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.15,2,10,51,IND,CHA,steal,1,False,True,steal,steal,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.23,2,10,46,CHA,IND,foul,1,False,False,Craig P.FOUL (P1.T2) (M.Lindsay),,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.42,2,10,35,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.5,2,10,30,IND,IND,reb,0,False,False,Craig REBOUND (Off:0 Def:1),,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.7,2,10,18,IND,CHA,foul,2,False,False,,Smith S.FOUL (P1.T2) (M.Lindsay),29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.7,2,10,18,IND,IND,ft_miss,11,False,False,MISS Sabonis Free Throw 1 of 2,,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.7,2,10,18,IND,IND,reb,1,False,False,PACERS Rebound,,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.7,2,10,18,IND,IND,ft_miss,12,False,False,MISS Sabonis Free Throw 2 of 2,,29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.73,2,10,16,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:4),29-36,29,36
+0022100517,2021-12-29,IND,CHA,13.97,2,10,2,CHA,CHA,fg_make,5,False,False,,Hayward 1' Layup (4 PTS),29-38,29,38
+0022100517,2021-12-29,IND,CHA,14.15,2,9,51,IND,IND,fg_miss,102,False,False,MISS Sykes 4' Driving Floating Bank Jump Shot,,29-38,29,38
+0022100517,2021-12-29,IND,CHA,14.18,2,9,49,CHA,CHA,reb,0,False,False,,Smith REBOUND (Off:0 Def:2),29-38,29,38
+0022100517,2021-12-29,IND,CHA,14.23,2,9,46,CHA,CHA,fg_make,74,False,False,,Oubre Jr. 3' Running Reverse Layup (6 PTS) (Smith 1 AST),29-40,29,40
+0022100517,2021-12-29,IND,CHA,14.27,2,9,44,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,29-40,29,40
+0022100517,2021-12-29,IND,CHA,14.47,2,9,32,IND,IND,fg3_make,1,False,False,Holiday 26' 3PT Jump Shot (8 PTS) (Sykes 1 AST),,32-40,32,40
+0022100517,2021-12-29,IND,CHA,14.8,2,9,12,CHA,CHA,fg_make,52,False,False,,Plumlee 2' Alley Oop Dunk (5 PTS) (Oubre Jr. 2 AST),32-42,32,42
+0022100517,2021-12-29,IND,CHA,15.05,2,8,57,IND,IND,fg3_make,1,False,False,Duarte 3PT Jump Shot (7 PTS) (Sykes 2 AST),,35-42,35,42
+0022100517,2021-12-29,IND,CHA,15.22,2,8,47,CHA,CHA,tov,2,False,True,,Oubre Jr. Lost Ball Turnover (P1.T6),35-42,35,42
+0022100517,2021-12-29,IND,CHA,15.22,2,8,47,CHA,IND,steal,2,False,True,steal,steal,35-42,35,42
+0022100517,2021-12-29,IND,CHA,15.33,2,8,40,IND,IND,fg3_miss,1,False,False,MISS Sykes 3PT Jump Shot,,35-42,35,42
+0022100517,2021-12-29,IND,CHA,15.4,2,8,36,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:3),35-42,35,42
+0022100517,2021-12-29,IND,CHA,15.68,2,8,19,CHA,CHA,fg_make,102,False,False,,Hayward 2' Driving Floating Bank Jump Shot (6 PTS),35-44,35,44
+0022100517,2021-12-29,IND,CHA,15.85,2,8,9,IND,CHA,foul,2,False,False,,Plumlee S.FOUL (P2.T3) (J.Schroeder),35-44,35,44
+0022100517,2021-12-29,IND,CHA,15.85,2,8,9,IND,IND,ft_miss,11,False,False,MISS Brissett Free Throw 1 of 2,,35-44,35,44
+0022100517,2021-12-29,IND,CHA,15.85,2,8,9,IND,IND,reb,1,False,False,PACERS Rebound,,35-44,35,44
+0022100517,2021-12-29,IND,CHA,15.85,2,8,9,IND,IND,ft_make,12,False,False,Brissett Free Throw 2 of 2 (4 PTS),,36-44,36,44
+0022100517,2021-12-29,IND,CHA,16.02,2,7,59,CHA,CHA,fg_make,63,False,False,,Hayward 7' Fadeaway Jumper (8 PTS) (Ball 4 AST),36-46,36,46
+0022100517,2021-12-29,IND,CHA,16.27,2,7,44,IND,CHA,foul,1,False,False,,Richards P.FOUL (P2.T4) (M.Lindsay),36-46,36,46
+0022100517,2021-12-29,IND,CHA,16.33,2,7,40,IND,IND,fg_make,1,False,False,Turner 17' Jump Shot (5 PTS) (LeVert 2 AST),,38-46,38,46
+0022100517,2021-12-29,IND,CHA,16.55,2,7,27,CHA,CHA,fg3_make,79,False,False,,Ball 27' 3PT Pullup Jump Shot (7 PTS),38-49,38,49
+0022100517,2021-12-29,IND,CHA,16.8,2,7,12,IND,CHA,foul,2,False,False,,Ball S.FOUL (P1.PN) (J.Schroeder),38-49,38,49
+0022100517,2021-12-29,IND,CHA,16.8,2,7,12,IND,IND,ft_make,11,False,False,LeVert Free Throw 1 of 2 (8 PTS),,39-49,39,49
+0022100517,2021-12-29,IND,CHA,16.8,2,7,12,IND,IND,ft_make,12,False,False,LeVert Free Throw 2 of 2 (9 PTS),,40-49,40,49
+0022100517,2021-12-29,IND,CHA,16.98,2,7,1,CHA,CHA,fg_make,79,False,False,,Rozier 15' Pullup Jump Shot (15 PTS),40-51,40,51
+0022100517,2021-12-29,IND,CHA,17.25,2,6,45,IND,IND,fg_make,101,False,False,LeVert 7' Driving Floating Jump Shot (11 PTS),,42-51,42,51
+0022100517,2021-12-29,IND,CHA,17.4,2,6,36,CHA,CHA,fg_make,6,False,False,,McDaniels 3' Driving Layup (8 PTS),42-53,42,53
+0022100517,2021-12-29,IND,CHA,17.63,2,6,22,IND,IND,tov,2,False,True,LeVert Lost Ball Turnover (P2.T5),,42-53,42,53
+0022100517,2021-12-29,IND,CHA,17.63,2,6,22,IND,CHA,steal,2,False,True,steal,steal,42-53,42,53
+0022100517,2021-12-29,IND,CHA,17.72,2,6,17,CHA,CHA,ft_make,10,False,False,,Richards Free Throw 1 of 1 (5 PTS),42-56,42,56
+0022100517,2021-12-29,IND,CHA,17.72,2,6,17,CHA,IND,foul,2,False,False,Craig S.FOUL (P2.T3) (J.Schroeder),,42-55,42,55
+0022100517,2021-12-29,IND,CHA,17.72,2,6,17,CHA,CHA,fg_make,76,False,False,,Richards 3' Running Finger Roll Layup (4 PTS) (Ball 5 AST),42-55,42,55
+0022100517,2021-12-29,IND,CHA,17.95,2,6,3,IND,IND,fg3_miss,1,False,False,MISS Holiday 26' 3PT Jump Shot,,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.02,2,5,59,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:4),42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.12,2,5,53,CHA,IND,steal,1,False,True,steal,steal,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.12,2,5,53,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P3.T7),42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.28,2,5,43,IND,CHA,steal,1,False,True,steal,steal,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.28,2,5,43,IND,IND,tov,1,False,True,Turner Bad Pass Turnover (P1.T6),,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.37,2,5,38,CHA,CHA,fg3_miss,2,False,False,,MISS Ball 3PT Running Jump Shot,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.42,2,5,35,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:6),,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.55,2,5,27,IND,IND,fg3_miss,1,False,False,MISS Holiday 3PT Jump Shot,,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.62,2,5,23,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.7,2,5,18,CHA,CHA,fg3_miss,103,False,False,,MISS McDaniels 26' 3PT Running Pull-Up Jump Shot,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.75,2,5,15,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:7),,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.87,2,5,8,IND,IND,tov,45,False,False,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,42-56,42,56
+0022100517,2021-12-29,IND,CHA,18.87,2,5,8,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.07,2,4,56,CHA,CHA,fg_miss,99,False,False,,MISS Martin 3' Cutting Finger Roll Layup Shot,42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.1,2,4,54,IND,IND,reb,0,False,False,PACERS Rebound,,42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.25,2,4,45,IND,IND,ft_miss,11,False,False,MISS Sabonis Free Throw 1 of 2,,42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.25,2,4,45,IND,IND,ft_miss,12,False,False,MISS Sabonis Free Throw 2 of 2,,42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.25,2,4,45,IND,CHA,foul,1,False,False,,Martin P.FOUL (P1.PN) (J.Schroeder),42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.25,2,4,45,IND,IND,reb,1,False,False,PACERS Rebound,,42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.27,2,4,44,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:1),42-56,42,56
+0022100517,2021-12-29,IND,CHA,19.57,2,4,26,CHA,CHA,fg3_make,1,False,False,,Rozier 3PT Jump Shot (18 PTS) (Ball 6 AST),42-59,42,59
+0022100517,2021-12-29,IND,CHA,19.68,2,4,19,IND,IND,fg3_make,79,False,False,LeVert 26' 3PT Pullup Jump Shot (14 PTS),,45-59,45,59
+0022100517,2021-12-29,IND,CHA,19.98,2,4,1,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 25' 3PT Jump Shot,45-59,45,59
+0022100517,2021-12-29,IND,CHA,20.02,2,3,59,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,45-59,45,59
+0022100517,2021-12-29,IND,CHA,20.12,2,3,53,IND,IND,fg_miss,103,False,False,MISS LeVert 13' Running Pull-Up Jump Shot,,45-59,45,59
+0022100517,2021-12-29,IND,CHA,20.17,2,3,50,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:0 Def:2),45-59,45,59
+0022100517,2021-12-29,IND,CHA,20.35,2,3,39,CHA,CHA,fg_make,75,False,False,,Ball 1' Driving Finger Roll Layup (9 PTS),45-61,45,61
+0022100517,2021-12-29,IND,CHA,20.45,2,3,33,IND,IND,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (8 PTS),,46-61,46,61
+0022100517,2021-12-29,IND,CHA,20.45,2,3,33,IND,CHA,foul,1,False,False,,Richards P.FOUL (P3.PN) (B.Barnaky),45-61,45,61
+0022100517,2021-12-29,IND,CHA,20.45,2,3,33,IND,IND,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (9 PTS),,47-61,47,61
+0022100517,2021-12-29,IND,CHA,20.67,2,3,20,CHA,CHA,reb,1,False,False,,Hornets Rebound,47-62,47,62
+0022100517,2021-12-29,IND,CHA,20.67,2,3,20,CHA,IND,foul,2,False,False,Turner S.FOUL (P2.T4) (J.Schroeder),,47-61,47,61
+0022100517,2021-12-29,IND,CHA,20.67,2,3,20,CHA,CHA,ft_make,13,False,False,,Ball Free Throw 1 of 3 (10 PTS),47-62,47,62
+0022100517,2021-12-29,IND,CHA,20.67,2,3,20,CHA,CHA,ft_miss,14,False,False,,MISS Ball Free Throw 2 of 3,47-62,47,62
+0022100517,2021-12-29,IND,CHA,20.67,2,3,20,CHA,CHA,ft_make,15,False,False,,Ball Free Throw 3 of 3 (11 PTS),47-63,47,63
+0022100517,2021-12-29,IND,CHA,20.95,2,3,3,IND,IND,fg3_miss,1,False,False,MISS Sabonis 25' 3PT Jump Shot,,47-63,47,63
+0022100517,2021-12-29,IND,CHA,21.02,2,2,59,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:5),47-63,47,63
+0022100517,2021-12-29,IND,CHA,21.08,2,2,55,CHA,IND,block,41,True,False,block,block,47-63,47,63
+0022100517,2021-12-29,IND,CHA,21.08,2,2,55,CHA,CHA,fg_miss,41,True,False,,MISS Martin 4' Running Layup,47-63,47,63
+0022100517,2021-12-29,IND,CHA,21.08,2,2,55,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:2),,47-63,47,63
+0022100517,2021-12-29,IND,CHA,21.08,2,2,55,IND,IND,tov,39,False,False,Turner Step Out of Bounds Turnover (P2.T8),,47-63,47,63
+0022100517,2021-12-29,IND,CHA,21.2,2,2,48,CHA,CHA,fg_make,79,False,False,,Hayward 18' Pullup Jump Shot (10 PTS) (Martin 3 AST),47-65,47,65
+0022100517,2021-12-29,IND,CHA,21.58,2,2,25,IND,IND,fg3_make,1,False,False,Turner 27' 3PT Jump Shot (8 PTS) (Duarte 3 AST),,50-65,50,65
+0022100517,2021-12-29,IND,CHA,22.05,2,1,57,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 3PT Jump Shot,50-65,50,65
+0022100517,2021-12-29,IND,CHA,22.1,2,1,54,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:4),50-65,50,65
+0022100517,2021-12-29,IND,CHA,22.25,2,1,45,CHA,CHA,fg_make,108,False,False,,Hayward 2' Cutting Dunk Shot (12 PTS) (Ball 7 AST),50-67,50,67
+0022100517,2021-12-29,IND,CHA,22.4,2,1,36,IND,IND,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (11 PTS),,52-67,52,67
+0022100517,2021-12-29,IND,CHA,22.4,2,1,36,IND,IND,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (10 PTS),,51-67,51,67
+0022100517,2021-12-29,IND,CHA,22.4,2,1,36,IND,CHA,foul,1,False,False,,Plumlee P.FOUL (P3.PN) (B.Barnaky),50-67,50,67
+0022100517,2021-12-29,IND,CHA,22.68,2,1,19,CHA,CHA,ft_make,12,False,False,,Richards Free Throw 2 of 2 (6 PTS),52-68,52,68
+0022100517,2021-12-29,IND,CHA,22.68,2,1,19,CHA,IND,foul,2,False,False,Sabonis S.FOUL (P2.PN) (B.Barnaky),,52-67,52,67
+0022100517,2021-12-29,IND,CHA,22.68,2,1,19,CHA,CHA,reb,1,False,False,,Hornets Rebound,52-67,52,67
+0022100517,2021-12-29,IND,CHA,22.68,2,1,19,CHA,CHA,ft_miss,11,False,False,,MISS Richards Free Throw 1 of 2,52-67,52,67
+0022100517,2021-12-29,IND,CHA,22.95,2,1,3,IND,CHA,steal,1,False,True,steal,steal,52-68,52,68
+0022100517,2021-12-29,IND,CHA,22.95,2,1,3,IND,IND,tov,1,False,True,Holiday Bad Pass Turnover (P2.T9),,52-68,52,68
+0022100517,2021-12-29,IND,CHA,23.0,2,1,0,CHA,CHA,ft_miss,12,False,False,,MISS Hayward Free Throw 2 of 2,52-69,52,69
+0022100517,2021-12-29,IND,CHA,23.0,2,1,0,CHA,IND,foul,2,False,False,LeVert S.FOUL (P2.PN) (J.Schroeder),,52-68,52,68
+0022100517,2021-12-29,IND,CHA,23.0,2,1,0,CHA,CHA,ft_make,11,False,False,,Hayward Free Throw 1 of 2 (13 PTS),52-69,52,69
+0022100517,2021-12-29,IND,CHA,23.02,2,0,59,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:8),,52-69,52,69
+0022100517,2021-12-29,IND,CHA,23.38,2,0,37,IND,IND,ft_make,10,False,False,Turner Free Throw 1 of 1 (11 PTS),,55-69,55,69
+0022100517,2021-12-29,IND,CHA,23.38,2,0,37,IND,CHA,foul,2,False,False,,Martin S.FOUL (P2.PN) (J.Schroeder),54-69,54,69
+0022100517,2021-12-29,IND,CHA,23.38,2,0,37,IND,IND,fg_make,63,False,False,Turner 10' Fadeaway Jumper (10 PTS) (Duarte 4 AST),,54-69,54,69
+0022100517,2021-12-29,IND,CHA,23.48,2,0,31,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 3PT Pullup Jump Shot,55-69,55,69
+0022100517,2021-12-29,IND,CHA,23.53,2,0,28,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:9),,55-69,55,69
+0022100517,2021-12-29,IND,CHA,23.82,2,0,11,IND,IND,fg_make,102,False,False,LeVert 2' Driving Floating Bank Jump Shot (16 PTS),,57-69,57,69
+0022100517,2021-12-29,IND,CHA,23.98,2,0,1,CHA,CHA,fg_make,47,False,False,,Ball 6' Turnaround Jump Shot (13 PTS),57-71,57,71
+0022100517,2021-12-29,IND,CHA,24.0,3,12,0,CHA,,period_start,0,False,False,,,57-71,57,71
+0022100517,2021-12-29,IND,CHA,24.0,2,0,0,CHA,,period_end,0,False,False,,,57-71,57,71
+0022100517,2021-12-29,IND,CHA,24.32,3,11,41,IND,IND,tov,2,False,True,Duarte Lost Ball Turnover (P2.T10),,57-71,57,71
+0022100517,2021-12-29,IND,CHA,24.32,3,11,41,IND,CHA,steal,2,False,True,steal,steal,57-71,57,71
+0022100517,2021-12-29,IND,CHA,24.4,3,11,36,CHA,CHA,fg_miss,100,False,False,,MISS Hayward 3' Running Alley Oop Layup Shot,57-71,57,71
+0022100517,2021-12-29,IND,CHA,24.45,3,11,33,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:10),,57-71,57,71
+0022100517,2021-12-29,IND,CHA,24.55,3,11,27,IND,IND,fg_make,74,False,False,Duarte 3' Running Reverse Layup (9 PTS),,59-71,59,71
+0022100517,2021-12-29,IND,CHA,24.85,3,11,9,CHA,CHA,tov,45,False,False,,Ball Out of Bounds - Bad Pass Turnover Turnover (P4.T8),59-71,59,71
+0022100517,2021-12-29,IND,CHA,25.03,3,10,58,IND,IND,fg_miss,6,False,False,MISS LeVert 2' Driving Layup,,59-71,59,71
+0022100517,2021-12-29,IND,CHA,25.07,3,10,56,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:5),59-71,59,71
+0022100517,2021-12-29,IND,CHA,25.15,3,10,51,CHA,CHA,fg_make,2,False,False,,Ball 11' Running Jump Shot (15 PTS) (Rozier 1 AST),59-73,59,73
+0022100517,2021-12-29,IND,CHA,25.37,3,10,38,IND,IND,fg_make,75,False,False,Duarte 3' Driving Finger Roll Layup (11 PTS) (Sabonis 2 AST),,61-73,61,73
+0022100517,2021-12-29,IND,CHA,25.62,3,10,23,CHA,IND,steal,1,False,True,steal,steal,61-73,61,73
+0022100517,2021-12-29,IND,CHA,25.62,3,10,23,CHA,CHA,tov,1,False,True,,Plumlee Bad Pass Turnover (P2.T9),61-73,61,73
+0022100517,2021-12-29,IND,CHA,25.65,3,10,21,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),63-73,63,73
+0022100517,2021-12-29,IND,CHA,25.65,3,10,21,IND,IND,fg_make,50,False,False,LeVert Running Dunk (18 PTS),,63-73,63,73
+0022100517,2021-12-29,IND,CHA,25.93,3,10,4,CHA,CHA,fg_make,6,False,False,,Ball 2' Driving Layup (17 PTS) (Hayward 1 AST),63-75,63,75
+0022100517,2021-12-29,IND,CHA,26.22,3,9,47,IND,IND,fg_make,7,False,False,Sabonis 2' Dunk (13 PTS),,65-75,65,75
+0022100517,2021-12-29,IND,CHA,26.43,3,9,34,CHA,CHA,fg_miss,101,False,False,,MISS Ball 15' Driving Floating Jump Shot,65-75,65,75
+0022100517,2021-12-29,IND,CHA,26.47,3,9,32,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:2),,65-75,65,75
+0022100517,2021-12-29,IND,CHA,26.57,3,9,26,IND,IND,fg3_miss,2,False,False,MISS LeVert 25' 3PT Running Jump Shot,,65-75,65,75
+0022100517,2021-12-29,IND,CHA,26.63,3,9,22,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:6),65-75,65,75
+0022100517,2021-12-29,IND,CHA,26.87,3,9,8,CHA,CHA,fg_miss,80,False,False,,MISS McDaniels 13' Step Back Jump Shot,65-75,65,75
+0022100517,2021-12-29,IND,CHA,26.92,3,9,5,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,65-75,65,75
+0022100517,2021-12-29,IND,CHA,27.18,3,8,49,IND,IND,fg3_miss,1,False,False,MISS Sabonis 24' 3PT Jump Shot,,65-75,65,75
+0022100517,2021-12-29,IND,CHA,27.23,3,8,46,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:3),65-75,65,75
+0022100517,2021-12-29,IND,CHA,27.53,3,8,28,CHA,CHA,fg_make,79,False,False,,Rozier 13' Pullup Jump Shot (20 PTS) (Plumlee 2 AST),65-77,65,77
+0022100517,2021-12-29,IND,CHA,27.83,3,8,10,IND,IND,tov,40,False,False,Sabonis Out of Bounds Lost Ball Turnover (P3.T11),,65-77,65,77
+0022100517,2021-12-29,IND,CHA,28.1,3,7,54,CHA,CHA,fg_make,6,False,False,,Rozier 2' Driving Layup (22 PTS),65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.42,3,7,35,IND,CHA,steal,2,False,True,steal,steal,65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.42,3,7,35,IND,IND,tov,2,False,True,Duarte Lost Ball Turnover (P3.T12),,65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.48,3,7,31,CHA,CHA,fg3_miss,103,False,False,,MISS Rozier 26' 3PT Running Pull-Up Jump Shot,65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.53,3,7,28,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:11),,65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.62,3,7,23,IND,CHA,steal,2,False,True,steal,steal,65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.62,3,7,23,IND,IND,tov,2,False,True,Sabonis Lost Ball Turnover (P4.T13),,65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.67,3,7,20,CHA,CHA,ft_make,11,False,False,,Plumlee Free Throw 1 of 2 (6 PTS),65-80,65,80
+0022100517,2021-12-29,IND,CHA,28.67,3,7,20,CHA,CHA,ft_miss,12,False,False,,MISS Plumlee Free Throw 2 of 2,65-80,65,80
+0022100517,2021-12-29,IND,CHA,28.67,3,7,20,CHA,IND,foul,2,False,False,Turner S.FOUL (P3.T1) (J.Schroeder),,65-79,65,79
+0022100517,2021-12-29,IND,CHA,28.68,3,7,19,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,65-80,65,80
+0022100517,2021-12-29,IND,CHA,28.97,3,7,2,IND,IND,fg_miss,79,False,False,MISS LeVert 13' Pullup Jump Shot,,65-80,65,80
+0022100517,2021-12-29,IND,CHA,29.0,3,7,0,IND,CHA,foul,3,False,False,,McDaniels L.B.FOUL (P1.T1) (M.Lindsay),65-80,65,80
+0022100517,2021-12-29,IND,CHA,29.0,3,7,0,IND,IND,reb,0,False,False,PACERS Rebound,,65-80,65,80
+0022100517,2021-12-29,IND,CHA,29.08,3,6,55,IND,IND,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (14 PTS),,66-80,66,80
+0022100517,2021-12-29,IND,CHA,29.08,3,6,55,IND,CHA,foul,2,False,False,,Plumlee S.FOUL (P4.T2) (B.Barnaky),65-80,65,80
+0022100517,2021-12-29,IND,CHA,29.08,3,6,55,IND,IND,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (15 PTS),,67-80,67,80
+0022100517,2021-12-29,IND,CHA,29.23,3,6,46,IND,CHA,foul,4,False,False,,Richards OFF.Foul (P4) (J.Schroeder),67-80,67,80
+0022100517,2021-12-29,IND,CHA,29.23,3,6,46,CHA,CHA,tov,37,False,False,,Richards Offensive Foul Turnover (P1.T10),67-80,67,80
+0022100517,2021-12-29,IND,CHA,29.45,3,6,33,IND,IND,fg_make,99,False,False,Holiday 2' Cutting Finger Roll Layup Shot (10 PTS) (Sabonis 3 AST),,69-80,69,80
+0022100517,2021-12-29,IND,CHA,29.78,3,6,13,CHA,CHA,fg_make,75,False,False,,McDaniels 6' Driving Finger Roll Layup (10 PTS) (Oubre Jr. 3 AST),69-82,69,82
+0022100517,2021-12-29,IND,CHA,30.02,3,5,59,IND,IND,fg_make,5,False,False,Holiday 2' Layup (12 PTS) (LeVert 3 AST),,71-82,71,82
+0022100517,2021-12-29,IND,CHA,30.23,3,5,46,CHA,CHA,fg_make,101,False,False,,Ball 14' Driving Floating Jump Shot (19 PTS),71-84,71,84
+0022100517,2021-12-29,IND,CHA,30.43,3,5,34,IND,IND,fg_miss,5,False,False,MISS LeVert 1' Layup,,71-84,71,84
+0022100517,2021-12-29,IND,CHA,30.47,3,5,32,IND,CHA,block,6,True,False,block,block,71-84,71,84
+0022100517,2021-12-29,IND,CHA,30.47,3,5,32,IND,IND,reb,0,False,False,PACERS Rebound,,71-84,71,84
+0022100517,2021-12-29,IND,CHA,30.47,3,5,32,IND,IND,fg_miss,6,True,False,MISS Sabonis 2' Driving Layup,,71-84,71,84
+0022100517,2021-12-29,IND,CHA,30.47,3,5,32,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:11),,71-84,71,84
+0022100517,2021-12-29,IND,CHA,30.48,3,5,31,IND,IND,ft_miss,10,False,False,MISS Brissett Free Throw 1 of 1,,73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.48,3,5,31,IND,CHA,foul,2,False,False,,Martin S.FOUL (P3.T3) (M.Lindsay),73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.48,3,5,31,IND,IND,fg_make,98,False,False,Brissett 4' Cutting Layup Shot (6 PTS) (LeVert 4 AST),,73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.52,3,5,29,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:6),73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.62,3,5,23,CHA,CHA,fg3_miss,103,False,False,,MISS Ball 29' 3PT Running Pull-Up Jump Shot,73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.67,3,5,20,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:3),,73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.77,3,5,14,IND,CHA,steal,1,False,True,steal,steal,73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.77,3,5,14,IND,IND,tov,1,False,True,Craig Bad Pass Turnover (P1.T14),,73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.83,3,5,10,CHA,CHA,tov,39,False,False,,Martin Step Out of Bounds Turnover (P1.T11),73-84,73,84
+0022100517,2021-12-29,IND,CHA,30.83,3,5,10,IND,CHA,violation,1,False,False,,Hornets Violation: Delay of game Violation,73-84,73,84
+0022100517,2021-12-29,IND,CHA,31.02,3,4,59,IND,IND,ft_make,12,False,False,LeVert Free Throw 2 of 2 (19 PTS),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.02,3,4,59,IND,CHA,foul,2,False,False,,Richards S.FOUL (P5.T4) (B.Barnaky),73-84,73,84
+0022100517,2021-12-29,IND,CHA,31.02,3,4,59,IND,IND,ft_miss,11,False,False,MISS LeVert Free Throw 1 of 2,,73-84,73,84
+0022100517,2021-12-29,IND,CHA,31.02,3,4,59,IND,IND,reb,1,False,False,PACERS Rebound,,73-84,73,84
+0022100517,2021-12-29,IND,CHA,31.33,3,4,40,CHA,CHA,fg_miss,80,False,False,,MISS Rozier 22' Step Back Jump Shot,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.4,3,4,36,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:4),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.47,3,4,32,CHA,IND,foul,4,False,False,Turner OFF.Foul (P4) (M.Lindsay),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.47,3,4,32,IND,IND,reb,0,False,False,PACERS Rebound,,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.47,3,4,32,IND,IND,fg_miss,41,True,False,MISS LeVert 3' Running Layup,,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.47,3,4,32,IND,CHA,block,41,True,False,block,block,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.47,3,4,32,IND,IND,tov,37,False,False,Turner Offensive Foul Turnover (P3.T15),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.62,3,4,23,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.68,3,4,19,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:12),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.9,3,4,6,IND,IND,ft_miss,12,False,False,MISS Sabonis Free Throw 2 of 2,,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.9,3,4,6,IND,CHA,foul,2,False,False,,Oubre Jr. S.FOUL (P1.PN) (J.Schroeder),74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.9,3,4,6,IND,IND,ft_miss,11,False,False,MISS Sabonis Free Throw 1 of 2,,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.9,3,4,6,IND,IND,reb,1,False,False,PACERS Rebound,,74-84,74,84
+0022100517,2021-12-29,IND,CHA,31.92,3,4,5,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:4),74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.27,3,3,44,CHA,CHA,fg3_miss,79,False,False,,MISS Oubre Jr. 25' 3PT Pullup Jump Shot,74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.33,3,3,40,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:5),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.52,3,3,29,IND,IND,fg3_miss,1,False,False,MISS Brissett 27' 3PT Jump Shot,,74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.57,3,3,26,IND,IND,reb,0,False,False,LeVert REBOUND (Off:1 Def:5),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.67,3,3,20,IND,IND,fg3_miss,79,False,False,MISS LeVert 25' 3PT Pullup Jump Shot,,74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.75,3,3,15,CHA,CHA,reb,0,False,False,,Smith REBOUND (Off:0 Def:3),74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.82,3,3,11,CHA,CHA,fg_miss,103,False,False,,MISS Smith 9' Running Pull-Up Jump Shot,74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.87,3,3,8,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:13),,74-84,74,84
+0022100517,2021-12-29,IND,CHA,32.97,3,3,2,IND,IND,fg3_make,2,False,False,Martin 25' 3PT Running Jump Shot (3 PTS) (Sabonis 4 AST),,77-84,77,84
+0022100517,2021-12-29,IND,CHA,33.28,3,2,43,CHA,CHA,fg_miss,86,False,False,,MISS Hayward 12' Turnaround Fadeaway Shot,77-84,77,84
+0022100517,2021-12-29,IND,CHA,33.35,3,2,39,IND,IND,reb,0,False,False,Martin REBOUND (Off:0 Def:1),,77-84,77,84
+0022100517,2021-12-29,IND,CHA,33.5,3,2,30,IND,IND,fg3_miss,1,False,False,MISS Craig 26' 3PT Jump Shot,,77-84,77,84
+0022100517,2021-12-29,IND,CHA,33.55,3,2,27,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:7),77-84,77,84
+0022100517,2021-12-29,IND,CHA,33.82,3,2,11,CHA,CHA,fg_miss,6,False,False,,MISS Smith 2' Driving Layup,77-84,77,84
+0022100517,2021-12-29,IND,CHA,33.83,3,2,10,IND,IND,reb,0,False,False,Craig REBOUND (Off:0 Def:2),,77-84,77,84
+0022100517,2021-12-29,IND,CHA,34.07,3,1,56,IND,IND,fg_miss,5,True,False,MISS Craig 3' Layup,,77-84,77,84
+0022100517,2021-12-29,IND,CHA,34.07,3,1,56,IND,CHA,block,5,True,False,block,block,77-84,77,84
+0022100517,2021-12-29,IND,CHA,34.1,3,1,54,CHA,CHA,reb,0,False,False,,Smith REBOUND (Off:0 Def:4),77-84,77,84
+0022100517,2021-12-29,IND,CHA,34.25,3,1,45,CHA,CHA,fg_make,75,False,False,,Oubre Jr. 3' Driving Finger Roll Layup (8 PTS) (Plumlee 3 AST),77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.25,3,1,45,CHA,IND,foul,2,False,False,LeVert S.FOUL (P3.T2) (M.Lindsay),,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.25,3,1,45,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 4 Short 0),,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.25,3,1,45,CHA,CHA,ft_miss,10,False,False,,MISS Oubre Jr. Free Throw 1 of 1,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.28,3,1,43,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:14),,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.53,3,1,28,IND,IND,tov,1,False,False,Sabonis Bad Pass Turnover (P5.T16),,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.53,3,1,28,CHA,CHA,ft_make,12,False,False,,Martin Free Throw 2 of 2 (1 PTS),77-87,77,87
+0022100517,2021-12-29,IND,CHA,34.53,3,1,28,CHA,CHA,reb,1,False,False,,Hornets Rebound,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.53,3,1,28,CHA,IND,foul,3,False,False,Sabonis L.B.FOUL (P3.PN) (B.Barnaky),,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.53,3,1,28,CHA,CHA,ft_miss,11,False,False,,MISS Martin Free Throw 1 of 2,77-86,77,86
+0022100517,2021-12-29,IND,CHA,34.88,3,1,7,IND,IND,fg3_miss,1,False,False,MISS Craig 3PT Jump Shot,,77-87,77,87
+0022100517,2021-12-29,IND,CHA,34.95,3,1,3,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:14),,77-87,77,87
+0022100517,2021-12-29,IND,CHA,35.02,3,0,59,IND,IND,fg_make,7,False,False,Brissett Dunk (8 PTS) (Craig 2 AST),,79-87,79,87
+0022100517,2021-12-29,IND,CHA,35.35,3,0,39,CHA,CHA,tov,2,False,True,,Smith Lost Ball Turnover (P2.T12),79-87,79,87
+0022100517,2021-12-29,IND,CHA,35.35,3,0,39,CHA,IND,steal,2,False,True,steal,steal,79-87,79,87
+0022100517,2021-12-29,IND,CHA,35.45,3,0,33,IND,IND,fg3_make,2,False,False,Brissett 25' 3PT Running Jump Shot (11 PTS) (Sabonis 5 AST),,82-87,82,87
+0022100517,2021-12-29,IND,CHA,35.78,3,0,13,CHA,CHA,fg3_make,79,False,False,,Hayward 26' 3PT Pullup Jump Shot (16 PTS) (Smith 2 AST),82-90,82,90
+0022100517,2021-12-29,IND,CHA,36.0,3,0,0,IND,,period_end,0,False,False,,,82-90,82,90
+0022100517,2021-12-29,IND,CHA,36.0,4,12,0,IND,,period_start,0,False,False,,,82-90,82,90
+0022100517,2021-12-29,IND,CHA,36.0,3,0,0,IND,IND,fg3_miss,1,False,False,MISS Sabonis 3PT Jump Shot,,82-90,82,90
+0022100517,2021-12-29,IND,CHA,36.0,3,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,82-90,82,90
+0022100517,2021-12-29,IND,CHA,36.32,4,11,41,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),82-90,82,90
+0022100517,2021-12-29,IND,CHA,36.38,4,11,37,CHA,CHA,fg_make,98,False,False,,Oubre Jr. 2' Cutting Layup Shot (10 PTS) (Plumlee 4 AST),82-92,82,92
+0022100517,2021-12-29,IND,CHA,36.63,4,11,22,IND,IND,fg3_miss,1,False,False,MISS Martin 25' 3PT Jump Shot,,82-92,82,92
+0022100517,2021-12-29,IND,CHA,36.68,4,11,19,IND,IND,reb,0,False,False,Brissett REBOUND (Off:5 Def:0),,82-92,82,92
+0022100517,2021-12-29,IND,CHA,36.82,4,11,11,IND,IND,fg3_make,1,False,False,Martin 3PT Jump Shot (6 PTS) (Craig 3 AST),,85-92,85,92
+0022100517,2021-12-29,IND,CHA,37.1,4,10,54,CHA,CHA,fg_make,102,False,False,,Rozier 4' Driving Floating Bank Jump Shot (24 PTS),85-94,85,94
+0022100517,2021-12-29,IND,CHA,37.33,4,10,40,IND,CHA,block,6,True,False,block,block,85-94,85,94
+0022100517,2021-12-29,IND,CHA,37.33,4,10,40,IND,IND,fg_miss,6,True,False,MISS Martin 2' Driving Layup,,85-94,85,94
+0022100517,2021-12-29,IND,CHA,37.37,4,10,38,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:8),85-94,85,94
+0022100517,2021-12-29,IND,CHA,37.43,4,10,34,CHA,CHA,fg_miss,76,False,False,,MISS Rozier 3' Running Finger Roll Layup,85-94,85,94
+0022100517,2021-12-29,IND,CHA,37.48,4,10,31,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:15),,85-94,85,94
+0022100517,2021-12-29,IND,CHA,37.58,4,10,25,IND,IND,fg3_make,2,False,False,Brissett 24' 3PT Running Jump Shot (14 PTS) (Sabonis 6 AST),,88-94,88,94
+0022100517,2021-12-29,IND,CHA,37.98,4,10,1,CHA,CHA,fg3_miss,79,False,False,,MISS Oubre Jr. 26' 3PT Pullup Jump Shot,88-94,88,94
+0022100517,2021-12-29,IND,CHA,38.07,4,9,56,IND,IND,reb,0,False,False,Sykes REBOUND (Off:0 Def:1),,88-94,88,94
+0022100517,2021-12-29,IND,CHA,38.17,4,9,50,IND,IND,fg_make,50,False,False,Craig 2' Running Dunk (2 PTS) (Sabonis 7 AST),,90-94,90,94
+0022100517,2021-12-29,IND,CHA,38.65,4,9,21,CHA,CHA,fg_miss,5,False,False,,MISS Plumlee 4' Layup,90-94,90,94
+0022100517,2021-12-29,IND,CHA,38.7,4,9,18,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:16),,90-94,90,94
+0022100517,2021-12-29,IND,CHA,38.8,4,9,12,IND,IND,fg3_miss,2,False,False,MISS Brissett 27' 3PT Running Jump Shot,,90-94,90,94
+0022100517,2021-12-29,IND,CHA,38.83,4,9,10,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:5),90-94,90,94
+0022100517,2021-12-29,IND,CHA,39.03,4,8,58,CHA,CHA,fg_make,79,False,False,,Hayward 15' Pullup Jump Shot (18 PTS) (Rozier 2 AST),90-96,90,96
+0022100517,2021-12-29,IND,CHA,39.38,4,8,37,IND,IND,fg_miss,98,False,False,MISS Brissett 4' Cutting Layup Shot,,90-96,90,96
+0022100517,2021-12-29,IND,CHA,39.4,4,8,36,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:4),90-96,90,96
+0022100517,2021-12-29,IND,CHA,39.47,4,8,32,CHA,CHA,fg3_make,2,False,False,,Oubre Jr. 26' 3PT Running Jump Shot (13 PTS) (Hayward 2 AST),90-99,90,99
+0022100517,2021-12-29,IND,CHA,39.52,4,8,29,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 5 Short 0),,90-99,90,99
+0022100517,2021-12-29,IND,CHA,39.87,4,8,8,IND,IND,fg_make,75,False,False,LeVert 3' Driving Finger Roll Layup (21 PTS),,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.07,4,7,56,CHA,IND,block,41,True,False,block,block,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.07,4,7,56,CHA,CHA,fg_miss,41,True,False,,MISS McDaniels 4' Running Layup,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.12,4,7,53,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:2 Def:1),92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.15,4,7,51,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.18,4,7,49,IND,IND,reb,0,False,False,Martin REBOUND (Off:0 Def:2),,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.32,4,7,41,IND,IND,fg3_miss,1,False,False,MISS Martin 26' 3PT Jump Shot,,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.38,4,7,37,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:6),92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.53,4,7,28,CHA,CHA,fg_miss,102,False,False,,MISS Rozier 8' Driving Floating Bank Jump Shot,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.58,4,7,25,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:3),,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.72,4,7,17,IND,IND,fg3_miss,1,False,False,MISS Turner 27' 3PT Jump Shot,,92-99,92,99
+0022100517,2021-12-29,IND,CHA,40.8,4,7,12,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:7),92-99,92,99
+0022100517,2021-12-29,IND,CHA,41.03,4,6,58,CHA,CHA,fg_miss,6,False,False,,MISS Oubre Jr. 4' Driving Layup,92-99,92,99
+0022100517,2021-12-29,IND,CHA,41.07,4,6,56,CHA,CHA,fg_make,97,False,False,,Ball Tip Layup Shot (21 PTS),92-101,92,101
+0022100517,2021-12-29,IND,CHA,41.07,4,6,56,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:4 Def:7),92-99,92,99
+0022100517,2021-12-29,IND,CHA,41.18,4,6,49,IND,IND,ft_make,15,False,False,LeVert Free Throw 3 of 3 (24 PTS),,95-101,95,101
+0022100517,2021-12-29,IND,CHA,41.18,4,6,49,IND,IND,ft_make,14,False,False,LeVert Free Throw 2 of 3 (23 PTS),,94-101,94,101
+0022100517,2021-12-29,IND,CHA,41.18,4,6,49,IND,IND,ft_make,13,False,False,LeVert Free Throw 1 of 3 (22 PTS),,93-101,93,101
+0022100517,2021-12-29,IND,CHA,41.18,4,6,49,IND,CHA,foul,2,False,False,,McDaniels S.FOUL (P2.T1) (M.Lindsay),92-101,92,101
+0022100517,2021-12-29,IND,CHA,41.47,4,6,32,CHA,CHA,fg_miss,86,False,False,,MISS Hayward 9' Turnaround Fadeaway Shot,95-101,95,101
+0022100517,2021-12-29,IND,CHA,41.55,4,6,27,IND,IND,reb,0,False,False,LeVert REBOUND (Off:1 Def:6),,95-101,95,101
+0022100517,2021-12-29,IND,CHA,41.9,4,6,6,IND,IND,fg3_miss,80,False,False,MISS LeVert 26' 3PT Step Back Jump Shot,,95-101,95,101
+0022100517,2021-12-29,IND,CHA,41.95,4,6,3,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:3),,95-101,95,101
+0022100517,2021-12-29,IND,CHA,41.97,4,6,2,IND,IND,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,95-101,95,101
+0022100517,2021-12-29,IND,CHA,42.05,4,5,57,IND,IND,reb,0,False,False,PACERS Rebound,,95-101,95,101
+0022100517,2021-12-29,IND,CHA,42.05,4,5,57,,IND,jump_ball,0,False,False,Jump Ball Turner vs. McDaniels: Tip to Turner,,95-101,95,101
+0022100517,2021-12-29,IND,CHA,42.28,4,5,43,IND,CHA,foul,1,False,False,,Ball P.FOUL (P2.T2) (B.Barnaky),95-101,95,101
+0022100517,2021-12-29,IND,CHA,42.45,4,5,33,IND,IND,ft_make,11,False,False,Craig Free Throw 1 of 2 (3 PTS),,96-101,96,101
+0022100517,2021-12-29,IND,CHA,42.45,4,5,33,IND,CHA,foul,2,False,False,,Martin S.FOUL (P4.T3) (M.Lindsay),95-101,95,101
+0022100517,2021-12-29,IND,CHA,42.45,4,5,33,IND,IND,ft_make,12,False,False,Craig Free Throw 2 of 2 (4 PTS),,97-101,97,101
+0022100517,2021-12-29,IND,CHA,42.7,4,5,18,CHA,CHA,reb,0,False,False,,Hornets Rebound,97-101,97,101
+0022100517,2021-12-29,IND,CHA,42.7,4,5,18,CHA,IND,block,79,True,False,block,block,97-101,97,101
+0022100517,2021-12-29,IND,CHA,42.7,4,5,18,CHA,CHA,fg_miss,79,True,False,,MISS Rozier 4' Pullup Jump Shot,97-101,97,101
+0022100517,2021-12-29,IND,CHA,42.75,4,5,15,CHA,CHA,fg_make,79,False,False,,Rozier 20' Pullup Jump Shot (26 PTS) (Ball 8 AST),97-103,97,103
+0022100517,2021-12-29,IND,CHA,43.03,4,4,58,IND,IND,fg_miss,101,False,False,MISS LeVert 7' Driving Floating Jump Shot,,97-103,97,103
+0022100517,2021-12-29,IND,CHA,43.08,4,4,55,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:9),97-103,97,103
+0022100517,2021-12-29,IND,CHA,43.1,4,4,54,CHA,IND,foul,1,False,False,Martin P.FOUL (P1.T1) (M.Lindsay),,97-103,97,103
+0022100517,2021-12-29,IND,CHA,43.27,4,4,44,CHA,IND,block,108,True,False,block,block,97-103,97,103
+0022100517,2021-12-29,IND,CHA,43.27,4,4,44,CHA,CHA,fg_miss,108,True,False,,MISS Plumlee 3' Cutting Dunk Shot,97-103,97,103
+0022100517,2021-12-29,IND,CHA,43.32,4,4,41,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:5 Def:7),97-103,97,103
+0022100517,2021-12-29,IND,CHA,43.48,4,4,31,CHA,CHA,fg_make,101,False,False,,McDaniels 8' Driving Floating Jump Shot (12 PTS) (Rozier 3 AST),97-105,97,105
+0022100517,2021-12-29,IND,CHA,43.65,4,4,21,IND,IND,fg3_make,1,False,False,Martin 3PT Jump Shot (9 PTS) (LeVert 5 AST),,100-105,100,105
+0022100517,2021-12-29,IND,CHA,44.1,4,3,54,CHA,CHA,tov,2,False,True,,McDaniels Lost Ball Turnover (P2.T13),100-105,100,105
+0022100517,2021-12-29,IND,CHA,44.1,4,3,54,CHA,IND,steal,2,False,True,steal,steal,100-105,100,105
+0022100517,2021-12-29,IND,CHA,44.4,4,3,36,IND,IND,fg3_miss,1,False,False,MISS Martin 3PT Jump Shot,,100-105,100,105
+0022100517,2021-12-29,IND,CHA,44.48,4,3,31,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.4 Short 0),100-105,100,105
+0022100517,2021-12-29,IND,CHA,44.48,4,3,31,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:3),100-105,100,105
+0022100517,2021-12-29,IND,CHA,44.8,4,3,12,,IND,jump_ball,0,False,False,Jump Ball Turner vs. Ball: Tip to Martin,,100-105,100,105
+0022100517,2021-12-29,IND,CHA,44.82,4,3,11,CHA,CHA,fg3_make,1,False,False,,Rozier 26' 3PT Jump Shot (29 PTS) (Martin 4 AST),100-108,100,108
+0022100517,2021-12-29,IND,CHA,44.85,4,3,9,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 6 Short 0),,100-108,100,108
+0022100517,2021-12-29,IND,CHA,45.02,4,2,59,IND,IND,fg3_make,79,False,False,LeVert 26' 3PT Pullup Jump Shot (27 PTS),,103-108,103,108
+0022100517,2021-12-29,IND,CHA,45.45,4,2,33,CHA,CHA,fg3_make,79,False,False,,Rozier 24' 3PT Pullup Jump Shot (32 PTS),103-111,103,111
+0022100517,2021-12-29,IND,CHA,45.63,4,2,22,IND,IND,fg3_miss,80,False,False,MISS LeVert 25' 3PT Step Back Jump Shot,,103-111,103,111
+0022100517,2021-12-29,IND,CHA,45.68,4,2,19,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:10),103-111,103,111
+0022100517,2021-12-29,IND,CHA,46.07,4,1,56,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#14),103-111,103,111
+0022100517,2021-12-29,IND,CHA,46.27,4,1,44,IND,IND,fg_miss,6,False,False,MISS Turner 3' Driving Layup,,103-111,103,111
+0022100517,2021-12-29,IND,CHA,46.28,4,1,43,CHA,IND,foul,1,False,False,Sabonis P.FOUL (P4.T2) (M.Lindsay),,103-111,103,111
+0022100517,2021-12-29,IND,CHA,46.28,4,1,43,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:11),103-111,103,111
+0022100517,2021-12-29,IND,CHA,46.58,4,1,25,CHA,CHA,fg_miss,1,False,False,,MISS Hayward 9' Jump Shot,103-111,103,111
+0022100517,2021-12-29,IND,CHA,46.62,4,1,23,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:4),,103-111,103,111
+0022100517,2021-12-29,IND,CHA,46.78,4,1,13,IND,IND,fg3_make,1,False,False,Turner 26' 3PT Jump Shot (14 PTS) (LeVert 6 AST),,106-111,106,111
+0022100517,2021-12-29,IND,CHA,47.17,4,0,50,CHA,CHA,fg_make,7,False,False,,Plumlee 2' Dunk (8 PTS) (Ball 9 AST),106-113,106,113
+0022100517,2021-12-29,IND,CHA,47.35,4,0,39,IND,IND,fg_miss,75,False,False,MISS Turner 3' Driving Finger Roll Layup,,106-113,106,113
+0022100517,2021-12-29,IND,CHA,47.38,4,0,37,IND,IND,reb,0,False,False,Craig REBOUND (Off:1 Def:2),,106-113,106,113
+0022100517,2021-12-29,IND,CHA,47.38,4,0,37,IND,IND,fg_make,72,False,False,Craig 2' Putback Layup (6 PTS),,108-113,108,113
+0022100517,2021-12-29,IND,CHA,47.55,4,0,27,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (33 PTS),108-114,108,114
+0022100517,2021-12-29,IND,CHA,47.55,4,0,27,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 7 Short 0),,108-114,108,114
+0022100517,2021-12-29,IND,CHA,47.55,4,0,27,CHA,CHA,reb,1,False,False,,Hornets Rebound,108-113,108,113
+0022100517,2021-12-29,IND,CHA,47.55,4,0,27,CHA,CHA,ft_miss,11,False,False,,MISS Rozier Free Throw 1 of 2,108-113,108,113
+0022100517,2021-12-29,IND,CHA,47.55,4,0,27,CHA,IND,foul,28,False,False,LeVert Personal Take Foul (P4.PN) (M.Lindsay),,108-113,108,113
+0022100517,2021-12-29,IND,CHA,47.63,4,0,22,IND,IND,fg3_miss,80,False,False,MISS LeVert 27' 3PT Step Back Jump Shot,,108-114,108,114
+0022100517,2021-12-29,IND,CHA,47.7,4,0,18,IND,IND,tov,1,False,True,Sabonis Bad Pass Turnover (P6.T17),,108-116,108,116
+0022100517,2021-12-29,IND,CHA,47.7,4,0,18,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (35 PTS),108-116,108,116
+0022100517,2021-12-29,IND,CHA,47.7,4,0,18,CHA,CHA,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (34 PTS),108-115,108,115
+0022100517,2021-12-29,IND,CHA,47.7,4,0,18,CHA,IND,foul,28,False,False,Martin Personal Take Foul (P2.PN) (M.Lindsay),,108-114,108,114
+0022100517,2021-12-29,IND,CHA,47.7,4,0,18,IND,CHA,steal,1,False,True,steal,steal,108-116,108,116
+0022100517,2021-12-29,IND,CHA,47.7,4,0,18,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:7),108-114,108,114
+0022100517,2021-12-29,IND,CHA,47.8,4,0,12,CHA,CHA,fg_miss,43,False,False,,MISS Plumlee 3' Alley Oop Layup,108-116,108,116
+0022100517,2021-12-29,IND,CHA,47.83,4,0,10,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:4),,108-116,108,116
+0022100517,2021-12-29,IND,CHA,47.9,4,0,6,IND,IND,tov,1,False,True,LeVert Bad Pass Turnover (P3.T18),,108-116,108,116
+0022100517,2021-12-29,IND,CHA,47.9,4,0,6,IND,CHA,steal,1,False,True,steal,steal,108-116,108,116
+0022100517,2021-12-29,IND,CHA,48.0,4,0,0,IND,,period_end,0,False,False,,,108-116,108,116

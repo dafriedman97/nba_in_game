@@ -1,0 +1,440 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101041,2022-03-16,UTA,CHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,0.0,1,12,0,,UTA,jump_ball,0,False,False,Jump Ball Gobert vs. Vucevic: Tip to Hernangomez,,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,0.38,1,11,37,UTA,UTA,fg_miss,79,False,False,MISS Conley 12' Pullup Jump Shot,,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,0.43,1,11,34,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:1),0-0,0,0
+0022101041,2022-03-16,UTA,CHI,0.67,1,11,20,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 26' 3PT Jump Shot,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,0.72,1,11,17,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:1),,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,0.88,1,11,7,UTA,UTA,fg3_miss,79,False,False,MISS Mitchell 25' 3PT Pullup Jump Shot,,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,0.9,1,11,6,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:2),0-0,0,0
+0022101041,2022-03-16,UTA,CHI,1.0,1,11,0,CHI,UTA,foul,1,False,False,Conley P.FOUL (P1.T1) (M.Kogut),,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,1.07,1,10,56,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 22' Pullup Jump Shot,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,1.13,1,10,52,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:2),,0-0,0,0
+0022101041,2022-03-16,UTA,CHI,1.37,1,10,38,UTA,UTA,fg_make,108,False,False,Gobert 3' Cutting Dunk Shot (2 PTS) (Mitchell 1 AST),,2-0,2,0
+0022101041,2022-03-16,UTA,CHI,1.6,1,10,24,CHI,CHI,fg_miss,79,False,False,,MISS Dosunmu 20' Pullup Jump Shot,2-0,2,0
+0022101041,2022-03-16,UTA,CHI,1.62,1,10,23,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:3),,2-0,2,0
+0022101041,2022-03-16,UTA,CHI,1.77,1,10,14,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 9' Driving Layup,,2-0,2,0
+0022101041,2022-03-16,UTA,CHI,1.85,1,10,9,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:1),2-0,2,0
+0022101041,2022-03-16,UTA,CHI,1.98,1,10,1,CHI,CHI,fg_make,78,False,False,,Vucevic 10' Floating Jump Shot (2 PTS) (LaVine 1 AST),2-2,2,2
+0022101041,2022-03-16,UTA,CHI,2.42,1,9,35,UTA,UTA,tov,1,False,True,Mitchell Bad Pass Turnover (P1.T1),,2-2,2,2
+0022101041,2022-03-16,UTA,CHI,2.42,1,9,35,UTA,CHI,steal,1,False,True,steal,steal,2-2,2,2
+0022101041,2022-03-16,UTA,CHI,2.58,1,9,25,CHI,CHI,tov,45,False,False,,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T1),2-2,2,2
+0022101041,2022-03-16,UTA,CHI,2.77,1,9,14,UTA,CHI,foul,1,False,False,,Dosunmu P.FOUL (P1.T1) (E.Malloy),2-2,2,2
+0022101041,2022-03-16,UTA,CHI,2.88,1,9,7,UTA,UTA,fg_miss,101,False,False,MISS Conley 11' Driving Floating Jump Shot,,2-2,2,2
+0022101041,2022-03-16,UTA,CHI,2.98,1,9,1,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:3),,2-2,2,2
+0022101041,2022-03-16,UTA,CHI,2.98,1,9,1,UTA,UTA,fg_make,87,False,False,Gobert Putback Dunk (4 PTS),,4-2,4,2
+0022101041,2022-03-16,UTA,CHI,3.22,1,8,47,CHI,CHI,fg3_miss,80,False,False,,MISS LaVine 26' 3PT Step Back Jump Shot,4-2,4,2
+0022101041,2022-03-16,UTA,CHI,3.23,1,8,46,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:4),,4-2,4,2
+0022101041,2022-03-16,UTA,CHI,3.42,1,8,35,UTA,UTA,fg3_make,1,False,False,Mitchell 24' 3PT Jump Shot (3 PTS) (Conley 1 AST),,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,3.62,1,8,23,CHI,CHI,fg_miss,1,False,False,,MISS Vucevic 19' Jump Shot,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,3.65,1,8,21,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:1),,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,3.82,1,8,11,UTA,CHI,foul,2,False,False,,Vucevic S.FOUL (P1.T2) (D.Collins),7-2,7,2
+0022101041,2022-03-16,UTA,CHI,3.82,1,8,11,UTA,UTA,ft_miss,11,False,False,MISS Hernangomez Free Throw 1 of 2,,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,3.82,1,8,11,UTA,UTA,reb,1,False,False,JAZZ Rebound,,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,3.82,1,8,11,UTA,UTA,ft_miss,12,False,False,MISS Hernangomez Free Throw 2 of 2,,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,3.83,1,8,10,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:2),7-2,7,2
+0022101041,2022-03-16,UTA,CHI,4.07,1,7,56,CHI,CHI,fg_miss,80,False,False,,MISS DeRozan 17' Step Back Jump Shot,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,4.1,1,7,54,UTA,UTA,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:1),,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,4.25,1,7,45,UTA,UTA,tov,1,False,True,Mitchell Bad Pass Turnover (P2.T2),,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,4.25,1,7,45,UTA,CHI,steal,1,False,True,steal,steal,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,4.3,1,7,42,CHI,UTA,foul,2,False,False,Mitchell S.FOUL (P1.T2) (D.Collins),,7-2,7,2
+0022101041,2022-03-16,UTA,CHI,4.3,1,7,42,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (1 PTS),7-3,7,3
+0022101041,2022-03-16,UTA,CHI,4.3,1,7,42,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (2 PTS),7-4,7,4
+0022101041,2022-03-16,UTA,CHI,4.53,1,7,28,UTA,UTA,fg3_make,79,False,False,Conley 25' 3PT Pullup Jump Shot (3 PTS) (Mitchell 2 AST),,10-4,10,4
+0022101041,2022-03-16,UTA,CHI,4.72,1,7,17,CHI,CHI,fg_make,78,False,False,,Vucevic 11' Floating Jump Shot (4 PTS) (Dosunmu 1 AST),10-6,10,6
+0022101041,2022-03-16,UTA,CHI,4.92,1,7,5,UTA,CHI,foul,2,False,False,,Vucevic S.FOUL (P2.T3) (D.Collins),10-6,10,6
+0022101041,2022-03-16,UTA,CHI,4.92,1,7,5,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (5 PTS),,11-6,11,6
+0022101041,2022-03-16,UTA,CHI,4.92,1,7,5,UTA,UTA,ft_miss,12,False,False,MISS Gobert Free Throw 2 of 2,,11-6,11,6
+0022101041,2022-03-16,UTA,CHI,4.93,1,7,4,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:1),11-6,11,6
+0022101041,2022-03-16,UTA,CHI,5.25,1,6,45,CHI,CHI,fg3_make,1,False,False,,LaVine 3PT Jump Shot (5 PTS) (DeRozan 1 AST),11-9,11,9
+0022101041,2022-03-16,UTA,CHI,5.45,1,6,33,UTA,UTA,fg3_make,79,False,False,Mitchell 27' 3PT Pullup Jump Shot (6 PTS),,14-9,14,9
+0022101041,2022-03-16,UTA,CHI,5.77,1,6,14,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 5' Driving Layup,14-9,14,9
+0022101041,2022-03-16,UTA,CHI,5.77,1,6,14,CHI,UTA,block,6,True,False,block,block,14-9,14,9
+0022101041,2022-03-16,UTA,CHI,5.77,1,6,14,CHI,CHI,reb,0,False,False,,Bulls Rebound,14-9,14,9
+0022101041,2022-03-16,UTA,CHI,5.77,1,6,14,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 1 Short 0),,14-9,14,9
+0022101041,2022-03-16,UTA,CHI,5.93,1,6,4,CHI,CHI,fg3_make,1,False,False,,Dosunmu 25' 3PT Jump Shot (3 PTS) (LaVine 2 AST),14-12,14,12
+0022101041,2022-03-16,UTA,CHI,6.25,1,5,45,UTA,UTA,fg_make,86,False,False,Clarkson 12' Turnaround Fadeaway (2 PTS),,16-12,16,12
+0022101041,2022-03-16,UTA,CHI,6.5,1,5,30,CHI,CHI,fg_make,3,False,False,,Thompson 6' Hook Shot (2 PTS) (Dosunmu 2 AST),16-14,16,14
+0022101041,2022-03-16,UTA,CHI,6.67,1,5,20,UTA,UTA,tov,2,False,True,Mitchell Lost Ball Turnover (P3.T3),,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,6.67,1,5,20,UTA,CHI,steal,2,False,True,steal,steal,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,6.75,1,5,15,CHI,CHI,fg_miss,41,False,False,,MISS Dosunmu 4' Running Layup,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,6.77,1,5,14,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:1),,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,6.77,1,5,14,UTA,CHI,foul,28,False,False,,Caruso Personal Take Foul (P1.T4) (D.Collins),16-14,16,14
+0022101041,2022-03-16,UTA,CHI,6.93,1,5,4,CHI,UTA,foul,4,False,False,Whiteside OFF.Foul (P1) (E.Malloy),,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,6.93,1,5,4,UTA,UTA,tov,37,False,False,Whiteside Offensive Foul Turnover (P1.T4),,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,7.08,1,4,55,CHI,CHI,fg3_miss,79,False,False,,MISS LaVine 26' 3PT Pullup Jump Shot,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,7.15,1,4,51,UTA,UTA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:1),,16-14,16,14
+0022101041,2022-03-16,UTA,CHI,7.28,1,4,43,UTA,UTA,fg_make,6,False,False,Clarkson 5' Driving Layup (4 PTS),,18-14,18,14
+0022101041,2022-03-16,UTA,CHI,7.5,1,4,30,CHI,CHI,fg_make,101,False,False,,Dosunmu 14' Driving Floating Jump Shot (5 PTS),18-16,18,16
+0022101041,2022-03-16,UTA,CHI,7.78,1,4,13,UTA,UTA,fg3_miss,1,False,False,MISS Clarkson 25' 3PT Jump Shot,,18-16,18,16
+0022101041,2022-03-16,UTA,CHI,7.8,1,4,12,UTA,UTA,reb,0,False,False,Whiteside REBOUND (Off:1 Def:1),,18-16,18,16
+0022101041,2022-03-16,UTA,CHI,7.82,1,4,11,UTA,UTA,fg_miss,97,False,False,MISS Whiteside 2' Tip Layup Shot,,18-16,18,16
+0022101041,2022-03-16,UTA,CHI,7.82,1,4,11,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),18-16,18,16
+0022101041,2022-03-16,UTA,CHI,7.97,1,4,2,CHI,CHI,fg_make,6,False,False,,LaVine 3' Driving Layup (7 PTS),18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.35,1,3,39,UTA,UTA,fg3_miss,80,False,False,MISS Mitchell 27' 3PT Step Back Jump Shot,,18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.38,1,3,37,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:0 Def:2),18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.55,1,3,27,CHI,UTA,foul,1,False,False,Mitchell P.FOUL (P2.T3) (M.Kogut),,18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.55,1,3,27,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.1 Short 0),18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.63,1,3,22,CHI,CHI,tov,1,False,True,,Caruso Bad Pass Turnover (P1.T2),18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.63,1,3,22,CHI,UTA,steal,1,False,True,steal,steal,18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.87,1,3,8,UTA,UTA,fg_miss,79,False,False,MISS Clarkson 13' Pullup Jump Shot,,18-18,18,18
+0022101041,2022-03-16,UTA,CHI,8.95,1,3,3,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:0 Def:1),18-18,18,18
+0022101041,2022-03-16,UTA,CHI,9.05,1,2,57,CHI,CHI,fg3_make,1,False,False,,White 25' 3PT Jump Shot (3 PTS) (Jones Jr. 1 AST),18-21,18,21
+0022101041,2022-03-16,UTA,CHI,9.4,1,2,36,UTA,UTA,fg_make,101,False,False,Clarkson 7' Driving Floating Jump Shot (6 PTS),,20-21,20,21
+0022101041,2022-03-16,UTA,CHI,9.68,1,2,19,CHI,CHI,fg_make,98,False,False,,White 3' Cutting Layup Shot (5 PTS) (Thompson 1 AST),20-23,20,23
+0022101041,2022-03-16,UTA,CHI,9.98,1,2,1,UTA,UTA,tov,1,False,True,Alexander-Walker Bad Pass Turnover (P1.T5),,20-23,20,23
+0022101041,2022-03-16,UTA,CHI,9.98,1,2,1,UTA,CHI,steal,1,False,True,steal,steal,20-23,20,23
+0022101041,2022-03-16,UTA,CHI,10.0,1,2,0,CHI,CHI,tov,2,False,True,,Caruso Lost Ball Turnover (P2.T3),20-23,20,23
+0022101041,2022-03-16,UTA,CHI,10.0,1,2,0,CHI,UTA,steal,2,False,True,steal,steal,20-23,20,23
+0022101041,2022-03-16,UTA,CHI,10.03,1,1,58,UTA,UTA,tov,2,False,True,Conley Lost Ball Turnover (P1.T6),,20-23,20,23
+0022101041,2022-03-16,UTA,CHI,10.03,1,1,58,UTA,CHI,steal,2,False,True,steal,steal,20-23,20,23
+0022101041,2022-03-16,UTA,CHI,10.08,1,1,55,CHI,CHI,fg3_make,103,False,False,,White 25' 3PT Running Pull-Up Jump Shot (8 PTS) (Jones Jr. 2 AST),20-26,20,26
+0022101041,2022-03-16,UTA,CHI,10.43,1,1,34,UTA,CHI,foul,2,False,False,,White S.FOUL (P1.PN) (E.Malloy),20-26,20,26
+0022101041,2022-03-16,UTA,CHI,10.43,1,1,34,UTA,UTA,ft_make,13,False,False,Conley Free Throw 1 of 3 (4 PTS),,21-26,21,26
+0022101041,2022-03-16,UTA,CHI,10.43,1,1,34,UTA,UTA,ft_miss,14,False,False,MISS Conley Free Throw 2 of 3,,21-26,21,26
+0022101041,2022-03-16,UTA,CHI,10.43,1,1,34,UTA,UTA,reb,1,False,False,JAZZ Rebound,,21-26,21,26
+0022101041,2022-03-16,UTA,CHI,10.43,1,1,34,UTA,UTA,ft_make,15,False,False,Conley Free Throw 3 of 3 (5 PTS),,22-26,22,26
+0022101041,2022-03-16,UTA,CHI,10.72,1,1,17,CHI,CHI,tov,1,False,True,,Caruso Bad Pass Turnover (P3.T4),22-26,22,26
+0022101041,2022-03-16,UTA,CHI,10.72,1,1,17,CHI,UTA,steal,1,False,True,steal,steal,22-26,22,26
+0022101041,2022-03-16,UTA,CHI,10.8,1,1,12,UTA,UTA,fg3_miss,2,False,False,MISS Alexander-Walker 26' 3PT Running Jump Shot,,22-26,22,26
+0022101041,2022-03-16,UTA,CHI,10.85,1,1,9,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:4),,22-26,22,26
+0022101041,2022-03-16,UTA,CHI,10.88,1,1,7,UTA,UTA,fg3_make,1,False,False,Conley 26' 3PT Jump Shot (8 PTS) (Gobert 1 AST),,25-26,25,26
+0022101041,2022-03-16,UTA,CHI,11.3,1,0,42,CHI,CHI,fg3_miss,79,False,False,,MISS White 25' 3PT Pullup Jump Shot,25-26,25,26
+0022101041,2022-03-16,UTA,CHI,11.37,1,0,38,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:1 Def:2),25-26,25,26
+0022101041,2022-03-16,UTA,CHI,11.55,1,0,27,CHI,CHI,fg3_miss,1,False,False,,MISS Caruso 29' 3PT Jump Shot,25-26,25,26
+0022101041,2022-03-16,UTA,CHI,11.6,1,0,24,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:1 Def:0),25-26,25,26
+0022101041,2022-03-16,UTA,CHI,11.6,1,0,24,CHI,UTA,foul,2,False,False,Gobert S.FOUL (P1.T4) (E.Malloy),,25-26,25,26
+0022101041,2022-03-16,UTA,CHI,11.6,1,0,24,CHI,CHI,ft_make,11,False,False,,Jones Jr. Free Throw 1 of 2 (1 PTS),25-27,25,27
+0022101041,2022-03-16,UTA,CHI,11.6,1,0,24,CHI,CHI,ft_miss,12,False,False,,MISS Jones Jr. Free Throw 2 of 2,25-27,25,27
+0022101041,2022-03-16,UTA,CHI,11.62,1,0,23,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:5),,25-27,25,27
+0022101041,2022-03-16,UTA,CHI,11.98,1,0,1,UTA,CHI,foul,2,False,False,,Dosunmu S.FOUL (P2.PN) (E.Malloy),25-27,25,27
+0022101041,2022-03-16,UTA,CHI,11.98,1,0,1,UTA,UTA,ft_miss,13,False,False,MISS Alexander-Walker Free Throw 1 of 3,,25-27,25,27
+0022101041,2022-03-16,UTA,CHI,11.98,1,0,1,UTA,UTA,reb,1,False,False,JAZZ Rebound,,25-27,25,27
+0022101041,2022-03-16,UTA,CHI,11.98,1,0,1,UTA,UTA,ft_make,14,False,False,Alexander-Walker Free Throw 2 of 3 (1 PTS),,26-27,26,27
+0022101041,2022-03-16,UTA,CHI,11.98,1,0,1,UTA,UTA,ft_make,15,False,False,Alexander-Walker Free Throw 3 of 3 (2 PTS),,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.0,1,0,0,CHI,CHI,fg3_miss,79,False,False,,MISS Thompson 49' 3PT Pullup Jump Shot,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.0,1,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.0,1,0,0,CHI,,period_end,0,False,False,,,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.0,2,12,0,CHI,,period_start,0,False,False,,,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.35,2,11,39,CHI,CHI,fg3_miss,1,False,False,,MISS White 27' 3PT Jump Shot,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.38,2,11,37,UTA,UTA,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:1),,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.53,2,11,28,UTA,UTA,fg_miss,98,False,False,MISS Gobert 2' Cutting Layup Shot,,27-27,27,27
+0022101041,2022-03-16,UTA,CHI,12.58,2,11,25,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:5),,29-27,29,27
+0022101041,2022-03-16,UTA,CHI,12.58,2,11,25,UTA,UTA,fg_make,97,False,False,Gobert Tip Layup Shot (7 PTS),,29-27,29,27
+0022101041,2022-03-16,UTA,CHI,12.82,2,11,11,CHI,CHI,fg_make,47,False,False,,DeRozan 15' Turnaround Jump Shot (2 PTS),29-29,29,29
+0022101041,2022-03-16,UTA,CHI,13.17,2,10,50,UTA,UTA,tov,1,False,True,Gay Bad Pass Turnover (P1.T7),,29-29,29,29
+0022101041,2022-03-16,UTA,CHI,13.17,2,10,50,UTA,CHI,steal,1,False,True,steal,steal,29-29,29,29
+0022101041,2022-03-16,UTA,CHI,13.27,2,10,44,CHI,UTA,foul,2,False,False,Gobert S.FOUL (P2.T1) (M.Kogut),,29-29,29,29
+0022101041,2022-03-16,UTA,CHI,13.27,2,10,44,CHI,CHI,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,29-29,29,29
+0022101041,2022-03-16,UTA,CHI,13.27,2,10,44,CHI,CHI,reb,1,False,False,,Bulls Rebound,29-29,29,29
+0022101041,2022-03-16,UTA,CHI,13.27,2,10,44,CHI,CHI,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (3 PTS),29-30,29,30
+0022101041,2022-03-16,UTA,CHI,13.47,2,10,32,UTA,UTA,fg3_make,79,False,False,Conley 25' 3PT Pullup Jump Shot (11 PTS),,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,13.77,2,10,14,CHI,CHI,fg_miss,86,False,False,,MISS DeRozan 14' Turnaround Fadeaway Shot,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,13.8,2,10,12,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:6),,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.07,2,9,56,UTA,UTA,fg_miss,102,False,False,MISS Alexander-Walker 9' Driving Floating Bank Jump Shot,,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.08,2,9,55,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:6),,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.1,2,9,54,UTA,UTA,fg_miss,97,False,False,MISS Gobert 2' Tip Layup Shot,,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.1,2,9,54,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:6),,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.12,2,9,53,UTA,UTA,fg_miss,97,False,False,MISS Gobert Tip Layup Shot,,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.12,2,9,53,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:2),32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.3,2,9,42,CHI,CHI,fg_miss,78,False,False,,MISS Thompson 11' Floating Jump Shot,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.33,2,9,40,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:7),,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.52,2,9,29,UTA,UTA,tov,4,False,False,Clarkson Traveling Turnover (P1.T8),,32-30,32,30
+0022101041,2022-03-16,UTA,CHI,14.88,2,9,7,CHI,CHI,fg_make,73,False,False,,DeRozan 3' Driving Reverse Layup (4 PTS),32-32,32,32
+0022101041,2022-03-16,UTA,CHI,15.1,2,8,54,UTA,UTA,fg3_miss,1,False,False,MISS Clarkson 3PT Jump Shot,,32-32,32,32
+0022101041,2022-03-16,UTA,CHI,15.12,2,8,53,UTA,UTA,reb,0,False,False,JAZZ Rebound,,32-32,32,32
+0022101041,2022-03-16,UTA,CHI,15.12,2,8,53,UTA,CHI,foul,3,False,False,,Thompson L.B.FOUL (P1.T1) (M.Kogut),32-32,32,32
+0022101041,2022-03-16,UTA,CHI,15.18,2,8,49,UTA,UTA,fg_make,6,False,False,Conley 9' Driving Layup (13 PTS),,34-32,34,32
+0022101041,2022-03-16,UTA,CHI,15.18,2,8,49,UTA,CHI,foul,2,False,False,,White S.FOUL (P2.T2) (D.Collins),34-32,34,32
+0022101041,2022-03-16,UTA,CHI,15.18,2,8,49,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.2 Short 0),34-32,34,32
+0022101041,2022-03-16,UTA,CHI,15.18,2,8,49,CHI,UTA,ft_make,10,False,False,Conley Free Throw 1 of 1 (14 PTS),,35-32,35,32
+0022101041,2022-03-16,UTA,CHI,15.38,2,8,37,CHI,UTA,foul,2,False,False,Alexander-Walker S.FOUL (P1.T2) (M.Kogut),,35-32,35,32
+0022101041,2022-03-16,UTA,CHI,15.38,2,8,37,CHI,CHI,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (5 PTS),35-33,35,33
+0022101041,2022-03-16,UTA,CHI,15.38,2,8,37,CHI,CHI,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (6 PTS),35-34,35,34
+0022101041,2022-03-16,UTA,CHI,15.55,2,8,27,UTA,UTA,fg_make,101,False,False,Clarkson 10' Driving Floating Jump Shot (8 PTS) (Conley 2 AST),,37-34,37,34
+0022101041,2022-03-16,UTA,CHI,15.93,2,8,4,CHI,CHI,fg_miss,6,False,False,,MISS LaVine 6' Driving Layup,37-34,37,34
+0022101041,2022-03-16,UTA,CHI,15.95,2,8,3,UTA,UTA,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:2),,37-34,37,34
+0022101041,2022-03-16,UTA,CHI,16.03,2,7,58,UTA,UTA,fg_make,78,False,False,Whiteside 4' Floating Jump Shot (2 PTS) (Conley 3 AST),,39-34,39,34
+0022101041,2022-03-16,UTA,CHI,16.03,2,7,58,UTA,CHI,foul,2,False,False,,Green S.FOUL (P1.T3) (M.Kogut),39-34,39,34
+0022101041,2022-03-16,UTA,CHI,16.03,2,7,58,UTA,UTA,ft_make,10,False,False,Whiteside Free Throw 1 of 1 (3 PTS),,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,16.37,2,7,38,CHI,CHI,fg_miss,79,False,False,,MISS Dosunmu 12' Pullup Jump Shot,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,16.43,2,7,34,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:0 Def:1),,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,16.57,2,7,26,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,16.6,2,7,24,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:3),40-34,40,34
+0022101041,2022-03-16,UTA,CHI,16.75,2,7,15,CHI,CHI,tov,45,False,False,,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T5),40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.03,2,6,58,UTA,UTA,fg3_miss,79,False,False,MISS Clarkson 26' 3PT Pullup Jump Shot,,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.05,2,6,57,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:1),40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.12,2,6,53,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.17,2,6,50,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:0 Def:2),,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.4,2,6,36,UTA,UTA,fg_miss,78,False,False,MISS Whiteside 8' Floating Jump Shot,,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.45,2,6,33,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:3),40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.58,2,6,25,CHI,CHI,fg_miss,6,False,False,,MISS Dosunmu 5' Driving Layup,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.62,2,6,23,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:2),,40-34,40,34
+0022101041,2022-03-16,UTA,CHI,17.72,2,6,17,UTA,UTA,fg_make,50,False,False,Mitchell 1' Running Dunk (8 PTS),,42-34,42,34
+0022101041,2022-03-16,UTA,CHI,18.0,2,6,0,CHI,CHI,fg_make,47,False,False,,Vucevic 9' Turnaround Jump Shot (6 PTS) (Dosunmu 3 AST),42-36,42,36
+0022101041,2022-03-16,UTA,CHI,18.32,2,5,41,UTA,UTA,tov,1,False,True,O'Neale Bad Pass Turnover (P1.T9),,42-36,42,36
+0022101041,2022-03-16,UTA,CHI,18.32,2,5,41,UTA,CHI,steal,1,False,True,steal,steal,42-36,42,36
+0022101041,2022-03-16,UTA,CHI,18.43,2,5,34,CHI,CHI,fg3_make,1,False,False,,Green 26' 3PT Jump Shot (3 PTS) (LaVine 3 AST),42-39,42,39
+0022101041,2022-03-16,UTA,CHI,18.67,2,5,20,UTA,CHI,foul,1,False,False,,Caruso P.FOUL (P2.T4) (D.Collins),42-39,42,39
+0022101041,2022-03-16,UTA,CHI,18.8,2,5,12,UTA,UTA,fg_make,108,False,False,Whiteside 3' Cutting Dunk Shot (5 PTS) (Mitchell 3 AST),,44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.02,2,4,59,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.03,2,4,58,CHI,CHI,reb,0,False,False,,Bulls Rebound,44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.03,2,4,58,CHI,UTA,foul,3,False,False,Mitchell L.B.FOUL (P3.T3) (D.Collins),,44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.2,2,4,48,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 3' Driving Layup,44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.2,2,4,48,CHI,UTA,block,6,True,False,block,block,44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.23,2,4,46,UTA,UTA,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:2),,44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.32,2,4,41,UTA,CHI,foul,2,False,False,,Caruso S.FOUL (P3.PN) (M.Kogut),44-39,44,39
+0022101041,2022-03-16,UTA,CHI,19.32,2,4,41,UTA,UTA,ft_make,11,False,False,Clarkson Free Throw 1 of 2 (9 PTS),,45-39,45,39
+0022101041,2022-03-16,UTA,CHI,19.32,2,4,41,UTA,UTA,ft_make,12,False,False,Clarkson Free Throw 2 of 2 (10 PTS),,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,19.55,2,4,27,CHI,CHI,tov,2,False,True,,DeRozan Lost Ball Turnover (P2.T6),46-39,46,39
+0022101041,2022-03-16,UTA,CHI,19.55,2,4,27,CHI,UTA,steal,2,False,True,steal,steal,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,19.88,2,4,7,UTA,UTA,fg_miss,6,False,False,MISS Clarkson 4' Driving Layup,,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,19.92,2,4,5,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:4),46-39,46,39
+0022101041,2022-03-16,UTA,CHI,19.95,2,4,3,CHI,CHI,fg_miss,41,True,False,,MISS Caruso 4' Running Layup,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,19.95,2,4,3,CHI,UTA,block,41,True,False,block,block,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,19.95,2,4,3,CHI,CHI,reb,0,False,False,,Bulls Rebound,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,20.05,2,3,57,CHI,CHI,fg_miss,1,False,False,,MISS DeRozan 21' Jump Shot,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,20.12,2,3,53,UTA,UTA,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:3),,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,20.22,2,3,47,UTA,UTA,fg3_miss,79,False,False,MISS Conley 26' 3PT Pullup Jump Shot,,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,20.27,2,3,44,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:1),,46-39,46,39
+0022101041,2022-03-16,UTA,CHI,20.47,2,3,32,UTA,UTA,fg_make,75,False,False,Clarkson 4' Driving Finger Roll Layup (12 PTS),,48-39,48,39
+0022101041,2022-03-16,UTA,CHI,20.67,2,3,20,CHI,CHI,fg_make,6,False,False,,LaVine 4' Driving Layup (9 PTS),48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.0,2,3,0,UTA,UTA,fg_miss,79,False,False,MISS Clarkson 11' Pullup Jump Shot,,48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.05,2,2,57,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:1),48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.18,2,2,49,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 6' Driving Layup,48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.18,2,2,49,CHI,UTA,block,6,True,False,block,block,48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.22,2,2,47,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:0 Def:1),,48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.22,2,2,47,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 2 Short 0),,48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.35,2,2,39,UTA,UTA,fg3_miss,79,False,False,MISS Conley 26' 3PT Pullup Jump Shot,,48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.4,2,2,36,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:5),48-41,48,41
+0022101041,2022-03-16,UTA,CHI,21.55,2,2,27,CHI,CHI,fg_make,79,False,False,,DeRozan 17' Pullup Jump Shot (8 PTS) (Vucevic 1 AST),48-43,48,43
+0022101041,2022-03-16,UTA,CHI,21.8,2,2,12,UTA,UTA,fg3_make,1,False,False,O'Neale 25' 3PT Jump Shot (3 PTS) (Conley 4 AST),,51-43,51,43
+0022101041,2022-03-16,UTA,CHI,22.1,2,1,54,CHI,UTA,foul,1,False,False,O'Neale P.FOUL (P1.T4) (M.Kogut),,51-43,51,43
+0022101041,2022-03-16,UTA,CHI,22.13,2,1,52,CHI,CHI,fg_miss,47,False,False,,MISS DeRozan 18' Turnaround Jump Shot,51-43,51,43
+0022101041,2022-03-16,UTA,CHI,22.18,2,1,49,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:8),,51-43,51,43
+0022101041,2022-03-16,UTA,CHI,22.4,2,1,36,UTA,UTA,fg_miss,73,False,False,MISS O'Neale 3' Driving Reverse Layup,,51-43,51,43
+0022101041,2022-03-16,UTA,CHI,22.43,2,1,34,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:6),51-43,51,43
+0022101041,2022-03-16,UTA,CHI,22.5,2,1,30,CHI,CHI,fg_make,76,False,False,,Green 2' Running Finger Roll Layup (5 PTS) (Dosunmu 4 AST),51-45,51,45
+0022101041,2022-03-16,UTA,CHI,22.75,2,1,15,UTA,UTA,fg3_miss,1,False,False,MISS Hernangomez 24' 3PT Jump Shot,,51-45,51,45
+0022101041,2022-03-16,UTA,CHI,22.82,2,1,11,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:3),51-45,51,45
+0022101041,2022-03-16,UTA,CHI,23.02,2,0,59,CHI,CHI,fg_miss,58,True,False,,MISS Vucevic 8' Turnaround Hook Shot,51-45,51,45
+0022101041,2022-03-16,UTA,CHI,23.02,2,0,59,CHI,UTA,block,58,True,False,block,block,51-45,51,45
+0022101041,2022-03-16,UTA,CHI,23.07,2,0,56,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:1 Def:1),51-45,51,45
+0022101041,2022-03-16,UTA,CHI,23.17,2,0,50,CHI,CHI,fg3_make,1,False,False,,DeRozan 29' 3PT Jump Shot (11 PTS) (Dosunmu 5 AST),51-48,51,48
+0022101041,2022-03-16,UTA,CHI,23.38,2,0,37,UTA,UTA,fg3_miss,1,False,False,MISS Clarkson 24' 3PT Jump Shot,,51-48,51,48
+0022101041,2022-03-16,UTA,CHI,23.45,2,0,33,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:7),51-48,51,48
+0022101041,2022-03-16,UTA,CHI,23.53,2,0,28,CHI,UTA,foul,2,False,False,Hernangomez S.FOUL (P1.PN) (E.Malloy),,51-48,51,48
+0022101041,2022-03-16,UTA,CHI,23.53,2,0,28,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (10 PTS),51-49,51,49
+0022101041,2022-03-16,UTA,CHI,23.53,2,0,28,CHI,CHI,ft_miss,12,False,False,,MISS LaVine Free Throw 2 of 2,51-49,51,49
+0022101041,2022-03-16,UTA,CHI,23.55,2,0,27,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:9),,51-49,51,49
+0022101041,2022-03-16,UTA,CHI,23.88,2,0,7,UTA,UTA,fg3_make,1,False,False,Clarkson 26' 3PT Jump Shot (15 PTS) (O'Neale 1 AST),,54-49,54,49
+0022101041,2022-03-16,UTA,CHI,23.98,2,0,1,CHI,CHI,fg3_miss,80,False,False,,MISS LaVine 27' 3PT Step Back Jump Shot,54-49,54,49
+0022101041,2022-03-16,UTA,CHI,23.98,2,0,1,CHI,CHI,reb,0,False,False,,Bulls Rebound,54-49,54,49
+0022101041,2022-03-16,UTA,CHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,54-49,54,49
+0022101041,2022-03-16,UTA,CHI,24.0,3,12,0,CHI,,period_start,0,False,False,,,54-49,54,49
+0022101041,2022-03-16,UTA,CHI,24.23,3,11,46,CHI,CHI,fg_make,1,False,False,,Vucevic 14' Jump Shot (8 PTS) (DeRozan 2 AST),54-51,54,51
+0022101041,2022-03-16,UTA,CHI,24.55,3,11,27,UTA,UTA,fg_miss,75,False,False,MISS Mitchell 4' Driving Finger Roll Layup,,54-51,54,51
+0022101041,2022-03-16,UTA,CHI,24.58,3,11,25,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:6 Def:9),,54-51,54,51
+0022101041,2022-03-16,UTA,CHI,24.62,3,11,23,UTA,UTA,fg_make,87,False,False,Gobert 1' Putback Dunk (9 PTS),,56-51,56,51
+0022101041,2022-03-16,UTA,CHI,24.73,3,11,16,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 26' 3PT Jump Shot,56-51,56,51
+0022101041,2022-03-16,UTA,CHI,24.73,3,11,16,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:0 Def:2),,56-51,56,51
+0022101041,2022-03-16,UTA,CHI,24.82,3,11,11,UTA,UTA,tov,2,False,True,Conley Lost Ball Turnover (P2.T10),,56-51,56,51
+0022101041,2022-03-16,UTA,CHI,24.82,3,11,11,UTA,CHI,steal,2,False,True,steal,steal,56-51,56,51
+0022101041,2022-03-16,UTA,CHI,24.88,3,11,7,CHI,CHI,fg_make,6,False,False,,LaVine 2' Driving Layup (12 PTS) (Green 1 AST),56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.13,3,10,52,UTA,UTA,fg3_miss,1,False,False,MISS Hernangomez 24' 3PT Jump Shot,,56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.18,3,10,49,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:8),56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.32,3,10,41,CHI,CHI,fg3_miss,1,False,False,,MISS Dosunmu 25' 3PT Jump Shot,56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.37,3,10,38,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:6 Def:10),,56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.55,3,10,27,UTA,UTA,fg_miss,79,False,False,MISS Conley 19' Pullup Jump Shot,,56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.57,3,10,26,UTA,UTA,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:3),,56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.57,3,10,26,UTA,CHI,foul,2,False,False,,Dosunmu S.FOUL (P3.T1) (M.Kogut),56-53,56,53
+0022101041,2022-03-16,UTA,CHI,25.57,3,10,26,UTA,UTA,ft_make,11,False,False,Hernangomez Free Throw 1 of 2 (1 PTS),,57-53,57,53
+0022101041,2022-03-16,UTA,CHI,25.57,3,10,26,UTA,UTA,ft_make,12,False,False,Hernangomez Free Throw 2 of 2 (2 PTS),,58-53,58,53
+0022101041,2022-03-16,UTA,CHI,25.77,3,10,14,CHI,CHI,fg3_make,80,False,False,,LaVine 25' 3PT Step Back Jump Shot (15 PTS) (DeRozan 3 AST),58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.23,3,9,46,UTA,UTA,fg_miss,102,False,False,MISS Conley 7' Driving Floating Bank Jump Shot,,58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.27,3,9,44,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:9),58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.32,3,9,41,CHI,CHI,tov,39,False,False,,LaVine Step Out of Bounds Turnover (P1.T7),58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.55,3,9,27,UTA,UTA,tov,4,False,False,O'Neale Traveling Turnover (P2.T11),,58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.78,3,9,13,CHI,CHI,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.83,3,9,10,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:9),58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.93,3,9,4,CHI,CHI,tov,1,False,True,,Dosunmu Bad Pass Turnover (P1.T8),58-56,58,56
+0022101041,2022-03-16,UTA,CHI,26.93,3,9,4,CHI,UTA,steal,1,False,True,steal,steal,58-56,58,56
+0022101041,2022-03-16,UTA,CHI,27.0,3,9,0,UTA,UTA,fg3_miss,2,False,False,MISS Mitchell 27' 3PT Running Jump Shot,,58-56,58,56
+0022101041,2022-03-16,UTA,CHI,27.08,3,8,55,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:4),58-56,58,56
+0022101041,2022-03-16,UTA,CHI,27.13,3,8,52,CHI,CHI,fg_make,41,False,False,,Dosunmu 3' Running Layup (7 PTS) (Green 2 AST),58-58,58,58
+0022101041,2022-03-16,UTA,CHI,27.4,3,8,36,CHI,UTA,foul,4,False,False,Gobert OFF.Foul (P3) (D.Collins),,58-58,58,58
+0022101041,2022-03-16,UTA,CHI,27.4,3,8,36,UTA,UTA,tov,37,False,False,Gobert Offensive Foul Turnover (P1.T12),,58-58,58,58
+0022101041,2022-03-16,UTA,CHI,27.55,3,8,27,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,58-58,58,58
+0022101041,2022-03-16,UTA,CHI,27.55,3,8,27,CHI,CHI,fg_miss,1,False,False,,MISS DeRozan 14' Jump Shot,58-58,58,58
+0022101041,2022-03-16,UTA,CHI,27.55,3,8,27,UTA,UTA,reb,0,False,False,JAZZ Rebound,,58-58,58,58
+0022101041,2022-03-16,UTA,CHI,27.67,3,8,20,,UTA,jump_ball,1,False,False,Jump Ball (CC) Gobert vs. Vucevic: Tip to Conley,,58-58,58,58
+0022101041,2022-03-16,UTA,CHI,27.82,3,8,11,UTA,UTA,fg_make,6,False,False,Mitchell 2' Driving Layup (10 PTS) (Conley 5 AST),,60-58,60,58
+0022101041,2022-03-16,UTA,CHI,28.03,3,7,58,CHI,CHI,fg3_make,1,False,False,,LaVine 25' 3PT Jump Shot (18 PTS) (DeRozan 4 AST),60-61,60,61
+0022101041,2022-03-16,UTA,CHI,28.28,3,7,43,UTA,UTA,fg3_make,79,False,False,Mitchell 26' 3PT Pullup Jump Shot (13 PTS) (Gobert 2 AST),,63-61,63,61
+0022101041,2022-03-16,UTA,CHI,28.58,3,7,25,CHI,CHI,fg_make,78,False,False,,Vucevic 11' Floating Jump Shot (10 PTS) (LaVine 4 AST),63-63,63,63
+0022101041,2022-03-16,UTA,CHI,28.88,3,7,7,UTA,UTA,fg3_miss,1,False,False,MISS Hernangomez 3PT Jump Shot,,63-63,63,63
+0022101041,2022-03-16,UTA,CHI,28.93,3,7,4,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:10),63-63,63,63
+0022101041,2022-03-16,UTA,CHI,29.2,3,6,48,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 24' 3PT Jump Shot,63-63,63,63
+0022101041,2022-03-16,UTA,CHI,29.25,3,6,45,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:2),,63-63,63,63
+0022101041,2022-03-16,UTA,CHI,29.4,3,6,36,UTA,UTA,fg3_make,80,False,False,Mitchell 25' 3PT Step Back Jump Shot (16 PTS) (O'Neale 2 AST),,66-63,66,63
+0022101041,2022-03-16,UTA,CHI,29.68,3,6,19,CHI,CHI,fg_miss,63,False,False,,MISS DeRozan 11' Fadeaway Jumper,66-63,66,63
+0022101041,2022-03-16,UTA,CHI,29.73,3,6,16,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:6 Def:11),,66-63,66,63
+0022101041,2022-03-16,UTA,CHI,29.93,3,6,4,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 2' Driving Layup,,66-63,66,63
+0022101041,2022-03-16,UTA,CHI,29.93,3,6,4,UTA,CHI,block,6,True,False,block,block,66-63,66,63
+0022101041,2022-03-16,UTA,CHI,29.95,3,6,3,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:2),66-63,66,63
+0022101041,2022-03-16,UTA,CHI,30.03,3,5,58,CHI,CHI,fg3_make,79,False,False,,Dosunmu 3PT Pullup Jump Shot (10 PTS) (LaVine 5 AST),66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.07,3,5,56,CHI,UTA,foul,11,False,False,Mitchell T.FOUL (P3.T0) (M.Kogut),,66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.07,3,5,56,CHI,CHI,ft_miss,16,False,False,,MISS LaVine Free Throw Technical,66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.07,3,5,56,UTA,UTA,reb,1,False,False,JAZZ Rebound,,66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.3,3,5,42,UTA,CHI,foul,1,False,False,,Dosunmu P.FOUL (P4.T2) (E.Malloy),66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.43,3,5,34,UTA,UTA,fg_miss,101,True,False,MISS Mitchell 6' Driving Floating Jump Shot,,66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.43,3,5,34,UTA,CHI,block,101,True,False,block,block,66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.47,3,5,32,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:1 Def:2),66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.47,3,5,32,CHI,CHI,tov,45,False,False,,Dosunmu Out of Bounds - Bad Pass Turnover Turnover (P2.T9),66-66,66,66
+0022101041,2022-03-16,UTA,CHI,30.57,3,5,26,UTA,UTA,fg_make,105,False,False,Clarkson 9' Turnaround Fadeaway Bank Jump Shot (17 PTS),,68-66,68,66
+0022101041,2022-03-16,UTA,CHI,30.67,3,5,20,CHI,CHI,fg_make,6,False,False,,Dosunmu 3' Driving Layup (12 PTS) (Caruso 1 AST),68-68,68,68
+0022101041,2022-03-16,UTA,CHI,30.67,3,5,20,CHI,UTA,foul,2,False,False,Clarkson S.FOUL (P1.T1) (M.Kogut),,68-68,68,68
+0022101041,2022-03-16,UTA,CHI,30.67,3,5,20,CHI,CHI,ft_make,10,False,False,,Dosunmu Free Throw 1 of 1 (13 PTS),68-69,68,69
+0022101041,2022-03-16,UTA,CHI,30.88,3,5,7,UTA,UTA,fg3_make,79,False,False,Mitchell 25' 3PT Pullup Jump Shot (19 PTS),,71-69,71,69
+0022101041,2022-03-16,UTA,CHI,31.2,3,4,48,CHI,CHI,fg_make,80,False,False,,LaVine 14' Step Back Jump Shot (20 PTS),71-71,71,71
+0022101041,2022-03-16,UTA,CHI,31.38,3,4,37,UTA,UTA,fg3_make,79,False,False,Mitchell 25' 3PT Pullup Jump Shot (22 PTS),,74-71,74,71
+0022101041,2022-03-16,UTA,CHI,31.78,3,4,13,CHI,CHI,fg_miss,58,False,False,,MISS Vucevic 8' Turnaround Hook Shot,74-71,74,71
+0022101041,2022-03-16,UTA,CHI,31.82,3,4,11,UTA,UTA,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,74-71,74,71
+0022101041,2022-03-16,UTA,CHI,31.95,3,4,3,CHI,UTA,foul,4,False,False,Clarkson OFF.Foul (P2) (D.Collins),,74-71,74,71
+0022101041,2022-03-16,UTA,CHI,31.95,3,4,3,UTA,UTA,tov,37,False,False,Clarkson Offensive Foul Turnover (P2.T13),,74-71,74,71
+0022101041,2022-03-16,UTA,CHI,32.12,3,3,53,CHI,UTA,foul,2,False,False,Gay S.FOUL (P1.T2) (M.Kogut),,74-71,74,71
+0022101041,2022-03-16,UTA,CHI,32.12,3,3,53,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (21 PTS),74-72,74,72
+0022101041,2022-03-16,UTA,CHI,32.12,3,3,53,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (22 PTS),74-73,74,73
+0022101041,2022-03-16,UTA,CHI,32.5,3,3,30,UTA,UTA,fg_make,47,False,False,Clarkson 11' Turnaround Jump Shot (19 PTS),,76-73,76,73
+0022101041,2022-03-16,UTA,CHI,32.8,3,3,12,CHI,CHI,fg3_miss,1,False,False,,MISS Jones Jr. 24' 3PT Jump Shot,76-73,76,73
+0022101041,2022-03-16,UTA,CHI,32.83,3,3,10,UTA,UTA,reb,0,False,False,Whiteside REBOUND (Off:1 Def:2),,76-73,76,73
+0022101041,2022-03-16,UTA,CHI,32.93,3,3,4,UTA,CHI,violation,5,False,False,,Vucevic Violation:Kicked Ball (E.Malloy),76-73,76,73
+0022101041,2022-03-16,UTA,CHI,32.95,3,3,3,UTA,UTA,fg3_make,1,False,False,Mitchell 26' 3PT Jump Shot (25 PTS) (Gay 1 AST),,79-73,79,73
+0022101041,2022-03-16,UTA,CHI,33.07,3,2,56,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.3 Short 0),79-73,79,73
+0022101041,2022-03-16,UTA,CHI,33.23,3,2,46,CHI,CHI,fg_make,79,False,False,,DeRozan 15' Pullup Jump Shot (13 PTS) (White 1 AST),79-75,79,75
+0022101041,2022-03-16,UTA,CHI,33.58,3,2,25,UTA,UTA,fg3_make,1,False,False,Mitchell 25' 3PT Jump Shot (28 PTS) (Whiteside 1 AST),,82-75,82,75
+0022101041,2022-03-16,UTA,CHI,33.85,3,2,9,CHI,CHI,fg_make,79,False,False,,DeRozan 20' Pullup Jump Shot (15 PTS) (White 2 AST),82-77,82,77
+0022101041,2022-03-16,UTA,CHI,34.05,3,1,57,UTA,CHI,foul,2,False,False,,White S.FOUL (P3.T3) (D.Collins),82-77,82,77
+0022101041,2022-03-16,UTA,CHI,34.05,3,1,57,UTA,UTA,ft_make,11,False,False,Mitchell Free Throw 1 of 2 (29 PTS),,83-77,83,77
+0022101041,2022-03-16,UTA,CHI,34.05,3,1,57,UTA,UTA,ft_make,12,False,False,Mitchell Free Throw 2 of 2 (30 PTS),,84-77,84,77
+0022101041,2022-03-16,UTA,CHI,34.33,3,1,40,CHI,CHI,fg3_miss,1,False,False,,MISS White 25' 3PT Jump Shot,84-77,84,77
+0022101041,2022-03-16,UTA,CHI,34.42,3,1,35,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:6 Def:12),,84-77,84,77
+0022101041,2022-03-16,UTA,CHI,34.53,3,1,28,UTA,UTA,tov,45,False,False,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,84-77,84,77
+0022101041,2022-03-16,UTA,CHI,34.75,3,1,15,CHI,CHI,fg_make,79,False,False,,DeRozan 14' Pullup Jump Shot (17 PTS),84-79,84,79
+0022101041,2022-03-16,UTA,CHI,35.02,3,0,59,UTA,UTA,fg_make,6,False,False,Clarkson 3' Driving Layup (21 PTS),,86-79,86,79
+0022101041,2022-03-16,UTA,CHI,35.37,3,0,38,CHI,CHI,fg_make,80,False,False,,DeRozan 20' Step Back Jump Shot (19 PTS),86-81,86,81
+0022101041,2022-03-16,UTA,CHI,35.48,3,0,31,UTA,UTA,fg3_make,79,False,False,Mitchell 29' 3PT Pullup Jump Shot (33 PTS),,89-81,89,81
+0022101041,2022-03-16,UTA,CHI,35.75,3,0,15,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 13' Pullup Jump Shot,89-81,89,81
+0022101041,2022-03-16,UTA,CHI,35.78,3,0,13,UTA,UTA,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:3),,89-81,89,81
+0022101041,2022-03-16,UTA,CHI,35.95,3,0,3,UTA,UTA,fg3_miss,80,False,False,MISS Mitchell 29' 3PT Step Back Jump Shot,,89-81,89,81
+0022101041,2022-03-16,UTA,CHI,35.95,3,0,3,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:4),89-81,89,81
+0022101041,2022-03-16,UTA,CHI,36.0,3,0,0,CHI,,period_end,0,False,False,,,89-81,89,81
+0022101041,2022-03-16,UTA,CHI,36.0,4,12,0,CHI,,period_start,0,False,False,,,89-81,89,81
+0022101041,2022-03-16,UTA,CHI,36.25,4,11,45,UTA,UTA,fg3_make,1,False,False,Alexander-Walker 24' 3PT Jump Shot (5 PTS) (Clarkson 1 AST),,92-81,92,81
+0022101041,2022-03-16,UTA,CHI,36.6,4,11,24,CHI,UTA,foul,2,False,False,Alexander-Walker S.FOUL (P2.T1) (D.Collins),,92-81,92,81
+0022101041,2022-03-16,UTA,CHI,36.6,4,11,24,CHI,CHI,ft_miss,11,False,False,,MISS DeRozan Free Throw 1 of 2,92-81,92,81
+0022101041,2022-03-16,UTA,CHI,36.6,4,11,24,CHI,CHI,reb,1,False,False,,Bulls Rebound,92-81,92,81
+0022101041,2022-03-16,UTA,CHI,36.6,4,11,24,CHI,CHI,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (20 PTS),92-82,92,82
+0022101041,2022-03-16,UTA,CHI,36.83,4,11,10,UTA,UTA,fg3_miss,1,False,False,MISS Gay 25' 3PT Jump Shot,,92-82,92,82
+0022101041,2022-03-16,UTA,CHI,36.9,4,11,6,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:5),92-82,92,82
+0022101041,2022-03-16,UTA,CHI,37.18,4,10,49,CHI,CHI,fg_make,6,False,False,,Caruso 3' Driving Layup (2 PTS),92-84,92,84
+0022101041,2022-03-16,UTA,CHI,37.43,4,10,34,UTA,UTA,fg_make,43,False,False,Gobert 3' Alley Oop Layup (11 PTS) (Conley 6 AST),,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,37.72,4,10,17,CHI,CHI,fg_miss,79,False,False,,MISS Caruso 16' Pullup Jump Shot,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,37.75,4,10,15,UTA,UTA,reb,0,False,False,Gay REBOUND (Off:0 Def:2),,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,37.92,4,10,5,UTA,CHI,foul,1,False,False,,White P.FOUL (P4.T1) (M.Kogut),94-84,94,84
+0022101041,2022-03-16,UTA,CHI,37.98,4,10,1,UTA,UTA,fg3_miss,1,False,False,MISS Gay 24' 3PT Jump Shot,,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,38.07,4,9,56,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:1 Def:2),,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,38.2,4,9,48,UTA,UTA,tov,1,False,True,Conley Bad Pass Turnover (P3.T15),,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,38.2,4,9,48,UTA,CHI,steal,1,False,True,steal,steal,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,38.2,4,9,48,CHI,UTA,foul,1,False,False,Gay P.FOUL (P2.T2) (D.Collins),,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,38.37,4,9,38,CHI,CHI,tov,1,False,True,,DeRozan Bad Pass Turnover (P3.T10),94-84,94,84
+0022101041,2022-03-16,UTA,CHI,38.37,4,9,38,CHI,UTA,steal,1,False,True,steal,steal,94-84,94,84
+0022101041,2022-03-16,UTA,CHI,38.43,4,9,34,UTA,UTA,fg_make,41,False,False,Alexander-Walker 3' Running Layup (7 PTS),,96-84,96,84
+0022101041,2022-03-16,UTA,CHI,38.43,4,9,34,UTA,CHI,foul,2,False,False,,DeRozan S.FOUL (P1.T2) (E.Malloy),96-84,96,84
+0022101041,2022-03-16,UTA,CHI,38.43,4,9,34,UTA,UTA,ft_make,10,False,False,Alexander-Walker Free Throw 1 of 1 (8 PTS),,97-84,97,84
+0022101041,2022-03-16,UTA,CHI,38.62,4,9,23,CHI,CHI,fg3_make,1,False,False,,LaVine 3PT Jump Shot (25 PTS) (DeRozan 5 AST),97-87,97,87
+0022101041,2022-03-16,UTA,CHI,38.87,4,9,8,UTA,UTA,fg_miss,75,False,False,MISS Conley 6' Driving Finger Roll Layup,,97-87,97,87
+0022101041,2022-03-16,UTA,CHI,38.9,4,9,6,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:1 Def:3),97-87,97,87
+0022101041,2022-03-16,UTA,CHI,39.02,4,8,59,CHI,CHI,fg3_make,80,False,False,,LaVine 24' 3PT Step Back Jump Shot (28 PTS),97-90,97,90
+0022101041,2022-03-16,UTA,CHI,39.05,4,8,57,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 4 Short 0),,97-90,97,90
+0022101041,2022-03-16,UTA,CHI,39.25,4,8,45,UTA,UTA,fg3_make,1,False,False,O'Neale 26' 3PT Jump Shot (6 PTS) (Conley 7 AST),,100-90,100,90
+0022101041,2022-03-16,UTA,CHI,39.55,4,8,27,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 24' 3PT Jump Shot,100-90,100,90
+0022101041,2022-03-16,UTA,CHI,39.6,4,8,24,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:2 Def:3),100-90,100,90
+0022101041,2022-03-16,UTA,CHI,39.62,4,8,23,CHI,CHI,fg_make,3,False,False,,Thompson 1' Hook Shot (5 PTS),100-92,100,92
+0022101041,2022-03-16,UTA,CHI,39.95,4,8,3,UTA,UTA,fg_make,101,False,False,Clarkson 6' Driving Floating Jump Shot (23 PTS),,102-92,102,92
+0022101041,2022-03-16,UTA,CHI,40.3,4,7,42,CHI,CHI,fg_make,102,False,False,,LaVine 5' Driving Floating Bank Jump Shot (30 PTS),102-94,102,94
+0022101041,2022-03-16,UTA,CHI,40.3,4,7,42,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 5 Short 0),,102-94,102,94
+0022101041,2022-03-16,UTA,CHI,40.55,4,7,27,UTA,CHI,foul,2,False,False,,DeRozan S.FOUL (P2.T3) (D.Collins),102-94,102,94
+0022101041,2022-03-16,UTA,CHI,40.55,4,7,27,UTA,UTA,ft_miss,11,False,False,MISS Gobert Free Throw 1 of 2,,102-94,102,94
+0022101041,2022-03-16,UTA,CHI,40.55,4,7,27,UTA,UTA,reb,1,False,False,JAZZ Rebound,,102-94,102,94
+0022101041,2022-03-16,UTA,CHI,40.55,4,7,27,UTA,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (12 PTS),,103-94,103,94
+0022101041,2022-03-16,UTA,CHI,40.78,4,7,13,CHI,CHI,fg_make,75,False,False,,LaVine 2' Driving Finger Roll Layup (32 PTS) (DeRozan 6 AST),103-96,103,96
+0022101041,2022-03-16,UTA,CHI,40.78,4,7,13,CHI,UTA,foul,2,False,False,Alexander-Walker S.FOUL (P3.T3) (D.Collins),,103-96,103,96
+0022101041,2022-03-16,UTA,CHI,40.78,4,7,13,CHI,CHI,ft_make,10,False,False,,LaVine Free Throw 1 of 1 (33 PTS),103-97,103,97
+0022101041,2022-03-16,UTA,CHI,41.07,4,6,56,UTA,UTA,tov,2,False,True,Clarkson Lost Ball Turnover (P3.T16),,103-97,103,97
+0022101041,2022-03-16,UTA,CHI,41.07,4,6,56,UTA,CHI,steal,2,False,True,steal,steal,103-97,103,97
+0022101041,2022-03-16,UTA,CHI,41.13,4,6,52,CHI,CHI,fg_make,41,False,False,,Dosunmu 4' Running Layup (15 PTS),103-99,103,99
+0022101041,2022-03-16,UTA,CHI,41.37,4,6,38,UTA,UTA,fg_make,6,False,False,Mitchell 3' Driving Layup (35 PTS),,105-99,105,99
+0022101041,2022-03-16,UTA,CHI,41.52,4,6,29,CHI,CHI,fg3_miss,1,False,False,,MISS Caruso 3PT Jump Shot,105-99,105,99
+0022101041,2022-03-16,UTA,CHI,41.57,4,6,26,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:1 Def:3),,105-99,105,99
+0022101041,2022-03-16,UTA,CHI,41.62,4,6,23,UTA,CHI,foul,1,False,False,,Caruso P.FOUL (P4.T4) (M.Kogut),105-99,105,99
+0022101041,2022-03-16,UTA,CHI,41.63,4,6,22,UTA,UTA,fg3_make,1,False,False,Alexander-Walker 3PT Jump Shot (11 PTS) (O'Neale 3 AST),,108-99,108,99
+0022101041,2022-03-16,UTA,CHI,41.67,4,6,20,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.4 Short 0),108-99,108,99
+0022101041,2022-03-16,UTA,CHI,41.88,4,6,7,CHI,CHI,fg3_miss,79,False,False,,MISS LaVine 25' 3PT Pullup Jump Shot,108-99,108,99
+0022101041,2022-03-16,UTA,CHI,41.92,4,6,5,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:6 Def:13),,108-99,108,99
+0022101041,2022-03-16,UTA,CHI,42.05,4,5,57,UTA,UTA,fg3_make,1,False,False,Alexander-Walker 3PT Jump Shot (14 PTS) (Mitchell 4 AST),,111-99,111,99
+0022101041,2022-03-16,UTA,CHI,42.37,4,5,38,CHI,CHI,fg_miss,73,True,False,,MISS DeRozan 1' Driving Reverse Layup,111-99,111,99
+0022101041,2022-03-16,UTA,CHI,42.37,4,5,38,CHI,UTA,block,73,True,False,block,block,111-99,111,99
+0022101041,2022-03-16,UTA,CHI,42.42,4,5,35,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:3),,111-99,111,99
+0022101041,2022-03-16,UTA,CHI,42.42,4,5,35,UTA,CHI,foul,28,False,False,,LaVine Personal Take Foul (P1.PN) (D.Collins),111-99,111,99
+0022101041,2022-03-16,UTA,CHI,42.42,4,5,35,UTA,UTA,ft_make,11,False,False,Mitchell Free Throw 1 of 2 (36 PTS),,112-99,112,99
+0022101041,2022-03-16,UTA,CHI,42.42,4,5,35,UTA,UTA,ft_make,12,False,False,Mitchell Free Throw 2 of 2 (37 PTS),,113-99,113,99
+0022101041,2022-03-16,UTA,CHI,42.63,4,5,22,CHI,CHI,tov,1,False,True,,DeRozan Bad Pass Turnover (P4.T11),113-99,113,99
+0022101041,2022-03-16,UTA,CHI,42.63,4,5,22,CHI,UTA,steal,1,False,True,steal,steal,113-99,113,99
+0022101041,2022-03-16,UTA,CHI,42.67,4,5,20,UTA,CHI,foul,2,False,False,,LaVine S.FOUL (P2.PN) (E.Malloy),113-99,113,99
+0022101041,2022-03-16,UTA,CHI,42.67,4,5,20,UTA,UTA,ft_make,11,False,False,Alexander-Walker Free Throw 1 of 2 (15 PTS),,114-99,114,99
+0022101041,2022-03-16,UTA,CHI,42.67,4,5,20,UTA,UTA,ft_make,12,False,False,Alexander-Walker Free Throw 2 of 2 (16 PTS),,115-99,115,99
+0022101041,2022-03-16,UTA,CHI,42.85,4,5,9,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 17' Pullup Jump Shot,115-99,115,99
+0022101041,2022-03-16,UTA,CHI,42.9,4,5,6,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:1 Def:4),,115-99,115,99
+0022101041,2022-03-16,UTA,CHI,42.98,4,5,1,UTA,UTA,fg3_miss,2,False,False,MISS O'Neale 28' 3PT Running Jump Shot,,115-99,115,99
+0022101041,2022-03-16,UTA,CHI,43.05,4,4,57,CHI,CHI,reb,0,False,False,,Caruso REBOUND (Off:0 Def:2),115-99,115,99
+0022101041,2022-03-16,UTA,CHI,43.05,4,4,57,CHI,UTA,foul,1,False,False,Mitchell P.FOUL (P4.T4) (M.Kogut),,115-99,115,99
+0022101041,2022-03-16,UTA,CHI,43.1,4,4,54,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,115-99,115,99
+0022101041,2022-03-16,UTA,CHI,43.15,4,4,51,UTA,UTA,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:4),,115-99,115,99
+0022101041,2022-03-16,UTA,CHI,43.37,4,4,38,UTA,CHI,foul,2,False,False,,LaVine S.FOUL (P3.PN) (M.Kogut),115-99,115,99
+0022101041,2022-03-16,UTA,CHI,43.37,4,4,38,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (13 PTS),,116-99,116,99
+0022101041,2022-03-16,UTA,CHI,43.37,4,4,38,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.5 Short 0),116-99,116,99
+0022101041,2022-03-16,UTA,CHI,43.37,4,4,38,CHI,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (14 PTS),,117-99,117,99
+0022101041,2022-03-16,UTA,CHI,43.67,4,4,20,CHI,CHI,fg3_make,1,False,False,,DeRozan 24' 3PT Jump Shot (23 PTS) (Dosunmu 6 AST),117-102,117,102
+0022101041,2022-03-16,UTA,CHI,44.02,4,3,59,UTA,CHI,foul,1,False,False,,DeRozan P.FOUL (P3.PN) (D.Collins),117-102,117,102
+0022101041,2022-03-16,UTA,CHI,44.02,4,3,59,UTA,UTA,ft_miss,11,False,False,MISS Clarkson Free Throw 1 of 2,,117-102,117,102
+0022101041,2022-03-16,UTA,CHI,44.02,4,3,59,UTA,UTA,reb,1,False,False,JAZZ Rebound,,117-102,117,102
+0022101041,2022-03-16,UTA,CHI,44.02,4,3,59,UTA,UTA,ft_make,12,False,False,Clarkson Free Throw 2 of 2 (24 PTS),,118-102,118,102
+0022101041,2022-03-16,UTA,CHI,44.22,4,3,47,CHI,CHI,fg_make,9,False,False,,DeRozan 1' Driving Dunk (25 PTS),118-104,118,104
+0022101041,2022-03-16,UTA,CHI,44.62,4,3,23,UTA,UTA,fg_make,75,False,False,Clarkson 3' Driving Finger Roll Layup (26 PTS),,120-104,120,104
+0022101041,2022-03-16,UTA,CHI,44.85,4,3,9,CHI,CHI,fg_make,73,False,False,,White 3' Driving Reverse Layup (10 PTS) (DeRozan 7 AST),120-106,120,106
+0022101041,2022-03-16,UTA,CHI,45.1,4,2,54,UTA,UTA,fg3_make,1,False,False,O'Neale 24' 3PT Jump Shot (9 PTS) (Mitchell 5 AST),,123-106,123,106
+0022101041,2022-03-16,UTA,CHI,45.13,4,2,52,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.6 Short 0),123-106,123,106
+0022101041,2022-03-16,UTA,CHI,45.33,4,2,40,CHI,CHI,fg3_miss,1,False,False,,MISS Thomas 25' 3PT Jump Shot,123-106,123,106
+0022101041,2022-03-16,UTA,CHI,45.38,4,2,37,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:6 Def:14),,123-106,123,106
+0022101041,2022-03-16,UTA,CHI,45.62,4,2,23,UTA,UTA,fg3_miss,79,False,False,MISS Mitchell 29' 3PT Pullup Jump Shot,,123-106,123,106
+0022101041,2022-03-16,UTA,CHI,45.65,4,2,21,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:1),123-106,123,106
+0022101041,2022-03-16,UTA,CHI,45.77,4,2,14,CHI,CHI,fg_miss,6,False,False,,MISS White 3' Driving Layup,123-106,123,106
+0022101041,2022-03-16,UTA,CHI,45.77,4,2,14,UTA,UTA,reb,0,False,False,JAZZ Rebound,,123-106,123,106
+0022101041,2022-03-16,UTA,CHI,46.0,4,2,0,UTA,UTA,fg_make,101,False,False,Butler 10' Driving Floating Jump Shot (2 PTS),,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.27,4,1,44,CHI,CHI,tov,2,False,True,,Bradley Lost Ball Turnover (P1.T12),125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.27,4,1,44,CHI,UTA,steal,2,False,True,steal,steal,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.32,4,1,41,UTA,UTA,fg_miss,41,False,False,MISS Alexander-Walker 2' Running Layup,,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.37,4,1,38,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:2),125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.47,4,1,32,CHI,CHI,fg_miss,79,False,False,,MISS White 18' Pullup Jump Shot,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.53,4,1,28,CHI,CHI,reb,0,False,False,,Bulls Rebound,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.57,4,1,26,CHI,CHI,fg3_miss,1,False,False,,MISS Thomas 3PT Jump Shot,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.6,4,1,24,UTA,UTA,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:4),,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.85,4,1,9,UTA,UTA,fg_miss,73,False,False,MISS Paschall 2' Driving Reverse Layup,,125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.87,4,1,8,CHI,CHI,reb,0,False,False,,White REBOUND (Off:0 Def:1),125-106,125,106
+0022101041,2022-03-16,UTA,CHI,46.97,4,1,2,CHI,CHI,fg_make,75,False,False,,Brown Jr. 4' Driving Finger Roll Layup (2 PTS) (White 3 AST),125-108,125,108
+0022101041,2022-03-16,UTA,CHI,47.25,4,0,45,UTA,UTA,fg3_miss,79,False,False,MISS Alexander-Walker 26' 3PT Pullup Jump Shot,,125-108,125,108
+0022101041,2022-03-16,UTA,CHI,47.3,4,0,42,CHI,CHI,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),125-108,125,108
+0022101041,2022-03-16,UTA,CHI,47.53,4,0,28,CHI,CHI,fg_make,101,False,False,,White 7' Driving Floating Jump Shot (12 PTS),125-110,125,110
+0022101041,2022-03-16,UTA,CHI,47.93,4,0,4,UTA,UTA,tov,11,False,False,JAZZ Turnover: Shot Clock (T#17),,125-110,125,110
+0022101041,2022-03-16,UTA,CHI,48.0,4,0,0,UTA,,period_end,0,False,False,,,125-110,125,110

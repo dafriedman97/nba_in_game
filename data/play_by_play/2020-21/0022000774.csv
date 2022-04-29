@@ -1,0 +1,418 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000774,2021-04-06,GSW,MIL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000774,2021-04-06,GSW,MIL,0.0,1,12,0,,GSW,jump_ball,0,False,False,Jump Ball Wiseman vs. Lopez: Tip to Wiggins,,0-0,0,0
+0022000774,2021-04-06,GSW,MIL,0.27,1,11,44,GSW,GSW,fg_make,75,False,False,Green 3' Driving Finger Roll Layup (2 PTS),,2-0,2,0
+0022000774,2021-04-06,GSW,MIL,0.57,1,11,26,MIL,MIL,fg3_make,1,False,False,,Portis 24' 3PT Jump Shot (3 PTS) (DiVincenzo 1 AST),2-3,2,3
+0022000774,2021-04-06,GSW,MIL,0.87,1,11,8,GSW,GSW,fg3_miss,1,False,False,MISS Green 28' 3PT Jump Shot,,2-3,2,3
+0022000774,2021-04-06,GSW,MIL,0.9,1,11,6,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:1),2-3,2,3
+0022000774,2021-04-06,GSW,MIL,1.03,1,10,58,MIL,MIL,tov,45,False,False,,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T1),2-3,2,3
+0022000774,2021-04-06,GSW,MIL,1.17,1,10,50,GSW,GSW,fg_make,52,False,False,Wiseman 1' Alley Oop Dunk (2 PTS) (Curry 1 AST),,4-3,4,3
+0022000774,2021-04-06,GSW,MIL,1.32,1,10,41,MIL,MIL,fg_miss,86,False,False,,MISS Portis 21' Turnaround Fadeaway Shot,4-3,4,3
+0022000774,2021-04-06,GSW,MIL,1.33,1,10,40,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:1),,4-3,4,3
+0022000774,2021-04-06,GSW,MIL,1.45,1,10,33,GSW,GSW,fg3_make,103,False,False,Oubre Jr. 26' 3PT Running Pull-Up Jump Shot (3 PTS),,7-3,7,3
+0022000774,2021-04-06,GSW,MIL,1.75,1,10,15,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 25' 3PT Jump Shot,7-3,7,3
+0022000774,2021-04-06,GSW,MIL,1.78,1,10,13,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:2),,7-3,7,3
+0022000774,2021-04-06,GSW,MIL,1.88,1,10,7,GSW,GSW,fg3_make,1,False,False,Curry 27' 3PT Jump Shot (3 PTS) (Green 1 AST),,10-3,10,3
+0022000774,2021-04-06,GSW,MIL,2.22,1,9,47,MIL,MIL,fg_miss,101,False,False,,MISS Middleton 10' Driving Floating Jump Shot,10-3,10,3
+0022000774,2021-04-06,GSW,MIL,2.23,1,9,46,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:1),,10-3,10,3
+0022000774,2021-04-06,GSW,MIL,2.48,1,9,31,GSW,GSW,fg3_make,1,False,False,Wiggins 26' 3PT Jump Shot (3 PTS) (Green 2 AST),,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,2.5,1,9,30,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),13-3,13,3
+0022000774,2021-04-06,GSW,MIL,2.87,1,9,8,MIL,GSW,foul,1,False,False,Curry P.FOUL (P1.T1) (A.Moyer-Gleich),,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,2.9,1,9,6,MIL,MIL,tov,19,False,False,,Holiday Kicked Ball Violation Turnover (P2.T2),13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.08,1,8,55,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P1.T1),,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.08,1,8,55,GSW,MIL,steal,1,False,True,steal,steal,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.15,1,8,51,MIL,MIL,tov,4,False,False,,Middleton Traveling Turnover (P1.T3),13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.42,1,8,35,GSW,GSW,fg_miss,6,False,False,MISS Wiggins 4' Driving Layup,,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.43,1,8,34,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:2),,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.5,1,8,30,GSW,GSW,fg_miss,107,False,False,MISS Wiseman Tip Dunk Shot,,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.52,1,8,29,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:1 Def:1),,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.63,1,8,22,GSW,GSW,fg_miss,58,False,False,MISS Wiseman 7' Turnaround Hook Shot,,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.65,1,8,21,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:0),,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.77,1,8,14,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P1.T2),,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.77,1,8,14,GSW,MIL,steal,1,False,True,steal,steal,13-3,13,3
+0022000774,2021-04-06,GSW,MIL,3.85,1,8,9,MIL,MIL,fg_make,76,False,False,,Holiday 3' Running Finger Roll Layup (2 PTS) (DiVincenzo 2 AST),13-5,13,5
+0022000774,2021-04-06,GSW,MIL,4.02,1,7,59,GSW,GSW,fg_make,108,False,False,Wiseman 3' Cutting Dunk Shot (4 PTS) (Curry 2 AST),,15-5,15,5
+0022000774,2021-04-06,GSW,MIL,4.02,1,7,59,GSW,MIL,foul,2,False,False,,Middleton S.FOUL (P1.T1) (M.Ayotte),15-5,15,5
+0022000774,2021-04-06,GSW,MIL,4.02,1,7,59,GSW,GSW,ft_make,10,False,False,Wiseman Free Throw 1 of 1 (5 PTS),,16-5,16,5
+0022000774,2021-04-06,GSW,MIL,4.23,1,7,46,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 3PT Jump Shot,16-5,16,5
+0022000774,2021-04-06,GSW,MIL,4.25,1,7,45,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,16-5,16,5
+0022000774,2021-04-06,GSW,MIL,4.4,1,7,36,GSW,GSW,fg_make,75,False,False,Curry 3' Driving Finger Roll Layup (5 PTS),,18-5,18,5
+0022000774,2021-04-06,GSW,MIL,4.4,1,7,36,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.2 Short 0),18-5,18,5
+0022000774,2021-04-06,GSW,MIL,4.63,1,7,22,MIL,MIL,fg_make,86,False,False,,Middleton 9' Turnaround Fadeaway (2 PTS) (Holiday 1 AST),18-7,18,7
+0022000774,2021-04-06,GSW,MIL,4.95,1,7,3,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P2.T3),,18-7,18,7
+0022000774,2021-04-06,GSW,MIL,4.95,1,7,3,GSW,MIL,steal,1,False,True,steal,steal,18-7,18,7
+0022000774,2021-04-06,GSW,MIL,5.03,1,6,58,MIL,MIL,fg_make,41,False,False,,Holiday 3' Running Layup (4 PTS) (DiVincenzo 3 AST),18-9,18,9
+0022000774,2021-04-06,GSW,MIL,5.27,1,6,44,GSW,GSW,fg_miss,99,False,False,MISS Wiseman 3' Cutting Finger Roll Layup Shot,,18-9,18,9
+0022000774,2021-04-06,GSW,MIL,5.28,1,6,43,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),18-9,18,9
+0022000774,2021-04-06,GSW,MIL,5.42,1,6,35,MIL,MIL,fg_make,5,False,False,,Lopez 3' Layup (2 PTS) (Holiday 2 AST),18-11,18,11
+0022000774,2021-04-06,GSW,MIL,5.55,1,6,27,GSW,GSW,fg_miss,101,False,False,MISS Green 16' Driving Floating Jump Shot,,18-11,18,11
+0022000774,2021-04-06,GSW,MIL,5.57,1,6,26,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:3),18-11,18,11
+0022000774,2021-04-06,GSW,MIL,5.78,1,6,13,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 27' 3PT Jump Shot,18-11,18,11
+0022000774,2021-04-06,GSW,MIL,5.82,1,6,11,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:3),,18-11,18,11
+0022000774,2021-04-06,GSW,MIL,5.98,1,6,1,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 25' 3PT Jump Shot,,18-11,18,11
+0022000774,2021-04-06,GSW,MIL,6.02,1,5,59,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),18-11,18,11
+0022000774,2021-04-06,GSW,MIL,6.12,1,5,53,MIL,GSW,foul,1,False,False,Green P.FOUL (P1.T2) (M.Ayotte),,18-11,18,11
+0022000774,2021-04-06,GSW,MIL,6.28,1,5,43,MIL,GSW,foul,2,False,False,Green S.FOUL (P2.T3) (M.Davis),,18-11,18,11
+0022000774,2021-04-06,GSW,MIL,6.28,1,5,43,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (3 PTS),18-12,18,12
+0022000774,2021-04-06,GSW,MIL,6.28,1,5,43,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (4 PTS),18-13,18,13
+0022000774,2021-04-06,GSW,MIL,6.53,1,5,28,GSW,GSW,fg3_miss,1,False,False,MISS Wiseman 25' 3PT Jump Shot,,18-13,18,13
+0022000774,2021-04-06,GSW,MIL,6.57,1,5,26,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:1),18-13,18,13
+0022000774,2021-04-06,GSW,MIL,6.72,1,5,17,MIL,MIL,fg_make,98,False,False,,Middleton 2' Cutting Layup Shot (6 PTS) (Lopez 1 AST),18-15,18,15
+0022000774,2021-04-06,GSW,MIL,6.72,1,5,17,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 1 Short 0),,18-15,18,15
+0022000774,2021-04-06,GSW,MIL,6.93,1,5,4,GSW,GSW,fg3_make,1,False,False,Bazemore 24' 3PT Jump Shot (3 PTS) (Green 3 AST),,21-15,21,15
+0022000774,2021-04-06,GSW,MIL,7.22,1,4,47,MIL,MIL,fg_miss,78,False,False,,MISS Lopez 11' Floating Jump Shot,21-15,21,15
+0022000774,2021-04-06,GSW,MIL,7.23,1,4,46,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:1),,21-15,21,15
+0022000774,2021-04-06,GSW,MIL,7.5,1,4,30,GSW,GSW,fg_miss,101,False,False,MISS Curry 10' Driving Floating Jump Shot,,21-15,21,15
+0022000774,2021-04-06,GSW,MIL,7.52,1,4,29,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:0),,21-15,21,15
+0022000774,2021-04-06,GSW,MIL,7.58,1,4,25,GSW,GSW,fg_make,78,False,False,Curry 6' Floating Jump Shot (7 PTS),,23-15,23,15
+0022000774,2021-04-06,GSW,MIL,7.75,1,4,15,MIL,GSW,foul,2,False,False,Bazemore S.FOUL (P1.T4) (M.Davis),,23-15,23,15
+0022000774,2021-04-06,GSW,MIL,7.75,1,4,15,MIL,MIL,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (5 PTS),23-16,23,16
+0022000774,2021-04-06,GSW,MIL,7.75,1,4,15,MIL,MIL,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (6 PTS),23-17,23,17
+0022000774,2021-04-06,GSW,MIL,7.9,1,4,6,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P2.T4),,23-17,23,17
+0022000774,2021-04-06,GSW,MIL,7.9,1,4,6,GSW,MIL,steal,1,False,True,steal,steal,23-17,23,17
+0022000774,2021-04-06,GSW,MIL,8.05,1,3,57,MIL,MIL,fg_make,9,False,False,,Antetokounmpo 3' Driving Dunk (2 PTS) (Middleton 1 AST),23-19,23,19
+0022000774,2021-04-06,GSW,MIL,8.25,1,3,45,GSW,GSW,tov,45,False,False,Curry Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,23-19,23,19
+0022000774,2021-04-06,GSW,MIL,8.5,1,3,30,MIL,MIL,fg_miss,63,True,False,,MISS Middleton 12' Fadeaway Jumper,23-19,23,19
+0022000774,2021-04-06,GSW,MIL,8.5,1,3,30,MIL,GSW,block,63,True,False,block,block,23-19,23,19
+0022000774,2021-04-06,GSW,MIL,8.52,1,3,29,MIL,MIL,reb,0,False,False,,Bucks Rebound,23-19,23,19
+0022000774,2021-04-06,GSW,MIL,8.62,1,3,23,MIL,MIL,tov,45,False,False,,Holiday Out of Bounds - Bad Pass Turnover Turnover (P3.T4),23-19,23,19
+0022000774,2021-04-06,GSW,MIL,8.82,1,3,11,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 25' 3PT Jump Shot,,23-19,23,19
+0022000774,2021-04-06,GSW,MIL,8.85,1,3,9,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:2),23-19,23,19
+0022000774,2021-04-06,GSW,MIL,9.0,1,3,0,MIL,MIL,fg_make,79,False,False,,Holiday 13' Pullup Jump Shot (8 PTS) (Middleton 2 AST),23-21,23,21
+0022000774,2021-04-06,GSW,MIL,9.42,1,2,35,GSW,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P1.T2) (A.Moyer-Gleich),23-21,23,21
+0022000774,2021-04-06,GSW,MIL,9.42,1,2,35,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (8 PTS),,24-21,24,21
+0022000774,2021-04-06,GSW,MIL,9.42,1,2,35,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (9 PTS),,25-21,25,21
+0022000774,2021-04-06,GSW,MIL,9.67,1,2,20,MIL,MIL,fg_make,98,False,False,,Portis 2' Cutting Layup Shot (5 PTS) (Holiday 3 AST),25-23,25,23
+0022000774,2021-04-06,GSW,MIL,10.05,1,1,57,GSW,GSW,fg3_make,79,False,False,Bazemore 27' 3PT Pullup Jump Shot (6 PTS),,28-23,28,23
+0022000774,2021-04-06,GSW,MIL,10.43,1,1,34,MIL,MIL,fg_miss,63,False,False,,MISS Middleton 11' Fadeaway Jumper,28-23,28,23
+0022000774,2021-04-06,GSW,MIL,10.45,1,1,33,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:1),,28-23,28,23
+0022000774,2021-04-06,GSW,MIL,10.55,1,1,27,GSW,GSW,fg3_miss,80,False,False,MISS Curry 26' 3PT Step Back Jump Shot,,28-23,28,23
+0022000774,2021-04-06,GSW,MIL,10.58,1,1,25,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:1),28-23,28,23
+0022000774,2021-04-06,GSW,MIL,10.75,1,1,15,MIL,MIL,fg3_miss,80,False,False,,MISS Holiday 29' 3PT Step Back Jump Shot,28-23,28,23
+0022000774,2021-04-06,GSW,MIL,10.78,1,1,13,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:1),,28-23,28,23
+0022000774,2021-04-06,GSW,MIL,10.97,1,1,2,GSW,GSW,fg3_miss,1,False,False,MISS Lee 25' 3PT Jump Shot,,28-23,28,23
+0022000774,2021-04-06,GSW,MIL,11.0,1,1,0,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:2),28-23,28,23
+0022000774,2021-04-06,GSW,MIL,11.22,1,0,47,MIL,MIL,fg3_make,1,False,False,,Holiday 28' 3PT Jump Shot (11 PTS) (Connaughton 1 AST),28-26,28,26
+0022000774,2021-04-06,GSW,MIL,11.47,1,0,32,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 25' 3PT Jump Shot,,28-26,28,26
+0022000774,2021-04-06,GSW,MIL,11.5,1,0,30,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:4),28-26,28,26
+0022000774,2021-04-06,GSW,MIL,11.87,1,0,8,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P2.T5),28-26,28,26
+0022000774,2021-04-06,GSW,MIL,11.87,1,0,8,MIL,GSW,steal,2,False,True,steal,steal,28-26,28,26
+0022000774,2021-04-06,GSW,MIL,11.93,1,0,4,GSW,MIL,violation,5,False,False,,Holiday Violation:Kicked Ball (M.Ayotte),28-26,28,26
+0022000774,2021-04-06,GSW,MIL,11.97,1,0,2,GSW,GSW,fg3_miss,80,False,False,MISS Wiggins 26' 3PT Step Back Jump Shot,,28-26,28,26
+0022000774,2021-04-06,GSW,MIL,12.0,1,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,28-26,28,26
+0022000774,2021-04-06,GSW,MIL,12.0,1,0,0,GSW,,period_end,0,False,False,,,28-26,28,26
+0022000774,2021-04-06,GSW,MIL,12.0,2,12,0,GSW,,period_start,0,False,False,,,28-26,28,26
+0022000774,2021-04-06,GSW,MIL,12.3,2,11,42,MIL,MIL,fg_make,63,False,False,,Forbes 13' Fadeaway Jumper (2 PTS),28-28,28,28
+0022000774,2021-04-06,GSW,MIL,12.63,2,11,22,GSW,GSW,fg3_miss,1,False,False,MISS Looney 26' 3PT Jump Shot,,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,12.67,2,11,20,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:3),28-28,28,28
+0022000774,2021-04-06,GSW,MIL,12.92,2,11,5,MIL,MIL,fg_miss,86,False,False,,MISS Portis 16' Turnaround Fadeaway Shot,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,12.93,2,11,4,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,12.95,2,11,3,GSW,GSW,tov,39,False,False,Oubre Jr. Step Out of Bounds Turnover (P1.T6),,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,12.98,2,11,1,MIL,MIL,fg_miss,1,False,False,,MISS Forbes 16' Jump Shot,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.0,2,11,0,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.0,2,11,0,GSW,GSW,tov,1,False,True,Oubre Jr. Bad Pass Turnover (P2.T7),,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.0,2,11,0,GSW,MIL,steal,1,False,True,steal,steal,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.13,2,10,52,MIL,MIL,fg3_miss,79,False,False,,MISS Connaughton 26' 3PT Pullup Jump Shot,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.15,2,10,51,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:1),,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.47,2,10,32,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 27' 3PT Jump Shot,,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.5,2,10,30,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:1 Def:1),,28-28,28,28
+0022000774,2021-04-06,GSW,MIL,13.58,2,10,25,GSW,GSW,fg_make,6,False,False,Oubre Jr. 2' Driving Layup (5 PTS) (Looney 1 AST),,30-28,30,28
+0022000774,2021-04-06,GSW,MIL,13.88,2,10,7,MIL,MIL,fg_make,9,False,False,,Antetokounmpo 1' Driving Dunk (4 PTS),30-30,30,30
+0022000774,2021-04-06,GSW,MIL,14.05,2,9,57,GSW,GSW,fg_miss,79,False,False,MISS Bazemore 18' Pullup Jump Shot,,30-30,30,30
+0022000774,2021-04-06,GSW,MIL,14.07,2,9,56,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:5),30-30,30,30
+0022000774,2021-04-06,GSW,MIL,14.28,2,9,43,MIL,MIL,fg_make,101,False,False,,Teague 11' Driving Floating Jump Shot (2 PTS),30-32,30,32
+0022000774,2021-04-06,GSW,MIL,14.28,2,9,43,MIL,GSW,foul,2,False,False,Poole S.FOUL (P1.T1) (M.Ayotte),,30-32,30,32
+0022000774,2021-04-06,GSW,MIL,14.28,2,9,43,MIL,MIL,ft_make,10,False,False,,Teague Free Throw 1 of 1 (3 PTS),30-33,30,33
+0022000774,2021-04-06,GSW,MIL,14.6,2,9,24,GSW,GSW,fg_miss,79,False,False,MISS Oubre Jr. 12' Pullup Jump Shot,,30-33,30,33
+0022000774,2021-04-06,GSW,MIL,14.62,2,9,23,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:6),30-33,30,33
+0022000774,2021-04-06,GSW,MIL,14.9,2,9,6,MIL,MIL,fg_miss,6,False,False,,MISS Teague 6' Driving Layup,30-33,30,33
+0022000774,2021-04-06,GSW,MIL,14.92,2,9,5,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,30-33,30,33
+0022000774,2021-04-06,GSW,MIL,15.12,2,8,53,GSW,GSW,fg_miss,79,False,False,MISS Poole 19' Pullup Jump Shot,,30-33,30,33
+0022000774,2021-04-06,GSW,MIL,15.13,2,8,52,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:0 Def:1),30-33,30,33
+0022000774,2021-04-06,GSW,MIL,15.43,2,8,34,MIL,MIL,fg3_make,1,False,False,,Teague 3PT Jump Shot (6 PTS) (DiVincenzo 4 AST),30-36,30,36
+0022000774,2021-04-06,GSW,MIL,15.78,2,8,13,GSW,GSW,fg_make,98,False,False,Bazemore 1' Cutting Layup Shot (8 PTS) (Poole 1 AST),,32-36,32,36
+0022000774,2021-04-06,GSW,MIL,16.08,2,7,55,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 27' 3PT Jump Shot,32-36,32,36
+0022000774,2021-04-06,GSW,MIL,16.12,2,7,53,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:1 Def:2),,32-36,32,36
+0022000774,2021-04-06,GSW,MIL,16.3,2,7,42,GSW,GSW,fg_miss,6,False,False,MISS Bazemore 3' Driving Layup,,32-36,32,36
+0022000774,2021-04-06,GSW,MIL,16.32,2,7,41,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:7),32-36,32,36
+0022000774,2021-04-06,GSW,MIL,16.48,2,7,31,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 27' 3PT Jump Shot,32-36,32,36
+0022000774,2021-04-06,GSW,MIL,16.52,2,7,29,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:3),,32-36,32,36
+0022000774,2021-04-06,GSW,MIL,16.72,2,7,17,GSW,GSW,fg3_make,1,False,False,Oubre Jr. 26' 3PT Jump Shot (8 PTS) (Poole 2 AST),,35-36,35,36
+0022000774,2021-04-06,GSW,MIL,17.02,2,6,59,MIL,GSW,foul,2,False,False,Oubre Jr. S.FOUL (P1.T2) (A.Moyer-Gleich),,35-36,35,36
+0022000774,2021-04-06,GSW,MIL,17.02,2,6,59,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 2 Short 0),,35-36,35,36
+0022000774,2021-04-06,GSW,MIL,17.02,2,6,59,MIL,MIL,ft_miss,11,False,False,,MISS Portis Free Throw 1 of 2,35-36,35,36
+0022000774,2021-04-06,GSW,MIL,17.02,2,6,59,MIL,MIL,reb,1,False,False,,Bucks Rebound,35-36,35,36
+0022000774,2021-04-06,GSW,MIL,17.02,2,6,59,MIL,MIL,ft_make,12,False,False,,Portis Free Throw 2 of 2 (6 PTS),35-37,35,37
+0022000774,2021-04-06,GSW,MIL,17.23,2,6,46,GSW,GSW,fg_make,52,False,False,Wiseman 1' Alley Oop Dunk (7 PTS) (Poole 3 AST),,37-37,37,37
+0022000774,2021-04-06,GSW,MIL,17.43,2,6,34,MIL,MIL,fg_miss,6,True,False,,MISS Forbes 3' Driving Layup,37-37,37,37
+0022000774,2021-04-06,GSW,MIL,17.43,2,6,34,MIL,GSW,block,6,True,False,block,block,37-37,37,37
+0022000774,2021-04-06,GSW,MIL,17.47,2,6,32,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:3),,37-37,37,37
+0022000774,2021-04-06,GSW,MIL,17.55,2,6,27,GSW,GSW,tov,1,False,True,Lee Bad Pass Turnover (P1.T8),,37-37,37,37
+0022000774,2021-04-06,GSW,MIL,17.55,2,6,27,GSW,MIL,steal,1,False,True,steal,steal,37-37,37,37
+0022000774,2021-04-06,GSW,MIL,17.62,2,6,23,MIL,MIL,tov,4,False,False,,DiVincenzo Traveling Turnover (P1.T6),37-37,37,37
+0022000774,2021-04-06,GSW,MIL,17.82,2,6,11,GSW,GSW,fg3_make,1,False,False,Poole 26' 3PT Jump Shot (3 PTS) (Wiseman 1 AST),,40-37,40,37
+0022000774,2021-04-06,GSW,MIL,18.13,2,5,52,MIL,MIL,fg_make,7,False,False,,Antetokounmpo 2' Dunk (6 PTS) (DiVincenzo 5 AST),40-39,40,39
+0022000774,2021-04-06,GSW,MIL,18.37,2,5,38,GSW,GSW,fg_make,101,False,False,Poole 11' Driving Floating Jump Shot (5 PTS),,42-39,42,39
+0022000774,2021-04-06,GSW,MIL,18.37,2,5,38,GSW,MIL,foul,2,False,False,,Teague S.FOUL (P1.T1) (A.Moyer-Gleich),42-39,42,39
+0022000774,2021-04-06,GSW,MIL,18.37,2,5,38,GSW,GSW,ft_make,10,False,False,Poole Free Throw 1 of 1 (6 PTS),,43-39,43,39
+0022000774,2021-04-06,GSW,MIL,18.63,2,5,22,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 30' 3PT Jump Shot,43-39,43,39
+0022000774,2021-04-06,GSW,MIL,18.67,2,5,20,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:2),,43-39,43,39
+0022000774,2021-04-06,GSW,MIL,18.77,2,5,14,GSW,GSW,fg_miss,50,False,False,MISS Wiseman 1' Running Dunk,,43-39,43,39
+0022000774,2021-04-06,GSW,MIL,18.78,2,5,13,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:3),43-39,43,39
+0022000774,2021-04-06,GSW,MIL,19.03,2,4,58,MIL,MIL,fg_miss,80,False,False,,MISS Holiday 20' Step Back Jump Shot,43-39,43,39
+0022000774,2021-04-06,GSW,MIL,19.05,2,4,57,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:4),,43-39,43,39
+0022000774,2021-04-06,GSW,MIL,19.2,2,4,48,GSW,GSW,fg_make,79,False,False,Poole 16' Pullup Jump Shot (8 PTS),,45-39,45,39
+0022000774,2021-04-06,GSW,MIL,19.23,2,4,46,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.3 Short 0),45-39,45,39
+0022000774,2021-04-06,GSW,MIL,19.53,2,4,28,MIL,MIL,fg_miss,6,False,False,,MISS DiVincenzo 3' Driving Layup,45-39,45,39
+0022000774,2021-04-06,GSW,MIL,19.55,2,4,27,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:5),,45-39,45,39
+0022000774,2021-04-06,GSW,MIL,19.68,2,4,19,GSW,GSW,fg3_miss,1,False,False,MISS Poole 25' 3PT Jump Shot,,45-39,45,39
+0022000774,2021-04-06,GSW,MIL,19.72,2,4,17,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:2 Def:5),,45-39,45,39
+0022000774,2021-04-06,GSW,MIL,19.82,2,4,11,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 25' 3PT Jump Shot,,45-39,45,39
+0022000774,2021-04-06,GSW,MIL,19.85,2,4,9,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:4),45-39,45,39
+0022000774,2021-04-06,GSW,MIL,20.13,2,3,52,MIL,MIL,fg3_make,80,False,False,,DiVincenzo 3PT Step Back Jump Shot (3 PTS) (Middleton 3 AST),45-42,45,42
+0022000774,2021-04-06,GSW,MIL,20.4,2,3,36,GSW,GSW,fg_make,101,False,False,Poole 9' Driving Floating Jump Shot (10 PTS) (Green 4 AST),,47-42,47,42
+0022000774,2021-04-06,GSW,MIL,20.73,2,3,16,MIL,MIL,fg_miss,6,False,False,,MISS Lopez 5' Driving Layup,47-42,47,42
+0022000774,2021-04-06,GSW,MIL,20.77,2,3,14,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:3),,47-42,47,42
+0022000774,2021-04-06,GSW,MIL,20.85,2,3,9,GSW,GSW,fg_make,41,False,False,Wiseman 1' Running Layup (9 PTS) (Curry 3 AST),,49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.05,2,2,57,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 29' 3PT Jump Shot,49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.08,2,2,55,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:1),49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.28,2,2,43,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 31' 3PT Jump Shot,49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.32,2,2,41,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:2 Def:6),,49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.45,2,2,33,GSW,GSW,fg3_miss,80,False,False,MISS Poole 25' 3PT Step Back Jump Shot,,49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.48,2,2,31,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.63,2,2,22,MIL,GSW,foul,1,False,False,Poole P.FOUL (P2.T3) (A.Moyer-Gleich),,49-42,49,42
+0022000774,2021-04-06,GSW,MIL,21.78,2,2,13,MIL,MIL,fg_make,79,False,False,,Middleton 21' Pullup Jump Shot (8 PTS),49-44,49,44
+0022000774,2021-04-06,GSW,MIL,22.07,2,1,56,GSW,GSW,fg_miss,101,False,False,MISS Oubre Jr. 9' Driving Floating Jump Shot,,49-44,49,44
+0022000774,2021-04-06,GSW,MIL,22.08,2,1,55,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:1),49-44,49,44
+0022000774,2021-04-06,GSW,MIL,22.18,2,1,49,MIL,MIL,fg_make,41,False,False,,Middleton 6' Running Layup (10 PTS),49-46,49,46
+0022000774,2021-04-06,GSW,MIL,22.18,2,1,49,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,49-46,49,46
+0022000774,2021-04-06,GSW,MIL,22.47,2,1,32,GSW,GSW,fg_make,79,False,False,Curry 21' Pullup Jump Shot (11 PTS),,51-46,51,46
+0022000774,2021-04-06,GSW,MIL,22.65,2,1,21,MIL,MIL,fg3_miss,80,False,False,,MISS Holiday 30' 3PT Step Back Jump Shot,51-46,51,46
+0022000774,2021-04-06,GSW,MIL,22.68,2,1,19,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:2 Def:7),,51-46,51,46
+0022000774,2021-04-06,GSW,MIL,22.82,2,1,11,GSW,GSW,fg_miss,63,False,False,MISS Wiseman 12' Fadeaway Jumper,,51-46,51,46
+0022000774,2021-04-06,GSW,MIL,22.83,2,1,10,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,51-46,51,46
+0022000774,2021-04-06,GSW,MIL,22.83,2,1,10,GSW,MIL,foul,3,False,False,,Holiday L.B.FOUL (P1.T2) (A.Moyer-Gleich),51-46,51,46
+0022000774,2021-04-06,GSW,MIL,22.93,2,1,4,GSW,GSW,fg_miss,101,False,False,MISS Wiggins 11' Driving Floating Jump Shot,,51-46,51,46
+0022000774,2021-04-06,GSW,MIL,22.95,2,1,3,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:3 Def:7),,51-46,51,46
+0022000774,2021-04-06,GSW,MIL,23.0,2,1,0,GSW,GSW,fg_make,5,False,False,Wiseman 1' Layup (11 PTS),,53-46,53,46
+0022000774,2021-04-06,GSW,MIL,23.25,2,0,45,MIL,MIL,fg_miss,6,True,False,,MISS Holiday 6' Driving Layup,53-46,53,46
+0022000774,2021-04-06,GSW,MIL,23.25,2,0,45,MIL,GSW,block,6,True,False,block,block,53-46,53,46
+0022000774,2021-04-06,GSW,MIL,23.27,2,0,44,MIL,MIL,reb,0,False,False,,Bucks Rebound,53-46,53,46
+0022000774,2021-04-06,GSW,MIL,23.33,2,0,40,MIL,MIL,fg_make,63,False,False,,Middleton 14' Fadeaway Jumper (12 PTS),53-48,53,48
+0022000774,2021-04-06,GSW,MIL,23.53,2,0,28,GSW,GSW,fg3_miss,1,False,False,MISS Green 25' 3PT Jump Shot,,53-48,53,48
+0022000774,2021-04-06,GSW,MIL,23.57,2,0,26,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:8),53-48,53,48
+0022000774,2021-04-06,GSW,MIL,23.92,2,0,5,MIL,MIL,fg_make,1,False,False,,Connaughton 22' Jump Shot (2 PTS) (Holiday 4 AST),53-50,53,50
+0022000774,2021-04-06,GSW,MIL,23.98,2,0,1,GSW,GSW,fg3_miss,1,False,False,MISS Curry 34' 3PT Jump Shot,,53-50,53,50
+0022000774,2021-04-06,GSW,MIL,24.0,2,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,53-50,53,50
+0022000774,2021-04-06,GSW,MIL,24.0,2,0,0,GSW,,period_end,0,False,False,,,53-50,53,50
+0022000774,2021-04-06,GSW,MIL,24.0,3,12,0,GSW,,period_start,0,False,False,,,53-50,53,50
+0022000774,2021-04-06,GSW,MIL,24.17,3,11,50,MIL,MIL,tov,2,False,True,,Holiday Lost Ball Turnover (P4.T7),53-50,53,50
+0022000774,2021-04-06,GSW,MIL,24.17,3,11,50,MIL,GSW,steal,2,False,True,steal,steal,53-50,53,50
+0022000774,2021-04-06,GSW,MIL,24.2,3,11,48,GSW,MIL,foul,2,False,False,,Holiday S.FOUL (P2.T1) (A.Moyer-Gleich),53-50,53,50
+0022000774,2021-04-06,GSW,MIL,24.2,3,11,48,GSW,GSW,ft_make,11,False,False,Oubre Jr. Free Throw 1 of 2 (9 PTS),,54-50,54,50
+0022000774,2021-04-06,GSW,MIL,24.2,3,11,48,GSW,GSW,ft_miss,12,False,False,MISS Oubre Jr. Free Throw 2 of 2,,54-50,54,50
+0022000774,2021-04-06,GSW,MIL,24.23,3,11,46,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:9),54-50,54,50
+0022000774,2021-04-06,GSW,MIL,24.42,3,11,35,MIL,MIL,fg_make,6,False,False,,Holiday 1' Driving Layup (13 PTS),54-52,54,52
+0022000774,2021-04-06,GSW,MIL,24.67,3,11,20,GSW,GSW,fg_miss,79,False,False,MISS Wiggins 18' Pullup Jump Shot,,54-52,54,52
+0022000774,2021-04-06,GSW,MIL,24.68,3,11,19,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:2),54-52,54,52
+0022000774,2021-04-06,GSW,MIL,24.83,3,11,10,MIL,MIL,fg3_make,79,False,False,,Middleton 3PT Pullup Jump Shot (15 PTS) (Holiday 5 AST),54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.13,3,10,52,GSW,GSW,fg3_miss,1,False,False,MISS Green 28' 3PT Jump Shot,,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.17,3,10,50,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:10),54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.3,3,10,42,MIL,MIL,tov,1,False,True,,Holiday Bad Pass Turnover (P5.T8),54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.3,3,10,42,MIL,GSW,steal,1,False,True,steal,steal,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.53,3,10,28,GSW,GSW,tov,45,False,False,Curry Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.78,3,10,13,MIL,MIL,fg_miss,79,False,False,,MISS Middleton 12' Pullup Jump Shot,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.8,3,10,12,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:4),,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,25.85,3,10,9,GSW,GSW,tov,13,False,False,Oubre Jr. Backcourt Turnover (P3.T10),,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.08,3,9,55,GSW,MIL,foul,4,False,False,,Holiday OFF.Foul (P3) (A.Moyer-Gleich),54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.08,3,9,55,MIL,MIL,tov,37,False,False,,Holiday Offensive Foul Turnover (P6.T9),54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.32,3,9,41,GSW,GSW,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.35,3,9,39,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:11),54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.43,3,9,34,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 26' 3PT Jump Shot,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.47,3,9,32,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:1 Def:2),,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.58,3,9,25,GSW,GSW,fg_miss,1,False,False,MISS Wiseman 17' Jump Shot,,54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.6,3,9,24,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:12),54-55,54,55
+0022000774,2021-04-06,GSW,MIL,26.75,3,9,15,MIL,MIL,fg_make,6,False,False,,Middleton 2' Driving Layup (17 PTS),54-57,54,57
+0022000774,2021-04-06,GSW,MIL,26.77,3,9,14,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,54-57,54,57
+0022000774,2021-04-06,GSW,MIL,27.0,3,9,0,GSW,GSW,fg_make,75,False,False,Curry 5' Driving Finger Roll Layup (13 PTS) (Wiseman 2 AST),,56-57,56,57
+0022000774,2021-04-06,GSW,MIL,27.37,3,8,38,MIL,GSW,foul,2,False,False,Oubre Jr. S.FOUL (P2.T1) (M.Davis),,56-57,56,57
+0022000774,2021-04-06,GSW,MIL,27.37,3,8,38,MIL,MIL,ft_make,11,False,False,,Lopez Free Throw 1 of 2 (3 PTS),56-58,56,58
+0022000774,2021-04-06,GSW,MIL,27.37,3,8,38,MIL,MIL,ft_make,12,False,False,,Lopez Free Throw 2 of 2 (4 PTS),56-59,56,59
+0022000774,2021-04-06,GSW,MIL,27.57,3,8,26,GSW,MIL,foul,2,False,False,,DiVincenzo S.FOUL (P1.T2) (M.Davis),56-59,56,59
+0022000774,2021-04-06,GSW,MIL,27.57,3,8,26,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (14 PTS),,57-59,57,59
+0022000774,2021-04-06,GSW,MIL,27.57,3,8,26,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (15 PTS),,58-59,58,59
+0022000774,2021-04-06,GSW,MIL,27.93,3,8,4,MIL,MIL,fg_make,75,False,False,,Lopez 4' Driving Finger Roll Layup (6 PTS) (Connaughton 2 AST),58-61,58,61
+0022000774,2021-04-06,GSW,MIL,28.15,3,7,51,GSW,GSW,fg_miss,5,False,False,MISS Wiggins 3' Layup,,58-61,58,61
+0022000774,2021-04-06,GSW,MIL,28.17,3,7,50,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:4),58-61,58,61
+0022000774,2021-04-06,GSW,MIL,28.25,3,7,45,MIL,MIL,fg3_make,103,False,False,,Middleton 28' 3PT Running Pull-Up Jump Shot (20 PTS),58-64,58,64
+0022000774,2021-04-06,GSW,MIL,28.6,3,7,24,GSW,GSW,fg_miss,79,False,False,MISS Oubre Jr. 19' Pullup Jump Shot,,58-64,58,64
+0022000774,2021-04-06,GSW,MIL,28.62,3,7,23,MIL,MIL,reb,0,False,False,,Bucks Rebound,58-64,58,64
+0022000774,2021-04-06,GSW,MIL,28.87,3,7,8,MIL,MIL,fg_make,101,False,False,,Middleton 8' Driving Floating Jump Shot (22 PTS) (Lopez 2 AST),58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.02,3,6,59,GSW,MIL,violation,5,False,False,,DiVincenzo Violation:Kicked Ball (A.Moyer-Gleich),58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.12,3,6,53,GSW,GSW,fg3_miss,1,False,False,MISS Curry 29' 3PT Jump Shot,,58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.15,3,6,51,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:3),58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.25,3,6,45,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 27' 3PT Jump Shot,58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.28,3,6,43,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.53,3,6,28,GSW,GSW,fg3_miss,79,False,False,MISS Wiggins 29' 3PT Pullup Jump Shot,,58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.57,3,6,26,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:5),58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.85,3,6,9,MIL,GSW,foul,2,False,False,Green S.FOUL (P3.T2) (A.Moyer-Gleich),,58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.85,3,6,9,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.85,3,6,9,MIL,MIL,reb,1,False,False,,Bucks Rebound,58-66,58,66
+0022000774,2021-04-06,GSW,MIL,29.85,3,6,9,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (7 PTS),58-67,58,67
+0022000774,2021-04-06,GSW,MIL,30.03,3,5,58,GSW,GSW,fg3_make,1,False,False,Curry 26' 3PT Jump Shot (18 PTS) (Green 5 AST),,61-67,61,67
+0022000774,2021-04-06,GSW,MIL,30.32,3,5,41,MIL,MIL,fg_make,57,False,False,,Lopez 8' Driving Hook Shot (8 PTS),61-69,61,69
+0022000774,2021-04-06,GSW,MIL,30.32,3,5,41,MIL,GSW,foul,2,False,False,Looney S.FOUL (P1.T3) (M.Davis),,61-69,61,69
+0022000774,2021-04-06,GSW,MIL,30.32,3,5,41,MIL,MIL,ft_make,10,False,False,,Lopez Free Throw 1 of 1 (9 PTS),61-70,61,70
+0022000774,2021-04-06,GSW,MIL,30.53,3,5,28,GSW,GSW,fg_make,73,False,False,Curry 2' Driving Reverse Layup (20 PTS) (Looney 2 AST),,63-70,63,70
+0022000774,2021-04-06,GSW,MIL,30.73,3,5,16,MIL,MIL,fg_make,44,False,False,,Antetokounmpo 2' Reverse Layup (9 PTS) (Middleton 4 AST),63-72,63,72
+0022000774,2021-04-06,GSW,MIL,30.73,3,5,16,MIL,GSW,foul,2,False,False,Bazemore S.FOUL (P2.T4) (M.Ayotte),,63-72,63,72
+0022000774,2021-04-06,GSW,MIL,30.73,3,5,16,MIL,MIL,ft_make,10,False,False,,Antetokounmpo Free Throw 1 of 1 (10 PTS),63-73,63,73
+0022000774,2021-04-06,GSW,MIL,30.92,3,5,5,GSW,GSW,fg_miss,75,True,False,MISS Curry 4' Driving Finger Roll Layup,,63-73,63,73
+0022000774,2021-04-06,GSW,MIL,30.92,3,5,5,GSW,MIL,block,75,True,False,block,block,63-73,63,73
+0022000774,2021-04-06,GSW,MIL,30.95,3,5,3,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:2 Def:3),,63-73,63,73
+0022000774,2021-04-06,GSW,MIL,31.03,3,4,58,GSW,GSW,fg3_make,79,False,False,Bazemore 25' 3PT Pullup Jump Shot (11 PTS) (Wiggins 1 AST),,66-73,66,73
+0022000774,2021-04-06,GSW,MIL,31.12,3,4,53,MIL,MIL,tov,13,False,False,,Middleton Backcourt Turnover (P3.T10),66-73,66,73
+0022000774,2021-04-06,GSW,MIL,31.58,3,4,25,GSW,GSW,fg_miss,63,False,False,MISS Bazemore 9' Fadeaway Jumper,,66-73,66,73
+0022000774,2021-04-06,GSW,MIL,31.6,3,4,24,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:5),66-73,66,73
+0022000774,2021-04-06,GSW,MIL,31.73,3,4,16,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.4 Short 0),66-73,66,73
+0022000774,2021-04-06,GSW,MIL,31.78,3,4,13,MIL,GSW,foul,1,False,False,Green P.FOUL (P4.PN) (M.Davis),,66-73,66,73
+0022000774,2021-04-06,GSW,MIL,31.78,3,4,13,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (23 PTS),66-74,66,74
+0022000774,2021-04-06,GSW,MIL,31.78,3,4,13,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (24 PTS),66-75,66,75
+0022000774,2021-04-06,GSW,MIL,32.02,3,3,59,GSW,GSW,fg_make,79,False,False,Looney 22' Pullup Jump Shot (2 PTS),,68-75,68,75
+0022000774,2021-04-06,GSW,MIL,32.25,3,3,45,MIL,MIL,fg_make,80,False,False,,Middleton 21' Step Back Jump Shot (26 PTS),68-77,68,77
+0022000774,2021-04-06,GSW,MIL,32.52,3,3,29,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 26' 3PT Jump Shot,,68-77,68,77
+0022000774,2021-04-06,GSW,MIL,32.55,3,3,27,GSW,GSW,reb,0,False,False,Green REBOUND (Off:2 Def:1),,68-77,68,77
+0022000774,2021-04-06,GSW,MIL,32.55,3,3,27,GSW,GSW,fg_miss,97,False,False,MISS Green Tip Layup Shot,,68-77,68,77
+0022000774,2021-04-06,GSW,MIL,32.57,3,3,26,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:2),68-77,68,77
+0022000774,2021-04-06,GSW,MIL,32.8,3,3,12,MIL,MIL,fg_make,101,False,False,,Portis 7' Driving Floating Jump Shot (8 PTS) (Teague 1 AST),68-79,68,79
+0022000774,2021-04-06,GSW,MIL,32.92,3,3,5,GSW,GSW,fg3_make,79,False,False,Curry 29' 3PT Pullup Jump Shot (23 PTS),,71-79,71,79
+0022000774,2021-04-06,GSW,MIL,33.33,3,2,40,MIL,MIL,tov,2,False,True,,Holiday Lost Ball Turnover (P7.T11),71-79,71,79
+0022000774,2021-04-06,GSW,MIL,33.33,3,2,40,MIL,GSW,steal,2,False,True,steal,steal,71-79,71,79
+0022000774,2021-04-06,GSW,MIL,33.52,3,2,29,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 26' 3PT Jump Shot,,71-79,71,79
+0022000774,2021-04-06,GSW,MIL,33.55,3,2,27,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:6),71-79,71,79
+0022000774,2021-04-06,GSW,MIL,33.72,3,2,17,MIL,MIL,fg3_make,79,False,False,,Holiday 26' 3PT Pullup Jump Shot (16 PTS),71-82,71,82
+0022000774,2021-04-06,GSW,MIL,33.93,3,2,4,GSW,GSW,fg_make,6,False,False,Curry 3' Driving Layup (25 PTS),,73-82,73,82
+0022000774,2021-04-06,GSW,MIL,34.1,3,1,54,MIL,MIL,fg3_make,79,False,False,,Teague 25' 3PT Pullup Jump Shot (9 PTS) (Antetokounmpo 1 AST),73-85,73,85
+0022000774,2021-04-06,GSW,MIL,34.4,3,1,36,GSW,GSW,fg_make,5,False,False,Looney 4' Layup (4 PTS) (Bazemore 1 AST),,75-85,75,85
+0022000774,2021-04-06,GSW,MIL,34.73,3,1,16,MIL,MIL,fg_miss,6,True,False,,MISS Teague 10' Driving Layup,75-85,75,85
+0022000774,2021-04-06,GSW,MIL,34.73,3,1,16,MIL,GSW,block,6,True,False,block,block,75-85,75,85
+0022000774,2021-04-06,GSW,MIL,34.77,3,1,14,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:4),,75-85,75,85
+0022000774,2021-04-06,GSW,MIL,34.87,3,1,8,GSW,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P2.T3) (M.Davis),75-85,75,85
+0022000774,2021-04-06,GSW,MIL,34.87,3,1,8,GSW,GSW,ft_miss,13,False,False,MISS Curry Free Throw 1 of 3,,75-85,75,85
+0022000774,2021-04-06,GSW,MIL,34.87,3,1,8,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,75-85,75,85
+0022000774,2021-04-06,GSW,MIL,34.87,3,1,8,GSW,GSW,ft_make,14,False,False,Curry Free Throw 2 of 3 (26 PTS),,76-85,76,85
+0022000774,2021-04-06,GSW,MIL,34.87,3,1,8,GSW,GSW,ft_make,15,False,False,Curry Free Throw 3 of 3 (27 PTS),,77-85,77,85
+0022000774,2021-04-06,GSW,MIL,35.18,3,0,49,MIL,MIL,tov,9,False,False,,Holiday 5 Second Violation Turnover (P8.T12),77-85,77,85
+0022000774,2021-04-06,GSW,MIL,35.37,3,0,38,GSW,GSW,fg_miss,1,False,False,MISS Looney 7' Jump Shot,,77-85,77,85
+0022000774,2021-04-06,GSW,MIL,35.38,3,0,37,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:2 Def:2),,77-85,77,85
+0022000774,2021-04-06,GSW,MIL,35.38,3,0,37,GSW,GSW,fg3_make,79,False,False,Bazemore 3PT Pullup Jump Shot (14 PTS) (Looney 3 AST),,80-85,80,85
+0022000774,2021-04-06,GSW,MIL,35.55,3,0,27,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 3PT Jump Shot,80-85,80,85
+0022000774,2021-04-06,GSW,MIL,35.6,3,0,24,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),80-85,80,85
+0022000774,2021-04-06,GSW,MIL,35.6,3,0,24,MIL,MIL,fg_make,5,False,False,,Holiday Layup (18 PTS),80-87,80,87
+0022000774,2021-04-06,GSW,MIL,35.6,3,0,24,MIL,GSW,foul,2,False,False,Looney S.FOUL (P2.PN) (M.Ayotte),,80-87,80,87
+0022000774,2021-04-06,GSW,MIL,35.6,3,0,24,MIL,MIL,ft_make,10,False,False,,Holiday Free Throw 1 of 1 (19 PTS),80-88,80,88
+0022000774,2021-04-06,GSW,MIL,35.9,3,0,6,GSW,GSW,fg3_make,79,False,False,Curry 28' 3PT Pullup Jump Shot (30 PTS),,83-88,83,88
+0022000774,2021-04-06,GSW,MIL,36.0,3,0,0,MIL,MIL,fg_miss,79,False,False,,MISS Portis 19' Pullup Jump Shot,83-88,83,88
+0022000774,2021-04-06,GSW,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,83-88,83,88
+0022000774,2021-04-06,GSW,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,83-88,83,88
+0022000774,2021-04-06,GSW,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,83-88,83,88
+0022000774,2021-04-06,GSW,MIL,36.2,4,11,48,GSW,GSW,fg3_miss,79,False,False,MISS Poole 26' 3PT Pullup Jump Shot,,83-88,83,88
+0022000774,2021-04-06,GSW,MIL,36.23,4,11,46,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:13),83-88,83,88
+0022000774,2021-04-06,GSW,MIL,36.37,4,11,38,MIL,MIL,fg_make,75,False,False,,Teague 3' Driving Finger Roll Layup (11 PTS),83-90,83,90
+0022000774,2021-04-06,GSW,MIL,36.7,4,11,18,GSW,GSW,fg_make,98,False,False,Wiseman 3' Cutting Layup Shot (13 PTS) (Poole 4 AST),,85-90,85,90
+0022000774,2021-04-06,GSW,MIL,36.8,4,11,12,MIL,MIL,fg_miss,101,False,False,,MISS Portis 9' Driving Floating Jump Shot,85-90,85,90
+0022000774,2021-04-06,GSW,MIL,36.82,4,11,11,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:2 Def:3),85-90,85,90
+0022000774,2021-04-06,GSW,MIL,36.82,4,11,11,MIL,MIL,fg_miss,97,False,False,,MISS DiVincenzo Tip Layup Shot,85-90,85,90
+0022000774,2021-04-06,GSW,MIL,36.83,4,11,10,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:5),,85-90,85,90
+0022000774,2021-04-06,GSW,MIL,37.02,4,10,59,GSW,GSW,fg_miss,75,False,False,MISS Poole 2' Driving Finger Roll Layup,,85-90,85,90
+0022000774,2021-04-06,GSW,MIL,37.03,4,10,58,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:2),85-90,85,90
+0022000774,2021-04-06,GSW,MIL,37.12,4,10,53,MIL,MIL,fg3_make,103,False,False,,Forbes 30' 3PT Running Pull-Up Jump Shot (5 PTS) (Middleton 5 AST),85-93,85,93
+0022000774,2021-04-06,GSW,MIL,37.48,4,10,31,GSW,GSW,fg_make,47,False,False,Oubre Jr. 19' Turnaround Jump Shot (11 PTS),,87-93,87,93
+0022000774,2021-04-06,GSW,MIL,37.77,4,10,14,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P4.T13),87-93,87,93
+0022000774,2021-04-06,GSW,MIL,37.77,4,10,14,MIL,GSW,steal,2,False,True,steal,steal,87-93,87,93
+0022000774,2021-04-06,GSW,MIL,37.97,4,10,2,GSW,GSW,tov,1,False,True,Bazemore Bad Pass Turnover (P1.T11),,87-93,87,93
+0022000774,2021-04-06,GSW,MIL,37.97,4,10,2,GSW,MIL,steal,1,False,True,steal,steal,87-93,87,93
+0022000774,2021-04-06,GSW,MIL,38.08,4,9,55,MIL,MIL,fg_make,50,False,False,,Portis 2' Running Dunk (10 PTS) (Teague 2 AST),87-95,87,95
+0022000774,2021-04-06,GSW,MIL,38.55,4,9,27,GSW,GSW,fg_make,101,False,False,Lee 12' Driving Floating Jump Shot (2 PTS) (Poole 5 AST),,89-95,89,95
+0022000774,2021-04-06,GSW,MIL,38.88,4,9,7,MIL,MIL,fg3_make,1,False,False,,Portis 25' 3PT Jump Shot (13 PTS) (Teague 3 AST),89-98,89,98
+0022000774,2021-04-06,GSW,MIL,39.02,4,8,59,GSW,MIL,foul,2,False,False,,Teague S.FOUL (P2.T1) (M.Ayotte),89-98,89,98
+0022000774,2021-04-06,GSW,MIL,39.02,4,8,59,GSW,GSW,ft_make,11,False,False,Bazemore Free Throw 1 of 2 (15 PTS),,90-98,90,98
+0022000774,2021-04-06,GSW,MIL,39.02,4,8,59,GSW,GSW,ft_make,12,False,False,Bazemore Free Throw 2 of 2 (16 PTS),,91-98,91,98
+0022000774,2021-04-06,GSW,MIL,39.27,4,8,44,MIL,GSW,foul,2,False,False,Lee S.FOUL (P1.T1) (M.Davis),,91-98,91,98
+0022000774,2021-04-06,GSW,MIL,39.27,4,8,44,MIL,MIL,ft_make,11,False,False,,Teague Free Throw 1 of 2 (12 PTS),91-99,91,99
+0022000774,2021-04-06,GSW,MIL,39.27,4,8,44,MIL,MIL,ft_make,12,False,False,,Teague Free Throw 2 of 2 (13 PTS),91-100,91,100
+0022000774,2021-04-06,GSW,MIL,39.55,4,8,27,GSW,GSW,fg_miss,79,False,False,MISS Oubre Jr. 20' Pullup Jump Shot,,91-100,91,100
+0022000774,2021-04-06,GSW,MIL,39.62,4,8,23,MIL,MIL,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),91-100,91,100
+0022000774,2021-04-06,GSW,MIL,39.75,4,8,15,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 26' 3PT Jump Shot,91-100,91,100
+0022000774,2021-04-06,GSW,MIL,39.78,4,8,13,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:0 Def:1),,91-100,91,100
+0022000774,2021-04-06,GSW,MIL,39.97,4,8,2,GSW,MIL,foul,1,False,False,,Teague P.FOUL (P3.T2) (A.Moyer-Gleich),91-100,91,100
+0022000774,2021-04-06,GSW,MIL,40.08,4,7,55,GSW,GSW,fg_make,5,False,False,Green 3' Layup (4 PTS) (Oubre Jr. 1 AST),,93-100,93,100
+0022000774,2021-04-06,GSW,MIL,40.25,4,7,45,MIL,MIL,fg3_make,79,False,False,,Forbes 26' 3PT Pullup Jump Shot (8 PTS) (Middleton 6 AST),93-103,93,103
+0022000774,2021-04-06,GSW,MIL,40.48,4,7,31,GSW,GSW,fg_make,75,False,False,Curry 6' Driving Finger Roll Layup (32 PTS),,95-103,95,103
+0022000774,2021-04-06,GSW,MIL,40.67,4,7,20,MIL,MIL,fg_make,79,False,False,,Teague 16' Pullup Jump Shot (15 PTS),95-105,95,105
+0022000774,2021-04-06,GSW,MIL,40.95,4,7,3,GSW,GSW,fg_make,1,False,False,Green 13' Jump Shot (6 PTS) (Poole 6 AST),,97-105,97,105
+0022000774,2021-04-06,GSW,MIL,41.32,4,6,41,MIL,MIL,fg_miss,63,False,False,,MISS Middleton 13' Fadeaway Jumper,97-105,97,105
+0022000774,2021-04-06,GSW,MIL,41.33,4,6,40,GSW,GSW,reb,0,False,False,Green REBOUND (Off:2 Def:2),,97-105,97,105
+0022000774,2021-04-06,GSW,MIL,41.6,4,6,24,GSW,GSW,fg_make,52,False,False,Wiggins 2' Alley Oop Dunk (5 PTS) (Green 6 AST),,99-105,99,105
+0022000774,2021-04-06,GSW,MIL,41.98,4,6,1,MIL,MIL,fg_make,101,False,False,,Holiday 11' Driving Floating Jump Shot (21 PTS),99-107,99,107
+0022000774,2021-04-06,GSW,MIL,42.33,4,5,40,GSW,GSW,fg_make,6,False,False,Wiggins 3' Driving Layup (7 PTS) (Curry 4 AST),,101-107,101,107
+0022000774,2021-04-06,GSW,MIL,42.35,4,5,39,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),101-107,101,107
+0022000774,2021-04-06,GSW,MIL,42.55,4,5,27,MIL,MIL,fg3_make,1,False,False,,DiVincenzo 25' 3PT Jump Shot (6 PTS) (Middleton 7 AST),101-110,101,110
+0022000774,2021-04-06,GSW,MIL,42.8,4,5,12,GSW,MIL,foul,2,False,False,,Holiday S.FOUL (P4.T3) (M.Ayotte),101-110,101,110
+0022000774,2021-04-06,GSW,MIL,42.8,4,5,12,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (33 PTS),,102-110,102,110
+0022000774,2021-04-06,GSW,MIL,42.8,4,5,12,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (34 PTS),,103-110,103,110
+0022000774,2021-04-06,GSW,MIL,43.12,4,4,53,MIL,MIL,fg_miss,1,False,False,,MISS Middleton 11' Jump Shot,103-110,103,110
+0022000774,2021-04-06,GSW,MIL,43.13,4,4,52,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:5),,103-110,103,110
+0022000774,2021-04-06,GSW,MIL,43.27,4,4,44,GSW,GSW,fg3_miss,103,False,False,MISS Curry 28' 3PT Running Pull-Up Jump Shot,,103-110,103,110
+0022000774,2021-04-06,GSW,MIL,43.3,4,4,42,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:7),103-110,103,110
+0022000774,2021-04-06,GSW,MIL,43.48,4,4,31,MIL,MIL,fg3_make,79,False,False,,Holiday 26' 3PT Pullup Jump Shot (24 PTS),103-113,103,113
+0022000774,2021-04-06,GSW,MIL,43.75,4,4,15,GSW,GSW,fg3_make,1,False,False,Oubre Jr. 28' 3PT Jump Shot (14 PTS) (Green 7 AST),,106-113,106,113
+0022000774,2021-04-06,GSW,MIL,44.0,4,4,0,MIL,MIL,fg3_make,79,False,False,,Holiday 27' 3PT Pullup Jump Shot (27 PTS),106-116,106,116
+0022000774,2021-04-06,GSW,MIL,44.25,4,3,45,GSW,GSW,fg3_make,1,False,False,Oubre Jr. 28' 3PT Jump Shot (17 PTS) (Bazemore 2 AST),,109-116,109,116
+0022000774,2021-04-06,GSW,MIL,44.68,4,3,19,MIL,MIL,fg_miss,6,False,False,,MISS Holiday 3' Driving Layup,109-116,109,116
+0022000774,2021-04-06,GSW,MIL,44.7,4,3,18,GSW,GSW,reb,0,False,False,Green REBOUND (Off:2 Def:3),,109-116,109,116
+0022000774,2021-04-06,GSW,MIL,44.78,4,3,13,GSW,GSW,fg_make,41,False,False,Curry 4' Running Layup (36 PTS) (Green 8 AST),,111-116,111,116
+0022000774,2021-04-06,GSW,MIL,44.93,4,3,4,MIL,GSW,foul,1,False,False,Green P.FOUL (P5.T2) (M.Ayotte),,111-116,111,116
+0022000774,2021-04-06,GSW,MIL,44.97,4,3,2,MIL,GSW,foul,1,False,False,Oubre Jr. P.FOUL (P3.T3) (A.Moyer-Gleich),,111-116,111,116
+0022000774,2021-04-06,GSW,MIL,45.12,4,2,53,MIL,MIL,fg3_miss,80,False,False,,MISS Holiday 27' 3PT Step Back Jump Shot,111-116,111,116
+0022000774,2021-04-06,GSW,MIL,45.15,4,2,51,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:2),111-116,111,116
+0022000774,2021-04-06,GSW,MIL,45.27,4,2,44,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P5.T14),111-116,111,116
+0022000774,2021-04-06,GSW,MIL,45.27,4,2,44,MIL,GSW,steal,1,False,True,steal,steal,111-116,111,116
+0022000774,2021-04-06,GSW,MIL,45.48,4,2,31,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 26' 3PT Jump Shot,,111-116,111,116
+0022000774,2021-04-06,GSW,MIL,45.52,4,2,29,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:2 Def:2),,111-116,111,116
+0022000774,2021-04-06,GSW,MIL,45.6,4,2,24,GSW,GSW,fg3_make,79,False,False,Curry 29' 3PT Pullup Jump Shot (39 PTS) (Wiggins 2 AST),,114-116,114,116
+0022000774,2021-04-06,GSW,MIL,45.87,4,2,8,MIL,GSW,foul,2,False,False,Green S.FOUL (P6.T4) (M.Davis),,114-116,114,116
+0022000774,2021-04-06,GSW,MIL,45.87,4,2,8,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 5 Short 0),,114-116,114,116
+0022000774,2021-04-06,GSW,MIL,45.87,4,2,8,GSW,MIL,ft_make,11,False,False,,Connaughton Free Throw 1 of 2 (3 PTS),114-117,114,117
+0022000774,2021-04-06,GSW,MIL,45.87,4,2,8,MIL,MIL,ft_miss,12,False,False,,MISS Connaughton Free Throw 2 of 2,114-117,114,117
+0022000774,2021-04-06,GSW,MIL,45.88,4,2,7,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,114-117,114,117
+0022000774,2021-04-06,GSW,MIL,45.88,4,2,7,GSW,MIL,foul,3,False,False,,Lopez L.B.FOUL (P1.T4) (M.Davis),114-117,114,117
+0022000774,2021-04-06,GSW,MIL,46.02,4,1,59,GSW,GSW,fg_make,9,False,False,Wiggins 2' Driving Dunk (9 PTS),,116-117,116,117
+0022000774,2021-04-06,GSW,MIL,46.28,4,1,43,MIL,MIL,fg_miss,75,False,False,,MISS Holiday 3' Driving Finger Roll Layup,116-117,116,117
+0022000774,2021-04-06,GSW,MIL,46.3,4,1,42,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:2 Def:4),,116-117,116,117
+0022000774,2021-04-06,GSW,MIL,46.47,4,1,32,GSW,GSW,fg_make,6,False,False,Bazemore 3' Driving Layup (18 PTS),,118-117,118,117
+0022000774,2021-04-06,GSW,MIL,46.7,4,1,18,MIL,MIL,fg_miss,1,False,False,,MISS Middleton 18' Jump Shot,118-117,118,117
+0022000774,2021-04-06,GSW,MIL,46.72,4,1,17,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:0 Def:1),,118-117,118,117
+0022000774,2021-04-06,GSW,MIL,46.9,4,1,6,GSW,GSW,fg_make,79,False,False,Curry 21' Pullup Jump Shot (41 PTS),,120-117,120,117
+0022000774,2021-04-06,GSW,MIL,47.0,4,1,0,MIL,GSW,foul,2,False,False,Curry S.FOUL (P2.PN) (A.Moyer-Gleich),,120-117,120,117
+0022000774,2021-04-06,GSW,MIL,47.0,4,1,0,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (27 PTS),120-118,120,118
+0022000774,2021-04-06,GSW,MIL,47.0,4,1,0,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (28 PTS),120-119,120,119
+0022000774,2021-04-06,GSW,MIL,47.4,4,0,36,GSW,GSW,fg_miss,101,True,False,MISS Bazemore 5' Driving Floating Jump Shot,,120-119,120,119
+0022000774,2021-04-06,GSW,MIL,47.4,4,0,36,GSW,MIL,block,101,True,False,block,block,120-119,120,119
+0022000774,2021-04-06,GSW,MIL,47.4,4,0,36,MIL,MIL,timeout,7,False,False,,Bucks Timeout: Coach Challenge (Reg.5 Short 0),120-119,120,119
+0022000774,2021-04-06,GSW,MIL,47.4,4,0,36,MIL,MIL,reb,0,False,False,,Bucks Rebound,120-119,120,119
+0022000774,2021-04-06,GSW,MIL,47.47,4,0,32,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 26' 3PT Jump Shot,120-119,120,119
+0022000774,2021-04-06,GSW,MIL,47.5,4,0,30,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:2 Def:1),120-119,120,119
+0022000774,2021-04-06,GSW,MIL,47.5,4,0,30,MIL,MIL,fg_make,5,False,False,,Holiday Layup (29 PTS),120-121,120,121
+0022000774,2021-04-06,GSW,MIL,47.8,4,0,12,GSW,GSW,fg3_miss,79,False,False,MISS Wiggins 29' 3PT Pullup Jump Shot,,120-121,120,121
+0022000774,2021-04-06,GSW,MIL,47.83,4,0,10,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:5),,120-121,120,121
+0022000774,2021-04-06,GSW,MIL,47.88,4,0,7,GSW,MIL,foul,2,False,False,,Lopez S.FOUL (P2.PN) (M.Davis),120-121,120,121
+0022000774,2021-04-06,GSW,MIL,47.88,4,0,7,GSW,GSW,ft_make,11,False,False,Oubre Jr. Free Throw 1 of 2 (18 PTS),,121-121,121,121
+0022000774,2021-04-06,GSW,MIL,47.88,4,0,7,GSW,GSW,ft_make,12,False,False,Oubre Jr. Free Throw 2 of 2 (19 PTS),,122-121,122,121
+0022000774,2021-04-06,GSW,MIL,47.88,4,0,7,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.6 Short 0),122-121,122,121
+0022000774,2021-04-06,GSW,MIL,47.95,4,0,3,MIL,MIL,fg3_miss,1,True,False,,MISS Middleton 26' 3PT Jump Shot,122-121,122,121
+0022000774,2021-04-06,GSW,MIL,47.95,4,0,3,MIL,GSW,block,1,True,False,block,block,122-121,122,121
+0022000774,2021-04-06,GSW,MIL,47.97,4,0,2,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:7),122-121,122,121
+0022000774,2021-04-06,GSW,MIL,47.97,4,0,2,MIL,MIL,fg_miss,63,False,False,,MISS Connaughton 7' Fadeaway Jumper,122-121,122,121
+0022000774,2021-04-06,GSW,MIL,48.0,4,0,0,MIL,,period_end,0,False,False,,,122-121,122,121
+0022000774,2021-04-06,GSW,MIL,48.0,4,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,122-121,122,121

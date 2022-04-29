@@ -1,0 +1,424 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000895,2021-04-22,SAS,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.0,1,12,0,,SAS,jump_ball,0,False,False,Jump Ball Poeltl vs. Stewart: Tip to Johnson,,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.27,1,11,44,SAS,SAS,fg_miss,3,False,False,MISS Poeltl 7' Hook Shot,,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.3,1,11,42,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:0 Def:1),0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.65,1,11,21,DET,DET,fg3_miss,1,False,False,,MISS Bey 24' 3PT Jump Shot,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.72,1,11,17,SAS,SAS,reb,0,False,False,Walker IV REBOUND (Off:0 Def:1),,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.85,1,11,9,SAS,SAS,fg_miss,75,True,False,MISS Walker IV 3' Driving Finger Roll Layup,,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.85,1,11,9,SAS,DET,block,75,True,False,block,block,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.9,1,11,6,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:0 Def:2),0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.93,1,11,4,DET,SAS,foul,2,False,False,Samanic S.FOUL (P1.T1) (J.Goble),,0-0,0,0
+0022000895,2021-04-22,SAS,DET,0.93,1,11,4,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (1 PTS),0-1,0,1
+0022000895,2021-04-22,SAS,DET,0.93,1,11,4,DET,DET,ft_miss,12,False,False,,MISS Jackson Free Throw 2 of 2,0-1,0,1
+0022000895,2021-04-22,SAS,DET,0.98,1,11,1,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:0 Def:1),,0-1,0,1
+0022000895,2021-04-22,SAS,DET,1.2,1,10,48,SAS,SAS,fg_miss,6,False,False,MISS Johnson 6' Driving Layup,,0-1,0,1
+0022000895,2021-04-22,SAS,DET,1.23,1,10,46,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:0),,0-1,0,1
+0022000895,2021-04-22,SAS,DET,1.28,1,10,43,SAS,SAS,tov,2,False,True,Johnson Lost Ball Turnover (P1.T1),,0-1,0,1
+0022000895,2021-04-22,SAS,DET,1.28,1,10,43,SAS,DET,steal,2,False,True,steal,steal,0-1,0,1
+0022000895,2021-04-22,SAS,DET,1.48,1,10,31,DET,DET,fg3_make,1,False,False,,Bey 27' 3PT Jump Shot (3 PTS) (Doumbouya 1 AST),0-4,0,4
+0022000895,2021-04-22,SAS,DET,1.8,1,10,12,SAS,SAS,fg_miss,79,False,False,MISS White 13' Pullup Jump Shot,,0-4,0,4
+0022000895,2021-04-22,SAS,DET,1.83,1,10,10,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:1),0-4,0,4
+0022000895,2021-04-22,SAS,DET,2.03,1,9,58,DET,DET,fg_miss,75,False,False,,MISS Hayes 3' Driving Finger Roll Layup,0-4,0,4
+0022000895,2021-04-22,SAS,DET,2.13,1,9,52,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:1 Def:2),0-4,0,4
+0022000895,2021-04-22,SAS,DET,2.13,1,9,52,DET,DET,fg_miss,97,False,False,,MISS Stewart Tip Layup Shot,0-4,0,4
+0022000895,2021-04-22,SAS,DET,2.15,1,9,51,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:1),,0-4,0,4
+0022000895,2021-04-22,SAS,DET,2.27,1,9,44,SAS,SAS,fg_make,75,False,False,Walker IV 2' Driving Finger Roll Layup (2 PTS),,2-4,2,4
+0022000895,2021-04-22,SAS,DET,2.55,1,9,27,DET,DET,fg3_miss,1,False,False,,MISS Hayes 27' 3PT Jump Shot,2-4,2,4
+0022000895,2021-04-22,SAS,DET,2.6,1,9,24,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:2),,2-4,2,4
+0022000895,2021-04-22,SAS,DET,2.72,1,9,17,SAS,SAS,fg_miss,75,True,False,MISS Johnson 3' Driving Finger Roll Layup,,2-4,2,4
+0022000895,2021-04-22,SAS,DET,2.72,1,9,17,SAS,DET,block,75,True,False,block,block,2-4,2,4
+0022000895,2021-04-22,SAS,DET,2.78,1,9,13,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),2-4,2,4
+0022000895,2021-04-22,SAS,DET,2.83,1,9,10,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P1.T1),2-4,2,4
+0022000895,2021-04-22,SAS,DET,2.83,1,9,10,DET,SAS,steal,1,False,True,steal,steal,2-4,2,4
+0022000895,2021-04-22,SAS,DET,3.0,1,9,0,SAS,DET,foul,1,False,False,,Hayes P.FOUL (P1.T1) (J.Van Duyne),2-4,2,4
+0022000895,2021-04-22,SAS,DET,3.22,1,8,47,SAS,SAS,fg3_make,79,False,False,Walker IV 28' 3PT Pullup Jump Shot (5 PTS) (White 1 AST),,5-4,5,4
+0022000895,2021-04-22,SAS,DET,3.6,1,8,24,DET,DET,fg_miss,3,False,False,,MISS Stewart 8' Hook Shot,5-4,5,4
+0022000895,2021-04-22,SAS,DET,3.63,1,8,22,SAS,SAS,reb,0,False,False,Samanic REBOUND (Off:0 Def:1),,5-4,5,4
+0022000895,2021-04-22,SAS,DET,3.85,1,8,9,SAS,SAS,fg_miss,80,False,False,MISS Walker IV 14' Step Back Jump Shot,,5-4,5,4
+0022000895,2021-04-22,SAS,DET,3.92,1,8,5,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:1),5-4,5,4
+0022000895,2021-04-22,SAS,DET,3.98,1,8,1,DET,DET,fg_miss,6,True,False,,MISS Doumbouya 3' Driving Layup,5-4,5,4
+0022000895,2021-04-22,SAS,DET,3.98,1,8,1,DET,SAS,block,6,True,False,block,block,5-4,5,4
+0022000895,2021-04-22,SAS,DET,4.05,1,7,57,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:3),,5-4,5,4
+0022000895,2021-04-22,SAS,DET,4.05,1,7,57,SAS,SAS,fg_miss,41,True,False,MISS Johnson 2' Running Layup,,5-4,5,4
+0022000895,2021-04-22,SAS,DET,4.05,1,7,57,SAS,DET,block,41,True,False,block,block,5-4,5,4
+0022000895,2021-04-22,SAS,DET,4.07,1,7,56,SAS,SAS,reb,0,False,False,Samanic REBOUND (Off:1 Def:1),,5-4,5,4
+0022000895,2021-04-22,SAS,DET,4.08,1,7,55,SAS,SAS,fg_miss,72,False,False,MISS Samanic 1' Putback Layup,,5-4,5,4
+0022000895,2021-04-22,SAS,DET,4.1,1,7,54,SAS,SAS,reb,0,False,False,White REBOUND (Off:1 Def:0),,5-4,5,4
+0022000895,2021-04-22,SAS,DET,4.28,1,7,43,SAS,SAS,fg_make,78,False,False,Poeltl 11' Floating Jump Shot (2 PTS) (White 2 AST),,7-4,7,4
+0022000895,2021-04-22,SAS,DET,4.43,1,7,34,DET,DET,fg3_make,1,False,False,,Jackson 27' 3PT Jump Shot (4 PTS) (Hayes 1 AST),7-7,7,7
+0022000895,2021-04-22,SAS,DET,4.47,1,7,32,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 1 Short 0),,7-7,7,7
+0022000895,2021-04-22,SAS,DET,4.65,1,7,21,SAS,SAS,fg_make,101,False,False,White 7' Driving Floating Jump Shot (2 PTS),,9-7,9,7
+0022000895,2021-04-22,SAS,DET,4.97,1,7,2,DET,SAS,foul,1,False,False,Johnson P.FOUL (P1.T2) (J.Van Duyne),,9-7,9,7
+0022000895,2021-04-22,SAS,DET,5.1,1,6,54,DET,DET,tov,4,False,False,,Bey Traveling Turnover (P1.T2),9-7,9,7
+0022000895,2021-04-22,SAS,DET,5.27,1,6,44,SAS,SAS,fg_make,6,False,False,Poeltl 3' Driving Layup (4 PTS) (White 3 AST),,11-7,11,7
+0022000895,2021-04-22,SAS,DET,5.27,1,6,44,SAS,DET,violation,2,False,False,,Stewart Violation:Defensive Goaltending (B.Taylor),11-7,11,7
+0022000895,2021-04-22,SAS,DET,5.45,1,6,33,DET,DET,fg_miss,79,False,False,,MISS Hayes 14' Pullup Jump Shot,11-7,11,7
+0022000895,2021-04-22,SAS,DET,5.5,1,6,30,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:2),11-7,11,7
+0022000895,2021-04-22,SAS,DET,5.5,1,6,30,DET,SAS,foul,1,False,False,Walker IV P.FOUL (P1.T3) (J.Van Duyne),,11-7,11,7
+0022000895,2021-04-22,SAS,DET,5.63,1,6,22,DET,DET,fg_make,79,False,False,,Jackson 20' Pullup Jump Shot (6 PTS) (Doumbouya 2 AST),11-9,11,9
+0022000895,2021-04-22,SAS,DET,5.97,1,6,2,SAS,DET,foul,2,False,False,,Jackson S.FOUL (P1.T2) (J.Van Duyne),11-9,11,9
+0022000895,2021-04-22,SAS,DET,5.97,1,6,2,SAS,SAS,ft_make,11,False,False,Walker IV Free Throw 1 of 2 (6 PTS),,12-9,12,9
+0022000895,2021-04-22,SAS,DET,5.97,1,6,2,SAS,SAS,ft_make,12,False,False,Walker IV Free Throw 2 of 2 (7 PTS),,13-9,13,9
+0022000895,2021-04-22,SAS,DET,6.15,1,5,51,DET,SAS,foul,2,False,False,Vassell S.FOUL (P1.T4) (J.Van Duyne),,13-9,13,9
+0022000895,2021-04-22,SAS,DET,6.15,1,5,51,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (7 PTS),13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.15,1,5,51,DET,DET,ft_miss,12,False,False,,MISS Jackson Free Throw 2 of 2,13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.2,1,5,48,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:1),13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.33,1,5,40,DET,SAS,violation,5,False,False,Vassell Violation:Kicked Ball (B.Taylor),,13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.5,1,5,30,DET,DET,fg_miss,52,False,False,,MISS Stewart 2' Alley Oop Dunk,13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.57,1,5,26,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:0 Def:2),,13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.62,1,5,23,SAS,DET,foul,2,False,False,,Bey S.FOUL (P1.T3) (J.Goble),13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.62,1,5,23,SAS,SAS,ft_miss,11,False,False,MISS Walker IV Free Throw 1 of 2,,13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.62,1,5,23,SAS,SAS,reb,1,False,False,SPURS Rebound,,13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.62,1,5,23,SAS,SAS,ft_miss,12,False,False,MISS Walker IV Free Throw 2 of 2,,13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.67,1,5,20,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:3),13-10,13,10
+0022000895,2021-04-22,SAS,DET,6.85,1,5,9,DET,DET,fg_make,6,False,False,,Hayes 3' Driving Layup (2 PTS),13-12,13,12
+0022000895,2021-04-22,SAS,DET,7.05,1,4,57,SAS,SAS,fg_miss,79,False,False,MISS Walker IV 17' Pullup Jump Shot,,13-12,13,12
+0022000895,2021-04-22,SAS,DET,7.1,1,4,54,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:2),13-12,13,12
+0022000895,2021-04-22,SAS,DET,7.22,1,4,47,DET,DET,fg_make,75,False,False,,Jackson 3' Driving Finger Roll Layup (9 PTS) (Doumbouya 3 AST),13-14,13,14
+0022000895,2021-04-22,SAS,DET,7.5,1,4,30,SAS,SAS,fg_miss,79,False,False,MISS Gay 11' Pullup Jump Shot,,13-14,13,14
+0022000895,2021-04-22,SAS,DET,7.55,1,4,27,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:3),13-14,13,14
+0022000895,2021-04-22,SAS,DET,7.9,1,4,6,DET,DET,tov,1,False,True,,Hayes Bad Pass Turnover (P1.T3),13-14,13,14
+0022000895,2021-04-22,SAS,DET,7.9,1,4,6,DET,SAS,steal,1,False,True,steal,steal,13-14,13,14
+0022000895,2021-04-22,SAS,DET,8.13,1,3,52,SAS,SAS,fg3_make,1,False,False,Walker IV 28' 3PT Jump Shot (10 PTS) (Jones 1 AST),,16-14,16,14
+0022000895,2021-04-22,SAS,DET,8.28,1,3,43,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),16-14,16,14
+0022000895,2021-04-22,SAS,DET,8.5,1,3,30,DET,DET,fg_make,52,False,False,,Stewart 3' Alley Oop Dunk (2 PTS) (Jackson 1 AST),16-16,16,16
+0022000895,2021-04-22,SAS,DET,8.78,1,3,13,SAS,SAS,fg_miss,3,False,False,MISS Gay 8' Hook Shot,,16-16,16,16
+0022000895,2021-04-22,SAS,DET,8.82,1,3,11,DET,DET,reb,0,False,False,,Cook REBOUND (Off:0 Def:1),16-16,16,16
+0022000895,2021-04-22,SAS,DET,8.83,1,3,10,DET,DET,tov,1,False,True,,Cook Bad Pass Turnover (P1.T4),16-16,16,16
+0022000895,2021-04-22,SAS,DET,8.83,1,3,10,DET,SAS,steal,1,False,True,steal,steal,16-16,16,16
+0022000895,2021-04-22,SAS,DET,8.92,1,3,5,SAS,SAS,fg_make,7,False,False,Gay 3' Dunk (2 PTS),,18-16,18,16
+0022000895,2021-04-22,SAS,DET,9.15,1,2,51,DET,DET,fg_make,75,False,False,,Hayes 3' Driving Finger Roll Layup (4 PTS),18-18,18,18
+0022000895,2021-04-22,SAS,DET,9.47,1,2,32,DET,SAS,foul,26,False,False,Walker IV Offensive Charge Foul (P2.PN) (B.Taylor),,18-18,18,18
+0022000895,2021-04-22,SAS,DET,9.47,1,2,32,SAS,SAS,tov,37,False,False,Walker IV Offensive Foul Turnover (P1.T2),,18-18,18,18
+0022000895,2021-04-22,SAS,DET,9.72,1,2,17,DET,DET,fg_make,75,False,False,,Jackson 2' Driving Finger Roll Layup (11 PTS),18-20,18,20
+0022000895,2021-04-22,SAS,DET,9.98,1,2,1,SAS,SAS,fg_miss,79,False,False,MISS Gay 16' Pullup Jump Shot,,18-20,18,20
+0022000895,2021-04-22,SAS,DET,10.02,1,1,59,SAS,SAS,reb,0,False,False,Eubanks REBOUND (Off:1 Def:0),,18-20,18,20
+0022000895,2021-04-22,SAS,DET,10.05,1,1,57,SAS,SAS,fg3_make,1,False,False,Jones 24' 3PT Jump Shot (3 PTS) (Eubanks 1 AST),,21-20,21,20
+0022000895,2021-04-22,SAS,DET,10.35,1,1,39,DET,DET,fg3_make,80,False,False,,Jackson 26' 3PT Step Back Jump Shot (14 PTS),21-23,21,23
+0022000895,2021-04-22,SAS,DET,10.55,1,1,27,SAS,SAS,tov,7,False,False,Eubanks Discontinue Dribble Turnover (P1.T3),,21-23,21,23
+0022000895,2021-04-22,SAS,DET,10.83,1,1,10,DET,DET,fg_miss,78,False,False,,MISS Jackson 3' Floating Jump Shot,21-23,21,23
+0022000895,2021-04-22,SAS,DET,10.88,1,1,7,SAS,SAS,reb,0,False,False,Vassell REBOUND (Off:0 Def:1),,21-23,21,23
+0022000895,2021-04-22,SAS,DET,10.95,1,1,3,SAS,SAS,fg3_make,1,False,False,Gay 26' 3PT Jump Shot (5 PTS) (Vassell 1 AST),,24-23,24,23
+0022000895,2021-04-22,SAS,DET,11.2,1,0,48,DET,DET,fg_make,108,False,False,,Cook 2' Cutting Dunk Shot (2 PTS) (Lee 1 AST),24-25,24,25
+0022000895,2021-04-22,SAS,DET,11.45,1,0,33,SAS,SAS,fg_miss,101,False,False,MISS Bates-Diop 13' Driving Floating Jump Shot,,24-25,24,25
+0022000895,2021-04-22,SAS,DET,11.52,1,0,29,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),24-25,24,25
+0022000895,2021-04-22,SAS,DET,11.68,1,0,19,DET,DET,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,24-25,24,25
+0022000895,2021-04-22,SAS,DET,11.75,1,0,15,SAS,SAS,reb,0,False,False,Bates-Diop REBOUND (Off:0 Def:1),,24-25,24,25
+0022000895,2021-04-22,SAS,DET,11.92,1,0,5,SAS,DET,foul,28,False,False,,Lee Personal Take Foul (P1.T4) (J.Van Duyne),24-25,24,25
+0022000895,2021-04-22,SAS,DET,11.95,1,0,3,SAS,DET,foul,2,False,False,,Jackson S.FOUL (P2.PN) (J.Goble),24-25,24,25
+0022000895,2021-04-22,SAS,DET,11.95,1,0,3,SAS,SAS,ft_make,11,False,False,Gay Free Throw 1 of 2 (6 PTS),,25-25,25,25
+0022000895,2021-04-22,SAS,DET,11.95,1,0,3,SAS,SAS,ft_make,12,False,False,Gay Free Throw 2 of 2 (7 PTS),,26-25,26,25
+0022000895,2021-04-22,SAS,DET,12.0,1,0,0,DET,DET,fg3_miss,103,False,False,,MISS Jackson 31' 3PT Running Pull-Up Jump Shot,26-25,26,25
+0022000895,2021-04-22,SAS,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,26-25,26,25
+0022000895,2021-04-22,SAS,DET,12.0,1,0,0,DET,,period_end,0,False,False,,,26-25,26,25
+0022000895,2021-04-22,SAS,DET,12.0,2,12,0,DET,,period_start,0,False,False,,,26-25,26,25
+0022000895,2021-04-22,SAS,DET,12.4,2,11,36,DET,SAS,foul,2,False,False,Gay S.FOUL (P1.T1) (J.Van Duyne),,26-25,26,25
+0022000895,2021-04-22,SAS,DET,12.4,2,11,36,DET,DET,ft_make,11,False,False,,Okafor Free Throw 1 of 2 (1 PTS),26-26,26,26
+0022000895,2021-04-22,SAS,DET,12.4,2,11,36,DET,DET,ft_miss,12,False,False,,MISS Okafor Free Throw 2 of 2,26-26,26,26
+0022000895,2021-04-22,SAS,DET,12.47,2,11,32,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,26-26,26,26
+0022000895,2021-04-22,SAS,DET,12.7,2,11,18,SAS,SAS,fg_miss,1,False,False,MISS Gay 14' Jump Shot,,26-26,26,26
+0022000895,2021-04-22,SAS,DET,12.8,2,11,12,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:0 Def:1),26-26,26,26
+0022000895,2021-04-22,SAS,DET,12.98,2,11,1,DET,DET,fg_miss,75,False,False,,MISS Jackson 3' Driving Finger Roll Layup,26-26,26,26
+0022000895,2021-04-22,SAS,DET,12.98,2,11,1,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:2),,26-26,26,26
+0022000895,2021-04-22,SAS,DET,12.98,2,11,1,SAS,SAS,tov,4,False,False,Gay Traveling Turnover (P1.T4),,26-26,26,26
+0022000895,2021-04-22,SAS,DET,13.12,2,10,53,DET,DET,fg3_make,79,False,False,,Jackson 28' 3PT Pullup Jump Shot (3 PTS) (Diallo 1 AST),26-29,26,29
+0022000895,2021-04-22,SAS,DET,13.48,2,10,31,SAS,DET,foul,2,False,False,,Diallo S.FOUL (P1.T1) (J.Van Duyne),26-29,26,29
+0022000895,2021-04-22,SAS,DET,13.48,2,10,31,SAS,SAS,ft_miss,11,False,False,MISS Eubanks Free Throw 1 of 2,,26-29,26,29
+0022000895,2021-04-22,SAS,DET,13.48,2,10,31,SAS,SAS,reb,1,False,False,SPURS Rebound,,26-29,26,29
+0022000895,2021-04-22,SAS,DET,13.48,2,10,31,SAS,SAS,ft_miss,12,False,False,MISS Eubanks Free Throw 2 of 2,,26-29,26,29
+0022000895,2021-04-22,SAS,DET,13.53,2,10,28,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:1),26-29,26,29
+0022000895,2021-04-22,SAS,DET,13.7,2,10,18,DET,DET,fg_make,75,False,False,,Jackson 3' Driving Finger Roll Layup (5 PTS) (Lee 2 AST),26-31,26,31
+0022000895,2021-04-22,SAS,DET,13.72,2,10,17,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 2 Short 0),,26-31,26,31
+0022000895,2021-04-22,SAS,DET,14.0,2,10,0,SAS,SAS,fg_miss,79,True,False,MISS White 16' Pullup Jump Shot,,26-31,26,31
+0022000895,2021-04-22,SAS,DET,14.0,2,10,0,SAS,DET,block,79,True,False,block,block,26-31,26,31
+0022000895,2021-04-22,SAS,DET,14.07,2,9,56,SAS,SAS,reb,0,False,False,White REBOUND (Off:2 Def:0),,26-31,26,31
+0022000895,2021-04-22,SAS,DET,14.1,2,9,54,SAS,SAS,fg_make,5,False,False,Eubanks 3' Layup (2 PTS) (Johnson 1 AST),,28-31,28,31
+0022000895,2021-04-22,SAS,DET,14.4,2,9,36,DET,DET,fg_miss,101,True,False,,MISS Lee 7' Driving Floating Jump Shot,28-31,28,31
+0022000895,2021-04-22,SAS,DET,14.4,2,9,36,DET,SAS,block,101,True,False,block,block,28-31,28,31
+0022000895,2021-04-22,SAS,DET,14.47,2,9,32,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:3),,28-31,28,31
+0022000895,2021-04-22,SAS,DET,14.57,2,9,26,SAS,SAS,fg_make,98,False,False,Eubanks 3' Cutting Layup Shot (4 PTS) (White 4 AST),,30-31,30,31
+0022000895,2021-04-22,SAS,DET,14.88,2,9,7,DET,DET,fg_miss,79,False,False,,MISS Diallo 18' Pullup Jump Shot,30-31,30,31
+0022000895,2021-04-22,SAS,DET,14.95,2,9,3,SAS,SAS,reb,0,False,False,White REBOUND (Off:2 Def:1),,30-31,30,31
+0022000895,2021-04-22,SAS,DET,15.07,2,8,56,SAS,SAS,fg_make,79,False,False,Vassell 11' Pullup Jump Shot (2 PTS) (White 5 AST),,32-31,32,31
+0022000895,2021-04-22,SAS,DET,15.33,2,8,40,DET,DET,fg_miss,98,False,False,,MISS Diallo 3' Cutting Layup Shot,32-31,32,31
+0022000895,2021-04-22,SAS,DET,15.37,2,8,38,SAS,SAS,reb,0,False,False,White REBOUND (Off:2 Def:2),,32-31,32,31
+0022000895,2021-04-22,SAS,DET,15.42,2,8,35,SAS,SAS,fg3_miss,79,False,False,MISS White 27' 3PT Pullup Jump Shot,,32-31,32,31
+0022000895,2021-04-22,SAS,DET,15.5,2,8,30,DET,DET,reb,0,False,False,,Cook REBOUND (Off:0 Def:2),32-31,32,31
+0022000895,2021-04-22,SAS,DET,15.68,2,8,19,DET,DET,fg_make,7,False,False,,Okafor 1' Dunk (3 PTS) (Lee 3 AST),32-33,32,33
+0022000895,2021-04-22,SAS,DET,15.92,2,8,5,SAS,DET,foul,1,False,False,,Diallo P.FOUL (P2.T2) (J.Goble),32-33,32,33
+0022000895,2021-04-22,SAS,DET,16.13,2,7,52,SAS,SAS,fg_make,79,False,False,Walker IV 12' Pullup Jump Shot (12 PTS) (Eubanks 2 AST),,34-33,34,33
+0022000895,2021-04-22,SAS,DET,16.43,2,7,34,DET,DET,fg_miss,101,False,False,,MISS Lee 7' Driving Floating Jump Shot,34-33,34,33
+0022000895,2021-04-22,SAS,DET,16.43,2,7,34,SAS,SAS,reb,0,False,False,Eubanks REBOUND (Off:1 Def:1),,34-33,34,33
+0022000895,2021-04-22,SAS,DET,16.43,2,7,34,SAS,DET,foul,1,False,False,,Lee P.FOUL (P2.T3) (J.Goble),34-33,34,33
+0022000895,2021-04-22,SAS,DET,16.67,2,7,20,SAS,SAS,fg_make,7,False,False,Poeltl 3' Dunk (6 PTS) (Walker IV 1 AST),,36-33,36,33
+0022000895,2021-04-22,SAS,DET,16.95,2,7,3,DET,DET,fg_miss,78,False,False,,MISS Lee 10' Floating Jump Shot,36-33,36,33
+0022000895,2021-04-22,SAS,DET,17.0,2,7,0,SAS,SAS,reb,0,False,False,Samanic REBOUND (Off:1 Def:2),,36-33,36,33
+0022000895,2021-04-22,SAS,DET,17.07,2,6,56,SAS,SAS,fg3_miss,79,False,False,MISS White 27' 3PT Pullup Jump Shot,,36-33,36,33
+0022000895,2021-04-22,SAS,DET,17.08,2,6,55,SAS,SAS,reb,0,False,False,SPURS Rebound,,36-33,36,33
+0022000895,2021-04-22,SAS,DET,17.08,2,6,55,SAS,DET,foul,3,False,False,,Lee L.B.FOUL (P3.T4) (B.Taylor),36-33,36,33
+0022000895,2021-04-22,SAS,DET,17.18,2,6,49,SAS,SAS,fg_make,101,False,False,White 7' Driving Floating Jump Shot (4 PTS) (Poeltl 1 AST),,38-33,38,33
+0022000895,2021-04-22,SAS,DET,17.28,2,6,43,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),38-33,38,33
+0022000895,2021-04-22,SAS,DET,17.52,2,6,29,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P1.T5),38-33,38,33
+0022000895,2021-04-22,SAS,DET,17.52,2,6,29,DET,SAS,steal,1,False,True,steal,steal,38-33,38,33
+0022000895,2021-04-22,SAS,DET,17.62,2,6,23,SAS,SAS,fg_make,5,False,False,Samanic 3' Layup (2 PTS) (Poeltl 2 AST),,40-33,40,33
+0022000895,2021-04-22,SAS,DET,17.8,2,6,12,DET,DET,fg_miss,6,False,False,,MISS Hayes 4' Driving Layup,40-33,40,33
+0022000895,2021-04-22,SAS,DET,17.83,2,6,10,SAS,SAS,reb,0,False,False,White REBOUND (Off:2 Def:3),,40-33,40,33
+0022000895,2021-04-22,SAS,DET,17.97,2,6,2,SAS,SAS,fg3_miss,1,False,False,MISS Samanic 27' 3PT Jump Shot,,40-33,40,33
+0022000895,2021-04-22,SAS,DET,18.02,2,5,59,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),40-33,40,33
+0022000895,2021-04-22,SAS,DET,18.18,2,5,49,DET,DET,fg_miss,6,True,False,,MISS Diallo 4' Driving Layup,40-33,40,33
+0022000895,2021-04-22,SAS,DET,18.18,2,5,49,DET,SAS,block,6,True,False,block,block,40-33,40,33
+0022000895,2021-04-22,SAS,DET,18.23,2,5,46,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:0 Def:3),,40-33,40,33
+0022000895,2021-04-22,SAS,DET,18.33,2,5,40,SAS,SAS,fg_make,101,False,False,White 11' Driving Floating Jump Shot (6 PTS),,42-33,42,33
+0022000895,2021-04-22,SAS,DET,18.65,2,5,21,DET,DET,fg_miss,5,True,False,,MISS Okafor 2' Layup,42-33,42,33
+0022000895,2021-04-22,SAS,DET,18.65,2,5,21,DET,SAS,block,5,True,False,block,block,42-33,42,33
+0022000895,2021-04-22,SAS,DET,18.65,2,5,21,DET,DET,reb,0,False,False,,Pistons Rebound,42-33,42,33
+0022000895,2021-04-22,SAS,DET,18.75,2,5,15,DET,DET,fg_make,5,False,False,,Jackson 2' Layup (7 PTS),42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.05,2,4,57,SAS,SAS,fg_miss,79,False,False,MISS Walker IV 17' Pullup Jump Shot,,42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.13,2,4,52,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:0 Def:2),42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.13,2,4,52,DET,DET,tov,40,False,False,,Hayes Out of Bounds Lost Ball Turnover (P2.T6),42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.3,2,4,42,SAS,SAS,fg_miss,47,False,False,MISS Walker IV 7' Turnaround Jump Shot,,42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.35,2,4,39,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:4),42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.48,2,4,31,DET,DET,fg_miss,75,True,False,,MISS Hayes 2' Driving Finger Roll Layup,42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.48,2,4,31,DET,SAS,block,75,True,False,block,block,42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.5,2,4,30,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:3 Def:4),42-35,42,35
+0022000895,2021-04-22,SAS,DET,19.5,2,4,30,DET,DET,fg_make,97,False,False,,Stewart Tip Layup Shot (4 PTS),42-37,42,37
+0022000895,2021-04-22,SAS,DET,19.5,2,4,30,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 3 Short 0),,42-37,42,37
+0022000895,2021-04-22,SAS,DET,19.85,2,4,9,SAS,SAS,fg_make,6,False,False,Johnson 2' Driving Layup (2 PTS) (Jones 2 AST),,44-37,44,37
+0022000895,2021-04-22,SAS,DET,20.25,2,3,45,DET,DET,fg_make,75,False,False,,Jackson 4' Driving Finger Roll Layup (9 PTS),44-39,44,39
+0022000895,2021-04-22,SAS,DET,20.48,2,3,31,SAS,SAS,tov,40,False,False,Johnson Out of Bounds Lost Ball Turnover (P2.T5),,44-39,44,39
+0022000895,2021-04-22,SAS,DET,20.68,2,3,19,DET,DET,fg3_miss,1,False,False,,MISS Jackson 24' 3PT Jump Shot,44-39,44,39
+0022000895,2021-04-22,SAS,DET,20.75,2,3,15,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:4),,44-39,44,39
+0022000895,2021-04-22,SAS,DET,20.88,2,3,7,SAS,SAS,fg_miss,79,False,False,MISS Johnson 19' Pullup Jump Shot,,44-39,44,39
+0022000895,2021-04-22,SAS,DET,20.95,2,3,3,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:3),,44-39,44,39
+0022000895,2021-04-22,SAS,DET,20.98,2,3,1,SAS,SAS,fg3_miss,1,False,False,MISS Walker IV 28' 3PT Jump Shot,,44-39,44,39
+0022000895,2021-04-22,SAS,DET,21.03,2,2,58,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:2 Def:3),,44-39,44,39
+0022000895,2021-04-22,SAS,DET,21.22,2,2,47,SAS,SAS,fg_make,108,False,False,Poeltl 4' Cutting Dunk Shot (8 PTS) (Jones 3 AST),,46-39,46,39
+0022000895,2021-04-22,SAS,DET,21.57,2,2,26,DET,DET,fg_make,75,False,False,,Jackson 4' Driving Finger Roll Layup (16 PTS),46-41,46,41
+0022000895,2021-04-22,SAS,DET,21.82,2,2,11,SAS,SAS,fg_make,101,False,False,Jones 13' Driving Floating Jump Shot (5 PTS),,48-41,48,41
+0022000895,2021-04-22,SAS,DET,22.18,2,1,49,DET,DET,fg3_make,1,False,False,,Hayes 25' 3PT Jump Shot (7 PTS) (Jackson 1 AST),48-44,48,44
+0022000895,2021-04-22,SAS,DET,22.5,2,1,30,SAS,SAS,fg_make,1,False,False,Gay 14' Jump Shot (9 PTS) (Poeltl 3 AST),,50-44,50,44
+0022000895,2021-04-22,SAS,DET,22.95,2,1,3,DET,DET,fg3_miss,80,False,False,,MISS Bey 26' 3PT Step Back Jump Shot,50-44,50,44
+0022000895,2021-04-22,SAS,DET,23.02,2,0,59,SAS,SAS,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,50-44,50,44
+0022000895,2021-04-22,SAS,DET,23.3,2,0,42,SAS,SAS,fg3_make,1,False,False,Johnson 26' 3PT Jump Shot (5 PTS) (Jones 4 AST),,53-44,53,44
+0022000895,2021-04-22,SAS,DET,23.47,2,0,32,DET,DET,fg_make,102,False,False,,Hayes 7' Driving Floating Bank Jump Shot (9 PTS),53-46,53,46
+0022000895,2021-04-22,SAS,DET,23.47,2,0,32,DET,SAS,foul,2,False,False,Jones S.FOUL (P1.T2) (J.Van Duyne),,53-46,53,46
+0022000895,2021-04-22,SAS,DET,23.47,2,0,32,DET,DET,ft_make,10,False,False,,Hayes Free Throw 1 of 1 (10 PTS),53-47,53,47
+0022000895,2021-04-22,SAS,DET,23.82,2,0,11,SAS,DET,foul,2,False,False,,Jackson S.FOUL (P1.PN) (J.Van Duyne),53-47,53,47
+0022000895,2021-04-22,SAS,DET,23.82,2,0,11,SAS,SAS,ft_make,11,False,False,White Free Throw 1 of 2 (7 PTS),,54-47,54,47
+0022000895,2021-04-22,SAS,DET,23.82,2,0,11,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (8 PTS),,55-47,55,47
+0022000895,2021-04-22,SAS,DET,23.95,2,0,3,DET,DET,tov,2,False,True,,Stewart Lost Ball Turnover (P1.T7),55-47,55,47
+0022000895,2021-04-22,SAS,DET,23.95,2,0,3,DET,SAS,steal,2,False,True,steal,steal,55-47,55,47
+0022000895,2021-04-22,SAS,DET,24.0,2,0,0,SAS,SAS,fg_make,99,False,False,Gay 3' Cutting Finger Roll Layup Shot (11 PTS) (Johnson 2 AST),,57-47,57,47
+0022000895,2021-04-22,SAS,DET,24.0,2,0,0,SAS,,period_end,0,False,False,,,57-47,57,47
+0022000895,2021-04-22,SAS,DET,24.0,3,12,0,SAS,,period_start,0,False,False,,,57-47,57,47
+0022000895,2021-04-22,SAS,DET,24.35,3,11,39,DET,DET,fg3_miss,1,False,False,,MISS Jackson 28' 3PT Jump Shot,57-47,57,47
+0022000895,2021-04-22,SAS,DET,24.47,3,11,32,SAS,SAS,reb,0,False,False,White REBOUND (Off:2 Def:4),,57-47,57,47
+0022000895,2021-04-22,SAS,DET,24.53,3,11,28,SAS,SAS,tov,45,False,False,White Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,57-47,57,47
+0022000895,2021-04-22,SAS,DET,24.73,3,11,16,DET,DET,fg_make,71,False,False,,Jackson 3' Finger Roll Layup (18 PTS) (Hayes 2 AST),57-49,57,49
+0022000895,2021-04-22,SAS,DET,25.02,3,10,59,SAS,SAS,fg3_make,1,False,False,White 3PT Jump Shot (11 PTS) (Walker IV 2 AST),,60-49,60,49
+0022000895,2021-04-22,SAS,DET,25.1,3,10,54,DET,SAS,foul,1,False,False,Johnson P.FOUL (P2.T1) (J.Goble),,60-49,60,49
+0022000895,2021-04-22,SAS,DET,25.28,3,10,43,DET,DET,fg_make,5,False,False,,Jackson 3' Layup (20 PTS),60-51,60,51
+0022000895,2021-04-22,SAS,DET,25.55,3,10,27,SAS,DET,foul,2,False,False,,Stewart S.FOUL (P1.T1) (J.Van Duyne),60-51,60,51
+0022000895,2021-04-22,SAS,DET,25.55,3,10,27,SAS,SAS,ft_make,11,False,False,Poeltl Free Throw 1 of 2 (9 PTS),,61-51,61,51
+0022000895,2021-04-22,SAS,DET,25.55,3,10,27,SAS,SAS,ft_make,12,False,False,Poeltl Free Throw 2 of 2 (10 PTS),,62-51,62,51
+0022000895,2021-04-22,SAS,DET,25.95,3,10,3,DET,DET,fg_miss,1,False,False,,MISS Jackson 5' Jump Shot,62-51,62,51
+0022000895,2021-04-22,SAS,DET,25.95,3,10,3,SAS,SAS,reb,0,False,False,SPURS Rebound,,62-51,62,51
+0022000895,2021-04-22,SAS,DET,26.28,3,9,43,SAS,SAS,fg_make,7,False,False,Poeltl 3' Dunk (12 PTS) (Samanic 1 AST),,64-51,64,51
+0022000895,2021-04-22,SAS,DET,26.67,3,9,20,,SAS,jump_ball,0,False,False,Jump Ball Samanic vs. Doumbouya: Tip to Johnson,,64-51,64,51
+0022000895,2021-04-22,SAS,DET,26.67,3,9,20,DET,DET,tov,2,False,True,,Hayes Lost Ball Turnover (P3.T8),64-51,64,51
+0022000895,2021-04-22,SAS,DET,26.67,3,9,20,DET,SAS,steal,2,False,True,steal,steal,64-51,64,51
+0022000895,2021-04-22,SAS,DET,26.78,3,9,13,SAS,SAS,fg3_miss,1,False,False,MISS Johnson 27' 3PT Jump Shot,,64-51,64,51
+0022000895,2021-04-22,SAS,DET,26.87,3,9,8,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:3 Def:5),64-51,64,51
+0022000895,2021-04-22,SAS,DET,27.0,3,9,0,DET,DET,tov,2,False,True,,Doumbouya Lost Ball Turnover (P1.T9),64-51,64,51
+0022000895,2021-04-22,SAS,DET,27.0,3,9,0,DET,SAS,steal,2,False,True,steal,steal,64-51,64,51
+0022000895,2021-04-22,SAS,DET,27.22,3,8,47,SAS,SAS,fg_make,101,False,False,White 9' Driving Floating Jump Shot (13 PTS),,66-51,66,51
+0022000895,2021-04-22,SAS,DET,27.23,3,8,46,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),66-51,66,51
+0022000895,2021-04-22,SAS,DET,27.58,3,8,25,DET,DET,fg_make,80,False,False,,Jackson 18' Step Back Jump Shot (22 PTS),66-53,66,53
+0022000895,2021-04-22,SAS,DET,27.92,3,8,5,SAS,SAS,fg_miss,6,False,False,MISS Samanic 3' Driving Layup,,66-53,66,53
+0022000895,2021-04-22,SAS,DET,27.92,3,8,5,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:2),66-53,66,53
+0022000895,2021-04-22,SAS,DET,28.23,3,7,46,DET,DET,fg_miss,63,False,False,,MISS Hayes 8' Fadeaway Jumper,66-53,66,53
+0022000895,2021-04-22,SAS,DET,28.27,3,7,44,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:2 Def:4),,66-53,66,53
+0022000895,2021-04-22,SAS,DET,28.43,3,7,34,SAS,SAS,fg_make,6,False,False,White 4' Driving Layup (15 PTS) (Walker IV 3 AST),,68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.65,3,7,21,DET,DET,fg_miss,6,False,False,,MISS Hayes 5' Driving Layup,68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.67,3,7,20,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:2 Def:5),,68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.82,3,7,11,SAS,SAS,tov,1,False,True,Poeltl Bad Pass Turnover (P1.T7),,68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.82,3,7,11,SAS,DET,steal,1,False,True,steal,steal,68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.97,3,7,2,DET,DET,fg_miss,5,False,False,,MISS Bey 6' Layup,68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.97,3,7,2,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:4 Def:5),68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.97,3,7,2,DET,SAS,foul,2,False,False,Samanic S.FOUL (P2.T2) (J.Goble),,68-53,68,53
+0022000895,2021-04-22,SAS,DET,28.97,3,7,2,DET,DET,ft_make,11,False,False,,Stewart Free Throw 1 of 2 (5 PTS),68-54,68,54
+0022000895,2021-04-22,SAS,DET,28.97,3,7,2,DET,DET,ft_make,12,False,False,,Stewart Free Throw 2 of 2 (6 PTS),68-55,68,55
+0022000895,2021-04-22,SAS,DET,29.25,3,6,45,SAS,SAS,fg3_make,1,False,False,Walker IV 27' 3PT Jump Shot (15 PTS) (White 6 AST),,71-55,71,55
+0022000895,2021-04-22,SAS,DET,29.53,3,6,28,DET,DET,fg3_make,1,False,False,,Doumbouya 24' 3PT Jump Shot (3 PTS) (Hayes 3 AST),71-58,71,58
+0022000895,2021-04-22,SAS,DET,29.8,3,6,12,SAS,DET,foul,1,False,False,,Doumbouya P.FOUL (P1.T2) (J.Goble),71-58,71,58
+0022000895,2021-04-22,SAS,DET,29.8,3,6,12,SAS,SAS,tov,13,False,False,Walker IV Backcourt Turnover (P2.T8),,71-58,71,58
+0022000895,2021-04-22,SAS,DET,30.12,3,5,53,DET,DET,fg_miss,101,False,False,,MISS Jackson 13' Driving Floating Jump Shot,71-58,71,58
+0022000895,2021-04-22,SAS,DET,30.15,3,5,51,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:1),71-58,71,58
+0022000895,2021-04-22,SAS,DET,30.17,3,5,50,DET,DET,fg_make,66,False,False,,Jackson 6' Jump Bank Shot (24 PTS),71-60,71,60
+0022000895,2021-04-22,SAS,DET,30.17,3,5,50,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 4 Short 0),,71-60,71,60
+0022000895,2021-04-22,SAS,DET,30.33,3,5,40,DET,SAS,foul,4,False,False,Poeltl OFF.Foul (P1) (B.Taylor),,71-60,71,60
+0022000895,2021-04-22,SAS,DET,30.33,3,5,40,SAS,SAS,tov,37,False,False,Poeltl Offensive Foul Turnover (P2.T9),,71-60,71,60
+0022000895,2021-04-22,SAS,DET,30.53,3,5,28,DET,DET,fg3_make,1,False,False,,Bey 28' 3PT Jump Shot (6 PTS) (Jackson 2 AST),71-63,71,63
+0022000895,2021-04-22,SAS,DET,30.53,3,5,28,DET,SAS,foul,14,False,False,Gay FLAGRANT.FOUL.TYPE1 (P2.T3) (B.Taylor),,71-63,71,63
+0022000895,2021-04-22,SAS,DET,30.53,3,5,28,DET,DET,ft_miss,18,False,False,,MISS Bey Free Throw Flagrant 1 of 2,71-63,71,63
+0022000895,2021-04-22,SAS,DET,30.53,3,5,28,DET,DET,reb,1,False,False,,Pistons Rebound,71-63,71,63
+0022000895,2021-04-22,SAS,DET,30.53,3,5,28,DET,DET,ft_make,19,False,False,,Bey Free Throw Flagrant 2 of 2 (7 PTS),71-64,71,64
+0022000895,2021-04-22,SAS,DET,30.78,3,5,13,DET,DET,fg_make,6,False,False,,Jackson 6' Driving Layup (11 PTS) (Hayes 4 AST),71-66,71,66
+0022000895,2021-04-22,SAS,DET,31.08,3,4,55,SAS,SAS,fg3_miss,1,False,False,MISS White 29' 3PT Jump Shot,,71-66,71,66
+0022000895,2021-04-22,SAS,DET,31.08,3,4,55,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:3),71-66,71,66
+0022000895,2021-04-22,SAS,DET,31.3,3,4,42,DET,SAS,foul,2,False,False,Poeltl S.FOUL (P2.T4) (J.Van Duyne),,71-66,71,66
+0022000895,2021-04-22,SAS,DET,31.3,3,4,42,DET,DET,ft_make,11,False,False,,Bey Free Throw 1 of 2 (8 PTS),71-67,71,67
+0022000895,2021-04-22,SAS,DET,31.3,3,4,42,DET,DET,ft_make,12,False,False,,Bey Free Throw 2 of 2 (9 PTS),71-68,71,68
+0022000895,2021-04-22,SAS,DET,31.57,3,4,26,SAS,SAS,fg3_miss,1,False,False,MISS Vassell 27' 3PT Jump Shot,,71-68,71,68
+0022000895,2021-04-22,SAS,DET,31.62,3,4,23,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:2),71-68,71,68
+0022000895,2021-04-22,SAS,DET,31.77,3,4,14,DET,DET,fg3_miss,1,False,False,,MISS Hayes 26' 3PT Jump Shot,71-68,71,68
+0022000895,2021-04-22,SAS,DET,31.83,3,4,10,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:4),,71-68,71,68
+0022000895,2021-04-22,SAS,DET,32.13,3,3,52,SAS,SAS,fg3_make,1,False,False,Gay 24' 3PT Jump Shot (14 PTS) (Eubanks 3 AST),,74-68,74,68
+0022000895,2021-04-22,SAS,DET,32.58,3,3,25,DET,DET,fg_miss,6,False,False,,MISS Bey 2' Driving Layup,74-68,74,68
+0022000895,2021-04-22,SAS,DET,32.58,3,3,25,SAS,SAS,reb,0,False,False,White REBOUND (Off:2 Def:5),,74-68,74,68
+0022000895,2021-04-22,SAS,DET,32.78,3,3,13,SAS,DET,foul,2,False,False,,Okafor S.FOUL (P1.T3) (J.Van Duyne),74-68,74,68
+0022000895,2021-04-22,SAS,DET,32.78,3,3,13,SAS,SAS,ft_make,11,False,False,White Free Throw 1 of 2 (16 PTS),,75-68,75,68
+0022000895,2021-04-22,SAS,DET,32.78,3,3,13,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (17 PTS),,76-68,76,68
+0022000895,2021-04-22,SAS,DET,33.12,3,2,53,DET,DET,fg3_miss,80,False,False,,MISS Hayes 27' 3PT Step Back Jump Shot,76-68,76,68
+0022000895,2021-04-22,SAS,DET,33.13,3,2,52,SAS,SAS,reb,0,False,False,SPURS Rebound,,76-68,76,68
+0022000895,2021-04-22,SAS,DET,33.43,3,2,34,SAS,DET,foul,2,False,False,,Okafor S.FOUL (P2.T4) (J.Van Duyne),76-68,76,68
+0022000895,2021-04-22,SAS,DET,33.43,3,2,34,SAS,SAS,ft_make,11,False,False,Eubanks Free Throw 1 of 2 (5 PTS),,77-68,77,68
+0022000895,2021-04-22,SAS,DET,33.43,3,2,34,SAS,SAS,ft_make,12,False,False,Eubanks Free Throw 2 of 2 (6 PTS),,78-68,78,68
+0022000895,2021-04-22,SAS,DET,33.62,3,2,23,DET,DET,fg3_miss,1,False,False,,MISS Jackson 28' 3PT Jump Shot,78-68,78,68
+0022000895,2021-04-22,SAS,DET,33.7,3,2,18,SAS,SAS,reb,0,False,False,Eubanks REBOUND (Off:1 Def:2),,78-68,78,68
+0022000895,2021-04-22,SAS,DET,33.88,3,2,7,SAS,SAS,fg3_miss,1,False,False,MISS Gay 27' 3PT Jump Shot,,78-68,78,68
+0022000895,2021-04-22,SAS,DET,33.93,3,2,4,SAS,SAS,reb,0,False,False,Eubanks REBOUND (Off:2 Def:2),,78-68,78,68
+0022000895,2021-04-22,SAS,DET,33.98,3,2,1,SAS,SAS,fg3_miss,1,False,False,MISS White 26' 3PT Jump Shot,,78-68,78,68
+0022000895,2021-04-22,SAS,DET,34.05,3,1,57,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:0 Def:1),78-68,78,68
+0022000895,2021-04-22,SAS,DET,34.15,3,1,51,DET,DET,fg_miss,75,False,False,,MISS Diallo 3' Driving Finger Roll Layup,78-68,78,68
+0022000895,2021-04-22,SAS,DET,34.18,3,1,49,SAS,SAS,reb,0,False,False,Bates-Diop REBOUND (Off:0 Def:2),,78-68,78,68
+0022000895,2021-04-22,SAS,DET,34.28,3,1,43,SAS,SAS,fg_make,75,False,False,White 3' Driving Finger Roll Layup (19 PTS),,80-68,80,68
+0022000895,2021-04-22,SAS,DET,34.58,3,1,25,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P2.T10),80-68,80,68
+0022000895,2021-04-22,SAS,DET,34.58,3,1,25,DET,SAS,steal,1,False,True,steal,steal,80-68,80,68
+0022000895,2021-04-22,SAS,DET,34.8,3,1,12,SAS,SAS,fg3_miss,1,False,False,MISS White 3PT Jump Shot,,80-68,80,68
+0022000895,2021-04-22,SAS,DET,34.85,3,1,9,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:0 Def:3),80-68,80,68
+0022000895,2021-04-22,SAS,DET,35.1,3,0,54,SAS,DET,foul,4,False,False,,Jackson OFF.Foul (P2) (B.Taylor),80-68,80,68
+0022000895,2021-04-22,SAS,DET,35.1,3,0,54,DET,DET,tov,37,False,False,,Jackson Offensive Foul Turnover (P3.T11),80-68,80,68
+0022000895,2021-04-22,SAS,DET,35.4,3,0,36,SAS,SAS,fg_miss,79,False,False,MISS Vassell 17' Pullup Jump Shot,,80-68,80,68
+0022000895,2021-04-22,SAS,DET,35.52,3,0,29,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:2),80-68,80,68
+0022000895,2021-04-22,SAS,DET,35.58,3,0,25,DET,DET,fg_make,75,False,False,,Lee 3' Driving Finger Roll Layup (2 PTS),80-70,80,70
+0022000895,2021-04-22,SAS,DET,35.87,3,0,8,SAS,SAS,fg_make,75,False,False,Bates-Diop 3' Driving Finger Roll Layup (2 PTS) (Gay 1 AST),,82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.0,3,0,0,DET,DET,fg_miss,6,False,False,,MISS Lee 4' Driving Layup,82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.0,3,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.0,3,0,0,DET,,period_end,0,False,False,,,82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.0,4,12,0,DET,,period_start,0,False,False,,,82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.32,4,11,41,SAS,SAS,fg_miss,47,False,False,MISS Gay 13' Turnaround Jump Shot,,82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.4,4,11,36,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:0 Def:4),82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.68,4,11,19,DET,SAS,foul,1,False,False,Vassell P.FOUL (P2.T1) (J.Van Duyne),,82-70,82,70
+0022000895,2021-04-22,SAS,DET,36.82,4,11,11,DET,DET,fg_make,73,False,False,,Okafor 3' Driving Reverse Layup (5 PTS),82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.1,4,10,54,SAS,DET,foul,1,False,False,,Diallo P.FOUL (P3.T1) (J.Van Duyne),82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.23,4,10,46,SAS,SAS,fg3_miss,1,False,False,MISS Gay 27' 3PT Jump Shot,,82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.3,4,10,42,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:0 Def:2),82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.52,4,10,29,DET,SAS,foul,2,False,False,Jones S.FOUL (P2.T2) (J.Goble),,82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.52,4,10,29,DET,DET,ft_miss,11,False,False,,MISS Diallo Free Throw 1 of 2,82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.52,4,10,29,DET,DET,reb,1,False,False,,Pistons Rebound,82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.52,4,10,29,DET,DET,ft_miss,12,False,False,,MISS Diallo Free Throw 2 of 2,82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.57,4,10,26,DET,DET,reb,0,False,False,,Cook REBOUND (Off:1 Def:2),82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.6,4,10,24,DET,DET,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.65,4,10,21,DET,DET,reb,0,False,False,,Cook REBOUND (Off:2 Def:2),82-72,82,72
+0022000895,2021-04-22,SAS,DET,37.78,4,10,13,DET,DET,fg_make,5,False,False,,Okafor 3' Layup (7 PTS),82-74,82,74
+0022000895,2021-04-22,SAS,DET,38.12,4,9,53,SAS,SAS,fg_make,75,False,False,Bates-Diop 3' Driving Finger Roll Layup (4 PTS) (Jones 5 AST),,84-74,84,74
+0022000895,2021-04-22,SAS,DET,38.12,4,9,53,SAS,DET,foul,2,False,False,,Diallo S.FOUL (P4.T2) (J.Van Duyne),84-74,84,74
+0022000895,2021-04-22,SAS,DET,38.12,4,9,53,SAS,SAS,ft_miss,10,False,False,MISS Bates-Diop Free Throw 1 of 1,,84-74,84,74
+0022000895,2021-04-22,SAS,DET,38.2,4,9,48,SAS,SAS,reb,0,False,False,Vassell REBOUND (Off:1 Def:1),,84-74,84,74
+0022000895,2021-04-22,SAS,DET,38.27,4,9,44,SAS,SAS,fg_miss,75,False,False,MISS Gay 2' Driving Finger Roll Layup,,84-74,84,74
+0022000895,2021-04-22,SAS,DET,38.32,4,9,41,DET,DET,reb,0,False,False,,Cook REBOUND (Off:2 Def:3),84-74,84,74
+0022000895,2021-04-22,SAS,DET,38.67,4,9,20,DET,DET,fg3_make,79,False,False,,Jackson 30' 3PT Pullup Jump Shot (14 PTS),84-77,84,77
+0022000895,2021-04-22,SAS,DET,39.0,4,9,0,SAS,SAS,fg3_miss,1,False,False,MISS Vassell 26' 3PT Jump Shot,,84-77,84,77
+0022000895,2021-04-22,SAS,DET,39.07,4,8,56,DET,DET,reb,0,False,False,,Cook REBOUND (Off:2 Def:4),84-77,84,77
+0022000895,2021-04-22,SAS,DET,39.3,4,8,42,DET,DET,fg_make,73,False,False,,Diallo 3' Driving Reverse Layup (2 PTS),84-79,84,79
+0022000895,2021-04-22,SAS,DET,39.3,4,8,42,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 5 Short 0),,84-79,84,79
+0022000895,2021-04-22,SAS,DET,39.63,4,8,22,SAS,SAS,fg_miss,75,False,False,MISS Johnson 2' Driving Finger Roll Layup,,84-79,84,79
+0022000895,2021-04-22,SAS,DET,39.68,4,8,19,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:3),84-79,84,79
+0022000895,2021-04-22,SAS,DET,40.07,4,7,56,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#12),84-79,84,79
+0022000895,2021-04-22,SAS,DET,40.38,4,7,37,SAS,SAS,fg_miss,78,False,False,MISS Johnson 10' Floating Jump Shot,,87-79,87,79
+0022000895,2021-04-22,SAS,DET,40.43,4,7,34,DET,DET,reb,0,False,False,,Cook REBOUND (Off:2 Def:5),87-79,87,79
+0022000895,2021-04-22,SAS,DET,40.67,4,7,20,DET,DET,fg_make,101,False,False,,Diallo 4' Driving Floating Jump Shot (4 PTS),87-81,87,81
+0022000895,2021-04-22,SAS,DET,40.9,4,7,6,SAS,SAS,fg_miss,6,False,False,MISS Walker IV 2' Driving Layup,,87-81,87,81
+0022000895,2021-04-22,SAS,DET,40.93,4,7,4,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:3 Def:5),,89-81,89,81
+0022000895,2021-04-22,SAS,DET,40.93,4,7,4,SAS,SAS,fg_make,97,False,False,Poeltl Tip Layup Shot (14 PTS),,89-81,89,81
+0022000895,2021-04-22,SAS,DET,41.23,4,6,46,DET,DET,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,89-81,89,81
+0022000895,2021-04-22,SAS,DET,41.28,4,6,43,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:3 Def:6),,89-81,89,81
+0022000895,2021-04-22,SAS,DET,41.5,4,6,30,SAS,SAS,fg_miss,75,False,False,MISS Johnson 3' Driving Finger Roll Layup,,89-81,89,81
+0022000895,2021-04-22,SAS,DET,41.52,4,6,29,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:4 Def:6),,89-81,89,81
+0022000895,2021-04-22,SAS,DET,41.57,4,6,26,SAS,SAS,fg3_make,1,False,False,Walker IV 27' 3PT Jump Shot (18 PTS) (Poeltl 4 AST),,87-79,87,79
+0022000895,2021-04-22,SAS,DET,41.6,4,6,24,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.4 Short 0),87-79,87,79
+0022000895,2021-04-22,SAS,DET,41.8,4,6,12,DET,DET,fg_miss,1,False,False,,MISS Jackson 18' Jump Shot,87-79,87,79
+0022000895,2021-04-22,SAS,DET,41.87,4,6,8,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:4 Def:7),,87-79,87,79
+0022000895,2021-04-22,SAS,DET,41.97,4,6,2,SAS,SAS,fg_miss,5,False,False,MISS Poeltl 3' Layup,,87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.02,4,5,59,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:4),87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.18,4,5,49,DET,DET,tov,40,False,False,,Stewart Out of Bounds Lost Ball Turnover (P2.T13),87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.4,4,5,36,SAS,SAS,fg3_miss,1,False,False,MISS White 27' 3PT Jump Shot,,87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.52,4,5,29,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:0 Def:3),87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.57,4,5,26,DET,SAS,foul,2,False,False,Johnson S.FOUL (P3.T3) (J.Goble),,87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.57,4,5,26,DET,DET,ft_miss,11,False,False,,MISS Diallo Free Throw 1 of 2,87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.57,4,5,26,DET,DET,reb,1,False,False,,Pistons Rebound,87-79,87,79
+0022000895,2021-04-22,SAS,DET,42.57,4,5,26,DET,DET,ft_make,12,False,False,,Diallo Free Throw 2 of 2 (5 PTS),89-82,89,82
+0022000895,2021-04-22,SAS,DET,42.87,4,5,8,SAS,SAS,fg3_make,80,False,False,White 26' 3PT Step Back Jump Shot (22 PTS),,92-82,92,82
+0022000895,2021-04-22,SAS,DET,43.12,4,4,53,DET,DET,tov,1,False,True,,Lee Bad Pass Turnover (P1.T14),92-82,92,82
+0022000895,2021-04-22,SAS,DET,43.12,4,4,53,DET,SAS,steal,1,False,True,steal,steal,92-82,92,82
+0022000895,2021-04-22,SAS,DET,43.18,4,4,49,SAS,DET,foul,2,False,False,,Lee S.FOUL (P4.T3) (J.Van Duyne),92-82,92,82
+0022000895,2021-04-22,SAS,DET,43.18,4,4,49,SAS,SAS,ft_make,11,False,False,White Free Throw 1 of 2 (23 PTS),,93-82,93,82
+0022000895,2021-04-22,SAS,DET,43.18,4,4,49,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (24 PTS),,94-82,94,82
+0022000895,2021-04-22,SAS,DET,43.38,4,4,37,DET,DET,fg_miss,66,True,False,,MISS Jackson 10' Jump Bank Shot,94-82,94,82
+0022000895,2021-04-22,SAS,DET,43.38,4,4,37,DET,SAS,block,66,True,False,block,block,94-82,94,82
+0022000895,2021-04-22,SAS,DET,43.45,4,4,33,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:5),,94-82,94,82
+0022000895,2021-04-22,SAS,DET,43.57,4,4,26,SAS,SAS,fg3_make,1,False,False,Johnson 26' 3PT Jump Shot (8 PTS) (White 7 AST),,97-82,97,82
+0022000895,2021-04-22,SAS,DET,43.6,4,4,24,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.5 Short 0),97-82,97,82
+0022000895,2021-04-22,SAS,DET,43.73,4,4,16,DET,DET,tov,7,False,False,,Hayes Discontinue Dribble Turnover (P4.T15),97-82,97,82
+0022000895,2021-04-22,SAS,DET,44.02,4,3,59,SAS,SAS,fg_miss,78,True,False,MISS White 9' Floating Jump Shot,,97-82,97,82
+0022000895,2021-04-22,SAS,DET,44.02,4,3,59,SAS,DET,block,78,True,False,block,block,97-82,97,82
+0022000895,2021-04-22,SAS,DET,44.07,4,3,56,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:4 Def:6),97-82,97,82
+0022000895,2021-04-22,SAS,DET,44.18,4,3,49,DET,SAS,foul,2,False,False,Poeltl S.FOUL (P3.T4) (B.Taylor),,97-82,97,82
+0022000895,2021-04-22,SAS,DET,44.18,4,3,49,DET,DET,ft_miss,11,False,False,,MISS Jackson Free Throw 1 of 2,97-82,97,82
+0022000895,2021-04-22,SAS,DET,44.18,4,3,49,DET,DET,reb,1,False,False,,Pistons Rebound,97-82,97,82
+0022000895,2021-04-22,SAS,DET,44.18,4,3,49,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (25 PTS),97-83,97,83
+0022000895,2021-04-22,SAS,DET,44.47,4,3,32,SAS,DET,foul,2,False,False,,Hayes S.FOUL (P2.T4) (J.Goble),97-83,97,83
+0022000895,2021-04-22,SAS,DET,44.47,4,3,32,SAS,SAS,ft_make,11,False,False,White Free Throw 1 of 2 (25 PTS),,98-83,98,83
+0022000895,2021-04-22,SAS,DET,44.47,4,3,32,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (26 PTS),,99-83,99,83
+0022000895,2021-04-22,SAS,DET,44.7,4,3,18,DET,DET,fg_make,3,False,False,,Stewart 4' Hook Shot (8 PTS) (Hayes 5 AST),99-85,99,85
+0022000895,2021-04-22,SAS,DET,44.83,4,3,10,SAS,DET,foul,28,False,False,,Stewart Personal Take Foul (P2.PN) (J.Van Duyne),99-85,99,85
+0022000895,2021-04-22,SAS,DET,44.83,4,3,10,SAS,SAS,ft_miss,11,False,False,MISS Poeltl Free Throw 1 of 2,,99-85,99,85
+0022000895,2021-04-22,SAS,DET,44.83,4,3,10,SAS,SAS,reb,1,False,False,SPURS Rebound,,99-85,99,85
+0022000895,2021-04-22,SAS,DET,44.83,4,3,10,SAS,SAS,ft_make,12,False,False,Poeltl Free Throw 2 of 2 (15 PTS),,100-85,100,85
+0022000895,2021-04-22,SAS,DET,45.0,4,3,0,DET,SAS,foul,2,False,False,Poeltl S.FOUL (P4.PN) (B.Taylor),,100-85,100,85
+0022000895,2021-04-22,SAS,DET,45.0,4,3,0,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (26 PTS),100-86,100,86
+0022000895,2021-04-22,SAS,DET,45.0,4,3,0,DET,DET,ft_miss,12,False,False,,MISS Jackson Free Throw 2 of 2,100-86,100,86
+0022000895,2021-04-22,SAS,DET,45.03,4,2,58,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:5 Def:6),100-86,100,86
+0022000895,2021-04-22,SAS,DET,45.13,4,2,52,DET,DET,tov,2,False,True,,Stewart Lost Ball Turnover (P3.T16),100-86,100,86
+0022000895,2021-04-22,SAS,DET,45.13,4,2,52,DET,SAS,steal,2,False,True,steal,steal,100-86,100,86
+0022000895,2021-04-22,SAS,DET,45.13,4,2,52,SAS,DET,foul,28,False,False,,Stewart Personal Take Foul (P3.PN) (J.Goble),100-86,100,86
+0022000895,2021-04-22,SAS,DET,45.13,4,2,52,SAS,SAS,ft_make,11,False,False,Poeltl Free Throw 1 of 2 (16 PTS),,101-86,101,86
+0022000895,2021-04-22,SAS,DET,45.13,4,2,52,SAS,SAS,ft_make,12,False,False,Poeltl Free Throw 2 of 2 (17 PTS),,102-86,102,86
+0022000895,2021-04-22,SAS,DET,45.3,4,2,42,DET,DET,fg3_miss,1,False,False,,MISS Jackson 27' 3PT Jump Shot,102-86,102,86
+0022000895,2021-04-22,SAS,DET,45.35,4,2,39,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:6),,102-86,102,86
+0022000895,2021-04-22,SAS,DET,45.63,4,2,22,SAS,SAS,fg_make,9,False,False,Johnson 3' Driving Dunk (10 PTS) (White 8 AST),,104-86,104,86
+0022000895,2021-04-22,SAS,DET,45.9,4,2,6,DET,DET,fg_miss,6,True,False,,MISS Hayes 4' Driving Layup,104-86,104,86
+0022000895,2021-04-22,SAS,DET,45.9,4,2,6,DET,SAS,block,6,True,False,block,block,104-86,104,86
+0022000895,2021-04-22,SAS,DET,45.9,4,2,6,DET,DET,reb,0,False,False,,Pistons Rebound,104-86,104,86
+0022000895,2021-04-22,SAS,DET,45.95,4,2,3,DET,DET,fg3_miss,1,False,False,,MISS Jackson 24' 3PT Jump Shot,104-86,104,86
+0022000895,2021-04-22,SAS,DET,46.0,4,2,0,SAS,SAS,reb,0,False,False,Bates-Diop REBOUND (Off:0 Def:3),,104-86,104,86
+0022000895,2021-04-22,SAS,DET,46.23,4,1,46,SAS,SAS,fg_miss,78,False,False,MISS Bates-Diop 10' Floating Jump Shot,,104-86,104,86
+0022000895,2021-04-22,SAS,DET,46.28,4,1,43,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:5 Def:7),104-86,104,86
+0022000895,2021-04-22,SAS,DET,46.3,4,1,42,DET,DET,fg_make,76,False,False,,Jackson 3' Running Finger Roll Layup (28 PTS),104-88,104,88
+0022000895,2021-04-22,SAS,DET,46.3,4,1,42,DET,SAS,foul,2,False,False,Weatherspoon S.FOUL (P1.PN) (J.Goble),,104-88,104,88
+0022000895,2021-04-22,SAS,DET,46.3,4,1,42,DET,DET,ft_make,10,False,False,,Jackson Free Throw 1 of 1 (29 PTS),104-89,104,89
+0022000895,2021-04-22,SAS,DET,46.4,4,1,36,SAS,SAS,fg_miss,78,False,False,MISS Vassell 9' Floating Jump Shot,,104-89,104,89
+0022000895,2021-04-22,SAS,DET,46.47,4,1,32,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:5 Def:8),104-89,104,89
+0022000895,2021-04-22,SAS,DET,46.75,4,1,15,DET,DET,tov,2,False,True,,Jackson Lost Ball Turnover (P2.T17),104-89,104,89
+0022000895,2021-04-22,SAS,DET,46.75,4,1,15,DET,SAS,steal,2,False,True,steal,steal,104-89,104,89
+0022000895,2021-04-22,SAS,DET,47.05,4,0,57,DET,SAS,foul,26,False,False,Bates-Diop Offensive Charge Foul (P1.PN) (J.Goble),,104-89,104,89
+0022000895,2021-04-22,SAS,DET,47.05,4,0,57,SAS,SAS,tov,37,False,False,Bates-Diop Offensive Foul Turnover (P1.T10),,104-89,104,89
+0022000895,2021-04-22,SAS,DET,47.23,4,0,46,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P4.T18),104-89,104,89
+0022000895,2021-04-22,SAS,DET,47.23,4,0,46,DET,SAS,steal,1,False,True,steal,steal,104-89,104,89
+0022000895,2021-04-22,SAS,DET,47.6,4,0,24,SAS,DET,foul,1,False,False,,Jackson P.FOUL (P3.PN) (J.Goble),104-89,104,89
+0022000895,2021-04-22,SAS,DET,47.6,4,0,24,SAS,SAS,ft_make,11,False,False,Eubanks Free Throw 1 of 2 (7 PTS),,105-89,105,89
+0022000895,2021-04-22,SAS,DET,47.6,4,0,24,SAS,SAS,ft_make,12,False,False,Eubanks Free Throw 2 of 2 (8 PTS),,106-89,106,89
+0022000895,2021-04-22,SAS,DET,47.73,4,0,16,DET,DET,fg_make,75,False,False,,Hayes 3' Driving Finger Roll Layup (12 PTS),106-91,106,91
+0022000895,2021-04-22,SAS,DET,48.0,4,0,0,DET,,period_end,0,False,False,,,106-91,106,91

@@ -1,0 +1,485 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900038,2019-10-27,DAL,POR,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900038,2019-10-27,DAL,POR,0.0,1,12,0,,DAL,jump_ball,0,False,False,Jump Ball Porzingis vs. Whiteside: Tip to Brunson,,0-0,0,0
+0021900038,2019-10-27,DAL,POR,0.3,1,11,42,DAL,DAL,fg_make,47,False,False,Porzingis 20' Turnaround Jump Shot (2 PTS) (Doncic 1 AST),,2-0,2,0
+0021900038,2019-10-27,DAL,POR,0.3,1,11,42,DAL,POR,foul,2,False,False,,Collins S.FOUL (P1.T1) (D.Richardson),2-0,2,0
+0021900038,2019-10-27,DAL,POR,0.3,1,11,42,DAL,DAL,ft_make,10,False,False,Porzingis Free Throw 1 of 1 (3 PTS),,3-0,3,0
+0021900038,2019-10-27,DAL,POR,0.62,1,11,23,POR,POR,fg_make,86,False,False,,Lillard 13' Turnaround Fadeaway (2 PTS),3-2,3,2
+0021900038,2019-10-27,DAL,POR,0.75,1,11,15,DAL,POR,foul,1,False,False,,Whiteside P.FOUL (P1.T2) (B.Barnaky),3-2,3,2
+0021900038,2019-10-27,DAL,POR,0.82,1,11,11,DAL,DAL,fg_make,101,False,False,Doncic 19' Driving Floating Jump Shot (2 PTS) (Porzingis 1 AST),,5-2,5,2
+0021900038,2019-10-27,DAL,POR,1.02,1,10,59,POR,POR,fg_miss,79,False,False,,MISS McCollum 22' Pullup Jump Shot,5-2,5,2
+0021900038,2019-10-27,DAL,POR,1.07,1,10,56,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:0 Def:1),,5-2,5,2
+0021900038,2019-10-27,DAL,POR,1.37,1,10,38,DAL,DAL,fg3_make,1,False,False,Kleber 3PT Jump Shot (3 PTS) (Wright 1 AST),,8-2,8,2
+0021900038,2019-10-27,DAL,POR,1.67,1,10,20,POR,POR,fg3_make,1,False,False,,Hood 24' 3PT Jump Shot (3 PTS) (Lillard 1 AST),8-5,8,5
+0021900038,2019-10-27,DAL,POR,1.88,1,10,7,DAL,DAL,fg_make,86,False,False,Doncic 13' Turnaround Fadeaway (4 PTS),,10-5,10,5
+0021900038,2019-10-27,DAL,POR,2.07,1,9,56,POR,POR,fg3_miss,79,False,False,,MISS Lillard 26' 3PT Pullup Jump Shot,10-5,10,5
+0021900038,2019-10-27,DAL,POR,2.12,1,9,53,DAL,DAL,reb,0,False,False,Wright REBOUND (Off:0 Def:1),,10-5,10,5
+0021900038,2019-10-27,DAL,POR,2.3,1,9,42,DAL,DAL,fg_make,108,False,False,Kleber Cutting Dunk Shot (5 PTS) (Wright 2 AST),,12-5,12,5
+0021900038,2019-10-27,DAL,POR,2.58,1,9,25,POR,POR,fg_make,63,False,False,,McCollum 13' Fadeaway Jumper (2 PTS),12-7,12,7
+0021900038,2019-10-27,DAL,POR,2.82,1,9,11,DAL,DAL,fg3_make,1,False,False,Kleber 3PT Jump Shot (8 PTS) (Doncic 2 AST),,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.08,1,8,55,POR,POR,fg3_miss,79,False,False,,MISS Lillard 25' 3PT Pullup Jump Shot,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.12,1,8,53,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:0 Def:1),,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.27,1,8,44,DAL,DAL,fg_miss,101,False,False,MISS Doncic 9' Driving Floating Jump Shot,,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.32,1,8,41,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:1),15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.45,1,8,33,POR,POR,fg3_miss,1,False,False,,MISS Collins 25' 3PT Jump Shot,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.48,1,8,31,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:1),,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.67,1,8,20,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 28' 3PT Jump Shot,,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.68,1,8,19,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:1 Def:1),,15-7,15,7
+0021900038,2019-10-27,DAL,POR,3.72,1,8,17,DAL,DAL,fg_make,5,False,False,Porzingis 3' Layup (5 PTS),,17-7,17,7
+0021900038,2019-10-27,DAL,POR,3.72,1,8,17,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.1 Short 0),17-7,17,7
+0021900038,2019-10-27,DAL,POR,4.0,1,8,0,POR,POR,fg3_make,1,False,False,,Collins 26' 3PT Jump Shot (3 PTS) (Lillard 2 AST),17-10,17,10
+0021900038,2019-10-27,DAL,POR,4.27,1,7,44,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 24' 3PT Jump Shot,,17-10,17,10
+0021900038,2019-10-27,DAL,POR,4.32,1,7,41,POR,POR,reb,0,False,False,,Hood REBOUND (Off:0 Def:1),17-10,17,10
+0021900038,2019-10-27,DAL,POR,4.4,1,7,36,POR,POR,fg_miss,103,False,False,,MISS Hood 17' Running Pull-Up Jump Shot,17-10,17,10
+0021900038,2019-10-27,DAL,POR,4.45,1,7,33,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:2),,17-10,17,10
+0021900038,2019-10-27,DAL,POR,4.67,1,7,20,DAL,DAL,tov,1,False,True,Wright Bad Pass Turnover (P1.T1),,17-10,17,10
+0021900038,2019-10-27,DAL,POR,4.67,1,7,20,DAL,POR,steal,1,False,True,steal,steal,17-10,17,10
+0021900038,2019-10-27,DAL,POR,4.73,1,7,16,POR,POR,fg_make,76,False,False,,McCollum 1' Running Finger Roll Layup (4 PTS),17-12,17,12
+0021900038,2019-10-27,DAL,POR,5.02,1,6,59,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 28' 3PT Jump Shot,,17-12,17,12
+0021900038,2019-10-27,DAL,POR,5.07,1,6,56,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:1),17-12,17,12
+0021900038,2019-10-27,DAL,POR,5.18,1,6,49,POR,POR,fg3_miss,1,False,False,,MISS McCollum 25' 3PT Jump Shot,17-12,17,12
+0021900038,2019-10-27,DAL,POR,5.22,1,6,47,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:3),,17-12,17,12
+0021900038,2019-10-27,DAL,POR,5.3,1,6,42,DAL,DAL,fg_miss,41,False,False,MISS Doncic 2' Running Layup,,17-12,17,12
+0021900038,2019-10-27,DAL,POR,5.35,1,6,39,POR,POR,reb,0,False,False,,Hood REBOUND (Off:0 Def:2),17-12,17,12
+0021900038,2019-10-27,DAL,POR,5.43,1,6,34,POR,POR,fg3_make,79,False,False,,Hood 26' 3PT Pullup Jump Shot (6 PTS),17-15,17,15
+0021900038,2019-10-27,DAL,POR,5.45,1,6,33,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 1 Short 0),,17-15,17,15
+0021900038,2019-10-27,DAL,POR,5.65,1,6,21,DAL,POR,foul,2,False,False,,Hood S.FOUL (P1.T3) (C.Kirkland),17-15,17,15
+0021900038,2019-10-27,DAL,POR,5.65,1,6,21,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (5 PTS),,18-15,18,15
+0021900038,2019-10-27,DAL,POR,5.65,1,6,21,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (6 PTS),,19-15,19,15
+0021900038,2019-10-27,DAL,POR,5.97,1,6,2,,DAL,jump_ball,0,False,False,Jump Ball Finney-Smith vs. Whiteside: Tip to Collins,,19-15,19,15
+0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,POR,fg_miss,47,True,False,,MISS Collins 4' Turnaround Jump Shot,19-15,19,15
+0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,DAL,block,47,True,False,block,block,19-15,19,15
+0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,POR,reb,0,False,False,,Trail Blazers Rebound,19-15,19,15
+0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,DAL,foul,3,False,False,Finney-Smith L.B.FOUL (P1.T1) (B.Barnaky),,19-15,19,15
+0021900038,2019-10-27,DAL,POR,6.12,1,5,53,POR,POR,fg_make,86,False,False,,Hood 7' Turnaround Fadeaway (8 PTS),19-17,19,17
+0021900038,2019-10-27,DAL,POR,6.35,1,5,39,DAL,DAL,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,19-17,19,17
+0021900038,2019-10-27,DAL,POR,6.38,1,5,37,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:2),19-17,19,17
+0021900038,2019-10-27,DAL,POR,6.5,1,5,30,POR,POR,tov,2,False,True,,Lillard Lost Ball Turnover (P1.T1),19-17,19,17
+0021900038,2019-10-27,DAL,POR,6.5,1,5,30,POR,DAL,steal,2,False,True,steal,steal,19-17,19,17
+0021900038,2019-10-27,DAL,POR,6.53,1,5,28,DAL,POR,foul,2,False,False,,McCollum S.FOUL (P1.T4) (C.Kirkland),19-17,19,17
+0021900038,2019-10-27,DAL,POR,6.53,1,5,28,DAL,DAL,ft_make,11,False,False,Kleber Free Throw 1 of 2 (9 PTS),,20-17,20,17
+0021900038,2019-10-27,DAL,POR,6.53,1,5,28,DAL,DAL,ft_make,12,False,False,Kleber Free Throw 2 of 2 (10 PTS),,21-17,21,17
+0021900038,2019-10-27,DAL,POR,6.75,1,5,15,POR,DAL,foul,2,False,False,Kleber S.FOUL (P1.T2) (D.Richardson),,21-17,21,17
+0021900038,2019-10-27,DAL,POR,6.75,1,5,15,POR,POR,ft_miss,11,False,False,,MISS Hood Free Throw 1 of 2,21-17,21,17
+0021900038,2019-10-27,DAL,POR,6.75,1,5,15,POR,POR,reb,1,False,False,,Trail Blazers Rebound,21-17,21,17
+0021900038,2019-10-27,DAL,POR,6.75,1,5,15,POR,POR,ft_make,12,False,False,,Hood Free Throw 2 of 2 (9 PTS),21-18,21,18
+0021900038,2019-10-27,DAL,POR,6.93,1,5,4,DAL,DAL,fg_make,52,False,False,Kleber 2' Alley Oop Dunk (12 PTS) (Doncic 3 AST),,23-18,23,18
+0021900038,2019-10-27,DAL,POR,7.27,1,4,44,POR,POR,fg_miss,101,False,False,,MISS McCollum 8' Driving Floating Jump Shot,23-18,23,18
+0021900038,2019-10-27,DAL,POR,7.32,1,4,41,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:0 Def:2),,23-18,23,18
+0021900038,2019-10-27,DAL,POR,7.4,1,4,36,DAL,DAL,fg_make,41,False,False,Hardaway Jr. 4' Running Layup (2 PTS),,25-18,25,18
+0021900038,2019-10-27,DAL,POR,7.8,1,4,12,POR,POR,fg_make,63,False,False,,McCollum 19' Fadeaway Jumper (6 PTS),25-20,25,20
+0021900038,2019-10-27,DAL,POR,8.1,1,3,54,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 24' 3PT Jump Shot,,25-20,25,20
+0021900038,2019-10-27,DAL,POR,8.15,1,3,51,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:1),25-20,25,20
+0021900038,2019-10-27,DAL,POR,8.25,1,3,45,POR,POR,fg3_make,1,False,False,,Hood 24' 3PT Jump Shot (12 PTS) (Bazemore 1 AST),25-23,25,23
+0021900038,2019-10-27,DAL,POR,8.55,1,3,27,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P1.T2),,25-23,25,23
+0021900038,2019-10-27,DAL,POR,8.55,1,3,27,DAL,POR,steal,1,False,True,steal,steal,25-23,25,23
+0021900038,2019-10-27,DAL,POR,8.68,1,3,19,POR,POR,fg_make,57,False,False,,Hood 2' Driving Hook Shot (14 PTS),25-25,25,25
+0021900038,2019-10-27,DAL,POR,8.68,1,3,19,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 2 Short 0),,25-25,25,25
+0021900038,2019-10-27,DAL,POR,8.83,1,3,10,DAL,POR,foul,1,False,False,,Bazemore P.FOUL (P1.PN) (D.Richardson),25-25,25,25
+0021900038,2019-10-27,DAL,POR,8.83,1,3,10,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (7 PTS),,26-25,26,25
+0021900038,2019-10-27,DAL,POR,8.83,1,3,10,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (8 PTS),,27-25,27,25
+0021900038,2019-10-27,DAL,POR,9.02,1,2,59,POR,POR,fg_miss,79,False,False,,MISS Lillard 13' Pullup Jump Shot,27-25,27,25
+0021900038,2019-10-27,DAL,POR,9.05,1,2,57,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:4),,27-25,27,25
+0021900038,2019-10-27,DAL,POR,9.08,1,2,55,DAL,POR,foul,2,False,False,,Tolliver S.FOUL (P1.PN) (C.Kirkland),27-25,27,25
+0021900038,2019-10-27,DAL,POR,9.08,1,2,55,DAL,DAL,ft_make,11,False,False,Hardaway Jr. Free Throw 1 of 2 (3 PTS),,28-25,28,25
+0021900038,2019-10-27,DAL,POR,9.08,1,2,55,DAL,DAL,ft_make,12,False,False,Hardaway Jr. Free Throw 2 of 2 (4 PTS),,29-25,29,25
+0021900038,2019-10-27,DAL,POR,9.3,1,2,42,POR,POR,fg3_miss,1,False,False,,MISS Simons 25' 3PT Jump Shot,29-25,29,25
+0021900038,2019-10-27,DAL,POR,9.33,1,2,40,POR,POR,reb,0,False,False,,Trail Blazers Rebound,29-25,29,25
+0021900038,2019-10-27,DAL,POR,9.33,1,2,40,POR,DAL,foul,3,False,False,Curry L.B.FOUL (P1.T3) (C.Kirkland),,29-25,29,25
+0021900038,2019-10-27,DAL,POR,9.55,1,2,27,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 26' 3PT Jump Shot,29-25,29,25
+0021900038,2019-10-27,DAL,POR,9.58,1,2,25,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,29-25,29,25
+0021900038,2019-10-27,DAL,POR,9.58,1,2,25,DAL,POR,foul,3,False,False,,Hood L.B.FOUL (P2.PN) (B.Barnaky),29-25,29,25
+0021900038,2019-10-27,DAL,POR,9.58,1,2,25,DAL,DAL,ft_make,11,False,False,Hardaway Jr. Free Throw 1 of 2 (5 PTS),,30-25,30,25
+0021900038,2019-10-27,DAL,POR,9.58,1,2,25,DAL,DAL,ft_make,12,False,False,Hardaway Jr. Free Throw 2 of 2 (6 PTS),,31-25,31,25
+0021900038,2019-10-27,DAL,POR,9.83,1,2,10,POR,POR,tov,2,False,True,,Tolliver Lost Ball Turnover (P1.T2),31-25,31,25
+0021900038,2019-10-27,DAL,POR,9.83,1,2,10,POR,DAL,steal,2,False,True,steal,steal,31-25,31,25
+0021900038,2019-10-27,DAL,POR,9.92,1,2,5,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 24' 3PT Jump Shot,,31-25,31,25
+0021900038,2019-10-27,DAL,POR,9.98,1,2,1,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,31-25,31,25
+0021900038,2019-10-27,DAL,POR,10.07,1,1,56,DAL,DAL,fg_make,98,False,False,Finney-Smith 3' Cutting Layup Shot (2 PTS) (Porzingis 2 AST),,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.45,1,1,33,POR,POR,fg_miss,101,False,False,,MISS Lillard 4' Driving Floating Jump Shot,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.47,1,1,32,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:1 Def:2),,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.48,1,1,31,DAL,POR,foul,1,False,False,,Lillard P.FOUL (P1.PN) (B.Barnaky),33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.48,1,1,31,DAL,DAL,ft_miss,11,False,False,MISS Porzingis Free Throw 1 of 2,,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.48,1,1,31,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.48,1,1,31,DAL,DAL,ft_miss,12,False,False,MISS Porzingis Free Throw 2 of 2,,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.57,1,1,26,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:1),33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.65,1,1,21,POR,POR,fg_miss,76,True,False,,MISS Hezonja 2' Running Finger Roll Layup,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.65,1,1,21,POR,DAL,block,76,True,False,block,block,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.72,1,1,17,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:1 Def:3),,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.77,1,1,14,DAL,DAL,fg_miss,5,False,False,MISS Curry 3' Layup,,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.82,1,1,11,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:2 Def:3),,33-25,33,25
+0021900038,2019-10-27,DAL,POR,10.87,1,1,8,DAL,DAL,fg_make,107,False,False,Porzingis 1' Tip Dunk Shot (7 PTS),,35-25,35,25
+0021900038,2019-10-27,DAL,POR,11.08,1,0,55,POR,POR,tov,1,False,True,,Bazemore Bad Pass Turnover (P1.T3),35-25,35,25
+0021900038,2019-10-27,DAL,POR,11.08,1,0,55,POR,DAL,steal,1,False,True,steal,steal,35-25,35,25
+0021900038,2019-10-27,DAL,POR,11.22,1,0,47,DAL,DAL,fg3_make,1,False,False,Curry 25' 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),,38-25,38,25
+0021900038,2019-10-27,DAL,POR,11.42,1,0,35,POR,DAL,foul,1,False,False,Finney-Smith P.FOUL (P2.T4) (D.Richardson),,38-25,38,25
+0021900038,2019-10-27,DAL,POR,11.47,1,0,32,POR,POR,fg3_miss,1,False,False,,MISS Lillard 29' 3PT Jump Shot,38-25,38,25
+0021900038,2019-10-27,DAL,POR,11.5,1,0,30,DAL,DAL,reb,0,False,False,Hardaway Jr. REBOUND (Off:0 Def:1),,38-25,38,25
+0021900038,2019-10-27,DAL,POR,11.8,1,0,12,DAL,DAL,fg_make,9,False,False,Doncic 3' Driving Dunk (10 PTS),,40-25,40,25
+0021900038,2019-10-27,DAL,POR,11.95,1,0,3,POR,POR,fg_miss,73,False,False,,MISS Lillard 2' Driving Reverse Layup,40-25,40,25
+0021900038,2019-10-27,DAL,POR,11.98,1,0,1,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:5),,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.0,1,0,0,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 47' 3PT Jump Shot,,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.0,1,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.0,1,0,0,DAL,,period_end,0,False,False,,,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.0,2,12,0,DAL,,period_start,0,False,False,,,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.15,2,11,51,POR,POR,tov,2,False,True,,Simons Lost Ball Turnover (P1.T4),40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.15,2,11,51,POR,DAL,steal,2,False,True,steal,steal,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.22,2,11,47,DAL,DAL,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.3,2,11,42,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:2),40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.43,2,11,34,POR,POR,fg_miss,101,False,False,,MISS McCollum 9' Driving Floating Jump Shot,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.5,2,11,30,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:2 Def:4),,40-25,40,25
+0021900038,2019-10-27,DAL,POR,12.78,2,11,13,DAL,DAL,fg3_make,1,False,False,Porzingis 26' 3PT Jump Shot (10 PTS) (Curry 1 AST),,43-25,43,25
+0021900038,2019-10-27,DAL,POR,13.1,2,10,54,POR,POR,fg_make,63,False,False,,Bazemore 16' Fadeaway Jumper (2 PTS),43-27,43,27
+0021900038,2019-10-27,DAL,POR,13.28,2,10,43,DAL,DAL,fg3_make,1,False,False,Porzingis 29' 3PT Jump Shot (13 PTS) (Curry 2 AST),,46-27,46,27
+0021900038,2019-10-27,DAL,POR,13.55,2,10,27,POR,DAL,foul,2,False,False,Wright S.FOUL (P1.T1) (B.Barnaky),,46-27,46,27
+0021900038,2019-10-27,DAL,POR,13.55,2,10,27,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (7 PTS),46-28,46,28
+0021900038,2019-10-27,DAL,POR,13.55,2,10,27,POR,POR,ft_make,12,False,False,,McCollum Free Throw 2 of 2 (8 PTS),46-29,46,29
+0021900038,2019-10-27,DAL,POR,13.9,2,10,6,DAL,DAL,tov,4,False,False,Wright Traveling Turnover (P2.T3),,46-29,46,29
+0021900038,2019-10-27,DAL,POR,14.13,2,9,52,POR,DAL,foul,2,False,False,Porzingis S.FOUL (P1.T2) (D.Richardson),,46-29,46,29
+0021900038,2019-10-27,DAL,POR,14.13,2,9,52,POR,POR,ft_make,11,False,False,,Collins Free Throw 1 of 2 (4 PTS),46-30,46,30
+0021900038,2019-10-27,DAL,POR,14.13,2,9,52,POR,POR,ft_make,12,False,False,,Collins Free Throw 2 of 2 (5 PTS),46-31,46,31
+0021900038,2019-10-27,DAL,POR,14.3,2,9,42,DAL,DAL,tov,1,False,True,Hardaway Jr. Bad Pass Turnover (P1.T4),,46-31,46,31
+0021900038,2019-10-27,DAL,POR,14.3,2,9,42,DAL,POR,steal,1,False,True,steal,steal,46-31,46,31
+0021900038,2019-10-27,DAL,POR,14.35,2,9,39,POR,POR,fg_make,6,False,False,,McCollum 2' Driving Layup (10 PTS),46-33,46,33
+0021900038,2019-10-27,DAL,POR,14.57,2,9,26,DAL,DAL,fg_make,79,False,False,Hardaway Jr. 18' Pullup Jump Shot (8 PTS),,48-33,48,33
+0021900038,2019-10-27,DAL,POR,14.73,2,9,16,POR,POR,fg_make,79,False,False,,McCollum 17' Pullup Jump Shot (12 PTS),48-35,48,35
+0021900038,2019-10-27,DAL,POR,14.98,2,9,1,DAL,DAL,fg3_make,80,False,False,Porzingis 24' 3PT Step Back Jump Shot (16 PTS) (Wright 3 AST),,51-35,51,35
+0021900038,2019-10-27,DAL,POR,15.2,2,8,48,POR,POR,fg_make,63,False,False,,McCollum 22' Fadeaway Jumper (14 PTS),51-37,51,37
+0021900038,2019-10-27,DAL,POR,15.43,2,8,34,DAL,DAL,fg_miss,47,False,False,MISS Porzingis 11' Turnaround Jump Shot,,51-37,51,37
+0021900038,2019-10-27,DAL,POR,15.48,2,8,31,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:2),51-37,51,37
+0021900038,2019-10-27,DAL,POR,15.55,2,8,27,POR,POR,fg_miss,41,False,False,,MISS Bazemore 4' Running Layup,51-37,51,37
+0021900038,2019-10-27,DAL,POR,15.58,2,8,25,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:0 Def:1),,51-37,51,37
+0021900038,2019-10-27,DAL,POR,15.67,2,8,20,DAL,DAL,fg3_miss,79,False,False,MISS Hardaway Jr. 3PT Pullup Jump Shot,,51-37,51,37
+0021900038,2019-10-27,DAL,POR,15.73,2,8,16,POR,POR,reb,0,False,False,,Collins REBOUND (Off:0 Def:1),51-37,51,37
+0021900038,2019-10-27,DAL,POR,15.88,2,8,7,POR,POR,fg3_make,1,False,False,,Simons 26' 3PT Jump Shot (3 PTS) (Hezonja 1 AST),51-40,51,40
+0021900038,2019-10-27,DAL,POR,15.88,2,8,7,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 3 Short 0),,51-40,51,40
+0021900038,2019-10-27,DAL,POR,16.05,2,7,57,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,51-40,51,40
+0021900038,2019-10-27,DAL,POR,16.1,2,7,54,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:3),51-40,51,40
+0021900038,2019-10-27,DAL,POR,16.18,2,7,49,POR,POR,fg_miss,101,False,False,,MISS McCollum 15' Driving Floating Jump Shot,51-40,51,40
+0021900038,2019-10-27,DAL,POR,16.22,2,7,47,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:0 Def:2),,51-40,51,40
+0021900038,2019-10-27,DAL,POR,16.38,2,7,37,DAL,DAL,fg_miss,57,False,False,MISS Porzingis 5' Driving Hook Shot,,51-40,51,40
+0021900038,2019-10-27,DAL,POR,16.42,2,7,35,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:1),51-40,51,40
+0021900038,2019-10-27,DAL,POR,16.55,2,7,27,POR,POR,fg3_make,1,False,False,,Collins 26' 3PT Jump Shot (8 PTS) (Hezonja 2 AST),51-43,51,43
+0021900038,2019-10-27,DAL,POR,17.0,2,7,0,DAL,DAL,fg_miss,86,False,False,MISS Wright 9' Turnaround Fadeaway Shot,,51-43,51,43
+0021900038,2019-10-27,DAL,POR,17.05,2,6,57,POR,POR,reb,0,False,False,,Collins REBOUND (Off:0 Def:2),51-43,51,43
+0021900038,2019-10-27,DAL,POR,17.27,2,6,44,POR,POR,fg_make,73,False,False,,McCollum 2' Driving Reverse Layup (16 PTS),51-45,51,45
+0021900038,2019-10-27,DAL,POR,17.48,2,6,31,DAL,DAL,fg3_miss,1,False,False,MISS Curry 3PT Jump Shot,,51-45,51,45
+0021900038,2019-10-27,DAL,POR,17.53,2,6,28,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:4),51-45,51,45
+0021900038,2019-10-27,DAL,POR,17.65,2,6,21,POR,POR,fg_make,41,False,False,,McCollum 4' Running Layup (18 PTS),51-47,51,47
+0021900038,2019-10-27,DAL,POR,17.75,2,6,15,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 4 Short 0),,51-47,51,47
+0021900038,2019-10-27,DAL,POR,17.95,2,6,3,DAL,DAL,fg3_make,1,False,False,Finney-Smith 25' 3PT Jump Shot (5 PTS) (Wright 4 AST),,54-47,54,47
+0021900038,2019-10-27,DAL,POR,18.27,2,5,44,POR,POR,fg3_miss,1,False,False,,MISS Hezonja 25' 3PT Jump Shot,54-47,54,47
+0021900038,2019-10-27,DAL,POR,18.3,2,5,42,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:0 Def:1),,54-47,54,47
+0021900038,2019-10-27,DAL,POR,18.4,2,5,36,DAL,DAL,fg3_make,1,False,False,Wright 25' 3PT Jump Shot (3 PTS) (Brunson 1 AST),,57-47,57,47
+0021900038,2019-10-27,DAL,POR,18.68,2,5,19,POR,POR,fg_miss,6,False,False,,MISS Bazemore 3' Driving Layup,57-47,57,47
+0021900038,2019-10-27,DAL,POR,18.72,2,5,17,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:1),,57-47,57,47
+0021900038,2019-10-27,DAL,POR,18.88,2,5,7,DAL,DAL,fg_make,102,False,False,Jackson 11' Driving Floating Bank Jump Shot (2 PTS) (Wright 5 AST),,59-47,59,47
+0021900038,2019-10-27,DAL,POR,18.9,2,5,6,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),59-47,59,47
+0021900038,2019-10-27,DAL,POR,19.17,2,4,50,POR,POR,fg_miss,86,False,False,,MISS Hood 9' Turnaround Fadeaway Shot,59-47,59,47
+0021900038,2019-10-27,DAL,POR,19.23,2,4,46,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:0 Def:2),,59-47,59,47
+0021900038,2019-10-27,DAL,POR,19.28,2,4,43,DAL,DAL,fg_miss,1,True,False,MISS Finney-Smith 4' Jump Shot,,59-47,59,47
+0021900038,2019-10-27,DAL,POR,19.28,2,4,43,DAL,POR,block,1,True,False,block,block,59-47,59,47
+0021900038,2019-10-27,DAL,POR,19.3,2,4,42,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,59-47,59,47
+0021900038,2019-10-27,DAL,POR,19.3,2,4,42,DAL,POR,foul,6,False,False,,Bazemore AWAY.FROM.PLAY.FOUL (P2.T1) (D.Richardson),59-47,59,47
+0021900038,2019-10-27,DAL,POR,19.3,2,4,42,DAL,DAL,ft_make,10,False,False,Brunson Free Throw 1 of 1 (1 PTS),,60-47,60,47
+0021900038,2019-10-27,DAL,POR,19.45,2,4,33,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 24' 3PT Jump Shot,,60-47,60,47
+0021900038,2019-10-27,DAL,POR,19.5,2,4,30,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:5),60-47,60,47
+0021900038,2019-10-27,DAL,POR,19.53,2,4,28,POR,DAL,foul,2,False,False,Kleber S.FOUL (P2.T3) (C.Kirkland),,60-47,60,47
+0021900038,2019-10-27,DAL,POR,19.53,2,4,28,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (19 PTS),60-48,60,48
+0021900038,2019-10-27,DAL,POR,19.53,2,4,28,POR,POR,ft_make,12,False,False,,McCollum Free Throw 2 of 2 (20 PTS),60-49,60,49
+0021900038,2019-10-27,DAL,POR,19.7,2,4,18,DAL,DAL,fg3_make,1,False,False,Brunson 25' 3PT Jump Shot (4 PTS) (Doncic 4 AST),,63-49,63,49
+0021900038,2019-10-27,DAL,POR,20.08,2,3,55,POR,POR,fg_make,58,False,False,,Whiteside 3' Turnaround Hook Shot (2 PTS) (McCollum 1 AST),63-51,63,51
+0021900038,2019-10-27,DAL,POR,20.33,2,3,40,DAL,DAL,fg_make,108,False,False,Kleber 1' Cutting Dunk Shot (14 PTS) (Doncic 5 AST),,65-51,65,51
+0021900038,2019-10-27,DAL,POR,20.62,2,3,23,DAL,POR,foul,4,False,False,,Whiteside OFF.Foul (P2) (D.Richardson),65-51,65,51
+0021900038,2019-10-27,DAL,POR,20.62,2,3,23,POR,POR,tov,37,False,False,,Whiteside Offensive Foul Turnover (P1.T5),65-51,65,51
+0021900038,2019-10-27,DAL,POR,20.9,2,3,6,DAL,DAL,fg3_miss,1,False,False,MISS Jackson 26' 3PT Jump Shot,,65-51,65,51
+0021900038,2019-10-27,DAL,POR,20.95,2,3,3,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:2),,65-51,65,51
+0021900038,2019-10-27,DAL,POR,21.1,2,2,54,DAL,DAL,fg_make,6,False,False,Doncic 7' Driving Layup (12 PTS),,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.2,2,2,48,POR,DAL,foul,1,False,False,Doncic P.FOUL (P1.T4) (C.Kirkland),,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.28,2,2,43,POR,POR,fg3_miss,1,False,False,,MISS McCollum 26' 3PT Jump Shot,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.35,2,2,39,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:6),,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.45,2,2,33,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 3PT Jump Shot,,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.5,2,2,30,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:1 Def:2),,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.52,2,2,29,DAL,DAL,fg_miss,1,True,False,MISS Jackson 6' Jump Shot,,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.52,2,2,29,DAL,POR,block,1,True,False,block,block,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.57,2,2,26,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:2),,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.63,2,2,22,DAL,DAL,tov,2,False,True,Finney-Smith Lost Ball Turnover (P1.T5),,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.63,2,2,22,DAL,POR,steal,2,False,True,steal,steal,67-51,67,51
+0021900038,2019-10-27,DAL,POR,21.87,2,2,8,POR,POR,fg_make,6,False,False,,McCollum 3' Driving Layup (22 PTS),67-53,67,53
+0021900038,2019-10-27,DAL,POR,22.1,2,1,54,DAL,DAL,fg3_miss,1,False,False,MISS Brunson 25' 3PT Jump Shot,,67-53,67,53
+0021900038,2019-10-27,DAL,POR,22.15,2,1,51,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:2),67-53,67,53
+0021900038,2019-10-27,DAL,POR,22.38,2,1,37,POR,POR,fg_make,79,False,False,,Hezonja 21' Pullup Jump Shot (2 PTS) (Collins 1 AST),67-55,67,55
+0021900038,2019-10-27,DAL,POR,22.62,2,1,23,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 25' 3PT Jump Shot,,67-55,67,55
+0021900038,2019-10-27,DAL,POR,22.65,2,1,21,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:3),67-55,67,55
+0021900038,2019-10-27,DAL,POR,22.73,2,1,16,POR,POR,tov,45,False,False,,Hood Out of Bounds - Bad Pass Turnover Turnover (P1.T6),67-55,67,55
+0021900038,2019-10-27,DAL,POR,22.93,2,1,4,DAL,DAL,fg_make,101,False,False,Porzingis 16' Driving Floating Jump Shot (18 PTS) (Doncic 6 AST),,69-55,69,55
+0021900038,2019-10-27,DAL,POR,23.18,2,0,49,POR,DAL,foul,1,False,False,Porzingis P.FOUL (P2.PN) (C.Kirkland),,69-55,69,55
+0021900038,2019-10-27,DAL,POR,23.18,2,0,49,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (23 PTS),69-56,69,56
+0021900038,2019-10-27,DAL,POR,23.18,2,0,49,POR,POR,ft_make,12,False,False,,McCollum Free Throw 2 of 2 (24 PTS),69-57,69,57
+0021900038,2019-10-27,DAL,POR,23.53,2,0,28,DAL,DAL,tov,2,False,True,Doncic Lost Ball Turnover (P2.T6),,69-57,69,57
+0021900038,2019-10-27,DAL,POR,23.53,2,0,28,DAL,POR,steal,2,False,True,steal,steal,69-57,69,57
+0021900038,2019-10-27,DAL,POR,23.57,2,0,26,POR,POR,fg_make,50,False,False,,Hood 2' Running Dunk (16 PTS) (Lillard 3 AST),69-59,69,59
+0021900038,2019-10-27,DAL,POR,23.92,2,0,5,DAL,POR,foul,1,False,False,,Lillard P.FOUL (P2.T2) (C.Kirkland),69-59,69,59
+0021900038,2019-10-27,DAL,POR,23.98,2,0,1,DAL,DAL,fg_make,6,False,False,Doncic 6' Driving Layup (14 PTS) (Porzingis 3 AST),,71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.0,2,0,0,DAL,,period_end,0,False,False,,,71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.0,3,12,0,DAL,,period_start,0,False,False,,,71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.28,3,11,43,POR,POR,tov,1,False,True,,Collins Bad Pass Turnover (P1.T7),71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.28,3,11,43,POR,DAL,steal,1,False,True,steal,steal,71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.32,3,11,41,DAL,DAL,tov,45,False,False,Doncic Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.6,3,11,24,POR,POR,tov,45,False,False,,Whiteside Out of Bounds - Bad Pass Turnover Turnover (P2.T8),71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.87,3,11,8,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 25' 3PT Jump Shot,,71-59,71,59
+0021900038,2019-10-27,DAL,POR,24.93,3,11,4,POR,POR,reb,0,False,False,,Collins REBOUND (Off:0 Def:3),71-59,71,59
+0021900038,2019-10-27,DAL,POR,25.05,3,10,57,POR,POR,fg_make,80,False,False,,Lillard 20' Step Back Jump Shot (4 PTS),71-61,71,61
+0021900038,2019-10-27,DAL,POR,25.28,3,10,43,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 26' 3PT Jump Shot,,71-61,71,61
+0021900038,2019-10-27,DAL,POR,25.32,3,10,41,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:3),71-61,71,61
+0021900038,2019-10-27,DAL,POR,25.42,3,10,35,POR,POR,fg3_make,79,False,False,,Lillard 25' 3PT Pullup Jump Shot (7 PTS),71-64,71,64
+0021900038,2019-10-27,DAL,POR,25.75,3,10,15,DAL,DAL,fg3_make,1,False,False,Doncic 27' 3PT Jump Shot (17 PTS) (Porzingis 4 AST),,74-64,74,64
+0021900038,2019-10-27,DAL,POR,25.98,3,10,1,DAL,POR,foul,4,False,False,,Collins OFF.Foul (P2) (B.Barnaky),74-64,74,64
+0021900038,2019-10-27,DAL,POR,25.98,3,10,1,POR,POR,tov,37,False,False,,Collins Offensive Foul Turnover (P2.T9),74-64,74,64
+0021900038,2019-10-27,DAL,POR,26.22,3,9,47,DAL,DAL,fg_miss,86,False,False,MISS Porzingis 13' Turnaround Fadeaway Shot,,74-64,74,64
+0021900038,2019-10-27,DAL,POR,26.27,3,9,44,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:4),74-64,74,64
+0021900038,2019-10-27,DAL,POR,26.32,3,9,41,POR,DAL,foul,2,False,False,Brunson S.FOUL (P1.T1) (C.Kirkland),,74-64,74,64
+0021900038,2019-10-27,DAL,POR,26.32,3,9,41,POR,POR,ft_make,13,False,False,,Lillard Free Throw 1 of 3 (8 PTS),74-65,74,65
+0021900038,2019-10-27,DAL,POR,26.32,3,9,41,POR,POR,ft_make,14,False,False,,Lillard Free Throw 2 of 3 (9 PTS),74-66,74,66
+0021900038,2019-10-27,DAL,POR,26.32,3,9,41,POR,POR,ft_make,15,False,False,,Lillard Free Throw 3 of 3 (10 PTS),74-67,74,67
+0021900038,2019-10-27,DAL,POR,26.5,3,9,30,DAL,DAL,fg_miss,6,True,False,MISS Porzingis 5' Driving Layup,,74-67,74,67
+0021900038,2019-10-27,DAL,POR,26.5,3,9,30,DAL,POR,block,6,True,False,block,block,74-67,74,67
+0021900038,2019-10-27,DAL,POR,26.5,3,9,30,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,74-67,74,67
+0021900038,2019-10-27,DAL,POR,26.53,3,9,28,DAL,DAL,fg_make,1,False,False,Porzingis 16' Jump Shot (20 PTS) (Doncic 7 AST),,76-67,76,67
+0021900038,2019-10-27,DAL,POR,26.7,3,9,18,POR,POR,fg_make,75,False,False,,Lillard 3' Driving Finger Roll Layup (12 PTS),76-69,76,69
+0021900038,2019-10-27,DAL,POR,27.07,3,8,56,DAL,POR,foul,2,False,False,,Collins S.FOUL (P3.T1) (B.Barnaky),76-69,76,69
+0021900038,2019-10-27,DAL,POR,27.07,3,8,56,DAL,DAL,ft_make,13,False,False,Doncic Free Throw 1 of 3 (18 PTS),,77-69,77,69
+0021900038,2019-10-27,DAL,POR,27.07,3,8,56,DAL,DAL,ft_make,14,False,False,Doncic Free Throw 2 of 3 (19 PTS),,78-69,78,69
+0021900038,2019-10-27,DAL,POR,27.07,3,8,56,DAL,DAL,ft_make,15,False,False,Doncic Free Throw 3 of 3 (20 PTS),,79-69,79,69
+0021900038,2019-10-27,DAL,POR,27.32,3,8,41,POR,POR,fg_make,108,False,False,,Collins 2' Cutting Dunk Shot (10 PTS) (McCollum 2 AST),79-71,79,71
+0021900038,2019-10-27,DAL,POR,27.58,3,8,25,DAL,DAL,fg_miss,101,False,False,MISS Brunson 6' Driving Floating Jump Shot,,79-71,79,71
+0021900038,2019-10-27,DAL,POR,27.62,3,8,23,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:5),79-71,79,71
+0021900038,2019-10-27,DAL,POR,27.67,3,8,20,POR,DAL,foul,1,False,False,Doncic P.FOUL (P2.T2) (B.Barnaky),,79-71,79,71
+0021900038,2019-10-27,DAL,POR,27.82,3,8,11,POR,POR,fg_miss,52,False,False,,MISS Whiteside 2' Alley Oop Dunk,79-71,79,71
+0021900038,2019-10-27,DAL,POR,27.85,3,8,9,DAL,DAL,reb,0,False,False,Wright REBOUND (Off:0 Def:2),,79-71,79,71
+0021900038,2019-10-27,DAL,POR,27.87,3,8,8,DAL,DAL,fg3_miss,1,False,False,MISS Brunson 25' 3PT Jump Shot,,79-71,79,71
+0021900038,2019-10-27,DAL,POR,27.9,3,8,6,POR,POR,reb,0,False,False,,Trail Blazers Rebound,79-71,79,71
+0021900038,2019-10-27,DAL,POR,28.22,3,7,47,POR,POR,fg_make,79,False,False,,Hood 19' Pullup Jump Shot (18 PTS),79-73,79,73
+0021900038,2019-10-27,DAL,POR,28.52,3,7,29,DAL,DAL,fg_make,75,False,False,Wright 2' Driving Finger Roll Layup (5 PTS),,81-73,81,73
+0021900038,2019-10-27,DAL,POR,28.77,3,7,14,POR,POR,fg_make,79,False,False,,McCollum 17' Pullup Jump Shot (26 PTS),81-75,81,75
+0021900038,2019-10-27,DAL,POR,29.0,3,7,0,DAL,DAL,fg3_make,1,False,False,Wright 3PT Jump Shot (8 PTS) (Kleber 1 AST),,84-75,84,75
+0021900038,2019-10-27,DAL,POR,29.2,3,6,48,POR,POR,fg_make,6,False,False,,Lillard 2' Driving Layup (14 PTS),84-77,84,77
+0021900038,2019-10-27,DAL,POR,29.35,3,6,39,DAL,DAL,fg_miss,6,False,False,MISS Brunson 3' Driving Layup,,84-77,84,77
+0021900038,2019-10-27,DAL,POR,29.38,3,6,37,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:6),84-77,84,77
+0021900038,2019-10-27,DAL,POR,29.45,3,6,33,POR,POR,tov,4,False,False,,Hood Traveling Turnover (P2.T10),84-77,84,77
+0021900038,2019-10-27,DAL,POR,29.45,3,6,33,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 5 Short 0),,84-77,84,77
+0021900038,2019-10-27,DAL,POR,29.68,3,6,19,DAL,DAL,fg3_make,1,False,False,Doncic 26' 3PT Jump Shot (23 PTS) (Kleber 2 AST),,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.02,3,5,59,POR,POR,tov,2,False,True,,McCollum Lost Ball Turnover (P1.T11),87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.02,3,5,59,POR,DAL,steal,2,False,True,steal,steal,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.13,3,5,52,DAL,POR,foul,1,False,False,,McCollum P.FOUL (P2.T2) (D.Richardson),87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.2,3,5,48,DAL,DAL,fg3_miss,1,False,False,MISS Hardaway Jr. 26' 3PT Jump Shot,,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.25,3,5,45,POR,POR,reb,0,False,False,,Hood REBOUND (Off:0 Def:3),87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.38,3,5,37,POR,POR,fg_miss,79,False,False,,MISS Hood 12' Pullup Jump Shot,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.42,3,5,35,POR,POR,reb,0,False,False,,Hood REBOUND (Off:1 Def:3),87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.47,3,5,32,POR,POR,fg_miss,97,False,False,,MISS Hood 1' Tip Layup Shot,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.52,3,5,29,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:6),87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.52,3,5,29,POR,POR,fg_miss,97,False,False,,MISS Whiteside 1' Tip Layup Shot,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.52,3,5,29,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:7),,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.55,3,5,27,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 25' 3PT Step Back Jump Shot,,87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.6,3,5,24,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:7),87-77,87,77
+0021900038,2019-10-27,DAL,POR,30.8,3,5,12,POR,POR,fg_make,6,False,False,,Lillard 1' Driving Layup (16 PTS),87-79,87,79
+0021900038,2019-10-27,DAL,POR,31.05,3,4,57,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 25' 3PT Jump Shot,,87-79,87,79
+0021900038,2019-10-27,DAL,POR,31.05,3,4,57,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:2),87-79,87,79
+0021900038,2019-10-27,DAL,POR,31.25,3,4,45,POR,DAL,foul,2,False,False,Hardaway Jr. S.FOUL (P1.T3) (B.Barnaky),,87-79,87,79
+0021900038,2019-10-27,DAL,POR,31.25,3,4,45,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (27 PTS),87-80,87,80
+0021900038,2019-10-27,DAL,POR,31.25,3,4,45,POR,POR,ft_make,12,False,False,,McCollum Free Throw 2 of 2 (28 PTS),87-81,87,81
+0021900038,2019-10-27,DAL,POR,31.35,3,4,39,POR,DAL,foul,4,False,False,Kleber OFF.Foul (P3) (D.Richardson),,87-81,87,81
+0021900038,2019-10-27,DAL,POR,31.35,3,4,39,DAL,DAL,tov,37,False,False,Kleber Offensive Foul Turnover (P1.T8),,87-81,87,81
+0021900038,2019-10-27,DAL,POR,31.68,3,4,19,POR,POR,fg_make,47,False,False,,Hood 11' Turnaround Jump Shot (20 PTS),87-83,87,83
+0021900038,2019-10-27,DAL,POR,31.93,3,4,4,DAL,DAL,fg_miss,6,False,False,MISS Doncic 3' Driving Layup,,87-83,87,83
+0021900038,2019-10-27,DAL,POR,31.95,3,4,3,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:2 Def:2),,87-83,87,83
+0021900038,2019-10-27,DAL,POR,31.97,3,4,2,DAL,DAL,fg_miss,97,False,False,MISS Kleber 1' Tip Layup Shot,,87-83,87,83
+0021900038,2019-10-27,DAL,POR,31.98,3,4,1,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:7),,87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.0,3,4,0,DAL,DAL,fg_miss,97,False,False,MISS Doncic 1' Tip Layup Shot,,87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.02,3,3,59,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:8),87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.1,3,3,54,POR,POR,fg_miss,41,False,False,,MISS McCollum 3' Running Layup,87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.12,3,3,53,POR,POR,reb,0,False,False,,Hood REBOUND (Off:2 Def:3),87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.15,3,3,51,POR,POR,fg3_miss,1,False,False,,MISS McCollum 24' 3PT Jump Shot,87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.22,3,3,47,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:2 Def:3),,87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.28,3,3,43,DAL,POR,foul,2,False,False,,Whiteside S.FOUL (P3.T3) (B.Barnaky),87-83,87,83
+0021900038,2019-10-27,DAL,POR,32.28,3,3,43,DAL,DAL,ft_make,11,False,False,Jackson Free Throw 1 of 2 (3 PTS),,88-83,88,83
+0021900038,2019-10-27,DAL,POR,32.28,3,3,43,DAL,DAL,ft_miss,12,False,False,MISS Jackson Free Throw 2 of 2,,88-83,88,83
+0021900038,2019-10-27,DAL,POR,32.32,3,3,41,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:9),88-83,88,83
+0021900038,2019-10-27,DAL,POR,32.5,3,3,30,POR,POR,fg_make,79,False,False,,Bazemore 18' Pullup Jump Shot (4 PTS),88-85,88,85
+0021900038,2019-10-27,DAL,POR,32.73,3,3,16,DAL,POR,foul,1,False,False,,Hezonja P.FOUL (P1.T4) (C.Kirkland),88-85,88,85
+0021900038,2019-10-27,DAL,POR,32.77,3,3,14,DAL,POR,foul,1,False,False,,Simons P.FOUL (P1.PN) (D.Richardson),88-85,88,85
+0021900038,2019-10-27,DAL,POR,32.77,3,3,14,DAL,DAL,ft_make,11,False,False,Hardaway Jr. Free Throw 1 of 2 (9 PTS),,89-85,89,85
+0021900038,2019-10-27,DAL,POR,32.77,3,3,14,DAL,DAL,ft_make,12,False,False,Hardaway Jr. Free Throw 2 of 2 (10 PTS),,90-85,90,85
+0021900038,2019-10-27,DAL,POR,32.92,3,3,5,POR,POR,fg_make,6,False,False,,Bazemore 6' Driving Layup (6 PTS),90-87,90,87
+0021900038,2019-10-27,DAL,POR,32.92,3,3,5,POR,DAL,foul,2,False,False,Kleber S.FOUL (P4.T4) (D.Richardson),,90-87,90,87
+0021900038,2019-10-27,DAL,POR,32.92,3,3,5,POR,POR,ft_make,10,False,False,,Bazemore Free Throw 1 of 1 (7 PTS),90-88,90,88
+0021900038,2019-10-27,DAL,POR,33.05,3,2,57,DAL,POR,foul,2,False,False,,Hezonja S.FOUL (P2.PN) (D.Richardson),90-88,90,88
+0021900038,2019-10-27,DAL,POR,33.05,3,2,57,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),90-88,90,88
+0021900038,2019-10-27,DAL,POR,33.05,3,2,57,DAL,DAL,ft_miss,11,False,False,MISS Doncic Free Throw 1 of 2,,90-88,90,88
+0021900038,2019-10-27,DAL,POR,33.05,3,2,57,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,90-88,90,88
+0021900038,2019-10-27,DAL,POR,33.05,3,2,57,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (24 PTS),,91-88,91,88
+0021900038,2019-10-27,DAL,POR,33.33,3,2,40,POR,POR,fg_miss,73,False,False,,MISS Hezonja 2' Driving Reverse Layup,91-88,91,88
+0021900038,2019-10-27,DAL,POR,33.37,3,2,38,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:8),,91-88,91,88
+0021900038,2019-10-27,DAL,POR,33.65,3,2,21,DAL,DAL,fg_miss,47,False,False,MISS Porzingis 12' Turnaround Jump Shot,,91-88,91,88
+0021900038,2019-10-27,DAL,POR,33.68,3,2,19,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:3),91-88,91,88
+0021900038,2019-10-27,DAL,POR,33.77,3,2,14,POR,DAL,foul,1,False,False,Jackson P.FOUL (P1.PN) (C.Kirkland),,91-88,91,88
+0021900038,2019-10-27,DAL,POR,33.77,3,2,14,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (17 PTS),91-89,91,89
+0021900038,2019-10-27,DAL,POR,33.77,3,2,14,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (18 PTS),91-90,91,90
+0021900038,2019-10-27,DAL,POR,33.97,3,2,2,DAL,DAL,fg3_miss,1,False,False,MISS Jackson 3PT Jump Shot,,91-90,91,90
+0021900038,2019-10-27,DAL,POR,33.98,3,2,1,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,91-90,91,90
+0021900038,2019-10-27,DAL,POR,33.98,3,2,1,DAL,POR,foul,3,False,False,,Collins L.B.FOUL (P4.PN) (C.Kirkland),91-90,91,90
+0021900038,2019-10-27,DAL,POR,33.98,3,2,1,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (25 PTS),,92-90,92,90
+0021900038,2019-10-27,DAL,POR,33.98,3,2,1,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (26 PTS),,93-90,93,90
+0021900038,2019-10-27,DAL,POR,34.28,3,1,43,POR,POR,fg_make,6,False,False,,Lillard 3' Driving Layup (20 PTS),93-92,93,92
+0021900038,2019-10-27,DAL,POR,34.52,3,1,29,DAL,DAL,fg_make,52,False,False,Porzingis 2' Alley Oop Dunk (22 PTS) (Doncic 8 AST),,95-92,95,92
+0021900038,2019-10-27,DAL,POR,34.73,3,1,16,POR,POR,fg3_miss,1,False,False,,MISS Lillard 24' 3PT Jump Shot,95-92,95,92
+0021900038,2019-10-27,DAL,POR,34.78,3,1,13,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:3),,95-92,95,92
+0021900038,2019-10-27,DAL,POR,34.95,3,1,3,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 27' 3PT Jump Shot,,95-92,95,92
+0021900038,2019-10-27,DAL,POR,35.02,3,0,59,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:4),95-92,95,92
+0021900038,2019-10-27,DAL,POR,35.1,3,0,54,POR,POR,fg_miss,41,True,False,,MISS Hezonja 1' Running Layup,95-92,95,92
+0021900038,2019-10-27,DAL,POR,35.1,3,0,54,POR,DAL,block,41,True,False,block,block,95-92,95,92
+0021900038,2019-10-27,DAL,POR,35.13,3,0,52,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:1 Def:4),95-92,95,92
+0021900038,2019-10-27,DAL,POR,35.13,3,0,52,POR,POR,fg_miss,72,False,False,,MISS Hezonja 1' Putback Layup,95-92,95,92
+0021900038,2019-10-27,DAL,POR,35.2,3,0,48,POR,POR,reb,0,False,False,,Labissiere REBOUND (Off:1 Def:0),95-92,95,92
+0021900038,2019-10-27,DAL,POR,35.2,3,0,48,POR,POR,fg_make,97,False,False,,Labissiere 1' Tip Layup Shot (2 PTS),95-94,95,94
+0021900038,2019-10-27,DAL,POR,35.53,3,0,28,DAL,DAL,fg_miss,101,False,False,MISS Doncic 9' Driving Floating Jump Shot,,95-94,95,94
+0021900038,2019-10-27,DAL,POR,35.57,3,0,26,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:3),95-94,95,94
+0021900038,2019-10-27,DAL,POR,35.88,3,0,7,POR,DAL,foul,2,False,False,Finney-Smith S.FOUL (P3.PN) (D.Richardson),,95-94,95,94
+0021900038,2019-10-27,DAL,POR,35.88,3,0,7,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (21 PTS),95-95,95,95
+0021900038,2019-10-27,DAL,POR,35.88,3,0,7,POR,POR,ft_miss,12,False,False,,MISS Lillard Free Throw 2 of 2,95-95,95,95
+0021900038,2019-10-27,DAL,POR,35.97,3,0,2,POR,POR,reb,0,False,False,,Labissiere REBOUND (Off:2 Def:0),95-95,95,95
+0021900038,2019-10-27,DAL,POR,35.97,3,0,2,POR,POR,fg_miss,97,False,False,,MISS Labissiere 1' Tip Layup Shot,95-95,95,95
+0021900038,2019-10-27,DAL,POR,35.98,3,0,1,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:4),,95-95,95,95
+0021900038,2019-10-27,DAL,POR,35.98,3,0,1,DAL,DAL,tov,45,False,False,Finney-Smith Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,95-95,95,95
+0021900038,2019-10-27,DAL,POR,36.0,3,0,0,DAL,,period_end,0,False,False,,,95-95,95,95
+0021900038,2019-10-27,DAL,POR,36.0,4,12,0,DAL,,period_start,0,False,False,,,95-95,95,95
+0021900038,2019-10-27,DAL,POR,36.25,4,11,45,DAL,POR,foul,2,False,False,,Labissiere S.FOUL (P1.T1) (D.Richardson),95-95,95,95
+0021900038,2019-10-27,DAL,POR,36.25,4,11,45,DAL,DAL,ft_make,11,False,False,Porzingis Free Throw 1 of 2 (23 PTS),,96-95,96,95
+0021900038,2019-10-27,DAL,POR,36.25,4,11,45,DAL,DAL,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (24 PTS),,97-95,97,95
+0021900038,2019-10-27,DAL,POR,36.6,4,11,24,POR,POR,fg_miss,79,False,False,,MISS McCollum 15' Pullup Jump Shot,97-95,97,95
+0021900038,2019-10-27,DAL,POR,36.63,4,11,22,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:2 Def:5),,97-95,97,95
+0021900038,2019-10-27,DAL,POR,36.73,4,11,16,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,97-95,97,95
+0021900038,2019-10-27,DAL,POR,36.8,4,11,12,POR,POR,reb,0,False,False,,Labissiere REBOUND (Off:2 Def:1),97-95,97,95
+0021900038,2019-10-27,DAL,POR,36.88,4,11,7,POR,POR,fg3_make,1,False,False,,Bazemore 3PT Jump Shot (10 PTS) (McCollum 3 AST),97-98,97,98
+0021900038,2019-10-27,DAL,POR,37.23,4,10,46,DAL,DAL,fg_miss,6,False,False,MISS Jackson 2' Driving Layup,,97-98,97,98
+0021900038,2019-10-27,DAL,POR,37.27,4,10,44,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:2 Def:2),,97-98,97,98
+0021900038,2019-10-27,DAL,POR,37.32,4,10,41,DAL,DAL,fg_miss,97,False,False,MISS Jackson 1' Tip Layup Shot,,97-98,97,98
+0021900038,2019-10-27,DAL,POR,37.37,4,10,38,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:3 Def:5),,97-98,97,98
+0021900038,2019-10-27,DAL,POR,37.37,4,10,38,DAL,DAL,fg_make,107,False,False,Porzingis 1' Tip Dunk Shot (26 PTS),,99-98,99,98
+0021900038,2019-10-27,DAL,POR,37.43,4,10,34,POR,POR,fg_miss,79,False,False,,MISS Bazemore 19' Pullup Jump Shot,99-98,99,98
+0021900038,2019-10-27,DAL,POR,37.48,4,10,31,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:2 Def:3),,99-98,99,98
+0021900038,2019-10-27,DAL,POR,37.62,4,10,23,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 27' 3PT Jump Shot,,99-98,99,98
+0021900038,2019-10-27,DAL,POR,37.62,4,10,23,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:1 Def:5),99-98,99,98
+0021900038,2019-10-27,DAL,POR,37.8,4,10,12,POR,POR,fg_make,98,False,False,,Labissiere 3' Cutting Layup Shot (4 PTS) (McCollum 4 AST),99-100,99,100
+0021900038,2019-10-27,DAL,POR,38.12,4,9,53,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,99-100,99,100
+0021900038,2019-10-27,DAL,POR,38.12,4,9,53,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:1 Def:6),99-100,99,100
+0021900038,2019-10-27,DAL,POR,38.28,4,9,43,POR,POR,fg_miss,79,False,False,,MISS McCollum 16' Pullup Jump Shot,99-100,99,100
+0021900038,2019-10-27,DAL,POR,38.3,4,9,42,POR,POR,reb,0,False,False,,Trail Blazers Rebound,99-100,99,100
+0021900038,2019-10-27,DAL,POR,38.3,4,9,42,POR,DAL,foul,3,False,False,Porzingis L.B.FOUL (P3.T1) (C.Kirkland),,99-100,99,100
+0021900038,2019-10-27,DAL,POR,38.42,4,9,35,POR,POR,fg3_make,1,False,False,,McCollum 25' 3PT Jump Shot (31 PTS) (Lillard 4 AST),99-103,99,103
+0021900038,2019-10-27,DAL,POR,38.45,4,9,33,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 6 Short 0),,99-103,99,103
+0021900038,2019-10-27,DAL,POR,38.63,4,9,22,DAL,POR,foul,2,False,False,,Labissiere S.FOUL (P2.T2) (C.Kirkland),99-103,99,103
+0021900038,2019-10-27,DAL,POR,38.63,4,9,22,DAL,DAL,ft_make,11,False,False,Hardaway Jr. Free Throw 1 of 2 (11 PTS),,100-103,100,103
+0021900038,2019-10-27,DAL,POR,38.63,4,9,22,DAL,DAL,ft_miss,12,False,False,MISS Hardaway Jr. Free Throw 2 of 2,,100-103,100,103
+0021900038,2019-10-27,DAL,POR,38.68,4,9,19,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:1 Def:7),100-103,100,103
+0021900038,2019-10-27,DAL,POR,38.77,4,9,14,POR,POR,fg_make,6,False,False,,Hezonja 3' Driving Layup (4 PTS) (Lillard 5 AST),100-105,100,105
+0021900038,2019-10-27,DAL,POR,38.97,4,9,2,DAL,POR,foul,1,False,False,,Bazemore P.FOUL (P3.T3) (C.Kirkland),100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.0,4,9,0,POR,DAL,foul,26,False,False,Hardaway Jr. Offensive Charge Foul (P2.T2) (D.Richardson),,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.0,4,9,0,DAL,DAL,tov,37,False,False,Hardaway Jr. Offensive Foul Turnover (P2.T10),,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.22,4,8,47,POR,POR,fg3_miss,1,False,False,,MISS Lillard 25' 3PT Jump Shot,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.27,4,8,44,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:2),,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.42,4,8,35,DAL,DAL,fg3_miss,1,False,False,MISS Brunson 26' 3PT Jump Shot,,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.47,4,8,32,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:2 Def:4),,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.55,4,8,27,DAL,POR,foul,2,False,False,,Hezonja S.FOUL (P3.T4) (B.Barnaky),100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.55,4,8,27,DAL,DAL,ft_miss,11,False,False,MISS Doncic Free Throw 1 of 2,,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.55,4,8,27,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,100-105,100,105
+0021900038,2019-10-27,DAL,POR,39.55,4,8,27,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (27 PTS),,101-105,101,105
+0021900038,2019-10-27,DAL,POR,39.87,4,8,8,POR,POR,tov,8,False,False,,Whiteside 3 Second Violation Turnover (P3.T12),101-105,101,105
+0021900038,2019-10-27,DAL,POR,40.03,4,7,58,DAL,DAL,fg3_miss,79,False,False,MISS Curry 26' 3PT Pullup Jump Shot,,101-105,101,105
+0021900038,2019-10-27,DAL,POR,40.12,4,7,53,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:10),101-105,101,105
+0021900038,2019-10-27,DAL,POR,40.28,4,7,43,POR,POR,fg_make,73,False,False,,Lillard 3' Driving Reverse Layup (23 PTS),101-107,101,107
+0021900038,2019-10-27,DAL,POR,40.43,4,7,34,DAL,POR,foul,1,False,False,,Bazemore P.FOUL (P4.PN) (D.Richardson),101-107,101,107
+0021900038,2019-10-27,DAL,POR,40.43,4,7,34,DAL,DAL,ft_make,11,False,False,Curry Free Throw 1 of 2 (4 PTS),,102-107,102,107
+0021900038,2019-10-27,DAL,POR,40.43,4,7,34,DAL,DAL,ft_make,12,False,False,Curry Free Throw 2 of 2 (5 PTS),,103-107,103,107
+0021900038,2019-10-27,DAL,POR,40.58,4,7,25,POR,POR,fg3_miss,79,False,False,,MISS Lillard 27' 3PT Pullup Jump Shot,103-107,103,107
+0021900038,2019-10-27,DAL,POR,40.62,4,7,23,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:9),,103-107,103,107
+0021900038,2019-10-27,DAL,POR,40.7,4,7,18,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 25' 3PT Jump Shot,,103-107,103,107
+0021900038,2019-10-27,DAL,POR,40.72,4,7,17,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:3 Def:4),,103-107,103,107
+0021900038,2019-10-27,DAL,POR,40.72,4,7,17,DAL,POR,foul,2,False,False,,Lillard S.FOUL (P3.PN) (C.Kirkland),103-107,103,107
+0021900038,2019-10-27,DAL,POR,40.72,4,7,17,DAL,DAL,ft_make,11,False,False,Finney-Smith Free Throw 1 of 2 (6 PTS),,104-107,104,107
+0021900038,2019-10-27,DAL,POR,40.72,4,7,17,DAL,DAL,ft_miss,12,False,False,MISS Finney-Smith Free Throw 2 of 2,,104-107,104,107
+0021900038,2019-10-27,DAL,POR,40.77,4,7,14,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:4),104-107,104,107
+0021900038,2019-10-27,DAL,POR,40.93,4,7,4,POR,POR,fg_miss,79,False,False,,MISS McCollum 18' Pullup Jump Shot,104-107,104,107
+0021900038,2019-10-27,DAL,POR,40.98,4,7,1,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:2 Def:4),,104-107,104,107
+0021900038,2019-10-27,DAL,POR,41.12,4,6,53,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P4.T11),,104-107,104,107
+0021900038,2019-10-27,DAL,POR,41.12,4,6,53,DAL,POR,steal,1,False,True,steal,steal,104-107,104,107
+0021900038,2019-10-27,DAL,POR,41.22,4,6,47,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P2.T13),104-107,104,107
+0021900038,2019-10-27,DAL,POR,41.22,4,6,47,POR,DAL,steal,1,False,True,steal,steal,104-107,104,107
+0021900038,2019-10-27,DAL,POR,41.32,4,6,41,DAL,DAL,fg3_make,1,False,False,Curry 26' 3PT Jump Shot (8 PTS) (Brunson 2 AST),,107-107,107,107
+0021900038,2019-10-27,DAL,POR,41.32,4,6,41,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),107-107,107,107
+0021900038,2019-10-27,DAL,POR,41.67,4,6,20,POR,POR,tov,40,False,False,,Bazemore Out of Bounds Lost Ball Turnover (P2.T14),107-107,107,107
+0021900038,2019-10-27,DAL,POR,41.85,4,6,9,DAL,DAL,fg_make,44,False,False,Doncic 2' Reverse Layup (29 PTS) (Kleber 3 AST),,109-107,109,107
+0021900038,2019-10-27,DAL,POR,41.85,4,6,9,DAL,POR,foul,2,False,False,,Whiteside S.FOUL (P4.PN) (B.Barnaky),109-107,109,107
+0021900038,2019-10-27,DAL,POR,41.85,4,6,9,DAL,DAL,ft_miss,10,False,False,MISS Doncic Free Throw 1 of 1,,109-107,109,107
+0021900038,2019-10-27,DAL,POR,41.88,4,6,7,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:11),109-107,109,107
+0021900038,2019-10-27,DAL,POR,42.02,4,5,59,POR,POR,fg_make,79,False,False,,McCollum 17' Pullup Jump Shot (33 PTS),109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.33,4,5,40,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 26' 3PT Jump Shot,,109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.38,4,5,37,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:6),109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.48,4,5,31,DAL,POR,foul,4,False,False,,McCollum OFF.Foul (P3) (C.Kirkland),109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.48,4,5,31,POR,POR,tov,37,False,False,,McCollum Offensive Foul Turnover (P2.T15),109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.72,4,5,17,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 25' 3PT Step Back Jump Shot,,109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.75,4,5,15,POR,POR,reb,0,False,False,,Hood REBOUND (Off:2 Def:4),109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.87,4,5,8,POR,DAL,foul,2,False,False,Doncic S.FOUL (P3.T3) (B.Barnaky),,109-109,109,109
+0021900038,2019-10-27,DAL,POR,42.87,4,5,8,POR,POR,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (3 PTS),109-110,109,110
+0021900038,2019-10-27,DAL,POR,42.87,4,5,8,POR,POR,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (4 PTS),109-111,109,111
+0021900038,2019-10-27,DAL,POR,43.15,4,4,51,DAL,DAL,fg_make,80,False,False,Curry 18' Step Back Jump Shot (10 PTS) (Porzingis 5 AST),,111-111,111,111
+0021900038,2019-10-27,DAL,POR,43.52,4,4,29,POR,POR,fg_make,57,False,False,,Lillard 3' Driving Hook Shot (25 PTS),111-113,111,113
+0021900038,2019-10-27,DAL,POR,43.95,4,4,3,DAL,DAL,fg_make,80,False,False,Curry 12' Step Back Jump Shot (12 PTS),,113-113,113,113
+0021900038,2019-10-27,DAL,POR,44.23,4,3,46,POR,DAL,foul,1,False,False,Doncic P.FOUL (P4.T4) (C.Kirkland),,113-113,113,113
+0021900038,2019-10-27,DAL,POR,44.42,4,3,35,POR,DAL,foul,2,False,False,Porzingis S.FOUL (P4.PN) (B.Barnaky),,113-113,113,113
+0021900038,2019-10-27,DAL,POR,44.42,4,3,35,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (26 PTS),113-114,113,114
+0021900038,2019-10-27,DAL,POR,44.42,4,3,35,POR,POR,ft_miss,12,False,False,,MISS Lillard Free Throw 2 of 2,113-114,113,114
+0021900038,2019-10-27,DAL,POR,44.45,4,3,33,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:10),,113-114,113,114
+0021900038,2019-10-27,DAL,POR,44.65,4,3,21,DAL,DAL,fg_make,108,False,False,Porzingis Cutting Dunk Shot (28 PTS) (Doncic 9 AST),,115-114,115,114
+0021900038,2019-10-27,DAL,POR,44.65,4,3,21,DAL,POR,foul,2,False,False,,Whiteside S.FOUL (P5.PN) (B.Barnaky),115-114,115,114
+0021900038,2019-10-27,DAL,POR,44.65,4,3,21,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.5 Short 0),115-114,115,114
+0021900038,2019-10-27,DAL,POR,44.65,4,3,21,DAL,DAL,ft_miss,10,False,False,MISS Porzingis Free Throw 1 of 1,,115-114,115,114
+0021900038,2019-10-27,DAL,POR,44.7,4,3,18,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:5),115-114,115,114
+0021900038,2019-10-27,DAL,POR,44.88,4,3,7,POR,POR,fg_miss,79,False,False,,MISS McCollum 15' Pullup Jump Shot,115-114,115,114
+0021900038,2019-10-27,DAL,POR,44.95,4,3,3,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:11),115-114,115,114
+0021900038,2019-10-27,DAL,POR,44.97,4,3,2,POR,POR,fg_make,107,False,False,,Whiteside 1' Tip Dunk Shot (6 PTS),115-116,115,116
+0021900038,2019-10-27,DAL,POR,45.32,4,2,41,DAL,DAL,fg3_miss,1,False,False,MISS Curry 3PT Jump Shot,,115-116,115,116
+0021900038,2019-10-27,DAL,POR,45.37,4,2,38,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:12),115-116,115,116
+0021900038,2019-10-27,DAL,POR,45.55,4,2,27,POR,POR,tov,45,False,False,,Bazemore Out of Bounds - Bad Pass Turnover Turnover (P3.T16),115-116,115,116
+0021900038,2019-10-27,DAL,POR,45.72,4,2,17,DAL,POR,foul,2,False,False,,Whiteside S.FOUL (P6.PN) (C.Kirkland),115-116,115,116
+0021900038,2019-10-27,DAL,POR,45.72,4,2,17,DAL,DAL,ft_make,11,False,False,Porzingis Free Throw 1 of 2 (29 PTS),,116-116,116,116
+0021900038,2019-10-27,DAL,POR,45.72,4,2,17,DAL,DAL,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (30 PTS),,117-116,117,116
+0021900038,2019-10-27,DAL,POR,46.0,4,2,0,POR,POR,fg_miss,101,False,False,,MISS Lillard 6' Driving Floating Jump Shot,117-116,117,116
+0021900038,2019-10-27,DAL,POR,46.03,4,1,58,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:3 Def:5),,117-116,117,116
+0021900038,2019-10-27,DAL,POR,46.22,4,1,47,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 26' 3PT Step Back Jump Shot,,117-116,117,116
+0021900038,2019-10-27,DAL,POR,46.25,4,1,45,POR,POR,reb,0,False,False,,Trail Blazers Rebound,117-116,117,116
+0021900038,2019-10-27,DAL,POR,46.5,4,1,30,POR,POR,fg_make,63,False,False,,McCollum 12' Fadeaway Jumper (35 PTS),117-118,117,118
+0021900038,2019-10-27,DAL,POR,46.73,4,1,16,DAL,POR,foul,2,False,False,,Hood S.FOUL (P3.PN) (D.Richardson),117-118,117,118
+0021900038,2019-10-27,DAL,POR,46.73,4,1,16,DAL,DAL,ft_make,11,False,False,Porzingis Free Throw 1 of 2 (31 PTS),,118-118,118,118
+0021900038,2019-10-27,DAL,POR,46.73,4,1,16,DAL,DAL,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (32 PTS),,119-118,119,118
+0021900038,2019-10-27,DAL,POR,47.02,4,0,59,POR,POR,fg_miss,86,False,False,,MISS McCollum 12' Turnaround Fadeaway Shot,119-118,119,118
+0021900038,2019-10-27,DAL,POR,47.05,4,0,57,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:3 Def:6),,119-118,119,118
+0021900038,2019-10-27,DAL,POR,47.38,4,0,37,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 51' 3PT Jump Shot,,119-118,119,118
+0021900038,2019-10-27,DAL,POR,47.42,4,0,35,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,119-118,119,118
+0021900038,2019-10-27,DAL,POR,47.42,4,0,35,DAL,DAL,tov,11,False,False,MAVERICKS Turnover: Shot Clock (T#12),,119-118,119,118
+0021900038,2019-10-27,DAL,POR,47.42,4,0,35,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.6 Short 0),119-118,119,118
+0021900038,2019-10-27,DAL,POR,47.57,4,0,26,POR,POR,fg_make,6,False,False,,Lillard 2' Driving Layup (28 PTS),119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.57,4,0,26,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 7 Short 0),,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.8,4,0,12,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 25' 3PT Step Back Jump Shot,,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.83,4,0,10,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:4 Def:5),,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.85,4,0,9,DAL,DAL,fg_miss,5,True,False,MISS Finney-Smith 3' Layup,,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.85,4,0,9,DAL,POR,block,5,True,False,block,block,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.85,4,0,9,POR,POR,reb,0,False,False,,Trail Blazers Rebound,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.92,4,0,5,,DAL,jump_ball,1,False,False,Jump Ball (CC) Porzingis vs. Hood: Tip to Bazemore,,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.92,4,0,5,POR,DAL,foul,28,False,False,Brunson Personal Take Foul (P2.PN) (D.Richardson),,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.92,4,0,5,POR,POR,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (11 PTS),119-121,119,121
+0021900038,2019-10-27,DAL,POR,47.92,4,0,5,POR,POR,ft_miss,12,False,False,,MISS Bazemore Free Throw 2 of 2,119-121,119,121
+0021900038,2019-10-27,DAL,POR,47.95,4,0,3,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:11),,119-121,119,121
+0021900038,2019-10-27,DAL,POR,48.0,4,0,0,DAL,DAL,fg3_miss,79,False,False,MISS Hardaway Jr. 30' 3PT Pullup Jump Shot,,119-121,119,121
+0021900038,2019-10-27,DAL,POR,48.0,4,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,119-121,119,121
+0021900038,2019-10-27,DAL,POR,48.0,4,0,0,DAL,,period_end,0,False,False,,,119-121,119,121

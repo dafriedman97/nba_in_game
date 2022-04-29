@@ -1,0 +1,532 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101073,2022-03-21,DET,POR,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101073,2022-03-21,DET,POR,0.0,1,12,0,,DET,jump_ball,0,False,False,Jump Ball Bagley III vs. Eubanks: Tip to Williams,,0-0,0,0
+0022101073,2022-03-21,DET,POR,0.22,1,11,47,POR,POR,tov,1,False,True,,Watford Bad Pass Turnover (P1.T1),0-0,0,0
+0022101073,2022-03-21,DET,POR,0.22,1,11,47,POR,DET,steal,1,False,True,steal,steal,0-0,0,0
+0022101073,2022-03-21,DET,POR,0.28,1,11,43,DET,DET,fg_make,41,False,False,Cunningham 3' Running Layup (2 PTS),,2-0,2,0
+0022101073,2022-03-21,DET,POR,0.67,1,11,20,POR,POR,fg_miss,98,False,False,,MISS Elleby 4' Cutting Layup Shot,2-0,2,0
+0022101073,2022-03-21,DET,POR,0.72,1,11,17,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:1 Def:0),2-0,2,0
+0022101073,2022-03-21,DET,POR,0.75,1,11,15,POR,POR,fg_make,72,False,False,,Elleby 1' Putback Layup (2 PTS),2-2,2,2
+0022101073,2022-03-21,DET,POR,1.03,1,10,58,DET,DET,fg_make,57,False,False,Bagley III 5' Driving Hook Shot (2 PTS),,4-2,4,2
+0022101073,2022-03-21,DET,POR,1.32,1,10,41,POR,POR,fg_make,6,False,False,,Winslow 5' Driving Layup (2 PTS),4-4,4,4
+0022101073,2022-03-21,DET,POR,1.52,1,10,29,DET,DET,fg3_miss,1,False,False,MISS Bey 26' 3PT Jump Shot,,4-4,4,4
+0022101073,2022-03-21,DET,POR,1.62,1,10,23,DET,DET,reb,0,False,False,Stewart REBOUND (Off:1 Def:0),,4-4,4,4
+0022101073,2022-03-21,DET,POR,1.62,1,10,23,DET,DET,fg_make,97,False,False,Stewart Tip Layup Shot (2 PTS),,6-4,6,4
+0022101073,2022-03-21,DET,POR,1.8,1,10,12,POR,POR,fg_miss,58,False,False,,MISS Eubanks 9' Turnaround Hook Shot,6-4,6,4
+0022101073,2022-03-21,DET,POR,1.83,1,10,10,DET,DET,reb,0,False,False,Hayes REBOUND (Off:0 Def:1),,6-4,6,4
+0022101073,2022-03-21,DET,POR,1.93,1,10,4,DET,DET,tov,2,False,True,Cunningham Lost Ball Turnover (P1.T1),,6-4,6,4
+0022101073,2022-03-21,DET,POR,1.93,1,10,4,DET,POR,steal,2,False,True,steal,steal,6-4,6,4
+0022101073,2022-03-21,DET,POR,1.98,1,10,1,POR,DET,foul,2,False,False,Hayes S.FOUL (P1.T1) (J.Sterling),,6-4,6,4
+0022101073,2022-03-21,DET,POR,1.98,1,10,1,POR,POR,ft_make,11,False,False,,Williams Free Throw 1 of 2 (1 PTS),6-5,6,5
+0022101073,2022-03-21,DET,POR,1.98,1,10,1,POR,POR,ft_make,12,False,False,,Williams Free Throw 2 of 2 (2 PTS),6-6,6,6
+0022101073,2022-03-21,DET,POR,2.33,1,9,40,DET,DET,fg_miss,1,True,False,MISS Hayes 10' Jump Shot,,6-6,6,6
+0022101073,2022-03-21,DET,POR,2.33,1,9,40,DET,POR,block,1,True,False,block,block,6-6,6,6
+0022101073,2022-03-21,DET,POR,2.33,1,9,40,DET,DET,reb,0,False,False,PISTONS Rebound,,6-6,6,6
+0022101073,2022-03-21,DET,POR,2.38,1,9,37,DET,DET,fg3_make,1,False,False,Bey 29' 3PT Jump Shot (3 PTS) (Hayes 1 AST),,9-6,9,6
+0022101073,2022-03-21,DET,POR,2.67,1,9,20,POR,POR,fg_make,7,False,False,,Eubanks 3' Dunk (2 PTS) (Williams 1 AST),9-8,9,8
+0022101073,2022-03-21,DET,POR,2.98,1,9,1,DET,DET,fg3_miss,1,False,False,MISS Stewart 3PT Jump Shot,,9-8,9,8
+0022101073,2022-03-21,DET,POR,2.98,1,9,1,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:1 Def:1),9-8,9,8
+0022101073,2022-03-21,DET,POR,3.17,1,8,50,POR,POR,fg_make,6,False,False,,Winslow 6' Driving Layup (4 PTS) (Williams 2 AST),9-10,9,10
+0022101073,2022-03-21,DET,POR,3.48,1,8,31,DET,DET,tov,2,False,True,Bey Lost Ball Turnover (P1.T2),,9-10,9,10
+0022101073,2022-03-21,DET,POR,3.48,1,8,31,DET,POR,steal,2,False,True,steal,steal,9-10,9,10
+0022101073,2022-03-21,DET,POR,3.53,1,8,28,POR,POR,fg_make,41,False,False,,Watford 3' Running Layup (2 PTS),9-12,9,12
+0022101073,2022-03-21,DET,POR,3.63,1,8,22,DET,POR,violation,1,False,False,,Trail Blazers Violation: Delay of game Violation,9-12,9,12
+0022101073,2022-03-21,DET,POR,3.82,1,8,11,DET,DET,fg_miss,6,True,False,MISS Cunningham 5' Driving Layup,,9-12,9,12
+0022101073,2022-03-21,DET,POR,3.82,1,8,11,DET,POR,block,6,True,False,block,block,9-12,9,12
+0022101073,2022-03-21,DET,POR,3.88,1,8,7,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:1 Def:2),9-12,9,12
+0022101073,2022-03-21,DET,POR,3.88,1,8,7,POR,POR,fg_make,41,False,False,,Williams 4' Running Layup (4 PTS),9-14,9,14
+0022101073,2022-03-21,DET,POR,3.88,1,8,7,POR,DET,foul,2,False,False,Hayes S.FOUL (P2.T2) (B.Barnaky),,9-14,9,14
+0022101073,2022-03-21,DET,POR,3.88,1,8,7,POR,POR,ft_make,10,False,False,,Williams Free Throw 1 of 1 (5 PTS),9-15,9,15
+0022101073,2022-03-21,DET,POR,4.22,1,7,47,DET,DET,fg3_miss,1,False,False,MISS Bey 3PT Jump Shot,,9-15,9,15
+0022101073,2022-03-21,DET,POR,4.28,1,7,43,DET,DET,reb,0,False,False,Stewart REBOUND (Off:2 Def:0),,9-15,9,15
+0022101073,2022-03-21,DET,POR,4.38,1,7,37,DET,DET,fg_miss,5,False,False,MISS Bagley III 7' Layup,,9-15,9,15
+0022101073,2022-03-21,DET,POR,4.43,1,7,34,POR,POR,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),9-15,9,15
+0022101073,2022-03-21,DET,POR,4.45,1,7,33,POR,POR,fg_make,41,False,False,,Williams 1' Running Layup (7 PTS) (Winslow 1 AST),9-17,9,17
+0022101073,2022-03-21,DET,POR,4.45,1,7,33,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 1 Short 0),,9-17,9,17
+0022101073,2022-03-21,DET,POR,4.82,1,7,11,DET,DET,fg3_miss,1,False,False,MISS Cunningham 26' 3PT Jump Shot,,9-17,9,17
+0022101073,2022-03-21,DET,POR,4.85,1,7,9,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:1 Def:3),9-17,9,17
+0022101073,2022-03-21,DET,POR,5.05,1,6,57,POR,POR,fg_make,78,False,False,,Eubanks 12' Floating Jump Shot (4 PTS) (Elleby 1 AST),9-19,9,19
+0022101073,2022-03-21,DET,POR,5.18,1,6,49,DET,POR,foul,2,False,False,,Winslow S.FOUL (P1.T1) (B.Barnaky),9-19,9,19
+0022101073,2022-03-21,DET,POR,5.18,1,6,49,DET,DET,ft_miss,11,False,False,MISS Cunningham Free Throw 1 of 2,,9-19,9,19
+0022101073,2022-03-21,DET,POR,5.18,1,6,49,DET,DET,reb,1,False,False,PISTONS Rebound,,9-19,9,19
+0022101073,2022-03-21,DET,POR,5.18,1,6,49,DET,DET,ft_make,12,False,False,Cunningham Free Throw 2 of 2 (3 PTS),,10-19,10,19
+0022101073,2022-03-21,DET,POR,5.38,1,6,37,POR,DET,foul,1,False,False,Cunningham P.FOUL (P1.T3) (B.Barnaky),,10-19,10,19
+0022101073,2022-03-21,DET,POR,5.52,1,6,29,POR,POR,tov,2,False,True,,Williams Lost Ball Turnover (P1.T2),10-19,10,19
+0022101073,2022-03-21,DET,POR,5.52,1,6,29,POR,DET,steal,2,False,True,steal,steal,10-19,10,19
+0022101073,2022-03-21,DET,POR,5.87,1,6,8,DET,POR,foul,2,False,False,,Elleby S.FOUL (P1.T2) (B.Barnaky),10-19,10,19
+0022101073,2022-03-21,DET,POR,5.87,1,6,8,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (4 PTS),,11-19,11,19
+0022101073,2022-03-21,DET,POR,5.87,1,6,8,DET,DET,ft_make,12,False,False,Bey Free Throw 2 of 2 (5 PTS),,12-19,12,19
+0022101073,2022-03-21,DET,POR,6.03,1,5,58,POR,DET,foul,1,False,False,Lee P.FOUL (P1.T4) (T.Ford),,12-19,12,19
+0022101073,2022-03-21,DET,POR,6.13,1,5,52,POR,POR,fg_miss,79,False,False,,MISS Williams 15' Pullup Jump Shot,12-19,12,19
+0022101073,2022-03-21,DET,POR,6.22,1,5,47,DET,DET,reb,0,False,False,Stewart REBOUND (Off:2 Def:1),,12-19,12,19
+0022101073,2022-03-21,DET,POR,6.37,1,5,38,DET,DET,fg_make,6,False,False,Cunningham 5' Driving Layup (5 PTS),,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.65,1,5,21,POR,POR,fg_miss,1,False,False,,MISS Winslow 18' Jump Shot,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.7,1,5,18,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:2 Def:3),14-19,14,19
+0022101073,2022-03-21,DET,POR,6.73,1,5,16,POR,POR,fg_miss,101,False,False,,MISS Winslow 5' Driving Floating Jump Shot,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.78,1,5,13,DET,DET,reb,0,False,False,Stewart REBOUND (Off:2 Def:2),,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.85,1,5,9,DET,DET,fg_miss,98,True,False,MISS Lee 3' Cutting Layup Shot,,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.85,1,5,9,DET,POR,block,98,True,False,block,block,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.92,1,5,5,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:2 Def:4),14-19,14,19
+0022101073,2022-03-21,DET,POR,6.97,1,5,2,POR,DET,foul,2,False,False,Cunningham S.FOUL (P2.PN) (J.Sterling),,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.97,1,5,2,POR,POR,ft_miss,11,False,False,,MISS Elleby Free Throw 1 of 2,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.97,1,5,2,POR,POR,reb,1,False,False,,Trail Blazers Rebound,14-19,14,19
+0022101073,2022-03-21,DET,POR,6.97,1,5,2,POR,POR,ft_miss,12,False,False,,MISS Elleby Free Throw 2 of 2,14-19,14,19
+0022101073,2022-03-21,DET,POR,7.03,1,4,58,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:1),,14-19,14,19
+0022101073,2022-03-21,DET,POR,7.32,1,4,41,DET,DET,fg3_miss,1,False,False,MISS Livers 3PT Jump Shot,,14-19,14,19
+0022101073,2022-03-21,DET,POR,7.33,1,4,40,DET,DET,reb,0,False,False,PISTONS Rebound,,14-19,14,19
+0022101073,2022-03-21,DET,POR,7.37,1,4,38,DET,DET,fg_miss,1,False,False,MISS Bey 18' Jump Shot,,14-19,14,19
+0022101073,2022-03-21,DET,POR,7.37,1,4,38,DET,DET,reb,0,False,False,PISTONS Rebound,,14-19,14,19
+0022101073,2022-03-21,DET,POR,7.37,1,4,38,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#3),,14-19,14,19
+0022101073,2022-03-21,DET,POR,7.58,1,4,25,POR,POR,fg_make,98,False,False,,Elleby 3' Cutting Layup Shot (4 PTS) (Watford 1 AST),14-21,14,21
+0022101073,2022-03-21,DET,POR,7.92,1,4,5,DET,POR,foul,2,False,False,,Brown III S.FOUL (P1.T3) (J.Sterling),14-21,14,21
+0022101073,2022-03-21,DET,POR,7.92,1,4,5,DET,DET,ft_make,11,False,False,Bagley III Free Throw 1 of 2 (3 PTS),,15-21,15,21
+0022101073,2022-03-21,DET,POR,7.92,1,4,5,DET,DET,ft_make,12,False,False,Bagley III Free Throw 2 of 2 (4 PTS),,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.13,1,3,52,POR,POR,fg_miss,5,False,False,,MISS Watford 4' Layup,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.18,1,3,49,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:0 Def:1),,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.25,1,3,45,DET,DET,fg_miss,41,True,False,MISS Lee 10' Running Layup,,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.25,1,3,45,DET,POR,block,41,True,False,block,block,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.28,1,3,43,POR,POR,reb,0,False,False,,McLemore REBOUND (Off:0 Def:1),16-21,16,21
+0022101073,2022-03-21,DET,POR,8.32,1,3,41,POR,POR,fg_miss,41,False,False,,MISS Watford 4' Running Layup,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.42,1,3,35,POR,POR,reb,0,False,False,,Brown III REBOUND (Off:1 Def:0),16-21,16,21
+0022101073,2022-03-21,DET,POR,8.45,1,3,33,POR,POR,fg3_miss,1,False,False,,MISS McLemore 27' 3PT Jump Shot,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.52,1,3,29,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:2),,16-21,16,21
+0022101073,2022-03-21,DET,POR,8.52,1,3,29,DET,POR,foul,2,False,False,,McLemore S.FOUL (P1.T4) (B.Barnaky),16-21,16,21
+0022101073,2022-03-21,DET,POR,8.52,1,3,29,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (6 PTS),,17-21,17,21
+0022101073,2022-03-21,DET,POR,8.52,1,3,29,DET,DET,ft_make,12,False,False,Bey Free Throw 2 of 2 (7 PTS),,18-21,18,21
+0022101073,2022-03-21,DET,POR,8.7,1,3,18,POR,DET,foul,2,False,False,Lee S.FOUL (P2.PN) (J.Sterling),,18-21,18,21
+0022101073,2022-03-21,DET,POR,8.7,1,3,18,POR,POR,ft_miss,11,False,False,,MISS Brown III Free Throw 1 of 2,18-21,18,21
+0022101073,2022-03-21,DET,POR,8.7,1,3,18,POR,POR,reb,1,False,False,,Trail Blazers Rebound,18-21,18,21
+0022101073,2022-03-21,DET,POR,8.7,1,3,18,POR,POR,ft_miss,12,False,False,,MISS Brown III Free Throw 2 of 2,18-21,18,21
+0022101073,2022-03-21,DET,POR,8.75,1,3,15,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:0 Def:2),,18-21,18,21
+0022101073,2022-03-21,DET,POR,9.02,1,2,59,DET,POR,foul,17,False,False,,Trail Blazers T.Foul (Def. 3 Sec Brown III ) (J.Sterling),18-21,18,21
+0022101073,2022-03-21,DET,POR,9.02,1,2,59,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.1 Short 0),18-21,18,21
+0022101073,2022-03-21,DET,POR,9.02,1,2,59,POR,DET,ft_make,16,False,False,Livers Free Throw Technical (1 PTS),,19-21,19,21
+0022101073,2022-03-21,DET,POR,9.18,1,2,49,DET,DET,fg3_miss,1,False,False,MISS Livers 3PT Jump Shot,,19-21,19,21
+0022101073,2022-03-21,DET,POR,9.23,1,2,46,DET,DET,reb,0,False,False,Bey REBOUND (Off:1 Def:2),,19-21,19,21
+0022101073,2022-03-21,DET,POR,9.43,1,2,34,DET,DET,fg3_miss,1,False,False,MISS Bey 26' 3PT Jump Shot,,19-21,19,21
+0022101073,2022-03-21,DET,POR,9.52,1,2,29,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:0 Def:1),19-21,19,21
+0022101073,2022-03-21,DET,POR,9.85,1,2,9,POR,POR,fg_miss,79,False,False,,MISS Dunn 19' Pullup Jump Shot,19-21,19,21
+0022101073,2022-03-21,DET,POR,9.88,1,2,7,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:1 Def:1),19-21,19,21
+0022101073,2022-03-21,DET,POR,9.98,1,2,1,POR,POR,fg_make,6,False,False,,Brown III 2' Driving Layup (2 PTS),19-23,19,23
+0022101073,2022-03-21,DET,POR,10.35,1,1,39,DET,DET,fg_miss,98,True,False,MISS Lee 6' Cutting Layup Shot,,19-23,19,23
+0022101073,2022-03-21,DET,POR,10.35,1,1,39,DET,POR,block,98,True,False,block,block,19-23,19,23
+0022101073,2022-03-21,DET,POR,10.4,1,1,36,POR,POR,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),19-23,19,23
+0022101073,2022-03-21,DET,POR,10.4,1,1,36,POR,DET,foul,2,False,False,Livers S.FOUL (P1.PN) (B.Barnaky),,19-23,19,23
+0022101073,2022-03-21,DET,POR,10.4,1,1,36,POR,POR,ft_make,11,False,False,,Brown III Free Throw 1 of 2 (3 PTS),19-24,19,24
+0022101073,2022-03-21,DET,POR,10.4,1,1,36,POR,POR,ft_make,12,False,False,,Brown III Free Throw 2 of 2 (4 PTS),19-25,19,25
+0022101073,2022-03-21,DET,POR,10.67,1,1,20,DET,DET,fg3_miss,1,False,False,MISS Pickett 24' 3PT Jump Shot,,19-25,19,25
+0022101073,2022-03-21,DET,POR,10.68,1,1,19,DET,DET,reb,0,False,False,PISTONS Rebound,,19-25,19,25
+0022101073,2022-03-21,DET,POR,10.68,1,1,19,DET,POR,foul,3,False,False,,Brown III L.B.FOUL (P2.PN) (J.Sterling),19-25,19,25
+0022101073,2022-03-21,DET,POR,10.68,1,1,19,DET,DET,ft_miss,11,False,False,MISS Garza Free Throw 1 of 2,,19-25,19,25
+0022101073,2022-03-21,DET,POR,10.68,1,1,19,DET,DET,reb,1,False,False,PISTONS Rebound,,19-25,19,25
+0022101073,2022-03-21,DET,POR,10.68,1,1,19,DET,DET,ft_make,12,False,False,Garza Free Throw 2 of 2 (1 PTS),,20-25,20,25
+0022101073,2022-03-21,DET,POR,10.83,1,1,10,POR,POR,fg_make,51,False,False,,McLemore 2' Reverse Dunk (2 PTS) (Dunn 1 AST),20-27,20,27
+0022101073,2022-03-21,DET,POR,11.25,1,0,45,DET,DET,fg_miss,1,False,False,MISS Bey 23' Jump Shot,,20-27,20,27
+0022101073,2022-03-21,DET,POR,11.27,1,0,44,DET,DET,reb,0,False,False,PISTONS Rebound,,20-27,20,27
+0022101073,2022-03-21,DET,POR,11.27,1,0,44,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#4),,20-27,20,27
+0022101073,2022-03-21,DET,POR,11.6,1,0,24,POR,DET,foul,2,False,False,Garza S.FOUL (P1.PN) (T.Ford),,20-27,20,27
+0022101073,2022-03-21,DET,POR,11.6,1,0,24,POR,POR,ft_make,11,False,False,,Eubanks Free Throw 1 of 2 (5 PTS),20-28,20,28
+0022101073,2022-03-21,DET,POR,11.6,1,0,24,POR,POR,ft_make,12,False,False,,Eubanks Free Throw 2 of 2 (6 PTS),20-29,20,29
+0022101073,2022-03-21,DET,POR,11.72,1,0,17,DET,POR,foul,1,False,False,,Brown III P.FOUL (P3.PN) (T.Ford),20-29,20,29
+0022101073,2022-03-21,DET,POR,11.72,1,0,17,DET,DET,ft_make,11,False,False,Garza Free Throw 1 of 2 (2 PTS),,21-29,21,29
+0022101073,2022-03-21,DET,POR,11.72,1,0,17,DET,DET,ft_make,12,False,False,Garza Free Throw 2 of 2 (3 PTS),,22-29,22,29
+0022101073,2022-03-21,DET,POR,12.0,1,0,0,POR,POR,fg_miss,47,False,False,,MISS Dunn 9' Turnaround Jump Shot,22-29,22,29
+0022101073,2022-03-21,DET,POR,12.0,1,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,22-29,22,29
+0022101073,2022-03-21,DET,POR,12.0,1,0,0,POR,,period_end,0,False,False,,,22-29,22,29
+0022101073,2022-03-21,DET,POR,12.0,2,12,0,POR,,period_start,0,False,False,,,22-29,22,29
+0022101073,2022-03-21,DET,POR,12.28,2,11,43,DET,DET,fg3_miss,1,False,False,MISS Pickett 26' 3PT Jump Shot,,22-29,22,29
+0022101073,2022-03-21,DET,POR,12.35,2,11,39,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:2 Def:5),22-29,22,29
+0022101073,2022-03-21,DET,POR,12.63,2,11,22,POR,POR,fg3_make,1,False,False,,McLemore 25' 3PT Jump Shot (5 PTS) (Dunn 2 AST),22-32,22,32
+0022101073,2022-03-21,DET,POR,13.05,2,10,57,DET,DET,fg_make,98,False,False,Lee 3' Cutting Layup Shot (2 PTS) (Cunningham 1 AST),,24-32,24,32
+0022101073,2022-03-21,DET,POR,13.2,2,10,48,POR,POR,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,24-32,24,32
+0022101073,2022-03-21,DET,POR,13.25,2,10,45,DET,DET,reb,0,False,False,Livers REBOUND (Off:0 Def:1),,24-32,24,32
+0022101073,2022-03-21,DET,POR,13.37,2,10,38,DET,DET,fg_miss,1,False,False,MISS Cunningham 21' Jump Shot,,24-32,24,32
+0022101073,2022-03-21,DET,POR,13.4,2,10,36,DET,DET,reb,0,False,False,Pickett REBOUND (Off:1 Def:0),,24-32,24,32
+0022101073,2022-03-21,DET,POR,13.43,2,10,34,DET,DET,fg3_miss,1,False,False,MISS Garza 26' 3PT Jump Shot,,24-32,24,32
+0022101073,2022-03-21,DET,POR,13.5,2,10,30,POR,POR,reb,0,False,False,,McLemore REBOUND (Off:0 Def:2),24-32,24,32
+0022101073,2022-03-21,DET,POR,13.58,2,10,25,POR,POR,fg3_make,1,False,False,,Elleby 24' 3PT Jump Shot (7 PTS) (Dunn 3 AST),24-35,24,35
+0022101073,2022-03-21,DET,POR,13.87,2,10,8,DET,DET,fg_make,98,False,False,Garza 3' Cutting Layup Shot (5 PTS) (Lee 1 AST),,26-35,26,35
+0022101073,2022-03-21,DET,POR,13.87,2,10,8,DET,POR,foul,2,False,False,,Johnson S.FOUL (P1.T1) (J.Sterling),26-35,26,35
+0022101073,2022-03-21,DET,POR,13.87,2,10,8,DET,DET,ft_miss,10,False,False,MISS Garza Free Throw 1 of 1,,26-35,26,35
+0022101073,2022-03-21,DET,POR,13.93,2,10,4,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:1 Def:2),26-35,26,35
+0022101073,2022-03-21,DET,POR,14.03,2,9,58,POR,POR,fg_miss,75,False,False,,MISS Dunn 4' Driving Finger Roll Layup,26-35,26,35
+0022101073,2022-03-21,DET,POR,14.08,2,9,55,DET,DET,reb,0,False,False,Pickett REBOUND (Off:1 Def:1),,26-35,26,35
+0022101073,2022-03-21,DET,POR,14.17,2,9,50,DET,DET,fg3_miss,2,False,False,MISS Hayes 3PT Running Jump Shot,,26-35,26,35
+0022101073,2022-03-21,DET,POR,14.22,2,9,47,POR,POR,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),26-35,26,35
+0022101073,2022-03-21,DET,POR,14.45,2,9,33,POR,POR,fg3_make,1,False,False,,McLemore 26' 3PT Jump Shot (8 PTS) (Eubanks 1 AST),26-38,26,38
+0022101073,2022-03-21,DET,POR,14.73,2,9,16,DET,DET,tov,2,False,True,Livers Lost Ball Turnover (P1.T5),,26-38,26,38
+0022101073,2022-03-21,DET,POR,14.73,2,9,16,DET,POR,steal,2,False,True,steal,steal,26-38,26,38
+0022101073,2022-03-21,DET,POR,14.8,2,9,12,POR,POR,fg_make,41,False,False,,McLemore 2' Running Layup (10 PTS) (Johnson 1 AST),26-40,26,40
+0022101073,2022-03-21,DET,POR,14.8,2,9,12,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 2 Short 0),,26-40,26,40
+0022101073,2022-03-21,DET,POR,15.0,2,9,0,DET,DET,tov,45,False,False,Hayes Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,26-40,26,40
+0022101073,2022-03-21,DET,POR,15.25,2,8,45,POR,POR,fg_make,75,False,False,,Dunn 3' Driving Finger Roll Layup (2 PTS),26-42,26,42
+0022101073,2022-03-21,DET,POR,15.25,2,8,45,POR,DET,foul,2,False,False,Pickett S.FOUL (P1.T1) (J.Sterling),,26-42,26,42
+0022101073,2022-03-21,DET,POR,15.25,2,8,45,POR,POR,ft_make,10,False,False,,Dunn Free Throw 1 of 1 (3 PTS),26-43,26,43
+0022101073,2022-03-21,DET,POR,15.53,2,8,28,DET,DET,fg_make,52,False,False,Pickett 3' Alley Oop Dunk (2 PTS) (Cunningham 2 AST),,28-43,28,43
+0022101073,2022-03-21,DET,POR,15.73,2,8,16,POR,DET,foul,2,False,False,Pickett S.FOUL (P2.T2) (B.Barnaky),,28-43,28,43
+0022101073,2022-03-21,DET,POR,15.73,2,8,16,POR,POR,ft_make,11,False,False,,Elleby Free Throw 1 of 2 (8 PTS),28-44,28,44
+0022101073,2022-03-21,DET,POR,15.73,2,8,16,POR,POR,ft_miss,12,False,False,,MISS Elleby Free Throw 2 of 2,28-44,28,44
+0022101073,2022-03-21,DET,POR,15.78,2,8,13,DET,DET,reb,0,False,False,Stewart REBOUND (Off:2 Def:3),,28-44,28,44
+0022101073,2022-03-21,DET,POR,16.03,2,7,58,DET,DET,fg_make,6,False,False,Cunningham 3' Driving Layup (7 PTS) (Hayes 2 AST),,30-44,30,44
+0022101073,2022-03-21,DET,POR,16.22,2,7,47,POR,DET,foul,2,False,False,Pickett S.FOUL (P3.T3) (J.Sterling),,30-44,30,44
+0022101073,2022-03-21,DET,POR,16.22,2,7,47,POR,POR,ft_make,11,False,False,,Elleby Free Throw 1 of 2 (9 PTS),30-45,30,45
+0022101073,2022-03-21,DET,POR,16.22,2,7,47,POR,POR,ft_make,12,False,False,,Elleby Free Throw 2 of 2 (10 PTS),30-46,30,46
+0022101073,2022-03-21,DET,POR,16.37,2,7,38,DET,DET,tov,2,False,True,Hayes Lost Ball Turnover (P2.T7),,30-46,30,46
+0022101073,2022-03-21,DET,POR,16.37,2,7,38,DET,POR,steal,2,False,True,steal,steal,30-46,30,46
+0022101073,2022-03-21,DET,POR,16.52,2,7,29,POR,POR,fg3_miss,80,False,False,,MISS McLemore 25' 3PT Step Back Jump Shot,30-46,30,46
+0022101073,2022-03-21,DET,POR,16.58,2,7,25,DET,DET,reb,0,False,False,Livers REBOUND (Off:0 Def:2),,30-46,30,46
+0022101073,2022-03-21,DET,POR,16.85,2,7,9,DET,DET,fg_miss,80,False,False,MISS Hayes 20' Step Back Jump Shot,,30-46,30,46
+0022101073,2022-03-21,DET,POR,16.93,2,7,4,POR,POR,reb,0,False,False,,Dunn REBOUND (Off:0 Def:1),30-46,30,46
+0022101073,2022-03-21,DET,POR,17.05,2,6,57,POR,POR,fg3_miss,1,False,False,,MISS Eubanks 25' 3PT Jump Shot,30-46,30,46
+0022101073,2022-03-21,DET,POR,17.1,2,6,54,DET,DET,reb,0,False,False,Hayes REBOUND (Off:0 Def:2),,30-46,30,46
+0022101073,2022-03-21,DET,POR,17.18,2,6,49,DET,DET,fg_make,9,False,False,Cunningham 4' Driving Dunk (9 PTS),,32-46,32,46
+0022101073,2022-03-21,DET,POR,17.47,2,6,32,POR,POR,fg3_make,1,False,False,,McLemore 25' 3PT Jump Shot (13 PTS) (Dunn 4 AST),32-49,32,49
+0022101073,2022-03-21,DET,POR,17.67,2,6,20,DET,DET,fg_make,75,False,False,Cunningham 3' Driving Finger Roll Layup (11 PTS),,34-49,34,49
+0022101073,2022-03-21,DET,POR,17.8,2,6,12,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),34-49,34,49
+0022101073,2022-03-21,DET,POR,17.98,2,6,1,POR,POR,fg_miss,3,True,False,,MISS Watford 6' Hook Shot,34-49,34,49
+0022101073,2022-03-21,DET,POR,17.98,2,6,1,POR,DET,block,3,True,False,block,block,34-49,34,49
+0022101073,2022-03-21,DET,POR,18.03,2,5,58,DET,DET,reb,0,False,False,Stewart REBOUND (Off:2 Def:4),,34-49,34,49
+0022101073,2022-03-21,DET,POR,18.18,2,5,49,DET,DET,fg_miss,6,False,False,MISS Cunningham 5' Driving Layup,,34-49,34,49
+0022101073,2022-03-21,DET,POR,18.27,2,5,44,DET,DET,reb,0,False,False,Stewart REBOUND (Off:3 Def:4),,34-49,34,49
+0022101073,2022-03-21,DET,POR,18.27,2,5,44,DET,DET,fg_miss,97,False,False,MISS Stewart Tip Layup Shot,,34-49,34,49
+0022101073,2022-03-21,DET,POR,18.28,2,5,43,POR,POR,reb,0,False,False,,McLemore REBOUND (Off:0 Def:3),34-49,34,49
+0022101073,2022-03-21,DET,POR,18.35,2,5,39,POR,POR,fg_make,101,False,False,,Hughes 10' Driving Floating Jump Shot (2 PTS),34-51,34,51
+0022101073,2022-03-21,DET,POR,18.55,2,5,27,DET,DET,fg3_make,1,False,False,Bey 3PT Jump Shot (10 PTS) (Cunningham 3 AST),,37-51,37,51
+0022101073,2022-03-21,DET,POR,18.97,2,5,2,POR,POR,fg_miss,101,False,False,,MISS McLemore 5' Driving Floating Jump Shot,37-51,37,51
+0022101073,2022-03-21,DET,POR,19.0,2,5,0,DET,DET,reb,0,False,False,Stewart REBOUND (Off:3 Def:5),,37-51,37,51
+0022101073,2022-03-21,DET,POR,19.13,2,4,52,DET,DET,fg3_miss,1,False,False,MISS Hayes 3PT Jump Shot,,37-51,37,51
+0022101073,2022-03-21,DET,POR,19.2,2,4,48,POR,POR,reb,0,False,False,,Watford REBOUND (Off:0 Def:1),37-51,37,51
+0022101073,2022-03-21,DET,POR,19.27,2,4,44,POR,DET,foul,2,False,False,Stewart S.FOUL (P1.T4) (T.Ford),,37-51,37,51
+0022101073,2022-03-21,DET,POR,19.27,2,4,44,POR,POR,ft_make,11,False,False,,Watford Free Throw 1 of 2 (3 PTS),37-52,37,52
+0022101073,2022-03-21,DET,POR,19.27,2,4,44,POR,POR,ft_make,12,False,False,,Watford Free Throw 2 of 2 (4 PTS),37-53,37,53
+0022101073,2022-03-21,DET,POR,19.27,2,4,44,DET,POR,foul,6,False,False,,McLemore AWAY.FROM.PLAY.FOUL (P2.T2) (J.Sterling),37-53,37,53
+0022101073,2022-03-21,DET,POR,19.27,2,4,44,DET,DET,ft_make,10,False,False,Cunningham Free Throw 1 of 1 (12 PTS),,38-53,38,53
+0022101073,2022-03-21,DET,POR,19.43,2,4,34,DET,DET,fg3_miss,1,False,False,MISS Cunningham 26' 3PT Jump Shot,,38-53,38,53
+0022101073,2022-03-21,DET,POR,19.43,2,4,34,DET,DET,reb,0,False,False,PISTONS Rebound,,38-53,38,53
+0022101073,2022-03-21,DET,POR,19.43,2,4,34,DET,POR,foul,1,False,False,,Watford P.FOUL (P1.T3) (T.Ford),38-53,38,53
+0022101073,2022-03-21,DET,POR,19.68,2,4,19,DET,DET,fg_make,5,False,False,Cunningham 4' Layup (14 PTS) (Hayes 3 AST),,40-53,40,53
+0022101073,2022-03-21,DET,POR,19.9,2,4,6,POR,POR,fg3_miss,1,False,False,,MISS Winslow 24' 3PT Jump Shot,40-53,40,53
+0022101073,2022-03-21,DET,POR,19.9,2,4,6,DET,DET,reb,0,False,False,Bey REBOUND (Off:1 Def:3),,40-53,40,53
+0022101073,2022-03-21,DET,POR,20.22,2,3,47,DET,DET,fg3_miss,1,False,False,MISS Bey 3PT Jump Shot,,40-53,40,53
+0022101073,2022-03-21,DET,POR,20.28,2,3,43,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:0 Def:1),40-53,40,53
+0022101073,2022-03-21,DET,POR,20.37,2,3,38,POR,POR,fg3_make,1,False,False,,McLemore 28' 3PT Jump Shot (16 PTS) (Winslow 2 AST),40-56,40,56
+0022101073,2022-03-21,DET,POR,20.6,2,3,24,DET,DET,fg_make,98,False,False,Cunningham 4' Cutting Layup Shot (16 PTS) (Hayes 4 AST),,42-56,42,56
+0022101073,2022-03-21,DET,POR,20.82,2,3,11,POR,POR,fg3_miss,1,False,False,,MISS McLemore 3PT Jump Shot,42-56,42,56
+0022101073,2022-03-21,DET,POR,20.88,2,3,7,DET,DET,reb,0,False,False,Stewart REBOUND (Off:3 Def:6),,42-56,42,56
+0022101073,2022-03-21,DET,POR,21.12,2,2,53,DET,DET,fg_miss,101,False,False,MISS Hayes 6' Driving Floating Jump Shot,,42-56,42,56
+0022101073,2022-03-21,DET,POR,21.2,2,2,48,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:1 Def:2),,42-56,42,56
+0022101073,2022-03-21,DET,POR,21.2,2,2,48,DET,DET,fg_make,97,False,False,Bagley III Tip Layup Shot (6 PTS),,44-56,44,56
+0022101073,2022-03-21,DET,POR,21.37,2,2,38,POR,POR,tov,1,False,True,,Williams Bad Pass Turnover (P2.T3),44-56,44,56
+0022101073,2022-03-21,DET,POR,21.37,2,2,38,POR,DET,steal,1,False,True,steal,steal,44-56,44,56
+0022101073,2022-03-21,DET,POR,21.47,2,2,32,DET,POR,foul,2,False,False,,Hughes S.FOUL (P1.T4) (B.Barnaky),44-56,44,56
+0022101073,2022-03-21,DET,POR,21.47,2,2,32,DET,DET,ft_make,11,False,False,Cunningham Free Throw 1 of 2 (17 PTS),,45-56,45,56
+0022101073,2022-03-21,DET,POR,21.47,2,2,32,DET,DET,ft_make,12,False,False,Cunningham Free Throw 2 of 2 (18 PTS),,46-56,46,56
+0022101073,2022-03-21,DET,POR,21.83,2,2,10,POR,POR,fg3_make,1,False,False,,Hughes 26' 3PT Jump Shot (5 PTS) (Watford 2 AST),46-59,46,59
+0022101073,2022-03-21,DET,POR,22.13,2,1,52,DET,POR,foul,1,False,False,,Watford P.FOUL (P2.PN) (J.Sterling),46-59,46,59
+0022101073,2022-03-21,DET,POR,22.13,2,1,52,DET,DET,ft_make,11,False,False,Stewart Free Throw 1 of 2 (3 PTS),,47-59,47,59
+0022101073,2022-03-21,DET,POR,22.13,2,1,52,DET,DET,ft_make,12,False,False,Stewart Free Throw 2 of 2 (4 PTS),,48-59,48,59
+0022101073,2022-03-21,DET,POR,22.32,2,1,41,POR,POR,fg3_miss,1,False,False,,MISS Hughes 24' 3PT Jump Shot,48-59,48,59
+0022101073,2022-03-21,DET,POR,22.4,2,1,36,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:1 Def:3),,48-59,48,59
+0022101073,2022-03-21,DET,POR,22.6,2,1,24,DET,DET,fg3_miss,1,False,False,MISS Bagley III 26' 3PT Jump Shot,,48-59,48,59
+0022101073,2022-03-21,DET,POR,22.68,2,1,19,POR,POR,reb,0,False,False,,Hughes REBOUND (Off:0 Def:1),48-59,48,59
+0022101073,2022-03-21,DET,POR,22.73,2,1,16,POR,POR,fg_make,98,False,False,,Watford 4' Cutting Layup Shot (6 PTS) (Dunn 5 AST),48-61,48,61
+0022101073,2022-03-21,DET,POR,22.98,2,1,1,DET,DET,fg_make,7,False,False,Stewart 3' Dunk (6 PTS) (Lee 2 AST),,50-61,50,61
+0022101073,2022-03-21,DET,POR,23.12,2,0,53,POR,DET,foul,1,False,False,Lee P.FOUL (P3.PN) (T.Ford),,50-61,50,61
+0022101073,2022-03-21,DET,POR,23.12,2,0,53,POR,POR,ft_make,11,False,False,,Williams Free Throw 1 of 2 (8 PTS),50-62,50,62
+0022101073,2022-03-21,DET,POR,23.12,2,0,53,POR,POR,ft_make,12,False,False,,Williams Free Throw 2 of 2 (9 PTS),50-63,50,63
+0022101073,2022-03-21,DET,POR,23.25,2,0,45,DET,DET,fg3_miss,1,False,False,MISS Bey 3PT Jump Shot,,50-63,50,63
+0022101073,2022-03-21,DET,POR,23.28,2,0,43,POR,POR,reb,0,False,False,,Hughes REBOUND (Off:0 Def:2),50-63,50,63
+0022101073,2022-03-21,DET,POR,23.52,2,0,29,POR,POR,fg_make,75,False,False,,Williams 3' Driving Finger Roll Layup (11 PTS),50-65,50,65
+0022101073,2022-03-21,DET,POR,23.85,2,0,9,DET,DET,fg_miss,101,False,False,MISS Hayes 10' Driving Floating Jump Shot,,50-65,50,65
+0022101073,2022-03-21,DET,POR,23.9,2,0,6,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:0 Def:2),50-65,50,65
+0022101073,2022-03-21,DET,POR,23.92,2,0,5,POR,POR,fg_make,50,False,False,,Hughes 3' Running Dunk (7 PTS) (Winslow 3 AST),50-67,50,67
+0022101073,2022-03-21,DET,POR,23.97,2,0,2,DET,POR,foul,2,False,False,,Dunn S.FOUL (P1.PN) (B.Barnaky),50-67,50,67
+0022101073,2022-03-21,DET,POR,23.97,2,0,2,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (11 PTS),,51-67,51,67
+0022101073,2022-03-21,DET,POR,23.97,2,0,2,DET,DET,ft_make,12,False,False,Bey Free Throw 2 of 2 (12 PTS),,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.0,2,0,0,POR,POR,fg3_miss,79,False,False,,MISS Hughes 51' 3PT Pullup Jump Shot,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.0,2,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.0,2,0,0,POR,,period_end,0,False,False,,,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.0,3,12,0,POR,,period_start,0,False,False,,,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.28,3,11,43,DET,DET,fg3_miss,1,False,False,MISS Bey 26' 3PT Jump Shot,,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.42,3,11,35,POR,POR,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),52-67,52,67
+0022101073,2022-03-21,DET,POR,24.63,3,11,22,POR,POR,fg_miss,3,False,False,,MISS Eubanks 6' Hook Shot,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.68,3,11,19,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:1 Def:4),,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.78,3,11,13,DET,DET,tov,1,False,True,Cunningham Bad Pass Turnover (P2.T8),,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.78,3,11,13,DET,POR,steal,1,False,True,steal,steal,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.83,3,11,10,POR,POR,fg_miss,41,False,False,,MISS Winslow 3' Running Layup,52-67,52,67
+0022101073,2022-03-21,DET,POR,24.88,3,11,7,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:2 Def:2),52-67,52,67
+0022101073,2022-03-21,DET,POR,24.95,3,11,3,POR,POR,fg_make,75,False,False,,Williams 4' Driving Finger Roll Layup (13 PTS) (Elleby 2 AST),52-69,52,69
+0022101073,2022-03-21,DET,POR,25.17,3,10,50,DET,DET,fg_miss,6,True,False,MISS Bey 4' Driving Layup,,52-69,52,69
+0022101073,2022-03-21,DET,POR,25.17,3,10,50,DET,POR,block,6,True,False,block,block,52-69,52,69
+0022101073,2022-03-21,DET,POR,25.22,3,10,47,,DET,jump_ball,0,False,False,Jump Ball Bey vs. Watford: Tip to Bagley III,,52-69,52,69
+0022101073,2022-03-21,DET,POR,25.22,3,10,47,DET,DET,reb,0,False,False,PISTONS Rebound,,52-69,52,69
+0022101073,2022-03-21,DET,POR,25.38,3,10,37,DET,DET,fg_make,6,False,False,Cunningham 2' Driving Layup (20 PTS),,54-69,54,69
+0022101073,2022-03-21,DET,POR,25.7,3,10,18,POR,DET,foul,1,False,False,Hayes P.FOUL (P3.T1) (T.Ford),,54-69,54,69
+0022101073,2022-03-21,DET,POR,25.78,3,10,13,POR,POR,fg3_miss,1,False,False,,MISS Williams 26' 3PT Jump Shot,54-69,54,69
+0022101073,2022-03-21,DET,POR,25.83,3,10,10,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:3 Def:2),54-69,54,69
+0022101073,2022-03-21,DET,POR,25.87,3,10,8,POR,POR,fg_make,87,False,False,,Eubanks 2' Putback Dunk (8 PTS),54-71,54,71
+0022101073,2022-03-21,DET,POR,26.02,3,9,59,DET,DET,fg_miss,98,False,False,MISS Stewart 4' Cutting Layup Shot,,54-71,54,71
+0022101073,2022-03-21,DET,POR,26.07,3,9,56,DET,DET,reb,0,False,False,Hayes REBOUND (Off:1 Def:2),,54-71,54,71
+0022101073,2022-03-21,DET,POR,26.08,3,9,55,DET,DET,tov,1,False,True,Hayes Bad Pass Turnover (P3.T9),,54-71,54,71
+0022101073,2022-03-21,DET,POR,26.08,3,9,55,DET,POR,steal,1,False,True,steal,steal,54-71,54,71
+0022101073,2022-03-21,DET,POR,26.17,3,9,50,POR,DET,foul,2,False,False,Cunningham S.FOUL (P3.T2) (J.Sterling),,54-71,54,71
+0022101073,2022-03-21,DET,POR,26.17,3,9,50,POR,POR,ft_make,11,False,False,,Williams Free Throw 1 of 2 (14 PTS),54-72,54,72
+0022101073,2022-03-21,DET,POR,26.17,3,9,50,POR,POR,ft_make,12,False,False,,Williams Free Throw 2 of 2 (15 PTS),54-73,54,73
+0022101073,2022-03-21,DET,POR,26.35,3,9,39,DET,DET,fg_make,6,False,False,Cunningham 3' Driving Layup (22 PTS),,56-73,56,73
+0022101073,2022-03-21,DET,POR,26.55,3,9,27,POR,POR,fg3_make,1,False,False,,Elleby 26' 3PT Jump Shot (13 PTS) (Eubanks 2 AST),56-76,56,76
+0022101073,2022-03-21,DET,POR,26.78,3,9,13,DET,DET,tov,2,False,True,Cunningham Lost Ball Turnover (P3.T10),,56-76,56,76
+0022101073,2022-03-21,DET,POR,26.78,3,9,13,DET,POR,steal,2,False,True,steal,steal,56-76,56,76
+0022101073,2022-03-21,DET,POR,26.83,3,9,10,POR,POR,fg_make,41,False,False,,Elleby 3' Running Layup (15 PTS) (Watford 3 AST),56-78,56,78
+0022101073,2022-03-21,DET,POR,26.83,3,9,10,POR,DET,foul,2,False,False,Bey S.FOUL (P1.T3) (B.Barnaky),,56-78,56,78
+0022101073,2022-03-21,DET,POR,26.83,3,9,10,POR,POR,ft_make,10,False,False,,Elleby Free Throw 1 of 1 (16 PTS),56-79,56,79
+0022101073,2022-03-21,DET,POR,26.93,3,9,4,DET,DET,tov,2,False,True,Cunningham Lost Ball Turnover (P4.T11),,56-79,56,79
+0022101073,2022-03-21,DET,POR,26.93,3,9,4,DET,POR,steal,2,False,True,steal,steal,56-79,56,79
+0022101073,2022-03-21,DET,POR,27.02,3,8,59,POR,POR,fg_miss,41,True,False,,MISS Williams 4' Running Layup,56-79,56,79
+0022101073,2022-03-21,DET,POR,27.02,3,8,59,POR,DET,block,41,True,False,block,block,56-79,56,79
+0022101073,2022-03-21,DET,POR,27.02,3,8,59,DET,DET,reb,0,False,False,PISTONS Rebound,,56-79,56,79
+0022101073,2022-03-21,DET,POR,27.17,3,8,50,DET,DET,fg3_make,1,False,False,Bey 24' 3PT Jump Shot (15 PTS) (Bagley III 1 AST),,59-79,59,79
+0022101073,2022-03-21,DET,POR,27.42,3,8,35,POR,POR,fg_miss,78,False,False,,MISS Winslow 3' Floating Jump Shot,59-79,59,79
+0022101073,2022-03-21,DET,POR,27.47,3,8,32,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:1 Def:5),,59-79,59,79
+0022101073,2022-03-21,DET,POR,27.53,3,8,28,DET,POR,foul,1,False,False,,Watford P.FOUL (P3.T1) (B.Barnaky),59-79,59,79
+0022101073,2022-03-21,DET,POR,27.72,3,8,17,DET,DET,fg3_make,1,False,False,Bey 27' 3PT Jump Shot (18 PTS) (Cunningham 4 AST),,62-79,62,79
+0022101073,2022-03-21,DET,POR,27.85,3,8,9,POR,DET,foul,1,False,False,Bey P.FOUL (P2.T4) (B.Barnaky),,62-79,62,79
+0022101073,2022-03-21,DET,POR,27.92,3,8,5,POR,POR,fg_make,3,False,False,,Eubanks 9' Hook Shot (10 PTS) (Watford 4 AST),62-81,62,81
+0022101073,2022-03-21,DET,POR,28.18,3,7,49,DET,DET,fg_miss,79,False,False,MISS Cunningham 20' Pullup Jump Shot,,62-81,62,81
+0022101073,2022-03-21,DET,POR,28.18,3,7,49,POR,POR,reb,0,False,False,,Trail Blazers Rebound,62-81,62,81
+0022101073,2022-03-21,DET,POR,28.35,3,7,39,POR,DET,foul,2,False,False,Bagley III S.FOUL (P1.PN) (B.Barnaky),,62-81,62,81
+0022101073,2022-03-21,DET,POR,28.35,3,7,39,POR,POR,ft_miss,11,False,False,,MISS Watford Free Throw 1 of 2,62-81,62,81
+0022101073,2022-03-21,DET,POR,28.35,3,7,39,POR,POR,reb,1,False,False,,Trail Blazers Rebound,62-81,62,81
+0022101073,2022-03-21,DET,POR,28.35,3,7,39,POR,POR,ft_miss,12,False,False,,MISS Watford Free Throw 2 of 2,62-81,62,81
+0022101073,2022-03-21,DET,POR,28.4,3,7,36,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:1 Def:6),,62-81,62,81
+0022101073,2022-03-21,DET,POR,28.63,3,7,22,DET,POR,foul,1,False,False,,Elleby P.FOUL (P2.T2) (B.Barnaky),62-81,62,81
+0022101073,2022-03-21,DET,POR,28.82,3,7,11,DET,DET,fg_make,101,False,False,Hayes 12' Driving Floating Jump Shot (2 PTS) (Bagley III 2 AST),,64-81,64,81
+0022101073,2022-03-21,DET,POR,29.07,3,6,56,POR,POR,fg_miss,80,False,False,,MISS Williams 17' Step Back Jump Shot,64-81,64,81
+0022101073,2022-03-21,DET,POR,29.1,3,6,54,DET,DET,reb,0,False,False,Bey REBOUND (Off:1 Def:4),,64-81,64,81
+0022101073,2022-03-21,DET,POR,29.28,3,6,43,DET,DET,fg_make,9,False,False,Hayes 2' Driving Dunk (4 PTS) (Cunningham 5 AST),,66-81,66,81
+0022101073,2022-03-21,DET,POR,29.65,3,6,21,POR,POR,fg_make,71,False,False,,Eubanks 3' Finger Roll Layup (12 PTS),66-83,66,83
+0022101073,2022-03-21,DET,POR,29.98,3,6,1,DET,DET,fg_make,63,False,False,Bey 13' Fadeaway Jumper (20 PTS),,68-83,68,83
+0022101073,2022-03-21,DET,POR,30.22,3,5,47,POR,POR,tov,45,False,False,,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T4),68-83,68,83
+0022101073,2022-03-21,DET,POR,30.22,3,5,47,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 3 Short 0),,68-83,68,83
+0022101073,2022-03-21,DET,POR,30.47,3,5,32,DET,DET,fg_make,5,False,False,Bagley III 3' Layup (8 PTS) (Hayes 5 AST),,70-83,70,83
+0022101073,2022-03-21,DET,POR,30.47,3,5,32,DET,POR,foul,2,False,False,,Brown III S.FOUL (P4.T3) (J.Sterling),70-83,70,83
+0022101073,2022-03-21,DET,POR,30.47,3,5,32,DET,DET,ft_make,10,False,False,Bagley III Free Throw 1 of 1 (9 PTS),,71-83,71,83
+0022101073,2022-03-21,DET,POR,30.77,3,5,14,POR,POR,fg_miss,6,False,False,,MISS Winslow 6' Driving Layup,71-83,71,83
+0022101073,2022-03-21,DET,POR,30.88,3,5,7,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:1 Def:2),71-83,71,83
+0022101073,2022-03-21,DET,POR,30.88,3,5,7,POR,POR,fg_miss,97,False,False,,MISS Winslow Tip Layup Shot,71-83,71,83
+0022101073,2022-03-21,DET,POR,30.9,3,5,6,DET,DET,reb,0,False,False,Stewart REBOUND (Off:3 Def:7),,71-83,71,83
+0022101073,2022-03-21,DET,POR,30.9,3,5,6,DET,POR,foul,2,False,False,,Watford S.FOUL (P4.T4) (B.Barnaky),71-83,71,83
+0022101073,2022-03-21,DET,POR,30.9,3,5,6,DET,DET,ft_make,11,False,False,Stewart Free Throw 1 of 2 (7 PTS),,72-83,72,83
+0022101073,2022-03-21,DET,POR,30.9,3,5,6,DET,DET,ft_make,12,False,False,Stewart Free Throw 2 of 2 (8 PTS),,73-83,73,83
+0022101073,2022-03-21,DET,POR,31.17,3,4,50,POR,POR,fg3_miss,1,False,False,,MISS McLemore 28' 3PT Jump Shot,73-83,73,83
+0022101073,2022-03-21,DET,POR,31.23,3,4,46,DET,DET,reb,0,False,False,Stewart REBOUND (Off:3 Def:8),,73-83,73,83
+0022101073,2022-03-21,DET,POR,31.45,3,4,33,DET,DET,fg_miss,78,False,False,MISS Bagley III 5' Floating Jump Shot,,73-83,73,83
+0022101073,2022-03-21,DET,POR,31.52,3,4,29,DET,DET,reb,0,False,False,Stewart REBOUND (Off:4 Def:8),,73-83,73,83
+0022101073,2022-03-21,DET,POR,31.52,3,4,29,DET,DET,fg_miss,97,False,False,MISS Stewart Tip Layup Shot,,73-83,73,83
+0022101073,2022-03-21,DET,POR,31.52,3,4,29,POR,POR,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),73-83,73,83
+0022101073,2022-03-21,DET,POR,31.55,3,4,27,POR,DET,foul,2,False,False,Stewart S.FOUL (P2.PN) (B.Barnaky),,73-83,73,83
+0022101073,2022-03-21,DET,POR,31.55,3,4,27,POR,POR,ft_make,11,False,False,,Winslow Free Throw 1 of 2 (5 PTS),73-84,73,84
+0022101073,2022-03-21,DET,POR,31.55,3,4,27,POR,POR,ft_make,12,False,False,,Winslow Free Throw 2 of 2 (6 PTS),73-85,73,85
+0022101073,2022-03-21,DET,POR,31.7,3,4,18,DET,DET,tov,1,False,True,Stewart Bad Pass Turnover (P1.T12),,73-85,73,85
+0022101073,2022-03-21,DET,POR,31.7,3,4,18,DET,POR,steal,1,False,True,steal,steal,73-85,73,85
+0022101073,2022-03-21,DET,POR,31.73,3,4,16,POR,DET,foul,2,False,False,Bagley III S.FOUL (P2.PN) (J.Sterling),,73-85,73,85
+0022101073,2022-03-21,DET,POR,31.73,3,4,16,POR,POR,ft_make,11,False,False,,Brown III Free Throw 1 of 2 (5 PTS),73-86,73,86
+0022101073,2022-03-21,DET,POR,31.73,3,4,16,POR,POR,ft_make,12,False,False,,Brown III Free Throw 2 of 2 (6 PTS),73-87,73,87
+0022101073,2022-03-21,DET,POR,32.07,3,3,56,DET,DET,fg_miss,6,False,False,MISS Hayes 4' Driving Layup,,73-87,73,87
+0022101073,2022-03-21,DET,POR,32.13,3,3,52,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:2 Def:6),,73-87,73,87
+0022101073,2022-03-21,DET,POR,32.13,3,3,52,DET,DET,fg_make,97,False,False,Bagley III Tip Layup Shot (11 PTS),,75-87,75,87
+0022101073,2022-03-21,DET,POR,32.27,3,3,44,POR,DET,foul,1,False,False,Livers P.FOUL (P2.PN) (B.Barnaky),,75-87,75,87
+0022101073,2022-03-21,DET,POR,32.27,3,3,44,POR,POR,ft_make,11,False,False,,Eubanks Free Throw 1 of 2 (13 PTS),75-88,75,88
+0022101073,2022-03-21,DET,POR,32.27,3,3,44,POR,POR,ft_make,12,False,False,,Eubanks Free Throw 2 of 2 (14 PTS),75-89,75,89
+0022101073,2022-03-21,DET,POR,32.55,3,3,27,DET,POR,foul,1,False,False,,Dunn P.FOUL (P2.PN) (J.Sterling),75-89,75,89
+0022101073,2022-03-21,DET,POR,32.55,3,3,27,DET,DET,ft_make,11,False,False,Hayes Free Throw 1 of 2 (5 PTS),,76-89,76,89
+0022101073,2022-03-21,DET,POR,32.55,3,3,27,DET,DET,ft_make,12,False,False,Hayes Free Throw 2 of 2 (6 PTS),,77-89,77,89
+0022101073,2022-03-21,DET,POR,32.83,3,3,10,POR,POR,fg_miss,6,False,False,,MISS Williams 6' Driving Layup,77-89,77,89
+0022101073,2022-03-21,DET,POR,32.88,3,3,7,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:4 Def:2),77-89,77,89
+0022101073,2022-03-21,DET,POR,32.92,3,3,5,POR,POR,fg3_miss,79,False,False,,MISS McLemore 26' 3PT Pullup Jump Shot,77-89,77,89
+0022101073,2022-03-21,DET,POR,32.97,3,3,2,POR,POR,reb,0,False,False,,Williams REBOUND (Off:1 Def:3),77-89,77,89
+0022101073,2022-03-21,DET,POR,33.12,3,2,53,POR,POR,fg3_make,79,False,False,,McLemore 30' 3PT Pullup Jump Shot (19 PTS),77-92,77,92
+0022101073,2022-03-21,DET,POR,33.45,3,2,33,DET,DET,tov,1,False,True,Cunningham Bad Pass Turnover (P5.T13),,77-92,77,92
+0022101073,2022-03-21,DET,POR,33.45,3,2,33,DET,POR,steal,1,False,True,steal,steal,77-92,77,92
+0022101073,2022-03-21,DET,POR,33.57,3,2,26,POR,POR,fg_make,6,False,False,,Brown III 8' Driving Layup (8 PTS) (McLemore 1 AST),77-94,77,94
+0022101073,2022-03-21,DET,POR,33.77,3,2,14,DET,POR,foul,1,False,False,,Williams P.FOUL (P1.PN) (T.Ford),77-94,77,94
+0022101073,2022-03-21,DET,POR,33.77,3,2,14,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),77-94,77,94
+0022101073,2022-03-21,DET,POR,33.77,3,2,14,POR,DET,ft_make,11,False,False,Hayes Free Throw 1 of 2 (7 PTS),,78-94,78,94
+0022101073,2022-03-21,DET,POR,33.77,3,2,14,POR,DET,ft_make,12,False,False,Hayes Free Throw 2 of 2 (8 PTS),,79-94,79,94
+0022101073,2022-03-21,DET,POR,33.9,3,2,6,POR,DET,foul,1,False,False,Garza P.FOUL (P2.PN) (T.Ford),,79-94,79,94
+0022101073,2022-03-21,DET,POR,33.9,3,2,6,POR,POR,ft_miss,11,False,False,,MISS McLemore Free Throw 1 of 2,79-94,79,94
+0022101073,2022-03-21,DET,POR,33.9,3,2,6,POR,POR,reb,1,False,False,,Trail Blazers Rebound,79-94,79,94
+0022101073,2022-03-21,DET,POR,33.9,3,2,6,POR,POR,ft_make,12,False,False,,McLemore Free Throw 2 of 2 (20 PTS),79-95,79,95
+0022101073,2022-03-21,DET,POR,34.18,3,1,49,DET,POR,violation,5,False,False,,Dunn Violation:Kicked Ball (B.Barnaky),79-95,79,95
+0022101073,2022-03-21,DET,POR,34.33,3,1,40,DET,POR,foul,1,False,False,,Johnson P.FOUL (P2.PN) (B.Barnaky),79-95,79,95
+0022101073,2022-03-21,DET,POR,34.33,3,1,40,DET,DET,ft_make,11,False,False,Garza Free Throw 1 of 2 (6 PTS),,80-95,80,95
+0022101073,2022-03-21,DET,POR,34.33,3,1,40,DET,DET,ft_miss,12,False,False,MISS Garza Free Throw 2 of 2,,80-95,80,95
+0022101073,2022-03-21,DET,POR,34.38,3,1,37,POR,POR,reb,0,False,False,,Brown III REBOUND (Off:1 Def:1),80-95,80,95
+0022101073,2022-03-21,DET,POR,34.65,3,1,21,POR,POR,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,80-95,80,95
+0022101073,2022-03-21,DET,POR,34.7,3,1,18,DET,DET,reb,0,False,False,Pickett REBOUND (Off:1 Def:2),,80-95,80,95
+0022101073,2022-03-21,DET,POR,34.9,3,1,6,DET,DET,fg3_make,1,False,False,Lee 24' 3PT Jump Shot (5 PTS) (Livers 1 AST),,83-95,83,95
+0022101073,2022-03-21,DET,POR,35.12,3,0,53,POR,POR,fg_miss,6,False,False,,MISS Johnson 5' Driving Layup,83-95,83,95
+0022101073,2022-03-21,DET,POR,35.17,3,0,50,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:1),,83-95,83,95
+0022101073,2022-03-21,DET,POR,35.23,3,0,46,DET,DET,fg3_make,1,False,False,Pickett 26' 3PT Jump Shot (5 PTS) (Cunningham 6 AST),,86-95,86,95
+0022101073,2022-03-21,DET,POR,35.4,3,0,36,POR,POR,fg_miss,86,False,False,,MISS Dunn 9' Turnaround Fadeaway Shot,86-95,86,95
+0022101073,2022-03-21,DET,POR,35.45,3,0,33,POR,POR,reb,0,False,False,,McLemore REBOUND (Off:1 Def:3),86-95,86,95
+0022101073,2022-03-21,DET,POR,35.47,3,0,32,POR,POR,tov,1,False,True,,McLemore Bad Pass Turnover (P1.T5),86-95,86,95
+0022101073,2022-03-21,DET,POR,35.47,3,0,32,POR,DET,steal,1,False,True,steal,steal,86-95,86,95
+0022101073,2022-03-21,DET,POR,35.48,3,0,31,DET,POR,foul,1,False,False,,Eubanks P.FOUL (P1.PN) (B.Barnaky),86-95,86,95
+0022101073,2022-03-21,DET,POR,35.48,3,0,31,DET,DET,ft_make,11,False,False,Garza Free Throw 1 of 2 (7 PTS),,87-95,87,95
+0022101073,2022-03-21,DET,POR,35.48,3,0,31,DET,DET,ft_make,12,False,False,Garza Free Throw 2 of 2 (8 PTS),,88-95,88,95
+0022101073,2022-03-21,DET,POR,35.85,3,0,9,POR,DET,foul,2,False,False,Livers S.FOUL (P3.PN) (T.Ford),,88-95,88,95
+0022101073,2022-03-21,DET,POR,35.85,3,0,9,POR,POR,ft_miss,11,False,False,,MISS Eubanks Free Throw 1 of 2,88-95,88,95
+0022101073,2022-03-21,DET,POR,35.85,3,0,9,POR,POR,reb,1,False,False,,Trail Blazers Rebound,88-95,88,95
+0022101073,2022-03-21,DET,POR,35.85,3,0,9,POR,POR,ft_make,12,False,False,,Eubanks Free Throw 2 of 2 (15 PTS),88-96,88,96
+0022101073,2022-03-21,DET,POR,35.98,3,0,1,DET,DET,fg3_miss,1,False,False,MISS Lee 25' 3PT Jump Shot,,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.0,3,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.0,3,0,0,DET,,period_end,0,False,False,,,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.0,4,12,0,DET,,period_start,0,False,False,,,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.25,4,11,45,POR,POR,fg3_miss,1,False,False,,MISS Elleby 3PT Jump Shot,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.32,4,11,41,DET,DET,reb,0,False,False,Livers REBOUND (Off:0 Def:3),,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.57,4,11,26,DET,DET,fg3_miss,1,False,False,MISS Pickett 26' 3PT Jump Shot,,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.63,4,11,22,DET,DET,reb,0,False,False,Lee REBOUND (Off:1 Def:0),,88-96,88,96
+0022101073,2022-03-21,DET,POR,36.72,4,11,17,DET,POR,foul,2,False,False,,Brown III S.FOUL (P5.T1) (B.Barnaky),88-96,88,96
+0022101073,2022-03-21,DET,POR,36.72,4,11,17,DET,DET,ft_make,11,False,False,Lee Free Throw 1 of 2 (6 PTS),,89-96,89,96
+0022101073,2022-03-21,DET,POR,36.72,4,11,17,DET,DET,ft_make,12,False,False,Lee Free Throw 2 of 2 (7 PTS),,90-96,90,96
+0022101073,2022-03-21,DET,POR,36.98,4,11,1,POR,POR,fg_miss,80,False,False,,MISS Dunn 17' Step Back Jump Shot,90-96,90,96
+0022101073,2022-03-21,DET,POR,37.03,4,10,58,DET,DET,reb,0,False,False,Garza REBOUND (Off:0 Def:1),,90-96,90,96
+0022101073,2022-03-21,DET,POR,37.23,4,10,46,DET,DET,fg_miss,5,False,False,MISS Garza 2' Layup,,90-96,90,96
+0022101073,2022-03-21,DET,POR,37.23,4,10,46,DET,DET,reb,0,False,False,Garza REBOUND (Off:1 Def:1),,90-96,90,96
+0022101073,2022-03-21,DET,POR,37.23,4,10,46,DET,POR,foul,1,False,False,,Eubanks P.FOUL (P2.T2) (T.Ford),90-96,90,96
+0022101073,2022-03-21,DET,POR,37.42,4,10,35,DET,DET,fg_make,101,False,False,Hayes 13' Driving Floating Jump Shot (10 PTS),,92-96,92,96
+0022101073,2022-03-21,DET,POR,37.42,4,10,35,DET,POR,foul,2,False,False,,Eubanks S.FOUL (P3.T3) (J.Sterling),92-96,92,96
+0022101073,2022-03-21,DET,POR,37.42,4,10,35,DET,DET,ft_miss,10,False,False,MISS Hayes Free Throw 1 of 1,,92-96,92,96
+0022101073,2022-03-21,DET,POR,37.45,4,10,33,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:4 Def:3),92-96,92,96
+0022101073,2022-03-21,DET,POR,37.53,4,10,28,POR,DET,foul,2,False,False,Hayes S.FOUL (P4.T1) (T.Ford),,92-96,92,96
+0022101073,2022-03-21,DET,POR,37.53,4,10,28,POR,POR,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (1 PTS),92-97,92,97
+0022101073,2022-03-21,DET,POR,37.53,4,10,28,POR,POR,ft_miss,12,False,False,,MISS Johnson Free Throw 2 of 2,92-97,92,97
+0022101073,2022-03-21,DET,POR,37.58,4,10,25,DET,DET,reb,0,False,False,Livers REBOUND (Off:0 Def:4),,92-97,92,97
+0022101073,2022-03-21,DET,POR,37.95,4,10,3,DET,DET,fg_make,6,False,False,Lee 4' Driving Layup (9 PTS),,94-97,94,97
+0022101073,2022-03-21,DET,POR,38.15,4,9,51,POR,DET,foul,1,False,False,Pickett P.FOUL (P4.T2) (B.Barnaky),,94-97,94,97
+0022101073,2022-03-21,DET,POR,38.25,4,9,45,POR,POR,fg3_miss,1,False,False,,MISS Johnson 24' 3PT Jump Shot,94-97,94,97
+0022101073,2022-03-21,DET,POR,38.3,4,9,42,DET,DET,reb,0,False,False,Livers REBOUND (Off:0 Def:5),,94-97,94,97
+0022101073,2022-03-21,DET,POR,38.5,4,9,30,DET,DET,fg_make,58,False,False,Garza 5' Turnaround Hook Shot (10 PTS) (Livers 2 AST),,96-97,96,97
+0022101073,2022-03-21,DET,POR,38.5,4,9,30,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),96-97,96,97
+0022101073,2022-03-21,DET,POR,38.75,4,9,15,POR,POR,fg3_miss,1,False,False,,MISS McLemore 26' 3PT Jump Shot,96-97,96,97
+0022101073,2022-03-21,DET,POR,38.83,4,9,10,DET,DET,reb,0,False,False,Lee REBOUND (Off:1 Def:1),,96-97,96,97
+0022101073,2022-03-21,DET,POR,39.0,4,9,0,DET,DET,fg3_miss,1,False,False,MISS Livers 24' 3PT Jump Shot,,96-97,96,97
+0022101073,2022-03-21,DET,POR,39.07,4,8,56,POR,POR,reb,0,False,False,,Dunn REBOUND (Off:0 Def:2),96-97,96,97
+0022101073,2022-03-21,DET,POR,39.17,4,8,50,POR,POR,fg_make,108,False,False,,Watford 3' Cutting Dunk Shot (8 PTS) (McLemore 2 AST),96-99,96,99
+0022101073,2022-03-21,DET,POR,39.5,4,8,30,DET,DET,fg_miss,102,False,False,MISS Pickett 5' Driving Floating Bank Jump Shot,,96-99,96,99
+0022101073,2022-03-21,DET,POR,39.58,4,8,25,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:1 Def:3),96-99,96,99
+0022101073,2022-03-21,DET,POR,39.62,4,8,23,POR,POR,fg_make,101,False,False,,Watford 8' Driving Floating Jump Shot (10 PTS),96-101,96,101
+0022101073,2022-03-21,DET,POR,39.9,4,8,6,DET,DET,fg3_miss,1,False,False,MISS Pickett 24' 3PT Jump Shot,,96-101,96,101
+0022101073,2022-03-21,DET,POR,39.97,4,8,2,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:1 Def:4),96-101,96,101
+0022101073,2022-03-21,DET,POR,40.32,4,7,41,POR,POR,fg3_miss,1,False,False,,MISS Winslow 29' 3PT Jump Shot,96-101,96,101
+0022101073,2022-03-21,DET,POR,40.42,4,7,35,DET,DET,reb,0,False,False,Lee REBOUND (Off:1 Def:2),,96-101,96,101
+0022101073,2022-03-21,DET,POR,40.57,4,7,26,DET,DET,fg3_make,1,False,False,Livers 26' 3PT Jump Shot (4 PTS) (Pickett 1 AST),,99-101,99,101
+0022101073,2022-03-21,DET,POR,40.82,4,7,11,POR,POR,tov,1,False,True,,Watford Bad Pass Turnover (P2.T6),99-101,99,101
+0022101073,2022-03-21,DET,POR,40.82,4,7,11,POR,DET,steal,1,False,True,steal,steal,99-101,99,101
+0022101073,2022-03-21,DET,POR,40.88,4,7,7,DET,DET,fg_make,50,False,False,Hayes 2' Running Dunk (12 PTS),,101-101,101,101
+0022101073,2022-03-21,DET,POR,41.1,4,6,54,POR,POR,fg_make,86,False,False,,Williams 11' Turnaround Fadeaway (17 PTS),101-103,101,103
+0022101073,2022-03-21,DET,POR,41.23,4,6,46,DET,POR,foul,2,False,False,,Watford S.FOUL (P5.T4) (T.Ford),101-103,101,103
+0022101073,2022-03-21,DET,POR,41.23,4,6,46,DET,DET,ft_miss,11,False,False,MISS Livers Free Throw 1 of 2,,101-103,101,103
+0022101073,2022-03-21,DET,POR,41.23,4,6,46,DET,DET,reb,1,False,False,PISTONS Rebound,,101-103,101,103
+0022101073,2022-03-21,DET,POR,41.23,4,6,46,DET,DET,ft_make,12,False,False,Livers Free Throw 2 of 2 (5 PTS),,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.53,4,6,28,POR,POR,fg_miss,6,True,False,,MISS Williams 4' Driving Layup,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.53,4,6,28,POR,DET,block,6,True,False,block,block,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.53,4,6,28,POR,POR,reb,0,False,False,,Trail Blazers Rebound,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.62,4,6,23,POR,POR,fg_miss,79,True,False,,MISS McLemore 21' Pullup Jump Shot,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.62,4,6,23,POR,DET,block,79,True,False,block,block,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.68,4,6,19,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:2),,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.97,4,6,2,DET,DET,tov,2,False,True,Livers Lost Ball Turnover (P2.T14),,102-103,102,103
+0022101073,2022-03-21,DET,POR,41.97,4,6,2,DET,POR,steal,2,False,True,steal,steal,102-103,102,103
+0022101073,2022-03-21,DET,POR,42.07,4,5,56,POR,POR,fg_miss,41,False,False,,MISS Williams 3' Running Layup,102-103,102,103
+0022101073,2022-03-21,DET,POR,42.08,4,5,55,POR,POR,reb,0,False,False,,Eubanks REBOUND (Off:5 Def:3),102-103,102,103
+0022101073,2022-03-21,DET,POR,42.08,4,5,55,POR,DET,foul,2,False,False,Hayes S.FOUL (P5.T3) (B.Barnaky),,102-103,102,103
+0022101073,2022-03-21,DET,POR,42.08,4,5,55,POR,POR,ft_make,11,False,False,,Eubanks Free Throw 1 of 2 (16 PTS),102-104,102,104
+0022101073,2022-03-21,DET,POR,42.08,4,5,55,POR,POR,ft_make,12,False,False,,Eubanks Free Throw 2 of 2 (17 PTS),102-105,102,105
+0022101073,2022-03-21,DET,POR,42.08,4,5,55,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 4 Short 0),,102-105,102,105
+0022101073,2022-03-21,DET,POR,42.35,4,5,39,DET,DET,fg3_make,1,False,False,Bey 25' 3PT Jump Shot (23 PTS) (Hayes 6 AST),,105-105,105,105
+0022101073,2022-03-21,DET,POR,42.6,4,5,24,POR,POR,fg3_miss,1,False,False,,MISS Williams 30' 3PT Jump Shot,105-105,105,105
+0022101073,2022-03-21,DET,POR,42.62,4,5,23,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:3 Def:5),105-105,105,105
+0022101073,2022-03-21,DET,POR,42.62,4,5,23,POR,POR,tov,1,False,True,,Elleby Bad Pass Turnover (P1.T7),105-105,105,105
+0022101073,2022-03-21,DET,POR,42.62,4,5,23,POR,DET,steal,1,False,True,steal,steal,105-105,105,105
+0022101073,2022-03-21,DET,POR,42.83,4,5,10,DET,DET,tov,1,False,True,Cunningham Bad Pass Turnover (P6.T15),,105-105,105,105
+0022101073,2022-03-21,DET,POR,42.83,4,5,10,DET,POR,steal,1,False,True,steal,steal,105-105,105,105
+0022101073,2022-03-21,DET,POR,42.93,4,5,4,POR,POR,tov,1,False,True,,Elleby Bad Pass Turnover (P2.T8),105-105,105,105
+0022101073,2022-03-21,DET,POR,42.93,4,5,4,POR,DET,steal,1,False,True,steal,steal,105-105,105,105
+0022101073,2022-03-21,DET,POR,42.97,4,5,2,DET,POR,foul,1,False,False,,Williams P.FOUL (P2.PN) (J.Sterling),105-105,105,105
+0022101073,2022-03-21,DET,POR,42.97,4,5,2,DET,DET,ft_make,11,False,False,Garza Free Throw 1 of 2 (11 PTS),,106-105,106,105
+0022101073,2022-03-21,DET,POR,42.97,4,5,2,DET,DET,ft_miss,12,False,False,MISS Garza Free Throw 2 of 2,,106-105,106,105
+0022101073,2022-03-21,DET,POR,43.08,4,4,55,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:1 Def:5),106-105,106,105
+0022101073,2022-03-21,DET,POR,43.27,4,4,44,POR,DET,foul,1,False,False,Livers P.FOUL (P4.T4) (B.Barnaky),,106-105,106,105
+0022101073,2022-03-21,DET,POR,43.45,4,4,33,POR,POR,fg_miss,78,False,False,,MISS Watford 7' Floating Jump Shot,106-105,106,105
+0022101073,2022-03-21,DET,POR,43.5,4,4,30,POR,POR,reb,0,False,False,,Williams REBOUND (Off:2 Def:3),106-105,106,105
+0022101073,2022-03-21,DET,POR,43.58,4,4,25,POR,POR,fg_miss,73,False,False,,MISS Dunn 9' Driving Reverse Layup,106-105,106,105
+0022101073,2022-03-21,DET,POR,43.58,4,4,25,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:2 Def:5),106-105,106,105
+0022101073,2022-03-21,DET,POR,43.58,4,4,25,POR,DET,foul,2,False,False,Cunningham S.FOUL (P4.PN) (T.Ford),,106-105,106,105
+0022101073,2022-03-21,DET,POR,43.58,4,4,25,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 5 Short 0),,106-105,106,105
+0022101073,2022-03-21,DET,POR,43.58,4,4,25,DET,POR,ft_make,11,False,False,,Winslow Free Throw 1 of 2 (7 PTS),106-106,106,106
+0022101073,2022-03-21,DET,POR,43.58,4,4,25,DET,POR,ft_make,12,False,False,,Winslow Free Throw 2 of 2 (8 PTS),106-107,106,107
+0022101073,2022-03-21,DET,POR,43.95,4,4,3,DET,DET,fg3_miss,1,False,False,MISS Livers 24' 3PT Jump Shot,,106-107,106,107
+0022101073,2022-03-21,DET,POR,43.97,4,4,2,DET,DET,reb,0,False,False,PISTONS Rebound,,106-107,106,107
+0022101073,2022-03-21,DET,POR,43.97,4,4,2,DET,POR,foul,3,False,False,,McLemore L.B.FOUL (P3.PN) (J.Sterling),106-107,106,107
+0022101073,2022-03-21,DET,POR,43.97,4,4,2,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (24 PTS),,107-107,107,107
+0022101073,2022-03-21,DET,POR,43.97,4,4,2,DET,DET,ft_make,12,False,False,Bey Free Throw 2 of 2 (25 PTS),,108-107,108,107
+0022101073,2022-03-21,DET,POR,44.13,4,3,52,POR,DET,foul,1,False,False,Garza P.FOUL (P3.PN) (B.Barnaky),,108-107,108,107
+0022101073,2022-03-21,DET,POR,44.13,4,3,52,POR,POR,ft_make,11,False,False,,Williams Free Throw 1 of 2 (18 PTS),108-108,108,108
+0022101073,2022-03-21,DET,POR,44.13,4,3,52,POR,POR,ft_make,12,False,False,,Williams Free Throw 2 of 2 (19 PTS),108-109,108,109
+0022101073,2022-03-21,DET,POR,44.35,4,3,39,POR,DET,foul,4,False,False,Cunningham OFF.Foul (P5) (T.Ford),,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.35,4,3,39,DET,DET,tov,37,False,False,Cunningham Offensive Foul Turnover (P7.T16),,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.52,4,3,29,POR,POR,fg3_miss,1,False,False,,MISS McLemore 29' 3PT Jump Shot,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.57,4,3,26,DET,DET,reb,0,False,False,Hayes REBOUND (Off:1 Def:3),,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.65,4,3,21,DET,DET,fg_miss,6,True,False,MISS Cunningham 3' Driving Layup,,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.65,4,3,21,DET,POR,block,6,True,False,block,block,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.65,4,3,21,DET,DET,reb,0,False,False,PISTONS Rebound,,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.73,4,3,16,DET,DET,fg3_miss,1,False,False,MISS Bey 27' 3PT Jump Shot,,108-109,108,109
+0022101073,2022-03-21,DET,POR,44.77,4,3,14,POR,POR,reb,0,False,False,,Williams REBOUND (Off:2 Def:4),108-109,108,109
+0022101073,2022-03-21,DET,POR,44.77,4,3,14,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.5 Short 0),108-109,108,109
+0022101073,2022-03-21,DET,POR,44.98,4,3,1,POR,POR,fg_miss,75,False,False,,MISS Williams 4' Driving Finger Roll Layup,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.0,4,3,0,DET,DET,reb,0,False,False,Hayes REBOUND (Off:1 Def:4),,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.02,4,2,59,DET,DET,tov,1,False,True,Hayes Bad Pass Turnover (P4.T17),,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.02,4,2,59,DET,POR,steal,1,False,True,steal,steal,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.3,4,2,42,POR,POR,fg_miss,6,True,False,,MISS Williams 5' Driving Layup,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.3,4,2,42,POR,DET,block,6,True,False,block,block,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.35,4,2,39,DET,DET,reb,0,False,False,Cunningham REBOUND (Off:0 Def:3),,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.52,4,2,29,DET,DET,fg3_miss,1,False,False,MISS Livers 25' 3PT Jump Shot,,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.57,4,2,26,POR,POR,reb,0,False,False,,Watford REBOUND (Off:0 Def:2),108-109,108,109
+0022101073,2022-03-21,DET,POR,45.57,4,2,26,POR,DET,foul,1,False,False,Stewart P.FOUL (P3.PN) (B.Barnaky),,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.57,4,2,26,POR,POR,ft_miss,11,False,False,,MISS Watford Free Throw 1 of 2,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.57,4,2,26,POR,POR,reb,1,False,False,,Trail Blazers Rebound,108-109,108,109
+0022101073,2022-03-21,DET,POR,45.57,4,2,26,POR,POR,ft_make,12,False,False,,Watford Free Throw 2 of 2 (11 PTS),108-110,108,110
+0022101073,2022-03-21,DET,POR,45.78,4,2,13,DET,DET,tov,2,False,True,Cunningham Lost Ball Turnover (P8.T18),,108-110,108,110
+0022101073,2022-03-21,DET,POR,45.78,4,2,13,DET,POR,steal,2,False,True,steal,steal,108-110,108,110
+0022101073,2022-03-21,DET,POR,45.85,4,2,9,POR,POR,fg_make,41,False,False,,Winslow 2' Running Layup (10 PTS) (Williams 3 AST),108-112,108,112
+0022101073,2022-03-21,DET,POR,46.0,4,2,0,DET,DET,fg_make,3,False,False,Bagley III 6' Hook Shot (13 PTS) (Bey 1 AST),,110-112,110,112
+0022101073,2022-03-21,DET,POR,46.38,4,1,37,POR,POR,fg3_miss,80,False,False,,MISS Williams 28' 3PT Step Back Jump Shot,110-112,110,112
+0022101073,2022-03-21,DET,POR,46.42,4,1,35,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:3 Def:5),110-112,110,112
+0022101073,2022-03-21,DET,POR,46.47,4,1,32,POR,POR,fg_miss,72,False,False,,MISS Winslow 3' Putback Layup,110-112,110,112
+0022101073,2022-03-21,DET,POR,46.47,4,1,32,POR,POR,reb,0,False,False,,Watford REBOUND (Off:1 Def:2),110-112,110,112
+0022101073,2022-03-21,DET,POR,46.53,4,1,28,POR,POR,fg_make,97,False,False,,Watford Tip Layup Shot (13 PTS),110-114,110,114
+0022101073,2022-03-21,DET,POR,46.72,4,1,17,DET,DET,tov,1,False,True,Cunningham Bad Pass Turnover (P9.T19),,110-114,110,114
+0022101073,2022-03-21,DET,POR,46.72,4,1,17,DET,POR,steal,1,False,True,steal,steal,110-114,110,114
+0022101073,2022-03-21,DET,POR,46.8,4,1,12,POR,POR,tov,1,False,True,,Winslow Bad Pass Turnover (P2.T9),110-114,110,114
+0022101073,2022-03-21,DET,POR,46.8,4,1,12,POR,DET,steal,1,False,True,steal,steal,110-114,110,114
+0022101073,2022-03-21,DET,POR,46.85,4,1,9,DET,DET,fg_make,106,False,False,Bagley III 2' Running Alley Oop Dunk Shot (15 PTS) (Cunningham 7 AST),,112-114,112,114
+0022101073,2022-03-21,DET,POR,47.22,4,0,47,POR,POR,fg_make,6,False,False,,Williams 4' Driving Layup (21 PTS),112-116,112,116
+0022101073,2022-03-21,DET,POR,47.22,4,0,47,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 6 Short 0),,112-116,112,116
+0022101073,2022-03-21,DET,POR,47.27,4,0,44,POR,DET,foul,4,False,False,Stewart OFF.Foul (P4) (T.Ford),,112-116,112,116
+0022101073,2022-03-21,DET,POR,47.27,4,0,44,DET,DET,tov,37,False,False,Stewart Offensive Foul Turnover (P2.T20),,112-116,112,116
+0022101073,2022-03-21,DET,POR,47.6,4,0,24,POR,POR,fg3_miss,1,False,False,,MISS Dunn 26' 3PT Jump Shot,112-116,112,116
+0022101073,2022-03-21,DET,POR,47.7,4,0,18,POR,POR,reb,0,False,False,,Winslow REBOUND (Off:4 Def:5),112-116,112,116
+0022101073,2022-03-21,DET,POR,47.73,4,0,16,POR,DET,foul,28,False,False,Hayes Personal Take Foul (P6.PN) (B.Barnaky),,112-116,112,116
+0022101073,2022-03-21,DET,POR,47.73,4,0,16,POR,POR,ft_make,11,False,False,,Williams Free Throw 1 of 2 (22 PTS),112-117,112,117
+0022101073,2022-03-21,DET,POR,47.73,4,0,16,POR,POR,ft_make,12,False,False,,Williams Free Throw 2 of 2 (23 PTS),112-118,112,118
+0022101073,2022-03-21,DET,POR,47.75,4,0,15,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 7 Short 0),,112-118,112,118
+0022101073,2022-03-21,DET,POR,47.78,4,0,13,DET,DET,fg3_miss,79,False,False,MISS Bey 29' 3PT Pullup Jump Shot,,112-118,112,118
+0022101073,2022-03-21,DET,POR,47.83,4,0,10,DET,DET,reb,0,False,False,Bagley III REBOUND (Off:3 Def:6),,112-118,112,118
+0022101073,2022-03-21,DET,POR,47.87,4,0,8,DET,DET,fg3_miss,1,False,False,MISS Livers 29' 3PT Jump Shot,,112-118,112,118
+0022101073,2022-03-21,DET,POR,47.9,4,0,6,POR,POR,reb,0,False,False,,McLemore REBOUND (Off:1 Def:4),112-118,112,118
+0022101073,2022-03-21,DET,POR,47.9,4,0,6,POR,DET,foul,1,False,False,Bey P.FOUL (P3.PN) (T.Ford),,112-118,112,118
+0022101073,2022-03-21,DET,POR,47.9,4,0,6,POR,POR,ft_make,11,False,False,,McLemore Free Throw 1 of 2 (21 PTS),112-119,112,119
+0022101073,2022-03-21,DET,POR,47.9,4,0,6,POR,POR,ft_miss,12,False,False,,MISS McLemore Free Throw 2 of 2,112-119,112,119
+0022101073,2022-03-21,DET,POR,47.93,4,0,4,DET,DET,reb,0,False,False,Stewart REBOUND (Off:4 Def:9),,112-119,112,119
+0022101073,2022-03-21,DET,POR,47.98,4,0,1,DET,DET,fg3_make,1,False,False,Cunningham 34' 3PT Jump Shot (25 PTS) (Stewart 1 AST),,115-119,115,119
+0022101073,2022-03-21,DET,POR,48.0,4,0,0,DET,,period_end,0,False,False,,,115-119,115,119

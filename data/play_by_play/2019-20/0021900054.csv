@@ -1,0 +1,499 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900054,2019-10-29,LAL,MEM,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900054,2019-10-29,LAL,MEM,0.0,1,12,0,,LAL,jump_ball,0,False,False,Jump Ball McGee vs. Jackson Jr.: Tip to Crowder,,0-0,0,0
+0021900054,2019-10-29,LAL,MEM,0.27,1,11,44,MEM,LAL,foul,2,False,False,Green S.FOUL (P1.T1) (B.Barnaky),,0-0,0,0
+0021900054,2019-10-29,LAL,MEM,0.27,1,11,44,MEM,MEM,ft_make,11,False,False,,Valanciunas Free Throw 1 of 2 (1 PTS),0-1,0,1
+0021900054,2019-10-29,LAL,MEM,0.27,1,11,44,MEM,MEM,ft_make,12,False,False,,Valanciunas Free Throw 2 of 2 (2 PTS),0-2,0,2
+0021900054,2019-10-29,LAL,MEM,0.5,1,11,30,LAL,LAL,fg_miss,43,False,False,MISS McGee 2' Alley Oop Layup,,0-2,0,2
+0021900054,2019-10-29,LAL,MEM,0.57,1,11,26,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:1),0-2,0,2
+0021900054,2019-10-29,LAL,MEM,0.63,1,11,22,MEM,MEM,fg_miss,41,True,False,,MISS Morant 4' Running Layup,0-2,0,2
+0021900054,2019-10-29,LAL,MEM,0.63,1,11,22,MEM,LAL,block,41,True,False,block,block,0-2,0,2
+0021900054,2019-10-29,LAL,MEM,0.63,1,11,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,0-2,0,2
+0021900054,2019-10-29,LAL,MEM,0.68,1,11,19,MEM,MEM,fg_make,47,False,False,,Brooks 9' Turnaround Jump Shot (2 PTS) (Crowder 1 AST),0-4,0,4
+0021900054,2019-10-29,LAL,MEM,0.88,1,11,7,LAL,LAL,tov,45,False,False,James Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,0-4,0,4
+0021900054,2019-10-29,LAL,MEM,1.13,1,10,52,MEM,MEM,fg_miss,80,False,False,,MISS Brooks 19' Step Back Jump Shot,0-4,0,4
+0021900054,2019-10-29,LAL,MEM,1.13,1,10,52,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,0-4,0,4
+0021900054,2019-10-29,LAL,MEM,1.33,1,10,40,LAL,LAL,fg_make,1,False,False,Davis 19' Jump Shot (2 PTS) (James 1 AST),,2-4,2,4
+0021900054,2019-10-29,LAL,MEM,1.57,1,10,26,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 27' 3PT Jump Shot (3 PTS) (Valanciunas 1 AST),2-7,2,7
+0021900054,2019-10-29,LAL,MEM,1.7,1,10,18,MEM,LAL,foul,4,False,False,Bradley OFF.Foul (P1) (B.Barnaky),,2-7,2,7
+0021900054,2019-10-29,LAL,MEM,1.7,1,10,18,LAL,LAL,tov,37,False,False,Bradley Offensive Foul Turnover (P1.T2),,2-7,2,7
+0021900054,2019-10-29,LAL,MEM,2.0,1,10,0,MEM,MEM,fg_miss,58,False,False,,MISS Jackson Jr. 12' Turnaround Hook Shot,2-7,2,7
+0021900054,2019-10-29,LAL,MEM,2.07,1,9,56,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:0),2-7,2,7
+0021900054,2019-10-29,LAL,MEM,2.07,1,9,56,MEM,MEM,fg_make,97,False,False,,Valanciunas 1' Tip Layup Shot (4 PTS),2-9,2,9
+0021900054,2019-10-29,LAL,MEM,2.25,1,9,45,LAL,LAL,fg3_miss,1,False,False,MISS Davis 26' 3PT Jump Shot,,2-9,2,9
+0021900054,2019-10-29,LAL,MEM,2.32,1,9,41,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:0 Def:1),2-9,2,9
+0021900054,2019-10-29,LAL,MEM,2.37,1,9,38,MEM,MEM,fg_make,41,False,False,,Jackson Jr. 2' Running Layup (5 PTS) (Brooks 1 AST),2-11,2,11
+0021900054,2019-10-29,LAL,MEM,2.6,1,9,24,LAL,LAL,fg3_miss,1,False,False,MISS James 26' 3PT Jump Shot,,2-11,2,11
+0021900054,2019-10-29,LAL,MEM,2.65,1,9,21,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:1),2-11,2,11
+0021900054,2019-10-29,LAL,MEM,2.73,1,9,16,MEM,MEM,fg3_make,1,False,False,,Brooks 26' 3PT Jump Shot (5 PTS) (Morant 1 AST),2-14,2,14
+0021900054,2019-10-29,LAL,MEM,2.73,1,9,16,MEM,LAL,foul,2,False,False,Green S.FOUL (P2.T2) (T.Washington),,2-14,2,14
+0021900054,2019-10-29,LAL,MEM,2.73,1,9,16,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,2-14,2,14
+0021900054,2019-10-29,LAL,MEM,2.73,1,9,16,LAL,MEM,ft_make,10,False,False,,Brooks Free Throw 1 of 1 (6 PTS),2-15,2,15
+0021900054,2019-10-29,LAL,MEM,2.93,1,9,4,LAL,LAL,fg_miss,79,False,False,MISS Bradley 20' Pullup Jump Shot,,2-15,2,15
+0021900054,2019-10-29,LAL,MEM,3.0,1,9,0,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:2),2-15,2,15
+0021900054,2019-10-29,LAL,MEM,3.13,1,8,52,MEM,MEM,fg3_miss,1,False,False,,MISS Morant 29' 3PT Jump Shot,2-15,2,15
+0021900054,2019-10-29,LAL,MEM,3.18,1,8,49,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,2-15,2,15
+0021900054,2019-10-29,LAL,MEM,3.33,1,8,40,LAL,LAL,fg_miss,6,False,False,MISS Davis 5' Driving Layup,,2-15,2,15
+0021900054,2019-10-29,LAL,MEM,3.37,1,8,38,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:1),,2-15,2,15
+0021900054,2019-10-29,LAL,MEM,3.45,1,8,33,LAL,LAL,fg_make,98,False,False,Bradley 1' Cutting Layup Shot (2 PTS) (Caldwell-Pope 1 AST),,4-15,4,15
+0021900054,2019-10-29,LAL,MEM,3.77,1,8,14,MEM,MEM,tov,4,False,False,,Valanciunas Traveling Turnover (P1.T1),4-15,4,15
+0021900054,2019-10-29,LAL,MEM,3.93,1,8,4,LAL,LAL,fg_make,108,False,False,McGee 2' Cutting Dunk Shot (2 PTS) (James 2 AST),,6-15,6,15
+0021900054,2019-10-29,LAL,MEM,4.22,1,7,47,MEM,LAL,foul,2,False,False,Davis S.FOUL (P1.T3) (B.Barnaky),,6-15,6,15
+0021900054,2019-10-29,LAL,MEM,4.22,1,7,47,MEM,MEM,ft_make,11,False,False,,Brooks Free Throw 1 of 2 (7 PTS),6-16,6,16
+0021900054,2019-10-29,LAL,MEM,4.22,1,7,47,MEM,MEM,ft_make,12,False,False,,Brooks Free Throw 2 of 2 (8 PTS),6-17,6,17
+0021900054,2019-10-29,LAL,MEM,4.47,1,7,32,LAL,LAL,fg_make,75,False,False,James 2' Driving Finger Roll Layup (2 PTS),,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,4.78,1,7,13,MEM,MEM,fg_miss,3,False,False,,MISS Valanciunas 4' Hook Shot,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,4.85,1,7,9,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:1),,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,5.0,1,7,0,LAL,LAL,fg3_miss,1,False,False,MISS James 24' 3PT Jump Shot,,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,5.0,1,7,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,5.13,1,6,52,LAL,LAL,tov,1,False,True,Bradley Bad Pass Turnover (P2.T3),,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,5.13,1,6,52,LAL,MEM,steal,1,False,True,steal,steal,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,5.2,1,6,48,MEM,MEM,fg3_miss,103,False,False,,MISS Brooks 27' 3PT Running Pull-Up Jump Shot,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,5.28,1,6,43,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:2),,8-17,8,17
+0021900054,2019-10-29,LAL,MEM,5.45,1,6,33,LAL,LAL,fg_make,98,False,False,Davis 3' Cutting Layup Shot (4 PTS) (James 3 AST),,10-17,10,17
+0021900054,2019-10-29,LAL,MEM,5.45,1,6,33,LAL,MEM,foul,2,False,False,,Jackson Jr. S.FOUL (P1.T1) (B.Barnaky),10-17,10,17
+0021900054,2019-10-29,LAL,MEM,5.45,1,6,33,LAL,LAL,ft_make,10,False,False,Davis Free Throw 1 of 1 (5 PTS),,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,5.72,1,6,17,MEM,MEM,tov,2,False,True,,Morant Lost Ball Turnover (P1.T2),11-17,11,17
+0021900054,2019-10-29,LAL,MEM,5.72,1,6,17,MEM,LAL,steal,2,False,True,steal,steal,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,5.77,1,6,14,LAL,LAL,fg3_miss,103,False,False,MISS Caldwell-Pope 27' 3PT Running Pull-Up Jump Shot,,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,5.87,1,6,8,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:2),,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,5.87,1,6,8,LAL,LAL,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,5.9,1,6,6,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:0 Def:1),11-17,11,17
+0021900054,2019-10-29,LAL,MEM,5.92,1,6,5,MEM,MEM,tov,45,False,False,,Jackson Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T3),11-17,11,17
+0021900054,2019-10-29,LAL,MEM,6.12,1,5,53,LAL,LAL,fg_miss,79,False,False,MISS Davis 20' Pullup Jump Shot,,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,6.18,1,5,49,MEM,MEM,reb,0,False,False,,Crowder REBOUND (Off:0 Def:1),11-17,11,17
+0021900054,2019-10-29,LAL,MEM,6.27,1,5,44,MEM,MEM,fg3_miss,103,False,False,,MISS Crowder 28' 3PT Running Pull-Up Jump Shot,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,6.33,1,5,40,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:2),,11-17,11,17
+0021900054,2019-10-29,LAL,MEM,6.33,1,5,40,LAL,MEM,foul,2,False,False,,Jackson Jr. S.FOUL (P2.T2) (T.Washington),11-17,11,17
+0021900054,2019-10-29,LAL,MEM,6.33,1,5,40,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (6 PTS),,12-17,12,17
+0021900054,2019-10-29,LAL,MEM,6.33,1,5,40,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.1 Short 0),12-17,12,17
+0021900054,2019-10-29,LAL,MEM,6.33,1,5,40,MEM,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (7 PTS),,13-17,13,17
+0021900054,2019-10-29,LAL,MEM,6.75,1,5,15,MEM,MEM,fg_make,101,False,False,,Clarke 7' Driving Floating Jump Shot (2 PTS) (Jones 1 AST),13-19,13,19
+0021900054,2019-10-29,LAL,MEM,7.08,1,4,55,LAL,MEM,foul,2,False,False,,Brooks S.FOUL (P1.T3) (T.Washington),13-19,13,19
+0021900054,2019-10-29,LAL,MEM,7.08,1,4,55,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (8 PTS),,14-19,14,19
+0021900054,2019-10-29,LAL,MEM,7.08,1,4,55,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (9 PTS),,15-19,15,19
+0021900054,2019-10-29,LAL,MEM,7.3,1,4,42,MEM,MEM,fg_make,79,False,False,,Clarke 11' Pullup Jump Shot (4 PTS) (Anderson 1 AST),15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.53,1,4,28,LAL,MEM,violation,5,False,False,,Crowder Violation:Kicked Ball (T.Washington),15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.67,1,4,20,LAL,LAL,fg_miss,5,True,False,MISS Howard 4' Layup,,15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.67,1,4,20,LAL,MEM,block,5,True,False,block,block,15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.72,1,4,17,MEM,MEM,reb,0,False,False,,Allen REBOUND (Off:0 Def:1),15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.8,1,4,12,MEM,LAL,foul,2,False,False,Howard S.FOUL (P1.T4) (B.Barnaky),,15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.8,1,4,12,MEM,MEM,ft_miss,13,False,False,,MISS Crowder Free Throw 1 of 3,15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.8,1,4,12,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,15-21,15,21
+0021900054,2019-10-29,LAL,MEM,7.8,1,4,12,MEM,MEM,ft_make,14,False,False,,Crowder Free Throw 2 of 3 (1 PTS),15-22,15,22
+0021900054,2019-10-29,LAL,MEM,7.8,1,4,12,MEM,MEM,ft_make,15,False,False,,Crowder Free Throw 3 of 3 (2 PTS),15-23,15,23
+0021900054,2019-10-29,LAL,MEM,7.95,1,4,3,LAL,LAL,fg_make,106,False,False,Davis 2' Running Alley Oop Dunk Shot (11 PTS) (James 4 AST),,17-23,17,23
+0021900054,2019-10-29,LAL,MEM,8.18,1,3,49,MEM,MEM,tov,40,False,False,,Anderson Out of Bounds Lost Ball Turnover (P1.T4),17-23,17,23
+0021900054,2019-10-29,LAL,MEM,8.38,1,3,37,LAL,LAL,fg_make,1,False,False,Bradley 18' Jump Shot (4 PTS) (Howard 1 AST),,19-23,19,23
+0021900054,2019-10-29,LAL,MEM,8.38,1,3,37,LAL,MEM,foul,2,False,False,,Crowder S.FOUL (P1.T4) (T.Washington),19-23,19,23
+0021900054,2019-10-29,LAL,MEM,8.38,1,3,37,LAL,LAL,ft_make,10,False,False,Bradley Free Throw 1 of 1 (5 PTS),,20-23,20,23
+0021900054,2019-10-29,LAL,MEM,8.55,1,3,27,MEM,MEM,fg_make,79,False,False,,Jones 18' Pullup Jump Shot (2 PTS) (Allen 1 AST),20-25,20,25
+0021900054,2019-10-29,LAL,MEM,8.8,1,3,12,LAL,LAL,fg_miss,6,False,False,MISS Davis 2' Driving Layup,,20-25,20,25
+0021900054,2019-10-29,LAL,MEM,8.83,1,3,10,MEM,MEM,reb,0,False,False,,Allen REBOUND (Off:0 Def:2),20-25,20,25
+0021900054,2019-10-29,LAL,MEM,8.87,1,3,8,MEM,MEM,tov,45,False,False,,Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T5),20-25,20,25
+0021900054,2019-10-29,LAL,MEM,9.15,1,2,51,LAL,LAL,fg_make,79,False,False,Cook 16' Pullup Jump Shot (2 PTS),,22-25,22,25
+0021900054,2019-10-29,LAL,MEM,9.45,1,2,33,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 25' 3PT Jump Shot,22-25,22,25
+0021900054,2019-10-29,LAL,MEM,9.48,1,2,31,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:3),,22-25,22,25
+0021900054,2019-10-29,LAL,MEM,9.65,1,2,21,LAL,MEM,foul,1,False,False,,Anderson P.FOUL (P1.PN) (T.Washington),22-25,22,25
+0021900054,2019-10-29,LAL,MEM,9.65,1,2,21,LAL,LAL,ft_miss,11,False,False,MISS Davis Free Throw 1 of 2,,22-25,22,25
+0021900054,2019-10-29,LAL,MEM,9.65,1,2,21,LAL,LAL,reb,1,False,False,LAKERS Rebound,,22-25,22,25
+0021900054,2019-10-29,LAL,MEM,9.65,1,2,21,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (12 PTS),,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,9.87,1,2,8,MEM,MEM,fg3_miss,1,False,False,,MISS Guduric 3PT Jump Shot,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,9.92,1,2,5,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:4),,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.0,1,2,0,LAL,LAL,fg3_miss,1,False,False,MISS Cook 3PT Jump Shot,,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.07,1,1,56,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:4),,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.07,1,1,56,LAL,LAL,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.1,1,1,54,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:4),,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.1,1,1,54,LAL,LAL,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.12,1,1,53,MEM,MEM,reb,0,False,False,,Guduric REBOUND (Off:0 Def:1),23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.15,1,1,51,MEM,MEM,fg_make,41,False,False,,Jones 1' Running Layup (4 PTS) (Guduric 1 AST),23-27,23,27
+0021900054,2019-10-29,LAL,MEM,10.17,1,1,50,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,23-27,23,27
+0021900054,2019-10-29,LAL,MEM,10.52,1,1,29,LAL,LAL,fg_miss,79,False,False,MISS Caldwell-Pope 13' Pullup Jump Shot,,23-27,23,27
+0021900054,2019-10-29,LAL,MEM,10.58,1,1,25,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:5 Def:4),,23-27,23,27
+0021900054,2019-10-29,LAL,MEM,10.6,1,1,24,LAL,LAL,fg_miss,86,False,False,MISS Davis 8' Turnaround Fadeaway Shot,,23-27,23,27
+0021900054,2019-10-29,LAL,MEM,10.62,1,1,23,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,23-27,23,27
+0021900054,2019-10-29,LAL,MEM,10.97,1,1,2,MEM,MEM,fg3_miss,1,False,False,,MISS Valanciunas 27' 3PT Jump Shot,23-27,23,27
+0021900054,2019-10-29,LAL,MEM,11.02,1,0,59,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,23-27,23,27
+0021900054,2019-10-29,LAL,MEM,11.2,1,0,48,LAL,LAL,fg_make,52,False,False,Davis 1' Alley Oop Dunk (14 PTS) (Caldwell-Pope 2 AST),,25-27,25,27
+0021900054,2019-10-29,LAL,MEM,11.48,1,0,31,MEM,MEM,fg3_make,1,False,False,,Allen 3PT Jump Shot (3 PTS) (Anderson 2 AST),25-30,25,30
+0021900054,2019-10-29,LAL,MEM,11.63,1,0,22,LAL,MEM,foul,2,False,False,,Valanciunas S.FOUL (P1.PN) (B.Barnaky),25-30,25,30
+0021900054,2019-10-29,LAL,MEM,11.63,1,0,22,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (15 PTS),,26-30,26,30
+0021900054,2019-10-29,LAL,MEM,11.63,1,0,22,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (16 PTS),,27-30,27,30
+0021900054,2019-10-29,LAL,MEM,11.97,1,0,2,MEM,MEM,fg_make,101,False,False,,Allen 15' Driving Floating Jump Shot (5 PTS) (Jones 2 AST),27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.0,1,0,0,LAL,LAL,fg3_miss,2,False,False,MISS Davis 27' 3PT Running Jump Shot,,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.0,1,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.0,1,0,0,LAL,,period_end,0,False,False,,,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.0,2,12,0,LAL,,period_start,0,False,False,,,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.4,2,11,36,LAL,LAL,tov,1,False,True,Cook Bad Pass Turnover (P1.T4),,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.4,2,11,36,LAL,MEM,steal,1,False,True,steal,steal,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.55,2,11,27,MEM,MEM,fg3_miss,1,False,False,,MISS S. Hill 24' 3PT Jump Shot,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.6,2,11,24,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:3),,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.72,2,11,17,LAL,LAL,fg_miss,6,False,False,MISS Caldwell-Pope 3' Driving Layup,,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.82,2,11,11,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:1),,27-32,27,32
+0021900054,2019-10-29,LAL,MEM,12.82,2,11,11,LAL,LAL,fg_make,87,False,False,Howard 1' Putback Dunk (2 PTS),,29-32,29,32
+0021900054,2019-10-29,LAL,MEM,13.0,2,11,0,MEM,MEM,fg3_miss,1,False,False,,MISS Guduric 25' 3PT Jump Shot,29-32,29,32
+0021900054,2019-10-29,LAL,MEM,13.0,2,11,0,LAL,LAL,reb,0,False,False,Cook REBOUND (Off:0 Def:1),,29-32,29,32
+0021900054,2019-10-29,LAL,MEM,13.15,2,10,51,LAL,LAL,fg3_miss,1,False,False,MISS Cook 26' 3PT Jump Shot,,29-32,29,32
+0021900054,2019-10-29,LAL,MEM,13.15,2,10,51,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:1),29-32,29,32
+0021900054,2019-10-29,LAL,MEM,13.33,2,10,40,MEM,MEM,fg_make,79,False,False,,Anderson 6' Pullup Jump Shot (2 PTS),29-34,29,34
+0021900054,2019-10-29,LAL,MEM,13.58,2,10,25,LAL,LAL,fg_make,73,False,False,James 2' Driving Reverse Layup (4 PTS),,31-34,31,34
+0021900054,2019-10-29,LAL,MEM,13.9,2,10,6,MEM,MEM,fg_miss,57,False,False,,MISS Anderson 8' Driving Hook Shot,31-34,31,34
+0021900054,2019-10-29,LAL,MEM,13.92,2,10,5,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:2),,31-34,31,34
+0021900054,2019-10-29,LAL,MEM,14.13,2,9,52,LAL,LAL,fg_miss,79,False,False,MISS Cook 18' Pullup Jump Shot,,31-34,31,34
+0021900054,2019-10-29,LAL,MEM,14.18,2,9,49,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:3),31-34,31,34
+0021900054,2019-10-29,LAL,MEM,14.32,2,9,41,MEM,MEM,fg_miss,101,False,False,,MISS Morant 9' Driving Floating Jump Shot,31-34,31,34
+0021900054,2019-10-29,LAL,MEM,14.43,2,9,34,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:3),31-36,31,36
+0021900054,2019-10-29,LAL,MEM,14.43,2,9,34,MEM,MEM,fg_make,72,False,False,,Valanciunas 1' Putback Layup (6 PTS),31-36,31,36
+0021900054,2019-10-29,LAL,MEM,14.58,2,9,25,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 26' 3PT Jump Shot,,31-36,31,36
+0021900054,2019-10-29,LAL,MEM,14.63,2,9,22,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:4),31-36,31,36
+0021900054,2019-10-29,LAL,MEM,14.8,2,9,12,LAL,MEM,foul,26,False,False,,S. Hill Offensive Charge Foul (P1.T1) (J.Sterling),31-36,31,36
+0021900054,2019-10-29,LAL,MEM,14.8,2,9,12,MEM,MEM,tov,37,False,False,,S. Hill Offensive Foul Turnover (P1.T6),31-36,31,36
+0021900054,2019-10-29,LAL,MEM,14.98,2,9,1,LAL,LAL,fg_make,86,False,False,James 15' Turnaround Fadeaway (6 PTS),,33-36,33,36
+0021900054,2019-10-29,LAL,MEM,15.28,2,8,43,MEM,MEM,tov,1,False,True,,Morant Bad Pass Turnover (P2.T7),33-36,33,36
+0021900054,2019-10-29,LAL,MEM,15.28,2,8,43,MEM,LAL,steal,1,False,True,steal,steal,33-36,33,36
+0021900054,2019-10-29,LAL,MEM,15.37,2,8,38,LAL,LAL,fg_make,108,False,False,James 1' Cutting Dunk Shot (8 PTS) (Daniels 1 AST),,35-36,35,36
+0021900054,2019-10-29,LAL,MEM,15.37,2,8,38,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.2 Short 0),35-36,35,36
+0021900054,2019-10-29,LAL,MEM,15.65,2,8,21,MEM,MEM,tov,45,False,False,,S. Hill Out of Bounds - Bad Pass Turnover Turnover (P2.T8),35-36,35,36
+0021900054,2019-10-29,LAL,MEM,15.85,2,8,9,LAL,MEM,foul,17,False,False,,Grizzlies T.Foul (Def. 3 Sec Jackson Jr. ) (J.Sterling),35-36,35,36
+0021900054,2019-10-29,LAL,MEM,15.85,2,8,9,LAL,LAL,ft_make,16,False,False,Caldwell-Pope Free Throw Technical (1 PTS),,36-36,36,36
+0021900054,2019-10-29,LAL,MEM,16.02,2,7,59,LAL,LAL,fg_miss,1,False,False,MISS James 21' Jump Shot,,36-36,36,36
+0021900054,2019-10-29,LAL,MEM,16.05,2,7,57,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:2),36-36,36,36
+0021900054,2019-10-29,LAL,MEM,16.28,2,7,43,MEM,MEM,fg_make,78,False,False,,Morant 9' Floating Jump Shot (2 PTS),36-38,36,38
+0021900054,2019-10-29,LAL,MEM,16.28,2,7,43,MEM,LAL,foul,2,False,False,Howard S.FOUL (P2.T1) (B.Barnaky),,36-38,36,38
+0021900054,2019-10-29,LAL,MEM,16.28,2,7,43,MEM,MEM,ft_make,10,False,False,,Morant Free Throw 1 of 1 (3 PTS),36-39,36,39
+0021900054,2019-10-29,LAL,MEM,16.48,2,7,31,LAL,LAL,fg_miss,79,False,False,MISS Caldwell-Pope 18' Pullup Jump Shot,,36-39,36,39
+0021900054,2019-10-29,LAL,MEM,16.5,2,7,30,LAL,LAL,reb,0,False,False,LAKERS Rebound,,36-39,36,39
+0021900054,2019-10-29,LAL,MEM,16.5,2,7,30,LAL,MEM,foul,3,False,False,,Jackson Jr. L.B.FOUL (P3.T2) (B.Barnaky),36-39,36,39
+0021900054,2019-10-29,LAL,MEM,16.58,2,7,25,LAL,LAL,fg_make,5,False,False,Daniels 4' Layup (2 PTS) (James 5 AST),,38-39,38,39
+0021900054,2019-10-29,LAL,MEM,16.82,2,7,11,MEM,MEM,fg_miss,79,False,False,,MISS Brooks 15' Pullup Jump Shot,38-39,38,39
+0021900054,2019-10-29,LAL,MEM,16.85,2,7,9,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,38-39,38,39
+0021900054,2019-10-29,LAL,MEM,16.93,2,7,4,LAL,LAL,fg_miss,79,False,False,MISS James 21' Pullup Jump Shot,,38-39,38,39
+0021900054,2019-10-29,LAL,MEM,16.98,2,7,1,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:3),38-39,38,39
+0021900054,2019-10-29,LAL,MEM,17.15,2,6,51,MEM,MEM,fg_make,3,False,False,,Clarke 8' Hook Shot (6 PTS) (S. Hill 1 AST),38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.45,2,6,33,LAL,MEM,foul,1,False,False,,Brooks P.FOUL (P2.T3) (T.Washington),38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.48,2,6,31,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 25' 3PT Jump Shot,,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.55,2,6,27,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.68,2,6,19,MEM,MEM,fg_miss,98,True,False,,MISS Clarke 2' Cutting Layup Shot,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.68,2,6,19,MEM,LAL,block,98,True,False,block,block,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.72,2,6,17,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:0 Def:1),,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.78,2,6,13,LAL,LAL,fg3_miss,103,False,False,MISS Caruso 26' 3PT Running Pull-Up Jump Shot,,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.87,2,6,8,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:0 Def:2),38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.92,2,6,5,LAL,MEM,foul,26,False,False,,Morant Offensive Charge Foul (P1.T4) (T.Washington),38-41,38,41
+0021900054,2019-10-29,LAL,MEM,17.92,2,6,5,MEM,MEM,tov,37,False,False,,Morant Offensive Foul Turnover (P3.T9),38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.12,2,5,53,LAL,LAL,fg_miss,101,False,False,MISS Caruso 7' Driving Floating Jump Shot,,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.15,2,5,51,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:0 Def:3),38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.27,2,5,44,MEM,MEM,fg3_miss,1,False,False,,MISS S. Hill 26' 3PT Jump Shot,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.33,2,5,40,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:2),,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.53,2,5,28,LAL,LAL,tov,2,False,True,Caruso Lost Ball Turnover (P1.T5),,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.53,2,5,28,LAL,MEM,steal,2,False,True,steal,steal,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.63,2,5,22,MEM,MEM,fg_miss,41,False,False,,MISS S. Hill 1' Running Layup,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.67,2,5,20,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:0 Def:2),,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.75,2,5,15,LAL,LAL,tov,2,False,True,Daniels Lost Ball Turnover (P1.T6),,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.75,2,5,15,LAL,MEM,steal,2,False,True,steal,steal,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.82,2,5,11,MEM,MEM,tov,1,False,True,,Clarke Bad Pass Turnover (P1.T10),38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.82,2,5,11,MEM,LAL,steal,1,False,True,steal,steal,38-41,38,41
+0021900054,2019-10-29,LAL,MEM,18.87,2,5,8,LAL,LAL,fg3_make,103,False,False,Green 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Caruso 1 AST),,41-41,41,41
+0021900054,2019-10-29,LAL,MEM,19.17,2,4,50,MEM,MEM,fg_miss,6,False,False,,MISS Morant 3' Driving Layup,41-41,41,41
+0021900054,2019-10-29,LAL,MEM,19.22,2,4,47,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:0 Def:3),,41-41,41,41
+0021900054,2019-10-29,LAL,MEM,19.42,2,4,35,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 26' 3PT Jump Shot,,41-41,41,41
+0021900054,2019-10-29,LAL,MEM,19.43,2,4,34,LAL,LAL,reb,0,False,False,LAKERS Rebound,,41-41,41,41
+0021900054,2019-10-29,LAL,MEM,19.43,2,4,34,LAL,MEM,foul,3,False,False,,Morant L.B.FOUL (P2.PN) (J.Sterling),41-41,41,41
+0021900054,2019-10-29,LAL,MEM,19.5,2,4,30,LAL,LAL,fg_make,108,False,False,McGee 1' Cutting Dunk Shot (4 PTS) (Davis 1 AST),,43-41,43,41
+0021900054,2019-10-29,LAL,MEM,19.93,2,4,4,MEM,MEM,fg_miss,58,False,False,,MISS Valanciunas 5' Turnaround Hook Shot,43-41,43,41
+0021900054,2019-10-29,LAL,MEM,19.97,2,4,2,MEM,MEM,reb,0,False,False,,Crowder REBOUND (Off:1 Def:1),43-41,43,41
+0021900054,2019-10-29,LAL,MEM,19.97,2,4,2,MEM,MEM,fg_make,97,False,False,,Crowder 1' Tip Layup Shot (4 PTS),43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.08,2,3,55,LAL,LAL,fg_miss,79,False,False,MISS Caruso 11' Pullup Jump Shot,,43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.15,2,3,51,MEM,MEM,reb,0,False,False,,Allen REBOUND (Off:0 Def:3),43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.25,2,3,45,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 3PT Jump Shot,43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.28,2,3,43,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.45,2,3,33,MEM,MEM,tov,4,False,False,,Crowder Traveling Turnover (P1.T11),43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.65,2,3,21,LAL,LAL,fg_miss,1,False,False,MISS Bradley 20' Jump Shot,,43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.72,2,3,17,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:5),43-43,43,43
+0021900054,2019-10-29,LAL,MEM,20.88,2,3,7,MEM,MEM,fg_make,78,False,False,,Allen 7' Floating Jump Shot (7 PTS),43-45,43,45
+0021900054,2019-10-29,LAL,MEM,20.9,2,3,6,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,43-45,43,45
+0021900054,2019-10-29,LAL,MEM,21.17,2,2,50,LAL,LAL,fg_miss,1,False,False,MISS Bradley 21' Jump Shot,,43-45,43,45
+0021900054,2019-10-29,LAL,MEM,21.2,2,2,48,MEM,MEM,reb,0,False,False,,Crowder REBOUND (Off:1 Def:2),43-45,43,45
+0021900054,2019-10-29,LAL,MEM,21.4,2,2,36,MEM,MEM,fg3_miss,1,False,False,,MISS Brooks 30' 3PT Jump Shot,43-45,43,45
+0021900054,2019-10-29,LAL,MEM,21.47,2,2,32,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:3),,43-45,43,45
+0021900054,2019-10-29,LAL,MEM,21.8,2,2,12,LAL,LAL,fg_make,75,False,False,Bradley 4' Driving Finger Roll Layup (7 PTS),,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,21.92,2,2,5,MEM,MEM,fg3_miss,1,False,False,,MISS Brooks 26' 3PT Jump Shot,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,21.97,2,2,2,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:5 Def:5),,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.27,2,1,44,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 24' 3PT Jump Shot,,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.33,2,1,40,MEM,MEM,reb,0,False,False,,Crowder REBOUND (Off:1 Def:3),45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.52,2,1,29,MEM,MEM,tov,1,False,True,,Crowder Bad Pass Turnover (P2.T12),45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.52,2,1,29,MEM,LAL,steal,1,False,True,steal,steal,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.58,2,1,25,LAL,LAL,tov,1,False,True,Caruso Bad Pass Turnover (P2.T7),,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.58,2,1,25,LAL,MEM,steal,1,False,True,steal,steal,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.63,2,1,22,MEM,MEM,fg_miss,79,False,False,,MISS Jones 7' Pullup Jump Shot,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.63,2,1,22,LAL,LAL,reb,0,False,False,LAKERS Rebound,,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.88,2,1,7,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P2.T8),,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.88,2,1,7,LAL,MEM,steal,1,False,True,steal,steal,45-45,45,45
+0021900054,2019-10-29,LAL,MEM,22.92,2,1,5,MEM,MEM,fg_make,50,False,False,,Allen 1' Running Dunk (9 PTS),45-47,45,47
+0021900054,2019-10-29,LAL,MEM,23.05,2,0,57,LAL,LAL,tov,13,False,False,James Backcourt Turnover (P3.T9),,45-47,45,47
+0021900054,2019-10-29,LAL,MEM,23.3,2,0,42,MEM,MEM,fg_miss,78,False,False,,MISS Anderson 12' Floating Jump Shot,45-47,45,47
+0021900054,2019-10-29,LAL,MEM,23.33,2,0,40,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:1),,45-47,45,47
+0021900054,2019-10-29,LAL,MEM,23.52,2,0,29,LAL,LAL,fg_make,47,False,False,Davis 3' Turnaround Jump Shot (18 PTS),,47-47,47,47
+0021900054,2019-10-29,LAL,MEM,23.88,2,0,7,MEM,MEM,fg_miss,93,False,False,,MISS Valanciunas 7' Driving Bank Hook Shot,47-47,47,47
+0021900054,2019-10-29,LAL,MEM,23.92,2,0,5,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:5 Def:6),,47-47,47,47
+0021900054,2019-10-29,LAL,MEM,23.98,2,0,1,LAL,LAL,fg_miss,41,False,False,MISS Davis 6' Running Layup,,47-47,47,47
+0021900054,2019-10-29,LAL,MEM,24.0,2,0,0,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:6 Def:6),,47-47,47,47
+0021900054,2019-10-29,LAL,MEM,24.0,2,0,0,LAL,LAL,fg_make,97,False,False,Davis 1' Tip Layup Shot (20 PTS),,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.0,2,0,0,LAL,,period_end,0,False,False,,,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.0,3,12,0,LAL,,period_start,0,False,False,,,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.35,3,11,39,LAL,MEM,foul,2,False,False,,Morant S.FOUL (P3.T1) (B.Barnaky),49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.35,3,11,39,LAL,LAL,ft_miss,11,False,False,MISS Bradley Free Throw 1 of 2,,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.35,3,11,39,LAL,LAL,reb,1,False,False,LAKERS Rebound,,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.35,3,11,39,LAL,LAL,ft_miss,12,False,False,MISS Bradley Free Throw 2 of 2,,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.45,3,11,33,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:6),49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.62,3,11,23,MEM,MEM,fg3_miss,1,False,False,,MISS Crowder 27' 3PT Jump Shot,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.67,3,11,20,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:4),,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.88,3,11,7,LAL,LAL,fg_miss,78,False,False,MISS James 10' Floating Jump Shot,,49-47,49,47
+0021900054,2019-10-29,LAL,MEM,24.92,3,11,5,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:7),49-47,49,47
+0021900054,2019-10-29,LAL,MEM,25.12,3,10,53,MEM,MEM,fg_make,3,False,False,,Valanciunas 7' Hook Shot (8 PTS) (Brooks 2 AST),49-49,49,49
+0021900054,2019-10-29,LAL,MEM,25.35,3,10,39,LAL,LAL,fg_miss,1,False,False,MISS Bradley 11' Jump Shot,,49-49,49,49
+0021900054,2019-10-29,LAL,MEM,25.37,3,10,38,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:8),49-49,49,49
+0021900054,2019-10-29,LAL,MEM,25.52,3,10,29,MEM,MEM,fg3_miss,1,False,False,,MISS Valanciunas 25' 3PT Jump Shot,49-49,49,49
+0021900054,2019-10-29,LAL,MEM,25.58,3,10,25,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:1),49-49,49,49
+0021900054,2019-10-29,LAL,MEM,25.63,3,10,22,MEM,MEM,fg3_make,1,False,False,,Morant 3PT Jump Shot (6 PTS) (Jackson Jr. 1 AST),49-52,49,52
+0021900054,2019-10-29,LAL,MEM,25.92,3,10,5,LAL,LAL,fg_make,101,False,False,Green 11' Driving Floating Jump Shot (5 PTS) (McGee 1 AST),,51-52,51,52
+0021900054,2019-10-29,LAL,MEM,26.23,3,9,46,MEM,MEM,fg_miss,6,False,False,,MISS Morant 3' Driving Layup,51-52,51,52
+0021900054,2019-10-29,LAL,MEM,26.3,3,9,42,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:8),51-52,51,52
+0021900054,2019-10-29,LAL,MEM,26.3,3,9,42,MEM,MEM,fg_make,72,False,False,,Valanciunas 1' Putback Layup (10 PTS),51-54,51,54
+0021900054,2019-10-29,LAL,MEM,26.55,3,9,27,LAL,LAL,fg3_make,1,False,False,Green 24' 3PT Jump Shot (8 PTS) (James 6 AST),,54-54,54,54
+0021900054,2019-10-29,LAL,MEM,26.77,3,9,14,MEM,MEM,fg_miss,57,False,False,,MISS Jackson Jr. 8' Driving Hook Shot,54-54,54,54
+0021900054,2019-10-29,LAL,MEM,26.8,3,9,12,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:1),54-54,54,54
+0021900054,2019-10-29,LAL,MEM,26.8,3,9,12,MEM,LAL,foul,2,False,False,Davis S.FOUL (P2.T1) (B.Barnaky),,54-54,54,54
+0021900054,2019-10-29,LAL,MEM,26.8,3,9,12,MEM,MEM,ft_make,11,False,False,,Jackson Jr. Free Throw 1 of 2 (6 PTS),54-55,54,55
+0021900054,2019-10-29,LAL,MEM,26.8,3,9,12,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (7 PTS),54-56,54,56
+0021900054,2019-10-29,LAL,MEM,26.92,3,9,5,LAL,MEM,foul,2,False,False,,Jackson Jr. S.FOUL (P4.T2) (B.Barnaky),54-56,54,56
+0021900054,2019-10-29,LAL,MEM,26.92,3,9,5,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (21 PTS),,55-56,55,56
+0021900054,2019-10-29,LAL,MEM,26.92,3,9,5,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (22 PTS),,56-56,56,56
+0021900054,2019-10-29,LAL,MEM,27.12,3,8,53,MEM,MEM,fg_make,98,False,False,,Crowder 1' Cutting Layup Shot (6 PTS) (Valanciunas 2 AST),56-58,56,58
+0021900054,2019-10-29,LAL,MEM,27.32,3,8,41,LAL,MEM,foul,2,False,False,,Brooks S.FOUL (P3.T3) (T.Washington),56-58,56,58
+0021900054,2019-10-29,LAL,MEM,27.32,3,8,41,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (9 PTS),,57-58,57,58
+0021900054,2019-10-29,LAL,MEM,27.32,3,8,41,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,57-58,57,58
+0021900054,2019-10-29,LAL,MEM,27.37,3,8,38,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:2),57-58,57,58
+0021900054,2019-10-29,LAL,MEM,27.48,3,8,31,MEM,MEM,fg3_miss,1,False,False,,MISS Morant 26' 3PT Jump Shot,57-58,57,58
+0021900054,2019-10-29,LAL,MEM,27.58,3,8,25,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:6 Def:7),,57-58,57,58
+0021900054,2019-10-29,LAL,MEM,27.85,3,8,9,LAL,LAL,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,57-58,57,58
+0021900054,2019-10-29,LAL,MEM,27.9,3,8,6,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:3),57-58,57,58
+0021900054,2019-10-29,LAL,MEM,28.07,3,7,56,MEM,MEM,fg_make,51,False,False,,Valanciunas 1' Reverse Dunk (12 PTS) (Brooks 3 AST),57-60,57,60
+0021900054,2019-10-29,LAL,MEM,28.23,3,7,46,LAL,LAL,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,57-60,57,60
+0021900054,2019-10-29,LAL,MEM,28.28,3,7,43,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:7 Def:7),,57-60,57,60
+0021900054,2019-10-29,LAL,MEM,28.28,3,7,43,LAL,MEM,foul,2,False,False,,Valanciunas S.FOUL (P2.T4) (B.Barnaky),57-60,57,60
+0021900054,2019-10-29,LAL,MEM,28.28,3,7,43,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (23 PTS),,58-60,58,60
+0021900054,2019-10-29,LAL,MEM,28.28,3,7,43,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (24 PTS),,59-60,59,60
+0021900054,2019-10-29,LAL,MEM,28.58,3,7,25,MEM,MEM,fg3_make,1,False,False,,Crowder 26' 3PT Jump Shot (9 PTS) (Brooks 4 AST),59-63,59,63
+0021900054,2019-10-29,LAL,MEM,28.73,3,7,16,MEM,LAL,foul,4,False,False,Green OFF.Foul (P3) (T.Washington),,59-63,59,63
+0021900054,2019-10-29,LAL,MEM,28.73,3,7,16,LAL,LAL,tov,37,False,False,Green Offensive Foul Turnover (P1.T10),,59-63,59,63
+0021900054,2019-10-29,LAL,MEM,28.97,3,7,2,MEM,MEM,fg_make,78,False,False,,Morant 10' Floating Jump Shot (8 PTS),59-65,59,65
+0021900054,2019-10-29,LAL,MEM,29.1,3,6,54,LAL,LAL,fg3_make,103,False,False,Bradley 26' 3PT Running Pull-Up Jump Shot (10 PTS) (James 7 AST),,62-65,62,65
+0021900054,2019-10-29,LAL,MEM,29.23,3,6,46,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.3 Short 0),62-65,62,65
+0021900054,2019-10-29,LAL,MEM,29.28,3,6,43,MEM,LAL,foul,1,False,False,Bradley P.FOUL (P2.T2) (J.Sterling),,62-65,62,65
+0021900054,2019-10-29,LAL,MEM,29.4,3,6,36,MEM,MEM,fg3_miss,1,False,False,,MISS Crowder 27' 3PT Jump Shot,62-65,62,65
+0021900054,2019-10-29,LAL,MEM,29.43,3,6,34,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:5),,62-65,62,65
+0021900054,2019-10-29,LAL,MEM,29.53,3,6,28,LAL,MEM,foul,2,False,False,,Clarke S.FOUL (P1.PN) (J.Sterling),62-65,62,65
+0021900054,2019-10-29,LAL,MEM,29.53,3,6,28,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (10 PTS),,63-65,63,65
+0021900054,2019-10-29,LAL,MEM,29.53,3,6,28,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (11 PTS),,64-65,64,65
+0021900054,2019-10-29,LAL,MEM,29.9,3,6,6,MEM,MEM,tov,1,False,True,,Crowder Bad Pass Turnover (P3.T13),64-65,64,65
+0021900054,2019-10-29,LAL,MEM,29.9,3,6,6,MEM,LAL,steal,1,False,True,steal,steal,64-65,64,65
+0021900054,2019-10-29,LAL,MEM,29.95,3,6,3,LAL,LAL,fg_make,41,False,False,James 2' Running Layup (13 PTS) (Bradley 1 AST),,66-65,66,65
+0021900054,2019-10-29,LAL,MEM,30.22,3,5,47,MEM,LAL,foul,14,False,False,McGee FLAGRANT.FOUL.TYPE1 (P1.T3) (J.Sterling),,66-65,66,65
+0021900054,2019-10-29,LAL,MEM,30.22,3,5,47,MEM,MEM,ft_make,18,False,False,,Valanciunas Free Throw Flagrant 1 of 2 (13 PTS),66-66,66,66
+0021900054,2019-10-29,LAL,MEM,30.22,3,5,47,MEM,MEM,ft_make,19,False,False,,Valanciunas Free Throw Flagrant 2 of 2 (14 PTS),66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.25,3,5,45,MEM,LAL,foul,1,False,False,Howard P.FOUL (P3.T4) (B.Barnaky),,66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.3,3,5,42,LAL,MEM,foul,4,False,False,,Valanciunas OFF.Foul (P3) (B.Barnaky),66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.3,3,5,42,MEM,MEM,tov,37,False,False,,Valanciunas Offensive Foul Turnover (P2.T14),66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.55,3,5,27,LAL,MEM,foul,17,False,False,,Grizzlies T.Foul (Def. 3 Sec Valanciunas ) (T.Washington),66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.55,3,5,27,LAL,LAL,ft_miss,16,False,False,MISS James Free Throw Technical,,66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.55,3,5,27,LAL,LAL,reb,1,False,False,LAKERS Rebound,,66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.63,3,5,22,LAL,MEM,foul,1,False,False,,Clarke P.FOUL (P2.PN) (B.Barnaky),66-67,66,67
+0021900054,2019-10-29,LAL,MEM,30.63,3,5,22,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (25 PTS),,67-67,67,67
+0021900054,2019-10-29,LAL,MEM,30.63,3,5,22,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (26 PTS),,68-67,68,67
+0021900054,2019-10-29,LAL,MEM,30.97,3,5,2,MEM,MEM,tov,2,False,True,,Allen Lost Ball Turnover (P2.T15),68-67,68,67
+0021900054,2019-10-29,LAL,MEM,30.97,3,5,2,MEM,LAL,steal,2,False,True,steal,steal,68-67,68,67
+0021900054,2019-10-29,LAL,MEM,31.03,3,4,58,LAL,LAL,fg_make,106,False,False,Davis 1' Running Alley Oop Dunk Shot (28 PTS) (Green 1 AST),,70-67,70,67
+0021900054,2019-10-29,LAL,MEM,31.43,3,4,34,MEM,MEM,fg3_miss,1,False,False,,MISS Crowder 26' 3PT Jump Shot,70-67,70,67
+0021900054,2019-10-29,LAL,MEM,31.48,3,4,31,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:7 Def:8),,70-67,70,67
+0021900054,2019-10-29,LAL,MEM,31.55,3,4,27,LAL,MEM,foul,1,False,False,,Crowder P.FOUL (P2.PN) (T.Washington),70-67,70,67
+0021900054,2019-10-29,LAL,MEM,31.55,3,4,27,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (29 PTS),,71-67,71,67
+0021900054,2019-10-29,LAL,MEM,31.55,3,4,27,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (30 PTS),,72-67,72,67
+0021900054,2019-10-29,LAL,MEM,31.85,3,4,9,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 26' 3PT Jump Shot,72-67,72,67
+0021900054,2019-10-29,LAL,MEM,31.88,3,4,7,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:2),,72-67,72,67
+0021900054,2019-10-29,LAL,MEM,32.12,3,3,53,LAL,LAL,fg_make,73,False,False,James 1' Driving Reverse Layup (15 PTS),,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.13,3,3,52,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.4 Short 0),74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.4,3,3,36,MEM,MEM,fg_miss,79,False,False,,MISS Allen 11' Pullup Jump Shot,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.45,3,3,33,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:7 Def:9),,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.67,3,3,20,LAL,LAL,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.77,3,3,14,MEM,MEM,reb,0,False,False,,Crowder REBOUND (Off:1 Def:4),74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.83,3,3,10,MEM,MEM,fg_miss,44,True,False,,MISS Allen 4' Reverse Layup,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.83,3,3,10,MEM,LAL,block,44,True,False,block,block,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.87,3,3,8,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:3),,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.95,3,3,3,MEM,LAL,foul,4,False,False,Howard OFF.Foul (P4) (T.Washington),,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,32.95,3,3,3,LAL,LAL,tov,37,False,False,Howard Offensive Foul Turnover (P1.T11),,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,33.22,3,2,47,MEM,MEM,fg_miss,78,False,False,,MISS Clarke 9' Floating Jump Shot,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,33.27,3,2,44,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:3),,74-67,74,67
+0021900054,2019-10-29,LAL,MEM,33.4,3,2,36,LAL,LAL,fg_make,79,False,False,Cook 19' Pullup Jump Shot (4 PTS),,76-67,76,67
+0021900054,2019-10-29,LAL,MEM,33.62,3,2,23,MEM,MEM,tov,2,False,True,,Allen Lost Ball Turnover (P3.T16),76-67,76,67
+0021900054,2019-10-29,LAL,MEM,33.62,3,2,23,MEM,LAL,steal,2,False,True,steal,steal,76-67,76,67
+0021900054,2019-10-29,LAL,MEM,33.67,3,2,20,LAL,LAL,fg_make,41,False,False,Bradley 1' Running Layup (12 PTS) (Davis 2 AST),,78-67,78,67
+0021900054,2019-10-29,LAL,MEM,33.98,3,2,1,MEM,MEM,fg_miss,73,False,False,,MISS Anderson 3' Driving Reverse Layup,78-67,78,67
+0021900054,2019-10-29,LAL,MEM,34.05,3,1,57,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:1 Def:0),78-67,78,67
+0021900054,2019-10-29,LAL,MEM,34.05,3,1,57,MEM,MEM,fg_miss,97,False,False,,MISS Clarke 1' Tip Layup Shot,78-67,78,67
+0021900054,2019-10-29,LAL,MEM,34.07,3,1,56,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:7 Def:10),,78-67,78,67
+0021900054,2019-10-29,LAL,MEM,34.13,3,1,52,LAL,MEM,foul,1,False,False,,Clarke P.FOUL (P3.PN) (T.Washington),78-67,78,67
+0021900054,2019-10-29,LAL,MEM,34.13,3,1,52,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (31 PTS),,79-67,79,67
+0021900054,2019-10-29,LAL,MEM,34.13,3,1,52,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (32 PTS),,80-67,80,67
+0021900054,2019-10-29,LAL,MEM,34.38,3,1,37,MEM,MEM,fg_miss,66,False,False,,MISS Jackson Jr. 5' Jump Bank Shot,80-67,80,67
+0021900054,2019-10-29,LAL,MEM,34.42,3,1,35,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:7 Def:11),,80-67,80,67
+0021900054,2019-10-29,LAL,MEM,34.42,3,1,35,LAL,MEM,foul,1,False,False,,Jackson Jr. P.FOUL (P5.PN) (T.Washington),80-67,80,67
+0021900054,2019-10-29,LAL,MEM,34.42,3,1,35,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (33 PTS),,81-67,81,67
+0021900054,2019-10-29,LAL,MEM,34.42,3,1,35,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (34 PTS),,82-67,82,67
+0021900054,2019-10-29,LAL,MEM,34.62,3,1,23,MEM,MEM,fg_miss,78,False,False,,MISS Jones 15' Floating Jump Shot,82-67,82,67
+0021900054,2019-10-29,LAL,MEM,34.67,3,1,20,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:7 Def:12),,82-67,82,67
+0021900054,2019-10-29,LAL,MEM,34.77,3,1,14,LAL,MEM,foul,2,False,False,,Caboclo S.FOUL (P1.PN) (B.Barnaky),82-67,82,67
+0021900054,2019-10-29,LAL,MEM,34.77,3,1,14,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (35 PTS),,83-67,83,67
+0021900054,2019-10-29,LAL,MEM,34.77,3,1,14,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (36 PTS),,84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.12,3,0,53,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 28' 3PT Jump Shot,84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.17,3,0,50,MEM,MEM,reb,0,False,False,,Caboclo REBOUND (Off:1 Def:0),84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.22,3,0,47,MEM,MEM,fg3_miss,1,False,False,,MISS Guduric 25' 3PT Jump Shot,84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.27,3,0,44,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:4),,84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.43,3,0,34,LAL,LAL,fg3_miss,1,False,False,MISS Cook 26' 3PT Jump Shot,,84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.47,3,0,32,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:8 Def:12),,84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.47,3,0,32,LAL,MEM,foul,2,False,False,,Guduric S.FOUL (P1.PN) (T.Washington),84-67,84,67
+0021900054,2019-10-29,LAL,MEM,35.47,3,0,32,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (37 PTS),,85-67,85,67
+0021900054,2019-10-29,LAL,MEM,35.47,3,0,32,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (38 PTS),,86-67,86,67
+0021900054,2019-10-29,LAL,MEM,35.77,3,0,14,MEM,MEM,fg_miss,6,True,False,,MISS Caboclo 5' Driving Layup,86-67,86,67
+0021900054,2019-10-29,LAL,MEM,35.77,3,0,14,MEM,LAL,block,6,True,False,block,block,86-67,86,67
+0021900054,2019-10-29,LAL,MEM,35.8,3,0,12,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:4),,86-67,86,67
+0021900054,2019-10-29,LAL,MEM,35.83,3,0,10,LAL,MEM,foul,2,False,False,,Allen S.FOUL (P1.PN) (B.Barnaky),86-67,86,67
+0021900054,2019-10-29,LAL,MEM,35.83,3,0,10,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (39 PTS),,87-67,87,67
+0021900054,2019-10-29,LAL,MEM,35.83,3,0,10,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (40 PTS),,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,MEM,fg_miss,79,True,False,,MISS Allen 7' Pullup Jump Shot,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,LAL,block,79,True,False,block,block,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,,period_end,0,False,False,,,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.0,4,12,0,MEM,,period_start,0,False,False,,,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.12,4,11,53,MEM,MEM,tov,4,False,False,,Guduric Traveling Turnover (P1.T17),88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.37,4,11,38,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 27' 3PT Jump Shot,,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.43,4,11,34,MEM,MEM,reb,0,False,False,,S. Hill REBOUND (Off:0 Def:1),88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.57,4,11,26,MEM,MEM,fg_miss,6,True,False,,MISS Guduric 4' Driving Layup,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.57,4,11,26,MEM,LAL,block,6,True,False,block,block,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.57,4,11,26,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.82,4,11,11,MEM,MEM,fg_make,75,False,False,,Morant 5' Driving Finger Roll Layup (10 PTS),88-69,88,69
+0021900054,2019-10-29,LAL,MEM,37.05,4,10,57,LAL,MEM,foul,1,False,False,,Caboclo P.FOUL (P2.T1) (J.Sterling),88-69,88,69
+0021900054,2019-10-29,LAL,MEM,37.17,4,10,50,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P4.T12),,88-69,88,69
+0021900054,2019-10-29,LAL,MEM,37.17,4,10,50,LAL,MEM,steal,2,False,True,steal,steal,88-69,88,69
+0021900054,2019-10-29,LAL,MEM,37.2,4,10,48,MEM,MEM,tov,40,False,False,,Morant Out of Bounds Lost Ball Turnover (P4.T18),88-69,88,69
+0021900054,2019-10-29,LAL,MEM,37.38,4,10,37,LAL,LAL,fg3_make,1,False,False,James 27' 3PT Jump Shot (18 PTS) (Howard 2 AST),,91-69,91,69
+0021900054,2019-10-29,LAL,MEM,37.82,4,10,11,MEM,MEM,fg3_miss,1,False,False,,MISS Crowder 29' 3PT Jump Shot,91-69,91,69
+0021900054,2019-10-29,LAL,MEM,37.87,4,10,8,MEM,MEM,reb,0,False,False,,S. Hill REBOUND (Off:1 Def:1),91-69,91,69
+0021900054,2019-10-29,LAL,MEM,37.87,4,10,8,MEM,LAL,foul,2,False,False,Howard S.FOUL (P5.T1) (T.Washington),,91-69,91,69
+0021900054,2019-10-29,LAL,MEM,37.87,4,10,8,MEM,MEM,ft_make,11,False,False,,S. Hill Free Throw 1 of 2 (1 PTS),91-70,91,70
+0021900054,2019-10-29,LAL,MEM,37.87,4,10,8,MEM,MEM,ft_make,12,False,False,,S. Hill Free Throw 2 of 2 (2 PTS),91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.0,4,10,0,LAL,LAL,fg_miss,5,True,False,MISS James 4' Layup,,91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.0,4,10,0,LAL,MEM,block,5,True,False,block,block,91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.05,4,9,57,MEM,MEM,reb,0,False,False,,S. Hill REBOUND (Off:1 Def:2),91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.13,4,9,52,MEM,MEM,fg_miss,5,False,False,,MISS Jackson Jr. 4' Layup,91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.18,4,9,49,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:2 Def:3),91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.18,4,9,49,MEM,MEM,fg_miss,72,False,False,,MISS Jackson Jr. 3' Putback Layup,91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.22,4,9,47,LAL,LAL,reb,0,False,False,Cook REBOUND (Off:0 Def:2),,91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.32,4,9,41,LAL,MEM,foul,2,False,False,,S. Hill S.FOUL (P2.T2) (T.Washington),91-71,91,71
+0021900054,2019-10-29,LAL,MEM,38.32,4,9,41,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (19 PTS),,92-71,92,71
+0021900054,2019-10-29,LAL,MEM,38.32,4,9,41,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (20 PTS),,93-71,93,71
+0021900054,2019-10-29,LAL,MEM,38.62,4,9,23,MEM,MEM,fg3_miss,1,False,False,,MISS Guduric 26' 3PT Jump Shot,93-71,93,71
+0021900054,2019-10-29,LAL,MEM,38.7,4,9,18,MEM,MEM,reb,0,False,False,,S. Hill REBOUND (Off:2 Def:2),93-71,93,71
+0021900054,2019-10-29,LAL,MEM,38.72,4,9,17,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 28' 3PT Jump Shot,93-71,93,71
+0021900054,2019-10-29,LAL,MEM,38.77,4,9,14,LAL,LAL,reb,0,False,False,LAKERS Rebound,,93-71,93,71
+0021900054,2019-10-29,LAL,MEM,39.07,4,8,56,LAL,LAL,fg3_make,1,False,False,Daniels 25' 3PT Jump Shot (5 PTS) (James 8 AST),,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.1,4,8,54,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.38,4,8,37,MEM,MEM,fg_miss,5,False,False,,MISS Jackson Jr. 3' Layup,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.43,4,8,34,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:1),,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.48,4,8,31,LAL,LAL,tov,40,False,False,James Out of Bounds Lost Ball Turnover (P5.T13),,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.65,4,8,21,MEM,MEM,fg_miss,78,False,False,,MISS Morant 11' Floating Jump Shot,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.7,4,8,18,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.8,4,8,12,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P6.T14),,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.8,4,8,12,LAL,MEM,steal,2,False,True,steal,steal,96-71,96,71
+0021900054,2019-10-29,LAL,MEM,39.85,4,8,9,MEM,MEM,fg_make,50,False,False,,Morant 1' Running Dunk (12 PTS) (Guduric 2 AST),96-73,96,73
+0021900054,2019-10-29,LAL,MEM,40.08,4,7,55,LAL,LAL,tov,1,False,True,Cook Bad Pass Turnover (P2.T15),,96-73,96,73
+0021900054,2019-10-29,LAL,MEM,40.08,4,7,55,LAL,MEM,steal,1,False,True,steal,steal,96-73,96,73
+0021900054,2019-10-29,LAL,MEM,40.13,4,7,52,MEM,LAL,foul,2,False,False,Caldwell-Pope S.FOUL (P1.T2) (T.Washington),,96-73,96,73
+0021900054,2019-10-29,LAL,MEM,40.13,4,7,52,MEM,MEM,ft_make,11,False,False,,Morant Free Throw 1 of 2 (13 PTS),96-74,96,74
+0021900054,2019-10-29,LAL,MEM,40.13,4,7,52,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (14 PTS),96-75,96,75
+0021900054,2019-10-29,LAL,MEM,40.3,4,7,42,LAL,LAL,fg3_make,1,False,False,James 27' 3PT Jump Shot (23 PTS),,99-75,99,75
+0021900054,2019-10-29,LAL,MEM,40.45,4,7,33,MEM,MEM,fg3_make,1,False,False,,S. Hill 26' 3PT Jump Shot (5 PTS) (Morant 2 AST),99-78,99,78
+0021900054,2019-10-29,LAL,MEM,40.7,4,7,18,LAL,LAL,fg3_miss,1,False,False,MISS James 27' 3PT Jump Shot,,99-78,99,78
+0021900054,2019-10-29,LAL,MEM,40.7,4,7,18,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:2),99-78,99,78
+0021900054,2019-10-29,LAL,MEM,40.8,4,7,12,MEM,MEM,fg_miss,41,True,False,,MISS S. Hill 3' Running Layup,99-78,99,78
+0021900054,2019-10-29,LAL,MEM,40.8,4,7,12,MEM,LAL,block,41,True,False,block,block,99-78,99,78
+0021900054,2019-10-29,LAL,MEM,40.85,4,7,9,LAL,LAL,reb,0,False,False,Cook REBOUND (Off:0 Def:3),,99-78,99,78
+0021900054,2019-10-29,LAL,MEM,40.88,4,7,7,LAL,LAL,fg_make,106,False,False,McGee Running Alley Oop Dunk Shot (6 PTS) (Cook 1 AST),,101-78,101,78
+0021900054,2019-10-29,LAL,MEM,41.2,4,6,48,MEM,MEM,fg3_make,1,False,False,,S. Hill 3PT Jump Shot (8 PTS) (Guduric 3 AST),101-81,101,81
+0021900054,2019-10-29,LAL,MEM,41.5,4,6,30,LAL,LAL,fg_miss,43,False,False,MISS McGee 2' Alley Oop Layup,,101-81,101,81
+0021900054,2019-10-29,LAL,MEM,41.53,4,6,28,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:2 Def:4),101-81,101,81
+0021900054,2019-10-29,LAL,MEM,41.58,4,6,25,MEM,MEM,fg_make,41,False,False,,Morant 3' Running Layup (16 PTS),101-83,101,83
+0021900054,2019-10-29,LAL,MEM,41.6,4,6,24,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,101-83,101,83
+0021900054,2019-10-29,LAL,MEM,41.85,4,6,9,LAL,LAL,fg_make,52,False,False,McGee Alley Oop Dunk (8 PTS) (Caldwell-Pope 3 AST),,103-83,103,83
+0021900054,2019-10-29,LAL,MEM,42.03,4,5,58,MEM,LAL,foul,2,False,False,Caldwell-Pope S.FOUL (P2.T3) (J.Sterling),,103-83,103,83
+0021900054,2019-10-29,LAL,MEM,42.03,4,5,58,MEM,MEM,ft_make,11,False,False,,Allen Free Throw 1 of 2 (10 PTS),103-84,103,84
+0021900054,2019-10-29,LAL,MEM,42.03,4,5,58,MEM,MEM,ft_make,12,False,False,,Allen Free Throw 2 of 2 (11 PTS),103-85,103,85
+0021900054,2019-10-29,LAL,MEM,42.2,4,5,48,LAL,LAL,fg_make,47,False,False,Caldwell-Pope 17' Turnaround Jump Shot (3 PTS) (Dudley 1 AST),,105-85,105,85
+0021900054,2019-10-29,LAL,MEM,42.35,4,5,39,MEM,LAL,violation,5,False,False,Daniels Violation:Kicked Ball (T.Washington),,105-85,105,85
+0021900054,2019-10-29,LAL,MEM,42.45,4,5,33,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 27' 3PT Jump Shot,105-85,105,85
+0021900054,2019-10-29,LAL,MEM,42.5,4,5,30,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:5),,105-85,105,85
+0021900054,2019-10-29,LAL,MEM,42.62,4,5,23,LAL,LAL,fg_miss,80,False,False,MISS Caldwell-Pope 12' Step Back Jump Shot,,105-85,105,85
+0021900054,2019-10-29,LAL,MEM,42.62,4,5,23,MEM,MEM,reb,0,False,False,,Guduric REBOUND (Off:0 Def:2),105-85,105,85
+0021900054,2019-10-29,LAL,MEM,42.82,4,5,11,MEM,MEM,fg_make,79,False,False,,Clarke 10' Pullup Jump Shot (8 PTS) (Melton 1 AST),105-87,105,87
+0021900054,2019-10-29,LAL,MEM,43.05,4,4,57,LAL,LAL,fg_miss,80,True,False,MISS Daniels 17' Step Back Jump Shot,,105-87,105,87
+0021900054,2019-10-29,LAL,MEM,43.05,4,4,57,LAL,MEM,block,80,True,False,block,block,105-87,105,87
+0021900054,2019-10-29,LAL,MEM,43.1,4,4,54,MEM,MEM,reb,0,False,False,,Allen REBOUND (Off:0 Def:4),105-87,105,87
+0021900054,2019-10-29,LAL,MEM,43.2,4,4,48,MEM,MEM,fg_miss,1,False,False,,MISS Melton 5' Jump Shot,105-87,105,87
+0021900054,2019-10-29,LAL,MEM,43.23,4,4,46,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:6),,105-87,105,87
+0021900054,2019-10-29,LAL,MEM,43.32,4,4,41,LAL,LAL,fg_make,79,False,False,Caldwell-Pope 19' Pullup Jump Shot (5 PTS) (Caruso 2 AST),,107-87,107,87
+0021900054,2019-10-29,LAL,MEM,43.57,4,4,26,MEM,LAL,foul,2,False,False,McGee S.FOUL (P2.T4) (B.Barnaky),,107-87,107,87
+0021900054,2019-10-29,LAL,MEM,43.57,4,4,26,MEM,MEM,ft_make,11,False,False,,Allen Free Throw 1 of 2 (12 PTS),107-88,107,88
+0021900054,2019-10-29,LAL,MEM,43.57,4,4,26,MEM,MEM,ft_make,12,False,False,,Allen Free Throw 2 of 2 (13 PTS),107-89,107,89
+0021900054,2019-10-29,LAL,MEM,43.72,4,4,17,LAL,LAL,fg_make,79,False,False,Caldwell-Pope 19' Pullup Jump Shot (7 PTS),,109-89,109,89
+0021900054,2019-10-29,LAL,MEM,43.95,4,4,3,MEM,MEM,tov,1,False,True,,Allen Bad Pass Turnover (P4.T19),109-89,109,89
+0021900054,2019-10-29,LAL,MEM,43.95,4,4,3,MEM,LAL,steal,1,False,True,steal,steal,109-89,109,89
+0021900054,2019-10-29,LAL,MEM,44.3,4,3,42,LAL,LAL,fg_make,79,False,False,Caldwell-Pope 17' Pullup Jump Shot (9 PTS),,111-89,111,89
+0021900054,2019-10-29,LAL,MEM,44.7,4,3,18,MEM,MEM,fg3_miss,1,False,False,,MISS Caboclo 25' 3PT Jump Shot,111-89,111,89
+0021900054,2019-10-29,LAL,MEM,44.75,4,3,15,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:2),,111-89,111,89
+0021900054,2019-10-29,LAL,MEM,44.88,4,3,7,LAL,LAL,fg_make,79,False,False,Caldwell-Pope 20' Pullup Jump Shot (11 PTS),,113-89,113,89
+0021900054,2019-10-29,LAL,MEM,45.1,4,2,54,MEM,MEM,tov,1,False,True,,Melton Bad Pass Turnover (P1.T20),113-89,113,89
+0021900054,2019-10-29,LAL,MEM,45.1,4,2,54,MEM,LAL,steal,1,False,True,steal,steal,113-89,113,89
+0021900054,2019-10-29,LAL,MEM,45.18,4,2,49,LAL,LAL,fg3_make,103,False,False,Cook 25' 3PT Running Pull-Up Jump Shot (7 PTS) (Caruso 3 AST),,116-89,116,89
+0021900054,2019-10-29,LAL,MEM,45.2,4,2,48,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.6 Short 0),116-89,116,89
+0021900054,2019-10-29,LAL,MEM,45.35,4,2,39,MEM,MEM,fg_miss,79,False,False,,MISS Clarke 19' Pullup Jump Shot,116-89,116,89
+0021900054,2019-10-29,LAL,MEM,45.38,4,2,37,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:3),,116-89,116,89
+0021900054,2019-10-29,LAL,MEM,45.58,4,2,25,LAL,LAL,fg_make,52,False,False,Caldwell-Pope Alley Oop Dunk (13 PTS) (Caruso 4 AST),,118-89,118,89
+0021900054,2019-10-29,LAL,MEM,45.87,4,2,8,MEM,LAL,foul,2,False,False,Dudley S.FOUL (P1.PN) (T.Washington),,118-89,118,89
+0021900054,2019-10-29,LAL,MEM,45.87,4,2,8,MEM,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (9 PTS),118-90,118,90
+0021900054,2019-10-29,LAL,MEM,45.87,4,2,8,MEM,MEM,ft_make,12,False,False,,Clarke Free Throw 2 of 2 (10 PTS),118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.03,4,1,58,MEM,LAL,foul,4,False,False,McGee OFF.Foul (P3) (J.Sterling),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.03,4,1,58,LAL,LAL,tov,37,False,False,McGee Offensive Foul Turnover (P1.T16),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.23,4,1,46,MEM,MEM,fg3_miss,1,False,False,,MISS Caboclo 26' 3PT Jump Shot,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.27,4,1,44,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:6),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.37,4,1,38,MEM,LAL,foul,4,False,False,Caldwell-Pope OFF.Foul (P3) (J.Sterling),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.37,4,1,38,LAL,LAL,tov,37,False,False,Caldwell-Pope Offensive Foul Turnover (P1.T17),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.53,4,1,28,MEM,MEM,tov,45,False,False,,Melton Out of Bounds - Bad Pass Turnover Turnover (P2.T21),118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.73,4,1,16,LAL,LAL,tov,2,False,True,McGee Lost Ball Turnover (P2.T18),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.73,4,1,16,LAL,MEM,steal,2,False,True,steal,steal,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.78,4,1,13,MEM,MEM,fg_miss,41,False,False,,MISS Melton 3' Running Layup,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.8,4,1,12,MEM,MEM,reb,0,False,False,,Allen REBOUND (Off:1 Def:4),118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.82,4,1,11,MEM,MEM,fg_miss,97,False,False,,MISS Allen 1' Tip Layup Shot,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:1 Def:0),118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,MEM,fg_miss,5,True,False,,MISS Clarke 6' Layup,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,LAL,block,5,True,False,block,block,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.97,4,1,2,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 25' 3PT Jump Shot,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,47.0,4,1,0,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:7),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,47.33,4,0,40,LAL,LAL,fg3_miss,1,False,False,MISS Cook 26' 3PT Jump Shot,,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,47.38,4,0,37,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:7),,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,47.4,4,0,36,LAL,LAL,fg_make,9,False,False,McGee Driving Dunk (10 PTS),,120-91,120,91
+0021900054,2019-10-29,LAL,MEM,47.4,4,0,36,LAL,MEM,foul,2,False,False,,Clarke S.FOUL (P4.T3) (T.Washington),120-91,120,91
+0021900054,2019-10-29,LAL,MEM,47.4,4,0,36,LAL,LAL,ft_miss,10,False,False,MISS McGee Free Throw 1 of 1,,120-91,120,91
+0021900054,2019-10-29,LAL,MEM,47.43,4,0,34,MEM,MEM,reb,0,False,False,,Caboclo REBOUND (Off:1 Def:1),120-91,120,91
+0021900054,2019-10-29,LAL,MEM,47.6,4,0,24,MEM,MEM,fg_miss,78,False,False,,MISS Allen 6' Floating Jump Shot,120-91,120,91
+0021900054,2019-10-29,LAL,MEM,47.63,4,0,22,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:8),,120-91,120,91
+0021900054,2019-10-29,LAL,MEM,48.0,4,0,0,LAL,,period_end,0,False,False,,,120-91,120,91

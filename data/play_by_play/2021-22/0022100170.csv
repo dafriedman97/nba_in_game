@@ -1,0 +1,502 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100170,2021-11-10,LAL,MIA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100170,2021-11-10,LAL,MIA,0.0,1,12,0,,LAL,jump_ball,0,False,False,Jump Ball Jordan vs. Adebayo: Tip to Tucker,,0-0,0,0
+0022100170,2021-11-10,LAL,MIA,0.33,1,11,40,MIA,MIA,fg3_miss,1,False,False,,MISS Tucker 26' 3PT Jump Shot,0-0,0,0
+0022100170,2021-11-10,LAL,MIA,0.37,1,11,38,LAL,LAL,reb,0,False,False,Jordan REBOUND (Off:0 Def:1),,0-0,0,0
+0022100170,2021-11-10,LAL,MIA,0.67,1,11,20,LAL,LAL,fg3_miss,1,False,False,MISS Bazemore 25' 3PT Jump Shot,,0-0,0,0
+0022100170,2021-11-10,LAL,MIA,0.73,1,11,16,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:1),0-0,0,0
+0022100170,2021-11-10,LAL,MIA,0.8,1,11,12,MIA,LAL,foul,2,False,False,Jordan S.FOUL (P1.T1) (M.Kogut),,0-0,0,0
+0022100170,2021-11-10,LAL,MIA,0.8,1,11,12,MIA,MIA,ft_make,11,False,False,,Butler Free Throw 1 of 2 (1 PTS),0-1,0,1
+0022100170,2021-11-10,LAL,MIA,0.8,1,11,12,MIA,MIA,ft_make,12,False,False,,Butler Free Throw 2 of 2 (2 PTS),0-2,0,2
+0022100170,2021-11-10,LAL,MIA,1.13,1,10,52,LAL,LAL,fg_miss,1,False,False,MISS Davis 20' Jump Shot,,0-2,0,2
+0022100170,2021-11-10,LAL,MIA,1.17,1,10,50,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:1),0-2,0,2
+0022100170,2021-11-10,LAL,MIA,1.3,1,10,42,MIA,MIA,fg_miss,63,False,False,,MISS Adebayo 11' Fadeaway Jumper,0-2,0,2
+0022100170,2021-11-10,LAL,MIA,1.37,1,10,38,LAL,LAL,reb,0,False,False,Jordan REBOUND (Off:0 Def:2),,0-2,0,2
+0022100170,2021-11-10,LAL,MIA,1.45,1,10,33,LAL,MIA,foul,2,False,False,,Adebayo S.FOUL (P1.T1) (J.Orr),0-2,0,2
+0022100170,2021-11-10,LAL,MIA,1.45,1,10,33,LAL,LAL,ft_make,11,False,False,Jordan Free Throw 1 of 2 (1 PTS),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,1.45,1,10,33,LAL,LAL,ft_miss,12,False,False,MISS Jordan Free Throw 2 of 2,,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,1.48,1,10,31,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:1),1-2,1,2
+0022100170,2021-11-10,LAL,MIA,1.7,1,10,18,MIA,MIA,fg_miss,1,False,False,,MISS Adebayo 12' Jump Shot,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,1.73,1,10,16,LAL,LAL,reb,0,False,False,Jordan REBOUND (Off:0 Def:3),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,1.87,1,10,8,LAL,MIA,foul,1,False,False,,Tucker P.FOUL (P1.T2) (M.Kogut),1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.1,1,9,54,LAL,LAL,tov,1,False,True,Westbrook Bad Pass Turnover (P1.T1),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.1,1,9,54,LAL,MIA,steal,1,False,True,steal,steal,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.37,1,9,38,MIA,MIA,fg_miss,79,False,False,,MISS Butler 14' Pullup Jump Shot,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.43,1,9,34,LAL,LAL,reb,0,False,False,Jordan REBOUND (Off:0 Def:4),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.5,1,9,30,LAL,LAL,fg_miss,41,False,False,MISS Westbrook 1' Running Layup,,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.57,1,9,26,LAL,LAL,fg_miss,97,False,False,MISS Davis Tip Layup Shot,,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.57,1,9,26,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:0),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.58,1,9,25,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:0),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.75,1,9,15,LAL,LAL,fg3_miss,1,False,False,MISS Westbrook 27' 3PT Jump Shot,,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.78,1,9,13,LAL,LAL,reb,0,False,False,Jordan REBOUND (Off:1 Def:4),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.8,1,9,12,LAL,LAL,tov,2,False,True,Jordan Lost Ball Turnover (P1.T2),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.8,1,9,12,LAL,MIA,steal,2,False,True,steal,steal,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.9,1,9,6,MIA,MIA,tov,1,False,True,,Lowry Bad Pass Turnover (P1.T1),1-2,1,2
+0022100170,2021-11-10,LAL,MIA,2.9,1,9,6,MIA,LAL,steal,1,False,True,steal,steal,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.0,1,9,0,LAL,LAL,tov,45,False,False,Bradley Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.2,1,8,48,MIA,MIA,fg_miss,98,False,False,,MISS Adebayo 4' Cutting Layup Shot,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.23,1,8,46,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:0 Def:1),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.5,1,8,30,LAL,LAL,fg_miss,6,False,False,MISS Bradley 3' Driving Layup,,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.55,1,8,27,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:2),1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.6,1,8,24,MIA,MIA,fg3_miss,2,False,False,,MISS Robinson 25' 3PT Running Jump Shot,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.63,1,8,22,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:0 Def:2),,1-2,1,2
+0022100170,2021-11-10,LAL,MIA,3.68,1,8,19,LAL,LAL,fg_make,41,False,False,Bradley 4' Running Layup (2 PTS) (Westbrook 1 AST),,3-2,3,2
+0022100170,2021-11-10,LAL,MIA,3.95,1,8,3,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 27' 3PT Jump Shot,3-2,3,2
+0022100170,2021-11-10,LAL,MIA,4.02,1,7,59,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:1),,3-2,3,2
+0022100170,2021-11-10,LAL,MIA,4.12,1,7,53,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P1.T4),,3-2,3,2
+0022100170,2021-11-10,LAL,MIA,4.12,1,7,53,LAL,MIA,steal,1,False,True,steal,steal,3-2,3,2
+0022100170,2021-11-10,LAL,MIA,4.18,1,7,49,MIA,MIA,fg_make,50,False,False,,Adebayo 1' Running Dunk (2 PTS),3-4,3,4
+0022100170,2021-11-10,LAL,MIA,4.2,1,7,48,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,4.58,1,7,25,LAL,LAL,fg_miss,86,False,False,MISS Davis 12' Turnaround Fadeaway Shot,,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,4.62,1,7,23,MIA,MIA,reb,0,False,False,,Heat Rebound,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,4.83,1,7,10,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 28' 3PT Jump Shot,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,4.88,1,7,7,LAL,LAL,reb,0,False,False,Bazemore REBOUND (Off:0 Def:1),,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,4.97,1,7,2,LAL,MIA,steal,1,False,True,steal,steal,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,4.97,1,7,2,LAL,LAL,tov,1,False,True,Bazemore Bad Pass Turnover (P1.T5),,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,5.0,1,7,0,MIA,LAL,foul,2,False,False,Westbrook S.FOUL (P1.T2) (M.Kogut),,3-4,3,4
+0022100170,2021-11-10,LAL,MIA,5.0,1,7,0,MIA,MIA,ft_make,12,False,False,,Adebayo Free Throw 2 of 2 (4 PTS),3-6,3,6
+0022100170,2021-11-10,LAL,MIA,5.0,1,7,0,MIA,MIA,ft_make,11,False,False,,Adebayo Free Throw 1 of 2 (3 PTS),3-5,3,5
+0022100170,2021-11-10,LAL,MIA,5.23,1,6,46,LAL,LAL,fg3_miss,1,False,False,MISS Bazemore 26' 3PT Jump Shot,,3-6,3,6
+0022100170,2021-11-10,LAL,MIA,5.28,1,6,43,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:3),3-6,3,6
+0022100170,2021-11-10,LAL,MIA,5.35,1,6,39,LAL,MIA,foul,4,False,False,,Adebayo OFF.Foul (P2) (M.Kogut),3-6,3,6
+0022100170,2021-11-10,LAL,MIA,5.35,1,6,39,MIA,MIA,tov,37,False,False,,Adebayo Offensive Foul Turnover (P1.T2),3-6,3,6
+0022100170,2021-11-10,LAL,MIA,5.5,1,6,30,LAL,LAL,fg_make,79,False,False,Westbrook 20' Pullup Jump Shot (2 PTS),,5-6,5,6
+0022100170,2021-11-10,LAL,MIA,5.72,1,6,17,MIA,MIA,reb,1,False,False,,Heat Rebound,5-6,5,6
+0022100170,2021-11-10,LAL,MIA,5.72,1,6,17,MIA,MIA,ft_miss,11,False,False,,MISS Dedmon Free Throw 1 of 2,5-6,5,6
+0022100170,2021-11-10,LAL,MIA,5.72,1,6,17,MIA,LAL,foul,2,False,False,Jordan S.FOUL (P2.T3) (J.Tiven),,5-6,5,6
+0022100170,2021-11-10,LAL,MIA,5.72,1,6,17,MIA,MIA,ft_miss,12,False,False,,MISS Dedmon Free Throw 2 of 2,5-6,5,6
+0022100170,2021-11-10,LAL,MIA,5.9,1,6,6,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:0 Def:3),,5-6,5,6
+0022100170,2021-11-10,LAL,MIA,5.97,1,6,2,LAL,LAL,fg3_make,1,False,False,Anthony 28' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),,8-6,8,6
+0022100170,2021-11-10,LAL,MIA,6.23,1,5,46,MIA,MIA,fg3_make,79,False,False,,Robinson 25' 3PT Pullup Jump Shot (3 PTS) (Lowry 1 AST),8-9,8,9
+0022100170,2021-11-10,LAL,MIA,6.43,1,5,34,LAL,LAL,fg_make,52,False,False,Davis 3' Alley Oop Dunk (2 PTS) (Westbrook 3 AST),,10-9,10,9
+0022100170,2021-11-10,LAL,MIA,6.43,1,5,34,LAL,MIA,foul,2,False,False,,Robinson S.FOUL (P1.T3) (J.Tiven),10-9,10,9
+0022100170,2021-11-10,LAL,MIA,6.43,1,5,34,LAL,LAL,ft_miss,10,False,False,MISS Davis Free Throw 1 of 1,,10-9,10,9
+0022100170,2021-11-10,LAL,MIA,6.47,1,5,32,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:2),10-9,10,9
+0022100170,2021-11-10,LAL,MIA,6.62,1,5,23,MIA,MIA,fg_make,44,False,False,,Dedmon 3' Reverse Layup (2 PTS) (Lowry 2 AST),10-11,10,11
+0022100170,2021-11-10,LAL,MIA,6.78,1,5,13,LAL,LAL,fg3_miss,1,False,False,MISS Bazemore 3PT Jump Shot,,10-11,10,11
+0022100170,2021-11-10,LAL,MIA,6.83,1,5,10,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:1),,10-11,10,11
+0022100170,2021-11-10,LAL,MIA,6.85,1,5,9,LAL,LAL,ft_make,10,False,False,Davis Free Throw 1 of 1 (5 PTS),,13-11,13,11
+0022100170,2021-11-10,LAL,MIA,6.85,1,5,9,LAL,MIA,foul,2,False,False,,Dedmon S.FOUL (P1.T4) (M.Kogut),12-11,12,11
+0022100170,2021-11-10,LAL,MIA,6.85,1,5,9,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:1),,10-11,10,11
+0022100170,2021-11-10,LAL,MIA,6.85,1,5,9,LAL,LAL,fg_miss,97,False,False,MISS Westbrook Tip Layup Shot,,10-11,10,11
+0022100170,2021-11-10,LAL,MIA,6.85,1,5,9,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:3),,10-11,10,11
+0022100170,2021-11-10,LAL,MIA,6.85,1,5,9,LAL,LAL,fg_miss,58,False,False,MISS Davis 3' Turnaround Hook Shot,,10-11,10,11
+0022100170,2021-11-10,LAL,MIA,6.85,1,5,9,LAL,LAL,fg_make,72,False,False,Davis 2' Putback Layup (4 PTS),,12-11,12,11
+0022100170,2021-11-10,LAL,MIA,7.03,1,4,58,MIA,MIA,fg_miss,79,False,False,,MISS Herro 11' Pullup Jump Shot,13-11,13,11
+0022100170,2021-11-10,LAL,MIA,7.07,1,4,56,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:4),,13-11,13,11
+0022100170,2021-11-10,LAL,MIA,7.13,1,4,52,LAL,LAL,fg_miss,74,False,False,MISS Davis 2' Running Reverse Layup,,13-11,13,11
+0022100170,2021-11-10,LAL,MIA,7.2,1,4,48,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:1),13-11,13,11
+0022100170,2021-11-10,LAL,MIA,7.3,1,4,42,MIA,MIA,fg_miss,101,False,False,,MISS Tucker 12' Driving Floating Jump Shot,13-11,13,11
+0022100170,2021-11-10,LAL,MIA,7.3,1,4,42,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:1),13-11,13,11
+0022100170,2021-11-10,LAL,MIA,7.37,1,4,38,MIA,MIA,fg_make,97,False,False,,Dedmon Tip Layup Shot (4 PTS),13-13,13,13
+0022100170,2021-11-10,LAL,MIA,7.63,1,4,22,LAL,LAL,fg3_miss,1,False,False,MISS Monk 28' 3PT Jump Shot,,13-13,13,13
+0022100170,2021-11-10,LAL,MIA,7.68,1,4,19,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:4),13-13,13,13
+0022100170,2021-11-10,LAL,MIA,7.82,1,4,11,MIA,MIA,fg_make,47,False,False,,Butler 14' Turnaround Jump Shot (4 PTS),13-15,13,15
+0022100170,2021-11-10,LAL,MIA,7.82,1,4,11,MIA,LAL,foul,2,False,False,Monk S.FOUL (P1.T4) (M.Kogut),,13-15,13,15
+0022100170,2021-11-10,LAL,MIA,7.82,1,4,11,MIA,MIA,ft_make,10,False,False,,Butler Free Throw 1 of 1 (5 PTS),13-16,13,16
+0022100170,2021-11-10,LAL,MIA,8.0,1,4,0,LAL,LAL,fg_make,1,False,False,Davis 16' Jump Shot (7 PTS),,15-16,15,16
+0022100170,2021-11-10,LAL,MIA,8.18,1,3,49,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 27' 3PT Jump Shot,15-16,15,16
+0022100170,2021-11-10,LAL,MIA,8.25,1,3,45,LAL,LAL,reb,0,False,False,Anthony REBOUND (Off:0 Def:1),,15-16,15,16
+0022100170,2021-11-10,LAL,MIA,8.52,1,3,29,LAL,LAL,fg_make,7,False,False,Davis 2' Dunk (9 PTS),,17-16,17,16
+0022100170,2021-11-10,LAL,MIA,8.52,1,3,29,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),17-16,17,16
+0022100170,2021-11-10,LAL,MIA,8.8,1,3,12,MIA,MIA,ft_make,12,False,False,,Butler Free Throw 2 of 2 (7 PTS),17-18,17,18
+0022100170,2021-11-10,LAL,MIA,8.8,1,3,12,MIA,LAL,foul,2,False,False,Ellington S.FOUL (P1.PN) (M.Kogut),,17-16,17,16
+0022100170,2021-11-10,LAL,MIA,8.8,1,3,12,MIA,MIA,ft_make,11,False,False,,Butler Free Throw 1 of 2 (6 PTS),17-17,17,17
+0022100170,2021-11-10,LAL,MIA,9.03,1,2,58,LAL,MIA,foul,2,False,False,,Dedmon S.FOUL (P2.PN) (M.Kogut),17-18,17,18
+0022100170,2021-11-10,LAL,MIA,9.03,1,2,58,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (10 PTS),,18-18,18,18
+0022100170,2021-11-10,LAL,MIA,9.03,1,2,58,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (11 PTS),,19-18,19,18
+0022100170,2021-11-10,LAL,MIA,9.43,1,2,34,MIA,MIA,fg3_miss,1,False,False,,MISS Butler 28' 3PT Jump Shot,19-18,19,18
+0022100170,2021-11-10,LAL,MIA,9.52,1,2,29,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:1),,19-18,19,18
+0022100170,2021-11-10,LAL,MIA,9.62,1,2,23,LAL,LAL,fg_miss,78,False,False,MISS Davis 4' Floating Jump Shot,,19-18,19,18
+0022100170,2021-11-10,LAL,MIA,9.67,1,2,20,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:2),19-18,19,18
+0022100170,2021-11-10,LAL,MIA,9.8,1,2,12,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 3PT Jump Shot,19-18,19,18
+0022100170,2021-11-10,LAL,MIA,9.87,1,2,8,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:1 Def:0),19-18,19,18
+0022100170,2021-11-10,LAL,MIA,9.87,1,2,8,MIA,MIA,fg_make,97,False,False,,Martin Tip Layup Shot (2 PTS),19-20,19,20
+0022100170,2021-11-10,LAL,MIA,9.97,1,2,2,LAL,LAL,fg3_make,2,False,False,Bradley 3PT Running Jump Shot (5 PTS) (Monk 1 AST),,22-20,22,20
+0022100170,2021-11-10,LAL,MIA,10.25,1,1,45,MIA,MIA,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,22-20,22,20
+0022100170,2021-11-10,LAL,MIA,10.28,1,1,43,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:2),,22-20,22,20
+0022100170,2021-11-10,LAL,MIA,10.42,1,1,35,LAL,LAL,fg3_make,1,False,False,Bradley 3PT Jump Shot (8 PTS) (Davis 1 AST),,25-20,25,20
+0022100170,2021-11-10,LAL,MIA,10.77,1,1,14,MIA,MIA,fg3_make,1,False,False,,Herro 25' 3PT Jump Shot (3 PTS) (Butler 1 AST),25-23,25,23
+0022100170,2021-11-10,LAL,MIA,11.07,1,0,56,LAL,LAL,fg3_make,1,False,False,Bradley 25' 3PT Jump Shot (11 PTS),,28-23,28,23
+0022100170,2021-11-10,LAL,MIA,11.43,1,0,34,MIA,LAL,block,80,True,False,block,block,28-23,28,23
+0022100170,2021-11-10,LAL,MIA,11.43,1,0,34,MIA,MIA,fg_miss,80,True,False,,MISS Herro 20' Step Back Jump Shot,28-23,28,23
+0022100170,2021-11-10,LAL,MIA,11.45,1,0,33,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:0),28-23,28,23
+0022100170,2021-11-10,LAL,MIA,11.48,1,0,31,MIA,MIA,fg_make,1,False,False,,Herro 18' Jump Shot (5 PTS),28-25,28,25
+0022100170,2021-11-10,LAL,MIA,11.57,1,0,26,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:3),28-25,28,25
+0022100170,2021-11-10,LAL,MIA,11.57,1,0,26,LAL,LAL,fg3_miss,1,False,False,MISS Anthony 27' 3PT Jump Shot,,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,11.95,1,0,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,11.95,1,0,3,MIA,MIA,fg_miss,101,False,False,,MISS Robinson 2' Driving Floating Jump Shot,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,11.97,1,0,2,LAL,MIA,steal,1,False,True,steal,steal,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,11.97,1,0,2,LAL,LAL,tov,1,False,True,Monk Bad Pass Turnover (P1.T6),,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.0,2,12,0,MIA,,period_start,0,False,False,,,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.0,1,0,0,MIA,,period_end,0,False,False,,,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.0,1,0,0,MIA,MIA,reb,0,False,False,,Heat Rebound,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.0,1,0,0,MIA,MIA,fg3_miss,2,False,False,,MISS Martin 29' 3PT Running Jump Shot,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.23,2,11,46,LAL,LAL,fg3_miss,1,False,False,MISS Ellington 25' 3PT Jump Shot,,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.28,2,11,43,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:2),28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.53,2,11,28,MIA,MIA,fg3_miss,1,False,False,,MISS Vincent 3PT Jump Shot,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.57,2,11,26,LAL,LAL,reb,0,False,False,Anthony REBOUND (Off:0 Def:2),,28-25,28,25
+0022100170,2021-11-10,LAL,MIA,12.9,2,11,6,LAL,LAL,fg3_make,1,False,False,Ellington 26' 3PT Jump Shot (3 PTS) (Westbrook 4 AST),,31-25,31,25
+0022100170,2021-11-10,LAL,MIA,13.23,2,10,46,MIA,MIA,fg_make,71,False,False,,Adebayo 1' Finger Roll Layup (6 PTS) (Herro 1 AST),31-27,31,27
+0022100170,2021-11-10,LAL,MIA,13.4,2,10,36,LAL,LAL,fg_miss,105,False,False,MISS Westbrook 10' Turnaround Fadeaway Bank Jump Shot,,31-27,31,27
+0022100170,2021-11-10,LAL,MIA,13.43,2,10,34,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:3),31-27,31,27
+0022100170,2021-11-10,LAL,MIA,13.6,2,10,24,MIA,MIA,fg3_miss,1,False,False,,MISS Martin 3PT Jump Shot,31-27,31,27
+0022100170,2021-11-10,LAL,MIA,13.62,2,10,23,LAL,MIA,foul,3,False,False,,Adebayo L.B.FOUL (P3.T1) (J.Orr),31-27,31,27
+0022100170,2021-11-10,LAL,MIA,13.62,2,10,23,LAL,LAL,reb,0,False,False,LAKERS Rebound,,31-27,31,27
+0022100170,2021-11-10,LAL,MIA,13.9,2,10,6,LAL,LAL,fg3_miss,1,False,False,MISS Anthony 26' 3PT Jump Shot,,31-27,31,27
+0022100170,2021-11-10,LAL,MIA,13.93,2,10,4,MIA,MIA,reb,0,False,False,,Martin REBOUND (Off:1 Def:1),31-27,31,27
+0022100170,2021-11-10,LAL,MIA,14.07,2,9,56,MIA,MIA,fg_miss,75,False,False,,MISS Herro 2' Driving Finger Roll Layup,31-27,31,27
+0022100170,2021-11-10,LAL,MIA,14.1,2,9,54,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:5),,31-27,31,27
+0022100170,2021-11-10,LAL,MIA,14.15,2,9,51,LAL,LAL,fg3_miss,2,False,False,MISS Bradley 3PT Running Jump Shot,,31-27,31,27
+0022100170,2021-11-10,LAL,MIA,14.23,2,9,46,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:1),31-27,31,27
+0022100170,2021-11-10,LAL,MIA,14.33,2,9,40,MIA,MIA,fg3_make,1,False,False,,Lowry 25' 3PT Jump Shot (3 PTS) (Herro 2 AST),31-30,31,30
+0022100170,2021-11-10,LAL,MIA,14.57,2,9,26,LAL,,foul,16,False,False,,,31-30,31,30
+0022100170,2021-11-10,LAL,MIA,14.57,2,9,26,LAL,MIA,foul,1,False,False,,Dedmon P.FOUL (P3.T2) (M.Kogut),31-30,31,30
+0022100170,2021-11-10,LAL,MIA,14.73,2,9,16,LAL,LAL,fg_make,63,False,False,Anthony 14' Fadeaway Jumper (5 PTS),,33-30,33,30
+0022100170,2021-11-10,LAL,MIA,14.83,2,9,10,MIA,LAL,foul,2,False,False,Howard S.FOUL (P1.T1) (J.Orr),,33-30,33,30
+0022100170,2021-11-10,LAL,MIA,14.83,2,9,10,MIA,MIA,ft_make,11,False,False,,Lowry Free Throw 1 of 2 (4 PTS),33-31,33,31
+0022100170,2021-11-10,LAL,MIA,14.83,2,9,10,MIA,MIA,ft_make,12,False,False,,Lowry Free Throw 2 of 2 (5 PTS),33-32,33,32
+0022100170,2021-11-10,LAL,MIA,15.08,2,8,55,LAL,MIA,foul,1,False,False,,Haslem P.FOUL (P1.T3) (J.Orr),33-32,33,32
+0022100170,2021-11-10,LAL,MIA,15.18,2,8,49,LAL,MIA,block,9,True,False,block,block,33-32,33,32
+0022100170,2021-11-10,LAL,MIA,15.18,2,8,49,LAL,LAL,fg_miss,9,True,False,MISS Westbrook 5' Driving Dunk,,33-32,33,32
+0022100170,2021-11-10,LAL,MIA,15.23,2,8,46,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:3),33-32,33,32
+0022100170,2021-11-10,LAL,MIA,15.5,2,8,30,MIA,MIA,fg_make,1,False,False,,Haslem 14' Jump Shot (2 PTS) (Martin 1 AST),33-34,33,34
+0022100170,2021-11-10,LAL,MIA,15.77,2,8,14,LAL,LAL,tov,37,False,False,Howard Offensive Foul Turnover (P1.T7),,33-34,33,34
+0022100170,2021-11-10,LAL,MIA,15.77,2,8,14,MIA,LAL,foul,4,False,False,Howard OFF.Foul (P2) (J.Tiven),,33-34,33,34
+0022100170,2021-11-10,LAL,MIA,16.12,2,7,53,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 24' 3PT Jump Shot,33-34,33,34
+0022100170,2021-11-10,LAL,MIA,16.15,2,7,51,LAL,LAL,reb,0,False,False,Bazemore REBOUND (Off:0 Def:2),,33-34,33,34
+0022100170,2021-11-10,LAL,MIA,16.33,2,7,40,LAL,LAL,fg_make,5,False,False,Anthony 2' Layup (7 PTS),,35-34,35,34
+0022100170,2021-11-10,LAL,MIA,16.5,2,7,30,MIA,MIA,tov,45,False,False,,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T3),35-34,35,34
+0022100170,2021-11-10,LAL,MIA,16.7,2,7,18,LAL,MIA,foul,1,False,False,,Martin P.FOUL (P1.T4) (J.Tiven),35-34,35,34
+0022100170,2021-11-10,LAL,MIA,16.8,2,7,12,LAL,LAL,tov,45,False,False,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,35-34,35,34
+0022100170,2021-11-10,LAL,MIA,17.0,2,7,0,MIA,MIA,fg_miss,98,True,False,,MISS Haslem 4' Cutting Layup Shot,35-34,35,34
+0022100170,2021-11-10,LAL,MIA,17.0,2,7,0,MIA,LAL,block,98,True,False,block,block,35-34,35,34
+0022100170,2021-11-10,LAL,MIA,17.05,2,6,57,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:1 Def:4),35-34,35,34
+0022100170,2021-11-10,LAL,MIA,17.15,2,6,51,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,35-34,35,34
+0022100170,2021-11-10,LAL,MIA,17.18,2,6,49,LAL,LAL,reb,0,False,False,Monk REBOUND (Off:0 Def:1),,35-34,35,34
+0022100170,2021-11-10,LAL,MIA,17.25,2,6,45,LAL,LAL,fg_make,101,False,False,Monk 7' Driving Floating Jump Shot (2 PTS),,37-34,37,34
+0022100170,2021-11-10,LAL,MIA,17.43,2,6,34,MIA,MIA,tov,45,False,False,,Herro Out of Bounds - Bad Pass Turnover Turnover (P1.T4),37-34,37,34
+0022100170,2021-11-10,LAL,MIA,17.43,2,6,34,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,37-34,37,34
+0022100170,2021-11-10,LAL,MIA,17.68,2,6,19,LAL,LAL,fg_make,79,False,False,Monk 10' Pullup Jump Shot (4 PTS),,39-34,39,34
+0022100170,2021-11-10,LAL,MIA,18.0,2,6,0,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 26' 3PT Jump Shot,39-34,39,34
+0022100170,2021-11-10,LAL,MIA,18.03,2,5,58,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,39-34,39,34
+0022100170,2021-11-10,LAL,MIA,18.17,2,5,50,LAL,LAL,fg_make,79,False,False,Monk 17' Pullup Jump Shot (6 PTS),,41-34,41,34
+0022100170,2021-11-10,LAL,MIA,18.53,2,5,28,MIA,MIA,fg_make,75,False,False,,Herro 3' Driving Finger Roll Layup (7 PTS),41-36,41,36
+0022100170,2021-11-10,LAL,MIA,18.77,2,5,14,LAL,LAL,fg3_make,1,False,False,Westbrook 3PT Jump Shot (5 PTS) (Monk 2 AST),,44-36,44,36
+0022100170,2021-11-10,LAL,MIA,19.13,2,4,52,MIA,MIA,fg_make,78,False,False,,Tucker 4' Floating Jump Shot (2 PTS) (Robinson 1 AST),44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.43,2,4,34,LAL,LAL,fg3_miss,1,False,False,MISS Westbrook 24' 3PT Jump Shot,,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.48,2,4,31,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:1),,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.6,2,4,24,LAL,LAL,fg3_miss,1,False,False,MISS Monk 29' 3PT Jump Shot,,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.65,2,4,21,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:2 Def:1),,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.65,2,4,21,MIA,LAL,violation,1,False,False,LAKERS Violation: Delay of game Violation,,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.65,2,4,21,LAL,LAL,ft_miss,12,False,False,MISS Howard Free Throw 2 of 2,,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.65,2,4,21,LAL,LAL,reb,1,False,False,LAKERS Rebound,,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.65,2,4,21,LAL,LAL,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.65,2,4,21,LAL,MIA,foul,2,False,False,,Haslem S.FOUL (P2.PN) (J.Orr),44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.73,2,4,16,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:1 Def:5),44-38,44,38
+0022100170,2021-11-10,LAL,MIA,19.8,2,4,12,MIA,MIA,fg3_make,2,False,False,,Lowry 3PT Running Jump Shot (8 PTS) (Robinson 2 AST),44-41,44,41
+0022100170,2021-11-10,LAL,MIA,20.2,2,3,48,LAL,LAL,tov,2,False,True,Davis Lost Ball Turnover (P2.T9),,44-41,44,41
+0022100170,2021-11-10,LAL,MIA,20.2,2,3,48,LAL,MIA,steal,2,False,True,steal,steal,44-41,44,41
+0022100170,2021-11-10,LAL,MIA,20.2,2,3,48,LAL,MIA,foul,4,False,False,,Lowry OFF.Foul (P1) (J.Orr),44-41,44,41
+0022100170,2021-11-10,LAL,MIA,20.2,2,3,48,MIA,MIA,tov,37,False,False,,Lowry Offensive Foul Turnover (P2.T5),44-41,44,41
+0022100170,2021-11-10,LAL,MIA,20.4,2,3,36,LAL,LAL,tov,13,False,False,Monk Backcourt Turnover (P2.T10),,44-41,44,41
+0022100170,2021-11-10,LAL,MIA,20.63,2,3,22,MIA,MIA,fg3_make,1,False,False,,Herro 25' 3PT Jump Shot (10 PTS) (Tucker 1 AST),44-44,44,44
+0022100170,2021-11-10,LAL,MIA,20.97,2,3,2,LAL,LAL,fg3_make,66,False,False,Ellington 3PT Jump Bank Shot (6 PTS) (Monk 3 AST),,47-44,47,44
+0022100170,2021-11-10,LAL,MIA,21.18,2,2,49,MIA,MIA,tov,1,False,True,,Lowry Bad Pass Turnover (P3.T6),47-44,47,44
+0022100170,2021-11-10,LAL,MIA,21.18,2,2,49,MIA,LAL,steal,1,False,True,steal,steal,47-44,47,44
+0022100170,2021-11-10,LAL,MIA,21.23,2,2,46,LAL,LAL,fg_miss,76,False,False,MISS Bradley 2' Running Finger Roll Layup,,47-44,47,44
+0022100170,2021-11-10,LAL,MIA,21.28,2,2,43,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:0 Def:1),47-44,47,44
+0022100170,2021-11-10,LAL,MIA,21.42,2,2,35,MIA,MIA,fg3_make,1,False,False,,Herro 27' 3PT Jump Shot (13 PTS),47-47,47,47
+0022100170,2021-11-10,LAL,MIA,21.42,2,2,35,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,47-47,47,47
+0022100170,2021-11-10,LAL,MIA,21.78,2,2,13,LAL,LAL,fg3_make,80,False,False,Bradley 26' 3PT Step Back Jump Shot (14 PTS) (Ellington 1 AST),,50-47,50,47
+0022100170,2021-11-10,LAL,MIA,22.27,2,1,44,MIA,MIA,fg_make,78,False,False,,Tucker 3' Floating Jump Shot (4 PTS) (Lowry 3 AST),50-49,50,49
+0022100170,2021-11-10,LAL,MIA,22.55,2,1,27,LAL,MIA,steal,1,False,True,steal,steal,50-49,50,49
+0022100170,2021-11-10,LAL,MIA,22.55,2,1,27,LAL,LAL,tov,1,False,True,Westbrook Bad Pass Turnover (P3.T11),,50-49,50,49
+0022100170,2021-11-10,LAL,MIA,22.6,2,1,24,MIA,MIA,tov,1,False,True,,Tucker Bad Pass Turnover (P1.T7),50-49,50,49
+0022100170,2021-11-10,LAL,MIA,22.6,2,1,24,MIA,LAL,steal,1,False,True,steal,steal,50-49,50,49
+0022100170,2021-11-10,LAL,MIA,22.65,2,1,21,LAL,LAL,fg_make,50,False,False,Davis Running Dunk (13 PTS) (Westbrook 5 AST),,52-49,52,49
+0022100170,2021-11-10,LAL,MIA,22.75,2,1,15,MIA,MIA,fg_make,75,False,False,,Herro 1' Driving Finger Roll Layup (15 PTS),52-51,52,51
+0022100170,2021-11-10,LAL,MIA,23.05,2,0,57,LAL,LAL,tov,45,False,False,Davis Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,52-51,52,51
+0022100170,2021-11-10,LAL,MIA,23.22,2,0,47,MIA,MIA,ft_make,10,False,False,,Yurtseven Free Throw 1 of 1 (3 PTS),52-54,52,54
+0022100170,2021-11-10,LAL,MIA,23.22,2,0,47,MIA,MIA,fg_make,9,False,False,,Yurtseven 2' Driving Dunk (2 PTS) (Lowry 4 AST),52-53,52,53
+0022100170,2021-11-10,LAL,MIA,23.22,2,0,47,MIA,LAL,foul,2,False,False,Davis S.FOUL (P1.T2) (J.Orr),,52-53,52,53
+0022100170,2021-11-10,LAL,MIA,23.52,2,0,29,LAL,LAL,fg3_make,1,False,False,Ellington 25' 3PT Jump Shot (9 PTS) (Bradley 1 AST),,55-54,55,54
+0022100170,2021-11-10,LAL,MIA,23.88,2,0,7,MIA,MIA,fg3_make,1,False,False,,Robinson 3PT Jump Shot (6 PTS) (Lowry 5 AST),55-57,55,57
+0022100170,2021-11-10,LAL,MIA,23.98,2,0,1,LAL,LAL,fg3_miss,1,False,False,MISS Anthony 26' 3PT Jump Shot,,55-57,55,57
+0022100170,2021-11-10,LAL,MIA,24.0,2,0,0,LAL,,period_end,0,False,False,,,55-57,55,57
+0022100170,2021-11-10,LAL,MIA,24.0,2,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,55-57,55,57
+0022100170,2021-11-10,LAL,MIA,24.0,3,12,0,LAL,,period_start,0,False,False,,,55-57,55,57
+0022100170,2021-11-10,LAL,MIA,24.43,3,11,34,LAL,LAL,fg3_make,1,False,False,Westbrook 3PT Jump Shot (8 PTS),,58-57,58,57
+0022100170,2021-11-10,LAL,MIA,24.65,3,11,21,MIA,LAL,foul,1,False,False,Bazemore P.FOUL (P1.T1) (J.Tiven),,58-57,58,57
+0022100170,2021-11-10,LAL,MIA,24.85,3,11,9,MIA,MIA,fg3_make,79,False,False,,Herro 27' 3PT Pullup Jump Shot (18 PTS),58-60,58,60
+0022100170,2021-11-10,LAL,MIA,25.25,3,10,45,LAL,LAL,fg_make,1,False,False,Davis 16' Jump Shot (15 PTS) (Bradley 2 AST),,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,25.6,3,10,24,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 27' 3PT Jump Shot,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,25.65,3,10,21,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:2),,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,25.73,3,10,16,LAL,MIA,steal,1,False,True,steal,steal,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,25.73,3,10,16,MIA,MIA,tov,39,False,False,,Adebayo Step Out of Bounds Turnover (P2.T8),60-60,60,60
+0022100170,2021-11-10,LAL,MIA,25.73,3,10,16,LAL,LAL,tov,1,False,True,Bradley Bad Pass Turnover (P2.T13),,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,25.88,3,10,7,LAL,LAL,tov,1,False,True,Westbrook Bad Pass Turnover (P4.T14),,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,25.88,3,10,7,LAL,MIA,steal,1,False,True,steal,steal,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,26.03,3,9,58,MIA,LAL,steal,1,False,True,steal,steal,60-60,60,60
+0022100170,2021-11-10,LAL,MIA,26.03,3,9,58,MIA,MIA,tov,1,False,True,,Herro Bad Pass Turnover (P2.T9),60-60,60,60
+0022100170,2021-11-10,LAL,MIA,26.28,3,9,43,LAL,MIA,violation,5,False,False,,Adebayo Violation:Kicked Ball (J.Orr),60-60,60,60
+0022100170,2021-11-10,LAL,MIA,26.55,3,9,27,LAL,LAL,fg_make,63,False,False,Bazemore 13' Fadeaway Jumper (2 PTS) (Davis 2 AST),,62-60,62,60
+0022100170,2021-11-10,LAL,MIA,26.85,3,9,9,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 3PT Jump Shot,62-60,62,60
+0022100170,2021-11-10,LAL,MIA,26.87,3,9,8,MIA,LAL,foul,3,False,False,Westbrook L.B.FOUL (P2.T2) (J.Orr),,62-60,62,60
+0022100170,2021-11-10,LAL,MIA,26.87,3,9,8,MIA,MIA,reb,0,False,False,,Heat Rebound,62-60,62,60
+0022100170,2021-11-10,LAL,MIA,27.07,3,8,56,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 3PT Jump Shot,62-60,62,60
+0022100170,2021-11-10,LAL,MIA,27.15,3,8,51,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:1 Def:0),62-60,62,60
+0022100170,2021-11-10,LAL,MIA,27.27,3,8,44,MIA,MIA,fg_make,52,False,False,,Adebayo 1' Alley Oop Dunk (8 PTS) (Lowry 6 AST),62-62,62,62
+0022100170,2021-11-10,LAL,MIA,27.63,3,8,22,LAL,LAL,fg_make,1,False,False,Davis 18' Jump Shot (17 PTS) (Westbrook 6 AST),,64-62,64,62
+0022100170,2021-11-10,LAL,MIA,27.87,3,8,8,MIA,MIA,fg_miss,98,False,False,,MISS Adebayo 3' Cutting Layup Shot,64-62,64,62
+0022100170,2021-11-10,LAL,MIA,27.97,3,8,2,MIA,MIA,fg_make,97,False,False,,Adebayo Tip Layup Shot (10 PTS),64-64,64,64
+0022100170,2021-11-10,LAL,MIA,27.97,3,8,2,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:3),64-62,64,62
+0022100170,2021-11-10,LAL,MIA,28.2,3,7,48,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,28.37,3,7,38,LAL,LAL,tov,1,False,True,Westbrook Bad Pass Turnover (P5.T15),,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,28.37,3,7,38,LAL,MIA,steal,1,False,True,steal,steal,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,28.67,3,7,20,LAL,MIA,foul,3,False,False,,Lowry L.B.FOUL (P2.T1) (M.Kogut),64-64,64,64
+0022100170,2021-11-10,LAL,MIA,28.67,3,7,20,MIA,MIA,fg_miss,78,False,False,,MISS Adebayo 11' Floating Jump Shot,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,28.67,3,7,20,LAL,LAL,reb,0,False,False,LAKERS Rebound,,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,28.88,3,7,7,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 27' 3PT Jump Shot,,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,28.97,3,7,2,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:4),64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.15,3,6,51,MIA,MIA,fg_miss,79,False,False,,MISS Herro 19' Pullup Jump Shot,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.18,3,6,49,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:6),,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.32,3,6,41,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 24' 3PT Jump Shot,,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.38,3,6,37,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:4),64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.43,3,6,34,MIA,MIA,reb,1,False,False,,Heat Rebound,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.43,3,6,34,MIA,LAL,foul,2,False,False,Bazemore S.FOUL (P2.T3) (J.Tiven),,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.43,3,6,34,MIA,MIA,ft_make,12,False,False,,Lowry Free Throw 2 of 2 (9 PTS),64-65,64,65
+0022100170,2021-11-10,LAL,MIA,29.43,3,6,34,MIA,MIA,ft_miss,11,False,False,,MISS Lowry Free Throw 1 of 2,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.43,3,6,34,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,64-64,64,64
+0022100170,2021-11-10,LAL,MIA,29.73,3,6,16,LAL,LAL,fg_miss,79,False,False,MISS Westbrook 18' Pullup Jump Shot,,64-65,64,65
+0022100170,2021-11-10,LAL,MIA,29.78,3,6,13,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:1 Def:6),64-65,64,65
+0022100170,2021-11-10,LAL,MIA,29.93,3,6,4,MIA,MIA,fg_miss,5,True,False,,MISS Adebayo 4' Layup,64-65,64,65
+0022100170,2021-11-10,LAL,MIA,29.93,3,6,4,MIA,LAL,block,5,True,False,block,block,64-65,64,65
+0022100170,2021-11-10,LAL,MIA,29.98,3,6,1,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:7),,64-65,64,65
+0022100170,2021-11-10,LAL,MIA,30.0,3,6,0,LAL,LAL,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (10 PTS),,66-65,66,65
+0022100170,2021-11-10,LAL,MIA,30.0,3,6,0,LAL,LAL,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (9 PTS),,65-65,65,65
+0022100170,2021-11-10,LAL,MIA,30.0,3,6,0,LAL,MIA,foul,2,False,False,,Lowry S.FOUL (P3.T2) (J.Tiven),64-65,64,65
+0022100170,2021-11-10,LAL,MIA,30.27,3,5,44,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,66-65,66,65
+0022100170,2021-11-10,LAL,MIA,30.33,3,5,40,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:4),66-65,66,65
+0022100170,2021-11-10,LAL,MIA,30.37,3,5,38,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 25' 3PT Jump Shot,66-65,66,65
+0022100170,2021-11-10,LAL,MIA,30.42,3,5,35,LAL,LAL,reb,0,False,False,Anthony REBOUND (Off:0 Def:3),,66-65,66,65
+0022100170,2021-11-10,LAL,MIA,30.72,3,5,17,LAL,LAL,fg_make,44,False,False,Westbrook 3' Reverse Layup (12 PTS) (Davis 3 AST),,68-65,68,65
+0022100170,2021-11-10,LAL,MIA,30.88,3,5,7,MIA,MIA,fg_make,79,False,False,,Adebayo 10' Pullup Jump Shot (12 PTS),68-67,68,67
+0022100170,2021-11-10,LAL,MIA,31.18,3,4,49,LAL,MIA,steal,1,False,True,steal,steal,68-67,68,67
+0022100170,2021-11-10,LAL,MIA,31.18,3,4,49,LAL,LAL,tov,1,False,True,Westbrook Bad Pass Turnover (P6.T16),,68-67,68,67
+0022100170,2021-11-10,LAL,MIA,31.18,3,4,49,MIA,LAL,foul,28,False,False,Westbrook Personal Take Foul (P3.T4) (M.Kogut),,68-67,68,67
+0022100170,2021-11-10,LAL,MIA,31.37,3,4,38,MIA,MIA,fg_make,6,False,False,,Adebayo 2' Driving Layup (14 PTS) (Lowry 7 AST),68-69,68,69
+0022100170,2021-11-10,LAL,MIA,31.6,3,4,24,LAL,LAL,fg3_make,1,False,False,Davis 27' 3PT Jump Shot (20 PTS) (Ellington 2 AST),,71-69,71,69
+0022100170,2021-11-10,LAL,MIA,31.9,3,4,6,MIA,MIA,fg_make,98,False,False,,Lowry 3' Cutting Layup Shot (11 PTS) (Adebayo 1 AST),71-71,71,71
+0022100170,2021-11-10,LAL,MIA,32.17,3,3,50,LAL,LAL,fg_miss,79,False,False,MISS Anthony 19' Pullup Jump Shot,,71-71,71,71
+0022100170,2021-11-10,LAL,MIA,32.2,3,3,48,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:1 Def:1),71-71,71,71
+0022100170,2021-11-10,LAL,MIA,32.33,3,3,40,MIA,LAL,foul,2,False,False,Anthony S.FOUL (P1.PN) (J.Tiven),,71-71,71,71
+0022100170,2021-11-10,LAL,MIA,32.33,3,3,40,MIA,MIA,ft_make,11,False,False,,Adebayo Free Throw 1 of 2 (15 PTS),71-72,71,72
+0022100170,2021-11-10,LAL,MIA,32.33,3,3,40,MIA,MIA,ft_make,12,False,False,,Adebayo Free Throw 2 of 2 (16 PTS),71-73,71,73
+0022100170,2021-11-10,LAL,MIA,32.53,3,3,28,LAL,LAL,fg3_miss,1,False,False,MISS Anthony 25' 3PT Jump Shot,,71-73,71,73
+0022100170,2021-11-10,LAL,MIA,32.57,3,3,26,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:1 Def:7),71-73,71,73
+0022100170,2021-11-10,LAL,MIA,32.65,3,3,21,MIA,LAL,foul,2,False,False,Anthony S.FOUL (P2.PN) (M.Kogut),,71-73,71,73
+0022100170,2021-11-10,LAL,MIA,32.65,3,3,21,MIA,MIA,ft_make,11,False,False,,Adebayo Free Throw 1 of 2 (17 PTS),71-74,71,74
+0022100170,2021-11-10,LAL,MIA,32.65,3,3,21,MIA,MIA,ft_make,12,False,False,,Adebayo Free Throw 2 of 2 (18 PTS),71-75,71,75
+0022100170,2021-11-10,LAL,MIA,32.98,3,3,1,LAL,LAL,fg_miss,86,False,False,MISS Davis 6' Turnaround Fadeaway Shot,,71-75,71,75
+0022100170,2021-11-10,LAL,MIA,33.02,3,2,59,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:1 Def:2),71-75,71,75
+0022100170,2021-11-10,LAL,MIA,33.2,3,2,48,MIA,MIA,fg_make,1,False,False,,Adebayo 14' Jump Shot (20 PTS) (Lowry 8 AST),71-77,71,77
+0022100170,2021-11-10,LAL,MIA,33.63,3,2,22,LAL,LAL,fg3_make,1,False,False,Ellington 27' 3PT Jump Shot (12 PTS) (Davis 4 AST),,74-77,74,77
+0022100170,2021-11-10,LAL,MIA,33.67,3,2,20,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.2 Short 0),74-77,74,77
+0022100170,2021-11-10,LAL,MIA,33.93,3,2,4,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 3PT Jump Shot,74-77,74,77
+0022100170,2021-11-10,LAL,MIA,33.98,3,2,1,LAL,LAL,reb,0,False,False,Monk REBOUND (Off:0 Def:2),,74-77,74,77
+0022100170,2021-11-10,LAL,MIA,34.07,3,1,56,LAL,LAL,fg_make,6,False,False,Monk 3' Driving Layup (8 PTS),,76-77,76,77
+0022100170,2021-11-10,LAL,MIA,34.35,3,1,39,MIA,MIA,fg3_make,1,False,False,,Robinson 25' 3PT Jump Shot (9 PTS) (Martin 2 AST),76-80,76,80
+0022100170,2021-11-10,LAL,MIA,34.57,3,1,26,LAL,LAL,fg_miss,101,False,False,MISS Davis 5' Driving Floating Jump Shot,,76-80,76,80
+0022100170,2021-11-10,LAL,MIA,34.6,3,1,24,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:5),76-80,76,80
+0022100170,2021-11-10,LAL,MIA,34.7,3,1,18,MIA,MIA,fg_make,6,False,False,,Lowry 3' Driving Layup (13 PTS) (Robinson 3 AST),76-82,76,82
+0022100170,2021-11-10,LAL,MIA,35.05,3,0,57,LAL,LAL,fg3_make,1,False,False,Monk 26' 3PT Jump Shot (11 PTS) (Westbrook 7 AST),,79-82,79,82
+0022100170,2021-11-10,LAL,MIA,35.27,3,0,44,MIA,MIA,fg_make,44,False,False,,Robinson 2' Reverse Layup (11 PTS) (Adebayo 2 AST),79-84,79,84
+0022100170,2021-11-10,LAL,MIA,35.48,3,0,31,LAL,LAL,fg3_miss,1,False,False,MISS Ellington 3PT Jump Shot,,79-84,79,84
+0022100170,2021-11-10,LAL,MIA,35.55,3,0,27,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:5),79-84,79,84
+0022100170,2021-11-10,LAL,MIA,35.8,3,0,12,MIA,MIA,fg_make,44,False,False,,Vincent 1' Reverse Layup (2 PTS) (Adebayo 3 AST),79-86,79,86
+0022100170,2021-11-10,LAL,MIA,35.98,3,0,1,LAL,LAL,fg3_make,79,False,False,Westbrook 25' 3PT Pullup Jump Shot (15 PTS),,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.0,3,0,0,LAL,,period_end,0,False,False,,,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.0,4,12,0,LAL,,period_start,0,False,False,,,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.13,4,11,52,MIA,MIA,fg_miss,5,False,False,,MISS Adebayo 3' Layup,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.18,4,11,49,LAL,LAL,reb,0,False,False,Monk REBOUND (Off:0 Def:3),,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.22,4,11,47,LAL,MIA,steal,1,False,True,steal,steal,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.22,4,11,47,LAL,LAL,tov,1,False,True,Monk Bad Pass Turnover (P3.T17),,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.22,4,11,47,MIA,LAL,foul,28,False,False,Monk Personal Take Foul (P2.T1) (J.Tiven),,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.45,4,11,33,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 24' 3PT Jump Shot,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.52,4,11,29,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:8),,82-86,82,86
+0022100170,2021-11-10,LAL,MIA,36.58,4,11,25,LAL,LAL,fg_make,108,False,False,Monk 1' Cutting Dunk Shot (13 PTS) (Westbrook 8 AST),,84-86,84,86
+0022100170,2021-11-10,LAL,MIA,36.8,4,11,12,MIA,MIA,fg_miss,1,False,False,,MISS Adebayo 12' Jump Shot,84-86,84,86
+0022100170,2021-11-10,LAL,MIA,36.83,4,11,10,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:9),,84-86,84,86
+0022100170,2021-11-10,LAL,MIA,36.97,4,11,2,LAL,LAL,fg_miss,86,False,False,MISS Westbrook 13' Turnaround Fadeaway Shot,,84-86,84,86
+0022100170,2021-11-10,LAL,MIA,36.98,4,11,1,LAL,LAL,reb,0,False,False,LAKERS Rebound,,84-86,84,86
+0022100170,2021-11-10,LAL,MIA,37.15,4,10,51,LAL,LAL,fg3_make,1,False,False,Monk 3PT Jump Shot (16 PTS) (Westbrook 9 AST),,87-86,87,86
+0022100170,2021-11-10,LAL,MIA,37.37,4,10,38,LAL,MIA,foul,4,False,False,,Herro OFF.Foul (P1) (J.Tiven),87-86,87,86
+0022100170,2021-11-10,LAL,MIA,37.37,4,10,38,MIA,MIA,tov,37,False,False,,Herro Offensive Foul Turnover (P3.T10),87-86,87,86
+0022100170,2021-11-10,LAL,MIA,37.65,4,10,21,MIA,LAL,foul,4,False,False,Howard OFF.Foul (P3) (J.Tiven),,87-86,87,86
+0022100170,2021-11-10,LAL,MIA,37.65,4,10,21,LAL,LAL,tov,37,False,False,Howard Offensive Foul Turnover (P2.T18),,87-86,87,86
+0022100170,2021-11-10,LAL,MIA,37.82,4,10,11,MIA,MIA,ft_make,12,False,False,,Vincent Free Throw 2 of 2 (4 PTS),87-88,87,88
+0022100170,2021-11-10,LAL,MIA,37.82,4,10,11,MIA,LAL,foul,2,False,False,Howard S.FOUL (P4.T2) (J.Orr),,87-86,87,86
+0022100170,2021-11-10,LAL,MIA,37.82,4,10,11,MIA,MIA,ft_make,11,False,False,,Vincent Free Throw 1 of 2 (3 PTS),87-87,87,87
+0022100170,2021-11-10,LAL,MIA,38.12,4,9,53,LAL,LAL,fg_make,79,False,False,Westbrook 17' Pullup Jump Shot (17 PTS),,89-88,89,88
+0022100170,2021-11-10,LAL,MIA,38.3,4,9,42,MIA,LAL,block,9,True,False,block,block,89-88,89,88
+0022100170,2021-11-10,LAL,MIA,38.3,4,9,42,MIA,MIA,fg_miss,9,True,False,,MISS Martin 15' Driving Dunk,89-88,89,88
+0022100170,2021-11-10,LAL,MIA,38.35,4,9,39,LAL,LAL,ft_make,12,False,False,Monk Free Throw 2 of 2 (18 PTS),,91-88,91,88
+0022100170,2021-11-10,LAL,MIA,38.35,4,9,39,LAL,LAL,ft_make,11,False,False,Monk Free Throw 1 of 2 (17 PTS),,90-88,90,88
+0022100170,2021-11-10,LAL,MIA,38.35,4,9,39,LAL,MIA,foul,2,False,False,,Vincent S.FOUL (P1.T1) (J.Orr),89-88,89,88
+0022100170,2021-11-10,LAL,MIA,38.35,4,9,39,LAL,LAL,reb,0,False,False,Monk REBOUND (Off:0 Def:4),,89-88,89,88
+0022100170,2021-11-10,LAL,MIA,38.57,4,9,26,MIA,MIA,reb,0,False,False,,Heat Rebound,91-88,91,88
+0022100170,2021-11-10,LAL,MIA,38.57,4,9,26,MIA,MIA,fg_miss,72,True,False,,MISS Dedmon 3' Putback Layup,91-88,91,88
+0022100170,2021-11-10,LAL,MIA,38.57,4,9,26,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:2 Def:3),91-88,91,88
+0022100170,2021-11-10,LAL,MIA,38.57,4,9,26,MIA,MIA,fg_miss,102,False,False,,MISS Herro 2' Driving Floating Bank Jump Shot,91-88,91,88
+0022100170,2021-11-10,LAL,MIA,38.57,4,9,26,MIA,LAL,block,72,True,False,block,block,91-88,91,88
+0022100170,2021-11-10,LAL,MIA,38.6,4,9,24,MIA,MIA,fg_make,1,False,False,,Herro 19' Jump Shot (20 PTS) (Lowry 9 AST),91-90,91,90
+0022100170,2021-11-10,LAL,MIA,38.87,4,9,8,LAL,LAL,fg_make,6,False,False,Westbrook 2' Driving Layup (19 PTS),,93-90,93,90
+0022100170,2021-11-10,LAL,MIA,39.03,4,8,58,MIA,LAL,foul,1,False,False,Howard P.FOUL (P5.T3) (J.Orr),,93-90,93,90
+0022100170,2021-11-10,LAL,MIA,39.17,4,8,50,MIA,MIA,ft_make,12,False,False,,Adebayo Free Throw 2 of 2 (22 PTS),93-92,93,92
+0022100170,2021-11-10,LAL,MIA,39.17,4,8,50,MIA,LAL,foul,2,False,False,Howard S.FOUL (P6.T4) (M.Kogut),,93-90,93,90
+0022100170,2021-11-10,LAL,MIA,39.17,4,8,50,MIA,MIA,ft_make,11,False,False,,Adebayo Free Throw 1 of 2 (21 PTS),93-91,93,91
+0022100170,2021-11-10,LAL,MIA,39.4,4,8,36,LAL,LAL,fg_miss,79,False,False,MISS Westbrook 18' Pullup Jump Shot,,93-92,93,92
+0022100170,2021-11-10,LAL,MIA,39.45,4,8,33,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:6),93-92,93,92
+0022100170,2021-11-10,LAL,MIA,39.65,4,8,21,MIA,MIA,fg3_make,1,False,False,,Herro 25' 3PT Jump Shot (23 PTS) (Lowry 10 AST),93-95,93,95
+0022100170,2021-11-10,LAL,MIA,39.67,4,8,20,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,93-95,93,95
+0022100170,2021-11-10,LAL,MIA,39.9,4,8,6,LAL,LAL,fg_miss,1,False,False,MISS Davis 14' Jump Shot,,93-95,93,95
+0022100170,2021-11-10,LAL,MIA,39.97,4,8,2,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:1 Def:8),93-95,93,95
+0022100170,2021-11-10,LAL,MIA,40.07,4,7,56,MIA,MIA,ft_make,11,False,False,,Tucker Free Throw 1 of 2 (5 PTS),93-96,93,96
+0022100170,2021-11-10,LAL,MIA,40.07,4,7,56,MIA,LAL,foul,1,False,False,Bazemore P.FOUL (P3.PN) (J.Orr),,93-95,93,95
+0022100170,2021-11-10,LAL,MIA,40.07,4,7,56,MIA,MIA,ft_make,12,False,False,,Tucker Free Throw 2 of 2 (6 PTS),93-97,93,97
+0022100170,2021-11-10,LAL,MIA,40.22,4,7,47,LAL,LAL,tov,37,False,False,Davis Offensive Foul Turnover (P4.T19),,93-97,93,97
+0022100170,2021-11-10,LAL,MIA,40.22,4,7,47,MIA,LAL,foul,26,False,False,Davis Offensive Charge Foul (P2) (J.Tiven),,93-97,93,97
+0022100170,2021-11-10,LAL,MIA,40.45,4,7,33,MIA,LAL,foul,2,False,False,Monk S.FOUL (P3.PN) (J.Orr),,93-97,93,97
+0022100170,2021-11-10,LAL,MIA,40.45,4,7,33,MIA,MIA,ft_make,13,False,False,,Lowry Free Throw 1 of 3 (14 PTS),93-98,93,98
+0022100170,2021-11-10,LAL,MIA,40.45,4,7,33,MIA,MIA,ft_make,14,False,False,,Lowry Free Throw 2 of 3 (15 PTS),93-99,93,99
+0022100170,2021-11-10,LAL,MIA,40.45,4,7,33,MIA,MIA,ft_make,15,False,False,,Lowry Free Throw 3 of 3 (16 PTS),93-100,93,100
+0022100170,2021-11-10,LAL,MIA,40.7,4,7,18,LAL,MIA,block,101,True,False,block,block,93-100,93,100
+0022100170,2021-11-10,LAL,MIA,40.7,4,7,18,LAL,LAL,fg_miss,101,True,False,MISS Bradley 6' Driving Floating Jump Shot,,93-100,93,100
+0022100170,2021-11-10,LAL,MIA,40.73,4,7,16,LAL,LAL,reb,0,False,False,LAKERS Rebound,,93-100,93,100
+0022100170,2021-11-10,LAL,MIA,40.85,4,7,9,LAL,LAL,fg_miss,86,False,False,MISS Davis 12' Turnaround Fadeaway Shot,,93-100,93,100
+0022100170,2021-11-10,LAL,MIA,40.9,4,7,6,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:2),93-100,93,100
+0022100170,2021-11-10,LAL,MIA,41.03,4,6,58,MIA,MIA,fg_miss,58,False,False,,MISS Adebayo 8' Turnaround Hook Shot,93-100,93,100
+0022100170,2021-11-10,LAL,MIA,41.1,4,6,54,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:2 Def:8),93-100,93,100
+0022100170,2021-11-10,LAL,MIA,41.1,4,6,54,MIA,MIA,fg_make,97,False,False,,Tucker Tip Layup Shot (8 PTS),93-102,93,102
+0022100170,2021-11-10,LAL,MIA,41.27,4,6,44,LAL,LAL,fg_miss,6,False,False,MISS Westbrook 6' Driving Layup,,93-102,93,102
+0022100170,2021-11-10,LAL,MIA,41.32,4,6,41,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:7),93-102,93,102
+0022100170,2021-11-10,LAL,MIA,41.47,4,6,32,MIA,MIA,tov,45,False,False,,Tucker Out of Bounds - Bad Pass Turnover Turnover (P2.T11),93-102,93,102
+0022100170,2021-11-10,LAL,MIA,41.58,4,6,25,LAL,LAL,fg_make,43,False,False,Davis 3' Alley Oop Layup (22 PTS) (Westbrook 10 AST),,95-102,95,102
+0022100170,2021-11-10,LAL,MIA,41.6,4,6,24,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.3 Short 0),95-102,95,102
+0022100170,2021-11-10,LAL,MIA,41.97,4,6,2,MIA,MIA,fg_miss,98,False,False,,MISS Adebayo 3' Cutting Layup Shot,95-102,95,102
+0022100170,2021-11-10,LAL,MIA,42.0,4,6,0,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:3),,95-102,95,102
+0022100170,2021-11-10,LAL,MIA,42.15,4,5,51,LAL,LAL,fg3_miss,1,False,False,MISS Davis 27' 3PT Jump Shot,,95-102,95,102
+0022100170,2021-11-10,LAL,MIA,42.2,4,5,48,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:1 Def:3),95-102,95,102
+0022100170,2021-11-10,LAL,MIA,42.33,4,5,40,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 3PT Jump Shot,95-102,95,102
+0022100170,2021-11-10,LAL,MIA,42.35,4,5,39,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:10),,95-102,95,102
+0022100170,2021-11-10,LAL,MIA,42.35,4,5,39,LAL,MIA,foul,1,False,False,,Tucker P.FOUL (P2.T2) (J.Tiven),95-102,95,102
+0022100170,2021-11-10,LAL,MIA,42.58,4,5,25,LAL,LAL,fg_make,79,False,False,Anthony 12' Pullup Jump Shot (9 PTS) (Westbrook 11 AST),,97-102,97,102
+0022100170,2021-11-10,LAL,MIA,42.83,4,5,10,MIA,MIA,fg_make,79,False,False,,Herro 17' Pullup Jump Shot (25 PTS) (Adebayo 4 AST),97-104,97,104
+0022100170,2021-11-10,LAL,MIA,43.2,4,4,48,LAL,LAL,fg_miss,80,False,False,MISS Anthony 12' Step Back Jump Shot,,97-104,97,104
+0022100170,2021-11-10,LAL,MIA,43.25,4,4,45,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:6),97-104,97,104
+0022100170,2021-11-10,LAL,MIA,43.25,4,4,45,MIA,LAL,foul,2,False,False,Bradley S.FOUL (P1.PN) (J.Tiven),,97-104,97,104
+0022100170,2021-11-10,LAL,MIA,43.25,4,4,45,MIA,MIA,ft_make,11,False,False,,Adebayo Free Throw 1 of 2 (23 PTS),97-105,97,105
+0022100170,2021-11-10,LAL,MIA,43.25,4,4,45,MIA,MIA,ft_make,12,False,False,,Adebayo Free Throw 2 of 2 (24 PTS),97-106,97,106
+0022100170,2021-11-10,LAL,MIA,43.4,4,4,36,LAL,LAL,fg_make,1,False,False,Anthony 24' Jump Shot (11 PTS) (Westbrook 12 AST),,99-106,99,106
+0022100170,2021-11-10,LAL,MIA,43.88,4,4,7,MIA,MIA,fg_miss,98,False,False,,MISS Robinson 3' Cutting Layup Shot,99-106,99,106
+0022100170,2021-11-10,LAL,MIA,43.92,4,4,5,LAL,LAL,reb,0,False,False,Monk REBOUND (Off:0 Def:5),,99-106,99,106
+0022100170,2021-11-10,LAL,MIA,44.15,4,3,51,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),102-106,102,106
+0022100170,2021-11-10,LAL,MIA,44.15,4,3,51,LAL,LAL,fg3_make,1,False,False,Monk 30' 3PT Jump Shot (21 PTS) (Westbrook 13 AST),,102-106,102,106
+0022100170,2021-11-10,LAL,MIA,44.35,4,3,39,MIA,MIA,fg_make,6,False,False,,Lowry 1' Driving Layup (18 PTS),102-108,102,108
+0022100170,2021-11-10,LAL,MIA,44.6,4,3,24,LAL,MIA,foul,1,False,False,,Tucker P.FOUL (P3.T3) (M.Kogut),102-108,102,108
+0022100170,2021-11-10,LAL,MIA,44.8,4,3,12,LAL,LAL,fg3_make,79,False,False,Bradley 26' 3PT Pullup Jump Shot (17 PTS) (Anthony 1 AST),,105-108,105,108
+0022100170,2021-11-10,LAL,MIA,45.1,4,2,54,MIA,MIA,fg3_miss,79,False,False,,MISS Lowry 26' 3PT Pullup Jump Shot,105-108,105,108
+0022100170,2021-11-10,LAL,MIA,45.17,4,2,50,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:4),,105-108,105,108
+0022100170,2021-11-10,LAL,MIA,45.23,4,2,46,LAL,LAL,fg_make,73,False,False,Westbrook 3' Driving Reverse Layup (21 PTS),,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.47,4,2,32,MIA,LAL,block,79,True,False,block,block,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.47,4,2,32,MIA,MIA,fg_miss,79,True,False,,MISS Herro 16' Pullup Jump Shot,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.52,4,2,29,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:5),,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.57,4,2,26,LAL,LAL,fg3_miss,1,False,False,MISS Monk 28' 3PT Jump Shot,,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.62,4,2,23,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:1 Def:4),107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.75,4,2,15,LAL,MIA,foul,26,False,False,,Adebayo Offensive Charge Foul (P4) (M.Kogut),107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.75,4,2,15,MIA,MIA,tov,37,False,False,,Adebayo Offensive Foul Turnover (P3.T12),107-108,107,108
+0022100170,2021-11-10,LAL,MIA,45.98,4,2,1,LAL,LAL,fg3_miss,1,False,False,MISS Westbrook 26' 3PT Jump Shot,,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,46.05,4,1,57,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:8),107-108,107,108
+0022100170,2021-11-10,LAL,MIA,46.37,4,1,38,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:6),,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,46.37,4,1,38,LAL,MIA,foul,1,False,False,,Tucker P.FOUL (P4.T4) (M.Kogut),107-108,107,108
+0022100170,2021-11-10,LAL,MIA,46.37,4,1,38,MIA,MIA,fg_miss,5,False,False,,MISS Lowry 3' Layup,107-108,107,108
+0022100170,2021-11-10,LAL,MIA,46.62,4,1,23,LAL,MIA,foul,2,False,False,,Robinson S.FOUL (P2.PN) (J.Tiven),107-108,107,108
+0022100170,2021-11-10,LAL,MIA,46.62,4,1,23,LAL,LAL,ft_make,11,False,False,Monk Free Throw 1 of 2 (22 PTS),,108-108,108,108
+0022100170,2021-11-10,LAL,MIA,46.62,4,1,23,LAL,LAL,ft_miss,12,False,False,MISS Monk Free Throw 2 of 2,,108-108,108,108
+0022100170,2021-11-10,LAL,MIA,46.67,4,1,20,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:2 Def:9),108-108,108,108
+0022100170,2021-11-10,LAL,MIA,46.95,4,1,3,MIA,MIA,tov,37,False,False,,Adebayo Offensive Foul Turnover (P4.T13),108-108,108,108
+0022100170,2021-11-10,LAL,MIA,46.95,4,1,3,LAL,MIA,foul,4,False,False,,Adebayo OFF.Foul (P5) (J.Orr),108-108,108,108
+0022100170,2021-11-10,LAL,MIA,47.13,4,0,52,LAL,LAL,fg_make,79,False,False,Westbrook 22' Pullup Jump Shot (23 PTS),,110-108,110,108
+0022100170,2021-11-10,LAL,MIA,47.42,4,0,35,MIA,MIA,fg_make,79,False,False,,Herro 17' Pullup Jump Shot (27 PTS) (Tucker 2 AST),110-110,110,110
+0022100170,2021-11-10,LAL,MIA,47.55,4,0,27,LAL,LAL,fg_make,86,False,False,Westbrook 14' Turnaround Fadeaway (25 PTS),,112-110,112,110
+0022100170,2021-11-10,LAL,MIA,47.55,4,0,27,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),112-110,112,110
+0022100170,2021-11-10,LAL,MIA,47.62,4,0,23,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 7 Short 0),,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,47.62,4,0,23,MIA,MIA,fg_miss,79,False,False,,MISS Herro 22' Pullup Jump Shot,112-110,112,110
+0022100170,2021-11-10,LAL,MIA,47.62,4,0,23,MIA,MIA,fg_make,107,False,False,,Tucker Tip Dunk Shot (10 PTS),112-112,112,112
+0022100170,2021-11-10,LAL,MIA,47.62,4,0,23,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:3 Def:9),112-110,112,110
+0022100170,2021-11-10,LAL,MIA,47.97,4,0,2,LAL,LAL,fg3_miss,1,False,False,MISS Westbrook 26' 3PT Jump Shot,,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.0,4,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.0,4,0,0,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:5 Def:6),,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.0,4,0,0,LAL,LAL,fg_miss,97,False,False,MISS Davis Tip Layup Shot,,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.0,5,5,0,,LAL,jump_ball,0,False,False,Jump Ball Davis vs. Adebayo: Tip to Tucker,,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.0,5,5,0,LAL,,period_start,0,False,False,,,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.0,4,0,0,LAL,,period_end,0,False,False,,,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.3,5,4,42,LAL,LAL,reb,0,False,False,LAKERS Rebound,,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.3,5,4,42,MIA,MIA,fg_miss,57,False,False,,MISS Herro 12' Driving Hook Shot,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.52,5,4,29,LAL,MIA,steal,1,False,True,steal,steal,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.52,5,4,29,LAL,LAL,tov,1,False,True,Westbrook Bad Pass Turnover (P7.T20),,112-112,112,112
+0022100170,2021-11-10,LAL,MIA,48.6,5,4,24,MIA,MIA,fg_make,108,False,False,,Adebayo 2' Cutting Dunk Shot (26 PTS) (Herro 3 AST),112-114,112,114
+0022100170,2021-11-10,LAL,MIA,48.93,5,4,4,LAL,LAL,fg3_make,79,False,False,Monk 25' 3PT Pullup Jump Shot (25 PTS),,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,49.32,5,3,41,MIA,LAL,foul,28,False,False,Westbrook Personal Take Foul (P4.T1) (J.Orr),,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,49.43,5,3,34,MIA,MIA,fg_miss,98,False,False,,MISS Adebayo 6' Cutting Layup Shot,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,49.47,5,3,32,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:4 Def:9),115-114,115,114
+0022100170,2021-11-10,LAL,MIA,49.53,5,3,28,MIA,MIA,fg_miss,79,False,False,,MISS Vincent 16' Pullup Jump Shot,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,49.58,5,3,25,LAL,LAL,reb,0,False,False,Monk REBOUND (Off:0 Def:6),,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,49.75,5,3,15,LAL,MIA,foul,1,False,False,,Lowry P.FOUL (P4.T1) (J.Orr),115-114,115,114
+0022100170,2021-11-10,LAL,MIA,49.95,5,3,3,LAL,LAL,fg_miss,86,False,False,MISS Anthony 16' Turnaround Fadeaway Shot,,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,50.0,5,3,0,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:1 Def:5),115-114,115,114
+0022100170,2021-11-10,LAL,MIA,50.3,5,2,42,MIA,MIA,fg3_miss,79,False,False,,MISS Robinson 26' 3PT Pullup Jump Shot,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,50.35,5,2,39,LAL,LAL,reb,0,False,False,Anthony REBOUND (Off:0 Def:4),,115-114,115,114
+0022100170,2021-11-10,LAL,MIA,50.73,5,2,16,LAL,LAL,fg_make,101,False,False,Monk 3' Driving Floating Jump Shot (27 PTS),,117-114,117,114
+0022100170,2021-11-10,LAL,MIA,50.98,5,2,1,MIA,LAL,steal,1,False,True,steal,steal,117-114,117,114
+0022100170,2021-11-10,LAL,MIA,50.98,5,2,1,MIA,MIA,tov,1,False,True,,Lowry Bad Pass Turnover (P4.T14),117-114,117,114
+0022100170,2021-11-10,LAL,MIA,51.08,5,1,55,LAL,LAL,fg_make,100,False,False,Davis 2' Running Alley Oop Layup Shot (24 PTS) (Westbrook 14 AST),,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,51.38,5,1,37,MIA,MIA,fg_miss,98,False,False,,MISS Tucker 5' Cutting Layup Shot,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,51.43,5,1,34,LAL,LAL,reb,0,False,False,Anthony REBOUND (Off:0 Def:5),,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,51.5,5,1,30,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.6 Short 0),119-114,119,114
+0022100170,2021-11-10,LAL,MIA,51.5,5,1,30,LAL,LAL,tov,4,False,False,Anthony Traveling Turnover (P1.T21),,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,51.67,5,1,20,MIA,MIA,fg3_miss,79,False,False,,MISS Lowry 26' 3PT Pullup Jump Shot,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,51.75,5,1,15,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:5 Def:7),,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,52.1,5,0,54,LAL,MIA,steal,1,False,True,steal,steal,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,52.1,5,0,54,LAL,LAL,tov,1,False,True,Westbrook Bad Pass Turnover (P8.T22),,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,52.17,5,0,50,MIA,LAL,foul,2,False,False,Bradley S.FOUL (P2.T2) (M.Kogut),,119-114,119,114
+0022100170,2021-11-10,LAL,MIA,52.17,5,0,50,MIA,MIA,ft_make,13,False,False,,Robinson Free Throw 1 of 3 (12 PTS),119-115,119,115
+0022100170,2021-11-10,LAL,MIA,52.17,5,0,50,MIA,MIA,ft_miss,14,False,False,,MISS Robinson Free Throw 2 of 3,119-115,119,115
+0022100170,2021-11-10,LAL,MIA,52.17,5,0,50,MIA,MIA,reb,1,False,False,,Heat Rebound,119-115,119,115
+0022100170,2021-11-10,LAL,MIA,52.17,5,0,50,MIA,MIA,ft_miss,15,False,False,,MISS Robinson Free Throw 3 of 3,119-115,119,115
+0022100170,2021-11-10,LAL,MIA,52.2,5,0,48,LAL,LAL,reb,0,False,False,Westbrook REBOUND (Off:1 Def:11),,119-115,119,115
+0022100170,2021-11-10,LAL,MIA,52.45,5,0,33,LAL,LAL,fg_miss,1,False,False,MISS Davis 17' Jump Shot,,119-115,119,115
+0022100170,2021-11-10,LAL,MIA,52.52,5,0,29,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:3),119-115,119,115
+0022100170,2021-11-10,LAL,MIA,52.62,5,0,23,MIA,LAL,foul,2,False,False,Davis S.FOUL (P3.PN) (J.Tiven),,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.62,5,0,23,MIA,MIA,fg_make,98,False,False,,Adebayo 3' Cutting Layup Shot (28 PTS) (Lowry 11 AST),119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.62,5,0,23,MIA,MIA,ft_miss,10,False,False,,MISS Adebayo Free Throw 1 of 1,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.65,5,0,21,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:5 Def:8),,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.65,5,0,21,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 8 Short 0),,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.7,5,0,18,LAL,MIA,foul,1,False,False,,Adebayo P.FOUL (P6.T2) (M.Kogut),119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.7,5,0,18,LAL,LAL,tov,9,False,False,LAKERS Turnover: 5 Second Violation (T#23),,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.85,5,0,9,MIA,MIA,fg3_miss,63,False,False,,MISS Herro 26' 3PT Fadeaway Jumper,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.87,5,0,8,LAL,LAL,reb,0,False,False,Anthony REBOUND (Off:0 Def:6),,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.9,5,0,6,LAL,MIA,foul,28,False,False,,Robinson Personal Take Foul (P3.PN) (J.Tiven),119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.9,5,0,6,LAL,LAL,ft_miss,11,False,False,MISS Anthony Free Throw 1 of 2,,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.9,5,0,6,LAL,LAL,reb,1,False,False,LAKERS Rebound,,119-117,119,117
+0022100170,2021-11-10,LAL,MIA,52.9,5,0,6,LAL,LAL,ft_make,12,False,False,Anthony Free Throw 2 of 2 (12 PTS),,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.9,5,0,6,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.7 Short 0),120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.93,5,0,4,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 25' 3PT Jump Shot,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.97,5,0,2,MIA,MIA,ft_miss,11,False,False,,MISS Dedmon Free Throw 1 of 2,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.97,5,0,2,MIA,MIA,reb,0,False,False,,Heat Rebound,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.97,5,0,2,MIA,LAL,foul,3,False,False,Westbrook L.B.FOUL (P5.PN) (M.Kogut),,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.97,5,0,2,MIA,MIA,ft_miss,12,False,False,,MISS Dedmon Free Throw 2 of 2,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.97,5,0,2,MIA,MIA,reb,1,False,False,,Heat Rebound,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,52.98,5,0,1,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:3),,120-117,120,117
+0022100170,2021-11-10,LAL,MIA,53.0,5,0,0,LAL,,period_end,0,False,False,,,120-117,120,117

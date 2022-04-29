@@ -1,0 +1,472 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900611,2020-01-15,HOU,POR,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900611,2020-01-15,HOU,POR,0.0,1,12,0,,HOU,jump_ball,0,False,False,Jump Ball Capela vs. Whiteside: Tip to Anthony,,0-0,0,0
+0021900611,2020-01-15,HOU,POR,0.18,1,11,49,POR,POR,fg3_miss,1,False,False,,MISS Lillard 28' 3PT Jump Shot,0-0,0,0
+0021900611,2020-01-15,HOU,POR,0.22,1,11,47,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:0 Def:1),,0-0,0,0
+0021900611,2020-01-15,HOU,POR,0.38,1,11,37,HOU,HOU,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (3 PTS),,3-0,3,0
+0021900611,2020-01-15,HOU,POR,0.67,1,11,20,POR,POR,fg_make,98,False,False,,Whiteside 2' Cutting Layup Shot (2 PTS) (McCollum 1 AST),3-2,3,2
+0021900611,2020-01-15,HOU,POR,0.93,1,11,4,HOU,HOU,fg_miss,3,False,False,MISS Capela 6' Hook Shot,,3-2,3,2
+0021900611,2020-01-15,HOU,POR,0.95,1,11,3,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:1),3-2,3,2
+0021900611,2020-01-15,HOU,POR,1.23,1,10,46,POR,POR,fg_make,47,False,False,,Anthony 17' Turnaround Jump Shot (2 PTS) (Bazemore 1 AST),3-4,3,4
+0021900611,2020-01-15,HOU,POR,1.57,1,10,26,HOU,HOU,fg_miss,6,False,False,MISS Westbrook 2' Driving Layup,,3-4,3,4
+0021900611,2020-01-15,HOU,POR,1.62,1,10,23,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:1 Def:0),,3-4,3,4
+0021900611,2020-01-15,HOU,POR,1.62,1,10,23,HOU,HOU,fg_make,97,False,False,Capela 1' Tip Layup Shot (2 PTS),,5-4,5,4
+0021900611,2020-01-15,HOU,POR,1.73,1,10,16,POR,POR,fg_miss,6,True,False,,MISS Lillard 2' Driving Layup,5-4,5,4
+0021900611,2020-01-15,HOU,POR,1.73,1,10,16,POR,HOU,block,6,True,False,block,block,5-4,5,4
+0021900611,2020-01-15,HOU,POR,1.75,1,10,15,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,5-4,5,4
+0021900611,2020-01-15,HOU,POR,1.83,1,10,10,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 3PT Jump Shot,,5-4,5,4
+0021900611,2020-01-15,HOU,POR,1.83,1,10,10,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:2),5-4,5,4
+0021900611,2020-01-15,HOU,POR,1.97,1,10,2,POR,POR,fg_miss,101,False,False,,MISS McCollum 12' Driving Floating Jump Shot,5-4,5,4
+0021900611,2020-01-15,HOU,POR,1.98,1,10,1,POR,POR,reb,0,False,False,,Trail Blazers Rebound,5-4,5,4
+0021900611,2020-01-15,HOU,POR,2.13,1,9,52,POR,POR,tov,2,False,True,,Anthony Lost Ball Turnover (P1.T1),5-4,5,4
+0021900611,2020-01-15,HOU,POR,2.13,1,9,52,POR,HOU,steal,2,False,True,steal,steal,5-4,5,4
+0021900611,2020-01-15,HOU,POR,2.22,1,9,47,HOU,HOU,fg_miss,6,True,False,MISS Harden 7' Driving Layup,,5-4,5,4
+0021900611,2020-01-15,HOU,POR,2.22,1,9,47,HOU,POR,block,6,True,False,block,block,5-4,5,4
+0021900611,2020-01-15,HOU,POR,2.23,1,9,46,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:1 Def:1),,5-4,5,4
+0021900611,2020-01-15,HOU,POR,2.3,1,9,42,HOU,HOU,fg_make,1,False,False,Westbrook 13' Jump Shot (2 PTS) (Capela 1 AST),,7-4,7,4
+0021900611,2020-01-15,HOU,POR,2.57,1,9,26,POR,POR,fg3_make,1,False,False,,Bazemore 24' 3PT Jump Shot (3 PTS) (Lillard 1 AST),7-7,7,7
+0021900611,2020-01-15,HOU,POR,2.77,1,9,14,HOU,HOU,fg_make,6,False,False,Westbrook 2' Driving Layup (4 PTS),,9-7,9,7
+0021900611,2020-01-15,HOU,POR,2.93,1,9,4,POR,POR,fg_miss,6,False,False,,MISS Lillard 1' Driving Layup,9-7,9,7
+0021900611,2020-01-15,HOU,POR,2.95,1,9,3,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:1 Def:1),,9-7,9,7
+0021900611,2020-01-15,HOU,POR,3.08,1,8,55,HOU,HOU,fg_miss,5,False,False,MISS McLemore 2' Layup,,9-7,9,7
+0021900611,2020-01-15,HOU,POR,3.08,1,8,55,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:1),9-7,9,7
+0021900611,2020-01-15,HOU,POR,3.12,1,8,53,POR,POR,tov,39,False,False,,Bazemore Step Out of Bounds Turnover (P1.T2),9-7,9,7
+0021900611,2020-01-15,HOU,POR,3.32,1,8,41,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 25' 3PT Jump Shot,,9-7,9,7
+0021900611,2020-01-15,HOU,POR,3.33,1,8,40,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:1),9-7,9,7
+0021900611,2020-01-15,HOU,POR,3.5,1,8,30,POR,POR,fg_make,5,False,False,,Anthony 2' Layup (4 PTS) (Lillard 2 AST),9-9,9,9
+0021900611,2020-01-15,HOU,POR,3.5,1,8,30,POR,HOU,foul,2,False,False,Harden S.FOUL (P1.T1) (N.Buchert),,9-9,9,9
+0021900611,2020-01-15,HOU,POR,3.5,1,8,30,POR,POR,ft_make,10,False,False,,Anthony Free Throw 1 of 1 (5 PTS),9-10,9,10
+0021900611,2020-01-15,HOU,POR,3.6,1,8,24,HOU,POR,foul,17,False,False,,Trail Blazers T.Foul (Def. 3 Sec Whiteside ) (N.Buchert),9-10,9,10
+0021900611,2020-01-15,HOU,POR,3.6,1,8,24,HOU,HOU,ft_miss,16,False,False,MISS Harden Free Throw Technical,,9-10,9,10
+0021900611,2020-01-15,HOU,POR,3.6,1,8,24,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,9-10,9,10
+0021900611,2020-01-15,HOU,POR,3.75,1,8,15,HOU,HOU,tov,2,False,True,Capela Lost Ball Turnover (P1.T1),,9-10,9,10
+0021900611,2020-01-15,HOU,POR,3.75,1,8,15,HOU,POR,steal,2,False,True,steal,steal,9-10,9,10
+0021900611,2020-01-15,HOU,POR,3.78,1,8,13,POR,HOU,foul,2,False,False,Harden S.FOUL (P2.T2) (D.Guthrie),,9-10,9,10
+0021900611,2020-01-15,HOU,POR,3.78,1,8,13,POR,POR,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (4 PTS),9-11,9,11
+0021900611,2020-01-15,HOU,POR,3.78,1,8,13,POR,POR,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (5 PTS),9-12,9,12
+0021900611,2020-01-15,HOU,POR,3.93,1,8,4,HOU,HOU,fg_make,108,False,False,Harden 1' Cutting Dunk Shot (5 PTS) (Westbrook 1 AST),,11-12,11,12
+0021900611,2020-01-15,HOU,POR,4.18,1,7,49,POR,POR,fg3_miss,1,False,False,,MISS McCollum 25' 3PT Jump Shot,11-12,11,12
+0021900611,2020-01-15,HOU,POR,4.22,1,7,47,POR,POR,reb,0,False,False,,Trail Blazers Rebound,11-12,11,12
+0021900611,2020-01-15,HOU,POR,4.32,1,7,41,POR,POR,fg_make,108,False,False,,Whiteside 2' Cutting Dunk Shot (4 PTS) (Lillard 3 AST),11-14,11,14
+0021900611,2020-01-15,HOU,POR,4.43,1,7,34,HOU,HOU,tov,1,False,True,McLemore Bad Pass Turnover (P1.T2),,11-14,11,14
+0021900611,2020-01-15,HOU,POR,4.43,1,7,34,HOU,POR,steal,1,False,True,steal,steal,11-14,11,14
+0021900611,2020-01-15,HOU,POR,4.52,1,7,29,POR,POR,fg_make,41,False,False,,McCollum 1' Running Layup (2 PTS),11-16,11,16
+0021900611,2020-01-15,HOU,POR,4.77,1,7,14,HOU,HOU,fg_miss,5,False,False,MISS Capela 3' Layup,,11-16,11,16
+0021900611,2020-01-15,HOU,POR,4.78,1,7,13,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:2 Def:1),,11-16,11,16
+0021900611,2020-01-15,HOU,POR,4.78,1,7,13,HOU,HOU,fg_miss,97,False,False,MISS Capela 1' Tip Layup Shot,,11-16,11,16
+0021900611,2020-01-15,HOU,POR,4.82,1,7,11,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:0),,11-16,11,16
+0021900611,2020-01-15,HOU,POR,4.92,1,7,5,HOU,HOU,fg3_make,1,False,False,McLemore 25' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),,14-16,14,16
+0021900611,2020-01-15,HOU,POR,5.22,1,6,47,POR,POR,tov,8,False,False,,Whiteside 3 Second Violation Turnover (P1.T3),14-16,14,16
+0021900611,2020-01-15,HOU,POR,5.22,1,6,47,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,14-16,14,16
+0021900611,2020-01-15,HOU,POR,5.4,1,6,36,HOU,HOU,fg_make,5,False,False,Westbrook 4' Layup (6 PTS),,16-16,16,16
+0021900611,2020-01-15,HOU,POR,5.4,1,6,36,HOU,POR,foul,2,False,False,,Whiteside S.FOUL (P1.T1) (D.Guthrie),16-16,16,16
+0021900611,2020-01-15,HOU,POR,5.4,1,6,36,HOU,HOU,ft_miss,10,False,False,MISS Westbrook Free Throw 1 of 1,,16-16,16,16
+0021900611,2020-01-15,HOU,POR,5.4,1,6,36,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:3),16-16,16,16
+0021900611,2020-01-15,HOU,POR,5.55,1,6,27,POR,HOU,foul,2,False,False,House Jr. S.FOUL (P1.T3) (D.Guthrie),,16-16,16,16
+0021900611,2020-01-15,HOU,POR,5.55,1,6,27,POR,POR,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (5 PTS),16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.55,1,6,27,POR,POR,ft_miss,12,False,False,,MISS Whiteside Free Throw 2 of 2,16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.55,1,6,27,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:1),,16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.73,1,6,16,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 3PT Jump Shot,,16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.75,1,6,15,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:3 Def:1),,16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.78,1,6,13,HOU,HOU,tov,4,False,False,Capela Traveling Turnover (P2.T3),,16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.97,1,6,2,POR,POR,fg_miss,78,False,False,,MISS Whiteside 9' Floating Jump Shot,16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.98,1,6,1,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,16-17,16,17
+0021900611,2020-01-15,HOU,POR,5.98,1,6,1,HOU,POR,foul,3,False,False,,Whiteside L.B.FOUL (P2.T2) (N.Buchert),16-17,16,17
+0021900611,2020-01-15,HOU,POR,6.1,1,5,54,HOU,HOU,fg_miss,105,False,False,MISS Westbrook 10' Turnaround Fadeaway Bank Jump Shot,,16-17,16,17
+0021900611,2020-01-15,HOU,POR,6.12,1,5,53,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:1),,16-17,16,17
+0021900611,2020-01-15,HOU,POR,6.12,1,5,53,HOU,HOU,fg_make,107,False,False,Capela 1' Tip Dunk Shot (4 PTS),,18-17,18,17
+0021900611,2020-01-15,HOU,POR,6.4,1,5,36,POR,POR,fg3_miss,79,False,False,,MISS Lillard 25' 3PT Pullup Jump Shot,18-17,18,17
+0021900611,2020-01-15,HOU,POR,6.43,1,5,34,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:1),,18-17,18,17
+0021900611,2020-01-15,HOU,POR,6.6,1,5,24,HOU,HOU,tov,45,False,False,Harden Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,18-17,18,17
+0021900611,2020-01-15,HOU,POR,6.83,1,5,10,POR,HOU,foul,1,False,False,House Jr. P.FOUL (P2.T4) (L.Wood),,18-17,18,17
+0021900611,2020-01-15,HOU,POR,6.93,1,5,4,POR,HOU,foul,2,False,False,Gordon S.FOUL (P1.PN) (L.Wood),,18-17,18,17
+0021900611,2020-01-15,HOU,POR,6.93,1,5,4,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (3 PTS),18-18,18,18
+0021900611,2020-01-15,HOU,POR,6.93,1,5,4,POR,POR,ft_miss,12,False,False,,MISS McCollum Free Throw 2 of 2,18-18,18,18
+0021900611,2020-01-15,HOU,POR,6.93,1,5,4,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:2),,18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.07,1,4,56,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 26' 3PT Jump Shot,,18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.1,1,4,54,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:2),18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.27,1,4,44,POR,POR,fg3_miss,1,False,False,,MISS McCollum 3PT Jump Shot,18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.28,1,4,43,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:1 Def:2),,18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.45,1,4,33,HOU,HOU,fg_miss,101,False,False,MISS Harden 7' Driving Floating Jump Shot,,18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.47,1,4,32,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:2),18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.6,1,4,24,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 3PT Jump Shot,18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.62,1,4,23,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:0),18-18,18,18
+0021900611,2020-01-15,HOU,POR,7.62,1,4,23,POR,POR,fg_make,107,False,False,,Whiteside 1' Tip Dunk Shot (7 PTS),18-20,18,20
+0021900611,2020-01-15,HOU,POR,7.88,1,4,7,HOU,HOU,tov,2,False,True,Capela Lost Ball Turnover (P3.T5),,18-20,18,20
+0021900611,2020-01-15,HOU,POR,7.88,1,4,7,HOU,POR,steal,2,False,True,steal,steal,18-20,18,20
+0021900611,2020-01-15,HOU,POR,8.0,1,4,0,POR,POR,fg_make,73,False,False,,McCollum 3' Driving Reverse Layup (5 PTS),18-22,18,22
+0021900611,2020-01-15,HOU,POR,8.18,1,3,49,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 25' 3PT Jump Shot,,18-22,18,22
+0021900611,2020-01-15,HOU,POR,8.22,1,3,47,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:1),18-22,18,22
+0021900611,2020-01-15,HOU,POR,8.47,1,3,32,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 26' 3PT Jump Shot,18-22,18,22
+0021900611,2020-01-15,HOU,POR,8.48,1,3,31,HOU,HOU,reb,0,False,False,Gordon REBOUND (Off:0 Def:1),,18-22,18,22
+0021900611,2020-01-15,HOU,POR,8.65,1,3,21,HOU,POR,foul,1,False,False,,Little P.FOUL (P1.T3) (D.Guthrie),18-22,18,22
+0021900611,2020-01-15,HOU,POR,8.8,1,3,12,HOU,HOU,fg3_miss,1,False,False,MISS Rivers 26' 3PT Jump Shot,,18-22,18,22
+0021900611,2020-01-15,HOU,POR,8.82,1,3,11,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:3),18-22,18,22
+0021900611,2020-01-15,HOU,POR,9.07,1,2,56,POR,POR,fg_miss,3,False,False,,MISS Whiteside 9' Hook Shot,18-22,18,22
+0021900611,2020-01-15,HOU,POR,9.08,1,2,55,POR,POR,reb,0,False,False,,Little REBOUND (Off:1 Def:0),18-22,18,22
+0021900611,2020-01-15,HOU,POR,9.1,1,2,54,POR,HOU,foul,2,False,False,House Jr. S.FOUL (P3.PN) (L.Wood),,18-22,18,22
+0021900611,2020-01-15,HOU,POR,9.1,1,2,54,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.1 Short 0),18-22,18,22
+0021900611,2020-01-15,HOU,POR,9.1,1,2,54,POR,POR,ft_make,11,False,False,,Little Free Throw 1 of 2 (1 PTS),18-23,18,23
+0021900611,2020-01-15,HOU,POR,9.1,1,2,54,POR,POR,ft_make,12,False,False,,Little Free Throw 2 of 2 (2 PTS),18-24,18,24
+0021900611,2020-01-15,HOU,POR,9.27,1,2,44,HOU,HOU,fg3_make,1,False,False,Gordon 25' 3PT Jump Shot (3 PTS) (Westbrook 3 AST),,21-24,21,24
+0021900611,2020-01-15,HOU,POR,9.63,1,2,22,POR,POR,fg_miss,80,False,False,,MISS Lillard 19' Step Back Jump Shot,21-24,21,24
+0021900611,2020-01-15,HOU,POR,9.68,1,2,19,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:0 Def:1),,21-24,21,24
+0021900611,2020-01-15,HOU,POR,9.97,1,2,2,HOU,HOU,fg3_make,79,False,False,Gordon 26' 3PT Pullup Jump Shot (6 PTS),,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.32,1,1,41,POR,POR,fg3_miss,1,False,False,,MISS Simons 25' 3PT Jump Shot,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.35,1,1,39,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:3),,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.53,1,1,28,HOU,HOU,fg_miss,78,False,False,MISS Rivers 10' Floating Jump Shot,,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.57,1,1,26,POR,POR,reb,0,False,False,,Trail Blazers Rebound,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.57,1,1,26,POR,HOU,foul,3,False,False,Capela L.B.FOUL (P1.PN) (N.Buchert),,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.57,1,1,26,POR,POR,ft_miss,11,False,False,,MISS Whiteside Free Throw 1 of 2,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.57,1,1,26,POR,POR,reb,1,False,False,,Trail Blazers Rebound,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.57,1,1,26,POR,POR,ft_miss,12,False,False,,MISS Whiteside Free Throw 2 of 2,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.57,1,1,26,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:4),,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.73,1,1,16,HOU,HOU,fg_miss,5,False,False,MISS Westbrook 5' Layup,,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.78,1,1,13,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:1),24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.9,1,1,6,POR,POR,fg3_miss,1,False,False,,MISS Trent Jr. 24' 3PT Jump Shot,24-24,24,24
+0021900611,2020-01-15,HOU,POR,10.92,1,1,5,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:5),,24-24,24,24
+0021900611,2020-01-15,HOU,POR,11.22,1,0,47,HOU,HOU,fg_make,102,False,False,Gordon 11' Driving Floating Bank Jump Shot (8 PTS) (Capela 2 AST),,26-24,26,24
+0021900611,2020-01-15,HOU,POR,11.45,1,0,33,POR,POR,fg_make,63,False,False,,Lillard 18' Fadeaway Jumper (2 PTS),26-26,26,26
+0021900611,2020-01-15,HOU,POR,11.53,1,0,28,HOU,HOU,fg3_miss,79,False,False,MISS Westbrook 25' 3PT Pullup Jump Shot,,26-26,26,26
+0021900611,2020-01-15,HOU,POR,11.55,1,0,27,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:3),26-26,26,26
+0021900611,2020-01-15,HOU,POR,11.93,1,0,4,POR,POR,fg_make,6,False,False,,Simons 2' Driving Layup (2 PTS) (Lillard 4 AST),26-28,26,28
+0021900611,2020-01-15,HOU,POR,12.0,1,0,0,HOU,HOU,fg3_miss,1,False,False,MISS Rivers 3PT Jump Shot,,26-28,26,28
+0021900611,2020-01-15,HOU,POR,12.0,1,0,0,POR,POR,reb,0,False,False,,Trent Jr. REBOUND (Off:0 Def:1),26-28,26,28
+0021900611,2020-01-15,HOU,POR,12.0,1,0,0,POR,,period_end,0,False,False,,,26-28,26,28
+0021900611,2020-01-15,HOU,POR,12.0,2,12,0,POR,,period_start,0,False,False,,,26-28,26,28
+0021900611,2020-01-15,HOU,POR,12.18,2,11,49,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 29' 3PT Jump Shot,,26-28,26,28
+0021900611,2020-01-15,HOU,POR,12.2,2,11,48,POR,POR,reb,0,False,False,,Tolliver REBOUND (Off:0 Def:1),26-28,26,28
+0021900611,2020-01-15,HOU,POR,12.48,2,11,31,POR,POR,fg3_make,1,False,False,,Tolliver 3PT Jump Shot (3 PTS) (Simons 1 AST),26-31,26,31
+0021900611,2020-01-15,HOU,POR,12.67,2,11,20,HOU,HOU,fg_make,6,False,False,Westbrook 2' Driving Layup (8 PTS),,28-31,28,31
+0021900611,2020-01-15,HOU,POR,13.0,2,11,0,POR,POR,fg_make,108,False,False,,Tolliver 2' Cutting Dunk Shot (5 PTS) (McCollum 2 AST),28-33,28,33
+0021900611,2020-01-15,HOU,POR,13.3,2,10,42,HOU,HOU,fg_miss,6,False,False,MISS Gordon 2' Driving Layup,,28-33,28,33
+0021900611,2020-01-15,HOU,POR,13.32,2,10,41,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:4),28-33,28,33
+0021900611,2020-01-15,HOU,POR,13.42,2,10,35,POR,POR,fg_make,57,False,False,,Trent Jr. 9' Driving Hook Shot (2 PTS) (Anthony 1 AST),28-35,28,35
+0021900611,2020-01-15,HOU,POR,13.57,2,10,26,HOU,HOU,fg_make,6,False,False,Westbrook 2' Driving Layup (10 PTS),,30-35,30,35
+0021900611,2020-01-15,HOU,POR,13.57,2,10,26,HOU,POR,foul,2,False,False,,Simons S.FOUL (P1.T1) (N.Buchert),30-35,30,35
+0021900611,2020-01-15,HOU,POR,13.57,2,10,26,HOU,HOU,ft_make,10,False,False,Westbrook Free Throw 1 of 1 (11 PTS),,31-35,31,35
+0021900611,2020-01-15,HOU,POR,13.77,2,10,14,POR,HOU,foul,2,False,False,Tucker S.FOUL (P1.T1) (N.Buchert),,31-35,31,35
+0021900611,2020-01-15,HOU,POR,13.77,2,10,14,POR,POR,ft_make,11,False,False,,Anthony Free Throw 1 of 2 (6 PTS),31-36,31,36
+0021900611,2020-01-15,HOU,POR,13.77,2,10,14,POR,POR,ft_make,12,False,False,,Anthony Free Throw 2 of 2 (7 PTS),31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.0,2,10,0,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 24' 3PT Jump Shot,,31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.0,2,10,0,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:2),31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.15,2,9,51,POR,POR,fg3_miss,1,False,False,,MISS Tolliver 26' 3PT Jump Shot,31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.17,2,9,50,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:2),,31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.37,2,9,38,HOU,HOU,fg_miss,5,False,False,MISS Gordon 3' Layup,,31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.38,2,9,37,POR,POR,reb,0,False,False,,Trent Jr. REBOUND (Off:0 Def:2),31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.43,2,9,34,POR,HOU,foul,1,False,False,McLemore P.FOUL (P1.T2) (D.Guthrie),,31-37,31,37
+0021900611,2020-01-15,HOU,POR,14.65,2,9,21,POR,POR,fg_make,6,False,False,,Anthony 2' Driving Layup (9 PTS) (McCollum 3 AST),31-39,31,39
+0021900611,2020-01-15,HOU,POR,14.97,2,9,2,HOU,HOU,fg3_make,1,False,False,McLemore 25' 3PT Jump Shot (6 PTS) (Tucker 1 AST),,34-39,34,39
+0021900611,2020-01-15,HOU,POR,15.32,2,8,41,POR,HOU,foul,17,False,False,ROCKETS T.Foul (Def. 3 Sec McLemore ) (L.Wood),,34-39,34,39
+0021900611,2020-01-15,HOU,POR,15.32,2,8,41,POR,POR,ft_make,16,False,False,,McCollum Free Throw Technical (6 PTS),34-40,34,40
+0021900611,2020-01-15,HOU,POR,15.4,2,8,36,HOU,POR,foul,4,False,False,,Trent Jr. OFF.Foul (P1) (L.Wood),34-40,34,40
+0021900611,2020-01-15,HOU,POR,15.4,2,8,36,POR,POR,tov,37,False,False,,Trent Jr. Offensive Foul Turnover (P1.T4),34-40,34,40
+0021900611,2020-01-15,HOU,POR,15.58,2,8,25,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 26' 3PT Jump Shot,,34-40,34,40
+0021900611,2020-01-15,HOU,POR,15.6,2,8,24,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:5),34-40,34,40
+0021900611,2020-01-15,HOU,POR,15.73,2,8,16,POR,POR,fg_miss,101,False,False,,MISS McCollum 3' Driving Floating Jump Shot,34-40,34,40
+0021900611,2020-01-15,HOU,POR,15.75,2,8,15,POR,POR,reb,0,False,False,,Tolliver REBOUND (Off:1 Def:1),34-40,34,40
+0021900611,2020-01-15,HOU,POR,15.9,2,8,6,POR,POR,fg_make,102,False,False,,McCollum 6' Driving Floating Bank Jump Shot (8 PTS),34-42,34,42
+0021900611,2020-01-15,HOU,POR,16.03,2,7,58,HOU,POR,foul,2,False,False,,Trent Jr. S.FOUL (P2.T2) (L.Wood),34-42,34,42
+0021900611,2020-01-15,HOU,POR,16.03,2,7,58,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (6 PTS),,35-42,35,42
+0021900611,2020-01-15,HOU,POR,16.03,2,7,58,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (7 PTS),,36-42,36,42
+0021900611,2020-01-15,HOU,POR,16.35,2,7,39,POR,POR,fg_make,86,False,False,,Anthony 15' Turnaround Fadeaway (11 PTS) (McCollum 4 AST),36-44,36,44
+0021900611,2020-01-15,HOU,POR,16.65,2,7,21,HOU,HOU,fg3_make,1,False,False,McLemore 3PT Jump Shot (9 PTS) (House Jr. 1 AST),,39-44,39,44
+0021900611,2020-01-15,HOU,POR,16.9,2,7,6,POR,POR,tov,2,False,True,,McCollum Lost Ball Turnover (P1.T5),39-44,39,44
+0021900611,2020-01-15,HOU,POR,16.9,2,7,6,POR,HOU,steal,2,False,True,steal,steal,39-44,39,44
+0021900611,2020-01-15,HOU,POR,16.9,2,7,6,HOU,POR,foul,1,False,False,,McCollum P.FOUL (P1.T3) (D.Guthrie),39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.02,2,6,59,HOU,HOU,fg3_miss,1,False,False,MISS Rivers 25' 3PT Jump Shot,,39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.03,2,6,58,POR,POR,reb,0,False,False,,Tolliver REBOUND (Off:1 Def:2),39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.17,2,6,50,POR,POR,fg_miss,5,True,False,,MISS McCollum 6' Layup,39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.17,2,6,50,POR,HOU,block,5,True,False,block,block,39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.18,2,6,49,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:1 Def:3),,39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.18,2,6,49,HOU,POR,foul,1,False,False,,Anthony P.FOUL (P1.T4) (N.Buchert),39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.18,2,6,49,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.42,2,6,35,HOU,HOU,tov,2,False,True,Rivers Lost Ball Turnover (P1.T6),,39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.42,2,6,35,HOU,POR,steal,2,False,True,steal,steal,39-44,39,44
+0021900611,2020-01-15,HOU,POR,17.57,2,6,26,POR,POR,fg3_make,1,False,False,,McCollum 26' 3PT Jump Shot (11 PTS) (Simons 2 AST),39-47,39,47
+0021900611,2020-01-15,HOU,POR,17.8,2,6,12,HOU,HOU,fg_make,6,False,False,Rivers 1' Driving Layup (2 PTS),,41-47,41,47
+0021900611,2020-01-15,HOU,POR,17.8,2,6,12,HOU,POR,foul,2,False,False,,Tolliver S.FOUL (P1.PN) (D.Guthrie),41-47,41,47
+0021900611,2020-01-15,HOU,POR,17.8,2,6,12,HOU,HOU,ft_miss,10,False,False,MISS Rivers Free Throw 1 of 1,,41-47,41,47
+0021900611,2020-01-15,HOU,POR,17.8,2,6,12,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:3),41-47,41,47
+0021900611,2020-01-15,HOU,POR,18.18,2,5,49,POR,POR,fg_make,102,False,False,,McCollum 11' Driving Floating Bank Jump Shot (13 PTS),41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.37,2,5,38,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 27' 3PT Jump Shot,,41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.37,2,5,38,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:6),41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.55,2,5,27,POR,POR,fg_miss,3,False,False,,MISS McCollum 8' Hook Shot,41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.6,2,5,24,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:0 Def:2),,41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.7,2,5,18,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 3PT Jump Shot,,41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.73,2,5,16,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:3),,41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.78,2,5,13,HOU,POR,foul,2,False,False,,Bazemore S.FOUL (P1.PN) (L.Wood),41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.78,2,5,13,HOU,HOU,ft_miss,11,False,False,MISS Harden Free Throw 1 of 2,,41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.78,2,5,13,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,41-49,41,49
+0021900611,2020-01-15,HOU,POR,18.78,2,5,13,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (8 PTS),,42-49,42,49
+0021900611,2020-01-15,HOU,POR,19.0,2,5,0,POR,HOU,foul,2,False,False,Tucker S.FOUL (P2.T3) (L.Wood),,42-49,42,49
+0021900611,2020-01-15,HOU,POR,19.0,2,5,0,POR,POR,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (6 PTS),42-50,42,50
+0021900611,2020-01-15,HOU,POR,19.0,2,5,0,POR,POR,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (7 PTS),42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.2,2,4,48,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.22,2,4,47,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:4),42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.42,2,4,35,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 26' 3PT Jump Shot,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.45,2,4,33,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:0 Def:2),,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.58,2,4,25,HOU,HOU,fg3_miss,80,False,False,MISS Harden 26' 3PT Step Back Jump Shot,,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.6,2,4,24,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:4),42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.7,2,4,18,POR,POR,fg_miss,98,False,False,,MISS Little 2' Cutting Layup Shot,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.72,2,4,17,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:6),,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.82,2,4,11,HOU,HOU,fg_miss,6,True,False,MISS Harden 2' Driving Layup,,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.82,2,4,11,HOU,POR,block,6,True,False,block,block,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.82,2,4,11,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.95,2,4,3,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,42-51,42,51
+0021900611,2020-01-15,HOU,POR,19.95,2,4,3,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:4),42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.3,2,3,42,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 3PT Jump Shot,42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.33,2,3,40,HOU,HOU,reb,0,False,False,Gordon REBOUND (Off:0 Def:2),,42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.47,2,3,32,HOU,HOU,fg_miss,6,False,False,MISS Westbrook 2' Driving Layup,,42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.48,2,3,31,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:2),42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.65,2,3,21,POR,POR,fg_miss,78,False,False,,MISS Whiteside 13' Floating Jump Shot,42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.67,2,3,20,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:1 Def:4),42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.7,2,3,18,POR,POR,fg_miss,63,False,False,,MISS Lillard 12' Fadeaway Jumper,42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.73,2,3,16,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:2),42-51,42,51
+0021900611,2020-01-15,HOU,POR,20.73,2,3,16,POR,POR,fg_make,97,False,False,,Whiteside 1' Tip Layup Shot (9 PTS),42-53,42,53
+0021900611,2020-01-15,HOU,POR,20.9,2,3,6,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,42-53,42,53
+0021900611,2020-01-15,HOU,POR,20.92,2,3,5,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:3),42-53,42,53
+0021900611,2020-01-15,HOU,POR,21.28,2,2,43,POR,POR,fg3_make,1,False,False,,Lillard 3PT Jump Shot (5 PTS) (Bazemore 2 AST),42-56,42,56
+0021900611,2020-01-15,HOU,POR,21.52,2,2,29,HOU,HOU,fg3_make,1,False,False,Westbrook 26' 3PT Jump Shot (14 PTS) (Gordon 1 AST),,45-56,45,56
+0021900611,2020-01-15,HOU,POR,21.53,2,2,28,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),45-56,45,56
+0021900611,2020-01-15,HOU,POR,21.85,2,2,9,POR,POR,fg_miss,5,True,False,,MISS Whiteside 3' Layup,45-56,45,56
+0021900611,2020-01-15,HOU,POR,21.85,2,2,9,POR,HOU,block,5,True,False,block,block,45-56,45,56
+0021900611,2020-01-15,HOU,POR,21.87,2,2,8,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:4),45-56,45,56
+0021900611,2020-01-15,HOU,POR,21.88,2,2,7,POR,POR,fg_miss,1,False,False,,MISS Bazemore 16' Jump Shot,45-56,45,56
+0021900611,2020-01-15,HOU,POR,21.9,2,2,6,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:6),45-56,45,56
+0021900611,2020-01-15,HOU,POR,21.95,2,2,3,POR,POR,fg_make,97,False,False,,Anthony 1' Tip Layup Shot (13 PTS),45-58,45,58
+0021900611,2020-01-15,HOU,POR,21.98,2,2,1,HOU,HOU,fg_miss,6,True,False,MISS Westbrook 6' Driving Layup,,45-58,45,58
+0021900611,2020-01-15,HOU,POR,21.98,2,2,1,HOU,POR,block,6,True,False,block,block,45-58,45,58
+0021900611,2020-01-15,HOU,POR,22.0,2,2,0,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:1),45-58,45,58
+0021900611,2020-01-15,HOU,POR,22.38,2,1,37,POR,POR,fg_miss,1,False,False,,MISS Anthony 11' Jump Shot,45-58,45,58
+0021900611,2020-01-15,HOU,POR,22.38,2,1,37,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:7),,45-58,45,58
+0021900611,2020-01-15,HOU,POR,22.7,2,1,18,HOU,HOU,fg_make,5,False,False,Westbrook 1' Layup (16 PTS),,47-58,47,58
+0021900611,2020-01-15,HOU,POR,22.7,2,1,18,HOU,POR,violation,2,False,False,,Whiteside Violation:Defensive Goaltending (D.Guthrie),47-58,47,58
+0021900611,2020-01-15,HOU,POR,22.98,2,1,1,POR,POR,tov,2,False,True,,Lillard Lost Ball Turnover (P1.T6),47-58,47,58
+0021900611,2020-01-15,HOU,POR,22.98,2,1,1,POR,HOU,steal,2,False,True,steal,steal,47-58,47,58
+0021900611,2020-01-15,HOU,POR,23.08,2,0,55,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,47-58,47,58
+0021900611,2020-01-15,HOU,POR,23.1,2,0,54,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:1 Def:5),47-58,47,58
+0021900611,2020-01-15,HOU,POR,23.45,2,0,33,POR,HOU,foul,2,False,False,McLemore S.FOUL (P2.T4) (N.Buchert),,47-58,47,58
+0021900611,2020-01-15,HOU,POR,23.45,2,0,33,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (6 PTS),47-59,47,59
+0021900611,2020-01-15,HOU,POR,23.45,2,0,33,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (7 PTS),47-60,47,60
+0021900611,2020-01-15,HOU,POR,23.53,2,0,28,HOU,HOU,fg_miss,98,True,False,MISS Capela 8' Cutting Layup Shot,,47-60,47,60
+0021900611,2020-01-15,HOU,POR,23.53,2,0,28,HOU,POR,block,98,True,False,block,block,47-60,47,60
+0021900611,2020-01-15,HOU,POR,23.53,2,0,28,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,47-60,47,60
+0021900611,2020-01-15,HOU,POR,23.58,2,0,25,HOU,HOU,fg_miss,6,False,False,MISS Gordon 6' Driving Layup,,47-60,47,60
+0021900611,2020-01-15,HOU,POR,23.6,2,0,24,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:4),47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.0,2,0,0,POR,POR,fg_miss,3,False,False,,MISS Whiteside 7' Hook Shot,47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.0,2,0,0,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:4),47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.0,2,0,0,POR,POR,fg_miss,97,False,False,,MISS Whiteside 1' Tip Layup Shot,47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.0,2,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.0,2,0,0,POR,,period_end,0,False,False,,,47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.0,3,12,0,POR,,period_start,0,False,False,,,47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.18,3,11,49,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 3PT Jump Shot,,47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.2,3,11,48,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:5),47-60,47,60
+0021900611,2020-01-15,HOU,POR,24.33,3,11,40,POR,POR,fg_make,7,False,False,,Bazemore 1' Dunk (9 PTS) (Lillard 5 AST),47-62,47,62
+0021900611,2020-01-15,HOU,POR,24.52,3,11,29,HOU,POR,foul,2,False,False,,Lillard S.FOUL (P1.T1) (N.Buchert),47-62,47,62
+0021900611,2020-01-15,HOU,POR,24.52,3,11,29,HOU,HOU,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (17 PTS),,48-62,48,62
+0021900611,2020-01-15,HOU,POR,24.52,3,11,29,HOU,HOU,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (18 PTS),,49-62,49,62
+0021900611,2020-01-15,HOU,POR,24.77,3,11,14,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 25' 3PT Jump Shot,49-62,49,62
+0021900611,2020-01-15,HOU,POR,24.78,3,11,13,POR,POR,reb,0,False,False,,Trail Blazers Rebound,49-62,49,62
+0021900611,2020-01-15,HOU,POR,24.78,3,11,13,POR,HOU,foul,3,False,False,Capela L.B.FOUL (P2.T1) (N.Buchert),,49-62,49,62
+0021900611,2020-01-15,HOU,POR,25.02,3,10,59,POR,POR,fg3_miss,1,False,False,,MISS McCollum 27' 3PT Jump Shot,49-62,49,62
+0021900611,2020-01-15,HOU,POR,25.03,3,10,58,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:4),,49-62,49,62
+0021900611,2020-01-15,HOU,POR,25.12,3,10,53,HOU,HOU,fg_make,5,False,False,McLemore 1' Layup (11 PTS) (Harden 1 AST),,51-62,51,62
+0021900611,2020-01-15,HOU,POR,25.4,3,10,36,POR,POR,fg_miss,3,True,False,,MISS Whiteside 9' Hook Shot,51-62,51,62
+0021900611,2020-01-15,HOU,POR,25.4,3,10,36,POR,HOU,block,3,True,False,block,block,51-62,51,62
+0021900611,2020-01-15,HOU,POR,25.42,3,10,35,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:2),,51-62,51,62
+0021900611,2020-01-15,HOU,POR,25.6,3,10,24,HOU,HOU,fg_make,6,False,False,Harden 3' Driving Layup (10 PTS),,53-62,53,62
+0021900611,2020-01-15,HOU,POR,25.6,3,10,24,HOU,POR,foul,2,False,False,,McCollum S.FOUL (P2.T2) (D.Guthrie),53-62,53,62
+0021900611,2020-01-15,HOU,POR,25.6,3,10,24,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),53-62,53,62
+0021900611,2020-01-15,HOU,POR,25.6,3,10,24,POR,HOU,ft_make,10,False,False,Harden Free Throw 1 of 1 (11 PTS),,54-62,54,62
+0021900611,2020-01-15,HOU,POR,25.72,3,10,17,POR,HOU,foul,1,False,False,Tucker P.FOUL (P3.T2) (L.Wood),,54-62,54,62
+0021900611,2020-01-15,HOU,POR,25.95,3,10,3,POR,POR,fg_make,47,False,False,,Anthony 13' Turnaround Jump Shot (15 PTS),54-64,54,64
+0021900611,2020-01-15,HOU,POR,26.12,3,9,53,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 27' 3PT Jump Shot,,54-64,54,64
+0021900611,2020-01-15,HOU,POR,26.13,3,9,52,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:2),,54-64,54,64
+0021900611,2020-01-15,HOU,POR,26.18,3,9,49,HOU,HOU,tov,2,False,True,Tucker Lost Ball Turnover (P1.T7),,54-64,54,64
+0021900611,2020-01-15,HOU,POR,26.18,3,9,49,HOU,POR,steal,2,False,True,steal,steal,54-64,54,64
+0021900611,2020-01-15,HOU,POR,26.33,3,9,40,POR,POR,fg_make,5,False,False,,Lillard 3' Layup (9 PTS) (Bazemore 3 AST),54-66,54,66
+0021900611,2020-01-15,HOU,POR,26.57,3,9,26,HOU,HOU,fg_make,52,False,False,Capela 2' Alley Oop Dunk (6 PTS) (Westbrook 4 AST),,56-66,56,66
+0021900611,2020-01-15,HOU,POR,26.85,3,9,9,POR,POR,fg_make,6,False,False,,Lillard 1' Driving Layup (11 PTS),56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.07,3,8,56,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 25' 3PT Jump Shot,,56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.08,3,8,55,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:7),56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.47,3,8,32,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 31' 3PT Jump Shot,56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.48,3,8,31,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:3),,56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.58,3,8,25,HOU,HOU,fg_miss,6,False,False,MISS Westbrook 2' Driving Layup,,56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.6,3,8,24,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:6),56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.82,3,8,11,POR,POR,fg_miss,98,False,False,,MISS Bazemore 1' Cutting Layup Shot,56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.82,3,8,11,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:4),,56-68,56,68
+0021900611,2020-01-15,HOU,POR,27.95,3,8,3,HOU,HOU,fg_make,52,False,False,Capela 1' Alley Oop Dunk (8 PTS) (Harden 2 AST),,58-68,58,68
+0021900611,2020-01-15,HOU,POR,28.3,3,7,42,POR,POR,fg3_miss,1,False,False,,MISS Anthony 25' 3PT Jump Shot,58-68,58,68
+0021900611,2020-01-15,HOU,POR,28.32,3,7,41,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:5),,58-68,58,68
+0021900611,2020-01-15,HOU,POR,28.38,3,7,37,HOU,POR,foul,2,False,False,,Lillard S.FOUL (P2.T3) (L.Wood),58-68,58,68
+0021900611,2020-01-15,HOU,POR,28.38,3,7,37,HOU,HOU,ft_miss,11,False,False,MISS Westbrook Free Throw 1 of 2,,58-68,58,68
+0021900611,2020-01-15,HOU,POR,28.38,3,7,37,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,58-68,58,68
+0021900611,2020-01-15,HOU,POR,28.38,3,7,37,HOU,HOU,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (19 PTS),,59-68,59,68
+0021900611,2020-01-15,HOU,POR,28.63,3,7,22,POR,POR,fg_make,101,False,False,,Lillard 10' Driving Floating Jump Shot (13 PTS),59-70,59,70
+0021900611,2020-01-15,HOU,POR,28.78,3,7,13,HOU,HOU,fg3_make,1,False,False,Westbrook 24' 3PT Jump Shot (22 PTS) (Harden 3 AST),,62-70,62,70
+0021900611,2020-01-15,HOU,POR,29.15,3,6,51,POR,HOU,foul,2,False,False,Harden S.FOUL (P3.T3) (D.Guthrie),,62-70,62,70
+0021900611,2020-01-15,HOU,POR,29.15,3,6,51,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (14 PTS),62-71,62,71
+0021900611,2020-01-15,HOU,POR,29.15,3,6,51,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (15 PTS),62-72,62,72
+0021900611,2020-01-15,HOU,POR,29.28,3,6,43,HOU,POR,foul,2,False,False,,Whiteside S.FOUL (P3.T4) (D.Guthrie),62-72,62,72
+0021900611,2020-01-15,HOU,POR,29.28,3,6,43,HOU,HOU,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (23 PTS),,63-72,63,72
+0021900611,2020-01-15,HOU,POR,29.28,3,6,43,HOU,HOU,ft_miss,12,False,False,MISS Westbrook Free Throw 2 of 2,,63-72,63,72
+0021900611,2020-01-15,HOU,POR,29.28,3,6,43,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:8),63-72,63,72
+0021900611,2020-01-15,HOU,POR,29.53,3,6,28,POR,POR,fg_make,63,False,False,,Lillard 19' Fadeaway Jumper (17 PTS),63-74,63,74
+0021900611,2020-01-15,HOU,POR,29.77,3,6,14,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 3PT Jump Shot,,63-74,63,74
+0021900611,2020-01-15,HOU,POR,29.8,3,6,12,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:5),63-74,63,74
+0021900611,2020-01-15,HOU,POR,29.95,3,6,3,POR,HOU,foul,1,False,False,Gordon P.FOUL (P2.T4) (D.Guthrie),,63-74,63,74
+0021900611,2020-01-15,HOU,POR,30.18,3,5,49,POR,POR,fg_miss,101,False,False,,MISS Lillard 10' Driving Floating Jump Shot,63-74,63,74
+0021900611,2020-01-15,HOU,POR,30.2,3,5,48,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:5),,63-74,63,74
+0021900611,2020-01-15,HOU,POR,30.28,3,5,43,HOU,HOU,fg_make,98,False,False,House Jr. 2' Cutting Layup Shot (2 PTS) (Harden 4 AST),,65-74,65,74
+0021900611,2020-01-15,HOU,POR,30.77,3,5,14,POR,POR,fg_miss,79,False,False,,MISS McCollum 15' Pullup Jump Shot,65-74,65,74
+0021900611,2020-01-15,HOU,POR,30.78,3,5,13,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:8),,65-74,65,74
+0021900611,2020-01-15,HOU,POR,31.02,3,4,59,HOU,HOU,fg_miss,102,False,False,MISS Harden 9' Driving Floating Bank Jump Shot,,65-74,65,74
+0021900611,2020-01-15,HOU,POR,31.05,3,4,57,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:5 Def:8),,65-74,65,74
+0021900611,2020-01-15,HOU,POR,31.07,3,4,56,HOU,HOU,fg_miss,72,False,False,MISS Capela 3' Putback Layup,,65-74,65,74
+0021900611,2020-01-15,HOU,POR,31.1,3,4,54,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:6),65-74,65,74
+0021900611,2020-01-15,HOU,POR,31.23,3,4,46,POR,HOU,foul,1,False,False,House Jr. P.FOUL (P4.PN) (N.Buchert),,65-74,65,74
+0021900611,2020-01-15,HOU,POR,31.23,3,4,46,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (18 PTS),65-75,65,75
+0021900611,2020-01-15,HOU,POR,31.23,3,4,46,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (19 PTS),65-76,65,76
+0021900611,2020-01-15,HOU,POR,31.38,3,4,37,HOU,HOU,tov,40,False,False,Harden Out of Bounds Lost Ball Turnover (P2.T8),,65-76,65,76
+0021900611,2020-01-15,HOU,POR,31.67,3,4,20,POR,POR,fg3_make,1,False,False,,Bazemore 24' 3PT Jump Shot (12 PTS) (McCollum 5 AST),65-79,65,79
+0021900611,2020-01-15,HOU,POR,31.88,3,4,7,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 26' 3PT Jump Shot,,65-79,65,79
+0021900611,2020-01-15,HOU,POR,31.92,3,4,5,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:7),65-79,65,79
+0021900611,2020-01-15,HOU,POR,32.15,3,3,51,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 24' 3PT Jump Shot,65-79,65,79
+0021900611,2020-01-15,HOU,POR,32.15,3,3,51,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:7),65-79,65,79
+0021900611,2020-01-15,HOU,POR,32.17,3,3,50,POR,HOU,foul,3,False,False,Hartenstein L.B.FOUL (P1.PN) (L.Wood),,65-79,65,79
+0021900611,2020-01-15,HOU,POR,32.17,3,3,50,POR,POR,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (10 PTS),65-80,65,80
+0021900611,2020-01-15,HOU,POR,32.17,3,3,50,POR,POR,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (11 PTS),65-81,65,81
+0021900611,2020-01-15,HOU,POR,32.35,3,3,39,HOU,HOU,fg3_make,1,False,False,Gordon 26' 3PT Jump Shot (11 PTS) (Harden 5 AST),,68-81,68,81
+0021900611,2020-01-15,HOU,POR,32.72,3,3,17,POR,POR,fg3_make,1,False,False,,Little 3PT Jump Shot (5 PTS) (Trent Jr. 1 AST),68-84,68,84
+0021900611,2020-01-15,HOU,POR,32.88,3,3,7,HOU,HOU,fg3_make,1,False,False,Gordon 27' 3PT Jump Shot (14 PTS) (Harden 6 AST),,71-84,71,84
+0021900611,2020-01-15,HOU,POR,33.15,3,2,51,POR,HOU,foul,2,False,False,Harden S.FOUL (P4.PN) (D.Guthrie),,71-84,71,84
+0021900611,2020-01-15,HOU,POR,33.15,3,2,51,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,71-84,71,84
+0021900611,2020-01-15,HOU,POR,33.15,3,2,51,HOU,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (20 PTS),71-85,71,85
+0021900611,2020-01-15,HOU,POR,33.15,3,2,51,HOU,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (21 PTS),71-86,71,86
+0021900611,2020-01-15,HOU,POR,33.42,3,2,35,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,71-86,71,86
+0021900611,2020-01-15,HOU,POR,33.45,3,2,33,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:8),71-86,71,86
+0021900611,2020-01-15,HOU,POR,33.62,3,2,23,POR,POR,fg_miss,6,False,False,,MISS Simons 2' Driving Layup,71-86,71,86
+0021900611,2020-01-15,HOU,POR,33.62,3,2,23,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:5 Def:8),71-86,71,86
+0021900611,2020-01-15,HOU,POR,33.62,3,2,23,POR,POR,fg_make,107,False,False,,Whiteside 1' Tip Dunk Shot (13 PTS),71-88,71,88
+0021900611,2020-01-15,HOU,POR,33.92,3,2,5,HOU,HOU,fg_miss,86,False,False,MISS Westbrook 10' Turnaround Fadeaway Shot,,71-88,71,88
+0021900611,2020-01-15,HOU,POR,33.93,3,2,4,POR,POR,reb,0,False,False,,Little REBOUND (Off:1 Def:1),71-88,71,88
+0021900611,2020-01-15,HOU,POR,34.2,3,1,48,POR,POR,fg3_miss,1,False,False,,MISS Lillard 30' 3PT Jump Shot,71-88,71,88
+0021900611,2020-01-15,HOU,POR,34.23,3,1,46,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,71-88,71,88
+0021900611,2020-01-15,HOU,POR,34.42,3,1,35,HOU,HOU,fg_miss,3,False,False,MISS Capela 8' Hook Shot,,71-88,71,88
+0021900611,2020-01-15,HOU,POR,34.45,3,1,33,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,71-88,71,88
+0021900611,2020-01-15,HOU,POR,34.47,3,1,32,HOU,POR,foul,2,False,False,,Little S.FOUL (P2.PN) (L.Wood),71-88,71,88
+0021900611,2020-01-15,HOU,POR,34.47,3,1,32,HOU,HOU,ft_make,11,False,False,House Jr. Free Throw 1 of 2 (3 PTS),,72-88,72,88
+0021900611,2020-01-15,HOU,POR,34.47,3,1,32,HOU,HOU,ft_make,12,False,False,House Jr. Free Throw 2 of 2 (4 PTS),,73-88,73,88
+0021900611,2020-01-15,HOU,POR,34.88,3,1,7,POR,POR,fg3_miss,1,False,False,,MISS Trent Jr. 3PT Jump Shot,73-88,73,88
+0021900611,2020-01-15,HOU,POR,34.88,3,1,7,POR,POR,reb,0,False,False,,Trail Blazers Rebound,73-88,73,88
+0021900611,2020-01-15,HOU,POR,34.88,3,1,7,POR,POR,tov,11,False,False,,Trail Blazers Turnover: Shot Clock (T#7),73-88,73,88
+0021900611,2020-01-15,HOU,POR,35.02,3,0,59,HOU,HOU,fg_make,6,False,False,Westbrook 2' Driving Layup (25 PTS),,75-88,75,88
+0021900611,2020-01-15,HOU,POR,35.02,3,0,59,HOU,POR,violation,2,False,False,,Whiteside Violation:Defensive Goaltending (D.Guthrie),75-88,75,88
+0021900611,2020-01-15,HOU,POR,35.37,3,0,38,POR,POR,fg_miss,101,False,False,,MISS Simons 9' Driving Floating Jump Shot,75-88,75,88
+0021900611,2020-01-15,HOU,POR,35.38,3,0,37,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:6 Def:8),75-88,75,88
+0021900611,2020-01-15,HOU,POR,35.38,3,0,37,POR,POR,fg_miss,97,False,False,,MISS Whiteside 1' Tip Layup Shot,75-88,75,88
+0021900611,2020-01-15,HOU,POR,35.4,3,0,36,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:6),,75-88,75,88
+0021900611,2020-01-15,HOU,POR,35.47,3,0,32,HOU,HOU,fg_make,108,False,False,Capela 1' Cutting Dunk Shot (10 PTS) (Westbrook 5 AST),,77-88,77,88
+0021900611,2020-01-15,HOU,POR,35.8,3,0,12,POR,POR,fg_make,6,False,False,,Lillard 3' Driving Layup (23 PTS),77-90,77,90
+0021900611,2020-01-15,HOU,POR,35.97,3,0,2,HOU,HOU,fg3_miss,1,False,False,MISS Westbrook 25' 3PT Jump Shot,,77-90,77,90
+0021900611,2020-01-15,HOU,POR,35.98,3,0,1,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:6 Def:9),77-90,77,90
+0021900611,2020-01-15,HOU,POR,36.0,3,0,0,POR,,period_end,0,False,False,,,77-90,77,90
+0021900611,2020-01-15,HOU,POR,36.0,4,12,0,POR,,period_start,0,False,False,,,77-90,77,90
+0021900611,2020-01-15,HOU,POR,36.4,4,11,36,POR,POR,fg3_miss,1,False,False,,MISS Tolliver 24' 3PT Jump Shot,77-90,77,90
+0021900611,2020-01-15,HOU,POR,36.42,4,11,35,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:7),,77-90,77,90
+0021900611,2020-01-15,HOU,POR,36.52,4,11,29,HOU,HOU,fg_make,41,False,False,Westbrook 2' Running Layup (27 PTS),,79-90,79,90
+0021900611,2020-01-15,HOU,POR,36.72,4,11,17,POR,POR,fg_miss,79,False,False,,MISS McCollum 18' Pullup Jump Shot,79-90,79,90
+0021900611,2020-01-15,HOU,POR,36.73,4,11,16,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:8),,79-90,79,90
+0021900611,2020-01-15,HOU,POR,36.9,4,11,6,HOU,HOU,fg3_make,1,False,False,Gordon 30' 3PT Jump Shot (17 PTS) (Westbrook 6 AST),,82-90,82,90
+0021900611,2020-01-15,HOU,POR,37.2,4,10,48,POR,POR,fg3_make,1,False,False,,Trent Jr. 26' 3PT Jump Shot (5 PTS) (Simons 3 AST),82-93,82,93
+0021900611,2020-01-15,HOU,POR,37.5,4,10,30,HOU,HOU,fg_miss,5,False,False,MISS Gordon 3' Layup,,82-93,82,93
+0021900611,2020-01-15,HOU,POR,37.53,4,10,28,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:9),82-93,82,93
+0021900611,2020-01-15,HOU,POR,37.8,4,10,12,POR,POR,fg3_make,1,False,False,,Tolliver 25' 3PT Jump Shot (8 PTS) (Simons 4 AST),82-96,82,96
+0021900611,2020-01-15,HOU,POR,37.82,4,10,11,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,82-96,82,96
+0021900611,2020-01-15,HOU,POR,37.95,4,10,3,HOU,POR,foul,2,False,False,,McCollum S.FOUL (P3.T1) (N.Buchert),82-96,82,96
+0021900611,2020-01-15,HOU,POR,37.95,4,10,3,HOU,HOU,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (28 PTS),,83-96,83,96
+0021900611,2020-01-15,HOU,POR,37.95,4,10,3,HOU,HOU,ft_miss,12,False,False,MISS Westbrook Free Throw 2 of 2,,83-96,83,96
+0021900611,2020-01-15,HOU,POR,37.95,4,10,3,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:10),83-96,83,96
+0021900611,2020-01-15,HOU,POR,38.22,4,9,47,POR,POR,fg_miss,101,False,False,,MISS Simons 10' Driving Floating Jump Shot,83-96,83,96
+0021900611,2020-01-15,HOU,POR,38.25,4,9,45,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:0 Def:3),,83-96,83,96
+0021900611,2020-01-15,HOU,POR,38.45,4,9,33,HOU,HOU,fg_make,79,False,False,Westbrook 13' Pullup Jump Shot (30 PTS),,85-96,85,96
+0021900611,2020-01-15,HOU,POR,38.85,4,9,9,POR,POR,fg3_make,79,False,False,,McCollum 26' 3PT Pullup Jump Shot (16 PTS),85-99,85,99
+0021900611,2020-01-15,HOU,POR,39.2,4,8,48,HOU,HOU,fg3_make,1,False,False,House Jr. 3PT Jump Shot (7 PTS) (Westbrook 7 AST),,88-99,88,99
+0021900611,2020-01-15,HOU,POR,39.42,4,8,35,POR,POR,fg_make,102,False,False,,McCollum 10' Driving Floating Bank Jump Shot (18 PTS),88-101,88,101
+0021900611,2020-01-15,HOU,POR,39.42,4,8,35,POR,HOU,foul,2,False,False,Tucker S.FOUL (P4.T1) (L.Wood),,88-101,88,101
+0021900611,2020-01-15,HOU,POR,39.42,4,8,35,POR,POR,ft_make,10,False,False,,McCollum Free Throw 1 of 1 (19 PTS),88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.47,4,8,32,HOU,HOU,tov,4,False,False,House Jr. Traveling Turnover (P1.T9),,88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.73,4,8,16,POR,POR,fg_miss,6,False,False,,MISS Tolliver 4' Driving Layup,88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.77,4,8,14,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:9),,88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.87,4,8,8,HOU,POR,foul,2,False,False,,Lillard S.FOUL (P3.T2) (L.Wood),88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.87,4,8,8,HOU,HOU,ft_miss,11,False,False,MISS Westbrook Free Throw 1 of 2,,88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.87,4,8,8,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.87,4,8,8,HOU,,foul,16,False,False,,,88-102,88,102
+0021900611,2020-01-15,HOU,POR,39.87,4,8,8,HOU,HOU,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (31 PTS),,89-102,89,102
+0021900611,2020-01-15,HOU,POR,40.07,4,7,56,POR,POR,fg3_miss,1,False,False,,MISS Lillard 29' 3PT Jump Shot,89-102,89,102
+0021900611,2020-01-15,HOU,POR,40.08,4,7,55,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:3),,89-102,89,102
+0021900611,2020-01-15,HOU,POR,40.22,4,7,47,HOU,POR,foul,2,False,False,,Bazemore S.FOUL (P2.T3) (N.Buchert),89-102,89,102
+0021900611,2020-01-15,HOU,POR,40.22,4,7,47,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (12 PTS),,90-102,90,102
+0021900611,2020-01-15,HOU,POR,40.22,4,7,47,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (13 PTS),,91-102,91,102
+0021900611,2020-01-15,HOU,POR,40.47,4,7,32,POR,HOU,foul,2,False,False,Harden S.FOUL (P5.T2) (N.Buchert),,91-102,91,102
+0021900611,2020-01-15,HOU,POR,40.47,4,7,32,POR,POR,ft_miss,11,False,False,,MISS Whiteside Free Throw 1 of 2,91-102,91,102
+0021900611,2020-01-15,HOU,POR,40.47,4,7,32,POR,POR,reb,1,False,False,,Trail Blazers Rebound,91-102,91,102
+0021900611,2020-01-15,HOU,POR,40.47,4,7,32,POR,POR,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (14 PTS),91-103,91,103
+0021900611,2020-01-15,HOU,POR,40.63,4,7,22,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 24' 3PT Jump Shot,,91-103,91,103
+0021900611,2020-01-15,HOU,POR,40.65,4,7,21,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:7),91-103,91,103
+0021900611,2020-01-15,HOU,POR,41.05,4,6,57,POR,POR,fg3_miss,1,False,False,,MISS Tolliver 3PT Jump Shot,91-103,91,103
+0021900611,2020-01-15,HOU,POR,41.07,4,6,56,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:1),,91-103,91,103
+0021900611,2020-01-15,HOU,POR,41.22,4,6,47,HOU,HOU,fg3_miss,80,False,False,MISS Harden 26' 3PT Step Back Jump Shot,,91-103,91,103
+0021900611,2020-01-15,HOU,POR,41.23,4,6,46,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:3 Def:5),,91-103,91,103
+0021900611,2020-01-15,HOU,POR,41.43,4,6,34,HOU,HOU,fg3_make,1,False,False,Tucker 3PT Jump Shot (3 PTS) (Westbrook 8 AST),,94-103,94,103
+0021900611,2020-01-15,HOU,POR,41.67,4,6,20,POR,HOU,foul,1,False,False,Westbrook P.FOUL (P1.T3) (L.Wood),,94-103,94,103
+0021900611,2020-01-15,HOU,POR,41.8,4,6,12,POR,POR,fg3_miss,1,False,False,,MISS Lillard 31' 3PT Jump Shot,94-103,94,103
+0021900611,2020-01-15,HOU,POR,41.82,4,6,11,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:2),,94-103,94,103
+0021900611,2020-01-15,HOU,POR,41.97,4,6,2,HOU,HOU,fg3_make,1,False,False,McLemore 3PT Jump Shot (14 PTS) (Westbrook 9 AST),,97-103,97,103
+0021900611,2020-01-15,HOU,POR,41.97,4,6,2,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),97-103,97,103
+0021900611,2020-01-15,HOU,POR,42.27,4,5,44,POR,POR,fg_miss,86,False,False,,MISS Anthony 10' Turnaround Fadeaway Shot,97-103,97,103
+0021900611,2020-01-15,HOU,POR,42.28,4,5,43,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:10),,97-103,97,103
+0021900611,2020-01-15,HOU,POR,42.47,4,5,32,HOU,HOU,fg3_miss,1,False,False,MISS Harden 27' 3PT Jump Shot,,97-103,97,103
+0021900611,2020-01-15,HOU,POR,42.48,4,5,31,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:11),97-103,97,103
+0021900611,2020-01-15,HOU,POR,42.63,4,5,22,POR,POR,fg_make,101,False,False,,Lillard 14' Driving Floating Jump Shot (25 PTS),97-105,97,105
+0021900611,2020-01-15,HOU,POR,42.95,4,5,3,HOU,HOU,fg3_make,1,False,False,McLemore 26' 3PT Jump Shot (17 PTS) (Westbrook 10 AST),,100-105,100,105
+0021900611,2020-01-15,HOU,POR,43.27,4,4,44,POR,POR,fg3_make,1,False,False,,McCollum 24' 3PT Jump Shot (22 PTS) (Lillard 6 AST),100-108,100,108
+0021900611,2020-01-15,HOU,POR,43.5,4,4,30,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,100-108,100,108
+0021900611,2020-01-15,HOU,POR,43.53,4,4,28,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:1 Def:6),100-108,100,108
+0021900611,2020-01-15,HOU,POR,43.85,4,4,9,POR,POR,fg3_make,1,False,False,,Anthony 3PT Jump Shot (18 PTS) (Lillard 7 AST),100-111,100,111
+0021900611,2020-01-15,HOU,POR,43.85,4,4,9,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 5 Short 0),,100-111,100,111
+0021900611,2020-01-15,HOU,POR,44.12,4,3,53,HOU,HOU,fg_make,7,False,False,Capela 2' Dunk (12 PTS) (Westbrook 11 AST),,102-111,102,111
+0021900611,2020-01-15,HOU,POR,44.52,4,3,29,POR,POR,fg_miss,5,False,False,,MISS Whiteside 2' Layup,102-111,102,111
+0021900611,2020-01-15,HOU,POR,44.52,4,3,29,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:7 Def:9),102-111,102,111
+0021900611,2020-01-15,HOU,POR,44.53,4,3,28,POR,POR,fg_make,97,False,False,,Whiteside 1' Tip Layup Shot (16 PTS),102-113,102,113
+0021900611,2020-01-15,HOU,POR,44.67,4,3,20,HOU,HOU,fg3_miss,1,False,False,MISS Harden 28' 3PT Jump Shot,,102-113,102,113
+0021900611,2020-01-15,HOU,POR,44.68,4,3,19,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:7 Def:10),102-113,102,113
+0021900611,2020-01-15,HOU,POR,45.03,4,2,58,POR,POR,fg3_miss,80,False,False,,MISS Lillard 25' 3PT Step Back Jump Shot,102-113,102,113
+0021900611,2020-01-15,HOU,POR,45.05,4,2,57,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:5 Def:9),,102-113,102,113
+0021900611,2020-01-15,HOU,POR,45.15,4,2,51,POR,HOU,foul,4,False,False,Tucker OFF.Foul (P5) (L.Wood),,102-113,102,113
+0021900611,2020-01-15,HOU,POR,45.15,4,2,51,HOU,HOU,tov,37,False,False,Tucker Offensive Foul Turnover (P2.T10),,102-113,102,113
+0021900611,2020-01-15,HOU,POR,45.52,4,2,29,POR,POR,fg_make,108,False,False,,Whiteside 1' Cutting Dunk Shot (18 PTS) (McCollum 6 AST),102-115,102,115
+0021900611,2020-01-15,HOU,POR,45.72,4,2,17,HOU,HOU,fg3_miss,1,False,False,MISS Westbrook 3PT Jump Shot,,102-115,102,115
+0021900611,2020-01-15,HOU,POR,45.75,4,2,15,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:6 Def:9),,102-115,102,115
+0021900611,2020-01-15,HOU,POR,45.83,4,2,10,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 6 Short 0),,102-115,102,115
+0021900611,2020-01-15,HOU,POR,45.9,4,2,6,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,102-115,102,115
+0021900611,2020-01-15,HOU,POR,45.92,4,2,5,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:1 Def:8),102-115,102,115
+0021900611,2020-01-15,HOU,POR,46.3,4,1,42,POR,POR,fg3_miss,1,False,False,,MISS Bazemore 3PT Jump Shot,102-115,102,115
+0021900611,2020-01-15,HOU,POR,46.32,4,1,41,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:6 Def:10),,102-115,102,115
+0021900611,2020-01-15,HOU,POR,46.43,4,1,34,HOU,HOU,fg_make,98,False,False,Capela 1' Cutting Layup Shot (14 PTS) (Westbrook 12 AST),,104-115,104,115
+0021900611,2020-01-15,HOU,POR,46.43,4,1,34,HOU,POR,foul,2,False,False,,Whiteside S.FOUL (P4.T4) (L.Wood),104-115,104,115
+0021900611,2020-01-15,HOU,POR,46.43,4,1,34,HOU,HOU,tov,17,False,False,Tucker Lane Violation Turnover (P3.T11),,104-115,104,115
+0021900611,2020-01-15,HOU,POR,46.78,4,1,13,POR,POR,fg_make,6,False,False,,McCollum 3' Driving Layup (24 PTS),104-117,104,117
+0021900611,2020-01-15,HOU,POR,46.97,4,1,2,HOU,HOU,tov,1,False,True,Westbrook Bad Pass Turnover (P1.T12),,104-117,104,117
+0021900611,2020-01-15,HOU,POR,46.97,4,1,2,HOU,POR,steal,1,False,True,steal,steal,104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.32,4,0,41,POR,POR,tov,1,False,True,,McCollum Bad Pass Turnover (P2.T8),104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.32,4,0,41,POR,HOU,steal,1,False,True,steal,steal,104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.4,4,0,36,HOU,HOU,fg_miss,5,False,False,MISS Westbrook 2' Layup,,104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.4,4,0,36,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:7 Def:10),,104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.42,4,0,35,HOU,HOU,fg_miss,97,False,False,MISS Capela 2' Tip Layup Shot,,104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.43,4,0,34,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:7 Def:11),104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.75,4,0,15,POR,POR,fg3_miss,1,False,False,,MISS Lillard 33' 3PT Jump Shot,104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.75,4,0,15,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:7 Def:11),,104-117,104,117
+0021900611,2020-01-15,HOU,POR,47.93,4,0,4,HOU,HOU,fg3_make,1,False,False,Gordon 28' 3PT Jump Shot (20 PTS) (Harden 7 AST),,107-117,107,117
+0021900611,2020-01-15,HOU,POR,48.0,4,0,0,HOU,,period_end,0,False,False,,,107-117,107,117

@@ -1,0 +1,472 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900961,2020-03-10,WAS,NYK,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900961,2020-03-10,WAS,NYK,0.0,1,12,0,,WAS,jump_ball,0,False,False,Jump Ball Bryant vs. Gibson: Tip to Hachimura,,0-0,0,0
+0021900961,2020-03-10,WAS,NYK,0.25,1,11,45,WAS,WAS,fg_make,108,False,False,Hachimura 2' Cutting Dunk Shot (2 PTS) (Bryant 1 AST),,2-0,2,0
+0021900961,2020-03-10,WAS,NYK,0.48,1,11,31,NYK,NYK,tov,45,False,False,,Randle Out of Bounds - Bad Pass Turnover Turnover (P1.T1),2-0,2,0
+0021900961,2020-03-10,WAS,NYK,0.67,1,11,20,WAS,WAS,fg_make,1,False,False,Bryant 15' Jump Shot (2 PTS) (Beal 1 AST),,4-0,4,0
+0021900961,2020-03-10,WAS,NYK,0.95,1,11,3,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 26' 3PT Jump Shot,4-0,4,0
+0021900961,2020-03-10,WAS,NYK,1.0,1,11,0,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:0 Def:1),,4-0,4,0
+0021900961,2020-03-10,WAS,NYK,1.13,1,10,52,WAS,WAS,fg3_make,1,False,False,Napier 26' 3PT Jump Shot (3 PTS) (Hachimura 1 AST),,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.32,1,10,41,NYK,NYK,fg_miss,6,True,False,,MISS Payton 4' Driving Layup,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.32,1,10,41,NYK,WAS,block,6,True,False,block,block,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.35,1,10,39,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:0 Def:2),,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.45,1,10,33,WAS,WAS,tov,1,False,True,Napier Bad Pass Turnover (P1.T1),,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.45,1,10,33,WAS,NYK,steal,1,False,True,steal,steal,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.65,1,10,21,NYK,NYK,fg_miss,47,False,False,,MISS Randle 10' Turnaround Jump Shot,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.68,1,10,19,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:1),,7-0,7,0
+0021900961,2020-03-10,WAS,NYK,1.8,1,10,12,WAS,WAS,fg_make,5,False,False,Bryant 1' Layup (4 PTS) (Hachimura 2 AST),,9-0,9,0
+0021900961,2020-03-10,WAS,NYK,1.92,1,10,5,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.1 Short 0),9-0,9,0
+0021900961,2020-03-10,WAS,NYK,2.08,1,9,55,NYK,NYK,fg_make,58,False,False,,Randle 8' Turnaround Hook Shot (2 PTS),9-2,9,2
+0021900961,2020-03-10,WAS,NYK,2.32,1,9,41,WAS,NYK,foul,2,False,False,,Gibson S.FOUL (P1.T1) (G.Petraitis),9-2,9,2
+0021900961,2020-03-10,WAS,NYK,2.32,1,9,41,WAS,WAS,ft_make,11,False,False,Bryant Free Throw 1 of 2 (5 PTS),,10-2,10,2
+0021900961,2020-03-10,WAS,NYK,2.32,1,9,41,WAS,WAS,ft_make,12,False,False,Bryant Free Throw 2 of 2 (6 PTS),,11-2,11,2
+0021900961,2020-03-10,WAS,NYK,2.58,1,9,25,NYK,NYK,tov,2,False,True,,Payton Lost Ball Turnover (P1.T2),11-2,11,2
+0021900961,2020-03-10,WAS,NYK,2.58,1,9,25,NYK,WAS,steal,2,False,True,steal,steal,11-2,11,2
+0021900961,2020-03-10,WAS,NYK,2.65,1,9,21,WAS,WAS,fg3_make,1,False,False,Beal 26' 3PT Jump Shot (3 PTS) (Robinson 1 AST),,14-2,14,2
+0021900961,2020-03-10,WAS,NYK,2.9,1,9,6,NYK,NYK,fg_make,5,False,False,,Gibson 2' Layup (2 PTS) (Harkless 1 AST),14-4,14,4
+0021900961,2020-03-10,WAS,NYK,3.22,1,8,47,WAS,WAS,fg_make,102,False,False,Hachimura 5' Driving Floating Bank Jump Shot (4 PTS),,16-4,16,4
+0021900961,2020-03-10,WAS,NYK,3.57,1,8,26,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 27' 3PT Jump Shot,16-4,16,4
+0021900961,2020-03-10,WAS,NYK,3.57,1,8,26,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,16-4,16,4
+0021900961,2020-03-10,WAS,NYK,3.72,1,8,17,WAS,WAS,fg_miss,79,False,False,MISS Bryant 17' Pullup Jump Shot,,16-4,16,4
+0021900961,2020-03-10,WAS,NYK,3.77,1,8,14,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:1),16-4,16,4
+0021900961,2020-03-10,WAS,NYK,3.97,1,8,2,NYK,NYK,tov,1,False,True,,Barrett Bad Pass Turnover (P1.T3),16-4,16,4
+0021900961,2020-03-10,WAS,NYK,3.97,1,8,2,NYK,WAS,steal,1,False,True,steal,steal,16-4,16,4
+0021900961,2020-03-10,WAS,NYK,4.05,1,7,57,WAS,WAS,fg_make,108,False,False,Hachimura 1' Cutting Dunk Shot (6 PTS) (Beal 2 AST),,18-4,18,4
+0021900961,2020-03-10,WAS,NYK,4.05,1,7,57,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.2 Short 0),18-4,18,4
+0021900961,2020-03-10,WAS,NYK,4.32,1,7,41,NYK,NYK,fg3_make,1,False,False,,Ntilikina 3PT Jump Shot (3 PTS) (Knox II 1 AST),18-7,18,7
+0021900961,2020-03-10,WAS,NYK,4.58,1,7,25,WAS,WAS,fg_miss,1,False,False,MISS Hachimura 14' Jump Shot,,18-7,18,7
+0021900961,2020-03-10,WAS,NYK,4.6,1,7,24,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:0 Def:1),18-7,18,7
+0021900961,2020-03-10,WAS,NYK,4.72,1,7,17,NYK,NYK,fg_miss,52,False,False,,MISS Robinson 2' Alley Oop Dunk,18-7,18,7
+0021900961,2020-03-10,WAS,NYK,4.73,1,7,16,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,18-7,18,7
+0021900961,2020-03-10,WAS,NYK,5.05,1,6,57,WAS,WAS,fg3_make,1,False,False,Bryant 25' 3PT Jump Shot (9 PTS) (Napier 1 AST),,21-7,21,7
+0021900961,2020-03-10,WAS,NYK,5.43,1,6,34,NYK,NYK,fg3_make,1,False,False,,Portis 26' 3PT Jump Shot (3 PTS) (Ntilikina 1 AST),21-10,21,10
+0021900961,2020-03-10,WAS,NYK,5.75,1,6,15,WAS,WAS,fg3_miss,79,False,False,MISS Beal 26' 3PT Pullup Jump Shot,,21-10,21,10
+0021900961,2020-03-10,WAS,NYK,5.78,1,6,13,NYK,NYK,reb,0,False,False,,Ntilikina REBOUND (Off:0 Def:1),21-10,21,10
+0021900961,2020-03-10,WAS,NYK,5.88,1,6,7,NYK,NYK,fg_make,1,False,False,,Portis 21' Jump Shot (5 PTS) (Knox II 2 AST),21-12,21,12
+0021900961,2020-03-10,WAS,NYK,6.07,1,5,56,WAS,NYK,foul,2,False,False,,Knox II S.FOUL (P1.T2) (G.Petraitis),21-12,21,12
+0021900961,2020-03-10,WAS,NYK,6.07,1,5,56,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (4 PTS),,22-12,22,12
+0021900961,2020-03-10,WAS,NYK,6.07,1,5,56,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (5 PTS),,23-12,23,12
+0021900961,2020-03-10,WAS,NYK,6.25,1,5,45,NYK,NYK,fg3_make,80,False,False,,Ntilikina 26' 3PT Step Back Jump Shot (6 PTS),23-15,23,15
+0021900961,2020-03-10,WAS,NYK,6.35,1,5,39,WAS,WAS,tov,45,False,False,Beal Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,23-15,23,15
+0021900961,2020-03-10,WAS,NYK,6.6,1,5,24,NYK,NYK,fg3_make,1,False,False,,Bullock 26' 3PT Jump Shot (3 PTS) (Ntilikina 2 AST),23-18,23,18
+0021900961,2020-03-10,WAS,NYK,6.82,1,5,11,WAS,NYK,foul,2,False,False,,Robinson S.FOUL (P1.T3) (D.Guthrie),23-18,23,18
+0021900961,2020-03-10,WAS,NYK,6.82,1,5,11,WAS,WAS,ft_make,11,False,False,Wagner Free Throw 1 of 2 (1 PTS),,24-18,24,18
+0021900961,2020-03-10,WAS,NYK,6.82,1,5,11,WAS,WAS,ft_make,12,False,False,Wagner Free Throw 2 of 2 (2 PTS),,25-18,25,18
+0021900961,2020-03-10,WAS,NYK,7.03,1,4,58,NYK,NYK,fg_make,79,False,False,,Portis 20' Pullup Jump Shot (7 PTS) (Ntilikina 3 AST),25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.27,1,4,44,WAS,WAS,fg_miss,80,False,False,MISS Beal 21' Step Back Jump Shot,,25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.28,1,4,43,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:0 Def:2),25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.4,1,4,36,NYK,NYK,fg_miss,1,False,False,,MISS Portis 22' Jump Shot,25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.43,1,4,34,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:0 Def:1),,25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.6,1,4,24,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 27' 3PT Jump Shot,,25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.63,1,4,22,NYK,NYK,reb,0,False,False,,Portis REBOUND (Off:0 Def:1),25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.85,1,4,9,NYK,WAS,foul,2,False,False,Bertans S.FOUL (P1.T1) (G.Petraitis),,25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.85,1,4,9,NYK,NYK,ft_miss,11,False,False,,MISS Portis Free Throw 1 of 2,25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.85,1,4,9,NYK,NYK,reb,1,False,False,,Knicks Rebound,25-20,25,20
+0021900961,2020-03-10,WAS,NYK,7.85,1,4,9,NYK,NYK,ft_make,12,False,False,,Portis Free Throw 2 of 2 (8 PTS),25-21,25,21
+0021900961,2020-03-10,WAS,NYK,8.08,1,3,55,WAS,WAS,fg_miss,6,False,False,MISS Mathews 5' Driving Layup,,25-21,25,21
+0021900961,2020-03-10,WAS,NYK,8.12,1,3,53,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:0 Def:1),25-21,25,21
+0021900961,2020-03-10,WAS,NYK,8.22,1,3,47,NYK,NYK,fg_make,1,False,False,,Ntilikina 21' Jump Shot (8 PTS),25-23,25,23
+0021900961,2020-03-10,WAS,NYK,8.57,1,3,26,WAS,NYK,foul,2,False,False,,Robinson S.FOUL (P2.T4) (D.Guthrie),25-23,25,23
+0021900961,2020-03-10,WAS,NYK,8.57,1,3,26,WAS,WAS,ft_miss,11,False,False,MISS Beal Free Throw 1 of 2,,25-23,25,23
+0021900961,2020-03-10,WAS,NYK,8.57,1,3,26,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,25-23,25,23
+0021900961,2020-03-10,WAS,NYK,8.57,1,3,26,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (6 PTS),,26-23,26,23
+0021900961,2020-03-10,WAS,NYK,8.92,1,3,5,NYK,NYK,fg_make,1,False,False,,Portis 22' Jump Shot (10 PTS),26-25,26,25
+0021900961,2020-03-10,WAS,NYK,9.13,1,2,52,WAS,WAS,tov,1,False,True,Wagner Bad Pass Turnover (P1.T3),,26-25,26,25
+0021900961,2020-03-10,WAS,NYK,9.13,1,2,52,WAS,NYK,steal,1,False,True,steal,steal,26-25,26,25
+0021900961,2020-03-10,WAS,NYK,9.2,1,2,48,NYK,NYK,fg_make,6,False,False,,Portis 2' Driving Layup (12 PTS) (Ntilikina 4 AST),26-27,26,27
+0021900961,2020-03-10,WAS,NYK,9.45,1,2,33,WAS,WAS,fg_make,79,False,False,Beal 14' Pullup Jump Shot (8 PTS),,28-27,28,27
+0021900961,2020-03-10,WAS,NYK,9.65,1,2,21,NYK,WAS,foul,1,False,False,Mathews P.FOUL (P1.T2) (R.Acosta),,28-27,28,27
+0021900961,2020-03-10,WAS,NYK,9.72,1,2,17,NYK,WAS,foul,1,False,False,Hachimura P.FOUL (P1.T3) (D.Guthrie),,28-27,28,27
+0021900961,2020-03-10,WAS,NYK,9.85,1,2,9,NYK,NYK,fg_miss,80,False,False,,MISS Portis 18' Step Back Jump Shot,28-27,28,27
+0021900961,2020-03-10,WAS,NYK,9.88,1,2,7,WAS,WAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:1),,28-27,28,27
+0021900961,2020-03-10,WAS,NYK,9.97,1,2,2,WAS,NYK,foul,2,False,False,,Knox II S.FOUL (P2.PN) (D.Guthrie),28-27,28,27
+0021900961,2020-03-10,WAS,NYK,9.97,1,2,2,WAS,WAS,ft_make,11,False,False,Mathews Free Throw 1 of 2 (1 PTS),,29-27,29,27
+0021900961,2020-03-10,WAS,NYK,9.97,1,2,2,WAS,WAS,ft_make,12,False,False,Mathews Free Throw 2 of 2 (2 PTS),,30-27,30,27
+0021900961,2020-03-10,WAS,NYK,10.22,1,1,47,NYK,NYK,fg_miss,80,False,False,,MISS Ntilikina 16' Step Back Jump Shot,30-27,30,27
+0021900961,2020-03-10,WAS,NYK,10.25,1,1,45,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:1),,30-27,30,27
+0021900961,2020-03-10,WAS,NYK,10.32,1,1,41,WAS,WAS,tov,45,False,False,Brown Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,30-27,30,27
+0021900961,2020-03-10,WAS,NYK,10.5,1,1,30,NYK,NYK,fg_make,1,False,False,,Portis 16' Jump Shot (14 PTS) (Ellington 1 AST),30-29,30,29
+0021900961,2020-03-10,WAS,NYK,10.75,1,1,15,WAS,WAS,fg3_make,79,False,False,Mathews 26' 3PT Pullup Jump Shot (5 PTS) (Wagner 1 AST),,33-29,33,29
+0021900961,2020-03-10,WAS,NYK,11.0,1,1,0,NYK,NYK,fg3_miss,1,False,False,,MISS Ellington 26' 3PT Jump Shot,33-29,33,29
+0021900961,2020-03-10,WAS,NYK,11.03,1,0,58,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:1 Def:0),33-29,33,29
+0021900961,2020-03-10,WAS,NYK,11.05,1,0,57,NYK,WAS,foul,2,False,False,Wagner S.FOUL (P1.T4) (D.Guthrie),,33-29,33,29
+0021900961,2020-03-10,WAS,NYK,11.05,1,0,57,NYK,NYK,ft_make,11,False,False,,Gibson Free Throw 1 of 2 (3 PTS),33-30,33,30
+0021900961,2020-03-10,WAS,NYK,11.05,1,0,57,NYK,NYK,ft_make,12,False,False,,Gibson Free Throw 2 of 2 (4 PTS),33-31,33,31
+0021900961,2020-03-10,WAS,NYK,11.4,1,0,36,WAS,WAS,fg_miss,6,True,False,MISS Brown Jr. 8' Driving Layup,,33-31,33,31
+0021900961,2020-03-10,WAS,NYK,11.4,1,0,36,WAS,NYK,block,6,True,False,block,block,33-31,33,31
+0021900961,2020-03-10,WAS,NYK,11.42,1,0,35,NYK,NYK,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),33-31,33,31
+0021900961,2020-03-10,WAS,NYK,11.73,1,0,16,NYK,NYK,tov,45,False,False,,Ntilikina Out of Bounds - Bad Pass Turnover Turnover (P1.T4),33-31,33,31
+0021900961,2020-03-10,WAS,NYK,11.98,1,0,1,WAS,WAS,fg3_make,79,False,False,Bertans 27' 3PT Pullup Jump Shot (3 PTS) (Brown Jr. 1 AST),,36-31,36,31
+0021900961,2020-03-10,WAS,NYK,12.0,1,0,0,WAS,,period_end,0,False,False,,,36-31,36,31
+0021900961,2020-03-10,WAS,NYK,12.0,2,12,0,WAS,,period_start,0,False,False,,,36-31,36,31
+0021900961,2020-03-10,WAS,NYK,12.08,2,11,55,NYK,NYK,tov,4,False,False,,Gibson Traveling Turnover (P1.T5),36-31,36,31
+0021900961,2020-03-10,WAS,NYK,12.22,2,11,47,WAS,WAS,tov,1,False,True,Brown Jr. Bad Pass Turnover (P2.T5),,36-31,36,31
+0021900961,2020-03-10,WAS,NYK,12.22,2,11,47,WAS,NYK,steal,1,False,True,steal,steal,36-31,36,31
+0021900961,2020-03-10,WAS,NYK,12.4,2,11,36,NYK,NYK,fg_make,9,False,False,,Portis 3' Driving Dunk (16 PTS),36-33,36,33
+0021900961,2020-03-10,WAS,NYK,12.53,2,11,28,WAS,WAS,fg_miss,6,True,False,MISS Brown Jr. 3' Driving Layup,,36-33,36,33
+0021900961,2020-03-10,WAS,NYK,12.53,2,11,28,WAS,NYK,block,6,True,False,block,block,36-33,36,33
+0021900961,2020-03-10,WAS,NYK,12.57,2,11,26,NYK,NYK,reb,0,False,False,,Ellington REBOUND (Off:0 Def:1),36-33,36,33
+0021900961,2020-03-10,WAS,NYK,12.93,2,11,4,NYK,NYK,fg_make,5,False,False,,Gibson 2' Layup (6 PTS) (Portis 1 AST),36-35,36,35
+0021900961,2020-03-10,WAS,NYK,13.3,2,10,42,WAS,NYK,foul,2,False,False,,Bullock S.FOUL (P1.T1) (D.Guthrie),36-35,36,35
+0021900961,2020-03-10,WAS,NYK,13.3,2,10,42,WAS,WAS,ft_make,11,False,False,Hachimura Free Throw 1 of 2 (7 PTS),,37-35,37,35
+0021900961,2020-03-10,WAS,NYK,13.3,2,10,42,WAS,WAS,ft_make,12,False,False,Hachimura Free Throw 2 of 2 (8 PTS),,38-35,38,35
+0021900961,2020-03-10,WAS,NYK,13.47,2,10,32,NYK,NYK,fg_make,6,False,False,,Bullock 3' Driving Layup (5 PTS) (Ellington 2 AST),38-37,38,37
+0021900961,2020-03-10,WAS,NYK,13.47,2,10,32,NYK,WAS,foul,2,False,False,Pasecniks S.FOUL (P1.T1) (G.Petraitis),,38-37,38,37
+0021900961,2020-03-10,WAS,NYK,13.47,2,10,32,NYK,NYK,ft_miss,10,False,False,,MISS Bullock Free Throw 1 of 1,38-37,38,37
+0021900961,2020-03-10,WAS,NYK,13.5,2,10,30,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:2),,38-37,38,37
+0021900961,2020-03-10,WAS,NYK,13.6,2,10,24,WAS,WAS,tov,45,False,False,Bertans Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,38-37,38,37
+0021900961,2020-03-10,WAS,NYK,13.95,2,10,3,NYK,NYK,fg_miss,102,False,False,,MISS Portis 13' Driving Floating Bank Jump Shot,38-37,38,37
+0021900961,2020-03-10,WAS,NYK,13.95,2,10,3,NYK,NYK,reb,0,False,False,,Knicks Rebound,38-37,38,37
+0021900961,2020-03-10,WAS,NYK,13.95,2,10,3,NYK,WAS,foul,3,False,False,Bertans L.B.FOUL (P2.T2) (G.Petraitis),,38-37,38,37
+0021900961,2020-03-10,WAS,NYK,14.07,2,9,56,NYK,NYK,fg_make,98,False,False,,Bullock 3' Cutting Layup Shot (7 PTS) (Portis 2 AST),38-39,38,39
+0021900961,2020-03-10,WAS,NYK,14.07,2,9,56,NYK,WAS,foul,2,False,False,Mathews S.FOUL (P2.T3) (D.Guthrie),,38-39,38,39
+0021900961,2020-03-10,WAS,NYK,14.07,2,9,56,NYK,NYK,ft_make,10,False,False,,Bullock Free Throw 1 of 1 (8 PTS),38-40,38,40
+0021900961,2020-03-10,WAS,NYK,14.45,2,9,33,WAS,WAS,fg3_miss,1,False,False,MISS Mathews 3PT Jump Shot,,38-40,38,40
+0021900961,2020-03-10,WAS,NYK,14.5,2,9,30,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:1 Def:1),38-40,38,40
+0021900961,2020-03-10,WAS,NYK,14.6,2,9,24,NYK,NYK,fg_make,7,False,False,,Gibson 2' Dunk (8 PTS) (Ntilikina 5 AST),38-42,38,42
+0021900961,2020-03-10,WAS,NYK,14.62,2,9,23,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 1 Short 0),,38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.05,2,8,57,WAS,WAS,fg_miss,102,False,False,MISS Beal 7' Driving Floating Bank Jump Shot,,38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.08,2,8,55,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:1),38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.13,2,8,52,NYK,NYK,tov,1,False,True,,Ellington Bad Pass Turnover (P1.T6),38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.13,2,8,52,NYK,WAS,steal,1,False,True,steal,steal,38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.35,2,8,39,WAS,NYK,foul,1,False,False,,Gibson P.FOUL (P2.T2) (R.Acosta),38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.48,2,8,31,WAS,NYK,foul,2,False,False,,Ntilikina S.FOUL (P1.T3) (R.Acosta),38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.48,2,8,31,WAS,WAS,ft_miss,11,False,False,MISS Beal Free Throw 1 of 2,,38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.48,2,8,31,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,38-42,38,42
+0021900961,2020-03-10,WAS,NYK,15.48,2,8,31,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (9 PTS),,39-42,39,42
+0021900961,2020-03-10,WAS,NYK,15.75,2,8,15,NYK,WAS,foul,2,False,False,Payton II S.FOUL (P1.T4) (G.Petraitis),,39-42,39,42
+0021900961,2020-03-10,WAS,NYK,15.75,2,8,15,NYK,NYK,ft_make,11,False,False,,Ntilikina Free Throw 1 of 2 (9 PTS),39-43,39,43
+0021900961,2020-03-10,WAS,NYK,15.75,2,8,15,NYK,NYK,ft_make,12,False,False,,Ntilikina Free Throw 2 of 2 (10 PTS),39-44,39,44
+0021900961,2020-03-10,WAS,NYK,15.92,2,8,5,WAS,WAS,fg_miss,79,False,False,MISS Beal 21' Pullup Jump Shot,,39-44,39,44
+0021900961,2020-03-10,WAS,NYK,15.95,2,8,3,NYK,NYK,reb,0,False,False,,Ellington REBOUND (Off:0 Def:2),39-44,39,44
+0021900961,2020-03-10,WAS,NYK,16.18,2,7,49,NYK,NYK,fg3_miss,1,False,False,,MISS Ntilikina 26' 3PT Jump Shot,39-44,39,44
+0021900961,2020-03-10,WAS,NYK,16.22,2,7,47,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:0 Def:3),,39-44,39,44
+0021900961,2020-03-10,WAS,NYK,16.45,2,7,33,WAS,WAS,fg_make,75,False,False,Napier 2' Driving Finger Roll Layup (5 PTS),,41-44,41,44
+0021900961,2020-03-10,WAS,NYK,16.78,2,7,13,NYK,NYK,fg3_make,1,False,False,,Ellington 26' 3PT Jump Shot (3 PTS) (Randle 1 AST),41-47,41,47
+0021900961,2020-03-10,WAS,NYK,17.03,2,6,58,WAS,WAS,fg3_miss,1,False,False,MISS Bryant 25' 3PT Jump Shot,,41-47,41,47
+0021900961,2020-03-10,WAS,NYK,17.07,2,6,56,NYK,NYK,reb,0,False,False,,Ellington REBOUND (Off:0 Def:3),41-47,41,47
+0021900961,2020-03-10,WAS,NYK,17.27,2,6,44,NYK,NYK,fg_make,108,False,False,,Gibson 1' Cutting Dunk Shot (10 PTS) (Ntilikina 6 AST),41-49,41,49
+0021900961,2020-03-10,WAS,NYK,17.42,2,6,35,WAS,WAS,fg_miss,73,False,False,MISS Napier 2' Driving Reverse Layup,,41-49,41,49
+0021900961,2020-03-10,WAS,NYK,17.45,2,6,33,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:1 Def:2),41-49,41,49
+0021900961,2020-03-10,WAS,NYK,17.63,2,6,22,NYK,WAS,foul,2,False,False,Beal S.FOUL (P1.PN) (R.Acosta),,41-49,41,49
+0021900961,2020-03-10,WAS,NYK,17.63,2,6,22,NYK,NYK,ft_make,11,False,False,,Randle Free Throw 1 of 2 (3 PTS),41-50,41,50
+0021900961,2020-03-10,WAS,NYK,17.63,2,6,22,NYK,NYK,ft_make,12,False,False,,Randle Free Throw 2 of 2 (4 PTS),41-51,41,51
+0021900961,2020-03-10,WAS,NYK,17.63,2,6,22,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 2 Short 0),,41-51,41,51
+0021900961,2020-03-10,WAS,NYK,17.8,2,6,12,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 25' 3PT Jump Shot,,41-51,41,51
+0021900961,2020-03-10,WAS,NYK,17.83,2,6,10,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:0 Def:1),41-51,41,51
+0021900961,2020-03-10,WAS,NYK,18.2,2,5,48,NYK,NYK,fg_make,102,False,False,,Payton 10' Driving Floating Bank Jump Shot (2 PTS) (Barrett 1 AST),41-53,41,53
+0021900961,2020-03-10,WAS,NYK,18.33,2,5,40,WAS,NYK,foul,2,False,False,,Payton S.FOUL (P1.T4) (G.Petraitis),41-53,41,53
+0021900961,2020-03-10,WAS,NYK,18.33,2,5,40,WAS,WAS,ft_make,11,False,False,Napier Free Throw 1 of 2 (6 PTS),,42-53,42,53
+0021900961,2020-03-10,WAS,NYK,18.33,2,5,40,WAS,WAS,ft_make,12,False,False,Napier Free Throw 2 of 2 (7 PTS),,43-53,43,53
+0021900961,2020-03-10,WAS,NYK,18.57,2,5,26,NYK,NYK,fg_make,102,False,False,,Barrett 2' Driving Floating Bank Jump Shot (2 PTS) (Bullock 1 AST),43-55,43,55
+0021900961,2020-03-10,WAS,NYK,18.73,2,5,16,WAS,WAS,fg3_miss,1,False,False,MISS Beal 26' 3PT Jump Shot,,43-55,43,55
+0021900961,2020-03-10,WAS,NYK,18.75,2,5,15,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:1 Def:1),,43-55,43,55
+0021900961,2020-03-10,WAS,NYK,18.8,2,5,12,WAS,WAS,fg3_miss,1,False,False,MISS Napier 26' 3PT Jump Shot,,43-55,43,55
+0021900961,2020-03-10,WAS,NYK,18.83,2,5,10,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:1 Def:3),,43-55,43,55
+0021900961,2020-03-10,WAS,NYK,18.9,2,5,6,WAS,WAS,fg3_make,1,False,False,Bertans 26' 3PT Jump Shot (6 PTS) (Bryant 2 AST),,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.1,2,4,54,NYK,WAS,foul,2,False,False,Brown Jr. S.FOUL (P1.PN) (R.Acosta),,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.1,2,4,54,NYK,NYK,ft_miss,11,False,False,,MISS Payton Free Throw 1 of 2,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.1,2,4,54,NYK,NYK,reb,1,False,False,,Knicks Rebound,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.1,2,4,54,NYK,NYK,ft_miss,12,False,False,,MISS Payton Free Throw 2 of 2,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.17,2,4,50,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:1 Def:2),,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.37,2,4,38,WAS,WAS,tov,2,False,True,Beal Lost Ball Turnover (P2.T7),,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.37,2,4,38,WAS,NYK,steal,2,False,True,steal,steal,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.57,2,4,26,NYK,NYK,fg_miss,79,False,False,,MISS Barrett 14' Pullup Jump Shot,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.6,2,4,24,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:1 Def:3),,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.72,2,4,17,WAS,WAS,tov,2,False,True,Brown Jr. Lost Ball Turnover (P3.T8),,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.72,2,4,17,WAS,NYK,steal,2,False,True,steal,steal,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.83,2,4,10,NYK,WAS,foul,1,False,False,Napier P.FOUL (P1.PN) (D.Guthrie),,46-55,46,55
+0021900961,2020-03-10,WAS,NYK,19.83,2,4,10,NYK,NYK,ft_make,11,False,False,,Barrett Free Throw 1 of 2 (3 PTS),46-56,46,56
+0021900961,2020-03-10,WAS,NYK,19.83,2,4,10,NYK,NYK,ft_miss,12,False,False,,MISS Barrett Free Throw 2 of 2,46-56,46,56
+0021900961,2020-03-10,WAS,NYK,19.87,2,4,8,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:3),,46-56,46,56
+0021900961,2020-03-10,WAS,NYK,20.13,2,3,52,WAS,WAS,fg_miss,80,False,False,MISS Beal 19' Step Back Jump Shot,,46-56,46,56
+0021900961,2020-03-10,WAS,NYK,20.18,2,3,49,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:2),46-56,46,56
+0021900961,2020-03-10,WAS,NYK,20.28,2,3,43,NYK,NYK,fg_miss,6,False,False,,MISS Payton 2' Driving Layup,46-56,46,56
+0021900961,2020-03-10,WAS,NYK,20.3,2,3,42,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:1 Def:1),46-56,46,56
+0021900961,2020-03-10,WAS,NYK,20.3,2,3,42,NYK,NYK,fg_make,107,False,False,,Robinson 1' Tip Dunk Shot (2 PTS),46-58,46,58
+0021900961,2020-03-10,WAS,NYK,20.5,2,3,30,WAS,NYK,foul,1,False,False,,Payton P.FOUL (P2.PN) (D.Guthrie),46-58,46,58
+0021900961,2020-03-10,WAS,NYK,20.5,2,3,30,WAS,WAS,ft_make,11,False,False,Napier Free Throw 1 of 2 (8 PTS),,47-58,47,58
+0021900961,2020-03-10,WAS,NYK,20.5,2,3,30,WAS,WAS,ft_make,12,False,False,Napier Free Throw 2 of 2 (9 PTS),,48-58,48,58
+0021900961,2020-03-10,WAS,NYK,20.73,2,3,16,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 27' 3PT Jump Shot,48-58,48,58
+0021900961,2020-03-10,WAS,NYK,20.78,2,3,13,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:4),,48-58,48,58
+0021900961,2020-03-10,WAS,NYK,21.0,2,3,0,WAS,WAS,tov,39,False,False,Napier Step Out of Bounds Turnover (P2.T9),,48-58,48,58
+0021900961,2020-03-10,WAS,NYK,21.0,2,3,0,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.3 Short 0),48-58,48,58
+0021900961,2020-03-10,WAS,NYK,21.42,2,2,35,NYK,NYK,fg_make,71,False,False,,Ntilikina 7' Finger Roll Layup (12 PTS),48-60,48,60
+0021900961,2020-03-10,WAS,NYK,21.58,2,2,25,WAS,WAS,fg_make,98,False,False,Beal 1' Cutting Layup Shot (11 PTS) (Napier 2 AST),,50-60,50,60
+0021900961,2020-03-10,WAS,NYK,21.88,2,2,7,NYK,NYK,fg_make,98,False,False,,Barrett 3' Cutting Layup Shot (5 PTS) (Randle 2 AST),50-62,50,62
+0021900961,2020-03-10,WAS,NYK,21.88,2,2,7,NYK,WAS,foul,2,False,False,Bryant S.FOUL (P1.PN) (G.Petraitis),,50-62,50,62
+0021900961,2020-03-10,WAS,NYK,21.88,2,2,7,NYK,NYK,ft_make,10,False,False,,Barrett Free Throw 1 of 1 (6 PTS),50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.1,2,1,54,WAS,WAS,fg_miss,79,False,False,MISS Beal 14' Pullup Jump Shot,,50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.13,2,1,52,WAS,WAS,reb,0,False,False,Wagner REBOUND (Off:1 Def:0),,50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.15,2,1,51,WAS,WAS,fg_miss,72,False,False,MISS Wagner 3' Putback Layup,,50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.18,2,1,49,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:3),50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.23,2,1,46,NYK,NYK,fg_miss,41,False,False,,MISS Randle 3' Running Layup,50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.27,2,1,44,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:3),50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.32,2,1,41,NYK,WAS,foul,1,False,False,Wagner P.FOUL (P2.PN) (G.Petraitis),,50-63,50,63
+0021900961,2020-03-10,WAS,NYK,22.32,2,1,41,NYK,NYK,ft_make,11,False,False,,Randle Free Throw 1 of 2 (5 PTS),50-64,50,64
+0021900961,2020-03-10,WAS,NYK,22.32,2,1,41,NYK,NYK,ft_make,12,False,False,,Randle Free Throw 2 of 2 (6 PTS),50-65,50,65
+0021900961,2020-03-10,WAS,NYK,22.53,2,1,28,WAS,NYK,foul,2,False,False,,Randle S.FOUL (P1.PN) (G.Petraitis),50-65,50,65
+0021900961,2020-03-10,WAS,NYK,22.53,2,1,28,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (12 PTS),,51-65,51,65
+0021900961,2020-03-10,WAS,NYK,22.53,2,1,28,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (13 PTS),,52-65,52,65
+0021900961,2020-03-10,WAS,NYK,22.68,2,1,19,NYK,WAS,foul,17,False,False,WIZARDS T.Foul (Def. 3 Sec Wagner ) (D.Guthrie),,52-65,52,65
+0021900961,2020-03-10,WAS,NYK,22.68,2,1,19,NYK,NYK,ft_miss,16,False,False,,MISS Ntilikina Free Throw Technical,52-65,52,65
+0021900961,2020-03-10,WAS,NYK,22.68,2,1,19,NYK,NYK,reb,1,False,False,,Knicks Rebound,52-65,52,65
+0021900961,2020-03-10,WAS,NYK,22.8,2,1,12,NYK,NYK,fg3_miss,79,False,False,,MISS Ntilikina 26' 3PT Pullup Jump Shot,52-65,52,65
+0021900961,2020-03-10,WAS,NYK,22.83,2,1,10,NYK,NYK,reb,0,False,False,,Portis REBOUND (Off:1 Def:2),52-65,52,65
+0021900961,2020-03-10,WAS,NYK,23.03,2,0,58,NYK,NYK,fg3_make,1,False,False,,Barrett 25' 3PT Jump Shot (9 PTS) (Portis 3 AST),52-68,52,68
+0021900961,2020-03-10,WAS,NYK,23.17,2,0,50,WAS,NYK,foul,2,False,False,,Ntilikina S.FOUL (P2.PN) (R.Acosta),52-68,52,68
+0021900961,2020-03-10,WAS,NYK,23.17,2,0,50,WAS,WAS,ft_make,11,False,False,Hachimura Free Throw 1 of 2 (9 PTS),,53-68,53,68
+0021900961,2020-03-10,WAS,NYK,23.17,2,0,50,WAS,WAS,ft_make,12,False,False,Hachimura Free Throw 2 of 2 (10 PTS),,54-68,54,68
+0021900961,2020-03-10,WAS,NYK,23.48,2,0,31,NYK,WAS,foul,2,False,False,Wagner S.FOUL (P3.PN) (R.Acosta),,54-68,54,68
+0021900961,2020-03-10,WAS,NYK,23.48,2,0,31,NYK,NYK,ft_make,11,False,False,,Randle Free Throw 1 of 2 (7 PTS),54-69,54,69
+0021900961,2020-03-10,WAS,NYK,23.48,2,0,31,NYK,NYK,ft_make,12,False,False,,Randle Free Throw 2 of 2 (8 PTS),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,23.87,2,0,8,WAS,WAS,fg_miss,79,False,False,MISS Beal 20' Pullup Jump Shot,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,23.9,2,0,6,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,23.9,2,0,6,WAS,NYK,foul,3,False,False,,Ntilikina L.B.FOUL (P3.PN) (R.Acosta),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,23.9,2,0,6,WAS,WAS,ft_miss,11,False,False,MISS Pasecniks Free Throw 1 of 2,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,23.9,2,0,6,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,23.9,2,0,6,WAS,WAS,ft_miss,12,False,False,MISS Pasecniks Free Throw 2 of 2,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,23.92,2,0,5,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:2),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.0,2,0,0,WAS,NYK,foul,4,False,False,,Randle OFF.Foul (P2) (R.Acosta),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.0,2,0,0,NYK,NYK,tov,37,False,False,,Randle Offensive Foul Turnover (P2.T7),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.0,2,0,0,WAS,NYK,violation,1,False,False,,Knicks Violation: Delay of game Violation,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.0,2,0,0,WAS,,period_end,0,False,False,,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.0,3,12,0,WAS,,period_start,0,False,False,,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.18,3,11,49,NYK,NYK,fg_miss,6,False,False,,MISS Barrett 1' Driving Layup,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.2,3,11,48,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:5),,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.35,3,11,39,WAS,WAS,fg3_miss,1,False,False,MISS Robinson 25' 3PT Jump Shot,,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.38,3,11,37,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:3),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.47,3,11,32,NYK,NYK,tov,45,False,False,,Barrett Out of Bounds - Bad Pass Turnover Turnover (P2.T8),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.72,3,11,17,WAS,WAS,tov,2,False,True,Beal Lost Ball Turnover (P3.T10),,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.72,3,11,17,WAS,NYK,steal,2,False,True,steal,steal,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.77,3,11,14,NYK,NYK,tov,2,False,True,,Barrett Lost Ball Turnover (P3.T9),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.77,3,11,14,NYK,WAS,steal,2,False,True,steal,steal,54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.87,3,11,8,WAS,NYK,foul,2,False,False,,Gibson S.FOUL (P3.T1) (R.Acosta),54-70,54,70
+0021900961,2020-03-10,WAS,NYK,24.87,3,11,8,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (14 PTS),,55-70,55,70
+0021900961,2020-03-10,WAS,NYK,24.87,3,11,8,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (15 PTS),,56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.18,3,10,49,NYK,NYK,fg_miss,6,False,False,,MISS Harkless 2' Driving Layup,56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.22,3,10,47,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:6),,56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.23,3,10,46,WAS,WAS,tov,2,False,True,Hachimura Lost Ball Turnover (P1.T11),,56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.23,3,10,46,WAS,NYK,steal,2,False,True,steal,steal,56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.28,3,10,43,NYK,NYK,fg_miss,5,True,False,,MISS Payton 2' Layup,56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.28,3,10,43,NYK,WAS,block,5,True,False,block,block,56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.32,3,10,41,NYK,NYK,reb,0,False,False,,Harkless REBOUND (Off:1 Def:0),56-70,56,70
+0021900961,2020-03-10,WAS,NYK,25.33,3,10,40,NYK,NYK,fg_make,7,False,False,,Harkless Dunk (2 PTS),56-72,56,72
+0021900961,2020-03-10,WAS,NYK,25.45,3,10,33,WAS,NYK,foul,1,False,False,,Payton P.FOUL (P3.T2) (D.Guthrie),56-72,56,72
+0021900961,2020-03-10,WAS,NYK,25.52,3,10,29,WAS,WAS,fg_make,79,False,False,Beal 15' Pullup Jump Shot (17 PTS) (Napier 3 AST),,58-72,58,72
+0021900961,2020-03-10,WAS,NYK,25.85,3,10,9,NYK,NYK,fg_make,80,False,False,,Randle 18' Step Back Jump Shot (10 PTS) (Payton 1 AST),58-74,58,74
+0021900961,2020-03-10,WAS,NYK,26.07,3,9,56,WAS,WAS,fg3_miss,1,False,False,MISS Hachimura 26' 3PT Jump Shot,,58-74,58,74
+0021900961,2020-03-10,WAS,NYK,26.1,3,9,54,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:0 Def:2),58-74,58,74
+0021900961,2020-03-10,WAS,NYK,26.17,3,9,50,NYK,NYK,fg_miss,6,False,False,,MISS Randle 4' Driving Layup,58-74,58,74
+0021900961,2020-03-10,WAS,NYK,26.18,3,9,49,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:2 Def:3),58-74,58,74
+0021900961,2020-03-10,WAS,NYK,26.23,3,9,46,NYK,NYK,fg_make,97,False,False,,Randle 3' Tip Layup Shot (12 PTS),58-76,58,76
+0021900961,2020-03-10,WAS,NYK,26.52,3,9,29,WAS,WAS,fg3_miss,1,False,False,MISS Beal 26' 3PT Jump Shot,,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,26.55,3,9,27,WAS,WAS,reb,0,False,False,Robinson REBOUND (Off:1 Def:0),,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,26.78,3,9,13,WAS,WAS,tov,11,False,False,WIZARDS Turnover: Shot Clock (T#12),,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,26.92,3,9,5,NYK,NYK,fg_miss,98,False,False,,MISS Barrett Cutting Layup Shot,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,26.95,3,9,3,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:1 Def:4),,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.08,3,8,55,WAS,WAS,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.1,3,8,54,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.1,3,8,54,WAS,NYK,foul,3,False,False,,Payton L.B.FOUL (P4.T3) (R.Acosta),58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.25,3,8,45,WAS,WAS,tov,1,False,True,Beal Bad Pass Turnover (P4.T13),,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.25,3,8,45,WAS,NYK,steal,1,False,True,steal,steal,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.25,3,8,45,NYK,WAS,foul,28,False,False,Beal Personal Take Foul (P2.T1) (D.Guthrie),,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.43,3,8,34,NYK,NYK,fg_miss,79,False,False,,MISS Randle 13' Pullup Jump Shot,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.48,3,8,31,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:1 Def:3),58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.6,3,8,24,NYK,NYK,fg_miss,5,True,False,,MISS Barrett 2' Layup,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.6,3,8,24,NYK,WAS,block,5,True,False,block,block,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.6,3,8,24,NYK,NYK,reb,0,False,False,,Knicks Rebound,58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.72,3,8,17,NYK,NYK,tov,11,False,False,,Knicks Turnover: Shot Clock (T#10),58-76,58,76
+0021900961,2020-03-10,WAS,NYK,27.9,3,8,6,WAS,WAS,fg_make,1,False,False,Bryant 16' Jump Shot (11 PTS) (Beal 3 AST),,60-76,60,76
+0021900961,2020-03-10,WAS,NYK,28.18,3,7,49,NYK,NYK,tov,2,False,True,,Randle Lost Ball Turnover (P3.T11),60-76,60,76
+0021900961,2020-03-10,WAS,NYK,28.18,3,7,49,NYK,WAS,steal,2,False,True,steal,steal,60-76,60,76
+0021900961,2020-03-10,WAS,NYK,28.27,3,7,44,WAS,WAS,fg3_miss,79,False,False,MISS Beal 27' 3PT Pullup Jump Shot,,60-76,60,76
+0021900961,2020-03-10,WAS,NYK,28.3,3,7,42,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:1 Def:4),60-76,60,76
+0021900961,2020-03-10,WAS,NYK,28.35,3,7,39,NYK,NYK,tov,45,False,False,,Barrett Out of Bounds - Bad Pass Turnover Turnover (P4.T12),60-76,60,76
+0021900961,2020-03-10,WAS,NYK,28.55,3,7,27,WAS,WAS,fg_make,7,False,False,Hachimura 1' Dunk (12 PTS) (Napier 4 AST),,62-76,62,76
+0021900961,2020-03-10,WAS,NYK,28.55,3,7,27,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.4 Short 0),62-76,62,76
+0021900961,2020-03-10,WAS,NYK,28.55,3,7,27,NYK,WAS,foul,1,False,False,Napier P.FOUL (P2.T2) (G.Petraitis),,62-76,62,76
+0021900961,2020-03-10,WAS,NYK,28.92,3,7,5,NYK,WAS,foul,1,False,False,Bertans P.FOUL (P3.T3) (G.Petraitis),,62-76,62,76
+0021900961,2020-03-10,WAS,NYK,28.92,3,7,5,NYK,WAS,foul,11,False,False,Bertans T.FOUL (P3.T3) (G.Petraitis),,62-76,62,76
+0021900961,2020-03-10,WAS,NYK,28.92,3,7,5,NYK,NYK,ft_make,16,False,False,,Ntilikina Free Throw Technical (13 PTS),62-77,62,77
+0021900961,2020-03-10,WAS,NYK,29.1,3,6,54,NYK,NYK,fg_miss,102,False,False,,MISS Randle 10' Driving Floating Bank Jump Shot,62-77,62,77
+0021900961,2020-03-10,WAS,NYK,29.15,3,6,51,WAS,WAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:2),,62-77,62,77
+0021900961,2020-03-10,WAS,NYK,29.25,3,6,45,WAS,WAS,fg_make,108,False,False,Beal 1' Cutting Dunk Shot (19 PTS) (Bertans 1 AST),,64-77,64,77
+0021900961,2020-03-10,WAS,NYK,29.25,3,6,45,WAS,NYK,foul,2,False,False,,Randle S.FOUL (P3.T4) (D.Guthrie),64-77,64,77
+0021900961,2020-03-10,WAS,NYK,29.25,3,6,45,WAS,WAS,ft_make,10,False,False,Beal Free Throw 1 of 1 (20 PTS),,65-77,65,77
+0021900961,2020-03-10,WAS,NYK,29.58,3,6,25,NYK,NYK,fg_make,108,False,False,,Harkless 1' Cutting Dunk Shot (4 PTS) (Ntilikina 7 AST),65-79,65,79
+0021900961,2020-03-10,WAS,NYK,29.83,3,6,10,WAS,WAS,fg_make,73,False,False,Napier 3' Driving Reverse Layup (11 PTS),,67-79,67,79
+0021900961,2020-03-10,WAS,NYK,29.92,3,6,5,NYK,WAS,foul,1,False,False,Bryant P.FOUL (P2.T4) (D.Guthrie),,67-79,67,79
+0021900961,2020-03-10,WAS,NYK,30.02,3,5,59,NYK,NYK,fg_make,1,False,False,,Randle 15' Jump Shot (14 PTS) (Ntilikina 8 AST),67-81,67,81
+0021900961,2020-03-10,WAS,NYK,30.42,3,5,35,WAS,WAS,fg3_make,79,False,False,Napier 27' 3PT Pullup Jump Shot (14 PTS),,70-81,70,81
+0021900961,2020-03-10,WAS,NYK,30.55,3,5,27,NYK,WAS,foul,1,False,False,Bertans P.FOUL (P4.PN) (R.Acosta),,70-81,70,81
+0021900961,2020-03-10,WAS,NYK,30.55,3,5,27,NYK,WAS,violation,1,False,False,WIZARDS Violation: Delay of game Violation,,70-81,70,81
+0021900961,2020-03-10,WAS,NYK,30.55,3,5,27,NYK,NYK,ft_make,11,False,False,,Barrett Free Throw 1 of 2 (10 PTS),70-82,70,82
+0021900961,2020-03-10,WAS,NYK,30.55,3,5,27,NYK,NYK,ft_make,12,False,False,,Barrett Free Throw 2 of 2 (11 PTS),70-83,70,83
+0021900961,2020-03-10,WAS,NYK,30.7,3,5,18,WAS,NYK,foul,2,False,False,,Robinson S.FOUL (P3.PN) (R.Acosta),70-83,70,83
+0021900961,2020-03-10,WAS,NYK,30.7,3,5,18,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (21 PTS),,71-83,71,83
+0021900961,2020-03-10,WAS,NYK,30.7,3,5,18,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (22 PTS),,72-83,72,83
+0021900961,2020-03-10,WAS,NYK,30.9,3,5,6,NYK,NYK,fg_miss,79,False,False,,MISS Barrett 17' Pullup Jump Shot,72-83,72,83
+0021900961,2020-03-10,WAS,NYK,30.93,3,5,4,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:7),,72-83,72,83
+0021900961,2020-03-10,WAS,NYK,31.02,3,4,59,WAS,WAS,fg3_make,1,False,False,Beal 26' 3PT Jump Shot (25 PTS) (Napier 5 AST),,75-83,75,83
+0021900961,2020-03-10,WAS,NYK,31.32,3,4,41,NYK,NYK,fg_miss,86,False,False,,MISS Randle 14' Turnaround Fadeaway Shot,75-83,75,83
+0021900961,2020-03-10,WAS,NYK,31.35,3,4,39,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:0 Def:2),,75-83,75,83
+0021900961,2020-03-10,WAS,NYK,31.5,3,4,30,WAS,WAS,fg3_make,79,False,False,Beal 25' 3PT Pullup Jump Shot (28 PTS),,78-83,78,83
+0021900961,2020-03-10,WAS,NYK,31.52,3,4,29,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.5 Short 0),78-83,78,83
+0021900961,2020-03-10,WAS,NYK,31.7,3,4,18,NYK,NYK,fg3_miss,79,False,False,,MISS Ellington 28' 3PT Pullup Jump Shot,78-83,78,83
+0021900961,2020-03-10,WAS,NYK,31.73,3,4,16,WAS,WAS,reb,0,False,False,Napier REBOUND (Off:0 Def:1),,78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.07,3,3,56,WAS,WAS,fg3_miss,79,False,False,MISS Beal 26' 3PT Pullup Jump Shot,,78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.12,3,3,53,NYK,NYK,reb,0,False,False,,Portis REBOUND (Off:1 Def:3),78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.28,3,3,43,NYK,NYK,tov,1,False,True,,Bullock Bad Pass Turnover (P1.T13),78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.28,3,3,43,NYK,WAS,steal,1,False,True,steal,steal,78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.45,3,3,33,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 27' 3PT Jump Shot,,78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.48,3,3,31,NYK,NYK,reb,0,False,False,,Ellington REBOUND (Off:0 Def:4),78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.82,3,3,11,NYK,NYK,tov,1,False,True,,Portis Bad Pass Turnover (P1.T14),78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.82,3,3,11,NYK,WAS,steal,1,False,True,steal,steal,78-83,78,83
+0021900961,2020-03-10,WAS,NYK,32.9,3,3,6,WAS,WAS,fg_make,74,False,False,Napier 3' Running Reverse Layup (16 PTS),,80-83,80,83
+0021900961,2020-03-10,WAS,NYK,33.2,3,2,48,NYK,NYK,fg3_miss,1,False,False,,MISS Bullock 3PT Jump Shot,80-83,80,83
+0021900961,2020-03-10,WAS,NYK,33.23,3,2,46,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:0 Def:3),,80-83,80,83
+0021900961,2020-03-10,WAS,NYK,33.32,3,2,41,WAS,WAS,fg3_miss,80,False,False,MISS Napier 25' 3PT Step Back Jump Shot,,80-83,80,83
+0021900961,2020-03-10,WAS,NYK,33.35,3,2,39,WAS,WAS,reb,0,False,False,Wagner REBOUND (Off:2 Def:0),,80-83,80,83
+0021900961,2020-03-10,WAS,NYK,33.47,3,2,32,WAS,WAS,fg3_miss,80,False,False,MISS Napier 25' 3PT Step Back Jump Shot,,80-83,80,83
+0021900961,2020-03-10,WAS,NYK,33.5,3,2,30,NYK,NYK,reb,0,False,False,,Portis REBOUND (Off:1 Def:4),80-83,80,83
+0021900961,2020-03-10,WAS,NYK,33.62,3,2,23,NYK,NYK,fg_make,6,False,False,,Ntilikina 1' Driving Layup (15 PTS),80-85,80,85
+0021900961,2020-03-10,WAS,NYK,33.62,3,2,23,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 3 Short 0),,80-85,80,85
+0021900961,2020-03-10,WAS,NYK,33.62,3,2,23,WAS,NYK,foul,11,False,False,,Ntilikina T.FOUL (P3.PN) (D.Guthrie),80-85,80,85
+0021900961,2020-03-10,WAS,NYK,33.62,3,2,23,NYK,WAS,foul,11,False,False,Napier T.FOUL (P2.PN) (D.Guthrie),,80-85,80,85
+0021900961,2020-03-10,WAS,NYK,34.0,3,2,0,WAS,WAS,fg3_miss,79,False,False,MISS Bertans 28' 3PT Pullup Jump Shot,,80-85,80,85
+0021900961,2020-03-10,WAS,NYK,34.03,3,1,58,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,80-85,80,85
+0021900961,2020-03-10,WAS,NYK,34.03,3,1,58,WAS,WAS,tov,11,False,False,WIZARDS Turnover: Shot Clock (T#14),,80-85,80,85
+0021900961,2020-03-10,WAS,NYK,34.17,3,1,50,NYK,NYK,tov,39,False,False,,Bullock Step Out of Bounds Turnover (P2.T15),80-85,80,85
+0021900961,2020-03-10,WAS,NYK,34.47,3,1,32,WAS,WAS,fg_make,7,False,False,Wagner 3' Dunk (4 PTS) (Beal 4 AST),,82-85,82,85
+0021900961,2020-03-10,WAS,NYK,34.87,3,1,8,NYK,NYK,tov,1,False,True,,Ntilikina Bad Pass Turnover (P2.T16),82-85,82,85
+0021900961,2020-03-10,WAS,NYK,34.87,3,1,8,NYK,WAS,steal,1,False,True,steal,steal,82-85,82,85
+0021900961,2020-03-10,WAS,NYK,35.03,3,0,58,WAS,NYK,foul,2,False,False,,Ntilikina S.FOUL (P4.PN) (D.Guthrie),82-85,82,85
+0021900961,2020-03-10,WAS,NYK,35.03,3,0,58,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (29 PTS),,83-85,83,85
+0021900961,2020-03-10,WAS,NYK,35.03,3,0,58,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (30 PTS),,84-85,84,85
+0021900961,2020-03-10,WAS,NYK,35.23,3,0,46,NYK,NYK,fg_make,43,False,False,,Robinson Alley Oop Layup (4 PTS) (Bullock 2 AST),84-87,84,87
+0021900961,2020-03-10,WAS,NYK,35.38,3,0,37,WAS,WAS,fg3_make,79,False,False,Beal 26' 3PT Pullup Jump Shot (33 PTS),,87-87,87,87
+0021900961,2020-03-10,WAS,NYK,35.63,3,0,22,NYK,NYK,tov,40,False,False,,Bullock Out of Bounds Lost Ball Turnover (P3.T17),87-87,87,87
+0021900961,2020-03-10,WAS,NYK,35.95,3,0,3,WAS,WAS,fg3_miss,79,False,False,MISS Beal 26' 3PT Pullup Jump Shot,,87-87,87,87
+0021900961,2020-03-10,WAS,NYK,35.98,3,0,1,NYK,NYK,reb,0,False,False,,Bullock REBOUND (Off:0 Def:1),87-87,87,87
+0021900961,2020-03-10,WAS,NYK,36.0,3,0,0,NYK,,period_end,0,False,False,,,87-87,87,87
+0021900961,2020-03-10,WAS,NYK,36.0,4,12,0,NYK,,period_start,0,False,False,,,87-87,87,87
+0021900961,2020-03-10,WAS,NYK,36.18,4,11,49,WAS,WAS,tov,1,False,True,Beal Bad Pass Turnover (P5.T15),,87-87,87,87
+0021900961,2020-03-10,WAS,NYK,36.18,4,11,49,WAS,NYK,steal,1,False,True,steal,steal,87-87,87,87
+0021900961,2020-03-10,WAS,NYK,36.42,4,11,35,NYK,NYK,fg_make,52,False,False,,Robinson Alley Oop Dunk (6 PTS) (Payton 2 AST),87-89,87,89
+0021900961,2020-03-10,WAS,NYK,36.65,4,11,21,WAS,WAS,fg3_make,1,False,False,Bertans 26' 3PT Jump Shot (9 PTS) (Beal 5 AST),,90-89,90,89
+0021900961,2020-03-10,WAS,NYK,36.93,4,11,4,NYK,NYK,fg3_miss,1,False,False,,MISS Knox II 25' 3PT Jump Shot,90-89,90,89
+0021900961,2020-03-10,WAS,NYK,36.97,4,11,2,WAS,WAS,reb,0,False,False,Payton II REBOUND (Off:0 Def:1),,90-89,90,89
+0021900961,2020-03-10,WAS,NYK,37.08,4,10,55,WAS,NYK,foul,2,False,False,,Ellington S.FOUL (P1.T1) (R.Acosta),90-89,90,89
+0021900961,2020-03-10,WAS,NYK,37.08,4,10,55,WAS,WAS,ft_make,13,False,False,Bertans Free Throw 1 of 3 (10 PTS),,91-89,91,89
+0021900961,2020-03-10,WAS,NYK,37.08,4,10,55,WAS,WAS,ft_miss,14,False,False,MISS Bertans Free Throw 2 of 3,,91-89,91,89
+0021900961,2020-03-10,WAS,NYK,37.08,4,10,55,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,91-89,91,89
+0021900961,2020-03-10,WAS,NYK,37.08,4,10,55,WAS,WAS,ft_make,15,False,False,Bertans Free Throw 3 of 3 (11 PTS),,92-89,92,89
+0021900961,2020-03-10,WAS,NYK,37.25,4,10,45,NYK,NYK,fg3_miss,79,False,False,,MISS Ellington 26' 3PT Pullup Jump Shot,92-89,92,89
+0021900961,2020-03-10,WAS,NYK,37.3,4,10,42,WAS,WAS,reb,0,False,False,Payton II REBOUND (Off:0 Def:2),,92-89,92,89
+0021900961,2020-03-10,WAS,NYK,37.53,4,10,28,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 27' 3PT Jump Shot,,92-89,92,89
+0021900961,2020-03-10,WAS,NYK,37.57,4,10,26,NYK,NYK,reb,0,False,False,,Portis REBOUND (Off:1 Def:5),92-89,92,89
+0021900961,2020-03-10,WAS,NYK,37.67,4,10,20,NYK,NYK,fg3_miss,1,False,False,,MISS Ellington 24' 3PT Jump Shot,92-89,92,89
+0021900961,2020-03-10,WAS,NYK,37.73,4,10,16,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:2 Def:1),92-89,92,89
+0021900961,2020-03-10,WAS,NYK,37.73,4,10,16,NYK,NYK,fg_make,87,False,False,,Robinson 1' Putback Dunk (8 PTS),92-91,92,91
+0021900961,2020-03-10,WAS,NYK,37.93,4,10,4,WAS,WAS,fg_make,5,False,False,Wagner 3' Layup (6 PTS) (Napier 6 AST),,94-91,94,91
+0021900961,2020-03-10,WAS,NYK,38.32,4,9,41,NYK,NYK,fg_make,5,False,False,,Portis 2' Layup (18 PTS) (Payton 3 AST),94-93,94,93
+0021900961,2020-03-10,WAS,NYK,38.47,4,9,32,WAS,WAS,fg3_miss,79,False,False,MISS Napier 26' 3PT Pullup Jump Shot,,94-93,94,93
+0021900961,2020-03-10,WAS,NYK,38.53,4,9,28,NYK,NYK,reb,0,False,False,,Knicks Rebound,94-93,94,93
+0021900961,2020-03-10,WAS,NYK,38.85,4,9,9,NYK,NYK,fg_miss,78,False,False,,MISS Portis 12' Floating Jump Shot,94-93,94,93
+0021900961,2020-03-10,WAS,NYK,38.88,4,9,7,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:1 Def:4),,94-93,94,93
+0021900961,2020-03-10,WAS,NYK,39.05,4,8,57,WAS,NYK,foul,2,False,False,,Knox II S.FOUL (P3.T2) (G.Petraitis),94-93,94,93
+0021900961,2020-03-10,WAS,NYK,39.05,4,8,57,WAS,WAS,ft_miss,11,False,False,MISS Brown Jr. Free Throw 1 of 2,,94-93,94,93
+0021900961,2020-03-10,WAS,NYK,39.05,4,8,57,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,94-93,94,93
+0021900961,2020-03-10,WAS,NYK,39.05,4,8,57,WAS,WAS,ft_make,12,False,False,Brown Jr. Free Throw 2 of 2 (1 PTS),,95-93,95,93
+0021900961,2020-03-10,WAS,NYK,39.33,4,8,40,NYK,WAS,foul,2,False,False,Payton II S.FOUL (P2.T1) (G.Petraitis),,95-93,95,93
+0021900961,2020-03-10,WAS,NYK,39.33,4,8,40,NYK,NYK,ft_make,11,False,False,,Payton Free Throw 1 of 2 (3 PTS),95-94,95,94
+0021900961,2020-03-10,WAS,NYK,39.33,4,8,40,NYK,NYK,ft_miss,12,False,False,,MISS Payton Free Throw 2 of 2,95-94,95,94
+0021900961,2020-03-10,WAS,NYK,39.37,4,8,38,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:1 Def:5),,95-94,95,94
+0021900961,2020-03-10,WAS,NYK,39.63,4,8,22,WAS,WAS,fg_miss,101,False,False,MISS Napier 11' Driving Floating Jump Shot,,95-94,95,94
+0021900961,2020-03-10,WAS,NYK,39.68,4,8,19,WAS,WAS,reb,0,False,False,Wagner REBOUND (Off:3 Def:0),,95-94,95,94
+0021900961,2020-03-10,WAS,NYK,39.7,4,8,18,WAS,WAS,fg_make,72,False,False,Wagner 7' Putback Layup (8 PTS),,97-94,97,94
+0021900961,2020-03-10,WAS,NYK,39.82,4,8,11,NYK,NYK,fg_miss,73,False,False,,MISS Payton 2' Driving Reverse Layup,97-94,97,94
+0021900961,2020-03-10,WAS,NYK,39.85,4,8,9,WAS,WAS,reb,0,False,False,Payton II REBOUND (Off:0 Def:3),,97-94,97,94
+0021900961,2020-03-10,WAS,NYK,39.97,4,8,2,WAS,WAS,fg3_make,79,False,False,Napier 28' 3PT Pullup Jump Shot (19 PTS),,100-94,100,94
+0021900961,2020-03-10,WAS,NYK,40.23,4,7,46,NYK,WAS,foul,1,False,False,Payton II P.FOUL (P3.T2) (D.Guthrie),,100-94,100,94
+0021900961,2020-03-10,WAS,NYK,40.33,4,7,40,NYK,NYK,fg_make,1,False,False,,Randle 14' Jump Shot (16 PTS) (Payton 4 AST),100-96,100,96
+0021900961,2020-03-10,WAS,NYK,40.78,4,7,13,WAS,WAS,tov,1,False,True,Payton II Bad Pass Turnover (P1.T16),,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,40.78,4,7,13,WAS,NYK,steal,1,False,True,steal,steal,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,40.85,4,7,9,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 26' 3PT Jump Shot,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,40.87,4,7,8,NYK,NYK,reb,0,False,False,,Knicks Rebound,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,40.87,4,7,8,NYK,WAS,foul,3,False,False,Wagner L.B.FOUL (P4.T3) (G.Petraitis),,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,41.05,4,6,57,NYK,WAS,foul,2,False,False,Robinson S.FOUL (P1.T4) (R.Acosta),,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,41.05,4,6,57,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 4 Short 0),,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,41.05,4,6,57,NYK,NYK,ft_miss,11,False,False,,MISS Barrett Free Throw 1 of 2,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,41.05,4,6,57,NYK,NYK,reb,1,False,False,,Knicks Rebound,100-96,100,96
+0021900961,2020-03-10,WAS,NYK,41.05,4,6,57,NYK,NYK,ft_make,12,False,False,,Barrett Free Throw 2 of 2 (12 PTS),100-97,100,97
+0021900961,2020-03-10,WAS,NYK,41.25,4,6,45,WAS,NYK,foul,2,False,False,,Portis S.FOUL (P1.T3) (R.Acosta),100-97,100,97
+0021900961,2020-03-10,WAS,NYK,41.25,4,6,45,WAS,WAS,ft_make,11,False,False,Wagner Free Throw 1 of 2 (9 PTS),,101-97,101,97
+0021900961,2020-03-10,WAS,NYK,41.25,4,6,45,WAS,WAS,ft_make,12,False,False,Wagner Free Throw 2 of 2 (10 PTS),,102-97,102,97
+0021900961,2020-03-10,WAS,NYK,41.53,4,6,28,WAS,NYK,foul,26,False,False,,Randle Offensive Charge Foul (P4.T4) (R.Acosta),102-97,102,97
+0021900961,2020-03-10,WAS,NYK,41.53,4,6,28,NYK,NYK,tov,37,False,False,,Randle Offensive Foul Turnover (P4.T18),102-97,102,97
+0021900961,2020-03-10,WAS,NYK,41.7,4,6,18,WAS,WAS,fg_make,102,False,False,Beal 14' Driving Floating Bank Jump Shot (35 PTS),,104-97,104,97
+0021900961,2020-03-10,WAS,NYK,41.9,4,6,6,WAS,NYK,foul,4,False,False,,Barrett OFF.Foul (P1) (G.Petraitis),104-97,104,97
+0021900961,2020-03-10,WAS,NYK,41.9,4,6,6,NYK,NYK,tov,37,False,False,,Barrett Offensive Foul Turnover (P5.T19),104-97,104,97
+0021900961,2020-03-10,WAS,NYK,42.12,4,5,53,WAS,WAS,fg3_make,1,False,False,Brown Jr. 27' 3PT Jump Shot (4 PTS) (Beal 6 AST),,107-97,107,97
+0021900961,2020-03-10,WAS,NYK,42.15,4,5,51,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.6 Short 0),107-97,107,97
+0021900961,2020-03-10,WAS,NYK,42.47,4,5,32,NYK,NYK,fg_miss,79,False,False,,MISS Payton 19' Pullup Jump Shot,107-97,107,97
+0021900961,2020-03-10,WAS,NYK,42.5,4,5,30,WAS,WAS,reb,0,False,False,Napier REBOUND (Off:0 Def:2),,107-97,107,97
+0021900961,2020-03-10,WAS,NYK,42.78,4,5,13,WAS,WAS,fg_make,108,False,False,Bryant 3' Cutting Dunk Shot (13 PTS) (Beal 7 AST),,109-97,109,97
+0021900961,2020-03-10,WAS,NYK,42.78,4,5,13,WAS,NYK,foul,2,False,False,,Randle S.FOUL (P5.PN) (G.Petraitis),109-97,109,97
+0021900961,2020-03-10,WAS,NYK,42.78,4,5,13,WAS,WAS,ft_make,10,False,False,Bryant Free Throw 1 of 1 (14 PTS),,110-97,110,97
+0021900961,2020-03-10,WAS,NYK,43.03,4,4,58,NYK,WAS,foul,2,False,False,Napier S.FOUL (P3.PN) (G.Petraitis),,110-97,110,97
+0021900961,2020-03-10,WAS,NYK,43.03,4,4,58,NYK,NYK,ft_make,11,False,False,,Ntilikina Free Throw 1 of 2 (16 PTS),110-98,110,98
+0021900961,2020-03-10,WAS,NYK,43.03,4,4,58,NYK,NYK,ft_make,12,False,False,,Ntilikina Free Throw 2 of 2 (17 PTS),110-99,110,99
+0021900961,2020-03-10,WAS,NYK,43.4,4,4,36,WAS,WAS,fg_make,73,False,False,Beal 2' Driving Reverse Layup (37 PTS),,112-99,112,99
+0021900961,2020-03-10,WAS,NYK,43.68,4,4,19,NYK,NYK,fg_miss,79,False,False,,MISS Bullock 18' Pullup Jump Shot,112-99,112,99
+0021900961,2020-03-10,WAS,NYK,43.72,4,4,17,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:1 Def:5),,112-99,112,99
+0021900961,2020-03-10,WAS,NYK,43.95,4,4,3,WAS,NYK,foul,2,False,False,,Randle S.FOUL (P6.PN) (G.Petraitis),112-99,112,99
+0021900961,2020-03-10,WAS,NYK,43.95,4,4,3,WAS,WAS,ft_make,11,False,False,Bryant Free Throw 1 of 2 (15 PTS),,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,43.95,4,4,3,WAS,WAS,ft_miss,12,False,False,MISS Bryant Free Throw 2 of 2,,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.0,4,4,0,NYK,NYK,reb,0,False,False,,Bullock REBOUND (Off:0 Def:2),113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.32,4,3,41,NYK,NYK,fg_miss,79,False,False,,MISS Portis 20' Pullup Jump Shot,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.37,4,3,38,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:1 Def:6),,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.45,4,3,33,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 5 Short 0),,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.6,4,3,24,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 28' 3PT Jump Shot,,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.63,4,3,22,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:1 Def:5),113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.83,4,3,10,NYK,NYK,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.88,4,3,7,NYK,NYK,reb,0,False,False,,Knicks Rebound,113-99,113,99
+0021900961,2020-03-10,WAS,NYK,44.97,4,3,2,NYK,NYK,fg_make,5,False,False,,Portis 1' Layup (20 PTS) (Ntilikina 9 AST),113-101,113,101
+0021900961,2020-03-10,WAS,NYK,45.12,4,2,53,WAS,WAS,tov,40,False,False,Napier Out of Bounds Lost Ball Turnover (P3.T17),,113-101,113,101
+0021900961,2020-03-10,WAS,NYK,45.25,4,2,45,NYK,NYK,fg_make,98,False,False,,Bullock 2' Cutting Layup Shot (10 PTS) (Portis 4 AST),113-103,113,103
+0021900961,2020-03-10,WAS,NYK,45.57,4,2,26,WAS,WAS,fg_miss,79,False,False,MISS Beal 22' Pullup Jump Shot,,113-103,113,103
+0021900961,2020-03-10,WAS,NYK,45.6,4,2,24,NYK,NYK,reb,0,False,False,,Ntilikina REBOUND (Off:0 Def:2),113-103,113,103
+0021900961,2020-03-10,WAS,NYK,45.73,4,2,16,NYK,WAS,foul,2,False,False,Bertans S.FOUL (P5.PN) (D.Guthrie),,113-103,113,103
+0021900961,2020-03-10,WAS,NYK,45.73,4,2,16,NYK,NYK,ft_make,11,False,False,,Robinson Free Throw 1 of 2 (9 PTS),113-104,113,104
+0021900961,2020-03-10,WAS,NYK,45.73,4,2,16,NYK,NYK,ft_make,12,False,False,,Robinson Free Throw 2 of 2 (10 PTS),113-105,113,105
+0021900961,2020-03-10,WAS,NYK,45.95,4,2,3,WAS,WAS,fg_miss,75,False,False,MISS Beal 2' Driving Finger Roll Layup,,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,45.98,4,2,1,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:2 Def:6),,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.0,4,2,0,WAS,WAS,fg_miss,5,True,False,MISS Bryant 2' Layup,,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.0,4,2,0,WAS,NYK,block,5,True,False,block,block,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.02,4,1,59,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:3 Def:6),,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.08,4,1,55,WAS,WAS,tov,45,False,False,Napier Out of Bounds - Bad Pass Turnover Turnover (P4.T18),,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.2,4,1,48,NYK,NYK,fg_miss,6,True,False,,MISS Barrett 4' Driving Layup,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.2,4,1,48,NYK,WAS,block,6,True,False,block,block,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.2,4,1,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.45,4,1,33,WAS,WAS,fg_miss,1,False,False,MISS Bryant 16' Jump Shot,,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.52,4,1,29,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:4 Def:6),,113-105,113,105
+0021900961,2020-03-10,WAS,NYK,46.62,4,1,23,WAS,WAS,fg3_make,1,False,False,Brown Jr. 25' 3PT Jump Shot (7 PTS) (Bertans 2 AST),,116-105,116,105
+0021900961,2020-03-10,WAS,NYK,46.78,4,1,13,WAS,WAS,timeout,7,False,False,WIZARDS Timeout: Coach Challenge (Full 5 Short 0),,116-105,116,105
+0021900961,2020-03-10,WAS,NYK,46.9,4,1,6,NYK,NYK,fg_make,6,False,False,,Barrett Driving Layup (14 PTS) (Ntilikina 10 AST),116-107,116,107
+0021900961,2020-03-10,WAS,NYK,47.0,4,1,0,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 6 Short 0),,116-107,116,107
+0021900961,2020-03-10,WAS,NYK,47.05,4,0,57,WAS,WAS,fg_make,9,False,False,Beal 1' Driving Dunk (39 PTS) (Bertans 3 AST),,118-107,118,107
+0021900961,2020-03-10,WAS,NYK,47.18,4,0,49,NYK,NYK,fg3_make,1,False,False,,Ntilikina 28' 3PT Jump Shot (20 PTS) (Portis 5 AST),118-110,118,110
+0021900961,2020-03-10,WAS,NYK,47.27,4,0,44,WAS,NYK,foul,1,False,False,,Bullock P.FOUL (P2.PN) (D.Guthrie),118-110,118,110
+0021900961,2020-03-10,WAS,NYK,47.27,4,0,44,WAS,WAS,ft_make,11,False,False,Brown Jr. Free Throw 1 of 2 (8 PTS),,119-110,119,110
+0021900961,2020-03-10,WAS,NYK,47.27,4,0,44,WAS,WAS,ft_make,12,False,False,Brown Jr. Free Throw 2 of 2 (9 PTS),,120-110,120,110
+0021900961,2020-03-10,WAS,NYK,47.27,4,0,44,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.7 Short 0),120-110,120,110
+0021900961,2020-03-10,WAS,NYK,47.32,4,0,41,NYK,NYK,fg_make,6,False,False,,Barrett 4' Driving Layup (16 PTS),120-112,120,112
+0021900961,2020-03-10,WAS,NYK,47.4,4,0,36,WAS,NYK,foul,1,False,False,,Ntilikina P.FOUL (P5.PN) (D.Guthrie),120-112,120,112
+0021900961,2020-03-10,WAS,NYK,47.4,4,0,36,WAS,WAS,ft_make,11,False,False,Napier Free Throw 1 of 2 (20 PTS),,121-112,121,112
+0021900961,2020-03-10,WAS,NYK,47.4,4,0,36,WAS,WAS,ft_make,12,False,False,Napier Free Throw 2 of 2 (21 PTS),,122-112,122,112
+0021900961,2020-03-10,WAS,NYK,47.6,4,0,24,,WAS,jump_ball,0,False,False,Jump Ball Payton II vs. Ntilikina: Tip to Bullock,,122-112,122,112
+0021900961,2020-03-10,WAS,NYK,47.62,4,0,23,NYK,NYK,fg3_make,79,False,False,,Ellington 27' 3PT Pullup Jump Shot (6 PTS) (Bullock 3 AST),122-115,122,115
+0021900961,2020-03-10,WAS,NYK,48.0,4,0,0,WAS,WAS,tov,11,False,False,WIZARDS Turnover: Shot Clock (T#19),,122-115,122,115
+0021900961,2020-03-10,WAS,NYK,48.0,4,0,0,WAS,,period_end,0,False,False,,,122-115,122,115

@@ -1,0 +1,400 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101100,2022-03-25,CHA,UTA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101100,2022-03-25,CHA,UTA,0.0,1,12,0,,CHA,jump_ball,0,False,False,Jump Ball Plumlee vs. Gobert: Tip to O'Neale,,0-0,0,0
+0022101100,2022-03-25,CHA,UTA,0.4,1,11,36,UTA,UTA,fg_make,7,False,False,,Gobert 2' Dunk (2 PTS) (Mitchell 1 AST),0-2,0,2
+0022101100,2022-03-25,CHA,UTA,0.65,1,11,21,CHA,UTA,foul,2,False,False,,Gobert S.FOUL (P1.T1) (C.Blair),0-2,0,2
+0022101100,2022-03-25,CHA,UTA,0.65,1,11,21,CHA,CHA,ft_miss,11,False,False,MISS Plumlee Free Throw 1 of 2,,0-2,0,2
+0022101100,2022-03-25,CHA,UTA,0.65,1,11,21,CHA,CHA,reb,1,False,False,HORNETS Rebound,,0-2,0,2
+0022101100,2022-03-25,CHA,UTA,0.65,1,11,21,CHA,CHA,ft_make,12,False,False,Plumlee Free Throw 2 of 2 (1 PTS),,1-2,1,2
+0022101100,2022-03-25,CHA,UTA,0.9,1,11,6,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 26' 3PT Jump Shot,1-2,1,2
+0022101100,2022-03-25,CHA,UTA,0.97,1,11,2,UTA,UTA,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:0),1-2,1,2
+0022101100,2022-03-25,CHA,UTA,1.07,1,10,56,UTA,UTA,fg3_make,1,False,False,,Mitchell 26' 3PT Jump Shot (3 PTS) (Hernangomez 1 AST),1-5,1,5
+0022101100,2022-03-25,CHA,UTA,1.52,1,10,29,CHA,CHA,fg_make,78,False,False,Rozier 10' Floating Jump Shot (2 PTS) (Plumlee 1 AST),,3-5,3,5
+0022101100,2022-03-25,CHA,UTA,1.78,1,10,13,UTA,UTA,fg3_make,79,False,False,,Mitchell 27' 3PT Pullup Jump Shot (6 PTS) (Gobert 1 AST),3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.07,1,9,56,CHA,CHA,tov,45,False,False,Washington Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.38,1,9,37,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 3PT Jump Shot,3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.47,1,9,32,UTA,UTA,reb,0,False,False,,Hernangomez REBOUND (Off:2 Def:0),3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.47,1,9,32,UTA,UTA,fg_miss,97,False,False,,MISS Hernangomez Tip Layup Shot,3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.47,1,9,32,UTA,UTA,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:0),3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.5,1,9,30,UTA,UTA,tov,1,False,True,,Hernangomez Bad Pass Turnover (P1.T1),3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.5,1,9,30,UTA,CHA,steal,1,False,True,steal,steal,3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.5,1,9,30,CHA,CHA,tov,1,False,True,Washington Bad Pass Turnover (P2.T2),,3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.5,1,9,30,CHA,UTA,steal,1,False,True,steal,steal,3-8,3,8
+0022101100,2022-03-25,CHA,UTA,2.5,1,9,30,UTA,UTA,fg3_make,79,False,False,,O'Neale 26' 3PT Pullup Jump Shot (3 PTS),3-11,3,11
+0022101100,2022-03-25,CHA,UTA,2.5,1,9,30,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,2.92,1,9,5,CHA,CHA,fg_miss,80,False,False,MISS Rozier 23' Step Back Jump Shot,,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,2.98,1,9,1,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:1),3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.27,1,8,44,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 29' 3PT Jump Shot,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.35,1,8,39,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:0 Def:1),,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.48,1,8,31,CHA,CHA,fg_miss,6,False,False,MISS Bridges 3' Driving Layup,,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.52,1,8,29,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:2),3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.77,1,8,14,UTA,UTA,fg_miss,5,True,False,,MISS Gobert 6' Layup,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.77,1,8,14,UTA,CHA,block,5,True,False,block,block,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.82,1,8,11,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,3-11,3,11
+0022101100,2022-03-25,CHA,UTA,3.88,1,8,7,CHA,CHA,fg3_make,1,False,False,Rozier 3PT Jump Shot (5 PTS) (Ball 1 AST),,6-11,6,11
+0022101100,2022-03-25,CHA,UTA,4.3,1,7,42,UTA,UTA,fg3_make,1,False,False,,Hernangomez 25' 3PT Jump Shot (3 PTS) (Conley 1 AST),6-14,6,14
+0022101100,2022-03-25,CHA,UTA,4.53,1,7,28,CHA,CHA,fg_miss,101,False,False,MISS Ball 12' Driving Floating Jump Shot,,6-14,6,14
+0022101100,2022-03-25,CHA,UTA,4.57,1,7,26,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:3),6-14,6,14
+0022101100,2022-03-25,CHA,UTA,4.72,1,7,17,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P1.T2),6-14,6,14
+0022101100,2022-03-25,CHA,UTA,4.72,1,7,17,UTA,CHA,steal,1,False,True,steal,steal,6-14,6,14
+0022101100,2022-03-25,CHA,UTA,4.72,1,7,17,CHA,UTA,foul,28,False,False,,Conley Personal Take Foul (P1.T2) (S.Twardoski),6-14,6,14
+0022101100,2022-03-25,CHA,UTA,4.93,1,7,4,CHA,CHA,fg_miss,3,False,False,MISS Plumlee 6' Hook Shot,,6-14,6,14
+0022101100,2022-03-25,CHA,UTA,4.97,1,7,2,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:4),6-14,6,14
+0022101100,2022-03-25,CHA,UTA,5.17,1,6,50,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 30' 3PT Pullup Jump Shot,6-14,6,14
+0022101100,2022-03-25,CHA,UTA,5.18,1,6,49,CHA,CHA,reb,0,False,False,HORNETS Rebound,,6-14,6,14
+0022101100,2022-03-25,CHA,UTA,5.4,1,6,36,CHA,CHA,fg3_make,1,False,False,Rozier 26' 3PT Jump Shot (8 PTS) (Bridges 1 AST),,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,5.83,1,6,10,UTA,UTA,fg3_miss,1,False,False,,MISS Hernangomez 26' 3PT Jump Shot,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,5.87,1,6,8,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:0 Def:2),,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,5.98,1,6,1,CHA,CHA,fg3_miss,80,False,False,MISS Ball 27' 3PT Step Back Jump Shot,,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.02,1,5,59,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:5),9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.17,1,5,50,UTA,CHA,foul,1,False,False,Ball P.FOUL (P1.T1) (S.Twardoski),,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.37,1,5,38,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 25' 3PT Pullup Jump Shot,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.43,1,5,34,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:1),,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.52,1,5,29,CHA,CHA,fg_miss,5,True,False,MISS Rozier 5' Layup,,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.52,1,5,29,CHA,UTA,block,5,True,False,block,block,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.52,1,5,29,CHA,CHA,reb,0,False,False,HORNETS Rebound,,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.67,1,5,20,CHA,CHA,fg_miss,101,False,False,MISS Rozier 10' Driving Floating Jump Shot,,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.72,1,5,17,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:0),,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.72,1,5,17,CHA,UTA,foul,2,False,False,,O'Neale S.FOUL (P1.T3) (S.Twardoski),9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.72,1,5,17,CHA,CHA,ft_miss,11,False,False,MISS Bridges Free Throw 1 of 2,,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.72,1,5,17,CHA,CHA,reb,1,False,False,HORNETS Rebound,,9-14,9,14
+0022101100,2022-03-25,CHA,UTA,6.72,1,5,17,CHA,CHA,ft_make,12,False,False,Bridges Free Throw 2 of 2 (1 PTS),,10-14,10,14
+0022101100,2022-03-25,CHA,UTA,7.08,1,4,55,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 26' 3PT Jump Shot,10-14,10,14
+0022101100,2022-03-25,CHA,UTA,7.15,1,4,51,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,10-14,10,14
+0022101100,2022-03-25,CHA,UTA,7.35,1,4,39,CHA,CHA,fg_make,108,False,False,Oubre Jr. Cutting Dunk Shot (2 PTS) (Harrell 1 AST),,12-14,12,14
+0022101100,2022-03-25,CHA,UTA,7.62,1,4,23,UTA,CHA,foul,1,False,False,Rozier P.FOUL (P1.T2) (J.Capers),,12-14,12,14
+0022101100,2022-03-25,CHA,UTA,7.77,1,4,14,UTA,UTA,fg3_make,1,False,False,,Clarkson 26' 3PT Jump Shot (3 PTS) (O'Neale 1 AST),12-17,12,17
+0022101100,2022-03-25,CHA,UTA,8.18,1,3,49,CHA,CHA,fg_make,6,False,False,Harrell 3' Driving Layup (2 PTS),,14-17,14,17
+0022101100,2022-03-25,CHA,UTA,8.47,1,3,32,UTA,UTA,fg_miss,6,False,False,,MISS Clarkson 3' Driving Layup,14-17,14,17
+0022101100,2022-03-25,CHA,UTA,8.52,1,3,29,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:1),,14-17,14,17
+0022101100,2022-03-25,CHA,UTA,8.58,1,3,25,CHA,CHA,fg3_make,2,False,False,Rozier 25' 3PT Running Jump Shot (11 PTS) (Bridges 2 AST),,17-17,17,17
+0022101100,2022-03-25,CHA,UTA,8.87,1,3,8,UTA,UTA,fg_make,98,False,False,,Paschall 2' Cutting Layup Shot (2 PTS) (Mitchell 2 AST),17-19,17,19
+0022101100,2022-03-25,CHA,UTA,9.1,1,2,54,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.1 Short 0),17-19,17,19
+0022101100,2022-03-25,CHA,UTA,9.18,1,2,49,CHA,CHA,fg_miss,79,False,False,MISS Oubre Jr. 13' Pullup Jump Shot,,17-19,17,19
+0022101100,2022-03-25,CHA,UTA,9.22,1,2,47,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:6),17-19,17,19
+0022101100,2022-03-25,CHA,UTA,9.52,1,2,29,UTA,UTA,fg_make,79,False,False,,Conley 10' Pullup Jump Shot (2 PTS) (Gay 1 AST),17-21,17,21
+0022101100,2022-03-25,CHA,UTA,9.7,1,2,18,CHA,CHA,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (4 PTS) (Harrell 2 AST),,20-21,20,21
+0022101100,2022-03-25,CHA,UTA,9.98,1,2,1,UTA,UTA,fg3_miss,1,False,False,,MISS Gay 27' 3PT Jump Shot,20-21,20,21
+0022101100,2022-03-25,CHA,UTA,10.03,1,1,58,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:2),,20-21,20,21
+0022101100,2022-03-25,CHA,UTA,10.28,1,1,43,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 26' 3PT Jump Shot,,20-21,20,21
+0022101100,2022-03-25,CHA,UTA,10.33,1,1,40,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:7),20-21,20,21
+0022101100,2022-03-25,CHA,UTA,10.67,1,1,20,UTA,UTA,fg3_miss,80,False,False,,MISS Conley 26' 3PT Step Back Jump Shot,20-21,20,21
+0022101100,2022-03-25,CHA,UTA,10.72,1,1,17,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:3),,20-21,20,21
+0022101100,2022-03-25,CHA,UTA,10.8,1,1,12,CHA,CHA,fg3_make,1,False,False,Oubre Jr. 26' 3PT Jump Shot (5 PTS) (Martin 1 AST),,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.05,1,0,57,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 27' 3PT Jump Shot,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.1,1,0,54,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:2),,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.43,1,0,34,CHA,CHA,fg3_miss,1,False,False,MISS Martin 3PT Jump Shot,,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.48,1,0,31,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:1),23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.65,1,0,21,UTA,UTA,fg_miss,71,False,False,,MISS Gobert 7' Finger Roll Layup,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.7,1,0,18,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:1),,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.93,1,0,4,CHA,CHA,tov,2,False,True,Bridges Lost Ball Turnover (P1.T3),,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.93,1,0,4,CHA,UTA,steal,2,False,True,steal,steal,23-21,23,21
+0022101100,2022-03-25,CHA,UTA,11.98,1,0,1,UTA,UTA,fg_make,41,False,False,,Clarkson 3' Running Layup (5 PTS) (Forrest 1 AST),23-23,23,23
+0022101100,2022-03-25,CHA,UTA,11.98,1,0,1,UTA,CHA,foul,2,False,False,Oubre Jr. S.FOUL (P1.T3) (C.Blair),,23-23,23,23
+0022101100,2022-03-25,CHA,UTA,11.98,1,0,1,UTA,UTA,ft_make,10,False,False,,Clarkson Free Throw 1 of 1 (6 PTS),23-24,23,24
+0022101100,2022-03-25,CHA,UTA,12.0,1,0,0,UTA,,period_end,0,False,False,,,23-24,23,24
+0022101100,2022-03-25,CHA,UTA,12.0,2,12,0,UTA,,period_start,0,False,False,,,23-24,23,24
+0022101100,2022-03-25,CHA,UTA,12.22,2,11,47,CHA,CHA,fg_miss,5,False,False,MISS Washington 3' Layup,,23-24,23,24
+0022101100,2022-03-25,CHA,UTA,12.3,2,11,42,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:1 Def:0),,23-24,23,24
+0022101100,2022-03-25,CHA,UTA,12.3,2,11,42,CHA,CHA,fg_make,107,False,False,Harrell Tip Dunk Shot (4 PTS),,25-24,25,24
+0022101100,2022-03-25,CHA,UTA,12.55,2,11,27,UTA,UTA,fg_miss,78,False,False,,MISS Gay 9' Floating Jump Shot,25-24,25,24
+0022101100,2022-03-25,CHA,UTA,12.55,2,11,27,CHA,CHA,reb,0,False,False,HORNETS Rebound,,25-24,25,24
+0022101100,2022-03-25,CHA,UTA,12.55,2,11,27,CHA,UTA,foul,3,False,False,,Gay L.B.FOUL (P1.T1) (C.Blair),25-24,25,24
+0022101100,2022-03-25,CHA,UTA,12.77,2,11,14,CHA,CHA,fg_miss,5,False,False,MISS Washington 2' Layup,,25-24,25,24
+0022101100,2022-03-25,CHA,UTA,12.82,2,11,11,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:8),25-24,25,24
+0022101100,2022-03-25,CHA,UTA,13.0,2,11,0,UTA,UTA,fg3_miss,79,False,False,,MISS Forrest 26' 3PT Pullup Jump Shot,25-24,25,24
+0022101100,2022-03-25,CHA,UTA,13.05,2,10,57,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:2),,25-24,25,24
+0022101100,2022-03-25,CHA,UTA,13.15,2,10,51,CHA,CHA,fg_miss,57,False,False,MISS Ball 7' Driving Hook Shot,,25-24,25,24
+0022101100,2022-03-25,CHA,UTA,13.18,2,10,49,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:9),25-24,25,24
+0022101100,2022-03-25,CHA,UTA,13.32,2,10,41,UTA,UTA,fg_make,6,False,False,,Clarkson 3' Driving Layup (8 PTS),25-26,25,26
+0022101100,2022-03-25,CHA,UTA,13.67,2,10,20,CHA,CHA,fg_miss,79,False,False,MISS Ball 16' Pullup Jump Shot,,25-26,25,26
+0022101100,2022-03-25,CHA,UTA,13.7,2,10,18,UTA,UTA,reb,0,False,False,,Gay REBOUND (Off:0 Def:1),25-26,25,26
+0022101100,2022-03-25,CHA,UTA,13.93,2,10,4,UTA,UTA,fg3_make,1,False,False,,Conley 27' 3PT Jump Shot (5 PTS) (Clarkson 1 AST),25-29,25,29
+0022101100,2022-03-25,CHA,UTA,14.32,2,9,41,CHA,CHA,fg_miss,63,False,False,MISS Harrell 10' Fadeaway Jumper,,25-29,25,29
+0022101100,2022-03-25,CHA,UTA,14.37,2,9,38,UTA,UTA,reb,0,False,False,,Gay REBOUND (Off:0 Def:2),25-29,25,29
+0022101100,2022-03-25,CHA,UTA,14.58,2,9,25,UTA,UTA,tov,6,False,False,,Clarkson Double Dribble Turnover (P1.T3),25-29,25,29
+0022101100,2022-03-25,CHA,UTA,14.83,2,9,10,CHA,CHA,fg_make,6,False,False,Thomas 2' Driving Layup (2 PTS),,27-29,27,29
+0022101100,2022-03-25,CHA,UTA,15.17,2,8,50,UTA,CHA,foul,3,False,False,McDaniels L.B.FOUL (P1.T1) (J.Capers),,27-29,27,29
+0022101100,2022-03-25,CHA,UTA,15.4,2,8,36,UTA,UTA,fg_miss,80,False,False,,MISS Gay 16' Step Back Jump Shot,27-29,27,29
+0022101100,2022-03-25,CHA,UTA,15.47,2,8,32,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:1 Def:1),,27-29,27,29
+0022101100,2022-03-25,CHA,UTA,15.7,2,8,18,CHA,CHA,fg_make,101,False,False,Ball 17' Driving Floating Jump Shot (2 PTS) (Harrell 3 AST),,29-29,29,29
+0022101100,2022-03-25,CHA,UTA,15.92,2,8,5,UTA,UTA,fg3_miss,1,False,False,,MISS Gay 28' 3PT Jump Shot,29-29,29,29
+0022101100,2022-03-25,CHA,UTA,15.97,2,8,2,CHA,CHA,reb,0,False,False,McDaniels REBOUND (Off:0 Def:1),,29-29,29,29
+0022101100,2022-03-25,CHA,UTA,16.07,2,7,56,CHA,CHA,fg3_make,1,False,False,Ball 26' 3PT Jump Shot (5 PTS) (McDaniels 1 AST),,32-29,32,29
+0022101100,2022-03-25,CHA,UTA,16.08,2,7,55,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.2 Short 0),32-29,32,29
+0022101100,2022-03-25,CHA,UTA,16.12,2,7,53,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 3PT Jump Shot,32-29,32,29
+0022101100,2022-03-25,CHA,UTA,16.17,2,7,50,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:1 Def:2),,32-29,32,29
+0022101100,2022-03-25,CHA,UTA,16.55,2,7,27,CHA,CHA,fg_miss,57,False,False,MISS Harrell 2' Driving Hook Shot,,32-29,32,29
+0022101100,2022-03-25,CHA,UTA,16.6,2,7,24,UTA,UTA,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:1),32-29,32,29
+0022101100,2022-03-25,CHA,UTA,16.67,2,7,20,UTA,CHA,foul,2,False,False,Harrell S.FOUL (P1.T2) (C.Blair),,32-29,32,29
+0022101100,2022-03-25,CHA,UTA,16.67,2,7,20,UTA,UTA,ft_make,11,False,False,,Paschall Free Throw 1 of 2 (3 PTS),32-30,32,30
+0022101100,2022-03-25,CHA,UTA,16.67,2,7,20,UTA,UTA,ft_make,12,False,False,,Paschall Free Throw 2 of 2 (4 PTS),32-31,32,31
+0022101100,2022-03-25,CHA,UTA,17.02,2,6,59,CHA,CHA,fg_make,6,False,False,Thomas 1' Driving Layup (4 PTS),,34-31,34,31
+0022101100,2022-03-25,CHA,UTA,17.13,2,6,52,UTA,CHA,foul,1,False,False,Washington P.FOUL (P1.T3) (J.Capers),,34-31,34,31
+0022101100,2022-03-25,CHA,UTA,17.33,2,6,40,UTA,UTA,fg_make,79,False,False,,Mitchell 9' Pullup Jump Shot (8 PTS) (Clarkson 2 AST),34-33,34,33
+0022101100,2022-03-25,CHA,UTA,17.63,2,6,22,CHA,CHA,fg_make,75,False,False,Ball 2' Driving Finger Roll Layup (7 PTS),,36-33,36,33
+0022101100,2022-03-25,CHA,UTA,17.63,2,6,22,CHA,UTA,foul,2,False,False,,Hernangomez S.FOUL (P1.T2) (S.Twardoski),36-33,36,33
+0022101100,2022-03-25,CHA,UTA,17.63,2,6,22,CHA,CHA,ft_make,10,False,False,Ball Free Throw 1 of 1 (8 PTS),,37-33,37,33
+0022101100,2022-03-25,CHA,UTA,18.03,2,5,58,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 26' 3PT Pullup Jump Shot,37-33,37,33
+0022101100,2022-03-25,CHA,UTA,18.03,2,5,58,UTA,UTA,reb,0,False,False,,Jazz Rebound,37-33,37,33
+0022101100,2022-03-25,CHA,UTA,18.03,2,5,58,UTA,UTA,tov,11,False,False,,Jazz Turnover: Shot Clock (T#4),37-33,37,33
+0022101100,2022-03-25,CHA,UTA,18.43,2,5,34,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#4),,37-33,37,33
+0022101100,2022-03-25,CHA,UTA,18.77,2,5,14,UTA,UTA,fg_make,51,False,False,,Paschall 2' Reverse Dunk (6 PTS) (Clarkson 3 AST),37-35,37,35
+0022101100,2022-03-25,CHA,UTA,18.93,2,5,4,CHA,CHA,fg_make,73,False,False,Rozier 3' Driving Reverse Layup (13 PTS) (Bridges 3 AST),,39-35,39,35
+0022101100,2022-03-25,CHA,UTA,19.2,2,4,48,UTA,UTA,fg3_make,80,False,False,,Mitchell 26' 3PT Step Back Jump Shot (11 PTS),39-38,39,38
+0022101100,2022-03-25,CHA,UTA,19.55,2,4,27,CHA,CHA,fg3_make,79,False,False,Thomas 29' 3PT Pullup Jump Shot (7 PTS) (Washington 1 AST),,42-38,42,38
+0022101100,2022-03-25,CHA,UTA,19.88,2,4,7,UTA,UTA,fg3_make,1,False,False,,Paschall 3PT Jump Shot (9 PTS) (Mitchell 3 AST),42-41,42,41
+0022101100,2022-03-25,CHA,UTA,20.1,2,3,54,CHA,CHA,fg_make,78,False,False,Bridges 8' Floating Jump Shot (6 PTS) (Washington 2 AST),,44-41,44,41
+0022101100,2022-03-25,CHA,UTA,20.3,2,3,42,UTA,CHA,foul,1,False,False,Thomas P.FOUL (P1.T4) (J.Capers),,44-41,44,41
+0022101100,2022-03-25,CHA,UTA,20.5,2,3,30,UTA,CHA,foul,1,False,False,Bridges P.FOUL (P1.PN) (C.Blair),,44-41,44,41
+0022101100,2022-03-25,CHA,UTA,20.5,2,3,30,UTA,UTA,ft_make,11,False,False,,Clarkson Free Throw 1 of 2 (9 PTS),44-42,44,42
+0022101100,2022-03-25,CHA,UTA,20.5,2,3,30,UTA,UTA,ft_make,12,False,False,,Clarkson Free Throw 2 of 2 (10 PTS),44-43,44,43
+0022101100,2022-03-25,CHA,UTA,20.77,2,3,14,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,44-43,44,43
+0022101100,2022-03-25,CHA,UTA,20.78,2,3,13,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:1 Def:2),,44-43,44,43
+0022101100,2022-03-25,CHA,UTA,20.83,2,3,10,CHA,CHA,fg_make,7,False,False,Bridges 2' Dunk (8 PTS) (Martin 2 AST),,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.2,2,2,48,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 28' 3PT Jump Shot,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.23,2,2,46,UTA,UTA,reb,0,False,False,,Jazz Rebound,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.23,2,2,46,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.4,2,2,36,UTA,UTA,fg3_miss,1,False,False,,MISS Hernangomez 28' 3PT Jump Shot,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.43,2,2,34,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:2),,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.63,2,2,22,CHA,CHA,fg3_miss,63,False,False,MISS Rozier 3PT Fadeaway Jumper,,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.7,2,2,18,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:2 Def:3),,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.72,2,2,17,CHA,CHA,tov,1,False,True,Bridges Bad Pass Turnover (P2.T5),,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.72,2,2,17,CHA,UTA,steal,1,False,True,steal,steal,46-43,46,43
+0022101100,2022-03-25,CHA,UTA,21.92,2,2,5,UTA,UTA,fg_make,73,False,False,,Mitchell 2' Driving Reverse Layup (13 PTS) (Conley 2 AST),46-45,46,45
+0022101100,2022-03-25,CHA,UTA,22.3,2,1,42,CHA,CHA,fg3_make,80,False,False,Bridges 3PT Step Back Jump Shot (11 PTS),,49-45,49,45
+0022101100,2022-03-25,CHA,UTA,22.7,2,1,18,UTA,UTA,fg_miss,80,False,False,,MISS Mitchell 23' Step Back Jump Shot,49-45,49,45
+0022101100,2022-03-25,CHA,UTA,22.75,2,1,15,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:3),,49-45,49,45
+0022101100,2022-03-25,CHA,UTA,22.8,2,1,12,CHA,CHA,fg_make,100,False,False,Ball 1' Running Alley Oop Layup Shot (10 PTS) (Rozier 1 AST),,51-45,51,45
+0022101100,2022-03-25,CHA,UTA,23.08,2,0,55,UTA,UTA,fg3_make,1,False,False,,Hernangomez 24' 3PT Jump Shot (6 PTS) (O'Neale 2 AST),51-48,51,48
+0022101100,2022-03-25,CHA,UTA,23.32,2,0,41,CHA,CHA,fg3_miss,79,False,False,MISS Bridges 26' 3PT Pullup Jump Shot,,51-48,51,48
+0022101100,2022-03-25,CHA,UTA,23.35,2,0,39,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:3 Def:3),,51-48,51,48
+0022101100,2022-03-25,CHA,UTA,23.35,2,0,39,CHA,CHA,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (14 PTS),,54-48,54,48
+0022101100,2022-03-25,CHA,UTA,23.38,2,0,37,UTA,UTA,tov,45,False,False,,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T5),54-48,54,48
+0022101100,2022-03-25,CHA,UTA,23.52,2,0,29,CHA,CHA,fg3_miss,80,False,False,MISS Bridges 25' 3PT Step Back Jump Shot,,54-48,54,48
+0022101100,2022-03-25,CHA,UTA,23.55,2,0,27,UTA,UTA,reb,0,False,False,,Jazz Rebound,54-48,54,48
+0022101100,2022-03-25,CHA,UTA,23.95,2,0,3,UTA,UTA,fg3_make,1,False,False,,Mitchell 38' 3PT Jump Shot (16 PTS),54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.0,2,0,0,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 26' 3PT Jump Shot,,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.0,2,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.0,2,0,0,CHA,,period_end,0,False,False,,,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.0,3,12,0,CHA,,period_start,0,False,False,,,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.28,3,11,43,CHA,CHA,fg3_miss,1,False,False,MISS Ball 3PT Jump Shot,,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.33,3,11,40,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:10),54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.53,3,11,28,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 3PT Jump Shot,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.62,3,11,23,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:1 Def:0),54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.7,3,11,18,UTA,CHA,foul,1,False,False,Bridges P.FOUL (P2.T1) (J.Capers),,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.92,3,11,5,UTA,UTA,fg_miss,101,False,False,,MISS Conley 10' Driving Floating Jump Shot,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.95,3,11,3,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:0 Def:3),,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,24.95,3,11,3,CHA,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P1.T1) (J.Capers),54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.05,3,10,57,CHA,CHA,tov,1,False,True,Washington Bad Pass Turnover (P3.T6),,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.05,3,10,57,CHA,UTA,steal,1,False,True,steal,steal,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.28,3,10,43,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 3PT Jump Shot,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.33,3,10,40,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:3),,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.48,3,10,31,CHA,CHA,fg_miss,6,False,False,MISS Rozier 3' Driving Layup,,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.5,3,10,30,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:3),,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.57,3,10,26,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.63,3,10,22,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:2 Def:3),,54-51,54,51
+0022101100,2022-03-25,CHA,UTA,25.65,3,10,21,CHA,CHA,fg3_make,1,False,False,Ball 24' 3PT Jump Shot (13 PTS) (Plumlee 2 AST),,57-51,57,51
+0022101100,2022-03-25,CHA,UTA,25.97,3,10,2,UTA,CHA,foul,1,False,False,Rozier P.FOUL (P2.T2) (S.Twardoski),,57-51,57,51
+0022101100,2022-03-25,CHA,UTA,26.05,3,9,57,UTA,UTA,fg3_make,79,False,False,,Conley 26' 3PT Pullup Jump Shot (8 PTS),57-54,57,54
+0022101100,2022-03-25,CHA,UTA,26.48,3,9,31,CHA,CHA,fg3_miss,1,False,False,MISS Washington 3PT Jump Shot,,57-54,57,54
+0022101100,2022-03-25,CHA,UTA,26.52,3,9,29,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:3 Def:3),,57-54,57,54
+0022101100,2022-03-25,CHA,UTA,26.62,3,9,23,CHA,CHA,fg_make,6,False,False,Bridges 3' Driving Layup (16 PTS),,59-54,59,54
+0022101100,2022-03-25,CHA,UTA,26.95,3,9,3,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 24' 3PT Jump Shot,59-54,59,54
+0022101100,2022-03-25,CHA,UTA,27.02,3,8,59,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:4),,59-54,59,54
+0022101100,2022-03-25,CHA,UTA,27.28,3,8,43,CHA,CHA,fg_make,6,False,False,Bridges 2' Driving Layup (18 PTS),,61-54,61,54
+0022101100,2022-03-25,CHA,UTA,27.48,3,8,31,UTA,CHA,foul,2,False,False,Plumlee S.FOUL (P1.T3) (C.Blair),,61-54,61,54
+0022101100,2022-03-25,CHA,UTA,27.48,3,8,31,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (3 PTS),61-55,61,55
+0022101100,2022-03-25,CHA,UTA,27.48,3,8,31,UTA,UTA,ft_miss,12,False,False,,MISS Gobert Free Throw 2 of 2,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,27.55,3,8,27,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:3 Def:4),,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,27.78,3,8,13,CHA,CHA,fg_miss,98,False,False,MISS Washington 2' Cutting Layup Shot,,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,27.83,3,8,10,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:1 Def:0),,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,27.83,3,8,10,CHA,CHA,fg_miss,97,False,False,MISS Washington Tip Layup Shot,,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,27.85,3,8,9,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:11),61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.03,3,7,58,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 28' 3PT Pullup Jump Shot,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.07,3,7,56,CHA,CHA,reb,0,False,False,HORNETS Rebound,,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.32,3,7,41,CHA,CHA,fg3_miss,79,False,False,MISS Ball 29' 3PT Pullup Jump Shot,,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.38,3,7,37,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:4 Def:3),,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.42,3,7,35,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.48,3,7,31,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.52,3,7,29,UTA,UTA,fg3_miss,2,False,False,,MISS Conley 3PT Running Jump Shot,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.57,3,7,26,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:4 Def:4),,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.8,3,7,12,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 3PT Jump Shot,,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,28.85,3,7,9,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:12),61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.2,3,6,48,UTA,CHA,foul,2,False,False,Plumlee S.FOUL (P2.T4) (S.Twardoski),,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.2,3,6,48,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.2,3,6,48,UTA,UTA,ft_miss,11,False,False,,MISS Hernangomez Free Throw 1 of 2,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.2,3,6,48,UTA,UTA,reb,1,False,False,,Jazz Rebound,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.2,3,6,48,UTA,UTA,ft_miss,12,False,False,,MISS Hernangomez Free Throw 2 of 2,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.2,3,6,48,UTA,CHA,violation,3,False,False,Lane,,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.25,3,6,45,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:4 Def:5),,61-55,61,55
+0022101100,2022-03-25,CHA,UTA,29.48,3,6,31,CHA,CHA,fg_make,79,False,False,Ball 18' Pullup Jump Shot (15 PTS),,63-55,63,55
+0022101100,2022-03-25,CHA,UTA,29.82,3,6,11,UTA,UTA,fg_miss,5,True,False,,MISS Hernangomez 3' Layup,63-55,63,55
+0022101100,2022-03-25,CHA,UTA,29.82,3,6,11,UTA,CHA,block,5,True,False,block,block,63-55,63,55
+0022101100,2022-03-25,CHA,UTA,29.85,3,6,9,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:4 Def:6),,63-55,63,55
+0022101100,2022-03-25,CHA,UTA,30.1,3,5,54,CHA,UTA,foul,1,False,False,,O'Neale P.FOUL (P2.T2) (J.Capers),63-55,63,55
+0022101100,2022-03-25,CHA,UTA,30.13,3,5,52,CHA,CHA,tov,1,False,True,Ball Bad Pass Turnover (P1.T7),,63-55,63,55
+0022101100,2022-03-25,CHA,UTA,30.13,3,5,52,CHA,UTA,steal,1,False,True,steal,steal,63-55,63,55
+0022101100,2022-03-25,CHA,UTA,30.23,3,5,46,UTA,UTA,fg_make,50,False,False,,Paschall 1' Running Dunk (11 PTS),63-57,63,57
+0022101100,2022-03-25,CHA,UTA,30.53,3,5,28,CHA,CHA,fg3_make,1,False,False,Bridges 26' 3PT Jump Shot (21 PTS) (Plumlee 3 AST),,66-57,66,57
+0022101100,2022-03-25,CHA,UTA,30.78,3,5,13,UTA,UTA,fg_make,6,False,False,,Mitchell 2' Driving Layup (18 PTS),66-59,66,59
+0022101100,2022-03-25,CHA,UTA,30.95,3,5,3,CHA,CHA,fg_miss,6,False,False,MISS Rozier 2' Driving Layup,,66-59,66,59
+0022101100,2022-03-25,CHA,UTA,31.02,3,4,59,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:4 Def:4),,66-59,66,59
+0022101100,2022-03-25,CHA,UTA,31.02,3,4,59,CHA,CHA,fg_make,107,False,False,Bridges Tip Dunk Shot (23 PTS),,68-59,68,59
+0022101100,2022-03-25,CHA,UTA,31.22,3,4,47,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 26' 3PT Jump Shot,68-59,68,59
+0022101100,2022-03-25,CHA,UTA,31.28,3,4,43,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:4 Def:7),,68-59,68,59
+0022101100,2022-03-25,CHA,UTA,31.35,3,4,39,UTA,CHA,foul,26,False,False,Plumlee Offensive Charge Foul (P3) (J.Capers),,68-59,68,59
+0022101100,2022-03-25,CHA,UTA,31.35,3,4,39,CHA,CHA,tov,37,False,False,Plumlee Offensive Foul Turnover (P1.T8),,68-59,68,59
+0022101100,2022-03-25,CHA,UTA,31.6,3,4,24,UTA,UTA,fg_make,5,False,False,,Hernangomez 3' Layup (8 PTS) (Mitchell 4 AST),68-61,68,61
+0022101100,2022-03-25,CHA,UTA,32.03,3,3,58,CHA,CHA,fg_miss,63,False,False,MISS Rozier 16' Fadeaway Jumper,,68-61,68,61
+0022101100,2022-03-25,CHA,UTA,32.1,3,3,54,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),68-61,68,61
+0022101100,2022-03-25,CHA,UTA,32.2,3,3,48,UTA,UTA,fg_miss,6,False,False,,MISS Mitchell 2' Driving Layup,68-61,68,61
+0022101100,2022-03-25,CHA,UTA,32.23,3,3,46,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,68-61,68,61
+0022101100,2022-03-25,CHA,UTA,32.27,3,3,44,CHA,UTA,foul,2,False,False,,O'Neale S.FOUL (P3.T3) (J.Capers),68-61,68,61
+0022101100,2022-03-25,CHA,UTA,32.27,3,3,44,CHA,CHA,ft_make,11,False,False,Harrell Free Throw 1 of 2 (5 PTS),,69-61,69,61
+0022101100,2022-03-25,CHA,UTA,32.27,3,3,44,CHA,CHA,ft_miss,12,False,False,MISS Harrell Free Throw 2 of 2,,69-61,69,61
+0022101100,2022-03-25,CHA,UTA,32.33,3,3,40,UTA,UTA,reb,0,False,False,,Paschall REBOUND (Off:0 Def:1),69-61,69,61
+0022101100,2022-03-25,CHA,UTA,32.48,3,3,31,UTA,UTA,fg3_make,1,False,False,,Hernangomez 3PT Jump Shot (11 PTS) (Mitchell 5 AST),69-64,69,64
+0022101100,2022-03-25,CHA,UTA,32.72,3,3,17,CHA,CHA,fg3_miss,1,False,False,MISS Martin 24' 3PT Jump Shot,,69-64,69,64
+0022101100,2022-03-25,CHA,UTA,32.77,3,3,14,UTA,UTA,reb,0,False,False,,Paschall REBOUND (Off:0 Def:2),69-64,69,64
+0022101100,2022-03-25,CHA,UTA,32.85,3,3,9,UTA,UTA,tov,2,False,True,,Paschall Lost Ball Turnover (P1.T6),69-64,69,64
+0022101100,2022-03-25,CHA,UTA,32.85,3,3,9,UTA,CHA,steal,2,False,True,steal,steal,69-64,69,64
+0022101100,2022-03-25,CHA,UTA,33.0,3,3,0,CHA,CHA,fg3_miss,1,False,False,MISS Oubre Jr. 25' 3PT Jump Shot,,69-64,69,64
+0022101100,2022-03-25,CHA,UTA,33.03,3,2,58,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:2 Def:2),,69-64,69,64
+0022101100,2022-03-25,CHA,UTA,33.1,3,2,54,CHA,CHA,fg3_miss,1,False,False,MISS Ball 27' 3PT Jump Shot,,69-64,69,64
+0022101100,2022-03-25,CHA,UTA,33.13,3,2,52,UTA,UTA,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:2),69-64,69,64
+0022101100,2022-03-25,CHA,UTA,33.13,3,2,52,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.3 Short 0),69-64,69,64
+0022101100,2022-03-25,CHA,UTA,33.4,3,2,36,UTA,UTA,fg3_make,1,False,False,,Gay 27' 3PT Jump Shot (3 PTS) (Clarkson 4 AST),69-67,69,67
+0022101100,2022-03-25,CHA,UTA,33.7,3,2,18,CHA,CHA,fg_make,7,False,False,Harrell 1' Dunk (7 PTS) (Washington 3 AST),,71-67,71,67
+0022101100,2022-03-25,CHA,UTA,33.97,3,2,2,UTA,UTA,fg_make,9,False,False,,Gobert 1' Driving Dunk (5 PTS),71-69,71,69
+0022101100,2022-03-25,CHA,UTA,34.22,3,1,47,CHA,CHA,fg_make,6,False,False,Ball 2' Driving Layup (17 PTS),,73-69,73,69
+0022101100,2022-03-25,CHA,UTA,34.67,3,1,20,UTA,UTA,fg_make,6,False,False,,Clarkson 3' Driving Layup (12 PTS),73-71,73,71
+0022101100,2022-03-25,CHA,UTA,34.87,3,1,8,CHA,CHA,fg_make,78,False,False,Washington 4' Floating Jump Shot (2 PTS) (Ball 2 AST),,75-71,75,71
+0022101100,2022-03-25,CHA,UTA,35.2,3,0,48,UTA,UTA,fg_make,7,False,False,,Gobert 1' Dunk (7 PTS) (Forrest 2 AST),75-73,75,73
+0022101100,2022-03-25,CHA,UTA,35.33,3,0,40,CHA,CHA,tov,1,False,True,Ball Bad Pass Turnover (P2.T9),,75-73,75,73
+0022101100,2022-03-25,CHA,UTA,35.33,3,0,40,CHA,UTA,steal,1,False,True,steal,steal,75-73,75,73
+0022101100,2022-03-25,CHA,UTA,35.4,3,0,36,UTA,UTA,fg3_make,2,False,False,,Clarkson 25' 3PT Running Jump Shot (15 PTS) (Conley 3 AST),75-76,75,76
+0022101100,2022-03-25,CHA,UTA,35.7,3,0,18,CHA,CHA,fg_miss,101,False,False,MISS Ball 10' Driving Floating Jump Shot,,75-76,75,76
+0022101100,2022-03-25,CHA,UTA,35.73,3,0,16,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:2 Def:2),,75-76,75,76
+0022101100,2022-03-25,CHA,UTA,35.85,3,0,9,CHA,UTA,foul,2,False,False,,Gay S.FOUL (P2.T4) (C.Blair),75-76,75,76
+0022101100,2022-03-25,CHA,UTA,35.85,3,0,9,CHA,CHA,ft_make,11,False,False,Washington Free Throw 1 of 2 (3 PTS),,76-76,76,76
+0022101100,2022-03-25,CHA,UTA,35.85,3,0,9,CHA,CHA,ft_make,12,False,False,Washington Free Throw 2 of 2 (4 PTS),,77-76,77,76
+0022101100,2022-03-25,CHA,UTA,35.95,3,0,3,UTA,UTA,fg3_miss,1,False,False,,MISS Gay 27' 3PT Jump Shot,77-76,77,76
+0022101100,2022-03-25,CHA,UTA,35.95,3,0,3,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:1),77-76,77,76
+0022101100,2022-03-25,CHA,UTA,36.0,3,0,0,UTA,UTA,fg_miss,78,False,False,,MISS Clarkson Floating Jump Shot,77-76,77,76
+0022101100,2022-03-25,CHA,UTA,36.0,3,0,0,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:2 Def:1),77-76,77,76
+0022101100,2022-03-25,CHA,UTA,36.0,3,0,0,UTA,UTA,fg_make,78,False,False,,Clarkson Floating Jump Shot (17 PTS),77-78,77,78
+0022101100,2022-03-25,CHA,UTA,36.0,3,0,0,UTA,,period_end,0,False,False,,,77-78,77,78
+0022101100,2022-03-25,CHA,UTA,36.0,4,12,0,UTA,,period_start,0,False,False,,,77-78,77,78
+0022101100,2022-03-25,CHA,UTA,36.35,4,11,39,UTA,UTA,fg3_miss,80,False,False,,MISS Clarkson 26' 3PT Step Back Jump Shot,77-78,77,78
+0022101100,2022-03-25,CHA,UTA,36.38,4,11,37,CHA,CHA,reb,0,False,False,McDaniels REBOUND (Off:0 Def:2),,77-78,77,78
+0022101100,2022-03-25,CHA,UTA,36.65,4,11,21,CHA,CHA,fg_make,101,False,False,McDaniels 8' Driving Floating Jump Shot (2 PTS) (Ball 3 AST),,79-78,79,78
+0022101100,2022-03-25,CHA,UTA,37.02,4,10,59,UTA,UTA,fg_make,101,False,False,,Clarkson 9' Driving Floating Jump Shot (19 PTS) (Conley 4 AST),79-80,79,80
+0022101100,2022-03-25,CHA,UTA,37.18,4,10,49,CHA,CHA,fg_make,6,False,False,Ball 2' Driving Layup (19 PTS),,81-80,81,80
+0022101100,2022-03-25,CHA,UTA,37.45,4,10,33,UTA,UTA,fg_miss,5,False,False,,MISS Clarkson 3' Layup,81-80,81,80
+0022101100,2022-03-25,CHA,UTA,37.45,4,10,33,CHA,CHA,reb,0,False,False,HORNETS Rebound,,81-80,81,80
+0022101100,2022-03-25,CHA,UTA,37.67,4,10,20,CHA,CHA,fg_miss,79,False,False,MISS Ball 16' Pullup Jump Shot,,81-80,81,80
+0022101100,2022-03-25,CHA,UTA,37.72,4,10,17,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:13),81-80,81,80
+0022101100,2022-03-25,CHA,UTA,37.82,4,10,11,UTA,UTA,fg_make,52,False,False,,Gobert 1' Alley Oop Dunk (9 PTS) (Forrest 3 AST),81-82,81,82
+0022101100,2022-03-25,CHA,UTA,38.2,4,9,48,CHA,CHA,fg_make,108,False,False,Harrell 2' Cutting Dunk Shot (9 PTS) (McDaniels 2 AST),,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.57,4,9,26,UTA,UTA,fg_miss,63,False,False,,MISS Gay 8' Fadeaway Jumper,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.6,4,9,24,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:13),83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.7,4,9,18,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 25' 3PT Jump Shot,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.72,4,9,17,UTA,UTA,reb,0,False,False,,Jazz Rebound,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.72,4,9,17,UTA,CHA,foul,3,False,False,Ball L.B.FOUL (P2.T1) (J.Capers),,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.9,4,9,6,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P3.T7),83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.9,4,9,6,UTA,CHA,steal,1,False,True,steal,steal,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,38.98,4,9,1,CHA,CHA,fg3_miss,2,False,False,MISS Thomas 3PT Running Jump Shot,,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,39.03,4,8,58,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:1 Def:3),,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,39.03,4,8,58,CHA,CHA,fg_miss,97,False,False,MISS Ball Tip Layup Shot,,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,39.03,4,8,58,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:2),,83-82,83,82
+0022101100,2022-03-25,CHA,UTA,39.03,4,8,58,CHA,UTA,foul,2,False,False,,Gobert S.FOUL (P2.T1) (J.Capers),83-82,83,82
+0022101100,2022-03-25,CHA,UTA,39.03,4,8,58,CHA,CHA,ft_make,11,False,False,Oubre Jr. Free Throw 1 of 2 (6 PTS),,84-82,84,82
+0022101100,2022-03-25,CHA,UTA,39.03,4,8,58,CHA,CHA,ft_miss,12,False,False,MISS Oubre Jr. Free Throw 2 of 2,,84-82,84,82
+0022101100,2022-03-25,CHA,UTA,39.1,4,8,54,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:2),84-82,84,82
+0022101100,2022-03-25,CHA,UTA,39.43,4,8,34,UTA,UTA,fg_make,79,False,False,,Mitchell 18' Pullup Jump Shot (20 PTS) (Conley 5 AST),84-84,84,84
+0022101100,2022-03-25,CHA,UTA,39.72,4,8,17,CHA,CHA,fg_make,6,False,False,Ball 2' Driving Layup (21 PTS),,86-84,86,84
+0022101100,2022-03-25,CHA,UTA,39.72,4,8,17,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),86-84,86,84
+0022101100,2022-03-25,CHA,UTA,39.93,4,8,4,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P4.T8),86-84,86,84
+0022101100,2022-03-25,CHA,UTA,39.93,4,8,4,UTA,CHA,steal,1,False,True,steal,steal,86-84,86,84
+0022101100,2022-03-25,CHA,UTA,39.93,4,8,4,CHA,UTA,foul,28,False,False,,Clarkson Personal Take Foul (P1.T2) (S.Twardoski),86-84,86,84
+0022101100,2022-03-25,CHA,UTA,40.13,4,7,52,CHA,CHA,fg_miss,3,False,False,MISS Ball 6' Hook Shot,,86-84,86,84
+0022101100,2022-03-25,CHA,UTA,40.17,4,7,50,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:14),86-84,86,84
+0022101100,2022-03-25,CHA,UTA,40.23,4,7,46,UTA,CHA,foul,1,False,False,Oubre Jr. P.FOUL (P2.T2) (C.Blair),,86-84,86,84
+0022101100,2022-03-25,CHA,UTA,40.43,4,7,34,UTA,UTA,fg3_make,1,False,False,,Hernangomez 25' 3PT Jump Shot (14 PTS) (Mitchell 6 AST),86-87,86,87
+0022101100,2022-03-25,CHA,UTA,40.47,4,7,32,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 4 Short 0),,86-87,86,87
+0022101100,2022-03-25,CHA,UTA,40.73,4,7,16,CHA,CHA,fg3_make,1,False,False,Rozier 26' 3PT Jump Shot (16 PTS) (Washington 4 AST),,89-87,89,87
+0022101100,2022-03-25,CHA,UTA,41.1,4,6,54,UTA,UTA,fg_miss,6,True,False,,MISS Clarkson 7' Driving Layup,89-87,89,87
+0022101100,2022-03-25,CHA,UTA,41.1,4,6,54,UTA,CHA,block,6,True,False,block,block,89-87,89,87
+0022101100,2022-03-25,CHA,UTA,41.1,4,6,54,CHA,CHA,reb,0,False,False,HORNETS Rebound,,89-87,89,87
+0022101100,2022-03-25,CHA,UTA,41.48,4,6,31,CHA,CHA,fg_make,73,False,False,Thomas 2' Driving Reverse Layup (9 PTS) (Washington 5 AST),,91-87,91,87
+0022101100,2022-03-25,CHA,UTA,41.57,4,6,26,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P5.T9),91-87,91,87
+0022101100,2022-03-25,CHA,UTA,41.57,4,6,26,UTA,CHA,steal,2,False,True,steal,steal,91-87,91,87
+0022101100,2022-03-25,CHA,UTA,41.57,4,6,26,CHA,CHA,fg_make,6,False,False,Rozier 2' Driving Layup (18 PTS),,93-87,93,87
+0022101100,2022-03-25,CHA,UTA,41.57,4,6,26,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.5 Short 0),93-87,93,87
+0022101100,2022-03-25,CHA,UTA,41.87,4,6,8,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 24' 3PT Jump Shot,93-87,93,87
+0022101100,2022-03-25,CHA,UTA,41.98,4,6,1,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:14),93-89,93,89
+0022101100,2022-03-25,CHA,UTA,41.98,4,6,1,UTA,UTA,fg_make,97,False,False,,Gobert Tip Layup Shot (11 PTS),93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.32,4,5,41,CHA,CHA,fg_miss,80,False,False,MISS Rozier 19' Step Back Jump Shot,,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.37,4,5,38,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:3 Def:2),,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.38,4,5,37,CHA,CHA,tov,1,False,True,Martin Bad Pass Turnover (P1.T10),,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.38,4,5,37,CHA,UTA,steal,1,False,True,steal,steal,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.48,4,5,31,UTA,UTA,fg3_miss,2,False,False,,MISS O'Neale 26' 3PT Running Jump Shot,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.5,4,5,30,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:1 Def:1),93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.53,4,5,28,UTA,UTA,fg_miss,5,False,False,,MISS Mitchell 1' Layup,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.53,4,5,28,CHA,CHA,reb,0,False,False,HORNETS Rebound,,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.53,4,5,28,CHA,UTA,foul,1,False,False,,Gobert P.FOUL (P3.T3) (J.Capers),93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.85,4,5,9,CHA,CHA,fg_miss,101,False,False,MISS Rozier 5' Driving Floating Jump Shot,,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,42.85,4,5,9,UTA,UTA,reb,0,False,False,,Jazz Rebound,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,43.15,4,4,51,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 3PT Jump Shot,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,43.2,4,4,48,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:4 Def:5),,93-89,93,89
+0022101100,2022-03-25,CHA,UTA,43.23,4,4,46,CHA,CHA,fg_make,41,False,False,Martin 1' Running Layup (2 PTS) (Bridges 4 AST),,95-89,95,89
+0022101100,2022-03-25,CHA,UTA,43.47,4,4,32,UTA,UTA,tov,1,False,True,,Conley Bad Pass Turnover (P1.T10),95-89,95,89
+0022101100,2022-03-25,CHA,UTA,43.47,4,4,32,UTA,CHA,steal,1,False,True,steal,steal,95-89,95,89
+0022101100,2022-03-25,CHA,UTA,43.7,4,4,18,CHA,CHA,fg3_miss,1,False,False,MISS Thomas 30' 3PT Jump Shot,,95-89,95,89
+0022101100,2022-03-25,CHA,UTA,43.75,4,4,15,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:15),95-89,95,89
+0022101100,2022-03-25,CHA,UTA,43.88,4,4,7,UTA,UTA,fg_make,101,False,False,,Mitchell 12' Driving Floating Jump Shot (22 PTS),95-91,95,91
+0022101100,2022-03-25,CHA,UTA,43.88,4,4,7,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 5 Short 0),,95-91,95,91
+0022101100,2022-03-25,CHA,UTA,44.2,4,3,48,CHA,CHA,fg_miss,101,False,False,MISS Ball 15' Driving Floating Jump Shot,,95-91,95,91
+0022101100,2022-03-25,CHA,UTA,44.23,4,3,46,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:16),95-91,95,91
+0022101100,2022-03-25,CHA,UTA,44.45,4,3,33,UTA,UTA,fg3_make,1,False,False,,Conley 3PT Jump Shot (11 PTS) (Mitchell 7 AST),95-94,95,94
+0022101100,2022-03-25,CHA,UTA,44.72,4,3,17,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 24' 3PT Jump Shot,,95-94,95,94
+0022101100,2022-03-25,CHA,UTA,44.77,4,3,14,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:1 Def:2),95-94,95,94
+0022101100,2022-03-25,CHA,UTA,44.82,4,3,11,UTA,CHA,foul,2,False,False,Ball S.FOUL (P3.T3) (S.Twardoski),,95-94,95,94
+0022101100,2022-03-25,CHA,UTA,44.82,4,3,11,UTA,UTA,ft_make,11,False,False,,Mitchell Free Throw 1 of 2 (23 PTS),95-95,95,95
+0022101100,2022-03-25,CHA,UTA,44.82,4,3,11,UTA,UTA,ft_make,12,False,False,,Mitchell Free Throw 2 of 2 (24 PTS),95-96,95,96
+0022101100,2022-03-25,CHA,UTA,45.1,4,2,54,CHA,CHA,fg_make,78,False,False,Rozier 2' Floating Jump Shot (20 PTS) (Ball 4 AST),,97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.35,4,2,39,CHA,UTA,foul,26,False,False,,Mitchell Offensive Charge Foul (P2) (C.Blair),97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.35,4,2,39,UTA,UTA,tov,37,False,False,,Mitchell Offensive Foul Turnover (P6.T11),97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.35,4,2,39,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.6 Short 0),97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.62,4,2,23,CHA,CHA,fg_miss,63,True,False,MISS Ball 11' Fadeaway Jumper,,97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.62,4,2,23,CHA,UTA,block,63,True,False,block,block,97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.62,4,2,23,CHA,CHA,reb,0,False,False,HORNETS Rebound,,97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.78,4,2,13,CHA,CHA,fg3_miss,63,False,False,MISS Washington 3PT Fadeaway Jumper,,97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.82,4,2,11,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:1 Def:1),97-96,97,96
+0022101100,2022-03-25,CHA,UTA,45.98,4,2,1,UTA,UTA,tov,4,False,False,,Gobert Traveling Turnover (P1.T12),97-96,97,96
+0022101100,2022-03-25,CHA,UTA,46.27,4,1,44,CHA,CHA,fg_make,5,False,False,Washington 5' Layup (6 PTS) (Ball 5 AST),,99-96,99,96
+0022101100,2022-03-25,CHA,UTA,46.47,4,1,32,UTA,UTA,fg3_make,1,False,False,,O'Neale 28' 3PT Jump Shot (6 PTS) (Conley 6 AST),99-99,99,99
+0022101100,2022-03-25,CHA,UTA,46.87,4,1,8,CHA,CHA,fg3_make,63,False,False,Rozier 25' 3PT Fadeaway Jumper (23 PTS) (Plumlee 4 AST),,102-99,102,99
+0022101100,2022-03-25,CHA,UTA,47.07,4,0,56,UTA,CHA,foul,1,False,False,Ball P.FOUL (P4.T4) (S.Twardoski),,102-99,102,99
+0022101100,2022-03-25,CHA,UTA,47.23,4,0,46,UTA,UTA,fg_make,101,False,False,,Mitchell 10' Driving Floating Jump Shot (26 PTS),102-101,102,101
+0022101100,2022-03-25,CHA,UTA,47.23,4,0,46,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 6 Short 0),,102-101,102,101
+0022101100,2022-03-25,CHA,UTA,47.5,4,0,30,CHA,UTA,foul,2,False,False,,Gobert S.FOUL (P4.T4) (S.Twardoski),102-101,102,101
+0022101100,2022-03-25,CHA,UTA,47.5,4,0,30,CHA,CHA,ft_make,11,False,False,Bridges Free Throw 1 of 2 (24 PTS),,103-101,103,101
+0022101100,2022-03-25,CHA,UTA,47.5,4,0,30,CHA,CHA,ft_make,12,False,False,Bridges Free Throw 2 of 2 (25 PTS),,104-101,104,101
+0022101100,2022-03-25,CHA,UTA,47.6,4,0,24,UTA,UTA,fg_miss,6,False,False,,MISS Mitchell 4' Driving Layup,104-101,104,101
+0022101100,2022-03-25,CHA,UTA,47.63,4,0,22,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:4 Def:6),,104-101,104,101
+0022101100,2022-03-25,CHA,UTA,47.72,4,0,17,CHA,UTA,foul,28,False,False,,Clarkson Personal Take Foul (P2.PN) (J.Capers),104-101,104,101
+0022101100,2022-03-25,CHA,UTA,47.72,4,0,17,CHA,CHA,ft_make,11,False,False,Rozier Free Throw 1 of 2 (24 PTS),,105-101,105,101
+0022101100,2022-03-25,CHA,UTA,47.72,4,0,17,CHA,CHA,ft_make,12,False,False,Rozier Free Throw 2 of 2 (25 PTS),,106-101,106,101
+0022101100,2022-03-25,CHA,UTA,47.83,4,0,10,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 33' 3PT Pullup Jump Shot,106-101,106,101
+0022101100,2022-03-25,CHA,UTA,47.85,4,0,9,CHA,CHA,reb,0,False,False,HORNETS Rebound,,106-101,106,101
+0022101100,2022-03-25,CHA,UTA,47.85,4,0,9,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 7 Short 0),,106-101,106,101
+0022101100,2022-03-25,CHA,UTA,47.85,4,0,9,CHA,UTA,foul,28,False,False,,O'Neale Personal Take Foul (P4.PN) (S.Twardoski),106-101,106,101
+0022101100,2022-03-25,CHA,UTA,47.85,4,0,9,CHA,CHA,ft_make,11,False,False,Bridges Free Throw 1 of 2 (26 PTS),,107-101,107,101
+0022101100,2022-03-25,CHA,UTA,47.85,4,0,9,CHA,CHA,ft_miss,12,False,False,MISS Bridges Free Throw 2 of 2,,107-101,107,101
+0022101100,2022-03-25,CHA,UTA,47.87,4,0,8,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:17),107-101,107,101
+0022101100,2022-03-25,CHA,UTA,47.87,4,0,8,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.7 Short 0),107-101,107,101
+0022101100,2022-03-25,CHA,UTA,47.92,4,0,5,UTA,UTA,fg3_miss,1,False,False,,MISS Gay 3PT Jump Shot,107-101,107,101
+0022101100,2022-03-25,CHA,UTA,47.98,4,0,1,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:4 Def:7),,107-101,107,101
+0022101100,2022-03-25,CHA,UTA,48.0,4,0,0,CHA,,period_end,0,False,False,,,107-101,107,101

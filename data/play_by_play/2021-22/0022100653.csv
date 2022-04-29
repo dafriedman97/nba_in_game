@@ -1,0 +1,414 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100653,2022-01-16,DEN,UTA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100653,2022-01-16,DEN,UTA,0.0,1,12,0,,DEN,jump_ball,0,False,False,Jump Ball Jokic vs. Gobert: Tip to Green,,0-0,0,0
+0022100653,2022-01-16,DEN,UTA,0.37,1,11,38,DEN,DEN,fg_make,58,False,False,Jokic 3' Turnaround Hook Shot (2 PTS),,2-0,2,0
+0022100653,2022-01-16,DEN,UTA,0.68,1,11,19,UTA,UTA,fg3_miss,80,False,False,,MISS Conley 26' 3PT Step Back Jump Shot,2-0,2,0
+0022100653,2022-01-16,DEN,UTA,0.75,1,11,15,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:1),,2-0,2,0
+0022100653,2022-01-16,DEN,UTA,0.88,1,11,7,DEN,DEN,fg3_miss,1,False,False,MISS Barton 3PT Jump Shot,,2-0,2,0
+0022100653,2022-01-16,DEN,UTA,0.93,1,11,4,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:1),2-0,2,0
+0022100653,2022-01-16,DEN,UTA,1.02,1,10,59,UTA,UTA,tov,39,False,False,,Conley Step Out of Bounds Turnover (P1.T1),2-0,2,0
+0022100653,2022-01-16,DEN,UTA,1.35,1,10,39,DEN,DEN,fg_make,108,False,False,Green 1' Cutting Dunk Shot (2 PTS) (Gordon 1 AST),,4-0,4,0
+0022100653,2022-01-16,DEN,UTA,1.62,1,10,23,DEN,UTA,foul,28,False,False,,Bogdanovic Personal Take Foul (P1.T1) (D.Richardson),4-0,4,0
+0022100653,2022-01-16,DEN,UTA,1.62,1,10,23,UTA,DEN,steal,2,False,True,steal,steal,4-0,4,0
+0022100653,2022-01-16,DEN,UTA,1.62,1,10,23,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P1.T2),4-0,4,0
+0022100653,2022-01-16,DEN,UTA,1.9,1,10,6,DEN,DEN,fg_make,79,False,False,Morris 15' Pullup Jump Shot (2 PTS),,6-0,6,0
+0022100653,2022-01-16,DEN,UTA,2.12,1,9,53,UTA,UTA,fg_miss,93,False,False,,MISS Bogdanovic 4' Driving Bank Hook Shot,6-0,6,0
+0022100653,2022-01-16,DEN,UTA,2.17,1,9,50,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:0 Def:1),,6-0,6,0
+0022100653,2022-01-16,DEN,UTA,2.18,1,9,49,DEN,UTA,foul,2,False,False,,Mitchell S.FOUL (P1.T2) (J.Butler),6-0,6,0
+0022100653,2022-01-16,DEN,UTA,2.18,1,9,49,DEN,DEN,ft_make,11,False,False,Gordon Free Throw 1 of 2 (1 PTS),,7-0,7,0
+0022100653,2022-01-16,DEN,UTA,2.18,1,9,49,DEN,DEN,ft_make,12,False,False,Gordon Free Throw 2 of 2 (2 PTS),,8-0,8,0
+0022100653,2022-01-16,DEN,UTA,2.43,1,9,34,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 26' 3PT Jump Shot (3 PTS) (Conley 1 AST),8-3,8,3
+0022100653,2022-01-16,DEN,UTA,2.82,1,9,11,DEN,DEN,fg_miss,98,False,False,MISS Gordon 4' Cutting Layup Shot,,8-3,8,3
+0022100653,2022-01-16,DEN,UTA,2.88,1,9,7,DEN,DEN,fg_make,97,False,False,Gordon Tip Layup Shot (4 PTS),,10-3,10,3
+0022100653,2022-01-16,DEN,UTA,2.88,1,9,7,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:1),,8-3,8,3
+0022100653,2022-01-16,DEN,UTA,2.97,1,9,2,UTA,UTA,fg_make,79,False,False,,Mitchell 20' Pullup Jump Shot (2 PTS),10-5,10,5
+0022100653,2022-01-16,DEN,UTA,3.32,1,8,41,DEN,DEN,fg_make,79,False,False,Gordon 16' Pullup Jump Shot (6 PTS),,12-5,12,5
+0022100653,2022-01-16,DEN,UTA,3.45,1,8,33,UTA,UTA,fg_make,6,False,False,,Mitchell 3' Driving Layup (4 PTS),12-7,12,7
+0022100653,2022-01-16,DEN,UTA,3.57,1,8,26,DEN,DEN,fg_miss,47,False,False,MISS Barton 12' Turnaround Jump Shot,,12-7,12,7
+0022100653,2022-01-16,DEN,UTA,3.62,1,8,23,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),12-7,12,7
+0022100653,2022-01-16,DEN,UTA,3.78,1,8,13,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 27' 3PT Jump Shot,12-7,12,7
+0022100653,2022-01-16,DEN,UTA,3.85,1,8,9,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:2),,12-7,12,7
+0022100653,2022-01-16,DEN,UTA,3.92,1,8,5,DEN,DEN,fg3_make,80,False,False,Gordon 25' 3PT Step Back Jump Shot (9 PTS),,15-7,15,7
+0022100653,2022-01-16,DEN,UTA,3.93,1,8,4,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.1 Short 0),15-7,15,7
+0022100653,2022-01-16,DEN,UTA,4.17,1,7,50,UTA,UTA,fg3_make,1,False,False,,O'Neale 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),15-10,15,10
+0022100653,2022-01-16,DEN,UTA,4.63,1,7,22,DEN,DEN,fg3_miss,1,False,False,MISS Morris 3PT Jump Shot,,15-10,15,10
+0022100653,2022-01-16,DEN,UTA,4.68,1,7,19,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),15-10,15,10
+0022100653,2022-01-16,DEN,UTA,4.83,1,7,10,UTA,UTA,fg_make,52,False,False,,Gobert 2' Alley Oop Dunk (2 PTS) (Conley 2 AST),15-12,15,12
+0022100653,2022-01-16,DEN,UTA,5.17,1,6,50,DEN,DEN,tov,1,False,True,Gordon Bad Pass Turnover (P1.T1),,15-12,15,12
+0022100653,2022-01-16,DEN,UTA,5.17,1,6,50,DEN,UTA,steal,1,False,True,steal,steal,15-12,15,12
+0022100653,2022-01-16,DEN,UTA,5.25,1,6,45,UTA,UTA,fg_make,41,False,False,,Bogdanovic 1' Running Layup (5 PTS),15-14,15,14
+0022100653,2022-01-16,DEN,UTA,5.35,1,6,39,DEN,DEN,fg3_make,79,False,False,Barton 26' 3PT Pullup Jump Shot (3 PTS) (Jokic 1 AST),,18-14,18,14
+0022100653,2022-01-16,DEN,UTA,5.62,1,6,23,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 26' 3PT Jump Shot,18-14,18,14
+0022100653,2022-01-16,DEN,UTA,5.67,1,6,20,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:1),18-14,18,14
+0022100653,2022-01-16,DEN,UTA,5.68,1,6,19,UTA,UTA,fg_make,7,False,False,,Gobert 1' Dunk (4 PTS) (Bogdanovic 2 AST),18-16,18,16
+0022100653,2022-01-16,DEN,UTA,5.68,1,6,19,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,18-16,18,16
+0022100653,2022-01-16,DEN,UTA,6.0,1,6,0,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 26' 3PT Jump Shot,,18-16,18,16
+0022100653,2022-01-16,DEN,UTA,6.03,1,5,58,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:2),18-16,18,16
+0022100653,2022-01-16,DEN,UTA,6.15,1,5,51,UTA,UTA,fg3_miss,1,False,False,,MISS Gay 24' 3PT Jump Shot,18-16,18,16
+0022100653,2022-01-16,DEN,UTA,6.18,1,5,49,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,18-16,18,16
+0022100653,2022-01-16,DEN,UTA,6.28,1,5,43,DEN,DEN,fg_make,6,False,False,Morris 4' Driving Layup (4 PTS),,20-16,20,16
+0022100653,2022-01-16,DEN,UTA,6.28,1,5,43,DEN,UTA,violation,2,False,False,,Mitchell Violation:Defensive Goaltending (D.Richardson),20-16,20,16
+0022100653,2022-01-16,DEN,UTA,6.47,1,5,32,UTA,UTA,fg_make,6,False,False,,Bogdanovic 3' Driving Layup (7 PTS) (Mitchell 1 AST),20-18,20,18
+0022100653,2022-01-16,DEN,UTA,6.7,1,5,18,DEN,DEN,fg3_make,1,False,False,Gordon 26' 3PT Jump Shot (12 PTS) (Barton 1 AST),,23-18,23,18
+0022100653,2022-01-16,DEN,UTA,6.97,1,5,2,UTA,UTA,fg_make,6,False,False,,Bogdanovic 4' Driving Layup (9 PTS) (Ingles 1 AST),23-20,23,20
+0022100653,2022-01-16,DEN,UTA,7.08,1,4,55,DEN,DEN,fg3_make,1,False,False,Hyland 29' 3PT Jump Shot (3 PTS) (Jokic 2 AST),,26-20,26,20
+0022100653,2022-01-16,DEN,UTA,7.5,1,4,30,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 24' 3PT Jump Shot,26-20,26,20
+0022100653,2022-01-16,DEN,UTA,7.55,1,4,27,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:2),,26-20,26,20
+0022100653,2022-01-16,DEN,UTA,7.65,1,4,21,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P1.T2),,26-20,26,20
+0022100653,2022-01-16,DEN,UTA,7.65,1,4,21,DEN,UTA,steal,1,False,True,steal,steal,26-20,26,20
+0022100653,2022-01-16,DEN,UTA,7.7,1,4,18,UTA,UTA,fg_make,74,False,False,,O'Neale 3' Running Reverse Layup (5 PTS),26-22,26,22
+0022100653,2022-01-16,DEN,UTA,7.7,1,4,18,UTA,DEN,foul,2,False,False,Barton S.FOUL (P1.T1) (D.Richardson),,26-22,26,22
+0022100653,2022-01-16,DEN,UTA,7.7,1,4,18,UTA,UTA,ft_make,10,False,False,,O'Neale Free Throw 1 of 1 (6 PTS),26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.0,1,4,0,DEN,DEN,fg_miss,86,False,False,MISS Gordon 10' Turnaround Fadeaway Shot,,26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.03,1,3,58,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:1),26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.3,1,3,42,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 26' 3PT Jump Shot,26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.37,1,3,38,DEN,DEN,reb,0,False,False,Reed REBOUND (Off:0 Def:1),,26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.53,1,3,28,DEN,DEN,fg3_miss,1,False,False,MISS Campazzo 3PT Jump Shot,,26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.57,1,3,26,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:2),26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.67,1,3,20,UTA,UTA,fg3_miss,1,False,False,,MISS Gay 27' 3PT Jump Shot,26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.72,1,3,17,DEN,DEN,reb,0,False,False,Campazzo REBOUND (Off:0 Def:1),,26-23,26,23
+0022100653,2022-01-16,DEN,UTA,8.8,1,3,12,DEN,DEN,fg_make,5,False,False,Jokic 4' Layup (4 PTS) (Hyland 1 AST),,28-23,28,23
+0022100653,2022-01-16,DEN,UTA,8.8,1,3,12,DEN,UTA,foul,2,False,False,,Gay S.FOUL (P1.T3) (D.Richardson),28-23,28,23
+0022100653,2022-01-16,DEN,UTA,8.8,1,3,12,DEN,DEN,ft_make,10,False,False,Jokic Free Throw 1 of 1 (5 PTS),,29-23,29,23
+0022100653,2022-01-16,DEN,UTA,8.98,1,3,1,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 27' 3PT Pullup Jump Shot,29-23,29,23
+0022100653,2022-01-16,DEN,UTA,9.03,1,2,58,DEN,DEN,reb,0,False,False,Nnaji REBOUND (Off:0 Def:1),,29-23,29,23
+0022100653,2022-01-16,DEN,UTA,9.13,1,2,52,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 25' 3PT Jump Shot,,29-23,29,23
+0022100653,2022-01-16,DEN,UTA,9.22,1,2,47,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:1),29-23,29,23
+0022100653,2022-01-16,DEN,UTA,9.3,1,2,42,UTA,UTA,fg3_make,79,False,False,,Clarkson 27' 3PT Pullup Jump Shot (3 PTS),29-26,29,26
+0022100653,2022-01-16,DEN,UTA,9.5,1,2,30,DEN,DEN,fg_make,98,False,False,Campazzo 3' Cutting Layup Shot (2 PTS) (Jokic 3 AST),,31-26,31,26
+0022100653,2022-01-16,DEN,UTA,9.78,1,2,13,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:1),31-26,31,26
+0022100653,2022-01-16,DEN,UTA,9.78,1,2,13,UTA,UTA,fg_miss,6,False,False,,MISS Mitchell 3' Driving Layup,31-26,31,26
+0022100653,2022-01-16,DEN,UTA,9.83,1,2,10,UTA,UTA,fg_make,7,False,False,,Gobert 1' Dunk (6 PTS),31-28,31,28
+0022100653,2022-01-16,DEN,UTA,10.15,1,1,51,UTA,DEN,foul,1,False,False,Nnaji P.FOUL (P1.T2) (D.Richardson),,31-28,31,28
+0022100653,2022-01-16,DEN,UTA,10.15,1,1,51,DEN,UTA,steal,2,False,True,steal,steal,31-28,31,28
+0022100653,2022-01-16,DEN,UTA,10.15,1,1,51,DEN,DEN,tov,2,False,True,Nnaji Lost Ball Turnover (P1.T3),,31-28,31,28
+0022100653,2022-01-16,DEN,UTA,10.43,1,1,34,UTA,DEN,foul,2,False,False,Reed S.FOUL (P1.PN) (J.Butler),,31-28,31,28
+0022100653,2022-01-16,DEN,UTA,10.43,1,1,34,UTA,UTA,ft_make,13,False,False,,Clarkson Free Throw 1 of 3 (4 PTS),31-29,31,29
+0022100653,2022-01-16,DEN,UTA,10.43,1,1,34,UTA,UTA,ft_make,14,False,False,,Clarkson Free Throw 2 of 3 (5 PTS),31-30,31,30
+0022100653,2022-01-16,DEN,UTA,10.43,1,1,34,UTA,UTA,ft_make,15,False,False,,Clarkson Free Throw 3 of 3 (6 PTS),31-31,31,31
+0022100653,2022-01-16,DEN,UTA,10.83,1,1,10,DEN,DEN,fg_make,5,False,False,Nnaji 3' Layup (2 PTS) (Hyland 2 AST),,33-31,33,31
+0022100653,2022-01-16,DEN,UTA,11.05,1,0,57,DEN,UTA,foul,4,False,False,,Conley OFF.Foul (P1) (D.Richardson),33-31,33,31
+0022100653,2022-01-16,DEN,UTA,11.05,1,0,57,UTA,UTA,tov,37,False,False,,Conley Offensive Foul Turnover (P2.T3),33-31,33,31
+0022100653,2022-01-16,DEN,UTA,11.18,1,0,49,DEN,DEN,fg_miss,102,False,False,MISS Campazzo 6' Driving Floating Bank Jump Shot,,33-31,33,31
+0022100653,2022-01-16,DEN,UTA,11.23,1,0,46,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:1),33-31,33,31
+0022100653,2022-01-16,DEN,UTA,11.5,1,0,30,UTA,UTA,fg3_make,1,False,False,,Clarkson 3PT Jump Shot (9 PTS) (Conley 3 AST),33-34,33,34
+0022100653,2022-01-16,DEN,UTA,11.88,1,0,7,DEN,DEN,fg_miss,57,False,False,MISS Hyland 7' Driving Hook Shot,,33-34,33,34
+0022100653,2022-01-16,DEN,UTA,11.92,1,0,5,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:2),33-34,33,34
+0022100653,2022-01-16,DEN,UTA,11.98,1,0,1,UTA,UTA,fg3_make,79,False,False,,Clarkson 28' 3PT Pullup Jump Shot (12 PTS),33-37,33,37
+0022100653,2022-01-16,DEN,UTA,12.0,1,0,0,UTA,,period_end,0,False,False,,,33-37,33,37
+0022100653,2022-01-16,DEN,UTA,12.0,2,12,0,UTA,,period_start,0,False,False,,,33-37,33,37
+0022100653,2022-01-16,DEN,UTA,12.28,2,11,43,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 27' 3PT Pullup Jump Shot,33-37,33,37
+0022100653,2022-01-16,DEN,UTA,12.35,2,11,39,DEN,DEN,reb,0,False,False,Green REBOUND (Off:0 Def:1),,33-37,33,37
+0022100653,2022-01-16,DEN,UTA,12.55,2,11,27,DEN,DEN,tov,1,False,True,Campazzo Bad Pass Turnover (P1.T4),,33-37,33,37
+0022100653,2022-01-16,DEN,UTA,12.55,2,11,27,DEN,UTA,steal,1,False,True,steal,steal,33-37,33,37
+0022100653,2022-01-16,DEN,UTA,12.68,2,11,19,UTA,UTA,fg_make,102,False,False,,Paschall 4' Driving Floating Bank Jump Shot (2 PTS) (Conley 4 AST),33-39,33,39
+0022100653,2022-01-16,DEN,UTA,12.92,2,11,5,DEN,DEN,fg3_miss,79,False,False,MISS Reed 27' 3PT Pullup Jump Shot,,33-39,33,39
+0022100653,2022-01-16,DEN,UTA,12.97,2,11,2,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:0 Def:1),33-39,33,39
+0022100653,2022-01-16,DEN,UTA,13.1,2,10,54,UTA,UTA,fg_make,6,False,False,,Conley 4' Driving Layup (2 PTS),33-41,33,41
+0022100653,2022-01-16,DEN,UTA,13.1,2,10,54,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,33-41,33,41
+0022100653,2022-01-16,DEN,UTA,13.3,2,10,42,DEN,DEN,fg3_make,1,False,False,Hyland 26' 3PT Jump Shot (6 PTS) (Campazzo 1 AST),,36-41,36,41
+0022100653,2022-01-16,DEN,UTA,13.65,2,10,21,UTA,UTA,fg_make,102,False,False,,Paschall 7' Driving Floating Bank Jump Shot (4 PTS) (Clarkson 1 AST),36-43,36,43
+0022100653,2022-01-16,DEN,UTA,13.87,2,10,8,DEN,DEN,tov,1,False,True,Campazzo Bad Pass Turnover (P2.T5),,36-43,36,43
+0022100653,2022-01-16,DEN,UTA,13.87,2,10,8,DEN,UTA,steal,1,False,True,steal,steal,36-43,36,43
+0022100653,2022-01-16,DEN,UTA,13.92,2,10,5,UTA,DEN,foul,1,False,False,Campazzo P.FOUL (P1.T1) (J.Butler),,36-43,36,43
+0022100653,2022-01-16,DEN,UTA,14.05,2,9,57,UTA,UTA,fg_miss,1,False,False,,MISS Clarkson 6' Jump Shot,36-43,36,43
+0022100653,2022-01-16,DEN,UTA,14.07,2,9,56,DEN,DEN,reb,0,False,False,Green REBOUND (Off:0 Def:2),,36-43,36,43
+0022100653,2022-01-16,DEN,UTA,14.2,2,9,48,DEN,DEN,fg3_miss,1,False,False,MISS Barton 26' 3PT Jump Shot,,36-43,36,43
+0022100653,2022-01-16,DEN,UTA,14.25,2,9,45,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:3),36-43,36,43
+0022100653,2022-01-16,DEN,UTA,14.47,2,9,32,UTA,UTA,fg_miss,47,False,False,,MISS Paschall 10' Turnaround Jump Shot,36-43,36,43
+0022100653,2022-01-16,DEN,UTA,14.52,2,9,29,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:3),36-43,36,43
+0022100653,2022-01-16,DEN,UTA,14.6,2,9,24,UTA,UTA,fg_make,7,False,False,,Gobert 3' Dunk (8 PTS) (Ingles 2 AST),36-45,36,45
+0022100653,2022-01-16,DEN,UTA,14.98,2,9,1,DEN,DEN,fg3_miss,80,False,False,MISS Barton 27' 3PT Step Back Jump Shot,,36-45,36,45
+0022100653,2022-01-16,DEN,UTA,15.03,2,8,58,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:4),36-45,36,45
+0022100653,2022-01-16,DEN,UTA,15.22,2,8,47,UTA,UTA,fg_miss,1,False,False,,MISS Clarkson 4' Jump Shot,36-45,36,45
+0022100653,2022-01-16,DEN,UTA,15.25,2,8,45,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:4),36-45,36,45
+0022100653,2022-01-16,DEN,UTA,15.25,2,8,45,UTA,UTA,fg_make,72,False,False,,Gobert Putback Layup (10 PTS),36-47,36,47
+0022100653,2022-01-16,DEN,UTA,15.62,2,8,23,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 26' 3PT Jump Shot,,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,15.65,2,8,21,DEN,DEN,reb,0,False,False,Green REBOUND (Off:1 Def:2),,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,15.7,2,8,18,DEN,DEN,fg_miss,79,False,False,MISS Barton 15' Pullup Jump Shot,,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,15.75,2,8,15,UTA,UTA,reb,0,False,False,,Forrest REBOUND (Off:0 Def:1),36-47,36,47
+0022100653,2022-01-16,DEN,UTA,15.93,2,8,4,UTA,UTA,tov,37,False,False,,Gobert Offensive Foul Turnover (P1.T4),36-47,36,47
+0022100653,2022-01-16,DEN,UTA,15.93,2,8,4,DEN,UTA,foul,4,False,False,,Gobert OFF.Foul (P1) (T.Washington),36-47,36,47
+0022100653,2022-01-16,DEN,UTA,16.1,2,7,54,DEN,DEN,fg3_miss,1,False,False,MISS Barton 25' 3PT Jump Shot,,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,16.18,2,7,49,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:2),36-47,36,47
+0022100653,2022-01-16,DEN,UTA,16.32,2,7,41,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 26' 3PT Jump Shot,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,16.35,2,7,39,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:3),,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,16.75,2,7,15,DEN,DEN,fg3_miss,80,False,False,MISS Morris 25' 3PT Step Back Jump Shot,,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,16.8,2,7,12,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:2),36-47,36,47
+0022100653,2022-01-16,DEN,UTA,17.03,2,6,58,UTA,UTA,fg_miss,63,False,False,,MISS Bogdanovic 9' Fadeaway Jumper,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,17.07,2,6,56,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:4),,36-47,36,47
+0022100653,2022-01-16,DEN,UTA,17.18,2,6,49,DEN,DEN,fg_make,101,False,False,Barton 7' Driving Floating Jump Shot (5 PTS) (Jokic 4 AST),,38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.45,2,6,33,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 25' 3PT Jump Shot,38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.53,2,6,28,DEN,DEN,reb,0,False,False,Hyland REBOUND (Off:0 Def:1),,38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.63,2,6,22,UTA,DEN,foul,28,False,False,Hyland Personal Take Foul (P1.T2) (D.Richardson),,38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.63,2,6,22,DEN,DEN,tov,1,False,True,Morris Bad Pass Turnover (P1.T6),,38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.63,2,6,22,DEN,UTA,steal,1,False,True,steal,steal,38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.9,2,6,6,UTA,DEN,steal,2,False,True,steal,steal,38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.9,2,6,6,UTA,UTA,tov,2,False,True,,Gay Lost Ball Turnover (P1.T5),38-47,38,47
+0022100653,2022-01-16,DEN,UTA,17.92,2,6,5,DEN,UTA,foul,28,False,False,,Clarkson Personal Take Foul (P1.T1) (J.Butler),38-47,38,47
+0022100653,2022-01-16,DEN,UTA,18.23,2,5,46,DEN,DEN,fg_make,71,False,False,Jokic 6' Finger Roll Layup (7 PTS),,40-47,40,47
+0022100653,2022-01-16,DEN,UTA,18.73,2,5,16,UTA,UTA,fg_make,63,False,False,,Gay 12' Fadeaway Jumper (2 PTS) (Mitchell 2 AST),40-49,40,49
+0022100653,2022-01-16,DEN,UTA,18.95,2,5,3,DEN,DEN,fg_miss,1,False,False,MISS Jokic 6' Jump Shot,,40-49,40,49
+0022100653,2022-01-16,DEN,UTA,18.97,2,5,2,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:4),,40-49,40,49
+0022100653,2022-01-16,DEN,UTA,19.02,2,4,59,DEN,DEN,fg3_make,1,False,False,Morris 24' 3PT Jump Shot (7 PTS) (Jokic 5 AST),,43-49,43,49
+0022100653,2022-01-16,DEN,UTA,19.3,2,4,42,UTA,DEN,block,6,True,False,block,block,43-49,43,49
+0022100653,2022-01-16,DEN,UTA,19.3,2,4,42,UTA,UTA,fg_miss,6,True,False,,MISS Mitchell 4' Driving Layup,43-49,43,49
+0022100653,2022-01-16,DEN,UTA,19.33,2,4,40,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:5),,43-49,43,49
+0022100653,2022-01-16,DEN,UTA,19.43,2,4,34,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.2 Short 0),45-49,45,49
+0022100653,2022-01-16,DEN,UTA,19.43,2,4,34,DEN,DEN,fg_make,73,False,False,Gordon 2' Driving Reverse Layup (14 PTS) (Jokic 6 AST),,45-49,45,49
+0022100653,2022-01-16,DEN,UTA,19.65,2,4,21,UTA,UTA,reb,1,False,False,,Jazz Rebound,45-49,45,49
+0022100653,2022-01-16,DEN,UTA,19.65,2,4,21,UTA,UTA,ft_miss,11,False,False,,MISS Gobert Free Throw 1 of 2,45-49,45,49
+0022100653,2022-01-16,DEN,UTA,19.65,2,4,21,UTA,DEN,foul,2,False,False,Jokic S.FOUL (P1.T3) (T.Washington),,45-49,45,49
+0022100653,2022-01-16,DEN,UTA,19.65,2,4,21,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (11 PTS),45-50,45,50
+0022100653,2022-01-16,DEN,UTA,19.9,2,4,6,DEN,UTA,foul,2,False,False,,Gobert S.FOUL (P2.T2) (D.Richardson),47-50,47,50
+0022100653,2022-01-16,DEN,UTA,19.9,2,4,6,DEN,DEN,fg_make,6,False,False,Jokic 3' Driving Layup (9 PTS) (Barton 2 AST),,47-50,47,50
+0022100653,2022-01-16,DEN,UTA,19.9,2,4,6,DEN,DEN,ft_make,10,False,False,Jokic Free Throw 1 of 1 (10 PTS),,48-50,48,50
+0022100653,2022-01-16,DEN,UTA,20.13,2,3,52,UTA,UTA,fg_make,101,False,False,,Mitchell 8' Driving Floating Jump Shot (6 PTS) (Bogdanovic 3 AST),48-52,48,52
+0022100653,2022-01-16,DEN,UTA,20.32,2,3,41,DEN,DEN,fg3_make,1,False,False,Jokic 26' 3PT Jump Shot (13 PTS) (Barton 3 AST),,51-52,51,52
+0022100653,2022-01-16,DEN,UTA,20.58,2,3,25,UTA,UTA,fg3_make,1,False,False,,O'Neale 28' 3PT Jump Shot (9 PTS) (Conley 5 AST),51-55,51,55
+0022100653,2022-01-16,DEN,UTA,20.9,2,3,6,DEN,DEN,fg3_miss,1,False,False,MISS Gordon 3PT Jump Shot,,51-55,51,55
+0022100653,2022-01-16,DEN,UTA,20.93,2,3,4,UTA,UTA,reb,0,False,False,,Jazz Rebound,51-55,51,55
+0022100653,2022-01-16,DEN,UTA,21.12,2,2,53,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 27' 3PT Pullup Jump Shot,51-55,51,55
+0022100653,2022-01-16,DEN,UTA,21.18,2,2,49,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:3),,51-55,51,55
+0022100653,2022-01-16,DEN,UTA,21.53,2,2,28,DEN,DEN,fg3_miss,1,False,False,MISS Morris 25' 3PT Jump Shot,,51-55,51,55
+0022100653,2022-01-16,DEN,UTA,21.58,2,2,25,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:5),51-55,51,55
+0022100653,2022-01-16,DEN,UTA,21.72,2,2,17,UTA,DEN,steal,1,False,True,steal,steal,51-55,51,55
+0022100653,2022-01-16,DEN,UTA,21.72,2,2,17,UTA,UTA,tov,1,False,True,,Gobert Bad Pass Turnover (P2.T6),51-55,51,55
+0022100653,2022-01-16,DEN,UTA,21.75,2,2,15,DEN,DEN,fg_make,109,False,False,Gordon 1' Driving Reverse Dunk Shot (16 PTS),,53-55,53,55
+0022100653,2022-01-16,DEN,UTA,22.08,2,1,55,UTA,UTA,fg3_make,79,False,False,,Mitchell 27' 3PT Pullup Jump Shot (9 PTS),53-58,53,58
+0022100653,2022-01-16,DEN,UTA,22.43,2,1,34,DEN,DEN,fg3_miss,79,False,False,MISS Gordon 26' 3PT Pullup Jump Shot,,53-58,53,58
+0022100653,2022-01-16,DEN,UTA,22.48,2,1,31,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:2),53-58,53,58
+0022100653,2022-01-16,DEN,UTA,22.68,2,1,19,UTA,UTA,fg_make,86,False,False,,Bogdanovic 12' Turnaround Fadeaway (11 PTS),53-60,53,60
+0022100653,2022-01-16,DEN,UTA,22.92,2,1,5,DEN,DEN,fg_miss,73,True,False,MISS Gordon 4' Driving Reverse Layup,,53-60,53,60
+0022100653,2022-01-16,DEN,UTA,22.92,2,1,5,DEN,UTA,block,73,True,False,block,block,53-60,53,60
+0022100653,2022-01-16,DEN,UTA,22.95,2,1,3,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:0 Def:2),53-60,53,60
+0022100653,2022-01-16,DEN,UTA,23.02,2,0,59,UTA,UTA,fg3_make,1,False,False,,Mitchell 28' 3PT Jump Shot (12 PTS) (Conley 6 AST),53-63,53,63
+0022100653,2022-01-16,DEN,UTA,23.4,2,0,36,DEN,UTA,foul,2,False,False,,O'Neale S.FOUL (P1.T3) (J.Butler),55-63,55,63
+0022100653,2022-01-16,DEN,UTA,23.4,2,0,36,DEN,DEN,fg_make,58,False,False,Jokic 3' Turnaround Hook Shot (15 PTS) (Gordon 2 AST),,55-63,55,63
+0022100653,2022-01-16,DEN,UTA,23.4,2,0,36,DEN,DEN,ft_make,10,False,False,Jokic Free Throw 1 of 1 (16 PTS),,56-63,56,63
+0022100653,2022-01-16,DEN,UTA,23.45,2,0,33,UTA,UTA,ft_make,14,False,False,,Mitchell Free Throw 2 of 3 (14 PTS),56-65,56,65
+0022100653,2022-01-16,DEN,UTA,23.45,2,0,33,UTA,UTA,ft_make,15,False,False,,Mitchell Free Throw 3 of 3 (15 PTS),56-66,56,66
+0022100653,2022-01-16,DEN,UTA,23.45,2,0,33,UTA,DEN,foul,2,False,False,Gordon S.FOUL (P1.T4) (D.Richardson),,56-63,56,63
+0022100653,2022-01-16,DEN,UTA,23.45,2,0,33,UTA,UTA,ft_make,13,False,False,,Mitchell Free Throw 1 of 3 (13 PTS),56-64,56,64
+0022100653,2022-01-16,DEN,UTA,23.6,2,0,24,DEN,DEN,fg_make,6,False,False,Jokic 3' Driving Layup (18 PTS) (Morris 1 AST),,58-66,58,66
+0022100653,2022-01-16,DEN,UTA,23.88,2,0,7,UTA,UTA,fg_make,79,False,False,,Bogdanovic 12' Pullup Jump Shot (13 PTS) (Mitchell 3 AST),58-68,58,68
+0022100653,2022-01-16,DEN,UTA,23.98,2,0,1,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:6),58-68,58,68
+0022100653,2022-01-16,DEN,UTA,23.98,2,0,1,DEN,DEN,fg_miss,63,False,False,MISS Hyland 10' Fadeaway Jumper,,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.0,3,12,0,UTA,,period_start,0,False,False,,,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.0,2,0,0,UTA,,period_end,0,False,False,,,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.17,3,11,50,UTA,UTA,fg_miss,98,False,False,,MISS Bogdanovic 3' Cutting Layup Shot,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.18,3,11,49,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:6),,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.27,3,11,44,DEN,UTA,block,6,True,False,block,block,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.27,3,11,44,DEN,DEN,fg_miss,6,True,False,MISS Green 6' Driving Layup,,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.27,3,11,44,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.5,3,11,30,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 26' 3PT Jump Shot,,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.5,3,11,30,UTA,UTA,reb,0,False,False,,Jazz Rebound,58-68,58,68
+0022100653,2022-01-16,DEN,UTA,24.7,3,11,18,UTA,UTA,fg3_make,1,False,False,,Conley 27' 3PT Jump Shot (5 PTS) (Mitchell 4 AST),58-71,58,71
+0022100653,2022-01-16,DEN,UTA,25.18,3,10,49,DEN,DEN,fg_miss,58,False,False,MISS Jokic 5' Turnaround Hook Shot,,58-71,58,71
+0022100653,2022-01-16,DEN,UTA,25.18,3,10,49,UTA,UTA,reb,0,False,False,,Jazz Rebound,58-71,58,71
+0022100653,2022-01-16,DEN,UTA,25.18,3,10,49,UTA,DEN,foul,3,False,False,Jokic L.B.FOUL (P2.T1) (J.Butler),,58-71,58,71
+0022100653,2022-01-16,DEN,UTA,25.55,3,10,27,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 26' 3PT Pullup Jump Shot,58-71,58,71
+0022100653,2022-01-16,DEN,UTA,25.6,3,10,24,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:2),,58-71,58,71
+0022100653,2022-01-16,DEN,UTA,25.68,3,10,19,DEN,DEN,fg_make,101,False,False,Morris 3' Driving Floating Jump Shot (9 PTS) (Gordon 3 AST),,60-71,60,71
+0022100653,2022-01-16,DEN,UTA,25.8,3,10,12,UTA,UTA,fg_make,41,False,False,,Mitchell 3' Running Layup (17 PTS),60-73,60,73
+0022100653,2022-01-16,DEN,UTA,26.13,3,9,52,DEN,DEN,fg3_make,1,False,False,Barton 3PT Jump Shot (8 PTS) (Green 1 AST),,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.45,3,9,33,UTA,UTA,fg3_miss,79,False,False,,MISS Conley 25' 3PT Pullup Jump Shot,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.5,3,9,30,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:6),63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.52,3,9,29,UTA,UTA,tov,2,False,True,,Gobert Lost Ball Turnover (P3.T7),63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.52,3,9,29,UTA,DEN,steal,2,False,True,steal,steal,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.53,3,9,28,DEN,UTA,foul,28,False,False,,O'Neale Personal Take Foul (P2.T1) (D.Richardson),63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.73,3,9,16,DEN,DEN,fg3_miss,1,False,False,MISS Gordon 26' 3PT Jump Shot,,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.75,3,9,15,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:7),63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.87,3,9,8,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 15' Pullup Jump Shot,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,26.92,3,9,5,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:4),,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,27.07,3,8,56,DEN,UTA,block,58,True,False,block,block,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,27.07,3,8,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,27.07,3,8,56,DEN,DEN,fg_miss,58,True,False,MISS Jokic 6' Turnaround Hook Shot,,63-73,63,73
+0022100653,2022-01-16,DEN,UTA,27.15,3,8,51,DEN,UTA,foul,1,False,False,,O'Neale P.FOUL (P3.T2) (T.Washington),63-73,63,73
+0022100653,2022-01-16,DEN,UTA,27.2,3,8,48,DEN,DEN,fg_make,5,False,False,Green 2' Layup (4 PTS) (Barton 4 AST),,65-73,65,73
+0022100653,2022-01-16,DEN,UTA,27.35,3,8,39,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 8' Pullup Jump Shot,65-73,65,73
+0022100653,2022-01-16,DEN,UTA,27.43,3,8,34,UTA,UTA,fg_make,72,False,False,,Mitchell Putback Layup (19 PTS),65-75,65,75
+0022100653,2022-01-16,DEN,UTA,27.43,3,8,34,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:1 Def:2),65-73,65,73
+0022100653,2022-01-16,DEN,UTA,27.57,3,8,26,DEN,DEN,fg3_miss,1,False,False,MISS Barton 3PT Jump Shot,,65-75,65,75
+0022100653,2022-01-16,DEN,UTA,27.62,3,8,23,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:0 Def:3),65-75,65,75
+0022100653,2022-01-16,DEN,UTA,27.92,3,8,5,UTA,UTA,tov,1,False,True,,Conley Bad Pass Turnover (P3.T8),65-75,65,75
+0022100653,2022-01-16,DEN,UTA,27.92,3,8,5,UTA,DEN,steal,1,False,True,steal,steal,65-75,65,75
+0022100653,2022-01-16,DEN,UTA,28.02,3,7,59,DEN,DEN,fg_make,78,False,False,Jokic 6' Floating Jump Shot (20 PTS) (Gordon 4 AST),,67-75,67,75
+0022100653,2022-01-16,DEN,UTA,28.03,3,7,58,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.3 Short 0),67-75,67,75
+0022100653,2022-01-16,DEN,UTA,28.25,3,7,45,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 25' 3PT Jump Shot,67-75,67,75
+0022100653,2022-01-16,DEN,UTA,28.3,3,7,42,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:7),,67-75,67,75
+0022100653,2022-01-16,DEN,UTA,28.57,3,7,26,DEN,DEN,fg_make,1,False,False,Morris 21' Jump Shot (11 PTS) (Jokic 7 AST),,69-75,69,75
+0022100653,2022-01-16,DEN,UTA,28.73,3,7,16,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 25' 3PT Jump Shot,69-75,69,75
+0022100653,2022-01-16,DEN,UTA,28.78,3,7,13,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:8),,69-75,69,75
+0022100653,2022-01-16,DEN,UTA,28.88,3,7,7,DEN,DEN,fg_make,7,False,False,Gordon 2' Dunk (18 PTS) (Jokic 8 AST),,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.2,3,6,48,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 26' 3PT Jump Shot,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.27,3,6,44,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:5),,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.4,3,6,36,DEN,DEN,fg3_miss,1,False,False,MISS Morris 3PT Jump Shot,,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.47,3,6,32,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:8),71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.62,3,6,23,UTA,DEN,foul,1,False,False,Green P.FOUL (P1.T2) (T.Washington),,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.78,3,6,13,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 25' 3PT Pullup Jump Shot,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.82,3,6,11,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:6),,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,29.97,3,6,2,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 26' 3PT Jump Shot,,71-75,71,75
+0022100653,2022-01-16,DEN,UTA,30.03,3,5,58,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:3),71-75,71,75
+0022100653,2022-01-16,DEN,UTA,30.17,3,5,50,UTA,UTA,fg_make,75,False,False,,Bogdanovic 2' Driving Finger Roll Layup (15 PTS),71-77,71,77
+0022100653,2022-01-16,DEN,UTA,30.42,3,5,35,DEN,DEN,ft_make,10,False,False,Barton Free Throw 1 of 1 (11 PTS),,74-77,74,77
+0022100653,2022-01-16,DEN,UTA,30.42,3,5,35,DEN,UTA,foul,2,False,False,,Mitchell S.FOUL (P2.T3) (T.Washington),73-77,73,77
+0022100653,2022-01-16,DEN,UTA,30.42,3,5,35,DEN,DEN,fg_make,101,False,False,Barton 6' Driving Floating Jump Shot (10 PTS) (Jokic 9 AST),,73-77,73,77
+0022100653,2022-01-16,DEN,UTA,30.8,3,5,12,UTA,UTA,fg_make,86,False,False,,Bogdanovic 15' Turnaround Fadeaway (17 PTS),74-79,74,79
+0022100653,2022-01-16,DEN,UTA,31.23,3,4,46,DEN,DEN,fg_make,6,False,False,Barton 3' Driving Layup (13 PTS) (Gordon 5 AST),,76-79,76,79
+0022100653,2022-01-16,DEN,UTA,31.58,3,4,25,UTA,UTA,ft_miss,12,False,False,,MISS Bogdanovic Free Throw 2 of 2,76-80,76,80
+0022100653,2022-01-16,DEN,UTA,31.58,3,4,25,UTA,UTA,ft_make,11,False,False,,Bogdanovic Free Throw 1 of 2 (18 PTS),76-80,76,80
+0022100653,2022-01-16,DEN,UTA,31.58,3,4,25,UTA,DEN,foul,2,False,False,Hyland S.FOUL (P2.T3) (D.Richardson),,76-79,76,79
+0022100653,2022-01-16,DEN,UTA,31.63,3,4,22,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:9),,76-80,76,80
+0022100653,2022-01-16,DEN,UTA,31.8,3,4,12,DEN,UTA,steal,1,False,True,steal,steal,76-80,76,80
+0022100653,2022-01-16,DEN,UTA,31.8,3,4,12,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P2.T7),,76-80,76,80
+0022100653,2022-01-16,DEN,UTA,32.0,3,4,0,UTA,UTA,fg_miss,86,False,False,,MISS Gay 11' Turnaround Fadeaway Shot,76-80,76,80
+0022100653,2022-01-16,DEN,UTA,32.05,3,3,57,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:3),,76-80,76,80
+0022100653,2022-01-16,DEN,UTA,32.12,3,3,53,DEN,DEN,fg3_miss,1,False,False,MISS Campazzo 3PT Jump Shot,,76-80,76,80
+0022100653,2022-01-16,DEN,UTA,32.2,3,3,48,DEN,DEN,fg_make,97,False,False,Gordon Tip Layup Shot (20 PTS),,78-80,78,80
+0022100653,2022-01-16,DEN,UTA,32.2,3,3,48,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:3),,78-80,78,80
+0022100653,2022-01-16,DEN,UTA,32.4,3,3,36,UTA,UTA,fg_miss,75,False,False,,MISS Bogdanovic 3' Driving Finger Roll Layup,78-80,78,80
+0022100653,2022-01-16,DEN,UTA,32.43,3,3,34,DEN,DEN,reb,0,False,False,Hyland REBOUND (Off:0 Def:2),,78-80,78,80
+0022100653,2022-01-16,DEN,UTA,32.55,3,3,27,DEN,DEN,fg_make,6,False,False,Barton 3' Driving Layup (15 PTS) (Hyland 3 AST),,80-80,80,80
+0022100653,2022-01-16,DEN,UTA,32.55,3,3,27,DEN,UTA,foul,2,False,False,,Gay S.FOUL (P2.T4) (D.Richardson),80-80,80,80
+0022100653,2022-01-16,DEN,UTA,32.55,3,3,27,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),80-80,80,80
+0022100653,2022-01-16,DEN,UTA,32.55,3,3,27,UTA,DEN,ft_make,10,False,False,Barton Free Throw 1 of 1 (16 PTS),,81-80,81,80
+0022100653,2022-01-16,DEN,UTA,32.83,3,3,10,UTA,UTA,fg_miss,47,False,False,,MISS Mitchell 9' Turnaround Jump Shot,81-80,81,80
+0022100653,2022-01-16,DEN,UTA,32.88,3,3,7,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:8),81-80,81,80
+0022100653,2022-01-16,DEN,UTA,32.88,3,3,7,UTA,DEN,foul,2,False,False,Jokic S.FOUL (P3.T4) (T.Washington),,81-80,81,80
+0022100653,2022-01-16,DEN,UTA,32.88,3,3,7,UTA,UTA,ft_miss,11,False,False,,MISS Gobert Free Throw 1 of 2,81-80,81,80
+0022100653,2022-01-16,DEN,UTA,32.88,3,3,7,UTA,UTA,reb,1,False,False,,Jazz Rebound,81-80,81,80
+0022100653,2022-01-16,DEN,UTA,32.88,3,3,7,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (12 PTS),81-81,81,81
+0022100653,2022-01-16,DEN,UTA,33.1,3,2,54,DEN,DEN,fg3_make,1,False,False,Jokic 25' 3PT Jump Shot (23 PTS) (Reed 1 AST),,84-81,84,81
+0022100653,2022-01-16,DEN,UTA,33.32,3,2,41,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 26' 3PT Pullup Jump Shot,84-81,84,81
+0022100653,2022-01-16,DEN,UTA,33.37,3,2,38,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:1),,84-81,84,81
+0022100653,2022-01-16,DEN,UTA,33.5,3,2,30,DEN,DEN,fg_miss,6,False,False,MISS Barton 4' Driving Layup,,84-81,84,81
+0022100653,2022-01-16,DEN,UTA,33.53,3,2,28,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:1 Def:3),84-81,84,81
+0022100653,2022-01-16,DEN,UTA,33.65,3,2,21,UTA,UTA,fg3_make,1,False,False,,Gay 27' 3PT Jump Shot (5 PTS) (Ingles 3 AST),84-84,84,84
+0022100653,2022-01-16,DEN,UTA,34.03,3,1,58,DEN,DEN,fg_make,98,False,False,Hyland 3' Cutting Layup Shot (8 PTS) (Jokic 10 AST),,86-84,86,84
+0022100653,2022-01-16,DEN,UTA,34.33,3,1,40,UTA,UTA,fg3_make,1,False,False,,Ingles 3PT Jump Shot (3 PTS) (Clarkson 2 AST),86-87,86,87
+0022100653,2022-01-16,DEN,UTA,34.65,3,1,21,DEN,DEN,fg_make,79,False,False,Reed 17' Pullup Jump Shot (2 PTS) (Jokic 11 AST),,88-87,88,87
+0022100653,2022-01-16,DEN,UTA,34.83,3,1,10,UTA,UTA,fg_make,41,False,False,,Mitchell 3' Running Layup (21 PTS),88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.03,3,0,58,DEN,DEN,fg3_miss,1,False,False,MISS Campazzo 24' 3PT Jump Shot,,88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.08,3,0,55,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:9),88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.3,3,0,42,UTA,DEN,block,6,True,False,block,block,88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.3,3,0,42,UTA,UTA,fg_miss,6,True,False,,MISS Ingles 3' Driving Layup,88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.33,3,0,40,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:10),,88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.38,3,0,37,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 24' 3PT Jump Shot,,88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.45,3,0,33,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:1 Def:4),88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.72,3,0,17,UTA,DEN,foul,1,False,False,Campazzo P.FOUL (P2.PN) (J.Butler),,88-89,88,89
+0022100653,2022-01-16,DEN,UTA,35.72,3,0,17,UTA,UTA,ft_make,11,False,False,,Mitchell Free Throw 1 of 2 (22 PTS),88-90,88,90
+0022100653,2022-01-16,DEN,UTA,35.72,3,0,17,UTA,UTA,ft_make,12,False,False,,Mitchell Free Throw 2 of 2 (23 PTS),88-91,88,91
+0022100653,2022-01-16,DEN,UTA,35.98,3,0,1,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:3),88-91,88,91
+0022100653,2022-01-16,DEN,UTA,35.98,3,0,1,DEN,DEN,fg3_miss,80,False,False,MISS Barton 26' 3PT Step Back Jump Shot,,88-91,88,91
+0022100653,2022-01-16,DEN,UTA,36.0,4,12,0,UTA,,period_start,0,False,False,,,88-91,88,91
+0022100653,2022-01-16,DEN,UTA,36.0,3,0,0,UTA,,period_end,0,False,False,,,88-91,88,91
+0022100653,2022-01-16,DEN,UTA,36.23,4,11,46,DEN,DEN,fg_miss,79,False,False,MISS Reed 17' Pullup Jump Shot,,88-91,88,91
+0022100653,2022-01-16,DEN,UTA,36.3,4,11,42,UTA,UTA,reb,0,False,False,,Paschall REBOUND (Off:0 Def:1),88-91,88,91
+0022100653,2022-01-16,DEN,UTA,36.6,4,11,24,UTA,UTA,fg_make,6,False,False,,Paschall 3' Driving Layup (6 PTS) (Clarkson 3 AST),88-93,88,93
+0022100653,2022-01-16,DEN,UTA,36.6,4,11,24,UTA,DEN,foul,2,False,False,Nnaji S.FOUL (P2.T1) (T.Washington),,88-93,88,93
+0022100653,2022-01-16,DEN,UTA,36.6,4,11,24,UTA,UTA,ft_make,10,False,False,,Paschall Free Throw 1 of 1 (7 PTS),88-94,88,94
+0022100653,2022-01-16,DEN,UTA,36.8,4,11,12,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 25' 3PT Jump Shot,,88-94,88,94
+0022100653,2022-01-16,DEN,UTA,36.83,4,11,10,UTA,UTA,reb,0,False,False,,Jazz Rebound,88-94,88,94
+0022100653,2022-01-16,DEN,UTA,36.83,4,11,10,UTA,DEN,foul,3,False,False,Campazzo L.B.FOUL (P3.T2) (J.Butler),,88-94,88,94
+0022100653,2022-01-16,DEN,UTA,37.0,4,11,0,UTA,UTA,fg3_make,1,False,False,,Conley 25' 3PT Jump Shot (8 PTS) (Ingles 4 AST),88-97,88,97
+0022100653,2022-01-16,DEN,UTA,37.03,4,10,58,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 3 Short 0),,88-97,88,97
+0022100653,2022-01-16,DEN,UTA,37.38,4,10,37,DEN,DEN,tov,45,False,False,Hyland Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,88-97,88,97
+0022100653,2022-01-16,DEN,UTA,37.55,4,10,27,UTA,DEN,foul,1,False,False,Nnaji P.FOUL (P3.T3) (T.Washington),,88-97,88,97
+0022100653,2022-01-16,DEN,UTA,37.67,4,10,20,UTA,UTA,fg_make,98,False,False,,Gobert 2' Cutting Layup Shot (14 PTS) (Ingles 5 AST),88-99,88,99
+0022100653,2022-01-16,DEN,UTA,37.67,4,10,20,UTA,DEN,foul,2,False,False,Reed S.FOUL (P2.T4) (D.Richardson),,88-99,88,99
+0022100653,2022-01-16,DEN,UTA,37.67,4,10,20,UTA,UTA,ft_make,10,False,False,,Gobert Free Throw 1 of 1 (15 PTS),88-100,88,100
+0022100653,2022-01-16,DEN,UTA,37.97,4,10,2,DEN,DEN,fg_miss,6,True,False,MISS Green 4' Driving Layup,,88-100,88,100
+0022100653,2022-01-16,DEN,UTA,37.97,4,10,2,DEN,UTA,block,6,True,False,block,block,88-100,88,100
+0022100653,2022-01-16,DEN,UTA,38.03,4,9,58,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:4),88-100,88,100
+0022100653,2022-01-16,DEN,UTA,38.03,4,9,58,UTA,UTA,ft_make,12,False,False,,Clarkson Free Throw 2 of 2 (14 PTS),88-102,88,102
+0022100653,2022-01-16,DEN,UTA,38.03,4,9,58,UTA,DEN,foul,28,False,False,Campazzo Personal Take Foul (P4.PN) (T.Washington),,88-100,88,100
+0022100653,2022-01-16,DEN,UTA,38.03,4,9,58,UTA,UTA,ft_make,11,False,False,,Clarkson Free Throw 1 of 2 (13 PTS),88-101,88,101
+0022100653,2022-01-16,DEN,UTA,38.2,4,9,48,DEN,UTA,foul,1,False,False,,Paschall P.FOUL (P1.T1) (T.Washington),88-102,88,102
+0022100653,2022-01-16,DEN,UTA,38.35,4,9,39,DEN,DEN,fg_miss,80,False,False,MISS Gordon 21' Step Back Jump Shot,,88-102,88,102
+0022100653,2022-01-16,DEN,UTA,38.42,4,9,35,UTA,UTA,reb,0,False,False,,Gay REBOUND (Off:0 Def:1),88-102,88,102
+0022100653,2022-01-16,DEN,UTA,38.63,4,9,22,UTA,UTA,fg_miss,6,False,False,,MISS Gay 4' Driving Layup,88-102,88,102
+0022100653,2022-01-16,DEN,UTA,38.67,4,9,20,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:4),,88-102,88,102
+0022100653,2022-01-16,DEN,UTA,38.7,4,9,18,DEN,UTA,foul,28,False,False,,Ingles Personal Take Foul (P1.T2) (J.Butler),88-102,88,102
+0022100653,2022-01-16,DEN,UTA,38.83,4,9,10,DEN,DEN,fg_make,1,False,False,Jokic 19' Jump Shot (25 PTS) (Morris 2 AST),,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.05,4,8,57,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 25' 3PT Jump Shot,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.07,4,8,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.43,4,8,34,DEN,DEN,fg_miss,6,False,False,MISS Jokic 4' Driving Layup,,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.47,4,8,32,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:10),,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.47,4,8,32,DEN,UTA,foul,1,False,False,,Gay P.FOUL (P3.T3) (J.Butler),90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.62,4,8,23,DEN,DEN,fg3_miss,1,False,False,MISS Morris 3PT Jump Shot,,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.65,4,8,21,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:10),90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.8,4,8,12,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 25' 3PT Pullup Jump Shot,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.87,4,8,8,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:2),,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,39.97,4,8,2,DEN,DEN,fg_miss,101,False,False,MISS Barton 7' Driving Floating Jump Shot,,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,40.0,4,8,0,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:4),90-102,90,102
+0022100653,2022-01-16,DEN,UTA,40.07,4,7,56,UTA,DEN,foul,2,False,False,Jokic S.FOUL (P4.PN) (J.Butler),,90-102,90,102
+0022100653,2022-01-16,DEN,UTA,40.07,4,7,56,UTA,UTA,ft_miss,12,False,False,,MISS Gobert Free Throw 2 of 2,90-103,90,103
+0022100653,2022-01-16,DEN,UTA,40.07,4,7,56,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (16 PTS),90-103,90,103
+0022100653,2022-01-16,DEN,UTA,40.1,4,7,54,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:11),,90-103,90,103
+0022100653,2022-01-16,DEN,UTA,40.33,4,7,40,DEN,DEN,fg3_make,1,False,False,Hyland 26' 3PT Jump Shot (11 PTS) (Jokic 12 AST),,93-103,93,103
+0022100653,2022-01-16,DEN,UTA,40.62,4,7,23,UTA,UTA,fg_make,101,False,False,,Mitchell 9' Driving Floating Jump Shot (25 PTS) (O'Neale 1 AST),93-105,93,105
+0022100653,2022-01-16,DEN,UTA,40.78,4,7,13,DEN,DEN,fg3_miss,1,False,False,MISS Morris 3PT Jump Shot,,93-105,93,105
+0022100653,2022-01-16,DEN,UTA,40.83,4,7,10,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:11),93-105,93,105
+0022100653,2022-01-16,DEN,UTA,41.15,4,6,51,UTA,UTA,fg3_make,79,False,False,,Mitchell 27' 3PT Pullup Jump Shot (28 PTS),93-108,93,108
+0022100653,2022-01-16,DEN,UTA,41.3,4,6,42,DEN,DEN,fg_make,103,False,False,Hyland 3' Running Pull-Up Jump Shot (13 PTS) (Jokic 13 AST),,95-108,95,108
+0022100653,2022-01-16,DEN,UTA,41.65,4,6,21,UTA,DEN,foul,1,False,False,Jokic P.FOUL (P5.PN) (T.Washington),,95-108,95,108
+0022100653,2022-01-16,DEN,UTA,41.65,4,6,21,UTA,UTA,ft_miss,11,False,False,,MISS Bogdanovic Free Throw 1 of 2,95-108,95,108
+0022100653,2022-01-16,DEN,UTA,41.65,4,6,21,UTA,UTA,reb,1,False,False,,Jazz Rebound,95-108,95,108
+0022100653,2022-01-16,DEN,UTA,41.65,4,6,21,UTA,UTA,ft_make,12,False,False,,Bogdanovic Free Throw 2 of 2 (19 PTS),95-109,95,109
+0022100653,2022-01-16,DEN,UTA,41.95,4,6,3,DEN,DEN,fg_miss,3,False,False,MISS Jokic 4' Hook Shot,,95-109,95,109
+0022100653,2022-01-16,DEN,UTA,41.97,4,6,2,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:12),95-109,95,109
+0022100653,2022-01-16,DEN,UTA,42.05,4,5,57,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 29' 3PT Jump Shot,95-109,95,109
+0022100653,2022-01-16,DEN,UTA,42.12,4,5,53,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:6 Def:12),95-109,95,109
+0022100653,2022-01-16,DEN,UTA,42.15,4,5,51,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 4 Short 0),,95-111,95,111
+0022100653,2022-01-16,DEN,UTA,42.15,4,5,51,UTA,UTA,fg_make,44,False,False,,O'Neale 3' Reverse Layup (11 PTS) (Gobert 1 AST),95-111,95,111
+0022100653,2022-01-16,DEN,UTA,42.52,4,5,29,DEN,DEN,fg3_miss,1,False,False,MISS Morris 24' 3PT Jump Shot,,95-111,95,111
+0022100653,2022-01-16,DEN,UTA,42.57,4,5,26,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:11),,95-111,95,111
+0022100653,2022-01-16,DEN,UTA,42.63,4,5,22,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 27' 3PT Jump Shot,,95-111,95,111
+0022100653,2022-01-16,DEN,UTA,42.7,4,5,18,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:3),95-111,95,111
+0022100653,2022-01-16,DEN,UTA,42.73,4,5,16,UTA,UTA,fg_make,50,False,False,,Clarkson 1' Running Dunk (16 PTS) (Bogdanovic 4 AST),95-113,95,113
+0022100653,2022-01-16,DEN,UTA,43.08,4,4,55,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:5),95-113,95,113
+0022100653,2022-01-16,DEN,UTA,43.08,4,4,55,DEN,DEN,fg_miss,101,False,False,MISS Barton 7' Driving Floating Jump Shot,,95-113,95,113
+0022100653,2022-01-16,DEN,UTA,43.17,4,4,50,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 3PT Jump Shot,95-113,95,113
+0022100653,2022-01-16,DEN,UTA,43.22,4,4,47,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:5),,95-113,95,113
+0022100653,2022-01-16,DEN,UTA,43.28,4,4,43,DEN,DEN,fg_make,76,False,False,Morris 2' Running Finger Roll Layup (13 PTS) (Gordon 6 AST),,97-113,97,113
+0022100653,2022-01-16,DEN,UTA,43.67,4,4,20,UTA,UTA,fg3_make,1,False,False,,Mitchell 3PT Jump Shot (31 PTS) (Gobert 2 AST),97-116,97,116
+0022100653,2022-01-16,DEN,UTA,43.7,4,4,18,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 5 Short 0),,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.0,4,4,0,DEN,UTA,steal,1,False,True,steal,steal,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.0,4,4,0,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P3.T9),,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.05,4,3,57,UTA,DEN,foul,2,False,False,Hyland S.FOUL (P3.PN) (D.Richardson),,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.05,4,3,57,UTA,UTA,ft_miss,11,False,False,,MISS Mitchell Free Throw 1 of 2,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.05,4,3,57,UTA,UTA,reb,1,False,False,,Jazz Rebound,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.05,4,3,57,UTA,UTA,ft_miss,12,False,False,,MISS Mitchell Free Throw 2 of 2,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.08,4,3,55,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:12),,97-116,97,116
+0022100653,2022-01-16,DEN,UTA,44.17,4,3,50,DEN,DEN,fg3_make,1,False,False,Reed 3PT Jump Shot (5 PTS) (Jokic 14 AST),,100-116,100,116
+0022100653,2022-01-16,DEN,UTA,44.48,4,3,31,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 25' 3PT Pullup Jump Shot,100-116,100,116
+0022100653,2022-01-16,DEN,UTA,44.57,4,3,26,UTA,UTA,fg_make,97,False,False,,Gobert Tip Layup Shot (18 PTS),100-118,100,118
+0022100653,2022-01-16,DEN,UTA,44.57,4,3,26,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:7 Def:12),100-118,100,118
+0022100653,2022-01-16,DEN,UTA,44.82,4,3,11,DEN,DEN,fg3_miss,80,False,False,MISS Campazzo 26' 3PT Step Back Jump Shot,,100-118,100,118
+0022100653,2022-01-16,DEN,UTA,44.88,4,3,7,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:3),100-118,100,118
+0022100653,2022-01-16,DEN,UTA,45.22,4,2,47,UTA,DEN,foul,2,False,False,Campazzo S.FOUL (P5.PN) (J.Butler),,100-118,100,118
+0022100653,2022-01-16,DEN,UTA,45.22,4,2,47,UTA,UTA,ft_make,11,False,False,,Bogdanovic Free Throw 1 of 2 (20 PTS),100-119,100,119
+0022100653,2022-01-16,DEN,UTA,45.22,4,2,47,UTA,UTA,ft_make,12,False,False,,Bogdanovic Free Throw 2 of 2 (21 PTS),100-120,100,120
+0022100653,2022-01-16,DEN,UTA,45.38,4,2,37,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 26' 3PT Jump Shot,,100-120,100,120
+0022100653,2022-01-16,DEN,UTA,45.42,4,2,35,UTA,UTA,reb,0,False,False,,Forrest REBOUND (Off:0 Def:2),100-120,100,120
+0022100653,2022-01-16,DEN,UTA,45.65,4,2,21,UTA,UTA,fg3_make,1,False,False,,Paschall 26' 3PT Jump Shot (10 PTS) (Bogdanovic 5 AST),100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.0,4,2,0,DEN,DEN,fg3_miss,80,False,False,MISS Hyland 27' 3PT Step Back Jump Shot,,100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.05,4,1,57,UTA,UTA,reb,0,False,False,,Gay REBOUND (Off:0 Def:2),100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.37,4,1,38,UTA,UTA,tov,40,False,False,,Bogdanovic Out of Bounds Lost Ball Turnover (P1.T9),100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.58,4,1,25,DEN,DEN,fg_miss,6,True,False,MISS Ennis III 3' Driving Layup,,100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.58,4,1,25,DEN,UTA,block,6,True,False,block,block,100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.63,4,1,22,UTA,UTA,reb,0,False,False,,Forrest REBOUND (Off:0 Def:3),100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.82,4,1,11,UTA,UTA,fg_miss,47,False,False,,MISS Gay 15' Turnaround Jump Shot,100-123,100,123
+0022100653,2022-01-16,DEN,UTA,46.88,4,1,7,DEN,DEN,reb,0,False,False,Nnaji REBOUND (Off:0 Def:2),,100-123,100,123
+0022100653,2022-01-16,DEN,UTA,47.05,4,0,57,DEN,DEN,fg3_miss,1,False,False,MISS Campazzo 24' 3PT Jump Shot,,100-123,100,123
+0022100653,2022-01-16,DEN,UTA,47.1,4,0,54,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:6),100-123,100,123
+0022100653,2022-01-16,DEN,UTA,47.42,4,0,35,UTA,UTA,ft_make,11,False,False,,Gay Free Throw 1 of 2 (6 PTS),100-124,100,124
+0022100653,2022-01-16,DEN,UTA,47.42,4,0,35,UTA,DEN,foul,1,False,False,Hyland P.FOUL (P4.PN) (J.Butler),,100-123,100,123
+0022100653,2022-01-16,DEN,UTA,47.42,4,0,35,UTA,,foul,16,False,False,,,100-124,100,124
+0022100653,2022-01-16,DEN,UTA,47.42,4,0,35,UTA,UTA,ft_make,12,False,False,,Gay Free Throw 2 of 2 (7 PTS),100-125,100,125
+0022100653,2022-01-16,DEN,UTA,47.63,4,0,22,DEN,DEN,fg_make,6,False,False,Ennis III 2' Driving Layup (2 PTS),,102-125,102,125
+0022100653,2022-01-16,DEN,UTA,47.63,4,0,22,DEN,UTA,foul,2,False,False,,Forrest S.FOUL (P1.T4) (T.Washington),102-125,102,125
+0022100653,2022-01-16,DEN,UTA,47.63,4,0,22,DEN,DEN,ft_miss,10,False,False,MISS Ennis III Free Throw 1 of 1,,102-125,102,125
+0022100653,2022-01-16,DEN,UTA,47.67,4,0,20,UTA,UTA,reb,0,False,False,,Valentine REBOUND (Off:0 Def:1),102-125,102,125
+0022100653,2022-01-16,DEN,UTA,48.0,4,0,0,UTA,,period_end,0,False,False,,,102-125,102,125

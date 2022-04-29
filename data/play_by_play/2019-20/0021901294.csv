@@ -1,0 +1,494 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021901294,2020-08-10,MIL,TOR,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021901294,2020-08-10,MIL,TOR,0.0,1,12,0,,MIL,jump_ball,0,False,False,Jump Ball Lopez vs. Gasol: Tip to Powell,,0-0,0,0
+0021901294,2020-08-10,MIL,TOR,0.28,1,11,43,TOR,TOR,fg_make,98,False,False,,Davis 1' Cutting Layup Shot (2 PTS) (Gasol 1 AST),0-2,0,2
+0021901294,2020-08-10,MIL,TOR,0.47,1,11,32,MIL,MIL,tov,45,False,False,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,0-2,0,2
+0021901294,2020-08-10,MIL,TOR,0.68,1,11,19,TOR,TOR,fg3_miss,1,False,False,,MISS Gasol 26' 3PT Jump Shot,0-2,0,2
+0021901294,2020-08-10,MIL,TOR,0.75,1,11,15,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:1 Def:0),0-2,0,2
+0021901294,2020-08-10,MIL,TOR,0.75,1,11,15,TOR,MIL,foul,2,False,False,Bledsoe S.FOUL (P1.T1) (M.Ayotte),,0-2,0,2
+0021901294,2020-08-10,MIL,TOR,0.75,1,11,15,TOR,TOR,ft_make,11,False,False,,Anunoby Free Throw 1 of 2 (1 PTS),0-3,0,3
+0021901294,2020-08-10,MIL,TOR,0.75,1,11,15,TOR,TOR,ft_make,12,False,False,,Anunoby Free Throw 2 of 2 (2 PTS),0-4,0,4
+0021901294,2020-08-10,MIL,TOR,0.95,1,11,3,MIL,TOR,foul,1,False,False,,Gasol P.FOUL (P1.T1) (S.Foster),0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.13,1,10,52,MIL,MIL,fg3_miss,1,False,False,MISS Matthews 25' 3PT Jump Shot,,0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.18,1,10,49,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:1),0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.4,1,10,36,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 26' 3PT Jump Shot,0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.45,1,10,33,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:1),,0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.55,1,10,27,MIL,MIL,fg_miss,6,False,False,MISS Middleton 4' Driving Layup,,0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.57,1,10,26,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:0),,0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.57,1,10,26,MIL,TOR,foul,2,False,False,,Davis S.FOUL (P1.T2) (M.Ayotte),0-4,0,4
+0021901294,2020-08-10,MIL,TOR,1.57,1,10,26,MIL,MIL,ft_make,11,False,False,Connaughton Free Throw 1 of 2 (1 PTS),,1-4,1,4
+0021901294,2020-08-10,MIL,TOR,1.57,1,10,26,MIL,MIL,ft_make,12,False,False,Connaughton Free Throw 2 of 2 (2 PTS),,2-4,2,4
+0021901294,2020-08-10,MIL,TOR,1.82,1,10,11,TOR,TOR,fg3_miss,1,False,False,,MISS Anunoby 26' 3PT Jump Shot,2-4,2,4
+0021901294,2020-08-10,MIL,TOR,1.88,1,10,7,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:1),,2-4,2,4
+0021901294,2020-08-10,MIL,TOR,2.1,1,9,54,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 26' 3PT Jump Shot,,2-4,2,4
+0021901294,2020-08-10,MIL,TOR,2.13,1,9,52,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:2),2-4,2,4
+0021901294,2020-08-10,MIL,TOR,2.32,1,9,41,TOR,TOR,tov,45,False,False,,Gasol Out of Bounds - Bad Pass Turnover Turnover (P1.T1),2-4,2,4
+0021901294,2020-08-10,MIL,TOR,2.53,1,9,28,MIL,MIL,fg3_make,1,False,False,Lopez 24' 3PT Jump Shot (3 PTS) (Connaughton 1 AST),,5-4,5,4
+0021901294,2020-08-10,MIL,TOR,2.72,1,9,17,TOR,TOR,fg3_miss,1,False,False,,MISS Gasol 26' 3PT Jump Shot,5-4,5,4
+0021901294,2020-08-10,MIL,TOR,2.77,1,9,14,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:2),,5-4,5,4
+0021901294,2020-08-10,MIL,TOR,2.88,1,9,7,MIL,MIL,fg3_make,1,False,False,Connaughton 26' 3PT Jump Shot (5 PTS) (Bledsoe 1 AST),,8-4,8,4
+0021901294,2020-08-10,MIL,TOR,3.12,1,8,53,TOR,TOR,fg_make,79,False,False,,Siakam 23' Pullup Jump Shot (2 PTS),8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.38,1,8,37,MIL,MIL,fg3_miss,1,False,False,MISS Bledsoe 27' 3PT Jump Shot,,8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.43,1,8,34,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.5,1,8,30,TOR,TOR,fg3_miss,79,False,False,,MISS Siakam 27' 3PT Pullup Jump Shot,8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.58,1,8,25,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:1),,8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.62,1,8,23,MIL,TOR,foul,1,False,False,,Davis P.FOUL (P2.T3) (S.Foster),8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.72,1,8,17,MIL,MIL,fg_miss,86,False,False,MISS Lopez 14' Turnaround Fadeaway Shot,,8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.77,1,8,14,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:3),8-6,8,6
+0021901294,2020-08-10,MIL,TOR,3.9,1,8,6,TOR,TOR,fg_make,79,False,False,,Thomas 20' Pullup Jump Shot (2 PTS) (Gasol 2 AST),8-8,8,8
+0021901294,2020-08-10,MIL,TOR,4.1,1,7,54,MIL,MIL,fg3_make,1,False,False,Connaughton 28' 3PT Jump Shot (8 PTS) (Middleton 1 AST),,11-8,11,8
+0021901294,2020-08-10,MIL,TOR,4.3,1,7,42,TOR,TOR,fg3_make,79,False,False,,Powell 27' 3PT Pullup Jump Shot (3 PTS) (Gasol 3 AST),11-11,11,11
+0021901294,2020-08-10,MIL,TOR,4.53,1,7,28,MIL,MIL,fg_make,9,False,False,Connaughton 2' Driving Dunk (10 PTS) (Bledsoe 2 AST),,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,4.72,1,7,17,TOR,TOR,fg3_miss,1,False,False,,MISS Gasol 3PT Jump Shot,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,4.78,1,7,13,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:1),,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,4.93,1,7,4,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.08,1,6,55,MIL,MIL,fg3_miss,1,False,False,MISS G. Hill 24' 3PT Jump Shot,,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.12,1,6,53,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:0 Def:1),13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.2,1,6,48,TOR,TOR,fg3_miss,1,False,False,,MISS Thomas 25' 3PT Jump Shot,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.22,1,6,47,TOR,TOR,reb,0,False,False,,Raptors Rebound,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.27,1,6,44,TOR,TOR,fg3_miss,1,False,False,,MISS Thomas 27' 3PT Jump Shot,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.33,1,6,40,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:2),,13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.52,1,6,29,MIL,TOR,foul,2,False,False,,Gasol S.FOUL (P2.T4) (S.Foster),13-11,13,11
+0021901294,2020-08-10,MIL,TOR,5.52,1,6,29,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (1 PTS),,14-11,14,11
+0021901294,2020-08-10,MIL,TOR,5.52,1,6,29,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (2 PTS),,15-11,15,11
+0021901294,2020-08-10,MIL,TOR,5.7,1,6,18,TOR,TOR,fg_make,101,False,False,,Powell 9' Driving Floating Jump Shot (5 PTS),15-13,15,13
+0021901294,2020-08-10,MIL,TOR,5.93,1,6,4,MIL,MIL,tov,45,False,False,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,15-13,15,13
+0021901294,2020-08-10,MIL,TOR,6.17,1,5,50,TOR,TOR,fg3_miss,79,False,False,,MISS Siakam 27' 3PT Pullup Jump Shot,15-13,15,13
+0021901294,2020-08-10,MIL,TOR,6.22,1,5,47,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:2),,15-13,15,13
+0021901294,2020-08-10,MIL,TOR,6.37,1,5,38,MIL,MIL,fg3_miss,1,True,False,MISS Lopez 25' 3PT Jump Shot,,15-13,15,13
+0021901294,2020-08-10,MIL,TOR,6.37,1,5,38,MIL,TOR,block,1,True,False,block,block,15-13,15,13
+0021901294,2020-08-10,MIL,TOR,6.43,1,5,34,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:0 Def:1),15-13,15,13
+0021901294,2020-08-10,MIL,TOR,6.48,1,5,31,TOR,TOR,fg3_make,1,False,False,,Powell 29' 3PT Jump Shot (8 PTS) (Hollis-Jefferson 1 AST),15-16,15,16
+0021901294,2020-08-10,MIL,TOR,6.82,1,5,11,MIL,MIL,fg_make,79,False,False,Middleton 12' Pullup Jump Shot (4 PTS),,17-16,17,16
+0021901294,2020-08-10,MIL,TOR,7.07,1,4,56,TOR,TOR,fg3_make,1,False,False,,Boucher 26' 3PT Jump Shot (3 PTS) (Siakam 1 AST),17-19,17,19
+0021901294,2020-08-10,MIL,TOR,7.27,1,4,44,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 3PT Jump Shot,,17-19,17,19
+0021901294,2020-08-10,MIL,TOR,7.33,1,4,40,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:1),17-19,17,19
+0021901294,2020-08-10,MIL,TOR,7.42,1,4,35,TOR,TOR,fg_make,76,False,False,,Siakam 3' Running Finger Roll Layup (4 PTS),17-21,17,21
+0021901294,2020-08-10,MIL,TOR,7.75,1,4,15,TOR,MIL,foul,4,False,False,Lopez OFF.Foul (P1) (K.Lane),,17-21,17,21
+0021901294,2020-08-10,MIL,TOR,7.75,1,4,15,MIL,MIL,tov,37,False,False,Lopez Offensive Foul Turnover (P1.T3),,17-21,17,21
+0021901294,2020-08-10,MIL,TOR,8.03,1,3,58,TOR,TOR,fg3_miss,1,False,False,,MISS Hollis-Jefferson 3PT Jump Shot,17-21,17,21
+0021901294,2020-08-10,MIL,TOR,8.07,1,3,56,MIL,MIL,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,17-21,17,21
+0021901294,2020-08-10,MIL,TOR,8.35,1,3,39,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 29' 3PT Jump Shot,,17-21,17,21
+0021901294,2020-08-10,MIL,TOR,8.43,1,3,34,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:2),,17-21,17,21
+0021901294,2020-08-10,MIL,TOR,8.47,1,3,32,MIL,MIL,fg3_make,1,False,False,G. Hill 3PT Jump Shot (3 PTS) (DiVincenzo 1 AST),,20-21,20,21
+0021901294,2020-08-10,MIL,TOR,8.75,1,3,15,TOR,TOR,fg3_make,1,False,False,,Boucher 26' 3PT Jump Shot (6 PTS) (Thomas 1 AST),20-24,20,24
+0021901294,2020-08-10,MIL,TOR,9.08,1,2,55,MIL,MIL,fg3_miss,79,False,False,MISS G. Hill 25' 3PT Pullup Jump Shot,,20-24,20,24
+0021901294,2020-08-10,MIL,TOR,9.13,1,2,52,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:4),20-24,20,24
+0021901294,2020-08-10,MIL,TOR,9.23,1,2,46,TOR,TOR,fg_miss,101,False,False,,MISS Powell 12' Driving Floating Jump Shot,20-24,20,24
+0021901294,2020-08-10,MIL,TOR,9.25,1,2,45,MIL,MIL,reb,0,False,False,BUCKS Rebound,,20-24,20,24
+0021901294,2020-08-10,MIL,TOR,9.25,1,2,45,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.1 Short 0),20-24,20,24
+0021901294,2020-08-10,MIL,TOR,9.58,1,2,25,MIL,MIL,fg_make,75,False,False,G. Hill 1' Driving Finger Roll Layup (5 PTS),,22-24,22,24
+0021901294,2020-08-10,MIL,TOR,9.97,1,2,2,TOR,TOR,fg_make,79,False,False,,Thomas 16' Pullup Jump Shot (4 PTS),22-26,22,26
+0021901294,2020-08-10,MIL,TOR,10.25,1,1,45,MIL,MIL,fg3_make,1,False,False,Korver 27' 3PT Jump Shot (3 PTS) (G. Hill 1 AST),,25-26,25,26
+0021901294,2020-08-10,MIL,TOR,10.53,1,1,28,TOR,TOR,fg_make,1,False,False,,Thomas 20' Jump Shot (6 PTS) (Boucher 1 AST),25-28,25,28
+0021901294,2020-08-10,MIL,TOR,10.9,1,1,6,MIL,MIL,fg3_make,1,False,False,Korver 25' 3PT Jump Shot (6 PTS) (G. Hill 2 AST),,28-28,28,28
+0021901294,2020-08-10,MIL,TOR,11.22,1,0,47,TOR,TOR,fg3_make,80,False,False,,Thomas 26' 3PT Step Back Jump Shot (9 PTS),28-31,28,31
+0021901294,2020-08-10,MIL,TOR,11.32,1,0,41,MIL,TOR,foul,1,False,False,,Anunoby P.FOUL (P1.PN) (K.Lane),28-31,28,31
+0021901294,2020-08-10,MIL,TOR,11.32,1,0,41,MIL,MIL,ft_make,11,False,False,Korver Free Throw 1 of 2 (7 PTS),,29-31,29,31
+0021901294,2020-08-10,MIL,TOR,11.32,1,0,41,MIL,MIL,ft_make,12,False,False,Korver Free Throw 2 of 2 (8 PTS),,30-31,30,31
+0021901294,2020-08-10,MIL,TOR,11.48,1,0,31,TOR,MIL,foul,2,False,False,Lopez S.FOUL (P1.T2) (K.Lane),,30-31,30,31
+0021901294,2020-08-10,MIL,TOR,11.48,1,0,31,TOR,TOR,ft_make,11,False,False,,Watson Free Throw 1 of 2 (1 PTS),30-32,30,32
+0021901294,2020-08-10,MIL,TOR,11.48,1,0,31,TOR,TOR,ft_make,12,False,False,,Watson Free Throw 2 of 2 (2 PTS),30-33,30,33
+0021901294,2020-08-10,MIL,TOR,11.67,1,0,20,MIL,MIL,fg_miss,3,False,False,MISS Lopez 3' Hook Shot,,30-33,30,33
+0021901294,2020-08-10,MIL,TOR,11.72,1,0,17,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:0),,30-33,30,33
+0021901294,2020-08-10,MIL,TOR,11.73,1,0,16,MIL,TOR,foul,2,False,False,,Boucher S.FOUL (P1.PN) (K.Lane),30-33,30,33
+0021901294,2020-08-10,MIL,TOR,11.73,1,0,16,MIL,MIL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (1 PTS),,31-33,31,33
+0021901294,2020-08-10,MIL,TOR,11.73,1,0,16,MIL,MIL,ft_miss,12,False,False,MISS Lopez Free Throw 2 of 2,,31-33,31,33
+0021901294,2020-08-10,MIL,TOR,11.78,1,0,13,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:1 Def:1),31-33,31,33
+0021901294,2020-08-10,MIL,TOR,11.98,1,0,1,TOR,TOR,fg3_make,79,False,False,,Thomas 25' 3PT Pullup Jump Shot (12 PTS) (Anunoby 1 AST),31-36,31,36
+0021901294,2020-08-10,MIL,TOR,12.0,1,0,0,TOR,,period_end,0,False,False,,,31-36,31,36
+0021901294,2020-08-10,MIL,TOR,12.0,2,12,0,TOR,,period_start,0,False,False,,,31-36,31,36
+0021901294,2020-08-10,MIL,TOR,12.2,2,11,48,MIL,MIL,fg_miss,98,False,False,MISS Ilyasova 1' Cutting Layup Shot,,31-36,31,36
+0021901294,2020-08-10,MIL,TOR,12.27,2,11,44,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:1 Def:0),,31-36,31,36
+0021901294,2020-08-10,MIL,TOR,12.27,2,11,44,MIL,MIL,fg_miss,97,False,False,MISS Ilyasova 1' Tip Layup Shot,,31-36,31,36
+0021901294,2020-08-10,MIL,TOR,12.27,2,11,44,TOR,TOR,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),31-36,31,36
+0021901294,2020-08-10,MIL,TOR,12.53,2,11,28,TOR,TOR,fg_make,44,False,False,,Hollis-Jefferson 2' Reverse Layup (2 PTS) (Anunoby 2 AST),31-38,31,38
+0021901294,2020-08-10,MIL,TOR,12.75,2,11,15,MIL,MIL,tov,4,False,False,Korver Traveling Turnover (P1.T4),,31-38,31,38
+0021901294,2020-08-10,MIL,TOR,13.05,2,10,57,TOR,TOR,fg3_make,1,False,False,,Thomas 27' 3PT Jump Shot (15 PTS) (Hollis-Jefferson 2 AST),31-41,31,41
+0021901294,2020-08-10,MIL,TOR,13.28,2,10,43,MIL,MIL,fg_make,5,False,False,Ilyasova 4' Layup (2 PTS) (Connaughton 2 AST),,33-41,33,41
+0021901294,2020-08-10,MIL,TOR,13.45,2,10,33,TOR,TOR,tov,45,False,False,,Hollis-Jefferson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),33-41,33,41
+0021901294,2020-08-10,MIL,TOR,13.63,2,10,22,MIL,MIL,fg_miss,6,False,False,MISS Bledsoe 3' Driving Layup,,33-41,33,41
+0021901294,2020-08-10,MIL,TOR,13.68,2,10,19,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:2 Def:2),,33-41,33,41
+0021901294,2020-08-10,MIL,TOR,13.68,2,10,19,MIL,MIL,fg_make,97,False,False,Connaughton 1' Tip Layup Shot (12 PTS),,35-41,35,41
+0021901294,2020-08-10,MIL,TOR,13.85,2,10,9,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 26' 3PT Jump Shot,35-41,35,41
+0021901294,2020-08-10,MIL,TOR,13.88,2,10,7,MIL,MIL,reb,0,False,False,BUCKS Rebound,,35-41,35,41
+0021901294,2020-08-10,MIL,TOR,14.13,2,9,52,MIL,TOR,foul,2,False,False,,Hollis-Jefferson S.FOUL (P1.T1) (K.Lane),35-41,35,41
+0021901294,2020-08-10,MIL,TOR,14.13,2,9,52,MIL,MIL,ft_miss,11,False,False,MISS Ilyasova Free Throw 1 of 2,,35-41,35,41
+0021901294,2020-08-10,MIL,TOR,14.13,2,9,52,MIL,MIL,reb,1,False,False,BUCKS Rebound,,35-41,35,41
+0021901294,2020-08-10,MIL,TOR,14.13,2,9,52,MIL,MIL,ft_make,12,False,False,Ilyasova Free Throw 2 of 2 (3 PTS),,36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.37,2,9,38,TOR,MIL,foul,1,False,False,Bledsoe P.FOUL (P2.T1) (K.Lane),,36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.42,2,9,35,TOR,MIL,foul,1,False,False,Middleton P.FOUL (P1.T2) (M.Ayotte),,36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.5,2,9,30,TOR,TOR,fg3_miss,79,False,False,,MISS Watson 27' 3PT Pullup Jump Shot,36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.55,2,9,27,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:0),36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.68,2,9,19,TOR,TOR,fg3_miss,1,False,False,,MISS Hollis-Jefferson 27' 3PT Jump Shot,36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.72,2,9,17,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:3),,36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.82,2,9,11,MIL,MIL,fg3_miss,1,False,False,MISS Ilyasova 26' 3PT Jump Shot,,36-41,36,41
+0021901294,2020-08-10,MIL,TOR,14.88,2,9,7,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:1),36-41,36,41
+0021901294,2020-08-10,MIL,TOR,15.03,2,8,58,TOR,TOR,fg_make,6,False,False,,Boucher 3' Driving Layup (8 PTS) (Hollis-Jefferson 3 AST),36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.2,2,8,48,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 27' 3PT Jump Shot,,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.28,2,8,43,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:0 Def:2),36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.37,2,8,38,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 3PT Jump Shot,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.42,2,8,35,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:2),,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.55,2,8,27,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 3PT Jump Shot,,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.62,2,8,23,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:2),36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.72,2,8,17,TOR,TOR,fg_miss,102,False,False,,MISS Boucher 3' Driving Floating Bank Jump Shot,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.78,2,8,13,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:4),,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.87,2,8,8,MIL,MIL,tov,2,False,True,Middleton Lost Ball Turnover (P1.T5),,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.87,2,8,8,MIL,TOR,steal,2,False,True,steal,steal,36-43,36,43
+0021901294,2020-08-10,MIL,TOR,15.92,2,8,5,TOR,TOR,fg_make,9,False,False,,Hollis-Jefferson 2' Driving Dunk (4 PTS) (Boucher 2 AST),36-45,36,45
+0021901294,2020-08-10,MIL,TOR,15.92,2,8,5,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 2 Short 0),,36-45,36,45
+0021901294,2020-08-10,MIL,TOR,16.12,2,7,53,MIL,MIL,fg_miss,79,False,False,MISS Middleton 17' Pullup Jump Shot,,36-45,36,45
+0021901294,2020-08-10,MIL,TOR,16.17,2,7,50,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:5),36-45,36,45
+0021901294,2020-08-10,MIL,TOR,16.38,2,7,37,TOR,MIL,foul,2,False,False,Middleton S.FOUL (P2.T3) (S.Foster),,36-45,36,45
+0021901294,2020-08-10,MIL,TOR,16.38,2,7,37,TOR,TOR,ft_make,11,False,False,,Boucher Free Throw 1 of 2 (9 PTS),36-46,36,46
+0021901294,2020-08-10,MIL,TOR,16.38,2,7,37,TOR,TOR,ft_miss,12,False,False,,MISS Boucher Free Throw 2 of 2,36-46,36,46
+0021901294,2020-08-10,MIL,TOR,16.42,2,7,35,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:1),,36-46,36,46
+0021901294,2020-08-10,MIL,TOR,16.67,2,7,20,MIL,MIL,fg3_make,1,False,False,G. Hill 24' 3PT Jump Shot (8 PTS) (Williams 1 AST),,39-46,39,46
+0021901294,2020-08-10,MIL,TOR,16.95,2,7,3,TOR,TOR,fg_make,75,False,False,,Davis 3' Driving Finger Roll Layup (4 PTS),39-48,39,48
+0021901294,2020-08-10,MIL,TOR,17.08,2,6,55,MIL,TOR,violation,5,False,False,,Davis Violation:Kicked Ball (S.Foster),39-48,39,48
+0021901294,2020-08-10,MIL,TOR,17.2,2,6,48,MIL,MIL,fg3_make,1,False,False,Williams 28' 3PT Jump Shot (3 PTS) (G. Hill 3 AST),,42-48,42,48
+0021901294,2020-08-10,MIL,TOR,17.42,2,6,35,TOR,TOR,fg_make,101,False,False,,Siakam 10' Driving Floating Jump Shot (6 PTS) (Gasol 4 AST),42-50,42,50
+0021901294,2020-08-10,MIL,TOR,17.6,2,6,24,MIL,TOR,foul,1,False,False,,Powell P.FOUL (P1.T2) (M.Ayotte),42-50,42,50
+0021901294,2020-08-10,MIL,TOR,17.7,2,6,18,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 3PT Jump Shot,,42-50,42,50
+0021901294,2020-08-10,MIL,TOR,17.75,2,6,15,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:2),42-50,42,50
+0021901294,2020-08-10,MIL,TOR,17.82,2,6,11,TOR,TOR,fg_miss,78,False,False,,MISS Siakam 12' Floating Jump Shot,42-50,42,50
+0021901294,2020-08-10,MIL,TOR,17.85,2,6,9,TOR,TOR,reb,0,False,False,,Raptors Rebound,42-50,42,50
+0021901294,2020-08-10,MIL,TOR,17.92,2,6,5,MIL,TOR,foul,4,False,False,,Gasol OFF.Foul (P3) (S.Foster),42-50,42,50
+0021901294,2020-08-10,MIL,TOR,17.92,2,6,5,TOR,TOR,tov,37,False,False,,Gasol Offensive Foul Turnover (P2.T3),42-50,42,50
+0021901294,2020-08-10,MIL,TOR,18.08,2,5,55,MIL,MIL,fg_make,79,False,False,Middleton 19' Pullup Jump Shot (6 PTS),,44-50,44,50
+0021901294,2020-08-10,MIL,TOR,18.35,2,5,39,TOR,TOR,fg_miss,79,False,False,,MISS Gasol 19' Pullup Jump Shot,44-50,44,50
+0021901294,2020-08-10,MIL,TOR,18.42,2,5,35,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:1 Def:1),44-50,44,50
+0021901294,2020-08-10,MIL,TOR,18.42,2,5,35,TOR,TOR,fg_make,97,False,False,,Davis 1' Tip Layup Shot (6 PTS),44-52,44,52
+0021901294,2020-08-10,MIL,TOR,18.78,2,5,13,MIL,MIL,fg3_miss,47,False,False,MISS G. Hill 27' 3PT Turnaround Jump Shot,,44-52,44,52
+0021901294,2020-08-10,MIL,TOR,18.82,2,5,11,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:0 Def:2),44-52,44,52
+0021901294,2020-08-10,MIL,TOR,18.92,2,5,5,TOR,TOR,fg3_make,1,False,False,,Powell 24' 3PT Jump Shot (11 PTS) (Gasol 5 AST),44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.17,2,4,50,MIL,MIL,fg_miss,6,True,False,MISS Middleton 7' Driving Layup,,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.17,2,4,50,MIL,TOR,block,6,True,False,block,block,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.17,2,4,50,MIL,MIL,reb,0,False,False,BUCKS Rebound,,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.23,2,4,46,MIL,MIL,fg_miss,6,False,False,MISS Lopez 4' Driving Layup,,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.23,2,4,46,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:2 Def:2),,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.3,2,4,42,MIL,MIL,fg_miss,1,True,False,MISS DiVincenzo 6' Jump Shot,,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.3,2,4,42,MIL,TOR,block,1,True,False,block,block,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.33,2,4,40,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:3 Def:2),,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.42,2,4,35,MIL,MIL,fg3_miss,79,False,False,MISS Lopez 24' 3PT Pullup Jump Shot,,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.48,2,4,31,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:3),44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.57,2,4,26,TOR,TOR,fg3_miss,79,False,False,,MISS Siakam 25' 3PT Pullup Jump Shot,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.57,2,4,26,MIL,MIL,reb,0,False,False,BUCKS Rebound,,44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.58,2,4,25,MIL,TOR,foul,3,False,False,,Johnson L.B.FOUL (P1.T3) (S.Foster),44-55,44,55
+0021901294,2020-08-10,MIL,TOR,19.83,2,4,10,MIL,MIL,fg3_make,1,False,False,G. Hill 27' 3PT Jump Shot (11 PTS) (Korver 1 AST),,47-55,47,55
+0021901294,2020-08-10,MIL,TOR,19.97,2,4,2,TOR,MIL,foul,2,False,False,G. Hill S.FOUL (P1.T4) (M.Ayotte),,47-55,47,55
+0021901294,2020-08-10,MIL,TOR,19.97,2,4,2,TOR,TOR,ft_make,11,False,False,,Powell Free Throw 1 of 2 (12 PTS),47-56,47,56
+0021901294,2020-08-10,MIL,TOR,19.97,2,4,2,TOR,TOR,ft_miss,12,False,False,,MISS Powell Free Throw 2 of 2,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.0,2,4,0,MIL,MIL,reb,0,False,False,Williams REBOUND (Off:0 Def:2),,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.15,2,3,51,MIL,MIL,tov,1,False,True,Williams Bad Pass Turnover (P1.T6),,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.15,2,3,51,MIL,TOR,steal,1,False,True,steal,steal,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.22,2,3,47,TOR,TOR,fg_miss,41,True,False,,MISS Powell 3' Running Layup,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.22,2,3,47,TOR,MIL,block,41,True,False,block,block,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.25,2,3,45,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:1),,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.47,2,3,32,MIL,MIL,fg_miss,3,True,False,MISS Lopez 5' Hook Shot,,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.47,2,3,32,MIL,TOR,block,3,True,False,block,block,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.52,2,3,29,MIL,MIL,reb,0,False,False,G. Hill REBOUND (Off:1 Def:0),,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.55,2,3,27,MIL,MIL,fg_miss,1,False,False,MISS G. Hill 15' Jump Shot,,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.58,2,3,25,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:4),47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.6,2,3,24,TOR,MIL,foul,2,False,False,Korver S.FOUL (P1.PN) (K.Lane),,47-56,47,56
+0021901294,2020-08-10,MIL,TOR,20.6,2,3,24,TOR,TOR,ft_make,11,False,False,,Siakam Free Throw 1 of 2 (7 PTS),47-57,47,57
+0021901294,2020-08-10,MIL,TOR,20.6,2,3,24,TOR,TOR,ft_make,12,False,False,,Siakam Free Throw 2 of 2 (8 PTS),47-58,47,58
+0021901294,2020-08-10,MIL,TOR,20.82,2,3,11,MIL,MIL,tov,1,False,True,G. Hill Bad Pass Turnover (P1.T7),,47-58,47,58
+0021901294,2020-08-10,MIL,TOR,20.82,2,3,11,MIL,TOR,steal,1,False,True,steal,steal,47-58,47,58
+0021901294,2020-08-10,MIL,TOR,20.88,2,3,7,TOR,TOR,fg_miss,6,False,False,,MISS Powell 6' Driving Layup,47-58,47,58
+0021901294,2020-08-10,MIL,TOR,20.92,2,3,5,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:2 Def:1),47-58,47,58
+0021901294,2020-08-10,MIL,TOR,20.92,2,3,5,TOR,TOR,fg_make,97,False,False,,Davis 1' Tip Layup Shot (8 PTS),47-60,47,60
+0021901294,2020-08-10,MIL,TOR,21.08,2,2,55,MIL,MIL,fg3_make,1,False,False,Korver 25' 3PT Jump Shot (11 PTS) (Bledsoe 3 AST),,50-60,50,60
+0021901294,2020-08-10,MIL,TOR,21.35,2,2,39,TOR,TOR,fg_miss,79,False,False,,MISS Siakam 20' Pullup Jump Shot,50-60,50,60
+0021901294,2020-08-10,MIL,TOR,21.4,2,2,36,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:3),,50-60,50,60
+0021901294,2020-08-10,MIL,TOR,21.55,2,2,27,MIL,MIL,fg3_miss,1,False,False,MISS Williams 27' 3PT Jump Shot,,50-60,50,60
+0021901294,2020-08-10,MIL,TOR,21.55,2,2,27,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:0 Def:3),50-60,50,60
+0021901294,2020-08-10,MIL,TOR,21.78,2,2,13,TOR,TOR,fg_miss,101,False,False,,MISS Powell 16' Driving Floating Jump Shot,50-60,50,60
+0021901294,2020-08-10,MIL,TOR,21.82,2,2,11,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:4),,50-60,50,60
+0021901294,2020-08-10,MIL,TOR,21.95,2,2,3,MIL,MIL,fg3_make,79,False,False,Korver 27' 3PT Pullup Jump Shot (14 PTS) (Bledsoe 4 AST),,53-60,53,60
+0021901294,2020-08-10,MIL,TOR,22.17,2,1,50,TOR,MIL,foul,1,False,False,Williams P.FOUL (P1.PN) (S.Foster),,53-60,53,60
+0021901294,2020-08-10,MIL,TOR,22.17,2,1,50,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.2 Short 0),53-60,53,60
+0021901294,2020-08-10,MIL,TOR,22.17,2,1,50,TOR,TOR,ft_make,11,False,False,,Siakam Free Throw 1 of 2 (9 PTS),53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.17,2,1,50,TOR,TOR,ft_miss,12,False,False,,MISS Siakam Free Throw 2 of 2,53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.2,2,1,48,MIL,MIL,reb,0,False,False,Korver REBOUND (Off:0 Def:1),,53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.43,2,1,34,MIL,MIL,tov,1,False,True,Connaughton Bad Pass Turnover (P1.T8),,53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.43,2,1,34,MIL,TOR,steal,1,False,True,steal,steal,53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.48,2,1,31,TOR,TOR,fg_miss,6,False,False,,MISS Davis 2' Driving Layup,53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.55,2,1,27,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:5),,53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.78,2,1,13,MIL,MIL,fg_miss,79,False,False,MISS Bledsoe 14' Pullup Jump Shot,,53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.82,2,1,11,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:6),53-61,53,61
+0021901294,2020-08-10,MIL,TOR,22.93,2,1,4,TOR,TOR,fg3_make,1,False,False,,Powell 25' 3PT Jump Shot (15 PTS) (Gasol 6 AST),53-64,53,64
+0021901294,2020-08-10,MIL,TOR,23.32,2,0,41,MIL,MIL,fg3_miss,1,False,False,MISS Ilyasova 26' 3PT Jump Shot,,53-64,53,64
+0021901294,2020-08-10,MIL,TOR,23.37,2,0,38,TOR,TOR,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),53-64,53,64
+0021901294,2020-08-10,MIL,TOR,23.43,2,0,34,TOR,TOR,fg_miss,75,False,False,,MISS Johnson 3' Driving Finger Roll Layup,53-64,53,64
+0021901294,2020-08-10,MIL,TOR,23.47,2,0,32,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:1 Def:1),,53-64,53,64
+0021901294,2020-08-10,MIL,TOR,23.53,2,0,28,MIL,MIL,fg3_miss,79,False,False,MISS Connaughton 25' 3PT Pullup Jump Shot,,53-64,53,64
+0021901294,2020-08-10,MIL,TOR,23.57,2,0,26,TOR,TOR,reb,0,False,False,,Raptors Rebound,53-64,53,64
+0021901294,2020-08-10,MIL,TOR,23.93,2,0,4,TOR,TOR,fg3_make,1,False,False,,Siakam 25' 3PT Jump Shot (12 PTS) (Gasol 7 AST),53-67,53,67
+0021901294,2020-08-10,MIL,TOR,24.0,2,0,0,MIL,MIL,fg3_miss,79,False,False,MISS Ilyasova 26' 3PT Pullup Jump Shot,,53-67,53,67
+0021901294,2020-08-10,MIL,TOR,24.0,2,0,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,53-67,53,67
+0021901294,2020-08-10,MIL,TOR,24.0,2,0,0,MIL,,period_end,0,False,False,,,53-67,53,67
+0021901294,2020-08-10,MIL,TOR,24.0,3,12,0,MIL,,period_start,0,False,False,,,53-67,53,67
+0021901294,2020-08-10,MIL,TOR,24.2,3,11,48,MIL,TOR,foul,2,False,False,,Davis S.FOUL (P3.T1) (S.Foster),53-67,53,67
+0021901294,2020-08-10,MIL,TOR,24.2,3,11,48,MIL,MIL,ft_make,11,False,False,Bledsoe Free Throw 1 of 2 (1 PTS),,54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.2,3,11,48,MIL,MIL,ft_miss,12,False,False,MISS Bledsoe Free Throw 2 of 2,,54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.23,3,11,46,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:0 Def:4),54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.55,3,11,27,TOR,TOR,tov,1,False,True,,Anunoby Bad Pass Turnover (P1.T4),54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.55,3,11,27,TOR,MIL,steal,1,False,True,steal,steal,54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.65,3,11,21,MIL,MIL,tov,2,False,True,Bledsoe Lost Ball Turnover (P2.T9),,54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.65,3,11,21,MIL,TOR,steal,2,False,True,steal,steal,54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.72,3,11,17,TOR,TOR,fg_miss,98,False,False,,MISS Davis 2' Cutting Layup Shot,54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.77,3,11,14,MIL,MIL,reb,0,False,False,Williams REBOUND (Off:0 Def:3),,54-67,54,67
+0021901294,2020-08-10,MIL,TOR,24.95,3,11,3,MIL,MIL,fg_make,98,False,False,Lopez 2' Cutting Layup Shot (5 PTS) (Middleton 2 AST),,56-67,56,67
+0021901294,2020-08-10,MIL,TOR,25.42,3,10,35,TOR,TOR,fg_make,79,False,False,,Powell 21' Pullup Jump Shot (17 PTS),56-69,56,69
+0021901294,2020-08-10,MIL,TOR,25.78,3,10,13,MIL,MIL,fg_miss,86,False,False,MISS Middleton 7' Turnaround Fadeaway Shot,,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,25.83,3,10,10,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:5),56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.03,3,9,58,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 27' 3PT Jump Shot,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.08,3,9,55,MIL,MIL,reb,0,False,False,Williams REBOUND (Off:0 Def:4),,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.13,3,9,52,TOR,MIL,foul,26,False,False,Middleton Offensive Charge Foul (P3.T1) (M.Ayotte),,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.13,3,9,52,MIL,MIL,tov,37,False,False,Middleton Offensive Foul Turnover (P2.T10),,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.33,3,9,40,TOR,MIL,foul,2,False,False,Connaughton S.FOUL (P1.T2) (S.Foster),,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.33,3,9,40,TOR,TOR,ft_miss,13,False,False,,MISS Powell Free Throw 1 of 3,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.33,3,9,40,TOR,TOR,reb,1,False,False,,Raptors Rebound,56-69,56,69
+0021901294,2020-08-10,MIL,TOR,26.33,3,9,40,TOR,TOR,ft_make,14,False,False,,Powell Free Throw 2 of 3 (18 PTS),56-70,56,70
+0021901294,2020-08-10,MIL,TOR,26.33,3,9,40,TOR,TOR,ft_make,15,False,False,,Powell Free Throw 3 of 3 (19 PTS),56-71,56,71
+0021901294,2020-08-10,MIL,TOR,26.57,3,9,26,MIL,MIL,fg_make,75,False,False,Bledsoe 1' Driving Finger Roll Layup (3 PTS),,58-71,58,71
+0021901294,2020-08-10,MIL,TOR,26.68,3,9,19,TOR,MIL,foul,1,False,False,Connaughton P.FOUL (P2.T3) (M.Ayotte),,58-71,58,71
+0021901294,2020-08-10,MIL,TOR,26.72,3,9,17,TOR,TOR,fg3_miss,1,False,False,,MISS Gasol 25' 3PT Jump Shot,58-71,58,71
+0021901294,2020-08-10,MIL,TOR,26.78,3,9,13,MIL,MIL,reb,0,False,False,Williams REBOUND (Off:0 Def:5),,58-71,58,71
+0021901294,2020-08-10,MIL,TOR,26.85,3,9,9,MIL,MIL,fg_make,102,False,False,Bledsoe 10' Driving Floating Bank Jump Shot (5 PTS) (Williams 2 AST),,60-71,60,71
+0021901294,2020-08-10,MIL,TOR,26.85,3,9,9,MIL,TOR,foul,2,False,False,,Davis S.FOUL (P4.T2) (S.Foster),60-71,60,71
+0021901294,2020-08-10,MIL,TOR,26.85,3,9,9,MIL,MIL,ft_miss,10,False,False,MISS Bledsoe Free Throw 1 of 1,,60-71,60,71
+0021901294,2020-08-10,MIL,TOR,26.88,3,9,7,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:6),60-71,60,71
+0021901294,2020-08-10,MIL,TOR,26.95,3,9,3,TOR,TOR,fg3_miss,79,False,False,,MISS Powell 27' 3PT Pullup Jump Shot,60-71,60,71
+0021901294,2020-08-10,MIL,TOR,27.0,3,9,0,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:3 Def:3),,60-71,60,71
+0021901294,2020-08-10,MIL,TOR,27.07,3,8,56,MIL,TOR,foul,1,False,False,,Anunoby P.FOUL (P2.T3) (M.Ayotte),60-71,60,71
+0021901294,2020-08-10,MIL,TOR,27.15,3,8,51,MIL,MIL,fg_make,6,False,False,DiVincenzo 3' Driving Layup (2 PTS) (Lopez 1 AST),,62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.32,3,8,41,TOR,TOR,fg_miss,98,True,False,,MISS Thomas 3' Cutting Layup Shot,62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.32,3,8,41,TOR,MIL,block,98,True,False,block,block,62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.35,3,8,39,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:2 Def:3),,62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.4,3,8,36,MIL,MIL,fg3_miss,1,False,False,MISS Bledsoe 25' 3PT Jump Shot,,62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.48,3,8,31,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:4 Def:3),,62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.48,3,8,31,MIL,MIL,fg_miss,97,False,False,MISS DiVincenzo 1' Tip Layup Shot,,62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.5,3,8,30,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:7),62-71,62,71
+0021901294,2020-08-10,MIL,TOR,27.65,3,8,21,TOR,TOR,fg_make,75,False,False,,Powell 8' Driving Finger Roll Layup (21 PTS) (Gasol 8 AST),62-73,62,73
+0021901294,2020-08-10,MIL,TOR,27.75,3,8,15,MIL,MIL,tov,39,False,False,DiVincenzo Step Out of Bounds Turnover (P2.T11),,62-73,62,73
+0021901294,2020-08-10,MIL,TOR,27.98,3,8,1,TOR,TOR,fg_make,79,False,False,,Anunoby 14' Pullup Jump Shot (4 PTS),62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.32,3,7,41,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 3 Short 0),,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.38,3,7,37,MIL,MIL,fg_miss,6,True,False,MISS DiVincenzo 3' Driving Layup,,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.38,3,7,37,MIL,TOR,block,6,True,False,block,block,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.4,3,7,36,TOR,TOR,reb,0,False,False,,Thomas REBOUND (Off:0 Def:2),62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.57,3,7,26,TOR,TOR,fg_miss,63,False,False,,MISS Siakam 12' Fadeaway Jumper,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.62,3,7,23,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:6),,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.7,3,7,18,MIL,TOR,foul,2,False,False,,Anunoby S.FOUL (P3.T4) (K.Lane),62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.7,3,7,18,MIL,MIL,ft_miss,11,False,False,MISS Bledsoe Free Throw 1 of 2,,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.7,3,7,18,MIL,MIL,reb,1,False,False,BUCKS Rebound,,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.7,3,7,18,MIL,MIL,ft_miss,12,False,False,MISS Bledsoe Free Throw 2 of 2,,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.75,3,7,15,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:0 Def:5),62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.88,3,7,7,TOR,TOR,fg_miss,79,False,False,,MISS Siakam 17' Pullup Jump Shot,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,28.95,3,7,3,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:4 Def:4),,62-75,62,75
+0021901294,2020-08-10,MIL,TOR,29.02,3,6,59,MIL,TOR,foul,2,False,False,,Gasol S.FOUL (P4.PN) (M.Ayotte),62-75,62,75
+0021901294,2020-08-10,MIL,TOR,29.02,3,6,59,MIL,MIL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (6 PTS),,63-75,63,75
+0021901294,2020-08-10,MIL,TOR,29.02,3,6,59,MIL,MIL,ft_make,12,False,False,Lopez Free Throw 2 of 2 (7 PTS),,64-75,64,75
+0021901294,2020-08-10,MIL,TOR,29.25,3,6,45,TOR,TOR,tov,4,False,False,,Gasol Traveling Turnover (P3.T5),64-75,64,75
+0021901294,2020-08-10,MIL,TOR,29.48,3,6,31,MIL,MIL,fg3_make,1,False,False,G. Hill 25' 3PT Jump Shot (14 PTS) (Bledsoe 5 AST),,67-75,67,75
+0021901294,2020-08-10,MIL,TOR,29.85,3,6,9,TOR,TOR,fg3_miss,79,False,False,,MISS Thomas 28' 3PT Pullup Jump Shot,67-75,67,75
+0021901294,2020-08-10,MIL,TOR,29.87,3,6,8,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:2 Def:1),67-75,67,75
+0021901294,2020-08-10,MIL,TOR,29.87,3,6,8,TOR,MIL,foul,2,False,False,DiVincenzo S.FOUL (P1.T4) (M.Ayotte),,67-75,67,75
+0021901294,2020-08-10,MIL,TOR,29.87,3,6,8,TOR,TOR,ft_miss,11,False,False,,MISS Anunoby Free Throw 1 of 2,67-75,67,75
+0021901294,2020-08-10,MIL,TOR,29.87,3,6,8,TOR,TOR,reb,1,False,False,,Raptors Rebound,67-75,67,75
+0021901294,2020-08-10,MIL,TOR,29.87,3,6,8,TOR,TOR,ft_make,12,False,False,,Anunoby Free Throw 2 of 2 (5 PTS),67-76,67,76
+0021901294,2020-08-10,MIL,TOR,30.05,3,5,57,MIL,MIL,fg_miss,63,False,False,MISS Bledsoe 18' Fadeaway Jumper,,67-76,67,76
+0021901294,2020-08-10,MIL,TOR,30.1,3,5,54,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:8),67-76,67,76
+0021901294,2020-08-10,MIL,TOR,30.2,3,5,48,TOR,TOR,fg_miss,6,False,False,,MISS Anunoby 2' Driving Layup,67-76,67,76
+0021901294,2020-08-10,MIL,TOR,30.25,3,5,45,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:6),67-76,67,76
+0021901294,2020-08-10,MIL,TOR,30.25,3,5,45,TOR,TOR,fg_make,97,False,False,,Siakam 1' Tip Layup Shot (14 PTS),67-78,67,78
+0021901294,2020-08-10,MIL,TOR,30.42,3,5,35,MIL,TOR,foul,1,False,False,,Powell P.FOUL (P2.PN) (S.Foster),67-78,67,78
+0021901294,2020-08-10,MIL,TOR,30.42,3,5,35,MIL,MIL,ft_make,11,False,False,DiVincenzo Free Throw 1 of 2 (3 PTS),,68-78,68,78
+0021901294,2020-08-10,MIL,TOR,30.42,3,5,35,MIL,MIL,ft_make,12,False,False,DiVincenzo Free Throw 2 of 2 (4 PTS),,69-78,69,78
+0021901294,2020-08-10,MIL,TOR,30.73,3,5,16,TOR,TOR,tov,1,False,True,,Anunoby Bad Pass Turnover (P2.T6),69-78,69,78
+0021901294,2020-08-10,MIL,TOR,30.73,3,5,16,TOR,MIL,steal,1,False,True,steal,steal,69-78,69,78
+0021901294,2020-08-10,MIL,TOR,30.83,3,5,10,MIL,MIL,tov,1,False,True,Korver Bad Pass Turnover (P2.T12),,69-78,69,78
+0021901294,2020-08-10,MIL,TOR,30.83,3,5,10,MIL,TOR,steal,1,False,True,steal,steal,69-78,69,78
+0021901294,2020-08-10,MIL,TOR,30.97,3,5,2,TOR,TOR,fg_make,79,False,False,,Thomas 21' Pullup Jump Shot (17 PTS) (Powell 1 AST),69-80,69,80
+0021901294,2020-08-10,MIL,TOR,31.25,3,4,45,MIL,MIL,fg3_miss,1,False,False,MISS G. Hill 3PT Jump Shot,,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,31.32,3,4,41,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:3),69-80,69,80
+0021901294,2020-08-10,MIL,TOR,31.53,3,4,28,TOR,TOR,fg_miss,57,False,False,,MISS Boucher 6' Driving Hook Shot,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,31.58,3,4,25,MIL,MIL,reb,0,False,False,Korver REBOUND (Off:0 Def:2),,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,31.83,3,4,10,MIL,MIL,tov,1,False,True,Lopez Bad Pass Turnover (P1.T13),,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,31.83,3,4,10,MIL,TOR,steal,1,False,True,steal,steal,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,31.83,3,4,10,TOR,MIL,foul,28,False,False,Williams Personal Take Foul (P2.PN) (M.Ayotte),,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.08,3,3,55,MIL,TOR,foul,4,False,False,,Hollis-Jefferson OFF.Foul (P2) (S.Foster),69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.08,3,3,55,TOR,TOR,tov,37,False,False,,Hollis-Jefferson Offensive Foul Turnover (P2.T7),69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.27,3,3,44,MIL,TOR,foul,1,False,False,,Siakam P.FOUL (P1.PN) (K.Lane),69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.27,3,3,44,MIL,MIL,ft_miss,11,False,False,MISS Lopez Free Throw 1 of 2,,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.27,3,3,44,MIL,MIL,reb,1,False,False,BUCKS Rebound,,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.27,3,3,44,MIL,MIL,ft_miss,12,False,False,MISS Lopez Free Throw 2 of 2,,69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.32,3,3,41,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:4),69-80,69,80
+0021901294,2020-08-10,MIL,TOR,32.55,3,3,27,TOR,TOR,fg_make,98,False,False,,Boucher 2' Cutting Layup Shot (11 PTS) (Siakam 2 AST),69-82,69,82
+0021901294,2020-08-10,MIL,TOR,32.67,3,3,20,MIL,MIL,tov,45,False,False,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,69-82,69,82
+0021901294,2020-08-10,MIL,TOR,32.88,3,3,7,TOR,TOR,fg_miss,102,False,False,,MISS Powell 8' Driving Floating Bank Jump Shot,69-82,69,82
+0021901294,2020-08-10,MIL,TOR,32.93,3,3,4,MIL,MIL,reb,0,False,False,Korver REBOUND (Off:0 Def:3),,69-82,69,82
+0021901294,2020-08-10,MIL,TOR,33.17,3,2,50,MIL,MIL,fg3_miss,79,False,False,MISS DiVincenzo 26' 3PT Pullup Jump Shot,,69-82,69,82
+0021901294,2020-08-10,MIL,TOR,33.22,3,2,47,MIL,MIL,reb,0,False,False,G. Hill REBOUND (Off:2 Def:0),,69-82,69,82
+0021901294,2020-08-10,MIL,TOR,33.22,3,2,47,MIL,MIL,tov,45,False,False,Middleton Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,69-82,69,82
+0021901294,2020-08-10,MIL,TOR,33.22,3,2,47,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.3 Short 0),69-82,69,82
+0021901294,2020-08-10,MIL,TOR,33.52,3,2,29,TOR,TOR,fg_make,79,False,False,,Thomas 19' Pullup Jump Shot (19 PTS) (Hollis-Jefferson 4 AST),69-84,69,84
+0021901294,2020-08-10,MIL,TOR,33.83,3,2,10,MIL,MIL,fg_miss,79,False,False,MISS G. Hill 7' Pullup Jump Shot,,69-84,69,84
+0021901294,2020-08-10,MIL,TOR,33.85,3,2,9,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:2 Def:1),,69-84,69,84
+0021901294,2020-08-10,MIL,TOR,33.9,3,2,6,MIL,MIL,fg3_miss,1,True,False,MISS Connaughton 26' 3PT Jump Shot,,69-84,69,84
+0021901294,2020-08-10,MIL,TOR,33.9,3,2,6,MIL,TOR,block,1,True,False,block,block,69-84,69,84
+0021901294,2020-08-10,MIL,TOR,33.92,3,2,5,MIL,MIL,reb,0,False,False,BUCKS Rebound,,69-84,69,84
+0021901294,2020-08-10,MIL,TOR,33.98,3,2,1,MIL,MIL,fg_make,79,False,False,Middleton 21' Pullup Jump Shot (8 PTS) (Lopez 1 AST),,71-84,71,84
+0021901294,2020-08-10,MIL,TOR,34.43,3,1,34,TOR,TOR,fg_miss,6,True,False,,MISS Watson 2' Driving Layup,71-84,71,84
+0021901294,2020-08-10,MIL,TOR,34.43,3,1,34,TOR,MIL,block,6,True,False,block,block,71-84,71,84
+0021901294,2020-08-10,MIL,TOR,34.45,3,1,33,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:2 Def:4),71-84,71,84
+0021901294,2020-08-10,MIL,TOR,34.47,3,1,32,TOR,TOR,fg_make,72,False,False,,Boucher 1' Putback Layup (13 PTS),71-86,71,86
+0021901294,2020-08-10,MIL,TOR,34.77,3,1,14,MIL,MIL,fg_make,6,False,False,Middleton 4' Driving Layup (10 PTS) (Korver 2 AST),,73-86,73,86
+0021901294,2020-08-10,MIL,TOR,35.13,3,0,52,TOR,TOR,fg3_miss,80,False,False,,MISS Siakam 27' 3PT Step Back Jump Shot,73-86,73,86
+0021901294,2020-08-10,MIL,TOR,35.13,3,0,52,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:2 Def:2),,73-86,73,86
+0021901294,2020-08-10,MIL,TOR,35.23,3,0,46,MIL,TOR,foul,1,False,False,,Siakam P.FOUL (P2.PN) (S.Foster),73-86,73,86
+0021901294,2020-08-10,MIL,TOR,35.23,3,0,46,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (11 PTS),,74-86,74,86
+0021901294,2020-08-10,MIL,TOR,35.23,3,0,46,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (12 PTS),,75-86,75,86
+0021901294,2020-08-10,MIL,TOR,35.47,3,0,32,TOR,TOR,fg_miss,75,False,False,,MISS Siakam 2' Driving Finger Roll Layup,75-86,75,86
+0021901294,2020-08-10,MIL,TOR,35.47,3,0,32,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:3 Def:4),75-86,75,86
+0021901294,2020-08-10,MIL,TOR,35.47,3,0,32,TOR,MIL,foul,2,False,False,Connaughton S.FOUL (P3.PN) (S.Foster),,75-86,75,86
+0021901294,2020-08-10,MIL,TOR,35.47,3,0,32,TOR,TOR,ft_make,11,False,False,,Boucher Free Throw 1 of 2 (14 PTS),75-87,75,87
+0021901294,2020-08-10,MIL,TOR,35.47,3,0,32,TOR,TOR,ft_make,12,False,False,,Boucher Free Throw 2 of 2 (15 PTS),75-88,75,88
+0021901294,2020-08-10,MIL,TOR,35.58,3,0,25,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 3PT Jump Shot,,75-88,75,88
+0021901294,2020-08-10,MIL,TOR,35.63,3,0,22,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:0 Def:3),75-88,75,88
+0021901294,2020-08-10,MIL,TOR,35.93,3,0,4,TOR,TOR,tov,40,False,False,,Hollis-Jefferson Out of Bounds Lost Ball Turnover (P3.T8),75-88,75,88
+0021901294,2020-08-10,MIL,TOR,35.98,3,0,1,MIL,MIL,fg_miss,102,False,False,MISS Bledsoe 6' Driving Floating Bank Jump Shot,,75-88,75,88
+0021901294,2020-08-10,MIL,TOR,35.98,3,0,1,MIL,MIL,reb,0,False,False,BUCKS Rebound,,75-88,75,88
+0021901294,2020-08-10,MIL,TOR,36.0,3,0,0,MIL,,period_end,0,False,False,,,75-88,75,88
+0021901294,2020-08-10,MIL,TOR,36.0,4,12,0,MIL,,period_start,0,False,False,,,75-88,75,88
+0021901294,2020-08-10,MIL,TOR,36.33,4,11,40,TOR,TOR,fg_miss,79,False,False,,MISS Anunoby 12' Pullup Jump Shot,75-88,75,88
+0021901294,2020-08-10,MIL,TOR,36.35,4,11,39,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:1 Def:2),,75-88,75,88
+0021901294,2020-08-10,MIL,TOR,36.52,4,11,29,MIL,MIL,fg_make,47,False,False,Middleton 19' Turnaround Jump Shot (14 PTS),,77-88,77,88
+0021901294,2020-08-10,MIL,TOR,36.82,4,11,11,TOR,TOR,fg3_make,1,False,False,,Boucher 3PT Jump Shot (18 PTS) (Anunoby 3 AST),77-91,77,91
+0021901294,2020-08-10,MIL,TOR,37.13,4,10,52,MIL,MIL,tov,1,False,True,Middleton Bad Pass Turnover (P4.T16),,77-91,77,91
+0021901294,2020-08-10,MIL,TOR,37.13,4,10,52,MIL,TOR,steal,1,False,True,steal,steal,77-91,77,91
+0021901294,2020-08-10,MIL,TOR,37.2,4,10,48,TOR,TOR,fg_make,108,False,False,,Boucher 1' Cutting Dunk Shot (20 PTS) (Hollis-Jefferson 5 AST),77-93,77,93
+0021901294,2020-08-10,MIL,TOR,37.2,4,10,48,TOR,MIL,foul,2,False,False,Ilyasova S.FOUL (P1.T1) (M.Ayotte),,77-93,77,93
+0021901294,2020-08-10,MIL,TOR,37.2,4,10,48,TOR,TOR,ft_make,10,False,False,,Boucher Free Throw 1 of 1 (21 PTS),77-94,77,94
+0021901294,2020-08-10,MIL,TOR,37.42,4,10,35,MIL,TOR,foul,1,False,False,,Boucher P.FOUL (P2.T1) (M.Ayotte),77-94,77,94
+0021901294,2020-08-10,MIL,TOR,37.53,4,10,28,MIL,MIL,fg_miss,6,False,False,MISS Lopez 9' Driving Layup,,77-94,77,94
+0021901294,2020-08-10,MIL,TOR,37.57,4,10,26,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:2 Def:2),77-94,77,94
+0021901294,2020-08-10,MIL,TOR,37.62,4,10,23,TOR,TOR,fg3_make,1,False,False,,Thomas 25' 3PT Jump Shot (22 PTS) (Anunoby 4 AST),77-97,77,97
+0021901294,2020-08-10,MIL,TOR,37.98,4,10,1,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 25' 3PT Jump Shot,,77-97,77,97
+0021901294,2020-08-10,MIL,TOR,38.03,4,9,58,TOR,TOR,reb,0,False,False,,Watson REBOUND (Off:0 Def:1),77-97,77,97
+0021901294,2020-08-10,MIL,TOR,38.13,4,9,52,TOR,TOR,fg3_miss,1,False,False,,MISS Anunoby 24' 3PT Jump Shot,77-97,77,97
+0021901294,2020-08-10,MIL,TOR,38.15,4,9,51,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:1 Def:3),77-97,77,97
+0021901294,2020-08-10,MIL,TOR,38.35,4,9,39,TOR,TOR,fg_make,7,False,False,,Anunoby 1' Dunk (7 PTS),77-99,77,99
+0021901294,2020-08-10,MIL,TOR,38.37,4,9,38,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 4 Short 0),,77-99,77,99
+0021901294,2020-08-10,MIL,TOR,38.62,4,9,23,MIL,MIL,fg_make,79,False,False,Middleton 14' Pullup Jump Shot (16 PTS),,79-99,79,99
+0021901294,2020-08-10,MIL,TOR,38.62,4,9,23,MIL,TOR,foul,2,False,False,,Anunoby S.FOUL (P4.T2) (M.Ayotte),79-99,79,99
+0021901294,2020-08-10,MIL,TOR,38.62,4,9,23,MIL,MIL,ft_make,10,False,False,Middleton Free Throw 1 of 1 (17 PTS),,80-99,80,99
+0021901294,2020-08-10,MIL,TOR,38.98,4,9,1,TOR,TOR,fg_make,79,False,False,,Hollis-Jefferson 9' Pullup Jump Shot (6 PTS) (Anunoby 5 AST),80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.27,4,8,44,MIL,MIL,tov,2,False,True,DiVincenzo Lost Ball Turnover (P4.T17),,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.27,4,8,44,MIL,TOR,steal,2,False,True,steal,steal,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.32,4,8,41,TOR,TOR,tov,2,False,True,,Hollis-Jefferson Lost Ball Turnover (P4.T9),80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.32,4,8,41,TOR,MIL,steal,2,False,True,steal,steal,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.4,4,8,36,MIL,MIL,fg_miss,6,False,False,MISS DiVincenzo 2' Driving Layup,,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.4,4,8,36,TOR,TOR,reb,0,False,False,,Thomas REBOUND (Off:0 Def:3),80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.4,4,8,36,TOR,MIL,foul,1,False,False,Middleton P.FOUL (P4.T2) (K.Lane),,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.63,4,8,22,TOR,TOR,fg3_miss,1,True,False,,MISS Watson 26' 3PT Jump Shot,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.63,4,8,22,TOR,MIL,block,1,True,False,block,block,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.68,4,8,19,TOR,TOR,reb,0,False,False,,Watson REBOUND (Off:1 Def:1),80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.7,4,8,18,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 24' 3PT Jump Shot,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.77,4,8,14,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:1 Def:3),,80-101,80,101
+0021901294,2020-08-10,MIL,TOR,39.93,4,8,4,MIL,MIL,fg_make,63,False,False,Lopez 11' Fadeaway Jumper (9 PTS) (Middleton 3 AST),,82-101,82,101
+0021901294,2020-08-10,MIL,TOR,40.22,4,7,47,TOR,TOR,fg3_miss,1,False,False,,MISS Hollis-Jefferson 3PT Jump Shot,82-101,82,101
+0021901294,2020-08-10,MIL,TOR,40.28,4,7,43,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:4 Def:5),,82-101,82,101
+0021901294,2020-08-10,MIL,TOR,40.33,4,7,40,MIL,TOR,foul,2,False,False,,Hollis-Jefferson S.FOUL (P3.T3) (M.Ayotte),82-101,82,101
+0021901294,2020-08-10,MIL,TOR,40.33,4,7,40,MIL,MIL,ft_miss,11,False,False,MISS Bledsoe Free Throw 1 of 2,,82-101,82,101
+0021901294,2020-08-10,MIL,TOR,40.33,4,7,40,MIL,MIL,reb,1,False,False,BUCKS Rebound,,82-101,82,101
+0021901294,2020-08-10,MIL,TOR,40.33,4,7,40,MIL,MIL,ft_make,12,False,False,Bledsoe Free Throw 2 of 2 (6 PTS),,83-101,83,101
+0021901294,2020-08-10,MIL,TOR,40.53,4,7,28,TOR,TOR,fg_miss,98,True,False,,MISS Thomas 2' Cutting Layup Shot,83-101,83,101
+0021901294,2020-08-10,MIL,TOR,40.53,4,7,28,TOR,MIL,block,98,True,False,block,block,83-101,83,101
+0021901294,2020-08-10,MIL,TOR,40.57,4,7,26,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:4 Def:4),83-101,83,101
+0021901294,2020-08-10,MIL,TOR,40.58,4,7,25,TOR,TOR,fg_make,5,False,False,,Boucher 1' Layup (23 PTS),83-103,83,103
+0021901294,2020-08-10,MIL,TOR,40.8,4,7,12,MIL,MIL,fg_make,98,False,False,Lopez 1' Cutting Layup Shot (11 PTS) (Bledsoe 6 AST),,85-103,85,103
+0021901294,2020-08-10,MIL,TOR,40.8,4,7,12,MIL,TOR,foul,2,False,False,,Boucher S.FOUL (P3.T4) (S.Foster),85-103,85,103
+0021901294,2020-08-10,MIL,TOR,40.8,4,7,12,MIL,MIL,ft_make,10,False,False,Lopez Free Throw 1 of 1 (12 PTS),,86-103,86,103
+0021901294,2020-08-10,MIL,TOR,41.02,4,6,59,MIL,TOR,foul,14,False,False,,Watson FLAGRANT.FOUL.TYPE1 (P1.PN) (M.Ayotte),86-103,86,103
+0021901294,2020-08-10,MIL,TOR,41.02,4,6,59,TOR,TOR,tov,0,False,False,,Watson No Turnover (P1.T10),86-103,86,103
+0021901294,2020-08-10,MIL,TOR,41.02,4,6,59,TOR,MIL,ft_make,18,False,False,Korver Free Throw Flagrant 1 of 2 (15 PTS),,87-103,87,103
+0021901294,2020-08-10,MIL,TOR,41.02,4,6,59,TOR,MIL,ft_make,19,False,False,Korver Free Throw Flagrant 2 of 2 (16 PTS),,88-103,88,103
+0021901294,2020-08-10,MIL,TOR,41.07,4,6,56,MIL,MIL,fg3_make,1,False,False,Korver 27' 3PT Jump Shot (19 PTS) (Wilson 1 AST),,91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.32,4,6,41,TOR,MIL,foul,1,False,False,Ilyasova P.FOUL (P2.T3) (K.Lane),,91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.45,4,6,33,TOR,TOR,fg3_miss,80,False,False,,MISS Davis 25' 3PT Step Back Jump Shot,91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.5,4,6,30,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:1 Def:4),,91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.6,4,6,24,MIL,MIL,tov,2,False,True,DiVincenzo Lost Ball Turnover (P5.T18),,91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.6,4,6,24,MIL,TOR,steal,2,False,True,steal,steal,91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.68,4,6,19,TOR,TOR,tov,15,False,False,,Hollis-Jefferson Offensive Goaltending Turnover (P5.T11),91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.82,4,6,11,MIL,TOR,foul,1,False,False,,Davis P.FOUL (P5.PN) (K.Lane),91-103,91,103
+0021901294,2020-08-10,MIL,TOR,41.82,4,6,11,MIL,MIL,ft_make,11,False,False,Wilson Free Throw 1 of 2 (1 PTS),,92-103,92,103
+0021901294,2020-08-10,MIL,TOR,41.82,4,6,11,MIL,MIL,ft_make,12,False,False,Wilson Free Throw 2 of 2 (2 PTS),,93-103,93,103
+0021901294,2020-08-10,MIL,TOR,42.07,4,5,56,TOR,TOR,fg_make,78,False,False,,Davis 12' Floating Jump Shot (10 PTS),93-105,93,105
+0021901294,2020-08-10,MIL,TOR,42.25,4,5,45,MIL,TOR,foul,1,False,False,,Davis P.FOUL (P6.PN) (S.Foster),93-105,93,105
+0021901294,2020-08-10,MIL,TOR,42.25,4,5,45,MIL,MIL,ft_make,11,False,False,Ilyasova Free Throw 1 of 2 (4 PTS),,94-105,94,105
+0021901294,2020-08-10,MIL,TOR,42.25,4,5,45,MIL,MIL,ft_make,12,False,False,Ilyasova Free Throw 2 of 2 (5 PTS),,95-105,95,105
+0021901294,2020-08-10,MIL,TOR,42.5,4,5,30,TOR,TOR,tov,2,False,True,,Hollis-Jefferson Lost Ball Turnover (P6.T12),95-105,95,105
+0021901294,2020-08-10,MIL,TOR,42.5,4,5,30,TOR,MIL,steal,2,False,True,steal,steal,95-105,95,105
+0021901294,2020-08-10,MIL,TOR,42.63,4,5,22,MIL,TOR,foul,1,False,False,,Thomas P.FOUL (P1.PN) (K.Lane),95-105,95,105
+0021901294,2020-08-10,MIL,TOR,42.63,4,5,22,MIL,MIL,ft_make,11,False,False,Ilyasova Free Throw 1 of 2 (6 PTS),,96-105,96,105
+0021901294,2020-08-10,MIL,TOR,42.63,4,5,22,MIL,MIL,ft_make,12,False,False,Ilyasova Free Throw 2 of 2 (7 PTS),,97-105,97,105
+0021901294,2020-08-10,MIL,TOR,42.85,4,5,9,TOR,MIL,foul,2,False,False,Korver S.FOUL (P2.T4) (M.Ayotte),,97-105,97,105
+0021901294,2020-08-10,MIL,TOR,42.85,4,5,9,TOR,TOR,ft_make,11,False,False,,Hollis-Jefferson Free Throw 1 of 2 (7 PTS),97-106,97,106
+0021901294,2020-08-10,MIL,TOR,42.85,4,5,9,TOR,TOR,ft_make,12,False,False,,Hollis-Jefferson Free Throw 2 of 2 (8 PTS),97-107,97,107
+0021901294,2020-08-10,MIL,TOR,43.03,4,4,58,MIL,MIL,fg3_miss,1,False,False,MISS Wilson 26' 3PT Jump Shot,,97-107,97,107
+0021901294,2020-08-10,MIL,TOR,43.12,4,4,53,TOR,TOR,reb,0,False,False,,Thomas REBOUND (Off:0 Def:4),97-107,97,107
+0021901294,2020-08-10,MIL,TOR,43.18,4,4,49,TOR,MIL,violation,5,False,False,Bledsoe Violation:Kicked Ball (M.Ayotte),,97-107,97,107
+0021901294,2020-08-10,MIL,TOR,43.3,4,4,42,TOR,MIL,foul,2,False,False,Wilson S.FOUL (P1.PN) (M.Ayotte),,97-107,97,107
+0021901294,2020-08-10,MIL,TOR,43.3,4,4,42,TOR,TOR,ft_miss,11,False,False,,MISS Hollis-Jefferson Free Throw 1 of 2,97-107,97,107
+0021901294,2020-08-10,MIL,TOR,43.3,4,4,42,TOR,TOR,reb,1,False,False,,Raptors Rebound,97-107,97,107
+0021901294,2020-08-10,MIL,TOR,43.3,4,4,42,TOR,TOR,ft_make,12,False,False,,Hollis-Jefferson Free Throw 2 of 2 (9 PTS),97-108,97,108
+0021901294,2020-08-10,MIL,TOR,43.4,4,4,36,MIL,MIL,fg3_miss,1,False,False,MISS Brown 3PT Jump Shot,,97-108,97,108
+0021901294,2020-08-10,MIL,TOR,43.47,4,4,32,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:4 Def:5),97-108,97,108
+0021901294,2020-08-10,MIL,TOR,43.52,4,4,29,TOR,TOR,tov,40,False,False,,Johnson Out of Bounds Lost Ball Turnover (P1.T13),97-108,97,108
+0021901294,2020-08-10,MIL,TOR,43.65,4,4,21,MIL,MIL,fg_miss,79,False,False,MISS Bledsoe 13' Pullup Jump Shot,,97-108,97,108
+0021901294,2020-08-10,MIL,TOR,43.68,4,4,19,TOR,TOR,reb,0,False,False,,Raptors Rebound,97-108,97,108
+0021901294,2020-08-10,MIL,TOR,43.95,4,4,3,TOR,TOR,fg_miss,86,False,False,,MISS Hollis-Jefferson 11' Turnaround Fadeaway Shot,97-108,97,108
+0021901294,2020-08-10,MIL,TOR,44.0,4,4,0,MIL,MIL,reb,0,False,False,Korver REBOUND (Off:0 Def:4),,97-108,97,108
+0021901294,2020-08-10,MIL,TOR,44.15,4,3,51,MIL,MIL,fg_make,5,False,False,Ilyasova 3' Layup (9 PTS) (Bledsoe 7 AST),,99-108,99,108
+0021901294,2020-08-10,MIL,TOR,44.43,4,3,34,TOR,TOR,fg_miss,79,False,False,,MISS Thomas 21' Pullup Jump Shot,99-108,99,108
+0021901294,2020-08-10,MIL,TOR,44.48,4,3,31,TOR,TOR,reb,0,False,False,,Watson REBOUND (Off:2 Def:1),99-108,99,108
+0021901294,2020-08-10,MIL,TOR,44.67,4,3,20,TOR,TOR,fg_miss,79,False,False,,MISS Johnson 20' Pullup Jump Shot,99-108,99,108
+0021901294,2020-08-10,MIL,TOR,44.72,4,3,17,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:7),,99-108,99,108
+0021901294,2020-08-10,MIL,TOR,44.77,4,3,14,MIL,MIL,fg3_miss,79,False,False,MISS Korver 30' 3PT Pullup Jump Shot,,99-108,99,108
+0021901294,2020-08-10,MIL,TOR,44.83,4,3,10,TOR,TOR,reb,0,False,False,,Watson REBOUND (Off:2 Def:2),99-108,99,108
+0021901294,2020-08-10,MIL,TOR,44.95,4,3,3,TOR,TOR,fg_make,75,False,False,,Watson 2' Driving Finger Roll Layup (4 PTS),99-110,99,110
+0021901294,2020-08-10,MIL,TOR,44.97,4,3,2,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 5 Short 0),,99-110,99,110
+0021901294,2020-08-10,MIL,TOR,45.13,4,2,52,MIL,MIL,fg3_make,1,False,False,Bledsoe 26' 3PT Jump Shot (9 PTS) (Wilson 2 AST),,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,45.32,4,2,41,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 25' 3PT Jump Shot,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,45.4,4,2,36,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:1 Def:5),,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,45.7,4,2,18,MIL,MIL,fg3_miss,1,False,False,MISS Wilson 3PT Jump Shot,,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,45.73,4,2,16,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:4 Def:6),102-110,102,110
+0021901294,2020-08-10,MIL,TOR,45.87,4,2,8,TOR,TOR,fg_miss,79,False,False,,MISS Johnson 15' Pullup Jump Shot,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,45.93,4,2,4,MIL,MIL,reb,0,False,False,Wilson REBOUND (Off:0 Def:1),,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,46.08,4,1,55,MIL,MIL,tov,2,False,True,Korver Lost Ball Turnover (P3.T19),,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,46.08,4,1,55,MIL,TOR,steal,2,False,True,steal,steal,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,46.45,4,1,33,TOR,TOR,fg3_miss,1,False,False,,MISS Hollis-Jefferson 3PT Jump Shot,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,46.5,4,1,30,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:1 Def:6),,102-110,102,110
+0021901294,2020-08-10,MIL,TOR,46.65,4,1,21,MIL,MIL,fg_make,75,False,False,DiVincenzo 2' Driving Finger Roll Layup (6 PTS) (Bledsoe 8 AST),,104-110,104,110
+0021901294,2020-08-10,MIL,TOR,46.98,4,1,1,TOR,TOR,fg3_miss,79,True,False,,MISS Thomas 3PT Pullup Jump Shot,104-110,104,110
+0021901294,2020-08-10,MIL,TOR,46.98,4,1,1,TOR,MIL,block,79,True,False,block,block,104-110,104,110
+0021901294,2020-08-10,MIL,TOR,47.02,4,0,59,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:2 Def:3),104-110,104,110
+0021901294,2020-08-10,MIL,TOR,47.02,4,0,59,TOR,TOR,fg_make,63,False,False,,Hollis-Jefferson 7' Fadeaway Jumper (11 PTS),104-112,104,112
+0021901294,2020-08-10,MIL,TOR,47.1,4,0,54,MIL,MIL,fg_make,73,False,False,Bledsoe 3' Driving Reverse Layup (11 PTS),,106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.18,4,0,49,TOR,MIL,foul,28,False,False,DiVincenzo Personal Take Foul (P2.PN) (S.Foster),,106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.18,4,0,49,TOR,TOR,ft_miss,11,False,False,,MISS Johnson Free Throw 1 of 2,106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.18,4,0,49,TOR,TOR,reb,1,False,False,,Raptors Rebound,106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.18,4,0,49,TOR,TOR,ft_miss,12,False,False,,MISS Johnson Free Throw 2 of 2,106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.23,4,0,46,TOR,TOR,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.42,4,0,35,TOR,TOR,fg_miss,79,False,False,,MISS Thomas 21' Pullup Jump Shot,106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.45,4,0,33,TOR,TOR,reb,0,False,False,,Johnson REBOUND (Off:2 Def:1),106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.45,4,0,33,TOR,TOR,fg_miss,97,False,False,,MISS Johnson 1' Tip Layup Shot,106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.47,4,0,32,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:5 Def:6),106-112,106,112
+0021901294,2020-08-10,MIL,TOR,47.47,4,0,32,TOR,TOR,fg_make,97,False,False,,Boucher 1' Tip Layup Shot (25 PTS),106-114,106,114
+0021901294,2020-08-10,MIL,TOR,47.47,4,0,32,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 6 Short 0),,106-114,106,114
+0021901294,2020-08-10,MIL,TOR,47.52,4,0,29,MIL,MIL,fg3_miss,79,False,False,MISS Wilson 26' 3PT Pullup Jump Shot,,106-114,106,114
+0021901294,2020-08-10,MIL,TOR,47.57,4,0,26,TOR,TOR,reb,0,False,False,,Johnson REBOUND (Off:2 Def:2),106-114,106,114
+0021901294,2020-08-10,MIL,TOR,47.95,4,0,3,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#14),106-114,106,114
+0021901294,2020-08-10,MIL,TOR,48.0,4,0,0,TOR,,period_end,0,False,False,,,106-114,106,114

@@ -1,0 +1,423 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100509,2021-12-28,MIA,WAS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100509,2021-12-28,MIA,WAS,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Yurtseven vs. Gafford: Tip to Robinson,,0-0,0,0
+0022100509,2021-12-28,MIA,WAS,0.25,1,11,45,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,0-0,0,0
+0022100509,2021-12-28,MIA,WAS,0.28,1,11,43,WAS,WAS,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:1),0-0,0,0
+0022100509,2021-12-28,MIA,WAS,0.63,1,11,22,WAS,WAS,fg_make,9,False,False,,Kuzma 1' Driving Dunk (2 PTS) (Kispert 1 AST),0-2,0,2
+0022100509,2021-12-28,MIA,WAS,0.9,1,11,6,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (3 PTS) (Yurtseven 1 AST),,3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.12,1,10,53,WAS,MIA,steal,2,False,True,steal,steal,3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.12,1,10,53,WAS,WAS,tov,2,False,True,,Avdija Lost Ball Turnover (P1.T1),3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.25,1,10,45,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 25' 3PT Jump Shot,,3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.32,1,10,41,WAS,WAS,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:2),3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.42,1,10,35,WAS,WAS,reb,1,False,False,,Wizards Rebound,3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.42,1,10,35,WAS,WAS,ft_make,12,False,False,,Avdija Free Throw 2 of 2 (1 PTS),3-3,3,3
+0022100509,2021-12-28,MIA,WAS,1.42,1,10,35,WAS,MIA,foul,2,False,False,Yurtseven S.FOUL (P1.T1) (E.Malloy),,3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.42,1,10,35,WAS,WAS,ft_miss,11,False,False,,MISS Avdija Free Throw 1 of 2,3-2,3,2
+0022100509,2021-12-28,MIA,WAS,1.7,1,10,18,MIA,MIA,fg3_miss,1,False,False,MISS Martin 26' 3PT Jump Shot,,3-3,3,3
+0022100509,2021-12-28,MIA,WAS,1.77,1,10,14,WAS,WAS,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:1),3-3,3,3
+0022100509,2021-12-28,MIA,WAS,1.82,1,10,11,WAS,MIA,foul,2,False,False,Robinson S.FOUL (P1.T2) (L.Holtkamp),,3-5,3,5
+0022100509,2021-12-28,MIA,WAS,1.82,1,10,11,WAS,WAS,ft_make,10,False,False,,Kuzma Free Throw 1 of 1 (5 PTS),3-6,3,6
+0022100509,2021-12-28,MIA,WAS,1.82,1,10,11,WAS,WAS,fg_make,6,False,False,,Kuzma 1' Driving Layup (4 PTS),3-5,3,5
+0022100509,2021-12-28,MIA,WAS,2.1,1,9,54,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,3-6,3,6
+0022100509,2021-12-28,MIA,WAS,2.15,1,9,51,WAS,WAS,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:2),3-6,3,6
+0022100509,2021-12-28,MIA,WAS,2.18,1,9,49,MIA,WAS,foul,26,False,False,,Avdija Offensive Charge Foul (P1) (E.Malloy),3-6,3,6
+0022100509,2021-12-28,MIA,WAS,2.18,1,9,49,WAS,WAS,tov,37,False,False,,Avdija Offensive Foul Turnover (P2.T2),3-6,3,6
+0022100509,2021-12-28,MIA,WAS,2.43,1,9,34,MIA,MIA,fg3_make,79,False,False,Vincent 27' 3PT Pullup Jump Shot (3 PTS) (Butler 1 AST),,6-6,6,6
+0022100509,2021-12-28,MIA,WAS,2.78,1,9,13,WAS,WAS,fg_miss,1,False,False,,MISS Kispert 19' Jump Shot,6-6,6,6
+0022100509,2021-12-28,MIA,WAS,2.82,1,9,11,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:0 Def:1),,6-6,6,6
+0022100509,2021-12-28,MIA,WAS,2.92,1,9,5,WAS,WAS,reb,0,False,False,,Kispert REBOUND (Off:0 Def:1),6-6,6,6
+0022100509,2021-12-28,MIA,WAS,2.92,1,9,5,MIA,MIA,fg_miss,102,False,False,MISS Butler 7' Driving Floating Bank Jump Shot,,6-6,6,6
+0022100509,2021-12-28,MIA,WAS,3.17,1,8,50,WAS,WAS,fg_miss,47,False,False,,MISS Kuzma 9' Turnaround Jump Shot,6-6,6,6
+0022100509,2021-12-28,MIA,WAS,3.2,1,8,48,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:0 Def:1),,6-6,6,6
+0022100509,2021-12-28,MIA,WAS,3.37,1,8,38,MIA,MIA,fg_make,7,False,False,Yurtseven 1' Dunk (2 PTS) (Robinson 1 AST),,8-6,8,6
+0022100509,2021-12-28,MIA,WAS,3.65,1,8,21,WAS,WAS,fg3_make,1,False,False,,Kuzma 25' 3PT Jump Shot (8 PTS) (Gafford 1 AST),8-9,8,9
+0022100509,2021-12-28,MIA,WAS,3.83,1,8,10,MIA,WAS,foul,2,False,False,,Gafford S.FOUL (P1.T1) (L.Holtkamp),8-9,8,9
+0022100509,2021-12-28,MIA,WAS,3.83,1,8,10,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (1 PTS),,9-9,9,9
+0022100509,2021-12-28,MIA,WAS,3.83,1,8,10,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (2 PTS),,10-9,10,9
+0022100509,2021-12-28,MIA,WAS,4.03,1,7,58,WAS,WAS,fg3_make,1,False,False,,Kispert 28' 3PT Jump Shot (3 PTS) (Dinwiddie 1 AST),10-12,10,12
+0022100509,2021-12-28,MIA,WAS,4.4,1,7,36,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (6 PTS) (Butler 2 AST),,13-12,13,12
+0022100509,2021-12-28,MIA,WAS,4.7,1,7,18,WAS,WAS,fg3_miss,1,False,False,,MISS Kispert 24' 3PT Jump Shot,13-12,13,12
+0022100509,2021-12-28,MIA,WAS,4.75,1,7,15,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:0 Def:2),,13-12,13,12
+0022100509,2021-12-28,MIA,WAS,5.07,1,6,56,MIA,MIA,fg_miss,6,False,False,MISS Martin 4' Driving Layup,,13-12,13,12
+0022100509,2021-12-28,MIA,WAS,5.12,1,6,53,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:1),13-12,13,12
+0022100509,2021-12-28,MIA,WAS,5.2,1,6,48,WAS,WAS,fg_miss,101,False,False,,MISS Kuzma 9' Driving Floating Jump Shot,13-12,13,12
+0022100509,2021-12-28,MIA,WAS,5.25,1,6,45,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:0 Def:2),,13-12,13,12
+0022100509,2021-12-28,MIA,WAS,5.37,1,6,38,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,13-12,13,12
+0022100509,2021-12-28,MIA,WAS,5.55,1,6,27,MIA,MIA,fg_make,6,False,False,Martin 2' Driving Layup (2 PTS),,15-12,15,12
+0022100509,2021-12-28,MIA,WAS,5.78,1,6,13,WAS,WAS,tov,1,False,True,,Avdija Bad Pass Turnover (P3.T3),15-12,15,12
+0022100509,2021-12-28,MIA,WAS,5.78,1,6,13,WAS,MIA,steal,1,False,True,steal,steal,15-12,15,12
+0022100509,2021-12-28,MIA,WAS,5.95,1,6,3,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 25' 3PT Jump Shot,,15-12,15,12
+0022100509,2021-12-28,MIA,WAS,6.0,1,6,0,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:1 Def:2),,15-12,15,12
+0022100509,2021-12-28,MIA,WAS,6.03,1,5,58,MIA,WAS,block,87,True,False,block,block,15-12,15,12
+0022100509,2021-12-28,MIA,WAS,6.03,1,5,58,MIA,MIA,fg_miss,87,True,False,MISS Yurtseven 1' Putback Dunk,,15-12,15,12
+0022100509,2021-12-28,MIA,WAS,6.1,1,5,54,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:0 Def:1),15-12,15,12
+0022100509,2021-12-28,MIA,WAS,6.3,1,5,42,WAS,WAS,fg_make,101,False,False,,Gafford 5' Driving Floating Jump Shot (2 PTS) (Dinwiddie 2 AST),15-14,15,14
+0022100509,2021-12-28,MIA,WAS,6.42,1,5,35,MIA,WAS,foul,1,False,False,,Kispert P.FOUL (P1.T2) (L.Holtkamp),15-14,15,14
+0022100509,2021-12-28,MIA,WAS,6.5,1,5,30,MIA,MIA,fg_miss,43,False,False,MISS Butler 2' Alley Oop Layup,,15-14,15,14
+0022100509,2021-12-28,MIA,WAS,6.53,1,5,28,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:2),15-14,15,14
+0022100509,2021-12-28,MIA,WAS,6.68,1,5,19,WAS,WAS,fg_make,79,False,False,,Kispert 15' Pullup Jump Shot (5 PTS),15-16,15,16
+0022100509,2021-12-28,MIA,WAS,6.93,1,5,4,MIA,MIA,fg_make,6,False,False,Butler 2' Driving Layup (4 PTS) (Martin 1 AST),,17-16,17,16
+0022100509,2021-12-28,MIA,WAS,7.1,1,4,54,WAS,WAS,fg3_make,1,False,False,,Bertans 3PT Jump Shot (3 PTS) (Dinwiddie 3 AST),17-19,17,19
+0022100509,2021-12-28,MIA,WAS,7.27,1,4,44,MIA,MIA,fg3_make,1,False,False,Herro 24' 3PT Jump Shot (3 PTS) (Butler 3 AST),,20-19,20,19
+0022100509,2021-12-28,MIA,WAS,7.55,1,4,27,WAS,WAS,fg_make,7,False,False,,Gafford 1' Dunk (4 PTS) (Dinwiddie 4 AST),20-21,20,21
+0022100509,2021-12-28,MIA,WAS,7.75,1,4,15,MIA,MIA,fg_make,6,False,False,Butler 1' Driving Layup (6 PTS),,22-21,22,21
+0022100509,2021-12-28,MIA,WAS,7.75,1,4,15,MIA,WAS,foul,2,False,False,,Avdija S.FOUL (P2.T3) (J.Schroeder),22-21,22,21
+0022100509,2021-12-28,MIA,WAS,7.75,1,4,15,MIA,MIA,ft_make,10,False,False,Butler Free Throw 1 of 1 (7 PTS),,23-21,23,21
+0022100509,2021-12-28,MIA,WAS,8.1,1,3,54,WAS,WAS,fg3_miss,1,False,False,,MISS Kispert 24' 3PT Jump Shot,23-21,23,21
+0022100509,2021-12-28,MIA,WAS,8.17,1,3,50,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:1),,23-21,23,21
+0022100509,2021-12-28,MIA,WAS,8.32,1,3,41,MIA,MIA,fg_make,6,False,False,Butler 6' Driving Layup (9 PTS),,25-21,25,21
+0022100509,2021-12-28,MIA,WAS,8.32,1,3,41,MIA,WAS,foul,2,False,False,,Bertans S.FOUL (P1.T4) (E.Malloy),25-21,25,21
+0022100509,2021-12-28,MIA,WAS,8.32,1,3,41,MIA,MIA,ft_make,10,False,False,Butler Free Throw 1 of 1 (10 PTS),,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,8.5,1,3,30,WAS,WAS,fg3_miss,79,False,False,,MISS Dinwiddie 27' 3PT Pullup Jump Shot,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,8.55,1,3,27,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:2),,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,8.68,1,3,19,MIA,MIA,fg_miss,79,False,False,MISS Butler 12' Pullup Jump Shot,,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,8.77,1,3,14,WAS,WAS,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:3),26-21,26,21
+0022100509,2021-12-28,MIA,WAS,8.92,1,3,5,WAS,WAS,fg3_miss,1,False,False,,MISS Todd 24' 3PT Jump Shot,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,8.97,1,3,2,MIA,MIA,reb,0,False,False,Garrett REBOUND (Off:0 Def:1),,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,9.05,1,2,57,MIA,MIA,fg_miss,79,False,False,MISS Herro 19' Pullup Jump Shot,,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,9.1,1,2,54,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:2),,26-21,26,21
+0022100509,2021-12-28,MIA,WAS,9.12,1,2,53,MIA,MIA,fg_make,72,False,False,Butler 2' Putback Layup (12 PTS),,28-21,28,21
+0022100509,2021-12-28,MIA,WAS,9.13,1,2,52,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),28-21,28,21
+0022100509,2021-12-28,MIA,WAS,9.47,1,2,32,WAS,WAS,fg3_make,1,False,False,,Bertans 31' 3PT Jump Shot (6 PTS) (Todd 1 AST),28-24,28,24
+0022100509,2021-12-28,MIA,WAS,9.87,1,2,8,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (9 PTS) (Butler 4 AST),,31-24,31,24
+0022100509,2021-12-28,MIA,WAS,10.27,1,1,44,MIA,WAS,foul,26,False,False,,Kuzma Offensive Charge Foul (P1) (L.Holtkamp),31-24,31,24
+0022100509,2021-12-28,MIA,WAS,10.27,1,1,44,WAS,WAS,tov,37,False,False,,Kuzma Offensive Foul Turnover (P1.T4),31-24,31,24
+0022100509,2021-12-28,MIA,WAS,10.47,1,1,32,MIA,WAS,foul,2,False,False,,Bertans S.FOUL (P2.PN) (E.Malloy),33-24,33,24
+0022100509,2021-12-28,MIA,WAS,10.47,1,1,32,MIA,MIA,fg_make,43,False,False,Okpala 3' Alley Oop Layup (2 PTS) (Herro 1 AST),,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,10.47,1,1,32,MIA,MIA,ft_miss,10,False,False,MISS Okpala Free Throw 1 of 1,,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,10.52,1,1,29,WAS,WAS,reb,0,False,False,,Todd REBOUND (Off:0 Def:1),33-24,33,24
+0022100509,2021-12-28,MIA,WAS,10.63,1,1,22,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 28' 3PT Jump Shot,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,10.68,1,1,19,WAS,WAS,reb,0,False,False,,Wizards Rebound,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,10.83,1,1,10,WAS,WAS,fg_miss,80,False,False,,MISS Goodwin 21' Step Back Jump Shot,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,10.87,1,1,8,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:3),,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,11.12,1,0,53,MIA,MIA,fg_miss,6,False,False,MISS Garrett 1' Driving Layup,,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,11.17,1,0,50,MIA,MIA,reb,0,False,False,Garrett REBOUND (Off:1 Def:1),,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,11.37,1,0,38,MIA,MIA,fg_miss,79,False,False,MISS Butler 19' Pullup Jump Shot,,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,11.38,1,0,37,MIA,MIA,reb,0,False,False,HEAT Rebound,,33-24,33,24
+0022100509,2021-12-28,MIA,WAS,11.4,1,0,36,MIA,MIA,fg_make,79,False,False,Herro 19' Pullup Jump Shot (5 PTS) (Vincent 1 AST),,35-24,35,24
+0022100509,2021-12-28,MIA,WAS,11.73,1,0,16,WAS,WAS,fg_miss,6,False,False,,MISS Goodwin 2' Driving Layup,35-24,35,24
+0022100509,2021-12-28,MIA,WAS,11.77,1,0,14,MIA,MIA,reb,0,False,False,Garrett REBOUND (Off:1 Def:2),,35-24,35,24
+0022100509,2021-12-28,MIA,WAS,11.97,1,0,2,MIA,MIA,fg3_make,79,False,False,Herro 26' 3PT Pullup Jump Shot (8 PTS),,38-24,38,24
+0022100509,2021-12-28,MIA,WAS,12.0,1,0,0,MIA,,period_end,0,False,False,,,38-24,38,24
+0022100509,2021-12-28,MIA,WAS,12.0,2,12,0,MIA,,period_start,0,False,False,,,38-24,38,24
+0022100509,2021-12-28,MIA,WAS,12.15,2,11,51,WAS,WAS,ft_make,12,False,False,,Dinwiddie Free Throw 2 of 2 (2 PTS),38-26,38,26
+0022100509,2021-12-28,MIA,WAS,12.15,2,11,51,WAS,WAS,ft_make,11,False,False,,Dinwiddie Free Throw 1 of 2 (1 PTS),38-25,38,25
+0022100509,2021-12-28,MIA,WAS,12.15,2,11,51,WAS,MIA,foul,2,False,False,Garrett S.FOUL (P1.T1) (E.Malloy),,38-24,38,24
+0022100509,2021-12-28,MIA,WAS,12.4,2,11,36,MIA,MIA,fg_miss,98,False,False,MISS Garrett 2' Cutting Layup Shot,,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,12.47,2,11,32,MIA,MIA,reb,0,False,False,Garrett REBOUND (Off:2 Def:2),,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,12.47,2,11,32,MIA,MIA,fg_miss,97,False,False,MISS Garrett Tip Layup Shot,,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,12.48,2,11,31,WAS,WAS,reb,0,False,False,,Todd REBOUND (Off:0 Def:2),38-26,38,26
+0022100509,2021-12-28,MIA,WAS,12.8,2,11,12,WAS,WAS,fg3_miss,1,False,False,,MISS Dinwiddie 33' 3PT Jump Shot,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,12.87,2,11,8,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:0 Def:1),,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,12.9,2,11,6,MIA,WAS,foul,1,False,False,,Bertans P.FOUL (P3.T1) (J.Schroeder),38-26,38,26
+0022100509,2021-12-28,MIA,WAS,13.07,2,10,56,MIA,MIA,fg_miss,6,False,False,MISS Herro 3' Driving Layup,,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,13.1,2,10,54,WAS,WAS,reb,0,False,False,,Todd REBOUND (Off:0 Def:3),38-26,38,26
+0022100509,2021-12-28,MIA,WAS,13.28,2,10,43,WAS,WAS,fg3_miss,1,False,False,,MISS Kuzma 3PT Jump Shot,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,13.33,2,10,40,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:3),,38-26,38,26
+0022100509,2021-12-28,MIA,WAS,13.48,2,10,31,MIA,MIA,fg_make,108,False,False,Martin Cutting Dunk Shot (4 PTS) (Herro 2 AST),,40-26,40,26
+0022100509,2021-12-28,MIA,WAS,13.85,2,10,9,WAS,WAS,ft_make,10,False,False,,Dinwiddie Free Throw 1 of 1 (5 PTS),40-29,40,29
+0022100509,2021-12-28,MIA,WAS,13.85,2,10,9,WAS,WAS,fg_make,6,False,False,,Dinwiddie 1' Driving Layup (4 PTS),40-28,40,28
+0022100509,2021-12-28,MIA,WAS,13.85,2,10,9,WAS,MIA,foul,2,False,False,Garrett S.FOUL (P2.T2) (L.Holtkamp),,40-28,40,28
+0022100509,2021-12-28,MIA,WAS,14.03,2,9,58,MIA,MIA,fg_make,102,False,False,Herro 4' Driving Floating Bank Jump Shot (10 PTS),,42-29,42,29
+0022100509,2021-12-28,MIA,WAS,14.18,2,9,49,WAS,WAS,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,42-29,42,29
+0022100509,2021-12-28,MIA,WAS,14.2,2,9,48,MIA,MIA,reb,0,False,False,HEAT Rebound,,42-29,42,29
+0022100509,2021-12-28,MIA,WAS,14.57,2,9,26,MIA,MIA,fg_make,6,False,False,Martin 2' Driving Layup (6 PTS) (Okpala 1 AST),,44-29,44,29
+0022100509,2021-12-28,MIA,WAS,14.82,2,9,11,WAS,WAS,fg_miss,47,False,False,,MISS Kuzma 6' Turnaround Jump Shot,44-29,44,29
+0022100509,2021-12-28,MIA,WAS,14.85,2,9,9,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:1 Def:1),44-29,44,29
+0022100509,2021-12-28,MIA,WAS,14.87,2,9,8,WAS,WAS,fg_make,72,False,False,,Gafford 1' Putback Layup (6 PTS),44-31,44,31
+0022100509,2021-12-28,MIA,WAS,15.07,2,8,56,MIA,MIA,fg3_make,79,False,False,Vincent 27' 3PT Pullup Jump Shot (6 PTS),,47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.08,2,8,55,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.2 Short 0),47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.33,2,8,40,WAS,WAS,fg_miss,6,True,False,,MISS Kispert 5' Driving Layup,47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.33,2,8,40,WAS,MIA,block,6,True,False,block,block,47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.42,2,8,35,WAS,WAS,tov,39,False,False,,Johnson Step Out of Bounds Turnover (P1.T5),47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.42,2,8,35,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:0),47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.7,2,8,18,MIA,MIA,fg_miss,63,False,False,MISS Herro 12' Fadeaway Jumper,,47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.77,2,8,14,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:1 Def:2),47-31,47,31
+0022100509,2021-12-28,MIA,WAS,15.87,2,8,8,WAS,WAS,fg_make,75,False,False,,Kuzma 6' Driving Finger Roll Layup (10 PTS),47-33,47,33
+0022100509,2021-12-28,MIA,WAS,16.13,2,7,52,MIA,MIA,fg_miss,78,False,False,MISS Yurtseven 10' Floating Jump Shot,,47-33,47,33
+0022100509,2021-12-28,MIA,WAS,16.18,2,7,49,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),47-33,47,33
+0022100509,2021-12-28,MIA,WAS,16.38,2,7,37,WAS,WAS,fg3_miss,1,False,False,,MISS Dinwiddie 26' 3PT Jump Shot,47-33,47,33
+0022100509,2021-12-28,MIA,WAS,16.45,2,7,33,WAS,WAS,reb,0,False,False,,Dinwiddie REBOUND (Off:1 Def:2),47-33,47,33
+0022100509,2021-12-28,MIA,WAS,16.57,2,7,26,WAS,WAS,tov,2,False,True,,Gafford Lost Ball Turnover (P1.T6),47-33,47,33
+0022100509,2021-12-28,MIA,WAS,16.57,2,7,26,WAS,MIA,steal,2,False,True,steal,steal,47-33,47,33
+0022100509,2021-12-28,MIA,WAS,16.63,2,7,22,MIA,MIA,fg_make,41,False,False,Garrett 2' Running Layup (2 PTS) (Martin 2 AST),,49-33,49,33
+0022100509,2021-12-28,MIA,WAS,16.63,2,7,22,MIA,MIA,ft_make,10,False,False,Garrett Free Throw 1 of 1 (3 PTS),,50-33,50,33
+0022100509,2021-12-28,MIA,WAS,16.63,2,7,22,MIA,WAS,foul,2,False,False,,Kispert S.FOUL (P2.T2) (J.Schroeder),49-33,49,33
+0022100509,2021-12-28,MIA,WAS,16.82,2,7,11,WAS,WAS,fg3_make,1,False,False,,Kispert 27' 3PT Jump Shot (8 PTS) (Dinwiddie 5 AST),50-36,50,36
+0022100509,2021-12-28,MIA,WAS,17.1,2,6,54,MIA,MIA,fg_make,6,False,False,Herro 8' Driving Layup (12 PTS),,52-36,52,36
+0022100509,2021-12-28,MIA,WAS,17.27,2,6,44,WAS,WAS,fg_make,52,False,False,,Gafford 1' Alley Oop Dunk (8 PTS) (Dinwiddie 6 AST),52-38,52,38
+0022100509,2021-12-28,MIA,WAS,17.28,2,6,43,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,52-38,52,38
+0022100509,2021-12-28,MIA,WAS,17.53,2,6,28,MIA,MIA,fg_miss,80,False,False,MISS Vincent 18' Step Back Jump Shot,,52-38,52,38
+0022100509,2021-12-28,MIA,WAS,17.6,2,6,24,WAS,WAS,reb,0,False,False,,Dinwiddie REBOUND (Off:1 Def:3),52-38,52,38
+0022100509,2021-12-28,MIA,WAS,17.67,2,6,20,WAS,WAS,tov,1,False,True,,Bertans Bad Pass Turnover (P1.T7),52-38,52,38
+0022100509,2021-12-28,MIA,WAS,17.67,2,6,20,WAS,MIA,steal,1,False,True,steal,steal,52-38,52,38
+0022100509,2021-12-28,MIA,WAS,17.83,2,6,10,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (14 PTS),,54-38,54,38
+0022100509,2021-12-28,MIA,WAS,17.83,2,6,10,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (13 PTS),,53-38,53,38
+0022100509,2021-12-28,MIA,WAS,17.83,2,6,10,MIA,WAS,foul,2,False,False,,Sword S.FOUL (P1.T3) (J.Schroeder),52-38,52,38
+0022100509,2021-12-28,MIA,WAS,18.2,2,5,48,WAS,WAS,fg3_miss,79,False,False,,MISS Bertans 26' 3PT Pullup Jump Shot,54-38,54,38
+0022100509,2021-12-28,MIA,WAS,18.23,2,5,46,MIA,MIA,reb,0,False,False,HEAT Rebound,,54-38,54,38
+0022100509,2021-12-28,MIA,WAS,18.35,2,5,39,MIA,MIA,ft_miss,12,False,False,MISS Herro Free Throw 2 of 2,,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.35,2,5,39,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (15 PTS),,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.35,2,5,39,MIA,WAS,foul,2,False,False,,Sword S.FOUL (P2.T4) (E.Malloy),54-38,54,38
+0022100509,2021-12-28,MIA,WAS,18.42,2,5,35,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:1 Def:3),55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.63,2,5,22,WAS,WAS,fg3_miss,1,True,False,,MISS Kispert 25' 3PT Jump Shot,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.63,2,5,22,WAS,MIA,block,1,True,False,block,block,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.73,2,5,16,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:2 Def:3),55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.77,2,5,14,WAS,WAS,fg_miss,6,False,False,,MISS Kispert 3' Driving Layup,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.77,2,5,14,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:1 Def:3),,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,18.8,2,5,12,MIA,MIA,tov,45,False,False,Butler Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,19.05,2,4,57,WAS,WAS,fg_miss,101,False,False,,MISS Dinwiddie 9' Driving Floating Jump Shot,55-38,55,38
+0022100509,2021-12-28,MIA,WAS,19.08,2,4,55,WAS,WAS,reb,0,False,False,,Dinwiddie REBOUND (Off:2 Def:3),55-38,55,38
+0022100509,2021-12-28,MIA,WAS,19.12,2,4,53,WAS,WAS,fg3_make,1,False,False,,Dinwiddie 3PT Jump Shot (8 PTS),55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.33,2,4,40,MIA,MIA,tov,1,False,True,Butler Bad Pass Turnover (P2.T2),,55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.33,2,4,40,MIA,WAS,steal,1,False,True,steal,steal,55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.38,2,4,37,,MIA,jump_ball,0,False,False,Jump Ball Herro vs. Sword: Tip to Gafford,,55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.48,2,4,31,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 27' 3PT Jump Shot,55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.53,2,4,28,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:4),,55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.72,2,4,17,MIA,MIA,tov,2,False,True,Herro Lost Ball Turnover (P1.T3),,55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.72,2,4,17,MIA,WAS,steal,2,False,True,steal,steal,55-41,55,41
+0022100509,2021-12-28,MIA,WAS,19.77,2,4,14,WAS,WAS,fg_make,41,False,False,,Sword 2' Running Layup (2 PTS) (Bertans 1 AST),55-43,55,43
+0022100509,2021-12-28,MIA,WAS,19.98,2,4,1,MIA,MIA,fg3_make,1,False,False,Herro 24' 3PT Jump Shot (18 PTS) (Butler 5 AST),,58-43,58,43
+0022100509,2021-12-28,MIA,WAS,20.18,2,3,49,WAS,WAS,tov,45,False,False,,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P1.T8),58-43,58,43
+0022100509,2021-12-28,MIA,WAS,20.33,2,3,40,MIA,WAS,foul,1,False,False,,Sword P.FOUL (P3.PN) (L.Holtkamp),58-43,58,43
+0022100509,2021-12-28,MIA,WAS,20.33,2,3,40,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (13 PTS),,59-43,59,43
+0022100509,2021-12-28,MIA,WAS,20.33,2,3,40,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (14 PTS),,60-43,60,43
+0022100509,2021-12-28,MIA,WAS,20.68,2,3,19,WAS,WAS,fg_make,5,False,False,,Gafford 3' Layup (10 PTS) (Kuzma 1 AST),60-45,60,45
+0022100509,2021-12-28,MIA,WAS,20.8,2,3,12,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 3PT Jump Shot,,60-45,60,45
+0022100509,2021-12-28,MIA,WAS,20.87,2,3,8,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:3),,60-45,60,45
+0022100509,2021-12-28,MIA,WAS,21.0,2,3,0,MIA,MIA,fg_miss,47,False,False,MISS Butler 13' Turnaround Jump Shot,,60-45,60,45
+0022100509,2021-12-28,MIA,WAS,21.07,2,2,56,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:2 Def:3),,60-45,60,45
+0022100509,2021-12-28,MIA,WAS,21.1,2,2,54,MIA,MIA,fg_miss,3,False,False,MISS Yurtseven 6' Hook Shot,,60-45,60,45
+0022100509,2021-12-28,MIA,WAS,21.13,2,2,52,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:2 Def:4),60-45,60,45
+0022100509,2021-12-28,MIA,WAS,21.17,2,2,50,WAS,WAS,fg_make,76,False,False,,Sword 2' Running Finger Roll Layup (4 PTS) (Kispert 2 AST),60-47,60,47
+0022100509,2021-12-28,MIA,WAS,21.45,2,2,33,MIA,WAS,steal,1,False,True,steal,steal,60-47,60,47
+0022100509,2021-12-28,MIA,WAS,21.45,2,2,33,MIA,MIA,tov,1,False,True,Butler Bad Pass Turnover (P3.T4),,60-47,60,47
+0022100509,2021-12-28,MIA,WAS,21.72,2,2,17,WAS,WAS,fg_miss,79,False,False,,MISS Kuzma 13' Pullup Jump Shot,60-47,60,47
+0022100509,2021-12-28,MIA,WAS,21.77,2,2,14,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:0 Def:1),,60-47,60,47
+0022100509,2021-12-28,MIA,WAS,21.97,2,2,2,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (20 PTS),,62-47,62,47
+0022100509,2021-12-28,MIA,WAS,21.97,2,2,2,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (19 PTS),,61-47,61,47
+0022100509,2021-12-28,MIA,WAS,21.97,2,2,2,MIA,WAS,foul,2,False,False,,Sword S.FOUL (P4.PN) (J.Schroeder),60-47,60,47
+0022100509,2021-12-28,MIA,WAS,22.2,2,1,48,WAS,WAS,tov,1,False,True,,Dinwiddie Bad Pass Turnover (P2.T9),62-47,62,47
+0022100509,2021-12-28,MIA,WAS,22.2,2,1,48,WAS,MIA,steal,1,False,True,steal,steal,62-47,62,47
+0022100509,2021-12-28,MIA,WAS,22.38,2,1,37,MIA,WAS,steal,1,False,True,steal,steal,62-47,62,47
+0022100509,2021-12-28,MIA,WAS,22.38,2,1,37,MIA,MIA,tov,1,False,True,Herro Bad Pass Turnover (P2.T5),,62-47,62,47
+0022100509,2021-12-28,MIA,WAS,22.47,2,1,32,WAS,WAS,ft_make,11,False,False,,Kuzma Free Throw 1 of 2 (11 PTS),62-48,62,48
+0022100509,2021-12-28,MIA,WAS,22.47,2,1,32,WAS,WAS,ft_make,12,False,False,,Kuzma Free Throw 2 of 2 (12 PTS),62-49,62,49
+0022100509,2021-12-28,MIA,WAS,22.47,2,1,32,WAS,MIA,foul,2,False,False,Herro S.FOUL (P1.T3) (J.Schroeder),,62-47,62,47
+0022100509,2021-12-28,MIA,WAS,22.83,2,1,10,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 27' 3PT Jump Shot,,62-49,62,49
+0022100509,2021-12-28,MIA,WAS,22.9,2,1,6,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:3),62-49,62,49
+0022100509,2021-12-28,MIA,WAS,22.98,2,1,1,WAS,WAS,fg_make,58,False,False,,Kuzma 8' Turnaround Hook Shot (14 PTS),62-51,62,51
+0022100509,2021-12-28,MIA,WAS,23.22,2,0,47,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:1 Def:1),,62-51,62,51
+0022100509,2021-12-28,MIA,WAS,23.22,2,0,47,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,62-51,62,51
+0022100509,2021-12-28,MIA,WAS,23.3,2,0,42,MIA,MIA,tov,45,False,False,Butler Out of Bounds - Bad Pass Turnover Turnover (P4.T6),,62-51,62,51
+0022100509,2021-12-28,MIA,WAS,23.52,2,0,29,WAS,MIA,steal,1,False,True,steal,steal,62-51,62,51
+0022100509,2021-12-28,MIA,WAS,23.52,2,0,29,WAS,WAS,tov,1,False,True,,Kuzma Bad Pass Turnover (P2.T10),62-51,62,51
+0022100509,2021-12-28,MIA,WAS,23.58,2,0,25,MIA,MIA,fg3_make,79,False,False,Robinson 27' 3PT Pullup Jump Shot (12 PTS) (Butler 6 AST),,65-51,65,51
+0022100509,2021-12-28,MIA,WAS,24.0,2,0,0,MIA,,period_end,0,False,False,,,65-51,65,51
+0022100509,2021-12-28,MIA,WAS,24.0,3,12,0,MIA,,period_start,0,False,False,,,65-51,65,51
+0022100509,2021-12-28,MIA,WAS,24.22,3,11,47,WAS,WAS,tov,1,False,True,,Kispert Bad Pass Turnover (P1.T11),65-51,65,51
+0022100509,2021-12-28,MIA,WAS,24.22,3,11,47,WAS,MIA,steal,1,False,True,steal,steal,65-51,65,51
+0022100509,2021-12-28,MIA,WAS,24.5,3,11,30,MIA,MIA,fg_miss,102,False,False,MISS Butler 10' Driving Floating Bank Jump Shot,,65-51,65,51
+0022100509,2021-12-28,MIA,WAS,24.55,3,11,27,WAS,WAS,reb,0,False,False,,Kispert REBOUND (Off:0 Def:2),65-51,65,51
+0022100509,2021-12-28,MIA,WAS,24.68,3,11,19,WAS,WAS,fg_make,66,False,False,,Dinwiddie 13' Jump Bank Shot (10 PTS),65-53,65,53
+0022100509,2021-12-28,MIA,WAS,25.08,3,10,55,MIA,MIA,fg3_make,79,False,False,Robinson 3PT Pullup Jump Shot (15 PTS) (Butler 7 AST),,68-53,68,53
+0022100509,2021-12-28,MIA,WAS,25.3,3,10,42,WAS,MIA,foul,1,False,False,Robinson P.FOUL (P2.T1) (E.Malloy),,68-53,68,53
+0022100509,2021-12-28,MIA,WAS,25.48,3,10,31,WAS,WAS,fg_make,6,False,False,,Dinwiddie 2' Driving Layup (12 PTS),68-55,68,55
+0022100509,2021-12-28,MIA,WAS,25.65,3,10,21,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 27' 3PT Jump Shot,,68-55,68,55
+0022100509,2021-12-28,MIA,WAS,25.73,3,10,16,WAS,WAS,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:4),68-55,68,55
+0022100509,2021-12-28,MIA,WAS,25.85,3,10,9,WAS,WAS,fg_miss,101,False,False,,MISS Kuzma 12' Driving Floating Jump Shot,68-55,68,55
+0022100509,2021-12-28,MIA,WAS,25.9,3,10,6,WAS,WAS,reb,0,False,False,,Dinwiddie REBOUND (Off:3 Def:3),68-55,68,55
+0022100509,2021-12-28,MIA,WAS,25.95,3,10,3,WAS,WAS,fg3_miss,1,False,False,,MISS Dinwiddie 29' 3PT Jump Shot,68-55,68,55
+0022100509,2021-12-28,MIA,WAS,25.98,3,10,1,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:2 Def:4),,68-55,68,55
+0022100509,2021-12-28,MIA,WAS,26.15,3,9,51,MIA,MIA,fg_make,102,False,False,Robinson 5' Driving Floating Bank Jump Shot (17 PTS) (Butler 8 AST),,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.48,3,9,31,WAS,MIA,block,1,True,False,block,block,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.48,3,9,31,WAS,WAS,reb,0,False,False,,Wizards Rebound,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.48,3,9,31,WAS,WAS,fg3_miss,1,True,False,,MISS Kuzma 3PT Jump Shot,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.57,3,9,26,WAS,WAS,fg_miss,101,False,False,,MISS Kuzma 15' Driving Floating Jump Shot,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.62,3,9,23,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:3 Def:4),70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.65,3,9,21,WAS,WAS,tov,1,False,True,,Gafford Bad Pass Turnover (P2.T12),70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.65,3,9,21,WAS,MIA,steal,1,False,True,steal,steal,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.72,3,9,17,MIA,MIA,fg_miss,6,True,False,MISS Vincent 2' Driving Layup,,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.72,3,9,17,MIA,WAS,block,6,True,False,block,block,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,26.73,3,9,16,WAS,WAS,reb,0,False,False,,Wizards Rebound,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,27.0,3,9,0,WAS,WAS,fg_miss,98,False,False,,MISS Kuzma 5' Cutting Layup Shot,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,27.03,3,8,58,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:2 Def:5),,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,27.12,3,8,53,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 28' 3PT Jump Shot,,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,27.18,3,8,49,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:3 Def:5),,70-55,70,55
+0022100509,2021-12-28,MIA,WAS,27.33,3,8,40,MIA,WAS,foul,1,False,False,,Dinwiddie P.FOUL (P1.T1) (E.Malloy),70-55,70,55
+0022100509,2021-12-28,MIA,WAS,27.43,3,8,34,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (20 PTS) (Butler 9 AST),,73-55,73,55
+0022100509,2021-12-28,MIA,WAS,27.78,3,8,13,WAS,WAS,fg3_miss,1,False,False,,MISS Avdija 3PT Jump Shot,73-55,73,55
+0022100509,2021-12-28,MIA,WAS,27.83,3,8,10,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:3 Def:6),,73-55,73,55
+0022100509,2021-12-28,MIA,WAS,28.1,3,7,54,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (23 PTS) (Butler 10 AST),,76-55,76,55
+0022100509,2021-12-28,MIA,WAS,28.12,3,7,53,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.3 Short 0),76-55,76,55
+0022100509,2021-12-28,MIA,WAS,28.45,3,7,33,WAS,WAS,fg_miss,101,False,False,,MISS Kispert 5' Driving Floating Jump Shot,76-55,76,55
+0022100509,2021-12-28,MIA,WAS,28.5,3,7,30,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:1 Def:2),,76-55,76,55
+0022100509,2021-12-28,MIA,WAS,28.75,3,7,15,MIA,MIA,fg_make,78,False,False,Yurtseven 11' Floating Jump Shot (4 PTS) (Butler 11 AST),,78-55,78,55
+0022100509,2021-12-28,MIA,WAS,28.98,3,7,1,WAS,MIA,steal,1,False,True,steal,steal,78-55,78,55
+0022100509,2021-12-28,MIA,WAS,28.98,3,7,1,WAS,WAS,tov,1,False,True,,Gafford Bad Pass Turnover (P3.T13),78-55,78,55
+0022100509,2021-12-28,MIA,WAS,29.02,3,6,59,MIA,MIA,fg_make,50,False,False,Butler 2' Running Dunk (16 PTS),,80-55,80,55
+0022100509,2021-12-28,MIA,WAS,29.32,3,6,41,WAS,WAS,fg_miss,79,False,False,,MISS Avdija 16' Pullup Jump Shot,80-55,80,55
+0022100509,2021-12-28,MIA,WAS,29.37,3,6,38,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:4),,80-55,80,55
+0022100509,2021-12-28,MIA,WAS,29.42,3,6,35,MIA,MIA,fg_make,108,False,False,Yurtseven 1' Cutting Dunk Shot (6 PTS) (Butler 12 AST),,82-55,82,55
+0022100509,2021-12-28,MIA,WAS,29.77,3,6,14,WAS,WAS,fg_make,101,False,False,,Dinwiddie 12' Driving Floating Jump Shot (14 PTS),82-57,82,57
+0022100509,2021-12-28,MIA,WAS,29.78,3,6,13,MIA,WAS,foul,11,False,False,,Dinwiddie T.FOUL (P1.T1) (J.Schroeder),82-57,82,57
+0022100509,2021-12-28,MIA,WAS,29.78,3,6,13,MIA,MIA,ft_make,16,False,False,Butler Free Throw Technical (17 PTS),,83-57,83,57
+0022100509,2021-12-28,MIA,WAS,29.92,3,6,5,MIA,WAS,violation,5,False,False,,Gafford Violation:Kicked Ball (E.Malloy),83-57,83,57
+0022100509,2021-12-28,MIA,WAS,30.08,3,5,55,MIA,MIA,fg_miss,63,False,False,MISS Butler 18' Fadeaway Jumper,,83-57,83,57
+0022100509,2021-12-28,MIA,WAS,30.13,3,5,52,WAS,WAS,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:5),83-57,83,57
+0022100509,2021-12-28,MIA,WAS,30.25,3,5,45,MIA,WAS,foul,28,False,False,,Dinwiddie Personal Take Foul (P2.T2) (E.Malloy),83-57,83,57
+0022100509,2021-12-28,MIA,WAS,30.25,3,5,45,WAS,WAS,tov,1,False,True,,Dinwiddie Bad Pass Turnover (P3.T14),83-57,83,57
+0022100509,2021-12-28,MIA,WAS,30.25,3,5,45,WAS,MIA,steal,1,False,True,steal,steal,83-57,83,57
+0022100509,2021-12-28,MIA,WAS,30.5,3,5,30,MIA,MIA,fg_make,73,False,False,Martin 4' Driving Reverse Layup (8 PTS) (Herro 3 AST),,85-57,85,57
+0022100509,2021-12-28,MIA,WAS,30.75,3,5,15,WAS,WAS,fg3_make,1,False,False,,Bertans 24' 3PT Jump Shot (9 PTS) (Kuzma 2 AST),85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.2,3,4,48,MIA,MIA,fg3_miss,1,False,False,MISS Martin 27' 3PT Jump Shot,,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.27,3,4,44,WAS,WAS,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:6),85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.45,3,4,33,WAS,WAS,fg3_miss,1,False,False,,MISS Kuzma 25' 3PT Jump Shot,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.5,3,4,30,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:3 Def:7),,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.62,3,4,23,MIA,MIA,fg_miss,101,False,False,MISS Herro 16' Driving Floating Jump Shot,,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.65,3,4,21,MIA,MIA,reb,0,False,False,HEAT Rebound,,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.83,3,4,10,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 27' 3PT Jump Shot,,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,31.9,3,4,6,WAS,WAS,reb,0,False,False,,Bertans REBOUND (Off:0 Def:1),85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.05,3,3,57,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 27' 3PT Jump Shot,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.1,3,3,54,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:5),,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.2,3,3,48,MIA,MIA,fg_miss,79,False,False,MISS Herro 19' Pullup Jump Shot,,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.22,3,3,47,WAS,MIA,foul,3,False,False,Yurtseven L.B.FOUL (P2.T2) (E.Malloy),,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.22,3,3,47,WAS,WAS,reb,0,False,False,,Wizards Rebound,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.47,3,3,32,WAS,WAS,fg3_miss,1,False,False,,MISS Sword 3PT Jump Shot,85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.55,3,3,27,WAS,WAS,reb,0,False,False,,Bertans REBOUND (Off:1 Def:1),85-60,85,60
+0022100509,2021-12-28,MIA,WAS,32.57,3,3,26,WAS,WAS,fg3_make,1,False,False,,Dinwiddie 26' 3PT Jump Shot (17 PTS) (Bertans 2 AST),85-63,85,63
+0022100509,2021-12-28,MIA,WAS,32.97,3,3,2,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#7),,85-63,85,63
+0022100509,2021-12-28,MIA,WAS,33.23,3,2,46,WAS,WAS,fg3_make,1,False,False,,Bertans 25' 3PT Jump Shot (12 PTS) (Gafford 2 AST),85-66,85,66
+0022100509,2021-12-28,MIA,WAS,33.25,3,2,45,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 3 Short 0),,85-66,85,66
+0022100509,2021-12-28,MIA,WAS,33.55,3,2,27,MIA,MIA,fg_make,79,False,False,Herro 16' Pullup Jump Shot (22 PTS),,87-66,87,66
+0022100509,2021-12-28,MIA,WAS,33.83,3,2,10,WAS,WAS,fg3_miss,1,False,False,,MISS Todd 3PT Jump Shot,87-66,87,66
+0022100509,2021-12-28,MIA,WAS,33.9,3,2,6,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,87-66,87,66
+0022100509,2021-12-28,MIA,WAS,34.2,3,1,48,MIA,MIA,fg3_miss,79,False,False,MISS Herro 27' 3PT Pullup Jump Shot,,87-66,87,66
+0022100509,2021-12-28,MIA,WAS,34.27,3,1,44,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:3 Def:5),87-66,87,66
+0022100509,2021-12-28,MIA,WAS,34.35,3,1,39,WAS,WAS,fg_make,74,False,False,,Sword 2' Running Reverse Layup (6 PTS) (Dinwiddie 7 AST),87-68,87,68
+0022100509,2021-12-28,MIA,WAS,34.75,3,1,15,MIA,MIA,fg_make,98,False,False,Okpala 2' Cutting Layup Shot (4 PTS) (Butler 13 AST),,89-68,89,68
+0022100509,2021-12-28,MIA,WAS,35.1,3,0,54,WAS,WAS,fg3_make,79,False,False,,Dinwiddie 25' 3PT Pullup Jump Shot (20 PTS),89-71,89,71
+0022100509,2021-12-28,MIA,WAS,35.48,3,0,31,MIA,MIA,fg_make,6,False,False,Okpala 2' Driving Layup (6 PTS) (Butler 14 AST),,91-71,91,71
+0022100509,2021-12-28,MIA,WAS,35.82,3,0,11,WAS,WAS,fg_make,98,False,False,,Bertans 1' Cutting Layup Shot (14 PTS) (Gafford 3 AST),91-73,91,73
+0022100509,2021-12-28,MIA,WAS,35.98,3,0,1,MIA,MIA,fg3_miss,1,False,False,MISS Herro 29' 3PT Jump Shot,,91-73,91,73
+0022100509,2021-12-28,MIA,WAS,36.0,4,12,0,WAS,,period_start,0,False,False,,,91-73,91,73
+0022100509,2021-12-28,MIA,WAS,36.0,3,0,0,WAS,WAS,reb,0,False,False,,Todd REBOUND (Off:0 Def:4),91-73,91,73
+0022100509,2021-12-28,MIA,WAS,36.0,3,0,0,WAS,,period_end,0,False,False,,,91-73,91,73
+0022100509,2021-12-28,MIA,WAS,36.2,4,11,48,MIA,MIA,fg3_make,1,False,False,Herro 24' 3PT Jump Shot (25 PTS) (Garrett 1 AST),,94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.43,4,11,34,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 25' 3PT Jump Shot,94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.48,4,11,31,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:2 Def:1),94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.48,4,11,31,WAS,WAS,fg_miss,72,True,False,,MISS Johnson 2' Putback Layup,94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.48,4,11,31,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:6),,94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.48,4,11,31,WAS,MIA,block,72,True,False,block,block,94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.68,4,11,19,MIA,WAS,block,6,True,False,block,block,94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.68,4,11,19,MIA,MIA,fg_miss,6,True,False,MISS Garrett 2' Driving Layup,,94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.73,4,11,16,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:2 Def:2),94-73,94,73
+0022100509,2021-12-28,MIA,WAS,36.87,4,11,8,WAS,WAS,fg3_make,1,False,False,,Avdija 27' 3PT Jump Shot (4 PTS) (Sword 1 AST),94-76,94,76
+0022100509,2021-12-28,MIA,WAS,37.18,4,10,49,MIA,MIA,fg_miss,6,False,False,MISS Herro 6' Driving Layup,,94-76,94,76
+0022100509,2021-12-28,MIA,WAS,37.22,4,10,47,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:4),94-76,94,76
+0022100509,2021-12-28,MIA,WAS,37.42,4,10,35,WAS,WAS,fg3_make,79,False,False,,Bertans 27' 3PT Pullup Jump Shot (17 PTS) (Avdija 1 AST),94-79,94,79
+0022100509,2021-12-28,MIA,WAS,37.78,4,10,13,MIA,MIA,fg3_miss,1,False,False,MISS Garrett 28' 3PT Jump Shot,,94-79,94,79
+0022100509,2021-12-28,MIA,WAS,37.83,4,10,10,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:1 Def:1),,94-79,94,79
+0022100509,2021-12-28,MIA,WAS,37.98,4,10,1,MIA,MIA,fg3_make,80,False,False,Vincent 29' 3PT Step Back Jump Shot (9 PTS) (Martin 3 AST),,97-79,97,79
+0022100509,2021-12-28,MIA,WAS,38.28,4,9,43,WAS,WAS,tov,2,False,True,,Sword Lost Ball Turnover (P1.T15),97-79,97,79
+0022100509,2021-12-28,MIA,WAS,38.28,4,9,43,WAS,MIA,steal,2,False,True,steal,steal,97-79,97,79
+0022100509,2021-12-28,MIA,WAS,38.62,4,9,23,MIA,MIA,fg3_make,80,False,False,Herro 26' 3PT Step Back Jump Shot (28 PTS),,100-79,100,79
+0022100509,2021-12-28,MIA,WAS,39.0,4,9,0,WAS,WAS,fg_make,86,False,False,,Bertans 20' Turnaround Fadeaway (19 PTS) (Avdija 2 AST),100-81,100,81
+0022100509,2021-12-28,MIA,WAS,39.27,4,8,44,MIA,MIA,tov,2,False,True,Martin Lost Ball Turnover (P1.T8),,100-81,100,81
+0022100509,2021-12-28,MIA,WAS,39.27,4,8,44,MIA,WAS,steal,2,False,True,steal,steal,100-81,100,81
+0022100509,2021-12-28,MIA,WAS,39.33,4,8,40,WAS,WAS,tov,1,False,True,,Johnson Bad Pass Turnover (P2.T16),100-81,100,81
+0022100509,2021-12-28,MIA,WAS,39.33,4,8,40,WAS,MIA,steal,1,False,True,steal,steal,100-81,100,81
+0022100509,2021-12-28,MIA,WAS,39.38,4,8,37,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (29 PTS),,101-81,101,81
+0022100509,2021-12-28,MIA,WAS,39.38,4,8,37,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (30 PTS),,102-81,102,81
+0022100509,2021-12-28,MIA,WAS,39.38,4,8,37,MIA,WAS,foul,2,False,False,,Sword S.FOUL (P5.T1) (J.Schroeder),100-81,100,81
+0022100509,2021-12-28,MIA,WAS,39.72,4,8,17,WAS,WAS,fg_miss,79,False,False,,MISS Dinwiddie 15' Pullup Jump Shot,102-81,102,81
+0022100509,2021-12-28,MIA,WAS,39.75,4,8,15,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:3 Def:2),102-81,102,81
+0022100509,2021-12-28,MIA,WAS,39.8,4,8,12,WAS,MIA,steal,2,False,True,steal,steal,102-81,102,81
+0022100509,2021-12-28,MIA,WAS,39.8,4,8,12,WAS,WAS,tov,2,False,True,,Johnson Lost Ball Turnover (P3.T17),102-81,102,81
+0022100509,2021-12-28,MIA,WAS,39.97,4,8,2,MIA,MIA,fg3_miss,1,False,False,MISS Martin 26' 3PT Jump Shot,,102-81,102,81
+0022100509,2021-12-28,MIA,WAS,40.03,4,7,58,WAS,WAS,reb,0,False,False,,Kispert REBOUND (Off:0 Def:3),102-81,102,81
+0022100509,2021-12-28,MIA,WAS,40.1,4,7,54,WAS,MIA,block,5,True,False,block,block,102-81,102,81
+0022100509,2021-12-28,MIA,WAS,40.1,4,7,54,WAS,WAS,fg_miss,5,True,False,,MISS Johnson 3' Layup,102-81,102,81
+0022100509,2021-12-28,MIA,WAS,40.15,4,7,51,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:4 Def:2),102-81,102,81
+0022100509,2021-12-28,MIA,WAS,40.17,4,7,50,WAS,WAS,fg_make,72,False,False,,Johnson 1' Putback Layup (2 PTS),102-83,102,83
+0022100509,2021-12-28,MIA,WAS,40.47,4,7,32,MIA,MIA,fg_miss,3,False,False,MISS Okpala 6' Hook Shot,,102-83,102,83
+0022100509,2021-12-28,MIA,WAS,40.5,4,7,30,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:4 Def:3),102-83,102,83
+0022100509,2021-12-28,MIA,WAS,40.72,4,7,17,WAS,WAS,fg3_miss,1,False,False,,MISS Kispert 26' 3PT Jump Shot,102-83,102,83
+0022100509,2021-12-28,MIA,WAS,40.77,4,7,14,WAS,WAS,reb,0,False,False,,Johnson REBOUND (Off:5 Def:3),102-83,102,83
+0022100509,2021-12-28,MIA,WAS,40.77,4,7,14,WAS,WAS,fg_make,72,False,False,,Johnson 3' Putback Layup (4 PTS),102-85,102,85
+0022100509,2021-12-28,MIA,WAS,40.77,4,7,14,WAS,MIA,foul,2,False,False,Okpala S.FOUL (P1.T1) (J.Schroeder),,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,40.77,4,7,14,WAS,WAS,ft_miss,10,False,False,,MISS Johnson Free Throw 1 of 1,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,40.8,4,7,12,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:1 Def:2),,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,41.1,4,6,54,MIA,WAS,foul,1,False,False,,Dinwiddie P.FOUL (P3.T2) (E.Malloy),102-85,102,85
+0022100509,2021-12-28,MIA,WAS,41.1,4,6,54,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 4 Short 0),,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,41.22,4,6,47,MIA,MIA,fg_miss,78,False,False,MISS Yurtseven 8' Floating Jump Shot,,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,41.28,4,6,43,MIA,MIA,reb,0,False,False,Garrett REBOUND (Off:3 Def:2),,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,41.28,4,6,43,MIA,MIA,fg_miss,97,False,False,MISS Garrett Tip Layup Shot,,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,41.32,4,6,41,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:4 Def:7),,102-85,102,85
+0022100509,2021-12-28,MIA,WAS,41.32,4,6,41,MIA,MIA,fg_make,97,False,False,Yurtseven Tip Layup Shot (8 PTS),,104-85,104,85
+0022100509,2021-12-28,MIA,WAS,41.55,4,6,27,WAS,MIA,foul,1,False,False,Vincent P.FOUL (P1.T2) (E.Malloy),,104-85,104,85
+0022100509,2021-12-28,MIA,WAS,41.73,4,6,16,WAS,WAS,fg3_miss,1,False,False,,MISS Kispert 26' 3PT Jump Shot,104-85,104,85
+0022100509,2021-12-28,MIA,WAS,41.77,4,6,14,WAS,WAS,ft_make,10,False,False,,Gafford Free Throw 1 of 1 (13 PTS),104-88,104,88
+0022100509,2021-12-28,MIA,WAS,41.77,4,6,14,WAS,WAS,fg_make,97,False,False,,Gafford Tip Layup Shot (12 PTS),104-87,104,87
+0022100509,2021-12-28,MIA,WAS,41.77,4,6,14,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:4 Def:5),104-85,104,85
+0022100509,2021-12-28,MIA,WAS,41.77,4,6,14,WAS,MIA,foul,2,False,False,Yurtseven S.FOUL (P3.T3) (J.Schroeder),,104-87,104,87
+0022100509,2021-12-28,MIA,WAS,41.95,4,6,3,MIA,MIA,fg_miss,98,False,False,MISS Yurtseven 5' Cutting Layup Shot,,104-88,104,88
+0022100509,2021-12-28,MIA,WAS,42.0,4,6,0,WAS,WAS,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:7),104-88,104,88
+0022100509,2021-12-28,MIA,WAS,42.05,4,5,57,WAS,WAS,fg3_make,103,False,False,,Dinwiddie 29' 3PT Running Pull-Up Jump Shot (23 PTS),104-91,104,91
+0022100509,2021-12-28,MIA,WAS,42.08,4,5,55,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 5 Short 0),,104-91,104,91
+0022100509,2021-12-28,MIA,WAS,42.38,4,5,37,MIA,MIA,fg3_make,1,False,False,Robinson 28' 3PT Jump Shot (26 PTS) (Butler 15 AST),,107-91,107,91
+0022100509,2021-12-28,MIA,WAS,42.77,4,5,14,WAS,WAS,fg3_make,1,False,False,,Avdija 27' 3PT Jump Shot (7 PTS) (Kuzma 3 AST),107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.2,4,4,48,MIA,MIA,fg_miss,79,False,False,MISS Herro 20' Pullup Jump Shot,,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.22,4,4,47,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:5 Def:7),,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.23,4,4,46,MIA,MIA,fg_miss,97,False,False,MISS Yurtseven 3' Tip Layup Shot,,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.25,4,4,45,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:6 Def:7),,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.28,4,4,43,MIA,MIA,fg_miss,3,False,False,MISS Yurtseven 7' Hook Shot,,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.32,4,4,41,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:5),107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.38,4,4,37,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:5),,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.38,4,4,37,WAS,WAS,fg3_miss,79,False,False,,MISS Dinwiddie 28' 3PT Pullup Jump Shot,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.57,4,4,26,MIA,MIA,fg_miss,6,False,False,MISS Butler 6' Driving Layup,,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.58,4,4,25,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:7 Def:7),,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.62,4,4,23,MIA,MIA,fg_miss,3,False,False,MISS Yurtseven 4' Hook Shot,,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.65,4,4,21,WAS,WAS,reb,0,False,False,,Dinwiddie REBOUND (Off:3 Def:4),107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.7,4,4,18,WAS,MIA,steal,2,False,True,steal,steal,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.7,4,4,18,WAS,WAS,tov,2,False,True,,Avdija Lost Ball Turnover (P4.T18),107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.82,4,4,11,MIA,MIA,fg_miss,63,False,False,MISS Herro 19' Fadeaway Jumper,,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.85,4,4,9,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:4 Def:6),107-94,107,94
+0022100509,2021-12-28,MIA,WAS,43.85,4,4,9,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.4 Short 0),107-94,107,94
+0022100509,2021-12-28,MIA,WAS,44.15,4,3,51,WAS,MIA,foul,2,False,False,Yurtseven S.FOUL (P4.T4) (L.Holtkamp),,107-94,107,94
+0022100509,2021-12-28,MIA,WAS,44.15,4,3,51,WAS,WAS,ft_make,11,False,False,,Dinwiddie Free Throw 1 of 2 (24 PTS),107-95,107,95
+0022100509,2021-12-28,MIA,WAS,44.15,4,3,51,WAS,WAS,ft_miss,12,False,False,,MISS Dinwiddie Free Throw 2 of 2,107-95,107,95
+0022100509,2021-12-28,MIA,WAS,44.2,4,3,48,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:1 Def:3),,107-95,107,95
+0022100509,2021-12-28,MIA,WAS,44.53,4,3,28,MIA,MIA,fg_make,86,False,False,Butler 12' Turnaround Fadeaway (19 PTS),,109-95,109,95
+0022100509,2021-12-28,MIA,WAS,44.55,4,3,27,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.5 Short 0),109-95,109,95
+0022100509,2021-12-28,MIA,WAS,44.8,4,3,12,WAS,WAS,fg3_miss,1,False,False,,MISS Dinwiddie 26' 3PT Jump Shot,109-95,109,95
+0022100509,2021-12-28,MIA,WAS,44.87,4,3,8,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:6),,109-95,109,95
+0022100509,2021-12-28,MIA,WAS,45.17,4,2,50,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,109-95,109,95
+0022100509,2021-12-28,MIA,WAS,45.23,4,2,46,WAS,WAS,reb,0,False,False,,Gafford REBOUND (Off:4 Def:7),109-95,109,95
+0022100509,2021-12-28,MIA,WAS,45.27,4,2,44,WAS,WAS,ft_make,10,False,False,,Kuzma Free Throw 1 of 1 (17 PTS),109-98,109,98
+0022100509,2021-12-28,MIA,WAS,45.27,4,2,44,WAS,MIA,foul,2,False,False,Butler S.FOUL (P1.PN) (J.Schroeder),,109-97,109,97
+0022100509,2021-12-28,MIA,WAS,45.27,4,2,44,WAS,WAS,fg_make,98,False,False,,Kuzma 3' Cutting Layup Shot (16 PTS) (Kispert 3 AST),109-97,109,97
+0022100509,2021-12-28,MIA,WAS,45.58,4,2,25,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,109-98,109,98
+0022100509,2021-12-28,MIA,WAS,45.62,4,2,23,WAS,WAS,reb,0,False,False,,Wizards Rebound,109-98,109,98
+0022100509,2021-12-28,MIA,WAS,45.8,4,2,12,WAS,WAS,fg3_make,1,False,False,,Kispert 24' 3PT Jump Shot (11 PTS) (Dinwiddie 8 AST),109-101,109,101
+0022100509,2021-12-28,MIA,WAS,46.1,4,1,54,MIA,MIA,fg_make,1,False,False,Butler 16' Jump Shot (21 PTS),,111-101,111,101
+0022100509,2021-12-28,MIA,WAS,46.33,4,1,40,WAS,WAS,fg_make,6,False,False,,Kuzma 3' Driving Layup (19 PTS) (Avdija 3 AST),111-103,111,103
+0022100509,2021-12-28,MIA,WAS,46.67,4,1,20,MIA,MIA,fg_make,79,False,False,Butler 17' Pullup Jump Shot (23 PTS),,113-103,113,103
+0022100509,2021-12-28,MIA,WAS,46.73,4,1,16,WAS,MIA,foul,2,False,False,Robinson S.FOUL (P3.PN) (J.Schroeder),,113-105,113,105
+0022100509,2021-12-28,MIA,WAS,46.73,4,1,16,WAS,WAS,fg_make,52,False,False,,Gafford 2' Alley Oop Dunk (15 PTS) (Dinwiddie 9 AST),113-105,113,105
+0022100509,2021-12-28,MIA,WAS,46.73,4,1,16,WAS,WAS,ft_make,10,False,False,,Gafford Free Throw 1 of 1 (16 PTS),113-106,113,106
+0022100509,2021-12-28,MIA,WAS,46.95,4,1,3,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.6 Short 0),113-106,113,106
+0022100509,2021-12-28,MIA,WAS,46.95,4,1,3,WAS,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (25 PTS),,115-106,115,106
+0022100509,2021-12-28,MIA,WAS,46.95,4,1,3,WAS,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (24 PTS),,114-106,114,106
+0022100509,2021-12-28,MIA,WAS,46.95,4,1,3,MIA,WAS,foul,2,False,False,,Gafford S.FOUL (P2.T3) (E.Malloy),113-106,113,106
+0022100509,2021-12-28,MIA,WAS,47.13,4,0,52,WAS,WAS,fg3_make,1,False,False,,Kispert 27' 3PT Jump Shot (14 PTS) (Dinwiddie 10 AST),115-109,115,109
+0022100509,2021-12-28,MIA,WAS,47.38,4,0,37,MIA,MIA,ft_make,12,False,False,Yurtseven Free Throw 2 of 2 (10 PTS),,117-109,117,109
+0022100509,2021-12-28,MIA,WAS,47.38,4,0,37,MIA,MIA,ft_make,11,False,False,Yurtseven Free Throw 1 of 2 (9 PTS),,116-109,116,109
+0022100509,2021-12-28,MIA,WAS,47.38,4,0,37,MIA,WAS,foul,2,False,False,,Kuzma S.FOUL (P2.PN) (J.Schroeder),115-109,115,109
+0022100509,2021-12-28,MIA,WAS,47.53,4,0,28,WAS,WAS,fg3_make,1,False,False,,Kuzma 25' 3PT Jump Shot (22 PTS) (Dinwiddie 11 AST),117-112,117,112
+0022100509,2021-12-28,MIA,WAS,47.62,4,0,23,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (32 PTS),,119-112,119,112
+0022100509,2021-12-28,MIA,WAS,47.62,4,0,23,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (31 PTS),,118-112,118,112
+0022100509,2021-12-28,MIA,WAS,47.62,4,0,23,MIA,WAS,foul,28,False,False,,Kispert Personal Take Foul (P3.PN) (J.Schroeder),117-112,117,112
+0022100509,2021-12-28,MIA,WAS,47.73,4,0,16,WAS,WAS,fg3_miss,1,False,False,,MISS Kuzma 26' 3PT Jump Shot,119-112,119,112
+0022100509,2021-12-28,MIA,WAS,47.8,4,0,12,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:1 Def:4),,119-112,119,112
+0022100509,2021-12-28,MIA,WAS,48.0,4,0,0,MIA,,period_end,0,False,False,,,119-112,119,112

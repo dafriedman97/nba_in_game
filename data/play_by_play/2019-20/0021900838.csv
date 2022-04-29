@@ -1,0 +1,417 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900838,2020-02-22,MIA,CLE,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900838,2020-02-22,MIA,CLE,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Adebayo vs. Drummond: Tip to Nunn,,0-0,0,0
+0021900838,2020-02-22,MIA,CLE,0.32,1,11,41,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (3 PTS) (Nunn 1 AST),,3-0,3,0
+0021900838,2020-02-22,MIA,CLE,0.68,1,11,19,CLE,CLE,fg_miss,73,False,False,,MISS Osman 1' Driving Reverse Layup,3-0,3,0
+0021900838,2020-02-22,MIA,CLE,0.72,1,11,17,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,3-0,3,0
+0021900838,2020-02-22,MIA,CLE,0.88,1,11,7,MIA,MIA,fg3_make,1,False,False,Olynyk 28' 3PT Jump Shot (3 PTS) (Jones Jr. 1 AST),,6-0,6,0
+0021900838,2020-02-22,MIA,CLE,1.18,1,10,49,CLE,CLE,fg3_miss,1,False,False,,MISS Nance Jr. 25' 3PT Jump Shot,6-0,6,0
+0021900838,2020-02-22,MIA,CLE,1.22,1,10,47,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:1),,6-0,6,0
+0021900838,2020-02-22,MIA,CLE,1.33,1,10,40,CLE,MIA,foul,4,False,False,Olynyk OFF.Foul (P1) (S.Foster),,6-0,6,0
+0021900838,2020-02-22,MIA,CLE,1.33,1,10,40,MIA,MIA,tov,37,False,False,Olynyk Offensive Foul Turnover (P1.T1),,6-0,6,0
+0021900838,2020-02-22,MIA,CLE,1.68,1,10,19,CLE,CLE,fg_make,1,False,False,,Nance Jr. 14' Jump Shot (2 PTS),6-2,6,2
+0021900838,2020-02-22,MIA,CLE,1.88,1,10,7,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (6 PTS) (Adebayo 1 AST),,9-2,9,2
+0021900838,2020-02-22,MIA,CLE,2.07,1,9,56,CLE,CLE,tov,2,False,True,,Drummond Lost Ball Turnover (P1.T1),9-2,9,2
+0021900838,2020-02-22,MIA,CLE,2.07,1,9,56,CLE,MIA,steal,2,False,True,steal,steal,9-2,9,2
+0021900838,2020-02-22,MIA,CLE,2.23,1,9,46,MIA,MIA,fg_make,108,False,False,Adebayo 1' Cutting Dunk Shot (2 PTS) (Nunn 2 AST),,11-2,11,2
+0021900838,2020-02-22,MIA,CLE,2.23,1,9,46,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.1 Short 0),11-2,11,2
+0021900838,2020-02-22,MIA,CLE,2.5,1,9,30,CLE,CLE,fg_make,101,False,False,,Garland 7' Driving Floating Jump Shot (2 PTS),11-4,11,4
+0021900838,2020-02-22,MIA,CLE,2.9,1,9,6,MIA,MIA,fg_make,79,False,False,Adebayo 16' Pullup Jump Shot (4 PTS) (Robinson 1 AST),,13-4,13,4
+0021900838,2020-02-22,MIA,CLE,3.08,1,8,55,CLE,MIA,foul,2,False,False,Robinson S.FOUL (P1.T1) (J.Sterling),,13-4,13,4
+0021900838,2020-02-22,MIA,CLE,3.08,1,8,55,CLE,CLE,ft_make,11,False,False,,Osman Free Throw 1 of 2 (1 PTS),13-5,13,5
+0021900838,2020-02-22,MIA,CLE,3.08,1,8,55,CLE,CLE,ft_make,12,False,False,,Osman Free Throw 2 of 2 (2 PTS),13-6,13,6
+0021900838,2020-02-22,MIA,CLE,3.27,1,8,44,MIA,MIA,fg_make,101,False,False,Nunn 9' Driving Floating Jump Shot (2 PTS) (Adebayo 2 AST),,15-6,15,6
+0021900838,2020-02-22,MIA,CLE,3.6,1,8,24,CLE,CLE,fg_make,101,False,False,,Sexton 4' Driving Floating Jump Shot (2 PTS),15-8,15,8
+0021900838,2020-02-22,MIA,CLE,3.85,1,8,9,MIA,MIA,fg_make,98,False,False,Robinson 2' Cutting Layup Shot (8 PTS) (Adebayo 3 AST),,17-8,17,8
+0021900838,2020-02-22,MIA,CLE,3.85,1,8,9,MIA,CLE,violation,2,False,False,,Drummond Violation:Defensive Goaltending (S.Foster),17-8,17,8
+0021900838,2020-02-22,MIA,CLE,4.18,1,7,49,CLE,CLE,fg_make,78,False,False,,Sexton 7' Floating Jump Shot (4 PTS) (Garland 1 AST),17-10,17,10
+0021900838,2020-02-22,MIA,CLE,4.18,1,7,49,CLE,MIA,foul,2,False,False,Adebayo S.FOUL (P1.T2) (J.Sterling),,17-10,17,10
+0021900838,2020-02-22,MIA,CLE,4.18,1,7,49,CLE,CLE,ft_miss,10,False,False,,MISS Sexton Free Throw 1 of 1,17-10,17,10
+0021900838,2020-02-22,MIA,CLE,4.23,1,7,46,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,17-10,17,10
+0021900838,2020-02-22,MIA,CLE,4.5,1,7,30,MIA,MIA,fg3_make,1,False,False,Nunn 25' 3PT Jump Shot (5 PTS) (Jones Jr. 2 AST),,20-10,20,10
+0021900838,2020-02-22,MIA,CLE,4.78,1,7,13,CLE,CLE,fg_make,75,False,False,,Garland 2' Driving Finger Roll Layup (4 PTS) (Osman 1 AST),20-12,20,12
+0021900838,2020-02-22,MIA,CLE,4.98,1,7,1,MIA,MIA,fg_make,98,False,False,Adebayo 1' Cutting Layup Shot (6 PTS) (Olynyk 1 AST),,22-12,22,12
+0021900838,2020-02-22,MIA,CLE,5.28,1,6,43,CLE,CLE,fg3_make,1,False,False,,Osman 26' 3PT Jump Shot (5 PTS) (Sexton 1 AST),22-15,22,15
+0021900838,2020-02-22,MIA,CLE,5.48,1,6,31,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 25' 3PT Jump Shot,,22-15,22,15
+0021900838,2020-02-22,MIA,CLE,5.5,1,6,30,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:0 Def:1),22-15,22,15
+0021900838,2020-02-22,MIA,CLE,5.58,1,6,25,CLE,CLE,fg_make,74,False,False,,Osman 2' Running Reverse Layup (7 PTS) (Sexton 2 AST),22-17,22,17
+0021900838,2020-02-22,MIA,CLE,5.88,1,6,7,MIA,MIA,fg3_miss,1,False,False,MISS Jones Jr. 3PT Jump Shot,,22-17,22,17
+0021900838,2020-02-22,MIA,CLE,5.92,1,6,5,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:0 Def:1),22-17,22,17
+0021900838,2020-02-22,MIA,CLE,6.0,1,6,0,CLE,CLE,fg3_make,1,False,False,,Sexton 26' 3PT Jump Shot (7 PTS) (Nance Jr. 1 AST),22-20,22,20
+0021900838,2020-02-22,MIA,CLE,6.02,1,5,59,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,22-20,22,20
+0021900838,2020-02-22,MIA,CLE,6.28,1,5,43,MIA,MIA,fg3_make,1,False,False,Olynyk 26' 3PT Jump Shot (6 PTS) (Adebayo 4 AST),,25-20,25,20
+0021900838,2020-02-22,MIA,CLE,6.6,1,5,24,CLE,CLE,tov,1,False,True,,Drummond Bad Pass Turnover (P2.T2),25-20,25,20
+0021900838,2020-02-22,MIA,CLE,6.6,1,5,24,CLE,MIA,steal,1,False,True,steal,steal,25-20,25,20
+0021900838,2020-02-22,MIA,CLE,6.77,1,5,14,MIA,MIA,fg3_make,1,False,False,Jones Jr. 24' 3PT Jump Shot (3 PTS) (Dragic 1 AST),,28-20,28,20
+0021900838,2020-02-22,MIA,CLE,7.25,1,4,45,CLE,CLE,fg_make,58,False,False,,Thompson 6' Turnaround Hook Shot (2 PTS) (Porter Jr. 1 AST),28-22,28,22
+0021900838,2020-02-22,MIA,CLE,7.47,1,4,32,MIA,MIA,fg_make,1,False,False,Olynyk 21' Jump Shot (8 PTS) (Nunn 3 AST),,30-22,30,22
+0021900838,2020-02-22,MIA,CLE,7.8,1,4,12,CLE,CLE,fg3_make,1,False,False,,Osman 25' 3PT Jump Shot (10 PTS) (Garland 2 AST),30-25,30,25
+0021900838,2020-02-22,MIA,CLE,8.22,1,3,47,MIA,MIA,fg3_make,1,False,False,Olynyk 25' 3PT Jump Shot (11 PTS) (Adebayo 5 AST),,33-25,33,25
+0021900838,2020-02-22,MIA,CLE,8.43,1,3,34,CLE,CLE,fg_miss,79,False,False,,MISS Garland 17' Pullup Jump Shot,33-25,33,25
+0021900838,2020-02-22,MIA,CLE,8.45,1,3,33,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:1),,33-25,33,25
+0021900838,2020-02-22,MIA,CLE,8.67,1,3,20,MIA,MIA,fg3_miss,1,False,False,MISS Jones Jr. 24' 3PT Jump Shot,,33-25,33,25
+0021900838,2020-02-22,MIA,CLE,8.7,1,3,18,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:0 Def:2),33-25,33,25
+0021900838,2020-02-22,MIA,CLE,8.77,1,3,14,CLE,CLE,tov,15,False,False,,Thompson Offensive Goaltending Turnover (P1.T3),33-25,33,25
+0021900838,2020-02-22,MIA,CLE,8.92,1,3,5,MIA,MIA,fg_make,6,False,False,Dragic 2' Driving Layup (2 PTS) (Olynyk 2 AST),,35-25,35,25
+0021900838,2020-02-22,MIA,CLE,9.22,1,2,47,CLE,MIA,foul,2,False,False,Olynyk S.FOUL (P2.T3) (J.Sterling),,35-25,35,25
+0021900838,2020-02-22,MIA,CLE,9.22,1,2,47,CLE,CLE,ft_make,11,False,False,,Porter Jr. Free Throw 1 of 2 (1 PTS),35-26,35,26
+0021900838,2020-02-22,MIA,CLE,9.22,1,2,47,CLE,CLE,ft_make,12,False,False,,Porter Jr. Free Throw 2 of 2 (2 PTS),35-27,35,27
+0021900838,2020-02-22,MIA,CLE,9.37,1,2,38,MIA,MIA,fg3_miss,79,False,False,MISS Nunn 25' 3PT Pullup Jump Shot,,35-27,35,27
+0021900838,2020-02-22,MIA,CLE,9.4,1,2,36,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:1 Def:0),,35-27,35,27
+0021900838,2020-02-22,MIA,CLE,9.53,1,2,28,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 3PT Jump Shot,,35-27,35,27
+0021900838,2020-02-22,MIA,CLE,9.57,1,2,26,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),35-27,35,27
+0021900838,2020-02-22,MIA,CLE,9.83,1,2,10,CLE,CLE,tov,45,False,False,,Sexton Out of Bounds - Bad Pass Turnover Turnover (P1.T4),35-27,35,27
+0021900838,2020-02-22,MIA,CLE,9.97,1,2,2,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 3PT Jump Shot,,35-27,35,27
+0021900838,2020-02-22,MIA,CLE,10.0,1,2,0,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:0 Def:2),35-27,35,27
+0021900838,2020-02-22,MIA,CLE,10.13,1,1,52,CLE,CLE,fg3_miss,80,False,False,,MISS Sexton 26' 3PT Step Back Jump Shot,35-27,35,27
+0021900838,2020-02-22,MIA,CLE,10.17,1,1,50,MIA,MIA,reb,0,False,False,Silva REBOUND (Off:0 Def:1),,35-27,35,27
+0021900838,2020-02-22,MIA,CLE,10.47,1,1,32,MIA,CLE,foul,2,False,False,,Porter Jr. S.FOUL (P1.T1) (J.Sterling),35-27,35,27
+0021900838,2020-02-22,MIA,CLE,10.47,1,1,32,MIA,MIA,ft_make,11,False,False,Silva Free Throw 1 of 2 (1 PTS),,36-27,36,27
+0021900838,2020-02-22,MIA,CLE,10.47,1,1,32,MIA,MIA,ft_miss,12,False,False,MISS Silva Free Throw 2 of 2,,36-27,36,27
+0021900838,2020-02-22,MIA,CLE,10.52,1,1,29,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:0 Def:3),36-27,36,27
+0021900838,2020-02-22,MIA,CLE,10.85,1,1,9,CLE,CLE,fg_make,57,False,False,,Thompson 5' Driving Hook Shot (4 PTS) (Sexton 3 AST),36-29,36,29
+0021900838,2020-02-22,MIA,CLE,11.17,1,0,50,MIA,MIA,fg_make,1,False,False,Silva 17' Jump Shot (3 PTS),,38-29,38,29
+0021900838,2020-02-22,MIA,CLE,11.35,1,0,39,CLE,MIA,foul,2,False,False,Silva S.FOUL (P1.T4) (J.Sterling),,38-29,38,29
+0021900838,2020-02-22,MIA,CLE,11.35,1,0,39,CLE,CLE,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,38-29,38,29
+0021900838,2020-02-22,MIA,CLE,11.35,1,0,39,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,38-29,38,29
+0021900838,2020-02-22,MIA,CLE,11.35,1,0,39,CLE,CLE,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (5 PTS),38-30,38,30
+0021900838,2020-02-22,MIA,CLE,11.53,1,0,28,CLE,MIA,foul,4,False,False,Silva OFF.Foul (P2) (S.Foster),,38-30,38,30
+0021900838,2020-02-22,MIA,CLE,11.53,1,0,28,MIA,MIA,tov,37,False,False,Silva Offensive Foul Turnover (P1.T2),,38-30,38,30
+0021900838,2020-02-22,MIA,CLE,11.88,1,0,7,CLE,CLE,fg_miss,79,False,False,,MISS Sexton 8' Pullup Jump Shot,38-30,38,30
+0021900838,2020-02-22,MIA,CLE,11.92,1,0,5,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:1 Def:3),38-30,38,30
+0021900838,2020-02-22,MIA,CLE,11.92,1,0,5,CLE,CLE,fg_make,107,False,False,,Nance Jr. 1' Tip Dunk Shot (4 PTS),38-32,38,32
+0021900838,2020-02-22,MIA,CLE,11.98,1,0,1,MIA,MIA,fg_miss,6,True,False,MISS Dragic 2' Driving Layup,,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,11.98,1,0,1,MIA,CLE,block,6,True,False,block,block,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,11.98,1,0,1,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:0 Def:1),38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.0,1,0,0,CLE,CLE,fg3_miss,1,False,False,,MISS Exum 56' 3PT Jump Shot,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.0,1,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.0,1,0,0,CLE,,period_end,0,False,False,,,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.0,2,12,0,CLE,,period_start,0,False,False,,,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.35,2,11,39,CLE,CLE,fg3_miss,1,False,False,,MISS Exum 24' 3PT Jump Shot,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.37,2,11,38,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:1 Def:1),38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.4,2,11,36,CLE,MIA,foul,2,False,False,Silva S.FOUL (P3.T1) (K.Scott),,38-32,38,32
+0021900838,2020-02-22,MIA,CLE,12.4,2,11,36,CLE,CLE,ft_make,11,False,False,,Exum Free Throw 1 of 2 (1 PTS),38-33,38,33
+0021900838,2020-02-22,MIA,CLE,12.4,2,11,36,CLE,CLE,ft_make,12,False,False,,Exum Free Throw 2 of 2 (2 PTS),38-34,38,34
+0021900838,2020-02-22,MIA,CLE,12.57,2,11,26,MIA,MIA,tov,40,False,False,Iguodala Out of Bounds Lost Ball Turnover (P1.T3),,38-34,38,34
+0021900838,2020-02-22,MIA,CLE,12.98,2,11,1,CLE,CLE,fg_miss,3,False,False,,MISS Thompson 5' Hook Shot,38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.02,2,10,59,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:1 Def:1),38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.05,2,10,57,CLE,CLE,fg_miss,5,False,False,,MISS Thompson 1' Layup,38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.08,2,10,55,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:2),,38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.13,2,10,52,MIA,MIA,fg3_miss,103,False,False,MISS Crowder 25' 3PT Running Pull-Up Jump Shot,,38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.13,2,10,52,CLE,CLE,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.2,2,10,48,MIA,CLE,foul,26,False,False,,Nance Jr. Offensive Charge Foul (P1.T1) (J.Sterling),38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.2,2,10,48,CLE,CLE,tov,37,False,False,,Nance Jr. Offensive Foul Turnover (P1.T5),38-34,38,34
+0021900838,2020-02-22,MIA,CLE,13.33,2,10,40,MIA,MIA,fg_make,9,False,False,Adebayo 1' Driving Dunk (8 PTS),,40-34,40,34
+0021900838,2020-02-22,MIA,CLE,13.33,2,10,40,MIA,CLE,foul,2,False,False,,Thompson S.FOUL (P1.T2) (S.Foster),40-34,40,34
+0021900838,2020-02-22,MIA,CLE,13.33,2,10,40,MIA,MIA,ft_miss,10,False,False,MISS Adebayo Free Throw 1 of 1,,40-34,40,34
+0021900838,2020-02-22,MIA,CLE,13.38,2,10,37,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:1 Def:2),40-34,40,34
+0021900838,2020-02-22,MIA,CLE,13.43,2,10,34,MIA,CLE,foul,4,False,False,,Porter Jr. OFF.Foul (P2) (S.Foster),40-34,40,34
+0021900838,2020-02-22,MIA,CLE,13.43,2,10,34,CLE,CLE,tov,37,False,False,,Porter Jr. Offensive Foul Turnover (P1.T6),40-34,40,34
+0021900838,2020-02-22,MIA,CLE,13.62,2,10,23,MIA,MIA,fg_make,98,False,False,Robinson 1' Cutting Layup Shot (10 PTS) (Adebayo 6 AST),,42-34,42,34
+0021900838,2020-02-22,MIA,CLE,13.97,2,10,2,CLE,CLE,tov,1,False,True,,Porter Jr. Bad Pass Turnover (P2.T7),42-34,42,34
+0021900838,2020-02-22,MIA,CLE,13.97,2,10,2,CLE,MIA,steal,1,False,True,steal,steal,42-34,42,34
+0021900838,2020-02-22,MIA,CLE,14.05,2,9,57,MIA,MIA,tov,4,False,False,Robinson Traveling Turnover (P1.T4),,42-34,42,34
+0021900838,2020-02-22,MIA,CLE,14.33,2,9,40,CLE,CLE,fg_miss,57,False,False,,MISS Nance Jr. 8' Driving Hook Shot,42-34,42,34
+0021900838,2020-02-22,MIA,CLE,14.38,2,9,37,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,42-34,42,34
+0021900838,2020-02-22,MIA,CLE,14.43,2,9,34,MIA,MIA,tov,1,False,True,Dragic Bad Pass Turnover (P1.T5),,42-34,42,34
+0021900838,2020-02-22,MIA,CLE,14.43,2,9,34,MIA,CLE,steal,1,False,True,steal,steal,42-34,42,34
+0021900838,2020-02-22,MIA,CLE,14.55,2,9,27,CLE,CLE,fg_make,5,False,False,,Nance Jr. 2' Layup (6 PTS) (Sexton 4 AST),42-36,42,36
+0021900838,2020-02-22,MIA,CLE,14.6,2,9,24,MIA,MIA,tov,45,False,False,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,42-36,42,36
+0021900838,2020-02-22,MIA,CLE,14.95,2,9,3,CLE,CLE,fg_miss,6,False,False,,MISS Porter Jr. 2' Driving Layup,42-36,42,36
+0021900838,2020-02-22,MIA,CLE,15.0,2,9,0,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:1 Def:1),,42-36,42,36
+0021900838,2020-02-22,MIA,CLE,15.08,2,8,55,MIA,MIA,tov,2,False,True,Dragic Lost Ball Turnover (P2.T7),,42-36,42,36
+0021900838,2020-02-22,MIA,CLE,15.08,2,8,55,MIA,CLE,steal,2,False,True,steal,steal,42-36,42,36
+0021900838,2020-02-22,MIA,CLE,15.17,2,8,50,MIA,CLE,foul,26,False,False,,Sexton Offensive Charge Foul (P1.T3) (S.Foster),42-36,42,36
+0021900838,2020-02-22,MIA,CLE,15.17,2,8,50,CLE,CLE,tov,37,False,False,,Sexton Offensive Foul Turnover (P2.T8),42-36,42,36
+0021900838,2020-02-22,MIA,CLE,15.42,2,8,35,MIA,MIA,fg_make,98,False,False,Iguodala 2' Cutting Layup Shot (2 PTS) (Adebayo 7 AST),,44-36,44,36
+0021900838,2020-02-22,MIA,CLE,15.42,2,8,35,MIA,CLE,foul,2,False,False,,Porter Jr. S.FOUL (P3.T4) (K.Scott),44-36,44,36
+0021900838,2020-02-22,MIA,CLE,15.42,2,8,35,MIA,MIA,ft_miss,10,False,False,MISS Iguodala Free Throw 1 of 1,,44-36,44,36
+0021900838,2020-02-22,MIA,CLE,15.5,2,8,30,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:1 Def:0),,44-36,44,36
+0021900838,2020-02-22,MIA,CLE,15.55,2,8,27,MIA,MIA,fg3_make,1,False,False,Robinson 29' 3PT Jump Shot (13 PTS) (Adebayo 8 AST),,47-36,47,36
+0021900838,2020-02-22,MIA,CLE,15.85,2,8,9,CLE,MIA,foul,2,False,False,Crowder S.FOUL (P1.T2) (K.Scott),,47-36,47,36
+0021900838,2020-02-22,MIA,CLE,15.85,2,8,9,CLE,CLE,ft_make,11,False,False,,Exum Free Throw 1 of 2 (3 PTS),47-37,47,37
+0021900838,2020-02-22,MIA,CLE,15.85,2,8,9,CLE,CLE,ft_make,12,False,False,,Exum Free Throw 2 of 2 (4 PTS),47-38,47,38
+0021900838,2020-02-22,MIA,CLE,16.1,2,7,54,MIA,CLE,foul,2,False,False,,Sexton S.FOUL (P2.PN) (J.Sterling),47-38,47,38
+0021900838,2020-02-22,MIA,CLE,16.1,2,7,54,MIA,MIA,ft_make,11,False,False,Dragic Free Throw 1 of 2 (3 PTS),,48-38,48,38
+0021900838,2020-02-22,MIA,CLE,16.1,2,7,54,MIA,MIA,ft_make,12,False,False,Dragic Free Throw 2 of 2 (4 PTS),,49-38,49,38
+0021900838,2020-02-22,MIA,CLE,16.27,2,7,44,CLE,CLE,fg_miss,6,False,False,,MISS Sexton 2' Driving Layup,49-38,49,38
+0021900838,2020-02-22,MIA,CLE,16.3,2,7,42,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:1 Def:1),,49-38,49,38
+0021900838,2020-02-22,MIA,CLE,16.53,2,7,28,MIA,MIA,fg_make,57,False,False,Dragic 4' Driving Hook Shot (6 PTS),,51-38,51,38
+0021900838,2020-02-22,MIA,CLE,16.93,2,7,4,CLE,CLE,fg_miss,6,False,False,,MISS Osman 2' Driving Layup,51-38,51,38
+0021900838,2020-02-22,MIA,CLE,16.97,2,7,2,MIA,MIA,reb,0,False,False,HEAT Rebound,,51-38,51,38
+0021900838,2020-02-22,MIA,CLE,17.27,2,6,44,MIA,MIA,fg_make,75,False,False,Adebayo 1' Driving Finger Roll Layup (10 PTS),,53-38,53,38
+0021900838,2020-02-22,MIA,CLE,17.27,2,6,44,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.2 Short 0),53-38,53,38
+0021900838,2020-02-22,MIA,CLE,17.65,2,6,21,CLE,CLE,fg3_make,1,False,False,,Exum 3PT Jump Shot (7 PTS) (Osman 2 AST),53-41,53,41
+0021900838,2020-02-22,MIA,CLE,17.88,2,6,7,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.3 Short 0),53-41,53,41
+0021900838,2020-02-22,MIA,CLE,17.88,2,6,7,,MIA,jump_ball,1,False,False,Jump Ball (CC) Adebayo vs. Drummond: Tip to Dragic,,53-41,53,41
+0021900838,2020-02-22,MIA,CLE,17.88,2,6,7,MIA,MIA,fg3_miss,1,True,False,MISS Crowder 24' 3PT Jump Shot,,53-41,53,41
+0021900838,2020-02-22,MIA,CLE,17.88,2,6,7,MIA,CLE,block,1,True,False,block,block,53-41,53,41
+0021900838,2020-02-22,MIA,CLE,17.88,2,6,7,MIA,MIA,reb,0,False,False,HEAT Rebound,,53-41,53,41
+0021900838,2020-02-22,MIA,CLE,18.27,2,5,44,MIA,MIA,fg_make,98,False,False,Adebayo 2' Cutting Layup Shot (12 PTS) (Crowder 1 AST),,55-41,55,41
+0021900838,2020-02-22,MIA,CLE,18.58,2,5,25,CLE,CLE,tov,1,False,True,,Nance Jr. Bad Pass Turnover (P2.T9),55-41,55,41
+0021900838,2020-02-22,MIA,CLE,18.58,2,5,25,CLE,MIA,steal,1,False,True,steal,steal,55-41,55,41
+0021900838,2020-02-22,MIA,CLE,18.65,2,5,21,MIA,CLE,foul,2,False,False,,Nance Jr. S.FOUL (P2.PN) (K.Scott),55-41,55,41
+0021900838,2020-02-22,MIA,CLE,18.65,2,5,21,MIA,MIA,ft_miss,11,False,False,MISS Adebayo Free Throw 1 of 2,,55-41,55,41
+0021900838,2020-02-22,MIA,CLE,18.65,2,5,21,MIA,MIA,reb,1,False,False,HEAT Rebound,,55-41,55,41
+0021900838,2020-02-22,MIA,CLE,18.65,2,5,21,MIA,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (13 PTS),,56-41,56,41
+0021900838,2020-02-22,MIA,CLE,18.92,2,5,5,CLE,CLE,fg_miss,6,False,False,,MISS Exum 2' Driving Layup,56-41,56,41
+0021900838,2020-02-22,MIA,CLE,18.93,2,5,4,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:2 Def:1),56-41,56,41
+0021900838,2020-02-22,MIA,CLE,18.95,2,5,3,CLE,CLE,tov,1,False,True,,Exum Bad Pass Turnover (P1.T10),56-41,56,41
+0021900838,2020-02-22,MIA,CLE,18.95,2,5,3,CLE,MIA,steal,1,False,True,steal,steal,56-41,56,41
+0021900838,2020-02-22,MIA,CLE,18.97,2,5,2,MIA,CLE,foul,1,False,False,,Nance Jr. P.FOUL (P3.PN) (S.Foster),56-41,56,41
+0021900838,2020-02-22,MIA,CLE,18.97,2,5,2,MIA,MIA,ft_make,11,False,False,Nunn Free Throw 1 of 2 (6 PTS),,57-41,57,41
+0021900838,2020-02-22,MIA,CLE,18.97,2,5,2,MIA,MIA,ft_make,12,False,False,Nunn Free Throw 2 of 2 (7 PTS),,58-41,58,41
+0021900838,2020-02-22,MIA,CLE,19.28,2,4,43,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 26' 3PT Jump Shot,58-41,58,41
+0021900838,2020-02-22,MIA,CLE,19.37,2,4,38,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:2),,58-41,58,41
+0021900838,2020-02-22,MIA,CLE,19.58,2,4,25,MIA,MIA,fg3_make,1,False,False,Nunn 27' 3PT Jump Shot (10 PTS),,61-41,61,41
+0021900838,2020-02-22,MIA,CLE,19.82,2,4,11,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P1.T11),61-41,61,41
+0021900838,2020-02-22,MIA,CLE,19.82,2,4,11,CLE,MIA,steal,1,False,True,steal,steal,61-41,61,41
+0021900838,2020-02-22,MIA,CLE,19.87,2,4,8,MIA,MIA,fg_make,50,False,False,Jones Jr. 1' Running Dunk (5 PTS),,63-41,63,41
+0021900838,2020-02-22,MIA,CLE,19.88,2,4,7,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.4 Short 0),63-41,63,41
+0021900838,2020-02-22,MIA,CLE,20.22,2,3,47,MIA,CLE,foul,26,False,False,,Thompson Offensive Charge Foul (P2.PN) (K.Scott),63-41,63,41
+0021900838,2020-02-22,MIA,CLE,20.22,2,3,47,CLE,CLE,tov,37,False,False,,Thompson Offensive Foul Turnover (P2.T12),63-41,63,41
+0021900838,2020-02-22,MIA,CLE,20.48,2,3,31,MIA,MIA,fg3_make,1,False,False,Crowder 25' 3PT Jump Shot (3 PTS) (Jones Jr. 3 AST),,66-41,66,41
+0021900838,2020-02-22,MIA,CLE,20.68,2,3,19,CLE,CLE,fg_make,79,False,False,,Garland 18' Pullup Jump Shot (6 PTS),66-43,66,43
+0021900838,2020-02-22,MIA,CLE,20.82,2,3,11,MIA,CLE,foul,2,False,False,,Osman S.FOUL (P1.PN) (K.Scott),66-43,66,43
+0021900838,2020-02-22,MIA,CLE,20.82,2,3,11,MIA,MIA,ft_make,11,False,False,Nunn Free Throw 1 of 2 (11 PTS),,67-43,67,43
+0021900838,2020-02-22,MIA,CLE,20.82,2,3,11,MIA,MIA,ft_make,12,False,False,Nunn Free Throw 2 of 2 (12 PTS),,68-43,68,43
+0021900838,2020-02-22,MIA,CLE,21.0,2,3,0,CLE,CLE,fg3_miss,80,False,False,,MISS Garland 26' 3PT Step Back Jump Shot,68-43,68,43
+0021900838,2020-02-22,MIA,CLE,21.02,2,2,59,MIA,MIA,reb,0,False,False,HEAT Rebound,,68-43,68,43
+0021900838,2020-02-22,MIA,CLE,21.35,2,2,39,MIA,MIA,fg3_make,1,False,False,Crowder 25' 3PT Jump Shot (6 PTS) (Nunn 4 AST),,71-43,71,43
+0021900838,2020-02-22,MIA,CLE,21.48,2,2,31,CLE,CLE,tov,2,False,True,,Sexton Lost Ball Turnover (P3.T13),71-43,71,43
+0021900838,2020-02-22,MIA,CLE,21.48,2,2,31,CLE,MIA,steal,2,False,True,steal,steal,71-43,71,43
+0021900838,2020-02-22,MIA,CLE,21.57,2,2,26,MIA,MIA,fg_make,41,False,False,Jones Jr. 2' Running Layup (7 PTS),,73-43,73,43
+0021900838,2020-02-22,MIA,CLE,21.82,2,2,11,CLE,CLE,fg_make,58,False,False,,Drummond 6' Turnaround Hook Shot (2 PTS) (Thompson 1 AST),73-45,73,45
+0021900838,2020-02-22,MIA,CLE,22.07,2,1,56,MIA,MIA,fg3_make,1,False,False,Robinson 3PT Jump Shot (16 PTS) (Crowder 2 AST),,76-45,76,45
+0021900838,2020-02-22,MIA,CLE,22.22,2,1,47,CLE,CLE,fg_make,7,False,False,,Drummond 1' Dunk (4 PTS) (Garland 3 AST),76-47,76,47
+0021900838,2020-02-22,MIA,CLE,22.42,2,1,35,MIA,CLE,foul,2,False,False,,Drummond S.FOUL (P1.PN) (S.Foster),76-47,76,47
+0021900838,2020-02-22,MIA,CLE,22.42,2,1,35,MIA,MIA,ft_make,11,False,False,Jones Jr. Free Throw 1 of 2 (8 PTS),,77-47,77,47
+0021900838,2020-02-22,MIA,CLE,22.42,2,1,35,MIA,MIA,ft_make,12,False,False,Jones Jr. Free Throw 2 of 2 (9 PTS),,78-47,78,47
+0021900838,2020-02-22,MIA,CLE,22.7,2,1,18,CLE,MIA,foul,1,False,False,Robinson P.FOUL (P2.T3) (S.Foster),,78-47,78,47
+0021900838,2020-02-22,MIA,CLE,22.85,2,1,9,CLE,CLE,fg_make,78,False,False,,Thompson 5' Floating Jump Shot (7 PTS) (Garland 4 AST),78-49,78,49
+0021900838,2020-02-22,MIA,CLE,22.98,2,1,1,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 25' 3PT Jump Shot,,78-49,78,49
+0021900838,2020-02-22,MIA,CLE,23.05,2,0,57,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:0 Def:3),78-49,78,49
+0021900838,2020-02-22,MIA,CLE,23.25,2,0,45,CLE,CLE,fg_miss,101,True,False,,MISS Sexton 4' Driving Floating Jump Shot,78-49,78,49
+0021900838,2020-02-22,MIA,CLE,23.25,2,0,45,CLE,MIA,block,101,True,False,block,block,78-49,78,49
+0021900838,2020-02-22,MIA,CLE,23.33,2,0,40,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:2),,78-49,78,49
+0021900838,2020-02-22,MIA,CLE,23.35,2,0,39,MIA,MIA,fg_make,41,False,False,Crowder 2' Running Layup (8 PTS) (Robinson 2 AST),,80-49,80,49
+0021900838,2020-02-22,MIA,CLE,23.48,2,0,31,CLE,MIA,foul,2,False,False,Jones Jr. S.FOUL (P1.PN) (K.Scott),,80-49,80,49
+0021900838,2020-02-22,MIA,CLE,23.48,2,0,31,CLE,CLE,ft_make,11,False,False,,Osman Free Throw 1 of 2 (11 PTS),80-50,80,50
+0021900838,2020-02-22,MIA,CLE,23.48,2,0,31,CLE,CLE,ft_miss,12,False,False,,MISS Osman Free Throw 2 of 2,80-50,80,50
+0021900838,2020-02-22,MIA,CLE,23.55,2,0,27,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:1 Def:0),80-50,80,50
+0021900838,2020-02-22,MIA,CLE,23.58,2,0,25,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 3PT Jump Shot,80-50,80,50
+0021900838,2020-02-22,MIA,CLE,23.63,2,0,22,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:1 Def:3),80-50,80,50
+0021900838,2020-02-22,MIA,CLE,23.8,2,0,12,CLE,CLE,fg_miss,6,False,False,,MISS Sexton 1' Driving Layup,80-50,80,50
+0021900838,2020-02-22,MIA,CLE,23.82,2,0,11,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:2 Def:2),80-50,80,50
+0021900838,2020-02-22,MIA,CLE,23.82,2,0,11,CLE,CLE,fg_make,3,False,False,,Thompson 4' Hook Shot (9 PTS),80-52,80,52
+0021900838,2020-02-22,MIA,CLE,23.93,2,0,4,MIA,MIA,fg_make,52,False,False,Jones Jr. 1' Alley Oop Dunk (11 PTS) (Nunn 5 AST),,82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.0,2,0,0,CLE,CLE,fg_miss,73,False,False,,MISS Garland 2' Driving Reverse Layup,82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.23,3,11,46,MIA,CLE,foul,4,False,False,,Drummond OFF.Foul (P2) (S.Foster),82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.23,3,11,46,CLE,CLE,tov,37,False,False,,Drummond Offensive Foul Turnover (P3.T14),82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.53,3,11,28,CLE,MIA,foul,4,False,False,Adebayo OFF.Foul (P2) (S.Foster),,82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.53,3,11,28,MIA,MIA,tov,37,False,False,Adebayo Offensive Foul Turnover (P2.T8),,82-52,82,52
+0021900838,2020-02-22,MIA,CLE,24.9,3,11,6,CLE,CLE,fg_make,58,False,False,,Drummond 7' Turnaround Hook Shot (6 PTS) (Sexton 5 AST),82-54,82,54
+0021900838,2020-02-22,MIA,CLE,25.12,3,10,53,MIA,MIA,tov,1,False,True,Adebayo Bad Pass Turnover (P3.T9),,82-54,82,54
+0021900838,2020-02-22,MIA,CLE,25.12,3,10,53,MIA,CLE,steal,1,False,True,steal,steal,82-54,82,54
+0021900838,2020-02-22,MIA,CLE,25.32,3,10,41,CLE,CLE,fg3_miss,1,False,False,,MISS Nance Jr. 3PT Jump Shot,82-54,82,54
+0021900838,2020-02-22,MIA,CLE,25.38,3,10,37,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:1),,82-54,82,54
+0021900838,2020-02-22,MIA,CLE,25.55,3,10,27,MIA,MIA,tov,1,False,True,Adebayo Bad Pass Turnover (P4.T10),,82-54,82,54
+0021900838,2020-02-22,MIA,CLE,25.55,3,10,27,MIA,CLE,steal,1,False,True,steal,steal,82-54,82,54
+0021900838,2020-02-22,MIA,CLE,25.62,3,10,23,CLE,CLE,fg_make,41,False,False,,Nance Jr. 2' Running Layup (8 PTS) (Drummond 1 AST),82-56,82,56
+0021900838,2020-02-22,MIA,CLE,25.88,3,10,7,MIA,MIA,fg_make,101,False,False,Nunn 6' Driving Floating Jump Shot (14 PTS),,84-56,84,56
+0021900838,2020-02-22,MIA,CLE,26.15,3,9,51,CLE,CLE,fg3_make,1,False,False,,Sexton 25' 3PT Jump Shot (10 PTS) (Garland 5 AST),84-59,84,59
+0021900838,2020-02-22,MIA,CLE,26.25,3,9,45,MIA,CLE,foul,1,False,False,,Sexton P.FOUL (P3.T1) (K.Scott),84-59,84,59
+0021900838,2020-02-22,MIA,CLE,26.45,3,9,33,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 9' Jump Shot,,84-59,84,59
+0021900838,2020-02-22,MIA,CLE,26.5,3,9,30,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:1 Def:4),84-59,84,59
+0021900838,2020-02-22,MIA,CLE,26.78,3,9,13,CLE,CLE,fg3_miss,1,True,False,,MISS Nance Jr. 24' 3PT Jump Shot,84-59,84,59
+0021900838,2020-02-22,MIA,CLE,26.78,3,9,13,CLE,MIA,block,1,True,False,block,block,84-59,84,59
+0021900838,2020-02-22,MIA,CLE,26.85,3,9,9,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:2 Def:4),84-59,84,59
+0021900838,2020-02-22,MIA,CLE,26.9,3,9,6,CLE,CLE,fg_make,78,False,False,,Nance Jr. 5' Floating Jump Shot (10 PTS),84-61,84,61
+0021900838,2020-02-22,MIA,CLE,27.17,3,8,50,MIA,MIA,fg_miss,78,False,False,MISS Adebayo 10' Floating Jump Shot,,84-61,84,61
+0021900838,2020-02-22,MIA,CLE,27.22,3,8,47,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:1 Def:4),84-61,84,61
+0021900838,2020-02-22,MIA,CLE,27.3,3,8,42,CLE,CLE,tov,2,False,True,,Sexton Lost Ball Turnover (P4.T15),84-61,84,61
+0021900838,2020-02-22,MIA,CLE,27.3,3,8,42,CLE,MIA,steal,2,False,True,steal,steal,84-61,84,61
+0021900838,2020-02-22,MIA,CLE,27.38,3,8,37,MIA,MIA,fg_make,41,False,False,Nunn 2' Running Layup (16 PTS) (Jones Jr. 4 AST),,86-61,86,61
+0021900838,2020-02-22,MIA,CLE,27.5,3,8,30,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P2.T16),86-61,86,61
+0021900838,2020-02-22,MIA,CLE,27.5,3,8,30,CLE,MIA,steal,1,False,True,steal,steal,86-61,86,61
+0021900838,2020-02-22,MIA,CLE,27.67,3,8,20,MIA,MIA,fg3_make,1,False,False,Olynyk 25' 3PT Jump Shot (14 PTS) (Robinson 3 AST),,89-61,89,61
+0021900838,2020-02-22,MIA,CLE,28.15,3,7,51,CLE,CLE,fg3_make,1,False,False,,Garland 3PT Jump Shot (9 PTS) (Sexton 6 AST),89-64,89,64
+0021900838,2020-02-22,MIA,CLE,28.53,3,7,28,MIA,MIA,tov,1,False,True,Robinson Bad Pass Turnover (P2.T11),,89-64,89,64
+0021900838,2020-02-22,MIA,CLE,28.53,3,7,28,MIA,CLE,steal,1,False,True,steal,steal,89-64,89,64
+0021900838,2020-02-22,MIA,CLE,28.93,3,7,4,CLE,CLE,tov,2,False,True,,Drummond Lost Ball Turnover (P4.T17),89-64,89,64
+0021900838,2020-02-22,MIA,CLE,28.93,3,7,4,CLE,MIA,steal,2,False,True,steal,steal,89-64,89,64
+0021900838,2020-02-22,MIA,CLE,28.98,3,7,1,MIA,MIA,fg_make,50,False,False,Jones Jr. 1' Running Dunk (13 PTS),,91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.35,3,6,39,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 26' 3PT Jump Shot,91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.38,3,6,37,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:3),,91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.42,3,6,35,MIA,CLE,foul,1,False,False,,Osman P.FOUL (P2.T2) (K.Scott),91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.42,3,6,35,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.62,3,6,23,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.65,3,6,21,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.65,3,6,21,CLE,MIA,foul,3,False,False,Adebayo L.B.FOUL (P3.T1) (J.Sterling),,91-64,91,64
+0021900838,2020-02-22,MIA,CLE,29.88,3,6,7,CLE,CLE,fg3_make,1,False,False,,Thompson 26' 3PT Jump Shot (12 PTS) (Osman 3 AST),91-67,91,67
+0021900838,2020-02-22,MIA,CLE,30.08,3,5,55,MIA,CLE,foul,2,False,False,,Garland S.FOUL (P1.T3) (K.Scott),91-67,91,67
+0021900838,2020-02-22,MIA,CLE,30.08,3,5,55,MIA,MIA,ft_make,11,False,False,Nunn Free Throw 1 of 2 (17 PTS),,92-67,92,67
+0021900838,2020-02-22,MIA,CLE,30.08,3,5,55,MIA,MIA,ft_make,12,False,False,Nunn Free Throw 2 of 2 (18 PTS),,93-67,93,67
+0021900838,2020-02-22,MIA,CLE,30.43,3,5,34,CLE,CLE,fg_miss,1,False,False,,MISS Porter Jr. 15' Jump Shot,93-67,93,67
+0021900838,2020-02-22,MIA,CLE,30.45,3,5,33,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,93-67,93,67
+0021900838,2020-02-22,MIA,CLE,30.48,3,5,31,CLE,CLE,tov,11,False,False,,Cavaliers Turnover: Shot Clock (T#18),93-67,93,67
+0021900838,2020-02-22,MIA,CLE,30.8,3,5,12,MIA,CLE,foul,2,False,False,,Drummond S.FOUL (P3.T4) (S.Foster),93-67,93,67
+0021900838,2020-02-22,MIA,CLE,30.8,3,5,12,MIA,MIA,ft_miss,11,False,False,MISS Olynyk Free Throw 1 of 2,,93-67,93,67
+0021900838,2020-02-22,MIA,CLE,30.8,3,5,12,MIA,MIA,reb,1,False,False,HEAT Rebound,,93-67,93,67
+0021900838,2020-02-22,MIA,CLE,30.8,3,5,12,MIA,MIA,ft_make,12,False,False,Olynyk Free Throw 2 of 2 (15 PTS),,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.18,3,4,49,CLE,CLE,tov,2,False,True,,Thompson Lost Ball Turnover (P3.T19),94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.18,3,4,49,CLE,MIA,steal,2,False,True,steal,steal,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.27,3,4,44,MIA,MIA,fg3_miss,103,False,False,MISS Nunn 26' 3PT Running Pull-Up Jump Shot,,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.32,3,4,41,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:1),,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.37,3,4,38,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 27' 3PT Jump Shot,,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.37,3,4,38,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:1 Def:5),94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.57,3,4,26,CLE,CLE,fg_miss,6,True,False,,MISS Porter Jr. 2' Driving Layup,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.57,3,4,26,CLE,MIA,block,6,True,False,block,block,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.57,3,4,26,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,94-67,94,67
+0021900838,2020-02-22,MIA,CLE,31.68,3,4,19,CLE,CLE,fg_make,47,False,False,,Garland 12' Turnaround Jump Shot (11 PTS),94-69,94,69
+0021900838,2020-02-22,MIA,CLE,32.03,3,3,58,MIA,MIA,fg_make,66,False,False,Adebayo 4' Jump Bank Shot (15 PTS) (Dragic 2 AST),,96-69,96,69
+0021900838,2020-02-22,MIA,CLE,32.32,3,3,41,CLE,CLE,fg_miss,58,False,False,,MISS Thompson 9' Turnaround Hook Shot,96-69,96,69
+0021900838,2020-02-22,MIA,CLE,32.37,3,3,38,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:2),,96-69,96,69
+0021900838,2020-02-22,MIA,CLE,32.43,3,3,34,MIA,MIA,fg3_make,1,False,False,Dragic 3PT Jump Shot (9 PTS) (Nunn 6 AST),,99-69,99,69
+0021900838,2020-02-22,MIA,CLE,32.43,3,3,34,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.5 Short 0),99-69,99,69
+0021900838,2020-02-22,MIA,CLE,32.75,3,3,15,CLE,CLE,fg_miss,101,False,False,,MISS Sexton 9' Driving Floating Jump Shot,99-69,99,69
+0021900838,2020-02-22,MIA,CLE,32.82,3,3,11,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:3 Def:2),99-69,99,69
+0021900838,2020-02-22,MIA,CLE,32.82,3,3,11,CLE,CLE,fg_make,97,False,False,,Thompson 1' Tip Layup Shot (14 PTS),99-71,99,71
+0021900838,2020-02-22,MIA,CLE,33.0,3,3,0,MIA,MIA,tov,1,False,True,Adebayo Bad Pass Turnover (P5.T12),,99-71,99,71
+0021900838,2020-02-22,MIA,CLE,33.0,3,3,0,MIA,CLE,steal,1,False,True,steal,steal,99-71,99,71
+0021900838,2020-02-22,MIA,CLE,33.07,3,2,56,CLE,CLE,tov,1,False,True,,Nance Jr. Bad Pass Turnover (P3.T20),99-71,99,71
+0021900838,2020-02-22,MIA,CLE,33.07,3,2,56,CLE,MIA,steal,1,False,True,steal,steal,99-71,99,71
+0021900838,2020-02-22,MIA,CLE,33.18,3,2,49,MIA,MIA,fg3_make,1,False,False,Dragic 24' 3PT Jump Shot (12 PTS) (Adebayo 9 AST),,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.45,3,2,33,CLE,CLE,fg3_miss,1,False,False,,MISS Porter Jr. 26' 3PT Jump Shot,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.53,3,2,28,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:3),,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.55,3,2,27,MIA,MIA,tov,1,False,True,Dragic Bad Pass Turnover (P3.T13),,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.55,3,2,27,MIA,CLE,steal,1,False,True,steal,steal,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.72,3,2,17,CLE,CLE,fg3_miss,1,False,False,,MISS Porter Jr. 24' 3PT Jump Shot,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.75,3,2,15,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:2),,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.82,3,2,11,MIA,MIA,fg3_miss,79,False,False,MISS Dragic 25' 3PT Pullup Jump Shot,,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,33.83,3,2,10,CLE,CLE,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:2),102-71,102,71
+0021900838,2020-02-22,MIA,CLE,34.23,3,1,46,CLE,MIA,foul,2,False,False,Dragic S.FOUL (P1.T2) (S.Foster),,102-71,102,71
+0021900838,2020-02-22,MIA,CLE,34.23,3,1,46,CLE,CLE,ft_make,11,False,False,,Sexton Free Throw 1 of 2 (11 PTS),102-72,102,72
+0021900838,2020-02-22,MIA,CLE,34.23,3,1,46,CLE,CLE,ft_make,12,False,False,,Sexton Free Throw 2 of 2 (12 PTS),102-73,102,73
+0021900838,2020-02-22,MIA,CLE,34.47,3,1,32,MIA,MIA,fg_miss,101,False,False,MISS Dragic 10' Driving Floating Jump Shot,,102-73,102,73
+0021900838,2020-02-22,MIA,CLE,34.5,3,1,30,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,102-73,102,73
+0021900838,2020-02-22,MIA,CLE,34.63,3,1,22,CLE,MIA,foul,1,False,False,Dragic P.FOUL (P2.PN) (S.Foster),,102-73,102,73
+0021900838,2020-02-22,MIA,CLE,34.63,3,1,22,CLE,CLE,ft_make,11,False,False,,Sexton Free Throw 1 of 2 (13 PTS),102-74,102,74
+0021900838,2020-02-22,MIA,CLE,34.63,3,1,22,CLE,CLE,ft_make,12,False,False,,Sexton Free Throw 2 of 2 (14 PTS),102-75,102,75
+0021900838,2020-02-22,MIA,CLE,34.8,3,1,12,MIA,CLE,foul,1,False,False,,Exum P.FOUL (P1.PN) (J.Sterling),102-75,102,75
+0021900838,2020-02-22,MIA,CLE,34.8,3,1,12,MIA,MIA,ft_make,11,False,False,Olynyk Free Throw 1 of 2 (16 PTS),,103-75,103,75
+0021900838,2020-02-22,MIA,CLE,34.8,3,1,12,MIA,MIA,ft_make,12,False,False,Olynyk Free Throw 2 of 2 (17 PTS),,104-75,104,75
+0021900838,2020-02-22,MIA,CLE,35.07,3,0,56,CLE,CLE,fg3_miss,1,False,False,,MISS Nance Jr. 25' 3PT Jump Shot,104-75,104,75
+0021900838,2020-02-22,MIA,CLE,35.1,3,0,54,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:2 Def:0),104-75,104,75
+0021900838,2020-02-22,MIA,CLE,35.12,3,0,53,CLE,CLE,tov,45,False,False,,Exum Out of Bounds - Bad Pass Turnover Turnover (P2.T21),104-75,104,75
+0021900838,2020-02-22,MIA,CLE,35.32,3,0,41,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 24' 3PT Jump Shot,,104-75,104,75
+0021900838,2020-02-22,MIA,CLE,35.37,3,0,38,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:2 Def:1),104-75,104,75
+0021900838,2020-02-22,MIA,CLE,35.45,3,0,33,CLE,CLE,fg3_make,1,False,False,,Sexton 25' 3PT Jump Shot (17 PTS) (Osman 4 AST),104-78,104,78
+0021900838,2020-02-22,MIA,CLE,35.63,3,0,22,MIA,MIA,fg_make,99,False,False,Dragic 2' Cutting Finger Roll Layup Shot (14 PTS) (Nunn 7 AST),,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.0,3,0,0,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 25' 3PT Jump Shot,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.0,3,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.0,3,0,0,CLE,,period_end,0,False,False,,,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.0,4,12,0,CLE,,period_start,0,False,False,,,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.33,4,11,40,MIA,MIA,fg_miss,5,False,False,MISS Haslem 1' Layup,,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.4,4,11,36,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:2 Def:2),106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.45,4,11,33,CLE,CLE,fg3_miss,1,False,False,,MISS Sexton 26' 3PT Jump Shot,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.48,4,11,31,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.48,4,11,31,CLE,MIA,foul,1,False,False,Crowder P.FOUL (P2.T1) (S.Foster),,106-78,106,78
+0021900838,2020-02-22,MIA,CLE,36.62,4,11,23,CLE,CLE,fg_make,47,False,False,,Thompson 5' Turnaround Jump Shot (16 PTS) (Osman 5 AST),106-80,106,80
+0021900838,2020-02-22,MIA,CLE,36.9,4,11,6,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 25' 3PT Jump Shot,,106-80,106,80
+0021900838,2020-02-22,MIA,CLE,36.93,4,11,4,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:3 Def:3),106-80,106,80
+0021900838,2020-02-22,MIA,CLE,37.12,4,10,53,CLE,MIA,foul,2,False,False,Crowder S.FOUL (P3.T2) (J.Sterling),,106-80,106,80
+0021900838,2020-02-22,MIA,CLE,37.12,4,10,53,CLE,CLE,ft_miss,11,False,False,,MISS Osman Free Throw 1 of 2,106-80,106,80
+0021900838,2020-02-22,MIA,CLE,37.12,4,10,53,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,106-80,106,80
+0021900838,2020-02-22,MIA,CLE,37.12,4,10,53,CLE,CLE,ft_miss,12,False,False,,MISS Osman Free Throw 2 of 2,106-80,106,80
+0021900838,2020-02-22,MIA,CLE,37.17,4,10,50,MIA,MIA,reb,0,False,False,Haslem REBOUND (Off:0 Def:1),,106-80,106,80
+0021900838,2020-02-22,MIA,CLE,37.38,4,10,37,MIA,MIA,fg_make,1,False,False,Dragic 17' Jump Shot (16 PTS) (Haslem 1 AST),,108-80,108,80
+0021900838,2020-02-22,MIA,CLE,37.65,4,10,21,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 27' 3PT Jump Shot,108-80,108,80
+0021900838,2020-02-22,MIA,CLE,37.72,4,10,17,MIA,MIA,reb,0,False,False,Haslem REBOUND (Off:0 Def:2),,108-80,108,80
+0021900838,2020-02-22,MIA,CLE,37.85,4,10,9,MIA,MIA,fg3_make,1,False,False,Crowder 26' 3PT Jump Shot (11 PTS) (Dragic 3 AST),,111-80,111,80
+0021900838,2020-02-22,MIA,CLE,37.98,4,10,1,CLE,MIA,foul,1,False,False,Iguodala P.FOUL (P1.T3) (K.Scott),,111-80,111,80
+0021900838,2020-02-22,MIA,CLE,38.28,4,9,43,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 26' 3PT Jump Shot,111-80,111,80
+0021900838,2020-02-22,MIA,CLE,38.35,4,9,39,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:4 Def:3),111-80,111,80
+0021900838,2020-02-22,MIA,CLE,38.38,4,9,37,CLE,CLE,fg3_miss,1,False,False,,MISS Sexton 25' 3PT Jump Shot,111-80,111,80
+0021900838,2020-02-22,MIA,CLE,38.42,4,9,35,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:4),,111-80,111,80
+0021900838,2020-02-22,MIA,CLE,38.58,4,9,25,MIA,MIA,fg_miss,1,False,False,MISS Iguodala 15' Jump Shot,,111-80,111,80
+0021900838,2020-02-22,MIA,CLE,38.62,4,9,23,CLE,CLE,reb,0,False,False,,Sexton REBOUND (Off:0 Def:1),111-80,111,80
+0021900838,2020-02-22,MIA,CLE,38.7,4,9,18,CLE,CLE,fg3_make,1,False,False,,Osman 25' 3PT Jump Shot (14 PTS) (Sexton 7 AST),111-83,111,83
+0021900838,2020-02-22,MIA,CLE,38.97,4,9,2,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,111-83,111,83
+0021900838,2020-02-22,MIA,CLE,39.02,4,8,59,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:2 Def:5),111-83,111,83
+0021900838,2020-02-22,MIA,CLE,39.3,4,8,42,CLE,CLE,fg_miss,1,True,False,,MISS Sexton 14' Jump Shot,111-83,111,83
+0021900838,2020-02-22,MIA,CLE,39.3,4,8,42,CLE,MIA,block,1,True,False,block,block,111-83,111,83
+0021900838,2020-02-22,MIA,CLE,39.37,4,8,38,MIA,MIA,reb,0,False,False,Haslem REBOUND (Off:0 Def:3),,111-83,111,83
+0021900838,2020-02-22,MIA,CLE,39.4,4,8,36,MIA,MIA,fg_make,41,False,False,Crowder 1' Running Layup (13 PTS) (Dragic 4 AST),,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,39.42,4,8,35,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.6 Short 0),113-83,113,83
+0021900838,2020-02-22,MIA,CLE,39.63,4,8,22,CLE,CLE,fg3_miss,1,False,False,,MISS Dellavedova 26' 3PT Jump Shot,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,39.67,4,8,20,MIA,MIA,reb,0,False,False,Haslem REBOUND (Off:0 Def:4),,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,39.8,4,8,12,CLE,MIA,foul,4,False,False,Crowder OFF.Foul (P4) (K.Scott),,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,39.8,4,8,12,MIA,MIA,tov,37,False,False,Crowder Offensive Foul Turnover (P1.T14),,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,40.0,4,8,0,CLE,MIA,foul,2,False,False,Crowder S.FOUL (P5.T4) (J.Sterling),,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,40.0,4,8,0,CLE,CLE,ft_miss,11,False,False,,MISS Exum Free Throw 1 of 2,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,40.0,4,8,0,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,113-83,113,83
+0021900838,2020-02-22,MIA,CLE,40.0,4,8,0,CLE,CLE,ft_make,12,False,False,,Exum Free Throw 2 of 2 (8 PTS),113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.23,4,7,46,MIA,MIA,fg3_miss,1,False,False,MISS Haslem 26' 3PT Jump Shot,,113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.27,4,7,44,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:2 Def:2),113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.38,4,7,37,CLE,CLE,tov,2,False,True,,Zizic Lost Ball Turnover (P1.T22),113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.38,4,7,37,CLE,MIA,steal,2,False,True,steal,steal,113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.5,4,7,30,MIA,MIA,fg3_miss,1,False,False,MISS Crowder 26' 3PT Jump Shot,,113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.53,4,7,28,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:2 Def:3),113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.87,4,7,8,CLE,CLE,tov,1,False,True,,Dellavedova Bad Pass Turnover (P1.T23),113-84,113,84
+0021900838,2020-02-22,MIA,CLE,40.87,4,7,8,CLE,MIA,steal,1,False,True,steal,steal,113-84,113,84
+0021900838,2020-02-22,MIA,CLE,41.02,4,6,59,MIA,MIA,fg_miss,6,False,False,MISS S. Hill 1' Driving Layup,,113-84,113,84
+0021900838,2020-02-22,MIA,CLE,41.05,4,6,57,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:2 Def:4),113-84,113,84
+0021900838,2020-02-22,MIA,CLE,41.12,4,6,53,CLE,CLE,fg3_make,103,False,False,,Garland 25' 3PT Running Pull-Up Jump Shot (14 PTS) (Osman 6 AST),113-87,113,87
+0021900838,2020-02-22,MIA,CLE,41.55,4,6,27,MIA,MIA,fg_miss,1,False,False,MISS Haslem 5' Jump Shot,,113-87,113,87
+0021900838,2020-02-22,MIA,CLE,41.58,4,6,25,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:2 Def:3),113-87,113,87
+0021900838,2020-02-22,MIA,CLE,41.67,4,6,20,CLE,CLE,fg_make,5,False,False,,Zizic 2' Layup (2 PTS) (Osman 7 AST),113-89,113,89
+0021900838,2020-02-22,MIA,CLE,41.67,4,6,20,CLE,MIA,foul,2,False,False,Iguodala S.FOUL (P2.PN) (K.Scott),,113-89,113,89
+0021900838,2020-02-22,MIA,CLE,41.67,4,6,20,CLE,CLE,ft_make,10,False,False,,Zizic Free Throw 1 of 1 (3 PTS),113-90,113,90
+0021900838,2020-02-22,MIA,CLE,41.9,4,6,6,MIA,MIA,fg_miss,7,False,False,MISS Haslem 1' Dunk,,113-90,113,90
+0021900838,2020-02-22,MIA,CLE,41.95,4,6,3,CLE,CLE,reb,0,False,False,,Dellavedova REBOUND (Off:0 Def:1),113-90,113,90
+0021900838,2020-02-22,MIA,CLE,41.98,4,6,1,CLE,CLE,tov,1,False,True,,Dellavedova Bad Pass Turnover (P2.T24),113-90,113,90
+0021900838,2020-02-22,MIA,CLE,41.98,4,6,1,CLE,MIA,steal,1,False,True,steal,steal,113-90,113,90
+0021900838,2020-02-22,MIA,CLE,42.07,4,5,56,MIA,MIA,fg_miss,41,False,False,MISS Iguodala 2' Running Layup,,113-90,113,90
+0021900838,2020-02-22,MIA,CLE,42.12,4,5,53,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:2 Def:1),,113-90,113,90
+0021900838,2020-02-22,MIA,CLE,42.22,4,5,47,MIA,MIA,fg3_miss,1,False,False,MISS Haslem 26' 3PT Jump Shot,,113-90,113,90
+0021900838,2020-02-22,MIA,CLE,42.25,4,5,45,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:2 Def:4),113-90,113,90
+0021900838,2020-02-22,MIA,CLE,42.35,4,5,39,CLE,CLE,fg3_make,1,False,False,,Osman 26' 3PT Jump Shot (17 PTS) (Exum 1 AST),113-93,113,93
+0021900838,2020-02-22,MIA,CLE,42.47,4,5,32,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 3 Short 0),,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,42.63,4,5,22,MIA,MIA,tov,2,False,True,Nunn Lost Ball Turnover (P1.T15),,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,42.63,4,5,22,MIA,CLE,steal,2,False,True,steal,steal,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,42.73,4,5,16,CLE,CLE,fg3_miss,1,False,False,,MISS Garland 25' 3PT Jump Shot,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,42.78,4,5,13,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:1 Def:2),,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,43.17,4,4,50,MIA,MIA,fg_miss,1,False,False,MISS Nunn 18' Jump Shot,,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,43.22,4,4,47,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:2 Def:5),113-93,113,93
+0021900838,2020-02-22,MIA,CLE,43.45,4,4,33,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 3PT Jump Shot,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,43.48,4,4,31,MIA,MIA,reb,0,False,False,Haslem REBOUND (Off:0 Def:5),,113-93,113,93
+0021900838,2020-02-22,MIA,CLE,43.82,4,4,11,MIA,MIA,fg3_make,1,False,False,Robinson 3PT Jump Shot (19 PTS) (Nunn 8 AST),,116-93,116,93
+0021900838,2020-02-22,MIA,CLE,44.13,4,3,52,CLE,CLE,fg_make,3,False,False,,Zizic 5' Hook Shot (5 PTS) (Dellavedova 1 AST),116-95,116,95
+0021900838,2020-02-22,MIA,CLE,44.42,4,3,35,MIA,MIA,fg_make,63,False,False,S. Hill 10' Fadeaway Jumper (2 PTS),,118-95,118,95
+0021900838,2020-02-22,MIA,CLE,44.8,4,3,12,CLE,CLE,fg3_miss,80,False,False,,MISS Garland 25' 3PT Step Back Jump Shot,118-95,118,95
+0021900838,2020-02-22,MIA,CLE,44.85,4,3,9,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:1 Def:3),,118-95,118,95
+0021900838,2020-02-22,MIA,CLE,45.02,4,2,59,MIA,MIA,fg_miss,79,False,False,MISS Nunn 11' Pullup Jump Shot,,118-95,118,95
+0021900838,2020-02-22,MIA,CLE,45.05,4,2,57,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:2 Def:5),118-95,118,95
+0021900838,2020-02-22,MIA,CLE,45.15,4,2,51,CLE,CLE,fg_make,98,False,False,,Osman 1' Cutting Layup Shot (19 PTS) (Dellavedova 2 AST),118-97,118,97
+0021900838,2020-02-22,MIA,CLE,45.62,4,2,23,MIA,MIA,fg_miss,101,False,False,MISS S. Hill 10' Driving Floating Jump Shot,,118-97,118,97
+0021900838,2020-02-22,MIA,CLE,45.67,4,2,20,CLE,CLE,reb,0,False,False,,Exum REBOUND (Off:2 Def:6),118-97,118,97
+0021900838,2020-02-22,MIA,CLE,45.87,4,2,8,,MIA,jump_ball,0,False,False,Jump Ball S. Hill vs. Zizic: Tip to Silva,,118-97,118,97
+0021900838,2020-02-22,MIA,CLE,45.87,4,2,8,CLE,CLE,tov,2,False,True,,Zizic Lost Ball Turnover (P2.T25),118-97,118,97
+0021900838,2020-02-22,MIA,CLE,45.87,4,2,8,CLE,MIA,steal,2,False,True,steal,steal,118-97,118,97
+0021900838,2020-02-22,MIA,CLE,46.13,4,1,52,MIA,MIA,fg3_miss,1,False,False,MISS S. Hill 25' 3PT Jump Shot,,118-97,118,97
+0021900838,2020-02-22,MIA,CLE,46.17,4,1,50,CLE,CLE,reb,0,False,False,,Sexton REBOUND (Off:0 Def:2),118-97,118,97
+0021900838,2020-02-22,MIA,CLE,46.23,4,1,46,CLE,CLE,fg3_make,103,False,False,,Exum 26' 3PT Running Pull-Up Jump Shot (11 PTS) (Sexton 8 AST),118-100,118,100
+0021900838,2020-02-22,MIA,CLE,46.43,4,1,34,MIA,MIA,fg3_miss,1,False,False,MISS Nunn 24' 3PT Jump Shot,,118-100,118,100
+0021900838,2020-02-22,MIA,CLE,46.43,4,1,34,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,118-100,118,100
+0021900838,2020-02-22,MIA,CLE,46.62,4,1,23,CLE,CLE,fg3_make,1,False,False,,Exum 26' 3PT Jump Shot (14 PTS) (Dellavedova 3 AST),118-103,118,103
+0021900838,2020-02-22,MIA,CLE,46.97,4,1,2,MIA,MIA,fg3_make,1,False,False,Nunn 26' 3PT Jump Shot (21 PTS) (Silva 1 AST),,121-103,121,103
+0021900838,2020-02-22,MIA,CLE,47.18,4,0,49,CLE,CLE,fg_make,5,False,False,,Zizic 2' Layup (7 PTS) (Sexton 9 AST),121-105,121,105
+0021900838,2020-02-22,MIA,CLE,47.47,4,0,32,MIA,MIA,fg3_make,80,False,False,Nunn 25' 3PT Step Back Jump Shot (24 PTS),,124-105,124,105
+0021900838,2020-02-22,MIA,CLE,47.58,4,0,25,CLE,CLE,fg3_miss,1,False,False,,MISS Sexton 25' 3PT Jump Shot,124-105,124,105
+0021900838,2020-02-22,MIA,CLE,47.62,4,0,23,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:4),,124-105,124,105
+0021900838,2020-02-22,MIA,CLE,47.98,4,0,1,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#16),,124-105,124,105
+0021900838,2020-02-22,MIA,CLE,48.0,4,0,0,MIA,,period_end,0,False,False,,,124-105,124,105

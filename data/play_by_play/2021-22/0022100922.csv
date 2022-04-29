@@ -1,0 +1,423 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100922,2022-02-28,MIA,CHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100922,2022-02-28,MIA,CHI,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Adebayo vs. Vucevic: Tip to Dosunmu,,0-0,0,0
+0022100922,2022-02-28,MIA,CHI,0.35,1,11,39,CHI,CHI,fg_miss,1,False,False,,MISS Vucevic 15' Jump Shot,0-0,0,0
+0022100922,2022-02-28,MIA,CHI,0.48,1,11,31,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:1 Def:0),0-2,0,2
+0022100922,2022-02-28,MIA,CHI,0.48,1,11,31,CHI,CHI,fg_make,97,False,False,,Green Tip Layup Shot (2 PTS),0-2,0,2
+0022100922,2022-02-28,MIA,CHI,0.67,1,11,20,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 27' 3PT Jump Shot,,0-2,0,2
+0022100922,2022-02-28,MIA,CHI,0.72,1,11,17,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:1),0-2,0,2
+0022100922,2022-02-28,MIA,CHI,0.83,1,11,10,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 26' 3PT Jump Shot,0-2,0,2
+0022100922,2022-02-28,MIA,CHI,0.88,1,11,7,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:1),,0-2,0,2
+0022100922,2022-02-28,MIA,CHI,0.93,1,11,4,MIA,MIA,tov,45,False,False,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,0-2,0,2
+0022100922,2022-02-28,MIA,CHI,1.13,1,10,52,CHI,CHI,fg_make,108,False,False,,Vucevic 1' Cutting Dunk Shot (2 PTS) (LaVine 1 AST),0-4,0,4
+0022100922,2022-02-28,MIA,CHI,1.35,1,10,39,MIA,MIA,fg_make,1,False,False,Adebayo 16' Jump Shot (2 PTS) (Vincent 1 AST),,2-4,2,4
+0022100922,2022-02-28,MIA,CHI,1.63,1,10,22,CHI,CHI,fg_make,79,False,False,,DeRozan 19' Pullup Jump Shot (2 PTS),2-6,2,6
+0022100922,2022-02-28,MIA,CHI,1.85,1,10,9,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 27' 3PT Jump Shot,,2-6,2,6
+0022100922,2022-02-28,MIA,CHI,1.9,1,10,6,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:1 Def:0),,2-6,2,6
+0022100922,2022-02-28,MIA,CHI,2.05,1,9,57,MIA,MIA,fg_miss,101,False,False,MISS Butler 6' Driving Floating Jump Shot,,2-6,2,6
+0022100922,2022-02-28,MIA,CHI,2.07,1,9,56,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:0),,2-6,2,6
+0022100922,2022-02-28,MIA,CHI,2.1,1,9,54,MIA,MIA,fg_make,5,False,False,Butler 2' Layup (2 PTS),,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.23,1,9,46,CHI,CHI,tov,2,False,True,,LaVine Lost Ball Turnover (P1.T1),4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.23,1,9,46,CHI,MIA,steal,2,False,True,steal,steal,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.33,1,9,40,MIA,MIA,fg_miss,41,False,False,MISS Butler 3' Running Layup,,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.35,1,9,39,CHI,CHI,reb,0,False,False,,Bulls Rebound,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.53,1,9,28,CHI,CHI,tov,1,False,True,,DeRozan Bad Pass Turnover (P1.T2),4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.53,1,9,28,CHI,MIA,steal,1,False,True,steal,steal,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.72,1,9,17,MIA,MIA,fg3_miss,1,False,False,MISS Tucker 27' 3PT Jump Shot,,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.8,1,9,12,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:1),4-6,4,6
+0022100922,2022-02-28,MIA,CHI,2.93,1,9,4,CHI,CHI,fg3_miss,1,False,False,,MISS DeRozan 26' 3PT Jump Shot,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,3.0,1,9,0,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:0 Def:2),,4-6,4,6
+0022100922,2022-02-28,MIA,CHI,3.15,1,8,51,MIA,CHI,foul,2,False,False,,Vucevic S.FOUL (P1.T1) (D.Collins),4-6,4,6
+0022100922,2022-02-28,MIA,CHI,3.15,1,8,51,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (3 PTS),,5-6,5,6
+0022100922,2022-02-28,MIA,CHI,3.15,1,8,51,MIA,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (4 PTS),,6-6,6,6
+0022100922,2022-02-28,MIA,CHI,3.33,1,8,40,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,6-6,6,6
+0022100922,2022-02-28,MIA,CHI,3.4,1,8,36,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:1),,6-6,6,6
+0022100922,2022-02-28,MIA,CHI,3.57,1,8,26,MIA,MIA,fg3_make,1,False,False,Vincent 27' 3PT Jump Shot (3 PTS) (Robinson 1 AST),,9-6,9,6
+0022100922,2022-02-28,MIA,CHI,3.77,1,8,14,CHI,CHI,tov,1,False,True,,DeRozan Bad Pass Turnover (P2.T3),9-6,9,6
+0022100922,2022-02-28,MIA,CHI,3.77,1,8,14,CHI,MIA,steal,1,False,True,steal,steal,9-6,9,6
+0022100922,2022-02-28,MIA,CHI,3.83,1,8,10,MIA,MIA,fg_make,50,False,False,Butler 1' Running Dunk (4 PTS) (Tucker 1 AST),,11-6,11,6
+0022100922,2022-02-28,MIA,CHI,4.18,1,7,49,CHI,CHI,fg_make,5,False,False,,Vucevic 3' Layup (4 PTS) (LaVine 2 AST),11-8,11,8
+0022100922,2022-02-28,MIA,CHI,4.35,1,7,39,MIA,MIA,fg_make,71,False,False,Adebayo 2' Finger Roll Layup (6 PTS),,13-8,13,8
+0022100922,2022-02-28,MIA,CHI,4.53,1,7,28,CHI,CHI,fg_make,79,False,False,,LaVine 17' Pullup Jump Shot (2 PTS),13-10,13,10
+0022100922,2022-02-28,MIA,CHI,4.7,1,7,18,MIA,CHI,foul,1,False,False,,Dosunmu P.FOUL (P1.T2) (D.Collins),13-10,13,10
+0022100922,2022-02-28,MIA,CHI,4.83,1,7,10,MIA,MIA,fg3_make,79,False,False,Robinson 27' 3PT Pullup Jump Shot (3 PTS) (Adebayo 1 AST),,16-10,16,10
+0022100922,2022-02-28,MIA,CHI,5.18,1,6,49,CHI,CHI,tov,1,False,True,,Dosunmu Bad Pass Turnover (P1.T4),16-10,16,10
+0022100922,2022-02-28,MIA,CHI,5.18,1,6,49,CHI,MIA,steal,1,False,True,steal,steal,16-10,16,10
+0022100922,2022-02-28,MIA,CHI,5.28,1,6,43,MIA,CHI,foul,2,False,False,,LaVine S.FOUL (P1.T3) (B.Kennedy),16-10,16,10
+0022100922,2022-02-28,MIA,CHI,5.28,1,6,43,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,16-10,16,10
+0022100922,2022-02-28,MIA,CHI,5.28,1,6,43,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (5 PTS),,17-10,17,10
+0022100922,2022-02-28,MIA,CHI,5.28,1,6,43,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (6 PTS),,18-10,18,10
+0022100922,2022-02-28,MIA,CHI,5.52,1,6,29,CHI,CHI,fg3_miss,1,False,False,,MISS White 27' 3PT Jump Shot,18-10,18,10
+0022100922,2022-02-28,MIA,CHI,5.58,1,6,25,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:2),,18-10,18,10
+0022100922,2022-02-28,MIA,CHI,5.72,1,6,17,MIA,MIA,fg_make,79,False,False,Vincent 17' Pullup Jump Shot (5 PTS),,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.02,1,5,59,CHI,CHI,fg3_miss,80,False,False,,MISS LaVine 25' 3PT Step Back Jump Shot,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.08,1,5,55,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:1 Def:1),,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.2,1,5,48,MIA,MIA,fg_miss,86,False,False,MISS Adebayo 10' Turnaround Fadeaway Shot,,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.33,1,5,40,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:1 Def:2),,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.4,1,5,36,,MIA,jump_ball,0,False,False,Jump Ball Butler vs. Green: Tip to White,,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.4,1,5,36,MIA,MIA,tov,2,False,True,Butler Lost Ball Turnover (P1.T2),,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.4,1,5,36,MIA,CHI,steal,2,False,True,steal,steal,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.43,1,5,34,CHI,MIA,foul,2,False,False,Robinson S.FOUL (P1.T1) (L.Holtkamp),,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.43,1,5,34,CHI,CHI,ft_miss,11,False,False,,MISS LaVine Free Throw 1 of 2,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.43,1,5,34,CHI,CHI,reb,1,False,False,,Bulls Rebound,20-10,20,10
+0022100922,2022-02-28,MIA,CHI,6.43,1,5,34,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (3 PTS),20-11,20,11
+0022100922,2022-02-28,MIA,CHI,6.7,1,5,18,MIA,MIA,fg_make,108,False,False,Tucker 2' Cutting Dunk Shot (2 PTS) (Butler 1 AST),,22-11,22,11
+0022100922,2022-02-28,MIA,CHI,7.05,1,4,57,CHI,CHI,tov,2,False,True,,Vucevic Lost Ball Turnover (P1.T5),22-11,22,11
+0022100922,2022-02-28,MIA,CHI,7.05,1,4,57,CHI,MIA,steal,2,False,True,steal,steal,22-11,22,11
+0022100922,2022-02-28,MIA,CHI,7.38,1,4,37,MIA,MIA,fg_make,5,False,False,Tucker 2' Layup (4 PTS) (Robinson 2 AST),,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,7.62,1,4,23,CHI,CHI,tov,4,False,False,,Jones Jr. Traveling Turnover (P1.T6),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,7.8,1,4,12,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 27' 3PT Jump Shot,,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,7.87,1,4,8,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:0 Def:1),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.12,1,3,53,CHI,CHI,tov,1,False,True,,LaVine Bad Pass Turnover (P2.T7),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.12,1,3,53,CHI,MIA,steal,1,False,True,steal,steal,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.35,1,3,39,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 28' 3PT Jump Shot,,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.42,1,3,35,CHI,CHI,reb,0,False,False,,White REBOUND (Off:0 Def:1),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.42,1,3,35,CHI,MIA,foul,1,False,False,Tucker P.FOUL (P1.T2) (L.Holtkamp),,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.62,1,3,23,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 18' Pullup Jump Shot,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.63,1,3,22,MIA,MIA,reb,0,False,False,HEAT Rebound,,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.63,1,3,22,MIA,CHI,foul,3,False,False,,Thompson L.B.FOUL (P1.T4) (D.Collins),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.85,1,3,9,MIA,MIA,fg_miss,98,False,False,MISS Strus 3' Cutting Layup Shot,,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.9,1,3,6,CHI,CHI,reb,0,False,False,,White REBOUND (Off:0 Def:2),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.9,1,3,6,CHI,MIA,foul,1,False,False,Strus P.FOUL (P1.T3) (D.Collins),,24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.9,1,3,6,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.1 Short 0),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,8.9,1,3,6,CHI,CHI,tov,9,False,False,,Bulls Turnover: 5 Second Violation (T#8),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,9.03,1,2,58,MIA,CHI,foul,1,False,False,,Jones Jr. P.FOUL (P1.PN) (B.Kennedy),24-11,24,11
+0022100922,2022-02-28,MIA,CHI,9.03,1,2,58,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (7 PTS),,25-11,25,11
+0022100922,2022-02-28,MIA,CHI,9.03,1,2,58,MIA,MIA,ft_miss,12,False,False,MISS Butler Free Throw 2 of 2,,25-11,25,11
+0022100922,2022-02-28,MIA,CHI,9.08,1,2,55,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:1),25-11,25,11
+0022100922,2022-02-28,MIA,CHI,9.32,1,2,41,CHI,CHI,fg_make,79,False,False,,DeRozan 15' Pullup Jump Shot (4 PTS),25-13,25,13
+0022100922,2022-02-28,MIA,CHI,9.5,1,2,30,MIA,CHI,foul,2,False,False,,Jones Jr. S.FOUL (P2.PN) (D.Collins),25-13,25,13
+0022100922,2022-02-28,MIA,CHI,9.5,1,2,30,MIA,MIA,ft_miss,11,False,False,MISS Butler Free Throw 1 of 2,,25-13,25,13
+0022100922,2022-02-28,MIA,CHI,9.5,1,2,30,MIA,MIA,reb,1,False,False,HEAT Rebound,,25-13,25,13
+0022100922,2022-02-28,MIA,CHI,9.5,1,2,30,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (8 PTS),,26-13,26,13
+0022100922,2022-02-28,MIA,CHI,9.77,1,2,14,CHI,CHI,fg3_miss,1,False,False,,MISS Brown Jr. 3PT Jump Shot,26-13,26,13
+0022100922,2022-02-28,MIA,CHI,9.8,1,2,12,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:3),,26-13,26,13
+0022100922,2022-02-28,MIA,CHI,9.93,1,2,4,MIA,MIA,fg_miss,44,False,False,MISS Dedmon 3' Reverse Layup,,26-13,26,13
+0022100922,2022-02-28,MIA,CHI,9.97,1,2,2,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:0 Def:2),26-13,26,13
+0022100922,2022-02-28,MIA,CHI,10.12,1,1,53,CHI,MIA,foul,2,False,False,Dedmon S.FOUL (P1.T4) (L.Holtkamp),,26-13,26,13
+0022100922,2022-02-28,MIA,CHI,10.12,1,1,53,CHI,CHI,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,26-13,26,13
+0022100922,2022-02-28,MIA,CHI,10.12,1,1,53,CHI,CHI,reb,1,False,False,,Bulls Rebound,26-13,26,13
+0022100922,2022-02-28,MIA,CHI,10.12,1,1,53,CHI,CHI,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (1 PTS),26-14,26,14
+0022100922,2022-02-28,MIA,CHI,10.32,1,1,41,MIA,MIA,fg_make,101,False,False,Herro 9' Driving Floating Jump Shot (2 PTS) (Dedmon 1 AST),,28-14,28,14
+0022100922,2022-02-28,MIA,CHI,10.53,1,1,28,CHI,CHI,fg3_make,1,False,False,,Dosunmu 24' 3PT Jump Shot (3 PTS) (White 1 AST),28-17,28,17
+0022100922,2022-02-28,MIA,CHI,10.7,1,1,18,MIA,CHI,foul,2,False,False,,DeRozan S.FOUL (P1.PN) (L.Holtkamp),28-17,28,17
+0022100922,2022-02-28,MIA,CHI,10.7,1,1,18,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (3 PTS),,29-17,29,17
+0022100922,2022-02-28,MIA,CHI,10.7,1,1,18,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (4 PTS),,30-17,30,17
+0022100922,2022-02-28,MIA,CHI,11.0,1,1,0,CHI,CHI,fg_make,79,False,False,,DeRozan 18' Pullup Jump Shot (6 PTS),30-19,30,19
+0022100922,2022-02-28,MIA,CHI,11.28,1,0,43,MIA,MIA,fg_miss,63,False,False,MISS Herro 13' Fadeaway Jumper,,30-19,30,19
+0022100922,2022-02-28,MIA,CHI,11.37,1,0,38,CHI,CHI,reb,0,False,False,,White REBOUND (Off:0 Def:3),30-19,30,19
+0022100922,2022-02-28,MIA,CHI,11.48,1,0,31,CHI,CHI,fg_make,108,False,False,,Jones Jr. 2' Cutting Dunk Shot (2 PTS) (White 2 AST),30-21,30,21
+0022100922,2022-02-28,MIA,CHI,11.83,1,0,10,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 29' 3PT Jump Shot,,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,11.92,1,0,5,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:2),30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.0,1,0,0,CHI,CHI,fg3_miss,86,False,False,,MISS DeRozan 27' 3PT Turnaround Fadeaway Shot,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.0,1,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.0,1,0,0,CHI,,period_end,0,False,False,,,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.0,2,12,0,CHI,,period_start,0,False,False,,,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.3,2,11,42,MIA,MIA,fg3_miss,1,False,False,MISS Strus 3PT Jump Shot,,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.35,2,11,39,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:1),30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.43,2,11,34,CHI,CHI,fg_miss,47,False,False,,MISS DeRozan 12' Turnaround Jump Shot,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.52,2,11,29,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:1),,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.77,2,11,14,MIA,MIA,fg_miss,78,False,False,MISS Herro 14' Floating Jump Shot,,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.85,2,11,9,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:2),30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.97,2,11,2,CHI,CHI,fg_miss,6,True,False,,MISS White 2' Driving Layup,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,12.97,2,11,2,CHI,MIA,block,6,True,False,block,block,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,13.02,2,10,59,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:0 Def:1),,30-21,30,21
+0022100922,2022-02-28,MIA,CHI,13.02,2,10,59,MIA,CHI,foul,2,False,False,,Jones Jr. S.FOUL (P3.T1) (D.Collins),30-21,30,21
+0022100922,2022-02-28,MIA,CHI,13.02,2,10,59,MIA,MIA,ft_make,11,False,False,Martin Free Throw 1 of 2 (1 PTS),,31-21,31,21
+0022100922,2022-02-28,MIA,CHI,13.02,2,10,59,MIA,MIA,ft_make,12,False,False,Martin Free Throw 2 of 2 (2 PTS),,32-21,32,21
+0022100922,2022-02-28,MIA,CHI,13.32,2,10,41,CHI,CHI,fg3_miss,1,False,False,,MISS Dosunmu 25' 3PT Jump Shot,32-21,32,21
+0022100922,2022-02-28,MIA,CHI,13.38,2,10,37,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:0 Def:1),,32-21,32,21
+0022100922,2022-02-28,MIA,CHI,13.48,2,10,31,MIA,MIA,fg_make,79,False,False,Herro 14' Pullup Jump Shot (6 PTS),,34-21,34,21
+0022100922,2022-02-28,MIA,CHI,13.8,2,10,12,CHI,CHI,fg_miss,79,False,False,,MISS White 18' Pullup Jump Shot,34-21,34,21
+0022100922,2022-02-28,MIA,CHI,13.87,2,10,8,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:2),,34-21,34,21
+0022100922,2022-02-28,MIA,CHI,14.2,2,9,48,MIA,MIA,fg_make,52,False,False,Dedmon 2' Alley Oop Dunk (2 PTS) (Strus 1 AST),,36-21,36,21
+0022100922,2022-02-28,MIA,CHI,14.47,2,9,32,CHI,CHI,fg_make,6,False,False,,Dosunmu 2' Driving Layup (5 PTS) (White 3 AST),36-23,36,23
+0022100922,2022-02-28,MIA,CHI,14.7,2,9,18,MIA,MIA,fg3_make,1,False,False,Vincent 30' 3PT Jump Shot (8 PTS) (Dedmon 2 AST),,39-23,39,23
+0022100922,2022-02-28,MIA,CHI,15.02,2,8,59,CHI,MIA,foul,1,False,False,Vincent P.FOUL (P1.T1) (D.Collins),,39-23,39,23
+0022100922,2022-02-28,MIA,CHI,15.18,2,8,49,CHI,MIA,foul,2,False,False,Adebayo S.FOUL (P1.T2) (B.Kennedy),,39-23,39,23
+0022100922,2022-02-28,MIA,CHI,15.18,2,8,49,CHI,CHI,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,39-23,39,23
+0022100922,2022-02-28,MIA,CHI,15.18,2,8,49,CHI,CHI,reb,1,False,False,,Bulls Rebound,39-23,39,23
+0022100922,2022-02-28,MIA,CHI,15.18,2,8,49,CHI,CHI,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (2 PTS),39-24,39,24
+0022100922,2022-02-28,MIA,CHI,15.37,2,8,38,MIA,MIA,fg3_miss,1,False,False,MISS Strus 26' 3PT Jump Shot,,39-24,39,24
+0022100922,2022-02-28,MIA,CHI,15.42,2,8,35,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:2),39-24,39,24
+0022100922,2022-02-28,MIA,CHI,15.55,2,8,27,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 17' Pullup Jump Shot,39-24,39,24
+0022100922,2022-02-28,MIA,CHI,15.6,2,8,24,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:0 Def:1),,39-24,39,24
+0022100922,2022-02-28,MIA,CHI,15.68,2,8,19,MIA,MIA,fg3_make,103,False,False,Herro 27' 3PT Running Pull-Up Jump Shot (9 PTS),,42-24,42,24
+0022100922,2022-02-28,MIA,CHI,15.98,2,8,1,CHI,CHI,fg_miss,78,False,False,,MISS Thompson 8' Floating Jump Shot,42-24,42,24
+0022100922,2022-02-28,MIA,CHI,15.98,2,8,1,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:2 Def:0),42-24,42,24
+0022100922,2022-02-28,MIA,CHI,16.1,2,7,54,CHI,CHI,fg_make,107,False,False,,Green Tip Dunk Shot (4 PTS),42-26,42,26
+0022100922,2022-02-28,MIA,CHI,16.23,2,7,46,MIA,MIA,fg_make,86,False,False,Vincent 15' Turnaround Fadeaway (10 PTS),,44-26,44,26
+0022100922,2022-02-28,MIA,CHI,16.47,2,7,32,CHI,CHI,fg_make,79,False,False,,DeRozan 12' Pullup Jump Shot (8 PTS),44-28,44,28
+0022100922,2022-02-28,MIA,CHI,16.63,2,7,22,MIA,MIA,fg3_miss,79,False,False,MISS Vincent 26' 3PT Pullup Jump Shot,,44-28,44,28
+0022100922,2022-02-28,MIA,CHI,16.68,2,7,19,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:1 Def:1),,44-28,44,28
+0022100922,2022-02-28,MIA,CHI,16.73,2,7,16,MIA,MIA,fg3_make,1,False,False,Vincent 27' 3PT Jump Shot (13 PTS) (Martin 1 AST),,47-28,47,28
+0022100922,2022-02-28,MIA,CHI,17.08,2,6,55,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 26' 3PT Jump Shot,47-28,47,28
+0022100922,2022-02-28,MIA,CHI,17.18,2,6,49,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:1 Def:0),47-28,47,28
+0022100922,2022-02-28,MIA,CHI,17.43,2,6,34,CHI,CHI,fg_make,101,False,False,,Dosunmu 6' Driving Floating Jump Shot (7 PTS),47-30,47,30
+0022100922,2022-02-28,MIA,CHI,17.62,2,6,23,CHI,MIA,foul,4,False,False,Strus OFF.Foul (P2) (D.Collins),,47-30,47,30
+0022100922,2022-02-28,MIA,CHI,17.62,2,6,23,MIA,MIA,tov,37,False,False,Strus Offensive Foul Turnover (P1.T3),,47-30,47,30
+0022100922,2022-02-28,MIA,CHI,17.62,2,6,23,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,47-30,47,30
+0022100922,2022-02-28,MIA,CHI,17.97,2,6,2,CHI,CHI,fg_make,6,False,False,,LaVine 4' Driving Layup (5 PTS),47-32,47,32
+0022100922,2022-02-28,MIA,CHI,18.33,2,5,40,MIA,MIA,tov,1,False,True,Robinson Bad Pass Turnover (P1.T4),,47-32,47,32
+0022100922,2022-02-28,MIA,CHI,18.33,2,5,40,MIA,CHI,steal,1,False,True,steal,steal,47-32,47,32
+0022100922,2022-02-28,MIA,CHI,18.43,2,5,34,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 3PT Jump Shot,47-32,47,32
+0022100922,2022-02-28,MIA,CHI,18.53,2,5,28,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:1),47-32,47,32
+0022100922,2022-02-28,MIA,CHI,18.53,2,5,28,CHI,CHI,fg_make,107,False,False,,Vucevic Tip Dunk Shot (6 PTS),47-34,47,34
+0022100922,2022-02-28,MIA,CHI,18.73,2,5,16,MIA,MIA,fg3_miss,79,False,False,MISS Herro 27' 3PT Pullup Jump Shot,,47-34,47,34
+0022100922,2022-02-28,MIA,CHI,18.78,2,5,13,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:2),47-34,47,34
+0022100922,2022-02-28,MIA,CHI,18.97,2,5,2,CHI,CHI,fg_make,58,False,False,,Vucevic 8' Turnaround Hook Shot (8 PTS) (LaVine 3 AST),47-36,47,36
+0022100922,2022-02-28,MIA,CHI,19.25,2,4,45,MIA,MIA,fg_make,75,False,False,Adebayo 6' Driving Finger Roll Layup (8 PTS) (Butler 2 AST),,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,19.67,2,4,20,CHI,CHI,fg_miss,43,True,False,,MISS Vucevic 3' Alley Oop Layup,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,19.67,2,4,20,CHI,MIA,block,43,True,False,block,block,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,19.67,2,4,20,CHI,CHI,reb,0,False,False,,Bulls Rebound,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,19.73,2,4,16,CHI,CHI,fg_miss,63,True,False,,MISS Vucevic 10' Fadeaway Jumper,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,19.73,2,4,16,CHI,MIA,block,63,True,False,block,block,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,19.82,2,4,11,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:0 Def:2),,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,20.02,2,3,59,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 19' Jump Shot,,49-36,49,36
+0022100922,2022-02-28,MIA,CHI,20.1,2,3,54,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:3),49-36,49,36
+0022100922,2022-02-28,MIA,CHI,20.25,2,3,45,CHI,CHI,fg_make,47,False,False,,DeRozan 13' Turnaround Jump Shot (10 PTS),49-38,49,38
+0022100922,2022-02-28,MIA,CHI,20.25,2,3,45,CHI,MIA,foul,2,False,False,Vincent S.FOUL (P2.T3) (L.Holtkamp),,49-38,49,38
+0022100922,2022-02-28,MIA,CHI,20.25,2,3,45,CHI,CHI,ft_make,10,False,False,,DeRozan Free Throw 1 of 1 (11 PTS),49-39,49,39
+0022100922,2022-02-28,MIA,CHI,20.4,2,3,36,MIA,MIA,fg_miss,5,True,False,MISS Butler 3' Layup,,49-39,49,39
+0022100922,2022-02-28,MIA,CHI,20.4,2,3,36,MIA,CHI,block,5,True,False,block,block,49-39,49,39
+0022100922,2022-02-28,MIA,CHI,20.43,2,3,34,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:3),49-39,49,39
+0022100922,2022-02-28,MIA,CHI,20.45,2,3,33,CHI,MIA,foul,2,False,False,Adebayo S.FOUL (P2.T4) (D.Collins),,49-39,49,39
+0022100922,2022-02-28,MIA,CHI,20.45,2,3,33,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (6 PTS),49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.45,2,3,33,CHI,CHI,ft_miss,12,False,False,,MISS LaVine Free Throw 2 of 2,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.48,2,3,31,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:1),,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.63,2,3,22,MIA,CHI,foul,1,False,False,,LaVine P.FOUL (P2.T2) (L.Holtkamp),49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.7,2,3,18,MIA,MIA,fg_miss,47,True,False,MISS Herro 3' Turnaround Jump Shot,,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.7,2,3,18,MIA,CHI,block,47,True,False,block,block,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.75,2,3,15,,MIA,jump_ball,0,False,False,Jump Ball Herro vs. DeRozan: Tip to Adebayo,,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.75,2,3,15,MIA,MIA,reb,0,False,False,HEAT Rebound,,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.88,2,3,7,MIA,MIA,fg_miss,86,False,False,MISS Butler 17' Turnaround Fadeaway Shot,,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.88,2,3,7,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:1),,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.98,2,3,1,MIA,MIA,tov,1,False,True,Adebayo Bad Pass Turnover (P2.T5),,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.98,2,3,1,MIA,CHI,steal,1,False,True,steal,steal,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.98,2,3,1,CHI,MIA,foul,28,False,False,Herro Personal Take Foul (P1.PN) (B.Kennedy),,49-40,49,40
+0022100922,2022-02-28,MIA,CHI,20.98,2,3,1,CHI,CHI,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (12 PTS),49-41,49,41
+0022100922,2022-02-28,MIA,CHI,20.98,2,3,1,CHI,CHI,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (13 PTS),49-42,49,42
+0022100922,2022-02-28,MIA,CHI,21.25,2,2,45,MIA,MIA,fg_miss,6,False,False,MISS Butler 3' Driving Layup,,49-42,49,42
+0022100922,2022-02-28,MIA,CHI,21.28,2,2,43,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:4),49-42,49,42
+0022100922,2022-02-28,MIA,CHI,21.3,2,2,42,CHI,CHI,tov,45,False,False,,Dosunmu Out of Bounds - Bad Pass Turnover Turnover (P2.T9),49-42,49,42
+0022100922,2022-02-28,MIA,CHI,21.3,2,2,42,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.2 Short 0),49-42,49,42
+0022100922,2022-02-28,MIA,CHI,21.67,2,2,20,MIA,CHI,foul,2,False,False,,LaVine S.FOUL (P3.T3) (L.Holtkamp),49-42,49,42
+0022100922,2022-02-28,MIA,CHI,21.67,2,2,20,MIA,MIA,ft_make,11,False,False,Vincent Free Throw 1 of 2 (14 PTS),,50-42,50,42
+0022100922,2022-02-28,MIA,CHI,21.67,2,2,20,MIA,MIA,ft_miss,12,False,False,MISS Vincent Free Throw 2 of 2,,50-42,50,42
+0022100922,2022-02-28,MIA,CHI,21.72,2,2,17,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:3),50-42,50,42
+0022100922,2022-02-28,MIA,CHI,21.95,2,2,3,CHI,MIA,violation,5,False,False,Tucker Violation:Kicked Ball (B.Kennedy),,50-42,50,42
+0022100922,2022-02-28,MIA,CHI,22.02,2,1,59,CHI,CHI,fg_make,73,False,False,,LaVine 2' Driving Reverse Layup (8 PTS) (Vucevic 1 AST),50-44,50,44
+0022100922,2022-02-28,MIA,CHI,22.28,2,1,43,MIA,MIA,fg_make,101,False,False,Herro 11' Driving Floating Jump Shot (11 PTS) (Adebayo 2 AST),,52-44,52,44
+0022100922,2022-02-28,MIA,CHI,22.57,2,1,26,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 25' 3PT Jump Shot,52-44,52,44
+0022100922,2022-02-28,MIA,CHI,22.62,2,1,23,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:3),,52-44,52,44
+0022100922,2022-02-28,MIA,CHI,22.82,2,1,11,MIA,MIA,tov,1,False,True,Butler Bad Pass Turnover (P2.T6),,52-44,52,44
+0022100922,2022-02-28,MIA,CHI,22.82,2,1,11,MIA,CHI,steal,1,False,True,steal,steal,52-44,52,44
+0022100922,2022-02-28,MIA,CHI,23.03,2,0,58,CHI,CHI,fg_make,86,False,False,,LaVine 18' Turnaround Fadeaway (10 PTS) (Dosunmu 1 AST),52-46,52,46
+0022100922,2022-02-28,MIA,CHI,23.25,2,0,45,MIA,MIA,fg3_make,1,False,False,Martin 3PT Jump Shot (5 PTS) (Herro 1 AST),,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,23.47,2,0,32,CHI,CHI,fg_miss,80,False,False,,MISS LaVine 22' Step Back Jump Shot,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,23.52,2,0,29,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:1 Def:2),,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,23.53,2,0,28,MIA,MIA,fg3_miss,103,False,False,MISS Herro 26' 3PT Running Pull-Up Jump Shot,,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,23.53,2,0,28,MIA,MIA,reb,0,False,False,Martin REBOUND (Off:2 Def:2),,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,23.63,2,0,22,MIA,MIA,fg_miss,1,False,False,MISS Dedmon 20' Jump Shot,,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,23.63,2,0,22,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:4),55-46,55,46
+0022100922,2022-02-28,MIA,CHI,23.97,2,0,2,CHI,CHI,fg3_miss,1,False,False,,MISS Dosunmu 25' 3PT Jump Shot,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,24.0,2,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,24.0,3,12,0,CHI,,period_start,0,False,False,,,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,24.35,3,11,39,MIA,MIA,fg_miss,75,False,False,MISS Vincent 3' Driving Finger Roll Layup,,55-46,55,46
+0022100922,2022-02-28,MIA,CHI,24.38,3,11,37,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:4),55-46,55,46
+0022100922,2022-02-28,MIA,CHI,24.42,3,11,35,CHI,CHI,fg_make,41,False,False,,Dosunmu 2' Running Layup (9 PTS) (DeRozan 1 AST),55-48,55,48
+0022100922,2022-02-28,MIA,CHI,24.72,3,11,17,MIA,MIA,fg3_miss,79,False,False,MISS Robinson 27' 3PT Pullup Jump Shot,,55-48,55,48
+0022100922,2022-02-28,MIA,CHI,24.78,3,11,13,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:2 Def:1),,55-48,55,48
+0022100922,2022-02-28,MIA,CHI,24.92,3,11,5,MIA,MIA,fg_miss,86,False,False,MISS Vincent 20' Turnaround Fadeaway Shot,,55-48,55,48
+0022100922,2022-02-28,MIA,CHI,24.98,3,11,1,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:5),55-48,55,48
+0022100922,2022-02-28,MIA,CHI,25.12,3,10,53,CHI,CHI,fg_miss,58,False,False,,MISS Vucevic 10' Turnaround Hook Shot,55-48,55,48
+0022100922,2022-02-28,MIA,CHI,25.13,3,10,52,CHI,CHI,reb,0,False,False,,Bulls Rebound,55-48,55,48
+0022100922,2022-02-28,MIA,CHI,25.25,3,10,45,CHI,CHI,fg3_miss,79,False,False,,MISS LaVine 27' 3PT Pullup Jump Shot,55-48,55,48
+0022100922,2022-02-28,MIA,CHI,25.32,3,10,41,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:4),,55-48,55,48
+0022100922,2022-02-28,MIA,CHI,25.42,3,10,35,MIA,MIA,fg_make,86,False,False,Adebayo 11' Turnaround Fadeaway (10 PTS) (Tucker 2 AST),,57-48,57,48
+0022100922,2022-02-28,MIA,CHI,25.67,3,10,20,CHI,MIA,violation,5,False,False,Adebayo Violation:Kicked Ball (D.Collins),,57-48,57,48
+0022100922,2022-02-28,MIA,CHI,25.73,3,10,16,CHI,CHI,fg_miss,105,False,False,,MISS DeRozan 6' Turnaround Fadeaway Bank Jump Shot,57-48,57,48
+0022100922,2022-02-28,MIA,CHI,25.78,3,10,13,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:2),,57-48,57,48
+0022100922,2022-02-28,MIA,CHI,25.85,3,10,9,MIA,MIA,fg3_miss,80,False,False,MISS Vincent 25' 3PT Step Back Jump Shot,,57-48,57,48
+0022100922,2022-02-28,MIA,CHI,25.92,3,10,5,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:6),57-48,57,48
+0022100922,2022-02-28,MIA,CHI,25.98,3,10,1,CHI,CHI,fg_miss,79,False,False,,MISS Dosunmu 14' Pullup Jump Shot,57-48,57,48
+0022100922,2022-02-28,MIA,CHI,25.98,3,10,1,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:3),,57-48,57,48
+0022100922,2022-02-28,MIA,CHI,26.05,3,9,57,MIA,CHI,foul,1,False,False,,Dosunmu P.FOUL (P2.T1) (L.Holtkamp),57-48,57,48
+0022100922,2022-02-28,MIA,CHI,26.33,3,9,40,MIA,MIA,fg_make,6,False,False,Vincent 2' Driving Layup (16 PTS),,59-48,59,48
+0022100922,2022-02-28,MIA,CHI,26.33,3,9,40,MIA,CHI,foul,2,False,False,,DeRozan S.FOUL (P2.T2) (B.Kennedy),59-48,59,48
+0022100922,2022-02-28,MIA,CHI,26.33,3,9,40,MIA,MIA,ft_make,10,False,False,Vincent Free Throw 1 of 1 (17 PTS),,60-48,60,48
+0022100922,2022-02-28,MIA,CHI,26.55,3,9,27,CHI,CHI,tov,2,False,True,,DeRozan Lost Ball Turnover (P3.T10),60-48,60,48
+0022100922,2022-02-28,MIA,CHI,26.55,3,9,27,CHI,MIA,steal,2,False,True,steal,steal,60-48,60,48
+0022100922,2022-02-28,MIA,CHI,26.65,3,9,21,MIA,MIA,fg3_make,1,False,False,Vincent 3PT Jump Shot (20 PTS) (Adebayo 3 AST),,63-48,63,48
+0022100922,2022-02-28,MIA,CHI,26.67,3,9,20,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.3 Short 0),63-48,63,48
+0022100922,2022-02-28,MIA,CHI,26.95,3,9,3,CHI,CHI,fg_miss,1,False,False,,MISS Dosunmu 5' Jump Shot,63-48,63,48
+0022100922,2022-02-28,MIA,CHI,26.98,3,9,1,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:5),,63-48,63,48
+0022100922,2022-02-28,MIA,CHI,27.1,3,8,54,MIA,MIA,fg3_miss,79,False,False,MISS Vincent 3PT Pullup Jump Shot,,63-48,63,48
+0022100922,2022-02-28,MIA,CHI,27.15,3,8,51,CHI,CHI,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:7),63-48,63,48
+0022100922,2022-02-28,MIA,CHI,27.23,3,8,46,CHI,CHI,fg3_miss,79,False,False,,MISS Vucevic 27' 3PT Pullup Jump Shot,63-48,63,48
+0022100922,2022-02-28,MIA,CHI,27.3,3,8,42,MIA,MIA,reb,0,False,False,Tucker REBOUND (Off:1 Def:3),,63-48,63,48
+0022100922,2022-02-28,MIA,CHI,27.5,3,8,30,MIA,MIA,fg_make,86,False,False,Butler 16' Turnaround Fadeaway (10 PTS),,65-48,65,48
+0022100922,2022-02-28,MIA,CHI,27.83,3,8,10,CHI,CHI,fg3_make,1,False,False,,Dosunmu 3PT Jump Shot (12 PTS) (Vucevic 2 AST),65-51,65,51
+0022100922,2022-02-28,MIA,CHI,28.18,3,7,49,MIA,MIA,fg_miss,6,False,False,MISS Butler 7' Driving Layup,,65-51,65,51
+0022100922,2022-02-28,MIA,CHI,28.22,3,7,47,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:5),65-51,65,51
+0022100922,2022-02-28,MIA,CHI,28.27,3,7,44,MIA,CHI,foul,26,False,False,,LaVine Offensive Charge Foul (P4) (D.Collins),65-51,65,51
+0022100922,2022-02-28,MIA,CHI,28.27,3,7,44,CHI,CHI,tov,37,False,False,,LaVine Offensive Foul Turnover (P3.T11),65-51,65,51
+0022100922,2022-02-28,MIA,CHI,28.27,3,7,44,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.4 Short 0),65-51,65,51
+0022100922,2022-02-28,MIA,CHI,28.43,3,7,34,MIA,MIA,fg_make,43,False,False,Butler 2' Alley Oop Layup (12 PTS) (Adebayo 4 AST),,67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.43,3,7,34,MIA,CHI,foul,2,False,False,,Dosunmu S.FOUL (P3.T3) (L.Holtkamp),67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.43,3,7,34,MIA,MIA,ft_miss,10,False,False,MISS Butler Free Throw 1 of 1,,67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.47,3,7,32,CHI,CHI,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:6),67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.58,3,7,25,CHI,CHI,fg_miss,86,False,False,,MISS LaVine 9' Turnaround Fadeaway Shot,67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.67,3,7,20,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:4),,67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.75,3,7,15,MIA,MIA,fg_miss,6,True,False,MISS Butler 2' Driving Layup,,67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.75,3,7,15,MIA,CHI,block,6,True,False,block,block,67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.83,3,7,10,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:5),,67-51,67,51
+0022100922,2022-02-28,MIA,CHI,28.87,3,7,8,MIA,MIA,fg_make,108,False,False,Adebayo 3' Cutting Dunk Shot (12 PTS) (Butler 3 AST),,69-51,69,51
+0022100922,2022-02-28,MIA,CHI,29.03,3,6,58,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 22' Pullup Jump Shot,69-51,69,51
+0022100922,2022-02-28,MIA,CHI,29.12,3,6,53,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:5),,69-51,69,51
+0022100922,2022-02-28,MIA,CHI,29.3,3,6,42,MIA,MIA,fg_miss,1,False,False,MISS Butler 16' Jump Shot,,69-51,69,51
+0022100922,2022-02-28,MIA,CHI,29.37,3,6,38,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:2 Def:1),69-51,69,51
+0022100922,2022-02-28,MIA,CHI,29.57,3,6,26,CHI,CHI,fg_make,58,False,False,,Vucevic 6' Turnaround Hook Shot (10 PTS),69-53,69,53
+0022100922,2022-02-28,MIA,CHI,29.77,3,6,14,MIA,CHI,foul,1,False,False,,Green P.FOUL (P1.T4) (L.Holtkamp),69-53,69,53
+0022100922,2022-02-28,MIA,CHI,29.88,3,6,7,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (6 PTS) (Adebayo 5 AST),,72-53,72,53
+0022100922,2022-02-28,MIA,CHI,29.9,3,6,6,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.5 Short 0),72-53,72,53
+0022100922,2022-02-28,MIA,CHI,30.2,3,5,48,CHI,CHI,tov,45,False,False,,Vucevic Out of Bounds - Bad Pass Turnover Turnover (P2.T12),72-53,72,53
+0022100922,2022-02-28,MIA,CHI,30.47,3,5,32,MIA,MIA,fg3_miss,1,False,False,MISS Butler 3PT Jump Shot,,72-53,72,53
+0022100922,2022-02-28,MIA,CHI,30.52,3,5,29,CHI,CHI,reb,0,False,False,,White REBOUND (Off:0 Def:4),72-53,72,53
+0022100922,2022-02-28,MIA,CHI,30.73,3,5,16,CHI,CHI,fg_make,98,False,False,,LaVine 2' Cutting Layup Shot (12 PTS) (Dosunmu 2 AST),72-55,72,55
+0022100922,2022-02-28,MIA,CHI,30.87,3,5,8,MIA,MIA,fg3_make,1,False,False,Robinson 3PT Jump Shot (9 PTS) (Tucker 3 AST),,75-55,75,55
+0022100922,2022-02-28,MIA,CHI,31.1,3,4,54,CHI,MIA,foul,1,False,False,Butler P.FOUL (P1.T1) (L.Holtkamp),,75-55,75,55
+0022100922,2022-02-28,MIA,CHI,31.15,3,4,51,CHI,MIA,foul,2,False,False,Adebayo S.FOUL (P3.T2) (D.Collins),,75-55,75,55
+0022100922,2022-02-28,MIA,CHI,31.15,3,4,51,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (13 PTS),75-56,75,56
+0022100922,2022-02-28,MIA,CHI,31.15,3,4,51,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (14 PTS),75-57,75,57
+0022100922,2022-02-28,MIA,CHI,31.52,3,4,29,MIA,CHI,foul,2,False,False,,Jones Jr. S.FOUL (P4.PN) (B.Kennedy),75-57,75,57
+0022100922,2022-02-28,MIA,CHI,31.52,3,4,29,MIA,MIA,ft_make,13,False,False,Butler Free Throw 1 of 3 (13 PTS),,76-57,76,57
+0022100922,2022-02-28,MIA,CHI,31.52,3,4,29,MIA,MIA,ft_make,14,False,False,Butler Free Throw 2 of 3 (14 PTS),,77-57,77,57
+0022100922,2022-02-28,MIA,CHI,31.52,3,4,29,MIA,MIA,ft_make,15,False,False,Butler Free Throw 3 of 3 (15 PTS),,78-57,78,57
+0022100922,2022-02-28,MIA,CHI,31.8,3,4,12,CHI,CHI,fg3_miss,1,False,False,,MISS White 26' 3PT Jump Shot,78-57,78,57
+0022100922,2022-02-28,MIA,CHI,31.85,3,4,9,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:1 Def:2),78-57,78,57
+0022100922,2022-02-28,MIA,CHI,31.92,3,4,5,CHI,CHI,fg_make,7,False,False,,Vucevic 2' Dunk (12 PTS) (Dosunmu 3 AST),78-59,78,59
+0022100922,2022-02-28,MIA,CHI,32.12,3,3,53,MIA,MIA,fg_make,79,False,False,Herro 14' Pullup Jump Shot (13 PTS),,80-59,80,59
+0022100922,2022-02-28,MIA,CHI,32.4,3,3,36,CHI,CHI,fg3_miss,1,False,False,,MISS Dosunmu 27' 3PT Jump Shot,80-59,80,59
+0022100922,2022-02-28,MIA,CHI,32.45,3,3,33,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:4),,80-59,80,59
+0022100922,2022-02-28,MIA,CHI,32.48,3,3,31,MIA,MIA,fg_make,7,False,False,Adebayo 2' Dunk (14 PTS) (Herro 2 AST),,82-59,82,59
+0022100922,2022-02-28,MIA,CHI,32.92,3,3,5,CHI,CHI,fg_make,5,False,False,,Vucevic 2' Layup (14 PTS) (White 4 AST),82-61,82,61
+0022100922,2022-02-28,MIA,CHI,33.27,3,2,44,MIA,CHI,foul,2,False,False,,Vucevic S.FOUL (P2.PN) (D.Collins),82-61,82,61
+0022100922,2022-02-28,MIA,CHI,33.27,3,2,44,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (15 PTS),,83-61,83,61
+0022100922,2022-02-28,MIA,CHI,33.27,3,2,44,MIA,MIA,ft_miss,12,False,False,MISS Adebayo Free Throw 2 of 2,,83-61,83,61
+0022100922,2022-02-28,MIA,CHI,33.32,3,2,41,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:0 Def:3),83-61,83,61
+0022100922,2022-02-28,MIA,CHI,33.52,3,2,29,CHI,MIA,foul,2,False,False,Adebayo S.FOUL (P4.T3) (B.Kennedy),,83-61,83,61
+0022100922,2022-02-28,MIA,CHI,33.52,3,2,29,CHI,CHI,ft_miss,11,False,False,,MISS DeRozan Free Throw 1 of 2,83-61,83,61
+0022100922,2022-02-28,MIA,CHI,33.52,3,2,29,CHI,CHI,reb,1,False,False,,Bulls Rebound,83-61,83,61
+0022100922,2022-02-28,MIA,CHI,33.52,3,2,29,CHI,CHI,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (14 PTS),83-62,83,62
+0022100922,2022-02-28,MIA,CHI,33.73,3,2,16,MIA,MIA,fg_make,7,False,False,Dedmon 1' Dunk (4 PTS) (Herro 3 AST),,85-62,85,62
+0022100922,2022-02-28,MIA,CHI,34.0,3,2,0,CHI,CHI,fg_make,101,False,False,,Brown Jr. 8' Driving Floating Jump Shot (2 PTS) (White 5 AST),85-64,85,64
+0022100922,2022-02-28,MIA,CHI,34.23,3,1,46,MIA,MIA,tov,1,False,True,Dedmon Bad Pass Turnover (P1.T7),,85-64,85,64
+0022100922,2022-02-28,MIA,CHI,34.23,3,1,46,MIA,CHI,steal,1,False,True,steal,steal,85-64,85,64
+0022100922,2022-02-28,MIA,CHI,34.55,3,1,27,CHI,CHI,fg3_make,1,False,False,,White 27' 3PT Jump Shot (3 PTS) (DeRozan 2 AST),85-67,85,67
+0022100922,2022-02-28,MIA,CHI,34.9,3,1,6,MIA,MIA,fg_make,6,False,False,Herro 2' Driving Layup (15 PTS),,87-67,87,67
+0022100922,2022-02-28,MIA,CHI,35.25,3,0,45,CHI,CHI,fg3_miss,1,False,False,,MISS Brown Jr. 25' 3PT Jump Shot,87-67,87,67
+0022100922,2022-02-28,MIA,CHI,35.28,3,0,43,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:0 Def:2),,87-67,87,67
+0022100922,2022-02-28,MIA,CHI,35.4,3,0,36,MIA,MIA,fg_make,98,False,False,Martin 2' Cutting Layup Shot (7 PTS) (Butler 4 AST),,89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.48,3,0,31,CHI,MIA,foul,1,False,False,Martin P.FOUL (P1.T4) (B.Kennedy),,89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.55,3,0,27,CHI,CHI,fg_miss,44,True,False,,MISS DeRozan 4' Reverse Layup,89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.55,3,0,27,CHI,MIA,block,44,True,False,block,block,89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.57,3,0,26,CHI,CHI,reb,0,False,False,,Bulls Rebound,89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.62,3,0,23,CHI,CHI,fg_miss,102,False,False,,MISS White 13' Driving Floating Bank Jump Shot,89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.67,3,0,20,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:0 Def:3),,89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.93,3,0,4,MIA,CHI,foul,2,False,False,,White S.FOUL (P1.PN) (B.Kennedy),89-67,89,67
+0022100922,2022-02-28,MIA,CHI,35.93,3,0,4,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (16 PTS),,90-67,90,67
+0022100922,2022-02-28,MIA,CHI,35.93,3,0,4,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (17 PTS),,91-67,91,67
+0022100922,2022-02-28,MIA,CHI,35.98,3,0,1,CHI,CHI,fg3_miss,103,False,False,,MISS White 34' 3PT Running Pull-Up Jump Shot,91-67,91,67
+0022100922,2022-02-28,MIA,CHI,36.0,3,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,91-67,91,67
+0022100922,2022-02-28,MIA,CHI,36.0,3,0,0,CHI,,period_end,0,False,False,,,91-67,91,67
+0022100922,2022-02-28,MIA,CHI,36.0,4,12,0,CHI,,period_start,0,False,False,,,91-67,91,67
+0022100922,2022-02-28,MIA,CHI,36.32,4,11,41,CHI,CHI,fg3_make,80,False,False,,LaVine 26' 3PT Step Back Jump Shot (17 PTS) (White 6 AST),91-70,91,70
+0022100922,2022-02-28,MIA,CHI,36.65,4,11,21,MIA,MIA,fg_make,80,False,False,Strus 18' Step Back Jump Shot (2 PTS),,93-70,93,70
+0022100922,2022-02-28,MIA,CHI,36.9,4,11,6,CHI,CHI,fg3_make,1,False,False,,LaVine 26' 3PT Jump Shot (20 PTS) (DeRozan 3 AST),93-73,93,73
+0022100922,2022-02-28,MIA,CHI,37.2,4,10,48,MIA,MIA,fg3_make,1,False,False,Strus 3PT Jump Shot (5 PTS) (Vincent 2 AST),,96-73,96,73
+0022100922,2022-02-28,MIA,CHI,37.57,4,10,26,CHI,CHI,fg_make,86,False,False,,DeRozan 18' Turnaround Fadeaway (16 PTS),96-75,96,75
+0022100922,2022-02-28,MIA,CHI,37.62,4,10,23,CHI,,foul,16,False,False,,,96-75,96,75
+0022100922,2022-02-28,MIA,CHI,37.98,4,10,1,MIA,MIA,tov,15,False,False,Martin Offensive Goaltending Turnover (P1.T8),,96-75,96,75
+0022100922,2022-02-28,MIA,CHI,38.22,4,9,47,CHI,CHI,fg3_make,1,False,False,,White 3PT Jump Shot (6 PTS) (LaVine 4 AST),96-78,96,78
+0022100922,2022-02-28,MIA,CHI,38.25,4,9,45,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 3 Short 0),,96-78,96,78
+0022100922,2022-02-28,MIA,CHI,38.53,4,9,28,MIA,MIA,fg3_make,1,False,False,Strus 3PT Jump Shot (8 PTS) (Vincent 3 AST),,99-78,99,78
+0022100922,2022-02-28,MIA,CHI,38.88,4,9,7,MIA,CHI,foul,4,False,False,,Thompson OFF.Foul (P2) (B.Kennedy),99-78,99,78
+0022100922,2022-02-28,MIA,CHI,38.88,4,9,7,CHI,CHI,tov,37,False,False,,Thompson Offensive Foul Turnover (P1.T13),99-78,99,78
+0022100922,2022-02-28,MIA,CHI,39.12,4,8,53,MIA,MIA,fg_miss,1,False,False,MISS Herro 12' Jump Shot,,99-78,99,78
+0022100922,2022-02-28,MIA,CHI,39.17,4,8,50,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:1 Def:3),99-78,99,78
+0022100922,2022-02-28,MIA,CHI,39.27,4,8,44,CHI,CHI,fg_make,80,False,False,,LaVine 21' Step Back Jump Shot (22 PTS),99-80,99,80
+0022100922,2022-02-28,MIA,CHI,39.52,4,8,29,MIA,MIA,fg_make,6,False,False,Herro 3' Driving Layup (19 PTS),,101-80,101,80
+0022100922,2022-02-28,MIA,CHI,39.52,4,8,29,MIA,CHI,foul,2,False,False,,Green S.FOUL (P2.T1) (L.Holtkamp),101-80,101,80
+0022100922,2022-02-28,MIA,CHI,39.52,4,8,29,MIA,MIA,ft_make,10,False,False,Herro Free Throw 1 of 1 (20 PTS),,102-80,102,80
+0022100922,2022-02-28,MIA,CHI,39.73,4,8,16,CHI,CHI,fg3_miss,1,False,False,,MISS White 27' 3PT Jump Shot,102-80,102,80
+0022100922,2022-02-28,MIA,CHI,39.75,4,8,15,MIA,MIA,reb,0,False,False,HEAT Rebound,,102-80,102,80
+0022100922,2022-02-28,MIA,CHI,39.75,4,8,15,MIA,CHI,foul,3,False,False,,Thompson L.B.FOUL (P3.T2) (L.Holtkamp),102-80,102,80
+0022100922,2022-02-28,MIA,CHI,39.98,4,8,1,MIA,MIA,fg3_miss,1,False,False,MISS Strus 25' 3PT Jump Shot,,102-80,102,80
+0022100922,2022-02-28,MIA,CHI,40.02,4,7,59,CHI,CHI,reb,0,False,False,,Bulls Rebound,102-80,102,80
+0022100922,2022-02-28,MIA,CHI,40.02,4,7,59,CHI,MIA,foul,3,False,False,Dedmon L.B.FOUL (P2.T1) (B.Kennedy),,102-80,102,80
+0022100922,2022-02-28,MIA,CHI,40.33,4,7,40,CHI,CHI,fg_make,6,False,False,,DeRozan 2' Driving Layup (18 PTS),102-82,102,82
+0022100922,2022-02-28,MIA,CHI,40.5,4,7,30,CHI,MIA,foul,4,False,False,Martin OFF.Foul (P2) (B.Kennedy),,102-82,102,82
+0022100922,2022-02-28,MIA,CHI,40.5,4,7,30,MIA,MIA,tov,37,False,False,Martin Offensive Foul Turnover (P2.T9),,102-82,102,82
+0022100922,2022-02-28,MIA,CHI,40.73,4,7,16,CHI,CHI,fg_miss,79,False,False,,MISS DeRozan 10' Pullup Jump Shot,102-82,102,82
+0022100922,2022-02-28,MIA,CHI,40.78,4,7,13,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:6),,102-82,102,82
+0022100922,2022-02-28,MIA,CHI,41.08,4,6,55,MIA,MIA,tov,1,False,True,Herro Bad Pass Turnover (P1.T10),,102-82,102,82
+0022100922,2022-02-28,MIA,CHI,41.08,4,6,55,MIA,CHI,steal,1,False,True,steal,steal,102-82,102,82
+0022100922,2022-02-28,MIA,CHI,41.23,4,6,46,CHI,CHI,fg_make,78,False,False,,Dosunmu 7' Floating Jump Shot (14 PTS),102-84,102,84
+0022100922,2022-02-28,MIA,CHI,41.53,4,6,28,MIA,MIA,fg_make,108,False,False,Martin 1' Cutting Dunk Shot (9 PTS) (Strus 2 AST),,104-84,104,84
+0022100922,2022-02-28,MIA,CHI,41.95,4,6,3,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 27' 3PT Jump Shot,104-84,104,84
+0022100922,2022-02-28,MIA,CHI,42.02,4,5,59,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:5),,104-84,104,84
+0022100922,2022-02-28,MIA,CHI,42.1,4,5,54,MIA,MIA,fg3_make,1,False,False,Strus 27' 3PT Jump Shot (11 PTS) (Herro 4 AST),,107-84,107,84
+0022100922,2022-02-28,MIA,CHI,42.13,4,5,52,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.6 Short 0),107-84,107,84
+0022100922,2022-02-28,MIA,CHI,42.53,4,5,28,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#14),107-84,107,84
+0022100922,2022-02-28,MIA,CHI,42.87,4,5,8,MIA,MIA,fg_miss,79,False,False,MISS Strus 16' Pullup Jump Shot,,107-84,107,84
+0022100922,2022-02-28,MIA,CHI,42.95,4,5,3,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),107-84,107,84
+0022100922,2022-02-28,MIA,CHI,43.07,4,4,56,CHI,CHI,fg_miss,6,False,False,,MISS White 3' Driving Layup,107-84,107,84
+0022100922,2022-02-28,MIA,CHI,43.12,4,4,53,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:6),,107-84,107,84
+0022100922,2022-02-28,MIA,CHI,43.15,4,4,51,MIA,MIA,tov,1,False,True,Herro Bad Pass Turnover (P2.T11),,107-84,107,84
+0022100922,2022-02-28,MIA,CHI,43.15,4,4,51,MIA,CHI,steal,1,False,True,steal,steal,107-84,107,84
+0022100922,2022-02-28,MIA,CHI,43.2,4,4,48,CHI,MIA,foul,1,False,False,Vincent P.FOUL (P3.T2) (B.Kennedy),,107-84,107,84
+0022100922,2022-02-28,MIA,CHI,43.32,4,4,41,CHI,CHI,fg_make,6,False,False,,Bradley 1' Driving Layup (2 PTS) (Dosunmu 4 AST),107-86,107,86
+0022100922,2022-02-28,MIA,CHI,43.63,4,4,22,MIA,MIA,tov,1,False,True,Strus Bad Pass Turnover (P2.T12),,107-86,107,86
+0022100922,2022-02-28,MIA,CHI,43.63,4,4,22,MIA,CHI,steal,1,False,True,steal,steal,107-86,107,86
+0022100922,2022-02-28,MIA,CHI,43.68,4,4,19,CHI,CHI,fg_miss,41,True,False,,MISS Dosunmu 3' Running Layup,107-86,107,86
+0022100922,2022-02-28,MIA,CHI,43.68,4,4,19,CHI,MIA,block,41,True,False,block,block,107-86,107,86
+0022100922,2022-02-28,MIA,CHI,43.7,4,4,18,CHI,CHI,reb,0,False,False,,Bulls Rebound,107-86,107,86
+0022100922,2022-02-28,MIA,CHI,43.8,4,4,12,CHI,CHI,fg3_miss,1,False,False,,MISS Brown Jr. 26' 3PT Jump Shot,107-86,107,86
+0022100922,2022-02-28,MIA,CHI,43.88,4,4,7,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:0 Def:1),,107-86,107,86
+0022100922,2022-02-28,MIA,CHI,44.05,4,3,57,MIA,MIA,fg_make,52,False,False,Yurtseven 1' Alley Oop Dunk (2 PTS) (Herro 5 AST),,109-86,109,86
+0022100922,2022-02-28,MIA,CHI,44.25,4,3,45,CHI,CHI,fg3_make,1,False,False,,White 27' 3PT Jump Shot (9 PTS) (Dosunmu 5 AST),109-89,109,89
+0022100922,2022-02-28,MIA,CHI,44.57,4,3,26,MIA,MIA,fg3_miss,1,False,False,MISS Martin 3PT Jump Shot,,109-89,109,89
+0022100922,2022-02-28,MIA,CHI,44.62,4,3,23,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:0 Def:2),109-89,109,89
+0022100922,2022-02-28,MIA,CHI,44.7,4,3,18,MIA,CHI,foul,4,False,False,,Bradley OFF.Foul (P1) (B.Kennedy),109-89,109,89
+0022100922,2022-02-28,MIA,CHI,44.7,4,3,18,CHI,CHI,tov,37,False,False,,Bradley Offensive Foul Turnover (P1.T15),109-89,109,89
+0022100922,2022-02-28,MIA,CHI,44.9,4,3,6,MIA,MIA,fg_make,98,False,False,Strus 3' Cutting Layup Shot (13 PTS) (Yurtseven 1 AST),,111-89,111,89
+0022100922,2022-02-28,MIA,CHI,45.07,4,2,56,CHI,CHI,fg_make,101,False,False,,Dosunmu 12' Driving Floating Jump Shot (16 PTS),111-91,111,91
+0022100922,2022-02-28,MIA,CHI,45.25,4,2,45,MIA,MIA,fg3_miss,79,False,False,MISS Strus 27' 3PT Pullup Jump Shot,,111-91,111,91
+0022100922,2022-02-28,MIA,CHI,45.32,4,2,41,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:1),111-91,111,91
+0022100922,2022-02-28,MIA,CHI,45.4,4,2,36,CHI,CHI,tov,1,False,True,,Dosunmu Bad Pass Turnover (P3.T16),111-91,111,91
+0022100922,2022-02-28,MIA,CHI,45.4,4,2,36,CHI,MIA,steal,1,False,True,steal,steal,111-91,111,91
+0022100922,2022-02-28,MIA,CHI,45.63,4,2,22,MIA,MIA,tov,1,False,True,Guy Bad Pass Turnover (P1.T13),,111-91,111,91
+0022100922,2022-02-28,MIA,CHI,45.63,4,2,22,MIA,CHI,steal,1,False,True,steal,steal,111-91,111,91
+0022100922,2022-02-28,MIA,CHI,45.8,4,2,12,CHI,CHI,fg_make,79,False,False,,Thomas 19' Pullup Jump Shot (2 PTS),111-93,111,93
+0022100922,2022-02-28,MIA,CHI,46.08,4,1,55,MIA,MIA,fg_miss,1,False,False,MISS Yurtseven 9' Jump Shot,,111-93,111,93
+0022100922,2022-02-28,MIA,CHI,46.15,4,1,51,CHI,CHI,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),111-93,111,93
+0022100922,2022-02-28,MIA,CHI,46.42,4,1,35,CHI,CHI,fg_make,79,False,False,,Thomas 17' Pullup Jump Shot (4 PTS) (Bradley 1 AST),111-95,111,95
+0022100922,2022-02-28,MIA,CHI,46.72,4,1,17,MIA,MIA,fg3_miss,1,False,False,MISS Guy 27' 3PT Jump Shot,,111-95,111,95
+0022100922,2022-02-28,MIA,CHI,46.77,4,1,14,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:1 Def:1),,111-95,111,95
+0022100922,2022-02-28,MIA,CHI,46.83,4,1,10,MIA,MIA,fg_miss,47,True,False,MISS Yurtseven 12' Turnaround Jump Shot,,111-95,111,95
+0022100922,2022-02-28,MIA,CHI,46.83,4,1,10,MIA,CHI,block,47,True,False,block,block,111-95,111,95
+0022100922,2022-02-28,MIA,CHI,46.9,4,1,6,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:0 Def:3),111-95,111,95
+0022100922,2022-02-28,MIA,CHI,46.97,4,1,2,CHI,CHI,fg_make,41,False,False,,Dosunmu 2' Running Layup (18 PTS) (Jones Jr. 1 AST),111-97,111,97
+0022100922,2022-02-28,MIA,CHI,47.05,4,0,57,MIA,CHI,foul,28,False,False,,Dosunmu Personal Take Foul (P4.T3) (L.Holtkamp),111-97,111,97
+0022100922,2022-02-28,MIA,CHI,47.22,4,0,47,CHI,MIA,foul,4,False,False,Yurtseven OFF.Foul (P1) (B.Kennedy),,111-97,111,97
+0022100922,2022-02-28,MIA,CHI,47.22,4,0,47,MIA,MIA,tov,37,False,False,Yurtseven Offensive Foul Turnover (P1.T14),,111-97,111,97
+0022100922,2022-02-28,MIA,CHI,47.43,4,0,34,CHI,CHI,fg_make,98,False,False,,Bradley 2' Cutting Layup Shot (4 PTS) (Hill 1 AST),111-99,111,99
+0022100922,2022-02-28,MIA,CHI,47.52,4,0,29,MIA,CHI,foul,1,False,False,,Hill P.FOUL (P1.PN) (B.Kennedy),111-99,111,99
+0022100922,2022-02-28,MIA,CHI,47.52,4,0,29,MIA,MIA,ft_miss,11,False,False,MISS Guy Free Throw 1 of 2,,111-99,111,99
+0022100922,2022-02-28,MIA,CHI,47.52,4,0,29,MIA,MIA,reb,1,False,False,HEAT Rebound,,111-99,111,99
+0022100922,2022-02-28,MIA,CHI,47.52,4,0,29,MIA,MIA,ft_make,12,False,False,Guy Free Throw 2 of 2 (1 PTS),,112-99,112,99
+0022100922,2022-02-28,MIA,CHI,47.63,4,0,22,CHI,CHI,fg3_miss,79,False,False,,MISS Hill 27' 3PT Pullup Jump Shot,112-99,112,99
+0022100922,2022-02-28,MIA,CHI,47.7,4,0,18,MIA,MIA,reb,0,False,False,Yurtseven REBOUND (Off:1 Def:2),,112-99,112,99
+0022100922,2022-02-28,MIA,CHI,48.0,4,0,0,MIA,,period_end,0,False,False,,,112-99,112,99

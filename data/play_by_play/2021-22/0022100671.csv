@@ -1,0 +1,425 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100671,2022-01-19,BOS,CHA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.0,1,12,0,,BOS,jump_ball,0,False,False,Jump Ball Horford vs. Plumlee: Tip to Williams,,0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.27,1,11,44,BOS,BOS,fg_miss,44,False,False,MISS Tatum 4' Reverse Layup,,0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.3,1,11,42,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.55,1,11,27,CHA,CHA,fg_miss,86,False,False,,MISS Bridges 9' Turnaround Fadeaway Shot,0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.6,1,11,24,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:1),,0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.73,1,11,16,BOS,BOS,fg3_miss,1,False,False,MISS Williams 3PT Jump Shot,,0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.77,1,11,14,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:1),0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.98,1,11,1,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P1.T1),0-0,0,0
+0022100671,2022-01-19,BOS,CHA,0.98,1,11,1,CHA,BOS,steal,1,False,True,steal,steal,0-0,0,0
+0022100671,2022-01-19,BOS,CHA,1.0,1,11,0,BOS,CHA,foul,28,False,False,,Hayward Personal Take Foul (P1.T1) (C.Blair),0-0,0,0
+0022100671,2022-01-19,BOS,CHA,1.22,1,10,47,BOS,BOS,fg_make,1,False,False,Brown 16' Jump Shot (2 PTS) (Schroder 1 AST),,2-0,2,0
+0022100671,2022-01-19,BOS,CHA,1.48,1,10,31,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 26' 3PT Jump Shot,2-0,2,0
+0022100671,2022-01-19,BOS,CHA,1.52,1,10,29,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:2),,2-0,2,0
+0022100671,2022-01-19,BOS,CHA,1.72,1,10,17,BOS,BOS,tov,40,False,False,Brown Out of Bounds Lost Ball Turnover (P1.T1),,2-0,2,0
+0022100671,2022-01-19,BOS,CHA,1.97,1,10,2,CHA,CHA,fg_make,57,False,False,,Plumlee 7' Driving Hook Shot (2 PTS),2-2,2,2
+0022100671,2022-01-19,BOS,CHA,2.2,1,9,48,BOS,CHA,violation,5,False,False,,Bridges Violation:Kicked Ball (C.Blair),2-2,2,2
+0022100671,2022-01-19,BOS,CHA,2.38,1,9,37,BOS,CHA,foul,2,False,False,,Bridges S.FOUL (P1.T2) (C.Blair),2-2,2,2
+0022100671,2022-01-19,BOS,CHA,2.38,1,9,37,BOS,BOS,ft_miss,13,False,False,MISS Tatum Free Throw 1 of 3,,2-2,2,2
+0022100671,2022-01-19,BOS,CHA,2.38,1,9,37,BOS,BOS,reb,1,False,False,CELTICS Rebound,,2-2,2,2
+0022100671,2022-01-19,BOS,CHA,2.38,1,9,37,BOS,BOS,ft_make,14,False,False,Tatum Free Throw 2 of 3 (1 PTS),,3-2,3,2
+0022100671,2022-01-19,BOS,CHA,2.38,1,9,37,BOS,BOS,ft_make,15,False,False,Tatum Free Throw 3 of 3 (2 PTS),,4-2,4,2
+0022100671,2022-01-19,BOS,CHA,2.53,1,9,28,CHA,CHA,fg_make,6,False,False,,Ball 8' Driving Layup (2 PTS),4-4,4,4
+0022100671,2022-01-19,BOS,CHA,2.78,1,9,13,BOS,BOS,tov,1,False,True,Horford Bad Pass Turnover (P1.T2),,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,2.78,1,9,13,BOS,CHA,steal,1,False,True,steal,steal,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,2.92,1,9,5,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 27' 3PT Jump Shot,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,2.93,1,9,4,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:3),,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,3.0,1,9,0,BOS,CHA,steal,1,False,True,steal,steal,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,3.0,1,9,0,BOS,BOS,tov,1,False,True,Schroder Bad Pass Turnover (P1.T3),,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,3.08,1,8,55,CHA,CHA,fg3_miss,103,False,False,,MISS Rozier 25' 3PT Running Pull-Up Jump Shot,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,3.13,1,8,52,BOS,BOS,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,3.35,1,8,39,BOS,BOS,fg_miss,86,False,False,MISS Brown 11' Turnaround Fadeaway Shot,,4-4,4,4
+0022100671,2022-01-19,BOS,CHA,3.4,1,8,36,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),4-4,4,4
+0022100671,2022-01-19,BOS,CHA,3.55,1,8,27,CHA,CHA,fg_make,108,False,False,,Plumlee 1' Cutting Dunk Shot (4 PTS) (Ball 1 AST),4-6,4,6
+0022100671,2022-01-19,BOS,CHA,3.97,1,8,2,BOS,BOS,fg_make,79,False,False,Schroder 18' Pullup Jump Shot (2 PTS),,6-6,6,6
+0022100671,2022-01-19,BOS,CHA,4.28,1,7,43,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 3PT Jump Shot,6-6,6,6
+0022100671,2022-01-19,BOS,CHA,4.33,1,7,40,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:1),6-6,6,6
+0022100671,2022-01-19,BOS,CHA,4.4,1,7,36,CHA,BOS,foul,2,False,False,Schroder S.FOUL (P1.T1) (T.Ford),,6-6,6,6
+0022100671,2022-01-19,BOS,CHA,4.4,1,7,36,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (3 PTS),6-7,6,7
+0022100671,2022-01-19,BOS,CHA,4.4,1,7,36,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (4 PTS),6-8,6,8
+0022100671,2022-01-19,BOS,CHA,4.63,1,7,22,BOS,BOS,fg_make,9,False,False,Tatum 2' Driving Dunk (4 PTS) (Horford 1 AST),,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,4.7,1,7,18,CHA,CHA,tov,45,False,False,,Ball Out of Bounds - Bad Pass Turnover Turnover (P2.T2),8-8,8,8
+0022100671,2022-01-19,BOS,CHA,4.9,1,7,6,BOS,BOS,tov,45,False,False,Tatum Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.13,1,6,52,CHA,BOS,foul,1,False,False,Williams P.FOUL (P1.T2) (C.Blair),,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.13,1,6,52,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 1 Short 0),,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.35,1,6,39,CHA,CHA,fg_miss,86,False,False,,MISS Rozier 10' Turnaround Fadeaway Shot,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.37,1,6,38,CHA,CHA,reb,0,False,False,,Hornets Rebound,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.37,1,6,38,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#3),8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.58,1,6,25,BOS,BOS,fg_miss,6,False,False,MISS Tatum 3' Driving Layup,,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.62,1,6,23,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:3),,8-8,8,8
+0022100671,2022-01-19,BOS,CHA,5.62,1,6,23,BOS,BOS,fg_make,72,False,False,Horford 6' Putback Layup (2 PTS),,10-8,10,8
+0022100671,2022-01-19,BOS,CHA,5.62,1,6,23,BOS,CHA,foul,2,False,False,,Hayward S.FOUL (P2.T3) (C.Blair),10-8,10,8
+0022100671,2022-01-19,BOS,CHA,5.62,1,6,23,BOS,BOS,ft_make,10,False,False,Horford Free Throw 1 of 1 (3 PTS),,11-8,11,8
+0022100671,2022-01-19,BOS,CHA,5.77,1,6,14,CHA,CHA,fg_make,75,False,False,,Ball 2' Driving Finger Roll Layup (6 PTS),11-10,11,10
+0022100671,2022-01-19,BOS,CHA,5.95,1,6,3,BOS,BOS,fg_miss,101,False,False,MISS Schroder 5' Driving Floating Jump Shot,,11-10,11,10
+0022100671,2022-01-19,BOS,CHA,5.98,1,6,1,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:2),11-10,11,10
+0022100671,2022-01-19,BOS,CHA,6.12,1,5,53,CHA,CHA,fg_make,102,False,False,,Rozier 9' Driving Floating Bank Jump Shot (2 PTS),11-12,11,12
+0022100671,2022-01-19,BOS,CHA,6.33,1,5,40,BOS,CHA,block,5,True,False,block,block,11-12,11,12
+0022100671,2022-01-19,BOS,CHA,6.33,1,5,40,BOS,BOS,fg_miss,5,True,False,MISS Williams 3' Layup,,11-12,11,12
+0022100671,2022-01-19,BOS,CHA,6.37,1,5,38,BOS,BOS,reb,0,False,False,Williams REBOUND (Off:1 Def:0),,11-12,11,12
+0022100671,2022-01-19,BOS,CHA,6.38,1,5,37,BOS,BOS,fg3_make,1,False,False,Schroder 3PT Jump Shot (5 PTS) (Williams 1 AST),,14-12,14,12
+0022100671,2022-01-19,BOS,CHA,6.55,1,5,27,CHA,CHA,tov,4,False,False,,Ball Traveling Turnover (P3.T4),14-12,14,12
+0022100671,2022-01-19,BOS,CHA,6.83,1,5,10,BOS,BOS,fg3_make,1,False,False,Williams 3PT Jump Shot (3 PTS) (Schroder 2 AST),,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.05,1,4,57,CHA,CHA,tov,37,False,False,,Ball Offensive Foul Turnover (P4.T5),17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.05,1,4,57,BOS,CHA,foul,4,False,False,,Ball OFF.Foul (P1) (T.Ford),17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.4,1,4,36,BOS,BOS,fg_miss,75,False,False,MISS Schroder 2' Driving Finger Roll Layup,,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.47,1,4,32,BOS,BOS,reb,0,False,False,Schroder REBOUND (Off:1 Def:1),,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.55,1,4,27,BOS,BOS,fg3_miss,1,False,False,MISS Williams 27' 3PT Jump Shot,,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.6,1,4,24,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:1),17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.87,1,4,8,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 25' 3PT Jump Shot,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,7.92,1,4,5,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,8.05,1,3,57,BOS,BOS,fg_miss,79,False,False,MISS Richardson 21' Pullup Jump Shot,,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,8.12,1,3,53,BOS,BOS,reb,0,False,False,Schroder REBOUND (Off:2 Def:1),,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,8.18,1,3,49,BOS,BOS,fg3_miss,1,False,False,MISS Brown 28' 3PT Jump Shot,,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,8.23,1,3,46,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:3),17-12,17,12
+0022100671,2022-01-19,BOS,CHA,8.37,1,3,38,CHA,BOS,foul,1,False,False,Williams P.FOUL (P2.T3) (T.Ford),,17-12,17,12
+0022100671,2022-01-19,BOS,CHA,8.6,1,3,24,CHA,CHA,fg_make,57,False,False,,Bridges 2' Driving Hook Shot (2 PTS),17-14,17,14
+0022100671,2022-01-19,BOS,CHA,8.73,1,3,16,BOS,BOS,fg_make,75,False,False,Brown 3' Driving Finger Roll Layup (4 PTS) (Schroder 3 AST),,19-14,19,14
+0022100671,2022-01-19,BOS,CHA,8.9,1,3,6,CHA,CHA,fg_make,73,False,False,,Martin 3' Driving Reverse Layup (2 PTS) (Rozier 1 AST),19-16,19,16
+0022100671,2022-01-19,BOS,CHA,9.18,1,2,49,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),21-16,21,16
+0022100671,2022-01-19,BOS,CHA,9.18,1,2,49,CHA,BOS,ft_make,10,False,False,Schroder Free Throw 1 of 1 (8 PTS),,22-16,22,16
+0022100671,2022-01-19,BOS,CHA,9.18,1,2,49,BOS,CHA,foul,2,False,False,,Bridges S.FOUL (P2.T4) (N.Sago),21-16,21,16
+0022100671,2022-01-19,BOS,CHA,9.18,1,2,49,BOS,BOS,fg_make,79,False,False,Schroder 20' Pullup Jump Shot (7 PTS),,21-16,21,16
+0022100671,2022-01-19,BOS,CHA,9.3,1,2,42,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 24' 3PT Jump Shot (3 PTS) (Rozier 2 AST),22-19,22,19
+0022100671,2022-01-19,BOS,CHA,9.68,1,2,19,BOS,BOS,fg3_miss,1,False,False,MISS Langford 3PT Jump Shot,,22-19,22,19
+0022100671,2022-01-19,BOS,CHA,9.72,1,2,17,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),22-19,22,19
+0022100671,2022-01-19,BOS,CHA,9.93,1,2,4,CHA,CHA,fg_make,79,False,False,,Rozier 21' Pullup Jump Shot (4 PTS),22-21,22,21
+0022100671,2022-01-19,BOS,CHA,10.37,1,1,38,BOS,BOS,fg_make,75,False,False,Tatum 3' Driving Finger Roll Layup (6 PTS),,24-21,24,21
+0022100671,2022-01-19,BOS,CHA,10.7,1,1,18,BOS,BOS,reb,0,False,False,Richardson REBOUND (Off:0 Def:1),,24-22,24,22
+0022100671,2022-01-19,BOS,CHA,10.7,1,1,18,CHA,BOS,foul,2,False,False,Tatum S.FOUL (P1.T4) (N.Sago),,24-21,24,21
+0022100671,2022-01-19,BOS,CHA,10.7,1,1,18,CHA,CHA,ft_make,11,False,False,,Martin Free Throw 1 of 2 (3 PTS),24-22,24,22
+0022100671,2022-01-19,BOS,CHA,10.7,1,1,18,CHA,CHA,ft_miss,12,False,False,,MISS Martin Free Throw 2 of 2,24-22,24,22
+0022100671,2022-01-19,BOS,CHA,11.03,1,0,58,BOS,BOS,fg3_make,1,False,False,Richardson 26' 3PT Jump Shot (3 PTS) (Langford 1 AST),,27-22,27,22
+0022100671,2022-01-19,BOS,CHA,11.2,1,0,48,CHA,CHA,fg_make,101,False,False,,Oubre Jr. 10' Driving Floating Jump Shot (5 PTS) (Washington 1 AST),27-24,27,24
+0022100671,2022-01-19,BOS,CHA,11.45,1,0,33,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 27' 3PT Jump Shot,,27-24,27,24
+0022100671,2022-01-19,BOS,CHA,11.48,1,0,31,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:1),27-24,27,24
+0022100671,2022-01-19,BOS,CHA,11.65,1,0,21,CHA,BOS,foul,2,False,False,Tatum S.FOUL (P2.PN) (T.Ford),,27-24,27,24
+0022100671,2022-01-19,BOS,CHA,11.65,1,0,21,CHA,CHA,ft_miss,11,False,False,,MISS Oubre Jr. Free Throw 1 of 2,27-24,27,24
+0022100671,2022-01-19,BOS,CHA,11.65,1,0,21,CHA,CHA,reb,1,False,False,,Hornets Rebound,27-24,27,24
+0022100671,2022-01-19,BOS,CHA,11.65,1,0,21,CHA,CHA,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (6 PTS),27-25,27,25
+0022100671,2022-01-19,BOS,CHA,11.92,1,0,5,BOS,CHA,steal,2,False,True,steal,steal,27-25,27,25
+0022100671,2022-01-19,BOS,CHA,11.92,1,0,5,BOS,BOS,tov,2,False,True,Brown Lost Ball Turnover (P2.T5),,27-25,27,25
+0022100671,2022-01-19,BOS,CHA,11.98,1,0,1,CHA,CHA,reb,0,False,False,,Hornets Rebound,27-25,27,25
+0022100671,2022-01-19,BOS,CHA,11.98,1,0,1,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 25' 3PT Jump Shot,27-25,27,25
+0022100671,2022-01-19,BOS,CHA,12.0,1,0,0,CHA,,period_end,0,False,False,,,27-25,27,25
+0022100671,2022-01-19,BOS,CHA,12.0,2,12,0,CHA,,period_start,0,False,False,,,27-25,27,25
+0022100671,2022-01-19,BOS,CHA,12.3,2,11,42,CHA,CHA,fg_miss,6,False,False,,MISS Oubre Jr. 3' Driving Layup,27-25,27,25
+0022100671,2022-01-19,BOS,CHA,12.33,2,11,40,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:1),27-25,27,25
+0022100671,2022-01-19,BOS,CHA,12.35,2,11,39,CHA,CHA,fg_make,72,False,False,,Oubre Jr. 1' Putback Layup (8 PTS),27-27,27,27
+0022100671,2022-01-19,BOS,CHA,12.63,2,11,22,BOS,BOS,fg3_miss,1,False,False,MISS Pritchard 3PT Jump Shot,,27-27,27,27
+0022100671,2022-01-19,BOS,CHA,12.67,2,11,20,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),27-27,27,27
+0022100671,2022-01-19,BOS,CHA,12.8,2,11,12,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 25' 3PT Jump Shot,27-27,27,27
+0022100671,2022-01-19,BOS,CHA,12.83,2,11,10,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:1),,27-27,27,27
+0022100671,2022-01-19,BOS,CHA,13.07,2,10,56,BOS,BOS,fg_miss,75,False,False,MISS Tatum 2' Driving Finger Roll Layup,,27-27,27,27
+0022100671,2022-01-19,BOS,CHA,13.12,2,10,53,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:2),27-27,27,27
+0022100671,2022-01-19,BOS,CHA,13.27,2,10,44,CHA,CHA,tov,13,False,False,,Ball Backcourt Turnover (P5.T6),27-27,27,27
+0022100671,2022-01-19,BOS,CHA,13.47,2,10,32,BOS,BOS,fg_make,6,False,False,Tatum 9' Driving Layup (8 PTS) (Horford 2 AST),,29-27,29,27
+0022100671,2022-01-19,BOS,CHA,13.77,2,10,14,CHA,CHA,fg3_make,1,False,False,,McDaniels 24' 3PT Jump Shot (3 PTS) (Ball 2 AST),29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.1,2,9,54,BOS,BOS,tov,37,False,False,Horford Offensive Foul Turnover (P2.T6),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.1,2,9,54,CHA,BOS,foul,4,False,False,Horford OFF.Foul (P1) (T.Ford),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.27,2,9,44,CHA,CHA,fg_miss,6,False,False,,MISS Ball 7' Driving Layup,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.3,2,9,42,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:4),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.32,2,9,41,BOS,BOS,fg_miss,50,True,False,MISS Richardson 4' Running Dunk,,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.32,2,9,41,BOS,CHA,block,50,True,False,block,block,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.35,2,9,39,CHA,CHA,reb,0,False,False,,Hornets Rebound,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.52,2,9,29,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.57,2,9,26,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:5),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.88,2,9,7,CHA,BOS,violation,1,False,False,CELTICS Violation: Delay of game Violation,,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.88,2,9,7,BOS,BOS,tov,37,False,False,Tatum Offensive Foul Turnover (P2.T7),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,14.88,2,9,7,CHA,BOS,foul,4,False,False,Tatum OFF.Foul (P3) (N.Sago),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.03,2,8,58,CHA,BOS,foul,1,False,False,Richardson P.FOUL (P1.T1) (C.Blair),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.03,2,8,58,BOS,CHA,violation,1,False,False,,Hornets Violation: Delay of game Violation,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.17,2,8,50,CHA,BOS,block,5,True,False,block,block,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.17,2,8,50,CHA,CHA,fg_miss,5,True,False,,MISS Martin 4' Layup,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.22,2,8,47,BOS,BOS,reb,0,False,False,Richardson REBOUND (Off:0 Def:2),,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.3,2,8,42,,BOS,jump_ball,0,False,False,Jump Ball Brown vs. Oubre Jr.: Tip to Hayward,,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.3,2,8,42,CHA,CHA,reb,0,False,False,,Hornets Rebound,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.3,2,8,42,BOS,BOS,fg_miss,6,True,False,MISS Brown 4' Driving Layup,,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.3,2,8,42,BOS,CHA,block,6,True,False,block,block,29-30,29,30
+0022100671,2022-01-19,BOS,CHA,15.42,2,8,35,CHA,CHA,fg_make,6,False,False,,Oubre Jr. 2' Driving Layup (10 PTS) (Hayward 1 AST),29-32,29,32
+0022100671,2022-01-19,BOS,CHA,15.73,2,8,16,BOS,BOS,fg_make,5,False,False,Langford 2' Layup (2 PTS) (Pritchard 1 AST),,31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.08,2,7,55,CHA,CHA,fg_miss,86,False,False,,MISS McDaniels 6' Turnaround Fadeaway Shot,31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.13,2,7,52,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:6),,31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.18,2,7,49,BOS,CHA,foul,1,False,False,,McDaniels P.FOUL (P1.T1) (T.Ford),31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.48,2,7,31,BOS,BOS,fg3_miss,63,False,False,MISS Brown 27' 3PT Fadeaway Jumper,,31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.52,2,7,29,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.57,2,7,26,CHA,CHA,tov,1,False,True,,Washington Bad Pass Turnover (P1.T7),31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.57,2,7,26,CHA,BOS,steal,1,False,True,steal,steal,31-32,31,32
+0022100671,2022-01-19,BOS,CHA,16.65,2,7,21,BOS,BOS,fg_make,75,False,False,Richardson 3' Driving Finger Roll Layup (5 PTS),,33-32,33,32
+0022100671,2022-01-19,BOS,CHA,16.65,2,7,21,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),33-32,33,32
+0022100671,2022-01-19,BOS,CHA,16.87,2,7,8,CHA,BOS,steal,1,False,True,steal,steal,33-32,33,32
+0022100671,2022-01-19,BOS,CHA,16.87,2,7,8,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P6.T8),33-32,33,32
+0022100671,2022-01-19,BOS,CHA,16.93,2,7,4,BOS,BOS,fg_make,76,False,False,Brown 2' Running Finger Roll Layup (6 PTS),,35-32,35,32
+0022100671,2022-01-19,BOS,CHA,17.0,2,7,0,CHA,CHA,fg_miss,6,False,False,,MISS Ball 3' Driving Layup,35-32,35,32
+0022100671,2022-01-19,BOS,CHA,17.03,2,6,58,CHA,CHA,reb,0,False,False,,Hornets Rebound,35-32,35,32
+0022100671,2022-01-19,BOS,CHA,17.07,2,6,56,CHA,CHA,fg3_make,1,False,False,,McDaniels 26' 3PT Jump Shot (6 PTS) (Ball 3 AST),35-35,35,35
+0022100671,2022-01-19,BOS,CHA,17.43,2,6,34,BOS,BOS,fg_make,75,False,False,Langford 2' Driving Finger Roll Layup (4 PTS) (Richardson 1 AST),,37-35,37,35
+0022100671,2022-01-19,BOS,CHA,17.68,2,6,19,CHA,CHA,fg3_make,1,False,False,,Rozier 3PT Jump Shot (7 PTS) (Hayward 2 AST),37-38,37,38
+0022100671,2022-01-19,BOS,CHA,17.97,2,6,2,BOS,BOS,fg3_make,1,False,False,Brown 26' 3PT Jump Shot (9 PTS) (Horford 3 AST),,40-38,40,38
+0022100671,2022-01-19,BOS,CHA,18.2,2,5,48,CHA,CHA,fg3_make,1,False,False,,Ball 25' 3PT Jump Shot (9 PTS) (Hayward 3 AST),40-41,40,41
+0022100671,2022-01-19,BOS,CHA,18.47,2,5,32,BOS,BOS,fg3_make,1,False,False,Langford 3PT Jump Shot (7 PTS) (Pritchard 2 AST),,43-41,43,41
+0022100671,2022-01-19,BOS,CHA,18.62,2,5,23,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 25' 3PT Jump Shot,43-41,43,41
+0022100671,2022-01-19,BOS,CHA,18.65,2,5,21,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:2),,43-41,43,41
+0022100671,2022-01-19,BOS,CHA,18.83,2,5,10,BOS,BOS,fg_miss,75,True,False,MISS Richardson 3' Driving Finger Roll Layup,,43-41,43,41
+0022100671,2022-01-19,BOS,CHA,18.83,2,5,10,BOS,CHA,block,75,True,False,block,block,43-41,43,41
+0022100671,2022-01-19,BOS,CHA,18.88,2,5,7,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:2),43-41,43,41
+0022100671,2022-01-19,BOS,CHA,18.9,2,5,6,CHA,BOS,foul,2,False,False,Pritchard S.FOUL (P1.T2) (C.Blair),,43-41,43,41
+0022100671,2022-01-19,BOS,CHA,18.9,2,5,6,CHA,CHA,ft_make,11,False,False,,McDaniels Free Throw 1 of 2 (7 PTS),43-42,43,42
+0022100671,2022-01-19,BOS,CHA,18.9,2,5,6,CHA,CHA,ft_make,12,False,False,,McDaniels Free Throw 2 of 2 (8 PTS),43-43,43,43
+0022100671,2022-01-19,BOS,CHA,19.2,2,4,48,BOS,BOS,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,43-43,43,43
+0022100671,2022-01-19,BOS,CHA,19.23,2,4,46,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),43-43,43,43
+0022100671,2022-01-19,BOS,CHA,19.35,2,4,39,CHA,CHA,fg_make,105,False,False,,McDaniels 9' Turnaround Fadeaway Bank Jump Shot (10 PTS) (Bridges 1 AST),43-45,43,45
+0022100671,2022-01-19,BOS,CHA,19.53,2,4,28,BOS,BOS,fg_miss,79,False,False,MISS Richardson 18' Pullup Jump Shot,,43-45,43,45
+0022100671,2022-01-19,BOS,CHA,19.57,2,4,26,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),43-45,43,45
+0022100671,2022-01-19,BOS,CHA,19.67,2,4,20,CHA,BOS,foul,2,False,False,Richardson S.FOUL (P2.T3) (T.Ford),,43-45,43,45
+0022100671,2022-01-19,BOS,CHA,19.67,2,4,20,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (9 PTS),43-47,43,47
+0022100671,2022-01-19,BOS,CHA,19.67,2,4,20,CHA,CHA,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (8 PTS),43-46,43,46
+0022100671,2022-01-19,BOS,CHA,19.83,2,4,10,BOS,BOS,fg3_miss,1,False,False,MISS Brown 28' 3PT Jump Shot,,43-47,43,47
+0022100671,2022-01-19,BOS,CHA,19.9,2,4,6,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:1),43-47,43,47
+0022100671,2022-01-19,BOS,CHA,19.98,2,4,1,CHA,CHA,fg_make,79,False,False,,Rozier 9' Pullup Jump Shot (11 PTS),43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.0,2,4,0,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 2 Short 0),,43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.23,2,3,46,BOS,BOS,fg3_miss,1,False,False,MISS Brown 3PT Jump Shot,,43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.25,2,3,45,BOS,BOS,reb,0,False,False,CELTICS Rebound,,43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.25,2,3,45,BOS,CHA,foul,3,False,False,,Hayward L.B.FOUL (P3.T2) (T.Ford),43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.48,2,3,31,BOS,BOS,fg_miss,63,False,False,MISS Tatum 17' Fadeaway Jumper,,43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.53,2,3,28,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.87,2,3,8,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 25' 3PT Pullup Jump Shot,43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.92,2,3,5,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:3),43-49,43,49
+0022100671,2022-01-19,BOS,CHA,20.98,2,3,1,CHA,CHA,fg_make,101,False,False,,Bridges 9' Driving Floating Jump Shot (4 PTS),43-51,43,51
+0022100671,2022-01-19,BOS,CHA,21.2,2,2,48,BOS,BOS,fg3_make,1,False,False,Schroder 26' 3PT Jump Shot (11 PTS),,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.5,2,2,30,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.53,2,2,28,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:2),,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.65,2,2,21,BOS,BOS,fg3_miss,1,False,False,MISS Williams 3PT Jump Shot,,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.73,2,2,16,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:4),46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.77,2,2,14,CHA,BOS,steal,1,False,True,steal,steal,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.77,2,2,14,CHA,CHA,tov,1,False,True,,Plumlee Bad Pass Turnover (P1.T9),46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.82,2,2,11,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 3PT Jump Shot,,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,21.85,2,2,9,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:5),46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.05,2,1,57,CHA,CHA,tov,1,False,True,,Bridges Bad Pass Turnover (P1.T10),46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.05,2,1,57,CHA,BOS,steal,1,False,True,steal,steal,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.17,2,1,50,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 3PT Jump Shot,,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.27,2,1,44,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:3),46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.47,2,1,32,CHA,CHA,fg_miss,6,True,False,,MISS Bridges 4' Driving Layup,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.47,2,1,32,CHA,BOS,block,6,True,False,block,block,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.5,2,1,30,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:3),,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.58,2,1,25,BOS,BOS,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.62,2,1,23,CHA,CHA,reb,0,False,False,,Hornets Rebound,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,22.82,2,1,11,CHA,BOS,foul,1,False,False,Williams P.FOUL (P3.T4) (T.Ford),,46-51,46,51
+0022100671,2022-01-19,BOS,CHA,23.02,2,0,59,CHA,CHA,fg_make,6,False,False,,Bridges 5' Driving Layup (6 PTS) (Rozier 3 AST),46-53,46,53
+0022100671,2022-01-19,BOS,CHA,23.02,2,0,59,CHA,CHA,ft_make,10,False,False,,Bridges Free Throw 1 of 1 (7 PTS),46-54,46,54
+0022100671,2022-01-19,BOS,CHA,23.02,2,0,59,CHA,BOS,foul,2,False,False,Williams S.FOUL (P4.PN) (C.Blair),,46-53,46,53
+0022100671,2022-01-19,BOS,CHA,23.3,2,0,42,BOS,BOS,fg3_miss,1,False,False,MISS Richardson 3PT Jump Shot,,46-54,46,54
+0022100671,2022-01-19,BOS,CHA,23.37,2,0,38,BOS,BOS,reb,0,False,False,Schroder REBOUND (Off:3 Def:1),,46-54,46,54
+0022100671,2022-01-19,BOS,CHA,23.47,2,0,32,BOS,CHA,foul,1,False,False,,Rozier P.FOUL (P1.T3) (T.Ford),46-54,46,54
+0022100671,2022-01-19,BOS,CHA,23.52,2,0,29,BOS,BOS,tov,1,False,True,Langford Bad Pass Turnover (P1.T8),,46-54,46,54
+0022100671,2022-01-19,BOS,CHA,23.52,2,0,29,BOS,CHA,steal,1,False,True,steal,steal,46-54,46,54
+0022100671,2022-01-19,BOS,CHA,23.55,2,0,27,CHA,CHA,fg_make,99,False,False,,Rozier 1' Cutting Finger Roll Layup Shot (13 PTS) (Martin 1 AST),46-56,46,56
+0022100671,2022-01-19,BOS,CHA,23.83,2,0,10,BOS,BOS,fg_make,75,False,False,Schroder 3' Driving Finger Roll Layup (13 PTS),,48-56,48,56
+0022100671,2022-01-19,BOS,CHA,24.0,2,0,0,BOS,,period_end,0,False,False,,,48-56,48,56
+0022100671,2022-01-19,BOS,CHA,24.0,3,12,0,BOS,,period_start,0,False,False,,,48-56,48,56
+0022100671,2022-01-19,BOS,CHA,24.25,3,11,45,CHA,CHA,fg_miss,1,False,False,,MISS Rozier 22' Jump Shot,48-56,48,56
+0022100671,2022-01-19,BOS,CHA,24.28,3,11,43,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:3),,48-56,48,56
+0022100671,2022-01-19,BOS,CHA,24.5,3,11,30,BOS,BOS,fg3_miss,1,False,False,MISS Horford 24' 3PT Jump Shot,,48-56,48,56
+0022100671,2022-01-19,BOS,CHA,24.53,3,11,28,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:3),48-56,48,56
+0022100671,2022-01-19,BOS,CHA,24.63,3,11,22,CHA,CHA,fg3_make,1,False,False,,Bridges 3PT Jump Shot (10 PTS) (Rozier 4 AST),48-59,48,59
+0022100671,2022-01-19,BOS,CHA,24.92,3,11,5,BOS,BOS,fg_make,6,False,False,Horford 4' Driving Layup (5 PTS) (Schroder 4 AST),,50-59,50,59
+0022100671,2022-01-19,BOS,CHA,25.1,3,10,54,CHA,CHA,fg_make,86,False,False,,Hayward 10' Turnaround Fadeaway (2 PTS) (Ball 4 AST),50-61,50,61
+0022100671,2022-01-19,BOS,CHA,25.37,3,10,38,BOS,BOS,fg_make,6,False,False,Brown 6' Driving Layup (11 PTS),,52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.57,3,10,26,CHA,CHA,fg_miss,6,False,False,,MISS Ball 10' Driving Layup,52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.6,3,10,24,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:7),,52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.6,3,10,24,CHA,CHA,ft_miss,12,False,False,,MISS Plumlee Free Throw 2 of 2,52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.6,3,10,24,CHA,CHA,reb,1,False,False,,Hornets Rebound,52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.6,3,10,24,CHA,CHA,ft_miss,11,False,False,,MISS Plumlee Free Throw 1 of 2,52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.6,3,10,24,CHA,BOS,foul,2,False,False,Horford S.FOUL (P2.T1) (T.Ford),,52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.6,3,10,24,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:5),52-61,52,61
+0022100671,2022-01-19,BOS,CHA,25.97,3,10,2,BOS,BOS,ft_make,12,False,False,Freedom Free Throw 2 of 2 (2 PTS),,54-61,54,61
+0022100671,2022-01-19,BOS,CHA,25.97,3,10,2,BOS,BOS,ft_make,11,False,False,Freedom Free Throw 1 of 2 (1 PTS),,53-61,53,61
+0022100671,2022-01-19,BOS,CHA,25.97,3,10,2,BOS,CHA,foul,2,False,False,,Bridges S.FOUL (P3.T1) (T.Ford),52-61,52,61
+0022100671,2022-01-19,BOS,CHA,26.18,3,9,49,CHA,CHA,fg_make,52,False,False,,Plumlee 2' Alley Oop Dunk (6 PTS) (Ball 5 AST),54-63,54,63
+0022100671,2022-01-19,BOS,CHA,26.45,3,9,33,BOS,BOS,fg_make,73,False,False,Tatum 1' Driving Reverse Layup (10 PTS),,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,26.7,3,9,18,CHA,CHA,fg_miss,101,False,False,,MISS Ball 12' Driving Floating Jump Shot,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,26.78,3,9,13,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:4 Def:5),56-63,56,63
+0022100671,2022-01-19,BOS,CHA,26.8,3,9,12,CHA,CHA,fg_miss,97,False,False,,MISS Plumlee Tip Layup Shot,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,26.8,3,9,12,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:1),56-63,56,63
+0022100671,2022-01-19,BOS,CHA,26.92,3,9,5,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 3PT Jump Shot,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.02,3,8,59,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:8),,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.07,3,8,56,BOS,BOS,fg3_miss,1,False,False,MISS Brown 3PT Jump Shot,,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.1,3,8,54,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:2),56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.25,3,8,45,CHA,CHA,tov,37,False,False,,Plumlee Offensive Foul Turnover (P2.T11),56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.25,3,8,45,BOS,CHA,foul,4,False,False,,Plumlee OFF.Foul (P1) (T.Ford),56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.52,3,8,29,BOS,BOS,fg_miss,63,False,False,MISS Tatum 11' Fadeaway Jumper,,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.57,3,8,26,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:2),56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.75,3,8,15,CHA,CHA,fg_miss,79,False,False,,MISS Ball 12' Pullup Jump Shot,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.78,3,8,13,BOS,BOS,reb,0,False,False,Freedom REBOUND (Off:0 Def:1),,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.9,3,8,6,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 26' 3PT Jump Shot,,56-63,56,63
+0022100671,2022-01-19,BOS,CHA,27.93,3,8,4,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),56-63,56,63
+0022100671,2022-01-19,BOS,CHA,28.03,3,7,58,CHA,CHA,fg3_make,1,False,False,,Hayward 26' 3PT Jump Shot (5 PTS),56-66,56,66
+0022100671,2022-01-19,BOS,CHA,28.07,3,7,56,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 3 Short 0),,56-66,56,66
+0022100671,2022-01-19,BOS,CHA,28.33,3,7,40,BOS,BOS,fg_make,6,False,False,Brown 3' Driving Layup (13 PTS) (Tatum 1 AST),,58-66,58,66
+0022100671,2022-01-19,BOS,CHA,28.38,3,7,37,CHA,BOS,foul,1,False,False,Tatum P.FOUL (P4.T2) (C.Blair),,58-66,58,66
+0022100671,2022-01-19,BOS,CHA,28.52,3,7,29,CHA,CHA,fg_miss,101,False,False,,MISS Bridges 9' Driving Floating Jump Shot,58-66,58,66
+0022100671,2022-01-19,BOS,CHA,28.55,3,7,27,CHA,BOS,foul,1,False,False,Schroder P.FOUL (P2.T3) (C.Blair),,58-66,58,66
+0022100671,2022-01-19,BOS,CHA,28.55,3,7,27,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:2 Def:2),58-66,58,66
+0022100671,2022-01-19,BOS,CHA,28.7,3,7,18,CHA,CHA,fg_miss,103,False,False,,MISS Hayward 13' Running Pull-Up Jump Shot,58-66,58,66
+0022100671,2022-01-19,BOS,CHA,28.75,3,7,15,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:2),58-66,58,66
+0022100671,2022-01-19,BOS,CHA,28.82,3,7,11,CHA,CHA,fg3_make,1,False,False,,Rozier 26' 3PT Jump Shot (16 PTS) (Ball 6 AST),58-69,58,69
+0022100671,2022-01-19,BOS,CHA,29.0,3,7,0,BOS,CHA,foul,1,False,False,,Ball P.FOUL (P2.T2) (N.Sago),58-69,58,69
+0022100671,2022-01-19,BOS,CHA,29.13,3,6,52,BOS,BOS,fg3_miss,1,False,False,MISS Brown 3PT Jump Shot,,58-69,58,69
+0022100671,2022-01-19,BOS,CHA,29.18,3,6,49,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:3),58-69,58,69
+0022100671,2022-01-19,BOS,CHA,29.27,3,6,44,CHA,CHA,fg_miss,2,False,False,,MISS Ball 13' Running Jump Shot,58-69,58,69
+0022100671,2022-01-19,BOS,CHA,29.3,3,6,42,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:4 Def:3),58-69,58,69
+0022100671,2022-01-19,BOS,CHA,29.33,3,6,40,CHA,CHA,fg3_make,1,False,False,,Rozier 26' 3PT Jump Shot (19 PTS) (Ball 7 AST),58-72,58,72
+0022100671,2022-01-19,BOS,CHA,29.35,3,6,39,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 4 Short 0),,58-72,58,72
+0022100671,2022-01-19,BOS,CHA,29.57,3,6,26,BOS,BOS,fg3_make,1,False,False,Schroder 25' 3PT Jump Shot (16 PTS) (Brown 1 AST),,61-72,61,72
+0022100671,2022-01-19,BOS,CHA,29.85,3,6,9,CHA,CHA,fg3_make,1,False,False,,Rozier 3PT Jump Shot (22 PTS) (Bridges 2 AST),61-75,61,75
+0022100671,2022-01-19,BOS,CHA,30.05,3,5,57,BOS,BOS,fg3_make,1,False,False,Horford 24' 3PT Jump Shot (8 PTS) (Brown 2 AST),,64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.4,3,5,36,CHA,BOS,steal,2,False,True,steal,steal,64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.4,3,5,36,CHA,CHA,tov,2,False,True,,Plumlee Lost Ball Turnover (P3.T12),64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.48,3,5,31,BOS,BOS,fg_miss,41,False,False,MISS Schroder 3' Running Layup,,64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.53,3,5,28,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:4),64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.57,3,5,26,CHA,CHA,tov,45,False,False,,Ball Out of Bounds - Bad Pass Turnover Turnover (P7.T13),64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.75,3,5,15,BOS,CHA,foul,1,False,False,,Hayward P.FOUL (P4.T3) (C.Blair),64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.9,3,5,6,BOS,BOS,fg_miss,79,False,False,MISS Schroder 8' Pullup Jump Shot,,64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.95,3,5,3,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:2 Def:8),,64-75,64,75
+0022100671,2022-01-19,BOS,CHA,30.98,3,5,1,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 26' 3PT Jump Shot,,64-75,64,75
+0022100671,2022-01-19,BOS,CHA,31.03,3,4,58,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:5),64-75,64,75
+0022100671,2022-01-19,BOS,CHA,31.23,3,4,46,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 27' 3PT Jump Shot (13 PTS) (Rozier 5 AST),64-78,64,78
+0022100671,2022-01-19,BOS,CHA,31.62,3,4,23,BOS,BOS,fg_make,1,False,False,Horford 19' Jump Shot (10 PTS) (Tatum 2 AST),,66-78,66,78
+0022100671,2022-01-19,BOS,CHA,31.93,3,4,4,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 30' 3PT Jump Shot,66-78,66,78
+0022100671,2022-01-19,BOS,CHA,31.98,3,4,1,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:4),,66-78,66,78
+0022100671,2022-01-19,BOS,CHA,32.03,3,3,58,BOS,BOS,ft_make,12,False,False,Brown Free Throw 2 of 2 (14 PTS),,67-78,67,78
+0022100671,2022-01-19,BOS,CHA,32.03,3,3,58,BOS,BOS,reb,1,False,False,CELTICS Rebound,,66-78,66,78
+0022100671,2022-01-19,BOS,CHA,32.03,3,3,58,BOS,BOS,ft_miss,11,False,False,MISS Brown Free Throw 1 of 2,,66-78,66,78
+0022100671,2022-01-19,BOS,CHA,32.03,3,3,58,BOS,CHA,foul,2,False,False,,Rozier S.FOUL (P2.T4) (N.Sago),66-78,66,78
+0022100671,2022-01-19,BOS,CHA,32.18,3,3,49,CHA,BOS,foul,1,False,False,Schroder P.FOUL (P3.T4) (T.Ford),,67-78,67,78
+0022100671,2022-01-19,BOS,CHA,32.33,3,3,40,CHA,CHA,fg_make,47,False,False,,Bridges 13' Turnaround Jump Shot (12 PTS) (Rozier 6 AST),67-80,67,80
+0022100671,2022-01-19,BOS,CHA,32.48,3,3,31,BOS,BOS,tov,39,False,False,Brown Step Out of Bounds Turnover (P3.T9),,67-80,67,80
+0022100671,2022-01-19,BOS,CHA,32.68,3,3,19,CHA,CHA,tov,1,False,True,,Rozier Bad Pass Turnover (P1.T14),67-80,67,80
+0022100671,2022-01-19,BOS,CHA,32.68,3,3,19,CHA,BOS,steal,1,False,True,steal,steal,67-80,67,80
+0022100671,2022-01-19,BOS,CHA,33.05,3,2,57,BOS,BOS,fg_make,47,False,False,Brown 15' Turnaround Jump Shot (16 PTS) (Schroder 5 AST),,69-80,69,80
+0022100671,2022-01-19,BOS,CHA,33.08,3,2,55,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),69-80,69,80
+0022100671,2022-01-19,BOS,CHA,33.3,3,2,42,CHA,CHA,ft_make,11,False,False,,Bridges Free Throw 1 of 2 (13 PTS),69-81,69,81
+0022100671,2022-01-19,BOS,CHA,33.3,3,2,42,CHA,BOS,foul,2,False,False,Horford S.FOUL (P3.PN) (N.Sago),,69-80,69,80
+0022100671,2022-01-19,BOS,CHA,33.3,3,2,42,CHA,CHA,ft_make,12,False,False,,Bridges Free Throw 2 of 2 (14 PTS),69-82,69,82
+0022100671,2022-01-19,BOS,CHA,33.57,3,2,26,BOS,BOS,fg3_make,1,False,False,Williams 24' 3PT Jump Shot (6 PTS) (Brown 3 AST),,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,33.85,3,2,9,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 25' 3PT Jump Shot,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,33.88,3,2,7,BOS,BOS,reb,0,False,False,Schroder REBOUND (Off:3 Def:2),,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,33.93,3,2,4,CHA,BOS,foul,4,False,False,Williams OFF.Foul (P5) (N.Sago),,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,33.93,3,2,4,BOS,BOS,tov,37,False,False,Williams Offensive Foul Turnover (P1.T10),,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,34.15,3,1,51,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 26' 3PT Jump Shot,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,34.18,3,1,49,BOS,BOS,reb,0,False,False,Schroder REBOUND (Off:3 Def:3),,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,34.45,3,1,33,BOS,BOS,tov,4,False,False,Richardson Traveling Turnover (P1.T11),,72-82,72,82
+0022100671,2022-01-19,BOS,CHA,34.67,3,1,20,CHA,CHA,fg_make,63,False,False,,Oubre Jr. 12' Fadeaway Jumper (15 PTS),72-84,72,84
+0022100671,2022-01-19,BOS,CHA,35.03,3,0,58,BOS,BOS,fg_make,75,False,False,Schroder 1' Driving Finger Roll Layup (18 PTS) (Richardson 2 AST),,74-84,74,84
+0022100671,2022-01-19,BOS,CHA,35.03,3,0,58,BOS,CHA,violation,2,False,False,,Washington Violation:Defensive Goaltending (N.Sago),74-84,74,84
+0022100671,2022-01-19,BOS,CHA,35.42,3,0,35,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 3PT Jump Shot,74-84,74,84
+0022100671,2022-01-19,BOS,CHA,35.47,3,0,32,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:4),,74-84,74,84
+0022100671,2022-01-19,BOS,CHA,35.55,3,0,27,BOS,CHA,steal,2,False,True,steal,steal,74-84,74,84
+0022100671,2022-01-19,BOS,CHA,35.55,3,0,27,BOS,BOS,tov,2,False,True,Schroder Lost Ball Turnover (P2.T12),,74-84,74,84
+0022100671,2022-01-19,BOS,CHA,35.65,3,0,21,CHA,CHA,fg_make,52,False,False,,Washington 3' Alley Oop Dunk (2 PTS) (Rozier 7 AST),74-86,74,86
+0022100671,2022-01-19,BOS,CHA,35.9,3,0,6,BOS,BOS,fg3_miss,1,False,False,MISS Brown 25' 3PT Jump Shot,,74-86,74,86
+0022100671,2022-01-19,BOS,CHA,35.93,3,0,4,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:3),74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.0,4,12,0,CHA,,period_start,0,False,False,,,74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.0,3,0,0,CHA,,period_end,0,False,False,,,74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.3,4,11,42,BOS,BOS,fg_miss,101,False,False,MISS Langford 12' Driving Floating Jump Shot,,74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.32,4,11,41,BOS,BOS,reb,0,False,False,CELTICS Rebound,,74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.32,4,11,41,BOS,CHA,foul,3,False,False,,Hayward L.B.FOUL (P5.T1) (C.Blair),74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.42,4,11,35,BOS,BOS,fg3_miss,1,False,False,MISS Pritchard 24' 3PT Jump Shot,,74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.45,4,11,33,BOS,BOS,reb,0,False,False,Langford REBOUND (Off:1 Def:0),,74-86,74,86
+0022100671,2022-01-19,BOS,CHA,36.47,4,11,32,BOS,CHA,foul,2,False,False,,McDaniels S.FOUL (P2.T2) (N.Sago),76-86,76,86
+0022100671,2022-01-19,BOS,CHA,36.47,4,11,32,BOS,BOS,fg_make,44,False,False,Langford 2' Reverse Layup (9 PTS),,76-86,76,86
+0022100671,2022-01-19,BOS,CHA,36.47,4,11,32,BOS,BOS,ft_make,10,False,False,Langford Free Throw 1 of 1 (10 PTS),,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,36.78,4,11,13,CHA,CHA,fg_miss,79,False,False,,MISS Ball 19' Pullup Jump Shot,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,36.85,4,11,9,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:1),77-86,77,86
+0022100671,2022-01-19,BOS,CHA,36.88,4,11,7,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,36.92,4,11,5,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:5),,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.05,4,10,57,BOS,BOS,fg_miss,6,True,False,MISS Tatum 5' Driving Layup,,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.05,4,10,57,BOS,CHA,block,6,True,False,block,block,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.1,4,10,54,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:1 Def:5),,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.13,4,10,52,BOS,BOS,fg3_miss,1,False,False,MISS Richardson 27' 3PT Jump Shot,,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.17,4,10,50,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:2),77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.4,4,10,36,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.45,4,10,33,BOS,BOS,reb,0,False,False,Freedom REBOUND (Off:0 Def:2),,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.75,4,10,15,BOS,BOS,fg3_miss,1,False,False,MISS Langford 3PT Jump Shot,,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,37.8,4,10,12,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:4),77-86,77,86
+0022100671,2022-01-19,BOS,CHA,38.02,4,9,59,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 30' 3PT Jump Shot,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,38.05,4,9,57,BOS,BOS,reb,0,False,False,Pritchard REBOUND (Off:0 Def:1),,77-86,77,86
+0022100671,2022-01-19,BOS,CHA,38.3,4,9,42,BOS,BOS,fg3_make,1,False,False,Richardson 27' 3PT Jump Shot (8 PTS) (Pritchard 3 AST),,80-86,80,86
+0022100671,2022-01-19,BOS,CHA,38.33,4,9,40,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.4 Short 0),80-86,80,86
+0022100671,2022-01-19,BOS,CHA,38.52,4,9,29,CHA,CHA,fg_make,7,False,False,,McDaniels 2' Dunk (12 PTS) (Ball 8 AST),80-88,80,88
+0022100671,2022-01-19,BOS,CHA,38.92,4,9,5,BOS,BOS,fg_make,5,False,False,Freedom 4' Layup (4 PTS),,82-88,82,88
+0022100671,2022-01-19,BOS,CHA,38.92,4,9,5,BOS,CHA,foul,2,False,False,,McDaniels S.FOUL (P3.T3) (C.Blair),82-88,82,88
+0022100671,2022-01-19,BOS,CHA,38.92,4,9,5,BOS,BOS,ft_make,10,False,False,Freedom Free Throw 1 of 1 (5 PTS),,83-88,83,88
+0022100671,2022-01-19,BOS,CHA,39.25,4,8,45,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P8.T15),83-88,83,88
+0022100671,2022-01-19,BOS,CHA,39.25,4,8,45,CHA,BOS,steal,1,False,True,steal,steal,83-88,83,88
+0022100671,2022-01-19,BOS,CHA,39.33,4,8,40,BOS,BOS,reb,1,False,False,CELTICS Rebound,,83-88,83,88
+0022100671,2022-01-19,BOS,CHA,39.33,4,8,40,BOS,BOS,ft_make,12,False,False,Langford Free Throw 2 of 2 (11 PTS),,84-88,84,88
+0022100671,2022-01-19,BOS,CHA,39.33,4,8,40,BOS,CHA,foul,2,False,False,,McDaniels S.FOUL (P4.T4) (N.Sago),83-88,83,88
+0022100671,2022-01-19,BOS,CHA,39.33,4,8,40,BOS,BOS,ft_miss,11,False,False,MISS Langford Free Throw 1 of 2,,83-88,83,88
+0022100671,2022-01-19,BOS,CHA,39.68,4,8,19,CHA,CHA,fg3_make,1,False,False,,Ball 24' 3PT Jump Shot (12 PTS) (Rozier 8 AST),84-91,84,91
+0022100671,2022-01-19,BOS,CHA,40.03,4,7,58,BOS,BOS,fg_make,79,False,False,Richardson 11' Pullup Jump Shot (10 PTS) (Pritchard 4 AST),,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.33,4,7,40,CHA,CHA,fg_miss,101,False,False,,MISS Rozier 9' Driving Floating Jump Shot,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.38,4,7,37,BOS,BOS,reb,0,False,False,Freedom REBOUND (Off:0 Def:3),,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.47,4,7,32,BOS,CHA,block,75,True,False,block,block,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.47,4,7,32,BOS,BOS,fg_miss,75,True,False,MISS Tatum 3' Driving Finger Roll Layup,,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.5,4,7,30,BOS,BOS,reb,0,False,False,CELTICS Rebound,,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.53,4,7,28,BOS,BOS,fg3_miss,1,False,False,MISS Richardson 24' 3PT Jump Shot,,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.6,4,7,24,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:4 Def:4),86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.75,4,7,15,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 27' 3PT Jump Shot,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.8,4,7,12,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:5),,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.9,4,7,6,BOS,BOS,fg3_miss,1,False,False,MISS Richardson 3PT Jump Shot,,86-91,86,91
+0022100671,2022-01-19,BOS,CHA,40.95,4,7,3,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:2),86-91,86,91
+0022100671,2022-01-19,BOS,CHA,41.27,4,6,44,CHA,CHA,fg_make,93,False,False,,Bridges 9' Driving Bank Hook Shot (16 PTS),86-93,86,93
+0022100671,2022-01-19,BOS,CHA,41.65,4,6,21,BOS,BOS,fg_make,1,False,False,Brown 7' Jump Shot (18 PTS) (Richardson 3 AST),,88-93,88,93
+0022100671,2022-01-19,BOS,CHA,41.9,4,6,6,CHA,CHA,fg_make,6,False,False,,Bridges 6' Driving Layup (18 PTS),88-95,88,95
+0022100671,2022-01-19,BOS,CHA,42.27,4,5,44,BOS,BOS,fg3_miss,1,False,False,MISS Brown 3PT Jump Shot,,88-95,88,95
+0022100671,2022-01-19,BOS,CHA,42.32,4,5,41,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:4 Def:5),88-95,88,95
+0022100671,2022-01-19,BOS,CHA,42.32,4,5,41,CHA,BOS,foul,1,False,False,Tatum P.FOUL (P5.T1) (T.Ford),,88-95,88,95
+0022100671,2022-01-19,BOS,CHA,42.58,4,5,25,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,88-95,88,95
+0022100671,2022-01-19,BOS,CHA,42.62,4,5,23,BOS,BOS,reb,0,False,False,CELTICS Rebound,,88-95,88,95
+0022100671,2022-01-19,BOS,CHA,42.75,4,5,15,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 26' 3PT Jump Shot,,88-95,88,95
+0022100671,2022-01-19,BOS,CHA,42.8,4,5,12,CHA,CHA,reb,0,False,False,,Hornets Rebound,88-95,88,95
+0022100671,2022-01-19,BOS,CHA,43.07,4,4,56,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 30' 3PT Jump Shot (18 PTS) (Ball 9 AST),88-98,88,98
+0022100671,2022-01-19,BOS,CHA,43.08,4,4,55,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 5 Short 0),,88-98,88,98
+0022100671,2022-01-19,BOS,CHA,43.35,4,4,39,BOS,BOS,fg3_make,1,False,False,Brown 25' 3PT Jump Shot (21 PTS) (Horford 4 AST),,91-98,91,98
+0022100671,2022-01-19,BOS,CHA,43.68,4,4,19,CHA,CHA,fg_make,73,False,False,,Bridges 3' Driving Reverse Layup (20 PTS),91-100,91,100
+0022100671,2022-01-19,BOS,CHA,43.95,4,4,3,BOS,BOS,fg3_miss,1,False,False,MISS Horford 24' 3PT Jump Shot,,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.02,4,3,59,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:4 Def:6),91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.2,4,3,48,CHA,CHA,fg_miss,5,True,False,,MISS Oubre Jr. 3' Layup,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.2,4,3,48,CHA,BOS,block,5,True,False,block,block,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.27,4,3,44,BOS,BOS,reb,0,False,False,Schroder REBOUND (Off:3 Def:4),,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.27,4,3,44,BOS,BOS,tov,45,False,False,Schroder Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.47,4,3,32,CHA,CHA,fg_miss,6,False,False,,MISS Oubre Jr. 5' Driving Layup,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.5,4,3,30,BOS,BOS,reb,0,False,False,Williams REBOUND (Off:1 Def:1),,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.67,4,3,20,BOS,CHA,steal,2,False,True,steal,steal,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.67,4,3,20,BOS,BOS,tov,2,False,True,Tatum Lost Ball Turnover (P3.T14),,91-100,91,100
+0022100671,2022-01-19,BOS,CHA,44.73,4,3,16,CHA,CHA,fg_make,50,False,False,,Bridges 1' Running Dunk (22 PTS) (Rozier 9 AST),91-102,91,102
+0022100671,2022-01-19,BOS,CHA,44.83,4,3,10,BOS,BOS,fg_make,50,False,False,Tatum 1' Running Dunk (12 PTS) (Brown 4 AST),,93-102,93,102
+0022100671,2022-01-19,BOS,CHA,44.83,4,3,10,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.5 Short 0),93-102,93,102
+0022100671,2022-01-19,BOS,CHA,44.98,4,3,1,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 24' 3PT Jump Shot,93-102,93,102
+0022100671,2022-01-19,BOS,CHA,45.02,4,2,59,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:6),,93-102,93,102
+0022100671,2022-01-19,BOS,CHA,45.18,4,2,49,BOS,BOS,fg3_make,1,False,False,Horford 3PT Jump Shot (13 PTS) (Brown 5 AST),,96-102,96,102
+0022100671,2022-01-19,BOS,CHA,45.65,4,2,21,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,96-102,96,102
+0022100671,2022-01-19,BOS,CHA,45.67,4,2,20,CHA,CHA,reb,0,False,False,,Hornets Rebound,96-102,96,102
+0022100671,2022-01-19,BOS,CHA,45.67,4,2,20,CHA,BOS,foul,3,False,False,Brown L.B.FOUL (P1.T2) (T.Ford),,96-102,96,102
+0022100671,2022-01-19,BOS,CHA,45.8,4,2,12,CHA,CHA,fg3_make,1,False,False,,Ball 27' 3PT Jump Shot (15 PTS) (Rozier 10 AST),96-105,96,105
+0022100671,2022-01-19,BOS,CHA,46.02,4,1,59,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 3PT Jump Shot,,96-105,96,105
+0022100671,2022-01-19,BOS,CHA,46.07,4,1,56,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:6),96-105,96,105
+0022100671,2022-01-19,BOS,CHA,46.38,4,1,37,CHA,CHA,fg3_make,1,False,False,,Rozier 28' 3PT Jump Shot (25 PTS) (Ball 10 AST),96-108,96,108
+0022100671,2022-01-19,BOS,CHA,46.4,4,1,36,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 6 Short 0),,96-108,96,108
+0022100671,2022-01-19,BOS,CHA,46.57,4,1,26,BOS,BOS,fg3_make,1,False,False,Schroder 25' 3PT Jump Shot (21 PTS) (Brown 6 AST),,99-108,99,108
+0022100671,2022-01-19,BOS,CHA,46.62,4,1,23,CHA,CHA,tov,40,False,False,,Rozier Out of Bounds Lost Ball Turnover (P2.T16),99-108,99,108
+0022100671,2022-01-19,BOS,CHA,46.77,4,1,14,BOS,BOS,fg3_make,1,False,False,Schroder 25' 3PT Jump Shot (24 PTS) (Tatum 3 AST),,102-108,102,108
+0022100671,2022-01-19,BOS,CHA,46.77,4,1,14,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.6 Short 0),102-108,102,108
+0022100671,2022-01-19,BOS,CHA,47.1,4,0,54,CHA,CHA,fg3_make,79,False,False,,Rozier 26' 3PT Pullup Jump Shot (28 PTS),102-111,102,111
+0022100671,2022-01-19,BOS,CHA,47.2,4,0,48,BOS,BOS,fg3_miss,1,False,False,MISS Brown 25' 3PT Jump Shot,,102-111,102,111
+0022100671,2022-01-19,BOS,CHA,47.25,4,0,45,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:7),102-111,102,111
+0022100671,2022-01-19,BOS,CHA,47.62,4,0,23,CHA,CHA,fg_miss,57,False,False,,MISS Martin 9' Driving Hook Shot,102-111,102,111
+0022100671,2022-01-19,BOS,CHA,47.67,4,0,20,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:1 Def:2),102-111,102,111
+0022100671,2022-01-19,BOS,CHA,47.88,4,0,7,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 7 Short 0),,102-111,102,111
+0022100671,2022-01-19,BOS,CHA,47.88,4,0,7,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#17),102-111,102,111
+0022100671,2022-01-19,BOS,CHA,48.0,4,0,0,CHA,,period_end,0,False,False,,,102-111,102,111
+0022100671,2022-01-19,BOS,CHA,48.0,4,0,0,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:4 Def:6),102-111,102,111
+0022100671,2022-01-19,BOS,CHA,48.0,4,0,0,BOS,BOS,fg3_miss,1,False,False,MISS Schroder 25' 3PT Jump Shot,,102-111,102,111

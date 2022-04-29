@@ -1,0 +1,406 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101083,2022-03-22,DEN,LAC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.0,1,12,0,,DEN,jump_ball,0,False,False,Jump Ball Jokic vs. Zubac: Tip to Batum,,0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.27,1,11,44,LAC,LAC,tov,1,False,True,,Batum Bad Pass Turnover (P1.T1),0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.27,1,11,44,LAC,DEN,steal,1,False,True,steal,steal,0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.33,1,11,40,DEN,DEN,fg_miss,41,False,False,MISS Barton 1' Running Layup,,0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.35,1,11,39,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:0 Def:1),0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.6,1,11,24,LAC,LAC,tov,1,False,True,,Batum Bad Pass Turnover (P2.T2),0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.6,1,11,24,LAC,DEN,steal,1,False,True,steal,steal,0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.7,1,11,18,DEN,DEN,fg3_miss,1,False,False,MISS Gordon 24' 3PT Jump Shot,,0-0,0,0
+0022101083,2022-03-22,DEN,LAC,0.7,1,11,18,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),0-0,0,0
+0022101083,2022-03-22,DEN,LAC,1.0,1,11,0,LAC,DEN,foul,1,False,False,Barton P.FOUL (P1.T1) (E.Malloy),,0-0,0,0
+0022101083,2022-03-22,DEN,LAC,1.25,1,10,45,LAC,LAC,fg_make,79,False,False,,Morris Sr. 15' Pullup Jump Shot (2 PTS) (Batum 1 AST),0-2,0,2
+0022101083,2022-03-22,DEN,LAC,1.52,1,10,29,DEN,DEN,fg_make,79,False,False,Jokic 15' Pullup Jump Shot (2 PTS) (Gordon 1 AST),,2-2,2,2
+0022101083,2022-03-22,DEN,LAC,1.75,1,10,15,LAC,LAC,fg_miss,6,False,False,,MISS Zubac 10' Driving Layup,2-2,2,2
+0022101083,2022-03-22,DEN,LAC,1.78,1,10,13,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:1),,2-2,2,2
+0022101083,2022-03-22,DEN,LAC,1.87,1,10,8,DEN,DEN,fg_miss,1,False,False,MISS Morris 11' Jump Shot,,2-2,2,2
+0022101083,2022-03-22,DEN,LAC,1.93,1,10,4,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:1),2-2,2,2
+0022101083,2022-03-22,DEN,LAC,2.02,1,9,59,LAC,LAC,fg_make,79,False,False,,Morris Sr. 11' Pullup Jump Shot (4 PTS),2-4,2,4
+0022101083,2022-03-22,DEN,LAC,2.07,1,9,56,DEN,DEN,fg_make,50,False,False,Je. Green 1' Running Dunk (2 PTS) (Jokic 1 AST),,4-4,4,4
+0022101083,2022-03-22,DEN,LAC,2.07,1,9,56,DEN,LAC,foul,1,False,False,,Batum P.FOUL (P1.T1) (E.Malloy),4-4,4,4
+0022101083,2022-03-22,DEN,LAC,2.07,1,9,56,DEN,DEN,ft_miss,10,False,False,MISS Je. Green Free Throw 1 of 1,,4-4,4,4
+0022101083,2022-03-22,DEN,LAC,2.07,1,9,56,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:2),4-4,4,4
+0022101083,2022-03-22,DEN,LAC,2.33,1,9,40,LAC,LAC,fg3_make,1,False,False,,Batum 24' 3PT Jump Shot (3 PTS) (Coffey 1 AST),4-7,4,7
+0022101083,2022-03-22,DEN,LAC,2.62,1,9,23,DEN,DEN,fg_make,108,False,False,Je. Green 2' Cutting Dunk Shot (4 PTS) (Jokic 2 AST),,6-7,6,7
+0022101083,2022-03-22,DEN,LAC,2.87,1,9,8,LAC,LAC,fg3_miss,1,False,False,,MISS Batum 25' 3PT Jump Shot,6-7,6,7
+0022101083,2022-03-22,DEN,LAC,2.92,1,9,5,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:1),,6-7,6,7
+0022101083,2022-03-22,DEN,LAC,3.02,1,8,59,DEN,DEN,fg_miss,86,False,False,MISS Gordon 2' Turnaround Fadeaway Shot,,6-7,6,7
+0022101083,2022-03-22,DEN,LAC,3.05,1,8,57,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:0 Def:2),6-7,6,7
+0022101083,2022-03-22,DEN,LAC,3.28,1,8,43,LAC,LAC,fg_miss,79,False,False,,MISS Morris Sr. 20' Pullup Jump Shot,6-7,6,7
+0022101083,2022-03-22,DEN,LAC,3.28,1,8,43,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,6-7,6,7
+0022101083,2022-03-22,DEN,LAC,3.48,1,8,31,DEN,LAC,foul,2,False,False,,Zubac S.FOUL (P1.T2) (N.Sago),6-7,6,7
+0022101083,2022-03-22,DEN,LAC,3.48,1,8,31,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (3 PTS),,7-7,7,7
+0022101083,2022-03-22,DEN,LAC,3.48,1,8,31,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (4 PTS),,8-7,8,7
+0022101083,2022-03-22,DEN,LAC,3.67,1,8,20,LAC,LAC,tov,2,False,True,,Coffey Lost Ball Turnover (P1.T3),8-7,8,7
+0022101083,2022-03-22,DEN,LAC,3.67,1,8,20,LAC,DEN,steal,2,False,True,steal,steal,8-7,8,7
+0022101083,2022-03-22,DEN,LAC,3.67,1,8,20,DEN,DEN,fg_make,50,False,False,Jokic 3' Running Dunk (6 PTS) (Barton 1 AST),,10-7,10,7
+0022101083,2022-03-22,DEN,LAC,3.67,1,8,20,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.1 Short 0),10-7,10,7
+0022101083,2022-03-22,DEN,LAC,3.92,1,8,5,LAC,LAC,fg_miss,6,False,False,,MISS Jackson 5' Driving Layup,10-7,10,7
+0022101083,2022-03-22,DEN,LAC,3.95,1,8,3,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,10-7,10,7
+0022101083,2022-03-22,DEN,LAC,4.25,1,7,45,DEN,DEN,fg_miss,57,False,False,MISS Jokic 6' Driving Hook Shot,,10-7,10,7
+0022101083,2022-03-22,DEN,LAC,4.3,1,7,42,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:0),,10-7,10,7
+0022101083,2022-03-22,DEN,LAC,4.3,1,7,42,DEN,DEN,fg_miss,44,True,False,MISS Gordon 4' Reverse Layup,,10-7,10,7
+0022101083,2022-03-22,DEN,LAC,4.3,1,7,42,DEN,LAC,block,44,True,False,block,block,10-7,10,7
+0022101083,2022-03-22,DEN,LAC,4.37,1,7,38,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:3),10-7,10,7
+0022101083,2022-03-22,DEN,LAC,4.55,1,7,27,LAC,LAC,fg_make,1,False,False,,Morris Sr. 19' Jump Shot (6 PTS),10-9,10,9
+0022101083,2022-03-22,DEN,LAC,4.8,1,7,12,DEN,LAC,foul,1,False,False,,Jackson P.FOUL (P1.T3) (E.Malloy),10-9,10,9
+0022101083,2022-03-22,DEN,LAC,4.88,1,7,7,DEN,DEN,fg_miss,79,False,False,MISS Morris 17' Pullup Jump Shot,,10-9,10,9
+0022101083,2022-03-22,DEN,LAC,4.92,1,7,5,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:0 Def:1),10-9,10,9
+0022101083,2022-03-22,DEN,LAC,4.98,1,7,1,LAC,LAC,fg3_make,2,False,False,,Coffey 25' 3PT Running Jump Shot (3 PTS) (Morris Sr. 1 AST),10-12,10,12
+0022101083,2022-03-22,DEN,LAC,5.33,1,6,40,DEN,DEN,fg_make,96,False,False,Jokic 3' Turnaround Bank Hook Shot (8 PTS),,12-12,12,12
+0022101083,2022-03-22,DEN,LAC,5.67,1,6,20,LAC,LAC,fg3_miss,1,False,False,,MISS Coffey 24' 3PT Jump Shot,12-12,12,12
+0022101083,2022-03-22,DEN,LAC,5.75,1,6,15,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:2),,12-12,12,12
+0022101083,2022-03-22,DEN,LAC,5.8,1,6,12,DEN,DEN,fg_make,79,False,False,Barton 21' Pullup Jump Shot (2 PTS),,14-12,14,12
+0022101083,2022-03-22,DEN,LAC,6.02,1,5,59,LAC,LAC,fg3_miss,1,False,False,,MISS Morris Sr. 26' 3PT Jump Shot,14-12,14,12
+0022101083,2022-03-22,DEN,LAC,6.07,1,5,56,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:3),,14-12,14,12
+0022101083,2022-03-22,DEN,LAC,6.15,1,5,51,DEN,LAC,foul,2,False,False,,Jackson S.FOUL (P2.T4) (N.Sago),14-12,14,12
+0022101083,2022-03-22,DEN,LAC,6.15,1,5,51,DEN,DEN,ft_make,11,False,False,Morris Free Throw 1 of 2 (1 PTS),,15-12,15,12
+0022101083,2022-03-22,DEN,LAC,6.15,1,5,51,DEN,DEN,ft_make,12,False,False,Morris Free Throw 2 of 2 (2 PTS),,16-12,16,12
+0022101083,2022-03-22,DEN,LAC,6.28,1,5,43,LAC,LAC,fg_miss,6,True,False,,MISS Coffey 6' Driving Layup,16-12,16,12
+0022101083,2022-03-22,DEN,LAC,6.28,1,5,43,LAC,DEN,block,6,True,False,block,block,16-12,16,12
+0022101083,2022-03-22,DEN,LAC,6.28,1,5,43,LAC,LAC,reb,0,False,False,,Clippers Rebound,16-12,16,12
+0022101083,2022-03-22,DEN,LAC,6.35,1,5,39,DEN,LAC,foul,4,False,False,,Hartenstein OFF.Foul (P1) (B.Forte),16-12,16,12
+0022101083,2022-03-22,DEN,LAC,6.35,1,5,39,LAC,LAC,tov,37,False,False,,Hartenstein Offensive Foul Turnover (P1.T4),16-12,16,12
+0022101083,2022-03-22,DEN,LAC,6.62,1,5,23,DEN,DEN,fg_make,79,False,False,Je. Green 7' Pullup Jump Shot (6 PTS) (Morris 1 AST),,18-12,18,12
+0022101083,2022-03-22,DEN,LAC,6.9,1,5,6,LAC,LAC,fg_miss,78,True,False,,MISS Hartenstein 3' Floating Jump Shot,18-12,18,12
+0022101083,2022-03-22,DEN,LAC,6.9,1,5,6,LAC,DEN,block,78,True,False,block,block,18-12,18,12
+0022101083,2022-03-22,DEN,LAC,6.93,1,5,4,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:1),,18-12,18,12
+0022101083,2022-03-22,DEN,LAC,7.07,1,4,56,DEN,DEN,fg_make,47,False,False,Jokic 5' Turnaround Jump Shot (10 PTS) (Morris 2 AST),,20-12,20,12
+0022101083,2022-03-22,DEN,LAC,7.42,1,4,35,LAC,LAC,fg_make,79,False,False,,Morris Sr. 14' Pullup Jump Shot (8 PTS),20-14,20,14
+0022101083,2022-03-22,DEN,LAC,7.67,1,4,20,DEN,DEN,fg_miss,1,False,False,MISS Morris 17' Jump Shot,,20-14,20,14
+0022101083,2022-03-22,DEN,LAC,7.72,1,4,17,LAC,LAC,reb,0,False,False,,Coffey REBOUND (Off:0 Def:1),20-14,20,14
+0022101083,2022-03-22,DEN,LAC,7.92,1,4,5,LAC,LAC,fg_miss,1,False,False,,MISS Mann 11' Jump Shot,20-14,20,14
+0022101083,2022-03-22,DEN,LAC,7.97,1,4,2,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:4),,20-14,20,14
+0022101083,2022-03-22,DEN,LAC,8.07,1,3,56,DEN,DEN,fg_make,41,False,False,Je. Green 7' Running Layup (8 PTS) (Jokic 3 AST),,22-14,22,14
+0022101083,2022-03-22,DEN,LAC,8.4,1,3,36,LAC,LAC,fg_make,108,False,False,,Mann 1' Cutting Dunk Shot (2 PTS) (Hartenstein 1 AST),22-16,22,16
+0022101083,2022-03-22,DEN,LAC,8.42,1,3,35,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,22-16,22,16
+0022101083,2022-03-22,DEN,LAC,8.82,1,3,11,DEN,DEN,fg_make,86,False,False,Jokic 10' Turnaround Fadeaway (12 PTS) (Hyland 1 AST),,24-16,24,16
+0022101083,2022-03-22,DEN,LAC,9.1,1,2,54,LAC,LAC,fg_make,98,False,False,,Coffey 3' Cutting Layup Shot (5 PTS) (Morris Sr. 2 AST),24-18,24,18
+0022101083,2022-03-22,DEN,LAC,9.1,1,2,54,LAC,DEN,foul,2,False,False,Gordon S.FOUL (P1.T2) (N.Sago),,24-18,24,18
+0022101083,2022-03-22,DEN,LAC,9.1,1,2,54,LAC,LAC,ft_miss,10,False,False,,MISS Coffey Free Throw 1 of 1,24-18,24,18
+0022101083,2022-03-22,DEN,LAC,9.17,1,2,50,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:5),,24-18,24,18
+0022101083,2022-03-22,DEN,LAC,9.23,1,2,46,DEN,LAC,foul,1,False,False,,Hartenstein P.FOUL (P2.PN) (N.Sago),24-18,24,18
+0022101083,2022-03-22,DEN,LAC,9.23,1,2,46,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (13 PTS),,25-18,25,18
+0022101083,2022-03-22,DEN,LAC,9.23,1,2,46,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (14 PTS),,26-18,26,18
+0022101083,2022-03-22,DEN,LAC,9.48,1,2,31,LAC,LAC,fg_make,44,False,False,,Kennard 2' Reverse Layup (2 PTS) (Hartenstein 2 AST),26-20,26,20
+0022101083,2022-03-22,DEN,LAC,9.7,1,2,18,DEN,DEN,fg_miss,47,False,False,MISS Gordon 8' Turnaround Jump Shot,,26-20,26,20
+0022101083,2022-03-22,DEN,LAC,9.75,1,2,15,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:0 Def:1),26-20,26,20
+0022101083,2022-03-22,DEN,LAC,9.83,1,2,10,LAC,DEN,foul,2,False,False,Jokic S.FOUL (P1.T3) (B.Forte),,26-20,26,20
+0022101083,2022-03-22,DEN,LAC,9.83,1,2,10,LAC,LAC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (3 PTS),26-21,26,21
+0022101083,2022-03-22,DEN,LAC,9.83,1,2,10,LAC,LAC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (4 PTS),26-22,26,22
+0022101083,2022-03-22,DEN,LAC,10.1,1,1,54,DEN,DEN,fg3_make,1,False,False,Rivers 24' 3PT Jump Shot (3 PTS) (Hyland 2 AST),,29-22,29,22
+0022101083,2022-03-22,DEN,LAC,10.33,1,1,40,LAC,LAC,fg3_miss,1,False,False,,MISS Mann 26' 3PT Jump Shot,29-22,29,22
+0022101083,2022-03-22,DEN,LAC,10.37,1,1,38,DEN,DEN,reb,0,False,False,Cousins REBOUND (Off:0 Def:1),,29-22,29,22
+0022101083,2022-03-22,DEN,LAC,10.47,1,1,32,DEN,DEN,fg3_make,79,False,False,Hyland 33' 3PT Pullup Jump Shot (3 PTS),,32-22,32,22
+0022101083,2022-03-22,DEN,LAC,10.78,1,1,13,LAC,LAC,fg_miss,79,False,False,,MISS Kennard 18' Pullup Jump Shot,32-22,32,22
+0022101083,2022-03-22,DEN,LAC,10.82,1,1,11,DEN,DEN,reb,0,False,False,Hyland REBOUND (Off:0 Def:1),,32-22,32,22
+0022101083,2022-03-22,DEN,LAC,11.12,1,0,53,DEN,DEN,tov,1,False,True,Cousins Bad Pass Turnover (P1.T1),,32-22,32,22
+0022101083,2022-03-22,DEN,LAC,11.12,1,0,53,DEN,LAC,steal,1,False,True,steal,steal,32-22,32,22
+0022101083,2022-03-22,DEN,LAC,11.15,1,0,51,LAC,DEN,foul,1,False,False,Hyland P.FOUL (P1.T4) (E.Malloy),,32-22,32,22
+0022101083,2022-03-22,DEN,LAC,11.23,1,0,46,LAC,LAC,fg3_make,1,False,False,,Covington 26' 3PT Jump Shot (3 PTS) (Kennard 1 AST),32-25,32,25
+0022101083,2022-03-22,DEN,LAC,11.53,1,0,28,DEN,DEN,fg_make,101,False,False,Hyland 11' Driving Floating Jump Shot (5 PTS),,34-25,34,25
+0022101083,2022-03-22,DEN,LAC,11.83,1,0,10,LAC,DEN,foul,2,False,False,Hyland S.FOUL (P2.PN) (B.Forte),,34-25,34,25
+0022101083,2022-03-22,DEN,LAC,11.83,1,0,10,LAC,LAC,ft_make,11,False,False,,Covington Free Throw 1 of 2 (4 PTS),34-26,34,26
+0022101083,2022-03-22,DEN,LAC,11.83,1,0,10,LAC,LAC,ft_make,12,False,False,,Covington Free Throw 2 of 2 (5 PTS),34-27,34,27
+0022101083,2022-03-22,DEN,LAC,11.98,1,0,1,DEN,DEN,fg3_make,80,False,False,Hyland 27' 3PT Step Back Jump Shot (8 PTS),,37-27,37,27
+0022101083,2022-03-22,DEN,LAC,12.0,1,0,0,DEN,,period_end,0,False,False,,,37-27,37,27
+0022101083,2022-03-22,DEN,LAC,12.0,2,12,0,DEN,,period_start,0,False,False,,,37-27,37,27
+0022101083,2022-03-22,DEN,LAC,12.13,2,11,52,DEN,DEN,fg_make,1,False,False,Cousins 20' Jump Shot (2 PTS) (Forbes 1 AST),,39-27,39,27
+0022101083,2022-03-22,DEN,LAC,12.42,2,11,35,LAC,DEN,foul,2,False,False,Rivers S.FOUL (P1.T1) (E.Malloy),,39-27,39,27
+0022101083,2022-03-22,DEN,LAC,12.42,2,11,35,LAC,LAC,ft_make,11,False,False,,Hartenstein Free Throw 1 of 2 (1 PTS),39-28,39,28
+0022101083,2022-03-22,DEN,LAC,12.42,2,11,35,LAC,LAC,ft_make,12,False,False,,Hartenstein Free Throw 2 of 2 (2 PTS),39-29,39,29
+0022101083,2022-03-22,DEN,LAC,12.63,2,11,22,DEN,LAC,foul,2,False,False,,Kennard S.FOUL (P1.T1) (E.Malloy),39-29,39,29
+0022101083,2022-03-22,DEN,LAC,12.63,2,11,22,DEN,DEN,ft_make,11,False,False,Ja. Green Free Throw 1 of 2 (1 PTS),,40-29,40,29
+0022101083,2022-03-22,DEN,LAC,12.63,2,11,22,DEN,DEN,ft_make,12,False,False,Ja. Green Free Throw 2 of 2 (2 PTS),,41-29,41,29
+0022101083,2022-03-22,DEN,LAC,12.85,2,11,9,LAC,LAC,fg_make,108,False,False,,Mann 2' Cutting Dunk Shot (6 PTS) (Hartenstein 3 AST),41-31,41,31
+0022101083,2022-03-22,DEN,LAC,13.02,2,10,59,LAC,DEN,foul,26,False,False,Cousins Offensive Charge Foul (P1) (N.Sago),,41-31,41,31
+0022101083,2022-03-22,DEN,LAC,13.02,2,10,59,DEN,DEN,tov,37,False,False,Cousins Offensive Foul Turnover (P2.T2),,41-31,41,31
+0022101083,2022-03-22,DEN,LAC,13.25,2,10,45,LAC,LAC,fg3_miss,1,False,False,,MISS Kennard 25' 3PT Jump Shot,41-31,41,31
+0022101083,2022-03-22,DEN,LAC,13.25,2,10,45,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,41-31,41,31
+0022101083,2022-03-22,DEN,LAC,13.37,2,10,38,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 31' 3PT Jump Shot,,41-31,41,31
+0022101083,2022-03-22,DEN,LAC,13.43,2,10,34,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:1),41-31,41,31
+0022101083,2022-03-22,DEN,LAC,13.65,2,10,21,LAC,LAC,fg3_make,1,False,False,,Covington 25' 3PT Jump Shot (8 PTS) (Mann 1 AST),41-34,41,34
+0022101083,2022-03-22,DEN,LAC,14.02,2,9,59,DEN,DEN,fg_miss,5,False,False,MISS Ja. Green 3' Layup,,41-34,41,34
+0022101083,2022-03-22,DEN,LAC,14.03,2,9,58,DEN,DEN,reb,0,False,False,Cousins REBOUND (Off:1 Def:1),,41-34,41,34
+0022101083,2022-03-22,DEN,LAC,14.13,2,9,52,DEN,DEN,fg3_make,1,False,False,Forbes 26' 3PT Jump Shot (3 PTS) (Rivers 1 AST),,44-34,44,34
+0022101083,2022-03-22,DEN,LAC,14.13,2,9,52,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.2 Short 0),44-34,44,34
+0022101083,2022-03-22,DEN,LAC,14.27,2,9,44,LAC,LAC,fg3_miss,1,False,False,,MISS Kennard 27' 3PT Jump Shot,44-34,44,34
+0022101083,2022-03-22,DEN,LAC,14.32,2,9,41,DEN,DEN,reb,0,False,False,Cousins REBOUND (Off:1 Def:2),,44-34,44,34
+0022101083,2022-03-22,DEN,LAC,14.47,2,9,32,DEN,DEN,fg_make,9,False,False,Cousins 3' Driving Dunk (4 PTS) (Rivers 2 AST),,46-34,46,34
+0022101083,2022-03-22,DEN,LAC,14.72,2,9,17,LAC,LAC,fg_make,79,False,False,,Jackson 5' Pullup Jump Shot (2 PTS),46-36,46,36
+0022101083,2022-03-22,DEN,LAC,14.95,2,9,3,DEN,DEN,fg3_miss,1,False,False,MISS Cousins 26' 3PT Jump Shot,,46-36,46,36
+0022101083,2022-03-22,DEN,LAC,15.02,2,8,59,LAC,LAC,reb,0,False,False,,Boston Jr. REBOUND (Off:0 Def:1),46-36,46,36
+0022101083,2022-03-22,DEN,LAC,15.2,2,8,48,LAC,LAC,fg_make,6,False,False,,Jackson 3' Driving Layup (4 PTS) (Covington 1 AST),46-38,46,38
+0022101083,2022-03-22,DEN,LAC,15.43,2,8,34,DEN,LAC,foul,1,False,False,,Covington P.FOUL (P1.T2) (E.Malloy),46-38,46,38
+0022101083,2022-03-22,DEN,LAC,15.65,2,8,21,DEN,DEN,fg_make,75,False,False,Hyland 2' Driving Finger Roll Layup (10 PTS),,48-38,48,38
+0022101083,2022-03-22,DEN,LAC,16.03,2,7,58,LAC,LAC,fg_make,86,False,False,,Boston Jr. 8' Turnaround Fadeaway (2 PTS),48-40,48,40
+0022101083,2022-03-22,DEN,LAC,16.35,2,7,39,DEN,LAC,foul,1,False,False,,Jackson P.FOUL (P3.T3) (B.Forte),48-40,48,40
+0022101083,2022-03-22,DEN,LAC,16.35,2,7,39,DEN,,foul,16,False,False,,,48-40,48,40
+0022101083,2022-03-22,DEN,LAC,16.57,2,7,26,DEN,DEN,fg3_make,1,False,False,Rivers 3PT Jump Shot (6 PTS) (Cousins 1 AST),,51-40,51,40
+0022101083,2022-03-22,DEN,LAC,16.77,2,7,14,LAC,DEN,violation,5,False,False,Rivers Violation:Kicked Ball (B.Forte),,51-40,51,40
+0022101083,2022-03-22,DEN,LAC,16.87,2,7,8,LAC,LAC,fg_make,5,False,False,,Mann 4' Layup (8 PTS) (Covington 2 AST),51-42,51,42
+0022101083,2022-03-22,DEN,LAC,16.87,2,7,8,LAC,DEN,foul,2,False,False,Ja. Green S.FOUL (P1.T2) (E.Malloy),,51-42,51,42
+0022101083,2022-03-22,DEN,LAC,16.87,2,7,8,LAC,LAC,ft_make,10,False,False,,Mann Free Throw 1 of 1 (9 PTS),51-43,51,43
+0022101083,2022-03-22,DEN,LAC,17.15,2,6,51,DEN,DEN,tov,45,False,False,Hyland Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,51-43,51,43
+0022101083,2022-03-22,DEN,LAC,17.53,2,6,28,LAC,LAC,fg3_make,1,False,False,,Batum 27' 3PT Jump Shot (6 PTS) (Mann 2 AST),51-46,51,46
+0022101083,2022-03-22,DEN,LAC,17.68,2,6,19,DEN,DEN,fg3_miss,1,False,False,MISS Rivers 26' 3PT Jump Shot,,51-46,51,46
+0022101083,2022-03-22,DEN,LAC,17.73,2,6,16,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:0 Def:2),51-46,51,46
+0022101083,2022-03-22,DEN,LAC,17.95,2,6,3,LAC,LAC,fg_make,73,False,False,,Jackson 3' Driving Reverse Layup (6 PTS),51-48,51,48
+0022101083,2022-03-22,DEN,LAC,17.95,2,6,3,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,51-48,51,48
+0022101083,2022-03-22,DEN,LAC,18.32,2,5,41,DEN,LAC,foul,2,False,False,,Covington S.FOUL (P2.T4) (N.Sago),51-48,51,48
+0022101083,2022-03-22,DEN,LAC,18.32,2,5,41,DEN,DEN,ft_make,13,False,False,Gordon Free Throw 1 of 3 (1 PTS),,52-48,52,48
+0022101083,2022-03-22,DEN,LAC,18.32,2,5,41,DEN,DEN,ft_make,14,False,False,Gordon Free Throw 2 of 3 (2 PTS),,53-48,53,48
+0022101083,2022-03-22,DEN,LAC,18.32,2,5,41,DEN,LAC,foul,11,False,False,,Covington T.FOUL (P2.T4) (B.Forte),53-48,53,48
+0022101083,2022-03-22,DEN,LAC,18.32,2,5,41,DEN,DEN,ft_make,16,False,False,Jokic Free Throw Technical (15 PTS),,54-48,54,48
+0022101083,2022-03-22,DEN,LAC,18.32,2,5,41,DEN,DEN,ft_make,15,False,False,Gordon Free Throw 3 of 3 (3 PTS),,55-48,55,48
+0022101083,2022-03-22,DEN,LAC,18.57,2,5,26,LAC,LAC,fg_make,79,False,False,,Jackson 18' Pullup Jump Shot (8 PTS),55-50,55,50
+0022101083,2022-03-22,DEN,LAC,18.77,2,5,14,DEN,DEN,fg_make,73,False,False,Gordon 4' Driving Reverse Layup (5 PTS),,57-50,57,50
+0022101083,2022-03-22,DEN,LAC,18.93,2,5,4,LAC,DEN,foul,2,False,False,Jokic S.FOUL (P2.T3) (N.Sago),,57-50,57,50
+0022101083,2022-03-22,DEN,LAC,18.93,2,5,4,LAC,LAC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (10 PTS),57-51,57,51
+0022101083,2022-03-22,DEN,LAC,18.93,2,5,4,LAC,LAC,ft_miss,12,False,False,,MISS Mann Free Throw 2 of 2,57-51,57,51
+0022101083,2022-03-22,DEN,LAC,18.98,2,5,1,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:2),,57-51,57,51
+0022101083,2022-03-22,DEN,LAC,19.28,2,4,43,DEN,DEN,tov,40,False,False,Je. Green Out of Bounds Lost Ball Turnover (P1.T4),,57-51,57,51
+0022101083,2022-03-22,DEN,LAC,19.65,2,4,21,LAC,LAC,fg3_miss,1,False,False,,MISS Morris Sr. 27' 3PT Jump Shot,57-51,57,51
+0022101083,2022-03-22,DEN,LAC,19.7,2,4,18,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:1 Def:2),57-51,57,51
+0022101083,2022-03-22,DEN,LAC,19.8,2,4,12,LAC,LAC,fg3_miss,80,False,False,,MISS Jackson 3PT Step Back Jump Shot,57-51,57,51
+0022101083,2022-03-22,DEN,LAC,19.87,2,4,8,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:2),,57-51,57,51
+0022101083,2022-03-22,DEN,LAC,19.92,2,4,5,DEN,LAC,foul,1,False,False,,Batum P.FOUL (P2.PN) (B.Forte),57-51,57,51
+0022101083,2022-03-22,DEN,LAC,19.92,2,4,5,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (16 PTS),,58-51,58,51
+0022101083,2022-03-22,DEN,LAC,19.92,2,4,5,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (17 PTS),,59-51,59,51
+0022101083,2022-03-22,DEN,LAC,20.13,2,3,52,LAC,LAC,fg_miss,101,False,False,,MISS Jackson 9' Driving Floating Jump Shot,59-51,59,51
+0022101083,2022-03-22,DEN,LAC,20.17,2,3,50,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:3),,59-51,59,51
+0022101083,2022-03-22,DEN,LAC,20.23,2,3,46,DEN,DEN,fg3_make,1,False,False,Barton 27' 3PT Jump Shot (5 PTS) (Morris 3 AST),,62-51,62,51
+0022101083,2022-03-22,DEN,LAC,20.52,2,3,29,LAC,DEN,foul,17,False,False,NUGGETS T.Foul (Def. 3 Sec Jokic ) (E.Malloy),,62-51,62,51
+0022101083,2022-03-22,DEN,LAC,20.52,2,3,29,LAC,LAC,ft_make,16,False,False,,Morris Sr. Free Throw Technical (9 PTS),62-52,62,52
+0022101083,2022-03-22,DEN,LAC,20.7,2,3,18,LAC,LAC,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,20.75,2,3,15,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:1 Def:1),62-52,62,52
+0022101083,2022-03-22,DEN,LAC,20.77,2,3,14,LAC,LAC,fg_miss,1,False,False,,MISS Morris Sr. 3' Jump Shot,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,20.82,2,3,11,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:6),,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,20.88,2,3,7,DEN,DEN,fg3_miss,1,False,False,MISS Gordon 26' 3PT Jump Shot,,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,20.93,2,3,4,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:1 Def:3),62-52,62,52
+0022101083,2022-03-22,DEN,LAC,21.03,2,2,58,LAC,LAC,fg3_miss,1,False,False,,MISS Batum 27' 3PT Jump Shot,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,21.07,2,2,56,DEN,DEN,reb,0,False,False,Je. Green REBOUND (Off:0 Def:1),,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,21.08,2,2,55,DEN,DEN,tov,2,False,False,Barton Lost Ball Turnover (P1.T5),,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,21.38,2,2,37,LAC,LAC,fg3_miss,1,False,False,,MISS Morris Sr. 24' 3PT Jump Shot,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,21.43,2,2,34,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:3),,62-52,62,52
+0022101083,2022-03-22,DEN,LAC,21.52,2,2,29,DEN,DEN,fg_make,101,False,False,Morris 7' Driving Floating Jump Shot (4 PTS) (Gordon 2 AST),,64-52,64,52
+0022101083,2022-03-22,DEN,LAC,21.92,2,2,5,LAC,LAC,fg_make,58,False,False,,Zubac 4' Turnaround Hook Shot (2 PTS) (Batum 2 AST),64-54,64,54
+0022101083,2022-03-22,DEN,LAC,22.12,2,1,53,DEN,DEN,fg_make,79,False,False,Morris 19' Pullup Jump Shot (6 PTS),,66-54,66,54
+0022101083,2022-03-22,DEN,LAC,22.47,2,1,32,LAC,LAC,fg3_miss,1,False,False,,MISS Morris Sr. 26' 3PT Jump Shot,66-54,66,54
+0022101083,2022-03-22,DEN,LAC,22.52,2,1,29,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:4),,66-54,66,54
+0022101083,2022-03-22,DEN,LAC,22.78,2,1,13,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 26' 3PT Jump Shot,,66-54,66,54
+0022101083,2022-03-22,DEN,LAC,22.83,2,1,10,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:0 Def:3),66-54,66,54
+0022101083,2022-03-22,DEN,LAC,22.92,2,1,5,LAC,LAC,fg_make,41,False,False,,Mann 4' Running Layup (12 PTS),66-56,66,56
+0022101083,2022-03-22,DEN,LAC,23.08,2,0,55,DEN,DEN,fg3_make,1,False,False,Morris 25' 3PT Jump Shot (9 PTS) (Gordon 3 AST),,69-56,69,56
+0022101083,2022-03-22,DEN,LAC,23.18,2,0,49,LAC,LAC,fg3_make,1,False,False,,Kennard 26' 3PT Jump Shot (5 PTS) (Mann 3 AST),69-59,69,59
+0022101083,2022-03-22,DEN,LAC,23.48,2,0,31,DEN,DEN,fg3_make,1,False,False,Morris 27' 3PT Jump Shot (12 PTS) (Gordon 4 AST),,72-59,72,59
+0022101083,2022-03-22,DEN,LAC,23.92,2,0,5,LAC,LAC,fg_make,101,False,False,,Morris Sr. 16' Driving Floating Jump Shot (11 PTS),72-61,72,61
+0022101083,2022-03-22,DEN,LAC,23.98,2,0,1,DEN,DEN,fg_miss,75,False,False,MISS Barton 5' Driving Finger Roll Layup,,72-61,72,61
+0022101083,2022-03-22,DEN,LAC,23.98,2,0,1,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,72-61,72,61
+0022101083,2022-03-22,DEN,LAC,24.0,2,0,0,DEN,,period_end,0,False,False,,,72-61,72,61
+0022101083,2022-03-22,DEN,LAC,24.0,3,12,0,DEN,,period_start,0,False,False,,,72-61,72,61
+0022101083,2022-03-22,DEN,LAC,24.25,3,11,45,DEN,DEN,fg_make,1,False,False,Jokic 18' Jump Shot (19 PTS) (Je. Green 1 AST),,74-61,74,61
+0022101083,2022-03-22,DEN,LAC,24.52,3,11,29,LAC,LAC,fg3_make,80,False,False,,Batum 25' 3PT Step Back Jump Shot (9 PTS) (Zubac 1 AST),74-64,74,64
+0022101083,2022-03-22,DEN,LAC,24.78,3,11,13,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 26' 3PT Jump Shot,,74-64,74,64
+0022101083,2022-03-22,DEN,LAC,24.82,3,11,11,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:1 Def:4),74-64,74,64
+0022101083,2022-03-22,DEN,LAC,24.92,3,11,5,LAC,LAC,fg_miss,101,False,False,,MISS Jackson 12' Driving Floating Jump Shot,74-64,74,64
+0022101083,2022-03-22,DEN,LAC,24.97,3,11,2,DEN,DEN,reb,0,False,False,Je. Green REBOUND (Off:0 Def:2),,74-64,74,64
+0022101083,2022-03-22,DEN,LAC,25.32,3,10,41,DEN,DEN,fg_miss,63,False,False,MISS Jokic 11' Fadeaway Jumper,,74-64,74,64
+0022101083,2022-03-22,DEN,LAC,25.35,3,10,39,LAC,LAC,reb,0,False,False,,Coffey REBOUND (Off:0 Def:2),74-64,74,64
+0022101083,2022-03-22,DEN,LAC,25.53,3,10,28,LAC,DEN,foul,2,False,False,Morris S.FOUL (P1.T1) (B.Forte),,74-64,74,64
+0022101083,2022-03-22,DEN,LAC,25.53,3,10,28,LAC,LAC,ft_make,11,False,False,,Coffey Free Throw 1 of 2 (6 PTS),74-65,74,65
+0022101083,2022-03-22,DEN,LAC,25.53,3,10,28,LAC,LAC,ft_miss,12,False,False,,MISS Coffey Free Throw 2 of 2,74-65,74,65
+0022101083,2022-03-22,DEN,LAC,25.57,3,10,26,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:7),,74-65,74,65
+0022101083,2022-03-22,DEN,LAC,25.93,3,10,4,DEN,DEN,fg_miss,86,False,False,MISS Je. Green 21' Turnaround Fadeaway Shot,,74-65,74,65
+0022101083,2022-03-22,DEN,LAC,25.93,3,10,4,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,74-65,74,65
+0022101083,2022-03-22,DEN,LAC,25.93,3,10,4,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#6),,74-65,74,65
+0022101083,2022-03-22,DEN,LAC,26.1,3,9,54,LAC,DEN,foul,2,False,False,Jokic S.FOUL (P3.T2) (E.Malloy),,74-65,74,65
+0022101083,2022-03-22,DEN,LAC,26.1,3,9,54,LAC,LAC,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (9 PTS),74-66,74,66
+0022101083,2022-03-22,DEN,LAC,26.1,3,9,54,LAC,LAC,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (10 PTS),74-67,74,67
+0022101083,2022-03-22,DEN,LAC,26.25,3,9,45,DEN,LAC,foul,1,False,False,,Zubac P.FOUL (P2.T1) (E.Malloy),74-67,74,67
+0022101083,2022-03-22,DEN,LAC,26.38,3,9,37,DEN,DEN,fg_miss,58,False,False,MISS Je. Green 7' Turnaround Hook Shot,,74-67,74,67
+0022101083,2022-03-22,DEN,LAC,26.42,3,9,35,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:1 Def:2),74-67,74,67
+0022101083,2022-03-22,DEN,LAC,26.57,3,9,26,LAC,LAC,fg_make,75,False,False,,Morris Sr. 2' Driving Finger Roll Layup (13 PTS) (Jackson 1 AST),74-69,74,69
+0022101083,2022-03-22,DEN,LAC,26.68,3,9,19,DEN,LAC,foul,1,False,False,,Coffey P.FOUL (P1.T2) (B.Forte),74-69,74,69
+0022101083,2022-03-22,DEN,LAC,26.92,3,9,5,DEN,DEN,fg3_make,80,False,False,Gordon 3PT Step Back Jump Shot (8 PTS) (Je. Green 2 AST),,77-69,77,69
+0022101083,2022-03-22,DEN,LAC,27.17,3,8,50,LAC,LAC,fg_miss,79,False,False,,MISS Jackson 13' Pullup Jump Shot,77-69,77,69
+0022101083,2022-03-22,DEN,LAC,27.23,3,8,46,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:8),,77-69,77,69
+0022101083,2022-03-22,DEN,LAC,27.28,3,8,43,DEN,DEN,fg3_miss,1,False,False,MISS Barton 25' 3PT Jump Shot,,77-69,77,69
+0022101083,2022-03-22,DEN,LAC,27.33,3,8,40,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:4),77-69,77,69
+0022101083,2022-03-22,DEN,LAC,27.33,3,8,40,LAC,LAC,tov,4,False,False,,Zubac Traveling Turnover (P1.T5),77-69,77,69
+0022101083,2022-03-22,DEN,LAC,27.47,3,8,32,DEN,DEN,fg_make,1,False,False,Gordon 19' Jump Shot (10 PTS),,79-69,79,69
+0022101083,2022-03-22,DEN,LAC,27.9,3,8,6,LAC,LAC,fg_miss,80,False,False,,MISS Coffey 11' Step Back Jump Shot,79-69,79,69
+0022101083,2022-03-22,DEN,LAC,27.97,3,8,2,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:2),,79-69,79,69
+0022101083,2022-03-22,DEN,LAC,28.02,3,7,59,DEN,DEN,fg_make,41,False,False,Jokic 5' Running Layup (21 PTS) (Barton 2 AST),,81-69,81,69
+0022101083,2022-03-22,DEN,LAC,28.25,3,7,45,LAC,LAC,fg3_miss,80,False,False,,MISS Morris Sr. 25' 3PT Step Back Jump Shot,81-69,81,69
+0022101083,2022-03-22,DEN,LAC,28.3,3,7,42,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:3),,81-69,81,69
+0022101083,2022-03-22,DEN,LAC,28.33,3,7,40,DEN,DEN,tov,45,False,False,Barton Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,81-69,81,69
+0022101083,2022-03-22,DEN,LAC,28.63,3,7,22,LAC,LAC,fg_make,78,False,False,,Zubac 10' Floating Jump Shot (4 PTS) (Jackson 2 AST),81-71,81,71
+0022101083,2022-03-22,DEN,LAC,28.9,3,7,6,DEN,DEN,fg_make,79,False,False,Barton 18' Pullup Jump Shot (7 PTS) (Jokic 4 AST),,83-71,83,71
+0022101083,2022-03-22,DEN,LAC,29.18,3,6,49,LAC,LAC,fg_miss,78,False,False,,MISS Zubac 15' Floating Jump Shot,83-71,83,71
+0022101083,2022-03-22,DEN,LAC,29.22,3,6,47,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:9),,83-71,83,71
+0022101083,2022-03-22,DEN,LAC,29.35,3,6,39,DEN,DEN,fg_make,108,False,False,Je. Green 2' Cutting Dunk Shot (10 PTS) (Jokic 5 AST),,85-71,85,71
+0022101083,2022-03-22,DEN,LAC,29.62,3,6,23,LAC,LAC,fg3_miss,1,False,False,,MISS Batum 25' 3PT Jump Shot,85-71,85,71
+0022101083,2022-03-22,DEN,LAC,29.65,3,6,21,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:10),,85-71,85,71
+0022101083,2022-03-22,DEN,LAC,29.77,3,6,14,DEN,DEN,fg3_miss,1,False,False,MISS Je. Green 24' 3PT Jump Shot,,85-71,85,71
+0022101083,2022-03-22,DEN,LAC,29.82,3,6,11,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:5),85-71,85,71
+0022101083,2022-03-22,DEN,LAC,29.98,3,6,1,LAC,LAC,fg_make,7,False,False,,Zubac 2' Dunk (6 PTS) (Morris Sr. 3 AST),85-73,85,73
+0022101083,2022-03-22,DEN,LAC,30.22,3,5,47,DEN,DEN,fg_miss,1,False,False,MISS Morris 22' Jump Shot,,85-73,85,73
+0022101083,2022-03-22,DEN,LAC,30.25,3,5,45,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),85-73,85,73
+0022101083,2022-03-22,DEN,LAC,30.37,3,5,38,LAC,LAC,fg_miss,58,False,False,,MISS Jackson 4' Turnaround Hook Shot,85-73,85,73
+0022101083,2022-03-22,DEN,LAC,30.43,3,5,34,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:11),,85-73,85,73
+0022101083,2022-03-22,DEN,LAC,30.47,3,5,32,DEN,LAC,foul,2,False,False,,Batum S.FOUL (P3.T3) (N.Sago),85-73,85,73
+0022101083,2022-03-22,DEN,LAC,30.47,3,5,32,DEN,DEN,ft_make,11,False,False,Gordon Free Throw 1 of 2 (11 PTS),,86-73,86,73
+0022101083,2022-03-22,DEN,LAC,30.47,3,5,32,DEN,DEN,ft_make,12,False,False,Gordon Free Throw 2 of 2 (12 PTS),,87-73,87,73
+0022101083,2022-03-22,DEN,LAC,30.7,3,5,18,LAC,LAC,fg_miss,101,False,False,,MISS Jackson 13' Driving Floating Jump Shot,87-73,87,73
+0022101083,2022-03-22,DEN,LAC,30.7,3,5,18,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:12),,87-73,87,73
+0022101083,2022-03-22,DEN,LAC,30.7,3,5,18,,DEN,jump_ball,0,False,False,Jump Ball Jokic vs. Jackson: Tip to Gordon,,87-73,87,73
+0022101083,2022-03-22,DEN,LAC,30.92,3,5,5,DEN,DEN,fg_miss,99,True,False,MISS Jokic 4' Cutting Finger Roll Layup Shot,,87-73,87,73
+0022101083,2022-03-22,DEN,LAC,30.92,3,5,5,DEN,LAC,block,99,True,False,block,block,87-73,87,73
+0022101083,2022-03-22,DEN,LAC,30.97,3,5,2,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:0 Def:4),87-73,87,73
+0022101083,2022-03-22,DEN,LAC,30.98,3,5,1,LAC,LAC,fg_make,101,False,False,,Mann 2' Driving Floating Jump Shot (14 PTS),87-75,87,75
+0022101083,2022-03-22,DEN,LAC,31.35,3,4,39,DEN,LAC,foul,2,False,False,,Zubac S.FOUL (P3.T4) (B.Forte),87-75,87,75
+0022101083,2022-03-22,DEN,LAC,31.35,3,4,39,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (22 PTS),,88-75,88,75
+0022101083,2022-03-22,DEN,LAC,31.35,3,4,39,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (23 PTS),,89-75,89,75
+0022101083,2022-03-22,DEN,LAC,31.65,3,4,21,LAC,LAC,fg_miss,79,False,False,,MISS Morris Sr. 18' Pullup Jump Shot,89-75,89,75
+0022101083,2022-03-22,DEN,LAC,31.7,3,4,18,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,89-75,89,75
+0022101083,2022-03-22,DEN,LAC,32.03,3,3,58,DEN,DEN,fg_miss,1,False,False,MISS Jokic 8' Jump Shot,,89-75,89,75
+0022101083,2022-03-22,DEN,LAC,32.13,3,3,52,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:0 Def:5),89-75,89,75
+0022101083,2022-03-22,DEN,LAC,32.17,3,3,50,LAC,DEN,foul,2,False,False,Ja. Green S.FOUL (P2.T3) (B.Forte),,89-75,89,75
+0022101083,2022-03-22,DEN,LAC,32.17,3,3,50,LAC,LAC,ft_miss,11,False,False,,MISS Mann Free Throw 1 of 2,89-75,89,75
+0022101083,2022-03-22,DEN,LAC,32.17,3,3,50,LAC,LAC,reb,1,False,False,,Clippers Rebound,89-75,89,75
+0022101083,2022-03-22,DEN,LAC,32.17,3,3,50,LAC,LAC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (15 PTS),89-76,89,76
+0022101083,2022-03-22,DEN,LAC,32.33,3,3,40,DEN,LAC,violation,5,False,False,,Kicked Ball,89-76,89,76
+0022101083,2022-03-22,DEN,LAC,32.47,3,3,32,DEN,DEN,tov,1,False,True,Hyland Bad Pass Turnover (P2.T8),,89-76,89,76
+0022101083,2022-03-22,DEN,LAC,32.47,3,3,32,DEN,LAC,steal,1,False,True,steal,steal,89-76,89,76
+0022101083,2022-03-22,DEN,LAC,32.58,3,3,25,LAC,LAC,fg_make,52,False,False,,Hartenstein 1' Alley Oop Dunk (4 PTS) (Jackson 3 AST),89-78,89,78
+0022101083,2022-03-22,DEN,LAC,32.83,3,3,10,DEN,LAC,foul,1,False,False,,Hartenstein P.FOUL (P3.PN) (E.Malloy),89-78,89,78
+0022101083,2022-03-22,DEN,LAC,32.83,3,3,10,DEN,DEN,ft_miss,11,False,False,MISS Jokic Free Throw 1 of 2,,89-78,89,78
+0022101083,2022-03-22,DEN,LAC,32.83,3,3,10,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,89-78,89,78
+0022101083,2022-03-22,DEN,LAC,32.83,3,3,10,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (24 PTS),,90-78,90,78
+0022101083,2022-03-22,DEN,LAC,33.02,3,2,59,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 3 Short 0),,90-78,90,78
+0022101083,2022-03-22,DEN,LAC,33.08,3,2,55,LAC,LAC,fg3_miss,63,False,False,,MISS Kennard 3PT Fadeaway Jumper,90-78,90,78
+0022101083,2022-03-22,DEN,LAC,33.12,3,2,53,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:1 Def:5),90-78,90,78
+0022101083,2022-03-22,DEN,LAC,33.15,3,2,51,LAC,LAC,fg_make,72,False,False,,Mann 1' Putback Layup (17 PTS),90-80,90,80
+0022101083,2022-03-22,DEN,LAC,33.48,3,2,31,DEN,DEN,fg_miss,1,False,False,MISS Ja. Green 5' Jump Shot,,90-80,90,80
+0022101083,2022-03-22,DEN,LAC,33.53,3,2,28,LAC,LAC,reb,0,False,False,,Kennard REBOUND (Off:0 Def:1),90-80,90,80
+0022101083,2022-03-22,DEN,LAC,33.67,3,2,20,LAC,LAC,fg_make,86,False,False,,Boston Jr. 17' Turnaround Fadeaway (4 PTS) (Hartenstein 4 AST),90-82,90,82
+0022101083,2022-03-22,DEN,LAC,34.03,3,1,58,DEN,DEN,fg_make,99,False,False,Jokic 2' Cutting Finger Roll Layup Shot (26 PTS) (Rivers 3 AST),,92-82,92,82
+0022101083,2022-03-22,DEN,LAC,34.28,3,1,43,LAC,DEN,foul,2,False,False,Hyland S.FOUL (P3.T4) (E.Malloy),,92-82,92,82
+0022101083,2022-03-22,DEN,LAC,34.28,3,1,43,LAC,LAC,ft_miss,11,False,False,,MISS Morris Sr. Free Throw 1 of 2,92-82,92,82
+0022101083,2022-03-22,DEN,LAC,34.28,3,1,43,LAC,LAC,reb,1,False,False,,Clippers Rebound,92-82,92,82
+0022101083,2022-03-22,DEN,LAC,34.28,3,1,43,LAC,LAC,ft_make,12,False,False,,Morris Sr. Free Throw 2 of 2 (14 PTS),92-83,92,83
+0022101083,2022-03-22,DEN,LAC,34.68,3,1,19,DEN,DEN,fg_make,6,False,False,Cousins 4' Driving Layup (6 PTS) (Forbes 2 AST),,94-83,94,83
+0022101083,2022-03-22,DEN,LAC,34.98,3,1,1,LAC,LAC,fg_make,6,False,False,,Mann 10' Driving Layup (19 PTS) (Hartenstein 5 AST),94-85,94,85
+0022101083,2022-03-22,DEN,LAC,34.98,3,1,1,LAC,DEN,foul,2,False,False,Rivers S.FOUL (P2.PN) (B.Forte),,94-85,94,85
+0022101083,2022-03-22,DEN,LAC,34.98,3,1,1,LAC,LAC,ft_make,10,False,False,,Mann Free Throw 1 of 1 (20 PTS),94-86,94,86
+0022101083,2022-03-22,DEN,LAC,35.2,3,0,48,DEN,DEN,fg3_make,79,False,False,Hyland 31' 3PT Pullup Jump Shot (13 PTS),,97-86,97,86
+0022101083,2022-03-22,DEN,LAC,35.38,3,0,37,LAC,LAC,fg3_miss,1,False,False,,MISS Morris Sr. 25' 3PT Jump Shot,97-86,97,86
+0022101083,2022-03-22,DEN,LAC,35.4,3,0,36,LAC,LAC,reb,0,False,False,,Clippers Rebound,97-86,97,86
+0022101083,2022-03-22,DEN,LAC,35.4,3,0,36,LAC,DEN,foul,3,False,False,Cousins L.B.FOUL (P2.PN) (N.Sago),,97-86,97,86
+0022101083,2022-03-22,DEN,LAC,35.4,3,0,36,LAC,LAC,ft_make,11,False,False,,Hartenstein Free Throw 1 of 2 (5 PTS),97-87,97,87
+0022101083,2022-03-22,DEN,LAC,35.4,3,0,36,LAC,LAC,ft_make,12,False,False,,Hartenstein Free Throw 2 of 2 (6 PTS),97-88,97,88
+0022101083,2022-03-22,DEN,LAC,35.68,3,0,19,DEN,DEN,fg_make,101,False,False,Rivers 10' Driving Floating Jump Shot (8 PTS),,99-88,99,88
+0022101083,2022-03-22,DEN,LAC,36.0,3,0,0,LAC,LAC,fg_miss,6,False,False,,MISS Morris Sr. 4' Driving Layup,99-88,99,88
+0022101083,2022-03-22,DEN,LAC,36.0,3,0,0,DEN,DEN,reb,0,False,False,Ja. Green REBOUND (Off:0 Def:1),,99-88,99,88
+0022101083,2022-03-22,DEN,LAC,36.0,3,0,0,DEN,,period_end,0,False,False,,,99-88,99,88
+0022101083,2022-03-22,DEN,LAC,36.0,3,0,0,DEN,DEN,fg3_miss,1,False,False,MISS Ja. Green 81' 3PT Jump Shot,,99-88,99,88
+0022101083,2022-03-22,DEN,LAC,36.0,3,0,0,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,99-88,99,88
+0022101083,2022-03-22,DEN,LAC,36.0,4,12,0,DEN,,period_start,0,False,False,,,99-88,99,88
+0022101083,2022-03-22,DEN,LAC,36.28,4,11,43,LAC,LAC,fg3_make,80,False,False,,Kennard 26' 3PT Step Back Jump Shot (8 PTS) (Boston Jr. 1 AST),99-91,99,91
+0022101083,2022-03-22,DEN,LAC,36.67,4,11,20,DEN,DEN,fg3_miss,1,False,False,MISS Hyland 29' 3PT Jump Shot,,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,36.68,4,11,19,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:2),99-91,99,91
+0022101083,2022-03-22,DEN,LAC,36.93,4,11,4,LAC,LAC,fg_miss,5,True,False,,MISS Kennard 4' Layup,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,36.93,4,11,4,LAC,DEN,block,5,True,False,block,block,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,36.93,4,11,4,DEN,DEN,reb,0,False,False,Rivers REBOUND (Off:0 Def:1),,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,36.93,4,11,4,DEN,LAC,foul,28,False,False,,Covington Personal Take Foul (P3.T1) (E.Malloy),99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.2,4,10,48,DEN,DEN,fg3_miss,79,False,False,MISS Forbes 25' 3PT Pullup Jump Shot,,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.25,4,10,45,DEN,DEN,reb,0,False,False,Cousins REBOUND (Off:2 Def:2),,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.35,4,10,39,DEN,DEN,fg_miss,5,True,False,MISS Cousins 4' Layup,,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.35,4,10,39,DEN,LAC,block,5,True,False,block,block,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.38,4,10,37,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:3),99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.43,4,10,34,LAC,LAC,fg3_miss,1,False,False,,MISS Covington 29' 3PT Jump Shot,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.5,4,10,30,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:2 Def:5),99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.68,4,10,19,LAC,LAC,tov,1,False,True,,Covington Bad Pass Turnover (P1.T6),99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.68,4,10,19,LAC,DEN,steal,1,False,True,steal,steal,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.83,4,10,10,DEN,DEN,fg3_miss,1,False,False,MISS Cousins 25' 3PT Jump Shot,,99-91,99,91
+0022101083,2022-03-22,DEN,LAC,37.9,4,10,6,LAC,LAC,reb,0,False,False,,Boston Jr. REBOUND (Off:0 Def:2),99-91,99,91
+0022101083,2022-03-22,DEN,LAC,38.02,4,9,59,LAC,LAC,fg_make,78,False,False,,Hartenstein 9' Floating Jump Shot (8 PTS) (Boston Jr. 2 AST),99-93,99,93
+0022101083,2022-03-22,DEN,LAC,38.03,4,9,58,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 4 Short 0),,99-93,99,93
+0022101083,2022-03-22,DEN,LAC,38.42,4,9,35,DEN,DEN,fg_make,5,False,False,Cousins 4' Layup (8 PTS),,101-93,101,93
+0022101083,2022-03-22,DEN,LAC,38.75,4,9,15,LAC,LAC,fg_make,79,False,False,,Boston Jr. 16' Pullup Jump Shot (6 PTS),101-95,101,95
+0022101083,2022-03-22,DEN,LAC,39.02,4,8,59,DEN,DEN,fg3_make,1,False,False,Rivers 26' 3PT Jump Shot (11 PTS) (Hyland 3 AST),,104-95,104,95
+0022101083,2022-03-22,DEN,LAC,39.45,4,8,33,LAC,LAC,fg3_miss,1,False,False,,MISS Covington 28' 3PT Jump Shot,104-95,104,95
+0022101083,2022-03-22,DEN,LAC,39.48,4,8,31,DEN,DEN,reb,0,False,False,Hyland REBOUND (Off:0 Def:2),,104-95,104,95
+0022101083,2022-03-22,DEN,LAC,39.63,4,8,22,DEN,DEN,fg3_make,1,False,False,Hyland 30' 3PT Jump Shot (16 PTS) (Cousins 2 AST),,107-95,107,95
+0022101083,2022-03-22,DEN,LAC,39.65,4,8,21,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),107-95,107,95
+0022101083,2022-03-22,DEN,LAC,39.97,4,8,2,LAC,LAC,fg_make,75,False,False,,Hartenstein 2' Driving Finger Roll Layup (10 PTS),107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.25,4,7,45,LAC,DEN,foul,4,False,False,Ja. Green OFF.Foul (P3) (E.Malloy),,107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.25,4,7,45,DEN,DEN,tov,37,False,False,Ja. Green Offensive Foul Turnover (P1.T9),,107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.43,4,7,34,LAC,LAC,fg_miss,63,False,False,,MISS Boston Jr. 16' Fadeaway Jumper,107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.48,4,7,31,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:3 Def:5),107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.5,4,7,30,LAC,LAC,fg3_miss,1,False,False,,MISS Mann 3PT Jump Shot,107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.55,4,7,27,LAC,LAC,reb,0,False,False,,Boston Jr. REBOUND (Off:1 Def:2),107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.6,4,7,24,LAC,LAC,fg3_miss,1,False,False,,MISS Kennard 25' 3PT Jump Shot,107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.67,4,7,20,DEN,DEN,reb,0,False,False,Cousins REBOUND (Off:2 Def:3),,107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.75,4,7,15,DEN,DEN,fg3_miss,1,False,False,MISS Rivers 24' 3PT Jump Shot,,107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.82,4,7,11,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:0 Def:1),107-97,107,97
+0022101083,2022-03-22,DEN,LAC,40.92,4,7,5,LAC,LAC,fg3_make,1,False,False,,Covington 25' 3PT Jump Shot (11 PTS) (Mann 4 AST),107-100,107,100
+0022101083,2022-03-22,DEN,LAC,40.93,4,7,4,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 5 Short 0),,107-100,107,100
+0022101083,2022-03-22,DEN,LAC,41.37,4,6,38,DEN,DEN,fg_miss,6,True,False,MISS Gordon 5' Driving Layup,,107-100,107,100
+0022101083,2022-03-22,DEN,LAC,41.37,4,6,38,DEN,LAC,block,6,True,False,block,block,107-100,107,100
+0022101083,2022-03-22,DEN,LAC,41.42,4,6,35,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:3),107-100,107,100
+0022101083,2022-03-22,DEN,LAC,41.62,4,6,23,LAC,LAC,fg_miss,79,False,False,,MISS Jackson 17' Pullup Jump Shot,107-100,107,100
+0022101083,2022-03-22,DEN,LAC,41.63,4,6,22,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,107-100,107,100
+0022101083,2022-03-22,DEN,LAC,41.88,4,6,7,DEN,LAC,foul,1,False,False,,Covington P.FOUL (P4.T2) (N.Sago),107-100,107,100
+0022101083,2022-03-22,DEN,LAC,42.0,4,6,0,DEN,DEN,fg3_miss,86,False,False,MISS Barton 25' 3PT Turnaround Fadeaway Shot,,107-100,107,100
+0022101083,2022-03-22,DEN,LAC,42.05,4,5,57,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:0 Def:2),107-100,107,100
+0022101083,2022-03-22,DEN,LAC,42.2,4,5,48,LAC,DEN,foul,2,False,False,Jokic S.FOUL (P4.T1) (B.Forte),,107-100,107,100
+0022101083,2022-03-22,DEN,LAC,42.2,4,5,48,LAC,LAC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (21 PTS),107-101,107,101
+0022101083,2022-03-22,DEN,LAC,42.2,4,5,48,LAC,LAC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (22 PTS),107-102,107,102
+0022101083,2022-03-22,DEN,LAC,42.47,4,5,32,DEN,LAC,foul,2,False,False,,Hartenstein S.FOUL (P4.T3) (B.Forte),107-102,107,102
+0022101083,2022-03-22,DEN,LAC,42.47,4,5,32,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (27 PTS),,108-102,108,102
+0022101083,2022-03-22,DEN,LAC,42.47,4,5,32,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (28 PTS),,109-102,109,102
+0022101083,2022-03-22,DEN,LAC,42.67,4,5,20,LAC,LAC,fg_make,98,False,False,,Hartenstein 2' Cutting Layup Shot (12 PTS) (Jackson 4 AST),109-104,109,104
+0022101083,2022-03-22,DEN,LAC,42.87,4,5,8,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P1.T10),,109-104,109,104
+0022101083,2022-03-22,DEN,LAC,42.87,4,5,8,DEN,LAC,steal,1,False,True,steal,steal,109-104,109,104
+0022101083,2022-03-22,DEN,LAC,42.97,4,5,2,LAC,LAC,fg_make,41,False,False,,Jackson 3' Running Layup (12 PTS),109-106,109,106
+0022101083,2022-03-22,DEN,LAC,43.2,4,4,48,DEN,DEN,fg3_miss,1,False,False,MISS Barton 27' 3PT Jump Shot,,109-106,109,106
+0022101083,2022-03-22,DEN,LAC,43.25,4,4,45,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:12),,109-106,109,106
+0022101083,2022-03-22,DEN,LAC,43.28,4,4,43,DEN,DEN,fg_make,7,False,False,Gordon 1' Dunk (14 PTS) (Jokic 6 AST),,111-106,111,106
+0022101083,2022-03-22,DEN,LAC,43.55,4,4,27,LAC,LAC,fg3_make,1,False,False,,Covington 26' 3PT Jump Shot (14 PTS) (Jackson 5 AST),111-109,111,109
+0022101083,2022-03-22,DEN,LAC,43.92,4,4,5,DEN,DEN,fg_miss,108,True,False,MISS Gordon 2' Cutting Dunk Shot,,111-109,111,109
+0022101083,2022-03-22,DEN,LAC,43.92,4,4,5,DEN,LAC,block,108,True,False,block,block,111-109,111,109
+0022101083,2022-03-22,DEN,LAC,43.95,4,4,3,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:4),,111-109,111,109
+0022101083,2022-03-22,DEN,LAC,43.95,4,4,3,DEN,DEN,fg3_make,1,False,False,Morris 3PT Jump Shot (15 PTS) (Gordon 5 AST),,114-109,114,109
+0022101083,2022-03-22,DEN,LAC,43.95,4,4,3,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),114-109,114,109
+0022101083,2022-03-22,DEN,LAC,44.25,4,3,45,LAC,LAC,fg_miss,98,True,False,,MISS Hartenstein 5' Cutting Layup Shot,114-109,114,109
+0022101083,2022-03-22,DEN,LAC,44.25,4,3,45,LAC,DEN,block,98,True,False,block,block,114-109,114,109
+0022101083,2022-03-22,DEN,LAC,44.25,4,3,45,LAC,LAC,reb,0,False,False,,Clippers Rebound,114-109,114,109
+0022101083,2022-03-22,DEN,LAC,44.35,4,3,39,LAC,LAC,fg_miss,73,True,False,,MISS Jackson 5' Driving Reverse Layup,114-109,114,109
+0022101083,2022-03-22,DEN,LAC,44.35,4,3,39,LAC,DEN,block,73,True,False,block,block,114-109,114,109
+0022101083,2022-03-22,DEN,LAC,44.4,4,3,36,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:4),,114-109,114,109
+0022101083,2022-03-22,DEN,LAC,44.45,4,3,33,DEN,DEN,fg3_make,1,False,False,Je. Green 24' 3PT Jump Shot (13 PTS) (Morris 4 AST),,117-109,117,109
+0022101083,2022-03-22,DEN,LAC,44.65,4,3,21,LAC,DEN,foul,1,False,False,Gordon P.FOUL (P2.T2) (E.Malloy),,117-109,117,109
+0022101083,2022-03-22,DEN,LAC,44.83,4,3,10,LAC,DEN,foul,2,False,False,Jokic S.FOUL (P5.T3) (B.Forte),,117-109,117,109
+0022101083,2022-03-22,DEN,LAC,44.83,4,3,10,LAC,LAC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (23 PTS),117-110,117,110
+0022101083,2022-03-22,DEN,LAC,44.83,4,3,10,LAC,LAC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (24 PTS),117-111,117,111
+0022101083,2022-03-22,DEN,LAC,45.03,4,2,58,DEN,DEN,fg_miss,98,True,False,MISS Gordon 6' Cutting Layup Shot,,117-111,117,111
+0022101083,2022-03-22,DEN,LAC,45.03,4,2,58,DEN,LAC,block,98,True,False,block,block,117-111,117,111
+0022101083,2022-03-22,DEN,LAC,45.08,4,2,55,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:3 Def:4),,117-111,117,111
+0022101083,2022-03-22,DEN,LAC,45.08,4,2,55,DEN,DEN,fg_make,87,False,False,Gordon Putback Dunk (16 PTS),,119-111,119,111
+0022101083,2022-03-22,DEN,LAC,45.57,4,2,26,LAC,LAC,fg_make,78,False,False,,Hartenstein 9' Floating Jump Shot (14 PTS) (Jackson 6 AST),119-113,119,113
+0022101083,2022-03-22,DEN,LAC,46.0,4,2,0,DEN,DEN,fg_make,47,False,False,Jokic 6' Turnaround Jump Shot (30 PTS),,121-113,121,113
+0022101083,2022-03-22,DEN,LAC,46.45,4,1,33,LAC,LAC,fg3_miss,1,False,False,,MISS Jackson 30' 3PT Jump Shot,121-113,121,113
+0022101083,2022-03-22,DEN,LAC,46.5,4,1,30,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:13),,121-113,121,113
+0022101083,2022-03-22,DEN,LAC,46.75,4,1,15,DEN,DEN,fg_miss,101,True,False,MISS Morris 6' Driving Floating Jump Shot,,121-113,121,113
+0022101083,2022-03-22,DEN,LAC,46.75,4,1,15,DEN,LAC,block,101,True,False,block,block,121-113,121,113
+0022101083,2022-03-22,DEN,LAC,46.75,4,1,15,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,121-113,121,113
+0022101083,2022-03-22,DEN,LAC,46.83,4,1,10,DEN,DEN,fg3_make,1,False,False,Barton 3PT Jump Shot (10 PTS) (Morris 5 AST),,124-113,124,113
+0022101083,2022-03-22,DEN,LAC,46.93,4,1,4,LAC,LAC,fg_make,101,False,False,,Jackson 9' Driving Floating Jump Shot (14 PTS),124-115,124,115
+0022101083,2022-03-22,DEN,LAC,47.3,4,0,42,DEN,DEN,fg3_make,1,False,False,Je. Green 25' 3PT Jump Shot (16 PTS) (Gordon 6 AST),,127-115,127,115
+0022101083,2022-03-22,DEN,LAC,47.4,4,0,36,LAC,LAC,fg3_miss,79,False,False,,MISS Jackson 26' 3PT Pullup Jump Shot,127-115,127,115
+0022101083,2022-03-22,DEN,LAC,47.47,4,0,32,DEN,DEN,reb,0,False,False,Je. Green REBOUND (Off:0 Def:3),,127-115,127,115
+0022101083,2022-03-22,DEN,LAC,47.82,4,0,11,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#11),,127-115,127,115
+0022101083,2022-03-22,DEN,LAC,48.0,4,0,0,DEN,,period_end,0,False,False,,,127-115,127,115

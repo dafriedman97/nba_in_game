@@ -1,0 +1,475 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101213,2022-04-09,MEM,NOP,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101213,2022-04-09,MEM,NOP,0.0,1,12,0,,MEM,jump_ball,0,False,False,Jump Ball Adams vs. Valanciunas: Tip to Morant,,0-0,0,0
+0022101213,2022-04-09,MEM,NOP,0.27,1,11,44,MEM,NOP,foul,2,False,False,,Valanciunas S.FOUL (P1.T1) (E.Dalen),0-0,0,0
+0022101213,2022-04-09,MEM,NOP,0.27,1,11,44,MEM,MEM,ft_make,11,False,False,Jackson Jr. Free Throw 1 of 2 (1 PTS),,1-0,1,0
+0022101213,2022-04-09,MEM,NOP,0.27,1,11,44,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (2 PTS),,2-0,2,0
+0022101213,2022-04-09,MEM,NOP,0.63,1,11,22,NOP,NOP,fg3_miss,1,False,False,,MISS Graham 26' 3PT Jump Shot,2-0,2,0
+0022101213,2022-04-09,MEM,NOP,0.67,1,11,20,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:1),,2-0,2,0
+0022101213,2022-04-09,MEM,NOP,0.87,1,11,8,MEM,MEM,fg_miss,6,False,False,MISS Brooks 3' Driving Layup,,2-0,2,0
+0022101213,2022-04-09,MEM,NOP,0.92,1,11,5,NOP,NOP,reb,0,False,False,,McCollum REBOUND (Off:0 Def:1),2-0,2,0
+0022101213,2022-04-09,MEM,NOP,1.08,1,10,55,NOP,NOP,fg_miss,101,False,False,,MISS McCollum 12' Driving Floating Jump Shot,2-0,2,0
+0022101213,2022-04-09,MEM,NOP,1.12,1,10,53,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:2),,2-0,2,0
+0022101213,2022-04-09,MEM,NOP,1.2,1,10,48,MEM,MEM,tov,19,False,False,Jackson Jr. Kicked Ball Violation Turnover (P1.T1),,2-0,2,0
+0022101213,2022-04-09,MEM,NOP,1.52,1,10,29,NOP,NOP,fg_make,1,False,False,,Graham 18' Jump Shot (2 PTS),2-2,2,2
+0022101213,2022-04-09,MEM,NOP,1.75,1,10,15,MEM,NOP,foul,1,False,False,,Valanciunas P.FOUL (P2.T2) (E.Dalen),2-2,2,2
+0022101213,2022-04-09,MEM,NOP,1.87,1,10,8,MEM,MEM,fg_make,75,False,False,Morant 3' Driving Finger Roll Layup (2 PTS) (Adams 1 AST),,4-2,4,2
+0022101213,2022-04-09,MEM,NOP,2.12,1,9,53,NOP,MEM,foul,2,False,False,Bane S.FOUL (P1.T1) (E.Dalen),,4-2,4,2
+0022101213,2022-04-09,MEM,NOP,2.12,1,9,53,NOP,NOP,ft_miss,11,False,False,,MISS Hernangomez Free Throw 1 of 2,4-2,4,2
+0022101213,2022-04-09,MEM,NOP,2.12,1,9,53,NOP,NOP,reb,1,False,False,,Pelicans Rebound,4-2,4,2
+0022101213,2022-04-09,MEM,NOP,2.12,1,9,53,NOP,NOP,ft_make,12,False,False,,Hernangomez Free Throw 2 of 2 (1 PTS),4-3,4,3
+0022101213,2022-04-09,MEM,NOP,2.33,1,9,40,MEM,MEM,fg_miss,79,False,False,MISS Brooks 16' Pullup Jump Shot,,4-3,4,3
+0022101213,2022-04-09,MEM,NOP,2.37,1,9,38,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:0 Def:1),4-3,4,3
+0022101213,2022-04-09,MEM,NOP,2.47,1,9,32,NOP,NOP,fg3_miss,1,False,False,,MISS Hayes 25' 3PT Jump Shot,4-3,4,3
+0022101213,2022-04-09,MEM,NOP,2.52,1,9,29,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:3),,4-3,4,3
+0022101213,2022-04-09,MEM,NOP,2.55,1,9,27,MEM,MEM,tov,45,False,False,Morant Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,4-3,4,3
+0022101213,2022-04-09,MEM,NOP,2.8,1,9,12,NOP,NOP,fg_make,9,False,False,,Hayes 1' Driving Dunk (2 PTS) (Hernangomez 1 AST),4-5,4,5
+0022101213,2022-04-09,MEM,NOP,3.23,1,8,46,MEM,MEM,fg_make,75,False,False,Jackson Jr. 2' Driving Finger Roll Layup (4 PTS) (Adams 2 AST),,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.5,1,8,30,NOP,NOP,fg_miss,101,True,False,,MISS Jones 8' Driving Floating Jump Shot,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.5,1,8,30,NOP,MEM,block,101,True,False,block,block,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.53,1,8,28,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:0 Def:1),,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.62,1,8,23,MEM,MEM,fg3_miss,80,False,False,MISS Morant 3PT Step Back Jump Shot,,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.67,1,8,20,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.78,1,8,13,NOP,NOP,fg_miss,79,False,False,,MISS McCollum 16' Pullup Jump Shot,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.83,1,8,10,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:1),,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,3.85,1,8,9,MEM,NOP,foul,28,False,False,,McCollum Personal Take Foul (P1.T3) (J.Sterling),6-5,6,5
+0022101213,2022-04-09,MEM,NOP,4.05,1,7,57,MEM,MEM,tov,1,False,True,Bane Bad Pass Turnover (P1.T3),,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,4.05,1,7,57,MEM,NOP,steal,1,False,True,steal,steal,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,4.12,1,7,53,NOP,MEM,foul,2,False,False,Morant S.FOUL (P1.T2) (K.Fitzgerald),,6-5,6,5
+0022101213,2022-04-09,MEM,NOP,4.12,1,7,53,NOP,NOP,ft_make,13,False,False,,Graham Free Throw 1 of 3 (3 PTS),6-6,6,6
+0022101213,2022-04-09,MEM,NOP,4.12,1,7,53,NOP,NOP,ft_make,14,False,False,,Graham Free Throw 2 of 3 (4 PTS),6-7,6,7
+0022101213,2022-04-09,MEM,NOP,4.12,1,7,53,NOP,NOP,ft_miss,15,False,False,,MISS Graham Free Throw 3 of 3,6-7,6,7
+0022101213,2022-04-09,MEM,NOP,4.15,1,7,51,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:0 Def:2),,6-7,6,7
+0022101213,2022-04-09,MEM,NOP,4.4,1,7,36,MEM,MEM,fg_miss,57,False,False,MISS Adams 4' Driving Hook Shot,,6-7,6,7
+0022101213,2022-04-09,MEM,NOP,4.43,1,7,34,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:1 Def:2),,6-7,6,7
+0022101213,2022-04-09,MEM,NOP,4.6,1,7,24,MEM,MEM,fg_make,102,False,False,Brooks 10' Driving Floating Bank Jump Shot (2 PTS),,8-7,8,7
+0022101213,2022-04-09,MEM,NOP,4.92,1,7,5,NOP,NOP,fg_make,101,False,False,,McCollum 11' Driving Floating Jump Shot (2 PTS) (Hernangomez 2 AST),8-9,8,9
+0022101213,2022-04-09,MEM,NOP,5.22,1,6,47,MEM,MEM,fg3_make,1,False,False,Jackson Jr. 26' 3PT Jump Shot (7 PTS) (Brooks 1 AST),,11-9,11,9
+0022101213,2022-04-09,MEM,NOP,5.63,1,6,22,NOP,NOP,fg3_miss,1,False,False,,MISS Hayes 3PT Jump Shot,11-9,11,9
+0022101213,2022-04-09,MEM,NOP,5.7,1,6,18,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:1),,11-9,11,9
+0022101213,2022-04-09,MEM,NOP,5.88,1,6,7,MEM,MEM,fg_miss,80,False,False,MISS Morant 23' Step Back Jump Shot,,11-9,11,9
+0022101213,2022-04-09,MEM,NOP,5.92,1,6,5,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:2),11-9,11,9
+0022101213,2022-04-09,MEM,NOP,6.0,1,6,0,MEM,NOP,foul,4,False,False,,Hernangomez OFF.Foul (P1) (J.Sterling),11-9,11,9
+0022101213,2022-04-09,MEM,NOP,6.0,1,6,0,NOP,NOP,tov,37,False,False,,Hernangomez Offensive Foul Turnover (P1.T1),11-9,11,9
+0022101213,2022-04-09,MEM,NOP,6.0,1,6,0,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 1 Short 0),,11-9,11,9
+0022101213,2022-04-09,MEM,NOP,6.17,1,5,50,MEM,NOP,foul,2,False,False,,Hayes S.FOUL (P1.T4) (J.Sterling),11-9,11,9
+0022101213,2022-04-09,MEM,NOP,6.17,1,5,50,MEM,MEM,ft_miss,11,False,False,MISS Morant Free Throw 1 of 2,,11-9,11,9
+0022101213,2022-04-09,MEM,NOP,6.17,1,5,50,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,11-9,11,9
+0022101213,2022-04-09,MEM,NOP,6.17,1,5,50,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (3 PTS),,12-9,12,9
+0022101213,2022-04-09,MEM,NOP,6.37,1,5,38,NOP,NOP,fg_miss,3,False,False,,MISS Hayes 8' Hook Shot,12-9,12,9
+0022101213,2022-04-09,MEM,NOP,6.42,1,5,35,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:1 Def:3),,12-9,12,9
+0022101213,2022-04-09,MEM,NOP,6.62,1,5,23,MEM,MEM,fg_miss,75,False,False,MISS Morant 4' Driving Finger Roll Layup,,12-9,12,9
+0022101213,2022-04-09,MEM,NOP,6.63,1,5,22,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:1 Def:1),,12-9,12,9
+0022101213,2022-04-09,MEM,NOP,6.77,1,5,14,MEM,MEM,fg_miss,75,False,False,MISS Morant 4' Driving Finger Roll Layup,,12-9,12,9
+0022101213,2022-04-09,MEM,NOP,6.8,1,5,12,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:2 Def:3),,12-9,12,9
+0022101213,2022-04-09,MEM,NOP,6.82,1,5,11,MEM,MEM,fg_make,58,False,False,Adams 11' Turnaround Hook Shot (2 PTS),,14-9,14,9
+0022101213,2022-04-09,MEM,NOP,6.97,1,5,2,NOP,NOP,fg_make,105,False,False,,Hayes 6' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Graham 1 AST),14-11,14,11
+0022101213,2022-04-09,MEM,NOP,7.15,1,4,51,MEM,MEM,fg_make,101,False,False,Brooks 10' Driving Floating Jump Shot (4 PTS),,16-11,16,11
+0022101213,2022-04-09,MEM,NOP,7.43,1,4,34,NOP,NOP,fg3_miss,79,False,False,,MISS McCollum 25' 3PT Pullup Jump Shot,16-11,16,11
+0022101213,2022-04-09,MEM,NOP,7.47,1,4,32,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:2 Def:4),,16-11,16,11
+0022101213,2022-04-09,MEM,NOP,7.5,1,4,30,MEM,MEM,tov,1,False,True,Adams Bad Pass Turnover (P1.T4),,16-11,16,11
+0022101213,2022-04-09,MEM,NOP,7.5,1,4,30,MEM,NOP,steal,1,False,True,steal,steal,16-11,16,11
+0022101213,2022-04-09,MEM,NOP,7.55,1,4,27,NOP,NOP,fg_make,50,False,False,,Hayes Running Dunk (6 PTS) (Graham 2 AST),16-13,16,13
+0022101213,2022-04-09,MEM,NOP,7.55,1,4,27,NOP,MEM,foul,2,False,False,Adams S.FOUL (P1.T3) (K.Fitzgerald),,16-13,16,13
+0022101213,2022-04-09,MEM,NOP,7.55,1,4,27,NOP,NOP,ft_miss,10,False,False,,MISS Hayes Free Throw 1 of 1,16-13,16,13
+0022101213,2022-04-09,MEM,NOP,7.58,1,4,25,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:2 Def:5),,16-13,16,13
+0022101213,2022-04-09,MEM,NOP,7.82,1,4,11,MEM,MEM,fg3_miss,1,False,False,MISS Melton 26' 3PT Jump Shot,,16-13,16,13
+0022101213,2022-04-09,MEM,NOP,7.85,1,4,9,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:0 Def:2),16-13,16,13
+0022101213,2022-04-09,MEM,NOP,8.0,1,4,0,NOP,NOP,fg3_miss,80,False,False,,MISS Hernangomez 25' 3PT Step Back Jump Shot,16-13,16,13
+0022101213,2022-04-09,MEM,NOP,8.03,1,3,58,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:2 Def:6),,16-13,16,13
+0022101213,2022-04-09,MEM,NOP,8.08,1,3,55,MEM,NOP,foul,2,False,False,,Jones S.FOUL (P1.PN) (K.Fitzgerald),16-13,16,13
+0022101213,2022-04-09,MEM,NOP,8.08,1,3,55,MEM,MEM,ft_make,11,False,False,Morant Free Throw 1 of 2 (4 PTS),,17-13,17,13
+0022101213,2022-04-09,MEM,NOP,8.08,1,3,55,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (5 PTS),,18-13,18,13
+0022101213,2022-04-09,MEM,NOP,8.28,1,3,43,NOP,NOP,fg3_miss,1,False,False,,MISS Alvarado 26' 3PT Jump Shot,18-13,18,13
+0022101213,2022-04-09,MEM,NOP,8.37,1,3,38,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:0 Def:1),,18-13,18,13
+0022101213,2022-04-09,MEM,NOP,8.47,1,3,32,MEM,MEM,fg_make,75,False,False,Melton 7' Driving Finger Roll Layup (2 PTS),,20-13,20,13
+0022101213,2022-04-09,MEM,NOP,8.75,1,3,15,NOP,MEM,foul,2,False,False,Melton S.FOUL (P1.T4) (J.Sterling),,20-13,20,13
+0022101213,2022-04-09,MEM,NOP,8.75,1,3,15,NOP,NOP,ft_miss,11,False,False,,MISS McCollum Free Throw 1 of 2,20-13,20,13
+0022101213,2022-04-09,MEM,NOP,8.75,1,3,15,NOP,NOP,reb,1,False,False,,Pelicans Rebound,20-13,20,13
+0022101213,2022-04-09,MEM,NOP,8.75,1,3,15,NOP,NOP,ft_make,12,False,False,,McCollum Free Throw 2 of 2 (3 PTS),20-14,20,14
+0022101213,2022-04-09,MEM,NOP,9.03,1,2,58,MEM,MEM,tov,1,False,True,Melton Bad Pass Turnover (P1.T5),,20-14,20,14
+0022101213,2022-04-09,MEM,NOP,9.03,1,2,58,MEM,NOP,steal,1,False,True,steal,steal,20-14,20,14
+0022101213,2022-04-09,MEM,NOP,9.2,1,2,48,NOP,MEM,foul,2,False,False,Williams S.FOUL (P1.PN) (J.Sterling),,20-14,20,14
+0022101213,2022-04-09,MEM,NOP,9.2,1,2,48,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.1 Short 0),20-14,20,14
+0022101213,2022-04-09,MEM,NOP,9.2,1,2,48,NOP,NOP,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (4 PTS),20-15,20,15
+0022101213,2022-04-09,MEM,NOP,9.2,1,2,48,NOP,NOP,ft_miss,12,False,False,,MISS McCollum Free Throw 2 of 2,20-15,20,15
+0022101213,2022-04-09,MEM,NOP,9.27,1,2,44,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:1),,20-15,20,15
+0022101213,2022-04-09,MEM,NOP,9.52,1,2,29,MEM,MEM,fg3_miss,1,False,False,MISS Melton 25' 3PT Jump Shot,,20-15,20,15
+0022101213,2022-04-09,MEM,NOP,9.55,1,2,27,NOP,NOP,reb,0,False,False,,Nance Jr. REBOUND (Off:0 Def:1),20-15,20,15
+0022101213,2022-04-09,MEM,NOP,9.67,1,2,20,NOP,NOP,fg3_miss,79,False,False,,MISS McCollum 25' 3PT Pullup Jump Shot,20-15,20,15
+0022101213,2022-04-09,MEM,NOP,9.7,1,2,18,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:0 Def:1),,20-15,20,15
+0022101213,2022-04-09,MEM,NOP,9.78,1,2,13,MEM,MEM,fg3_make,1,False,False,Williams 25' 3PT Jump Shot (3 PTS) (Anderson 1 AST),,23-15,23,15
+0022101213,2022-04-09,MEM,NOP,10.02,1,1,59,NOP,NOP,fg3_make,1,False,False,,Murphy III 26' 3PT Jump Shot (3 PTS) (McCollum 1 AST),23-18,23,18
+0022101213,2022-04-09,MEM,NOP,10.4,1,1,36,MEM,MEM,fg3_make,1,False,False,Williams 25' 3PT Jump Shot (6 PTS) (Jones 1 AST),,26-18,26,18
+0022101213,2022-04-09,MEM,NOP,10.63,1,1,22,NOP,NOP,tov,6,False,False,,Alvarado Double Dribble Turnover (P1.T2),26-18,26,18
+0022101213,2022-04-09,MEM,NOP,10.85,1,1,9,MEM,MEM,fg_make,78,False,False,Clarke 11' Floating Jump Shot (2 PTS) (Melton 1 AST),,28-18,28,18
+0022101213,2022-04-09,MEM,NOP,10.88,1,1,7,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.2 Short 0),28-18,28,18
+0022101213,2022-04-09,MEM,NOP,11.25,1,0,45,NOP,NOP,tov,2,False,True,,Nance Jr. Lost Ball Turnover (P1.T3),28-18,28,18
+0022101213,2022-04-09,MEM,NOP,11.25,1,0,45,NOP,MEM,steal,2,False,True,steal,steal,28-18,28,18
+0022101213,2022-04-09,MEM,NOP,11.37,1,0,38,MEM,MEM,fg_make,101,False,False,Melton 9' Driving Floating Jump Shot (4 PTS) (Jones 2 AST),,30-18,30,18
+0022101213,2022-04-09,MEM,NOP,11.63,1,0,22,NOP,NOP,tov,45,False,False,,Murphy III Out of Bounds - Bad Pass Turnover Turnover (P1.T4),30-18,30,18
+0022101213,2022-04-09,MEM,NOP,11.93,1,0,4,NOP,MEM,foul,4,False,False,Jackson Jr. OFF.Foul (P1) (E.Dalen),,30-18,30,18
+0022101213,2022-04-09,MEM,NOP,11.93,1,0,4,MEM,MEM,tov,37,False,False,Jackson Jr. Offensive Foul Turnover (P2.T6),,30-18,30,18
+0022101213,2022-04-09,MEM,NOP,12.0,1,0,0,NOP,NOP,fg3_miss,1,False,False,,MISS Murphy III 29' 3PT Jump Shot,30-18,30,18
+0022101213,2022-04-09,MEM,NOP,12.0,1,0,0,NOP,NOP,reb,0,False,False,,Pelicans Rebound,30-18,30,18
+0022101213,2022-04-09,MEM,NOP,12.0,1,0,0,NOP,,period_end,0,False,False,,,30-18,30,18
+0022101213,2022-04-09,MEM,NOP,12.0,2,12,0,NOP,,period_start,0,False,False,,,30-18,30,18
+0022101213,2022-04-09,MEM,NOP,12.37,2,11,38,NOP,NOP,fg_make,75,False,False,,Alvarado 3' Driving Finger Roll Layup (2 PTS),30-20,30,20
+0022101213,2022-04-09,MEM,NOP,12.5,2,11,30,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 26' 3PT Jump Shot,,30-20,30,20
+0022101213,2022-04-09,MEM,NOP,12.55,2,11,27,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:0 Def:1),30-20,30,20
+0022101213,2022-04-09,MEM,NOP,12.67,2,11,20,NOP,NOP,tov,1,False,True,,Valanciunas Bad Pass Turnover (P1.T5),30-20,30,20
+0022101213,2022-04-09,MEM,NOP,12.67,2,11,20,NOP,MEM,steal,1,False,True,steal,steal,30-20,30,20
+0022101213,2022-04-09,MEM,NOP,12.73,2,11,16,MEM,MEM,fg_make,50,False,False,Clarke 1' Running Dunk (4 PTS) (Jones 3 AST),,32-20,32,20
+0022101213,2022-04-09,MEM,NOP,13.08,2,10,55,NOP,NOP,fg_make,6,False,False,,Valanciunas 7' Driving Layup (2 PTS) (Marshall 1 AST),32-22,32,22
+0022101213,2022-04-09,MEM,NOP,13.43,2,10,34,MEM,MEM,fg3_make,80,False,False,Williams 24' 3PT Step Back Jump Shot (9 PTS) (Jones 4 AST),,35-22,35,22
+0022101213,2022-04-09,MEM,NOP,13.67,2,10,20,NOP,NOP,fg_make,47,False,False,,Valanciunas 18' Turnaround Jump Shot (4 PTS) (Alvarado 1 AST),35-24,35,24
+0022101213,2022-04-09,MEM,NOP,13.95,2,10,3,MEM,MEM,fg3_make,1,False,False,Williams 26' 3PT Jump Shot (12 PTS) (Clarke 1 AST),,38-24,38,24
+0022101213,2022-04-09,MEM,NOP,14.28,2,9,43,NOP,NOP,fg_miss,6,True,False,,MISS Marshall 5' Driving Layup,38-24,38,24
+0022101213,2022-04-09,MEM,NOP,14.28,2,9,43,NOP,MEM,block,6,True,False,block,block,38-24,38,24
+0022101213,2022-04-09,MEM,NOP,14.32,2,9,41,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:4),,38-24,38,24
+0022101213,2022-04-09,MEM,NOP,14.35,2,9,39,MEM,MEM,fg_make,106,False,False,Bane 1' Running Alley Oop Dunk Shot (2 PTS) (Jones 5 AST),,40-24,40,24
+0022101213,2022-04-09,MEM,NOP,14.57,2,9,26,NOP,NOP,fg_make,1,False,False,,Valanciunas 15' Jump Shot (6 PTS) (Alvarado 2 AST),40-26,40,26
+0022101213,2022-04-09,MEM,NOP,14.82,2,9,11,MEM,NOP,foul,1,False,False,,Valanciunas P.FOUL (P3.T1) (K.Fitzgerald),40-26,40,26
+0022101213,2022-04-09,MEM,NOP,14.92,2,9,5,MEM,MEM,fg3_make,1,False,False,Bane 26' 3PT Jump Shot (5 PTS) (Jones 6 AST),,43-26,43,26
+0022101213,2022-04-09,MEM,NOP,15.18,2,8,49,MEM,NOP,foul,4,False,False,,Valanciunas OFF.Foul (P4) (K.Fitzgerald),43-26,43,26
+0022101213,2022-04-09,MEM,NOP,15.18,2,8,49,NOP,NOP,tov,37,False,False,,Valanciunas Offensive Foul Turnover (P2.T6),43-26,43,26
+0022101213,2022-04-09,MEM,NOP,15.43,2,8,34,MEM,MEM,fg_miss,79,True,False,MISS Bane 16' Pullup Jump Shot,,43-26,43,26
+0022101213,2022-04-09,MEM,NOP,15.43,2,8,34,MEM,NOP,block,79,True,False,block,block,43-26,43,26
+0022101213,2022-04-09,MEM,NOP,15.48,2,8,31,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:1),43-26,43,26
+0022101213,2022-04-09,MEM,NOP,15.58,2,8,25,NOP,MEM,violation,5,False,False,Clarke Violation:Kicked Ball (E.Dalen),,43-26,43,26
+0022101213,2022-04-09,MEM,NOP,15.68,2,8,19,NOP,NOP,fg_make,101,False,False,,Hayes 7' Driving Floating Jump Shot (8 PTS),43-28,43,28
+0022101213,2022-04-09,MEM,NOP,15.87,2,8,8,MEM,MEM,fg3_miss,1,False,False,MISS Williams 24' 3PT Jump Shot,,43-28,43,28
+0022101213,2022-04-09,MEM,NOP,15.92,2,8,5,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:2),43-28,43,28
+0022101213,2022-04-09,MEM,NOP,16.0,2,8,0,NOP,NOP,fg_miss,41,True,False,,MISS Hayes 3' Running Layup,43-28,43,28
+0022101213,2022-04-09,MEM,NOP,16.0,2,8,0,NOP,MEM,block,41,True,False,block,block,43-28,43,28
+0022101213,2022-04-09,MEM,NOP,16.08,2,7,55,NOP,NOP,reb,0,False,False,,Nance Jr. REBOUND (Off:1 Def:1),43-28,43,28
+0022101213,2022-04-09,MEM,NOP,16.08,2,7,55,NOP,NOP,fg_make,72,False,False,,Nance Jr. 1' Putback Layup (2 PTS),43-30,43,30
+0022101213,2022-04-09,MEM,NOP,16.28,2,7,43,MEM,MEM,fg_miss,78,False,False,MISS Jones 2' Floating Jump Shot,,43-30,43,30
+0022101213,2022-04-09,MEM,NOP,16.32,2,7,41,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:0 Def:3),43-30,43,30
+0022101213,2022-04-09,MEM,NOP,16.5,2,7,30,NOP,NOP,fg3_miss,1,False,False,,MISS Murphy III 25' 3PT Jump Shot,43-30,43,30
+0022101213,2022-04-09,MEM,NOP,16.58,2,7,25,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:0 Def:1),,43-30,43,30
+0022101213,2022-04-09,MEM,NOP,16.65,2,7,21,MEM,MEM,fg_make,47,False,False,Clarke 10' Turnaround Jump Shot (6 PTS) (Bane 1 AST),,45-30,45,30
+0022101213,2022-04-09,MEM,NOP,16.97,2,7,2,NOP,NOP,fg_make,101,False,False,,Alvarado 10' Driving Floating Jump Shot (4 PTS) (Hayes 1 AST),45-32,45,32
+0022101213,2022-04-09,MEM,NOP,17.28,2,6,43,MEM,NOP,foul,2,False,False,,Murphy III S.FOUL (P1.T2) (E.Dalen),45-32,45,32
+0022101213,2022-04-09,MEM,NOP,17.28,2,6,43,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 2 Short 0),,45-32,45,32
+0022101213,2022-04-09,MEM,NOP,17.28,2,6,43,MEM,MEM,ft_make,11,False,False,Jackson Jr. Free Throw 1 of 2 (8 PTS),,46-32,46,32
+0022101213,2022-04-09,MEM,NOP,17.28,2,6,43,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (9 PTS),,47-32,47,32
+0022101213,2022-04-09,MEM,NOP,17.52,2,6,29,NOP,NOP,fg3_miss,1,False,False,,MISS Alvarado 25' 3PT Jump Shot,47-32,47,32
+0022101213,2022-04-09,MEM,NOP,17.57,2,6,26,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:5),,47-32,47,32
+0022101213,2022-04-09,MEM,NOP,17.73,2,6,16,MEM,MEM,fg_make,79,False,False,Brooks 11' Pullup Jump Shot (6 PTS),,49-32,49,32
+0022101213,2022-04-09,MEM,NOP,17.88,2,6,7,NOP,NOP,fg_make,101,False,False,,Alvarado 7' Driving Floating Jump Shot (6 PTS),49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.15,2,5,51,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 26' 3PT Jump Shot,,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.18,2,5,49,NOP,NOP,reb,0,False,False,,Alvarado REBOUND (Off:0 Def:1),49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.28,2,5,43,NOP,NOP,fg_miss,102,False,False,,MISS McCollum 11' Driving Floating Bank Jump Shot,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.32,2,5,41,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:6),,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.42,2,5,35,NOP,MEM,foul,4,False,False,Bane OFF.Foul (P2) (J.Sterling),,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.42,2,5,35,MEM,MEM,tov,37,False,False,Bane Offensive Foul Turnover (P2.T7),,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.68,2,5,19,NOP,NOP,fg3_miss,1,False,False,,MISS Hayes 3PT Jump Shot,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.73,2,5,16,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:2),,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.83,2,5,10,MEM,MEM,fg3_miss,80,False,False,MISS Melton 26' 3PT Step Back Jump Shot,,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,18.85,2,5,9,NOP,NOP,reb,0,False,False,,Pelicans Rebound,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,19.12,2,4,53,NOP,NOP,fg_miss,99,False,False,,MISS Hernangomez 2' Cutting Finger Roll Layup Shot,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,19.18,2,4,49,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:2),49-34,49,34
+0022101213,2022-04-09,MEM,NOP,19.18,2,4,49,NOP,NOP,fg_miss,72,True,False,,MISS Hernangomez Putback Layup,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,19.18,2,4,49,NOP,MEM,block,72,True,False,block,block,49-34,49,34
+0022101213,2022-04-09,MEM,NOP,19.22,2,4,47,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:2 Def:2),49-34,49,34
+0022101213,2022-04-09,MEM,NOP,19.22,2,4,47,NOP,NOP,fg_make,72,False,False,,Hernangomez Putback Layup (3 PTS),49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.35,2,4,39,MEM,MEM,fg_miss,78,False,False,MISS Brooks 13' Floating Jump Shot,,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.4,2,4,36,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:3 Def:6),,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.48,2,4,31,MEM,MEM,tov,1,False,True,Morant Bad Pass Turnover (P2.T8),,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.48,2,4,31,MEM,NOP,steal,1,False,True,steal,steal,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.57,2,4,26,NOP,NOP,fg3_miss,2,False,False,,MISS Graham 25' 3PT Running Jump Shot,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.63,2,4,22,NOP,NOP,reb,0,False,False,,Jones REBOUND (Off:1 Def:0),49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.7,2,4,18,NOP,MEM,foul,2,False,False,Adams S.FOUL (P2.T1) (K.Fitzgerald),,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.7,2,4,18,NOP,NOP,ft_miss,11,False,False,,MISS Hayes Free Throw 1 of 2,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.7,2,4,18,NOP,NOP,reb,1,False,False,,Pelicans Rebound,49-36,49,36
+0022101213,2022-04-09,MEM,NOP,19.7,2,4,18,NOP,NOP,ft_make,12,False,False,,Hayes Free Throw 2 of 2 (9 PTS),49-37,49,37
+0022101213,2022-04-09,MEM,NOP,19.87,2,4,8,MEM,MEM,tov,40,False,False,Morant Out of Bounds Lost Ball Turnover (P3.T9),,49-37,49,37
+0022101213,2022-04-09,MEM,NOP,20.08,2,3,55,NOP,NOP,fg3_miss,1,False,False,,MISS Jones 25' 3PT Jump Shot,49-37,49,37
+0022101213,2022-04-09,MEM,NOP,20.15,2,3,51,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,49-37,49,37
+0022101213,2022-04-09,MEM,NOP,20.37,2,3,38,MEM,MEM,fg3_make,79,False,False,Brooks 27' 3PT Pullup Jump Shot (9 PTS) (Morant 1 AST),,52-37,52,37
+0022101213,2022-04-09,MEM,NOP,20.62,2,3,23,NOP,NOP,fg_make,102,False,False,,McCollum 8' Driving Floating Bank Jump Shot (6 PTS) (Graham 3 AST),52-39,52,39
+0022101213,2022-04-09,MEM,NOP,20.87,2,3,8,MEM,MEM,fg_miss,101,True,False,MISS Morant 12' Driving Floating Jump Shot,,52-39,52,39
+0022101213,2022-04-09,MEM,NOP,20.87,2,3,8,MEM,NOP,block,101,True,False,block,block,52-39,52,39
+0022101213,2022-04-09,MEM,NOP,20.93,2,3,4,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:0 Def:4),52-39,52,39
+0022101213,2022-04-09,MEM,NOP,20.93,2,3,4,NOP,MEM,foul,2,False,False,Brooks S.FOUL (P1.T2) (E.Dalen),,52-39,52,39
+0022101213,2022-04-09,MEM,NOP,20.93,2,3,4,NOP,NOP,ft_make,11,False,False,,Hayes Free Throw 1 of 2 (10 PTS),52-40,52,40
+0022101213,2022-04-09,MEM,NOP,20.93,2,3,4,NOP,NOP,ft_make,12,False,False,,Hayes Free Throw 2 of 2 (11 PTS),52-41,52,41
+0022101213,2022-04-09,MEM,NOP,21.22,2,2,47,MEM,MEM,fg_make,99,False,False,Brooks 1' Cutting Finger Roll Layup Shot (11 PTS) (Adams 3 AST),,54-41,54,41
+0022101213,2022-04-09,MEM,NOP,21.38,2,2,37,NOP,NOP,tov,45,False,False,,Graham Out of Bounds - Bad Pass Turnover Turnover (P1.T7),54-41,54,41
+0022101213,2022-04-09,MEM,NOP,21.38,2,2,37,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),54-41,54,41
+0022101213,2022-04-09,MEM,NOP,21.58,2,2,25,MEM,MEM,fg_make,99,False,False,Brooks 1' Cutting Finger Roll Layup Shot (13 PTS) (Morant 2 AST),,56-41,56,41
+0022101213,2022-04-09,MEM,NOP,21.95,2,2,3,NOP,NOP,fg_miss,79,False,False,,MISS McCollum 13' Pullup Jump Shot,56-41,56,41
+0022101213,2022-04-09,MEM,NOP,21.97,2,2,2,NOP,NOP,reb,0,False,False,,Pelicans Rebound,56-41,56,41
+0022101213,2022-04-09,MEM,NOP,22.03,2,1,58,NOP,NOP,fg_make,5,False,False,,Jones 1' Layup (2 PTS) (McCollum 2 AST),56-43,56,43
+0022101213,2022-04-09,MEM,NOP,22.35,2,1,39,MEM,MEM,fg_miss,63,False,False,MISS Brooks 12' Fadeaway Jumper,,56-43,56,43
+0022101213,2022-04-09,MEM,NOP,22.4,2,1,36,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:0 Def:5),56-43,56,43
+0022101213,2022-04-09,MEM,NOP,22.55,2,1,27,NOP,NOP,fg_make,75,False,False,,Jones 1' Driving Finger Roll Layup (4 PTS) (Graham 4 AST),56-45,56,45
+0022101213,2022-04-09,MEM,NOP,22.78,2,1,13,MEM,MEM,fg_make,6,False,False,Morant 1' Driving Layup (7 PTS),,58-45,58,45
+0022101213,2022-04-09,MEM,NOP,22.97,2,1,2,NOP,NOP,fg_make,101,False,False,,Graham 8' Driving Floating Jump Shot (6 PTS) (McCollum 3 AST),58-47,58,47
+0022101213,2022-04-09,MEM,NOP,23.13,2,0,52,MEM,NOP,foul,1,False,False,,McCollum P.FOUL (P2.T3) (K.Fitzgerald),58-47,58,47
+0022101213,2022-04-09,MEM,NOP,23.28,2,0,43,MEM,NOP,foul,2,False,False,,Jones S.FOUL (P2.PN) (J.Sterling),58-47,58,47
+0022101213,2022-04-09,MEM,NOP,23.28,2,0,43,MEM,MEM,ft_miss,11,False,False,MISS Morant Free Throw 1 of 2,,58-47,58,47
+0022101213,2022-04-09,MEM,NOP,23.28,2,0,43,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,58-47,58,47
+0022101213,2022-04-09,MEM,NOP,23.28,2,0,43,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (8 PTS),,59-47,59,47
+0022101213,2022-04-09,MEM,NOP,23.42,2,0,35,NOP,NOP,fg_miss,98,True,False,,MISS Hayes 4' Cutting Layup Shot,59-47,59,47
+0022101213,2022-04-09,MEM,NOP,23.42,2,0,35,NOP,MEM,block,98,True,False,block,block,59-47,59,47
+0022101213,2022-04-09,MEM,NOP,23.47,2,0,32,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:1 Def:2),,59-47,59,47
+0022101213,2022-04-09,MEM,NOP,23.5,2,0,30,MEM,MEM,fg_miss,76,False,False,MISS Morant 1' Running Finger Roll Layup,,59-47,59,47
+0022101213,2022-04-09,MEM,NOP,23.52,2,0,29,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:1 Def:1),,59-47,59,47
+0022101213,2022-04-09,MEM,NOP,23.52,2,0,29,MEM,MEM,fg_make,97,False,False,Clarke Tip Layup Shot (8 PTS),,61-47,61,47
+0022101213,2022-04-09,MEM,NOP,23.73,2,0,16,NOP,MEM,foul,1,False,False,Morant P.FOUL (P2.T3) (K.Fitzgerald),,61-47,61,47
+0022101213,2022-04-09,MEM,NOP,23.77,2,0,14,NOP,NOP,fg3_miss,1,False,False,,MISS Hayes 26' 3PT Jump Shot,61-47,61,47
+0022101213,2022-04-09,MEM,NOP,23.8,2,0,12,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:7),,61-47,61,47
+0022101213,2022-04-09,MEM,NOP,23.98,2,0,1,MEM,MEM,fg3_make,1,False,False,Brooks 3PT Jump Shot (16 PTS) (Morant 3 AST),,64-47,64,47
+0022101213,2022-04-09,MEM,NOP,24.0,2,0,0,NOP,MEM,violation,1,False,False,GRIZZLIES Violation: Delay of game Violation,,64-47,64,47
+0022101213,2022-04-09,MEM,NOP,24.0,2,0,0,NOP,,period_end,0,False,False,,,64-47,64,47
+0022101213,2022-04-09,MEM,NOP,24.0,3,12,0,NOP,,period_start,0,False,False,,,64-47,64,47
+0022101213,2022-04-09,MEM,NOP,24.38,3,11,37,NOP,MEM,foul,2,False,False,Adams S.FOUL (P3.T1) (E.Dalen),,64-47,64,47
+0022101213,2022-04-09,MEM,NOP,24.38,3,11,37,NOP,NOP,ft_make,11,False,False,,Valanciunas Free Throw 1 of 2 (7 PTS),64-48,64,48
+0022101213,2022-04-09,MEM,NOP,24.38,3,11,37,NOP,NOP,ft_make,12,False,False,,Valanciunas Free Throw 2 of 2 (8 PTS),64-49,64,49
+0022101213,2022-04-09,MEM,NOP,24.63,3,11,22,MEM,MEM,fg_miss,9,True,False,MISS Morant 5' Driving Dunk,,64-49,64,49
+0022101213,2022-04-09,MEM,NOP,24.63,3,11,22,MEM,NOP,block,9,True,False,block,block,64-49,64,49
+0022101213,2022-04-09,MEM,NOP,24.65,3,11,21,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:2 Def:2),,64-49,64,49
+0022101213,2022-04-09,MEM,NOP,24.65,3,11,21,MEM,MEM,fg_make,5,False,False,Morant 1' Layup (10 PTS),,66-49,66,49
+0022101213,2022-04-09,MEM,NOP,24.65,3,11,21,MEM,NOP,foul,2,False,False,,Valanciunas S.FOUL (P5.T1) (E.Dalen),66-49,66,49
+0022101213,2022-04-09,MEM,NOP,24.65,3,11,21,MEM,MEM,ft_make,10,False,False,Morant Free Throw 1 of 1 (11 PTS),,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,24.78,3,11,13,NOP,NOP,fg3_miss,1,False,False,,MISS Graham 26' 3PT Jump Shot,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,24.82,3,11,11,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.05,3,10,57,MEM,MEM,fg_miss,63,False,False,MISS Brooks 13' Fadeaway Jumper,,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.1,3,10,54,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:4 Def:6),,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.1,3,10,54,MEM,MEM,tov,1,False,True,Adams Bad Pass Turnover (P2.T10),,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.1,3,10,54,MEM,NOP,steal,1,False,True,steal,steal,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.1,3,10,54,NOP,MEM,foul,28,False,False,Bane Personal Take Foul (P3.T2) (E.Dalen),,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.2,3,10,48,NOP,NOP,fg_miss,78,False,False,,MISS Hernangomez 8' Floating Jump Shot,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.23,3,10,46,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:3),,67-49,67,49
+0022101213,2022-04-09,MEM,NOP,25.32,3,10,41,MEM,MEM,fg3_make,2,False,False,Bane 25' 3PT Running Jump Shot (8 PTS) (Brooks 2 AST),,70-49,70,49
+0022101213,2022-04-09,MEM,NOP,25.45,3,10,33,NOP,NOP,fg_miss,79,False,False,,MISS McCollum 10' Pullup Jump Shot,70-49,70,49
+0022101213,2022-04-09,MEM,NOP,25.48,3,10,31,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:8),,70-49,70,49
+0022101213,2022-04-09,MEM,NOP,25.53,3,10,28,MEM,NOP,foul,2,False,False,,Jones S.FOUL (P3.T2) (K.Fitzgerald),70-49,70,49
+0022101213,2022-04-09,MEM,NOP,25.53,3,10,28,MEM,MEM,ft_make,11,False,False,Bane Free Throw 1 of 2 (9 PTS),,71-49,71,49
+0022101213,2022-04-09,MEM,NOP,25.53,3,10,28,MEM,MEM,ft_make,12,False,False,Bane Free Throw 2 of 2 (10 PTS),,72-49,72,49
+0022101213,2022-04-09,MEM,NOP,25.78,3,10,13,NOP,NOP,fg3_miss,79,False,False,,MISS McCollum 26' 3PT Pullup Jump Shot,72-49,72,49
+0022101213,2022-04-09,MEM,NOP,25.83,3,10,10,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:9),,72-49,72,49
+0022101213,2022-04-09,MEM,NOP,26.03,3,9,58,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 25' 3PT Jump Shot,,72-49,72,49
+0022101213,2022-04-09,MEM,NOP,26.07,3,9,56,NOP,NOP,reb,0,False,False,,Pelicans Rebound,72-49,72,49
+0022101213,2022-04-09,MEM,NOP,26.18,3,9,49,NOP,NOP,tov,45,False,False,,Graham Out of Bounds - Bad Pass Turnover Turnover (P2.T8),72-49,72,49
+0022101213,2022-04-09,MEM,NOP,26.27,3,9,44,MEM,MEM,fg3_make,79,False,False,Bane 26' 3PT Pullup Jump Shot (13 PTS) (Morant 4 AST),,75-49,75,49
+0022101213,2022-04-09,MEM,NOP,26.27,3,9,44,NOP,MEM,foul,3,False,False,Jackson Jr. L.B.FOUL (P2.T3) (J.Sterling),,75-49,75,49
+0022101213,2022-04-09,MEM,NOP,26.45,3,9,33,NOP,NOP,fg3_make,79,False,False,,Graham 27' 3PT Pullup Jump Shot (9 PTS),75-52,75,52
+0022101213,2022-04-09,MEM,NOP,26.67,3,9,20,MEM,NOP,foul,2,False,False,,Jones S.FOUL (P4.T3) (K.Fitzgerald),75-52,75,52
+0022101213,2022-04-09,MEM,NOP,26.67,3,9,20,MEM,MEM,ft_make,13,False,False,Jackson Jr. Free Throw 1 of 3 (10 PTS),,76-52,76,52
+0022101213,2022-04-09,MEM,NOP,26.67,3,9,20,MEM,MEM,ft_make,14,False,False,Jackson Jr. Free Throw 2 of 3 (11 PTS),,77-52,77,52
+0022101213,2022-04-09,MEM,NOP,26.67,3,9,20,MEM,MEM,ft_make,15,False,False,Jackson Jr. Free Throw 3 of 3 (12 PTS),,78-52,78,52
+0022101213,2022-04-09,MEM,NOP,26.97,3,9,2,NOP,NOP,fg_miss,98,False,False,,MISS Hernangomez 2' Cutting Layup Shot,78-52,78,52
+0022101213,2022-04-09,MEM,NOP,26.97,3,9,2,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:2),78-52,78,52
+0022101213,2022-04-09,MEM,NOP,26.97,3,9,2,NOP,NOP,fg_make,97,False,False,,Hernangomez Tip Layup Shot (5 PTS),78-54,78,54
+0022101213,2022-04-09,MEM,NOP,26.97,3,9,2,NOP,MEM,violation,2,False,False,Jackson Jr. Violation:Defensive Goaltending (E.Dalen),,78-54,78,54
+0022101213,2022-04-09,MEM,NOP,26.97,3,9,2,NOP,NOP,fg_miss,97,False,False,,MISS Hernangomez 3' Tip Layup Shot,78-52,78,52
+0022101213,2022-04-09,MEM,NOP,26.97,3,9,2,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:4 Def:2),78-52,78,52
+0022101213,2022-04-09,MEM,NOP,27.12,3,8,53,MEM,MEM,tov,45,False,False,Morant Out of Bounds - Bad Pass Turnover Turnover (P4.T11),,78-54,78,54
+0022101213,2022-04-09,MEM,NOP,27.27,3,8,44,NOP,NOP,tov,45,False,False,,Graham Out of Bounds - Bad Pass Turnover Turnover (P3.T9),78-54,78,54
+0022101213,2022-04-09,MEM,NOP,27.47,3,8,32,MEM,MEM,fg3_make,79,False,False,Bane 25' 3PT Pullup Jump Shot (16 PTS) (Morant 5 AST),,81-54,81,54
+0022101213,2022-04-09,MEM,NOP,27.5,3,8,30,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.4 Short 0),81-54,81,54
+0022101213,2022-04-09,MEM,NOP,27.73,3,8,16,NOP,NOP,fg_miss,101,False,False,,MISS McCollum 6' Driving Floating Jump Shot,81-54,81,54
+0022101213,2022-04-09,MEM,NOP,27.77,3,8,14,MEM,MEM,reb,0,False,False,Adams REBOUND (Off:4 Def:7),,81-54,81,54
+0022101213,2022-04-09,MEM,NOP,27.88,3,8,7,MEM,MEM,fg3_make,1,False,False,Brooks 25' 3PT Jump Shot (19 PTS) (Adams 4 AST),,84-54,84,54
+0022101213,2022-04-09,MEM,NOP,28.03,3,7,58,NOP,NOP,fg_make,101,False,False,,Marshall 11' Driving Floating Jump Shot (2 PTS),84-56,84,56
+0022101213,2022-04-09,MEM,NOP,28.03,3,7,58,NOP,MEM,foul,2,False,False,Bane S.FOUL (P4.T4) (K.Fitzgerald),,84-56,84,56
+0022101213,2022-04-09,MEM,NOP,28.03,3,7,58,NOP,NOP,ft_make,10,False,False,,Marshall Free Throw 1 of 1 (3 PTS),84-57,84,57
+0022101213,2022-04-09,MEM,NOP,28.3,3,7,42,MEM,MEM,fg_make,96,False,False,Adams 1' Turnaround Bank Hook Shot (4 PTS) (Brooks 3 AST),,86-57,86,57
+0022101213,2022-04-09,MEM,NOP,28.52,3,7,29,NOP,NOP,fg_make,108,False,False,,Hernangomez 1' Cutting Dunk Shot (7 PTS) (McCollum 4 AST),86-59,86,59
+0022101213,2022-04-09,MEM,NOP,28.92,3,7,5,MEM,MEM,fg_make,101,False,False,Bane 8' Driving Floating Jump Shot (18 PTS) (Morant 6 AST),,88-59,88,59
+0022101213,2022-04-09,MEM,NOP,29.33,3,6,40,NOP,NOP,fg_make,99,False,False,,Hayes 1' Cutting Finger Roll Layup Shot (13 PTS) (Alvarado 3 AST),88-61,88,61
+0022101213,2022-04-09,MEM,NOP,29.53,3,6,28,MEM,MEM,fg_make,101,False,False,Brooks 12' Driving Floating Jump Shot (21 PTS) (Melton 2 AST),,90-61,90,61
+0022101213,2022-04-09,MEM,NOP,29.53,3,6,28,MEM,NOP,foul,2,False,False,,Marshall S.FOUL (P1.T4) (K.Fitzgerald),90-61,90,61
+0022101213,2022-04-09,MEM,NOP,29.53,3,6,28,MEM,MEM,ft_make,10,False,False,Brooks Free Throw 1 of 1 (22 PTS),,91-61,91,61
+0022101213,2022-04-09,MEM,NOP,29.68,3,6,19,NOP,NOP,fg3_make,79,False,False,,McCollum 26' 3PT Pullup Jump Shot (9 PTS),91-64,91,64
+0022101213,2022-04-09,MEM,NOP,29.92,3,6,5,MEM,MEM,fg_make,75,False,False,Morant 6' Driving Finger Roll Layup (13 PTS),,93-64,93,64
+0022101213,2022-04-09,MEM,NOP,30.17,3,5,50,NOP,MEM,foul,2,False,False,Adams S.FOUL (P4.PN) (J.Sterling),,93-64,93,64
+0022101213,2022-04-09,MEM,NOP,30.17,3,5,50,NOP,NOP,ft_make,11,False,False,,Hernangomez Free Throw 1 of 2 (8 PTS),93-65,93,65
+0022101213,2022-04-09,MEM,NOP,30.17,3,5,50,NOP,NOP,ft_miss,12,False,False,,MISS Hernangomez Free Throw 2 of 2,93-65,93,65
+0022101213,2022-04-09,MEM,NOP,30.2,3,5,48,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:2),,93-65,93,65
+0022101213,2022-04-09,MEM,NOP,30.22,3,5,47,MEM,MEM,tov,45,False,False,Anderson Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,93-65,93,65
+0022101213,2022-04-09,MEM,NOP,30.47,3,5,32,NOP,NOP,fg3_make,80,False,False,,McCollum 25' 3PT Step Back Jump Shot (12 PTS),93-68,93,68
+0022101213,2022-04-09,MEM,NOP,30.8,3,5,12,MEM,MEM,fg_make,75,False,False,Morant 2' Driving Finger Roll Layup (15 PTS),,95-68,95,68
+0022101213,2022-04-09,MEM,NOP,30.98,3,5,1,NOP,NOP,fg_make,101,False,False,,Alvarado 6' Driving Floating Jump Shot (8 PTS),95-70,95,70
+0022101213,2022-04-09,MEM,NOP,31.15,3,4,51,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 26' 3PT Jump Shot,,95-70,95,70
+0022101213,2022-04-09,MEM,NOP,31.2,3,4,48,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:4 Def:3),95-70,95,70
+0022101213,2022-04-09,MEM,NOP,31.27,3,4,44,NOP,MEM,foul,2,False,False,Brooks S.FOUL (P2.PN) (J.Sterling),,95-70,95,70
+0022101213,2022-04-09,MEM,NOP,31.27,3,4,44,NOP,NOP,ft_make,11,False,False,,Marshall Free Throw 1 of 2 (4 PTS),95-71,95,71
+0022101213,2022-04-09,MEM,NOP,31.27,3,4,44,NOP,NOP,ft_make,12,False,False,,Marshall Free Throw 2 of 2 (5 PTS),95-72,95,72
+0022101213,2022-04-09,MEM,NOP,31.65,3,4,21,MEM,MEM,fg_make,86,False,False,Melton 6' Turnaround Fadeaway (6 PTS) (Morant 7 AST),,97-72,97,72
+0022101213,2022-04-09,MEM,NOP,32.05,3,3,57,NOP,NOP,fg_miss,6,False,False,,MISS McCollum 6' Driving Layup,97-72,97,72
+0022101213,2022-04-09,MEM,NOP,32.07,3,3,56,NOP,NOP,reb,0,False,False,,Pelicans Rebound,97-72,97,72
+0022101213,2022-04-09,MEM,NOP,32.07,3,3,56,MEM,NOP,foul,11,False,False,,McCollum T.FOUL (P2.T4) (K.Fitzgerald),97-72,97,72
+0022101213,2022-04-09,MEM,NOP,32.07,3,3,56,MEM,MEM,ft_make,16,False,False,Brooks Free Throw Technical (23 PTS),,98-72,98,72
+0022101213,2022-04-09,MEM,NOP,32.07,3,3,56,MEM,NOP,foul,4,False,False,,McCollum OFF.Foul (P3) (J.Sterling),98-72,98,72
+0022101213,2022-04-09,MEM,NOP,32.07,3,3,56,NOP,NOP,tov,37,False,False,,McCollum Offensive Foul Turnover (P1.T10),98-72,98,72
+0022101213,2022-04-09,MEM,NOP,32.32,3,3,41,MEM,MEM,fg3_make,1,False,False,Melton 3PT Jump Shot (9 PTS) (Brooks 4 AST),,101-72,101,72
+0022101213,2022-04-09,MEM,NOP,32.38,3,3,37,NOP,MEM,foul,2,False,False,Anderson S.FOUL (P1.PN) (E.Dalen),,101-72,101,72
+0022101213,2022-04-09,MEM,NOP,32.38,3,3,37,NOP,NOP,ft_miss,11,False,False,,MISS McCollum Free Throw 1 of 2,101-72,101,72
+0022101213,2022-04-09,MEM,NOP,32.38,3,3,37,NOP,NOP,reb,1,False,False,,Pelicans Rebound,101-72,101,72
+0022101213,2022-04-09,MEM,NOP,32.38,3,3,37,NOP,NOP,ft_miss,12,False,False,,MISS McCollum Free Throw 2 of 2,101-72,101,72
+0022101213,2022-04-09,MEM,NOP,32.45,3,3,33,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:1 Def:2),,101-72,101,72
+0022101213,2022-04-09,MEM,NOP,32.62,3,3,23,MEM,MEM,fg_make,79,False,False,Clarke 6' Pullup Jump Shot (10 PTS) (Anderson 2 AST),,103-72,103,72
+0022101213,2022-04-09,MEM,NOP,32.82,3,3,11,NOP,NOP,fg_make,79,False,False,,McCollum 17' Pullup Jump Shot (14 PTS),103-74,103,74
+0022101213,2022-04-09,MEM,NOP,33.05,3,2,57,MEM,MEM,fg3_make,1,False,False,Melton 25' 3PT Jump Shot (12 PTS) (Brooks 5 AST),,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.33,3,2,40,NOP,NOP,fg3_miss,1,False,False,,MISS Nance Jr. 26' 3PT Jump Shot,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.38,3,2,37,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:5 Def:3),106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.43,3,2,34,NOP,NOP,fg3_miss,1,False,False,,MISS McCollum 26' 3PT Jump Shot,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.47,3,2,32,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.5,3,2,30,MEM,MEM,tov,2,False,True,Melton Lost Ball Turnover (P2.T13),,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.5,3,2,30,MEM,NOP,steal,2,False,True,steal,steal,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.5,3,2,30,NOP,MEM,foul,28,False,False,Clarke Personal Take Foul (P1.PN) (J.Sterling),,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.5,3,2,30,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 3 Short 0),,106-74,106,74
+0022101213,2022-04-09,MEM,NOP,33.5,3,2,30,MEM,NOP,ft_make,11,False,False,,Alvarado Free Throw 1 of 2 (9 PTS),106-75,106,75
+0022101213,2022-04-09,MEM,NOP,33.5,3,2,30,MEM,NOP,ft_make,12,False,False,,Alvarado Free Throw 2 of 2 (10 PTS),106-76,106,76
+0022101213,2022-04-09,MEM,NOP,33.72,3,2,17,MEM,MEM,fg_make,79,False,False,Clarke 8' Pullup Jump Shot (12 PTS) (Jones 7 AST),,108-76,108,76
+0022101213,2022-04-09,MEM,NOP,34.03,3,1,58,NOP,NOP,fg_make,63,False,False,,McCollum 17' Fadeaway Jumper (16 PTS),108-78,108,78
+0022101213,2022-04-09,MEM,NOP,34.25,3,1,45,MEM,MEM,fg_make,108,False,False,Anderson Cutting Dunk Shot (2 PTS) (Clarke 2 AST),,110-78,110,78
+0022101213,2022-04-09,MEM,NOP,34.43,3,1,34,NOP,NOP,tov,1,False,True,,Alvarado Bad Pass Turnover (P2.T11),110-78,110,78
+0022101213,2022-04-09,MEM,NOP,34.43,3,1,34,NOP,MEM,steal,1,False,True,steal,steal,110-78,110,78
+0022101213,2022-04-09,MEM,NOP,34.63,3,1,22,MEM,MEM,fg_miss,73,False,False,MISS Melton 1' Driving Reverse Layup,,110-78,110,78
+0022101213,2022-04-09,MEM,NOP,34.7,3,1,18,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:2),,110-78,110,78
+0022101213,2022-04-09,MEM,NOP,34.7,3,1,18,MEM,MEM,fg_make,97,False,False,Clarke Tip Layup Shot (14 PTS),,112-78,112,78
+0022101213,2022-04-09,MEM,NOP,34.92,3,1,5,NOP,NOP,tov,1,False,True,,Marshall Bad Pass Turnover (P1.T12),112-78,112,78
+0022101213,2022-04-09,MEM,NOP,34.92,3,1,5,NOP,MEM,steal,1,False,True,steal,steal,112-78,112,78
+0022101213,2022-04-09,MEM,NOP,35.05,3,0,57,MEM,MEM,fg3_make,1,False,False,Anderson 26' 3PT Jump Shot (5 PTS) (Jones 8 AST),,115-78,115,78
+0022101213,2022-04-09,MEM,NOP,35.18,3,0,49,NOP,NOP,fg_make,101,False,False,,Alvarado 11' Driving Floating Jump Shot (12 PTS),115-80,115,80
+0022101213,2022-04-09,MEM,NOP,35.47,3,0,32,MEM,MEM,fg3_miss,1,False,False,MISS Melton 25' 3PT Jump Shot,,115-80,115,80
+0022101213,2022-04-09,MEM,NOP,35.48,3,0,31,NOP,NOP,reb,0,False,False,,Pelicans Rebound,115-80,115,80
+0022101213,2022-04-09,MEM,NOP,35.7,3,0,18,NOP,NOP,fg_miss,101,False,False,,MISS Alvarado 9' Driving Floating Jump Shot,115-80,115,80
+0022101213,2022-04-09,MEM,NOP,35.73,3,0,16,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:3),,115-80,115,80
+0022101213,2022-04-09,MEM,NOP,35.78,3,0,13,MEM,MEM,fg_make,106,False,False,Williams 1' Running Alley Oop Dunk Shot (14 PTS) (Clarke 3 AST),,117-80,117,80
+0022101213,2022-04-09,MEM,NOP,35.88,3,0,7,NOP,NOP,fg_miss,6,False,False,,MISS Marshall 2' Driving Layup,117-80,117,80
+0022101213,2022-04-09,MEM,NOP,35.92,3,0,5,MEM,MEM,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,117-80,117,80
+0022101213,2022-04-09,MEM,NOP,36.0,3,0,0,MEM,MEM,fg_make,78,False,False,Clarke 6' Floating Jump Shot (16 PTS) (Williams 1 AST),,119-80,119,80
+0022101213,2022-04-09,MEM,NOP,36.0,3,0,0,MEM,,period_end,0,False,False,,,119-80,119,80
+0022101213,2022-04-09,MEM,NOP,36.0,4,12,0,MEM,,period_start,0,False,False,,,119-80,119,80
+0022101213,2022-04-09,MEM,NOP,36.37,4,11,38,MEM,MEM,fg3_make,80,False,False,Morant 25' 3PT Step Back Jump Shot (18 PTS) (Anderson 3 AST),,122-80,122,80
+0022101213,2022-04-09,MEM,NOP,36.4,4,11,36,NOP,MEM,foul,11,False,False,Morant T.FOUL (P2.T0) (E.Dalen),,122-80,122,80
+0022101213,2022-04-09,MEM,NOP,36.4,4,11,36,NOP,NOP,ft_make,16,False,False,,Murphy III Free Throw Technical (4 PTS),122-81,122,81
+0022101213,2022-04-09,MEM,NOP,36.67,4,11,20,NOP,NOP,fg_miss,5,True,False,,MISS Murphy III 2' Layup,122-81,122,81
+0022101213,2022-04-09,MEM,NOP,36.67,4,11,20,NOP,MEM,block,5,True,False,block,block,122-81,122,81
+0022101213,2022-04-09,MEM,NOP,36.67,4,11,20,NOP,NOP,reb,0,False,False,,Pelicans Rebound,122-81,122,81
+0022101213,2022-04-09,MEM,NOP,36.7,4,11,18,NOP,NOP,fg_make,108,False,False,,Snell Cutting Dunk Shot (2 PTS) (Alvarado 4 AST),122-83,122,83
+0022101213,2022-04-09,MEM,NOP,37.12,4,10,53,MEM,MEM,fg3_make,1,False,False,Morant 27' 3PT Jump Shot (21 PTS) (Anderson 4 AST),,125-83,125,83
+0022101213,2022-04-09,MEM,NOP,37.35,4,10,39,NOP,NOP,fg_make,78,False,False,,Hernangomez 6' Floating Jump Shot (10 PTS) (Alvarado 5 AST),125-85,125,85
+0022101213,2022-04-09,MEM,NOP,37.35,4,10,39,NOP,MEM,foul,2,False,False,Melton S.FOUL (P2.T1) (K.Fitzgerald),,125-85,125,85
+0022101213,2022-04-09,MEM,NOP,37.35,4,10,39,NOP,NOP,ft_make,10,False,False,,Hernangomez Free Throw 1 of 1 (11 PTS),125-86,125,86
+0022101213,2022-04-09,MEM,NOP,37.53,4,10,28,MEM,MEM,fg_make,52,False,False,Clarke 1' Alley Oop Dunk (18 PTS) (Morant 8 AST),,127-86,127,86
+0022101213,2022-04-09,MEM,NOP,37.88,4,10,7,NOP,NOP,fg3_miss,1,False,False,,MISS Nance Jr. 26' 3PT Jump Shot,127-86,127,86
+0022101213,2022-04-09,MEM,NOP,37.92,4,10,5,NOP,NOP,reb,0,False,False,,Murphy III REBOUND (Off:1 Def:0),127-86,127,86
+0022101213,2022-04-09,MEM,NOP,37.92,4,10,5,NOP,MEM,foul,2,False,False,Melton S.FOUL (P3.T2) (J.Sterling),,127-86,127,86
+0022101213,2022-04-09,MEM,NOP,37.92,4,10,5,NOP,NOP,ft_make,11,False,False,,Murphy III Free Throw 1 of 2 (5 PTS),127-87,127,87
+0022101213,2022-04-09,MEM,NOP,37.92,4,10,5,NOP,NOP,ft_make,12,False,False,,Murphy III Free Throw 2 of 2 (6 PTS),127-88,127,88
+0022101213,2022-04-09,MEM,NOP,38.32,4,9,41,MEM,MEM,fg_make,102,False,False,Anderson 7' Driving Floating Bank Jump Shot (7 PTS) (Melton 3 AST),,129-88,129,88
+0022101213,2022-04-09,MEM,NOP,38.53,4,9,28,NOP,MEM,violation,5,False,False,Clarke Violation:Kicked Ball (K.Fitzgerald),,129-88,129,88
+0022101213,2022-04-09,MEM,NOP,38.67,4,9,20,NOP,NOP,fg_miss,101,False,False,,MISS Murphy III 9' Driving Floating Jump Shot,129-88,129,88
+0022101213,2022-04-09,MEM,NOP,38.68,4,9,19,NOP,NOP,reb,0,False,False,,Pelicans Rebound,129-88,129,88
+0022101213,2022-04-09,MEM,NOP,38.73,4,9,16,NOP,NOP,fg_miss,63,False,False,,MISS Snell 21' Fadeaway Jumper,129-88,129,88
+0022101213,2022-04-09,MEM,NOP,38.75,4,9,15,NOP,NOP,reb,0,False,False,,Murphy III REBOUND (Off:2 Def:0),129-88,129,88
+0022101213,2022-04-09,MEM,NOP,38.75,4,9,15,NOP,MEM,foul,2,False,False,Anderson S.FOUL (P2.T3) (K.Fitzgerald),,129-88,129,88
+0022101213,2022-04-09,MEM,NOP,38.75,4,9,15,NOP,NOP,ft_make,11,False,False,,Murphy III Free Throw 1 of 2 (7 PTS),129-89,129,89
+0022101213,2022-04-09,MEM,NOP,38.75,4,9,15,NOP,NOP,ft_make,12,False,False,,Murphy III Free Throw 2 of 2 (8 PTS),129-90,129,90
+0022101213,2022-04-09,MEM,NOP,39.05,4,8,57,MEM,MEM,fg_miss,101,False,False,MISS Anderson 7' Driving Floating Jump Shot,,129-90,129,90
+0022101213,2022-04-09,MEM,NOP,39.13,4,8,52,NOP,NOP,reb,0,False,False,,Clark REBOUND (Off:0 Def:1),129-90,129,90
+0022101213,2022-04-09,MEM,NOP,39.3,4,8,42,NOP,NOP,fg_miss,102,False,False,,MISS Nance Jr. 6' Driving Floating Bank Jump Shot,129-90,129,90
+0022101213,2022-04-09,MEM,NOP,39.33,4,8,40,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:3),,129-90,129,90
+0022101213,2022-04-09,MEM,NOP,39.4,4,8,36,MEM,MEM,fg_make,43,False,False,Clarke 1' Alley Oop Layup (20 PTS) (Morant 9 AST),,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.57,4,8,26,NOP,NOP,fg_miss,58,True,False,,MISS Nance Jr. 1' Turnaround Hook Shot,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.57,4,8,26,NOP,MEM,block,58,True,False,block,block,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.57,4,8,26,NOP,NOP,reb,0,False,False,,Pelicans Rebound,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.75,4,8,15,NOP,NOP,fg_miss,5,True,False,,MISS Murphy III 5' Layup,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.75,4,8,15,NOP,MEM,block,5,True,False,block,block,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.77,4,8,14,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:2),,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.77,4,8,14,MEM,NOP,foul,28,False,False,,Alvarado Personal Take Foul (P1.T1) (E.Dalen),131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.77,4,8,14,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 4 Short 0),,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.97,4,8,2,MEM,NOP,foul,2,False,False,,Nance Jr. S.FOUL (P1.T2) (K.Fitzgerald),131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.97,4,8,2,MEM,MEM,ft_miss,11,False,False,MISS Tillman Free Throw 1 of 2,,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.97,4,8,2,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,39.97,4,8,2,MEM,MEM,ft_miss,12,False,False,MISS Tillman Free Throw 2 of 2,,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.0,4,8,0,NOP,NOP,reb,0,False,False,,Nance Jr. REBOUND (Off:1 Def:2),131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.23,4,7,46,NOP,NOP,fg3_miss,1,False,False,,MISS Snell 27' 3PT Jump Shot,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.3,4,7,42,MEM,MEM,reb,0,False,False,Pons REBOUND (Off:0 Def:1),,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.48,4,7,31,MEM,MEM,tov,1,False,True,Anderson Bad Pass Turnover (P2.T14),,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.48,4,7,31,MEM,NOP,steal,1,False,True,steal,steal,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.72,4,7,17,NOP,NOP,fg3_miss,1,False,False,,MISS Temple 25' 3PT Jump Shot,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.77,4,7,14,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:0 Def:1),,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.85,4,7,9,MEM,MEM,fg_miss,106,False,False,MISS Pons 2' Running Alley Oop Dunk Shot,,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.93,4,7,4,MEM,MEM,reb,0,False,False,Pons REBOUND (Off:1 Def:1),,131-90,131,90
+0022101213,2022-04-09,MEM,NOP,40.95,4,7,3,MEM,NOP,foul,1,False,False,,Nance Jr. P.FOUL (P2.T3) (K.Fitzgerald),131-90,131,90
+0022101213,2022-04-09,MEM,NOP,41.15,4,6,51,MEM,MEM,fg_make,6,False,False,Williams 2' Driving Layup (16 PTS),,133-90,133,90
+0022101213,2022-04-09,MEM,NOP,41.35,4,6,39,NOP,NOP,fg_make,102,False,False,,Harper 6' Driving Floating Bank Jump Shot (2 PTS) (Hernangomez 3 AST),133-92,133,92
+0022101213,2022-04-09,MEM,NOP,41.35,4,6,39,NOP,MEM,foul,2,False,False,Pons S.FOUL (P1.T4) (K.Fitzgerald),,133-92,133,92
+0022101213,2022-04-09,MEM,NOP,41.35,4,6,39,NOP,NOP,ft_make,10,False,False,,Harper Free Throw 1 of 1 (3 PTS),133-93,133,93
+0022101213,2022-04-09,MEM,NOP,41.7,4,6,18,MEM,MEM,fg3_miss,1,False,False,MISS Anderson 3PT Jump Shot,,133-93,133,93
+0022101213,2022-04-09,MEM,NOP,41.73,4,6,16,NOP,NOP,reb,0,False,False,,Temple REBOUND (Off:0 Def:1),133-93,133,93
+0022101213,2022-04-09,MEM,NOP,41.95,4,6,3,NOP,NOP,fg_make,75,False,False,,Snell 1' Driving Finger Roll Layup (4 PTS),133-95,133,95
+0022101213,2022-04-09,MEM,NOP,41.95,4,6,3,NOP,MEM,foul,2,False,False,Williams S.FOUL (P2.PN) (E.Dalen),,133-95,133,95
+0022101213,2022-04-09,MEM,NOP,41.95,4,6,3,NOP,NOP,ft_make,10,False,False,,Snell Free Throw 1 of 1 (5 PTS),133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.15,4,5,51,MEM,NOP,foul,1,False,False,,Snell P.FOUL (P1.T4) (E.Dalen),133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.32,4,5,41,MEM,MEM,tov,1,False,True,Pons Bad Pass Turnover (P1.T15),,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.32,4,5,41,MEM,NOP,steal,1,False,True,steal,steal,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.37,4,5,38,NOP,NOP,fg_miss,76,True,False,,MISS Harper 1' Running Finger Roll Layup,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.37,4,5,38,NOP,MEM,block,76,True,False,block,block,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.37,4,5,38,NOP,NOP,reb,0,False,False,,Pelicans Rebound,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.43,4,5,34,NOP,NOP,fg3_miss,1,False,False,,MISS Temple 3PT Jump Shot,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.47,4,5,32,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.62,4,5,23,MEM,NOP,foul,2,False,False,,Hernangomez S.FOUL (P2.PN) (J.Sterling),133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.62,4,5,23,MEM,MEM,ft_miss,11,False,False,MISS Williams Free Throw 1 of 2,,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.62,4,5,23,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,133-96,133,96
+0022101213,2022-04-09,MEM,NOP,42.62,4,5,23,MEM,MEM,ft_make,12,False,False,Williams Free Throw 2 of 2 (17 PTS),,134-96,134,96
+0022101213,2022-04-09,MEM,NOP,42.83,4,5,10,NOP,NOP,tov,40,False,False,,Snell Out of Bounds Lost Ball Turnover (P1.T13),134-96,134,96
+0022101213,2022-04-09,MEM,NOP,42.98,4,5,1,MEM,MEM,fg3_miss,1,False,False,MISS Tillman 25' 3PT Jump Shot,,134-96,134,96
+0022101213,2022-04-09,MEM,NOP,43.05,4,4,57,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:1 Def:1),,134-96,134,96
+0022101213,2022-04-09,MEM,NOP,43.05,4,4,57,MEM,MEM,fg_make,108,False,False,Williams 1' Cutting Dunk Shot (19 PTS) (Konchar 1 AST),,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.05,4,4,57,MEM,NOP,foul,2,False,False,,Hernangomez S.FOUL (P3.PN) (E.Dalen),136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.05,4,4,57,MEM,MEM,ft_miss,10,False,False,MISS Williams Free Throw 1 of 1,,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.12,4,4,53,MEM,MEM,reb,0,False,False,Williams REBOUND (Off:1 Def:1),,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.23,4,4,46,MEM,MEM,fg_miss,102,False,False,MISS Williams 9' Driving Floating Bank Jump Shot,,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.28,4,4,43,NOP,NOP,reb,0,False,False,,Clark REBOUND (Off:0 Def:2),136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.28,4,4,43,NOP,NOP,tov,1,False,True,,Clark Bad Pass Turnover (P1.T14),136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.28,4,4,43,NOP,MEM,steal,1,False,True,steal,steal,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.33,4,4,40,MEM,MEM,fg3_miss,1,False,False,MISS Williams 24' 3PT Jump Shot,,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.33,4,4,40,NOP,NOP,reb,0,False,False,,Pelicans Rebound,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.48,4,4,31,NOP,NOP,fg3_miss,1,False,False,,MISS Snell 24' 3PT Jump Shot,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.53,4,4,28,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:0 Def:2),,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.6,4,4,24,MEM,MEM,tov,2,False,True,Melton Lost Ball Turnover (P3.T16),,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.6,4,4,24,MEM,NOP,steal,2,False,True,steal,steal,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.73,4,4,16,NOP,NOP,tov,1,False,True,,Harper Bad Pass Turnover (P1.T15),136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.73,4,4,16,NOP,MEM,steal,1,False,True,steal,steal,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.83,4,4,10,MEM,MEM,fg_miss,106,False,False,MISS Pons 1' Running Alley Oop Dunk Shot,,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,43.83,4,4,10,NOP,NOP,reb,0,False,False,,Pelicans Rebound,136-96,136,96
+0022101213,2022-04-09,MEM,NOP,44.03,4,3,58,NOP,NOP,fg3_make,1,False,False,,Temple 26' 3PT Jump Shot (3 PTS) (Harper 1 AST),136-99,136,99
+0022101213,2022-04-09,MEM,NOP,44.32,4,3,41,MEM,MEM,tov,45,False,False,Konchar Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,136-99,136,99
+0022101213,2022-04-09,MEM,NOP,44.58,4,3,25,NOP,NOP,fg_make,98,False,False,,Hernangomez 1' Cutting Layup Shot (13 PTS) (Temple 1 AST),136-101,136,101
+0022101213,2022-04-09,MEM,NOP,44.75,4,3,15,MEM,MEM,fg3_miss,1,False,False,MISS Williams 27' 3PT Jump Shot,,136-101,136,101
+0022101213,2022-04-09,MEM,NOP,44.82,4,3,11,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:5 Def:4),136-101,136,101
+0022101213,2022-04-09,MEM,NOP,44.93,4,3,4,NOP,NOP,tov,45,False,False,,Clark Out of Bounds - Bad Pass Turnover Turnover (P2.T16),136-101,136,101
+0022101213,2022-04-09,MEM,NOP,45.07,4,2,56,MEM,MEM,fg3_miss,1,False,False,MISS Konchar 28' 3PT Jump Shot,,136-101,136,101
+0022101213,2022-04-09,MEM,NOP,45.12,4,2,53,NOP,NOP,reb,0,False,False,,Pelicans Rebound,136-101,136,101
+0022101213,2022-04-09,MEM,NOP,45.12,4,2,53,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.5 Short 0),136-101,136,101
+0022101213,2022-04-09,MEM,NOP,45.33,4,2,40,NOP,NOP,fg3_miss,1,False,False,,MISS Clark 26' 3PT Jump Shot,136-101,136,101
+0022101213,2022-04-09,MEM,NOP,45.33,4,2,40,NOP,NOP,reb,0,False,False,,Pelicans Rebound,136-101,136,101
+0022101213,2022-04-09,MEM,NOP,45.33,4,2,40,NOP,MEM,foul,3,False,False,Konchar L.B.FOUL (P1.PN) (E.Dalen),,136-101,136,101
+0022101213,2022-04-09,MEM,NOP,45.33,4,2,40,NOP,NOP,ft_make,11,False,False,,Hernangomez Free Throw 1 of 2 (14 PTS),136-102,136,102
+0022101213,2022-04-09,MEM,NOP,45.33,4,2,40,NOP,NOP,ft_make,12,False,False,,Hernangomez Free Throw 2 of 2 (15 PTS),136-103,136,103
+0022101213,2022-04-09,MEM,NOP,45.62,4,2,23,MEM,MEM,fg_miss,80,False,False,MISS Williams 14' Step Back Jump Shot,,136-103,136,103
+0022101213,2022-04-09,MEM,NOP,45.73,4,2,16,MEM,MEM,reb,0,False,False,Williams REBOUND (Off:2 Def:1),,136-103,136,103
+0022101213,2022-04-09,MEM,NOP,45.75,4,2,15,MEM,MEM,fg3_miss,1,False,False,MISS Tillman 25' 3PT Jump Shot,,136-103,136,103
+0022101213,2022-04-09,MEM,NOP,45.8,4,2,12,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:1 Def:2),,136-103,136,103
+0022101213,2022-04-09,MEM,NOP,45.98,4,2,1,MEM,MEM,fg3_make,1,False,False,Tillman 3PT Jump Shot (3 PTS) (Williams 2 AST),,139-103,139,103
+0022101213,2022-04-09,MEM,NOP,46.28,4,1,43,NOP,NOP,fg_make,79,False,False,,Harper 20' Pullup Jump Shot (5 PTS) (Hernangomez 4 AST),139-105,139,105
+0022101213,2022-04-09,MEM,NOP,46.43,4,1,34,MEM,MEM,fg3_miss,1,False,False,MISS Pons 25' 3PT Jump Shot,,139-105,139,105
+0022101213,2022-04-09,MEM,NOP,46.48,4,1,31,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:5 Def:5),139-105,139,105
+0022101213,2022-04-09,MEM,NOP,46.65,4,1,21,NOP,NOP,fg3_make,79,False,False,,Harper 25' 3PT Pullup Jump Shot (8 PTS) (Snell 1 AST),139-108,139,108
+0022101213,2022-04-09,MEM,NOP,46.97,4,1,2,MEM,MEM,tov,1,False,True,Williams Bad Pass Turnover (P1.T18),,139-108,139,108
+0022101213,2022-04-09,MEM,NOP,46.97,4,1,2,MEM,NOP,steal,1,False,True,steal,steal,139-108,139,108
+0022101213,2022-04-09,MEM,NOP,46.98,4,1,1,NOP,NOP,fg_make,50,False,False,,Harper Running Dunk (10 PTS),139-110,139,110
+0022101213,2022-04-09,MEM,NOP,47.27,4,0,44,MEM,MEM,fg_make,75,False,False,Konchar 2' Driving Finger Roll Layup (2 PTS) (Tillman 1 AST),,141-110,141,110
+0022101213,2022-04-09,MEM,NOP,47.42,4,0,35,NOP,NOP,fg_make,79,False,False,,Harper 19' Pullup Jump Shot (12 PTS),141-112,141,112
+0022101213,2022-04-09,MEM,NOP,47.82,4,0,11,MEM,MEM,tov,11,False,False,GRIZZLIES Turnover: Shot Clock (T#19),,141-112,141,112
+0022101213,2022-04-09,MEM,NOP,47.88,4,0,7,NOP,NOP,fg_make,9,False,False,,Snell 1' Driving Dunk (7 PTS) (Harper 2 AST),141-114,141,114
+0022101213,2022-04-09,MEM,NOP,48.0,4,0,0,NOP,,period_end,0,False,False,,,141-114,141,114

@@ -1,0 +1,450 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022001006,2021-05-07,MIL,HOU,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022001006,2021-05-07,MIL,HOU,0.0,1,12,0,,MIL,jump_ball,0,False,False,Jump Ball Lopez vs. Olynyk: Tip to Antetokounmpo,,0-0,0,0
+0022001006,2021-05-07,MIL,HOU,0.22,1,11,47,MIL,HOU,foul,1,False,False,,Martin Jr. P.FOUL (P1.T1) (D.Taylor),0-0,0,0
+0022001006,2021-05-07,MIL,HOU,0.33,1,11,40,MIL,MIL,fg_make,52,False,False,Lopez 8' Alley Oop Dunk (2 PTS) (Antetokounmpo 1 AST),,2-0,2,0
+0022001006,2021-05-07,MIL,HOU,0.65,1,11,21,HOU,HOU,fg_miss,1,False,False,,MISS Olynyk 8' Jump Shot,2-0,2,0
+0022001006,2021-05-07,MIL,HOU,0.65,1,11,21,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:0),2-0,2,0
+0022001006,2021-05-07,MIL,HOU,0.65,1,11,21,HOU,MIL,foul,2,False,False,Lopez S.FOUL (P1.T1) (D.Taylor),,2-0,2,0
+0022001006,2021-05-07,MIL,HOU,0.65,1,11,21,HOU,HOU,ft_make,11,False,False,,Olynyk Free Throw 1 of 2 (1 PTS),2-1,2,1
+0022001006,2021-05-07,MIL,HOU,0.65,1,11,21,HOU,HOU,ft_miss,12,False,False,,MISS Olynyk Free Throw 2 of 2,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,0.73,1,11,16,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:1),,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,0.92,1,11,5,MIL,MIL,fg3_miss,1,False,False,MISS Holiday 24' 3PT Jump Shot,,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,0.97,1,11,2,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:1),2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.08,1,10,55,HOU,HOU,fg3_miss,1,False,False,,MISS Martin Jr. 28' 3PT Jump Shot,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.15,1,10,51,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:1),,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.27,1,10,44,MIL,MIL,tov,39,False,False,DiVincenzo Step Out of Bounds Turnover (P1.T1),,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.45,1,10,33,HOU,HOU,fg3_miss,1,False,False,,MISS Olynyk 27' 3PT Jump Shot,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.5,1,10,30,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:2),,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.67,1,10,20,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 27' 3PT Jump Shot,,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.7,1,10,18,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:0),,2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.72,1,10,17,MIL,HOU,foul,2,False,False,,Jeffries S.FOUL (P1.T2) (D.Taylor),2-1,2,1
+0022001006,2021-05-07,MIL,HOU,1.72,1,10,17,MIL,MIL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (3 PTS),,3-1,3,1
+0022001006,2021-05-07,MIL,HOU,1.72,1,10,17,MIL,MIL,ft_make,12,False,False,Lopez Free Throw 2 of 2 (4 PTS),,4-1,4,1
+0022001006,2021-05-07,MIL,HOU,1.97,1,10,2,HOU,HOU,fg3_miss,1,False,False,,MISS Martin Jr. 27' 3PT Jump Shot,4-1,4,1
+0022001006,2021-05-07,MIL,HOU,2.03,1,9,58,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:2),,4-1,4,1
+0022001006,2021-05-07,MIL,HOU,2.1,1,9,54,MIL,MIL,fg_make,101,False,False,Lopez 5' Driving Floating Jump Shot (6 PTS) (Antetokounmpo 2 AST),,6-1,6,1
+0022001006,2021-05-07,MIL,HOU,2.28,1,9,43,HOU,HOU,fg3_make,101,False,False,,Martin Jr. 3PT Driving Floating Jump Shot (3 PTS) (Olynyk 1 AST),6-4,6,4
+0022001006,2021-05-07,MIL,HOU,2.5,1,9,30,MIL,MIL,fg_make,44,False,False,DiVincenzo 4' Reverse Layup (2 PTS) (Holiday 1 AST),,8-4,8,4
+0022001006,2021-05-07,MIL,HOU,2.75,1,9,15,HOU,HOU,tov,1,False,False,,Augustin Bad Pass Turnover (P1.T1),8-4,8,4
+0022001006,2021-05-07,MIL,HOU,2.88,1,9,7,MIL,MIL,fg_make,79,False,False,Antetokounmpo 15' Pullup Jump Shot (2 PTS) (Holiday 2 AST),,10-4,10,4
+0022001006,2021-05-07,MIL,HOU,3.15,1,8,51,HOU,HOU,tov,4,False,False,,Olynyk Traveling Turnover (P1.T2),10-4,10,4
+0022001006,2021-05-07,MIL,HOU,3.37,1,8,38,MIL,MIL,fg_make,108,False,False,Antetokounmpo 2' Cutting Dunk Shot (4 PTS) (DiVincenzo 1 AST),,12-4,12,4
+0022001006,2021-05-07,MIL,HOU,3.52,1,8,29,HOU,HOU,fg_miss,98,False,False,,MISS Lamb 2' Cutting Layup Shot,12-4,12,4
+0022001006,2021-05-07,MIL,HOU,3.6,1,8,24,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:1),,12-4,12,4
+0022001006,2021-05-07,MIL,HOU,3.63,1,8,22,HOU,MIL,foul,26,False,False,Lopez Offensive Charge Foul (P2.T2) (E.Scott),,12-4,12,4
+0022001006,2021-05-07,MIL,HOU,3.63,1,8,22,MIL,MIL,tov,37,False,False,Lopez Offensive Foul Turnover (P1.T2),,12-4,12,4
+0022001006,2021-05-07,MIL,HOU,3.75,1,8,15,HOU,HOU,fg3_make,79,False,False,,Augustin 27' 3PT Pullup Jump Shot (3 PTS),12-7,12,7
+0022001006,2021-05-07,MIL,HOU,4.08,1,7,55,MIL,MIL,fg_make,86,False,False,Antetokounmpo 13' Turnaround Fadeaway (6 PTS),,14-7,14,7
+0022001006,2021-05-07,MIL,HOU,4.18,1,7,49,HOU,HOU,fg_miss,6,False,False,,MISS Martin Jr. 2' Driving Layup,14-7,14,7
+0022001006,2021-05-07,MIL,HOU,4.22,1,7,47,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:3),,14-7,14,7
+0022001006,2021-05-07,MIL,HOU,4.35,1,7,39,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 26' 3PT Jump Shot,,14-7,14,7
+0022001006,2021-05-07,MIL,HOU,4.4,1,7,36,HOU,HOU,reb,0,False,False,,Jeffries REBOUND (Off:0 Def:1),14-7,14,7
+0022001006,2021-05-07,MIL,HOU,4.53,1,7,28,HOU,HOU,fg_miss,6,False,False,,MISS Martin Jr. 2' Driving Layup,14-7,14,7
+0022001006,2021-05-07,MIL,HOU,4.58,1,7,25,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:2),,14-7,14,7
+0022001006,2021-05-07,MIL,HOU,4.63,1,7,22,MIL,MIL,fg_make,41,False,False,Antetokounmpo 3' Running Layup (8 PTS) (Holiday 3 AST),,16-7,16,7
+0022001006,2021-05-07,MIL,HOU,4.63,1,7,22,MIL,HOU,foul,2,False,False,,Jeffries S.FOUL (P2.T3) (E.Scott),16-7,16,7
+0022001006,2021-05-07,MIL,HOU,4.63,1,7,22,MIL,MIL,ft_miss,10,False,False,MISS Antetokounmpo Free Throw 1 of 1,,16-7,16,7
+0022001006,2021-05-07,MIL,HOU,4.7,1,7,18,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:2),16-7,16,7
+0022001006,2021-05-07,MIL,HOU,4.78,1,7,13,HOU,HOU,fg_make,7,False,False,,Jeffries 2' Dunk (2 PTS),16-9,16,9
+0022001006,2021-05-07,MIL,HOU,4.97,1,7,2,MIL,MIL,fg_make,102,False,False,Middleton 5' Driving Floating Bank Jump Shot (2 PTS),,18-9,18,9
+0022001006,2021-05-07,MIL,HOU,5.18,1,6,49,HOU,MIL,violation,5,False,False,Tucker Violation:Kicked Ball (D.Taylor),,18-9,18,9
+0022001006,2021-05-07,MIL,HOU,5.18,1,6,49,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,18-9,18,9
+0022001006,2021-05-07,MIL,HOU,5.4,1,6,36,HOU,HOU,fg3_miss,1,False,False,,MISS Augustin 26' 3PT Jump Shot,18-9,18,9
+0022001006,2021-05-07,MIL,HOU,5.43,1,6,34,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:4),,18-9,18,9
+0022001006,2021-05-07,MIL,HOU,5.53,1,6,28,MIL,MIL,tov,4,False,False,Antetokounmpo Traveling Turnover (P1.T3),,18-9,18,9
+0022001006,2021-05-07,MIL,HOU,5.78,1,6,13,HOU,HOU,fg_make,98,False,False,,Olynyk Cutting Layup Shot (3 PTS) (Augustin 1 AST),18-11,18,11
+0022001006,2021-05-07,MIL,HOU,5.93,1,6,4,MIL,MIL,tov,1,False,True,Forbes Bad Pass Turnover (P1.T4),,18-11,18,11
+0022001006,2021-05-07,MIL,HOU,5.93,1,6,4,MIL,HOU,steal,1,False,True,steal,steal,18-11,18,11
+0022001006,2021-05-07,MIL,HOU,6.0,1,6,0,HOU,HOU,fg_make,41,False,False,,Olynyk 2' Running Layup (5 PTS),18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.25,1,5,45,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 27' 3PT Jump Shot,,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.28,1,5,43,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:0 Def:1),18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.5,1,5,30,HOU,HOU,fg_miss,5,False,False,,MISS Martin Jr. 4' Layup,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.52,1,5,29,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:1),18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.53,1,5,28,HOU,HOU,fg_miss,6,True,False,,MISS Olynyk 2' Driving Layup,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.53,1,5,28,HOU,MIL,block,6,True,False,block,block,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.55,1,5,27,HOU,HOU,reb,0,False,False,,Rockets Rebound,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.63,1,5,22,HOU,HOU,fg3_miss,1,False,False,,MISS Augustin 29' 3PT Jump Shot,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.68,1,5,19,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:5),,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.78,1,5,13,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 26' 3PT Jump Shot,,18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.82,1,5,11,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:2),18-13,18,13
+0022001006,2021-05-07,MIL,HOU,6.98,1,5,1,HOU,HOU,fg_make,6,False,False,,Augustin 3' Driving Layup (5 PTS),18-15,18,15
+0022001006,2021-05-07,MIL,HOU,7.23,1,4,46,MIL,MIL,tov,39,False,False,Connaughton Step Out of Bounds Turnover (P1.T5),,18-15,18,15
+0022001006,2021-05-07,MIL,HOU,7.48,1,4,31,HOU,MIL,foul,2,False,False,Tucker S.FOUL (P1.T3) (J.Tiven),,18-15,18,15
+0022001006,2021-05-07,MIL,HOU,7.48,1,4,31,HOU,HOU,ft_miss,11,False,False,,MISS House Jr. Free Throw 1 of 2,18-15,18,15
+0022001006,2021-05-07,MIL,HOU,7.48,1,4,31,HOU,HOU,reb,1,False,False,,Rockets Rebound,18-15,18,15
+0022001006,2021-05-07,MIL,HOU,7.48,1,4,31,HOU,HOU,ft_miss,12,False,False,,MISS House Jr. Free Throw 2 of 2,18-15,18,15
+0022001006,2021-05-07,MIL,HOU,7.48,1,4,31,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:1),,18-15,18,15
+0022001006,2021-05-07,MIL,HOU,7.65,1,4,21,MIL,MIL,fg3_make,1,False,False,Forbes 26' 3PT Jump Shot (3 PTS) (Antetokounmpo 3 AST),,21-15,21,15
+0022001006,2021-05-07,MIL,HOU,7.87,1,4,8,HOU,HOU,fg3_miss,1,False,False,,MISS Augustin 32' 3PT Jump Shot,21-15,21,15
+0022001006,2021-05-07,MIL,HOU,7.92,1,4,5,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:6),,21-15,21,15
+0022001006,2021-05-07,MIL,HOU,7.98,1,4,1,MIL,MIL,fg_make,41,False,False,Antetokounmpo 3' Running Layup (11 PTS),,23-15,23,15
+0022001006,2021-05-07,MIL,HOU,7.98,1,4,1,MIL,MIL,ft_make,10,False,False,Antetokounmpo Free Throw 1 of 1 (11 PTS),,24-15,24,15
+0022001006,2021-05-07,MIL,HOU,7.98,1,4,1,MIL,HOU,foul,2,False,False,,House Jr. S.FOUL (P1.T4) (D.Taylor),24-15,24,15
+0022001006,2021-05-07,MIL,HOU,8.2,1,3,48,HOU,HOU,fg3_make,80,False,False,,House Jr. 26' 3PT Step Back Jump Shot (3 PTS) (Brooks 1 AST),24-18,24,18
+0022001006,2021-05-07,MIL,HOU,8.43,1,3,34,MIL,MIL,fg3_make,1,False,False,Forbes 26' 3PT Jump Shot (6 PTS) (Antetokounmpo 4 AST),,27-18,27,18
+0022001006,2021-05-07,MIL,HOU,8.68,1,3,19,HOU,HOU,fg3_make,1,False,False,,Jeffries 25' 3PT Jump Shot (5 PTS) (House Jr. 1 AST),27-21,27,21
+0022001006,2021-05-07,MIL,HOU,9.03,1,2,58,MIL,MIL,tov,2,False,True,Portis Lost Ball Turnover (P1.T6),,27-21,27,21
+0022001006,2021-05-07,MIL,HOU,9.03,1,2,58,MIL,HOU,steal,2,False,True,steal,steal,27-21,27,21
+0022001006,2021-05-07,MIL,HOU,9.13,1,2,52,HOU,HOU,fg3_make,1,False,False,,Thomas 26' 3PT Jump Shot (3 PTS) (Brooks 2 AST),27-24,27,24
+0022001006,2021-05-07,MIL,HOU,9.43,1,2,34,MIL,MIL,fg_miss,1,True,False,MISS Holiday 5' Jump Shot,,27-24,27,24
+0022001006,2021-05-07,MIL,HOU,9.43,1,2,34,MIL,HOU,block,1,True,False,block,block,27-24,27,24
+0022001006,2021-05-07,MIL,HOU,9.43,1,2,34,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:3),27-24,27,24
+0022001006,2021-05-07,MIL,HOU,9.53,1,2,28,HOU,HOU,fg_make,41,False,False,,Brooks Running Layup (2 PTS) (Martin Jr. 1 AST),27-26,27,26
+0022001006,2021-05-07,MIL,HOU,9.53,1,2,28,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 2 Short 0),,27-26,27,26
+0022001006,2021-05-07,MIL,HOU,9.72,1,2,17,MIL,MIL,fg3_make,80,False,False,Holiday 26' 3PT Step Back Jump Shot (3 PTS),,30-26,30,26
+0022001006,2021-05-07,MIL,HOU,10.03,1,1,58,HOU,HOU,fg_miss,6,False,False,,MISS Martin Jr. 2' Driving Layup,30-26,30,26
+0022001006,2021-05-07,MIL,HOU,10.08,1,1,55,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,30-26,30,26
+0022001006,2021-05-07,MIL,HOU,10.28,1,1,43,MIL,MIL,fg_make,6,False,False,Connaughton 3' Driving Layup (2 PTS) (Holiday 4 AST),,32-26,32,26
+0022001006,2021-05-07,MIL,HOU,10.5,1,1,30,HOU,HOU,fg3_miss,1,False,False,,MISS Lamb 26' 3PT Jump Shot,32-26,32,26
+0022001006,2021-05-07,MIL,HOU,10.55,1,1,27,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:0 Def:1),,32-26,32,26
+0022001006,2021-05-07,MIL,HOU,10.68,1,1,19,MIL,MIL,fg_make,101,False,False,Forbes 11' Driving Floating Jump Shot (8 PTS) (Portis 1 AST),,34-26,34,26
+0022001006,2021-05-07,MIL,HOU,10.83,1,1,10,MIL,HOU,foul,26,False,False,,Brooks Offensive Charge Foul (P1.PN) (D.Taylor),34-26,34,26
+0022001006,2021-05-07,MIL,HOU,10.83,1,1,10,HOU,HOU,tov,37,False,False,,Brooks Offensive Foul Turnover (P1.T3),34-26,34,26
+0022001006,2021-05-07,MIL,HOU,10.95,1,1,3,HOU,MIL,foul,4,False,False,Tucker OFF.Foul (P2) (D.Taylor),,34-26,34,26
+0022001006,2021-05-07,MIL,HOU,10.95,1,1,3,MIL,MIL,tov,37,False,False,Tucker Offensive Foul Turnover (P1.T7),,34-26,34,26
+0022001006,2021-05-07,MIL,HOU,11.12,1,0,53,HOU,HOU,fg3_make,1,False,False,,Martin Jr. 29' 3PT Jump Shot (6 PTS) (House Jr. 2 AST),34-29,34,29
+0022001006,2021-05-07,MIL,HOU,11.25,1,0,45,MIL,MIL,fg_miss,5,True,False,MISS Portis 3' Layup,,34-29,34,29
+0022001006,2021-05-07,MIL,HOU,11.25,1,0,45,MIL,HOU,block,5,True,False,block,block,34-29,34,29
+0022001006,2021-05-07,MIL,HOU,11.25,1,0,45,HOU,HOU,reb,0,False,False,,Lamb REBOUND (Off:0 Def:1),34-29,34,29
+0022001006,2021-05-07,MIL,HOU,11.37,1,0,38,HOU,HOU,fg3_make,1,False,False,,Martin Jr. 3PT Jump Shot (9 PTS) (House Jr. 3 AST),34-32,34,32
+0022001006,2021-05-07,MIL,HOU,11.53,1,0,28,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 26' 3PT Jump Shot,,34-32,34,32
+0022001006,2021-05-07,MIL,HOU,11.55,1,0,27,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:1 Def:1),,34-32,34,32
+0022001006,2021-05-07,MIL,HOU,11.55,1,0,27,MIL,MIL,fg_miss,97,False,False,MISS Portis 5' Tip Layup Shot,,34-32,34,32
+0022001006,2021-05-07,MIL,HOU,11.55,1,0,27,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:4),34-32,34,32
+0022001006,2021-05-07,MIL,HOU,11.88,1,0,7,HOU,HOU,fg3_miss,1,False,False,,MISS Brooks 27' 3PT Jump Shot,34-32,34,32
+0022001006,2021-05-07,MIL,HOU,11.95,1,0,3,HOU,HOU,reb,0,False,False,,Thomas REBOUND (Off:1 Def:0),34-32,34,32
+0022001006,2021-05-07,MIL,HOU,11.95,1,0,3,HOU,HOU,fg_make,63,False,False,,Thomas 15' Fadeaway Jumper (5 PTS),34-34,34,34
+0022001006,2021-05-07,MIL,HOU,12.0,1,0,0,MIL,MIL,fg3_miss,1,False,False,MISS Holiday 51' 3PT Jump Shot,,34-34,34,34
+0022001006,2021-05-07,MIL,HOU,12.0,1,0,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,34-34,34,34
+0022001006,2021-05-07,MIL,HOU,12.0,1,0,0,MIL,,period_end,0,False,False,,,34-34,34,34
+0022001006,2021-05-07,MIL,HOU,12.0,2,12,0,MIL,,period_start,0,False,False,,,34-34,34,34
+0022001006,2021-05-07,MIL,HOU,12.28,2,11,43,HOU,HOU,fg3_miss,1,False,False,,MISS Olynyk 28' 3PT Jump Shot,34-34,34,34
+0022001006,2021-05-07,MIL,HOU,12.33,2,11,40,HOU,HOU,reb,0,False,False,,Thomas REBOUND (Off:2 Def:0),34-34,34,34
+0022001006,2021-05-07,MIL,HOU,12.5,2,11,30,HOU,HOU,fg_make,1,False,False,,Thomas 13' Jump Shot (7 PTS) (Brooks 3 AST),34-36,34,36
+0022001006,2021-05-07,MIL,HOU,12.75,2,11,15,MIL,MIL,fg_miss,47,False,False,MISS Middleton 12' Turnaround Jump Shot,,34-36,34,36
+0022001006,2021-05-07,MIL,HOU,12.78,2,11,13,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:3 Def:1),,34-36,34,36
+0022001006,2021-05-07,MIL,HOU,12.78,2,11,13,MIL,MIL,fg_miss,72,True,False,MISS Portis 4' Putback Layup,,34-36,34,36
+0022001006,2021-05-07,MIL,HOU,12.78,2,11,13,MIL,HOU,block,72,True,False,block,block,34-36,34,36
+0022001006,2021-05-07,MIL,HOU,12.8,2,11,12,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:3 Def:1),,34-36,34,36
+0022001006,2021-05-07,MIL,HOU,12.85,2,11,9,MIL,MIL,fg_make,5,False,False,Portis 5' Layup (2 PTS),,36-36,36,36
+0022001006,2021-05-07,MIL,HOU,13.02,2,10,59,HOU,HOU,fg3_make,1,False,False,,Brooks 3PT Jump Shot (5 PTS) (House Jr. 4 AST),36-39,36,39
+0022001006,2021-05-07,MIL,HOU,13.23,2,10,46,MIL,HOU,foul,1,False,False,,House Jr. P.FOUL (P2.T1) (E.Scott),36-39,36,39
+0022001006,2021-05-07,MIL,HOU,13.32,2,10,41,MIL,MIL,tov,1,False,True,Teague Bad Pass Turnover (P1.T8),,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,13.32,2,10,41,MIL,HOU,steal,1,False,True,steal,steal,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,13.6,2,10,24,HOU,HOU,tov,1,False,True,,Augustin Bad Pass Turnover (P2.T4),36-39,36,39
+0022001006,2021-05-07,MIL,HOU,13.6,2,10,24,HOU,MIL,steal,1,False,True,steal,steal,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,13.8,2,10,12,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 25' 3PT Jump Shot,,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,13.87,2,10,8,HOU,HOU,reb,0,False,False,,Augustin REBOUND (Off:0 Def:1),36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.13,2,9,52,HOU,HOU,fg3_miss,1,False,False,,MISS Brooks 28' 3PT Jump Shot,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.18,2,9,49,HOU,HOU,reb,0,False,False,,Brooks REBOUND (Off:1 Def:0),36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.22,2,9,47,HOU,HOU,tov,1,False,True,,Brooks Bad Pass Turnover (P2.T5),36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.22,2,9,47,HOU,MIL,steal,1,False,True,steal,steal,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.3,2,9,42,MIL,MIL,fg_miss,6,False,False,MISS Middleton 4' Driving Layup,,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.35,2,9,39,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:3),36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.47,2,9,32,HOU,HOU,fg_miss,6,False,False,,MISS Olynyk 6' Driving Layup,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.53,2,9,28,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:2),,36-39,36,39
+0022001006,2021-05-07,MIL,HOU,14.63,2,9,22,MIL,MIL,fg_make,98,False,False,Connaughton 3' Cutting Layup Shot (4 PTS) (Teague 1 AST),,38-39,38,39
+0022001006,2021-05-07,MIL,HOU,14.68,2,9,19,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.1 Short 0),38-39,38,39
+0022001006,2021-05-07,MIL,HOU,14.9,2,9,6,HOU,HOU,fg_make,43,False,False,,Olynyk 2' Alley Oop Layup (7 PTS) (Augustin 2 AST),38-41,38,41
+0022001006,2021-05-07,MIL,HOU,15.08,2,8,55,MIL,MIL,tov,39,False,False,Portis Step Out of Bounds Turnover (P2.T9),,38-41,38,41
+0022001006,2021-05-07,MIL,HOU,15.3,2,8,42,HOU,HOU,fg_make,5,False,False,,Thomas 2' Layup (9 PTS) (Augustin 3 AST),38-43,38,43
+0022001006,2021-05-07,MIL,HOU,15.48,2,8,31,MIL,MIL,fg_miss,5,True,False,MISS DiVincenzo 2' Layup,,38-43,38,43
+0022001006,2021-05-07,MIL,HOU,15.48,2,8,31,MIL,HOU,block,5,True,False,block,block,38-43,38,43
+0022001006,2021-05-07,MIL,HOU,15.57,2,8,26,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:2),,38-43,38,43
+0022001006,2021-05-07,MIL,HOU,15.58,2,8,25,MIL,MIL,fg3_make,1,False,False,Portis 24' 3PT Jump Shot (5 PTS) (Middleton 1 AST),,41-43,41,43
+0022001006,2021-05-07,MIL,HOU,16.03,2,7,58,HOU,HOU,fg_make,79,False,False,,Brooks 15' Pullup Jump Shot (7 PTS) (Augustin 4 AST),41-45,41,45
+0022001006,2021-05-07,MIL,HOU,16.33,2,7,40,MIL,MIL,fg_miss,1,False,False,MISS Portis 12' Jump Shot,,41-45,41,45
+0022001006,2021-05-07,MIL,HOU,16.33,2,7,40,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:4),41-45,41,45
+0022001006,2021-05-07,MIL,HOU,16.47,2,7,32,HOU,MIL,foul,2,False,False,Antetokounmpo S.FOUL (P1.T1) (E.Scott),,41-45,41,45
+0022001006,2021-05-07,MIL,HOU,16.47,2,7,32,HOU,HOU,ft_miss,11,False,False,,MISS Augustin Free Throw 1 of 2,41-45,41,45
+0022001006,2021-05-07,MIL,HOU,16.47,2,7,32,HOU,HOU,reb,1,False,False,,Rockets Rebound,41-45,41,45
+0022001006,2021-05-07,MIL,HOU,16.47,2,7,32,HOU,HOU,ft_make,12,False,False,,Augustin Free Throw 2 of 2 (6 PTS),41-46,41,46
+0022001006,2021-05-07,MIL,HOU,16.8,2,7,12,MIL,MIL,fg_make,101,False,False,Teague 8' Driving Floating Jump Shot (2 PTS),,43-46,43,46
+0022001006,2021-05-07,MIL,HOU,17.07,2,6,56,HOU,HOU,tov,1,False,True,,Augustin Bad Pass Turnover (P3.T6),43-46,43,46
+0022001006,2021-05-07,MIL,HOU,17.07,2,6,56,HOU,MIL,steal,1,False,True,steal,steal,43-46,43,46
+0022001006,2021-05-07,MIL,HOU,17.18,2,6,49,MIL,MIL,fg_make,41,False,False,Antetokounmpo 3' Running Layup (13 PTS),,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.45,2,6,33,HOU,HOU,fg_miss,79,False,False,,MISS Brooks 13' Pullup Jump Shot,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.48,2,6,31,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:7),,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.65,2,6,21,MIL,MIL,fg_miss,47,False,False,MISS Middleton 9' Turnaround Jump Shot,,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.7,2,6,18,HOU,HOU,reb,0,False,False,,Augustin REBOUND (Off:0 Def:2),45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.8,2,6,12,HOU,HOU,fg_miss,79,False,False,,MISS Augustin 17' Pullup Jump Shot,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.85,2,6,9,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:8),,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.95,2,6,3,HOU,MIL,foul,26,False,False,DiVincenzo Offensive Charge Foul (P1.T2) (E.Scott),,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,17.95,2,6,3,MIL,MIL,tov,37,False,False,DiVincenzo Offensive Foul Turnover (P2.T10),,45-46,45,46
+0022001006,2021-05-07,MIL,HOU,18.2,2,5,48,HOU,HOU,fg_make,9,False,False,,Martin Jr. 2' Driving Dunk (11 PTS) (House Jr. 5 AST),45-48,45,48
+0022001006,2021-05-07,MIL,HOU,18.23,2,5,46,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 3 Short 0),,45-48,45,48
+0022001006,2021-05-07,MIL,HOU,18.47,2,5,32,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 26' 3PT Jump Shot,,45-48,45,48
+0022001006,2021-05-07,MIL,HOU,18.5,2,5,30,HOU,HOU,reb,0,False,False,,Jeffries REBOUND (Off:0 Def:2),45-48,45,48
+0022001006,2021-05-07,MIL,HOU,18.57,2,5,26,HOU,HOU,fg3_miss,1,False,False,,MISS House Jr. 28' 3PT Jump Shot,45-48,45,48
+0022001006,2021-05-07,MIL,HOU,18.6,2,5,24,MIL,MIL,reb,0,False,False,BUCKS Rebound,,45-48,45,48
+0022001006,2021-05-07,MIL,HOU,18.87,2,5,8,MIL,MIL,fg_make,86,False,False,Antetokounmpo 12' Turnaround Fadeaway (15 PTS) (Connaughton 1 AST),,47-48,47,48
+0022001006,2021-05-07,MIL,HOU,19.1,2,4,54,HOU,HOU,fg3_make,1,False,False,,Brooks 30' 3PT Jump Shot (10 PTS) (Martin Jr. 2 AST),47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.25,2,4,45,MIL,MIL,tov,2,False,True,Teague Lost Ball Turnover (P2.T11),,47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.25,2,4,45,MIL,HOU,steal,2,False,True,steal,steal,47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.27,2,4,44,HOU,HOU,tov,6,False,False,,Brooks Double Dribble Turnover (P3.T7),47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.37,2,4,38,MIL,MIL,tov,1,False,True,Teague Bad Pass Turnover (P3.T12),,47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.37,2,4,38,MIL,HOU,steal,1,False,True,steal,steal,47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.47,2,4,32,HOU,HOU,fg3_miss,1,False,False,,MISS Lamb 27' 3PT Jump Shot,47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.52,2,4,29,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:3),,47-51,47,51
+0022001006,2021-05-07,MIL,HOU,19.62,2,4,23,MIL,MIL,fg_make,41,False,False,Holiday 2' Running Layup (5 PTS),,49-51,49,51
+0022001006,2021-05-07,MIL,HOU,19.93,2,4,4,HOU,HOU,fg3_miss,1,False,False,,MISS Jeffries 27' 3PT Jump Shot,49-51,49,51
+0022001006,2021-05-07,MIL,HOU,20.0,2,4,0,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,49-51,49,51
+0022001006,2021-05-07,MIL,HOU,20.05,2,3,57,MIL,HOU,foul,2,False,False,,Martin Jr. S.FOUL (P2.T2) (D.Taylor),49-51,49,51
+0022001006,2021-05-07,MIL,HOU,20.05,2,3,57,MIL,MIL,ft_miss,11,False,False,MISS Lopez Free Throw 1 of 2,,49-51,49,51
+0022001006,2021-05-07,MIL,HOU,20.05,2,3,57,MIL,MIL,reb,1,False,False,BUCKS Rebound,,49-51,49,51
+0022001006,2021-05-07,MIL,HOU,20.05,2,3,57,MIL,MIL,ft_make,12,False,False,Lopez Free Throw 2 of 2 (7 PTS),,50-51,50,51
+0022001006,2021-05-07,MIL,HOU,20.3,2,3,42,HOU,HOU,fg3_miss,1,False,False,,MISS Brooks 26' 3PT Jump Shot,50-51,50,51
+0022001006,2021-05-07,MIL,HOU,20.33,2,3,40,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:4),,50-51,50,51
+0022001006,2021-05-07,MIL,HOU,20.38,2,3,37,MIL,HOU,foul,1,False,False,,Brooks P.FOUL (P2.T3) (J.Tiven),50-51,50,51
+0022001006,2021-05-07,MIL,HOU,20.48,2,3,31,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 28' 3PT Jump Shot,,50-51,50,51
+0022001006,2021-05-07,MIL,HOU,20.53,2,3,28,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:2 Def:2),,50-51,50,51
+0022001006,2021-05-07,MIL,HOU,20.55,2,3,27,MIL,MIL,fg_make,51,False,False,Lopez 3' Reverse Dunk (9 PTS),,52-51,52,51
+0022001006,2021-05-07,MIL,HOU,20.73,2,3,16,HOU,HOU,fg3_make,1,False,False,,Jeffries 3PT Jump Shot (8 PTS) (House Jr. 6 AST),52-54,52,54
+0022001006,2021-05-07,MIL,HOU,20.93,2,3,4,MIL,MIL,tov,2,False,True,Holiday Lost Ball Turnover (P1.T13),,52-54,52,54
+0022001006,2021-05-07,MIL,HOU,20.93,2,3,4,MIL,HOU,steal,2,False,True,steal,steal,52-54,52,54
+0022001006,2021-05-07,MIL,HOU,21.17,2,2,50,HOU,HOU,fg_make,7,False,False,,Lamb 1' Dunk (2 PTS) (Martin Jr. 3 AST),52-56,52,56
+0022001006,2021-05-07,MIL,HOU,21.35,2,2,39,MIL,MIL,tov,1,False,True,Holiday Bad Pass Turnover (P2.T14),,52-56,52,56
+0022001006,2021-05-07,MIL,HOU,21.35,2,2,39,MIL,HOU,steal,1,False,True,steal,steal,52-56,52,56
+0022001006,2021-05-07,MIL,HOU,21.5,2,2,30,HOU,HOU,fg3_miss,1,False,False,,MISS House Jr. 28' 3PT Jump Shot,52-56,52,56
+0022001006,2021-05-07,MIL,HOU,21.55,2,2,27,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:9),,52-56,52,56
+0022001006,2021-05-07,MIL,HOU,21.67,2,2,20,MIL,HOU,foul,2,False,False,,House Jr. S.FOUL (P3.T4) (E.Scott),52-56,52,56
+0022001006,2021-05-07,MIL,HOU,21.67,2,2,20,MIL,MIL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (10 PTS),,53-56,53,56
+0022001006,2021-05-07,MIL,HOU,21.67,2,2,20,MIL,MIL,ft_make,12,False,False,Lopez Free Throw 2 of 2 (11 PTS),,54-56,54,56
+0022001006,2021-05-07,MIL,HOU,22.07,2,1,56,HOU,HOU,fg_make,79,False,False,,Jeffries 20' Pullup Jump Shot (10 PTS),54-58,54,58
+0022001006,2021-05-07,MIL,HOU,22.27,2,1,44,MIL,MIL,fg_miss,101,False,False,MISS Holiday 6' Driving Floating Jump Shot,,54-58,54,58
+0022001006,2021-05-07,MIL,HOU,22.27,2,1,44,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:3 Def:2),,54-58,54,58
+0022001006,2021-05-07,MIL,HOU,22.27,2,1,44,MIL,HOU,foul,2,False,False,,Lamb S.FOUL (P1.PN) (D.Taylor),54-58,54,58
+0022001006,2021-05-07,MIL,HOU,22.27,2,1,44,MIL,MIL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (12 PTS),,55-58,55,58
+0022001006,2021-05-07,MIL,HOU,22.27,2,1,44,MIL,MIL,ft_make,12,False,False,Lopez Free Throw 2 of 2 (13 PTS),,56-58,56,58
+0022001006,2021-05-07,MIL,HOU,22.55,2,1,27,HOU,HOU,fg_miss,47,False,False,,MISS Olynyk 6' Turnaround Jump Shot,56-58,56,58
+0022001006,2021-05-07,MIL,HOU,22.6,2,1,24,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:3 Def:3),,56-58,56,58
+0022001006,2021-05-07,MIL,HOU,22.9,2,1,6,MIL,MIL,fg3_make,1,False,False,Tucker 24' 3PT Jump Shot (3 PTS) (Holiday 5 AST),,59-58,59,58
+0022001006,2021-05-07,MIL,HOU,23.1,2,0,54,HOU,HOU,tov,2,False,True,,Olynyk Lost Ball Turnover (P2.T8),59-58,59,58
+0022001006,2021-05-07,MIL,HOU,23.1,2,0,54,HOU,MIL,steal,2,False,True,steal,steal,59-58,59,58
+0022001006,2021-05-07,MIL,HOU,23.12,2,0,53,MIL,HOU,foul,1,False,False,,Lamb P.FOUL (P2.PN) (D.Taylor),59-58,59,58
+0022001006,2021-05-07,MIL,HOU,23.12,2,0,53,MIL,MIL,ft_make,11,False,False,Holiday Free Throw 1 of 2 (6 PTS),,60-58,60,58
+0022001006,2021-05-07,MIL,HOU,23.12,2,0,53,MIL,MIL,ft_make,12,False,False,Holiday Free Throw 2 of 2 (7 PTS),,61-58,61,58
+0022001006,2021-05-07,MIL,HOU,23.45,2,0,33,HOU,HOU,fg_make,98,False,False,,Martin Jr. 2' Cutting Layup Shot (13 PTS) (Brooks 4 AST),61-60,61,60
+0022001006,2021-05-07,MIL,HOU,23.82,2,0,11,MIL,MIL,fg3_make,80,False,False,Holiday 26' 3PT Step Back Jump Shot (10 PTS),,64-60,64,60
+0022001006,2021-05-07,MIL,HOU,24.0,2,0,0,HOU,HOU,fg3_make,80,False,False,,Lamb 27' 3PT Step Back Jump Shot (5 PTS) (Martin Jr. 4 AST),64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.0,2,0,0,HOU,,period_end,0,False,False,,,64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.0,3,12,0,HOU,,period_start,0,False,False,,,64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.38,3,11,37,HOU,HOU,tov,1,False,True,,Olynyk Bad Pass Turnover (P3.T9),64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.38,3,11,37,HOU,MIL,steal,1,False,True,steal,steal,64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.52,3,11,29,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 24' 3PT Jump Shot,,64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.58,3,11,25,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:5),64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.72,3,11,17,HOU,HOU,fg_miss,79,False,False,,MISS Augustin 15' Pullup Jump Shot,64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.77,3,11,14,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:1),,64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.8,3,11,12,MIL,HOU,foul,1,False,False,,Jeffries P.FOUL (P3.T1) (J.Tiven),64-63,64,63
+0022001006,2021-05-07,MIL,HOU,24.9,3,11,6,MIL,MIL,fg3_make,80,False,False,Holiday 27' 3PT Step Back Jump Shot (13 PTS),,67-63,67,63
+0022001006,2021-05-07,MIL,HOU,25.27,3,10,44,HOU,HOU,tov,2,False,False,,Lamb Lost Ball Turnover (P1.T10),67-63,67,63
+0022001006,2021-05-07,MIL,HOU,25.58,3,10,25,MIL,MIL,fg3_make,1,False,False,Middleton 28' 3PT Jump Shot (5 PTS) (Holiday 6 AST),,70-63,70,63
+0022001006,2021-05-07,MIL,HOU,25.75,3,10,15,HOU,HOU,fg3_miss,1,False,False,,MISS Martin Jr. 28' 3PT Jump Shot,70-63,70,63
+0022001006,2021-05-07,MIL,HOU,25.8,3,10,12,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:10),,70-63,70,63
+0022001006,2021-05-07,MIL,HOU,25.93,3,10,4,MIL,MIL,fg_make,5,False,False,Lopez 2' Layup (15 PTS) (Holiday 7 AST),,72-63,72,63
+0022001006,2021-05-07,MIL,HOU,26.12,3,9,53,HOU,HOU,fg3_make,1,False,False,,Augustin 26' 3PT Jump Shot (9 PTS) (Jeffries 1 AST),72-66,72,66
+0022001006,2021-05-07,MIL,HOU,26.33,3,9,40,MIL,MIL,fg3_make,79,False,False,Middleton 26' 3PT Pullup Jump Shot (8 PTS),,75-66,75,66
+0022001006,2021-05-07,MIL,HOU,26.58,3,9,25,HOU,HOU,fg3_make,80,False,False,,Olynyk 28' 3PT Step Back Jump Shot (10 PTS),75-69,75,69
+0022001006,2021-05-07,MIL,HOU,26.77,3,9,14,MIL,MIL,fg3_make,80,False,False,Holiday 24' 3PT Step Back Jump Shot (16 PTS),,78-69,78,69
+0022001006,2021-05-07,MIL,HOU,27.08,3,8,55,HOU,HOU,fg3_miss,1,False,False,,MISS Lamb 27' 3PT Jump Shot,78-69,78,69
+0022001006,2021-05-07,MIL,HOU,27.08,3,8,55,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:3 Def:4),,78-69,78,69
+0022001006,2021-05-07,MIL,HOU,27.3,3,8,42,MIL,MIL,fg3_make,1,False,False,Lopez 29' 3PT Jump Shot (18 PTS) (Antetokounmpo 5 AST),,81-69,81,69
+0022001006,2021-05-07,MIL,HOU,27.3,3,8,42,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.2 Short 0),81-69,81,69
+0022001006,2021-05-07,MIL,HOU,27.57,3,8,26,HOU,HOU,fg_make,6,False,False,,Olynyk 2' Driving Layup (12 PTS) (Martin Jr. 5 AST),81-71,81,71
+0022001006,2021-05-07,MIL,HOU,27.83,3,8,10,MIL,HOU,foul,2,False,False,,Martin Jr. S.FOUL (P3.T2) (E.Scott),81-71,81,71
+0022001006,2021-05-07,MIL,HOU,27.83,3,8,10,MIL,MIL,ft_make,11,False,False,Lopez Free Throw 1 of 2 (19 PTS),,82-71,82,71
+0022001006,2021-05-07,MIL,HOU,27.83,3,8,10,MIL,MIL,ft_make,12,False,False,Lopez Free Throw 2 of 2 (20 PTS),,83-71,83,71
+0022001006,2021-05-07,MIL,HOU,28.02,3,7,59,HOU,HOU,fg_make,5,False,False,,Olynyk 1' Layup (14 PTS) (Augustin 5 AST),83-73,83,73
+0022001006,2021-05-07,MIL,HOU,28.02,3,7,59,HOU,MIL,foul,2,False,False,Lopez S.FOUL (P3.T1) (E.Scott),,83-73,83,73
+0022001006,2021-05-07,MIL,HOU,28.02,3,7,59,HOU,HOU,ft_make,10,False,False,,Olynyk Free Throw 1 of 1 (15 PTS),83-74,83,74
+0022001006,2021-05-07,MIL,HOU,28.25,3,7,45,MIL,MIL,fg_make,9,False,False,Lopez 2' Driving Dunk (22 PTS),,85-74,85,74
+0022001006,2021-05-07,MIL,HOU,28.48,3,7,31,HOU,HOU,fg_make,52,False,False,,Martin Jr. 3' Alley Oop Dunk (15 PTS) (Olynyk 2 AST),85-76,85,76
+0022001006,2021-05-07,MIL,HOU,28.67,3,7,20,MIL,MIL,fg_miss,86,False,False,MISS Middleton 13' Turnaround Fadeaway Shot,,85-76,85,76
+0022001006,2021-05-07,MIL,HOU,28.72,3,7,17,HOU,HOU,reb,0,False,False,,Lamb REBOUND (Off:0 Def:2),85-76,85,76
+0022001006,2021-05-07,MIL,HOU,28.85,3,7,9,HOU,HOU,fg3_make,1,False,False,,Lamb 28' 3PT Jump Shot (8 PTS) (Martin Jr. 6 AST),85-79,85,79
+0022001006,2021-05-07,MIL,HOU,29.18,3,6,49,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 3PT Jump Shot,,85-79,85,79
+0022001006,2021-05-07,MIL,HOU,29.25,3,6,45,HOU,HOU,reb,0,False,False,,Lamb REBOUND (Off:0 Def:3),85-79,85,79
+0022001006,2021-05-07,MIL,HOU,29.42,3,6,35,HOU,HOU,fg3_miss,1,False,False,,MISS Lamb 25' 3PT Jump Shot,85-79,85,79
+0022001006,2021-05-07,MIL,HOU,29.48,3,6,31,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:3),,85-79,85,79
+0022001006,2021-05-07,MIL,HOU,29.57,3,6,26,MIL,MIL,fg3_make,2,False,False,DiVincenzo 27' 3PT Running Jump Shot (5 PTS),,88-79,88,79
+0022001006,2021-05-07,MIL,HOU,29.83,3,6,10,HOU,HOU,tov,1,False,True,,Olynyk Bad Pass Turnover (P4.T11),88-79,88,79
+0022001006,2021-05-07,MIL,HOU,29.83,3,6,10,HOU,MIL,steal,1,False,True,steal,steal,88-79,88,79
+0022001006,2021-05-07,MIL,HOU,29.93,3,6,4,MIL,MIL,fg3_miss,1,False,False,MISS Holiday 26' 3PT Jump Shot,,88-79,88,79
+0022001006,2021-05-07,MIL,HOU,30.02,3,5,59,HOU,HOU,reb,0,False,False,,Lamb REBOUND (Off:0 Def:4),88-79,88,79
+0022001006,2021-05-07,MIL,HOU,30.15,3,5,51,HOU,HOU,fg3_miss,1,False,False,,MISS Martin Jr. 26' 3PT Jump Shot,88-79,88,79
+0022001006,2021-05-07,MIL,HOU,30.22,3,5,47,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:11),,88-79,88,79
+0022001006,2021-05-07,MIL,HOU,30.3,3,5,42,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 26' 3PT Jump Shot,,88-79,88,79
+0022001006,2021-05-07,MIL,HOU,30.35,3,5,39,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:6),88-79,88,79
+0022001006,2021-05-07,MIL,HOU,30.37,3,5,38,HOU,MIL,foul,2,False,False,Antetokounmpo S.FOUL (P2.T2) (D.Taylor),,88-79,88,79
+0022001006,2021-05-07,MIL,HOU,30.37,3,5,38,HOU,HOU,ft_make,13,False,False,,Olynyk Free Throw 1 of 3 (16 PTS),88-80,88,80
+0022001006,2021-05-07,MIL,HOU,30.37,3,5,38,HOU,HOU,ft_make,14,False,False,,Olynyk Free Throw 2 of 3 (17 PTS),88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.37,3,5,38,HOU,HOU,ft_miss,15,False,False,,MISS Olynyk Free Throw 3 of 3,88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.38,3,5,37,HOU,HOU,reb,0,False,False,,Rockets Rebound,88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.57,3,5,26,MIL,HOU,foul,26,False,False,,Martin Jr. Offensive Charge Foul (P4.T3) (J.Tiven),88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.57,3,5,26,HOU,HOU,tov,37,False,False,,Martin Jr. Offensive Foul Turnover (P1.T12),88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.7,3,5,18,MIL,MIL,tov,1,False,True,DiVincenzo Bad Pass Turnover (P3.T15),,88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.7,3,5,18,MIL,HOU,steal,1,False,True,steal,steal,88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.8,3,5,12,HOU,MIL,foul,2,False,False,Forbes S.FOUL (P1.T3) (D.Taylor),,88-81,88,81
+0022001006,2021-05-07,MIL,HOU,30.8,3,5,12,HOU,HOU,ft_make,13,False,False,,Olynyk Free Throw 1 of 3 (18 PTS),88-82,88,82
+0022001006,2021-05-07,MIL,HOU,30.8,3,5,12,HOU,HOU,ft_make,14,False,False,,Olynyk Free Throw 2 of 3 (19 PTS),88-83,88,83
+0022001006,2021-05-07,MIL,HOU,30.8,3,5,12,HOU,HOU,ft_miss,15,False,False,,MISS Olynyk Free Throw 3 of 3,88-83,88,83
+0022001006,2021-05-07,MIL,HOU,30.85,3,5,9,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:1 Def:4),,88-83,88,83
+0022001006,2021-05-07,MIL,HOU,31.07,3,4,56,MIL,MIL,fg_miss,47,False,False,MISS Middleton 16' Turnaround Jump Shot,,88-83,88,83
+0022001006,2021-05-07,MIL,HOU,31.12,3,4,53,HOU,HOU,reb,0,False,False,,Brooks REBOUND (Off:1 Def:1),88-83,88,83
+0022001006,2021-05-07,MIL,HOU,31.27,3,4,44,HOU,HOU,fg3_make,1,False,False,,Brooks 27' 3PT Jump Shot (13 PTS) (Olynyk 3 AST),88-86,88,86
+0022001006,2021-05-07,MIL,HOU,31.6,3,4,24,MIL,MIL,fg3_make,1,False,False,Middleton 27' 3PT Jump Shot (11 PTS) (Tucker 1 AST),,91-86,91,86
+0022001006,2021-05-07,MIL,HOU,31.9,3,4,6,HOU,HOU,fg_make,63,False,False,,House Jr. 4' Fadeaway Jumper (5 PTS) (Martin Jr. 7 AST),91-88,91,88
+0022001006,2021-05-07,MIL,HOU,31.9,3,4,6,HOU,MIL,foul,2,False,False,DiVincenzo S.FOUL (P2.T4) (J.Tiven),,91-88,91,88
+0022001006,2021-05-07,MIL,HOU,31.9,3,4,6,HOU,HOU,ft_make,10,False,False,,House Jr. Free Throw 1 of 1 (6 PTS),91-89,91,89
+0022001006,2021-05-07,MIL,HOU,32.15,3,3,51,MIL,MIL,fg3_make,1,False,False,DiVincenzo 27' 3PT Jump Shot (8 PTS) (Middleton 2 AST),,94-89,94,89
+0022001006,2021-05-07,MIL,HOU,32.3,3,3,42,HOU,HOU,tov,2,False,True,,Lamb Lost Ball Turnover (P2.T13),94-89,94,89
+0022001006,2021-05-07,MIL,HOU,32.3,3,3,42,HOU,MIL,steal,2,False,True,steal,steal,94-89,94,89
+0022001006,2021-05-07,MIL,HOU,32.42,3,3,35,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 27' 3PT Jump Shot,,94-89,94,89
+0022001006,2021-05-07,MIL,HOU,32.47,3,3,32,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:2 Def:4),,94-89,94,89
+0022001006,2021-05-07,MIL,HOU,32.47,3,3,32,MIL,MIL,fg_make,2,False,False,DiVincenzo 3' Running Jump Shot (10 PTS),,96-89,96,89
+0022001006,2021-05-07,MIL,HOU,32.47,3,3,32,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.3 Short 0),96-89,96,89
+0022001006,2021-05-07,MIL,HOU,32.65,3,3,21,HOU,HOU,tov,1,False,True,,House Jr. Bad Pass Turnover (P1.T14),96-89,96,89
+0022001006,2021-05-07,MIL,HOU,32.65,3,3,21,HOU,MIL,steal,1,False,True,steal,steal,96-89,96,89
+0022001006,2021-05-07,MIL,HOU,32.73,3,3,16,MIL,MIL,fg_make,41,False,False,DiVincenzo 2' Running Layup (12 PTS),,98-89,98,89
+0022001006,2021-05-07,MIL,HOU,33.15,3,2,51,HOU,HOU,fg_miss,6,False,False,,MISS House Jr. 4' Driving Layup,98-89,98,89
+0022001006,2021-05-07,MIL,HOU,33.2,3,2,48,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:5),,98-89,98,89
+0022001006,2021-05-07,MIL,HOU,33.25,3,2,45,MIL,MIL,fg3_make,2,False,False,Forbes 3PT Running Jump Shot (11 PTS) (DiVincenzo 2 AST),,101-89,101,89
+0022001006,2021-05-07,MIL,HOU,33.48,3,2,31,HOU,HOU,fg_miss,6,False,False,,MISS Brooks 7' Driving Layup,101-89,101,89
+0022001006,2021-05-07,MIL,HOU,33.52,3,2,29,MIL,MIL,reb,0,False,False,Tucker REBOUND (Off:0 Def:1),,101-89,101,89
+0022001006,2021-05-07,MIL,HOU,33.67,3,2,20,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 30' 3PT Jump Shot,,101-89,101,89
+0022001006,2021-05-07,MIL,HOU,33.73,3,2,16,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:0 Def:1),101-89,101,89
+0022001006,2021-05-07,MIL,HOU,33.87,3,2,8,HOU,HOU,fg3_make,1,False,False,,Thomas 27' 3PT Jump Shot (12 PTS) (House Jr. 7 AST),101-92,101,92
+0022001006,2021-05-07,MIL,HOU,34.12,3,1,53,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 27' 3PT Jump Shot,,101-92,101,92
+0022001006,2021-05-07,MIL,HOU,34.17,3,1,50,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:5),101-92,101,92
+0022001006,2021-05-07,MIL,HOU,34.27,3,1,44,HOU,HOU,fg3_miss,79,False,False,,MISS House Jr. 27' 3PT Pullup Jump Shot,101-92,101,92
+0022001006,2021-05-07,MIL,HOU,34.32,3,1,41,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:2),,101-92,101,92
+0022001006,2021-05-07,MIL,HOU,34.42,3,1,35,MIL,MIL,fg_make,63,False,False,Middleton 13' Fadeaway Jumper (13 PTS),,103-92,103,92
+0022001006,2021-05-07,MIL,HOU,34.62,3,1,23,HOU,HOU,tov,1,False,False,,House Jr. Bad Pass Turnover (P2.T15),103-92,103,92
+0022001006,2021-05-07,MIL,HOU,34.93,3,1,4,MIL,MIL,fg3_miss,80,False,False,MISS Holiday 27' 3PT Step Back Jump Shot,,103-92,103,92
+0022001006,2021-05-07,MIL,HOU,34.98,3,1,1,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:0 Def:2),103-92,103,92
+0022001006,2021-05-07,MIL,HOU,35.08,3,0,55,HOU,HOU,fg3_miss,1,False,False,,MISS Thomas 27' 3PT Jump Shot,103-92,103,92
+0022001006,2021-05-07,MIL,HOU,35.13,3,0,52,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,103-92,103,92
+0022001006,2021-05-07,MIL,HOU,35.23,3,0,46,MIL,MIL,fg_miss,5,True,False,MISS Holiday 7' Layup,,103-92,103,92
+0022001006,2021-05-07,MIL,HOU,35.23,3,0,46,MIL,HOU,block,5,True,False,block,block,103-92,103,92
+0022001006,2021-05-07,MIL,HOU,35.3,3,0,42,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:1 Def:3),,103-92,103,92
+0022001006,2021-05-07,MIL,HOU,35.32,3,0,41,MIL,MIL,fg_make,101,False,False,Portis 19' Driving Floating Jump Shot (7 PTS) (Tucker 2 AST),,105-92,105,92
+0022001006,2021-05-07,MIL,HOU,35.5,3,0,30,HOU,HOU,fg3_miss,80,False,False,,MISS House Jr. 27' 3PT Step Back Jump Shot,105-92,105,92
+0022001006,2021-05-07,MIL,HOU,35.55,3,0,27,MIL,MIL,reb,0,False,False,Forbes REBOUND (Off:0 Def:1),,105-92,105,92
+0022001006,2021-05-07,MIL,HOU,35.85,3,0,9,MIL,MIL,fg_miss,79,False,False,MISS Holiday 13' Pullup Jump Shot,,105-92,105,92
+0022001006,2021-05-07,MIL,HOU,35.9,3,0,6,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:4 Def:1),,105-92,105,92
+0022001006,2021-05-07,MIL,HOU,35.93,3,0,4,MIL,MIL,fg_make,86,False,False,Portis 14' Turnaround Fadeaway (9 PTS),,107-92,107,92
+0022001006,2021-05-07,MIL,HOU,36.0,3,0,0,HOU,HOU,fg_miss,79,True,False,,MISS Brooks 11' Pullup Jump Shot,107-92,107,92
+0022001006,2021-05-07,MIL,HOU,36.0,3,0,0,HOU,MIL,block,79,True,False,block,block,107-92,107,92
+0022001006,2021-05-07,MIL,HOU,36.0,3,0,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,107-92,107,92
+0022001006,2021-05-07,MIL,HOU,36.0,3,0,0,HOU,,period_end,0,False,False,,,107-92,107,92
+0022001006,2021-05-07,MIL,HOU,36.0,4,12,0,HOU,,period_start,0,False,False,,,107-92,107,92
+0022001006,2021-05-07,MIL,HOU,36.28,4,11,43,MIL,MIL,fg_make,105,False,False,Holiday 14' Turnaround Fadeaway Bank Jump Shot (18 PTS),,109-92,109,92
+0022001006,2021-05-07,MIL,HOU,36.65,4,11,21,HOU,HOU,fg3_make,1,False,False,,Lamb 27' 3PT Jump Shot (11 PTS) (Brooks 5 AST),109-95,109,95
+0022001006,2021-05-07,MIL,HOU,36.88,4,11,7,MIL,MIL,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,109-95,109,95
+0022001006,2021-05-07,MIL,HOU,36.92,4,11,5,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:5 Def:1),,109-95,109,95
+0022001006,2021-05-07,MIL,HOU,36.97,4,11,2,MIL,MIL,fg_miss,79,False,False,MISS Portis 15' Pullup Jump Shot,,109-95,109,95
+0022001006,2021-05-07,MIL,HOU,37.0,4,11,0,MIL,MIL,reb,0,False,False,Tucker REBOUND (Off:1 Def:1),,109-95,109,95
+0022001006,2021-05-07,MIL,HOU,37.03,4,10,58,MIL,MIL,fg_make,44,False,False,Portis 2' Reverse Layup (11 PTS) (Tucker 3 AST),,111-95,111,95
+0022001006,2021-05-07,MIL,HOU,37.27,4,10,44,HOU,HOU,fg_make,102,False,False,,Thomas 3' Driving Floating Bank Jump Shot (14 PTS),111-97,111,97
+0022001006,2021-05-07,MIL,HOU,37.42,4,10,35,MIL,MIL,fg_make,98,False,False,Portis Cutting Layup Shot (13 PTS) (Connaughton 2 AST),,113-97,113,97
+0022001006,2021-05-07,MIL,HOU,37.67,4,10,20,HOU,HOU,fg3_miss,1,False,False,,MISS Lamb 26' 3PT Jump Shot,113-97,113,97
+0022001006,2021-05-07,MIL,HOU,37.73,4,10,16,MIL,MIL,reb,0,False,False,Forbes REBOUND (Off:0 Def:2),,113-97,113,97
+0022001006,2021-05-07,MIL,HOU,37.78,4,10,13,MIL,HOU,foul,2,False,False,,Brooks S.FOUL (P3.T1) (D.Taylor),113-97,113,97
+0022001006,2021-05-07,MIL,HOU,37.78,4,10,13,MIL,MIL,ft_miss,11,False,False,MISS Portis Free Throw 1 of 2,,113-97,113,97
+0022001006,2021-05-07,MIL,HOU,37.78,4,10,13,MIL,MIL,reb,1,False,False,BUCKS Rebound,,113-97,113,97
+0022001006,2021-05-07,MIL,HOU,37.78,4,10,13,MIL,MIL,ft_make,12,False,False,Portis Free Throw 2 of 2 (14 PTS),,114-97,114,97
+0022001006,2021-05-07,MIL,HOU,38.23,4,9,46,HOU,HOU,fg_make,75,False,False,,Augustin 7' Driving Finger Roll Layup (11 PTS),114-99,114,99
+0022001006,2021-05-07,MIL,HOU,38.4,4,9,36,MIL,MIL,fg3_make,1,False,False,Connaughton 28' 3PT Jump Shot (7 PTS) (Antetokounmpo 6 AST),,117-99,117,99
+0022001006,2021-05-07,MIL,HOU,38.57,4,9,26,HOU,HOU,fg3_miss,1,False,False,,MISS Brooks 28' 3PT Jump Shot,117-99,117,99
+0022001006,2021-05-07,MIL,HOU,38.62,4,9,23,MIL,MIL,reb,0,False,False,Forbes REBOUND (Off:0 Def:3),,117-99,117,99
+0022001006,2021-05-07,MIL,HOU,38.68,4,9,19,MIL,MIL,tov,2,False,True,Holiday Lost Ball Turnover (P3.T16),,117-99,117,99
+0022001006,2021-05-07,MIL,HOU,38.68,4,9,19,MIL,HOU,steal,2,False,True,steal,steal,117-99,117,99
+0022001006,2021-05-07,MIL,HOU,38.77,4,9,14,HOU,MIL,foul,1,False,False,Holiday P.FOUL (P1.T1) (J.Tiven),,117-99,117,99
+0022001006,2021-05-07,MIL,HOU,38.97,4,9,2,HOU,HOU,fg3_make,80,False,False,,Augustin 26' 3PT Step Back Jump Shot (14 PTS),117-102,117,102
+0022001006,2021-05-07,MIL,HOU,39.22,4,8,47,MIL,MIL,fg_make,57,False,False,Portis 6' Driving Hook Shot (16 PTS) (DiVincenzo 3 AST),,119-102,119,102
+0022001006,2021-05-07,MIL,HOU,39.37,4,8,38,HOU,HOU,fg3_miss,79,False,False,,MISS Augustin 28' 3PT Pullup Jump Shot,119-102,119,102
+0022001006,2021-05-07,MIL,HOU,39.42,4,8,35,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:5 Def:2),,119-102,119,102
+0022001006,2021-05-07,MIL,HOU,39.55,4,8,27,MIL,MIL,fg_miss,79,False,False,MISS Holiday 13' Pullup Jump Shot,,119-102,119,102
+0022001006,2021-05-07,MIL,HOU,39.6,4,8,24,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:7),119-102,119,102
+0022001006,2021-05-07,MIL,HOU,39.85,4,8,9,HOU,HOU,fg_miss,1,False,False,,MISS Olynyk 7' Jump Shot,119-102,119,102
+0022001006,2021-05-07,MIL,HOU,39.85,4,8,9,MIL,MIL,reb,0,False,False,BUCKS Rebound,,119-102,119,102
+0022001006,2021-05-07,MIL,HOU,39.85,4,8,9,MIL,HOU,foul,3,False,False,,Lamb L.B.FOUL (P3.T2) (J.Tiven),119-102,119,102
+0022001006,2021-05-07,MIL,HOU,40.08,4,7,55,MIL,MIL,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,119-102,119,102
+0022001006,2021-05-07,MIL,HOU,40.13,4,7,52,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:8),119-102,119,102
+0022001006,2021-05-07,MIL,HOU,40.25,4,7,45,HOU,HOU,fg3_make,80,False,False,,Lamb 3PT Step Back Jump Shot (14 PTS) (Olynyk 4 AST),119-105,119,105
+0022001006,2021-05-07,MIL,HOU,40.48,4,7,31,MIL,MIL,fg_miss,79,False,False,MISS Portis 16' Pullup Jump Shot,,119-105,119,105
+0022001006,2021-05-07,MIL,HOU,40.53,4,7,28,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:6),119-105,119,105
+0022001006,2021-05-07,MIL,HOU,40.68,4,7,19,HOU,HOU,fg_miss,6,True,False,,MISS Augustin 4' Driving Layup,119-105,119,105
+0022001006,2021-05-07,MIL,HOU,40.68,4,7,19,HOU,MIL,block,6,True,False,block,block,119-105,119,105
+0022001006,2021-05-07,MIL,HOU,40.73,4,7,16,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:5 Def:3),,119-105,119,105
+0022001006,2021-05-07,MIL,HOU,40.85,4,7,9,MIL,MIL,fg3_miss,1,False,False,MISS Portis 3PT Jump Shot,,119-105,119,105
+0022001006,2021-05-07,MIL,HOU,40.9,4,7,6,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:9),119-105,119,105
+0022001006,2021-05-07,MIL,HOU,41.12,4,6,53,HOU,HOU,fg3_miss,1,False,False,,MISS Lamb 25' 3PT Jump Shot,119-105,119,105
+0022001006,2021-05-07,MIL,HOU,41.17,4,6,50,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:2 Def:9),119-105,119,105
+0022001006,2021-05-07,MIL,HOU,41.22,4,6,47,HOU,HOU,fg3_make,1,False,False,,Augustin 26' 3PT Jump Shot (17 PTS) (Brooks 6 AST),119-108,119,108
+0022001006,2021-05-07,MIL,HOU,41.22,4,6,47,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 4 Short 0),,119-108,119,108
+0022001006,2021-05-07,MIL,HOU,41.5,4,6,30,MIL,MIL,fg_make,79,False,False,Antetokounmpo 15' Pullup Jump Shot (17 PTS),,121-108,121,108
+0022001006,2021-05-07,MIL,HOU,41.75,4,6,15,HOU,HOU,fg3_make,1,False,False,,Martin Jr. 27' 3PT Jump Shot (18 PTS) (Olynyk 5 AST),121-111,121,111
+0022001006,2021-05-07,MIL,HOU,41.98,4,6,1,MIL,MIL,fg3_make,1,False,False,DiVincenzo 3PT Jump Shot (15 PTS) (Lopez 1 AST),,124-111,124,111
+0022001006,2021-05-07,MIL,HOU,42.25,4,5,45,HOU,MIL,foul,2,False,False,Antetokounmpo S.FOUL (P3.T2) (D.Taylor),,124-111,124,111
+0022001006,2021-05-07,MIL,HOU,42.25,4,5,45,HOU,HOU,ft_make,11,False,False,,Olynyk Free Throw 1 of 2 (20 PTS),124-112,124,112
+0022001006,2021-05-07,MIL,HOU,42.25,4,5,45,HOU,HOU,ft_make,12,False,False,,Olynyk Free Throw 2 of 2 (21 PTS),124-113,124,113
+0022001006,2021-05-07,MIL,HOU,42.48,4,5,31,MIL,MIL,fg3_make,79,False,False,Middleton 27' 3PT Pullup Jump Shot (16 PTS) (Holiday 8 AST),,127-113,127,113
+0022001006,2021-05-07,MIL,HOU,42.75,4,5,15,HOU,HOU,fg3_miss,1,False,False,,MISS Augustin 27' 3PT Jump Shot,127-113,127,113
+0022001006,2021-05-07,MIL,HOU,42.78,4,5,13,HOU,HOU,reb,0,False,False,,Jeffries REBOUND (Off:1 Def:2),127-113,127,113
+0022001006,2021-05-07,MIL,HOU,42.8,4,5,12,HOU,HOU,fg_make,78,False,False,,Jeffries 10' Floating Jump Shot (12 PTS),127-115,127,115
+0022001006,2021-05-07,MIL,HOU,43.13,4,4,52,MIL,MIL,fg3_make,1,False,False,DiVincenzo 29' 3PT Jump Shot (18 PTS) (Antetokounmpo 7 AST),,130-115,130,115
+0022001006,2021-05-07,MIL,HOU,43.32,4,4,41,HOU,HOU,fg_make,52,False,False,,Martin Jr. 2' Alley Oop Dunk (20 PTS) (Olynyk 6 AST),130-117,130,117
+0022001006,2021-05-07,MIL,HOU,43.47,4,4,32,MIL,HOU,foul,2,False,False,,Olynyk S.FOUL (P1.T3) (J.Tiven),130-117,130,117
+0022001006,2021-05-07,MIL,HOU,43.47,4,4,32,MIL,MIL,ft_make,13,False,False,Middleton Free Throw 1 of 3 (17 PTS),,131-117,131,117
+0022001006,2021-05-07,MIL,HOU,43.47,4,4,32,MIL,MIL,ft_make,14,False,False,Middleton Free Throw 2 of 3 (18 PTS),,132-117,132,117
+0022001006,2021-05-07,MIL,HOU,43.47,4,4,32,MIL,MIL,ft_make,15,False,False,Middleton Free Throw 3 of 3 (19 PTS),,133-117,133,117
+0022001006,2021-05-07,MIL,HOU,43.47,4,4,32,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.4 Short 0),133-117,133,117
+0022001006,2021-05-07,MIL,HOU,43.73,4,4,16,HOU,HOU,fg3_make,1,False,False,,Martin Jr. 24' 3PT Jump Shot (23 PTS) (Thomas 1 AST),133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.02,4,3,59,MIL,MIL,fg3_miss,80,False,False,MISS Middleton 25' 3PT Step Back Jump Shot,,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.08,4,3,55,HOU,HOU,reb,0,False,False,,Jeffries REBOUND (Off:1 Def:3),133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.18,4,3,49,MIL,HOU,foul,4,False,False,,Martin Jr. OFF.Foul (P5) (E.Scott),133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.18,4,3,49,HOU,HOU,tov,37,False,False,,Martin Jr. Offensive Foul Turnover (P2.T16),133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.37,4,3,38,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 27' 3PT Jump Shot,,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.42,4,3,35,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:5),,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.48,4,3,31,MIL,MIL,fg3_miss,1,False,False,MISS DiVincenzo 27' 3PT Jump Shot,,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.5,4,3,30,HOU,HOU,reb,0,False,False,,Rockets Rebound,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.5,4,3,30,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 5 Short 0),,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.78,4,3,13,HOU,HOU,fg_miss,98,True,False,,MISS Martin Jr. 2' Cutting Layup Shot,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.78,4,3,13,HOU,MIL,block,98,True,False,block,block,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.87,4,3,8,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:2 Def:5),,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,44.95,4,3,3,MIL,MIL,fg3_miss,1,False,False,MISS Forbes 3PT Jump Shot,,133-120,133,120
+0022001006,2021-05-07,MIL,HOU,45.0,4,3,0,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:2 Def:10),133-120,133,120
+0022001006,2021-05-07,MIL,HOU,45.15,4,2,51,HOU,HOU,fg3_make,1,False,False,,Martin Jr. 27' 3PT Jump Shot (26 PTS) (Olynyk 7 AST),133-123,133,123
+0022001006,2021-05-07,MIL,HOU,45.45,4,2,33,MIL,MIL,tov,2,False,True,Middleton Lost Ball Turnover (P1.T17),,133-123,133,123
+0022001006,2021-05-07,MIL,HOU,45.45,4,2,33,MIL,HOU,steal,2,False,True,steal,steal,133-123,133,123
+0022001006,2021-05-07,MIL,HOU,45.48,4,2,31,HOU,MIL,foul,2,False,False,DiVincenzo S.FOUL (P3.T3) (J.Tiven),,133-123,133,123
+0022001006,2021-05-07,MIL,HOU,45.48,4,2,31,HOU,HOU,ft_make,11,False,False,,Thomas Free Throw 1 of 2 (15 PTS),133-124,133,124
+0022001006,2021-05-07,MIL,HOU,45.48,4,2,31,HOU,HOU,ft_make,12,False,False,,Thomas Free Throw 2 of 2 (16 PTS),133-125,133,125
+0022001006,2021-05-07,MIL,HOU,45.78,4,2,13,MIL,MIL,fg_make,75,False,False,Holiday 3' Driving Finger Roll Layup (20 PTS) (Middleton 3 AST),,135-125,135,125
+0022001006,2021-05-07,MIL,HOU,46.0,4,2,0,HOU,HOU,fg_miss,6,True,False,,MISS Martin Jr. 3' Driving Layup,135-125,135,125
+0022001006,2021-05-07,MIL,HOU,46.0,4,2,0,HOU,MIL,block,6,True,False,block,block,135-125,135,125
+0022001006,2021-05-07,MIL,HOU,46.07,4,1,56,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:6),,135-125,135,125
+0022001006,2021-05-07,MIL,HOU,46.23,4,1,46,MIL,MIL,fg_make,7,False,False,Lopez 2' Dunk (24 PTS) (DiVincenzo 4 AST),,137-125,137,125
+0022001006,2021-05-07,MIL,HOU,46.55,4,1,27,HOU,HOU,fg_make,57,False,False,,Olynyk 5' Driving Hook Shot (23 PTS),137-127,137,127
+0022001006,2021-05-07,MIL,HOU,46.75,4,1,15,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 26' 3PT Jump Shot,,137-127,137,127
+0022001006,2021-05-07,MIL,HOU,46.8,4,1,12,HOU,HOU,reb,0,False,False,,Brooks REBOUND (Off:1 Def:2),137-127,137,127
+0022001006,2021-05-07,MIL,HOU,46.85,4,1,9,HOU,HOU,fg3_make,1,False,False,,Brooks 26' 3PT Jump Shot (16 PTS) (Lamb 1 AST),137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.18,4,0,49,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 24' 3PT Jump Shot,,137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.23,4,0,46,HOU,HOU,reb,0,False,False,,Thomas REBOUND (Off:2 Def:1),137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.27,4,0,44,HOU,MIL,foul,1,False,False,Holiday P.FOUL (P2.T4) (D.Taylor),,137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.45,4,0,33,HOU,HOU,fg_miss,9,False,False,,MISS Martin Jr. Driving Dunk,137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.48,4,0,31,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:7),,137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.53,4,0,28,MIL,HOU,foul,28,False,False,,Martin Jr. Personal Take Foul (P6.T4) (E.Scott),137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.58,4,0,25,MIL,HOU,foul,28,False,False,,Lamb Personal Take Foul (P4.PN) (E.Scott),137-130,137,130
+0022001006,2021-05-07,MIL,HOU,47.58,4,0,25,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (20 PTS),,138-130,138,130
+0022001006,2021-05-07,MIL,HOU,47.58,4,0,25,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (21 PTS),,139-130,139,130
+0022001006,2021-05-07,MIL,HOU,47.7,4,0,18,HOU,HOU,fg3_make,1,False,False,,Brooks 27' 3PT Jump Shot (19 PTS) (Lamb 2 AST),139-133,139,133
+0022001006,2021-05-07,MIL,HOU,47.75,4,0,15,MIL,HOU,foul,28,False,False,,Thomas Personal Take Foul (P1.PN) (E.Scott),139-133,139,133
+0022001006,2021-05-07,MIL,HOU,47.75,4,0,15,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (22 PTS),,140-133,140,133
+0022001006,2021-05-07,MIL,HOU,47.75,4,0,15,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (23 PTS),,141-133,141,133
+0022001006,2021-05-07,MIL,HOU,47.75,4,0,15,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.5 Short 0),141-133,141,133
+0022001006,2021-05-07,MIL,HOU,47.85,4,0,9,HOU,HOU,fg3_miss,80,False,False,,MISS Olynyk 26' 3PT Step Back Jump Shot,141-133,141,133
+0022001006,2021-05-07,MIL,HOU,47.92,4,0,5,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:8),,141-133,141,133
+0022001006,2021-05-07,MIL,HOU,48.0,4,0,0,MIL,,period_end,0,False,False,,,141-133,141,133

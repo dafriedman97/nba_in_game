@@ -1,0 +1,395 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100745,2022-01-29,NOP,BOS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100745,2022-01-29,NOP,BOS,0.0,1,12,0,,NOP,jump_ball,0,False,False,Jump Ball Hernangomez vs. Williams III: Tip to Smart,,0-0,0,0
+0022100745,2022-01-29,NOP,BOS,0.23,1,11,46,BOS,BOS,tov,45,False,False,,Smart Out of Bounds - Bad Pass Turnover Turnover (P1.T1),0-0,0,0
+0022100745,2022-01-29,NOP,BOS,0.57,1,11,26,NOP,BOS,foul,2,False,False,,Williams III S.FOUL (P1.T1) (K.Cutler),0-0,0,0
+0022100745,2022-01-29,NOP,BOS,0.57,1,11,26,NOP,NOP,ft_make,11,False,False,Hernangomez Free Throw 1 of 2 (1 PTS),,1-0,1,0
+0022100745,2022-01-29,NOP,BOS,0.57,1,11,26,NOP,NOP,ft_make,12,False,False,Hernangomez Free Throw 2 of 2 (2 PTS),,2-0,2,0
+0022100745,2022-01-29,NOP,BOS,0.72,1,11,17,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 24' 3PT Jump Shot,2-0,2,0
+0022100745,2022-01-29,NOP,BOS,0.77,1,11,14,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:0),2-0,2,0
+0022100745,2022-01-29,NOP,BOS,0.82,1,11,11,BOS,BOS,fg3_make,1,False,False,,Brown 24' 3PT Jump Shot (3 PTS) (Smart 1 AST),2-3,2,3
+0022100745,2022-01-29,NOP,BOS,1.28,1,10,43,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#1),,2-3,2,3
+0022100745,2022-01-29,NOP,BOS,1.28,1,10,43,NOP,BOS,block,101,True,False,block,block,2-3,2,3
+0022100745,2022-01-29,NOP,BOS,1.28,1,10,43,NOP,NOP,fg_miss,101,True,False,MISS Hart 11' Driving Floating Jump Shot,,2-3,2,3
+0022100745,2022-01-29,NOP,BOS,1.28,1,10,43,NOP,NOP,reb,0,False,False,PELICANS Rebound,,2-3,2,3
+0022100745,2022-01-29,NOP,BOS,1.43,1,10,34,BOS,BOS,fg3_make,1,False,False,,Tatum 27' 3PT Jump Shot (3 PTS) (Williams III 1 AST),2-6,2,6
+0022100745,2022-01-29,NOP,BOS,1.67,1,10,20,NOP,NOP,fg3_miss,1,False,False,MISS Graham 27' 3PT Jump Shot,,2-6,2,6
+0022100745,2022-01-29,NOP,BOS,1.67,1,10,20,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:1),2-6,2,6
+0022100745,2022-01-29,NOP,BOS,1.87,1,10,8,BOS,BOS,fg_make,80,False,False,,Tatum 15' Step Back Jump Shot (5 PTS),2-8,2,8
+0022100745,2022-01-29,NOP,BOS,1.88,1,10,7,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,2-8,2,8
+0022100745,2022-01-29,NOP,BOS,2.07,1,9,56,NOP,NOP,fg_miss,78,False,False,MISS Hernangomez 5' Floating Jump Shot,,2-8,2,8
+0022100745,2022-01-29,NOP,BOS,2.15,1,9,51,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:2),2-8,2,8
+0022100745,2022-01-29,NOP,BOS,2.38,1,9,37,BOS,BOS,fg_make,6,False,False,,Tatum 3' Driving Layup (7 PTS),2-10,2,10
+0022100745,2022-01-29,NOP,BOS,2.65,1,9,21,NOP,NOP,fg_make,6,False,False,Temple 3' Driving Layup (2 PTS),,4-10,4,10
+0022100745,2022-01-29,NOP,BOS,2.8,1,9,12,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 27' 3PT Jump Shot,4-10,4,10
+0022100745,2022-01-29,NOP,BOS,2.87,1,9,8,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,4-10,4,10
+0022100745,2022-01-29,NOP,BOS,2.97,1,9,2,NOP,BOS,steal,2,False,True,steal,steal,4-10,4,10
+0022100745,2022-01-29,NOP,BOS,2.97,1,9,2,NOP,NOP,tov,2,False,True,Hart Lost Ball Turnover (P1.T2),,4-10,4,10
+0022100745,2022-01-29,NOP,BOS,3.07,1,8,56,BOS,BOS,fg_make,41,False,False,,Brown 3' Running Layup (5 PTS),4-12,4,12
+0022100745,2022-01-29,NOP,BOS,3.37,1,8,38,NOP,NOP,fg_miss,78,False,False,MISS Temple 15' Floating Jump Shot,,4-12,4,12
+0022100745,2022-01-29,NOP,BOS,3.43,1,8,34,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:1),4-12,4,12
+0022100745,2022-01-29,NOP,BOS,3.57,1,8,26,BOS,BOS,fg_make,47,False,False,,Tatum 11' Turnaround Jump Shot (9 PTS),4-14,4,14
+0022100745,2022-01-29,NOP,BOS,3.88,1,8,7,NOP,NOP,fg3_miss,1,False,False,MISS Hart 27' 3PT Jump Shot,,4-14,4,14
+0022100745,2022-01-29,NOP,BOS,3.93,1,8,4,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),4-14,4,14
+0022100745,2022-01-29,NOP,BOS,4.2,1,7,48,BOS,BOS,fg_make,6,False,False,,Tatum 3' Driving Layup (11 PTS) (Horford 1 AST),4-16,4,16
+0022100745,2022-01-29,NOP,BOS,4.47,1,7,32,NOP,NOP,fg3_miss,1,False,False,MISS Temple 24' 3PT Jump Shot,,4-16,4,16
+0022100745,2022-01-29,NOP,BOS,4.55,1,7,27,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:2),4-16,4,16
+0022100745,2022-01-29,NOP,BOS,4.68,1,7,19,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 3PT Jump Shot,4-16,4,16
+0022100745,2022-01-29,NOP,BOS,4.73,1,7,16,NOP,NOP,reb,0,False,False,Temple REBOUND (Off:0 Def:1),,4-16,4,16
+0022100745,2022-01-29,NOP,BOS,4.73,1,7,16,NOP,BOS,foul,1,False,False,,Tatum P.FOUL (P1.T2) (A.Nagy),4-16,4,16
+0022100745,2022-01-29,NOP,BOS,4.97,1,7,2,NOP,NOP,fg3_miss,1,False,False,MISS Jones 26' 3PT Jump Shot,,4-16,4,16
+0022100745,2022-01-29,NOP,BOS,5.03,1,6,58,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:3),4-16,4,16
+0022100745,2022-01-29,NOP,BOS,5.15,1,6,51,BOS,BOS,fg_make,5,False,False,,Horford 3' Layup (2 PTS) (Smart 2 AST),4-18,4,18
+0022100745,2022-01-29,NOP,BOS,5.42,1,6,35,NOP,NOP,ft_make,11,False,False,Hernangomez Free Throw 1 of 2 (3 PTS),,5-18,5,18
+0022100745,2022-01-29,NOP,BOS,5.42,1,6,35,NOP,NOP,ft_make,12,False,False,Hernangomez Free Throw 2 of 2 (4 PTS),,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,5.42,1,6,35,NOP,BOS,foul,2,False,False,,Smart S.FOUL (P1.T3) (N.Sago),4-18,4,18
+0022100745,2022-01-29,NOP,BOS,5.78,1,6,13,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,5.85,1,6,9,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:2),,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,5.92,1,6,5,NOP,NOP,fg3_miss,1,False,False,MISS Graham 25' 3PT Jump Shot,,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,5.97,1,6,2,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:0 Def:1),6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.1,1,5,54,BOS,BOS,fg_miss,5,False,False,,MISS Horford 8' Layup,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.15,1,5,51,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:3),6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.18,1,5,49,BOS,BOS,fg_miss,97,False,False,,MISS Williams III 4' Tip Layup Shot,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.25,1,5,45,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:1),,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.27,1,5,44,NOP,NOP,fg_miss,101,False,False,MISS Alexander-Walker 6' Driving Floating Jump Shot,,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.32,1,5,41,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:3),6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.37,1,5,38,BOS,NOP,steal,1,False,True,steal,steal,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.37,1,5,38,BOS,BOS,tov,1,False,True,,Smart Bad Pass Turnover (P2.T2),6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.45,1,5,33,NOP,NOP,fg_miss,5,True,False,MISS Jones 2' Layup,,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.45,1,5,33,NOP,BOS,block,5,True,False,block,block,6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.57,1,5,26,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:4),6-18,6,18
+0022100745,2022-01-29,NOP,BOS,6.65,1,5,21,BOS,BOS,fg_make,101,False,False,,Brown 5' Driving Floating Jump Shot (7 PTS) (Tatum 1 AST),6-20,6,20
+0022100745,2022-01-29,NOP,BOS,6.9,1,5,6,NOP,NOP,fg3_miss,1,False,False,MISS Alexander-Walker 25' 3PT Jump Shot,,6-20,6,20
+0022100745,2022-01-29,NOP,BOS,6.98,1,5,1,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:0),,6-20,6,20
+0022100745,2022-01-29,NOP,BOS,7.02,1,4,59,NOP,NOP,fg_make,5,False,False,Hernangomez 2' Layup (6 PTS),,8-20,8,20
+0022100745,2022-01-29,NOP,BOS,7.18,1,4,49,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (9 PTS),8-22,8,22
+0022100745,2022-01-29,NOP,BOS,7.18,1,4,49,BOS,BOS,ft_make,11,False,False,,Brown Free Throw 1 of 2 (8 PTS),8-21,8,21
+0022100745,2022-01-29,NOP,BOS,7.18,1,4,49,BOS,NOP,foul,2,False,False,Hernangomez S.FOUL (P1.T1) (K.Cutler),,8-20,8,20
+0022100745,2022-01-29,NOP,BOS,7.43,1,4,34,NOP,NOP,fg3_miss,1,False,False,MISS Jones 28' 3PT Jump Shot,,8-22,8,22
+0022100745,2022-01-29,NOP,BOS,7.45,1,4,33,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:1 Def:0),,8-22,8,22
+0022100745,2022-01-29,NOP,BOS,7.45,1,4,33,BOS,NOP,foul,4,False,False,Hayes OFF.Foul (P1) (N.Sago),,8-22,8,22
+0022100745,2022-01-29,NOP,BOS,7.45,1,4,33,NOP,NOP,tov,37,False,False,Hayes Offensive Foul Turnover (P1.T3),,8-22,8,22
+0022100745,2022-01-29,NOP,BOS,7.78,1,4,13,BOS,BOS,fg3_miss,1,False,False,,MISS Richardson 28' 3PT Jump Shot,8-22,8,22
+0022100745,2022-01-29,NOP,BOS,7.87,1,4,8,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:2),,8-22,8,22
+0022100745,2022-01-29,NOP,BOS,8.15,1,3,51,NOP,NOP,fg3_miss,1,False,False,MISS Hart 27' 3PT Jump Shot,,8-22,8,22
+0022100745,2022-01-29,NOP,BOS,8.2,1,3,48,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:4),8-22,8,22
+0022100745,2022-01-29,NOP,BOS,8.43,1,3,34,BOS,BOS,fg_make,7,False,False,,Williams III 3' Dunk (2 PTS) (Brown 1 AST),8-24,8,24
+0022100745,2022-01-29,NOP,BOS,8.65,1,3,21,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:5),8-24,8,24
+0022100745,2022-01-29,NOP,BOS,8.65,1,3,21,NOP,NOP,fg3_miss,1,False,False,MISS Marshall 24' 3PT Jump Shot,,8-24,8,24
+0022100745,2022-01-29,NOP,BOS,8.77,1,3,14,BOS,NOP,foul,2,False,False,Alexander-Walker S.FOUL (P1.T2) (A.Nagy),,8-26,8,26
+0022100745,2022-01-29,NOP,BOS,8.77,1,3,14,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 2 Short 0),,8-26,8,26
+0022100745,2022-01-29,NOP,BOS,8.77,1,3,14,NOP,BOS,ft_make,10,False,False,,Brown Free Throw 1 of 1 (12 PTS),8-27,8,27
+0022100745,2022-01-29,NOP,BOS,8.77,1,3,14,BOS,BOS,fg_make,5,False,False,,Brown 2' Layup (11 PTS) (Smart 3 AST),8-26,8,26
+0022100745,2022-01-29,NOP,BOS,8.97,1,3,2,NOP,BOS,foul,1,False,False,,Schroder P.FOUL (P1.T4) (K.Cutler),8-27,8,27
+0022100745,2022-01-29,NOP,BOS,9.07,1,2,56,NOP,NOP,fg3_miss,1,False,False,MISS Alexander-Walker 26' 3PT Jump Shot,,8-27,8,27
+0022100745,2022-01-29,NOP,BOS,9.12,1,2,53,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),8-27,8,27
+0022100745,2022-01-29,NOP,BOS,9.4,1,2,36,BOS,NOP,foul,1,False,False,Hayes P.FOUL (P2.T3) (K.Cutler),,8-27,8,27
+0022100745,2022-01-29,NOP,BOS,9.63,1,2,22,BOS,BOS,tov,2,False,True,,Schroder Lost Ball Turnover (P1.T3),8-27,8,27
+0022100745,2022-01-29,NOP,BOS,9.63,1,2,22,BOS,NOP,steal,2,False,True,steal,steal,8-27,8,27
+0022100745,2022-01-29,NOP,BOS,9.73,1,2,16,NOP,NOP,fg_make,5,False,False,Marshall 3' Layup (2 PTS) (Alvarado 1 AST),,10-27,10,27
+0022100745,2022-01-29,NOP,BOS,10.22,1,1,47,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,10-27,10,27
+0022100745,2022-01-29,NOP,BOS,10.22,1,1,47,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 27' 3PT Jump Shot,10-27,10,27
+0022100745,2022-01-29,NOP,BOS,10.43,1,1,34,NOP,NOP,fg_make,5,False,False,Alexander-Walker 3' Layup (2 PTS),,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,10.72,1,1,17,BOS,BOS,fg_miss,6,False,False,,MISS Horford 11' Driving Layup,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,10.75,1,1,15,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:4),,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,10.88,1,1,7,NOP,NOP,fg3_miss,1,False,False,MISS Marshall 26' 3PT Jump Shot,,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,10.93,1,1,4,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:5),12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.0,1,1,0,BOS,BOS,fg3_miss,79,False,False,,MISS Brown 28' 3PT Pullup Jump Shot,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.05,1,0,57,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:1 Def:1),,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.22,1,0,47,NOP,BOS,block,5,True,False,block,block,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.22,1,0,47,NOP,NOP,fg_miss,5,True,False,MISS Alexander-Walker 3' Layup,,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.22,1,0,47,NOP,NOP,reb,0,False,False,PELICANS Rebound,,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.3,1,0,42,NOP,NOP,fg_miss,6,False,False,MISS Hayes 7' Driving Layup,,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.35,1,0,39,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:2),12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.5,1,0,30,BOS,BOS,fg_miss,1,False,False,,MISS Horford 17' Jump Shot,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.55,1,0,27,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:3),,12-27,12,27
+0022100745,2022-01-29,NOP,BOS,11.92,1,0,5,NOP,NOP,fg3_make,1,False,False,Alvarado 27' 3PT Jump Shot (3 PTS) (Alexander-Walker 1 AST),,15-27,15,27
+0022100745,2022-01-29,NOP,BOS,12.0,1,0,0,NOP,,period_end,0,False,False,,,15-27,15,27
+0022100745,2022-01-29,NOP,BOS,12.0,2,12,0,NOP,,period_start,0,False,False,,,15-27,15,27
+0022100745,2022-01-29,NOP,BOS,12.17,2,11,50,NOP,NOP,fg_miss,5,True,False,MISS Jones 7' Layup,,15-27,15,27
+0022100745,2022-01-29,NOP,BOS,12.17,2,11,50,NOP,NOP,reb,0,False,False,PELICANS Rebound,,15-27,15,27
+0022100745,2022-01-29,NOP,BOS,12.17,2,11,50,NOP,BOS,block,5,True,False,block,block,15-27,15,27
+0022100745,2022-01-29,NOP,BOS,12.32,2,11,41,NOP,NOP,fg3_make,1,False,False,Alvarado 25' 3PT Jump Shot (6 PTS) (Alexander-Walker 2 AST),,18-27,18,27
+0022100745,2022-01-29,NOP,BOS,12.67,2,11,20,BOS,BOS,fg3_miss,1,False,False,,MISS Williams 25' 3PT Jump Shot,18-27,18,27
+0022100745,2022-01-29,NOP,BOS,12.67,2,11,20,NOP,NOP,reb,0,False,False,Alvarado REBOUND (Off:0 Def:1),,18-27,18,27
+0022100745,2022-01-29,NOP,BOS,12.93,2,11,4,NOP,NOP,fg_make,5,False,False,Alvarado 3' Layup (8 PTS),,20-27,20,27
+0022100745,2022-01-29,NOP,BOS,13.27,2,10,44,BOS,BOS,fg3_make,1,False,False,,Richardson 27' 3PT Jump Shot (3 PTS) (Tatum 2 AST),20-30,20,30
+0022100745,2022-01-29,NOP,BOS,13.67,2,10,20,NOP,NOP,fg_make,6,False,False,Alvarado 2' Driving Layup (10 PTS),,22-30,22,30
+0022100745,2022-01-29,NOP,BOS,13.93,2,10,4,BOS,NOP,foul,1,False,False,Hayes P.FOUL (P3.T1) (K.Cutler),,22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.18,2,9,49,BOS,BOS,tov,11,False,False,,Celtics Turnover: Shot Clock (T#4),22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.4,2,9,36,NOP,NOP,fg3_miss,1,False,False,MISS Alvarado 27' 3PT Jump Shot,,22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.47,2,9,32,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.53,2,9,28,BOS,NOP,steal,1,False,True,steal,steal,22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.53,2,9,28,BOS,BOS,tov,1,False,True,,Schroder Bad Pass Turnover (P2.T5),22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.62,2,9,23,NOP,NOP,fg_miss,5,False,False,MISS Alexander-Walker 5' Layup,,22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.68,2,9,19,NOP,NOP,reb,0,False,False,Alvarado REBOUND (Off:1 Def:1),,22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.72,2,9,17,NOP,NOP,fg_miss,78,False,False,MISS Alvarado 7' Floating Jump Shot,,22-30,22,30
+0022100745,2022-01-29,NOP,BOS,14.75,2,9,15,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),22-30,22,30
+0022100745,2022-01-29,NOP,BOS,15.08,2,8,55,BOS,BOS,fg_make,79,False,False,,Richardson 21' Pullup Jump Shot (5 PTS) (Tatum 3 AST),22-32,22,32
+0022100745,2022-01-29,NOP,BOS,15.4,2,8,36,NOP,NOP,fg3_miss,1,False,False,MISS Clark 24' 3PT Jump Shot,,22-32,22,32
+0022100745,2022-01-29,NOP,BOS,15.43,2,8,34,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:4),22-32,22,32
+0022100745,2022-01-29,NOP,BOS,15.55,2,8,27,BOS,BOS,fg3_make,1,False,False,,Williams 27' 3PT Jump Shot (3 PTS) (Richardson 1 AST),22-35,22,35
+0022100745,2022-01-29,NOP,BOS,16.03,2,7,58,NOP,BOS,block,1,True,False,block,block,22-35,22,35
+0022100745,2022-01-29,NOP,BOS,16.03,2,7,58,NOP,NOP,fg_miss,1,True,False,MISS Alexander-Walker 17' Jump Shot,,22-35,22,35
+0022100745,2022-01-29,NOP,BOS,16.15,2,7,51,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:6),22-35,22,35
+0022100745,2022-01-29,NOP,BOS,16.17,2,7,50,BOS,BOS,fg_make,50,False,False,,Tatum 5' Running Dunk (13 PTS) (Horford 2 AST),22-37,22,37
+0022100745,2022-01-29,NOP,BOS,16.53,2,7,28,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#4),,22-37,22,37
+0022100745,2022-01-29,NOP,BOS,16.67,2,7,20,BOS,BOS,fg3_miss,1,False,False,,MISS Schroder 26' 3PT Jump Shot,22-37,22,37
+0022100745,2022-01-29,NOP,BOS,16.72,2,7,17,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:5),,22-37,22,37
+0022100745,2022-01-29,NOP,BOS,16.77,2,7,14,NOP,BOS,foul,1,False,False,,Tatum P.FOUL (P2.T1) (K.Cutler),22-37,22,37
+0022100745,2022-01-29,NOP,BOS,16.85,2,7,9,NOP,NOP,fg3_miss,1,False,False,MISS Jones 26' 3PT Jump Shot,,22-37,22,37
+0022100745,2022-01-29,NOP,BOS,16.9,2,7,6,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),22-37,22,37
+0022100745,2022-01-29,NOP,BOS,16.97,2,7,2,BOS,NOP,foul,1,False,False,Jones P.FOUL (P1.T2) (K.Cutler),,22-37,22,37
+0022100745,2022-01-29,NOP,BOS,17.08,2,6,55,BOS,BOS,fg3_miss,1,False,False,,MISS Richardson 26' 3PT Jump Shot,22-37,22,37
+0022100745,2022-01-29,NOP,BOS,17.15,2,6,51,NOP,NOP,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,22-37,22,37
+0022100745,2022-01-29,NOP,BOS,17.2,2,6,48,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 3 Short 0),,24-37,24,37
+0022100745,2022-01-29,NOP,BOS,17.2,2,6,48,NOP,BOS,foul,2,False,False,,Williams III S.FOUL (P2.T2) (N.Sago),24-37,24,37
+0022100745,2022-01-29,NOP,BOS,17.2,2,6,48,NOP,NOP,fg_make,5,False,False,Temple 2' Layup (4 PTS) (Jones 1 AST),,24-37,24,37
+0022100745,2022-01-29,NOP,BOS,17.2,2,6,48,NOP,NOP,ft_make,10,False,False,Temple Free Throw 1 of 1 (5 PTS),,25-37,25,37
+0022100745,2022-01-29,NOP,BOS,17.5,2,6,30,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 24' 3PT Jump Shot,25-37,25,37
+0022100745,2022-01-29,NOP,BOS,17.57,2,6,26,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:6),,25-37,25,37
+0022100745,2022-01-29,NOP,BOS,17.67,2,6,20,NOP,NOP,fg3_miss,1,False,False,MISS Graham 24' 3PT Jump Shot,,25-37,25,37
+0022100745,2022-01-29,NOP,BOS,17.75,2,6,15,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:4),25-37,25,37
+0022100745,2022-01-29,NOP,BOS,17.9,2,6,6,BOS,BOS,fg_make,47,False,False,,Tatum 14' Turnaround Jump Shot (15 PTS),25-39,25,39
+0022100745,2022-01-29,NOP,BOS,18.28,2,5,43,NOP,NOP,fg_make,78,False,False,Graham 14' Floating Jump Shot (2 PTS) (Hernangomez 1 AST),,27-39,27,39
+0022100745,2022-01-29,NOP,BOS,18.58,2,5,25,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 28' 3PT Jump Shot,27-39,27,39
+0022100745,2022-01-29,NOP,BOS,18.63,2,5,22,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:1),27-39,27,39
+0022100745,2022-01-29,NOP,BOS,18.65,2,5,21,BOS,BOS,fg_make,72,False,False,,Smart 3' Putback Layup (2 PTS),27-41,27,41
+0022100745,2022-01-29,NOP,BOS,18.9,2,5,6,NOP,NOP,tov,37,False,False,Hernangomez Offensive Foul Turnover (P1.T5),,27-41,27,41
+0022100745,2022-01-29,NOP,BOS,18.9,2,5,6,BOS,NOP,foul,4,False,False,Hernangomez OFF.Foul (P2) (A.Nagy),,27-41,27,41
+0022100745,2022-01-29,NOP,BOS,19.08,2,4,55,BOS,BOS,fg3_miss,1,False,False,,MISS Nesmith 25' 3PT Jump Shot,27-41,27,41
+0022100745,2022-01-29,NOP,BOS,19.13,2,4,52,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:7),,27-41,27,41
+0022100745,2022-01-29,NOP,BOS,19.2,2,4,48,NOP,NOP,fg_make,79,False,False,Hart 15' Pullup Jump Shot (2 PTS),,29-41,29,41
+0022100745,2022-01-29,NOP,BOS,19.42,2,4,35,BOS,BOS,fg_miss,5,False,False,,MISS Brown 9' Layup,29-41,29,41
+0022100745,2022-01-29,NOP,BOS,19.5,2,4,30,NOP,NOP,reb,0,False,False,Temple REBOUND (Off:0 Def:2),,29-41,29,41
+0022100745,2022-01-29,NOP,BOS,19.77,2,4,14,NOP,NOP,fg_miss,58,False,False,MISS Hernangomez 3' Turnaround Hook Shot,,29-41,29,41
+0022100745,2022-01-29,NOP,BOS,19.82,2,4,11,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:6),29-41,29,41
+0022100745,2022-01-29,NOP,BOS,20.1,2,3,54,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 28' 3PT Jump Shot,29-41,29,41
+0022100745,2022-01-29,NOP,BOS,20.15,2,3,51,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:1),,29-41,29,41
+0022100745,2022-01-29,NOP,BOS,20.53,2,3,28,NOP,NOP,fg_make,78,False,False,Hernangomez 7' Floating Jump Shot (8 PTS) (Graham 1 AST),,31-41,31,41
+0022100745,2022-01-29,NOP,BOS,20.82,2,3,11,BOS,BOS,fg3_make,1,False,False,,Brown 26' 3PT Jump Shot (15 PTS) (Smart 4 AST),31-44,31,44
+0022100745,2022-01-29,NOP,BOS,21.08,2,2,55,NOP,NOP,fg_miss,47,False,False,MISS Hernangomez 7' Turnaround Jump Shot,,31-44,31,44
+0022100745,2022-01-29,NOP,BOS,21.12,2,2,53,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:7),31-44,31,44
+0022100745,2022-01-29,NOP,BOS,21.22,2,2,47,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.1 Short 0),31-44,31,44
+0022100745,2022-01-29,NOP,BOS,21.45,2,2,33,BOS,BOS,fg3_make,1,False,False,,Tatum 28' 3PT Jump Shot (18 PTS),31-47,31,47
+0022100745,2022-01-29,NOP,BOS,21.72,2,2,17,NOP,NOP,fg_miss,78,False,False,MISS Hart 11' Floating Jump Shot,,31-47,31,47
+0022100745,2022-01-29,NOP,BOS,21.75,2,2,15,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:5),31-47,31,47
+0022100745,2022-01-29,NOP,BOS,21.8,2,2,12,BOS,BOS,tov,45,False,False,,Tatum Out of Bounds - Bad Pass Turnover Turnover (P1.T6),31-47,31,47
+0022100745,2022-01-29,NOP,BOS,22.13,2,1,52,NOP,NOP,tov,1,False,True,Temple Bad Pass Turnover (P1.T6),,31-47,31,47
+0022100745,2022-01-29,NOP,BOS,22.13,2,1,52,NOP,BOS,steal,1,False,True,steal,steal,31-47,31,47
+0022100745,2022-01-29,NOP,BOS,22.35,2,1,39,BOS,BOS,fg_miss,47,False,False,,MISS Smart 13' Turnaround Jump Shot,31-47,31,47
+0022100745,2022-01-29,NOP,BOS,22.4,2,1,36,NOP,NOP,reb,0,False,False,Graham REBOUND (Off:0 Def:1),,31-47,31,47
+0022100745,2022-01-29,NOP,BOS,22.43,2,1,34,NOP,NOP,ft_miss,12,False,False,MISS Hart Free Throw 2 of 2,,32-47,32,47
+0022100745,2022-01-29,NOP,BOS,22.43,2,1,34,NOP,NOP,ft_make,11,False,False,Hart Free Throw 1 of 2 (3 PTS),,32-47,32,47
+0022100745,2022-01-29,NOP,BOS,22.43,2,1,34,NOP,BOS,foul,2,False,False,,Smart S.FOUL (P2.T3) (N.Sago),31-47,31,47
+0022100745,2022-01-29,NOP,BOS,22.53,2,1,28,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),32-47,32,47
+0022100745,2022-01-29,NOP,BOS,22.62,2,1,23,BOS,BOS,fg_miss,1,False,False,,MISS Brown 13' Jump Shot,32-47,32,47
+0022100745,2022-01-29,NOP,BOS,22.7,2,1,18,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:8),,32-47,32,47
+0022100745,2022-01-29,NOP,BOS,22.85,2,1,9,NOP,NOP,fg3_miss,1,False,False,MISS Graham 27' 3PT Jump Shot,,32-47,32,47
+0022100745,2022-01-29,NOP,BOS,22.9,2,1,6,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:6),32-47,32,47
+0022100745,2022-01-29,NOP,BOS,23.12,2,0,53,BOS,BOS,fg3_make,79,False,False,,Tatum 27' 3PT Pullup Jump Shot (21 PTS),32-50,32,50
+0022100745,2022-01-29,NOP,BOS,23.38,2,0,37,NOP,NOP,fg3_miss,1,False,False,MISS Temple 24' 3PT Jump Shot,,32-50,32,50
+0022100745,2022-01-29,NOP,BOS,23.43,2,0,34,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:8),32-50,32,50
+0022100745,2022-01-29,NOP,BOS,23.55,2,0,27,BOS,BOS,fg_make,6,False,False,,Brown 3' Driving Layup (17 PTS) (Smart 5 AST),32-52,32,52
+0022100745,2022-01-29,NOP,BOS,23.9,2,0,6,NOP,NOP,fg_make,98,False,False,Hart 2' Cutting Layup Shot (5 PTS) (Graham 2 AST),,34-52,34,52
+0022100745,2022-01-29,NOP,BOS,24.0,3,12,0,NOP,,period_start,0,False,False,,,34-52,34,52
+0022100745,2022-01-29,NOP,BOS,24.0,2,0,0,NOP,,period_end,0,False,False,,,34-52,34,52
+0022100745,2022-01-29,NOP,BOS,24.23,3,11,46,NOP,NOP,tov,45,False,False,Graham Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,34-52,34,52
+0022100745,2022-01-29,NOP,BOS,24.45,3,11,33,BOS,BOS,fg_make,5,False,False,,Williams III 2' Layup (4 PTS) (Smart 6 AST),34-54,34,54
+0022100745,2022-01-29,NOP,BOS,24.75,3,11,15,NOP,NOP,fg_make,3,False,False,Hernangomez 6' Hook Shot (10 PTS) (Hart 1 AST),,36-54,36,54
+0022100745,2022-01-29,NOP,BOS,25.1,3,10,54,BOS,BOS,tov,1,False,True,,Smart Bad Pass Turnover (P3.T7),36-54,36,54
+0022100745,2022-01-29,NOP,BOS,25.1,3,10,54,BOS,NOP,steal,1,False,True,steal,steal,36-54,36,54
+0022100745,2022-01-29,NOP,BOS,25.12,3,10,53,NOP,BOS,foul,28,False,False,,Smart Personal Take Foul (P3.T1) (N.Sago),36-54,36,54
+0022100745,2022-01-29,NOP,BOS,25.23,3,10,46,NOP,BOS,steal,1,False,True,steal,steal,36-54,36,54
+0022100745,2022-01-29,NOP,BOS,25.23,3,10,46,NOP,NOP,tov,1,False,True,Hernangomez Bad Pass Turnover (P2.T8),,36-54,36,54
+0022100745,2022-01-29,NOP,BOS,25.35,3,10,39,BOS,BOS,fg_make,41,False,False,,Tatum 2' Running Layup (23 PTS),36-56,36,56
+0022100745,2022-01-29,NOP,BOS,25.58,3,10,25,NOP,NOP,fg3_miss,1,False,False,MISS Graham 25' 3PT Jump Shot,,36-56,36,56
+0022100745,2022-01-29,NOP,BOS,25.63,3,10,22,NOP,NOP,reb,0,False,False,Jones REBOUND (Off:1 Def:1),,36-56,36,56
+0022100745,2022-01-29,NOP,BOS,25.67,3,10,20,NOP,NOP,fg_make,87,False,False,Jones 3' Putback Dunk (2 PTS),,38-56,38,56
+0022100745,2022-01-29,NOP,BOS,25.95,3,10,3,BOS,BOS,fg_make,5,False,False,,Brown 3' Layup (19 PTS) (Smart 7 AST),38-58,38,58
+0022100745,2022-01-29,NOP,BOS,26.17,3,9,50,NOP,NOP,fg3_make,1,False,False,Hart 3PT Jump Shot (8 PTS) (Temple 1 AST),,41-58,41,58
+0022100745,2022-01-29,NOP,BOS,26.45,3,9,33,BOS,BOS,fg_make,47,False,False,,Brown 18' Turnaround Jump Shot (21 PTS) (Smart 8 AST),41-60,41,60
+0022100745,2022-01-29,NOP,BOS,26.77,3,9,14,NOP,NOP,fg3_make,1,False,False,Jones 24' 3PT Jump Shot (5 PTS) (Temple 2 AST),,44-60,44,60
+0022100745,2022-01-29,NOP,BOS,26.95,3,9,3,BOS,BOS,fg3_make,1,False,False,,Brown 24' 3PT Jump Shot (24 PTS) (Horford 3 AST),44-63,44,63
+0022100745,2022-01-29,NOP,BOS,27.22,3,8,47,NOP,NOP,fg_miss,79,False,False,MISS Graham 16' Pullup Jump Shot,,44-63,44,63
+0022100745,2022-01-29,NOP,BOS,27.27,3,8,44,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:9),44-63,44,63
+0022100745,2022-01-29,NOP,BOS,27.52,3,8,29,BOS,BOS,tov,1,False,True,,Tatum Bad Pass Turnover (P2.T8),44-63,44,63
+0022100745,2022-01-29,NOP,BOS,27.52,3,8,29,BOS,NOP,steal,1,False,True,steal,steal,44-63,44,63
+0022100745,2022-01-29,NOP,BOS,27.6,3,8,24,NOP,NOP,fg_make,108,False,False,Jones 3' Cutting Dunk Shot (7 PTS) (Hart 2 AST),,46-63,46,63
+0022100745,2022-01-29,NOP,BOS,27.93,3,8,4,BOS,BOS,fg_miss,5,False,False,,MISS Brown 9' Layup,46-63,46,63
+0022100745,2022-01-29,NOP,BOS,27.97,3,8,2,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:2),,46-63,46,63
+0022100745,2022-01-29,NOP,BOS,28.03,3,7,58,NOP,NOP,ft_make,12,False,False,Jones Free Throw 2 of 2 (9 PTS),,48-63,48,63
+0022100745,2022-01-29,NOP,BOS,28.03,3,7,58,NOP,NOP,ft_make,11,False,False,Jones Free Throw 1 of 2 (8 PTS),,47-63,47,63
+0022100745,2022-01-29,NOP,BOS,28.03,3,7,58,NOP,BOS,foul,2,False,False,,Smart S.FOUL (P4.T2) (K.Cutler),46-63,46,63
+0022100745,2022-01-29,NOP,BOS,28.03,3,7,58,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,46-63,46,63
+0022100745,2022-01-29,NOP,BOS,28.38,3,7,37,BOS,BOS,fg_miss,79,False,False,,MISS Brown 12' Pullup Jump Shot,48-63,48,63
+0022100745,2022-01-29,NOP,BOS,28.42,3,7,35,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:9),,48-63,48,63
+0022100745,2022-01-29,NOP,BOS,28.47,3,7,32,NOP,BOS,foul,1,False,False,,Schroder P.FOUL (P2.T3) (A.Nagy),48-63,48,63
+0022100745,2022-01-29,NOP,BOS,28.58,3,7,25,NOP,NOP,fg_make,6,False,False,Temple 4' Driving Layup (7 PTS),,50-63,50,63
+0022100745,2022-01-29,NOP,BOS,28.87,3,7,8,BOS,BOS,ft_make,12,False,False,,Schroder Free Throw 2 of 2 (1 PTS),50-64,50,64
+0022100745,2022-01-29,NOP,BOS,28.87,3,7,8,BOS,BOS,reb,1,False,False,,Celtics Rebound,50-63,50,63
+0022100745,2022-01-29,NOP,BOS,28.87,3,7,8,BOS,BOS,ft_miss,11,False,False,,MISS Schroder Free Throw 1 of 2,50-63,50,63
+0022100745,2022-01-29,NOP,BOS,28.87,3,7,8,BOS,NOP,foul,2,False,False,Graham S.FOUL (P1.T1) (A.Nagy),,50-63,50,63
+0022100745,2022-01-29,NOP,BOS,29.22,3,6,47,NOP,NOP,fg3_miss,1,False,False,MISS Jones 27' 3PT Jump Shot,,50-64,50,64
+0022100745,2022-01-29,NOP,BOS,29.27,3,6,44,BOS,BOS,reb,0,False,False,,Schroder REBOUND (Off:0 Def:1),50-64,50,64
+0022100745,2022-01-29,NOP,BOS,29.35,3,6,39,BOS,BOS,fg3_make,1,False,False,,Horford 3PT Jump Shot (5 PTS) (Tatum 4 AST),50-67,50,67
+0022100745,2022-01-29,NOP,BOS,29.45,3,6,33,NOP,NOP,fg_make,5,False,False,Temple 3' Layup (9 PTS) (Graham 3 AST),,52-67,52,67
+0022100745,2022-01-29,NOP,BOS,29.85,3,6,9,BOS,BOS,fg3_make,1,False,False,,Schroder 24' 3PT Jump Shot (4 PTS) (Williams III 2 AST),52-70,52,70
+0022100745,2022-01-29,NOP,BOS,30.1,3,5,54,NOP,NOP,fg3_miss,1,False,False,MISS Temple 27' 3PT Jump Shot,,52-70,52,70
+0022100745,2022-01-29,NOP,BOS,30.13,3,5,52,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:2 Def:2),,52-70,52,70
+0022100745,2022-01-29,NOP,BOS,30.17,3,5,50,NOP,NOP,fg3_make,1,False,False,Graham 26' 3PT Jump Shot (5 PTS) (Hernangomez 2 AST),,55-70,55,70
+0022100745,2022-01-29,NOP,BOS,30.52,3,5,29,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 26' 3PT Jump Shot,55-70,55,70
+0022100745,2022-01-29,NOP,BOS,30.57,3,5,26,NOP,BOS,foul,3,False,False,,Williams III L.B.FOUL (P3.T4) (K.Cutler),55-70,55,70
+0022100745,2022-01-29,NOP,BOS,30.57,3,5,26,NOP,NOP,reb,0,False,False,PELICANS Rebound,,55-70,55,70
+0022100745,2022-01-29,NOP,BOS,30.92,3,5,5,NOP,NOP,fg3_miss,1,False,False,MISS Hart 27' 3PT Jump Shot,,55-70,55,70
+0022100745,2022-01-29,NOP,BOS,30.98,3,5,1,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:7),55-70,55,70
+0022100745,2022-01-29,NOP,BOS,31.15,3,4,51,BOS,BOS,fg_make,5,False,False,,Tatum 8' Layup (25 PTS),55-72,55,72
+0022100745,2022-01-29,NOP,BOS,31.45,3,4,33,NOP,NOP,fg3_make,1,False,False,Alvarado 25' 3PT Jump Shot (13 PTS) (Jones 2 AST),,58-72,58,72
+0022100745,2022-01-29,NOP,BOS,31.73,3,4,16,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 25' 3PT Jump Shot,58-72,58,72
+0022100745,2022-01-29,NOP,BOS,31.77,3,4,14,NOP,NOP,reb,0,False,False,Alvarado REBOUND (Off:1 Def:2),,58-72,58,72
+0022100745,2022-01-29,NOP,BOS,31.98,3,4,1,NOP,NOP,reb,1,False,False,PELICANS Rebound,,58-72,58,72
+0022100745,2022-01-29,NOP,BOS,31.98,3,4,1,NOP,NOP,ft_miss,11,False,False,MISS Temple Free Throw 1 of 2,,58-72,58,72
+0022100745,2022-01-29,NOP,BOS,31.98,3,4,1,NOP,BOS,foul,1,False,False,,Williams P.FOUL (P1.PN) (K.Cutler),58-72,58,72
+0022100745,2022-01-29,NOP,BOS,31.98,3,4,1,NOP,NOP,ft_miss,12,False,False,MISS Temple Free Throw 2 of 2,,58-72,58,72
+0022100745,2022-01-29,NOP,BOS,32.02,3,3,59,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:10),58-72,58,72
+0022100745,2022-01-29,NOP,BOS,32.22,3,3,47,BOS,BOS,fg3_make,1,False,False,,Tatum 26' 3PT Jump Shot (28 PTS) (Williams III 3 AST),58-75,58,75
+0022100745,2022-01-29,NOP,BOS,32.48,3,3,31,NOP,NOP,fg_make,79,False,False,Alvarado 12' Pullup Jump Shot (15 PTS),,60-75,60,75
+0022100745,2022-01-29,NOP,BOS,32.72,3,3,17,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,60-75,60,75
+0022100745,2022-01-29,NOP,BOS,32.75,3,3,15,NOP,NOP,reb,0,False,False,Alvarado REBOUND (Off:1 Def:3),,60-75,60,75
+0022100745,2022-01-29,NOP,BOS,32.83,3,3,10,NOP,NOP,fg_miss,73,False,False,MISS Marshall 4' Driving Reverse Layup,,60-75,60,75
+0022100745,2022-01-29,NOP,BOS,32.85,3,3,9,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:11),60-75,60,75
+0022100745,2022-01-29,NOP,BOS,33.07,3,2,56,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.2 Short 0),60-75,60,75
+0022100745,2022-01-29,NOP,BOS,33.07,3,2,56,BOS,BOS,tov,45,False,False,,Schroder Out of Bounds - Bad Pass Turnover Turnover (P3.T9),60-75,60,75
+0022100745,2022-01-29,NOP,BOS,33.18,3,2,49,NOP,NOP,tov,1,False,True,Hart Bad Pass Turnover (P2.T9),,60-75,60,75
+0022100745,2022-01-29,NOP,BOS,33.18,3,2,49,NOP,BOS,steal,1,False,True,steal,steal,60-75,60,75
+0022100745,2022-01-29,NOP,BOS,33.23,3,2,46,BOS,BOS,tov,45,False,False,,Schroder Out of Bounds - Bad Pass Turnover Turnover (P4.T10),60-75,60,75
+0022100745,2022-01-29,NOP,BOS,33.25,3,2,45,NOP,NOP,ft_make,10,False,False,Hayes Free Throw 1 of 1 (3 PTS),,63-75,63,75
+0022100745,2022-01-29,NOP,BOS,33.25,3,2,45,NOP,BOS,foul,2,False,False,,Richardson S.FOUL (P1.PN) (N.Sago),62-75,62,75
+0022100745,2022-01-29,NOP,BOS,33.25,3,2,45,NOP,NOP,fg_make,7,False,False,Hayes 4' Dunk (2 PTS) (Alexander-Walker 3 AST),,62-75,62,75
+0022100745,2022-01-29,NOP,BOS,33.53,3,2,28,BOS,BOS,fg_miss,79,False,False,,MISS Schroder 17' Pullup Jump Shot,63-75,63,75
+0022100745,2022-01-29,NOP,BOS,33.65,3,2,21,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:10),,63-75,63,75
+0022100745,2022-01-29,NOP,BOS,33.68,3,2,19,NOP,NOP,tov,45,False,False,Hayes Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,63-75,63,75
+0022100745,2022-01-29,NOP,BOS,33.85,3,2,9,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,63-75,63,75
+0022100745,2022-01-29,NOP,BOS,33.92,3,2,5,BOS,BOS,reb,0,False,False,,Celtics Rebound,63-75,63,75
+0022100745,2022-01-29,NOP,BOS,34.03,3,1,58,BOS,BOS,tov,1,False,True,,Horford Bad Pass Turnover (P1.T11),63-75,63,75
+0022100745,2022-01-29,NOP,BOS,34.03,3,1,58,BOS,NOP,steal,1,False,True,steal,steal,63-75,63,75
+0022100745,2022-01-29,NOP,BOS,34.12,3,1,53,NOP,NOP,fg_make,41,False,False,Marshall 4' Running Layup (4 PTS) (Temple 3 AST),,65-75,65,75
+0022100745,2022-01-29,NOP,BOS,34.33,3,1,40,BOS,NOP,foul,1,False,False,Marshall P.FOUL (P1.T2) (A.Nagy),,65-75,65,75
+0022100745,2022-01-29,NOP,BOS,34.53,3,1,28,BOS,BOS,fg3_make,1,False,False,,Horford 26' 3PT Jump Shot (8 PTS) (Brown 2 AST),65-78,65,78
+0022100745,2022-01-29,NOP,BOS,34.77,3,1,14,NOP,BOS,foul,2,False,False,,Williams S.FOUL (P2.PN) (A.Nagy),65-78,65,78
+0022100745,2022-01-29,NOP,BOS,34.77,3,1,14,NOP,NOP,ft_miss,11,False,False,MISS Temple Free Throw 1 of 2,,65-78,65,78
+0022100745,2022-01-29,NOP,BOS,34.77,3,1,14,NOP,NOP,reb,1,False,False,PELICANS Rebound,,65-78,65,78
+0022100745,2022-01-29,NOP,BOS,34.77,3,1,14,NOP,NOP,ft_make,12,False,False,Temple Free Throw 2 of 2 (10 PTS),,66-78,66,78
+0022100745,2022-01-29,NOP,BOS,35.03,3,0,58,BOS,BOS,tov,2,False,True,,Brown Lost Ball Turnover (P1.T12),66-78,66,78
+0022100745,2022-01-29,NOP,BOS,35.03,3,0,58,NOP,NOP,timeout,7,False,False,PELICANS Timeout: Coach Challenge (Full 4 Short 0),,66-78,66,78
+0022100745,2022-01-29,NOP,BOS,35.03,3,0,58,BOS,NOP,steal,2,False,True,steal,steal,66-78,66,78
+0022100745,2022-01-29,NOP,BOS,35.28,3,0,43,NOP,NOP,fg_make,5,False,False,Temple 3' Layup (12 PTS) (Alvarado 2 AST),,68-78,68,78
+0022100745,2022-01-29,NOP,BOS,35.47,3,0,32,BOS,BOS,fg3_miss,1,False,False,,MISS Schroder 26' 3PT Jump Shot,68-78,68,78
+0022100745,2022-01-29,NOP,BOS,35.47,3,0,32,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:1 Def:4),68-78,68,78
+0022100745,2022-01-29,NOP,BOS,35.58,3,0,25,BOS,BOS,tov,40,False,False,,Williams Out of Bounds Lost Ball Turnover (P1.T13),68-78,68,78
+0022100745,2022-01-29,NOP,BOS,35.93,3,0,4,NOP,NOP,fg_make,6,False,False,Alvarado 4' Driving Layup (17 PTS),,70-78,70,78
+0022100745,2022-01-29,NOP,BOS,36.0,3,0,0,NOP,,period_end,0,False,False,,,70-78,70,78
+0022100745,2022-01-29,NOP,BOS,36.0,4,12,0,NOP,,period_start,0,False,False,,,70-78,70,78
+0022100745,2022-01-29,NOP,BOS,36.33,4,11,40,BOS,NOP,foul,2,False,False,Jones S.FOUL (P2.T1) (A.Nagy),,70-78,70,78
+0022100745,2022-01-29,NOP,BOS,36.33,4,11,40,BOS,BOS,ft_make,11,False,False,,Smart Free Throw 1 of 2 (3 PTS),70-79,70,79
+0022100745,2022-01-29,NOP,BOS,36.33,4,11,40,BOS,BOS,ft_miss,12,False,False,,MISS Smart Free Throw 2 of 2,70-79,70,79
+0022100745,2022-01-29,NOP,BOS,36.4,4,11,36,NOP,NOP,reb,0,False,False,Jones REBOUND (Off:1 Def:2),,70-79,70,79
+0022100745,2022-01-29,NOP,BOS,36.65,4,11,21,NOP,NOP,tov,40,False,False,Alexander-Walker Out of Bounds Lost Ball Turnover (P1.T11),,70-79,70,79
+0022100745,2022-01-29,NOP,BOS,36.88,4,11,7,BOS,BOS,fg_make,5,False,False,,Smart 1' Layup (5 PTS) (Tatum 5 AST),70-81,70,81
+0022100745,2022-01-29,NOP,BOS,37.13,4,10,52,NOP,NOP,fg3_make,1,False,False,Alexander-Walker 27' 3PT Jump Shot (5 PTS) (Jones 3 AST),,73-81,73,81
+0022100745,2022-01-29,NOP,BOS,37.27,4,10,44,BOS,NOP,foul,1,False,False,Alvarado P.FOUL (P1.T2) (K.Cutler),,73-81,73,81
+0022100745,2022-01-29,NOP,BOS,37.55,4,10,27,BOS,BOS,fg_make,47,False,False,,Richardson 10' Turnaround Jump Shot (7 PTS) (Tatum 6 AST),73-83,73,83
+0022100745,2022-01-29,NOP,BOS,37.88,4,10,7,NOP,NOP,ft_make,12,False,False,Hayes Free Throw 2 of 2 (5 PTS),,75-83,75,83
+0022100745,2022-01-29,NOP,BOS,37.88,4,10,7,NOP,NOP,ft_make,11,False,False,Hayes Free Throw 1 of 2 (4 PTS),,74-83,74,83
+0022100745,2022-01-29,NOP,BOS,37.88,4,10,7,NOP,BOS,foul,2,False,False,,Tatum S.FOUL (P3.T1) (N.Sago),73-83,73,83
+0022100745,2022-01-29,NOP,BOS,38.05,4,9,57,BOS,BOS,fg_make,5,False,False,,Williams III 2' Layup (6 PTS) (Smart 9 AST),75-85,75,85
+0022100745,2022-01-29,NOP,BOS,38.37,4,9,38,NOP,NOP,fg_miss,47,False,False,MISS Alvarado 12' Turnaround Jump Shot,,75-85,75,85
+0022100745,2022-01-29,NOP,BOS,38.4,4,9,36,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:12),75-85,75,85
+0022100745,2022-01-29,NOP,BOS,38.68,4,9,19,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 5 Short 0),,75-88,75,88
+0022100745,2022-01-29,NOP,BOS,38.68,4,9,19,BOS,BOS,fg3_make,1,False,False,,Brown 24' 3PT Jump Shot (27 PTS) (Richardson 2 AST),75-88,75,88
+0022100745,2022-01-29,NOP,BOS,38.97,4,9,2,NOP,NOP,ft_make,11,False,False,Graham Free Throw 1 of 2 (6 PTS),,76-88,76,88
+0022100745,2022-01-29,NOP,BOS,38.97,4,9,2,NOP,BOS,foul,2,False,False,,Brown S.FOUL (P1.T2) (K.Cutler),75-88,75,88
+0022100745,2022-01-29,NOP,BOS,38.97,4,9,2,NOP,NOP,ft_make,12,False,False,Graham Free Throw 2 of 2 (7 PTS),,77-88,77,88
+0022100745,2022-01-29,NOP,BOS,39.17,4,8,50,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 3PT Jump Shot,77-88,77,88
+0022100745,2022-01-29,NOP,BOS,39.2,4,8,48,NOP,NOP,reb,0,False,False,Jones REBOUND (Off:1 Def:3),,77-88,77,88
+0022100745,2022-01-29,NOP,BOS,39.28,4,8,43,NOP,NOP,fg_miss,41,False,False,MISS Jones 6' Running Layup,,77-88,77,88
+0022100745,2022-01-29,NOP,BOS,39.3,4,8,42,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:3 Def:2),,77-88,77,88
+0022100745,2022-01-29,NOP,BOS,39.3,4,8,42,NOP,NOP,tov,40,False,False,Hernangomez Out of Bounds Lost Ball Turnover (P3.T12),,77-88,77,88
+0022100745,2022-01-29,NOP,BOS,39.58,4,8,25,BOS,BOS,ft_make,11,False,False,,Brown Free Throw 1 of 2 (28 PTS),77-89,77,89
+0022100745,2022-01-29,NOP,BOS,39.58,4,8,25,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (29 PTS),77-90,77,90
+0022100745,2022-01-29,NOP,BOS,39.58,4,8,25,BOS,NOP,foul,2,False,False,Hernangomez S.FOUL (P3.T3) (K.Cutler),,77-88,77,88
+0022100745,2022-01-29,NOP,BOS,39.85,4,8,9,NOP,NOP,fg_miss,5,False,False,MISS Temple 4' Layup,,77-90,77,90
+0022100745,2022-01-29,NOP,BOS,39.88,4,8,7,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:13),77-90,77,90
+0022100745,2022-01-29,NOP,BOS,39.95,4,8,3,BOS,BOS,fg_make,41,False,False,,Brown 3' Running Layup (31 PTS),77-92,77,92
+0022100745,2022-01-29,NOP,BOS,40.17,4,7,50,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:1 Def:3),,77-92,77,92
+0022100745,2022-01-29,NOP,BOS,40.17,4,7,50,NOP,NOP,fg3_miss,1,False,False,MISS Temple 26' 3PT Jump Shot,,77-92,77,92
+0022100745,2022-01-29,NOP,BOS,40.35,4,7,39,NOP,NOP,fg_make,98,False,False,Hernangomez 3' Cutting Layup Shot (12 PTS) (Alexander-Walker 4 AST),,79-92,79,92
+0022100745,2022-01-29,NOP,BOS,40.5,4,7,30,BOS,BOS,fg_make,108,False,False,,Tatum 2' Cutting Dunk Shot (30 PTS) (Brown 3 AST),79-94,79,94
+0022100745,2022-01-29,NOP,BOS,40.88,4,7,7,NOP,NOP,ft_make,12,False,False,Graham Free Throw 2 of 2 (9 PTS),,81-94,81,94
+0022100745,2022-01-29,NOP,BOS,40.88,4,7,7,NOP,NOP,ft_make,11,False,False,Graham Free Throw 1 of 2 (8 PTS),,80-94,80,94
+0022100745,2022-01-29,NOP,BOS,40.88,4,7,7,NOP,BOS,foul,2,False,False,,Williams III S.FOUL (P4.T3) (A.Nagy),79-94,79,94
+0022100745,2022-01-29,NOP,BOS,41.2,4,6,48,BOS,BOS,fg_make,6,False,False,,Tatum 3' Driving Layup (32 PTS),81-96,81,96
+0022100745,2022-01-29,NOP,BOS,41.58,4,6,25,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:8),83-96,83,96
+0022100745,2022-01-29,NOP,BOS,41.58,4,6,25,NOP,NOP,ft_miss,10,False,False,MISS Hart Free Throw 1 of 1,,83-96,83,96
+0022100745,2022-01-29,NOP,BOS,41.58,4,6,25,NOP,BOS,foul,2,False,False,,Richardson S.FOUL (P2.T4) (A.Nagy),83-96,83,96
+0022100745,2022-01-29,NOP,BOS,41.58,4,6,25,NOP,NOP,fg_make,6,False,False,Hart 2' Driving Layup (10 PTS) (Temple 4 AST),,83-96,83,96
+0022100745,2022-01-29,NOP,BOS,41.82,4,6,11,BOS,BOS,fg3_make,1,False,False,,Richardson 25' 3PT Jump Shot (10 PTS) (Tatum 7 AST),83-99,83,99
+0022100745,2022-01-29,NOP,BOS,42.15,4,5,51,NOP,NOP,fg_make,6,False,False,Jones 3' Driving Layup (11 PTS),,85-99,85,99
+0022100745,2022-01-29,NOP,BOS,42.42,4,5,35,BOS,BOS,fg_make,1,False,False,,Tatum 13' Jump Shot (34 PTS) (Smart 10 AST),85-101,85,101
+0022100745,2022-01-29,NOP,BOS,42.58,4,5,25,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.3 Short 0),85-101,85,101
+0022100745,2022-01-29,NOP,BOS,42.63,4,5,22,NOP,NOP,fg_make,5,False,False,Hernangomez 5' Layup (14 PTS) (Jones 4 AST),,87-101,87,101
+0022100745,2022-01-29,NOP,BOS,42.93,4,5,4,BOS,BOS,fg_make,52,False,False,,Williams III 2' Alley Oop Dunk (8 PTS) (Smart 11 AST),87-103,87,103
+0022100745,2022-01-29,NOP,BOS,43.08,4,4,55,NOP,NOP,fg3_make,1,False,False,Graham 27' 3PT Jump Shot (12 PTS),,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,43.42,4,4,35,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 25' 3PT Jump Shot,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,43.48,4,4,31,BOS,BOS,reb,0,False,False,,Richardson REBOUND (Off:1 Def:0),90-103,90,103
+0022100745,2022-01-29,NOP,BOS,43.7,4,4,18,BOS,BOS,fg3_miss,1,False,False,,MISS Williams III 26' 3PT Jump Shot,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,43.77,4,4,14,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:11),,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.02,4,3,59,NOP,BOS,steal,1,False,True,steal,steal,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.02,4,3,59,BOS,NOP,foul,1,False,False,Hernangomez P.FOUL (P4.T4) (K.Cutler),,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.02,4,3,59,NOP,NOP,tov,1,False,True,Hernangomez Bad Pass Turnover (P4.T13),,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.23,4,3,46,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.28,4,3,43,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:3 Def:13),90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.3,4,3,42,BOS,BOS,fg3_miss,1,False,False,,MISS Richardson 25' 3PT Jump Shot,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.4,4,3,36,NOP,NOP,reb,0,False,False,Temple REBOUND (Off:0 Def:3),,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.45,4,3,33,NOP,NOP,fg_miss,5,True,False,MISS Hernangomez 3' Layup,,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.45,4,3,33,NOP,BOS,block,5,True,False,block,block,90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.53,4,3,28,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),90-103,90,103
+0022100745,2022-01-29,NOP,BOS,44.67,4,3,20,BOS,BOS,fg_make,5,False,False,,Tatum 3' Layup (36 PTS) (Smart 12 AST),90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.02,4,2,59,NOP,NOP,reb,0,False,False,Temple REBOUND (Off:1 Def:3),,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.02,4,2,59,NOP,NOP,fg_miss,5,True,False,MISS Hernangomez 7' Layup,,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.02,4,2,59,NOP,BOS,block,5,True,False,block,block,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.12,4,2,53,NOP,NOP,fg3_miss,1,False,False,MISS Graham 26' 3PT Jump Shot,,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.15,4,2,51,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:11),,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.22,4,2,47,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:2),90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.22,4,2,47,NOP,NOP,fg3_miss,1,False,False,MISS Graham 3PT Jump Shot,,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.35,4,2,39,BOS,BOS,ft_miss,11,False,False,,MISS Brown Free Throw 1 of 2,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.35,4,2,39,BOS,BOS,ft_miss,12,False,False,,MISS Brown Free Throw 2 of 2,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.35,4,2,39,BOS,BOS,reb,1,False,False,,Celtics Rebound,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.35,4,2,39,BOS,NOP,foul,2,False,False,Temple S.FOUL (P1.PN) (A.Nagy),,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.4,4,2,36,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:12),,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.5,4,2,30,NOP,NOP,tov,45,False,False,Hart Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.73,4,2,16,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 27' 3PT Jump Shot,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.8,4,2,12,NOP,NOP,reb,0,False,False,Temple REBOUND (Off:1 Def:4),,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.85,4,2,9,NOP,NOP,tov,2,False,True,Temple Lost Ball Turnover (P2.T15),,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.85,4,2,9,NOP,BOS,steal,2,False,True,steal,steal,90-105,90,105
+0022100745,2022-01-29,NOP,BOS,45.88,4,2,7,BOS,BOS,fg_make,7,False,False,,Tatum 1' Dunk (38 PTS) (Williams III 4 AST),90-107,90,107
+0022100745,2022-01-29,NOP,BOS,45.88,4,2,7,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 6 Short 0),,90-107,90,107
+0022100745,2022-01-29,NOP,BOS,46.18,4,1,49,NOP,NOP,fg_miss,1,False,False,MISS Alexander-Walker 20' Jump Shot,,90-107,90,107
+0022100745,2022-01-29,NOP,BOS,46.23,4,1,46,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:1 Def:5),90-107,90,107
+0022100745,2022-01-29,NOP,BOS,46.27,4,1,44,BOS,NOP,steal,2,False,True,steal,steal,90-107,90,107
+0022100745,2022-01-29,NOP,BOS,46.27,4,1,44,BOS,BOS,tov,2,False,True,,Williams Lost Ball Turnover (P2.T14),90-107,90,107
+0022100745,2022-01-29,NOP,BOS,46.32,4,1,41,NOP,NOP,fg_make,5,False,False,Alvarado 3' Layup (19 PTS),,92-107,92,107
+0022100745,2022-01-29,NOP,BOS,46.47,4,1,32,BOS,BOS,fg3_miss,1,False,False,,MISS Nesmith 27' 3PT Jump Shot,92-107,92,107
+0022100745,2022-01-29,NOP,BOS,46.47,4,1,32,NOP,NOP,reb,0,False,False,Marshall REBOUND (Off:0 Def:1),,92-107,92,107
+0022100745,2022-01-29,NOP,BOS,46.53,4,1,28,NOP,BOS,foul,1,False,False,,Hauser P.FOUL (P1.PN) (A.Nagy),92-107,92,107
+0022100745,2022-01-29,NOP,BOS,46.53,4,1,28,NOP,NOP,ft_miss,11,False,False,MISS Marshall Free Throw 1 of 2,,92-107,92,107
+0022100745,2022-01-29,NOP,BOS,46.53,4,1,28,NOP,NOP,reb,1,False,False,PELICANS Rebound,,92-107,92,107
+0022100745,2022-01-29,NOP,BOS,46.53,4,1,28,NOP,NOP,ft_make,12,False,False,Marshall Free Throw 2 of 2 (5 PTS),,93-107,93,107
+0022100745,2022-01-29,NOP,BOS,46.87,4,1,8,BOS,BOS,fg3_miss,1,False,False,,MISS Hauser 27' 3PT Jump Shot,93-107,93,107
+0022100745,2022-01-29,NOP,BOS,46.9,4,1,6,NOP,NOP,reb,0,False,False,PELICANS Rebound,,93-107,93,107
+0022100745,2022-01-29,NOP,BOS,47.13,4,0,52,NOP,NOP,fg_make,57,False,False,Clark 6' Driving Hook Shot (2 PTS) (Alexander-Walker 5 AST),,95-107,95,107
+0022100745,2022-01-29,NOP,BOS,47.42,4,0,35,BOS,BOS,fg_miss,79,False,False,,MISS Pritchard 18' Pullup Jump Shot,95-107,95,107
+0022100745,2022-01-29,NOP,BOS,47.47,4,0,32,NOP,NOP,reb,0,False,False,Marshall REBOUND (Off:0 Def:2),,95-107,95,107
+0022100745,2022-01-29,NOP,BOS,47.53,4,0,28,NOP,NOP,fg_make,9,False,False,Marshall 3' Driving Dunk (7 PTS),,97-107,97,107
+0022100745,2022-01-29,NOP,BOS,47.92,4,0,5,BOS,BOS,tov,40,False,False,,Nesmith Out of Bounds Lost Ball Turnover (P1.T15),97-107,97,107
+0022100745,2022-01-29,NOP,BOS,48.0,4,0,0,BOS,,period_end,0,False,False,,,97-107,97,107

@@ -1,0 +1,464 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000931,2021-04-27,HOU,MIN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000931,2021-04-27,HOU,MIN,0.0,1,12,0,,HOU,jump_ball,0,False,False,Jump Ball Wood vs. Towns: Tip to McDaniels,,0-0,0,0
+0022000931,2021-04-27,HOU,MIN,0.2,1,11,48,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P1.T1),0-0,0,0
+0022000931,2021-04-27,HOU,MIN,0.2,1,11,48,MIN,HOU,steal,1,False,True,steal,steal,0-0,0,0
+0022000931,2021-04-27,HOU,MIN,0.38,1,11,37,HOU,HOU,fg_make,86,False,False,Wood 11' Turnaround Fadeaway (2 PTS) (Olynyk 1 AST),,2-0,2,0
+0022000931,2021-04-27,HOU,MIN,0.67,1,11,20,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 26' 3PT Jump Shot,2-0,2,0
+0022000931,2021-04-27,HOU,MIN,0.68,1,11,19,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:1),,2-0,2,0
+0022000931,2021-04-27,HOU,MIN,0.82,1,11,11,HOU,HOU,fg3_miss,79,False,False,MISS Olynyk 27' 3PT Pullup Jump Shot,,2-0,2,0
+0022000931,2021-04-27,HOU,MIN,0.83,1,11,10,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:1),2-0,2,0
+0022000931,2021-04-27,HOU,MIN,1.07,1,10,56,MIN,MIN,fg_make,75,False,False,,Towns 2' Driving Finger Roll Layup (2 PTS),2-2,2,2
+0022000931,2021-04-27,HOU,MIN,1.18,1,10,49,HOU,HOU,fg_miss,75,False,False,MISS Porter Jr. 1' Driving Finger Roll Layup,,2-2,2,2
+0022000931,2021-04-27,HOU,MIN,1.2,1,10,48,MIN,MIN,reb,0,False,False,,Rubio REBOUND (Off:0 Def:1),2-2,2,2
+0022000931,2021-04-27,HOU,MIN,1.33,1,10,40,MIN,MIN,fg3_make,2,False,False,,Edwards 26' 3PT Running Jump Shot (3 PTS) (Rubio 1 AST),2-5,2,5
+0022000931,2021-04-27,HOU,MIN,1.63,1,10,22,HOU,HOU,tov,4,False,False,Wood Traveling Turnover (P1.T1),,2-5,2,5
+0022000931,2021-04-27,HOU,MIN,2.0,1,10,0,MIN,MIN,fg_miss,58,False,False,,MISS Towns 14' Turnaround Hook Shot,2-5,2,5
+0022000931,2021-04-27,HOU,MIN,2.03,1,9,58,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:1),,2-5,2,5
+0022000931,2021-04-27,HOU,MIN,2.18,1,9,49,HOU,HOU,fg_make,44,False,False,Olynyk 2' Reverse Layup (2 PTS),,4-5,4,5
+0022000931,2021-04-27,HOU,MIN,2.18,1,9,49,HOU,MIN,violation,2,False,False,,McDaniels Violation:Defensive Goaltending (M.Boland),4-5,4,5
+0022000931,2021-04-27,HOU,MIN,2.5,1,9,30,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 28' 3PT Jump Shot,4-5,4,5
+0022000931,2021-04-27,HOU,MIN,2.53,1,9,28,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:2),,4-5,4,5
+0022000931,2021-04-27,HOU,MIN,2.65,1,9,21,HOU,HOU,fg3_miss,1,False,False,MISS Wood 26' 3PT Jump Shot,,4-5,4,5
+0022000931,2021-04-27,HOU,MIN,2.7,1,9,18,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:1),4-5,4,5
+0022000931,2021-04-27,HOU,MIN,2.73,1,9,16,MIN,HOU,foul,1,False,False,Porter Jr. P.FOUL (P1.T1) (M.Boland),,4-5,4,5
+0022000931,2021-04-27,HOU,MIN,2.92,1,9,5,MIN,MIN,fg3_make,1,False,False,,Towns 26' 3PT Jump Shot (5 PTS) (Rubio 2 AST),4-8,4,8
+0022000931,2021-04-27,HOU,MIN,3.08,1,8,55,HOU,HOU,fg_make,9,False,False,Olynyk 1' Driving Dunk (4 PTS),,6-8,6,8
+0022000931,2021-04-27,HOU,MIN,3.45,1,8,33,MIN,MIN,fg_miss,1,False,False,,MISS Edwards 21' Jump Shot,6-8,6,8
+0022000931,2021-04-27,HOU,MIN,3.47,1,8,32,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:0),6-8,6,8
+0022000931,2021-04-27,HOU,MIN,3.52,1,8,29,MIN,MIN,fg_miss,72,False,False,,MISS Towns 2' Putback Layup,6-8,6,8
+0022000931,2021-04-27,HOU,MIN,3.53,1,8,28,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:1 Def:1),6-8,6,8
+0022000931,2021-04-27,HOU,MIN,3.57,1,8,26,MIN,MIN,fg_make,108,False,False,,Edwards 2' Cutting Dunk Shot (5 PTS) (Okogie 1 AST),6-10,6,10
+0022000931,2021-04-27,HOU,MIN,3.9,1,8,6,HOU,HOU,fg3_miss,79,False,False,MISS House Jr. 27' 3PT Pullup Jump Shot,,6-10,6,10
+0022000931,2021-04-27,HOU,MIN,3.93,1,8,4,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,6-10,6,10
+0022000931,2021-04-27,HOU,MIN,4.18,1,7,49,MIN,MIN,fg_make,58,False,False,,Towns 10' Turnaround Hook Shot (7 PTS),6-12,6,12
+0022000931,2021-04-27,HOU,MIN,4.47,1,7,32,HOU,HOU,fg_make,58,False,False,Wood 3' Turnaround Hook Shot (4 PTS),,8-12,8,12
+0022000931,2021-04-27,HOU,MIN,4.47,1,7,32,HOU,MIN,foul,2,False,False,,McDaniels S.FOUL (P1.T1) (M.Boland),8-12,8,12
+0022000931,2021-04-27,HOU,MIN,4.47,1,7,32,HOU,HOU,ft_make,10,False,False,Wood Free Throw 1 of 1 (5 PTS),,9-12,9,12
+0022000931,2021-04-27,HOU,MIN,4.68,1,7,19,MIN,HOU,foul,1,False,False,Olynyk P.FOUL (P1.T2) (H.Workman),,9-12,9,12
+0022000931,2021-04-27,HOU,MIN,4.8,1,7,12,MIN,MIN,fg_make,102,False,False,,Edwards Driving Floating Bank Jump Shot (7 PTS) (Towns 1 AST),9-14,9,14
+0022000931,2021-04-27,HOU,MIN,5.03,1,6,58,HOU,HOU,fg_make,80,False,False,House Jr. 20' Step Back Jump Shot (2 PTS),,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,5.25,1,6,45,MIN,MIN,fg3_miss,79,False,False,,MISS Edwards 27' 3PT Pullup Jump Shot,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,5.27,1,6,44,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,5.27,1,6,44,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,5.6,1,6,24,HOU,HOU,fg_miss,86,False,False,MISS Wood 12' Turnaround Fadeaway Shot,,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,5.62,1,6,23,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:2),11-14,11,14
+0022000931,2021-04-27,HOU,MIN,5.98,1,6,1,MIN,MIN,fg_miss,6,False,False,,MISS Edwards 3' Driving Layup,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,6.0,1,6,0,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,6.18,1,5,49,HOU,HOU,fg3_miss,80,False,False,MISS Porter Jr. 26' 3PT Step Back Jump Shot,,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,6.2,1,5,48,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:1 Def:2),11-14,11,14
+0022000931,2021-04-27,HOU,MIN,6.35,1,5,39,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 28' 3PT Jump Shot,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,6.37,1,5,38,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:3),,11-14,11,14
+0022000931,2021-04-27,HOU,MIN,6.57,1,5,26,HOU,HOU,fg_make,71,False,False,Olynyk 2' Finger Roll Layup (6 PTS) (Wood 1 AST),,13-14,13,14
+0022000931,2021-04-27,HOU,MIN,6.77,1,5,14,MIN,HOU,foul,2,False,False,Tate S.FOUL (P1.T3) (M.Smith),,13-14,13,14
+0022000931,2021-04-27,HOU,MIN,6.77,1,5,14,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (8 PTS),13-15,13,15
+0022000931,2021-04-27,HOU,MIN,6.77,1,5,14,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (9 PTS),13-16,13,16
+0022000931,2021-04-27,HOU,MIN,6.92,1,5,5,HOU,HOU,fg_miss,6,False,False,MISS Porter Jr. 1' Driving Layup,,13-16,13,16
+0022000931,2021-04-27,HOU,MIN,6.93,1,5,4,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:1 Def:3),13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.05,1,4,57,HOU,MIN,foul,26,False,False,,Towns Offensive Charge Foul (P1.T2) (M.Boland),13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.05,1,4,57,MIN,MIN,tov,37,False,False,,Towns Offensive Foul Turnover (P2.T2),13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.32,1,4,41,HOU,HOU,tov,45,False,False,Bradley Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.57,1,4,26,MIN,MIN,fg_miss,58,False,False,,MISS Towns 12' Turnaround Hook Shot,13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.63,1,4,22,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:2 Def:3),13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.72,1,4,17,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 24' 3PT Jump Shot,13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.72,1,4,17,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.78,1,4,13,,HOU,jump_ball,0,False,False,,,13-16,13,16
+0022000931,2021-04-27,HOU,MIN,7.93,1,4,4,HOU,HOU,fg_make,108,False,False,Wood 2' Cutting Dunk Shot (7 PTS) (Porter Jr. 1 AST),,15-16,15,16
+0022000931,2021-04-27,HOU,MIN,8.0,1,4,0,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.1 Short 0),15-16,15,16
+0022000931,2021-04-27,HOU,MIN,8.25,1,3,45,MIN,MIN,fg_miss,86,False,False,,MISS Russell 17' Turnaround Fadeaway Shot,15-16,15,16
+0022000931,2021-04-27,HOU,MIN,8.27,1,3,44,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:4),,15-16,15,16
+0022000931,2021-04-27,HOU,MIN,8.5,1,3,30,HOU,HOU,fg3_miss,80,False,False,MISS Porter Jr. 24' 3PT Step Back Jump Shot,,15-16,15,16
+0022000931,2021-04-27,HOU,MIN,8.52,1,3,29,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:0 Def:1),15-16,15,16
+0022000931,2021-04-27,HOU,MIN,8.7,1,3,18,MIN,MIN,fg3_make,1,False,False,,Reid 27' 3PT Jump Shot (3 PTS) (Russell 1 AST),15-19,15,19
+0022000931,2021-04-27,HOU,MIN,9.1,1,2,54,HOU,HOU,fg3_miss,1,False,False,MISS Porter Jr. 3PT Jump Shot,,15-19,15,19
+0022000931,2021-04-27,HOU,MIN,9.12,1,2,53,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),15-19,15,19
+0022000931,2021-04-27,HOU,MIN,9.28,1,2,43,MIN,MIN,fg_make,98,False,False,,Hernangomez 2' Cutting Layup Shot (2 PTS) (Russell 2 AST),15-21,15,21
+0022000931,2021-04-27,HOU,MIN,9.43,1,2,34,HOU,HOU,tov,1,False,True,Bradley Bad Pass Turnover (P2.T3),,15-21,15,21
+0022000931,2021-04-27,HOU,MIN,9.43,1,2,34,HOU,MIN,steal,1,False,True,steal,steal,15-21,15,21
+0022000931,2021-04-27,HOU,MIN,9.48,1,2,31,MIN,MIN,fg_make,50,False,False,,Vanderbilt 2' Running Dunk (2 PTS),15-23,15,23
+0022000931,2021-04-27,HOU,MIN,9.87,1,2,8,HOU,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P1.T3) (M.Smith),15-23,15,23
+0022000931,2021-04-27,HOU,MIN,9.87,1,2,8,HOU,HOU,ft_miss,11,False,False,MISS Wood Free Throw 1 of 2,,15-23,15,23
+0022000931,2021-04-27,HOU,MIN,9.87,1,2,8,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,15-23,15,23
+0022000931,2021-04-27,HOU,MIN,9.87,1,2,8,HOU,HOU,ft_make,12,False,False,Wood Free Throw 2 of 2 (8 PTS),,16-23,16,23
+0022000931,2021-04-27,HOU,MIN,10.2,1,1,48,MIN,MIN,fg_make,79,False,False,,Russell 21' Pullup Jump Shot (2 PTS),16-25,16,25
+0022000931,2021-04-27,HOU,MIN,10.58,1,1,25,HOU,HOU,fg_make,80,False,False,Wood 21' Step Back Jump Shot (10 PTS),,18-25,18,25
+0022000931,2021-04-27,HOU,MIN,10.58,1,1,25,HOU,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P2.T4) (M.Boland),18-25,18,25
+0022000931,2021-04-27,HOU,MIN,10.58,1,1,25,HOU,HOU,ft_miss,10,False,False,MISS Wood Free Throw 1 of 1,,18-25,18,25
+0022000931,2021-04-27,HOU,MIN,10.58,1,1,25,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:2),18-25,18,25
+0022000931,2021-04-27,HOU,MIN,10.85,1,1,9,MIN,MIN,fg3_miss,1,False,False,,MISS McLaughlin 29' 3PT Jump Shot,18-25,18,25
+0022000931,2021-04-27,HOU,MIN,10.87,1,1,8,MIN,MIN,reb,0,False,False,,McLaughlin REBOUND (Off:1 Def:0),18-25,18,25
+0022000931,2021-04-27,HOU,MIN,10.92,1,1,5,MIN,MIN,fg3_make,1,False,False,,Hernangomez 26' 3PT Jump Shot (5 PTS) (McLaughlin 1 AST),18-28,18,28
+0022000931,2021-04-27,HOU,MIN,11.22,1,0,47,HOU,HOU,fg3_make,79,False,False,Bradley 27' 3PT Pullup Jump Shot (3 PTS) (Wood 2 AST),,21-28,21,28
+0022000931,2021-04-27,HOU,MIN,11.43,1,0,34,MIN,MIN,fg_miss,80,False,False,,MISS Russell 20' Step Back Jump Shot,21-28,21,28
+0022000931,2021-04-27,HOU,MIN,11.47,1,0,32,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,21-28,21,28
+0022000931,2021-04-27,HOU,MIN,11.67,1,0,20,HOU,HOU,fg_make,6,False,False,Tate 1' Driving Layup (2 PTS),,23-28,23,28
+0022000931,2021-04-27,HOU,MIN,11.93,1,0,4,MIN,HOU,foul,1,False,False,Tate P.FOUL (P2.T4) (M.Smith),,23-28,23,28
+0022000931,2021-04-27,HOU,MIN,11.97,1,0,2,MIN,MIN,fg3_miss,1,False,False,,MISS Reid 27' 3PT Jump Shot,23-28,23,28
+0022000931,2021-04-27,HOU,MIN,11.98,1,0,1,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:1),23-28,23,28
+0022000931,2021-04-27,HOU,MIN,12.0,1,0,0,MIN,,period_end,0,False,False,,,23-28,23,28
+0022000931,2021-04-27,HOU,MIN,12.0,2,12,0,MIN,,period_start,0,False,False,,,23-28,23,28
+0022000931,2021-04-27,HOU,MIN,12.13,2,11,52,HOU,HOU,tov,1,False,True,Brooks Bad Pass Turnover (P1.T4),,23-28,23,28
+0022000931,2021-04-27,HOU,MIN,12.13,2,11,52,HOU,MIN,steal,1,False,True,steal,steal,23-28,23,28
+0022000931,2021-04-27,HOU,MIN,12.18,2,11,49,MIN,MIN,fg_make,41,False,False,,McLaughlin 1' Running Layup (2 PTS),23-30,23,30
+0022000931,2021-04-27,HOU,MIN,12.42,2,11,35,HOU,HOU,fg3_miss,1,False,False,MISS Bradley 27' 3PT Jump Shot,,23-30,23,30
+0022000931,2021-04-27,HOU,MIN,12.42,2,11,35,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:2),23-30,23,30
+0022000931,2021-04-27,HOU,MIN,12.77,2,11,14,MIN,MIN,fg_make,58,False,False,,Reid 10' Turnaround Hook Shot (5 PTS),23-32,23,32
+0022000931,2021-04-27,HOU,MIN,12.95,2,11,3,HOU,MIN,foul,2,False,False,,Reid S.FOUL (P1.T1) (M.Smith),23-32,23,32
+0022000931,2021-04-27,HOU,MIN,12.95,2,11,3,HOU,HOU,ft_miss,11,False,False,MISS Tate Free Throw 1 of 2,,23-32,23,32
+0022000931,2021-04-27,HOU,MIN,12.95,2,11,3,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,23-32,23,32
+0022000931,2021-04-27,HOU,MIN,12.95,2,11,3,HOU,HOU,ft_make,12,False,False,Tate Free Throw 2 of 2 (3 PTS),,24-32,24,32
+0022000931,2021-04-27,HOU,MIN,13.1,2,10,54,MIN,HOU,foul,1,False,False,Bradley P.FOUL (P1.T1) (M.Smith),,24-32,24,32
+0022000931,2021-04-27,HOU,MIN,13.22,2,10,47,MIN,MIN,fg3_miss,79,False,False,,MISS Russell 26' 3PT Pullup Jump Shot,24-32,24,32
+0022000931,2021-04-27,HOU,MIN,13.27,2,10,44,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:2 Def:2),24-32,24,32
+0022000931,2021-04-27,HOU,MIN,13.4,2,10,36,MIN,MIN,fg3_make,1,False,False,,Hernangomez 28' 3PT Jump Shot (8 PTS),24-35,24,35
+0022000931,2021-04-27,HOU,MIN,13.42,2,10,35,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,24-35,24,35
+0022000931,2021-04-27,HOU,MIN,13.67,2,10,20,HOU,HOU,fg3_make,80,False,False,Wilson 3PT Step Back Jump Shot (3 PTS) (Tate 1 AST),,27-35,27,35
+0022000931,2021-04-27,HOU,MIN,14.02,2,9,59,MIN,MIN,fg_miss,75,False,False,,MISS Reid 2' Driving Finger Roll Layup,27-35,27,35
+0022000931,2021-04-27,HOU,MIN,14.03,2,9,58,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:2),,27-35,27,35
+0022000931,2021-04-27,HOU,MIN,14.12,2,9,53,HOU,HOU,fg_make,41,False,False,Tate 2' Running Layup (5 PTS),,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.27,2,9,44,MIN,MIN,fg_miss,41,False,False,,MISS Russell 2' Running Layup,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.27,2,9,44,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:2),,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.37,2,9,38,HOU,HOU,fg_miss,52,True,False,MISS Wilson 1' Alley Oop Dunk,,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.37,2,9,38,HOU,MIN,block,52,True,False,block,block,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.37,2,9,38,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.75,2,9,15,MIN,MIN,fg_miss,47,True,False,,MISS Reid 7' Turnaround Jump Shot,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.75,2,9,15,MIN,HOU,block,47,True,False,block,block,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.77,2,9,14,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:1),,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.98,2,9,1,HOU,HOU,fg_miss,58,True,False,MISS Tate 3' Turnaround Hook Shot,,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,14.98,2,9,1,HOU,MIN,block,58,True,False,block,block,29-35,29,35
+0022000931,2021-04-27,HOU,MIN,15.0,2,9,0,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:2 Def:3),29-35,29,35
+0022000931,2021-04-27,HOU,MIN,15.08,2,8,55,MIN,MIN,fg_make,43,False,False,,Hernangomez 2' Alley Oop Layup (10 PTS) (Vanderbilt 1 AST),29-37,29,37
+0022000931,2021-04-27,HOU,MIN,15.27,2,8,44,HOU,HOU,fg_miss,98,False,False,MISS Olynyk 2' Cutting Layup Shot,,29-37,29,37
+0022000931,2021-04-27,HOU,MIN,15.28,2,8,43,MIN,MIN,reb,0,False,False,,Rubio REBOUND (Off:0 Def:2),29-37,29,37
+0022000931,2021-04-27,HOU,MIN,15.45,2,8,33,MIN,HOU,foul,2,False,False,Bradley S.FOUL (P2.T2) (M.Smith),,29-37,29,37
+0022000931,2021-04-27,HOU,MIN,15.45,2,8,33,MIN,MIN,ft_make,11,False,False,,Hernangomez Free Throw 1 of 2 (11 PTS),29-38,29,38
+0022000931,2021-04-27,HOU,MIN,15.45,2,8,33,MIN,MIN,ft_miss,12,False,False,,MISS Hernangomez Free Throw 2 of 2,29-38,29,38
+0022000931,2021-04-27,HOU,MIN,15.45,2,8,33,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:2),,29-38,29,38
+0022000931,2021-04-27,HOU,MIN,15.68,2,8,19,HOU,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P3.T2) (M.Smith),29-38,29,38
+0022000931,2021-04-27,HOU,MIN,15.68,2,8,19,HOU,HOU,ft_make,11,False,False,Olynyk Free Throw 1 of 2 (7 PTS),,30-38,30,38
+0022000931,2021-04-27,HOU,MIN,15.68,2,8,19,HOU,HOU,ft_make,12,False,False,Olynyk Free Throw 2 of 2 (8 PTS),,31-38,31,38
+0022000931,2021-04-27,HOU,MIN,15.85,2,8,9,MIN,MIN,tov,2,False,True,,Reid Lost Ball Turnover (P1.T3),31-38,31,38
+0022000931,2021-04-27,HOU,MIN,15.85,2,8,9,MIN,HOU,steal,2,False,True,steal,steal,31-38,31,38
+0022000931,2021-04-27,HOU,MIN,15.93,2,8,4,HOU,HOU,fg_make,76,False,False,Olynyk 3' Running Finger Roll Layup (10 PTS),,33-38,33,38
+0022000931,2021-04-27,HOU,MIN,16.08,2,7,55,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 26' 3PT Jump Shot,33-38,33,38
+0022000931,2021-04-27,HOU,MIN,16.1,2,7,54,HOU,HOU,reb,0,False,False,Wilson REBOUND (Off:0 Def:1),,33-38,33,38
+0022000931,2021-04-27,HOU,MIN,16.37,2,7,38,HOU,HOU,fg_make,101,False,False,Wilson 9' Driving Floating Jump Shot (5 PTS) (Olynyk 2 AST),,35-38,35,38
+0022000931,2021-04-27,HOU,MIN,16.77,2,7,14,MIN,MIN,fg_miss,79,False,False,,MISS McDaniels 18' Pullup Jump Shot,35-38,35,38
+0022000931,2021-04-27,HOU,MIN,16.77,2,7,14,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,35-38,35,38
+0022000931,2021-04-27,HOU,MIN,17.02,2,6,59,HOU,HOU,fg3_miss,1,False,False,MISS Bradley 27' 3PT Jump Shot,,35-38,35,38
+0022000931,2021-04-27,HOU,MIN,17.07,2,6,56,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:3),35-38,35,38
+0022000931,2021-04-27,HOU,MIN,17.25,2,6,45,MIN,MIN,fg3_miss,80,False,False,,MISS Rubio 26' 3PT Step Back Jump Shot,35-38,35,38
+0022000931,2021-04-27,HOU,MIN,17.27,2,6,44,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:3),,35-38,35,38
+0022000931,2021-04-27,HOU,MIN,17.43,2,6,34,HOU,HOU,fg3_miss,1,False,False,MISS Wilson 24' 3PT Jump Shot,,35-38,35,38
+0022000931,2021-04-27,HOU,MIN,17.45,2,6,33,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:3),35-38,35,38
+0022000931,2021-04-27,HOU,MIN,17.72,2,6,17,MIN,MIN,fg_make,98,False,False,,Hernangomez 2' Cutting Layup Shot (13 PTS) (Towns 2 AST),35-40,35,40
+0022000931,2021-04-27,HOU,MIN,17.72,2,6,17,MIN,HOU,foul,2,False,False,Wilson S.FOUL (P1.T3) (M.Smith),,35-40,35,40
+0022000931,2021-04-27,HOU,MIN,17.72,2,6,17,MIN,MIN,ft_miss,10,False,False,,MISS Hernangomez Free Throw 1 of 1,35-40,35,40
+0022000931,2021-04-27,HOU,MIN,17.8,2,6,12,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:5),,35-40,35,40
+0022000931,2021-04-27,HOU,MIN,17.95,2,6,3,HOU,HOU,fg_make,9,False,False,Olynyk 2' Driving Dunk (12 PTS) (Wood 3 AST),,37-40,37,40
+0022000931,2021-04-27,HOU,MIN,18.18,2,5,49,MIN,MIN,fg3_make,1,False,False,,Hernangomez 26' 3PT Jump Shot (16 PTS) (Rubio 3 AST),37-43,37,43
+0022000931,2021-04-27,HOU,MIN,18.38,2,5,37,HOU,HOU,fg3_miss,80,False,False,MISS Olynyk 27' 3PT Step Back Jump Shot,,37-43,37,43
+0022000931,2021-04-27,HOU,MIN,18.42,2,5,35,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:1),37-43,37,43
+0022000931,2021-04-27,HOU,MIN,18.63,2,5,22,MIN,MIN,fg3_miss,1,False,False,,MISS Hernangomez 26' 3PT Jump Shot,37-43,37,43
+0022000931,2021-04-27,HOU,MIN,18.68,2,5,19,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:4),,37-43,37,43
+0022000931,2021-04-27,HOU,MIN,18.9,2,5,6,HOU,HOU,fg_make,98,False,False,Olynyk 3' Cutting Layup Shot (14 PTS) (Porter Jr. 2 AST),,39-43,39,43
+0022000931,2021-04-27,HOU,MIN,19.2,2,4,48,MIN,MIN,fg3_make,1,False,False,,Rubio 26' 3PT Jump Shot (3 PTS) (Towns 3 AST),39-46,39,46
+0022000931,2021-04-27,HOU,MIN,19.47,2,4,32,HOU,HOU,tov,40,False,False,Olynyk Out of Bounds Lost Ball Turnover (P1.T5),,39-46,39,46
+0022000931,2021-04-27,HOU,MIN,19.82,2,4,11,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 26' 3PT Jump Shot,39-46,39,46
+0022000931,2021-04-27,HOU,MIN,19.83,2,4,10,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:3),,39-46,39,46
+0022000931,2021-04-27,HOU,MIN,19.95,2,4,3,HOU,HOU,tov,1,False,True,House Jr. Bad Pass Turnover (P1.T6),,39-46,39,46
+0022000931,2021-04-27,HOU,MIN,19.95,2,4,3,HOU,MIN,steal,1,False,True,steal,steal,39-46,39,46
+0022000931,2021-04-27,HOU,MIN,20.05,2,3,57,MIN,MIN,fg3_make,1,False,False,,McDaniels 3PT Jump Shot (3 PTS) (Russell 3 AST),39-49,39,49
+0022000931,2021-04-27,HOU,MIN,20.08,2,3,55,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,39-49,39,49
+0022000931,2021-04-27,HOU,MIN,20.3,2,3,42,HOU,HOU,fg_miss,75,False,False,MISS Wood 2' Driving Finger Roll Layup,,39-49,39,49
+0022000931,2021-04-27,HOU,MIN,20.32,2,3,41,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:1),39-49,39,49
+0022000931,2021-04-27,HOU,MIN,20.42,2,3,35,MIN,MIN,tov,2,False,True,,Edwards Lost Ball Turnover (P1.T4),39-49,39,49
+0022000931,2021-04-27,HOU,MIN,20.42,2,3,35,MIN,HOU,steal,2,False,True,steal,steal,39-49,39,49
+0022000931,2021-04-27,HOU,MIN,20.5,2,3,30,HOU,HOU,fg_make,50,False,False,Martin Jr. 2' Running Dunk (2 PTS) (House Jr. 1 AST),,41-49,41,49
+0022000931,2021-04-27,HOU,MIN,20.85,2,3,9,MIN,MIN,fg_miss,6,True,False,,MISS Russell 3' Driving Layup,41-49,41,49
+0022000931,2021-04-27,HOU,MIN,20.85,2,3,9,MIN,HOU,block,6,True,False,block,block,41-49,41,49
+0022000931,2021-04-27,HOU,MIN,20.87,2,3,8,HOU,HOU,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:1),,41-49,41,49
+0022000931,2021-04-27,HOU,MIN,20.95,2,3,3,HOU,HOU,tov,1,False,True,Porter Jr. Bad Pass Turnover (P1.T7),,41-49,41,49
+0022000931,2021-04-27,HOU,MIN,20.95,2,3,3,HOU,MIN,steal,1,False,True,steal,steal,41-49,41,49
+0022000931,2021-04-27,HOU,MIN,21.0,2,3,0,MIN,MIN,fg_make,5,False,False,,Towns 3' Layup (11 PTS) (Russell 4 AST),41-51,41,51
+0022000931,2021-04-27,HOU,MIN,21.32,2,2,41,HOU,HOU,fg_make,98,False,False,Tate 2' Cutting Layup Shot (7 PTS) (Porter Jr. 3 AST),,43-51,43,51
+0022000931,2021-04-27,HOU,MIN,21.53,2,2,28,MIN,MIN,fg_make,78,False,False,,McDaniels 4' Floating Jump Shot (5 PTS) (Russell 5 AST),43-53,43,53
+0022000931,2021-04-27,HOU,MIN,21.92,2,2,5,HOU,HOU,fg3_miss,1,False,False,MISS Martin Jr. 3PT Jump Shot,,43-53,43,53
+0022000931,2021-04-27,HOU,MIN,21.97,2,2,2,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:3),,43-53,43,53
+0022000931,2021-04-27,HOU,MIN,21.98,2,2,1,HOU,HOU,fg_make,43,False,False,Martin Jr. 2' Alley Oop Layup (4 PTS) (Tate 2 AST),,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.2,2,1,48,MIN,HOU,foul,1,False,False,Porter Jr. P.FOUL (P2.T4) (H.Workman),,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.33,2,1,40,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P3.T5),45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.33,2,1,40,MIN,HOU,steal,1,False,True,steal,steal,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.37,2,1,38,HOU,HOU,tov,21,False,False,Martin Jr. Palming Turnover (P1.T8),,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.6,2,1,24,MIN,MIN,fg_miss,79,False,False,,MISS Russell 18' Pullup Jump Shot,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.65,2,1,21,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:4),,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.75,2,1,15,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 3PT Jump Shot,,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.77,2,1,14,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:5),,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.8,2,1,12,HOU,HOU,fg_miss,7,False,False,MISS Wood 3' Dunk,,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.88,2,1,7,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:2 Def:4),,45-53,45,53
+0022000931,2021-04-27,HOU,MIN,22.88,2,1,7,HOU,HOU,fg_make,107,False,False,Tate Tip Dunk Shot (9 PTS),,47-53,47,53
+0022000931,2021-04-27,HOU,MIN,23.02,2,0,59,MIN,MIN,fg_miss,79,False,False,,MISS Edwards 18' Pullup Jump Shot,47-53,47,53
+0022000931,2021-04-27,HOU,MIN,23.03,2,0,58,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:6),,47-53,47,53
+0022000931,2021-04-27,HOU,MIN,23.15,2,0,51,HOU,HOU,fg_miss,6,True,False,MISS Martin Jr. 7' Driving Layup,,47-53,47,53
+0022000931,2021-04-27,HOU,MIN,23.15,2,0,51,HOU,MIN,block,6,True,False,block,block,47-53,47,53
+0022000931,2021-04-27,HOU,MIN,23.15,2,0,51,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:2 Def:4),47-53,47,53
+0022000931,2021-04-27,HOU,MIN,23.18,2,0,49,MIN,HOU,foul,28,False,False,House Jr. Personal Take Foul (P1.PN) (M.Boland),,47-53,47,53
+0022000931,2021-04-27,HOU,MIN,23.18,2,0,49,MIN,MIN,ft_make,11,False,False,,Okogie Free Throw 1 of 2 (1 PTS),47-54,47,54
+0022000931,2021-04-27,HOU,MIN,23.18,2,0,49,MIN,MIN,ft_make,12,False,False,,Okogie Free Throw 2 of 2 (2 PTS),47-55,47,55
+0022000931,2021-04-27,HOU,MIN,23.48,2,0,31,HOU,HOU,fg3_miss,80,False,False,MISS Porter Jr. 26' 3PT Step Back Jump Shot,,47-55,47,55
+0022000931,2021-04-27,HOU,MIN,23.52,2,0,29,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:4),47-55,47,55
+0022000931,2021-04-27,HOU,MIN,23.55,2,0,27,MIN,MIN,fg_make,110,False,False,,Towns 3' Running Reverse Dunk Shot (13 PTS) (Edwards 1 AST),47-57,47,57
+0022000931,2021-04-27,HOU,MIN,23.85,2,0,9,HOU,HOU,tov,2,False,True,Porter Jr. Lost Ball Turnover (P2.T9),,47-57,47,57
+0022000931,2021-04-27,HOU,MIN,23.85,2,0,9,HOU,MIN,steal,2,False,True,steal,steal,47-57,47,57
+0022000931,2021-04-27,HOU,MIN,23.92,2,0,5,MIN,MIN,fg_make,41,False,False,,Edwards 1' Running Layup (9 PTS) (Russell 6 AST),47-59,47,59
+0022000931,2021-04-27,HOU,MIN,24.0,2,0,0,HOU,HOU,fg3_make,1,False,False,Wood 28' 3PT Jump Shot (13 PTS) (Tate 3 AST),,50-59,50,59
+0022000931,2021-04-27,HOU,MIN,24.0,2,0,0,HOU,,period_end,0,False,False,,,50-59,50,59
+0022000931,2021-04-27,HOU,MIN,24.0,3,12,0,HOU,,period_start,0,False,False,,,50-59,50,59
+0022000931,2021-04-27,HOU,MIN,24.23,3,11,46,HOU,MIN,foul,2,False,False,,Rubio S.FOUL (P1.T1) (M.Smith),50-59,50,59
+0022000931,2021-04-27,HOU,MIN,24.23,3,11,46,HOU,HOU,ft_make,11,False,False,Porter Jr. Free Throw 1 of 2 (1 PTS),,51-59,51,59
+0022000931,2021-04-27,HOU,MIN,24.23,3,11,46,HOU,HOU,ft_make,12,False,False,Porter Jr. Free Throw 2 of 2 (2 PTS),,52-59,52,59
+0022000931,2021-04-27,HOU,MIN,24.63,3,11,22,MIN,MIN,fg_miss,58,False,False,,MISS Towns 12' Turnaround Hook Shot,52-59,52,59
+0022000931,2021-04-27,HOU,MIN,24.65,3,11,21,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:7),,52-59,52,59
+0022000931,2021-04-27,HOU,MIN,24.97,3,11,2,HOU,HOU,fg3_make,1,False,False,Tate 26' 3PT Jump Shot (12 PTS) (House Jr. 2 AST),,55-59,55,59
+0022000931,2021-04-27,HOU,MIN,25.13,3,10,52,MIN,MIN,fg_make,6,False,False,,Towns 2' Driving Layup (15 PTS) (Okogie 2 AST),55-61,55,61
+0022000931,2021-04-27,HOU,MIN,25.25,3,10,45,HOU,HOU,fg_make,98,False,False,Tate 1' Cutting Layup Shot (14 PTS) (Porter Jr. 4 AST),,57-61,57,61
+0022000931,2021-04-27,HOU,MIN,25.47,3,10,32,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 28' 3PT Jump Shot,57-61,57,61
+0022000931,2021-04-27,HOU,MIN,25.47,3,10,32,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:8),,57-61,57,61
+0022000931,2021-04-27,HOU,MIN,25.75,3,10,15,HOU,HOU,fg_make,58,False,False,Olynyk 10' Turnaround Hook Shot (16 PTS),,59-61,59,61
+0022000931,2021-04-27,HOU,MIN,26.12,3,9,53,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 26' 3PT Jump Shot,59-61,59,61
+0022000931,2021-04-27,HOU,MIN,26.13,3,9,52,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:5),,59-61,59,61
+0022000931,2021-04-27,HOU,MIN,26.22,3,9,47,HOU,HOU,tov,1,False,True,Porter Jr. Bad Pass Turnover (P3.T10),,59-61,59,61
+0022000931,2021-04-27,HOU,MIN,26.22,3,9,47,HOU,MIN,steal,1,False,True,steal,steal,59-61,59,61
+0022000931,2021-04-27,HOU,MIN,26.4,3,9,36,MIN,MIN,fg3_miss,1,False,False,,MISS Rubio 3PT Jump Shot,59-61,59,61
+0022000931,2021-04-27,HOU,MIN,26.42,3,9,35,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:1),59-61,59,61
+0022000931,2021-04-27,HOU,MIN,26.45,3,9,33,MIN,MIN,fg_make,72,False,False,,Towns 11' Putback Layup (17 PTS),59-63,59,63
+0022000931,2021-04-27,HOU,MIN,26.8,3,9,12,HOU,HOU,fg_make,98,False,False,Olynyk 2' Cutting Layup Shot (18 PTS) (Wood 4 AST),,61-63,61,63
+0022000931,2021-04-27,HOU,MIN,27.02,3,8,59,MIN,HOU,foul,1,False,False,Porter Jr. P.FOUL (P3.T1) (H.Workman),,61-63,61,63
+0022000931,2021-04-27,HOU,MIN,27.15,3,8,51,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 26' 3PT Jump Shot,61-63,61,63
+0022000931,2021-04-27,HOU,MIN,27.2,3,8,48,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:3 Def:4),61-63,61,63
+0022000931,2021-04-27,HOU,MIN,27.22,3,8,47,MIN,HOU,foul,2,False,False,Wood S.FOUL (P1.T2) (M.Boland),,61-63,61,63
+0022000931,2021-04-27,HOU,MIN,27.22,3,8,47,MIN,MIN,ft_miss,11,False,False,,MISS Towns Free Throw 1 of 2,61-63,61,63
+0022000931,2021-04-27,HOU,MIN,27.22,3,8,47,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,61-63,61,63
+0022000931,2021-04-27,HOU,MIN,27.22,3,8,47,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (18 PTS),61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.43,3,8,34,HOU,HOU,fg3_miss,1,False,False,MISS Wood 25' 3PT Jump Shot,,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.45,3,8,33,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:2),61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.6,3,8,24,MIN,MIN,fg3_miss,80,False,False,,MISS Towns 27' 3PT Step Back Jump Shot,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.62,3,8,23,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:6),,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.75,3,8,15,HOU,HOU,fg3_miss,1,False,False,MISS Wood 3PT Jump Shot,,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.75,3,8,15,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:3 Def:5),61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.93,3,8,4,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 3PT Jump Shot,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,27.97,3,8,2,HOU,HOU,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:2),,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,28.18,3,7,49,HOU,HOU,tov,1,False,True,Porter Jr. Bad Pass Turnover (P4.T11),,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,28.18,3,7,49,HOU,MIN,steal,1,False,True,steal,steal,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,28.27,3,7,44,MIN,MIN,fg_miss,76,False,False,,MISS Edwards 1' Running Finger Roll Layup,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,28.3,3,7,42,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:9),,61-64,61,64
+0022000931,2021-04-27,HOU,MIN,28.35,3,7,39,HOU,MIN,foul,1,False,False,,Rubio P.FOUL (P2.T2) (H.Workman),61-64,61,64
+0022000931,2021-04-27,HOU,MIN,28.58,3,7,25,HOU,HOU,fg_make,6,False,False,Wood 2' Driving Layup (15 PTS),,63-64,63,64
+0022000931,2021-04-27,HOU,MIN,28.72,3,7,17,MIN,MIN,fg_make,98,False,False,,Edwards 2' Cutting Layup Shot (11 PTS) (Rubio 4 AST),63-66,63,66
+0022000931,2021-04-27,HOU,MIN,29.02,3,6,59,HOU,HOU,fg_miss,101,False,False,MISS Porter Jr. 14' Driving Floating Jump Shot,,63-66,63,66
+0022000931,2021-04-27,HOU,MIN,29.05,3,6,57,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:1),63-66,63,66
+0022000931,2021-04-27,HOU,MIN,29.17,3,6,50,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 30' 3PT Jump Shot,63-66,63,66
+0022000931,2021-04-27,HOU,MIN,29.18,3,6,49,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:10),,63-66,63,66
+0022000931,2021-04-27,HOU,MIN,29.4,3,6,36,HOU,MIN,foul,1,False,False,,Towns P.FOUL (P2.T3) (M.Smith),63-66,63,66
+0022000931,2021-04-27,HOU,MIN,29.4,3,6,36,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,63-66,63,66
+0022000931,2021-04-27,HOU,MIN,29.58,3,6,25,HOU,HOU,fg_make,99,False,False,Olynyk 3' Cutting Finger Roll Layup Shot (20 PTS) (Bradley 1 AST),,65-66,65,66
+0022000931,2021-04-27,HOU,MIN,29.98,3,6,1,MIN,MIN,tov,1,False,True,,Rubio Bad Pass Turnover (P1.T6),65-66,65,66
+0022000931,2021-04-27,HOU,MIN,29.98,3,6,1,MIN,HOU,steal,1,False,True,steal,steal,65-66,65,66
+0022000931,2021-04-27,HOU,MIN,30.1,3,5,54,HOU,HOU,fg_make,74,False,False,Tate 2' Running Reverse Layup (16 PTS) (Porter Jr. 5 AST),,67-66,67,66
+0022000931,2021-04-27,HOU,MIN,30.23,3,5,46,MIN,MIN,fg3_make,1,False,False,,Towns 27' 3PT Jump Shot (21 PTS) (Russell 7 AST),67-69,67,69
+0022000931,2021-04-27,HOU,MIN,30.58,3,5,25,HOU,HOU,fg3_make,80,False,False,Wood 25' 3PT Step Back Jump Shot (18 PTS),,70-69,70,69
+0022000931,2021-04-27,HOU,MIN,30.77,3,5,14,MIN,MIN,tov,2,False,True,,Edwards Lost Ball Turnover (P2.T7),70-69,70,69
+0022000931,2021-04-27,HOU,MIN,30.77,3,5,14,MIN,HOU,steal,2,False,True,steal,steal,70-69,70,69
+0022000931,2021-04-27,HOU,MIN,30.97,3,5,2,HOU,HOU,fg_make,5,False,False,Tate 3' Layup (18 PTS) (Olynyk 3 AST),,72-69,72,69
+0022000931,2021-04-27,HOU,MIN,30.98,3,5,1,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.2 Short 0),72-69,72,69
+0022000931,2021-04-27,HOU,MIN,31.15,3,4,51,MIN,MIN,fg_make,73,False,False,,Hernangomez 1' Driving Reverse Layup (18 PTS) (Towns 4 AST),72-71,72,71
+0022000931,2021-04-27,HOU,MIN,31.48,3,4,31,HOU,MIN,foul,1,False,False,,Towns P.FOUL (P3.T4) (M.Smith),72-71,72,71
+0022000931,2021-04-27,HOU,MIN,31.6,3,4,24,HOU,HOU,fg3_miss,1,False,False,MISS Martin Jr. 3PT Jump Shot,,72-71,72,71
+0022000931,2021-04-27,HOU,MIN,31.62,3,4,23,HOU,HOU,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:2),,72-71,72,71
+0022000931,2021-04-27,HOU,MIN,31.77,3,4,14,HOU,MIN,foul,2,False,False,,McLaughlin S.FOUL (P1.PN) (H.Workman),72-71,72,71
+0022000931,2021-04-27,HOU,MIN,31.77,3,4,14,HOU,HOU,ft_make,11,False,False,Martin Jr. Free Throw 1 of 2 (5 PTS),,73-71,73,71
+0022000931,2021-04-27,HOU,MIN,31.77,3,4,14,HOU,HOU,ft_make,12,False,False,Martin Jr. Free Throw 2 of 2 (6 PTS),,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,31.95,3,4,3,MIN,MIN,fg_miss,5,True,False,,MISS Towns 3' Layup,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,31.95,3,4,3,MIN,HOU,block,5,True,False,block,block,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,31.97,3,4,2,,HOU,jump_ball,0,False,False,,,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,31.97,3,4,2,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,31.97,3,4,2,MIN,HOU,violation,4,False,False,Martin Jr. Violation:Jump Ball (M.Boland),,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.1,3,3,54,MIN,MIN,tov,45,False,False,,Russell Out of Bounds - Bad Pass Turnover Turnover (P1.T8),74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.32,3,3,41,HOU,HOU,fg_miss,6,True,False,MISS Martin Jr. 4' Driving Layup,,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.32,3,3,41,HOU,MIN,block,6,True,False,block,block,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.32,3,3,41,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:1 Def:0),,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.32,3,3,41,HOU,MIN,foul,2,False,False,,Reid S.FOUL (P2.PN) (M.Boland),74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.32,3,3,41,HOU,HOU,ft_miss,11,False,False,MISS Martin Jr. Free Throw 1 of 2,,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.32,3,3,41,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,74-71,74,71
+0022000931,2021-04-27,HOU,MIN,32.32,3,3,41,HOU,HOU,ft_make,12,False,False,Martin Jr. Free Throw 2 of 2 (7 PTS),,75-71,75,71
+0022000931,2021-04-27,HOU,MIN,32.68,3,3,19,MIN,MIN,tov,2,False,True,,Reid Lost Ball Turnover (P2.T9),75-71,75,71
+0022000931,2021-04-27,HOU,MIN,32.68,3,3,19,MIN,HOU,steal,2,False,True,steal,steal,75-71,75,71
+0022000931,2021-04-27,HOU,MIN,32.78,3,3,13,HOU,HOU,fg_make,41,False,False,Martin Jr. 2' Running Layup (9 PTS) (Wood 5 AST),,77-71,77,71
+0022000931,2021-04-27,HOU,MIN,32.8,3,3,12,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),77-71,77,71
+0022000931,2021-04-27,HOU,MIN,33.03,3,2,58,MIN,MIN,fg_make,1,False,False,,Russell 21' Jump Shot (4 PTS),77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.27,3,2,44,HOU,HOU,fg3_miss,79,False,False,MISS Porter Jr. 26' 3PT Pullup Jump Shot,,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.3,3,2,42,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:3),77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.43,3,2,34,MIN,HOU,foul,1,False,False,Porter Jr. P.FOUL (P4.T3) (M.Boland),,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.58,3,2,25,HOU,MIN,foul,4,False,False,,Reid OFF.Foul (P3) (H.Workman),77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.58,3,2,25,MIN,MIN,tov,37,False,False,,Reid Offensive Foul Turnover (P3.T10),77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.8,3,2,12,HOU,HOU,fg3_miss,1,False,False,MISS Bradley 27' 3PT Jump Shot,,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.82,3,2,11,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:4),77-73,77,73
+0022000931,2021-04-27,HOU,MIN,33.97,3,2,2,MIN,MIN,fg3_miss,1,False,False,,MISS Reid 26' 3PT Jump Shot,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.0,3,2,0,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:11),,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.0,3,2,0,MIN,HOU,foul,4,False,False,Bradley OFF.Foul (P3) (H.Workman),,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.0,3,2,0,HOU,HOU,tov,37,False,False,Bradley Offensive Foul Turnover (P3.T12),,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.0,3,2,0,HOU,,foul,16,False,False,,,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.23,3,1,46,MIN,MIN,fg_miss,6,True,False,,MISS Hernangomez 3' Driving Layup,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.23,3,1,46,MIN,HOU,block,6,True,False,block,block,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.23,3,1,46,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,77-73,77,73
+0022000931,2021-04-27,HOU,MIN,34.38,3,1,37,MIN,MIN,fg_make,1,False,False,,Russell 21' Jump Shot (6 PTS) (McLaughlin 2 AST),77-75,77,75
+0022000931,2021-04-27,HOU,MIN,34.72,3,1,17,HOU,HOU,fg_make,3,False,False,Tate 2' Hook Shot (20 PTS) (Wilson 1 AST),,79-75,79,75
+0022000931,2021-04-27,HOU,MIN,34.97,3,1,2,MIN,MIN,fg3_miss,1,False,False,,MISS Hernangomez 27' 3PT Jump Shot,79-75,79,75
+0022000931,2021-04-27,HOU,MIN,35.02,3,0,59,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:1 Def:1),,79-75,79,75
+0022000931,2021-04-27,HOU,MIN,35.15,3,0,51,HOU,HOU,fg_miss,6,False,False,MISS Tate 4' Driving Layup,,79-75,79,75
+0022000931,2021-04-27,HOU,MIN,35.2,3,0,48,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:2 Def:4),79-75,79,75
+0022000931,2021-04-27,HOU,MIN,35.25,3,0,45,MIN,MIN,fg3_make,103,False,False,,Russell 27' 3PT Running Pull-Up Jump Shot (9 PTS),79-78,79,78
+0022000931,2021-04-27,HOU,MIN,35.42,3,0,35,HOU,HOU,fg3_miss,1,False,False,MISS Bradley 25' 3PT Jump Shot,,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,35.42,3,0,35,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:2),79-78,79,78
+0022000931,2021-04-27,HOU,MIN,35.53,3,0,28,MIN,MIN,fg3_miss,103,False,False,,MISS Russell 26' 3PT Running Pull-Up Jump Shot,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,35.57,3,0,26,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:2 Def:5),,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,35.72,3,0,17,HOU,HOU,fg3_miss,1,False,False,MISS Wilson 24' 3PT Jump Shot,,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,35.77,3,0,14,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:5),79-78,79,78
+0022000931,2021-04-27,HOU,MIN,35.98,3,0,1,MIN,MIN,fg3_miss,79,False,False,,MISS Russell 27' 3PT Pullup Jump Shot,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,36.0,3,0,0,HOU,HOU,reb,0,False,False,Wilson REBOUND (Off:0 Def:2),,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,36.0,3,0,0,HOU,,period_end,0,False,False,,,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,36.0,4,12,0,HOU,,period_start,0,False,False,,,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,36.2,4,11,48,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 24' 3PT Jump Shot,79-78,79,78
+0022000931,2021-04-27,HOU,MIN,36.23,4,11,46,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:1),79-78,79,78
+0022000931,2021-04-27,HOU,MIN,36.23,4,11,46,MIN,MIN,fg_make,72,False,False,,Towns 3' Putback Layup (23 PTS),79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.23,4,11,46,MIN,HOU,foul,2,False,False,Olynyk S.FOUL (P2.T1) (M.Boland),,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.23,4,11,46,MIN,MIN,ft_miss,10,False,False,,MISS Towns Free Throw 1 of 1,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.23,4,11,46,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:7),,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.5,4,11,30,HOU,HOU,fg3_miss,1,False,False,MISS Brooks 24' 3PT Jump Shot,,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.55,4,11,27,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:2),79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.63,4,11,22,MIN,HOU,foul,2,False,False,Martin Jr. S.FOUL (P1.T2) (M.Smith),,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.63,4,11,22,MIN,MIN,ft_miss,13,False,False,,MISS Hernangomez Free Throw 1 of 3,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.63,4,11,22,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.63,4,11,22,MIN,MIN,ft_miss,14,False,False,,MISS Hernangomez Free Throw 2 of 3,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.63,4,11,22,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.63,4,11,22,MIN,MIN,ft_miss,15,False,False,,MISS Hernangomez Free Throw 3 of 3,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.63,4,11,22,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:8),,79-80,79,80
+0022000931,2021-04-27,HOU,MIN,36.92,4,11,5,HOU,HOU,fg_make,108,False,False,Martin Jr. 2' Cutting Dunk Shot (11 PTS) (Olynyk 4 AST),,81-80,81,80
+0022000931,2021-04-27,HOU,MIN,37.2,4,10,48,HOU,MIN,foul,4,False,False,,Towns OFF.Foul (P4) (M.Boland),81-80,81,80
+0022000931,2021-04-27,HOU,MIN,37.2,4,10,48,MIN,MIN,tov,37,False,False,,Towns Offensive Foul Turnover (P4.T11),81-80,81,80
+0022000931,2021-04-27,HOU,MIN,37.5,4,10,30,HOU,HOU,fg_make,9,False,False,Martin Jr. 3' Driving Dunk (13 PTS) (Wilson 2 AST),,83-80,83,80
+0022000931,2021-04-27,HOU,MIN,37.87,4,10,8,MIN,HOU,foul,2,False,False,Brooks S.FOUL (P1.T3) (H.Workman),,83-80,83,80
+0022000931,2021-04-27,HOU,MIN,37.87,4,10,8,MIN,MIN,ft_make,11,False,False,,Russell Free Throw 1 of 2 (10 PTS),83-81,83,81
+0022000931,2021-04-27,HOU,MIN,37.87,4,10,8,MIN,MIN,ft_make,12,False,False,,Russell Free Throw 2 of 2 (11 PTS),83-82,83,82
+0022000931,2021-04-27,HOU,MIN,38.13,4,9,52,HOU,HOU,fg_make,57,False,False,Olynyk 3' Driving Hook Shot (22 PTS),,85-82,85,82
+0022000931,2021-04-27,HOU,MIN,38.33,4,9,40,MIN,HOU,foul,2,False,False,Wilson S.FOUL (P2.T4) (M.Boland),,85-82,85,82
+0022000931,2021-04-27,HOU,MIN,38.33,4,9,40,MIN,MIN,ft_make,11,False,False,,Russell Free Throw 1 of 2 (12 PTS),85-83,85,83
+0022000931,2021-04-27,HOU,MIN,38.33,4,9,40,MIN,MIN,ft_make,12,False,False,,Russell Free Throw 2 of 2 (13 PTS),85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.5,4,9,30,HOU,HOU,fg_miss,6,False,False,MISS Tate 2' Driving Layup,,85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.52,4,9,29,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:3),85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.53,4,9,28,MIN,MIN,tov,1,False,True,,Russell Bad Pass Turnover (P2.T12),85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.53,4,9,28,MIN,HOU,steal,1,False,True,steal,steal,85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.57,4,9,26,HOU,HOU,fg_miss,6,False,False,MISS Martin Jr. Driving Layup,,85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.6,4,9,24,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.62,4,9,23,,HOU,jump_ball,0,False,False,,,85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.62,4,9,23,MIN,HOU,foul,3,False,False,Tate L.B.FOUL (P3.PN) (M.Smith),,85-84,85,84
+0022000931,2021-04-27,HOU,MIN,38.62,4,9,23,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (24 PTS),85-85,85,85
+0022000931,2021-04-27,HOU,MIN,38.62,4,9,23,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (25 PTS),85-86,85,86
+0022000931,2021-04-27,HOU,MIN,38.95,4,9,3,HOU,HOU,fg_miss,80,False,False,MISS Wilson 23' Step Back Jump Shot,,85-86,85,86
+0022000931,2021-04-27,HOU,MIN,38.97,4,9,2,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:6),85-86,85,86
+0022000931,2021-04-27,HOU,MIN,39.35,4,8,39,MIN,MIN,fg_make,58,False,False,,Towns 8' Turnaround Hook Shot (27 PTS),85-88,85,88
+0022000931,2021-04-27,HOU,MIN,39.73,4,8,16,HOU,HOU,fg_miss,79,False,False,MISS Brooks 14' Pullup Jump Shot,,85-88,85,88
+0022000931,2021-04-27,HOU,MIN,39.77,4,8,14,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:3),85-88,85,88
+0022000931,2021-04-27,HOU,MIN,39.85,4,8,9,MIN,MIN,fg_make,41,False,False,,Vanderbilt 1' Running Layup (4 PTS) (McLaughlin 3 AST),85-90,85,90
+0022000931,2021-04-27,HOU,MIN,39.85,4,8,9,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 5 Short 0),,85-90,85,90
+0022000931,2021-04-27,HOU,MIN,40.12,4,7,53,HOU,MIN,foul,2,False,False,,Hernangomez S.FOUL (P1.T1) (M.Boland),85-90,85,90
+0022000931,2021-04-27,HOU,MIN,40.12,4,7,53,HOU,HOU,ft_make,11,False,False,Wood Free Throw 1 of 2 (19 PTS),,86-90,86,90
+0022000931,2021-04-27,HOU,MIN,40.12,4,7,53,HOU,HOU,ft_make,12,False,False,Wood Free Throw 2 of 2 (20 PTS),,87-90,87,90
+0022000931,2021-04-27,HOU,MIN,40.22,4,7,47,MIN,MIN,fg_make,9,False,False,,Edwards 1' Driving Dunk (13 PTS) (McLaughlin 4 AST),87-92,87,92
+0022000931,2021-04-27,HOU,MIN,40.52,4,7,29,HOU,HOU,tov,2,False,True,Porter Jr. Lost Ball Turnover (P5.T13),,87-92,87,92
+0022000931,2021-04-27,HOU,MIN,40.52,4,7,29,HOU,MIN,steal,2,False,True,steal,steal,87-92,87,92
+0022000931,2021-04-27,HOU,MIN,40.77,4,7,14,MIN,MIN,fg_make,58,False,False,,Towns 3' Turnaround Hook Shot (29 PTS) (McLaughlin 5 AST),87-94,87,94
+0022000931,2021-04-27,HOU,MIN,41.03,4,6,58,HOU,HOU,fg_miss,3,True,False,MISS Martin Jr. 8' Hook Shot,,87-94,87,94
+0022000931,2021-04-27,HOU,MIN,41.03,4,6,58,HOU,MIN,block,3,True,False,block,block,87-94,87,94
+0022000931,2021-04-27,HOU,MIN,41.07,4,6,56,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:2 Def:1),,87-94,87,94
+0022000931,2021-04-27,HOU,MIN,41.07,4,6,56,HOU,HOU,fg_make,3,False,False,Martin Jr. 4' Hook Shot (15 PTS),,89-94,89,94
+0022000931,2021-04-27,HOU,MIN,41.37,4,6,38,MIN,MIN,fg_make,108,False,False,,McLaughlin 2' Cutting Dunk Shot (4 PTS) (Towns 5 AST),89-96,89,96
+0022000931,2021-04-27,HOU,MIN,41.65,4,6,21,HOU,HOU,fg3_miss,80,False,False,MISS Porter Jr. 26' 3PT Step Back Jump Shot,,89-96,89,96
+0022000931,2021-04-27,HOU,MIN,41.67,4,6,20,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:5),89-96,89,96
+0022000931,2021-04-27,HOU,MIN,41.73,4,6,16,MIN,MIN,fg_make,74,False,False,,Hernangomez 2' Running Reverse Layup (20 PTS) (Edwards 2 AST),89-98,89,98
+0022000931,2021-04-27,HOU,MIN,41.73,4,6,16,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 6 Short 0),,89-98,89,98
+0022000931,2021-04-27,HOU,MIN,42.08,4,5,55,HOU,MIN,foul,2,False,False,,Towns S.FOUL (P5.T2) (H.Workman),89-98,89,98
+0022000931,2021-04-27,HOU,MIN,42.08,4,5,55,HOU,HOU,ft_make,13,False,False,Olynyk Free Throw 1 of 3 (23 PTS),,90-98,90,98
+0022000931,2021-04-27,HOU,MIN,42.08,4,5,55,HOU,HOU,ft_make,14,False,False,Olynyk Free Throw 2 of 3 (24 PTS),,91-98,91,98
+0022000931,2021-04-27,HOU,MIN,42.08,4,5,55,HOU,HOU,ft_miss,15,False,False,MISS Olynyk Free Throw 3 of 3,,91-98,91,98
+0022000931,2021-04-27,HOU,MIN,42.08,4,5,55,MIN,MIN,reb,0,False,False,,McLaughlin REBOUND (Off:1 Def:1),91-98,91,98
+0022000931,2021-04-27,HOU,MIN,42.37,4,5,38,MIN,MIN,fg_make,75,False,False,,Towns 2' Driving Finger Roll Layup (31 PTS),91-100,91,100
+0022000931,2021-04-27,HOU,MIN,42.63,4,5,22,HOU,HOU,fg_make,57,False,False,Wood 8' Driving Hook Shot (22 PTS),,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,42.63,4,5,22,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.4 Short 0),93-100,93,100
+0022000931,2021-04-27,HOU,MIN,42.88,4,5,7,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 26' 3PT Jump Shot,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,42.92,4,5,5,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:12),,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.07,4,4,56,HOU,HOU,fg3_miss,1,False,False,MISS Olynyk 27' 3PT Jump Shot,,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.08,4,4,55,HOU,HOU,reb,0,False,False,Porter Jr. REBOUND (Off:2 Def:2),,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.15,4,4,51,HOU,HOU,fg3_miss,1,False,False,MISS Olynyk 26' 3PT Jump Shot,,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.17,4,4,50,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:6),93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.2,4,4,48,MIN,HOU,foul,2,False,False,Olynyk S.FOUL (P3.PN) (H.Workman),,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.2,4,4,48,MIN,MIN,ft_miss,11,False,False,,MISS Edwards Free Throw 1 of 2,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.2,4,4,48,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.2,4,4,48,MIN,MIN,ft_miss,12,False,False,,MISS Edwards Free Throw 2 of 2,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.2,4,4,48,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:13),,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.45,4,4,33,HOU,MIN,foul,1,False,False,,Vanderbilt P.FOUL (P4.T3) (H.Workman),93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.68,4,4,19,HOU,HOU,fg_miss,63,False,False,MISS Bradley 12' Fadeaway Jumper,,93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.7,4,4,18,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:7),93-100,93,100
+0022000931,2021-04-27,HOU,MIN,43.85,4,4,9,MIN,MIN,fg_make,102,False,False,,Edwards 2' Driving Floating Bank Jump Shot (15 PTS),93-102,93,102
+0022000931,2021-04-27,HOU,MIN,43.85,4,4,9,MIN,HOU,foul,2,False,False,Olynyk S.FOUL (P4.PN) (M.Smith),,93-102,93,102
+0022000931,2021-04-27,HOU,MIN,43.85,4,4,9,MIN,MIN,ft_miss,10,False,False,,MISS Edwards Free Throw 1 of 1,93-102,93,102
+0022000931,2021-04-27,HOU,MIN,43.85,4,4,9,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:14),,93-102,93,102
+0022000931,2021-04-27,HOU,MIN,44.0,4,4,0,HOU,MIN,foul,2,False,False,,Edwards S.FOUL (P1.T4) (M.Smith),93-102,93,102
+0022000931,2021-04-27,HOU,MIN,44.0,4,4,0,HOU,HOU,ft_make,11,False,False,Porter Jr. Free Throw 1 of 2 (3 PTS),,94-102,94,102
+0022000931,2021-04-27,HOU,MIN,44.0,4,4,0,HOU,HOU,ft_make,12,False,False,Porter Jr. Free Throw 2 of 2 (4 PTS),,95-102,95,102
+0022000931,2021-04-27,HOU,MIN,44.0,4,4,0,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.5 Short 0),95-102,95,102
+0022000931,2021-04-27,HOU,MIN,44.18,4,3,49,MIN,MIN,tov,2,False,True,,Edwards Lost Ball Turnover (P3.T13),95-102,95,102
+0022000931,2021-04-27,HOU,MIN,44.18,4,3,49,MIN,HOU,steal,2,False,True,steal,steal,95-102,95,102
+0022000931,2021-04-27,HOU,MIN,44.28,4,3,43,HOU,HOU,fg_make,41,False,False,Olynyk 3' Running Layup (26 PTS),,97-102,97,102
+0022000931,2021-04-27,HOU,MIN,44.5,4,3,30,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 27' 3PT Jump Shot,97-102,97,102
+0022000931,2021-04-27,HOU,MIN,44.55,4,3,27,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:1 Def:7),97-102,97,102
+0022000931,2021-04-27,HOU,MIN,44.55,4,3,27,MIN,MIN,fg_miss,107,False,False,,MISS Edwards Tip Dunk Shot,97-102,97,102
+0022000931,2021-04-27,HOU,MIN,44.55,4,3,27,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:15),,97-102,97,102
+0022000931,2021-04-27,HOU,MIN,44.63,4,3,22,HOU,HOU,fg3_make,1,False,False,Porter Jr. 27' 3PT Jump Shot (7 PTS) (Olynyk 5 AST),,100-102,100,102
+0022000931,2021-04-27,HOU,MIN,44.93,4,3,4,MIN,MIN,fg_miss,6,False,False,,MISS Edwards 6' Driving Layup,100-102,100,102
+0022000931,2021-04-27,HOU,MIN,44.98,4,3,1,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:2 Def:7),100-102,100,102
+0022000931,2021-04-27,HOU,MIN,45.02,4,2,59,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 25' 3PT Jump Shot,100-102,100,102
+0022000931,2021-04-27,HOU,MIN,45.05,4,2,57,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:16),,100-102,100,102
+0022000931,2021-04-27,HOU,MIN,45.35,4,2,39,HOU,HOU,fg_miss,6,False,False,MISS Wood 2' Driving Layup,,100-102,100,102
+0022000931,2021-04-27,HOU,MIN,45.37,4,2,38,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:2 Def:16),,100-102,100,102
+0022000931,2021-04-27,HOU,MIN,45.37,4,2,38,HOU,HOU,fg_make,72,False,False,Wood 2' Putback Layup (24 PTS),,102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.37,4,2,38,HOU,MIN,foul,2,False,False,,Russell S.FOUL (P1.PN) (M.Smith),102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.37,4,2,38,HOU,HOU,ft_miss,10,False,False,MISS Wood Free Throw 1 of 1,,102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.4,4,2,36,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:4),102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.65,4,2,21,HOU,MIN,foul,26,False,False,,Towns Offensive Charge Foul (P6.PN) (M.Smith),102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.65,4,2,21,MIN,MIN,tov,37,False,False,,Towns Offensive Foul Turnover (P5.T14),102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.83,4,2,10,HOU,HOU,fg_miss,6,True,False,MISS Porter Jr. 5' Driving Layup,,102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.83,4,2,10,HOU,MIN,block,6,True,False,block,block,102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.83,4,2,10,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:7),102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.83,4,2,10,MIN,HOU,foul,1,False,False,Olynyk P.FOUL (P5.PN) (M.Boland),,102-102,102,102
+0022000931,2021-04-27,HOU,MIN,45.83,4,2,10,MIN,MIN,ft_make,11,False,False,,Hernangomez Free Throw 1 of 2 (21 PTS),102-103,102,103
+0022000931,2021-04-27,HOU,MIN,45.83,4,2,10,MIN,MIN,ft_make,12,False,False,,Hernangomez Free Throw 2 of 2 (22 PTS),102-104,102,104
+0022000931,2021-04-27,HOU,MIN,46.12,4,1,53,HOU,HOU,tov,45,False,False,Tate Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,102-104,102,104
+0022000931,2021-04-27,HOU,MIN,46.37,4,1,38,MIN,MIN,fg3_miss,1,False,False,,MISS Hernangomez 26' 3PT Jump Shot,102-104,102,104
+0022000931,2021-04-27,HOU,MIN,46.38,4,1,37,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:3 Def:4),102-104,102,104
+0022000931,2021-04-27,HOU,MIN,46.38,4,1,37,MIN,MIN,fg_make,97,False,False,,Vanderbilt Tip Layup Shot (6 PTS),102-106,102,106
+0022000931,2021-04-27,HOU,MIN,46.62,4,1,23,HOU,HOU,tov,2,False,True,Wood Lost Ball Turnover (P2.T15),,102-106,102,106
+0022000931,2021-04-27,HOU,MIN,46.62,4,1,23,HOU,MIN,steal,2,False,True,steal,steal,102-106,102,106
+0022000931,2021-04-27,HOU,MIN,46.65,4,1,21,MIN,MIN,fg_make,41,False,False,,Russell 2' Running Layup (15 PTS) (Vanderbilt 2 AST),102-108,102,108
+0022000931,2021-04-27,HOU,MIN,46.65,4,1,21,MIN,HOU,foul,2,False,False,Tate S.FOUL (P4.PN) (H.Workman),,102-108,102,108
+0022000931,2021-04-27,HOU,MIN,46.65,4,1,21,MIN,MIN,ft_miss,10,False,False,,MISS Russell Free Throw 1 of 1,102-108,102,108
+0022000931,2021-04-27,HOU,MIN,46.68,4,1,19,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:0 Def:9),,102-108,102,108
+0022000931,2021-04-27,HOU,MIN,46.73,4,1,16,HOU,HOU,tov,45,False,False,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P2.T16),,102-108,102,108
+0022000931,2021-04-27,HOU,MIN,47.07,4,0,56,MIN,MIN,fg_make,101,False,False,,Edwards 7' Driving Floating Jump Shot (17 PTS) (Reid 1 AST),102-110,102,110
+0022000931,2021-04-27,HOU,MIN,47.27,4,0,44,HOU,HOU,fg_make,6,False,False,Olynyk 1' Driving Layup (28 PTS) (Tate 4 AST),,104-110,104,110
+0022000931,2021-04-27,HOU,MIN,47.38,4,0,37,MIN,MIN,fg_make,108,False,False,,Vanderbilt 3' Cutting Dunk Shot (8 PTS) (Hernangomez 1 AST),104-112,104,112
+0022000931,2021-04-27,HOU,MIN,47.45,4,0,33,HOU,HOU,tov,1,False,True,Olynyk Bad Pass Turnover (P3.T17),,104-112,104,112
+0022000931,2021-04-27,HOU,MIN,47.45,4,0,33,HOU,MIN,steal,1,False,True,steal,steal,104-112,104,112
+0022000931,2021-04-27,HOU,MIN,47.6,4,0,24,MIN,MIN,fg_make,9,False,False,,Edwards 3' Driving Dunk (19 PTS),104-114,104,114
+0022000931,2021-04-27,HOU,MIN,47.72,4,0,17,HOU,HOU,fg3_make,1,False,False,Porter Jr. 29' 3PT Jump Shot (10 PTS),,107-114,107,114
+0022000931,2021-04-27,HOU,MIN,48.0,4,0,0,HOU,,period_end,0,False,False,,,107-114,107,114

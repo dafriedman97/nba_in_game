@@ -1,0 +1,466 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900817,2020-02-12,DEN,LAL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900817,2020-02-12,DEN,LAL,0.0,1,12,0,,DEN,jump_ball,0,False,False,Jump Ball Jokic vs. McGee: Tip to Grant,,0-0,0,0
+0021900817,2020-02-12,DEN,LAL,0.47,1,11,32,DEN,DEN,fg_miss,5,False,False,MISS Murray 2' Layup,,0-0,0,0
+0021900817,2020-02-12,DEN,LAL,0.47,1,11,32,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,0-0,0,0
+0021900817,2020-02-12,DEN,LAL,0.47,1,11,32,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#1),,0-0,0,0
+0021900817,2020-02-12,DEN,LAL,0.8,1,11,12,LAL,LAL,fg_make,63,False,False,,James 9' Fadeaway Jumper (2 PTS),0-2,0,2
+0021900817,2020-02-12,DEN,LAL,1.05,1,10,57,DEN,LAL,foul,1,False,False,,McGee P.FOUL (P1.T1) (J.Capers),0-2,0,2
+0021900817,2020-02-12,DEN,LAL,1.17,1,10,50,DEN,DEN,fg_miss,75,True,False,MISS Harris 4' Driving Finger Roll Layup,,0-2,0,2
+0021900817,2020-02-12,DEN,LAL,1.17,1,10,50,DEN,LAL,block,75,True,False,block,block,0-2,0,2
+0021900817,2020-02-12,DEN,LAL,1.22,1,10,47,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:1),0-2,0,2
+0021900817,2020-02-12,DEN,LAL,1.27,1,10,44,LAL,LAL,fg_make,74,False,False,,James 1' Running Reverse Layup (4 PTS),0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.42,1,10,35,DEN,LAL,foul,1,False,False,,Bradley P.FOUL (P1.T2) (R.Acosta),0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.47,1,10,32,DEN,DEN,fg_miss,1,False,False,MISS Grant 14' Jump Shot,,0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.53,1,10,28,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:2),0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.58,1,10,25,LAL,DEN,foul,2,False,False,Craig S.FOUL (P1.T1) (R.Acosta),,0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.58,1,10,25,LAL,LAL,ft_miss,11,False,False,,MISS James Free Throw 1 of 2,0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.58,1,10,25,LAL,LAL,reb,1,False,False,,Lakers Rebound,0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.58,1,10,25,LAL,LAL,ft_miss,12,False,False,,MISS James Free Throw 2 of 2,0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.63,1,10,22,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:1),,0-4,0,4
+0021900817,2020-02-12,DEN,LAL,1.75,1,10,15,DEN,DEN,fg_make,96,False,False,Jokic 3' Turnaround Bank Hook Shot (2 PTS) (Murray 1 AST),,2-4,2,4
+0021900817,2020-02-12,DEN,LAL,1.98,1,10,1,LAL,LAL,fg_make,99,False,False,,McGee 1' Cutting Finger Roll Layup Shot (2 PTS) (Bradley 1 AST),2-6,2,6
+0021900817,2020-02-12,DEN,LAL,2.15,1,9,51,DEN,DEN,fg3_miss,1,False,False,MISS Craig 3PT Jump Shot,,2-6,2,6
+0021900817,2020-02-12,DEN,LAL,2.2,1,9,48,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:0 Def:1),2-6,2,6
+0021900817,2020-02-12,DEN,LAL,2.28,1,9,43,LAL,LAL,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,2-6,2,6
+0021900817,2020-02-12,DEN,LAL,2.33,1,9,40,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:1),,2-6,2,6
+0021900817,2020-02-12,DEN,LAL,2.35,1,9,39,DEN,LAL,foul,1,False,False,,McGee P.FOUL (P2.T3) (J.Capers),2-6,2,6
+0021900817,2020-02-12,DEN,LAL,2.65,1,9,21,DEN,DEN,fg3_make,1,False,False,Craig 24' 3PT Jump Shot (3 PTS) (Harris 1 AST),,5-6,5,6
+0021900817,2020-02-12,DEN,LAL,2.87,1,9,8,LAL,LAL,tov,1,False,True,,Bradley Bad Pass Turnover (P1.T1),5-6,5,6
+0021900817,2020-02-12,DEN,LAL,2.87,1,9,8,LAL,DEN,steal,1,False,True,steal,steal,5-6,5,6
+0021900817,2020-02-12,DEN,LAL,2.95,1,9,3,DEN,DEN,fg_make,76,False,False,Murray 1' Running Finger Roll Layup (2 PTS) (Craig 1 AST),,7-6,7,6
+0021900817,2020-02-12,DEN,LAL,3.07,1,8,56,LAL,LAL,fg_miss,79,False,False,,MISS Davis 18' Pullup Jump Shot,7-6,7,6
+0021900817,2020-02-12,DEN,LAL,3.1,1,8,54,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:1),,7-6,7,6
+0021900817,2020-02-12,DEN,LAL,3.23,1,8,46,DEN,DEN,fg3_make,1,False,False,Jokic 24' 3PT Jump Shot (5 PTS) (Craig 2 AST),,10-6,10,6
+0021900817,2020-02-12,DEN,LAL,3.27,1,8,44,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),10-6,10,6
+0021900817,2020-02-12,DEN,LAL,3.48,1,8,31,LAL,LAL,fg_miss,63,False,False,,MISS James 14' Fadeaway Jumper,10-6,10,6
+0021900817,2020-02-12,DEN,LAL,3.53,1,8,28,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:2),,10-6,10,6
+0021900817,2020-02-12,DEN,LAL,3.63,1,8,22,DEN,LAL,foul,1,False,False,,Davis P.FOUL (P1.T4) (R.Acosta),10-6,10,6
+0021900817,2020-02-12,DEN,LAL,3.82,1,8,11,DEN,DEN,fg_miss,75,False,False,MISS Harris 3' Driving Finger Roll Layup,,10-6,10,6
+0021900817,2020-02-12,DEN,LAL,3.83,1,8,10,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),10-6,10,6
+0021900817,2020-02-12,DEN,LAL,3.95,1,8,3,LAL,LAL,fg_make,75,False,False,,James 2' Driving Finger Roll Layup (6 PTS) (Davis 1 AST),10-8,10,8
+0021900817,2020-02-12,DEN,LAL,3.95,1,8,3,LAL,LAL,fg_make,75,False,False,,James 2' Driving Finger Roll Layup (6 PTS) (Davis 1 AST),10-8,10,8
+0021900817,2020-02-12,DEN,LAL,4.18,1,7,49,DEN,DEN,fg_make,80,False,False,Murray 19' Step Back Jump Shot (4 PTS),,12-8,12,8
+0021900817,2020-02-12,DEN,LAL,4.3,1,7,42,LAL,LAL,fg_make,41,False,False,,McGee 2' Running Layup (4 PTS) (James 1 AST),12-10,12,10
+0021900817,2020-02-12,DEN,LAL,4.75,1,7,15,DEN,DEN,fg_make,79,False,False,Jokic 19' Pullup Jump Shot (7 PTS) (Murray 2 AST),,14-10,14,10
+0021900817,2020-02-12,DEN,LAL,4.93,1,7,4,LAL,LAL,tov,2,False,True,,Davis Lost Ball Turnover (P1.T2),14-10,14,10
+0021900817,2020-02-12,DEN,LAL,4.93,1,7,4,LAL,DEN,steal,2,False,True,steal,steal,14-10,14,10
+0021900817,2020-02-12,DEN,LAL,5.0,1,7,0,DEN,DEN,fg3_make,79,False,False,Murray 26' 3PT Pullup Jump Shot (7 PTS),,17-10,17,10
+0021900817,2020-02-12,DEN,LAL,5.37,1,6,38,LAL,LAL,fg3_miss,1,False,False,,MISS Bradley 24' 3PT Jump Shot,17-10,17,10
+0021900817,2020-02-12,DEN,LAL,5.42,1,6,35,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:3),,17-10,17,10
+0021900817,2020-02-12,DEN,LAL,5.68,1,6,19,DEN,DEN,tov,2,False,True,Jokic Lost Ball Turnover (P1.T2),,17-10,17,10
+0021900817,2020-02-12,DEN,LAL,5.68,1,6,19,DEN,LAL,steal,2,False,True,steal,steal,17-10,17,10
+0021900817,2020-02-12,DEN,LAL,5.8,1,6,12,LAL,LAL,fg_make,52,False,False,,Davis Alley Oop Dunk (2 PTS) (James 2 AST),17-12,17,12
+0021900817,2020-02-12,DEN,LAL,6.22,1,5,47,DEN,DEN,fg_miss,1,False,False,MISS Jokic 17' Jump Shot,,17-12,17,12
+0021900817,2020-02-12,DEN,LAL,6.27,1,5,44,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:2),17-12,17,12
+0021900817,2020-02-12,DEN,LAL,6.45,1,5,33,LAL,LAL,fg_miss,75,False,False,,MISS Davis 2' Driving Finger Roll Layup,17-12,17,12
+0021900817,2020-02-12,DEN,LAL,6.48,1,5,31,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:2),,17-12,17,12
+0021900817,2020-02-12,DEN,LAL,6.55,1,5,27,DEN,DEN,fg_make,76,False,False,Craig 2' Running Finger Roll Layup (5 PTS),,19-12,19,12
+0021900817,2020-02-12,DEN,LAL,6.9,1,5,6,LAL,LAL,fg_miss,6,False,False,,MISS McGee 3' Driving Layup,19-12,19,12
+0021900817,2020-02-12,DEN,LAL,7.02,1,4,59,LAL,LAL,reb,0,False,False,,Bradley REBOUND (Off:1 Def:0),19-12,19,12
+0021900817,2020-02-12,DEN,LAL,7.02,1,4,59,LAL,LAL,fg_miss,97,False,False,,MISS Bradley 1' Tip Layup Shot,19-12,19,12
+0021900817,2020-02-12,DEN,LAL,7.02,1,4,59,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:3),,19-12,19,12
+0021900817,2020-02-12,DEN,LAL,7.05,1,4,57,DEN,DEN,fg_make,50,False,False,Grant Running Dunk (2 PTS) (Craig 3 AST),,21-12,21,12
+0021900817,2020-02-12,DEN,LAL,7.28,1,4,43,LAL,LAL,fg3_make,1,False,False,,Bradley 25' 3PT Jump Shot (3 PTS) (Davis 2 AST),21-15,21,15
+0021900817,2020-02-12,DEN,LAL,7.47,1,4,32,DEN,DEN,fg3_miss,79,False,False,MISS Murray 26' 3PT Pullup Jump Shot,,21-15,21,15
+0021900817,2020-02-12,DEN,LAL,7.52,1,4,29,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:3),21-15,21,15
+0021900817,2020-02-12,DEN,LAL,7.57,1,4,26,LAL,LAL,fg_make,76,False,False,,Bradley 2' Running Finger Roll Layup (5 PTS) (James 3 AST),21-17,21,17
+0021900817,2020-02-12,DEN,LAL,7.57,1,4,26,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,21-17,21,17
+0021900817,2020-02-12,DEN,LAL,7.9,1,4,6,DEN,DEN,fg_miss,3,False,False,MISS Jokic 4' Hook Shot,,21-17,21,17
+0021900817,2020-02-12,DEN,LAL,7.97,1,4,2,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:4),21-17,21,17
+0021900817,2020-02-12,DEN,LAL,8.33,1,3,40,LAL,LAL,fg_make,79,False,False,,Davis 15' Pullup Jump Shot (4 PTS),21-19,21,19
+0021900817,2020-02-12,DEN,LAL,8.58,1,3,25,DEN,DEN,fg3_miss,1,False,False,MISS Craig 25' 3PT Jump Shot,,21-19,21,19
+0021900817,2020-02-12,DEN,LAL,8.63,1,3,22,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:1),21-19,21,19
+0021900817,2020-02-12,DEN,LAL,8.77,1,3,14,LAL,LAL,fg3_miss,1,False,False,,MISS Caldwell-Pope 25' 3PT Jump Shot,21-19,21,19
+0021900817,2020-02-12,DEN,LAL,8.83,1,3,10,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:1),,21-19,21,19
+0021900817,2020-02-12,DEN,LAL,9.0,1,3,0,DEN,DEN,fg_make,58,False,False,Jokic 1' Turnaround Hook Shot (9 PTS) (Murray 3 AST),,23-19,23,19
+0021900817,2020-02-12,DEN,LAL,9.33,1,2,40,LAL,LAL,fg_miss,78,True,False,,MISS Davis 12' Floating Jump Shot,23-19,23,19
+0021900817,2020-02-12,DEN,LAL,9.33,1,2,40,LAL,DEN,block,78,True,False,block,block,23-19,23,19
+0021900817,2020-02-12,DEN,LAL,9.33,1,2,40,LAL,LAL,reb,0,False,False,,Lakers Rebound,23-19,23,19
+0021900817,2020-02-12,DEN,LAL,9.35,1,2,39,LAL,DEN,foul,1,False,False,Jokic P.FOUL (P1.T2) (M.Ayotte),,23-19,23,19
+0021900817,2020-02-12,DEN,LAL,9.38,1,2,37,LAL,LAL,fg3_miss,1,False,False,,MISS Caldwell-Pope 24' 3PT Jump Shot,23-19,23,19
+0021900817,2020-02-12,DEN,LAL,9.42,1,2,35,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:0 Def:1),,23-19,23,19
+0021900817,2020-02-12,DEN,LAL,9.68,1,2,19,DEN,DEN,fg_make,78,False,False,Morris 3' Floating Jump Shot (2 PTS) (Jokic 1 AST),,25-19,25,19
+0021900817,2020-02-12,DEN,LAL,10.02,1,1,59,LAL,LAL,fg_miss,86,False,False,,MISS Davis 15' Turnaround Fadeaway Shot,25-19,25,19
+0021900817,2020-02-12,DEN,LAL,10.1,1,1,54,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:0 Def:2),,25-19,25,19
+0021900817,2020-02-12,DEN,LAL,10.25,1,1,45,DEN,DEN,fg_make,75,False,False,Murray 4' Driving Finger Roll Layup (9 PTS),,27-19,27,19
+0021900817,2020-02-12,DEN,LAL,10.25,1,1,45,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.2 Short 0),27-19,27,19
+0021900817,2020-02-12,DEN,LAL,10.52,1,1,29,LAL,LAL,fg_miss,79,False,False,,MISS Kuzma 15' Pullup Jump Shot,27-19,27,19
+0021900817,2020-02-12,DEN,LAL,10.57,1,1,26,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:0),27-19,27,19
+0021900817,2020-02-12,DEN,LAL,10.57,1,1,26,LAL,DEN,foul,2,False,False,Millsap S.FOUL (P1.T3) (J.Capers),,27-19,27,19
+0021900817,2020-02-12,DEN,LAL,10.57,1,1,26,LAL,LAL,ft_make,11,False,False,,Howard Free Throw 1 of 2 (1 PTS),27-20,27,20
+0021900817,2020-02-12,DEN,LAL,10.57,1,1,26,LAL,LAL,ft_make,12,False,False,,Howard Free Throw 2 of 2 (2 PTS),27-21,27,21
+0021900817,2020-02-12,DEN,LAL,10.73,1,1,16,DEN,LAL,foul,1,False,False,,Kuzma P.FOUL (P1.PN) (J.Capers),27-21,27,21
+0021900817,2020-02-12,DEN,LAL,10.73,1,1,16,DEN,DEN,ft_make,11,False,False,Millsap Free Throw 1 of 2 (1 PTS),,28-21,28,21
+0021900817,2020-02-12,DEN,LAL,10.73,1,1,16,DEN,DEN,ft_make,12,False,False,Millsap Free Throw 2 of 2 (2 PTS),,29-21,29,21
+0021900817,2020-02-12,DEN,LAL,10.92,1,1,5,LAL,LAL,fg_miss,86,False,False,,MISS James 14' Turnaround Fadeaway Shot,29-21,29,21
+0021900817,2020-02-12,DEN,LAL,10.98,1,1,1,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:0),29-21,29,21
+0021900817,2020-02-12,DEN,LAL,11.02,1,0,59,LAL,LAL,fg_make,52,False,False,,Howard 1' Alley Oop Dunk (4 PTS) (Kuzma 1 AST),29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.37,1,0,38,DEN,DEN,fg_miss,80,False,False,MISS Millsap 18' Step Back Jump Shot,,29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.43,1,0,34,DEN,DEN,reb,0,False,False,Vonleh REBOUND (Off:1 Def:0),,29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.45,1,0,33,DEN,DEN,fg_miss,1,False,False,MISS Dozier 12' Jump Shot,,29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.48,1,0,31,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:3),29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.68,1,0,19,LAL,LAL,fg_miss,6,True,False,,MISS Caldwell-Pope 3' Driving Layup,29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.68,1,0,19,LAL,DEN,block,6,True,False,block,block,29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.72,1,0,17,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:1 Def:0),29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.73,1,0,16,LAL,LAL,fg_miss,1,False,False,,MISS Caldwell-Pope 11' Jump Shot,29-23,29,23
+0021900817,2020-02-12,DEN,LAL,11.77,1,0,14,DEN,DEN,reb,0,False,False,Vonleh REBOUND (Off:1 Def:1),,29-23,29,23
+0021900817,2020-02-12,DEN,LAL,12.0,1,0,0,DEN,DEN,fg_make,102,False,False,Morris 9' Driving Floating Bank Jump Shot (4 PTS),,31-23,31,23
+0021900817,2020-02-12,DEN,LAL,12.0,1,0,0,DEN,,period_end,0,False,False,,,31-23,31,23
+0021900817,2020-02-12,DEN,LAL,12.0,2,12,0,DEN,,period_start,0,False,False,,,31-23,31,23
+0021900817,2020-02-12,DEN,LAL,12.08,2,11,55,LAL,LAL,fg3_make,1,False,False,,Kuzma 3PT Jump Shot (3 PTS) (James 4 AST),31-26,31,26
+0021900817,2020-02-12,DEN,LAL,12.53,2,11,28,DEN,DEN,fg3_make,1,False,False,Vonleh 3PT Jump Shot (3 PTS) (McRae 1 AST),,34-26,34,26
+0021900817,2020-02-12,DEN,LAL,12.82,2,11,11,LAL,LAL,fg3_make,1,False,False,,James 26' 3PT Jump Shot (9 PTS) (Kuzma 2 AST),34-29,34,29
+0021900817,2020-02-12,DEN,LAL,13.17,2,10,50,DEN,DEN,fg_make,79,False,False,Dozier 10' Pullup Jump Shot (2 PTS) (Millsap 1 AST),,36-29,36,29
+0021900817,2020-02-12,DEN,LAL,13.37,2,10,38,LAL,LAL,fg3_miss,1,False,False,,MISS Kuzma 3PT Jump Shot,36-29,36,29
+0021900817,2020-02-12,DEN,LAL,13.42,2,10,35,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,36-29,36,29
+0021900817,2020-02-12,DEN,LAL,13.58,2,10,25,DEN,LAL,foul,2,False,False,,Rondo S.FOUL (P1.T1) (J.Capers),36-29,36,29
+0021900817,2020-02-12,DEN,LAL,13.58,2,10,25,DEN,DEN,ft_make,11,False,False,Millsap Free Throw 1 of 2 (3 PTS),,37-29,37,29
+0021900817,2020-02-12,DEN,LAL,13.58,2,10,25,DEN,DEN,ft_make,12,False,False,Millsap Free Throw 2 of 2 (4 PTS),,38-29,38,29
+0021900817,2020-02-12,DEN,LAL,13.82,2,10,11,LAL,LAL,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,38-29,38,29
+0021900817,2020-02-12,DEN,LAL,13.88,2,10,7,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:2),,38-29,38,29
+0021900817,2020-02-12,DEN,LAL,13.93,2,10,4,DEN,LAL,foul,1,False,False,,Howard P.FOUL (P1.T2) (R.Acosta),38-29,38,29
+0021900817,2020-02-12,DEN,LAL,14.03,2,9,58,DEN,DEN,fg_miss,79,False,False,MISS Morris 23' Pullup Jump Shot,,38-29,38,29
+0021900817,2020-02-12,DEN,LAL,14.08,2,9,55,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:1),38-29,38,29
+0021900817,2020-02-12,DEN,LAL,14.22,2,9,47,LAL,DEN,foul,1,False,False,Vonleh P.FOUL (P1.T1) (R.Acosta),,38-29,38,29
+0021900817,2020-02-12,DEN,LAL,14.42,2,9,35,LAL,LAL,fg3_make,1,False,False,,Caldwell-Pope 25' 3PT Jump Shot (3 PTS) (James 5 AST),38-32,38,32
+0021900817,2020-02-12,DEN,LAL,14.7,2,9,18,DEN,LAL,foul,2,False,False,,Rondo S.FOUL (P2.T3) (R.Acosta),38-32,38,32
+0021900817,2020-02-12,DEN,LAL,14.7,2,9,18,DEN,DEN,ft_make,11,False,False,McRae Free Throw 1 of 2 (1 PTS),,39-32,39,32
+0021900817,2020-02-12,DEN,LAL,14.7,2,9,18,DEN,DEN,ft_miss,12,False,False,MISS McRae Free Throw 2 of 2,,39-32,39,32
+0021900817,2020-02-12,DEN,LAL,14.75,2,9,15,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:2),39-32,39,32
+0021900817,2020-02-12,DEN,LAL,14.85,2,9,9,LAL,LAL,tov,2,False,True,,Howard Lost Ball Turnover (P1.T3),39-32,39,32
+0021900817,2020-02-12,DEN,LAL,14.85,2,9,9,LAL,DEN,steal,2,False,True,steal,steal,39-32,39,32
+0021900817,2020-02-12,DEN,LAL,15.02,2,8,59,DEN,DEN,fg3_make,2,False,False,Millsap 25' 3PT Running Jump Shot (7 PTS) (Morris 1 AST),,42-32,42,32
+0021900817,2020-02-12,DEN,LAL,15.33,2,8,40,LAL,LAL,fg3_miss,1,False,False,,MISS Caldwell-Pope 3PT Jump Shot,42-32,42,32
+0021900817,2020-02-12,DEN,LAL,15.37,2,8,38,DEN,DEN,reb,0,False,False,Dozier REBOUND (Off:0 Def:1),,42-32,42,32
+0021900817,2020-02-12,DEN,LAL,15.55,2,8,27,DEN,DEN,fg3_make,80,False,False,Morris 25' 3PT Step Back Jump Shot (7 PTS) (Millsap 2 AST),,45-32,45,32
+0021900817,2020-02-12,DEN,LAL,15.57,2,8,26,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.3 Short 0),45-32,45,32
+0021900817,2020-02-12,DEN,LAL,15.82,2,8,11,LAL,LAL,fg_make,6,False,False,,Caruso 1' Driving Layup (2 PTS) (Kuzma 3 AST),45-34,45,34
+0021900817,2020-02-12,DEN,LAL,16.17,2,7,50,DEN,DEN,fg_make,79,False,False,Morris 17' Pullup Jump Shot (9 PTS),,47-34,47,34
+0021900817,2020-02-12,DEN,LAL,16.35,2,7,39,LAL,DEN,foul,1,False,False,Morris P.FOUL (P1.T2) (M.Ayotte),,47-34,47,34
+0021900817,2020-02-12,DEN,LAL,16.42,2,7,35,LAL,DEN,foul,1,False,False,Millsap P.FOUL (P2.T3) (J.Capers),,47-34,47,34
+0021900817,2020-02-12,DEN,LAL,16.52,2,7,29,LAL,LAL,fg_make,99,False,False,,Davis 2' Cutting Finger Roll Layup Shot (6 PTS) (Caruso 1 AST),47-36,47,36
+0021900817,2020-02-12,DEN,LAL,16.75,2,7,15,DEN,DEN,fg_make,78,False,False,Jokic 6' Floating Jump Shot (11 PTS) (Dozier 1 AST),,49-36,49,36
+0021900817,2020-02-12,DEN,LAL,16.93,2,7,4,LAL,LAL,fg3_make,79,False,False,,Caruso 25' 3PT Pullup Jump Shot (5 PTS),49-39,49,39
+0021900817,2020-02-12,DEN,LAL,17.38,2,6,37,DEN,DEN,fg3_miss,80,False,False,MISS Murray 27' 3PT Step Back Jump Shot,,49-39,49,39
+0021900817,2020-02-12,DEN,LAL,17.45,2,6,33,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:1),49-39,49,39
+0021900817,2020-02-12,DEN,LAL,17.68,2,6,19,LAL,LAL,fg_make,7,False,False,,Davis 1' Dunk (8 PTS) (Caruso 2 AST),49-41,49,41
+0021900817,2020-02-12,DEN,LAL,17.68,2,6,19,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,49-41,49,41
+0021900817,2020-02-12,DEN,LAL,17.97,2,6,2,DEN,DEN,tov,1,False,True,Murray Bad Pass Turnover (P1.T3),,49-41,49,41
+0021900817,2020-02-12,DEN,LAL,17.97,2,6,2,DEN,LAL,steal,1,False,True,steal,steal,49-41,49,41
+0021900817,2020-02-12,DEN,LAL,18.37,2,5,38,LAL,LAL,fg_miss,101,False,False,,MISS Caruso 8' Driving Floating Jump Shot,49-41,49,41
+0021900817,2020-02-12,DEN,LAL,18.38,2,5,37,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:2),,49-41,49,41
+0021900817,2020-02-12,DEN,LAL,18.53,2,5,28,DEN,DEN,fg_miss,52,False,False,MISS Grant 2' Alley Oop Dunk,,49-41,49,41
+0021900817,2020-02-12,DEN,LAL,18.58,2,5,25,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:2),49-41,49,41
+0021900817,2020-02-12,DEN,LAL,18.73,2,5,16,LAL,LAL,fg_make,73,False,False,,Davis 2' Driving Reverse Layup (10 PTS) (Caruso 3 AST),49-43,49,43
+0021900817,2020-02-12,DEN,LAL,18.93,2,5,4,DEN,LAL,foul,1,False,False,,Howard P.FOUL (P2.T4) (R.Acosta),49-43,49,43
+0021900817,2020-02-12,DEN,LAL,19.13,2,4,52,DEN,DEN,fg3_miss,1,False,False,MISS Grant 25' 3PT Jump Shot,,49-43,49,43
+0021900817,2020-02-12,DEN,LAL,19.18,2,4,49,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:3),49-43,49,43
+0021900817,2020-02-12,DEN,LAL,19.23,2,4,46,LAL,LAL,fg_make,50,False,False,,Davis Running Dunk (12 PTS) (Howard 1 AST),49-45,49,45
+0021900817,2020-02-12,DEN,LAL,19.55,2,4,27,DEN,DEN,fg_miss,6,True,False,MISS Murray 5' Driving Layup,,49-45,49,45
+0021900817,2020-02-12,DEN,LAL,19.55,2,4,27,DEN,LAL,block,6,True,False,block,block,49-45,49,45
+0021900817,2020-02-12,DEN,LAL,19.57,2,4,26,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:3),49-45,49,45
+0021900817,2020-02-12,DEN,LAL,19.63,2,4,22,LAL,LAL,fg_make,76,False,False,,Caruso 2' Running Finger Roll Layup (7 PTS),49-47,49,47
+0021900817,2020-02-12,DEN,LAL,19.63,2,4,22,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 3 Short 0),,49-47,49,47
+0021900817,2020-02-12,DEN,LAL,19.87,2,4,8,LAL,DEN,foul,4,False,False,Harris OFF.Foul (P1) (R.Acosta),,49-47,49,47
+0021900817,2020-02-12,DEN,LAL,19.87,2,4,8,DEN,DEN,tov,37,False,False,Harris Offensive Foul Turnover (P1.T4),,49-47,49,47
+0021900817,2020-02-12,DEN,LAL,20.07,2,3,56,LAL,LAL,fg3_miss,1,False,False,,MISS James 26' 3PT Jump Shot,49-47,49,47
+0021900817,2020-02-12,DEN,LAL,20.1,2,3,54,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:3),49-47,49,47
+0021900817,2020-02-12,DEN,LAL,20.15,2,3,51,LAL,LAL,fg_make,7,False,False,,Howard 1' Dunk (6 PTS),49-49,49,49
+0021900817,2020-02-12,DEN,LAL,20.42,2,3,35,DEN,DEN,fg_make,78,False,False,Jokic 8' Floating Jump Shot (13 PTS) (Murray 4 AST),,51-49,51,49
+0021900817,2020-02-12,DEN,LAL,20.73,2,3,16,LAL,LAL,fg_make,5,False,False,,Davis 5' Layup (14 PTS),51-51,51,51
+0021900817,2020-02-12,DEN,LAL,20.73,2,3,16,LAL,DEN,foul,2,False,False,Craig S.FOUL (P2.T4) (J.Capers),,51-51,51,51
+0021900817,2020-02-12,DEN,LAL,20.73,2,3,16,LAL,LAL,ft_miss,10,False,False,,MISS Davis Free Throw 1 of 1,51-51,51,51
+0021900817,2020-02-12,DEN,LAL,20.77,2,3,14,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:4),,51-51,51,51
+0021900817,2020-02-12,DEN,LAL,21.03,2,2,58,DEN,DEN,fg3_miss,1,False,False,MISS Harris 24' 3PT Jump Shot,,51-51,51,51
+0021900817,2020-02-12,DEN,LAL,21.1,2,2,54,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:5),51-51,51,51
+0021900817,2020-02-12,DEN,LAL,21.35,2,2,39,LAL,LAL,fg_make,63,False,False,,James 15' Fadeaway Jumper (11 PTS),51-53,51,53
+0021900817,2020-02-12,DEN,LAL,21.58,2,2,25,DEN,DEN,fg_miss,78,False,False,MISS Jokic 9' Floating Jump Shot,,51-53,51,53
+0021900817,2020-02-12,DEN,LAL,21.65,2,2,21,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:4),51-53,51,53
+0021900817,2020-02-12,DEN,LAL,21.67,2,2,20,LAL,DEN,foul,2,False,False,Murray S.FOUL (P1.PN) (M.Ayotte),,51-53,51,53
+0021900817,2020-02-12,DEN,LAL,21.67,2,2,20,LAL,LAL,ft_miss,11,False,False,,MISS Davis Free Throw 1 of 2,51-53,51,53
+0021900817,2020-02-12,DEN,LAL,21.67,2,2,20,LAL,LAL,reb,1,False,False,,Lakers Rebound,51-53,51,53
+0021900817,2020-02-12,DEN,LAL,21.67,2,2,20,LAL,LAL,ft_make,12,False,False,,Davis Free Throw 2 of 2 (15 PTS),51-54,51,54
+0021900817,2020-02-12,DEN,LAL,21.97,2,2,2,DEN,DEN,fg_miss,101,False,False,MISS Murray 8' Driving Floating Jump Shot,,51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.03,2,1,58,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:4),51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.1,2,1,54,LAL,LAL,fg_miss,74,False,False,,MISS James 2' Running Reverse Layup,51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.12,2,1,53,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:3),,51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.25,2,1,45,DEN,DEN,tov,1,False,True,Craig Bad Pass Turnover (P1.T5),,51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.25,2,1,45,DEN,LAL,steal,1,False,True,steal,steal,51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.33,2,1,40,LAL,LAL,fg3_miss,1,False,False,,MISS Davis 25' 3PT Jump Shot,51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.37,2,1,38,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:3 Def:4),51-54,51,54
+0021900817,2020-02-12,DEN,LAL,22.37,2,1,38,LAL,LAL,fg_make,72,False,False,,Howard 1' Putback Layup (8 PTS),51-56,51,56
+0021900817,2020-02-12,DEN,LAL,22.37,2,1,38,LAL,DEN,foul,2,False,False,Jokic S.FOUL (P2.PN) (J.Capers),,51-56,51,56
+0021900817,2020-02-12,DEN,LAL,22.37,2,1,38,LAL,LAL,ft_make,10,False,False,,Howard Free Throw 1 of 1 (9 PTS),51-57,51,57
+0021900817,2020-02-12,DEN,LAL,22.72,2,1,17,DEN,DEN,fg_make,99,False,False,Jokic 2' Cutting Finger Roll Layup Shot (15 PTS) (Murray 5 AST),,53-57,53,57
+0021900817,2020-02-12,DEN,LAL,23.1,2,0,54,LAL,LAL,fg_miss,47,False,False,,MISS James 4' Turnaround Jump Shot,53-57,53,57
+0021900817,2020-02-12,DEN,LAL,23.13,2,0,52,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:4),,53-57,53,57
+0021900817,2020-02-12,DEN,LAL,23.18,2,0,49,DEN,DEN,fg_make,41,False,False,Harris 1' Running Layup (2 PTS) (Jokic 2 AST),,55-57,55,57
+0021900817,2020-02-12,DEN,LAL,23.43,2,0,34,LAL,LAL,fg_make,79,False,False,,Bradley 18' Pullup Jump Shot (7 PTS) (James 6 AST),55-59,55,59
+0021900817,2020-02-12,DEN,LAL,23.67,2,0,20,DEN,DEN,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,55-59,55,59
+0021900817,2020-02-12,DEN,LAL,23.72,2,0,17,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:5),55-59,55,59
+0021900817,2020-02-12,DEN,LAL,24.0,2,0,0,LAL,LAL,fg_make,6,False,False,,James 2' Driving Layup (13 PTS),55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.0,2,0,0,LAL,DEN,foul,2,False,False,Grant S.FOUL (P1.PN) (R.Acosta),,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.0,2,0,0,LAL,LAL,ft_miss,10,False,False,,MISS James Free Throw 1 of 1,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.0,2,0,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.0,2,0,0,LAL,,period_end,0,False,False,,,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.0,3,12,0,LAL,,period_start,0,False,False,,,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.2,3,11,48,LAL,DEN,violation,5,False,False,Jokic Violation:Kicked Ball (R.Acosta),,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.33,3,11,40,LAL,LAL,tov,1,False,True,,James Bad Pass Turnover (P1.T4),55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.33,3,11,40,LAL,DEN,steal,1,False,True,steal,steal,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.48,3,11,31,DEN,DEN,fg_miss,101,False,False,MISS Harris 8' Driving Floating Jump Shot,,55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.5,3,11,30,LAL,LAL,reb,0,False,False,,Green REBOUND (Off:0 Def:1),55-61,55,61
+0021900817,2020-02-12,DEN,LAL,24.6,3,11,24,LAL,LAL,fg3_make,1,False,False,,Green 3PT Jump Shot (3 PTS) (James 7 AST),55-64,55,64
+0021900817,2020-02-12,DEN,LAL,25.08,3,10,55,DEN,DEN,fg_miss,63,False,False,MISS Jokic 15' Fadeaway Jumper,,55-64,55,64
+0021900817,2020-02-12,DEN,LAL,25.17,3,10,50,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:6),55-64,55,64
+0021900817,2020-02-12,DEN,LAL,25.35,3,10,39,LAL,LAL,fg_make,9,False,False,,James 2' Driving Dunk (15 PTS),55-66,55,66
+0021900817,2020-02-12,DEN,LAL,25.37,3,10,38,DEN,LAL,violation,1,False,False,,Lakers Violation: Delay of game Violation,55-66,55,66
+0021900817,2020-02-12,DEN,LAL,25.67,3,10,20,DEN,DEN,fg_make,86,False,False,Murray 15' Turnaround Fadeaway (11 PTS),,57-66,57,66
+0021900817,2020-02-12,DEN,LAL,25.97,3,10,2,LAL,LAL,fg3_miss,1,False,False,,MISS Bradley 25' 3PT Jump Shot,57-66,57,66
+0021900817,2020-02-12,DEN,LAL,26.02,3,9,59,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:5),,57-66,57,66
+0021900817,2020-02-12,DEN,LAL,26.07,3,9,56,DEN,LAL,foul,2,False,False,,James S.FOUL (P1.T1) (J.Capers),57-66,57,66
+0021900817,2020-02-12,DEN,LAL,26.07,3,9,56,DEN,DEN,ft_miss,11,False,False,MISS Murray Free Throw 1 of 2,,57-66,57,66
+0021900817,2020-02-12,DEN,LAL,26.07,3,9,56,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,57-66,57,66
+0021900817,2020-02-12,DEN,LAL,26.07,3,9,56,DEN,DEN,ft_make,12,False,False,Murray Free Throw 2 of 2 (12 PTS),,58-66,58,66
+0021900817,2020-02-12,DEN,LAL,26.13,3,9,52,LAL,LAL,fg3_miss,79,False,False,,MISS James 29' 3PT Pullup Jump Shot,58-66,58,66
+0021900817,2020-02-12,DEN,LAL,26.18,3,9,49,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:4),,58-66,58,66
+0021900817,2020-02-12,DEN,LAL,26.33,3,9,40,DEN,DEN,fg3_make,1,False,False,Grant 24' 3PT Jump Shot (5 PTS) (Murray 6 AST),,61-66,61,66
+0021900817,2020-02-12,DEN,LAL,26.63,3,9,22,LAL,LAL,fg_miss,63,False,False,,MISS Davis 13' Fadeaway Jumper,61-66,61,66
+0021900817,2020-02-12,DEN,LAL,26.68,3,9,19,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:5),,61-66,61,66
+0021900817,2020-02-12,DEN,LAL,26.77,3,9,14,DEN,LAL,foul,2,False,False,,Davis S.FOUL (P2.T2) (M.Ayotte),61-66,61,66
+0021900817,2020-02-12,DEN,LAL,26.77,3,9,14,DEN,DEN,ft_make,11,False,False,Grant Free Throw 1 of 2 (6 PTS),,62-66,62,66
+0021900817,2020-02-12,DEN,LAL,26.77,3,9,14,DEN,DEN,ft_make,12,False,False,Grant Free Throw 2 of 2 (7 PTS),,63-66,63,66
+0021900817,2020-02-12,DEN,LAL,27.0,3,9,0,LAL,LAL,tov,2,False,True,,Howard Lost Ball Turnover (P2.T5),63-66,63,66
+0021900817,2020-02-12,DEN,LAL,27.0,3,9,0,LAL,DEN,steal,2,False,True,steal,steal,63-66,63,66
+0021900817,2020-02-12,DEN,LAL,27.28,3,8,43,DEN,DEN,fg3_make,1,False,False,Jokic 24' 3PT Jump Shot (18 PTS) (Murray 7 AST),,66-66,66,66
+0021900817,2020-02-12,DEN,LAL,27.32,3,8,41,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.4 Short 0),66-66,66,66
+0021900817,2020-02-12,DEN,LAL,27.52,3,8,29,LAL,LAL,fg_make,75,False,False,,James 2' Driving Finger Roll Layup (17 PTS) (Howard 2 AST),66-68,66,68
+0021900817,2020-02-12,DEN,LAL,27.85,3,8,9,DEN,DEN,fg_make,101,False,False,Jokic 8' Driving Floating Jump Shot (20 PTS) (Craig 4 AST),,68-68,68,68
+0021900817,2020-02-12,DEN,LAL,28.15,3,7,51,LAL,LAL,tov,1,False,True,,James Bad Pass Turnover (P2.T6),68-68,68,68
+0021900817,2020-02-12,DEN,LAL,28.15,3,7,51,LAL,DEN,steal,1,False,True,steal,steal,68-68,68,68
+0021900817,2020-02-12,DEN,LAL,28.52,3,7,29,DEN,DEN,fg_miss,101,False,False,MISS Grant 7' Driving Floating Jump Shot,,68-68,68,68
+0021900817,2020-02-12,DEN,LAL,28.57,3,7,26,LAL,LAL,reb,0,False,False,,Green REBOUND (Off:0 Def:2),68-68,68,68
+0021900817,2020-02-12,DEN,LAL,28.73,3,7,16,LAL,LAL,fg_make,98,False,False,,Howard 2' Cutting Layup Shot (11 PTS) (James 8 AST),68-70,68,70
+0021900817,2020-02-12,DEN,LAL,28.73,3,7,16,LAL,DEN,foul,2,False,False,Craig S.FOUL (P3.T1) (J.Capers),,68-70,68,70
+0021900817,2020-02-12,DEN,LAL,28.73,3,7,16,LAL,LAL,ft_make,10,False,False,,Howard Free Throw 1 of 1 (12 PTS),68-71,68,71
+0021900817,2020-02-12,DEN,LAL,28.95,3,7,3,DEN,DEN,fg_make,98,False,False,Harris 2' Cutting Layup Shot (4 PTS) (Murray 8 AST),,70-71,70,71
+0021900817,2020-02-12,DEN,LAL,29.17,3,6,50,LAL,LAL,fg_miss,79,False,False,,MISS Davis 19' Pullup Jump Shot,70-71,70,71
+0021900817,2020-02-12,DEN,LAL,29.23,3,6,46,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,70-71,70,71
+0021900817,2020-02-12,DEN,LAL,29.3,3,6,42,LAL,DEN,foul,26,False,False,Grant Offensive Charge Foul (P2.T2) (J.Capers),,70-71,70,71
+0021900817,2020-02-12,DEN,LAL,29.3,3,6,42,DEN,DEN,tov,37,False,False,Grant Offensive Foul Turnover (P1.T6),,70-71,70,71
+0021900817,2020-02-12,DEN,LAL,29.5,3,6,30,LAL,DEN,foul,2,False,False,Grant S.FOUL (P3.T3) (J.Capers),,70-71,70,71
+0021900817,2020-02-12,DEN,LAL,29.5,3,6,30,LAL,LAL,ft_make,11,False,False,,Howard Free Throw 1 of 2 (13 PTS),70-72,70,72
+0021900817,2020-02-12,DEN,LAL,29.5,3,6,30,LAL,LAL,ft_miss,12,False,False,,MISS Howard Free Throw 2 of 2,70-72,70,72
+0021900817,2020-02-12,DEN,LAL,29.53,3,6,28,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:5),,70-72,70,72
+0021900817,2020-02-12,DEN,LAL,29.9,3,6,6,DEN,DEN,fg_make,99,False,False,Murray 1' Cutting Finger Roll Layup Shot (14 PTS) (Jokic 3 AST),,72-72,72,72
+0021900817,2020-02-12,DEN,LAL,30.0,3,6,0,LAL,LAL,fg3_make,1,False,False,,Bradley 3PT Jump Shot (10 PTS) (James 9 AST),72-75,72,75
+0021900817,2020-02-12,DEN,LAL,30.33,3,5,40,DEN,DEN,fg_make,63,False,False,Murray 19' Fadeaway Jumper (16 PTS),,74-75,74,75
+0021900817,2020-02-12,DEN,LAL,30.57,3,5,26,LAL,DEN,foul,1,False,False,Murray P.FOUL (P2.T4) (R.Acosta),,74-75,74,75
+0021900817,2020-02-12,DEN,LAL,30.73,3,5,16,LAL,DEN,foul,2,False,False,Jokic S.FOUL (P3.PN) (M.Ayotte),,74-75,74,75
+0021900817,2020-02-12,DEN,LAL,30.73,3,5,16,LAL,LAL,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,74-75,74,75
+0021900817,2020-02-12,DEN,LAL,30.73,3,5,16,LAL,LAL,reb,1,False,False,,Lakers Rebound,74-75,74,75
+0021900817,2020-02-12,DEN,LAL,30.73,3,5,16,LAL,LAL,ft_make,12,False,False,,Howard Free Throw 2 of 2 (14 PTS),74-76,74,76
+0021900817,2020-02-12,DEN,LAL,30.95,3,5,3,DEN,DEN,tov,1,False,True,Murray Bad Pass Turnover (P2.T7),,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,30.95,3,5,3,DEN,LAL,steal,1,False,True,steal,steal,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.27,3,4,44,LAL,DEN,foul,2,False,False,Jokic S.FOUL (P4.PN) (R.Acosta),,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.27,3,4,44,LAL,LAL,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.27,3,4,44,LAL,LAL,reb,1,False,False,,Lakers Rebound,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.27,3,4,44,LAL,LAL,ft_miss,12,False,False,,MISS Howard Free Throw 2 of 2,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.32,3,4,41,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:6),,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.67,3,4,20,DEN,DEN,fg_miss,47,False,False,MISS Grant 18' Turnaround Jump Shot,,74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.73,3,4,16,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:6),74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.78,3,4,13,DEN,LAL,foul,4,False,False,,Howard OFF.Foul (P3) (M.Ayotte),74-76,74,76
+0021900817,2020-02-12,DEN,LAL,31.78,3,4,13,LAL,LAL,tov,37,False,False,,Howard Offensive Foul Turnover (P3.T7),74-76,74,76
+0021900817,2020-02-12,DEN,LAL,32.1,3,3,54,DEN,DEN,fg_make,6,False,False,Grant 2' Driving Layup (9 PTS) (Millsap 3 AST),,76-76,76,76
+0021900817,2020-02-12,DEN,LAL,32.28,3,3,43,LAL,DEN,foul,1,False,False,Millsap P.FOUL (P3.PN) (M.Ayotte),,76-76,76,76
+0021900817,2020-02-12,DEN,LAL,32.28,3,3,43,LAL,LAL,ft_make,11,False,False,,Davis Free Throw 1 of 2 (16 PTS),76-77,76,77
+0021900817,2020-02-12,DEN,LAL,32.28,3,3,43,LAL,LAL,ft_make,12,False,False,,Davis Free Throw 2 of 2 (17 PTS),76-78,76,78
+0021900817,2020-02-12,DEN,LAL,32.67,3,3,20,DEN,DEN,fg3_miss,86,False,False,MISS Murray 53' 3PT Turnaround Fadeaway Shot,,76-78,76,78
+0021900817,2020-02-12,DEN,LAL,32.7,3,3,18,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,76-78,76,78
+0021900817,2020-02-12,DEN,LAL,32.7,3,3,18,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#8),,76-78,76,78
+0021900817,2020-02-12,DEN,LAL,32.87,3,3,8,LAL,LAL,fg3_miss,1,False,False,,MISS Kuzma 26' 3PT Jump Shot,76-78,76,78
+0021900817,2020-02-12,DEN,LAL,32.9,3,3,6,DEN,DEN,reb,0,False,False,Dozier REBOUND (Off:0 Def:2),,76-78,76,78
+0021900817,2020-02-12,DEN,LAL,33.1,3,2,54,DEN,DEN,fg_make,5,False,False,Grant 3' Layup (11 PTS) (Millsap 4 AST),,78-78,78,78
+0021900817,2020-02-12,DEN,LAL,33.25,3,2,45,LAL,LAL,fg_make,52,False,False,,Davis 1' Alley Oop Dunk (19 PTS) (Rondo 1 AST),78-80,78,80
+0021900817,2020-02-12,DEN,LAL,33.53,3,2,28,DEN,DEN,fg_make,63,False,False,Murray 17' Fadeaway Jumper (18 PTS) (Grant 1 AST),,80-80,80,80
+0021900817,2020-02-12,DEN,LAL,33.73,3,2,16,LAL,LAL,fg_miss,102,False,False,,MISS Davis 13' Driving Floating Bank Jump Shot,80-80,80,80
+0021900817,2020-02-12,DEN,LAL,33.77,3,2,14,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:0 Def:3),,80-80,80,80
+0021900817,2020-02-12,DEN,LAL,33.98,3,2,1,DEN,DEN,fg_make,75,False,False,Murray 3' Driving Finger Roll Layup (20 PTS),,82-80,82,80
+0021900817,2020-02-12,DEN,LAL,34.35,3,1,39,LAL,LAL,tov,2,False,True,,Kuzma Lost Ball Turnover (P1.T8),82-80,82,80
+0021900817,2020-02-12,DEN,LAL,34.35,3,1,39,LAL,DEN,steal,2,False,True,steal,steal,82-80,82,80
+0021900817,2020-02-12,DEN,LAL,34.45,3,1,33,DEN,DEN,fg_make,75,False,False,Murray 1' Driving Finger Roll Layup (22 PTS),,84-80,84,80
+0021900817,2020-02-12,DEN,LAL,34.45,3,1,33,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.5 Short 0),84-80,84,80
+0021900817,2020-02-12,DEN,LAL,34.65,3,1,21,LAL,LAL,tov,2,False,True,,James Lost Ball Turnover (P3.T9),84-80,84,80
+0021900817,2020-02-12,DEN,LAL,34.65,3,1,21,LAL,DEN,steal,2,False,True,steal,steal,84-80,84,80
+0021900817,2020-02-12,DEN,LAL,34.7,3,1,18,DEN,LAL,foul,2,False,False,,Caldwell-Pope S.FOUL (P1.T3) (M.Ayotte),84-80,84,80
+0021900817,2020-02-12,DEN,LAL,34.7,3,1,18,DEN,DEN,ft_miss,11,False,False,MISS Morris Free Throw 1 of 2,,84-80,84,80
+0021900817,2020-02-12,DEN,LAL,34.7,3,1,18,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,84-80,84,80
+0021900817,2020-02-12,DEN,LAL,34.7,3,1,18,DEN,DEN,ft_make,12,False,False,Morris Free Throw 2 of 2 (10 PTS),,85-80,85,80
+0021900817,2020-02-12,DEN,LAL,34.97,3,1,2,LAL,LAL,fg3_miss,80,False,False,,MISS Rondo 26' 3PT Step Back Jump Shot,85-80,85,80
+0021900817,2020-02-12,DEN,LAL,35.02,3,0,59,DEN,DEN,reb,0,False,False,Vonleh REBOUND (Off:1 Def:2),,85-80,85,80
+0021900817,2020-02-12,DEN,LAL,35.27,3,0,44,DEN,DEN,fg_miss,105,False,False,MISS Millsap 5' Turnaround Fadeaway Bank Jump Shot,,85-80,85,80
+0021900817,2020-02-12,DEN,LAL,35.3,3,0,42,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:0 Def:2),85-80,85,80
+0021900817,2020-02-12,DEN,LAL,35.38,3,0,37,LAL,LAL,fg_make,75,False,False,,James 4' Driving Finger Roll Layup (19 PTS),85-82,85,82
+0021900817,2020-02-12,DEN,LAL,35.52,3,0,29,DEN,DEN,fg_make,63,False,False,Morris 23' Fadeaway Jumper (12 PTS),,87-82,87,82
+0021900817,2020-02-12,DEN,LAL,35.8,3,0,12,LAL,LAL,fg_make,75,False,False,,Rondo 3' Driving Finger Roll Layup (2 PTS),87-84,87,84
+0021900817,2020-02-12,DEN,LAL,35.95,3,0,3,DEN,DEN,fg_miss,86,False,False,MISS Murray 17' Turnaround Fadeaway Shot,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,35.95,3,0,3,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:7),87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.0,3,0,0,LAL,,period_end,0,False,False,,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.0,4,12,0,LAL,,period_start,0,False,False,,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.12,4,11,53,DEN,LAL,foul,1,False,False,,Rondo P.FOUL (P3.T1) (R.Acosta),87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.23,4,11,46,DEN,DEN,fg_miss,79,False,False,MISS Morris 20' Pullup Jump Shot,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.28,4,11,43,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:1 Def:3),,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.33,4,11,40,DEN,DEN,fg_miss,79,False,False,MISS Dozier 18' Pullup Jump Shot,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.38,4,11,37,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:0 Def:3),87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.67,4,11,20,LAL,DEN,foul,1,False,False,Vonleh P.FOUL (P2.T1) (R.Acosta),,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.73,4,11,16,LAL,LAL,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.73,4,11,16,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,36.73,4,11,16,DEN,LAL,foul,1,False,False,,McGee P.FOUL (P3.T2) (J.Capers),87-84,87,84
+0021900817,2020-02-12,DEN,LAL,37.03,4,10,58,DEN,LAL,foul,2,False,False,,Kuzma S.FOUL (P2.T3) (J.Capers),87-84,87,84
+0021900817,2020-02-12,DEN,LAL,37.03,4,10,58,DEN,DEN,ft_miss,11,False,False,MISS Millsap Free Throw 1 of 2,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,37.03,4,10,58,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,87-84,87,84
+0021900817,2020-02-12,DEN,LAL,37.03,4,10,58,DEN,DEN,ft_make,12,False,False,Millsap Free Throw 2 of 2 (8 PTS),,88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.3,4,10,42,LAL,LAL,fg3_miss,80,False,False,,MISS Caldwell-Pope 25' 3PT Step Back Jump Shot,88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.32,4,10,41,LAL,LAL,reb,0,False,False,,Lakers Rebound,88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.32,4,10,41,LAL,DEN,foul,3,False,False,Dozier L.B.FOUL (P1.T2) (J.Capers),,88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.5,4,10,30,LAL,LAL,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.57,4,10,26,DEN,DEN,reb,0,False,False,Vonleh REBOUND (Off:1 Def:3),,88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.83,4,10,10,DEN,DEN,fg_miss,6,False,False,MISS Millsap 2' Driving Layup,,88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.87,4,10,8,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:8),88-84,88,84
+0021900817,2020-02-12,DEN,LAL,37.92,4,10,5,LAL,LAL,fg_make,41,False,False,,James 6' Running Layup (21 PTS),88-86,88,86
+0021900817,2020-02-12,DEN,LAL,37.92,4,10,5,LAL,DEN,foul,2,False,False,Craig S.FOUL (P4.T3) (M.Ayotte),,88-86,88,86
+0021900817,2020-02-12,DEN,LAL,37.92,4,10,5,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 4 Short 0),,88-86,88,86
+0021900817,2020-02-12,DEN,LAL,37.92,4,10,5,DEN,LAL,ft_make,10,False,False,,James Free Throw 1 of 1 (22 PTS),88-87,88,87
+0021900817,2020-02-12,DEN,LAL,38.3,4,9,42,DEN,DEN,fg3_make,1,False,False,Murray 25' 3PT Jump Shot (25 PTS) (Morris 2 AST),,91-87,91,87
+0021900817,2020-02-12,DEN,LAL,38.6,4,9,24,LAL,LAL,fg3_make,1,False,False,,Caldwell-Pope 26' 3PT Jump Shot (6 PTS) (James 10 AST),91-90,91,90
+0021900817,2020-02-12,DEN,LAL,38.97,4,9,2,DEN,DEN,tov,2,False,True,Vonleh Lost Ball Turnover (P1.T9),,91-90,91,90
+0021900817,2020-02-12,DEN,LAL,38.97,4,9,2,DEN,LAL,steal,2,False,True,steal,steal,91-90,91,90
+0021900817,2020-02-12,DEN,LAL,39.03,4,8,58,LAL,LAL,fg_make,41,False,False,,James 1' Running Layup (24 PTS) (Caldwell-Pope 1 AST),91-92,91,92
+0021900817,2020-02-12,DEN,LAL,39.42,4,8,35,DEN,LAL,foul,2,False,False,,James S.FOUL (P2.T4) (R.Acosta),91-92,91,92
+0021900817,2020-02-12,DEN,LAL,39.42,4,8,35,DEN,DEN,ft_make,11,False,False,Vonleh Free Throw 1 of 2 (4 PTS),,92-92,92,92
+0021900817,2020-02-12,DEN,LAL,39.42,4,8,35,DEN,DEN,ft_miss,12,False,False,MISS Vonleh Free Throw 2 of 2,,92-92,92,92
+0021900817,2020-02-12,DEN,LAL,39.45,4,8,33,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:3 Def:5),92-92,92,92
+0021900817,2020-02-12,DEN,LAL,39.67,4,8,20,LAL,LAL,fg3_make,1,False,False,,Davis 25' 3PT Jump Shot (22 PTS) (James 11 AST),92-95,92,95
+0021900817,2020-02-12,DEN,LAL,39.97,4,8,2,DEN,DEN,fg_make,101,False,False,Millsap 7' Driving Floating Jump Shot (10 PTS) (Morris 3 AST),,94-95,94,95
+0021900817,2020-02-12,DEN,LAL,40.3,4,7,42,LAL,LAL,fg_miss,5,False,False,,MISS Howard 4' Layup,94-95,94,95
+0021900817,2020-02-12,DEN,LAL,40.33,4,7,40,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:2),,94-95,94,95
+0021900817,2020-02-12,DEN,LAL,40.42,4,7,35,DEN,DEN,fg_miss,74,False,False,MISS Murray 1' Running Reverse Layup,,94-95,94,95
+0021900817,2020-02-12,DEN,LAL,40.47,4,7,32,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:4),94-95,94,95
+0021900817,2020-02-12,DEN,LAL,40.48,4,7,31,LAL,LAL,fg_make,110,False,False,,James 1' Running Reverse Dunk Shot (26 PTS) (Caruso 4 AST),94-97,94,97
+0021900817,2020-02-12,DEN,LAL,40.48,4,7,31,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 5 Short 0),,94-97,94,97
+0021900817,2020-02-12,DEN,LAL,40.9,4,7,6,DEN,DEN,fg3_miss,1,False,False,MISS Murray 25' 3PT Jump Shot,,94-97,94,97
+0021900817,2020-02-12,DEN,LAL,40.93,4,7,4,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:5),,94-97,94,97
+0021900817,2020-02-12,DEN,LAL,41.15,4,6,51,DEN,DEN,fg_make,75,False,False,Grant 2' Driving Finger Roll Layup (13 PTS) (Morris 4 AST),,96-97,96,97
+0021900817,2020-02-12,DEN,LAL,41.47,4,6,32,LAL,LAL,tov,45,False,False,,Caruso Out of Bounds - Bad Pass Turnover Turnover (P1.T10),96-97,96,97
+0021900817,2020-02-12,DEN,LAL,41.82,4,6,11,DEN,LAL,foul,2,False,False,,Green S.FOUL (P1.PN) (J.Capers),96-97,96,97
+0021900817,2020-02-12,DEN,LAL,41.82,4,6,11,DEN,DEN,ft_make,11,False,False,Harris Free Throw 1 of 2 (5 PTS),,97-97,97,97
+0021900817,2020-02-12,DEN,LAL,41.82,4,6,11,DEN,DEN,ft_make,12,False,False,Harris Free Throw 2 of 2 (6 PTS),,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.0,4,6,0,LAL,LAL,tov,2,False,True,,Davis Lost Ball Turnover (P2.T11),98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.0,4,6,0,LAL,DEN,steal,2,False,True,steal,steal,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.33,4,5,40,DEN,DEN,fg3_miss,1,False,False,MISS Harris 24' 3PT Jump Shot,,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.38,4,5,37,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:3 Def:6),98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.62,4,5,23,LAL,LAL,fg3_miss,1,False,False,,MISS Davis 27' 3PT Jump Shot,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.65,4,5,21,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:3),,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.72,4,5,17,DEN,DEN,fg3_miss,2,False,False,MISS Morris 24' 3PT Running Jump Shot,,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,42.77,4,5,14,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:7),98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.02,4,4,59,LAL,LAL,fg_miss,5,False,False,,MISS Davis 3' Layup,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.05,4,4,57,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:5 Def:6),98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.05,4,4,57,LAL,LAL,fg_miss,72,False,False,,MISS Howard 2' Putback Layup,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.05,4,4,57,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:5 Def:6),98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.05,4,4,57,LAL,DEN,foul,2,False,False,Grant S.FOUL (P4.T4) (J.Capers),,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.05,4,4,57,LAL,LAL,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.05,4,4,57,LAL,LAL,reb,1,False,False,,Lakers Rebound,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.05,4,4,57,LAL,LAL,ft_miss,12,False,False,,MISS Howard Free Throw 2 of 2,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.08,4,4,55,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:6),,98-97,98,97
+0021900817,2020-02-12,DEN,LAL,43.33,4,4,40,DEN,DEN,fg3_make,80,False,False,Murray 24' 3PT Step Back Jump Shot (28 PTS),,101-97,101,97
+0021900817,2020-02-12,DEN,LAL,43.63,4,4,22,LAL,LAL,fg3_miss,1,False,False,,MISS Bradley 25' 3PT Jump Shot,101-97,101,97
+0021900817,2020-02-12,DEN,LAL,43.68,4,4,19,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:6),,101-97,101,97
+0021900817,2020-02-12,DEN,LAL,43.73,4,4,16,DEN,DEN,fg_make,41,False,False,Harris 1' Running Layup (8 PTS) (Murray 9 AST),,103-97,103,97
+0021900817,2020-02-12,DEN,LAL,43.73,4,4,16,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),103-97,103,97
+0021900817,2020-02-12,DEN,LAL,43.9,4,4,6,LAL,LAL,fg3_make,80,False,False,,Caldwell-Pope 3PT Step Back Jump Shot (9 PTS) (Bradley 2 AST),103-100,103,100
+0021900817,2020-02-12,DEN,LAL,44.25,4,3,45,,DEN,jump_ball,0,False,False,Jump Ball Jokic vs. Davis: Tip to James,,103-100,103,100
+0021900817,2020-02-12,DEN,LAL,44.25,4,3,45,DEN,DEN,tov,2,False,True,Jokic Lost Ball Turnover (P2.T10),,103-100,103,100
+0021900817,2020-02-12,DEN,LAL,44.25,4,3,45,DEN,LAL,steal,2,False,True,steal,steal,103-100,103,100
+0021900817,2020-02-12,DEN,LAL,44.25,4,3,45,LAL,DEN,foul,1,False,False,Morris P.FOUL (P2.PN) (J.Capers),,103-100,103,100
+0021900817,2020-02-12,DEN,LAL,44.25,4,3,45,LAL,LAL,ft_make,11,False,False,,Caruso Free Throw 1 of 2 (8 PTS),103-101,103,101
+0021900817,2020-02-12,DEN,LAL,44.25,4,3,45,LAL,LAL,ft_miss,12,False,False,,MISS Caruso Free Throw 2 of 2,103-101,103,101
+0021900817,2020-02-12,DEN,LAL,44.28,4,3,43,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:7),,103-101,103,101
+0021900817,2020-02-12,DEN,LAL,44.63,4,3,22,DEN,DEN,fg_miss,5,True,False,MISS Jokic 4' Layup,,103-101,103,101
+0021900817,2020-02-12,DEN,LAL,44.63,4,3,22,DEN,LAL,block,5,True,False,block,block,103-101,103,101
+0021900817,2020-02-12,DEN,LAL,44.63,4,3,22,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:8),103-101,103,101
+0021900817,2020-02-12,DEN,LAL,44.63,4,3,22,LAL,DEN,foul,1,False,False,Jokic P.FOUL (P5.PN) (R.Acosta),,103-101,103,101
+0021900817,2020-02-12,DEN,LAL,44.63,4,3,22,LAL,LAL,ft_make,11,False,False,,Davis Free Throw 1 of 2 (23 PTS),103-102,103,102
+0021900817,2020-02-12,DEN,LAL,44.63,4,3,22,LAL,LAL,ft_make,12,False,False,,Davis Free Throw 2 of 2 (24 PTS),103-103,103,103
+0021900817,2020-02-12,DEN,LAL,44.9,4,3,6,DEN,DEN,fg_miss,6,True,False,MISS Harris 2' Driving Layup,,103-103,103,103
+0021900817,2020-02-12,DEN,LAL,44.9,4,3,6,DEN,LAL,block,6,True,False,block,block,103-103,103,103
+0021900817,2020-02-12,DEN,LAL,44.9,4,3,6,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,103-103,103,103
+0021900817,2020-02-12,DEN,LAL,44.95,4,3,3,DEN,LAL,foul,2,False,False,,Bradley S.FOUL (P2.PN) (M.Ayotte),103-103,103,103
+0021900817,2020-02-12,DEN,LAL,44.95,4,3,3,DEN,DEN,ft_make,11,False,False,Murray Free Throw 1 of 2 (29 PTS),,104-103,104,103
+0021900817,2020-02-12,DEN,LAL,44.95,4,3,3,DEN,DEN,ft_make,12,False,False,Murray Free Throw 2 of 2 (30 PTS),,105-103,105,103
+0021900817,2020-02-12,DEN,LAL,45.1,4,2,54,LAL,LAL,fg_make,75,False,False,,James 1' Driving Finger Roll Layup (28 PTS),105-105,105,105
+0021900817,2020-02-12,DEN,LAL,45.32,4,2,41,DEN,DEN,fg_miss,63,False,False,MISS Murray 18' Fadeaway Jumper,,105-105,105,105
+0021900817,2020-02-12,DEN,LAL,45.37,4,2,38,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:5),105-105,105,105
+0021900817,2020-02-12,DEN,LAL,45.53,4,2,28,LAL,LAL,fg_miss,1,False,False,,MISS James 18' Jump Shot,105-105,105,105
+0021900817,2020-02-12,DEN,LAL,45.57,4,2,26,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:8),105-105,105,105
+0021900817,2020-02-12,DEN,LAL,45.6,4,2,24,LAL,LAL,fg_miss,75,False,False,,MISS James 1' Driving Finger Roll Layup,105-105,105,105
+0021900817,2020-02-12,DEN,LAL,45.6,4,2,24,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:1 Def:8),105-105,105,105
+0021900817,2020-02-12,DEN,LAL,45.6,4,2,24,LAL,LAL,fg_make,97,False,False,,Davis 1' Tip Layup Shot (26 PTS),105-107,105,107
+0021900817,2020-02-12,DEN,LAL,46.0,4,2,0,DEN,DEN,fg_miss,63,False,False,MISS Jokic 13' Fadeaway Jumper,,105-107,105,107
+0021900817,2020-02-12,DEN,LAL,46.03,4,1,58,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:1 Def:1),105-107,105,107
+0021900817,2020-02-12,DEN,LAL,46.28,4,1,43,LAL,LAL,fg_make,99,False,False,,Caruso 2' Cutting Finger Roll Layup Shot (10 PTS) (James 12 AST),105-109,105,109
+0021900817,2020-02-12,DEN,LAL,46.28,4,1,43,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 6 Short 0),,105-109,105,109
+0021900817,2020-02-12,DEN,LAL,46.4,4,1,36,DEN,LAL,foul,1,False,False,,Caldwell-Pope P.FOUL (P2.PN) (M.Ayotte),105-109,105,109
+0021900817,2020-02-12,DEN,LAL,46.4,4,1,36,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (21 PTS),,106-109,106,109
+0021900817,2020-02-12,DEN,LAL,46.4,4,1,36,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (22 PTS),,107-109,107,109
+0021900817,2020-02-12,DEN,LAL,46.77,4,1,14,LAL,LAL,fg_make,75,False,False,,James 2' Driving Finger Roll Layup (30 PTS),107-111,107,111
+0021900817,2020-02-12,DEN,LAL,47.0,4,1,0,DEN,DEN,fg_make,44,False,False,Grant 3' Reverse Layup (15 PTS) (Jokic 4 AST),,109-111,109,111
+0021900817,2020-02-12,DEN,LAL,47.27,4,0,44,LAL,LAL,fg3_miss,1,False,False,,MISS Davis 25' 3PT Jump Shot,109-111,109,111
+0021900817,2020-02-12,DEN,LAL,47.33,4,0,40,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:7),,109-111,109,111
+0021900817,2020-02-12,DEN,LAL,47.62,4,0,23,DEN,DEN,fg_make,6,False,False,Harris 3' Driving Layup (10 PTS) (Jokic 5 AST),,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,47.62,4,0,23,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.7 Short 0),111-111,111,111
+0021900817,2020-02-12,DEN,LAL,47.98,4,0,1,LAL,LAL,fg_miss,79,False,False,,MISS James 19' Pullup Jump Shot,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,47.98,4,0,1,LAL,LAL,reb,0,False,False,,Lakers Rebound,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,48.0,4,0,0,LAL,,period_end,0,False,False,,,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,48.0,5,5,0,LAL,,period_start,0,False,False,,,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,48.0,5,5,0,,DEN,jump_ball,0,False,False,Jump Ball Grant vs. Davis: Tip to James,,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,48.18,5,4,49,LAL,LAL,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,48.23,5,4,46,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:8),,111-111,111,111
+0021900817,2020-02-12,DEN,LAL,48.4,5,4,36,DEN,DEN,fg_make,99,False,False,Murray 2' Cutting Finger Roll Layup Shot (32 PTS) (Jokic 6 AST),,113-111,113,111
+0021900817,2020-02-12,DEN,LAL,48.65,5,4,21,LAL,LAL,fg_make,6,False,False,,James 1' Driving Layup (32 PTS),113-113,113,113
+0021900817,2020-02-12,DEN,LAL,49.13,5,3,52,DEN,DEN,fg3_miss,80,False,False,MISS Murray 25' 3PT Step Back Jump Shot,,113-113,113,113
+0021900817,2020-02-12,DEN,LAL,49.18,5,3,49,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:9),113-113,113,113
+0021900817,2020-02-12,DEN,LAL,49.33,5,3,40,LAL,LAL,fg_miss,6,False,False,,MISS Caruso 3' Driving Layup,113-113,113,113
+0021900817,2020-02-12,DEN,LAL,49.4,5,3,36,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:9),,113-113,113,113
+0021900817,2020-02-12,DEN,LAL,49.42,5,3,35,DEN,DEN,tov,1,False,True,Grant Bad Pass Turnover (P2.T11),,113-113,113,113
+0021900817,2020-02-12,DEN,LAL,49.42,5,3,35,DEN,LAL,steal,1,False,True,steal,steal,113-113,113,113
+0021900817,2020-02-12,DEN,LAL,49.48,5,3,31,LAL,LAL,fg3_make,1,False,False,,Davis 25' 3PT Jump Shot (29 PTS) (James 13 AST),113-116,113,116
+0021900817,2020-02-12,DEN,LAL,49.9,5,3,6,DEN,DEN,fg3_make,1,False,False,Harris 3PT Jump Shot (13 PTS) (Murray 10 AST),,116-116,116,116
+0021900817,2020-02-12,DEN,LAL,49.93,5,3,4,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.8 Short 0),116-116,116,116
+0021900817,2020-02-12,DEN,LAL,50.32,5,2,41,LAL,LAL,fg3_make,1,False,False,,Davis 25' 3PT Jump Shot (32 PTS) (James 14 AST),116-119,116,119
+0021900817,2020-02-12,DEN,LAL,50.68,5,2,19,DEN,DEN,fg_miss,1,False,False,MISS Jokic 24' Jump Shot,,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,50.72,5,2,17,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:10),116-119,116,119
+0021900817,2020-02-12,DEN,LAL,51.02,5,1,59,DEN,LAL,foul,4,False,False,,Howard OFF.Foul (P4) (J.Capers),116-119,116,119
+0021900817,2020-02-12,DEN,LAL,51.02,5,1,59,LAL,LAL,tov,37,False,False,,Howard Offensive Foul Turnover (P4.T12),116-119,116,119
+0021900817,2020-02-12,DEN,LAL,51.32,5,1,41,DEN,DEN,fg3_miss,1,False,False,MISS Grant 24' 3PT Jump Shot,,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,51.37,5,1,38,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:6),116-119,116,119
+0021900817,2020-02-12,DEN,LAL,51.67,5,1,20,LAL,LAL,fg_miss,86,False,False,,MISS James 15' Turnaround Fadeaway Shot,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,51.72,5,1,17,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:10),,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.02,5,0,59,DEN,DEN,fg_miss,6,False,False,MISS Murray 5' Driving Layup,,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.05,5,0,57,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:1 Def:9),116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.1,5,0,54,LAL,DEN,foul,1,False,False,Grant P.FOUL (P5.T1) (J.Capers),,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.28,5,0,43,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 3PT Jump Shot,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.33,5,0,40,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:7),,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.33,5,0,40,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 7 Short 0),,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.55,5,0,27,DEN,DEN,fg_miss,6,False,False,MISS Jokic 1' Driving Layup,,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.55,5,0,27,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.55,5,0,27,DEN,LAL,foul,3,False,False,,James L.B.FOUL (P3.T1) (J.Capers),116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.68,5,0,19,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P3.T12),,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.68,5,0,19,DEN,LAL,steal,1,False,True,steal,steal,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.75,5,0,15,LAL,DEN,foul,28,False,False,Harris Personal Take Foul (P2.PN) (M.Ayotte),,116-119,116,119
+0021900817,2020-02-12,DEN,LAL,52.75,5,0,15,LAL,LAL,ft_make,11,False,False,,Davis Free Throw 1 of 2 (33 PTS),116-120,116,120
+0021900817,2020-02-12,DEN,LAL,52.75,5,0,15,LAL,LAL,ft_miss,12,False,False,,MISS Davis Free Throw 2 of 2,116-120,116,120
+0021900817,2020-02-12,DEN,LAL,52.77,5,0,14,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:8),,116-120,116,120
+0021900817,2020-02-12,DEN,LAL,52.77,5,0,14,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 8 Short 0),,116-120,116,120
+0021900817,2020-02-12,DEN,LAL,52.8,5,0,12,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 27' 3PT Jump Shot,,116-120,116,120
+0021900817,2020-02-12,DEN,LAL,52.85,5,0,9,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:11),116-120,116,120
+0021900817,2020-02-12,DEN,LAL,53.0,5,0,0,LAL,,period_end,0,False,False,,,116-120,116,120

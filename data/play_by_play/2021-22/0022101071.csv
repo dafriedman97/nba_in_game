@@ -1,0 +1,412 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101071,2022-03-21,CHA,NOP,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101071,2022-03-21,CHA,NOP,0.0,1,12,0,,CHA,jump_ball,0,False,False,Jump Ball Plumlee vs. Valanciunas: Tip to Jones,,0-0,0,0
+0022101071,2022-03-21,CHA,NOP,0.33,1,11,40,NOP,NOP,fg_make,1,False,False,,Valanciunas 8' Jump Shot (2 PTS) (McCollum 1 AST),0-2,0,2
+0022101071,2022-03-21,CHA,NOP,0.65,1,11,21,CHA,CHA,fg3_miss,63,False,False,MISS Rozier 3PT Fadeaway Jumper,,0-2,0,2
+0022101071,2022-03-21,CHA,NOP,0.7,1,11,18,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:0 Def:1),0-2,0,2
+0022101071,2022-03-21,CHA,NOP,0.88,1,11,7,NOP,NOP,fg_miss,5,True,False,,MISS Valanciunas 3' Layup,0-2,0,2
+0022101071,2022-03-21,CHA,NOP,0.88,1,11,7,NOP,CHA,block,5,True,False,block,block,0-2,0,2
+0022101071,2022-03-21,CHA,NOP,0.93,1,11,4,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:1),,0-2,0,2
+0022101071,2022-03-21,CHA,NOP,0.97,1,11,2,CHA,CHA,tov,1,False,True,Bridges Bad Pass Turnover (P1.T1),,0-2,0,2
+0022101071,2022-03-21,CHA,NOP,0.97,1,11,2,CHA,NOP,steal,1,False,True,steal,steal,0-2,0,2
+0022101071,2022-03-21,CHA,NOP,1.08,1,10,55,NOP,NOP,tov,1,False,True,,Hayes Bad Pass Turnover (P1.T1),0-2,0,2
+0022101071,2022-03-21,CHA,NOP,1.08,1,10,55,NOP,CHA,steal,1,False,True,steal,steal,0-2,0,2
+0022101071,2022-03-21,CHA,NOP,1.2,1,10,48,CHA,CHA,fg3_make,2,False,False,Rozier 25' 3PT Running Jump Shot (3 PTS) (Ball 1 AST),,3-2,3,2
+0022101071,2022-03-21,CHA,NOP,1.65,1,10,21,NOP,NOP,fg_miss,6,False,False,,MISS Graham 3' Driving Layup,3-2,3,2
+0022101071,2022-03-21,CHA,NOP,1.67,1,10,20,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:1),3-2,3,2
+0022101071,2022-03-21,CHA,NOP,1.67,1,10,20,NOP,NOP,fg_miss,72,False,False,,MISS Valanciunas Putback Layup,3-2,3,2
+0022101071,2022-03-21,CHA,NOP,1.67,1,10,20,NOP,NOP,reb,0,False,False,,Pelicans Rebound,3-2,3,2
+0022101071,2022-03-21,CHA,NOP,1.67,1,10,20,NOP,CHA,foul,3,False,False,Washington L.B.FOUL (P1.T1) (P.Fraher),,3-2,3,2
+0022101071,2022-03-21,CHA,NOP,1.9,1,10,6,NOP,NOP,fg3_make,1,False,False,,McCollum 28' 3PT Jump Shot (3 PTS) (Jones 1 AST),3-5,3,5
+0022101071,2022-03-21,CHA,NOP,2.15,1,9,51,CHA,CHA,fg_make,43,False,False,Bridges 2' Alley Oop Layup (2 PTS) (Washington 1 AST),,5-5,5,5
+0022101071,2022-03-21,CHA,NOP,2.38,1,9,37,NOP,NOP,tov,4,False,False,,Graham Traveling Turnover (P1.T2),5-5,5,5
+0022101071,2022-03-21,CHA,NOP,2.58,1,9,25,CHA,CHA,tov,1,False,True,Plumlee Bad Pass Turnover (P1.T2),,5-5,5,5
+0022101071,2022-03-21,CHA,NOP,2.58,1,9,25,CHA,NOP,steal,1,False,True,steal,steal,5-5,5,5
+0022101071,2022-03-21,CHA,NOP,2.7,1,9,18,NOP,NOP,fg_make,41,False,False,,Valanciunas 5' Running Layup (4 PTS),5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.1,1,8,54,CHA,CHA,fg_miss,6,True,False,MISS Bridges 3' Driving Layup,,5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.1,1,8,54,CHA,NOP,block,6,True,False,block,block,5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.15,1,8,51,NOP,NOP,reb,0,False,False,,Jones REBOUND (Off:0 Def:1),5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.27,1,8,44,NOP,NOP,fg3_miss,1,False,False,,MISS McCollum 3PT Jump Shot,5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.28,1,8,43,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:1 Def:0),5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.5,1,8,30,NOP,NOP,fg_miss,86,False,False,,MISS McCollum 9' Turnaround Fadeaway Shot,5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.53,1,8,28,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,5-7,5,7
+0022101071,2022-03-21,CHA,NOP,3.58,1,8,25,CHA,CHA,fg3_make,103,False,False,Ball 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Bridges 1 AST),,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,3.83,1,8,10,NOP,NOP,fg_miss,1,False,False,,MISS Valanciunas 14' Jump Shot,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,3.88,1,8,7,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,3.97,1,8,2,CHA,CHA,fg3_miss,103,False,False,MISS Ball 30' 3PT Running Pull-Up Jump Shot,,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.0,1,8,0,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:2),8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.07,1,7,56,NOP,NOP,fg3_miss,103,False,False,,MISS Graham 26' 3PT Running Pull-Up Jump Shot,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.13,1,7,52,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:1),,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.4,1,7,36,CHA,CHA,fg3_miss,1,False,False,MISS Washington 3PT Jump Shot,,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.43,1,7,34,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:3),8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.65,1,7,21,NOP,NOP,fg3_miss,1,False,False,,MISS Jones 26' 3PT Jump Shot,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.72,1,7,17,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:0 Def:1),,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.88,1,7,7,CHA,CHA,fg_miss,79,False,False,MISS Ball 17' Pullup Jump Shot,,8-7,8,7
+0022101071,2022-03-21,CHA,NOP,4.95,1,7,3,NOP,NOP,reb,0,False,False,,Jones REBOUND (Off:0 Def:2),8-7,8,7
+0022101071,2022-03-21,CHA,NOP,5.03,1,6,58,NOP,NOP,fg_make,75,False,False,,Graham 2' Driving Finger Roll Layup (2 PTS),8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.03,1,6,58,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.03,1,6,58,NOP,CHA,violation,1,False,False,HORNETS Violation: Delay of game Violation,,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.22,1,6,47,CHA,CHA,fg_miss,98,False,False,MISS Plumlee 2' Cutting Layup Shot,,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.27,1,6,44,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:1),,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.27,1,6,44,CHA,CHA,fg_miss,97,False,False,MISS Plumlee Tip Layup Shot,,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.28,1,6,43,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:4),8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.6,1,6,24,NOP,NOP,fg_miss,78,False,False,,MISS Hayes 6' Floating Jump Shot,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.63,1,6,22,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:2),,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.72,1,6,17,NOP,CHA,foul,26,False,False,Plumlee Offensive Charge Foul (P1) (B.Adair),,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.72,1,6,17,CHA,CHA,tov,37,False,False,Plumlee Offensive Foul Turnover (P2.T3),,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.93,1,6,4,NOP,NOP,fg_miss,98,True,False,,MISS Hayes 4' Cutting Layup Shot,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.93,1,6,4,NOP,CHA,block,98,True,False,block,block,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,5.98,1,6,1,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:0 Def:1),,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,6.07,1,5,56,CHA,CHA,fg3_miss,2,False,False,MISS Bridges 24' 3PT Running Jump Shot,,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,6.1,1,5,54,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:5),8-9,8,9
+0022101071,2022-03-21,CHA,NOP,6.15,1,5,51,NOP,NOP,fg_miss,41,True,False,,MISS Hayes 5' Running Layup,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,6.15,1,5,51,NOP,CHA,block,41,True,False,block,block,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,6.15,1,5,51,NOP,NOP,reb,0,False,False,,Pelicans Rebound,8-9,8,9
+0022101071,2022-03-21,CHA,NOP,6.23,1,5,46,NOP,NOP,fg3_make,1,False,False,,McCollum 24' 3PT Jump Shot (6 PTS) (Alvarado 1 AST),8-12,8,12
+0022101071,2022-03-21,CHA,NOP,6.58,1,5,25,CHA,CHA,fg_make,78,False,False,Rozier 10' Floating Jump Shot (5 PTS) (Martin 1 AST),,10-12,10,12
+0022101071,2022-03-21,CHA,NOP,6.75,1,5,15,NOP,NOP,fg_make,108,False,False,,Hernangomez 2' Cutting Dunk Shot (2 PTS) (McCollum 2 AST),10-14,10,14
+0022101071,2022-03-21,CHA,NOP,7.03,1,4,58,CHA,CHA,fg_make,75,False,False,Bridges 3' Driving Finger Roll Layup (4 PTS) (Oubre Jr. 1 AST),,12-14,12,14
+0022101071,2022-03-21,CHA,NOP,7.28,1,4,43,NOP,NOP,fg3_miss,80,False,False,,MISS McCollum 26' 3PT Step Back Jump Shot,12-14,12,14
+0022101071,2022-03-21,CHA,NOP,7.32,1,4,41,CHA,CHA,reb,0,False,False,HORNETS Rebound,,12-14,12,14
+0022101071,2022-03-21,CHA,NOP,7.6,1,4,24,CHA,CHA,tov,45,False,False,Rozier Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,12-14,12,14
+0022101071,2022-03-21,CHA,NOP,7.82,1,4,11,NOP,NOP,fg_make,5,False,False,,Hernangomez 2' Layup (4 PTS) (McCollum 3 AST),12-16,12,16
+0022101071,2022-03-21,CHA,NOP,8.1,1,3,54,CHA,CHA,fg_make,5,False,False,Harrell 5' Layup (2 PTS) (Martin 2 AST),,14-16,14,16
+0022101071,2022-03-21,CHA,NOP,8.1,1,3,54,CHA,NOP,foul,2,False,False,,Jones S.FOUL (P1.T1) (P.Fraher),14-16,14,16
+0022101071,2022-03-21,CHA,NOP,8.1,1,3,54,CHA,CHA,ft_make,10,False,False,Harrell Free Throw 1 of 1 (3 PTS),,15-16,15,16
+0022101071,2022-03-21,CHA,NOP,8.5,1,3,30,NOP,NOP,fg_miss,5,False,False,,MISS Marshall 3' Layup,15-16,15,16
+0022101071,2022-03-21,CHA,NOP,8.55,1,3,27,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,15-16,15,16
+0022101071,2022-03-21,CHA,NOP,8.78,1,3,13,CHA,CHA,fg_miss,6,False,False,MISS Harrell 3' Driving Layup,,15-16,15,16
+0022101071,2022-03-21,CHA,NOP,8.8,1,3,12,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:1),15-16,15,16
+0022101071,2022-03-21,CHA,NOP,9.02,1,2,59,NOP,NOP,fg_miss,101,False,False,,MISS Alvarado 16' Driving Floating Jump Shot,15-16,15,16
+0022101071,2022-03-21,CHA,NOP,9.07,1,2,56,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:1),,15-16,15,16
+0022101071,2022-03-21,CHA,NOP,9.22,1,2,47,CHA,CHA,fg3_miss,80,False,False,MISS Oubre Jr. 26' 3PT Step Back Jump Shot,,15-16,15,16
+0022101071,2022-03-21,CHA,NOP,9.25,1,2,45,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:2),15-16,15,16
+0022101071,2022-03-21,CHA,NOP,9.48,1,2,31,NOP,NOP,fg_make,102,False,False,,Hernangomez 6' Driving Floating Bank Jump Shot (6 PTS),15-18,15,18
+0022101071,2022-03-21,CHA,NOP,9.75,1,2,15,CHA,CHA,fg3_miss,1,False,False,MISS Oubre Jr. 3PT Jump Shot,,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,9.8,1,2,12,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:3),15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.0,1,2,0,CHA,NOP,foul,4,False,False,,McCollum OFF.Foul (P1) (B.Adair),15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.0,1,2,0,NOP,NOP,tov,37,False,False,,McCollum Offensive Foul Turnover (P1.T3),15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.0,1,2,0,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.1 Short 0),15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.3,1,1,42,CHA,CHA,fg3_miss,1,False,False,MISS Washington 25' 3PT Jump Shot,,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.38,1,1,37,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.63,1,1,22,NOP,NOP,fg_miss,58,False,False,,MISS Hernangomez 7' Turnaround Hook Shot,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.7,1,1,18,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:2),,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.82,1,1,11,CHA,CHA,tov,1,False,True,Washington Bad Pass Turnover (P1.T5),,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.82,1,1,11,CHA,NOP,steal,1,False,True,steal,steal,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.9,1,1,6,NOP,NOP,tov,1,False,True,,Wallace Bad Pass Turnover (P1.T4),15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.9,1,1,6,NOP,CHA,steal,1,False,True,steal,steal,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.95,1,1,3,CHA,CHA,tov,1,False,True,Martin Bad Pass Turnover (P1.T6),,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,10.95,1,1,3,CHA,NOP,steal,1,False,True,steal,steal,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,11.0,1,1,0,NOP,CHA,foul,2,False,False,Martin S.FOUL (P1.T2) (P.Fraher),,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,11.0,1,1,0,NOP,NOP,ft_miss,11,False,False,,MISS Marshall Free Throw 1 of 2,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,11.0,1,1,0,NOP,NOP,reb,1,False,False,,Pelicans Rebound,15-18,15,18
+0022101071,2022-03-21,CHA,NOP,11.0,1,1,0,NOP,NOP,ft_make,12,False,False,,Marshall Free Throw 2 of 2 (1 PTS),15-19,15,19
+0022101071,2022-03-21,CHA,NOP,11.27,1,0,44,CHA,CHA,fg_make,101,False,False,Ball 8' Driving Floating Jump Shot (5 PTS) (Harrell 1 AST),,17-19,17,19
+0022101071,2022-03-21,CHA,NOP,11.27,1,0,44,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.2 Short 0),17-19,17,19
+0022101071,2022-03-21,CHA,NOP,11.47,1,0,32,NOP,NOP,fg_miss,75,True,False,,MISS Alvarado 4' Driving Finger Roll Layup,17-19,17,19
+0022101071,2022-03-21,CHA,NOP,11.47,1,0,32,NOP,CHA,block,75,True,False,block,block,17-19,17,19
+0022101071,2022-03-21,CHA,NOP,11.47,1,0,32,NOP,NOP,reb,0,False,False,,Pelicans Rebound,17-19,17,19
+0022101071,2022-03-21,CHA,NOP,11.58,1,0,25,NOP,NOP,fg3_make,1,False,False,,Marshall 28' 3PT Jump Shot (4 PTS) (Murphy III 1 AST),17-22,17,22
+0022101071,2022-03-21,CHA,NOP,11.93,1,0,4,CHA,CHA,fg_make,79,False,False,Thomas 20' Pullup Jump Shot (2 PTS) (Washington 2 AST),,19-22,19,22
+0022101071,2022-03-21,CHA,NOP,12.0,1,0,0,CHA,,period_end,0,False,False,,,19-22,19,22
+0022101071,2022-03-21,CHA,NOP,12.0,2,12,0,CHA,,period_start,0,False,False,,,19-22,19,22
+0022101071,2022-03-21,CHA,NOP,12.28,2,11,43,CHA,CHA,fg_miss,5,False,False,MISS Harrell 5' Layup,,19-22,19,22
+0022101071,2022-03-21,CHA,NOP,12.35,2,11,39,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:6),19-22,19,22
+0022101071,2022-03-21,CHA,NOP,12.72,2,11,17,NOP,NOP,fg_make,47,False,False,,Valanciunas 17' Turnaround Jump Shot (6 PTS),19-24,19,24
+0022101071,2022-03-21,CHA,NOP,12.87,2,11,8,CHA,CHA,fg_miss,6,True,False,MISS Thomas 4' Driving Layup,,19-24,19,24
+0022101071,2022-03-21,CHA,NOP,12.87,2,11,8,CHA,NOP,block,6,True,False,block,block,19-24,19,24
+0022101071,2022-03-21,CHA,NOP,12.92,2,11,5,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:7),19-24,19,24
+0022101071,2022-03-21,CHA,NOP,12.92,2,11,5,NOP,NOP,tov,21,False,False,,Marshall Palming Turnover (P1.T5),19-24,19,24
+0022101071,2022-03-21,CHA,NOP,13.13,2,10,52,CHA,CHA,fg3_miss,1,False,False,MISS McDaniels 3PT Jump Shot,,19-24,19,24
+0022101071,2022-03-21,CHA,NOP,13.13,2,10,52,CHA,CHA,reb,0,False,False,HORNETS Rebound,,19-24,19,24
+0022101071,2022-03-21,CHA,NOP,13.17,2,10,50,CHA,CHA,fg_make,79,False,False,Thomas 11' Pullup Jump Shot (4 PTS) (Ball 2 AST),,21-24,21,24
+0022101071,2022-03-21,CHA,NOP,13.17,2,10,50,CHA,NOP,foul,2,False,False,,Wallace S.FOUL (P1.T1) (P.Fraher),21-24,21,24
+0022101071,2022-03-21,CHA,NOP,13.17,2,10,50,CHA,CHA,ft_make,10,False,False,Thomas Free Throw 1 of 1 (5 PTS),,22-24,22,24
+0022101071,2022-03-21,CHA,NOP,13.35,2,10,39,NOP,CHA,foul,1,False,False,Thomas P.FOUL (P1.T1) (B.Adair),,22-24,22,24
+0022101071,2022-03-21,CHA,NOP,13.55,2,10,27,NOP,NOP,fg_miss,6,False,False,,MISS Murphy III 3' Driving Layup,22-24,22,24
+0022101071,2022-03-21,CHA,NOP,13.6,2,10,24,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:7),22-24,22,24
+0022101071,2022-03-21,CHA,NOP,13.6,2,10,24,NOP,NOP,fg_make,97,False,False,,Valanciunas Tip Layup Shot (8 PTS),22-26,22,26
+0022101071,2022-03-21,CHA,NOP,13.75,2,10,15,CHA,CHA,fg3_make,79,False,False,Thomas 25' 3PT Pullup Jump Shot (8 PTS) (Ball 3 AST),,25-26,25,26
+0022101071,2022-03-21,CHA,NOP,14.15,2,9,51,NOP,NOP,fg_make,1,False,False,,Valanciunas 14' Jump Shot (10 PTS),25-28,25,28
+0022101071,2022-03-21,CHA,NOP,14.45,2,9,33,CHA,CHA,fg_make,98,False,False,Harrell 2' Cutting Layup Shot (5 PTS) (McDaniels 1 AST),,27-28,27,28
+0022101071,2022-03-21,CHA,NOP,14.45,2,9,33,CHA,NOP,foul,2,False,False,,Wallace S.FOUL (P2.T2) (B.Adair),27-28,27,28
+0022101071,2022-03-21,CHA,NOP,14.45,2,9,33,CHA,CHA,ft_make,10,False,False,Harrell Free Throw 1 of 1 (6 PTS),,28-28,28,28
+0022101071,2022-03-21,CHA,NOP,14.78,2,9,13,NOP,NOP,fg_make,98,False,False,,Marshall 2' Cutting Layup Shot (6 PTS) (Valanciunas 1 AST),28-30,28,30
+0022101071,2022-03-21,CHA,NOP,15.02,2,8,59,CHA,CHA,tov,2,False,True,McDaniels Lost Ball Turnover (P1.T7),,28-30,28,30
+0022101071,2022-03-21,CHA,NOP,15.02,2,8,59,CHA,NOP,steal,2,False,True,steal,steal,28-30,28,30
+0022101071,2022-03-21,CHA,NOP,15.17,2,8,50,NOP,NOP,fg3_miss,1,False,False,,MISS Valanciunas 26' 3PT Jump Shot,28-30,28,30
+0022101071,2022-03-21,CHA,NOP,15.22,2,8,47,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:2),,28-30,28,30
+0022101071,2022-03-21,CHA,NOP,15.27,2,8,44,CHA,NOP,foul,2,False,False,,Valanciunas S.FOUL (P1.T3) (P.Fraher),28-30,28,30
+0022101071,2022-03-21,CHA,NOP,15.27,2,8,44,CHA,CHA,ft_make,11,False,False,McDaniels Free Throw 1 of 2 (1 PTS),,29-30,29,30
+0022101071,2022-03-21,CHA,NOP,15.27,2,8,44,CHA,CHA,ft_make,12,False,False,McDaniels Free Throw 2 of 2 (2 PTS),,30-30,30,30
+0022101071,2022-03-21,CHA,NOP,15.6,2,8,24,NOP,NOP,fg3_make,1,False,False,,Murphy III 24' 3PT Jump Shot (3 PTS) (Valanciunas 2 AST),30-33,30,33
+0022101071,2022-03-21,CHA,NOP,15.8,2,8,12,CHA,CHA,fg_miss,7,True,False,MISS Harrell 3' Dunk,,30-33,30,33
+0022101071,2022-03-21,CHA,NOP,15.8,2,8,12,CHA,NOP,block,7,True,False,block,block,30-33,30,33
+0022101071,2022-03-21,CHA,NOP,15.85,2,8,9,NOP,NOP,reb,0,False,False,,Murphy III REBOUND (Off:0 Def:1),30-33,30,33
+0022101071,2022-03-21,CHA,NOP,15.9,2,8,6,NOP,NOP,fg_make,74,False,False,,Marshall 2' Running Reverse Layup (8 PTS) (Murphy III 2 AST),30-35,30,35
+0022101071,2022-03-21,CHA,NOP,15.9,2,8,6,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,30-35,30,35
+0022101071,2022-03-21,CHA,NOP,16.2,2,7,48,CHA,CHA,tov,2,False,True,Thomas Lost Ball Turnover (P1.T8),,30-35,30,35
+0022101071,2022-03-21,CHA,NOP,16.2,2,7,48,CHA,NOP,steal,2,False,True,steal,steal,30-35,30,35
+0022101071,2022-03-21,CHA,NOP,16.47,2,7,32,NOP,NOP,fg_miss,108,True,False,,MISS Hayes 3' Cutting Dunk Shot,30-35,30,35
+0022101071,2022-03-21,CHA,NOP,16.47,2,7,32,NOP,CHA,block,108,True,False,block,block,30-35,30,35
+0022101071,2022-03-21,CHA,NOP,16.53,2,7,28,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:3),,30-35,30,35
+0022101071,2022-03-21,CHA,NOP,16.57,2,7,26,CHA,CHA,fg_make,50,False,False,Martin 1' Running Dunk (2 PTS) (Plumlee 1 AST),,32-35,32,35
+0022101071,2022-03-21,CHA,NOP,16.68,2,7,19,NOP,NOP,fg3_make,1,False,False,,Murphy III 25' 3PT Jump Shot (6 PTS) (Graham 1 AST),32-38,32,38
+0022101071,2022-03-21,CHA,NOP,17.05,2,6,57,CHA,CHA,fg_miss,101,False,False,MISS Thomas 6' Driving Floating Jump Shot,,32-38,32,38
+0022101071,2022-03-21,CHA,NOP,17.12,2,6,53,NOP,NOP,reb,0,False,False,,Graham REBOUND (Off:0 Def:1),32-38,32,38
+0022101071,2022-03-21,CHA,NOP,17.17,2,6,50,NOP,NOP,fg_miss,41,True,False,,MISS Murphy III 2' Running Layup,32-38,32,38
+0022101071,2022-03-21,CHA,NOP,17.17,2,6,50,NOP,CHA,block,41,True,False,block,block,32-38,32,38
+0022101071,2022-03-21,CHA,NOP,17.22,2,6,47,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:4),,32-38,32,38
+0022101071,2022-03-21,CHA,NOP,17.33,2,6,40,CHA,CHA,fg3_make,1,False,False,Thomas 3PT Jump Shot (11 PTS) (Plumlee 2 AST),,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,17.7,2,6,18,NOP,NOP,fg3_miss,1,False,False,,MISS Marshall 29' 3PT Jump Shot,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,17.77,2,6,14,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:3),,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,17.9,2,6,6,CHA,CHA,fg3_miss,1,False,False,MISS Thomas 3PT Jump Shot,,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,17.97,2,6,2,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:8),35-38,35,38
+0022101071,2022-03-21,CHA,NOP,18.22,2,5,47,NOP,NOP,fg_miss,1,False,False,,MISS Valanciunas 20' Jump Shot,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,18.27,2,5,44,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:2),,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,18.48,2,5,31,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 3PT Jump Shot,,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,18.53,2,5,28,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:1 Def:1),35-38,35,38
+0022101071,2022-03-21,CHA,NOP,18.57,2,5,26,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),35-38,35,38
+0022101071,2022-03-21,CHA,NOP,18.83,2,5,10,NOP,NOP,tov,45,False,False,,Hernangomez Out of Bounds - Bad Pass Turnover Turnover (P1.T6),35-38,35,38
+0022101071,2022-03-21,CHA,NOP,19.13,2,4,52,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 3PT Jump Shot,,35-38,35,38
+0022101071,2022-03-21,CHA,NOP,19.18,2,4,49,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:1 Def:2),35-38,35,38
+0022101071,2022-03-21,CHA,NOP,19.35,2,4,39,NOP,NOP,fg_make,101,False,False,,McCollum 15' Driving Floating Jump Shot (8 PTS),35-40,35,40
+0022101071,2022-03-21,CHA,NOP,19.67,2,4,20,CHA,CHA,fg3_make,80,False,False,Bridges 3PT Step Back Jump Shot (7 PTS),,38-40,38,40
+0022101071,2022-03-21,CHA,NOP,19.77,2,4,14,NOP,CHA,foul,1,False,False,Martin P.FOUL (P2.T2) (P.Fraher),,38-40,38,40
+0022101071,2022-03-21,CHA,NOP,20.0,2,4,0,NOP,NOP,fg_miss,1,False,False,,MISS Hernangomez 15' Jump Shot,38-40,38,40
+0022101071,2022-03-21,CHA,NOP,20.03,2,3,58,NOP,NOP,reb,0,False,False,,Alvarado REBOUND (Off:1 Def:0),38-40,38,40
+0022101071,2022-03-21,CHA,NOP,20.23,2,3,46,NOP,NOP,fg_make,99,False,False,,Hernangomez 3' Cutting Finger Roll Layup Shot (8 PTS) (McCollum 4 AST),38-42,38,42
+0022101071,2022-03-21,CHA,NOP,20.57,2,3,26,CHA,CHA,fg_miss,73,False,False,MISS Bridges 2' Driving Reverse Layup,,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,20.57,2,3,26,NOP,NOP,reb,0,False,False,,Pelicans Rebound,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.0,2,3,0,NOP,NOP,fg_miss,6,False,False,,MISS Jones 4' Driving Layup,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.08,2,2,55,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:3),,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.12,2,2,53,CHA,CHA,tov,45,False,False,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.4,2,2,36,NOP,NOP,fg_miss,80,False,False,,MISS McCollum 20' Step Back Jump Shot,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.5,2,2,30,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:1),38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.5,2,2,30,NOP,NOP,fg_miss,97,False,False,,MISS Hernangomez Tip Layup Shot,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.52,2,2,29,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:2 Def:2),38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.57,2,2,26,NOP,NOP,fg_miss,6,True,False,,MISS Alvarado 3' Driving Layup,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.57,2,2,26,NOP,CHA,block,6,True,False,block,block,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.57,2,2,26,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:2 Def:1),38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.57,2,2,26,NOP,CHA,foul,2,False,False,Ball S.FOUL (P1.T3) (P.Fraher),,38-42,38,42
+0022101071,2022-03-21,CHA,NOP,21.57,2,2,26,NOP,NOP,ft_make,11,False,False,,Hernangomez Free Throw 1 of 2 (9 PTS),38-43,38,43
+0022101071,2022-03-21,CHA,NOP,21.57,2,2,26,NOP,NOP,ft_miss,12,False,False,,MISS Hernangomez Free Throw 2 of 2,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,21.62,2,2,23,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:4),,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,21.88,2,2,7,CHA,NOP,foul,1,False,False,,Alvarado P.FOUL (P1.T4) (D.Taylor),38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.1,2,1,54,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.15,2,1,51,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:2 Def:2),38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.28,2,1,43,NOP,NOP,fg3_miss,1,False,False,,MISS McCollum 26' 3PT Jump Shot,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.33,2,1,40,CHA,CHA,reb,0,False,False,HORNETS Rebound,,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.58,2,1,25,CHA,CHA,tov,2,False,True,Bridges Lost Ball Turnover (P2.T10),,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.58,2,1,25,CHA,NOP,steal,2,False,True,steal,steal,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.63,2,1,22,NOP,CHA,foul,28,False,False,Rozier Personal Take Foul (P1.T4) (B.Adair),,38-43,38,43
+0022101071,2022-03-21,CHA,NOP,22.8,2,1,12,NOP,NOP,fg_make,80,False,False,,McCollum 15' Step Back Jump Shot (10 PTS),38-45,38,45
+0022101071,2022-03-21,CHA,NOP,23.07,2,0,56,CHA,CHA,fg_make,78,False,False,Rozier 7' Floating Jump Shot (7 PTS) (Martin 3 AST),,40-45,40,45
+0022101071,2022-03-21,CHA,NOP,23.47,2,0,32,NOP,NOP,tov,1,False,True,,McCollum Bad Pass Turnover (P2.T7),40-45,40,45
+0022101071,2022-03-21,CHA,NOP,23.47,2,0,32,NOP,CHA,steal,1,False,True,steal,steal,40-45,40,45
+0022101071,2022-03-21,CHA,NOP,23.52,2,0,29,CHA,CHA,tov,1,False,True,Martin Bad Pass Turnover (P2.T11),,40-45,40,45
+0022101071,2022-03-21,CHA,NOP,23.52,2,0,29,CHA,NOP,steal,1,False,True,steal,steal,40-45,40,45
+0022101071,2022-03-21,CHA,NOP,23.53,2,0,28,NOP,CHA,foul,1,False,False,Martin P.FOUL (P3.PN) (P.Fraher),,40-45,40,45
+0022101071,2022-03-21,CHA,NOP,23.53,2,0,28,NOP,NOP,ft_make,11,False,False,,Jones Free Throw 1 of 2 (1 PTS),40-46,40,46
+0022101071,2022-03-21,CHA,NOP,23.53,2,0,28,NOP,NOP,ft_make,12,False,False,,Jones Free Throw 2 of 2 (2 PTS),40-47,40,47
+0022101071,2022-03-21,CHA,NOP,23.9,2,0,6,CHA,CHA,fg3_make,1,False,False,Rozier 24' 3PT Jump Shot (10 PTS) (Washington 3 AST),,43-47,43,47
+0022101071,2022-03-21,CHA,NOP,24.0,2,0,0,NOP,NOP,fg_make,5,False,False,,Hayes 2' Layup (2 PTS) (Marshall 1 AST),43-49,43,49
+0022101071,2022-03-21,CHA,NOP,24.0,2,0,0,NOP,,period_end,0,False,False,,,43-49,43,49
+0022101071,2022-03-21,CHA,NOP,24.0,3,12,0,NOP,,period_start,0,False,False,,,43-49,43,49
+0022101071,2022-03-21,CHA,NOP,24.27,3,11,44,CHA,CHA,fg3_miss,1,False,False,MISS Ball 27' 3PT Jump Shot,,43-49,43,49
+0022101071,2022-03-21,CHA,NOP,24.3,3,11,42,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:2 Def:3),43-49,43,49
+0022101071,2022-03-21,CHA,NOP,24.62,3,11,23,NOP,NOP,fg3_make,1,False,False,,Jones 3PT Jump Shot (5 PTS) (McCollum 5 AST),43-52,43,52
+0022101071,2022-03-21,CHA,NOP,24.93,3,11,4,CHA,CHA,fg3_miss,1,True,False,MISS Rozier 3PT Jump Shot,,43-52,43,52
+0022101071,2022-03-21,CHA,NOP,24.93,3,11,4,CHA,NOP,block,1,True,False,block,block,43-52,43,52
+0022101071,2022-03-21,CHA,NOP,24.98,3,11,1,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:1 Def:1),,43-52,43,52
+0022101071,2022-03-21,CHA,NOP,25.05,3,10,57,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 25' 3PT Jump Shot,,43-52,43,52
+0022101071,2022-03-21,CHA,NOP,25.1,3,10,54,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:2 Def:4),43-52,43,52
+0022101071,2022-03-21,CHA,NOP,25.28,3,10,43,NOP,NOP,fg3_miss,1,False,False,,MISS Graham 3PT Jump Shot,43-52,43,52
+0022101071,2022-03-21,CHA,NOP,25.33,3,10,40,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:2),,43-52,43,52
+0022101071,2022-03-21,CHA,NOP,25.5,3,10,30,CHA,CHA,fg_make,9,False,False,Plumlee 1' Driving Dunk (2 PTS) (Washington 4 AST),,45-52,45,52
+0022101071,2022-03-21,CHA,NOP,25.82,3,10,11,NOP,NOP,fg3_miss,1,False,False,,MISS Hayes 3PT Jump Shot,45-52,45,52
+0022101071,2022-03-21,CHA,NOP,25.87,3,10,8,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:3),,45-52,45,52
+0022101071,2022-03-21,CHA,NOP,25.93,3,10,4,CHA,CHA,fg3_make,2,False,False,Ball 26' 3PT Running Jump Shot (8 PTS) (Bridges 2 AST),,48-52,48,52
+0022101071,2022-03-21,CHA,NOP,26.37,3,9,38,NOP,NOP,fg3_make,1,False,False,,McCollum 25' 3PT Jump Shot (13 PTS) (Hayes 1 AST),48-55,48,55
+0022101071,2022-03-21,CHA,NOP,26.63,3,9,22,CHA,NOP,foul,2,False,False,,Valanciunas S.FOUL (P2.T1) (D.Taylor),48-55,48,55
+0022101071,2022-03-21,CHA,NOP,26.63,3,9,22,CHA,CHA,ft_miss,11,False,False,MISS Plumlee Free Throw 1 of 2,,48-55,48,55
+0022101071,2022-03-21,CHA,NOP,26.63,3,9,22,CHA,CHA,reb,1,False,False,HORNETS Rebound,,48-55,48,55
+0022101071,2022-03-21,CHA,NOP,26.63,3,9,22,CHA,CHA,ft_make,12,False,False,Plumlee Free Throw 2 of 2 (3 PTS),,49-55,49,55
+0022101071,2022-03-21,CHA,NOP,26.8,3,9,12,NOP,NOP,fg3_miss,1,False,False,,MISS Graham 26' 3PT Jump Shot,49-55,49,55
+0022101071,2022-03-21,CHA,NOP,26.85,3,9,9,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:8),49-55,49,55
+0022101071,2022-03-21,CHA,NOP,26.85,3,9,9,NOP,NOP,fg_make,5,False,False,,Hayes 6' Layup (4 PTS) (Valanciunas 3 AST),49-57,49,57
+0022101071,2022-03-21,CHA,NOP,26.85,3,9,9,NOP,CHA,foul,2,False,False,Washington S.FOUL (P2.T1) (D.Taylor),,49-57,49,57
+0022101071,2022-03-21,CHA,NOP,26.85,3,9,9,NOP,NOP,ft_make,10,False,False,,Hayes Free Throw 1 of 1 (5 PTS),49-58,49,58
+0022101071,2022-03-21,CHA,NOP,27.03,3,8,58,CHA,CHA,fg3_make,79,False,False,Ball 27' 3PT Pullup Jump Shot (11 PTS),,52-58,52,58
+0022101071,2022-03-21,CHA,NOP,27.43,3,8,34,NOP,NOP,fg_miss,79,False,False,,MISS Jones 8' Pullup Jump Shot,52-58,52,58
+0022101071,2022-03-21,CHA,NOP,27.47,3,8,32,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:5),,52-58,52,58
+0022101071,2022-03-21,CHA,NOP,27.52,3,8,29,CHA,NOP,foul,2,False,False,,McCollum S.FOUL (P2.T2) (P.Fraher),52-58,52,58
+0022101071,2022-03-21,CHA,NOP,27.52,3,8,29,CHA,CHA,ft_make,11,False,False,Plumlee Free Throw 1 of 2 (4 PTS),,53-58,53,58
+0022101071,2022-03-21,CHA,NOP,27.52,3,8,29,CHA,CHA,ft_make,12,False,False,Plumlee Free Throw 2 of 2 (5 PTS),,54-58,54,58
+0022101071,2022-03-21,CHA,NOP,27.83,3,8,10,NOP,NOP,fg_miss,6,False,False,,MISS Jones 3' Driving Layup,54-58,54,58
+0022101071,2022-03-21,CHA,NOP,27.87,3,8,8,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:6),,54-58,54,58
+0022101071,2022-03-21,CHA,NOP,27.95,3,8,3,CHA,CHA,fg3_make,80,False,False,Ball 25' 3PT Step Back Jump Shot (14 PTS) (Plumlee 3 AST),,57-58,57,58
+0022101071,2022-03-21,CHA,NOP,27.97,3,8,2,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.4 Short 0),57-58,57,58
+0022101071,2022-03-21,CHA,NOP,28.25,3,7,45,NOP,NOP,fg_make,98,False,False,,McCollum 1' Cutting Layup Shot (15 PTS) (Valanciunas 4 AST),57-60,57,60
+0022101071,2022-03-21,CHA,NOP,28.57,3,7,26,CHA,CHA,fg_make,52,False,False,Plumlee 1' Alley Oop Dunk (7 PTS) (Ball 4 AST),,59-60,59,60
+0022101071,2022-03-21,CHA,NOP,28.93,3,7,4,NOP,NOP,fg_make,3,False,False,,Valanciunas 4' Hook Shot (12 PTS) (Jones 2 AST),59-62,59,62
+0022101071,2022-03-21,CHA,NOP,29.18,3,6,49,CHA,CHA,fg_make,101,False,False,Washington 6' Driving Floating Jump Shot (2 PTS) (Bridges 3 AST),,61-62,61,62
+0022101071,2022-03-21,CHA,NOP,29.35,3,6,39,NOP,NOP,fg_make,6,False,False,,Valanciunas 3' Driving Layup (14 PTS) (McCollum 6 AST),61-64,61,64
+0022101071,2022-03-21,CHA,NOP,29.35,3,6,39,NOP,CHA,foul,2,False,False,Washington S.FOUL (P3.T2) (P.Fraher),,61-64,61,64
+0022101071,2022-03-21,CHA,NOP,29.35,3,6,39,NOP,NOP,ft_make,10,False,False,,Valanciunas Free Throw 1 of 1 (15 PTS),61-65,61,65
+0022101071,2022-03-21,CHA,NOP,29.57,3,6,26,CHA,CHA,fg_miss,98,False,False,MISS Plumlee 3' Cutting Layup Shot,,61-65,61,65
+0022101071,2022-03-21,CHA,NOP,29.6,3,6,24,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:9),61-65,61,65
+0022101071,2022-03-21,CHA,NOP,29.63,3,6,22,CHA,NOP,foul,15,False,False,,Jones FLAGRANT.FOUL.TYPE2 (P2.T3) (D.Taylor),61-65,61,65
+0022101071,2022-03-21,CHA,NOP,29.63,3,6,22,NOP,NOP,tov,0,False,False,,Jones Turnover Turnover (P1.T8),61-65,61,65
+0022101071,2022-03-21,CHA,NOP,29.63,3,6,22,NOP,CHA,ft_make,18,False,False,Bridges Free Throw Flagrant 1 of 2 (8 PTS),,62-65,62,65
+0022101071,2022-03-21,CHA,NOP,29.63,3,6,22,NOP,CHA,ft_make,19,False,False,Bridges Free Throw Flagrant 2 of 2 (9 PTS),,63-65,63,65
+0022101071,2022-03-21,CHA,NOP,29.63,3,6,22,NOP,NOP,ejection,4,False,False,,Jones Ejection:Other,61-65,61,65
+0022101071,2022-03-21,CHA,NOP,29.85,3,6,9,CHA,CHA,fg_miss,102,False,False,MISS Rozier 4' Driving Floating Bank Jump Shot,,63-65,63,65
+0022101071,2022-03-21,CHA,NOP,29.88,3,6,7,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:10),63-65,63,65
+0022101071,2022-03-21,CHA,NOP,29.93,3,6,4,NOP,NOP,fg_make,50,False,False,,Marshall 1' Running Dunk (10 PTS) (Valanciunas 5 AST),63-67,63,67
+0022101071,2022-03-21,CHA,NOP,30.15,3,5,51,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 3PT Jump Shot,,63-67,63,67
+0022101071,2022-03-21,CHA,NOP,30.15,3,5,51,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:11),63-67,63,67
+0022101071,2022-03-21,CHA,NOP,30.33,3,5,40,NOP,NOP,fg3_make,1,False,False,,Valanciunas 26' 3PT Jump Shot (18 PTS) (Graham 2 AST),63-70,63,70
+0022101071,2022-03-21,CHA,NOP,30.78,3,5,13,CHA,CHA,fg_make,9,False,False,Bridges Driving Dunk (11 PTS),,65-70,65,70
+0022101071,2022-03-21,CHA,NOP,30.85,3,5,9,NOP,NOP,fg_make,102,False,False,,McCollum 3' Driving Floating Bank Jump Shot (17 PTS),65-72,65,72
+0022101071,2022-03-21,CHA,NOP,30.85,3,5,9,NOP,CHA,foul,2,False,False,Rozier S.FOUL (P2.T3) (P.Fraher),,65-72,65,72
+0022101071,2022-03-21,CHA,NOP,30.85,3,5,9,NOP,NOP,ft_make,10,False,False,,McCollum Free Throw 1 of 1 (18 PTS),65-73,65,73
+0022101071,2022-03-21,CHA,NOP,31.08,3,4,55,CHA,NOP,foul,1,False,False,,McCollum P.FOUL (P3.T4) (D.Taylor),65-73,65,73
+0022101071,2022-03-21,CHA,NOP,31.23,3,4,46,CHA,CHA,fg_make,108,False,False,Harrell 1' Cutting Dunk Shot (8 PTS) (Bridges 4 AST),,67-73,67,73
+0022101071,2022-03-21,CHA,NOP,31.57,3,4,26,NOP,NOP,fg_miss,5,True,False,,MISS Hernangomez 3' Layup,67-73,67,73
+0022101071,2022-03-21,CHA,NOP,31.57,3,4,26,NOP,CHA,block,5,True,False,block,block,67-73,67,73
+0022101071,2022-03-21,CHA,NOP,31.67,3,4,20,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,67-73,67,73
+0022101071,2022-03-21,CHA,NOP,31.68,3,4,19,CHA,CHA,fg_make,106,False,False,Harrell 2' Running Alley Oop Dunk Shot (10 PTS) (Bridges 5 AST),,69-73,69,73
+0022101071,2022-03-21,CHA,NOP,31.98,3,4,1,NOP,CHA,foul,2,False,False,Oubre Jr. S.FOUL (P1.T4) (B.Adair),,69-73,69,73
+0022101071,2022-03-21,CHA,NOP,31.98,3,4,1,NOP,NOP,ft_make,13,False,False,,McCollum Free Throw 1 of 3 (19 PTS),69-74,69,74
+0022101071,2022-03-21,CHA,NOP,31.98,3,4,1,NOP,NOP,ft_make,14,False,False,,McCollum Free Throw 2 of 3 (20 PTS),69-75,69,75
+0022101071,2022-03-21,CHA,NOP,31.98,3,4,1,NOP,NOP,ft_make,15,False,False,,McCollum Free Throw 3 of 3 (21 PTS),69-76,69,76
+0022101071,2022-03-21,CHA,NOP,32.28,3,3,43,CHA,CHA,fg3_make,1,False,False,Oubre Jr. 26' 3PT Jump Shot (3 PTS) (Ball 5 AST),,72-76,72,76
+0022101071,2022-03-21,CHA,NOP,32.75,3,3,15,NOP,NOP,fg_miss,6,False,False,,MISS Alvarado 4' Driving Layup,72-76,72,76
+0022101071,2022-03-21,CHA,NOP,32.78,3,3,13,NOP,NOP,reb,0,False,False,,Alvarado REBOUND (Off:2 Def:0),72-76,72,76
+0022101071,2022-03-21,CHA,NOP,32.9,3,3,6,NOP,NOP,fg_make,78,False,False,,Alvarado 6' Floating Jump Shot (2 PTS),72-78,72,78
+0022101071,2022-03-21,CHA,NOP,33.07,3,2,56,CHA,CHA,tov,1,False,False,Harrell Bad Pass Turnover (P1.T12),,72-78,72,78
+0022101071,2022-03-21,CHA,NOP,33.07,3,2,56,NOP,CHA,foul,3,False,False,Harrell L.B.FOUL (P1.PN) (B.Adair),,72-78,72,78
+0022101071,2022-03-21,CHA,NOP,33.07,3,2,56,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,72-78,72,78
+0022101071,2022-03-21,CHA,NOP,33.07,3,2,56,CHA,NOP,ft_make,11,False,False,,Marshall Free Throw 1 of 2 (11 PTS),72-79,72,79
+0022101071,2022-03-21,CHA,NOP,33.07,3,2,56,CHA,NOP,ft_make,12,False,False,,Marshall Free Throw 2 of 2 (12 PTS),72-80,72,80
+0022101071,2022-03-21,CHA,NOP,33.3,3,2,42,CHA,CHA,fg3_make,1,False,False,Oubre Jr. 26' 3PT Jump Shot (6 PTS) (Ball 6 AST),,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,33.58,3,2,25,NOP,NOP,tov,2,False,True,,Hayes Lost Ball Turnover (P2.T9),75-80,75,80
+0022101071,2022-03-21,CHA,NOP,33.58,3,2,25,NOP,CHA,steal,2,False,True,steal,steal,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,33.7,3,2,18,CHA,CHA,fg3_miss,1,False,False,MISS Oubre Jr. 25' 3PT Jump Shot,,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,33.77,3,2,14,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:4),75-80,75,80
+0022101071,2022-03-21,CHA,NOP,33.97,3,2,2,NOP,NOP,fg_miss,63,False,False,,MISS McCollum 14' Fadeaway Jumper,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.02,3,1,59,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:2),75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.02,3,1,59,NOP,NOP,fg_miss,97,False,False,,MISS Hernangomez 2' Tip Layup Shot,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.02,3,1,59,CHA,CHA,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:3),,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.17,3,1,50,CHA,CHA,fg3_miss,79,False,False,MISS Ball 26' 3PT Pullup Jump Shot,,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.22,3,1,47,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:3),75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.32,3,1,41,NOP,NOP,fg3_miss,1,False,False,,MISS Alvarado 3PT Jump Shot,75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.37,3,1,38,NOP,NOP,reb,0,False,False,,Alvarado REBOUND (Off:3 Def:0),75-80,75,80
+0022101071,2022-03-21,CHA,NOP,34.53,3,1,28,NOP,NOP,fg_make,101,False,False,,McCollum 6' Driving Floating Jump Shot (23 PTS),75-82,75,82
+0022101071,2022-03-21,CHA,NOP,34.92,3,1,5,CHA,CHA,fg3_miss,79,False,False,MISS Ball 27' 3PT Pullup Jump Shot,,75-82,75,82
+0022101071,2022-03-21,CHA,NOP,34.98,3,1,1,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:4),75-82,75,82
+0022101071,2022-03-21,CHA,NOP,35.2,3,0,48,CHA,NOP,foul,26,False,False,,Hayes Offensive Charge Foul (P1) (P.Fraher),75-82,75,82
+0022101071,2022-03-21,CHA,NOP,35.2,3,0,48,NOP,NOP,tov,37,False,False,,Hayes Offensive Foul Turnover (P3.T10),75-82,75,82
+0022101071,2022-03-21,CHA,NOP,35.2,3,0,48,CHA,NOP,foul,11,False,False,,Hayes T.FOUL (P1.T4) (P.Fraher),75-82,75,82
+0022101071,2022-03-21,CHA,NOP,35.2,3,0,48,CHA,CHA,ft_make,16,False,False,Ball Free Throw Technical (15 PTS),,76-82,76,82
+0022101071,2022-03-21,CHA,NOP,35.35,3,0,39,CHA,NOP,foul,1,False,False,,Hernangomez P.FOUL (P1.PN) (B.Adair),76-82,76,82
+0022101071,2022-03-21,CHA,NOP,35.35,3,0,39,CHA,CHA,ft_make,11,False,False,Thomas Free Throw 1 of 2 (12 PTS),,77-82,77,82
+0022101071,2022-03-21,CHA,NOP,35.35,3,0,39,CHA,CHA,ft_make,12,False,False,Thomas Free Throw 2 of 2 (13 PTS),,78-82,78,82
+0022101071,2022-03-21,CHA,NOP,35.45,3,0,33,NOP,NOP,fg_make,101,False,False,,McCollum 7' Driving Floating Jump Shot (25 PTS),78-84,78,84
+0022101071,2022-03-21,CHA,NOP,35.65,3,0,21,CHA,CHA,fg3_miss,1,False,False,MISS Oubre Jr. 26' 3PT Jump Shot,,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,35.72,3,0,17,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:2 Def:1),,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,35.73,3,0,16,NOP,CHA,foul,26,False,False,Oubre Jr. Offensive Charge Foul (P2) (P.Fraher),,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,35.73,3,0,16,CHA,CHA,tov,37,False,False,Oubre Jr. Offensive Foul Turnover (P1.T13),,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,35.95,3,0,3,NOP,NOP,tov,39,False,False,,McCollum Step Out of Bounds Turnover (P3.T11),78-84,78,84
+0022101071,2022-03-21,CHA,NOP,36.0,3,0,0,CHA,CHA,fg3_miss,103,False,False,MISS Ball 54' 3PT Running Pull-Up Jump Shot,,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,36.0,3,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,36.0,3,0,0,CHA,,period_end,0,False,False,,,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,36.0,4,12,0,CHA,,period_start,0,False,False,,,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,36.33,4,11,40,NOP,NOP,tov,2,False,True,,Valanciunas Lost Ball Turnover (P1.T12),78-84,78,84
+0022101071,2022-03-21,CHA,NOP,36.33,4,11,40,NOP,CHA,steal,2,False,True,steal,steal,78-84,78,84
+0022101071,2022-03-21,CHA,NOP,36.43,4,11,34,CHA,CHA,fg_make,41,False,False,Washington 1' Running Layup (4 PTS) (Thomas 1 AST),,80-84,80,84
+0022101071,2022-03-21,CHA,NOP,36.72,4,11,17,NOP,NOP,tov,1,False,False,,Alvarado Bad Pass Turnover (P1.T13),80-84,80,84
+0022101071,2022-03-21,CHA,NOP,36.72,4,11,17,CHA,NOP,foul,3,False,False,,Valanciunas L.B.FOUL (P3.T1) (P.Fraher),80-84,80,84
+0022101071,2022-03-21,CHA,NOP,36.88,4,11,7,NOP,CHA,foul,4,False,False,Thomas OFF.Foul (P2) (D.Taylor),,80-84,80,84
+0022101071,2022-03-21,CHA,NOP,36.88,4,11,7,CHA,CHA,tov,37,False,False,Thomas Offensive Foul Turnover (P2.T14),,80-84,80,84
+0022101071,2022-03-21,CHA,NOP,37.22,4,10,47,NOP,NOP,fg_make,86,False,False,,Valanciunas 9' Turnaround Fadeaway (20 PTS),80-86,80,86
+0022101071,2022-03-21,CHA,NOP,37.5,4,10,30,CHA,CHA,fg_make,5,False,False,Harrell 2' Layup (12 PTS) (Martin 4 AST),,82-86,82,86
+0022101071,2022-03-21,CHA,NOP,37.8,4,10,12,NOP,NOP,fg_make,6,False,False,,Marshall 1' Driving Layup (14 PTS),82-88,82,88
+0022101071,2022-03-21,CHA,NOP,38.13,4,9,52,CHA,CHA,fg_miss,6,False,False,MISS Thomas 3' Driving Layup,,82-88,82,88
+0022101071,2022-03-21,CHA,NOP,38.22,4,9,47,CHA,CHA,reb,0,False,False,Harrell REBOUND (Off:1 Def:1),,82-88,82,88
+0022101071,2022-03-21,CHA,NOP,38.22,4,9,47,CHA,CHA,fg_miss,107,False,False,MISS Harrell Tip Dunk Shot,,82-88,82,88
+0022101071,2022-03-21,CHA,NOP,38.23,4,9,46,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:5),82-88,82,88
+0022101071,2022-03-21,CHA,NOP,38.25,4,9,45,NOP,NOP,fg3_make,2,False,False,,Alvarado 25' 3PT Running Jump Shot (5 PTS) (Murphy III 3 AST),82-91,82,91
+0022101071,2022-03-21,CHA,NOP,38.25,4,9,45,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 4 Short 0),,82-91,82,91
+0022101071,2022-03-21,CHA,NOP,38.52,4,9,29,CHA,CHA,fg3_make,1,False,False,Rozier 26' 3PT Jump Shot (13 PTS) (Harrell 2 AST),,85-91,85,91
+0022101071,2022-03-21,CHA,NOP,38.88,4,9,7,NOP,CHA,foul,1,False,False,Washington P.FOUL (P4.T1) (P.Fraher),,85-91,85,91
+0022101071,2022-03-21,CHA,NOP,38.95,4,9,3,NOP,CHA,foul,1,False,False,Thomas P.FOUL (P3.T2) (D.Taylor),,85-91,85,91
+0022101071,2022-03-21,CHA,NOP,39.1,4,8,54,NOP,NOP,fg_make,108,False,False,,Valanciunas 2' Cutting Dunk Shot (22 PTS) (Graham 3 AST),85-93,85,93
+0022101071,2022-03-21,CHA,NOP,39.35,4,8,39,CHA,CHA,fg_make,79,False,False,Thomas 18' Pullup Jump Shot (15 PTS) (Washington 5 AST),,87-93,87,93
+0022101071,2022-03-21,CHA,NOP,39.6,4,8,24,NOP,NOP,fg_miss,1,False,False,,MISS Valanciunas 16' Jump Shot,87-93,87,93
+0022101071,2022-03-21,CHA,NOP,39.63,4,8,22,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:3 Def:4),87-93,87,93
+0022101071,2022-03-21,CHA,NOP,39.67,4,8,20,NOP,NOP,fg3_miss,1,False,False,,MISS Graham 26' 3PT Jump Shot,87-93,87,93
+0022101071,2022-03-21,CHA,NOP,39.67,4,8,20,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:4 Def:11),87-93,87,93
+0022101071,2022-03-21,CHA,NOP,39.87,4,8,8,NOP,NOP,fg_miss,101,False,False,,MISS Wallace 6' Driving Floating Jump Shot,87-93,87,93
+0022101071,2022-03-21,CHA,NOP,39.95,4,8,3,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:5 Def:11),87-95,87,95
+0022101071,2022-03-21,CHA,NOP,39.95,4,8,3,NOP,NOP,fg_make,97,False,False,,Valanciunas Tip Layup Shot (24 PTS),87-95,87,95
+0022101071,2022-03-21,CHA,NOP,40.25,4,7,45,CHA,CHA,tov,45,False,False,Thomas Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,87-95,87,95
+0022101071,2022-03-21,CHA,NOP,40.57,4,7,26,NOP,NOP,fg_miss,79,True,False,,MISS Wallace 12' Pullup Jump Shot,87-95,87,95
+0022101071,2022-03-21,CHA,NOP,40.57,4,7,26,NOP,CHA,block,79,True,False,block,block,87-95,87,95
+0022101071,2022-03-21,CHA,NOP,40.67,4,7,20,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:5),,87-95,87,95
+0022101071,2022-03-21,CHA,NOP,40.92,4,7,5,CHA,CHA,fg_make,6,False,False,Martin 2' Driving Layup (4 PTS),,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,40.92,4,7,5,CHA,NOP,foul,2,False,False,,Hayes S.FOUL (P2.T2) (P.Fraher),89-95,89,95
+0022101071,2022-03-21,CHA,NOP,40.92,4,7,5,CHA,CHA,ft_miss,10,False,False,MISS Martin Free Throw 1 of 1,,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.12,4,6,53,NOP,NOP,reb,0,False,False,,Murphy III REBOUND (Off:0 Def:2),89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.3,4,6,42,NOP,NOP,fg_miss,79,False,False,,MISS McCollum 21' Pullup Jump Shot,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.33,4,6,40,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:1 Def:7),,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.48,4,6,31,CHA,CHA,tov,2,False,True,Bridges Lost Ball Turnover (P3.T16),,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.48,4,6,31,CHA,NOP,steal,2,False,True,steal,steal,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.65,4,6,21,NOP,NOP,tov,40,False,False,,McCollum Out of Bounds Lost Ball Turnover (P4.T14),89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.9,4,6,6,CHA,CHA,fg3_miss,1,False,False,MISS Washington 3PT Jump Shot,,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,41.95,4,6,3,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:2 Def:7),,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,42.02,4,5,59,CHA,NOP,foul,1,False,False,,Murphy III P.FOUL (P1.T3) (B.Adair),89-95,89,95
+0022101071,2022-03-21,CHA,NOP,42.17,4,5,50,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,42.22,4,5,47,NOP,NOP,reb,0,False,False,,Graham REBOUND (Off:0 Def:2),89-95,89,95
+0022101071,2022-03-21,CHA,NOP,42.37,4,5,38,NOP,NOP,fg3_miss,79,False,False,,MISS Graham 25' 3PT Pullup Jump Shot,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,42.4,4,5,36,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:4),,89-95,89,95
+0022101071,2022-03-21,CHA,NOP,42.52,4,5,29,CHA,CHA,fg_make,75,False,False,Bridges 3' Driving Finger Roll Layup (13 PTS) (Ball 7 AST),,91-95,91,95
+0022101071,2022-03-21,CHA,NOP,42.92,4,5,5,NOP,NOP,fg_miss,6,True,False,,MISS Graham 5' Driving Layup,91-95,91,95
+0022101071,2022-03-21,CHA,NOP,42.92,4,5,5,NOP,CHA,block,6,True,False,block,block,91-95,91,95
+0022101071,2022-03-21,CHA,NOP,42.92,4,5,5,CHA,CHA,reb,0,False,False,HORNETS Rebound,,91-95,91,95
+0022101071,2022-03-21,CHA,NOP,43.12,4,4,53,CHA,CHA,fg_make,79,False,False,Rozier 19' Pullup Jump Shot (15 PTS) (Ball 8 AST),,93-95,93,95
+0022101071,2022-03-21,CHA,NOP,43.58,4,4,25,NOP,NOP,fg3_miss,1,False,False,,MISS Marshall 3PT Jump Shot,93-95,93,95
+0022101071,2022-03-21,CHA,NOP,43.62,4,4,23,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:2 Def:2),,93-95,93,95
+0022101071,2022-03-21,CHA,NOP,43.75,4,4,15,CHA,CHA,fg_make,75,False,False,Rozier 2' Driving Finger Roll Layup (17 PTS),,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,43.9,4,4,6,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.5 Short 0),95-95,95,95
+0022101071,2022-03-21,CHA,NOP,43.95,4,4,3,CHA,NOP,foul,4,False,False,,Valanciunas OFF.Foul (P4) (B.Adair),95-95,95,95
+0022101071,2022-03-21,CHA,NOP,43.95,4,4,3,NOP,NOP,tov,37,False,False,,Valanciunas Offensive Foul Turnover (P2.T15),95-95,95,95
+0022101071,2022-03-21,CHA,NOP,44.13,4,3,52,CHA,CHA,tov,45,False,False,Rozier Out of Bounds - Bad Pass Turnover Turnover (P2.T17),,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,44.48,4,3,31,NOP,NOP,fg3_miss,79,False,False,,MISS McCollum 26' 3PT Pullup Jump Shot,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,44.55,4,3,27,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:4),,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,44.63,4,3,22,CHA,CHA,fg_miss,41,False,False,MISS Bridges 3' Running Layup,,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,44.68,4,3,19,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:5 Def:12),95-95,95,95
+0022101071,2022-03-21,CHA,NOP,44.95,4,3,3,NOP,NOP,fg_miss,5,False,False,,MISS Marshall 2' Layup,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,44.97,4,3,2,NOP,NOP,reb,0,False,False,,Valanciunas REBOUND (Off:6 Def:12),95-95,95,95
+0022101071,2022-03-21,CHA,NOP,45.02,4,2,59,NOP,NOP,fg_miss,3,False,False,,MISS Valanciunas 5' Hook Shot,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,45.05,4,2,57,CHA,CHA,reb,0,False,False,Plumlee REBOUND (Off:2 Def:8),,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,45.2,4,2,48,CHA,CHA,fg3_miss,79,False,False,MISS Rozier 26' 3PT Pullup Jump Shot,,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,45.25,4,2,45,NOP,NOP,reb,0,False,False,,Alvarado REBOUND (Off:3 Def:1),95-95,95,95
+0022101071,2022-03-21,CHA,NOP,45.3,4,2,42,NOP,CHA,foul,1,False,False,Washington P.FOUL (P5.T3) (B.Adair),,95-95,95,95
+0022101071,2022-03-21,CHA,NOP,45.55,4,2,27,NOP,NOP,fg_make,7,False,False,,Hayes Dunk (7 PTS) (Alvarado 2 AST),95-97,95,97
+0022101071,2022-03-21,CHA,NOP,45.8,4,2,12,CHA,CHA,fg3_make,1,False,False,Bridges 3PT Jump Shot (16 PTS) (Washington 6 AST),,98-97,98,97
+0022101071,2022-03-21,CHA,NOP,46.18,4,1,49,NOP,CHA,foul,2,False,False,Bridges S.FOUL (P1.T4) (D.Taylor),,98-97,98,97
+0022101071,2022-03-21,CHA,NOP,46.18,4,1,49,NOP,NOP,ft_make,11,False,False,,Hayes Free Throw 1 of 2 (8 PTS),98-98,98,98
+0022101071,2022-03-21,CHA,NOP,46.18,4,1,49,NOP,NOP,ft_make,12,False,False,,Hayes Free Throw 2 of 2 (9 PTS),98-99,98,99
+0022101071,2022-03-21,CHA,NOP,46.47,4,1,32,CHA,CHA,fg_make,57,False,False,Washington 6' Driving Hook Shot (6 PTS) (Rozier 1 AST),,100-99,100,99
+0022101071,2022-03-21,CHA,NOP,46.73,4,1,16,NOP,NOP,fg_miss,6,False,False,,MISS McCollum 2' Driving Layup,100-99,100,99
+0022101071,2022-03-21,CHA,NOP,46.77,4,1,14,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:2 Def:3),,100-99,100,99
+0022101071,2022-03-21,CHA,NOP,47.02,4,0,59,CHA,CHA,fg_make,7,False,False,Plumlee 1' Dunk (9 PTS) (Washington 7 AST),,102-99,102,99
+0022101071,2022-03-21,CHA,NOP,47.02,4,0,59,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.6 Short 0),102-99,102,99
+0022101071,2022-03-21,CHA,NOP,47.17,4,0,50,NOP,NOP,fg_make,6,False,False,,McCollum 6' Driving Layup (27 PTS),102-101,102,101
+0022101071,2022-03-21,CHA,NOP,47.17,4,0,50,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 5 Short 0),,102-101,102,101
+0022101071,2022-03-21,CHA,NOP,47.37,4,0,38,CHA,CHA,fg_make,108,False,False,Plumlee 2' Cutting Dunk Shot (11 PTS) (Ball 9 AST),,104-101,104,101
+0022101071,2022-03-21,CHA,NOP,47.47,4,0,32,NOP,NOP,fg_make,41,False,False,,Alvarado 1' Running Layup (7 PTS),104-103,104,103
+0022101071,2022-03-21,CHA,NOP,47.87,4,0,8,CHA,CHA,fg_make,101,False,False,Ball 8' Driving Floating Jump Shot (17 PTS),,106-103,106,103
+0022101071,2022-03-21,CHA,NOP,48.0,4,0,0,CHA,,period_end,0,False,False,,,106-103,106,103

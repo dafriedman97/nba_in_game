@@ -1,0 +1,426 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101080,2022-03-22,ORL,GSW,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.0,1,12,0,,ORL,jump_ball,0,False,False,Jump Ball Bamba vs. Looney: Tip to Green,,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.32,1,11,41,GSW,GSW,fg_miss,80,False,False,,MISS Wiggins 13' Step Back Jump Shot,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.38,1,11,37,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:1),,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.47,1,11,32,ORL,ORL,tov,1,False,True,Bamba Bad Pass Turnover (P1.T1),,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.47,1,11,32,ORL,GSW,steal,1,False,True,steal,steal,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.53,1,11,28,GSW,GSW,fg_miss,41,True,False,,MISS Green 4' Running Layup,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.53,1,11,28,GSW,ORL,block,41,True,False,block,block,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.53,1,11,28,GSW,GSW,reb,0,False,False,,Warriors Rebound,0-0,0,0
+0022101080,2022-03-22,ORL,GSW,0.65,1,11,21,GSW,GSW,fg_make,79,False,False,,Thompson 21' Pullup Jump Shot (2 PTS) (Green 1 AST),0-2,0,2
+0022101080,2022-03-22,ORL,GSW,0.9,1,11,6,ORL,ORL,fg_make,75,False,False,F. Wagner 3' Driving Finger Roll Layup (2 PTS),,2-2,2,2
+0022101080,2022-03-22,ORL,GSW,1.08,1,10,55,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 28' 3PT Jump Shot,2-2,2,2
+0022101080,2022-03-22,ORL,GSW,1.13,1,10,52,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:1),,2-2,2,2
+0022101080,2022-03-22,ORL,GSW,1.33,1,10,40,ORL,ORL,fg_make,79,False,False,Carter Jr. 15' Pullup Jump Shot (2 PTS),,4-2,4,2
+0022101080,2022-03-22,ORL,GSW,1.53,1,10,28,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 26' 3PT Jump Shot,4-2,4,2
+0022101080,2022-03-22,ORL,GSW,1.6,1,10,24,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:2),,4-2,4,2
+0022101080,2022-03-22,ORL,GSW,1.92,1,10,5,ORL,ORL,fg_miss,47,False,False,MISS Anthony 7' Turnaround Jump Shot,,4-2,4,2
+0022101080,2022-03-22,ORL,GSW,1.97,1,10,2,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:1),4-2,4,2
+0022101080,2022-03-22,ORL,GSW,2.15,1,9,51,GSW,GSW,fg_miss,57,False,False,,MISS Looney 4' Driving Hook Shot,4-2,4,2
+0022101080,2022-03-22,ORL,GSW,2.2,1,9,48,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:3),,4-2,4,2
+0022101080,2022-03-22,ORL,GSW,2.42,1,9,35,ORL,ORL,fg_make,6,False,False,Hampton 7' Driving Layup (2 PTS) (Anthony 1 AST),,6-2,6,2
+0022101080,2022-03-22,ORL,GSW,2.58,1,9,25,GSW,GSW,fg_miss,105,False,False,,MISS Thompson 11' Turnaround Fadeaway Bank Jump Shot,6-2,6,2
+0022101080,2022-03-22,ORL,GSW,2.62,1,9,23,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:1),,6-2,6,2
+0022101080,2022-03-22,ORL,GSW,2.73,1,9,16,ORL,GSW,foul,1,False,False,,Thompson P.FOUL (P1.T1) (D.Richardson),6-2,6,2
+0022101080,2022-03-22,ORL,GSW,2.87,1,9,8,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 3PT Jump Shot,,6-2,6,2
+0022101080,2022-03-22,ORL,GSW,2.93,1,9,4,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:2),6-2,6,2
+0022101080,2022-03-22,ORL,GSW,3.08,1,8,55,GSW,GSW,fg_miss,47,False,False,,MISS Wiggins 9' Turnaround Jump Shot,6-2,6,2
+0022101080,2022-03-22,ORL,GSW,3.13,1,8,52,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:2),,6-2,6,2
+0022101080,2022-03-22,ORL,GSW,3.32,1,8,41,ORL,ORL,fg3_make,1,False,False,Anthony 25' 3PT Jump Shot (3 PTS) (Bamba 1 AST),,9-2,9,2
+0022101080,2022-03-22,ORL,GSW,3.6,1,8,24,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 27' 3PT Jump Shot,9-2,9,2
+0022101080,2022-03-22,ORL,GSW,3.67,1,8,20,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:1),,9-2,9,2
+0022101080,2022-03-22,ORL,GSW,3.82,1,8,11,ORL,ORL,fg3_miss,1,False,False,MISS Anthony 25' 3PT Jump Shot,,9-2,9,2
+0022101080,2022-03-22,ORL,GSW,3.88,1,8,7,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:3),9-2,9,2
+0022101080,2022-03-22,ORL,GSW,3.93,1,8,4,GSW,ORL,foul,1,False,False,Anthony P.FOUL (P1.T1) (D.Richardson),,9-2,9,2
+0022101080,2022-03-22,ORL,GSW,4.07,1,7,56,GSW,GSW,fg_make,98,False,False,,Looney 3' Cutting Layup Shot (2 PTS) (Thompson 1 AST),9-4,9,4
+0022101080,2022-03-22,ORL,GSW,4.3,1,7,42,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 25' 3PT Jump Shot,,9-4,9,4
+0022101080,2022-03-22,ORL,GSW,4.35,1,7,39,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:1),9-4,9,4
+0022101080,2022-03-22,ORL,GSW,4.43,1,7,34,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 26' 3PT Jump Shot,9-4,9,4
+0022101080,2022-03-22,ORL,GSW,4.52,1,7,29,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:2),,9-4,9,4
+0022101080,2022-03-22,ORL,GSW,4.7,1,7,18,ORL,GSW,foul,1,False,False,,Wiggins P.FOUL (P1.T2) (T.Brothers),9-4,9,4
+0022101080,2022-03-22,ORL,GSW,4.95,1,7,3,ORL,ORL,fg3_make,1,False,False,Anthony 27' 3PT Jump Shot (6 PTS) (Bamba 2 AST),,12-4,12,4
+0022101080,2022-03-22,ORL,GSW,5.2,1,6,48,GSW,GSW,tov,1,False,True,,Poole Bad Pass Turnover (P1.T1),12-4,12,4
+0022101080,2022-03-22,ORL,GSW,5.2,1,6,48,GSW,ORL,steal,1,False,True,steal,steal,12-4,12,4
+0022101080,2022-03-22,ORL,GSW,5.25,1,6,45,ORL,GSW,foul,28,False,False,,Green Personal Take Foul (P1.T3) (D.Richardson),12-4,12,4
+0022101080,2022-03-22,ORL,GSW,5.25,1,6,45,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,12-4,12,4
+0022101080,2022-03-22,ORL,GSW,5.47,1,6,32,ORL,ORL,fg3_miss,1,False,False,MISS F. Wagner 24' 3PT Jump Shot,,12-4,12,4
+0022101080,2022-03-22,ORL,GSW,5.52,1,6,29,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),12-4,12,4
+0022101080,2022-03-22,ORL,GSW,5.7,1,6,18,GSW,GSW,fg_make,98,False,False,,Porter Jr. 4' Cutting Layup Shot (2 PTS) (Poole 1 AST),12-6,12,6
+0022101080,2022-03-22,ORL,GSW,5.7,1,6,18,GSW,ORL,foul,2,False,False,Hampton S.FOUL (P1.T2) (T.Brothers),,12-6,12,6
+0022101080,2022-03-22,ORL,GSW,5.7,1,6,18,GSW,GSW,ft_make,10,False,False,,Porter Jr. Free Throw 1 of 1 (3 PTS),12-7,12,7
+0022101080,2022-03-22,ORL,GSW,5.98,1,6,1,ORL,ORL,fg_make,52,False,False,Bamba 1' Alley Oop Dunk (2 PTS) (F. Wagner 1 AST),,14-7,14,7
+0022101080,2022-03-22,ORL,GSW,6.23,1,5,46,GSW,GSW,fg_make,79,False,False,,Thompson 18' Pullup Jump Shot (4 PTS) (Green 2 AST),14-9,14,9
+0022101080,2022-03-22,ORL,GSW,6.62,1,5,23,ORL,ORL,fg_miss,80,False,False,MISS Carter Jr. 14' Step Back Jump Shot,,14-9,14,9
+0022101080,2022-03-22,ORL,GSW,6.68,1,5,19,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:1),14-9,14,9
+0022101080,2022-03-22,ORL,GSW,6.73,1,5,16,GSW,GSW,tov,2,False,True,,Porter Jr. Lost Ball Turnover (P1.T2),14-9,14,9
+0022101080,2022-03-22,ORL,GSW,6.73,1,5,16,GSW,ORL,steal,2,False,True,steal,steal,14-9,14,9
+0022101080,2022-03-22,ORL,GSW,6.82,1,5,11,ORL,ORL,fg_make,50,False,False,F. Wagner Running Dunk (4 PTS) (Hampton 1 AST),,16-9,16,9
+0022101080,2022-03-22,ORL,GSW,6.85,1,5,9,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.1 Short 0),16-9,16,9
+0022101080,2022-03-22,ORL,GSW,7.12,1,4,53,GSW,GSW,fg_make,6,False,False,,Wiggins 4' Driving Layup (2 PTS) (Poole 2 AST),16-11,16,11
+0022101080,2022-03-22,ORL,GSW,7.38,1,4,37,ORL,ORL,fg_make,108,False,False,F. Wagner Cutting Dunk Shot (6 PTS) (Anthony 2 AST),,18-11,18,11
+0022101080,2022-03-22,ORL,GSW,7.62,1,4,23,GSW,ORL,foul,2,False,False,F. Wagner S.FOUL (P1.T3) (J.Goble),,18-11,18,11
+0022101080,2022-03-22,ORL,GSW,7.62,1,4,23,GSW,GSW,ft_miss,11,False,False,,MISS Wiggins Free Throw 1 of 2,18-11,18,11
+0022101080,2022-03-22,ORL,GSW,7.62,1,4,23,GSW,GSW,reb,1,False,False,,Warriors Rebound,18-11,18,11
+0022101080,2022-03-22,ORL,GSW,7.62,1,4,23,GSW,GSW,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (3 PTS),18-12,18,12
+0022101080,2022-03-22,ORL,GSW,8.03,1,3,58,ORL,ORL,fg_make,44,False,False,Carter Jr. 1' Reverse Layup (4 PTS) (F. Wagner 2 AST),,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.33,1,3,40,GSW,GSW,fg_miss,3,False,False,,MISS Bjelica 7' Hook Shot,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.43,1,3,34,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:0),20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.43,1,3,34,GSW,GSW,fg_miss,97,False,False,,MISS Payton II Tip Layup Shot,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.47,1,3,32,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:3),,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.6,1,3,24,ORL,ORL,fg_miss,66,False,False,MISS Bamba 18' Jump Bank Shot,,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.65,1,3,21,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.73,1,3,16,GSW,GSW,fg_miss,41,False,False,,MISS Wiggins 4' Running Layup,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.8,1,3,12,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:2 Def:0),20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.8,1,3,12,GSW,GSW,fg_miss,97,False,False,,MISS Payton II Tip Layup Shot,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.8,1,3,12,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:4),,20-12,20,12
+0022101080,2022-03-22,ORL,GSW,8.9,1,3,6,ORL,ORL,fg3_make,1,False,False,Anthony 25' 3PT Jump Shot (9 PTS) (Bamba 3 AST),,23-12,23,12
+0022101080,2022-03-22,ORL,GSW,9.17,1,2,50,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 28' 3PT Jump Shot,23-12,23,12
+0022101080,2022-03-22,ORL,GSW,9.22,1,2,47,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:5),,23-12,23,12
+0022101080,2022-03-22,ORL,GSW,9.32,1,2,41,ORL,ORL,fg_make,41,False,False,F. Wagner 1' Running Layup (8 PTS) (Anthony 3 AST),,25-12,25,12
+0022101080,2022-03-22,ORL,GSW,9.32,1,2,41,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),25-12,25,12
+0022101080,2022-03-22,ORL,GSW,9.52,1,2,29,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 31' 3PT Jump Shot,25-12,25,12
+0022101080,2022-03-22,ORL,GSW,9.57,1,2,26,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:1),25-12,25,12
+0022101080,2022-03-22,ORL,GSW,9.57,1,2,26,GSW,GSW,fg_make,72,False,False,,Porter Jr. 1' Putback Layup (5 PTS),25-14,25,14
+0022101080,2022-03-22,ORL,GSW,9.57,1,2,26,GSW,ORL,foul,2,False,False,Carter Jr. S.FOUL (P1.T4) (D.Richardson),,25-14,25,14
+0022101080,2022-03-22,ORL,GSW,9.57,1,2,26,GSW,GSW,ft_make,10,False,False,,Porter Jr. Free Throw 1 of 1 (6 PTS),25-15,25,15
+0022101080,2022-03-22,ORL,GSW,9.92,1,2,5,ORL,GSW,foul,1,False,False,,Poole P.FOUL (P1.T4) (J.Goble),25-15,25,15
+0022101080,2022-03-22,ORL,GSW,10.07,1,1,56,ORL,ORL,fg_miss,6,False,False,MISS Fultz 2' Driving Layup,,25-15,25,15
+0022101080,2022-03-22,ORL,GSW,10.12,1,1,53,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:2),25-15,25,15
+0022101080,2022-03-22,ORL,GSW,10.2,1,1,48,GSW,GSW,fg_make,98,False,False,,Thompson 3' Cutting Layup Shot (6 PTS) (Green 3 AST),25-17,25,17
+0022101080,2022-03-22,ORL,GSW,10.37,1,1,38,ORL,ORL,fg3_miss,1,False,False,MISS Carter Jr. 24' 3PT Jump Shot,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,10.43,1,1,34,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:2),25-17,25,17
+0022101080,2022-03-22,ORL,GSW,10.73,1,1,16,GSW,ORL,violation,1,False,False,MAGIC Violation: Delay of game Violation,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,10.78,1,1,13,GSW,GSW,fg_miss,101,False,False,,MISS Thompson 16' Driving Floating Jump Shot,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,10.87,1,1,8,ORL,ORL,reb,0,False,False,Fultz REBOUND (Off:0 Def:1),,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.05,1,0,57,ORL,ORL,fg_miss,5,True,False,MISS Carter Jr. 4' Layup,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.05,1,0,57,ORL,GSW,block,5,True,False,block,block,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.08,1,0,55,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:1),25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.27,1,0,44,GSW,GSW,tov,1,False,True,,Bjelica Bad Pass Turnover (P1.T3),25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.27,1,0,44,GSW,ORL,steal,1,False,True,steal,steal,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.47,1,0,32,ORL,ORL,fg_miss,102,False,False,MISS Harris 10' Driving Floating Bank Jump Shot,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.5,1,0,30,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:1 Def:0),,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.52,1,0,29,ORL,ORL,fg_miss,72,True,False,MISS Harris 3' Putback Layup,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.52,1,0,29,ORL,GSW,block,72,True,False,block,block,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.52,1,0,29,GSW,GSW,reb,0,False,False,,Kuminga REBOUND (Off:0 Def:1),25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.87,1,0,8,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 25' 3PT Jump Shot,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,11.92,1,0,5,ORL,ORL,reb,0,False,False,Schofield REBOUND (Off:0 Def:1),,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,12.0,1,0,0,ORL,ORL,fg_miss,79,False,False,MISS Fultz 17' Pullup Jump Shot,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,12.0,1,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,12.0,1,0,0,ORL,,period_end,0,False,False,,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,12.0,2,12,0,ORL,,period_start,0,False,False,,,25-17,25,17
+0022101080,2022-03-22,ORL,GSW,12.3,2,11,42,ORL,ORL,fg_make,9,False,False,Okeke Driving Dunk (2 PTS) (Harris 1 AST),,27-17,27,17
+0022101080,2022-03-22,ORL,GSW,12.67,2,11,20,GSW,GSW,fg3_make,1,False,False,,Porter Jr. 26' 3PT Jump Shot (9 PTS) (Kuminga 1 AST),27-20,27,20
+0022101080,2022-03-22,ORL,GSW,12.93,2,11,4,ORL,ORL,fg3_miss,1,False,False,MISS M. Wagner 25' 3PT Jump Shot,,27-20,27,20
+0022101080,2022-03-22,ORL,GSW,12.97,2,11,2,ORL,ORL,reb,0,False,False,Schofield REBOUND (Off:1 Def:1),,27-20,27,20
+0022101080,2022-03-22,ORL,GSW,12.98,2,11,1,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 27' 3PT Jump Shot,,27-20,27,20
+0022101080,2022-03-22,ORL,GSW,13.05,2,10,57,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:3),27-20,27,20
+0022101080,2022-03-22,ORL,GSW,13.2,2,10,48,GSW,GSW,tov,1,False,True,,Chiozza Bad Pass Turnover (P1.T4),27-20,27,20
+0022101080,2022-03-22,ORL,GSW,13.2,2,10,48,GSW,ORL,steal,1,False,True,steal,steal,27-20,27,20
+0022101080,2022-03-22,ORL,GSW,13.58,2,10,25,ORL,ORL,fg_miss,47,False,False,MISS M. Wagner 5' Turnaround Jump Shot,,27-20,27,20
+0022101080,2022-03-22,ORL,GSW,13.63,2,10,22,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:4),27-20,27,20
+0022101080,2022-03-22,ORL,GSW,13.88,2,10,7,GSW,ORL,foul,2,False,False,M. Wagner S.FOUL (P1.T1) (D.Richardson),,27-20,27,20
+0022101080,2022-03-22,ORL,GSW,13.88,2,10,7,GSW,GSW,ft_make,11,False,False,,Bjelica Free Throw 1 of 2 (1 PTS),27-21,27,21
+0022101080,2022-03-22,ORL,GSW,13.88,2,10,7,GSW,GSW,ft_miss,12,False,False,,MISS Bjelica Free Throw 2 of 2,27-21,27,21
+0022101080,2022-03-22,ORL,GSW,13.93,2,10,4,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:1),,27-21,27,21
+0022101080,2022-03-22,ORL,GSW,14.13,2,9,52,ORL,ORL,fg_make,6,False,False,Fultz 3' Driving Layup (2 PTS),,29-21,29,21
+0022101080,2022-03-22,ORL,GSW,14.35,2,9,39,GSW,GSW,tov,1,False,True,,Chiozza Bad Pass Turnover (P2.T5),29-21,29,21
+0022101080,2022-03-22,ORL,GSW,14.35,2,9,39,GSW,ORL,steal,1,False,True,steal,steal,29-21,29,21
+0022101080,2022-03-22,ORL,GSW,14.43,2,9,34,ORL,ORL,tov,2,False,True,Fultz Lost Ball Turnover (P1.T2),,29-21,29,21
+0022101080,2022-03-22,ORL,GSW,14.43,2,9,34,ORL,GSW,steal,2,False,True,steal,steal,29-21,29,21
+0022101080,2022-03-22,ORL,GSW,14.53,2,9,28,GSW,GSW,fg3_miss,2,False,False,,MISS Chiozza 25' 3PT Running Jump Shot,29-21,29,21
+0022101080,2022-03-22,ORL,GSW,14.58,2,9,25,ORL,ORL,reb,0,False,False,M. Wagner REBOUND (Off:0 Def:1),,29-21,29,21
+0022101080,2022-03-22,ORL,GSW,14.68,2,9,19,ORL,ORL,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (3 PTS) (Okeke 1 AST),,32-21,32,21
+0022101080,2022-03-22,ORL,GSW,15.07,2,8,56,GSW,GSW,fg_miss,79,False,False,,MISS Thompson 21' Pullup Jump Shot,32-21,32,21
+0022101080,2022-03-22,ORL,GSW,15.13,2,8,52,ORL,ORL,reb,0,False,False,Schofield REBOUND (Off:1 Def:2),,32-21,32,21
+0022101080,2022-03-22,ORL,GSW,15.38,2,8,37,ORL,ORL,tov,1,False,True,Okeke Bad Pass Turnover (P1.T3),,32-21,32,21
+0022101080,2022-03-22,ORL,GSW,15.38,2,8,37,ORL,GSW,steal,1,False,True,steal,steal,32-21,32,21
+0022101080,2022-03-22,ORL,GSW,15.5,2,8,30,GSW,GSW,fg_make,75,False,False,,Kuminga 6' Driving Finger Roll Layup (2 PTS),32-23,32,23
+0022101080,2022-03-22,ORL,GSW,15.82,2,8,11,ORL,ORL,fg_make,6,False,False,Harris 3' Driving Layup (5 PTS) (M. Wagner 1 AST),,34-23,34,23
+0022101080,2022-03-22,ORL,GSW,16.0,2,8,0,GSW,GSW,fg_make,80,False,False,,Kuminga 19' Step Back Jump Shot (4 PTS) (Chiozza 1 AST),34-25,34,25
+0022101080,2022-03-22,ORL,GSW,16.03,2,7,58,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,34-25,34,25
+0022101080,2022-03-22,ORL,GSW,16.23,2,7,46,ORL,ORL,fg_miss,6,False,False,MISS Fultz 3' Driving Layup,,34-25,34,25
+0022101080,2022-03-22,ORL,GSW,16.27,2,7,44,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:2),34-25,34,25
+0022101080,2022-03-22,ORL,GSW,16.48,2,7,31,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.3 Short 0),34-25,34,25
+0022101080,2022-03-22,ORL,GSW,16.62,2,7,23,GSW,GSW,fg_make,5,False,False,,Kuminga 3' Layup (6 PTS),34-27,34,27
+0022101080,2022-03-22,ORL,GSW,16.93,2,7,4,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 26' 3PT Jump Shot,,34-27,34,27
+0022101080,2022-03-22,ORL,GSW,16.98,2,7,1,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:3),34-27,34,27
+0022101080,2022-03-22,ORL,GSW,17.07,2,6,56,GSW,GSW,fg3_make,103,False,False,,Poole 26' 3PT Running Pull-Up Jump Shot (3 PTS),34-30,34,30
+0022101080,2022-03-22,ORL,GSW,17.33,2,6,40,ORL,ORL,fg3_miss,1,False,False,MISS Schofield 24' 3PT Jump Shot,,34-30,34,30
+0022101080,2022-03-22,ORL,GSW,17.38,2,6,37,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:4),34-30,34,30
+0022101080,2022-03-22,ORL,GSW,17.48,2,6,31,ORL,GSW,foul,4,False,False,,Bjelica OFF.Foul (P1) (J.Goble),34-30,34,30
+0022101080,2022-03-22,ORL,GSW,17.48,2,6,31,GSW,GSW,tov,37,False,False,,Bjelica Offensive Foul Turnover (P2.T6),34-30,34,30
+0022101080,2022-03-22,ORL,GSW,17.67,2,6,20,ORL,ORL,fg_miss,6,False,False,MISS Fultz 12' Driving Layup,,34-30,34,30
+0022101080,2022-03-22,ORL,GSW,17.73,2,6,16,GSW,GSW,reb,0,False,False,,Kuminga REBOUND (Off:0 Def:2),34-30,34,30
+0022101080,2022-03-22,ORL,GSW,17.95,2,6,3,GSW,GSW,fg_miss,58,False,False,,MISS Wiggins 7' Turnaround Hook Shot,34-30,34,30
+0022101080,2022-03-22,ORL,GSW,18.02,2,5,59,ORL,ORL,reb,0,False,False,M. Wagner REBOUND (Off:0 Def:2),,34-30,34,30
+0022101080,2022-03-22,ORL,GSW,18.18,2,5,49,ORL,GSW,foul,2,False,False,,Lee S.FOUL (P1.T1) (J.Goble),34-30,34,30
+0022101080,2022-03-22,ORL,GSW,18.18,2,5,49,ORL,ORL,ft_make,11,False,False,M. Wagner Free Throw 1 of 2 (1 PTS),,35-30,35,30
+0022101080,2022-03-22,ORL,GSW,18.18,2,5,49,ORL,ORL,ft_make,12,False,False,M. Wagner Free Throw 2 of 2 (2 PTS),,36-30,36,30
+0022101080,2022-03-22,ORL,GSW,18.33,2,5,40,GSW,GSW,fg3_miss,79,False,False,,MISS Poole 27' 3PT Pullup Jump Shot,36-30,36,30
+0022101080,2022-03-22,ORL,GSW,18.4,2,5,36,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,36-30,36,30
+0022101080,2022-03-22,ORL,GSW,18.55,2,5,27,ORL,ORL,fg_make,6,False,False,M. Wagner 2' Driving Layup (4 PTS) (Schofield 1 AST),,38-30,38,30
+0022101080,2022-03-22,ORL,GSW,18.78,2,5,13,GSW,ORL,foul,2,False,False,M. Wagner S.FOUL (P2.T2) (J.Goble),,38-30,38,30
+0022101080,2022-03-22,ORL,GSW,18.78,2,5,13,GSW,GSW,ft_make,11,False,False,,Poole Free Throw 1 of 2 (4 PTS),38-31,38,31
+0022101080,2022-03-22,ORL,GSW,18.78,2,5,13,GSW,GSW,ft_make,12,False,False,,Poole Free Throw 2 of 2 (5 PTS),38-32,38,32
+0022101080,2022-03-22,ORL,GSW,18.98,2,5,1,ORL,ORL,fg3_miss,1,False,False,MISS M. Wagner 25' 3PT Jump Shot,,38-32,38,32
+0022101080,2022-03-22,ORL,GSW,19.05,2,4,57,GSW,GSW,reb,0,False,False,,Kuminga REBOUND (Off:0 Def:3),38-32,38,32
+0022101080,2022-03-22,ORL,GSW,19.17,2,4,50,GSW,GSW,fg_make,9,False,False,,Kuminga 1' Driving Dunk (8 PTS),38-34,38,34
+0022101080,2022-03-22,ORL,GSW,19.5,2,4,30,ORL,GSW,foul,2,False,False,,Wiggins S.FOUL (P2.T2) (J.Goble),38-34,38,34
+0022101080,2022-03-22,ORL,GSW,19.5,2,4,30,ORL,ORL,ft_miss,11,False,False,MISS Okeke Free Throw 1 of 2,,38-34,38,34
+0022101080,2022-03-22,ORL,GSW,19.5,2,4,30,ORL,ORL,reb,1,False,False,MAGIC Rebound,,38-34,38,34
+0022101080,2022-03-22,ORL,GSW,19.5,2,4,30,ORL,ORL,ft_make,12,False,False,Okeke Free Throw 2 of 2 (3 PTS),,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,19.67,2,4,20,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P1.T7),39-34,39,34
+0022101080,2022-03-22,ORL,GSW,19.67,2,4,20,GSW,ORL,steal,1,False,True,steal,steal,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.02,2,3,59,ORL,ORL,fg_miss,79,False,False,MISS Hampton 8' Pullup Jump Shot,,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.05,2,3,57,GSW,GSW,reb,0,False,False,,Kuminga REBOUND (Off:0 Def:4),39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.17,2,3,50,GSW,ORL,foul,1,False,False,Hampton P.FOUL (P2.T3) (J.Goble),,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.37,2,3,38,GSW,GSW,fg3_miss,80,True,False,,MISS Poole 27' 3PT Step Back Jump Shot,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.37,2,3,38,GSW,ORL,block,80,True,False,block,block,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.45,2,3,33,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:3),,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.67,2,3,20,ORL,ORL,fg3_miss,1,False,False,MISS Anthony 29' 3PT Jump Shot,,39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.68,2,3,19,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:3),39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.68,2,3,19,ORL,GSW,foul,4,False,False,,Kuminga OFF.Foul (P1) (T.Brothers),39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.68,2,3,19,GSW,GSW,tov,37,False,False,,Kuminga Offensive Foul Turnover (P1.T8),39-34,39,34
+0022101080,2022-03-22,ORL,GSW,20.97,2,3,2,ORL,ORL,fg_make,98,False,False,Carter Jr. 2' Cutting Layup Shot (6 PTS) (Hampton 2 AST),,41-34,41,34
+0022101080,2022-03-22,ORL,GSW,21.27,2,2,44,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 27' 3PT Jump Shot,41-34,41,34
+0022101080,2022-03-22,ORL,GSW,21.3,2,2,42,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:4),,41-34,41,34
+0022101080,2022-03-22,ORL,GSW,21.47,2,2,32,ORL,ORL,fg3_miss,79,False,False,MISS Hampton 25' 3PT Pullup Jump Shot,,41-34,41,34
+0022101080,2022-03-22,ORL,GSW,21.57,2,2,26,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:3),41-34,41,34
+0022101080,2022-03-22,ORL,GSW,21.85,2,2,9,GSW,GSW,fg_make,98,False,False,,Kuminga 3' Cutting Layup Shot (10 PTS) (Green 4 AST),41-36,41,36
+0022101080,2022-03-22,ORL,GSW,21.95,2,2,3,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 25' 3PT Jump Shot,,41-36,41,36
+0022101080,2022-03-22,ORL,GSW,22.0,2,2,0,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:3),,41-36,41,36
+0022101080,2022-03-22,ORL,GSW,22.08,2,1,55,ORL,GSW,foul,2,False,False,,Kuminga S.FOUL (P2.T3) (J.Goble),41-36,41,36
+0022101080,2022-03-22,ORL,GSW,22.08,2,1,55,ORL,ORL,ft_miss,11,False,False,MISS Carter Jr. Free Throw 1 of 2,,41-36,41,36
+0022101080,2022-03-22,ORL,GSW,22.08,2,1,55,ORL,ORL,reb,1,False,False,MAGIC Rebound,,41-36,41,36
+0022101080,2022-03-22,ORL,GSW,22.08,2,1,55,ORL,ORL,ft_make,12,False,False,Carter Jr. Free Throw 2 of 2 (7 PTS),,42-36,42,36
+0022101080,2022-03-22,ORL,GSW,22.43,2,1,34,GSW,GSW,fg_miss,6,False,False,,MISS Kuminga 4' Driving Layup,42-36,42,36
+0022101080,2022-03-22,ORL,GSW,22.43,2,1,34,ORL,ORL,reb,0,False,False,MAGIC Rebound,,42-36,42,36
+0022101080,2022-03-22,ORL,GSW,22.43,2,1,34,ORL,GSW,foul,1,False,False,,Kuminga P.FOUL (P3.PN) (J.Goble),42-36,42,36
+0022101080,2022-03-22,ORL,GSW,22.43,2,1,34,ORL,ORL,ft_miss,11,False,False,MISS Bamba Free Throw 1 of 2,,42-36,42,36
+0022101080,2022-03-22,ORL,GSW,22.43,2,1,34,ORL,ORL,reb,1,False,False,MAGIC Rebound,,42-36,42,36
+0022101080,2022-03-22,ORL,GSW,22.43,2,1,34,ORL,ORL,ft_make,12,False,False,Bamba Free Throw 2 of 2 (3 PTS),,43-36,43,36
+0022101080,2022-03-22,ORL,GSW,22.68,2,1,19,GSW,GSW,fg_miss,41,False,False,,MISS Poole 3' Running Layup,43-36,43,36
+0022101080,2022-03-22,ORL,GSW,22.72,2,1,17,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:2),,43-36,43,36
+0022101080,2022-03-22,ORL,GSW,22.77,2,1,14,GSW,ORL,foul,4,False,False,Bamba OFF.Foul (P1) (D.Richardson),,43-36,43,36
+0022101080,2022-03-22,ORL,GSW,22.77,2,1,14,ORL,ORL,tov,37,False,False,Bamba Offensive Foul Turnover (P2.T4),,43-36,43,36
+0022101080,2022-03-22,ORL,GSW,23.17,2,0,50,GSW,GSW,fg_make,79,False,False,,Thompson 21' Pullup Jump Shot (8 PTS),43-38,43,38
+0022101080,2022-03-22,ORL,GSW,23.52,2,0,29,ORL,ORL,fg3_make,79,False,False,Carter Jr. 25' 3PT Pullup Jump Shot (10 PTS) (Anthony 4 AST),,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,23.97,2,0,2,GSW,GSW,fg3_miss,79,False,False,,MISS Wiggins 26' 3PT Pullup Jump Shot,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.0,2,0,0,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:4),,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.0,2,0,0,ORL,ORL,fg3_miss,2,False,False,MISS Carter Jr. 47' 3PT Running Jump Shot,,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.0,2,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.0,2,0,0,ORL,,period_end,0,False,False,,,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.0,3,12,0,ORL,,period_start,0,False,False,,,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.4,3,11,36,ORL,ORL,fg_miss,6,False,False,MISS F. Wagner 3' Driving Layup,,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.47,3,11,32,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:5),46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.73,3,11,16,GSW,ORL,foul,17,False,False,MAGIC T.Foul (Def. 3 Sec Bamba ) (T.Brothers),,46-38,46,38
+0022101080,2022-03-22,ORL,GSW,24.73,3,11,16,GSW,GSW,ft_make,16,False,False,,Thompson Free Throw Technical (9 PTS),46-39,46,39
+0022101080,2022-03-22,ORL,GSW,24.95,3,11,3,GSW,GSW,fg_miss,101,False,False,,MISS Wiggins 11' Driving Floating Jump Shot,46-39,46,39
+0022101080,2022-03-22,ORL,GSW,25.02,3,10,59,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:3),46-39,46,39
+0022101080,2022-03-22,ORL,GSW,25.03,3,10,58,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 24' 3PT Jump Shot,46-39,46,39
+0022101080,2022-03-22,ORL,GSW,25.08,3,10,55,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:2 Def:5),46-39,46,39
+0022101080,2022-03-22,ORL,GSW,25.08,3,10,55,GSW,GSW,fg_miss,97,False,False,,MISS Porter Jr. Tip Layup Shot,46-39,46,39
+0022101080,2022-03-22,ORL,GSW,25.08,3,10,55,GSW,GSW,reb,0,False,False,,Warriors Rebound,46-39,46,39
+0022101080,2022-03-22,ORL,GSW,25.12,3,10,53,GSW,GSW,fg3_make,1,False,False,,Thompson 24' 3PT Jump Shot (12 PTS) (Poole 3 AST),46-42,46,42
+0022101080,2022-03-22,ORL,GSW,25.32,3,10,41,ORL,ORL,fg3_miss,1,False,False,MISS Carter Jr. 26' 3PT Jump Shot,,46-42,46,42
+0022101080,2022-03-22,ORL,GSW,25.37,3,10,38,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:4),46-42,46,42
+0022101080,2022-03-22,ORL,GSW,25.42,3,10,35,GSW,ORL,foul,2,False,False,Bamba S.FOUL (P2.T1) (J.Goble),,46-42,46,42
+0022101080,2022-03-22,ORL,GSW,25.42,3,10,35,GSW,GSW,ft_miss,11,False,False,,MISS Looney Free Throw 1 of 2,46-42,46,42
+0022101080,2022-03-22,ORL,GSW,25.42,3,10,35,GSW,GSW,reb,1,False,False,,Warriors Rebound,46-42,46,42
+0022101080,2022-03-22,ORL,GSW,25.42,3,10,35,GSW,GSW,ft_make,12,False,False,,Looney Free Throw 2 of 2 (3 PTS),46-43,46,43
+0022101080,2022-03-22,ORL,GSW,25.68,3,10,19,ORL,ORL,tov,1,False,True,F. Wagner Bad Pass Turnover (P1.T5),,46-43,46,43
+0022101080,2022-03-22,ORL,GSW,25.68,3,10,19,ORL,GSW,steal,1,False,True,steal,steal,46-43,46,43
+0022101080,2022-03-22,ORL,GSW,25.77,3,10,14,GSW,GSW,fg_miss,47,False,False,,MISS Thompson 9' Turnaround Jump Shot,46-43,46,43
+0022101080,2022-03-22,ORL,GSW,25.83,3,10,10,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:3),46-43,46,43
+0022101080,2022-03-22,ORL,GSW,25.87,3,10,8,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 25' 3PT Jump Shot,46-43,46,43
+0022101080,2022-03-22,ORL,GSW,25.93,3,10,4,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:5),,46-43,46,43
+0022101080,2022-03-22,ORL,GSW,26.15,3,9,51,ORL,ORL,fg_make,6,False,False,F. Wagner 4' Driving Layup (10 PTS),,48-43,48,43
+0022101080,2022-03-22,ORL,GSW,26.42,3,9,35,GSW,GSW,fg_make,5,False,False,,Looney 2' Layup (5 PTS) (Porter Jr. 1 AST),48-45,48,45
+0022101080,2022-03-22,ORL,GSW,26.62,3,9,23,ORL,ORL,fg_miss,6,False,False,MISS Anthony 4' Driving Layup,,48-45,48,45
+0022101080,2022-03-22,ORL,GSW,26.63,3,9,22,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:5),,48-45,48,45
+0022101080,2022-03-22,ORL,GSW,26.63,3,9,22,ORL,ORL,fg_make,72,False,False,Carter Jr. 2' Putback Layup (12 PTS),,50-45,50,45
+0022101080,2022-03-22,ORL,GSW,26.63,3,9,22,ORL,GSW,foul,2,False,False,,Looney S.FOUL (P1.T1) (J.Goble),50-45,50,45
+0022101080,2022-03-22,ORL,GSW,26.63,3,9,22,ORL,ORL,ft_make,10,False,False,Carter Jr. Free Throw 1 of 1 (13 PTS),,51-45,51,45
+0022101080,2022-03-22,ORL,GSW,27.05,3,8,57,GSW,GSW,fg_make,73,False,False,,Poole 2' Driving Reverse Layup (7 PTS),51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.23,3,8,46,ORL,ORL,fg_miss,79,False,False,MISS Anthony 21' Pullup Jump Shot,,51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.28,3,8,43,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:5),51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.33,3,8,40,GSW,ORL,foul,1,False,False,Anthony P.FOUL (P2.T2) (J.Goble),,51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.45,3,8,33,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 26' 3PT Jump Shot,51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.52,3,8,29,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:3 Def:5),51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.68,3,8,19,GSW,GSW,fg_miss,80,False,False,,MISS Poole 19' Step Back Jump Shot,51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.75,3,8,15,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:6),,51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.98,3,8,1,ORL,GSW,foul,2,False,False,,Wiggins S.FOUL (P3.T2) (D.Richardson),51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.98,3,8,1,ORL,ORL,ft_miss,11,False,False,MISS Bamba Free Throw 1 of 2,,51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.98,3,8,1,ORL,ORL,reb,1,False,False,MAGIC Rebound,,51-47,51,47
+0022101080,2022-03-22,ORL,GSW,27.98,3,8,1,ORL,ORL,ft_make,12,False,False,Bamba Free Throw 2 of 2 (4 PTS),,52-47,52,47
+0022101080,2022-03-22,ORL,GSW,28.27,3,7,44,GSW,GSW,fg_make,58,False,False,,Wiggins 7' Turnaround Hook Shot (5 PTS),52-49,52,49
+0022101080,2022-03-22,ORL,GSW,28.58,3,7,25,ORL,ORL,fg3_miss,1,False,False,MISS Hampton 29' 3PT Jump Shot,,52-49,52,49
+0022101080,2022-03-22,ORL,GSW,28.65,3,7,21,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:3 Def:6),52-49,52,49
+0022101080,2022-03-22,ORL,GSW,28.8,3,7,12,GSW,GSW,fg3_make,105,False,False,,Poole 25' 3PT Turnaround Fadeaway Bank Jump Shot (10 PTS) (Looney 1 AST),52-52,52,52
+0022101080,2022-03-22,ORL,GSW,29.23,3,6,46,ORL,ORL,fg_miss,79,True,False,MISS Bamba 6' Pullup Jump Shot,,52-52,52,52
+0022101080,2022-03-22,ORL,GSW,29.23,3,6,46,ORL,GSW,block,79,True,False,block,block,52-52,52,52
+0022101080,2022-03-22,ORL,GSW,29.3,3,6,42,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:1),52-52,52,52
+0022101080,2022-03-22,ORL,GSW,29.33,3,6,40,GSW,GSW,fg3_make,1,False,False,,Porter Jr. 25' 3PT Jump Shot (12 PTS) (Poole 4 AST),52-55,52,55
+0022101080,2022-03-22,ORL,GSW,29.35,3,6,39,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,52-55,52,55
+0022101080,2022-03-22,ORL,GSW,29.53,3,6,28,ORL,ORL,fg_miss,101,False,False,MISS Anthony 11' Driving Floating Jump Shot,,52-55,52,55
+0022101080,2022-03-22,ORL,GSW,29.58,3,6,25,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:6),,52-55,52,55
+0022101080,2022-03-22,ORL,GSW,29.62,3,6,23,ORL,ORL,tov,1,False,True,Bamba Bad Pass Turnover (P3.T6),,52-55,52,55
+0022101080,2022-03-22,ORL,GSW,29.62,3,6,23,ORL,GSW,steal,1,False,True,steal,steal,52-55,52,55
+0022101080,2022-03-22,ORL,GSW,30.02,3,5,59,GSW,GSW,tov,2,False,True,,Wiggins Lost Ball Turnover (P1.T9),52-55,52,55
+0022101080,2022-03-22,ORL,GSW,30.02,3,5,59,GSW,ORL,steal,2,False,True,steal,steal,52-55,52,55
+0022101080,2022-03-22,ORL,GSW,30.12,3,5,53,ORL,ORL,fg3_make,2,False,False,Hampton 3PT Running Jump Shot (5 PTS) (F. Wagner 3 AST),,55-55,55,55
+0022101080,2022-03-22,ORL,GSW,30.3,3,5,42,GSW,GSW,fg3_make,79,False,False,,Thompson 25' 3PT Pullup Jump Shot (15 PTS) (Poole 5 AST),55-58,55,58
+0022101080,2022-03-22,ORL,GSW,30.63,3,5,22,ORL,ORL,fg_make,9,False,False,Anthony 3' Driving Dunk (11 PTS),,57-58,57,58
+0022101080,2022-03-22,ORL,GSW,30.63,3,5,22,ORL,GSW,foul,2,False,False,,Looney S.FOUL (P2.T3) (D.Richardson),57-58,57,58
+0022101080,2022-03-22,ORL,GSW,30.63,3,5,22,ORL,ORL,ft_make,10,False,False,Anthony Free Throw 1 of 1 (12 PTS),,58-58,58,58
+0022101080,2022-03-22,ORL,GSW,30.97,3,5,2,GSW,GSW,fg_miss,47,False,False,,MISS Wiggins 3' Turnaround Jump Shot,58-58,58,58
+0022101080,2022-03-22,ORL,GSW,31.02,3,4,59,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:5),,58-58,58,58
+0022101080,2022-03-22,ORL,GSW,31.2,3,4,48,ORL,ORL,tov,40,False,False,Bamba Out of Bounds Lost Ball Turnover (P4.T7),,58-58,58,58
+0022101080,2022-03-22,ORL,GSW,31.33,3,4,40,GSW,GSW,fg3_make,1,False,False,,Poole 27' 3PT Jump Shot (13 PTS) (Green 5 AST),58-61,58,61
+0022101080,2022-03-22,ORL,GSW,31.8,3,4,12,ORL,GSW,foul,2,False,False,,Kuminga S.FOUL (P4.T4) (J.Goble),58-61,58,61
+0022101080,2022-03-22,ORL,GSW,31.8,3,4,12,ORL,ORL,ft_make,13,False,False,F. Wagner Free Throw 1 of 3 (11 PTS),,59-61,59,61
+0022101080,2022-03-22,ORL,GSW,31.8,3,4,12,ORL,ORL,ft_make,14,False,False,F. Wagner Free Throw 2 of 3 (12 PTS),,60-61,60,61
+0022101080,2022-03-22,ORL,GSW,31.8,3,4,12,ORL,ORL,ft_make,15,False,False,F. Wagner Free Throw 3 of 3 (13 PTS),,61-61,61,61
+0022101080,2022-03-22,ORL,GSW,31.97,3,4,2,GSW,GSW,fg_make,108,False,False,,Kuminga 1' Cutting Dunk Shot (12 PTS) (Poole 6 AST),61-63,61,63
+0022101080,2022-03-22,ORL,GSW,32.22,3,3,47,ORL,ORL,tov,1,False,True,Carter Jr. Bad Pass Turnover (P1.T8),,61-63,61,63
+0022101080,2022-03-22,ORL,GSW,32.22,3,3,47,ORL,GSW,steal,1,False,True,steal,steal,61-63,61,63
+0022101080,2022-03-22,ORL,GSW,32.45,3,3,33,GSW,GSW,fg3_make,1,False,False,,Wiggins 25' 3PT Jump Shot (8 PTS) (Green 6 AST),61-66,61,66
+0022101080,2022-03-22,ORL,GSW,32.6,3,3,24,ORL,ORL,fg3_miss,1,False,False,MISS Anthony 28' 3PT Jump Shot,,61-66,61,66
+0022101080,2022-03-22,ORL,GSW,32.67,3,3,20,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:0 Def:1),61-66,61,66
+0022101080,2022-03-22,ORL,GSW,32.75,3,3,15,GSW,GSW,fg3_make,2,False,False,,Poole 32' 3PT Running Jump Shot (16 PTS) (Green 7 AST),61-69,61,69
+0022101080,2022-03-22,ORL,GSW,32.75,3,3,15,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,61-69,61,69
+0022101080,2022-03-22,ORL,GSW,33.08,3,2,55,ORL,ORL,fg_miss,57,False,False,MISS F. Wagner 8' Driving Hook Shot,,61-69,61,69
+0022101080,2022-03-22,ORL,GSW,33.13,3,2,52,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:2),61-69,61,69
+0022101080,2022-03-22,ORL,GSW,33.22,3,2,47,GSW,GSW,fg_miss,80,False,False,,MISS Poole 17' Step Back Jump Shot,61-69,61,69
+0022101080,2022-03-22,ORL,GSW,33.28,3,2,43,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:3),,61-69,61,69
+0022101080,2022-03-22,ORL,GSW,33.45,3,2,33,ORL,ORL,fg_make,76,False,False,Carter Jr. 5' Running Finger Roll Layup (15 PTS) (Hampton 3 AST),,63-69,63,69
+0022101080,2022-03-22,ORL,GSW,33.45,3,2,33,GSW,ORL,foul,18,False,False,MAGIC Delay,,63-69,63,69
+0022101080,2022-03-22,ORL,GSW,33.45,3,2,33,GSW,GSW,ft_make,16,False,False,,Poole Free Throw Technical (17 PTS),63-70,63,70
+0022101080,2022-03-22,ORL,GSW,33.5,3,2,30,GSW,ORL,foul,1,False,False,Carter Jr. P.FOUL (P2.T3) (J.Goble),,63-70,63,70
+0022101080,2022-03-22,ORL,GSW,33.6,3,2,24,GSW,GSW,fg_miss,80,False,False,,MISS Poole 11' Step Back Jump Shot,63-70,63,70
+0022101080,2022-03-22,ORL,GSW,33.68,3,2,19,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:2),,63-70,63,70
+0022101080,2022-03-22,ORL,GSW,33.73,3,2,16,GSW,ORL,foul,4,False,False,Carter Jr. OFF.Foul (P3) (D.Richardson),,63-70,63,70
+0022101080,2022-03-22,ORL,GSW,33.73,3,2,16,ORL,ORL,tov,37,False,False,Carter Jr. Offensive Foul Turnover (P2.T9),,63-70,63,70
+0022101080,2022-03-22,ORL,GSW,34.13,3,1,52,GSW,GSW,fg_make,98,False,False,,Green 4' Cutting Layup Shot (2 PTS) (Thompson 2 AST),63-72,63,72
+0022101080,2022-03-22,ORL,GSW,34.43,3,1,34,ORL,GSW,foul,1,False,False,,Thompson P.FOUL (P2.PN) (D.Richardson),63-72,63,72
+0022101080,2022-03-22,ORL,GSW,34.43,3,1,34,ORL,ORL,ft_make,11,False,False,Carter Jr. Free Throw 1 of 2 (16 PTS),,64-72,64,72
+0022101080,2022-03-22,ORL,GSW,34.43,3,1,34,ORL,ORL,ft_make,12,False,False,Carter Jr. Free Throw 2 of 2 (17 PTS),,65-72,65,72
+0022101080,2022-03-22,ORL,GSW,34.58,3,1,25,GSW,ORL,foul,2,False,False,Carter Jr. S.FOUL (P4.T4) (T.Brothers),,65-72,65,72
+0022101080,2022-03-22,ORL,GSW,34.58,3,1,25,GSW,GSW,ft_make,11,False,False,,Kuminga Free Throw 1 of 2 (13 PTS),65-73,65,73
+0022101080,2022-03-22,ORL,GSW,34.58,3,1,25,GSW,GSW,ft_miss,12,False,False,,MISS Kuminga Free Throw 2 of 2,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,34.63,3,1,22,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:3),,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,34.8,3,1,12,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 27' 3PT Jump Shot,,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,34.85,3,1,9,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.02,3,0,59,GSW,GSW,tov,45,False,False,,Moody Out of Bounds - Bad Pass Turnover Turnover (P1.T10),65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.22,3,0,47,ORL,ORL,fg_miss,58,False,False,MISS Fultz 6' Turnaround Hook Shot,,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.27,3,0,44,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:2),65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.33,3,0,40,GSW,GSW,tov,2,False,True,,Kuminga Lost Ball Turnover (P2.T11),65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.33,3,0,40,GSW,ORL,steal,2,False,True,steal,steal,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.48,3,0,31,ORL,ORL,fg3_miss,79,False,False,MISS Harris 28' 3PT Pullup Jump Shot,,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.55,3,0,27,GSW,GSW,reb,0,False,False,,Kuminga REBOUND (Off:0 Def:5),65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.78,3,0,13,GSW,ORL,foul,2,False,False,Schofield S.FOUL (P1.PN) (J.Goble),,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.78,3,0,13,GSW,GSW,ft_miss,11,False,False,,MISS Kuminga Free Throw 1 of 2,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.78,3,0,13,GSW,GSW,reb,1,False,False,,Warriors Rebound,65-73,65,73
+0022101080,2022-03-22,ORL,GSW,35.78,3,0,13,GSW,GSW,ft_make,12,False,False,,Kuminga Free Throw 2 of 2 (14 PTS),65-74,65,74
+0022101080,2022-03-22,ORL,GSW,35.9,3,0,6,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 29' 3PT Jump Shot,,65-74,65,74
+0022101080,2022-03-22,ORL,GSW,35.93,3,0,4,GSW,GSW,reb,0,False,False,,Warriors Rebound,65-74,65,74
+0022101080,2022-03-22,ORL,GSW,36.0,3,0,0,GSW,GSW,fg3_miss,2,False,False,,MISS Poole 39' 3PT Running Jump Shot,65-74,65,74
+0022101080,2022-03-22,ORL,GSW,36.0,3,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,65-74,65,74
+0022101080,2022-03-22,ORL,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,65-74,65,74
+0022101080,2022-03-22,ORL,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,65-74,65,74
+0022101080,2022-03-22,ORL,GSW,36.43,4,11,34,GSW,GSW,fg3_make,79,False,False,,Poole 25' 3PT Pullup Jump Shot (20 PTS) (Bjelica 1 AST),65-77,65,77
+0022101080,2022-03-22,ORL,GSW,36.88,4,11,7,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#10),,65-77,65,77
+0022101080,2022-03-22,ORL,GSW,37.07,4,10,56,GSW,GSW,fg_make,75,False,False,,Poole 4' Driving Finger Roll Layup (22 PTS),65-79,65,79
+0022101080,2022-03-22,ORL,GSW,37.23,4,10,46,ORL,ORL,fg_make,73,False,False,Fultz 3' Driving Reverse Layup (4 PTS),,67-79,67,79
+0022101080,2022-03-22,ORL,GSW,37.43,4,10,34,ORL,GSW,foul,26,False,False,,Poole Offensive Charge Foul (P2) (D.Richardson),67-79,67,79
+0022101080,2022-03-22,ORL,GSW,37.43,4,10,34,GSW,GSW,tov,37,False,False,,Poole Offensive Foul Turnover (P2.T12),67-79,67,79
+0022101080,2022-03-22,ORL,GSW,37.6,4,10,24,ORL,ORL,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,67-79,67,79
+0022101080,2022-03-22,ORL,GSW,37.65,4,10,21,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:3),,67-79,67,79
+0022101080,2022-03-22,ORL,GSW,37.72,4,10,17,ORL,ORL,fg3_make,1,False,False,Okeke 26' 3PT Jump Shot (6 PTS) (Fultz 1 AST),,70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.03,4,9,58,ORL,GSW,foul,4,False,False,,Bjelica OFF.Foul (P2) (D.Richardson),70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.03,4,9,58,GSW,GSW,tov,37,False,False,,Bjelica Offensive Foul Turnover (P3.T13),70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.22,4,9,47,ORL,ORL,tov,4,False,False,Schofield Traveling Turnover (P1.T11),,70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.5,4,9,30,GSW,GSW,fg_miss,47,True,False,,MISS Kuminga 4' Turnaround Jump Shot,70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.5,4,9,30,GSW,ORL,block,47,True,False,block,block,70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.53,4,9,28,ORL,ORL,reb,0,False,False,MAGIC Rebound,,70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.53,4,9,28,ORL,GSW,foul,3,False,False,,Kuminga L.B.FOUL (P5.T1) (D.Richardson),70-79,70,79
+0022101080,2022-03-22,ORL,GSW,38.65,4,9,21,ORL,ORL,fg3_make,1,False,False,M. Wagner 27' 3PT Jump Shot (7 PTS) (Fultz 2 AST),,73-79,73,79
+0022101080,2022-03-22,ORL,GSW,38.65,4,9,21,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),73-79,73,79
+0022101080,2022-03-22,ORL,GSW,38.9,4,9,6,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 24' 3PT Jump Shot,73-79,73,79
+0022101080,2022-03-22,ORL,GSW,38.92,4,9,5,ORL,ORL,reb,0,False,False,MAGIC Rebound,,73-79,73,79
+0022101080,2022-03-22,ORL,GSW,38.92,4,9,5,ORL,GSW,foul,3,False,False,,Green L.B.FOUL (P2.T2) (T.Brothers),73-79,73,79
+0022101080,2022-03-22,ORL,GSW,39.15,4,8,51,ORL,ORL,fg_make,73,False,False,Fultz 3' Driving Reverse Layup (6 PTS),,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.27,4,8,44,GSW,GSW,tov,7,False,False,,Poole Discontinue Dribble Turnover (P3.T14),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.47,4,8,32,ORL,ORL,tov,45,False,False,Okeke Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.72,4,8,17,GSW,GSW,fg_miss,6,True,False,,MISS Wiggins 1' Driving Layup,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.72,4,8,17,GSW,ORL,block,6,True,False,block,block,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.73,4,8,16,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 5 Short 0),,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.73,4,8,16,,ORL,jump_ball,1,False,False,Coach Challenge                         ,,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.73,4,8,16,ORL,GSW,foul,3,False,False,,Green L.B.FOUL (P3.T3) (T.Brothers),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.73,4,8,16,ORL,ORL,reb,0,False,False,MAGIC Rebound,,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,39.97,4,8,2,ORL,ORL,fg3_miss,1,False,False,MISS Schofield 24' 3PT Jump Shot,,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.05,4,7,57,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:3 Def:7),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.1,4,7,54,ORL,GSW,foul,4,False,False,,Payton II OFF.Foul (P1) (T.Brothers),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.1,4,7,54,GSW,GSW,tov,37,False,False,,Payton II Offensive Foul Turnover (P1.T15),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.35,4,7,39,ORL,ORL,tov,45,False,False,Fultz Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.52,4,7,29,GSW,GSW,fg_miss,101,False,False,,MISS Poole 9' Driving Floating Jump Shot,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.6,4,7,24,ORL,ORL,reb,0,False,False,Schofield REBOUND (Off:1 Def:3),,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.77,4,7,14,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 27' 3PT Jump Shot,,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.82,4,7,11,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:2 Def:1),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,40.98,4,7,1,GSW,GSW,fg_miss,79,False,False,,MISS Wiggins 17' Pullup Jump Shot,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,41.03,4,6,58,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:5),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,41.08,4,6,55,GSW,GSW,fg3_miss,80,False,False,,MISS Porter Jr. 26' 3PT Step Back Jump Shot,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,41.13,4,6,52,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:3 Def:1),75-79,75,79
+0022101080,2022-03-22,ORL,GSW,41.35,4,6,39,GSW,GSW,fg3_miss,79,False,False,,MISS Poole 30' 3PT Pullup Jump Shot,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,41.4,4,6,36,ORL,ORL,reb,0,False,False,M. Wagner REBOUND (Off:0 Def:3),,75-79,75,79
+0022101080,2022-03-22,ORL,GSW,41.52,4,6,29,ORL,ORL,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (8 PTS) (Okeke 2 AST),,78-79,78,79
+0022101080,2022-03-22,ORL,GSW,41.52,4,6,29,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.5 Short 0),78-79,78,79
+0022101080,2022-03-22,ORL,GSW,41.85,4,6,9,GSW,GSW,fg_miss,6,True,False,,MISS Green 4' Driving Layup,78-79,78,79
+0022101080,2022-03-22,ORL,GSW,41.85,4,6,9,GSW,ORL,block,6,True,False,block,block,78-79,78,79
+0022101080,2022-03-22,ORL,GSW,42.0,4,6,0,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:4 Def:7),78-79,78,79
+0022101080,2022-03-22,ORL,GSW,42.0,4,6,0,GSW,GSW,fg_make,72,False,False,,Porter Jr. Putback Layup (14 PTS),78-81,78,81
+0022101080,2022-03-22,ORL,GSW,42.3,4,5,42,ORL,ORL,fg_make,79,False,False,Fultz 19' Pullup Jump Shot (8 PTS),,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,42.48,4,5,31,GSW,GSW,tov,45,False,False,,Poole Out of Bounds - Bad Pass Turnover Turnover (P4.T16),80-81,80,81
+0022101080,2022-03-22,ORL,GSW,42.73,4,5,16,ORL,ORL,fg3_miss,1,False,False,MISS Harris 28' 3PT Jump Shot,,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,42.77,4,5,14,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:4 Def:8),80-81,80,81
+0022101080,2022-03-22,ORL,GSW,42.95,4,5,3,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 25' 3PT Jump Shot,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,43.0,4,5,0,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:4),,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,43.18,4,4,49,ORL,ORL,fg3_miss,1,False,False,MISS M. Wagner 26' 3PT Jump Shot,,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,43.25,4,4,45,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:4 Def:9),80-81,80,81
+0022101080,2022-03-22,ORL,GSW,43.43,4,4,34,GSW,GSW,fg_miss,78,False,False,,MISS Porter Jr. 9' Floating Jump Shot,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,43.48,4,4,31,ORL,ORL,reb,0,False,False,M. Wagner REBOUND (Off:0 Def:4),,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,43.73,4,4,16,ORL,ORL,tov,45,False,False,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,44.02,4,3,59,GSW,GSW,fg_miss,58,False,False,,MISS Wiggins 5' Turnaround Hook Shot,80-81,80,81
+0022101080,2022-03-22,ORL,GSW,44.07,4,3,56,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:3 Def:5),80-81,80,81
+0022101080,2022-03-22,ORL,GSW,44.08,4,3,55,GSW,GSW,fg_make,3,False,False,,Wiggins 6' Hook Shot (10 PTS),80-83,80,83
+0022101080,2022-03-22,ORL,GSW,44.48,4,3,31,ORL,ORL,fg_make,5,False,False,Okeke 5' Layup (8 PTS) (Hampton 4 AST),,82-83,82,83
+0022101080,2022-03-22,ORL,GSW,44.65,4,3,21,GSW,GSW,fg_make,6,False,False,,Poole 3' Driving Layup (24 PTS),82-85,82,85
+0022101080,2022-03-22,ORL,GSW,45.12,4,2,53,ORL,ORL,fg_make,6,False,False,Anthony 4' Driving Layup (14 PTS) (Hampton 5 AST),,84-85,84,85
+0022101080,2022-03-22,ORL,GSW,45.38,4,2,37,GSW,GSW,fg_miss,6,True,False,,MISS Wiggins 3' Driving Layup,84-85,84,85
+0022101080,2022-03-22,ORL,GSW,45.38,4,2,37,GSW,ORL,block,6,True,False,block,block,84-85,84,85
+0022101080,2022-03-22,ORL,GSW,45.38,4,2,37,ORL,ORL,reb,0,False,False,MAGIC Rebound,,84-85,84,85
+0022101080,2022-03-22,ORL,GSW,45.77,4,2,14,ORL,ORL,fg3_miss,1,False,False,MISS Hampton 26' 3PT Jump Shot,,84-85,84,85
+0022101080,2022-03-22,ORL,GSW,45.83,4,2,10,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:4 Def:10),84-85,84,85
+0022101080,2022-03-22,ORL,GSW,45.98,4,2,1,ORL,GSW,foul,4,False,False,,Porter Jr. OFF.Foul (P1) (D.Richardson),84-85,84,85
+0022101080,2022-03-22,ORL,GSW,45.98,4,2,1,GSW,GSW,tov,37,False,False,,Porter Jr. Offensive Foul Turnover (P2.T17),84-85,84,85
+0022101080,2022-03-22,ORL,GSW,46.28,4,1,43,ORL,ORL,fg_make,66,False,False,Carter Jr. 12' Jump Bank Shot (19 PTS) (Okeke 3 AST),,86-85,86,85
+0022101080,2022-03-22,ORL,GSW,46.28,4,1,43,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.6 Short 0),86-85,86,85
+0022101080,2022-03-22,ORL,GSW,46.48,4,1,31,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 25' 3PT Jump Shot,86-85,86,85
+0022101080,2022-03-22,ORL,GSW,46.55,4,1,27,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:5 Def:10),86-85,86,85
+0022101080,2022-03-22,ORL,GSW,46.77,4,1,14,,ORL,jump_ball,0,False,False,Jump Ball Anthony vs. Porter Jr.: Tip to Poole,,86-85,86,85
+0022101080,2022-03-22,ORL,GSW,46.88,4,1,7,GSW,GSW,fg3_make,1,False,False,,Wiggins 3PT Jump Shot (13 PTS) (Thompson 3 AST),86-88,86,88
+0022101080,2022-03-22,ORL,GSW,47.13,4,0,52,ORL,ORL,fg3_make,1,False,False,Bamba 24' 3PT Jump Shot (7 PTS) (Anthony 5 AST),,89-88,89,88
+0022101080,2022-03-22,ORL,GSW,47.4,4,0,36,GSW,GSW,fg_miss,6,False,False,,MISS Poole 5' Driving Layup,89-88,89,88
+0022101080,2022-03-22,ORL,GSW,47.45,4,0,33,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:6),,89-88,89,88
+0022101080,2022-03-22,ORL,GSW,47.78,4,0,13,ORL,GSW,foul,2,False,False,,Thompson S.FOUL (P3.T4) (T.Brothers),89-88,89,88
+0022101080,2022-03-22,ORL,GSW,47.78,4,0,13,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.7 Short 0),89-88,89,88
+0022101080,2022-03-22,ORL,GSW,47.78,4,0,13,GSW,ORL,ft_make,13,False,False,F. Wagner Free Throw 1 of 3 (14 PTS),,90-88,90,88
+0022101080,2022-03-22,ORL,GSW,47.78,4,0,13,GSW,ORL,ft_make,14,False,False,F. Wagner Free Throw 2 of 3 (15 PTS),,91-88,91,88
+0022101080,2022-03-22,ORL,GSW,47.78,4,0,13,GSW,ORL,ft_make,15,False,False,F. Wagner Free Throw 3 of 3 (16 PTS),,92-88,92,88
+0022101080,2022-03-22,ORL,GSW,47.88,4,0,7,GSW,GSW,fg_make,41,False,False,,Poole 2' Running Layup (26 PTS),92-90,92,90
+0022101080,2022-03-22,ORL,GSW,47.88,4,0,7,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 6 Short 0),,92-90,92,90
+0022101080,2022-03-22,ORL,GSW,47.9,4,0,6,ORL,ORL,fg_make,108,False,False,F. Wagner 2' Cutting Dunk Shot (18 PTS) (Okeke 4 AST),,94-90,94,90
+0022101080,2022-03-22,ORL,GSW,47.92,4,0,5,GSW,GSW,tov,1,False,True,,Thompson Bad Pass Turnover (P1.T18),94-90,94,90
+0022101080,2022-03-22,ORL,GSW,47.92,4,0,5,GSW,ORL,steal,1,False,True,steal,steal,94-90,94,90
+0022101080,2022-03-22,ORL,GSW,48.0,4,0,0,GSW,,period_end,0,False,False,,,94-90,94,90

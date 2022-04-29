@@ -1,0 +1,509 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100860,2022-02-14,NYK,OKC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100860,2022-02-14,NYK,OKC,0.0,1,12,0,,NYK,jump_ball,0,False,False,Jump Ball Robinson vs. Roby: Tip to Walker,,0-0,0,0
+0022100860,2022-02-14,NYK,OKC,0.27,1,11,44,NYK,NYK,fg3_make,1,False,False,Walker 26' 3PT Jump Shot (3 PTS) (Fournier 1 AST),,3-0,3,0
+0022100860,2022-02-14,NYK,OKC,0.55,1,11,27,OKC,OKC,fg3_make,1,False,False,,Mann 25' 3PT Jump Shot (3 PTS) (Giddey 1 AST),3-3,3,3
+0022100860,2022-02-14,NYK,OKC,0.97,1,11,2,NYK,NYK,fg3_miss,79,False,False,MISS Fournier 25' 3PT Pullup Jump Shot,,3-3,3,3
+0022100860,2022-02-14,NYK,OKC,1.0,1,11,0,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:1 Def:0),,3-3,3,3
+0022100860,2022-02-14,NYK,OKC,1.02,1,10,59,NYK,OKC,foul,2,False,False,,Roby S.FOUL (P1.T1) (B.Taylor),3-3,3,3
+0022100860,2022-02-14,NYK,OKC,1.02,1,10,59,NYK,NYK,ft_make,11,False,False,Robinson Free Throw 1 of 2 (1 PTS),,4-3,4,3
+0022100860,2022-02-14,NYK,OKC,1.02,1,10,59,NYK,NYK,ft_miss,12,False,False,MISS Robinson Free Throw 2 of 2,,4-3,4,3
+0022100860,2022-02-14,NYK,OKC,1.05,1,10,57,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:0 Def:1),4-3,4,3
+0022100860,2022-02-14,NYK,OKC,1.23,1,10,46,OKC,OKC,fg_make,6,False,False,,Giddey 2' Driving Layup (2 PTS),4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.5,1,10,30,NYK,NYK,fg3_miss,80,False,False,MISS Randle 25' 3PT Step Back Jump Shot,,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.57,1,10,26,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:0 Def:1),4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.73,1,10,16,OKC,OKC,fg_miss,6,True,False,,MISS Roby 2' Driving Layup,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.73,1,10,16,OKC,NYK,block,6,True,False,block,block,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.77,1,10,14,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:1 Def:1),4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.82,1,10,11,OKC,OKC,fg3_miss,1,False,False,,MISS Wiggins 24' 3PT Jump Shot,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.85,1,10,9,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:1 Def:1),4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.92,1,10,5,OKC,OKC,fg_miss,7,True,False,,MISS Bazley 2' Dunk,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.92,1,10,5,OKC,NYK,block,7,True,False,block,block,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,1.95,1,10,3,NYK,NYK,reb,0,False,False,Grimes REBOUND (Off:0 Def:1),,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,2.17,1,9,50,NYK,NYK,fg_miss,80,False,False,MISS Walker 21' Step Back Jump Shot,,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,2.2,1,9,48,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:1),4-5,4,5
+0022100860,2022-02-14,NYK,OKC,2.37,1,9,38,OKC,OKC,fg_miss,80,False,False,,MISS Mann 18' Step Back Jump Shot,4-5,4,5
+0022100860,2022-02-14,NYK,OKC,2.4,1,9,36,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:2 Def:1),4-5,4,5
+0022100860,2022-02-14,NYK,OKC,2.4,1,9,36,OKC,OKC,fg_make,72,False,False,,Roby Putback Layup (2 PTS),4-7,4,7
+0022100860,2022-02-14,NYK,OKC,2.63,1,9,22,NYK,NYK,fg_miss,63,False,False,MISS Randle 11' Fadeaway Jumper,,4-7,4,7
+0022100860,2022-02-14,NYK,OKC,2.67,1,9,20,OKC,OKC,reb,0,False,False,,Mann REBOUND (Off:0 Def:1),4-7,4,7
+0022100860,2022-02-14,NYK,OKC,2.8,1,9,12,OKC,OKC,fg_make,9,False,False,,Giddey 1' Driving Dunk (4 PTS),4-9,4,9
+0022100860,2022-02-14,NYK,OKC,3.12,1,8,53,NYK,NYK,fg3_miss,80,False,False,MISS Grimes 24' 3PT Step Back Jump Shot,,4-9,4,9
+0022100860,2022-02-14,NYK,OKC,3.15,1,8,51,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:2 Def:2),4-9,4,9
+0022100860,2022-02-14,NYK,OKC,3.27,1,8,44,OKC,OKC,fg3_make,1,False,False,,Mann 3PT Jump Shot (6 PTS) (Giddey 2 AST),4-12,4,12
+0022100860,2022-02-14,NYK,OKC,3.38,1,8,37,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 1 Short 0),,4-12,4,12
+0022100860,2022-02-14,NYK,OKC,3.4,1,8,36,NYK,OKC,foul,1,False,False,,Giddey P.FOUL (P1.T2) (P.Ransom),4-12,4,12
+0022100860,2022-02-14,NYK,OKC,3.55,1,8,27,NYK,NYK,fg_miss,57,False,False,MISS Randle 6' Driving Hook Shot,,4-12,4,12
+0022100860,2022-02-14,NYK,OKC,3.57,1,8,26,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:2 Def:0),,4-12,4,12
+0022100860,2022-02-14,NYK,OKC,3.6,1,8,24,NYK,NYK,fg_make,72,False,False,Robinson 1' Putback Layup (3 PTS),,6-12,6,12
+0022100860,2022-02-14,NYK,OKC,3.83,1,8,10,OKC,OKC,fg_miss,6,False,False,,MISS Mann 2' Driving Layup,6-12,6,12
+0022100860,2022-02-14,NYK,OKC,3.87,1,8,8,NYK,NYK,reb,0,False,False,Walker REBOUND (Off:0 Def:1),,6-12,6,12
+0022100860,2022-02-14,NYK,OKC,3.95,1,8,3,NYK,NYK,fg3_make,2,False,False,Fournier 3PT Running Jump Shot (3 PTS) (Randle 1 AST),,9-12,9,12
+0022100860,2022-02-14,NYK,OKC,4.25,1,7,45,OKC,OKC,fg_make,108,False,False,,Roby 1' Cutting Dunk Shot (4 PTS) (Giddey 3 AST),9-14,9,14
+0022100860,2022-02-14,NYK,OKC,4.57,1,7,26,NYK,NYK,fg_make,1,False,False,Fournier 20' Jump Shot (5 PTS) (Randle 2 AST),,11-14,11,14
+0022100860,2022-02-14,NYK,OKC,4.77,1,7,14,OKC,OKC,fg_make,75,False,False,,Roby 1' Driving Finger Roll Layup (6 PTS) (Giddey 4 AST),11-16,11,16
+0022100860,2022-02-14,NYK,OKC,4.93,1,7,4,NYK,NYK,fg3_make,80,False,False,Fournier 25' 3PT Step Back Jump Shot (8 PTS) (Randle 3 AST),,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.18,1,6,49,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 25' 3PT Jump Shot,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.22,1,6,47,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:1),,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.33,1,6,40,NYK,NYK,fg_miss,108,False,False,MISS Robinson 1' Cutting Dunk Shot,,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.35,1,6,39,OKC,OKC,reb,0,False,False,,Thunder Rebound,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.65,1,6,21,OKC,OKC,tov,1,False,True,,Mann Bad Pass Turnover (P1.T1),14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.65,1,6,21,OKC,NYK,steal,1,False,True,steal,steal,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.8,1,6,12,NYK,NYK,fg3_miss,1,False,False,MISS Walker 25' 3PT Jump Shot,,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.83,1,6,10,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:2),14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.93,1,6,4,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P1.T2),14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.93,1,6,4,OKC,NYK,steal,1,False,True,steal,steal,14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.98,1,6,1,NYK,OKC,foul,2,False,False,,Roby S.FOUL (P2.T3) (J.Goble),14-16,14,16
+0022100860,2022-02-14,NYK,OKC,5.98,1,6,1,NYK,NYK,ft_make,11,False,False,Randle Free Throw 1 of 2 (1 PTS),,15-16,15,16
+0022100860,2022-02-14,NYK,OKC,5.98,1,6,1,NYK,NYK,ft_make,12,False,False,Randle Free Throw 2 of 2 (2 PTS),,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.18,1,5,49,OKC,OKC,fg_miss,79,True,False,,MISS Giddey 15' Pullup Jump Shot,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.18,1,5,49,OKC,NYK,block,79,True,False,block,block,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.22,1,5,47,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:2),,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.42,1,5,35,NYK,NYK,tov,2,False,True,Robinson Lost Ball Turnover (P1.T1),,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.42,1,5,35,NYK,OKC,steal,2,False,True,steal,steal,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.52,1,5,29,OKC,OKC,fg_miss,6,True,False,,MISS Wiggins 3' Driving Layup,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.52,1,5,29,OKC,NYK,block,6,True,False,block,block,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.55,1,5,27,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:3),,16-16,16,16
+0022100860,2022-02-14,NYK,OKC,6.63,1,5,22,NYK,NYK,fg_make,76,False,False,Grimes 1' Running Finger Roll Layup (2 PTS) (Randle 4 AST),,18-16,18,16
+0022100860,2022-02-14,NYK,OKC,6.72,1,5,17,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),18-16,18,16
+0022100860,2022-02-14,NYK,OKC,6.88,1,5,7,OKC,OKC,fg_miss,6,True,False,,MISS Mann 3' Driving Layup,18-16,18,16
+0022100860,2022-02-14,NYK,OKC,6.88,1,5,7,OKC,NYK,block,6,True,False,block,block,18-16,18,16
+0022100860,2022-02-14,NYK,OKC,6.92,1,5,5,OKC,OKC,reb,0,False,False,,Thunder Rebound,18-16,18,16
+0022100860,2022-02-14,NYK,OKC,7.02,1,4,59,OKC,OKC,fg_make,75,False,False,,Wiggins 2' Driving Finger Roll Layup (2 PTS),18-18,18,18
+0022100860,2022-02-14,NYK,OKC,7.3,1,4,42,NYK,NYK,fg_make,7,False,False,Robinson Dunk (5 PTS) (Fournier 2 AST),,20-18,20,18
+0022100860,2022-02-14,NYK,OKC,7.5,1,4,30,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 26' 3PT Jump Shot,20-18,20,18
+0022100860,2022-02-14,NYK,OKC,7.53,1,4,28,NYK,NYK,reb,0,False,False,Grimes REBOUND (Off:0 Def:2),,20-18,20,18
+0022100860,2022-02-14,NYK,OKC,7.63,1,4,22,NYK,NYK,fg_make,5,False,False,Randle 2' Layup (4 PTS) (Walker 1 AST),,22-18,22,18
+0022100860,2022-02-14,NYK,OKC,7.9,1,4,6,OKC,OKC,fg3_make,80,False,False,,Mann 25' 3PT Step Back Jump Shot (9 PTS),22-21,22,21
+0022100860,2022-02-14,NYK,OKC,8.23,1,3,46,NYK,NYK,fg3_make,1,False,False,Grimes 25' 3PT Jump Shot (5 PTS) (Randle 5 AST),,25-21,25,21
+0022100860,2022-02-14,NYK,OKC,8.6,1,3,24,OKC,OKC,fg_miss,101,False,False,,MISS Maledon 2' Driving Floating Jump Shot,25-21,25,21
+0022100860,2022-02-14,NYK,OKC,8.63,1,3,22,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:2 Def:1),,25-21,25,21
+0022100860,2022-02-14,NYK,OKC,8.73,1,3,16,NYK,NYK,fg3_miss,103,False,False,MISS Grimes 27' 3PT Running Pull-Up Jump Shot,,25-21,25,21
+0022100860,2022-02-14,NYK,OKC,8.77,1,3,14,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:2 Def:3),25-21,25,21
+0022100860,2022-02-14,NYK,OKC,8.9,1,3,6,OKC,OKC,tov,1,False,True,,Maledon Bad Pass Turnover (P1.T3),25-21,25,21
+0022100860,2022-02-14,NYK,OKC,8.9,1,3,6,OKC,NYK,steal,1,False,True,steal,steal,25-21,25,21
+0022100860,2022-02-14,NYK,OKC,9.0,1,3,0,NYK,NYK,fg_make,50,False,False,Robinson 2' Running Dunk (7 PTS),,27-21,27,21
+0022100860,2022-02-14,NYK,OKC,9.18,1,2,49,OKC,OKC,fg3_miss,80,False,False,,MISS Mann 29' 3PT Step Back Jump Shot,27-21,27,21
+0022100860,2022-02-14,NYK,OKC,9.22,1,2,47,NYK,NYK,reb,0,False,False,Fournier REBOUND (Off:0 Def:1),,27-21,27,21
+0022100860,2022-02-14,NYK,OKC,9.55,1,2,27,NYK,NYK,fg_make,63,False,False,Fournier 22' Fadeaway Jumper (10 PTS),,29-21,29,21
+0022100860,2022-02-14,NYK,OKC,9.83,1,2,10,OKC,OKC,fg_make,101,False,False,,Mann 10' Driving Floating Jump Shot (11 PTS),29-23,29,23
+0022100860,2022-02-14,NYK,OKC,10.02,1,1,59,NYK,NYK,fg3_miss,1,False,False,MISS Fournier 25' 3PT Jump Shot,,29-23,29,23
+0022100860,2022-02-14,NYK,OKC,10.05,1,1,57,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:0 Def:1),29-23,29,23
+0022100860,2022-02-14,NYK,OKC,10.17,1,1,50,OKC,OKC,fg_make,108,False,False,,Williams 1' Cutting Dunk Shot (2 PTS) (Wiggins 1 AST),29-25,29,25
+0022100860,2022-02-14,NYK,OKC,10.37,1,1,38,NYK,NYK,fg3_miss,1,False,False,MISS Randle 25' 3PT Jump Shot,,29-25,29,25
+0022100860,2022-02-14,NYK,OKC,10.4,1,1,36,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:0 Def:1),29-25,29,25
+0022100860,2022-02-14,NYK,OKC,10.45,1,1,33,OKC,NYK,foul,28,False,False,Gibson Personal Take Foul (P1.T1) (J.Goble),,29-25,29,25
+0022100860,2022-02-14,NYK,OKC,10.75,1,1,15,OKC,OKC,fg_make,79,False,False,,Williams 13' Pullup Jump Shot (4 PTS),29-27,29,27
+0022100860,2022-02-14,NYK,OKC,11.1,1,0,54,NYK,NYK,fg_miss,6,True,False,MISS Reddish 4' Driving Layup,,29-27,29,27
+0022100860,2022-02-14,NYK,OKC,11.1,1,0,54,NYK,OKC,block,6,True,False,block,block,29-27,29,27
+0022100860,2022-02-14,NYK,OKC,11.13,1,0,52,OKC,OKC,reb,0,False,False,,Maledon REBOUND (Off:0 Def:2),29-27,29,27
+0022100860,2022-02-14,NYK,OKC,11.18,1,0,49,OKC,OKC,fg_make,50,False,False,,Williams Running Dunk (6 PTS) (Maledon 1 AST),29-29,29,29
+0022100860,2022-02-14,NYK,OKC,11.58,1,0,25,NYK,NYK,fg_make,63,False,False,Randle 16' Fadeaway Jumper (6 PTS),,31-29,31,29
+0022100860,2022-02-14,NYK,OKC,11.95,1,0,3,OKC,OKC,fg3_miss,1,False,False,,MISS Maledon 3PT Jump Shot,31-29,31,29
+0022100860,2022-02-14,NYK,OKC,11.98,1,0,1,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:0 Def:1),,31-29,31,29
+0022100860,2022-02-14,NYK,OKC,12.0,1,0,0,NYK,,period_end,0,False,False,,,31-29,31,29
+0022100860,2022-02-14,NYK,OKC,12.0,2,12,0,NYK,,period_start,0,False,False,,,31-29,31,29
+0022100860,2022-02-14,NYK,OKC,12.4,2,11,36,OKC,OKC,fg_make,79,False,False,,Williams 15' Pullup Jump Shot (8 PTS) (Jerome 1 AST),31-31,31,31
+0022100860,2022-02-14,NYK,OKC,12.67,2,11,20,NYK,NYK,fg_make,44,False,False,Gibson Reverse Layup (2 PTS) (Burks 1 AST),,33-31,33,31
+0022100860,2022-02-14,NYK,OKC,12.93,2,11,4,OKC,NYK,foul,1,False,False,Gibson P.FOUL (P2.T1) (P.Ransom),,33-31,33,31
+0022100860,2022-02-14,NYK,OKC,13.05,2,10,57,OKC,OKC,fg3_miss,1,False,False,,MISS Williams 25' 3PT Jump Shot,33-31,33,31
+0022100860,2022-02-14,NYK,OKC,13.08,2,10,55,NYK,NYK,reb,0,False,False,KNICKS Rebound,,33-31,33,31
+0022100860,2022-02-14,NYK,OKC,13.32,2,10,41,NYK,OKC,foul,2,False,False,,Favors S.FOUL (P1.T1) (B.Taylor),33-31,33,31
+0022100860,2022-02-14,NYK,OKC,13.32,2,10,41,NYK,NYK,ft_miss,11,False,False,MISS Toppin Free Throw 1 of 2,,33-31,33,31
+0022100860,2022-02-14,NYK,OKC,13.32,2,10,41,NYK,NYK,reb,1,False,False,KNICKS Rebound,,33-31,33,31
+0022100860,2022-02-14,NYK,OKC,13.32,2,10,41,NYK,NYK,ft_make,12,False,False,Toppin Free Throw 2 of 2 (1 PTS),,34-31,34,31
+0022100860,2022-02-14,NYK,OKC,13.62,2,10,23,OKC,NYK,foul,2,False,False,Toppin S.FOUL (P1.T2) (B.Taylor),,34-31,34,31
+0022100860,2022-02-14,NYK,OKC,13.62,2,10,23,OKC,OKC,ft_make,11,False,False,,Jerome Free Throw 1 of 2 (1 PTS),34-32,34,32
+0022100860,2022-02-14,NYK,OKC,13.62,2,10,23,OKC,OKC,ft_make,12,False,False,,Jerome Free Throw 2 of 2 (2 PTS),34-33,34,33
+0022100860,2022-02-14,NYK,OKC,13.83,2,10,10,NYK,NYK,fg_make,78,False,False,Reddish 7' Floating Jump Shot (2 PTS) (Quickley 1 AST),,36-33,36,33
+0022100860,2022-02-14,NYK,OKC,14.08,2,9,55,OKC,OKC,fg_make,108,False,False,,Favors Cutting Dunk Shot (2 PTS) (Giddey 5 AST),36-35,36,35
+0022100860,2022-02-14,NYK,OKC,14.27,2,9,44,NYK,NYK,fg_miss,79,False,False,MISS Quickley 18' Pullup Jump Shot,,36-35,36,35
+0022100860,2022-02-14,NYK,OKC,14.3,2,9,42,NYK,NYK,reb,0,False,False,Gibson REBOUND (Off:1 Def:0),,36-35,36,35
+0022100860,2022-02-14,NYK,OKC,14.35,2,9,39,NYK,NYK,fg3_miss,1,False,False,MISS Toppin 26' 3PT Jump Shot,,36-35,36,35
+0022100860,2022-02-14,NYK,OKC,14.38,2,9,37,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:1 Def:1),,36-35,36,35
+0022100860,2022-02-14,NYK,OKC,14.53,2,9,28,NYK,NYK,fg_make,52,False,False,Toppin 1' Alley Oop Dunk (3 PTS) (Quickley 2 AST),,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,14.8,2,9,12,OKC,OKC,fg_miss,78,True,False,,MISS Pokusevski 14' Floating Jump Shot,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,14.8,2,9,12,OKC,NYK,block,78,True,False,block,block,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,14.83,2,9,10,OKC,OKC,reb,0,False,False,,Thunder Rebound,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,14.92,2,9,5,OKC,OKC,fg3_miss,1,False,False,,MISS Jerome 24' 3PT Jump Shot,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,14.95,2,9,3,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:1 Def:2),,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,15.07,2,8,56,NYK,NYK,fg_miss,79,False,False,MISS Quickley 19' Pullup Jump Shot,,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,15.08,2,8,55,NYK,NYK,reb,0,False,False,Gibson REBOUND (Off:2 Def:0),,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,15.08,2,8,55,NYK,OKC,foul,1,False,False,,Williams P.FOUL (P1.T2) (P.Ransom),38-35,38,35
+0022100860,2022-02-14,NYK,OKC,15.25,2,8,45,NYK,NYK,tov,1,False,True,Burks Bad Pass Turnover (P1.T2),,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,15.25,2,8,45,NYK,OKC,steal,1,False,True,steal,steal,38-35,38,35
+0022100860,2022-02-14,NYK,OKC,15.43,2,8,34,OKC,OKC,fg_make,98,False,False,,Giddey 2' Cutting Layup Shot (6 PTS) (Williams 1 AST),38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.43,2,8,34,OKC,NYK,violation,2,False,False,Toppin Violation:Defensive Goaltending (P.Ransom),,38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.6,2,8,24,NYK,NYK,fg3_miss,1,False,False,MISS Quickley 27' 3PT Jump Shot,,38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.63,2,8,22,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:1 Def:2),38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.7,2,8,18,OKC,NYK,foul,1,False,False,Quickley P.FOUL (P1.T3) (P.Ransom),,38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.73,2,8,16,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P2.T4),38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.73,2,8,16,OKC,NYK,steal,1,False,True,steal,steal,38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.95,2,8,3,NYK,NYK,fg_miss,102,False,False,MISS Toppin 1' Driving Floating Bank Jump Shot,,38-37,38,37
+0022100860,2022-02-14,NYK,OKC,15.98,2,8,1,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:1),38-37,38,37
+0022100860,2022-02-14,NYK,OKC,16.12,2,7,53,OKC,OKC,fg_make,75,False,False,,Pokusevski 2' Driving Finger Roll Layup (2 PTS) (Giddey 6 AST),38-39,38,39
+0022100860,2022-02-14,NYK,OKC,16.35,2,7,39,NYK,NYK,fg3_miss,1,False,False,MISS Toppin 3PT Jump Shot,,38-39,38,39
+0022100860,2022-02-14,NYK,OKC,16.38,2,7,37,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:3 Def:1),,38-39,38,39
+0022100860,2022-02-14,NYK,OKC,16.4,2,7,36,NYK,NYK,fg_make,72,False,False,Robinson Putback Layup (9 PTS),,40-39,40,39
+0022100860,2022-02-14,NYK,OKC,16.72,2,7,17,OKC,NYK,foul,1,False,False,Grimes P.FOUL (P1.T4) (P.Ransom),,40-39,40,39
+0022100860,2022-02-14,NYK,OKC,16.85,2,7,9,OKC,OKC,fg_make,3,False,False,,Favors 5' Hook Shot (4 PTS) (Pokusevski 1 AST),40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.05,2,6,57,NYK,NYK,fg3_miss,79,False,False,MISS Burks 26' 3PT Pullup Jump Shot,,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.08,2,6,55,OKC,OKC,reb,0,False,False,,Krejci REBOUND (Off:0 Def:1),40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.23,2,6,46,OKC,OKC,fg3_miss,1,False,False,,MISS Pokusevski 26' 3PT Jump Shot,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.27,2,6,44,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:4),,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.33,2,6,40,NYK,NYK,fg_miss,6,False,False,MISS Randle 3' Driving Layup,,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.37,2,6,38,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 2 Short 0),,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.37,2,6,38,OKC,OKC,reb,0,False,False,,Thunder Rebound,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.53,2,6,28,OKC,OKC,fg_miss,101,False,False,,MISS Giddey 9' Driving Floating Jump Shot,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.57,2,6,26,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:3 Def:2),,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.72,2,6,17,NYK,NYK,tov,2,False,True,Randle Lost Ball Turnover (P1.T3),,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.72,2,6,17,NYK,OKC,steal,2,False,True,steal,steal,40-41,40,41
+0022100860,2022-02-14,NYK,OKC,17.78,2,6,13,OKC,OKC,fg_make,41,False,False,,Giddey 1' Running Layup (8 PTS) (Jerome 2 AST),40-43,40,43
+0022100860,2022-02-14,NYK,OKC,18.1,2,5,54,NYK,NYK,fg3_miss,1,False,False,MISS Fournier 26' 3PT Jump Shot,,40-43,40,43
+0022100860,2022-02-14,NYK,OKC,18.12,2,5,53,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:4 Def:2),,40-43,40,43
+0022100860,2022-02-14,NYK,OKC,18.15,2,5,51,NYK,NYK,fg3_miss,1,False,False,MISS Randle 26' 3PT Jump Shot,,40-43,40,43
+0022100860,2022-02-14,NYK,OKC,18.18,2,5,49,NYK,NYK,reb,0,False,False,Walker REBOUND (Off:1 Def:1),,40-43,40,43
+0022100860,2022-02-14,NYK,OKC,18.35,2,5,39,NYK,NYK,fg3_miss,1,False,False,MISS Walker 25' 3PT Jump Shot,,40-43,40,43
+0022100860,2022-02-14,NYK,OKC,18.38,2,5,37,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:5 Def:2),,40-43,40,43
+0022100860,2022-02-14,NYK,OKC,18.38,2,5,37,NYK,NYK,fg_make,107,False,False,Robinson Tip Dunk Shot (11 PTS),,42-43,42,43
+0022100860,2022-02-14,NYK,OKC,18.58,2,5,25,OKC,OKC,fg3_make,1,False,False,,Jerome 25' 3PT Jump Shot (5 PTS) (Giddey 7 AST),42-46,42,46
+0022100860,2022-02-14,NYK,OKC,18.98,2,5,1,NYK,NYK,fg_make,101,False,False,Walker 4' Driving Floating Jump Shot (5 PTS),,44-46,44,46
+0022100860,2022-02-14,NYK,OKC,18.98,2,5,1,NYK,OKC,foul,2,False,False,,Favors S.FOUL (P2.T3) (P.Ransom),44-46,44,46
+0022100860,2022-02-14,NYK,OKC,18.98,2,5,1,NYK,NYK,ft_make,10,False,False,Walker Free Throw 1 of 1 (6 PTS),,45-46,45,46
+0022100860,2022-02-14,NYK,OKC,19.2,2,4,48,OKC,OKC,fg3_miss,1,False,False,,MISS Favors 3PT Jump Shot,45-46,45,46
+0022100860,2022-02-14,NYK,OKC,19.23,2,4,46,NYK,NYK,reb,0,False,False,Walker REBOUND (Off:1 Def:2),,45-46,45,46
+0022100860,2022-02-14,NYK,OKC,19.33,2,4,40,NYK,NYK,fg3_miss,2,False,False,MISS Grimes 25' 3PT Running Jump Shot,,45-46,45,46
+0022100860,2022-02-14,NYK,OKC,19.37,2,4,38,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:3),45-46,45,46
+0022100860,2022-02-14,NYK,OKC,19.5,2,4,30,OKC,OKC,tov,40,False,False,,Favors Out of Bounds Lost Ball Turnover (P1.T5),45-46,45,46
+0022100860,2022-02-14,NYK,OKC,19.68,2,4,19,NYK,NYK,fg3_make,1,False,False,Fournier 24' 3PT Jump Shot (13 PTS) (Walker 2 AST),,48-46,48,46
+0022100860,2022-02-14,NYK,OKC,19.8,2,4,12,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),48-46,48,46
+0022100860,2022-02-14,NYK,OKC,20.02,2,3,59,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 3PT Jump Shot,48-46,48,46
+0022100860,2022-02-14,NYK,OKC,20.05,2,3,57,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:5 Def:3),,48-46,48,46
+0022100860,2022-02-14,NYK,OKC,20.25,2,3,45,NYK,NYK,fg_miss,5,False,False,MISS Robinson 1' Layup,,48-46,48,46
+0022100860,2022-02-14,NYK,OKC,20.28,2,3,43,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:1),48-46,48,46
+0022100860,2022-02-14,NYK,OKC,20.43,2,3,34,OKC,OKC,fg_miss,73,False,False,,MISS Bazley 1' Driving Reverse Layup,48-46,48,46
+0022100860,2022-02-14,NYK,OKC,20.47,2,3,32,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:2),48-46,48,46
+0022100860,2022-02-14,NYK,OKC,20.47,2,3,32,OKC,OKC,fg_make,97,False,False,,Giddey Tip Layup Shot (10 PTS),48-48,48,48
+0022100860,2022-02-14,NYK,OKC,20.67,2,3,20,NYK,NYK,fg_make,5,False,False,Randle 2' Layup (8 PTS),,50-48,50,48
+0022100860,2022-02-14,NYK,OKC,20.83,2,3,10,OKC,NYK,foul,2,False,False,Randle S.FOUL (P1.PN) (B.Taylor),,50-48,50,48
+0022100860,2022-02-14,NYK,OKC,20.83,2,3,10,OKC,OKC,ft_miss,11,False,False,,MISS Bazley Free Throw 1 of 2,50-48,50,48
+0022100860,2022-02-14,NYK,OKC,20.83,2,3,10,OKC,OKC,reb,1,False,False,,Thunder Rebound,50-48,50,48
+0022100860,2022-02-14,NYK,OKC,20.83,2,3,10,OKC,OKC,ft_make,12,False,False,,Bazley Free Throw 2 of 2 (1 PTS),50-49,50,49
+0022100860,2022-02-14,NYK,OKC,21.08,2,2,55,NYK,NYK,fg3_make,1,False,False,Grimes 25' 3PT Jump Shot (8 PTS) (Walker 3 AST),,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.4,2,2,36,OKC,OKC,fg_miss,75,True,False,,MISS Roby 2' Driving Finger Roll Layup,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.4,2,2,36,OKC,NYK,block,75,True,False,block,block,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.43,2,2,34,OKC,OKC,reb,0,False,False,,Thunder Rebound,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.53,2,2,28,OKC,OKC,fg_miss,79,False,False,,MISS Mann 11' Pullup Jump Shot,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.57,2,2,26,NYK,NYK,reb,0,False,False,Grimes REBOUND (Off:0 Def:3),,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.63,2,2,22,NYK,NYK,tov,1,False,True,Grimes Bad Pass Turnover (P1.T4),,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.63,2,2,22,NYK,OKC,steal,1,False,True,steal,steal,53-49,53,49
+0022100860,2022-02-14,NYK,OKC,21.7,2,2,18,OKC,OKC,fg_make,41,False,False,,Bazley 1' Running Layup (3 PTS) (Mann 1 AST),53-51,53,51
+0022100860,2022-02-14,NYK,OKC,21.7,2,2,18,OKC,NYK,foul,2,False,False,Grimes S.FOUL (P2.PN) (P.Ransom),,53-51,53,51
+0022100860,2022-02-14,NYK,OKC,21.7,2,2,18,OKC,OKC,ft_miss,10,False,False,,MISS Bazley Free Throw 1 of 1,53-51,53,51
+0022100860,2022-02-14,NYK,OKC,21.73,2,2,16,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:5),,53-51,53,51
+0022100860,2022-02-14,NYK,OKC,21.97,2,2,2,NYK,NYK,fg_make,6,False,False,Randle 1' Driving Layup (10 PTS),,55-51,55,51
+0022100860,2022-02-14,NYK,OKC,21.97,2,2,2,NYK,OKC,foul,2,False,False,,Williams S.FOUL (P2.T4) (B.Taylor),55-51,55,51
+0022100860,2022-02-14,NYK,OKC,21.97,2,2,2,NYK,NYK,ft_make,10,False,False,Randle Free Throw 1 of 1 (11 PTS),,56-51,56,51
+0022100860,2022-02-14,NYK,OKC,22.12,2,1,53,OKC,OKC,fg3_make,1,False,False,,Giddey 26' 3PT Jump Shot (13 PTS) (Williams 2 AST),56-54,56,54
+0022100860,2022-02-14,NYK,OKC,22.3,2,1,42,NYK,NYK,fg_miss,99,False,False,MISS Randle 1' Cutting Finger Roll Layup Shot,,56-54,56,54
+0022100860,2022-02-14,NYK,OKC,22.33,2,1,40,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:3),56-54,56,54
+0022100860,2022-02-14,NYK,OKC,22.4,2,1,36,OKC,OKC,fg3_make,2,False,False,,Giddey 25' 3PT Running Jump Shot (16 PTS) (Bazley 1 AST),56-57,56,57
+0022100860,2022-02-14,NYK,OKC,22.57,2,1,26,NYK,NYK,fg_make,78,False,False,Randle 14' Floating Jump Shot (13 PTS),,58-57,58,57
+0022100860,2022-02-14,NYK,OKC,22.57,2,1,26,NYK,OKC,foul,2,False,False,,Williams S.FOUL (P3.PN) (P.Ransom),58-57,58,57
+0022100860,2022-02-14,NYK,OKC,22.57,2,1,26,NYK,NYK,ft_make,10,False,False,Randle Free Throw 1 of 1 (14 PTS),,59-57,59,57
+0022100860,2022-02-14,NYK,OKC,22.77,2,1,14,OKC,OKC,fg3_miss,1,False,False,,MISS Wiggins 3PT Jump Shot,59-57,59,57
+0022100860,2022-02-14,NYK,OKC,22.8,2,1,12,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:6),,59-57,59,57
+0022100860,2022-02-14,NYK,OKC,22.88,2,1,7,NYK,NYK,fg3_make,2,False,False,Walker 25' 3PT Running Jump Shot (9 PTS) (Randle 6 AST),,62-57,62,57
+0022100860,2022-02-14,NYK,OKC,23.18,2,0,49,OKC,OKC,tov,2,False,True,,Giddey Lost Ball Turnover (P3.T6),62-57,62,57
+0022100860,2022-02-14,NYK,OKC,23.18,2,0,49,OKC,NYK,steal,2,False,True,steal,steal,62-57,62,57
+0022100860,2022-02-14,NYK,OKC,23.25,2,0,45,NYK,NYK,fg3_miss,103,False,False,MISS Grimes 26' 3PT Running Pull-Up Jump Shot,,62-57,62,57
+0022100860,2022-02-14,NYK,OKC,23.3,2,0,42,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:4),62-57,62,57
+0022100860,2022-02-14,NYK,OKC,23.37,2,0,38,OKC,OKC,fg_make,76,False,False,,Bazley 1' Running Finger Roll Layup (5 PTS) (Giddey 8 AST),62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.55,2,0,27,NYK,NYK,fg3_miss,79,False,False,MISS Walker 26' 3PT Pullup Jump Shot,,62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.6,2,0,24,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:4),62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.63,2,0,22,OKC,OKC,fg_miss,41,True,False,,MISS Bazley 1' Running Layup,62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.63,2,0,22,OKC,NYK,block,41,True,False,block,block,62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.63,2,0,22,NYK,NYK,reb,0,False,False,KNICKS Rebound,,62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.7,2,0,18,NYK,NYK,tov,1,False,True,Randle Bad Pass Turnover (P2.T5),,62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.7,2,0,18,NYK,OKC,steal,1,False,True,steal,steal,62-59,62,59
+0022100860,2022-02-14,NYK,OKC,23.72,2,0,17,OKC,OKC,fg_make,98,False,False,,Bazley 1' Cutting Layup Shot (7 PTS) (Wiggins 2 AST),62-61,62,61
+0022100860,2022-02-14,NYK,OKC,23.98,2,0,1,NYK,NYK,fg_miss,86,False,False,MISS Randle 19' Turnaround Fadeaway Shot,,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,23.98,2,0,1,NYK,NYK,reb,0,False,False,KNICKS Rebound,,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.0,2,0,0,NYK,,period_end,0,False,False,,,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.0,3,12,0,NYK,,period_start,0,False,False,,,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.17,3,11,50,OKC,OKC,tov,45,False,False,,Giddey Out of Bounds - Bad Pass Turnover Turnover (P4.T7),62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.47,3,11,32,NYK,NYK,fg_miss,1,False,False,MISS Walker 23' Jump Shot,,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.48,3,11,31,NYK,NYK,reb,0,False,False,Fournier REBOUND (Off:1 Def:1),,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.57,3,11,26,NYK,NYK,fg_miss,80,False,False,MISS Randle 20' Step Back Jump Shot,,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.6,3,11,24,OKC,OKC,reb,0,False,False,,Roby REBOUND (Off:2 Def:4),62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.82,3,11,11,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P5.T8),62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.82,3,11,11,OKC,NYK,steal,1,False,True,steal,steal,62-61,62,61
+0022100860,2022-02-14,NYK,OKC,24.92,3,11,5,NYK,NYK,fg3_make,2,False,False,Grimes 26' 3PT Running Jump Shot (11 PTS) (Randle 7 AST),,65-61,65,61
+0022100860,2022-02-14,NYK,OKC,25.15,3,10,51,OKC,OKC,fg3_miss,1,False,False,,MISS Bazley 25' 3PT Jump Shot,65-61,65,61
+0022100860,2022-02-14,NYK,OKC,25.18,3,10,49,NYK,NYK,reb,0,False,False,Grimes REBOUND (Off:0 Def:4),,65-61,65,61
+0022100860,2022-02-14,NYK,OKC,25.38,3,10,37,NYK,NYK,fg3_make,1,False,False,Fournier 25' 3PT Jump Shot (16 PTS) (Walker 4 AST),,68-61,68,61
+0022100860,2022-02-14,NYK,OKC,25.38,3,10,37,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),68-61,68,61
+0022100860,2022-02-14,NYK,OKC,25.6,3,10,24,OKC,OKC,fg3_make,80,False,False,,Mann 26' 3PT Step Back Jump Shot (14 PTS),68-64,68,64
+0022100860,2022-02-14,NYK,OKC,25.83,3,10,10,NYK,NYK,fg_make,98,False,False,Randle 1' Cutting Layup Shot (16 PTS) (Walker 5 AST),,70-64,70,64
+0022100860,2022-02-14,NYK,OKC,25.83,3,10,10,NYK,OKC,foul,2,False,False,,Bazley S.FOUL (P1.T1) (B.Taylor),70-64,70,64
+0022100860,2022-02-14,NYK,OKC,25.83,3,10,10,NYK,NYK,ft_make,10,False,False,Randle Free Throw 1 of 1 (17 PTS),,71-64,71,64
+0022100860,2022-02-14,NYK,OKC,26.1,3,9,54,OKC,OKC,fg_miss,102,False,False,,MISS Giddey 7' Driving Floating Bank Jump Shot,71-64,71,64
+0022100860,2022-02-14,NYK,OKC,26.13,3,9,52,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:7),,71-64,71,64
+0022100860,2022-02-14,NYK,OKC,26.23,3,9,46,NYK,NYK,fg3_make,1,False,False,Grimes 24' 3PT Jump Shot (14 PTS) (Randle 8 AST),,74-64,74,64
+0022100860,2022-02-14,NYK,OKC,26.6,3,9,24,OKC,OKC,fg_make,5,False,False,,Bazley 1' Layup (9 PTS),74-66,74,66
+0022100860,2022-02-14,NYK,OKC,26.98,3,9,1,NYK,NYK,fg_make,52,False,False,Robinson 1' Alley Oop Dunk (13 PTS) (Randle 9 AST),,76-66,76,66
+0022100860,2022-02-14,NYK,OKC,27.32,3,8,41,OKC,OKC,fg_make,75,False,False,,Mann 2' Driving Finger Roll Layup (16 PTS),76-68,76,68
+0022100860,2022-02-14,NYK,OKC,27.63,3,8,22,NYK,NYK,fg3_make,1,False,False,Grimes 3PT Jump Shot (17 PTS) (Fournier 3 AST),,79-68,79,68
+0022100860,2022-02-14,NYK,OKC,27.92,3,8,5,OKC,OKC,fg_miss,80,False,False,,MISS Giddey 20' Step Back Jump Shot,79-68,79,68
+0022100860,2022-02-14,NYK,OKC,27.95,3,8,3,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:8),,79-68,79,68
+0022100860,2022-02-14,NYK,OKC,28.2,3,7,48,NYK,NYK,fg3_miss,1,False,False,MISS Randle 26' 3PT Jump Shot,,79-68,79,68
+0022100860,2022-02-14,NYK,OKC,28.23,3,7,46,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:5),79-68,79,68
+0022100860,2022-02-14,NYK,OKC,28.33,3,7,40,OKC,NYK,foul,2,False,False,Randle S.FOUL (P2.T1) (B.Taylor),,79-68,79,68
+0022100860,2022-02-14,NYK,OKC,28.33,3,7,40,OKC,OKC,ft_make,11,False,False,,Bazley Free Throw 1 of 2 (10 PTS),79-69,79,69
+0022100860,2022-02-14,NYK,OKC,28.33,3,7,40,OKC,OKC,ft_make,12,False,False,,Bazley Free Throw 2 of 2 (11 PTS),79-70,79,70
+0022100860,2022-02-14,NYK,OKC,28.58,3,7,25,NYK,NYK,fg3_miss,80,False,False,MISS Fournier 24' 3PT Step Back Jump Shot,,79-70,79,70
+0022100860,2022-02-14,NYK,OKC,28.62,3,7,23,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:2),79-70,79,70
+0022100860,2022-02-14,NYK,OKC,28.8,3,7,12,OKC,OKC,fg_make,9,False,False,,Giddey 1' Driving Dunk (18 PTS),79-72,79,72
+0022100860,2022-02-14,NYK,OKC,29.15,3,6,51,NYK,NYK,fg_miss,80,False,False,MISS Walker 14' Step Back Jump Shot,,79-72,79,72
+0022100860,2022-02-14,NYK,OKC,29.18,3,6,49,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:6 Def:3),,79-72,79,72
+0022100860,2022-02-14,NYK,OKC,29.2,3,6,48,NYK,OKC,foul,2,False,False,,Favors S.FOUL (P3.T2) (J.Goble),79-72,79,72
+0022100860,2022-02-14,NYK,OKC,29.2,3,6,48,NYK,NYK,ft_make,11,False,False,Robinson Free Throw 1 of 2 (14 PTS),,80-72,80,72
+0022100860,2022-02-14,NYK,OKC,29.2,3,6,48,NYK,NYK,ft_miss,12,False,False,MISS Robinson Free Throw 2 of 2,,80-72,80,72
+0022100860,2022-02-14,NYK,OKC,29.23,3,6,46,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:6),80-72,80,72
+0022100860,2022-02-14,NYK,OKC,29.48,3,6,31,OKC,OKC,fg_make,5,False,False,,Giddey 2' Layup (20 PTS) (Wiggins 3 AST),80-74,80,74
+0022100860,2022-02-14,NYK,OKC,29.72,3,6,17,NYK,NYK,tov,2,False,True,Randle Lost Ball Turnover (P3.T6),,80-74,80,74
+0022100860,2022-02-14,NYK,OKC,29.72,3,6,17,NYK,OKC,steal,2,False,True,steal,steal,80-74,80,74
+0022100860,2022-02-14,NYK,OKC,29.75,3,6,15,OKC,NYK,foul,2,False,False,Grimes S.FOUL (P3.T2) (J.Goble),,80-74,80,74
+0022100860,2022-02-14,NYK,OKC,29.75,3,6,15,OKC,OKC,ft_make,11,False,False,,Bazley Free Throw 1 of 2 (12 PTS),80-75,80,75
+0022100860,2022-02-14,NYK,OKC,29.75,3,6,15,OKC,OKC,ft_make,12,False,False,,Bazley Free Throw 2 of 2 (13 PTS),80-76,80,76
+0022100860,2022-02-14,NYK,OKC,29.97,3,6,2,NYK,NYK,fg_miss,75,False,False,MISS Grimes 2' Driving Finger Roll Layup,,80-76,80,76
+0022100860,2022-02-14,NYK,OKC,30.0,3,6,0,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:5),80-76,80,76
+0022100860,2022-02-14,NYK,OKC,30.05,3,5,57,OKC,OKC,fg_make,74,False,False,,Bazley Running Reverse Layup (15 PTS) (Giddey 9 AST),80-78,80,78
+0022100860,2022-02-14,NYK,OKC,30.05,3,5,57,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 3 Short 0),,80-78,80,78
+0022100860,2022-02-14,NYK,OKC,30.37,3,5,38,NYK,NYK,fg3_make,1,False,False,Fournier 3PT Jump Shot (19 PTS) (Randle 10 AST),,83-78,83,78
+0022100860,2022-02-14,NYK,OKC,30.62,3,5,23,OKC,OKC,fg_make,98,False,False,,Favors 1' Cutting Layup Shot (6 PTS) (Giddey 10 AST),83-80,83,80
+0022100860,2022-02-14,NYK,OKC,30.62,3,5,23,OKC,NYK,violation,2,False,False,Robinson Violation:Defensive Goaltending (B.Taylor),,83-80,83,80
+0022100860,2022-02-14,NYK,OKC,30.62,3,5,23,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 4 Short 0),,83-80,83,80
+0022100860,2022-02-14,NYK,OKC,30.82,3,5,11,NYK,NYK,fg_make,80,False,False,Randle 17' Step Back Jump Shot (19 PTS),,85-80,85,80
+0022100860,2022-02-14,NYK,OKC,31.13,3,4,52,OKC,OKC,fg3_miss,1,False,False,,MISS Wiggins 3PT Jump Shot,85-80,85,80
+0022100860,2022-02-14,NYK,OKC,31.17,3,4,50,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:9),,85-80,85,80
+0022100860,2022-02-14,NYK,OKC,31.3,3,4,42,NYK,NYK,fg3_miss,79,False,False,MISS Fournier 25' 3PT Pullup Jump Shot,,85-80,85,80
+0022100860,2022-02-14,NYK,OKC,31.33,3,4,40,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:7),85-80,85,80
+0022100860,2022-02-14,NYK,OKC,31.65,3,4,21,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P6.T9),85-80,85,80
+0022100860,2022-02-14,NYK,OKC,31.65,3,4,21,OKC,NYK,steal,1,False,True,steal,steal,85-80,85,80
+0022100860,2022-02-14,NYK,OKC,31.82,3,4,11,NYK,NYK,fg_make,108,False,False,Randle 1' Cutting Dunk Shot (21 PTS) (Fournier 4 AST),,87-80,87,80
+0022100860,2022-02-14,NYK,OKC,32.17,3,3,50,OKC,OKC,fg3_make,1,False,False,,Bazley 24' 3PT Jump Shot (18 PTS) (Williams 3 AST),87-83,87,83
+0022100860,2022-02-14,NYK,OKC,32.52,3,3,29,NYK,NYK,fg_miss,102,False,False,MISS Randle 2' Driving Floating Bank Jump Shot,,87-83,87,83
+0022100860,2022-02-14,NYK,OKC,32.55,3,3,27,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:0 Def:2),87-83,87,83
+0022100860,2022-02-14,NYK,OKC,32.7,3,3,18,OKC,OKC,fg3_make,79,False,False,,Giddey 26' 3PT Pullup Jump Shot (23 PTS) (Bazley 2 AST),87-86,87,86
+0022100860,2022-02-14,NYK,OKC,33.02,3,2,59,NYK,NYK,fg_miss,102,False,False,MISS Fournier 5' Driving Floating Bank Jump Shot,,87-86,87,86
+0022100860,2022-02-14,NYK,OKC,33.05,3,2,57,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:3),87-86,87,86
+0022100860,2022-02-14,NYK,OKC,33.25,3,2,45,OKC,OKC,fg3_make,1,False,False,,Bazley 25' 3PT Jump Shot (21 PTS) (Giddey 11 AST),87-89,87,89
+0022100860,2022-02-14,NYK,OKC,33.3,3,2,42,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 5 Short 0),,87-89,87,89
+0022100860,2022-02-14,NYK,OKC,33.45,3,2,33,NYK,NYK,fg3_miss,1,False,False,MISS Quickley 25' 3PT Jump Shot,,87-89,87,89
+0022100860,2022-02-14,NYK,OKC,33.48,3,2,31,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),87-89,87,89
+0022100860,2022-02-14,NYK,OKC,33.57,3,2,26,NYK,OKC,foul,4,False,False,,Krejci OFF.Foul (P1) (B.Taylor),87-89,87,89
+0022100860,2022-02-14,NYK,OKC,33.57,3,2,26,OKC,OKC,tov,37,False,False,,Krejci Offensive Foul Turnover (P1.T10),87-89,87,89
+0022100860,2022-02-14,NYK,OKC,33.88,3,2,7,NYK,NYK,fg3_make,1,False,False,Randle 24' 3PT Jump Shot (24 PTS) (Quickley 3 AST),,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,34.22,3,1,47,OKC,OKC,fg3_miss,1,False,False,,MISS Pokusevski 25' 3PT Jump Shot,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,34.25,3,1,45,NYK,NYK,reb,0,False,False,Gibson REBOUND (Off:2 Def:1),,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,34.48,3,1,31,NYK,NYK,fg3_miss,1,False,False,MISS Quickley 25' 3PT Jump Shot,,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,34.52,3,1,29,NYK,NYK,reb,0,False,False,Gibson REBOUND (Off:3 Def:1),,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,34.57,3,1,26,NYK,NYK,fg3_miss,1,False,False,MISS Fournier 26' 3PT Jump Shot,,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,34.6,3,1,24,OKC,OKC,reb,0,False,False,,Thunder Rebound,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,34.97,3,1,2,OKC,OKC,fg3_miss,79,False,False,,MISS Williams 25' 3PT Pullup Jump Shot,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,35.0,3,1,0,NYK,NYK,reb,0,False,False,KNICKS Rebound,,90-89,90,89
+0022100860,2022-02-14,NYK,OKC,35.28,3,0,43,NYK,NYK,fg_make,80,False,False,Randle 17' Step Back Jump Shot (26 PTS),,92-89,92,89
+0022100860,2022-02-14,NYK,OKC,35.55,3,0,27,OKC,OKC,fg_make,5,False,False,,Williams 2' Layup (10 PTS) (Jerome 3 AST),92-91,92,91
+0022100860,2022-02-14,NYK,OKC,35.88,3,0,7,NYK,NYK,fg3_miss,1,False,False,MISS Burks 27' 3PT Jump Shot,,92-91,92,91
+0022100860,2022-02-14,NYK,OKC,35.9,3,0,6,NYK,NYK,reb,0,False,False,Fournier REBOUND (Off:2 Def:1),,92-91,92,91
+0022100860,2022-02-14,NYK,OKC,35.98,3,0,1,NYK,NYK,fg_make,71,False,False,Fournier 2' Finger Roll Layup (21 PTS),,94-91,94,91
+0022100860,2022-02-14,NYK,OKC,36.0,3,0,0,NYK,,period_end,0,False,False,,,94-91,94,91
+0022100860,2022-02-14,NYK,OKC,36.0,4,12,0,NYK,,period_start,0,False,False,,,94-91,94,91
+0022100860,2022-02-14,NYK,OKC,36.38,4,11,37,NYK,NYK,fg_make,99,False,False,Toppin 1' Cutting Finger Roll Layup Shot (5 PTS) (Quickley 4 AST),,96-91,96,91
+0022100860,2022-02-14,NYK,OKC,36.8,4,11,12,OKC,OKC,fg_miss,101,False,False,,MISS Jerome 14' Driving Floating Jump Shot,96-91,96,91
+0022100860,2022-02-14,NYK,OKC,36.83,4,11,10,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:1 Def:3),96-91,96,91
+0022100860,2022-02-14,NYK,OKC,36.83,4,11,10,OKC,OKC,fg_miss,97,False,False,,MISS Pokusevski Tip Layup Shot,96-91,96,91
+0022100860,2022-02-14,NYK,OKC,36.87,4,11,8,OKC,OKC,reb,0,False,False,,Jerome REBOUND (Off:1 Def:0),96-91,96,91
+0022100860,2022-02-14,NYK,OKC,36.92,4,11,5,OKC,OKC,fg3_make,1,False,False,,Williams 26' 3PT Jump Shot (13 PTS) (Jerome 4 AST),96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.07,4,10,56,OKC,NYK,foul,4,False,False,Toppin OFF.Foul (P2) (J.Goble),,96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.07,4,10,56,NYK,NYK,tov,37,False,False,Toppin Offensive Foul Turnover (P1.T7),,96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.23,4,10,46,OKC,NYK,foul,1,False,False,Fournier P.FOUL (P1.T1) (B.Taylor),,96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.47,4,10,32,OKC,OKC,fg3_miss,1,False,False,,MISS Williams 26' 3PT Jump Shot,96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.5,4,10,30,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:6 Def:4),,96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.77,4,10,14,NYK,OKC,foul,2,False,False,,Wiggins S.FOUL (P1.T1) (J.Goble),96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.77,4,10,14,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),96-94,96,94
+0022100860,2022-02-14,NYK,OKC,37.77,4,10,14,OKC,NYK,ft_make,13,False,False,Burks Free Throw 1 of 3 (1 PTS),,97-94,97,94
+0022100860,2022-02-14,NYK,OKC,37.77,4,10,14,NYK,NYK,ft_miss,14,False,False,MISS Burks Free Throw 2 of 3,,97-94,97,94
+0022100860,2022-02-14,NYK,OKC,37.77,4,10,14,NYK,NYK,reb,1,False,False,KNICKS Rebound,,97-94,97,94
+0022100860,2022-02-14,NYK,OKC,37.77,4,10,14,NYK,NYK,ft_make,15,False,False,Burks Free Throw 3 of 3 (2 PTS),,98-94,98,94
+0022100860,2022-02-14,NYK,OKC,37.97,4,10,2,OKC,OKC,fg3_miss,1,False,False,,MISS Pokusevski 26' 3PT Jump Shot,98-94,98,94
+0022100860,2022-02-14,NYK,OKC,38.0,4,10,0,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:1 Def:3),,98-94,98,94
+0022100860,2022-02-14,NYK,OKC,38.1,4,9,54,NYK,NYK,fg_make,106,False,False,Toppin 1' Running Alley Oop Dunk Shot (7 PTS) (Quickley 5 AST),,100-94,100,94
+0022100860,2022-02-14,NYK,OKC,38.43,4,9,34,OKC,OKC,fg3_make,80,False,False,,Jerome 25' 3PT Step Back Jump Shot (8 PTS),100-97,100,97
+0022100860,2022-02-14,NYK,OKC,38.58,4,9,25,NYK,NYK,tov,1,False,True,Quickley Bad Pass Turnover (P1.T8),,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,38.58,4,9,25,NYK,OKC,steal,1,False,True,steal,steal,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,38.63,4,9,22,OKC,NYK,foul,28,False,False,Burks Personal Take Foul (P1.T2) (B.Taylor),,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,38.88,4,9,7,OKC,OKC,fg_miss,79,False,False,,MISS Jerome 20' Pullup Jump Shot,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,38.92,4,9,5,NYK,NYK,reb,0,False,False,Toppin REBOUND (Off:0 Def:1),,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.0,4,9,0,NYK,OKC,foul,1,False,False,,Jerome P.FOUL (P1.T2) (B.Taylor),100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.12,4,8,53,NYK,NYK,fg3_miss,1,False,False,MISS Toppin 3PT Jump Shot,,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.17,4,8,50,NYK,NYK,reb,0,False,False,Toppin REBOUND (Off:1 Def:1),,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.28,4,8,43,OKC,NYK,foul,26,False,False,Quickley Offensive Charge Foul (P2) (P.Ransom),,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.28,4,8,43,NYK,NYK,tov,37,False,False,Quickley Offensive Foul Turnover (P2.T9),,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.43,4,8,34,OKC,NYK,foul,1,False,False,Randle P.FOUL (P3.T3) (J.Goble),,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.57,4,8,26,OKC,OKC,fg3_miss,1,False,False,,MISS Roby 27' 3PT Jump Shot,100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.6,4,8,24,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:1 Def:7),100-97,100,97
+0022100860,2022-02-14,NYK,OKC,39.67,4,8,20,OKC,OKC,fg3_make,1,False,False,,Jerome 26' 3PT Jump Shot (11 PTS) (Bazley 3 AST),100-100,100,100
+0022100860,2022-02-14,NYK,OKC,39.9,4,8,6,NYK,NYK,fg_make,101,False,False,Burks 10' Driving Floating Jump Shot (4 PTS),,102-100,102,100
+0022100860,2022-02-14,NYK,OKC,40.12,4,7,53,OKC,OKC,fg_miss,6,False,False,,MISS Bazley 1' Driving Layup,102-100,102,100
+0022100860,2022-02-14,NYK,OKC,40.13,4,7,52,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:10),,102-100,102,100
+0022100860,2022-02-14,NYK,OKC,40.33,4,7,40,NYK,NYK,fg3_miss,79,False,False,MISS Quickley 26' 3PT Pullup Jump Shot,,102-100,102,100
+0022100860,2022-02-14,NYK,OKC,40.37,4,7,38,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),102-100,102,100
+0022100860,2022-02-14,NYK,OKC,40.58,4,7,25,OKC,OKC,fg_make,101,False,False,,Mann 11' Driving Floating Jump Shot (18 PTS),102-102,102,102
+0022100860,2022-02-14,NYK,OKC,40.8,4,7,12,NYK,NYK,fg3_miss,79,False,False,MISS Burks 26' 3PT Pullup Jump Shot,,102-102,102,102
+0022100860,2022-02-14,NYK,OKC,40.82,4,7,11,NYK,NYK,reb,0,False,False,KNICKS Rebound,,102-102,102,102
+0022100860,2022-02-14,NYK,OKC,40.82,4,7,11,NYK,OKC,foul,3,False,False,,Roby L.B.FOUL (P3.T3) (B.Taylor),102-102,102,102
+0022100860,2022-02-14,NYK,OKC,40.95,4,7,3,NYK,NYK,fg_make,86,False,False,Burks 12' Turnaround Fadeaway (6 PTS),,104-102,104,102
+0022100860,2022-02-14,NYK,OKC,41.25,4,6,45,OKC,OKC,fg_make,47,False,False,,Jerome 10' Turnaround Jump Shot (13 PTS),104-104,104,104
+0022100860,2022-02-14,NYK,OKC,41.65,4,6,21,NYK,NYK,fg3_miss,1,False,False,MISS Grimes 28' 3PT Jump Shot,,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,41.68,4,6,19,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),104-104,104,104
+0022100860,2022-02-14,NYK,OKC,41.92,4,6,5,OKC,OKC,fg_miss,98,True,False,,MISS Bazley 4' Cutting Layup Shot,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,41.92,4,6,5,OKC,NYK,block,98,True,False,block,block,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,41.95,4,6,3,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:6 Def:5),,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,41.98,4,6,1,NYK,OKC,foul,1,False,False,,Roby P.FOUL (P4.T4) (P.Ransom),104-104,104,104
+0022100860,2022-02-14,NYK,OKC,42.1,4,5,54,NYK,NYK,fg_miss,6,False,False,MISS Burks 3' Driving Layup,,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,42.18,4,5,49,,NYK,jump_ball,0,False,False,Jump Ball Robinson vs. Bazley: Tip to Fournier,,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,42.18,4,5,49,NYK,NYK,reb,0,False,False,KNICKS Rebound,,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,42.28,4,5,43,NYK,NYK,fg_miss,79,False,False,MISS Randle 15' Pullup Jump Shot,,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,42.32,4,5,41,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),104-104,104,104
+0022100860,2022-02-14,NYK,OKC,42.48,4,5,31,OKC,NYK,foul,2,False,False,Reddish S.FOUL (P1.T4) (J.Goble),,104-104,104,104
+0022100860,2022-02-14,NYK,OKC,42.48,4,5,31,OKC,OKC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (19 PTS),104-105,104,105
+0022100860,2022-02-14,NYK,OKC,42.48,4,5,31,OKC,OKC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (20 PTS),104-106,104,106
+0022100860,2022-02-14,NYK,OKC,42.58,4,5,25,NYK,OKC,foul,1,False,False,,Bazley P.FOUL (P2.PN) (J.Goble),104-106,104,106
+0022100860,2022-02-14,NYK,OKC,42.58,4,5,25,NYK,NYK,ft_make,11,False,False,Burks Free Throw 1 of 2 (7 PTS),,105-106,105,106
+0022100860,2022-02-14,NYK,OKC,42.58,4,5,25,NYK,NYK,ft_make,12,False,False,Burks Free Throw 2 of 2 (8 PTS),,106-106,106,106
+0022100860,2022-02-14,NYK,OKC,42.9,4,5,6,OKC,OKC,fg_miss,79,True,False,,MISS Giddey 13' Pullup Jump Shot,106-106,106,106
+0022100860,2022-02-14,NYK,OKC,42.9,4,5,6,OKC,NYK,block,79,True,False,block,block,106-106,106,106
+0022100860,2022-02-14,NYK,OKC,42.93,4,5,4,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:6 Def:6),,106-106,106,106
+0022100860,2022-02-14,NYK,OKC,43.07,4,4,56,NYK,OKC,foul,2,False,False,,Roby S.FOUL (P5.PN) (P.Ransom),106-106,106,106
+0022100860,2022-02-14,NYK,OKC,43.07,4,4,56,NYK,NYK,ft_make,11,False,False,Randle Free Throw 1 of 2 (27 PTS),,107-106,107,106
+0022100860,2022-02-14,NYK,OKC,43.07,4,4,56,NYK,NYK,ft_make,12,False,False,Randle Free Throw 2 of 2 (28 PTS),,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.35,4,4,39,OKC,NYK,foul,2,False,False,Gibson S.FOUL (P3.PN) (J.Goble),,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.35,4,4,39,OKC,OKC,ft_miss,11,False,False,,MISS Roby Free Throw 1 of 2,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.35,4,4,39,OKC,OKC,reb,1,False,False,,Thunder Rebound,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.35,4,4,39,OKC,OKC,ft_miss,12,False,False,,MISS Roby Free Throw 2 of 2,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.38,4,4,37,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:11),,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.73,4,4,16,NYK,NYK,fg_miss,79,False,False,MISS Burks 17' Pullup Jump Shot,,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.77,4,4,14,NYK,NYK,reb,0,False,False,Grimes REBOUND (Off:1 Def:4),,108-106,108,106
+0022100860,2022-02-14,NYK,OKC,43.88,4,4,7,NYK,NYK,fg_make,101,False,False,Fournier 9' Driving Floating Jump Shot (23 PTS) (Burks 2 AST),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.12,4,3,53,OKC,OKC,fg3_miss,80,False,False,,MISS Mann 27' 3PT Step Back Jump Shot,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.15,4,3,51,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:12),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.52,4,3,29,NYK,NYK,tov,2,False,True,Randle Lost Ball Turnover (P4.T10),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.52,4,3,29,NYK,OKC,steal,2,False,True,steal,steal,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.53,4,3,28,OKC,NYK,foul,28,False,False,Grimes Personal Take Foul (P4.PN) (B.Taylor),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.53,4,3,28,OKC,OKC,ft_miss,11,False,False,,MISS Giddey Free Throw 1 of 2,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.53,4,3,28,OKC,OKC,reb,1,False,False,,Thunder Rebound,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.53,4,3,28,OKC,OKC,ft_miss,12,False,False,,MISS Giddey Free Throw 2 of 2,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.57,4,3,26,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:0 Def:13),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.82,4,3,11,NYK,NYK,fg_miss,101,False,False,MISS Burks 12' Driving Floating Jump Shot,,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.83,4,3,10,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:7 Def:6),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.85,4,3,9,NYK,NYK,fg_miss,72,False,False,MISS Robinson 1' Putback Layup,,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.87,4,3,8,OKC,OKC,reb,0,False,False,,Thunder Rebound,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,44.87,4,3,8,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),110-106,110,106
+0022100860,2022-02-14,NYK,OKC,45.13,4,2,52,OKC,OKC,fg_miss,1,False,False,,MISS Giddey 19' Jump Shot,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,45.17,4,2,50,NYK,NYK,reb,0,False,False,Fournier REBOUND (Off:2 Def:2),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,45.52,4,2,29,NYK,NYK,fg3_miss,1,False,False,MISS Burks 27' 3PT Jump Shot,,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,45.55,4,2,27,OKC,OKC,reb,0,False,False,,Williams REBOUND (Off:0 Def:4),110-106,110,106
+0022100860,2022-02-14,NYK,OKC,45.8,4,2,12,OKC,OKC,fg_miss,101,True,False,,MISS Giddey 12' Driving Floating Jump Shot,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,45.8,4,2,12,OKC,NYK,block,101,True,False,block,block,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,45.83,4,2,10,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:7 Def:7),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.15,4,1,51,NYK,NYK,tov,40,False,False,Randle Out of Bounds Lost Ball Turnover (P5.T11),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.35,4,1,39,OKC,OKC,fg3_miss,1,False,False,,MISS Mann 25' 3PT Jump Shot,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.38,4,1,37,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:1 Def:4),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.77,4,1,14,NYK,NYK,fg3_miss,80,False,False,MISS Grimes 26' 3PT Step Back Jump Shot,,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.8,4,1,12,OKC,OKC,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:3),110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.88,4,1,7,OKC,NYK,foul,1,False,False,Fournier P.FOUL (P2.PN) (J.Goble),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.88,4,1,7,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 6 Short 0),,110-106,110,106
+0022100860,2022-02-14,NYK,OKC,46.88,4,1,7,NYK,OKC,ft_make,11,False,False,,Giddey Free Throw 1 of 2 (24 PTS),110-107,110,107
+0022100860,2022-02-14,NYK,OKC,46.88,4,1,7,NYK,OKC,ft_make,12,False,False,,Giddey Free Throw 2 of 2 (25 PTS),110-108,110,108
+0022100860,2022-02-14,NYK,OKC,47.2,4,0,48,NYK,NYK,fg_miss,79,False,False,MISS Randle 19' Pullup Jump Shot,,110-108,110,108
+0022100860,2022-02-14,NYK,OKC,47.23,4,0,46,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:8 Def:7),,110-108,110,108
+0022100860,2022-02-14,NYK,OKC,47.3,4,0,42,NYK,NYK,tov,2,False,True,Robinson Lost Ball Turnover (P2.T12),,110-108,110,108
+0022100860,2022-02-14,NYK,OKC,47.3,4,0,42,NYK,OKC,steal,2,False,True,steal,steal,110-108,110,108
+0022100860,2022-02-14,NYK,OKC,47.35,4,0,39,OKC,NYK,foul,2,False,False,Grimes S.FOUL (P5.PN) (B.Taylor),,110-108,110,108
+0022100860,2022-02-14,NYK,OKC,47.35,4,0,39,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 7 Short 0),,110-108,110,108
+0022100860,2022-02-14,NYK,OKC,47.35,4,0,39,NYK,OKC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (21 PTS),110-109,110,109
+0022100860,2022-02-14,NYK,OKC,47.35,4,0,39,NYK,OKC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (22 PTS),110-110,110,110
+0022100860,2022-02-14,NYK,OKC,47.62,4,0,23,NYK,NYK,fg_miss,78,False,False,MISS Burks 12' Floating Jump Shot,,110-110,110,110
+0022100860,2022-02-14,NYK,OKC,47.65,4,0,21,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:6),110-110,110,110
+0022100860,2022-02-14,NYK,OKC,47.67,4,0,20,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),110-110,110,110
+0022100860,2022-02-14,NYK,OKC,47.7,4,0,18,OKC,OKC,tov,1,False,True,,Giddey Bad Pass Turnover (P7.T11),110-110,110,110
+0022100860,2022-02-14,NYK,OKC,47.7,4,0,18,OKC,NYK,steal,1,False,True,steal,steal,110-110,110,110
+0022100860,2022-02-14,NYK,OKC,47.75,4,0,15,NYK,NYK,fg_make,74,False,False,Grimes 2' Running Reverse Layup (19 PTS) (Fournier 5 AST),,112-110,112,110
+0022100860,2022-02-14,NYK,OKC,47.75,4,0,15,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.7 Short 0),112-110,112,110
+0022100860,2022-02-14,NYK,OKC,47.92,4,0,5,OKC,OKC,fg_make,73,False,False,,Bazley 2' Driving Reverse Layup (23 PTS),112-112,112,112
+0022100860,2022-02-14,NYK,OKC,47.98,4,0,1,NYK,NYK,fg_miss,80,False,False,MISS Randle 17' Step Back Jump Shot,,112-112,112,112
+0022100860,2022-02-14,NYK,OKC,47.98,4,0,1,NYK,NYK,reb,0,False,False,KNICKS Rebound,,112-112,112,112
+0022100860,2022-02-14,NYK,OKC,48.0,4,0,0,NYK,,period_end,0,False,False,,,112-112,112,112
+0022100860,2022-02-14,NYK,OKC,48.0,5,5,0,NYK,,period_start,0,False,False,,,112-112,112,112
+0022100860,2022-02-14,NYK,OKC,48.0,5,5,0,,NYK,jump_ball,0,False,False,Jump Ball Robinson vs. Favors: Tip to Fournier,,112-112,112,112
+0022100860,2022-02-14,NYK,OKC,48.35,5,4,39,NYK,NYK,fg3_miss,80,False,False,MISS Grimes 3PT Step Back Jump Shot,,112-112,112,112
+0022100860,2022-02-14,NYK,OKC,48.38,5,4,37,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:7),112-112,112,112
+0022100860,2022-02-14,NYK,OKC,48.47,5,4,32,OKC,OKC,fg_make,41,False,False,,Giddey 2' Running Layup (27 PTS),112-114,112,114
+0022100860,2022-02-14,NYK,OKC,48.92,5,4,5,NYK,NYK,fg3_miss,1,False,False,MISS Grimes 24' 3PT Jump Shot,,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,48.93,5,4,4,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:9 Def:7),,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,48.98,5,4,1,NYK,NYK,fg_miss,1,False,False,MISS Randle 19' Jump Shot,,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,49.0,5,4,0,NYK,NYK,reb,0,False,False,Grimes REBOUND (Off:2 Def:4),,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,49.03,5,3,58,NYK,NYK,fg_miss,97,False,False,MISS Grimes Tip Layup Shot,,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,49.07,5,3,56,OKC,OKC,reb,0,False,False,,Mann REBOUND (Off:0 Def:2),112-114,112,114
+0022100860,2022-02-14,NYK,OKC,49.18,5,3,49,OKC,OKC,fg_miss,102,False,False,,MISS Giddey Driving Floating Bank Jump Shot,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,49.22,5,3,47,OKC,OKC,reb,0,False,False,,Thunder Rebound,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,49.22,5,3,47,OKC,NYK,foul,3,False,False,Randle L.B.FOUL (P4.T1) (B.Taylor),,112-114,112,114
+0022100860,2022-02-14,NYK,OKC,49.38,5,3,37,OKC,OKC,fg_make,80,False,False,,Mann 19' Step Back Jump Shot (24 PTS),112-116,112,116
+0022100860,2022-02-14,NYK,OKC,49.62,5,3,23,NYK,OKC,foul,2,False,False,,Williams S.FOUL (P4.T1) (B.Taylor),112-116,112,116
+0022100860,2022-02-14,NYK,OKC,49.62,5,3,23,NYK,NYK,ft_make,13,False,False,Fournier Free Throw 1 of 3 (24 PTS),,113-116,113,116
+0022100860,2022-02-14,NYK,OKC,49.62,5,3,23,NYK,NYK,ft_make,14,False,False,Fournier Free Throw 2 of 3 (25 PTS),,114-116,114,116
+0022100860,2022-02-14,NYK,OKC,49.62,5,3,23,NYK,NYK,ft_make,15,False,False,Fournier Free Throw 3 of 3 (26 PTS),,115-116,115,116
+0022100860,2022-02-14,NYK,OKC,49.85,5,3,9,OKC,OKC,fg_make,108,False,False,,Favors Cutting Dunk Shot (8 PTS) (Giddey 12 AST),115-118,115,118
+0022100860,2022-02-14,NYK,OKC,50.17,5,2,50,OKC,NYK,foul,4,False,False,Randle OFF.Foul (P5) (B.Taylor),,115-118,115,118
+0022100860,2022-02-14,NYK,OKC,50.17,5,2,50,NYK,NYK,tov,37,False,False,Randle Offensive Foul Turnover (P6.T13),,115-118,115,118
+0022100860,2022-02-14,NYK,OKC,50.42,5,2,35,OKC,OKC,fg_make,6,False,False,,Mann 1' Driving Layup (26 PTS),115-120,115,120
+0022100860,2022-02-14,NYK,OKC,50.63,5,2,22,NYK,NYK,fg3_make,79,False,False,Fournier 26' 3PT Pullup Jump Shot (29 PTS),,118-120,118,120
+0022100860,2022-02-14,NYK,OKC,50.98,5,2,1,OKC,OKC,fg_miss,101,False,False,,MISS Giddey 3' Driving Floating Jump Shot,118-120,118,120
+0022100860,2022-02-14,NYK,OKC,51.02,5,1,59,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:1 Def:2),118-120,118,120
+0022100860,2022-02-14,NYK,OKC,51.02,5,1,59,OKC,OKC,fg_make,97,False,False,,Favors Tip Layup Shot (10 PTS),118-122,118,122
+0022100860,2022-02-14,NYK,OKC,51.23,5,1,46,NYK,NYK,fg3_miss,1,False,False,MISS Grimes 24' 3PT Jump Shot,,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,51.27,5,1,44,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:8),118-122,118,122
+0022100860,2022-02-14,NYK,OKC,51.62,5,1,23,OKC,OKC,fg3_miss,1,True,False,,MISS Giddey 28' 3PT Jump Shot,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,51.62,5,1,23,OKC,NYK,block,1,True,False,block,block,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,51.63,5,1,22,NYK,NYK,reb,0,False,False,Grimes REBOUND (Off:2 Def:5),,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,51.63,5,1,22,NYK,OKC,foul,28,False,False,,Favors Personal Take Foul (P4.T2) (P.Ransom),118-122,118,122
+0022100860,2022-02-14,NYK,OKC,51.97,5,1,2,NYK,NYK,fg3_miss,1,False,False,MISS Fournier 25' 3PT Jump Shot,,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,52.0,5,1,0,OKC,OKC,reb,0,False,False,,Favors REBOUND (Off:1 Def:3),118-122,118,122
+0022100860,2022-02-14,NYK,OKC,52.35,5,0,39,OKC,OKC,fg_miss,79,False,False,,MISS Giddey 22' Pullup Jump Shot,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,52.38,5,0,37,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:9 Def:8),,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,52.5,5,0,30,NYK,NYK,tov,45,False,False,Randle Out of Bounds - Bad Pass Turnover Turnover (P7.T14),,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,52.62,5,0,23,OKC,NYK,foul,2,False,False,Robinson S.FOUL (P1.T2) (J.Goble),,118-122,118,122
+0022100860,2022-02-14,NYK,OKC,52.62,5,0,23,OKC,OKC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (27 PTS),118-123,118,123
+0022100860,2022-02-14,NYK,OKC,52.62,5,0,23,OKC,OKC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (28 PTS),118-124,118,124
+0022100860,2022-02-14,NYK,OKC,52.62,5,0,23,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 8 Short 0),,118-124,118,124
+0022100860,2022-02-14,NYK,OKC,52.68,5,0,19,NYK,NYK,fg_make,6,False,False,Randle 1' Driving Layup (30 PTS) (Burks 3 AST),,120-124,120,124
+0022100860,2022-02-14,NYK,OKC,52.77,5,0,14,OKC,NYK,foul,28,False,False,Burks Personal Take Foul (P2.PN) (B.Taylor),,120-124,120,124
+0022100860,2022-02-14,NYK,OKC,52.77,5,0,14,OKC,OKC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (29 PTS),120-125,120,125
+0022100860,2022-02-14,NYK,OKC,52.77,5,0,14,OKC,OKC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (30 PTS),120-126,120,126
+0022100860,2022-02-14,NYK,OKC,52.85,5,0,9,NYK,NYK,fg3_make,80,False,False,Burks 25' 3PT Step Back Jump Shot (11 PTS),,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.87,5,0,8,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.8 Short 0),123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.92,5,0,5,OKC,NYK,foul,28,False,False,Randle Personal Take Foul (P6.PN) (P.Ransom),,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.92,5,0,5,OKC,OKC,ft_miss,11,False,False,,MISS Jerome Free Throw 1 of 2,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.92,5,0,5,OKC,OKC,reb,1,False,False,,Thunder Rebound,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.92,5,0,5,OKC,OKC,ft_miss,12,False,False,,MISS Jerome Free Throw 2 of 2,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.92,5,0,5,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:1 Def:5),,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.92,5,0,5,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 9 Short 0),,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.95,5,0,3,NYK,NYK,fg3_miss,1,False,False,MISS Quickley 3PT Jump Shot,,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.98,5,0,1,OKC,OKC,reb,0,False,False,,Giddey REBOUND (Off:2 Def:9),123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.98,5,0,1,OKC,NYK,foul,28,False,False,Toppin Personal Take Foul (P3.PN) (P.Ransom),,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.98,5,0,1,OKC,OKC,ft_miss,11,False,False,,MISS Giddey Free Throw 1 of 2,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.98,5,0,1,OKC,OKC,reb,1,False,False,,Thunder Rebound,123-126,123,126
+0022100860,2022-02-14,NYK,OKC,52.98,5,0,1,OKC,OKC,ft_make,12,False,False,,Giddey Free Throw 2 of 2 (28 PTS),123-127,123,127
+0022100860,2022-02-14,NYK,OKC,53.0,5,0,0,OKC,,period_end,0,False,False,,,123-127,123,127

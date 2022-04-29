@@ -1,0 +1,419 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000938,2021-04-28,MIA,SAS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000938,2021-04-28,MIA,SAS,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Adebayo vs. Poeltl: Tip to Butler,,0-0,0,0
+0022000938,2021-04-28,MIA,SAS,0.42,1,11,35,MIA,SAS,foul,2,False,False,,Poeltl S.FOUL (P1.T1) (D.Taylor),0-0,0,0
+0022000938,2021-04-28,MIA,SAS,0.42,1,11,35,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (1 PTS),,1-0,1,0
+0022000938,2021-04-28,MIA,SAS,0.42,1,11,35,MIA,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (2 PTS),,2-0,2,0
+0022000938,2021-04-28,MIA,SAS,0.53,1,11,28,SAS,SAS,fg_make,6,False,False,,Johnson 1' Driving Layup (2 PTS) (Murray 1 AST),2-2,2,2
+0022000938,2021-04-28,MIA,SAS,0.53,1,11,28,SAS,MIA,foul,2,False,False,Robinson S.FOUL (P1.T1) (D.Taylor),,2-2,2,2
+0022000938,2021-04-28,MIA,SAS,0.53,1,11,28,SAS,SAS,ft_miss,10,False,False,,MISS Johnson Free Throw 1 of 1,2-2,2,2
+0022000938,2021-04-28,MIA,SAS,0.58,1,11,25,MIA,MIA,reb,0,False,False,Ariza REBOUND (Off:0 Def:1),,2-2,2,2
+0022000938,2021-04-28,MIA,SAS,0.77,1,11,14,MIA,MIA,fg_make,79,False,False,Nunn 20' Pullup Jump Shot (2 PTS),,4-2,4,2
+0022000938,2021-04-28,MIA,SAS,1.1,1,10,54,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 24' 3PT Jump Shot,4-2,4,2
+0022000938,2021-04-28,MIA,SAS,1.13,1,10,52,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:0 Def:1),,4-2,4,2
+0022000938,2021-04-28,MIA,SAS,1.27,1,10,44,MIA,MIA,fg_make,98,False,False,Robinson 1' Cutting Layup Shot (2 PTS) (Butler 1 AST),,6-2,6,2
+0022000938,2021-04-28,MIA,SAS,1.5,1,10,30,SAS,SAS,tov,45,False,False,,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T1),6-2,6,2
+0022000938,2021-04-28,MIA,SAS,1.67,1,10,20,MIA,MIA,fg3_miss,1,False,False,MISS Ariza 25' 3PT Jump Shot,,6-2,6,2
+0022000938,2021-04-28,MIA,SAS,1.72,1,10,17,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),6-2,6,2
+0022000938,2021-04-28,MIA,SAS,1.93,1,10,4,SAS,SAS,fg_make,93,False,False,,DeRozan 5' Driving Bank Hook Shot (2 PTS),6-4,6,4
+0022000938,2021-04-28,MIA,SAS,2.07,1,9,56,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (5 PTS) (Butler 2 AST),,9-4,9,4
+0022000938,2021-04-28,MIA,SAS,2.32,1,9,41,SAS,SAS,tov,1,False,True,,Murray Bad Pass Turnover (P1.T2),9-4,9,4
+0022000938,2021-04-28,MIA,SAS,2.32,1,9,41,SAS,MIA,steal,1,False,True,steal,steal,9-4,9,4
+0022000938,2021-04-28,MIA,SAS,2.43,1,9,34,MIA,MIA,fg_make,73,False,False,Nunn 1' Driving Reverse Layup (4 PTS),,11-4,11,4
+0022000938,2021-04-28,MIA,SAS,2.43,1,9,34,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.1 Short 0),11-4,11,4
+0022000938,2021-04-28,MIA,SAS,2.7,1,9,18,SAS,SAS,fg_make,6,False,False,,Poeltl 3' Driving Layup (2 PTS) (Murray 2 AST),11-6,11,6
+0022000938,2021-04-28,MIA,SAS,2.95,1,9,3,MIA,MIA,fg_miss,6,False,False,MISS Ariza 3' Driving Layup,,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,2.98,1,9,1,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:1),11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.05,1,8,57,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 24' 3PT Jump Shot,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.1,1,8,54,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:1),,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.25,1,8,45,MIA,MIA,fg_miss,6,False,False,MISS Butler 4' Driving Layup,,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.28,1,8,43,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:0 Def:1),11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.5,1,8,30,SAS,SAS,fg_miss,79,False,False,,MISS Murray 13' Pullup Jump Shot,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.55,1,8,27,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.7,1,8,18,MIA,MIA,fg_miss,101,False,False,MISS Nunn 11' Driving Floating Jump Shot,,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.77,1,8,14,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:1),,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,3.87,1,8,8,MIA,MIA,tov,45,False,False,Butler Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,4.1,1,7,54,SAS,SAS,fg3_miss,1,False,False,,MISS DeRozan 26' 3PT Jump Shot,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,4.17,1,7,50,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:0 Def:2),,11-6,11,6
+0022000938,2021-04-28,MIA,SAS,4.32,1,7,41,MIA,MIA,fg_make,80,False,False,Nunn 13' Step Back Jump Shot (6 PTS),,13-6,13,6
+0022000938,2021-04-28,MIA,SAS,4.57,1,7,26,MIA,SAS,foul,26,False,False,,Poeltl Offensive Charge Foul (P2.T2) (R.Acosta),13-6,13,6
+0022000938,2021-04-28,MIA,SAS,4.57,1,7,26,SAS,SAS,tov,37,False,False,,Poeltl Offensive Foul Turnover (P1.T3),13-6,13,6
+0022000938,2021-04-28,MIA,SAS,4.83,1,7,10,MIA,SAS,foul,1,False,False,,Eubanks P.FOUL (P1.T3) (R.Acosta),13-6,13,6
+0022000938,2021-04-28,MIA,SAS,5.1,1,6,54,MIA,MIA,fg_make,75,False,False,Nunn 4' Driving Finger Roll Layup (8 PTS) (Ariza 1 AST),,15-6,15,6
+0022000938,2021-04-28,MIA,SAS,5.28,1,6,43,SAS,SAS,fg_make,66,False,False,,DeRozan 10' Jump Bank Shot (4 PTS),15-8,15,8
+0022000938,2021-04-28,MIA,SAS,5.5,1,6,30,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 24' 3PT Jump Shot,,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,5.5,1,6,30,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),15-8,15,8
+0022000938,2021-04-28,MIA,SAS,5.73,1,6,16,SAS,SAS,fg_miss,101,False,False,,MISS Murray 4' Driving Floating Jump Shot,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,5.77,1,6,14,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:2),,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,5.97,1,6,2,MIA,MIA,tov,1,False,True,Nunn Bad Pass Turnover (P1.T2),,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,5.97,1,6,2,MIA,SAS,steal,1,False,True,steal,steal,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,6.12,1,5,53,SAS,MIA,foul,2,False,False,Adebayo S.FOUL (P1.T2) (K.Scott),,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,6.12,1,5,53,SAS,SAS,ft_miss,11,False,False,,MISS DeRozan Free Throw 1 of 2,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,6.12,1,5,53,SAS,SAS,reb,1,False,False,,Spurs Rebound,15-8,15,8
+0022000938,2021-04-28,MIA,SAS,6.12,1,5,53,SAS,SAS,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (5 PTS),15-9,15,9
+0022000938,2021-04-28,MIA,SAS,6.37,1,5,38,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 9' Jump Shot,,15-9,15,9
+0022000938,2021-04-28,MIA,SAS,6.4,1,5,36,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),15-9,15,9
+0022000938,2021-04-28,MIA,SAS,6.55,1,5,27,SAS,MIA,foul,1,False,False,Ariza P.FOUL (P1.T3) (R.Acosta),,15-9,15,9
+0022000938,2021-04-28,MIA,SAS,6.68,1,5,19,SAS,SAS,fg_miss,63,False,False,,MISS DeRozan 12' Fadeaway Jumper,15-9,15,9
+0022000938,2021-04-28,MIA,SAS,6.72,1,5,17,MIA,MIA,reb,0,False,False,Ariza REBOUND (Off:0 Def:2),,15-9,15,9
+0022000938,2021-04-28,MIA,SAS,6.9,1,5,6,MIA,MIA,tov,1,False,True,Ariza Bad Pass Turnover (P1.T3),,15-9,15,9
+0022000938,2021-04-28,MIA,SAS,6.9,1,5,6,MIA,SAS,steal,1,False,True,steal,steal,15-9,15,9
+0022000938,2021-04-28,MIA,SAS,7.05,1,4,57,SAS,SAS,fg_make,44,False,False,,Eubanks 2' Reverse Layup (2 PTS) (DeRozan 1 AST),15-11,15,11
+0022000938,2021-04-28,MIA,SAS,7.05,1,4,57,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,15-11,15,11
+0022000938,2021-04-28,MIA,SAS,7.37,1,4,38,MIA,MIA,fg3_make,1,False,False,Dragic 26' 3PT Jump Shot (3 PTS) (Ariza 2 AST),,18-11,18,11
+0022000938,2021-04-28,MIA,SAS,7.67,1,4,20,SAS,SAS,tov,2,False,True,,DeRozan Lost Ball Turnover (P2.T4),18-11,18,11
+0022000938,2021-04-28,MIA,SAS,7.67,1,4,20,SAS,MIA,steal,2,False,True,steal,steal,18-11,18,11
+0022000938,2021-04-28,MIA,SAS,7.75,1,4,15,MIA,MIA,fg_make,6,False,False,Butler 1' Driving Layup (2 PTS) (Dragic 1 AST),,20-11,20,11
+0022000938,2021-04-28,MIA,SAS,7.98,1,4,1,SAS,MIA,foul,2,False,False,Dedmon S.FOUL (P1.T4) (K.Scott),,20-11,20,11
+0022000938,2021-04-28,MIA,SAS,7.98,1,4,1,SAS,SAS,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (3 PTS),20-12,20,12
+0022000938,2021-04-28,MIA,SAS,7.98,1,4,1,SAS,SAS,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (4 PTS),20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.28,1,3,43,MIA,MIA,fg_miss,1,False,False,MISS Butler 15' Jump Shot,,20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.32,1,3,41,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:0 Def:1),20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.5,1,3,30,SAS,SAS,fg_miss,1,False,False,,MISS DeRozan 11' Jump Shot,20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.55,1,3,27,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:3),,20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.72,1,3,17,MIA,MIA,fg3_miss,1,False,False,MISS Ariza 24' 3PT Jump Shot,,20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.77,1,3,14,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:1),20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.85,1,3,9,SAS,SAS,fg_miss,79,False,False,,MISS Walker IV 15' Pullup Jump Shot,20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.9,1,3,6,MIA,MIA,reb,0,False,False,Ariza REBOUND (Off:0 Def:3),,20-13,20,13
+0022000938,2021-04-28,MIA,SAS,8.97,1,3,2,MIA,MIA,fg_make,41,False,False,Dedmon 1' Running Layup (2 PTS) (Butler 3 AST),,22-13,22,13
+0022000938,2021-04-28,MIA,SAS,9.43,1,2,34,SAS,SAS,fg_miss,98,False,False,,MISS Eubanks 3' Cutting Layup Shot,22-13,22,13
+0022000938,2021-04-28,MIA,SAS,9.45,1,2,33,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:0 Def:1),,22-13,22,13
+0022000938,2021-04-28,MIA,SAS,9.63,1,2,22,MIA,MIA,fg_make,79,False,False,Butler 4' Pullup Jump Shot (4 PTS),,24-13,24,13
+0022000938,2021-04-28,MIA,SAS,9.95,1,2,3,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 29' 3PT Jump Shot,24-13,24,13
+0022000938,2021-04-28,MIA,SAS,9.98,1,2,1,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:0 Def:2),,24-13,24,13
+0022000938,2021-04-28,MIA,SAS,10.05,1,1,57,MIA,MIA,fg_make,6,False,False,Butler 7' Driving Layup (6 PTS),,26-13,26,13
+0022000938,2021-04-28,MIA,SAS,10.05,1,1,57,MIA,SAS,foul,2,False,False,,Johnson S.FOUL (P1.T4) (K.Scott),26-13,26,13
+0022000938,2021-04-28,MIA,SAS,10.05,1,1,57,MIA,MIA,ft_make,10,False,False,Butler Free Throw 1 of 1 (7 PTS),,27-13,27,13
+0022000938,2021-04-28,MIA,SAS,10.4,1,1,36,SAS,SAS,fg_make,79,False,False,,Murray 19' Pullup Jump Shot (2 PTS) (Mills 1 AST),27-15,27,15
+0022000938,2021-04-28,MIA,SAS,10.75,1,1,15,MIA,MIA,fg_make,5,False,False,Dedmon 2' Layup (4 PTS) (Butler 4 AST),,29-15,29,15
+0022000938,2021-04-28,MIA,SAS,11.08,1,0,55,SAS,SAS,fg_make,79,False,False,,Walker IV 21' Pullup Jump Shot (2 PTS) (Mills 2 AST),29-17,29,17
+0022000938,2021-04-28,MIA,SAS,11.27,1,0,44,MIA,MIA,fg_miss,1,False,False,MISS Dedmon 18' Jump Shot,,29-17,29,17
+0022000938,2021-04-28,MIA,SAS,11.3,1,0,42,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:1),29-17,29,17
+0022000938,2021-04-28,MIA,SAS,11.43,1,0,34,SAS,SAS,fg3_make,1,False,False,,Gay 24' 3PT Jump Shot (3 PTS),29-20,29,20
+0022000938,2021-04-28,MIA,SAS,11.75,1,0,15,MIA,MIA,fg_make,1,False,False,Butler 13' Jump Shot (9 PTS),,31-20,31,20
+0022000938,2021-04-28,MIA,SAS,11.97,1,0,2,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 25' 3PT Jump Shot,31-20,31,20
+0022000938,2021-04-28,MIA,SAS,12.0,1,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,31-20,31,20
+0022000938,2021-04-28,MIA,SAS,12.0,1,0,0,SAS,,period_end,0,False,False,,,31-20,31,20
+0022000938,2021-04-28,MIA,SAS,12.0,2,12,0,SAS,,period_start,0,False,False,,,31-20,31,20
+0022000938,2021-04-28,MIA,SAS,12.27,2,11,44,SAS,SAS,fg3_make,1,False,False,,Mills 26' 3PT Jump Shot (3 PTS) (Murray 3 AST),31-23,31,23
+0022000938,2021-04-28,MIA,SAS,12.55,2,11,27,MIA,MIA,fg_miss,73,False,False,MISS Dragic 2' Driving Reverse Layup,,31-23,31,23
+0022000938,2021-04-28,MIA,SAS,12.58,2,11,25,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:2),31-23,31,23
+0022000938,2021-04-28,MIA,SAS,12.72,2,11,17,SAS,SAS,fg3_make,1,False,False,,Walker IV 25' 3PT Jump Shot (5 PTS) (Murray 4 AST),31-26,31,26
+0022000938,2021-04-28,MIA,SAS,12.95,2,11,3,SAS,MIA,foul,4,False,False,Dedmon OFF.Foul (P2) (R.Acosta),,31-26,31,26
+0022000938,2021-04-28,MIA,SAS,12.95,2,11,3,MIA,MIA,tov,37,False,False,Dedmon Offensive Foul Turnover (P1.T4),,31-26,31,26
+0022000938,2021-04-28,MIA,SAS,13.2,2,10,48,SAS,MIA,foul,1,False,False,Dragic P.FOUL (P1.T1) (D.Taylor),,31-26,31,26
+0022000938,2021-04-28,MIA,SAS,13.32,2,10,41,SAS,SAS,fg_make,1,False,False,,Gay 15' Jump Shot (5 PTS) (Murray 5 AST),31-28,31,28
+0022000938,2021-04-28,MIA,SAS,13.67,2,10,20,MIA,MIA,fg3_miss,1,False,False,MISS Vincent 27' 3PT Jump Shot,,31-28,31,28
+0022000938,2021-04-28,MIA,SAS,13.73,2,10,16,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:0 Def:2),31-28,31,28
+0022000938,2021-04-28,MIA,SAS,13.88,2,10,7,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 3PT Jump Shot,31-28,31,28
+0022000938,2021-04-28,MIA,SAS,13.93,2,10,4,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,31-28,31,28
+0022000938,2021-04-28,MIA,SAS,14.2,2,9,48,MIA,MIA,fg_make,3,False,False,Adebayo 2' Hook Shot (4 PTS) (Vincent 1 AST),,33-28,33,28
+0022000938,2021-04-28,MIA,SAS,14.4,2,9,36,SAS,SAS,fg_miss,78,False,False,,MISS Poeltl 10' Floating Jump Shot,33-28,33,28
+0022000938,2021-04-28,MIA,SAS,14.43,2,9,34,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:2),,33-28,33,28
+0022000938,2021-04-28,MIA,SAS,14.67,2,9,20,MIA,MIA,fg_make,108,False,False,Adebayo 3' Cutting Dunk Shot (6 PTS) (Robinson 1 AST),,35-28,35,28
+0022000938,2021-04-28,MIA,SAS,14.67,2,9,20,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),35-28,35,28
+0022000938,2021-04-28,MIA,SAS,14.83,2,9,10,SAS,SAS,fg_make,6,False,False,,Walker IV 2' Driving Layup (7 PTS),35-30,35,30
+0022000938,2021-04-28,MIA,SAS,15.07,2,8,56,MIA,MIA,fg3_miss,79,False,False,MISS Nunn 27' 3PT Pullup Jump Shot,,35-30,35,30
+0022000938,2021-04-28,MIA,SAS,15.1,2,8,54,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:1 Def:0),,35-30,35,30
+0022000938,2021-04-28,MIA,SAS,15.2,2,8,48,MIA,MIA,tov,45,False,False,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,35-30,35,30
+0022000938,2021-04-28,MIA,SAS,15.45,2,8,33,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 26' 3PT Jump Shot,35-30,35,30
+0022000938,2021-04-28,MIA,SAS,15.48,2,8,31,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:1 Def:2),35-30,35,30
+0022000938,2021-04-28,MIA,SAS,15.52,2,8,29,SAS,SAS,fg_make,72,False,False,,Poeltl 1' Putback Layup (4 PTS),35-32,35,32
+0022000938,2021-04-28,MIA,SAS,15.8,2,8,12,SAS,MIA,foul,4,False,False,Adebayo OFF.Foul (P2) (D.Taylor),,35-32,35,32
+0022000938,2021-04-28,MIA,SAS,15.8,2,8,12,MIA,MIA,tov,37,False,False,Adebayo Offensive Foul Turnover (P1.T6),,35-32,35,32
+0022000938,2021-04-28,MIA,SAS,15.98,2,8,1,SAS,SAS,fg3_miss,80,False,False,,MISS Mills 25' 3PT Step Back Jump Shot,35-32,35,32
+0022000938,2021-04-28,MIA,SAS,16.05,2,7,57,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:2),,35-32,35,32
+0022000938,2021-04-28,MIA,SAS,16.12,2,7,53,MIA,SAS,foul,2,False,False,,Poeltl S.FOUL (P3.T1) (R.Acosta),35-32,35,32
+0022000938,2021-04-28,MIA,SAS,16.12,2,7,53,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,35-32,35,32
+0022000938,2021-04-28,MIA,SAS,16.12,2,7,53,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (7 PTS),,36-32,36,32
+0022000938,2021-04-28,MIA,SAS,16.12,2,7,53,MIA,MIA,ft_miss,12,False,False,MISS Adebayo Free Throw 2 of 2,,36-32,36,32
+0022000938,2021-04-28,MIA,SAS,16.12,2,7,53,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:0 Def:2),36-32,36,32
+0022000938,2021-04-28,MIA,SAS,16.48,2,7,31,SAS,SAS,fg_make,79,False,False,,DeRozan 16' Pullup Jump Shot (7 PTS),36-34,36,34
+0022000938,2021-04-28,MIA,SAS,16.77,2,7,14,MIA,MIA,fg_make,52,False,False,Adebayo 2' Alley Oop Dunk (9 PTS) (Iguodala 1 AST),,38-34,38,34
+0022000938,2021-04-28,MIA,SAS,17.02,2,6,59,SAS,SAS,fg_make,80,False,False,,Walker IV 22' Step Back Jump Shot (9 PTS) (Murray 6 AST),38-36,38,36
+0022000938,2021-04-28,MIA,SAS,17.35,2,6,39,MIA,MIA,fg_miss,58,False,False,MISS Robinson 14' Turnaround Hook Shot,,38-36,38,36
+0022000938,2021-04-28,MIA,SAS,17.38,2,6,37,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:3),38-36,38,36
+0022000938,2021-04-28,MIA,SAS,17.53,2,6,28,SAS,SAS,fg3_make,1,False,False,,Walker IV 3PT Jump Shot (12 PTS),38-39,38,39
+0022000938,2021-04-28,MIA,SAS,17.77,2,6,14,MIA,MIA,fg_miss,6,False,False,MISS Butler 6' Driving Layup,,38-39,38,39
+0022000938,2021-04-28,MIA,SAS,17.78,2,6,13,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:2),,38-39,38,39
+0022000938,2021-04-28,MIA,SAS,17.78,2,6,13,MIA,MIA,fg_make,107,False,False,Adebayo Tip Dunk Shot (11 PTS),,40-39,40,39
+0022000938,2021-04-28,MIA,SAS,18.03,2,5,58,SAS,MIA,foul,2,False,False,Nunn S.FOUL (P1.T2) (R.Acosta),,40-39,40,39
+0022000938,2021-04-28,MIA,SAS,18.03,2,5,58,SAS,SAS,ft_make,11,False,False,,Murray Free Throw 1 of 2 (3 PTS),40-40,40,40
+0022000938,2021-04-28,MIA,SAS,18.03,2,5,58,SAS,SAS,ft_make,12,False,False,,Murray Free Throw 2 of 2 (4 PTS),40-41,40,41
+0022000938,2021-04-28,MIA,SAS,18.18,2,5,49,MIA,MIA,fg_make,108,False,False,Dedmon 2' Cutting Dunk Shot (6 PTS) (Nunn 1 AST),,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.42,2,5,35,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 3PT Jump Shot,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.47,2,5,32,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:3),,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.53,2,5,28,MIA,MIA,tov,1,False,True,Iguodala Bad Pass Turnover (P2.T7),,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.53,2,5,28,MIA,SAS,steal,1,False,True,steal,steal,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.67,2,5,20,SAS,SAS,fg_miss,1,False,False,,MISS Murray 17' Jump Shot,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.7,2,5,18,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:0 Def:3),,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.82,2,5,11,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 25' 3PT Jump Shot,,42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.85,2,5,9,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:0 Def:1),42-41,42,41
+0022000938,2021-04-28,MIA,SAS,18.92,2,5,5,SAS,SAS,fg_make,78,False,False,,DeRozan 9' Floating Jump Shot (9 PTS) (Gay 1 AST),42-43,42,43
+0022000938,2021-04-28,MIA,SAS,18.92,2,5,5,SAS,MIA,foul,2,False,False,Nunn S.FOUL (P2.T3) (D.Taylor),,42-43,42,43
+0022000938,2021-04-28,MIA,SAS,18.92,2,5,5,SAS,SAS,ft_make,10,False,False,,DeRozan Free Throw 1 of 1 (10 PTS),42-44,42,44
+0022000938,2021-04-28,MIA,SAS,19.15,2,4,51,MIA,MIA,fg_miss,80,False,False,MISS Nunn 14' Step Back Jump Shot,,42-44,42,44
+0022000938,2021-04-28,MIA,SAS,19.25,2,4,45,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:0 Def:3),42-44,42,44
+0022000938,2021-04-28,MIA,SAS,19.38,2,4,37,SAS,SAS,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,42-44,42,44
+0022000938,2021-04-28,MIA,SAS,19.38,2,4,37,MIA,MIA,reb,0,False,False,HEAT Rebound,,42-44,42,44
+0022000938,2021-04-28,MIA,SAS,19.4,2,4,36,MIA,SAS,foul,3,False,False,,Eubanks L.B.FOUL (P2.T2) (K.Scott),42-44,42,44
+0022000938,2021-04-28,MIA,SAS,19.63,2,4,22,MIA,MIA,fg_make,7,False,False,Dedmon 1' Dunk (8 PTS) (Butler 5 AST),,44-44,44,44
+0022000938,2021-04-28,MIA,SAS,19.98,2,4,1,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 25' 3PT Jump Shot,44-44,44,44
+0022000938,2021-04-28,MIA,SAS,20.03,2,3,58,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:4),,44-44,44,44
+0022000938,2021-04-28,MIA,SAS,20.22,2,3,47,MIA,MIA,fg3_miss,1,False,False,MISS Ariza 26' 3PT Jump Shot,,44-44,44,44
+0022000938,2021-04-28,MIA,SAS,20.25,2,3,45,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:3),44-44,44,44
+0022000938,2021-04-28,MIA,SAS,20.43,2,3,34,SAS,SAS,fg_miss,9,True,False,,MISS Gay 2' Driving Dunk,44-44,44,44
+0022000938,2021-04-28,MIA,SAS,20.43,2,3,34,SAS,MIA,block,9,True,False,block,block,44-44,44,44
+0022000938,2021-04-28,MIA,SAS,20.45,2,3,33,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:1 Def:1),44-44,44,44
+0022000938,2021-04-28,MIA,SAS,20.45,2,3,33,SAS,SAS,fg_make,72,False,False,,Gay 3' Putback Layup (7 PTS),44-46,44,46
+0022000938,2021-04-28,MIA,SAS,20.45,2,3,33,SAS,MIA,foul,2,False,False,Dedmon S.FOUL (P3.T4) (K.Scott),,44-46,44,46
+0022000938,2021-04-28,MIA,SAS,20.45,2,3,33,SAS,SAS,ft_miss,10,False,False,,MISS Gay Free Throw 1 of 1,44-46,44,46
+0022000938,2021-04-28,MIA,SAS,20.57,2,3,26,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:3),,44-46,44,46
+0022000938,2021-04-28,MIA,SAS,20.85,2,3,9,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#8),,44-46,44,46
+0022000938,2021-04-28,MIA,SAS,21.07,2,2,56,SAS,SAS,fg_make,101,False,False,,Johnson 8' Driving Floating Jump Shot (6 PTS) (DeRozan 2 AST),44-48,44,48
+0022000938,2021-04-28,MIA,SAS,21.27,2,2,44,MIA,MIA,fg_miss,6,False,False,MISS Butler 2' Driving Layup,,44-48,44,48
+0022000938,2021-04-28,MIA,SAS,21.27,2,2,44,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:4),44-48,44,48
+0022000938,2021-04-28,MIA,SAS,21.45,2,2,33,SAS,SAS,fg_make,6,False,False,,DeRozan 2' Driving Layup (12 PTS),44-50,44,50
+0022000938,2021-04-28,MIA,SAS,21.7,2,2,18,MIA,MIA,fg3_make,1,False,False,Ariza 26' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),,47-50,47,50
+0022000938,2021-04-28,MIA,SAS,22.0,2,2,0,SAS,SAS,fg_miss,63,False,False,,MISS Walker IV 12' Fadeaway Jumper,47-50,47,50
+0022000938,2021-04-28,MIA,SAS,22.03,2,1,58,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:4),,47-50,47,50
+0022000938,2021-04-28,MIA,SAS,22.13,2,1,52,MIA,MIA,fg_make,57,False,False,Adebayo 3' Driving Hook Shot (13 PTS) (Dragic 2 AST),,49-50,49,50
+0022000938,2021-04-28,MIA,SAS,22.13,2,1,52,MIA,SAS,foul,2,False,False,,DeRozan S.FOUL (P1.T3) (K.Scott),49-50,49,50
+0022000938,2021-04-28,MIA,SAS,22.13,2,1,52,MIA,MIA,ft_make,10,False,False,Adebayo Free Throw 1 of 1 (14 PTS),,50-50,50,50
+0022000938,2021-04-28,MIA,SAS,22.35,2,1,39,SAS,SAS,fg_miss,80,False,False,,MISS DeRozan 21' Step Back Jump Shot,50-50,50,50
+0022000938,2021-04-28,MIA,SAS,22.42,2,1,35,MIA,MIA,reb,0,False,False,Ariza REBOUND (Off:0 Def:4),,50-50,50,50
+0022000938,2021-04-28,MIA,SAS,22.55,2,1,27,MIA,MIA,fg_make,6,False,False,Butler 1' Driving Layup (11 PTS),,52-50,52,50
+0022000938,2021-04-28,MIA,SAS,22.57,2,1,26,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.3 Short 0),52-50,52,50
+0022000938,2021-04-28,MIA,SAS,22.7,2,1,18,SAS,MIA,foul,1,False,False,Robinson P.FOUL (P2.PN) (D.Taylor),,52-50,52,50
+0022000938,2021-04-28,MIA,SAS,22.7,2,1,18,SAS,SAS,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (7 PTS),52-51,52,51
+0022000938,2021-04-28,MIA,SAS,22.7,2,1,18,SAS,SAS,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (8 PTS),52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.0,2,1,0,MIA,MIA,fg_miss,86,False,False,MISS Butler 6' Turnaround Fadeaway Shot,,52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.03,2,0,58,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:3),,52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.08,2,0,55,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 24' 3PT Jump Shot,,52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.15,2,0,51,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:2),52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.43,2,0,34,SAS,SAS,tov,2,False,True,,Dieng Lost Ball Turnover (P1.T5),52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.43,2,0,34,SAS,MIA,steal,2,False,True,steal,steal,52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.63,2,0,22,MIA,MIA,fg_miss,6,False,False,MISS Ariza 2' Driving Layup,,52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.63,2,0,22,SAS,SAS,reb,0,False,False,,Dieng REBOUND (Off:0 Def:1),52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.63,2,0,22,SAS,MIA,foul,1,False,False,Butler P.FOUL (P1.PN) (D.Taylor),,52-52,52,52
+0022000938,2021-04-28,MIA,SAS,23.63,2,0,22,SAS,SAS,ft_make,11,False,False,,Dieng Free Throw 1 of 2 (1 PTS),52-53,52,53
+0022000938,2021-04-28,MIA,SAS,23.63,2,0,22,SAS,SAS,ft_make,12,False,False,,Dieng Free Throw 2 of 2 (2 PTS),52-54,52,54
+0022000938,2021-04-28,MIA,SAS,24.0,2,0,0,MIA,MIA,fg3_make,66,False,False,Dragic 27' 3PT Jump Bank Shot (6 PTS),,55-54,55,54
+0022000938,2021-04-28,MIA,SAS,24.0,2,0,0,MIA,,period_end,0,False,False,,,55-54,55,54
+0022000938,2021-04-28,MIA,SAS,24.0,3,12,0,MIA,,period_start,0,False,False,,,55-54,55,54
+0022000938,2021-04-28,MIA,SAS,24.2,3,11,48,SAS,SAS,tov,45,False,False,,Murray Out of Bounds - Bad Pass Turnover Turnover (P2.T6),55-54,55,54
+0022000938,2021-04-28,MIA,SAS,24.6,3,11,24,MIA,MIA,fg_make,6,False,False,Nunn 2' Driving Layup (10 PTS) (Ariza 3 AST),,57-54,57,54
+0022000938,2021-04-28,MIA,SAS,24.88,3,11,7,SAS,SAS,fg_make,78,False,False,,Murray 10' Floating Jump Shot (6 PTS) (Poeltl 1 AST),57-56,57,56
+0022000938,2021-04-28,MIA,SAS,25.02,3,10,59,MIA,MIA,fg_make,102,False,False,Nunn 10' Driving Floating Bank Jump Shot (12 PTS),,59-56,59,56
+0022000938,2021-04-28,MIA,SAS,25.37,3,10,38,SAS,SAS,fg_miss,1,False,False,,MISS Johnson 4' Jump Shot,59-56,59,56
+0022000938,2021-04-28,MIA,SAS,25.42,3,10,35,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:4),,59-56,59,56
+0022000938,2021-04-28,MIA,SAS,25.62,3,10,23,MIA,MIA,fg_make,79,False,False,Butler 14' Pullup Jump Shot (13 PTS),,61-56,61,56
+0022000938,2021-04-28,MIA,SAS,25.78,3,10,13,SAS,SAS,fg_make,5,False,False,,DeRozan 1' Layup (14 PTS),61-58,61,58
+0022000938,2021-04-28,MIA,SAS,26.08,3,9,55,MIA,MIA,tov,1,False,True,Nunn Bad Pass Turnover (P2.T9),,61-58,61,58
+0022000938,2021-04-28,MIA,SAS,26.08,3,9,55,MIA,SAS,steal,1,False,True,steal,steal,61-58,61,58
+0022000938,2021-04-28,MIA,SAS,26.17,3,9,50,SAS,SAS,fg_make,74,False,False,,Johnson 5' Running Reverse Layup (10 PTS) (Murray 7 AST),61-60,61,60
+0022000938,2021-04-28,MIA,SAS,26.42,3,9,35,MIA,MIA,fg_miss,5,True,False,MISS Robinson 2' Layup,,61-60,61,60
+0022000938,2021-04-28,MIA,SAS,26.42,3,9,35,MIA,SAS,block,5,True,False,block,block,61-60,61,60
+0022000938,2021-04-28,MIA,SAS,26.47,3,9,32,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:2),61-60,61,60
+0022000938,2021-04-28,MIA,SAS,26.53,3,9,28,SAS,SAS,fg3_miss,1,False,False,,MISS Johnson 27' 3PT Jump Shot,61-60,61,60
+0022000938,2021-04-28,MIA,SAS,26.58,3,9,25,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:5),,61-60,61,60
+0022000938,2021-04-28,MIA,SAS,26.68,3,9,19,MIA,MIA,fg3_make,79,False,False,Nunn 26' 3PT Pullup Jump Shot (15 PTS) (Butler 6 AST),,64-60,64,60
+0022000938,2021-04-28,MIA,SAS,26.93,3,9,4,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 24' 3PT Jump Shot,64-60,64,60
+0022000938,2021-04-28,MIA,SAS,27.0,3,9,0,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:2),64-60,64,60
+0022000938,2021-04-28,MIA,SAS,27.03,3,8,58,SAS,MIA,foul,2,False,False,Adebayo S.FOUL (P3.T1) (K.Scott),,64-60,64,60
+0022000938,2021-04-28,MIA,SAS,27.03,3,8,58,SAS,SAS,ft_make,11,False,False,,Murray Free Throw 1 of 2 (7 PTS),64-61,64,61
+0022000938,2021-04-28,MIA,SAS,27.03,3,8,58,SAS,SAS,ft_make,12,False,False,,Murray Free Throw 2 of 2 (8 PTS),64-62,64,62
+0022000938,2021-04-28,MIA,SAS,27.38,3,8,37,MIA,SAS,foul,2,False,False,,DeRozan S.FOUL (P2.T1) (K.Scott),64-62,64,62
+0022000938,2021-04-28,MIA,SAS,27.38,3,8,37,MIA,MIA,ft_make,11,False,False,Ariza Free Throw 1 of 2 (4 PTS),,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.38,3,8,37,MIA,MIA,ft_miss,12,False,False,MISS Ariza Free Throw 2 of 2,,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.43,3,8,34,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:3),65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.57,3,8,26,SAS,SAS,tov,45,False,False,,Murray Out of Bounds - Bad Pass Turnover Turnover (P3.T7),65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.7,3,8,18,MIA,MIA,fg_miss,6,False,False,MISS Butler 4' Driving Layup,,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.73,3,8,16,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:2),,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.78,3,8,13,MIA,MIA,fg_miss,5,False,False,MISS Butler 5' Layup,,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.83,3,8,10,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:0 Def:2),65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.9,3,8,6,SAS,SAS,fg_miss,103,False,False,,MISS Vassell 9' Running Pull-Up Jump Shot,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,27.93,3,8,4,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:3),,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,28.0,3,8,0,MIA,MIA,fg3_miss,1,False,False,MISS Nunn 28' 3PT Jump Shot,,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,28.05,3,7,57,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:4),65-62,65,62
+0022000938,2021-04-28,MIA,SAS,28.1,3,7,54,SAS,MIA,foul,1,False,False,Robinson P.FOUL (P3.T2) (K.Scott),,65-62,65,62
+0022000938,2021-04-28,MIA,SAS,28.33,3,7,40,SAS,SAS,fg_make,79,False,False,,Vassell 15' Pullup Jump Shot (2 PTS) (DeRozan 3 AST),65-64,65,64
+0022000938,2021-04-28,MIA,SAS,28.77,3,7,14,MIA,MIA,fg_miss,5,False,False,MISS Adebayo 2' Layup,,65-64,65,64
+0022000938,2021-04-28,MIA,SAS,28.78,3,7,13,MIA,MIA,reb,0,False,False,Ariza REBOUND (Off:1 Def:4),,65-64,65,64
+0022000938,2021-04-28,MIA,SAS,28.78,3,7,13,MIA,MIA,tov,39,False,False,Ariza Step Out of Bounds Turnover (P2.T10),,65-64,65,64
+0022000938,2021-04-28,MIA,SAS,28.95,3,7,3,SAS,SAS,fg3_make,1,False,False,,Murray 24' 3PT Jump Shot (11 PTS) (DeRozan 4 AST),65-67,65,67
+0022000938,2021-04-28,MIA,SAS,29.28,3,6,43,MIA,MIA,tov,2,False,True,Nunn Lost Ball Turnover (P3.T11),,65-67,65,67
+0022000938,2021-04-28,MIA,SAS,29.28,3,6,43,MIA,SAS,steal,2,False,True,steal,steal,65-67,65,67
+0022000938,2021-04-28,MIA,SAS,29.35,3,6,39,SAS,SAS,fg_make,50,False,False,,Vassell 1' Running Dunk (4 PTS) (Murray 8 AST),65-69,65,69
+0022000938,2021-04-28,MIA,SAS,29.68,3,6,19,MIA,MIA,fg_miss,101,False,False,MISS Robinson 7' Driving Floating Jump Shot,,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,29.72,3,6,17,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:5),65-69,65,69
+0022000938,2021-04-28,MIA,SAS,29.92,3,6,5,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 3PT Jump Shot,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,29.97,3,6,2,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:4),,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.02,3,5,59,MIA,MIA,fg_miss,6,True,False,MISS Butler 6' Driving Layup,,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.02,3,5,59,MIA,SAS,block,6,True,False,block,block,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.07,3,5,56,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:3),65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.13,3,5,52,SAS,SAS,fg_miss,6,False,False,,MISS Vassell 1' Driving Layup,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.2,3,5,48,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:5),,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.27,3,5,44,MIA,MIA,fg3_miss,1,False,False,MISS Ariza 27' 3PT Jump Shot,,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.32,3,5,41,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:6),65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.33,3,5,40,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.4 Short 0),65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.53,3,5,28,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 26' 3PT Jump Shot,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.57,3,5,26,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:5),,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.73,3,5,16,SAS,MIA,foul,4,False,False,Dedmon OFF.Foul (P4) (D.Taylor),,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.73,3,5,16,MIA,MIA,tov,37,False,False,Dedmon Offensive Foul Turnover (P2.T12),,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.87,3,5,8,SAS,MIA,foul,2,False,False,Ariza S.FOUL (P2.T3) (R.Acosta),,65-69,65,69
+0022000938,2021-04-28,MIA,SAS,30.87,3,5,8,SAS,SAS,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (15 PTS),65-70,65,70
+0022000938,2021-04-28,MIA,SAS,30.87,3,5,8,SAS,SAS,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (16 PTS),65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.15,3,4,51,MIA,MIA,fg3_miss,1,False,False,MISS Nunn 26' 3PT Jump Shot,,65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.18,3,4,49,SAS,SAS,reb,0,False,False,,Mills REBOUND (Off:0 Def:1),65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.33,3,4,40,SAS,SAS,fg_miss,78,False,False,,MISS DeRozan 13' Floating Jump Shot,65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.38,3,4,37,MIA,MIA,reb,0,False,False,Ariza REBOUND (Off:1 Def:5),,65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.45,3,4,33,MIA,MIA,fg_miss,41,True,False,MISS Butler 1' Running Layup,,65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.45,3,4,33,MIA,SAS,block,41,True,False,block,block,65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.48,3,4,31,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:1 Def:3),,65-71,65,71
+0022000938,2021-04-28,MIA,SAS,31.55,3,4,27,MIA,MIA,fg_make,72,False,False,Dedmon 2' Putback Layup (10 PTS),,67-71,67,71
+0022000938,2021-04-28,MIA,SAS,31.78,3,4,13,SAS,SAS,fg3_make,1,False,False,,Vassell 3PT Jump Shot (7 PTS) (DeRozan 5 AST),67-74,67,74
+0022000938,2021-04-28,MIA,SAS,32.0,3,4,0,MIA,SAS,foul,1,False,False,,Mills P.FOUL (P1.T2) (R.Acosta),67-74,67,74
+0022000938,2021-04-28,MIA,SAS,32.18,3,3,49,MIA,MIA,fg_make,102,False,False,Butler 7' Driving Floating Bank Jump Shot (15 PTS),,69-74,69,74
+0022000938,2021-04-28,MIA,SAS,32.45,3,3,33,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 26' 3PT Jump Shot,69-74,69,74
+0022000938,2021-04-28,MIA,SAS,32.52,3,3,29,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:1 Def:4),,69-74,69,74
+0022000938,2021-04-28,MIA,SAS,32.63,3,3,22,MIA,MIA,fg3_miss,1,False,False,MISS Butler 27' 3PT Jump Shot,,69-74,69,74
+0022000938,2021-04-28,MIA,SAS,32.65,3,3,21,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:2 Def:4),,69-74,69,74
+0022000938,2021-04-28,MIA,SAS,32.65,3,3,21,MIA,MIA,fg_make,72,False,False,Dedmon 1' Putback Layup (12 PTS),,71-74,71,74
+0022000938,2021-04-28,MIA,SAS,32.65,3,3,21,MIA,SAS,foul,2,False,False,,Mills S.FOUL (P2.T3) (D.Taylor),71-74,71,74
+0022000938,2021-04-28,MIA,SAS,32.65,3,3,21,MIA,MIA,ft_make,10,False,False,Dedmon Free Throw 1 of 1 (13 PTS),,72-74,72,74
+0022000938,2021-04-28,MIA,SAS,32.98,3,3,1,SAS,SAS,fg_miss,102,False,False,,MISS Walker IV 2' Driving Floating Bank Jump Shot,72-74,72,74
+0022000938,2021-04-28,MIA,SAS,33.03,3,2,58,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:2 Def:5),,72-74,72,74
+0022000938,2021-04-28,MIA,SAS,33.35,3,2,39,MIA,SAS,foul,2,False,False,,DeRozan S.FOUL (P3.T4) (K.Scott),72-74,72,74
+0022000938,2021-04-28,MIA,SAS,33.35,3,2,39,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 3 Short 0),,72-74,72,74
+0022000938,2021-04-28,MIA,SAS,33.35,3,2,39,MIA,MIA,ft_make,11,False,False,Dedmon Free Throw 1 of 2 (14 PTS),,73-74,73,74
+0022000938,2021-04-28,MIA,SAS,33.35,3,2,39,MIA,MIA,ft_make,12,False,False,Dedmon Free Throw 2 of 2 (15 PTS),,74-74,74,74
+0022000938,2021-04-28,MIA,SAS,33.73,3,2,16,SAS,SAS,fg_miss,6,False,False,,MISS Walker IV 5' Driving Layup,74-74,74,74
+0022000938,2021-04-28,MIA,SAS,33.77,3,2,14,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:2 Def:6),,74-74,74,74
+0022000938,2021-04-28,MIA,SAS,34.03,3,1,58,MIA,MIA,fg_make,47,False,False,Butler 6' Turnaround Jump Shot (17 PTS) (Robinson 2 AST),,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,34.4,3,1,36,SAS,SAS,fg_miss,1,False,False,,MISS Gay 16' Jump Shot,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,34.42,3,1,35,SAS,SAS,reb,0,False,False,,Dieng REBOUND (Off:1 Def:1),76-74,76,74
+0022000938,2021-04-28,MIA,SAS,34.57,3,1,26,SAS,SAS,tov,1,False,True,,Mills Bad Pass Turnover (P1.T8),76-74,76,74
+0022000938,2021-04-28,MIA,SAS,34.57,3,1,26,SAS,MIA,steal,1,False,True,steal,steal,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,34.85,3,1,9,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 26' 3PT Jump Shot,,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,34.87,3,1,8,SAS,SAS,reb,0,False,False,,Spurs Rebound,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,35.05,3,0,57,SAS,SAS,fg_miss,79,False,False,,MISS Mills 17' Pullup Jump Shot,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,35.07,3,0,56,MIA,MIA,reb,0,False,False,HEAT Rebound,,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,35.07,3,0,56,MIA,SAS,foul,3,False,False,,Dieng L.B.FOUL (P1.PN) (K.Scott),76-74,76,74
+0022000938,2021-04-28,MIA,SAS,35.07,3,0,56,MIA,MIA,ft_miss,11,False,False,MISS Dedmon Free Throw 1 of 2,,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,35.07,3,0,56,MIA,MIA,reb,1,False,False,HEAT Rebound,,76-74,76,74
+0022000938,2021-04-28,MIA,SAS,35.07,3,0,56,MIA,MIA,ft_make,12,False,False,Dedmon Free Throw 2 of 2 (16 PTS),,77-74,77,74
+0022000938,2021-04-28,MIA,SAS,35.23,3,0,46,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 26' 3PT Jump Shot,77-74,77,74
+0022000938,2021-04-28,MIA,SAS,35.23,3,0,46,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:2 Def:7),,77-74,77,74
+0022000938,2021-04-28,MIA,SAS,35.48,3,0,31,MIA,MIA,fg3_make,1,False,False,Dragic 24' 3PT Jump Shot (9 PTS) (Iguodala 2 AST),,80-74,80,74
+0022000938,2021-04-28,MIA,SAS,35.77,3,0,14,SAS,SAS,fg_miss,80,False,False,,MISS Murray 13' Step Back Jump Shot,80-74,80,74
+0022000938,2021-04-28,MIA,SAS,35.82,3,0,11,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:4),80-74,80,74
+0022000938,2021-04-28,MIA,SAS,35.87,3,0,8,SAS,SAS,tov,40,False,False,,Gay Out of Bounds Lost Ball Turnover (P1.T9),80-74,80,74
+0022000938,2021-04-28,MIA,SAS,35.95,3,0,3,MIA,SAS,foul,2,False,False,,Dieng S.FOUL (P2.PN) (D.Taylor),80-74,80,74
+0022000938,2021-04-28,MIA,SAS,35.95,3,0,3,MIA,MIA,ft_make,11,False,False,Dragic Free Throw 1 of 2 (10 PTS),,81-74,81,74
+0022000938,2021-04-28,MIA,SAS,35.95,3,0,3,MIA,MIA,ft_make,12,False,False,Dragic Free Throw 2 of 2 (11 PTS),,82-74,82,74
+0022000938,2021-04-28,MIA,SAS,36.0,3,0,0,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 33' 3PT Jump Shot,82-74,82,74
+0022000938,2021-04-28,MIA,SAS,36.0,3,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,82-74,82,74
+0022000938,2021-04-28,MIA,SAS,36.0,3,0,0,SAS,,period_end,0,False,False,,,82-74,82,74
+0022000938,2021-04-28,MIA,SAS,36.0,4,12,0,SAS,,period_start,0,False,False,,,82-74,82,74
+0022000938,2021-04-28,MIA,SAS,36.33,4,11,40,MIA,SAS,foul,1,False,False,,Murray P.FOUL (P1.T1) (K.Scott),82-74,82,74
+0022000938,2021-04-28,MIA,SAS,36.55,4,11,27,MIA,MIA,fg_make,57,False,False,Dedmon 6' Driving Hook Shot (18 PTS) (Dragic 3 AST),,84-74,84,74
+0022000938,2021-04-28,MIA,SAS,36.87,4,11,8,SAS,SAS,fg3_make,1,False,False,,Gay 27' 3PT Jump Shot (10 PTS) (Poeltl 2 AST),84-77,84,77
+0022000938,2021-04-28,MIA,SAS,37.22,4,10,47,MIA,MIA,fg3_miss,1,False,False,MISS Iguodala 24' 3PT Jump Shot,,84-77,84,77
+0022000938,2021-04-28,MIA,SAS,37.27,4,10,44,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:0 Def:3),84-77,84,77
+0022000938,2021-04-28,MIA,SAS,37.4,4,10,36,SAS,SAS,fg3_make,1,False,False,,Walker IV 25' 3PT Jump Shot (15 PTS) (Vassell 1 AST),84-80,84,80
+0022000938,2021-04-28,MIA,SAS,37.57,4,10,26,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 4 Short 0),,84-80,84,80
+0022000938,2021-04-28,MIA,SAS,37.75,4,10,15,MIA,MIA,fg3_make,1,False,False,Dragic 24' 3PT Jump Shot (14 PTS) (Iguodala 3 AST),,87-80,87,80
+0022000938,2021-04-28,MIA,SAS,37.97,4,10,2,SAS,SAS,fg_miss,101,False,False,,MISS Poeltl 5' Driving Floating Jump Shot,87-80,87,80
+0022000938,2021-04-28,MIA,SAS,38.05,4,9,57,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:2 Def:4),87-80,87,80
+0022000938,2021-04-28,MIA,SAS,38.05,4,9,57,SAS,SAS,fg_miss,97,False,False,,MISS Murray Tip Layup Shot,87-80,87,80
+0022000938,2021-04-28,MIA,SAS,38.05,4,9,57,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:6),,87-80,87,80
+0022000938,2021-04-28,MIA,SAS,38.13,4,9,52,MIA,MIA,fg_make,6,False,False,Dragic 4' Driving Layup (16 PTS),,89-80,89,80
+0022000938,2021-04-28,MIA,SAS,38.55,4,9,27,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 26' 3PT Jump Shot,89-80,89,80
+0022000938,2021-04-28,MIA,SAS,38.55,4,9,27,SAS,SAS,reb,0,False,False,,Spurs Rebound,89-80,89,80
+0022000938,2021-04-28,MIA,SAS,38.55,4,9,27,SAS,MIA,foul,3,False,False,Robinson L.B.FOUL (P4.T1) (R.Acosta),,89-80,89,80
+0022000938,2021-04-28,MIA,SAS,38.68,4,9,19,SAS,SAS,fg_miss,79,False,False,,MISS Walker IV 17' Pullup Jump Shot,89-80,89,80
+0022000938,2021-04-28,MIA,SAS,38.72,4,9,17,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:1),,89-80,89,80
+0022000938,2021-04-28,MIA,SAS,38.85,4,9,9,MIA,MIA,fg_miss,101,False,False,MISS Dragic 5' Driving Floating Jump Shot,,89-80,89,80
+0022000938,2021-04-28,MIA,SAS,38.9,4,9,6,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:4),89-80,89,80
+0022000938,2021-04-28,MIA,SAS,39.08,4,8,55,SAS,SAS,fg_make,6,False,False,,Murray 3' Driving Layup (13 PTS),89-82,89,82
+0022000938,2021-04-28,MIA,SAS,39.3,4,8,42,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (8 PTS) (Adebayo 2 AST),,92-82,92,82
+0022000938,2021-04-28,MIA,SAS,39.53,4,8,28,SAS,SAS,fg3_make,1,False,False,,Vassell 3PT Jump Shot (10 PTS) (Murray 9 AST),92-85,92,85
+0022000938,2021-04-28,MIA,SAS,39.53,4,8,28,SAS,MIA,foul,2,False,False,Robinson S.FOUL (P5.T2) (D.Taylor),,92-85,92,85
+0022000938,2021-04-28,MIA,SAS,39.53,4,8,28,SAS,SAS,ft_miss,10,False,False,,MISS Vassell Free Throw 1 of 1,92-85,92,85
+0022000938,2021-04-28,MIA,SAS,39.6,4,8,24,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:7),,92-85,92,85
+0022000938,2021-04-28,MIA,SAS,39.75,4,8,15,MIA,MIA,fg_make,108,False,False,Adebayo 2' Cutting Dunk Shot (16 PTS) (Dragic 4 AST),,94-85,94,85
+0022000938,2021-04-28,MIA,SAS,40.0,4,8,0,SAS,MIA,foul,2,False,False,Dragic S.FOUL (P2.T3) (K.Scott),,94-85,94,85
+0022000938,2021-04-28,MIA,SAS,40.0,4,8,0,SAS,SAS,ft_miss,11,False,False,,MISS Vassell Free Throw 1 of 2,94-85,94,85
+0022000938,2021-04-28,MIA,SAS,40.0,4,8,0,SAS,SAS,reb,1,False,False,,Spurs Rebound,94-85,94,85
+0022000938,2021-04-28,MIA,SAS,40.0,4,8,0,SAS,SAS,ft_make,12,False,False,,Vassell Free Throw 2 of 2 (11 PTS),94-86,94,86
+0022000938,2021-04-28,MIA,SAS,40.28,4,7,43,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 5' Jump Shot,,94-86,94,86
+0022000938,2021-04-28,MIA,SAS,40.32,4,7,41,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:2 Def:5),94-86,94,86
+0022000938,2021-04-28,MIA,SAS,40.43,4,7,34,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 26' 3PT Jump Shot,94-86,94,86
+0022000938,2021-04-28,MIA,SAS,40.47,4,7,32,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:2),,94-86,94,86
+0022000938,2021-04-28,MIA,SAS,40.6,4,7,24,MIA,MIA,fg_make,79,False,False,Dragic 4' Pullup Jump Shot (18 PTS) (Iguodala 4 AST),,96-86,96,86
+0022000938,2021-04-28,MIA,SAS,40.85,4,7,9,SAS,SAS,fg_make,63,False,False,,Murray 13' Fadeaway Jumper (15 PTS),96-88,96,88
+0022000938,2021-04-28,MIA,SAS,41.15,4,6,51,MIA,MIA,tov,2,False,True,Adebayo Lost Ball Turnover (P2.T13),,96-88,96,88
+0022000938,2021-04-28,MIA,SAS,41.15,4,6,51,MIA,SAS,steal,2,False,True,steal,steal,96-88,96,88
+0022000938,2021-04-28,MIA,SAS,41.17,4,6,50,SAS,MIA,foul,28,False,False,Dragic Personal Take Foul (P3.T4) (D.Taylor),,96-88,96,88
+0022000938,2021-04-28,MIA,SAS,41.4,4,6,36,SAS,SAS,fg_make,78,False,False,,Murray 12' Floating Jump Shot (17 PTS),96-90,96,90
+0022000938,2021-04-28,MIA,SAS,41.75,4,6,15,MIA,SAS,foul,2,False,False,,Walker IV S.FOUL (P1.T2) (R.Acosta),96-90,96,90
+0022000938,2021-04-28,MIA,SAS,41.75,4,6,15,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (17 PTS),,97-90,97,90
+0022000938,2021-04-28,MIA,SAS,41.75,4,6,15,MIA,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (18 PTS),,98-90,98,90
+0022000938,2021-04-28,MIA,SAS,42.0,4,6,0,SAS,SAS,fg_make,6,False,False,,Murray 5' Driving Layup (19 PTS),98-92,98,92
+0022000938,2021-04-28,MIA,SAS,42.0,4,6,0,SAS,MIA,foul,2,False,False,Adebayo S.FOUL (P4.PN) (R.Acosta),,98-92,98,92
+0022000938,2021-04-28,MIA,SAS,42.0,4,6,0,SAS,SAS,ft_make,10,False,False,,Murray Free Throw 1 of 1 (20 PTS),98-93,98,93
+0022000938,2021-04-28,MIA,SAS,42.12,4,5,53,MIA,MIA,fg_make,6,False,False,Butler 2' Driving Layup (19 PTS) (Dragic 5 AST),,100-93,100,93
+0022000938,2021-04-28,MIA,SAS,42.12,4,5,53,MIA,SAS,foul,2,False,False,,Walker IV S.FOUL (P2.T3) (R.Acosta),100-93,100,93
+0022000938,2021-04-28,MIA,SAS,42.12,4,5,53,MIA,MIA,ft_make,10,False,False,Butler Free Throw 1 of 1 (20 PTS),,101-93,101,93
+0022000938,2021-04-28,MIA,SAS,42.38,4,5,37,SAS,SAS,fg_make,66,False,False,,DeRozan 2' Jump Bank Shot (18 PTS),101-95,101,95
+0022000938,2021-04-28,MIA,SAS,42.65,4,5,21,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 26' 3PT Jump Shot,,101-95,101,95
+0022000938,2021-04-28,MIA,SAS,42.67,4,5,20,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:5),,101-95,101,95
+0022000938,2021-04-28,MIA,SAS,42.75,4,5,15,MIA,MIA,fg_make,5,False,False,Butler 1' Layup (22 PTS),,103-95,103,95
+0022000938,2021-04-28,MIA,SAS,43.03,4,4,58,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 3PT Jump Shot,103-95,103,95
+0022000938,2021-04-28,MIA,SAS,43.07,4,4,56,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:5),103-95,103,95
+0022000938,2021-04-28,MIA,SAS,43.1,4,4,54,SAS,SAS,fg_make,5,False,False,,Johnson 1' Layup (12 PTS) (Murray 10 AST),103-97,103,97
+0022000938,2021-04-28,MIA,SAS,43.33,4,4,40,MIA,MIA,fg_make,101,False,False,Butler 7' Driving Floating Jump Shot (24 PTS) (Dragic 6 AST),,105-97,105,97
+0022000938,2021-04-28,MIA,SAS,43.33,4,4,40,MIA,SAS,foul,2,False,False,,Walker IV S.FOUL (P3.T4) (D.Taylor),105-97,105,97
+0022000938,2021-04-28,MIA,SAS,43.33,4,4,40,MIA,MIA,ft_make,10,False,False,Butler Free Throw 1 of 1 (25 PTS),,106-97,106,97
+0022000938,2021-04-28,MIA,SAS,43.5,4,4,30,SAS,MIA,foul,2,False,False,Nunn S.FOUL (P3.PN) (D.Taylor),,106-97,106,97
+0022000938,2021-04-28,MIA,SAS,43.5,4,4,30,SAS,SAS,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (19 PTS),106-98,106,98
+0022000938,2021-04-28,MIA,SAS,43.5,4,4,30,SAS,SAS,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (20 PTS),106-99,106,99
+0022000938,2021-04-28,MIA,SAS,43.73,4,4,16,MIA,MIA,fg3_make,1,False,False,Nunn 28' 3PT Jump Shot (18 PTS) (Dragic 7 AST),,109-99,109,99
+0022000938,2021-04-28,MIA,SAS,43.75,4,4,15,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.5 Short 0),109-99,109,99
+0022000938,2021-04-28,MIA,SAS,44.15,4,3,51,SAS,SAS,fg_make,79,False,False,,Johnson 19' Pullup Jump Shot (14 PTS) (Walker IV 1 AST),109-101,109,101
+0022000938,2021-04-28,MIA,SAS,44.57,4,3,26,MIA,MIA,fg_miss,86,False,False,MISS Butler 11' Turnaround Fadeaway Shot,,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,44.62,4,3,23,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:5),109-101,109,101
+0022000938,2021-04-28,MIA,SAS,44.77,4,3,14,SAS,SAS,fg_miss,79,False,False,,MISS Murray 16' Pullup Jump Shot,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,44.83,4,3,10,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:3),,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,44.92,4,3,5,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 5 Short 0),,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,45.1,4,2,54,MIA,MIA,fg_miss,79,False,False,MISS Dragic 20' Pullup Jump Shot,,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,45.18,4,2,49,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:6),109-101,109,101
+0022000938,2021-04-28,MIA,SAS,45.5,4,2,30,SAS,SAS,fg_miss,79,False,False,,MISS DeRozan 19' Pullup Jump Shot,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,45.53,4,2,28,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:6),,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,45.72,4,2,17,MIA,MIA,fg_miss,78,False,False,MISS Butler 12' Floating Jump Shot,,109-101,109,101
+0022000938,2021-04-28,MIA,SAS,45.77,4,2,14,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:7),109-101,109,101
+0022000938,2021-04-28,MIA,SAS,45.8,4,2,12,SAS,SAS,fg_make,6,False,False,,Walker IV 1' Driving Layup (17 PTS) (Murray 11 AST),109-103,109,103
+0022000938,2021-04-28,MIA,SAS,45.8,4,2,12,SAS,MIA,foul,2,False,False,Iguodala S.FOUL (P1.PN) (K.Scott),,109-103,109,103
+0022000938,2021-04-28,MIA,SAS,45.8,4,2,12,SAS,SAS,ft_make,10,False,False,,Walker IV Free Throw 1 of 1 (18 PTS),109-104,109,104
+0022000938,2021-04-28,MIA,SAS,46.08,4,1,55,MIA,MIA,fg_miss,79,False,False,MISS Adebayo 11' Pullup Jump Shot,,109-104,109,104
+0022000938,2021-04-28,MIA,SAS,46.12,4,1,53,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:4),109-104,109,104
+0022000938,2021-04-28,MIA,SAS,46.23,4,1,46,SAS,SAS,fg_make,6,False,False,,Murray 3' Driving Layup (22 PTS) (DeRozan 6 AST),109-106,109,106
+0022000938,2021-04-28,MIA,SAS,46.52,4,1,29,MIA,SAS,foul,1,False,False,,Murray P.FOUL (P2.PN) (D.Taylor),109-106,109,106
+0022000938,2021-04-28,MIA,SAS,46.52,4,1,29,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (26 PTS),,110-106,110,106
+0022000938,2021-04-28,MIA,SAS,46.52,4,1,29,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (27 PTS),,111-106,111,106
+0022000938,2021-04-28,MIA,SAS,46.73,4,1,16,SAS,SAS,fg_make,44,False,False,,Poeltl 1' Reverse Layup (6 PTS) (DeRozan 7 AST),111-108,111,108
+0022000938,2021-04-28,MIA,SAS,47.1,4,0,54,MIA,MIA,fg3_miss,1,False,False,MISS Nunn 3PT Jump Shot,,111-108,111,108
+0022000938,2021-04-28,MIA,SAS,47.15,4,0,51,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:4 Def:7),,111-108,111,108
+0022000938,2021-04-28,MIA,SAS,47.15,4,0,51,MIA,MIA,fg_make,5,False,False,Adebayo 4' Layup (20 PTS),,113-108,113,108
+0022000938,2021-04-28,MIA,SAS,47.15,4,0,51,MIA,SAS,foul,2,False,False,,Murray S.FOUL (P3.PN) (K.Scott),113-108,113,108
+0022000938,2021-04-28,MIA,SAS,47.15,4,0,51,MIA,MIA,ft_make,10,False,False,Adebayo Free Throw 1 of 1 (21 PTS),,114-108,114,108
+0022000938,2021-04-28,MIA,SAS,47.15,4,0,51,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.6 Short 0),114-108,114,108
+0022000938,2021-04-28,MIA,SAS,47.27,4,0,44,SAS,SAS,fg3_make,1,False,False,,Gay 29' 3PT Jump Shot (13 PTS) (DeRozan 8 AST),114-111,114,111
+0022000938,2021-04-28,MIA,SAS,47.65,4,0,21,MIA,SAS,foul,2,False,False,,Poeltl S.FOUL (P4.PN) (K.Scott),114-111,114,111
+0022000938,2021-04-28,MIA,SAS,47.65,4,0,21,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.7 Short 0),114-111,114,111
+0022000938,2021-04-28,MIA,SAS,47.65,4,0,21,SAS,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (28 PTS),,115-111,115,111
+0022000938,2021-04-28,MIA,SAS,47.65,4,0,21,SAS,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (29 PTS),,116-111,116,111
+0022000938,2021-04-28,MIA,SAS,47.77,4,0,14,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 27' 3PT Jump Shot,116-111,116,111
+0022000938,2021-04-28,MIA,SAS,47.82,4,0,11,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:4),,116-111,116,111
+0022000938,2021-04-28,MIA,SAS,48.0,4,0,0,MIA,,period_end,0,False,False,,,116-111,116,111

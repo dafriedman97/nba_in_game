@@ -1,0 +1,513 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000361,2021-02-06,LAL,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000361,2021-02-06,LAL,DET,0.0,1,12,0,,LAL,jump_ball,0,False,False,Jump Ball Davis vs. Plumlee: Tip to Gasol,,0-0,0,0
+0022000361,2021-02-06,LAL,DET,0.15,1,11,51,LAL,LAL,fg_make,47,False,False,Davis 4' Turnaround Jump Shot (2 PTS) (James 1 AST),,2-0,2,0
+0022000361,2021-02-06,LAL,DET,0.5,1,11,30,DET,LAL,foul,2,False,False,Gasol S.FOUL (P1.T1) (T.Brown),,2-0,2,0
+0022000361,2021-02-06,LAL,DET,0.5,1,11,30,DET,LAL,violation,3,False,False,Lane,,2-0,2,0
+0022000361,2021-02-06,LAL,DET,0.5,1,11,30,DET,DET,ft_miss,11,False,False,,MISS Plumlee Free Throw 1 of 2,2-0,2,0
+0022000361,2021-02-06,LAL,DET,0.5,1,11,30,DET,DET,reb,1,False,False,,Pistons Rebound,2-0,2,0
+0022000361,2021-02-06,LAL,DET,0.5,1,11,30,DET,DET,ft_make,12,False,False,,Plumlee Free Throw 2 of 2 (1 PTS),2-1,2,1
+0022000361,2021-02-06,LAL,DET,0.72,1,11,17,LAL,LAL,fg_make,5,False,False,Davis 1' Layup (4 PTS),,4-1,4,1
+0022000361,2021-02-06,LAL,DET,0.88,1,11,7,DET,DET,tov,1,False,True,,Grant Bad Pass Turnover (P1.T1),4-1,4,1
+0022000361,2021-02-06,LAL,DET,0.88,1,11,7,DET,LAL,steal,1,False,True,steal,steal,4-1,4,1
+0022000361,2021-02-06,LAL,DET,0.98,1,11,1,LAL,LAL,fg_make,41,False,False,Davis 1' Running Layup (6 PTS) (Schroder 1 AST),,6-1,6,1
+0022000361,2021-02-06,LAL,DET,1.35,1,10,39,DET,DET,fg_miss,86,False,False,,MISS Bey 9' Turnaround Fadeaway Shot,6-1,6,1
+0022000361,2021-02-06,LAL,DET,1.43,1,10,34,DET,DET,reb,0,False,False,,Wright REBOUND (Off:1 Def:0),6-1,6,1
+0022000361,2021-02-06,LAL,DET,1.43,1,10,34,DET,DET,fg_make,72,False,False,,Wright Putback Layup (2 PTS),6-3,6,3
+0022000361,2021-02-06,LAL,DET,1.62,1,10,23,LAL,LAL,fg_make,63,False,False,Schroder 10' Fadeaway Jumper (2 PTS),,8-3,8,3
+0022000361,2021-02-06,LAL,DET,1.93,1,10,4,DET,DET,fg_miss,79,False,False,,MISS Grant 22' Pullup Jump Shot,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.03,1,9,58,LAL,LAL,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.38,1,9,37,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P1.T1),,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.38,1,9,37,LAL,DET,steal,1,False,True,steal,steal,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.52,1,9,29,DET,DET,fg_miss,78,False,False,,MISS Grant 8' Floating Jump Shot,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.57,1,9,26,LAL,LAL,reb,0,False,False,Gasol REBOUND (Off:0 Def:1),,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.65,1,9,21,LAL,LAL,fg_miss,2,False,False,MISS Caldwell-Pope 12' Running Jump Shot,,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.7,1,9,18,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:1),8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.88,1,9,7,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 26' 3PT Jump Shot,8-3,8,3
+0022000361,2021-02-06,LAL,DET,2.98,1,9,1,LAL,LAL,reb,0,False,False,Schroder REBOUND (Off:0 Def:2),,8-3,8,3
+0022000361,2021-02-06,LAL,DET,3.02,1,8,59,LAL,LAL,tov,1,False,True,Schroder Bad Pass Turnover (P1.T2),,8-3,8,3
+0022000361,2021-02-06,LAL,DET,3.02,1,8,59,LAL,DET,steal,1,False,True,steal,steal,8-3,8,3
+0022000361,2021-02-06,LAL,DET,3.02,1,8,59,DET,LAL,foul,28,False,False,Schroder Personal Take Foul (P1.T2) (J.Sterling),,8-3,8,3
+0022000361,2021-02-06,LAL,DET,3.15,1,8,51,DET,DET,fg3_miss,1,False,False,,MISS Grant 26' 3PT Jump Shot,8-3,8,3
+0022000361,2021-02-06,LAL,DET,3.18,1,8,49,LAL,LAL,reb,0,False,False,LAKERS Rebound,,8-3,8,3
+0022000361,2021-02-06,LAL,DET,3.37,1,8,38,LAL,DET,foul,2,False,False,,Wright S.FOUL (P1.T1) (M.Kogut),8-3,8,3
+0022000361,2021-02-06,LAL,DET,3.37,1,8,38,LAL,LAL,ft_make,11,False,False,Schroder Free Throw 1 of 2 (3 PTS),,9-3,9,3
+0022000361,2021-02-06,LAL,DET,3.37,1,8,38,LAL,LAL,ft_make,12,False,False,Schroder Free Throw 2 of 2 (4 PTS),,10-3,10,3
+0022000361,2021-02-06,LAL,DET,3.62,1,8,23,DET,DET,fg_make,58,False,False,,Plumlee 4' Turnaround Hook Shot (3 PTS) (Grant 1 AST),10-5,10,5
+0022000361,2021-02-06,LAL,DET,3.8,1,8,12,LAL,LAL,tov,40,False,False,Schroder Out of Bounds Lost Ball Turnover (P2.T3),,10-5,10,5
+0022000361,2021-02-06,LAL,DET,4.03,1,7,58,DET,DET,fg_miss,101,False,False,,MISS Grant 7' Driving Floating Jump Shot,10-5,10,5
+0022000361,2021-02-06,LAL,DET,4.05,1,7,57,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:0),10-5,10,5
+0022000361,2021-02-06,LAL,DET,4.13,1,7,52,DET,DET,fg3_miss,1,False,False,,MISS Grant 24' 3PT Jump Shot,10-5,10,5
+0022000361,2021-02-06,LAL,DET,4.17,1,7,50,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:1),,10-5,10,5
+0022000361,2021-02-06,LAL,DET,4.22,1,7,47,LAL,LAL,fg_make,41,False,False,James 1' Running Layup (2 PTS) (Schroder 2 AST),,12-5,12,5
+0022000361,2021-02-06,LAL,DET,4.47,1,7,32,DET,DET,fg3_make,1,False,False,,Bey 25' 3PT Jump Shot (3 PTS) (Wright 1 AST),12-8,12,8
+0022000361,2021-02-06,LAL,DET,4.65,1,7,21,LAL,LAL,fg_make,101,False,False,Davis 4' Driving Floating Jump Shot (8 PTS),,14-8,14,8
+0022000361,2021-02-06,LAL,DET,4.85,1,7,9,DET,LAL,foul,2,False,False,Caldwell-Pope S.FOUL (P1.T3) (T.Brown),,14-8,14,8
+0022000361,2021-02-06,LAL,DET,4.85,1,7,9,DET,DET,ft_make,11,False,False,,Bey Free Throw 1 of 2 (4 PTS),14-9,14,9
+0022000361,2021-02-06,LAL,DET,4.85,1,7,9,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,14-9,14,9
+0022000361,2021-02-06,LAL,DET,4.85,1,7,9,LAL,DET,ft_make,12,False,False,,Bey Free Throw 2 of 2 (5 PTS),14-10,14,10
+0022000361,2021-02-06,LAL,DET,5.12,1,6,53,LAL,LAL,fg_miss,80,False,False,MISS James 16' Step Back Jump Shot,,14-10,14,10
+0022000361,2021-02-06,LAL,DET,5.17,1,6,50,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:1),14-10,14,10
+0022000361,2021-02-06,LAL,DET,5.5,1,6,30,DET,LAL,foul,2,False,False,Schroder S.FOUL (P2.T4) (J.Sterling),,14-10,14,10
+0022000361,2021-02-06,LAL,DET,5.5,1,6,30,DET,DET,ft_make,11,False,False,,Doumbouya Free Throw 1 of 2 (1 PTS),14-11,14,11
+0022000361,2021-02-06,LAL,DET,5.5,1,6,30,DET,DET,ft_make,12,False,False,,Doumbouya Free Throw 2 of 2 (2 PTS),14-12,14,12
+0022000361,2021-02-06,LAL,DET,5.65,1,6,21,LAL,LAL,tov,4,False,False,Caldwell-Pope Traveling Turnover (P1.T4),,14-12,14,12
+0022000361,2021-02-06,LAL,DET,5.87,1,6,8,DET,DET,fg_make,1,False,False,,Grant 15' Jump Shot (2 PTS) (Wright 2 AST),14-14,14,14
+0022000361,2021-02-06,LAL,DET,6.28,1,5,43,LAL,LAL,fg3_make,1,False,False,James 26' 3PT Jump Shot (5 PTS) (Caldwell-Pope 1 AST),,17-14,17,14
+0022000361,2021-02-06,LAL,DET,6.58,1,5,25,DET,DET,fg_make,6,False,False,,Wright 1' Driving Layup (4 PTS),17-16,17,16
+0022000361,2021-02-06,LAL,DET,6.73,1,5,16,LAL,LAL,fg_make,9,False,False,Davis 1' Driving Dunk (10 PTS) (James 2 AST),,19-16,19,16
+0022000361,2021-02-06,LAL,DET,6.9,1,5,6,DET,DET,fg_miss,79,False,False,,MISS Bey 21' Pullup Jump Shot,19-16,19,16
+0022000361,2021-02-06,LAL,DET,6.97,1,5,2,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:1),,19-16,19,16
+0022000361,2021-02-06,LAL,DET,7.08,1,4,55,LAL,LAL,fg_make,73,False,False,Schroder 1' Driving Reverse Layup (6 PTS),,21-16,21,16
+0022000361,2021-02-06,LAL,DET,7.2,1,4,48,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),21-16,21,16
+0022000361,2021-02-06,LAL,DET,7.35,1,4,39,DET,DET,fg3_make,1,False,False,,Grant 25' 3PT Jump Shot (5 PTS) (Plumlee 1 AST),21-19,21,19
+0022000361,2021-02-06,LAL,DET,7.7,1,4,18,LAL,LAL,fg_make,80,False,False,Davis 14' Step Back Jump Shot (12 PTS),,23-19,23,19
+0022000361,2021-02-06,LAL,DET,8.0,1,4,0,DET,DET,fg_make,78,False,False,,Jackson 3' Floating Jump Shot (2 PTS) (Plumlee 2 AST),23-21,23,21
+0022000361,2021-02-06,LAL,DET,8.22,1,3,47,LAL,LAL,tov,45,False,False,Caruso Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,23-21,23,21
+0022000361,2021-02-06,LAL,DET,8.47,1,3,32,DET,DET,fg_make,63,False,False,,Grant 10' Fadeaway Jumper (7 PTS),23-23,23,23
+0022000361,2021-02-06,LAL,DET,8.8,1,3,12,LAL,DET,foul,1,False,False,,Grant P.FOUL (P1.T2) (T.Brown),23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.02,1,2,59,DET,LAL,foul,4,False,False,Horton-Tucker OFF.Foul (P1) (M.Kogut),,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.02,1,2,59,LAL,LAL,tov,37,False,False,Horton-Tucker Offensive Foul Turnover (P1.T6),,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.28,1,2,43,DET,DET,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.35,1,2,39,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.47,1,2,32,LAL,LAL,fg_miss,3,False,False,MISS Davis 5' Hook Shot,,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.5,1,2,30,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:0),,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.57,1,2,26,LAL,LAL,fg_miss,78,False,False,MISS Davis 5' Floating Jump Shot,,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.67,1,2,20,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:0 Def:1),23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.67,1,2,20,DET,DET,fg_miss,6,True,False,,MISS Jackson 5' Driving Layup,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.67,1,2,20,DET,LAL,block,6,True,False,block,block,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.67,1,2,20,DET,DET,reb,0,False,False,,Pistons Rebound,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.72,1,2,17,DET,DET,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.77,1,2,14,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:2),,23-23,23,23
+0022000361,2021-02-06,LAL,DET,9.78,1,2,13,LAL,LAL,tov,45,False,False,Caruso Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,23-23,23,23
+0022000361,2021-02-06,LAL,DET,10.13,1,1,52,DET,DET,fg3_make,1,False,False,,Wright 26' 3PT Jump Shot (7 PTS) (Grant 2 AST),23-26,23,26
+0022000361,2021-02-06,LAL,DET,10.27,1,1,44,DET,LAL,foul,4,False,False,Horton-Tucker OFF.Foul (P2) (J.Sterling),,23-26,23,26
+0022000361,2021-02-06,LAL,DET,10.27,1,1,44,LAL,LAL,tov,37,False,False,Horton-Tucker Offensive Foul Turnover (P2.T8),,23-26,23,26
+0022000361,2021-02-06,LAL,DET,10.5,1,1,30,DET,DET,tov,2,False,True,,Jackson Lost Ball Turnover (P1.T2),23-26,23,26
+0022000361,2021-02-06,LAL,DET,10.5,1,1,30,DET,LAL,steal,2,False,True,steal,steal,23-26,23,26
+0022000361,2021-02-06,LAL,DET,10.57,1,1,26,LAL,LAL,fg_make,74,False,False,James 1' Running Reverse Layup (7 PTS) (Horton-Tucker 1 AST),,25-26,25,26
+0022000361,2021-02-06,LAL,DET,10.82,1,1,11,DET,DET,tov,2,False,True,,Stewart Lost Ball Turnover (P1.T3),25-26,25,26
+0022000361,2021-02-06,LAL,DET,10.82,1,1,11,DET,LAL,steal,2,False,True,steal,steal,25-26,25,26
+0022000361,2021-02-06,LAL,DET,10.9,1,1,6,LAL,LAL,fg_miss,41,False,False,MISS Horton-Tucker 2' Running Layup,,25-26,25,26
+0022000361,2021-02-06,LAL,DET,10.95,1,1,3,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:1),25-26,25,26
+0022000361,2021-02-06,LAL,DET,11.03,1,0,58,DET,DET,fg3_make,1,False,False,,Mykhailiuk 3PT Jump Shot (3 PTS) (Wright 3 AST),25-29,25,29
+0022000361,2021-02-06,LAL,DET,11.03,1,0,58,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,25-29,25,29
+0022000361,2021-02-06,LAL,DET,11.28,1,0,43,LAL,DET,foul,1,False,False,,Stewart P.FOUL (P1.T3) (T.Brown),25-29,25,29
+0022000361,2021-02-06,LAL,DET,11.43,1,0,34,LAL,LAL,fg_miss,79,False,False,MISS Caruso 14' Pullup Jump Shot,,25-29,25,29
+0022000361,2021-02-06,LAL,DET,11.55,1,0,27,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:0),,25-29,25,29
+0022000361,2021-02-06,LAL,DET,11.67,1,0,20,LAL,DET,foul,2,False,False,,Stewart S.FOUL (P2.PN) (T.Brown),25-29,25,29
+0022000361,2021-02-06,LAL,DET,11.67,1,0,20,LAL,LAL,ft_make,11,False,False,Harrell Free Throw 1 of 2 (1 PTS),,26-29,26,29
+0022000361,2021-02-06,LAL,DET,11.67,1,0,20,LAL,LAL,ft_make,12,False,False,Harrell Free Throw 2 of 2 (2 PTS),,27-29,27,29
+0022000361,2021-02-06,LAL,DET,11.93,1,0,4,DET,DET,tov,4,False,False,,Wright Traveling Turnover (P1.T4),27-29,27,29
+0022000361,2021-02-06,LAL,DET,11.98,1,0,1,LAL,LAL,fg_miss,103,False,False,MISS James 17' Running Pull-Up Jump Shot,,27-29,27,29
+0022000361,2021-02-06,LAL,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:0 Def:2),27-29,27,29
+0022000361,2021-02-06,LAL,DET,12.0,1,0,0,DET,,period_end,0,False,False,,,27-29,27,29
+0022000361,2021-02-06,LAL,DET,12.0,2,12,0,DET,,period_start,0,False,False,,,27-29,27,29
+0022000361,2021-02-06,LAL,DET,12.2,2,11,48,DET,DET,fg3_make,1,False,False,,Mykhailiuk 25' 3PT Jump Shot (6 PTS) (Jackson 1 AST),27-32,27,32
+0022000361,2021-02-06,LAL,DET,12.57,2,11,26,LAL,LAL,fg_make,6,False,False,Horton-Tucker 1' Driving Layup (2 PTS) (James 3 AST),,29-32,29,32
+0022000361,2021-02-06,LAL,DET,12.8,2,11,12,DET,DET,fg_miss,3,False,False,,MISS Stewart 6' Hook Shot,29-32,29,32
+0022000361,2021-02-06,LAL,DET,12.83,2,11,10,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:1),,29-32,29,32
+0022000361,2021-02-06,LAL,DET,13.02,2,10,59,LAL,DET,foul,2,False,False,,Jackson S.FOUL (P1.T1) (M.Kogut),29-32,29,32
+0022000361,2021-02-06,LAL,DET,13.02,2,10,59,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (8 PTS),,30-32,30,32
+0022000361,2021-02-06,LAL,DET,13.02,2,10,59,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (9 PTS),,31-32,31,32
+0022000361,2021-02-06,LAL,DET,13.28,2,10,43,DET,LAL,foul,2,False,False,Harrell S.FOUL (P1.T1) (M.Kogut),,31-32,31,32
+0022000361,2021-02-06,LAL,DET,13.28,2,10,43,DET,DET,ft_miss,11,False,False,,MISS Jackson Free Throw 1 of 2,31-32,31,32
+0022000361,2021-02-06,LAL,DET,13.28,2,10,43,DET,DET,reb,1,False,False,,Pistons Rebound,31-32,31,32
+0022000361,2021-02-06,LAL,DET,13.28,2,10,43,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (3 PTS),31-33,31,33
+0022000361,2021-02-06,LAL,DET,13.37,2,10,38,LAL,DET,foul,1,False,False,,Doumbouya P.FOUL (P1.T2) (M.Kogut),31-33,31,33
+0022000361,2021-02-06,LAL,DET,13.48,2,10,31,LAL,LAL,tov,1,False,True,Horton-Tucker Bad Pass Turnover (P3.T9),,31-33,31,33
+0022000361,2021-02-06,LAL,DET,13.48,2,10,31,LAL,DET,steal,1,False,True,steal,steal,31-33,31,33
+0022000361,2021-02-06,LAL,DET,13.53,2,10,28,DET,DET,tov,2,False,True,,Jackson Lost Ball Turnover (P2.T5),31-33,31,33
+0022000361,2021-02-06,LAL,DET,13.53,2,10,28,DET,LAL,steal,2,False,True,steal,steal,31-33,31,33
+0022000361,2021-02-06,LAL,DET,13.58,2,10,25,LAL,LAL,fg_make,7,False,False,James Dunk (11 PTS) (Kuzma 1 AST),,33-33,33,33
+0022000361,2021-02-06,LAL,DET,13.98,2,10,1,DET,DET,fg_miss,6,False,False,,MISS McGruder 6' Driving Layup,33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.0,2,10,0,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:2),,33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.0,2,10,0,LAL,DET,foul,1,False,False,,Stewart P.FOUL (P3.T3) (M.Kogut),33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.0,2,10,0,LAL,DET,foul,11,False,False,,Stewart T.FOUL (P3.T3) (M.Kogut),33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.0,2,10,0,LAL,LAL,ft_miss,16,False,False,MISS James Free Throw Technical,,33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.0,2,10,0,LAL,LAL,reb,1,False,False,LAKERS Rebound,,33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.08,2,9,55,LAL,LAL,fg_miss,6,True,False,MISS Harrell 1' Driving Layup,,33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.08,2,9,55,LAL,DET,block,6,True,False,block,block,33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.1,2,9,54,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:0),,33-33,33,33
+0022000361,2021-02-06,LAL,DET,14.13,2,9,52,LAL,LAL,fg_make,5,False,False,Kuzma 1' Layup (2 PTS),,35-33,35,33
+0022000361,2021-02-06,LAL,DET,14.35,2,9,39,DET,DET,fg3_make,1,False,False,,Mykhailiuk 24' 3PT Jump Shot (9 PTS) (McGruder 1 AST),35-36,35,36
+0022000361,2021-02-06,LAL,DET,14.85,2,9,9,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#10),,35-36,35,36
+0022000361,2021-02-06,LAL,DET,15.12,2,8,53,DET,DET,tov,1,False,True,,Plumlee Bad Pass Turnover (P1.T6),35-36,35,36
+0022000361,2021-02-06,LAL,DET,15.12,2,8,53,DET,LAL,steal,1,False,True,steal,steal,35-36,35,36
+0022000361,2021-02-06,LAL,DET,15.2,2,8,48,LAL,LAL,fg_make,41,False,False,Kuzma 2' Running Layup (4 PTS) (Horton-Tucker 2 AST),,37-36,37,36
+0022000361,2021-02-06,LAL,DET,15.37,2,8,38,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),37-36,37,36
+0022000361,2021-02-06,LAL,DET,15.53,2,8,28,DET,DET,tov,1,False,True,,Mykhailiuk Bad Pass Turnover (P1.T7),37-36,37,36
+0022000361,2021-02-06,LAL,DET,15.53,2,8,28,DET,LAL,steal,1,False,True,steal,steal,37-36,37,36
+0022000361,2021-02-06,LAL,DET,15.73,2,8,16,LAL,LAL,fg_miss,80,False,False,MISS James 19' Step Back Jump Shot,,37-36,37,36
+0022000361,2021-02-06,LAL,DET,15.83,2,8,10,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:2),37-36,37,36
+0022000361,2021-02-06,LAL,DET,15.92,2,8,5,DET,DET,fg3_miss,1,False,False,,MISS McGruder 26' 3PT Jump Shot,37-36,37,36
+0022000361,2021-02-06,LAL,DET,15.98,2,8,1,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:3),,37-36,37,36
+0022000361,2021-02-06,LAL,DET,16.02,2,7,59,LAL,LAL,fg3_make,103,False,False,Kuzma 25' 3PT Running Pull-Up Jump Shot (7 PTS) (James 4 AST),,40-36,40,36
+0022000361,2021-02-06,LAL,DET,16.35,2,7,39,DET,DET,fg_miss,79,False,False,,MISS Bey 21' Pullup Jump Shot,40-36,40,36
+0022000361,2021-02-06,LAL,DET,16.4,2,7,36,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:1),,40-36,40,36
+0022000361,2021-02-06,LAL,DET,16.48,2,7,31,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 25' 3PT Jump Shot,,40-36,40,36
+0022000361,2021-02-06,LAL,DET,16.57,2,7,26,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:2),40-36,40,36
+0022000361,2021-02-06,LAL,DET,16.7,2,7,18,DET,DET,fg3_miss,1,False,False,,MISS Bey 26' 3PT Jump Shot,40-36,40,36
+0022000361,2021-02-06,LAL,DET,16.75,2,7,15,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:4),,40-36,40,36
+0022000361,2021-02-06,LAL,DET,16.82,2,7,11,LAL,LAL,fg_make,74,False,False,Horton-Tucker 2' Running Reverse Layup (4 PTS) (James 5 AST),,42-36,42,36
+0022000361,2021-02-06,LAL,DET,17.07,2,6,56,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 26' 3PT Jump Shot,42-36,42,36
+0022000361,2021-02-06,LAL,DET,17.1,2,6,54,DET,DET,reb,0,False,False,,McGruder REBOUND (Off:1 Def:0),42-36,42,36
+0022000361,2021-02-06,LAL,DET,17.1,2,6,54,DET,LAL,foul,2,False,False,Harrell S.FOUL (P2.T2) (J.Sterling),,42-36,42,36
+0022000361,2021-02-06,LAL,DET,17.1,2,6,54,DET,DET,ft_make,11,False,False,,McGruder Free Throw 1 of 2 (1 PTS),42-37,42,37
+0022000361,2021-02-06,LAL,DET,17.1,2,6,54,DET,DET,ft_make,12,False,False,,McGruder Free Throw 2 of 2 (2 PTS),42-38,42,38
+0022000361,2021-02-06,LAL,DET,17.42,2,6,35,LAL,LAL,fg_make,98,False,False,Harrell 1' Cutting Layup Shot (4 PTS) (Schroder 3 AST),,44-38,44,38
+0022000361,2021-02-06,LAL,DET,17.42,2,6,35,LAL,DET,foul,2,False,False,,Plumlee S.FOUL (P1.T4) (J.Sterling),44-38,44,38
+0022000361,2021-02-06,LAL,DET,17.42,2,6,35,LAL,LAL,ft_make,10,False,False,Harrell Free Throw 1 of 1 (5 PTS),,45-38,45,38
+0022000361,2021-02-06,LAL,DET,17.67,2,6,20,DET,DET,tov,4,False,False,,Bey Traveling Turnover (P1.T8),45-38,45,38
+0022000361,2021-02-06,LAL,DET,17.85,2,6,9,LAL,LAL,tov,1,False,True,Schroder Bad Pass Turnover (P3.T11),,45-38,45,38
+0022000361,2021-02-06,LAL,DET,17.85,2,6,9,LAL,DET,steal,1,False,True,steal,steal,45-38,45,38
+0022000361,2021-02-06,LAL,DET,17.88,2,6,7,DET,LAL,foul,2,False,False,Kuzma S.FOUL (P1.T3) (J.Sterling),,45-38,45,38
+0022000361,2021-02-06,LAL,DET,17.88,2,6,7,DET,DET,ft_make,11,False,False,,Bey Free Throw 1 of 2 (6 PTS),45-39,45,39
+0022000361,2021-02-06,LAL,DET,17.88,2,6,7,DET,DET,ft_make,12,False,False,,Bey Free Throw 2 of 2 (7 PTS),45-40,45,40
+0022000361,2021-02-06,LAL,DET,18.03,2,5,58,LAL,LAL,fg_make,98,False,False,Schroder 2' Cutting Layup Shot (8 PTS) (Davis 1 AST),,47-40,47,40
+0022000361,2021-02-06,LAL,DET,18.33,2,5,40,DET,DET,fg3_miss,1,False,False,,MISS Bey 26' 3PT Jump Shot,47-40,47,40
+0022000361,2021-02-06,LAL,DET,18.37,2,5,38,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:5),,47-40,47,40
+0022000361,2021-02-06,LAL,DET,18.48,2,5,31,LAL,LAL,fg3_make,1,False,False,Kuzma 26' 3PT Jump Shot (10 PTS) (Schroder 4 AST),,50-40,50,40
+0022000361,2021-02-06,LAL,DET,18.62,2,5,23,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),50-40,50,40
+0022000361,2021-02-06,LAL,DET,18.77,2,5,14,DET,DET,fg_make,1,False,False,,Mykhailiuk 18' Jump Shot (11 PTS) (Grant 3 AST),50-42,50,42
+0022000361,2021-02-06,LAL,DET,19.12,2,4,53,LAL,LAL,fg_miss,79,False,False,MISS Kuzma 19' Pullup Jump Shot,,50-42,50,42
+0022000361,2021-02-06,LAL,DET,19.18,2,4,49,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:3),50-42,50,42
+0022000361,2021-02-06,LAL,DET,19.38,2,4,37,DET,DET,fg_make,52,False,False,,Plumlee 1' Alley Oop Dunk (5 PTS) (Wright 4 AST),50-44,50,44
+0022000361,2021-02-06,LAL,DET,19.7,2,4,18,LAL,LAL,fg_make,44,False,False,Harrell 3' Reverse Layup (7 PTS) (Davis 2 AST),,52-44,52,44
+0022000361,2021-02-06,LAL,DET,19.93,2,4,4,DET,DET,fg3_make,1,False,False,,Grant 25' 3PT Jump Shot (10 PTS) (Wright 5 AST),52-47,52,47
+0022000361,2021-02-06,LAL,DET,20.13,2,3,52,LAL,LAL,fg_make,79,False,False,Davis 15' Pullup Jump Shot (14 PTS),,54-47,54,47
+0022000361,2021-02-06,LAL,DET,20.47,2,3,32,DET,DET,tov,2,False,True,,Bey Lost Ball Turnover (P2.T9),54-47,54,47
+0022000361,2021-02-06,LAL,DET,20.47,2,3,32,DET,LAL,steal,2,False,True,steal,steal,54-47,54,47
+0022000361,2021-02-06,LAL,DET,20.47,2,3,32,LAL,DET,foul,28,False,False,,Mykhailiuk Personal Take Foul (P1.PN) (T.Brown),54-47,54,47
+0022000361,2021-02-06,LAL,DET,20.47,2,3,32,LAL,LAL,ft_make,11,False,False,Schroder Free Throw 1 of 2 (9 PTS),,55-47,55,47
+0022000361,2021-02-06,LAL,DET,20.47,2,3,32,LAL,LAL,ft_make,12,False,False,Schroder Free Throw 2 of 2 (10 PTS),,56-47,56,47
+0022000361,2021-02-06,LAL,DET,20.7,2,3,18,DET,DET,fg_miss,79,False,False,,MISS Grant 16' Pullup Jump Shot,56-47,56,47
+0022000361,2021-02-06,LAL,DET,20.75,2,3,15,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:2),,56-47,56,47
+0022000361,2021-02-06,LAL,DET,20.85,2,3,9,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P2.T12),,56-47,56,47
+0022000361,2021-02-06,LAL,DET,20.85,2,3,9,LAL,DET,steal,1,False,True,steal,steal,56-47,56,47
+0022000361,2021-02-06,LAL,DET,21.07,2,2,56,DET,DET,fg_miss,1,False,False,,MISS Bey 21' Jump Shot,56-47,56,47
+0022000361,2021-02-06,LAL,DET,21.13,2,2,52,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,56-47,56,47
+0022000361,2021-02-06,LAL,DET,21.2,2,2,48,LAL,LAL,fg_make,41,False,False,James 1' Running Layup (13 PTS),,58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.52,2,2,29,DET,DET,fg3_miss,1,False,False,,MISS Grant 3PT Jump Shot,58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.57,2,2,26,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:3),,58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.67,2,2,20,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 25' 3PT Jump Shot,,58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.7,2,2,18,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:0),,58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.7,2,2,18,LAL,DET,foul,1,False,False,,Jackson P.FOUL (P2.PN) (J.Sterling),58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.7,2,2,18,LAL,LAL,ft_miss,11,False,False,MISS Davis Free Throw 1 of 2,,58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.7,2,2,18,LAL,LAL,reb,1,False,False,LAKERS Rebound,,58-47,58,47
+0022000361,2021-02-06,LAL,DET,21.7,2,2,18,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (15 PTS),,59-47,59,47
+0022000361,2021-02-06,LAL,DET,21.98,2,2,1,DET,DET,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,59-47,59,47
+0022000361,2021-02-06,LAL,DET,22.0,2,2,0,DET,DET,reb,0,False,False,,Pistons Rebound,59-47,59,47
+0022000361,2021-02-06,LAL,DET,22.0,2,2,0,DET,LAL,foul,3,False,False,James L.B.FOUL (P1.T4) (M.Kogut),,59-47,59,47
+0022000361,2021-02-06,LAL,DET,22.12,2,1,53,DET,LAL,foul,1,False,False,James P.FOUL (P2.PN) (J.Sterling),,59-47,59,47
+0022000361,2021-02-06,LAL,DET,22.12,2,1,53,DET,DET,ft_miss,11,False,False,,MISS Wright Free Throw 1 of 2,59-47,59,47
+0022000361,2021-02-06,LAL,DET,22.12,2,1,53,DET,DET,reb,1,False,False,,Pistons Rebound,59-47,59,47
+0022000361,2021-02-06,LAL,DET,22.12,2,1,53,DET,DET,ft_make,12,False,False,,Wright Free Throw 2 of 2 (8 PTS),59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.47,2,1,32,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P3.T13),,59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.47,2,1,32,LAL,DET,steal,2,False,True,steal,steal,59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.53,2,1,28,LAL,DET,foul,26,False,False,,Plumlee Offensive Charge Foul (P2.PN) (M.Kogut),59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.53,2,1,28,DET,DET,tov,37,False,False,,Plumlee Offensive Foul Turnover (P2.T10),59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.8,2,1,12,LAL,LAL,fg_miss,5,True,False,MISS Davis 3' Layup,,59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.8,2,1,12,LAL,DET,block,5,True,False,block,block,59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.85,2,1,9,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:1),59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.9,2,1,6,DET,,foul,11,False,False,,,59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.9,2,1,6,LAL,DET,ft_make,16,False,False,,Grant Free Throw Technical (11 PTS),59-49,59,49
+0022000361,2021-02-06,LAL,DET,22.9,2,1,6,LAL,DET,foul,4,False,False,,Jackson OFF.Foul (P3) (T.Brown),59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.9,2,1,6,DET,DET,tov,37,False,False,,Jackson Offensive Foul Turnover (P3.T11),59-48,59,48
+0022000361,2021-02-06,LAL,DET,22.9,2,1,6,LAL,LAL,timeout,7,False,False,LAKERS Timeout: Coach Challenge (Full 2 Short 0),,59-48,59,48
+0022000361,2021-02-06,LAL,DET,23.27,2,0,44,LAL,LAL,fg_make,102,False,False,Schroder 8' Driving Floating Bank Jump Shot (12 PTS) (Caldwell-Pope 2 AST),,61-49,61,49
+0022000361,2021-02-06,LAL,DET,23.48,2,0,31,DET,DET,fg_make,6,False,False,,Grant 2' Driving Layup (13 PTS) (Wright 6 AST),61-51,61,51
+0022000361,2021-02-06,LAL,DET,23.58,2,0,25,LAL,LAL,fg_make,6,False,False,Schroder 2' Driving Layup (14 PTS),,63-51,63,51
+0022000361,2021-02-06,LAL,DET,24.0,2,0,0,DET,DET,fg3_make,80,False,False,,Wright 26' 3PT Step Back Jump Shot (11 PTS),63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.0,2,0,0,DET,,period_end,0,False,False,,,63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.0,3,12,0,DET,,period_start,0,False,False,,,63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.22,3,11,47,DET,DET,tov,1,False,True,,Plumlee Bad Pass Turnover (P3.T12),63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.22,3,11,47,DET,LAL,steal,1,False,True,steal,steal,63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.22,3,11,47,LAL,DET,foul,28,False,False,,Grant Personal Take Foul (P2.T1) (T.Brown),63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.58,3,11,25,LAL,LAL,fg_miss,63,False,False,MISS James 15' Fadeaway Jumper,,63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.63,3,11,22,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:2),63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.9,3,11,6,DET,LAL,foul,2,False,False,Schroder S.FOUL (P3.T1) (T.Brown),,63-54,63,54
+0022000361,2021-02-06,LAL,DET,24.9,3,11,6,DET,DET,ft_make,11,False,False,,Grant Free Throw 1 of 2 (14 PTS),63-55,63,55
+0022000361,2021-02-06,LAL,DET,24.9,3,11,6,DET,DET,ft_make,12,False,False,,Grant Free Throw 2 of 2 (15 PTS),63-56,63,56
+0022000361,2021-02-06,LAL,DET,25.08,3,10,55,LAL,LAL,fg_miss,98,True,False,MISS Gasol 3' Cutting Layup Shot,,63-56,63,56
+0022000361,2021-02-06,LAL,DET,25.08,3,10,55,LAL,DET,block,98,True,False,block,block,63-56,63,56
+0022000361,2021-02-06,LAL,DET,25.12,3,10,53,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:2),63-56,63,56
+0022000361,2021-02-06,LAL,DET,25.32,3,10,41,DET,LAL,foul,1,False,False,Caldwell-Pope P.FOUL (P2.T2) (T.Brown),,63-56,63,56
+0022000361,2021-02-06,LAL,DET,25.52,3,10,29,DET,DET,fg_make,5,False,False,,Wright 1' Layup (13 PTS),63-58,63,58
+0022000361,2021-02-06,LAL,DET,25.83,3,10,10,LAL,LAL,fg3_make,1,False,False,Gasol 25' 3PT Jump Shot (3 PTS) (Schroder 5 AST),,66-58,66,58
+0022000361,2021-02-06,LAL,DET,26.2,3,9,48,DET,DET,tov,1,False,True,,Plumlee Bad Pass Turnover (P4.T13),66-58,66,58
+0022000361,2021-02-06,LAL,DET,26.2,3,9,48,DET,LAL,steal,1,False,True,steal,steal,66-58,66,58
+0022000361,2021-02-06,LAL,DET,26.37,3,9,38,LAL,DET,foul,1,False,False,,Plumlee P.FOUL (P3.T2) (T.Brown),66-58,66,58
+0022000361,2021-02-06,LAL,DET,26.43,3,9,34,LAL,LAL,fg_make,1,False,False,Caldwell-Pope 19' Jump Shot (2 PTS) (James 6 AST),,68-58,68,58
+0022000361,2021-02-06,LAL,DET,26.6,3,9,24,DET,LAL,foul,2,False,False,Gasol S.FOUL (P2.T3) (T.Brown),,68-58,68,58
+0022000361,2021-02-06,LAL,DET,26.6,3,9,24,DET,DET,ft_miss,11,False,False,,MISS Wright Free Throw 1 of 2,68-58,68,58
+0022000361,2021-02-06,LAL,DET,26.6,3,9,24,DET,DET,reb,1,False,False,,Pistons Rebound,68-58,68,58
+0022000361,2021-02-06,LAL,DET,26.6,3,9,24,DET,DET,ft_make,12,False,False,,Wright Free Throw 2 of 2 (14 PTS),68-59,68,59
+0022000361,2021-02-06,LAL,DET,26.87,3,9,8,LAL,DET,foul,2,False,False,,Plumlee S.FOUL (P4.T3) (T.Brown),68-59,68,59
+0022000361,2021-02-06,LAL,DET,26.87,3,9,8,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (16 PTS),,69-59,69,59
+0022000361,2021-02-06,LAL,DET,26.87,3,9,8,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (17 PTS),,70-59,70,59
+0022000361,2021-02-06,LAL,DET,27.08,3,8,55,DET,DET,fg_make,108,False,False,,Stewart 2' Cutting Dunk Shot (2 PTS) (Grant 4 AST),70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.37,3,8,38,LAL,LAL,fg3_miss,80,False,False,MISS Davis 25' 3PT Step Back Jump Shot,,70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.38,3,8,37,DET,DET,reb,0,False,False,,Pistons Rebound,70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.63,3,8,22,DET,DET,fg3_miss,1,False,False,,MISS Grant 26' 3PT Jump Shot,70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.68,3,8,19,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:3),,70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.85,3,8,9,LAL,LAL,fg3_miss,1,False,False,MISS James 27' 3PT Jump Shot,,70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.87,3,8,8,LAL,LAL,reb,0,False,False,LAKERS Rebound,,70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.87,3,8,8,LAL,DET,foul,3,False,False,,Doumbouya L.B.FOUL (P2.T4) (M.Kogut),70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.97,3,8,2,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P4.T14),,70-61,70,61
+0022000361,2021-02-06,LAL,DET,27.97,3,8,2,LAL,DET,steal,1,False,True,steal,steal,70-61,70,61
+0022000361,2021-02-06,LAL,DET,28.1,3,7,54,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 26' 3PT Jump Shot,70-61,70,61
+0022000361,2021-02-06,LAL,DET,28.13,3,7,52,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:4),,70-61,70,61
+0022000361,2021-02-06,LAL,DET,28.38,3,7,37,LAL,LAL,fg_miss,63,False,False,MISS Davis 12' Fadeaway Jumper,,70-61,70,61
+0022000361,2021-02-06,LAL,DET,28.42,3,7,35,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:1),70-61,70,61
+0022000361,2021-02-06,LAL,DET,28.75,3,7,15,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 25' 3PT Jump Shot,70-61,70,61
+0022000361,2021-02-06,LAL,DET,28.78,3,7,13,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:4),,70-61,70,61
+0022000361,2021-02-06,LAL,DET,28.92,3,7,5,LAL,LAL,fg_make,44,False,False,James 2' Reverse Layup (15 PTS) (Gasol 1 AST),,72-61,72,61
+0022000361,2021-02-06,LAL,DET,28.92,3,7,5,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.4 Short 0),72-61,72,61
+0022000361,2021-02-06,LAL,DET,29.3,3,6,42,DET,DET,fg_miss,101,False,False,,MISS Doumbouya 9' Driving Floating Jump Shot,72-61,72,61
+0022000361,2021-02-06,LAL,DET,29.32,3,6,41,DET,DET,reb,0,False,False,,Pistons Rebound,72-61,72,61
+0022000361,2021-02-06,LAL,DET,29.32,3,6,41,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#14),72-61,72,61
+0022000361,2021-02-06,LAL,DET,29.58,3,6,25,LAL,DET,foul,2,False,False,,Stewart S.FOUL (P4.PN) (J.Sterling),72-61,72,61
+0022000361,2021-02-06,LAL,DET,29.58,3,6,25,LAL,LAL,ft_miss,11,False,False,MISS James Free Throw 1 of 2,,72-61,72,61
+0022000361,2021-02-06,LAL,DET,29.58,3,6,25,LAL,LAL,reb,1,False,False,LAKERS Rebound,,72-61,72,61
+0022000361,2021-02-06,LAL,DET,29.58,3,6,25,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (16 PTS),,73-61,73,61
+0022000361,2021-02-06,LAL,DET,29.98,3,6,1,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 24' 3PT Jump Shot,73-61,73,61
+0022000361,2021-02-06,LAL,DET,30.03,3,5,58,LAL,LAL,reb,0,False,False,Gasol REBOUND (Off:0 Def:2),,73-61,73,61
+0022000361,2021-02-06,LAL,DET,30.03,3,5,58,DET,LAL,foul,4,False,False,Davis OFF.Foul (P1) (M.Kogut),,73-61,73,61
+0022000361,2021-02-06,LAL,DET,30.03,3,5,58,LAL,LAL,tov,37,False,False,Davis Offensive Foul Turnover (P1.T15),,73-61,73,61
+0022000361,2021-02-06,LAL,DET,30.4,3,5,36,LAL,DET,foul,4,False,False,,Wright OFF.Foul (P2) (J.Sterling),73-61,73,61
+0022000361,2021-02-06,LAL,DET,30.4,3,5,36,DET,DET,tov,37,False,False,,Wright Offensive Foul Turnover (P2.T15),73-61,73,61
+0022000361,2021-02-06,LAL,DET,30.77,3,5,14,LAL,LAL,tov,45,False,False,Davis Out of Bounds - Bad Pass Turnover Turnover (P2.T16),,73-61,73,61
+0022000361,2021-02-06,LAL,DET,31.03,3,4,58,DET,DET,fg_make,78,False,False,,Stewart 3' Floating Jump Shot (4 PTS) (Wright 7 AST),73-63,73,63
+0022000361,2021-02-06,LAL,DET,31.43,3,4,34,LAL,LAL,fg3_make,1,False,False,Kuzma 25' 3PT Jump Shot (13 PTS) (Davis 3 AST),,76-63,76,63
+0022000361,2021-02-06,LAL,DET,31.62,3,4,23,DET,DET,tov,2,False,False,,Stewart Lost Ball Turnover (P2.T16),76-63,76,63
+0022000361,2021-02-06,LAL,DET,31.62,3,4,23,LAL,DET,foul,3,False,False,,Stewart L.B.FOUL (P5.PN) (J.Sterling),76-63,76,63
+0022000361,2021-02-06,LAL,DET,31.62,3,4,23,LAL,LAL,ft_make,11,False,False,Gasol Free Throw 1 of 2 (4 PTS),,77-63,77,63
+0022000361,2021-02-06,LAL,DET,31.62,3,4,23,LAL,LAL,ft_make,12,False,False,Gasol Free Throw 2 of 2 (5 PTS),,78-63,78,63
+0022000361,2021-02-06,LAL,DET,31.92,3,4,5,DET,DET,fg3_miss,63,False,False,,MISS Mykhailiuk 3PT Fadeaway Jumper,78-63,78,63
+0022000361,2021-02-06,LAL,DET,31.97,3,4,2,LAL,LAL,reb,0,False,False,Horton-Tucker REBOUND (Off:0 Def:1),,78-63,78,63
+0022000361,2021-02-06,LAL,DET,32.02,3,3,59,LAL,LAL,fg_miss,2,False,False,MISS Kuzma 23' Running Jump Shot,,78-63,78,63
+0022000361,2021-02-06,LAL,DET,32.03,3,3,58,LAL,LAL,reb,0,False,False,LAKERS Rebound,,78-63,78,63
+0022000361,2021-02-06,LAL,DET,32.08,3,3,55,LAL,LAL,fg_make,1,False,False,Davis 13' Jump Shot (19 PTS) (Horton-Tucker 3 AST),,80-63,80,63
+0022000361,2021-02-06,LAL,DET,32.43,3,3,34,DET,DET,fg_miss,44,False,False,,MISS Wright 1' Reverse Layup,80-63,80,63
+0022000361,2021-02-06,LAL,DET,32.43,3,3,34,DET,DET,reb,0,False,False,,Pistons Rebound,80-63,80,63
+0022000361,2021-02-06,LAL,DET,32.45,3,3,33,DET,LAL,foul,1,False,False,Kuzma P.FOUL (P2.T4) (J.Sterling),,80-63,80,63
+0022000361,2021-02-06,LAL,DET,32.63,3,3,22,DET,DET,fg_miss,6,True,False,,MISS Jackson 2' Driving Layup,80-63,80,63
+0022000361,2021-02-06,LAL,DET,32.63,3,3,22,DET,LAL,block,6,True,False,block,block,80-63,80,63
+0022000361,2021-02-06,LAL,DET,32.7,3,3,18,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:0),80-63,80,63
+0022000361,2021-02-06,LAL,DET,32.72,3,3,17,DET,DET,fg3_make,1,False,False,,Wright 25' 3PT Jump Shot (17 PTS) (Jackson 2 AST),80-66,80,66
+0022000361,2021-02-06,LAL,DET,32.88,3,3,7,LAL,LAL,fg_make,79,False,False,Schroder 16' Pullup Jump Shot (16 PTS),,82-66,82,66
+0022000361,2021-02-06,LAL,DET,33.02,3,2,59,DET,DET,fg3_make,1,False,False,,Jackson 24' 3PT Jump Shot (6 PTS) (Grant 5 AST),82-69,82,69
+0022000361,2021-02-06,LAL,DET,33.37,3,2,38,LAL,LAL,fg3_miss,80,False,False,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,,82-69,82,69
+0022000361,2021-02-06,LAL,DET,33.37,3,2,38,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:3),82-69,82,69
+0022000361,2021-02-06,LAL,DET,33.55,3,2,27,DET,DET,fg3_make,1,False,False,,Jackson 3PT Jump Shot (9 PTS) (Plumlee 3 AST),82-72,82,72
+0022000361,2021-02-06,LAL,DET,33.57,3,2,26,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,82-72,82,72
+0022000361,2021-02-06,LAL,DET,33.8,3,2,12,LAL,LAL,tov,2,False,True,Harrell Lost Ball Turnover (P1.T17),,82-72,82,72
+0022000361,2021-02-06,LAL,DET,33.8,3,2,12,LAL,DET,steal,2,False,True,steal,steal,82-72,82,72
+0022000361,2021-02-06,LAL,DET,33.83,3,2,10,DET,DET,fg_make,108,False,False,,Grant 1' Cutting Dunk Shot (17 PTS) (Wright 8 AST),82-74,82,74
+0022000361,2021-02-06,LAL,DET,33.83,3,2,10,DET,LAL,foul,2,False,False,Caruso S.FOUL (P1.PN) (M.Kogut),,82-74,82,74
+0022000361,2021-02-06,LAL,DET,33.83,3,2,10,DET,DET,ft_make,10,False,False,,Grant Free Throw 1 of 1 (18 PTS),82-75,82,75
+0022000361,2021-02-06,LAL,DET,34.17,3,1,50,LAL,LAL,fg_miss,75,False,False,MISS Caruso 3' Driving Finger Roll Layup,,82-75,82,75
+0022000361,2021-02-06,LAL,DET,34.22,3,1,47,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:4),82-75,82,75
+0022000361,2021-02-06,LAL,DET,34.47,3,1,32,DET,DET,fg_miss,80,False,False,,MISS Jackson 18' Step Back Jump Shot,82-75,82,75
+0022000361,2021-02-06,LAL,DET,34.52,3,1,29,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:6),,82-75,82,75
+0022000361,2021-02-06,LAL,DET,34.65,3,1,21,LAL,LAL,fg_make,63,False,False,James 12' Fadeaway Jumper (18 PTS),,84-75,84,75
+0022000361,2021-02-06,LAL,DET,35.03,3,0,58,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 28' 3PT Jump Shot,84-75,84,75
+0022000361,2021-02-06,LAL,DET,35.08,3,0,55,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:2),,84-75,84,75
+0022000361,2021-02-06,LAL,DET,35.18,3,0,49,DET,LAL,foul,26,False,False,Kuzma Offensive Charge Foul (P3.PN) (J.Sterling),,84-75,84,75
+0022000361,2021-02-06,LAL,DET,35.18,3,0,49,LAL,LAL,tov,37,False,False,Kuzma Offensive Foul Turnover (P1.T18),,84-75,84,75
+0022000361,2021-02-06,LAL,DET,35.4,3,0,36,DET,DET,fg_make,6,False,False,,Jackson 1' Driving Layup (11 PTS) (Mykhailiuk 1 AST),84-77,84,77
+0022000361,2021-02-06,LAL,DET,35.7,3,0,18,LAL,LAL,fg_make,73,False,False,Horton-Tucker 2' Driving Reverse Layup (6 PTS) (James 7 AST),,86-77,86,77
+0022000361,2021-02-06,LAL,DET,35.93,3,0,4,DET,LAL,foul,2,False,False,Harrell S.FOUL (P3.PN) (T.Brown),,86-77,86,77
+0022000361,2021-02-06,LAL,DET,35.93,3,0,4,DET,DET,ft_miss,11,False,False,,MISS Plumlee Free Throw 1 of 2,86-77,86,77
+0022000361,2021-02-06,LAL,DET,35.93,3,0,4,DET,DET,reb,1,False,False,,Pistons Rebound,86-77,86,77
+0022000361,2021-02-06,LAL,DET,35.93,3,0,4,DET,DET,ft_make,12,False,False,,Plumlee Free Throw 2 of 2 (6 PTS),86-78,86,78
+0022000361,2021-02-06,LAL,DET,35.95,3,0,3,LAL,LAL,fg_make,50,False,False,Horton-Tucker 3' Running Dunk (8 PTS) (James 8 AST),,88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.0,3,0,0,LAL,,period_end,0,False,False,,,88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.0,4,12,0,LAL,,period_start,0,False,False,,,88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.18,4,11,49,LAL,DET,violation,5,False,False,,Lee Violation:Kicked Ball (J.Sterling),88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.3,4,11,42,LAL,LAL,fg3_miss,1,False,False,MISS James 26' 3PT Jump Shot,,88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.35,4,11,39,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:3 Def:2),,88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.48,4,11,31,LAL,LAL,fg_miss,80,False,False,MISS Horton-Tucker 22' Step Back Jump Shot,,88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.53,4,11,28,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:1),88-78,88,78
+0022000361,2021-02-06,LAL,DET,36.78,4,11,13,DET,DET,fg_make,98,False,False,,Doumbouya 1' Cutting Layup Shot (4 PTS) (Plumlee 4 AST),88-80,88,80
+0022000361,2021-02-06,LAL,DET,37.18,4,10,49,LAL,DET,foul,2,False,False,,Jackson S.FOUL (P4.T1) (T.Brown),88-80,88,80
+0022000361,2021-02-06,LAL,DET,37.18,4,10,49,LAL,LAL,ft_miss,11,False,False,MISS Kuzma Free Throw 1 of 2,,88-80,88,80
+0022000361,2021-02-06,LAL,DET,37.18,4,10,49,LAL,LAL,reb,1,False,False,LAKERS Rebound,,88-80,88,80
+0022000361,2021-02-06,LAL,DET,37.18,4,10,49,LAL,LAL,ft_make,12,False,False,Kuzma Free Throw 2 of 2 (14 PTS),,89-80,89,80
+0022000361,2021-02-06,LAL,DET,37.37,4,10,38,DET,LAL,foul,2,False,False,Horton-Tucker S.FOUL (P3.T1) (T.Brown),,89-80,89,80
+0022000361,2021-02-06,LAL,DET,37.37,4,10,38,DET,DET,ft_make,11,False,False,,Lee Free Throw 1 of 2 (1 PTS),89-81,89,81
+0022000361,2021-02-06,LAL,DET,37.37,4,10,38,DET,DET,ft_make,12,False,False,,Lee Free Throw 2 of 2 (2 PTS),89-82,89,82
+0022000361,2021-02-06,LAL,DET,37.63,4,10,22,LAL,LAL,fg_miss,80,False,False,MISS James 20' Step Back Jump Shot,,89-82,89,82
+0022000361,2021-02-06,LAL,DET,37.72,4,10,17,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:2),89-82,89,82
+0022000361,2021-02-06,LAL,DET,37.8,4,10,12,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 25' 3PT Jump Shot,89-82,89,82
+0022000361,2021-02-06,LAL,DET,37.83,4,10,10,LAL,LAL,reb,0,False,False,Horton-Tucker REBOUND (Off:0 Def:2),,89-82,89,82
+0022000361,2021-02-06,LAL,DET,37.87,4,10,8,LAL,LAL,fg_make,41,False,False,James 2' Running Layup (20 PTS),,91-82,91,82
+0022000361,2021-02-06,LAL,DET,37.87,4,10,8,LAL,DET,foul,2,False,False,,Lee S.FOUL (P1.T2) (T.Brown),91-82,91,82
+0022000361,2021-02-06,LAL,DET,37.87,4,10,8,LAL,LAL,ft_make,10,False,False,James Free Throw 1 of 1 (21 PTS),,92-82,92,82
+0022000361,2021-02-06,LAL,DET,38.12,4,9,53,DET,DET,fg3_make,1,False,False,,Jackson 25' 3PT Jump Shot (14 PTS) (Plumlee 5 AST),92-85,92,85
+0022000361,2021-02-06,LAL,DET,38.47,4,9,32,LAL,LAL,fg_make,63,False,False,Caruso 9' Fadeaway Jumper (2 PTS) (James 9 AST),,94-85,94,85
+0022000361,2021-02-06,LAL,DET,38.87,4,9,8,DET,DET,fg3_make,1,False,False,,Jackson 24' 3PT Jump Shot (17 PTS) (Lee 1 AST),94-88,94,88
+0022000361,2021-02-06,LAL,DET,38.95,4,9,3,LAL,LAL,tov,1,False,True,Caruso Bad Pass Turnover (P3.T19),,94-88,94,88
+0022000361,2021-02-06,LAL,DET,38.95,4,9,3,LAL,DET,steal,1,False,True,steal,steal,94-88,94,88
+0022000361,2021-02-06,LAL,DET,39.07,4,8,56,DET,DET,fg_make,98,False,False,,Lee 1' Cutting Layup Shot (4 PTS) (Jackson 3 AST),94-90,94,90
+0022000361,2021-02-06,LAL,DET,39.07,4,8,56,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,94-90,94,90
+0022000361,2021-02-06,LAL,DET,39.48,4,8,31,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P5.T20),,94-90,94,90
+0022000361,2021-02-06,LAL,DET,39.48,4,8,31,LAL,DET,steal,1,False,True,steal,steal,94-90,94,90
+0022000361,2021-02-06,LAL,DET,39.53,4,8,28,DET,DET,tov,45,False,False,,Mykhailiuk Out of Bounds - Bad Pass Turnover Turnover (P2.T17),94-90,94,90
+0022000361,2021-02-06,LAL,DET,39.87,4,8,8,LAL,LAL,fg_make,6,False,False,Davis 2' Driving Layup (21 PTS) (Horton-Tucker 4 AST),,96-90,96,90
+0022000361,2021-02-06,LAL,DET,40.23,4,7,46,DET,DET,tov,1,False,True,,Plumlee Bad Pass Turnover (P5.T18),96-90,96,90
+0022000361,2021-02-06,LAL,DET,40.23,4,7,46,DET,LAL,steal,1,False,True,steal,steal,96-90,96,90
+0022000361,2021-02-06,LAL,DET,40.35,4,7,39,LAL,LAL,fg_make,50,False,False,James 3' Running Dunk (23 PTS),,98-90,98,90
+0022000361,2021-02-06,LAL,DET,40.63,4,7,22,DET,DET,fg_miss,9,False,False,,MISS Lee 2' Driving Dunk,98-90,98,90
+0022000361,2021-02-06,LAL,DET,40.67,4,7,20,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:1 Def:2),98-90,98,90
+0022000361,2021-02-06,LAL,DET,40.72,4,7,17,DET,DET,fg_make,3,False,False,,Plumlee 3' Hook Shot (8 PTS) (Doumbouya 1 AST),98-92,98,92
+0022000361,2021-02-06,LAL,DET,41.13,4,6,52,LAL,DET,foul,1,False,False,,Doumbouya P.FOUL (P3.T3) (T.Brown),98-92,98,92
+0022000361,2021-02-06,LAL,DET,41.25,4,6,45,LAL,LAL,fg_miss,80,False,False,MISS Davis 16' Step Back Jump Shot,,98-92,98,92
+0022000361,2021-02-06,LAL,DET,41.32,4,6,41,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:2),98-92,98,92
+0022000361,2021-02-06,LAL,DET,41.45,4,6,33,DET,DET,fg3_miss,1,False,False,,MISS Grant 26' 3PT Jump Shot,98-92,98,92
+0022000361,2021-02-06,LAL,DET,41.5,4,6,30,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:4),98-92,98,92
+0022000361,2021-02-06,LAL,DET,41.72,4,6,17,DET,DET,fg3_make,1,False,False,,Jackson 25' 3PT Jump Shot (20 PTS) (Plumlee 6 AST),98-95,98,95
+0022000361,2021-02-06,LAL,DET,41.87,4,6,8,LAL,DET,foul,1,False,False,,Lee P.FOUL (P2.T4) (T.Brown),98-95,98,95
+0022000361,2021-02-06,LAL,DET,42.05,4,5,57,LAL,LAL,fg_make,101,False,False,Davis 6' Driving Floating Jump Shot (23 PTS) (Schroder 6 AST),,100-95,100,95
+0022000361,2021-02-06,LAL,DET,42.32,4,5,41,DET,DET,fg3_make,1,False,False,,Wright 25' 3PT Jump Shot (20 PTS) (Mykhailiuk 2 AST),100-98,100,98
+0022000361,2021-02-06,LAL,DET,42.35,4,5,39,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,100-98,100,98
+0022000361,2021-02-06,LAL,DET,42.6,4,5,24,LAL,LAL,fg_miss,80,False,False,MISS Caldwell-Pope 21' Step Back Jump Shot,,100-98,100,98
+0022000361,2021-02-06,LAL,DET,42.65,4,5,21,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:1 Def:6),,100-98,100,98
+0022000361,2021-02-06,LAL,DET,42.7,4,5,18,LAL,LAL,fg_make,102,False,False,Davis 6' Driving Floating Bank Jump Shot (25 PTS) (Harrell 1 AST),,102-98,102,98
+0022000361,2021-02-06,LAL,DET,43.05,4,4,57,DET,DET,fg_miss,47,False,False,,MISS Grant 10' Turnaround Jump Shot,102-98,102,98
+0022000361,2021-02-06,LAL,DET,43.08,4,4,55,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:1 Def:7),,102-98,102,98
+0022000361,2021-02-06,LAL,DET,43.25,4,4,45,LAL,LAL,fg_make,79,False,False,Schroder 11' Pullup Jump Shot (18 PTS),,104-98,104,98
+0022000361,2021-02-06,LAL,DET,43.43,4,4,34,DET,DET,fg3_miss,1,False,False,,MISS Jackson 24' 3PT Jump Shot,104-98,104,98
+0022000361,2021-02-06,LAL,DET,43.53,4,4,28,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:1 Def:8),,104-98,104,98
+0022000361,2021-02-06,LAL,DET,43.53,4,4,28,LAL,LAL,tov,2,False,True,Harrell Lost Ball Turnover (P2.T21),,104-98,104,98
+0022000361,2021-02-06,LAL,DET,43.53,4,4,28,LAL,DET,steal,2,False,True,steal,steal,104-98,104,98
+0022000361,2021-02-06,LAL,DET,43.68,4,4,19,DET,DET,fg_make,6,False,False,,Jackson 1' Driving Layup (22 PTS),104-100,104,100
+0022000361,2021-02-06,LAL,DET,43.9,4,4,6,LAL,LAL,fg_make,6,False,False,Horton-Tucker 2' Driving Layup (10 PTS),,106-100,106,100
+0022000361,2021-02-06,LAL,DET,44.02,4,3,59,DET,LAL,foul,1,False,False,Horton-Tucker P.FOUL (P4.T2) (J.Sterling),,106-100,106,100
+0022000361,2021-02-06,LAL,DET,44.32,4,3,41,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#19),106-100,106,100
+0022000361,2021-02-06,LAL,DET,44.67,4,3,20,LAL,LAL,fg3_miss,1,False,False,MISS James 26' 3PT Jump Shot,,106-100,106,100
+0022000361,2021-02-06,LAL,DET,44.73,4,3,16,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:3),106-100,106,100
+0022000361,2021-02-06,LAL,DET,44.83,4,3,10,DET,DET,fg_make,9,False,False,,Grant 1' Driving Dunk (20 PTS) (Wright 9 AST),106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.22,4,2,47,LAL,LAL,fg_miss,6,False,False,MISS Schroder 2' Driving Layup,,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.27,4,2,44,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:3),106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.35,4,2,39,DET,DET,fg_miss,5,False,False,,MISS Jackson 3' Layup,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.4,4,2,36,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:3),106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.43,4,2,34,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P4.T20),106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.43,4,2,34,DET,LAL,steal,1,False,True,steal,steal,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.5,4,2,30,LAL,LAL,fg_miss,41,False,False,MISS James 2' Running Layup,,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.53,4,2,28,LAL,LAL,reb,0,False,False,Schroder REBOUND (Off:1 Def:2),,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.67,4,2,20,LAL,LAL,fg_miss,1,False,False,MISS James 17' Jump Shot,,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.7,4,2,18,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:1 Def:4),,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.7,4,2,18,LAL,LAL,fg_miss,97,False,False,MISS Caldwell-Pope 2' Tip Layup Shot,,106-102,106,102
+0022000361,2021-02-06,LAL,DET,45.75,4,2,15,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:4),106-102,106,102
+0022000361,2021-02-06,LAL,DET,46.02,4,1,59,DET,DET,fg_make,6,False,False,,Wright 1' Driving Layup (22 PTS),106-104,106,104
+0022000361,2021-02-06,LAL,DET,46.4,4,1,36,LAL,LAL,fg_miss,1,False,False,MISS Davis 15' Jump Shot,,106-104,106,104
+0022000361,2021-02-06,LAL,DET,46.48,4,1,31,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:5),106-104,106,104
+0022000361,2021-02-06,LAL,DET,46.72,4,1,17,LAL,DET,foul,4,False,False,,Mykhailiuk OFF.Foul (P2) (J.Sterling),106-104,106,104
+0022000361,2021-02-06,LAL,DET,46.72,4,1,17,DET,DET,tov,37,False,False,,Mykhailiuk Offensive Foul Turnover (P3.T21),106-104,106,104
+0022000361,2021-02-06,LAL,DET,46.95,4,1,3,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P6.T22),,106-104,106,104
+0022000361,2021-02-06,LAL,DET,46.95,4,1,3,LAL,DET,steal,1,False,True,steal,steal,106-104,106,104
+0022000361,2021-02-06,LAL,DET,46.97,4,1,2,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.5 Short 0),106-104,106,104
+0022000361,2021-02-06,LAL,DET,47.18,4,0,49,DET,DET,fg3_miss,1,False,False,,MISS Grant 3PT Jump Shot,106-104,106,104
+0022000361,2021-02-06,LAL,DET,47.25,4,0,45,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:1),,106-104,106,104
+0022000361,2021-02-06,LAL,DET,47.53,4,0,28,LAL,LAL,fg3_miss,1,False,False,MISS James 25' 3PT Jump Shot,,106-104,106,104
+0022000361,2021-02-06,LAL,DET,47.6,4,0,24,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:5),106-104,106,104
+0022000361,2021-02-06,LAL,DET,47.95,4,0,3,DET,DET,fg_make,6,False,False,,Jackson 2' Driving Layup (24 PTS),106-106,106,106
+0022000361,2021-02-06,LAL,DET,47.95,4,0,3,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.0,4,0,0,LAL,LAL,fg_miss,6,False,False,MISS James 2' Driving Layup,,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.0,4,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.0,4,0,0,LAL,,period_end,0,False,False,,,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.0,5,5,0,LAL,,period_start,0,False,False,,,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.0,5,5,0,,LAL,jump_ball,0,False,False,Jump Ball Davis vs. Plumlee: Tip to Wright,,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.22,5,4,47,DET,DET,fg_miss,6,True,False,,MISS Wright 2' Driving Layup,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.22,5,4,47,DET,LAL,block,6,True,False,block,block,106-106,106,106
+0022000361,2021-02-06,LAL,DET,48.32,5,4,41,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:5),106-108,106,108
+0022000361,2021-02-06,LAL,DET,48.32,5,4,41,DET,DET,fg_make,97,False,False,,Plumlee Tip Layup Shot (10 PTS),106-108,106,108
+0022000361,2021-02-06,LAL,DET,48.52,5,4,29,LAL,LAL,tov,4,False,False,Davis Traveling Turnover (P3.T23),,106-108,106,108
+0022000361,2021-02-06,LAL,DET,48.83,5,4,10,DET,DET,fg_miss,79,False,False,,MISS Grant 19' Pullup Jump Shot,106-108,106,108
+0022000361,2021-02-06,LAL,DET,48.9,5,4,6,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:2),,106-108,106,108
+0022000361,2021-02-06,LAL,DET,49.02,5,3,59,LAL,LAL,fg3_miss,1,False,False,MISS Davis 26' 3PT Jump Shot,,106-108,106,108
+0022000361,2021-02-06,LAL,DET,49.05,5,3,57,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:2 Def:6),106-108,106,108
+0022000361,2021-02-06,LAL,DET,49.23,5,3,46,DET,DET,fg_make,58,False,False,,Jackson 7' Turnaround Hook Shot (26 PTS),106-110,106,110
+0022000361,2021-02-06,LAL,DET,49.57,5,3,26,LAL,DET,foul,1,False,False,,Grant P.FOUL (P3.T1) (J.Sterling),106-110,106,110
+0022000361,2021-02-06,LAL,DET,49.78,5,3,13,LAL,LAL,fg_make,98,False,False,Caruso 2' Cutting Layup Shot (4 PTS) (James 10 AST),,108-110,108,110
+0022000361,2021-02-06,LAL,DET,49.78,5,3,13,LAL,DET,foul,2,False,False,,Jackson S.FOUL (P5.T2) (J.Sterling),108-110,108,110
+0022000361,2021-02-06,LAL,DET,49.78,5,3,13,LAL,LAL,ft_make,10,False,False,Caruso Free Throw 1 of 1 (5 PTS),,109-110,109,110
+0022000361,2021-02-06,LAL,DET,50.05,5,2,57,DET,DET,fg_make,47,False,False,,Plumlee 2' Turnaround Jump Shot (12 PTS),109-112,109,112
+0022000361,2021-02-06,LAL,DET,50.05,5,2,57,DET,LAL,foul,2,False,False,Schroder S.FOUL (P4.T1) (J.Sterling),,109-112,109,112
+0022000361,2021-02-06,LAL,DET,50.05,5,2,57,DET,DET,ft_make,10,False,False,,Plumlee Free Throw 1 of 1 (13 PTS),109-113,109,113
+0022000361,2021-02-06,LAL,DET,50.22,5,2,47,LAL,DET,foul,1,False,False,,Wright P.FOUL (P3.T3) (M.Kogut),109-113,109,113
+0022000361,2021-02-06,LAL,DET,50.37,5,2,38,LAL,LAL,fg_miss,79,False,False,MISS Schroder 23' Pullup Jump Shot,,109-113,109,113
+0022000361,2021-02-06,LAL,DET,50.4,5,2,36,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:4),109-113,109,113
+0022000361,2021-02-06,LAL,DET,50.7,5,2,18,DET,DET,fg_miss,79,True,False,,MISS Grant 18' Pullup Jump Shot,109-113,109,113
+0022000361,2021-02-06,LAL,DET,50.7,5,2,18,DET,LAL,block,79,True,False,block,block,109-113,109,113
+0022000361,2021-02-06,LAL,DET,50.75,5,2,15,LAL,LAL,reb,0,False,False,Schroder REBOUND (Off:1 Def:3),,109-113,109,113
+0022000361,2021-02-06,LAL,DET,50.92,5,2,5,LAL,LAL,fg3_make,1,False,False,Caruso 25' 3PT Jump Shot (8 PTS) (Caldwell-Pope 3 AST),,112-113,112,113
+0022000361,2021-02-06,LAL,DET,51.22,5,1,47,DET,DET,tov,1,False,True,,Wright Bad Pass Turnover (P3.T22),112-113,112,113
+0022000361,2021-02-06,LAL,DET,51.22,5,1,47,DET,LAL,steal,1,False,True,steal,steal,112-113,112,113
+0022000361,2021-02-06,LAL,DET,51.3,5,1,42,LAL,LAL,fg_make,50,False,False,Caldwell-Pope 2' Running Dunk (4 PTS) (James 11 AST),,114-113,114,113
+0022000361,2021-02-06,LAL,DET,51.3,5,1,42,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.6 Short 0),114-113,114,113
+0022000361,2021-02-06,LAL,DET,51.52,5,1,29,DET,DET,fg_make,57,False,False,,Grant 3' Driving Hook Shot (22 PTS),114-115,114,115
+0022000361,2021-02-06,LAL,DET,51.52,5,1,29,DET,LAL,foul,2,False,False,James S.FOUL (P3.T2) (M.Kogut),,114-115,114,115
+0022000361,2021-02-06,LAL,DET,51.52,5,1,29,DET,DET,ft_make,10,False,False,,Grant Free Throw 1 of 1 (23 PTS),114-116,114,116
+0022000361,2021-02-06,LAL,DET,51.88,5,1,7,LAL,LAL,fg_miss,6,True,False,MISS James 3' Driving Layup,,114-116,114,116
+0022000361,2021-02-06,LAL,DET,51.88,5,1,7,LAL,DET,block,6,True,False,block,block,114-116,114,116
+0022000361,2021-02-06,LAL,DET,51.9,5,1,6,DET,DET,timeout,7,False,False,,Pistons Timeout: Coach Challenge (Reg.6 Short 0),114-116,114,116
+0022000361,2021-02-06,LAL,DET,51.9,5,1,6,LAL,LAL,reb,0,False,False,LAKERS Rebound,,114-116,114,116
+0022000361,2021-02-06,LAL,DET,51.95,5,1,3,,LAL,jump_ball,1,False,False,Jump Ball (CC) Davis vs. Plumlee: Tip to James,,114-116,114,116
+0022000361,2021-02-06,LAL,DET,52.23,5,0,46,LAL,LAL,fg_make,6,False,False,James 1' Driving Layup (25 PTS),,116-116,116,116
+0022000361,2021-02-06,LAL,DET,52.57,5,0,26,DET,LAL,foul,2,False,False,Davis S.FOUL (P2.PN) (T.Brown),,116-116,116,116
+0022000361,2021-02-06,LAL,DET,52.57,5,0,26,DET,DET,ft_make,11,False,False,,Grant Free Throw 1 of 2 (24 PTS),116-117,116,117
+0022000361,2021-02-06,LAL,DET,52.57,5,0,26,DET,DET,ft_make,12,False,False,,Grant Free Throw 2 of 2 (25 PTS),116-118,116,118
+0022000361,2021-02-06,LAL,DET,52.7,5,0,18,LAL,LAL,fg_make,108,False,False,Davis 2' Cutting Dunk Shot (27 PTS) (Schroder 7 AST),,118-118,118,118
+0022000361,2021-02-06,LAL,DET,52.7,5,0,18,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.7 Short 0),118-118,118,118
+0022000361,2021-02-06,LAL,DET,52.98,5,0,1,DET,DET,fg_miss,101,False,False,,MISS Grant 7' Driving Floating Jump Shot,118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.0,5,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.0,5,0,0,DET,,period_end,0,False,False,,,118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.0,6,5,0,DET,,period_start,0,False,False,,,118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.0,6,5,0,,LAL,jump_ball,0,False,False,Jump Ball Davis vs. Plumlee: Tip to James,,118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.45,6,4,33,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 38' 3PT Jump Shot,,118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.52,6,4,29,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:5),118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.78,6,4,13,DET,DET,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,118-118,118,118
+0022000361,2021-02-06,LAL,DET,53.78,6,4,13,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:5),,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.03,6,3,58,LAL,LAL,fg_miss,63,False,False,MISS Davis 13' Fadeaway Jumper,,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.13,6,3,52,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:4 Def:2),,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.13,6,3,52,LAL,LAL,fg_miss,97,False,False,MISS Kuzma Tip Layup Shot,,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.17,6,3,50,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:4),118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.32,6,3,41,DET,DET,fg3_miss,79,False,False,,MISS Mykhailiuk 25' 3PT Pullup Jump Shot,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.37,6,3,38,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:3),,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.6,6,3,24,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P7.T24),,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.6,6,3,24,LAL,DET,steal,1,False,True,steal,steal,118-118,118,118
+0022000361,2021-02-06,LAL,DET,54.68,6,3,19,DET,DET,fg_make,41,False,False,,Grant 2' Running Layup (27 PTS),118-120,118,120
+0022000361,2021-02-06,LAL,DET,55.0,6,3,0,LAL,LAL,fg3_make,1,False,False,Davis 3PT Jump Shot (30 PTS) (Schroder 8 AST),,121-120,121,120
+0022000361,2021-02-06,LAL,DET,55.37,6,2,38,DET,DET,fg_make,6,False,False,,Grant 2' Driving Layup (29 PTS),121-122,121,122
+0022000361,2021-02-06,LAL,DET,55.83,6,2,10,LAL,LAL,fg_make,6,False,False,James 2' Driving Layup (27 PTS),,123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.23,6,1,46,DET,DET,fg3_miss,1,True,False,,MISS Grant 3PT Jump Shot,123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.23,6,1,46,DET,LAL,block,1,True,False,block,block,123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.23,6,1,46,DET,DET,reb,0,False,False,,Pistons Rebound,123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.27,6,1,44,DET,DET,fg_miss,86,False,False,,MISS Plumlee 8' Turnaround Fadeaway Shot,123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.28,6,1,43,DET,DET,reb,0,False,False,,Pistons Rebound,123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.28,6,1,43,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#23),123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.52,6,1,29,LAL,DET,foul,1,False,False,,Wright P.FOUL (P4.T1) (J.Sterling),123-122,123,122
+0022000361,2021-02-06,LAL,DET,56.72,6,1,17,LAL,LAL,fg3_make,80,False,False,James 25' 3PT Step Back Jump Shot (30 PTS),,126-122,126,122
+0022000361,2021-02-06,LAL,DET,56.72,6,1,17,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.8 Short 0),126-122,126,122
+0022000361,2021-02-06,LAL,DET,56.85,6,1,9,DET,DET,fg3_miss,80,False,False,,MISS Mykhailiuk 25' 3PT Step Back Jump Shot,126-122,126,122
+0022000361,2021-02-06,LAL,DET,56.87,6,1,8,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:3),,126-122,126,122
+0022000361,2021-02-06,LAL,DET,56.87,6,1,8,LAL,DET,foul,28,False,False,,Grant Personal Take Foul (P4.PN) (M.Kogut),126-122,126,122
+0022000361,2021-02-06,LAL,DET,56.87,6,1,8,LAL,LAL,ft_make,11,False,False,Caruso Free Throw 1 of 2 (9 PTS),,127-122,127,122
+0022000361,2021-02-06,LAL,DET,56.87,6,1,8,LAL,LAL,ft_make,12,False,False,Caruso Free Throw 2 of 2 (10 PTS),,128-122,128,122
+0022000361,2021-02-06,LAL,DET,57.08,6,0,55,DET,DET,fg_make,9,False,False,,Jackson Driving Dunk (28 PTS) (Grant 6 AST),128-124,128,124
+0022000361,2021-02-06,LAL,DET,57.43,6,0,34,LAL,LAL,fg3_make,80,False,False,James 27' 3PT Step Back Jump Shot (33 PTS),,131-124,131,124
+0022000361,2021-02-06,LAL,DET,57.45,6,0,33,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.9 Short 0),131-124,131,124
+0022000361,2021-02-06,LAL,DET,57.48,6,0,31,DET,DET,fg3_make,47,False,False,,Grant 3PT Turnaround Jump Shot (32 PTS) (Wright 10 AST),131-127,131,127
+0022000361,2021-02-06,LAL,DET,57.57,6,0,26,LAL,DET,foul,28,False,False,,Jackson Personal Take Foul (P6.PN) (J.Sterling),131-127,131,127
+0022000361,2021-02-06,LAL,DET,57.57,6,0,26,LAL,LAL,ft_make,11,False,False,Schroder Free Throw 1 of 2 (19 PTS),,132-127,132,127
+0022000361,2021-02-06,LAL,DET,57.57,6,0,26,LAL,LAL,ft_make,12,False,False,Schroder Free Throw 2 of 2 (20 PTS),,133-127,133,127
+0022000361,2021-02-06,LAL,DET,57.73,6,0,16,DET,DET,fg_make,98,False,False,,Plumlee 1' Cutting Layup Shot (15 PTS) (Mykhailiuk 3 AST),133-129,133,129
+0022000361,2021-02-06,LAL,DET,57.73,6,0,16,LAL,DET,foul,28,False,False,,Mykhailiuk Personal Take Foul (P3.PN) (J.Sterling),133-129,133,129
+0022000361,2021-02-06,LAL,DET,57.73,6,0,16,LAL,LAL,ft_make,11,False,False,Schroder Free Throw 1 of 2 (21 PTS),,134-129,134,129
+0022000361,2021-02-06,LAL,DET,57.73,6,0,16,LAL,LAL,ft_make,12,False,False,Schroder Free Throw 2 of 2 (22 PTS),,135-129,135,129
+0022000361,2021-02-06,LAL,DET,57.92,6,0,5,DET,DET,fg3_miss,79,False,False,,MISS Grant 25' 3PT Pullup Jump Shot,135-129,135,129
+0022000361,2021-02-06,LAL,DET,58.0,6,0,0,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:1 Def:5),135-129,135,129
+0022000361,2021-02-06,LAL,DET,58.0,6,0,0,DET,,period_end,0,False,False,,,135-129,135,129

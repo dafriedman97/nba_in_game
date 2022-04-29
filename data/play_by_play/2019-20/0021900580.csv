@@ -1,0 +1,412 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900580,2020-01-11,OKC,LAL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900580,2020-01-11,OKC,LAL,0.0,1,12,0,,OKC,jump_ball,0,False,False,Jump Ball Adams vs. McGee: Tip to Rondo,,0-0,0,0
+0021900580,2020-01-11,OKC,LAL,0.18,1,11,49,LAL,LAL,fg_miss,78,False,False,,MISS McGee 12' Floating Jump Shot,0-0,0,0
+0021900580,2020-01-11,OKC,LAL,0.25,1,11,45,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:1 Def:0),0-0,0,0
+0021900580,2020-01-11,OKC,LAL,0.28,1,11,43,LAL,LAL,fg_make,5,False,False,,Rondo 1' Layup (2 PTS),0-2,0,2
+0021900580,2020-01-11,OKC,LAL,0.65,1,11,21,OKC,OKC,fg_miss,78,False,False,MISS Gilgeous-Alexander 11' Floating Jump Shot,,0-2,0,2
+0021900580,2020-01-11,OKC,LAL,0.7,1,11,18,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:0),,0-2,0,2
+0021900580,2020-01-11,OKC,LAL,0.83,1,11,10,OKC,OKC,fg_miss,5,False,False,MISS Adams 4' Layup,,0-2,0,2
+0021900580,2020-01-11,OKC,LAL,0.87,1,11,8,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:1 Def:1),0-2,0,2
+0021900580,2020-01-11,OKC,LAL,0.95,1,11,3,LAL,LAL,fg_make,41,False,False,,Rondo 2' Running Layup (4 PTS),0-4,0,4
+0021900580,2020-01-11,OKC,LAL,1.18,1,10,49,OKC,OKC,fg_make,5,False,False,Gallinari 2' Layup (2 PTS) (Adams 1 AST),,2-4,2,4
+0021900580,2020-01-11,OKC,LAL,1.55,1,10,27,LAL,LAL,fg_make,86,False,False,,Kuzma 8' Turnaround Fadeaway (2 PTS),2-6,2,6
+0021900580,2020-01-11,OKC,LAL,1.68,1,10,19,OKC,OKC,fg_miss,41,False,False,MISS Gilgeous-Alexander 4' Running Layup,,2-6,2,6
+0021900580,2020-01-11,OKC,LAL,1.72,1,10,17,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:1),2-6,2,6
+0021900580,2020-01-11,OKC,LAL,1.88,1,10,7,LAL,LAL,tov,1,False,True,,McGee Bad Pass Turnover (P1.T1),2-6,2,6
+0021900580,2020-01-11,OKC,LAL,1.88,1,10,7,LAL,OKC,steal,1,False,True,steal,steal,2-6,2,6
+0021900580,2020-01-11,OKC,LAL,2.02,1,9,59,OKC,OKC,fg_make,108,False,False,Adams 2' Cutting Dunk Shot (2 PTS) (Ferguson 1 AST),,4-6,4,6
+0021900580,2020-01-11,OKC,LAL,2.42,1,9,35,LAL,LAL,fg_make,79,False,False,,Rondo 21' Pullup Jump Shot (6 PTS),4-8,4,8
+0021900580,2020-01-11,OKC,LAL,2.68,1,9,19,OKC,OKC,fg3_make,1,False,False,Gallinari 3PT Jump Shot (5 PTS) (Ferguson 2 AST),,7-8,7,8
+0021900580,2020-01-11,OKC,LAL,3.07,1,8,56,LAL,LAL,fg3_make,1,False,False,,Caldwell-Pope 24' 3PT Jump Shot (3 PTS) (Rondo 1 AST),7-11,7,11
+0021900580,2020-01-11,OKC,LAL,3.4,1,8,36,OKC,OKC,fg3_miss,1,False,False,MISS Ferguson 26' 3PT Jump Shot,,7-11,7,11
+0021900580,2020-01-11,OKC,LAL,3.47,1,8,32,LAL,LAL,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),7-11,7,11
+0021900580,2020-01-11,OKC,LAL,3.58,1,8,25,LAL,LAL,fg_miss,79,True,False,,MISS Bradley 17' Pullup Jump Shot,7-11,7,11
+0021900580,2020-01-11,OKC,LAL,3.58,1,8,25,LAL,OKC,block,79,True,False,block,block,7-11,7,11
+0021900580,2020-01-11,OKC,LAL,3.65,1,8,21,OKC,OKC,reb,0,False,False,Ferguson REBOUND (Off:0 Def:1),,7-11,7,11
+0021900580,2020-01-11,OKC,LAL,3.82,1,8,11,OKC,OKC,fg_miss,5,False,False,MISS Adams 3' Layup,,7-11,7,11
+0021900580,2020-01-11,OKC,LAL,3.87,1,8,8,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:1),7-11,7,11
+0021900580,2020-01-11,OKC,LAL,4.1,1,7,54,LAL,LAL,fg_make,78,False,False,,Rondo 8' Floating Jump Shot (8 PTS),7-13,7,13
+0021900580,2020-01-11,OKC,LAL,4.23,1,7,46,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 2' Driving Layup (2 PTS),,9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.48,1,7,31,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.58,1,7,25,LAL,LAL,tov,1,False,True,,Rondo Bad Pass Turnover (P1.T2),9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.58,1,7,25,LAL,OKC,steal,1,False,True,steal,steal,9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.62,1,7,23,OKC,LAL,foul,28,False,False,,Rondo Personal Take Foul (P1.T1) (S.Wright),9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.8,1,7,12,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 25' 3PT Jump Shot,,9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.88,1,7,7,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:2),9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.95,1,7,3,LAL,OKC,foul,2,False,False,Ferguson S.FOUL (P1.T1) (T.Ford),,9-13,9,13
+0021900580,2020-01-11,OKC,LAL,4.95,1,7,3,LAL,LAL,ft_make,11,False,False,,Kuzma Free Throw 1 of 2 (3 PTS),9-14,9,14
+0021900580,2020-01-11,OKC,LAL,4.95,1,7,3,LAL,LAL,ft_make,12,False,False,,Kuzma Free Throw 2 of 2 (4 PTS),9-15,9,15
+0021900580,2020-01-11,OKC,LAL,5.3,1,6,42,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 24' 3PT Jump Shot,,9-15,9,15
+0021900580,2020-01-11,OKC,LAL,5.3,1,6,42,OKC,OKC,reb,0,False,False,THUNDER Rebound,,9-15,9,15
+0021900580,2020-01-11,OKC,LAL,5.3,1,6,42,OKC,LAL,foul,3,False,False,,McGee L.B.FOUL (P1.T2) (A.Nagy),9-15,9,15
+0021900580,2020-01-11,OKC,LAL,5.52,1,6,29,OKC,OKC,fg_make,80,False,False,Gallinari 16' Step Back Jump Shot (7 PTS),,11-15,11,15
+0021900580,2020-01-11,OKC,LAL,5.67,1,6,20,LAL,LAL,fg_make,75,False,False,,Rondo 2' Driving Finger Roll Layup (10 PTS),11-17,11,17
+0021900580,2020-01-11,OKC,LAL,5.88,1,6,7,OKC,LAL,foul,2,False,False,,McGee S.FOUL (P2.T3) (S.Wright),11-17,11,17
+0021900580,2020-01-11,OKC,LAL,5.88,1,6,7,OKC,OKC,ft_make,11,False,False,Gallinari Free Throw 1 of 2 (8 PTS),,12-17,12,17
+0021900580,2020-01-11,OKC,LAL,5.88,1,6,7,OKC,OKC,ft_make,12,False,False,Gallinari Free Throw 2 of 2 (9 PTS),,13-17,13,17
+0021900580,2020-01-11,OKC,LAL,6.13,1,5,52,LAL,LAL,fg_miss,43,False,False,,MISS Howard 5' Alley Oop Layup,13-17,13,17
+0021900580,2020-01-11,OKC,LAL,6.17,1,5,50,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:1 Def:2),13-17,13,17
+0021900580,2020-01-11,OKC,LAL,6.17,1,5,50,LAL,LAL,fg_make,97,False,False,,Rondo 1' Tip Layup Shot (12 PTS),13-19,13,19
+0021900580,2020-01-11,OKC,LAL,6.43,1,5,34,OKC,OKC,fg_miss,1,False,False,MISS Gallinari 22' Jump Shot,,13-19,13,19
+0021900580,2020-01-11,OKC,LAL,6.45,1,5,33,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:1 Def:3),13-19,13,19
+0021900580,2020-01-11,OKC,LAL,6.58,1,5,25,LAL,LAL,fg_miss,6,False,False,,MISS Rondo 4' Driving Layup,13-19,13,19
+0021900580,2020-01-11,OKC,LAL,6.6,1,5,24,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:3),13-19,13,19
+0021900580,2020-01-11,OKC,LAL,6.62,1,5,23,LAL,LAL,fg3_make,1,False,False,,Kuzma 26' 3PT Jump Shot (7 PTS) (Rondo 2 AST),13-22,13,22
+0021900580,2020-01-11,OKC,LAL,6.93,1,5,4,OKC,OKC,fg_miss,75,True,False,MISS Gilgeous-Alexander 7' Driving Finger Roll Layup,,13-22,13,22
+0021900580,2020-01-11,OKC,LAL,6.93,1,5,4,OKC,LAL,block,75,True,False,block,block,13-22,13,22
+0021900580,2020-01-11,OKC,LAL,7.03,1,4,58,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:4),13-22,13,22
+0021900580,2020-01-11,OKC,LAL,7.2,1,4,48,LAL,LAL,fg3_miss,1,True,False,,MISS Caldwell-Pope 3PT Jump Shot,13-22,13,22
+0021900580,2020-01-11,OKC,LAL,7.2,1,4,48,LAL,OKC,block,1,True,False,block,block,13-22,13,22
+0021900580,2020-01-11,OKC,LAL,7.2,1,4,48,LAL,LAL,reb,0,False,False,,Lakers Rebound,13-22,13,22
+0021900580,2020-01-11,OKC,LAL,7.3,1,4,42,LAL,LAL,fg_make,78,False,False,,Caruso 8' Floating Jump Shot (2 PTS),13-24,13,24
+0021900580,2020-01-11,OKC,LAL,7.3,1,4,42,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,13-24,13,24
+0021900580,2020-01-11,OKC,LAL,7.63,1,4,22,OKC,OKC,fg3_miss,1,False,False,MISS Muscala 27' 3PT Jump Shot,,13-24,13,24
+0021900580,2020-01-11,OKC,LAL,7.67,1,4,20,LAL,LAL,reb,0,False,False,,Lakers Rebound,13-24,13,24
+0021900580,2020-01-11,OKC,LAL,7.98,1,4,1,LAL,LAL,fg_make,58,False,False,,Howard 6' Turnaround Hook Shot (2 PTS) (Rondo 3 AST),13-26,13,26
+0021900580,2020-01-11,OKC,LAL,8.2,1,3,48,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 25' 3PT Jump Shot,,13-26,13,26
+0021900580,2020-01-11,OKC,LAL,8.25,1,3,45,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:5),13-26,13,26
+0021900580,2020-01-11,OKC,LAL,8.28,1,3,43,LAL,LAL,fg_make,41,False,False,,Caldwell-Pope 1' Running Layup (5 PTS) (Rondo 4 AST),13-28,13,28
+0021900580,2020-01-11,OKC,LAL,8.28,1,3,43,LAL,OKC,foul,2,False,False,Schroder S.FOUL (P1.T2) (A.Nagy),,13-28,13,28
+0021900580,2020-01-11,OKC,LAL,8.28,1,3,43,LAL,LAL,ft_make,10,False,False,,Caldwell-Pope Free Throw 1 of 1 (6 PTS),13-29,13,29
+0021900580,2020-01-11,OKC,LAL,8.57,1,3,26,OKC,OKC,fg_miss,79,False,False,MISS Schroder 16' Pullup Jump Shot,,13-29,13,29
+0021900580,2020-01-11,OKC,LAL,8.6,1,3,24,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:2),13-29,13,29
+0021900580,2020-01-11,OKC,LAL,8.83,1,3,10,LAL,LAL,fg3_make,1,False,False,,Caruso 3PT Jump Shot (5 PTS) (Howard 1 AST),13-32,13,32
+0021900580,2020-01-11,OKC,LAL,9.13,1,2,52,OKC,OKC,fg_make,5,False,False,Gilgeous-Alexander 2' Layup (4 PTS),,15-32,15,32
+0021900580,2020-01-11,OKC,LAL,9.53,1,2,28,LAL,LAL,fg_miss,79,False,False,,MISS Caruso 11' Pullup Jump Shot,15-32,15,32
+0021900580,2020-01-11,OKC,LAL,9.58,1,2,25,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:0 Def:1),,15-32,15,32
+0021900580,2020-01-11,OKC,LAL,9.63,1,2,22,OKC,OKC,tov,40,False,False,Schroder Out of Bounds Lost Ball Turnover (P1.T1),,15-32,15,32
+0021900580,2020-01-11,OKC,LAL,9.85,1,2,9,LAL,LAL,fg_miss,6,True,False,,MISS Caruso 3' Driving Layup,15-32,15,32
+0021900580,2020-01-11,OKC,LAL,9.85,1,2,9,LAL,OKC,block,6,True,False,block,block,15-32,15,32
+0021900580,2020-01-11,OKC,LAL,9.88,1,2,7,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:0 Def:1),,15-32,15,32
+0021900580,2020-01-11,OKC,LAL,9.93,1,2,4,OKC,OKC,fg_make,41,False,False,Nader 2' Running Layup (2 PTS) (Schroder 1 AST),,17-32,17,32
+0021900580,2020-01-11,OKC,LAL,10.22,1,1,47,LAL,LAL,fg_miss,79,False,False,,MISS Rondo 14' Pullup Jump Shot,17-32,17,32
+0021900580,2020-01-11,OKC,LAL,10.23,1,1,46,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:0),17-32,17,32
+0021900580,2020-01-11,OKC,LAL,10.23,1,1,46,LAL,OKC,foul,2,False,False,Bazley S.FOUL (P1.T3) (T.Ford),,17-32,17,32
+0021900580,2020-01-11,OKC,LAL,10.23,1,1,46,LAL,LAL,ft_make,11,False,False,,Howard Free Throw 1 of 2 (3 PTS),17-33,17,33
+0021900580,2020-01-11,OKC,LAL,10.23,1,1,46,LAL,LAL,ft_make,12,False,False,,Howard Free Throw 2 of 2 (4 PTS),17-34,17,34
+0021900580,2020-01-11,OKC,LAL,10.43,1,1,34,OKC,OKC,fg_make,6,False,False,Schroder 2' Driving Layup (2 PTS),,19-34,19,34
+0021900580,2020-01-11,OKC,LAL,10.63,1,1,22,LAL,LAL,fg_make,79,False,False,,Kuzma 17' Pullup Jump Shot (9 PTS),19-36,19,36
+0021900580,2020-01-11,OKC,LAL,10.87,1,1,8,OKC,OKC,fg_miss,79,False,False,MISS Schroder 14' Pullup Jump Shot,,19-36,19,36
+0021900580,2020-01-11,OKC,LAL,10.93,1,1,4,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:1),19-36,19,36
+0021900580,2020-01-11,OKC,LAL,10.98,1,1,1,LAL,LAL,fg3_miss,1,False,False,,MISS Daniels 26' 3PT Jump Shot,19-36,19,36
+0021900580,2020-01-11,OKC,LAL,11.02,1,0,59,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:2),19-36,19,36
+0021900580,2020-01-11,OKC,LAL,11.02,1,0,59,LAL,LAL,fg_make,97,False,False,,Kuzma 1' Tip Layup Shot (11 PTS),19-38,19,38
+0021900580,2020-01-11,OKC,LAL,11.27,1,0,44,OKC,OKC,fg_miss,5,False,False,MISS Bazley 7' Layup,,19-38,19,38
+0021900580,2020-01-11,OKC,LAL,11.32,1,0,41,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:1),19-38,19,38
+0021900580,2020-01-11,OKC,LAL,11.45,1,0,33,LAL,LAL,fg3_make,1,False,False,,Kuzma 26' 3PT Jump Shot (14 PTS) (Caruso 1 AST),19-41,19,41
+0021900580,2020-01-11,OKC,LAL,11.77,1,0,14,OKC,OKC,fg_miss,6,True,False,MISS Diallo 3' Driving Layup,,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,11.77,1,0,14,OKC,LAL,block,6,True,False,block,block,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,11.82,1,0,11,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:1 Def:0),,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,11.83,1,0,10,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 24' 3PT Jump Shot,,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,11.9,1,0,6,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:2),19-41,19,41
+0021900580,2020-01-11,OKC,LAL,11.98,1,0,1,LAL,LAL,fg3_miss,1,False,False,,MISS Kuzma 33' 3PT Jump Shot,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,11.98,1,0,1,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:1 Def:1),,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,12.0,1,0,0,OKC,,period_end,0,False,False,,,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,12.0,2,12,0,OKC,,period_start,0,False,False,,,19-41,19,41
+0021900580,2020-01-11,OKC,LAL,12.18,2,11,49,OKC,OKC,fg3_make,1,False,False,Schroder 26' 3PT Jump Shot (5 PTS) (Paul 1 AST),,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,12.52,2,11,29,LAL,LAL,fg_miss,79,False,False,,MISS Cook 17' Pullup Jump Shot,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,12.57,2,11,26,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:1),,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,12.67,2,11,20,OKC,OKC,fg_miss,79,False,False,MISS Paul 15' Pullup Jump Shot,,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,12.72,2,11,17,LAL,LAL,reb,0,False,False,,Daniels REBOUND (Off:0 Def:1),22-41,22,41
+0021900580,2020-01-11,OKC,LAL,12.87,2,11,8,LAL,LAL,fg_miss,79,True,False,,MISS Caruso 11' Pullup Jump Shot,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,12.87,2,11,8,LAL,OKC,block,79,True,False,block,block,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,12.92,2,11,5,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:1),,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,13.0,2,11,0,OKC,OKC,fg_miss,41,False,False,MISS Adams 1' Running Layup,,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,13.03,2,10,58,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:1),,22-41,22,41
+0021900580,2020-01-11,OKC,LAL,13.03,2,10,58,OKC,OKC,fg_make,97,False,False,Adams 1' Tip Layup Shot (4 PTS),,24-41,24,41
+0021900580,2020-01-11,OKC,LAL,13.2,2,10,48,LAL,LAL,fg_make,79,False,False,,Daniels 10' Pullup Jump Shot (2 PTS) (Caruso 2 AST),24-43,24,43
+0021900580,2020-01-11,OKC,LAL,13.45,2,10,33,OKC,OKC,fg_miss,78,False,False,MISS Schroder 6' Floating Jump Shot,,24-43,24,43
+0021900580,2020-01-11,OKC,LAL,13.52,2,10,29,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:3),24-43,24,43
+0021900580,2020-01-11,OKC,LAL,13.75,2,10,15,LAL,LAL,fg_miss,43,False,False,,MISS Howard 8' Alley Oop Layup,24-43,24,43
+0021900580,2020-01-11,OKC,LAL,13.78,2,10,13,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:2),,24-43,24,43
+0021900580,2020-01-11,OKC,LAL,13.93,2,10,4,OKC,LAL,foul,2,False,False,,Daniels S.FOUL (P1.T1) (A.Nagy),24-43,24,43
+0021900580,2020-01-11,OKC,LAL,13.93,2,10,4,OKC,OKC,ft_make,11,False,False,Diallo Free Throw 1 of 2 (1 PTS),,25-43,25,43
+0021900580,2020-01-11,OKC,LAL,13.93,2,10,4,OKC,OKC,ft_miss,12,False,False,MISS Diallo Free Throw 2 of 2,,25-43,25,43
+0021900580,2020-01-11,OKC,LAL,13.95,2,10,3,LAL,LAL,reb,0,False,False,,Lakers Rebound,25-43,25,43
+0021900580,2020-01-11,OKC,LAL,14.13,2,9,52,LAL,LAL,fg3_make,79,False,False,,Daniels 31' 3PT Pullup Jump Shot (5 PTS),25-46,25,46
+0021900580,2020-01-11,OKC,LAL,14.33,2,9,40,OKC,OKC,fg_make,79,False,False,Paul 13' Pullup Jump Shot (2 PTS),,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.57,2,9,26,LAL,LAL,fg_miss,1,False,False,,MISS Daniels 12' Jump Shot,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.6,2,9,24,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.65,2,9,21,OKC,OKC,fg_miss,41,True,False,MISS Diallo 6' Running Layup,,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.65,2,9,21,OKC,LAL,block,41,True,False,block,block,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.65,2,9,21,OKC,OKC,reb,0,False,False,THUNDER Rebound,,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.65,2,9,21,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.7,2,9,18,OKC,OKC,fg_miss,1,False,False,MISS Schroder 15' Jump Shot,,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,14.73,2,9,16,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:4),27-46,27,46
+0021900580,2020-01-11,OKC,LAL,15.0,2,9,0,LAL,LAL,tov,1,False,True,,Caruso Bad Pass Turnover (P1.T3),27-46,27,46
+0021900580,2020-01-11,OKC,LAL,15.0,2,9,0,LAL,OKC,steal,1,False,True,steal,steal,27-46,27,46
+0021900580,2020-01-11,OKC,LAL,15.18,2,8,49,OKC,OKC,fg_make,79,False,False,Nader 15' Pullup Jump Shot (4 PTS) (Diallo 1 AST),,29-46,29,46
+0021900580,2020-01-11,OKC,LAL,15.43,2,8,34,LAL,LAL,fg_make,80,False,False,,Cook 23' Step Back Jump Shot (2 PTS),29-48,29,48
+0021900580,2020-01-11,OKC,LAL,15.58,2,8,25,OKC,OKC,fg_make,6,False,False,Schroder 1' Driving Layup (7 PTS) (Paul 2 AST),,31-48,31,48
+0021900580,2020-01-11,OKC,LAL,15.87,2,8,8,LAL,LAL,fg3_make,79,False,False,,Cook 25' 3PT Pullup Jump Shot (5 PTS),31-51,31,51
+0021900580,2020-01-11,OKC,LAL,16.07,2,7,56,OKC,LAL,foul,1,False,False,,Daniels P.FOUL (P2.T2) (T.Ford),31-51,31,51
+0021900580,2020-01-11,OKC,LAL,16.28,2,7,43,OKC,OKC,fg_make,1,False,False,Muscala 15' Jump Shot (2 PTS),,33-51,33,51
+0021900580,2020-01-11,OKC,LAL,16.5,2,7,30,LAL,OKC,foul,1,False,False,Paul P.FOUL (P1.T1) (S.Wright),,33-51,33,51
+0021900580,2020-01-11,OKC,LAL,16.65,2,7,21,LAL,LAL,fg3_make,1,False,False,,Caruso 26' 3PT Jump Shot (8 PTS) (Howard 2 AST),33-54,33,54
+0021900580,2020-01-11,OKC,LAL,16.97,2,7,2,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 25' 3PT Jump Shot,,33-54,33,54
+0021900580,2020-01-11,OKC,LAL,17.03,2,6,58,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:5),33-54,33,54
+0021900580,2020-01-11,OKC,LAL,17.03,2,6,58,LAL,LAL,tov,4,False,False,,Howard Traveling Turnover (P1.T4),33-54,33,54
+0021900580,2020-01-11,OKC,LAL,17.23,2,6,46,OKC,OKC,tov,45,False,False,Gilgeous-Alexander Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,33-54,33,54
+0021900580,2020-01-11,OKC,LAL,17.42,2,6,35,LAL,LAL,fg_miss,1,False,False,,MISS Howard 22' Jump Shot,33-54,33,54
+0021900580,2020-01-11,OKC,LAL,17.45,2,6,33,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:1),,33-54,33,54
+0021900580,2020-01-11,OKC,LAL,17.6,2,6,24,OKC,OKC,fg_make,7,False,False,Nader 1' Dunk (6 PTS) (Gallinari 1 AST),,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,17.67,2,6,20,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.2 Short 0),35-54,35,54
+0021900580,2020-01-11,OKC,LAL,17.8,2,6,12,LAL,LAL,tov,40,False,False,,Bradley Out of Bounds Lost Ball Turnover (P1.T5),35-54,35,54
+0021900580,2020-01-11,OKC,LAL,17.97,2,6,2,OKC,OKC,fg3_miss,1,True,False,MISS Muscala 27' 3PT Jump Shot,,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,17.97,2,6,2,OKC,LAL,block,1,True,False,block,block,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.02,2,5,59,LAL,LAL,reb,0,False,False,,Bradley REBOUND (Off:0 Def:2),35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.15,2,5,51,LAL,LAL,fg_miss,5,False,False,,MISS McGee 8' Layup,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.18,2,5,49,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:0 Def:2),,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.27,2,5,44,OKC,OKC,fg_miss,41,False,False,MISS Gilgeous-Alexander 1' Running Layup,,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.3,2,5,42,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:3),35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.38,2,5,37,LAL,LAL,fg_miss,41,False,False,,MISS Kuzma 7' Running Layup,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.42,2,5,35,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:0 Def:3),,35-54,35,54
+0021900580,2020-01-11,OKC,LAL,18.6,2,5,24,OKC,OKC,fg_make,63,False,False,Nader 8' Fadeaway Jumper (8 PTS),,37-54,37,54
+0021900580,2020-01-11,OKC,LAL,18.87,2,5,8,LAL,LAL,fg3_make,1,False,False,,Cook 26' 3PT Jump Shot (8 PTS) (McGee 1 AST),37-57,37,57
+0021900580,2020-01-11,OKC,LAL,19.07,2,4,56,OKC,OKC,fg_make,80,False,False,Gilgeous-Alexander 16' Step Back Jump Shot (6 PTS),,39-57,39,57
+0021900580,2020-01-11,OKC,LAL,19.47,2,4,32,LAL,LAL,fg_miss,1,False,False,,MISS Kuzma 23' Jump Shot,39-57,39,57
+0021900580,2020-01-11,OKC,LAL,19.5,2,4,30,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:2),,39-57,39,57
+0021900580,2020-01-11,OKC,LAL,19.62,2,4,23,OKC,OKC,fg_miss,101,False,False,MISS Gilgeous-Alexander 5' Driving Floating Jump Shot,,39-57,39,57
+0021900580,2020-01-11,OKC,LAL,19.65,2,4,21,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:1 Def:2),39-57,39,57
+0021900580,2020-01-11,OKC,LAL,19.7,2,4,18,OKC,LAL,foul,4,False,False,,Cook OFF.Foul (P1) (T.Ford),39-57,39,57
+0021900580,2020-01-11,OKC,LAL,19.7,2,4,18,LAL,LAL,tov,37,False,False,,Cook Offensive Foul Turnover (P1.T6),39-57,39,57
+0021900580,2020-01-11,OKC,LAL,20.12,2,3,53,OKC,OKC,fg3_miss,79,False,False,MISS Gilgeous-Alexander 27' 3PT Pullup Jump Shot,,39-57,39,57
+0021900580,2020-01-11,OKC,LAL,20.15,2,3,51,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:6),39-57,39,57
+0021900580,2020-01-11,OKC,LAL,20.25,2,3,45,LAL,LAL,fg_make,41,False,False,,Rondo 2' Running Layup (14 PTS),39-59,39,59
+0021900580,2020-01-11,OKC,LAL,20.5,2,3,30,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 27' 3PT Jump Shot,,39-59,39,59
+0021900580,2020-01-11,OKC,LAL,20.57,2,3,26,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:0 Def:1),39-59,39,59
+0021900580,2020-01-11,OKC,LAL,20.83,2,3,10,LAL,LAL,fg_miss,105,False,False,,MISS Kuzma 8' Turnaround Fadeaway Bank Jump Shot,39-59,39,59
+0021900580,2020-01-11,OKC,LAL,20.85,2,3,9,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:2 Def:2),39-59,39,59
+0021900580,2020-01-11,OKC,LAL,20.85,2,3,9,LAL,LAL,fg_make,97,False,False,,McGee 1' Tip Layup Shot (2 PTS),39-61,39,61
+0021900580,2020-01-11,OKC,LAL,20.97,2,3,2,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 3 Short 0),,39-61,39,61
+0021900580,2020-01-11,OKC,LAL,21.23,2,2,46,OKC,OKC,fg_make,5,False,False,Adams 5' Layup (6 PTS) (Paul 3 AST),,41-61,41,61
+0021900580,2020-01-11,OKC,LAL,21.62,2,2,23,LAL,OKC,foul,1,False,False,Paul P.FOUL (P2.T2) (S.Wright),,41-61,41,61
+0021900580,2020-01-11,OKC,LAL,21.82,2,2,11,LAL,LAL,fg_miss,6,False,False,,MISS Rondo 1' Driving Layup,41-61,41,61
+0021900580,2020-01-11,OKC,LAL,21.88,2,2,7,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:1 Def:1),41-61,41,61
+0021900580,2020-01-11,OKC,LAL,21.9,2,2,6,LAL,LAL,fg3_make,1,False,False,,Caldwell-Pope 26' 3PT Jump Shot (9 PTS),41-64,41,64
+0021900580,2020-01-11,OKC,LAL,22.12,2,1,53,OKC,OKC,fg_make,5,False,False,Adams 2' Layup (8 PTS) (Schroder 2 AST),,43-64,43,64
+0021900580,2020-01-11,OKC,LAL,22.37,2,1,38,LAL,LAL,fg_make,101,False,False,,Kuzma 11' Driving Floating Jump Shot (16 PTS),43-66,43,66
+0021900580,2020-01-11,OKC,LAL,22.48,2,1,31,OKC,OKC,fg3_miss,79,False,False,MISS Schroder 26' 3PT Pullup Jump Shot,,43-66,43,66
+0021900580,2020-01-11,OKC,LAL,22.53,2,1,28,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:2 Def:3),43-66,43,66
+0021900580,2020-01-11,OKC,LAL,22.65,2,1,21,LAL,LAL,fg_miss,101,False,False,,MISS Rondo 6' Driving Floating Jump Shot,43-66,43,66
+0021900580,2020-01-11,OKC,LAL,22.7,2,1,18,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:3),,43-66,43,66
+0021900580,2020-01-11,OKC,LAL,22.8,2,1,12,OKC,OKC,fg3_miss,1,False,False,MISS Paul 26' 3PT Jump Shot,,43-66,43,66
+0021900580,2020-01-11,OKC,LAL,22.85,2,1,9,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:0),,43-66,43,66
+0021900580,2020-01-11,OKC,LAL,22.9,2,1,6,OKC,OKC,fg_make,98,False,False,Paul 3' Cutting Layup Shot (4 PTS) (Gallinari 2 AST),,45-66,45,66
+0021900580,2020-01-11,OKC,LAL,23.17,2,0,50,LAL,LAL,fg_make,6,False,False,,Kuzma 7' Driving Layup (18 PTS) (Rondo 5 AST),45-68,45,68
+0021900580,2020-01-11,OKC,LAL,23.17,2,0,50,LAL,OKC,foul,2,False,False,Gallinari S.FOUL (P1.T3) (T.Ford),,45-68,45,68
+0021900580,2020-01-11,OKC,LAL,23.17,2,0,50,LAL,LAL,ft_miss,10,False,False,,MISS Kuzma Free Throw 1 of 1,45-68,45,68
+0021900580,2020-01-11,OKC,LAL,23.2,2,0,48,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:3),,45-68,45,68
+0021900580,2020-01-11,OKC,LAL,23.3,2,0,42,OKC,OKC,fg_make,1,False,False,Gallinari 12' Jump Shot (11 PTS) (Schroder 3 AST),,47-68,47,68
+0021900580,2020-01-11,OKC,LAL,23.47,2,0,32,LAL,LAL,fg_make,101,False,False,,Kuzma 9' Driving Floating Jump Shot (20 PTS),47-70,47,70
+0021900580,2020-01-11,OKC,LAL,23.65,2,0,21,OKC,LAL,foul,1,False,False,,Bradley P.FOUL (P1.T3) (A.Nagy),47-70,47,70
+0021900580,2020-01-11,OKC,LAL,23.72,2,0,17,OKC,LAL,foul,1,False,False,,Caldwell-Pope P.FOUL (P1.PN) (T.Ford),47-70,47,70
+0021900580,2020-01-11,OKC,LAL,23.72,2,0,17,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (7 PTS),,48-70,48,70
+0021900580,2020-01-11,OKC,LAL,23.72,2,0,17,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (8 PTS),,49-70,49,70
+0021900580,2020-01-11,OKC,LAL,23.97,2,0,2,LAL,LAL,fg3_make,1,False,False,,Kuzma 25' 3PT Jump Shot (23 PTS),49-73,49,73
+0021900580,2020-01-11,OKC,LAL,24.0,2,0,0,LAL,,period_end,0,False,False,,,49-73,49,73
+0021900580,2020-01-11,OKC,LAL,24.0,3,12,0,LAL,,period_start,0,False,False,,,49-73,49,73
+0021900580,2020-01-11,OKC,LAL,24.23,3,11,46,OKC,OKC,tov,2,False,True,Paul Lost Ball Turnover (P1.T3),,49-73,49,73
+0021900580,2020-01-11,OKC,LAL,24.23,3,11,46,OKC,LAL,steal,2,False,True,steal,steal,49-73,49,73
+0021900580,2020-01-11,OKC,LAL,24.33,3,11,40,LAL,LAL,fg_make,41,False,False,,Rondo 1' Running Layup (16 PTS) (McGee 2 AST),49-75,49,75
+0021900580,2020-01-11,OKC,LAL,24.67,3,11,20,OKC,OKC,fg_make,5,False,False,Adams 3' Layup (10 PTS),,51-75,51,75
+0021900580,2020-01-11,OKC,LAL,24.95,3,11,3,LAL,LAL,fg3_make,1,False,False,,Rondo 25' 3PT Jump Shot (19 PTS),51-78,51,78
+0021900580,2020-01-11,OKC,LAL,25.17,3,10,50,OKC,OKC,fg_make,75,False,False,Gilgeous-Alexander 2' Driving Finger Roll Layup (10 PTS),,53-78,53,78
+0021900580,2020-01-11,OKC,LAL,25.17,3,10,50,OKC,LAL,violation,2,False,False,,McGee Violation:Defensive Goaltending (A.Nagy),53-78,53,78
+0021900580,2020-01-11,OKC,LAL,25.37,3,10,38,LAL,LAL,fg3_make,1,False,False,,Bradley 25' 3PT Jump Shot (3 PTS) (Rondo 6 AST),53-81,53,81
+0021900580,2020-01-11,OKC,LAL,25.63,3,10,22,OKC,OKC,fg_miss,47,False,False,MISS Gallinari 13' Turnaround Jump Shot,,53-81,53,81
+0021900580,2020-01-11,OKC,LAL,25.67,3,10,20,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:2 Def:4),53-81,53,81
+0021900580,2020-01-11,OKC,LAL,25.95,3,10,3,LAL,LAL,fg_make,75,False,False,,Rondo 3' Driving Finger Roll Layup (21 PTS),53-83,53,83
+0021900580,2020-01-11,OKC,LAL,26.05,3,9,57,OKC,LAL,foul,1,False,False,,Bradley P.FOUL (P2.T1) (A.Nagy),53-83,53,83
+0021900580,2020-01-11,OKC,LAL,26.28,3,9,43,LAL,OKC,foul,26,False,False,Gallinari Offensive Charge Foul (P2.T1) (T.Ford),,53-83,53,83
+0021900580,2020-01-11,OKC,LAL,26.28,3,9,43,OKC,OKC,tov,37,False,False,Gallinari Offensive Foul Turnover (P1.T4),,53-83,53,83
+0021900580,2020-01-11,OKC,LAL,26.48,3,9,31,LAL,LAL,fg_make,7,False,False,,McGee Dunk (4 PTS),53-85,53,85
+0021900580,2020-01-11,OKC,LAL,26.48,3,9,31,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,53-85,53,85
+0021900580,2020-01-11,OKC,LAL,26.83,3,9,10,OKC,OKC,fg_miss,79,False,False,MISS Paul 13' Pullup Jump Shot,,53-85,53,85
+0021900580,2020-01-11,OKC,LAL,26.88,3,9,7,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:7),53-85,53,85
+0021900580,2020-01-11,OKC,LAL,27.18,3,8,49,LAL,LAL,tov,45,False,False,,Rondo Out of Bounds - Bad Pass Turnover Turnover (P2.T7),53-85,53,85
+0021900580,2020-01-11,OKC,LAL,27.37,3,8,38,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 25' 3PT Jump Shot,,53-85,53,85
+0021900580,2020-01-11,OKC,LAL,27.4,3,8,36,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:8),53-85,53,85
+0021900580,2020-01-11,OKC,LAL,27.57,3,8,26,LAL,OKC,foul,1,False,False,Paul P.FOUL (P3.T2) (T.Ford),,53-85,53,85
+0021900580,2020-01-11,OKC,LAL,27.72,3,8,17,LAL,LAL,tov,45,False,False,,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P1.T8),53-85,53,85
+0021900580,2020-01-11,OKC,LAL,27.93,3,8,4,OKC,LAL,violation,5,False,False,,Caldwell-Pope Violation:Kicked Ball (S.Wright),53-85,53,85
+0021900580,2020-01-11,OKC,LAL,27.98,3,8,1,OKC,OKC,fg3_miss,1,False,False,MISS Paul 26' 3PT Jump Shot,,53-85,53,85
+0021900580,2020-01-11,OKC,LAL,28.05,3,7,57,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:4),53-85,53,85
+0021900580,2020-01-11,OKC,LAL,28.12,3,7,53,LAL,LAL,fg3_miss,1,False,False,,MISS Rondo 25' 3PT Jump Shot,53-85,53,85
+0021900580,2020-01-11,OKC,LAL,28.18,3,7,49,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:1),,53-85,53,85
+0021900580,2020-01-11,OKC,LAL,28.27,3,7,44,OKC,OKC,fg_make,50,False,False,Gallinari 1' Running Dunk (13 PTS),,55-85,55,85
+0021900580,2020-01-11,OKC,LAL,28.5,3,7,30,LAL,LAL,fg_miss,78,False,False,,MISS Kuzma 6' Floating Jump Shot,55-85,55,85
+0021900580,2020-01-11,OKC,LAL,28.53,3,7,28,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:4),,55-85,55,85
+0021900580,2020-01-11,OKC,LAL,28.68,3,7,19,OKC,OKC,fg3_make,1,False,False,Gilgeous-Alexander 3PT Jump Shot (13 PTS) (Paul 4 AST),,58-85,58,85
+0021900580,2020-01-11,OKC,LAL,28.68,3,7,19,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.3 Short 0),58-85,58,85
+0021900580,2020-01-11,OKC,LAL,28.9,3,7,6,LAL,LAL,tov,45,False,False,,McGee Out of Bounds - Bad Pass Turnover Turnover (P2.T9),58-85,58,85
+0021900580,2020-01-11,OKC,LAL,29.27,3,6,44,OKC,OKC,fg3_make,79,False,False,Paul 3PT Pullup Jump Shot (7 PTS) (Gallinari 3 AST),,61-85,61,85
+0021900580,2020-01-11,OKC,LAL,29.35,3,6,39,LAL,OKC,foul,1,False,False,Schroder P.FOUL (P2.T3) (A.Nagy),,61-85,61,85
+0021900580,2020-01-11,OKC,LAL,29.43,3,6,34,LAL,LAL,fg_miss,78,False,False,,MISS Bradley 17' Floating Jump Shot,61-85,61,85
+0021900580,2020-01-11,OKC,LAL,29.45,3,6,33,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:3 Def:4),61-85,61,85
+0021900580,2020-01-11,OKC,LAL,29.47,3,6,32,LAL,LAL,fg_make,72,False,False,,McGee 1' Putback Layup (6 PTS),61-87,61,87
+0021900580,2020-01-11,OKC,LAL,29.67,3,6,20,OKC,OKC,fg3_make,1,False,False,Gallinari 27' 3PT Jump Shot (16 PTS) (Schroder 4 AST),,64-87,64,87
+0021900580,2020-01-11,OKC,LAL,29.98,3,6,1,LAL,LAL,fg_make,6,False,False,,Kuzma 11' Driving Layup (25 PTS) (Rondo 7 AST),64-89,64,89
+0021900580,2020-01-11,OKC,LAL,29.98,3,6,1,LAL,OKC,foul,2,False,False,Gallinari S.FOUL (P3.T4) (S.Wright),,64-89,64,89
+0021900580,2020-01-11,OKC,LAL,29.98,3,6,1,LAL,LAL,ft_miss,10,False,False,,MISS Kuzma Free Throw 1 of 1,64-89,64,89
+0021900580,2020-01-11,OKC,LAL,30.05,3,5,57,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:4),,64-89,64,89
+0021900580,2020-01-11,OKC,LAL,30.2,3,5,48,OKC,OKC,fg3_make,1,False,False,Muscala 26' 3PT Jump Shot (5 PTS) (Paul 5 AST),,67-89,67,89
+0021900580,2020-01-11,OKC,LAL,30.25,3,5,45,LAL,LAL,tov,1,False,True,,McGee Bad Pass Turnover (P3.T10),67-89,67,89
+0021900580,2020-01-11,OKC,LAL,30.25,3,5,45,LAL,OKC,steal,1,False,True,steal,steal,67-89,67,89
+0021900580,2020-01-11,OKC,LAL,30.28,3,5,43,OKC,OKC,fg_make,5,False,False,Schroder Layup (9 PTS),,69-89,69,89
+0021900580,2020-01-11,OKC,LAL,30.53,3,5,28,LAL,LAL,fg_make,6,False,False,,Kuzma 1' Driving Layup (27 PTS),69-91,69,91
+0021900580,2020-01-11,OKC,LAL,30.83,3,5,10,OKC,OKC,fg_make,6,False,False,Schroder 1' Driving Layup (11 PTS) (Muscala 1 AST),,71-91,71,91
+0021900580,2020-01-11,OKC,LAL,31.03,3,4,58,LAL,LAL,fg_miss,5,False,False,,MISS McGee 2' Layup,71-91,71,91
+0021900580,2020-01-11,OKC,LAL,31.05,3,4,57,OKC,OKC,reb,0,False,False,THUNDER Rebound,,71-91,71,91
+0021900580,2020-01-11,OKC,LAL,31.23,3,4,46,OKC,OKC,fg_make,79,False,False,Paul 10' Pullup Jump Shot (9 PTS),,73-91,73,91
+0021900580,2020-01-11,OKC,LAL,31.23,3,4,46,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.4 Short 0),73-91,73,91
+0021900580,2020-01-11,OKC,LAL,31.48,3,4,31,LAL,LAL,fg_miss,79,False,False,,MISS Kuzma 17' Pullup Jump Shot,73-91,73,91
+0021900580,2020-01-11,OKC,LAL,31.52,3,4,29,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:5),,73-91,73,91
+0021900580,2020-01-11,OKC,LAL,31.63,3,4,22,OKC,LAL,foul,1,False,False,,Caruso P.FOUL (P1.T2) (T.Ford),73-91,73,91
+0021900580,2020-01-11,OKC,LAL,31.9,3,4,6,OKC,OKC,fg3_miss,1,False,False,MISS Gilgeous-Alexander 30' 3PT Jump Shot,,73-91,73,91
+0021900580,2020-01-11,OKC,LAL,31.97,3,4,2,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:5),73-91,73,91
+0021900580,2020-01-11,OKC,LAL,32.27,3,3,44,LAL,LAL,fg3_miss,80,False,False,,MISS Rondo 25' 3PT Step Back Jump Shot,73-91,73,91
+0021900580,2020-01-11,OKC,LAL,32.32,3,3,41,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:2),,73-91,73,91
+0021900580,2020-01-11,OKC,LAL,32.42,3,3,35,OKC,OKC,fg3_make,1,False,False,Gallinari 26' 3PT Jump Shot (19 PTS) (Paul 6 AST),,76-91,76,91
+0021900580,2020-01-11,OKC,LAL,32.63,3,3,22,LAL,LAL,fg3_make,1,False,False,,Daniels 27' 3PT Jump Shot (8 PTS) (Howard 3 AST),76-94,76,94
+0021900580,2020-01-11,OKC,LAL,32.93,3,3,4,OKC,OKC,fg_make,78,False,False,Adams 7' Floating Jump Shot (12 PTS) (Paul 7 AST),,78-94,78,94
+0021900580,2020-01-11,OKC,LAL,33.13,3,2,52,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 3PT Jump Shot,78-94,78,94
+0021900580,2020-01-11,OKC,LAL,33.18,3,2,49,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:2 Def:5),78-94,78,94
+0021900580,2020-01-11,OKC,LAL,33.18,3,2,49,LAL,LAL,fg_make,72,False,False,,Kuzma 1' Putback Layup (29 PTS),78-96,78,96
+0021900580,2020-01-11,OKC,LAL,33.47,3,2,32,OKC,LAL,foul,2,False,False,,Caruso S.FOUL (P2.T3) (A.Nagy),78-96,78,96
+0021900580,2020-01-11,OKC,LAL,33.47,3,2,32,OKC,OKC,ft_make,11,False,False,Gallinari Free Throw 1 of 2 (20 PTS),,79-96,79,96
+0021900580,2020-01-11,OKC,LAL,33.47,3,2,32,OKC,OKC,ft_make,12,False,False,Gallinari Free Throw 2 of 2 (21 PTS),,80-96,80,96
+0021900580,2020-01-11,OKC,LAL,33.77,3,2,14,LAL,LAL,fg_miss,63,False,False,,MISS Cook 15' Fadeaway Jumper,80-96,80,96
+0021900580,2020-01-11,OKC,LAL,33.83,3,2,10,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:2),,80-96,80,96
+0021900580,2020-01-11,OKC,LAL,33.93,3,2,4,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,80-96,80,96
+0021900580,2020-01-11,OKC,LAL,33.98,3,2,1,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:6),80-96,80,96
+0021900580,2020-01-11,OKC,LAL,34.28,3,1,43,LAL,LAL,fg_make,79,False,False,,Daniels 15' Pullup Jump Shot (10 PTS),80-98,80,98
+0021900580,2020-01-11,OKC,LAL,34.65,3,1,21,OKC,OKC,fg_miss,86,False,False,MISS Gallinari 10' Turnaround Fadeaway Shot,,80-98,80,98
+0021900580,2020-01-11,OKC,LAL,34.67,3,1,20,LAL,LAL,reb,0,False,False,,Cook REBOUND (Off:0 Def:1),80-98,80,98
+0021900580,2020-01-11,OKC,LAL,34.73,3,1,16,LAL,OKC,foul,1,False,False,Gallinari P.FOUL (P4.PN) (T.Ford),,80-98,80,98
+0021900580,2020-01-11,OKC,LAL,34.73,3,1,16,LAL,OKC,foul,11,False,False,Gallinari T.FOUL (P4.PN) (T.Ford),,80-98,80,98
+0021900580,2020-01-11,OKC,LAL,34.73,3,1,16,LAL,LAL,ft_make,16,False,False,,Cook Free Throw Technical (9 PTS),80-99,80,99
+0021900580,2020-01-11,OKC,LAL,34.78,3,1,13,LAL,LAL,fg_miss,78,False,False,,MISS Daniels 11' Floating Jump Shot,80-99,80,99
+0021900580,2020-01-11,OKC,LAL,34.82,3,1,11,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:6),,80-99,80,99
+0021900580,2020-01-11,OKC,LAL,35.03,3,0,58,OKC,OKC,tov,2,False,True,Adams Lost Ball Turnover (P1.T5),,80-99,80,99
+0021900580,2020-01-11,OKC,LAL,35.03,3,0,58,OKC,LAL,steal,2,False,True,steal,steal,80-99,80,99
+0021900580,2020-01-11,OKC,LAL,35.3,3,0,42,LAL,LAL,fg3_make,1,False,False,,Caruso 26' 3PT Jump Shot (11 PTS) (Cook 1 AST),80-102,80,102
+0021900580,2020-01-11,OKC,LAL,35.4,3,0,36,OKC,OKC,fg3_miss,79,False,False,MISS Schroder 25' 3PT Pullup Jump Shot,,80-102,80,102
+0021900580,2020-01-11,OKC,LAL,35.45,3,0,33,LAL,LAL,reb,0,False,False,,Daniels REBOUND (Off:0 Def:2),80-102,80,102
+0021900580,2020-01-11,OKC,LAL,35.53,3,0,28,LAL,LAL,fg3_miss,1,False,False,,MISS Kuzma 28' 3PT Jump Shot,80-102,80,102
+0021900580,2020-01-11,OKC,LAL,35.58,3,0,25,OKC,OKC,reb,0,False,False,THUNDER Rebound,,80-102,80,102
+0021900580,2020-01-11,OKC,LAL,35.93,3,0,4,OKC,LAL,foul,2,False,False,,Daniels S.FOUL (P3.T4) (A.Nagy),80-102,80,102
+0021900580,2020-01-11,OKC,LAL,35.93,3,0,4,OKC,OKC,ft_make,11,False,False,Schroder Free Throw 1 of 2 (12 PTS),,81-102,81,102
+0021900580,2020-01-11,OKC,LAL,35.93,3,0,4,OKC,OKC,ft_make,12,False,False,Schroder Free Throw 2 of 2 (13 PTS),,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.0,3,0,0,LAL,LAL,fg_miss,101,False,False,,MISS Rondo 14' Driving Floating Jump Shot,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.0,3,0,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.0,3,0,0,LAL,,period_end,0,False,False,,,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.0,4,12,0,LAL,,period_start,0,False,False,,,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.22,4,11,47,LAL,LAL,fg3_miss,1,False,False,,MISS Daniels 26' 3PT Jump Shot,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.27,4,11,44,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:3),,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.38,4,11,37,OKC,OKC,fg_miss,3,False,False,MISS Adams 3' Hook Shot,,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.42,4,11,35,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:7),82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.57,4,11,26,LAL,LAL,fg3_miss,1,False,False,,MISS Cook 26' 3PT Jump Shot,82-102,82,102
+0021900580,2020-01-11,OKC,LAL,36.65,4,11,21,LAL,LAL,reb,0,False,False,,Daniels REBOUND (Off:1 Def:2),82-104,82,104
+0021900580,2020-01-11,OKC,LAL,36.65,4,11,21,LAL,LAL,fg_make,97,False,False,,Daniels 1' Tip Layup Shot (12 PTS),82-104,82,104
+0021900580,2020-01-11,OKC,LAL,36.92,4,11,5,OKC,OKC,fg_make,79,False,False,Paul 15' Pullup Jump Shot (11 PTS) (Bazley 1 AST),,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.13,4,10,52,LAL,LAL,fg3_miss,1,False,False,,MISS Daniels 29' 3PT Jump Shot,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.15,4,10,51,OKC,OKC,reb,0,False,False,THUNDER Rebound,,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.23,4,10,46,OKC,OKC,fg3_miss,1,False,False,MISS Muscala 25' 3PT Jump Shot,,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.28,4,10,43,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:8),84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.65,4,10,21,LAL,LAL,fg3_miss,80,False,False,,MISS Rondo 27' 3PT Step Back Jump Shot,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.7,4,10,18,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:3),,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.78,4,10,13,OKC,OKC,fg_miss,41,False,False,MISS Diallo 6' Running Layup,,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.8,4,10,12,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:1 Def:0),,84-104,84,104
+0021900580,2020-01-11,OKC,LAL,37.8,4,10,12,OKC,OKC,fg_make,107,False,False,Bazley 1' Tip Dunk Shot (2 PTS),,86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.23,4,9,46,LAL,LAL,tov,1,False,True,,Cook Bad Pass Turnover (P2.T11),86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.23,4,9,46,LAL,OKC,steal,1,False,True,steal,steal,86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.33,4,9,40,OKC,OKC,fg3_miss,80,False,False,MISS Paul 26' 3PT Step Back Jump Shot,,86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.4,4,9,36,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:9),86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.47,4,9,32,LAL,LAL,fg3_miss,1,False,False,,MISS Daniels 26' 3PT Jump Shot,86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.52,4,9,29,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:8),86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.52,4,9,29,LAL,OKC,foul,2,False,False,Schroder S.FOUL (P3.T1) (T.Ford),,86-104,86,104
+0021900580,2020-01-11,OKC,LAL,38.52,4,9,29,LAL,LAL,ft_make,11,False,False,,Howard Free Throw 1 of 2 (5 PTS),86-105,86,105
+0021900580,2020-01-11,OKC,LAL,38.52,4,9,29,LAL,LAL,ft_make,12,False,False,,Howard Free Throw 2 of 2 (6 PTS),86-106,86,106
+0021900580,2020-01-11,OKC,LAL,38.75,4,9,15,OKC,OKC,fg_make,6,False,False,Paul 1' Driving Layup (13 PTS),,88-106,88,106
+0021900580,2020-01-11,OKC,LAL,38.75,4,9,15,OKC,LAL,foul,2,False,False,,Howard S.FOUL (P1.T1) (T.Ford),88-106,88,106
+0021900580,2020-01-11,OKC,LAL,38.75,4,9,15,OKC,LAL,foul,11,False,False,,Howard T.FOUL (P1.T1) (T.Ford),88-106,88,106
+0021900580,2020-01-11,OKC,LAL,38.75,4,9,15,OKC,OKC,ft_make,16,False,False,Paul Free Throw Technical (14 PTS),,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,38.75,4,9,15,OKC,OKC,ft_miss,10,False,False,MISS Paul Free Throw 1 of 1,,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,38.8,4,9,12,LAL,LAL,reb,0,False,False,,Dudley REBOUND (Off:0 Def:1),89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.02,4,8,59,LAL,LAL,fg3_miss,79,True,False,,MISS Cook 26' 3PT Pullup Jump Shot,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.02,4,8,59,LAL,OKC,block,79,True,False,block,block,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.03,4,8,58,LAL,LAL,reb,0,False,False,,Lakers Rebound,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.15,4,8,51,LAL,LAL,fg3_miss,79,False,False,,MISS Rondo 24' 3PT Pullup Jump Shot,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.2,4,8,48,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:1 Def:1),,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.35,4,8,39,OKC,OKC,fg_miss,6,False,False,MISS Schroder 3' Driving Layup,,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.38,4,8,37,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:9),89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.6,4,8,24,LAL,LAL,fg_miss,6,True,False,,MISS Cook 2' Driving Layup,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.6,4,8,24,LAL,OKC,block,6,True,False,block,block,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.63,4,8,22,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:4),,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.7,4,8,18,OKC,OKC,fg_miss,41,False,False,MISS Diallo 3' Running Layup,,89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.72,4,8,17,LAL,LAL,reb,0,False,False,,Daniels REBOUND (Off:1 Def:3),89-106,89,106
+0021900580,2020-01-11,OKC,LAL,39.77,4,8,14,LAL,LAL,fg_make,41,False,False,,Cook 1' Running Layup (11 PTS) (Rondo 8 AST),89-108,89,108
+0021900580,2020-01-11,OKC,LAL,39.77,4,8,14,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 5 Short 0),,89-108,89,108
+0021900580,2020-01-11,OKC,LAL,40.15,4,7,51,OKC,OKC,fg3_miss,1,False,False,MISS Ferguson 3PT Jump Shot,,89-108,89,108
+0021900580,2020-01-11,OKC,LAL,40.18,4,7,49,LAL,LAL,reb,0,False,False,,Daniels REBOUND (Off:1 Def:4),89-108,89,108
+0021900580,2020-01-11,OKC,LAL,40.43,4,7,34,LAL,LAL,fg3_miss,1,False,False,,MISS Dudley 3PT Jump Shot,89-108,89,108
+0021900580,2020-01-11,OKC,LAL,40.48,4,7,31,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:4),,89-108,89,108
+0021900580,2020-01-11,OKC,LAL,40.58,4,7,25,OKC,OKC,fg3_make,1,False,False,Gallinari 26' 3PT Jump Shot (24 PTS) (Paul 8 AST),,92-108,92,108
+0021900580,2020-01-11,OKC,LAL,40.95,4,7,3,LAL,LAL,fg_miss,86,False,False,,MISS Kuzma 16' Turnaround Fadeaway Shot,92-108,92,108
+0021900580,2020-01-11,OKC,LAL,40.97,4,7,2,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:3 Def:9),92-108,92,108
+0021900580,2020-01-11,OKC,LAL,40.97,4,7,2,LAL,LAL,fg_make,97,False,False,,Howard 1' Tip Layup Shot (8 PTS),92-110,92,110
+0021900580,2020-01-11,OKC,LAL,41.13,4,6,52,OKC,LAL,foul,1,False,False,,Dudley P.FOUL (P1.T2) (T.Ford),92-110,92,110
+0021900580,2020-01-11,OKC,LAL,41.28,4,6,43,OKC,LAL,foul,2,False,False,,Dudley S.FOUL (P2.T3) (S.Wright),92-110,92,110
+0021900580,2020-01-11,OKC,LAL,41.28,4,6,43,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (14 PTS),,93-110,93,110
+0021900580,2020-01-11,OKC,LAL,41.28,4,6,43,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (15 PTS),,94-110,94,110
+0021900580,2020-01-11,OKC,LAL,41.57,4,6,26,LAL,LAL,fg_miss,73,False,False,,MISS Rondo 3' Driving Reverse Layup,94-110,94,110
+0021900580,2020-01-11,OKC,LAL,41.6,4,6,24,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:0 Def:5),,94-110,94,110
+0021900580,2020-01-11,OKC,LAL,41.75,4,6,15,OKC,OKC,fg_miss,80,False,False,MISS Gallinari 20' Step Back Jump Shot,,94-110,94,110
+0021900580,2020-01-11,OKC,LAL,41.78,4,6,13,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:2 Def:10),94-110,94,110
+0021900580,2020-01-11,OKC,LAL,41.87,4,6,8,LAL,LAL,fg_make,47,False,False,,Kuzma 9' Turnaround Jump Shot (31 PTS) (Caldwell-Pope 1 AST),94-112,94,112
+0021900580,2020-01-11,OKC,LAL,42.13,4,5,52,OKC,OKC,fg_miss,5,False,False,MISS Gilgeous-Alexander 8' Layup,,94-112,94,112
+0021900580,2020-01-11,OKC,LAL,42.15,4,5,51,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:3 Def:10),94-112,94,112
+0021900580,2020-01-11,OKC,LAL,42.47,4,5,32,LAL,LAL,fg_make,7,False,False,,Howard 1' Dunk (10 PTS) (Bradley 1 AST),94-114,94,114
+0021900580,2020-01-11,OKC,LAL,42.7,4,5,18,OKC,OKC,fg_make,79,False,False,Paul 7' Pullup Jump Shot (16 PTS),,96-114,96,114
+0021900580,2020-01-11,OKC,LAL,43.1,4,4,54,LAL,LAL,fg_make,7,False,False,,Howard Dunk (12 PTS) (Bradley 2 AST),96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.45,4,4,33,OKC,OKC,fg3_miss,1,False,False,MISS Gilgeous-Alexander 26' 3PT Jump Shot,,96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.5,4,4,30,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:3 Def:11),96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.53,4,4,28,LAL,LAL,tov,1,False,True,,Howard Bad Pass Turnover (P2.T12),96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.53,4,4,28,LAL,OKC,steal,1,False,True,steal,steal,96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.58,4,4,25,OKC,OKC,fg3_miss,1,False,False,MISS Paul 25' 3PT Jump Shot,,96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.67,4,4,20,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:1 Def:2),96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.7,4,4,18,LAL,OKC,foul,1,False,False,Ferguson P.FOUL (P2.T2) (T.Ford),,96-116,96,116
+0021900580,2020-01-11,OKC,LAL,43.97,4,4,2,LAL,LAL,fg_miss,1,False,False,,MISS Rondo 22' Jump Shot,96-116,96,116
+0021900580,2020-01-11,OKC,LAL,44.02,4,3,59,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:5),,96-116,96,116
+0021900580,2020-01-11,OKC,LAL,44.13,4,3,52,OKC,OKC,fg_make,79,False,False,Gilgeous-Alexander 15' Pullup Jump Shot (17 PTS),,98-116,98,116
+0021900580,2020-01-11,OKC,LAL,44.45,4,3,33,LAL,LAL,fg3_miss,1,False,False,,MISS Rondo 26' 3PT Jump Shot,98-116,98,116
+0021900580,2020-01-11,OKC,LAL,44.52,4,3,29,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:6),,98-116,98,116
+0021900580,2020-01-11,OKC,LAL,44.62,4,3,23,OKC,OKC,fg_make,41,False,False,Gilgeous-Alexander 2' Running Layup (19 PTS),,100-116,100,116
+0021900580,2020-01-11,OKC,LAL,44.88,4,3,7,LAL,LAL,fg_miss,3,False,False,,MISS Howard 8' Hook Shot,100-116,100,116
+0021900580,2020-01-11,OKC,LAL,44.92,4,3,5,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:7),,100-116,100,116
+0021900580,2020-01-11,OKC,LAL,44.95,4,3,3,OKC,OKC,fg_make,41,False,False,Gilgeous-Alexander 2' Running Layup (21 PTS),,102-116,102,116
+0021900580,2020-01-11,OKC,LAL,44.95,4,3,3,OKC,LAL,foul,2,False,False,,Bradley S.FOUL (P3.T4) (T.Ford),102-116,102,116
+0021900580,2020-01-11,OKC,LAL,44.95,4,3,3,OKC,OKC,ft_make,10,False,False,Gilgeous-Alexander Free Throw 1 of 1 (22 PTS),,103-116,103,116
+0021900580,2020-01-11,OKC,LAL,44.95,4,3,3,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.5 Short 0),103-116,103,116
+0021900580,2020-01-11,OKC,LAL,45.32,4,2,41,LAL,LAL,fg_miss,6,False,False,,MISS Kuzma 8' Driving Layup,103-116,103,116
+0021900580,2020-01-11,OKC,LAL,45.37,4,2,38,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:8),,103-116,103,116
+0021900580,2020-01-11,OKC,LAL,45.38,4,2,37,OKC,LAL,foul,2,False,False,,Caldwell-Pope S.FOUL (P2.PN) (S.Wright),103-116,103,116
+0021900580,2020-01-11,OKC,LAL,45.38,4,2,37,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (23 PTS),,104-116,104,116
+0021900580,2020-01-11,OKC,LAL,45.38,4,2,37,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (24 PTS),,105-116,105,116
+0021900580,2020-01-11,OKC,LAL,45.72,4,2,17,LAL,LAL,fg_make,47,False,False,,Kuzma 8' Turnaround Jump Shot (33 PTS),105-118,105,118
+0021900580,2020-01-11,OKC,LAL,45.95,4,2,3,OKC,OKC,tov,39,False,False,Nader Step Out of Bounds Turnover (P1.T6),,105-118,105,118
+0021900580,2020-01-11,OKC,LAL,46.33,4,1,40,LAL,LAL,fg3_make,79,False,False,,Kuzma 25' 3PT Pullup Jump Shot (36 PTS) (Cook 2 AST),105-121,105,121
+0021900580,2020-01-11,OKC,LAL,46.33,4,1,40,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 6 Short 0),,105-121,105,121
+0021900580,2020-01-11,OKC,LAL,46.57,4,1,26,OKC,OKC,tov,1,False,True,Diallo Bad Pass Turnover (P1.T7),,105-121,105,121
+0021900580,2020-01-11,OKC,LAL,46.57,4,1,26,OKC,LAL,steal,1,False,True,steal,steal,105-121,105,121
+0021900580,2020-01-11,OKC,LAL,46.6,4,1,24,LAL,LAL,fg_make,50,False,False,,Caldwell-Pope 2' Running Dunk (11 PTS) (Cook 3 AST),105-123,105,123
+0021900580,2020-01-11,OKC,LAL,46.8,4,1,12,OKC,OKC,fg_make,6,False,False,Burton 1' Driving Layup (2 PTS) (Patton 1 AST),,107-123,107,123
+0021900580,2020-01-11,OKC,LAL,47.02,4,0,59,LAL,LAL,fg_make,79,False,False,,Cook 15' Pullup Jump Shot (13 PTS),107-125,107,125
+0021900580,2020-01-11,OKC,LAL,47.15,4,0,51,OKC,OKC,fg_miss,79,False,False,MISS Diallo 15' Pullup Jump Shot,,107-125,107,125
+0021900580,2020-01-11,OKC,LAL,47.28,4,0,43,LAL,LAL,reb,0,False,False,,Daniels REBOUND (Off:1 Def:5),107-125,107,125
+0021900580,2020-01-11,OKC,LAL,47.47,4,0,32,LAL,LAL,fg3_miss,1,False,False,,MISS Caldwell-Pope 26' 3PT Jump Shot,107-125,107,125
+0021900580,2020-01-11,OKC,LAL,47.53,4,0,28,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:1 Def:2),,107-125,107,125
+0021900580,2020-01-11,OKC,LAL,47.63,4,0,22,OKC,OKC,fg3_make,1,False,False,Patton 26' 3PT Jump Shot (3 PTS) (Nader 1 AST),,110-125,110,125
+0021900580,2020-01-11,OKC,LAL,48.0,4,0,0,OKC,,period_end,0,False,False,,,110-125,110,125

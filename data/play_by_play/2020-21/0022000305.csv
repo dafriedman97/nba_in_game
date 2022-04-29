@@ -1,0 +1,418 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000305,2021-01-30,GSW,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000305,2021-01-30,GSW,DET,0.0,1,12,0,,GSW,jump_ball,0,False,False,Jump Ball Looney vs. Plumlee: Tip to Green,,0-0,0,0
+0022000305,2021-01-30,GSW,DET,0.28,1,11,43,GSW,GSW,fg3_make,1,False,False,Oubre Jr. 25' 3PT Jump Shot (3 PTS) (Wiggins 1 AST),,3-0,3,0
+0022000305,2021-01-30,GSW,DET,0.62,1,11,23,DET,DET,fg3_miss,1,False,False,,MISS Ellington 3PT Jump Shot,3-0,3,0
+0022000305,2021-01-30,GSW,DET,0.65,1,11,21,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:1),,3-0,3,0
+0022000305,2021-01-30,GSW,DET,0.9,1,11,6,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P1.T1),,3-0,3,0
+0022000305,2021-01-30,GSW,DET,0.9,1,11,6,GSW,DET,steal,1,False,True,steal,steal,3-0,3,0
+0022000305,2021-01-30,GSW,DET,1.07,1,10,56,DET,DET,fg3_make,79,False,False,,Griffin 25' 3PT Pullup Jump Shot (3 PTS) (Plumlee 1 AST),3-3,3,3
+0022000305,2021-01-30,GSW,DET,1.35,1,10,39,GSW,GSW,fg3_make,79,False,False,Curry 26' 3PT Pullup Jump Shot (3 PTS) (Wiggins 2 AST),,6-3,6,3
+0022000305,2021-01-30,GSW,DET,1.82,1,10,11,DET,DET,fg_miss,47,False,False,,MISS Griffin 15' Turnaround Jump Shot,6-3,6,3
+0022000305,2021-01-30,GSW,DET,1.85,1,10,9,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.07,1,9,56,GSW,GSW,tov,39,False,False,Wiggins Step Out of Bounds Turnover (P1.T2),,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.35,1,9,39,DET,DET,fg3_miss,1,False,False,,MISS Griffin 3PT Jump Shot,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.4,1,9,36,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:2),,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.47,1,9,32,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 25' 3PT Jump Shot,,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.55,1,9,27,DET,DET,reb,0,False,False,,Wright REBOUND (Off:0 Def:1),6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.58,1,9,25,DET,DET,fg_miss,41,False,False,,MISS Wright 4' Running Layup,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.65,1,9,21,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:1),,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.68,1,9,19,GSW,GSW,fg_miss,41,True,False,MISS Wiggins 4' Running Layup,,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.68,1,9,19,GSW,DET,block,41,True,False,block,block,6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.72,1,9,17,DET,DET,reb,0,False,False,,Ellington REBOUND (Off:0 Def:1),6-3,6,3
+0022000305,2021-01-30,GSW,DET,2.97,1,9,2,DET,DET,fg_miss,58,False,False,,MISS Griffin 5' Turnaround Hook Shot,6-3,6,3
+0022000305,2021-01-30,GSW,DET,3.0,1,9,0,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:1),,6-3,6,3
+0022000305,2021-01-30,GSW,DET,3.12,1,8,53,GSW,GSW,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,6-3,6,3
+0022000305,2021-01-30,GSW,DET,3.15,1,8,51,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),6-3,6,3
+0022000305,2021-01-30,GSW,DET,3.3,1,8,42,DET,DET,tov,1,False,True,,Grant Bad Pass Turnover (P1.T1),6-3,6,3
+0022000305,2021-01-30,GSW,DET,3.3,1,8,42,DET,GSW,steal,1,False,True,steal,steal,6-3,6,3
+0022000305,2021-01-30,GSW,DET,3.38,1,8,37,GSW,GSW,fg_make,41,False,False,Wiggins 2' Running Layup (2 PTS),,8-3,8,3
+0022000305,2021-01-30,GSW,DET,3.65,1,8,21,DET,DET,fg_miss,79,True,False,,MISS Ellington 22' Pullup Jump Shot,8-3,8,3
+0022000305,2021-01-30,GSW,DET,3.65,1,8,21,DET,GSW,block,79,True,False,block,block,8-3,8,3
+0022000305,2021-01-30,GSW,DET,3.68,1,8,19,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:2),,8-3,8,3
+0022000305,2021-01-30,GSW,DET,3.73,1,8,16,GSW,GSW,fg_make,50,False,False,Green 2' Running Dunk (2 PTS) (Looney 1 AST),,10-3,10,3
+0022000305,2021-01-30,GSW,DET,3.73,1,8,16,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),10-3,10,3
+0022000305,2021-01-30,GSW,DET,4.1,1,7,54,DET,DET,fg_miss,47,False,False,,MISS Griffin 7' Turnaround Jump Shot,10-3,10,3
+0022000305,2021-01-30,GSW,DET,4.15,1,7,51,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,10-3,10,3
+0022000305,2021-01-30,GSW,DET,4.5,1,7,30,GSW,GSW,fg3_make,79,False,False,Wiggins 27' 3PT Pullup Jump Shot (5 PTS),,13-3,13,3
+0022000305,2021-01-30,GSW,DET,4.72,1,7,17,DET,DET,fg3_miss,1,False,False,,MISS Grant 28' 3PT Jump Shot,13-3,13,3
+0022000305,2021-01-30,GSW,DET,4.77,1,7,14,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:1 Def:0),13-3,13,3
+0022000305,2021-01-30,GSW,DET,4.82,1,7,11,DET,DET,fg_make,98,False,False,,Plumlee 5' Cutting Layup Shot (2 PTS) (Ellington 1 AST),13-5,13,5
+0022000305,2021-01-30,GSW,DET,4.98,1,7,1,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 28' 3PT Jump Shot,,13-5,13,5
+0022000305,2021-01-30,GSW,DET,5.05,1,6,57,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:1 Def:1),13-5,13,5
+0022000305,2021-01-30,GSW,DET,5.3,1,6,42,DET,DET,tov,2,False,True,,Griffin Lost Ball Turnover (P1.T2),13-5,13,5
+0022000305,2021-01-30,GSW,DET,5.3,1,6,42,DET,GSW,steal,2,False,True,steal,steal,13-5,13,5
+0022000305,2021-01-30,GSW,DET,5.48,1,6,31,GSW,GSW,fg_make,5,False,False,Wiggins 4' Layup (7 PTS) (Curry 1 AST),,15-5,15,5
+0022000305,2021-01-30,GSW,DET,5.88,1,6,7,DET,GSW,foul,2,False,False,Looney S.FOUL (P1.T1) (E.Malloy),,15-5,15,5
+0022000305,2021-01-30,GSW,DET,5.88,1,6,7,DET,DET,ft_make,11,False,False,,Plumlee Free Throw 1 of 2 (3 PTS),15-6,15,6
+0022000305,2021-01-30,GSW,DET,5.88,1,6,7,DET,GSW,violation,3,False,False,Lane,,15-6,15,6
+0022000305,2021-01-30,GSW,DET,5.88,1,6,7,DET,DET,ft_make,12,False,False,,Plumlee Free Throw 2 of 2 (4 PTS),15-7,15,7
+0022000305,2021-01-30,GSW,DET,6.0,1,6,0,GSW,GSW,fg_make,66,False,False,Curry 16' Jump Bank Shot (5 PTS) (Green 1 AST),,17-7,17,7
+0022000305,2021-01-30,GSW,DET,6.3,1,5,42,DET,DET,fg3_make,80,False,False,,Grant 25' 3PT Step Back Jump Shot (3 PTS),17-10,17,10
+0022000305,2021-01-30,GSW,DET,6.57,1,5,26,GSW,GSW,fg_make,58,False,False,Wiseman 3' Turnaround Hook Shot (2 PTS) (Green 2 AST),,19-10,19,10
+0022000305,2021-01-30,GSW,DET,6.83,1,5,10,DET,DET,fg_miss,58,False,False,,MISS Griffin 17' Turnaround Hook Shot,19-10,19,10
+0022000305,2021-01-30,GSW,DET,6.88,1,5,7,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:1),,19-10,19,10
+0022000305,2021-01-30,GSW,DET,6.93,1,5,4,GSW,GSW,fg_make,41,False,False,Green 5' Running Layup (4 PTS),,21-10,21,10
+0022000305,2021-01-30,GSW,DET,7.13,1,4,52,GSW,DET,foul,4,False,False,,Griffin OFF.Foul (P1) (E.Malloy),21-10,21,10
+0022000305,2021-01-30,GSW,DET,7.13,1,4,52,DET,DET,tov,37,False,False,,Griffin Offensive Foul Turnover (P2.T3),21-10,21,10
+0022000305,2021-01-30,GSW,DET,7.32,1,4,41,GSW,GSW,fg_miss,80,False,False,MISS Wiggins 19' Step Back Jump Shot,,21-10,21,10
+0022000305,2021-01-30,GSW,DET,7.4,1,4,36,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),21-10,21,10
+0022000305,2021-01-30,GSW,DET,7.45,1,4,33,DET,DET,fg_make,41,False,False,,Jackson 5' Running Layup (2 PTS),21-12,21,12
+0022000305,2021-01-30,GSW,DET,7.65,1,4,21,GSW,GSW,fg_make,98,False,False,Wiggins 4' Cutting Layup Shot (9 PTS) (Curry 2 AST),,23-12,23,12
+0022000305,2021-01-30,GSW,DET,7.82,1,4,11,DET,DET,fg_miss,80,False,False,,MISS Rose 14' Step Back Jump Shot,23-12,23,12
+0022000305,2021-01-30,GSW,DET,7.88,1,4,7,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.0,1,4,0,GSW,GSW,fg3_miss,1,False,False,MISS Wiseman 27' 3PT Jump Shot,,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.05,1,3,57,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:1),23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.32,1,3,41,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 27' 3PT Jump Shot,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.33,1,3,40,DET,DET,reb,0,False,False,,Pistons Rebound,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.33,1,3,40,DET,GSW,foul,3,False,False,Wiseman L.B.FOUL (P1.T2) (B.Schwab),,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.47,1,3,32,DET,DET,fg_miss,6,False,False,,MISS Rose 4' Driving Layup,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.5,1,3,30,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:2),,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.75,1,3,15,GSW,GSW,fg_miss,73,True,False,MISS Curry 4' Driving Reverse Layup,,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.75,1,3,15,GSW,DET,block,73,True,False,block,block,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.78,1,3,13,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.83,1,3,10,DET,GSW,foul,1,False,False,Wiggins P.FOUL (P1.T3) (B.Schwab),,23-12,23,12
+0022000305,2021-01-30,GSW,DET,8.98,1,3,1,DET,DET,fg_make,3,False,False,,Stewart 8' Hook Shot (2 PTS) (Rose 1 AST),23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.28,1,2,43,GSW,GSW,fg_miss,79,False,False,MISS Wiggins 19' Pullup Jump Shot,,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.32,1,2,41,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:2),23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.42,1,2,35,DET,DET,tov,45,False,False,,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.42,1,2,35,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 1 Short 0),,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.7,1,2,18,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P1.T3),,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.7,1,2,18,GSW,DET,steal,1,False,True,steal,steal,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.77,1,2,14,DET,DET,fg_miss,41,True,False,,MISS Rose 3' Running Layup,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.77,1,2,14,DET,GSW,block,41,True,False,block,block,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.8,1,2,12,DET,DET,reb,0,False,False,,Pistons Rebound,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.88,1,2,7,DET,DET,fg3_miss,1,False,False,,MISS Bey 27' 3PT Jump Shot,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.93,1,2,4,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:0 Def:1),,23-14,23,14
+0022000305,2021-01-30,GSW,DET,9.97,1,2,2,GSW,GSW,fg3_miss,1,False,False,MISS Lee 27' 3PT Jump Shot,,23-14,23,14
+0022000305,2021-01-30,GSW,DET,10.0,1,2,0,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:3),23-14,23,14
+0022000305,2021-01-30,GSW,DET,10.2,1,1,48,DET,DET,fg_miss,80,False,False,,MISS Rose 18' Step Back Jump Shot,23-14,23,14
+0022000305,2021-01-30,GSW,DET,10.23,1,1,46,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,23-14,23,14
+0022000305,2021-01-30,GSW,DET,10.55,1,1,27,GSW,GSW,fg_miss,6,False,False,MISS Oubre Jr. 5' Driving Layup,,23-14,23,14
+0022000305,2021-01-30,GSW,DET,10.58,1,1,25,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:2),,23-14,23,14
+0022000305,2021-01-30,GSW,DET,10.65,1,1,21,GSW,GSW,fg_make,97,False,False,Oubre Jr. Tip Layup Shot (5 PTS),,25-14,25,14
+0022000305,2021-01-30,GSW,DET,10.9,1,1,6,DET,DET,tov,45,False,False,,Doumbouya Out of Bounds - Bad Pass Turnover Turnover (P1.T5),25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.0,1,1,0,GSW,GSW,fg_miss,101,False,False,MISS Curry 9' Driving Floating Jump Shot,,25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.03,1,0,58,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:2),,25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.08,1,0,55,GSW,GSW,fg_miss,97,False,False,MISS Wiseman Tip Layup Shot,,25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.1,1,0,54,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:4),25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.12,1,0,53,DET,GSW,foul,2,False,False,Lee S.FOUL (P1.T4) (E.Malloy),,25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.12,1,0,53,DET,DET,ft_miss,11,False,False,,MISS Stewart Free Throw 1 of 2,25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.12,1,0,53,DET,DET,reb,1,False,False,,Pistons Rebound,25-14,25,14
+0022000305,2021-01-30,GSW,DET,11.12,1,0,53,DET,DET,ft_make,12,False,False,,Stewart Free Throw 2 of 2 (3 PTS),25-15,25,15
+0022000305,2021-01-30,GSW,DET,11.33,1,0,40,GSW,GSW,fg_make,9,False,False,Oubre Jr. 3' Driving Dunk (7 PTS) (Wiseman 1 AST),,27-15,27,15
+0022000305,2021-01-30,GSW,DET,11.55,1,0,27,DET,DET,fg_make,6,False,False,,Rose 5' Driving Layup (2 PTS),27-17,27,17
+0022000305,2021-01-30,GSW,DET,11.83,1,0,10,GSW,GSW,fg_make,102,False,False,Curry 8' Driving Floating Bank Jump Shot (7 PTS),,29-17,29,17
+0022000305,2021-01-30,GSW,DET,11.97,1,0,2,DET,DET,fg3_miss,1,False,False,,MISS Jackson 27' 3PT Jump Shot,29-17,29,17
+0022000305,2021-01-30,GSW,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,29-17,29,17
+0022000305,2021-01-30,GSW,DET,12.0,1,0,0,DET,,period_end,0,False,False,,,29-17,29,17
+0022000305,2021-01-30,GSW,DET,12.0,2,12,0,DET,,period_start,0,False,False,,,29-17,29,17
+0022000305,2021-01-30,GSW,DET,12.32,2,11,41,DET,DET,fg_miss,98,False,False,,MISS Jackson 7' Cutting Layup Shot,29-17,29,17
+0022000305,2021-01-30,GSW,DET,12.35,2,11,39,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:1),,29-17,29,17
+0022000305,2021-01-30,GSW,DET,12.5,2,11,30,GSW,DET,foul,1,False,False,,Jackson P.FOUL (P1.T1) (K.Cutler),29-17,29,17
+0022000305,2021-01-30,GSW,DET,12.62,2,11,23,GSW,GSW,fg_make,102,False,False,Oubre Jr. 12' Driving Floating Bank Jump Shot (9 PTS) (Wanamaker 1 AST),,31-17,31,17
+0022000305,2021-01-30,GSW,DET,12.88,2,11,7,DET,DET,fg_make,101,False,False,,Rose 15' Driving Floating Jump Shot (4 PTS),31-19,31,19
+0022000305,2021-01-30,GSW,DET,13.13,2,10,52,GSW,GSW,fg3_make,1,False,False,Lee 3PT Jump Shot (3 PTS) (Wanamaker 2 AST),,34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.35,2,10,39,GSW,DET,foul,4,False,False,,Doumbouya OFF.Foul (P1) (B.Schwab),34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.35,2,10,39,DET,DET,tov,37,False,False,,Doumbouya Offensive Foul Turnover (P2.T6),34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.57,2,10,26,GSW,GSW,fg_miss,6,False,False,MISS Paschall 10' Driving Layup,,34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.6,2,10,24,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:1 Def:0),,34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.8,2,10,12,GSW,GSW,fg_miss,86,True,False,MISS Paschall 7' Turnaround Fadeaway Shot,,34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.8,2,10,12,GSW,DET,block,86,True,False,block,block,34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.83,2,10,10,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:0 Def:1),34-19,34,19
+0022000305,2021-01-30,GSW,DET,13.97,2,10,2,DET,DET,fg_miss,78,False,False,,MISS Stewart 7' Floating Jump Shot,34-19,34,19
+0022000305,2021-01-30,GSW,DET,14.0,2,10,0,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:1 Def:1),34-19,34,19
+0022000305,2021-01-30,GSW,DET,14.12,2,9,53,DET,DET,fg_make,97,False,False,,Stewart Tip Layup Shot (5 PTS),34-21,34,21
+0022000305,2021-01-30,GSW,DET,14.27,2,9,44,GSW,GSW,fg_make,79,False,False,Oubre Jr. 12' Pullup Jump Shot (11 PTS),,36-21,36,21
+0022000305,2021-01-30,GSW,DET,14.63,2,9,22,DET,GSW,foul,2,False,False,Lee S.FOUL (P2.T1) (E.Malloy),,36-21,36,21
+0022000305,2021-01-30,GSW,DET,14.63,2,9,22,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (3 PTS),36-22,36,22
+0022000305,2021-01-30,GSW,DET,14.63,2,9,22,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (4 PTS),36-23,36,23
+0022000305,2021-01-30,GSW,DET,14.87,2,9,8,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 27' 3PT Jump Shot,,36-23,36,23
+0022000305,2021-01-30,GSW,DET,14.92,2,9,5,DET,DET,reb,0,False,False,,Pistons Rebound,36-23,36,23
+0022000305,2021-01-30,GSW,DET,15.13,2,8,52,DET,DET,fg_miss,79,False,False,,MISS Rose 16' Pullup Jump Shot,36-23,36,23
+0022000305,2021-01-30,GSW,DET,15.17,2,8,50,DET,DET,reb,0,False,False,,Rose REBOUND (Off:1 Def:0),36-23,36,23
+0022000305,2021-01-30,GSW,DET,15.2,2,8,48,DET,DET,fg_make,72,False,False,,Rose 2' Putback Layup (6 PTS),36-25,36,25
+0022000305,2021-01-30,GSW,DET,15.2,2,8,48,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 2 Short 0),,36-25,36,25
+0022000305,2021-01-30,GSW,DET,15.42,2,8,35,GSW,DET,foul,2,False,False,,Bey S.FOUL (P1.T2) (K.Cutler),36-25,36,25
+0022000305,2021-01-30,GSW,DET,15.42,2,8,35,GSW,GSW,ft_make,13,False,False,Poole Free Throw 1 of 3 (1 PTS),,37-25,37,25
+0022000305,2021-01-30,GSW,DET,15.42,2,8,35,GSW,GSW,ft_make,14,False,False,Poole Free Throw 2 of 3 (2 PTS),,38-25,38,25
+0022000305,2021-01-30,GSW,DET,15.42,2,8,35,GSW,GSW,ft_make,15,False,False,Poole Free Throw 3 of 3 (3 PTS),,39-25,39,25
+0022000305,2021-01-30,GSW,DET,15.65,2,8,21,DET,DET,fg3_make,1,False,False,,Jackson 26' 3PT Jump Shot (7 PTS) (Rose 2 AST),39-28,39,28
+0022000305,2021-01-30,GSW,DET,15.85,2,8,9,GSW,GSW,tov,45,False,False,Wanamaker Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,39-28,39,28
+0022000305,2021-01-30,GSW,DET,16.18,2,7,49,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 25' 3PT Jump Shot,39-28,39,28
+0022000305,2021-01-30,GSW,DET,16.22,2,7,47,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:1 Def:1),,39-28,39,28
+0022000305,2021-01-30,GSW,DET,16.38,2,7,37,GSW,GSW,fg_make,75,False,False,Poole 6' Driving Finger Roll Layup (5 PTS) (Paschall 1 AST),,41-28,41,28
+0022000305,2021-01-30,GSW,DET,16.58,2,7,25,DET,DET,fg3_miss,1,False,False,,MISS Jackson 27' 3PT Jump Shot,41-28,41,28
+0022000305,2021-01-30,GSW,DET,16.62,2,7,23,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:1),41-28,41,28
+0022000305,2021-01-30,GSW,DET,16.67,2,7,20,DET,DET,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,41-28,41,28
+0022000305,2021-01-30,GSW,DET,16.72,2,7,17,GSW,GSW,reb,0,False,False,Wanamaker REBOUND (Off:0 Def:1),,41-28,41,28
+0022000305,2021-01-30,GSW,DET,16.93,2,7,4,GSW,GSW,tov,1,False,True,Paschall Bad Pass Turnover (P1.T5),,41-28,41,28
+0022000305,2021-01-30,GSW,DET,16.93,2,7,4,GSW,DET,steal,1,False,True,steal,steal,41-28,41,28
+0022000305,2021-01-30,GSW,DET,16.98,2,7,1,DET,DET,tov,45,False,False,,Jackson Out of Bounds - Bad Pass Turnover Turnover (P2.T7),41-28,41,28
+0022000305,2021-01-30,GSW,DET,17.17,2,6,50,GSW,GSW,fg_miss,79,False,False,MISS Paschall 17' Pullup Jump Shot,,41-28,41,28
+0022000305,2021-01-30,GSW,DET,17.2,2,6,48,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:1),41-28,41,28
+0022000305,2021-01-30,GSW,DET,17.32,2,6,41,DET,GSW,foul,1,False,False,Poole P.FOUL (P1.T2) (K.Cutler),,41-28,41,28
+0022000305,2021-01-30,GSW,DET,17.48,2,6,31,DET,GSW,foul,2,False,False,Wanamaker S.FOUL (P1.T3) (K.Cutler),,41-28,41,28
+0022000305,2021-01-30,GSW,DET,17.48,2,6,31,DET,DET,ft_make,11,False,False,,Rose Free Throw 1 of 2 (7 PTS),41-29,41,29
+0022000305,2021-01-30,GSW,DET,17.48,2,6,31,DET,DET,ft_make,12,False,False,,Rose Free Throw 2 of 2 (8 PTS),41-30,41,30
+0022000305,2021-01-30,GSW,DET,17.73,2,6,16,GSW,GSW,fg_make,98,False,False,Wanamaker 4' Cutting Layup Shot (2 PTS) (Lee 1 AST),,43-30,43,30
+0022000305,2021-01-30,GSW,DET,18.05,2,5,57,DET,GSW,foul,2,False,False,Poole S.FOUL (P2.T4) (E.Malloy),,43-30,43,30
+0022000305,2021-01-30,GSW,DET,18.05,2,5,57,DET,DET,ft_miss,11,False,False,,MISS Stewart Free Throw 1 of 2,43-30,43,30
+0022000305,2021-01-30,GSW,DET,18.05,2,5,57,DET,DET,reb,1,False,False,,Pistons Rebound,43-30,43,30
+0022000305,2021-01-30,GSW,DET,18.05,2,5,57,DET,DET,ft_make,12,False,False,,Stewart Free Throw 2 of 2 (6 PTS),43-31,43,31
+0022000305,2021-01-30,GSW,DET,18.2,2,5,48,GSW,GSW,fg_make,108,False,False,Wiggins 3' Cutting Dunk Shot (11 PTS) (Green 3 AST),,45-31,45,31
+0022000305,2021-01-30,GSW,DET,18.43,2,5,34,DET,DET,fg_miss,78,False,False,,MISS Wright 7' Floating Jump Shot,45-31,45,31
+0022000305,2021-01-30,GSW,DET,18.47,2,5,32,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:2),,45-31,45,31
+0022000305,2021-01-30,GSW,DET,18.62,2,5,23,GSW,GSW,tov,45,False,False,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,45-31,45,31
+0022000305,2021-01-30,GSW,DET,18.62,2,5,23,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),45-31,45,31
+0022000305,2021-01-30,GSW,DET,18.77,2,5,14,DET,DET,fg3_make,1,False,False,,Grant 26' 3PT Jump Shot (6 PTS) (Wright 1 AST),45-34,45,34
+0022000305,2021-01-30,GSW,DET,18.77,2,5,14,DET,GSW,foul,2,False,False,Wiggins S.FOUL (P2.PN) (B.Schwab),,45-34,45,34
+0022000305,2021-01-30,GSW,DET,18.77,2,5,14,DET,DET,ft_miss,10,False,False,,MISS Grant Free Throw 1 of 1,45-34,45,34
+0022000305,2021-01-30,GSW,DET,18.78,2,5,13,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:2),,45-34,45,34
+0022000305,2021-01-30,GSW,DET,19.08,2,4,55,GSW,DET,foul,2,False,False,,Griffin S.FOUL (P2.T3) (K.Cutler),45-34,45,34
+0022000305,2021-01-30,GSW,DET,19.08,2,4,55,GSW,GSW,ft_make,11,False,False,Poole Free Throw 1 of 2 (6 PTS),,46-34,46,34
+0022000305,2021-01-30,GSW,DET,19.08,2,4,55,GSW,GSW,ft_make,12,False,False,Poole Free Throw 2 of 2 (7 PTS),,47-34,47,34
+0022000305,2021-01-30,GSW,DET,19.28,2,4,43,DET,DET,fg_make,79,False,False,,Grant 21' Pullup Jump Shot (8 PTS),47-36,47,36
+0022000305,2021-01-30,GSW,DET,19.58,2,4,25,GSW,GSW,fg_make,44,False,False,Paschall 4' Reverse Layup (2 PTS) (Curry 3 AST),,49-36,49,36
+0022000305,2021-01-30,GSW,DET,19.82,2,4,11,DET,DET,fg_miss,58,False,False,,MISS Griffin 7' Turnaround Hook Shot,49-36,49,36
+0022000305,2021-01-30,GSW,DET,19.85,2,4,9,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:3),,49-36,49,36
+0022000305,2021-01-30,GSW,DET,19.95,2,4,3,GSW,GSW,fg3_make,1,False,False,Wiggins 26' 3PT Jump Shot (14 PTS) (Paschall 2 AST),,52-36,52,36
+0022000305,2021-01-30,GSW,DET,20.23,2,3,46,DET,GSW,foul,1,False,False,Poole P.FOUL (P3.PN) (E.Malloy),,52-36,52,36
+0022000305,2021-01-30,GSW,DET,20.23,2,3,46,DET,DET,ft_make,11,False,False,,Wright Free Throw 1 of 2 (1 PTS),52-37,52,37
+0022000305,2021-01-30,GSW,DET,20.23,2,3,46,DET,DET,ft_miss,12,False,False,,MISS Wright Free Throw 2 of 2,52-37,52,37
+0022000305,2021-01-30,GSW,DET,20.23,2,3,46,DET,DET,reb,0,False,False,,Pistons Rebound,52-37,52,37
+0022000305,2021-01-30,GSW,DET,20.28,2,3,43,DET,DET,fg3_miss,1,False,False,,MISS Ellington 24' 3PT Jump Shot,52-37,52,37
+0022000305,2021-01-30,GSW,DET,20.33,2,3,40,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:3),,52-37,52,37
+0022000305,2021-01-30,GSW,DET,20.45,2,3,33,GSW,GSW,fg_make,5,False,False,Wiseman 4' Layup (4 PTS) (Oubre Jr. 1 AST),,54-37,54,37
+0022000305,2021-01-30,GSW,DET,20.88,2,3,7,DET,DET,fg_miss,57,False,False,,MISS Plumlee 9' Driving Hook Shot,54-37,54,37
+0022000305,2021-01-30,GSW,DET,20.92,2,3,5,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,54-37,54,37
+0022000305,2021-01-30,GSW,DET,21.0,2,3,0,GSW,GSW,fg_miss,52,False,False,MISS Wiseman 6' Alley Oop Dunk,,54-37,54,37
+0022000305,2021-01-30,GSW,DET,21.03,2,2,58,DET,DET,reb,0,False,False,,Wright REBOUND (Off:0 Def:2),54-37,54,37
+0022000305,2021-01-30,GSW,DET,21.17,2,2,50,DET,DET,fg3_miss,80,False,False,,MISS Ellington 25' 3PT Step Back Jump Shot,54-37,54,37
+0022000305,2021-01-30,GSW,DET,21.2,2,2,48,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:3),,54-37,54,37
+0022000305,2021-01-30,GSW,DET,21.37,2,2,38,GSW,GSW,fg3_make,1,False,False,Curry 24' 3PT Jump Shot (10 PTS) (Wiggins 3 AST),,57-37,57,37
+0022000305,2021-01-30,GSW,DET,21.72,2,2,17,DET,DET,fg_make,6,False,False,,Grant 4' Driving Layup (10 PTS),57-39,57,39
+0022000305,2021-01-30,GSW,DET,21.97,2,2,2,GSW,GSW,fg_make,96,False,False,Wiseman 8' Turnaround Bank Hook Shot (6 PTS) (Curry 4 AST),,59-39,59,39
+0022000305,2021-01-30,GSW,DET,22.27,2,1,44,DET,DET,fg3_miss,1,False,False,,MISS Grant 27' 3PT Jump Shot,59-39,59,39
+0022000305,2021-01-30,GSW,DET,22.32,2,1,41,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:3),,59-39,59,39
+0022000305,2021-01-30,GSW,DET,22.42,2,1,35,GSW,GSW,fg3_make,103,False,False,Curry 29' 3PT Running Pull-Up Jump Shot (13 PTS),,62-39,62,39
+0022000305,2021-01-30,GSW,DET,22.85,2,1,9,DET,DET,fg_make,6,False,False,,Grant 7' Driving Layup (12 PTS) (Griffin 1 AST),62-41,62,41
+0022000305,2021-01-30,GSW,DET,22.97,2,1,2,GSW,GSW,tov,6,False,False,Curry Double Dribble Turnover (P3.T7),,62-41,62,41
+0022000305,2021-01-30,GSW,DET,23.02,2,0,59,DET,GSW,foul,2,False,False,Wiggins S.FOUL (P3.PN) (B.Schwab),,62-41,62,41
+0022000305,2021-01-30,GSW,DET,23.02,2,0,59,DET,DET,ft_make,13,False,False,,Grant Free Throw 1 of 3 (13 PTS),62-42,62,42
+0022000305,2021-01-30,GSW,DET,23.02,2,0,59,DET,DET,ft_make,14,False,False,,Grant Free Throw 2 of 3 (14 PTS),62-43,62,43
+0022000305,2021-01-30,GSW,DET,23.02,2,0,59,DET,DET,ft_miss,15,False,False,,MISS Grant Free Throw 3 of 3,62-43,62,43
+0022000305,2021-01-30,GSW,DET,23.03,2,0,58,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:4),,62-43,62,43
+0022000305,2021-01-30,GSW,DET,23.18,2,0,49,GSW,GSW,tov,2,False,True,Curry Lost Ball Turnover (P4.T8),,62-43,62,43
+0022000305,2021-01-30,GSW,DET,23.18,2,0,49,GSW,DET,steal,2,False,True,steal,steal,62-43,62,43
+0022000305,2021-01-30,GSW,DET,23.25,2,0,45,DET,DET,fg_make,106,False,False,,Wright 4' Running Alley Oop Dunk Shot (3 PTS) (Grant 1 AST),62-45,62,45
+0022000305,2021-01-30,GSW,DET,23.52,2,0,29,GSW,GSW,fg3_miss,1,False,False,MISS Green 27' 3PT Jump Shot,,62-45,62,45
+0022000305,2021-01-30,GSW,DET,23.55,2,0,27,DET,DET,reb,0,False,False,,Wright REBOUND (Off:0 Def:3),62-45,62,45
+0022000305,2021-01-30,GSW,DET,23.83,2,0,10,DET,DET,fg3_miss,1,False,False,,MISS Ellington 3PT Jump Shot,62-45,62,45
+0022000305,2021-01-30,GSW,DET,23.87,2,0,8,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:5),,62-45,62,45
+0022000305,2021-01-30,GSW,DET,24.0,2,0,0,GSW,GSW,fg_make,108,False,False,Oubre Jr. 2' Cutting Dunk Shot (13 PTS) (Wanamaker 3 AST),,64-45,64,45
+0022000305,2021-01-30,GSW,DET,24.0,2,0,0,GSW,,period_end,0,False,False,,,64-45,64,45
+0022000305,2021-01-30,GSW,DET,24.0,3,12,0,GSW,,period_start,0,False,False,,,64-45,64,45
+0022000305,2021-01-30,GSW,DET,24.22,3,11,47,DET,GSW,foul,1,False,False,Oubre Jr. P.FOUL (P1.T1) (E.Malloy),,64-45,64,45
+0022000305,2021-01-30,GSW,DET,24.38,3,11,37,DET,DET,fg3_miss,1,False,False,,MISS Wright 27' 3PT Jump Shot,64-45,64,45
+0022000305,2021-01-30,GSW,DET,24.42,3,11,35,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:4),,64-45,64,45
+0022000305,2021-01-30,GSW,DET,24.62,3,11,23,GSW,GSW,fg_make,6,False,False,Wiggins 3' Driving Layup (16 PTS),,66-45,66,45
+0022000305,2021-01-30,GSW,DET,24.82,3,11,11,DET,DET,fg3_miss,1,False,False,,MISS Wright 25' 3PT Jump Shot,66-45,66,45
+0022000305,2021-01-30,GSW,DET,24.85,3,11,9,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,66-45,66,45
+0022000305,2021-01-30,GSW,DET,24.97,3,11,2,GSW,GSW,fg_miss,6,False,False,MISS Oubre Jr. 5' Driving Layup,,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.0,3,11,0,DET,DET,reb,0,False,False,,Ellington REBOUND (Off:0 Def:2),66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.13,3,10,52,DET,DET,tov,1,False,True,,Grant Bad Pass Turnover (P2.T8),66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.13,3,10,52,DET,GSW,steal,1,False,True,steal,steal,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.18,3,10,49,GSW,DET,foul,2,False,False,,Grant S.FOUL (P1.T1) (E.Malloy),66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.18,3,10,49,GSW,GSW,ft_miss,11,False,False,MISS Oubre Jr. Free Throw 1 of 2,,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.18,3,10,49,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.18,3,10,49,GSW,GSW,ft_miss,12,False,False,MISS Oubre Jr. Free Throw 2 of 2,,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.22,3,10,47,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:2),66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.5,3,10,30,DET,DET,fg3_miss,80,True,False,,MISS Ellington 24' 3PT Step Back Jump Shot,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.5,3,10,30,DET,GSW,block,80,True,False,block,block,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.58,3,10,25,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.77,3,10,14,GSW,GSW,fg3_miss,79,False,False,MISS Wiggins 27' 3PT Pullup Jump Shot,,66-45,66,45
+0022000305,2021-01-30,GSW,DET,25.8,3,10,12,DET,DET,reb,0,False,False,,Grant REBOUND (Off:0 Def:1),66-45,66,45
+0022000305,2021-01-30,GSW,DET,26.02,3,9,59,DET,DET,fg_make,108,False,False,,Plumlee 4' Cutting Dunk Shot (6 PTS) (Griffin 2 AST),66-47,66,47
+0022000305,2021-01-30,GSW,DET,26.35,3,9,39,GSW,GSW,fg_make,101,False,False,Curry 14' Driving Floating Jump Shot (15 PTS),,68-47,68,47
+0022000305,2021-01-30,GSW,DET,26.82,3,9,11,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#9),68-47,68,47
+0022000305,2021-01-30,GSW,DET,27.1,3,8,54,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 27' 3PT Jump Shot,,68-47,68,47
+0022000305,2021-01-30,GSW,DET,27.13,3,8,52,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:1 Def:2),,68-47,68,47
+0022000305,2021-01-30,GSW,DET,27.3,3,8,42,GSW,GSW,fg3_make,1,False,False,Oubre Jr. 3PT Jump Shot (16 PTS) (Looney 2 AST),,71-47,71,47
+0022000305,2021-01-30,GSW,DET,27.72,3,8,17,DET,DET,fg3_miss,1,False,False,,MISS Griffin 26' 3PT Jump Shot,71-47,71,47
+0022000305,2021-01-30,GSW,DET,27.75,3,8,15,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:4),,71-47,71,47
+0022000305,2021-01-30,GSW,DET,27.78,3,8,13,GSW,GSW,fg3_make,2,False,False,Curry 30' 3PT Running Jump Shot (18 PTS) (Green 4 AST),,74-47,74,47
+0022000305,2021-01-30,GSW,DET,27.8,3,8,12,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),74-47,74,47
+0022000305,2021-01-30,GSW,DET,28.02,3,7,59,DET,GSW,foul,2,False,False,Wiggins S.FOUL (P4.T2) (K.Cutler),,74-47,74,47
+0022000305,2021-01-30,GSW,DET,28.02,3,7,59,DET,DET,ft_make,11,False,False,,Grant Free Throw 1 of 2 (15 PTS),74-48,74,48
+0022000305,2021-01-30,GSW,DET,28.02,3,7,59,DET,DET,ft_make,12,False,False,,Grant Free Throw 2 of 2 (16 PTS),74-49,74,49
+0022000305,2021-01-30,GSW,DET,28.23,3,7,46,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P5.T9),,74-49,74,49
+0022000305,2021-01-30,GSW,DET,28.23,3,7,46,GSW,DET,steal,1,False,True,steal,steal,74-49,74,49
+0022000305,2021-01-30,GSW,DET,28.33,3,7,40,DET,DET,fg_miss,78,False,False,,MISS Rose 12' Floating Jump Shot,74-49,74,49
+0022000305,2021-01-30,GSW,DET,28.37,3,7,38,DET,DET,reb,0,False,False,,Rose REBOUND (Off:2 Def:0),74-49,74,49
+0022000305,2021-01-30,GSW,DET,28.63,3,7,22,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#10),74-49,74,49
+0022000305,2021-01-30,GSW,DET,28.77,3,7,14,GSW,GSW,fg3_make,79,False,False,Curry 30' 3PT Pullup Jump Shot (21 PTS),,77-49,77,49
+0022000305,2021-01-30,GSW,DET,28.98,3,7,1,DET,GSW,foul,2,False,False,Curry S.FOUL (P1.T3) (B.Schwab),,77-49,77,49
+0022000305,2021-01-30,GSW,DET,28.98,3,7,1,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (8 PTS),77-50,77,50
+0022000305,2021-01-30,GSW,DET,28.98,3,7,1,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (9 PTS),77-51,77,51
+0022000305,2021-01-30,GSW,DET,29.22,3,6,47,GSW,GSW,fg_make,79,False,False,Oubre Jr. 14' Pullup Jump Shot (18 PTS) (Curry 5 AST),,79-51,79,51
+0022000305,2021-01-30,GSW,DET,29.52,3,6,29,DET,DET,fg3_miss,1,False,False,,MISS Rose 27' 3PT Jump Shot,79-51,79,51
+0022000305,2021-01-30,GSW,DET,29.57,3,6,26,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:0 Def:2),,79-51,79,51
+0022000305,2021-01-30,GSW,DET,29.65,3,6,21,GSW,GSW,fg_make,52,False,False,Wiseman 4' Alley Oop Dunk (8 PTS) (Green 5 AST),,81-51,81,51
+0022000305,2021-01-30,GSW,DET,29.65,3,6,21,GSW,DET,foul,2,False,False,,Stewart S.FOUL (P1.T2) (B.Schwab),81-51,81,51
+0022000305,2021-01-30,GSW,DET,29.65,3,6,21,GSW,GSW,ft_make,10,False,False,Wiseman Free Throw 1 of 1 (9 PTS),,82-51,82,51
+0022000305,2021-01-30,GSW,DET,29.88,3,6,7,DET,GSW,foul,2,False,False,Wiseman S.FOUL (P2.T4) (B.Schwab),,82-51,82,51
+0022000305,2021-01-30,GSW,DET,29.88,3,6,7,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,82-51,82,51
+0022000305,2021-01-30,GSW,DET,29.88,3,6,7,GSW,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (10 PTS),82-52,82,52
+0022000305,2021-01-30,GSW,DET,29.88,3,6,7,DET,DET,ft_miss,12,False,False,,MISS Jackson Free Throw 2 of 2,82-52,82,52
+0022000305,2021-01-30,GSW,DET,29.92,3,6,5,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:6),,82-52,82,52
+0022000305,2021-01-30,GSW,DET,30.17,3,5,50,GSW,GSW,fg_miss,58,False,False,MISS Wiseman 7' Turnaround Hook Shot,,82-52,82,52
+0022000305,2021-01-30,GSW,DET,30.2,3,5,48,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:1 Def:2),82-52,82,52
+0022000305,2021-01-30,GSW,DET,30.42,3,5,35,DET,GSW,foul,1,False,False,Bazemore P.FOUL (P1.PN) (E.Malloy),,82-52,82,52
+0022000305,2021-01-30,GSW,DET,30.42,3,5,35,DET,DET,ft_make,11,False,False,,Griffin Free Throw 1 of 2 (4 PTS),82-53,82,53
+0022000305,2021-01-30,GSW,DET,30.42,3,5,35,DET,DET,ft_make,12,False,False,,Griffin Free Throw 2 of 2 (5 PTS),82-54,82,54
+0022000305,2021-01-30,GSW,DET,30.7,3,5,18,DET,GSW,foul,4,False,False,Oubre Jr. OFF.Foul (P2) (E.Malloy),,82-54,82,54
+0022000305,2021-01-30,GSW,DET,30.7,3,5,18,GSW,GSW,tov,37,False,False,Oubre Jr. Offensive Foul Turnover (P1.T10),,82-54,82,54
+0022000305,2021-01-30,GSW,DET,30.88,3,5,7,DET,DET,fg3_miss,1,False,False,,MISS Grant 26' 3PT Jump Shot,82-54,82,54
+0022000305,2021-01-30,GSW,DET,30.92,3,5,5,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:5),,82-54,82,54
+0022000305,2021-01-30,GSW,DET,31.0,3,5,0,GSW,GSW,fg_miss,1,False,False,MISS Green 18' Jump Shot,,82-54,82,54
+0022000305,2021-01-30,GSW,DET,31.03,3,4,58,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,82-54,82,54
+0022000305,2021-01-30,GSW,DET,31.07,3,4,56,GSW,DET,foul,1,False,False,,Jackson P.FOUL (P2.T3) (B.Schwab),82-54,82,54
+0022000305,2021-01-30,GSW,DET,31.15,3,4,51,GSW,GSW,fg_make,101,False,False,Curry 12' Driving Floating Jump Shot (23 PTS) (Wiseman 2 AST),,84-54,84,54
+0022000305,2021-01-30,GSW,DET,31.47,3,4,32,DET,GSW,foul,1,False,False,Bazemore P.FOUL (P2.PN) (E.Malloy),,84-54,84,54
+0022000305,2021-01-30,GSW,DET,31.47,3,4,32,DET,DET,ft_make,11,False,False,,Grant Free Throw 1 of 2 (17 PTS),84-55,84,55
+0022000305,2021-01-30,GSW,DET,31.47,3,4,32,DET,DET,ft_make,12,False,False,,Grant Free Throw 2 of 2 (18 PTS),84-56,84,56
+0022000305,2021-01-30,GSW,DET,31.72,3,4,17,GSW,GSW,fg3_miss,1,False,False,MISS Curry 24' 3PT Jump Shot,,84-56,84,56
+0022000305,2021-01-30,GSW,DET,31.75,3,4,15,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:2 Def:4),,84-56,84,56
+0022000305,2021-01-30,GSW,DET,31.8,3,4,12,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 3PT Jump Shot,,84-56,84,56
+0022000305,2021-01-30,GSW,DET,31.83,3,4,10,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:5),84-56,84,56
+0022000305,2021-01-30,GSW,DET,31.93,3,4,4,DET,GSW,foul,1,False,False,Poole P.FOUL (P4.PN) (B.Schwab),,84-56,84,56
+0022000305,2021-01-30,GSW,DET,31.93,3,4,4,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (11 PTS),84-57,84,57
+0022000305,2021-01-30,GSW,DET,31.93,3,4,4,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (12 PTS),84-58,84,58
+0022000305,2021-01-30,GSW,DET,32.32,3,3,41,GSW,GSW,fg_make,75,False,False,Curry 6' Driving Finger Roll Layup (25 PTS) (Green 6 AST),,86-58,86,58
+0022000305,2021-01-30,GSW,DET,32.58,3,3,25,DET,DET,fg_miss,6,False,False,,MISS Rose 7' Driving Layup,86-58,86,58
+0022000305,2021-01-30,GSW,DET,32.62,3,3,23,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:4),,86-58,86,58
+0022000305,2021-01-30,GSW,DET,32.73,3,3,16,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P6.T11),,86-58,86,58
+0022000305,2021-01-30,GSW,DET,32.73,3,3,16,GSW,DET,steal,1,False,True,steal,steal,86-58,86,58
+0022000305,2021-01-30,GSW,DET,32.82,3,3,11,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 24' 3PT Jump Shot,86-58,86,58
+0022000305,2021-01-30,GSW,DET,32.85,3,3,9,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:7),,86-58,86,58
+0022000305,2021-01-30,GSW,DET,33.1,3,2,54,GSW,GSW,fg3_make,1,False,False,Lee 3PT Jump Shot (6 PTS) (Curry 6 AST),,89-58,89,58
+0022000305,2021-01-30,GSW,DET,33.45,3,2,33,DET,DET,fg_make,6,False,False,,Jackson 2' Driving Layup (14 PTS),89-60,89,60
+0022000305,2021-01-30,GSW,DET,33.75,3,2,15,GSW,GSW,fg_miss,58,False,False,MISS Wiseman 7' Turnaround Hook Shot,,89-60,89,60
+0022000305,2021-01-30,GSW,DET,33.78,3,2,13,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:2),89-60,89,60
+0022000305,2021-01-30,GSW,DET,33.88,3,2,7,DET,DET,fg_make,7,False,False,,Stewart Dunk (8 PTS) (Jackson 1 AST),89-62,89,62
+0022000305,2021-01-30,GSW,DET,33.88,3,2,7,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,89-62,89,62
+0022000305,2021-01-30,GSW,DET,34.1,3,1,54,GSW,GSW,fg3_make,80,False,False,Curry 26' 3PT Step Back Jump Shot (28 PTS),,92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.48,3,1,31,DET,DET,tov,1,False,True,,Mykhailiuk Bad Pass Turnover (P1.T11),92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.48,3,1,31,DET,GSW,steal,1,False,True,steal,steal,92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.58,3,1,25,GSW,GSW,fg_miss,101,False,False,MISS Curry 6' Driving Floating Jump Shot,,92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.62,3,1,23,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:2 Def:7),,92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.65,3,1,21,GSW,GSW,fg_miss,87,False,False,MISS Wiseman Putback Dunk,,92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.68,3,1,19,DET,DET,reb,0,False,False,,Wright REBOUND (Off:0 Def:4),92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.75,3,1,15,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 28' 3PT Jump Shot,92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.78,3,1,13,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:5),,92-62,92,62
+0022000305,2021-01-30,GSW,DET,34.87,3,1,8,GSW,GSW,fg_make,5,False,False,Wiseman 4' Layup (11 PTS) (Curry 7 AST),,94-62,94,62
+0022000305,2021-01-30,GSW,DET,35.1,3,0,54,DET,DET,fg3_make,1,False,False,,Wright 26' 3PT Jump Shot (6 PTS) (Mykhailiuk 1 AST),94-65,94,65
+0022000305,2021-01-30,GSW,DET,35.32,3,0,41,GSW,GSW,fg_miss,1,False,False,MISS Wiseman 21' Jump Shot,,94-65,94,65
+0022000305,2021-01-30,GSW,DET,35.33,3,0,40,DET,DET,reb,0,False,False,,Pistons Rebound,94-65,94,65
+0022000305,2021-01-30,GSW,DET,35.5,3,0,30,DET,DET,fg3_make,1,False,False,,Mykhailiuk 27' 3PT Jump Shot (3 PTS) (Wright 2 AST),94-68,94,68
+0022000305,2021-01-30,GSW,DET,35.83,3,0,10,GSW,GSW,fg_miss,73,False,False,MISS Curry 4' Driving Reverse Layup,,94-68,94,68
+0022000305,2021-01-30,GSW,DET,35.88,3,0,7,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:3),94-68,94,68
+0022000305,2021-01-30,GSW,DET,35.92,3,0,5,GSW,DET,foul,4,False,False,,Stewart OFF.Foul (P2) (B.Schwab),94-68,94,68
+0022000305,2021-01-30,GSW,DET,35.92,3,0,5,DET,DET,tov,37,False,False,,Stewart Offensive Foul Turnover (P1.T12),94-68,94,68
+0022000305,2021-01-30,GSW,DET,35.97,3,0,2,GSW,DET,foul,28,False,False,,Wright Personal Take Foul (P1.T4) (K.Cutler),94-68,94,68
+0022000305,2021-01-30,GSW,DET,35.98,3,0,1,GSW,GSW,fg3_miss,79,False,False,MISS Green 33' 3PT Pullup Jump Shot,,94-68,94,68
+0022000305,2021-01-30,GSW,DET,36.0,3,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,94-68,94,68
+0022000305,2021-01-30,GSW,DET,36.0,3,0,0,GSW,,period_end,0,False,False,,,94-68,94,68
+0022000305,2021-01-30,GSW,DET,36.0,4,12,0,GSW,,period_start,0,False,False,,,94-68,94,68
+0022000305,2021-01-30,GSW,DET,36.22,4,11,47,GSW,GSW,fg3_make,1,False,False,Poole 28' 3PT Jump Shot (10 PTS) (Wanamaker 4 AST),,97-68,97,68
+0022000305,2021-01-30,GSW,DET,36.65,4,11,21,DET,GSW,foul,2,False,False,Wanamaker S.FOUL (P2.T1) (B.Schwab),,97-68,97,68
+0022000305,2021-01-30,GSW,DET,36.65,4,11,21,DET,DET,ft_miss,11,False,False,,MISS Wright Free Throw 1 of 2,97-68,97,68
+0022000305,2021-01-30,GSW,DET,36.65,4,11,21,DET,DET,reb,1,False,False,,Pistons Rebound,97-68,97,68
+0022000305,2021-01-30,GSW,DET,36.65,4,11,21,DET,DET,ft_make,12,False,False,,Wright Free Throw 2 of 2 (7 PTS),97-69,97,69
+0022000305,2021-01-30,GSW,DET,36.93,4,11,4,GSW,GSW,fg3_make,79,False,False,Wanamaker 28' 3PT Pullup Jump Shot (5 PTS),,100-69,100,69
+0022000305,2021-01-30,GSW,DET,37.07,4,10,56,GSW,DET,foul,4,False,False,,Doumbouya OFF.Foul (P2) (B.Schwab),100-69,100,69
+0022000305,2021-01-30,GSW,DET,37.07,4,10,56,DET,DET,tov,37,False,False,,Doumbouya Offensive Foul Turnover (P3.T13),100-69,100,69
+0022000305,2021-01-30,GSW,DET,37.28,4,10,43,GSW,GSW,tov,4,False,False,Poole Traveling Turnover (P1.T12),,100-69,100,69
+0022000305,2021-01-30,GSW,DET,37.65,4,10,21,DET,DET,fg_make,80,False,False,,Okafor 14' Step Back Jump Shot (2 PTS),100-71,100,71
+0022000305,2021-01-30,GSW,DET,37.92,4,10,5,GSW,DET,foul,1,False,False,,Doumbouya P.FOUL (P3.T1) (E.Malloy),100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.0,4,10,0,GSW,GSW,fg_miss,6,False,False,MISS Wiggins 8' Driving Layup,,100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.03,4,9,58,DET,DET,reb,0,False,False,,Wright REBOUND (Off:0 Def:5),100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.12,4,9,53,DET,DET,fg3_miss,1,False,False,,MISS Mykhailiuk 3PT Jump Shot,100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.15,4,9,51,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:5),100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.28,4,9,43,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 26' 3PT Jump Shot,100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.33,4,9,40,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:1 Def:0),100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.47,4,9,32,DET,DET,fg_miss,80,False,False,,MISS Okafor 10' Step Back Jump Shot,100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.5,4,9,30,GSW,GSW,reb,0,False,False,Wanamaker REBOUND (Off:0 Def:2),,100-71,100,71
+0022000305,2021-01-30,GSW,DET,38.77,4,9,14,GSW,GSW,fg3_make,79,False,False,Wiggins 25' 3PT Pullup Jump Shot (19 PTS) (Looney 3 AST),,103-71,103,71
+0022000305,2021-01-30,GSW,DET,39.13,4,8,52,DET,DET,fg_miss,98,True,False,,MISS Mykhailiuk 6' Cutting Layup Shot,103-71,103,71
+0022000305,2021-01-30,GSW,DET,39.13,4,8,52,DET,GSW,block,98,True,False,block,block,103-71,103,71
+0022000305,2021-01-30,GSW,DET,39.17,4,8,50,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:1),,103-71,103,71
+0022000305,2021-01-30,GSW,DET,39.27,4,8,44,GSW,GSW,fg_miss,1,False,False,MISS Wiggins 22' Jump Shot,,103-71,103,71
+0022000305,2021-01-30,GSW,DET,39.3,4,8,42,DET,DET,reb,0,False,False,,Wright REBOUND (Off:0 Def:6),103-71,103,71
+0022000305,2021-01-30,GSW,DET,39.4,4,8,36,DET,DET,fg3_make,1,False,False,,Jackson 25' 3PT Jump Shot (17 PTS) (Wright 3 AST),103-74,103,74
+0022000305,2021-01-30,GSW,DET,39.75,4,8,15,GSW,DET,foul,2,False,False,,Jackson S.FOUL (P3.T2) (K.Cutler),103-74,103,74
+0022000305,2021-01-30,GSW,DET,39.75,4,8,15,GSW,GSW,ft_miss,11,False,False,MISS Wiggins Free Throw 1 of 2,,103-74,103,74
+0022000305,2021-01-30,GSW,DET,39.75,4,8,15,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,103-74,103,74
+0022000305,2021-01-30,GSW,DET,39.75,4,8,15,GSW,GSW,ft_make,12,False,False,Wiggins Free Throw 2 of 2 (20 PTS),,104-74,104,74
+0022000305,2021-01-30,GSW,DET,40.02,4,7,59,DET,DET,fg_make,99,False,False,,Doumbouya 7' Cutting Finger Roll Layup Shot (2 PTS) (Wright 4 AST),104-76,104,76
+0022000305,2021-01-30,GSW,DET,40.22,4,7,47,GSW,GSW,fg_miss,5,True,False,MISS Wiggins 5' Layup,,104-76,104,76
+0022000305,2021-01-30,GSW,DET,40.22,4,7,47,GSW,DET,block,5,True,False,block,block,104-76,104,76
+0022000305,2021-01-30,GSW,DET,40.27,4,7,44,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:1 Def:3),,104-76,104,76
+0022000305,2021-01-30,GSW,DET,40.35,4,7,39,GSW,GSW,fg_make,6,False,False,Looney 7' Driving Layup (2 PTS) (Wanamaker 5 AST),,106-76,106,76
+0022000305,2021-01-30,GSW,DET,40.45,4,7,33,DET,GSW,foul,1,False,False,Lee P.FOUL (P3.T2) (K.Cutler),,106-76,106,76
+0022000305,2021-01-30,GSW,DET,40.62,4,7,23,DET,DET,fg3_miss,1,False,False,,MISS Bey 26' 3PT Jump Shot,106-76,106,76
+0022000305,2021-01-30,GSW,DET,40.65,4,7,21,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,106-76,106,76
+0022000305,2021-01-30,GSW,DET,40.82,4,7,11,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 26' 3PT Jump Shot,,106-76,106,76
+0022000305,2021-01-30,GSW,DET,40.85,4,7,9,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:1 Def:1),106-76,106,76
+0022000305,2021-01-30,GSW,DET,41.03,4,6,58,DET,DET,fg3_miss,1,False,False,,MISS Jackson 24' 3PT Jump Shot,106-76,106,76
+0022000305,2021-01-30,GSW,DET,41.07,4,6,56,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:1 Def:3),,106-76,106,76
+0022000305,2021-01-30,GSW,DET,41.3,4,6,42,GSW,GSW,fg3_make,1,False,False,Poole 3PT Jump Shot (13 PTS) (Wanamaker 6 AST),,109-76,109,76
+0022000305,2021-01-30,GSW,DET,41.33,4,6,40,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.4 Short 0),109-76,109,76
+0022000305,2021-01-30,GSW,DET,41.6,4,6,24,GSW,DET,foul,26,False,False,,Doumbouya Offensive Charge Foul (P4.T3) (E.Malloy),109-76,109,76
+0022000305,2021-01-30,GSW,DET,41.6,4,6,24,DET,DET,tov,37,False,False,,Doumbouya Offensive Foul Turnover (P4.T14),109-76,109,76
+0022000305,2021-01-30,GSW,DET,41.9,4,6,6,GSW,GSW,fg_make,44,False,False,Looney 3' Reverse Layup (4 PTS) (Poole 1 AST),,111-76,111,76
+0022000305,2021-01-30,GSW,DET,42.17,4,5,50,DET,DET,fg_make,79,False,False,,Jackson 18' Pullup Jump Shot (2 PTS) (Doumbouya 1 AST),111-78,111,78
+0022000305,2021-01-30,GSW,DET,42.5,4,5,30,GSW,GSW,fg3_miss,1,False,False,MISS Poole 27' 3PT Jump Shot,,111-78,111,78
+0022000305,2021-01-30,GSW,DET,42.53,4,5,28,DET,DET,reb,0,False,False,,McGruder REBOUND (Off:0 Def:1),111-78,111,78
+0022000305,2021-01-30,GSW,DET,42.82,4,5,11,DET,DET,fg3_make,1,False,False,,McGruder 25' 3PT Jump Shot (3 PTS) (Doumbouya 2 AST),111-81,111,81
+0022000305,2021-01-30,GSW,DET,43.17,4,4,50,GSW,GSW,fg3_miss,79,False,False,MISS Bazemore 26' 3PT Pullup Jump Shot,,111-81,111,81
+0022000305,2021-01-30,GSW,DET,43.2,4,4,48,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:2),111-81,111,81
+0022000305,2021-01-30,GSW,DET,43.38,4,4,37,DET,DET,fg_make,101,False,False,,McGruder 10' Driving Floating Jump Shot (5 PTS),111-83,111,83
+0022000305,2021-01-30,GSW,DET,43.6,4,4,24,DET,GSW,foul,4,False,False,Lee OFF.Foul (P4) (K.Cutler),,111-83,111,83
+0022000305,2021-01-30,GSW,DET,43.6,4,4,24,GSW,GSW,tov,37,False,False,Lee Offensive Foul Turnover (P1.T13),,111-83,111,83
+0022000305,2021-01-30,GSW,DET,43.95,4,4,3,DET,DET,fg_make,80,False,False,,Bey 10' Step Back Jump Shot (2 PTS),111-85,111,85
+0022000305,2021-01-30,GSW,DET,44.42,4,3,35,GSW,GSW,fg_make,79,False,False,Wanamaker 23' Pullup Jump Shot (7 PTS) (Looney 4 AST),,113-85,113,85
+0022000305,2021-01-30,GSW,DET,44.68,4,3,19,DET,DET,tov,2,False,True,,McGruder Lost Ball Turnover (P1.T15),113-85,113,85
+0022000305,2021-01-30,GSW,DET,44.68,4,3,19,DET,GSW,steal,2,False,True,steal,steal,113-85,113,85
+0022000305,2021-01-30,GSW,DET,44.83,4,3,10,GSW,GSW,fg3_miss,1,False,False,MISS Mulder 26' 3PT Jump Shot,,113-85,113,85
+0022000305,2021-01-30,GSW,DET,44.87,4,3,8,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:3),113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.07,4,2,56,DET,DET,fg3_miss,1,False,False,,MISS Okafor 26' 3PT Jump Shot,113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.1,4,2,54,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:0 Def:3),,113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.38,4,2,37,GSW,GSW,fg3_miss,1,False,False,MISS Bazemore 26' 3PT Jump Shot,,113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.43,4,2,34,DET,DET,reb,0,False,False,,Bey REBOUND (Off:0 Def:4),113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.67,4,2,20,DET,DET,fg_miss,98,True,False,,MISS Jackson 8' Cutting Layup Shot,113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.67,4,2,20,DET,GSW,block,98,True,False,block,block,113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.7,4,2,18,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:1 Def:4),,113-85,113,85
+0022000305,2021-01-30,GSW,DET,45.8,4,2,12,GSW,GSW,fg3_make,1,False,False,Poole 3PT Jump Shot (16 PTS) (Wanamaker 7 AST),,116-85,116,85
+0022000305,2021-01-30,GSW,DET,45.82,4,2,11,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.5 Short 0),116-85,116,85
+0022000305,2021-01-30,GSW,DET,46.05,4,1,57,DET,GSW,foul,2,False,False,Bazemore S.FOUL (P3.T3) (E.Malloy),,116-85,116,85
+0022000305,2021-01-30,GSW,DET,46.05,4,1,57,DET,DET,ft_miss,11,False,False,,MISS Doumbouya Free Throw 1 of 2,116-85,116,85
+0022000305,2021-01-30,GSW,DET,46.05,4,1,57,DET,DET,reb,1,False,False,,Pistons Rebound,116-85,116,85
+0022000305,2021-01-30,GSW,DET,46.05,4,1,57,DET,DET,ft_make,12,False,False,,Doumbouya Free Throw 2 of 2 (3 PTS),116-86,116,86
+0022000305,2021-01-30,GSW,DET,46.25,4,1,45,GSW,GSW,fg3_miss,1,False,False,MISS Poole 25' 3PT Jump Shot,,116-86,116,86
+0022000305,2021-01-30,GSW,DET,46.28,4,1,43,DET,DET,reb,0,False,False,,McGruder REBOUND (Off:0 Def:2),116-86,116,86
+0022000305,2021-01-30,GSW,DET,46.53,4,1,28,DET,DET,fg_make,98,False,False,,Doumbouya 7' Cutting Layup Shot (5 PTS) (Bey 1 AST),116-88,116,88
+0022000305,2021-01-30,GSW,DET,46.75,4,1,15,GSW,GSW,fg3_miss,1,False,False,MISS Poole 3PT Jump Shot,,116-88,116,88
+0022000305,2021-01-30,GSW,DET,46.78,4,1,13,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:1 Def:2),116-88,116,88
+0022000305,2021-01-30,GSW,DET,46.9,4,1,6,DET,DET,fg3_miss,79,False,False,,MISS Bey 27' 3PT Pullup Jump Shot,116-88,116,88
+0022000305,2021-01-30,GSW,DET,46.93,4,1,4,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:0 Def:4),,116-88,116,88
+0022000305,2021-01-30,GSW,DET,47.05,4,0,57,GSW,GSW,tov,1,False,True,Bazemore Bad Pass Turnover (P1.T14),,116-88,116,88
+0022000305,2021-01-30,GSW,DET,47.05,4,0,57,GSW,DET,steal,1,False,True,steal,steal,116-88,116,88
+0022000305,2021-01-30,GSW,DET,47.13,4,0,52,DET,DET,fg3_make,1,False,False,,McGruder 24' 3PT Jump Shot (8 PTS) (Jackson 1 AST),116-91,116,91
+0022000305,2021-01-30,GSW,DET,47.45,4,0,33,GSW,GSW,fg_miss,6,False,False,MISS Poole 3' Driving Layup,,116-91,116,91
+0022000305,2021-01-30,GSW,DET,47.5,4,0,30,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:2 Def:4),,116-91,116,91
+0022000305,2021-01-30,GSW,DET,47.5,4,0,30,GSW,GSW,fg_make,72,False,False,Looney Putback Layup (6 PTS),,118-91,118,91
+0022000305,2021-01-30,GSW,DET,47.68,4,0,19,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P1.T16),118-91,118,91
+0022000305,2021-01-30,GSW,DET,47.68,4,0,19,DET,GSW,steal,1,False,True,steal,steal,118-91,118,91
+0022000305,2021-01-30,GSW,DET,48.0,4,0,0,DET,,period_end,0,False,False,,,118-91,118,91

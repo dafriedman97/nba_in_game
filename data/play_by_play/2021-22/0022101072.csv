@@ -1,0 +1,398 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101072,2022-03-21,CLE,LAL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101072,2022-03-21,CLE,LAL,0.0,1,12,0,,CLE,jump_ball,0,False,False,Jump Ball Mobley vs. Howard: Tip to Reaves,,0-0,0,0
+0022101072,2022-03-21,CLE,LAL,0.28,1,11,43,LAL,LAL,fg_make,86,False,False,,James 15' Turnaround Fadeaway (2 PTS) (Westbrook 1 AST),0-2,0,2
+0022101072,2022-03-21,CLE,LAL,0.72,1,11,17,CLE,CLE,tov,2,False,True,Stevens Lost Ball Turnover (P1.T1),,0-2,0,2
+0022101072,2022-03-21,CLE,LAL,0.72,1,11,17,CLE,LAL,steal,2,False,True,steal,steal,0-2,0,2
+0022101072,2022-03-21,CLE,LAL,0.78,1,11,13,LAL,LAL,fg_make,41,False,False,,Reaves Running Layup (2 PTS) (Westbrook 2 AST),0-4,0,4
+0022101072,2022-03-21,CLE,LAL,0.98,1,11,1,CLE,CLE,fg_miss,73,False,False,MISS Garland 2' Driving Reverse Layup,,0-4,0,4
+0022101072,2022-03-21,CLE,LAL,1.02,1,10,59,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:0 Def:1),0-4,0,4
+0022101072,2022-03-21,CLE,LAL,1.15,1,10,51,LAL,LAL,fg_make,1,False,False,,Reaves 12' Jump Shot (4 PTS) (James 1 AST),0-6,0,6
+0022101072,2022-03-21,CLE,LAL,1.37,1,10,38,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 27' 3PT Jump Shot,,0-6,0,6
+0022101072,2022-03-21,CLE,LAL,1.42,1,10,35,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:1 Def:0),,0-6,0,6
+0022101072,2022-03-21,CLE,LAL,1.42,1,10,35,CLE,LAL,foul,1,False,False,,Howard P.FOUL (P1.T1) (T.Washington),0-6,0,6
+0022101072,2022-03-21,CLE,LAL,1.53,1,10,28,CLE,CLE,fg_make,108,False,False,Mobley 1' Cutting Dunk Shot (2 PTS) (Garland 1 AST),,2-6,2,6
+0022101072,2022-03-21,CLE,LAL,1.78,1,10,13,LAL,LAL,fg_miss,73,False,False,,MISS James 2' Driving Reverse Layup,2-6,2,6
+0022101072,2022-03-21,CLE,LAL,1.83,1,10,10,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:1),,2-6,2,6
+0022101072,2022-03-21,CLE,LAL,1.9,1,10,6,CLE,CLE,fg3_make,80,False,False,Garland 28' 3PT Step Back Jump Shot (3 PTS),,5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.07,1,9,56,LAL,LAL,fg3_miss,80,False,False,,MISS James 25' 3PT Step Back Jump Shot,5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.13,1,9,52,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:1 Def:1),5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.18,1,9,49,LAL,LAL,fg_miss,1,False,False,,MISS Reaves 15' Jump Shot,5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.22,1,9,47,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:2),,5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.28,1,9,43,CLE,CLE,fg3_miss,79,False,False,MISS Garland 30' 3PT Pullup Jump Shot,,5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.35,1,9,39,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:1),5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.43,1,9,34,LAL,LAL,fg_miss,5,False,False,,MISS James 4' Layup,5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.45,1,9,33,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:3),,5-6,5,6
+0022101072,2022-03-21,CLE,LAL,2.53,1,9,28,CLE,CLE,fg_make,108,False,False,Stevens 2' Cutting Dunk Shot (2 PTS) (Garland 2 AST),,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,2.92,1,9,5,LAL,LAL,fg_miss,79,False,False,,MISS Westbrook 19' Pullup Jump Shot,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,2.97,1,9,2,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:1 Def:1),,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.08,1,8,55,CLE,CLE,fg_miss,79,False,False,MISS Mobley 20' Pullup Jump Shot,,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.13,1,8,52,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:0 Def:1),7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.47,1,8,32,LAL,LAL,fg_miss,58,False,False,,MISS Howard 5' Turnaround Hook Shot,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.5,1,8,30,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:1 Def:2),,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.68,1,8,19,CLE,CLE,fg_miss,58,False,False,MISS Mobley 6' Turnaround Hook Shot,,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.72,1,8,17,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:0 Def:2),7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.8,1,8,12,LAL,LAL,tov,2,False,True,,James Lost Ball Turnover (P1.T1),7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.8,1,8,12,LAL,CLE,steal,2,False,True,steal,steal,7-6,7,6
+0022101072,2022-03-21,CLE,LAL,3.88,1,8,7,CLE,CLE,fg_make,52,False,False,Mobley 1' Alley Oop Dunk (4 PTS) (Garland 3 AST),,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,3.88,1,8,7,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.18,1,7,49,LAL,LAL,fg_miss,3,False,False,,MISS Reaves 4' Hook Shot,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.22,1,7,47,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:1),,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.32,1,7,41,CLE,CLE,fg_miss,6,True,False,MISS Garland Driving Layup,,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.32,1,7,41,CLE,LAL,block,6,True,False,block,block,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.37,1,7,38,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:0 Def:3),9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.43,1,7,34,LAL,CLE,foul,2,False,False,Markkanen S.FOUL (P1.T1) (S.Wall),,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.43,1,7,34,LAL,LAL,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.43,1,7,34,LAL,LAL,reb,1,False,False,,Lakers Rebound,9-6,9,6
+0022101072,2022-03-21,CLE,LAL,4.43,1,7,34,LAL,LAL,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (1 PTS),9-7,9,7
+0022101072,2022-03-21,CLE,LAL,4.72,1,7,17,CLE,CLE,fg3_make,1,False,False,Markkanen 29' 3PT Jump Shot (3 PTS) (Okoro 1 AST),,12-7,12,7
+0022101072,2022-03-21,CLE,LAL,5.07,1,6,56,LAL,LAL,fg_make,98,False,False,,Howard 2' Cutting Layup Shot (2 PTS) (Reaves 1 AST),12-9,12,9
+0022101072,2022-03-21,CLE,LAL,5.22,1,6,47,CLE,CLE,fg_make,6,False,False,Garland 2' Driving Layup (5 PTS),,14-9,14,9
+0022101072,2022-03-21,CLE,LAL,5.37,1,6,38,LAL,LAL,fg3_miss,1,False,False,,MISS Westbrook 3PT Jump Shot,14-9,14,9
+0022101072,2022-03-21,CLE,LAL,5.42,1,6,35,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:1),,14-9,14,9
+0022101072,2022-03-21,CLE,LAL,5.5,1,6,30,CLE,CLE,fg_make,101,False,False,Stevens 6' Driving Floating Jump Shot (4 PTS),,16-9,16,9
+0022101072,2022-03-21,CLE,LAL,5.5,1,6,30,CLE,LAL,foul,2,False,False,,Monk S.FOUL (P1.T2) (S.Wall),16-9,16,9
+0022101072,2022-03-21,CLE,LAL,5.5,1,6,30,CLE,CLE,ft_miss,10,False,False,MISS Stevens Free Throw 1 of 1,,16-9,16,9
+0022101072,2022-03-21,CLE,LAL,5.53,1,6,28,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:0 Def:4),16-9,16,9
+0022101072,2022-03-21,CLE,LAL,5.6,1,6,24,LAL,LAL,tov,2,False,True,,Westbrook Lost Ball Turnover (P1.T2),16-9,16,9
+0022101072,2022-03-21,CLE,LAL,5.6,1,6,24,LAL,CLE,steal,2,False,True,steal,steal,16-9,16,9
+0022101072,2022-03-21,CLE,LAL,5.6,1,6,24,CLE,LAL,foul,2,False,False,,Westbrook S.FOUL (P1.T3) (J.Williams),16-9,16,9
+0022101072,2022-03-21,CLE,LAL,5.6,1,6,24,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (6 PTS),,17-9,17,9
+0022101072,2022-03-21,CLE,LAL,5.6,1,6,24,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (7 PTS),,18-9,18,9
+0022101072,2022-03-21,CLE,LAL,5.83,1,6,10,LAL,LAL,fg_make,108,False,False,,James 1' Cutting Dunk Shot (4 PTS) (Reaves 2 AST),18-11,18,11
+0022101072,2022-03-21,CLE,LAL,6.03,1,5,58,CLE,CLE,fg_make,86,False,False,Stevens 12' Turnaround Fadeaway (6 PTS),,20-11,20,11
+0022101072,2022-03-21,CLE,LAL,6.43,1,5,34,LAL,LAL,fg_miss,6,False,False,,MISS Reaves 2' Driving Layup,20-11,20,11
+0022101072,2022-03-21,CLE,LAL,6.43,1,5,34,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,20-11,20,11
+0022101072,2022-03-21,CLE,LAL,6.6,1,5,24,CLE,CLE,fg3_miss,1,False,False,MISS Love 32' 3PT Jump Shot,,20-11,20,11
+0022101072,2022-03-21,CLE,LAL,6.67,1,5,20,LAL,LAL,reb,0,False,False,,Monk REBOUND (Off:0 Def:1),20-11,20,11
+0022101072,2022-03-21,CLE,LAL,6.82,1,5,11,LAL,LAL,fg_miss,6,False,False,,MISS James 1' Driving Layup,20-11,20,11
+0022101072,2022-03-21,CLE,LAL,6.85,1,5,9,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:4),,20-11,20,11
+0022101072,2022-03-21,CLE,LAL,6.93,1,5,4,CLE,CLE,fg3_make,1,False,False,Okoro 24' 3PT Jump Shot (3 PTS) (Love 1 AST),,23-11,23,11
+0022101072,2022-03-21,CLE,LAL,6.95,1,5,3,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.2 Short 0),23-11,23,11
+0022101072,2022-03-21,CLE,LAL,7.13,1,4,52,LAL,LAL,fg3_make,1,False,False,,Augustin 24' 3PT Jump Shot (3 PTS) (James 2 AST),23-14,23,14
+0022101072,2022-03-21,CLE,LAL,7.43,1,4,34,CLE,CLE,fg_miss,79,False,False,MISS Garland 16' Pullup Jump Shot,,23-14,23,14
+0022101072,2022-03-21,CLE,LAL,7.52,1,4,29,LAL,LAL,reb,0,False,False,,Gabriel REBOUND (Off:0 Def:1),23-14,23,14
+0022101072,2022-03-21,CLE,LAL,7.6,1,4,24,LAL,LAL,fg3_make,1,False,False,,Augustin 25' 3PT Jump Shot (6 PTS) (James 3 AST),23-17,23,17
+0022101072,2022-03-21,CLE,LAL,7.87,1,4,8,CLE,CLE,fg3_make,1,False,False,Love 24' 3PT Jump Shot (3 PTS) (Garland 4 AST),,26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.2,1,3,48,LAL,LAL,fg3_miss,1,False,False,,MISS Gabriel 3PT Jump Shot,26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.22,1,3,47,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:2 Def:1),26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.22,1,3,47,LAL,LAL,fg_miss,97,False,False,,MISS Reaves 1' Tip Layup Shot,26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.25,1,3,45,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:5),,26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.37,1,3,38,CLE,CLE,fg_miss,41,False,False,MISS Stevens Running Layup,,26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.37,1,3,38,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:1),26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.52,1,3,29,LAL,LAL,fg3_miss,1,False,False,,MISS Monk 3PT Jump Shot,26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.58,1,3,25,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:1),,26-17,26,17
+0022101072,2022-03-21,CLE,LAL,8.63,1,3,22,CLE,CLE,fg_make,98,False,False,Markkanen 1' Cutting Layup Shot (5 PTS) (Love 2 AST),,28-17,28,17
+0022101072,2022-03-21,CLE,LAL,8.73,1,3,16,LAL,LAL,fg3_miss,1,False,False,,MISS Gabriel 3PT Jump Shot,28-17,28,17
+0022101072,2022-03-21,CLE,LAL,8.78,1,3,13,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:6),,28-17,28,17
+0022101072,2022-03-21,CLE,LAL,9.0,1,3,0,CLE,CLE,fg3_make,1,False,False,Love 28' 3PT Jump Shot (6 PTS) (LeVert 1 AST),,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.2,1,2,48,LAL,CLE,foul,1,False,False,LeVert P.FOUL (P1.T2) (J.Williams),,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.42,1,2,35,LAL,LAL,fg3_miss,1,False,False,,MISS Anthony 25' 3PT Jump Shot,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.45,1,2,33,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.45,1,2,33,CLE,LAL,foul,1,False,False,,Gabriel P.FOUL (P1.T4) (S.Wall),31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.6,1,2,24,CLE,CLE,fg3_miss,1,False,False,MISS LeVert 26' 3PT Jump Shot,,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.67,1,2,20,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:1),,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.67,1,2,20,CLE,CLE,tov,1,False,False,Love Bad Pass Turnover (P1.T2),,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.82,1,2,11,LAL,LAL,fg3_miss,1,False,False,,MISS Monk 3PT Jump Shot,31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.85,1,2,9,LAL,LAL,reb,0,False,False,,Gabriel REBOUND (Off:1 Def:1),31-17,31,17
+0022101072,2022-03-21,CLE,LAL,9.88,1,2,7,LAL,LAL,fg3_make,1,False,False,,Augustin 29' 3PT Jump Shot (9 PTS) (Anthony 1 AST),31-20,31,20
+0022101072,2022-03-21,CLE,LAL,10.23,1,1,46,CLE,CLE,tov,2,False,True,Mobley Lost Ball Turnover (P1.T3),,31-20,31,20
+0022101072,2022-03-21,CLE,LAL,10.23,1,1,46,CLE,LAL,steal,2,False,True,steal,steal,31-20,31,20
+0022101072,2022-03-21,CLE,LAL,10.3,1,1,42,LAL,LAL,fg_make,50,False,False,,Monk Running Dunk (2 PTS) (Westbrook 3 AST),31-22,31,22
+0022101072,2022-03-21,CLE,LAL,10.32,1,1,41,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,31-22,31,22
+0022101072,2022-03-21,CLE,LAL,10.52,1,1,29,CLE,LAL,foul,2,False,False,,Westbrook S.FOUL (P2.PN) (J.Williams),31-22,31,22
+0022101072,2022-03-21,CLE,LAL,10.52,1,1,29,CLE,CLE,ft_make,11,False,False,LeVert Free Throw 1 of 2 (1 PTS),,32-22,32,22
+0022101072,2022-03-21,CLE,LAL,10.52,1,1,29,CLE,CLE,ft_make,12,False,False,LeVert Free Throw 2 of 2 (2 PTS),,33-22,33,22
+0022101072,2022-03-21,CLE,LAL,10.83,1,1,10,LAL,CLE,foul,2,False,False,LeVert S.FOUL (P2.T3) (S.Wall),,33-22,33,22
+0022101072,2022-03-21,CLE,LAL,10.83,1,1,10,LAL,LAL,ft_make,11,False,False,,Monk Free Throw 1 of 2 (3 PTS),33-23,33,23
+0022101072,2022-03-21,CLE,LAL,10.83,1,1,10,LAL,LAL,ft_make,12,False,False,,Monk Free Throw 2 of 2 (4 PTS),33-24,33,24
+0022101072,2022-03-21,CLE,LAL,11.1,1,0,54,CLE,CLE,tov,1,False,True,Goodwin Bad Pass Turnover (P1.T4),,33-24,33,24
+0022101072,2022-03-21,CLE,LAL,11.1,1,0,54,CLE,LAL,steal,1,False,True,steal,steal,33-24,33,24
+0022101072,2022-03-21,CLE,LAL,11.23,1,0,46,LAL,LAL,fg_make,6,False,False,,Augustin 2' Driving Layup (11 PTS),33-26,33,26
+0022101072,2022-03-21,CLE,LAL,11.35,1,0,39,CLE,LAL,foul,1,False,False,,Monk P.FOUL (P2.PN) (S.Wall),33-26,33,26
+0022101072,2022-03-21,CLE,LAL,11.35,1,0,39,CLE,CLE,ft_make,11,False,False,LeVert Free Throw 1 of 2 (3 PTS),,34-26,34,26
+0022101072,2022-03-21,CLE,LAL,11.35,1,0,39,CLE,CLE,ft_make,12,False,False,LeVert Free Throw 2 of 2 (4 PTS),,35-26,35,26
+0022101072,2022-03-21,CLE,LAL,11.48,1,0,31,LAL,CLE,foul,2,False,False,LeVert S.FOUL (P3.PN) (T.Washington),,35-26,35,26
+0022101072,2022-03-21,CLE,LAL,11.48,1,0,31,LAL,LAL,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (2 PTS),35-27,35,27
+0022101072,2022-03-21,CLE,LAL,11.48,1,0,31,LAL,LAL,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (3 PTS),35-28,35,28
+0022101072,2022-03-21,CLE,LAL,11.93,1,0,4,CLE,CLE,fg3_miss,1,False,False,MISS Love 24' 3PT Jump Shot,,35-28,35,28
+0022101072,2022-03-21,CLE,LAL,11.95,1,0,3,LAL,LAL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:1),35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.0,1,0,0,LAL,LAL,fg3_miss,79,False,False,,MISS Johnson 25' 3PT Pullup Jump Shot,35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.0,1,0,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.0,1,0,0,LAL,,period_end,0,False,False,,,35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.0,2,12,0,LAL,,period_start,0,False,False,,,35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.17,2,11,50,CLE,CLE,fg3_miss,1,False,False,MISS Osman 32' 3PT Jump Shot,,35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.25,2,11,45,LAL,LAL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:2),35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.28,2,11,43,LAL,CLE,foul,2,False,False,Mobley S.FOUL (P1.T1) (J.Williams),,35-28,35,28
+0022101072,2022-03-21,CLE,LAL,12.28,2,11,43,LAL,LAL,ft_make,11,False,False,,James Free Throw 1 of 2 (5 PTS),35-29,35,29
+0022101072,2022-03-21,CLE,LAL,12.28,2,11,43,LAL,LAL,ft_make,12,False,False,,James Free Throw 2 of 2 (6 PTS),35-30,35,30
+0022101072,2022-03-21,CLE,LAL,12.4,2,11,36,CLE,CLE,fg_make,6,False,False,Goodwin 2' Driving Layup (2 PTS),,37-30,37,30
+0022101072,2022-03-21,CLE,LAL,12.4,2,11,36,CLE,LAL,foul,2,False,False,,Bradley S.FOUL (P1.T1) (S.Wall),37-30,37,30
+0022101072,2022-03-21,CLE,LAL,12.4,2,11,36,CLE,CLE,ft_make,10,False,False,Goodwin Free Throw 1 of 1 (3 PTS),,38-30,38,30
+0022101072,2022-03-21,CLE,LAL,12.65,2,11,21,LAL,LAL,fg3_make,1,False,False,,Westbrook 3PT Jump Shot (6 PTS),38-33,38,33
+0022101072,2022-03-21,CLE,LAL,13.02,2,10,59,CLE,CLE,fg_make,80,False,False,Mobley 13' Step Back Jump Shot (6 PTS),,40-33,40,33
+0022101072,2022-03-21,CLE,LAL,13.15,2,10,51,LAL,LAL,fg3_miss,1,False,False,,MISS Anthony 24' 3PT Jump Shot,40-33,40,33
+0022101072,2022-03-21,CLE,LAL,13.18,2,10,49,CLE,CLE,reb,0,False,False,Goodwin REBOUND (Off:0 Def:1),,40-33,40,33
+0022101072,2022-03-21,CLE,LAL,13.3,2,10,42,CLE,CLE,fg_miss,5,True,False,MISS Mobley 1' Layup,,40-33,40,33
+0022101072,2022-03-21,CLE,LAL,13.3,2,10,42,CLE,LAL,block,5,True,False,block,block,40-33,40,33
+0022101072,2022-03-21,CLE,LAL,13.32,2,10,41,LAL,CLE,foul,3,False,False,Mobley L.B.FOUL (P2.T2) (T.Washington),,40-33,40,33
+0022101072,2022-03-21,CLE,LAL,13.32,2,10,41,LAL,LAL,reb,0,False,False,,Lakers Rebound,40-33,40,33
+0022101072,2022-03-21,CLE,LAL,13.58,2,10,25,LAL,LAL,fg_make,63,False,False,,James 8' Fadeaway Jumper (8 PTS),40-35,40,35
+0022101072,2022-03-21,CLE,LAL,13.78,2,10,13,CLE,CLE,fg3_miss,1,False,False,MISS Osman 24' 3PT Jump Shot,,40-35,40,35
+0022101072,2022-03-21,CLE,LAL,13.9,2,10,6,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:2),40-35,40,35
+0022101072,2022-03-21,CLE,LAL,13.93,2,10,4,LAL,CLE,foul,2,False,False,Love S.FOUL (P1.T3) (T.Washington),,40-37,40,37
+0022101072,2022-03-21,CLE,LAL,13.93,2,10,4,LAL,LAL,ft_make,10,False,False,,James Free Throw 1 of 1 (11 PTS),40-38,40,38
+0022101072,2022-03-21,CLE,LAL,13.93,2,10,4,LAL,LAL,fg_make,6,False,False,,James 2' Driving Layup (10 PTS),40-37,40,37
+0022101072,2022-03-21,CLE,LAL,14.1,2,9,54,CLE,CLE,fg3_make,1,False,False,Osman 3PT Jump Shot (3 PTS) (Love 3 AST),,43-38,43,38
+0022101072,2022-03-21,CLE,LAL,14.28,2,9,43,LAL,LAL,fg_make,5,False,False,,Westbrook 4' Layup (8 PTS),43-40,43,40
+0022101072,2022-03-21,CLE,LAL,14.43,2,9,34,CLE,CLE,fg3_miss,1,False,False,MISS Love 32' 3PT Jump Shot,,43-40,43,40
+0022101072,2022-03-21,CLE,LAL,14.52,2,9,29,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:3),43-40,43,40
+0022101072,2022-03-21,CLE,LAL,14.68,2,9,19,LAL,LAL,fg3_miss,1,False,False,,MISS James 3PT Jump Shot,43-40,43,40
+0022101072,2022-03-21,CLE,LAL,14.68,2,9,19,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:2),,43-40,43,40
+0022101072,2022-03-21,CLE,LAL,14.97,2,9,2,CLE,CLE,fg_make,6,False,False,Osman 1' Driving Layup (5 PTS) (Goodwin 1 AST),,45-40,45,40
+0022101072,2022-03-21,CLE,LAL,15.18,2,8,49,LAL,LAL,fg_make,43,False,False,,James 1' Alley Oop Layup (13 PTS) (Westbrook 4 AST),45-42,45,42
+0022101072,2022-03-21,CLE,LAL,15.35,2,8,39,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,45-42,45,42
+0022101072,2022-03-21,CLE,LAL,15.35,2,8,39,LAL,LAL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:3),45-42,45,42
+0022101072,2022-03-21,CLE,LAL,15.5,2,8,30,LAL,LAL,fg_make,6,False,False,,James Driving Layup (15 PTS),45-44,45,44
+0022101072,2022-03-21,CLE,LAL,15.53,2,8,28,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 2 Short 0),,45-44,45,44
+0022101072,2022-03-21,CLE,LAL,15.9,2,8,6,CLE,CLE,fg3_miss,1,False,False,MISS Osman 30' 3PT Jump Shot,,45-44,45,44
+0022101072,2022-03-21,CLE,LAL,15.95,2,8,3,LAL,LAL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:4),45-44,45,44
+0022101072,2022-03-21,CLE,LAL,16.22,2,7,47,LAL,LAL,tov,45,False,False,,Augustin Out of Bounds - Bad Pass Turnover Turnover (P1.T3),45-44,45,44
+0022101072,2022-03-21,CLE,LAL,16.62,2,7,23,CLE,CLE,fg_miss,79,False,False,MISS Stevens 9' Pullup Jump Shot,,45-44,45,44
+0022101072,2022-03-21,CLE,LAL,16.68,2,7,19,LAL,LAL,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),45-44,45,44
+0022101072,2022-03-21,CLE,LAL,16.9,2,7,6,LAL,LAL,fg_make,86,False,False,,Anthony 12' Turnaround Fadeaway (2 PTS),45-46,45,46
+0022101072,2022-03-21,CLE,LAL,17.12,2,6,53,CLE,LAL,foul,1,False,False,,Anthony P.FOUL (P1.T2) (J.Williams),45-46,45,46
+0022101072,2022-03-21,CLE,LAL,17.27,2,6,44,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 31' 3PT Jump Shot,,45-46,45,46
+0022101072,2022-03-21,CLE,LAL,17.32,2,6,41,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:1 Def:2),,45-46,45,46
+0022101072,2022-03-21,CLE,LAL,17.35,2,6,39,CLE,CLE,fg3_make,1,False,False,Garland 30' 3PT Jump Shot (10 PTS) (Stevens 1 AST),,48-46,48,46
+0022101072,2022-03-21,CLE,LAL,17.53,2,6,28,LAL,LAL,fg3_make,1,False,False,,Anthony 3PT Jump Shot (5 PTS) (James 4 AST),48-49,48,49
+0022101072,2022-03-21,CLE,LAL,17.92,2,6,5,CLE,CLE,fg_make,79,False,False,Garland 15' Pullup Jump Shot (12 PTS),,50-49,50,49
+0022101072,2022-03-21,CLE,LAL,17.92,2,6,5,CLE,LAL,foul,2,False,False,,Bradley S.FOUL (P2.T3) (J.Williams),50-49,50,49
+0022101072,2022-03-21,CLE,LAL,17.92,2,6,5,CLE,CLE,ft_make,10,False,False,Garland Free Throw 1 of 1 (13 PTS),,51-49,51,49
+0022101072,2022-03-21,CLE,LAL,18.18,2,5,49,LAL,LAL,tov,45,False,False,,James Out of Bounds - Bad Pass Turnover Turnover (P2.T4),51-49,51,49
+0022101072,2022-03-21,CLE,LAL,18.43,2,5,34,CLE,CLE,fg3_miss,1,False,False,MISS Garland 27' 3PT Jump Shot,,51-49,51,49
+0022101072,2022-03-21,CLE,LAL,18.48,2,5,31,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:1 Def:6),,51-49,51,49
+0022101072,2022-03-21,CLE,LAL,18.55,2,5,27,CLE,CLE,fg3_miss,1,False,False,MISS Garland 25' 3PT Jump Shot,,51-49,51,49
+0022101072,2022-03-21,CLE,LAL,18.58,2,5,25,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:4),51-49,51,49
+0022101072,2022-03-21,CLE,LAL,18.77,2,5,14,LAL,LAL,fg_make,98,False,False,,James 2' Cutting Layup Shot (17 PTS) (Johnson 1 AST),51-51,51,51
+0022101072,2022-03-21,CLE,LAL,18.9,2,5,6,LAL,CLE,foul,26,False,False,Stevens Offensive Charge Foul (P1) (S.Wall),,51-51,51,51
+0022101072,2022-03-21,CLE,LAL,18.9,2,5,6,CLE,CLE,tov,37,False,False,Stevens Offensive Foul Turnover (P2.T5),,51-51,51,51
+0022101072,2022-03-21,CLE,LAL,19.07,2,4,56,LAL,LAL,fg_miss,6,False,False,,MISS Westbrook 5' Driving Layup,51-51,51,51
+0022101072,2022-03-21,CLE,LAL,19.1,2,4,54,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:1),,51-51,51,51
+0022101072,2022-03-21,CLE,LAL,19.17,2,4,50,CLE,CLE,fg3_make,1,False,False,Markkanen 26' 3PT Jump Shot (8 PTS) (Garland 5 AST),,54-51,54,51
+0022101072,2022-03-21,CLE,LAL,19.35,2,4,39,LAL,CLE,foul,1,False,False,Okoro P.FOUL (P1.T4) (J.Williams),,54-51,54,51
+0022101072,2022-03-21,CLE,LAL,19.48,2,4,31,LAL,LAL,fg_miss,101,True,False,,MISS Johnson 6' Driving Floating Jump Shot,54-51,54,51
+0022101072,2022-03-21,CLE,LAL,19.48,2,4,31,LAL,CLE,block,101,True,False,block,block,54-51,54,51
+0022101072,2022-03-21,CLE,LAL,19.48,2,4,31,LAL,LAL,reb,0,False,False,,Lakers Rebound,54-51,54,51
+0022101072,2022-03-21,CLE,LAL,19.52,2,4,29,LAL,LAL,fg3_make,1,False,False,,Augustin 24' 3PT Jump Shot (14 PTS) (Westbrook 5 AST),54-54,54,54
+0022101072,2022-03-21,CLE,LAL,19.78,2,4,13,CLE,LAL,foul,2,False,False,,Reaves S.FOUL (P1.T4) (T.Washington),54-54,54,54
+0022101072,2022-03-21,CLE,LAL,19.78,2,4,13,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (14 PTS),,55-54,55,54
+0022101072,2022-03-21,CLE,LAL,19.78,2,4,13,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (15 PTS),,56-54,56,54
+0022101072,2022-03-21,CLE,LAL,19.98,2,4,1,LAL,LAL,fg_make,6,False,False,,Westbrook 1' Driving Layup (10 PTS),56-56,56,56
+0022101072,2022-03-21,CLE,LAL,20.28,2,3,43,CLE,CLE,fg_make,98,False,False,Stevens 2' Cutting Layup Shot (8 PTS) (Garland 6 AST),,58-56,58,56
+0022101072,2022-03-21,CLE,LAL,20.55,2,3,27,LAL,LAL,fg_miss,98,True,False,,MISS Gabriel 2' Cutting Layup Shot,58-56,58,56
+0022101072,2022-03-21,CLE,LAL,20.55,2,3,27,LAL,CLE,block,98,True,False,block,block,58-56,58,56
+0022101072,2022-03-21,CLE,LAL,20.6,2,3,24,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:2),,58-56,58,56
+0022101072,2022-03-21,CLE,LAL,20.67,2,3,20,CLE,CLE,fg3_miss,1,False,False,MISS Garland 3PT Jump Shot,,58-56,58,56
+0022101072,2022-03-21,CLE,LAL,20.72,2,3,17,LAL,LAL,reb,0,False,False,,Gabriel REBOUND (Off:1 Def:2),58-56,58,56
+0022101072,2022-03-21,CLE,LAL,20.75,2,3,15,LAL,CLE,foul,2,False,False,Okoro S.FOUL (P2.PN) (T.Washington),,58-56,58,56
+0022101072,2022-03-21,CLE,LAL,20.75,2,3,15,LAL,LAL,ft_make,11,False,False,,Reaves Free Throw 1 of 2 (5 PTS),58-57,58,57
+0022101072,2022-03-21,CLE,LAL,20.75,2,3,15,LAL,LAL,ft_make,12,False,False,,Reaves Free Throw 2 of 2 (6 PTS),58-58,58,58
+0022101072,2022-03-21,CLE,LAL,21.05,2,2,57,CLE,CLE,fg_make,1,False,False,Stevens 22' Jump Shot (10 PTS) (Mobley 1 AST),,60-58,60,58
+0022101072,2022-03-21,CLE,LAL,21.32,2,2,41,LAL,CLE,foul,2,False,False,Mobley S.FOUL (P3.PN) (S.Wall),,60-58,60,58
+0022101072,2022-03-21,CLE,LAL,21.32,2,2,41,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.3 Short 0),60-58,60,58
+0022101072,2022-03-21,CLE,LAL,21.32,2,2,41,LAL,LAL,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,60-58,60,58
+0022101072,2022-03-21,CLE,LAL,21.32,2,2,41,LAL,LAL,reb,1,False,False,,Lakers Rebound,60-58,60,58
+0022101072,2022-03-21,CLE,LAL,21.32,2,2,41,LAL,LAL,ft_miss,12,False,False,,MISS Westbrook Free Throw 2 of 2,60-58,60,58
+0022101072,2022-03-21,CLE,LAL,21.37,2,2,38,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:3 Def:1),60-58,60,58
+0022101072,2022-03-21,CLE,LAL,21.47,2,2,32,LAL,LAL,fg_make,108,False,False,,James 1' Cutting Dunk Shot (19 PTS) (Reaves 3 AST),60-60,60,60
+0022101072,2022-03-21,CLE,LAL,21.63,2,2,22,CLE,CLE,tov,4,False,False,Love Traveling Turnover (P2.T6),,60-60,60,60
+0022101072,2022-03-21,CLE,LAL,21.78,2,2,13,LAL,LAL,fg_make,5,False,False,,James 1' Layup (21 PTS) (Westbrook 6 AST),60-62,60,62
+0022101072,2022-03-21,CLE,LAL,21.98,2,2,1,CLE,CLE,fg_miss,80,False,False,MISS Garland 16' Step Back Jump Shot,,60-62,60,62
+0022101072,2022-03-21,CLE,LAL,22.02,2,1,59,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:2),60-62,60,62
+0022101072,2022-03-21,CLE,LAL,22.15,2,1,51,LAL,LAL,fg_make,6,False,False,,Reaves 1' Driving Layup (8 PTS),60-64,60,64
+0022101072,2022-03-21,CLE,LAL,22.42,2,1,35,CLE,CLE,fg3_miss,1,False,False,MISS Love 24' 3PT Jump Shot,,60-64,60,64
+0022101072,2022-03-21,CLE,LAL,22.47,2,1,32,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:3),60-64,60,64
+0022101072,2022-03-21,CLE,LAL,22.53,2,1,28,LAL,LAL,fg3_make,1,False,False,,Augustin 28' 3PT Jump Shot (17 PTS) (Westbrook 7 AST),60-67,60,67
+0022101072,2022-03-21,CLE,LAL,22.93,2,1,4,CLE,CLE,fg_miss,79,False,False,MISS Stevens 10' Pullup Jump Shot,,60-67,60,67
+0022101072,2022-03-21,CLE,LAL,22.98,2,1,1,LAL,LAL,reb,0,False,False,,Gabriel REBOUND (Off:1 Def:3),60-67,60,67
+0022101072,2022-03-21,CLE,LAL,23.18,2,0,49,LAL,LAL,tov,1,False,True,,Augustin Bad Pass Turnover (P2.T5),60-67,60,67
+0022101072,2022-03-21,CLE,LAL,23.18,2,0,49,LAL,CLE,steal,1,False,True,steal,steal,60-67,60,67
+0022101072,2022-03-21,CLE,LAL,23.27,2,0,44,CLE,CLE,fg_make,41,False,False,Garland 1' Running Layup (17 PTS) (Love 4 AST),,62-67,62,67
+0022101072,2022-03-21,CLE,LAL,23.62,2,0,23,LAL,LAL,fg3_miss,1,False,False,,MISS Westbrook 3PT Jump Shot,62-67,62,67
+0022101072,2022-03-21,CLE,LAL,23.67,2,0,20,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:2),,62-67,62,67
+0022101072,2022-03-21,CLE,LAL,24.0,2,0,0,CLE,CLE,fg3_miss,79,False,False,MISS Garland 37' 3PT Pullup Jump Shot,,62-67,62,67
+0022101072,2022-03-21,CLE,LAL,24.0,2,0,0,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,62-67,62,67
+0022101072,2022-03-21,CLE,LAL,24.0,2,0,0,CLE,,period_end,0,False,False,,,62-67,62,67
+0022101072,2022-03-21,CLE,LAL,24.0,3,12,0,CLE,,period_start,0,False,False,,,62-67,62,67
+0022101072,2022-03-21,CLE,LAL,24.33,3,11,40,CLE,CLE,fg_make,52,False,False,Mobley Alley Oop Dunk (8 PTS) (Garland 7 AST),,64-67,64,67
+0022101072,2022-03-21,CLE,LAL,24.57,3,11,26,LAL,LAL,fg_make,5,False,False,,Howard 2' Layup (4 PTS) (James 5 AST),64-69,64,69
+0022101072,2022-03-21,CLE,LAL,24.72,3,11,17,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 27' 3PT Jump Shot,,64-69,64,69
+0022101072,2022-03-21,CLE,LAL,24.73,3,11,16,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:4),64-69,64,69
+0022101072,2022-03-21,CLE,LAL,24.98,3,11,1,LAL,CLE,foul,1,False,False,Garland P.FOUL (P1.T1) (J.Williams),,64-69,64,69
+0022101072,2022-03-21,CLE,LAL,25.02,3,10,59,LAL,LAL,fg3_make,1,False,False,,Reaves 32' 3PT Jump Shot (11 PTS) (Westbrook 8 AST),64-72,64,72
+0022101072,2022-03-21,CLE,LAL,25.27,3,10,44,CLE,CLE,fg3_make,1,False,False,Okoro 26' 3PT Jump Shot (6 PTS) (Mobley 2 AST),,67-72,67,72
+0022101072,2022-03-21,CLE,LAL,25.47,3,10,32,LAL,LAL,fg_make,63,False,False,,Westbrook 14' Fadeaway Jumper (12 PTS),67-74,67,74
+0022101072,2022-03-21,CLE,LAL,25.87,3,10,8,CLE,CLE,fg_make,98,False,False,Markkanen Cutting Layup Shot (10 PTS) (Garland 8 AST),,69-74,69,74
+0022101072,2022-03-21,CLE,LAL,26.18,3,9,49,LAL,LAL,fg_make,5,False,False,,Gabriel 2' Layup (2 PTS) (James 6 AST),69-76,69,76
+0022101072,2022-03-21,CLE,LAL,26.4,3,9,36,CLE,CLE,fg_make,6,False,False,Mobley 1' Driving Layup (10 PTS) (Garland 9 AST),,71-76,71,76
+0022101072,2022-03-21,CLE,LAL,26.87,3,9,8,LAL,LAL,fg_miss,79,False,False,,MISS Gabriel 18' Pullup Jump Shot,71-76,71,76
+0022101072,2022-03-21,CLE,LAL,26.9,3,9,6,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:1 Def:3),,71-76,71,76
+0022101072,2022-03-21,CLE,LAL,26.98,3,9,1,CLE,CLE,fg3_make,1,False,False,Markkanen 25' 3PT Jump Shot (13 PTS) (Garland 10 AST),,74-76,74,76
+0022101072,2022-03-21,CLE,LAL,27.35,3,8,39,LAL,LAL,fg_make,63,False,False,,Westbrook 15' Fadeaway Jumper (14 PTS),74-78,74,78
+0022101072,2022-03-21,CLE,LAL,27.47,3,8,32,CLE,CLE,fg_miss,5,False,False,MISS Stevens 3' Layup,,74-78,74,78
+0022101072,2022-03-21,CLE,LAL,27.5,3,8,30,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:5),74-78,74,78
+0022101072,2022-03-21,CLE,LAL,27.52,3,8,29,LAL,CLE,foul,1,False,False,Stevens P.FOUL (P2.T2) (T.Washington),,74-78,74,78
+0022101072,2022-03-21,CLE,LAL,27.78,3,8,13,LAL,LAL,fg3_miss,1,False,False,,MISS Gabriel 3PT Jump Shot,74-78,74,78
+0022101072,2022-03-21,CLE,LAL,27.85,3,8,9,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:4),74-78,74,78
+0022101072,2022-03-21,CLE,LAL,27.85,3,8,9,LAL,LAL,tov,45,False,False,,Howard Out of Bounds - Bad Pass Turnover Turnover (P1.T6),74-78,74,78
+0022101072,2022-03-21,CLE,LAL,28.03,3,7,58,CLE,CLE,fg_make,6,False,False,Garland 1' Driving Layup (19 PTS),,76-78,76,78
+0022101072,2022-03-21,CLE,LAL,28.37,3,7,38,LAL,LAL,fg_make,108,False,False,,Gabriel 1' Cutting Dunk Shot (4 PTS) (Reaves 4 AST),76-80,76,80
+0022101072,2022-03-21,CLE,LAL,28.47,3,7,32,CLE,CLE,tov,1,False,True,Garland Bad Pass Turnover (P1.T7),,76-80,76,80
+0022101072,2022-03-21,CLE,LAL,28.47,3,7,32,CLE,LAL,steal,1,False,True,steal,steal,76-80,76,80
+0022101072,2022-03-21,CLE,LAL,28.53,3,7,28,LAL,LAL,tov,45,False,False,,James Out of Bounds - Bad Pass Turnover Turnover (P3.T7),76-80,76,80
+0022101072,2022-03-21,CLE,LAL,28.72,3,7,17,CLE,CLE,fg_miss,78,False,False,MISS Mobley 8' Floating Jump Shot,,76-80,76,80
+0022101072,2022-03-21,CLE,LAL,28.72,3,7,17,LAL,LAL,reb,0,False,False,,Lakers Rebound,76-80,76,80
+0022101072,2022-03-21,CLE,LAL,28.72,3,7,17,LAL,CLE,foul,3,False,False,Mobley L.B.FOUL (P4.T3) (T.Washington),,76-80,76,80
+0022101072,2022-03-21,CLE,LAL,29.07,3,6,56,LAL,LAL,fg_miss,86,False,False,,MISS James 16' Turnaround Fadeaway Shot,76-80,76,80
+0022101072,2022-03-21,CLE,LAL,29.12,3,6,53,CLE,CLE,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,76-80,76,80
+0022101072,2022-03-21,CLE,LAL,29.23,3,6,46,CLE,CLE,fg_make,52,False,False,Brown 1' Alley Oop Dunk (2 PTS) (Garland 11 AST),,78-80,78,80
+0022101072,2022-03-21,CLE,LAL,29.23,3,6,46,CLE,LAL,foul,2,False,False,,Gabriel S.FOUL (P2.T1) (T.Washington),78-80,78,80
+0022101072,2022-03-21,CLE,LAL,29.23,3,6,46,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 3 Short 0),,78-80,78,80
+0022101072,2022-03-21,CLE,LAL,29.23,3,6,46,CLE,CLE,ft_miss,10,False,False,MISS Brown Free Throw 1 of 1,,78-80,78,80
+0022101072,2022-03-21,CLE,LAL,29.27,3,6,44,LAL,LAL,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:5),78-80,78,80
+0022101072,2022-03-21,CLE,LAL,29.38,3,6,37,LAL,LAL,fg_make,9,False,False,,Monk 1' Driving Dunk (6 PTS) (James 7 AST),78-82,78,82
+0022101072,2022-03-21,CLE,LAL,29.75,3,6,15,CLE,CLE,fg_miss,58,False,False,MISS Garland 4' Turnaround Hook Shot,,78-82,78,82
+0022101072,2022-03-21,CLE,LAL,29.78,3,6,13,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:6),78-82,78,82
+0022101072,2022-03-21,CLE,LAL,29.87,3,6,8,LAL,LAL,fg3_miss,1,False,False,,MISS Westbrook 24' 3PT Jump Shot,78-82,78,82
+0022101072,2022-03-21,CLE,LAL,29.92,3,6,5,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:1 Def:7),,78-82,78,82
+0022101072,2022-03-21,CLE,LAL,30.2,3,5,48,CLE,CLE,fg_make,79,False,False,Garland 16' Pullup Jump Shot (21 PTS),,80-82,80,82
+0022101072,2022-03-21,CLE,LAL,30.58,3,5,25,LAL,LAL,fg3_make,1,False,False,,Westbrook 24' 3PT Jump Shot (17 PTS) (James 8 AST),80-85,80,85
+0022101072,2022-03-21,CLE,LAL,30.77,3,5,14,CLE,LAL,foul,1,False,False,,Westbrook P.FOUL (P3.T2) (S.Wall),80-85,80,85
+0022101072,2022-03-21,CLE,LAL,30.93,3,5,4,CLE,CLE,fg_make,80,False,False,Garland 13' Step Back Jump Shot (23 PTS),,82-85,82,85
+0022101072,2022-03-21,CLE,LAL,31.18,3,4,49,LAL,LAL,fg3_make,1,False,False,,Augustin 24' 3PT Jump Shot (20 PTS) (Monk 1 AST),82-88,82,88
+0022101072,2022-03-21,CLE,LAL,31.55,3,4,27,CLE,CLE,fg_make,102,False,False,Garland 5' Driving Floating Bank Jump Shot (25 PTS),,84-88,84,88
+0022101072,2022-03-21,CLE,LAL,31.73,3,4,16,LAL,LAL,fg_miss,102,False,False,,MISS Reaves 9' Driving Floating Bank Jump Shot,84-88,84,88
+0022101072,2022-03-21,CLE,LAL,31.77,3,4,14,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:1 Def:8),,84-88,84,88
+0022101072,2022-03-21,CLE,LAL,31.82,3,4,11,CLE,CLE,fg_make,108,False,False,Stevens 1' Cutting Dunk Shot (12 PTS) (Garland 12 AST),,86-88,86,88
+0022101072,2022-03-21,CLE,LAL,31.82,3,4,11,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.4 Short 0),86-88,86,88
+0022101072,2022-03-21,CLE,LAL,32.08,3,3,55,LAL,LAL,fg_make,6,False,False,,Monk 2' Driving Layup (8 PTS),86-90,86,90
+0022101072,2022-03-21,CLE,LAL,32.45,3,3,33,CLE,CLE,fg_make,79,False,False,LeVert 7' Pullup Jump Shot (6 PTS) (Garland 13 AST),,88-90,88,90
+0022101072,2022-03-21,CLE,LAL,32.65,3,3,21,LAL,LAL,fg3_miss,79,False,False,,MISS James 29' 3PT Pullup Jump Shot,88-90,88,90
+0022101072,2022-03-21,CLE,LAL,32.7,3,3,18,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:0 Def:1),,88-90,88,90
+0022101072,2022-03-21,CLE,LAL,33.0,3,3,0,CLE,CLE,fg_miss,102,False,False,MISS Garland 5' Driving Floating Bank Jump Shot,,88-90,88,90
+0022101072,2022-03-21,CLE,LAL,33.03,3,2,58,LAL,LAL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:5),88-90,88,90
+0022101072,2022-03-21,CLE,LAL,33.12,3,2,53,LAL,LAL,fg_make,6,False,False,,James 2' Driving Layup (23 PTS),88-92,88,92
+0022101072,2022-03-21,CLE,LAL,33.43,3,2,34,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,88-92,88,92
+0022101072,2022-03-21,CLE,LAL,33.47,3,2,32,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:7),88-92,88,92
+0022101072,2022-03-21,CLE,LAL,33.55,3,2,27,LAL,LAL,fg_make,6,False,False,,James 1' Driving Layup (25 PTS),88-94,88,94
+0022101072,2022-03-21,CLE,LAL,33.88,3,2,7,CLE,CLE,fg3_make,1,False,False,LeVert 3PT Jump Shot (9 PTS) (Garland 14 AST),,91-94,91,94
+0022101072,2022-03-21,CLE,LAL,34.18,3,1,49,LAL,LAL,fg3_miss,1,False,False,,MISS James 32' 3PT Jump Shot,91-94,91,94
+0022101072,2022-03-21,CLE,LAL,34.2,3,1,48,LAL,LAL,reb,0,False,False,,Reaves REBOUND (Off:4 Def:1),91-94,91,94
+0022101072,2022-03-21,CLE,LAL,34.2,3,1,48,LAL,CLE,foul,1,False,False,Garland P.FOUL (P2.T4) (S.Wall),,91-94,91,94
+0022101072,2022-03-21,CLE,LAL,34.32,3,1,41,LAL,LAL,fg_make,63,False,False,,Monk 6' Fadeaway Jumper (10 PTS) (Westbrook 9 AST),91-96,91,96
+0022101072,2022-03-21,CLE,LAL,34.52,3,1,29,CLE,CLE,fg_make,101,False,False,LeVert 4' Driving Floating Jump Shot (11 PTS) (Garland 15 AST),,93-96,93,96
+0022101072,2022-03-21,CLE,LAL,34.7,3,1,18,CLE,LAL,foul,4,False,False,,Anthony OFF.Foul (P2) (T.Washington),93-96,93,96
+0022101072,2022-03-21,CLE,LAL,34.7,3,1,18,LAL,LAL,tov,37,False,False,,Anthony Offensive Foul Turnover (P1.T8),93-96,93,96
+0022101072,2022-03-21,CLE,LAL,35.0,3,1,0,CLE,CLE,tov,2,False,True,LeVert Lost Ball Turnover (P1.T8),,93-96,93,96
+0022101072,2022-03-21,CLE,LAL,35.0,3,1,0,CLE,LAL,steal,2,False,True,steal,steal,93-96,93,96
+0022101072,2022-03-21,CLE,LAL,35.1,3,0,54,LAL,LAL,fg_miss,52,False,False,,MISS Monk 2' Alley Oop Dunk,93-96,93,96
+0022101072,2022-03-21,CLE,LAL,35.13,3,0,52,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:1 Def:3),,93-96,93,96
+0022101072,2022-03-21,CLE,LAL,35.33,3,0,40,CLE,CLE,fg3_miss,1,False,False,MISS Osman 26' 3PT Jump Shot,,93-96,93,96
+0022101072,2022-03-21,CLE,LAL,35.33,3,0,40,CLE,CLE,reb,0,False,False,Love REBOUND (Off:2 Def:2),,93-96,93,96
+0022101072,2022-03-21,CLE,LAL,35.33,3,0,40,CLE,CLE,fg_make,72,False,False,Love Putback Layup (8 PTS),,95-96,95,96
+0022101072,2022-03-21,CLE,LAL,35.57,3,0,26,LAL,LAL,fg_miss,79,False,False,,MISS Westbrook 20' Pullup Jump Shot,95-96,95,96
+0022101072,2022-03-21,CLE,LAL,35.63,3,0,22,CLE,CLE,reb,0,False,False,Love REBOUND (Off:2 Def:3),,95-96,95,96
+0022101072,2022-03-21,CLE,LAL,35.9,3,0,6,CLE,CLE,fg_miss,6,False,False,MISS Garland 1' Driving Layup,,95-96,95,96
+0022101072,2022-03-21,CLE,LAL,35.92,3,0,5,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:2 Def:3),,95-96,95,96
+0022101072,2022-03-21,CLE,LAL,35.92,3,0,5,CLE,CLE,fg_make,97,False,False,Stevens Tip Layup Shot (14 PTS),,97-96,97,96
+0022101072,2022-03-21,CLE,LAL,35.98,3,0,1,LAL,LAL,fg3_miss,79,False,False,,MISS Monk 27' 3PT Pullup Jump Shot,97-96,97,96
+0022101072,2022-03-21,CLE,LAL,35.98,3,0,1,CLE,CLE,reb,0,False,False,Love REBOUND (Off:2 Def:4),,97-96,97,96
+0022101072,2022-03-21,CLE,LAL,36.0,3,0,0,CLE,,period_end,0,False,False,,,97-96,97,96
+0022101072,2022-03-21,CLE,LAL,36.0,4,12,0,CLE,,period_start,0,False,False,,,97-96,97,96
+0022101072,2022-03-21,CLE,LAL,36.35,4,11,39,LAL,LAL,fg_make,1,False,False,,Johnson 13' Jump Shot (2 PTS) (James 9 AST),97-98,97,98
+0022101072,2022-03-21,CLE,LAL,36.7,4,11,18,CLE,CLE,fg3_miss,80,False,False,MISS LeVert 27' 3PT Step Back Jump Shot,,97-98,97,98
+0022101072,2022-03-21,CLE,LAL,36.78,4,11,13,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:3 Def:3),,97-98,97,98
+0022101072,2022-03-21,CLE,LAL,36.8,4,11,12,CLE,CLE,fg3_miss,1,False,False,MISS Osman 25' 3PT Jump Shot,,97-98,97,98
+0022101072,2022-03-21,CLE,LAL,36.85,4,11,9,LAL,LAL,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),97-98,97,98
+0022101072,2022-03-21,CLE,LAL,36.85,4,11,9,LAL,LAL,fg_make,98,False,False,,James Cutting Layup Shot (27 PTS) (Monk 2 AST),97-100,97,100
+0022101072,2022-03-21,CLE,LAL,36.85,4,11,9,LAL,CLE,foul,2,False,False,Osman S.FOUL (P1.T1) (T.Washington),,97-100,97,100
+0022101072,2022-03-21,CLE,LAL,36.85,4,11,9,LAL,LAL,ft_make,10,False,False,,James Free Throw 1 of 1 (28 PTS),97-101,97,101
+0022101072,2022-03-21,CLE,LAL,37.13,4,10,52,CLE,CLE,fg3_miss,79,False,False,MISS Garland 29' 3PT Pullup Jump Shot,,97-101,97,101
+0022101072,2022-03-21,CLE,LAL,37.2,4,10,48,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:8),97-101,97,101
+0022101072,2022-03-21,CLE,LAL,37.25,4,10,45,LAL,LAL,fg_make,50,False,False,,Monk 1' Running Dunk (12 PTS) (James 10 AST),97-103,97,103
+0022101072,2022-03-21,CLE,LAL,37.73,4,10,16,CLE,CLE,fg_make,98,False,False,Stevens 1' Cutting Layup Shot (16 PTS) (Garland 16 AST),,99-103,99,103
+0022101072,2022-03-21,CLE,LAL,38.15,4,9,51,LAL,LAL,fg3_make,1,False,False,,Johnson 27' 3PT Jump Shot (5 PTS) (Westbrook 10 AST),99-106,99,106
+0022101072,2022-03-21,CLE,LAL,38.33,4,9,40,CLE,CLE,fg3_miss,1,False,False,MISS Love 27' 3PT Jump Shot,,99-106,99,106
+0022101072,2022-03-21,CLE,LAL,38.4,4,9,36,LAL,LAL,reb,0,False,False,,Monk REBOUND (Off:0 Def:2),99-106,99,106
+0022101072,2022-03-21,CLE,LAL,38.53,4,9,28,LAL,LAL,fg_make,63,False,False,,James 14' Fadeaway Jumper (30 PTS),99-108,99,108
+0022101072,2022-03-21,CLE,LAL,38.55,4,9,27,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 4 Short 0),,99-108,99,108
+0022101072,2022-03-21,CLE,LAL,38.75,4,9,15,CLE,LAL,foul,1,False,False,,Johnson P.FOUL (P1.T1) (S.Wall),99-108,99,108
+0022101072,2022-03-21,CLE,LAL,39.02,4,8,59,CLE,CLE,fg3_miss,1,False,False,MISS Mobley 25' 3PT Jump Shot,,99-108,99,108
+0022101072,2022-03-21,CLE,LAL,39.05,4,8,57,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:9),99-108,99,108
+0022101072,2022-03-21,CLE,LAL,39.37,4,8,38,LAL,LAL,fg3_miss,1,False,False,,MISS Westbrook 3PT Jump Shot,99-108,99,108
+0022101072,2022-03-21,CLE,LAL,39.42,4,8,35,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:1 Def:4),,99-108,99,108
+0022101072,2022-03-21,CLE,LAL,39.52,4,8,29,CLE,CLE,fg3_make,1,False,False,Okoro 3PT Jump Shot (9 PTS) (LeVert 2 AST),,102-108,102,108
+0022101072,2022-03-21,CLE,LAL,39.85,4,8,9,LAL,LAL,fg_make,105,False,False,,Westbrook 14' Turnaround Fadeaway Bank Jump Shot (19 PTS),102-110,102,110
+0022101072,2022-03-21,CLE,LAL,39.85,4,8,9,LAL,CLE,foul,2,False,False,LeVert S.FOUL (P4.T2) (T.Washington),,102-110,102,110
+0022101072,2022-03-21,CLE,LAL,39.85,4,8,9,LAL,LAL,ft_make,10,False,False,,Westbrook Free Throw 1 of 1 (20 PTS),102-111,102,111
+0022101072,2022-03-21,CLE,LAL,40.0,4,8,0,CLE,LAL,foul,1,False,False,,Westbrook P.FOUL (P4.T2) (T.Washington),102-111,102,111
+0022101072,2022-03-21,CLE,LAL,40.17,4,7,50,CLE,CLE,fg_make,93,False,False,Mobley 4' Driving Bank Hook Shot (12 PTS),,104-111,104,111
+0022101072,2022-03-21,CLE,LAL,40.17,4,7,50,CLE,LAL,foul,2,False,False,,Gabriel S.FOUL (P3.T3) (S.Wall),104-111,104,111
+0022101072,2022-03-21,CLE,LAL,40.17,4,7,50,CLE,CLE,ft_make,10,False,False,Mobley Free Throw 1 of 1 (13 PTS),,105-111,105,111
+0022101072,2022-03-21,CLE,LAL,40.52,4,7,29,LAL,LAL,fg_make,73,False,False,,Johnson 2' Driving Reverse Layup (7 PTS) (James 11 AST),105-113,105,113
+0022101072,2022-03-21,CLE,LAL,40.78,4,7,13,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,105-113,105,113
+0022101072,2022-03-21,CLE,LAL,40.8,4,7,12,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:1 Def:1),,105-113,105,113
+0022101072,2022-03-21,CLE,LAL,40.83,4,7,10,CLE,LAL,foul,2,False,False,,Johnson S.FOUL (P2.T4) (J.Williams),105-113,105,113
+0022101072,2022-03-21,CLE,LAL,40.83,4,7,10,CLE,CLE,ft_make,11,False,False,Markkanen Free Throw 1 of 2 (14 PTS),,106-113,106,113
+0022101072,2022-03-21,CLE,LAL,40.83,4,7,10,CLE,CLE,ft_make,12,False,False,Markkanen Free Throw 2 of 2 (15 PTS),,107-113,107,113
+0022101072,2022-03-21,CLE,LAL,41.22,4,6,47,LAL,LAL,fg_miss,63,False,False,,MISS James 13' Fadeaway Jumper,107-113,107,113
+0022101072,2022-03-21,CLE,LAL,41.25,4,6,45,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:1 Def:2),,107-113,107,113
+0022101072,2022-03-21,CLE,LAL,41.25,4,6,45,CLE,LAL,foul,28,False,False,,Augustin Personal Take Foul (P1.PN) (S.Wall),107-113,107,113
+0022101072,2022-03-21,CLE,LAL,41.25,4,6,45,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (26 PTS),,108-113,108,113
+0022101072,2022-03-21,CLE,LAL,41.25,4,6,45,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (27 PTS),,109-113,109,113
+0022101072,2022-03-21,CLE,LAL,41.68,4,6,19,LAL,LAL,fg_make,108,False,False,,Gabriel 2' Cutting Dunk Shot (6 PTS) (James 12 AST),109-115,109,115
+0022101072,2022-03-21,CLE,LAL,42.03,4,5,58,CLE,CLE,fg_make,101,False,False,LeVert 9' Driving Floating Jump Shot (13 PTS),,111-115,111,115
+0022101072,2022-03-21,CLE,LAL,42.48,4,5,31,LAL,LAL,fg3_miss,1,False,False,,MISS Gabriel 24' 3PT Jump Shot,111-115,111,115
+0022101072,2022-03-21,CLE,LAL,42.53,4,5,28,CLE,CLE,reb,0,False,False,LeVert REBOUND (Off:1 Def:3),,111-115,111,115
+0022101072,2022-03-21,CLE,LAL,42.72,4,5,17,CLE,CLE,fg_miss,79,True,False,MISS LeVert 14' Pullup Jump Shot,,111-115,111,115
+0022101072,2022-03-21,CLE,LAL,42.72,4,5,17,CLE,LAL,block,79,True,False,block,block,111-115,111,115
+0022101072,2022-03-21,CLE,LAL,42.73,4,5,16,LAL,LAL,reb,0,False,False,,Gabriel REBOUND (Off:1 Def:4),111-115,111,115
+0022101072,2022-03-21,CLE,LAL,42.82,4,5,11,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.5 Short 0),111-115,111,115
+0022101072,2022-03-21,CLE,LAL,43.0,4,5,0,LAL,LAL,fg_make,98,False,False,,James 1' Cutting Layup Shot (32 PTS) (Monk 3 AST),111-117,111,117
+0022101072,2022-03-21,CLE,LAL,43.13,4,4,52,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 5 Short 0),,111-117,111,117
+0022101072,2022-03-21,CLE,LAL,43.15,4,4,51,CLE,CLE,tov,1,False,True,LeVert Bad Pass Turnover (P2.T9),,111-117,111,117
+0022101072,2022-03-21,CLE,LAL,43.15,4,4,51,CLE,LAL,steal,1,False,True,steal,steal,111-117,111,117
+0022101072,2022-03-21,CLE,LAL,43.22,4,4,47,LAL,LAL,fg_make,41,False,False,,Johnson 2' Running Layup (9 PTS),111-119,111,119
+0022101072,2022-03-21,CLE,LAL,43.43,4,4,34,CLE,CLE,tov,40,False,False,Mobley Out of Bounds Lost Ball Turnover (P2.T10),,111-119,111,119
+0022101072,2022-03-21,CLE,LAL,43.62,4,4,23,LAL,CLE,foul,1,False,False,LeVert P.FOUL (P5.T3) (S.Wall),,111-119,111,119
+0022101072,2022-03-21,CLE,LAL,43.8,4,4,12,LAL,LAL,fg_make,98,False,False,,Gabriel 1' Cutting Layup Shot (8 PTS) (Westbrook 11 AST),111-121,111,121
+0022101072,2022-03-21,CLE,LAL,43.8,4,4,12,LAL,CLE,foul,2,False,False,Markkanen S.FOUL (P2.T4) (T.Washington),,111-121,111,121
+0022101072,2022-03-21,CLE,LAL,43.8,4,4,12,LAL,LAL,ft_make,10,False,False,,Gabriel Free Throw 1 of 1 (9 PTS),111-122,111,122
+0022101072,2022-03-21,CLE,LAL,44.0,4,4,0,CLE,CLE,fg_make,101,False,False,Garland 8' Driving Floating Jump Shot (29 PTS),,113-122,113,122
+0022101072,2022-03-21,CLE,LAL,44.32,4,3,41,LAL,LAL,fg3_make,1,False,False,,Johnson 27' 3PT Jump Shot (12 PTS) (Reaves 5 AST),113-125,113,125
+0022101072,2022-03-21,CLE,LAL,44.68,4,3,19,CLE,CLE,fg3_make,1,False,False,Okoro 3PT Jump Shot (12 PTS) (Markkanen 1 AST),,116-125,116,125
+0022101072,2022-03-21,CLE,LAL,45.1,4,2,54,LAL,LAL,fg_make,63,False,False,,James 19' Fadeaway Jumper (34 PTS),116-127,116,127
+0022101072,2022-03-21,CLE,LAL,45.4,4,2,36,CLE,CLE,tov,1,False,True,Stevens Bad Pass Turnover (P3.T11),,116-127,116,127
+0022101072,2022-03-21,CLE,LAL,45.4,4,2,36,CLE,LAL,steal,1,False,True,steal,steal,116-127,116,127
+0022101072,2022-03-21,CLE,LAL,45.47,4,2,32,LAL,LAL,fg_make,50,False,False,,James 1' Running Dunk (36 PTS) (Reaves 6 AST),116-129,116,129
+0022101072,2022-03-21,CLE,LAL,45.72,4,2,17,CLE,CLE,fg3_make,1,False,False,Markkanen 29' 3PT Jump Shot (18 PTS) (Garland 17 AST),,119-129,119,129
+0022101072,2022-03-21,CLE,LAL,46.2,4,1,48,LAL,LAL,fg_make,86,False,False,,James 21' Turnaround Fadeaway (38 PTS),119-131,119,131
+0022101072,2022-03-21,CLE,LAL,46.42,4,1,35,CLE,CLE,tov,40,False,False,Mobley Out of Bounds Lost Ball Turnover (P3.T12),,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,46.73,4,1,16,LAL,LAL,fg_miss,86,False,False,,MISS James 19' Turnaround Fadeaway Shot,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,46.75,4,1,15,LAL,LAL,reb,0,False,False,,Gabriel REBOUND (Off:2 Def:4),119-131,119,131
+0022101072,2022-03-21,CLE,LAL,46.93,4,1,4,LAL,LAL,fg_miss,98,False,False,,MISS James 3' Cutting Layup Shot,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,46.95,4,1,3,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:9),119-131,119,131
+0022101072,2022-03-21,CLE,LAL,46.97,4,1,2,LAL,LAL,fg_miss,86,False,False,,MISS James 6' Turnaround Fadeaway Shot,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.0,4,1,0,LAL,LAL,reb,0,False,False,,Johnson REBOUND (Off:1 Def:2),119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.07,4,0,56,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.2,4,0,48,LAL,LAL,fg3_miss,80,False,False,,MISS Monk 27' 3PT Step Back Jump Shot,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.27,4,0,44,CLE,CLE,reb,0,False,False,Goodwin REBOUND (Off:0 Def:2),,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.3,4,0,42,CLE,LAL,foul,2,False,False,,Monk S.FOUL (P3.PN) (T.Washington),119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.3,4,0,42,CLE,CLE,ft_miss,11,False,False,MISS Brown Free Throw 1 of 2,,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.3,4,0,42,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,119-131,119,131
+0022101072,2022-03-21,CLE,LAL,47.3,4,0,42,CLE,CLE,ft_make,12,False,False,Brown Free Throw 2 of 2 (3 PTS),,120-131,120,131
+0022101072,2022-03-21,CLE,LAL,47.52,4,0,29,LAL,CLE,violation,5,False,False,Davis Violation:Kicked Ball (S.Wall),,120-131,120,131
+0022101072,2022-03-21,CLE,LAL,47.8,4,0,12,LAL,LAL,fg3_miss,1,False,False,,MISS Johnson 32' 3PT Jump Shot,120-131,120,131
+0022101072,2022-03-21,CLE,LAL,47.82,4,0,11,CLE,CLE,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,120-131,120,131
+0022101072,2022-03-21,CLE,LAL,48.0,4,0,0,CLE,,period_end,0,False,False,,,120-131,120,131

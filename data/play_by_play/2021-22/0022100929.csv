@@ -1,0 +1,463 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100929,2022-03-01,HOU,LAC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100929,2022-03-01,HOU,LAC,0.0,1,12,0,,HOU,jump_ball,0,False,False,Jump Ball Wood vs. Zubac: Tip to Mann,,0-0,0,0
+0022100929,2022-03-01,HOU,LAC,0.3,1,11,42,LAC,LAC,fg_make,47,False,False,,Morris Sr. 15' Turnaround Jump Shot (2 PTS) (Jackson 1 AST),0-2,0,2
+0022100929,2022-03-01,HOU,LAC,0.52,1,11,29,HOU,HOU,fg3_miss,1,False,False,MISS Wood 25' 3PT Jump Shot,,0-2,0,2
+0022100929,2022-03-01,HOU,LAC,0.57,1,11,26,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:1),0-2,0,2
+0022100929,2022-03-01,HOU,LAC,0.82,1,11,11,LAC,LAC,fg_make,58,False,False,,Zubac 8' Turnaround Hook Shot (2 PTS),0-4,0,4
+0022100929,2022-03-01,HOU,LAC,1.05,1,10,57,HOU,HOU,fg_make,105,False,False,Tate 8' Turnaround Fadeaway Bank Jump Shot (2 PTS),,2-4,2,4
+0022100929,2022-03-01,HOU,LAC,1.28,1,10,43,LAC,LAC,fg_make,75,False,False,,Jackson 8' Driving Finger Roll Layup (2 PTS),2-6,2,6
+0022100929,2022-03-01,HOU,LAC,1.5,1,10,30,HOU,HOU,fg_make,108,False,False,Green 2' Cutting Dunk Shot (2 PTS) (Schroder 1 AST),,4-6,4,6
+0022100929,2022-03-01,HOU,LAC,1.73,1,10,16,LAC,LAC,fg_miss,79,False,False,,MISS Jackson 17' Pullup Jump Shot,4-6,4,6
+0022100929,2022-03-01,HOU,LAC,1.77,1,10,14,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:1 Def:1),4-6,4,6
+0022100929,2022-03-01,HOU,LAC,1.78,1,10,13,LAC,LAC,fg_make,72,False,False,,Zubac 2' Putback Layup (4 PTS),4-8,4,8
+0022100929,2022-03-01,HOU,LAC,1.88,1,10,7,HOU,LAC,foul,1,False,False,,Morris Sr. P.FOUL (P1.T1) (J.Goble),4-8,4,8
+0022100929,2022-03-01,HOU,LAC,1.97,1,10,2,HOU,HOU,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,4-8,4,8
+0022100929,2022-03-01,HOU,LAC,2.02,1,9,59,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),4-8,4,8
+0022100929,2022-03-01,HOU,LAC,2.15,1,9,51,LAC,LAC,fg3_miss,1,False,False,,MISS Batum 26' 3PT Jump Shot,4-8,4,8
+0022100929,2022-03-01,HOU,LAC,2.22,1,9,47,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:1),,4-8,4,8
+0022100929,2022-03-01,HOU,LAC,2.3,1,9,42,HOU,HOU,fg_miss,93,True,False,MISS Tate 5' Driving Bank Hook Shot,,4-8,4,8
+0022100929,2022-03-01,HOU,LAC,2.3,1,9,42,HOU,LAC,block,93,True,False,block,block,4-8,4,8
+0022100929,2022-03-01,HOU,LAC,2.3,1,9,42,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,4-8,4,8
+0022100929,2022-03-01,HOU,LAC,2.33,1,9,40,HOU,HOU,fg_make,98,False,False,Wood 2' Cutting Layup Shot (2 PTS) (Schroder 2 AST),,6-8,6,8
+0022100929,2022-03-01,HOU,LAC,2.6,1,9,24,LAC,LAC,fg_make,98,False,False,,Mann 3' Cutting Layup Shot (2 PTS) (Jackson 2 AST),6-10,6,10
+0022100929,2022-03-01,HOU,LAC,2.85,1,9,9,HOU,HOU,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,6-10,6,10
+0022100929,2022-03-01,HOU,LAC,2.9,1,9,6,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),6-10,6,10
+0022100929,2022-03-01,HOU,LAC,3.03,1,8,58,LAC,LAC,fg_make,3,False,False,,Zubac 5' Hook Shot (6 PTS) (Morris Sr. 1 AST),6-12,6,12
+0022100929,2022-03-01,HOU,LAC,3.35,1,8,39,HOU,HOU,fg_miss,79,False,False,MISS Green 18' Pullup Jump Shot,,6-12,6,12
+0022100929,2022-03-01,HOU,LAC,3.38,1,8,37,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:1 Def:2),6-12,6,12
+0022100929,2022-03-01,HOU,LAC,3.6,1,8,24,LAC,LAC,fg_miss,58,False,False,,MISS Zubac 9' Turnaround Hook Shot,6-12,6,12
+0022100929,2022-03-01,HOU,LAC,3.65,1,8,21,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:0 Def:2),,6-12,6,12
+0022100929,2022-03-01,HOU,LAC,3.98,1,8,1,HOU,HOU,fg_make,102,False,False,Wood 7' Driving Floating Bank Jump Shot (4 PTS),,8-12,8,12
+0022100929,2022-03-01,HOU,LAC,4.33,1,7,40,LAC,LAC,fg_miss,86,False,False,,MISS Morris Sr. 12' Turnaround Fadeaway Shot,8-12,8,12
+0022100929,2022-03-01,HOU,LAC,4.35,1,7,39,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,8-12,8,12
+0022100929,2022-03-01,HOU,LAC,4.58,1,7,25,HOU,HOU,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,8-12,8,12
+0022100929,2022-03-01,HOU,LAC,4.6,1,7,24,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:0 Def:1),8-12,8,12
+0022100929,2022-03-01,HOU,LAC,4.75,1,7,15,LAC,LAC,fg_make,6,False,False,,Jackson 2' Driving Layup (4 PTS),8-14,8,14
+0022100929,2022-03-01,HOU,LAC,4.9,1,7,6,HOU,HOU,tov,1,False,True,Tate Bad Pass Turnover (P1.T1),,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,4.9,1,7,6,HOU,LAC,steal,1,False,True,steal,steal,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,5.02,1,6,59,LAC,LAC,fg_miss,103,True,False,,MISS Jackson 4' Running Pull-Up Jump Shot,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,5.02,1,6,59,LAC,HOU,block,103,True,False,block,block,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,5.02,1,6,59,LAC,LAC,reb,0,False,False,,Clippers Rebound,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,5.02,1,6,59,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,5.05,1,6,57,LAC,LAC,fg_miss,98,False,False,,MISS Mann 3' Cutting Layup Shot,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,5.1,1,6,54,HOU,HOU,reb,0,False,False,Green REBOUND (Off:0 Def:1),,8-14,8,14
+0022100929,2022-03-01,HOU,LAC,5.35,1,6,39,HOU,HOU,fg3_make,1,False,False,Wood 25' 3PT Jump Shot (7 PTS) (Schroder 3 AST),,11-14,11,14
+0022100929,2022-03-01,HOU,LAC,5.62,1,6,23,LAC,HOU,foul,2,False,False,Tate S.FOUL (P1.T1) (J.Goble),,11-14,11,14
+0022100929,2022-03-01,HOU,LAC,5.62,1,6,23,LAC,LAC,ft_make,11,False,False,,Zubac Free Throw 1 of 2 (7 PTS),11-15,11,15
+0022100929,2022-03-01,HOU,LAC,5.62,1,6,23,LAC,LAC,ft_make,12,False,False,,Zubac Free Throw 2 of 2 (8 PTS),11-16,11,16
+0022100929,2022-03-01,HOU,LAC,5.75,1,6,15,HOU,HOU,fg3_miss,1,False,False,MISS Tate 26' 3PT Jump Shot,,11-16,11,16
+0022100929,2022-03-01,HOU,LAC,5.8,1,6,12,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:2),,11-16,11,16
+0022100929,2022-03-01,HOU,LAC,5.82,1,6,11,HOU,LAC,foul,2,False,False,,Zubac S.FOUL (P1.T2) (J.Goble),11-16,11,16
+0022100929,2022-03-01,HOU,LAC,5.82,1,6,11,HOU,HOU,ft_miss,11,False,False,MISS Tate Free Throw 1 of 2,,11-16,11,16
+0022100929,2022-03-01,HOU,LAC,5.82,1,6,11,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,11-16,11,16
+0022100929,2022-03-01,HOU,LAC,5.82,1,6,11,HOU,HOU,ft_make,12,False,False,Tate Free Throw 2 of 2 (3 PTS),,12-16,12,16
+0022100929,2022-03-01,HOU,LAC,5.97,1,6,2,LAC,LAC,fg_miss,98,False,False,,MISS Batum 3' Cutting Layup Shot,12-16,12,16
+0022100929,2022-03-01,HOU,LAC,5.98,1,6,1,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:1),,12-16,12,16
+0022100929,2022-03-01,HOU,LAC,6.03,1,5,58,HOU,HOU,tov,45,False,False,Schroder Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,12-16,12,16
+0022100929,2022-03-01,HOU,LAC,6.15,1,5,51,LAC,LAC,fg_miss,79,False,False,,MISS Mann 6' Pullup Jump Shot,12-16,12,16
+0022100929,2022-03-01,HOU,LAC,6.18,1,5,49,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:2),,12-16,12,16
+0022100929,2022-03-01,HOU,LAC,6.5,1,5,30,HOU,HOU,fg_make,101,False,False,Wood 12' Driving Floating Jump Shot (9 PTS),,14-16,14,16
+0022100929,2022-03-01,HOU,LAC,6.8,1,5,12,LAC,LAC,fg3_make,1,False,False,,Morris Sr. 25' 3PT Jump Shot (5 PTS) (Jackson 3 AST),14-19,14,19
+0022100929,2022-03-01,HOU,LAC,6.8,1,5,12,LAC,HOU,foul,2,False,False,Tate S.FOUL (P2.T2) (P.Ransom),,14-19,14,19
+0022100929,2022-03-01,HOU,LAC,6.8,1,5,12,LAC,LAC,ft_make,10,False,False,,Morris Sr. Free Throw 1 of 1 (6 PTS),14-20,14,20
+0022100929,2022-03-01,HOU,LAC,7.03,1,4,58,HOU,HOU,fg_make,57,False,False,Gordon 8' Driving Hook Shot (2 PTS) (Tate 1 AST),,16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.35,1,4,39,LAC,LAC,fg_miss,47,False,False,,MISS Batum 14' Turnaround Jump Shot,16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.38,1,4,37,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:3),,16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.47,1,4,32,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 29' 3PT Jump Shot,,16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.5,1,4,30,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:0 Def:1),16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.67,1,4,20,LAC,LAC,fg_miss,6,False,False,,MISS Mann 3' Driving Layup,16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.7,1,4,18,HOU,HOU,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.92,1,4,5,HOU,LAC,foul,2,False,False,,Zubac S.FOUL (P2.T3) (P.Ransom),16-20,16,20
+0022100929,2022-03-01,HOU,LAC,7.92,1,4,5,HOU,HOU,ft_make,11,False,False,Gordon Free Throw 1 of 2 (3 PTS),,17-20,17,20
+0022100929,2022-03-01,HOU,LAC,7.92,1,4,5,HOU,HOU,ft_make,12,False,False,Gordon Free Throw 2 of 2 (4 PTS),,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.07,1,3,56,LAC,LAC,fg_miss,108,True,False,,MISS Mann 2' Cutting Dunk Shot,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.07,1,3,56,LAC,HOU,block,108,True,False,block,block,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.13,1,3,52,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:0 Def:1),,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.17,1,3,50,HOU,HOU,fg_miss,6,True,False,MISS Green 6' Driving Layup,,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.17,1,3,50,HOU,LAC,block,6,True,False,block,block,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.17,1,3,50,LAC,LAC,reb,0,False,False,,Clippers Rebound,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.37,1,3,38,LAC,LAC,fg3_miss,1,False,False,,MISS Coffey 24' 3PT Jump Shot,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.38,1,3,37,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:3),,18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.48,1,3,31,HOU,LAC,foul,2,False,False,,Coffey S.FOUL (P1.T4) (B.Adair),18-20,18,20
+0022100929,2022-03-01,HOU,LAC,8.48,1,3,31,HOU,HOU,ft_make,11,False,False,Schroder Free Throw 1 of 2 (1 PTS),,19-20,19,20
+0022100929,2022-03-01,HOU,LAC,8.48,1,3,31,HOU,HOU,ft_make,12,False,False,Schroder Free Throw 2 of 2 (2 PTS),,20-20,20,20
+0022100929,2022-03-01,HOU,LAC,8.65,1,3,21,LAC,HOU,foul,17,False,False,ROCKETS T.Foul (Def. 3 Sec Wood ) (J.Goble),,20-20,20,20
+0022100929,2022-03-01,HOU,LAC,8.65,1,3,21,LAC,LAC,ft_make,16,False,False,,Kennard Free Throw Technical (1 PTS),20-21,20,21
+0022100929,2022-03-01,HOU,LAC,8.72,1,3,17,LAC,LAC,fg3_miss,1,False,False,,MISS Coffey 25' 3PT Jump Shot,20-21,20,21
+0022100929,2022-03-01,HOU,LAC,8.73,1,3,16,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:1 Def:0),20-21,20,21
+0022100929,2022-03-01,HOU,LAC,8.92,1,3,5,LAC,LAC,fg_make,5,False,False,,Hartenstein 2' Layup (2 PTS),20-23,20,23
+0022100929,2022-03-01,HOU,LAC,9.12,1,2,53,HOU,HOU,fg_miss,57,False,False,MISS Schroder 12' Driving Hook Shot,,20-23,20,23
+0022100929,2022-03-01,HOU,LAC,9.17,1,2,50,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:1 Def:1),,20-23,20,23
+0022100929,2022-03-01,HOU,LAC,9.18,1,2,49,HOU,HOU,fg_miss,98,False,False,MISS Christopher 2' Cutting Layup Shot,,20-23,20,23
+0022100929,2022-03-01,HOU,LAC,9.2,1,2,48,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:1 Def:1),20-23,20,23
+0022100929,2022-03-01,HOU,LAC,9.3,1,2,42,LAC,LAC,fg3_make,79,False,False,,Morris Sr. 26' 3PT Pullup Jump Shot (9 PTS),20-26,20,26
+0022100929,2022-03-01,HOU,LAC,9.67,1,2,20,HOU,HOU,fg3_make,1,False,False,Wood 3PT Jump Shot (12 PTS) (Martin Jr. 1 AST),,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,9.87,1,2,8,LAC,LAC,fg_miss,79,False,False,,MISS Kennard 14' Pullup Jump Shot,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,9.95,1,2,3,HOU,HOU,reb,0,False,False,Mathews REBOUND (Off:0 Def:1),,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.08,1,1,55,HOU,HOU,fg_miss,6,False,False,MISS Martin Jr. 3' Driving Layup,,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.1,1,1,54,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:1 Def:2),23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.43,1,1,34,LAC,LAC,fg_miss,79,True,False,,MISS Morris Sr. 9' Pullup Jump Shot,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.43,1,1,34,LAC,HOU,block,79,True,False,block,block,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.48,1,1,31,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:2 Def:2),23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.48,1,1,31,LAC,LAC,tov,11,False,False,,Clippers Turnover: Shot Clock (T#1),23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.48,1,1,31,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.1 Short 0),23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.77,1,1,14,HOU,HOU,fg_miss,6,False,False,MISS Sengun 4' Driving Layup,,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.8,1,1,12,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:2 Def:0),,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.8,1,1,12,HOU,HOU,fg_miss,97,False,False,MISS Sengun 3' Tip Layup Shot,,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.8,1,1,12,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:2 Def:0),,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.83,1,1,10,HOU,HOU,fg_miss,97,False,False,MISS Sengun Tip Layup Shot,,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.83,1,1,10,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:3 Def:0),,23-26,23,26
+0022100929,2022-03-01,HOU,LAC,10.88,1,1,7,HOU,HOU,fg_make,97,False,False,Sengun Tip Layup Shot (2 PTS),,25-26,25,26
+0022100929,2022-03-01,HOU,LAC,11.1,1,0,54,LAC,LAC,fg_miss,5,True,False,,MISS Hartenstein 3' Layup,25-26,25,26
+0022100929,2022-03-01,HOU,LAC,11.1,1,0,54,LAC,HOU,block,5,True,False,block,block,25-26,25,26
+0022100929,2022-03-01,HOU,LAC,11.15,1,0,51,HOU,HOU,reb,0,False,False,Christopher REBOUND (Off:0 Def:1),,25-26,25,26
+0022100929,2022-03-01,HOU,LAC,11.18,1,0,49,HOU,HOU,fg_make,50,False,False,Martin Jr. 2' Running Dunk (2 PTS) (Christopher 1 AST),,27-26,27,26
+0022100929,2022-03-01,HOU,LAC,11.43,1,0,34,LAC,LAC,fg3_make,80,False,False,,Boston Jr. 26' 3PT Step Back Jump Shot (3 PTS),27-29,27,29
+0022100929,2022-03-01,HOU,LAC,11.58,1,0,25,HOU,HOU,fg3_miss,1,False,False,MISS Sengun 26' 3PT Jump Shot,,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,11.63,1,0,22,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:1),27-29,27,29
+0022100929,2022-03-01,HOU,LAC,11.92,1,0,5,LAC,LAC,tov,4,False,False,,Boston Jr. Traveling Turnover (P1.T2),27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.0,1,0,0,LAC,,period_end,0,False,False,,,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.0,2,12,0,LAC,,period_start,0,False,False,,,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.3,2,11,42,HOU,HOU,fg_miss,58,True,False,MISS Sengun 5' Turnaround Hook Shot,,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.3,2,11,42,HOU,LAC,block,58,True,False,block,block,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.33,2,11,40,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:2 Def:3),27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.6,2,11,24,LAC,LAC,fg_miss,6,True,False,,MISS Coffey 4' Driving Layup,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.6,2,11,24,LAC,HOU,block,6,True,False,block,block,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.65,2,11,21,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:1 Def:2),,27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.78,2,11,13,HOU,LAC,foul,2,False,False,,Covington S.FOUL (P1.T1) (P.Ransom),27-29,27,29
+0022100929,2022-03-01,HOU,LAC,12.78,2,11,13,HOU,HOU,ft_make,11,False,False,Gordon Free Throw 1 of 2 (5 PTS),,28-29,28,29
+0022100929,2022-03-01,HOU,LAC,12.78,2,11,13,HOU,HOU,ft_make,12,False,False,Gordon Free Throw 2 of 2 (6 PTS),,29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.12,2,10,53,LAC,LAC,fg_miss,86,False,False,,MISS Coffey 14' Turnaround Fadeaway Shot,29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.15,2,10,51,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:3 Def:1),,29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.28,2,10,43,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.35,2,10,39,LAC,LAC,reb,0,False,False,,Kennard REBOUND (Off:0 Def:1),29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.5,2,10,30,LAC,LAC,fg_miss,58,False,False,,MISS Hartenstein 12' Turnaround Hook Shot,29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.53,2,10,28,HOU,HOU,reb,0,False,False,Christopher REBOUND (Off:0 Def:2),,29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.6,2,10,24,HOU,HOU,fg_miss,78,False,False,MISS Sengun 11' Floating Jump Shot,,29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.6,2,10,24,LAC,LAC,reb,0,False,False,,Coffey REBOUND (Off:0 Def:1),29-29,29,29
+0022100929,2022-03-01,HOU,LAC,13.75,2,10,15,LAC,LAC,fg3_make,1,False,False,,Covington 27' 3PT Jump Shot (3 PTS) (Coffey 1 AST),29-32,29,32
+0022100929,2022-03-01,HOU,LAC,14.1,2,9,54,HOU,HOU,fg3_miss,1,False,False,MISS Mathews 27' 3PT Jump Shot,,29-32,29,32
+0022100929,2022-03-01,HOU,LAC,14.12,2,9,53,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:2 Def:4),29-32,29,32
+0022100929,2022-03-01,HOU,LAC,14.27,2,9,44,LAC,LAC,fg3_miss,1,False,False,,MISS Kennard 27' 3PT Jump Shot,29-32,29,32
+0022100929,2022-03-01,HOU,LAC,14.3,2,9,42,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:3 Def:4),29-32,29,32
+0022100929,2022-03-01,HOU,LAC,14.4,2,9,36,LAC,LAC,fg_make,6,False,False,,Boston Jr. 2' Driving Layup (5 PTS),29-34,29,34
+0022100929,2022-03-01,HOU,LAC,14.4,2,9,36,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,29-34,29,34
+0022100929,2022-03-01,HOU,LAC,14.62,2,9,23,HOU,HOU,fg_miss,108,True,False,MISS Martin Jr. 1' Cutting Dunk Shot,,29-34,29,34
+0022100929,2022-03-01,HOU,LAC,14.62,2,9,23,HOU,LAC,block,108,True,False,block,block,29-34,29,34
+0022100929,2022-03-01,HOU,LAC,14.65,2,9,21,LAC,LAC,reb,0,False,False,,Kennard REBOUND (Off:0 Def:2),29-34,29,34
+0022100929,2022-03-01,HOU,LAC,14.78,2,9,13,LAC,LAC,tov,1,False,True,,Jackson Bad Pass Turnover (P1.T3),29-34,29,34
+0022100929,2022-03-01,HOU,LAC,14.78,2,9,13,LAC,HOU,steal,1,False,True,steal,steal,29-34,29,34
+0022100929,2022-03-01,HOU,LAC,14.87,2,9,8,HOU,HOU,fg_make,41,False,False,Christopher 1' Running Layup (2 PTS) (Martin Jr. 2 AST),,31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.23,2,8,46,LAC,LAC,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.28,2,8,43,HOU,HOU,reb,0,False,False,Christopher REBOUND (Off:0 Def:3),,31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.4,2,8,36,HOU,HOU,fg3_miss,80,False,False,MISS Christopher 27' 3PT Step Back Jump Shot,,31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.4,2,8,36,LAC,LAC,reb,0,False,False,,Boston Jr. REBOUND (Off:0 Def:1),31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.5,2,8,30,LAC,LAC,fg3_miss,2,False,False,,MISS Covington 25' 3PT Running Jump Shot,31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.52,2,8,29,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:3 Def:2),,31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.77,2,8,14,HOU,HOU,fg3_miss,1,False,False,MISS Mathews 27' 3PT Jump Shot,,31-34,31,34
+0022100929,2022-03-01,HOU,LAC,15.78,2,8,13,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:2),31-34,31,34
+0022100929,2022-03-01,HOU,LAC,16.03,2,7,58,LAC,LAC,tov,40,False,False,,Hartenstein Out of Bounds Lost Ball Turnover (P1.T4),31-34,31,34
+0022100929,2022-03-01,HOU,LAC,16.2,2,7,48,HOU,HOU,fg3_make,1,False,False,Sengun 26' 3PT Jump Shot (5 PTS) (Christopher 2 AST),,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,16.45,2,7,33,LAC,LAC,fg_miss,79,False,False,,MISS Boston Jr. 17' Pullup Jump Shot,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,16.45,2,7,33,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,16.45,2,7,33,HOU,LAC,foul,3,False,False,,Hartenstein L.B.FOUL (P1.T2) (P.Ransom),34-34,34,34
+0022100929,2022-03-01,HOU,LAC,16.73,2,7,16,HOU,HOU,fg_miss,86,False,False,MISS Sengun 7' Turnaround Fadeaway Shot,,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,16.8,2,7,12,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:3),34-34,34,34
+0022100929,2022-03-01,HOU,LAC,16.92,2,7,5,LAC,LAC,tov,2,False,True,,Hartenstein Lost Ball Turnover (P2.T5),34-34,34,34
+0022100929,2022-03-01,HOU,LAC,16.92,2,7,5,LAC,HOU,steal,2,False,True,steal,steal,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,17.02,2,6,59,HOU,HOU,tov,1,False,True,Christopher Bad Pass Turnover (P1.T3),,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,17.02,2,6,59,HOU,LAC,steal,1,False,True,steal,steal,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,17.22,2,6,47,LAC,LAC,fg3_miss,79,False,False,,MISS Jackson 27' 3PT Pullup Jump Shot,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,17.23,2,6,46,HOU,HOU,reb,0,False,False,Mathews REBOUND (Off:0 Def:2),,34-34,34,34
+0022100929,2022-03-01,HOU,LAC,17.45,2,6,33,HOU,HOU,fg_make,101,False,False,Mathews 10' Driving Floating Jump Shot (2 PTS) (Christopher 3 AST),,36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.45,2,6,33,HOU,LAC,foul,2,False,False,,Jackson S.FOUL (P1.T3) (J.Goble),36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.45,2,6,33,HOU,HOU,ft_miss,10,False,False,MISS Mathews Free Throw 1 of 1,,36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.45,2,6,33,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:4),36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.65,2,6,21,LAC,LAC,fg_miss,79,False,False,,MISS Jackson 21' Pullup Jump Shot,36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.72,2,6,17,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:1 Def:2),36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.73,2,6,16,LAC,LAC,fg_miss,1,False,False,,MISS Jackson 16' Jump Shot,36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.75,2,6,15,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:2 Def:2),36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.75,2,6,15,LAC,HOU,foul,2,False,False,Sengun S.FOUL (P1.T1) (B.Adair),,36-34,36,34
+0022100929,2022-03-01,HOU,LAC,17.75,2,6,15,LAC,LAC,ft_make,11,False,False,,Zubac Free Throw 1 of 2 (9 PTS),36-35,36,35
+0022100929,2022-03-01,HOU,LAC,17.75,2,6,15,LAC,LAC,ft_make,12,False,False,,Zubac Free Throw 2 of 2 (10 PTS),36-36,36,36
+0022100929,2022-03-01,HOU,LAC,18.02,2,5,59,HOU,HOU,fg3_make,1,False,False,Tate 3PT Jump Shot (6 PTS) (Gordon 1 AST),,39-36,39,36
+0022100929,2022-03-01,HOU,LAC,18.2,2,5,48,LAC,LAC,fg_make,73,False,False,,Jackson 1' Driving Reverse Layup (6 PTS),39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.45,2,5,33,LAC,HOU,foul,4,False,False,Tate OFF.Foul (P3) (P.Ransom),,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.45,2,5,33,HOU,HOU,tov,37,False,False,Tate Offensive Foul Turnover (P2.T4),,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.58,2,5,25,LAC,LAC,fg_miss,6,False,False,,MISS Jackson 2' Driving Layup,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.62,2,5,23,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:4),,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.68,2,5,19,HOU,HOU,fg3_miss,2,False,False,MISS Mathews 26' 3PT Running Jump Shot,,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.7,2,5,18,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:1 Def:3),39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.87,2,5,8,LAC,LAC,fg_miss,5,True,False,,MISS Zubac 2' Layup,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.87,2,5,8,LAC,HOU,block,5,True,False,block,block,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.92,2,5,5,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:3 Def:2),39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.95,2,5,3,LAC,LAC,tov,2,False,True,,Zubac Lost Ball Turnover (P1.T6),39-38,39,38
+0022100929,2022-03-01,HOU,LAC,18.95,2,5,3,LAC,HOU,steal,2,False,True,steal,steal,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,19.02,2,4,59,HOU,HOU,fg_miss,106,False,False,MISS Green 3' Running Alley Oop Dunk Shot,,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,19.03,2,4,58,HOU,HOU,reb,0,False,False,Schroder REBOUND (Off:1 Def:1),,39-38,39,38
+0022100929,2022-03-01,HOU,LAC,19.13,2,4,52,HOU,HOU,fg3_make,1,False,False,Schroder 24' 3PT Jump Shot (5 PTS),,42-38,42,38
+0022100929,2022-03-01,HOU,LAC,19.53,2,4,28,LAC,LAC,fg_make,86,False,False,,Mann 11' Turnaround Fadeaway (4 PTS),42-40,42,40
+0022100929,2022-03-01,HOU,LAC,19.7,2,4,18,HOU,HOU,fg3_make,1,False,False,Mathews 30' 3PT Jump Shot (5 PTS) (Schroder 4 AST),,45-40,45,40
+0022100929,2022-03-01,HOU,LAC,19.93,2,4,4,LAC,HOU,foul,1,False,False,Schroder P.FOUL (P1.T2) (J.Goble),,45-40,45,40
+0022100929,2022-03-01,HOU,LAC,20.03,2,3,58,LAC,LAC,fg_miss,63,False,False,,MISS Morris Sr. 13' Fadeaway Jumper,45-40,45,40
+0022100929,2022-03-01,HOU,LAC,20.12,2,3,53,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:4),,45-40,45,40
+0022100929,2022-03-01,HOU,LAC,20.37,2,3,38,HOU,HOU,fg3_miss,1,False,False,MISS Tate 26' 3PT Jump Shot,,45-40,45,40
+0022100929,2022-03-01,HOU,LAC,20.38,2,3,37,HOU,HOU,reb,0,False,False,Green REBOUND (Off:1 Def:1),,45-40,45,40
+0022100929,2022-03-01,HOU,LAC,20.47,2,3,32,HOU,HOU,fg_make,79,False,False,Green 13' Pullup Jump Shot (4 PTS),,47-40,47,40
+0022100929,2022-03-01,HOU,LAC,20.48,2,3,31,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.2 Short 0),47-40,47,40
+0022100929,2022-03-01,HOU,LAC,20.53,2,3,28,LAC,HOU,foul,1,False,False,Schroder P.FOUL (P2.T3) (J.Goble),,47-40,47,40
+0022100929,2022-03-01,HOU,LAC,20.87,2,3,8,LAC,LAC,fg_miss,1,False,False,,MISS Morris Sr. 20' Jump Shot,47-40,47,40
+0022100929,2022-03-01,HOU,LAC,20.88,2,3,7,HOU,HOU,reb,0,False,False,Schroder REBOUND (Off:1 Def:2),,47-40,47,40
+0022100929,2022-03-01,HOU,LAC,21.02,2,2,59,HOU,HOU,tov,2,False,True,Schroder Lost Ball Turnover (P2.T5),,47-40,47,40
+0022100929,2022-03-01,HOU,LAC,21.02,2,2,59,HOU,LAC,steal,2,False,True,steal,steal,47-40,47,40
+0022100929,2022-03-01,HOU,LAC,21.15,2,2,51,LAC,LAC,fg_make,108,False,False,,Zubac 2' Cutting Dunk Shot (12 PTS) (Mann 1 AST),47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.18,2,2,49,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.35,2,2,39,HOU,HOU,fg3_miss,1,False,False,MISS Wood 26' 3PT Jump Shot,,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.38,2,2,37,LAC,LAC,reb,0,False,False,,Clippers Rebound,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.65,2,2,21,LAC,LAC,fg_miss,86,False,False,,MISS Morris Sr. 10' Turnaround Fadeaway Shot,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.67,2,2,20,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:5),,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.85,2,2,9,HOU,HOU,fg3_miss,1,False,False,MISS Mathews 27' 3PT Jump Shot,,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.87,2,2,8,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:0 Def:1),47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.97,2,2,2,HOU,LAC,foul,26,False,False,,Mann Offensive Charge Foul (P1) (P.Ransom),47-42,47,42
+0022100929,2022-03-01,HOU,LAC,21.97,2,2,2,LAC,LAC,tov,37,False,False,,Mann Offensive Foul Turnover (P1.T7),47-42,47,42
+0022100929,2022-03-01,HOU,LAC,22.1,2,1,54,HOU,HOU,tov,1,False,True,Schroder Bad Pass Turnover (P3.T6),,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,22.1,2,1,54,HOU,LAC,steal,1,False,True,steal,steal,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,22.2,2,1,48,LAC,LAC,fg3_miss,1,False,False,,MISS Morris Sr. 3PT Jump Shot,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,22.22,2,1,47,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:1 Def:1),47-42,47,42
+0022100929,2022-03-01,HOU,LAC,22.37,2,1,38,LAC,LAC,fg_miss,1,False,False,,MISS Batum 12' Jump Shot,47-42,47,42
+0022100929,2022-03-01,HOU,LAC,22.38,2,1,37,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:1 Def:1),47-42,47,42
+0022100929,2022-03-01,HOU,LAC,22.47,2,1,32,LAC,LAC,fg3_make,1,False,False,,Mann 3PT Jump Shot (7 PTS) (Morris Sr. 2 AST),47-45,47,45
+0022100929,2022-03-01,HOU,LAC,22.83,2,1,10,HOU,HOU,fg3_make,1,False,False,Martin Jr. 26' 3PT Jump Shot (5 PTS) (Wood 1 AST),,50-45,50,45
+0022100929,2022-03-01,HOU,LAC,23.05,2,0,57,LAC,HOU,foul,2,False,False,Schroder S.FOUL (P3.T4) (J.Goble),,50-45,50,45
+0022100929,2022-03-01,HOU,LAC,23.05,2,0,57,LAC,LAC,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (7 PTS),50-46,50,46
+0022100929,2022-03-01,HOU,LAC,23.05,2,0,57,LAC,LAC,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (8 PTS),50-47,50,47
+0022100929,2022-03-01,HOU,LAC,23.4,2,0,36,HOU,HOU,fg3_miss,1,False,False,MISS Mathews 3PT Jump Shot,,50-47,50,47
+0022100929,2022-03-01,HOU,LAC,23.43,2,0,34,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:5),50-47,50,47
+0022100929,2022-03-01,HOU,LAC,23.53,2,0,28,LAC,LAC,fg_make,41,False,False,,Mann 2' Running Layup (9 PTS) (Jackson 4 AST),50-49,50,49
+0022100929,2022-03-01,HOU,LAC,23.93,2,0,4,HOU,HOU,fg_miss,1,True,False,MISS Wood 4' Jump Shot,,50-49,50,49
+0022100929,2022-03-01,HOU,LAC,23.93,2,0,4,HOU,LAC,block,1,True,False,block,block,50-49,50,49
+0022100929,2022-03-01,HOU,LAC,23.93,2,0,4,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,50-49,50,49
+0022100929,2022-03-01,HOU,LAC,23.93,2,0,4,HOU,HOU,tov,11,False,False,ROCKETS Turnover: Shot Clock (T#7),,50-49,50,49
+0022100929,2022-03-01,HOU,LAC,24.0,2,0,0,HOU,,period_end,0,False,False,,,50-49,50,49
+0022100929,2022-03-01,HOU,LAC,24.0,3,12,0,HOU,,period_start,0,False,False,,,50-49,50,49
+0022100929,2022-03-01,HOU,LAC,24.3,3,11,42,HOU,HOU,fg3_make,1,False,False,Tate 25' 3PT Jump Shot (9 PTS) (Schroder 5 AST),,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,24.67,3,11,20,LAC,HOU,foul,1,False,False,Green P.FOUL (P1.T1) (P.Ransom),,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,24.82,3,11,11,LAC,LAC,fg_miss,79,False,False,,MISS Jackson 16' Pullup Jump Shot,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,24.88,3,11,7,HOU,HOU,reb,0,False,False,Schroder REBOUND (Off:1 Def:3),,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,25.15,3,10,51,HOU,HOU,fg3_miss,80,False,False,MISS Green 26' 3PT Step Back Jump Shot,,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,25.15,3,10,51,LAC,LAC,reb,0,False,False,,Clippers Rebound,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,25.3,3,10,42,LAC,LAC,fg3_miss,1,False,False,,MISS Batum 25' 3PT Jump Shot,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,25.33,3,10,40,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:5),,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,25.52,3,10,29,HOU,HOU,fg_miss,79,False,False,MISS Schroder 15' Pullup Jump Shot,,53-49,53,49
+0022100929,2022-03-01,HOU,LAC,25.53,3,10,28,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:1 Def:2),53-49,53,49
+0022100929,2022-03-01,HOU,LAC,25.77,3,10,14,LAC,LAC,fg3_make,79,False,False,,Morris Sr. 25' 3PT Pullup Jump Shot (12 PTS),53-52,53,52
+0022100929,2022-03-01,HOU,LAC,26.0,3,10,0,HOU,HOU,fg3_miss,79,False,False,MISS Gordon 30' 3PT Pullup Jump Shot,,53-52,53,52
+0022100929,2022-03-01,HOU,LAC,26.03,3,9,58,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:5),,53-52,53,52
+0022100929,2022-03-01,HOU,LAC,26.05,3,9,57,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,53-52,53,52
+0022100929,2022-03-01,HOU,LAC,26.23,3,9,46,HOU,HOU,fg3_make,79,False,False,Schroder 25' 3PT Pullup Jump Shot (8 PTS),,56-52,56,52
+0022100929,2022-03-01,HOU,LAC,26.53,3,9,28,LAC,LAC,fg3_make,1,False,False,,Morris Sr. 26' 3PT Jump Shot (15 PTS) (Jackson 5 AST),56-55,56,55
+0022100929,2022-03-01,HOU,LAC,26.73,3,9,16,HOU,HOU,fg_make,101,False,False,Wood 12' Driving Floating Jump Shot (14 PTS) (Schroder 6 AST),,58-55,58,55
+0022100929,2022-03-01,HOU,LAC,27.05,3,8,57,LAC,LAC,fg_make,44,False,False,,Batum 2' Reverse Layup (2 PTS) (Zubac 1 AST),58-57,58,57
+0022100929,2022-03-01,HOU,LAC,27.15,3,8,51,HOU,LAC,foul,2,False,False,,Morris Sr. S.FOUL (P2.T1) (P.Ransom),58-57,58,57
+0022100929,2022-03-01,HOU,LAC,27.15,3,8,51,HOU,HOU,ft_miss,11,False,False,MISS Tate Free Throw 1 of 2,,58-57,58,57
+0022100929,2022-03-01,HOU,LAC,27.15,3,8,51,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,58-57,58,57
+0022100929,2022-03-01,HOU,LAC,27.15,3,8,51,HOU,HOU,ft_make,12,False,False,Tate Free Throw 2 of 2 (10 PTS),,59-57,59,57
+0022100929,2022-03-01,HOU,LAC,27.37,3,8,38,LAC,LAC,fg_miss,58,False,False,,MISS Zubac 6' Turnaround Hook Shot,59-57,59,57
+0022100929,2022-03-01,HOU,LAC,27.4,3,8,36,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:6),,59-57,59,57
+0022100929,2022-03-01,HOU,LAC,27.6,3,8,24,HOU,HOU,fg_miss,101,False,False,MISS Gordon 11' Driving Floating Jump Shot,,59-57,59,57
+0022100929,2022-03-01,HOU,LAC,27.62,3,8,23,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:1 Def:2),59-57,59,57
+0022100929,2022-03-01,HOU,LAC,27.75,3,8,15,LAC,HOU,foul,1,False,False,Tate P.FOUL (P4.T2) (P.Ransom),,59-57,59,57
+0022100929,2022-03-01,HOU,LAC,27.92,3,8,5,LAC,LAC,fg3_make,1,False,False,,Jackson 26' 3PT Jump Shot (11 PTS) (Mann 2 AST),59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.08,3,7,55,HOU,HOU,tov,45,False,False,Gordon Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.33,3,7,40,HOU,LAC,foul,4,False,False,,Jackson OFF.Foul (P2) (J.Goble),59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.33,3,7,40,LAC,LAC,tov,37,False,False,,Jackson Offensive Foul Turnover (P2.T8),59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.62,3,7,23,HOU,HOU,fg_miss,57,False,False,MISS Tate 6' Driving Hook Shot,,59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.65,3,7,21,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:2 Def:5),,59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.68,3,7,19,HOU,HOU,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.72,3,7,17,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:3 Def:3),59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.88,3,7,7,LAC,LAC,fg_miss,63,False,False,,MISS Mann 11' Fadeaway Jumper,59-60,59,60
+0022100929,2022-03-01,HOU,LAC,28.9,3,7,6,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:4 Def:3),59-60,59,60
+0022100929,2022-03-01,HOU,LAC,29.0,3,7,0,LAC,LAC,fg_make,6,False,False,,Morris Sr. 3' Driving Layup (17 PTS) (Zubac 2 AST),59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.15,3,6,51,HOU,HOU,fg3_miss,80,False,False,MISS Green 26' 3PT Step Back Jump Shot,,59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.15,3,6,51,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:1 Def:3),59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.3,3,6,42,LAC,LAC,fg_miss,79,False,False,,MISS Jackson 17' Pullup Jump Shot,59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.35,3,6,39,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:5 Def:3),59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.35,3,6,39,LAC,LAC,fg_miss,97,False,False,,MISS Zubac Tip Layup Shot,59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.37,3,6,38,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:2 Def:2),59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.55,3,6,27,LAC,LAC,fg_miss,58,False,False,,MISS Morris Sr. 7' Turnaround Hook Shot,59-62,59,62
+0022100929,2022-03-01,HOU,LAC,29.63,3,6,22,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:6 Def:3),59-64,59,64
+0022100929,2022-03-01,HOU,LAC,29.63,3,6,22,LAC,LAC,fg_make,107,False,False,,Zubac Tip Dunk Shot (14 PTS),59-64,59,64
+0022100929,2022-03-01,HOU,LAC,29.77,3,6,14,HOU,HOU,fg3_miss,1,False,False,MISS Schroder 27' 3PT Jump Shot,,59-64,59,64
+0022100929,2022-03-01,HOU,LAC,29.78,3,6,13,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:3 Def:5),,59-64,59,64
+0022100929,2022-03-01,HOU,LAC,29.82,3,6,11,HOU,HOU,fg_make,108,False,False,Green 1' Cutting Dunk Shot (6 PTS) (Tate 2 AST),,61-64,61,64
+0022100929,2022-03-01,HOU,LAC,30.1,3,5,54,LAC,LAC,fg3_make,1,False,False,,Jackson 26' 3PT Jump Shot (14 PTS),61-67,61,67
+0022100929,2022-03-01,HOU,LAC,30.15,3,5,51,LAC,,foul,11,False,False,,,61-67,61,67
+0022100929,2022-03-01,HOU,LAC,30.15,3,5,51,LAC,LAC,ft_make,16,False,False,,Morris Sr. Free Throw Technical (18 PTS),61-68,61,68
+0022100929,2022-03-01,HOU,LAC,30.48,3,5,31,HOU,HOU,fg_miss,6,False,False,MISS Gordon 3' Driving Layup,,61-68,61,68
+0022100929,2022-03-01,HOU,LAC,30.52,3,5,29,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:4 Def:5),,61-68,61,68
+0022100929,2022-03-01,HOU,LAC,30.52,3,5,29,HOU,HOU,fg_make,97,False,False,Tate Tip Layup Shot (12 PTS),,63-68,63,68
+0022100929,2022-03-01,HOU,LAC,30.72,3,5,17,LAC,LAC,fg_make,108,False,False,,Zubac 1' Cutting Dunk Shot (16 PTS) (Jackson 6 AST),63-70,63,70
+0022100929,2022-03-01,HOU,LAC,30.92,3,5,5,HOU,HOU,fg_miss,6,True,False,MISS Gordon 5' Driving Layup,,63-70,63,70
+0022100929,2022-03-01,HOU,LAC,30.92,3,5,5,HOU,LAC,block,6,True,False,block,block,63-70,63,70
+0022100929,2022-03-01,HOU,LAC,30.92,3,5,5,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:6 Def:4),63-70,63,70
+0022100929,2022-03-01,HOU,LAC,31.02,3,4,59,LAC,LAC,fg3_miss,2,False,False,,MISS Morris Sr. 26' 3PT Running Jump Shot,63-70,63,70
+0022100929,2022-03-01,HOU,LAC,31.08,3,4,55,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:2 Def:3),63-70,63,70
+0022100929,2022-03-01,HOU,LAC,31.1,3,4,54,LAC,LAC,fg3_make,79,False,False,,Jackson 3PT Pullup Jump Shot (17 PTS),63-73,63,73
+0022100929,2022-03-01,HOU,LAC,31.15,3,4,51,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 5 Short 0),,63-73,63,73
+0022100929,2022-03-01,HOU,LAC,31.38,3,4,37,HOU,HOU,fg3_make,66,False,False,Martin Jr. 26' 3PT Jump Bank Shot (8 PTS) (Gordon 2 AST),,66-73,66,73
+0022100929,2022-03-01,HOU,LAC,31.63,3,4,22,LAC,HOU,foul,1,False,False,Mathews P.FOUL (P1.T3) (J.Goble),,66-73,66,73
+0022100929,2022-03-01,HOU,LAC,31.75,3,4,15,LAC,LAC,fg_miss,101,False,False,,MISS Jackson 12' Driving Floating Jump Shot,66-73,66,73
+0022100929,2022-03-01,HOU,LAC,31.78,3,4,13,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:7 Def:4),66-73,66,73
+0022100929,2022-03-01,HOU,LAC,31.78,3,4,13,LAC,LAC,fg_make,97,False,False,,Zubac Tip Layup Shot (18 PTS),66-75,66,75
+0022100929,2022-03-01,HOU,LAC,32.15,3,3,51,HOU,HOU,fg_miss,98,False,False,MISS Mathews 2' Cutting Layup Shot,,66-75,66,75
+0022100929,2022-03-01,HOU,LAC,32.18,3,3,49,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:7 Def:5),66-75,66,75
+0022100929,2022-03-01,HOU,LAC,32.22,3,3,47,LAC,LAC,fg_make,50,False,False,,Batum 1' Running Dunk (4 PTS) (Mann 3 AST),66-77,66,77
+0022100929,2022-03-01,HOU,LAC,32.45,3,3,33,HOU,LAC,foul,1,False,False,,Mann P.FOUL (P2.T2) (B.Adair),66-77,66,77
+0022100929,2022-03-01,HOU,LAC,32.68,3,3,19,HOU,HOU,fg3_make,80,False,False,Gordon 26' 3PT Step Back Jump Shot (9 PTS),,69-77,69,77
+0022100929,2022-03-01,HOU,LAC,32.92,3,3,5,LAC,HOU,foul,2,False,False,Mathews S.FOUL (P2.T4) (P.Ransom),,69-77,69,77
+0022100929,2022-03-01,HOU,LAC,32.92,3,3,5,LAC,LAC,ft_make,11,False,False,,Mann Free Throw 1 of 2 (10 PTS),69-78,69,78
+0022100929,2022-03-01,HOU,LAC,32.92,3,3,5,LAC,LAC,ft_make,12,False,False,,Mann Free Throw 2 of 2 (11 PTS),69-79,69,79
+0022100929,2022-03-01,HOU,LAC,33.3,3,2,42,HOU,LAC,foul,2,False,False,,Kennard S.FOUL (P1.T3) (P.Ransom),69-79,69,79
+0022100929,2022-03-01,HOU,LAC,33.3,3,2,42,HOU,HOU,ft_miss,11,False,False,MISS Martin Jr. Free Throw 1 of 2,,69-79,69,79
+0022100929,2022-03-01,HOU,LAC,33.3,3,2,42,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,69-79,69,79
+0022100929,2022-03-01,HOU,LAC,33.3,3,2,42,HOU,HOU,ft_make,12,False,False,Martin Jr. Free Throw 2 of 2 (9 PTS),,70-79,70,79
+0022100929,2022-03-01,HOU,LAC,33.58,3,2,25,LAC,LAC,fg_miss,63,False,False,,MISS Mann 12' Fadeaway Jumper,70-79,70,79
+0022100929,2022-03-01,HOU,LAC,33.62,3,2,23,LAC,LAC,reb,0,False,False,,Clippers Rebound,70-79,70,79
+0022100929,2022-03-01,HOU,LAC,33.62,3,2,23,LAC,HOU,foul,3,False,False,Wood L.B.FOUL (P1.PN) (J.Goble),,70-79,70,79
+0022100929,2022-03-01,HOU,LAC,33.62,3,2,23,LAC,LAC,ft_miss,11,False,False,,MISS Zubac Free Throw 1 of 2,70-79,70,79
+0022100929,2022-03-01,HOU,LAC,33.62,3,2,23,LAC,LAC,reb,1,False,False,,Clippers Rebound,70-79,70,79
+0022100929,2022-03-01,HOU,LAC,33.62,3,2,23,LAC,LAC,ft_make,12,False,False,,Zubac Free Throw 2 of 2 (19 PTS),70-80,70,80
+0022100929,2022-03-01,HOU,LAC,33.9,3,2,6,HOU,HOU,fg_miss,98,False,False,MISS Sengun 2' Cutting Layup Shot,,70-80,70,80
+0022100929,2022-03-01,HOU,LAC,33.93,3,2,4,LAC,LAC,reb,0,False,False,,Kennard REBOUND (Off:0 Def:3),70-80,70,80
+0022100929,2022-03-01,HOU,LAC,33.98,3,2,1,LAC,LAC,fg_make,108,False,False,,Zubac 1' Cutting Dunk Shot (21 PTS) (Morris Sr. 3 AST),70-82,70,82
+0022100929,2022-03-01,HOU,LAC,33.98,3,2,1,LAC,HOU,foul,2,False,False,Sengun S.FOUL (P2.PN) (P.Ransom),,70-82,70,82
+0022100929,2022-03-01,HOU,LAC,33.98,3,2,1,LAC,LAC,ft_make,10,False,False,,Zubac Free Throw 1 of 1 (22 PTS),70-83,70,83
+0022100929,2022-03-01,HOU,LAC,34.17,3,1,50,HOU,HOU,fg3_make,1,False,False,Mathews 25' 3PT Jump Shot (8 PTS) (Martin Jr. 3 AST),,73-83,73,83
+0022100929,2022-03-01,HOU,LAC,34.57,3,1,26,LAC,LAC,fg3_make,1,False,False,,Kennard 3PT Jump Shot (4 PTS) (Coffey 2 AST),73-86,73,86
+0022100929,2022-03-01,HOU,LAC,34.77,3,1,14,HOU,HOU,fg_make,79,False,False,Green 18' Pullup Jump Shot (8 PTS) (Sengun 1 AST),,75-86,75,86
+0022100929,2022-03-01,HOU,LAC,35.07,3,0,56,HOU,LAC,foul,4,False,False,,Zubac OFF.Foul (P3) (P.Ransom),75-86,75,86
+0022100929,2022-03-01,HOU,LAC,35.07,3,0,56,LAC,LAC,tov,37,False,False,,Zubac Offensive Foul Turnover (P2.T9),75-86,75,86
+0022100929,2022-03-01,HOU,LAC,35.37,3,0,38,HOU,HOU,fg_miss,6,False,False,MISS Mathews 4' Driving Layup,,75-86,75,86
+0022100929,2022-03-01,HOU,LAC,35.38,3,0,37,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:6),75-86,75,86
+0022100929,2022-03-01,HOU,LAC,35.48,3,0,31,LAC,LAC,fg3_make,1,False,False,,Coffey 3PT Jump Shot (3 PTS) (Mann 4 AST),75-89,75,89
+0022100929,2022-03-01,HOU,LAC,35.73,3,0,16,HOU,LAC,foul,1,False,False,,Covington P.FOUL (P2.T4) (B.Adair),75-89,75,89
+0022100929,2022-03-01,HOU,LAC,35.95,3,0,3,HOU,HOU,fg3_miss,80,False,False,MISS Sengun 27' 3PT Step Back Jump Shot,,75-89,75,89
+0022100929,2022-03-01,HOU,LAC,35.97,3,0,2,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:7),75-89,75,89
+0022100929,2022-03-01,HOU,LAC,36.0,3,0,0,LAC,,period_end,0,False,False,,,75-89,75,89
+0022100929,2022-03-01,HOU,LAC,36.0,4,12,0,LAC,,period_start,0,False,False,,,75-89,75,89
+0022100929,2022-03-01,HOU,LAC,36.23,4,11,46,LAC,LAC,fg3_miss,1,False,False,,MISS Coffey 26' 3PT Jump Shot,75-89,75,89
+0022100929,2022-03-01,HOU,LAC,36.25,4,11,45,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:3 Def:2),75-89,75,89
+0022100929,2022-03-01,HOU,LAC,36.35,4,11,39,LAC,HOU,foul,1,False,False,Mathews P.FOUL (P3.T1) (B.Adair),,75-89,75,89
+0022100929,2022-03-01,HOU,LAC,36.47,4,11,32,LAC,LAC,fg_make,6,False,False,,Hartenstein 1' Driving Layup (4 PTS) (Kennard 1 AST),75-91,75,91
+0022100929,2022-03-01,HOU,LAC,36.72,4,11,17,HOU,HOU,tov,13,False,False,Schroder Backcourt Turnover (P4.T9),,75-91,75,91
+0022100929,2022-03-01,HOU,LAC,36.93,4,11,4,LAC,LAC,tov,45,False,False,,Mann Out of Bounds - Bad Pass Turnover Turnover (P2.T10),75-91,75,91
+0022100929,2022-03-01,HOU,LAC,37.15,4,10,51,HOU,HOU,fg3_miss,1,False,False,MISS Christopher 25' 3PT Jump Shot,,75-91,75,91
+0022100929,2022-03-01,HOU,LAC,37.18,4,10,49,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:3 Def:3),75-91,75,91
+0022100929,2022-03-01,HOU,LAC,37.25,4,10,45,LAC,LAC,fg_make,41,False,False,,Coffey 2' Running Layup (5 PTS) (Mann 5 AST),75-93,75,93
+0022100929,2022-03-01,HOU,LAC,37.25,4,10,45,LAC,HOU,foul,2,False,False,Mathews S.FOUL (P4.T2) (P.Ransom),,75-93,75,93
+0022100929,2022-03-01,HOU,LAC,37.25,4,10,45,LAC,LAC,ft_make,10,False,False,,Coffey Free Throw 1 of 1 (6 PTS),75-94,75,94
+0022100929,2022-03-01,HOU,LAC,37.45,4,10,33,HOU,HOU,tov,1,False,True,Sengun Bad Pass Turnover (P1.T10),,75-94,75,94
+0022100929,2022-03-01,HOU,LAC,37.45,4,10,33,HOU,LAC,steal,1,False,True,steal,steal,75-94,75,94
+0022100929,2022-03-01,HOU,LAC,37.5,4,10,30,LAC,LAC,fg_make,41,False,False,,Coffey 1' Running Layup (8 PTS) (Hartenstein 1 AST),75-96,75,96
+0022100929,2022-03-01,HOU,LAC,37.62,4,10,23,LAC,HOU,foul,4,False,False,Mathews OFF.Foul (P5) (J.Goble),,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,37.62,4,10,23,HOU,HOU,tov,37,False,False,Mathews Offensive Foul Turnover (P1.T11),,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,37.8,4,10,12,LAC,LAC,fg3_miss,1,False,False,,MISS Mann 24' 3PT Jump Shot,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,37.82,4,10,11,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,37.82,4,10,11,HOU,LAC,foul,3,False,False,,Hartenstein L.B.FOUL (P2.T1) (B.Adair),75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.02,4,9,59,HOU,HOU,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.05,4,9,57,LAC,LAC,reb,0,False,False,,Hartenstein REBOUND (Off:3 Def:5),75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.32,4,9,41,LAC,LAC,fg3_miss,1,False,False,,MISS Hartenstein 3PT Jump Shot,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.35,4,9,39,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.53,4,9,28,HOU,HOU,fg3_miss,1,False,False,MISS Martin Jr. 26' 3PT Jump Shot,,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.55,4,9,27,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:3 Def:4),75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.82,4,9,11,LAC,LAC,tov,1,False,True,,Coffey Bad Pass Turnover (P1.T11),75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.82,4,9,11,LAC,HOU,steal,1,False,True,steal,steal,75-96,75,96
+0022100929,2022-03-01,HOU,LAC,38.83,4,9,10,HOU,LAC,foul,28,False,False,,Mann Personal Take Foul (P3.T2) (B.Adair),75-96,75,96
+0022100929,2022-03-01,HOU,LAC,39.1,4,8,54,HOU,LAC,foul,2,False,False,,Hartenstein S.FOUL (P3.T3) (J.Goble),75-96,75,96
+0022100929,2022-03-01,HOU,LAC,39.1,4,8,54,HOU,HOU,ft_make,11,False,False,Wood Free Throw 1 of 2 (15 PTS),,76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.1,4,8,54,HOU,HOU,ft_miss,12,False,False,MISS Wood Free Throw 2 of 2,,76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.1,4,8,54,LAC,LAC,reb,0,False,False,,Coffey REBOUND (Off:0 Def:2),76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.32,4,8,41,HOU,LAC,foul,4,False,False,,Hartenstein OFF.Foul (P4) (P.Ransom),76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.32,4,8,41,LAC,LAC,tov,37,False,False,,Hartenstein Offensive Foul Turnover (P3.T12),76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.42,4,8,35,HOU,HOU,fg_miss,98,False,False,MISS Wood 6' Cutting Layup Shot,,76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.45,4,8,33,LAC,LAC,reb,0,False,False,,Covington REBOUND (Off:0 Def:8),76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.6,4,8,24,LAC,LAC,tov,2,False,True,,Hartenstein Lost Ball Turnover (P4.T13),76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.6,4,8,24,LAC,HOU,steal,2,False,True,steal,steal,76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.72,4,8,17,HOU,HOU,tov,45,False,False,Schroder Out of Bounds - Bad Pass Turnover Turnover (P5.T12),,76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.97,4,8,2,LAC,LAC,tov,2,False,True,,Kennard Lost Ball Turnover (P1.T14),76-96,76,96
+0022100929,2022-03-01,HOU,LAC,39.97,4,8,2,LAC,HOU,steal,2,False,True,steal,steal,76-96,76,96
+0022100929,2022-03-01,HOU,LAC,40.05,4,7,57,HOU,HOU,fg_make,2,False,False,Christopher 3' Running Jump Shot (4 PTS),,78-96,78,96
+0022100929,2022-03-01,HOU,LAC,40.4,4,7,36,LAC,LAC,fg_miss,101,False,False,,MISS Boston Jr. 6' Driving Floating Jump Shot,78-96,78,96
+0022100929,2022-03-01,HOU,LAC,40.43,4,7,34,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:3 Def:3),,78-96,78,96
+0022100929,2022-03-01,HOU,LAC,40.52,4,7,29,HOU,HOU,fg_make,50,False,False,Sengun 1' Running Dunk (7 PTS),,80-96,80,96
+0022100929,2022-03-01,HOU,LAC,40.52,4,7,29,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),80-96,80,96
+0022100929,2022-03-01,HOU,LAC,40.72,4,7,17,LAC,LAC,fg_make,43,False,False,,Covington 2' Alley Oop Layup (5 PTS) (Coffey 3 AST),80-98,80,98
+0022100929,2022-03-01,HOU,LAC,40.95,4,7,3,HOU,HOU,tov,1,False,True,Schroder Bad Pass Turnover (P6.T13),,80-98,80,98
+0022100929,2022-03-01,HOU,LAC,40.95,4,7,3,HOU,LAC,steal,1,False,True,steal,steal,80-98,80,98
+0022100929,2022-03-01,HOU,LAC,41.03,4,6,58,LAC,LAC,fg_make,74,False,False,,Coffey 1' Running Reverse Layup (10 PTS) (Boston Jr. 1 AST),80-100,80,100
+0022100929,2022-03-01,HOU,LAC,41.3,4,6,42,HOU,HOU,fg_make,75,False,False,Green 2' Driving Finger Roll Layup (10 PTS),,82-100,82,100
+0022100929,2022-03-01,HOU,LAC,41.53,4,6,28,LAC,LAC,fg_make,79,False,False,,Boston Jr. 18' Pullup Jump Shot (7 PTS),82-102,82,102
+0022100929,2022-03-01,HOU,LAC,41.82,4,6,11,HOU,HOU,fg_make,58,False,False,Wood 4' Turnaround Hook Shot (17 PTS) (Christopher 4 AST),,84-102,84,102
+0022100929,2022-03-01,HOU,LAC,42.07,4,5,56,LAC,LAC,fg_make,78,False,False,,Hartenstein 12' Floating Jump Shot (6 PTS) (Coffey 4 AST),84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.27,4,5,44,HOU,HOU,fg_miss,80,False,False,MISS Green 18' Step Back Jump Shot,,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.28,4,5,43,LAC,LAC,reb,0,False,False,,Coffey REBOUND (Off:0 Def:3),84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.38,4,5,37,LAC,LAC,fg_miss,76,False,False,,MISS Coffey 3' Running Finger Roll Layup,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.4,4,5,36,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:7),,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.55,4,5,27,HOU,HOU,fg_miss,6,False,False,MISS Schroder 1' Driving Layup,,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.57,4,5,26,LAC,LAC,reb,0,False,False,,Boston Jr. REBOUND (Off:0 Def:2),84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.72,4,5,17,LAC,HOU,foul,1,False,False,Wood P.FOUL (P2.T3) (J.Goble),,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.95,4,5,3,LAC,LAC,fg3_miss,63,False,False,,MISS Kennard 26' 3PT Fadeaway Jumper,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,42.97,4,5,2,HOU,HOU,reb,0,False,False,Christopher REBOUND (Off:0 Def:4),,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,43.02,4,4,59,HOU,HOU,fg_miss,41,True,False,MISS Christopher 2' Running Layup,,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,43.02,4,4,59,HOU,LAC,block,41,True,False,block,block,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,43.02,4,4,59,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,84-104,84,104
+0022100929,2022-03-01,HOU,LAC,43.07,4,4,56,HOU,HOU,fg_make,108,False,False,Sengun 2' Cutting Dunk Shot (9 PTS) (Christopher 5 AST),,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.37,4,4,38,LAC,LAC,fg3_miss,80,False,False,,MISS Boston Jr. 24' 3PT Step Back Jump Shot,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.4,4,4,36,HOU,HOU,reb,0,False,False,Christopher REBOUND (Off:0 Def:5),,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.63,4,4,22,HOU,HOU,fg_miss,79,False,False,MISS Christopher 13' Pullup Jump Shot,,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.67,4,4,20,LAC,LAC,reb,0,False,False,,Boston Jr. REBOUND (Off:0 Def:3),86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.73,4,4,16,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.85,4,4,9,LAC,LAC,fg3_miss,1,False,False,,MISS Covington 27' 3PT Jump Shot,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.88,4,4,7,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:3 Def:4),,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.97,4,4,2,HOU,HOU,fg_miss,41,False,False,MISS Martin Jr. 5' Running Layup,,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,43.97,4,4,2,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,44.07,4,3,56,HOU,HOU,fg_miss,6,True,False,MISS Green 6' Driving Layup,,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,44.07,4,3,56,HOU,LAC,block,6,True,False,block,block,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,44.08,4,3,55,LAC,LAC,reb,0,False,False,,Clippers Rebound,86-104,86,104
+0022100929,2022-03-01,HOU,LAC,44.32,4,3,41,LAC,LAC,fg3_make,80,False,False,,Ojeleye 26' 3PT Step Back Jump Shot (3 PTS),86-107,86,107
+0022100929,2022-03-01,HOU,LAC,44.73,4,3,16,HOU,HOU,fg_make,9,False,False,Green 1' Driving Dunk (12 PTS),,88-107,88,107
+0022100929,2022-03-01,HOU,LAC,44.9,4,3,6,LAC,HOU,foul,2,False,False,Nwaba S.FOUL (P1.T4) (J.Goble),,88-107,88,107
+0022100929,2022-03-01,HOU,LAC,44.9,4,3,6,LAC,LAC,ft_make,11,False,False,,Boston Jr. Free Throw 1 of 2 (8 PTS),88-108,88,108
+0022100929,2022-03-01,HOU,LAC,44.9,4,3,6,LAC,LAC,ft_make,12,False,False,,Boston Jr. Free Throw 2 of 2 (9 PTS),88-109,88,109
+0022100929,2022-03-01,HOU,LAC,45.13,4,2,52,HOU,HOU,fg_make,58,False,False,Sengun 3' Turnaround Hook Shot (11 PTS),,90-109,90,109
+0022100929,2022-03-01,HOU,LAC,45.48,4,2,31,LAC,LAC,tov,2,False,True,,Ojeleye Lost Ball Turnover (P1.T15),90-109,90,109
+0022100929,2022-03-01,HOU,LAC,45.48,4,2,31,LAC,HOU,steal,2,False,True,steal,steal,90-109,90,109
+0022100929,2022-03-01,HOU,LAC,45.53,4,2,28,HOU,HOU,fg_make,41,False,False,Sengun 3' Running Layup (13 PTS) (Green 1 AST),,92-109,92,109
+0022100929,2022-03-01,HOU,LAC,45.53,4,2,28,HOU,LAC,violation,2,False,False,,Covington Violation:Defensive Goaltending (J.Goble),92-109,92,109
+0022100929,2022-03-01,HOU,LAC,45.8,4,2,12,LAC,LAC,fg_miss,79,False,False,,MISS Boston Jr. 18' Pullup Jump Shot,92-109,92,109
+0022100929,2022-03-01,HOU,LAC,45.83,4,2,10,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:3 Def:5),,92-109,92,109
+0022100929,2022-03-01,HOU,LAC,46.07,4,1,56,HOU,LAC,foul,2,False,False,,Ojeleye S.FOUL (P1.T4) (B.Adair),92-109,92,109
+0022100929,2022-03-01,HOU,LAC,46.07,4,1,56,HOU,HOU,ft_miss,11,False,False,MISS Green Free Throw 1 of 2,,92-109,92,109
+0022100929,2022-03-01,HOU,LAC,46.07,4,1,56,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,92-109,92,109
+0022100929,2022-03-01,HOU,LAC,46.07,4,1,56,HOU,HOU,ft_make,12,False,False,Green Free Throw 2 of 2 (13 PTS),,93-109,93,109
+0022100929,2022-03-01,HOU,LAC,46.35,4,1,39,LAC,LAC,tov,1,False,True,,Hartenstein Bad Pass Turnover (P5.T16),93-109,93,109
+0022100929,2022-03-01,HOU,LAC,46.35,4,1,39,LAC,HOU,steal,1,False,True,steal,steal,93-109,93,109
+0022100929,2022-03-01,HOU,LAC,46.42,4,1,35,HOU,HOU,fg_make,41,False,False,Green 4' Running Layup (15 PTS),,95-109,95,109
+0022100929,2022-03-01,HOU,LAC,46.63,4,1,22,LAC,LAC,fg3_miss,1,False,False,,MISS Covington 28' 3PT Jump Shot,95-109,95,109
+0022100929,2022-03-01,HOU,LAC,46.63,4,1,22,LAC,LAC,reb,0,False,False,,Boston Jr. REBOUND (Off:1 Def:3),95-109,95,109
+0022100929,2022-03-01,HOU,LAC,46.68,4,1,19,LAC,LAC,fg_make,72,False,False,,Boston Jr. 2' Putback Layup (11 PTS),95-111,95,111
+0022100929,2022-03-01,HOU,LAC,46.87,4,1,8,HOU,HOU,tov,1,False,True,Christopher Bad Pass Turnover (P2.T14),,95-111,95,111
+0022100929,2022-03-01,HOU,LAC,46.87,4,1,8,HOU,LAC,steal,1,False,True,steal,steal,95-111,95,111
+0022100929,2022-03-01,HOU,LAC,46.92,4,1,5,LAC,LAC,fg_make,50,False,False,,Covington 1' Running Dunk (7 PTS) (Boston Jr. 2 AST),95-113,95,113
+0022100929,2022-03-01,HOU,LAC,47.07,4,0,56,HOU,HOU,fg3_make,79,False,False,Green 26' 3PT Pullup Jump Shot (18 PTS),,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.17,4,0,50,LAC,LAC,fg3_miss,79,False,False,,MISS Hood 26' 3PT Pullup Jump Shot,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.17,4,0,50,HOU,HOU,reb,0,False,False,Sengun REBOUND (Off:3 Def:6),,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.38,4,0,37,HOU,HOU,fg_miss,6,False,False,MISS Green 3' Driving Layup,,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.42,4,0,35,HOU,HOU,reb,0,False,False,Green REBOUND (Off:2 Def:1),,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.45,4,0,33,HOU,HOU,fg_miss,97,False,False,MISS Green 3' Tip Layup Shot,,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.5,4,0,30,HOU,HOU,reb,0,False,False,Green REBOUND (Off:3 Def:1),,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.53,4,0,28,HOU,HOU,fg3_miss,1,False,False,MISS Christopher 27' 3PT Jump Shot,,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.57,4,0,26,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:1 Def:0),,98-113,98,113
+0022100929,2022-03-01,HOU,LAC,47.7,4,0,18,HOU,HOU,fg_make,79,False,False,Green 21' Pullup Jump Shot (20 PTS),,100-113,100,113
+0022100929,2022-03-01,HOU,LAC,48.0,4,0,0,HOU,,period_end,0,False,False,,,100-113,100,113

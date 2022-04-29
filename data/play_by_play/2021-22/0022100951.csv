@@ -1,0 +1,455 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100951,2022-03-04,OKC,MIN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100951,2022-03-04,OKC,MIN,0.0,1,12,0,,OKC,jump_ball,0,False,False,Jump Ball Roby vs. Towns: Tip to Beverley,,0-0,0,0
+0022100951,2022-03-04,OKC,MIN,0.28,1,11,43,MIN,MIN,fg_make,6,False,False,,Russell 9' Driving Layup (2 PTS) (Beverley 1 AST),0-2,0,2
+0022100951,2022-03-04,OKC,MIN,0.6,1,11,24,OKC,MIN,foul,2,False,False,,Beverley S.FOUL (P1.T1) (J.Goble),0-2,0,2
+0022100951,2022-03-04,OKC,MIN,0.6,1,11,24,OKC,OKC,ft_make,11,False,False,Roby Free Throw 1 of 2 (1 PTS),,1-2,1,2
+0022100951,2022-03-04,OKC,MIN,0.6,1,11,24,OKC,OKC,ft_make,12,False,False,Roby Free Throw 2 of 2 (2 PTS),,2-2,2,2
+0022100951,2022-03-04,OKC,MIN,0.93,1,11,4,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P1.T1),2-2,2,2
+0022100951,2022-03-04,OKC,MIN,0.93,1,11,4,MIN,OKC,steal,1,False,True,steal,steal,2-2,2,2
+0022100951,2022-03-04,OKC,MIN,1.03,1,10,58,OKC,OKC,fg_make,41,False,False,Roby 6' Running Layup (4 PTS) (Gilgeous-Alexander 1 AST),,4-2,4,2
+0022100951,2022-03-04,OKC,MIN,1.15,1,10,51,MIN,OKC,foul,1,False,False,Gilgeous-Alexander P.FOUL (P1.T1) (J.Goble),,4-2,4,2
+0022100951,2022-03-04,OKC,MIN,1.15,1,10,51,MIN,MIN,ft_make,11,False,False,,Russell Free Throw 1 of 2 (3 PTS),4-3,4,3
+0022100951,2022-03-04,OKC,MIN,1.15,1,10,51,MIN,MIN,ft_make,12,False,False,,Russell Free Throw 2 of 2 (4 PTS),4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.45,1,10,33,OKC,OKC,fg_miss,5,True,False,MISS Pokusevski 5' Layup,,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.45,1,10,33,OKC,MIN,block,5,True,False,block,block,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.6,1,10,24,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:1),4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.63,1,10,22,MIN,MIN,fg_miss,5,True,False,,MISS Towns 3' Layup,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.63,1,10,22,MIN,OKC,block,5,True,False,block,block,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.65,1,10,21,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:0),4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.67,1,10,20,MIN,MIN,fg3_miss,1,False,False,,MISS Beverley 28' 3PT Jump Shot,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.7,1,10,18,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:0 Def:1),,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.82,1,10,11,OKC,MIN,foul,1,False,False,,McDaniels P.FOUL (P1.T2) (J.Goble),4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.88,1,10,7,OKC,OKC,tov,1,False,True,Gilgeous-Alexander Bad Pass Turnover (P1.T1),,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,1.88,1,10,7,OKC,MIN,steal,1,False,True,steal,steal,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,2.07,1,9,56,MIN,MIN,fg_miss,41,True,False,,MISS McDaniels 3' Running Layup,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,2.07,1,9,56,MIN,OKC,block,41,True,False,block,block,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,2.07,1,9,56,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,2.1,1,9,54,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 28' 3PT Jump Shot,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,2.2,1,9,48,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:1),,4-4,4,4
+0022100951,2022-03-04,OKC,MIN,2.25,1,9,45,OKC,OKC,fg_make,76,False,False,Gilgeous-Alexander 4' Running Finger Roll Layup (2 PTS),,6-4,6,4
+0022100951,2022-03-04,OKC,MIN,2.42,1,9,35,MIN,MIN,fg_make,6,False,False,,Towns 5' Driving Layup (2 PTS) (Beverley 2 AST),6-6,6,6
+0022100951,2022-03-04,OKC,MIN,2.7,1,9,18,OKC,OKC,tov,2,False,True,Bazley Lost Ball Turnover (P1.T2),,6-6,6,6
+0022100951,2022-03-04,OKC,MIN,2.7,1,9,18,OKC,MIN,steal,2,False,True,steal,steal,6-6,6,6
+0022100951,2022-03-04,OKC,MIN,2.78,1,9,13,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P2.T2),6-6,6,6
+0022100951,2022-03-04,OKC,MIN,2.78,1,9,13,MIN,OKC,steal,1,False,True,steal,steal,6-6,6,6
+0022100951,2022-03-04,OKC,MIN,2.78,1,9,13,OKC,OKC,fg_make,5,False,False,Roby 3' Layup (6 PTS),,8-6,8,6
+0022100951,2022-03-04,OKC,MIN,2.78,1,9,13,OKC,MIN,foul,2,False,False,,Towns S.FOUL (P1.T3) (J.Goble),8-6,8,6
+0022100951,2022-03-04,OKC,MIN,2.78,1,9,13,OKC,OKC,ft_make,10,False,False,Roby Free Throw 1 of 1 (7 PTS),,9-6,9,6
+0022100951,2022-03-04,OKC,MIN,2.92,1,9,5,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 3PT Jump Shot,9-6,9,6
+0022100951,2022-03-04,OKC,MIN,3.0,1,9,0,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:1),,9-6,9,6
+0022100951,2022-03-04,OKC,MIN,3.07,1,8,56,OKC,OKC,fg_make,106,False,False,Pokusevski 5' Running Alley Oop Dunk Shot (2 PTS) (Roby 1 AST),,11-6,11,6
+0022100951,2022-03-04,OKC,MIN,3.25,1,8,45,MIN,MIN,fg3_miss,79,False,False,,MISS Russell 27' 3PT Pullup Jump Shot,11-6,11,6
+0022100951,2022-03-04,OKC,MIN,3.32,1,8,41,OKC,OKC,reb,0,False,False,Mann REBOUND (Off:0 Def:1),,11-6,11,6
+0022100951,2022-03-04,OKC,MIN,3.4,1,8,36,OKC,OKC,fg3_miss,1,False,False,MISS Bazley 26' 3PT Jump Shot,,11-6,11,6
+0022100951,2022-03-04,OKC,MIN,3.5,1,8,30,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:0 Def:1),11-6,11,6
+0022100951,2022-03-04,OKC,MIN,3.63,1,8,22,MIN,MIN,fg3_make,1,False,False,,Towns 27' 3PT Jump Shot (5 PTS) (Russell 1 AST),11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.85,1,8,9,OKC,OKC,tov,1,False,True,Bazley Bad Pass Turnover (P2.T3),,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.85,1,8,9,OKC,MIN,steal,1,False,True,steal,steal,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.88,1,8,7,MIN,MIN,fg3_miss,103,False,False,,MISS Russell 28' 3PT Running Pull-Up Jump Shot,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.9,1,8,6,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:1),11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.9,1,8,6,MIN,MIN,fg_miss,87,False,False,,MISS Vanderbilt 4' Putback Dunk,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.92,1,8,5,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:2),,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.92,1,8,5,OKC,OKC,fg_miss,41,False,False,MISS Gilgeous-Alexander 10' Running Layup,,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.93,1,8,4,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:1 Def:0),,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.93,1,8,4,OKC,OKC,fg_miss,97,False,False,MISS Roby 2' Tip Layup Shot,,11-9,11,9
+0022100951,2022-03-04,OKC,MIN,3.93,1,8,4,MIN,MIN,reb,0,False,False,,Beverley REBOUND (Off:0 Def:1),11-9,11,9
+0022100951,2022-03-04,OKC,MIN,4.25,1,7,45,MIN,MIN,fg_make,41,False,False,,McDaniels 21' Running Layup (2 PTS) (Beverley 3 AST),11-11,11,11
+0022100951,2022-03-04,OKC,MIN,4.45,1,7,33,OKC,OKC,fg_make,80,False,False,Gilgeous-Alexander 12' Step Back Jump Shot (4 PTS),,13-11,13,11
+0022100951,2022-03-04,OKC,MIN,4.62,1,7,23,MIN,OKC,foul,2,False,False,Mann S.FOUL (P1.T2) (J.Goble),,13-11,13,11
+0022100951,2022-03-04,OKC,MIN,4.62,1,7,23,MIN,MIN,ft_miss,11,False,False,,MISS Beverley Free Throw 1 of 2,13-11,13,11
+0022100951,2022-03-04,OKC,MIN,4.62,1,7,23,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,13-11,13,11
+0022100951,2022-03-04,OKC,MIN,4.62,1,7,23,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,13-11,13,11
+0022100951,2022-03-04,OKC,MIN,4.62,1,7,23,OKC,MIN,ft_make,12,False,False,,Beverley Free Throw 2 of 2 (1 PTS),13-12,13,12
+0022100951,2022-03-04,OKC,MIN,4.72,1,7,17,OKC,MIN,foul,2,False,False,,Vanderbilt S.FOUL (P1.T4) (N.Green),13-12,13,12
+0022100951,2022-03-04,OKC,MIN,4.72,1,7,17,OKC,OKC,ft_make,11,False,False,Roby Free Throw 1 of 2 (8 PTS),,14-12,14,12
+0022100951,2022-03-04,OKC,MIN,4.72,1,7,17,OKC,OKC,ft_make,12,False,False,Roby Free Throw 2 of 2 (9 PTS),,15-12,15,12
+0022100951,2022-03-04,OKC,MIN,4.97,1,7,2,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 24' 3PT Jump Shot,15-12,15,12
+0022100951,2022-03-04,OKC,MIN,5.05,1,6,57,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:2),,15-12,15,12
+0022100951,2022-03-04,OKC,MIN,5.2,1,6,48,OKC,OKC,tov,39,False,False,Roby Step Out of Bounds Turnover (P1.T4),,15-12,15,12
+0022100951,2022-03-04,OKC,MIN,5.37,1,6,38,MIN,OKC,foul,1,False,False,Pokusevski P.FOUL (P1.T3) (N.Green),,15-12,15,12
+0022100951,2022-03-04,OKC,MIN,5.42,1,6,35,MIN,MIN,fg_make,108,False,False,,McDaniels 4' Cutting Dunk Shot (4 PTS) (Towns 1 AST),15-14,15,14
+0022100951,2022-03-04,OKC,MIN,5.7,1,6,18,OKC,OKC,fg_make,5,False,False,Roby 3' Layup (11 PTS) (Gilgeous-Alexander 2 AST),,17-14,17,14
+0022100951,2022-03-04,OKC,MIN,5.93,1,6,4,MIN,MIN,fg_make,5,False,False,,Towns 4' Layup (7 PTS) (Russell 2 AST),17-16,17,16
+0022100951,2022-03-04,OKC,MIN,5.93,1,6,4,MIN,OKC,foul,2,False,False,Gilgeous-Alexander S.FOUL (P2.T4) (N.Sago),,17-16,17,16
+0022100951,2022-03-04,OKC,MIN,5.93,1,6,4,MIN,MIN,ft_make,10,False,False,,Towns Free Throw 1 of 1 (8 PTS),17-17,17,17
+0022100951,2022-03-04,OKC,MIN,6.12,1,5,53,OKC,MIN,violation,5,False,False,,Towns Violation:Kicked Ball (N.Green),17-17,17,17
+0022100951,2022-03-04,OKC,MIN,6.27,1,5,44,OKC,OKC,fg3_make,80,False,False,Mann 26' 3PT Step Back Jump Shot (3 PTS),,20-17,20,17
+0022100951,2022-03-04,OKC,MIN,6.48,1,5,31,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 26' 3PT Jump Shot,20-17,20,17
+0022100951,2022-03-04,OKC,MIN,6.53,1,5,28,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:3),,20-17,20,17
+0022100951,2022-03-04,OKC,MIN,6.67,1,5,20,OKC,OKC,fg_make,9,False,False,Roby 4' Driving Dunk (13 PTS) (Gilgeous-Alexander 3 AST),,22-17,22,17
+0022100951,2022-03-04,OKC,MIN,6.95,1,5,3,MIN,MIN,fg_make,57,False,False,,Towns 6' Driving Hook Shot (10 PTS),22-19,22,19
+0022100951,2022-03-04,OKC,MIN,7.2,1,4,48,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 6' Driving Layup,,22-19,22,19
+0022100951,2022-03-04,OKC,MIN,7.23,1,4,46,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:2),22-19,22,19
+0022100951,2022-03-04,OKC,MIN,7.4,1,4,36,MIN,MIN,fg3_miss,1,False,False,,MISS Beverley 27' 3PT Jump Shot,22-19,22,19
+0022100951,2022-03-04,OKC,MIN,7.47,1,4,32,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:1 Def:1),,22-19,22,19
+0022100951,2022-03-04,OKC,MIN,7.65,1,4,21,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 6' Driving Layup,,22-19,22,19
+0022100951,2022-03-04,OKC,MIN,7.7,1,4,18,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:3),22-19,22,19
+0022100951,2022-03-04,OKC,MIN,7.78,1,4,13,MIN,MIN,fg3_make,1,False,False,,McDaniels 3PT Jump Shot (7 PTS) (Vanderbilt 1 AST),22-22,22,22
+0022100951,2022-03-04,OKC,MIN,8.05,1,3,57,OKC,OKC,fg_miss,6,False,False,MISS Mann 3' Driving Layup,,22-22,22,22
+0022100951,2022-03-04,OKC,MIN,8.1,1,3,54,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:1),22-22,22,22
+0022100951,2022-03-04,OKC,MIN,8.1,1,3,54,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P3.T3),22-22,22,22
+0022100951,2022-03-04,OKC,MIN,8.1,1,3,54,MIN,OKC,steal,1,False,True,steal,steal,22-22,22,22
+0022100951,2022-03-04,OKC,MIN,8.18,1,3,49,OKC,OKC,fg_make,5,False,False,Gilgeous-Alexander 3' Layup (6 PTS),,24-22,24,22
+0022100951,2022-03-04,OKC,MIN,8.28,1,3,43,MIN,MIN,fg3_make,1,False,False,,Beasley 25' 3PT Jump Shot (3 PTS),24-25,24,25
+0022100951,2022-03-04,OKC,MIN,8.42,1,3,35,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,24-25,24,25
+0022100951,2022-03-04,OKC,MIN,8.65,1,3,21,OKC,OKC,fg3_miss,80,False,False,MISS Mann 27' 3PT Step Back Jump Shot,,24-25,24,25
+0022100951,2022-03-04,OKC,MIN,8.75,1,3,15,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:1),24-25,24,25
+0022100951,2022-03-04,OKC,MIN,8.9,1,3,6,MIN,OKC,foul,1,False,False,Roby P.FOUL (P1.PN) (J.Goble),,24-25,24,25
+0022100951,2022-03-04,OKC,MIN,8.9,1,3,6,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (11 PTS),24-26,24,26
+0022100951,2022-03-04,OKC,MIN,8.9,1,3,6,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (12 PTS),24-27,24,27
+0022100951,2022-03-04,OKC,MIN,9.12,1,2,53,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 8' Driving Layup (8 PTS),,26-27,26,27
+0022100951,2022-03-04,OKC,MIN,9.4,1,2,36,MIN,MIN,fg3_make,1,False,False,,McDaniels 3PT Jump Shot (10 PTS) (Towns 2 AST),26-30,26,30
+0022100951,2022-03-04,OKC,MIN,9.67,1,2,20,OKC,OKC,fg_make,79,False,False,Gilgeous-Alexander 20' Pullup Jump Shot (10 PTS),,28-30,28,30
+0022100951,2022-03-04,OKC,MIN,9.95,1,2,3,MIN,MIN,fg_miss,98,False,False,,MISS Prince 4' Cutting Layup Shot,28-30,28,30
+0022100951,2022-03-04,OKC,MIN,10.02,1,1,59,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:1 Def:2),,28-30,28,30
+0022100951,2022-03-04,OKC,MIN,10.1,1,1,54,OKC,OKC,fg3_make,1,False,False,Waters III 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),,31-30,31,30
+0022100951,2022-03-04,OKC,MIN,10.35,1,1,39,MIN,MIN,fg3_miss,1,False,False,,MISS Prince 3PT Jump Shot,31-30,31,30
+0022100951,2022-03-04,OKC,MIN,10.43,1,1,34,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:1 Def:3),,31-30,31,30
+0022100951,2022-03-04,OKC,MIN,10.67,1,1,20,OKC,OKC,fg3_miss,1,False,False,MISS Waters III 27' 3PT Jump Shot,,31-30,31,30
+0022100951,2022-03-04,OKC,MIN,10.72,1,1,17,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:2),31-30,31,30
+0022100951,2022-03-04,OKC,MIN,10.83,1,1,10,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 3PT Jump Shot,31-30,31,30
+0022100951,2022-03-04,OKC,MIN,10.88,1,1,7,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:1 Def:4),,31-30,31,30
+0022100951,2022-03-04,OKC,MIN,11.08,1,0,55,OKC,MIN,foul,2,False,False,,McDaniels S.FOUL (P2.PN) (J.Goble),31-30,31,30
+0022100951,2022-03-04,OKC,MIN,11.08,1,0,55,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (11 PTS),,32-30,32,30
+0022100951,2022-03-04,OKC,MIN,11.08,1,0,55,OKC,OKC,ft_miss,12,False,False,MISS Gilgeous-Alexander Free Throw 2 of 2,,32-30,32,30
+0022100951,2022-03-04,OKC,MIN,11.18,1,0,49,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),32-30,32,30
+0022100951,2022-03-04,OKC,MIN,11.4,1,0,36,MIN,MIN,fg_make,44,False,False,,Reid 5' Reverse Layup (2 PTS),32-32,32,32
+0022100951,2022-03-04,OKC,MIN,11.53,1,0,28,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 6' Driving Layup (13 PTS),,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,11.78,1,0,13,MIN,MIN,tov,2,False,True,,Reid Lost Ball Turnover (P1.T4),34-32,34,32
+0022100951,2022-03-04,OKC,MIN,11.78,1,0,13,MIN,OKC,steal,2,False,True,steal,steal,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,11.98,1,0,1,OKC,OKC,fg3_miss,1,False,False,MISS Waters III 27' 3PT Jump Shot,,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,11.98,1,0,1,OKC,OKC,reb,0,False,False,THUNDER Rebound,,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,12.0,1,0,0,OKC,,period_end,0,False,False,,,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,12.0,2,12,0,OKC,,period_start,0,False,False,,,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,12.33,2,11,40,OKC,OKC,tov,2,False,True,Mann Lost Ball Turnover (P1.T5),,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,12.33,2,11,40,OKC,MIN,steal,2,False,True,steal,steal,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,12.38,2,11,37,MIN,OKC,foul,1,False,False,Waters III P.FOUL (P1.T1) (N.Green),,34-32,34,32
+0022100951,2022-03-04,OKC,MIN,12.43,2,11,34,MIN,MIN,fg3_make,1,False,False,,Beasley 28' 3PT Jump Shot (6 PTS) (Russell 3 AST),34-35,34,35
+0022100951,2022-03-04,OKC,MIN,12.88,2,11,7,OKC,OKC,fg3_miss,1,False,False,MISS Waters III 3PT Jump Shot,,34-35,34,35
+0022100951,2022-03-04,OKC,MIN,12.93,2,11,4,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:0 Def:2),34-35,34,35
+0022100951,2022-03-04,OKC,MIN,12.93,2,11,4,MIN,MIN,tov,2,False,True,,Russell Lost Ball Turnover (P1.T5),34-35,34,35
+0022100951,2022-03-04,OKC,MIN,12.93,2,11,4,MIN,OKC,steal,2,False,True,steal,steal,34-35,34,35
+0022100951,2022-03-04,OKC,MIN,13.32,2,10,41,OKC,OKC,fg_miss,101,False,False,MISS Maledon 6' Driving Floating Jump Shot,,34-35,34,35
+0022100951,2022-03-04,OKC,MIN,13.35,2,10,39,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,34-35,34,35
+0022100951,2022-03-04,OKC,MIN,13.63,2,10,22,MIN,MIN,fg_make,6,False,False,,Russell 5' Driving Layup (6 PTS) (Reid 1 AST),34-37,34,37
+0022100951,2022-03-04,OKC,MIN,13.97,2,10,2,OKC,OKC,fg_miss,6,False,False,MISS Mann 11' Driving Layup,,34-37,34,37
+0022100951,2022-03-04,OKC,MIN,13.98,2,10,1,OKC,OKC,reb,0,False,False,THUNDER Rebound,,34-37,34,37
+0022100951,2022-03-04,OKC,MIN,13.98,2,10,1,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 3 Short 0),,34-37,34,37
+0022100951,2022-03-04,OKC,MIN,14.18,2,9,49,OKC,OKC,tov,1,False,True,Maledon Bad Pass Turnover (P1.T6),,34-37,34,37
+0022100951,2022-03-04,OKC,MIN,14.18,2,9,49,OKC,MIN,steal,1,False,True,steal,steal,34-37,34,37
+0022100951,2022-03-04,OKC,MIN,14.25,2,9,45,MIN,MIN,fg_make,41,False,False,,Prince 3' Running Layup (2 PTS),34-39,34,39
+0022100951,2022-03-04,OKC,MIN,14.42,2,9,35,OKC,OKC,fg3_make,79,False,False,Mann 26' 3PT Pullup Jump Shot (6 PTS) (Maledon 1 AST),,37-39,37,39
+0022100951,2022-03-04,OKC,MIN,14.58,2,9,25,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 26' 3PT Jump Shot,37-39,37,39
+0022100951,2022-03-04,OKC,MIN,14.65,2,9,21,OKC,OKC,reb,0,False,False,Sarr REBOUND (Off:0 Def:1),,37-39,37,39
+0022100951,2022-03-04,OKC,MIN,14.85,2,9,9,OKC,OKC,fg3_miss,1,False,False,MISS Maledon 26' 3PT Jump Shot,,37-39,37,39
+0022100951,2022-03-04,OKC,MIN,14.92,2,9,5,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:0 Def:1),37-39,37,39
+0022100951,2022-03-04,OKC,MIN,15.15,2,8,51,MIN,MIN,fg_make,6,False,False,,Prince 7' Driving Layup (4 PTS),37-41,37,41
+0022100951,2022-03-04,OKC,MIN,15.15,2,8,51,MIN,OKC,foul,2,False,False,Sarr S.FOUL (P1.T2) (J.Goble),,37-41,37,41
+0022100951,2022-03-04,OKC,MIN,15.15,2,8,51,MIN,MIN,ft_make,10,False,False,,Prince Free Throw 1 of 1 (5 PTS),37-42,37,42
+0022100951,2022-03-04,OKC,MIN,15.38,2,8,37,OKC,OKC,fg_miss,5,False,False,MISS Krejci 3' Layup,,37-42,37,42
+0022100951,2022-03-04,OKC,MIN,15.43,2,8,34,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:2),37-42,37,42
+0022100951,2022-03-04,OKC,MIN,15.57,2,8,26,MIN,MIN,fg_make,101,False,False,,Reid 5' Driving Floating Jump Shot (4 PTS) (Beasley 1 AST),37-44,37,44
+0022100951,2022-03-04,OKC,MIN,15.8,2,8,12,OKC,OKC,fg3_make,79,False,False,Mann 27' 3PT Pullup Jump Shot (9 PTS),,40-44,40,44
+0022100951,2022-03-04,OKC,MIN,16.13,2,7,52,MIN,MIN,fg_make,6,False,False,,Russell 4' Driving Layup (8 PTS),40-46,40,46
+0022100951,2022-03-04,OKC,MIN,16.28,2,7,43,OKC,OKC,tov,6,False,False,Mann Double Dribble Turnover (P2.T7),,40-46,40,46
+0022100951,2022-03-04,OKC,MIN,16.45,2,7,33,MIN,MIN,fg3_make,1,False,False,,Prince 24' 3PT Jump Shot (8 PTS) (Reid 2 AST),40-49,40,49
+0022100951,2022-03-04,OKC,MIN,16.75,2,7,15,OKC,OKC,fg_miss,6,True,False,MISS Maledon 8' Driving Layup,,40-49,40,49
+0022100951,2022-03-04,OKC,MIN,16.75,2,7,15,OKC,MIN,block,6,True,False,block,block,40-49,40,49
+0022100951,2022-03-04,OKC,MIN,16.85,2,7,9,,OKC,jump_ball,0,False,False,Jump Ball Maledon vs. Prince: Tip to Krejci,,40-49,40,49
+0022100951,2022-03-04,OKC,MIN,16.85,2,7,9,OKC,MIN,foul,1,False,False,,Prince P.FOUL (P1.T1) (N.Green),40-49,40,49
+0022100951,2022-03-04,OKC,MIN,16.85,2,7,9,OKC,OKC,reb,0,False,False,THUNDER Rebound,,40-49,40,49
+0022100951,2022-03-04,OKC,MIN,16.95,2,7,3,OKC,OKC,tov,39,False,False,Mann Step Out of Bounds Turnover (P3.T8),,40-49,40,49
+0022100951,2022-03-04,OKC,MIN,17.12,2,6,53,MIN,MIN,fg_make,44,False,False,,Reid 4' Reverse Layup (6 PTS) (Russell 4 AST),40-51,40,51
+0022100951,2022-03-04,OKC,MIN,17.43,2,6,34,OKC,OKC,fg_make,5,False,False,Sarr 4' Layup (2 PTS) (Maledon 2 AST),,42-51,42,51
+0022100951,2022-03-04,OKC,MIN,17.58,2,6,25,MIN,MIN,tov,39,False,False,,Prince Step Out of Bounds Turnover (P1.T6),42-51,42,51
+0022100951,2022-03-04,OKC,MIN,17.88,2,6,7,OKC,OKC,fg_miss,86,False,False,MISS Pokusevski 13' Turnaround Fadeaway Shot,,42-51,42,51
+0022100951,2022-03-04,OKC,MIN,17.95,2,6,3,OKC,OKC,reb,0,False,False,Sarr REBOUND (Off:1 Def:1),,42-51,42,51
+0022100951,2022-03-04,OKC,MIN,17.95,2,6,3,OKC,MIN,foul,2,False,False,,McLaughlin S.FOUL (P1.T2) (N.Sago),42-51,42,51
+0022100951,2022-03-04,OKC,MIN,17.95,2,6,3,OKC,OKC,ft_miss,11,False,False,MISS Sarr Free Throw 1 of 2,,42-51,42,51
+0022100951,2022-03-04,OKC,MIN,17.95,2,6,3,OKC,OKC,reb,1,False,False,THUNDER Rebound,,42-51,42,51
+0022100951,2022-03-04,OKC,MIN,17.95,2,6,3,OKC,OKC,ft_make,12,False,False,Sarr Free Throw 2 of 2 (3 PTS),,43-51,43,51
+0022100951,2022-03-04,OKC,MIN,18.08,2,5,55,MIN,MIN,fg3_miss,1,False,False,,MISS Nowell 24' 3PT Jump Shot,43-51,43,51
+0022100951,2022-03-04,OKC,MIN,18.13,2,5,52,OKC,OKC,reb,0,False,False,Waters III REBOUND (Off:0 Def:1),,43-51,43,51
+0022100951,2022-03-04,OKC,MIN,18.32,2,5,41,OKC,OKC,fg3_miss,1,False,False,MISS Krejci 26' 3PT Jump Shot,,43-51,43,51
+0022100951,2022-03-04,OKC,MIN,18.38,2,5,37,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:0 Def:1),43-51,43,51
+0022100951,2022-03-04,OKC,MIN,18.58,2,5,25,MIN,MIN,fg3_make,1,False,False,,Beverley 24' 3PT Jump Shot (4 PTS),43-54,43,54
+0022100951,2022-03-04,OKC,MIN,18.88,2,5,7,OKC,OKC,tov,1,False,True,Gilgeous-Alexander Bad Pass Turnover (P2.T9),,43-54,43,54
+0022100951,2022-03-04,OKC,MIN,18.88,2,5,7,OKC,MIN,steal,1,False,True,steal,steal,43-54,43,54
+0022100951,2022-03-04,OKC,MIN,19.15,2,4,51,MIN,MIN,fg_miss,6,False,False,,MISS Towns 4' Driving Layup,43-54,43,54
+0022100951,2022-03-04,OKC,MIN,19.23,2,4,46,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,43-54,43,54
+0022100951,2022-03-04,OKC,MIN,19.23,2,4,46,,OKC,jump_ball,0,False,False,Jump Ball Roby vs. Towns: Tip to Nowell,,43-54,43,54
+0022100951,2022-03-04,OKC,MIN,19.37,2,4,38,MIN,MIN,fg3_make,1,False,False,,Beverley 26' 3PT Jump Shot (7 PTS),43-57,43,57
+0022100951,2022-03-04,OKC,MIN,19.63,2,4,22,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 7' Driving Layup (15 PTS),,45-57,45,57
+0022100951,2022-03-04,OKC,MIN,19.95,2,4,3,MIN,OKC,violation,5,False,False,Krejci Violation:Kicked Ball (J.Goble),,45-57,45,57
+0022100951,2022-03-04,OKC,MIN,20.0,2,4,0,MIN,MIN,fg_make,52,False,False,,Vanderbilt 5' Alley Oop Dunk (2 PTS) (Beverley 4 AST),45-59,45,59
+0022100951,2022-03-04,OKC,MIN,20.23,2,3,46,OKC,OKC,fg_make,44,False,False,Bazley 4' Reverse Layup (2 PTS) (Gilgeous-Alexander 5 AST),,47-59,47,59
+0022100951,2022-03-04,OKC,MIN,20.52,2,3,29,MIN,MIN,fg3_make,1,False,False,,Nowell 25' 3PT Jump Shot (3 PTS) (Vanderbilt 2 AST),47-62,47,62
+0022100951,2022-03-04,OKC,MIN,20.75,2,3,15,OKC,OKC,fg_make,5,False,False,Gilgeous-Alexander 3' Layup (17 PTS),,49-62,49,62
+0022100951,2022-03-04,OKC,MIN,20.93,2,3,4,MIN,MIN,fg3_make,1,False,False,,McLaughlin 24' 3PT Jump Shot (3 PTS) (Nowell 1 AST),49-65,49,65
+0022100951,2022-03-04,OKC,MIN,21.12,2,2,53,OKC,OKC,fg3_make,1,False,False,Pokusevski 26' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 6 AST),,52-65,52,65
+0022100951,2022-03-04,OKC,MIN,21.3,2,2,42,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.1 Short 0),52-65,52,65
+0022100951,2022-03-04,OKC,MIN,21.38,2,2,37,MIN,OKC,foul,2,False,False,Roby S.FOUL (P2.T3) (N.Green),,52-65,52,65
+0022100951,2022-03-04,OKC,MIN,21.38,2,2,37,MIN,MIN,ft_make,11,False,False,,Russell Free Throw 1 of 2 (9 PTS),52-66,52,66
+0022100951,2022-03-04,OKC,MIN,21.38,2,2,37,MIN,MIN,ft_make,12,False,False,,Russell Free Throw 2 of 2 (10 PTS),52-67,52,67
+0022100951,2022-03-04,OKC,MIN,21.63,2,2,22,OKC,OKC,fg3_make,1,False,False,Pokusevski 3PT Jump Shot (8 PTS) (Bazley 1 AST),,55-67,55,67
+0022100951,2022-03-04,OKC,MIN,21.92,2,2,5,MIN,MIN,fg3_make,79,False,False,,Russell 27' 3PT Pullup Jump Shot (13 PTS),55-70,55,70
+0022100951,2022-03-04,OKC,MIN,22.25,2,1,45,OKC,OKC,fg3_make,80,False,False,Gilgeous-Alexander 27' 3PT Step Back Jump Shot (20 PTS),,58-70,58,70
+0022100951,2022-03-04,OKC,MIN,22.48,2,1,31,MIN,MIN,fg3_make,1,False,False,,McDaniels 27' 3PT Jump Shot (13 PTS) (Vanderbilt 3 AST),58-73,58,73
+0022100951,2022-03-04,OKC,MIN,22.92,2,1,5,OKC,OKC,fg_make,1,False,False,Roby 16' Jump Shot (15 PTS) (Gilgeous-Alexander 7 AST),,60-73,60,73
+0022100951,2022-03-04,OKC,MIN,23.1,2,0,54,MIN,MIN,fg_miss,6,False,False,,MISS Towns 5' Driving Layup,60-73,60,73
+0022100951,2022-03-04,OKC,MIN,23.1,2,0,54,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:2 Def:3),60-73,60,73
+0022100951,2022-03-04,OKC,MIN,23.1,2,0,54,MIN,MIN,fg_make,107,False,False,,Vanderbilt 4' Tip Dunk Shot (4 PTS),60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.22,2,0,47,OKC,OKC,tov,1,False,True,Gilgeous-Alexander Bad Pass Turnover (P3.T10),,60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.22,2,0,47,OKC,MIN,steal,1,False,True,steal,steal,60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.28,2,0,43,MIN,MIN,tov,45,False,False,,McDaniels Out of Bounds - Bad Pass Turnover Turnover (P1.T7),60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.45,2,0,33,OKC,OKC,fg3_miss,1,False,False,MISS Mann 27' 3PT Jump Shot,,60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.52,2,0,29,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:2 Def:4),60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.85,2,0,9,MIN,MIN,fg_miss,6,False,False,,MISS Beverley 7' Driving Layup,60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.88,2,0,7,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:3 Def:4),60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.9,2,0,6,MIN,MIN,fg_miss,72,False,False,,MISS Vanderbilt 4' Putback Layup,60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.9,2,0,6,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:2),60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.9,2,0,6,MIN,OKC,foul,2,False,False,Waters III S.FOUL (P2.T4) (N.Green),,60-75,60,75
+0022100951,2022-03-04,OKC,MIN,23.9,2,0,6,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (13 PTS),60-76,60,76
+0022100951,2022-03-04,OKC,MIN,23.9,2,0,6,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (14 PTS),60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.0,2,0,0,OKC,OKC,fg3_miss,1,False,False,MISS Roby 26' 3PT Jump Shot,,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.0,2,0,0,OKC,OKC,reb,0,False,False,THUNDER Rebound,,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.0,2,0,0,OKC,,period_end,0,False,False,,,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.0,3,12,0,OKC,,period_start,0,False,False,,,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.25,3,11,45,OKC,MIN,foul,1,False,False,,Beverley P.FOUL (P2.T1) (J.Goble),60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.35,3,11,39,OKC,OKC,fg_miss,5,False,False,MISS Roby 6' Layup,,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.4,3,11,36,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:3),60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.58,3,11,25,MIN,MIN,fg3_miss,1,False,False,,MISS Beverley 24' 3PT Jump Shot,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.62,3,11,23,OKC,OKC,reb,0,False,False,Mann REBOUND (Off:0 Def:2),,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.8,3,11,12,OKC,OKC,tov,2,False,True,Mann Lost Ball Turnover (P4.T11),,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.8,3,11,12,OKC,MIN,steal,2,False,True,steal,steal,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,24.95,3,11,3,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 26' 3PT Jump Shot,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,25.02,3,10,59,OKC,OKC,reb,0,False,False,Mann REBOUND (Off:0 Def:3),,60-77,60,77
+0022100951,2022-03-04,OKC,MIN,25.12,3,10,53,OKC,OKC,fg_make,75,False,False,Gilgeous-Alexander 4' Driving Finger Roll Layup (22 PTS),,62-77,62,77
+0022100951,2022-03-04,OKC,MIN,25.48,3,10,31,MIN,MIN,fg_miss,6,False,False,,MISS McDaniels 5' Driving Layup,62-77,62,77
+0022100951,2022-03-04,OKC,MIN,25.53,3,10,28,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:3),,62-77,62,77
+0022100951,2022-03-04,OKC,MIN,25.77,3,10,14,OKC,OKC,tov,1,False,True,Mann Bad Pass Turnover (P5.T12),,62-77,62,77
+0022100951,2022-03-04,OKC,MIN,25.77,3,10,14,OKC,MIN,steal,1,False,True,steal,steal,62-77,62,77
+0022100951,2022-03-04,OKC,MIN,25.83,3,10,10,MIN,MIN,fg_make,50,False,False,,Towns 5' Running Dunk (16 PTS) (McDaniels 1 AST),62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.0,3,10,0,OKC,OKC,tov,1,False,True,Gilgeous-Alexander Bad Pass Turnover (P4.T13),,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.0,3,10,0,OKC,MIN,steal,1,False,True,steal,steal,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.15,3,9,51,MIN,MIN,tov,1,False,True,,Beverley Bad Pass Turnover (P1.T8),62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.15,3,9,51,MIN,OKC,steal,1,False,True,steal,steal,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.25,3,9,45,OKC,OKC,fg_miss,5,True,False,MISS Bazley 5' Layup,,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.25,3,9,45,OKC,MIN,block,5,True,False,block,block,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.32,3,9,41,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:1 Def:1),,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.33,3,9,40,OKC,OKC,fg3_miss,1,False,False,MISS Mann 27' 3PT Jump Shot,,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.33,3,9,40,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:2 Def:4),,62-79,62,79
+0022100951,2022-03-04,OKC,MIN,26.47,3,9,32,OKC,OKC,fg_make,87,False,False,Roby Putback Dunk (17 PTS),,64-79,64,79
+0022100951,2022-03-04,OKC,MIN,26.65,3,9,21,MIN,MIN,fg3_miss,1,False,False,,MISS Beverley 3PT Jump Shot,64-79,64,79
+0022100951,2022-03-04,OKC,MIN,26.73,3,9,16,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:1 Def:2),,64-79,64,79
+0022100951,2022-03-04,OKC,MIN,26.97,3,9,2,OKC,OKC,fg_make,79,False,False,Gilgeous-Alexander 10' Pullup Jump Shot (24 PTS),,66-79,66,79
+0022100951,2022-03-04,OKC,MIN,26.97,3,9,2,OKC,MIN,foul,2,False,False,,Russell S.FOUL (P1.T2) (N.Sago),66-79,66,79
+0022100951,2022-03-04,OKC,MIN,26.97,3,9,2,OKC,OKC,ft_make,10,False,False,Gilgeous-Alexander Free Throw 1 of 1 (25 PTS),,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.2,3,8,48,MIN,OKC,foul,2,False,False,Pokusevski S.FOUL (P2.T1) (N.Sago),,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.2,3,8,48,MIN,MIN,ft_miss,11,False,False,,MISS Towns Free Throw 1 of 2,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.2,3,8,48,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.2,3,8,48,MIN,MIN,ft_miss,12,False,False,,MISS Towns Free Throw 2 of 2,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.25,3,8,45,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:4),,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.33,3,8,40,OKC,OKC,fg_miss,41,False,False,MISS Gilgeous-Alexander 6' Running Layup,,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.37,3,8,38,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:4),,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.42,3,8,35,OKC,OKC,fg_miss,6,True,False,MISS Roby 5' Driving Layup,,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.42,3,8,35,OKC,MIN,block,6,True,False,block,block,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.42,3,8,35,OKC,OKC,reb,0,False,False,THUNDER Rebound,,67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.43,3,8,34,OKC,MIN,foul,2,False,False,,McDaniels S.FOUL (P3.T3) (N.Sago),67-79,67,79
+0022100951,2022-03-04,OKC,MIN,27.43,3,8,34,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (26 PTS),,68-79,68,79
+0022100951,2022-03-04,OKC,MIN,27.43,3,8,34,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (27 PTS),,69-79,69,79
+0022100951,2022-03-04,OKC,MIN,27.55,3,8,27,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 26' 3PT Jump Shot,69-79,69,79
+0022100951,2022-03-04,OKC,MIN,27.6,3,8,24,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,69-79,69,79
+0022100951,2022-03-04,OKC,MIN,27.75,3,8,15,MIN,MIN,fg_make,7,False,False,,Towns 3' Dunk (18 PTS) (McDaniels 2 AST),69-81,69,81
+0022100951,2022-03-04,OKC,MIN,27.9,3,8,6,OKC,OKC,fg3_make,1,False,False,Roby 27' 3PT Jump Shot (20 PTS) (Mann 1 AST),,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.27,3,7,44,MIN,MIN,fg3_miss,80,False,False,,MISS Beverley 26' 3PT Step Back Jump Shot,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.32,3,7,41,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:4),,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.52,3,7,29,OKC,OKC,fg3_miss,1,False,False,MISS Pokusevski 24' 3PT Jump Shot,,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.53,3,7,28,OKC,OKC,reb,0,False,False,Mann REBOUND (Off:1 Def:3),,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.53,3,7,28,OKC,OKC,fg_miss,97,False,False,MISS Mann 3' Tip Layup Shot,,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.53,3,7,28,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:4),72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.67,3,7,20,MIN,OKC,foul,2,False,False,Gilgeous-Alexander S.FOUL (P3.T2) (N.Green),,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.67,3,7,20,MIN,OKC,foul,11,False,False,Bazley T.FOUL (P0.T2) (J.Goble),,72-81,72,81
+0022100951,2022-03-04,OKC,MIN,28.67,3,7,20,MIN,MIN,ft_make,16,False,False,,Russell Free Throw Technical (14 PTS),72-82,72,82
+0022100951,2022-03-04,OKC,MIN,28.67,3,7,20,MIN,MIN,ft_make,11,False,False,,McDaniels Free Throw 1 of 2 (14 PTS),72-83,72,83
+0022100951,2022-03-04,OKC,MIN,28.67,3,7,20,MIN,MIN,ft_miss,12,False,False,,MISS McDaniels Free Throw 2 of 2,72-83,72,83
+0022100951,2022-03-04,OKC,MIN,28.75,3,7,15,OKC,OKC,reb,0,False,False,Mann REBOUND (Off:1 Def:4),,72-83,72,83
+0022100951,2022-03-04,OKC,MIN,28.83,3,7,10,OKC,MIN,foul,2,False,False,,McDaniels S.FOUL (P4.T4) (N.Sago),72-83,72,83
+0022100951,2022-03-04,OKC,MIN,28.83,3,7,10,OKC,OKC,ft_make,11,False,False,Mann Free Throw 1 of 2 (10 PTS),,73-83,73,83
+0022100951,2022-03-04,OKC,MIN,28.83,3,7,10,OKC,OKC,ft_make,12,False,False,Mann Free Throw 2 of 2 (11 PTS),,74-83,74,83
+0022100951,2022-03-04,OKC,MIN,29.05,3,6,57,MIN,MIN,fg3_make,1,False,False,,Prince 3PT Jump Shot (11 PTS) (Beverley 5 AST),74-86,74,86
+0022100951,2022-03-04,OKC,MIN,29.33,3,6,40,OKC,OKC,fg_make,6,False,False,Mann 4' Driving Layup (13 PTS),,76-86,76,86
+0022100951,2022-03-04,OKC,MIN,29.7,3,6,18,MIN,MIN,fg_make,63,False,False,,Prince 10' Fadeaway Jumper (13 PTS),76-88,76,88
+0022100951,2022-03-04,OKC,MIN,29.85,3,6,9,OKC,MIN,foul,2,False,False,,Towns S.FOUL (P2.PN) (J.Goble),76-88,76,88
+0022100951,2022-03-04,OKC,MIN,29.85,3,6,9,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,76-88,76,88
+0022100951,2022-03-04,OKC,MIN,29.85,3,6,9,OKC,OKC,ft_miss,11,False,False,MISS Roby Free Throw 1 of 2,,76-88,76,88
+0022100951,2022-03-04,OKC,MIN,29.85,3,6,9,OKC,OKC,reb,1,False,False,THUNDER Rebound,,76-88,76,88
+0022100951,2022-03-04,OKC,MIN,29.85,3,6,9,OKC,OKC,ft_make,12,False,False,Roby Free Throw 2 of 2 (21 PTS),,77-88,77,88
+0022100951,2022-03-04,OKC,MIN,30.05,3,5,57,MIN,MIN,fg3_make,1,False,False,,Beasley 27' 3PT Jump Shot (9 PTS) (Beverley 6 AST),77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.37,3,5,38,OKC,OKC,tov,1,False,True,Mann Bad Pass Turnover (P6.T14),,77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.37,3,5,38,OKC,MIN,steal,1,False,True,steal,steal,77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.55,3,5,27,MIN,MIN,tov,1,False,True,,Beverley Bad Pass Turnover (P2.T9),77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.55,3,5,27,MIN,OKC,steal,1,False,True,steal,steal,77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.68,3,5,19,OKC,OKC,fg3_miss,1,False,False,MISS Gilgeous-Alexander 27' 3PT Jump Shot,,77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.72,3,5,17,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:5),77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.8,3,5,12,MIN,MIN,tov,1,False,True,,Beverley Bad Pass Turnover (P3.T10),77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.8,3,5,12,MIN,OKC,steal,1,False,True,steal,steal,77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.82,3,5,11,OKC,MIN,foul,28,False,False,,Prince Personal Take Foul (P2.PN) (N.Sago),77-91,77,91
+0022100951,2022-03-04,OKC,MIN,30.82,3,5,11,OKC,OKC,ft_make,11,False,False,Pokusevski Free Throw 1 of 2 (9 PTS),,78-91,78,91
+0022100951,2022-03-04,OKC,MIN,30.82,3,5,11,OKC,OKC,ft_make,12,False,False,Pokusevski Free Throw 2 of 2 (10 PTS),,79-91,79,91
+0022100951,2022-03-04,OKC,MIN,30.92,3,5,5,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 26' 3PT Jump Shot,79-91,79,91
+0022100951,2022-03-04,OKC,MIN,30.95,3,5,3,OKC,OKC,reb,0,False,False,THUNDER Rebound,,79-91,79,91
+0022100951,2022-03-04,OKC,MIN,31.15,3,4,51,OKC,OKC,fg3_miss,1,False,False,MISS Pokusevski 26' 3PT Jump Shot,,79-91,79,91
+0022100951,2022-03-04,OKC,MIN,31.18,3,4,49,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:6),79-91,79,91
+0022100951,2022-03-04,OKC,MIN,31.35,3,4,39,MIN,MIN,fg_make,6,False,False,,Towns 4' Driving Layup (20 PTS),79-93,79,93
+0022100951,2022-03-04,OKC,MIN,31.73,3,4,16,OKC,OKC,fg3_miss,80,False,False,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,,79-93,79,93
+0022100951,2022-03-04,OKC,MIN,31.77,3,4,14,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:3 Def:5),79-93,79,93
+0022100951,2022-03-04,OKC,MIN,31.92,3,4,5,MIN,MIN,fg3_make,1,False,False,,Prince 3PT Jump Shot (16 PTS) (Towns 3 AST),79-96,79,96
+0022100951,2022-03-04,OKC,MIN,32.17,3,3,50,OKC,OKC,fg_make,6,False,False,Pokusevski 7' Driving Layup (12 PTS) (Mann 2 AST),,81-96,81,96
+0022100951,2022-03-04,OKC,MIN,32.47,3,3,32,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 27' 3PT Jump Shot,81-96,81,96
+0022100951,2022-03-04,OKC,MIN,32.52,3,3,29,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:2 Def:5),,81-96,81,96
+0022100951,2022-03-04,OKC,MIN,32.6,3,3,24,OKC,OKC,fg_miss,41,True,False,MISS Roby 6' Running Layup,,81-96,81,96
+0022100951,2022-03-04,OKC,MIN,32.6,3,3,24,OKC,MIN,block,41,True,False,block,block,81-96,81,96
+0022100951,2022-03-04,OKC,MIN,32.6,3,3,24,OKC,OKC,reb,0,False,False,THUNDER Rebound,,81-96,81,96
+0022100951,2022-03-04,OKC,MIN,32.73,3,3,16,OKC,OKC,fg_make,80,False,False,Gilgeous-Alexander 12' Step Back Jump Shot (29 PTS),,83-96,83,96
+0022100951,2022-03-04,OKC,MIN,32.97,3,3,2,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 27' 3PT Jump Shot,83-96,83,96
+0022100951,2022-03-04,OKC,MIN,32.98,3,3,1,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,83-96,83,96
+0022100951,2022-03-04,OKC,MIN,32.98,3,3,1,MIN,OKC,foul,3,False,False,Maledon L.B.FOUL (P1.T3) (J.Goble),,83-96,83,96
+0022100951,2022-03-04,OKC,MIN,32.98,3,3,1,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.2 Short 0),83-96,83,96
+0022100951,2022-03-04,OKC,MIN,33.2,3,2,48,MIN,MIN,fg_miss,79,False,False,,MISS Beasley 18' Pullup Jump Shot,83-96,83,96
+0022100951,2022-03-04,OKC,MIN,33.28,3,2,43,OKC,OKC,reb,0,False,False,Waters III REBOUND (Off:0 Def:2),,83-96,83,96
+0022100951,2022-03-04,OKC,MIN,33.45,3,2,33,OKC,OKC,fg3_miss,79,False,False,MISS Maledon 28' 3PT Pullup Jump Shot,,83-96,83,96
+0022100951,2022-03-04,OKC,MIN,33.52,3,2,29,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:0 Def:2),83-96,83,96
+0022100951,2022-03-04,OKC,MIN,33.65,3,2,21,MIN,MIN,fg_make,98,False,False,,Reid 4' Cutting Layup Shot (8 PTS) (Prince 1 AST),83-98,83,98
+0022100951,2022-03-04,OKC,MIN,33.65,3,2,21,MIN,OKC,foul,2,False,False,Roby S.FOUL (P3.T4) (N.Sago),,83-98,83,98
+0022100951,2022-03-04,OKC,MIN,33.65,3,2,21,MIN,MIN,ft_make,10,False,False,,Reid Free Throw 1 of 1 (9 PTS),83-99,83,99
+0022100951,2022-03-04,OKC,MIN,33.77,3,2,14,OKC,OKC,tov,1,False,True,Roby Bad Pass Turnover (P2.T15),,83-99,83,99
+0022100951,2022-03-04,OKC,MIN,33.77,3,2,14,OKC,MIN,steal,1,False,True,steal,steal,83-99,83,99
+0022100951,2022-03-04,OKC,MIN,33.83,3,2,10,MIN,MIN,fg_miss,41,False,False,,MISS McLaughlin 3' Running Layup,83-99,83,99
+0022100951,2022-03-04,OKC,MIN,33.87,3,2,8,MIN,MIN,reb,0,False,False,,Russell REBOUND (Off:1 Def:1),83-99,83,99
+0022100951,2022-03-04,OKC,MIN,33.88,3,2,7,MIN,MIN,fg_miss,97,False,False,,MISS Russell 4' Tip Layup Shot,83-99,83,99
+0022100951,2022-03-04,OKC,MIN,33.92,3,2,5,OKC,OKC,reb,0,False,False,Waters III REBOUND (Off:0 Def:3),,83-99,83,99
+0022100951,2022-03-04,OKC,MIN,34.05,3,1,57,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 4' Driving Layup,,83-99,83,99
+0022100951,2022-03-04,OKC,MIN,34.1,3,1,54,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:0 Def:3),83-99,83,99
+0022100951,2022-03-04,OKC,MIN,34.15,3,1,51,MIN,MIN,tov,2,False,True,,Prince Lost Ball Turnover (P2.T11),83-99,83,99
+0022100951,2022-03-04,OKC,MIN,34.15,3,1,51,MIN,OKC,steal,2,False,True,steal,steal,83-99,83,99
+0022100951,2022-03-04,OKC,MIN,34.2,3,1,48,OKC,OKC,fg_make,41,False,False,Gilgeous-Alexander 3' Running Layup (31 PTS) (Maledon 3 AST),,85-99,85,99
+0022100951,2022-03-04,OKC,MIN,34.53,3,1,28,MIN,MIN,fg3_make,1,False,False,,Reid 3PT Jump Shot (12 PTS) (Beasley 2 AST),85-102,85,102
+0022100951,2022-03-04,OKC,MIN,34.7,3,1,18,OKC,OKC,tov,45,False,False,Gilgeous-Alexander Out of Bounds - Bad Pass Turnover Turnover (P5.T16),,85-102,85,102
+0022100951,2022-03-04,OKC,MIN,34.88,3,1,7,MIN,MIN,fg_make,6,False,False,,McLaughlin 6' Driving Layup (5 PTS),85-104,85,104
+0022100951,2022-03-04,OKC,MIN,35.08,3,0,55,OKC,OKC,fg3_miss,1,False,False,MISS Waters III 25' 3PT Jump Shot,,85-104,85,104
+0022100951,2022-03-04,OKC,MIN,35.13,3,0,52,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:0 Def:4),85-104,85,104
+0022100951,2022-03-04,OKC,MIN,35.23,3,0,46,MIN,MIN,fg_make,44,False,False,,Reid 3' Reverse Layup (14 PTS) (Russell 5 AST),85-106,85,106
+0022100951,2022-03-04,OKC,MIN,35.52,3,0,29,OKC,OKC,fg_miss,5,True,False,MISS Roby 5' Layup,,85-106,85,106
+0022100951,2022-03-04,OKC,MIN,35.52,3,0,29,OKC,MIN,block,5,True,False,block,block,85-106,85,106
+0022100951,2022-03-04,OKC,MIN,35.58,3,0,25,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:3 Def:5),,85-106,85,106
+0022100951,2022-03-04,OKC,MIN,35.6,3,0,24,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 6' Driving Layup (33 PTS) (Krejci 1 AST),,87-106,87,106
+0022100951,2022-03-04,OKC,MIN,35.98,3,0,1,MIN,MIN,fg_make,6,False,False,,Prince 5' Driving Layup (18 PTS) (Russell 6 AST),87-108,87,108
+0022100951,2022-03-04,OKC,MIN,36.0,3,0,0,MIN,,period_end,0,False,False,,,87-108,87,108
+0022100951,2022-03-04,OKC,MIN,36.0,4,12,0,MIN,,period_start,0,False,False,,,87-108,87,108
+0022100951,2022-03-04,OKC,MIN,36.17,4,11,50,MIN,MIN,fg3_make,1,False,False,,Russell 25' 3PT Jump Shot (17 PTS) (McLaughlin 1 AST),87-111,87,111
+0022100951,2022-03-04,OKC,MIN,36.6,4,11,24,OKC,OKC,fg_miss,6,True,False,MISS Maledon 8' Driving Layup,,87-111,87,111
+0022100951,2022-03-04,OKC,MIN,36.6,4,11,24,OKC,MIN,block,6,True,False,block,block,87-111,87,111
+0022100951,2022-03-04,OKC,MIN,36.67,4,11,20,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:3),87-111,87,111
+0022100951,2022-03-04,OKC,MIN,36.7,4,11,18,MIN,MIN,tov,45,False,False,,Prince Out of Bounds - Bad Pass Turnover Turnover (P3.T12),87-111,87,111
+0022100951,2022-03-04,OKC,MIN,36.93,4,11,4,OKC,OKC,fg3_make,1,False,False,Maledon 27' 3PT Jump Shot (3 PTS) (Pokusevski 1 AST),,90-111,90,111
+0022100951,2022-03-04,OKC,MIN,37.17,4,10,50,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 26' 3PT Jump Shot,90-111,90,111
+0022100951,2022-03-04,OKC,MIN,37.2,4,10,48,OKC,OKC,reb,0,False,False,Mann REBOUND (Off:1 Def:5),,90-111,90,111
+0022100951,2022-03-04,OKC,MIN,37.38,4,10,37,OKC,OKC,fg3_miss,1,False,False,MISS Mann 27' 3PT Jump Shot,,90-111,90,111
+0022100951,2022-03-04,OKC,MIN,37.45,4,10,33,MIN,MIN,reb,0,False,False,,Prince REBOUND (Off:0 Def:5),90-111,90,111
+0022100951,2022-03-04,OKC,MIN,37.62,4,10,23,MIN,MIN,fg_make,47,False,False,,Reid 12' Turnaround Jump Shot (16 PTS) (Beasley 3 AST),90-113,90,113
+0022100951,2022-03-04,OKC,MIN,37.62,4,10,23,MIN,OKC,foul,2,False,False,Sarr S.FOUL (P2.T1) (N.Green),,90-113,90,113
+0022100951,2022-03-04,OKC,MIN,37.62,4,10,23,MIN,MIN,ft_make,10,False,False,,Reid Free Throw 1 of 1 (17 PTS),90-114,90,114
+0022100951,2022-03-04,OKC,MIN,37.87,4,10,8,OKC,OKC,fg3_miss,1,False,False,MISS Pokusevski 26' 3PT Jump Shot,,90-114,90,114
+0022100951,2022-03-04,OKC,MIN,37.92,4,10,5,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:0 Def:3),90-114,90,114
+0022100951,2022-03-04,OKC,MIN,38.03,4,9,58,MIN,MIN,tov,2,False,True,,Russell Lost Ball Turnover (P2.T13),90-114,90,114
+0022100951,2022-03-04,OKC,MIN,38.03,4,9,58,MIN,OKC,steal,2,False,True,steal,steal,90-114,90,114
+0022100951,2022-03-04,OKC,MIN,38.2,4,9,48,OKC,OKC,tov,2,False,True,Mann Lost Ball Turnover (P7.T17),,90-114,90,114
+0022100951,2022-03-04,OKC,MIN,38.2,4,9,48,OKC,MIN,steal,2,False,True,steal,steal,90-114,90,114
+0022100951,2022-03-04,OKC,MIN,38.45,4,9,33,MIN,MIN,fg3_make,1,False,False,,Beasley 24' 3PT Jump Shot (12 PTS) (Russell 7 AST),90-117,90,117
+0022100951,2022-03-04,OKC,MIN,38.67,4,9,20,OKC,OKC,fg_miss,1,False,False,MISS Pokusevski 22' Jump Shot,,90-117,90,117
+0022100951,2022-03-04,OKC,MIN,38.75,4,9,15,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:4),90-117,90,117
+0022100951,2022-03-04,OKC,MIN,38.87,4,9,8,MIN,MIN,fg3_miss,1,False,False,,MISS Prince 24' 3PT Jump Shot,90-117,90,117
+0022100951,2022-03-04,OKC,MIN,38.92,4,9,5,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:1 Def:3),,90-117,90,117
+0022100951,2022-03-04,OKC,MIN,39.17,4,8,50,OKC,OKC,fg_make,80,False,False,Mann 19' Step Back Jump Shot (15 PTS) (Waters III 1 AST),,92-117,92,117
+0022100951,2022-03-04,OKC,MIN,39.5,4,8,30,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 3PT Jump Shot,92-117,92,117
+0022100951,2022-03-04,OKC,MIN,39.53,4,8,28,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:1 Def:4),,92-117,92,117
+0022100951,2022-03-04,OKC,MIN,39.65,4,8,21,OKC,OKC,fg_make,1,False,False,Waters III 20' Jump Shot (5 PTS) (Pokusevski 2 AST),,94-117,94,117
+0022100951,2022-03-04,OKC,MIN,39.65,4,8,21,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),94-117,94,117
+0022100951,2022-03-04,OKC,MIN,39.83,4,8,10,MIN,MIN,fg_make,5,False,False,,McDaniels 4' Layup (16 PTS) (Beverley 7 AST),94-119,94,119
+0022100951,2022-03-04,OKC,MIN,39.83,4,8,10,MIN,OKC,violation,2,False,False,Waters III Violation:Defensive Goaltending (J.Goble),,94-119,94,119
+0022100951,2022-03-04,OKC,MIN,40.07,4,7,56,OKC,OKC,fg3_miss,1,False,False,MISS Waters III 24' 3PT Jump Shot,,94-119,94,119
+0022100951,2022-03-04,OKC,MIN,40.12,4,7,53,MIN,MIN,reb,0,False,False,,McLaughlin REBOUND (Off:0 Def:1),94-119,94,119
+0022100951,2022-03-04,OKC,MIN,40.2,4,7,48,MIN,MIN,fg3_make,2,False,False,,Reid 25' 3PT Running Jump Shot (20 PTS) (Beverley 8 AST),94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.27,4,7,44,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 5 Short 0),,94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.42,4,7,35,OKC,OKC,fg_miss,1,False,False,MISS Roby 8' Jump Shot,,94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.48,4,7,31,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:0 Def:4),94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.65,4,7,21,MIN,MIN,fg_miss,5,True,False,,MISS Nowell 7' Layup,94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.65,4,7,21,MIN,OKC,block,5,True,False,block,block,94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.68,4,7,19,OKC,OKC,reb,0,False,False,Maledon REBOUND (Off:0 Def:1),,94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.72,4,7,17,OKC,MIN,foul,28,False,False,,Beverley Personal Take Foul (P3.T1) (N.Green),94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.97,4,7,2,OKC,MIN,foul,2,False,False,,Beverley S.FOUL (P4.T2) (N.Sago),94-122,94,122
+0022100951,2022-03-04,OKC,MIN,40.97,4,7,2,OKC,OKC,ft_make,11,False,False,Maledon Free Throw 1 of 2 (4 PTS),,95-122,95,122
+0022100951,2022-03-04,OKC,MIN,40.97,4,7,2,OKC,OKC,ft_make,12,False,False,Maledon Free Throw 2 of 2 (5 PTS),,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.25,4,6,45,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 27' 3PT Jump Shot,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.32,4,6,41,OKC,OKC,reb,0,False,False,Maledon REBOUND (Off:0 Def:2),,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.42,4,6,35,OKC,OKC,fg3_miss,1,False,False,MISS Maledon 25' 3PT Jump Shot,,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.45,4,6,33,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:5),96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.67,4,6,20,MIN,MIN,fg_miss,101,False,False,,MISS Nowell 9' Driving Floating Jump Shot,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.7,4,6,18,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:3 Def:6),,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.92,4,6,5,OKC,OKC,fg_miss,6,False,False,MISS Mann 6' Driving Layup,,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,41.97,4,6,2,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:0 Def:5),96-122,96,122
+0022100951,2022-03-04,OKC,MIN,42.07,4,5,56,MIN,MIN,tov,45,False,False,,McDaniels Out of Bounds - Bad Pass Turnover Turnover (P2.T14),96-122,96,122
+0022100951,2022-03-04,OKC,MIN,42.43,4,5,34,OKC,OKC,fg3_miss,79,False,False,MISS Maledon 27' 3PT Pullup Jump Shot,,96-122,96,122
+0022100951,2022-03-04,OKC,MIN,42.5,4,5,30,MIN,MIN,reb,0,False,False,,Nowell REBOUND (Off:0 Def:1),96-122,96,122
+0022100951,2022-03-04,OKC,MIN,42.77,4,5,14,MIN,MIN,fg3_make,1,False,False,,Beasley 25' 3PT Jump Shot (15 PTS) (Nowell 2 AST),96-125,96,125
+0022100951,2022-03-04,OKC,MIN,42.93,4,5,4,OKC,OKC,tov,45,False,False,Mann Out of Bounds - Bad Pass Turnover Turnover (P8.T18),,96-125,96,125
+0022100951,2022-03-04,OKC,MIN,43.18,4,4,49,MIN,OKC,foul,2,False,False,Roby S.FOUL (P4.T2) (N.Green),,96-125,96,125
+0022100951,2022-03-04,OKC,MIN,43.18,4,4,49,MIN,MIN,ft_miss,11,False,False,,MISS Knight Free Throw 1 of 2,96-125,96,125
+0022100951,2022-03-04,OKC,MIN,43.18,4,4,49,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,96-125,96,125
+0022100951,2022-03-04,OKC,MIN,43.18,4,4,49,MIN,MIN,ft_make,12,False,False,,Knight Free Throw 2 of 2 (1 PTS),96-126,96,126
+0022100951,2022-03-04,OKC,MIN,43.48,4,4,31,OKC,OKC,tov,1,False,True,Waters III Bad Pass Turnover (P1.T19),,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,43.48,4,4,31,OKC,MIN,steal,1,False,True,steal,steal,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,43.62,4,4,23,MIN,MIN,tov,4,False,False,,Okogie Traveling Turnover (P1.T15),96-126,96,126
+0022100951,2022-03-04,OKC,MIN,43.8,4,4,12,OKC,OKC,tov,2,False,True,Roby Lost Ball Turnover (P3.T20),,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,43.8,4,4,12,OKC,MIN,steal,2,False,True,steal,steal,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.2,4,3,48,MIN,MIN,fg_miss,101,False,False,,MISS Bolmaro 6' Driving Floating Jump Shot,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.25,4,3,45,OKC,OKC,reb,0,False,False,Sarr REBOUND (Off:1 Def:2),,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.33,4,3,40,OKC,OKC,fg3_miss,1,False,False,MISS Waters III 27' 3PT Jump Shot,,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.37,4,3,38,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:4 Def:6),,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.45,4,3,33,OKC,MIN,foul,1,False,False,,Okogie P.FOUL (P1.T3) (J.Goble),96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.6,4,3,24,OKC,OKC,fg3_miss,79,False,False,MISS Waters III 25' 3PT Pullup Jump Shot,,96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.65,4,3,21,MIN,MIN,reb,0,False,False,,Knight REBOUND (Off:0 Def:1),96-126,96,126
+0022100951,2022-03-04,OKC,MIN,44.72,4,3,17,MIN,MIN,fg3_make,2,False,False,,Bolmaro 26' 3PT Running Jump Shot (3 PTS) (Nowell 3 AST),96-129,96,129
+0022100951,2022-03-04,OKC,MIN,44.9,4,3,6,OKC,OKC,fg_make,6,False,False,Maledon 6' Driving Layup (7 PTS),,98-129,98,129
+0022100951,2022-03-04,OKC,MIN,44.9,4,3,6,OKC,MIN,foul,2,False,False,,Okogie S.FOUL (P2.T4) (N.Green),98-129,98,129
+0022100951,2022-03-04,OKC,MIN,44.9,4,3,6,OKC,OKC,ft_make,10,False,False,Maledon Free Throw 1 of 1 (8 PTS),,99-129,99,129
+0022100951,2022-03-04,OKC,MIN,45.07,4,2,56,MIN,MIN,tov,2,False,True,,Knight Lost Ball Turnover (P1.T16),99-129,99,129
+0022100951,2022-03-04,OKC,MIN,45.07,4,2,56,MIN,OKC,steal,2,False,True,steal,steal,99-129,99,129
+0022100951,2022-03-04,OKC,MIN,45.15,4,2,51,OKC,OKC,tov,1,False,True,Waters III Bad Pass Turnover (P2.T21),,99-129,99,129
+0022100951,2022-03-04,OKC,MIN,45.15,4,2,51,OKC,MIN,steal,1,False,True,steal,steal,99-129,99,129
+0022100951,2022-03-04,OKC,MIN,45.25,4,2,45,MIN,MIN,fg_make,41,False,False,,Nowell 4' Running Layup (5 PTS),99-131,99,131
+0022100951,2022-03-04,OKC,MIN,45.52,4,2,29,OKC,OKC,fg_make,5,False,False,Sarr 3' Layup (5 PTS) (Maledon 4 AST),,101-131,101,131
+0022100951,2022-03-04,OKC,MIN,45.75,4,2,15,MIN,MIN,fg3_make,1,False,False,,Bolmaro 28' 3PT Jump Shot (6 PTS) (Knight 1 AST),101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.05,4,1,57,OKC,OKC,fg3_miss,1,False,False,MISS Krejci 28' 3PT Jump Shot,,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.1,4,1,54,MIN,MIN,reb,0,False,False,,Bolmaro REBOUND (Off:0 Def:1),101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.18,4,1,49,MIN,MIN,fg3_miss,79,False,False,,MISS Bolmaro 26' 3PT Pullup Jump Shot,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.25,4,1,45,OKC,OKC,reb,0,False,False,Sarr REBOUND (Off:1 Def:3),,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.42,4,1,35,OKC,OKC,fg3_miss,1,False,False,MISS Maledon 3PT Jump Shot,,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.45,4,1,33,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.65,4,1,21,MIN,MIN,fg_miss,101,False,False,,MISS Nowell 7' Driving Floating Jump Shot,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.72,4,1,17,MIN,MIN,reb,0,False,False,,Knight REBOUND (Off:1 Def:1),101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.75,4,1,15,MIN,MIN,tov,2,False,True,,Knight Lost Ball Turnover (P2.T17),101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.75,4,1,15,MIN,OKC,steal,2,False,True,steal,steal,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.98,4,1,1,OKC,OKC,tov,1,False,True,Maledon Bad Pass Turnover (P2.T22),,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,46.98,4,1,1,OKC,MIN,steal,1,False,True,steal,steal,101-134,101,134
+0022100951,2022-03-04,OKC,MIN,47.03,4,0,58,MIN,MIN,fg_make,50,False,False,,Nowell 3' Running Dunk (7 PTS) (Bolmaro 1 AST),101-136,101,136
+0022100951,2022-03-04,OKC,MIN,47.23,4,0,46,OKC,OKC,fg3_miss,1,False,False,MISS Roby 24' 3PT Jump Shot,,101-136,101,136
+0022100951,2022-03-04,OKC,MIN,47.28,4,0,43,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:1),101-136,101,136
+0022100951,2022-03-04,OKC,MIN,47.33,4,0,40,MIN,OKC,foul,2,False,False,Maledon S.FOUL (P2.T3) (N.Green),,101-136,101,136
+0022100951,2022-03-04,OKC,MIN,47.33,4,0,40,MIN,MIN,ft_make,11,False,False,,Okogie Free Throw 1 of 2 (1 PTS),101-137,101,137
+0022100951,2022-03-04,OKC,MIN,47.33,4,0,40,MIN,MIN,ft_make,12,False,False,,Okogie Free Throw 2 of 2 (2 PTS),101-138,101,138
+0022100951,2022-03-04,OKC,MIN,47.57,4,0,26,OKC,OKC,tov,45,False,False,Sarr Out of Bounds - Bad Pass Turnover Turnover (P1.T23),,101-138,101,138
+0022100951,2022-03-04,OKC,MIN,47.98,4,0,1,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#18),101-138,101,138
+0022100951,2022-03-04,OKC,MIN,48.0,4,0,0,MIN,,period_end,0,False,False,,,101-138,101,138

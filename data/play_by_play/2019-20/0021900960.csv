@@ -1,0 +1,431 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900960,2020-03-10,IND,BOS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900960,2020-03-10,IND,BOS,0.0,1,12,0,,IND,jump_ball,0,False,False,Jump Ball Turner vs. Theis: Tip to Walker,,0-0,0,0
+0021900960,2020-03-10,IND,BOS,0.27,1,11,44,BOS,BOS,fg_miss,79,False,False,,MISS Walker 21' Pullup Jump Shot,0-0,0,0
+0021900960,2020-03-10,IND,BOS,0.32,1,11,41,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:1),,0-0,0,0
+0021900960,2020-03-10,IND,BOS,0.58,1,11,25,IND,IND,fg_make,79,False,False,Sabonis 6' Pullup Jump Shot (2 PTS),,2-0,2,0
+0021900960,2020-03-10,IND,BOS,0.87,1,11,8,BOS,BOS,fg3_make,1,False,False,,Smart 24' 3PT Jump Shot (3 PTS) (Tatum 1 AST),2-3,2,3
+0021900960,2020-03-10,IND,BOS,1.13,1,10,52,IND,IND,fg3_miss,1,False,False,MISS Holiday 27' 3PT Jump Shot,,2-3,2,3
+0021900960,2020-03-10,IND,BOS,1.18,1,10,49,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:0 Def:1),2-3,2,3
+0021900960,2020-03-10,IND,BOS,1.35,1,10,39,BOS,BOS,fg_make,102,False,False,,Tatum 5' Driving Floating Bank Jump Shot (2 PTS),2-5,2,5
+0021900960,2020-03-10,IND,BOS,1.6,1,10,24,IND,IND,tov,1,False,True,Oladipo Bad Pass Turnover (P1.T1),,2-5,2,5
+0021900960,2020-03-10,IND,BOS,1.6,1,10,24,IND,BOS,steal,1,False,True,steal,steal,2-5,2,5
+0021900960,2020-03-10,IND,BOS,1.73,1,10,16,BOS,BOS,tov,2,False,True,,Smart Lost Ball Turnover (P1.T1),2-5,2,5
+0021900960,2020-03-10,IND,BOS,1.73,1,10,16,BOS,IND,steal,2,False,True,steal,steal,2-5,2,5
+0021900960,2020-03-10,IND,BOS,1.83,1,10,10,IND,IND,fg_miss,5,False,False,MISS Sabonis 2' Layup,,2-5,2,5
+0021900960,2020-03-10,IND,BOS,1.88,1,10,7,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:0),,2-5,2,5
+0021900960,2020-03-10,IND,BOS,1.88,1,10,7,IND,IND,fg_make,72,False,False,Sabonis 1' Putback Layup (4 PTS),,4-5,4,5
+0021900960,2020-03-10,IND,BOS,2.05,1,9,57,BOS,BOS,fg_miss,79,False,False,,MISS Walker 16' Pullup Jump Shot,4-5,4,5
+0021900960,2020-03-10,IND,BOS,2.1,1,9,54,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:2),,4-5,4,5
+0021900960,2020-03-10,IND,BOS,2.3,1,9,42,IND,BOS,foul,1,False,False,,Smart P.FOUL (P1.T1) (M.Ayotte),4-5,4,5
+0021900960,2020-03-10,IND,BOS,2.42,1,9,35,IND,IND,fg_miss,6,True,False,MISS Oladipo 1' Driving Layup,,4-5,4,5
+0021900960,2020-03-10,IND,BOS,2.42,1,9,35,IND,BOS,block,6,True,False,block,block,4-5,4,5
+0021900960,2020-03-10,IND,BOS,2.47,1,9,32,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:0 Def:1),4-5,4,5
+0021900960,2020-03-10,IND,BOS,2.57,1,9,26,BOS,BOS,fg_make,9,False,False,,Tatum 1' Driving Dunk (4 PTS) (Smart 1 AST),4-7,4,7
+0021900960,2020-03-10,IND,BOS,2.85,1,9,9,IND,IND,tov,6,False,False,Turner Double Dribble Turnover (P1.T2),,4-7,4,7
+0021900960,2020-03-10,IND,BOS,3.03,1,8,58,BOS,BOS,fg3_miss,80,False,False,,MISS Smart 26' 3PT Step Back Jump Shot,4-7,4,7
+0021900960,2020-03-10,IND,BOS,3.08,1,8,55,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,4-7,4,7
+0021900960,2020-03-10,IND,BOS,3.22,1,8,47,IND,IND,fg_make,71,False,False,Turner 2' Finger Roll Layup (2 PTS) (Sabonis 1 AST),,6-7,6,7
+0021900960,2020-03-10,IND,BOS,3.48,1,8,31,BOS,BOS,fg_make,63,False,False,,Hayward 7' Fadeaway Jumper (2 PTS) (Theis 1 AST),6-9,6,9
+0021900960,2020-03-10,IND,BOS,3.75,1,8,15,IND,IND,fg_miss,47,False,False,MISS Turner 6' Turnaround Jump Shot,,6-9,6,9
+0021900960,2020-03-10,IND,BOS,3.78,1,8,13,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:0 Def:2),6-9,6,9
+0021900960,2020-03-10,IND,BOS,3.9,1,8,6,BOS,BOS,fg_make,79,False,False,,Hayward 16' Pullup Jump Shot (4 PTS),6-11,6,11
+0021900960,2020-03-10,IND,BOS,4.15,1,7,51,IND,IND,fg_miss,1,False,False,MISS Warren 18' Jump Shot,,6-11,6,11
+0021900960,2020-03-10,IND,BOS,4.18,1,7,49,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:0 Def:3),6-11,6,11
+0021900960,2020-03-10,IND,BOS,4.28,1,7,43,BOS,BOS,fg3_miss,79,False,False,,MISS Tatum 27' 3PT Pullup Jump Shot,6-11,6,11
+0021900960,2020-03-10,IND,BOS,4.35,1,7,39,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:0),6-11,6,11
+0021900960,2020-03-10,IND,BOS,4.35,1,7,39,BOS,BOS,fg_make,97,False,False,,Theis 1' Tip Layup Shot (2 PTS),6-13,6,13
+0021900960,2020-03-10,IND,BOS,4.68,1,7,19,IND,IND,fg3_make,1,False,False,Turner 3PT Jump Shot (5 PTS) (Holiday 1 AST),,9-13,9,13
+0021900960,2020-03-10,IND,BOS,4.87,1,7,8,BOS,BOS,fg3_make,79,False,False,,Walker 26' 3PT Pullup Jump Shot (3 PTS),9-16,9,16
+0021900960,2020-03-10,IND,BOS,4.9,1,7,6,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 1 Short 0),,9-16,9,16
+0021900960,2020-03-10,IND,BOS,5.18,1,6,49,IND,IND,fg_miss,102,False,False,MISS Oladipo 3' Driving Floating Bank Jump Shot,,9-16,9,16
+0021900960,2020-03-10,IND,BOS,5.22,1,6,47,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:0 Def:1),9-16,9,16
+0021900960,2020-03-10,IND,BOS,5.35,1,6,39,BOS,BOS,fg_miss,6,False,False,,MISS Smart 1' Driving Layup,9-16,9,16
+0021900960,2020-03-10,IND,BOS,5.38,1,6,37,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:1),,9-16,9,16
+0021900960,2020-03-10,IND,BOS,5.5,1,6,30,IND,IND,fg3_miss,1,False,False,MISS Holiday 27' 3PT Jump Shot,,9-16,9,16
+0021900960,2020-03-10,IND,BOS,5.57,1,6,26,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:2),,9-16,9,16
+0021900960,2020-03-10,IND,BOS,5.57,1,6,26,IND,IND,fg_make,97,False,False,Turner 1' Tip Layup Shot (7 PTS),,11-16,11,16
+0021900960,2020-03-10,IND,BOS,5.9,1,6,6,BOS,IND,foul,2,False,False,Turner S.FOUL (P1.T1) (M.Ayotte),,11-16,11,16
+0021900960,2020-03-10,IND,BOS,5.9,1,6,6,BOS,BOS,ft_make,11,False,False,,Hayward Free Throw 1 of 2 (5 PTS),11-17,11,17
+0021900960,2020-03-10,IND,BOS,5.9,1,6,6,BOS,BOS,ft_make,12,False,False,,Hayward Free Throw 2 of 2 (6 PTS),11-18,11,18
+0021900960,2020-03-10,IND,BOS,6.12,1,5,53,IND,IND,fg_miss,63,False,False,MISS Warren 10' Fadeaway Jumper,,11-18,11,18
+0021900960,2020-03-10,IND,BOS,6.17,1,5,50,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:0),,11-18,11,18
+0021900960,2020-03-10,IND,BOS,6.2,1,5,48,IND,IND,fg_make,5,False,False,Warren 2' Layup (2 PTS) (Turner 1 AST),,13-18,13,18
+0021900960,2020-03-10,IND,BOS,6.48,1,5,31,BOS,BOS,fg3_miss,79,False,False,,MISS Walker 27' 3PT Pullup Jump Shot,13-18,13,18
+0021900960,2020-03-10,IND,BOS,6.55,1,5,27,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:0),13-18,13,18
+0021900960,2020-03-10,IND,BOS,6.65,1,5,21,BOS,BOS,fg3_miss,1,False,False,,MISS Langford 24' 3PT Jump Shot,13-18,13,18
+0021900960,2020-03-10,IND,BOS,6.72,1,5,17,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,13-18,13,18
+0021900960,2020-03-10,IND,BOS,6.78,1,5,13,IND,IND,fg_make,98,False,False,Warren 1' Cutting Layup Shot (4 PTS) (Holiday 2 AST),,15-18,15,18
+0021900960,2020-03-10,IND,BOS,7.0,1,5,0,BOS,BOS,fg_miss,1,False,False,,MISS Theis 19' Jump Shot,15-18,15,18
+0021900960,2020-03-10,IND,BOS,7.05,1,4,57,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:3),,15-18,15,18
+0021900960,2020-03-10,IND,BOS,7.23,1,4,46,IND,IND,fg3_miss,80,False,False,MISS Holiday 25' 3PT Step Back Jump Shot,,15-18,15,18
+0021900960,2020-03-10,IND,BOS,7.28,1,4,43,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:1),15-18,15,18
+0021900960,2020-03-10,IND,BOS,7.42,1,4,35,BOS,BOS,fg_make,44,False,False,,Theis 1' Reverse Layup (4 PTS) (Hayward 1 AST),15-20,15,20
+0021900960,2020-03-10,IND,BOS,7.67,1,4,20,IND,BOS,foul,1,False,False,,Hayward P.FOUL (P1.T2) (K.Fitzgerald),15-20,15,20
+0021900960,2020-03-10,IND,BOS,7.77,1,4,14,IND,IND,tov,4,False,False,Holiday Traveling Turnover (P1.T3),,15-20,15,20
+0021900960,2020-03-10,IND,BOS,7.92,1,4,5,BOS,BOS,tov,1,False,True,,Wanamaker Bad Pass Turnover (P1.T2),15-20,15,20
+0021900960,2020-03-10,IND,BOS,7.92,1,4,5,BOS,IND,steal,1,False,True,steal,steal,15-20,15,20
+0021900960,2020-03-10,IND,BOS,8.03,1,3,58,IND,IND,fg_miss,75,True,False,MISS Holiday 2' Driving Finger Roll Layup,,15-20,15,20
+0021900960,2020-03-10,IND,BOS,8.03,1,3,58,IND,BOS,block,75,True,False,block,block,15-20,15,20
+0021900960,2020-03-10,IND,BOS,8.08,1,3,55,BOS,BOS,reb,0,False,False,,Wanamaker REBOUND (Off:0 Def:1),15-20,15,20
+0021900960,2020-03-10,IND,BOS,8.28,1,3,43,BOS,BOS,fg_miss,5,True,False,,MISS Theis 2' Layup,15-20,15,20
+0021900960,2020-03-10,IND,BOS,8.28,1,3,43,BOS,IND,block,5,True,False,block,block,15-20,15,20
+0021900960,2020-03-10,IND,BOS,8.32,1,3,41,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:0),15-20,15,20
+0021900960,2020-03-10,IND,BOS,8.35,1,3,39,BOS,BOS,fg3_make,1,False,False,,Hayward 27' 3PT Jump Shot (9 PTS) (Theis 2 AST),15-23,15,23
+0021900960,2020-03-10,IND,BOS,8.53,1,3,28,IND,IND,fg_miss,79,False,False,MISS Warren 20' Pullup Jump Shot,,15-23,15,23
+0021900960,2020-03-10,IND,BOS,8.57,1,3,26,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:2),15-23,15,23
+0021900960,2020-03-10,IND,BOS,8.67,1,3,20,BOS,BOS,fg_make,79,False,False,,Hayward 12' Pullup Jump Shot (11 PTS),15-25,15,25
+0021900960,2020-03-10,IND,BOS,8.9,1,3,6,IND,IND,fg_make,6,False,False,Holiday 2' Driving Layup (2 PTS),,17-25,17,25
+0021900960,2020-03-10,IND,BOS,9.13,1,2,52,BOS,BOS,tov,4,False,False,,Hayward Traveling Turnover (P1.T3),17-25,17,25
+0021900960,2020-03-10,IND,BOS,9.13,1,2,52,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.1 Short 0),17-25,17,25
+0021900960,2020-03-10,IND,BOS,9.32,1,2,41,IND,IND,fg_miss,1,False,False,MISS Holiday 15' Jump Shot,,17-25,17,25
+0021900960,2020-03-10,IND,BOS,9.37,1,2,38,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:0 Def:4),17-25,17,25
+0021900960,2020-03-10,IND,BOS,9.62,1,2,23,BOS,BOS,fg3_make,1,False,False,,Ojeleye 27' 3PT Jump Shot (3 PTS) (Hayward 2 AST),17-28,17,28
+0021900960,2020-03-10,IND,BOS,9.92,1,2,5,IND,IND,fg_miss,1,False,False,MISS Turner 20' Jump Shot,,17-28,17,28
+0021900960,2020-03-10,IND,BOS,9.97,1,2,2,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:3),17-28,17,28
+0021900960,2020-03-10,IND,BOS,10.1,1,1,54,BOS,BOS,fg_miss,75,True,False,,MISS Langford 1' Driving Finger Roll Layup,17-28,17,28
+0021900960,2020-03-10,IND,BOS,10.1,1,1,54,BOS,IND,block,75,True,False,block,block,17-28,17,28
+0021900960,2020-03-10,IND,BOS,10.15,1,1,51,IND,IND,reb,0,False,False,Sumner REBOUND (Off:0 Def:1),,17-28,17,28
+0021900960,2020-03-10,IND,BOS,10.38,1,1,37,IND,IND,fg_miss,73,False,False,MISS McConnell 2' Driving Reverse Layup,,17-28,17,28
+0021900960,2020-03-10,IND,BOS,10.42,1,1,35,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:1),17-28,17,28
+0021900960,2020-03-10,IND,BOS,10.48,1,1,31,BOS,IND,foul,2,False,False,Sampson S.FOUL (P1.T2) (M.Ayotte),,17-28,17,28
+0021900960,2020-03-10,IND,BOS,10.48,1,1,31,BOS,BOS,ft_make,11,False,False,,Hayward Free Throw 1 of 2 (12 PTS),17-29,17,29
+0021900960,2020-03-10,IND,BOS,10.48,1,1,31,BOS,BOS,ft_make,12,False,False,,Hayward Free Throw 2 of 2 (13 PTS),17-30,17,30
+0021900960,2020-03-10,IND,BOS,10.7,1,1,18,IND,IND,fg3_make,1,False,False,Holiday 27' 3PT Jump Shot (3 PTS) (McConnell 1 AST),,20-30,20,30
+0021900960,2020-03-10,IND,BOS,11.08,1,0,55,BOS,BOS,fg_miss,101,False,False,,MISS Tatum 8' Driving Floating Jump Shot,20-30,20,30
+0021900960,2020-03-10,IND,BOS,11.12,1,0,53,IND,IND,reb,0,False,False,Sampson REBOUND (Off:0 Def:1),,20-30,20,30
+0021900960,2020-03-10,IND,BOS,11.38,1,0,37,IND,IND,fg_make,108,False,False,Sabonis 1' Cutting Dunk Shot (6 PTS) (McConnell 2 AST),,22-30,22,30
+0021900960,2020-03-10,IND,BOS,11.55,1,0,27,BOS,BOS,fg_miss,57,False,False,,MISS Kanter 7' Driving Hook Shot,22-30,22,30
+0021900960,2020-03-10,IND,BOS,11.6,1,0,24,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,22-30,22,30
+0021900960,2020-03-10,IND,BOS,11.68,1,0,19,IND,BOS,foul,1,False,False,,Tatum P.FOUL (P1.T3) (K.Fitzgerald),22-30,22,30
+0021900960,2020-03-10,IND,BOS,11.92,1,0,5,IND,IND,fg_miss,1,False,False,MISS Sabonis 18' Jump Shot,,22-30,22,30
+0021900960,2020-03-10,IND,BOS,11.97,1,0,2,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:0 Def:1),22-30,22,30
+0021900960,2020-03-10,IND,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,22-30,22,30
+0021900960,2020-03-10,IND,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,22-30,22,30
+0021900960,2020-03-10,IND,BOS,12.23,2,11,46,IND,IND,fg_make,5,False,False,Sabonis 2' Layup (8 PTS),,24-30,24,30
+0021900960,2020-03-10,IND,BOS,12.43,2,11,34,BOS,BOS,fg_miss,5,False,False,,MISS Ojeleye 1' Layup,24-30,24,30
+0021900960,2020-03-10,IND,BOS,12.47,2,11,32,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:1),,24-30,24,30
+0021900960,2020-03-10,IND,BOS,12.58,2,11,25,IND,IND,fg_miss,63,False,False,MISS McConnell 11' Fadeaway Jumper,,24-30,24,30
+0021900960,2020-03-10,IND,BOS,12.62,2,11,23,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:0 Def:2),24-30,24,30
+0021900960,2020-03-10,IND,BOS,12.7,2,11,18,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 27' 3PT Jump Shot,24-30,24,30
+0021900960,2020-03-10,IND,BOS,12.75,2,11,15,IND,IND,reb,0,False,False,McConnell REBOUND (Off:0 Def:1),,24-30,24,30
+0021900960,2020-03-10,IND,BOS,13.07,2,10,56,IND,IND,fg_miss,47,False,False,MISS Sabonis 11' Turnaround Jump Shot,,24-30,24,30
+0021900960,2020-03-10,IND,BOS,13.13,2,10,52,IND,IND,reb,0,False,False,Sampson REBOUND (Off:1 Def:1),,24-30,24,30
+0021900960,2020-03-10,IND,BOS,13.13,2,10,52,IND,IND,fg_miss,107,False,False,MISS Sampson 1' Tip Dunk Shot,,24-30,24,30
+0021900960,2020-03-10,IND,BOS,13.13,2,10,52,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),24-30,24,30
+0021900960,2020-03-10,IND,BOS,13.2,2,10,48,BOS,BOS,fg_make,50,False,False,,Tatum 1' Running Dunk (6 PTS),24-32,24,32
+0021900960,2020-03-10,IND,BOS,13.6,2,10,24,IND,IND,fg_make,79,False,False,Sabonis 6' Pullup Jump Shot (10 PTS),,26-32,26,32
+0021900960,2020-03-10,IND,BOS,13.88,2,10,7,BOS,BOS,fg_make,79,False,False,,Tatum 18' Pullup Jump Shot (8 PTS),26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.2,2,9,48,IND,IND,fg_miss,57,True,False,MISS Sabonis 3' Driving Hook Shot,,26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.2,2,9,48,IND,BOS,block,57,True,False,block,block,26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.27,2,9,44,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:0 Def:3),26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.32,2,9,41,BOS,BOS,fg_miss,6,False,False,,MISS Smart 5' Driving Layup,26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.38,2,9,37,IND,IND,reb,0,False,False,Sampson REBOUND (Off:1 Def:2),,26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.45,2,9,33,IND,IND,fg_miss,75,False,False,MISS Sumner 2' Driving Finger Roll Layup,,26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.48,2,9,31,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:0 Def:2),26-34,26,34
+0021900960,2020-03-10,IND,BOS,14.67,2,9,20,BOS,BOS,fg3_make,79,False,False,,Tatum 28' 3PT Pullup Jump Shot (11 PTS),26-37,26,37
+0021900960,2020-03-10,IND,BOS,14.7,2,9,18,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 2 Short 0),,26-37,26,37
+0021900960,2020-03-10,IND,BOS,15.03,2,8,58,IND,IND,fg3_miss,79,False,False,MISS Holiday 26' 3PT Pullup Jump Shot,,26-37,26,37
+0021900960,2020-03-10,IND,BOS,15.1,2,8,54,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:0 Def:3),26-37,26,37
+0021900960,2020-03-10,IND,BOS,15.33,2,8,40,BOS,IND,foul,2,False,False,Holiday S.FOUL (P1.T1) (A.Smith),,26-37,26,37
+0021900960,2020-03-10,IND,BOS,15.33,2,8,40,BOS,BOS,ft_make,11,False,False,,Wanamaker Free Throw 1 of 2 (1 PTS),26-38,26,38
+0021900960,2020-03-10,IND,BOS,15.33,2,8,40,BOS,BOS,ft_make,12,False,False,,Wanamaker Free Throw 2 of 2 (2 PTS),26-39,26,39
+0021900960,2020-03-10,IND,BOS,15.5,2,8,30,IND,IND,fg_miss,1,False,False,MISS Sabonis 19' Jump Shot,,26-39,26,39
+0021900960,2020-03-10,IND,BOS,15.55,2,8,27,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:2),26-39,26,39
+0021900960,2020-03-10,IND,BOS,15.65,2,8,21,BOS,IND,foul,2,False,False,Holiday S.FOUL (P2.T2) (K.Fitzgerald),,26-39,26,39
+0021900960,2020-03-10,IND,BOS,15.65,2,8,21,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (12 PTS),26-40,26,40
+0021900960,2020-03-10,IND,BOS,15.65,2,8,21,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (13 PTS),26-41,26,41
+0021900960,2020-03-10,IND,BOS,15.9,2,8,6,IND,IND,fg3_make,79,False,False,Oladipo 29' 3PT Pullup Jump Shot (3 PTS) (Sabonis 2 AST),,29-41,29,41
+0021900960,2020-03-10,IND,BOS,16.13,2,7,52,BOS,IND,foul,1,False,False,Warren P.FOUL (P1.T3) (A.Smith),,29-41,29,41
+0021900960,2020-03-10,IND,BOS,16.27,2,7,44,BOS,BOS,fg3_make,79,False,False,,Tatum 28' 3PT Pullup Jump Shot (16 PTS),29-44,29,44
+0021900960,2020-03-10,IND,BOS,16.52,2,7,29,IND,IND,fg_make,98,False,False,Sabonis 2' Cutting Layup Shot (12 PTS) (Oladipo 1 AST),,31-44,31,44
+0021900960,2020-03-10,IND,BOS,16.75,2,7,15,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 27' 3PT Jump Shot,31-44,31,44
+0021900960,2020-03-10,IND,BOS,16.82,2,7,11,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:1 Def:3),31-44,31,44
+0021900960,2020-03-10,IND,BOS,16.83,2,7,10,BOS,BOS,fg_miss,3,False,False,,MISS Kanter 4' Hook Shot,31-44,31,44
+0021900960,2020-03-10,IND,BOS,16.88,2,7,7,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:2),,31-44,31,44
+0021900960,2020-03-10,IND,BOS,17.08,2,6,55,IND,IND,fg_miss,1,False,False,MISS Warren 8' Jump Shot,,31-44,31,44
+0021900960,2020-03-10,IND,BOS,17.13,2,6,52,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:4),31-44,31,44
+0021900960,2020-03-10,IND,BOS,17.23,2,6,46,BOS,BOS,tov,1,False,True,,Ojeleye Bad Pass Turnover (P1.T4),31-44,31,44
+0021900960,2020-03-10,IND,BOS,17.23,2,6,46,BOS,IND,steal,1,False,True,steal,steal,31-44,31,44
+0021900960,2020-03-10,IND,BOS,17.3,2,6,42,IND,IND,fg_make,41,False,False,Warren 1' Running Layup (6 PTS) (Sabonis 3 AST),,33-44,33,44
+0021900960,2020-03-10,IND,BOS,17.32,2,6,41,BOS,IND,foul,11,False,False,Warren T.FOUL (P1.T3) (A.Smith),,33-44,33,44
+0021900960,2020-03-10,IND,BOS,17.32,2,6,41,BOS,BOS,ft_make,16,False,False,,Tatum Free Throw Technical (17 PTS),33-45,33,45
+0021900960,2020-03-10,IND,BOS,17.62,2,6,23,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 25' 3PT Step Back Jump Shot,33-45,33,45
+0021900960,2020-03-10,IND,BOS,17.67,2,6,20,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:2 Def:3),33-45,33,45
+0021900960,2020-03-10,IND,BOS,17.7,2,6,18,BOS,BOS,tov,1,False,True,,Kanter Bad Pass Turnover (P1.T5),33-45,33,45
+0021900960,2020-03-10,IND,BOS,17.7,2,6,18,BOS,IND,steal,1,False,True,steal,steal,33-45,33,45
+0021900960,2020-03-10,IND,BOS,17.77,2,6,14,IND,IND,tov,2,False,True,Sabonis Lost Ball Turnover (P1.T4),,33-45,33,45
+0021900960,2020-03-10,IND,BOS,17.77,2,6,14,IND,BOS,steal,2,False,True,steal,steal,33-45,33,45
+0021900960,2020-03-10,IND,BOS,17.85,2,6,9,BOS,BOS,fg3_make,79,False,False,,Tatum 29' 3PT Pullup Jump Shot (20 PTS),33-48,33,48
+0021900960,2020-03-10,IND,BOS,18.17,2,5,50,IND,IND,fg3_miss,1,False,False,MISS Warren 28' 3PT Jump Shot,,33-48,33,48
+0021900960,2020-03-10,IND,BOS,18.2,2,5,48,BOS,BOS,reb,0,False,False,,Celtics Rebound,33-48,33,48
+0021900960,2020-03-10,IND,BOS,18.42,2,5,35,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 26' 3PT Jump Shot,33-48,33,48
+0021900960,2020-03-10,IND,BOS,18.47,2,5,32,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:2),,33-48,33,48
+0021900960,2020-03-10,IND,BOS,18.53,2,5,28,IND,BOS,foul,2,False,False,,Theis S.FOUL (P1.T1) (K.Fitzgerald),33-48,33,48
+0021900960,2020-03-10,IND,BOS,18.53,2,5,28,IND,IND,ft_make,11,False,False,Oladipo Free Throw 1 of 2 (4 PTS),,34-48,34,48
+0021900960,2020-03-10,IND,BOS,18.53,2,5,28,IND,IND,ft_make,12,False,False,Oladipo Free Throw 2 of 2 (5 PTS),,35-48,35,48
+0021900960,2020-03-10,IND,BOS,18.73,2,5,16,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 3PT Jump Shot,35-48,35,48
+0021900960,2020-03-10,IND,BOS,18.78,2,5,13,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:3),,35-48,35,48
+0021900960,2020-03-10,IND,BOS,19.07,2,4,56,IND,IND,fg_miss,47,False,False,MISS Sabonis 4' Turnaround Jump Shot,,35-48,35,48
+0021900960,2020-03-10,IND,BOS,19.12,2,4,53,IND,IND,reb,0,False,False,Warren REBOUND (Off:1 Def:0),,35-48,35,48
+0021900960,2020-03-10,IND,BOS,19.12,2,4,53,IND,IND,fg_make,97,False,False,Warren 1' Tip Layup Shot (8 PTS),,37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.35,2,4,39,BOS,BOS,fg3_miss,1,False,False,,MISS Hayward 27' 3PT Jump Shot,37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.38,2,4,37,IND,IND,reb,0,False,False,Warren REBOUND (Off:1 Def:1),,37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.72,2,4,17,IND,IND,fg3_miss,1,False,False,MISS Sabonis 27' 3PT Jump Shot,,37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.75,2,4,15,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:0 Def:2),37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.82,2,4,11,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.2 Short 0),37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.92,2,4,5,BOS,BOS,fg_miss,6,True,False,,MISS Hayward 1' Driving Layup,37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.92,2,4,5,BOS,IND,block,6,True,False,block,block,37-48,37,48
+0021900960,2020-03-10,IND,BOS,19.93,2,4,4,IND,IND,reb,0,False,False,PACERS Rebound,,37-48,37,48
+0021900960,2020-03-10,IND,BOS,20.2,2,3,48,IND,IND,tov,2,False,True,Turner Lost Ball Turnover (P2.T5),,37-48,37,48
+0021900960,2020-03-10,IND,BOS,20.2,2,3,48,IND,BOS,steal,2,False,True,steal,steal,37-48,37,48
+0021900960,2020-03-10,IND,BOS,20.25,2,3,45,BOS,BOS,fg_make,103,False,False,,Smart 16' Running Pull-Up Jump Shot (5 PTS),37-50,37,50
+0021900960,2020-03-10,IND,BOS,20.62,2,3,23,IND,IND,fg_make,71,False,False,Turner 2' Finger Roll Layup (9 PTS),,39-50,39,50
+0021900960,2020-03-10,IND,BOS,20.62,2,3,23,IND,BOS,foul,2,False,False,,Williams S.FOUL (P1.T2) (M.Ayotte),39-50,39,50
+0021900960,2020-03-10,IND,BOS,20.62,2,3,23,IND,IND,ft_make,10,False,False,Turner Free Throw 1 of 1 (10 PTS),,40-50,40,50
+0021900960,2020-03-10,IND,BOS,20.82,2,3,11,BOS,BOS,fg3_miss,79,False,False,,MISS Walker 26' 3PT Pullup Jump Shot,40-50,40,50
+0021900960,2020-03-10,IND,BOS,20.87,2,3,8,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:3),,40-50,40,50
+0021900960,2020-03-10,IND,BOS,21.02,2,2,59,IND,IND,fg_make,6,False,False,Holiday 2' Driving Layup (4 PTS),,42-50,42,50
+0021900960,2020-03-10,IND,BOS,21.45,2,2,33,BOS,BOS,fg_miss,47,False,False,,MISS Hayward 16' Turnaround Jump Shot,42-50,42,50
+0021900960,2020-03-10,IND,BOS,21.48,2,2,31,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:4),,42-50,42,50
+0021900960,2020-03-10,IND,BOS,21.57,2,2,26,IND,IND,fg3_make,79,False,False,Oladipo 26' 3PT Pullup Jump Shot (8 PTS),,45-50,45,50
+0021900960,2020-03-10,IND,BOS,21.98,2,2,1,BOS,BOS,fg_make,1,False,False,,Theis 11' Jump Shot (6 PTS) (Smart 2 AST),45-52,45,52
+0021900960,2020-03-10,IND,BOS,22.22,2,1,47,IND,IND,fg3_make,1,False,False,Oladipo 27' 3PT Jump Shot (11 PTS) (Sabonis 4 AST),,48-52,48,52
+0021900960,2020-03-10,IND,BOS,22.48,2,1,31,BOS,IND,foul,1,False,False,Oladipo P.FOUL (P1.T4) (M.Ayotte),,48-52,48,52
+0021900960,2020-03-10,IND,BOS,22.67,2,1,20,BOS,BOS,fg3_make,79,False,False,,Smart 29' 3PT Pullup Jump Shot (8 PTS),48-55,48,55
+0021900960,2020-03-10,IND,BOS,22.97,2,1,2,IND,IND,fg_miss,63,False,False,MISS Oladipo 16' Fadeaway Jumper,,48-55,48,55
+0021900960,2020-03-10,IND,BOS,23.0,2,1,0,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),48-55,48,55
+0021900960,2020-03-10,IND,BOS,23.13,2,0,52,BOS,BOS,fg3_miss,79,False,False,,MISS Tatum 28' 3PT Pullup Jump Shot,48-55,48,55
+0021900960,2020-03-10,IND,BOS,23.18,2,0,49,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:4),,48-55,48,55
+0021900960,2020-03-10,IND,BOS,23.22,2,0,47,IND,IND,tov,2,False,True,Turner Lost Ball Turnover (P3.T6),,48-55,48,55
+0021900960,2020-03-10,IND,BOS,23.22,2,0,47,IND,BOS,steal,2,False,True,steal,steal,48-55,48,55
+0021900960,2020-03-10,IND,BOS,23.53,2,0,28,BOS,IND,foul,1,False,False,Turner P.FOUL (P2.PN) (K.Fitzgerald),,48-55,48,55
+0021900960,2020-03-10,IND,BOS,23.53,2,0,28,BOS,BOS,ft_make,11,False,False,,Walker Free Throw 1 of 2 (4 PTS),48-56,48,56
+0021900960,2020-03-10,IND,BOS,23.53,2,0,28,BOS,BOS,ft_make,12,False,False,,Walker Free Throw 2 of 2 (5 PTS),48-57,48,57
+0021900960,2020-03-10,IND,BOS,23.88,2,0,7,IND,IND,fg_make,79,False,False,Oladipo 22' Pullup Jump Shot (13 PTS),,50-57,50,57
+0021900960,2020-03-10,IND,BOS,23.97,2,0,2,BOS,BOS,fg_make,1,False,False,,Theis 6' Jump Shot (8 PTS) (Hayward 3 AST),50-59,50,59
+0021900960,2020-03-10,IND,BOS,24.0,2,0,0,IND,IND,fg3_miss,103,False,False,MISS Holiday 52' 3PT Running Pull-Up Jump Shot,,50-59,50,59
+0021900960,2020-03-10,IND,BOS,24.0,2,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,50-59,50,59
+0021900960,2020-03-10,IND,BOS,24.0,2,0,0,IND,,period_end,0,False,False,,,50-59,50,59
+0021900960,2020-03-10,IND,BOS,24.0,3,12,0,IND,,period_start,0,False,False,,,50-59,50,59
+0021900960,2020-03-10,IND,BOS,24.23,3,11,46,IND,IND,fg_make,1,False,False,Warren 15' Jump Shot (10 PTS) (Holiday 3 AST),,52-59,52,59
+0021900960,2020-03-10,IND,BOS,24.57,3,11,26,BOS,BOS,fg3_make,1,False,False,,Hayward 28' 3PT Jump Shot (16 PTS) (Smart 3 AST),52-62,52,62
+0021900960,2020-03-10,IND,BOS,24.93,3,11,4,IND,IND,fg_make,6,False,False,Sabonis 4' Driving Layup (14 PTS) (Oladipo 2 AST),,54-62,54,62
+0021900960,2020-03-10,IND,BOS,25.18,3,10,49,BOS,BOS,fg3_miss,1,False,False,,MISS Hayward 24' 3PT Jump Shot,54-62,54,62
+0021900960,2020-03-10,IND,BOS,25.22,3,10,47,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:5),,54-62,54,62
+0021900960,2020-03-10,IND,BOS,25.32,3,10,41,IND,IND,fg_miss,103,False,False,MISS Holiday 8' Running Pull-Up Jump Shot,,54-62,54,62
+0021900960,2020-03-10,IND,BOS,25.37,3,10,38,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:0 Def:5),54-62,54,62
+0021900960,2020-03-10,IND,BOS,25.57,3,10,26,BOS,BOS,fg_make,71,False,False,,Theis 2' Finger Roll Layup (10 PTS) (Smart 4 AST),54-64,54,64
+0021900960,2020-03-10,IND,BOS,25.93,3,10,4,IND,IND,tov,1,False,True,Sabonis Bad Pass Turnover (P2.T7),,54-64,54,64
+0021900960,2020-03-10,IND,BOS,25.93,3,10,4,IND,BOS,steal,1,False,True,steal,steal,54-64,54,64
+0021900960,2020-03-10,IND,BOS,26.05,3,9,57,BOS,BOS,fg_miss,73,False,False,,MISS Hayward 2' Driving Reverse Layup,54-64,54,64
+0021900960,2020-03-10,IND,BOS,26.08,3,9,55,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:1 Def:5),54-64,54,64
+0021900960,2020-03-10,IND,BOS,26.08,3,9,55,BOS,BOS,fg_make,97,False,False,,Hayward 1' Tip Layup Shot (18 PTS),54-66,54,66
+0021900960,2020-03-10,IND,BOS,26.33,3,9,40,IND,IND,fg_miss,6,False,False,MISS Warren 1' Driving Layup,,54-66,54,66
+0021900960,2020-03-10,IND,BOS,26.38,3,9,37,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:2),54-66,54,66
+0021900960,2020-03-10,IND,BOS,26.53,3,9,28,BOS,BOS,fg_make,79,False,False,,Walker 19' Pullup Jump Shot (7 PTS),54-68,54,68
+0021900960,2020-03-10,IND,BOS,26.8,3,9,12,IND,IND,tov,1,False,True,Warren Bad Pass Turnover (P1.T8),,54-68,54,68
+0021900960,2020-03-10,IND,BOS,26.8,3,9,12,IND,BOS,steal,1,False,True,steal,steal,54-68,54,68
+0021900960,2020-03-10,IND,BOS,26.82,3,9,11,BOS,IND,foul,28,False,False,Warren Personal Take Foul (P2.T1) (A.Smith),,54-68,54,68
+0021900960,2020-03-10,IND,BOS,27.18,3,8,49,BOS,BOS,tov,40,False,False,,Walker Out of Bounds Lost Ball Turnover (P1.T6),54-68,54,68
+0021900960,2020-03-10,IND,BOS,27.33,3,8,40,IND,IND,fg_make,78,False,False,Sabonis 5' Floating Jump Shot (16 PTS) (Oladipo 3 AST),,56-68,56,68
+0021900960,2020-03-10,IND,BOS,27.68,3,8,19,BOS,BOS,fg3_make,1,False,False,,Hayward 3PT Jump Shot (21 PTS) (Smart 5 AST),56-71,56,71
+0021900960,2020-03-10,IND,BOS,27.8,3,8,12,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,56-71,56,71
+0021900960,2020-03-10,IND,BOS,27.85,3,8,9,IND,BOS,foul,1,False,False,,Hayward P.FOUL (P2.T1) (M.Ayotte),56-71,56,71
+0021900960,2020-03-10,IND,BOS,27.93,3,8,4,IND,IND,tov,1,False,True,Warren Bad Pass Turnover (P2.T9),,56-71,56,71
+0021900960,2020-03-10,IND,BOS,27.93,3,8,4,IND,BOS,steal,1,False,True,steal,steal,56-71,56,71
+0021900960,2020-03-10,IND,BOS,28.23,3,7,46,BOS,IND,foul,1,False,False,Oladipo P.FOUL (P2.T2) (M.Ayotte),,56-71,56,71
+0021900960,2020-03-10,IND,BOS,28.3,3,7,42,BOS,BOS,fg_make,79,False,False,,Hayward 18' Pullup Jump Shot (23 PTS) (Theis 3 AST),56-73,56,73
+0021900960,2020-03-10,IND,BOS,28.52,3,7,29,IND,IND,fg_make,79,False,False,Oladipo 19' Pullup Jump Shot (15 PTS) (Sabonis 5 AST),,58-73,58,73
+0021900960,2020-03-10,IND,BOS,28.82,3,7,11,BOS,BOS,fg_make,108,False,False,,Theis 3' Cutting Dunk Shot (12 PTS) (Walker 1 AST),58-75,58,75
+0021900960,2020-03-10,IND,BOS,29.1,3,6,54,IND,IND,fg_miss,101,False,False,MISS Holiday 15' Driving Floating Jump Shot,,58-75,58,75
+0021900960,2020-03-10,IND,BOS,29.17,3,6,50,IND,IND,reb,0,False,False,Warren REBOUND (Off:2 Def:1),,60-75,60,75
+0021900960,2020-03-10,IND,BOS,29.17,3,6,50,IND,IND,fg_make,97,False,False,Warren 1' Tip Layup Shot (12 PTS),,60-75,60,75
+0021900960,2020-03-10,IND,BOS,29.37,3,6,38,BOS,IND,foul,2,False,False,Warren S.FOUL (P3.T3) (A.Smith),,60-75,60,75
+0021900960,2020-03-10,IND,BOS,29.37,3,6,38,BOS,BOS,ft_make,11,False,False,,Theis Free Throw 1 of 2 (13 PTS),60-76,60,76
+0021900960,2020-03-10,IND,BOS,29.37,3,6,38,BOS,BOS,ft_make,12,False,False,,Theis Free Throw 2 of 2 (14 PTS),60-77,60,77
+0021900960,2020-03-10,IND,BOS,29.6,3,6,24,IND,IND,fg_make,102,False,False,Turner 3' Driving Floating Bank Jump Shot (12 PTS),,62-77,62,77
+0021900960,2020-03-10,IND,BOS,29.95,3,6,3,BOS,BOS,fg_make,80,False,False,,Smart 19' Step Back Jump Shot (10 PTS),62-79,62,79
+0021900960,2020-03-10,IND,BOS,30.13,3,5,52,IND,BOS,foul,2,False,False,,Langford S.FOUL (P1.T2) (K.Fitzgerald),62-79,62,79
+0021900960,2020-03-10,IND,BOS,30.13,3,5,52,IND,IND,ft_make,11,False,False,Warren Free Throw 1 of 2 (13 PTS),,63-79,63,79
+0021900960,2020-03-10,IND,BOS,30.13,3,5,52,IND,IND,ft_make,12,False,False,Warren Free Throw 2 of 2 (14 PTS),,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.25,3,5,45,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 29' 3PT Jump Shot,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.32,3,5,41,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:5),,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.48,3,5,31,BOS,IND,foul,4,False,False,Warren OFF.Foul (P4) (M.Ayotte),,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.48,3,5,31,IND,IND,tov,37,False,False,Warren Offensive Foul Turnover (P3.T10),,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.67,3,5,20,BOS,BOS,fg_miss,1,False,False,,MISS Hayward 13' Jump Shot,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.72,3,5,17,BOS,BOS,reb,0,False,False,,Celtics Rebound,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.87,3,5,8,BOS,BOS,fg_miss,6,False,False,,MISS Hayward 1' Driving Layup,64-79,64,79
+0021900960,2020-03-10,IND,BOS,30.9,3,5,6,IND,IND,reb,0,False,False,Sumner REBOUND (Off:0 Def:2),,64-79,64,79
+0021900960,2020-03-10,IND,BOS,31.07,3,4,56,IND,IND,fg_miss,5,True,False,MISS Sabonis 2' Layup,,64-79,64,79
+0021900960,2020-03-10,IND,BOS,31.07,3,4,56,IND,BOS,block,5,True,False,block,block,64-79,64,79
+0021900960,2020-03-10,IND,BOS,31.07,3,4,56,IND,IND,reb,0,False,False,PACERS Rebound,,64-79,64,79
+0021900960,2020-03-10,IND,BOS,31.27,3,4,44,IND,IND,fg3_miss,1,False,False,MISS Sabonis 24' 3PT Jump Shot,,64-79,64,79
+0021900960,2020-03-10,IND,BOS,31.35,3,4,39,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:3 Def:3),,64-79,64,79
+0021900960,2020-03-10,IND,BOS,31.37,3,4,38,IND,IND,fg_make,9,False,False,Sabonis 1' Driving Dunk (18 PTS),,66-79,66,79
+0021900960,2020-03-10,IND,BOS,31.8,3,4,12,BOS,BOS,fg_miss,5,True,False,,MISS Theis 2' Layup,66-79,66,79
+0021900960,2020-03-10,IND,BOS,31.8,3,4,12,BOS,IND,block,5,True,False,block,block,66-79,66,79
+0021900960,2020-03-10,IND,BOS,31.8,3,4,12,BOS,BOS,reb,0,False,False,,Celtics Rebound,66-79,66,79
+0021900960,2020-03-10,IND,BOS,31.82,3,4,11,BOS,BOS,fg3_make,1,False,False,,Walker 3PT Jump Shot (10 PTS) (Wanamaker 1 AST),66-82,66,82
+0021900960,2020-03-10,IND,BOS,32.03,3,3,58,IND,IND,fg_miss,75,False,False,MISS Sumner 1' Driving Finger Roll Layup,,66-82,66,82
+0021900960,2020-03-10,IND,BOS,32.08,3,3,55,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:0 Def:3),66-82,66,82
+0021900960,2020-03-10,IND,BOS,32.22,3,3,47,BOS,BOS,fg3_make,1,False,False,,Theis 24' 3PT Jump Shot (17 PTS) (Walker 2 AST),66-85,66,85
+0021900960,2020-03-10,IND,BOS,32.37,3,3,38,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 4 Short 0),,66-85,66,85
+0021900960,2020-03-10,IND,BOS,32.47,3,3,32,IND,IND,fg_make,75,False,False,Turner 1' Driving Finger Roll Layup (14 PTS) (Holiday 4 AST),,68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.47,3,3,32,IND,BOS,foul,2,False,False,,Theis S.FOUL (P2.T3) (K.Fitzgerald),68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.47,3,3,32,IND,IND,ft_miss,10,False,False,MISS Turner Free Throw 1 of 1,,68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.5,3,3,30,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:4),68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.67,3,3,20,BOS,BOS,fg3_miss,79,False,False,,MISS Hayward 27' 3PT Pullup Jump Shot,68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.72,3,3,17,IND,IND,reb,0,False,False,Sampson REBOUND (Off:1 Def:3),,68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.9,3,3,6,IND,IND,tov,1,False,True,Sumner Bad Pass Turnover (P1.T11),,68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.9,3,3,6,IND,BOS,steal,1,False,True,steal,steal,68-85,68,85
+0021900960,2020-03-10,IND,BOS,32.98,3,3,1,BOS,BOS,fg_make,100,False,False,,Hayward 2' Running Alley Oop Layup Shot (25 PTS) (Tatum 2 AST),68-87,68,87
+0021900960,2020-03-10,IND,BOS,33.1,3,2,54,IND,IND,fg3_make,79,False,False,Holiday 25' 3PT Pullup Jump Shot (6 PTS) (McConnell 3 AST),,71-87,71,87
+0021900960,2020-03-10,IND,BOS,33.35,3,2,39,BOS,BOS,fg_miss,71,False,False,,MISS Langford 2' Finger Roll Layup,71-87,71,87
+0021900960,2020-03-10,IND,BOS,33.38,3,2,37,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:6),,71-87,71,87
+0021900960,2020-03-10,IND,BOS,33.48,3,2,31,IND,IND,fg3_miss,1,False,False,MISS Turner 28' 3PT Jump Shot,,71-87,71,87
+0021900960,2020-03-10,IND,BOS,33.52,3,2,29,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:1 Def:6),71-87,71,87
+0021900960,2020-03-10,IND,BOS,33.68,3,2,19,BOS,BOS,fg_make,78,False,False,,Tatum 5' Floating Jump Shot (22 PTS),71-89,71,89
+0021900960,2020-03-10,IND,BOS,34.03,3,1,58,IND,IND,fg_make,75,False,False,Turner 2' Driving Finger Roll Layup (16 PTS),,73-89,73,89
+0021900960,2020-03-10,IND,BOS,34.4,3,1,36,BOS,BOS,fg_miss,5,False,False,,MISS Theis 2' Layup,73-89,73,89
+0021900960,2020-03-10,IND,BOS,34.43,3,1,34,BOS,BOS,reb,0,False,False,,Langford REBOUND (Off:1 Def:0),73-89,73,89
+0021900960,2020-03-10,IND,BOS,34.45,3,1,33,BOS,BOS,fg_miss,7,True,False,,MISS Langford 2' Dunk,73-89,73,89
+0021900960,2020-03-10,IND,BOS,34.45,3,1,33,BOS,IND,block,7,True,False,block,block,73-89,73,89
+0021900960,2020-03-10,IND,BOS,34.52,3,1,29,IND,IND,reb,0,False,False,Sampson REBOUND (Off:1 Def:4),,73-89,73,89
+0021900960,2020-03-10,IND,BOS,34.55,3,1,27,IND,IND,fg_make,76,False,False,Sumner 1' Running Finger Roll Layup (2 PTS) (Sampson 1 AST),,75-89,75,89
+0021900960,2020-03-10,IND,BOS,34.55,3,1,27,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.3 Short 0),75-89,75,89
+0021900960,2020-03-10,IND,BOS,34.87,3,1,8,BOS,IND,foul,1,False,False,Sabonis P.FOUL (P1.T4) (K.Fitzgerald),,75-89,75,89
+0021900960,2020-03-10,IND,BOS,34.93,3,1,4,BOS,BOS,fg_make,6,False,False,,Wanamaker 2' Driving Layup (4 PTS) (Kanter 1 AST),75-91,75,91
+0021900960,2020-03-10,IND,BOS,34.93,3,1,4,BOS,IND,foul,2,False,False,McConnell S.FOUL (P1.PN) (A.Smith),,75-91,75,91
+0021900960,2020-03-10,IND,BOS,34.93,3,1,4,BOS,BOS,ft_make,10,False,False,,Wanamaker Free Throw 1 of 1 (5 PTS),75-92,75,92
+0021900960,2020-03-10,IND,BOS,35.07,3,0,56,BOS,,foul,11,False,False,,,75-92,75,92
+0021900960,2020-03-10,IND,BOS,35.07,3,0,56,BOS,BOS,ft_make,16,False,False,,Tatum Free Throw Technical (23 PTS),75-93,75,93
+0021900960,2020-03-10,IND,BOS,35.2,3,0,48,IND,IND,fg_make,108,False,False,Sabonis 3' Cutting Dunk Shot (20 PTS) (Sumner 1 AST),,77-93,77,93
+0021900960,2020-03-10,IND,BOS,35.2,3,0,48,IND,BOS,foul,2,False,False,,Wanamaker S.FOUL (P1.T4) (A.Smith),77-93,77,93
+0021900960,2020-03-10,IND,BOS,35.2,3,0,48,IND,IND,ft_make,10,False,False,Sabonis Free Throw 1 of 1 (21 PTS),,78-93,78,93
+0021900960,2020-03-10,IND,BOS,35.47,3,0,32,BOS,IND,foul,1,False,False,Sumner P.FOUL (P1.PN) (K.Fitzgerald),,78-93,78,93
+0021900960,2020-03-10,IND,BOS,35.47,3,0,32,BOS,BOS,ft_miss,11,False,False,,MISS Tatum Free Throw 1 of 2,78-93,78,93
+0021900960,2020-03-10,IND,BOS,35.47,3,0,32,BOS,BOS,reb,1,False,False,,Celtics Rebound,78-93,78,93
+0021900960,2020-03-10,IND,BOS,35.47,3,0,32,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (24 PTS),78-94,78,94
+0021900960,2020-03-10,IND,BOS,35.7,3,0,18,IND,IND,fg_make,75,False,False,McConnell 1' Driving Finger Roll Layup (2 PTS),,80-94,80,94
+0021900960,2020-03-10,IND,BOS,35.98,3,0,1,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 25' 3PT Step Back Jump Shot,80-94,80,94
+0021900960,2020-03-10,IND,BOS,35.98,3,0,1,BOS,BOS,reb,0,False,False,,Celtics Rebound,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.0,3,0,0,BOS,,period_end,0,False,False,,,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.0,4,12,0,BOS,,period_start,0,False,False,,,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.38,4,11,37,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.4,4,11,36,BOS,BOS,reb,0,False,False,,Celtics Rebound,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.4,4,11,36,BOS,BOS,tov,11,False,False,,Celtics Turnover: Shot Clock (T#7),80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.57,4,11,26,IND,IND,fg3_miss,1,False,False,MISS Holiday 29' 3PT Jump Shot,,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.62,4,11,23,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:2 Def:4),80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.75,4,11,15,BOS,BOS,fg_miss,5,True,False,,MISS Tatum 2' Layup,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.75,4,11,15,BOS,IND,block,5,True,False,block,block,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.78,4,11,13,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:4),80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.9,4,11,6,BOS,BOS,fg_miss,71,False,False,,MISS Tatum 1' Finger Roll Layup,80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.95,4,11,3,BOS,BOS,reb,0,False,False,,Wanamaker REBOUND (Off:1 Def:1),80-94,80,94
+0021900960,2020-03-10,IND,BOS,36.97,4,11,2,BOS,IND,foul,1,False,False,Sampson P.FOUL (P2.T1) (K.Fitzgerald),,80-94,80,94
+0021900960,2020-03-10,IND,BOS,37.12,4,10,53,BOS,BOS,fg_make,101,False,False,,Smart 14' Driving Floating Jump Shot (12 PTS),80-96,80,96
+0021900960,2020-03-10,IND,BOS,37.35,4,10,39,IND,IND,fg_make,99,False,False,Sabonis 1' Cutting Finger Roll Layup Shot (23 PTS) (McConnell 4 AST),,82-96,82,96
+0021900960,2020-03-10,IND,BOS,37.75,4,10,15,BOS,BOS,fg3_miss,79,False,False,,MISS Smart 27' 3PT Pullup Jump Shot,82-96,82,96
+0021900960,2020-03-10,IND,BOS,37.8,4,10,12,IND,IND,reb,0,False,False,Sumner REBOUND (Off:0 Def:3),,82-96,82,96
+0021900960,2020-03-10,IND,BOS,37.93,4,10,4,IND,IND,fg_make,1,False,False,Holiday 15' Jump Shot (8 PTS) (Sabonis 6 AST),,84-96,84,96
+0021900960,2020-03-10,IND,BOS,38.3,4,9,42,BOS,BOS,fg_make,80,False,False,,Tatum 18' Step Back Jump Shot (26 PTS),84-98,84,98
+0021900960,2020-03-10,IND,BOS,38.68,4,9,19,IND,IND,fg3_miss,1,False,False,MISS Sampson 24' 3PT Jump Shot,,84-98,84,98
+0021900960,2020-03-10,IND,BOS,38.73,4,9,16,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:5),84-98,84,98
+0021900960,2020-03-10,IND,BOS,38.88,4,9,7,BOS,BOS,fg3_miss,79,False,False,,MISS Tatum 28' 3PT Pullup Jump Shot,84-98,84,98
+0021900960,2020-03-10,IND,BOS,38.93,4,9,4,IND,IND,reb,0,False,False,PACERS Rebound,,84-98,84,98
+0021900960,2020-03-10,IND,BOS,39.18,4,8,49,IND,IND,fg_miss,58,False,False,MISS Sabonis 3' Turnaround Hook Shot,,84-98,84,98
+0021900960,2020-03-10,IND,BOS,39.22,4,8,47,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:5),84-98,84,98
+0021900960,2020-03-10,IND,BOS,39.5,4,8,30,BOS,BOS,fg_miss,75,False,False,,MISS Smart 2' Driving Finger Roll Layup,84-98,84,98
+0021900960,2020-03-10,IND,BOS,39.55,4,8,27,IND,IND,reb,0,False,False,Sumner REBOUND (Off:0 Def:4),,84-98,84,98
+0021900960,2020-03-10,IND,BOS,39.62,4,8,23,IND,IND,fg_make,76,False,False,Sumner 3' Running Finger Roll Layup (4 PTS),,86-98,86,98
+0021900960,2020-03-10,IND,BOS,39.92,4,8,5,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 10' Fadeaway Jumper,86-98,86,98
+0021900960,2020-03-10,IND,BOS,39.95,4,8,3,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:3 Def:4),86-98,86,98
+0021900960,2020-03-10,IND,BOS,39.95,4,8,3,BOS,BOS,fg_make,72,False,False,,Kanter 1' Putback Layup (2 PTS),86-100,86,100
+0021900960,2020-03-10,IND,BOS,39.95,4,8,3,BOS,IND,foul,2,False,False,Sumner S.FOUL (P2.T2) (A.Smith),,86-100,86,100
+0021900960,2020-03-10,IND,BOS,39.95,4,8,3,BOS,BOS,ft_miss,10,False,False,,MISS Kanter Free Throw 1 of 1,86-100,86,100
+0021900960,2020-03-10,IND,BOS,39.98,4,8,1,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:3 Def:4),,86-100,86,100
+0021900960,2020-03-10,IND,BOS,40.18,4,7,49,IND,IND,tov,2,False,True,Sabonis Lost Ball Turnover (P3.T12),,86-100,86,100
+0021900960,2020-03-10,IND,BOS,40.18,4,7,49,IND,BOS,steal,2,False,True,steal,steal,86-100,86,100
+0021900960,2020-03-10,IND,BOS,40.28,4,7,43,BOS,BOS,fg_miss,41,True,False,,MISS Wanamaker Running Layup,86-100,86,100
+0021900960,2020-03-10,IND,BOS,40.28,4,7,43,BOS,IND,block,41,True,False,block,block,86-100,86,100
+0021900960,2020-03-10,IND,BOS,40.32,4,7,41,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:2 Def:6),86-100,86,100
+0021900960,2020-03-10,IND,BOS,40.33,4,7,40,BOS,BOS,fg_make,97,False,False,,Hayward 1' Tip Layup Shot (27 PTS),86-102,86,102
+0021900960,2020-03-10,IND,BOS,40.4,4,7,36,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 5 Short 0),,86-102,86,102
+0021900960,2020-03-10,IND,BOS,40.55,4,7,27,IND,IND,fg_miss,79,False,False,MISS Oladipo 20' Pullup Jump Shot,,86-102,86,102
+0021900960,2020-03-10,IND,BOS,40.58,4,7,25,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:2 Def:7),86-102,86,102
+0021900960,2020-03-10,IND,BOS,40.8,4,7,12,BOS,BOS,tov,1,False,True,,Walker Bad Pass Turnover (P2.T8),86-102,86,102
+0021900960,2020-03-10,IND,BOS,40.8,4,7,12,BOS,IND,steal,1,False,True,steal,steal,86-102,86,102
+0021900960,2020-03-10,IND,BOS,40.8,4,7,12,IND,BOS,foul,1,False,False,,Hayward P.FOUL (P3.T1) (M.Ayotte),86-102,86,102
+0021900960,2020-03-10,IND,BOS,41.08,4,6,55,IND,IND,fg_miss,5,False,False,MISS Warren 6' Layup,,86-102,86,102
+0021900960,2020-03-10,IND,BOS,41.1,4,6,54,IND,IND,reb,0,False,False,Warren REBOUND (Off:3 Def:1),,86-102,86,102
+0021900960,2020-03-10,IND,BOS,41.12,4,6,53,IND,IND,fg_make,72,False,False,Warren Putback Layup (16 PTS),,88-102,88,102
+0021900960,2020-03-10,IND,BOS,41.12,4,6,53,IND,BOS,foul,2,False,False,,Ojeleye S.FOUL (P1.T2) (A.Smith),88-102,88,102
+0021900960,2020-03-10,IND,BOS,41.12,4,6,53,IND,IND,ft_make,10,False,False,Warren Free Throw 1 of 1 (17 PTS),,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.42,4,6,35,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 27' 3PT Jump Shot,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.45,4,6,33,BOS,BOS,reb,0,False,False,,Celtics Rebound,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.45,4,6,33,BOS,IND,foul,3,False,False,Turner L.B.FOUL (P3.T3) (K.Fitzgerald),,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.63,4,6,22,BOS,BOS,fg3_miss,1,False,False,,MISS Walker 27' 3PT Jump Shot,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.68,4,6,19,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:6),,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.75,4,6,15,IND,IND,fg_miss,6,False,False,MISS Warren 2' Driving Layup,,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.8,4,6,12,IND,IND,reb,0,False,False,Warren REBOUND (Off:4 Def:1),,89-102,89,102
+0021900960,2020-03-10,IND,BOS,41.8,4,6,12,IND,IND,fg_make,97,False,False,Warren 1' Tip Layup Shot (19 PTS),,91-102,91,102
+0021900960,2020-03-10,IND,BOS,41.8,4,6,12,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.4 Short 0),91-102,91,102
+0021900960,2020-03-10,IND,BOS,42.18,4,5,49,BOS,BOS,fg3_miss,79,False,False,,MISS Walker 28' 3PT Pullup Jump Shot,91-102,91,102
+0021900960,2020-03-10,IND,BOS,42.25,4,5,45,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:3 Def:5),,91-102,91,102
+0021900960,2020-03-10,IND,BOS,42.43,4,5,34,IND,IND,fg_miss,79,False,False,MISS Warren 17' Pullup Jump Shot,,91-102,91,102
+0021900960,2020-03-10,IND,BOS,42.48,4,5,31,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:2 Def:8),91-102,91,102
+0021900960,2020-03-10,IND,BOS,42.63,4,5,22,IND,BOS,foul,4,False,False,,Hayward OFF.Foul (P4) (A.Smith),91-102,91,102
+0021900960,2020-03-10,IND,BOS,42.63,4,5,22,BOS,BOS,tov,37,False,False,,Hayward Offensive Foul Turnover (P2.T9),91-102,91,102
+0021900960,2020-03-10,IND,BOS,42.83,4,5,10,IND,IND,fg_make,78,False,False,Oladipo 18' Floating Jump Shot (17 PTS) (Sabonis 7 AST),,93-102,93,102
+0021900960,2020-03-10,IND,BOS,43.17,4,4,50,BOS,BOS,fg3_miss,80,False,False,,MISS Smart 28' 3PT Step Back Jump Shot,93-102,93,102
+0021900960,2020-03-10,IND,BOS,43.22,4,4,47,IND,IND,reb,0,False,False,PACERS Rebound,,93-102,93,102
+0021900960,2020-03-10,IND,BOS,43.22,4,4,47,IND,BOS,foul,3,False,False,,Theis L.B.FOUL (P3.T3) (K.Fitzgerald),93-102,93,102
+0021900960,2020-03-10,IND,BOS,43.42,4,4,35,IND,IND,fg3_make,79,False,False,Oladipo 27' 3PT Pullup Jump Shot (20 PTS),,96-102,96,102
+0021900960,2020-03-10,IND,BOS,43.63,4,4,22,BOS,IND,violation,5,False,False,Turner Violation:Kicked Ball (M.Ayotte),,96-102,96,102
+0021900960,2020-03-10,IND,BOS,43.75,4,4,15,BOS,BOS,fg_make,7,False,False,,Tatum 1' Dunk (28 PTS) (Hayward 4 AST),96-104,96,104
+0021900960,2020-03-10,IND,BOS,44.03,4,3,58,IND,IND,fg_make,73,False,False,Oladipo Driving Reverse Layup (22 PTS),,98-104,98,104
+0021900960,2020-03-10,IND,BOS,44.38,4,3,37,BOS,BOS,fg_miss,6,False,False,,MISS Smart 2' Driving Layup,98-104,98,104
+0021900960,2020-03-10,IND,BOS,44.42,4,3,35,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,98-104,98,104
+0021900960,2020-03-10,IND,BOS,44.47,4,3,32,IND,IND,fg3_make,79,False,False,Oladipo 27' 3PT Pullup Jump Shot (25 PTS),,101-104,101,104
+0021900960,2020-03-10,IND,BOS,44.5,4,3,30,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.5 Short 0),101-104,101,104
+0021900960,2020-03-10,IND,BOS,44.75,4,3,15,BOS,BOS,fg3_miss,79,False,False,,MISS Hayward 30' 3PT Pullup Jump Shot,101-104,101,104
+0021900960,2020-03-10,IND,BOS,44.78,4,3,13,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:7),,101-104,101,104
+0021900960,2020-03-10,IND,BOS,45.0,4,3,0,IND,IND,fg3_make,1,False,False,Warren 24' 3PT Jump Shot (22 PTS) (Sabonis 8 AST),,104-104,104,104
+0021900960,2020-03-10,IND,BOS,45.48,4,2,31,BOS,BOS,fg_miss,80,False,False,,MISS Walker 18' Step Back Jump Shot,104-104,104,104
+0021900960,2020-03-10,IND,BOS,45.48,4,2,31,BOS,BOS,reb,0,False,False,,Celtics Rebound,104-104,104,104
+0021900960,2020-03-10,IND,BOS,45.48,4,2,31,BOS,BOS,tov,11,False,False,,Celtics Turnover: Shot Clock (T#10),104-104,104,104
+0021900960,2020-03-10,IND,BOS,45.77,4,2,14,IND,IND,fg_make,5,False,False,Sabonis 4' Layup (25 PTS) (Oladipo 4 AST),,106-104,106,104
+0021900960,2020-03-10,IND,BOS,45.77,4,2,14,IND,BOS,foul,2,False,False,,Theis S.FOUL (P4.T4) (A.Smith),106-104,106,104
+0021900960,2020-03-10,IND,BOS,45.77,4,2,14,IND,IND,ft_make,10,False,False,Sabonis Free Throw 1 of 1 (26 PTS),,107-104,107,104
+0021900960,2020-03-10,IND,BOS,46.03,4,1,58,BOS,BOS,fg_miss,79,True,False,,MISS Tatum 11' Pullup Jump Shot,107-104,107,104
+0021900960,2020-03-10,IND,BOS,46.03,4,1,58,BOS,IND,block,79,True,False,block,block,107-104,107,104
+0021900960,2020-03-10,IND,BOS,46.1,4,1,54,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:7),,107-104,107,104
+0021900960,2020-03-10,IND,BOS,46.12,4,1,53,IND,IND,fg3_miss,79,False,False,MISS Oladipo 32' 3PT Pullup Jump Shot,,107-104,107,104
+0021900960,2020-03-10,IND,BOS,46.17,4,1,50,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:3),107-104,107,104
+0021900960,2020-03-10,IND,BOS,46.28,4,1,43,BOS,BOS,fg3_make,1,False,False,,Theis 27' 3PT Jump Shot (20 PTS) (Hayward 5 AST),107-107,107,107
+0021900960,2020-03-10,IND,BOS,46.52,4,1,29,IND,BOS,foul,2,False,False,,Theis S.FOUL (P5.PN) (K.Fitzgerald),107-107,107,107
+0021900960,2020-03-10,IND,BOS,46.52,4,1,29,IND,IND,ft_make,11,False,False,Oladipo Free Throw 1 of 2 (26 PTS),,108-107,108,107
+0021900960,2020-03-10,IND,BOS,46.52,4,1,29,IND,IND,ft_make,12,False,False,Oladipo Free Throw 2 of 2 (27 PTS),,109-107,109,107
+0021900960,2020-03-10,IND,BOS,46.72,4,1,17,BOS,BOS,fg_make,9,False,False,,Tatum 1' Driving Dunk (30 PTS),109-109,109,109
+0021900960,2020-03-10,IND,BOS,46.97,4,1,2,IND,IND,fg3_miss,79,False,False,MISS Turner 24' 3PT Pullup Jump Shot,,109-109,109,109
+0021900960,2020-03-10,IND,BOS,47.02,4,0,59,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:4),109-109,109,109
+0021900960,2020-03-10,IND,BOS,47.18,4,0,49,BOS,BOS,fg_make,6,False,False,,Smart 3' Driving Layup (14 PTS),109-111,109,111
+0021900960,2020-03-10,IND,BOS,47.57,4,0,26,IND,IND,fg3_miss,79,False,False,MISS Oladipo 26' 3PT Pullup Jump Shot,,109-111,109,111
+0021900960,2020-03-10,IND,BOS,47.6,4,0,24,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:0 Def:4),109-111,109,111
+0021900960,2020-03-10,IND,BOS,47.7,4,0,18,BOS,IND,foul,28,False,False,Oladipo Personal Take Foul (P3.T4) (M.Ayotte),,109-111,109,111
+0021900960,2020-03-10,IND,BOS,47.72,4,0,17,BOS,IND,foul,28,False,False,Holiday Personal Take Foul (P1.PN) (M.Ayotte),,109-111,109,111
+0021900960,2020-03-10,IND,BOS,47.72,4,0,17,BOS,BOS,ft_miss,11,False,False,,MISS Walker Free Throw 1 of 2,109-111,109,111
+0021900960,2020-03-10,IND,BOS,47.72,4,0,17,BOS,BOS,reb,1,False,False,,Celtics Rebound,109-111,109,111
+0021900960,2020-03-10,IND,BOS,47.72,4,0,17,BOS,BOS,ft_make,12,False,False,,Walker Free Throw 2 of 2 (11 PTS),109-112,109,112
+0021900960,2020-03-10,IND,BOS,47.72,4,0,17,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 6 Short 0),,109-112,109,112
+0021900960,2020-03-10,IND,BOS,47.87,4,0,8,IND,IND,fg_miss,6,False,False,MISS Oladipo 2' Driving Layup,,109-112,109,112
+0021900960,2020-03-10,IND,BOS,47.88,4,0,7,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:4 Def:5),,109-112,109,112
+0021900960,2020-03-10,IND,BOS,47.88,4,0,7,IND,IND,fg_make,97,False,False,Sabonis 1' Tip Layup Shot (28 PTS),,111-112,111,112
+0021900960,2020-03-10,IND,BOS,47.88,4,0,7,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.6 Short 0),111-112,111,112
+0021900960,2020-03-10,IND,BOS,47.88,4,0,7,BOS,IND,foul,28,False,False,Sabonis Personal Take Foul (P2.PN) (K.Fitzgerald),,111-112,111,112
+0021900960,2020-03-10,IND,BOS,47.88,4,0,7,BOS,BOS,ft_make,11,False,False,,Smart Free Throw 1 of 2 (15 PTS),111-113,111,113
+0021900960,2020-03-10,IND,BOS,47.88,4,0,7,BOS,BOS,ft_make,12,False,False,,Smart Free Throw 2 of 2 (16 PTS),111-114,111,114
+0021900960,2020-03-10,IND,BOS,47.88,4,0,7,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 7 Short 0),,111-114,111,114
+0021900960,2020-03-10,IND,BOS,47.97,4,0,2,IND,IND,fg3_miss,79,False,False,MISS Holiday 31' 3PT Pullup Jump Shot,,111-114,111,114
+0021900960,2020-03-10,IND,BOS,48.0,4,0,0,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:0 Def:5),111-114,111,114
+0021900960,2020-03-10,IND,BOS,48.0,4,0,0,BOS,,period_end,0,False,False,,,111-114,111,114

@@ -1,0 +1,465 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022101224,2022-04-10,MIN,CHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022101224,2022-04-10,MIN,CHI,0.0,1,12,0,,MIN,jump_ball,0,False,False,Jump Ball Reid vs. Thompson: Tip to Beasley,,0-0,0,0
+0022101224,2022-04-10,MIN,CHI,0.23,1,11,46,MIN,MIN,fg3_miss,79,False,False,MISS Edwards 25' 3PT Pullup Jump Shot,,0-0,0,0
+0022101224,2022-04-10,MIN,CHI,0.3,1,11,42,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:1),0-0,0,0
+0022101224,2022-04-10,MIN,CHI,0.53,1,11,28,CHI,CHI,fg_make,57,False,False,,Thompson 5' Driving Hook Shot (2 PTS),0-2,0,2
+0022101224,2022-04-10,MIN,CHI,0.87,1,11,8,MIN,MIN,fg3_make,66,False,False,Beasley 3PT Jump Bank Shot (3 PTS) (Beverley 1 AST),,3-2,3,2
+0022101224,2022-04-10,MIN,CHI,1.27,1,10,44,CHI,CHI,fg3_miss,1,False,False,,MISS Dosunmu 25' 3PT Jump Shot,3-2,3,2
+0022101224,2022-04-10,MIN,CHI,1.32,1,10,41,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:0 Def:1),,3-2,3,2
+0022101224,2022-04-10,MIN,CHI,1.43,1,10,34,MIN,MIN,fg3_miss,1,False,False,MISS Beasley 25' 3PT Jump Shot,,3-2,3,2
+0022101224,2022-04-10,MIN,CHI,1.5,1,10,30,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),3-2,3,2
+0022101224,2022-04-10,MIN,CHI,1.57,1,10,26,CHI,CHI,fg3_make,103,False,False,,Williams 25' 3PT Running Pull-Up Jump Shot (3 PTS),3-5,3,5
+0022101224,2022-04-10,MIN,CHI,1.85,1,10,9,MIN,MIN,fg_miss,58,False,False,MISS Reid 7' Turnaround Hook Shot,,3-5,3,5
+0022101224,2022-04-10,MIN,CHI,1.88,1,10,7,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:1),3-5,3,5
+0022101224,2022-04-10,MIN,CHI,2.1,1,9,54,CHI,CHI,tov,1,False,True,,Dosunmu Bad Pass Turnover (P1.T1),3-5,3,5
+0022101224,2022-04-10,MIN,CHI,2.1,1,9,54,CHI,MIN,steal,1,False,True,steal,steal,3-5,3,5
+0022101224,2022-04-10,MIN,CHI,2.18,1,9,49,MIN,MIN,fg_miss,41,False,False,MISS Vanderbilt 1' Running Layup,,3-5,3,5
+0022101224,2022-04-10,MIN,CHI,2.22,1,9,47,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:2),3-5,3,5
+0022101224,2022-04-10,MIN,CHI,2.28,1,9,43,CHI,CHI,fg_make,41,False,False,,Brown Jr. 1' Running Layup (2 PTS),3-7,3,7
+0022101224,2022-04-10,MIN,CHI,2.52,1,9,29,MIN,MIN,fg_miss,6,False,False,MISS Beverley 2' Driving Layup,,3-7,3,7
+0022101224,2022-04-10,MIN,CHI,2.52,1,9,29,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:1 Def:0),,3-7,3,7
+0022101224,2022-04-10,MIN,CHI,2.57,1,9,26,MIN,MIN,fg_make,72,False,False,Reid 1' Putback Layup (2 PTS),,5-7,5,7
+0022101224,2022-04-10,MIN,CHI,2.78,1,9,13,CHI,CHI,fg_make,3,False,False,,Thompson 6' Hook Shot (4 PTS) (Green 1 AST),5-9,5,9
+0022101224,2022-04-10,MIN,CHI,2.97,1,9,2,MIN,MIN,fg_make,63,False,False,Beasley 9' Fadeaway Jumper (5 PTS) (Beverley 2 AST),,7-9,7,9
+0022101224,2022-04-10,MIN,CHI,3.3,1,8,42,CHI,CHI,fg_miss,6,False,False,,MISS Thompson 3' Driving Layup,7-9,7,9
+0022101224,2022-04-10,MIN,CHI,3.33,1,8,40,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:1 Def:0),7-9,7,9
+0022101224,2022-04-10,MIN,CHI,3.38,1,8,37,CHI,CHI,fg3_make,1,False,False,,Brown Jr. 3PT Jump Shot (5 PTS) (Williams 1 AST),7-12,7,12
+0022101224,2022-04-10,MIN,CHI,3.77,1,8,14,MIN,MIN,fg_miss,79,False,False,MISS Edwards 13' Pullup Jump Shot,,7-12,7,12
+0022101224,2022-04-10,MIN,CHI,3.8,1,8,12,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:1),7-12,7,12
+0022101224,2022-04-10,MIN,CHI,4.12,1,7,53,CHI,CHI,fg_make,5,False,False,,Williams 2' Layup (5 PTS),7-14,7,14
+0022101224,2022-04-10,MIN,CHI,4.37,1,7,38,MIN,MIN,fg3_miss,1,False,False,MISS Beasley 25' 3PT Jump Shot,,7-14,7,14
+0022101224,2022-04-10,MIN,CHI,4.4,1,7,36,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),7-14,7,14
+0022101224,2022-04-10,MIN,CHI,4.62,1,7,23,CHI,MIN,foul,2,False,False,Reid S.FOUL (P1.T1) (D.Guthrie),,7-14,7,14
+0022101224,2022-04-10,MIN,CHI,4.62,1,7,23,CHI,CHI,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,7-14,7,14
+0022101224,2022-04-10,MIN,CHI,4.62,1,7,23,CHI,CHI,reb,1,False,False,,Bulls Rebound,7-14,7,14
+0022101224,2022-04-10,MIN,CHI,4.62,1,7,23,CHI,CHI,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (5 PTS),7-15,7,15
+0022101224,2022-04-10,MIN,CHI,4.82,1,7,11,MIN,MIN,tov,45,False,False,Edwards Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,7-15,7,15
+0022101224,2022-04-10,MIN,CHI,4.97,1,7,2,CHI,MIN,foul,2,False,False,Reid S.FOUL (P2.T2) (R.Acosta),,7-15,7,15
+0022101224,2022-04-10,MIN,CHI,4.97,1,7,2,CHI,CHI,ft_make,11,False,False,,Dosunmu Free Throw 1 of 2 (1 PTS),7-16,7,16
+0022101224,2022-04-10,MIN,CHI,4.97,1,7,2,CHI,CHI,ft_make,12,False,False,,Dosunmu Free Throw 2 of 2 (2 PTS),7-17,7,17
+0022101224,2022-04-10,MIN,CHI,4.97,1,7,2,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,7-17,7,17
+0022101224,2022-04-10,MIN,CHI,5.2,1,6,48,MIN,MIN,fg_miss,79,False,False,MISS Beasley 15' Pullup Jump Shot,,7-17,7,17
+0022101224,2022-04-10,MIN,CHI,5.27,1,6,44,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:3),7-17,7,17
+0022101224,2022-04-10,MIN,CHI,5.37,1,6,38,CHI,MIN,foul,2,False,False,Beasley S.FOUL (P1.T3) (D.Guthrie),,7-17,7,17
+0022101224,2022-04-10,MIN,CHI,5.37,1,6,38,CHI,CHI,ft_make,11,False,False,,Williams Free Throw 1 of 2 (6 PTS),7-18,7,18
+0022101224,2022-04-10,MIN,CHI,5.37,1,6,38,CHI,CHI,ft_make,12,False,False,,Williams Free Throw 2 of 2 (7 PTS),7-19,7,19
+0022101224,2022-04-10,MIN,CHI,5.57,1,6,26,MIN,MIN,fg3_miss,1,False,False,MISS Reid 25' 3PT Jump Shot,,7-19,7,19
+0022101224,2022-04-10,MIN,CHI,5.63,1,6,22,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:4),7-19,7,19
+0022101224,2022-04-10,MIN,CHI,5.78,1,6,13,CHI,CHI,fg_miss,5,True,False,,MISS Thompson 2' Layup,7-19,7,19
+0022101224,2022-04-10,MIN,CHI,5.78,1,6,13,CHI,MIN,block,5,True,False,block,block,7-19,7,19
+0022101224,2022-04-10,MIN,CHI,5.83,1,6,10,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:2 Def:0),7-19,7,19
+0022101224,2022-04-10,MIN,CHI,5.85,1,6,9,CHI,CHI,fg_make,7,False,False,,Thompson 1' Dunk (7 PTS),7-21,7,21
+0022101224,2022-04-10,MIN,CHI,6.17,1,5,50,MIN,MIN,fg_make,79,False,False,Edwards 22' Pullup Jump Shot (2 PTS),,9-21,9,21
+0022101224,2022-04-10,MIN,CHI,6.63,1,5,22,CHI,CHI,fg3_miss,79,False,False,,MISS Brown Jr. 28' 3PT Pullup Jump Shot,9-21,9,21
+0022101224,2022-04-10,MIN,CHI,6.67,1,5,20,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:1 Def:1),,9-21,9,21
+0022101224,2022-04-10,MIN,CHI,6.82,1,5,11,MIN,MIN,tov,39,False,False,Vanderbilt Step Out of Bounds Turnover (P1.T2),,9-21,9,21
+0022101224,2022-04-10,MIN,CHI,7.1,1,4,54,CHI,MIN,foul,1,False,False,Monroe P.FOUL (P1.T4) (D.Guthrie),,9-21,9,21
+0022101224,2022-04-10,MIN,CHI,7.2,1,4,48,CHI,CHI,tov,2,False,True,,Dosunmu Lost Ball Turnover (P2.T2),9-21,9,21
+0022101224,2022-04-10,MIN,CHI,7.2,1,4,48,CHI,MIN,steal,2,False,True,steal,steal,9-21,9,21
+0022101224,2022-04-10,MIN,CHI,7.27,1,4,44,MIN,MIN,fg_make,6,False,False,Edwards 1' Driving Layup (4 PTS) (Beasley 1 AST),,11-21,11,21
+0022101224,2022-04-10,MIN,CHI,7.55,1,4,27,CHI,CHI,fg_miss,79,False,False,,MISS Williams 19' Pullup Jump Shot,11-21,11,21
+0022101224,2022-04-10,MIN,CHI,7.58,1,4,25,MIN,MIN,reb,0,False,False,Beasley REBOUND (Off:0 Def:1),,11-21,11,21
+0022101224,2022-04-10,MIN,CHI,7.67,1,4,20,MIN,CHI,foul,2,False,False,,Thompson S.FOUL (P1.T1) (M.Smith),11-21,11,21
+0022101224,2022-04-10,MIN,CHI,7.67,1,4,20,MIN,MIN,ft_miss,11,False,False,MISS Monroe Free Throw 1 of 2,,11-21,11,21
+0022101224,2022-04-10,MIN,CHI,7.67,1,4,20,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,11-21,11,21
+0022101224,2022-04-10,MIN,CHI,7.67,1,4,20,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.1 Short 0),11-21,11,21
+0022101224,2022-04-10,MIN,CHI,7.67,1,4,20,CHI,MIN,ft_make,12,False,False,Monroe Free Throw 2 of 2 (1 PTS),,12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.07,1,3,56,CHI,CHI,fg3_miss,1,False,False,,MISS Brown Jr. 25' 3PT Jump Shot,12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.1,1,3,54,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:1 Def:0),12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.12,1,3,53,CHI,CHI,fg_miss,5,True,False,,MISS Jones Jr. 2' Layup,12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.12,1,3,53,CHI,MIN,block,5,True,False,block,block,12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.15,1,3,51,MIN,MIN,reb,0,False,False,McLaughlin REBOUND (Off:0 Def:1),,12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.27,1,3,44,MIN,MIN,fg3_miss,1,False,False,MISS McDaniels 25' 3PT Jump Shot,,12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.32,1,3,41,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.43,1,3,34,CHI,MIN,foul,2,False,False,McDaniels S.FOUL (P1.PN) (M.Smith),,12-21,12,21
+0022101224,2022-04-10,MIN,CHI,8.43,1,3,34,CHI,CHI,ft_make,11,False,False,,Jones Jr. Free Throw 1 of 2 (1 PTS),12-22,12,22
+0022101224,2022-04-10,MIN,CHI,8.43,1,3,34,CHI,CHI,ft_make,12,False,False,,Jones Jr. Free Throw 2 of 2 (2 PTS),12-23,12,23
+0022101224,2022-04-10,MIN,CHI,8.7,1,3,18,MIN,MIN,fg_make,78,False,False,Nowell 12' Floating Jump Shot (2 PTS),,14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.07,1,2,56,CHI,CHI,fg_miss,79,False,False,,MISS Williams 18' Pullup Jump Shot,14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.12,1,2,53,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:1 Def:1),14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.13,1,2,52,CHI,CHI,fg_miss,3,True,False,,MISS Bradley 3' Hook Shot,14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.13,1,2,52,CHI,MIN,block,3,True,False,block,block,14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.17,1,2,50,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:2 Def:1),14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.2,1,2,48,CHI,CHI,fg_miss,44,False,False,,MISS Bradley Reverse Layup,14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.23,1,2,46,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:3 Def:1),14-23,14,23
+0022101224,2022-04-10,MIN,CHI,9.23,1,2,46,CHI,CHI,fg_make,72,False,False,,Bradley 1' Putback Layup (2 PTS),14-25,14,25
+0022101224,2022-04-10,MIN,CHI,9.43,1,2,34,MIN,MIN,fg_miss,5,False,False,MISS Monroe 5' Layup,,14-25,14,25
+0022101224,2022-04-10,MIN,CHI,9.43,1,2,34,MIN,MIN,reb,0,False,False,Monroe REBOUND (Off:1 Def:0),,14-25,14,25
+0022101224,2022-04-10,MIN,CHI,9.52,1,2,29,MIN,MIN,fg_miss,41,False,False,MISS Monroe 4' Running Layup,,14-25,14,25
+0022101224,2022-04-10,MIN,CHI,9.55,1,2,27,CHI,CHI,reb,0,False,False,,Hill REBOUND (Off:0 Def:1),14-25,14,25
+0022101224,2022-04-10,MIN,CHI,9.65,1,2,21,CHI,CHI,tov,1,False,True,,Hill Bad Pass Turnover (P1.T3),14-25,14,25
+0022101224,2022-04-10,MIN,CHI,9.65,1,2,21,CHI,MIN,steal,1,False,True,steal,steal,14-25,14,25
+0022101224,2022-04-10,MIN,CHI,9.72,1,2,17,MIN,MIN,fg_make,41,False,False,McLaughlin 1' Running Layup (2 PTS),,16-25,16,25
+0022101224,2022-04-10,MIN,CHI,9.93,1,2,4,CHI,CHI,fg_make,6,False,False,,Williams 1' Driving Layup (9 PTS),16-27,16,27
+0022101224,2022-04-10,MIN,CHI,10.2,1,1,48,MIN,MIN,fg_miss,6,False,False,MISS Monroe 4' Driving Layup,,16-27,16,27
+0022101224,2022-04-10,MIN,CHI,10.2,1,1,48,CHI,CHI,reb,0,False,False,,Hill REBOUND (Off:0 Def:2),16-27,16,27
+0022101224,2022-04-10,MIN,CHI,10.28,1,1,43,CHI,CHI,fg_miss,5,True,False,,MISS Brown Jr. 3' Layup,16-27,16,27
+0022101224,2022-04-10,MIN,CHI,10.28,1,1,43,CHI,MIN,block,5,True,False,block,block,16-27,16,27
+0022101224,2022-04-10,MIN,CHI,10.32,1,1,41,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:1 Def:4),16-27,16,27
+0022101224,2022-04-10,MIN,CHI,10.33,1,1,40,CHI,CHI,fg_make,72,False,False,,Brown Jr. 1' Putback Layup (7 PTS),16-29,16,29
+0022101224,2022-04-10,MIN,CHI,10.62,1,1,23,MIN,CHI,foul,2,False,False,,Bradley S.FOUL (P1.T2) (R.Acosta),16-29,16,29
+0022101224,2022-04-10,MIN,CHI,10.62,1,1,23,MIN,MIN,ft_make,11,False,False,Edwards Free Throw 1 of 2 (5 PTS),,17-29,17,29
+0022101224,2022-04-10,MIN,CHI,10.62,1,1,23,MIN,MIN,ft_make,12,False,False,Edwards Free Throw 2 of 2 (6 PTS),,18-29,18,29
+0022101224,2022-04-10,MIN,CHI,10.88,1,1,7,CHI,CHI,fg_make,1,False,False,,Bradley 17' Jump Shot (4 PTS) (Dosunmu 1 AST),18-31,18,31
+0022101224,2022-04-10,MIN,CHI,11.17,1,0,50,MIN,MIN,fg3_miss,79,False,False,MISS Edwards 25' 3PT Pullup Jump Shot,,18-31,18,31
+0022101224,2022-04-10,MIN,CHI,11.22,1,0,47,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:3 Def:2),18-31,18,31
+0022101224,2022-04-10,MIN,CHI,11.35,1,0,39,CHI,CHI,tov,40,False,False,,Dosunmu Out of Bounds Lost Ball Turnover (P3.T4),18-31,18,31
+0022101224,2022-04-10,MIN,CHI,11.48,1,0,31,MIN,MIN,fg3_make,1,False,False,Nowell 3PT Jump Shot (5 PTS) (McLaughlin 1 AST),,21-31,21,31
+0022101224,2022-04-10,MIN,CHI,11.7,1,0,18,CHI,CHI,fg_make,78,False,False,,Bradley 10' Floating Jump Shot (6 PTS) (Hill 1 AST),21-33,21,33
+0022101224,2022-04-10,MIN,CHI,12.0,1,0,0,MIN,MIN,fg3_miss,1,False,False,MISS McDaniels 3PT Jump Shot,,21-33,21,33
+0022101224,2022-04-10,MIN,CHI,12.0,1,0,0,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,21-33,21,33
+0022101224,2022-04-10,MIN,CHI,12.0,1,0,0,MIN,,period_end,0,False,False,,,21-33,21,33
+0022101224,2022-04-10,MIN,CHI,12.0,2,12,0,MIN,,period_start,0,False,False,,,21-33,21,33
+0022101224,2022-04-10,MIN,CHI,12.18,2,11,49,CHI,CHI,fg_miss,6,False,False,,MISS Green 3' Driving Layup,21-33,21,33
+0022101224,2022-04-10,MIN,CHI,12.2,2,11,48,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:4 Def:2),21-33,21,33
+0022101224,2022-04-10,MIN,CHI,12.25,2,11,45,CHI,CHI,fg3_make,1,False,False,,Jones Jr. 3PT Jump Shot (5 PTS) (Bradley 1 AST),21-36,21,36
+0022101224,2022-04-10,MIN,CHI,12.47,2,11,32,MIN,MIN,fg3_miss,1,False,False,MISS Nowell 26' 3PT Jump Shot,,21-36,21,36
+0022101224,2022-04-10,MIN,CHI,12.52,2,11,29,CHI,CHI,reb,0,False,False,,Hill REBOUND (Off:0 Def:3),21-36,21,36
+0022101224,2022-04-10,MIN,CHI,12.72,2,11,17,CHI,CHI,tov,1,False,True,,Dosunmu Bad Pass Turnover (P4.T5),21-36,21,36
+0022101224,2022-04-10,MIN,CHI,12.72,2,11,17,CHI,MIN,steal,1,False,True,steal,steal,21-36,21,36
+0022101224,2022-04-10,MIN,CHI,12.78,2,11,13,MIN,MIN,fg_make,41,False,False,Nowell 1' Running Layup (7 PTS) (McDaniels 1 AST),,23-36,23,36
+0022101224,2022-04-10,MIN,CHI,12.98,2,11,1,CHI,CHI,fg_make,105,False,False,,Green 11' Turnaround Fadeaway Bank Jump Shot (2 PTS),23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.18,2,10,49,MIN,MIN,fg_miss,79,False,False,MISS Nowell 17' Pullup Jump Shot,,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.25,2,10,45,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:0 Def:2),23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.32,2,10,41,CHI,CHI,fg_miss,41,True,False,,MISS Dosunmu 5' Running Layup,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.32,2,10,41,CHI,MIN,block,41,True,False,block,block,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.35,2,10,39,MIN,MIN,reb,0,False,False,Monroe REBOUND (Off:1 Def:1),,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.42,2,10,35,MIN,MIN,tov,1,False,True,Monroe Bad Pass Turnover (P1.T3),,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.42,2,10,35,MIN,CHI,steal,1,False,True,steal,steal,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.47,2,10,32,CHI,MIN,foul,2,False,False,McDaniels S.FOUL (P2.T1) (R.Acosta),,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.47,2,10,32,CHI,CHI,ft_miss,11,False,False,,MISS Bradley Free Throw 1 of 2,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.47,2,10,32,CHI,CHI,reb,1,False,False,,Bulls Rebound,23-38,23,38
+0022101224,2022-04-10,MIN,CHI,13.47,2,10,32,CHI,CHI,ft_make,12,False,False,,Bradley Free Throw 2 of 2 (7 PTS),23-39,23,39
+0022101224,2022-04-10,MIN,CHI,13.68,2,10,19,MIN,MIN,fg_make,79,False,False,McDaniels 20' Pullup Jump Shot (2 PTS) (Monroe 1 AST),,25-39,25,39
+0022101224,2022-04-10,MIN,CHI,13.97,2,10,2,CHI,CHI,tov,2,False,True,,Bradley Lost Ball Turnover (P1.T6),25-39,25,39
+0022101224,2022-04-10,MIN,CHI,13.97,2,10,2,CHI,MIN,steal,2,False,True,steal,steal,25-39,25,39
+0022101224,2022-04-10,MIN,CHI,14.05,2,9,57,MIN,MIN,fg_make,41,False,False,Nowell 3' Running Layup (9 PTS) (Okogie 1 AST),,27-39,27,39
+0022101224,2022-04-10,MIN,CHI,14.35,2,9,39,CHI,CHI,fg_make,1,False,False,,Bradley 15' Jump Shot (9 PTS) (Hill 2 AST),27-41,27,41
+0022101224,2022-04-10,MIN,CHI,14.53,2,9,28,MIN,MIN,tov,1,False,True,McLaughlin Bad Pass Turnover (P1.T4),,27-41,27,41
+0022101224,2022-04-10,MIN,CHI,14.53,2,9,28,MIN,CHI,steal,1,False,True,steal,steal,27-41,27,41
+0022101224,2022-04-10,MIN,CHI,14.57,2,9,26,CHI,CHI,fg_make,41,False,False,,Hill 1' Running Layup (2 PTS),27-43,27,43
+0022101224,2022-04-10,MIN,CHI,14.58,2,9,25,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,27-43,27,43
+0022101224,2022-04-10,MIN,CHI,14.78,2,9,13,MIN,MIN,fg_miss,6,True,False,MISS Nowell 3' Driving Layup,,27-43,27,43
+0022101224,2022-04-10,MIN,CHI,14.78,2,9,13,MIN,CHI,block,6,True,False,block,block,27-43,27,43
+0022101224,2022-04-10,MIN,CHI,14.83,2,9,10,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:2 Def:1),,27-43,27,43
+0022101224,2022-04-10,MIN,CHI,14.85,2,9,9,MIN,MIN,fg_make,44,False,False,Reid 1' Reverse Layup (4 PTS),,29-43,29,43
+0022101224,2022-04-10,MIN,CHI,15.27,2,8,44,CHI,CHI,fg3_make,1,False,False,,Jones Jr. 3PT Jump Shot (8 PTS) (Dosunmu 2 AST),29-46,29,46
+0022101224,2022-04-10,MIN,CHI,15.47,2,8,32,MIN,MIN,tov,40,False,False,McLaughlin Out of Bounds Lost Ball Turnover (P2.T5),,29-46,29,46
+0022101224,2022-04-10,MIN,CHI,15.68,2,8,19,CHI,CHI,fg_make,75,False,False,,Dosunmu 1' Driving Finger Roll Layup (4 PTS),29-48,29,48
+0022101224,2022-04-10,MIN,CHI,15.87,2,8,8,MIN,MIN,tov,2,False,True,Reid Lost Ball Turnover (P1.T6),,29-48,29,48
+0022101224,2022-04-10,MIN,CHI,15.87,2,8,8,MIN,CHI,steal,2,False,True,steal,steal,29-48,29,48
+0022101224,2022-04-10,MIN,CHI,15.92,2,8,5,CHI,CHI,fg_make,50,False,False,,Green 1' Running Dunk (4 PTS),29-50,29,50
+0022101224,2022-04-10,MIN,CHI,16.1,2,7,54,MIN,MIN,tov,2,False,True,McDaniels Lost Ball Turnover (P1.T7),,29-50,29,50
+0022101224,2022-04-10,MIN,CHI,16.1,2,7,54,MIN,CHI,steal,2,False,True,steal,steal,29-50,29,50
+0022101224,2022-04-10,MIN,CHI,16.52,2,7,29,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#7),29-50,29,50
+0022101224,2022-04-10,MIN,CHI,16.73,2,7,16,MIN,MIN,fg3_miss,79,False,False,MISS Beverley 26' 3PT Pullup Jump Shot,,29-50,29,50
+0022101224,2022-04-10,MIN,CHI,16.75,2,7,15,CHI,CHI,reb,0,False,False,,Bulls Rebound,29-50,29,50
+0022101224,2022-04-10,MIN,CHI,16.97,2,7,2,CHI,MIN,foul,2,False,False,Vanderbilt S.FOUL (P1.T2) (D.Guthrie),,29-50,29,50
+0022101224,2022-04-10,MIN,CHI,16.97,2,7,2,CHI,CHI,ft_make,11,False,False,,Williams Free Throw 1 of 2 (10 PTS),29-51,29,51
+0022101224,2022-04-10,MIN,CHI,16.97,2,7,2,CHI,CHI,ft_make,12,False,False,,Williams Free Throw 2 of 2 (11 PTS),29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.25,2,6,45,MIN,MIN,fg3_miss,1,False,False,MISS Beasley 25' 3PT Jump Shot,,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.27,2,6,44,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.27,2,6,44,MIN,CHI,foul,3,False,False,,Williams L.B.FOUL (P1.T1) (D.Guthrie),29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.48,2,6,31,MIN,MIN,fg_miss,78,True,False,MISS Beasley 11' Floating Jump Shot,,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.48,2,6,31,MIN,CHI,block,78,True,False,block,block,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.53,2,6,28,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:2 Def:1),29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.6,2,6,24,CHI,CHI,fg_miss,41,True,False,,MISS Williams 4' Running Layup,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.6,2,6,24,CHI,MIN,block,41,True,False,block,block,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.6,2,6,24,CHI,CHI,reb,0,False,False,,Bulls Rebound,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.73,2,6,16,CHI,CHI,fg_miss,101,False,False,,MISS Williams 12' Driving Floating Jump Shot,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.78,2,6,13,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:0 Def:2),,29-52,29,52
+0022101224,2022-04-10,MIN,CHI,17.93,2,6,4,MIN,MIN,fg_make,80,False,False,Edwards 14' Step Back Jump Shot (8 PTS),,31-52,31,52
+0022101224,2022-04-10,MIN,CHI,18.25,2,5,45,CHI,MIN,foul,1,False,False,Beverley P.FOUL (P1.T3) (D.Guthrie),,31-52,31,52
+0022101224,2022-04-10,MIN,CHI,18.33,2,5,40,CHI,CHI,fg3_miss,79,False,False,,MISS Williams 25' 3PT Pullup Jump Shot,31-52,31,52
+0022101224,2022-04-10,MIN,CHI,18.38,2,5,37,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:4),31-52,31,52
+0022101224,2022-04-10,MIN,CHI,18.4,2,5,36,CHI,CHI,fg_make,72,False,False,,Brown Jr. Putback Layup (9 PTS),31-54,31,54
+0022101224,2022-04-10,MIN,CHI,18.57,2,5,26,MIN,CHI,foul,2,False,False,,Dosunmu S.FOUL (P1.T2) (D.Guthrie),31-54,31,54
+0022101224,2022-04-10,MIN,CHI,18.57,2,5,26,MIN,MIN,ft_make,11,False,False,Beverley Free Throw 1 of 2 (1 PTS),,32-54,32,54
+0022101224,2022-04-10,MIN,CHI,18.57,2,5,26,MIN,MIN,ft_make,12,False,False,Beverley Free Throw 2 of 2 (2 PTS),,33-54,33,54
+0022101224,2022-04-10,MIN,CHI,18.82,2,5,11,CHI,CHI,fg_make,79,False,False,,Williams 20' Pullup Jump Shot (13 PTS) (Dosunmu 3 AST),33-56,33,56
+0022101224,2022-04-10,MIN,CHI,19.08,2,4,55,MIN,MIN,fg3_make,1,False,False,Reid 25' 3PT Jump Shot (7 PTS) (Beverley 3 AST),,36-56,36,56
+0022101224,2022-04-10,MIN,CHI,19.38,2,4,37,CHI,CHI,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,36-56,36,56
+0022101224,2022-04-10,MIN,CHI,19.43,2,4,34,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:0 Def:3),,36-56,36,56
+0022101224,2022-04-10,MIN,CHI,19.47,2,4,32,MIN,MIN,tov,2,False,True,Vanderbilt Lost Ball Turnover (P2.T8),,36-56,36,56
+0022101224,2022-04-10,MIN,CHI,19.47,2,4,32,MIN,CHI,steal,2,False,True,steal,steal,36-56,36,56
+0022101224,2022-04-10,MIN,CHI,19.63,2,4,22,CHI,CHI,fg_make,86,False,False,,Brown Jr. 13' Turnaround Fadeaway (11 PTS) (Dosunmu 4 AST),36-58,36,58
+0022101224,2022-04-10,MIN,CHI,19.88,2,4,7,MIN,MIN,fg3_miss,1,False,False,MISS Vanderbilt 3PT Jump Shot,,36-58,36,58
+0022101224,2022-04-10,MIN,CHI,19.95,2,4,3,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:2 Def:2),36-58,36,58
+0022101224,2022-04-10,MIN,CHI,20.2,2,3,48,CHI,CHI,fg3_make,1,False,False,,Dosunmu 25' 3PT Jump Shot (7 PTS) (Williams 2 AST),36-61,36,61
+0022101224,2022-04-10,MIN,CHI,20.5,2,3,30,MIN,MIN,fg_make,7,False,False,Reid 1' Dunk (9 PTS) (Vanderbilt 1 AST),,38-61,38,61
+0022101224,2022-04-10,MIN,CHI,20.85,2,3,9,CHI,CHI,fg_miss,79,False,False,,MISS Williams 13' Pullup Jump Shot,38-61,38,61
+0022101224,2022-04-10,MIN,CHI,20.9,2,3,6,MIN,MIN,reb,0,False,False,Beverley REBOUND (Off:0 Def:1),,38-61,38,61
+0022101224,2022-04-10,MIN,CHI,21.0,2,3,0,MIN,MIN,fg3_miss,1,False,False,MISS Beasley 3PT Jump Shot,,38-61,38,61
+0022101224,2022-04-10,MIN,CHI,21.03,2,2,58,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),38-61,38,61
+0022101224,2022-04-10,MIN,CHI,21.03,2,2,58,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.2 Short 0),38-61,38,61
+0022101224,2022-04-10,MIN,CHI,21.23,2,2,46,CHI,CHI,fg3_make,1,False,False,,Brown Jr. 25' 3PT Jump Shot (14 PTS) (Williams 3 AST),38-64,38,64
+0022101224,2022-04-10,MIN,CHI,21.5,2,2,30,MIN,MIN,fg3_miss,79,False,False,MISS Edwards 25' 3PT Pullup Jump Shot,,38-64,38,64
+0022101224,2022-04-10,MIN,CHI,21.55,2,2,27,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:5),38-64,38,64
+0022101224,2022-04-10,MIN,CHI,21.88,2,2,7,CHI,CHI,fg_make,3,False,False,,Thompson 5' Hook Shot (9 PTS),38-66,38,66
+0022101224,2022-04-10,MIN,CHI,22.18,2,1,49,MIN,MIN,fg3_make,1,False,False,Reid 25' 3PT Jump Shot (12 PTS) (Edwards 1 AST),,41-66,41,66
+0022101224,2022-04-10,MIN,CHI,22.37,2,1,38,CHI,CHI,tov,40,False,False,,Dosunmu Out of Bounds Lost Ball Turnover (P5.T8),41-66,41,66
+0022101224,2022-04-10,MIN,CHI,22.58,2,1,25,MIN,MIN,fg3_miss,80,False,False,MISS Edwards 26' 3PT Step Back Jump Shot,,41-66,41,66
+0022101224,2022-04-10,MIN,CHI,22.65,2,1,21,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:1 Def:1),41-66,41,66
+0022101224,2022-04-10,MIN,CHI,22.9,2,1,6,CHI,MIN,foul,2,False,False,Reid S.FOUL (P3.T4) (M.Smith),,41-66,41,66
+0022101224,2022-04-10,MIN,CHI,22.9,2,1,6,CHI,CHI,ft_miss,11,False,False,,MISS Thompson Free Throw 1 of 2,41-66,41,66
+0022101224,2022-04-10,MIN,CHI,22.9,2,1,6,CHI,CHI,reb,1,False,False,,Bulls Rebound,41-66,41,66
+0022101224,2022-04-10,MIN,CHI,22.9,2,1,6,CHI,CHI,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (10 PTS),41-67,41,67
+0022101224,2022-04-10,MIN,CHI,22.9,2,1,6,CHI,MIN,violation,3,False,False,Lane,,41-67,41,67
+0022101224,2022-04-10,MIN,CHI,23.1,2,0,54,MIN,MIN,fg3_make,1,False,False,Beasley 25' 3PT Jump Shot (8 PTS) (Beverley 4 AST),,44-67,44,67
+0022101224,2022-04-10,MIN,CHI,23.2,2,0,48,CHI,MIN,foul,1,False,False,Edwards P.FOUL (P1.PN) (M.Smith),,44-67,44,67
+0022101224,2022-04-10,MIN,CHI,23.2,2,0,48,CHI,CHI,ft_miss,11,False,False,,MISS Dosunmu Free Throw 1 of 2,44-67,44,67
+0022101224,2022-04-10,MIN,CHI,23.2,2,0,48,CHI,CHI,reb,1,False,False,,Bulls Rebound,44-67,44,67
+0022101224,2022-04-10,MIN,CHI,23.2,2,0,48,CHI,CHI,ft_make,12,False,False,,Dosunmu Free Throw 2 of 2 (8 PTS),44-68,44,68
+0022101224,2022-04-10,MIN,CHI,23.32,2,0,41,MIN,CHI,foul,2,False,False,,Thompson S.FOUL (P2.T3) (M.Smith),44-68,44,68
+0022101224,2022-04-10,MIN,CHI,23.32,2,0,41,MIN,MIN,ft_make,11,False,False,Beverley Free Throw 1 of 2 (3 PTS),,45-68,45,68
+0022101224,2022-04-10,MIN,CHI,23.32,2,0,41,MIN,MIN,ft_miss,12,False,False,MISS Beverley Free Throw 2 of 2,,45-68,45,68
+0022101224,2022-04-10,MIN,CHI,23.33,2,0,40,CHI,CHI,reb,0,False,False,,Thompson REBOUND (Off:2 Def:3),45-68,45,68
+0022101224,2022-04-10,MIN,CHI,23.42,2,0,35,CHI,MIN,foul,11,False,False,Beverley T.FOUL (P1.PN) (D.Guthrie),,45-68,45,68
+0022101224,2022-04-10,MIN,CHI,23.42,2,0,35,MIN,MIN,timeout,7,False,False,TIMBERWOLVES Timeout: Coach Challenge (Full 2 Short 0),,45-68,45,68
+0022101224,2022-04-10,MIN,CHI,23.42,2,0,35,MIN,CHI,ft_make,16,False,False,,Williams Free Throw Technical (14 PTS),45-69,45,69
+0022101224,2022-04-10,MIN,CHI,23.42,2,0,35,CHI,CHI,tov,40,False,False,,Williams Out of Bounds Lost Ball Turnover (P1.T9),45-69,45,69
+0022101224,2022-04-10,MIN,CHI,23.68,2,0,19,MIN,MIN,fg_make,47,False,False,Beverley 5' Turnaround Jump Shot (5 PTS),,47-69,47,69
+0022101224,2022-04-10,MIN,CHI,23.68,2,0,19,CHI,MIN,foul,11,False,False,Beverley T.FOUL (P1.PN) (D.Guthrie),,47-69,47,69
+0022101224,2022-04-10,MIN,CHI,23.68,2,0,19,CHI,MIN,ejection,4,False,False,Beverley Ejection:Other,,47-69,47,69
+0022101224,2022-04-10,MIN,CHI,23.68,2,0,19,CHI,CHI,ft_make,16,False,False,,Brown Jr. Free Throw Technical (15 PTS),47-70,47,70
+0022101224,2022-04-10,MIN,CHI,23.9,2,0,6,CHI,CHI,tov,40,False,False,,Williams Out of Bounds Lost Ball Turnover (P2.T10),47-70,47,70
+0022101224,2022-04-10,MIN,CHI,23.98,2,0,1,MIN,MIN,fg3_miss,1,False,False,MISS Reid 24' 3PT Jump Shot,,47-70,47,70
+0022101224,2022-04-10,MIN,CHI,24.0,2,0,0,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:6),47-70,47,70
+0022101224,2022-04-10,MIN,CHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,47-70,47,70
+0022101224,2022-04-10,MIN,CHI,24.0,3,12,0,CHI,,period_start,0,False,False,,,47-70,47,70
+0022101224,2022-04-10,MIN,CHI,24.32,3,11,41,CHI,CHI,tov,1,False,True,,Dosunmu Bad Pass Turnover (P6.T11),47-70,47,70
+0022101224,2022-04-10,MIN,CHI,24.32,3,11,41,CHI,MIN,steal,1,False,True,steal,steal,47-70,47,70
+0022101224,2022-04-10,MIN,CHI,24.38,3,11,37,MIN,MIN,fg_make,41,False,False,Okogie 3' Running Layup (2 PTS),,49-70,49,70
+0022101224,2022-04-10,MIN,CHI,24.38,3,11,37,MIN,CHI,violation,2,False,False,,Dosunmu Violation:Defensive Goaltending (D.Guthrie),49-70,49,70
+0022101224,2022-04-10,MIN,CHI,24.65,3,11,21,CHI,CHI,fg_make,6,False,False,,Williams 1' Driving Layup (16 PTS),49-72,49,72
+0022101224,2022-04-10,MIN,CHI,24.9,3,11,6,MIN,MIN,tov,45,False,False,Reid Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,49-72,49,72
+0022101224,2022-04-10,MIN,CHI,25.08,3,10,55,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.3 Short 0),49-72,49,72
+0022101224,2022-04-10,MIN,CHI,25.12,3,10,53,CHI,CHI,tov,4,False,False,,Dosunmu Traveling Turnover (P7.T12),49-72,49,72
+0022101224,2022-04-10,MIN,CHI,25.3,3,10,42,MIN,MIN,fg_make,3,False,False,Reid 6' Hook Shot (14 PTS) (McLaughlin 2 AST),,51-72,51,72
+0022101224,2022-04-10,MIN,CHI,25.43,3,10,34,CHI,CHI,tov,45,False,False,,Jones Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T13),51-72,51,72
+0022101224,2022-04-10,MIN,CHI,25.62,3,10,23,MIN,MIN,fg_miss,1,False,False,MISS McDaniels 19' Jump Shot,,51-72,51,72
+0022101224,2022-04-10,MIN,CHI,25.68,3,10,19,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:7),51-72,51,72
+0022101224,2022-04-10,MIN,CHI,25.73,3,10,16,CHI,CHI,tov,45,False,False,,Brown Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T14),51-72,51,72
+0022101224,2022-04-10,MIN,CHI,25.88,3,10,7,MIN,MIN,fg_miss,6,False,False,MISS Nowell 2' Driving Layup,,51-72,51,72
+0022101224,2022-04-10,MIN,CHI,25.9,3,10,6,MIN,MIN,reb,0,False,False,Okogie REBOUND (Off:1 Def:0),,51-72,51,72
+0022101224,2022-04-10,MIN,CHI,25.92,3,10,5,MIN,MIN,fg_make,72,False,False,Okogie Putback Layup (4 PTS),,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,25.92,3,10,5,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.4 Short 0),53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.13,3,9,52,CHI,CHI,fg_miss,98,False,False,,MISS Jones Jr. 3' Cutting Layup Shot,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.18,3,9,49,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:1 Def:2),53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.22,3,9,47,CHI,CHI,fg_miss,6,False,False,,MISS Dosunmu 1' Driving Layup,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.27,3,9,44,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:2 Def:2),,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.5,3,9,30,MIN,MIN,fg_miss,73,False,False,MISS Okogie 3' Driving Reverse Layup,,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.53,3,9,28,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:2),53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.63,3,9,22,CHI,CHI,fg_miss,79,False,False,,MISS Williams 16' Pullup Jump Shot,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.67,3,9,20,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:2 Def:3),,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.82,3,9,11,MIN,MIN,fg_miss,6,False,False,MISS Nowell 6' Driving Layup,,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,26.88,3,9,7,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:8),53-72,53,72
+0022101224,2022-04-10,MIN,CHI,27.15,3,8,51,CHI,CHI,tov,40,False,False,,Brown Jr. Out of Bounds Lost Ball Turnover (P2.T15),53-72,53,72
+0022101224,2022-04-10,MIN,CHI,27.33,3,8,40,MIN,MIN,fg3_miss,1,False,False,MISS McDaniels 26' 3PT Jump Shot,,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,27.38,3,8,37,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:3),53-72,53,72
+0022101224,2022-04-10,MIN,CHI,27.53,3,8,28,CHI,MIN,foul,2,False,False,Okogie S.FOUL (P1.T1) (M.Smith),,53-72,53,72
+0022101224,2022-04-10,MIN,CHI,27.53,3,8,28,CHI,CHI,ft_make,11,False,False,,Jones Jr. Free Throw 1 of 2 (9 PTS),53-73,53,73
+0022101224,2022-04-10,MIN,CHI,27.53,3,8,28,CHI,CHI,ft_make,12,False,False,,Jones Jr. Free Throw 2 of 2 (10 PTS),53-74,53,74
+0022101224,2022-04-10,MIN,CHI,27.85,3,8,9,MIN,MIN,fg_miss,71,False,False,MISS Reid 2' Finger Roll Layup,,53-74,53,74
+0022101224,2022-04-10,MIN,CHI,27.87,3,8,8,CHI,CHI,reb,0,False,False,,Bulls Rebound,53-74,53,74
+0022101224,2022-04-10,MIN,CHI,27.87,3,8,8,CHI,MIN,foul,3,False,False,Reid L.B.FOUL (P4.T2) (M.Smith),,53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.02,3,7,59,MIN,CHI,foul,4,False,False,,Bradley OFF.Foul (P2) (M.Smith),53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.02,3,7,59,CHI,CHI,tov,37,False,False,,Bradley Offensive Foul Turnover (P2.T16),53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.17,3,7,50,MIN,MIN,fg3_miss,1,False,False,MISS Nowell 24' 3PT Jump Shot,,53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.2,3,7,48,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:0 Def:4),53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.57,3,7,26,CHI,CHI,fg_miss,101,False,False,,MISS Green 11' Driving Floating Jump Shot,53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.62,3,7,23,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:2 Def:2),53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.65,3,7,21,CHI,CHI,fg3_miss,1,False,False,,MISS Brown Jr. 27' 3PT Jump Shot,53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.68,3,7,19,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:1 Def:4),53-74,53,74
+0022101224,2022-04-10,MIN,CHI,28.68,3,7,19,CHI,CHI,fg_make,72,False,False,,Green 1' Putback Layup (6 PTS),53-76,53,76
+0022101224,2022-04-10,MIN,CHI,28.88,3,7,7,MIN,MIN,fg3_make,1,False,False,McDaniels 24' 3PT Jump Shot (5 PTS) (Nowell 1 AST),,56-76,56,76
+0022101224,2022-04-10,MIN,CHI,29.12,3,6,53,CHI,MIN,foul,1,False,False,McDaniels P.FOUL (P3.T3) (M.Smith),,56-76,56,76
+0022101224,2022-04-10,MIN,CHI,29.25,3,6,45,CHI,CHI,fg_make,6,False,False,,Brown Jr. 3' Driving Layup (17 PTS),56-78,56,78
+0022101224,2022-04-10,MIN,CHI,29.43,3,6,34,MIN,MIN,fg3_make,1,False,False,Nowell 25' 3PT Jump Shot (12 PTS) (Monroe 2 AST),,59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.55,3,6,27,CHI,CHI,fg_miss,5,True,False,,MISS Dosunmu 2' Layup,59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.55,3,6,27,CHI,MIN,block,5,True,False,block,block,59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.57,3,6,26,CHI,CHI,reb,0,False,False,,Bulls Rebound,59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.58,3,6,25,MIN,CHI,foul,4,False,False,,Bradley OFF.Foul (P3) (M.Smith),59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.58,3,6,25,CHI,CHI,tov,37,False,False,,Bradley Offensive Foul Turnover (P3.T17),59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.83,3,6,10,MIN,MIN,tov,1,False,True,Nowell Bad Pass Turnover (P1.T10),,59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.83,3,6,10,MIN,CHI,steal,1,False,True,steal,steal,59-78,59,78
+0022101224,2022-04-10,MIN,CHI,29.88,3,6,7,CHI,CHI,fg_make,41,False,False,,Dosunmu 1' Running Layup (10 PTS) (Green 2 AST),59-80,59,80
+0022101224,2022-04-10,MIN,CHI,29.88,3,6,7,CHI,MIN,foul,2,False,False,McLaughlin S.FOUL (P1.T4) (D.Guthrie),,59-80,59,80
+0022101224,2022-04-10,MIN,CHI,29.88,3,6,7,CHI,CHI,ft_make,10,False,False,,Dosunmu Free Throw 1 of 1 (11 PTS),59-81,59,81
+0022101224,2022-04-10,MIN,CHI,30.1,3,5,54,MIN,MIN,fg_make,44,False,False,Okogie 1' Reverse Layup (6 PTS) (Monroe 3 AST),,61-81,61,81
+0022101224,2022-04-10,MIN,CHI,30.1,3,5,54,MIN,CHI,foul,2,False,False,,Bradley S.FOUL (P4.T1) (D.Guthrie),61-81,61,81
+0022101224,2022-04-10,MIN,CHI,30.1,3,5,54,MIN,MIN,ft_make,10,False,False,Okogie Free Throw 1 of 1 (7 PTS),,62-81,62,81
+0022101224,2022-04-10,MIN,CHI,30.38,3,5,37,MIN,CHI,foul,4,False,False,,Jones Jr. OFF.Foul (P1) (R.Acosta),62-81,62,81
+0022101224,2022-04-10,MIN,CHI,30.38,3,5,37,CHI,CHI,tov,37,False,False,,Jones Jr. Offensive Foul Turnover (P2.T18),62-81,62,81
+0022101224,2022-04-10,MIN,CHI,30.5,3,5,30,MIN,MIN,fg3_make,80,False,False,Nowell 25' 3PT Step Back Jump Shot (15 PTS),,65-81,65,81
+0022101224,2022-04-10,MIN,CHI,30.87,3,5,8,CHI,CHI,fg_make,79,False,False,,Dosunmu 18' Pullup Jump Shot (13 PTS),65-83,65,83
+0022101224,2022-04-10,MIN,CHI,31.12,3,4,53,MIN,CHI,foul,2,False,False,,Jones Jr. S.FOUL (P2.T2) (R.Acosta),65-83,65,83
+0022101224,2022-04-10,MIN,CHI,31.12,3,4,53,MIN,MIN,ft_miss,11,False,False,MISS Okogie Free Throw 1 of 2,,65-83,65,83
+0022101224,2022-04-10,MIN,CHI,31.12,3,4,53,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,65-83,65,83
+0022101224,2022-04-10,MIN,CHI,31.12,3,4,53,MIN,MIN,ft_make,12,False,False,Okogie Free Throw 2 of 2 (8 PTS),,66-83,66,83
+0022101224,2022-04-10,MIN,CHI,31.4,3,4,36,CHI,CHI,fg_make,75,False,False,,Williams 2' Driving Finger Roll Layup (18 PTS) (Brown Jr. 1 AST),66-85,66,85
+0022101224,2022-04-10,MIN,CHI,31.4,3,4,36,CHI,MIN,foul,2,False,False,Monroe S.FOUL (P2.PN) (R.Acosta),,66-85,66,85
+0022101224,2022-04-10,MIN,CHI,31.4,3,4,36,CHI,CHI,ft_make,10,False,False,,Williams Free Throw 1 of 1 (19 PTS),66-86,66,86
+0022101224,2022-04-10,MIN,CHI,31.6,3,4,24,MIN,MIN,fg_make,6,False,False,McDaniels 1' Driving Layup (7 PTS) (Bolmaro 1 AST),,68-86,68,86
+0022101224,2022-04-10,MIN,CHI,31.6,3,4,24,MIN,CHI,foul,2,False,False,,Williams S.FOUL (P2.T3) (R.Acosta),68-86,68,86
+0022101224,2022-04-10,MIN,CHI,31.6,3,4,24,MIN,MIN,ft_make,10,False,False,McDaniels Free Throw 1 of 1 (8 PTS),,69-86,69,86
+0022101224,2022-04-10,MIN,CHI,31.83,3,4,10,CHI,CHI,fg3_make,1,False,False,,Williams 25' 3PT Jump Shot (22 PTS) (Jones Jr. 1 AST),69-89,69,89
+0022101224,2022-04-10,MIN,CHI,32.05,3,3,57,MIN,CHI,violation,5,False,False,,Jones Jr. Violation:Kicked Ball (D.Guthrie),69-89,69,89
+0022101224,2022-04-10,MIN,CHI,32.23,3,3,46,MIN,CHI,foul,2,False,False,,Green S.FOUL (P1.T4) (D.Guthrie),69-89,69,89
+0022101224,2022-04-10,MIN,CHI,32.23,3,3,46,MIN,MIN,ft_make,11,False,False,Layman Free Throw 1 of 2 (1 PTS),,70-89,70,89
+0022101224,2022-04-10,MIN,CHI,32.23,3,3,46,MIN,MIN,ft_make,12,False,False,Layman Free Throw 2 of 2 (2 PTS),,71-89,71,89
+0022101224,2022-04-10,MIN,CHI,32.42,3,3,35,CHI,CHI,fg_miss,79,False,False,,MISS Williams 17' Pullup Jump Shot,71-89,71,89
+0022101224,2022-04-10,MIN,CHI,32.47,3,3,32,MIN,MIN,reb,0,False,False,McLaughlin REBOUND (Off:0 Def:2),,71-89,71,89
+0022101224,2022-04-10,MIN,CHI,32.78,3,3,13,MIN,MIN,fg3_make,1,False,False,Knight 3PT Jump Shot (3 PTS) (Monroe 4 AST),,74-89,74,89
+0022101224,2022-04-10,MIN,CHI,33.05,3,2,57,CHI,CHI,tov,1,False,True,,Williams Bad Pass Turnover (P3.T19),74-89,74,89
+0022101224,2022-04-10,MIN,CHI,33.05,3,2,57,CHI,MIN,steal,1,False,True,steal,steal,74-89,74,89
+0022101224,2022-04-10,MIN,CHI,33.13,3,2,52,MIN,CHI,foul,2,False,False,,Hill S.FOUL (P1.PN) (M.Smith),74-89,74,89
+0022101224,2022-04-10,MIN,CHI,33.13,3,2,52,MIN,MIN,ft_miss,11,False,False,MISS Layman Free Throw 1 of 2,,74-89,74,89
+0022101224,2022-04-10,MIN,CHI,33.13,3,2,52,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,74-89,74,89
+0022101224,2022-04-10,MIN,CHI,33.13,3,2,52,MIN,MIN,ft_make,12,False,False,Layman Free Throw 2 of 2 (3 PTS),,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.37,3,2,38,CHI,CHI,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.43,3,2,34,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:1),75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.47,3,2,32,MIN,CHI,foul,4,False,False,,Jones Jr. OFF.Foul (P3) (R.Acosta),75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.47,3,2,32,CHI,CHI,tov,37,False,False,,Jones Jr. Offensive Foul Turnover (P3.T20),75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.65,3,2,21,MIN,MIN,tov,2,False,True,Monroe Lost Ball Turnover (P2.T11),,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.65,3,2,21,MIN,CHI,steal,2,False,True,steal,steal,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.77,3,2,14,CHI,CHI,fg3_miss,1,False,False,,MISS Hill 25' 3PT Jump Shot,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.83,3,2,10,MIN,MIN,reb,0,False,False,Bolmaro REBOUND (Off:0 Def:1),,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,33.97,3,2,2,MIN,MIN,fg_miss,98,False,False,MISS Monroe 3' Cutting Layup Shot,,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,34.0,3,2,0,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:1 Def:5),75-89,75,89
+0022101224,2022-04-10,MIN,CHI,34.02,3,1,59,CHI,CHI,fg_miss,41,True,False,,MISS Dosunmu 4' Running Layup,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,34.02,3,1,59,CHI,MIN,block,41,True,False,block,block,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,34.03,3,1,58,CHI,CHI,reb,0,False,False,,Bulls Rebound,75-89,75,89
+0022101224,2022-04-10,MIN,CHI,34.07,3,1,56,CHI,CHI,fg_make,1,False,False,,Dosunmu 17' Jump Shot (15 PTS) (Hill 3 AST),75-91,75,91
+0022101224,2022-04-10,MIN,CHI,34.15,3,1,51,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,75-91,75,91
+0022101224,2022-04-10,MIN,CHI,34.33,3,1,40,MIN,MIN,fg_make,5,False,False,Knight 1' Layup (5 PTS) (Monroe 5 AST),,77-91,77,91
+0022101224,2022-04-10,MIN,CHI,34.33,3,1,40,MIN,CHI,foul,2,False,False,,Green S.FOUL (P2.PN) (M.Smith),77-91,77,91
+0022101224,2022-04-10,MIN,CHI,34.33,3,1,40,MIN,MIN,ft_make,10,False,False,Knight Free Throw 1 of 1 (6 PTS),,78-91,78,91
+0022101224,2022-04-10,MIN,CHI,34.57,3,1,26,CHI,CHI,fg_miss,6,False,False,,MISS Williams 6' Driving Layup,78-91,78,91
+0022101224,2022-04-10,MIN,CHI,34.6,3,1,24,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:0 Def:1),,78-91,78,91
+0022101224,2022-04-10,MIN,CHI,34.67,3,1,20,MIN,MIN,fg3_make,1,False,False,Bolmaro 26' 3PT Jump Shot (3 PTS) (Knight 1 AST),,81-91,81,91
+0022101224,2022-04-10,MIN,CHI,34.93,3,1,4,CHI,MIN,foul,2,False,False,Knight S.FOUL (P1.PN) (D.Guthrie),,81-91,81,91
+0022101224,2022-04-10,MIN,CHI,34.93,3,1,4,CHI,CHI,ft_make,11,False,False,,Williams Free Throw 1 of 2 (23 PTS),81-92,81,92
+0022101224,2022-04-10,MIN,CHI,34.93,3,1,4,CHI,CHI,ft_miss,12,False,False,,MISS Williams Free Throw 2 of 2,81-92,81,92
+0022101224,2022-04-10,MIN,CHI,35.02,3,0,59,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:5 Def:2),81-92,81,92
+0022101224,2022-04-10,MIN,CHI,35.02,3,0,59,CHI,CHI,fg_make,97,False,False,,Bradley Tip Layup Shot (11 PTS),81-94,81,94
+0022101224,2022-04-10,MIN,CHI,35.17,3,0,50,MIN,MIN,fg_make,98,False,False,Monroe Cutting Layup Shot (3 PTS) (McLaughlin 3 AST),,83-94,83,94
+0022101224,2022-04-10,MIN,CHI,35.35,3,0,39,CHI,CHI,fg3_miss,80,False,False,,MISS Dosunmu 25' 3PT Step Back Jump Shot,83-94,83,94
+0022101224,2022-04-10,MIN,CHI,35.4,3,0,36,CHI,CHI,reb,0,False,False,,Bradley REBOUND (Off:6 Def:2),83-94,83,94
+0022101224,2022-04-10,MIN,CHI,35.43,3,0,34,CHI,CHI,fg_miss,3,False,False,,MISS Bradley 4' Hook Shot,83-94,83,94
+0022101224,2022-04-10,MIN,CHI,35.47,3,0,32,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:0 Def:2),,83-94,83,94
+0022101224,2022-04-10,MIN,CHI,35.52,3,0,29,MIN,MIN,fg_make,41,False,False,Monroe 1' Running Layup (5 PTS) (McLaughlin 4 AST),,85-94,85,94
+0022101224,2022-04-10,MIN,CHI,35.75,3,0,15,CHI,CHI,fg3_make,1,False,False,,Dosunmu 25' 3PT Jump Shot (18 PTS) (Jones Jr. 2 AST),85-97,85,97
+0022101224,2022-04-10,MIN,CHI,35.98,3,0,1,MIN,MIN,fg_make,44,False,False,Monroe 1' Reverse Layup (7 PTS) (Bolmaro 2 AST),,87-97,87,97
+0022101224,2022-04-10,MIN,CHI,36.0,3,0,0,MIN,,period_end,0,False,False,,,87-97,87,97
+0022101224,2022-04-10,MIN,CHI,36.0,4,12,0,MIN,,period_start,0,False,False,,,87-97,87,97
+0022101224,2022-04-10,MIN,CHI,36.15,4,11,51,MIN,CHI,foul,1,False,False,,Dosunmu P.FOUL (P2.T1) (R.Acosta),87-97,87,97
+0022101224,2022-04-10,MIN,CHI,36.32,4,11,41,MIN,CHI,foul,1,False,False,,Hill P.FOUL (P2.T2) (R.Acosta),87-97,87,97
+0022101224,2022-04-10,MIN,CHI,36.47,4,11,32,MIN,MIN,tov,2,False,True,Monroe Lost Ball Turnover (P3.T12),,87-97,87,97
+0022101224,2022-04-10,MIN,CHI,36.47,4,11,32,MIN,CHI,steal,2,False,True,steal,steal,87-97,87,97
+0022101224,2022-04-10,MIN,CHI,36.87,4,11,8,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#21),87-97,87,97
+0022101224,2022-04-10,MIN,CHI,37.1,4,10,54,MIN,MIN,fg_make,98,False,False,Monroe Cutting Layup Shot (9 PTS) (Nowell 2 AST),,89-97,89,97
+0022101224,2022-04-10,MIN,CHI,37.38,4,10,37,CHI,MIN,foul,1,False,False,Bolmaro P.FOUL (P1.T1) (R.Acosta),,89-97,89,97
+0022101224,2022-04-10,MIN,CHI,37.62,4,10,23,CHI,CHI,fg_miss,1,False,False,,MISS Dosunmu 13' Jump Shot,89-97,89,97
+0022101224,2022-04-10,MIN,CHI,37.65,4,10,21,MIN,MIN,reb,0,False,False,Monroe REBOUND (Off:1 Def:2),,89-97,89,97
+0022101224,2022-04-10,MIN,CHI,37.92,4,10,5,MIN,MIN,fg_make,7,False,False,Knight 1' Dunk (8 PTS) (Bolmaro 3 AST),,91-97,91,97
+0022101224,2022-04-10,MIN,CHI,38.28,4,9,43,CHI,CHI,fg_miss,102,False,False,,MISS Williams 10' Driving Floating Bank Jump Shot,91-97,91,97
+0022101224,2022-04-10,MIN,CHI,38.3,4,9,42,MIN,MIN,reb,0,False,False,Layman REBOUND (Off:0 Def:1),,91-97,91,97
+0022101224,2022-04-10,MIN,CHI,38.38,4,9,37,MIN,MIN,fg_make,41,False,False,Layman 1' Running Layup (5 PTS),,93-97,93,97
+0022101224,2022-04-10,MIN,CHI,38.38,4,9,37,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.5 Short 0),93-97,93,97
+0022101224,2022-04-10,MIN,CHI,38.62,4,9,23,CHI,MIN,foul,2,False,False,Knight S.FOUL (P2.T2) (M.Smith),,93-97,93,97
+0022101224,2022-04-10,MIN,CHI,38.62,4,9,23,CHI,CHI,ft_make,11,False,False,,Williams Free Throw 1 of 2 (24 PTS),93-98,93,98
+0022101224,2022-04-10,MIN,CHI,38.62,4,9,23,CHI,CHI,ft_make,12,False,False,,Williams Free Throw 2 of 2 (25 PTS),93-99,93,99
+0022101224,2022-04-10,MIN,CHI,38.78,4,9,13,MIN,MIN,fg_miss,1,False,False,MISS Bolmaro 7' Jump Shot,,93-99,93,99
+0022101224,2022-04-10,MIN,CHI,38.83,4,9,10,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:1 Def:2),,93-99,93,99
+0022101224,2022-04-10,MIN,CHI,38.87,4,9,8,MIN,MIN,fg_make,72,False,False,Knight 2' Putback Layup (10 PTS),,95-99,95,99
+0022101224,2022-04-10,MIN,CHI,39.08,4,8,55,CHI,CHI,fg3_make,1,False,False,,Williams 26' 3PT Jump Shot (28 PTS) (Dosunmu 5 AST),95-102,95,102
+0022101224,2022-04-10,MIN,CHI,39.3,4,8,42,MIN,MIN,fg_miss,75,False,False,MISS Bolmaro 2' Driving Finger Roll Layup,,95-102,95,102
+0022101224,2022-04-10,MIN,CHI,39.33,4,8,40,CHI,CHI,reb,0,False,False,,Cook REBOUND (Off:0 Def:1),95-102,95,102
+0022101224,2022-04-10,MIN,CHI,39.45,4,8,33,CHI,CHI,fg_make,75,False,False,,Dosunmu 1' Driving Finger Roll Layup (20 PTS),95-104,95,104
+0022101224,2022-04-10,MIN,CHI,39.68,4,8,19,MIN,CHI,foul,1,False,False,,Cook P.FOUL (P1.T3) (M.Smith),95-104,95,104
+0022101224,2022-04-10,MIN,CHI,39.77,4,8,14,MIN,MIN,fg3_miss,1,False,False,MISS Knight 25' 3PT Jump Shot,,95-104,95,104
+0022101224,2022-04-10,MIN,CHI,39.83,4,8,10,MIN,MIN,reb,0,False,False,Okogie REBOUND (Off:2 Def:0),,95-104,95,104
+0022101224,2022-04-10,MIN,CHI,39.93,4,8,4,MIN,MIN,fg_make,75,False,False,Bolmaro 1' Driving Finger Roll Layup (5 PTS) (Okogie 2 AST),,97-104,97,104
+0022101224,2022-04-10,MIN,CHI,40.33,4,7,40,CHI,CHI,fg_miss,3,False,False,,MISS Cook 6' Hook Shot,97-104,97,104
+0022101224,2022-04-10,MIN,CHI,40.37,4,7,38,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:1 Def:3),,97-104,97,104
+0022101224,2022-04-10,MIN,CHI,40.63,4,7,22,MIN,MIN,fg3_miss,1,False,False,MISS Okogie 3PT Jump Shot,,97-104,97,104
+0022101224,2022-04-10,MIN,CHI,40.7,4,7,18,CHI,CHI,reb,0,False,False,,Green REBOUND (Off:1 Def:6),97-104,97,104
+0022101224,2022-04-10,MIN,CHI,40.78,4,7,13,CHI,CHI,fg3_miss,103,False,False,,MISS Dosunmu 25' 3PT Running Pull-Up Jump Shot,97-104,97,104
+0022101224,2022-04-10,MIN,CHI,40.83,4,7,10,MIN,MIN,reb,0,False,False,Bolmaro REBOUND (Off:0 Def:2),,97-104,97,104
+0022101224,2022-04-10,MIN,CHI,40.85,4,7,9,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,97-104,97,104
+0022101224,2022-04-10,MIN,CHI,41.03,4,6,58,MIN,MIN,fg_make,98,False,False,Bolmaro 1' Cutting Layup Shot (7 PTS) (Knight 2 AST),,99-104,99,104
+0022101224,2022-04-10,MIN,CHI,41.27,4,6,44,CHI,MIN,foul,1,False,False,Okogie P.FOUL (P2.T3) (D.Guthrie),,99-104,99,104
+0022101224,2022-04-10,MIN,CHI,41.33,4,6,40,CHI,CHI,fg_make,108,False,False,,Cook 2' Cutting Dunk Shot (2 PTS) (Brown Jr. 2 AST),99-106,99,106
+0022101224,2022-04-10,MIN,CHI,41.33,4,6,40,CHI,MIN,foul,2,False,False,Knight S.FOUL (P3.T4) (R.Acosta),,99-106,99,106
+0022101224,2022-04-10,MIN,CHI,41.33,4,6,40,CHI,CHI,ft_make,10,False,False,,Cook Free Throw 1 of 1 (3 PTS),99-107,99,107
+0022101224,2022-04-10,MIN,CHI,41.63,4,6,22,MIN,MIN,fg_miss,6,False,False,MISS Bolmaro 2' Driving Layup,,99-107,99,107
+0022101224,2022-04-10,MIN,CHI,41.67,4,6,20,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:0 Def:4),99-107,99,107
+0022101224,2022-04-10,MIN,CHI,41.7,4,6,18,CHI,CHI,tov,45,False,False,,Williams Out of Bounds - Bad Pass Turnover Turnover (P4.T22),99-107,99,107
+0022101224,2022-04-10,MIN,CHI,42.02,4,5,59,MIN,CHI,foul,1,False,False,,Cook P.FOUL (P2.T4) (M.Smith),99-107,99,107
+0022101224,2022-04-10,MIN,CHI,42.13,4,5,52,MIN,MIN,fg_make,9,False,False,Knight 1' Driving Dunk (12 PTS),,101-107,101,107
+0022101224,2022-04-10,MIN,CHI,42.48,4,5,31,CHI,CHI,fg_make,6,False,False,,Williams 1' Driving Layup (30 PTS) (Dosunmu 6 AST),101-109,101,109
+0022101224,2022-04-10,MIN,CHI,42.75,4,5,15,MIN,MIN,fg_make,6,False,False,Okogie 1' Driving Layup (10 PTS) (Bolmaro 4 AST),,103-109,103,109
+0022101224,2022-04-10,MIN,CHI,42.75,4,5,15,MIN,CHI,foul,2,False,False,,Green S.FOUL (P3.PN) (D.Guthrie),103-109,103,109
+0022101224,2022-04-10,MIN,CHI,42.75,4,5,15,MIN,MIN,ft_make,10,False,False,Okogie Free Throw 1 of 1 (11 PTS),,104-109,104,109
+0022101224,2022-04-10,MIN,CHI,43.05,4,4,57,CHI,CHI,fg_make,5,False,False,,Williams 2' Layup (32 PTS),104-111,104,111
+0022101224,2022-04-10,MIN,CHI,43.25,4,4,45,MIN,MIN,tov,1,False,True,Knight Bad Pass Turnover (P1.T13),,104-111,104,111
+0022101224,2022-04-10,MIN,CHI,43.25,4,4,45,MIN,CHI,steal,1,False,True,steal,steal,104-111,104,111
+0022101224,2022-04-10,MIN,CHI,43.38,4,4,37,CHI,CHI,fg3_miss,1,False,False,,MISS Brown Jr. 26' 3PT Jump Shot,104-111,104,111
+0022101224,2022-04-10,MIN,CHI,43.45,4,4,33,MIN,MIN,reb,0,False,False,Layman REBOUND (Off:0 Def:2),,104-111,104,111
+0022101224,2022-04-10,MIN,CHI,43.52,4,4,29,MIN,CHI,foul,1,False,False,,Jones Jr. P.FOUL (P4.PN) (R.Acosta),104-111,104,111
+0022101224,2022-04-10,MIN,CHI,43.52,4,4,29,MIN,MIN,ft_make,11,False,False,Bolmaro Free Throw 1 of 2 (8 PTS),,105-111,105,111
+0022101224,2022-04-10,MIN,CHI,43.52,4,4,29,MIN,MIN,ft_make,12,False,False,Bolmaro Free Throw 2 of 2 (9 PTS),,106-111,106,111
+0022101224,2022-04-10,MIN,CHI,43.77,4,4,14,CHI,CHI,fg_miss,79,False,False,,MISS Dosunmu 16' Pullup Jump Shot,106-111,106,111
+0022101224,2022-04-10,MIN,CHI,43.82,4,4,11,CHI,CHI,reb,0,False,False,,Jones Jr. REBOUND (Off:3 Def:1),106-111,106,111
+0022101224,2022-04-10,MIN,CHI,43.92,4,4,5,CHI,CHI,fg_miss,79,True,False,,MISS Williams 19' Pullup Jump Shot,106-111,106,111
+0022101224,2022-04-10,MIN,CHI,43.92,4,4,5,CHI,MIN,block,79,True,False,block,block,106-111,106,111
+0022101224,2022-04-10,MIN,CHI,43.97,4,4,2,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:1 Def:4),,106-111,106,111
+0022101224,2022-04-10,MIN,CHI,44.28,4,3,43,MIN,MIN,fg_miss,57,False,False,MISS Knight 4' Driving Hook Shot,,106-111,106,111
+0022101224,2022-04-10,MIN,CHI,44.3,4,3,42,MIN,MIN,reb,0,False,False,Bolmaro REBOUND (Off:1 Def:2),,106-111,106,111
+0022101224,2022-04-10,MIN,CHI,44.3,4,3,42,MIN,MIN,fg_make,97,False,False,Bolmaro 1' Tip Layup Shot (11 PTS),,108-111,108,111
+0022101224,2022-04-10,MIN,CHI,44.63,4,3,22,CHI,MIN,foul,1,False,False,Okogie P.FOUL (P3.PN) (R.Acosta),,108-111,108,111
+0022101224,2022-04-10,MIN,CHI,44.63,4,3,22,CHI,CHI,ft_make,11,False,False,,Williams Free Throw 1 of 2 (33 PTS),108-112,108,112
+0022101224,2022-04-10,MIN,CHI,44.63,4,3,22,CHI,CHI,ft_make,12,False,False,,Williams Free Throw 2 of 2 (34 PTS),108-113,108,113
+0022101224,2022-04-10,MIN,CHI,44.63,4,3,22,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,108-113,108,113
+0022101224,2022-04-10,MIN,CHI,44.85,4,3,9,MIN,MIN,fg_miss,5,True,False,MISS Knight 1' Layup,,108-113,108,113
+0022101224,2022-04-10,MIN,CHI,44.85,4,3,9,MIN,CHI,block,5,True,False,block,block,108-113,108,113
+0022101224,2022-04-10,MIN,CHI,44.88,4,3,7,CHI,CHI,reb,0,False,False,,Dosunmu REBOUND (Off:2 Def:3),108-113,108,113
+0022101224,2022-04-10,MIN,CHI,44.95,4,3,3,CHI,CHI,fg_make,5,False,False,,Green 2' Layup (8 PTS) (Williams 4 AST),108-115,108,115
+0022101224,2022-04-10,MIN,CHI,45.18,4,2,49,MIN,MIN,fg_miss,57,False,False,MISS Bolmaro 6' Driving Hook Shot,,108-115,108,115
+0022101224,2022-04-10,MIN,CHI,45.22,4,2,47,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:2 Def:4),,108-115,108,115
+0022101224,2022-04-10,MIN,CHI,45.22,4,2,47,MIN,MIN,fg_make,72,False,False,Knight Putback Layup (14 PTS),,110-115,110,115
+0022101224,2022-04-10,MIN,CHI,45.52,4,2,29,CHI,MIN,foul,2,False,False,Okogie S.FOUL (P4.PN) (M.Smith),,110-115,110,115
+0022101224,2022-04-10,MIN,CHI,45.52,4,2,29,CHI,CHI,ft_make,11,False,False,,Williams Free Throw 1 of 2 (35 PTS),110-116,110,116
+0022101224,2022-04-10,MIN,CHI,45.52,4,2,29,CHI,CHI,ft_miss,12,False,False,,MISS Williams Free Throw 2 of 2,110-116,110,116
+0022101224,2022-04-10,MIN,CHI,45.55,4,2,27,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:2 Def:5),,110-116,110,116
+0022101224,2022-04-10,MIN,CHI,45.75,4,2,15,MIN,MIN,fg_make,3,False,False,Layman 6' Hook Shot (7 PTS) (Knight 3 AST),,112-116,112,116
+0022101224,2022-04-10,MIN,CHI,45.95,4,2,3,CHI,CHI,fg_miss,6,False,False,,MISS Brown Jr. 2' Driving Layup,112-116,112,116
+0022101224,2022-04-10,MIN,CHI,46.0,4,2,0,MIN,MIN,reb,0,False,False,Layman REBOUND (Off:0 Def:3),,112-116,112,116
+0022101224,2022-04-10,MIN,CHI,46.3,4,1,42,MIN,MIN,fg3_make,1,False,False,Layman 3PT Jump Shot (10 PTS) (Wright IV 1 AST),,115-116,115,116
+0022101224,2022-04-10,MIN,CHI,46.48,4,1,31,CHI,CHI,fg_make,75,False,False,,Dosunmu 2' Driving Finger Roll Layup (22 PTS),115-118,115,118
+0022101224,2022-04-10,MIN,CHI,46.78,4,1,13,MIN,MIN,fg_miss,5,False,False,MISS Knight 1' Layup,,115-118,115,118
+0022101224,2022-04-10,MIN,CHI,46.82,4,1,11,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:9),115-118,115,118
+0022101224,2022-04-10,MIN,CHI,46.88,4,1,7,CHI,CHI,tov,45,False,False,,Williams Out of Bounds - Bad Pass Turnover Turnover (P5.T23),115-118,115,118
+0022101224,2022-04-10,MIN,CHI,47.18,4,0,49,MIN,CHI,foul,1,False,False,,Brown Jr. P.FOUL (P1.PN) (M.Smith),115-118,115,118
+0022101224,2022-04-10,MIN,CHI,47.18,4,0,49,MIN,MIN,ft_miss,11,False,False,MISS Knight Free Throw 1 of 2,,115-118,115,118
+0022101224,2022-04-10,MIN,CHI,47.18,4,0,49,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,115-118,115,118
+0022101224,2022-04-10,MIN,CHI,47.18,4,0,49,MIN,MIN,ft_make,12,False,False,Knight Free Throw 2 of 2 (15 PTS),,116-118,116,118
+0022101224,2022-04-10,MIN,CHI,47.47,4,0,32,CHI,CHI,fg3_make,1,False,False,,Dosunmu 25' 3PT Jump Shot (25 PTS) (Brown Jr. 3 AST),116-121,116,121
+0022101224,2022-04-10,MIN,CHI,47.48,4,0,31,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),,116-121,116,121
+0022101224,2022-04-10,MIN,CHI,47.55,4,0,27,MIN,MIN,fg_make,101,False,False,Knight 4' Driving Floating Jump Shot (17 PTS) (Wright IV 2 AST),,118-121,118,121
+0022101224,2022-04-10,MIN,CHI,47.55,4,0,27,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.6 Short 0),118-121,118,121
+0022101224,2022-04-10,MIN,CHI,47.55,4,0,27,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.7 Short 0),118-121,118,121
+0022101224,2022-04-10,MIN,CHI,47.73,4,0,16,CHI,MIN,foul,28,False,False,Knight Personal Take Foul (P4.PN) (D.Guthrie),,118-121,118,121
+0022101224,2022-04-10,MIN,CHI,47.73,4,0,16,CHI,CHI,ft_make,11,False,False,,Dosunmu Free Throw 1 of 2 (26 PTS),118-122,118,122
+0022101224,2022-04-10,MIN,CHI,47.73,4,0,16,CHI,CHI,ft_miss,12,False,False,,MISS Dosunmu Free Throw 2 of 2,118-122,118,122
+0022101224,2022-04-10,MIN,CHI,47.77,4,0,14,MIN,MIN,reb,0,False,False,Knight REBOUND (Off:2 Def:6),,118-122,118,122
+0022101224,2022-04-10,MIN,CHI,47.83,4,0,10,MIN,MIN,fg_miss,1,False,False,MISS Bolmaro 10' Jump Shot,,118-122,118,122
+0022101224,2022-04-10,MIN,CHI,47.87,4,0,8,MIN,MIN,reb,0,False,False,Okogie REBOUND (Off:3 Def:0),,118-122,118,122
+0022101224,2022-04-10,MIN,CHI,47.87,4,0,8,MIN,MIN,fg_make,97,False,False,Okogie Tip Layup Shot (13 PTS),,120-122,120,122
+0022101224,2022-04-10,MIN,CHI,47.95,4,0,3,CHI,CHI,fg_make,41,False,False,,Jones Jr. 2' Running Layup (12 PTS) (Brown Jr. 4 AST),120-124,120,124
+0022101224,2022-04-10,MIN,CHI,47.95,4,0,3,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 7 Short 0),,120-124,120,124
+0022101224,2022-04-10,MIN,CHI,47.98,4,0,1,MIN,MIN,fg3_miss,80,False,False,MISS Knight 25' 3PT Step Back Jump Shot,,120-124,120,124
+0022101224,2022-04-10,MIN,CHI,47.98,4,0,1,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,120-124,120,124
+0022101224,2022-04-10,MIN,CHI,48.0,4,0,0,MIN,,period_end,0,False,False,,,120-124,120,124

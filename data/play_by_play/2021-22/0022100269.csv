@@ -1,0 +1,445 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100269,2021-11-24,ORL,CHA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.0,1,12,0,,ORL,jump_ball,0,False,False, ,,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.25,1,11,45,CHA,ORL,foul,4,False,False,Bamba OFF.Foul (P1) (L.Holtkamp),,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.25,1,11,45,ORL,ORL,tov,37,False,False,Bamba Offensive Foul Turnover (P1.T1),,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.45,1,11,33,CHA,CHA,fg_miss,6,False,False,,MISS Hayward 3' Driving Layup,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.5,1,11,30,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:0),0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.53,1,11,28,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 29' 3PT Jump Shot,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.53,1,11,28,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.77,1,11,14,ORL,ORL,reb,0,False,False,MAGIC Rebound,,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.77,1,11,14,ORL,CHA,block,6,True,False,block,block,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.77,1,11,14,ORL,ORL,fg_miss,6,True,False,MISS Wagner 4' Driving Layup,,0-0,0,0
+0022100269,2021-11-24,ORL,CHA,0.93,1,11,4,ORL,ORL,fg_make,101,False,False,Wagner 6' Driving Floating Jump Shot (2 PTS),,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.2,1,10,48,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.23,1,10,46,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:1),,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.25,1,10,45,ORL,CHA,foul,28,False,False,,Ball Personal Take Foul (P1.T1) (M.Myers),2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.37,1,10,38,ORL,ORL,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.43,1,10,34,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.63,1,10,22,CHA,CHA,fg_miss,58,False,False,,MISS Bridges 10' Turnaround Hook Shot,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.67,1,10,20,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:0),2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.67,1,10,20,CHA,CHA,fg_miss,97,False,False,,MISS Plumlee Tip Layup Shot,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.67,1,10,20,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:1),,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.82,1,10,11,ORL,ORL,fg_miss,3,False,False,MISS Bamba 8' Hook Shot,,2-0,2,0
+0022100269,2021-11-24,ORL,CHA,1.87,1,10,8,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:1),2-0,2,0
+0022100269,2021-11-24,ORL,CHA,2.13,1,9,52,CHA,CHA,fg3_make,1,False,False,,Ball 27' 3PT Jump Shot (3 PTS) (Bridges 1 AST),2-3,2,3
+0022100269,2021-11-24,ORL,CHA,2.43,1,9,34,ORL,CHA,steal,1,False,True,steal,steal,2-3,2,3
+0022100269,2021-11-24,ORL,CHA,2.43,1,9,34,ORL,ORL,tov,1,False,True,Suggs Bad Pass Turnover (P1.T2),,2-3,2,3
+0022100269,2021-11-24,ORL,CHA,2.6,1,9,24,CHA,ORL,foul,1,False,False,Wagner P.FOUL (P1.T1) (T.Ford),,2-3,2,3
+0022100269,2021-11-24,ORL,CHA,2.65,1,9,21,CHA,CHA,fg_miss,98,False,False,,MISS Hayward 3' Cutting Layup Shot,2-3,2,3
+0022100269,2021-11-24,ORL,CHA,2.67,1,9,20,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:2),,2-3,2,3
+0022100269,2021-11-24,ORL,CHA,2.98,1,9,1,ORL,ORL,fg_make,80,False,False,Suggs 18' Step Back Jump Shot (2 PTS),,4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.25,1,8,45,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 25' 3PT Jump Shot,4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.25,1,8,45,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:1),,4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.45,1,8,33,ORL,ORL,fg3_miss,1,False,False,MISS Carter Jr. 26' 3PT Jump Shot,,4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.5,1,8,30,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.65,1,8,21,CHA,CHA,fg_miss,102,False,False,,MISS Ball 3' Driving Floating Bank Jump Shot,4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.67,1,8,20,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:0),4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.67,1,8,20,CHA,ORL,foul,2,False,False,Carter Jr. S.FOUL (P1.T2) (M.Myers),,4-3,4,3
+0022100269,2021-11-24,ORL,CHA,3.67,1,8,20,CHA,CHA,ft_make,11,False,False,,Plumlee Free Throw 1 of 2 (1 PTS),4-4,4,4
+0022100269,2021-11-24,ORL,CHA,3.67,1,8,20,CHA,CHA,ft_make,12,False,False,,Plumlee Free Throw 2 of 2 (2 PTS),4-5,4,5
+0022100269,2021-11-24,ORL,CHA,3.92,1,8,5,ORL,ORL,fg_miss,6,False,False,MISS Wagner 3' Driving Layup,,4-5,4,5
+0022100269,2021-11-24,ORL,CHA,3.95,1,8,3,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:1 Def:0),,4-5,4,5
+0022100269,2021-11-24,ORL,CHA,4.03,1,7,58,ORL,ORL,fg_make,52,False,False,Bamba 1' Alley Oop Dunk (2 PTS) (Suggs 1 AST),,6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.15,1,7,51,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 25' 3PT Jump Shot,6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.18,1,7,49,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:2),,6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.25,1,7,45,ORL,CHA,foul,1,False,False,,Bridges P.FOUL (P1.T2) (L.Holtkamp),6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.3,1,7,42,ORL,ORL,fg_miss,6,False,False,MISS Wagner 1' Driving Layup,,6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.33,1,7,40,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:2),,6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.38,1,7,37,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:2 Def:0),,6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.38,1,7,37,ORL,ORL,fg_miss,3,False,False,MISS Bamba 4' Hook Shot,,6-5,6,5
+0022100269,2021-11-24,ORL,CHA,4.42,1,7,35,ORL,ORL,fg_make,72,False,False,Wagner 3' Putback Layup (4 PTS),,8-5,8,5
+0022100269,2021-11-24,ORL,CHA,4.67,1,7,20,CHA,CHA,fg_miss,80,False,False,,MISS Rozier 23' Step Back Jump Shot,8-5,8,5
+0022100269,2021-11-24,ORL,CHA,4.67,1,7,20,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:2 Def:1),,8-5,8,5
+0022100269,2021-11-24,ORL,CHA,4.82,1,7,11,ORL,ORL,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (3 PTS),,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.0,1,7,0,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 27' 3PT Jump Shot,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.05,1,6,57,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:3),,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.22,1,6,47,ORL,ORL,tov,1,False,True,Suggs Bad Pass Turnover (P2.T3),,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.22,1,6,47,ORL,CHA,steal,1,False,True,steal,steal,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.32,1,6,41,CHA,CHA,fg3_miss,2,False,False,,MISS Ball 27' 3PT Running Jump Shot,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.38,1,6,37,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:2),,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.63,1,6,22,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 25' 3PT Jump Shot,,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.67,1,6,20,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:1),11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.75,1,6,15,CHA,,foul,10,False,False,,,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.75,1,6,15,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.83,1,6,10,,ORL,jump_ball,0,False,False,Jump Ball Bamba vs. Bridges: Tip to Ball,,11-5,11,5
+0022100269,2021-11-24,ORL,CHA,5.87,1,6,8,CHA,CHA,fg_make,52,False,False,,Bridges 6' Alley Oop Dunk (2 PTS) (Ball 1 AST),11-7,11,7
+0022100269,2021-11-24,ORL,CHA,6.07,1,5,56,ORL,ORL,fg3_make,1,False,False,Bamba 3PT Jump Shot (5 PTS) (Harris 1 AST),,14-7,14,7
+0022100269,2021-11-24,ORL,CHA,6.32,1,5,41,CHA,CHA,fg3_miss,80,False,False,,MISS Ball 26' 3PT Step Back Jump Shot,14-7,14,7
+0022100269,2021-11-24,ORL,CHA,6.32,1,5,41,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:2 Def:2),,14-7,14,7
+0022100269,2021-11-24,ORL,CHA,6.48,1,5,31,ORL,CHA,foul,1,False,False,,Oubre Jr. P.FOUL (P1.T3) (T.Ford),14-7,14,7
+0022100269,2021-11-24,ORL,CHA,6.7,1,5,18,ORL,ORL,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,14-7,14,7
+0022100269,2021-11-24,ORL,CHA,6.77,1,5,14,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),14-7,14,7
+0022100269,2021-11-24,ORL,CHA,6.85,1,5,9,CHA,CHA,fg3_make,1,False,False,,Ball 28' 3PT Jump Shot (6 PTS) (Bridges 2 AST),14-10,14,10
+0022100269,2021-11-24,ORL,CHA,7.2,1,4,48,ORL,ORL,fg_make,9,False,False,Carter Jr. 1' Driving Dunk (2 PTS) (Wagner 1 AST),,16-10,16,10
+0022100269,2021-11-24,ORL,CHA,7.2,1,4,48,ORL,CHA,foul,2,False,False,,Martin S.FOUL (P1.T4) (M.Myers),16-10,16,10
+0022100269,2021-11-24,ORL,CHA,7.2,1,4,48,ORL,ORL,ft_make,10,False,False,Carter Jr. Free Throw 1 of 1 (3 PTS),,17-10,17,10
+0022100269,2021-11-24,ORL,CHA,7.38,1,4,37,CHA,CHA,reb,0,False,False,,Hornets Rebound,17-10,17,10
+0022100269,2021-11-24,ORL,CHA,7.38,1,4,37,CHA,ORL,foul,3,False,False,Bamba L.B.FOUL (P2.T3) (L.Holtkamp),,17-10,17,10
+0022100269,2021-11-24,ORL,CHA,7.38,1,4,37,CHA,CHA,fg_miss,6,False,False,,MISS Martin 4' Driving Layup,17-10,17,10
+0022100269,2021-11-24,ORL,CHA,7.55,1,4,27,CHA,CHA,fg_make,101,False,False,,Ball 2' Driving Floating Jump Shot (8 PTS),17-12,17,12
+0022100269,2021-11-24,ORL,CHA,7.97,1,4,2,ORL,ORL,fg_miss,79,False,False,MISS Okeke 21' Pullup Jump Shot,,17-12,17,12
+0022100269,2021-11-24,ORL,CHA,7.97,1,4,2,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),17-12,17,12
+0022100269,2021-11-24,ORL,CHA,8.17,1,3,50,CHA,CHA,fg_miss,6,False,False,,MISS Ball 4' Driving Layup,17-12,17,12
+0022100269,2021-11-24,ORL,CHA,8.18,1,3,49,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:1),17-12,17,12
+0022100269,2021-11-24,ORL,CHA,8.23,1,3,46,CHA,CHA,tov,1,False,True,,Washington Bad Pass Turnover (P1.T1),17-12,17,12
+0022100269,2021-11-24,ORL,CHA,8.23,1,3,46,CHA,ORL,steal,1,False,True,steal,steal,17-12,17,12
+0022100269,2021-11-24,ORL,CHA,8.28,1,3,43,ORL,ORL,fg_make,50,False,False,Harris 1' Running Dunk (5 PTS),,19-12,19,12
+0022100269,2021-11-24,ORL,CHA,8.37,1,3,38,CHA,ORL,foul,2,False,False,Wagner S.FOUL (P2.T4) (T.Ford),,19-12,19,12
+0022100269,2021-11-24,ORL,CHA,8.37,1,3,38,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (9 PTS),19-13,19,13
+0022100269,2021-11-24,ORL,CHA,8.37,1,3,38,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (10 PTS),19-14,19,14
+0022100269,2021-11-24,ORL,CHA,8.7,1,3,18,ORL,CHA,block,6,True,False,block,block,19-14,19,14
+0022100269,2021-11-24,ORL,CHA,8.7,1,3,18,ORL,ORL,fg_miss,6,True,False,MISS Hampton 3' Driving Layup,,19-14,19,14
+0022100269,2021-11-24,ORL,CHA,8.77,1,3,14,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:2),,19-14,19,14
+0022100269,2021-11-24,ORL,CHA,8.78,1,3,13,ORL,ORL,fg_make,87,False,False,Carter Jr. 1' Putback Dunk (5 PTS),,21-14,21,14
+0022100269,2021-11-24,ORL,CHA,8.97,1,3,2,CHA,CHA,fg_miss,101,False,False,,MISS Oubre Jr. 4' Driving Floating Jump Shot,21-14,21,14
+0022100269,2021-11-24,ORL,CHA,8.97,1,3,2,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:1),,21-14,21,14
+0022100269,2021-11-24,ORL,CHA,9.12,1,2,53,ORL,ORL,fg3_miss,1,False,False,MISS Carter Jr. 25' 3PT Jump Shot,,21-14,21,14
+0022100269,2021-11-24,ORL,CHA,9.17,1,2,50,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),21-14,21,14
+0022100269,2021-11-24,ORL,CHA,9.25,1,2,45,CHA,CHA,fg3_make,2,False,False,,Oubre Jr. 27' 3PT Running Jump Shot (3 PTS) (Bridges 3 AST),21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.27,1,2,44,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.57,1,2,26,ORL,ORL,fg3_miss,1,False,False,MISS Hampton 25' 3PT Jump Shot,,21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.63,1,2,22,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:1),21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.77,1,2,14,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 25' 3PT Jump Shot,21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.83,1,2,10,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:2),,21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.9,1,2,6,ORL,ORL,fg_miss,41,True,False,MISS Hampton 2' Running Layup,,21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.9,1,2,6,ORL,CHA,block,41,True,False,block,block,21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.97,1,2,2,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:1 Def:0),,21-17,21,17
+0022100269,2021-11-24,ORL,CHA,9.98,1,2,1,ORL,ORL,fg_make,72,False,False,Wagner 3' Putback Layup (2 PTS),,23-17,23,17
+0022100269,2021-11-24,ORL,CHA,10.27,1,1,44,CHA,CHA,fg_make,6,False,False,,Martin 3' Driving Layup (2 PTS),23-19,23,19
+0022100269,2021-11-24,ORL,CHA,10.27,1,1,44,CHA,CHA,ft_make,10,False,False,,Martin Free Throw 1 of 1 (3 PTS),23-20,23,20
+0022100269,2021-11-24,ORL,CHA,10.27,1,1,44,CHA,ORL,foul,2,False,False,Suggs S.FOUL (P2.PN) (L.Holtkamp),,23-19,23,19
+0022100269,2021-11-24,ORL,CHA,10.47,1,1,32,ORL,ORL,fg_make,86,False,False,Okeke 9' Turnaround Fadeaway (2 PTS),,25-20,25,20
+0022100269,2021-11-24,ORL,CHA,10.73,1,1,16,CHA,CHA,fg_miss,5,True,False,,MISS Washington 4' Layup,25-20,25,20
+0022100269,2021-11-24,ORL,CHA,10.73,1,1,16,CHA,ORL,block,5,True,False,block,block,25-20,25,20
+0022100269,2021-11-24,ORL,CHA,10.82,1,1,11,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:1),,25-20,25,20
+0022100269,2021-11-24,ORL,CHA,10.87,1,1,8,ORL,ORL,fg_miss,6,False,False,MISS Okeke 3' Driving Layup,,25-20,25,20
+0022100269,2021-11-24,ORL,CHA,10.9,1,1,6,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),25-20,25,20
+0022100269,2021-11-24,ORL,CHA,10.95,1,1,3,CHA,CHA,fg3_make,2,False,False,,Oubre Jr. 24' 3PT Running Jump Shot (6 PTS) (Martin 1 AST),25-23,25,23
+0022100269,2021-11-24,ORL,CHA,11.18,1,0,49,ORL,ORL,fg3_miss,79,False,False,MISS Suggs 27' 3PT Pullup Jump Shot,,25-23,25,23
+0022100269,2021-11-24,ORL,CHA,11.23,1,0,46,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:2),25-23,25,23
+0022100269,2021-11-24,ORL,CHA,11.53,1,0,28,CHA,CHA,fg3_miss,79,False,False,,MISS Oubre Jr. 25' 3PT Pullup Jump Shot,25-23,25,23
+0022100269,2021-11-24,ORL,CHA,11.57,1,0,26,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:2),,25-23,25,23
+0022100269,2021-11-24,ORL,CHA,11.85,1,0,9,ORL,ORL,fg3_make,80,False,False,Mulder 26' 3PT Step Back Jump Shot (3 PTS) (Hampton 1 AST),,28-23,28,23
+0022100269,2021-11-24,ORL,CHA,11.93,1,0,4,CHA,CHA,ft_miss,11,False,False,,MISS Hayward Free Throw 1 of 2,28-23,28,23
+0022100269,2021-11-24,ORL,CHA,11.93,1,0,4,CHA,ORL,foul,2,False,False,Okeke S.FOUL (P1.PN) (M.Myers),,28-23,28,23
+0022100269,2021-11-24,ORL,CHA,11.93,1,0,4,CHA,CHA,reb,1,False,False,,Hornets Rebound,28-23,28,23
+0022100269,2021-11-24,ORL,CHA,11.93,1,0,4,CHA,CHA,ft_make,12,False,False,,Hayward Free Throw 2 of 2 (1 PTS),28-24,28,24
+0022100269,2021-11-24,ORL,CHA,12.0,2,12,0,ORL,CHA,violation,1,False,False,,Hornets Violation: Delay of game Violation,28-24,28,24
+0022100269,2021-11-24,ORL,CHA,12.0,1,0,0,ORL,ORL,fg3_miss,2,False,False,MISS Suggs 27' 3PT Running Jump Shot,,28-24,28,24
+0022100269,2021-11-24,ORL,CHA,12.0,1,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,28-24,28,24
+0022100269,2021-11-24,ORL,CHA,12.0,2,12,0,ORL,,period_start,0,False,False,,,28-24,28,24
+0022100269,2021-11-24,ORL,CHA,12.0,1,0,0,ORL,,period_end,0,False,False,,,28-24,28,24
+0022100269,2021-11-24,ORL,CHA,12.32,2,11,41,CHA,CHA,fg_make,6,False,False,,Oubre Jr. 3' Driving Layup (8 PTS) (Rozier 1 AST),28-26,28,26
+0022100269,2021-11-24,ORL,CHA,12.55,2,11,27,ORL,ORL,fg_miss,6,True,False,MISS Suggs 2' Driving Layup,,28-26,28,26
+0022100269,2021-11-24,ORL,CHA,12.55,2,11,27,ORL,CHA,block,6,True,False,block,block,28-26,28,26
+0022100269,2021-11-24,ORL,CHA,12.55,2,11,27,ORL,ORL,reb,0,False,False,MAGIC Rebound,,28-26,28,26
+0022100269,2021-11-24,ORL,CHA,12.6,2,11,24,ORL,ORL,tov,2,False,True,Wagner Lost Ball Turnover (P1.T4),,28-26,28,26
+0022100269,2021-11-24,ORL,CHA,12.6,2,11,24,ORL,CHA,steal,2,False,True,steal,steal,28-26,28,26
+0022100269,2021-11-24,ORL,CHA,12.77,2,11,14,CHA,CHA,fg3_make,2,False,False,,Rozier 25' 3PT Running Jump Shot (3 PTS) (Hayward 1 AST),28-29,28,29
+0022100269,2021-11-24,ORL,CHA,12.93,2,11,4,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 26' 3PT Jump Shot,,28-29,28,29
+0022100269,2021-11-24,ORL,CHA,12.97,2,11,2,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:2),28-29,28,29
+0022100269,2021-11-24,ORL,CHA,13.03,2,10,58,CHA,CHA,fg3_make,2,False,False,,Rozier 27' 3PT Running Jump Shot (6 PTS),28-32,28,32
+0022100269,2021-11-24,ORL,CHA,13.43,2,10,34,ORL,ORL,ft_make,12,False,False,Wagner Free Throw 2 of 2 (4 PTS),,30-32,30,32
+0022100269,2021-11-24,ORL,CHA,13.43,2,10,34,ORL,ORL,ft_make,11,False,False,Wagner Free Throw 1 of 2 (3 PTS),,29-32,29,32
+0022100269,2021-11-24,ORL,CHA,13.43,2,10,34,ORL,CHA,foul,2,False,False,,McDaniels S.FOUL (P1.T1) (M.Myers),28-32,28,32
+0022100269,2021-11-24,ORL,CHA,13.63,2,10,22,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 28' 3PT Jump Shot,30-32,30,32
+0022100269,2021-11-24,ORL,CHA,13.68,2,10,19,ORL,ORL,reb,0,False,False,Mulder REBOUND (Off:0 Def:1),,30-32,30,32
+0022100269,2021-11-24,ORL,CHA,13.75,2,10,15,ORL,ORL,fg3_make,1,False,False,Wagner 26' 3PT Jump Shot (7 PTS) (Hampton 2 AST),,33-32,33,32
+0022100269,2021-11-24,ORL,CHA,14.0,2,10,0,CHA,ORL,foul,2,False,False,Suggs S.FOUL (P3.T1) (T.Ford),,33-34,33,34
+0022100269,2021-11-24,ORL,CHA,14.0,2,10,0,CHA,CHA,ft_miss,10,False,False,,MISS McDaniels Free Throw 1 of 1,33-34,33,34
+0022100269,2021-11-24,ORL,CHA,14.0,2,10,0,CHA,CHA,fg_make,6,False,False,,McDaniels 2' Driving Layup (2 PTS) (Rozier 2 AST),33-34,33,34
+0022100269,2021-11-24,ORL,CHA,14.05,2,9,57,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:1 Def:1),,33-34,33,34
+0022100269,2021-11-24,ORL,CHA,14.25,2,9,45,ORL,ORL,fg3_make,1,False,False,Wagner 26' 3PT Jump Shot (10 PTS) (Harris 2 AST),,36-34,36,34
+0022100269,2021-11-24,ORL,CHA,14.57,2,9,26,CHA,CHA,fg_make,47,False,False,,Rozier 14' Turnaround Jump Shot (8 PTS),36-36,36,36
+0022100269,2021-11-24,ORL,CHA,14.82,2,9,11,ORL,CHA,block,6,True,False,block,block,36-36,36,36
+0022100269,2021-11-24,ORL,CHA,14.82,2,9,11,ORL,ORL,fg_miss,6,True,False,MISS Harris 2' Driving Layup,,36-36,36,36
+0022100269,2021-11-24,ORL,CHA,14.88,2,9,7,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:1),36-36,36,36
+0022100269,2021-11-24,ORL,CHA,14.92,2,9,5,ORL,CHA,foul,3,False,False,,McDaniels L.B.FOUL (P2.T2) (T.Ford),36-36,36,36
+0022100269,2021-11-24,ORL,CHA,14.92,2,9,5,CHA,CHA,tov,2,False,False,,McDaniels Lost Ball Turnover (P1.T2),36-36,36,36
+0022100269,2021-11-24,ORL,CHA,15.15,2,8,51,ORL,ORL,fg3_make,1,False,False,Mulder 24' 3PT Jump Shot (6 PTS) (Hampton 3 AST),,39-36,39,36
+0022100269,2021-11-24,ORL,CHA,15.45,2,8,33,CHA,CHA,fg_miss,75,False,False,,MISS McDaniels 3' Driving Finger Roll Layup,39-36,39,36
+0022100269,2021-11-24,ORL,CHA,15.47,2,8,32,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:1),39-36,39,36
+0022100269,2021-11-24,ORL,CHA,15.47,2,8,32,CHA,CHA,tov,17,False,False,,Richards Lane Violation Turnover (P1.T3),39-37,39,37
+0022100269,2021-11-24,ORL,CHA,15.47,2,8,32,CHA,CHA,ft_make,11,False,False,,McDaniels Free Throw 1 of 2 (3 PTS),39-37,39,37
+0022100269,2021-11-24,ORL,CHA,15.47,2,8,32,CHA,ORL,foul,2,False,False,Mulder S.FOUL (P1.T2) (L.Holtkamp),,39-36,39,36
+0022100269,2021-11-24,ORL,CHA,15.77,2,8,14,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 25' 3PT Jump Shot,,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,15.87,2,8,8,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:2),,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,15.88,2,8,7,ORL,ORL,fg_miss,72,False,False,MISS Okeke 4' Putback Layup,,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,15.92,2,8,5,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:3),39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.08,2,7,55,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 25' 3PT Jump Shot,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.13,2,7,52,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:3),,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.3,2,7,42,ORL,ORL,fg3_miss,1,False,False,MISS Mulder 26' 3PT Jump Shot,,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.32,2,7,41,CHA,CHA,reb,0,False,False,,Hornets Rebound,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.32,2,7,41,CHA,ORL,foul,1,False,False,Harris P.FOUL (P1.T3) (T.Ford),,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.67,2,7,20,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 24' 3PT Jump Shot,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.67,2,7,20,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:1 Def:0),39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.82,2,7,11,CHA,CHA,fg_miss,6,False,False,,MISS Oubre Jr. 5' Driving Layup,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,16.93,2,7,4,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:4),,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.0,2,7,0,ORL,ORL,fg_miss,102,False,False,MISS Hampton 4' Driving Floating Bank Jump Shot,,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.05,2,6,57,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:1 Def:1),39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.13,2,6,52,CHA,ORL,steal,2,False,True,steal,steal,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.13,2,6,52,CHA,CHA,tov,2,False,True,,Martin Lost Ball Turnover (P1.T4),39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.2,2,6,48,ORL,ORL,fg_miss,41,True,False,MISS Okeke 2' Running Layup,,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.2,2,6,48,ORL,CHA,block,41,True,False,block,block,39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.27,2,6,44,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:1 Def:2),39-37,39,37
+0022100269,2021-11-24,ORL,CHA,17.45,2,6,33,CHA,CHA,fg_make,7,False,False,,Richards 2' Dunk (2 PTS) (Rozier 3 AST),39-39,39,39
+0022100269,2021-11-24,ORL,CHA,17.8,2,6,12,ORL,ORL,fg3_miss,1,False,False,MISS Mulder 25' 3PT Jump Shot,,39-39,39,39
+0022100269,2021-11-24,ORL,CHA,17.85,2,6,9,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),39-39,39,39
+0022100269,2021-11-24,ORL,CHA,17.98,2,6,1,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,39-39,39,39
+0022100269,2021-11-24,ORL,CHA,18.05,2,5,57,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:3),,39-39,39,39
+0022100269,2021-11-24,ORL,CHA,18.13,2,5,52,ORL,ORL,fg3_miss,103,False,False,MISS Harris 26' 3PT Running Pull-Up Jump Shot,,39-39,39,39
+0022100269,2021-11-24,ORL,CHA,18.17,2,5,50,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:2),39-39,39,39
+0022100269,2021-11-24,ORL,CHA,18.23,2,5,46,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,39-39,39,39
+0022100269,2021-11-24,ORL,CHA,18.35,2,5,39,CHA,CHA,fg_make,52,False,False,,Bridges 4' Alley Oop Dunk (4 PTS) (Ball 2 AST),39-41,39,41
+0022100269,2021-11-24,ORL,CHA,18.62,2,5,23,ORL,ORL,tov,2,False,True,Suggs Lost Ball Turnover (P3.T5),,39-41,39,41
+0022100269,2021-11-24,ORL,CHA,18.62,2,5,23,ORL,CHA,steal,2,False,True,steal,steal,39-41,39,41
+0022100269,2021-11-24,ORL,CHA,18.7,2,5,18,CHA,CHA,fg_make,41,False,False,,Plumlee 3' Running Layup (4 PTS) (Martin 2 AST),39-43,39,43
+0022100269,2021-11-24,ORL,CHA,18.97,2,5,2,ORL,ORL,fg3_miss,1,False,False,MISS Suggs 24' 3PT Jump Shot,,39-43,39,43
+0022100269,2021-11-24,ORL,CHA,18.97,2,5,2,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:3),39-43,39,43
+0022100269,2021-11-24,ORL,CHA,19.17,2,4,50,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,39-43,39,43
+0022100269,2021-11-24,ORL,CHA,19.23,2,4,46,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:4),,39-43,39,43
+0022100269,2021-11-24,ORL,CHA,19.58,2,4,25,ORL,ORL,fg_make,58,False,False,Wagner 5' Turnaround Hook Shot (6 PTS) (Suggs 2 AST),,41-43,41,43
+0022100269,2021-11-24,ORL,CHA,19.8,2,4,12,CHA,CHA,fg_miss,6,False,False,,MISS Ball 4' Driving Layup,41-43,41,43
+0022100269,2021-11-24,ORL,CHA,19.87,2,4,8,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:3),,41-43,41,43
+0022100269,2021-11-24,ORL,CHA,19.9,2,4,6,ORL,ORL,fg_miss,41,False,False,MISS Mulder 4' Running Layup,,41-43,41,43
+0022100269,2021-11-24,ORL,CHA,19.97,2,4,2,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:5),41-43,41,43
+0022100269,2021-11-24,ORL,CHA,19.98,2,4,1,CHA,CHA,fg_miss,110,False,False,,MISS Ball 2' Running Reverse Dunk Shot,41-43,41,43
+0022100269,2021-11-24,ORL,CHA,20.02,2,3,59,ORL,CHA,foul,1,False,False,,Ball P.FOUL (P3.T3) (M.Myers),41-43,41,43
+0022100269,2021-11-24,ORL,CHA,20.02,2,3,59,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:5),,41-43,41,43
+0022100269,2021-11-24,ORL,CHA,20.25,2,3,45,ORL,ORL,fg_miss,6,False,False,MISS Wagner 4' Driving Layup,,41-43,41,43
+0022100269,2021-11-24,ORL,CHA,20.35,2,3,39,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:3),41-43,41,43
+0022100269,2021-11-24,ORL,CHA,20.37,2,3,38,ORL,ORL,tov,12,False,False,Bamba Inbound Turnover (P2.T6),,41-45,41,45
+0022100269,2021-11-24,ORL,CHA,20.37,2,3,38,CHA,CHA,fg_make,50,False,False,,Oubre Jr. 2' Running Dunk (10 PTS) (Rozier 4 AST),41-45,41,45
+0022100269,2021-11-24,ORL,CHA,20.52,2,3,29,CHA,CHA,fg_miss,101,False,False,,MISS Bridges 7' Driving Floating Jump Shot,41-45,41,45
+0022100269,2021-11-24,ORL,CHA,20.58,2,3,25,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:4),,41-45,41,45
+0022100269,2021-11-24,ORL,CHA,20.83,2,3,10,ORL,ORL,fg_make,86,False,False,Carter Jr. 10' Turnaround Fadeaway (7 PTS),,43-45,43,45
+0022100269,2021-11-24,ORL,CHA,21.12,2,2,53,CHA,CHA,fg_make,79,False,False,,Rozier 15' Pullup Jump Shot (10 PTS) (Plumlee 1 AST),43-47,43,47
+0022100269,2021-11-24,ORL,CHA,21.35,2,2,39,ORL,ORL,fg3_miss,1,False,False,MISS Mulder 25' 3PT Jump Shot,,43-47,43,47
+0022100269,2021-11-24,ORL,CHA,21.37,2,2,38,CHA,CHA,reb,0,False,False,,Hornets Rebound,43-47,43,47
+0022100269,2021-11-24,ORL,CHA,21.37,2,2,38,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),43-47,43,47
+0022100269,2021-11-24,ORL,CHA,21.58,2,2,25,CHA,CHA,fg_miss,86,False,False,,MISS Bridges 12' Turnaround Fadeaway Shot,43-47,43,47
+0022100269,2021-11-24,ORL,CHA,21.63,2,2,22,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:6),,43-47,43,47
+0022100269,2021-11-24,ORL,CHA,21.98,2,2,1,ORL,ORL,fg_make,101,False,False,Suggs 5' Driving Floating Jump Shot (4 PTS),,45-47,45,47
+0022100269,2021-11-24,ORL,CHA,22.23,2,1,46,CHA,CHA,fg_make,75,False,False,,Rozier 2' Driving Finger Roll Layup (12 PTS),45-49,45,49
+0022100269,2021-11-24,ORL,CHA,22.52,2,1,29,ORL,ORL,fg_make,73,False,False,Suggs 2' Driving Reverse Layup (6 PTS),,47-49,47,49
+0022100269,2021-11-24,ORL,CHA,22.8,2,1,12,CHA,ORL,foul,2,False,False,Bamba S.FOUL (P3.T4) (M.Myers),,47-51,47,51
+0022100269,2021-11-24,ORL,CHA,22.8,2,1,12,CHA,CHA,ft_make,10,False,False,,Plumlee Free Throw 1 of 1 (7 PTS),47-52,47,52
+0022100269,2021-11-24,ORL,CHA,22.8,2,1,12,CHA,CHA,fg_make,6,False,False,,Plumlee 2' Driving Layup (6 PTS) (Martin 3 AST),47-51,47,51
+0022100269,2021-11-24,ORL,CHA,22.95,2,1,3,ORL,ORL,fg_make,52,False,False,Bamba 1' Alley Oop Dunk (7 PTS) (Wagner 2 AST),,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,23.33,2,0,40,CHA,CHA,fg3_miss,80,False,False,,MISS Hayward 27' 3PT Step Back Jump Shot,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,23.38,2,0,37,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,23.68,2,0,19,ORL,ORL,tov,2,False,True,Suggs Lost Ball Turnover (P4.T7),,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,23.68,2,0,19,ORL,CHA,steal,2,False,True,steal,steal,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,23.97,2,0,2,CHA,CHA,fg_miss,1,False,False,,MISS Rozier 17' Jump Shot,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,23.97,2,0,2,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:7),,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.0,3,12,0,ORL,,period_start,0,False,False,,,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.0,2,0,0,ORL,,period_end,0,False,False,,,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.2,3,11,48,CHA,CHA,tov,45,False,False,,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T5),49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.48,3,11,31,ORL,ORL,tov,2,False,True,Harris Lost Ball Turnover (P1.T8),,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.48,3,11,31,ORL,CHA,steal,2,False,True,steal,steal,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.67,3,11,20,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 24' 3PT Jump Shot,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.72,3,11,17,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:3),,49-52,49,52
+0022100269,2021-11-24,ORL,CHA,24.9,3,11,6,ORL,ORL,fg3_make,1,False,False,Wagner 27' 3PT Jump Shot (9 PTS) (Harris 3 AST),,52-52,52,52
+0022100269,2021-11-24,ORL,CHA,25.15,3,10,51,CHA,CHA,fg3_make,1,False,False,,Rozier 3PT Jump Shot (15 PTS) (Hayward 2 AST),52-55,52,55
+0022100269,2021-11-24,ORL,CHA,25.33,3,10,40,ORL,ORL,fg_make,3,False,False,Suggs 5' Hook Shot (8 PTS),,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,25.45,3,10,33,CHA,ORL,foul,1,False,False,Suggs P.FOUL (P4.T1) (L.Holtkamp),,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,25.48,3,10,31,CHA,CHA,tov,45,False,False,,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P1.T6),54-55,54,55
+0022100269,2021-11-24,ORL,CHA,25.9,3,10,6,ORL,ORL,fg_miss,58,False,False,MISS Wagner 10' Turnaround Hook Shot,,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,25.95,3,10,3,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:7),,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,25.98,3,10,1,ORL,ORL,fg_miss,5,True,False,MISS Bamba 3' Layup,,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,25.98,3,10,1,ORL,CHA,block,5,True,False,block,block,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.0,3,10,0,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:1),54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.0,3,10,0,CHA,ORL,foul,11,False,False,Bamba T.FOUL (P3.T1) (L.Holtkamp),,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.0,3,10,0,CHA,CHA,ft_miss,16,False,False,,MISS Rozier Free Throw Technical,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.0,3,10,0,CHA,CHA,reb,1,False,False,,Hornets Rebound,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.18,3,9,49,CHA,CHA,fg_miss,79,False,False,,MISS Ball 18' Pullup Jump Shot,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.25,3,9,45,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:2 Def:3),,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.3,3,9,42,ORL,ORL,ft_make,12,False,False,Suggs Free Throw 2 of 2 (9 PTS),,55-55,55,55
+0022100269,2021-11-24,ORL,CHA,26.3,3,9,42,ORL,ORL,reb,1,False,False,MAGIC Rebound,,55-55,55,55
+0022100269,2021-11-24,ORL,CHA,26.3,3,9,42,ORL,ORL,ft_miss,11,False,False,MISS Suggs Free Throw 1 of 2,,54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.3,3,9,42,ORL,CHA,foul,2,False,False,,Plumlee S.FOUL (P1.T1) (L.Holtkamp),54-55,54,55
+0022100269,2021-11-24,ORL,CHA,26.42,3,9,35,CHA,ORL,steal,1,False,True,steal,steal,55-55,55,55
+0022100269,2021-11-24,ORL,CHA,26.42,3,9,35,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P1.T7),55-55,55,55
+0022100269,2021-11-24,ORL,CHA,26.58,3,9,25,ORL,CHA,steal,2,False,True,steal,steal,55-55,55,55
+0022100269,2021-11-24,ORL,CHA,26.58,3,9,25,ORL,ORL,tov,2,False,True,Suggs Lost Ball Turnover (P5.T9),,55-55,55,55
+0022100269,2021-11-24,ORL,CHA,26.72,3,9,17,CHA,CHA,fg_make,76,False,False,,Rozier 1' Running Finger Roll Layup (17 PTS),55-57,55,57
+0022100269,2021-11-24,ORL,CHA,26.9,3,9,6,ORL,ORL,fg3_miss,1,True,False,MISS Bamba 25' 3PT Jump Shot,,55-57,55,57
+0022100269,2021-11-24,ORL,CHA,26.9,3,9,6,ORL,CHA,block,1,True,False,block,block,55-57,55,57
+0022100269,2021-11-24,ORL,CHA,26.92,3,9,5,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),55-57,55,57
+0022100269,2021-11-24,ORL,CHA,26.98,3,9,1,CHA,CHA,fg_make,76,False,False,,Rozier 3' Running Finger Roll Layup (19 PTS),55-59,55,59
+0022100269,2021-11-24,ORL,CHA,26.98,3,9,1,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,55-59,55,59
+0022100269,2021-11-24,ORL,CHA,27.25,3,8,45,ORL,ORL,fg3_miss,1,False,False,MISS Suggs 24' 3PT Jump Shot,,55-59,55,59
+0022100269,2021-11-24,ORL,CHA,27.3,3,8,42,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:2),55-59,55,59
+0022100269,2021-11-24,ORL,CHA,27.47,3,8,32,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 24' 3PT Jump Shot,55-59,55,59
+0022100269,2021-11-24,ORL,CHA,27.52,3,8,29,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:5),,55-59,55,59
+0022100269,2021-11-24,ORL,CHA,27.72,3,8,17,ORL,ORL,fg3_make,1,False,False,Bamba 24' 3PT Jump Shot (10 PTS) (Harris 4 AST),,58-59,58,59
+0022100269,2021-11-24,ORL,CHA,28.05,3,7,57,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 24' 3PT Jump Shot,58-59,58,59
+0022100269,2021-11-24,ORL,CHA,28.12,3,7,53,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:0 Def:4),,58-59,58,59
+0022100269,2021-11-24,ORL,CHA,28.18,3,7,49,ORL,ORL,fg3_make,2,False,False,Carter Jr. 28' 3PT Running Jump Shot (10 PTS) (Suggs 3 AST),,61-59,61,59
+0022100269,2021-11-24,ORL,CHA,28.47,3,7,32,CHA,CHA,fg3_make,1,False,False,,Ball 26' 3PT Jump Shot (13 PTS) (Bridges 4 AST),61-62,61,62
+0022100269,2021-11-24,ORL,CHA,28.72,3,7,17,ORL,ORL,fg_make,6,False,False,Harris 2' Driving Layup (7 PTS) (Carter Jr. 1 AST),,63-62,63,62
+0022100269,2021-11-24,ORL,CHA,28.93,3,7,4,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 24' 3PT Jump Shot,63-62,63,62
+0022100269,2021-11-24,ORL,CHA,28.97,3,7,2,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:6),,63-62,63,62
+0022100269,2021-11-24,ORL,CHA,29.08,3,6,55,ORL,ORL,tov,2,False,True,Harris Lost Ball Turnover (P2.T10),,63-62,63,62
+0022100269,2021-11-24,ORL,CHA,29.08,3,6,55,ORL,CHA,steal,2,False,True,steal,steal,63-62,63,62
+0022100269,2021-11-24,ORL,CHA,29.33,3,6,40,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (21 PTS),63-64,63,64
+0022100269,2021-11-24,ORL,CHA,29.33,3,6,40,CHA,CHA,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (20 PTS),63-63,63,63
+0022100269,2021-11-24,ORL,CHA,29.33,3,6,40,CHA,ORL,foul,2,False,False,Harris S.FOUL (P2.T2) (L.Holtkamp),,63-62,63,62
+0022100269,2021-11-24,ORL,CHA,29.55,3,6,27,ORL,ORL,fg3_make,1,False,False,Bamba 26' 3PT Jump Shot (13 PTS) (Suggs 4 AST),,66-64,66,64
+0022100269,2021-11-24,ORL,CHA,29.85,3,6,9,CHA,CHA,fg3_make,1,False,False,,Bridges 26' 3PT Jump Shot (7 PTS),66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.0,3,6,0,ORL,ORL,fg3_miss,2,False,False,MISS Harris 24' 3PT Running Jump Shot,,66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.07,3,5,56,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:3),66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.13,3,5,52,CHA,CHA,fg3_miss,103,False,False,,MISS Oubre Jr. 24' 3PT Running Pull-Up Jump Shot,66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.2,3,5,48,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:8),,66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.28,3,5,43,ORL,ORL,fg3_miss,2,False,False,MISS Bamba 27' 3PT Running Jump Shot,,66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.32,3,5,41,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:4),66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.72,3,5,17,CHA,CHA,fg3_miss,80,False,False,,MISS Bridges 24' 3PT Step Back Jump Shot,66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.78,3,5,13,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:2 Def:4),,66-67,66,67
+0022100269,2021-11-24,ORL,CHA,30.88,3,5,7,ORL,ORL,fg3_make,79,False,False,Wagner 27' 3PT Pullup Jump Shot (12 PTS),,69-67,69,67
+0022100269,2021-11-24,ORL,CHA,30.9,3,5,6,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),69-67,69,67
+0022100269,2021-11-24,ORL,CHA,31.13,3,4,52,CHA,CHA,fg_miss,78,False,False,,MISS Rozier 10' Floating Jump Shot,69-67,69,67
+0022100269,2021-11-24,ORL,CHA,31.22,3,4,47,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:2 Def:5),,69-67,69,67
+0022100269,2021-11-24,ORL,CHA,31.4,3,4,36,ORL,ORL,fg_make,52,False,False,Carter Jr. 2' Alley Oop Dunk (12 PTS) (Wagner 3 AST),,71-67,71,67
+0022100269,2021-11-24,ORL,CHA,31.65,3,4,21,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,71-67,71,67
+0022100269,2021-11-24,ORL,CHA,31.78,3,4,13,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:9),,71-67,71,67
+0022100269,2021-11-24,ORL,CHA,31.95,3,4,3,ORL,ORL,fg3_make,1,False,False,Bamba 27' 3PT Jump Shot (16 PTS) (Hampton 4 AST),,74-67,74,67
+0022100269,2021-11-24,ORL,CHA,32.15,3,3,51,CHA,ORL,foul,2,False,False,Carter Jr. S.FOUL (P2.T3) (T.Ford),,74-67,74,67
+0022100269,2021-11-24,ORL,CHA,32.15,3,3,51,CHA,CHA,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (12 PTS),74-69,74,69
+0022100269,2021-11-24,ORL,CHA,32.15,3,3,51,CHA,CHA,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (11 PTS),74-68,74,68
+0022100269,2021-11-24,ORL,CHA,32.52,3,3,29,ORL,CHA,block,1,True,False,block,block,74-69,74,69
+0022100269,2021-11-24,ORL,CHA,32.52,3,3,29,ORL,ORL,fg_miss,1,True,False,MISS Bamba 21' Jump Shot,,74-69,74,69
+0022100269,2021-11-24,ORL,CHA,32.58,3,3,25,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:6),74-69,74,69
+0022100269,2021-11-24,ORL,CHA,32.75,3,3,15,CHA,CHA,fg_make,108,False,False,,Oubre Jr. Cutting Dunk Shot (14 PTS) (Martin 4 AST),74-71,74,71
+0022100269,2021-11-24,ORL,CHA,33.0,3,3,0,ORL,ORL,fg_miss,58,False,False,MISS Bamba 7' Turnaround Hook Shot,,74-71,74,71
+0022100269,2021-11-24,ORL,CHA,33.07,3,2,56,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:2),74-71,74,71
+0022100269,2021-11-24,ORL,CHA,33.1,3,2,54,CHA,ORL,violation,2,False,False,Bamba Violation:Defensive Goaltending (L.Holtkamp),,74-73,74,73
+0022100269,2021-11-24,ORL,CHA,33.1,3,2,54,CHA,CHA,fg_make,6,False,False,,McDaniels 1' Driving Layup (5 PTS),74-73,74,73
+0022100269,2021-11-24,ORL,CHA,33.33,3,2,40,ORL,ORL,fg_miss,79,False,False,MISS Hampton 15' Pullup Jump Shot,,74-73,74,73
+0022100269,2021-11-24,ORL,CHA,33.43,3,2,34,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:4),74-73,74,73
+0022100269,2021-11-24,ORL,CHA,33.5,3,2,30,CHA,CHA,fg_make,41,False,False,,Bridges 1' Running Layup (9 PTS) (Martin 5 AST),74-75,74,75
+0022100269,2021-11-24,ORL,CHA,33.82,3,2,11,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 26' 3PT Jump Shot,,74-75,74,75
+0022100269,2021-11-24,ORL,CHA,33.92,3,2,5,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:3),74-75,74,75
+0022100269,2021-11-24,ORL,CHA,33.92,3,2,5,CHA,ORL,violation,5,False,False,Hampton Violation:Kicked Ball (L.Holtkamp),,74-75,74,75
+0022100269,2021-11-24,ORL,CHA,34.07,3,1,56,CHA,CHA,fg3_make,1,False,False,,Oubre Jr. 26' 3PT Jump Shot (17 PTS) (Bridges 5 AST),74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.27,3,1,44,ORL,CHA,steal,1,False,True,steal,steal,74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.27,3,1,44,ORL,ORL,tov,1,False,True,Okeke Bad Pass Turnover (P1.T11),,74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.37,3,1,38,CHA,CHA,fg3_miss,2,False,False,,MISS Rozier 26' 3PT Running Jump Shot,74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.42,3,1,35,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:5),,74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.48,3,1,31,ORL,ORL,fg3_miss,103,False,False,MISS Hampton 26' 3PT Running Pull-Up Jump Shot,,74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.55,3,1,27,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:2 Def:1),,74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.63,3,1,22,ORL,ORL,fg_miss,6,False,False,MISS Okeke 2' Driving Layup,,74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.63,3,1,22,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:7),74-78,74,78
+0022100269,2021-11-24,ORL,CHA,34.72,3,1,17,CHA,CHA,fg_make,100,False,False,,Rozier 3' Running Alley Oop Layup Shot (23 PTS) (Martin 6 AST),74-80,74,80
+0022100269,2021-11-24,ORL,CHA,35.17,3,0,50,ORL,ORL,fg3_miss,1,False,False,MISS Mulder 27' 3PT Jump Shot,,74-80,74,80
+0022100269,2021-11-24,ORL,CHA,35.22,3,0,47,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:1 Def:3),74-80,74,80
+0022100269,2021-11-24,ORL,CHA,35.45,3,0,33,CHA,CHA,fg3_miss,80,False,False,,MISS Rozier 25' 3PT Step Back Jump Shot,74-80,74,80
+0022100269,2021-11-24,ORL,CHA,35.5,3,0,30,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:4),74-80,74,80
+0022100269,2021-11-24,ORL,CHA,35.67,3,0,20,CHA,CHA,fg_make,9,False,False,,Martin 2' Driving Dunk (5 PTS) (Rozier 5 AST),74-82,74,82
+0022100269,2021-11-24,ORL,CHA,35.92,3,0,5,ORL,CHA,foul,1,False,False,,Martin P.FOUL (P2.T2) (M.Myers),74-82,74,82
+0022100269,2021-11-24,ORL,CHA,36.0,3,0,0,ORL,ORL,fg3_make,1,False,False,Wagner 28' 3PT Jump Shot (13 PTS) (Hampton 5 AST),,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.0,4,12,0,CHA,ORL,violation,1,False,False,MAGIC Violation: Delay of game Violation,,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.0,3,0,0,ORL,,period_end,0,False,False,,,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.0,4,12,0,ORL,,period_start,0,False,False,,,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.3,4,11,42,ORL,ORL,fg3_miss,1,False,False,MISS Wagner 26' 3PT Jump Shot,,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.35,4,11,39,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:1 Def:2),,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.53,4,11,28,ORL,ORL,fg_miss,6,False,False,MISS Hampton 2' Driving Layup,,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.62,4,11,23,ORL,CHA,block,97,True,False,block,block,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.62,4,11,23,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:4),77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.62,4,11,23,ORL,ORL,fg_miss,97,True,False,MISS Wagner Tip Layup Shot,,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.62,4,11,23,ORL,ORL,reb,0,False,False,Wagner REBOUND (Off:3 Def:1),,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.67,4,11,20,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:2 Def:3),77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.67,4,11,20,CHA,CHA,fg_miss,41,False,False,,MISS Rozier 6' Running Layup,77-82,77,82
+0022100269,2021-11-24,ORL,CHA,36.88,4,11,7,CHA,CHA,fg3_make,1,False,False,,Martin 25' 3PT Jump Shot (8 PTS),77-85,77,85
+0022100269,2021-11-24,ORL,CHA,37.37,4,10,38,ORL,ORL,fg_miss,1,False,False,MISS Harris 17' Jump Shot,,77-85,77,85
+0022100269,2021-11-24,ORL,CHA,37.37,4,10,38,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:8),77-85,77,85
+0022100269,2021-11-24,ORL,CHA,37.67,4,10,20,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 26' 3PT Jump Shot,77-85,77,85
+0022100269,2021-11-24,ORL,CHA,37.73,4,10,16,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:3 Def:3),77-85,77,85
+0022100269,2021-11-24,ORL,CHA,37.75,4,10,15,CHA,CHA,fg3_miss,1,False,False,,MISS McDaniels 25' 3PT Jump Shot,77-85,77,85
+0022100269,2021-11-24,ORL,CHA,37.75,4,10,15,ORL,ORL,reb,0,False,False,MAGIC Rebound,,77-85,77,85
+0022100269,2021-11-24,ORL,CHA,38.08,4,9,55,ORL,CHA,block,1,True,False,block,block,77-85,77,85
+0022100269,2021-11-24,ORL,CHA,38.08,4,9,55,ORL,ORL,reb,0,False,False,MAGIC Rebound,,77-85,77,85
+0022100269,2021-11-24,ORL,CHA,38.08,4,9,55,ORL,ORL,fg3_miss,1,True,False,MISS Mulder 3PT Jump Shot,,77-85,77,85
+0022100269,2021-11-24,ORL,CHA,38.13,4,9,52,ORL,CHA,foul,3,False,False,,Martin L.B.FOUL (P3.T1) (L.Holtkamp),77-85,77,85
+0022100269,2021-11-24,ORL,CHA,38.28,4,9,43,ORL,ORL,fg3_make,1,False,False,Harris 3PT Jump Shot (10 PTS) (Hampton 6 AST),,80-85,80,85
+0022100269,2021-11-24,ORL,CHA,38.63,4,9,22,CHA,CHA,fg_miss,108,False,False,,MISS Bridges 1' Cutting Dunk Shot,80-85,80,85
+0022100269,2021-11-24,ORL,CHA,38.65,4,9,21,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:4),80-85,80,85
+0022100269,2021-11-24,ORL,CHA,38.67,4,9,20,CHA,CHA,fg_miss,72,False,False,,MISS Oubre Jr. 3' Putback Layup,80-85,80,85
+0022100269,2021-11-24,ORL,CHA,38.67,4,9,20,ORL,ORL,reb,0,False,False,MAGIC Rebound,,80-85,80,85
+0022100269,2021-11-24,ORL,CHA,38.68,4,9,19,ORL,CHA,foul,3,False,False,,McDaniels L.B.FOUL (P3.T2) (T.Ford),80-85,80,85
+0022100269,2021-11-24,ORL,CHA,39.05,4,8,57,ORL,ORL,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,80-85,80,85
+0022100269,2021-11-24,ORL,CHA,39.1,4,8,54,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:3 Def:4),80-85,80,85
+0022100269,2021-11-24,ORL,CHA,39.1,4,8,54,CHA,ORL,foul,2,False,False,Wagner S.FOUL (P1.T1) (M.Myers),,80-85,80,85
+0022100269,2021-11-24,ORL,CHA,39.1,4,8,54,CHA,CHA,ft_make,13,False,False,,Oubre Jr. Free Throw 1 of 3 (18 PTS),80-86,80,86
+0022100269,2021-11-24,ORL,CHA,39.1,4,8,54,CHA,CHA,ft_miss,14,False,False,,MISS Oubre Jr. Free Throw 2 of 3,80-86,80,86
+0022100269,2021-11-24,ORL,CHA,39.1,4,8,54,CHA,CHA,ft_make,15,False,False,,Oubre Jr. Free Throw 3 of 3 (19 PTS),80-87,80,87
+0022100269,2021-11-24,ORL,CHA,39.1,4,8,54,CHA,CHA,reb,1,False,False,,Hornets Rebound,80-86,80,86
+0022100269,2021-11-24,ORL,CHA,39.35,4,8,39,ORL,ORL,fg_make,101,False,False,Suggs 15' Driving Floating Jump Shot (11 PTS) (Okeke 1 AST),,82-87,82,87
+0022100269,2021-11-24,ORL,CHA,39.53,4,8,28,CHA,CHA,fg_make,108,False,False,,Bridges 2' Cutting Dunk Shot (11 PTS) (Ball 3 AST),82-89,82,89
+0022100269,2021-11-24,ORL,CHA,39.75,4,8,15,ORL,CHA,foul,1,False,False,,Ball P.FOUL (P4.T3) (M.Myers),82-89,82,89
+0022100269,2021-11-24,ORL,CHA,39.97,4,8,2,ORL,ORL,fg_miss,79,False,False,MISS Suggs 22' Pullup Jump Shot,,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,39.97,4,8,2,ORL,ORL,reb,0,False,False,MAGIC Rebound,,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,39.97,4,8,2,ORL,CHA,foul,3,False,False,,Bridges L.B.FOUL (P2.T4) (T.Ford),82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.17,4,7,50,ORL,CHA,steal,1,False,True,steal,steal,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.17,4,7,50,ORL,ORL,tov,1,False,True,Okeke Bad Pass Turnover (P2.T12),,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.33,4,7,40,CHA,CHA,fg_miss,6,False,False,,MISS Bridges 1' Driving Layup,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.38,4,7,37,CHA,CHA,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:4),82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.4,4,7,36,CHA,CHA,fg_miss,86,False,False,,MISS Oubre Jr. 4' Turnaround Fadeaway Shot,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.43,4,7,34,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:7),,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.57,4,7,26,ORL,ORL,fg_miss,86,False,False,MISS Suggs 16' Turnaround Fadeaway Shot,,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.67,4,7,20,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:2),82-89,82,89
+0022100269,2021-11-24,ORL,CHA,40.97,4,7,2,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 24' 3PT Jump Shot,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,41.03,4,6,58,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:8),,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,41.12,4,6,53,ORL,ORL,fg3_miss,2,False,False,MISS Carter Jr. 26' 3PT Running Jump Shot,,82-89,82,89
+0022100269,2021-11-24,ORL,CHA,41.17,4,6,50,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:9),82-89,82,89
+0022100269,2021-11-24,ORL,CHA,41.47,4,6,32,CHA,CHA,fg_make,80,False,False,,Oubre Jr. 19' Step Back Jump Shot (21 PTS) (McDaniels 1 AST),82-91,82,91
+0022100269,2021-11-24,ORL,CHA,41.53,4,6,28,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 5 Short 0),,82-91,82,91
+0022100269,2021-11-24,ORL,CHA,41.93,4,6,4,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#13),,82-91,82,91
+0022100269,2021-11-24,ORL,CHA,42.15,4,5,51,CHA,ORL,steal,1,False,True,steal,steal,82-91,82,91
+0022100269,2021-11-24,ORL,CHA,42.15,4,5,51,CHA,CHA,tov,1,False,True,,Oubre Jr. Bad Pass Turnover (P1.T8),82-91,82,91
+0022100269,2021-11-24,ORL,CHA,42.37,4,5,38,ORL,ORL,fg_make,101,False,False,Wagner 9' Driving Floating Jump Shot (14 PTS) (Carter Jr. 2 AST),,84-91,84,91
+0022100269,2021-11-24,ORL,CHA,42.68,4,5,19,CHA,CHA,fg_miss,63,False,False,,MISS Oubre Jr. 15' Fadeaway Jumper,84-91,84,91
+0022100269,2021-11-24,ORL,CHA,42.73,4,5,16,CHA,CHA,reb,0,False,False,,Plumlee REBOUND (Off:4 Def:4),84-91,84,91
+0022100269,2021-11-24,ORL,CHA,42.77,4,5,14,CHA,CHA,fg3_make,1,False,False,,Ball 29' 3PT Jump Shot (16 PTS) (Plumlee 2 AST),84-94,84,94
+0022100269,2021-11-24,ORL,CHA,43.2,4,4,48,ORL,ORL,fg_miss,98,False,False,MISS Harris 1' Cutting Layup Shot,,84-94,84,94
+0022100269,2021-11-24,ORL,CHA,43.27,4,4,44,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:3),84-94,84,94
+0022100269,2021-11-24,ORL,CHA,43.28,4,4,43,CHA,CHA,fg_make,50,False,False,,McDaniels 1' Running Dunk (7 PTS) (Ball 4 AST),84-96,84,96
+0022100269,2021-11-24,ORL,CHA,43.57,4,4,26,ORL,ORL,tov,4,False,False,Hampton Traveling Turnover (P1.T14),,84-96,84,96
+0022100269,2021-11-24,ORL,CHA,43.9,4,4,6,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P2.T9),84-96,84,96
+0022100269,2021-11-24,ORL,CHA,43.9,4,4,6,CHA,ORL,steal,1,False,True,steal,steal,84-96,84,96
+0022100269,2021-11-24,ORL,CHA,44.22,4,3,47,ORL,ORL,fg3_make,1,False,False,Harris 3PT Jump Shot (13 PTS) (Suggs 5 AST),,87-96,87,96
+0022100269,2021-11-24,ORL,CHA,44.32,4,3,41,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),87-96,87,96
+0022100269,2021-11-24,ORL,CHA,44.43,4,3,34,CHA,ORL,foul,2,False,False,Carter Jr. S.FOUL (P3.T2) (T.Ford),,87-96,87,96
+0022100269,2021-11-24,ORL,CHA,44.43,4,3,34,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (17 PTS),87-97,87,97
+0022100269,2021-11-24,ORL,CHA,44.43,4,3,34,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (18 PTS),87-98,87,98
+0022100269,2021-11-24,ORL,CHA,44.58,4,3,25,ORL,ORL,ft_make,14,False,False,Suggs Free Throw 2 of 3 (13 PTS),,89-98,89,98
+0022100269,2021-11-24,ORL,CHA,44.58,4,3,25,ORL,CHA,foul,2,False,False,,Bridges S.FOUL (P3.PN) (M.Myers),87-98,87,98
+0022100269,2021-11-24,ORL,CHA,44.58,4,3,25,ORL,ORL,ft_make,13,False,False,Suggs Free Throw 1 of 3 (12 PTS),,88-98,88,98
+0022100269,2021-11-24,ORL,CHA,44.58,4,3,25,ORL,ORL,ft_make,15,False,False,Suggs Free Throw 3 of 3 (14 PTS),,90-98,90,98
+0022100269,2021-11-24,ORL,CHA,44.97,4,3,2,CHA,CHA,fg_make,101,False,False,,Rozier 15' Driving Floating Jump Shot (25 PTS),90-100,90,100
+0022100269,2021-11-24,ORL,CHA,45.13,4,2,52,ORL,CHA,steal,1,False,True,steal,steal,90-100,90,100
+0022100269,2021-11-24,ORL,CHA,45.13,4,2,52,ORL,ORL,tov,1,False,True,Bamba Bad Pass Turnover (P3.T15),,90-100,90,100
+0022100269,2021-11-24,ORL,CHA,45.17,4,2,50,CHA,CHA,fg_make,41,False,False,,Rozier 1' Running Layup (27 PTS),90-102,90,102
+0022100269,2021-11-24,ORL,CHA,45.17,4,2,50,CHA,ORL,foul,2,False,False,Suggs S.FOUL (P5.T3) (M.Myers),,90-102,90,102
+0022100269,2021-11-24,ORL,CHA,45.17,4,2,50,CHA,CHA,ft_miss,10,False,False,,MISS Rozier Free Throw 1 of 1,90-102,90,102
+0022100269,2021-11-24,ORL,CHA,45.22,4,2,47,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:9),,90-102,90,102
+0022100269,2021-11-24,ORL,CHA,45.52,4,2,29,ORL,ORL,fg_make,5,False,False,Carter Jr. 2' Layup (14 PTS) (Wagner 4 AST),,92-102,92,102
+0022100269,2021-11-24,ORL,CHA,45.83,4,2,10,CHA,CHA,tov,4,False,False,,Rozier Traveling Turnover (P1.T10),92-102,92,102
+0022100269,2021-11-24,ORL,CHA,46.02,4,1,59,ORL,ORL,fg_make,7,False,False,Bamba 1' Dunk (18 PTS) (Suggs 6 AST),,94-102,94,102
+0022100269,2021-11-24,ORL,CHA,46.42,4,1,35,CHA,CHA,fg_make,6,False,False,,Ball 1' Driving Layup (20 PTS) (Bridges 6 AST),94-104,94,104
+0022100269,2021-11-24,ORL,CHA,46.5,4,1,30,ORL,ORL,fg_make,41,False,False,Suggs 2' Running Layup (16 PTS),,96-104,96,104
+0022100269,2021-11-24,ORL,CHA,46.83,4,1,10,CHA,CHA,fg_miss,75,False,False,,MISS Bridges 4' Driving Finger Roll Layup,96-104,96,104
+0022100269,2021-11-24,ORL,CHA,46.83,4,1,10,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:10),,96-104,96,104
+0022100269,2021-11-24,ORL,CHA,46.93,4,1,4,ORL,CHA,foul,2,False,False,,Martin S.FOUL (P4.PN) (L.Holtkamp),96-104,96,104
+0022100269,2021-11-24,ORL,CHA,46.93,4,1,4,ORL,ORL,ft_miss,11,False,False,MISS Suggs Free Throw 1 of 2,,96-104,96,104
+0022100269,2021-11-24,ORL,CHA,46.93,4,1,4,ORL,ORL,reb,1,False,False,MAGIC Rebound,,96-104,96,104
+0022100269,2021-11-24,ORL,CHA,46.93,4,1,4,ORL,ORL,ft_make,12,False,False,Suggs Free Throw 2 of 2 (17 PTS),,97-104,97,104
+0022100269,2021-11-24,ORL,CHA,47.33,4,0,40,CHA,CHA,fg_make,6,False,False,,Ball 3' Driving Layup (22 PTS),97-106,97,106
+0022100269,2021-11-24,ORL,CHA,47.33,4,0,40,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 6 Short 0),,97-106,97,106
+0022100269,2021-11-24,ORL,CHA,47.38,4,0,37,ORL,ORL,fg3_miss,79,False,False,MISS Suggs 26' 3PT Pullup Jump Shot,,97-106,97,106
+0022100269,2021-11-24,ORL,CHA,47.4,4,0,36,CHA,CHA,reb,0,False,False,,Hornets Rebound,97-106,97,106
+0022100269,2021-11-24,ORL,CHA,47.53,4,0,28,CHA,ORL,foul,1,False,False,Suggs P.FOUL (P6.T4) (T.Ford),,97-106,97,106
+0022100269,2021-11-24,ORL,CHA,47.8,4,0,12,CHA,CHA,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,97-106,97,106
+0022100269,2021-11-24,ORL,CHA,47.87,4,0,8,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:10),,97-106,97,106
+0022100269,2021-11-24,ORL,CHA,47.92,4,0,5,ORL,ORL,fg_make,41,False,False,Wagner 4' Running Layup (16 PTS),,99-106,99,106
+0022100269,2021-11-24,ORL,CHA,48.0,4,0,0,ORL,,period_end,0,False,False,,,99-106,99,106

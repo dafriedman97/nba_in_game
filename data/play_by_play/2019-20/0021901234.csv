@@ -1,0 +1,538 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021901234,2020-07-31,POR,MEM,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021901234,2020-07-31,POR,MEM,0.0,1,12,0,,POR,jump_ball,0,False,False,Jump Ball Nurkic vs. Jackson Jr.: Tip to Lillard,,0-0,0,0
+0021901234,2020-07-31,POR,MEM,0.28,1,11,43,POR,POR,fg_miss,3,False,False,MISS Collins 4' Hook Shot,,0-0,0,0
+0021901234,2020-07-31,POR,MEM,0.32,1,11,41,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:0 Def:1),0-0,0,0
+0021901234,2020-07-31,POR,MEM,0.67,1,11,20,MEM,POR,foul,2,False,False,Nurkic S.FOUL (P1.T1) (D.Guthrie),,0-0,0,0
+0021901234,2020-07-31,POR,MEM,0.67,1,11,20,MEM,MEM,ft_make,11,False,False,,Valanciunas Free Throw 1 of 2 (1 PTS),0-1,0,1
+0021901234,2020-07-31,POR,MEM,0.67,1,11,20,MEM,MEM,ft_make,12,False,False,,Valanciunas Free Throw 2 of 2 (2 PTS),0-2,0,2
+0021901234,2020-07-31,POR,MEM,0.97,1,11,2,POR,POR,fg3_miss,79,False,False,MISS Lillard 28' 3PT Pullup Jump Shot,,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.02,1,10,59,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:1),0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.23,1,10,46,MEM,MEM,tov,2,False,True,,Valanciunas Lost Ball Turnover (P1.T1),0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.23,1,10,46,MEM,POR,steal,2,False,True,steal,steal,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.37,1,10,38,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P1.T1),,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.37,1,10,38,POR,MEM,steal,1,False,True,steal,steal,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.43,1,10,34,MEM,MEM,fg_miss,76,False,False,,MISS Morant 2' Running Finger Roll Layup,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.45,1,10,33,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.63,1,10,22,POR,POR,fg_miss,79,False,False,MISS McCollum 15' Pullup Jump Shot,,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.7,1,10,18,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:1),0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.77,1,10,14,MEM,MEM,fg3_miss,1,False,False,,MISS Anderson 26' 3PT Jump Shot,0-2,0,2
+0021901234,2020-07-31,POR,MEM,1.82,1,10,11,POR,POR,reb,0,False,False,Anthony REBOUND (Off:0 Def:1),,0-2,0,2
+0021901234,2020-07-31,POR,MEM,2.18,1,9,49,POR,POR,fg_make,75,False,False,McCollum 3' Driving Finger Roll Layup (2 PTS) (Lillard 1 AST),,2-2,2,2
+0021901234,2020-07-31,POR,MEM,2.47,1,9,32,MEM,MEM,fg3_make,1,False,False,,Valanciunas 26' 3PT Jump Shot (5 PTS) (Morant 1 AST),2-5,2,5
+0021901234,2020-07-31,POR,MEM,2.7,1,9,18,POR,POR,fg_make,76,False,False,McCollum 1' Running Finger Roll Layup (4 PTS) (Lillard 2 AST),,4-5,4,5
+0021901234,2020-07-31,POR,MEM,3.1,1,8,54,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 3PT Jump Shot (3 PTS) (Brooks 1 AST),4-8,4,8
+0021901234,2020-07-31,POR,MEM,3.32,1,8,41,POR,POR,fg_make,79,False,False,Anthony 9' Pullup Jump Shot (2 PTS) (McCollum 1 AST),,6-8,6,8
+0021901234,2020-07-31,POR,MEM,3.58,1,8,25,MEM,MEM,fg_make,102,False,False,,Jackson Jr. 3' Driving Floating Bank Jump Shot (5 PTS),6-10,6,10
+0021901234,2020-07-31,POR,MEM,3.78,1,8,13,POR,POR,fg_make,7,False,False,Nurkic 1' Dunk (2 PTS) (Collins 1 AST),,8-10,8,10
+0021901234,2020-07-31,POR,MEM,3.78,1,8,13,POR,MEM,foul,2,False,False,,Jackson Jr. S.FOUL (P1.T1) (D.Guthrie),8-10,8,10
+0021901234,2020-07-31,POR,MEM,3.78,1,8,13,POR,POR,ft_make,10,False,False,Nurkic Free Throw 1 of 1 (3 PTS),,9-10,9,10
+0021901234,2020-07-31,POR,MEM,4.02,1,7,59,MEM,MEM,tov,1,False,True,,Morant Bad Pass Turnover (P1.T2),9-10,9,10
+0021901234,2020-07-31,POR,MEM,4.02,1,7,59,MEM,POR,steal,1,False,True,steal,steal,9-10,9,10
+0021901234,2020-07-31,POR,MEM,4.08,1,7,55,POR,MEM,foul,2,False,False,,Brooks S.FOUL (P1.T2) (G.Petraitis),9-10,9,10
+0021901234,2020-07-31,POR,MEM,4.08,1,7,55,POR,POR,ft_make,11,False,False,McCollum Free Throw 1 of 2 (5 PTS),,10-10,10,10
+0021901234,2020-07-31,POR,MEM,4.08,1,7,55,POR,POR,ft_make,12,False,False,McCollum Free Throw 2 of 2 (6 PTS),,11-10,11,10
+0021901234,2020-07-31,POR,MEM,4.28,1,7,43,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 27' 3PT Jump Shot (8 PTS) (Valanciunas 1 AST),11-13,11,13
+0021901234,2020-07-31,POR,MEM,4.48,1,7,31,POR,MEM,foul,2,False,False,,Valanciunas S.FOUL (P1.T3) (D.Guthrie),11-13,11,13
+0021901234,2020-07-31,POR,MEM,4.48,1,7,31,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (1 PTS),,12-13,12,13
+0021901234,2020-07-31,POR,MEM,4.48,1,7,31,POR,POR,ft_miss,12,False,False,MISS Lillard Free Throw 2 of 2,,12-13,12,13
+0021901234,2020-07-31,POR,MEM,4.52,1,7,29,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:2),12-13,12,13
+0021901234,2020-07-31,POR,MEM,4.82,1,7,11,MEM,POR,foul,2,False,False,Collins S.FOUL (P1.T2) (D.Guthrie),,12-13,12,13
+0021901234,2020-07-31,POR,MEM,4.82,1,7,11,MEM,MEM,ft_miss,11,False,False,,MISS Anderson Free Throw 1 of 2,12-13,12,13
+0021901234,2020-07-31,POR,MEM,4.82,1,7,11,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,12-13,12,13
+0021901234,2020-07-31,POR,MEM,4.82,1,7,11,MEM,MEM,ft_make,12,False,False,,Anderson Free Throw 2 of 2 (1 PTS),12-14,12,14
+0021901234,2020-07-31,POR,MEM,5.0,1,7,0,POR,POR,fg_make,79,False,False,Anthony 15' Pullup Jump Shot (4 PTS),,14-14,14,14
+0021901234,2020-07-31,POR,MEM,5.0,1,7,0,POR,MEM,foul,2,False,False,,Anderson S.FOUL (P1.T4) (B.Kennedy),14-14,14,14
+0021901234,2020-07-31,POR,MEM,5.0,1,7,0,POR,POR,ft_make,10,False,False,Anthony Free Throw 1 of 1 (5 PTS),,15-14,15,14
+0021901234,2020-07-31,POR,MEM,5.35,1,6,39,MEM,MEM,fg_miss,80,False,False,,MISS Jackson Jr. 22' Step Back Jump Shot,15-14,15,14
+0021901234,2020-07-31,POR,MEM,5.42,1,6,35,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:1),15-14,15,14
+0021901234,2020-07-31,POR,MEM,5.42,1,6,35,MEM,MEM,fg_make,72,False,False,,Valanciunas 2' Putback Layup (7 PTS),15-16,15,16
+0021901234,2020-07-31,POR,MEM,5.57,1,6,26,POR,POR,fg_make,75,False,False,Lillard 2' Driving Finger Roll Layup (3 PTS),,17-16,17,16
+0021901234,2020-07-31,POR,MEM,5.8,1,6,12,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 3PT Jump Shot,17-16,17,16
+0021901234,2020-07-31,POR,MEM,5.8,1,6,12,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,17-16,17,16
+0021901234,2020-07-31,POR,MEM,5.8,1,6,12,MEM,POR,foul,3,False,False,Whiteside L.B.FOUL (P1.T3) (D.Guthrie),,17-16,17,16
+0021901234,2020-07-31,POR,MEM,5.8,1,6,12,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,17-16,17,16
+0021901234,2020-07-31,POR,MEM,5.92,1,6,5,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 24' 3PT Jump Shot (11 PTS) (Morant 2 AST),17-19,17,19
+0021901234,2020-07-31,POR,MEM,6.22,1,5,47,POR,POR,fg_make,1,False,False,Whiteside 10' Jump Shot (2 PTS) (Nurkic 1 AST),,19-19,19,19
+0021901234,2020-07-31,POR,MEM,6.48,1,5,31,MEM,MEM,fg_make,79,False,False,,Brooks 22' Pullup Jump Shot (2 PTS) (Morant 3 AST),19-21,19,21
+0021901234,2020-07-31,POR,MEM,6.62,1,5,23,POR,POR,fg3_miss,79,False,False,MISS Lillard 29' 3PT Pullup Jump Shot,,19-21,19,21
+0021901234,2020-07-31,POR,MEM,6.67,1,5,20,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:1),19-21,19,21
+0021901234,2020-07-31,POR,MEM,6.88,1,5,7,MEM,MEM,tov,1,False,True,,Morant Bad Pass Turnover (P2.T3),19-21,19,21
+0021901234,2020-07-31,POR,MEM,6.88,1,5,7,MEM,POR,steal,1,False,True,steal,steal,19-21,19,21
+0021901234,2020-07-31,POR,MEM,6.97,1,5,2,POR,POR,fg_miss,6,True,False,MISS Lillard 2' Driving Layup,,19-21,19,21
+0021901234,2020-07-31,POR,MEM,6.97,1,5,2,POR,MEM,block,6,True,False,block,block,19-21,19,21
+0021901234,2020-07-31,POR,MEM,7.02,1,4,59,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:2),19-21,19,21
+0021901234,2020-07-31,POR,MEM,7.22,1,4,47,MEM,MEM,fg3_miss,79,False,False,,MISS Melton 27' 3PT Pullup Jump Shot,19-21,19,21
+0021901234,2020-07-31,POR,MEM,7.27,1,4,44,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:0 Def:1),,19-21,19,21
+0021901234,2020-07-31,POR,MEM,7.37,1,4,38,POR,POR,fg_make,5,False,False,McCollum 3' Layup (8 PTS) (Nurkic 2 AST),,21-21,21,21
+0021901234,2020-07-31,POR,MEM,7.37,1,4,38,POR,MEM,violation,2,False,False,,Clarke Violation:Defensive Goaltending (G.Petraitis),21-21,21,21
+0021901234,2020-07-31,POR,MEM,7.48,1,4,31,MEM,POR,foul,1,False,False,Lillard P.FOUL (P1.T4) (G.Petraitis),,21-21,21,21
+0021901234,2020-07-31,POR,MEM,7.65,1,4,21,MEM,MEM,fg_miss,79,True,False,,MISS Jackson Jr. 6' Pullup Jump Shot,21-21,21,21
+0021901234,2020-07-31,POR,MEM,7.65,1,4,21,MEM,POR,block,79,True,False,block,block,21-21,21,21
+0021901234,2020-07-31,POR,MEM,7.7,1,4,18,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:1),,21-21,21,21
+0021901234,2020-07-31,POR,MEM,7.77,1,4,14,POR,POR,fg_make,75,False,False,Lillard 3' Driving Finger Roll Layup (5 PTS),,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.07,1,3,56,MEM,MEM,fg_miss,75,False,False,,MISS Morant 3' Driving Finger Roll Layup,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.12,1,3,53,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:1),,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.18,1,3,49,POR,POR,fg3_miss,1,False,False,MISS Trent Jr. 25' 3PT Jump Shot,,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.22,1,3,47,POR,POR,reb,0,False,False,Anthony REBOUND (Off:1 Def:1),,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.22,1,3,47,MEM,POR,foul,4,False,False,Anthony OFF.Foul (P1) (G.Petraitis),,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.22,1,3,47,POR,POR,tov,37,False,False,Anthony Offensive Foul Turnover (P1.T2),,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.47,1,3,32,MEM,POR,foul,2,False,False,Whiteside S.FOUL (P2.PN) (G.Petraitis),,23-21,23,21
+0021901234,2020-07-31,POR,MEM,8.47,1,3,32,MEM,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (1 PTS),23-22,23,22
+0021901234,2020-07-31,POR,MEM,8.47,1,3,32,MEM,MEM,ft_make,12,False,False,,Clarke Free Throw 2 of 2 (2 PTS),23-23,23,23
+0021901234,2020-07-31,POR,MEM,8.68,1,3,19,POR,POR,fg_make,80,False,False,Trent Jr. 18' Step Back Jump Shot (2 PTS) (Collins 2 AST),,25-23,25,23
+0021901234,2020-07-31,POR,MEM,8.98,1,3,1,MEM,POR,foul,17,False,False,TRAIL BLAZERS T.Foul (Def. 3 Sec Whiteside ) (D.Guthrie),,25-23,25,23
+0021901234,2020-07-31,POR,MEM,8.98,1,3,1,MEM,MEM,ft_miss,16,False,False,,MISS Melton Free Throw Technical,25-23,25,23
+0021901234,2020-07-31,POR,MEM,8.98,1,3,1,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,25-23,25,23
+0021901234,2020-07-31,POR,MEM,9.08,1,2,55,MEM,POR,foul,1,False,False,Hezonja P.FOUL (P1.PN) (D.Guthrie),,25-23,25,23
+0021901234,2020-07-31,POR,MEM,9.08,1,2,55,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.1 Short 0),25-23,25,23
+0021901234,2020-07-31,POR,MEM,9.08,1,2,55,MEM,MEM,ft_miss,11,False,False,,MISS Melton Free Throw 1 of 2,25-23,25,23
+0021901234,2020-07-31,POR,MEM,9.08,1,2,55,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,25-23,25,23
+0021901234,2020-07-31,POR,MEM,9.08,1,2,55,MEM,MEM,ft_make,12,False,False,,Melton Free Throw 2 of 2 (1 PTS),25-24,25,24
+0021901234,2020-07-31,POR,MEM,9.4,1,2,36,POR,POR,fg3_make,1,False,False,Hezonja 26' 3PT Jump Shot (3 PTS) (Trent Jr. 1 AST),,28-24,28,24
+0021901234,2020-07-31,POR,MEM,9.62,1,2,23,MEM,MEM,tov,2,False,True,,Anderson Lost Ball Turnover (P1.T4),28-24,28,24
+0021901234,2020-07-31,POR,MEM,9.62,1,2,23,MEM,POR,steal,2,False,True,steal,steal,28-24,28,24
+0021901234,2020-07-31,POR,MEM,9.77,1,2,14,POR,POR,fg_make,102,False,False,Hezonja 13' Driving Floating Bank Jump Shot (5 PTS),,30-24,30,24
+0021901234,2020-07-31,POR,MEM,10.0,1,2,0,MEM,POR,foul,1,False,False,Trent Jr. P.FOUL (P1.PN) (D.Guthrie),,30-24,30,24
+0021901234,2020-07-31,POR,MEM,10.0,1,2,0,MEM,MEM,ft_miss,11,False,False,,MISS Melton Free Throw 1 of 2,30-24,30,24
+0021901234,2020-07-31,POR,MEM,10.0,1,2,0,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,30-24,30,24
+0021901234,2020-07-31,POR,MEM,10.0,1,2,0,MEM,MEM,ft_make,12,False,False,,Melton Free Throw 2 of 2 (2 PTS),30-25,30,25
+0021901234,2020-07-31,POR,MEM,10.25,1,1,45,POR,POR,fg_miss,79,False,False,MISS Lillard 19' Pullup Jump Shot,,30-25,30,25
+0021901234,2020-07-31,POR,MEM,10.32,1,1,41,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:0 Def:1),30-25,30,25
+0021901234,2020-07-31,POR,MEM,10.38,1,1,37,MEM,POR,foul,1,False,False,Trent Jr. P.FOUL (P2.PN) (D.Guthrie),,30-25,30,25
+0021901234,2020-07-31,POR,MEM,10.38,1,1,37,MEM,MEM,ft_make,11,False,False,,Valanciunas Free Throw 1 of 2 (8 PTS),30-26,30,26
+0021901234,2020-07-31,POR,MEM,10.38,1,1,37,MEM,MEM,ft_miss,12,False,False,,MISS Valanciunas Free Throw 2 of 2,30-26,30,26
+0021901234,2020-07-31,POR,MEM,10.42,1,1,35,POR,POR,reb,0,False,False,Hezonja REBOUND (Off:0 Def:1),,30-26,30,26
+0021901234,2020-07-31,POR,MEM,10.53,1,1,28,POR,MEM,foul,1,False,False,,Anderson P.FOUL (P2.PN) (B.Kennedy),30-26,30,26
+0021901234,2020-07-31,POR,MEM,10.53,1,1,28,POR,POR,ft_miss,11,False,False,MISS Hezonja Free Throw 1 of 2,,30-26,30,26
+0021901234,2020-07-31,POR,MEM,10.53,1,1,28,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,30-26,30,26
+0021901234,2020-07-31,POR,MEM,10.53,1,1,28,POR,POR,ft_make,12,False,False,Hezonja Free Throw 2 of 2 (6 PTS),,31-26,31,26
+0021901234,2020-07-31,POR,MEM,10.88,1,1,7,MEM,MEM,fg_make,1,False,False,,Valanciunas 7' Jump Shot (10 PTS) (Jackson 1 AST),31-28,31,28
+0021901234,2020-07-31,POR,MEM,11.13,1,0,52,POR,POR,fg3_make,1,False,False,Trent Jr. 25' 3PT Jump Shot (5 PTS) (Lillard 3 AST),,34-28,34,28
+0021901234,2020-07-31,POR,MEM,11.28,1,0,43,MEM,POR,foul,2,False,False,Whiteside S.FOUL (P3.PN) (B.Kennedy),,34-28,34,28
+0021901234,2020-07-31,POR,MEM,11.28,1,0,43,MEM,MEM,ft_make,11,False,False,,Valanciunas Free Throw 1 of 2 (11 PTS),34-29,34,29
+0021901234,2020-07-31,POR,MEM,11.28,1,0,43,MEM,MEM,ft_make,12,False,False,,Valanciunas Free Throw 2 of 2 (12 PTS),34-30,34,30
+0021901234,2020-07-31,POR,MEM,11.43,1,0,34,POR,POR,fg3_miss,79,False,False,MISS Lillard 30' 3PT Pullup Jump Shot,,34-30,34,30
+0021901234,2020-07-31,POR,MEM,11.48,1,0,31,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:2),34-30,34,30
+0021901234,2020-07-31,POR,MEM,11.8,1,0,12,MEM,MEM,fg3_miss,80,False,False,,MISS Morant 27' 3PT Step Back Jump Shot,34-30,34,30
+0021901234,2020-07-31,POR,MEM,11.85,1,0,9,POR,POR,reb,0,False,False,Collins REBOUND (Off:0 Def:1),,34-30,34,30
+0021901234,2020-07-31,POR,MEM,11.98,1,0,1,POR,MEM,foul,2,False,False,,Allen S.FOUL (P1.PN) (D.Guthrie),34-30,34,30
+0021901234,2020-07-31,POR,MEM,11.98,1,0,1,POR,POR,ft_make,11,False,False,Trent Jr. Free Throw 1 of 2 (6 PTS),,35-30,35,30
+0021901234,2020-07-31,POR,MEM,11.98,1,0,1,POR,POR,ft_miss,12,False,False,MISS Trent Jr. Free Throw 2 of 2,,35-30,35,30
+0021901234,2020-07-31,POR,MEM,12.0,1,0,0,POR,POR,reb,0,False,False,Collins REBOUND (Off:1 Def:1),,35-30,35,30
+0021901234,2020-07-31,POR,MEM,12.0,1,0,0,POR,,period_end,0,False,False,,,35-30,35,30
+0021901234,2020-07-31,POR,MEM,12.0,2,12,0,POR,,period_start,0,False,False,,,35-30,35,30
+0021901234,2020-07-31,POR,MEM,12.25,2,11,45,MEM,MEM,fg_make,86,False,False,,Valanciunas 11' Turnaround Fadeaway (14 PTS),35-32,35,32
+0021901234,2020-07-31,POR,MEM,12.52,2,11,29,POR,MEM,foul,1,False,False,,Valanciunas P.FOUL (P2.T1) (B.Kennedy),35-32,35,32
+0021901234,2020-07-31,POR,MEM,12.62,2,11,23,POR,POR,fg_make,43,False,False,McCollum 3' Alley Oop Layup (10 PTS) (Nurkic 3 AST),,37-32,37,32
+0021901234,2020-07-31,POR,MEM,12.88,2,11,7,MEM,MEM,fg3_make,1,False,False,,Brooks 27' 3PT Jump Shot (5 PTS) (Tolliver 1 AST),37-35,37,35
+0021901234,2020-07-31,POR,MEM,12.92,2,11,5,POR,MEM,foul,11,False,False,,Brooks T.FOUL (P1.T1) (D.Guthrie),37-35,37,35
+0021901234,2020-07-31,POR,MEM,12.92,2,11,5,POR,POR,ft_make,16,False,False,Trent Jr. Free Throw Technical (7 PTS),,38-35,38,35
+0021901234,2020-07-31,POR,MEM,13.17,2,10,50,POR,POR,fg3_make,79,False,False,McCollum 25' 3PT Pullup Jump Shot (13 PTS) (Nurkic 4 AST),,41-35,41,35
+0021901234,2020-07-31,POR,MEM,13.38,2,10,37,MEM,MEM,tov,1,False,True,,Brooks Bad Pass Turnover (P1.T5),41-35,41,35
+0021901234,2020-07-31,POR,MEM,13.38,2,10,37,MEM,POR,steal,1,False,True,steal,steal,41-35,41,35
+0021901234,2020-07-31,POR,MEM,13.43,2,10,34,POR,MEM,foul,2,False,False,,Anderson S.FOUL (P3.T2) (G.Petraitis),41-35,41,35
+0021901234,2020-07-31,POR,MEM,13.43,2,10,34,POR,POR,ft_make,11,False,False,Hezonja Free Throw 1 of 2 (7 PTS),,42-35,42,35
+0021901234,2020-07-31,POR,MEM,13.43,2,10,34,POR,POR,ft_make,12,False,False,Hezonja Free Throw 2 of 2 (8 PTS),,43-35,43,35
+0021901234,2020-07-31,POR,MEM,13.58,2,10,25,MEM,MEM,fg3_miss,1,False,False,,MISS Tolliver 26' 3PT Jump Shot,43-35,43,35
+0021901234,2020-07-31,POR,MEM,13.65,2,10,21,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:1 Def:0),43-35,43,35
+0021901234,2020-07-31,POR,MEM,13.78,2,10,13,MEM,MEM,fg3_miss,79,False,False,,MISS Brooks 26' 3PT Pullup Jump Shot,43-35,43,35
+0021901234,2020-07-31,POR,MEM,13.82,2,10,11,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,43-35,43,35
+0021901234,2020-07-31,POR,MEM,13.92,2,10,5,MEM,POR,foul,1,False,False,Collins P.FOUL (P2.T1) (G.Petraitis),,43-35,43,35
+0021901234,2020-07-31,POR,MEM,13.92,2,10,5,MEM,POR,foul,6,False,False,McCollum AWAY.FROM.PLAY.FOUL (P1.T2) (D.Guthrie),,43-35,43,35
+0021901234,2020-07-31,POR,MEM,13.92,2,10,5,MEM,MEM,ft_make,10,False,False,,Brooks Free Throw 1 of 1 (6 PTS),43-36,43,36
+0021901234,2020-07-31,POR,MEM,14.12,2,9,53,MEM,POR,foul,2,False,False,Nurkic S.FOUL (P2.T3) (B.Kennedy),,43-36,43,36
+0021901234,2020-07-31,POR,MEM,14.12,2,9,53,MEM,MEM,ft_make,11,False,False,,Valanciunas Free Throw 1 of 2 (15 PTS),43-37,43,37
+0021901234,2020-07-31,POR,MEM,14.12,2,9,53,MEM,MEM,ft_make,12,False,False,,Valanciunas Free Throw 2 of 2 (16 PTS),43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.33,2,9,40,POR,POR,fg_miss,5,False,False,MISS Nurkic 1' Layup,,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.4,2,9,36,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:1),,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.4,2,9,36,POR,POR,fg_miss,97,False,False,MISS Nurkic 1' Tip Layup Shot,,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.4,2,9,36,MEM,MEM,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.5,2,9,30,POR,MEM,foul,4,False,False,,Valanciunas OFF.Foul (P3) (D.Guthrie),43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.5,2,9,30,MEM,MEM,tov,37,False,False,,Valanciunas Offensive Foul Turnover (P2.T6),43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.68,2,9,19,POR,POR,tov,2,False,True,Nurkic Lost Ball Turnover (P1.T3),,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.68,2,9,19,POR,MEM,steal,2,False,True,steal,steal,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.77,2,9,14,MEM,MEM,fg_miss,76,True,False,,MISS Jackson 5' Running Finger Roll Layup,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.77,2,9,14,MEM,POR,block,76,True,False,block,block,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.82,2,9,11,POR,POR,reb,0,False,False,Collins REBOUND (Off:1 Def:2),,43-38,43,38
+0021901234,2020-07-31,POR,MEM,14.87,2,9,8,POR,POR,fg3_make,1,False,False,Trent Jr. 3PT Jump Shot (10 PTS) (Hezonja 1 AST),,46-38,46,38
+0021901234,2020-07-31,POR,MEM,15.23,2,8,46,MEM,POR,foul,2,False,False,Collins S.FOUL (P3.T4) (G.Petraitis),,46-38,46,38
+0021901234,2020-07-31,POR,MEM,15.23,2,8,46,MEM,MEM,ft_miss,11,False,False,,MISS Jackson Jr. Free Throw 1 of 2,46-38,46,38
+0021901234,2020-07-31,POR,MEM,15.23,2,8,46,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,46-38,46,38
+0021901234,2020-07-31,POR,MEM,15.23,2,8,46,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (12 PTS),46-39,46,39
+0021901234,2020-07-31,POR,MEM,15.47,2,8,32,POR,POR,fg_miss,79,False,False,MISS Anthony 16' Pullup Jump Shot,,46-39,46,39
+0021901234,2020-07-31,POR,MEM,15.52,2,8,29,POR,POR,reb,0,False,False,McCollum REBOUND (Off:1 Def:0),,46-39,46,39
+0021901234,2020-07-31,POR,MEM,15.52,2,8,29,POR,POR,fg_make,72,False,False,McCollum 1' Putback Layup (15 PTS),,48-39,48,39
+0021901234,2020-07-31,POR,MEM,15.75,2,8,15,MEM,MEM,fg3_miss,79,False,False,,MISS Melton 26' 3PT Pullup Jump Shot,48-39,48,39
+0021901234,2020-07-31,POR,MEM,15.82,2,8,11,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:2),,48-39,48,39
+0021901234,2020-07-31,POR,MEM,15.92,2,8,5,POR,POR,fg3_miss,1,False,False,MISS Nurkic 25' 3PT Jump Shot,,48-39,48,39
+0021901234,2020-07-31,POR,MEM,15.97,2,8,2,MEM,MEM,reb,0,False,False,,Tolliver REBOUND (Off:0 Def:1),48-39,48,39
+0021901234,2020-07-31,POR,MEM,16.08,2,7,55,MEM,MEM,fg3_miss,79,False,False,,MISS Brooks 27' 3PT Pullup Jump Shot,48-39,48,39
+0021901234,2020-07-31,POR,MEM,16.12,2,7,53,POR,POR,reb,0,False,False,Hezonja REBOUND (Off:0 Def:2),,48-39,48,39
+0021901234,2020-07-31,POR,MEM,16.32,2,7,41,POR,POR,fg_miss,79,False,False,MISS Trent Jr. 18' Pullup Jump Shot,,48-39,48,39
+0021901234,2020-07-31,POR,MEM,16.38,2,7,37,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:2),48-39,48,39
+0021901234,2020-07-31,POR,MEM,16.5,2,7,30,MEM,POR,foul,2,False,False,Hezonja S.FOUL (P2.PN) (D.Guthrie),,48-39,48,39
+0021901234,2020-07-31,POR,MEM,16.5,2,7,30,MEM,MEM,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (1 PTS),48-40,48,40
+0021901234,2020-07-31,POR,MEM,16.5,2,7,30,MEM,MEM,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (2 PTS),48-41,48,41
+0021901234,2020-07-31,POR,MEM,16.78,2,7,13,POR,POR,fg_make,79,False,False,McCollum 15' Pullup Jump Shot (17 PTS),,50-41,50,41
+0021901234,2020-07-31,POR,MEM,16.95,2,7,3,MEM,POR,foul,1,False,False,Hezonja P.FOUL (P3.PN) (B.Kennedy),,50-41,50,41
+0021901234,2020-07-31,POR,MEM,16.95,2,7,3,MEM,MEM,ft_miss,11,False,False,,MISS Tolliver Free Throw 1 of 2,50-41,50,41
+0021901234,2020-07-31,POR,MEM,16.95,2,7,3,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,50-41,50,41
+0021901234,2020-07-31,POR,MEM,16.95,2,7,3,MEM,MEM,ft_make,12,False,False,,Tolliver Free Throw 2 of 2 (1 PTS),50-42,50,42
+0021901234,2020-07-31,POR,MEM,17.25,2,6,45,POR,POR,tov,4,False,False,McCollum Traveling Turnover (P1.T4),,50-42,50,42
+0021901234,2020-07-31,POR,MEM,17.25,2,6,45,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,50-42,50,42
+0021901234,2020-07-31,POR,MEM,17.48,2,6,31,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 3PT Jump Shot,50-42,50,42
+0021901234,2020-07-31,POR,MEM,17.53,2,6,28,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:3),,50-42,50,42
+0021901234,2020-07-31,POR,MEM,17.72,2,6,17,POR,POR,fg_make,98,False,False,Anthony 2' Cutting Layup Shot (7 PTS) (McCollum 2 AST),,52-42,52,42
+0021901234,2020-07-31,POR,MEM,17.82,2,6,11,MEM,MEM,tov,2,False,True,,Jackson Lost Ball Turnover (P1.T7),52-42,52,42
+0021901234,2020-07-31,POR,MEM,17.82,2,6,11,MEM,POR,steal,2,False,True,steal,steal,52-42,52,42
+0021901234,2020-07-31,POR,MEM,17.88,2,6,7,POR,POR,fg3_miss,79,False,False,MISS McCollum 28' 3PT Pullup Jump Shot,,52-42,52,42
+0021901234,2020-07-31,POR,MEM,17.95,2,6,3,MEM,MEM,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),52-42,52,42
+0021901234,2020-07-31,POR,MEM,18.05,2,5,57,MEM,MEM,fg_miss,6,True,False,,MISS Jackson 7' Driving Layup,52-42,52,42
+0021901234,2020-07-31,POR,MEM,18.05,2,5,57,MEM,POR,block,6,True,False,block,block,52-42,52,42
+0021901234,2020-07-31,POR,MEM,18.08,2,5,55,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:2),,52-42,52,42
+0021901234,2020-07-31,POR,MEM,18.12,2,5,53,POR,MEM,foul,2,False,False,,Allen S.FOUL (P2.T3) (B.Kennedy),52-42,52,42
+0021901234,2020-07-31,POR,MEM,18.12,2,5,53,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,52-42,52,42
+0021901234,2020-07-31,POR,MEM,18.12,2,5,53,POR,POR,ft_make,11,False,False,Nurkic Free Throw 1 of 2 (4 PTS),,53-42,53,42
+0021901234,2020-07-31,POR,MEM,18.12,2,5,53,POR,POR,ft_make,12,False,False,Nurkic Free Throw 2 of 2 (5 PTS),,54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.38,2,5,37,MEM,MEM,fg_miss,78,False,False,,MISS Clarke 12' Floating Jump Shot,54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.45,2,5,33,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:4),,54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.65,2,5,21,POR,POR,tov,1,False,True,Nurkic Bad Pass Turnover (P2.T5),,54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.65,2,5,21,POR,MEM,steal,1,False,True,steal,steal,54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.77,2,5,14,MEM,MEM,tov,1,False,True,,Allen Bad Pass Turnover (P1.T8),54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.77,2,5,14,MEM,POR,steal,1,False,True,steal,steal,54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.92,2,5,5,POR,POR,fg3_miss,1,False,False,MISS Anthony 25' 3PT Jump Shot,,54-42,54,42
+0021901234,2020-07-31,POR,MEM,18.97,2,5,2,MEM,MEM,reb,0,False,False,,Jackson REBOUND (Off:0 Def:3),54-42,54,42
+0021901234,2020-07-31,POR,MEM,19.0,2,5,0,MEM,POR,foul,1,False,False,McCollum P.FOUL (P2.PN) (B.Kennedy),,54-42,54,42
+0021901234,2020-07-31,POR,MEM,19.0,2,5,0,MEM,MEM,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (3 PTS),54-43,54,43
+0021901234,2020-07-31,POR,MEM,19.0,2,5,0,MEM,MEM,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (4 PTS),54-44,54,44
+0021901234,2020-07-31,POR,MEM,19.23,2,4,46,POR,POR,fg3_miss,1,False,False,MISS Lillard 3PT Jump Shot,,54-44,54,44
+0021901234,2020-07-31,POR,MEM,19.28,2,4,43,MEM,MEM,reb,0,False,False,,Jackson REBOUND (Off:0 Def:4),54-44,54,44
+0021901234,2020-07-31,POR,MEM,19.42,2,4,35,MEM,MEM,fg_make,47,False,False,,Clarke 7' Turnaround Jump Shot (4 PTS) (Jackson 2 AST),54-46,54,46
+0021901234,2020-07-31,POR,MEM,19.83,2,4,10,POR,POR,fg3_miss,1,False,False,MISS McCollum 3PT Jump Shot,,54-46,54,46
+0021901234,2020-07-31,POR,MEM,19.88,2,4,7,MEM,MEM,reb,0,False,False,,Jackson REBOUND (Off:0 Def:5),54-46,54,46
+0021901234,2020-07-31,POR,MEM,19.95,2,4,3,MEM,MEM,fg_make,102,False,False,,Jackson 4' Driving Floating Bank Jump Shot (6 PTS),54-48,54,48
+0021901234,2020-07-31,POR,MEM,20.23,2,3,46,POR,POR,fg_make,47,False,False,Anthony 14' Turnaround Jump Shot (9 PTS) (McCollum 3 AST),,56-48,56,48
+0021901234,2020-07-31,POR,MEM,20.62,2,3,23,MEM,MEM,fg_make,79,False,False,,Allen 11' Pullup Jump Shot (2 PTS) (Morant 4 AST),56-50,56,50
+0021901234,2020-07-31,POR,MEM,21.08,2,2,55,POR,POR,fg_make,75,False,False,Lillard 2' Driving Finger Roll Layup (7 PTS),,58-50,58,50
+0021901234,2020-07-31,POR,MEM,21.28,2,2,43,MEM,MEM,tov,2,False,True,,Jackson Jr. Lost Ball Turnover (P1.T9),58-50,58,50
+0021901234,2020-07-31,POR,MEM,21.28,2,2,43,MEM,POR,steal,2,False,True,steal,steal,58-50,58,50
+0021901234,2020-07-31,POR,MEM,21.37,2,2,38,POR,POR,fg3_make,80,False,False,Lillard 28' 3PT Step Back Jump Shot (10 PTS) (McCollum 4 AST),,61-50,61,50
+0021901234,2020-07-31,POR,MEM,21.38,2,2,37,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.2 Short 0),61-50,61,50
+0021901234,2020-07-31,POR,MEM,21.6,2,2,24,MEM,MEM,fg_make,75,False,False,,Morant 2' Driving Finger Roll Layup (2 PTS) (Clarke 1 AST),61-52,61,52
+0021901234,2020-07-31,POR,MEM,21.98,2,2,1,POR,POR,fg_miss,5,True,False,MISS Whiteside 3' Layup,,61-52,61,52
+0021901234,2020-07-31,POR,MEM,21.98,2,2,1,POR,MEM,block,5,True,False,block,block,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.0,2,2,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.02,2,1,59,POR,POR,fg_miss,79,False,False,MISS Trent Jr. 12' Pullup Jump Shot,,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.02,2,1,59,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.02,2,1,59,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#6),,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.25,2,1,45,MEM,MEM,fg3_miss,79,False,False,,MISS Morant 28' 3PT Pullup Jump Shot,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.3,2,1,42,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:1 Def:2),61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.3,2,1,42,MEM,MEM,fg3_miss,1,False,False,,MISS Brooks 27' 3PT Jump Shot,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.33,2,1,40,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.33,2,1,40,MEM,POR,foul,3,False,False,Whiteside L.B.FOUL (P4.PN) (D.Guthrie),,61-52,61,52
+0021901234,2020-07-31,POR,MEM,22.33,2,1,40,MEM,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (5 PTS),61-53,61,53
+0021901234,2020-07-31,POR,MEM,22.33,2,1,40,MEM,MEM,ft_make,12,False,False,,Clarke Free Throw 2 of 2 (6 PTS),61-54,61,54
+0021901234,2020-07-31,POR,MEM,22.6,2,1,24,POR,POR,fg_make,79,False,False,Anthony 13' Pullup Jump Shot (11 PTS) (Trent Jr. 2 AST),,63-54,63,54
+0021901234,2020-07-31,POR,MEM,23.02,2,0,59,MEM,MEM,fg_make,5,False,False,,Clarke 1' Layup (8 PTS) (Brooks 2 AST),63-56,63,56
+0021901234,2020-07-31,POR,MEM,23.05,2,0,57,POR,MEM,foul,1,False,False,,Brooks P.FOUL (P2.T4) (G.Petraitis),63-56,63,56
+0021901234,2020-07-31,POR,MEM,23.15,2,0,51,POR,POR,fg_miss,78,False,False,MISS Nurkic 15' Floating Jump Shot,,63-56,63,56
+0021901234,2020-07-31,POR,MEM,23.2,2,0,48,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:0 Def:2),63-56,63,56
+0021901234,2020-07-31,POR,MEM,23.25,2,0,45,MEM,MEM,fg3_miss,1,False,False,,MISS Brooks 26' 3PT Jump Shot,63-56,63,56
+0021901234,2020-07-31,POR,MEM,23.25,2,0,45,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,63-56,63,56
+0021901234,2020-07-31,POR,MEM,23.28,2,0,43,MEM,POR,foul,3,False,False,Anthony L.B.FOUL (P2.PN) (G.Petraitis),,63-56,63,56
+0021901234,2020-07-31,POR,MEM,23.28,2,0,43,MEM,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (9 PTS),63-57,63,57
+0021901234,2020-07-31,POR,MEM,23.28,2,0,43,MEM,MEM,ft_make,12,False,False,,Clarke Free Throw 2 of 2 (10 PTS),63-58,63,58
+0021901234,2020-07-31,POR,MEM,23.47,2,0,32,POR,POR,fg_make,101,False,False,McCollum 10' Driving Floating Jump Shot (19 PTS),,65-58,65,58
+0021901234,2020-07-31,POR,MEM,23.82,2,0,11,MEM,MEM,fg_make,108,False,False,,Melton 1' Cutting Dunk Shot (4 PTS) (Morant 5 AST),65-60,65,60
+0021901234,2020-07-31,POR,MEM,23.98,2,0,1,POR,POR,fg3_make,1,False,False,Trent Jr. 3PT Jump Shot (13 PTS) (Lillard 4 AST),,68-60,68,60
+0021901234,2020-07-31,POR,MEM,24.0,2,0,0,POR,,period_end,0,False,False,,,68-60,68,60
+0021901234,2020-07-31,POR,MEM,24.0,3,12,0,POR,,period_start,0,False,False,,,68-60,68,60
+0021901234,2020-07-31,POR,MEM,24.23,3,11,46,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 25' 3PT Jump Shot,68-60,68,60
+0021901234,2020-07-31,POR,MEM,24.28,3,11,43,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:5),,68-60,68,60
+0021901234,2020-07-31,POR,MEM,24.47,3,11,32,POR,POR,fg_make,75,False,False,Lillard 4' Driving Finger Roll Layup (12 PTS),,70-60,70,60
+0021901234,2020-07-31,POR,MEM,24.63,3,11,22,MEM,POR,foul,1,False,False,Anthony P.FOUL (P3.T1) (G.Petraitis),,70-60,70,60
+0021901234,2020-07-31,POR,MEM,24.82,3,11,11,MEM,MEM,fg_miss,6,True,False,,MISS Morant 3' Driving Layup,70-60,70,60
+0021901234,2020-07-31,POR,MEM,24.82,3,11,11,MEM,POR,block,6,True,False,block,block,70-60,70,60
+0021901234,2020-07-31,POR,MEM,24.82,3,11,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,70-60,70,60
+0021901234,2020-07-31,POR,MEM,25.03,3,10,58,POR,POR,fg_make,47,False,False,Nurkic 8' Turnaround Jump Shot (7 PTS) (Lillard 5 AST),,72-60,72,60
+0021901234,2020-07-31,POR,MEM,25.03,3,10,58,POR,MEM,foul,2,False,False,,Valanciunas S.FOUL (P4.T1) (B.Kennedy),72-60,72,60
+0021901234,2020-07-31,POR,MEM,25.03,3,10,58,POR,POR,ft_make,10,False,False,Nurkic Free Throw 1 of 1 (8 PTS),,73-60,73,60
+0021901234,2020-07-31,POR,MEM,25.17,3,10,50,MEM,MEM,fg_make,79,False,False,,Brooks 16' Pullup Jump Shot (8 PTS) (Anderson 1 AST),73-62,73,62
+0021901234,2020-07-31,POR,MEM,25.5,3,10,30,POR,POR,fg_make,75,False,False,Lillard 2' Driving Finger Roll Layup (14 PTS),,75-62,75,62
+0021901234,2020-07-31,POR,MEM,25.65,3,10,21,MEM,POR,foul,2,False,False,Collins S.FOUL (P4.T2) (B.Kennedy),,75-62,75,62
+0021901234,2020-07-31,POR,MEM,25.65,3,10,21,MEM,MEM,ft_miss,11,False,False,,MISS Jackson Jr. Free Throw 1 of 2,75-62,75,62
+0021901234,2020-07-31,POR,MEM,25.65,3,10,21,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,75-62,75,62
+0021901234,2020-07-31,POR,MEM,25.65,3,10,21,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (13 PTS),75-63,75,63
+0021901234,2020-07-31,POR,MEM,25.9,3,10,6,POR,MEM,foul,1,False,False,,Jackson Jr. P.FOUL (P2.T2) (B.Kennedy),75-63,75,63
+0021901234,2020-07-31,POR,MEM,26.12,3,9,53,POR,POR,fg_miss,58,False,False,MISS Nurkic 7' Turnaround Hook Shot,,75-63,75,63
+0021901234,2020-07-31,POR,MEM,26.15,3,9,51,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:0 Def:1),75-63,75,63
+0021901234,2020-07-31,POR,MEM,26.22,3,9,47,MEM,MEM,fg3_make,1,False,False,,Brooks 24' 3PT Jump Shot (11 PTS) (Morant 6 AST),75-66,75,66
+0021901234,2020-07-31,POR,MEM,26.48,3,9,31,POR,MEM,foul,1,False,False,,Brooks P.FOUL (P3.T3) (G.Petraitis),75-66,75,66
+0021901234,2020-07-31,POR,MEM,26.67,3,9,20,POR,POR,fg_miss,47,False,False,MISS Nurkic 7' Turnaround Jump Shot,,75-66,75,66
+0021901234,2020-07-31,POR,MEM,26.68,3,9,19,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,75-66,75,66
+0021901234,2020-07-31,POR,MEM,26.93,3,9,4,MEM,MEM,fg3_miss,1,False,False,,MISS Anderson 3PT Jump Shot,75-66,75,66
+0021901234,2020-07-31,POR,MEM,26.98,3,9,1,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:6),,75-66,75,66
+0021901234,2020-07-31,POR,MEM,27.1,3,8,54,POR,MEM,foul,2,False,False,,Brooks S.FOUL (P4.T4) (D.Guthrie),75-66,75,66
+0021901234,2020-07-31,POR,MEM,27.1,3,8,54,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (15 PTS),,76-66,76,66
+0021901234,2020-07-31,POR,MEM,27.1,3,8,54,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.3 Short 0),76-66,76,66
+0021901234,2020-07-31,POR,MEM,27.1,3,8,54,MEM,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (16 PTS),,77-66,77,66
+0021901234,2020-07-31,POR,MEM,27.35,3,8,39,MEM,MEM,fg_make,9,False,False,,Jackson Jr. 1' Driving Dunk (15 PTS),77-68,77,68
+0021901234,2020-07-31,POR,MEM,27.72,3,8,17,POR,POR,fg3_miss,1,False,False,MISS Lillard 28' 3PT Jump Shot,,77-68,77,68
+0021901234,2020-07-31,POR,MEM,27.77,3,8,14,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,77-68,77,68
+0021901234,2020-07-31,POR,MEM,27.95,3,8,3,MEM,MEM,fg_make,78,False,False,,Clarke 3' Floating Jump Shot (12 PTS) (Morant 7 AST),77-70,77,70
+0021901234,2020-07-31,POR,MEM,28.13,3,7,52,MEM,POR,foul,26,False,False,Anthony Offensive Charge Foul (P4.T3) (B.Kennedy),,77-70,77,70
+0021901234,2020-07-31,POR,MEM,28.13,3,7,52,POR,POR,tov,37,False,False,Anthony Offensive Foul Turnover (P2.T7),,77-70,77,70
+0021901234,2020-07-31,POR,MEM,28.25,3,7,45,MEM,MEM,fg_make,6,False,False,,Morant 4' Driving Layup (4 PTS),77-72,77,72
+0021901234,2020-07-31,POR,MEM,28.42,3,7,35,POR,MEM,foul,1,False,False,,Anderson P.FOUL (P4.PN) (B.Kennedy),77-72,77,72
+0021901234,2020-07-31,POR,MEM,28.42,3,7,35,POR,POR,ft_make,11,False,False,Anthony Free Throw 1 of 2 (12 PTS),,78-72,78,72
+0021901234,2020-07-31,POR,MEM,28.42,3,7,35,POR,POR,ft_make,12,False,False,Anthony Free Throw 2 of 2 (13 PTS),,79-72,79,72
+0021901234,2020-07-31,POR,MEM,28.53,3,7,28,MEM,MEM,fg_miss,101,False,False,,MISS Morant 7' Driving Floating Jump Shot,79-72,79,72
+0021901234,2020-07-31,POR,MEM,28.6,3,7,24,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:2),79-72,79,72
+0021901234,2020-07-31,POR,MEM,28.67,3,7,20,MEM,MEM,fg_miss,5,False,False,,MISS Morant 8' Layup,79-72,79,72
+0021901234,2020-07-31,POR,MEM,28.7,3,7,18,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:1),79-72,79,72
+0021901234,2020-07-31,POR,MEM,28.72,3,7,17,MEM,MEM,fg_make,5,False,False,,Jackson Jr. 3' Layup (17 PTS),79-74,79,74
+0021901234,2020-07-31,POR,MEM,28.98,3,7,1,POR,POR,tov,1,False,True,Anthony Bad Pass Turnover (P3.T8),,79-74,79,74
+0021901234,2020-07-31,POR,MEM,28.98,3,7,1,POR,MEM,steal,1,False,True,steal,steal,79-74,79,74
+0021901234,2020-07-31,POR,MEM,29.1,3,6,54,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 27' 3PT Jump Shot (20 PTS) (Melton 1 AST),79-77,79,77
+0021901234,2020-07-31,POR,MEM,29.13,3,6,52,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,79-77,79,77
+0021901234,2020-07-31,POR,MEM,29.33,3,6,40,POR,POR,fg_make,99,False,False,Nurkic 2' Cutting Finger Roll Layup Shot (10 PTS) (McCollum 5 AST),,81-77,81,77
+0021901234,2020-07-31,POR,MEM,29.57,3,6,26,MEM,MEM,tov,1,False,True,,Melton Bad Pass Turnover (P1.T10),81-77,81,77
+0021901234,2020-07-31,POR,MEM,29.57,3,6,26,MEM,POR,steal,1,False,True,steal,steal,81-77,81,77
+0021901234,2020-07-31,POR,MEM,29.75,3,6,15,POR,POR,tov,13,False,False,Lillard Backcourt Turnover (P2.T9),,81-77,81,77
+0021901234,2020-07-31,POR,MEM,29.97,3,6,2,MEM,MEM,fg3_make,79,False,False,,Morant 26' 3PT Pullup Jump Shot (7 PTS),81-80,81,80
+0021901234,2020-07-31,POR,MEM,30.2,3,5,48,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P3.T10),,81-80,81,80
+0021901234,2020-07-31,POR,MEM,30.2,3,5,48,POR,MEM,steal,1,False,True,steal,steal,81-80,81,80
+0021901234,2020-07-31,POR,MEM,30.28,3,5,43,MEM,MEM,fg_make,76,False,False,,Morant 2' Running Finger Roll Layup (9 PTS),81-82,81,82
+0021901234,2020-07-31,POR,MEM,30.73,3,5,16,POR,POR,tov,2,False,True,Hezonja Lost Ball Turnover (P1.T11),,81-82,81,82
+0021901234,2020-07-31,POR,MEM,30.73,3,5,16,POR,MEM,steal,2,False,True,steal,steal,81-82,81,82
+0021901234,2020-07-31,POR,MEM,30.8,3,5,12,MEM,MEM,fg_make,52,False,False,,Morant 1' Alley Oop Dunk (11 PTS) (Clarke 2 AST),81-84,81,84
+0021901234,2020-07-31,POR,MEM,30.8,3,5,12,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,81-84,81,84
+0021901234,2020-07-31,POR,MEM,31.15,3,4,51,POR,POR,fg3_miss,79,False,False,MISS McCollum 26' 3PT Pullup Jump Shot,,81-84,81,84
+0021901234,2020-07-31,POR,MEM,31.22,3,4,47,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:0 Def:3),81-84,81,84
+0021901234,2020-07-31,POR,MEM,31.3,3,4,42,MEM,POR,foul,1,False,False,Lillard P.FOUL (P2.T4) (B.Kennedy),,81-84,81,84
+0021901234,2020-07-31,POR,MEM,31.5,3,4,30,MEM,POR,foul,2,False,False,Hezonja S.FOUL (P4.PN) (D.Guthrie),,81-84,81,84
+0021901234,2020-07-31,POR,MEM,31.5,3,4,30,MEM,MEM,ft_make,11,False,False,,Morant Free Throw 1 of 2 (12 PTS),81-85,81,85
+0021901234,2020-07-31,POR,MEM,31.5,3,4,30,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (13 PTS),81-86,81,86
+0021901234,2020-07-31,POR,MEM,31.78,3,4,13,POR,POR,fg_miss,73,False,False,MISS Lillard 3' Driving Reverse Layup,,81-86,81,86
+0021901234,2020-07-31,POR,MEM,31.83,3,4,10,MEM,MEM,reb,0,False,False,,Allen REBOUND (Off:0 Def:1),81-86,81,86
+0021901234,2020-07-31,POR,MEM,31.92,3,4,5,MEM,MEM,fg_miss,6,True,False,,MISS Morant Driving Layup,81-86,81,86
+0021901234,2020-07-31,POR,MEM,31.92,3,4,5,MEM,POR,block,6,True,False,block,block,81-86,81,86
+0021901234,2020-07-31,POR,MEM,31.98,3,4,1,POR,POR,reb,0,False,False,McCollum REBOUND (Off:1 Def:1),,81-86,81,86
+0021901234,2020-07-31,POR,MEM,32.03,3,3,58,,POR,jump_ball,0,False,False,Jump Ball McCollum vs. Jackson Jr.: Tip to Collins,,81-86,81,86
+0021901234,2020-07-31,POR,MEM,32.17,3,3,50,POR,POR,fg_miss,6,True,False,MISS McCollum 3' Driving Layup,,81-86,81,86
+0021901234,2020-07-31,POR,MEM,32.17,3,3,50,POR,MEM,block,6,True,False,block,block,81-86,81,86
+0021901234,2020-07-31,POR,MEM,32.22,3,3,47,MEM,MEM,reb,0,False,False,,Allen REBOUND (Off:0 Def:2),81-86,81,86
+0021901234,2020-07-31,POR,MEM,32.28,3,3,43,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 25' 3PT Jump Shot (23 PTS) (Morant 8 AST),81-89,81,89
+0021901234,2020-07-31,POR,MEM,32.65,3,3,21,POR,POR,fg3_miss,1,False,False,MISS Collins 28' 3PT Jump Shot,,81-89,81,89
+0021901234,2020-07-31,POR,MEM,32.7,3,3,18,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:0 Def:4),81-89,81,89
+0021901234,2020-07-31,POR,MEM,32.75,3,3,15,MEM,MEM,fg3_make,1,False,False,,Allen 24' 3PT Jump Shot (5 PTS) (Melton 2 AST),81-92,81,92
+0021901234,2020-07-31,POR,MEM,33.2,3,2,48,POR,POR,fg_miss,47,False,False,MISS Collins 4' Turnaround Jump Shot,,81-92,81,92
+0021901234,2020-07-31,POR,MEM,33.22,3,2,47,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:1 Def:1),,81-92,81,92
+0021901234,2020-07-31,POR,MEM,33.28,3,2,43,,POR,jump_ball,0,False,False,Jump Ball Whiteside vs. Melton: Tip to Lillard,,81-92,81,92
+0021901234,2020-07-31,POR,MEM,33.42,3,2,35,POR,POR,fg_miss,79,False,False,MISS Hezonja 17' Pullup Jump Shot,,81-92,81,92
+0021901234,2020-07-31,POR,MEM,33.47,3,2,32,POR,POR,reb,0,False,False,Collins REBOUND (Off:2 Def:2),,81-92,81,92
+0021901234,2020-07-31,POR,MEM,33.48,3,2,31,POR,POR,fg_make,5,False,False,Collins 2' Layup (2 PTS),,83-92,83,92
+0021901234,2020-07-31,POR,MEM,33.65,3,2,21,MEM,POR,foul,1,False,False,Trent Jr. P.FOUL (P3.PN) (B.Kennedy),,83-92,83,92
+0021901234,2020-07-31,POR,MEM,33.65,3,2,21,MEM,MEM,ft_make,11,False,False,,Jackson Jr. Free Throw 1 of 2 (24 PTS),83-93,83,93
+0021901234,2020-07-31,POR,MEM,33.65,3,2,21,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (25 PTS),83-94,83,94
+0021901234,2020-07-31,POR,MEM,34.02,3,1,59,POR,POR,fg_miss,6,False,False,MISS Lillard 2' Driving Layup,,83-94,83,94
+0021901234,2020-07-31,POR,MEM,34.05,3,1,57,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:2 Def:1),,83-94,83,94
+0021901234,2020-07-31,POR,MEM,34.05,3,1,57,POR,POR,fg_make,97,False,False,Whiteside 1' Tip Layup Shot (4 PTS),,85-94,85,94
+0021901234,2020-07-31,POR,MEM,34.28,3,1,43,MEM,MEM,tov,4,False,False,,Allen Traveling Turnover (P2.T11),85-94,85,94
+0021901234,2020-07-31,POR,MEM,34.47,3,1,32,POR,POR,fg3_make,80,False,False,Lillard 26' 3PT Step Back Jump Shot (19 PTS),,88-94,88,94
+0021901234,2020-07-31,POR,MEM,34.73,3,1,16,MEM,MEM,fg_miss,75,False,False,,MISS Allen 2' Driving Finger Roll Layup,88-94,88,94
+0021901234,2020-07-31,POR,MEM,34.77,3,1,14,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:2 Def:2),,88-94,88,94
+0021901234,2020-07-31,POR,MEM,34.82,3,1,11,POR,POR,fg_miss,6,False,False,MISS Hezonja 2' Driving Layup,,88-94,88,94
+0021901234,2020-07-31,POR,MEM,34.85,3,1,9,MEM,MEM,reb,0,False,False,,Jackson REBOUND (Off:0 Def:6),88-94,88,94
+0021901234,2020-07-31,POR,MEM,34.97,3,1,2,MEM,MEM,fg_make,7,False,False,,Jackson Dunk (8 PTS) (Tolliver 2 AST),88-96,88,96
+0021901234,2020-07-31,POR,MEM,35.25,3,0,45,POR,MEM,foul,1,False,False,,Melton P.FOUL (P1.PN) (G.Petraitis),88-96,88,96
+0021901234,2020-07-31,POR,MEM,35.25,3,0,45,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (20 PTS),,89-96,89,96
+0021901234,2020-07-31,POR,MEM,35.25,3,0,45,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (21 PTS),,90-96,90,96
+0021901234,2020-07-31,POR,MEM,35.47,3,0,32,MEM,MEM,fg3_miss,80,True,False,,MISS Morant 25' 3PT Step Back Jump Shot,90-96,90,96
+0021901234,2020-07-31,POR,MEM,35.47,3,0,32,MEM,POR,block,80,True,False,block,block,90-96,90,96
+0021901234,2020-07-31,POR,MEM,35.53,3,0,28,POR,POR,reb,0,False,False,Hezonja REBOUND (Off:0 Def:3),,90-96,90,96
+0021901234,2020-07-31,POR,MEM,35.8,3,0,12,POR,POR,fg3_make,1,False,False,Collins 25' 3PT Jump Shot (5 PTS) (Lillard 6 AST),,93-96,93,96
+0021901234,2020-07-31,POR,MEM,36.0,3,0,0,MEM,MEM,fg3_miss,1,False,False,,MISS Tolliver 27' 3PT Jump Shot,93-96,93,96
+0021901234,2020-07-31,POR,MEM,36.0,3,0,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,93-96,93,96
+0021901234,2020-07-31,POR,MEM,36.0,3,0,0,MEM,,period_end,0,False,False,,,93-96,93,96
+0021901234,2020-07-31,POR,MEM,36.0,4,12,0,MEM,,period_start,0,False,False,,,93-96,93,96
+0021901234,2020-07-31,POR,MEM,36.33,4,11,40,POR,POR,fg_make,6,False,False,McCollum 3' Driving Layup (21 PTS) (Hezonja 2 AST),,95-96,95,96
+0021901234,2020-07-31,POR,MEM,36.58,4,11,25,MEM,MEM,fg_miss,6,False,False,,MISS Allen 3' Driving Layup,95-96,95,96
+0021901234,2020-07-31,POR,MEM,36.63,4,11,22,POR,POR,reb,0,False,False,Trent Jr. REBOUND (Off:0 Def:1),,95-96,95,96
+0021901234,2020-07-31,POR,MEM,36.8,4,11,12,POR,POR,fg_make,47,False,False,Whiteside 9' Turnaround Jump Shot (6 PTS),,97-96,97,96
+0021901234,2020-07-31,POR,MEM,36.8,4,11,12,POR,MEM,foul,2,False,False,,Tolliver S.FOUL (P1.T1) (B.Kennedy),97-96,97,96
+0021901234,2020-07-31,POR,MEM,36.8,4,11,12,POR,POR,ft_make,10,False,False,Whiteside Free Throw 1 of 1 (7 PTS),,98-96,98,96
+0021901234,2020-07-31,POR,MEM,36.92,4,11,5,MEM,POR,foul,1,False,False,McCollum P.FOUL (P3.T1) (B.Kennedy),,98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.02,4,10,59,MEM,MEM,fg_miss,79,False,False,,MISS Anderson 13' Pullup Jump Shot,98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.07,4,10,56,POR,POR,reb,0,False,False,Hezonja REBOUND (Off:0 Def:4),,98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.27,4,10,44,POR,POR,fg3_miss,80,False,False,MISS Hezonja 26' 3PT Step Back Jump Shot,,98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.35,4,10,39,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:3),98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.48,4,10,31,MEM,MEM,fg_miss,6,True,False,,MISS Anderson 6' Driving Layup,98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.48,4,10,31,MEM,POR,block,6,True,False,block,block,98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.48,4,10,31,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,98-96,98,96
+0021901234,2020-07-31,POR,MEM,37.65,4,10,21,MEM,MEM,fg3_make,1,False,False,,Tolliver 24' 3PT Jump Shot (4 PTS) (Brooks 3 AST),98-99,98,99
+0021901234,2020-07-31,POR,MEM,38.02,4,9,59,POR,MEM,foul,1,False,False,,Valanciunas P.FOUL (P5.T2) (D.Guthrie),98-99,98,99
+0021901234,2020-07-31,POR,MEM,38.22,4,9,47,,POR,jump_ball,0,False,False,Jump Ball Hezonja vs. Anderson: Tip to Jackson Jr.,,98-99,98,99
+0021901234,2020-07-31,POR,MEM,38.22,4,9,47,POR,POR,tov,2,False,True,Hezonja Lost Ball Turnover (P2.T12),,98-99,98,99
+0021901234,2020-07-31,POR,MEM,38.22,4,9,47,POR,MEM,steal,2,False,True,steal,steal,98-99,98,99
+0021901234,2020-07-31,POR,MEM,38.33,4,9,40,MEM,MEM,fg_make,79,False,False,,Brooks 18' Pullup Jump Shot (13 PTS),98-101,98,101
+0021901234,2020-07-31,POR,MEM,38.72,4,9,17,POR,MEM,foul,1,False,False,,Jackson Jr. P.FOUL (P3.T3) (G.Petraitis),98-101,98,101
+0021901234,2020-07-31,POR,MEM,38.83,4,9,10,POR,POR,fg_make,1,False,False,McCollum 20' Jump Shot (23 PTS) (Nurkic 5 AST),,100-101,100,101
+0021901234,2020-07-31,POR,MEM,38.85,4,9,9,MEM,POR,foul,11,False,False,McCollum T.FOUL (P3.T1) (G.Petraitis),,100-101,100,101
+0021901234,2020-07-31,POR,MEM,38.85,4,9,9,MEM,MEM,ft_miss,16,False,False,,MISS Allen Free Throw Technical,100-101,100,101
+0021901234,2020-07-31,POR,MEM,38.85,4,9,9,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,100-101,100,101
+0021901234,2020-07-31,POR,MEM,39.1,4,8,54,MEM,MEM,fg_make,75,False,False,,Brooks 2' Driving Finger Roll Layup (15 PTS),100-103,100,103
+0021901234,2020-07-31,POR,MEM,39.45,4,8,33,POR,POR,fg3_miss,1,False,False,MISS Lillard 26' 3PT Jump Shot,,100-103,100,103
+0021901234,2020-07-31,POR,MEM,39.5,4,8,30,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:1 Def:1),100-103,100,103
+0021901234,2020-07-31,POR,MEM,39.57,4,8,26,MEM,MEM,fg3_make,1,False,False,,Anderson 25' 3PT Jump Shot (4 PTS) (Brooks 4 AST),100-106,100,106
+0021901234,2020-07-31,POR,MEM,39.85,4,8,9,POR,MEM,foul,2,False,False,,Anderson S.FOUL (P5.T4) (B.Kennedy),100-106,100,106
+0021901234,2020-07-31,POR,MEM,39.85,4,8,9,POR,POR,ft_miss,11,False,False,MISS Trent Jr. Free Throw 1 of 2,,100-106,100,106
+0021901234,2020-07-31,POR,MEM,39.85,4,8,9,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,100-106,100,106
+0021901234,2020-07-31,POR,MEM,39.85,4,8,9,POR,POR,ft_make,12,False,False,Trent Jr. Free Throw 2 of 2 (14 PTS),,101-106,101,106
+0021901234,2020-07-31,POR,MEM,39.95,4,8,3,MEM,MEM,fg3_miss,1,False,False,,MISS Brooks 26' 3PT Jump Shot,101-106,101,106
+0021901234,2020-07-31,POR,MEM,40.0,4,8,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,101-106,101,106
+0021901234,2020-07-31,POR,MEM,40.22,4,7,47,MEM,POR,foul,4,False,False,Nurkic OFF.Foul (P3) (G.Petraitis),,101-106,101,106
+0021901234,2020-07-31,POR,MEM,40.22,4,7,47,POR,POR,tov,37,False,False,Nurkic Offensive Foul Turnover (P3.T13),,101-106,101,106
+0021901234,2020-07-31,POR,MEM,40.38,4,7,37,MEM,MEM,fg_make,6,False,False,,Morant 2' Driving Layup (15 PTS),101-108,101,108
+0021901234,2020-07-31,POR,MEM,40.62,4,7,23,POR,MEM,foul,1,False,False,,Jackson Jr. P.FOUL (P4.PN) (G.Petraitis),101-108,101,108
+0021901234,2020-07-31,POR,MEM,40.62,4,7,23,POR,POR,ft_make,11,False,False,Nurkic Free Throw 1 of 2 (11 PTS),,102-108,102,108
+0021901234,2020-07-31,POR,MEM,40.62,4,7,23,POR,POR,ft_make,12,False,False,Nurkic Free Throw 2 of 2 (12 PTS),,103-108,103,108
+0021901234,2020-07-31,POR,MEM,40.75,4,7,15,MEM,POR,foul,1,False,False,Lillard P.FOUL (P3.T2) (G.Petraitis),,103-108,103,108
+0021901234,2020-07-31,POR,MEM,40.95,4,7,3,MEM,MEM,fg3_miss,79,False,False,,MISS Brooks 26' 3PT Pullup Jump Shot,103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.07,4,6,56,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:3),,103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.17,4,6,50,POR,POR,fg3_miss,79,False,False,MISS Lillard 27' 3PT Pullup Jump Shot,,103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.22,4,6,47,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:3),103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.45,4,6,33,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 6 Short 0),,103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.48,4,6,31,MEM,MEM,fg3_miss,1,True,False,,MISS Jackson Jr. 24' 3PT Jump Shot,103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.48,4,6,31,MEM,POR,block,1,True,False,block,block,103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.52,4,6,29,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:2 Def:3),103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.58,4,6,25,MEM,POR,foul,2,False,False,Nurkic S.FOUL (P4.T3) (B.Kennedy),,103-108,103,108
+0021901234,2020-07-31,POR,MEM,41.58,4,6,25,MEM,MEM,ft_make,11,False,False,,Jackson Jr. Free Throw 1 of 2 (26 PTS),103-109,103,109
+0021901234,2020-07-31,POR,MEM,41.58,4,6,25,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (27 PTS),103-110,103,110
+0021901234,2020-07-31,POR,MEM,41.87,4,6,8,POR,POR,tov,45,False,False,Anthony Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,103-110,103,110
+0021901234,2020-07-31,POR,MEM,41.98,4,6,1,MEM,MEM,fg_miss,6,False,False,,MISS Morant 3' Driving Layup,103-110,103,110
+0021901234,2020-07-31,POR,MEM,42.07,4,5,56,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:1 Def:4),103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.07,4,5,56,MEM,MEM,fg_make,107,False,False,,Clarke 1' Tip Dunk Shot (14 PTS),103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.27,4,5,44,POR,POR,fg3_miss,1,False,False,MISS Collins 26' 3PT Jump Shot,,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.32,4,5,41,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:2 Def:6),,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.32,4,5,41,POR,POR,tov,40,False,False,Nurkic Out of Bounds Lost Ball Turnover (P4.T15),,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.47,4,5,32,MEM,MEM,fg_miss,1,False,False,,MISS Morant 19' Jump Shot,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.52,4,5,29,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:2 Def:1),103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.53,4,5,28,MEM,MEM,fg_miss,1,False,False,,MISS Brooks 6' Jump Shot,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.58,4,5,25,POR,POR,reb,0,False,False,Anthony REBOUND (Off:1 Def:2),,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.72,4,5,17,POR,POR,fg_miss,6,True,False,MISS Lillard 3' Driving Layup,,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.72,4,5,17,POR,MEM,block,6,True,False,block,block,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.77,4,5,14,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:2 Def:2),103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.77,4,5,14,MEM,MEM,tov,4,False,False,,Brooks Traveling Turnover (P2.T12),103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.9,4,5,6,POR,POR,fg_miss,75,False,False,MISS McCollum 2' Driving Finger Roll Layup,,103-112,103,112
+0021901234,2020-07-31,POR,MEM,42.95,4,5,3,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:1 Def:5),103-112,103,112
+0021901234,2020-07-31,POR,MEM,43.12,4,4,53,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 28' 3PT Jump Shot,103-112,103,112
+0021901234,2020-07-31,POR,MEM,43.15,4,4,51,POR,POR,reb,0,False,False,McCollum REBOUND (Off:1 Def:2),,103-112,103,112
+0021901234,2020-07-31,POR,MEM,43.18,4,4,49,POR,MEM,foul,1,False,False,,Clarke P.FOUL (P1.PN) (D.Guthrie),103-112,103,112
+0021901234,2020-07-31,POR,MEM,43.18,4,4,49,POR,POR,ft_make,11,False,False,Nurkic Free Throw 1 of 2 (13 PTS),,104-112,104,112
+0021901234,2020-07-31,POR,MEM,43.18,4,4,49,POR,POR,ft_make,12,False,False,Nurkic Free Throw 2 of 2 (14 PTS),,105-112,105,112
+0021901234,2020-07-31,POR,MEM,43.37,4,4,38,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 25' 3PT Jump Shot,105-112,105,112
+0021901234,2020-07-31,POR,MEM,43.43,4,4,34,POR,POR,reb,0,False,False,Collins REBOUND (Off:2 Def:3),,105-112,105,112
+0021901234,2020-07-31,POR,MEM,43.63,4,4,22,POR,POR,fg_make,96,False,False,Nurkic 4' Turnaround Bank Hook Shot (16 PTS) (Lillard 7 AST),,107-112,107,112
+0021901234,2020-07-31,POR,MEM,43.63,4,4,22,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.4 Short 0),107-112,107,112
+0021901234,2020-07-31,POR,MEM,43.82,4,4,11,MEM,MEM,fg_make,52,False,False,,Clarke 1' Alley Oop Dunk (16 PTS) (Morant 9 AST),107-114,107,114
+0021901234,2020-07-31,POR,MEM,43.83,4,4,10,POR,MEM,foul,11,False,False,,Clarke T.FOUL (P1.PN) (D.Guthrie),107-114,107,114
+0021901234,2020-07-31,POR,MEM,43.83,4,4,10,POR,POR,ft_make,16,False,False,Lillard Free Throw Technical (22 PTS),,108-114,108,114
+0021901234,2020-07-31,POR,MEM,44.22,4,3,47,POR,POR,fg_make,101,False,False,McCollum 16' Driving Floating Jump Shot (25 PTS) (Lillard 8 AST),,110-114,110,114
+0021901234,2020-07-31,POR,MEM,44.47,4,3,32,MEM,POR,foul,2,False,False,Nurkic S.FOUL (P5.T4) (B.Kennedy),,110-114,110,114
+0021901234,2020-07-31,POR,MEM,44.47,4,3,32,MEM,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (17 PTS),110-115,110,115
+0021901234,2020-07-31,POR,MEM,44.47,4,3,32,MEM,MEM,ft_miss,12,False,False,,MISS Clarke Free Throw 2 of 2,110-115,110,115
+0021901234,2020-07-31,POR,MEM,44.5,4,3,30,POR,POR,reb,0,False,False,Collins REBOUND (Off:2 Def:4),,110-115,110,115
+0021901234,2020-07-31,POR,MEM,44.77,4,3,14,POR,POR,fg_make,9,False,False,Nurkic 1' Driving Dunk (18 PTS),,112-115,112,115
+0021901234,2020-07-31,POR,MEM,45.02,4,2,59,MEM,MEM,fg_miss,80,False,False,,MISS Brooks 18' Step Back Jump Shot,112-115,112,115
+0021901234,2020-07-31,POR,MEM,45.07,4,2,56,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:2 Def:7),,112-115,112,115
+0021901234,2020-07-31,POR,MEM,45.25,4,2,45,POR,POR,fg_make,66,False,False,Collins 1' Jump Bank Shot (7 PTS),,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.25,4,2,45,MEM,POR,foul,11,False,False,Collins T.FOUL (P4.T4) (G.Petraitis),,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.25,4,2,45,MEM,MEM,ft_miss,16,False,False,,MISS Brooks Free Throw Technical,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.25,4,2,45,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.43,4,2,34,MEM,MEM,fg3_miss,80,False,False,,MISS Morant 25' 3PT Step Back Jump Shot,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.5,4,2,30,POR,POR,reb,0,False,False,Anthony REBOUND (Off:1 Def:3),,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.63,4,2,22,POR,POR,fg_miss,5,True,False,MISS Collins 3' Layup,,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.63,4,2,22,POR,MEM,block,5,True,False,block,block,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.63,4,2,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,114-115,114,115
+0021901234,2020-07-31,POR,MEM,45.98,4,2,1,MEM,MEM,fg_make,9,False,False,,Jackson Jr. 1' Driving Dunk (29 PTS) (Morant 10 AST),114-117,114,117
+0021901234,2020-07-31,POR,MEM,45.98,4,2,1,MEM,POR,foul,2,False,False,Nurkic S.FOUL (P6.PN) (B.Kennedy),,114-117,114,117
+0021901234,2020-07-31,POR,MEM,45.98,4,2,1,MEM,MEM,ft_make,10,False,False,,Jackson Jr. Free Throw 1 of 1 (30 PTS),114-118,114,118
+0021901234,2020-07-31,POR,MEM,46.18,4,1,49,POR,POR,fg_make,73,False,False,Lillard 2' Driving Reverse Layup (24 PTS),,116-118,116,118
+0021901234,2020-07-31,POR,MEM,46.35,4,1,39,MEM,MEM,fg_miss,79,False,False,,MISS Brooks 16' Pullup Jump Shot,116-118,116,118
+0021901234,2020-07-31,POR,MEM,46.4,4,1,36,POR,POR,reb,0,False,False,Anthony REBOUND (Off:1 Def:4),,116-118,116,118
+0021901234,2020-07-31,POR,MEM,46.62,4,1,23,POR,POR,fg3_make,1,False,False,Anthony 3PT Jump Shot (16 PTS) (Collins 3 AST),,119-118,119,118
+0021901234,2020-07-31,POR,MEM,46.82,4,1,11,MEM,MEM,fg_make,101,False,False,,Morant 3' Driving Floating Jump Shot (17 PTS),119-120,119,120
+0021901234,2020-07-31,POR,MEM,47.0,4,1,0,POR,POR,fg_make,79,False,False,McCollum 9' Pullup Jump Shot (27 PTS),,121-120,121,120
+0021901234,2020-07-31,POR,MEM,47.13,4,0,52,MEM,POR,foul,2,False,False,Collins S.FOUL (P5.PN) (D.Guthrie),,121-120,121,120
+0021901234,2020-07-31,POR,MEM,47.13,4,0,52,MEM,MEM,ft_make,11,False,False,,Morant Free Throw 1 of 2 (18 PTS),121-121,121,121
+0021901234,2020-07-31,POR,MEM,47.13,4,0,52,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (19 PTS),121-122,121,122
+0021901234,2020-07-31,POR,MEM,47.38,4,0,37,POR,POR,fg3_make,1,False,False,Anthony 24' 3PT Jump Shot (19 PTS) (McCollum 6 AST),,124-122,124,122
+0021901234,2020-07-31,POR,MEM,47.38,4,0,37,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),124-122,124,122
+0021901234,2020-07-31,POR,MEM,47.47,4,0,32,MEM,MEM,fg_make,5,False,False,,Clarke Layup (19 PTS),124-124,124,124
+0021901234,2020-07-31,POR,MEM,47.88,4,0,7,POR,POR,fg3_miss,1,False,False,MISS Anthony 3PT Jump Shot,,124-124,124,124
+0021901234,2020-07-31,POR,MEM,47.97,4,0,2,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:2 Def:4),124-124,124,124
+0021901234,2020-07-31,POR,MEM,48.0,4,0,0,MEM,,period_end,0,False,False,,,124-124,124,124
+0021901234,2020-07-31,POR,MEM,48.0,5,5,0,MEM,,period_start,0,False,False,,,124-124,124,124
+0021901234,2020-07-31,POR,MEM,48.0,5,5,0,,POR,jump_ball,0,False,False,Jump Ball Collins vs. Jackson Jr.: Tip to Melton,,124-124,124,124
+0021901234,2020-07-31,POR,MEM,48.3,5,4,42,MEM,MEM,fg_miss,1,False,False,,MISS Jackson Jr. 6' Jump Shot,124-124,124,124
+0021901234,2020-07-31,POR,MEM,48.35,5,4,39,POR,POR,reb,0,False,False,Anthony REBOUND (Off:1 Def:5),,124-124,124,124
+0021901234,2020-07-31,POR,MEM,48.57,5,4,26,POR,POR,fg3_make,80,False,False,McCollum 27' 3PT Step Back Jump Shot (30 PTS),,127-124,127,124
+0021901234,2020-07-31,POR,MEM,48.9,5,4,6,MEM,MEM,fg_miss,1,False,False,,MISS Melton 10' Jump Shot,127-124,127,124
+0021901234,2020-07-31,POR,MEM,48.97,5,4,2,POR,POR,reb,0,False,False,Collins REBOUND (Off:2 Def:5),,127-124,127,124
+0021901234,2020-07-31,POR,MEM,49.2,5,3,48,POR,POR,fg3_make,1,False,False,Trent Jr. 3PT Jump Shot (17 PTS) (Lillard 9 AST),,130-124,130,124
+0021901234,2020-07-31,POR,MEM,49.47,5,3,32,MEM,POR,foul,1,False,False,Trent Jr. P.FOUL (P4.T1) (D.Guthrie),,130-124,130,124
+0021901234,2020-07-31,POR,MEM,49.68,5,3,19,MEM,MEM,fg3_miss,1,False,False,,MISS Morant 38' 3PT Jump Shot,130-124,130,124
+0021901234,2020-07-31,POR,MEM,49.73,5,3,16,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:4),,130-124,130,124
+0021901234,2020-07-31,POR,MEM,49.88,5,3,7,POR,POR,fg_make,75,False,False,Lillard 1' Driving Finger Roll Layup (26 PTS),,132-124,132,124
+0021901234,2020-07-31,POR,MEM,49.88,5,3,7,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.6 Short 0),132-124,132,124
+0021901234,2020-07-31,POR,MEM,50.1,5,2,54,MEM,MEM,fg3_miss,1,False,False,,MISS Brooks 25' 3PT Jump Shot,132-124,132,124
+0021901234,2020-07-31,POR,MEM,50.17,5,2,50,POR,POR,reb,0,False,False,Collins REBOUND (Off:2 Def:6),,132-124,132,124
+0021901234,2020-07-31,POR,MEM,50.48,5,2,31,POR,POR,fg3_make,80,False,False,McCollum 27' 3PT Step Back Jump Shot (33 PTS),,135-124,135,124
+0021901234,2020-07-31,POR,MEM,50.78,5,2,13,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 24' 3PT Jump Shot,135-124,135,124
+0021901234,2020-07-31,POR,MEM,50.82,5,2,11,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:2 Def:5),135-124,135,124
+0021901234,2020-07-31,POR,MEM,50.83,5,2,10,MEM,MEM,fg_make,66,False,False,,Clarke 5' Jump Bank Shot (21 PTS),135-126,135,126
+0021901234,2020-07-31,POR,MEM,51.3,5,1,42,POR,POR,fg_miss,6,False,False,MISS McCollum 3' Driving Layup,,135-126,135,126
+0021901234,2020-07-31,POR,MEM,51.33,5,1,40,POR,POR,reb,0,False,False,Collins REBOUND (Off:3 Def:6),,135-126,135,126
+0021901234,2020-07-31,POR,MEM,51.35,5,1,39,POR,POR,fg_miss,72,False,False,MISS Collins 3' Putback Layup,,135-126,135,126
+0021901234,2020-07-31,POR,MEM,51.35,5,1,39,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,135-126,135,126
+0021901234,2020-07-31,POR,MEM,51.35,5,1,39,MEM,POR,foul,3,False,False,Collins L.B.FOUL (P6.T2) (D.Guthrie),,135-126,135,126
+0021901234,2020-07-31,POR,MEM,51.48,5,1,31,MEM,POR,foul,2,False,False,Anthony S.FOUL (P5.PN) (B.Kennedy),,135-126,135,126
+0021901234,2020-07-31,POR,MEM,51.48,5,1,31,MEM,MEM,ft_make,11,False,False,,Morant Free Throw 1 of 2 (20 PTS),135-127,135,127
+0021901234,2020-07-31,POR,MEM,51.48,5,1,31,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (21 PTS),135-128,135,128
+0021901234,2020-07-31,POR,MEM,51.57,5,1,26,POR,POR,tov,2,False,True,McCollum Lost Ball Turnover (P2.T16),,135-128,135,128
+0021901234,2020-07-31,POR,MEM,51.57,5,1,26,POR,MEM,steal,2,False,True,steal,steal,135-128,135,128
+0021901234,2020-07-31,POR,MEM,51.67,5,1,20,MEM,POR,foul,2,False,False,Lillard S.FOUL (P4.PN) (D.Guthrie),,135-128,135,128
+0021901234,2020-07-31,POR,MEM,51.67,5,1,20,MEM,MEM,ft_miss,11,False,False,,MISS Melton Free Throw 1 of 2,135-128,135,128
+0021901234,2020-07-31,POR,MEM,51.67,5,1,20,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,135-128,135,128
+0021901234,2020-07-31,POR,MEM,51.67,5,1,20,MEM,MEM,ft_make,12,False,False,,Melton Free Throw 2 of 2 (5 PTS),135-129,135,129
+0021901234,2020-07-31,POR,MEM,51.72,5,1,17,POR,POR,tov,1,False,True,Anthony Bad Pass Turnover (P5.T17),,135-129,135,129
+0021901234,2020-07-31,POR,MEM,51.72,5,1,17,POR,MEM,steal,1,False,True,steal,steal,135-129,135,129
+0021901234,2020-07-31,POR,MEM,51.77,5,1,14,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 28' 3PT Jump Shot (33 PTS) (Morant 11 AST),135-132,135,132
+0021901234,2020-07-31,POR,MEM,51.9,5,1,6,POR,MEM,foul,1,False,False,,Jackson Jr. P.FOUL (P5.T1) (G.Petraitis),135-132,135,132
+0021901234,2020-07-31,POR,MEM,52.12,5,0,53,POR,POR,fg_make,73,False,False,Lillard 2' Driving Reverse Layup (28 PTS),,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.23,5,0,46,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 27' 3PT Jump Shot,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.23,5,0,46,POR,POR,reb,0,False,False,Anthony REBOUND (Off:1 Def:6),,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.47,5,0,32,POR,POR,fg_miss,47,False,False,MISS Whiteside 6' Turnaround Jump Shot,,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.5,5,0,30,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:2),137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.53,5,0,28,MEM,MEM,fg3_miss,79,False,False,,MISS Morant 25' 3PT Pullup Jump Shot,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.62,5,0,23,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:5),,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.62,5,0,23,POR,MEM,foul,28,False,False,,Melton Personal Take Foul (P2.PN) (G.Petraitis),137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.62,5,0,23,POR,POR,ft_miss,11,False,False,MISS Lillard Free Throw 1 of 2,,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.62,5,0,23,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,137-132,137,132
+0021901234,2020-07-31,POR,MEM,52.62,5,0,23,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (29 PTS),,138-132,138,132
+0021901234,2020-07-31,POR,MEM,52.7,5,0,18,MEM,MEM,fg_miss,41,True,False,,MISS Morant 2' Running Layup,138-132,138,132
+0021901234,2020-07-31,POR,MEM,52.7,5,0,18,MEM,POR,block,41,True,False,block,block,138-132,138,132
+0021901234,2020-07-31,POR,MEM,52.7,5,0,18,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,138-132,138,132
+0021901234,2020-07-31,POR,MEM,52.7,5,0,18,MEM,POR,foul,11,False,False,Trent Jr. T.FOUL (P4.PN) (B.Kennedy),,138-132,138,132
+0021901234,2020-07-31,POR,MEM,52.7,5,0,18,MEM,MEM,ft_make,16,False,False,,Morant Free Throw Technical (22 PTS),138-133,138,133
+0021901234,2020-07-31,POR,MEM,52.73,5,0,16,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 24' 3PT Jump Shot,138-133,138,133
+0021901234,2020-07-31,POR,MEM,52.77,5,0,14,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:2 Def:2),138-133,138,133
+0021901234,2020-07-31,POR,MEM,52.77,5,0,14,MEM,MEM,fg_make,72,False,False,,Melton 4' Putback Layup (7 PTS),138-135,138,135
+0021901234,2020-07-31,POR,MEM,52.8,5,0,12,POR,MEM,foul,28,False,False,,Melton Personal Take Foul (P3.PN) (G.Petraitis),138-135,138,135
+0021901234,2020-07-31,POR,MEM,52.8,5,0,12,POR,POR,ft_make,11,False,False,Anthony Free Throw 1 of 2 (20 PTS),,139-135,139,135
+0021901234,2020-07-31,POR,MEM,52.8,5,0,12,POR,POR,ft_make,12,False,False,Anthony Free Throw 2 of 2 (21 PTS),,140-135,140,135
+0021901234,2020-07-31,POR,MEM,52.88,5,0,7,MEM,MEM,tov,2,False,True,,Morant Lost Ball Turnover (P3.T13),140-135,140,135
+0021901234,2020-07-31,POR,MEM,52.88,5,0,7,MEM,POR,steal,2,False,True,steal,steal,140-135,140,135
+0021901234,2020-07-31,POR,MEM,53.0,5,0,0,MEM,,period_end,0,False,False,,,140-135,140,135

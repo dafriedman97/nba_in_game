@@ -1,0 +1,459 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100614,2022-01-11,MEM,GSW,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100614,2022-01-11,MEM,GSW,0.0,1,12,0,,MEM,jump_ball,0,False,False,Jump Ball Jackson Jr. vs. Looney: Tip to Thompson,,0-0,0,0
+0022100614,2022-01-11,MEM,GSW,0.25,1,11,45,GSW,GSW,fg_make,75,False,False,,Wiggins 1' Driving Finger Roll Layup (2 PTS),0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.6,1,11,24,MEM,MEM,fg_miss,1,False,False,MISS Bane 16' Jump Shot,,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.67,1,11,20,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.8,1,11,12,GSW,GSW,fg_miss,73,False,False,,MISS Thompson 2' Driving Reverse Layup,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.82,1,11,11,GSW,GSW,reb,0,False,False,,Warriors Rebound,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.88,1,11,7,GSW,GSW,reb,0,False,False,,Warriors Rebound,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.88,1,11,7,GSW,MEM,block,58,True,False,block,block,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.88,1,11,7,GSW,GSW,fg_miss,58,True,False,,MISS Wiggins 4' Turnaround Hook Shot,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,0.98,1,11,1,GSW,GSW,fg_miss,1,False,False,,MISS Looney 19' Jump Shot,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,1.0,1,11,0,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,0-2,0,2
+0022100614,2022-01-11,MEM,GSW,1.17,1,10,50,MEM,GSW,foul,2,False,False,,Looney S.FOUL (P1.T1) (Z.Zarba),0-2,0,2
+0022100614,2022-01-11,MEM,GSW,1.17,1,10,50,MEM,MEM,ft_make,11,False,False,Morant Free Throw 1 of 2 (1 PTS),,1-2,1,2
+0022100614,2022-01-11,MEM,GSW,1.17,1,10,50,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (2 PTS),,2-2,2,2
+0022100614,2022-01-11,MEM,GSW,1.35,1,10,39,GSW,GSW,fg_make,80,False,False,,Thompson 14' Step Back Jump Shot (2 PTS) (Curry 1 AST),2-4,2,4
+0022100614,2022-01-11,MEM,GSW,1.52,1,10,29,MEM,MEM,fg_miss,101,False,False,MISS Morant 14' Driving Floating Jump Shot,,2-4,2,4
+0022100614,2022-01-11,MEM,GSW,1.52,1,10,29,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:0 Def:1),2-4,2,4
+0022100614,2022-01-11,MEM,GSW,1.72,1,10,17,GSW,GSW,fg_make,80,False,False,,Wiggins 14' Step Back Jump Shot (4 PTS),2-6,2,6
+0022100614,2022-01-11,MEM,GSW,1.95,1,10,3,MEM,MEM,fg_miss,78,False,False,MISS Jackson Jr. 12' Floating Jump Shot,,2-6,2,6
+0022100614,2022-01-11,MEM,GSW,2.0,1,10,0,MEM,MEM,fg_miss,97,False,False,MISS Anderson Tip Layup Shot,,2-6,2,6
+0022100614,2022-01-11,MEM,GSW,2.0,1,10,0,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:0 Def:2),2-6,2,6
+0022100614,2022-01-11,MEM,GSW,2.0,1,10,0,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:1 Def:0),,2-6,2,6
+0022100614,2022-01-11,MEM,GSW,2.18,1,9,49,GSW,GSW,fg_make,6,False,False,,Thompson 1' Driving Layup (4 PTS),2-8,2,8
+0022100614,2022-01-11,MEM,GSW,2.57,1,9,26,MEM,MEM,fg_make,9,False,False,Anderson Driving Dunk (2 PTS) (Morant 1 AST),,4-8,4,8
+0022100614,2022-01-11,MEM,GSW,2.75,1,9,15,GSW,GSW,tov,2,False,True,,Thompson Lost Ball Turnover (P1.T1),4-8,4,8
+0022100614,2022-01-11,MEM,GSW,2.75,1,9,15,GSW,MEM,steal,2,False,True,steal,steal,4-8,4,8
+0022100614,2022-01-11,MEM,GSW,2.82,1,9,11,MEM,MEM,fg3_miss,103,False,False,MISS Bane 25' 3PT Running Pull-Up Jump Shot,,4-8,4,8
+0022100614,2022-01-11,MEM,GSW,2.88,1,9,7,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:1),4-8,4,8
+0022100614,2022-01-11,MEM,GSW,2.97,1,9,2,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 26' 3PT Pullup Jump Shot,4-8,4,8
+0022100614,2022-01-11,MEM,GSW,3.03,1,8,58,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:1),4-8,4,8
+0022100614,2022-01-11,MEM,GSW,3.05,1,8,57,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 26' 3PT Jump Shot,4-8,4,8
+0022100614,2022-01-11,MEM,GSW,3.08,1,8,55,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:1),,4-8,4,8
+0022100614,2022-01-11,MEM,GSW,3.18,1,8,49,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 25' 3PT Jump Shot,,4-8,4,8
+0022100614,2022-01-11,MEM,GSW,3.25,1,8,45,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:2),4-8,4,8
+0022100614,2022-01-11,MEM,GSW,3.45,1,8,33,GSW,GSW,tov,40,False,False,,Wiggins Out of Bounds Lost Ball Turnover (P1.T2),4-8,4,8
+0022100614,2022-01-11,MEM,GSW,3.68,1,8,19,MEM,MEM,fg_make,6,False,False,Morant 1' Driving Layup (4 PTS),,6-8,6,8
+0022100614,2022-01-11,MEM,GSW,3.82,1,8,11,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 27' 3PT Jump Shot,6-8,6,8
+0022100614,2022-01-11,MEM,GSW,3.87,1,8,8,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:2),,6-8,6,8
+0022100614,2022-01-11,MEM,GSW,4.23,1,7,46,MEM,MEM,fg3_make,1,False,False,Williams 3PT Jump Shot (3 PTS) (Morant 2 AST),,9-8,9,8
+0022100614,2022-01-11,MEM,GSW,4.45,1,7,33,GSW,GSW,tov,1,False,True,,Toscano-Anderson Bad Pass Turnover (P1.T3),9-8,9,8
+0022100614,2022-01-11,MEM,GSW,4.45,1,7,33,GSW,MEM,steal,1,False,True,steal,steal,9-8,9,8
+0022100614,2022-01-11,MEM,GSW,4.72,1,7,17,MEM,MEM,fg3_make,1,False,False,Morant 25' 3PT Jump Shot (7 PTS) (Bane 1 AST),,12-8,12,8
+0022100614,2022-01-11,MEM,GSW,4.73,1,7,16,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.1 Short 0),12-8,12,8
+0022100614,2022-01-11,MEM,GSW,5.13,1,6,52,GSW,GSW,tov,1,False,True,,Curry Bad Pass Turnover (P1.T4),12-8,12,8
+0022100614,2022-01-11,MEM,GSW,5.13,1,6,52,GSW,MEM,steal,1,False,True,steal,steal,12-8,12,8
+0022100614,2022-01-11,MEM,GSW,5.18,1,6,49,MEM,MEM,fg_make,106,False,False,Morant 1' Running Alley Oop Dunk Shot (9 PTS) (Williams 1 AST),,14-8,14,8
+0022100614,2022-01-11,MEM,GSW,5.42,1,6,35,GSW,GSW,tov,45,False,False,,Toscano-Anderson Out of Bounds - Bad Pass Turnover Turnover (P2.T5),14-8,14,8
+0022100614,2022-01-11,MEM,GSW,5.65,1,6,21,MEM,MEM,fg_make,78,False,False,Tillman 11' Floating Jump Shot (2 PTS) (Melton 1 AST),,16-8,16,8
+0022100614,2022-01-11,MEM,GSW,5.95,1,6,3,GSW,GSW,fg_make,101,False,False,,Poole 13' Driving Floating Jump Shot (2 PTS) (Wiggins 1 AST),16-10,16,10
+0022100614,2022-01-11,MEM,GSW,6.15,1,5,51,MEM,MEM,fg_make,108,False,False,Morant 1' Cutting Dunk Shot (11 PTS) (Tillman 1 AST),,18-10,18,10
+0022100614,2022-01-11,MEM,GSW,6.32,1,5,41,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 27' 3PT Jump Shot,18-10,18,10
+0022100614,2022-01-11,MEM,GSW,6.38,1,5,37,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:1),18-10,18,10
+0022100614,2022-01-11,MEM,GSW,6.42,1,5,35,GSW,GSW,fg3_make,1,False,False,,Wiggins 26' 3PT Jump Shot (7 PTS) (Looney 1 AST),18-13,18,13
+0022100614,2022-01-11,MEM,GSW,6.6,1,5,24,MEM,MEM,fg_make,101,False,False,Morant 7' Driving Floating Jump Shot (13 PTS),,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,6.8,1,5,12,GSW,GSW,fg_miss,101,False,False,,MISS Wiggins 4' Driving Floating Jump Shot,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,6.85,1,5,9,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:0 Def:1),,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,6.93,1,5,4,MEM,GSW,block,101,True,False,block,block,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,6.93,1,5,4,MEM,MEM,fg_miss,101,True,False,MISS Morant 9' Driving Floating Jump Shot,,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,6.95,1,5,3,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:1),20-13,20,13
+0022100614,2022-01-11,MEM,GSW,6.95,1,5,3,GSW,GSW,tov,45,False,False,,Wiggins Out of Bounds - Bad Pass Turnover Turnover (P2.T6),20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.07,1,4,56,MEM,MEM,fg3_miss,1,False,False,MISS Melton 26' 3PT Jump Shot,,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.12,1,4,53,MEM,MEM,fg_miss,97,False,False,MISS Tillman Tip Layup Shot,,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.12,1,4,53,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:0),,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.15,1,4,51,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:2),20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.3,1,4,42,GSW,GSW,ft_miss,11,False,False,,MISS Bjelica Free Throw 1 of 2,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.3,1,4,42,GSW,GSW,ft_make,12,False,False,,Bjelica Free Throw 2 of 2 (1 PTS),20-14,20,14
+0022100614,2022-01-11,MEM,GSW,7.3,1,4,42,GSW,GSW,reb,1,False,False,,Warriors Rebound,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.3,1,4,42,GSW,MEM,foul,2,False,False,Melton S.FOUL (P1.T1) (N.Sago),,20-13,20,13
+0022100614,2022-01-11,MEM,GSW,7.67,1,4,20,MEM,MEM,fg3_miss,1,False,False,MISS Morant 30' 3PT Jump Shot,,20-14,20,14
+0022100614,2022-01-11,MEM,GSW,7.75,1,4,15,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),20-14,20,14
+0022100614,2022-01-11,MEM,GSW,7.85,1,4,9,GSW,GSW,fg_miss,75,False,False,,MISS Curry 1' Driving Finger Roll Layup,20-14,20,14
+0022100614,2022-01-11,MEM,GSW,7.92,1,4,5,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:0 Def:1),,20-14,20,14
+0022100614,2022-01-11,MEM,GSW,7.95,1,4,3,MEM,MEM,fg_miss,101,True,False,MISS Morant 3' Driving Floating Jump Shot,,20-14,20,14
+0022100614,2022-01-11,MEM,GSW,7.95,1,4,3,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,20-14,20,14
+0022100614,2022-01-11,MEM,GSW,7.95,1,4,3,MEM,GSW,block,101,True,False,block,block,20-14,20,14
+0022100614,2022-01-11,MEM,GSW,8.17,1,3,50,MEM,MEM,fg_make,75,False,False,Morant 1' Driving Finger Roll Layup (15 PTS),,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.38,1,3,37,GSW,MEM,block,75,True,False,block,block,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.38,1,3,37,GSW,GSW,fg_miss,75,True,False,,MISS Poole 1' Driving Finger Roll Layup,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.43,1,3,34,MEM,GSW,foul,1,False,False,,Iguodala P.FOUL (P1.T2) (C.Blair),22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.43,1,3,34,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:1),,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.68,1,3,19,MEM,GSW,violation,5,False,False,,Bjelica Violation:Kicked Ball (Z.Zarba),22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.78,1,3,13,MEM,MEM,tov,1,False,True,Morant Bad Pass Turnover (P1.T1),,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.78,1,3,13,MEM,GSW,steal,1,False,True,steal,steal,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.85,1,3,9,GSW,GSW,fg_miss,74,False,False,,MISS Curry 2' Running Reverse Layup,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,8.9,1,3,6,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:0 Def:1),,22-14,22,14
+0022100614,2022-01-11,MEM,GSW,9.02,1,2,59,MEM,MEM,fg_make,58,False,False,Clarke 8' Turnaround Hook Shot (2 PTS) (Melton 2 AST),,24-14,24,14
+0022100614,2022-01-11,MEM,GSW,9.23,1,2,46,GSW,MEM,foul,2,False,False,Melton S.FOUL (P2.T2) (N.Sago),,24-14,24,14
+0022100614,2022-01-11,MEM,GSW,9.23,1,2,46,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 1 Short 0),,24-14,24,14
+0022100614,2022-01-11,MEM,GSW,9.23,1,2,46,MEM,GSW,ft_make,13,False,False,,Curry Free Throw 1 of 3 (1 PTS),24-15,24,15
+0022100614,2022-01-11,MEM,GSW,9.23,1,2,46,MEM,GSW,ft_make,14,False,False,,Curry Free Throw 2 of 3 (2 PTS),24-16,24,16
+0022100614,2022-01-11,MEM,GSW,9.23,1,2,46,MEM,GSW,ft_make,15,False,False,,Curry Free Throw 3 of 3 (3 PTS),24-17,24,17
+0022100614,2022-01-11,MEM,GSW,9.58,1,2,25,MEM,MEM,fg3_miss,1,False,False,MISS Tillman 3PT Jump Shot,,24-17,24,17
+0022100614,2022-01-11,MEM,GSW,9.65,1,2,21,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:3),24-17,24,17
+0022100614,2022-01-11,MEM,GSW,9.97,1,2,2,GSW,GSW,fg3_miss,1,False,False,,MISS Porter Jr. 26' 3PT Jump Shot,24-17,24,17
+0022100614,2022-01-11,MEM,GSW,10.05,1,1,57,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:0 Def:2),,24-17,24,17
+0022100614,2022-01-11,MEM,GSW,10.1,1,1,54,MEM,MEM,fg_miss,79,False,False,MISS Jones 12' Pullup Jump Shot,,24-17,24,17
+0022100614,2022-01-11,MEM,GSW,10.17,1,1,50,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:1),24-17,24,17
+0022100614,2022-01-11,MEM,GSW,10.38,1,1,37,GSW,GSW,fg3_miss,80,False,False,,MISS Curry 25' 3PT Step Back Jump Shot,24-17,24,17
+0022100614,2022-01-11,MEM,GSW,10.45,1,1,33,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:2),,24-17,24,17
+0022100614,2022-01-11,MEM,GSW,10.62,1,1,23,MEM,MEM,fg3_make,1,False,False,Jones 25' 3PT Jump Shot (3 PTS) (Clarke 1 AST),,27-17,27,17
+0022100614,2022-01-11,MEM,GSW,10.85,1,1,9,GSW,GSW,fg3_make,1,False,False,,Bjelica 26' 3PT Jump Shot (4 PTS) (Curry 2 AST),27-20,27,20
+0022100614,2022-01-11,MEM,GSW,11.15,1,0,51,MEM,MEM,fg_miss,6,False,False,MISS Melton 2' Driving Layup,,27-20,27,20
+0022100614,2022-01-11,MEM,GSW,11.18,1,0,49,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:4),27-20,27,20
+0022100614,2022-01-11,MEM,GSW,11.23,1,0,46,GSW,GSW,fg_make,41,False,False,,Poole 1' Running Layup (4 PTS) (Curry 3 AST),27-22,27,22
+0022100614,2022-01-11,MEM,GSW,11.47,1,0,32,MEM,MEM,fg_miss,101,False,False,MISS Jones 7' Driving Floating Jump Shot,,27-22,27,22
+0022100614,2022-01-11,MEM,GSW,11.52,1,0,29,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:5),27-22,27,22
+0022100614,2022-01-11,MEM,GSW,11.57,1,0,26,GSW,GSW,fg_make,74,False,False,,Porter Jr. 1' Running Reverse Layup (2 PTS) (Curry 4 AST),27-24,27,24
+0022100614,2022-01-11,MEM,GSW,11.87,1,0,8,MEM,GSW,foul,28,False,False,,Curry Personal Take Foul (P1.T3) (N.Sago),27-24,27,24
+0022100614,2022-01-11,MEM,GSW,11.98,1,0,1,MEM,MEM,ft_make,12,False,False,Clarke Free Throw 2 of 2 (3 PTS),,28-24,28,24
+0022100614,2022-01-11,MEM,GSW,11.98,1,0,1,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,27-24,27,24
+0022100614,2022-01-11,MEM,GSW,11.98,1,0,1,MEM,MEM,ft_miss,11,False,False,MISS Clarke Free Throw 1 of 2,,27-24,27,24
+0022100614,2022-01-11,MEM,GSW,11.98,1,0,1,MEM,GSW,foul,2,False,False,,Payton II S.FOUL (P1.PN) (C.Blair),27-24,27,24
+0022100614,2022-01-11,MEM,GSW,12.0,2,12,0,MEM,,period_start,0,False,False,,,28-24,28,24
+0022100614,2022-01-11,MEM,GSW,12.0,1,0,0,MEM,,period_end,0,False,False,,,28-24,28,24
+0022100614,2022-01-11,MEM,GSW,12.27,2,11,44,MEM,MEM,fg3_make,1,False,False,Jones 26' 3PT Jump Shot (6 PTS) (Bane 2 AST),,31-24,31,24
+0022100614,2022-01-11,MEM,GSW,12.47,2,11,32,GSW,MEM,foul,1,False,False,Jackson Jr. P.FOUL (P1.T1) (N.Sago),,31-24,31,24
+0022100614,2022-01-11,MEM,GSW,12.55,2,11,27,GSW,MEM,foul,2,False,False,Bane S.FOUL (P1.T2) (C.Blair),,31-24,31,24
+0022100614,2022-01-11,MEM,GSW,12.55,2,11,27,GSW,GSW,ft_make,11,False,False,,Poole Free Throw 1 of 2 (5 PTS),31-25,31,25
+0022100614,2022-01-11,MEM,GSW,12.55,2,11,27,GSW,GSW,ft_make,12,False,False,,Poole Free Throw 2 of 2 (6 PTS),31-26,31,26
+0022100614,2022-01-11,MEM,GSW,12.88,2,11,7,MEM,MEM,fg_miss,102,False,False,MISS Bane 8' Driving Floating Bank Jump Shot,,31-26,31,26
+0022100614,2022-01-11,MEM,GSW,12.92,2,11,5,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:2),31-26,31,26
+0022100614,2022-01-11,MEM,GSW,13.15,2,10,51,GSW,GSW,fg_make,99,False,False,,Porter Jr. 1' Cutting Finger Roll Layup Shot (4 PTS) (Bjelica 1 AST),31-28,31,28
+0022100614,2022-01-11,MEM,GSW,13.33,2,10,40,MEM,MEM,tov,37,False,False,Jackson Jr. Offensive Foul Turnover (P1.T2),,31-28,31,28
+0022100614,2022-01-11,MEM,GSW,13.33,2,10,40,GSW,MEM,foul,26,False,False,Jackson Jr. Offensive Charge Foul (P2) (C.Blair),,31-28,31,28
+0022100614,2022-01-11,MEM,GSW,13.53,2,10,28,GSW,GSW,fg_miss,75,False,False,,MISS Poole 2' Driving Finger Roll Layup,31-28,31,28
+0022100614,2022-01-11,MEM,GSW,13.58,2,10,25,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,31-28,31,28
+0022100614,2022-01-11,MEM,GSW,13.67,2,10,20,MEM,MEM,fg3_make,1,False,False,Jones 25' 3PT Jump Shot (9 PTS) (Konchar 1 AST),,34-28,34,28
+0022100614,2022-01-11,MEM,GSW,13.98,2,10,1,GSW,GSW,tov,1,False,True,,Poole Bad Pass Turnover (P1.T7),34-28,34,28
+0022100614,2022-01-11,MEM,GSW,13.98,2,10,1,GSW,MEM,steal,1,False,True,steal,steal,34-28,34,28
+0022100614,2022-01-11,MEM,GSW,14.1,2,9,54,MEM,MEM,fg_make,75,False,False,Jackson Jr. 1' Driving Finger Roll Layup (2 PTS) (Bane 3 AST),,36-28,36,28
+0022100614,2022-01-11,MEM,GSW,14.4,2,9,36,GSW,GSW,fg3_make,1,False,False,,Bjelica 28' 3PT Jump Shot (7 PTS) (Iguodala 1 AST),36-31,36,31
+0022100614,2022-01-11,MEM,GSW,14.65,2,9,21,MEM,MEM,tov,45,False,False,Jackson Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,36-31,36,31
+0022100614,2022-01-11,MEM,GSW,14.85,2,9,9,GSW,GSW,tov,1,False,True,,Toscano-Anderson Bad Pass Turnover (P3.T8),36-31,36,31
+0022100614,2022-01-11,MEM,GSW,14.85,2,9,9,GSW,MEM,steal,1,False,True,steal,steal,36-31,36,31
+0022100614,2022-01-11,MEM,GSW,14.92,2,9,5,MEM,MEM,fg_miss,74,False,False,MISS Bane 1' Running Reverse Layup,,36-31,36,31
+0022100614,2022-01-11,MEM,GSW,14.93,2,9,4,MEM,GSW,foul,3,False,False,,Toscano-Anderson L.B.FOUL (P1.T1) (Z.Zarba),36-31,36,31
+0022100614,2022-01-11,MEM,GSW,14.93,2,9,4,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,36-31,36,31
+0022100614,2022-01-11,MEM,GSW,15.08,2,8,55,MEM,MEM,fg3_make,1,False,False,Williams 25' 3PT Jump Shot (6 PTS) (Jones 1 AST),,39-31,39,31
+0022100614,2022-01-11,MEM,GSW,15.27,2,8,44,GSW,GSW,fg3_miss,79,False,False,,MISS Poole 28' 3PT Pullup Jump Shot,39-31,39,31
+0022100614,2022-01-11,MEM,GSW,15.32,2,8,41,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:3),,39-31,39,31
+0022100614,2022-01-11,MEM,GSW,15.48,2,8,31,MEM,MEM,fg3_make,1,False,False,Jackson Jr. 28' 3PT Jump Shot (5 PTS) (Anderson 1 AST),,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,15.8,2,8,12,GSW,GSW,fg3_miss,1,False,False,,MISS Iguodala 24' 3PT Jump Shot,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,15.83,2,8,10,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:1 Def:1),,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,15.95,2,8,3,MEM,GSW,block,44,True,False,block,block,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,15.95,2,8,3,MEM,MEM,fg_miss,44,True,False,MISS Williams 2' Reverse Layup,,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,15.97,2,8,2,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,16.08,2,7,55,MEM,MEM,fg_miss,3,False,False,MISS Anderson 6' Hook Shot,,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,16.13,2,7,52,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:1),42-31,42,31
+0022100614,2022-01-11,MEM,GSW,16.3,2,7,42,GSW,MEM,foul,1,False,False,Jackson Jr. P.FOUL (P3.T3) (N.Sago),,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,16.53,2,7,28,GSW,GSW,fg_miss,1,False,False,,MISS Iguodala 15' Jump Shot,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,16.58,2,7,25,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:1),,42-31,42,31
+0022100614,2022-01-11,MEM,GSW,16.67,2,7,20,MEM,MEM,fg3_make,79,False,False,Bane 26' 3PT Pullup Jump Shot (3 PTS) (Morant 3 AST),,45-31,45,31
+0022100614,2022-01-11,MEM,GSW,16.7,2,7,18,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),45-31,45,31
+0022100614,2022-01-11,MEM,GSW,16.92,2,7,5,GSW,MEM,block,6,True,False,block,block,45-31,45,31
+0022100614,2022-01-11,MEM,GSW,16.92,2,7,5,GSW,GSW,fg_miss,6,True,False,,MISS Wiggins 6' Driving Layup,45-31,45,31
+0022100614,2022-01-11,MEM,GSW,16.92,2,7,5,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:0 Def:1),,45-31,45,31
+0022100614,2022-01-11,MEM,GSW,16.92,2,7,5,MEM,GSW,foul,28,False,False,,Curry Personal Take Foul (P2.T2) (Z.Zarba),45-31,45,31
+0022100614,2022-01-11,MEM,GSW,17.13,2,6,52,MEM,MEM,fg_miss,6,False,False,MISS Tillman 2' Driving Layup,,45-31,45,31
+0022100614,2022-01-11,MEM,GSW,17.17,2,6,50,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),45-31,45,31
+0022100614,2022-01-11,MEM,GSW,17.32,2,6,41,GSW,GSW,fg3_miss,1,False,False,,MISS Moody 26' 3PT Jump Shot,45-31,45,31
+0022100614,2022-01-11,MEM,GSW,17.38,2,6,37,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:3),,45-31,45,31
+0022100614,2022-01-11,MEM,GSW,17.5,2,6,30,MEM,MEM,fg_make,79,False,False,Anderson 13' Pullup Jump Shot (4 PTS),,47-31,47,31
+0022100614,2022-01-11,MEM,GSW,17.72,2,6,17,GSW,MEM,steal,1,False,True,steal,steal,47-31,47,31
+0022100614,2022-01-11,MEM,GSW,17.72,2,6,17,GSW,GSW,tov,1,False,True,,Wiggins Bad Pass Turnover (P3.T9),47-31,47,31
+0022100614,2022-01-11,MEM,GSW,17.78,2,6,13,MEM,MEM,fg_make,76,False,False,Morant 1' Running Finger Roll Layup (17 PTS) (Bane 4 AST),,49-31,49,31
+0022100614,2022-01-11,MEM,GSW,18.02,2,5,59,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,49-31,49,31
+0022100614,2022-01-11,MEM,GSW,18.05,2,5,57,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:2),,49-31,49,31
+0022100614,2022-01-11,MEM,GSW,18.17,2,5,50,MEM,MEM,fg_miss,63,False,False,MISS Bane 11' Fadeaway Jumper,,49-31,49,31
+0022100614,2022-01-11,MEM,GSW,18.22,2,5,47,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:2),49-31,49,31
+0022100614,2022-01-11,MEM,GSW,18.3,2,5,42,GSW,MEM,foul,1,False,False,Anderson P.FOUL (P1.T4) (C.Blair),,49-31,49,31
+0022100614,2022-01-11,MEM,GSW,18.52,2,5,29,GSW,GSW,fg_make,7,False,False,,Moody 1' Dunk (2 PTS) (Thompson 1 AST),49-33,49,33
+0022100614,2022-01-11,MEM,GSW,18.8,2,5,12,MEM,MEM,fg_miss,79,False,False,MISS Anderson 10' Pullup Jump Shot,,49-33,49,33
+0022100614,2022-01-11,MEM,GSW,18.83,2,5,10,GSW,GSW,reb,0,False,False,,Moody REBOUND (Off:0 Def:1),49-33,49,33
+0022100614,2022-01-11,MEM,GSW,18.98,2,5,1,GSW,GSW,fg_make,102,False,False,,Curry 8' Driving Floating Bank Jump Shot (5 PTS) (Moody 1 AST),49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.28,2,4,43,MEM,MEM,fg3_miss,1,False,False,MISS Melton 26' 3PT Jump Shot,,49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.32,2,4,41,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.55,2,4,27,GSW,GSW,fg_miss,44,False,False,,MISS Looney 2' Reverse Layup,49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.58,2,4,25,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:4),,49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.7,2,4,18,MEM,MEM,fg3_miss,1,False,False,MISS Tillman 25' 3PT Jump Shot,,49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.75,2,4,15,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:6),49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.78,2,4,13,GSW,GSW,tov,2,False,True,,Curry Lost Ball Turnover (P2.T10),49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.78,2,4,13,GSW,MEM,steal,2,False,True,steal,steal,49-35,49,35
+0022100614,2022-01-11,MEM,GSW,19.87,2,4,8,MEM,MEM,fg_make,106,False,False,Williams 1' Running Alley Oop Dunk Shot (8 PTS) (Morant 4 AST),,51-35,51,35
+0022100614,2022-01-11,MEM,GSW,20.13,2,3,52,GSW,GSW,fg_make,99,False,False,,Curry Cutting Finger Roll Layup Shot (7 PTS) (Thompson 2 AST),51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.28,2,3,43,MEM,GSW,foul,28,False,False,,Wiggins Personal Take Foul (P1.T3) (Z.Zarba),51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.48,2,3,31,MEM,MEM,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.52,2,3,29,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:2 Def:1),,51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.55,2,3,27,MEM,MEM,tov,2,False,True,Anderson Lost Ball Turnover (P1.T4),,51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.55,2,3,27,MEM,GSW,steal,2,False,True,steal,steal,51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.57,2,3,26,GSW,GSW,tov,2,False,True,,Thompson Lost Ball Turnover (P2.T11),51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.57,2,3,26,GSW,MEM,steal,2,False,True,steal,steal,51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.6,2,3,24,MEM,MEM,fg_miss,44,False,False,MISS Tillman 3' Reverse Layup,,51-37,51,37
+0022100614,2022-01-11,MEM,GSW,20.62,2,3,23,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:3 Def:1),,53-37,53,37
+0022100614,2022-01-11,MEM,GSW,20.62,2,3,23,MEM,MEM,fg_make,97,False,False,Anderson 1' Tip Layup Shot (6 PTS),,53-37,53,37
+0022100614,2022-01-11,MEM,GSW,20.93,2,3,4,GSW,GSW,fg_miss,63,False,False,,MISS Thompson 13' Fadeaway Jumper,53-37,53,37
+0022100614,2022-01-11,MEM,GSW,20.95,2,3,3,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:3),,53-37,53,37
+0022100614,2022-01-11,MEM,GSW,21.0,2,3,0,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (18 PTS),,54-37,54,37
+0022100614,2022-01-11,MEM,GSW,21.0,2,3,0,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,53-37,53,37
+0022100614,2022-01-11,MEM,GSW,21.0,2,3,0,MEM,MEM,ft_miss,11,False,False,MISS Morant Free Throw 1 of 2,,53-37,53,37
+0022100614,2022-01-11,MEM,GSW,21.0,2,3,0,MEM,GSW,foul,2,False,False,,Thompson S.FOUL (P1.T4) (N.Sago),53-37,53,37
+0022100614,2022-01-11,MEM,GSW,21.17,2,2,50,MEM,GSW,ft_make,11,False,False,,Porter Jr. Free Throw 1 of 2 (5 PTS),54-38,54,38
+0022100614,2022-01-11,MEM,GSW,21.17,2,2,50,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 2 Short 0),,54-37,54,37
+0022100614,2022-01-11,MEM,GSW,21.17,2,2,50,GSW,MEM,foul,2,False,False,Morant S.FOUL (P1.PN) (N.Sago),,54-37,54,37
+0022100614,2022-01-11,MEM,GSW,21.17,2,2,50,GSW,GSW,ft_miss,12,False,False,,MISS Porter Jr. Free Throw 2 of 2,54-38,54,38
+0022100614,2022-01-11,MEM,GSW,21.22,2,2,47,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:0 Def:3),,54-38,54,38
+0022100614,2022-01-11,MEM,GSW,21.43,2,2,34,MEM,MEM,fg_miss,101,False,False,MISS Bane 5' Driving Floating Jump Shot,,54-38,54,38
+0022100614,2022-01-11,MEM,GSW,21.52,2,2,29,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:0 Def:1),54-38,54,38
+0022100614,2022-01-11,MEM,GSW,21.57,2,2,26,GSW,GSW,fg3_make,1,False,False,,Wiggins 27' 3PT Jump Shot (10 PTS) (Porter Jr. 1 AST),54-41,54,41
+0022100614,2022-01-11,MEM,GSW,21.85,2,2,9,MEM,MEM,fg_miss,101,True,False,MISS Morant 12' Driving Floating Jump Shot,,54-41,54,41
+0022100614,2022-01-11,MEM,GSW,21.85,2,2,9,MEM,GSW,block,101,True,False,block,block,54-41,54,41
+0022100614,2022-01-11,MEM,GSW,21.93,2,2,4,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:7),54-41,54,41
+0022100614,2022-01-11,MEM,GSW,21.95,2,2,3,GSW,GSW,fg_make,50,False,False,,Payton II 3' Running Dunk (2 PTS) (Curry 5 AST),54-43,54,43
+0022100614,2022-01-11,MEM,GSW,22.18,2,1,49,MEM,MEM,fg_miss,79,False,False,MISS Clarke 6' Pullup Jump Shot,,54-43,54,43
+0022100614,2022-01-11,MEM,GSW,22.2,2,1,48,MEM,MEM,ft_make,12,False,False,Williams Free Throw 2 of 2 (10 PTS),,56-43,56,43
+0022100614,2022-01-11,MEM,GSW,22.2,2,1,48,MEM,MEM,ft_make,11,False,False,Williams Free Throw 1 of 2 (9 PTS),,55-43,55,43
+0022100614,2022-01-11,MEM,GSW,22.2,2,1,48,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,54-43,54,43
+0022100614,2022-01-11,MEM,GSW,22.2,2,1,48,MEM,GSW,foul,3,False,False,,Payton II L.B.FOUL (P2.PN) (N.Sago),54-43,54,43
+0022100614,2022-01-11,MEM,GSW,22.37,2,1,38,GSW,GSW,ft_make,15,False,False,,Curry Free Throw 3 of 3 (10 PTS),56-46,56,46
+0022100614,2022-01-11,MEM,GSW,22.37,2,1,38,GSW,MEM,foul,2,False,False,Williams S.FOUL (P1.PN) (C.Blair),,56-43,56,43
+0022100614,2022-01-11,MEM,GSW,22.37,2,1,38,GSW,GSW,ft_make,13,False,False,,Curry Free Throw 1 of 3 (8 PTS),56-44,56,44
+0022100614,2022-01-11,MEM,GSW,22.37,2,1,38,GSW,GSW,ft_make,14,False,False,,Curry Free Throw 2 of 3 (9 PTS),56-45,56,45
+0022100614,2022-01-11,MEM,GSW,22.55,2,1,27,MEM,MEM,fg3_make,80,False,False,Bane 27' 3PT Step Back Jump Shot (6 PTS) (Anderson 2 AST),,59-46,59,46
+0022100614,2022-01-11,MEM,GSW,22.75,2,1,15,GSW,GSW,fg_make,75,False,False,,Curry 1' Driving Finger Roll Layup (12 PTS),59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.03,2,0,58,MEM,MEM,tov,1,False,True,Williams Bad Pass Turnover (P1.T5),,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.03,2,0,58,MEM,GSW,steal,1,False,True,steal,steal,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.12,2,0,53,GSW,GSW,tov,39,False,False,,Porter Jr. Step Out of Bounds Turnover (P1.T12),59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.47,2,0,32,MEM,MEM,fg_miss,102,False,False,MISS Morant 7' Driving Floating Bank Jump Shot,,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.53,2,0,28,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:1 Def:3),,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.53,2,0,28,MEM,MEM,fg_miss,97,False,False,MISS Clarke Tip Layup Shot,,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.57,2,0,26,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:0 Def:2),59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.88,2,0,7,GSW,MEM,block,73,True,False,block,block,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.88,2,0,7,GSW,GSW,fg_miss,73,True,False,,MISS Thompson 1' Driving Reverse Layup,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.88,2,0,7,GSW,GSW,reb,0,False,False,,Warriors Rebound,59-48,59,48
+0022100614,2022-01-11,MEM,GSW,23.92,2,0,5,GSW,GSW,fg3_make,80,False,False,,Thompson 24' 3PT Step Back Jump Shot (7 PTS) (Curry 6 AST),59-51,59,51
+0022100614,2022-01-11,MEM,GSW,24.0,3,12,0,GSW,,period_start,0,False,False,,,59-51,59,51
+0022100614,2022-01-11,MEM,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,59-51,59,51
+0022100614,2022-01-11,MEM,GSW,24.33,3,11,40,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 3PT Jump Shot,,59-51,59,51
+0022100614,2022-01-11,MEM,GSW,24.4,3,11,36,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:3),59-51,59,51
+0022100614,2022-01-11,MEM,GSW,24.6,3,11,24,GSW,GSW,fg3_make,1,False,False,,Thompson 26' 3PT Jump Shot (10 PTS) (Curry 7 AST),59-54,59,54
+0022100614,2022-01-11,MEM,GSW,24.8,3,11,12,MEM,MEM,tov,1,False,True,Bane Bad Pass Turnover (P1.T6),,59-54,59,54
+0022100614,2022-01-11,MEM,GSW,24.8,3,11,12,MEM,GSW,steal,1,False,True,steal,steal,59-54,59,54
+0022100614,2022-01-11,MEM,GSW,24.92,3,11,5,GSW,GSW,ft_make,12,False,False,,Looney Free Throw 2 of 2 (2 PTS),59-56,59,56
+0022100614,2022-01-11,MEM,GSW,24.92,3,11,5,GSW,MEM,foul,2,False,False,Williams S.FOUL (P2.T1) (Z.Zarba),,59-54,59,54
+0022100614,2022-01-11,MEM,GSW,24.92,3,11,5,GSW,GSW,ft_make,11,False,False,,Looney Free Throw 1 of 2 (1 PTS),59-55,59,55
+0022100614,2022-01-11,MEM,GSW,25.1,3,10,54,MEM,MEM,fg_miss,75,False,False,MISS Morant 2' Driving Finger Roll Layup,,59-56,59,56
+0022100614,2022-01-11,MEM,GSW,25.13,3,10,52,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:8),59-56,59,56
+0022100614,2022-01-11,MEM,GSW,25.22,3,10,47,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 3 Short 0),,59-56,59,56
+0022100614,2022-01-11,MEM,GSW,25.22,3,10,47,GSW,MEM,foul,2,False,False,Jackson Jr. S.FOUL (P4.T2) (C.Blair),,59-56,59,56
+0022100614,2022-01-11,MEM,GSW,25.22,3,10,47,MEM,GSW,ft_make,11,False,False,,Looney Free Throw 1 of 2 (3 PTS),59-57,59,57
+0022100614,2022-01-11,MEM,GSW,25.22,3,10,47,MEM,GSW,ft_make,12,False,False,,Looney Free Throw 2 of 2 (4 PTS),59-58,59,58
+0022100614,2022-01-11,MEM,GSW,25.5,3,10,30,MEM,MEM,fg_miss,6,False,False,MISS Morant 4' Driving Layup,,59-58,59,58
+0022100614,2022-01-11,MEM,GSW,25.5,3,10,30,GSW,GSW,reb,0,False,False,,Warriors Rebound,59-58,59,58
+0022100614,2022-01-11,MEM,GSW,25.85,3,10,9,GSW,GSW,fg3_make,80,False,False,,Curry 25' 3PT Step Back Jump Shot (15 PTS),59-61,59,61
+0022100614,2022-01-11,MEM,GSW,26.12,3,9,53,MEM,MEM,tov,1,False,True,Bane Bad Pass Turnover (P2.T7),,59-61,59,61
+0022100614,2022-01-11,MEM,GSW,26.12,3,9,53,MEM,GSW,steal,1,False,True,steal,steal,59-61,59,61
+0022100614,2022-01-11,MEM,GSW,26.18,3,9,49,GSW,GSW,fg_make,100,False,False,,Payton II 1' Running Alley Oop Layup Shot (4 PTS) (Curry 8 AST),59-63,59,63
+0022100614,2022-01-11,MEM,GSW,26.35,3,9,39,MEM,GSW,foul,1,False,False,,Curry P.FOUL (P3.T1) (Z.Zarba),59-63,59,63
+0022100614,2022-01-11,MEM,GSW,26.55,3,9,27,MEM,MEM,fg_miss,80,False,False,MISS Bane 17' Step Back Jump Shot,,59-63,59,63
+0022100614,2022-01-11,MEM,GSW,26.57,3,9,26,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:3),,59-63,59,63
+0022100614,2022-01-11,MEM,GSW,26.57,3,9,26,MEM,MEM,fg_make,97,False,False,Clarke Tip Layup Shot (5 PTS),,61-63,61,63
+0022100614,2022-01-11,MEM,GSW,26.83,3,9,10,GSW,GSW,fg3_make,1,False,False,,Wiggins 25' 3PT Jump Shot (13 PTS) (Curry 9 AST),61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.03,3,8,58,MEM,GSW,steal,2,False,True,steal,steal,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.03,3,8,58,MEM,MEM,tov,2,False,True,Morant Lost Ball Turnover (P2.T8),,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.1,3,8,54,GSW,GSW,fg3_miss,103,False,False,,MISS Curry 25' 3PT Running Pull-Up Jump Shot,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.18,3,8,49,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:4),,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.28,3,8,43,MEM,MEM,tov,1,False,True,Anderson Bad Pass Turnover (P2.T9),,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.28,3,8,43,MEM,GSW,steal,1,False,True,steal,steal,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.32,3,8,41,GSW,MEM,steal,1,False,True,steal,steal,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.32,3,8,41,GSW,GSW,tov,1,False,True,,Looney Bad Pass Turnover (P1.T13),61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.38,3,8,37,MEM,MEM,fg_miss,44,False,False,MISS Anderson 2' Reverse Layup,,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.42,3,8,35,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:3),61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.45,3,8,33,GSW,GSW,tov,39,False,False,,Thompson Step Out of Bounds Turnover (P3.T14),61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.73,3,8,16,MEM,MEM,fg_miss,79,False,False,MISS Williams 10' Pullup Jump Shot,,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,27.78,3,8,13,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:1 Def:4),61-66,61,66
+0022100614,2022-01-11,MEM,GSW,28.1,3,7,54,GSW,GSW,fg_miss,101,False,False,,MISS Curry 11' Driving Floating Jump Shot,61-66,61,66
+0022100614,2022-01-11,MEM,GSW,28.18,3,7,49,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:4),61-66,61,66
+0022100614,2022-01-11,MEM,GSW,28.18,3,7,49,GSW,GSW,fg_make,97,False,False,,Looney Tip Layup Shot (6 PTS),61-68,61,68
+0022100614,2022-01-11,MEM,GSW,28.33,3,7,40,MEM,GSW,foul,2,False,False,,Payton II S.FOUL (P3.T2) (C.Blair),61-68,61,68
+0022100614,2022-01-11,MEM,GSW,28.33,3,7,40,MEM,MEM,ft_make,13,False,False,Bane Free Throw 1 of 3 (7 PTS),,62-68,62,68
+0022100614,2022-01-11,MEM,GSW,28.33,3,7,40,MEM,MEM,ft_make,14,False,False,Bane Free Throw 2 of 3 (8 PTS),,63-68,63,68
+0022100614,2022-01-11,MEM,GSW,28.33,3,7,40,MEM,MEM,ft_miss,15,False,False,MISS Bane Free Throw 3 of 3,,63-68,63,68
+0022100614,2022-01-11,MEM,GSW,28.38,3,7,37,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:2),63-68,63,68
+0022100614,2022-01-11,MEM,GSW,28.58,3,7,25,GSW,GSW,fg3_make,1,False,False,,Curry 25' 3PT Jump Shot (18 PTS) (Wiggins 2 AST),63-71,63,71
+0022100614,2022-01-11,MEM,GSW,28.72,3,7,17,MEM,MEM,fg3_make,79,False,False,Bane 28' 3PT Pullup Jump Shot (11 PTS),,66-71,66,71
+0022100614,2022-01-11,MEM,GSW,28.77,3,7,14,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.3 Short 0),66-71,66,71
+0022100614,2022-01-11,MEM,GSW,28.97,3,7,2,GSW,GSW,fg_make,101,False,False,,Curry 5' Driving Floating Jump Shot (20 PTS),66-73,66,73
+0022100614,2022-01-11,MEM,GSW,28.97,3,7,2,GSW,MEM,foul,2,False,False,Williams S.FOUL (P3.T3) (C.Blair),,66-73,66,73
+0022100614,2022-01-11,MEM,GSW,28.97,3,7,2,GSW,GSW,ft_make,10,False,False,,Curry Free Throw 1 of 1 (21 PTS),66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.3,3,6,42,MEM,MEM,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.37,3,6,38,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:0 Def:3),66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.53,3,6,28,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 25' 3PT Jump Shot,66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.58,3,6,25,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:4),,66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.65,3,6,21,MEM,MEM,fg3_miss,103,False,False,MISS Bane 28' 3PT Running Pull-Up Jump Shot,,66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.73,3,6,16,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:4),66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.97,3,6,2,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.97,3,6,2,GSW,GSW,fg_miss,1,False,False,,MISS Lee 20' Jump Shot,66-74,66,74
+0022100614,2022-01-11,MEM,GSW,29.97,3,6,2,MEM,GSW,foul,3,False,False,,Looney L.B.FOUL (P2.T3) (Z.Zarba),66-74,66,74
+0022100614,2022-01-11,MEM,GSW,30.22,3,5,47,MEM,MEM,fg_make,79,False,False,Clarke 10' Pullup Jump Shot (7 PTS),,68-74,68,74
+0022100614,2022-01-11,MEM,GSW,30.47,3,5,32,GSW,GSW,fg_miss,98,False,False,,MISS Payton II 6' Cutting Layup Shot,68-74,68,74
+0022100614,2022-01-11,MEM,GSW,30.52,3,5,29,MEM,MEM,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,68-74,68,74
+0022100614,2022-01-11,MEM,GSW,30.57,3,5,26,MEM,MEM,ft_make,10,False,False,Clarke Free Throw 1 of 1 (10 PTS),,71-74,71,74
+0022100614,2022-01-11,MEM,GSW,30.57,3,5,26,MEM,MEM,fg_make,99,False,False,Clarke 2' Cutting Finger Roll Layup Shot (9 PTS) (Jones 2 AST),,70-74,70,74
+0022100614,2022-01-11,MEM,GSW,30.57,3,5,26,MEM,GSW,foul,2,False,False,,Payton II S.FOUL (P4.T4) (N.Sago),70-74,70,74
+0022100614,2022-01-11,MEM,GSW,30.78,3,5,13,GSW,MEM,steal,1,False,True,steal,steal,71-74,71,74
+0022100614,2022-01-11,MEM,GSW,30.78,3,5,13,GSW,GSW,tov,1,False,True,,Wiggins Bad Pass Turnover (P4.T15),71-74,71,74
+0022100614,2022-01-11,MEM,GSW,30.85,3,5,9,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),73-74,73,74
+0022100614,2022-01-11,MEM,GSW,30.85,3,5,9,MEM,MEM,fg_make,50,False,False,Anderson Running Dunk (8 PTS) (Jones 3 AST),,73-74,73,74
+0022100614,2022-01-11,MEM,GSW,31.12,3,4,53,GSW,GSW,fg_miss,1,False,False,,MISS Porter Jr. 14' Jump Shot,73-74,73,74
+0022100614,2022-01-11,MEM,GSW,31.17,3,4,50,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:2),,73-74,73,74
+0022100614,2022-01-11,MEM,GSW,31.38,3,4,37,MEM,MEM,fg_make,101,False,False,Jones 10' Driving Floating Jump Shot (11 PTS) (Williams 2 AST),,75-74,75,74
+0022100614,2022-01-11,MEM,GSW,31.6,3,4,24,GSW,MEM,steal,1,False,True,steal,steal,75-74,75,74
+0022100614,2022-01-11,MEM,GSW,31.6,3,4,24,GSW,GSW,tov,1,False,True,,Curry Bad Pass Turnover (P3.T16),75-74,75,74
+0022100614,2022-01-11,MEM,GSW,31.67,3,4,20,MEM,MEM,fg_make,106,False,False,Williams 1' Running Alley Oop Dunk Shot (12 PTS) (Morant 5 AST),,77-74,77,74
+0022100614,2022-01-11,MEM,GSW,31.87,3,4,8,GSW,GSW,fg_make,80,False,False,,Curry 19' Step Back Jump Shot (23 PTS),77-76,77,76
+0022100614,2022-01-11,MEM,GSW,32.1,3,3,54,MEM,MEM,fg3_miss,1,False,False,MISS Williams 24' 3PT Jump Shot,,77-76,77,76
+0022100614,2022-01-11,MEM,GSW,32.15,3,3,51,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:2),77-76,77,76
+0022100614,2022-01-11,MEM,GSW,32.28,3,3,43,GSW,GSW,fg_miss,73,False,False,,MISS Curry 1' Driving Reverse Layup,77-76,77,76
+0022100614,2022-01-11,MEM,GSW,32.4,3,3,36,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:0 Def:2),,77-76,77,76
+0022100614,2022-01-11,MEM,GSW,32.45,3,3,33,MEM,MEM,fg_make,52,False,False,Clarke 1' Alley Oop Dunk (12 PTS) (Morant 6 AST),,79-76,79,76
+0022100614,2022-01-11,MEM,GSW,32.82,3,3,11,GSW,GSW,fg3_make,1,False,False,,Porter Jr. 25' 3PT Jump Shot (8 PTS) (Lee 1 AST),79-79,79,79
+0022100614,2022-01-11,MEM,GSW,33.07,3,2,56,MEM,MEM,fg3_miss,1,False,False,MISS Morant 28' 3PT Jump Shot,,79-79,79,79
+0022100614,2022-01-11,MEM,GSW,33.1,3,2,54,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:9),79-79,79,79
+0022100614,2022-01-11,MEM,GSW,33.2,3,2,48,GSW,GSW,ft_make,13,False,False,,Curry Free Throw 1 of 3 (24 PTS),79-80,79,80
+0022100614,2022-01-11,MEM,GSW,33.2,3,2,48,GSW,GSW,ft_miss,15,False,False,,MISS Curry Free Throw 3 of 3,79-81,79,81
+0022100614,2022-01-11,MEM,GSW,33.2,3,2,48,GSW,GSW,ft_make,14,False,False,,Curry Free Throw 2 of 3 (25 PTS),79-81,79,81
+0022100614,2022-01-11,MEM,GSW,33.2,3,2,48,GSW,MEM,foul,2,False,False,Tillman S.FOUL (P1.T4) (C.Blair),,79-79,79,79
+0022100614,2022-01-11,MEM,GSW,33.23,3,2,46,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:5),,79-81,79,81
+0022100614,2022-01-11,MEM,GSW,33.47,3,2,32,MEM,GSW,foul,2,False,False,,Iguodala S.FOUL (P2.PN) (N.Sago),81-81,81,81
+0022100614,2022-01-11,MEM,GSW,33.47,3,2,32,MEM,MEM,fg_make,102,False,False,Morant 4' Driving Floating Bank Jump Shot (20 PTS) (Konchar 2 AST),,81-81,81,81
+0022100614,2022-01-11,MEM,GSW,33.47,3,2,32,MEM,MEM,ft_make,10,False,False,Morant Free Throw 1 of 1 (21 PTS),,82-81,82,81
+0022100614,2022-01-11,MEM,GSW,33.87,3,2,8,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#17),82-81,82,81
+0022100614,2022-01-11,MEM,GSW,34.15,3,1,51,MEM,MEM,fg_make,79,False,False,Melton 22' Pullup Jump Shot (2 PTS),,84-81,84,81
+0022100614,2022-01-11,MEM,GSW,34.42,3,1,35,GSW,GSW,ft_make,12,False,False,,Lee Free Throw 2 of 2 (2 PTS),84-83,84,83
+0022100614,2022-01-11,MEM,GSW,34.42,3,1,35,GSW,GSW,ft_make,11,False,False,,Lee Free Throw 1 of 2 (1 PTS),84-82,84,82
+0022100614,2022-01-11,MEM,GSW,34.42,3,1,35,GSW,MEM,foul,1,False,False,Melton P.FOUL (P3.PN) (N.Sago),,84-81,84,81
+0022100614,2022-01-11,MEM,GSW,34.7,3,1,18,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (22 PTS),,85-83,85,83
+0022100614,2022-01-11,MEM,GSW,34.7,3,1,18,MEM,GSW,foul,2,False,False,,Porter Jr. S.FOUL (P1.PN) (N.Sago),84-83,84,83
+0022100614,2022-01-11,MEM,GSW,34.7,3,1,18,MEM,MEM,ft_miss,11,False,False,MISS Morant Free Throw 1 of 2,,84-83,84,83
+0022100614,2022-01-11,MEM,GSW,34.7,3,1,18,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,84-83,84,83
+0022100614,2022-01-11,MEM,GSW,35.08,3,0,55,GSW,GSW,fg3_make,1,False,False,,Lee 27' 3PT Jump Shot (5 PTS) (Poole 1 AST),85-86,85,86
+0022100614,2022-01-11,MEM,GSW,35.27,3,0,44,MEM,MEM,fg_miss,80,False,False,MISS Melton 17' Step Back Jump Shot,,85-86,85,86
+0022100614,2022-01-11,MEM,GSW,35.32,3,0,41,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:3),85-86,85,86
+0022100614,2022-01-11,MEM,GSW,35.38,3,0,37,GSW,GSW,fg_make,106,False,False,,Payton II 1' Running Alley Oop Dunk Shot (6 PTS) (Iguodala 2 AST),85-88,85,88
+0022100614,2022-01-11,MEM,GSW,35.48,3,0,31,MEM,MEM,fg3_miss,1,False,False,MISS Melton 26' 3PT Jump Shot,,85-88,85,88
+0022100614,2022-01-11,MEM,GSW,35.57,3,0,26,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:3),85-88,85,88
+0022100614,2022-01-11,MEM,GSW,35.85,3,0,9,GSW,MEM,foul,1,False,False,Melton P.FOUL (P4.PN) (C.Blair),,85-88,85,88
+0022100614,2022-01-11,MEM,GSW,35.85,3,0,9,GSW,GSW,ft_make,11,False,False,,Poole Free Throw 1 of 2 (7 PTS),85-89,85,89
+0022100614,2022-01-11,MEM,GSW,35.85,3,0,9,GSW,GSW,ft_make,12,False,False,,Poole Free Throw 2 of 2 (8 PTS),85-90,85,90
+0022100614,2022-01-11,MEM,GSW,35.97,3,0,2,MEM,MEM,fg_make,6,False,False,Morant 2' Driving Layup (24 PTS),,87-90,87,90
+0022100614,2022-01-11,MEM,GSW,36.0,3,0,0,MEM,,period_end,0,False,False,,,87-90,87,90
+0022100614,2022-01-11,MEM,GSW,36.0,4,12,0,MEM,,period_start,0,False,False,,,87-90,87,90
+0022100614,2022-01-11,MEM,GSW,36.3,4,11,42,GSW,GSW,fg_miss,102,False,False,,MISS Curry 2' Driving Floating Bank Jump Shot,87-90,87,90
+0022100614,2022-01-11,MEM,GSW,36.35,4,11,39,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:3),,87-90,87,90
+0022100614,2022-01-11,MEM,GSW,36.42,4,11,35,MEM,MEM,fg3_make,2,False,False,Konchar 26' 3PT Running Jump Shot (3 PTS) (Jones 4 AST),,90-90,90,90
+0022100614,2022-01-11,MEM,GSW,36.68,4,11,19,GSW,GSW,fg_make,99,False,False,,Curry 1' Cutting Finger Roll Layup Shot (27 PTS) (Porter Jr. 2 AST),90-92,90,92
+0022100614,2022-01-11,MEM,GSW,36.82,4,11,11,MEM,MEM,fg_make,78,False,False,Jackson Jr. 13' Floating Jump Shot (7 PTS) (Jones 5 AST),,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.13,4,10,52,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 27' 3PT Jump Shot,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.2,4,10,48,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:0 Def:3),,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.38,4,10,37,MEM,MEM,fg_miss,78,False,False,MISS Jackson Jr. 12' Floating Jump Shot,,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.43,4,10,34,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:3),92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.6,4,10,24,GSW,GSW,fg3_miss,1,False,False,,MISS Bjelica 28' 3PT Jump Shot,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.67,4,10,20,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:4),,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.75,4,10,15,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 28' 3PT Jump Shot,,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.78,4,10,13,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:1 Def:3),,92-92,92,92
+0022100614,2022-01-11,MEM,GSW,37.82,4,10,11,MEM,MEM,fg_make,72,False,False,Jackson Jr. 1' Putback Layup (9 PTS),,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.05,4,9,57,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 24' 3PT Jump Shot,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.1,4,9,54,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:5),,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.3,4,9,42,MEM,GSW,block,58,True,False,block,block,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.3,4,9,42,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:3),,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.3,4,9,42,MEM,MEM,fg_miss,58,True,False,MISS Jackson Jr. 7' Turnaround Hook Shot,,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.32,4,9,41,MEM,MEM,fg_miss,58,False,False,MISS Jackson Jr. 3' Turnaround Hook Shot,,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.35,4,9,39,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:4),94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.53,4,9,28,GSW,GSW,fg3_miss,80,False,False,,MISS Poole 24' 3PT Step Back Jump Shot,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.57,4,9,26,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,94-92,94,92
+0022100614,2022-01-11,MEM,GSW,38.75,4,9,15,MEM,MEM,fg3_make,1,False,False,Williams 24' 3PT Jump Shot (15 PTS) (Jones 6 AST),,97-92,97,92
+0022100614,2022-01-11,MEM,GSW,39.23,4,8,46,GSW,GSW,fg3_make,1,False,False,,Poole 25' 3PT Jump Shot (11 PTS) (Curry 10 AST),97-95,97,95
+0022100614,2022-01-11,MEM,GSW,39.57,4,8,26,MEM,MEM,fg3_miss,79,False,False,MISS Bane 28' 3PT Pullup Jump Shot,,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,39.6,4,8,24,GSW,GSW,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:4),97-95,97,95
+0022100614,2022-01-11,MEM,GSW,39.8,4,8,12,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 25' 3PT Jump Shot,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,39.87,4,8,8,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:4),,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.13,4,7,52,MEM,MEM,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.18,4,7,49,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:1 Def:1),,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.22,4,7,47,MEM,MEM,fg3_miss,1,False,False,MISS Bane 26' 3PT Jump Shot,,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.28,4,7,43,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:5),97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.53,4,7,28,GSW,GSW,fg3_miss,1,True,False,,MISS Payton II 3PT Jump Shot,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.53,4,7,28,GSW,MEM,block,1,True,False,block,block,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.6,4,7,24,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:5),,97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.65,4,7,21,MEM,GSW,foul,1,False,False,,Payton II P.FOUL (P5.T1) (C.Blair),97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.77,4,7,14,MEM,MEM,ft_make,11,False,False,Jackson Jr. Free Throw 1 of 2 (10 PTS),,98-95,98,95
+0022100614,2022-01-11,MEM,GSW,40.77,4,7,14,MEM,GSW,foul,2,False,False,,Iguodala S.FOUL (P3.T2) (Z.Zarba),97-95,97,95
+0022100614,2022-01-11,MEM,GSW,40.77,4,7,14,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (11 PTS),,99-95,99,95
+0022100614,2022-01-11,MEM,GSW,41.18,4,6,49,GSW,GSW,fg3_make,1,False,False,,Payton II 25' 3PT Jump Shot (9 PTS) (Poole 2 AST),99-98,99,98
+0022100614,2022-01-11,MEM,GSW,41.38,4,6,37,MEM,MEM,fg_make,52,False,False,Williams 1' Alley Oop Dunk (17 PTS) (Morant 7 AST),,101-98,101,98
+0022100614,2022-01-11,MEM,GSW,41.38,4,6,37,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.5 Short 0),101-98,101,98
+0022100614,2022-01-11,MEM,GSW,41.75,4,6,15,GSW,MEM,foul,17,False,False,GRIZZLIES T.Foul (Def. 3 Sec Williams ) (C.Blair),,101-98,101,98
+0022100614,2022-01-11,MEM,GSW,41.75,4,6,15,GSW,GSW,ft_make,16,False,False,,Poole Free Throw Technical (12 PTS),101-99,101,99
+0022100614,2022-01-11,MEM,GSW,41.88,4,6,7,GSW,GSW,fg3_miss,1,False,False,,MISS Wiggins 25' 3PT Jump Shot,101-99,101,99
+0022100614,2022-01-11,MEM,GSW,41.92,4,6,5,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:6),,101-99,101,99
+0022100614,2022-01-11,MEM,GSW,42.08,4,5,55,MEM,MEM,fg_make,5,False,False,Clarke 1' Layup (14 PTS) (Morant 8 AST),,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,42.37,4,5,38,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 25' 3PT Jump Shot,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,42.4,4,5,36,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:5),,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,42.72,4,5,17,MEM,MEM,fg3_miss,1,False,False,MISS Bane 26' 3PT Jump Shot,,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,42.8,4,5,12,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:0 Def:1),103-99,103,99
+0022100614,2022-01-11,MEM,GSW,42.93,4,5,4,GSW,GSW,fg_miss,101,True,False,,MISS Poole 9' Driving Floating Jump Shot,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,42.93,4,5,4,GSW,MEM,block,101,True,False,block,block,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,43.05,4,4,57,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:7),,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,43.13,4,4,52,MEM,MEM,fg3_miss,1,False,False,MISS Morant 26' 3PT Jump Shot,,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,43.25,4,4,45,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:0 Def:4),103-99,103,99
+0022100614,2022-01-11,MEM,GSW,43.35,4,4,39,GSW,MEM,foul,2,False,False,Clarke S.FOUL (P1.T1) (C.Blair),,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,43.35,4,4,39,GSW,GSW,ft_miss,11,False,False,,MISS Porter Jr. Free Throw 1 of 2,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,43.35,4,4,39,GSW,GSW,reb,1,False,False,,Warriors Rebound,103-99,103,99
+0022100614,2022-01-11,MEM,GSW,43.35,4,4,39,GSW,GSW,ft_make,12,False,False,,Porter Jr. Free Throw 2 of 2 (9 PTS),103-100,103,100
+0022100614,2022-01-11,MEM,GSW,43.77,4,4,14,MEM,MEM,fg_miss,101,False,False,MISS Jackson Jr. 9' Driving Floating Jump Shot,,103-100,103,100
+0022100614,2022-01-11,MEM,GSW,43.82,4,4,11,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:1 Def:5),,103-100,103,100
+0022100614,2022-01-11,MEM,GSW,43.85,4,4,9,MEM,MEM,fg3_make,1,False,False,Jones 27' 3PT Jump Shot (14 PTS),,106-100,106,100
+0022100614,2022-01-11,MEM,GSW,44.12,4,3,53,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 26' 3PT Jump Shot,106-100,106,100
+0022100614,2022-01-11,MEM,GSW,44.15,4,3,51,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:6),,106-100,106,100
+0022100614,2022-01-11,MEM,GSW,44.43,4,3,34,MEM,MEM,fg3_make,79,False,False,Jones 27' 3PT Pullup Jump Shot (17 PTS),,109-100,109,100
+0022100614,2022-01-11,MEM,GSW,44.65,4,3,21,GSW,GSW,fg_miss,75,True,False,,MISS Curry 2' Driving Finger Roll Layup,109-100,109,100
+0022100614,2022-01-11,MEM,GSW,44.65,4,3,21,GSW,GSW,reb,0,False,False,,Warriors Rebound,109-100,109,100
+0022100614,2022-01-11,MEM,GSW,44.65,4,3,21,GSW,MEM,block,75,True,False,block,block,109-100,109,100
+0022100614,2022-01-11,MEM,GSW,44.8,4,3,12,GSW,MEM,block,6,True,False,block,block,109-100,109,100
+0022100614,2022-01-11,MEM,GSW,44.8,4,3,12,GSW,GSW,fg_miss,6,True,False,,MISS Thompson 2' Driving Layup,109-100,109,100
+0022100614,2022-01-11,MEM,GSW,44.88,4,3,7,GSW,GSW,reb,0,False,False,,Payton II REBOUND (Off:1 Def:4),109-100,109,100
+0022100614,2022-01-11,MEM,GSW,44.88,4,3,7,GSW,GSW,fg_make,72,False,False,,Payton II Putback Layup (11 PTS),109-102,109,102
+0022100614,2022-01-11,MEM,GSW,45.2,4,2,48,MEM,MEM,tov,37,False,False,Bane Offensive Foul Turnover (P3.T10),,109-102,109,102
+0022100614,2022-01-11,MEM,GSW,45.2,4,2,48,GSW,MEM,foul,4,False,False,Bane OFF.Foul (P2) (C.Blair),,109-102,109,102
+0022100614,2022-01-11,MEM,GSW,45.2,4,2,48,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 4 Short 0),,109-102,109,102
+0022100614,2022-01-11,MEM,GSW,45.37,4,2,38,GSW,GSW,ft_make,11,False,False,,Thompson Free Throw 1 of 2 (11 PTS),109-103,109,103
+0022100614,2022-01-11,MEM,GSW,45.37,4,2,38,GSW,GSW,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (12 PTS),109-104,109,104
+0022100614,2022-01-11,MEM,GSW,45.37,4,2,38,GSW,MEM,foul,2,False,False,Clarke S.FOUL (P2.T2) (Z.Zarba),,109-102,109,102
+0022100614,2022-01-11,MEM,GSW,45.6,4,2,24,MEM,MEM,fg_miss,75,False,False,MISS Morant 1' Driving Finger Roll Layup,,109-104,109,104
+0022100614,2022-01-11,MEM,GSW,45.67,4,2,20,MEM,MEM,fg_miss,97,False,False,MISS Clarke Tip Layup Shot,,109-104,109,104
+0022100614,2022-01-11,MEM,GSW,45.67,4,2,20,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:3 Def:6),,109-104,109,104
+0022100614,2022-01-11,MEM,GSW,45.68,4,2,19,GSW,GSW,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:6),109-104,109,104
+0022100614,2022-01-11,MEM,GSW,45.75,4,2,15,GSW,GSW,fg3_miss,80,False,False,,MISS Thompson 26' 3PT Step Back Jump Shot,109-104,109,104
+0022100614,2022-01-11,MEM,GSW,45.8,4,2,12,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:8),,109-104,109,104
+0022100614,2022-01-11,MEM,GSW,46.05,4,1,57,MEM,MEM,fg_make,102,False,False,Jackson Jr. 5' Driving Floating Bank Jump Shot (13 PTS) (Jones 7 AST),,111-104,111,104
+0022100614,2022-01-11,MEM,GSW,46.37,4,1,38,GSW,GSW,fg_make,80,False,False,,Thompson 13' Step Back Jump Shot (14 PTS),111-106,111,106
+0022100614,2022-01-11,MEM,GSW,46.65,4,1,21,MEM,MEM,fg_miss,101,False,False,MISS Morant 6' Driving Floating Jump Shot,,111-106,111,106
+0022100614,2022-01-11,MEM,GSW,46.72,4,1,17,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:3),111-106,111,106
+0022100614,2022-01-11,MEM,GSW,46.77,4,1,14,GSW,GSW,fg_make,51,False,False,,Payton II 1' Reverse Dunk (13 PTS) (Thompson 3 AST),111-108,111,108
+0022100614,2022-01-11,MEM,GSW,47.12,4,0,53,MEM,MEM,fg_make,101,False,False,Morant 12' Driving Floating Jump Shot (26 PTS) (Jones 8 AST),,113-108,113,108
+0022100614,2022-01-11,MEM,GSW,47.2,4,0,48,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 29' 3PT Pullup Jump Shot,113-108,113,108
+0022100614,2022-01-11,MEM,GSW,47.3,4,0,42,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:2 Def:9),,113-108,113,108
+0022100614,2022-01-11,MEM,GSW,47.33,4,0,40,MEM,GSW,foul,1,False,False,,Wiggins P.FOUL (P2.T3) (C.Blair),113-108,113,108
+0022100614,2022-01-11,MEM,GSW,47.53,4,0,28,MEM,MEM,ft_make,10,False,False,Morant Free Throw 1 of 1 (29 PTS),,116-108,116,108
+0022100614,2022-01-11,MEM,GSW,47.53,4,0,28,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.6 Short 0),116-108,116,108
+0022100614,2022-01-11,MEM,GSW,47.53,4,0,28,MEM,GSW,foul,2,False,False,,Wiggins S.FOUL (P3.PN) (N.Sago),115-108,115,108
+0022100614,2022-01-11,MEM,GSW,47.53,4,0,28,MEM,MEM,fg_make,75,False,False,Morant 1' Driving Finger Roll Layup (28 PTS),,115-108,115,108
+0022100614,2022-01-11,MEM,GSW,47.62,4,0,23,GSW,GSW,fg_miss,63,False,False,,MISS Thompson 9' Fadeaway Jumper,116-108,116,108
+0022100614,2022-01-11,MEM,GSW,47.68,4,0,19,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:5),,116-108,116,108
+0022100614,2022-01-11,MEM,GSW,47.85,4,0,9,MEM,MEM,tov,2,False,True,Jones Lost Ball Turnover (P1.T11),,116-108,116,108
+0022100614,2022-01-11,MEM,GSW,47.85,4,0,9,MEM,GSW,steal,2,False,True,steal,steal,116-108,116,108
+0022100614,2022-01-11,MEM,GSW,47.92,4,0,5,GSW,GSW,fg_miss,75,False,False,,MISS Wiggins 2' Driving Finger Roll Layup,116-108,116,108
+0022100614,2022-01-11,MEM,GSW,47.97,4,0,2,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:1 Def:2),,116-108,116,108
+0022100614,2022-01-11,MEM,GSW,48.0,4,0,0,MEM,,period_end,0,False,False,,,116-108,116,108

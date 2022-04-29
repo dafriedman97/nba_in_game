@@ -1,0 +1,522 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000618,2021-03-17,PHI,MIL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000618,2021-03-17,PHI,MIL,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Bradley vs. Lopez: Tip to Antetokounmpo,,0-0,0,0
+0022000618,2021-03-17,PHI,MIL,0.33,1,11,40,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 27' 3PT Jump Shot,0-0,0,0
+0022000618,2021-03-17,PHI,MIL,0.38,1,11,37,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,0-0,0,0
+0022000618,2021-03-17,PHI,MIL,0.52,1,11,29,PHI,PHI,fg_miss,6,False,False,MISS Harris 3' Driving Layup,,0-0,0,0
+0022000618,2021-03-17,PHI,MIL,0.6,1,11,24,PHI,PHI,reb,0,False,False,Bradley REBOUND (Off:1 Def:0),,2-0,2,0
+0022000618,2021-03-17,PHI,MIL,0.6,1,11,24,PHI,PHI,fg_make,97,False,False,Bradley Tip Layup Shot (2 PTS),,2-0,2,0
+0022000618,2021-03-17,PHI,MIL,0.72,1,11,17,MIL,MIL,fg_miss,98,False,False,,MISS Lopez 3' Cutting Layup Shot,2-0,2,0
+0022000618,2021-03-17,PHI,MIL,0.75,1,11,15,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:0),2-0,2,0
+0022000618,2021-03-17,PHI,MIL,0.8,1,11,12,MIL,MIL,tov,2,False,True,,Lopez Lost Ball Turnover (P1.T1),2-0,2,0
+0022000618,2021-03-17,PHI,MIL,0.8,1,11,12,MIL,PHI,steal,2,False,True,steal,steal,2-0,2,0
+0022000618,2021-03-17,PHI,MIL,0.87,1,11,8,PHI,PHI,tov,45,False,False,Simmons Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,2-0,2,0
+0022000618,2021-03-17,PHI,MIL,1.02,1,10,59,MIL,PHI,foul,2,False,False,Simmons S.FOUL (P1.T1) (M.Lindsay),,2-0,2,0
+0022000618,2021-03-17,PHI,MIL,1.02,1,10,59,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (1 PTS),2-1,2,1
+0022000618,2021-03-17,PHI,MIL,1.02,1,10,59,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (2 PTS),2-2,2,2
+0022000618,2021-03-17,PHI,MIL,1.3,1,10,42,PHI,PHI,tov,1,False,True,Harris Bad Pass Turnover (P1.T2),,2-2,2,2
+0022000618,2021-03-17,PHI,MIL,1.3,1,10,42,PHI,MIL,steal,1,False,True,steal,steal,2-2,2,2
+0022000618,2021-03-17,PHI,MIL,1.38,1,10,37,MIL,MIL,fg_make,41,False,False,,Holiday 2' Running Layup (2 PTS),2-4,2,4
+0022000618,2021-03-17,PHI,MIL,1.47,1,10,32,PHI,PHI,fg3_make,1,False,False,Green 3PT Jump Shot (3 PTS) (Simmons 1 AST),,5-4,5,4
+0022000618,2021-03-17,PHI,MIL,1.67,1,10,20,MIL,MIL,tov,1,False,True,,Antetokounmpo Bad Pass Turnover (P1.T2),5-4,5,4
+0022000618,2021-03-17,PHI,MIL,1.67,1,10,20,MIL,PHI,steal,1,False,True,steal,steal,5-4,5,4
+0022000618,2021-03-17,PHI,MIL,1.93,1,10,4,PHI,PHI,fg_miss,3,False,False,MISS Simmons 7' Hook Shot,,5-4,5,4
+0022000618,2021-03-17,PHI,MIL,1.98,1,10,1,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:1),5-4,5,4
+0022000618,2021-03-17,PHI,MIL,2.05,1,9,57,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 24' 3PT Jump Shot,5-4,5,4
+0022000618,2021-03-17,PHI,MIL,2.1,1,9,54,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,5-4,5,4
+0022000618,2021-03-17,PHI,MIL,2.32,1,9,41,PHI,PHI,fg_make,80,False,False,Harris 8' Step Back Jump Shot (2 PTS),,7-4,7,4
+0022000618,2021-03-17,PHI,MIL,2.4,1,9,36,MIL,MIL,tov,45,False,False,,Middleton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),7-4,7,4
+0022000618,2021-03-17,PHI,MIL,2.78,1,9,13,PHI,PHI,fg_miss,5,False,False,MISS Simmons 3' Layup,,7-4,7,4
+0022000618,2021-03-17,PHI,MIL,2.82,1,9,11,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),7-4,7,4
+0022000618,2021-03-17,PHI,MIL,2.88,1,9,7,MIL,MIL,fg_make,5,False,False,,Holiday 2' Layup (4 PTS),7-6,7,6
+0022000618,2021-03-17,PHI,MIL,3.1,1,8,54,PHI,PHI,fg_make,79,False,False,Curry 22' Pullup Jump Shot (2 PTS) (Bradley 1 AST),,9-6,9,6
+0022000618,2021-03-17,PHI,MIL,3.45,1,8,33,MIL,MIL,fg_miss,86,False,False,,MISS Middleton 13' Turnaround Fadeaway Shot,9-6,9,6
+0022000618,2021-03-17,PHI,MIL,3.48,1,8,31,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:1),,9-6,9,6
+0022000618,2021-03-17,PHI,MIL,3.53,1,8,28,PHI,PHI,fg3_miss,103,False,False,MISS Curry 28' 3PT Running Pull-Up Jump Shot,,9-6,9,6
+0022000618,2021-03-17,PHI,MIL,3.6,1,8,24,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:2),9-6,9,6
+0022000618,2021-03-17,PHI,MIL,3.83,1,8,10,PHI,MIL,foul,26,False,False,,Antetokounmpo Offensive Charge Foul (P1.T1) (S.Foster),9-6,9,6
+0022000618,2021-03-17,PHI,MIL,3.83,1,8,10,MIL,MIL,tov,37,False,False,,Antetokounmpo Offensive Foul Turnover (P2.T4),9-6,9,6
+0022000618,2021-03-17,PHI,MIL,4.12,1,7,53,PHI,PHI,tov,2,False,True,Simmons Lost Ball Turnover (P2.T3),,9-6,9,6
+0022000618,2021-03-17,PHI,MIL,4.12,1,7,53,PHI,MIL,steal,2,False,True,steal,steal,9-6,9,6
+0022000618,2021-03-17,PHI,MIL,4.22,1,7,47,MIL,MIL,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,9-6,9,6
+0022000618,2021-03-17,PHI,MIL,4.28,1,7,43,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),9-6,9,6
+0022000618,2021-03-17,PHI,MIL,4.47,1,7,32,MIL,MIL,fg_make,5,False,False,,Middleton 1' Layup (2 PTS) (Antetokounmpo 1 AST),9-8,9,8
+0022000618,2021-03-17,PHI,MIL,4.75,1,7,15,MIL,PHI,foul,4,False,False,Bradley OFF.Foul (P1) (J.Goldenberg),,9-8,9,8
+0022000618,2021-03-17,PHI,MIL,4.75,1,7,15,PHI,PHI,tov,37,False,False,Bradley Offensive Foul Turnover (P1.T4),,9-8,9,8
+0022000618,2021-03-17,PHI,MIL,4.92,1,7,5,MIL,PHI,foul,2,False,False,Bradley S.FOUL (P2.T2) (J.Goldenberg),,9-8,9,8
+0022000618,2021-03-17,PHI,MIL,4.92,1,7,5,MIL,MIL,ft_miss,11,False,False,,MISS Lopez Free Throw 1 of 2,9-8,9,8
+0022000618,2021-03-17,PHI,MIL,4.92,1,7,5,MIL,MIL,reb,1,False,False,,Bucks Rebound,9-8,9,8
+0022000618,2021-03-17,PHI,MIL,4.92,1,7,5,MIL,MIL,ft_make,12,False,False,,Lopez Free Throw 2 of 2 (1 PTS),9-9,9,9
+0022000618,2021-03-17,PHI,MIL,5.1,1,6,54,PHI,PHI,tov,2,False,True,Curry Lost Ball Turnover (P1.T5),,9-9,9,9
+0022000618,2021-03-17,PHI,MIL,5.1,1,6,54,PHI,MIL,steal,2,False,True,steal,steal,9-9,9,9
+0022000618,2021-03-17,PHI,MIL,5.22,1,6,47,MIL,MIL,fg_make,80,False,False,,Middleton 19' Step Back Jump Shot (4 PTS) (Holiday 1 AST),9-11,9,11
+0022000618,2021-03-17,PHI,MIL,5.48,1,6,31,PHI,PHI,tov,1,False,False,Simmons Bad Pass Turnover (P3.T6),,9-11,9,11
+0022000618,2021-03-17,PHI,MIL,5.48,1,6,31,MIL,PHI,foul,3,False,False,Curry L.B.FOUL (P1.T3) (M.Lindsay),,9-11,9,11
+0022000618,2021-03-17,PHI,MIL,5.48,1,6,31,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,9-11,9,11
+0022000618,2021-03-17,PHI,MIL,5.58,1,6,25,MIL,MIL,fg3_miss,79,False,False,,MISS Holiday 27' 3PT Pullup Jump Shot,9-11,9,11
+0022000618,2021-03-17,PHI,MIL,5.63,1,6,22,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,9-11,9,11
+0022000618,2021-03-17,PHI,MIL,6.02,1,5,59,PHI,PHI,fg_make,79,False,False,Harris 8' Pullup Jump Shot (4 PTS),,11-11,11,11
+0022000618,2021-03-17,PHI,MIL,6.2,1,5,48,MIL,MIL,fg_miss,79,False,False,,MISS Middleton 17' Pullup Jump Shot,11-11,11,11
+0022000618,2021-03-17,PHI,MIL,6.27,1,5,44,PHI,PHI,reb,0,False,False,Bradley REBOUND (Off:1 Def:1),,11-11,11,11
+0022000618,2021-03-17,PHI,MIL,6.43,1,5,34,PHI,PHI,fg3_make,79,False,False,Green 26' 3PT Pullup Jump Shot (6 PTS) (Simmons 2 AST),,14-11,14,11
+0022000618,2021-03-17,PHI,MIL,6.72,1,5,17,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P2.T5),14-11,14,11
+0022000618,2021-03-17,PHI,MIL,6.72,1,5,17,MIL,PHI,steal,1,False,True,steal,steal,14-11,14,11
+0022000618,2021-03-17,PHI,MIL,6.83,1,5,10,PHI,PHI,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,14-11,14,11
+0022000618,2021-03-17,PHI,MIL,6.9,1,5,6,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:1),14-11,14,11
+0022000618,2021-03-17,PHI,MIL,6.98,1,5,1,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 27' 3PT Pullup Jump Shot,14-11,14,11
+0022000618,2021-03-17,PHI,MIL,7.03,1,4,58,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:2),,14-11,14,11
+0022000618,2021-03-17,PHI,MIL,7.08,1,4,55,PHI,PHI,tov,40,False,False,Simmons Out of Bounds Lost Ball Turnover (P4.T7),,14-11,14,11
+0022000618,2021-03-17,PHI,MIL,7.28,1,4,43,MIL,MIL,tov,45,False,False,,Middleton Out of Bounds - Bad Pass Turnover Turnover (P3.T6),14-11,14,11
+0022000618,2021-03-17,PHI,MIL,7.58,1,4,25,PHI,MIL,foul,1,False,False,,Middleton P.FOUL (P1.T2) (J.Goldenberg),14-11,14,11
+0022000618,2021-03-17,PHI,MIL,7.77,1,4,14,PHI,PHI,fg_miss,79,False,False,MISS Harris 16' Pullup Jump Shot,,14-11,14,11
+0022000618,2021-03-17,PHI,MIL,7.83,1,4,10,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:2),14-11,14,11
+0022000618,2021-03-17,PHI,MIL,7.87,1,4,8,MIL,MIL,fg_make,74,False,False,,Portis 1' Running Reverse Layup (2 PTS) (Middleton 1 AST),14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.02,1,3,59,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.07,1,3,56,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:1),14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.17,1,3,50,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.22,1,3,47,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.55,1,3,27,PHI,PHI,fg_miss,6,False,False,MISS Green 1' Driving Layup,,14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.58,1,3,25,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.65,1,3,21,MIL,MIL,tov,40,False,False,,Holiday Out of Bounds Lost Ball Turnover (P1.T7),14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.92,1,3,5,PHI,PHI,fg_miss,5,False,False,MISS Howard 2' Layup,,14-13,14,13
+0022000618,2021-03-17,PHI,MIL,8.95,1,3,3,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:1),14-13,14,13
+0022000618,2021-03-17,PHI,MIL,9.02,1,2,59,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 24' 3PT Jump Shot,14-13,14,13
+0022000618,2021-03-17,PHI,MIL,9.08,1,2,55,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:1),14-13,14,13
+0022000618,2021-03-17,PHI,MIL,9.1,1,2,54,MIL,MIL,tov,1,False,True,,Connaughton Bad Pass Turnover (P1.T8),14-13,14,13
+0022000618,2021-03-17,PHI,MIL,9.1,1,2,54,MIL,PHI,steal,1,False,True,steal,steal,14-13,14,13
+0022000618,2021-03-17,PHI,MIL,9.17,1,2,50,PHI,PHI,fg_make,100,False,False,Harris 1' Running Alley Oop Layup Shot (6 PTS) (Simmons 3 AST),,16-13,16,13
+0022000618,2021-03-17,PHI,MIL,9.17,1,2,50,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),16-13,16,13
+0022000618,2021-03-17,PHI,MIL,9.33,1,2,40,MIL,MIL,fg_make,108,False,False,,Antetokounmpo 1' Cutting Dunk Shot (4 PTS) (DiVincenzo 1 AST),16-15,16,15
+0022000618,2021-03-17,PHI,MIL,9.6,1,2,24,PHI,PHI,fg_miss,52,False,False,MISS Howard 1' Alley Oop Dunk,,16-15,16,15
+0022000618,2021-03-17,PHI,MIL,9.6,1,2,24,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:2),16-15,16,15
+0022000618,2021-03-17,PHI,MIL,9.8,1,2,12,MIL,MIL,fg_miss,1,False,False,,MISS Portis 13' Jump Shot,16-15,16,15
+0022000618,2021-03-17,PHI,MIL,9.85,1,2,9,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,16-15,16,15
+0022000618,2021-03-17,PHI,MIL,10.03,1,1,58,PHI,PHI,fg_make,108,False,False,Simmons 1' Cutting Dunk Shot (2 PTS) (Harris 1 AST),,18-15,18,15
+0022000618,2021-03-17,PHI,MIL,10.3,1,1,42,MIL,MIL,fg3_miss,1,False,False,,MISS Forbes 26' 3PT Jump Shot,18-15,18,15
+0022000618,2021-03-17,PHI,MIL,10.33,1,1,40,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,18-15,18,15
+0022000618,2021-03-17,PHI,MIL,10.5,1,1,30,PHI,PHI,fg_miss,101,False,False,MISS Simmons 5' Driving Floating Jump Shot,,18-15,18,15
+0022000618,2021-03-17,PHI,MIL,10.53,1,1,28,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:3),18-15,18,15
+0022000618,2021-03-17,PHI,MIL,10.7,1,1,18,MIL,MIL,fg_miss,79,False,False,,MISS DiVincenzo 11' Pullup Jump Shot,18-15,18,15
+0022000618,2021-03-17,PHI,MIL,10.75,1,1,15,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:0 Def:2),,18-15,18,15
+0022000618,2021-03-17,PHI,MIL,10.9,1,1,6,PHI,PHI,fg_make,58,False,False,Simmons 3' Turnaround Hook Shot (4 PTS) (Milton 1 AST),,20-15,20,15
+0022000618,2021-03-17,PHI,MIL,11.1,1,0,54,MIL,MIL,fg_miss,102,False,False,,MISS Portis 6' Driving Floating Bank Jump Shot,20-15,20,15
+0022000618,2021-03-17,PHI,MIL,11.15,1,0,51,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:1),,20-15,20,15
+0022000618,2021-03-17,PHI,MIL,11.28,1,0,43,PHI,PHI,fg3_make,1,False,False,Korkmaz 3PT Jump Shot (3 PTS) (Simmons 4 AST),,23-15,23,15
+0022000618,2021-03-17,PHI,MIL,11.5,1,0,30,MIL,MIL,fg3_make,1,False,False,,DiVincenzo 27' 3PT Jump Shot (3 PTS) (Antetokounmpo 2 AST),23-18,23,18
+0022000618,2021-03-17,PHI,MIL,11.78,1,0,13,PHI,PHI,fg_make,52,False,False,Howard 1' Alley Oop Dunk (2 PTS) (Harris 2 AST),,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,11.97,1,0,2,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 26' 3PT Jump Shot,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,11.97,1,0,2,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:2),25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.0,1,0,0,MIL,PHI,foul,2,False,False,Howard S.FOUL (P1.T4) (S.Foster),,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.0,1,0,0,MIL,MIL,ft_miss,11,False,False,,MISS Connaughton Free Throw 1 of 2,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.0,1,0,0,MIL,MIL,reb,1,False,False,,Bucks Rebound,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.0,1,0,0,MIL,MIL,ft_miss,12,False,False,,MISS Connaughton Free Throw 2 of 2,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.0,1,0,0,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:0 Def:3),,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.0,1,0,0,PHI,,period_end,0,False,False,,,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.0,2,12,0,PHI,,period_start,0,False,False,,,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.15,2,11,51,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P1.T8),,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.15,2,11,51,PHI,MIL,steal,1,False,True,steal,steal,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.22,2,11,47,MIL,MIL,fg_miss,41,True,False,,MISS Forbes 3' Running Layup,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.22,2,11,47,MIL,PHI,block,41,True,False,block,block,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.27,2,11,44,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:0),25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.37,2,11,38,MIL,MIL,fg_miss,6,False,False,,MISS DiVincenzo 2' Driving Layup,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.4,2,11,36,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:0 Def:4),,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.48,2,11,31,PHI,MIL,violation,5,False,False,,Middleton Violation:Kicked Ball (S.Foster),25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.57,2,11,26,PHI,PHI,fg3_miss,79,False,False,MISS Milton 26' 3PT Pullup Jump Shot,,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.65,2,11,21,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:1),25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.77,2,11,14,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P4.T9),25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.77,2,11,14,MIL,PHI,steal,2,False,True,steal,steal,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.97,2,11,2,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P2.T9),,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,12.97,2,11,2,PHI,MIL,steal,1,False,True,steal,steal,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.05,2,10,57,MIL,MIL,fg3_miss,1,False,False,,MISS Forbes 26' 3PT Jump Shot,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.08,2,10,55,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:2 Def:2),25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.28,2,10,43,MIL,MIL,fg_miss,57,False,False,,MISS Portis 7' Driving Hook Shot,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.28,2,10,43,PHI,PHI,reb,0,False,False,76ERS Rebound,,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.28,2,10,43,PHI,MIL,foul,3,False,False,,DiVincenzo L.B.FOUL (P1.T1) (S.Foster),25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.48,2,10,31,PHI,PHI,fg_miss,102,False,False,MISS Korkmaz 3' Driving Floating Bank Jump Shot,,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.55,2,10,27,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:4),,25-18,25,18
+0022000618,2021-03-17,PHI,MIL,13.55,2,10,27,PHI,PHI,fg_make,97,False,False,Howard Tip Layup Shot (4 PTS),,27-18,27,18
+0022000618,2021-03-17,PHI,MIL,13.65,2,10,21,MIL,MIL,tov,45,False,False,,Middleton Out of Bounds - Bad Pass Turnover Turnover (P5.T10),27-18,27,18
+0022000618,2021-03-17,PHI,MIL,13.82,2,10,11,PHI,PHI,fg_make,79,False,False,Milton 11' Pullup Jump Shot (2 PTS),,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.13,2,9,52,MIL,MIL,fg_miss,75,False,False,,MISS Middleton 3' Driving Finger Roll Layup,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.17,2,9,50,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:1),,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.2,2,9,48,MIL,PHI,foul,26,False,False,Milton Offensive Charge Foul (P1.T1) (M.Lindsay),,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.2,2,9,48,PHI,PHI,tov,37,False,False,Milton Offensive Foul Turnover (P1.T10),,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.43,2,9,34,MIL,MIL,fg_miss,79,False,False,,MISS Forbes 18' Pullup Jump Shot,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.48,2,9,31,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.72,2,9,17,PHI,PHI,fg_miss,101,False,False,MISS Milton 7' Driving Floating Jump Shot,,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.75,2,9,15,MIL,MIL,reb,0,False,False,,Bucks Rebound,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.92,2,9,5,MIL,PHI,foul,2,False,False,Milton S.FOUL (P2.T2) (S.Foster),,29-18,29,18
+0022000618,2021-03-17,PHI,MIL,14.92,2,9,5,MIL,MIL,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (5 PTS),29-19,29,19
+0022000618,2021-03-17,PHI,MIL,14.92,2,9,5,MIL,MIL,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (6 PTS),29-20,29,20
+0022000618,2021-03-17,PHI,MIL,15.22,2,8,47,PHI,PHI,fg_miss,75,False,False,MISS Milton 1' Driving Finger Roll Layup,,29-20,29,20
+0022000618,2021-03-17,PHI,MIL,15.27,2,8,44,MIL,MIL,reb,0,False,False,,Forbes REBOUND (Off:0 Def:1),29-20,29,20
+0022000618,2021-03-17,PHI,MIL,15.32,2,8,41,MIL,MIL,fg3_miss,1,False,False,,MISS Forbes 27' 3PT Jump Shot,29-20,29,20
+0022000618,2021-03-17,PHI,MIL,15.37,2,8,38,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:5),,29-20,29,20
+0022000618,2021-03-17,PHI,MIL,15.52,2,8,29,PHI,PHI,fg_make,1,False,False,Howard 18' Jump Shot (6 PTS) (Milton 2 AST),,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,15.83,2,8,10,MIL,MIL,fg_miss,3,False,False,,MISS Lopez 7' Hook Shot,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,15.85,2,8,9,MIL,MIL,reb,0,False,False,,Bucks Rebound,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,15.87,2,8,8,MIL,MIL,fg_miss,5,True,False,,MISS Forbes 4' Layup,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,15.87,2,8,8,MIL,PHI,block,5,True,False,block,block,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,15.87,2,8,8,MIL,MIL,reb,0,False,False,,Bucks Rebound,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,15.98,2,8,1,MIL,MIL,fg_miss,1,False,False,,MISS Middleton 10' Jump Shot,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,16.05,2,7,57,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:6),,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,16.1,2,7,54,PHI,MIL,foul,2,False,False,,Connaughton S.FOUL (P1.T2) (S.Foster),31-20,31,20
+0022000618,2021-03-17,PHI,MIL,16.1,2,7,54,PHI,PHI,ft_make,13,False,False,Korkmaz Free Throw 1 of 3 (4 PTS),,32-20,32,20
+0022000618,2021-03-17,PHI,MIL,16.1,2,7,54,PHI,PHI,ft_miss,14,False,False,MISS Korkmaz Free Throw 2 of 3,,32-20,32,20
+0022000618,2021-03-17,PHI,MIL,16.1,2,7,54,PHI,PHI,reb,1,False,False,76ERS Rebound,,32-20,32,20
+0022000618,2021-03-17,PHI,MIL,16.1,2,7,54,PHI,PHI,ft_make,15,False,False,Korkmaz Free Throw 3 of 3 (5 PTS),,33-20,33,20
+0022000618,2021-03-17,PHI,MIL,16.32,2,7,41,MIL,MIL,tov,45,False,False,,Holiday Out of Bounds - Bad Pass Turnover Turnover (P2.T11),33-20,33,20
+0022000618,2021-03-17,PHI,MIL,16.6,2,7,24,PHI,MIL,foul,1,False,False,,Connaughton P.FOUL (P2.T3) (J.Goldenberg),33-20,33,20
+0022000618,2021-03-17,PHI,MIL,16.67,2,7,20,PHI,PHI,fg_make,79,False,False,Milton 15' Pullup Jump Shot (4 PTS) (Simmons 5 AST),,35-20,35,20
+0022000618,2021-03-17,PHI,MIL,16.68,2,7,19,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.2 Short 0),35-20,35,20
+0022000618,2021-03-17,PHI,MIL,16.9,2,7,6,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P3.T12),35-20,35,20
+0022000618,2021-03-17,PHI,MIL,16.9,2,7,6,MIL,PHI,steal,2,False,True,steal,steal,35-20,35,20
+0022000618,2021-03-17,PHI,MIL,17.18,2,6,49,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,35-20,35,20
+0022000618,2021-03-17,PHI,MIL,17.25,2,6,45,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:1),35-20,35,20
+0022000618,2021-03-17,PHI,MIL,17.27,2,6,44,PHI,MIL,foul,4,False,False,,Antetokounmpo OFF.Foul (P2) (J.Goldenberg),35-20,35,20
+0022000618,2021-03-17,PHI,MIL,17.27,2,6,44,MIL,MIL,tov,37,False,False,,Antetokounmpo Offensive Foul Turnover (P4.T13),35-20,35,20
+0022000618,2021-03-17,PHI,MIL,17.48,2,6,31,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P2.T11),,35-20,35,20
+0022000618,2021-03-17,PHI,MIL,17.48,2,6,31,PHI,MIL,steal,1,False,True,steal,steal,35-20,35,20
+0022000618,2021-03-17,PHI,MIL,17.57,2,6,26,MIL,MIL,fg_make,41,False,False,,Holiday 3' Running Layup (8 PTS) (Connaughton 1 AST),35-22,35,22
+0022000618,2021-03-17,PHI,MIL,17.98,2,6,1,PHI,PHI,fg_miss,58,False,False,MISS Simmons 7' Turnaround Hook Shot,,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,17.98,2,6,1,MIL,MIL,reb,0,False,False,,Bucks Rebound,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.33,2,5,40,MIL,MIL,fg_miss,58,False,False,,MISS Lopez 13' Turnaround Hook Shot,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.38,2,5,37,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:7),,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.6,2,5,24,PHI,PHI,fg_miss,79,False,False,MISS Curry 14' Pullup Jump Shot,,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.65,2,5,21,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:2),35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.7,2,5,18,MIL,MIL,fg_miss,79,False,False,,MISS Antetokounmpo 14' Pullup Jump Shot,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.77,2,5,14,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.87,2,5,8,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 25' 3PT Jump Shot,,35-22,35,22
+0022000618,2021-03-17,PHI,MIL,18.95,2,5,3,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:3),35-22,35,22
+0022000618,2021-03-17,PHI,MIL,19.07,2,4,56,MIL,MIL,fg_make,75,False,False,,Holiday 3' Driving Finger Roll Layup (10 PTS),35-24,35,24
+0022000618,2021-03-17,PHI,MIL,19.07,2,4,56,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,35-24,35,24
+0022000618,2021-03-17,PHI,MIL,19.35,2,4,39,PHI,PHI,fg_make,6,False,False,Harris 1' Driving Layup (8 PTS) (Bradley 2 AST),,37-24,37,24
+0022000618,2021-03-17,PHI,MIL,19.5,2,4,30,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 3PT Jump Shot,37-24,37,24
+0022000618,2021-03-17,PHI,MIL,19.53,2,4,28,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,37-24,37,24
+0022000618,2021-03-17,PHI,MIL,19.63,2,4,22,PHI,PHI,fg_miss,74,False,False,MISS Bradley 3' Running Reverse Layup,,37-24,37,24
+0022000618,2021-03-17,PHI,MIL,19.7,2,4,18,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:4),,39-24,39,24
+0022000618,2021-03-17,PHI,MIL,19.7,2,4,18,PHI,PHI,fg_make,97,False,False,Harris Tip Layup Shot (10 PTS),,39-24,39,24
+0022000618,2021-03-17,PHI,MIL,20.02,2,3,59,,PHI,jump_ball,0,False,False,Jump Ball Harris vs. Antetokounmpo: Tip to Forbes,,39-24,39,24
+0022000618,2021-03-17,PHI,MIL,20.12,2,3,53,MIL,MIL,fg3_miss,1,True,False,,MISS DiVincenzo 27' 3PT Jump Shot,39-24,39,24
+0022000618,2021-03-17,PHI,MIL,20.12,2,3,53,MIL,PHI,block,1,True,False,block,block,39-24,39,24
+0022000618,2021-03-17,PHI,MIL,20.18,2,3,49,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:0 Def:2),,39-24,39,24
+0022000618,2021-03-17,PHI,MIL,20.5,2,3,30,PHI,PHI,fg3_make,1,False,False,Green 26' 3PT Jump Shot (9 PTS) (Curry 1 AST),,42-24,42,24
+0022000618,2021-03-17,PHI,MIL,20.73,2,3,16,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 27' 3PT Pullup Jump Shot,42-24,42,24
+0022000618,2021-03-17,PHI,MIL,20.75,2,3,15,PHI,PHI,reb,0,False,False,76ERS Rebound,,42-24,42,24
+0022000618,2021-03-17,PHI,MIL,21.05,2,2,57,PHI,PHI,fg_miss,98,False,False,MISS Thybulle 3' Cutting Layup Shot,,42-24,42,24
+0022000618,2021-03-17,PHI,MIL,21.08,2,2,55,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:4),42-24,42,24
+0022000618,2021-03-17,PHI,MIL,21.17,2,2,50,MIL,MIL,fg_make,108,False,False,,Holiday 1' Cutting Dunk Shot (12 PTS) (DiVincenzo 2 AST),42-26,42,26
+0022000618,2021-03-17,PHI,MIL,21.37,2,2,38,PHI,PHI,fg3_make,1,False,False,Curry 27' 3PT Jump Shot (5 PTS) (Simmons 6 AST),,45-26,45,26
+0022000618,2021-03-17,PHI,MIL,21.7,2,2,18,MIL,MIL,fg_miss,101,False,False,,MISS Holiday 8' Driving Floating Jump Shot,45-26,45,26
+0022000618,2021-03-17,PHI,MIL,21.73,2,2,16,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:3),,45-26,45,26
+0022000618,2021-03-17,PHI,MIL,22.13,2,1,52,PHI,PHI,fg3_miss,79,False,False,MISS Harris 26' 3PT Pullup Jump Shot,,45-26,45,26
+0022000618,2021-03-17,PHI,MIL,22.18,2,1,49,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:5),45-26,45,26
+0022000618,2021-03-17,PHI,MIL,22.38,2,1,37,MIL,MIL,fg3_miss,1,False,False,,MISS Forbes 27' 3PT Jump Shot,45-26,45,26
+0022000618,2021-03-17,PHI,MIL,22.43,2,1,34,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:1),,45-26,45,26
+0022000618,2021-03-17,PHI,MIL,22.57,2,1,26,PHI,PHI,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,45-26,45,26
+0022000618,2021-03-17,PHI,MIL,22.63,2,1,22,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:2),45-26,45,26
+0022000618,2021-03-17,PHI,MIL,22.75,2,1,15,MIL,MIL,fg_make,101,False,False,,DiVincenzo 11' Driving Floating Jump Shot (5 PTS),45-28,45,28
+0022000618,2021-03-17,PHI,MIL,23.0,2,1,0,MIL,PHI,foul,11,False,False,Curry T.FOUL (P1.T2) (J.Goldenberg),,45-28,45,28
+0022000618,2021-03-17,PHI,MIL,23.0,2,1,0,MIL,MIL,ft_make,16,False,False,,Middleton Free Throw Technical (5 PTS),45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.13,2,0,52,PHI,PHI,fg_miss,57,False,False,MISS Simmons 5' Driving Hook Shot,,45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.13,2,0,52,MIL,MIL,reb,0,False,False,,Bucks Rebound,45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.4,2,0,36,MIL,MIL,fg3_miss,79,False,False,,MISS Middleton 26' 3PT Pullup Jump Shot,45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.47,2,0,32,PHI,PHI,reb,0,False,False,Curry REBOUND (Off:0 Def:4),,45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.53,2,0,28,PHI,PHI,fg3_miss,80,False,False,MISS Curry 27' 3PT Step Back Jump Shot,,45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.63,2,0,22,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:4),,45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.63,2,0,22,PHI,PHI,fg_miss,97,False,False,MISS Harris Tip Layup Shot,,45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.63,2,0,22,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:3),45-29,45,29
+0022000618,2021-03-17,PHI,MIL,23.9,2,0,6,MIL,MIL,fg_make,79,False,False,,Middleton 7' Pullup Jump Shot (7 PTS),45-31,45,31
+0022000618,2021-03-17,PHI,MIL,23.98,2,0,1,PHI,PHI,fg_miss,41,False,False,MISS Simmons 4' Running Layup,,45-31,45,31
+0022000618,2021-03-17,PHI,MIL,23.98,2,0,1,PHI,PHI,reb,0,False,False,76ERS Rebound,,45-31,45,31
+0022000618,2021-03-17,PHI,MIL,24.0,2,0,0,PHI,,period_end,0,False,False,,,45-31,45,31
+0022000618,2021-03-17,PHI,MIL,24.0,3,12,0,PHI,,period_start,0,False,False,,,45-31,45,31
+0022000618,2021-03-17,PHI,MIL,24.23,3,11,46,PHI,PHI,fg_miss,79,False,False,MISS Harris 17' Pullup Jump Shot,,45-31,45,31
+0022000618,2021-03-17,PHI,MIL,24.3,3,11,42,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:3),45-31,45,31
+0022000618,2021-03-17,PHI,MIL,24.38,3,11,37,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 28' 3PT Jump Shot,45-31,45,31
+0022000618,2021-03-17,PHI,MIL,24.45,3,11,33,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:5),,45-31,45,31
+0022000618,2021-03-17,PHI,MIL,24.55,3,11,27,PHI,PHI,fg3_make,1,False,False,Curry 3PT Jump Shot (8 PTS) (Simmons 7 AST),,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,24.82,3,11,11,MIL,MIL,fg_miss,47,False,False,,MISS Antetokounmpo 17' Turnaround Jump Shot,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,24.82,3,11,11,PHI,PHI,reb,0,False,False,Bradley REBOUND (Off:1 Def:2),,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.07,3,10,56,PHI,PHI,fg_miss,79,False,False,MISS Harris 16' Pullup Jump Shot,,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.07,3,10,56,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:3),48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.22,3,10,47,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 29' 3PT Jump Shot,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.27,3,10,44,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:4),,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.48,3,10,31,PHI,PHI,fg_miss,57,False,False,MISS Simmons 6' Driving Hook Shot,,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.5,3,10,30,PHI,PHI,reb,0,False,False,Bradley REBOUND (Off:2 Def:2),,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.53,3,10,28,PHI,PHI,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.53,3,10,28,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:4),48-31,48,31
+0022000618,2021-03-17,PHI,MIL,25.73,3,10,16,MIL,MIL,fg_make,75,False,False,,DiVincenzo 4' Driving Finger Roll Layup (7 PTS),48-33,48,33
+0022000618,2021-03-17,PHI,MIL,26.05,3,9,57,PHI,PHI,fg_make,73,False,False,Curry 2' Driving Reverse Layup (10 PTS),,50-33,50,33
+0022000618,2021-03-17,PHI,MIL,26.13,3,9,52,MIL,MIL,tov,1,False,True,,DiVincenzo Bad Pass Turnover (P1.T14),50-33,50,33
+0022000618,2021-03-17,PHI,MIL,26.13,3,9,52,MIL,PHI,steal,1,False,True,steal,steal,50-33,50,33
+0022000618,2021-03-17,PHI,MIL,26.23,3,9,46,PHI,PHI,fg_make,6,False,False,Harris 2' Driving Layup (12 PTS) (Simmons 8 AST),,52-33,52,33
+0022000618,2021-03-17,PHI,MIL,26.23,3,9,46,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.3 Short 0),52-33,52,33
+0022000618,2021-03-17,PHI,MIL,26.5,3,9,30,MIL,MIL,fg_make,101,False,False,,Antetokounmpo 15' Driving Floating Jump Shot (6 PTS),52-35,52,35
+0022000618,2021-03-17,PHI,MIL,26.77,3,9,14,PHI,PHI,fg_miss,101,True,False,MISS Harris 14' Driving Floating Jump Shot,,52-35,52,35
+0022000618,2021-03-17,PHI,MIL,26.77,3,9,14,PHI,MIL,block,101,True,False,block,block,52-35,52,35
+0022000618,2021-03-17,PHI,MIL,26.82,3,9,11,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:5),52-35,52,35
+0022000618,2021-03-17,PHI,MIL,26.92,3,9,5,MIL,MIL,tov,4,False,False,,Antetokounmpo Traveling Turnover (P5.T15),52-35,52,35
+0022000618,2021-03-17,PHI,MIL,27.35,3,8,39,PHI,PHI,tov,1,False,True,Harris Bad Pass Turnover (P2.T12),,52-35,52,35
+0022000618,2021-03-17,PHI,MIL,27.35,3,8,39,PHI,MIL,steal,1,False,True,steal,steal,52-35,52,35
+0022000618,2021-03-17,PHI,MIL,27.53,3,8,28,MIL,MIL,fg3_make,1,False,False,,Lopez 28' 3PT Jump Shot (4 PTS) (Holiday 2 AST),52-38,52,38
+0022000618,2021-03-17,PHI,MIL,27.78,3,8,13,PHI,PHI,fg_make,5,False,False,Bradley 2' Layup (4 PTS) (Simmons 9 AST),,54-38,54,38
+0022000618,2021-03-17,PHI,MIL,27.83,3,8,10,PHI,MIL,foul,11,False,False,,Antetokounmpo T.FOUL (P0.T0) (J.Goldenberg),54-38,54,38
+0022000618,2021-03-17,PHI,MIL,27.83,3,8,10,PHI,PHI,ft_miss,16,False,False,MISS Curry Free Throw Technical,,54-38,54,38
+0022000618,2021-03-17,PHI,MIL,27.83,3,8,10,MIL,MIL,reb,1,False,False,,Bucks Rebound,54-38,54,38
+0022000618,2021-03-17,PHI,MIL,28.03,3,7,58,MIL,MIL,fg_make,75,False,False,,DiVincenzo 4' Driving Finger Roll Layup (9 PTS) (Holiday 3 AST),54-40,54,40
+0022000618,2021-03-17,PHI,MIL,28.25,3,7,45,PHI,PHI,fg3_make,1,False,False,Green 3PT Jump Shot (12 PTS) (Curry 2 AST),,57-40,57,40
+0022000618,2021-03-17,PHI,MIL,28.42,3,7,35,MIL,MIL,fg3_make,1,False,False,,Lopez 28' 3PT Jump Shot (7 PTS) (Holiday 4 AST),57-43,57,43
+0022000618,2021-03-17,PHI,MIL,28.8,3,7,12,PHI,PHI,fg_miss,96,False,False,MISS Simmons 3' Turnaround Bank Hook Shot,,57-43,57,43
+0022000618,2021-03-17,PHI,MIL,28.87,3,7,8,PHI,PHI,reb,0,False,False,Bradley REBOUND (Off:3 Def:2),,57-43,57,43
+0022000618,2021-03-17,PHI,MIL,28.87,3,7,8,PHI,PHI,fg_make,97,False,False,Bradley Tip Layup Shot (6 PTS),,59-43,59,43
+0022000618,2021-03-17,PHI,MIL,29.0,3,7,0,MIL,MIL,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,59-43,59,43
+0022000618,2021-03-17,PHI,MIL,29.08,3,6,55,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:3),59-43,59,43
+0022000618,2021-03-17,PHI,MIL,29.1,3,6,54,MIL,MIL,fg_make,72,False,False,,Middleton 3' Putback Layup (9 PTS),59-45,59,45
+0022000618,2021-03-17,PHI,MIL,29.28,3,6,43,PHI,PHI,fg3_miss,1,False,False,MISS Curry 29' 3PT Jump Shot,,59-45,59,45
+0022000618,2021-03-17,PHI,MIL,29.35,3,6,39,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:4),59-45,59,45
+0022000618,2021-03-17,PHI,MIL,29.5,3,6,30,MIL,MIL,fg3_make,1,False,False,,DiVincenzo 26' 3PT Jump Shot (12 PTS) (Holiday 5 AST),59-48,59,48
+0022000618,2021-03-17,PHI,MIL,29.52,3,6,29,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,59-48,59,48
+0022000618,2021-03-17,PHI,MIL,29.8,3,6,12,PHI,PHI,tov,2,False,True,Curry Lost Ball Turnover (P3.T13),,59-48,59,48
+0022000618,2021-03-17,PHI,MIL,29.8,3,6,12,PHI,MIL,steal,2,False,True,steal,steal,59-48,59,48
+0022000618,2021-03-17,PHI,MIL,29.93,3,6,4,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 28' 3PT Jump Shot,59-48,59,48
+0022000618,2021-03-17,PHI,MIL,29.98,3,6,1,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:2),,59-48,59,48
+0022000618,2021-03-17,PHI,MIL,30.15,3,5,51,PHI,PHI,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (15 PTS) (Simmons 10 AST),,62-48,62,48
+0022000618,2021-03-17,PHI,MIL,30.28,3,5,43,MIL,MIL,fg_miss,41,True,False,,MISS Middleton 11' Running Layup,62-48,62,48
+0022000618,2021-03-17,PHI,MIL,30.28,3,5,43,MIL,PHI,block,41,True,False,block,block,62-48,62,48
+0022000618,2021-03-17,PHI,MIL,30.32,3,5,41,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:5),,62-48,62,48
+0022000618,2021-03-17,PHI,MIL,30.35,3,5,39,PHI,PHI,fg3_miss,2,False,False,MISS Curry 25' 3PT Running Jump Shot,,62-48,62,48
+0022000618,2021-03-17,PHI,MIL,30.35,3,5,39,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:6),62-48,62,48
+0022000618,2021-03-17,PHI,MIL,30.6,3,5,24,MIL,MIL,fg_make,98,False,False,,Lopez 2' Cutting Layup Shot (9 PTS) (Holiday 6 AST),62-50,62,50
+0022000618,2021-03-17,PHI,MIL,30.88,3,5,7,PHI,PHI,fg_make,79,False,False,Harris 19' Pullup Jump Shot (17 PTS),,64-50,64,50
+0022000618,2021-03-17,PHI,MIL,31.08,3,4,55,MIL,MIL,fg_make,5,False,False,,Middleton 3' Layup (11 PTS),64-52,64,52
+0022000618,2021-03-17,PHI,MIL,31.35,3,4,39,PHI,PHI,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,64-52,64,52
+0022000618,2021-03-17,PHI,MIL,31.42,3,4,35,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:2),64-52,64,52
+0022000618,2021-03-17,PHI,MIL,31.45,3,4,33,MIL,MIL,tov,2,False,True,,Holiday Lost Ball Turnover (P3.T16),64-52,64,52
+0022000618,2021-03-17,PHI,MIL,31.45,3,4,33,MIL,PHI,steal,2,False,True,steal,steal,64-52,64,52
+0022000618,2021-03-17,PHI,MIL,31.52,3,4,29,PHI,PHI,fg3_make,1,False,False,Green 3PT Jump Shot (15 PTS) (Curry 3 AST),,67-52,67,52
+0022000618,2021-03-17,PHI,MIL,31.7,3,4,18,MIL,MIL,fg_miss,71,False,False,,MISS Holiday 3' Finger Roll Layup,67-52,67,52
+0022000618,2021-03-17,PHI,MIL,31.75,3,4,15,PHI,PHI,reb,0,False,False,Bradley REBOUND (Off:3 Def:3),,67-52,67,52
+0022000618,2021-03-17,PHI,MIL,31.8,3,4,12,MIL,PHI,foul,4,False,False,Simmons OFF.Foul (P2) (M.Lindsay),,67-52,67,52
+0022000618,2021-03-17,PHI,MIL,31.8,3,4,12,PHI,PHI,tov,37,False,False,Simmons Offensive Foul Turnover (P5.T14),,67-52,67,52
+0022000618,2021-03-17,PHI,MIL,32.03,3,3,58,MIL,MIL,fg_miss,1,False,False,,MISS Portis 17' Jump Shot,67-52,67,52
+0022000618,2021-03-17,PHI,MIL,32.1,3,3,54,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:3),67-52,67,52
+0022000618,2021-03-17,PHI,MIL,32.1,3,3,54,MIL,MIL,fg_make,97,False,False,,Antetokounmpo Tip Layup Shot (8 PTS),67-54,67,54
+0022000618,2021-03-17,PHI,MIL,32.42,3,3,35,PHI,PHI,fg_make,57,False,False,Simmons 4' Driving Hook Shot (6 PTS),,69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.58,3,3,25,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 28' 3PT Jump Shot,69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.63,3,3,22,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:6),,69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.75,3,3,15,PHI,PHI,fg_miss,1,False,False,MISS Howard 13' Jump Shot,,69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.88,3,3,7,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:7),69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.88,3,3,7,MIL,PHI,foul,2,False,False,Simmons S.FOUL (P3.T1) (S.Foster),,69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.88,3,3,7,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.88,3,3,7,MIL,MIL,reb,1,False,False,,Bucks Rebound,69-54,69,54
+0022000618,2021-03-17,PHI,MIL,32.88,3,3,7,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (9 PTS),69-55,69,55
+0022000618,2021-03-17,PHI,MIL,33.18,3,2,49,PHI,PHI,fg_miss,101,False,False,MISS Milton 13' Driving Floating Jump Shot,,69-55,69,55
+0022000618,2021-03-17,PHI,MIL,33.23,3,2,46,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:4),69-55,69,55
+0022000618,2021-03-17,PHI,MIL,33.28,3,2,43,MIL,MIL,fg_make,76,False,False,,Antetokounmpo 2' Running Finger Roll Layup (11 PTS),69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.43,3,2,34,PHI,PHI,fg3_miss,1,False,False,MISS Thybulle 27' 3PT Jump Shot,,69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.5,3,2,30,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:5),69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.58,3,2,25,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 27' 3PT Pullup Jump Shot,69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.65,3,2,21,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:0 Def:1),,69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.85,3,2,9,PHI,PHI,fg3_miss,1,False,False,MISS Scott 27' 3PT Jump Shot,,69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.88,3,2,7,PHI,PHI,reb,0,False,False,76ERS Rebound,,69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.93,3,2,4,PHI,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P3.T1) (M.Lindsay),69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.93,3,2,4,PHI,PHI,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.93,3,2,4,PHI,PHI,reb,1,False,False,76ERS Rebound,,69-57,69,57
+0022000618,2021-03-17,PHI,MIL,33.93,3,2,4,PHI,PHI,ft_make,12,False,False,Howard Free Throw 2 of 2 (7 PTS),,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.08,3,1,55,MIL,PHI,foul,1,False,False,Scott P.FOUL (P1.T2) (S.Foster),,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.25,3,1,45,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P6.T17),70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.25,3,1,45,MIL,PHI,steal,2,False,True,steal,steal,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.33,3,1,40,MIL,PHI,foul,4,False,False,Howard OFF.Foul (P2) (M.Lindsay),,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.33,3,1,40,PHI,PHI,tov,37,False,False,Howard Offensive Foul Turnover (P1.T15),,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.45,3,1,33,MIL,MIL,fg3_miss,1,False,False,,MISS Forbes 28' 3PT Jump Shot,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.52,3,1,29,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:2),,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.65,3,1,21,PHI,PHI,fg_miss,6,False,False,MISS Milton 2' Driving Layup,,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.7,3,1,18,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:6),70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.77,3,1,14,MIL,MIL,fg_miss,41,False,False,,MISS Forbes 3' Running Layup,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.85,3,1,9,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:2),70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.85,3,1,9,MIL,MIL,fg_miss,97,False,False,,MISS Portis Tip Layup Shot,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,34.85,3,1,9,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:8),,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,35.0,3,1,0,PHI,PHI,fg3_miss,1,False,False,MISS Scott 25' 3PT Jump Shot,,70-57,70,57
+0022000618,2021-03-17,PHI,MIL,35.03,3,0,58,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:7),70-57,70,57
+0022000618,2021-03-17,PHI,MIL,35.2,3,0,48,MIL,MIL,fg_make,108,False,False,,Antetokounmpo 2' Cutting Dunk Shot (13 PTS) (Connaughton 2 AST),70-59,70,59
+0022000618,2021-03-17,PHI,MIL,35.45,3,0,33,PHI,MIL,foul,1,False,False,,Portis P.FOUL (P1.T2) (S.Foster),70-59,70,59
+0022000618,2021-03-17,PHI,MIL,35.5,3,0,30,PHI,PHI,fg_make,6,False,False,Milton 2' Driving Layup (6 PTS) (Korkmaz 1 AST),,72-59,72,59
+0022000618,2021-03-17,PHI,MIL,35.5,3,0,30,MIL,PHI,foul,11,False,False,Milton T.FOUL (P2.T2) (S.Foster),,72-59,72,59
+0022000618,2021-03-17,PHI,MIL,35.5,3,0,30,MIL,,foul,16,False,False,,,72-59,72,59
+0022000618,2021-03-17,PHI,MIL,35.5,3,0,30,MIL,MIL,ft_make,16,False,False,,Forbes Free Throw Technical (1 PTS),72-60,72,60
+0022000618,2021-03-17,PHI,MIL,35.57,3,0,26,MIL,MIL,fg3_make,1,False,False,,DiVincenzo 26' 3PT Jump Shot (15 PTS) (Antetokounmpo 3 AST),72-63,72,63
+0022000618,2021-03-17,PHI,MIL,35.93,3,0,4,PHI,PHI,fg_make,6,False,False,Milton Driving Layup (8 PTS),,74-63,74,63
+0022000618,2021-03-17,PHI,MIL,35.98,3,0,1,MIL,PHI,foul,2,False,False,Howard S.FOUL (P3.PN) (M.Lindsay),,74-63,74,63
+0022000618,2021-03-17,PHI,MIL,35.98,3,0,1,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (12 PTS),74-64,74,64
+0022000618,2021-03-17,PHI,MIL,35.98,3,0,1,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (13 PTS),74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.22,4,11,47,MIL,MIL,fg_miss,101,False,False,,MISS DiVincenzo 19' Driving Floating Jump Shot,74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.3,4,11,42,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:2 Def:7),74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.32,4,11,41,MIL,MIL,fg3_miss,79,False,False,,MISS Forbes 24' 3PT Pullup Jump Shot,74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.37,4,11,38,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:9),,74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.58,4,11,25,PHI,PHI,fg_miss,79,False,False,MISS Harris 17' Pullup Jump Shot,,74-65,74,65
+0022000618,2021-03-17,PHI,MIL,36.7,4,11,18,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:2 Def:9),,76-65,76,65
+0022000618,2021-03-17,PHI,MIL,36.7,4,11,18,PHI,PHI,fg_make,107,False,False,Howard Tip Dunk Shot (9 PTS),,76-65,76,65
+0022000618,2021-03-17,PHI,MIL,36.85,4,11,9,MIL,MIL,fg_make,9,False,False,,Antetokounmpo 2' Driving Dunk (15 PTS),76-67,76,67
+0022000618,2021-03-17,PHI,MIL,37.22,4,10,47,PHI,PHI,fg_miss,80,False,False,MISS Milton 17' Step Back Jump Shot,,76-67,76,67
+0022000618,2021-03-17,PHI,MIL,37.23,4,10,46,MIL,MIL,reb,0,False,False,,Bucks Rebound,76-67,76,67
+0022000618,2021-03-17,PHI,MIL,37.52,4,10,29,MIL,MIL,fg_miss,86,False,False,,MISS Antetokounmpo 14' Turnaround Fadeaway Shot,76-67,76,67
+0022000618,2021-03-17,PHI,MIL,37.55,4,10,27,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:7),,76-67,76,67
+0022000618,2021-03-17,PHI,MIL,37.67,4,10,20,PHI,PHI,fg_miss,93,False,False,MISS Harris 2' Driving Bank Hook Shot,,76-67,76,67
+0022000618,2021-03-17,PHI,MIL,37.72,4,10,17,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:6),76-67,76,67
+0022000618,2021-03-17,PHI,MIL,37.78,4,10,13,MIL,MIL,fg_make,74,False,False,,Connaughton 1' Running Reverse Layup (2 PTS) (DiVincenzo 3 AST),76-69,76,69
+0022000618,2021-03-17,PHI,MIL,38.03,4,9,58,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P6.T16),,76-69,76,69
+0022000618,2021-03-17,PHI,MIL,38.03,4,9,58,PHI,MIL,steal,1,False,True,steal,steal,76-69,76,69
+0022000618,2021-03-17,PHI,MIL,38.07,4,9,56,MIL,MIL,fg_make,50,False,False,,Connaughton 1' Running Dunk (4 PTS),76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.07,4,9,56,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.38,4,9,37,PHI,PHI,fg3_miss,1,False,False,MISS Scott 25' 3PT Jump Shot,,76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.38,4,9,37,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:8),76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.38,4,9,37,MIL,MIL,tov,2,False,True,,Lopez Lost Ball Turnover (P2.T18),76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.38,4,9,37,MIL,PHI,steal,2,False,True,steal,steal,76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.77,4,9,14,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.82,4,9,11,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:9),76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.88,4,9,7,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 29' 3PT Jump Shot,76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.95,4,9,3,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:2 Def:2),76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.98,4,9,1,MIL,PHI,foul,2,False,False,Scott S.FOUL (P2.T1) (M.Lindsay),,76-71,76,71
+0022000618,2021-03-17,PHI,MIL,38.98,4,9,1,MIL,MIL,ft_make,11,False,False,,Connaughton Free Throw 1 of 2 (5 PTS),76-72,76,72
+0022000618,2021-03-17,PHI,MIL,38.98,4,9,1,MIL,MIL,ft_make,12,False,False,,Connaughton Free Throw 2 of 2 (6 PTS),76-73,76,73
+0022000618,2021-03-17,PHI,MIL,39.25,4,8,45,PHI,PHI,fg_miss,1,False,False,MISS Harris 11' Jump Shot,,76-73,76,73
+0022000618,2021-03-17,PHI,MIL,39.3,4,8,42,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:10),76-73,76,73
+0022000618,2021-03-17,PHI,MIL,39.32,4,8,41,MIL,MIL,fg_make,6,False,False,,Antetokounmpo 3' Driving Layup (17 PTS),76-75,76,75
+0022000618,2021-03-17,PHI,MIL,39.32,4,8,41,MIL,PHI,foul,2,False,False,Green S.FOUL (P1.T2) (J.Goldenberg),,76-75,76,75
+0022000618,2021-03-17,PHI,MIL,39.32,4,8,41,MIL,MIL,ft_make,10,False,False,,Antetokounmpo Free Throw 1 of 1 (18 PTS),76-76,76,76
+0022000618,2021-03-17,PHI,MIL,39.55,4,8,27,PHI,PHI,fg3_miss,1,False,False,MISS Curry 26' 3PT Jump Shot,,76-76,76,76
+0022000618,2021-03-17,PHI,MIL,39.55,4,8,27,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:2),,76-76,76,76
+0022000618,2021-03-17,PHI,MIL,39.65,4,8,21,PHI,PHI,fg_miss,107,False,False,MISS Simmons Tip Dunk Shot,,76-76,76,76
+0022000618,2021-03-17,PHI,MIL,39.67,4,8,20,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:5),76-76,76,76
+0022000618,2021-03-17,PHI,MIL,39.7,4,8,18,MIL,MIL,fg_make,50,False,False,,Antetokounmpo 1' Running Dunk (20 PTS) (DiVincenzo 4 AST),76-78,76,78
+0022000618,2021-03-17,PHI,MIL,39.95,4,8,3,PHI,PHI,fg_miss,5,False,False,MISS Howard 3' Layup,,76-78,76,78
+0022000618,2021-03-17,PHI,MIL,39.95,4,8,3,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:2 Def:8),76-78,76,78
+0022000618,2021-03-17,PHI,MIL,40.22,4,7,47,MIL,MIL,fg3_miss,1,False,False,,MISS Antetokounmpo 27' 3PT Jump Shot,76-78,76,78
+0022000618,2021-03-17,PHI,MIL,40.27,4,7,44,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:3),,76-78,76,78
+0022000618,2021-03-17,PHI,MIL,40.33,4,7,40,PHI,PHI,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,76-78,76,78
+0022000618,2021-03-17,PHI,MIL,40.4,4,7,36,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:2 Def:3),76-78,76,78
+0022000618,2021-03-17,PHI,MIL,40.55,4,7,27,MIL,MIL,tov,2,False,True,,Holiday Lost Ball Turnover (P4.T19),76-78,76,78
+0022000618,2021-03-17,PHI,MIL,40.55,4,7,27,MIL,PHI,steal,2,False,True,steal,steal,76-78,76,78
+0022000618,2021-03-17,PHI,MIL,40.72,4,7,17,PHI,PHI,fg_make,79,False,False,Milton 15' Pullup Jump Shot (10 PTS) (Simmons 11 AST),,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,40.85,4,7,9,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.4 Short 0),78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.08,4,6,55,MIL,MIL,fg_miss,63,False,False,,MISS Antetokounmpo 18' Fadeaway Jumper,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.13,4,6,52,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:3 Def:3),78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.25,4,6,45,MIL,MIL,fg_miss,75,True,False,,MISS DiVincenzo 4' Driving Finger Roll Layup,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.25,4,6,45,MIL,PHI,block,75,True,False,block,block,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.27,4,6,44,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:4),,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.52,4,6,29,PHI,PHI,fg_miss,79,False,False,MISS Milton 19' Pullup Jump Shot,,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.58,4,6,25,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:11),78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.72,4,6,17,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 26' 3PT Jump Shot,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,41.78,4,6,13,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:6),,78-78,78,78
+0022000618,2021-03-17,PHI,MIL,42.1,4,5,54,PHI,MIL,foul,2,False,False,,DiVincenzo S.FOUL (P2.T1) (S.Foster),78-78,78,78
+0022000618,2021-03-17,PHI,MIL,42.1,4,5,54,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (18 PTS),,79-78,79,78
+0022000618,2021-03-17,PHI,MIL,42.1,4,5,54,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (19 PTS),,80-78,80,78
+0022000618,2021-03-17,PHI,MIL,42.3,4,5,42,MIL,MIL,fg_make,75,False,False,,Antetokounmpo 2' Driving Finger Roll Layup (22 PTS),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,42.3,4,5,42,MIL,PHI,foul,2,False,False,Howard S.FOUL (P4.T3) (M.Lindsay),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,42.3,4,5,42,MIL,MIL,ft_miss,10,False,False,,MISS Antetokounmpo Free Throw 1 of 1,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,42.32,4,5,41,PHI,PHI,reb,0,False,False,76ERS Rebound,,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,42.32,4,5,41,PHI,MIL,foul,3,False,False,,Lopez L.B.FOUL (P1.T2) (J.Goldenberg),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,42.7,4,5,18,PHI,PHI,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,42.77,4,5,14,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:2 Def:9),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.1,4,4,54,,PHI,jump_ball,0,False,False,Jump Ball Milton vs. Middleton: Tip to Howard,,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.1,4,4,54,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P6.T20),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.1,4,4,54,MIL,PHI,steal,2,False,True,steal,steal,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.32,4,4,41,PHI,PHI,fg_miss,101,False,False,MISS Harris 6' Driving Floating Jump Shot,,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.37,4,4,38,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:12),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.45,4,4,33,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P7.T21),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.45,4,4,33,MIL,PHI,steal,1,False,True,steal,steal,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.8,4,4,12,MIL,PHI,foul,4,False,False,Milton OFF.Foul (P3) (M.Lindsay),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,43.8,4,4,12,PHI,PHI,tov,37,False,False,Milton Offensive Foul Turnover (P2.T17),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.17,4,3,50,MIL,MIL,fg3_miss,1,False,False,,MISS Holiday 26' 3PT Jump Shot,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.23,4,3,46,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:2 Def:10),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.47,4,3,32,PHI,PHI,fg3_miss,1,False,False,MISS Milton 26' 3PT Jump Shot,,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.5,4,3,30,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:4),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.5,4,3,30,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.6,4,3,24,PHI,PHI,fg_miss,79,False,False,MISS Harris 9' Pullup Jump Shot,,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.67,4,3,20,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:2 Def:10),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.72,4,3,17,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.8,4,3,12,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,44.85,4,3,9,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:2 Def:11),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.05,4,2,57,MIL,PHI,foul,4,False,False,Howard OFF.Foul (P5) (M.Lindsay),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.05,4,2,57,PHI,PHI,tov,37,False,False,Howard Offensive Foul Turnover (P2.T18),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.27,4,2,44,MIL,MIL,fg_miss,1,True,False,,MISS Antetokounmpo 10' Jump Shot,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.27,4,2,44,MIL,PHI,block,1,True,False,block,block,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.33,4,2,40,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:2 Def:12),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.55,4,2,27,PHI,PHI,fg_miss,75,False,False,MISS Simmons 1' Driving Finger Roll Layup,,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.62,4,2,23,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:3 Def:12),,80-80,80,80
+0022000618,2021-03-17,PHI,MIL,45.62,4,2,23,PHI,PHI,fg_make,107,False,False,Howard Tip Dunk Shot (11 PTS),,82-80,82,80
+0022000618,2021-03-17,PHI,MIL,45.87,4,2,8,MIL,MIL,fg3_make,1,False,False,,DiVincenzo 26' 3PT Jump Shot (18 PTS) (Lopez 1 AST),82-83,82,83
+0022000618,2021-03-17,PHI,MIL,46.12,4,1,53,PHI,PHI,fg_make,57,False,False,Simmons 7' Driving Hook Shot (8 PTS),,84-83,84,83
+0022000618,2021-03-17,PHI,MIL,46.4,4,1,36,MIL,MIL,fg3_make,1,False,False,,Lopez 28' 3PT Jump Shot (12 PTS) (Antetokounmpo 4 AST),84-86,84,86
+0022000618,2021-03-17,PHI,MIL,46.62,4,1,23,PHI,PHI,fg_miss,79,False,False,MISS Harris 19' Pullup Jump Shot,,84-86,84,86
+0022000618,2021-03-17,PHI,MIL,46.65,4,1,21,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:7),84-86,84,86
+0022000618,2021-03-17,PHI,MIL,46.78,4,1,13,MIL,MIL,fg_make,75,False,False,,Holiday 2' Driving Finger Roll Layup (14 PTS) (DiVincenzo 5 AST),84-88,84,88
+0022000618,2021-03-17,PHI,MIL,46.78,4,1,13,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 6 Short 0),,84-88,84,88
+0022000618,2021-03-17,PHI,MIL,46.88,4,1,7,PHI,PHI,tov,1,False,True,Milton Bad Pass Turnover (P3.T19),,84-88,84,88
+0022000618,2021-03-17,PHI,MIL,46.88,4,1,7,PHI,MIL,steal,1,False,True,steal,steal,84-88,84,88
+0022000618,2021-03-17,PHI,MIL,47.13,4,0,52,MIL,MIL,fg3_make,1,False,False,,Holiday 24' 3PT Jump Shot (17 PTS) (Antetokounmpo 5 AST),84-91,84,91
+0022000618,2021-03-17,PHI,MIL,47.33,4,0,40,PHI,PHI,fg3_make,1,False,False,Milton 27' 3PT Jump Shot (13 PTS) (Harris 3 AST),,87-91,87,91
+0022000618,2021-03-17,PHI,MIL,47.68,4,0,19,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P8.T22),87-91,87,91
+0022000618,2021-03-17,PHI,MIL,47.68,4,0,19,MIL,PHI,steal,1,False,True,steal,steal,87-91,87,91
+0022000618,2021-03-17,PHI,MIL,47.82,4,0,11,PHI,PHI,fg3_make,1,False,False,Green 24' 3PT Jump Shot (18 PTS) (Milton 3 AST),,90-91,90,91
+0022000618,2021-03-17,PHI,MIL,47.83,4,0,10,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.6 Short 0),90-91,90,91
+0022000618,2021-03-17,PHI,MIL,47.9,4,0,6,MIL,PHI,foul,28,False,False,Harris Personal Take Foul (P1.T4) (S.Foster),,90-91,90,91
+0022000618,2021-03-17,PHI,MIL,47.95,4,0,3,MIL,MIL,fg_make,75,False,False,,Middleton 2' Driving Finger Roll Layup (15 PTS) (Lopez 2 AST),90-93,90,93
+0022000618,2021-03-17,PHI,MIL,47.95,4,0,3,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 7 Short 0),,90-93,90,93
+0022000618,2021-03-17,PHI,MIL,47.98,4,0,1,PHI,PHI,fg3_make,1,False,False,Korkmaz 3PT Jump Shot (8 PTS) (Milton 4 AST),,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.0,4,0,0,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.7 Short 0),93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.0,4,0,0,MIL,,period_end,0,False,False,,,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.0,5,5,0,MIL,,period_start,0,False,False,,,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.0,5,5,0,,PHI,jump_ball,0,False,False,Jump Ball Howard vs. Lopez: Tip to Antetokounmpo,,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.3,5,4,42,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 28' 3PT Jump Shot,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.37,5,4,38,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:5),,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.38,5,4,37,PHI,PHI,tov,2,False,True,Simmons Lost Ball Turnover (P7.T20),,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.38,5,4,37,PHI,MIL,steal,2,False,True,steal,steal,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.38,5,4,37,MIL,PHI,foul,1,False,False,Simmons P.FOUL (P4.T1) (J.Goldenberg),,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.48,5,4,31,MIL,MIL,fg_make,52,False,False,,Lopez 1' Alley Oop Dunk (14 PTS) (Middleton 2 AST),93-95,93,95
+0022000618,2021-03-17,PHI,MIL,48.73,5,4,16,PHI,PHI,fg_miss,79,False,False,MISS Korkmaz 20' Pullup Jump Shot,,93-95,93,95
+0022000618,2021-03-17,PHI,MIL,48.75,5,4,15,MIL,MIL,reb,0,False,False,,Bucks Rebound,93-95,93,95
+0022000618,2021-03-17,PHI,MIL,48.93,5,4,4,MIL,PHI,foul,2,False,False,Simmons S.FOUL (P5.T2) (S.Foster),,93-95,93,95
+0022000618,2021-03-17,PHI,MIL,48.93,5,4,4,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (23 PTS),93-96,93,96
+0022000618,2021-03-17,PHI,MIL,48.93,5,4,4,MIL,MIL,ft_miss,12,False,False,,MISS Antetokounmpo Free Throw 2 of 2,93-96,93,96
+0022000618,2021-03-17,PHI,MIL,49.0,5,4,0,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:2),,93-96,93,96
+0022000618,2021-03-17,PHI,MIL,49.22,5,3,47,PHI,PHI,fg3_make,1,False,False,Korkmaz 3PT Jump Shot (11 PTS) (Harris 4 AST),,96-96,96,96
+0022000618,2021-03-17,PHI,MIL,49.55,5,3,27,MIL,MIL,fg_make,71,False,False,,Antetokounmpo 3' Finger Roll Layup (25 PTS),96-98,96,98
+0022000618,2021-03-17,PHI,MIL,49.75,5,3,15,PHI,MIL,foul,1,False,False,,DiVincenzo P.FOUL (P3.T1) (J.Goldenberg),96-98,96,98
+0022000618,2021-03-17,PHI,MIL,49.87,5,3,8,PHI,PHI,fg_make,1,False,False,Howard 19' Jump Shot (13 PTS) (Korkmaz 2 AST),,98-98,98,98
+0022000618,2021-03-17,PHI,MIL,50.32,5,2,41,MIL,MIL,fg_make,6,False,False,,Antetokounmpo 2' Driving Layup (27 PTS),98-100,98,100
+0022000618,2021-03-17,PHI,MIL,50.58,5,2,25,PHI,PHI,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,98-100,98,100
+0022000618,2021-03-17,PHI,MIL,50.65,5,2,21,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:3 Def:5),,98-100,98,100
+0022000618,2021-03-17,PHI,MIL,50.67,5,2,20,PHI,PHI,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,98-100,98,100
+0022000618,2021-03-17,PHI,MIL,50.73,5,2,16,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:4 Def:5),,98-100,98,100
+0022000618,2021-03-17,PHI,MIL,50.77,5,2,14,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,98-100,98,100
+0022000618,2021-03-17,PHI,MIL,50.83,5,2,10,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:13),98-100,98,100
+0022000618,2021-03-17,PHI,MIL,51.05,5,1,57,MIL,MIL,fg3_make,79,False,False,,Antetokounmpo 28' 3PT Pullup Jump Shot (30 PTS),98-103,98,103
+0022000618,2021-03-17,PHI,MIL,51.42,5,1,35,PHI,PHI,fg_miss,1,False,False,MISS Howard 17' Jump Shot,,98-103,98,103
+0022000618,2021-03-17,PHI,MIL,51.47,5,1,32,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:3 Def:4),98-103,98,103
+0022000618,2021-03-17,PHI,MIL,51.8,5,1,12,MIL,MIL,fg_make,80,False,False,,Antetokounmpo 19' Step Back Jump Shot (32 PTS),98-105,98,105
+0022000618,2021-03-17,PHI,MIL,51.82,5,1,11,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 8 Short 0),,98-105,98,105
+0022000618,2021-03-17,PHI,MIL,51.87,5,1,8,PHI,PHI,fg_make,6,False,False,Milton 1' Driving Layup (15 PTS) (Simmons 12 AST),,100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.22,5,0,47,MIL,MIL,fg_miss,75,True,False,,MISS Holiday 3' Driving Finger Roll Layup,100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.22,5,0,47,MIL,PHI,block,75,True,False,block,block,100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.27,5,0,44,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:0 Def:3),,100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.3,5,0,42,PHI,PHI,fg3_miss,1,False,False,MISS Harris 27' 3PT Jump Shot,,100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.3,5,0,42,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:14),100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.67,5,0,20,MIL,MIL,fg_miss,80,False,False,,MISS Middleton 21' Step Back Jump Shot,100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.72,5,0,17,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:4 Def:6),,100-105,100,105
+0022000618,2021-03-17,PHI,MIL,52.78,5,0,13,PHI,PHI,fg_make,50,False,False,Simmons 2' Running Dunk (10 PTS),,102-105,102,105
+0022000618,2021-03-17,PHI,MIL,52.78,5,0,13,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.8 Short 0),102-105,102,105
+0022000618,2021-03-17,PHI,MIL,52.8,5,0,12,MIL,PHI,foul,28,False,False,Thybulle Personal Take Foul (P1.T3) (J.Goldenberg),,102-105,102,105
+0022000618,2021-03-17,PHI,MIL,52.8,5,0,12,MIL,PHI,foul,1,False,False,Green P.FOUL (P2.PN) (M.Lindsay),,102-105,102,105
+0022000618,2021-03-17,PHI,MIL,52.8,5,0,12,MIL,MIL,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (18 PTS),102-106,102,106
+0022000618,2021-03-17,PHI,MIL,52.8,5,0,12,MIL,MIL,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (19 PTS),102-107,102,107
+0022000618,2021-03-17,PHI,MIL,52.92,5,0,5,PHI,PHI,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,102-107,102,107
+0022000618,2021-03-17,PHI,MIL,52.97,5,0,2,PHI,PHI,reb,0,False,False,Thybulle REBOUND (Off:1 Def:2),,102-107,102,107
+0022000618,2021-03-17,PHI,MIL,53.0,5,0,0,PHI,PHI,fg3_make,1,False,False,Simmons 26' 3PT Jump Shot (13 PTS) (Thybulle 1 AST),,105-107,105,107
+0022000618,2021-03-17,PHI,MIL,53.0,5,0,0,MIL,PHI,foul,28,False,False,Green Personal Take Foul (P3.PN) (M.Lindsay),,105-107,105,107
+0022000618,2021-03-17,PHI,MIL,53.0,5,0,0,MIL,MIL,ft_make,11,False,False,,DiVincenzo Free Throw 1 of 2 (19 PTS),105-108,105,108
+0022000618,2021-03-17,PHI,MIL,53.0,5,0,0,MIL,MIL,ft_make,12,False,False,,DiVincenzo Free Throw 2 of 2 (20 PTS),105-109,105,109
+0022000618,2021-03-17,PHI,MIL,53.0,5,0,0,MIL,,period_end,0,False,False,,,105-109,105,109

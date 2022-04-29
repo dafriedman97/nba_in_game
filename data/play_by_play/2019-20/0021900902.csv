@@ -1,0 +1,395 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900902,2020-03-02,CLE,UTA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.0,1,12,0,,CLE,jump_ball,0,False,False,Jump Ball Nance Jr. vs. Gobert: Tip to Mitchell,,0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.32,1,11,41,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 26' 3PT Jump Shot,0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.35,1,11,39,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:0),0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.47,1,11,32,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 3PT Jump Shot,0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.53,1,11,28,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:1),,0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.77,1,11,14,CLE,CLE,fg3_miss,1,False,False,MISS Nance Jr. 25' 3PT Jump Shot,,0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.82,1,11,11,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.98,1,11,1,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P1.T1),0-0,0,0
+0021900902,2020-03-02,CLE,UTA,0.98,1,11,1,UTA,CLE,steal,2,False,True,steal,steal,0-0,0,0
+0021900902,2020-03-02,CLE,UTA,1.05,1,10,57,CLE,CLE,fg_make,52,False,False,Porter Jr. 1' Alley Oop Dunk (2 PTS) (Osman 1 AST),,2-0,2,0
+0021900902,2020-03-02,CLE,UTA,1.38,1,10,37,UTA,CLE,foul,1,False,False,Osman P.FOUL (P1.T1) (M.Ervin),,2-0,2,0
+0021900902,2020-03-02,CLE,UTA,1.38,1,10,37,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,2-0,2,0
+0021900902,2020-03-02,CLE,UTA,1.62,1,10,23,UTA,UTA,fg3_miss,79,False,False,,MISS Bogdanovic 30' 3PT Pullup Jump Shot,2-0,2,0
+0021900902,2020-03-02,CLE,UTA,1.67,1,10,20,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:1),,2-0,2,0
+0021900902,2020-03-02,CLE,UTA,1.77,1,10,14,CLE,CLE,tov,45,False,False,Love Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,2-0,2,0
+0021900902,2020-03-02,CLE,UTA,2.0,1,10,0,UTA,UTA,fg3_make,1,False,False,,O'Neale 24' 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),2-3,2,3
+0021900902,2020-03-02,CLE,UTA,2.25,1,9,45,CLE,CLE,fg_miss,6,False,False,MISS Sexton 2' Driving Layup,,2-3,2,3
+0021900902,2020-03-02,CLE,UTA,2.28,1,9,43,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),2-3,2,3
+0021900902,2020-03-02,CLE,UTA,2.38,1,9,37,UTA,UTA,fg_make,52,False,False,,Gobert Alley Oop Dunk (2 PTS) (Conley 1 AST),2-5,2,5
+0021900902,2020-03-02,CLE,UTA,2.57,1,9,26,CLE,CLE,fg3_miss,1,False,False,MISS Love 29' 3PT Jump Shot,,2-5,2,5
+0021900902,2020-03-02,CLE,UTA,2.58,1,9,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,2-5,2,5
+0021900902,2020-03-02,CLE,UTA,2.77,1,9,14,UTA,UTA,fg3_make,1,False,False,,O'Neale 26' 3PT Jump Shot (6 PTS) (Mitchell 1 AST),2-8,2,8
+0021900902,2020-03-02,CLE,UTA,3.13,1,8,52,CLE,CLE,fg3_miss,1,False,False,MISS Osman 3PT Jump Shot,,2-8,2,8
+0021900902,2020-03-02,CLE,UTA,3.17,1,8,50,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:0 Def:1),2-8,2,8
+0021900902,2020-03-02,CLE,UTA,3.3,1,8,42,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 24' 3PT Jump Shot,2-8,2,8
+0021900902,2020-03-02,CLE,UTA,3.35,1,8,39,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:2),,2-8,2,8
+0021900902,2020-03-02,CLE,UTA,3.53,1,8,28,CLE,UTA,foul,2,False,False,,Conley S.FOUL (P1.T1) (D.Richardson),2-8,2,8
+0021900902,2020-03-02,CLE,UTA,3.53,1,8,28,CLE,CLE,ft_make,11,False,False,Sexton Free Throw 1 of 2 (1 PTS),,3-8,3,8
+0021900902,2020-03-02,CLE,UTA,3.53,1,8,28,CLE,CLE,ft_make,12,False,False,Sexton Free Throw 2 of 2 (2 PTS),,4-8,4,8
+0021900902,2020-03-02,CLE,UTA,3.85,1,8,9,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 26' 3PT Jump Shot,4-8,4,8
+0021900902,2020-03-02,CLE,UTA,3.9,1,8,6,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:2),,4-8,4,8
+0021900902,2020-03-02,CLE,UTA,4.08,1,7,55,CLE,UTA,foul,1,False,False,,Mitchell P.FOUL (P1.T2) (D.Richardson),4-8,4,8
+0021900902,2020-03-02,CLE,UTA,4.27,1,7,44,CLE,UTA,foul,1,False,False,,Conley P.FOUL (P2.T3) (E.Lewis),4-8,4,8
+0021900902,2020-03-02,CLE,UTA,4.4,1,7,36,CLE,CLE,fg_make,79,False,False,Sexton 15' Pullup Jump Shot (4 PTS),,6-8,6,8
+0021900902,2020-03-02,CLE,UTA,4.67,1,7,20,UTA,UTA,fg_make,7,False,False,,Gobert 1' Dunk (4 PTS) (Bogdanovic 2 AST),6-10,6,10
+0021900902,2020-03-02,CLE,UTA,4.98,1,7,1,CLE,CLE,fg_miss,6,False,False,MISS Osman 1' Driving Layup,,6-10,6,10
+0021900902,2020-03-02,CLE,UTA,4.98,1,7,1,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:1 Def:0),,6-10,6,10
+0021900902,2020-03-02,CLE,UTA,5.05,1,6,57,CLE,CLE,fg3_make,1,False,False,Love 3PT Jump Shot (3 PTS) (Osman 2 AST),,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.23,1,6,46,UTA,UTA,tov,45,False,False,,Gobert Out of Bounds - Bad Pass Turnover Turnover (P1.T2),9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.57,1,6,26,CLE,CLE,fg_miss,3,False,False,MISS Zizic Hook Shot,,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.62,1,6,23,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:1),9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.77,1,6,14,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 24' 3PT Jump Shot,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.78,1,6,13,UTA,UTA,reb,0,False,False,,Jazz Rebound,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.78,1,6,13,UTA,CLE,foul,3,False,False,Zizic L.B.FOUL (P1.T2) (E.Lewis),,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.83,1,6,10,UTA,UTA,fg_miss,5,False,False,,MISS Bogdanovic 1' Layup,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.83,1,6,10,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:2 Def:0),9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.83,1,6,10,UTA,CLE,foul,2,False,False,Porter Jr. S.FOUL (P1.T3) (M.Ervin),,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.83,1,6,10,UTA,UTA,ft_miss,11,False,False,,MISS Bogdanovic Free Throw 1 of 2,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.83,1,6,10,UTA,UTA,reb,1,False,False,,Jazz Rebound,9-10,9,10
+0021900902,2020-03-02,CLE,UTA,5.83,1,6,10,UTA,UTA,ft_make,12,False,False,,Bogdanovic Free Throw 2 of 2 (1 PTS),9-11,9,11
+0021900902,2020-03-02,CLE,UTA,6.12,1,5,53,CLE,CLE,fg_miss,47,False,False,MISS Love 10' Turnaround Jump Shot,,9-11,9,11
+0021900902,2020-03-02,CLE,UTA,6.15,1,5,51,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:2),9-11,9,11
+0021900902,2020-03-02,CLE,UTA,6.32,1,5,41,UTA,UTA,fg3_make,1,False,False,,O'Neale 26' 3PT Jump Shot (9 PTS) (Bogdanovic 3 AST),9-14,9,14
+0021900902,2020-03-02,CLE,UTA,6.55,1,5,27,CLE,CLE,fg_make,79,False,False,Sexton 5' Pullup Jump Shot (6 PTS),,11-14,11,14
+0021900902,2020-03-02,CLE,UTA,6.73,1,5,16,UTA,UTA,fg_make,52,False,False,,Gobert 1' Alley Oop Dunk (6 PTS) (Ingles 1 AST),11-16,11,16
+0021900902,2020-03-02,CLE,UTA,6.88,1,5,7,CLE,CLE,tov,1,False,True,Porter Jr. Bad Pass Turnover (P1.T2),,11-16,11,16
+0021900902,2020-03-02,CLE,UTA,6.88,1,5,7,CLE,UTA,steal,1,False,True,steal,steal,11-16,11,16
+0021900902,2020-03-02,CLE,UTA,6.97,1,5,2,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P2.T3),11-16,11,16
+0021900902,2020-03-02,CLE,UTA,6.97,1,5,2,UTA,CLE,steal,2,False,True,steal,steal,11-16,11,16
+0021900902,2020-03-02,CLE,UTA,7.08,1,4,55,CLE,CLE,fg3_make,1,False,False,Love 25' 3PT Jump Shot (6 PTS) (Dellavedova 1 AST),,14-16,14,16
+0021900902,2020-03-02,CLE,UTA,7.37,1,4,38,UTA,UTA,fg_make,71,False,False,,Bogdanovic 1' Finger Roll Layup (3 PTS),14-18,14,18
+0021900902,2020-03-02,CLE,UTA,7.52,1,4,29,CLE,CLE,fg_make,79,False,False,Porter Jr. 14' Pullup Jump Shot (4 PTS),,16-18,16,18
+0021900902,2020-03-02,CLE,UTA,7.55,1,4,27,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.1 Short 0),16-18,16,18
+0021900902,2020-03-02,CLE,UTA,7.93,1,4,4,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 16' Pullup Jump Shot,16-18,16,18
+0021900902,2020-03-02,CLE,UTA,7.98,1,4,1,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:1),,16-18,16,18
+0021900902,2020-03-02,CLE,UTA,8.15,1,3,51,CLE,CLE,fg3_make,1,False,False,Porter Jr. 30' 3PT Jump Shot (7 PTS) (Nance Jr. 1 AST),,19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.4,1,3,36,UTA,UTA,tov,1,False,True,,Ingles Bad Pass Turnover (P1.T4),19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.4,1,3,36,UTA,CLE,steal,1,False,True,steal,steal,19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.47,1,3,32,CLE,CLE,fg_miss,6,True,False,MISS Porter Jr. 2' Driving Layup,,19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.47,1,3,32,CLE,UTA,block,6,True,False,block,block,19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.47,1,3,32,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.57,1,3,26,CLE,CLE,fg3_miss,80,False,False,MISS Porter Jr. 25' 3PT Step Back Jump Shot,,19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.62,1,3,23,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:2 Def:1),19-18,19,18
+0021900902,2020-03-02,CLE,UTA,8.75,1,3,15,UTA,UTA,fg_make,6,False,False,,Bogdanovic 1' Driving Layup (5 PTS),19-20,19,20
+0021900902,2020-03-02,CLE,UTA,9.13,1,2,52,CLE,CLE,fg_make,79,False,False,Osman 18' Pullup Jump Shot (2 PTS) (Dellavedova 2 AST),,21-20,21,20
+0021900902,2020-03-02,CLE,UTA,9.45,1,2,33,UTA,UTA,fg_make,52,False,False,,Gobert 1' Alley Oop Dunk (8 PTS) (Bogdanovic 4 AST),21-22,21,22
+0021900902,2020-03-02,CLE,UTA,9.67,1,2,20,CLE,CLE,fg_make,101,False,False,Dellavedova 11' Driving Floating Jump Shot (2 PTS),,23-22,23,22
+0021900902,2020-03-02,CLE,UTA,9.88,1,2,7,UTA,UTA,fg_make,6,False,False,,Bogdanovic 1' Driving Layup (7 PTS),23-24,23,24
+0021900902,2020-03-02,CLE,UTA,10.07,1,1,56,CLE,CLE,fg3_miss,1,False,False,MISS Nance Jr. 27' 3PT Jump Shot,,23-24,23,24
+0021900902,2020-03-02,CLE,UTA,10.13,1,1,52,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:3),23-24,23,24
+0021900902,2020-03-02,CLE,UTA,10.28,1,1,43,UTA,UTA,fg_miss,5,False,False,,MISS Gobert 1' Layup,23-24,23,24
+0021900902,2020-03-02,CLE,UTA,10.32,1,1,41,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:3 Def:1),23-24,23,24
+0021900902,2020-03-02,CLE,UTA,10.35,1,1,39,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 26' 3PT Jump Shot (10 PTS),23-27,23,27
+0021900902,2020-03-02,CLE,UTA,10.6,1,1,24,CLE,CLE,fg_miss,101,False,False,MISS Dellavedova 8' Driving Floating Jump Shot,,23-27,23,27
+0021900902,2020-03-02,CLE,UTA,10.63,1,1,22,CLE,CLE,reb,0,False,False,Dellavedova REBOUND (Off:1 Def:0),,23-27,23,27
+0021900902,2020-03-02,CLE,UTA,10.68,1,1,19,CLE,CLE,fg3_miss,1,False,False,MISS Osman 27' 3PT Jump Shot,,23-27,23,27
+0021900902,2020-03-02,CLE,UTA,10.73,1,1,16,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:1),23-27,23,27
+0021900902,2020-03-02,CLE,UTA,10.93,1,1,4,UTA,UTA,fg_make,78,False,False,,Clarkson 6' Floating Jump Shot (2 PTS),23-29,23,29
+0021900902,2020-03-02,CLE,UTA,11.33,1,0,40,CLE,CLE,fg_miss,1,False,False,MISS Nance Jr. 11' Jump Shot,,23-29,23,29
+0021900902,2020-03-02,CLE,UTA,11.38,1,0,37,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:2),23-29,23,29
+0021900902,2020-03-02,CLE,UTA,11.53,1,0,28,UTA,UTA,fg_make,98,False,False,,Gobert Cutting Layup Shot (10 PTS) (Ingles 2 AST),23-31,23,31
+0021900902,2020-03-02,CLE,UTA,11.92,1,0,5,CLE,CLE,fg_make,3,False,False,Zizic 4' Hook Shot (2 PTS) (Porter Jr. 1 AST),,25-31,25,31
+0021900902,2020-03-02,CLE,UTA,11.98,1,0,1,UTA,UTA,fg_miss,101,False,False,,MISS Clarkson 3' Driving Floating Jump Shot,25-31,25,31
+0021900902,2020-03-02,CLE,UTA,11.98,1,0,1,CLE,CLE,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:1),,25-31,25,31
+0021900902,2020-03-02,CLE,UTA,12.0,1,0,0,CLE,,period_end,0,False,False,,,25-31,25,31
+0021900902,2020-03-02,CLE,UTA,12.0,2,12,0,CLE,,period_start,0,False,False,,,25-31,25,31
+0021900902,2020-03-02,CLE,UTA,12.2,2,11,48,CLE,CLE,fg_miss,78,False,False,MISS Dellavedova 13' Floating Jump Shot,,25-31,25,31
+0021900902,2020-03-02,CLE,UTA,12.25,2,11,45,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:0 Def:2),25-31,25,31
+0021900902,2020-03-02,CLE,UTA,12.5,2,11,30,UTA,UTA,fg_make,102,False,False,,Clarkson 3' Driving Floating Bank Jump Shot (4 PTS),25-33,25,33
+0021900902,2020-03-02,CLE,UTA,12.75,2,11,15,CLE,CLE,fg3_make,1,False,False,Osman 25' 3PT Jump Shot (5 PTS) (Nance Jr. 2 AST),,28-33,28,33
+0021900902,2020-03-02,CLE,UTA,13.02,2,10,59,UTA,UTA,fg3_make,1,False,False,,Clarkson 28' 3PT Jump Shot (7 PTS) (Bradley 1 AST),28-36,28,36
+0021900902,2020-03-02,CLE,UTA,13.25,2,10,45,CLE,CLE,fg_make,98,False,False,Sexton 1' Cutting Layup Shot (8 PTS) (Dellavedova 3 AST),,30-36,30,36
+0021900902,2020-03-02,CLE,UTA,13.6,2,10,24,UTA,CLE,foul,1,False,False,Nance Jr. P.FOUL (P1.T1) (E.Lewis),,30-36,30,36
+0021900902,2020-03-02,CLE,UTA,13.72,2,10,17,UTA,CLE,foul,2,False,False,Love S.FOUL (P1.T2) (D.Richardson),,30-36,30,36
+0021900902,2020-03-02,CLE,UTA,13.72,2,10,17,UTA,UTA,ft_miss,11,False,False,,MISS Conley Free Throw 1 of 2,30-36,30,36
+0021900902,2020-03-02,CLE,UTA,13.72,2,10,17,UTA,UTA,reb,1,False,False,,Jazz Rebound,30-36,30,36
+0021900902,2020-03-02,CLE,UTA,13.72,2,10,17,UTA,UTA,ft_make,12,False,False,,Conley Free Throw 2 of 2 (1 PTS),30-37,30,37
+0021900902,2020-03-02,CLE,UTA,13.95,2,10,3,CLE,CLE,fg_make,99,False,False,Nance Jr. 2' Cutting Finger Roll Layup Shot (2 PTS) (Sexton 1 AST),,32-37,32,37
+0021900902,2020-03-02,CLE,UTA,14.05,2,9,57,UTA,UTA,fg3_miss,79,False,False,,MISS Conley 25' 3PT Pullup Jump Shot,32-37,32,37
+0021900902,2020-03-02,CLE,UTA,14.1,2,9,54,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:3),,32-37,32,37
+0021900902,2020-03-02,CLE,UTA,14.28,2,9,43,CLE,CLE,fg3_make,79,False,False,Sexton 25' 3PT Pullup Jump Shot (11 PTS),,35-37,35,37
+0021900902,2020-03-02,CLE,UTA,14.52,2,9,29,UTA,UTA,fg3_miss,1,False,False,,MISS Niang 26' 3PT Jump Shot,35-37,35,37
+0021900902,2020-03-02,CLE,UTA,14.55,2,9,27,CLE,CLE,reb,0,False,False,Dellavedova REBOUND (Off:1 Def:1),,35-37,35,37
+0021900902,2020-03-02,CLE,UTA,14.85,2,9,9,CLE,CLE,fg3_make,1,False,False,Dellavedova 3PT Jump Shot (5 PTS) (Love 1 AST),,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.27,2,8,44,UTA,UTA,fg3_miss,1,False,False,,MISS Niang 24' 3PT Jump Shot,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.32,2,8,41,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:4),,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.52,2,8,29,UTA,CLE,foul,26,False,False,Osman Offensive Charge Foul (P2.T3) (D.Richardson),,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.52,2,8,29,CLE,CLE,tov,37,False,False,Osman Offensive Foul Turnover (P1.T3),,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.68,2,8,19,UTA,UTA,fg3_miss,79,False,False,,MISS Clarkson 28' 3PT Pullup Jump Shot,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.73,2,8,16,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:5),,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.9,2,8,6,CLE,CLE,fg_miss,66,False,False,MISS Love 17' Jump Bank Shot,,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,15.93,2,8,4,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),38-37,38,37
+0021900902,2020-03-02,CLE,UTA,16.1,2,7,54,UTA,UTA,fg3_miss,1,False,False,,MISS Niang 25' 3PT Jump Shot,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,16.13,2,7,52,UTA,UTA,reb,0,False,False,,Niang REBOUND (Off:1 Def:0),38-37,38,37
+0021900902,2020-03-02,CLE,UTA,16.17,2,7,50,UTA,UTA,tov,1,False,True,,Niang Bad Pass Turnover (P1.T5),38-37,38,37
+0021900902,2020-03-02,CLE,UTA,16.17,2,7,50,UTA,CLE,steal,1,False,True,steal,steal,38-37,38,37
+0021900902,2020-03-02,CLE,UTA,16.3,2,7,42,CLE,UTA,foul,2,False,False,,Niang S.FOUL (P1.T1) (E.Lewis),38-37,38,37
+0021900902,2020-03-02,CLE,UTA,16.3,2,7,42,CLE,CLE,ft_make,13,False,False,Love Free Throw 1 of 3 (7 PTS),,39-37,39,37
+0021900902,2020-03-02,CLE,UTA,16.3,2,7,42,CLE,CLE,ft_miss,14,False,False,MISS Love Free Throw 2 of 3,,39-37,39,37
+0021900902,2020-03-02,CLE,UTA,16.3,2,7,42,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,39-37,39,37
+0021900902,2020-03-02,CLE,UTA,16.3,2,7,42,CLE,CLE,ft_make,15,False,False,Love Free Throw 3 of 3 (8 PTS),,40-37,40,37
+0021900902,2020-03-02,CLE,UTA,16.47,2,7,32,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 26' 3PT Jump Shot,40-37,40,37
+0021900902,2020-03-02,CLE,UTA,16.48,2,7,31,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:2),,40-37,40,37
+0021900902,2020-03-02,CLE,UTA,16.53,2,7,28,CLE,UTA,foul,2,False,False,,Bradley S.FOUL (P1.T2) (M.Ervin),40-37,40,37
+0021900902,2020-03-02,CLE,UTA,16.53,2,7,28,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.2 Short 0),40-37,40,37
+0021900902,2020-03-02,CLE,UTA,16.53,2,7,28,UTA,CLE,ft_make,11,False,False,Sexton Free Throw 1 of 2 (12 PTS),,41-37,41,37
+0021900902,2020-03-02,CLE,UTA,16.53,2,7,28,CLE,CLE,ft_miss,12,False,False,MISS Sexton Free Throw 2 of 2,,41-37,41,37
+0021900902,2020-03-02,CLE,UTA,16.57,2,7,26,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:2),41-37,41,37
+0021900902,2020-03-02,CLE,UTA,16.73,2,7,16,UTA,UTA,fg_miss,78,False,False,,MISS Clarkson 7' Floating Jump Shot,41-37,41,37
+0021900902,2020-03-02,CLE,UTA,16.77,2,7,14,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:3),,41-37,41,37
+0021900902,2020-03-02,CLE,UTA,16.98,2,7,1,CLE,CLE,tov,13,False,False,Osman Backcourt Turnover (P2.T4),,41-37,41,37
+0021900902,2020-03-02,CLE,UTA,17.32,2,6,41,UTA,UTA,fg_make,102,False,False,,Conley 3' Driving Floating Bank Jump Shot (3 PTS),41-39,41,39
+0021900902,2020-03-02,CLE,UTA,17.6,2,6,24,CLE,CLE,fg3_make,1,False,False,Love 27' 3PT Jump Shot (11 PTS) (Sexton 2 AST),,44-39,44,39
+0021900902,2020-03-02,CLE,UTA,17.8,2,6,12,UTA,UTA,fg_make,98,False,False,,Bradley Cutting Layup Shot (2 PTS) (Conley 2 AST),44-41,44,41
+0021900902,2020-03-02,CLE,UTA,17.98,2,6,1,CLE,CLE,fg3_make,1,False,False,Love 29' 3PT Jump Shot (14 PTS) (Nance Jr. 3 AST),,47-41,47,41
+0021900902,2020-03-02,CLE,UTA,18.23,2,5,46,UTA,UTA,fg_miss,78,False,False,,MISS Bogdanovic 7' Floating Jump Shot,47-41,47,41
+0021900902,2020-03-02,CLE,UTA,18.27,2,5,44,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:4),,47-41,47,41
+0021900902,2020-03-02,CLE,UTA,18.47,2,5,32,CLE,CLE,fg_miss,6,False,False,MISS Sexton 2' Driving Layup,,47-41,47,41
+0021900902,2020-03-02,CLE,UTA,18.5,2,5,30,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:4),47-41,47,41
+0021900902,2020-03-02,CLE,UTA,18.67,2,5,20,UTA,UTA,fg_make,63,False,False,,Bogdanovic 14' Fadeaway Jumper (12 PTS),47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.03,2,4,58,CLE,CLE,tov,1,False,True,Porter Jr. Bad Pass Turnover (P2.T5),,47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.03,2,4,58,CLE,UTA,steal,1,False,True,steal,steal,47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.07,2,4,56,UTA,UTA,tov,21,False,False,,Clarkson Palming Turnover (P1.T6),47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.23,2,4,46,CLE,CLE,fg_miss,1,False,False,MISS Nance Jr. 17' Jump Shot,,47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.28,2,4,43,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:5),47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.38,2,4,37,UTA,UTA,fg_miss,58,False,False,,MISS Clarkson 6' Turnaround Hook Shot,47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.43,2,4,34,CLE,CLE,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:2),,47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.45,2,4,33,CLE,UTA,foul,28,False,False,,Bogdanovic Personal Take Foul (P1.T3) (D.Richardson),47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.68,2,4,19,CLE,CLE,fg_miss,108,False,False,MISS Nance Jr. Cutting Dunk Shot,,47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.73,2,4,16,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:1),47-43,47,43
+0021900902,2020-03-02,CLE,UTA,19.87,2,4,8,UTA,UTA,fg_make,7,False,False,,Gobert 1' Dunk (12 PTS) (Mitchell 2 AST),47-45,47,45
+0021900902,2020-03-02,CLE,UTA,20.15,2,3,51,CLE,CLE,fg3_miss,1,False,False,MISS Nance Jr. 25' 3PT Jump Shot,,47-45,47,45
+0021900902,2020-03-02,CLE,UTA,20.18,2,3,49,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:3 Def:2),47-45,47,45
+0021900902,2020-03-02,CLE,UTA,20.33,2,3,40,UTA,UTA,fg_make,6,False,False,,Bogdanovic Driving Layup (14 PTS),47-47,47,47
+0021900902,2020-03-02,CLE,UTA,20.47,2,3,32,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 2 Short 0),,47-47,47,47
+0021900902,2020-03-02,CLE,UTA,20.63,2,3,22,CLE,CLE,fg_miss,79,True,False,MISS Porter Jr. 22' Pullup Jump Shot,,47-47,47,47
+0021900902,2020-03-02,CLE,UTA,20.63,2,3,22,CLE,UTA,block,79,True,False,block,block,47-47,47,47
+0021900902,2020-03-02,CLE,UTA,20.68,2,3,19,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:3),47-47,47,47
+0021900902,2020-03-02,CLE,UTA,20.87,2,3,8,UTA,UTA,fg_miss,78,False,False,,MISS Conley 8' Floating Jump Shot,47-47,47,47
+0021900902,2020-03-02,CLE,UTA,20.9,2,3,6,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:1),47-47,47,47
+0021900902,2020-03-02,CLE,UTA,20.9,2,3,6,UTA,UTA,fg_make,97,False,False,,Gobert 1' Tip Layup Shot (14 PTS),47-49,47,49
+0021900902,2020-03-02,CLE,UTA,21.28,2,2,43,CLE,CLE,fg_make,98,False,False,Nance Jr. 2' Cutting Layup Shot (4 PTS) (Porter Jr. 2 AST),,49-49,49,49
+0021900902,2020-03-02,CLE,UTA,21.62,2,2,23,UTA,UTA,fg3_make,1,False,False,,Mitchell 26' 3PT Jump Shot (3 PTS) (Conley 3 AST),49-52,49,52
+0021900902,2020-03-02,CLE,UTA,21.78,2,2,13,CLE,CLE,fg3_miss,80,False,False,MISS Sexton 26' 3PT Step Back Jump Shot,,49-52,49,52
+0021900902,2020-03-02,CLE,UTA,21.82,2,2,11,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:2),49-52,49,52
+0021900902,2020-03-02,CLE,UTA,22.0,2,2,0,UTA,UTA,fg_make,75,False,False,,Mitchell 1' Driving Finger Roll Layup (5 PTS),49-54,49,54
+0021900902,2020-03-02,CLE,UTA,22.22,2,1,47,CLE,CLE,fg_make,1,False,False,Nance Jr. 9' Jump Shot (6 PTS) (Dellavedova 4 AST),,51-54,51,54
+0021900902,2020-03-02,CLE,UTA,22.48,2,1,31,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 24' 3PT Jump Shot,51-54,51,54
+0021900902,2020-03-02,CLE,UTA,22.53,2,1,28,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:3),,51-54,51,54
+0021900902,2020-03-02,CLE,UTA,22.87,2,1,8,CLE,CLE,fg3_miss,79,False,False,MISS Dellavedova 26' 3PT Pullup Jump Shot,,51-54,51,54
+0021900902,2020-03-02,CLE,UTA,22.92,2,1,5,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:4),51-54,51,54
+0021900902,2020-03-02,CLE,UTA,23.08,2,0,55,UTA,CLE,foul,1,False,False,Porter Jr. P.FOUL (P2.T4) (M.Ervin),,51-54,51,54
+0021900902,2020-03-02,CLE,UTA,23.13,2,0,52,UTA,CLE,foul,1,False,False,Osman P.FOUL (P3.PN) (M.Ervin),,51-54,51,54
+0021900902,2020-03-02,CLE,UTA,23.13,2,0,52,UTA,UTA,ft_make,11,False,False,,Bogdanovic Free Throw 1 of 2 (15 PTS),51-55,51,55
+0021900902,2020-03-02,CLE,UTA,23.13,2,0,52,UTA,UTA,ft_make,12,False,False,,Bogdanovic Free Throw 2 of 2 (16 PTS),51-56,51,56
+0021900902,2020-03-02,CLE,UTA,23.33,2,0,40,CLE,CLE,fg3_miss,80,False,False,MISS Porter Jr. 26' 3PT Step Back Jump Shot,,51-56,51,56
+0021900902,2020-03-02,CLE,UTA,23.37,2,0,38,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:3 Def:3),51-56,51,56
+0021900902,2020-03-02,CLE,UTA,23.43,2,0,34,UTA,UTA,tov,40,False,False,,Gobert Out of Bounds Lost Ball Turnover (P2.T7),51-56,51,56
+0021900902,2020-03-02,CLE,UTA,23.68,2,0,19,CLE,UTA,foul,1,False,False,,Gobert P.FOUL (P1.T4) (D.Richardson),51-56,51,56
+0021900902,2020-03-02,CLE,UTA,23.9,2,0,6,CLE,CLE,fg3_miss,1,False,False,MISS Love 26' 3PT Jump Shot,,51-56,51,56
+0021900902,2020-03-02,CLE,UTA,23.93,2,0,4,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:3),51-56,51,56
+0021900902,2020-03-02,CLE,UTA,24.0,2,0,0,UTA,UTA,fg3_make,1,False,False,,Conley 3PT Jump Shot (6 PTS) (Mitchell 3 AST),51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.0,2,0,0,UTA,,period_end,0,False,False,,,51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.0,3,12,0,UTA,,period_start,0,False,False,,,51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.38,3,11,37,CLE,CLE,fg_miss,75,False,False,MISS Sexton 1' Driving Finger Roll Layup,,51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.43,3,11,34,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:1 Def:4),,51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.45,3,11,33,CLE,CLE,fg_miss,1,True,False,MISS Nance Jr. 14' Jump Shot,,51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.45,3,11,33,CLE,UTA,block,1,True,False,block,block,51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.48,3,11,31,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:5),51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.57,3,11,26,UTA,CLE,foul,2,False,False,Sexton S.FOUL (P1.T1) (D.Richardson),,51-59,51,59
+0021900902,2020-03-02,CLE,UTA,24.57,3,11,26,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (15 PTS),51-60,51,60
+0021900902,2020-03-02,CLE,UTA,24.57,3,11,26,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (16 PTS),51-61,51,61
+0021900902,2020-03-02,CLE,UTA,24.77,3,11,14,CLE,CLE,fg3_miss,1,False,False,MISS Porter Jr. 26' 3PT Jump Shot,,51-61,51,61
+0021900902,2020-03-02,CLE,UTA,24.82,3,11,11,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:4),51-61,51,61
+0021900902,2020-03-02,CLE,UTA,25.17,3,10,50,UTA,UTA,fg_make,79,False,False,,Mitchell 14' Pullup Jump Shot (7 PTS) (Bogdanovic 5 AST),51-63,51,63
+0021900902,2020-03-02,CLE,UTA,25.47,3,10,32,CLE,CLE,fg3_miss,79,False,False,MISS Osman 26' 3PT Pullup Jump Shot,,51-63,51,63
+0021900902,2020-03-02,CLE,UTA,25.52,3,10,29,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:5),51-63,51,63
+0021900902,2020-03-02,CLE,UTA,25.73,3,10,16,UTA,UTA,fg_make,79,False,False,,Mitchell 14' Pullup Jump Shot (9 PTS) (Bogdanovic 6 AST),51-65,51,65
+0021900902,2020-03-02,CLE,UTA,25.75,3,10,15,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 3 Short 0),,51-65,51,65
+0021900902,2020-03-02,CLE,UTA,25.95,3,10,3,CLE,UTA,foul,1,False,False,,Conley P.FOUL (P3.T1) (E.Lewis),51-65,51,65
+0021900902,2020-03-02,CLE,UTA,26.12,3,9,53,CLE,CLE,fg3_make,1,False,False,Nance Jr. 25' 3PT Jump Shot (9 PTS) (Porter Jr. 3 AST),,54-65,54,65
+0021900902,2020-03-02,CLE,UTA,26.38,3,9,37,UTA,UTA,fg3_make,1,False,False,,O'Neale 3PT Jump Shot (12 PTS) (Conley 4 AST),54-68,54,68
+0021900902,2020-03-02,CLE,UTA,26.63,3,9,22,CLE,CLE,fg_make,78,False,False,Sexton 5' Floating Jump Shot (14 PTS),,56-68,56,68
+0021900902,2020-03-02,CLE,UTA,26.78,3,9,13,UTA,UTA,fg_make,6,False,False,,Conley Driving Layup (8 PTS),56-70,56,70
+0021900902,2020-03-02,CLE,UTA,27.12,3,8,53,CLE,CLE,fg_miss,5,True,False,MISS Nance Jr. 1' Layup,,56-70,56,70
+0021900902,2020-03-02,CLE,UTA,27.12,3,8,53,CLE,UTA,block,5,True,False,block,block,56-70,56,70
+0021900902,2020-03-02,CLE,UTA,27.13,3,8,52,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:6),56-70,56,70
+0021900902,2020-03-02,CLE,UTA,27.25,3,8,45,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 3PT Jump Shot,56-70,56,70
+0021900902,2020-03-02,CLE,UTA,27.3,3,8,42,CLE,CLE,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:3),,56-70,56,70
+0021900902,2020-03-02,CLE,UTA,27.35,3,8,39,CLE,UTA,foul,2,False,False,,O'Neale S.FOUL (P1.T2) (M.Ervin),56-70,56,70
+0021900902,2020-03-02,CLE,UTA,27.35,3,8,39,CLE,CLE,ft_make,11,False,False,Sexton Free Throw 1 of 2 (15 PTS),,57-70,57,70
+0021900902,2020-03-02,CLE,UTA,27.35,3,8,39,CLE,CLE,ft_make,12,False,False,Sexton Free Throw 2 of 2 (16 PTS),,58-70,58,70
+0021900902,2020-03-02,CLE,UTA,27.58,3,8,25,UTA,UTA,fg_miss,80,False,False,,MISS Bogdanovic 15' Step Back Jump Shot,58-70,58,70
+0021900902,2020-03-02,CLE,UTA,27.62,3,8,23,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:5),58-70,58,70
+0021900902,2020-03-02,CLE,UTA,27.68,3,8,19,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 3PT Jump Shot (19 PTS) (Gobert 1 AST),58-73,58,73
+0021900902,2020-03-02,CLE,UTA,27.92,3,8,5,CLE,CLE,fg3_make,1,False,False,Love 28' 3PT Jump Shot (17 PTS) (Porter Jr. 4 AST),,61-73,61,73
+0021900902,2020-03-02,CLE,UTA,28.2,3,7,48,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 27' 3PT Pullup Jump Shot,61-73,61,73
+0021900902,2020-03-02,CLE,UTA,28.23,3,7,46,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:6),,61-73,61,73
+0021900902,2020-03-02,CLE,UTA,28.45,3,7,33,CLE,CLE,fg3_make,1,False,False,Love 35' 3PT Jump Shot (20 PTS) (Nance Jr. 4 AST),,64-73,64,73
+0021900902,2020-03-02,CLE,UTA,28.78,3,7,13,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 3PT Jump Shot (22 PTS) (Mitchell 4 AST),64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.08,3,6,55,CLE,UTA,foul,1,False,False,,Bogdanovic P.FOUL (P2.T3) (E.Lewis),64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.2,3,6,48,CLE,CLE,fg3_miss,1,False,False,MISS Porter Jr. 3PT Jump Shot,,64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.25,3,6,45,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:7),64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.33,3,6,40,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 24' 3PT Jump Shot,64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.4,3,6,36,CLE,CLE,reb,0,False,False,Zizic REBOUND (Off:0 Def:1),,64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.52,3,6,29,CLE,CLE,fg_miss,78,False,False,MISS Zizic 7' Floating Jump Shot,,64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.55,3,6,27,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:3),64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.83,3,6,10,UTA,UTA,tov,39,False,False,,Mitchell Step Out of Bounds Turnover (P3.T8),64-76,64,76
+0021900902,2020-03-02,CLE,UTA,29.98,3,6,1,CLE,CLE,fg_make,98,False,False,Porter Jr. 1' Cutting Layup Shot (9 PTS) (Dellavedova 5 AST),,66-76,66,76
+0021900902,2020-03-02,CLE,UTA,29.98,3,6,1,CLE,UTA,foul,2,False,False,,Bogdanovic S.FOUL (P3.T4) (M.Ervin),66-76,66,76
+0021900902,2020-03-02,CLE,UTA,29.98,3,6,1,CLE,CLE,ft_make,10,False,False,Porter Jr. Free Throw 1 of 1 (10 PTS),,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.12,3,5,53,UTA,UTA,fg_miss,6,False,False,,MISS Bogdanovic 3' Driving Layup,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.15,3,5,51,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:7),,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.37,3,5,38,CLE,CLE,fg3_miss,1,False,False,MISS Love 25' 3PT Jump Shot,,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.42,3,5,35,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:6),67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.52,3,5,29,UTA,CLE,foul,1,False,False,Zizic P.FOUL (P2.T2) (M.Ervin),,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.73,3,5,16,UTA,UTA,tov,2,False,True,,Bogdanovic Lost Ball Turnover (P1.T9),67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.73,3,5,16,UTA,CLE,steal,2,False,True,steal,steal,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.77,3,5,14,CLE,UTA,foul,28,False,False,,Ingles Personal Take Foul (P1.PN) (E.Lewis),67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.77,3,5,14,CLE,CLE,ft_miss,11,False,False,MISS Sexton Free Throw 1 of 2,,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.77,3,5,14,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,67-76,67,76
+0021900902,2020-03-02,CLE,UTA,30.77,3,5,14,CLE,CLE,ft_make,12,False,False,Sexton Free Throw 2 of 2 (17 PTS),,68-76,68,76
+0021900902,2020-03-02,CLE,UTA,30.93,3,5,4,UTA,CLE,foul,2,False,False,Porter Jr. S.FOUL (P3.T3) (E.Lewis),,68-76,68,76
+0021900902,2020-03-02,CLE,UTA,30.93,3,5,4,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (17 PTS),68-77,68,77
+0021900902,2020-03-02,CLE,UTA,30.93,3,5,4,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (18 PTS),68-78,68,78
+0021900902,2020-03-02,CLE,UTA,31.13,3,4,52,CLE,UTA,foul,2,False,False,,Gobert S.FOUL (P2.PN) (E.Lewis),68-78,68,78
+0021900902,2020-03-02,CLE,UTA,31.13,3,4,52,CLE,CLE,ft_make,11,False,False,Porter Jr. Free Throw 1 of 2 (11 PTS),,69-78,69,78
+0021900902,2020-03-02,CLE,UTA,31.13,3,4,52,CLE,CLE,ft_make,12,False,False,Porter Jr. Free Throw 2 of 2 (12 PTS),,70-78,70,78
+0021900902,2020-03-02,CLE,UTA,31.42,3,4,35,UTA,UTA,fg3_make,1,False,False,,Mitchell 24' 3PT Jump Shot (12 PTS) (Ingles 3 AST),70-81,70,81
+0021900902,2020-03-02,CLE,UTA,31.75,3,4,15,CLE,CLE,fg_make,1,False,False,Zizic 11' Jump Shot (4 PTS) (Dellavedova 6 AST),,72-81,72,81
+0021900902,2020-03-02,CLE,UTA,31.92,3,4,5,UTA,UTA,fg3_make,79,False,False,,Mitchell 26' 3PT Pullup Jump Shot (15 PTS),72-84,72,84
+0021900902,2020-03-02,CLE,UTA,32.13,3,3,52,CLE,CLE,fg_miss,79,False,False,MISS Sexton 13' Pullup Jump Shot,,72-84,72,84
+0021900902,2020-03-02,CLE,UTA,32.2,3,3,48,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:2),72-84,72,84
+0021900902,2020-03-02,CLE,UTA,32.43,3,3,34,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 3PT Jump Shot,72-84,72,84
+0021900902,2020-03-02,CLE,UTA,32.45,3,3,33,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:8),,72-84,72,84
+0021900902,2020-03-02,CLE,UTA,32.62,3,3,23,CLE,CLE,fg_make,78,False,False,Sexton 10' Floating Jump Shot (19 PTS),,74-84,74,84
+0021900902,2020-03-02,CLE,UTA,32.88,3,3,7,UTA,UTA,fg_make,9,False,False,,Mitchell Driving Dunk (17 PTS) (O'Neale 1 AST),74-86,74,86
+0021900902,2020-03-02,CLE,UTA,33.2,3,2,48,CLE,UTA,foul,1,False,False,,Clarkson P.FOUL (P1.PN) (D.Richardson),74-86,74,86
+0021900902,2020-03-02,CLE,UTA,33.2,3,2,48,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.3 Short 0),74-86,74,86
+0021900902,2020-03-02,CLE,UTA,33.2,3,2,48,CLE,CLE,ft_miss,11,False,False,MISS Zizic Free Throw 1 of 2,,74-86,74,86
+0021900902,2020-03-02,CLE,UTA,33.2,3,2,48,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,74-86,74,86
+0021900902,2020-03-02,CLE,UTA,33.2,3,2,48,CLE,CLE,ft_miss,12,False,False,MISS Zizic Free Throw 2 of 2,,74-86,74,86
+0021900902,2020-03-02,CLE,UTA,33.25,3,2,45,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:7),74-86,74,86
+0021900902,2020-03-02,CLE,UTA,33.48,3,2,31,UTA,UTA,fg_make,101,False,False,,Conley 7' Driving Floating Jump Shot (10 PTS) (Ingles 4 AST),74-88,74,88
+0021900902,2020-03-02,CLE,UTA,33.78,3,2,13,CLE,CLE,fg_make,6,False,False,Osman 1' Driving Layup (7 PTS) (Dellavedova 7 AST),,76-88,76,88
+0021900902,2020-03-02,CLE,UTA,34.03,3,1,58,UTA,UTA,fg3_make,1,False,False,,Clarkson 24' 3PT Jump Shot (10 PTS) (O'Neale 2 AST),76-91,76,91
+0021900902,2020-03-02,CLE,UTA,34.27,3,1,44,CLE,CLE,fg3_miss,1,False,False,MISS Osman 29' 3PT Jump Shot,,76-91,76,91
+0021900902,2020-03-02,CLE,UTA,34.32,3,1,41,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:0 Def:2),76-91,76,91
+0021900902,2020-03-02,CLE,UTA,34.43,3,1,34,UTA,CLE,foul,1,False,False,Osman P.FOUL (P4.T4) (D.Richardson),,76-91,76,91
+0021900902,2020-03-02,CLE,UTA,34.52,3,1,29,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 25' 3PT Jump Shot,76-91,76,91
+0021900902,2020-03-02,CLE,UTA,34.57,3,1,26,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:1 Def:5),,76-91,76,91
+0021900902,2020-03-02,CLE,UTA,34.85,3,1,9,CLE,CLE,fg_miss,58,False,False,MISS Zizic 4' Turnaround Hook Shot,,76-91,76,91
+0021900902,2020-03-02,CLE,UTA,34.88,3,1,7,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:0 Def:3),76-91,76,91
+0021900902,2020-03-02,CLE,UTA,35.08,3,0,55,UTA,UTA,fg3_miss,1,False,False,,MISS Niang 3PT Jump Shot,76-91,76,91
+0021900902,2020-03-02,CLE,UTA,35.13,3,0,52,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:1 Def:3),76-91,76,91
+0021900902,2020-03-02,CLE,UTA,35.32,3,0,41,UTA,UTA,tov,1,False,True,,Ingles Bad Pass Turnover (P2.T10),76-91,76,91
+0021900902,2020-03-02,CLE,UTA,35.32,3,0,41,UTA,CLE,steal,1,False,True,steal,steal,76-91,76,91
+0021900902,2020-03-02,CLE,UTA,35.42,3,0,35,CLE,CLE,fg3_make,79,False,False,Sexton 28' 3PT Pullup Jump Shot (22 PTS) (Nance Jr. 5 AST),,79-91,79,91
+0021900902,2020-03-02,CLE,UTA,35.53,3,0,28,UTA,UTA,fg_miss,6,False,False,,MISS Conley 1' Driving Layup,79-91,79,91
+0021900902,2020-03-02,CLE,UTA,35.53,3,0,28,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,79-91,79,91
+0021900902,2020-03-02,CLE,UTA,35.87,3,0,8,CLE,CLE,fg3_make,1,False,False,Nance Jr. 24' 3PT Jump Shot (12 PTS) (Dellavedova 8 AST),,82-91,82,91
+0021900902,2020-03-02,CLE,UTA,35.98,3,0,1,UTA,UTA,fg3_make,80,False,False,,Conley 27' 3PT Step Back Jump Shot (13 PTS),82-94,82,94
+0021900902,2020-03-02,CLE,UTA,36.0,3,0,0,UTA,,period_end,0,False,False,,,82-94,82,94
+0021900902,2020-03-02,CLE,UTA,36.0,4,12,0,UTA,,period_start,0,False,False,,,82-94,82,94
+0021900902,2020-03-02,CLE,UTA,36.2,4,11,48,UTA,UTA,fg_miss,78,False,False,,MISS Clarkson 6' Floating Jump Shot,82-94,82,94
+0021900902,2020-03-02,CLE,UTA,36.22,4,11,47,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:2 Def:3),82-94,82,94
+0021900902,2020-03-02,CLE,UTA,36.22,4,11,47,UTA,UTA,fg_make,97,False,False,,Bradley 1' Tip Layup Shot (4 PTS),82-96,82,96
+0021900902,2020-03-02,CLE,UTA,36.72,4,11,17,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#6),,82-96,82,96
+0021900902,2020-03-02,CLE,UTA,37.03,4,10,58,UTA,UTA,fg3_make,80,False,False,,Clarkson 25' 3PT Step Back Jump Shot (13 PTS),82-99,82,99
+0021900902,2020-03-02,CLE,UTA,37.45,4,10,33,CLE,CLE,fg3_miss,1,False,False,MISS Nance Jr. 27' 3PT Jump Shot,,82-99,82,99
+0021900902,2020-03-02,CLE,UTA,37.5,4,10,30,CLE,CLE,reb,0,False,False,Zizic REBOUND (Off:1 Def:1),,82-99,82,99
+0021900902,2020-03-02,CLE,UTA,37.52,4,10,29,CLE,CLE,fg_make,72,False,False,Zizic 1' Putback Layup (6 PTS),,84-99,84,99
+0021900902,2020-03-02,CLE,UTA,37.88,4,10,7,UTA,UTA,fg3_make,1,False,False,,Niang 3PT Jump Shot (3 PTS) (Ingles 5 AST),84-102,84,102
+0021900902,2020-03-02,CLE,UTA,38.18,4,9,49,CLE,CLE,fg_miss,3,False,False,MISS Zizic 6' Hook Shot,,84-102,84,102
+0021900902,2020-03-02,CLE,UTA,38.22,4,9,47,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:2 Def:0),,84-102,84,102
+0021900902,2020-03-02,CLE,UTA,38.22,4,9,47,CLE,CLE,fg_make,72,False,False,Osman 1' Putback Layup (9 PTS),,86-102,86,102
+0021900902,2020-03-02,CLE,UTA,38.5,4,9,30,UTA,CLE,foul,1,False,False,Dellavedova P.FOUL (P1.T1) (E.Lewis),,86-102,86,102
+0021900902,2020-03-02,CLE,UTA,38.7,4,9,18,UTA,UTA,fg_make,6,False,False,,Conley 2' Driving Layup (15 PTS) (Ingles 6 AST),86-104,86,104
+0021900902,2020-03-02,CLE,UTA,39.03,4,8,58,CLE,CLE,fg3_make,1,False,False,Osman 3PT Jump Shot (12 PTS) (Nance Jr. 6 AST),,89-104,89,104
+0021900902,2020-03-02,CLE,UTA,39.32,4,8,41,UTA,UTA,fg_make,75,False,False,,Niang 1' Driving Finger Roll Layup (5 PTS) (Bradley 2 AST),89-106,89,106
+0021900902,2020-03-02,CLE,UTA,39.55,4,8,27,CLE,CLE,fg_make,52,False,False,Nance Jr. 1' Alley Oop Dunk (14 PTS) (Dellavedova 9 AST),,91-106,91,106
+0021900902,2020-03-02,CLE,UTA,39.83,4,8,10,UTA,UTA,fg_make,52,False,False,,Bradley 2' Alley Oop Dunk (6 PTS) (Conley 5 AST),91-108,91,108
+0021900902,2020-03-02,CLE,UTA,40.08,4,7,55,CLE,UTA,foul,2,False,False,,Bradley S.FOUL (P2.T1) (E.Lewis),91-108,91,108
+0021900902,2020-03-02,CLE,UTA,40.08,4,7,55,CLE,CLE,ft_make,11,False,False,Porter Jr. Free Throw 1 of 2 (13 PTS),,92-108,92,108
+0021900902,2020-03-02,CLE,UTA,40.08,4,7,55,CLE,CLE,ft_miss,12,False,False,MISS Porter Jr. Free Throw 2 of 2,,92-108,92,108
+0021900902,2020-03-02,CLE,UTA,40.12,4,7,53,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:6),92-108,92,108
+0021900902,2020-03-02,CLE,UTA,40.27,4,7,44,UTA,CLE,foul,1,False,False,Sexton P.FOUL (P2.T2) (D.Richardson),,92-108,92,108
+0021900902,2020-03-02,CLE,UTA,40.47,4,7,32,UTA,UTA,tov,2,False,True,,Clarkson Lost Ball Turnover (P2.T11),92-108,92,108
+0021900902,2020-03-02,CLE,UTA,40.47,4,7,32,UTA,CLE,steal,2,False,True,steal,steal,92-108,92,108
+0021900902,2020-03-02,CLE,UTA,40.55,4,7,27,CLE,CLE,fg3_make,1,False,False,Sexton 27' 3PT Jump Shot (25 PTS) (Nance Jr. 7 AST),,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,40.9,4,7,6,UTA,UTA,tov,45,False,False,,Bogdanovic Out of Bounds - Bad Pass Turnover Turnover (P2.T12),95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.13,4,6,52,CLE,CLE,fg3_miss,1,False,False,MISS Love 26' 3PT Jump Shot,,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.18,4,6,49,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:8),95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.3,4,6,42,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 26' 3PT Pullup Jump Shot,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.37,4,6,38,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:4),,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.47,4,6,32,CLE,CLE,fg3_miss,1,False,False,MISS Sexton 25' 3PT Jump Shot,,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.52,4,6,29,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:2 Def:5),,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.57,4,6,26,CLE,CLE,fg3_miss,1,False,False,MISS Porter Jr. 24' 3PT Jump Shot,,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.62,4,6,23,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:3 Def:0),,95-108,95,108
+0021900902,2020-03-02,CLE,UTA,41.63,4,6,22,CLE,CLE,fg_make,72,False,False,Osman 1' Putback Layup (14 PTS),,97-108,97,108
+0021900902,2020-03-02,CLE,UTA,41.63,4,6,22,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),97-108,97,108
+0021900902,2020-03-02,CLE,UTA,41.88,4,6,7,UTA,UTA,fg_make,108,False,False,,Gobert 1' Cutting Dunk Shot (20 PTS) (O'Neale 3 AST),97-110,97,110
+0021900902,2020-03-02,CLE,UTA,42.17,4,5,50,CLE,CLE,fg3_miss,1,False,False,MISS Love 25' 3PT Jump Shot,,97-110,97,110
+0021900902,2020-03-02,CLE,UTA,42.18,4,5,49,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:1 Def:4),,97-110,97,110
+0021900902,2020-03-02,CLE,UTA,42.18,4,5,49,CLE,UTA,foul,1,False,False,,Clarkson P.FOUL (P2.T2) (E.Lewis),97-110,97,110
+0021900902,2020-03-02,CLE,UTA,42.4,4,5,36,CLE,CLE,fg_make,63,False,False,Love 12' Fadeaway Jumper (22 PTS),,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,42.72,4,5,17,UTA,UTA,fg_miss,47,True,False,,MISS Mitchell 7' Turnaround Jump Shot,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,42.72,4,5,17,UTA,CLE,block,47,True,False,block,block,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,42.72,4,5,17,UTA,UTA,reb,0,False,False,,Jazz Rebound,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,42.88,4,5,7,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 16' Pullup Jump Shot,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,42.93,4,5,4,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:3 Def:1),,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,42.98,4,5,1,CLE,CLE,fg_miss,6,True,False,MISS Osman 1' Driving Layup,,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,42.98,4,5,1,CLE,UTA,block,6,True,False,block,block,99-110,99,110
+0021900902,2020-03-02,CLE,UTA,43.02,4,4,59,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:3 Def:4),99-110,99,110
+0021900902,2020-03-02,CLE,UTA,43.13,4,4,52,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 26' 3PT Jump Shot (25 PTS) (Ingles 7 AST),99-113,99,113
+0021900902,2020-03-02,CLE,UTA,43.57,4,4,26,CLE,CLE,fg_miss,47,True,False,MISS Love 1' Turnaround Jump Shot,,99-113,99,113
+0021900902,2020-03-02,CLE,UTA,43.57,4,4,26,CLE,UTA,block,47,True,False,block,block,99-113,99,113
+0021900902,2020-03-02,CLE,UTA,43.6,4,4,24,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:9),99-113,99,113
+0021900902,2020-03-02,CLE,UTA,43.83,4,4,10,UTA,CLE,foul,1,False,False,Love P.FOUL (P2.T3) (D.Richardson),,99-113,99,113
+0021900902,2020-03-02,CLE,UTA,44.02,4,3,59,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P4.T13),99-113,99,113
+0021900902,2020-03-02,CLE,UTA,44.02,4,3,59,UTA,CLE,steal,2,False,True,steal,steal,99-113,99,113
+0021900902,2020-03-02,CLE,UTA,44.08,4,3,55,CLE,CLE,fg_make,108,False,False,Sexton 1' Cutting Dunk Shot (27 PTS) (Nance Jr. 8 AST),,101-113,101,113
+0021900902,2020-03-02,CLE,UTA,44.33,4,3,40,UTA,CLE,foul,1,False,False,Nance Jr. P.FOUL (P2.T4) (E.Lewis),,101-113,101,113
+0021900902,2020-03-02,CLE,UTA,44.45,4,3,33,UTA,UTA,fg3_make,80,False,False,,Bogdanovic 3PT Step Back Jump Shot (28 PTS),101-116,101,116
+0021900902,2020-03-02,CLE,UTA,44.78,4,3,13,CLE,CLE,fg_miss,3,False,False,MISS Nance Jr. 6' Hook Shot,,101-116,101,116
+0021900902,2020-03-02,CLE,UTA,44.82,4,3,11,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:3 Def:5),,101-116,101,116
+0021900902,2020-03-02,CLE,UTA,45.0,4,3,0,CLE,CLE,fg3_miss,1,False,False,MISS Porter Jr. 25' 3PT Jump Shot,,101-116,101,116
+0021900902,2020-03-02,CLE,UTA,45.05,4,2,57,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:7),101-116,101,116
+0021900902,2020-03-02,CLE,UTA,45.1,4,2,54,UTA,CLE,foul,1,False,False,Nance Jr. P.FOUL (P3.PN) (D.Richardson),,101-116,101,116
+0021900902,2020-03-02,CLE,UTA,45.1,4,2,54,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 4 Short 0),,101-116,101,116
+0021900902,2020-03-02,CLE,UTA,45.1,4,2,54,CLE,UTA,ft_make,11,False,False,,Ingles Free Throw 1 of 2 (1 PTS),101-117,101,117
+0021900902,2020-03-02,CLE,UTA,45.1,4,2,54,CLE,UTA,ft_make,12,False,False,,Ingles Free Throw 2 of 2 (2 PTS),101-118,101,118
+0021900902,2020-03-02,CLE,UTA,45.4,4,2,36,CLE,CLE,tov,2,False,True,Sexton Lost Ball Turnover (P1.T7),,101-118,101,118
+0021900902,2020-03-02,CLE,UTA,45.4,4,2,36,CLE,UTA,steal,2,False,True,steal,steal,101-118,101,118
+0021900902,2020-03-02,CLE,UTA,45.48,4,2,31,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 3PT Jump Shot,101-118,101,118
+0021900902,2020-03-02,CLE,UTA,45.55,4,2,27,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:9),,101-118,101,118
+0021900902,2020-03-02,CLE,UTA,45.58,4,2,25,CLE,CLE,fg_make,9,False,False,Sexton Driving Dunk (29 PTS) (Love 2 AST),,103-118,103,118
+0021900902,2020-03-02,CLE,UTA,45.92,4,2,5,UTA,UTA,tov,1,False,True,,Bogdanovic Bad Pass Turnover (P3.T14),103-118,103,118
+0021900902,2020-03-02,CLE,UTA,45.92,4,2,5,UTA,CLE,steal,1,False,True,steal,steal,103-118,103,118
+0021900902,2020-03-02,CLE,UTA,46.0,4,2,0,CLE,CLE,fg_make,99,False,False,Nance Jr. 1' Cutting Finger Roll Layup Shot (16 PTS) (Sexton 3 AST),,105-118,105,118
+0021900902,2020-03-02,CLE,UTA,46.23,4,1,46,UTA,UTA,fg3_make,1,False,False,,Ingles 3PT Jump Shot (5 PTS) (Conley 6 AST),105-121,105,121
+0021900902,2020-03-02,CLE,UTA,46.35,4,1,39,CLE,CLE,fg3_make,1,False,False,Sexton 30' 3PT Jump Shot (32 PTS),,108-121,108,121
+0021900902,2020-03-02,CLE,UTA,46.53,4,1,28,UTA,UTA,fg_miss,6,False,False,,MISS Mitchell 3' Driving Layup,108-121,108,121
+0021900902,2020-03-02,CLE,UTA,46.57,4,1,26,CLE,CLE,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:4),,108-121,108,121
+0021900902,2020-03-02,CLE,UTA,46.63,4,1,22,CLE,CLE,fg3_make,79,False,False,Porter Jr. 25' 3PT Pullup Jump Shot (16 PTS),,111-121,111,121
+0021900902,2020-03-02,CLE,UTA,46.77,4,1,14,UTA,CLE,foul,1,False,False,Nance Jr. P.FOUL (P4.PN) (D.Richardson),,111-121,111,121
+0021900902,2020-03-02,CLE,UTA,46.77,4,1,14,UTA,UTA,ft_make,11,False,False,,Mitchell Free Throw 1 of 2 (18 PTS),111-122,111,122
+0021900902,2020-03-02,CLE,UTA,46.77,4,1,14,UTA,UTA,ft_make,12,False,False,,Mitchell Free Throw 2 of 2 (19 PTS),111-123,111,123
+0021900902,2020-03-02,CLE,UTA,46.9,4,1,6,CLE,CLE,fg3_miss,80,False,False,MISS Porter Jr. 3PT Step Back Jump Shot,,111-123,111,123
+0021900902,2020-03-02,CLE,UTA,46.93,4,1,4,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:4 Def:1),,111-123,111,123
+0021900902,2020-03-02,CLE,UTA,46.97,4,1,2,CLE,CLE,fg_miss,6,False,False,MISS Osman Driving Layup,,111-123,111,123
+0021900902,2020-03-02,CLE,UTA,47.0,4,1,0,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:0),,111-123,111,123
+0021900902,2020-03-02,CLE,UTA,47.0,4,1,0,CLE,CLE,fg_make,97,False,False,Wade 1' Tip Layup Shot (2 PTS),,113-123,113,123
+0021900902,2020-03-02,CLE,UTA,47.3,4,0,42,UTA,UTA,fg3_make,1,False,False,,Niang 3PT Jump Shot (8 PTS) (Ingles 8 AST),113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.32,4,0,41,CLE,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P2.T3) (M.Ervin),113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.45,4,0,33,CLE,CLE,fg3_miss,1,False,False,MISS Wade 25' 3PT Jump Shot,,113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.52,4,0,29,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:2 Def:4),113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.82,4,0,11,UTA,UTA,tov,2,False,True,,Brantley Lost Ball Turnover (P1.T15),113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.82,4,0,11,UTA,CLE,steal,2,False,True,steal,steal,113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.92,4,0,5,CLE,CLE,fg_miss,5,True,False,MISS Osman 1' Layup,,113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.92,4,0,5,CLE,UTA,block,5,True,False,block,block,113-126,113,126
+0021900902,2020-03-02,CLE,UTA,47.92,4,0,5,UTA,UTA,reb,0,False,False,,Oni REBOUND (Off:0 Def:1),113-126,113,126
+0021900902,2020-03-02,CLE,UTA,48.0,4,0,0,UTA,,period_end,0,False,False,,,113-126,113,126

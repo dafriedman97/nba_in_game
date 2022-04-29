@@ -1,0 +1,465 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100736,2022-01-28,ORL,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100736,2022-01-28,ORL,DET,0.0,1,12,0,,ORL,jump_ball,0,False,False,Jump Ball Bamba vs. Stewart: Tip to Anthony,,0-0,0,0
+0022100736,2022-01-28,ORL,DET,0.47,1,11,32,ORL,ORL,fg3_miss,1,False,False,MISS F. Wagner 28' 3PT Jump Shot,,0-0,0,0
+0022100736,2022-01-28,ORL,DET,0.47,1,11,32,ORL,ORL,reb,0,False,False,MAGIC Rebound,,0-0,0,0
+0022100736,2022-01-28,ORL,DET,0.47,1,11,32,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#1),,0-0,0,0
+0022100736,2022-01-28,ORL,DET,0.6,1,11,24,DET,ORL,steal,1,False,True,steal,steal,0-0,0,0
+0022100736,2022-01-28,ORL,DET,0.6,1,11,24,DET,DET,tov,1,False,True,,Bey Bad Pass Turnover (P1.T1),0-0,0,0
+0022100736,2022-01-28,ORL,DET,0.73,1,11,16,ORL,ORL,fg_make,41,False,False,F. Wagner 2' Running Layup (2 PTS) (Suggs 1 AST),,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.13,1,10,52,DET,DET,fg_miss,63,False,False,,MISS Bey 19' Fadeaway Jumper,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.17,1,10,50,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:1),,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.45,1,10,33,ORL,ORL,fg_miss,6,False,False,MISS F. Wagner 3' Driving Layup,,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.48,1,10,31,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:0 Def:1),2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.6,1,10,24,DET,DET,fg_miss,86,False,False,,MISS Cunningham 13' Turnaround Fadeaway Shot,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.7,1,10,18,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:1 Def:1),2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.7,1,10,18,DET,DET,fg_miss,97,False,False,,MISS Stewart Tip Layup Shot,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.73,1,10,16,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:1),,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.78,1,10,13,ORL,ORL,tov,45,False,False,F. Wagner Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,2-0,2,0
+0022100736,2022-01-28,ORL,DET,1.98,1,10,1,DET,DET,fg3_make,1,False,False,,Diallo 24' 3PT Jump Shot (3 PTS) (Cunningham 1 AST),2-3,2,3
+0022100736,2022-01-28,ORL,DET,2.33,1,9,40,ORL,DET,foul,1,False,False,,Diallo P.FOUL (P1.T1) (J.Sterling),2-3,2,3
+0022100736,2022-01-28,ORL,DET,2.55,1,9,27,ORL,ORL,ft_make,12,False,False,F. Wagner Free Throw 2 of 2 (4 PTS),,4-3,4,3
+0022100736,2022-01-28,ORL,DET,2.55,1,9,27,ORL,DET,foul,2,False,False,,Cunningham S.FOUL (P1.T2) (J.Sterling),2-3,2,3
+0022100736,2022-01-28,ORL,DET,2.55,1,9,27,ORL,ORL,ft_make,11,False,False,F. Wagner Free Throw 1 of 2 (3 PTS),,3-3,3,3
+0022100736,2022-01-28,ORL,DET,2.8,1,9,12,DET,DET,fg_miss,79,False,False,,MISS Cunningham 22' Pullup Jump Shot,4-3,4,3
+0022100736,2022-01-28,ORL,DET,2.85,1,9,9,DET,DET,reb,0,False,False,,Joseph REBOUND (Off:1 Def:0),4-3,4,3
+0022100736,2022-01-28,ORL,DET,3.03,1,8,58,DET,DET,fg3_make,1,False,False,,Bey 26' 3PT Jump Shot (3 PTS) (Cunningham 2 AST),4-6,4,6
+0022100736,2022-01-28,ORL,DET,3.25,1,8,45,ORL,ORL,tov,45,False,False,Anthony Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,4-6,4,6
+0022100736,2022-01-28,ORL,DET,3.52,1,8,29,DET,DET,fg3_miss,1,False,False,,MISS Cunningham 24' 3PT Jump Shot,4-6,4,6
+0022100736,2022-01-28,ORL,DET,3.57,1,8,26,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:1 Def:0),4-6,4,6
+0022100736,2022-01-28,ORL,DET,3.6,1,8,24,DET,DET,fg_miss,44,False,False,,MISS Cunningham 1' Reverse Layup,4-6,4,6
+0022100736,2022-01-28,ORL,DET,3.6,1,8,24,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:2),,4-6,4,6
+0022100736,2022-01-28,ORL,DET,3.78,1,8,13,ORL,ORL,fg_make,101,False,False,Anthony 9' Driving Floating Jump Shot (2 PTS),,6-6,6,6
+0022100736,2022-01-28,ORL,DET,4.03,1,7,58,DET,DET,fg_miss,75,False,False,,MISS Bey 4' Driving Finger Roll Layup,6-6,6,6
+0022100736,2022-01-28,ORL,DET,4.08,1,7,55,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:2),,6-6,6,6
+0022100736,2022-01-28,ORL,DET,4.17,1,7,50,ORL,ORL,fg_make,41,False,False,Suggs 4' Running Layup (2 PTS) (Anthony 1 AST),,8-6,8,6
+0022100736,2022-01-28,ORL,DET,4.48,1,7,31,DET,DET,fg3_miss,1,False,False,,MISS Bey 27' 3PT Jump Shot,8-6,8,6
+0022100736,2022-01-28,ORL,DET,4.53,1,7,28,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:1),,8-6,8,6
+0022100736,2022-01-28,ORL,DET,4.6,1,7,24,ORL,ORL,fg_make,2,False,False,Suggs 3' Running Jump Shot (4 PTS) (Carter Jr. 1 AST),,10-6,10,6
+0022100736,2022-01-28,ORL,DET,4.85,1,7,9,DET,ORL,block,6,True,False,block,block,10-6,10,6
+0022100736,2022-01-28,ORL,DET,4.85,1,7,9,DET,DET,reb,0,False,False,,Joseph REBOUND (Off:2 Def:0),10-6,10,6
+0022100736,2022-01-28,ORL,DET,4.85,1,7,9,DET,DET,fg_miss,6,True,False,,MISS Cunningham 2' Driving Layup,10-6,10,6
+0022100736,2022-01-28,ORL,DET,4.95,1,7,3,DET,DET,fg_make,6,False,False,,Joseph 2' Driving Layup (2 PTS),10-8,10,8
+0022100736,2022-01-28,ORL,DET,5.05,1,6,57,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),12-8,12,8
+0022100736,2022-01-28,ORL,DET,5.05,1,6,57,ORL,ORL,fg_make,108,False,False,F. Wagner 1' Cutting Dunk Shot (6 PTS) (Suggs 2 AST),,12-8,12,8
+0022100736,2022-01-28,ORL,DET,5.4,1,6,36,DET,DET,tov,4,False,False,,Diallo Traveling Turnover (P1.T2),12-8,12,8
+0022100736,2022-01-28,ORL,DET,5.72,1,6,17,ORL,ORL,fg_miss,80,False,False,MISS Harris 17' Step Back Jump Shot,,12-8,12,8
+0022100736,2022-01-28,ORL,DET,5.77,1,6,14,DET,DET,reb,0,False,False,,Joseph REBOUND (Off:2 Def:1),12-8,12,8
+0022100736,2022-01-28,ORL,DET,5.9,1,6,6,DET,DET,fg3_miss,1,False,False,,MISS Cunningham 27' 3PT Jump Shot,12-8,12,8
+0022100736,2022-01-28,ORL,DET,5.92,1,6,5,ORL,ORL,reb,0,False,False,MAGIC Rebound,,12-8,12,8
+0022100736,2022-01-28,ORL,DET,5.92,1,6,5,ORL,DET,foul,3,False,False,,Stewart L.B.FOUL (P1.T3) (J.Sterling),12-8,12,8
+0022100736,2022-01-28,ORL,DET,6.13,1,5,52,ORL,ORL,fg3_make,1,False,False,F. Wagner 25' 3PT Jump Shot (9 PTS) (Carter Jr. 2 AST),,15-8,15,8
+0022100736,2022-01-28,ORL,DET,6.18,1,5,49,DET,DET,tov,45,False,False,,Diallo Out of Bounds - Bad Pass Turnover Turnover (P2.T3),15-8,15,8
+0022100736,2022-01-28,ORL,DET,6.23,1,5,46,ORL,ORL,fg_make,99,False,False,F. Wagner 3' Cutting Finger Roll Layup Shot (11 PTS) (Anthony 2 AST),,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.47,1,5,32,DET,DET,fg_miss,1,False,False,,MISS Diallo 15' Jump Shot,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.55,1,5,27,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:3),,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.67,1,5,20,ORL,ORL,fg_miss,5,False,False,MISS Carter Jr. 2' Layup,,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.7,1,5,18,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:2),,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.72,1,5,17,ORL,DET,block,72,True,False,block,block,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.72,1,5,17,ORL,ORL,fg_miss,72,True,False,MISS Carter Jr. 2' Putback Layup,,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.72,1,5,17,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:1 Def:1),17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.9,1,5,6,DET,DET,fg_miss,101,False,False,,MISS Bey 8' Driving Floating Jump Shot,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.95,1,5,3,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:4),,17-8,17,8
+0022100736,2022-01-28,ORL,DET,6.98,1,5,1,ORL,ORL,fg3_miss,103,False,False,MISS Anthony 26' 3PT Running Pull-Up Jump Shot,,17-8,17,8
+0022100736,2022-01-28,ORL,DET,7.02,1,4,59,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:4),,17-8,17,8
+0022100736,2022-01-28,ORL,DET,7.02,1,4,59,ORL,ORL,fg_make,107,False,False,Bamba Tip Dunk Shot (2 PTS),,19-8,19,8
+0022100736,2022-01-28,ORL,DET,7.4,1,4,36,DET,DET,fg_miss,79,False,False,,MISS Joseph 23' Pullup Jump Shot,19-8,19,8
+0022100736,2022-01-28,ORL,DET,7.4,1,4,36,DET,DET,reb,0,False,False,,Bey REBOUND (Off:1 Def:0),19-8,19,8
+0022100736,2022-01-28,ORL,DET,7.57,1,4,26,DET,DET,fg3_make,1,False,False,,Diallo 26' 3PT Jump Shot (6 PTS) (Bey 1 AST),19-11,19,11
+0022100736,2022-01-28,ORL,DET,8.05,1,3,57,ORL,ORL,fg_make,57,False,False,F. Wagner 6' Driving Hook Shot (13 PTS),,21-11,21,11
+0022100736,2022-01-28,ORL,DET,8.07,1,3,56,DET,ORL,violation,1,False,False,MAGIC Violation: Delay of game Violation,,21-11,21,11
+0022100736,2022-01-28,ORL,DET,8.22,1,3,47,DET,DET,tov,2,False,True,,Joseph Lost Ball Turnover (P1.T4),21-11,21,11
+0022100736,2022-01-28,ORL,DET,8.22,1,3,47,DET,ORL,steal,2,False,True,steal,steal,21-11,21,11
+0022100736,2022-01-28,ORL,DET,8.23,1,3,46,DET,DET,reb,0,False,False,,Pistons Rebound,21-11,21,11
+0022100736,2022-01-28,ORL,DET,8.23,1,3,46,ORL,DET,block,41,True,False,block,block,21-11,21,11
+0022100736,2022-01-28,ORL,DET,8.23,1,3,46,ORL,ORL,fg_miss,41,True,False,MISS Anthony 10' Running Layup,,21-11,21,11
+0022100736,2022-01-28,ORL,DET,8.5,1,3,30,DET,DET,fg3_make,1,False,False,,Lyles 29' 3PT Jump Shot (3 PTS) (Bey 2 AST),21-14,21,14
+0022100736,2022-01-28,ORL,DET,8.75,1,3,15,ORL,DET,foul,1,False,False,,Bey P.FOUL (P1.T4) (K.Scott),21-14,21,14
+0022100736,2022-01-28,ORL,DET,9.0,1,3,0,ORL,ORL,fg3_make,79,False,False,Ross 25' 3PT Pullup Jump Shot (3 PTS) (Carter Jr. 3 AST),,24-14,24,14
+0022100736,2022-01-28,ORL,DET,9.27,1,2,44,DET,DET,fg3_miss,79,False,False,,MISS Cunningham 26' 3PT Pullup Jump Shot,24-14,24,14
+0022100736,2022-01-28,ORL,DET,9.3,1,2,42,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:2),,24-14,24,14
+0022100736,2022-01-28,ORL,DET,9.38,1,2,37,ORL,DET,foul,2,False,False,,Hayes S.FOUL (P1.PN) (J.Butler),26-14,26,14
+0022100736,2022-01-28,ORL,DET,9.38,1,2,37,ORL,ORL,fg_make,6,False,False,Anthony 1' Driving Layup (4 PTS),,26-14,26,14
+0022100736,2022-01-28,ORL,DET,9.38,1,2,37,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,26-14,26,14
+0022100736,2022-01-28,ORL,DET,9.38,1,2,37,ORL,ORL,ft_make,10,False,False,Anthony Free Throw 1 of 1 (5 PTS),,27-14,27,14
+0022100736,2022-01-28,ORL,DET,9.7,1,2,18,DET,DET,fg_make,6,False,False,,Bey 2' Driving Layup (5 PTS),27-16,27,16
+0022100736,2022-01-28,ORL,DET,9.95,1,2,3,ORL,ORL,fg3_make,1,False,False,Harris 3PT Jump Shot (3 PTS) (Ross 1 AST),,30-16,30,16
+0022100736,2022-01-28,ORL,DET,10.15,1,1,51,DET,DET,fg3_miss,1,False,False,,MISS Lyles 27' 3PT Jump Shot,30-16,30,16
+0022100736,2022-01-28,ORL,DET,10.2,1,1,48,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,30-16,30,16
+0022100736,2022-01-28,ORL,DET,10.3,1,1,42,ORL,ORL,fg_make,74,False,False,Harris 2' Running Reverse Layup (5 PTS) (Okeke 1 AST),,32-16,32,16
+0022100736,2022-01-28,ORL,DET,10.67,1,1,20,DET,DET,fg3_miss,80,False,False,,MISS Bey 24' 3PT Step Back Jump Shot,32-16,32,16
+0022100736,2022-01-28,ORL,DET,10.73,1,1,16,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:1),,32-16,32,16
+0022100736,2022-01-28,ORL,DET,10.75,1,1,15,ORL,DET,foul,2,False,False,,F. Jackson S.FOUL (P1.PN) (J.Sterling),32-16,32,16
+0022100736,2022-01-28,ORL,DET,10.75,1,1,15,ORL,ORL,ft_make,11,False,False,Okeke Free Throw 1 of 2 (1 PTS),,33-16,33,16
+0022100736,2022-01-28,ORL,DET,10.75,1,1,15,ORL,ORL,ft_make,12,False,False,Okeke Free Throw 2 of 2 (2 PTS),,34-16,34,16
+0022100736,2022-01-28,ORL,DET,11.0,1,1,0,DET,DET,fg3_miss,80,False,False,,MISS Hayes 26' 3PT Step Back Jump Shot,34-16,34,16
+0022100736,2022-01-28,ORL,DET,11.07,1,0,56,ORL,ORL,reb,0,False,False,M. Wagner REBOUND (Off:0 Def:1),,34-16,34,16
+0022100736,2022-01-28,ORL,DET,11.32,1,0,41,ORL,ORL,fg3_make,1,False,False,Okeke 24' 3PT Jump Shot (5 PTS) (M. Wagner 1 AST),,37-16,37,16
+0022100736,2022-01-28,ORL,DET,11.62,1,0,23,DET,DET,ft_miss,11,False,False,,MISS McGruder Free Throw 1 of 2,37-16,37,16
+0022100736,2022-01-28,ORL,DET,11.62,1,0,23,DET,DET,ft_make,12,False,False,,McGruder Free Throw 2 of 2 (1 PTS),37-17,37,17
+0022100736,2022-01-28,ORL,DET,11.62,1,0,23,DET,DET,reb,1,False,False,,Pistons Rebound,37-16,37,16
+0022100736,2022-01-28,ORL,DET,11.62,1,0,23,DET,ORL,foul,2,False,False,Harris S.FOUL (P1.T1) (J.Sterling),,37-16,37,16
+0022100736,2022-01-28,ORL,DET,11.9,1,0,6,ORL,ORL,fg_make,79,False,False,Ross 17' Pullup Jump Shot (5 PTS) (M. Wagner 2 AST),,39-17,39,17
+0022100736,2022-01-28,ORL,DET,11.98,1,0,1,DET,DET,ft_make,12,False,False,,Hayes Free Throw 2 of 2 (2 PTS),39-19,39,19
+0022100736,2022-01-28,ORL,DET,11.98,1,0,1,DET,DET,ft_make,11,False,False,,Hayes Free Throw 1 of 2 (1 PTS),39-18,39,18
+0022100736,2022-01-28,ORL,DET,11.98,1,0,1,DET,ORL,foul,1,False,False,Suggs P.FOUL (P1.PN) (J.Butler),,39-17,39,17
+0022100736,2022-01-28,ORL,DET,12.0,2,12,0,ORL,,period_start,0,False,False,,,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.0,1,0,0,ORL,ORL,tov,1,False,True,Okeke Bad Pass Turnover (P1.T4),,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.0,1,0,0,ORL,DET,steal,1,False,True,steal,steal,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.0,1,0,0,ORL,,period_end,0,False,False,,,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.28,2,11,43,DET,DET,fg_miss,86,False,False,,MISS Lyles 14' Turnaround Fadeaway Shot,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.33,2,11,40,ORL,ORL,reb,0,False,False,M. Wagner REBOUND (Off:0 Def:2),,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.47,2,11,32,ORL,ORL,fg_miss,6,True,False,MISS Suggs 7' Driving Layup,,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.47,2,11,32,,ORL,jump_ball,0,False,False, ,,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.47,2,11,32,ORL,DET,block,6,True,False,block,block,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.47,2,11,32,DET,DET,reb,0,False,False,,Pistons Rebound,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.52,2,11,29,,ORL,jump_ball,0,False,False,Jump Ball M. Wagner vs. Lyles: Tip to McGruder,,39-19,39,19
+0022100736,2022-01-28,ORL,DET,12.77,2,11,14,DET,DET,fg_make,101,False,False,,Hayes 6' Driving Floating Jump Shot (4 PTS) (McGruder 1 AST),39-21,39,21
+0022100736,2022-01-28,ORL,DET,13.07,2,10,56,ORL,DET,steal,2,False,True,steal,steal,39-21,39,21
+0022100736,2022-01-28,ORL,DET,13.07,2,10,56,ORL,ORL,tov,2,False,True,Suggs Lost Ball Turnover (P1.T5),,39-21,39,21
+0022100736,2022-01-28,ORL,DET,13.13,2,10,52,DET,DET,fg_make,41,False,False,,McGruder 3' Running Layup (3 PTS) (Hayes 1 AST),39-23,39,23
+0022100736,2022-01-28,ORL,DET,13.47,2,10,32,ORL,ORL,ft_make,12,False,False,M. Wagner Free Throw 2 of 2 (2 PTS),,41-23,41,23
+0022100736,2022-01-28,ORL,DET,13.47,2,10,32,ORL,DET,foul,2,False,False,,Lyles S.FOUL (P1.T1) (J.Sterling),39-23,39,23
+0022100736,2022-01-28,ORL,DET,13.47,2,10,32,ORL,ORL,ft_make,11,False,False,M. Wagner Free Throw 1 of 2 (1 PTS),,40-23,40,23
+0022100736,2022-01-28,ORL,DET,13.68,2,10,19,DET,DET,reb,1,False,False,,Pistons Rebound,41-23,41,23
+0022100736,2022-01-28,ORL,DET,13.68,2,10,19,DET,DET,ft_miss,11,False,False,,MISS Hayes Free Throw 1 of 2,41-23,41,23
+0022100736,2022-01-28,ORL,DET,13.68,2,10,19,DET,ORL,foul,2,False,False,Harris S.FOUL (P2.T1) (J.Sterling),,41-23,41,23
+0022100736,2022-01-28,ORL,DET,13.68,2,10,19,DET,DET,ft_make,12,False,False,,Hayes Free Throw 2 of 2 (5 PTS),41-24,41,24
+0022100736,2022-01-28,ORL,DET,13.87,2,10,8,ORL,ORL,fg3_make,1,False,False,Okeke 24' 3PT Jump Shot (8 PTS) (Harris 1 AST),,44-24,44,24
+0022100736,2022-01-28,ORL,DET,14.1,2,9,54,DET,DET,fg_miss,5,True,False,,MISS McGruder 4' Layup,44-24,44,24
+0022100736,2022-01-28,ORL,DET,14.1,2,9,54,DET,ORL,block,5,True,False,block,block,44-24,44,24
+0022100736,2022-01-28,ORL,DET,14.18,2,9,49,DET,DET,reb,0,False,False,,McGruder REBOUND (Off:1 Def:0),44-24,44,24
+0022100736,2022-01-28,ORL,DET,14.2,2,9,48,DET,DET,fg_make,98,False,False,,Lyles 3' Cutting Layup Shot (5 PTS) (McGruder 2 AST),44-26,44,26
+0022100736,2022-01-28,ORL,DET,14.3,2,9,42,ORL,DET,steal,1,False,True,steal,steal,44-26,44,26
+0022100736,2022-01-28,ORL,DET,14.3,2,9,42,ORL,ORL,tov,1,False,True,Suggs Bad Pass Turnover (P2.T6),,44-26,44,26
+0022100736,2022-01-28,ORL,DET,14.48,2,9,31,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,44-28,44,28
+0022100736,2022-01-28,ORL,DET,14.48,2,9,31,DET,DET,fg_make,98,False,False,,F. Jackson 2' Cutting Layup Shot (2 PTS) (McGruder 3 AST),44-28,44,28
+0022100736,2022-01-28,ORL,DET,14.65,2,9,21,ORL,ORL,fg_make,102,False,False,Harris 4' Driving Floating Bank Jump Shot (7 PTS),,46-28,46,28
+0022100736,2022-01-28,ORL,DET,15.02,2,8,59,DET,DET,tov,40,False,False,,Lyles Out of Bounds Lost Ball Turnover (P1.T5),46-28,46,28
+0022100736,2022-01-28,ORL,DET,15.33,2,8,40,ORL,ORL,fg_miss,80,False,False,MISS Anthony 18' Step Back Jump Shot,,46-28,46,28
+0022100736,2022-01-28,ORL,DET,15.4,2,8,36,DET,DET,reb,0,False,False,,J. Jackson REBOUND (Off:0 Def:1),46-28,46,28
+0022100736,2022-01-28,ORL,DET,15.57,2,8,26,DET,ORL,foul,2,False,False,Anthony S.FOUL (P1.T2) (K.Scott),,46-28,46,28
+0022100736,2022-01-28,ORL,DET,15.57,2,8,26,DET,DET,fg_miss,3,False,False,,MISS Lyles 2' Hook Shot,46-28,46,28
+0022100736,2022-01-28,ORL,DET,15.57,2,8,26,DET,DET,ft_make,12,False,False,,McGruder Free Throw 2 of 2 (5 PTS),46-30,46,30
+0022100736,2022-01-28,ORL,DET,15.57,2,8,26,DET,DET,ft_make,11,False,False,,McGruder Free Throw 1 of 2 (4 PTS),46-29,46,29
+0022100736,2022-01-28,ORL,DET,15.57,2,8,26,DET,DET,reb,0,False,False,,McGruder REBOUND (Off:2 Def:0),46-28,46,28
+0022100736,2022-01-28,ORL,DET,15.85,2,8,9,ORL,ORL,ft_make,12,False,False,Ross Free Throw 2 of 2 (7 PTS),,48-30,48,30
+0022100736,2022-01-28,ORL,DET,15.85,2,8,9,ORL,ORL,ft_make,11,False,False,Ross Free Throw 1 of 2 (6 PTS),,47-30,47,30
+0022100736,2022-01-28,ORL,DET,15.85,2,8,9,ORL,DET,foul,2,False,False,,McGruder S.FOUL (P1.T2) (J.Butler),46-30,46,30
+0022100736,2022-01-28,ORL,DET,16.0,2,8,0,DET,DET,ft_make,10,False,False,,Lyles Free Throw 1 of 1 (8 PTS),48-33,48,33
+0022100736,2022-01-28,ORL,DET,16.0,2,8,0,DET,ORL,foul,2,False,False,M. Wagner S.FOUL (P1.T3) (J.Butler),,48-32,48,32
+0022100736,2022-01-28,ORL,DET,16.0,2,8,0,DET,DET,fg_make,101,False,False,,Lyles 4' Driving Floating Jump Shot (7 PTS) (Hayes 2 AST),48-32,48,32
+0022100736,2022-01-28,ORL,DET,16.13,2,7,52,ORL,DET,steal,2,False,True,steal,steal,48-33,48,33
+0022100736,2022-01-28,ORL,DET,16.13,2,7,52,ORL,ORL,tov,2,False,True,M. Wagner Lost Ball Turnover (P1.T7),,48-33,48,33
+0022100736,2022-01-28,ORL,DET,16.23,2,7,46,DET,DET,fg3_make,2,False,False,,McGruder 24' 3PT Running Jump Shot (8 PTS) (J. Jackson 1 AST),48-36,48,36
+0022100736,2022-01-28,ORL,DET,16.63,2,7,22,ORL,ORL,fg3_make,80,False,False,Harris 24' 3PT Step Back Jump Shot (10 PTS),,51-36,51,36
+0022100736,2022-01-28,ORL,DET,16.78,2,7,13,DET,ORL,violation,5,False,False,Harris Violation:Kicked Ball (K.Scott),,51-36,51,36
+0022100736,2022-01-28,ORL,DET,16.9,2,7,6,DET,DET,fg3_make,1,False,False,,F. Jackson 25' 3PT Jump Shot (5 PTS) (McGruder 4 AST),51-39,51,39
+0022100736,2022-01-28,ORL,DET,17.18,2,6,49,ORL,ORL,fg_miss,101,False,False,MISS F. Wagner 3' Driving Floating Jump Shot,,51-39,51,39
+0022100736,2022-01-28,ORL,DET,17.22,2,6,47,DET,DET,reb,0,False,False,,J. Jackson REBOUND (Off:0 Def:2),51-39,51,39
+0022100736,2022-01-28,ORL,DET,17.3,2,6,42,DET,ORL,foul,2,False,False,F. Wagner S.FOUL (P1.T4) (K.Scott),,51-39,51,39
+0022100736,2022-01-28,ORL,DET,17.3,2,6,42,DET,DET,ft_make,11,False,False,,Lyles Free Throw 1 of 2 (9 PTS),51-40,51,40
+0022100736,2022-01-28,ORL,DET,17.3,2,6,42,DET,DET,ft_make,12,False,False,,Lyles Free Throw 2 of 2 (10 PTS),51-41,51,41
+0022100736,2022-01-28,ORL,DET,17.57,2,6,26,ORL,DET,foul,1,False,False,,F. Jackson P.FOUL (P2.T3) (J.Sterling),51-41,51,41
+0022100736,2022-01-28,ORL,DET,17.78,2,6,13,ORL,ORL,fg3_miss,1,False,False,MISS Ross 25' 3PT Jump Shot,,51-41,51,41
+0022100736,2022-01-28,ORL,DET,17.83,2,6,10,DET,DET,reb,0,False,False,,Hayes REBOUND (Off:0 Def:1),51-41,51,41
+0022100736,2022-01-28,ORL,DET,17.92,2,6,5,DET,ORL,foul,1,False,False,Ross P.FOUL (P1.PN) (J.Butler),,51-41,51,41
+0022100736,2022-01-28,ORL,DET,17.92,2,6,5,DET,DET,ft_make,11,False,False,,McGruder Free Throw 1 of 2 (9 PTS),51-42,51,42
+0022100736,2022-01-28,ORL,DET,17.92,2,6,5,DET,DET,ft_make,12,False,False,,McGruder Free Throw 2 of 2 (10 PTS),51-43,51,43
+0022100736,2022-01-28,ORL,DET,18.18,2,5,49,ORL,DET,foul,1,False,False,,F. Jackson P.FOUL (P3.T4) (J.Butler),51-43,51,43
+0022100736,2022-01-28,ORL,DET,18.32,2,5,41,ORL,ORL,ft_make,12,False,False,Anthony Free Throw 2 of 2 (6 PTS),,52-43,52,43
+0022100736,2022-01-28,ORL,DET,18.32,2,5,41,ORL,DET,foul,1,False,False,,J. Jackson P.FOUL (P1.PN) (K.Scott),51-43,51,43
+0022100736,2022-01-28,ORL,DET,18.32,2,5,41,ORL,ORL,ft_miss,11,False,False,MISS Anthony Free Throw 1 of 2,,51-43,51,43
+0022100736,2022-01-28,ORL,DET,18.32,2,5,41,ORL,ORL,reb,1,False,False,MAGIC Rebound,,51-43,51,43
+0022100736,2022-01-28,ORL,DET,18.65,2,5,21,DET,DET,fg_make,6,False,False,,Hayes 2' Driving Layup (7 PTS) (Diallo 1 AST),52-45,52,45
+0022100736,2022-01-28,ORL,DET,18.85,2,5,9,ORL,ORL,fg_make,79,False,False,Ross 16' Pullup Jump Shot (9 PTS) (Anthony 3 AST),,54-45,54,45
+0022100736,2022-01-28,ORL,DET,19.17,2,4,50,DET,DET,fg3_miss,80,False,False,,MISS Hayes 25' 3PT Step Back Jump Shot,54-45,54,45
+0022100736,2022-01-28,ORL,DET,19.23,2,4,46,ORL,ORL,reb,0,False,False,F. Wagner REBOUND (Off:0 Def:1),,54-45,54,45
+0022100736,2022-01-28,ORL,DET,19.25,2,4,45,ORL,ORL,ft_make,11,False,False,Carter Jr. Free Throw 1 of 2 (1 PTS),,55-45,55,45
+0022100736,2022-01-28,ORL,DET,19.25,2,4,45,ORL,DET,foul,28,False,False,,Hayes Personal Take Foul (P2.PN) (J.Butler),54-45,54,45
+0022100736,2022-01-28,ORL,DET,19.25,2,4,45,ORL,ORL,ft_make,12,False,False,Carter Jr. Free Throw 2 of 2 (2 PTS),,56-45,56,45
+0022100736,2022-01-28,ORL,DET,19.5,2,4,30,DET,DET,fg_miss,80,False,False,,MISS J. Jackson 17' Step Back Jump Shot,56-45,56,45
+0022100736,2022-01-28,ORL,DET,19.55,2,4,27,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:3),,56-45,56,45
+0022100736,2022-01-28,ORL,DET,19.63,2,4,22,ORL,ORL,fg_miss,41,False,False,MISS F. Wagner 1' Running Layup,,56-45,56,45
+0022100736,2022-01-28,ORL,DET,19.7,2,4,18,DET,DET,reb,0,False,False,,J. Jackson REBOUND (Off:0 Def:3),56-45,56,45
+0022100736,2022-01-28,ORL,DET,19.75,2,4,15,DET,DET,ft_make,12,False,False,,J. Jackson Free Throw 2 of 2 (2 PTS),56-47,56,47
+0022100736,2022-01-28,ORL,DET,19.75,2,4,15,DET,DET,ft_make,11,False,False,,J. Jackson Free Throw 1 of 2 (1 PTS),56-46,56,46
+0022100736,2022-01-28,ORL,DET,19.75,2,4,15,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),56-45,56,45
+0022100736,2022-01-28,ORL,DET,19.75,2,4,15,DET,ORL,foul,1,False,False,F. Wagner P.FOUL (P2.PN) (K.Scott),,56-45,56,45
+0022100736,2022-01-28,ORL,DET,20.02,2,3,59,ORL,ORL,fg_miss,58,False,False,MISS Carter Jr. 2' Turnaround Hook Shot,,56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.07,2,3,56,DET,DET,reb,0,False,False,,J. Jackson REBOUND (Off:0 Def:4),56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.28,2,3,43,DET,DET,fg_miss,6,False,False,,MISS J. Jackson 2' Driving Layup,56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.3,2,3,42,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:5),,56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.32,2,3,41,ORL,ORL,tov,2,False,True,Bamba Lost Ball Turnover (P1.T8),,56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.32,2,3,41,ORL,DET,steal,2,False,True,steal,steal,56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.37,2,3,38,DET,DET,tov,45,False,False,,J. Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T6),56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.82,2,3,11,ORL,ORL,fg_miss,47,False,False,MISS Anthony 18' Turnaround Jump Shot,,56-47,56,47
+0022100736,2022-01-28,ORL,DET,20.85,2,3,9,DET,DET,reb,0,False,False,,Bey REBOUND (Off:1 Def:1),56-47,56,47
+0022100736,2022-01-28,ORL,DET,21.13,2,2,52,DET,DET,fg_miss,63,False,False,,MISS Cunningham 13' Fadeaway Jumper,56-47,56,47
+0022100736,2022-01-28,ORL,DET,21.22,2,2,47,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:4),,56-47,56,47
+0022100736,2022-01-28,ORL,DET,21.5,2,2,30,ORL,ORL,fg_make,6,False,False,F. Wagner 1' Driving Layup (15 PTS),,58-47,58,47
+0022100736,2022-01-28,ORL,DET,21.82,2,2,11,DET,DET,fg_miss,79,False,False,,MISS Stewart 22' Pullup Jump Shot,58-47,58,47
+0022100736,2022-01-28,ORL,DET,21.87,2,2,8,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:3),,58-47,58,47
+0022100736,2022-01-28,ORL,DET,21.95,2,2,3,ORL,ORL,fg_make,108,False,False,Carter Jr. 1' Cutting Dunk Shot (4 PTS) (Suggs 3 AST),,60-47,60,47
+0022100736,2022-01-28,ORL,DET,21.95,2,2,3,ORL,DET,foul,2,False,False,,Stewart S.FOUL (P2.PN) (K.Scott),60-47,60,47
+0022100736,2022-01-28,ORL,DET,21.95,2,2,3,ORL,ORL,ft_make,10,False,False,Carter Jr. Free Throw 1 of 1 (5 PTS),,61-47,61,47
+0022100736,2022-01-28,ORL,DET,22.15,2,1,51,DET,ORL,foul,2,False,False,Bamba S.FOUL (P1.PN) (J.Sterling),,61-47,61,47
+0022100736,2022-01-28,ORL,DET,22.15,2,1,51,DET,DET,ft_make,11,False,False,,Cunningham Free Throw 1 of 2 (1 PTS),61-48,61,48
+0022100736,2022-01-28,ORL,DET,22.15,2,1,51,DET,DET,ft_make,12,False,False,,Cunningham Free Throw 2 of 2 (2 PTS),61-49,61,49
+0022100736,2022-01-28,ORL,DET,22.35,2,1,39,ORL,ORL,fg_miss,101,False,False,MISS Anthony 6' Driving Floating Jump Shot,,61-49,61,49
+0022100736,2022-01-28,ORL,DET,22.37,2,1,38,ORL,ORL,reb,0,False,False,MAGIC Rebound,,61-49,61,49
+0022100736,2022-01-28,ORL,DET,22.38,2,1,37,ORL,ORL,tov,4,False,False,Anthony Traveling Turnover (P2.T9),,61-49,61,49
+0022100736,2022-01-28,ORL,DET,22.65,2,1,21,DET,DET,fg_miss,5,False,False,,MISS Stewart 3' Layup,61-49,61,49
+0022100736,2022-01-28,ORL,DET,22.68,2,1,19,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:4),,61-49,61,49
+0022100736,2022-01-28,ORL,DET,22.77,2,1,14,ORL,DET,foul,1,False,False,,Stewart P.FOUL (P3.PN) (J.Butler),61-49,61,49
+0022100736,2022-01-28,ORL,DET,22.77,2,1,14,ORL,ORL,ft_make,12,False,False,Carter Jr. Free Throw 2 of 2 (7 PTS),,63-49,63,49
+0022100736,2022-01-28,ORL,DET,22.77,2,1,14,ORL,ORL,ft_make,11,False,False,Carter Jr. Free Throw 1 of 2 (6 PTS),,62-49,62,49
+0022100736,2022-01-28,ORL,DET,22.95,2,1,3,DET,DET,fg_miss,79,False,False,,MISS Cunningham 19' Pullup Jump Shot,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.0,2,1,0,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:5),,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.13,2,0,52,ORL,ORL,fg_miss,102,False,False,MISS Carter Jr. 8' Driving Floating Bank Jump Shot,,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.18,2,0,49,DET,DET,reb,0,False,False,,Joseph REBOUND (Off:2 Def:2),63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.22,2,0,47,DET,DET,fg_miss,41,False,False,,MISS Diallo 3' Running Layup,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.23,2,0,46,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:2 Def:1),63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.25,2,0,45,DET,DET,fg_miss,97,False,False,,MISS Diallo Tip Layup Shot,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.27,2,0,44,ORL,ORL,reb,0,False,False,F. Wagner REBOUND (Off:0 Def:2),,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.33,2,0,40,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:5),,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.33,2,0,40,ORL,ORL,fg_miss,74,False,False,MISS Suggs 3' Running Reverse Layup,,63-49,63,49
+0022100736,2022-01-28,ORL,DET,23.35,2,0,39,ORL,ORL,fg_make,107,False,False,Bamba 2' Tip Dunk Shot (4 PTS),,65-49,65,49
+0022100736,2022-01-28,ORL,DET,23.48,2,0,31,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:6),,65-49,65,49
+0022100736,2022-01-28,ORL,DET,23.48,2,0,31,DET,DET,fg_miss,5,False,False,,MISS Diallo 3' Layup,65-49,65,49
+0022100736,2022-01-28,ORL,DET,23.82,2,0,11,ORL,ORL,ft_make,12,False,False,F. Wagner Free Throw 2 of 2 (17 PTS),,67-49,67,49
+0022100736,2022-01-28,ORL,DET,23.82,2,0,11,ORL,ORL,ft_make,11,False,False,F. Wagner Free Throw 1 of 2 (16 PTS),,66-49,66,49
+0022100736,2022-01-28,ORL,DET,23.82,2,0,11,ORL,DET,foul,2,False,False,,Lyles S.FOUL (P2.PN) (K.Scott),65-49,65,49
+0022100736,2022-01-28,ORL,DET,23.98,2,0,1,DET,DET,fg_make,80,False,False,,Joseph 22' Step Back Jump Shot (4 PTS),67-51,67,51
+0022100736,2022-01-28,ORL,DET,24.0,3,12,0,DET,,period_start,0,False,False,,,67-51,67,51
+0022100736,2022-01-28,ORL,DET,24.0,2,0,0,DET,,period_end,0,False,False,,,67-51,67,51
+0022100736,2022-01-28,ORL,DET,24.27,3,11,44,DET,DET,ft_make,12,False,False,,Bey Free Throw 2 of 2 (7 PTS),67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.27,3,11,44,DET,DET,ft_make,11,False,False,,Bey Free Throw 1 of 2 (6 PTS),67-52,67,52
+0022100736,2022-01-28,ORL,DET,24.27,3,11,44,DET,ORL,foul,2,False,False,Bamba S.FOUL (P2.T1) (J.Sterling),,67-51,67,51
+0022100736,2022-01-28,ORL,DET,24.62,3,11,23,ORL,ORL,fg_miss,79,False,False,MISS Suggs 15' Pullup Jump Shot,,67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.68,3,11,19,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:6),,67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.7,3,11,18,ORL,ORL,fg_miss,87,False,False,MISS Carter Jr. 2' Putback Dunk,,67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.73,3,11,16,DET,DET,reb,0,False,False,,Joseph REBOUND (Off:2 Def:3),67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.77,3,11,14,ORL,DET,foul,1,False,False,,Joseph P.FOUL (P1.T1) (J.Butler),67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.77,3,11,14,DET,DET,tov,1,False,True,,Cunningham Bad Pass Turnover (P1.T7),67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.77,3,11,14,DET,ORL,steal,1,False,True,steal,steal,67-53,67,53
+0022100736,2022-01-28,ORL,DET,24.97,3,11,2,ORL,ORL,fg3_make,1,False,False,Bamba 24' 3PT Jump Shot (7 PTS) (Anthony 4 AST),,70-53,70,53
+0022100736,2022-01-28,ORL,DET,25.27,3,10,44,DET,DET,fg3_make,1,False,False,,Joseph 25' 3PT Jump Shot (7 PTS) (Cunningham 3 AST),70-56,70,56
+0022100736,2022-01-28,ORL,DET,25.53,3,10,28,ORL,ORL,tov,1,False,True,Anthony Bad Pass Turnover (P3.T10),,70-56,70,56
+0022100736,2022-01-28,ORL,DET,25.53,3,10,28,ORL,DET,steal,1,False,True,steal,steal,70-56,70,56
+0022100736,2022-01-28,ORL,DET,25.63,3,10,22,DET,DET,fg_miss,74,False,False,,MISS Cunningham 3' Running Reverse Layup,70-56,70,56
+0022100736,2022-01-28,ORL,DET,25.67,3,10,20,DET,DET,fg_make,97,False,False,,Bey Tip Layup Shot (9 PTS),70-58,70,58
+0022100736,2022-01-28,ORL,DET,25.67,3,10,20,DET,DET,reb,0,False,False,,Bey REBOUND (Off:2 Def:1),70-56,70,56
+0022100736,2022-01-28,ORL,DET,25.87,3,10,8,ORL,ORL,ft_make,12,False,False,Anthony Free Throw 2 of 2 (8 PTS),,72-58,72,58
+0022100736,2022-01-28,ORL,DET,25.87,3,10,8,ORL,ORL,ft_make,11,False,False,Anthony Free Throw 1 of 2 (7 PTS),,71-58,71,58
+0022100736,2022-01-28,ORL,DET,25.87,3,10,8,ORL,DET,foul,2,False,False,,Joseph S.FOUL (P2.T2) (K.Scott),70-58,70,58
+0022100736,2022-01-28,ORL,DET,26.03,3,9,58,DET,DET,tov,4,False,False,,Bey Traveling Turnover (P2.T8),72-58,72,58
+0022100736,2022-01-28,ORL,DET,26.25,3,9,45,ORL,ORL,fg_miss,52,False,False,MISS Carter Jr. 3' Alley Oop Dunk,,72-58,72,58
+0022100736,2022-01-28,ORL,DET,26.3,3,9,42,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:1 Def:2),72-58,72,58
+0022100736,2022-01-28,ORL,DET,26.38,3,9,37,DET,DET,fg3_make,1,False,False,,Joseph 26' 3PT Jump Shot (10 PTS) (Cunningham 4 AST),72-61,72,61
+0022100736,2022-01-28,ORL,DET,26.53,3,9,28,ORL,ORL,fg_miss,6,False,False,MISS Suggs 2' Driving Layup,,72-61,72,61
+0022100736,2022-01-28,ORL,DET,26.57,3,9,26,DET,DET,reb,0,False,False,,Joseph REBOUND (Off:2 Def:4),72-61,72,61
+0022100736,2022-01-28,ORL,DET,26.68,3,9,19,DET,DET,fg_miss,79,False,False,,MISS Cunningham 19' Pullup Jump Shot,72-61,72,61
+0022100736,2022-01-28,ORL,DET,26.73,3,9,16,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:6),,72-61,72,61
+0022100736,2022-01-28,ORL,DET,26.82,3,9,11,ORL,ORL,fg3_miss,103,False,False,MISS Anthony 26' 3PT Running Pull-Up Jump Shot,,72-61,72,61
+0022100736,2022-01-28,ORL,DET,26.88,3,9,7,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:2 Def:2),72-61,72,61
+0022100736,2022-01-28,ORL,DET,27.18,3,8,49,DET,DET,fg_miss,80,False,False,,MISS Joseph 12' Step Back Jump Shot,72-61,72,61
+0022100736,2022-01-28,ORL,DET,27.22,3,8,47,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:7),,72-61,72,61
+0022100736,2022-01-28,ORL,DET,27.3,3,8,42,ORL,ORL,fg3_miss,2,False,False,MISS Bamba 26' 3PT Running Jump Shot,,72-61,72,61
+0022100736,2022-01-28,ORL,DET,27.35,3,8,39,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:1 Def:3),72-61,72,61
+0022100736,2022-01-28,ORL,DET,27.52,3,8,29,DET,DET,fg_miss,75,False,False,,MISS Diallo 3' Driving Finger Roll Layup,72-61,72,61
+0022100736,2022-01-28,ORL,DET,27.57,3,8,26,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:8),,72-61,72,61
+0022100736,2022-01-28,ORL,DET,27.68,3,8,19,ORL,ORL,fg_make,7,False,False,Bamba 3' Dunk (9 PTS) (Anthony 5 AST),,74-61,74,61
+0022100736,2022-01-28,ORL,DET,27.7,3,8,18,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),74-61,74,61
+0022100736,2022-01-28,ORL,DET,27.93,3,8,4,DET,DET,fg_make,98,False,False,,Stewart 2' Cutting Layup Shot (2 PTS) (Joseph 1 AST),74-63,74,63
+0022100736,2022-01-28,ORL,DET,28.2,3,7,48,ORL,ORL,fg_miss,57,False,False,MISS Suggs 3' Driving Hook Shot,,74-63,74,63
+0022100736,2022-01-28,ORL,DET,28.2,3,7,48,ORL,ORL,reb,0,False,False,MAGIC Rebound,,74-63,74,63
+0022100736,2022-01-28,ORL,DET,28.2,3,7,48,ORL,DET,foul,3,False,False,,Joseph L.B.FOUL (P3.T3) (J.Sterling),74-63,74,63
+0022100736,2022-01-28,ORL,DET,28.38,3,7,37,ORL,ORL,tov,13,False,False,F. Wagner Backcourt Turnover (P2.T11),,74-63,74,63
+0022100736,2022-01-28,ORL,DET,28.57,3,7,26,DET,DET,fg3_make,1,False,False,,Bey 26' 3PT Jump Shot (12 PTS) (Stewart 1 AST),74-66,74,66
+0022100736,2022-01-28,ORL,DET,28.8,3,7,12,ORL,ORL,ft_make,10,False,False,Bamba Free Throw 1 of 1 (12 PTS),,77-66,77,66
+0022100736,2022-01-28,ORL,DET,28.8,3,7,12,ORL,DET,foul,2,False,False,,Joseph S.FOUL (P4.T4) (K.Scott),76-66,76,66
+0022100736,2022-01-28,ORL,DET,28.8,3,7,12,ORL,ORL,fg_make,7,False,False,Bamba 2' Dunk (11 PTS) (Anthony 6 AST),,76-66,76,66
+0022100736,2022-01-28,ORL,DET,29.02,3,6,59,DET,DET,ft_make,12,False,False,,Bey Free Throw 2 of 2 (13 PTS),77-67,77,67
+0022100736,2022-01-28,ORL,DET,29.02,3,6,59,DET,DET,reb,1,False,False,,Pistons Rebound,77-66,77,66
+0022100736,2022-01-28,ORL,DET,29.02,3,6,59,DET,DET,ft_miss,11,False,False,,MISS Bey Free Throw 1 of 2,77-66,77,66
+0022100736,2022-01-28,ORL,DET,29.02,3,6,59,DET,ORL,foul,2,False,False,F. Wagner S.FOUL (P3.T2) (J.Butler),,77-66,77,66
+0022100736,2022-01-28,ORL,DET,29.32,3,6,41,ORL,ORL,fg_miss,6,False,False,MISS Carter Jr. 3' Driving Layup,,77-67,77,67
+0022100736,2022-01-28,ORL,DET,29.35,3,6,39,ORL,ORL,fg_make,97,False,False,Suggs Tip Layup Shot (6 PTS),,79-67,79,67
+0022100736,2022-01-28,ORL,DET,29.35,3,6,39,ORL,ORL,reb,0,False,False,Suggs REBOUND (Off:1 Def:0),,77-67,77,67
+0022100736,2022-01-28,ORL,DET,29.77,3,6,14,DET,DET,fg3_miss,1,False,False,,MISS Diallo 27' 3PT Jump Shot,79-67,79,67
+0022100736,2022-01-28,ORL,DET,29.78,3,6,13,ORL,ORL,reb,0,False,False,MAGIC Rebound,,79-67,79,67
+0022100736,2022-01-28,ORL,DET,29.97,3,6,2,ORL,DET,foul,2,False,False,,Diallo S.FOUL (P2.PN) (K.Scott),79-67,79,67
+0022100736,2022-01-28,ORL,DET,29.97,3,6,2,ORL,ORL,ft_make,12,False,False,F. Wagner Free Throw 2 of 2 (19 PTS),,81-67,81,67
+0022100736,2022-01-28,ORL,DET,29.97,3,6,2,ORL,ORL,ft_make,11,False,False,F. Wagner Free Throw 1 of 2 (18 PTS),,80-67,80,67
+0022100736,2022-01-28,ORL,DET,30.33,3,5,40,DET,DET,fg_miss,79,False,False,,MISS Bey 20' Pullup Jump Shot,81-67,81,67
+0022100736,2022-01-28,ORL,DET,30.38,3,5,37,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:7),,81-67,81,67
+0022100736,2022-01-28,ORL,DET,30.57,3,5,26,ORL,DET,steal,1,False,True,steal,steal,81-67,81,67
+0022100736,2022-01-28,ORL,DET,30.57,3,5,26,DET,ORL,foul,1,False,False,F. Wagner P.FOUL (P4.T3) (K.Scott),,81-67,81,67
+0022100736,2022-01-28,ORL,DET,30.57,3,5,26,ORL,ORL,tov,1,False,True,Anthony Bad Pass Turnover (P4.T12),,81-67,81,67
+0022100736,2022-01-28,ORL,DET,30.82,3,5,11,DET,DET,fg_make,75,False,False,,Cunningham 1' Driving Finger Roll Layup (4 PTS),81-69,81,69
+0022100736,2022-01-28,ORL,DET,31.13,3,4,52,ORL,ORL,fg_miss,75,False,False,MISS Harris 6' Driving Finger Roll Layup,,81-69,81,69
+0022100736,2022-01-28,ORL,DET,31.17,3,4,50,DET,DET,reb,0,False,False,,Cunningham REBOUND (Off:0 Def:1),81-69,81,69
+0022100736,2022-01-28,ORL,DET,31.3,3,4,42,DET,DET,fg3_miss,1,False,False,,MISS Cunningham 24' 3PT Jump Shot,81-69,81,69
+0022100736,2022-01-28,ORL,DET,31.35,3,4,39,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:2),,81-69,81,69
+0022100736,2022-01-28,ORL,DET,31.65,3,4,21,ORL,ORL,fg3_make,1,False,False,Okeke 3PT Jump Shot (11 PTS) (Harris 2 AST),,84-69,84,69
+0022100736,2022-01-28,ORL,DET,31.92,3,4,5,DET,DET,fg3_miss,1,False,False,,MISS McGruder 25' 3PT Jump Shot,84-69,84,69
+0022100736,2022-01-28,ORL,DET,31.97,3,4,2,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:1),,84-69,84,69
+0022100736,2022-01-28,ORL,DET,32.2,3,3,48,ORL,ORL,fg_miss,99,False,False,MISS Harris 3' Cutting Finger Roll Layup Shot,,84-69,84,69
+0022100736,2022-01-28,ORL,DET,32.23,3,3,46,DET,DET,reb,0,False,False,,Hayes REBOUND (Off:0 Def:2),84-69,84,69
+0022100736,2022-01-28,ORL,DET,32.33,3,3,40,DET,DET,tov,2,False,True,,Cunningham Lost Ball Turnover (P2.T9),84-69,84,69
+0022100736,2022-01-28,ORL,DET,32.33,3,3,40,DET,ORL,steal,2,False,True,steal,steal,84-69,84,69
+0022100736,2022-01-28,ORL,DET,32.47,3,3,32,ORL,ORL,fg_make,79,False,False,Bamba 20' Pullup Jump Shot (14 PTS) (Harris 3 AST),,86-69,86,69
+0022100736,2022-01-28,ORL,DET,32.82,3,3,11,DET,DET,fg3_miss,1,False,False,,MISS Bey 24' 3PT Jump Shot,86-69,86,69
+0022100736,2022-01-28,ORL,DET,32.82,3,3,11,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:2),,86-69,86,69
+0022100736,2022-01-28,ORL,DET,32.93,3,3,4,ORL,ORL,fg3_miss,1,False,False,MISS Anthony 25' 3PT Jump Shot,,86-69,86,69
+0022100736,2022-01-28,ORL,DET,33.0,3,3,0,DET,DET,reb,0,False,False,,Lyles REBOUND (Off:0 Def:1),86-69,86,69
+0022100736,2022-01-28,ORL,DET,33.13,3,2,52,DET,ORL,foul,2,False,False,Okeke S.FOUL (P1.T4) (K.Scott),,86-69,86,69
+0022100736,2022-01-28,ORL,DET,33.13,3,2,52,DET,DET,fg_miss,79,True,False,,MISS Hayes 9' Pullup Jump Shot,86-69,86,69
+0022100736,2022-01-28,ORL,DET,33.13,3,2,52,DET,DET,reb,0,False,False,,Bey REBOUND (Off:3 Def:1),86-69,86,69
+0022100736,2022-01-28,ORL,DET,33.13,3,2,52,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,86-69,86,69
+0022100736,2022-01-28,ORL,DET,33.13,3,2,52,ORL,DET,ft_make,11,False,False,,Bey Free Throw 1 of 2 (14 PTS),86-70,86,70
+0022100736,2022-01-28,ORL,DET,33.13,3,2,52,DET,ORL,block,79,True,False,block,block,86-69,86,69
+0022100736,2022-01-28,ORL,DET,33.13,3,2,52,ORL,DET,ft_make,12,False,False,,Bey Free Throw 2 of 2 (15 PTS),86-71,86,71
+0022100736,2022-01-28,ORL,DET,33.47,3,2,32,ORL,ORL,fg_make,51,False,False,Bamba 4' Reverse Dunk (16 PTS) (Ross 2 AST),,88-71,88,71
+0022100736,2022-01-28,ORL,DET,33.85,3,2,9,DET,DET,fg_miss,105,False,False,,MISS Lyles 12' Turnaround Fadeaway Bank Jump Shot,88-71,88,71
+0022100736,2022-01-28,ORL,DET,33.9,3,2,6,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,88-71,88,71
+0022100736,2022-01-28,ORL,DET,34.22,3,1,47,ORL,ORL,fg_make,102,False,False,Okeke 7' Driving Floating Bank Jump Shot (13 PTS) (Harris 4 AST),,90-71,90,71
+0022100736,2022-01-28,ORL,DET,34.42,3,1,35,DET,DET,fg3_make,1,False,False,,Lyles 24' 3PT Jump Shot (13 PTS) (Hayes 3 AST),90-74,90,74
+0022100736,2022-01-28,ORL,DET,34.85,3,1,9,ORL,ORL,fg_make,6,False,False,Okeke 1' Driving Layup (15 PTS) (Harris 5 AST),,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.1,3,0,54,DET,DET,fg3_miss,1,False,False,,MISS Lyles 24' 3PT Jump Shot,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.13,3,0,52,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:3),,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.23,3,0,46,ORL,ORL,tov,1,False,True,Suggs Bad Pass Turnover (P3.T13),,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.23,3,0,46,ORL,DET,steal,1,False,True,steal,steal,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.28,3,0,43,DET,ORL,foul,2,False,False,Bamba S.FOUL (P3.PN) (J.Sterling),,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.28,3,0,43,DET,DET,ft_make,12,False,False,,Lyles Free Throw 2 of 2 (14 PTS),92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.28,3,0,43,DET,DET,ft_miss,11,False,False,,MISS Lyles Free Throw 1 of 2,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.28,3,0,43,DET,DET,reb,1,False,False,,Pistons Rebound,92-74,92,74
+0022100736,2022-01-28,ORL,DET,35.52,3,0,29,ORL,ORL,fg3_miss,1,False,False,MISS Suggs 29' 3PT Jump Shot,,92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.6,3,0,24,DET,DET,reb,0,False,False,,Hayes REBOUND (Off:0 Def:3),92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.63,3,0,22,DET,DET,fg_miss,50,True,False,,MISS McGruder 2' Running Dunk,92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.63,3,0,22,DET,ORL,block,50,True,False,block,block,92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.68,3,0,19,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:3),,92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.98,3,0,1,ORL,ORL,fg_miss,57,True,False,MISS Ross 10' Driving Hook Shot,,92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.98,3,0,1,DET,DET,reb,0,False,False,,J. Jackson REBOUND (Off:0 Def:5),92-75,92,75
+0022100736,2022-01-28,ORL,DET,35.98,3,0,1,ORL,DET,block,57,True,False,block,block,92-75,92,75
+0022100736,2022-01-28,ORL,DET,36.0,3,0,0,DET,,period_end,0,False,False,,,92-75,92,75
+0022100736,2022-01-28,ORL,DET,36.0,4,12,0,DET,,period_start,0,False,False,,,92-75,92,75
+0022100736,2022-01-28,ORL,DET,36.23,4,11,46,ORL,ORL,fg3_make,1,False,False,Ross 26' 3PT Jump Shot (12 PTS) (Suggs 4 AST),,95-75,95,75
+0022100736,2022-01-28,ORL,DET,36.68,4,11,19,DET,ORL,steal,1,False,True,steal,steal,95-75,95,75
+0022100736,2022-01-28,ORL,DET,36.68,4,11,19,DET,DET,tov,1,False,True,,F. Jackson Bad Pass Turnover (P1.T10),95-75,95,75
+0022100736,2022-01-28,ORL,DET,37.0,4,11,0,ORL,ORL,fg3_make,79,False,False,Ross 28' 3PT Pullup Jump Shot (15 PTS),,98-75,98,75
+0022100736,2022-01-28,ORL,DET,37.47,4,10,32,DET,DET,fg_make,79,False,False,,Hayes 13' Pullup Jump Shot (9 PTS),98-77,98,77
+0022100736,2022-01-28,ORL,DET,37.62,4,10,23,ORL,ORL,fg3_miss,1,False,False,MISS Carter Jr. 27' 3PT Jump Shot,,98-77,98,77
+0022100736,2022-01-28,ORL,DET,37.67,4,10,20,ORL,ORL,reb,0,False,False,Harris REBOUND (Off:1 Def:2),,98-77,98,77
+0022100736,2022-01-28,ORL,DET,37.8,4,10,12,ORL,ORL,fg3_make,1,False,False,Ross 28' 3PT Jump Shot (18 PTS),,101-77,101,77
+0022100736,2022-01-28,ORL,DET,37.82,4,10,11,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.4 Short 0),101-77,101,77
+0022100736,2022-01-28,ORL,DET,38.17,4,9,50,DET,DET,fg3_miss,1,False,False,,MISS F. Jackson 24' 3PT Jump Shot,101-77,101,77
+0022100736,2022-01-28,ORL,DET,38.18,4,9,49,DET,DET,reb,0,False,False,,Pistons Rebound,101-77,101,77
+0022100736,2022-01-28,ORL,DET,38.18,4,9,49,DET,ORL,foul,3,False,False,Suggs L.B.FOUL (P2.T1) (J.Butler),,101-77,101,77
+0022100736,2022-01-28,ORL,DET,38.3,4,9,42,DET,ORL,foul,2,False,False,Suggs S.FOUL (P3.T2) (K.Scott),,101-77,101,77
+0022100736,2022-01-28,ORL,DET,38.3,4,9,42,DET,DET,ft_make,11,False,False,,Lyles Free Throw 1 of 2 (15 PTS),101-78,101,78
+0022100736,2022-01-28,ORL,DET,38.3,4,9,42,DET,DET,ft_make,12,False,False,,Lyles Free Throw 2 of 2 (16 PTS),101-79,101,79
+0022100736,2022-01-28,ORL,DET,38.55,4,9,27,ORL,ORL,fg_make,52,False,False,Carter Jr. 2' Alley Oop Dunk (9 PTS) (Harris 6 AST),,103-79,103,79
+0022100736,2022-01-28,ORL,DET,38.77,4,9,14,DET,ORL,foul,2,False,False,Carter Jr. S.FOUL (P1.T3) (K.Scott),,103-79,103,79
+0022100736,2022-01-28,ORL,DET,38.77,4,9,14,DET,DET,reb,1,False,False,,Pistons Rebound,103-79,103,79
+0022100736,2022-01-28,ORL,DET,38.77,4,9,14,DET,DET,ft_miss,14,False,False,,MISS F. Jackson Free Throw 2 of 3,103-79,103,79
+0022100736,2022-01-28,ORL,DET,38.77,4,9,14,DET,DET,reb,1,False,False,,Pistons Rebound,103-79,103,79
+0022100736,2022-01-28,ORL,DET,38.77,4,9,14,DET,DET,ft_make,15,False,False,,F. Jackson Free Throw 3 of 3 (6 PTS),103-80,103,80
+0022100736,2022-01-28,ORL,DET,38.77,4,9,14,DET,DET,ft_miss,13,False,False,,MISS F. Jackson Free Throw 1 of 3,103-79,103,79
+0022100736,2022-01-28,ORL,DET,39.0,4,9,0,ORL,ORL,tov,1,False,True,Suggs Bad Pass Turnover (P4.T14),,103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.0,4,9,0,ORL,DET,steal,1,False,True,steal,steal,103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.08,4,8,55,DET,DET,fg3_miss,2,False,False,,MISS McGruder 3PT Running Jump Shot,103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.13,4,8,52,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:8),,103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.47,4,8,32,ORL,ORL,fg3_miss,1,True,False,MISS Ross 27' 3PT Jump Shot,,103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.47,4,8,32,ORL,DET,block,1,True,False,block,block,103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.53,4,8,28,DET,DET,reb,0,False,False,,Hayes REBOUND (Off:0 Def:4),103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.55,4,8,27,DET,ORL,foul,28,False,False,Ross Personal Take Foul (P2.T4) (J.Sterling),,103-80,103,80
+0022100736,2022-01-28,ORL,DET,39.68,4,8,19,DET,DET,fg_make,98,False,False,,Lyles 1' Cutting Layup Shot (18 PTS) (J. Jackson 2 AST),103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.05,4,7,57,ORL,ORL,fg_miss,101,False,False,MISS Ross 4' Driving Floating Jump Shot,,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.08,4,7,55,DET,DET,reb,0,False,False,,McGruder REBOUND (Off:2 Def:1),103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.25,4,7,45,DET,DET,fg_miss,86,False,False,,MISS Lyles 8' Turnaround Fadeaway Shot,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.33,4,7,40,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:9),,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.38,4,7,37,ORL,DET,block,41,True,False,block,block,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.38,4,7,37,ORL,ORL,fg_miss,41,True,False,MISS Harris 3' Running Layup,,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.38,4,7,37,DET,DET,reb,0,False,False,,Hayes REBOUND (Off:0 Def:5),103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.48,4,7,31,DET,ORL,block,41,True,False,block,block,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.48,4,7,31,DET,DET,fg_miss,41,True,False,,MISS Hayes 4' Running Layup,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.55,4,7,27,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:4),,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.68,4,7,19,ORL,ORL,fg3_miss,80,False,False,MISS Okeke 26' 3PT Step Back Jump Shot,,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.72,4,7,17,DET,DET,reb,0,False,False,,J. Jackson REBOUND (Off:0 Def:6),103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.73,4,7,16,DET,DET,ft_make,12,False,False,,F. Jackson Free Throw 2 of 2 (8 PTS),103-84,103,84
+0022100736,2022-01-28,ORL,DET,40.73,4,7,16,DET,ORL,foul,3,False,False,Carter Jr. L.B.FOUL (P2.PN) (K.Scott),,103-82,103,82
+0022100736,2022-01-28,ORL,DET,40.73,4,7,16,DET,DET,ft_make,11,False,False,,F. Jackson Free Throw 1 of 2 (7 PTS),103-83,103,83
+0022100736,2022-01-28,ORL,DET,40.97,4,7,2,ORL,DET,foul,2,False,False,,J. Jackson S.FOUL (P2.T1) (K.Scott),103-84,103,84
+0022100736,2022-01-28,ORL,DET,40.97,4,7,2,ORL,ORL,ft_make,12,False,False,F. Wagner Free Throw 2 of 2 (21 PTS),,105-84,105,84
+0022100736,2022-01-28,ORL,DET,40.97,4,7,2,ORL,ORL,ft_make,11,False,False,F. Wagner Free Throw 1 of 2 (20 PTS),,104-84,104,84
+0022100736,2022-01-28,ORL,DET,41.18,4,6,49,DET,DET,fg_make,98,False,False,,F. Jackson 2' Cutting Layup Shot (10 PTS) (Hayes 4 AST),105-86,105,86
+0022100736,2022-01-28,ORL,DET,41.37,4,6,38,ORL,DET,foul,1,False,False,,Hayes P.FOUL (P3.T2) (K.Scott),105-86,105,86
+0022100736,2022-01-28,ORL,DET,41.5,4,6,30,ORL,ORL,fg3_make,79,False,False,F. Wagner 28' 3PT Pullup Jump Shot (24 PTS),,108-86,108,86
+0022100736,2022-01-28,ORL,DET,41.73,4,6,16,DET,DET,reb,1,False,False,,Pistons Rebound,108-86,108,86
+0022100736,2022-01-28,ORL,DET,41.73,4,6,16,DET,DET,ft_miss,11,False,False,,MISS J. Jackson Free Throw 1 of 2,108-86,108,86
+0022100736,2022-01-28,ORL,DET,41.73,4,6,16,DET,ORL,foul,2,False,False,Anthony S.FOUL (P2.PN) (K.Scott),,108-86,108,86
+0022100736,2022-01-28,ORL,DET,41.73,4,6,16,DET,DET,ft_make,12,False,False,,J. Jackson Free Throw 2 of 2 (3 PTS),108-87,108,87
+0022100736,2022-01-28,ORL,DET,41.88,4,6,7,ORL,ORL,fg_make,98,False,False,Ross 2' Cutting Layup Shot (20 PTS) (Anthony 7 AST),,110-87,110,87
+0022100736,2022-01-28,ORL,DET,41.88,4,6,7,ORL,DET,foul,2,False,False,,McGruder S.FOUL (P2.T3) (K.Scott),110-87,110,87
+0022100736,2022-01-28,ORL,DET,41.88,4,6,7,ORL,ORL,ft_make,10,False,False,Ross Free Throw 1 of 1 (21 PTS),,111-87,111,87
+0022100736,2022-01-28,ORL,DET,42.08,4,5,55,DET,ORL,foul,2,False,False,Okeke S.FOUL (P2.PN) (K.Scott),,111-87,111,87
+0022100736,2022-01-28,ORL,DET,42.08,4,5,55,DET,DET,ft_make,11,False,False,,Hayes Free Throw 1 of 2 (10 PTS),111-88,111,88
+0022100736,2022-01-28,ORL,DET,42.08,4,5,55,DET,DET,ft_make,12,False,False,,Hayes Free Throw 2 of 2 (11 PTS),111-89,111,89
+0022100736,2022-01-28,ORL,DET,42.27,4,5,44,ORL,DET,block,6,True,False,block,block,111-89,111,89
+0022100736,2022-01-28,ORL,DET,42.27,4,5,44,ORL,ORL,fg_miss,6,True,False,MISS Anthony 1' Driving Layup,,111-89,111,89
+0022100736,2022-01-28,ORL,DET,42.3,4,5,42,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:1 Def:4),,111-89,111,89
+0022100736,2022-01-28,ORL,DET,42.32,4,5,41,ORL,ORL,fg_make,72,False,False,Anthony 4' Putback Layup (10 PTS),,113-89,113,89
+0022100736,2022-01-28,ORL,DET,42.53,4,5,28,DET,DET,fg3_miss,1,False,False,,MISS Bey 25' 3PT Jump Shot,113-89,113,89
+0022100736,2022-01-28,ORL,DET,42.53,4,5,28,ORL,ORL,reb,0,False,False,F. Wagner REBOUND (Off:0 Def:3),,113-89,113,89
+0022100736,2022-01-28,ORL,DET,42.75,4,5,15,ORL,ORL,fg3_miss,1,False,False,MISS Anthony 25' 3PT Jump Shot,,113-89,113,89
+0022100736,2022-01-28,ORL,DET,42.77,4,5,14,DET,DET,reb,0,False,False,,Pistons Rebound,113-89,113,89
+0022100736,2022-01-28,ORL,DET,42.87,4,5,8,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,113-91,113,91
+0022100736,2022-01-28,ORL,DET,42.87,4,5,8,DET,DET,fg_make,102,False,False,,F. Jackson 8' Driving Floating Bank Jump Shot (12 PTS) (Hayes 5 AST),113-91,113,91
+0022100736,2022-01-28,ORL,DET,43.15,4,4,51,ORL,ORL,fg_make,5,False,False,Bamba 4' Layup (18 PTS) (Anthony 8 AST),,115-91,115,91
+0022100736,2022-01-28,ORL,DET,43.42,4,4,35,DET,DET,fg3_miss,1,False,False,,MISS Hayes 26' 3PT Jump Shot,115-91,115,91
+0022100736,2022-01-28,ORL,DET,43.47,4,4,32,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:5),,115-91,115,91
+0022100736,2022-01-28,ORL,DET,43.7,4,4,18,ORL,DET,block,6,True,False,block,block,115-91,115,91
+0022100736,2022-01-28,ORL,DET,43.7,4,4,18,ORL,ORL,fg_miss,6,True,False,MISS F. Wagner 3' Driving Layup,,115-91,115,91
+0022100736,2022-01-28,ORL,DET,43.75,4,4,15,DET,DET,reb,0,False,False,,Hayes REBOUND (Off:0 Def:6),115-91,115,91
+0022100736,2022-01-28,ORL,DET,43.83,4,4,10,DET,DET,fg_make,41,False,False,,Stewart 3' Running Layup (4 PTS) (Hayes 6 AST),115-93,115,93
+0022100736,2022-01-28,ORL,DET,44.1,4,3,54,ORL,ORL,tov,4,False,False,Ross Traveling Turnover (P1.T15),,115-93,115,93
+0022100736,2022-01-28,ORL,DET,44.32,4,3,41,DET,DET,fg_make,6,False,False,,Cunningham 3' Driving Layup (6 PTS),115-95,115,95
+0022100736,2022-01-28,ORL,DET,44.65,4,3,21,ORL,DET,foul,1,False,False,,Bey P.FOUL (P2.T4) (J.Butler),115-95,115,95
+0022100736,2022-01-28,ORL,DET,44.88,4,3,7,ORL,ORL,fg_make,78,False,False,Anthony 9' Floating Jump Shot (12 PTS) (Okeke 2 AST),,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.15,4,2,51,DET,DET,fg3_miss,1,False,False,,MISS F. Jackson 27' 3PT Jump Shot,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.22,4,2,47,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:6),,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.43,4,2,34,ORL,ORL,fg_miss,93,False,False,MISS Anthony 5' Driving Bank Hook Shot,,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.45,4,2,33,ORL,DET,block,72,True,False,block,block,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.45,4,2,33,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:3 Def:8),,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.45,4,2,33,ORL,ORL,fg_miss,72,True,False,MISS Bamba 2' Putback Layup,,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.45,4,2,33,ORL,ORL,reb,0,False,False,MAGIC Rebound,,117-95,117,95
+0022100736,2022-01-28,ORL,DET,45.57,4,2,26,ORL,ORL,fg_make,9,False,False,Okeke 2' Driving Dunk (17 PTS) (Anthony 9 AST),,119-95,119,95
+0022100736,2022-01-28,ORL,DET,45.87,4,2,8,DET,ORL,foul,2,False,False,Schofield S.FOUL (P1.PN) (J.Butler),,119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.87,4,2,8,DET,DET,ft_miss,10,False,False,,MISS Bey Free Throw 1 of 1,119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.87,4,2,8,DET,DET,fg_make,6,False,False,,Bey 2' Driving Layup (17 PTS) (Lee 1 AST),119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.92,4,2,5,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:3),119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.95,4,2,3,DET,DET,fg_miss,72,True,False,,MISS Stewart 3' Putback Layup,119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.95,4,2,3,DET,ORL,block,72,True,False,block,block,119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.97,4,2,2,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:3 Def:3),119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.97,4,2,2,DET,DET,fg_miss,72,False,False,,MISS Stewart 1' Putback Layup,119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.97,4,2,2,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:4 Def:3),119-97,119,97
+0022100736,2022-01-28,ORL,DET,45.98,4,2,1,DET,DET,fg_make,97,False,False,,Stewart 2' Tip Layup Shot (6 PTS),119-99,119,99
+0022100736,2022-01-28,ORL,DET,46.23,4,1,46,ORL,ORL,fg3_miss,1,False,False,MISS Schofield 25' 3PT Jump Shot,,119-99,119,99
+0022100736,2022-01-28,ORL,DET,46.28,4,1,43,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:4 Def:4),119-99,119,99
+0022100736,2022-01-28,ORL,DET,46.4,4,1,36,DET,DET,fg_miss,6,False,False,,MISS Cunningham 2' Driving Layup,119-99,119,99
+0022100736,2022-01-28,ORL,DET,46.45,4,1,33,ORL,ORL,reb,0,False,False,Schofield REBOUND (Off:0 Def:1),,119-99,119,99
+0022100736,2022-01-28,ORL,DET,46.83,4,1,10,ORL,ORL,fg3_miss,79,False,False,MISS Anthony 24' 3PT Pullup Jump Shot,,119-99,119,99
+0022100736,2022-01-28,ORL,DET,46.87,4,1,8,DET,DET,reb,0,False,False,,Cunningham REBOUND (Off:0 Def:2),119-99,119,99
+0022100736,2022-01-28,ORL,DET,47.1,4,0,54,DET,DET,fg_make,75,False,False,,Stanley 3' Driving Finger Roll Layup (2 PTS) (Lee 2 AST),119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.22,4,0,47,ORL,ORL,tov,2,False,True,Okeke Lost Ball Turnover (P2.T16),,119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.22,4,0,47,ORL,DET,steal,2,False,True,steal,steal,119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.27,4,0,44,DET,DET,fg_miss,41,True,False,,MISS Bey 1' Running Layup,119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.27,4,0,44,DET,ORL,block,41,True,False,block,block,119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.33,4,0,40,DET,DET,reb,0,False,False,,Bey REBOUND (Off:4 Def:1),119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.35,4,0,39,DET,DET,fg3_miss,1,False,False,,MISS Cunningham 27' 3PT Jump Shot,119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.4,4,0,36,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:1 Def:5),,119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.8,4,0,12,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#17),,119-101,119,101
+0022100736,2022-01-28,ORL,DET,47.87,4,0,8,DET,DET,fg_make,6,False,False,,Cunningham 2' Driving Layup (8 PTS),119-103,119,103
+0022100736,2022-01-28,ORL,DET,48.0,4,0,0,DET,,period_end,0,False,False,,,119-103,119,103

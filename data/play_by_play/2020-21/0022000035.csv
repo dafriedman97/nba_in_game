@@ -1,0 +1,437 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000035,2020-12-27,CLE,PHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000035,2020-12-27,CLE,PHI,0.0,1,12,0,,CLE,jump_ball,0,False,False,Jump Ball Drummond vs. Howard: Tip to Love,,0-0,0,0
+0022000035,2020-12-27,CLE,PHI,0.35,1,11,39,CLE,CLE,fg_make,5,False,False,Drummond 1' Layup (2 PTS) (Love 1 AST),,2-0,2,0
+0022000035,2020-12-27,CLE,PHI,0.63,1,11,22,PHI,CLE,foul,2,False,False,Drummond S.FOUL (P1.T1) (E.Malloy),,2-0,2,0
+0022000035,2020-12-27,CLE,PHI,0.63,1,11,22,PHI,PHI,ft_make,11,False,False,,Harris Free Throw 1 of 2 (1 PTS),2-1,2,1
+0022000035,2020-12-27,CLE,PHI,0.63,1,11,22,PHI,PHI,ft_make,12,False,False,,Harris Free Throw 2 of 2 (2 PTS),2-2,2,2
+0022000035,2020-12-27,CLE,PHI,0.88,1,11,7,CLE,CLE,fg_make,98,False,False,Love 4' Cutting Layup Shot (2 PTS) (Garland 1 AST),,4-2,4,2
+0022000035,2020-12-27,CLE,PHI,1.02,1,10,59,PHI,PHI,fg3_make,1,False,False,,Harris 26' 3PT Jump Shot (5 PTS) (Simmons 1 AST),4-5,4,5
+0022000035,2020-12-27,CLE,PHI,1.13,1,10,52,CLE,PHI,foul,1,False,False,,Howard P.FOUL (P1.T1) (E.Malloy),4-5,4,5
+0022000035,2020-12-27,CLE,PHI,1.32,1,10,41,CLE,CLE,fg_make,102,False,False,Sexton 9' Driving Floating Bank Jump Shot (2 PTS) (Drummond 1 AST),,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.43,1,10,34,PHI,PHI,fg3_miss,1,False,False,,MISS Harris 26' 3PT Jump Shot,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.5,1,10,30,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:0 Def:1),,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.6,1,10,24,CLE,CLE,fg_miss,6,False,False,MISS Sexton 5' Driving Layup,,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.63,1,10,22,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:0),,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.73,1,10,16,CLE,CLE,fg_miss,58,False,False,MISS Drummond 6' Turnaround Hook Shot,,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.82,1,10,11,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:1),6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.87,1,10,8,PHI,PHI,tov,2,False,True,,Harris Lost Ball Turnover (P1.T1),6-5,6,5
+0022000035,2020-12-27,CLE,PHI,1.87,1,10,8,PHI,CLE,steal,2,False,True,steal,steal,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,2.03,1,9,58,CLE,CLE,fg3_miss,1,True,False,MISS Love 27' 3PT Jump Shot,,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,2.03,1,9,58,CLE,PHI,block,1,True,False,block,block,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,2.08,1,9,55,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,2.17,1,9,50,CLE,CLE,fg3_miss,80,False,False,MISS Sexton 26' 3PT Step Back Jump Shot,,6-5,6,5
+0022000035,2020-12-27,CLE,PHI,2.23,1,9,46,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:1),6-5,6,5
+0022000035,2020-12-27,CLE,PHI,2.28,1,9,43,PHI,PHI,fg_make,5,False,False,,Simmons 1' Layup (2 PTS) (Harris 1 AST),6-7,6,7
+0022000035,2020-12-27,CLE,PHI,2.6,1,9,24,CLE,CLE,fg_miss,101,False,False,MISS Garland 9' Driving Floating Jump Shot,,6-7,6,7
+0022000035,2020-12-27,CLE,PHI,2.62,1,9,23,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,6-7,6,7
+0022000035,2020-12-27,CLE,PHI,2.7,1,9,18,CLE,CLE,fg_make,6,False,False,Garland 2' Driving Layup (2 PTS) (Nance Jr. 1 AST),,8-7,8,7
+0022000035,2020-12-27,CLE,PHI,2.97,1,9,2,PHI,PHI,fg3_miss,80,False,False,,MISS Curry 26' 3PT Step Back Jump Shot,8-7,8,7
+0022000035,2020-12-27,CLE,PHI,3.0,1,9,0,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:1),,8-7,8,7
+0022000035,2020-12-27,CLE,PHI,3.28,1,8,43,CLE,CLE,fg_miss,1,False,False,MISS Love 23' Jump Shot,,8-7,8,7
+0022000035,2020-12-27,CLE,PHI,3.32,1,8,41,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:2),8-7,8,7
+0022000035,2020-12-27,CLE,PHI,3.35,1,8,39,PHI,PHI,fg_make,98,False,False,,Howard 1' Cutting Layup Shot (2 PTS) (Simmons 2 AST),8-9,8,9
+0022000035,2020-12-27,CLE,PHI,3.65,1,8,21,CLE,CLE,fg_make,58,False,False,Drummond 5' Turnaround Hook Shot (4 PTS) (Love 2 AST),,10-9,10,9
+0022000035,2020-12-27,CLE,PHI,3.85,1,8,9,PHI,PHI,fg3_miss,1,False,False,,MISS Harris 25' 3PT Jump Shot,10-9,10,9
+0022000035,2020-12-27,CLE,PHI,3.9,1,8,6,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:0 Def:2),,10-9,10,9
+0022000035,2020-12-27,CLE,PHI,4.15,1,7,51,CLE,CLE,fg_miss,44,True,False,MISS Love 1' Reverse Layup,,10-9,10,9
+0022000035,2020-12-27,CLE,PHI,4.15,1,7,51,CLE,PHI,block,44,True,False,block,block,10-9,10,9
+0022000035,2020-12-27,CLE,PHI,4.2,1,7,48,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:1 Def:2),,10-9,10,9
+0022000035,2020-12-27,CLE,PHI,4.22,1,7,47,CLE,CLE,fg_miss,1,False,False,MISS Drummond 6' Jump Shot,,10-9,10,9
+0022000035,2020-12-27,CLE,PHI,4.22,1,7,47,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:3),10-9,10,9
+0022000035,2020-12-27,CLE,PHI,4.27,1,7,44,PHI,PHI,fg3_make,1,False,False,,Curry 24' 3PT Jump Shot (3 PTS) (Harris 2 AST),10-12,10,12
+0022000035,2020-12-27,CLE,PHI,4.73,1,7,16,CLE,CLE,fg3_miss,1,False,False,MISS Garland 25' 3PT Jump Shot,,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,4.78,1,7,13,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:0 Def:1),10-12,10,12
+0022000035,2020-12-27,CLE,PHI,4.9,1,7,6,PHI,PHI,tov,1,False,True,,Harris Bad Pass Turnover (P2.T2),10-12,10,12
+0022000035,2020-12-27,CLE,PHI,4.9,1,7,6,PHI,CLE,steal,1,False,True,steal,steal,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,4.9,1,7,6,CLE,PHI,foul,28,False,False,,Curry Personal Take Foul (P1.T2) (E.Malloy),10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.07,1,6,56,CLE,CLE,fg_miss,101,False,False,MISS Garland 10' Driving Floating Jump Shot,,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.13,1,6,52,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:2),10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.25,1,6,45,PHI,PHI,fg_miss,47,False,False,,MISS Simmons 9' Turnaround Jump Shot,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.32,1,6,41,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:0 Def:1),,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.38,1,6,37,CLE,CLE,fg_miss,43,False,False,MISS Wade 1' Alley Oop Layup,,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.45,1,6,33,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:2 Def:2),,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.45,1,6,33,CLE,CLE,fg_miss,97,False,False,MISS Drummond Tip Layup Shot,,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.45,1,6,33,PHI,PHI,reb,0,False,False,,Green REBOUND (Off:0 Def:1),10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.45,1,6,33,PHI,PHI,tov,45,False,False,,Simmons Out of Bounds - Bad Pass Turnover Turnover (P1.T3),10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.45,1,6,33,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,10-12,10,12
+0022000035,2020-12-27,CLE,PHI,5.73,1,6,16,CLE,CLE,fg_make,101,False,False,Garland 8' Driving Floating Jump Shot (4 PTS),,12-12,12,12
+0022000035,2020-12-27,CLE,PHI,5.92,1,6,5,PHI,PHI,fg_make,98,False,False,,Simmons 1' Cutting Layup Shot (4 PTS) (Green 1 AST),12-14,12,14
+0022000035,2020-12-27,CLE,PHI,5.92,1,6,5,PHI,CLE,foul,2,False,False,McGee S.FOUL (P1.T2) (E.Malloy),,12-14,12,14
+0022000035,2020-12-27,CLE,PHI,5.92,1,6,5,PHI,PHI,ft_make,10,False,False,,Simmons Free Throw 1 of 1 (5 PTS),12-15,12,15
+0022000035,2020-12-27,CLE,PHI,6.22,1,5,47,CLE,CLE,fg3_make,1,False,False,Osman 25' 3PT Jump Shot (3 PTS) (McGee 1 AST),,15-15,15,15
+0022000035,2020-12-27,CLE,PHI,6.58,1,5,25,PHI,PHI,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,15-15,15,15
+0022000035,2020-12-27,CLE,PHI,6.67,1,5,20,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,15-15,15,15
+0022000035,2020-12-27,CLE,PHI,6.82,1,5,11,CLE,CLE,fg3_miss,1,False,False,MISS Garland 29' 3PT Jump Shot,,15-15,15,15
+0022000035,2020-12-27,CLE,PHI,6.87,1,5,8,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),15-15,15,15
+0022000035,2020-12-27,CLE,PHI,6.93,1,5,4,PHI,CLE,foul,2,False,False,Wade S.FOUL (P1.T3) (S.Twardoski),,15-15,15,15
+0022000035,2020-12-27,CLE,PHI,6.93,1,5,4,PHI,PHI,ft_make,11,False,False,,Simmons Free Throw 1 of 2 (6 PTS),15-16,15,16
+0022000035,2020-12-27,CLE,PHI,6.93,1,5,4,PHI,PHI,ft_make,12,False,False,,Simmons Free Throw 2 of 2 (7 PTS),15-17,15,17
+0022000035,2020-12-27,CLE,PHI,7.22,1,4,47,CLE,CLE,fg_miss,86,True,False,MISS McGee 7' Turnaround Fadeaway Shot,,15-17,15,17
+0022000035,2020-12-27,CLE,PHI,7.22,1,4,47,CLE,PHI,block,86,True,False,block,block,15-17,15,17
+0022000035,2020-12-27,CLE,PHI,7.27,1,4,44,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:3),15-17,15,17
+0022000035,2020-12-27,CLE,PHI,7.42,1,4,35,PHI,CLE,foul,1,False,False,Wade P.FOUL (P2.T4) (N.Sago),,15-17,15,17
+0022000035,2020-12-27,CLE,PHI,7.57,1,4,26,PHI,PHI,fg3_make,1,False,False,,Harris 3PT Jump Shot (8 PTS) (Curry 1 AST),15-20,15,20
+0022000035,2020-12-27,CLE,PHI,7.8,1,4,12,CLE,CLE,fg_miss,5,False,False,MISS McGee 1' Layup,,15-20,15,20
+0022000035,2020-12-27,CLE,PHI,7.85,1,4,9,PHI,PHI,reb,0,False,False,,Milton REBOUND (Off:0 Def:1),15-20,15,20
+0022000035,2020-12-27,CLE,PHI,7.88,1,4,7,CLE,PHI,foul,26,False,False,,Simmons Offensive Charge Foul (P1.T3) (N.Sago),15-20,15,20
+0022000035,2020-12-27,CLE,PHI,7.88,1,4,7,PHI,PHI,tov,37,False,False,,Simmons Offensive Foul Turnover (P2.T4),15-20,15,20
+0022000035,2020-12-27,CLE,PHI,8.08,1,3,55,CLE,CLE,fg_miss,98,True,False,MISS Osman 2' Cutting Layup Shot,,15-20,15,20
+0022000035,2020-12-27,CLE,PHI,8.08,1,3,55,CLE,PHI,block,98,True,False,block,block,15-20,15,20
+0022000035,2020-12-27,CLE,PHI,8.08,1,3,55,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:1),,15-20,15,20
+0022000035,2020-12-27,CLE,PHI,8.2,1,3,48,CLE,CLE,fg3_make,1,False,False,Osman 3PT Jump Shot (6 PTS) (Nance Jr. 2 AST),,18-20,18,20
+0022000035,2020-12-27,CLE,PHI,8.32,1,3,41,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.1 Short 0),18-20,18,20
+0022000035,2020-12-27,CLE,PHI,8.53,1,3,28,PHI,PHI,fg_miss,80,False,False,,MISS Curry 20' Step Back Jump Shot,18-20,18,20
+0022000035,2020-12-27,CLE,PHI,8.58,1,3,25,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:0 Def:2),,18-20,18,20
+0022000035,2020-12-27,CLE,PHI,8.8,1,3,12,CLE,CLE,fg3_make,1,False,False,Sexton 26' 3PT Jump Shot (5 PTS) (Nance Jr. 3 AST),,21-20,21,20
+0022000035,2020-12-27,CLE,PHI,9.13,1,2,52,CLE,PHI,foul,3,False,False,,Curry L.B.FOUL (P2.T4) (S.Twardoski),21-20,21,20
+0022000035,2020-12-27,CLE,PHI,9.13,1,2,52,PHI,PHI,tov,1,False,False,,Curry Bad Pass Turnover (P1.T5),21-20,21,20
+0022000035,2020-12-27,CLE,PHI,9.37,1,2,38,CLE,CLE,fg_make,58,False,False,McGee 9' Turnaround Hook Shot (2 PTS) (Osman 1 AST),,23-20,23,20
+0022000035,2020-12-27,CLE,PHI,9.53,1,2,28,PHI,PHI,fg_make,101,False,False,,Harris 8' Driving Floating Jump Shot (10 PTS) (Simmons 3 AST),23-22,23,22
+0022000035,2020-12-27,CLE,PHI,9.87,1,2,8,CLE,CLE,tov,1,False,True,Sexton Bad Pass Turnover (P1.T1),,23-22,23,22
+0022000035,2020-12-27,CLE,PHI,9.87,1,2,8,CLE,PHI,steal,1,False,True,steal,steal,23-22,23,22
+0022000035,2020-12-27,CLE,PHI,9.93,1,2,4,PHI,PHI,fg_make,52,False,False,,Simmons 1' Alley Oop Dunk (9 PTS) (Milton 1 AST),23-24,23,24
+0022000035,2020-12-27,CLE,PHI,10.27,1,1,44,CLE,CLE,fg_make,6,False,False,Osman 3' Driving Layup (8 PTS) (Exum 1 AST),,25-24,25,24
+0022000035,2020-12-27,CLE,PHI,10.43,1,1,34,PHI,PHI,fg_miss,101,False,False,,MISS Korkmaz 10' Driving Floating Jump Shot,25-24,25,24
+0022000035,2020-12-27,CLE,PHI,10.47,1,1,32,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:1),,25-24,25,24
+0022000035,2020-12-27,CLE,PHI,10.58,1,1,25,CLE,CLE,fg_make,79,False,False,Sexton 14' Pullup Jump Shot (7 PTS),,27-24,27,24
+0022000035,2020-12-27,CLE,PHI,10.92,1,1,5,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 3PT Jump Shot,27-24,27,24
+0022000035,2020-12-27,CLE,PHI,10.97,1,1,2,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:0 Def:3),,27-24,27,24
+0022000035,2020-12-27,CLE,PHI,11.05,1,0,57,CLE,CLE,fg_make,58,False,False,Love 7' Turnaround Hook Shot (4 PTS) (Sexton 1 AST),,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.22,1,0,47,PHI,PHI,fg_miss,6,True,False,,MISS Harris 7' Driving Layup,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.22,1,0,47,PHI,CLE,block,6,True,False,block,block,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.22,1,0,47,PHI,PHI,reb,0,False,False,,76ers Rebound,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.45,1,0,33,PHI,PHI,fg_miss,5,True,False,,MISS Bradley 3' Layup,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.45,1,0,33,PHI,CLE,block,5,True,False,block,block,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.5,1,0,30,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:2),,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.72,1,0,17,CLE,CLE,fg3_miss,1,False,False,MISS Osman 24' 3PT Jump Shot,,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,11.77,1,0,14,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:4),29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.0,1,0,0,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 3PT Jump Shot,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.0,1,0,0,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:1 Def:1),29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.0,1,0,0,PHI,PHI,fg_miss,97,False,False,,MISS Bradley Tip Layup Shot,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.0,1,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.0,1,0,0,PHI,,period_end,0,False,False,,,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.0,2,12,0,PHI,,period_start,0,False,False,,,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.22,2,11,47,PHI,CLE,foul,2,False,False,Exum S.FOUL (P1.T1) (S.Twardoski),,29-24,29,24
+0022000035,2020-12-27,CLE,PHI,12.22,2,11,47,PHI,PHI,ft_make,11,False,False,,Korkmaz Free Throw 1 of 2 (1 PTS),29-25,29,25
+0022000035,2020-12-27,CLE,PHI,12.22,2,11,47,PHI,PHI,ft_make,12,False,False,,Korkmaz Free Throw 2 of 2 (2 PTS),29-26,29,26
+0022000035,2020-12-27,CLE,PHI,12.47,2,11,32,CLE,CLE,fg_miss,79,False,False,MISS Sexton 5' Pullup Jump Shot,,29-26,29,26
+0022000035,2020-12-27,CLE,PHI,12.53,2,11,28,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:3 Def:2),,29-26,29,26
+0022000035,2020-12-27,CLE,PHI,12.53,2,11,28,CLE,CLE,fg_make,97,False,False,Drummond Tip Layup Shot (6 PTS),,31-26,31,26
+0022000035,2020-12-27,CLE,PHI,12.8,2,11,12,PHI,PHI,fg3_miss,1,False,False,,MISS Milton 24' 3PT Jump Shot,31-26,31,26
+0022000035,2020-12-27,CLE,PHI,12.83,2,11,10,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:2),,31-26,31,26
+0022000035,2020-12-27,CLE,PHI,13.02,2,10,59,CLE,CLE,fg_miss,66,False,False,MISS Love 6' Jump Bank Shot,,31-26,31,26
+0022000035,2020-12-27,CLE,PHI,13.05,2,10,57,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,31-26,31,26
+0022000035,2020-12-27,CLE,PHI,13.07,2,10,56,CLE,PHI,foul,14,False,False,,Howard FLAGRANT.FOUL.TYPE1 (P2.T1) (E.Malloy),31-26,31,26
+0022000035,2020-12-27,CLE,PHI,13.07,2,10,56,CLE,CLE,ft_make,18,False,False,Sexton Free Throw Flagrant 1 of 2 (8 PTS),,32-26,32,26
+0022000035,2020-12-27,CLE,PHI,13.07,2,10,56,CLE,CLE,ft_make,19,False,False,Sexton Free Throw Flagrant 2 of 2 (9 PTS),,33-26,33,26
+0022000035,2020-12-27,CLE,PHI,13.23,2,10,46,CLE,CLE,fg_make,1,False,False,Dotson 16' Jump Shot (2 PTS) (Exum 2 AST),,35-26,35,26
+0022000035,2020-12-27,CLE,PHI,13.4,2,10,36,PHI,CLE,foul,1,False,False,Sexton P.FOUL (P1.T2) (E.Malloy),,35-26,35,26
+0022000035,2020-12-27,CLE,PHI,13.52,2,10,29,PHI,PHI,fg_make,63,False,False,,Milton 9' Fadeaway Jumper (2 PTS),35-28,35,28
+0022000035,2020-12-27,CLE,PHI,13.7,2,10,18,CLE,CLE,fg3_make,1,False,False,Nance Jr. 26' 3PT Jump Shot (3 PTS) (Garland 2 AST),,38-28,38,28
+0022000035,2020-12-27,CLE,PHI,14.0,2,10,0,PHI,PHI,fg3_miss,1,False,False,,MISS Maxey 24' 3PT Jump Shot,38-28,38,28
+0022000035,2020-12-27,CLE,PHI,14.03,2,9,58,PHI,PHI,reb,0,False,False,,Scott REBOUND (Off:1 Def:0),38-28,38,28
+0022000035,2020-12-27,CLE,PHI,14.05,2,9,57,PHI,PHI,fg_make,72,False,False,,Scott 1' Putback Layup (2 PTS),38-30,38,30
+0022000035,2020-12-27,CLE,PHI,14.25,2,9,45,CLE,CLE,fg_miss,101,False,False,MISS Sexton 7' Driving Floating Jump Shot,,38-30,38,30
+0022000035,2020-12-27,CLE,PHI,14.33,2,9,40,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:4 Def:2),,38-30,38,30
+0022000035,2020-12-27,CLE,PHI,14.52,2,9,29,CLE,CLE,fg_make,97,False,False,Drummond 3' Tip Layup Shot (8 PTS),,40-30,40,30
+0022000035,2020-12-27,CLE,PHI,14.58,2,9,25,PHI,CLE,foul,1,False,False,Garland P.FOUL (P1.T3) (E.Malloy),,40-30,40,30
+0022000035,2020-12-27,CLE,PHI,14.8,2,9,12,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 26' 3PT Jump Shot,40-30,40,30
+0022000035,2020-12-27,CLE,PHI,14.83,2,9,10,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:1 Def:1),40-30,40,30
+0022000035,2020-12-27,CLE,PHI,14.85,2,9,9,PHI,PHI,fg_make,72,False,False,,Howard 1' Putback Layup (4 PTS),40-32,40,32
+0022000035,2020-12-27,CLE,PHI,15.2,2,8,48,CLE,CLE,fg_make,108,False,False,Nance Jr. 1' Cutting Dunk Shot (5 PTS) (Sexton 2 AST),,42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.4,2,8,36,PHI,PHI,fg_miss,101,True,False,,MISS Milton 8' Driving Floating Jump Shot,42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.4,2,8,36,PHI,CLE,block,101,True,False,block,block,42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.4,2,8,36,PHI,PHI,reb,0,False,False,,76ers Rebound,42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.53,2,8,28,PHI,PHI,tov,45,False,False,,Howard Out of Bounds - Bad Pass Turnover Turnover (P1.T6),42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.78,2,8,13,CLE,CLE,tov,1,False,True,Nance Jr. Bad Pass Turnover (P1.T2),,42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.78,2,8,13,CLE,PHI,steal,1,False,True,steal,steal,42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.88,2,8,7,PHI,PHI,tov,1,False,True,,Scott Bad Pass Turnover (P1.T7),42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.88,2,8,7,PHI,CLE,steal,1,False,True,steal,steal,42-32,42,32
+0022000035,2020-12-27,CLE,PHI,15.97,2,8,2,CLE,CLE,fg3_make,1,False,False,Dotson 26' 3PT Jump Shot (5 PTS) (Garland 3 AST),,45-32,45,32
+0022000035,2020-12-27,CLE,PHI,16.1,2,7,54,CLE,PHI,foul,4,False,False,,Howard OFF.Foul (P3) (N.Sago),45-32,45,32
+0022000035,2020-12-27,CLE,PHI,16.1,2,7,54,PHI,PHI,tov,37,False,False,,Howard Offensive Foul Turnover (P2.T8),45-32,45,32
+0022000035,2020-12-27,CLE,PHI,16.25,2,7,45,CLE,CLE,fg_make,6,False,False,Drummond 1' Driving Layup (10 PTS) (Osman 2 AST),,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.25,2,7,45,CLE,PHI,foul,2,False,False,,Bradley S.FOUL (P1.T2) (N.Sago),47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.25,2,7,45,CLE,CLE,ft_miss,10,False,False,MISS Drummond Free Throw 1 of 1,,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.3,2,7,42,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:4),47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.47,2,7,32,PHI,PHI,fg_miss,5,False,False,,MISS Bradley 4' Layup,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.5,2,7,30,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:4 Def:3),,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.62,2,7,23,CLE,CLE,fg3_miss,1,False,False,MISS Osman 3PT Jump Shot,,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.67,2,7,20,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:5),47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.73,2,7,16,PHI,PHI,fg_miss,101,True,False,,MISS Simmons 6' Driving Floating Jump Shot,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.73,2,7,16,PHI,CLE,block,101,True,False,block,block,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.8,2,7,12,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:4 Def:4),,47-32,47,32
+0022000035,2020-12-27,CLE,PHI,16.83,2,7,10,CLE,CLE,fg_make,50,False,False,Nance Jr. 1' Running Dunk (7 PTS) (Garland 4 AST),,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,16.83,2,7,10,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.2 Short 0),49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.2,2,6,48,PHI,PHI,fg_miss,102,False,False,,MISS Curry 6' Driving Floating Bank Jump Shot,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.2,2,6,48,PHI,PHI,reb,0,False,False,,76ers Rebound,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.2,2,6,48,PHI,CLE,foul,3,False,False,Nance Jr. L.B.FOUL (P1.T4) (S.Twardoski),,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.45,2,6,33,PHI,PHI,fg_miss,101,False,False,,MISS Simmons 2' Driving Floating Jump Shot,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.45,2,6,33,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:2 Def:1),49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.45,2,6,33,PHI,PHI,fg_miss,97,False,False,,MISS Bradley Tip Layup Shot,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.45,2,6,33,PHI,PHI,reb,0,False,False,,76ers Rebound,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.55,2,6,27,PHI,PHI,fg_miss,101,False,False,,MISS Harris 8' Driving Floating Jump Shot,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.6,2,6,24,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:3 Def:1),49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.62,2,6,23,PHI,PHI,fg_miss,72,True,False,,MISS Bradley 2' Putback Layup,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.62,2,6,23,PHI,CLE,block,72,True,False,block,block,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.67,2,6,20,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:4 Def:5),,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.8,2,6,12,CLE,CLE,fg_miss,101,False,False,MISS Garland 7' Driving Floating Jump Shot,,49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.85,2,6,9,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:5),49-32,49,32
+0022000035,2020-12-27,CLE,PHI,17.88,2,6,7,PHI,PHI,fg_make,50,False,False,,Simmons 1' Running Dunk (11 PTS),49-34,49,34
+0022000035,2020-12-27,CLE,PHI,18.23,2,5,46,CLE,CLE,fg_miss,44,False,False,MISS Garland 1' Reverse Layup,,49-34,49,34
+0022000035,2020-12-27,CLE,PHI,18.35,2,5,39,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:5 Def:5),,49-34,49,34
+0022000035,2020-12-27,CLE,PHI,18.35,2,5,39,CLE,CLE,fg_make,73,False,False,Drummond Driving Reverse Layup (12 PTS),,51-34,51,34
+0022000035,2020-12-27,CLE,PHI,18.55,2,5,27,PHI,PHI,fg_make,108,False,False,,Bradley 1' Cutting Dunk Shot (2 PTS) (Harris 3 AST),51-36,51,36
+0022000035,2020-12-27,CLE,PHI,18.88,2,5,7,CLE,CLE,fg_miss,1,False,False,MISS Drummond 3' Jump Shot,,51-36,51,36
+0022000035,2020-12-27,CLE,PHI,18.92,2,5,5,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:6),51-36,51,36
+0022000035,2020-12-27,CLE,PHI,19.0,2,5,0,PHI,PHI,tov,2,False,True,,Harris Lost Ball Turnover (P3.T9),51-36,51,36
+0022000035,2020-12-27,CLE,PHI,19.0,2,5,0,PHI,CLE,steal,2,False,True,steal,steal,51-36,51,36
+0022000035,2020-12-27,CLE,PHI,19.05,2,4,57,CLE,CLE,fg_make,76,False,False,Drummond 2' Running Finger Roll Layup (14 PTS) (Garland 5 AST),,53-36,53,36
+0022000035,2020-12-27,CLE,PHI,19.05,2,4,57,CLE,PHI,foul,2,False,False,,Harris S.FOUL (P1.T3) (N.Sago),53-36,53,36
+0022000035,2020-12-27,CLE,PHI,19.05,2,4,57,CLE,CLE,ft_make,10,False,False,Drummond Free Throw 1 of 1 (15 PTS),,54-36,54,36
+0022000035,2020-12-27,CLE,PHI,19.37,2,4,38,PHI,PHI,tov,2,False,True,,Simmons Lost Ball Turnover (P3.T10),54-36,54,36
+0022000035,2020-12-27,CLE,PHI,19.37,2,4,38,PHI,CLE,steal,2,False,True,steal,steal,54-36,54,36
+0022000035,2020-12-27,CLE,PHI,19.4,2,4,36,CLE,PHI,foul,1,False,False,,Simmons P.FOUL (P2.T4) (S.Twardoski),54-36,54,36
+0022000035,2020-12-27,CLE,PHI,19.48,2,4,31,CLE,CLE,tov,1,False,False,Osman Bad Pass Turnover (P1.T3),,54-36,54,36
+0022000035,2020-12-27,CLE,PHI,19.48,2,4,31,PHI,CLE,foul,3,False,False,Osman L.B.FOUL (P1.PN) (E.Malloy),,54-36,54,36
+0022000035,2020-12-27,CLE,PHI,19.48,2,4,31,PHI,PHI,ft_make,11,False,False,,Green Free Throw 1 of 2 (1 PTS),54-37,54,37
+0022000035,2020-12-27,CLE,PHI,19.48,2,4,31,PHI,PHI,ft_make,12,False,False,,Green Free Throw 2 of 2 (2 PTS),54-38,54,38
+0022000035,2020-12-27,CLE,PHI,19.83,2,4,10,CLE,CLE,fg3_make,1,False,False,Nance Jr. 28' 3PT Jump Shot (10 PTS) (McGee 2 AST),,57-38,57,38
+0022000035,2020-12-27,CLE,PHI,20.03,2,3,58,PHI,PHI,fg3_make,1,False,False,,Harris 26' 3PT Jump Shot (13 PTS) (Simmons 4 AST),57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.23,2,3,46,CLE,CLE,fg3_miss,1,False,False,MISS Nance Jr. 28' 3PT Jump Shot,,57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.3,2,3,42,PHI,PHI,reb,0,False,False,,Green REBOUND (Off:0 Def:2),57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.37,2,3,38,PHI,CLE,foul,1,False,False,Osman P.FOUL (P2.PN) (S.Twardoski),,57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.37,2,3,38,PHI,PHI,ft_miss,11,False,False,,MISS Simmons Free Throw 1 of 2,57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.37,2,3,38,PHI,PHI,reb,1,False,False,,76ers Rebound,57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.37,2,3,38,PHI,PHI,ft_miss,12,False,False,,MISS Simmons Free Throw 2 of 2,57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.42,2,3,35,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:1),,57-41,57,41
+0022000035,2020-12-27,CLE,PHI,20.55,2,3,27,CLE,CLE,fg_make,79,False,False,Sexton 8' Pullup Jump Shot (11 PTS),,59-41,59,41
+0022000035,2020-12-27,CLE,PHI,20.8,2,3,12,PHI,CLE,foul,2,False,False,Osman S.FOUL (P3.PN) (N.Sago),,59-41,59,41
+0022000035,2020-12-27,CLE,PHI,20.8,2,3,12,PHI,PHI,ft_make,11,False,False,,Curry Free Throw 1 of 2 (4 PTS),59-42,59,42
+0022000035,2020-12-27,CLE,PHI,20.8,2,3,12,PHI,PHI,ft_make,12,False,False,,Curry Free Throw 2 of 2 (5 PTS),59-43,59,43
+0022000035,2020-12-27,CLE,PHI,21.23,2,2,46,CLE,CLE,fg_miss,63,True,False,MISS Sexton 11' Fadeaway Jumper,,59-43,59,43
+0022000035,2020-12-27,CLE,PHI,21.23,2,2,46,CLE,PHI,block,63,True,False,block,block,59-43,59,43
+0022000035,2020-12-27,CLE,PHI,21.3,2,2,42,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:7),59-43,59,43
+0022000035,2020-12-27,CLE,PHI,21.33,2,2,40,PHI,PHI,tov,2,False,True,,Simmons Lost Ball Turnover (P4.T11),59-43,59,43
+0022000035,2020-12-27,CLE,PHI,21.33,2,2,40,PHI,CLE,steal,2,False,True,steal,steal,59-43,59,43
+0022000035,2020-12-27,CLE,PHI,21.45,2,2,33,CLE,CLE,fg_make,5,False,False,Sexton 1' Layup (13 PTS) (Nance Jr. 4 AST),,61-43,61,43
+0022000035,2020-12-27,CLE,PHI,21.82,2,2,11,PHI,PHI,fg3_make,1,False,False,,Scott 26' 3PT Jump Shot (5 PTS) (Harris 4 AST),61-46,61,46
+0022000035,2020-12-27,CLE,PHI,22.27,2,1,44,CLE,CLE,fg3_make,1,False,False,McGee 25' 3PT Jump Shot (5 PTS) (Sexton 3 AST),,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.45,2,1,33,PHI,PHI,fg3_miss,1,False,False,,MISS Curry 25' 3PT Jump Shot,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.5,2,1,30,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:2),,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.65,2,1,21,CLE,CLE,tov,1,False,True,Dotson Bad Pass Turnover (P1.T4),,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.65,2,1,21,CLE,PHI,steal,1,False,True,steal,steal,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.75,2,1,15,PHI,PHI,fg3_miss,1,False,False,,MISS Scott 24' 3PT Jump Shot,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.8,2,1,12,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:0 Def:4),,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.9,2,1,6,CLE,CLE,fg_miss,44,False,False,MISS Dotson 1' Reverse Layup,,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,22.95,2,1,3,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:8),64-46,64,46
+0022000035,2020-12-27,CLE,PHI,23.03,2,0,58,PHI,PHI,fg3_miss,1,False,False,,MISS Scott 26' 3PT Jump Shot,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,23.08,2,0,55,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:0 Def:5),,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,23.3,2,0,42,CLE,CLE,fg3_miss,1,False,False,MISS McGee 26' 3PT Jump Shot,,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,23.35,2,0,39,PHI,PHI,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),64-46,64,46
+0022000035,2020-12-27,CLE,PHI,23.45,2,0,33,PHI,PHI,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,64-46,64,46
+0022000035,2020-12-27,CLE,PHI,23.48,2,0,31,PHI,PHI,reb,0,False,False,,Green REBOUND (Off:1 Def:2),64-46,64,46
+0022000035,2020-12-27,CLE,PHI,23.48,2,0,31,PHI,PHI,fg_make,72,False,False,,Green 1' Putback Layup (4 PTS),64-48,64,48
+0022000035,2020-12-27,CLE,PHI,23.92,2,0,5,CLE,CLE,fg3_miss,1,False,False,MISS Exum 24' 3PT Jump Shot,,64-48,64,48
+0022000035,2020-12-27,CLE,PHI,23.95,2,0,3,PHI,PHI,reb,0,False,False,,Scott REBOUND (Off:1 Def:1),64-48,64,48
+0022000035,2020-12-27,CLE,PHI,23.95,2,0,3,PHI,CLE,foul,1,False,False,McGee P.FOUL (P2.PN) (S.Twardoski),,64-48,64,48
+0022000035,2020-12-27,CLE,PHI,23.95,2,0,3,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 2 Short 0),,64-48,64,48
+0022000035,2020-12-27,CLE,PHI,23.95,2,0,3,CLE,PHI,ft_make,11,False,False,,Simmons Free Throw 1 of 2 (12 PTS),64-49,64,49
+0022000035,2020-12-27,CLE,PHI,23.95,2,0,3,CLE,PHI,ft_make,12,False,False,,Simmons Free Throw 2 of 2 (13 PTS),64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.0,2,0,0,CLE,CLE,tov,45,False,False,McGee Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.0,2,0,0,CLE,,period_end,0,False,False,,,64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.0,3,12,0,CLE,,period_start,0,False,False,,,64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.33,3,11,40,PHI,PHI,tov,1,False,True,,Simmons Bad Pass Turnover (P5.T12),64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.33,3,11,40,PHI,CLE,steal,1,False,True,steal,steal,64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.45,3,11,33,CLE,CLE,fg_miss,5,False,False,MISS Garland 1' Layup,,64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.52,3,11,29,CLE,CLE,reb,0,False,False,Exum REBOUND (Off:1 Def:0),,64-50,64,50
+0022000035,2020-12-27,CLE,PHI,24.52,3,11,29,CLE,CLE,fg_make,97,False,False,Exum Tip Layup Shot (2 PTS),,66-50,66,50
+0022000035,2020-12-27,CLE,PHI,24.73,3,11,16,PHI,CLE,foul,2,False,False,Nance Jr. S.FOUL (P2.T1) (N.Sago),,66-50,66,50
+0022000035,2020-12-27,CLE,PHI,24.73,3,11,16,PHI,PHI,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,66-50,66,50
+0022000035,2020-12-27,CLE,PHI,24.73,3,11,16,PHI,PHI,reb,1,False,False,,76ers Rebound,66-50,66,50
+0022000035,2020-12-27,CLE,PHI,24.73,3,11,16,PHI,PHI,ft_make,12,False,False,,Howard Free Throw 2 of 2 (5 PTS),66-51,66,51
+0022000035,2020-12-27,CLE,PHI,24.88,3,11,7,CLE,CLE,tov,1,False,True,Garland Bad Pass Turnover (P1.T6),,66-51,66,51
+0022000035,2020-12-27,CLE,PHI,24.88,3,11,7,CLE,PHI,steal,1,False,True,steal,steal,66-51,66,51
+0022000035,2020-12-27,CLE,PHI,25.03,3,10,58,PHI,PHI,fg_make,7,False,False,,Howard Dunk (7 PTS) (Curry 2 AST),66-53,66,53
+0022000035,2020-12-27,CLE,PHI,25.27,3,10,44,CLE,PHI,foul,1,False,False,,Howard P.FOUL (P4.T1) (E.Malloy),66-53,66,53
+0022000035,2020-12-27,CLE,PHI,25.42,3,10,35,CLE,CLE,fg_make,108,False,False,Exum 1' Cutting Dunk Shot (4 PTS) (Drummond 2 AST),,68-53,68,53
+0022000035,2020-12-27,CLE,PHI,25.57,3,10,26,PHI,PHI,tov,40,False,False,,Simmons Out of Bounds Lost Ball Turnover (P6.T13),68-53,68,53
+0022000035,2020-12-27,CLE,PHI,25.92,3,10,5,CLE,CLE,fg_make,1,False,False,Drummond 7' Jump Shot (17 PTS) (Exum 3 AST),,70-53,70,53
+0022000035,2020-12-27,CLE,PHI,26.12,3,9,53,PHI,PHI,tov,1,False,True,,Green Bad Pass Turnover (P1.T14),70-53,70,53
+0022000035,2020-12-27,CLE,PHI,26.12,3,9,53,PHI,CLE,steal,1,False,True,steal,steal,70-53,70,53
+0022000035,2020-12-27,CLE,PHI,26.17,3,9,50,CLE,CLE,fg_make,76,False,False,Drummond 2' Running Finger Roll Layup (19 PTS),,72-53,72,53
+0022000035,2020-12-27,CLE,PHI,26.17,3,9,50,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.3 Short 0),72-53,72,53
+0022000035,2020-12-27,CLE,PHI,26.28,3,9,43,PHI,PHI,tov,45,False,False,,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T15),72-53,72,53
+0022000035,2020-12-27,CLE,PHI,26.43,3,9,34,CLE,PHI,foul,2,False,False,,Green S.FOUL (P1.T2) (N.Sago),72-53,72,53
+0022000035,2020-12-27,CLE,PHI,26.43,3,9,34,CLE,CLE,ft_make,11,False,False,Sexton Free Throw 1 of 2 (14 PTS),,73-53,73,53
+0022000035,2020-12-27,CLE,PHI,26.43,3,9,34,CLE,CLE,ft_make,12,False,False,Sexton Free Throw 2 of 2 (15 PTS),,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,26.77,3,9,14,PHI,PHI,fg_miss,79,False,False,,MISS Harris 16' Pullup Jump Shot,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,26.8,3,9,12,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:3),,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,26.87,3,9,8,CLE,CLE,fg3_miss,1,False,False,MISS Garland 26' 3PT Jump Shot,,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,26.92,3,9,5,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:6 Def:5),,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,26.93,3,9,4,CLE,CLE,fg_miss,72,False,False,MISS Drummond 2' Putback Layup,,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,26.97,3,9,2,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:1 Def:2),,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,27.12,3,8,53,CLE,CLE,fg_miss,6,False,False,MISS Drummond 1' Driving Layup,,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,27.15,3,8,51,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:1 Def:2),74-53,74,53
+0022000035,2020-12-27,CLE,PHI,27.17,3,8,50,PHI,PHI,tov,1,False,True,,Howard Bad Pass Turnover (P3.T16),74-53,74,53
+0022000035,2020-12-27,CLE,PHI,27.17,3,8,50,PHI,CLE,steal,1,False,True,steal,steal,74-53,74,53
+0022000035,2020-12-27,CLE,PHI,27.25,3,8,45,CLE,CLE,fg_make,9,False,False,Exum 5' Driving Dunk (6 PTS),,76-53,76,53
+0022000035,2020-12-27,CLE,PHI,27.45,3,8,33,PHI,CLE,foul,1,False,False,Nance Jr. P.FOUL (P3.T2) (N.Sago),,76-53,76,53
+0022000035,2020-12-27,CLE,PHI,27.65,3,8,21,PHI,PHI,fg3_make,1,False,False,,Curry 25' 3PT Jump Shot (8 PTS) (Milton 2 AST),76-56,76,56
+0022000035,2020-12-27,CLE,PHI,28.12,3,7,53,CLE,CLE,fg_miss,58,False,False,MISS Drummond 5' Turnaround Hook Shot,,76-56,76,56
+0022000035,2020-12-27,CLE,PHI,28.13,3,7,52,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:6),76-56,76,56
+0022000035,2020-12-27,CLE,PHI,28.43,3,7,34,PHI,PHI,fg3_make,1,False,False,,Harris 25' 3PT Jump Shot (16 PTS) (Curry 3 AST),76-59,76,59
+0022000035,2020-12-27,CLE,PHI,28.83,3,7,10,CLE,CLE,fg_make,101,False,False,Garland 12' Driving Floating Jump Shot (6 PTS),,78-59,78,59
+0022000035,2020-12-27,CLE,PHI,28.93,3,7,4,CLE,PHI,foul,4,False,False,,Scott OFF.Foul (P1) (E.Malloy),78-59,78,59
+0022000035,2020-12-27,CLE,PHI,28.93,3,7,4,PHI,PHI,tov,37,False,False,,Scott Offensive Foul Turnover (P2.T17),78-59,78,59
+0022000035,2020-12-27,CLE,PHI,28.93,3,7,4,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.4 Short 0),78-59,78,59
+0022000035,2020-12-27,CLE,PHI,29.08,3,6,55,CLE,CLE,tov,1,False,True,Nance Jr. Bad Pass Turnover (P2.T7),,78-59,78,59
+0022000035,2020-12-27,CLE,PHI,29.08,3,6,55,CLE,PHI,steal,1,False,True,steal,steal,78-59,78,59
+0022000035,2020-12-27,CLE,PHI,29.25,3,6,45,PHI,PHI,fg_miss,1,False,False,,MISS Milton 15' Jump Shot,78-59,78,59
+0022000035,2020-12-27,CLE,PHI,29.3,3,6,42,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:6 Def:6),,78-59,78,59
+0022000035,2020-12-27,CLE,PHI,29.45,3,6,33,CLE,CLE,fg_make,6,False,False,Garland 2' Driving Layup (8 PTS),,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,29.73,3,6,16,PHI,PHI,tov,1,False,True,,Milton Bad Pass Turnover (P1.T18),80-59,80,59
+0022000035,2020-12-27,CLE,PHI,29.73,3,6,16,PHI,CLE,steal,1,False,True,steal,steal,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,29.97,3,6,2,CLE,CLE,tov,1,False,True,Drummond Bad Pass Turnover (P1.T8),,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,29.97,3,6,2,CLE,PHI,steal,1,False,True,steal,steal,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,30.0,3,6,0,PHI,CLE,foul,1,False,False,Exum P.FOUL (P2.T3) (E.Malloy),,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,30.08,3,5,55,PHI,CLE,foul,1,False,False,Exum P.FOUL (P3.T4) (N.Sago),,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,30.18,3,5,49,PHI,PHI,fg3_miss,1,False,False,,MISS Scott 29' 3PT Jump Shot,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,30.25,3,5,45,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:0 Def:1),,80-59,80,59
+0022000035,2020-12-27,CLE,PHI,30.32,3,5,41,CLE,PHI,foul,2,False,False,,Scott S.FOUL (P2.T3) (N.Sago),80-59,80,59
+0022000035,2020-12-27,CLE,PHI,30.32,3,5,41,CLE,CLE,ft_make,11,False,False,Drummond Free Throw 1 of 2 (20 PTS),,81-59,81,59
+0022000035,2020-12-27,CLE,PHI,30.32,3,5,41,CLE,CLE,ft_miss,12,False,False,MISS Drummond Free Throw 2 of 2,,81-59,81,59
+0022000035,2020-12-27,CLE,PHI,30.37,3,5,38,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:9),81-59,81,59
+0022000035,2020-12-27,CLE,PHI,30.7,3,5,18,PHI,PHI,tov,2,False,True,,Scott Lost Ball Turnover (P3.T19),81-59,81,59
+0022000035,2020-12-27,CLE,PHI,30.7,3,5,18,PHI,CLE,steal,2,False,True,steal,steal,81-59,81,59
+0022000035,2020-12-27,CLE,PHI,30.72,3,5,17,CLE,PHI,foul,9,False,False,,Milton C.P.FOUL (P1.T4) (E.Malloy),81-59,81,59
+0022000035,2020-12-27,CLE,PHI,30.72,3,5,17,CLE,CLE,ft_make,25,False,False,Osman Free Throw Clear Path 1 of 2 (9 PTS),,82-59,82,59
+0022000035,2020-12-27,CLE,PHI,30.72,3,5,17,CLE,CLE,ft_make,26,False,False,Osman Free Throw Clear Path 2 of 2 (10 PTS),,83-59,83,59
+0022000035,2020-12-27,CLE,PHI,30.93,3,5,4,CLE,CLE,fg_make,101,False,False,Garland 4' Driving Floating Jump Shot (10 PTS),,85-59,85,59
+0022000035,2020-12-27,CLE,PHI,31.23,3,4,46,PHI,PHI,fg3_make,1,False,False,,Milton 28' 3PT Jump Shot (5 PTS) (Harris 5 AST),85-62,85,62
+0022000035,2020-12-27,CLE,PHI,31.5,3,4,30,CLE,CLE,fg_miss,58,False,False,MISS McGee 7' Turnaround Hook Shot,,85-62,85,62
+0022000035,2020-12-27,CLE,PHI,31.55,3,4,27,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:1),85-62,85,62
+0022000035,2020-12-27,CLE,PHI,31.65,3,4,21,PHI,PHI,fg_make,6,False,False,,Maxey 1' Driving Layup (2 PTS) (Korkmaz 1 AST),85-64,85,64
+0022000035,2020-12-27,CLE,PHI,31.93,3,4,4,CLE,PHI,foul,1,False,False,,Maxey P.FOUL (P1.PN) (N.Sago),85-64,85,64
+0022000035,2020-12-27,CLE,PHI,31.93,3,4,4,CLE,CLE,ft_make,11,False,False,McGee Free Throw 1 of 2 (6 PTS),,86-64,86,64
+0022000035,2020-12-27,CLE,PHI,31.93,3,4,4,CLE,CLE,ft_make,12,False,False,McGee Free Throw 2 of 2 (7 PTS),,87-64,87,64
+0022000035,2020-12-27,CLE,PHI,32.17,3,3,50,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 25' 3PT Jump Shot,87-64,87,64
+0022000035,2020-12-27,CLE,PHI,32.25,3,3,45,PHI,PHI,reb,0,False,False,,Scott REBOUND (Off:2 Def:1),87-64,87,64
+0022000035,2020-12-27,CLE,PHI,32.28,3,3,43,PHI,PHI,fg3_miss,1,False,False,,MISS Maxey 27' 3PT Jump Shot,87-64,87,64
+0022000035,2020-12-27,CLE,PHI,32.33,3,3,40,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:0 Def:2),,87-64,87,64
+0022000035,2020-12-27,CLE,PHI,32.45,3,3,33,CLE,PHI,foul,2,False,False,,Milton S.FOUL (P2.PN) (E.Malloy),87-64,87,64
+0022000035,2020-12-27,CLE,PHI,32.45,3,3,33,CLE,CLE,ft_make,11,False,False,Sexton Free Throw 1 of 2 (16 PTS),,88-64,88,64
+0022000035,2020-12-27,CLE,PHI,32.45,3,3,33,CLE,CLE,ft_miss,12,False,False,MISS Sexton Free Throw 2 of 2,,88-64,88,64
+0022000035,2020-12-27,CLE,PHI,32.48,3,3,31,PHI,PHI,reb,0,False,False,,76ers Rebound,88-64,88,64
+0022000035,2020-12-27,CLE,PHI,32.8,3,3,12,PHI,CLE,foul,2,False,False,Osman S.FOUL (P4.PN) (E.Malloy),,88-64,88,64
+0022000035,2020-12-27,CLE,PHI,32.8,3,3,12,PHI,PHI,ft_miss,11,False,False,,MISS Scott Free Throw 1 of 2,88-64,88,64
+0022000035,2020-12-27,CLE,PHI,32.8,3,3,12,PHI,PHI,reb,1,False,False,,76ers Rebound,88-64,88,64
+0022000035,2020-12-27,CLE,PHI,32.8,3,3,12,PHI,PHI,ft_make,12,False,False,,Scott Free Throw 2 of 2 (6 PTS),88-65,88,65
+0022000035,2020-12-27,CLE,PHI,32.93,3,3,4,CLE,CLE,tov,4,False,False,McGee Traveling Turnover (P2.T9),,88-65,88,65
+0022000035,2020-12-27,CLE,PHI,33.23,3,2,46,PHI,PHI,fg_miss,6,False,False,,MISS Maxey 2' Driving Layup,88-65,88,65
+0022000035,2020-12-27,CLE,PHI,33.28,3,2,43,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:2),,88-65,88,65
+0022000035,2020-12-27,CLE,PHI,33.42,3,2,35,CLE,CLE,fg3_make,1,False,False,Wade 3PT Jump Shot (3 PTS) (Dotson 1 AST),,91-65,91,65
+0022000035,2020-12-27,CLE,PHI,33.45,3,2,33,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.5 Short 0),91-65,91,65
+0022000035,2020-12-27,CLE,PHI,33.73,3,2,16,PHI,PHI,fg3_make,1,False,False,,Scott 26' 3PT Jump Shot (9 PTS) (Maxey 1 AST),91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.05,3,1,57,CLE,CLE,fg_miss,79,False,False,MISS Sexton 12' Pullup Jump Shot,,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.08,3,1,55,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:2),91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.15,3,1,51,PHI,PHI,fg3_miss,1,False,False,,MISS Milton 3PT Jump Shot,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.2,3,1,48,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:0 Def:6),,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.6,3,1,24,CLE,CLE,fg_miss,1,False,False,MISS Sexton 21' Jump Shot,,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.63,3,1,22,PHI,PHI,reb,0,False,False,,Thybulle REBOUND (Off:0 Def:1),91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.83,3,1,10,PHI,PHI,fg_miss,6,True,False,,MISS Maxey 2' Driving Layup,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.83,3,1,10,PHI,CLE,block,6,True,False,block,block,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.83,3,1,10,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.98,3,1,1,CLE,CLE,tov,1,False,True,Nance Jr. Bad Pass Turnover (P3.T10),,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,34.98,3,1,1,CLE,PHI,steal,1,False,True,steal,steal,91-68,91,68
+0022000035,2020-12-27,CLE,PHI,35.0,3,1,0,PHI,PHI,fg_make,6,False,False,,Korkmaz 1' Driving Layup (4 PTS),91-70,91,70
+0022000035,2020-12-27,CLE,PHI,35.4,3,0,36,CLE,CLE,tov,1,False,True,Wade Bad Pass Turnover (P1.T11),,91-70,91,70
+0022000035,2020-12-27,CLE,PHI,35.4,3,0,36,CLE,PHI,steal,1,False,True,steal,steal,91-70,91,70
+0022000035,2020-12-27,CLE,PHI,35.48,3,0,31,PHI,PHI,tov,1,False,True,,Korkmaz Bad Pass Turnover (P1.T20),91-70,91,70
+0022000035,2020-12-27,CLE,PHI,35.48,3,0,31,PHI,CLE,steal,1,False,True,steal,steal,91-70,91,70
+0022000035,2020-12-27,CLE,PHI,35.8,3,0,12,CLE,CLE,fg_make,79,False,False,Sexton 18' Pullup Jump Shot (18 PTS),,93-70,93,70
+0022000035,2020-12-27,CLE,PHI,35.95,3,0,3,PHI,PHI,fg_make,6,False,False,,Maxey 1' Driving Layup (4 PTS),93-72,93,72
+0022000035,2020-12-27,CLE,PHI,36.0,3,0,0,PHI,,period_end,0,False,False,,,93-72,93,72
+0022000035,2020-12-27,CLE,PHI,36.0,4,12,0,PHI,,period_start,0,False,False,,,93-72,93,72
+0022000035,2020-12-27,CLE,PHI,36.3,4,11,42,CLE,CLE,fg_make,6,False,False,Garland 1' Driving Layup (12 PTS) (Exum 4 AST),,95-72,95,72
+0022000035,2020-12-27,CLE,PHI,36.68,4,11,19,PHI,PHI,fg_miss,6,False,False,,MISS Korkmaz 1' Driving Layup,95-72,95,72
+0022000035,2020-12-27,CLE,PHI,36.72,4,11,17,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:6 Def:7),,95-72,95,72
+0022000035,2020-12-27,CLE,PHI,36.88,4,11,7,CLE,CLE,fg_make,5,False,False,Drummond 1' Layup (22 PTS) (Nance Jr. 5 AST),,97-72,97,72
+0022000035,2020-12-27,CLE,PHI,37.22,4,10,47,PHI,PHI,fg3_miss,1,False,False,,MISS Scott 28' 3PT Jump Shot,97-72,97,72
+0022000035,2020-12-27,CLE,PHI,37.28,4,10,43,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:6 Def:8),,97-72,97,72
+0022000035,2020-12-27,CLE,PHI,37.52,4,10,29,CLE,CLE,fg_make,101,False,False,Garland 9' Driving Floating Jump Shot (14 PTS) (Drummond 3 AST),,99-72,99,72
+0022000035,2020-12-27,CLE,PHI,37.82,4,10,11,PHI,PHI,fg3_make,1,False,False,,Scott 26' 3PT Jump Shot (12 PTS) (Korkmaz 2 AST),99-75,99,75
+0022000035,2020-12-27,CLE,PHI,38.17,4,9,50,CLE,CLE,fg_make,6,False,False,Osman Driving Layup (12 PTS),,101-75,101,75
+0022000035,2020-12-27,CLE,PHI,38.33,4,9,40,PHI,CLE,foul,2,False,False,Exum S.FOUL (P4.T1) (S.Twardoski),,101-75,101,75
+0022000035,2020-12-27,CLE,PHI,38.33,4,9,40,PHI,PHI,ft_miss,11,False,False,,MISS Milton Free Throw 1 of 2,101-75,101,75
+0022000035,2020-12-27,CLE,PHI,38.33,4,9,40,PHI,PHI,reb,1,False,False,,76ers Rebound,101-75,101,75
+0022000035,2020-12-27,CLE,PHI,38.33,4,9,40,PHI,PHI,ft_make,12,False,False,,Milton Free Throw 2 of 2 (6 PTS),101-76,101,76
+0022000035,2020-12-27,CLE,PHI,38.53,4,9,28,CLE,CLE,fg3_make,1,False,False,Nance Jr. 25' 3PT Jump Shot (13 PTS) (Garland 6 AST),,104-76,104,76
+0022000035,2020-12-27,CLE,PHI,38.75,4,9,15,PHI,CLE,foul,1,False,False,Exum P.FOUL (P5.T2) (S.Twardoski),,104-76,104,76
+0022000035,2020-12-27,CLE,PHI,38.9,4,9,6,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 33' 3PT Jump Shot,104-76,104,76
+0022000035,2020-12-27,CLE,PHI,38.95,4,9,3,CLE,CLE,reb,0,False,False,Exum REBOUND (Off:1 Def:1),,104-76,104,76
+0022000035,2020-12-27,CLE,PHI,39.1,4,8,54,CLE,CLE,fg_make,52,False,False,Drummond Alley Oop Dunk (24 PTS) (Exum 5 AST),,106-76,106,76
+0022000035,2020-12-27,CLE,PHI,39.28,4,8,43,PHI,PHI,fg3_miss,1,False,False,,MISS Thybulle 26' 3PT Jump Shot,106-76,106,76
+0022000035,2020-12-27,CLE,PHI,39.33,4,8,40,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:1 Def:3),,106-76,106,76
+0022000035,2020-12-27,CLE,PHI,39.4,4,8,36,CLE,PHI,foul,3,False,False,,Thybulle L.B.FOUL (P1.T1) (S.Twardoski),106-76,106,76
+0022000035,2020-12-27,CLE,PHI,39.5,4,8,30,CLE,CLE,fg_make,75,False,False,Osman 1' Driving Finger Roll Layup (14 PTS) (Garland 7 AST),,108-76,108,76
+0022000035,2020-12-27,CLE,PHI,39.7,4,8,18,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.6 Short 0),108-76,108,76
+0022000035,2020-12-27,CLE,PHI,40.03,4,7,58,PHI,PHI,fg_make,98,False,False,,Howard 1' Cutting Layup Shot (9 PTS) (Curry 4 AST),108-78,108,78
+0022000035,2020-12-27,CLE,PHI,40.5,4,7,30,CLE,CLE,fg_make,47,False,False,Sexton 8' Turnaround Jump Shot (20 PTS),,110-78,110,78
+0022000035,2020-12-27,CLE,PHI,40.6,4,7,24,PHI,PHI,fg_make,9,False,False,,Simmons 1' Driving Dunk (15 PTS),110-80,110,80
+0022000035,2020-12-27,CLE,PHI,40.93,4,7,4,PHI,CLE,foul,4,False,False,Garland OFF.Foul (P2) (S.Twardoski),,110-80,110,80
+0022000035,2020-12-27,CLE,PHI,40.93,4,7,4,CLE,CLE,tov,37,False,False,Garland Offensive Foul Turnover (P2.T12),,110-80,110,80
+0022000035,2020-12-27,CLE,PHI,41.25,4,6,45,PHI,PHI,fg_make,1,False,False,,Mathias 18' Jump Shot (2 PTS) (Bradley 1 AST),110-82,110,82
+0022000035,2020-12-27,CLE,PHI,41.67,4,6,20,CLE,CLE,fg_make,6,False,False,Sexton 1' Driving Layup (22 PTS),,112-82,112,82
+0022000035,2020-12-27,CLE,PHI,41.87,4,6,8,PHI,PHI,fg3_make,1,False,False,,Mathias 3PT Jump Shot (5 PTS) (Ferguson 1 AST),112-85,112,85
+0022000035,2020-12-27,CLE,PHI,42.1,4,5,54,CLE,CLE,tov,4,False,False,Nance Jr. Traveling Turnover (P4.T13),,112-85,112,85
+0022000035,2020-12-27,CLE,PHI,42.28,4,5,43,PHI,PHI,fg_miss,79,False,False,,MISS Mathias 21' Pullup Jump Shot,112-85,112,85
+0022000035,2020-12-27,CLE,PHI,42.33,4,5,40,CLE,CLE,reb,0,False,False,Exum REBOUND (Off:1 Def:2),,112-85,112,85
+0022000035,2020-12-27,CLE,PHI,42.47,4,5,32,PHI,CLE,foul,4,False,False,Maker OFF.Foul (P1) (S.Twardoski),,112-85,112,85
+0022000035,2020-12-27,CLE,PHI,42.47,4,5,32,CLE,CLE,tov,37,False,False,Maker Offensive Foul Turnover (P1.T14),,112-85,112,85
+0022000035,2020-12-27,CLE,PHI,42.75,4,5,15,PHI,PHI,fg_make,101,False,False,,Joe 6' Driving Floating Jump Shot (2 PTS) (Mathias 1 AST),112-87,112,87
+0022000035,2020-12-27,CLE,PHI,43.03,4,4,58,CLE,CLE,fg_miss,47,False,False,MISS Exum 10' Turnaround Jump Shot,,112-87,112,87
+0022000035,2020-12-27,CLE,PHI,43.07,4,4,56,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:3 Def:2),112-87,112,87
+0022000035,2020-12-27,CLE,PHI,43.2,4,4,48,PHI,PHI,fg3_miss,1,False,False,,MISS Ferguson 3PT Jump Shot,112-87,112,87
+0022000035,2020-12-27,CLE,PHI,43.25,4,4,45,CLE,CLE,reb,0,False,False,Dotson REBOUND (Off:0 Def:1),,112-87,112,87
+0022000035,2020-12-27,CLE,PHI,43.33,4,4,40,CLE,PHI,foul,1,False,False,,Ferguson P.FOUL (P1.T2) (E.Malloy),112-87,112,87
+0022000035,2020-12-27,CLE,PHI,43.63,4,4,22,CLE,CLE,fg_make,5,False,False,Bolden 1' Layup (2 PTS) (Exum 6 AST),,114-87,114,87
+0022000035,2020-12-27,CLE,PHI,43.75,4,4,15,PHI,PHI,fg3_miss,1,False,False,,MISS Joe 28' 3PT Jump Shot,114-87,114,87
+0022000035,2020-12-27,CLE,PHI,43.8,4,4,12,CLE,CLE,reb,0,False,False,Exum REBOUND (Off:1 Def:3),,114-87,114,87
+0022000035,2020-12-27,CLE,PHI,43.92,4,4,5,CLE,CLE,tov,45,False,False,Exum Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,114-87,114,87
+0022000035,2020-12-27,CLE,PHI,44.12,4,3,53,PHI,PHI,tov,1,False,True,,Maxey Bad Pass Turnover (P1.T21),114-87,114,87
+0022000035,2020-12-27,CLE,PHI,44.12,4,3,53,PHI,CLE,steal,1,False,True,steal,steal,114-87,114,87
+0022000035,2020-12-27,CLE,PHI,44.23,4,3,46,CLE,PHI,foul,2,False,False,,Bradley S.FOUL (P2.T3) (N.Sago),114-87,114,87
+0022000035,2020-12-27,CLE,PHI,44.23,4,3,46,CLE,CLE,ft_make,11,False,False,Stevens Free Throw 1 of 2 (1 PTS),,115-87,115,87
+0022000035,2020-12-27,CLE,PHI,44.23,4,3,46,CLE,CLE,ft_make,12,False,False,Stevens Free Throw 2 of 2 (2 PTS),,116-87,116,87
+0022000035,2020-12-27,CLE,PHI,44.48,4,3,31,PHI,PHI,fg3_miss,1,False,False,,MISS Ferguson 3PT Jump Shot,116-87,116,87
+0022000035,2020-12-27,CLE,PHI,44.53,4,3,28,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:1),,116-87,116,87
+0022000035,2020-12-27,CLE,PHI,44.67,4,3,20,CLE,CLE,fg3_miss,1,False,False,MISS Wade 25' 3PT Jump Shot,,116-87,116,87
+0022000035,2020-12-27,CLE,PHI,44.7,4,3,18,PHI,PHI,reb,0,False,False,,Mathias REBOUND (Off:0 Def:1),116-87,116,87
+0022000035,2020-12-27,CLE,PHI,45.02,4,2,59,PHI,PHI,fg_make,79,False,False,,Maxey 13' Pullup Jump Shot (6 PTS),116-89,116,89
+0022000035,2020-12-27,CLE,PHI,45.23,4,2,46,CLE,CLE,fg3_miss,1,False,False,MISS Dotson 27' 3PT Jump Shot,,116-89,116,89
+0022000035,2020-12-27,CLE,PHI,45.28,4,2,43,PHI,PHI,reb,0,False,False,,Joe REBOUND (Off:0 Def:1),116-89,116,89
+0022000035,2020-12-27,CLE,PHI,45.37,4,2,38,PHI,PHI,fg3_miss,1,False,False,,MISS Mathias 27' 3PT Jump Shot,116-89,116,89
+0022000035,2020-12-27,CLE,PHI,45.42,4,2,35,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:4 Def:2),116-89,116,89
+0022000035,2020-12-27,CLE,PHI,45.45,4,2,33,PHI,PHI,fg_make,108,False,False,,Bradley 1' Cutting Dunk Shot (4 PTS) (Mathias 2 AST),116-91,116,91
+0022000035,2020-12-27,CLE,PHI,45.45,4,2,33,PHI,CLE,foul,2,False,False,Maker S.FOUL (P2.T3) (N.Sago),,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,45.45,4,2,33,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 3 Short 0),,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,45.45,4,2,33,PHI,PHI,ft_miss,10,False,False,,MISS Bradley Free Throw 1 of 1,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,45.5,4,2,30,CLE,CLE,reb,0,False,False,Maker REBOUND (Off:0 Def:1),,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,45.87,4,2,8,CLE,CLE,fg3_miss,1,False,False,MISS Wade 25' 3PT Jump Shot,,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,45.93,4,2,4,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:4 Def:3),116-91,116,91
+0022000035,2020-12-27,CLE,PHI,46.05,4,1,57,PHI,PHI,fg_miss,6,False,False,,MISS Maxey 1' Driving Layup,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,46.08,4,1,55,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:3),,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,46.12,4,1,53,CLE,CLE,tov,1,False,True,Dotson Bad Pass Turnover (P2.T16),,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,46.12,4,1,53,CLE,PHI,steal,1,False,True,steal,steal,116-91,116,91
+0022000035,2020-12-27,CLE,PHI,46.2,4,1,48,PHI,PHI,fg3_make,79,False,False,,Mathias 26' 3PT Pullup Jump Shot (8 PTS) (Joe 1 AST),116-94,116,94
+0022000035,2020-12-27,CLE,PHI,46.6,4,1,24,CLE,CLE,fg3_miss,1,False,False,MISS Dotson 29' 3PT Jump Shot,,116-94,116,94
+0022000035,2020-12-27,CLE,PHI,46.67,4,1,20,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:4 Def:4),116-94,116,94
+0022000035,2020-12-27,CLE,PHI,47.05,4,0,57,PHI,PHI,fg3_miss,80,False,False,,MISS Mathias 26' 3PT Step Back Jump Shot,116-94,116,94
+0022000035,2020-12-27,CLE,PHI,47.08,4,0,55,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:2),,116-94,116,94
+0022000035,2020-12-27,CLE,PHI,47.35,4,0,39,CLE,CLE,fg_miss,101,False,False,MISS Stevens 18' Driving Floating Jump Shot,,116-94,116,94
+0022000035,2020-12-27,CLE,PHI,47.38,4,0,37,CLE,CLE,reb,0,False,False,Maker REBOUND (Off:1 Def:1),,116-94,116,94
+0022000035,2020-12-27,CLE,PHI,47.4,4,0,36,CLE,CLE,fg_make,6,False,False,Maker 1' Driving Layup (2 PTS),,118-94,118,94
+0022000035,2020-12-27,CLE,PHI,47.78,4,0,13,PHI,PHI,tov,11,False,False,,76ers Turnover: Shot Clock (T#22),118-94,118,94
+0022000035,2020-12-27,CLE,PHI,48.0,4,0,0,PHI,,period_end,0,False,False,,,118-94,118,94

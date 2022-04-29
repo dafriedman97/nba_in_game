@@ -1,0 +1,525 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000479,2021-02-22,LAL,WAS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000479,2021-02-22,LAL,WAS,0.0,1,12,0,,LAL,jump_ball,0,False,False,Jump Ball Gasol vs. Wagner: Tip to James,,0-0,0,0
+0022000479,2021-02-22,LAL,WAS,0.3,1,11,42,LAL,LAL,fg3_miss,1,False,False,MISS Matthews 26' 3PT Jump Shot,,0-0,0,0
+0022000479,2021-02-22,LAL,WAS,0.35,1,11,39,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:0 Def:1),0-0,0,0
+0022000479,2021-02-22,LAL,WAS,0.7,1,11,18,WAS,WAS,fg_make,6,False,False,,Wagner 3' Driving Layup (2 PTS) (Beal 1 AST),0-2,0,2
+0022000479,2021-02-22,LAL,WAS,0.85,1,11,9,LAL,LAL,fg3_make,1,False,False,James 25' 3PT Jump Shot (3 PTS) (Matthews 1 AST),,3-2,3,2
+0022000479,2021-02-22,LAL,WAS,1.08,1,10,55,WAS,WAS,fg_make,79,False,False,,Beal 12' Pullup Jump Shot (2 PTS),3-4,3,4
+0022000479,2021-02-22,LAL,WAS,1.27,1,10,44,LAL,LAL,fg3_miss,1,False,False,MISS James 26' 3PT Jump Shot,,3-4,3,4
+0022000479,2021-02-22,LAL,WAS,1.32,1,10,41,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:1),3-4,3,4
+0022000479,2021-02-22,LAL,WAS,1.37,1,10,38,WAS,LAL,foul,2,False,False,Kuzma S.FOUL (P1.T1) (J.Capers),,3-4,3,4
+0022000479,2021-02-22,LAL,WAS,1.37,1,10,38,WAS,WAS,ft_miss,11,False,False,,MISS Hachimura Free Throw 1 of 2,3-4,3,4
+0022000479,2021-02-22,LAL,WAS,1.37,1,10,38,WAS,WAS,reb,1,False,False,,Wizards Rebound,3-4,3,4
+0022000479,2021-02-22,LAL,WAS,1.37,1,10,38,WAS,WAS,ft_make,12,False,False,,Hachimura Free Throw 2 of 2 (1 PTS),3-5,3,5
+0022000479,2021-02-22,LAL,WAS,1.53,1,10,28,LAL,LAL,fg3_make,1,False,False,Gasol 27' 3PT Jump Shot (3 PTS) (James 1 AST),,6-5,6,5
+0022000479,2021-02-22,LAL,WAS,1.53,1,10,28,LAL,WAS,foul,2,False,False,,Wagner S.FOUL (P1.T1) (S.Twardoski),6-5,6,5
+0022000479,2021-02-22,LAL,WAS,1.53,1,10,28,LAL,LAL,ft_make,10,False,False,Gasol Free Throw 1 of 1 (4 PTS),,7-5,7,5
+0022000479,2021-02-22,LAL,WAS,1.7,1,10,18,WAS,WAS,fg_make,6,False,False,,Westbrook 2' Driving Layup (2 PTS),7-7,7,7
+0022000479,2021-02-22,LAL,WAS,1.88,1,10,7,WAS,LAL,foul,26,False,False,Kuzma Offensive Charge Foul (P2.T2) (J.Capers),,7-7,7,7
+0022000479,2021-02-22,LAL,WAS,1.88,1,10,7,LAL,LAL,tov,37,False,False,Kuzma Offensive Foul Turnover (P1.T1),,7-7,7,7
+0022000479,2021-02-22,LAL,WAS,2.18,1,9,49,WAS,WAS,tov,2,False,True,,Wagner Lost Ball Turnover (P1.T1),7-7,7,7
+0022000479,2021-02-22,LAL,WAS,2.18,1,9,49,WAS,LAL,steal,2,False,True,steal,steal,7-7,7,7
+0022000479,2021-02-22,LAL,WAS,2.32,1,9,41,LAL,LAL,fg_make,6,False,False,James 2' Driving Layup (5 PTS),,9-7,9,7
+0022000479,2021-02-22,LAL,WAS,2.52,1,9,29,WAS,WAS,tov,2,False,True,,Beal Lost Ball Turnover (P1.T2),9-7,9,7
+0022000479,2021-02-22,LAL,WAS,2.52,1,9,29,WAS,LAL,steal,2,False,True,steal,steal,9-7,9,7
+0022000479,2021-02-22,LAL,WAS,2.58,1,9,25,LAL,LAL,fg_make,76,False,False,Kuzma 2' Running Finger Roll Layup (2 PTS) (James 2 AST),,11-7,11,7
+0022000479,2021-02-22,LAL,WAS,2.8,1,9,12,WAS,LAL,foul,2,False,False,Matthews S.FOUL (P1.T3) (J.Capers),,11-7,11,7
+0022000479,2021-02-22,LAL,WAS,2.8,1,9,12,WAS,WAS,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,11-7,11,7
+0022000479,2021-02-22,LAL,WAS,2.8,1,9,12,WAS,WAS,reb,1,False,False,,Wizards Rebound,11-7,11,7
+0022000479,2021-02-22,LAL,WAS,2.8,1,9,12,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (3 PTS),11-8,11,8
+0022000479,2021-02-22,LAL,WAS,2.97,1,9,2,LAL,WAS,foul,1,False,False,,Wagner P.FOUL (P2.T2) (J.Goldenberg),11-8,11,8
+0022000479,2021-02-22,LAL,WAS,3.1,1,8,54,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 26' 3PT Jump Shot,,11-8,11,8
+0022000479,2021-02-22,LAL,WAS,3.15,1,8,51,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:1),11-8,11,8
+0022000479,2021-02-22,LAL,WAS,3.43,1,8,34,WAS,WAS,fg_miss,79,False,False,,MISS Westbrook 15' Pullup Jump Shot,11-8,11,8
+0022000479,2021-02-22,LAL,WAS,3.47,1,8,32,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:1),,11-8,11,8
+0022000479,2021-02-22,LAL,WAS,3.55,1,8,27,LAL,LAL,tov,1,False,True,Kuzma Bad Pass Turnover (P2.T2),,11-8,11,8
+0022000479,2021-02-22,LAL,WAS,3.55,1,8,27,LAL,WAS,steal,1,False,True,steal,steal,11-8,11,8
+0022000479,2021-02-22,LAL,WAS,3.62,1,8,23,WAS,WAS,fg_make,50,False,False,,Wagner 2' Running Dunk (4 PTS) (Westbrook 1 AST),11-10,11,10
+0022000479,2021-02-22,LAL,WAS,3.65,1,8,21,LAL,WAS,violation,1,False,False,,Wizards Violation: Delay of game Violation,11-10,11,10
+0022000479,2021-02-22,LAL,WAS,3.97,1,8,2,LAL,LAL,fg_make,79,False,False,James 18' Pullup Jump Shot (7 PTS),,13-10,13,10
+0022000479,2021-02-22,LAL,WAS,4.2,1,7,48,WAS,LAL,foul,1,False,False,James P.FOUL (P1.T4) (S.Twardoski),,13-10,13,10
+0022000479,2021-02-22,LAL,WAS,4.35,1,7,39,WAS,WAS,fg_make,6,False,False,,Westbrook 3' Driving Layup (5 PTS),13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.6,1,7,24,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 27' 3PT Jump Shot,,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.65,1,7,21,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:1),13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.73,1,7,16,WAS,WAS,fg_miss,6,True,False,,MISS Beal 3' Driving Layup,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.73,1,7,16,WAS,LAL,block,6,True,False,block,block,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.73,1,7,16,WAS,WAS,reb,0,False,False,,Wizards Rebound,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.87,1,7,8,WAS,WAS,fg_miss,3,False,False,,MISS Wagner 6' Hook Shot,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.9,1,7,6,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:1),,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,4.97,1,7,2,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 28' 3PT Jump Shot,,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.02,1,6,59,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:1 Def:0),,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.05,1,6,57,LAL,LAL,fg_miss,6,False,False,MISS Caldwell-Pope 1' Driving Layup,,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.12,1,6,53,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:2 Def:0),,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.12,1,6,53,LAL,LAL,fg_miss,97,False,False,MISS Caldwell-Pope Tip Layup Shot,,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.13,1,6,52,WAS,WAS,reb,0,False,False,,Mathews REBOUND (Off:0 Def:1),13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.23,1,6,46,WAS,LAL,foul,1,False,False,Gasol P.FOUL (P1.PN) (J.Goldenberg),,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.23,1,6,46,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,13-12,13,12
+0022000479,2021-02-22,LAL,WAS,5.35,1,6,39,WAS,WAS,fg_make,80,False,False,,Beal 16' Step Back Jump Shot (4 PTS) (Wagner 1 AST),13-14,13,14
+0022000479,2021-02-22,LAL,WAS,5.65,1,6,21,LAL,LAL,tov,40,False,False,Matthews Out of Bounds Lost Ball Turnover (P1.T3),,13-14,13,14
+0022000479,2021-02-22,LAL,WAS,5.85,1,6,9,WAS,WAS,fg_miss,6,True,False,,MISS Westbrook 2' Driving Layup,13-14,13,14
+0022000479,2021-02-22,LAL,WAS,5.85,1,6,9,WAS,LAL,block,6,True,False,block,block,13-14,13,14
+0022000479,2021-02-22,LAL,WAS,5.92,1,6,5,LAL,LAL,reb,0,False,False,Gasol REBOUND (Off:0 Def:1),,13-14,13,14
+0022000479,2021-02-22,LAL,WAS,5.95,1,6,3,LAL,LAL,fg_make,41,False,False,Caldwell-Pope 3' Running Layup (2 PTS) (James 3 AST),,15-14,15,14
+0022000479,2021-02-22,LAL,WAS,6.1,1,5,54,WAS,WAS,fg_make,101,False,False,,Beal 3' Driving Floating Jump Shot (6 PTS),15-16,15,16
+0022000479,2021-02-22,LAL,WAS,6.38,1,5,37,LAL,LAL,fg3_miss,1,False,False,MISS Gasol 27' 3PT Jump Shot,,15-16,15,16
+0022000479,2021-02-22,LAL,WAS,6.42,1,5,35,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:1),,15-16,15,16
+0022000479,2021-02-22,LAL,WAS,6.45,1,5,33,LAL,LAL,fg_make,6,False,False,Caldwell-Pope 2' Driving Layup (4 PTS) (Matthews 2 AST),,17-16,17,16
+0022000479,2021-02-22,LAL,WAS,6.45,1,5,33,LAL,WAS,foul,2,False,False,,Beal S.FOUL (P1.T3) (J.Goldenberg),17-16,17,16
+0022000479,2021-02-22,LAL,WAS,6.45,1,5,33,LAL,LAL,ft_make,10,False,False,Caldwell-Pope Free Throw 1 of 1 (5 PTS),,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,6.7,1,5,18,WAS,WAS,fg3_miss,1,False,False,,MISS Neto 25' 3PT Jump Shot,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,6.78,1,5,13,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:2),,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,7.0,1,5,0,LAL,LAL,tov,1,False,True,Kuzma Bad Pass Turnover (P3.T4),,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,7.0,1,5,0,LAL,WAS,steal,1,False,True,steal,steal,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,7.13,1,4,52,WAS,WAS,fg_miss,63,False,False,,MISS Hachimura 5' Fadeaway Jumper,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,7.17,1,4,50,LAL,LAL,reb,0,False,False,Gasol REBOUND (Off:0 Def:2),,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,7.23,1,4,46,LAL,LAL,fg3_miss,1,False,False,MISS Gasol 27' 3PT Jump Shot,,18-16,18,16
+0022000479,2021-02-22,LAL,WAS,7.32,1,4,41,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:2),18-16,18,16
+0022000479,2021-02-22,LAL,WAS,7.5,1,4,30,WAS,WAS,fg_make,6,False,False,,Beal 2' Driving Layup (8 PTS),18-18,18,18
+0022000479,2021-02-22,LAL,WAS,7.68,1,4,19,LAL,LAL,fg3_make,1,False,False,Kuzma 25' 3PT Jump Shot (5 PTS) (Gasol 1 AST),,21-18,21,18
+0022000479,2021-02-22,LAL,WAS,7.95,1,4,3,LAL,WAS,foul,4,False,False,,Len OFF.Foul (P1) (J.Capers),21-18,21,18
+0022000479,2021-02-22,LAL,WAS,7.95,1,4,3,WAS,WAS,tov,37,False,False,,Len Offensive Foul Turnover (P1.T3),21-18,21,18
+0022000479,2021-02-22,LAL,WAS,8.2,1,3,48,LAL,LAL,fg_make,6,False,False,Caruso 2' Driving Layup (2 PTS) (Harrell 1 AST),,23-18,23,18
+0022000479,2021-02-22,LAL,WAS,8.32,1,3,41,WAS,WAS,fg3_make,80,False,False,,Beal 25' 3PT Step Back Jump Shot (11 PTS) (Neto 1 AST),23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.52,1,3,29,LAL,LAL,fg_miss,101,False,False,MISS Kuzma 14' Driving Floating Jump Shot,,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.57,1,3,26,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:1),23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.67,1,3,20,WAS,WAS,fg_miss,80,False,False,,MISS Beal 23' Step Back Jump Shot,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.75,1,3,15,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.83,1,3,10,LAL,LAL,fg_miss,98,False,False,MISS Kuzma 2' Cutting Layup Shot,,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.92,1,3,5,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:0 Def:1),23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.97,1,3,2,WAS,WAS,fg_miss,41,True,False,,MISS Beal 2' Running Layup,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.97,1,3,2,WAS,LAL,block,41,True,False,block,block,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,8.97,1,3,2,WAS,WAS,reb,0,False,False,,Bertans REBOUND (Off:1 Def:0),23-21,23,21
+0022000479,2021-02-22,LAL,WAS,9.22,1,2,47,WAS,WAS,fg_miss,6,True,False,,MISS Neto 1' Driving Layup,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,9.22,1,2,47,WAS,LAL,block,6,True,False,block,block,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,9.27,1,2,44,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,23-21,23,21
+0022000479,2021-02-22,LAL,WAS,9.4,1,2,36,LAL,WAS,foul,2,False,False,,Bertans S.FOUL (P1.T4) (J.Capers),23-21,23,21
+0022000479,2021-02-22,LAL,WAS,9.4,1,2,36,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),23-21,23,21
+0022000479,2021-02-22,LAL,WAS,9.4,1,2,36,WAS,LAL,ft_make,11,False,False,Harrell Free Throw 1 of 2 (1 PTS),,24-21,24,21
+0022000479,2021-02-22,LAL,WAS,9.4,1,2,36,WAS,LAL,ft_make,12,False,False,Harrell Free Throw 2 of 2 (2 PTS),,25-21,25,21
+0022000479,2021-02-22,LAL,WAS,9.58,1,2,25,WAS,WAS,fg_miss,6,False,False,,MISS Westbrook 4' Driving Layup,25-21,25,21
+0022000479,2021-02-22,LAL,WAS,9.58,1,2,25,LAL,LAL,reb,0,False,False,LAKERS Rebound,,25-21,25,21
+0022000479,2021-02-22,LAL,WAS,9.82,1,2,11,LAL,LAL,fg_make,44,False,False,Horton-Tucker 2' Reverse Layup (2 PTS),,27-21,27,21
+0022000479,2021-02-22,LAL,WAS,9.98,1,2,1,LAL,WAS,foul,4,False,False,,Bertans OFF.Foul (P2) (J.Goldenberg),27-21,27,21
+0022000479,2021-02-22,LAL,WAS,9.98,1,2,1,WAS,WAS,tov,37,False,False,,Bertans Offensive Foul Turnover (P1.T4),27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.18,1,1,49,LAL,LAL,fg_miss,5,False,False,MISS Harrell 1' Layup,,27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.25,1,1,45,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:2),27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.27,1,1,44,WAS,LAL,foul,2,False,False,Horton-Tucker S.FOUL (P1.PN) (J.Goldenberg),,27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.27,1,1,44,WAS,WAS,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.27,1,1,44,WAS,WAS,reb,1,False,False,,Wizards Rebound,27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.27,1,1,44,WAS,WAS,ft_miss,12,False,False,,MISS Westbrook Free Throw 2 of 2,27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.35,1,1,39,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:1),27-21,27,21
+0022000479,2021-02-22,LAL,WAS,10.4,1,1,36,WAS,WAS,fg_make,66,False,False,,Westbrook 8' Jump Bank Shot (7 PTS),27-23,27,23
+0022000479,2021-02-22,LAL,WAS,10.58,1,1,25,LAL,LAL,fg_miss,5,True,False,MISS Harrell 2' Layup,,27-23,27,23
+0022000479,2021-02-22,LAL,WAS,10.58,1,1,25,LAL,WAS,block,5,True,False,block,block,27-23,27,23
+0022000479,2021-02-22,LAL,WAS,10.6,1,1,24,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:1 Def:0),,27-23,27,23
+0022000479,2021-02-22,LAL,WAS,10.62,1,1,23,LAL,LAL,fg_make,87,False,False,Harrell 3' Putback Dunk (4 PTS),,29-23,29,23
+0022000479,2021-02-22,LAL,WAS,10.87,1,1,8,WAS,WAS,tov,2,False,True,,Len Lost Ball Turnover (P2.T5),29-23,29,23
+0022000479,2021-02-22,LAL,WAS,10.87,1,1,8,WAS,LAL,steal,2,False,True,steal,steal,29-23,29,23
+0022000479,2021-02-22,LAL,WAS,10.92,1,1,5,LAL,LAL,fg_make,50,False,False,Harrell 1' Running Dunk (6 PTS) (James 4 AST),,31-23,31,23
+0022000479,2021-02-22,LAL,WAS,10.92,1,1,5,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.2 Short 0),31-23,31,23
+0022000479,2021-02-22,LAL,WAS,11.22,1,0,47,WAS,WAS,tov,1,False,True,,Westbrook Bad Pass Turnover (P1.T6),31-23,31,23
+0022000479,2021-02-22,LAL,WAS,11.22,1,0,47,WAS,LAL,steal,1,False,True,steal,steal,31-23,31,23
+0022000479,2021-02-22,LAL,WAS,11.4,1,0,36,LAL,LAL,fg_miss,6,True,False,MISS Harrell 3' Driving Layup,,31-23,31,23
+0022000479,2021-02-22,LAL,WAS,11.4,1,0,36,LAL,WAS,block,6,True,False,block,block,31-23,31,23
+0022000479,2021-02-22,LAL,WAS,11.4,1,0,36,LAL,LAL,reb,0,False,False,LAKERS Rebound,,31-23,31,23
+0022000479,2021-02-22,LAL,WAS,11.63,1,0,22,LAL,LAL,fg_make,63,False,False,Harrell 6' Fadeaway Jumper (8 PTS) (James 5 AST),,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,11.98,1,0,1,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 26' 3PT Jump Shot,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,11.98,1,0,1,WAS,WAS,reb,0,False,False,,Wizards Rebound,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.0,1,0,0,WAS,,period_end,0,False,False,,,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.0,2,12,0,WAS,,period_start,0,False,False,,,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.37,2,11,38,WAS,WAS,fg3_miss,1,False,False,,MISS Avdija 24' 3PT Jump Shot,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.42,2,11,35,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.55,2,11,27,LAL,LAL,fg_miss,73,False,False,MISS James 3' Driving Reverse Layup,,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.6,2,11,24,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:2),33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.62,2,11,23,WAS,WAS,fg_miss,6,True,False,,MISS Westbrook 3' Driving Layup,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.62,2,11,23,WAS,LAL,block,6,True,False,block,block,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.63,2,11,22,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:2),,33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.73,2,11,16,LAL,WAS,foul,1,False,False,,Bertans P.FOUL (P3.T1) (J.Goldenberg),33-23,33,23
+0022000479,2021-02-22,LAL,WAS,12.8,2,11,12,LAL,LAL,fg_make,98,False,False,Caruso 2' Cutting Layup Shot (4 PTS) (James 6 AST),,35-23,35,23
+0022000479,2021-02-22,LAL,WAS,13.1,2,10,54,WAS,WAS,fg_miss,44,False,False,,MISS Neto 2' Reverse Layup,35-23,35,23
+0022000479,2021-02-22,LAL,WAS,13.15,2,10,51,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:0 Def:2),,35-23,35,23
+0022000479,2021-02-22,LAL,WAS,13.23,2,10,46,LAL,LAL,tov,39,False,False,Horton-Tucker Step Out of Bounds Turnover (P1.T5),,35-23,35,23
+0022000479,2021-02-22,LAL,WAS,13.45,2,10,33,WAS,LAL,foul,1,False,False,Harrell P.FOUL (P1.T1) (J.Goldenberg),,35-23,35,23
+0022000479,2021-02-22,LAL,WAS,13.6,2,10,24,WAS,WAS,fg_make,6,False,False,,Westbrook 2' Driving Layup (9 PTS),35-25,35,25
+0022000479,2021-02-22,LAL,WAS,13.6,2,10,24,WAS,LAL,foul,2,False,False,Horton-Tucker S.FOUL (P2.T2) (S.Twardoski),,35-25,35,25
+0022000479,2021-02-22,LAL,WAS,13.6,2,10,24,WAS,WAS,ft_make,10,False,False,,Westbrook Free Throw 1 of 1 (10 PTS),35-26,35,26
+0022000479,2021-02-22,LAL,WAS,13.98,2,10,1,LAL,LAL,fg_make,63,False,False,James 12' Fadeaway Jumper (9 PTS),,37-26,37,26
+0022000479,2021-02-22,LAL,WAS,14.18,2,9,49,WAS,WAS,fg_miss,79,False,False,,MISS Beal 17' Pullup Jump Shot,37-26,37,26
+0022000479,2021-02-22,LAL,WAS,14.22,2,9,47,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:0 Def:3),,37-26,37,26
+0022000479,2021-02-22,LAL,WAS,14.45,2,9,33,LAL,LAL,fg3_miss,1,False,False,MISS James 25' 3PT Jump Shot,,37-26,37,26
+0022000479,2021-02-22,LAL,WAS,14.52,2,9,29,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:2),37-26,37,26
+0022000479,2021-02-22,LAL,WAS,14.63,2,9,22,WAS,WAS,tov,2,False,True,,Lopez Lost Ball Turnover (P1.T7),37-26,37,26
+0022000479,2021-02-22,LAL,WAS,14.63,2,9,22,WAS,LAL,steal,2,False,True,steal,steal,37-26,37,26
+0022000479,2021-02-22,LAL,WAS,14.78,2,9,13,LAL,LAL,fg3_make,1,False,False,Horton-Tucker 25' 3PT Jump Shot (5 PTS) (Morris 1 AST),,40-26,40,26
+0022000479,2021-02-22,LAL,WAS,14.92,2,9,5,WAS,LAL,foul,1,False,False,Horton-Tucker P.FOUL (P3.T3) (J.Goldenberg),,40-26,40,26
+0022000479,2021-02-22,LAL,WAS,15.03,2,8,58,WAS,WAS,fg_miss,3,True,False,,MISS Avdija 5' Hook Shot,40-26,40,26
+0022000479,2021-02-22,LAL,WAS,15.03,2,8,58,WAS,LAL,block,3,True,False,block,block,40-26,40,26
+0022000479,2021-02-22,LAL,WAS,15.03,2,8,58,WAS,WAS,reb,0,False,False,,Wizards Rebound,40-26,40,26
+0022000479,2021-02-22,LAL,WAS,15.2,2,8,48,WAS,WAS,fg_make,58,False,False,,Lopez 2' Turnaround Hook Shot (2 PTS) (Westbrook 2 AST),40-28,40,28
+0022000479,2021-02-22,LAL,WAS,15.4,2,8,36,LAL,LAL,fg_miss,43,True,False,MISS Harrell 4' Alley Oop Layup,,40-28,40,28
+0022000479,2021-02-22,LAL,WAS,15.4,2,8,36,LAL,WAS,block,43,True,False,block,block,40-28,40,28
+0022000479,2021-02-22,LAL,WAS,15.45,2,8,33,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:0),,40-28,40,28
+0022000479,2021-02-22,LAL,WAS,15.55,2,8,27,LAL,LAL,fg3_make,1,False,False,Morris 3PT Jump Shot (3 PTS) (Harrell 2 AST),,43-28,43,28
+0022000479,2021-02-22,LAL,WAS,15.95,2,8,3,WAS,WAS,fg_miss,6,False,False,,MISS Westbrook 4' Driving Layup,43-28,43,28
+0022000479,2021-02-22,LAL,WAS,15.97,2,8,2,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:0),43-28,43,28
+0022000479,2021-02-22,LAL,WAS,15.97,2,8,2,WAS,WAS,fg_make,72,False,False,,Lopez Putback Layup (4 PTS),43-30,43,30
+0022000479,2021-02-22,LAL,WAS,16.12,2,7,53,LAL,LAL,fg_miss,79,False,False,MISS Caldwell-Pope 12' Pullup Jump Shot,,43-30,43,30
+0022000479,2021-02-22,LAL,WAS,16.17,2,7,50,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:3),43-30,43,30
+0022000479,2021-02-22,LAL,WAS,16.25,2,7,45,WAS,WAS,fg_make,106,False,False,,Beal 2' Running Alley Oop Dunk Shot (13 PTS) (Westbrook 3 AST),43-32,43,32
+0022000479,2021-02-22,LAL,WAS,16.27,2,7,44,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,43-32,43,32
+0022000479,2021-02-22,LAL,WAS,16.6,2,7,24,LAL,LAL,fg_make,9,False,False,Harrell 3' Driving Dunk (10 PTS),,45-32,45,32
+0022000479,2021-02-22,LAL,WAS,16.83,2,7,10,WAS,LAL,foul,1,False,False,Caldwell-Pope P.FOUL (P1.T4) (S.Twardoski),,45-32,45,32
+0022000479,2021-02-22,LAL,WAS,16.95,2,7,3,WAS,WAS,fg_miss,79,False,False,,MISS Neto 4' Pullup Jump Shot,45-32,45,32
+0022000479,2021-02-22,LAL,WAS,16.98,2,7,1,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:1),,45-32,45,32
+0022000479,2021-02-22,LAL,WAS,17.03,2,6,58,WAS,LAL,foul,26,False,False,Caruso Offensive Charge Foul (P1.PN) (J.Capers),,45-32,45,32
+0022000479,2021-02-22,LAL,WAS,17.03,2,6,58,LAL,LAL,tov,37,False,False,Caruso Offensive Foul Turnover (P1.T6),,45-32,45,32
+0022000479,2021-02-22,LAL,WAS,17.33,2,6,40,WAS,WAS,fg_make,63,False,False,,Hachimura 8' Fadeaway Jumper (3 PTS) (Beal 2 AST),45-34,45,34
+0022000479,2021-02-22,LAL,WAS,17.65,2,6,21,LAL,LAL,fg3_make,1,False,False,Caldwell-Pope 24' 3PT Jump Shot (8 PTS) (Morris 2 AST),,48-34,48,34
+0022000479,2021-02-22,LAL,WAS,17.8,2,6,12,LAL,WAS,foul,4,False,False,,Lopez OFF.Foul (P1) (S.Twardoski),48-34,48,34
+0022000479,2021-02-22,LAL,WAS,17.8,2,6,12,WAS,WAS,tov,37,False,False,,Lopez Offensive Foul Turnover (P2.T8),48-34,48,34
+0022000479,2021-02-22,LAL,WAS,18.1,2,5,54,LAL,LAL,fg_make,1,False,False,Harrell 13' Jump Shot (12 PTS),,50-34,50,34
+0022000479,2021-02-22,LAL,WAS,18.37,2,5,38,WAS,LAL,foul,1,False,False,Harrell P.FOUL (P2.PN) (J.Capers),,50-34,50,34
+0022000479,2021-02-22,LAL,WAS,18.37,2,5,38,WAS,WAS,ft_make,11,False,False,,Wagner Free Throw 1 of 2 (5 PTS),50-35,50,35
+0022000479,2021-02-22,LAL,WAS,18.37,2,5,38,WAS,WAS,ft_make,12,False,False,,Wagner Free Throw 2 of 2 (6 PTS),50-36,50,36
+0022000479,2021-02-22,LAL,WAS,18.65,2,5,21,LAL,LAL,fg_make,6,False,False,Harrell 3' Driving Layup (14 PTS),,52-36,52,36
+0022000479,2021-02-22,LAL,WAS,18.82,2,5,11,WAS,LAL,foul,1,False,False,Matthews P.FOUL (P2.PN) (S.Twardoski),,52-36,52,36
+0022000479,2021-02-22,LAL,WAS,18.82,2,5,11,WAS,WAS,ft_make,11,False,False,,Mathews Free Throw 1 of 2 (1 PTS),52-37,52,37
+0022000479,2021-02-22,LAL,WAS,18.82,2,5,11,WAS,WAS,ft_make,12,False,False,,Mathews Free Throw 2 of 2 (2 PTS),52-38,52,38
+0022000479,2021-02-22,LAL,WAS,19.17,2,4,50,LAL,LAL,fg_miss,6,True,False,MISS Caruso 4' Driving Layup,,52-38,52,38
+0022000479,2021-02-22,LAL,WAS,19.17,2,4,50,LAL,WAS,block,6,True,False,block,block,52-38,52,38
+0022000479,2021-02-22,LAL,WAS,19.17,2,4,50,LAL,LAL,reb,0,False,False,LAKERS Rebound,,52-38,52,38
+0022000479,2021-02-22,LAL,WAS,19.22,2,4,47,LAL,LAL,fg_miss,63,False,False,MISS Kuzma 19' Fadeaway Jumper,,52-38,52,38
+0022000479,2021-02-22,LAL,WAS,19.27,2,4,44,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:3),52-38,52,38
+0022000479,2021-02-22,LAL,WAS,19.38,2,4,37,WAS,WAS,fg_make,76,False,False,,Westbrook 3' Running Finger Roll Layup (12 PTS),52-40,52,40
+0022000479,2021-02-22,LAL,WAS,19.72,2,4,17,LAL,LAL,fg3_miss,79,False,False,MISS Kuzma 27' 3PT Pullup Jump Shot,,52-40,52,40
+0022000479,2021-02-22,LAL,WAS,19.78,2,4,13,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:3),52-40,52,40
+0022000479,2021-02-22,LAL,WAS,19.85,2,4,9,WAS,WAS,fg_make,5,False,False,,Hachimura 2' Layup (5 PTS) (Beal 3 AST),52-42,52,42
+0022000479,2021-02-22,LAL,WAS,20.18,2,3,49,LAL,WAS,foul,2,False,False,,Mathews S.FOUL (P1.T2) (J.Goldenberg),52-42,52,42
+0022000479,2021-02-22,LAL,WAS,20.18,2,3,49,LAL,LAL,ft_make,11,False,False,Harrell Free Throw 1 of 2 (15 PTS),,53-42,53,42
+0022000479,2021-02-22,LAL,WAS,20.18,2,3,49,LAL,LAL,ft_miss,12,False,False,MISS Harrell Free Throw 2 of 2,,53-42,53,42
+0022000479,2021-02-22,LAL,WAS,20.27,2,3,44,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:4),53-42,53,42
+0022000479,2021-02-22,LAL,WAS,20.4,2,3,36,WAS,WAS,fg3_make,1,False,False,,Mathews 26' 3PT Jump Shot (5 PTS) (Wagner 2 AST),53-45,53,45
+0022000479,2021-02-22,LAL,WAS,20.6,2,3,24,LAL,WAS,foul,1,False,False,,Mathews P.FOUL (P2.T3) (J.Goldenberg),53-45,53,45
+0022000479,2021-02-22,LAL,WAS,20.68,2,3,19,LAL,LAL,tov,40,False,False,Kuzma Out of Bounds Lost Ball Turnover (P4.T7),,53-45,53,45
+0022000479,2021-02-22,LAL,WAS,20.9,2,3,6,WAS,WAS,fg3_miss,80,False,False,,MISS Mathews 24' 3PT Step Back Jump Shot,53-45,53,45
+0022000479,2021-02-22,LAL,WAS,20.93,2,3,4,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:3),,53-45,53,45
+0022000479,2021-02-22,LAL,WAS,21.07,2,2,56,LAL,LAL,fg3_make,1,False,False,Kuzma 25' 3PT Jump Shot (8 PTS) (James 7 AST),,56-45,56,45
+0022000479,2021-02-22,LAL,WAS,21.07,2,2,56,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.3 Short 0),56-45,56,45
+0022000479,2021-02-22,LAL,WAS,21.23,2,2,46,WAS,WAS,tov,39,False,False,,Beal Step Out of Bounds Turnover (P2.T9),56-45,56,45
+0022000479,2021-02-22,LAL,WAS,21.62,2,2,23,LAL,LAL,fg_make,86,False,False,James 19' Turnaround Fadeaway (11 PTS),,58-45,58,45
+0022000479,2021-02-22,LAL,WAS,21.83,2,2,10,WAS,WAS,fg3_miss,1,False,False,,MISS Westbrook 27' 3PT Jump Shot,58-45,58,45
+0022000479,2021-02-22,LAL,WAS,21.87,2,2,8,LAL,LAL,reb,0,False,False,LAKERS Rebound,,58-45,58,45
+0022000479,2021-02-22,LAL,WAS,22.2,2,1,48,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,58-45,58,45
+0022000479,2021-02-22,LAL,WAS,22.27,2,1,44,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:5),58-45,58,45
+0022000479,2021-02-22,LAL,WAS,22.33,2,1,40,WAS,WAS,fg_miss,76,False,False,,MISS Wagner 3' Running Finger Roll Layup,58-45,58,45
+0022000479,2021-02-22,LAL,WAS,22.33,2,1,40,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:4),,58-45,58,45
+0022000479,2021-02-22,LAL,WAS,22.47,2,1,32,LAL,LAL,fg_miss,86,False,False,MISS James 8' Turnaround Fadeaway Shot,,58-45,58,45
+0022000479,2021-02-22,LAL,WAS,22.5,2,1,30,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:3),58-45,58,45
+0022000479,2021-02-22,LAL,WAS,22.57,2,1,26,WAS,WAS,fg_make,41,False,False,,Hachimura 1' Running Layup (7 PTS),58-47,58,47
+0022000479,2021-02-22,LAL,WAS,22.75,2,1,15,LAL,LAL,fg3_make,1,False,False,Kuzma 3PT Jump Shot (11 PTS) (Caldwell-Pope 1 AST),,61-47,61,47
+0022000479,2021-02-22,LAL,WAS,22.97,2,1,2,WAS,LAL,foul,2,False,False,Gasol S.FOUL (P2.PN) (J.Goldenberg),,61-47,61,47
+0022000479,2021-02-22,LAL,WAS,22.97,2,1,2,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (14 PTS),61-48,61,48
+0022000479,2021-02-22,LAL,WAS,22.97,2,1,2,WAS,WAS,ft_miss,12,False,False,,MISS Beal Free Throw 2 of 2,61-48,61,48
+0022000479,2021-02-22,LAL,WAS,23.02,2,0,59,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:3),,61-48,61,48
+0022000479,2021-02-22,LAL,WAS,23.23,2,0,46,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 24' 3PT Jump Shot,,61-48,61,48
+0022000479,2021-02-22,LAL,WAS,23.27,2,0,44,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:4),61-48,61,48
+0022000479,2021-02-22,LAL,WAS,23.38,2,0,37,WAS,WAS,fg_miss,76,False,False,,MISS Westbrook 6' Running Finger Roll Layup,61-48,61,48
+0022000479,2021-02-22,LAL,WAS,23.42,2,0,35,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:2),,61-48,61,48
+0022000479,2021-02-22,LAL,WAS,23.45,2,0,33,LAL,LAL,fg_make,41,False,False,James 2' Running Layup (13 PTS),,63-48,63,48
+0022000479,2021-02-22,LAL,WAS,23.53,2,0,28,WAS,LAL,foul,2,False,False,Caruso S.FOUL (P2.PN) (S.Twardoski),,63-48,63,48
+0022000479,2021-02-22,LAL,WAS,23.53,2,0,28,WAS,WAS,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,63-48,63,48
+0022000479,2021-02-22,LAL,WAS,23.53,2,0,28,WAS,WAS,reb,1,False,False,,Wizards Rebound,63-48,63,48
+0022000479,2021-02-22,LAL,WAS,23.53,2,0,28,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (13 PTS),63-49,63,49
+0022000479,2021-02-22,LAL,WAS,23.83,2,0,10,LAL,LAL,tov,45,False,False,James Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,63-49,63,49
+0022000479,2021-02-22,LAL,WAS,23.98,2,0,1,WAS,WAS,fg_miss,6,True,False,,MISS Westbrook 2' Driving Layup,63-49,63,49
+0022000479,2021-02-22,LAL,WAS,23.98,2,0,1,WAS,LAL,block,6,True,False,block,block,63-49,63,49
+0022000479,2021-02-22,LAL,WAS,23.98,2,0,1,WAS,WAS,reb,0,False,False,,Wizards Rebound,63-49,63,49
+0022000479,2021-02-22,LAL,WAS,24.0,2,0,0,WAS,,period_end,0,False,False,,,63-49,63,49
+0022000479,2021-02-22,LAL,WAS,24.0,3,12,0,WAS,,period_start,0,False,False,,,63-49,63,49
+0022000479,2021-02-22,LAL,WAS,24.23,3,11,46,WAS,WAS,fg_make,75,False,False,,Beal 2' Driving Finger Roll Layup (16 PTS),63-51,63,51
+0022000479,2021-02-22,LAL,WAS,24.43,3,11,34,LAL,LAL,fg_make,98,False,False,Caldwell-Pope 2' Cutting Layup Shot (10 PTS) (James 8 AST),,65-51,65,51
+0022000479,2021-02-22,LAL,WAS,24.75,3,11,15,WAS,WAS,fg_make,99,False,False,,Westbrook 3' Cutting Finger Roll Layup Shot (15 PTS) (Wagner 3 AST),65-53,65,53
+0022000479,2021-02-22,LAL,WAS,25.15,3,10,51,LAL,LAL,fg_make,86,False,False,James 19' Turnaround Fadeaway (15 PTS),,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,25.48,3,10,31,WAS,WAS,fg3_miss,1,False,False,,MISS Wagner 26' 3PT Jump Shot,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,25.53,3,10,28,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:5),,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,25.87,3,10,8,LAL,LAL,fg_miss,63,False,False,MISS James 15' Fadeaway Jumper,,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,25.9,3,10,6,LAL,LAL,reb,0,False,False,LAKERS Rebound,,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.1,3,9,54,LAL,LAL,fg3_miss,1,False,False,MISS Gasol 24' 3PT Jump Shot,,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.13,3,9,52,WAS,WAS,reb,0,False,False,,Mathews REBOUND (Off:0 Def:2),67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.23,3,9,46,WAS,WAS,fg3_miss,1,False,False,,MISS Mathews 29' 3PT Jump Shot,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.25,3,9,45,LAL,LAL,reb,0,False,False,LAKERS Rebound,,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.32,3,9,41,LAL,WAS,foul,1,False,False,,Wagner P.FOUL (P3.T1) (J.Capers),67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.35,3,9,39,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 27' 3PT Jump Shot,,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.38,3,9,37,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:6),67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.43,3,9,34,WAS,WAS,fg_miss,41,True,False,,MISS Westbrook 3' Running Layup,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.43,3,9,34,WAS,LAL,block,41,True,False,block,block,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.45,3,9,33,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:4),,67-53,67,53
+0022000479,2021-02-22,LAL,WAS,26.58,3,9,25,LAL,LAL,fg3_make,2,False,False,Caldwell-Pope 27' 3PT Running Jump Shot (13 PTS) (Kuzma 1 AST),,70-53,70,53
+0022000479,2021-02-22,LAL,WAS,26.6,3,9,24,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.4 Short 0),70-53,70,53
+0022000479,2021-02-22,LAL,WAS,26.8,3,9,12,WAS,WAS,fg_miss,78,False,False,,MISS Beal 12' Floating Jump Shot,70-53,70,53
+0022000479,2021-02-22,LAL,WAS,26.87,3,9,8,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:6),,70-53,70,53
+0022000479,2021-02-22,LAL,WAS,26.92,3,9,5,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P2.T9),,70-53,70,53
+0022000479,2021-02-22,LAL,WAS,26.92,3,9,5,LAL,WAS,steal,1,False,True,steal,steal,70-53,70,53
+0022000479,2021-02-22,LAL,WAS,27.05,3,8,57,WAS,WAS,fg3_make,1,False,False,,Mathews 27' 3PT Jump Shot (8 PTS) (Westbrook 4 AST),70-56,70,56
+0022000479,2021-02-22,LAL,WAS,27.5,3,8,30,LAL,LAL,fg_miss,86,False,False,MISS James 18' Turnaround Fadeaway Shot,,70-56,70,56
+0022000479,2021-02-22,LAL,WAS,27.55,3,8,27,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:7),70-56,70,56
+0022000479,2021-02-22,LAL,WAS,27.58,3,8,25,WAS,WAS,tov,39,False,False,,Hachimura Step Out of Bounds Turnover (P1.T10),70-56,70,56
+0022000479,2021-02-22,LAL,WAS,27.88,3,8,7,LAL,LAL,fg3_miss,1,False,False,MISS Matthews 3PT Jump Shot,,70-56,70,56
+0022000479,2021-02-22,LAL,WAS,27.93,3,8,4,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:8),70-56,70,56
+0022000479,2021-02-22,LAL,WAS,28.08,3,7,55,WAS,WAS,fg_miss,73,False,False,,MISS Beal 2' Driving Reverse Layup,70-56,70,56
+0022000479,2021-02-22,LAL,WAS,28.1,3,7,54,LAL,LAL,reb,0,False,False,Gasol REBOUND (Off:0 Def:3),,70-56,70,56
+0022000479,2021-02-22,LAL,WAS,28.1,3,7,54,LAL,LAL,tov,45,False,False,Gasol Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,70-56,70,56
+0022000479,2021-02-22,LAL,WAS,28.27,3,7,44,WAS,WAS,fg_make,63,False,False,,Beal 15' Fadeaway Jumper (18 PTS),70-58,70,58
+0022000479,2021-02-22,LAL,WAS,28.48,3,7,31,LAL,WAS,foul,1,False,False,,Mathews P.FOUL (P3.T2) (J.Capers),70-58,70,58
+0022000479,2021-02-22,LAL,WAS,28.62,3,7,23,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 24' 3PT Jump Shot,,70-58,70,58
+0022000479,2021-02-22,LAL,WAS,28.65,3,7,21,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:4),70-58,70,58
+0022000479,2021-02-22,LAL,WAS,28.8,3,7,12,WAS,WAS,fg_make,80,False,False,,Hachimura 16' Step Back Jump Shot (9 PTS) (Beal 4 AST),70-60,70,60
+0022000479,2021-02-22,LAL,WAS,28.93,3,7,4,LAL,WAS,foul,1,False,False,,Hachimura P.FOUL (P1.T3) (S.Twardoski),70-60,70,60
+0022000479,2021-02-22,LAL,WAS,29.07,3,6,56,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P3.T11),,70-60,70,60
+0022000479,2021-02-22,LAL,WAS,29.07,3,6,56,LAL,WAS,steal,1,False,True,steal,steal,70-60,70,60
+0022000479,2021-02-22,LAL,WAS,29.15,3,6,51,WAS,WAS,fg_miss,41,False,False,,MISS Westbrook 2' Running Layup,70-60,70,60
+0022000479,2021-02-22,LAL,WAS,29.18,3,6,49,LAL,LAL,reb,0,False,False,Matthews REBOUND (Off:0 Def:1),,70-60,70,60
+0022000479,2021-02-22,LAL,WAS,29.33,3,6,40,LAL,LAL,fg_make,79,False,False,Caldwell-Pope 21' Pullup Jump Shot (15 PTS) (James 9 AST),,72-60,72,60
+0022000479,2021-02-22,LAL,WAS,29.63,3,6,22,WAS,WAS,fg3_miss,1,False,False,,MISS Hachimura 26' 3PT Jump Shot,72-60,72,60
+0022000479,2021-02-22,LAL,WAS,29.7,3,6,18,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:5),,72-60,72,60
+0022000479,2021-02-22,LAL,WAS,29.85,3,6,9,LAL,LAL,fg3_make,1,False,False,James 28' 3PT Jump Shot (18 PTS) (Gasol 2 AST),,75-60,75,60
+0022000479,2021-02-22,LAL,WAS,29.85,3,6,9,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.5 Short 0),75-60,75,60
+0022000479,2021-02-22,LAL,WAS,30.08,3,5,55,WAS,WAS,fg_miss,6,True,False,,MISS Lopez 4' Driving Layup,75-60,75,60
+0022000479,2021-02-22,LAL,WAS,30.08,3,5,55,WAS,LAL,block,6,True,False,block,block,75-60,75,60
+0022000479,2021-02-22,LAL,WAS,30.1,3,5,54,WAS,WAS,reb,0,False,False,,Wizards Rebound,75-60,75,60
+0022000479,2021-02-22,LAL,WAS,30.23,3,5,46,WAS,WAS,fg3_make,1,False,False,,Beal 27' 3PT Jump Shot (21 PTS),75-63,75,63
+0022000479,2021-02-22,LAL,WAS,30.57,3,5,26,LAL,LAL,tov,13,False,False,James Backcourt Turnover (P4.T12),,75-63,75,63
+0022000479,2021-02-22,LAL,WAS,30.8,3,5,12,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 27' 3PT Jump Shot,75-63,75,63
+0022000479,2021-02-22,LAL,WAS,30.87,3,5,8,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:6),,75-63,75,63
+0022000479,2021-02-22,LAL,WAS,30.93,3,5,4,LAL,LAL,fg3_miss,2,False,False,MISS James 26' 3PT Running Jump Shot,,75-63,75,63
+0022000479,2021-02-22,LAL,WAS,30.98,3,5,1,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:5),75-63,75,63
+0022000479,2021-02-22,LAL,WAS,31.1,3,4,54,WAS,WAS,fg_make,98,False,False,,Lopez 1' Cutting Layup Shot (6 PTS) (Beal 5 AST),75-65,75,65
+0022000479,2021-02-22,LAL,WAS,31.53,3,4,28,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 27' 3PT Jump Shot,,75-65,75,65
+0022000479,2021-02-22,LAL,WAS,31.6,3,4,24,WAS,WAS,reb,0,False,False,,Mathews REBOUND (Off:0 Def:3),75-65,75,65
+0022000479,2021-02-22,LAL,WAS,31.7,3,4,18,WAS,WAS,fg_make,6,False,False,,Neto 2' Driving Layup (2 PTS),75-67,75,67
+0022000479,2021-02-22,LAL,WAS,31.7,3,4,18,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,75-67,75,67
+0022000479,2021-02-22,LAL,WAS,32.05,3,3,57,LAL,LAL,fg_make,1,False,False,Harrell 13' Jump Shot (17 PTS),,77-67,77,67
+0022000479,2021-02-22,LAL,WAS,32.3,3,3,42,WAS,WAS,fg_make,5,False,False,,Lopez 2' Layup (8 PTS) (Bertans 1 AST),77-69,77,69
+0022000479,2021-02-22,LAL,WAS,32.3,3,3,42,WAS,LAL,foul,2,False,False,Harrell S.FOUL (P3.T1) (J.Goldenberg),,77-69,77,69
+0022000479,2021-02-22,LAL,WAS,32.3,3,3,42,WAS,WAS,ft_make,10,False,False,,Lopez Free Throw 1 of 1 (9 PTS),77-70,77,70
+0022000479,2021-02-22,LAL,WAS,32.55,3,3,27,LAL,LAL,fg_miss,1,False,False,MISS Harrell 15' Jump Shot,,77-70,77,70
+0022000479,2021-02-22,LAL,WAS,32.6,3,3,24,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:5),77-70,77,70
+0022000479,2021-02-22,LAL,WAS,32.78,3,3,13,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 27' 3PT Jump Shot,77-70,77,70
+0022000479,2021-02-22,LAL,WAS,32.85,3,3,9,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:3),,77-70,77,70
+0022000479,2021-02-22,LAL,WAS,32.92,3,3,5,LAL,LAL,fg_make,79,False,False,Morris 18' Pullup Jump Shot (5 PTS) (Caruso 1 AST),,79-70,79,70
+0022000479,2021-02-22,LAL,WAS,33.18,3,2,49,WAS,LAL,foul,2,False,False,Kuzma S.FOUL (P3.T2) (J.Capers),,79-70,79,70
+0022000479,2021-02-22,LAL,WAS,33.18,3,2,49,WAS,WAS,ft_make,11,False,False,,Lopez Free Throw 1 of 2 (10 PTS),79-71,79,71
+0022000479,2021-02-22,LAL,WAS,33.18,3,2,49,WAS,WAS,ft_make,12,False,False,,Lopez Free Throw 2 of 2 (11 PTS),79-72,79,72
+0022000479,2021-02-22,LAL,WAS,33.37,3,2,38,LAL,LAL,fg_miss,5,False,False,MISS Horton-Tucker 2' Layup,,79-72,79,72
+0022000479,2021-02-22,LAL,WAS,33.4,3,2,36,WAS,WAS,reb,0,False,False,,Bertans REBOUND (Off:1 Def:1),79-72,79,72
+0022000479,2021-02-22,LAL,WAS,33.48,3,2,31,WAS,LAL,foul,2,False,False,Caruso S.FOUL (P3.T3) (J.Capers),,79-72,79,72
+0022000479,2021-02-22,LAL,WAS,33.48,3,2,31,WAS,WAS,ft_miss,13,False,False,,MISS Beal Free Throw 1 of 3,79-72,79,72
+0022000479,2021-02-22,LAL,WAS,33.48,3,2,31,WAS,WAS,reb,1,False,False,,Wizards Rebound,79-72,79,72
+0022000479,2021-02-22,LAL,WAS,33.48,3,2,31,WAS,WAS,ft_make,14,False,False,,Beal Free Throw 2 of 3 (22 PTS),79-73,79,73
+0022000479,2021-02-22,LAL,WAS,33.48,3,2,31,WAS,WAS,ft_make,15,False,False,,Beal Free Throw 3 of 3 (23 PTS),79-74,79,74
+0022000479,2021-02-22,LAL,WAS,33.65,3,2,21,WAS,LAL,foul,14,False,False,Harrell FLAGRANT.FOUL.TYPE1 (P4.T4) (J.Goldenberg),,79-74,79,74
+0022000479,2021-02-22,LAL,WAS,33.65,3,2,21,LAL,LAL,tov,0,False,False,Harrell No Turnover (P1.T13),,79-74,79,74
+0022000479,2021-02-22,LAL,WAS,33.65,3,2,21,LAL,WAS,ft_make,18,False,False,,Bertans Free Throw Flagrant 1 of 2 (1 PTS),79-75,79,75
+0022000479,2021-02-22,LAL,WAS,33.65,3,2,21,LAL,WAS,ft_make,19,False,False,,Bertans Free Throw Flagrant 2 of 2 (2 PTS),79-76,79,76
+0022000479,2021-02-22,LAL,WAS,33.77,3,2,14,WAS,WAS,fg_miss,98,False,False,,MISS Lopez 1' Cutting Layup Shot,79-76,79,76
+0022000479,2021-02-22,LAL,WAS,33.77,3,2,14,WAS,WAS,reb,0,False,False,,Wizards Rebound,79-76,79,76
+0022000479,2021-02-22,LAL,WAS,33.88,3,2,7,WAS,WAS,fg_miss,58,False,False,,MISS Lopez 8' Turnaround Hook Shot,79-76,79,76
+0022000479,2021-02-22,LAL,WAS,33.93,3,2,4,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:7),,79-76,79,76
+0022000479,2021-02-22,LAL,WAS,34.13,3,1,52,LAL,LAL,fg_make,6,False,False,Harrell 4' Driving Layup (19 PTS) (Caruso 2 AST),,81-76,81,76
+0022000479,2021-02-22,LAL,WAS,34.13,3,1,52,LAL,WAS,foul,2,False,False,,Westbrook S.FOUL (P1.T4) (S.Twardoski),81-76,81,76
+0022000479,2021-02-22,LAL,WAS,34.13,3,1,52,LAL,LAL,ft_make,10,False,False,Harrell Free Throw 1 of 1 (20 PTS),,82-76,82,76
+0022000479,2021-02-22,LAL,WAS,34.37,3,1,38,WAS,WAS,fg_make,79,False,False,,Westbrook 19' Pullup Jump Shot (17 PTS),82-78,82,78
+0022000479,2021-02-22,LAL,WAS,34.58,3,1,25,LAL,LAL,fg_make,6,False,False,Morris 3' Driving Layup (7 PTS) (James 10 AST),,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,34.7,3,1,18,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 25' 3PT Jump Shot,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,34.77,3,1,14,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:4),,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,34.88,3,1,7,LAL,LAL,fg3_miss,103,False,False,MISS James 26' 3PT Running Pull-Up Jump Shot,,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,34.93,3,1,4,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:9),84-78,84,78
+0022000479,2021-02-22,LAL,WAS,35.22,3,0,47,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 29' 3PT Jump Shot,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,35.27,3,0,44,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:5),,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,35.32,3,0,41,WAS,LAL,foul,26,False,False,Horton-Tucker Offensive Charge Foul (P4.PN) (J.Goldenberg),,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,35.32,3,0,41,LAL,LAL,tov,37,False,False,Horton-Tucker Offensive Foul Turnover (P2.T14),,84-78,84,78
+0022000479,2021-02-22,LAL,WAS,35.45,3,0,33,WAS,WAS,fg_make,6,False,False,,Westbrook 1' Driving Layup (19 PTS),84-80,84,80
+0022000479,2021-02-22,LAL,WAS,35.8,3,0,12,LAL,LAL,fg_make,79,False,False,Caruso 19' Pullup Jump Shot (6 PTS),,86-80,86,80
+0022000479,2021-02-22,LAL,WAS,35.98,3,0,1,WAS,WAS,fg_miss,79,False,False,,MISS Westbrook 16' Pullup Jump Shot,86-80,86,80
+0022000479,2021-02-22,LAL,WAS,35.98,3,0,1,WAS,WAS,reb,0,False,False,,Wizards Rebound,86-80,86,80
+0022000479,2021-02-22,LAL,WAS,36.0,3,0,0,WAS,,period_end,0,False,False,,,86-80,86,80
+0022000479,2021-02-22,LAL,WAS,36.0,4,12,0,WAS,,period_start,0,False,False,,,86-80,86,80
+0022000479,2021-02-22,LAL,WAS,36.35,4,11,39,LAL,LAL,fg_miss,6,False,False,MISS Morris 4' Driving Layup,,86-80,86,80
+0022000479,2021-02-22,LAL,WAS,36.38,4,11,37,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:4),86-80,86,80
+0022000479,2021-02-22,LAL,WAS,36.48,4,11,31,WAS,WAS,fg_make,6,False,False,,Westbrook 3' Driving Layup (21 PTS) (Avdija 1 AST),86-82,86,82
+0022000479,2021-02-22,LAL,WAS,36.77,4,11,14,LAL,LAL,fg_make,98,False,False,Harrell 2' Cutting Layup Shot (22 PTS) (Caruso 3 AST),,88-82,88,82
+0022000479,2021-02-22,LAL,WAS,37.08,4,10,55,WAS,WAS,fg_make,57,False,False,,Lopez 2' Driving Hook Shot (13 PTS) (Westbrook 5 AST),88-84,88,84
+0022000479,2021-02-22,LAL,WAS,37.38,4,10,37,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P5.T15),,88-84,88,84
+0022000479,2021-02-22,LAL,WAS,37.38,4,10,37,LAL,WAS,steal,1,False,True,steal,steal,88-84,88,84
+0022000479,2021-02-22,LAL,WAS,37.48,4,10,31,WAS,WAS,fg3_make,1,False,False,,Bertans 24' 3PT Jump Shot (5 PTS) (Neto 2 AST),88-87,88,87
+0022000479,2021-02-22,LAL,WAS,37.48,4,10,31,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,88-87,88,87
+0022000479,2021-02-22,LAL,WAS,37.75,4,10,15,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P6.T16),,88-87,88,87
+0022000479,2021-02-22,LAL,WAS,37.75,4,10,15,LAL,WAS,steal,1,False,True,steal,steal,88-87,88,87
+0022000479,2021-02-22,LAL,WAS,37.82,4,10,11,,LAL,jump_ball,0,False,False,Jump Ball Caruso vs. Lopez: Tip to Westbrook,,88-87,88,87
+0022000479,2021-02-22,LAL,WAS,37.9,4,10,6,WAS,WAS,fg3_make,1,False,False,,Avdija 26' 3PT Jump Shot (3 PTS) (Westbrook 6 AST),88-90,88,90
+0022000479,2021-02-22,LAL,WAS,38.08,4,9,55,LAL,LAL,fg_make,6,False,False,Horton-Tucker 3' Driving Layup (7 PTS),,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.08,4,9,55,LAL,WAS,foul,2,False,False,,Avdija S.FOUL (P1.T1) (S.Twardoski),90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.08,4,9,55,LAL,LAL,ft_miss,10,False,False,MISS Horton-Tucker Free Throw 1 of 1,,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.13,4,9,52,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:10),90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.45,4,9,33,WAS,WAS,fg_miss,6,True,False,,MISS Neto 3' Driving Layup,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.45,4,9,33,WAS,LAL,block,6,True,False,block,block,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.45,4,9,33,WAS,WAS,reb,0,False,False,,Wizards Rebound,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.5,4,9,30,WAS,WAS,fg3_miss,63,False,False,,MISS Bertans 24' 3PT Fadeaway Jumper,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.5,4,9,30,LAL,LAL,reb,0,False,False,LAKERS Rebound,,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.5,4,9,30,LAL,WAS,foul,3,False,False,,Westbrook L.B.FOUL (P2.T2) (J.Capers),90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.68,4,9,19,LAL,LAL,fg_miss,5,False,False,MISS Harrell 4' Layup,,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.75,4,9,15,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:3 Def:5),,90-90,90,90
+0022000479,2021-02-22,LAL,WAS,38.75,4,9,15,LAL,LAL,fg_make,97,False,False,Harrell Tip Layup Shot (24 PTS),,92-90,92,90
+0022000479,2021-02-22,LAL,WAS,38.85,4,9,9,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.6 Short 0),92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.05,4,8,57,WAS,WAS,tov,1,False,True,,Beal Bad Pass Turnover (P3.T11),92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.05,4,8,57,WAS,LAL,steal,1,False,True,steal,steal,92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.32,4,8,41,LAL,LAL,fg3_miss,80,False,False,MISS James 27' 3PT Step Back Jump Shot,,92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.32,4,8,41,WAS,WAS,reb,0,False,False,,Wizards Rebound,92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.53,4,8,28,WAS,WAS,tov,2,False,True,,Lopez Lost Ball Turnover (P3.T12),92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.53,4,8,28,WAS,LAL,steal,2,False,True,steal,steal,92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.62,4,8,23,LAL,LAL,fg3_miss,2,False,False,MISS Caldwell-Pope 3PT Running Jump Shot,,92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.67,4,8,20,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:5),92-90,92,90
+0022000479,2021-02-22,LAL,WAS,39.73,4,8,16,WAS,WAS,fg_make,41,False,False,,Westbrook 2' Running Layup (23 PTS) (Avdija 2 AST),92-92,92,92
+0022000479,2021-02-22,LAL,WAS,40.12,4,7,53,LAL,LAL,fg3_miss,1,False,False,MISS Morris 3PT Jump Shot,,92-92,92,92
+0022000479,2021-02-22,LAL,WAS,40.13,4,7,52,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:4 Def:5),,92-92,92,92
+0022000479,2021-02-22,LAL,WAS,40.13,4,7,52,LAL,WAS,foul,2,False,False,,Westbrook S.FOUL (P3.T3) (S.Twardoski),92-92,92,92
+0022000479,2021-02-22,LAL,WAS,40.13,4,7,52,LAL,LAL,ft_make,11,False,False,Harrell Free Throw 1 of 2 (25 PTS),,93-92,93,92
+0022000479,2021-02-22,LAL,WAS,40.13,4,7,52,LAL,LAL,ft_make,12,False,False,Harrell Free Throw 2 of 2 (26 PTS),,94-92,94,92
+0022000479,2021-02-22,LAL,WAS,40.37,4,7,38,WAS,WAS,tov,1,False,True,,Beal Bad Pass Turnover (P4.T13),94-92,94,92
+0022000479,2021-02-22,LAL,WAS,40.37,4,7,38,WAS,LAL,steal,1,False,True,steal,steal,94-92,94,92
+0022000479,2021-02-22,LAL,WAS,40.42,4,7,35,LAL,LAL,tov,1,False,True,Matthews Bad Pass Turnover (P2.T17),,94-92,94,92
+0022000479,2021-02-22,LAL,WAS,40.42,4,7,35,LAL,WAS,steal,1,False,True,steal,steal,94-92,94,92
+0022000479,2021-02-22,LAL,WAS,40.48,4,7,31,WAS,WAS,fg_make,41,False,False,,Avdija 2' Running Layup (5 PTS) (Beal 6 AST),94-94,94,94
+0022000479,2021-02-22,LAL,WAS,40.82,4,7,11,LAL,LAL,fg_miss,101,False,False,MISS Harrell 5' Driving Floating Jump Shot,,94-94,94,94
+0022000479,2021-02-22,LAL,WAS,40.85,4,7,9,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:6),94-94,94,94
+0022000479,2021-02-22,LAL,WAS,40.88,4,7,7,LAL,WAS,foul,26,False,False,,Beal Offensive Charge Foul (P2.T4) (S.Twardoski),94-94,94,94
+0022000479,2021-02-22,LAL,WAS,40.88,4,7,7,WAS,WAS,tov,37,False,False,,Beal Offensive Foul Turnover (P5.T14),94-94,94,94
+0022000479,2021-02-22,LAL,WAS,41.17,4,6,50,LAL,LAL,fg3_miss,1,False,False,MISS Matthews 3PT Jump Shot,,94-94,94,94
+0022000479,2021-02-22,LAL,WAS,41.22,4,6,47,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:0 Def:2),94-94,94,94
+0022000479,2021-02-22,LAL,WAS,41.23,4,6,46,WAS,WAS,fg_make,50,False,False,,Hachimura 2' Running Dunk (11 PTS) (Neto 3 AST),94-96,94,96
+0022000479,2021-02-22,LAL,WAS,41.23,4,6,46,WAS,LAL,foul,2,False,False,Harrell S.FOUL (P5.T1) (S.Twardoski),,94-96,94,96
+0022000479,2021-02-22,LAL,WAS,41.23,4,6,46,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,94-96,94,96
+0022000479,2021-02-22,LAL,WAS,41.23,4,6,46,LAL,WAS,ft_make,10,False,False,,Hachimura Free Throw 1 of 1 (12 PTS),94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.53,4,6,28,LAL,LAL,fg_miss,6,False,False,MISS James 2' Driving Layup,,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.57,4,6,26,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:0 Def:3),94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.67,4,6,20,WAS,WAS,fg3_miss,80,False,False,,MISS Beal 25' 3PT Step Back Jump Shot,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.73,4,6,16,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:1 Def:3),94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.8,4,6,12,WAS,WAS,fg3_miss,1,False,False,,MISS Neto 27' 3PT Jump Shot,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.87,4,6,8,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:2 Def:1),,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.97,4,6,2,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P7.T18),,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,41.97,4,6,2,LAL,WAS,steal,2,False,True,steal,steal,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,42.03,4,5,58,WAS,WAS,fg_miss,41,True,False,,MISS Beal 2' Running Layup,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,42.03,4,5,58,WAS,LAL,block,41,True,False,block,block,94-97,94,97
+0022000479,2021-02-22,LAL,WAS,42.12,4,5,53,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:2 Def:3),94-97,94,97
+0022000479,2021-02-22,LAL,WAS,42.12,4,5,53,WAS,WAS,fg_make,72,False,False,,Neto 1' Putback Layup (4 PTS),94-99,94,99
+0022000479,2021-02-22,LAL,WAS,42.35,4,5,39,LAL,LAL,tov,1,False,True,Caldwell-Pope Bad Pass Turnover (P1.T19),,94-99,94,99
+0022000479,2021-02-22,LAL,WAS,42.35,4,5,39,LAL,WAS,steal,1,False,True,steal,steal,94-99,94,99
+0022000479,2021-02-22,LAL,WAS,42.35,4,5,39,WAS,LAL,foul,28,False,False,Gasol Personal Take Foul (P3.T2) (J.Capers),,94-99,94,99
+0022000479,2021-02-22,LAL,WAS,42.57,4,5,26,WAS,WAS,fg_miss,79,False,False,,MISS Beal 14' Pullup Jump Shot,94-99,94,99
+0022000479,2021-02-22,LAL,WAS,42.57,4,5,26,LAL,LAL,reb,0,False,False,LAKERS Rebound,,94-99,94,99
+0022000479,2021-02-22,LAL,WAS,42.57,4,5,26,LAL,WAS,foul,3,False,False,,Lopez L.B.FOUL (P2.PN) (J.Goldenberg),94-99,94,99
+0022000479,2021-02-22,LAL,WAS,42.92,4,5,5,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 28' 3PT Jump Shot,,94-99,94,99
+0022000479,2021-02-22,LAL,WAS,43.0,4,5,0,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:6),94-99,94,99
+0022000479,2021-02-22,LAL,WAS,43.13,4,4,52,WAS,WAS,fg3_make,1,False,False,,Bertans 26' 3PT Jump Shot (8 PTS) (Westbrook 7 AST),94-102,94,102
+0022000479,2021-02-22,LAL,WAS,43.37,4,4,38,LAL,LAL,fg3_make,1,False,False,Gasol 26' 3PT Jump Shot (7 PTS) (James 11 AST),,97-102,97,102
+0022000479,2021-02-22,LAL,WAS,43.68,4,4,19,WAS,LAL,foul,2,False,False,Kuzma S.FOUL (P4.T3) (S.Twardoski),,97-102,97,102
+0022000479,2021-02-22,LAL,WAS,43.68,4,4,19,WAS,WAS,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (24 PTS),97-103,97,103
+0022000479,2021-02-22,LAL,WAS,43.68,4,4,19,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (25 PTS),97-104,97,104
+0022000479,2021-02-22,LAL,WAS,43.92,4,4,5,LAL,LAL,fg_make,6,False,False,James 2' Driving Layup (20 PTS) (Gasol 3 AST),,99-104,99,104
+0022000479,2021-02-22,LAL,WAS,43.92,4,4,5,LAL,WAS,foul,2,False,False,,Lopez S.FOUL (P3.PN) (J.Goldenberg),99-104,99,104
+0022000479,2021-02-22,LAL,WAS,43.92,4,4,5,LAL,LAL,ft_make,10,False,False,James Free Throw 1 of 1 (21 PTS),,100-104,100,104
+0022000479,2021-02-22,LAL,WAS,44.17,4,3,50,WAS,WAS,fg_miss,79,False,False,,MISS Beal 13' Pullup Jump Shot,100-104,100,104
+0022000479,2021-02-22,LAL,WAS,44.2,4,3,48,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:8),,100-104,100,104
+0022000479,2021-02-22,LAL,WAS,44.28,4,3,43,LAL,LAL,fg_miss,41,False,False,MISS Caruso 3' Running Layup,,100-104,100,104
+0022000479,2021-02-22,LAL,WAS,44.33,4,3,40,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:11),100-104,100,104
+0022000479,2021-02-22,LAL,WAS,44.43,4,3,34,WAS,WAS,fg_miss,1,False,False,,MISS Bertans 21' Jump Shot,100-104,100,104
+0022000479,2021-02-22,LAL,WAS,44.48,4,3,31,LAL,LAL,reb,0,False,False,Gasol REBOUND (Off:0 Def:4),,100-104,100,104
+0022000479,2021-02-22,LAL,WAS,44.62,4,3,23,LAL,LAL,fg_make,73,False,False,James 1' Driving Reverse Layup (23 PTS),,102-104,102,104
+0022000479,2021-02-22,LAL,WAS,44.62,4,3,23,LAL,WAS,foul,2,False,False,,Hachimura S.FOUL (P2.PN) (J.Capers),102-104,102,104
+0022000479,2021-02-22,LAL,WAS,44.62,4,3,23,LAL,LAL,ft_miss,10,False,False,MISS James Free Throw 1 of 1,,102-104,102,104
+0022000479,2021-02-22,LAL,WAS,44.67,4,3,20,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:12),102-104,102,104
+0022000479,2021-02-22,LAL,WAS,44.82,4,3,11,WAS,LAL,foul,2,False,False,Gasol S.FOUL (P4.T4) (J.Capers),,102-104,102,104
+0022000479,2021-02-22,LAL,WAS,44.82,4,3,11,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (24 PTS),102-105,102,105
+0022000479,2021-02-22,LAL,WAS,44.82,4,3,11,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (25 PTS),102-106,102,106
+0022000479,2021-02-22,LAL,WAS,45.18,4,2,49,LAL,LAL,fg3_make,1,False,False,Kuzma 24' 3PT Jump Shot (14 PTS) (Gasol 4 AST),,105-106,105,106
+0022000479,2021-02-22,LAL,WAS,45.42,4,2,35,WAS,WAS,fg3_make,1,False,False,,Hachimura 3PT Jump Shot (15 PTS) (Westbrook 8 AST),105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.5,4,2,30,LAL,WAS,foul,1,False,False,,Hachimura P.FOUL (P3.PN) (J.Goldenberg),105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.5,4,2,30,LAL,LAL,ft_miss,11,False,False,MISS Gasol Free Throw 1 of 2,,105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.5,4,2,30,LAL,LAL,reb,1,False,False,LAKERS Rebound,,105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.5,4,2,30,LAL,LAL,ft_miss,12,False,False,MISS Gasol Free Throw 2 of 2,,105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.58,4,2,25,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:7),105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.8,4,2,12,LAL,WAS,foul,4,False,False,,Westbrook OFF.Foul (P4) (J.Goldenberg),105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.8,4,2,12,WAS,WAS,tov,37,False,False,,Westbrook Offensive Foul Turnover (P2.T15),105-109,105,109
+0022000479,2021-02-22,LAL,WAS,45.9,4,2,6,LAL,WAS,violation,5,False,False,,Hachimura Violation:Kicked Ball (J.Capers),105-109,105,109
+0022000479,2021-02-22,LAL,WAS,46.02,4,1,59,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 3PT Jump Shot,,105-109,105,109
+0022000479,2021-02-22,LAL,WAS,46.05,4,1,57,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:6),,105-109,105,109
+0022000479,2021-02-22,LAL,WAS,46.12,4,1,53,LAL,LAL,fg3_make,1,False,False,Caruso 3PT Jump Shot (9 PTS) (James 12 AST),,108-109,108,109
+0022000479,2021-02-22,LAL,WAS,46.5,4,1,30,WAS,LAL,foul,2,False,False,Morris S.FOUL (P1.PN) (J.Capers),,108-109,108,109
+0022000479,2021-02-22,LAL,WAS,46.5,4,1,30,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (26 PTS),108-110,108,110
+0022000479,2021-02-22,LAL,WAS,46.5,4,1,30,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (27 PTS),108-111,108,111
+0022000479,2021-02-22,LAL,WAS,46.83,4,1,10,LAL,LAL,fg_miss,6,False,False,MISS James 5' Driving Layup,,108-111,108,111
+0022000479,2021-02-22,LAL,WAS,46.87,4,1,8,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:3 Def:6),,108-111,108,111
+0022000479,2021-02-22,LAL,WAS,46.87,4,1,8,LAL,LAL,fg3_make,1,False,False,Caldwell-Pope 28' 3PT Jump Shot (18 PTS) (Kuzma 2 AST),,111-111,111,111
+0022000479,2021-02-22,LAL,WAS,47.15,4,0,51,WAS,WAS,fg3_make,1,False,False,,Avdija 25' 3PT Jump Shot (8 PTS) (Westbrook 9 AST),111-114,111,114
+0022000479,2021-02-22,LAL,WAS,47.15,4,0,51,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,111-114,111,114
+0022000479,2021-02-22,LAL,WAS,47.5,4,0,30,LAL,LAL,fg3_miss,80,False,False,MISS James 28' 3PT Step Back Jump Shot,,111-114,111,114
+0022000479,2021-02-22,LAL,WAS,47.57,4,0,26,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:8),111-114,111,114
+0022000479,2021-02-22,LAL,WAS,47.6,4,0,24,,LAL,jump_ball,0,False,False,Jump Ball Caruso vs. Avdija: Tip to Caldwell-Pope,,111-114,111,114
+0022000479,2021-02-22,LAL,WAS,47.6,4,0,24,WAS,WAS,tov,2,False,True,,Avdija Lost Ball Turnover (P1.T16),111-114,111,114
+0022000479,2021-02-22,LAL,WAS,47.6,4,0,24,WAS,LAL,steal,2,False,True,steal,steal,111-114,111,114
+0022000479,2021-02-22,LAL,WAS,47.73,4,0,16,LAL,LAL,fg_make,5,False,False,James 3' Layup (25 PTS),,113-114,113,114
+0022000479,2021-02-22,LAL,WAS,47.75,4,0,15,WAS,LAL,foul,28,False,False,Morris Personal Take Foul (P2.PN) (S.Twardoski),,113-114,113,114
+0022000479,2021-02-22,LAL,WAS,47.75,4,0,15,WAS,WAS,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,113-114,113,114
+0022000479,2021-02-22,LAL,WAS,47.75,4,0,15,WAS,WAS,reb,1,False,False,,Wizards Rebound,113-114,113,114
+0022000479,2021-02-22,LAL,WAS,47.75,4,0,15,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (26 PTS),113-115,113,115
+0022000479,2021-02-22,LAL,WAS,47.75,4,0,15,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 7 Short 0),,113-115,113,115
+0022000479,2021-02-22,LAL,WAS,47.85,4,0,9,LAL,LAL,fg_make,63,False,False,James 4' Fadeaway Jumper (27 PTS),,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,47.85,4,0,9,LAL,WAS,foul,2,False,False,,Westbrook S.FOUL (P5.PN) (J.Goldenberg),115-115,115,115
+0022000479,2021-02-22,LAL,WAS,47.85,4,0,9,LAL,LAL,ft_miss,10,False,False,MISS James Free Throw 1 of 1,,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,47.85,4,0,9,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:13),115-115,115,115
+0022000479,2021-02-22,LAL,WAS,47.85,4,0,9,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.7 Short 0),115-115,115,115
+0022000479,2021-02-22,LAL,WAS,47.98,4,0,1,WAS,WAS,fg3_miss,80,False,False,,MISS Beal 26' 3PT Step Back Jump Shot,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,47.98,4,0,1,WAS,WAS,reb,0,False,False,,Wizards Rebound,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.0,4,0,0,WAS,,period_end,0,False,False,,,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.0,5,5,0,WAS,,period_start,0,False,False,,,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.0,5,5,0,,LAL,jump_ball,0,False,False,Jump Ball Gasol vs. Lopez: Tip to James,,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.28,5,4,43,LAL,LAL,fg_miss,80,False,False,MISS James 19' Step Back Jump Shot,,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.4,5,4,36,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:1 Def:2),,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.4,5,4,36,LAL,LAL,fg_miss,97,False,False,MISS Caruso Tip Layup Shot,,115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.4,5,4,36,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:6),115-115,115,115
+0022000479,2021-02-22,LAL,WAS,48.53,5,4,28,WAS,WAS,fg_make,79,False,False,,Westbrook 20' Pullup Jump Shot (28 PTS),115-117,115,117
+0022000479,2021-02-22,LAL,WAS,48.93,5,4,4,LAL,LAL,fg3_miss,1,False,False,MISS James 28' 3PT Jump Shot,,115-117,115,117
+0022000479,2021-02-22,LAL,WAS,49.0,5,4,0,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:2 Def:2),,115-117,115,117
+0022000479,2021-02-22,LAL,WAS,49.18,5,3,49,LAL,LAL,fg_make,80,False,False,James 18' Step Back Jump Shot (29 PTS),,117-117,117,117
+0022000479,2021-02-22,LAL,WAS,49.55,5,3,27,WAS,WAS,fg_make,75,False,False,,Westbrook 2' Driving Finger Roll Layup (30 PTS),117-119,117,119
+0022000479,2021-02-22,LAL,WAS,49.88,5,3,7,LAL,LAL,fg_miss,102,False,False,MISS Kuzma 4' Driving Floating Bank Jump Shot,,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,49.92,5,3,5,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:1),117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.05,5,2,57,WAS,WAS,fg_miss,79,False,False,,MISS Bertans 16' Pullup Jump Shot,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.1,5,2,54,LAL,LAL,reb,0,False,False,Gasol REBOUND (Off:0 Def:5),,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.28,5,2,43,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 25' 3PT Jump Shot,,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.35,5,2,39,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:7),117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.4,5,2,36,WAS,LAL,foul,1,False,False,Gasol P.FOUL (P5.T1) (S.Twardoski),,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.5,5,2,30,WAS,WAS,fg_miss,79,False,False,,MISS Westbrook 15' Pullup Jump Shot,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.58,5,2,25,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:3 Def:7),,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,50.83,5,2,10,LAL,LAL,tov,45,False,False,James Out of Bounds - Bad Pass Turnover Turnover (P8.T20),,117-119,117,119
+0022000479,2021-02-22,LAL,WAS,51.02,5,1,59,WAS,WAS,fg_make,80,False,False,,Beal 9' Step Back Jump Shot (29 PTS),117-121,117,121
+0022000479,2021-02-22,LAL,WAS,51.02,5,1,59,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 8 Short 0),,117-121,117,121
+0022000479,2021-02-22,LAL,WAS,51.32,5,1,41,LAL,WAS,foul,2,False,False,,Hachimura S.FOUL (P4.T1) (J.Capers),117-121,117,121
+0022000479,2021-02-22,LAL,WAS,51.32,5,1,41,LAL,LAL,ft_make,11,False,False,Caruso Free Throw 1 of 2 (10 PTS),,118-121,118,121
+0022000479,2021-02-22,LAL,WAS,51.32,5,1,41,LAL,LAL,ft_make,12,False,False,Caruso Free Throw 2 of 2 (11 PTS),,119-121,119,121
+0022000479,2021-02-22,LAL,WAS,51.6,5,1,24,WAS,WAS,fg_make,73,False,False,,Beal 4' Driving Reverse Layup (31 PTS),119-123,119,123
+0022000479,2021-02-22,LAL,WAS,51.9,5,1,6,LAL,LAL,fg_make,6,False,False,James Driving Layup (31 PTS),,121-123,121,123
+0022000479,2021-02-22,LAL,WAS,52.3,5,0,42,WAS,WAS,fg_make,101,False,False,,Beal 5' Driving Floating Jump Shot (33 PTS),121-125,121,125
+0022000479,2021-02-22,LAL,WAS,52.4,5,0,36,LAL,LAL,fg3_make,1,False,False,Caldwell-Pope 25' 3PT Jump Shot (21 PTS) (James 13 AST),,124-125,124,125
+0022000479,2021-02-22,LAL,WAS,52.77,5,0,14,WAS,LAL,foul,1,False,False,Gasol P.FOUL (P6.T2) (J.Goldenberg),,124-125,124,125
+0022000479,2021-02-22,LAL,WAS,52.77,5,0,14,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 9 Short 0),,124-125,124,125
+0022000479,2021-02-22,LAL,WAS,52.82,5,0,11,WAS,WAS,fg_make,98,False,False,,Westbrook 2' Cutting Layup Shot (32 PTS) (Bertans 2 AST),124-127,124,127
+0022000479,2021-02-22,LAL,WAS,52.82,5,0,11,WAS,LAL,foul,2,False,False,James S.FOUL (P2.PN) (S.Twardoski),,124-127,124,127
+0022000479,2021-02-22,LAL,WAS,52.82,5,0,11,WAS,WAS,ft_miss,10,False,False,,MISS Westbrook Free Throw 1 of 1,124-127,124,127
+0022000479,2021-02-22,LAL,WAS,52.85,5,0,9,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:9),,124-127,124,127
+0022000479,2021-02-22,LAL,WAS,52.9,5,0,6,LAL,LAL,fg3_miss,79,False,False,MISS James 37' 3PT Pullup Jump Shot,,124-127,124,127
+0022000479,2021-02-22,LAL,WAS,52.93,5,0,4,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:4 Def:7),,124-127,124,127
+0022000479,2021-02-22,LAL,WAS,52.97,5,0,2,LAL,LAL,fg3_miss,63,False,False,MISS Kuzma 3PT Fadeaway Jumper,,124-127,124,127
+0022000479,2021-02-22,LAL,WAS,52.98,5,0,1,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:9),124-127,124,127
+0022000479,2021-02-22,LAL,WAS,53.0,5,0,0,WAS,,period_end,0,False,False,,,124-127,124,127

@@ -1,0 +1,466 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021901295,2020-08-10,MIA,IND,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021901295,2020-08-10,MIA,IND,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Adebayo vs. Turner: Tip to Dragic,,0-0,0,0
+0021901295,2020-08-10,MIA,IND,0.22,1,11,47,MIA,IND,foul,2,False,False,,Brogdon S.FOUL (P1.T1) (D.Collins),0-0,0,0
+0021901295,2020-08-10,MIA,IND,0.22,1,11,47,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (1 PTS),,1-0,1,0
+0021901295,2020-08-10,MIA,IND,0.22,1,11,47,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (2 PTS),,2-0,2,0
+0021901295,2020-08-10,MIA,IND,0.57,1,11,26,IND,IND,fg_miss,47,True,False,,MISS Turner 19' Turnaround Jump Shot,2-0,2,0
+0021901295,2020-08-10,MIA,IND,0.57,1,11,26,IND,MIA,block,47,True,False,block,block,2-0,2,0
+0021901295,2020-08-10,MIA,IND,0.63,1,11,22,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,2-0,2,0
+0021901295,2020-08-10,MIA,IND,0.72,1,11,17,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 19' Jump Shot,,2-0,2,0
+0021901295,2020-08-10,MIA,IND,0.75,1,11,15,IND,IND,reb,0,False,False,,Warren REBOUND (Off:0 Def:1),2-0,2,0
+0021901295,2020-08-10,MIA,IND,1.12,1,10,53,IND,IND,fg_miss,73,False,False,,MISS Brogdon 7' Driving Reverse Layup,2-0,2,0
+0021901295,2020-08-10,MIA,IND,1.17,1,10,50,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:1),,2-0,2,0
+0021901295,2020-08-10,MIA,IND,1.3,1,10,42,MIA,MIA,fg3_make,1,False,False,Dragic 25' 3PT Jump Shot (3 PTS) (Crowder 1 AST),,5-0,5,0
+0021901295,2020-08-10,MIA,IND,1.6,1,10,24,IND,IND,fg3_miss,79,False,False,,MISS Warren 26' 3PT Pullup Jump Shot,5-0,5,0
+0021901295,2020-08-10,MIA,IND,1.67,1,10,20,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:0 Def:1),,5-0,5,0
+0021901295,2020-08-10,MIA,IND,1.77,1,10,14,MIA,IND,violation,5,False,False,,Brogdon Violation:Kicked Ball (P.Fraher),5-0,5,0
+0021901295,2020-08-10,MIA,IND,1.92,1,10,5,MIA,MIA,fg_miss,3,True,False,MISS Adebayo 5' Hook Shot,,5-0,5,0
+0021901295,2020-08-10,MIA,IND,1.92,1,10,5,MIA,IND,block,3,True,False,block,block,5-0,5,0
+0021901295,2020-08-10,MIA,IND,1.97,1,10,2,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:1),5-0,5,0
+0021901295,2020-08-10,MIA,IND,2.02,1,9,59,IND,IND,fg3_make,103,False,False,,Oladipo 25' 3PT Running Pull-Up Jump Shot (3 PTS),5-3,5,3
+0021901295,2020-08-10,MIA,IND,2.28,1,9,43,MIA,MIA,fg_make,67,False,False,Adebayo 3' Hook Bank Shot (2 PTS),,7-3,7,3
+0021901295,2020-08-10,MIA,IND,2.45,1,9,33,IND,IND,tov,2,False,True,,Oladipo Lost Ball Turnover (P1.T1),7-3,7,3
+0021901295,2020-08-10,MIA,IND,2.45,1,9,33,IND,MIA,steal,2,False,True,steal,steal,7-3,7,3
+0021901295,2020-08-10,MIA,IND,2.55,1,9,27,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 3PT Jump Shot,,7-3,7,3
+0021901295,2020-08-10,MIA,IND,2.62,1,9,23,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:1 Def:1),,7-3,7,3
+0021901295,2020-08-10,MIA,IND,2.67,1,9,20,MIA,IND,foul,2,False,False,,Holiday S.FOUL (P1.T2) (D.Taylor),7-3,7,3
+0021901295,2020-08-10,MIA,IND,2.67,1,9,20,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (3 PTS),,8-3,8,3
+0021901295,2020-08-10,MIA,IND,2.67,1,9,20,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (4 PTS),,9-3,9,3
+0021901295,2020-08-10,MIA,IND,2.83,1,9,10,IND,IND,fg3_miss,1,False,False,,MISS Turner 25' 3PT Jump Shot,9-3,9,3
+0021901295,2020-08-10,MIA,IND,2.88,1,9,7,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:1),,9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.1,1,8,54,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.17,1,8,50,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:0 Def:1),9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.32,1,8,41,IND,IND,tov,1,False,True,,Brogdon Bad Pass Turnover (P1.T2),9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.32,1,8,41,IND,MIA,steal,1,False,True,steal,steal,9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.45,1,8,33,MIA,MIA,fg_miss,79,False,False,MISS Adebayo 17' Pullup Jump Shot,,9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.5,1,8,30,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:1),9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.62,1,8,23,IND,IND,fg_miss,79,False,False,,MISS Warren 20' Pullup Jump Shot,9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.7,1,8,18,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:0 Def:1),,9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.97,1,8,2,MIA,MIA,tov,1,False,True,Butler Bad Pass Turnover (P1.T1),,9-3,9,3
+0021901295,2020-08-10,MIA,IND,3.97,1,8,2,MIA,IND,steal,1,False,True,steal,steal,9-3,9,3
+0021901295,2020-08-10,MIA,IND,4.13,1,7,52,IND,IND,fg_make,75,False,False,,Warren 3' Driving Finger Roll Layup (2 PTS) (Oladipo 1 AST),9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.23,1,7,46,MIA,IND,foul,2,False,False,,Turner S.FOUL (P1.T3) (P.Fraher),9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.23,1,7,46,MIA,MIA,ft_miss,11,False,False,MISS Adebayo Free Throw 1 of 2,,9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.23,1,7,46,MIA,MIA,reb,1,False,False,HEAT Rebound,,9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.23,1,7,46,MIA,MIA,ft_miss,12,False,False,MISS Adebayo Free Throw 2 of 2,,9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.27,1,7,44,IND,IND,reb,0,False,False,,Warren REBOUND (Off:0 Def:2),9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.45,1,7,33,IND,IND,fg_miss,79,False,False,,MISS Holiday 15' Pullup Jump Shot,9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.5,1,7,30,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:2),,9-5,9,5
+0021901295,2020-08-10,MIA,IND,4.62,1,7,23,MIA,MIA,fg_make,52,False,False,Adebayo 1' Alley Oop Dunk (4 PTS) (Dragic 1 AST),,11-5,11,5
+0021901295,2020-08-10,MIA,IND,4.85,1,7,9,IND,MIA,foul,2,False,False,Dragic S.FOUL (P1.T1) (P.Fraher),,11-5,11,5
+0021901295,2020-08-10,MIA,IND,4.85,1,7,9,IND,IND,ft_make,11,False,False,,Turner Free Throw 1 of 2 (1 PTS),11-6,11,6
+0021901295,2020-08-10,MIA,IND,4.85,1,7,9,IND,IND,ft_miss,12,False,False,,MISS Turner Free Throw 2 of 2,11-6,11,6
+0021901295,2020-08-10,MIA,IND,4.88,1,7,7,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:2),,11-6,11,6
+0021901295,2020-08-10,MIA,IND,4.97,1,7,2,MIA,MIA,fg_miss,73,False,False,MISS Adebayo 2' Driving Reverse Layup,,11-6,11,6
+0021901295,2020-08-10,MIA,IND,5.0,1,7,0,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:0 Def:2),11-6,11,6
+0021901295,2020-08-10,MIA,IND,5.12,1,6,53,IND,MIA,foul,2,False,False,Butler S.FOUL (P1.T2) (D.Taylor),,11-6,11,6
+0021901295,2020-08-10,MIA,IND,5.12,1,6,53,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,11-6,11,6
+0021901295,2020-08-10,MIA,IND,5.12,1,6,53,IND,IND,ft_miss,11,False,False,,MISS Turner Free Throw 1 of 2,11-6,11,6
+0021901295,2020-08-10,MIA,IND,5.12,1,6,53,IND,IND,reb,1,False,False,,Pacers Rebound,11-6,11,6
+0021901295,2020-08-10,MIA,IND,5.12,1,6,53,IND,IND,ft_make,12,False,False,,Turner Free Throw 2 of 2 (2 PTS),11-7,11,7
+0021901295,2020-08-10,MIA,IND,5.32,1,6,41,MIA,IND,violation,5,False,False,,Holiday Violation:Kicked Ball (D.Collins),11-7,11,7
+0021901295,2020-08-10,MIA,IND,5.42,1,6,35,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 3PT Jump Shot,,11-7,11,7
+0021901295,2020-08-10,MIA,IND,5.47,1,6,32,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:1),,11-7,11,7
+0021901295,2020-08-10,MIA,IND,5.48,1,6,31,MIA,MIA,fg3_make,1,False,False,Crowder 28' 3PT Jump Shot (3 PTS) (Butler 1 AST),,14-7,14,7
+0021901295,2020-08-10,MIA,IND,5.8,1,6,12,IND,IND,fg_miss,1,False,False,,MISS Oladipo 21' Jump Shot,14-7,14,7
+0021901295,2020-08-10,MIA,IND,5.83,1,6,10,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:2),,14-7,14,7
+0021901295,2020-08-10,MIA,IND,5.93,1,6,4,MIA,MIA,tov,40,False,False,Butler Out of Bounds Lost Ball Turnover (P2.T2),,14-7,14,7
+0021901295,2020-08-10,MIA,IND,6.17,1,5,50,IND,IND,tov,45,False,False,,Brogdon Out of Bounds - Bad Pass Turnover Turnover (P2.T3),14-7,14,7
+0021901295,2020-08-10,MIA,IND,6.47,1,5,32,MIA,MIA,tov,40,False,False,Herro Out of Bounds Lost Ball Turnover (P1.T3),,14-7,14,7
+0021901295,2020-08-10,MIA,IND,6.82,1,5,11,IND,IND,fg_miss,66,False,False,,MISS Warren 1' Jump Bank Shot,14-7,14,7
+0021901295,2020-08-10,MIA,IND,6.87,1,5,8,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:3),,14-7,14,7
+0021901295,2020-08-10,MIA,IND,6.93,1,5,4,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 27' 3PT Jump Shot,,14-7,14,7
+0021901295,2020-08-10,MIA,IND,6.98,1,5,1,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:2),14-7,14,7
+0021901295,2020-08-10,MIA,IND,7.12,1,4,53,IND,IND,fg_miss,86,False,False,,MISS Warren 13' Turnaround Fadeaway Shot,14-7,14,7
+0021901295,2020-08-10,MIA,IND,7.15,1,4,51,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:4),,14-7,14,7
+0021901295,2020-08-10,MIA,IND,7.28,1,4,43,MIA,IND,foul,2,False,False,,Holiday S.FOUL (P2.T4) (P.Fraher),14-7,14,7
+0021901295,2020-08-10,MIA,IND,7.28,1,4,43,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (5 PTS),,15-7,15,7
+0021901295,2020-08-10,MIA,IND,7.28,1,4,43,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (6 PTS),,16-7,16,7
+0021901295,2020-08-10,MIA,IND,7.53,1,4,28,IND,IND,tov,1,False,True,,Turner Bad Pass Turnover (P1.T4),16-7,16,7
+0021901295,2020-08-10,MIA,IND,7.53,1,4,28,IND,MIA,steal,1,False,True,steal,steal,16-7,16,7
+0021901295,2020-08-10,MIA,IND,7.6,1,4,24,,MIA,jump_ball,0,False,False,Jump Ball Crowder vs. Oladipo: Tip to Brogdon,,16-7,16,7
+0021901295,2020-08-10,MIA,IND,7.6,1,4,24,MIA,MIA,tov,2,False,True,Crowder Lost Ball Turnover (P1.T4),,16-7,16,7
+0021901295,2020-08-10,MIA,IND,7.6,1,4,24,MIA,IND,steal,2,False,True,steal,steal,16-7,16,7
+0021901295,2020-08-10,MIA,IND,7.7,1,4,18,IND,IND,fg3_miss,1,False,False,,MISS Brogdon 27' 3PT Jump Shot,16-7,16,7
+0021901295,2020-08-10,MIA,IND,7.73,1,4,16,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:1 Def:2),,16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.12,1,3,53,MIA,MIA,fg_miss,1,False,False,MISS Olynyk 23' Jump Shot,,16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.17,1,3,50,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:2),16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.35,1,3,39,IND,IND,tov,1,False,True,,Oladipo Bad Pass Turnover (P2.T5),16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.35,1,3,39,IND,MIA,steal,1,False,True,steal,steal,16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.48,1,3,31,MIA,MIA,fg3_miss,80,False,False,MISS Herro 24' 3PT Step Back Jump Shot,,16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.52,1,3,29,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:0 Def:3),16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.7,1,3,18,IND,IND,fg_miss,1,False,False,,MISS Warren 14' Jump Shot,16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.77,1,3,14,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:1 Def:3),16-7,16,7
+0021901295,2020-08-10,MIA,IND,8.82,1,3,11,IND,IND,fg_make,78,False,False,,Warren 5' Floating Jump Shot (4 PTS) (Turner 1 AST),16-9,16,9
+0021901295,2020-08-10,MIA,IND,9.3,1,2,42,MIA,MIA,fg_miss,44,True,False,MISS Butler 3' Reverse Layup,,16-9,16,9
+0021901295,2020-08-10,MIA,IND,9.3,1,2,42,MIA,IND,block,44,True,False,block,block,16-9,16,9
+0021901295,2020-08-10,MIA,IND,9.35,1,2,39,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:2 Def:2),,16-9,16,9
+0021901295,2020-08-10,MIA,IND,9.35,1,2,39,MIA,MIA,fg3_make,1,False,False,Crowder 3PT Jump Shot (6 PTS),,19-9,19,9
+0021901295,2020-08-10,MIA,IND,9.35,1,2,39,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.1 Short 0),19-9,19,9
+0021901295,2020-08-10,MIA,IND,9.58,1,2,25,IND,IND,fg_miss,78,False,False,,MISS Sampson 11' Floating Jump Shot,19-9,19,9
+0021901295,2020-08-10,MIA,IND,9.63,1,2,22,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,19-9,19,9
+0021901295,2020-08-10,MIA,IND,9.88,1,2,7,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 25' 3PT Jump Shot,,19-9,19,9
+0021901295,2020-08-10,MIA,IND,9.93,1,2,4,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:1 Def:0),,19-9,19,9
+0021901295,2020-08-10,MIA,IND,9.97,1,2,2,MIA,MIA,fg_make,44,False,False,Herro 2' Reverse Layup (2 PTS),,21-9,21,9
+0021901295,2020-08-10,MIA,IND,10.15,1,1,51,IND,IND,fg_make,78,False,False,,McConnell 4' Floating Jump Shot (2 PTS),21-11,21,11
+0021901295,2020-08-10,MIA,IND,10.15,1,1,51,IND,MIA,foul,2,False,False,Herro S.FOUL (P1.T3) (P.Fraher),,21-11,21,11
+0021901295,2020-08-10,MIA,IND,10.15,1,1,51,IND,IND,ft_make,10,False,False,,McConnell Free Throw 1 of 1 (3 PTS),21-12,21,12
+0021901295,2020-08-10,MIA,IND,10.42,1,1,35,MIA,MIA,fg_miss,5,False,False,MISS Jones Jr. 2' Layup,,21-12,21,12
+0021901295,2020-08-10,MIA,IND,10.47,1,1,32,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:0 Def:1),21-12,21,12
+0021901295,2020-08-10,MIA,IND,10.72,1,1,17,IND,IND,fg3_make,1,False,False,,Holiday 3PT Jump Shot (3 PTS) (Sumner 1 AST),21-15,21,15
+0021901295,2020-08-10,MIA,IND,11.12,1,0,53,MIA,MIA,fg_miss,5,False,False,MISS Dragic 3' Layup,,21-15,21,15
+0021901295,2020-08-10,MIA,IND,11.13,1,0,52,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:0 Def:1),21-15,21,15
+0021901295,2020-08-10,MIA,IND,11.23,1,0,46,IND,MIA,foul,1,False,False,Iguodala P.FOUL (P1.PN) (D.Taylor),,21-15,21,15
+0021901295,2020-08-10,MIA,IND,11.23,1,0,46,IND,IND,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (4 PTS),21-16,21,16
+0021901295,2020-08-10,MIA,IND,11.23,1,0,46,IND,IND,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (5 PTS),21-17,21,17
+0021901295,2020-08-10,MIA,IND,11.55,1,0,27,MIA,MIA,fg3_miss,1,False,False,MISS Iguodala 24' 3PT Jump Shot,,21-17,21,17
+0021901295,2020-08-10,MIA,IND,11.58,1,0,25,MIA,MIA,reb,0,False,False,HEAT Rebound,,21-17,21,17
+0021901295,2020-08-10,MIA,IND,11.58,1,0,25,MIA,IND,foul,3,False,False,,Sampson L.B.FOUL (P1.PN) (D.Collins),21-17,21,17
+0021901295,2020-08-10,MIA,IND,11.58,1,0,25,MIA,MIA,ft_make,11,False,False,Olynyk Free Throw 1 of 2 (1 PTS),,22-17,22,17
+0021901295,2020-08-10,MIA,IND,11.58,1,0,25,MIA,MIA,ft_make,12,False,False,Olynyk Free Throw 2 of 2 (2 PTS),,23-17,23,17
+0021901295,2020-08-10,MIA,IND,11.93,1,0,4,IND,IND,fg_make,6,False,False,,Sumner 2' Driving Layup (2 PTS) (McConnell 1 AST),23-19,23,19
+0021901295,2020-08-10,MIA,IND,11.98,1,0,1,MIA,MIA,fg3_miss,79,False,False,MISS Crowder 32' 3PT Pullup Jump Shot,,23-19,23,19
+0021901295,2020-08-10,MIA,IND,11.98,1,0,1,MIA,MIA,reb,0,False,False,HEAT Rebound,,23-19,23,19
+0021901295,2020-08-10,MIA,IND,12.0,1,0,0,MIA,,period_end,0,False,False,,,23-19,23,19
+0021901295,2020-08-10,MIA,IND,12.0,2,12,0,MIA,,period_start,0,False,False,,,23-19,23,19
+0021901295,2020-08-10,MIA,IND,12.15,2,11,51,IND,IND,fg3_miss,1,False,False,,MISS McDermott 26' 3PT Jump Shot,23-19,23,19
+0021901295,2020-08-10,MIA,IND,12.22,2,11,47,IND,IND,reb,0,False,False,,Pacers Rebound,23-19,23,19
+0021901295,2020-08-10,MIA,IND,12.3,2,11,42,IND,IND,fg_make,63,False,False,,McConnell 12' Fadeaway Jumper (5 PTS),23-21,23,21
+0021901295,2020-08-10,MIA,IND,12.3,2,11,42,IND,MIA,foul,2,False,False,Herro S.FOUL (P2.T1) (D.Collins),,23-21,23,21
+0021901295,2020-08-10,MIA,IND,12.3,2,11,42,IND,IND,ft_miss,10,False,False,,MISS McConnell Free Throw 1 of 1,23-21,23,21
+0021901295,2020-08-10,MIA,IND,12.32,2,11,41,IND,IND,reb,0,False,False,,Pacers Rebound,23-21,23,21
+0021901295,2020-08-10,MIA,IND,12.43,2,11,34,IND,IND,fg_miss,73,False,False,,MISS McConnell 3' Driving Reverse Layup,23-21,23,21
+0021901295,2020-08-10,MIA,IND,12.5,2,11,30,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:1 Def:1),23-23,23,23
+0021901295,2020-08-10,MIA,IND,12.5,2,11,30,IND,IND,fg_make,107,False,False,,McDermott 1' Tip Dunk Shot (2 PTS),23-23,23,23
+0021901295,2020-08-10,MIA,IND,12.8,2,11,12,MIA,MIA,fg_make,108,False,False,Jones Jr. 1' Cutting Dunk Shot (2 PTS) (Iguodala 1 AST),,25-23,25,23
+0021901295,2020-08-10,MIA,IND,13.02,2,10,59,IND,MIA,foul,2,False,False,Herro S.FOUL (P3.T2) (P.Fraher),,25-23,25,23
+0021901295,2020-08-10,MIA,IND,13.02,2,10,59,IND,IND,ft_miss,13,False,False,,MISS Sumner Free Throw 1 of 3,25-23,25,23
+0021901295,2020-08-10,MIA,IND,13.02,2,10,59,IND,IND,reb,1,False,False,,Pacers Rebound,25-23,25,23
+0021901295,2020-08-10,MIA,IND,13.02,2,10,59,IND,IND,ft_miss,14,False,False,,MISS Sumner Free Throw 2 of 3,25-23,25,23
+0021901295,2020-08-10,MIA,IND,13.02,2,10,59,IND,IND,reb,1,False,False,,Pacers Rebound,25-23,25,23
+0021901295,2020-08-10,MIA,IND,13.02,2,10,59,IND,IND,ft_make,15,False,False,,Sumner Free Throw 3 of 3 (3 PTS),25-24,25,24
+0021901295,2020-08-10,MIA,IND,13.27,2,10,44,MIA,MIA,fg_make,43,False,False,Jones Jr. 3' Alley Oop Layup (4 PTS) (Dragic 2 AST),,27-24,27,24
+0021901295,2020-08-10,MIA,IND,13.47,2,10,32,IND,IND,tov,2,False,True,,McConnell Lost Ball Turnover (P1.T6),27-24,27,24
+0021901295,2020-08-10,MIA,IND,13.47,2,10,32,IND,MIA,steal,2,False,True,steal,steal,27-24,27,24
+0021901295,2020-08-10,MIA,IND,13.77,2,10,14,MIA,MIA,fg_miss,78,False,False,MISS Dragic 13' Floating Jump Shot,,27-24,27,24
+0021901295,2020-08-10,MIA,IND,13.82,2,10,11,IND,IND,reb,0,False,False,,McConnell REBOUND (Off:0 Def:1),27-24,27,24
+0021901295,2020-08-10,MIA,IND,13.9,2,10,6,IND,MIA,foul,2,False,False,Olynyk S.FOUL (P1.T3) (D.Taylor),,27-24,27,24
+0021901295,2020-08-10,MIA,IND,13.9,2,10,6,IND,IND,ft_make,11,False,False,,Sampson Free Throw 1 of 2 (1 PTS),27-25,27,25
+0021901295,2020-08-10,MIA,IND,13.9,2,10,6,IND,IND,ft_make,12,False,False,,Sampson Free Throw 2 of 2 (2 PTS),27-26,27,26
+0021901295,2020-08-10,MIA,IND,14.12,2,9,53,MIA,MIA,fg_make,73,False,False,Dragic 1' Driving Reverse Layup (5 PTS),,29-26,29,26
+0021901295,2020-08-10,MIA,IND,14.12,2,9,53,MIA,IND,foul,2,False,False,,Holiday S.FOUL (P1.T1) (D.Taylor),29-26,29,26
+0021901295,2020-08-10,MIA,IND,14.12,2,9,53,MIA,MIA,ft_miss,10,False,False,MISS Dragic Free Throw 1 of 1,,29-26,29,26
+0021901295,2020-08-10,MIA,IND,14.15,2,9,51,IND,IND,reb,0,False,False,,McConnell REBOUND (Off:0 Def:2),29-26,29,26
+0021901295,2020-08-10,MIA,IND,14.4,2,9,36,IND,IND,fg_make,79,False,False,,Holiday 21' Pullup Jump Shot (7 PTS) (Sumner 2 AST),29-28,29,28
+0021901295,2020-08-10,MIA,IND,14.77,2,9,14,MIA,MIA,fg_make,6,False,False,Dragic 1' Driving Layup (7 PTS) (Olynyk 1 AST),,31-28,31,28
+0021901295,2020-08-10,MIA,IND,15.0,2,9,0,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,31-28,31,28
+0021901295,2020-08-10,MIA,IND,15.03,2,8,58,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:1),,31-28,31,28
+0021901295,2020-08-10,MIA,IND,15.15,2,8,51,MIA,MIA,fg_make,98,False,False,Jones Jr. 2' Cutting Layup Shot (6 PTS) (Dragic 3 AST),,33-28,33,28
+0021901295,2020-08-10,MIA,IND,15.15,2,8,51,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.2 Short 0),33-28,33,28
+0021901295,2020-08-10,MIA,IND,15.35,2,8,39,IND,IND,fg3_miss,1,False,False,,MISS Holiday 25' 3PT Jump Shot,33-28,33,28
+0021901295,2020-08-10,MIA,IND,15.42,2,8,35,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:2),,33-28,33,28
+0021901295,2020-08-10,MIA,IND,15.62,2,8,23,MIA,MIA,fg_make,52,False,False,Jones Jr. 2' Alley Oop Dunk (8 PTS) (Dragic 4 AST),,35-28,35,28
+0021901295,2020-08-10,MIA,IND,15.9,2,8,6,IND,IND,fg3_miss,1,False,False,,MISS Sumner 25' 3PT Jump Shot,35-28,35,28
+0021901295,2020-08-10,MIA,IND,15.92,2,8,5,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:3),,35-28,35,28
+0021901295,2020-08-10,MIA,IND,15.98,2,8,1,MIA,MIA,tov,4,False,False,Dragic Traveling Turnover (P1.T5),,35-28,35,28
+0021901295,2020-08-10,MIA,IND,16.23,2,7,46,IND,IND,fg3_miss,1,False,False,,MISS Brogdon 26' 3PT Jump Shot,35-28,35,28
+0021901295,2020-08-10,MIA,IND,16.27,2,7,44,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:5),,35-28,35,28
+0021901295,2020-08-10,MIA,IND,16.45,2,7,33,MIA,MIA,fg_miss,44,False,False,MISS Butler 6' Reverse Layup,,35-28,35,28
+0021901295,2020-08-10,MIA,IND,16.48,2,7,31,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),35-28,35,28
+0021901295,2020-08-10,MIA,IND,16.53,2,7,28,IND,IND,fg_make,73,False,False,,Sumner 3' Driving Reverse Layup (5 PTS),35-30,35,30
+0021901295,2020-08-10,MIA,IND,16.97,2,7,2,MIA,MIA,fg_miss,1,False,False,MISS Dragic 21' Jump Shot,,35-30,35,30
+0021901295,2020-08-10,MIA,IND,17.02,2,6,59,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:1 Def:1),,35-30,35,30
+0021901295,2020-08-10,MIA,IND,17.02,2,6,59,MIA,MIA,fg_make,72,False,False,Jones Jr. 1' Putback Layup (10 PTS),,37-30,37,30
+0021901295,2020-08-10,MIA,IND,17.33,2,6,40,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,37-30,37,30
+0021901295,2020-08-10,MIA,IND,17.37,2,6,38,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:2),,37-30,37,30
+0021901295,2020-08-10,MIA,IND,17.47,2,6,32,MIA,MIA,fg3_miss,1,False,False,MISS Butler 25' 3PT Jump Shot,,37-30,37,30
+0021901295,2020-08-10,MIA,IND,17.53,2,6,28,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:1 Def:4),37-30,37,30
+0021901295,2020-08-10,MIA,IND,17.72,2,6,17,IND,IND,fg_make,6,False,False,,Brogdon 2' Driving Layup (2 PTS),37-32,37,32
+0021901295,2020-08-10,MIA,IND,17.85,2,6,9,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,37-32,37,32
+0021901295,2020-08-10,MIA,IND,18.02,2,5,59,IND,MIA,foul,4,False,False,Robinson OFF.Foul (P1) (D.Collins),,37-32,37,32
+0021901295,2020-08-10,MIA,IND,18.02,2,5,59,MIA,MIA,tov,37,False,False,Robinson Offensive Foul Turnover (P1.T6),,37-32,37,32
+0021901295,2020-08-10,MIA,IND,18.22,2,5,47,IND,IND,fg3_make,1,False,False,,Warren 25' 3PT Jump Shot (7 PTS) (Brogdon 1 AST),37-35,37,35
+0021901295,2020-08-10,MIA,IND,18.57,2,5,26,MIA,MIA,fg_miss,3,False,False,MISS Adebayo 4' Hook Shot,,37-35,37,35
+0021901295,2020-08-10,MIA,IND,18.62,2,5,23,IND,IND,reb,0,False,False,,Warren REBOUND (Off:0 Def:3),37-35,37,35
+0021901295,2020-08-10,MIA,IND,18.93,2,5,4,IND,IND,fg3_miss,1,False,False,,MISS Brogdon 27' 3PT Jump Shot,37-35,37,35
+0021901295,2020-08-10,MIA,IND,18.98,2,5,1,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:3),,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.15,2,4,51,MIA,MIA,fg_miss,86,False,False,MISS Butler 17' Turnaround Fadeaway Shot,,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.2,2,4,48,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:3),37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.48,2,4,31,IND,IND,fg_miss,80,False,False,,MISS Holiday 15' Step Back Jump Shot,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.53,2,4,28,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:2 Def:3),,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.67,2,4,20,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 26' 3PT Jump Shot,,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.72,2,4,17,MIA,MIA,reb,0,False,False,HEAT Rebound,,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.85,2,4,9,MIA,MIA,fg_miss,47,True,False,MISS Crowder 9' Turnaround Jump Shot,,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.85,2,4,9,MIA,IND,block,47,True,False,block,block,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.85,2,4,9,MIA,MIA,reb,0,False,False,HEAT Rebound,,37-35,37,35
+0021901295,2020-08-10,MIA,IND,19.95,2,4,3,MIA,MIA,fg_make,1,False,False,Butler 20' Jump Shot (8 PTS) (Crowder 2 AST),,39-35,39,35
+0021901295,2020-08-10,MIA,IND,20.13,2,3,52,IND,IND,fg3_make,1,False,False,,Warren 25' 3PT Jump Shot (10 PTS) (Turner 2 AST),39-38,39,38
+0021901295,2020-08-10,MIA,IND,20.33,2,3,40,MIA,MIA,fg_make,108,False,False,Adebayo 2' Cutting Dunk Shot (6 PTS) (Butler 2 AST),,41-38,41,38
+0021901295,2020-08-10,MIA,IND,20.57,2,3,26,IND,IND,fg_make,6,False,False,,Turner 3' Driving Layup (4 PTS) (Brogdon 2 AST),41-40,41,40
+0021901295,2020-08-10,MIA,IND,20.77,2,3,14,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 24' 3PT Jump Shot,,41-40,41,40
+0021901295,2020-08-10,MIA,IND,20.8,2,3,12,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:3),41-40,41,40
+0021901295,2020-08-10,MIA,IND,20.85,2,3,9,MIA,IND,foul,4,False,False,,Warren OFF.Foul (P1) (D.Collins),41-40,41,40
+0021901295,2020-08-10,MIA,IND,20.85,2,3,9,IND,IND,tov,37,False,False,,Warren Offensive Foul Turnover (P1.T7),41-40,41,40
+0021901295,2020-08-10,MIA,IND,21.07,2,2,56,MIA,MIA,fg3_make,1,False,False,Robinson 25' 3PT Jump Shot (3 PTS) (Crowder 3 AST),,44-40,44,40
+0021901295,2020-08-10,MIA,IND,21.4,2,2,36,IND,IND,fg_make,47,False,False,,Brogdon 10' Turnaround Jump Shot (4 PTS),44-42,44,42
+0021901295,2020-08-10,MIA,IND,21.85,2,2,9,MIA,MIA,fg3_miss,1,False,False,MISS Butler 25' 3PT Jump Shot,,44-42,44,42
+0021901295,2020-08-10,MIA,IND,21.85,2,2,9,MIA,MIA,reb,0,False,False,HEAT Rebound,,44-42,44,42
+0021901295,2020-08-10,MIA,IND,21.85,2,2,9,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#7),,44-42,44,42
+0021901295,2020-08-10,MIA,IND,21.98,2,2,1,IND,IND,fg_make,99,False,False,,Warren 2' Cutting Finger Roll Layup Shot (12 PTS) (Brogdon 3 AST),44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.2,2,1,48,MIA,MIA,fg_miss,78,False,False,MISS Dragic 6' Floating Jump Shot,,44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.25,2,1,45,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:5),,44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.25,2,1,45,MIA,MIA,fg_miss,97,False,False,MISS Butler 1' Tip Layup Shot,,44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.27,2,1,44,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:4),44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.33,2,1,40,IND,IND,fg3_miss,1,False,False,,MISS Warren 26' 3PT Jump Shot,44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.38,2,1,37,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:3),,44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.63,2,1,22,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 26' 3PT Jump Shot,,44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.67,2,1,20,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:1 Def:5),44-44,44,44
+0021901295,2020-08-10,MIA,IND,22.7,2,1,18,IND,IND,fg3_make,103,False,False,,Oladipo 25' 3PT Running Pull-Up Jump Shot (6 PTS),44-47,44,47
+0021901295,2020-08-10,MIA,IND,23.03,2,0,58,MIA,MIA,fg_miss,5,False,False,MISS Adebayo 3' Layup,,44-47,44,47
+0021901295,2020-08-10,MIA,IND,23.07,2,0,56,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:1 Def:3),,44-47,44,47
+0021901295,2020-08-10,MIA,IND,23.17,2,0,50,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 25' 3PT Jump Shot,,44-47,44,47
+0021901295,2020-08-10,MIA,IND,23.22,2,0,47,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:3 Def:5),,44-47,44,47
+0021901295,2020-08-10,MIA,IND,23.22,2,0,47,MIA,IND,foul,1,False,False,,Warren P.FOUL (P2.T2) (D.Taylor),44-47,44,47
+0021901295,2020-08-10,MIA,IND,23.45,2,0,33,MIA,MIA,fg_make,98,False,False,Adebayo 2' Cutting Layup Shot (8 PTS) (Crowder 4 AST),,46-47,46,47
+0021901295,2020-08-10,MIA,IND,23.72,2,0,17,IND,IND,fg_miss,73,True,False,,MISS Oladipo 2' Driving Reverse Layup,46-47,46,47
+0021901295,2020-08-10,MIA,IND,23.72,2,0,17,IND,MIA,block,73,True,False,block,block,46-47,46,47
+0021901295,2020-08-10,MIA,IND,23.73,2,0,16,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:3 Def:6),,46-47,46,47
+0021901295,2020-08-10,MIA,IND,23.73,2,0,16,MIA,IND,foul,1,False,False,,Turner P.FOUL (P2.PN) (D.Taylor),46-47,46,47
+0021901295,2020-08-10,MIA,IND,23.73,2,0,16,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (9 PTS),,47-47,47,47
+0021901295,2020-08-10,MIA,IND,23.73,2,0,16,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (10 PTS),,48-47,48,47
+0021901295,2020-08-10,MIA,IND,23.97,2,0,2,IND,MIA,foul,2,False,False,Jones Jr. S.FOUL (P1.T4) (P.Fraher),,48-47,48,47
+0021901295,2020-08-10,MIA,IND,23.97,2,0,2,IND,IND,ft_make,11,False,False,,Brogdon Free Throw 1 of 2 (5 PTS),48-48,48,48
+0021901295,2020-08-10,MIA,IND,23.97,2,0,2,IND,IND,ft_miss,12,False,False,,MISS Brogdon Free Throw 2 of 2,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.0,2,0,0,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:2 Def:4),,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.0,2,0,0,MIA,MIA,fg3_miss,1,False,False,MISS Crowder 70' 3PT Jump Shot,,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.0,2,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.0,2,0,0,MIA,,period_end,0,False,False,,,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.0,3,12,0,MIA,,period_start,0,False,False,,,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.15,3,11,51,IND,IND,fg3_miss,1,False,False,,MISS Turner 24' 3PT Jump Shot,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.22,3,11,47,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:3 Def:7),,48-48,48,48
+0021901295,2020-08-10,MIA,IND,24.45,3,11,33,MIA,MIA,fg3_make,1,False,False,Robinson 25' 3PT Jump Shot (6 PTS) (Dragic 5 AST),,51-48,51,48
+0021901295,2020-08-10,MIA,IND,24.72,3,11,17,IND,IND,fg3_miss,79,False,False,,MISS Oladipo 25' 3PT Pullup Jump Shot,51-48,51,48
+0021901295,2020-08-10,MIA,IND,24.77,3,11,14,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:3),,51-48,51,48
+0021901295,2020-08-10,MIA,IND,24.9,3,11,6,MIA,MIA,fg3_make,1,False,False,Crowder 26' 3PT Jump Shot (9 PTS) (Adebayo 1 AST),,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.2,3,10,48,IND,IND,fg_miss,6,True,False,,MISS Brogdon 5' Driving Layup,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.2,3,10,48,IND,MIA,block,6,True,False,block,block,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.2,3,10,48,IND,IND,reb,0,False,False,,Pacers Rebound,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.28,3,10,43,IND,IND,fg_miss,57,False,False,,MISS Holiday 7' Driving Hook Shot,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.32,3,10,41,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:4),,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.42,3,10,35,MIA,MIA,tov,4,False,False,Adebayo Traveling Turnover (P1.T8),,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.58,3,10,25,IND,IND,fg3_miss,1,False,False,,MISS Warren 28' 3PT Jump Shot,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.63,3,10,22,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:5),,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.8,3,10,12,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.85,3,10,9,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:5),,54-48,54,48
+0021901295,2020-08-10,MIA,IND,25.97,3,10,2,MIA,MIA,fg_make,98,False,False,Crowder 2' Cutting Layup Shot (11 PTS) (Adebayo 2 AST),,56-48,56,48
+0021901295,2020-08-10,MIA,IND,26.18,3,9,49,IND,MIA,foul,2,False,False,Robinson S.FOUL (P2.T1) (D.Taylor),,56-48,56,48
+0021901295,2020-08-10,MIA,IND,26.18,3,9,49,IND,IND,ft_make,11,False,False,,Brogdon Free Throw 1 of 2 (6 PTS),56-49,56,49
+0021901295,2020-08-10,MIA,IND,26.18,3,9,49,IND,IND,ft_make,12,False,False,,Brogdon Free Throw 2 of 2 (7 PTS),56-50,56,50
+0021901295,2020-08-10,MIA,IND,26.38,3,9,37,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,56-50,56,50
+0021901295,2020-08-10,MIA,IND,26.45,3,9,33,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:5),,56-50,56,50
+0021901295,2020-08-10,MIA,IND,26.45,3,9,33,MIA,IND,foul,2,False,False,,Brogdon S.FOUL (P2.T1) (D.Taylor),56-50,56,50
+0021901295,2020-08-10,MIA,IND,26.45,3,9,33,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (9 PTS),,57-50,57,50
+0021901295,2020-08-10,MIA,IND,26.45,3,9,33,MIA,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (10 PTS),,58-50,58,50
+0021901295,2020-08-10,MIA,IND,26.6,3,9,24,IND,MIA,foul,1,False,False,Dragic P.FOUL (P2.T2) (D.Taylor),,58-50,58,50
+0021901295,2020-08-10,MIA,IND,26.75,3,9,15,IND,IND,fg_make,1,False,False,,Turner 12' Jump Shot (6 PTS) (Brogdon 4 AST),58-52,58,52
+0021901295,2020-08-10,MIA,IND,27.03,3,8,58,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 29' 3PT Jump Shot,,58-52,58,52
+0021901295,2020-08-10,MIA,IND,27.12,3,8,53,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:1 Def:6),58-52,58,52
+0021901295,2020-08-10,MIA,IND,27.32,3,8,41,IND,IND,fg_miss,6,True,False,,MISS Brogdon 2' Driving Layup,58-52,58,52
+0021901295,2020-08-10,MIA,IND,27.32,3,8,41,IND,MIA,block,6,True,False,block,block,58-52,58,52
+0021901295,2020-08-10,MIA,IND,27.37,3,8,38,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:1 Def:4),,58-52,58,52
+0021901295,2020-08-10,MIA,IND,27.42,3,8,35,MIA,MIA,fg3_make,1,False,False,Robinson 28' 3PT Jump Shot (9 PTS) (Dragic 6 AST),,61-52,61,52
+0021901295,2020-08-10,MIA,IND,27.82,3,8,11,IND,IND,fg3_miss,1,False,False,,MISS Turner 25' 3PT Jump Shot,61-52,61,52
+0021901295,2020-08-10,MIA,IND,27.88,3,8,7,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:4),,61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.0,3,8,0,MIA,MIA,fg_miss,80,False,False,MISS Dragic 18' Step Back Jump Shot,,61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.05,3,7,57,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:4),61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.12,3,7,53,IND,IND,fg_miss,6,False,False,,MISS Oladipo 3' Driving Layup,61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.15,3,7,51,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:6),,61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.3,3,7,42,MIA,IND,foul,2,False,False,,Turner S.FOUL (P3.T2) (D.Taylor),61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.3,3,7,42,MIA,MIA,ft_miss,11,False,False,MISS Butler Free Throw 1 of 2,,61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.3,3,7,42,MIA,MIA,reb,1,False,False,HEAT Rebound,,61-52,61,52
+0021901295,2020-08-10,MIA,IND,28.3,3,7,42,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (11 PTS),,62-52,62,52
+0021901295,2020-08-10,MIA,IND,28.67,3,7,20,IND,IND,fg_make,5,False,False,,Holiday 3' Layup (2 PTS) (Brogdon 5 AST),62-54,62,54
+0021901295,2020-08-10,MIA,IND,28.87,3,7,8,MIA,IND,foul,1,False,False,,Warren P.FOUL (P3.T3) (D.Collins),62-54,62,54
+0021901295,2020-08-10,MIA,IND,28.98,3,7,1,MIA,MIA,fg_miss,63,False,False,MISS Butler 14' Fadeaway Jumper,,62-54,62,54
+0021901295,2020-08-10,MIA,IND,29.03,3,6,58,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:5),62-54,62,54
+0021901295,2020-08-10,MIA,IND,29.27,3,6,44,IND,IND,tov,1,False,True,,Turner Bad Pass Turnover (P2.T8),62-54,62,54
+0021901295,2020-08-10,MIA,IND,29.27,3,6,44,IND,MIA,steal,1,False,True,steal,steal,62-54,62,54
+0021901295,2020-08-10,MIA,IND,29.32,3,6,41,MIA,MIA,fg_make,41,False,False,Dragic 2' Running Layup (9 PTS),,64-54,64,54
+0021901295,2020-08-10,MIA,IND,29.42,3,6,35,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),64-54,64,54
+0021901295,2020-08-10,MIA,IND,29.67,3,6,20,IND,IND,tov,1,False,True,,Holiday Bad Pass Turnover (P1.T9),64-54,64,54
+0021901295,2020-08-10,MIA,IND,29.67,3,6,20,IND,MIA,steal,1,False,True,steal,steal,64-54,64,54
+0021901295,2020-08-10,MIA,IND,29.83,3,6,10,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,64-54,64,54
+0021901295,2020-08-10,MIA,IND,29.87,3,6,8,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:6),64-54,64,54
+0021901295,2020-08-10,MIA,IND,30.05,3,5,57,IND,IND,fg_miss,78,False,False,,MISS Holiday 14' Floating Jump Shot,64-54,64,54
+0021901295,2020-08-10,MIA,IND,30.12,3,5,53,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:2 Def:5),,64-54,64,54
+0021901295,2020-08-10,MIA,IND,30.3,3,5,42,MIA,MIA,fg_make,79,False,False,Butler 13' Pullup Jump Shot (13 PTS),,66-54,66,54
+0021901295,2020-08-10,MIA,IND,30.52,3,5,29,IND,IND,fg_make,6,False,False,,Brogdon 4' Driving Layup (9 PTS),66-56,66,56
+0021901295,2020-08-10,MIA,IND,30.52,3,5,29,IND,MIA,foul,2,False,False,Herro S.FOUL (P4.T3) (D.Collins),,66-56,66,56
+0021901295,2020-08-10,MIA,IND,30.52,3,5,29,IND,IND,ft_make,10,False,False,,Brogdon Free Throw 1 of 1 (10 PTS),66-57,66,57
+0021901295,2020-08-10,MIA,IND,30.77,3,5,14,MIA,MIA,fg_make,47,False,False,Butler 3' Turnaround Jump Shot (15 PTS) (Adebayo 3 AST),,68-57,68,57
+0021901295,2020-08-10,MIA,IND,30.97,3,5,2,IND,IND,fg3_miss,79,False,False,,MISS Oladipo 28' 3PT Pullup Jump Shot,68-57,68,57
+0021901295,2020-08-10,MIA,IND,31.02,3,4,59,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:2 Def:6),,68-57,68,57
+0021901295,2020-08-10,MIA,IND,31.28,3,4,43,MIA,MIA,tov,13,False,False,Adebayo Backcourt Turnover (P2.T9),,68-57,68,57
+0021901295,2020-08-10,MIA,IND,31.38,3,4,37,IND,IND,fg_miss,1,False,False,,MISS Warren 15' Jump Shot,68-57,68,57
+0021901295,2020-08-10,MIA,IND,31.42,3,4,35,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:7),,68-57,68,57
+0021901295,2020-08-10,MIA,IND,31.58,3,4,25,MIA,MIA,fg_make,73,False,False,Robinson 2' Driving Reverse Layup (11 PTS) (Adebayo 4 AST),,70-57,70,57
+0021901295,2020-08-10,MIA,IND,31.78,3,4,13,IND,IND,fg3_miss,1,False,False,,MISS Warren 3PT Jump Shot,70-57,70,57
+0021901295,2020-08-10,MIA,IND,31.88,3,4,7,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:2 Def:6),70-59,70,59
+0021901295,2020-08-10,MIA,IND,31.88,3,4,7,IND,IND,fg_make,97,False,False,,Brogdon 1' Tip Layup Shot (12 PTS),70-59,70,59
+0021901295,2020-08-10,MIA,IND,32.13,3,3,52,MIA,MIA,fg3_make,1,False,False,Herro 3PT Jump Shot (5 PTS) (Butler 3 AST),,73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.43,3,3,34,IND,IND,fg_miss,79,False,False,,MISS Brogdon 22' Pullup Jump Shot,73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.45,3,3,33,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:3 Def:8),,73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.45,3,3,33,MIA,IND,foul,1,False,False,,Warren P.FOUL (P4.T4) (D.Taylor),73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.45,3,3,33,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 3 Short 0),,73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.5,3,3,30,MIA,MIA,tov,1,False,True,Crowder Bad Pass Turnover (P2.T10),,73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.5,3,3,30,MIA,IND,steal,1,False,True,steal,steal,73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.72,3,3,17,IND,MIA,foul,2,False,False,Robinson S.FOUL (P3.T4) (D.Taylor),,73-59,73,59
+0021901295,2020-08-10,MIA,IND,32.72,3,3,17,IND,IND,ft_make,11,False,False,,Oladipo Free Throw 1 of 2 (7 PTS),73-60,73,60
+0021901295,2020-08-10,MIA,IND,32.72,3,3,17,IND,IND,ft_make,12,False,False,,Oladipo Free Throw 2 of 2 (8 PTS),73-61,73,61
+0021901295,2020-08-10,MIA,IND,32.92,3,3,5,MIA,MIA,fg_make,6,False,False,Butler 2' Driving Layup (17 PTS),,75-61,75,61
+0021901295,2020-08-10,MIA,IND,32.92,3,3,5,MIA,IND,foul,2,False,False,,Holiday S.FOUL (P2.PN) (D.Taylor),75-61,75,61
+0021901295,2020-08-10,MIA,IND,32.92,3,3,5,MIA,MIA,ft_miss,10,False,False,MISS Butler Free Throw 1 of 1,,75-61,75,61
+0021901295,2020-08-10,MIA,IND,32.95,3,3,3,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:2),75-61,75,61
+0021901295,2020-08-10,MIA,IND,33.07,3,2,56,IND,IND,fg_make,98,False,False,,McDermott 1' Cutting Layup Shot (4 PTS) (McConnell 2 AST),75-63,75,63
+0021901295,2020-08-10,MIA,IND,33.3,3,2,42,MIA,MIA,fg_miss,102,False,False,MISS Butler 10' Driving Floating Bank Jump Shot,,75-63,75,63
+0021901295,2020-08-10,MIA,IND,33.35,3,2,39,IND,IND,reb,0,False,False,,Bitadze REBOUND (Off:0 Def:1),75-63,75,63
+0021901295,2020-08-10,MIA,IND,33.47,3,2,32,IND,IND,fg_miss,6,True,False,,MISS Bitadze 5' Driving Layup,75-63,75,63
+0021901295,2020-08-10,MIA,IND,33.47,3,2,32,IND,MIA,block,6,True,False,block,block,75-63,75,63
+0021901295,2020-08-10,MIA,IND,33.47,3,2,32,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:4),,75-63,75,63
+0021901295,2020-08-10,MIA,IND,33.57,3,2,26,MIA,MIA,fg_make,76,False,False,Butler 1' Running Finger Roll Layup (19 PTS) (Herro 1 AST),,77-63,77,63
+0021901295,2020-08-10,MIA,IND,33.98,3,2,1,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,77-63,77,63
+0021901295,2020-08-10,MIA,IND,34.03,3,1,58,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:5),,77-63,77,63
+0021901295,2020-08-10,MIA,IND,34.22,3,1,47,MIA,MIA,fg3_make,1,False,False,Robinson 26' 3PT Jump Shot (14 PTS) (Butler 4 AST),,80-63,80,63
+0021901295,2020-08-10,MIA,IND,34.45,3,1,33,IND,IND,fg_make,6,False,False,,Oladipo 2' Driving Layup (10 PTS),80-65,80,65
+0021901295,2020-08-10,MIA,IND,34.77,3,1,14,MIA,MIA,fg3_make,1,False,False,Crowder 25' 3PT Jump Shot (14 PTS) (Butler 5 AST),,83-65,83,65
+0021901295,2020-08-10,MIA,IND,34.98,3,1,1,IND,IND,tov,1,False,True,,Oladipo Bad Pass Turnover (P3.T10),83-65,83,65
+0021901295,2020-08-10,MIA,IND,34.98,3,1,1,IND,MIA,steal,1,False,True,steal,steal,83-65,83,65
+0021901295,2020-08-10,MIA,IND,35.02,3,0,59,MIA,MIA,tov,1,False,True,Crowder Bad Pass Turnover (P3.T11),,83-65,83,65
+0021901295,2020-08-10,MIA,IND,35.02,3,0,59,MIA,IND,steal,1,False,True,steal,steal,83-65,83,65
+0021901295,2020-08-10,MIA,IND,35.13,3,0,52,IND,IND,fg_make,7,False,False,,Bitadze 2' Dunk (2 PTS) (McDermott 1 AST),83-67,83,67
+0021901295,2020-08-10,MIA,IND,35.35,3,0,39,MIA,MIA,fg_make,1,False,False,Herro 19' Jump Shot (7 PTS) (Olynyk 2 AST),,85-67,85,67
+0021901295,2020-08-10,MIA,IND,35.45,3,0,33,IND,IND,fg3_make,79,False,False,,Oladipo 27' 3PT Pullup Jump Shot (13 PTS),85-70,85,70
+0021901295,2020-08-10,MIA,IND,35.45,3,0,33,IND,MIA,foul,2,False,False,Butler S.FOUL (P2.PN) (D.Collins),,85-70,85,70
+0021901295,2020-08-10,MIA,IND,35.45,3,0,33,IND,IND,ft_make,10,False,False,,Oladipo Free Throw 1 of 1 (14 PTS),85-71,85,71
+0021901295,2020-08-10,MIA,IND,35.68,3,0,19,MIA,MIA,fg3_miss,80,False,False,MISS Olynyk 26' 3PT Step Back Jump Shot,,85-71,85,71
+0021901295,2020-08-10,MIA,IND,35.75,3,0,15,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:5),85-71,85,71
+0021901295,2020-08-10,MIA,IND,35.98,3,0,1,IND,IND,tov,45,False,False,,Oladipo Out of Bounds - Bad Pass Turnover Turnover (P4.T11),85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.0,3,0,0,MIA,MIA,tov,1,False,True,Iguodala Bad Pass Turnover (P1.T12),,85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.0,3,0,0,MIA,IND,steal,1,False,True,steal,steal,85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.0,3,0,0,IND,IND,fg3_miss,1,False,False,,MISS Holiday 41' 3PT Jump Shot,85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.0,3,0,0,IND,IND,reb,0,False,False,,Pacers Rebound,85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.0,3,0,0,IND,,period_end,0,False,False,,,85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.0,4,12,0,IND,,period_start,0,False,False,,,85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.27,4,11,44,MIA,MIA,fg_miss,79,False,False,MISS Iguodala 11' Pullup Jump Shot,,85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.35,4,11,39,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:0 Def:2),85-71,85,71
+0021901295,2020-08-10,MIA,IND,36.67,4,11,20,IND,IND,fg_make,101,False,False,,McDermott 8' Driving Floating Jump Shot (6 PTS) (Sumner 3 AST),85-73,85,73
+0021901295,2020-08-10,MIA,IND,36.9,4,11,6,MIA,MIA,fg3_miss,1,False,False,MISS Herro 25' 3PT Jump Shot,,85-73,85,73
+0021901295,2020-08-10,MIA,IND,36.95,4,11,3,IND,IND,reb,0,False,False,,Sumner REBOUND (Off:0 Def:1),85-73,85,73
+0021901295,2020-08-10,MIA,IND,37.1,4,10,54,IND,MIA,foul,1,False,False,Dragic P.FOUL (P3.T1) (P.Fraher),,85-73,85,73
+0021901295,2020-08-10,MIA,IND,37.13,4,10,52,MIA,IND,foul,4,False,False,,McConnell OFF.Foul (P1) (D.Collins),85-73,85,73
+0021901295,2020-08-10,MIA,IND,37.13,4,10,52,IND,IND,tov,37,False,False,,McConnell Offensive Foul Turnover (P2.T12),85-73,85,73
+0021901295,2020-08-10,MIA,IND,37.42,4,10,35,MIA,MIA,fg_miss,5,False,False,MISS Olynyk 4' Layup,,85-73,85,73
+0021901295,2020-08-10,MIA,IND,37.47,4,10,32,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:2 Def:1),,87-73,87,73
+0021901295,2020-08-10,MIA,IND,37.47,4,10,32,MIA,MIA,fg_make,97,False,False,Jones Jr. 1' Tip Layup Shot (12 PTS),,87-73,87,73
+0021901295,2020-08-10,MIA,IND,37.53,4,10,28,IND,IND,tov,1,False,True,,McConnell Bad Pass Turnover (P3.T13),87-73,87,73
+0021901295,2020-08-10,MIA,IND,37.53,4,10,28,IND,MIA,steal,1,False,True,steal,steal,87-73,87,73
+0021901295,2020-08-10,MIA,IND,37.58,4,10,25,MIA,MIA,fg_make,7,False,False,Jones Jr. 2' Dunk (14 PTS),,89-73,89,73
+0021901295,2020-08-10,MIA,IND,37.78,4,10,13,IND,MIA,foul,1,False,False,Olynyk P.FOUL (P2.T2) (P.Fraher),,89-73,89,73
+0021901295,2020-08-10,MIA,IND,37.95,4,10,3,IND,IND,fg_make,63,False,False,,McConnell 8' Fadeaway Jumper (7 PTS) (Sampson 1 AST),89-75,89,75
+0021901295,2020-08-10,MIA,IND,38.2,4,9,48,MIA,MIA,fg_miss,43,False,False,MISS Jones Jr. 1' Alley Oop Layup,,89-75,89,75
+0021901295,2020-08-10,MIA,IND,38.25,4,9,45,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:3 Def:1),,89-75,89,75
+0021901295,2020-08-10,MIA,IND,38.25,4,9,45,MIA,MIA,fg_make,97,False,False,Jones Jr. 1' Tip Layup Shot (16 PTS),,91-75,91,75
+0021901295,2020-08-10,MIA,IND,38.5,4,9,30,IND,IND,fg3_miss,80,False,False,,MISS Holiday 25' 3PT Step Back Jump Shot,91-75,91,75
+0021901295,2020-08-10,MIA,IND,38.55,4,9,27,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:1),,91-75,91,75
+0021901295,2020-08-10,MIA,IND,38.63,4,9,22,MIA,MIA,fg_make,5,False,False,Olynyk 3' Layup (4 PTS),,93-75,93,75
+0021901295,2020-08-10,MIA,IND,38.85,4,9,9,MIA,IND,foul,4,False,False,,Sampson OFF.Foul (P2) (D.Collins),93-75,93,75
+0021901295,2020-08-10,MIA,IND,38.85,4,9,9,IND,IND,tov,37,False,False,,Sampson Offensive Foul Turnover (P1.T14),93-75,93,75
+0021901295,2020-08-10,MIA,IND,39.08,4,8,55,MIA,MIA,fg_make,52,False,False,Jones Jr. 3' Alley Oop Dunk (18 PTS) (Dragic 7 AST),,95-75,95,75
+0021901295,2020-08-10,MIA,IND,39.25,4,8,45,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.4 Short 0),95-75,95,75
+0021901295,2020-08-10,MIA,IND,39.4,4,8,36,IND,IND,fg3_miss,1,False,False,,MISS McDermott 26' 3PT Jump Shot,95-75,95,75
+0021901295,2020-08-10,MIA,IND,39.47,4,8,32,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:3),95-75,95,75
+0021901295,2020-08-10,MIA,IND,39.6,4,8,24,IND,IND,fg_make,102,False,False,,Holiday 9' Driving Floating Bank Jump Shot (4 PTS),95-77,95,77
+0021901295,2020-08-10,MIA,IND,39.97,4,8,2,MIA,MIA,tov,4,False,False,Dragic Traveling Turnover (P2.T13),,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.25,4,7,45,IND,IND,fg_miss,79,False,False,,MISS McDermott 17' Pullup Jump Shot,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.28,4,7,43,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:1 Def:1),,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.37,4,7,38,MIA,MIA,fg_miss,1,False,False,MISS Herro 7' Jump Shot,,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.38,4,7,37,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:4),95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.38,4,7,37,IND,MIA,foul,1,False,False,Olynyk P.FOUL (P3.T3) (P.Fraher),,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.52,4,7,29,IND,IND,fg_miss,6,True,False,,MISS Brogdon 2' Driving Layup,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.52,4,7,29,IND,MIA,block,6,True,False,block,block,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.57,4,7,26,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:5),,95-77,95,77
+0021901295,2020-08-10,MIA,IND,40.77,4,7,14,MIA,MIA,fg3_make,1,False,False,Herro 3PT Jump Shot (10 PTS) (Iguodala 2 AST),,98-77,98,77
+0021901295,2020-08-10,MIA,IND,40.97,4,7,2,IND,IND,fg3_make,1,False,False,,Turner 25' 3PT Jump Shot (9 PTS) (Brogdon 6 AST),98-80,98,80
+0021901295,2020-08-10,MIA,IND,41.23,4,6,46,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 25' 3PT Jump Shot,,98-80,98,80
+0021901295,2020-08-10,MIA,IND,41.28,4,6,43,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:7),98-80,98,80
+0021901295,2020-08-10,MIA,IND,41.38,4,6,37,MIA,IND,foul,26,False,False,,Turner Offensive Charge Foul (P4.T1) (D.Collins),98-80,98,80
+0021901295,2020-08-10,MIA,IND,41.38,4,6,37,IND,IND,tov,37,False,False,,Turner Offensive Foul Turnover (P3.T15),98-80,98,80
+0021901295,2020-08-10,MIA,IND,41.43,4,6,34,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 4 Short 0),,98-80,98,80
+0021901295,2020-08-10,MIA,IND,41.7,4,6,18,MIA,MIA,fg_make,47,False,False,Olynyk 4' Turnaround Jump Shot (6 PTS),,100-80,100,80
+0021901295,2020-08-10,MIA,IND,41.7,4,6,18,MIA,IND,foul,2,False,False,,Holiday S.FOUL (P3.T2) (P.Fraher),100-80,100,80
+0021901295,2020-08-10,MIA,IND,41.7,4,6,18,MIA,MIA,ft_miss,10,False,False,MISS Olynyk Free Throw 1 of 1,,100-80,100,80
+0021901295,2020-08-10,MIA,IND,41.72,4,6,17,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:1 Def:2),100-80,100,80
+0021901295,2020-08-10,MIA,IND,41.87,4,6,8,IND,IND,fg_make,7,False,False,,Sampson 1' Dunk (4 PTS) (Johnson 1 AST),100-82,100,82
+0021901295,2020-08-10,MIA,IND,42.13,4,5,52,MIA,MIA,fg3_miss,1,False,False,MISS Iguodala 24' 3PT Jump Shot,,100-82,100,82
+0021901295,2020-08-10,MIA,IND,42.17,4,5,50,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:0 Def:3),100-82,100,82
+0021901295,2020-08-10,MIA,IND,42.32,4,5,41,IND,IND,fg3_make,1,False,False,,Johnson 3PT Jump Shot (3 PTS) (Holiday 1 AST),100-85,100,85
+0021901295,2020-08-10,MIA,IND,42.52,4,5,29,MIA,MIA,fg_miss,78,False,False,MISS Dragic 11' Floating Jump Shot,,100-85,100,85
+0021901295,2020-08-10,MIA,IND,42.55,4,5,27,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:1 Def:3),100-85,100,85
+0021901295,2020-08-10,MIA,IND,42.55,4,5,27,IND,MIA,foul,1,False,False,Dragic P.FOUL (P4.T4) (D.Taylor),,100-85,100,85
+0021901295,2020-08-10,MIA,IND,42.85,4,5,9,IND,IND,fg_miss,1,True,False,,MISS Johnson 8' Jump Shot,100-85,100,85
+0021901295,2020-08-10,MIA,IND,42.85,4,5,9,IND,MIA,block,1,True,False,block,block,100-85,100,85
+0021901295,2020-08-10,MIA,IND,42.9,4,5,6,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:1 Def:5),,100-85,100,85
+0021901295,2020-08-10,MIA,IND,42.93,4,5,4,MIA,MIA,fg_make,41,False,False,Herro 2' Running Layup (12 PTS) (Dragic 8 AST),,102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.2,4,4,48,IND,IND,fg3_miss,1,False,False,,MISS Johnson 24' 3PT Jump Shot,102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.23,4,4,46,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:1 Def:2),,102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.35,4,4,39,MIA,MIA,fg3_miss,1,False,False,MISS Herro 25' 3PT Jump Shot,,102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.42,4,4,35,IND,IND,reb,0,False,False,,Sumner REBOUND (Off:0 Def:2),102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.6,4,4,24,IND,IND,fg_miss,73,True,False,,MISS McDermott 3' Driving Reverse Layup,102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.6,4,4,24,IND,MIA,block,73,True,False,block,block,102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.63,4,4,22,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:3 Def:2),,102-85,102,85
+0021901295,2020-08-10,MIA,IND,43.78,4,4,13,MIA,MIA,fg3_make,1,False,False,Herro 24' 3PT Jump Shot (15 PTS) (Dragic 9 AST),,105-85,105,85
+0021901295,2020-08-10,MIA,IND,44.13,4,3,52,IND,IND,tov,2,False,True,,Johnson Lost Ball Turnover (P1.T16),105-85,105,85
+0021901295,2020-08-10,MIA,IND,44.13,4,3,52,IND,MIA,steal,2,False,True,steal,steal,105-85,105,85
+0021901295,2020-08-10,MIA,IND,44.22,4,3,47,MIA,MIA,fg_make,5,False,False,Dragic 3' Layup (11 PTS) (Herro 2 AST),,107-85,107,85
+0021901295,2020-08-10,MIA,IND,44.38,4,3,37,IND,MIA,foul,28,False,False,Dragic Personal Take Foul (P5.PN) (P.Fraher),,107-85,107,85
+0021901295,2020-08-10,MIA,IND,44.38,4,3,37,IND,IND,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (5 PTS),107-86,107,86
+0021901295,2020-08-10,MIA,IND,44.38,4,3,37,IND,IND,ft_miss,12,False,False,,MISS Holiday Free Throw 2 of 2,107-86,107,86
+0021901295,2020-08-10,MIA,IND,44.42,4,3,35,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:6),,107-86,107,86
+0021901295,2020-08-10,MIA,IND,44.7,4,3,18,MIA,MIA,fg3_miss,1,False,False,MISS Iguodala 3PT Jump Shot,,107-86,107,86
+0021901295,2020-08-10,MIA,IND,44.75,4,3,15,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),107-86,107,86
+0021901295,2020-08-10,MIA,IND,44.82,4,3,11,IND,IND,fg_miss,73,False,False,,MISS Holiday 5' Driving Reverse Layup,107-86,107,86
+0021901295,2020-08-10,MIA,IND,44.83,4,3,10,IND,IND,reb,0,False,False,,Johnson REBOUND (Off:1 Def:0),107-86,107,86
+0021901295,2020-08-10,MIA,IND,44.9,4,3,6,IND,IND,fg3_make,1,False,False,,McDermott 25' 3PT Jump Shot (9 PTS) (Sumner 4 AST),107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.15,4,2,51,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 28' 3PT Jump Shot,,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.18,4,2,49,IND,IND,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.3,4,2,42,IND,MIA,foul,2,False,False,Olynyk S.FOUL (P4.PN) (D.Taylor),,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.3,4,2,42,IND,IND,ft_miss,11,False,False,,MISS Sumner Free Throw 1 of 2,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.3,4,2,42,IND,IND,reb,1,False,False,,Pacers Rebound,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.3,4,2,42,IND,IND,ft_miss,12,False,False,,MISS Sumner Free Throw 2 of 2,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.33,4,2,40,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:1 Def:3),,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.65,4,2,21,MIA,MIA,tov,45,False,False,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.87,4,2,8,IND,IND,fg3_miss,1,False,False,,MISS Sumner 29' 3PT Jump Shot,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.92,4,2,5,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:0 Def:1),,107-89,107,89
+0021901295,2020-08-10,MIA,IND,45.97,4,2,2,MIA,MIA,fg3_make,79,False,False,Vincent 30' 3PT Pullup Jump Shot (3 PTS),,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.15,4,1,51,IND,IND,fg3_miss,1,False,False,,MISS McDermott 26' 3PT Jump Shot,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.2,4,1,48,IND,IND,reb,0,False,False,,Johnson REBOUND (Off:2 Def:1),110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.28,4,1,43,IND,IND,fg3_miss,1,False,False,,MISS McDermott 26' 3PT Jump Shot,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.32,4,1,41,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:2),,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.58,4,1,25,MIA,MIA,fg_miss,5,True,False,MISS Olynyk 3' Layup,,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.58,4,1,25,MIA,IND,block,5,True,False,block,block,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.62,4,1,23,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:1 Def:4),110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.68,4,1,19,IND,IND,tov,1,False,True,,Holiday Bad Pass Turnover (P2.T17),110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.68,4,1,19,IND,MIA,steal,1,False,True,steal,steal,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.73,4,1,16,MIA,MIA,fg3_miss,103,False,False,MISS Vincent 27' 3PT Running Pull-Up Jump Shot,,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.78,4,1,13,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:1 Def:6),,110-89,110,89
+0021901295,2020-08-10,MIA,IND,46.78,4,1,13,MIA,MIA,fg_make,72,False,False,Olynyk 2' Putback Layup (8 PTS),,112-89,112,89
+0021901295,2020-08-10,MIA,IND,46.92,4,1,5,IND,IND,fg3_make,1,False,False,,Holiday 26' 3PT Jump Shot (8 PTS) (Sumner 5 AST),112-92,112,92
+0021901295,2020-08-10,MIA,IND,47.18,4,0,49,MIA,MIA,fg_make,73,False,False,Herro 3' Driving Reverse Layup (17 PTS) (Olynyk 3 AST),,114-92,114,92
+0021901295,2020-08-10,MIA,IND,47.37,4,0,38,IND,IND,fg_miss,6,True,False,,MISS McDermott 3' Driving Layup,114-92,114,92
+0021901295,2020-08-10,MIA,IND,47.37,4,0,38,IND,MIA,block,6,True,False,block,block,114-92,114,92
+0021901295,2020-08-10,MIA,IND,47.4,4,0,36,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:1 Def:4),,114-92,114,92
+0021901295,2020-08-10,MIA,IND,47.43,4,0,34,MIA,IND,foul,1,False,False,,Sampson P.FOUL (P3.T3) (P.Fraher),114-92,114,92
+0021901295,2020-08-10,MIA,IND,47.72,4,0,17,MIA,MIA,fg_miss,79,False,False,MISS Vincent 15' Pullup Jump Shot,,114-92,114,92
+0021901295,2020-08-10,MIA,IND,47.75,4,0,15,IND,IND,reb,0,False,False,,Johnson REBOUND (Off:2 Def:2),114-92,114,92
+0021901295,2020-08-10,MIA,IND,48.0,4,0,0,IND,,period_end,0,False,False,,,114-92,114,92

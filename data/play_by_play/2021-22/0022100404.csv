@@ -1,0 +1,390 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100404,2021-12-13,CLE,MIA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100404,2021-12-13,CLE,MIA,0.0,1,12,0,,CLE,jump_ball,0,False,False,Jump Ball Allen vs. Dedmon: Tip to Markkanen,,0-0,0,0
+0022100404,2021-12-13,CLE,MIA,0.25,1,11,45,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,0-0,0,0
+0022100404,2021-12-13,CLE,MIA,0.25,1,11,45,CLE,MIA,block,5,True,False,block,block,0-0,0,0
+0022100404,2021-12-13,CLE,MIA,0.25,1,11,45,CLE,CLE,fg_miss,5,True,False,MISS Markkanen 2' Layup,,0-0,0,0
+0022100404,2021-12-13,CLE,MIA,0.27,1,11,44,CLE,MIA,foul,6,False,False,,Robinson AWAY.FROM.PLAY.FOUL (P1.T1) (J.Tiven),0-0,0,0
+0022100404,2021-12-13,CLE,MIA,0.27,1,11,44,CLE,CLE,ft_make,10,False,False,Garland Free Throw 1 of 1 (1 PTS),,1-0,1,0
+0022100404,2021-12-13,CLE,MIA,0.48,1,11,31,CLE,CLE,fg_miss,1,False,False,MISS Mobley 21' Jump Shot,,1-0,1,0
+0022100404,2021-12-13,CLE,MIA,0.5,1,11,30,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,1-0,1,0
+0022100404,2021-12-13,CLE,MIA,0.5,1,11,30,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#1),,1-0,1,0
+0022100404,2021-12-13,CLE,MIA,0.8,1,11,12,MIA,MIA,fg3_make,1,False,False,,Tucker 3PT Jump Shot (3 PTS) (Robinson 1 AST),1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.05,1,10,57,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 3PT Jump Shot,,1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.13,1,10,52,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:1),1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.2,1,10,48,MIA,MIA,fg_miss,1,False,False,,MISS Tucker 20' Jump Shot,1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.28,1,10,43,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:0 Def:1),,1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.4,1,10,36,CLE,CLE,fg3_miss,1,False,False,MISS Garland 31' 3PT Jump Shot,,1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.48,1,10,31,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:1),1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.55,1,10,27,MIA,CLE,steal,1,False,True,steal,steal,1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.55,1,10,27,MIA,MIA,tov,1,False,True,,Lowry Bad Pass Turnover (P1.T1),1-3,1,3
+0022100404,2021-12-13,CLE,MIA,1.65,1,10,21,CLE,CLE,fg_make,106,False,False,Markkanen 1' Running Alley Oop Dunk Shot (2 PTS) (Mobley 1 AST),,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.03,1,9,58,MIA,MIA,fg_miss,86,False,False,,MISS Dedmon 14' Turnaround Fadeaway Shot,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.1,1,9,54,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:1),,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.22,1,9,47,CLE,MIA,block,86,True,False,block,block,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.22,1,9,47,CLE,CLE,fg_miss,86,True,False,MISS Markkanen 16' Turnaround Fadeaway Shot,,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.23,1,9,46,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:2),3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.33,1,9,40,MIA,MIA,tov,2,False,True,,Tucker Lost Ball Turnover (P1.T2),3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.33,1,9,40,MIA,CLE,steal,2,False,True,steal,steal,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.47,1,9,32,CLE,CLE,fg_miss,101,False,False,MISS Garland 11' Driving Floating Jump Shot,,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.5,1,9,30,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:0 Def:3),3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.7,1,9,18,MIA,MIA,fg3_miss,1,False,False,,MISS Tucker 25' 3PT Jump Shot,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.77,1,9,14,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:1),,3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.98,1,9,1,CLE,MIA,foul,2,False,False,,Dedmon S.FOUL (P1.T2) (C.Washington),3-3,3,3
+0022100404,2021-12-13,CLE,MIA,2.98,1,9,1,CLE,CLE,ft_make,11,False,False,Allen Free Throw 1 of 2 (1 PTS),,4-3,4,3
+0022100404,2021-12-13,CLE,MIA,2.98,1,9,1,CLE,CLE,ft_make,12,False,False,Allen Free Throw 2 of 2 (2 PTS),,5-3,5,3
+0022100404,2021-12-13,CLE,MIA,3.27,1,8,44,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,5-3,5,3
+0022100404,2021-12-13,CLE,MIA,3.32,1,8,41,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:1 Def:3),5-3,5,3
+0022100404,2021-12-13,CLE,MIA,3.35,1,8,39,MIA,MIA,tov,1,False,True,,Tucker Bad Pass Turnover (P2.T3),5-3,5,3
+0022100404,2021-12-13,CLE,MIA,3.35,1,8,39,MIA,CLE,steal,1,False,True,steal,steal,5-3,5,3
+0022100404,2021-12-13,CLE,MIA,3.48,1,8,31,CLE,CLE,fg3_make,1,False,False,Okoro 3PT Jump Shot (3 PTS) (Markkanen 1 AST),,8-3,8,3
+0022100404,2021-12-13,CLE,MIA,3.63,1,8,22,MIA,MIA,fg_make,47,False,False,,Lowry 20' Turnaround Jump Shot (2 PTS),8-5,8,5
+0022100404,2021-12-13,CLE,MIA,3.87,1,8,8,CLE,CLE,fg3_make,1,False,False,Markkanen 24' 3PT Jump Shot (5 PTS) (Allen 1 AST),,11-5,11,5
+0022100404,2021-12-13,CLE,MIA,4.05,1,7,57,MIA,MIA,fg3_miss,1,False,False,,MISS Tucker 25' 3PT Jump Shot,11-5,11,5
+0022100404,2021-12-13,CLE,MIA,4.12,1,7,53,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:0),11-5,11,5
+0022100404,2021-12-13,CLE,MIA,4.17,1,7,50,MIA,MIA,fg3_make,1,False,False,,Lowry 28' 3PT Jump Shot (5 PTS) (Vincent 1 AST),11-8,11,8
+0022100404,2021-12-13,CLE,MIA,4.48,1,7,31,CLE,CLE,fg3_make,1,False,False,Garland 3PT Jump Shot (4 PTS) (Markkanen 2 AST),,14-8,14,8
+0022100404,2021-12-13,CLE,MIA,4.8,1,7,12,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,14-8,14,8
+0022100404,2021-12-13,CLE,MIA,4.85,1,7,9,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:0 Def:2),,14-8,14,8
+0022100404,2021-12-13,CLE,MIA,4.98,1,7,1,CLE,CLE,tov,4,False,False,Allen Traveling Turnover (P1.T2),,14-8,14,8
+0022100404,2021-12-13,CLE,MIA,5.17,1,6,50,MIA,MIA,fg_miss,78,False,False,,MISS Tucker 12' Floating Jump Shot,14-8,14,8
+0022100404,2021-12-13,CLE,MIA,5.23,1,6,46,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:2 Def:3),14-8,14,8
+0022100404,2021-12-13,CLE,MIA,5.32,1,6,41,MIA,MIA,fg_make,79,False,False,,Tucker 14' Pullup Jump Shot (5 PTS),14-10,14,10
+0022100404,2021-12-13,CLE,MIA,5.63,1,6,22,CLE,CLE,fg3_miss,80,False,False,MISS Okoro 24' 3PT Step Back Jump Shot,,14-10,14,10
+0022100404,2021-12-13,CLE,MIA,5.72,1,6,17,MIA,MIA,reb,0,False,False,,Vincent REBOUND (Off:0 Def:1),14-10,14,10
+0022100404,2021-12-13,CLE,MIA,5.85,1,6,9,MIA,MIA,fg3_miss,79,False,False,,MISS Lowry 30' 3PT Pullup Jump Shot,14-10,14,10
+0022100404,2021-12-13,CLE,MIA,5.85,1,6,9,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:1),,14-10,14,10
+0022100404,2021-12-13,CLE,MIA,6.07,1,5,56,CLE,CLE,fg_miss,102,False,False,MISS Garland 3' Driving Floating Bank Jump Shot,,14-10,14,10
+0022100404,2021-12-13,CLE,MIA,6.13,1,5,52,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:1),14-10,14,10
+0022100404,2021-12-13,CLE,MIA,6.27,1,5,44,MIA,MIA,fg3_make,1,False,False,,Tucker 3PT Jump Shot (8 PTS) (Dedmon 1 AST),14-13,14,13
+0022100404,2021-12-13,CLE,MIA,6.28,1,5,43,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,14-13,14,13
+0022100404,2021-12-13,CLE,MIA,6.58,1,5,25,CLE,MIA,foul,1,False,False,,Dedmon P.FOUL (P2.T3) (J.Tiven),14-13,14,13
+0022100404,2021-12-13,CLE,MIA,6.78,1,5,13,CLE,CLE,fg_make,9,False,False,Okoro 1' Driving Dunk (5 PTS) (Rubio 1 AST),,16-13,16,13
+0022100404,2021-12-13,CLE,MIA,7.15,1,4,51,MIA,CLE,foul,1,False,False,Markkanen P.FOUL (P1.T1) (C.Washington),,16-13,16,13
+0022100404,2021-12-13,CLE,MIA,7.23,1,4,46,MIA,MIA,fg3_make,1,False,False,,Robinson 27' 3PT Jump Shot (3 PTS) (Yurtseven 1 AST),16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.48,1,4,31,CLE,CLE,fg_miss,3,False,False,MISS Love 8' Hook Shot,,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.53,1,4,28,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.72,1,4,17,MIA,MIA,fg_miss,6,False,False,,MISS Lowry 2' Driving Layup,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.73,1,4,16,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:1 Def:0),16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.73,1,4,16,MIA,MIA,fg_miss,72,False,False,,MISS Yurtseven Putback Layup,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.75,1,4,15,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:2 Def:0),16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.77,1,4,14,MIA,MIA,fg_miss,3,False,False,,MISS Yurtseven 1' Hook Shot,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,7.8,1,4,12,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.15,1,3,51,CLE,MIA,steal,2,False,True,steal,steal,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.15,1,3,51,CLE,CLE,tov,2,False,True,Rubio Lost Ball Turnover (P1.T3),,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.3,1,3,42,MIA,CLE,foul,1,False,False,Rubio P.FOUL (P1.T2) (C.Washington),,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.45,1,3,33,MIA,MIA,tov,19,False,False,,Herro Kicked Ball Violation Turnover (P1.T4),16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.45,1,3,33,CLE,MIA,violation,5,False,False,,Herro Violation:Kicked Ball (C.Washington),16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.67,1,3,20,CLE,CLE,fg_miss,5,False,False,MISS Osman 1' Layup,,16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.73,1,3,16,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:2 Def:1),16-16,16,16
+0022100404,2021-12-13,CLE,MIA,8.85,1,3,9,MIA,MIA,fg_make,6,False,False,,Robinson 7' Driving Layup (5 PTS),16-18,16,18
+0022100404,2021-12-13,CLE,MIA,8.97,1,3,2,CLE,CLE,fg_miss,74,False,False,MISS Osman 1' Running Reverse Layup,,16-18,16,18
+0022100404,2021-12-13,CLE,MIA,9.02,1,2,59,MIA,MIA,reb,0,False,False,,Okpala REBOUND (Off:0 Def:1),16-18,16,18
+0022100404,2021-12-13,CLE,MIA,9.12,1,2,53,MIA,CLE,steal,1,False,True,steal,steal,16-18,16,18
+0022100404,2021-12-13,CLE,MIA,9.12,1,2,53,MIA,MIA,tov,1,False,True,,Okpala Bad Pass Turnover (P1.T5),16-18,16,18
+0022100404,2021-12-13,CLE,MIA,9.47,1,2,32,CLE,CLE,fg3_make,79,False,False,Rubio 27' 3PT Pullup Jump Shot (3 PTS) (Osman 1 AST),,19-18,19,18
+0022100404,2021-12-13,CLE,MIA,9.53,1,2,28,MIA,MIA,fg_make,101,False,False,,Herro 1' Driving Floating Jump Shot (2 PTS),19-20,19,20
+0022100404,2021-12-13,CLE,MIA,9.63,1,2,22,CLE,CLE,fg3_miss,1,False,False,MISS Osman 27' 3PT Jump Shot,,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,9.63,1,2,22,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:3),19-20,19,20
+0022100404,2021-12-13,CLE,MIA,9.75,1,2,15,MIA,MIA,fg3_miss,1,False,False,,MISS Lowry 30' 3PT Jump Shot,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,9.82,1,2,11,CLE,CLE,reb,0,False,False,Rubio REBOUND (Off:0 Def:1),,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,9.93,1,2,4,CLE,CLE,fg3_miss,1,False,False,MISS Rubio 26' 3PT Jump Shot,,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,9.98,1,2,1,MIA,MIA,reb,0,False,False,,Okpala REBOUND (Off:0 Def:2),19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.1,1,1,54,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 26' 3PT Jump Shot,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.18,1,1,49,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:1),,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.33,1,1,40,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.33,1,1,40,CLE,MIA,foul,1,False,False,,Lowry P.FOUL (P1.T4) (M.Kogut),19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.57,1,1,26,CLE,CLE,fg_miss,101,False,False,MISS Rubio 14' Driving Floating Jump Shot,,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.58,1,1,25,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.6,1,1,24,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#4),,19-20,19,20
+0022100404,2021-12-13,CLE,MIA,10.77,1,1,14,MIA,MIA,fg3_make,1,False,False,,Okpala 24' 3PT Jump Shot (3 PTS) (Herro 1 AST),19-23,19,23
+0022100404,2021-12-13,CLE,MIA,11.15,1,0,51,CLE,CLE,fg3_make,1,False,False,Garland 33' 3PT Jump Shot (7 PTS) (Mobley 2 AST),,22-23,22,23
+0022100404,2021-12-13,CLE,MIA,11.35,1,0,39,MIA,MIA,fg_miss,1,False,False,,MISS Herro 17' Jump Shot,22-23,22,23
+0022100404,2021-12-13,CLE,MIA,11.42,1,0,35,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:3 Def:3),22-23,22,23
+0022100404,2021-12-13,CLE,MIA,11.52,1,0,29,MIA,MIA,tov,45,False,False,,Herro Out of Bounds - Bad Pass Turnover Turnover (P2.T6),22-23,22,23
+0022100404,2021-12-13,CLE,MIA,11.8,1,0,12,CLE,MIA,foul,2,False,False,,Okpala S.FOUL (P1.PN) (C.Washington),22-23,22,23
+0022100404,2021-12-13,CLE,MIA,11.8,1,0,12,CLE,CLE,ft_miss,11,False,False,MISS Mobley Free Throw 1 of 2,,22-23,22,23
+0022100404,2021-12-13,CLE,MIA,11.8,1,0,12,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,22-23,22,23
+0022100404,2021-12-13,CLE,MIA,11.8,1,0,12,CLE,CLE,ft_make,12,False,False,Mobley Free Throw 2 of 2 (1 PTS),,23-23,23,23
+0022100404,2021-12-13,CLE,MIA,12.0,2,12,0,MIA,,period_start,0,False,False,,,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.0,1,0,0,MIA,MIA,fg_make,80,False,False,,Herro 23' Step Back Jump Shot (4 PTS),23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.0,1,0,0,MIA,,period_end,0,False,False,,,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.23,2,11,46,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 3PT Jump Shot,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.28,2,11,43,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:2),,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.5,2,11,30,CLE,CLE,fg_miss,1,False,False,MISS Garland 11' Jump Shot,,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.57,2,11,26,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:0 Def:1),23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.65,2,11,21,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 25' 3PT Jump Shot,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.77,2,11,14,CLE,CLE,reb,0,False,False,Rubio REBOUND (Off:0 Def:2),,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.87,2,11,8,CLE,CLE,fg_miss,1,False,False,MISS Mobley 8' Jump Shot,,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.88,2,11,7,CLE,CLE,ft_make,12,False,False,Mobley Free Throw 2 of 2 (3 PTS),,25-25,25,25
+0022100404,2021-12-13,CLE,MIA,12.88,2,11,7,CLE,MIA,foul,2,False,False,,Tucker S.FOUL (P1.T1) (J.Tiven),23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.88,2,11,7,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:1 Def:2),,23-25,23,25
+0022100404,2021-12-13,CLE,MIA,12.88,2,11,7,CLE,CLE,ft_make,11,False,False,Mobley Free Throw 1 of 2 (2 PTS),,24-25,24,25
+0022100404,2021-12-13,CLE,MIA,13.15,2,10,51,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 25' 3PT Jump Shot,25-25,25,25
+0022100404,2021-12-13,CLE,MIA,13.17,2,10,50,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:4 Def:3),25-25,25,25
+0022100404,2021-12-13,CLE,MIA,13.2,2,10,48,MIA,MIA,fg3_miss,1,False,False,,MISS Vincent 25' 3PT Jump Shot,25-25,25,25
+0022100404,2021-12-13,CLE,MIA,13.27,2,10,44,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 2 Short 0),,25-25,25,25
+0022100404,2021-12-13,CLE,MIA,13.27,2,10,44,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,25-25,25,25
+0022100404,2021-12-13,CLE,MIA,13.55,2,10,27,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:0 Def:2),25-25,25,25
+0022100404,2021-12-13,CLE,MIA,13.55,2,10,27,CLE,CLE,fg_miss,1,False,False,MISS Mobley 16' Jump Shot,,25-25,25,25
+0022100404,2021-12-13,CLE,MIA,13.72,2,10,17,MIA,MIA,fg_make,6,False,False,,Herro 1' Driving Layup (6 PTS),25-27,25,27
+0022100404,2021-12-13,CLE,MIA,13.72,2,10,17,MIA,CLE,violation,2,False,False,Mobley Violation:Defensive Goaltending (M.Kogut),,25-27,25,27
+0022100404,2021-12-13,CLE,MIA,13.97,2,10,2,CLE,CLE,fg_miss,102,False,False,MISS Rubio 14' Driving Floating Bank Jump Shot,,25-27,25,27
+0022100404,2021-12-13,CLE,MIA,14.0,2,10,0,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:2 Def:2),25-27,25,27
+0022100404,2021-12-13,CLE,MIA,14.13,2,9,52,MIA,CLE,foul,1,False,False,Love P.FOUL (P1.T1) (J.Tiven),,25-27,25,27
+0022100404,2021-12-13,CLE,MIA,14.23,2,9,46,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 28' 3PT Jump Shot,25-27,25,27
+0022100404,2021-12-13,CLE,MIA,14.32,2,9,41,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:2),,25-27,25,27
+0022100404,2021-12-13,CLE,MIA,14.37,2,9,38,CLE,CLE,fg3_miss,1,False,False,MISS Love 31' 3PT Jump Shot,,25-27,25,27
+0022100404,2021-12-13,CLE,MIA,14.45,2,9,33,MIA,MIA,reb,0,False,False,,Vincent REBOUND (Off:0 Def:2),25-27,25,27
+0022100404,2021-12-13,CLE,MIA,14.52,2,9,29,MIA,MIA,fg_make,3,False,False,,Yurtseven 8' Hook Shot (2 PTS) (Strus 1 AST),25-29,25,29
+0022100404,2021-12-13,CLE,MIA,14.77,2,9,14,CLE,MIA,block,1,True,False,block,block,25-29,25,29
+0022100404,2021-12-13,CLE,MIA,14.77,2,9,14,CLE,CLE,fg_miss,1,True,False,MISS Mobley 3' Jump Shot,,25-29,25,29
+0022100404,2021-12-13,CLE,MIA,14.85,2,9,9,MIA,MIA,reb,0,False,False,,Strus REBOUND (Off:0 Def:1),25-29,25,29
+0022100404,2021-12-13,CLE,MIA,14.85,2,9,9,MIA,MIA,tov,45,False,False,,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T7),25-29,25,29
+0022100404,2021-12-13,CLE,MIA,15.27,2,8,44,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 3PT Jump Shot,,25-29,25,29
+0022100404,2021-12-13,CLE,MIA,15.28,2,8,43,MIA,MIA,reb,0,False,False,,Heat Rebound,25-29,25,29
+0022100404,2021-12-13,CLE,MIA,15.47,2,8,32,MIA,MIA,fg_make,6,False,False,,Herro Driving Layup (8 PTS) (Tucker 1 AST),25-31,25,31
+0022100404,2021-12-13,CLE,MIA,15.67,2,8,20,CLE,CLE,fg3_make,1,False,False,Stevens 3PT Jump Shot (3 PTS) (Garland 1 AST),,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,15.92,2,8,5,MIA,MIA,fg_miss,101,False,False,,MISS Herro 11' Driving Floating Jump Shot,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,15.95,2,8,3,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:3),,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,15.97,2,8,2,CLE,MIA,block,41,True,False,block,block,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,15.97,2,8,2,CLE,CLE,fg_miss,41,True,False,MISS Okoro 2' Running Layup,,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,15.97,2,8,2,MIA,MIA,reb,0,False,False,,Heat Rebound,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,16.2,2,7,48,MIA,CLE,block,108,True,False,block,block,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,16.2,2,7,48,MIA,MIA,fg_miss,108,True,False,,MISS Yurtseven 1' Cutting Dunk Shot,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,16.23,2,7,46,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:2),,28-31,28,31
+0022100404,2021-12-13,CLE,MIA,16.42,2,7,35,CLE,CLE,fg3_make,79,False,False,Garland 27' 3PT Pullup Jump Shot (10 PTS),,31-31,31,31
+0022100404,2021-12-13,CLE,MIA,16.57,2,7,26,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.2 Short 0),31-31,31,31
+0022100404,2021-12-13,CLE,MIA,16.85,2,7,9,MIA,MIA,tov,11,False,False,,Heat Turnover: Shot Clock (T#8),31-31,31,31
+0022100404,2021-12-13,CLE,MIA,17.07,2,6,56,CLE,CLE,fg_make,1,False,False,Allen 18' Jump Shot (4 PTS),,33-31,33,31
+0022100404,2021-12-13,CLE,MIA,17.52,2,6,29,MIA,MIA,fg3_miss,1,False,False,,MISS Dedmon 3PT Jump Shot,33-31,33,31
+0022100404,2021-12-13,CLE,MIA,17.58,2,6,25,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:1),,33-31,33,31
+0022100404,2021-12-13,CLE,MIA,17.67,2,6,20,CLE,CLE,fg_make,52,False,False,Allen 1' Alley Oop Dunk (6 PTS) (Garland 2 AST),,35-31,35,31
+0022100404,2021-12-13,CLE,MIA,18.03,2,5,58,MIA,MIA,fg_make,101,False,False,,Lowry 8' Driving Floating Jump Shot (7 PTS) (Dedmon 2 AST),35-33,35,33
+0022100404,2021-12-13,CLE,MIA,18.28,2,5,43,CLE,CLE,fg_make,78,False,False,Garland 12' Floating Jump Shot (12 PTS),,37-33,37,33
+0022100404,2021-12-13,CLE,MIA,18.58,2,5,25,MIA,MIA,fg_make,108,False,False,,Dedmon 1' Cutting Dunk Shot (2 PTS) (Lowry 1 AST),37-35,37,35
+0022100404,2021-12-13,CLE,MIA,18.85,2,5,9,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 28' 3PT Jump Shot,,37-35,37,35
+0022100404,2021-12-13,CLE,MIA,18.9,2,5,6,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:4),37-35,37,35
+0022100404,2021-12-13,CLE,MIA,19.1,2,4,54,MIA,MIA,fg_make,5,False,False,,Dedmon Layup (4 PTS) (Okpala 1 AST),37-37,37,37
+0022100404,2021-12-13,CLE,MIA,19.35,2,4,39,CLE,CLE,fg3_make,1,False,False,Markkanen 28' 3PT Jump Shot (8 PTS) (Okoro 1 AST),,40-37,40,37
+0022100404,2021-12-13,CLE,MIA,19.7,2,4,18,MIA,MIA,fg3_miss,79,False,False,,MISS Lowry 28' 3PT Pullup Jump Shot,40-37,40,37
+0022100404,2021-12-13,CLE,MIA,19.8,2,4,12,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:2),,40-37,40,37
+0022100404,2021-12-13,CLE,MIA,19.97,2,4,2,CLE,CLE,fg_miss,6,False,False,MISS Garland 2' Driving Layup,,40-37,40,37
+0022100404,2021-12-13,CLE,MIA,20.0,2,4,0,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:1 Def:0),,40-37,40,37
+0022100404,2021-12-13,CLE,MIA,20.0,2,4,0,CLE,MIA,foul,2,False,False,,Lowry S.FOUL (P2.T2) (J.Tiven),40-37,40,37
+0022100404,2021-12-13,CLE,MIA,20.0,2,4,0,CLE,CLE,ft_make,11,False,False,Allen Free Throw 1 of 2 (7 PTS),,41-37,41,37
+0022100404,2021-12-13,CLE,MIA,20.0,2,4,0,CLE,CLE,ft_make,12,False,False,Allen Free Throw 2 of 2 (8 PTS),,42-37,42,37
+0022100404,2021-12-13,CLE,MIA,20.17,2,3,50,MIA,CLE,foul,2,False,False,Okoro S.FOUL (P1.T2) (M.Kogut),,42-37,42,37
+0022100404,2021-12-13,CLE,MIA,20.17,2,3,50,MIA,MIA,ft_miss,13,False,False,,MISS Robinson Free Throw 1 of 3,42-37,42,37
+0022100404,2021-12-13,CLE,MIA,20.17,2,3,50,MIA,MIA,reb,1,False,False,,Heat Rebound,42-37,42,37
+0022100404,2021-12-13,CLE,MIA,20.17,2,3,50,MIA,MIA,ft_make,14,False,False,,Robinson Free Throw 2 of 3 (6 PTS),42-38,42,38
+0022100404,2021-12-13,CLE,MIA,20.17,2,3,50,MIA,MIA,ft_miss,15,False,False,,MISS Robinson Free Throw 3 of 3,42-38,42,38
+0022100404,2021-12-13,CLE,MIA,20.22,2,3,47,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:2 Def:0),42-38,42,38
+0022100404,2021-12-13,CLE,MIA,20.28,2,3,43,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,42-38,42,38
+0022100404,2021-12-13,CLE,MIA,20.35,2,3,39,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:1 Def:1),,42-38,42,38
+0022100404,2021-12-13,CLE,MIA,20.55,2,3,27,CLE,CLE,fg_make,3,False,False,Markkanen 7' Hook Shot (10 PTS),,44-38,44,38
+0022100404,2021-12-13,CLE,MIA,20.78,2,3,13,MIA,MIA,fg_miss,78,False,False,,MISS Herro 12' Floating Jump Shot,44-38,44,38
+0022100404,2021-12-13,CLE,MIA,20.83,2,3,10,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:1 Def:2),,44-38,44,38
+0022100404,2021-12-13,CLE,MIA,21.02,2,2,59,CLE,CLE,fg_miss,78,False,False,MISS Rubio 10' Floating Jump Shot,,44-38,44,38
+0022100404,2021-12-13,CLE,MIA,21.15,2,2,51,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:2 Def:2),,44-38,44,38
+0022100404,2021-12-13,CLE,MIA,21.15,2,2,51,CLE,CLE,fg_make,107,False,False,Allen Tip Dunk Shot (10 PTS),,46-38,46,38
+0022100404,2021-12-13,CLE,MIA,21.27,2,2,44,MIA,MIA,tov,39,False,False,,Lowry Step Out of Bounds Turnover (P2.T9),46-38,46,38
+0022100404,2021-12-13,CLE,MIA,21.45,2,2,33,CLE,MIA,foul,1,False,False,,Lowry P.FOUL (P3.T3) (C.Washington),46-38,46,38
+0022100404,2021-12-13,CLE,MIA,21.68,2,2,19,CLE,CLE,fg_make,58,False,False,Allen 12' Turnaround Hook Shot (12 PTS),,48-38,48,38
+0022100404,2021-12-13,CLE,MIA,21.8,2,2,12,MIA,MIA,tov,37,False,False,,Tucker Offensive Foul Turnover (P3.T10),48-38,48,38
+0022100404,2021-12-13,CLE,MIA,21.8,2,2,12,CLE,MIA,foul,4,False,False,,Tucker OFF.Foul (P2) (C.Washington),48-38,48,38
+0022100404,2021-12-13,CLE,MIA,22.03,2,1,58,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 33' 3PT Jump Shot,,48-38,48,38
+0022100404,2021-12-13,CLE,MIA,22.1,2,1,54,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:3 Def:2),,48-38,48,38
+0022100404,2021-12-13,CLE,MIA,22.12,2,1,53,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.3 Short 0),50-38,50,38
+0022100404,2021-12-13,CLE,MIA,22.12,2,1,53,CLE,CLE,fg_make,108,False,False,Okoro 1' Cutting Dunk Shot (7 PTS) (Allen 2 AST),,50-38,50,38
+0022100404,2021-12-13,CLE,MIA,22.45,2,1,33,MIA,MIA,fg3_miss,79,False,False,,MISS Okpala 3PT Pullup Jump Shot,50-38,50,38
+0022100404,2021-12-13,CLE,MIA,22.47,2,1,32,MIA,MIA,reb,0,False,False,,Heat Rebound,50-38,50,38
+0022100404,2021-12-13,CLE,MIA,22.52,2,1,29,,CLE,jump_ball,0,False,False,Jump Ball Mobley vs. Tucker: Tip to Markkanen,,50-38,50,38
+0022100404,2021-12-13,CLE,MIA,22.52,2,1,29,MIA,CLE,steal,2,False,True,steal,steal,50-38,50,38
+0022100404,2021-12-13,CLE,MIA,22.52,2,1,29,MIA,MIA,tov,2,False,True,,Okpala Lost Ball Turnover (P2.T11),50-38,50,38
+0022100404,2021-12-13,CLE,MIA,22.7,2,1,18,CLE,CLE,fg_make,52,False,False,Mobley 2' Alley Oop Dunk (5 PTS) (Rubio 2 AST),,52-38,52,38
+0022100404,2021-12-13,CLE,MIA,22.97,2,1,2,MIA,MIA,fg3_make,1,False,False,,Tucker 24' 3PT Jump Shot (11 PTS) (Vincent 2 AST),52-41,52,41
+0022100404,2021-12-13,CLE,MIA,23.12,2,0,53,CLE,CLE,fg3_make,1,False,False,Okoro 3PT Jump Shot (10 PTS) (Rubio 3 AST),,55-41,55,41
+0022100404,2021-12-13,CLE,MIA,23.27,2,0,44,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,55-41,55,41
+0022100404,2021-12-13,CLE,MIA,23.3,2,0,42,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:3),,55-41,55,41
+0022100404,2021-12-13,CLE,MIA,23.4,2,0,36,CLE,CLE,fg3_miss,1,False,False,MISS Okoro 24' 3PT Jump Shot,,55-41,55,41
+0022100404,2021-12-13,CLE,MIA,23.5,2,0,30,MIA,CLE,foul,28,False,False,Rubio Personal Take Foul (P2.T3) (M.Kogut),,55-41,55,41
+0022100404,2021-12-13,CLE,MIA,23.5,2,0,30,MIA,MIA,reb,0,False,False,,Vincent REBOUND (Off:0 Def:3),55-41,55,41
+0022100404,2021-12-13,CLE,MIA,23.7,2,0,18,MIA,MIA,fg3_make,1,False,False,,Tucker 24' 3PT Jump Shot (14 PTS) (Vincent 3 AST),55-44,55,44
+0022100404,2021-12-13,CLE,MIA,24.0,3,12,0,CLE,,period_start,0,False,False,,,55-44,55,44
+0022100404,2021-12-13,CLE,MIA,24.0,2,0,0,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,55-44,55,44
+0022100404,2021-12-13,CLE,MIA,24.0,2,0,0,CLE,CLE,fg_miss,86,False,False,MISS Mobley 11' Turnaround Fadeaway Shot,,55-44,55,44
+0022100404,2021-12-13,CLE,MIA,24.0,2,0,0,CLE,,period_end,0,False,False,,,55-44,55,44
+0022100404,2021-12-13,CLE,MIA,24.32,3,11,41,MIA,MIA,fg3_make,79,False,False,,Vincent 27' 3PT Pullup Jump Shot (3 PTS) (Tucker 2 AST),55-47,55,47
+0022100404,2021-12-13,CLE,MIA,24.68,3,11,19,CLE,CLE,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,55-47,55,47
+0022100404,2021-12-13,CLE,MIA,24.73,3,11,16,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:2 Def:1),55-47,55,47
+0022100404,2021-12-13,CLE,MIA,24.95,3,11,3,MIA,MIA,fg_make,78,False,False,,Tucker 11' Floating Jump Shot (16 PTS) (Robinson 2 AST),55-49,55,49
+0022100404,2021-12-13,CLE,MIA,25.17,3,10,50,CLE,CLE,fg3_miss,1,False,False,MISS Garland 3PT Jump Shot,,55-49,55,49
+0022100404,2021-12-13,CLE,MIA,25.22,3,10,47,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:4 Def:4),55-49,55,49
+0022100404,2021-12-13,CLE,MIA,25.33,3,10,40,MIA,MIA,fg_miss,78,False,False,,MISS Tucker 11' Floating Jump Shot,55-49,55,49
+0022100404,2021-12-13,CLE,MIA,25.38,3,10,37,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:3),,55-49,55,49
+0022100404,2021-12-13,CLE,MIA,25.6,3,10,24,CLE,CLE,fg_miss,3,False,False,MISS Mobley 10' Hook Shot,,55-49,55,49
+0022100404,2021-12-13,CLE,MIA,25.65,3,10,21,MIA,MIA,reb,0,False,False,,Tucker REBOUND (Off:4 Def:5),55-49,55,49
+0022100404,2021-12-13,CLE,MIA,25.85,3,10,9,MIA,MIA,fg_make,5,False,False,,Dedmon 3' Layup (6 PTS) (Robinson 3 AST),55-51,55,51
+0022100404,2021-12-13,CLE,MIA,26.18,3,9,49,CLE,CLE,fg3_miss,1,False,False,MISS Garland 27' 3PT Jump Shot,,55-51,55,51
+0022100404,2021-12-13,CLE,MIA,26.22,3,9,47,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:2),55-51,55,51
+0022100404,2021-12-13,CLE,MIA,26.38,3,9,37,MIA,MIA,fg_miss,73,False,False,,MISS Robinson 1' Driving Reverse Layup,55-51,55,51
+0022100404,2021-12-13,CLE,MIA,26.43,3,9,34,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:3 Def:1),55-51,55,51
+0022100404,2021-12-13,CLE,MIA,26.47,3,9,32,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 3 Short 0),,55-54,55,54
+0022100404,2021-12-13,CLE,MIA,26.47,3,9,32,MIA,MIA,fg3_make,79,False,False,,Lowry 26' 3PT Pullup Jump Shot (10 PTS) (Tucker 3 AST),55-54,55,54
+0022100404,2021-12-13,CLE,MIA,26.95,3,9,3,CLE,CLE,fg3_make,66,False,False,Okoro 3PT Jump Bank Shot (13 PTS) (Garland 3 AST),,58-54,58,54
+0022100404,2021-12-13,CLE,MIA,27.37,3,8,38,MIA,MIA,fg_make,108,False,False,,Dedmon Cutting Dunk Shot (8 PTS) (Tucker 4 AST),58-56,58,56
+0022100404,2021-12-13,CLE,MIA,27.77,3,8,14,CLE,CLE,tov,37,False,False,Okoro Offensive Foul Turnover (P1.T5),,58-56,58,56
+0022100404,2021-12-13,CLE,MIA,27.77,3,8,14,MIA,CLE,foul,26,False,False,Okoro Offensive Charge Foul (P2) (M.Kogut),,58-56,58,56
+0022100404,2021-12-13,CLE,MIA,27.93,3,8,4,MIA,MIA,tov,45,False,False,,Vincent Out of Bounds - Bad Pass Turnover Turnover (P2.T12),58-56,58,56
+0022100404,2021-12-13,CLE,MIA,28.18,3,7,49,CLE,MIA,foul,2,False,False,,Robinson S.FOUL (P2.T1) (M.Kogut),58-56,58,56
+0022100404,2021-12-13,CLE,MIA,28.18,3,7,49,CLE,CLE,ft_make,12,False,False,Garland Free Throw 2 of 2 (14 PTS),,60-56,60,56
+0022100404,2021-12-13,CLE,MIA,28.18,3,7,49,CLE,CLE,ft_make,11,False,False,Garland Free Throw 1 of 2 (13 PTS),,59-56,59,56
+0022100404,2021-12-13,CLE,MIA,28.43,3,7,34,MIA,CLE,foul,1,False,False,Allen P.FOUL (P1.T1) (M.Kogut),,60-56,60,56
+0022100404,2021-12-13,CLE,MIA,28.55,3,7,27,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,60-56,60,56
+0022100404,2021-12-13,CLE,MIA,28.62,3,7,23,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:0 Def:2),,60-56,60,56
+0022100404,2021-12-13,CLE,MIA,28.87,3,7,8,CLE,CLE,tov,4,False,False,Mobley Traveling Turnover (P1.T6),,60-56,60,56
+0022100404,2021-12-13,CLE,MIA,29.03,3,6,58,MIA,MIA,tov,4,False,False,,Dedmon Traveling Turnover (P1.T13),60-56,60,56
+0022100404,2021-12-13,CLE,MIA,29.25,3,6,45,CLE,MIA,foul,1,False,False,,Vincent P.FOUL (P1.T2) (C.Washington),60-56,60,56
+0022100404,2021-12-13,CLE,MIA,29.43,3,6,34,CLE,CLE,fg_make,80,False,False,Garland 14' Step Back Jump Shot (16 PTS) (Okoro 2 AST),,62-56,62,56
+0022100404,2021-12-13,CLE,MIA,29.65,3,6,21,MIA,MIA,fg3_make,79,False,False,,Lowry 26' 3PT Pullup Jump Shot (13 PTS),62-59,62,59
+0022100404,2021-12-13,CLE,MIA,29.88,3,6,7,CLE,CLE,fg3_miss,1,False,False,MISS Okoro 24' 3PT Jump Shot,,62-59,62,59
+0022100404,2021-12-13,CLE,MIA,29.93,3,6,4,MIA,MIA,reb,0,False,False,,Lowry REBOUND (Off:0 Def:3),62-59,62,59
+0022100404,2021-12-13,CLE,MIA,29.98,3,6,1,MIA,CLE,foul,1,False,False,Okoro P.FOUL (P3.T2) (M.Kogut),,62-59,62,59
+0022100404,2021-12-13,CLE,MIA,30.05,3,5,57,MIA,MIA,tov,4,False,False,,Robinson Traveling Turnover (P1.T14),62-59,62,59
+0022100404,2021-12-13,CLE,MIA,30.3,3,5,42,CLE,CLE,fg_miss,6,False,False,MISS Markkanen 2' Driving Layup,,62-59,62,59
+0022100404,2021-12-13,CLE,MIA,30.33,3,5,40,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:1 Def:2),,62-59,62,59
+0022100404,2021-12-13,CLE,MIA,30.35,3,5,39,CLE,CLE,fg_make,72,False,False,Markkanen 9' Putback Layup (12 PTS),,64-59,64,59
+0022100404,2021-12-13,CLE,MIA,30.62,3,5,23,MIA,MIA,fg3_make,79,False,False,,Lowry 29' 3PT Pullup Jump Shot (16 PTS),64-62,64,62
+0022100404,2021-12-13,CLE,MIA,30.87,3,5,8,MIA,CLE,foul,26,False,False,Love Offensive Charge Foul (P2) (M.Kogut),,64-62,64,62
+0022100404,2021-12-13,CLE,MIA,30.87,3,5,8,CLE,CLE,tov,37,False,False,Love Offensive Foul Turnover (P1.T7),,64-62,64,62
+0022100404,2021-12-13,CLE,MIA,31.23,3,4,46,MIA,MIA,fg_make,78,False,False,,Tucker 9' Floating Jump Shot (18 PTS) (Strus 2 AST),64-64,64,64
+0022100404,2021-12-13,CLE,MIA,31.42,3,4,35,CLE,CLE,fg3_make,1,False,False,Love 25' 3PT Jump Shot (3 PTS) (Rubio 4 AST),,67-64,67,64
+0022100404,2021-12-13,CLE,MIA,31.65,3,4,21,MIA,MIA,fg_miss,101,False,False,,MISS Herro 10' Driving Floating Jump Shot,67-64,67,64
+0022100404,2021-12-13,CLE,MIA,31.68,3,4,19,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:4),,67-64,67,64
+0022100404,2021-12-13,CLE,MIA,31.77,3,4,14,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),69-64,69,64
+0022100404,2021-12-13,CLE,MIA,31.77,3,4,14,CLE,CLE,fg_make,6,False,False,Okoro 1' Driving Layup (15 PTS),,69-64,69,64
+0022100404,2021-12-13,CLE,MIA,32.02,3,3,59,MIA,MIA,fg_make,98,False,False,,Herro 1' Cutting Layup Shot (10 PTS) (Lowry 2 AST),69-66,69,66
+0022100404,2021-12-13,CLE,MIA,32.37,3,3,38,CLE,CLE,fg3_miss,1,False,False,MISS Okoro 3PT Jump Shot,,69-66,69,66
+0022100404,2021-12-13,CLE,MIA,32.4,3,3,36,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:4 Def:2),,69-66,69,66
+0022100404,2021-12-13,CLE,MIA,32.43,3,3,34,CLE,CLE,fg3_make,1,False,False,Love 3PT Jump Shot (6 PTS) (Rubio 5 AST),,72-66,72,66
+0022100404,2021-12-13,CLE,MIA,32.92,3,3,5,MIA,MIA,fg_miss,102,False,False,,MISS Herro 12' Driving Floating Bank Jump Shot,72-66,72,66
+0022100404,2021-12-13,CLE,MIA,32.92,3,3,5,MIA,MIA,reb,0,False,False,,Heat Rebound,72-66,72,66
+0022100404,2021-12-13,CLE,MIA,32.92,3,3,5,MIA,MIA,tov,11,False,False,,Heat Turnover: Shot Clock (T#15),72-66,72,66
+0022100404,2021-12-13,CLE,MIA,33.07,3,2,56,CLE,MIA,foul,2,False,False,,Tucker S.FOUL (P3.T3) (J.Tiven),72-66,72,66
+0022100404,2021-12-13,CLE,MIA,33.07,3,2,56,CLE,CLE,ft_make,13,False,False,Love Free Throw 1 of 3 (7 PTS),,73-66,73,66
+0022100404,2021-12-13,CLE,MIA,33.07,3,2,56,CLE,CLE,ft_make,14,False,False,Love Free Throw 2 of 3 (8 PTS),,74-66,74,66
+0022100404,2021-12-13,CLE,MIA,33.07,3,2,56,CLE,CLE,ft_make,15,False,False,Love Free Throw 3 of 3 (9 PTS),,75-66,75,66
+0022100404,2021-12-13,CLE,MIA,33.2,3,2,48,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 30' 3PT Jump Shot,75-66,75,66
+0022100404,2021-12-13,CLE,MIA,33.27,3,2,44,CLE,CLE,reb,0,False,False,Markkanen REBOUND (Off:1 Def:3),,75-66,75,66
+0022100404,2021-12-13,CLE,MIA,33.4,3,2,36,CLE,CLE,fg_miss,78,False,False,MISS Garland 10' Floating Jump Shot,,75-66,75,66
+0022100404,2021-12-13,CLE,MIA,33.48,3,2,31,MIA,MIA,reb,0,False,False,,Strus REBOUND (Off:0 Def:2),75-66,75,66
+0022100404,2021-12-13,CLE,MIA,33.5,3,2,30,MIA,MIA,ft_make,12,False,False,,Yurtseven Free Throw 2 of 2 (4 PTS),75-68,75,68
+0022100404,2021-12-13,CLE,MIA,33.5,3,2,30,MIA,MIA,ft_make,11,False,False,,Yurtseven Free Throw 1 of 2 (3 PTS),75-67,75,67
+0022100404,2021-12-13,CLE,MIA,33.5,3,2,30,MIA,CLE,foul,2,False,False,Stevens S.FOUL (P1.T3) (J.Tiven),,75-66,75,66
+0022100404,2021-12-13,CLE,MIA,33.77,3,2,14,MIA,MIA,reb,0,False,False,,Heat Rebound,75-68,75,68
+0022100404,2021-12-13,CLE,MIA,33.77,3,2,14,CLE,CLE,fg3_miss,80,False,False,MISS Love 3PT Step Back Jump Shot,,75-68,75,68
+0022100404,2021-12-13,CLE,MIA,34.03,3,1,58,MIA,MIA,fg3_make,1,False,False,,Tucker 24' 3PT Jump Shot (21 PTS) (Herro 2 AST),75-71,75,71
+0022100404,2021-12-13,CLE,MIA,34.38,3,1,37,CLE,CLE,fg3_miss,1,False,False,MISS Rubio 24' 3PT Jump Shot,,75-71,75,71
+0022100404,2021-12-13,CLE,MIA,34.42,3,1,35,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:4),,75-71,75,71
+0022100404,2021-12-13,CLE,MIA,34.52,3,1,29,CLE,CLE,tov,45,False,False,Garland Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,75-71,75,71
+0022100404,2021-12-13,CLE,MIA,34.87,3,1,8,MIA,MIA,fg_make,78,False,False,,Tucker 14' Floating Jump Shot (23 PTS) (Lowry 3 AST),75-73,75,73
+0022100404,2021-12-13,CLE,MIA,35.07,3,0,56,CLE,CLE,fg_miss,58,False,False,MISS Mobley 5' Turnaround Hook Shot,,75-73,75,73
+0022100404,2021-12-13,CLE,MIA,35.1,3,0,54,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:2 Def:3),75-73,75,73
+0022100404,2021-12-13,CLE,MIA,35.27,3,0,44,MIA,MIA,fg3_miss,79,False,False,,MISS Herro 26' 3PT Pullup Jump Shot,75-73,75,73
+0022100404,2021-12-13,CLE,MIA,35.32,3,0,41,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:3),,75-73,75,73
+0022100404,2021-12-13,CLE,MIA,35.57,3,0,26,CLE,CLE,ft_make,10,False,False,Love Free Throw 1 of 1 (12 PTS),,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,35.57,3,0,26,CLE,MIA,foul,2,False,False,,Strus S.FOUL (P1.T4) (J.Tiven),77-73,77,73
+0022100404,2021-12-13,CLE,MIA,35.57,3,0,26,CLE,CLE,fg_make,105,False,False,Love 1' Turnaround Fadeaway Bank Jump Shot (11 PTS),,77-73,77,73
+0022100404,2021-12-13,CLE,MIA,35.9,3,0,6,MIA,MIA,fg_miss,6,False,False,,MISS Vincent 2' Driving Layup,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,35.92,3,0,5,MIA,MIA,ft_miss,12,False,False,,MISS Yurtseven Free Throw 2 of 2,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,35.92,3,0,5,MIA,MIA,reb,1,False,False,,Heat Rebound,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,35.92,3,0,5,MIA,MIA,ft_miss,11,False,False,,MISS Yurtseven Free Throw 1 of 2,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,35.92,3,0,5,MIA,CLE,foul,2,False,False,Stevens S.FOUL (P2.T4) (M.Kogut),,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,35.92,3,0,5,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:3 Def:3),78-73,78,73
+0022100404,2021-12-13,CLE,MIA,35.92,3,0,5,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:5),,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,36.0,3,0,0,CLE,,period_end,0,False,False,,,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,36.0,4,12,0,CLE,,period_start,0,False,False,,,78-73,78,73
+0022100404,2021-12-13,CLE,MIA,36.23,4,11,46,CLE,CLE,ft_make,12,False,False,Love Free Throw 2 of 2 (14 PTS),,80-73,80,73
+0022100404,2021-12-13,CLE,MIA,36.23,4,11,46,CLE,CLE,ft_make,11,False,False,Love Free Throw 1 of 2 (13 PTS),,79-73,79,73
+0022100404,2021-12-13,CLE,MIA,36.23,4,11,46,CLE,MIA,foul,2,False,False,,Dedmon S.FOUL (P3.T1) (M.Kogut),78-73,78,73
+0022100404,2021-12-13,CLE,MIA,36.45,4,11,33,CLE,MIA,violation,1,False,False,,Heat Violation: Delay of game Violation,80-75,80,75
+0022100404,2021-12-13,CLE,MIA,36.45,4,11,33,MIA,MIA,fg_make,98,False,False,,Herro 1' Cutting Layup Shot (12 PTS) (Vincent 4 AST),80-75,80,75
+0022100404,2021-12-13,CLE,MIA,36.73,4,11,16,CLE,CLE,fg_make,102,False,False,Rubio 10' Driving Floating Bank Jump Shot (5 PTS),,82-75,82,75
+0022100404,2021-12-13,CLE,MIA,36.95,4,11,3,MIA,MIA,fg_miss,80,False,False,,MISS Herro 17' Step Back Jump Shot,82-75,82,75
+0022100404,2021-12-13,CLE,MIA,37.03,4,10,58,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:4),,82-75,82,75
+0022100404,2021-12-13,CLE,MIA,37.28,4,10,43,CLE,CLE,fg_miss,102,False,False,MISS Garland 1' Driving Floating Bank Jump Shot,,82-75,82,75
+0022100404,2021-12-13,CLE,MIA,37.5,4,10,30,CLE,CLE,fg_make,107,False,False,Mobley Tip Dunk Shot (7 PTS),,84-75,84,75
+0022100404,2021-12-13,CLE,MIA,37.5,4,10,30,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:2 Def:2),,82-75,82,75
+0022100404,2021-12-13,CLE,MIA,37.6,4,10,24,MIA,MIA,fg3_miss,1,False,False,,MISS Okpala 3PT Jump Shot,84-75,84,75
+0022100404,2021-12-13,CLE,MIA,37.67,4,10,20,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:0 Def:4),,84-75,84,75
+0022100404,2021-12-13,CLE,MIA,37.83,4,10,10,CLE,CLE,tov,2,False,True,Love Lost Ball Turnover (P2.T9),,84-75,84,75
+0022100404,2021-12-13,CLE,MIA,37.83,4,10,10,CLE,MIA,steal,2,False,True,steal,steal,84-75,84,75
+0022100404,2021-12-13,CLE,MIA,38.17,4,9,50,MIA,MIA,fg_make,1,False,False,,Vincent 16' Jump Shot (5 PTS),84-77,84,77
+0022100404,2021-12-13,CLE,MIA,38.58,4,9,25,CLE,CLE,fg3_miss,1,False,False,MISS Rubio 3PT Jump Shot,,84-77,84,77
+0022100404,2021-12-13,CLE,MIA,38.65,4,9,21,MIA,MIA,reb,0,False,False,,Dedmon REBOUND (Off:3 Def:2),84-77,84,77
+0022100404,2021-12-13,CLE,MIA,38.98,4,9,1,MIA,MIA,fg3_miss,79,False,False,,MISS Vincent 27' 3PT Pullup Jump Shot,84-77,84,77
+0022100404,2021-12-13,CLE,MIA,39.02,4,8,59,MIA,MIA,reb,0,False,False,,Okpala REBOUND (Off:1 Def:2),84-77,84,77
+0022100404,2021-12-13,CLE,MIA,39.1,4,8,54,MIA,MIA,fg_miss,47,False,False,,MISS Okpala 17' Turnaround Jump Shot,84-77,84,77
+0022100404,2021-12-13,CLE,MIA,39.13,4,8,52,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:6),,84-77,84,77
+0022100404,2021-12-13,CLE,MIA,39.2,4,8,48,CLE,CLE,fg_miss,43,False,False,MISS Mobley 2' Alley Oop Layup,,84-77,84,77
+0022100404,2021-12-13,CLE,MIA,39.2,4,8,48,MIA,MIA,reb,0,False,False,,Heat Rebound,84-77,84,77
+0022100404,2021-12-13,CLE,MIA,39.53,4,8,28,MIA,MIA,fg_make,44,False,False,,Dedmon 2' Reverse Layup (10 PTS) (Okpala 2 AST),84-79,84,79
+0022100404,2021-12-13,CLE,MIA,39.8,4,8,12,CLE,CLE,fg3_make,1,False,False,Okoro 24' 3PT Jump Shot (18 PTS) (Mobley 3 AST),,87-79,87,79
+0022100404,2021-12-13,CLE,MIA,40.02,4,7,59,MIA,MIA,fg3_miss,1,False,False,,MISS Okpala 27' 3PT Jump Shot,87-79,87,79
+0022100404,2021-12-13,CLE,MIA,40.08,4,7,55,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:4),,87-79,87,79
+0022100404,2021-12-13,CLE,MIA,40.25,4,7,45,CLE,CLE,fg3_make,80,False,False,Love 24' 3PT Step Back Jump Shot (17 PTS) (Garland 4 AST),,90-79,90,79
+0022100404,2021-12-13,CLE,MIA,40.27,4,7,44,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),90-79,90,79
+0022100404,2021-12-13,CLE,MIA,40.58,4,7,25,MIA,MIA,fg_miss,79,False,False,,MISS Lowry 16' Pullup Jump Shot,90-79,90,79
+0022100404,2021-12-13,CLE,MIA,40.67,4,7,20,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:7),,90-79,90,79
+0022100404,2021-12-13,CLE,MIA,40.93,4,7,4,CLE,CLE,fg_make,5,False,False,Mobley 1' Layup (9 PTS) (Love 1 AST),,92-79,92,79
+0022100404,2021-12-13,CLE,MIA,41.15,4,6,51,MIA,MIA,fg_miss,79,False,False,,MISS Lowry 16' Pullup Jump Shot,92-79,92,79
+0022100404,2021-12-13,CLE,MIA,41.23,4,6,46,MIA,CLE,foul,26,False,False,Mobley Offensive Charge Foul (P1) (J.Tiven),,92-79,92,79
+0022100404,2021-12-13,CLE,MIA,41.23,4,6,46,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:8),,92-79,92,79
+0022100404,2021-12-13,CLE,MIA,41.23,4,6,46,CLE,CLE,tov,37,False,False,Mobley Offensive Foul Turnover (P2.T10),,92-79,92,79
+0022100404,2021-12-13,CLE,MIA,41.58,4,6,25,MIA,MIA,fg_make,57,False,False,,Yurtseven 8' Driving Hook Shot (6 PTS),92-81,92,81
+0022100404,2021-12-13,CLE,MIA,41.85,4,6,9,CLE,CLE,fg3_make,1,False,False,Love 25' 3PT Jump Shot (20 PTS),,95-81,95,81
+0022100404,2021-12-13,CLE,MIA,42.07,4,5,56,MIA,MIA,fg3_make,80,False,False,,Vincent 28' 3PT Step Back Jump Shot (8 PTS) (Tucker 5 AST),95-84,95,84
+0022100404,2021-12-13,CLE,MIA,42.45,4,5,33,CLE,CLE,fg_make,75,False,False,Rubio Driving Finger Roll Layup (7 PTS) (Allen 3 AST),,97-84,97,84
+0022100404,2021-12-13,CLE,MIA,42.58,4,5,25,MIA,MIA,fg3_miss,79,False,False,,MISS Lowry 26' 3PT Pullup Jump Shot,97-84,97,84
+0022100404,2021-12-13,CLE,MIA,42.65,4,5,21,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:5),,97-84,97,84
+0022100404,2021-12-13,CLE,MIA,42.83,4,5,10,CLE,CLE,fg3_make,1,False,False,Love 25' 3PT Jump Shot (23 PTS) (Rubio 6 AST),,100-84,100,84
+0022100404,2021-12-13,CLE,MIA,42.85,4,5,9,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.6 Short 0),100-84,100,84
+0022100404,2021-12-13,CLE,MIA,43.2,4,4,48,MIA,MIA,fg_make,47,False,False,,Lowry 14' Turnaround Jump Shot (18 PTS),100-86,100,86
+0022100404,2021-12-13,CLE,MIA,43.68,4,4,19,CLE,CLE,fg3_miss,1,False,False,MISS Love 26' 3PT Jump Shot,,100-86,100,86
+0022100404,2021-12-13,CLE,MIA,43.73,4,4,16,MIA,MIA,reb,0,False,False,,Yurtseven REBOUND (Off:3 Def:4),100-86,100,86
+0022100404,2021-12-13,CLE,MIA,43.8,4,4,12,MIA,MIA,fg_make,6,False,False,,Lowry Driving Layup (20 PTS),100-88,100,88
+0022100404,2021-12-13,CLE,MIA,44.05,4,3,57,CLE,MIA,steal,1,False,True,steal,steal,100-88,100,88
+0022100404,2021-12-13,CLE,MIA,44.05,4,3,57,CLE,CLE,tov,1,False,True,Allen Bad Pass Turnover (P2.T11),,100-88,100,88
+0022100404,2021-12-13,CLE,MIA,44.28,4,3,43,MIA,MIA,fg_make,79,False,False,,Vincent 13' Pullup Jump Shot (10 PTS) (Lowry 4 AST),100-90,100,90
+0022100404,2021-12-13,CLE,MIA,44.3,4,3,42,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 4 Short 0),,100-90,100,90
+0022100404,2021-12-13,CLE,MIA,44.48,4,3,31,CLE,MIA,foul,2,False,False,,Lowry S.FOUL (P4.T2) (J.Tiven),102-90,102,90
+0022100404,2021-12-13,CLE,MIA,44.48,4,3,31,CLE,CLE,fg_make,9,False,False,Allen 1' Driving Dunk (14 PTS) (Garland 5 AST),,102-90,102,90
+0022100404,2021-12-13,CLE,MIA,44.48,4,3,31,CLE,CLE,ft_make,10,False,False,Allen Free Throw 1 of 1 (15 PTS),,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,44.73,4,3,16,MIA,CLE,steal,2,False,True,steal,steal,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,44.73,4,3,16,MIA,MIA,tov,2,False,True,,Vincent Lost Ball Turnover (P3.T16),103-90,103,90
+0022100404,2021-12-13,CLE,MIA,44.98,4,3,1,MIA,CLE,foul,4,False,False,Garland OFF.Foul (P1) (J.Tiven),,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,44.98,4,3,1,CLE,CLE,tov,37,False,False,Garland Offensive Foul Turnover (P2.T12),,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,45.17,4,2,50,MIA,CLE,foul,1,False,False,Rubio P.FOUL (P3.T1) (M.Kogut),,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,45.27,4,2,44,MIA,MIA,fg_miss,98,False,False,,MISS Lowry 2' Cutting Layup Shot,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,45.33,4,2,40,CLE,CLE,reb,0,False,False,Rubio REBOUND (Off:0 Def:3),,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,45.6,4,2,24,CLE,CLE,fg_miss,101,False,False,MISS Garland 14' Driving Floating Jump Shot,,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,45.65,4,2,21,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:5),103-90,103,90
+0022100404,2021-12-13,CLE,MIA,45.77,4,2,14,MIA,MIA,fg3_miss,1,False,False,,MISS Tucker 3PT Jump Shot,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,45.85,4,2,9,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:4 Def:3),,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,46.12,4,1,53,CLE,CLE,tov,45,False,False,Garland Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,103-90,103,90
+0022100404,2021-12-13,CLE,MIA,46.33,4,1,40,MIA,MIA,fg_make,78,False,False,,Yurtseven 8' Floating Jump Shot (8 PTS) (Lowry 5 AST),103-92,103,92
+0022100404,2021-12-13,CLE,MIA,46.7,4,1,18,CLE,CLE,tov,2,False,True,Allen Lost Ball Turnover (P3.T14),,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,46.7,4,1,18,CLE,MIA,steal,2,False,True,steal,steal,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,46.8,4,1,12,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,46.85,4,1,9,CLE,CLE,reb,0,False,False,Mobley REBOUND (Off:2 Def:3),,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,47.18,4,0,49,MIA,CLE,foul,3,False,False,Allen L.B.FOUL (P2.T2) (C.Washington),,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,47.18,4,0,49,MIA,MIA,reb,0,False,False,,Heat Rebound,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,47.18,4,0,49,CLE,CLE,fg3_miss,80,False,False,MISS Garland 26' 3PT Step Back Jump Shot,,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,47.28,4,0,43,MIA,MIA,ft_make,12,False,False,,Lowry Free Throw 2 of 2 (22 PTS),103-94,103,94
+0022100404,2021-12-13,CLE,MIA,47.28,4,0,43,MIA,MIA,ft_make,11,False,False,,Lowry Free Throw 1 of 2 (21 PTS),103-93,103,93
+0022100404,2021-12-13,CLE,MIA,47.28,4,0,43,MIA,CLE,foul,1,False,False,Garland P.FOUL (P2.PN) (M.Kogut),,103-92,103,92
+0022100404,2021-12-13,CLE,MIA,47.62,4,0,23,CLE,CLE,fg_make,3,False,False,Allen 1' Hook Shot (17 PTS) (Rubio 7 AST),,105-94,105,94
+0022100404,2021-12-13,CLE,MIA,47.82,4,0,11,MIA,MIA,fg3_miss,1,False,False,,MISS Yurtseven 29' 3PT Jump Shot,105-94,105,94
+0022100404,2021-12-13,CLE,MIA,47.88,4,0,7,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:4 Def:4),,105-94,105,94
+0022100404,2021-12-13,CLE,MIA,48.0,4,0,0,CLE,,period_end,0,False,False,,,105-94,105,94

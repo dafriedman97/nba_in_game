@@ -1,0 +1,480 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900726,2020-01-31,LAL,POR,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900726,2020-01-31,LAL,POR,0.0,1,12,0,,LAL,jump_ball,0,False,False,Jump Ball McGee vs. Whiteside: Tip to James,,0-0,0,0
+0021900726,2020-01-31,LAL,POR,0.43,1,11,34,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#1),,0-0,0,0
+0021900726,2020-01-31,LAL,POR,0.58,1,11,25,POR,POR,tov,10,False,False,,Trail Blazers Turnover: 8 Second Violation (T#1),0-0,0,0
+0021900726,2020-01-31,LAL,POR,0.8,1,11,12,LAL,LAL,fg_miss,7,True,False,MISS McGee Dunk,,0-0,0,0
+0021900726,2020-01-31,LAL,POR,0.8,1,11,12,LAL,POR,block,7,True,False,block,block,0-0,0,0
+0021900726,2020-01-31,LAL,POR,0.85,1,11,9,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:1),0-0,0,0
+0021900726,2020-01-31,LAL,POR,1.02,1,10,59,POR,POR,fg3_miss,1,True,False,,MISS Lillard 26' 3PT Jump Shot,0-0,0,0
+0021900726,2020-01-31,LAL,POR,1.02,1,10,59,POR,LAL,block,1,True,False,block,block,0-0,0,0
+0021900726,2020-01-31,LAL,POR,1.08,1,10,55,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:1),,0-0,0,0
+0021900726,2020-01-31,LAL,POR,1.12,1,10,53,LAL,LAL,fg_make,50,False,False,Davis 2' Running Dunk (2 PTS) (James 1 AST),,2-0,2,0
+0021900726,2020-01-31,LAL,POR,1.45,1,10,33,POR,POR,fg_miss,101,False,False,,MISS McCollum 12' Driving Floating Jump Shot,2-0,2,0
+0021900726,2020-01-31,LAL,POR,1.48,1,10,31,POR,POR,reb,0,False,False,,Gabriel REBOUND (Off:1 Def:0),2-0,2,0
+0021900726,2020-01-31,LAL,POR,1.52,1,10,29,POR,POR,fg_make,78,False,False,,Whiteside 10' Floating Jump Shot (2 PTS) (Gabriel 1 AST),2-2,2,2
+0021900726,2020-01-31,LAL,POR,1.93,1,10,4,LAL,LAL,fg3_miss,1,False,False,MISS Bradley 25' 3PT Jump Shot,,2-2,2,2
+0021900726,2020-01-31,LAL,POR,1.98,1,10,1,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:1),2-2,2,2
+0021900726,2020-01-31,LAL,POR,2.13,1,9,52,POR,POR,fg_make,80,False,False,,McCollum 9' Step Back Jump Shot (2 PTS),2-4,2,4
+0021900726,2020-01-31,LAL,POR,2.27,1,9,44,LAL,LAL,fg_make,50,False,False,McGee 3' Running Dunk (2 PTS),,4-4,4,4
+0021900726,2020-01-31,LAL,POR,2.62,1,9,23,POR,POR,fg_make,6,False,False,,Lillard 3' Driving Layup (2 PTS) (Ariza 1 AST),4-6,4,6
+0021900726,2020-01-31,LAL,POR,2.75,1,9,15,LAL,LAL,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,4-6,4,6
+0021900726,2020-01-31,LAL,POR,2.82,1,9,11,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:2),4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.1,1,8,54,POR,POR,fg_miss,86,False,False,,MISS Lillard 11' Turnaround Fadeaway Shot,4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.15,1,8,51,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.27,1,8,44,LAL,LAL,fg_miss,79,True,False,MISS Bradley 18' Pullup Jump Shot,,4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.27,1,8,44,LAL,POR,block,79,True,False,block,block,4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.3,1,8,42,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:3),4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.35,1,8,39,POR,POR,fg_miss,101,False,False,,MISS McCollum 4' Driving Floating Jump Shot,4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.35,1,8,39,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:1),,4-6,4,6
+0021900726,2020-01-31,LAL,POR,3.62,1,8,23,LAL,LAL,fg_make,75,False,False,McGee 1' Driving Finger Roll Layup (4 PTS) (James 2 AST),,6-6,6,6
+0021900726,2020-01-31,LAL,POR,3.87,1,8,8,POR,POR,fg_miss,71,False,False,,MISS Lillard 3' Finger Roll Layup,6-6,6,6
+0021900726,2020-01-31,LAL,POR,3.87,1,8,8,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:2),,6-6,6,6
+0021900726,2020-01-31,LAL,POR,4.13,1,7,52,LAL,LAL,fg_miss,86,False,False,MISS James 15' Turnaround Fadeaway Shot,,6-6,6,6
+0021900726,2020-01-31,LAL,POR,4.18,1,7,49,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:1),6-6,6,6
+0021900726,2020-01-31,LAL,POR,4.22,1,7,47,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P1.T2),6-6,6,6
+0021900726,2020-01-31,LAL,POR,4.22,1,7,47,POR,LAL,steal,1,False,True,steal,steal,6-6,6,6
+0021900726,2020-01-31,LAL,POR,4.27,1,7,44,LAL,LAL,fg_make,50,False,False,James 2' Running Dunk (2 PTS) (Davis 1 AST),,8-6,8,6
+0021900726,2020-01-31,LAL,POR,4.58,1,7,25,POR,POR,fg3_make,79,False,False,,McCollum 26' 3PT Pullup Jump Shot (5 PTS),8-9,8,9
+0021900726,2020-01-31,LAL,POR,4.7,1,7,18,LAL,LAL,fg_make,50,False,False,Davis 1' Running Dunk (4 PTS) (James 3 AST),,10-9,10,9
+0021900726,2020-01-31,LAL,POR,4.97,1,7,2,POR,POR,fg_make,78,False,False,,Whiteside 12' Floating Jump Shot (4 PTS) (McCollum 1 AST),10-11,10,11
+0021900726,2020-01-31,LAL,POR,5.18,1,6,49,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P1.T2),,10-11,10,11
+0021900726,2020-01-31,LAL,POR,5.18,1,6,49,LAL,POR,steal,1,False,True,steal,steal,10-11,10,11
+0021900726,2020-01-31,LAL,POR,5.37,1,6,38,POR,POR,fg_miss,9,True,False,,MISS Ariza 6' Driving Dunk,10-11,10,11
+0021900726,2020-01-31,LAL,POR,5.37,1,6,38,POR,LAL,block,9,True,False,block,block,10-11,10,11
+0021900726,2020-01-31,LAL,POR,5.42,1,6,35,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:2),,10-11,10,11
+0021900726,2020-01-31,LAL,POR,5.43,1,6,34,LAL,LAL,fg_make,50,False,False,James 2' Running Dunk (4 PTS) (Davis 2 AST),,12-11,12,11
+0021900726,2020-01-31,LAL,POR,5.67,1,6,20,POR,POR,fg_make,63,False,False,,Lillard 13' Fadeaway Jumper (4 PTS),12-13,12,13
+0021900726,2020-01-31,LAL,POR,5.8,1,6,12,LAL,POR,foul,2,False,False,,Gabriel S.FOUL (P1.T1) (T.Washington),12-13,12,13
+0021900726,2020-01-31,LAL,POR,5.8,1,6,12,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (5 PTS),,13-13,13,13
+0021900726,2020-01-31,LAL,POR,5.8,1,6,12,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (6 PTS),,14-13,14,13
+0021900726,2020-01-31,LAL,POR,5.8,1,6,12,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,12-13,12,13
+0021900726,2020-01-31,LAL,POR,6.05,1,5,57,POR,POR,fg3_miss,1,False,False,,MISS Gabriel 30' 3PT Jump Shot,14-13,14,13
+0021900726,2020-01-31,LAL,POR,6.08,1,5,55,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,14-13,14,13
+0021900726,2020-01-31,LAL,POR,6.23,1,5,46,LAL,LAL,tov,2,False,True,McGee Lost Ball Turnover (P1.T3),,14-13,14,13
+0021900726,2020-01-31,LAL,POR,6.23,1,5,46,LAL,POR,steal,2,False,True,steal,steal,14-13,14,13
+0021900726,2020-01-31,LAL,POR,6.45,1,5,33,POR,POR,fg_miss,73,True,False,,MISS Gabriel 5' Driving Reverse Layup,14-13,14,13
+0021900726,2020-01-31,LAL,POR,6.45,1,5,33,POR,LAL,block,73,True,False,block,block,14-13,14,13
+0021900726,2020-01-31,LAL,POR,6.5,1,5,30,LAL,LAL,reb,0,False,False,Green REBOUND (Off:0 Def:1),,14-13,14,13
+0021900726,2020-01-31,LAL,POR,6.52,1,5,29,LAL,LAL,fg_make,76,False,False,James 4' Running Finger Roll Layup (6 PTS) (Green 1 AST),,16-13,16,13
+0021900726,2020-01-31,LAL,POR,6.67,1,5,20,POR,POR,fg3_miss,2,False,False,,MISS Ariza 26' 3PT Running Jump Shot,16-13,16,13
+0021900726,2020-01-31,LAL,POR,6.7,1,5,18,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:4),,16-13,16,13
+0021900726,2020-01-31,LAL,POR,6.8,1,5,12,LAL,LAL,fg_miss,66,False,False,MISS James 7' Jump Bank Shot,,16-13,16,13
+0021900726,2020-01-31,LAL,POR,6.87,1,5,8,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:2),16-13,16,13
+0021900726,2020-01-31,LAL,POR,6.88,1,5,7,POR,POR,fg_make,50,False,False,,Ariza 2' Running Dunk (2 PTS) (Lillard 1 AST),16-15,16,15
+0021900726,2020-01-31,LAL,POR,7.12,1,4,53,LAL,POR,foul,1,False,False,,Gabriel P.FOUL (P2.T2) (M.Boland),16-15,16,15
+0021900726,2020-01-31,LAL,POR,7.13,1,4,52,LAL,LAL,fg_make,52,False,False,Davis 1' Alley Oop Dunk (8 PTS) (James 4 AST),,18-15,18,15
+0021900726,2020-01-31,LAL,POR,7.5,1,4,30,POR,POR,fg_miss,75,True,False,,MISS Lillard 4' Driving Finger Roll Layup,18-15,18,15
+0021900726,2020-01-31,LAL,POR,7.5,1,4,30,POR,LAL,block,75,True,False,block,block,18-15,18,15
+0021900726,2020-01-31,LAL,POR,7.5,1,4,30,POR,POR,reb,0,False,False,,Trail Blazers Rebound,18-15,18,15
+0021900726,2020-01-31,LAL,POR,7.58,1,4,25,POR,POR,fg_make,79,False,False,,Trent Jr. 17' Pullup Jump Shot (2 PTS),18-17,18,17
+0021900726,2020-01-31,LAL,POR,7.92,1,4,5,LAL,LAL,fg_make,108,False,False,Davis 2' Cutting Dunk Shot (10 PTS) (James 5 AST),,20-17,20,17
+0021900726,2020-01-31,LAL,POR,8.2,1,3,48,POR,POR,fg3_miss,1,False,False,,MISS Lillard 28' 3PT Jump Shot,20-17,20,17
+0021900726,2020-01-31,LAL,POR,8.23,1,3,46,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:1),,20-17,20,17
+0021900726,2020-01-31,LAL,POR,8.37,1,3,38,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 3PT Jump Shot,,20-17,20,17
+0021900726,2020-01-31,LAL,POR,8.42,1,3,35,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:3),20-17,20,17
+0021900726,2020-01-31,LAL,POR,8.52,1,3,29,POR,POR,fg_make,41,False,False,,Lillard 2' Running Layup (6 PTS),20-19,20,19
+0021900726,2020-01-31,LAL,POR,8.67,1,3,20,LAL,LAL,fg3_make,1,False,False,Caldwell-Pope 25' 3PT Jump Shot (3 PTS) (Davis 3 AST),,23-19,23,19
+0021900726,2020-01-31,LAL,POR,8.67,1,3,20,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.1 Short 0),23-19,23,19
+0021900726,2020-01-31,LAL,POR,8.9,1,3,6,POR,LAL,foul,1,False,False,Daniels P.FOUL (P1.T1) (T.Washington),,23-19,23,19
+0021900726,2020-01-31,LAL,POR,9.08,1,2,55,POR,POR,fg_miss,80,False,False,,MISS Trent Jr. 15' Step Back Jump Shot,23-19,23,19
+0021900726,2020-01-31,LAL,POR,9.12,1,2,53,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:2),,23-19,23,19
+0021900726,2020-01-31,LAL,POR,9.18,1,2,49,LAL,LAL,fg_make,6,False,False,Kuzma 3' Driving Layup (2 PTS),,25-19,25,19
+0021900726,2020-01-31,LAL,POR,9.18,1,2,49,LAL,POR,violation,2,False,False,,Little Violation:Defensive Goaltending (T.Washington),25-19,25,19
+0021900726,2020-01-31,LAL,POR,9.18,1,2,49,LAL,POR,foul,2,False,False,,Lillard S.FOUL (P1.T3) (T.Washington),25-19,25,19
+0021900726,2020-01-31,LAL,POR,9.18,1,2,49,LAL,LAL,ft_miss,10,False,False,MISS Kuzma Free Throw 1 of 1,,25-19,25,19
+0021900726,2020-01-31,LAL,POR,9.23,1,2,46,POR,POR,reb,0,False,False,,Swanigan REBOUND (Off:0 Def:1),25-19,25,19
+0021900726,2020-01-31,LAL,POR,9.35,1,2,39,POR,LAL,foul,2,False,False,Davis S.FOUL (P1.T2) (T.Washington),,25-19,25,19
+0021900726,2020-01-31,LAL,POR,9.35,1,2,39,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (7 PTS),25-20,25,20
+0021900726,2020-01-31,LAL,POR,9.35,1,2,39,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (8 PTS),25-21,25,21
+0021900726,2020-01-31,LAL,POR,9.6,1,2,24,LAL,LAL,fg_miss,86,False,False,MISS Davis 13' Turnaround Fadeaway Shot,,25-21,25,21
+0021900726,2020-01-31,LAL,POR,9.63,1,2,22,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:4),25-21,25,21
+0021900726,2020-01-31,LAL,POR,9.72,1,2,17,POR,POR,fg3_make,2,False,False,,Little 26' 3PT Running Jump Shot (3 PTS) (Simons 1 AST),25-24,25,24
+0021900726,2020-01-31,LAL,POR,9.83,1,2,10,LAL,POR,foul,2,False,False,,Trent Jr. S.FOUL (P1.T4) (M.Boland),25-24,25,24
+0021900726,2020-01-31,LAL,POR,9.83,1,2,10,LAL,LAL,ft_make,11,False,False,Daniels Free Throw 1 of 2 (1 PTS),,26-24,26,24
+0021900726,2020-01-31,LAL,POR,9.83,1,2,10,LAL,LAL,ft_miss,12,False,False,MISS Daniels Free Throw 2 of 2,,26-24,26,24
+0021900726,2020-01-31,LAL,POR,9.87,1,2,8,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:1 Def:0),,26-24,26,24
+0021900726,2020-01-31,LAL,POR,9.9,1,2,6,LAL,LAL,fg_miss,72,False,False,MISS Daniels 2' Putback Layup,,26-24,26,24
+0021900726,2020-01-31,LAL,POR,9.97,1,2,2,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:2 Def:0),,28-24,28,24
+0021900726,2020-01-31,LAL,POR,9.97,1,2,2,LAL,LAL,fg_make,97,False,False,Daniels 1' Tip Layup Shot (3 PTS),,28-24,28,24
+0021900726,2020-01-31,LAL,POR,10.23,1,1,46,POR,POR,fg3_make,80,False,False,,Little 26' 3PT Step Back Jump Shot (6 PTS) (Lillard 2 AST),28-27,28,27
+0021900726,2020-01-31,LAL,POR,10.23,1,1,46,POR,LAL,foul,6,False,False,Caldwell-Pope AWAY.FROM.PLAY.FOUL (P1.T3) (M.Boland),,28-27,28,27
+0021900726,2020-01-31,LAL,POR,10.23,1,1,46,POR,POR,ft_make,10,False,False,,Swanigan Free Throw 1 of 1 (1 PTS),28-28,28,28
+0021900726,2020-01-31,LAL,POR,10.38,1,1,37,LAL,LAL,fg_make,3,False,False,Davis 12' Hook Shot (12 PTS) (Rondo 1 AST),,30-28,30,28
+0021900726,2020-01-31,LAL,POR,10.38,1,1,37,LAL,POR,foul,2,False,False,,Swanigan S.FOUL (P1.PN) (D.Collins),30-28,30,28
+0021900726,2020-01-31,LAL,POR,10.38,1,1,37,LAL,LAL,ft_make,10,False,False,Davis Free Throw 1 of 1 (13 PTS),,31-28,31,28
+0021900726,2020-01-31,LAL,POR,10.65,1,1,21,POR,POR,fg3_miss,1,False,False,,MISS Little 27' 3PT Jump Shot,31-28,31,28
+0021900726,2020-01-31,LAL,POR,10.7,1,1,18,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:5),,31-28,31,28
+0021900726,2020-01-31,LAL,POR,10.7,1,1,18,LAL,POR,foul,1,False,False,,Swanigan P.FOUL (P2.PN) (D.Collins),31-28,31,28
+0021900726,2020-01-31,LAL,POR,10.7,1,1,18,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (14 PTS),,32-28,32,28
+0021900726,2020-01-31,LAL,POR,10.7,1,1,18,LAL,LAL,ft_miss,12,False,False,MISS Davis Free Throw 2 of 2,,32-28,32,28
+0021900726,2020-01-31,LAL,POR,10.77,1,1,14,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:2),,32-28,32,28
+0021900726,2020-01-31,LAL,POR,10.85,1,1,9,LAL,LAL,fg_make,1,False,False,Davis 19' Jump Shot (16 PTS) (Rondo 2 AST),,34-28,34,28
+0021900726,2020-01-31,LAL,POR,11.05,1,0,57,POR,LAL,foul,1,False,False,Caldwell-Pope P.FOUL (P2.PN) (T.Washington),,34-28,34,28
+0021900726,2020-01-31,LAL,POR,11.05,1,0,57,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (9 PTS),34-29,34,29
+0021900726,2020-01-31,LAL,POR,11.05,1,0,57,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (10 PTS),34-30,34,30
+0021900726,2020-01-31,LAL,POR,11.22,1,0,47,LAL,LAL,fg_make,73,False,False,Davis 1' Driving Reverse Layup (18 PTS) (Rondo 3 AST),,36-30,36,30
+0021900726,2020-01-31,LAL,POR,11.45,1,0,33,POR,POR,fg_make,108,False,False,,Little 1' Cutting Dunk Shot (8 PTS) (Lillard 3 AST),36-32,36,32
+0021900726,2020-01-31,LAL,POR,11.5,1,0,30,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P1.T4),,36-32,36,32
+0021900726,2020-01-31,LAL,POR,11.5,1,0,30,LAL,POR,steal,1,False,True,steal,steal,36-32,36,32
+0021900726,2020-01-31,LAL,POR,11.53,1,0,28,POR,POR,fg3_make,103,False,False,,Lillard 32' 3PT Running Pull-Up Jump Shot (13 PTS),36-35,36,35
+0021900726,2020-01-31,LAL,POR,11.8,1,0,12,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,36-35,36,35
+0021900726,2020-01-31,LAL,POR,11.85,1,0,9,LAL,LAL,reb,0,False,False,Daniels REBOUND (Off:3 Def:0),,36-35,36,35
+0021900726,2020-01-31,LAL,POR,11.93,1,0,4,POR,LAL,foul,4,False,False,Kuzma OFF.Foul (P1) (D.Collins),,36-35,36,35
+0021900726,2020-01-31,LAL,POR,11.93,1,0,4,LAL,LAL,tov,37,False,False,Kuzma Offensive Foul Turnover (P1.T5),,36-35,36,35
+0021900726,2020-01-31,LAL,POR,11.98,1,0,1,POR,POR,fg3_make,103,False,False,,McCollum 26' 3PT Running Pull-Up Jump Shot (8 PTS) (Lillard 4 AST),36-38,36,38
+0021900726,2020-01-31,LAL,POR,12.0,1,0,0,POR,,period_end,0,False,False,,,36-38,36,38
+0021900726,2020-01-31,LAL,POR,12.0,2,12,0,POR,,period_start,0,False,False,,,36-38,36,38
+0021900726,2020-01-31,LAL,POR,12.17,2,11,50,POR,POR,tov,1,False,True,,Swanigan Bad Pass Turnover (P1.T3),36-38,36,38
+0021900726,2020-01-31,LAL,POR,12.17,2,11,50,POR,LAL,steal,1,False,True,steal,steal,36-38,36,38
+0021900726,2020-01-31,LAL,POR,12.4,2,11,36,LAL,LAL,fg_make,80,False,False,Rondo 13' Step Back Jump Shot (2 PTS),,38-38,38,38
+0021900726,2020-01-31,LAL,POR,12.7,2,11,18,POR,POR,fg_miss,79,False,False,,MISS Simons 9' Pullup Jump Shot,38-38,38,38
+0021900726,2020-01-31,LAL,POR,12.73,2,11,16,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,38-38,38,38
+0021900726,2020-01-31,LAL,POR,12.95,2,11,3,LAL,POR,foul,1,False,False,,Swanigan P.FOUL (P3.T1) (M.Boland),38-38,38,38
+0021900726,2020-01-31,LAL,POR,13.07,2,10,56,LAL,LAL,tov,1,False,True,Rondo Bad Pass Turnover (P1.T6),,38-38,38,38
+0021900726,2020-01-31,LAL,POR,13.07,2,10,56,LAL,POR,steal,1,False,True,steal,steal,38-38,38,38
+0021900726,2020-01-31,LAL,POR,13.22,2,10,47,POR,POR,fg_make,3,False,False,,Swanigan 6' Hook Shot (3 PTS) (McCollum 2 AST),38-40,38,40
+0021900726,2020-01-31,LAL,POR,13.65,2,10,21,LAL,LAL,fg3_miss,1,False,False,MISS James 27' 3PT Jump Shot,,38-40,38,40
+0021900726,2020-01-31,LAL,POR,13.68,2,10,19,POR,POR,reb,0,False,False,,Swanigan REBOUND (Off:0 Def:2),38-40,38,40
+0021900726,2020-01-31,LAL,POR,13.75,2,10,15,POR,POR,fg_make,75,False,False,,Simons 3' Driving Finger Roll Layup (2 PTS),38-42,38,42
+0021900726,2020-01-31,LAL,POR,13.92,2,10,5,LAL,LAL,fg_make,5,False,False,Howard 3' Layup (2 PTS) (Rondo 4 AST),,40-42,40,42
+0021900726,2020-01-31,LAL,POR,13.93,2,10,4,POR,LAL,violation,1,False,False,LAKERS Violation: Delay of game Violation,,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.12,2,9,53,POR,POR,fg_miss,6,True,False,,MISS McCollum 2' Driving Layup,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.12,2,9,53,POR,LAL,block,6,True,False,block,block,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.17,2,9,50,LAL,LAL,reb,0,False,False,Dudley REBOUND (Off:0 Def:1),,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.18,2,9,49,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P2.T7),,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.18,2,9,49,LAL,POR,steal,1,False,True,steal,steal,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.18,2,9,49,POR,LAL,foul,1,False,False,Howard P.FOUL (P1.T1) (T.Washington),,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.25,2,9,45,POR,POR,fg3_miss,79,False,False,,MISS McCollum 28' 3PT Pullup Jump Shot,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.3,2,9,42,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:3),,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.48,2,9,31,LAL,LAL,fg_miss,78,False,False,MISS James 6' Floating Jump Shot,,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.53,2,9,28,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:3),,40-42,40,42
+0021900726,2020-01-31,LAL,POR,14.55,2,9,27,LAL,LAL,fg_make,72,False,False,James 2' Putback Layup (8 PTS),,42-42,42,42
+0021900726,2020-01-31,LAL,POR,14.87,2,9,8,POR,POR,fg3_miss,1,False,False,,MISS Simons 25' 3PT Jump Shot,42-42,42,42
+0021900726,2020-01-31,LAL,POR,14.9,2,9,6,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,42-42,42,42
+0021900726,2020-01-31,LAL,POR,15.05,2,8,57,LAL,LAL,tov,45,False,False,Howard Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,42-42,42,42
+0021900726,2020-01-31,LAL,POR,15.2,2,8,48,POR,POR,tov,45,False,False,,Swanigan Out of Bounds - Bad Pass Turnover Turnover (P2.T4),42-42,42,42
+0021900726,2020-01-31,LAL,POR,15.47,2,8,32,LAL,LAL,fg_make,7,False,False,Howard 3' Dunk (4 PTS),,44-42,44,42
+0021900726,2020-01-31,LAL,POR,15.58,2,8,25,POR,LAL,foul,2,False,False,Caruso S.FOUL (P1.T2) (D.Collins),,44-42,44,42
+0021900726,2020-01-31,LAL,POR,15.58,2,8,25,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (9 PTS),44-43,44,43
+0021900726,2020-01-31,LAL,POR,15.58,2,8,25,POR,POR,ft_miss,12,False,False,,MISS McCollum Free Throw 2 of 2,44-43,44,43
+0021900726,2020-01-31,LAL,POR,15.62,2,8,23,LAL,LAL,reb,0,False,False,Dudley REBOUND (Off:0 Def:2),,44-43,44,43
+0021900726,2020-01-31,LAL,POR,15.73,2,8,16,LAL,POR,foul,1,False,False,,Ariza P.FOUL (P1.T2) (D.Collins),44-43,44,43
+0021900726,2020-01-31,LAL,POR,15.87,2,8,8,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P3.T9),,44-43,44,43
+0021900726,2020-01-31,LAL,POR,15.87,2,8,8,LAL,POR,steal,1,False,True,steal,steal,44-43,44,43
+0021900726,2020-01-31,LAL,POR,16.22,2,7,47,POR,POR,fg3_miss,1,False,False,,MISS Trent Jr. 27' 3PT Jump Shot,44-43,44,43
+0021900726,2020-01-31,LAL,POR,16.3,2,7,42,LAL,LAL,reb,0,False,False,Dudley REBOUND (Off:0 Def:3),,44-43,44,43
+0021900726,2020-01-31,LAL,POR,16.38,2,7,37,LAL,LAL,fg_make,110,False,False,Howard 1' Running Reverse Dunk Shot (6 PTS) (James 6 AST),,46-43,46,43
+0021900726,2020-01-31,LAL,POR,16.38,2,7,37,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),46-43,46,43
+0021900726,2020-01-31,LAL,POR,16.68,2,7,19,POR,POR,fg_make,78,False,False,,Whiteside 8' Floating Jump Shot (6 PTS) (Trent Jr. 1 AST),46-45,46,45
+0021900726,2020-01-31,LAL,POR,16.98,2,7,1,LAL,LAL,fg_miss,63,False,False,MISS Cook 5' Fadeaway Jumper,,46-45,46,45
+0021900726,2020-01-31,LAL,POR,17.05,2,6,57,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:1),,46-45,46,45
+0021900726,2020-01-31,LAL,POR,17.1,2,6,54,LAL,LAL,fg3_make,1,False,False,Cook 26' 3PT Jump Shot (3 PTS) (James 7 AST),,49-45,49,45
+0021900726,2020-01-31,LAL,POR,17.35,2,6,39,POR,LAL,foul,1,False,False,Caruso P.FOUL (P2.T3) (M.Boland),,49-45,49,45
+0021900726,2020-01-31,LAL,POR,17.53,2,6,28,POR,POR,fg3_miss,80,False,False,,MISS McCollum 26' 3PT Step Back Jump Shot,49-45,49,45
+0021900726,2020-01-31,LAL,POR,17.62,2,6,23,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,49-45,49,45
+0021900726,2020-01-31,LAL,POR,17.88,2,6,7,LAL,LAL,fg_miss,5,True,False,MISS Caruso 20' Layup,,49-45,49,45
+0021900726,2020-01-31,LAL,POR,17.88,2,6,7,LAL,POR,block,5,True,False,block,block,49-45,49,45
+0021900726,2020-01-31,LAL,POR,17.88,2,6,7,LAL,LAL,reb,0,False,False,LAKERS Rebound,,49-45,49,45
+0021900726,2020-01-31,LAL,POR,17.93,2,6,4,LAL,LAL,fg_make,75,False,False,Kuzma 4' Driving Finger Roll Layup (4 PTS) (Caruso 1 AST),,51-45,51,45
+0021900726,2020-01-31,LAL,POR,17.93,2,6,4,LAL,POR,violation,2,False,False,,Whiteside Violation:Defensive Goaltending (T.Washington),51-45,51,45
+0021900726,2020-01-31,LAL,POR,18.12,2,5,53,POR,LAL,foul,1,False,False,Howard P.FOUL (P2.T4) (T.Washington),,51-45,51,45
+0021900726,2020-01-31,LAL,POR,18.27,2,5,44,POR,POR,fg_miss,79,False,False,,MISS Lillard 20' Pullup Jump Shot,51-45,51,45
+0021900726,2020-01-31,LAL,POR,18.33,2,5,40,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:6),,51-45,51,45
+0021900726,2020-01-31,LAL,POR,18.48,2,5,31,LAL,LAL,fg_miss,47,False,False,MISS Kuzma 5' Turnaround Jump Shot,,51-45,51,45
+0021900726,2020-01-31,LAL,POR,18.52,2,5,29,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:2),51-45,51,45
+0021900726,2020-01-31,LAL,POR,18.65,2,5,21,POR,POR,fg_make,63,False,False,,McCollum 7' Fadeaway Jumper (11 PTS),51-47,51,47
+0021900726,2020-01-31,LAL,POR,18.77,2,5,14,LAL,POR,foul,1,False,False,,Ariza P.FOUL (P2.T3) (D.Collins),51-47,51,47
+0021900726,2020-01-31,LAL,POR,18.92,2,5,5,LAL,LAL,fg_miss,79,False,False,MISS Cook 20' Pullup Jump Shot,,51-47,51,47
+0021900726,2020-01-31,LAL,POR,18.95,2,5,3,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:3),51-47,51,47
+0021900726,2020-01-31,LAL,POR,19.12,2,4,53,POR,POR,fg_make,73,False,False,,Lillard 2' Driving Reverse Layup (15 PTS),51-49,51,49
+0021900726,2020-01-31,LAL,POR,19.35,2,4,39,LAL,LAL,tov,40,False,False,Davis Out of Bounds Lost Ball Turnover (P2.T10),,51-49,51,49
+0021900726,2020-01-31,LAL,POR,19.57,2,4,26,POR,LAL,foul,2,False,False,Kuzma S.FOUL (P2.PN) (M.Boland),,51-49,51,49
+0021900726,2020-01-31,LAL,POR,19.57,2,4,26,POR,POR,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (7 PTS),51-50,51,50
+0021900726,2020-01-31,LAL,POR,19.57,2,4,26,POR,POR,ft_miss,12,False,False,,MISS Whiteside Free Throw 2 of 2,51-50,51,50
+0021900726,2020-01-31,LAL,POR,19.63,2,4,22,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:3),,51-50,51,50
+0021900726,2020-01-31,LAL,POR,19.8,2,4,12,LAL,LAL,fg_make,73,False,False,Bradley 2' Driving Reverse Layup (2 PTS),,53-50,53,50
+0021900726,2020-01-31,LAL,POR,20.0,2,4,0,POR,POR,fg_make,108,False,False,,Whiteside 4' Cutting Dunk Shot (9 PTS) (McCollum 3 AST),53-52,53,52
+0021900726,2020-01-31,LAL,POR,20.33,2,3,40,LAL,POR,foul,1,False,False,,Gabriel P.FOUL (P3.T4) (D.Collins),53-52,53,52
+0021900726,2020-01-31,LAL,POR,20.47,2,3,32,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P3.T11),,53-52,53,52
+0021900726,2020-01-31,LAL,POR,20.47,2,3,32,LAL,POR,steal,1,False,True,steal,steal,53-52,53,52
+0021900726,2020-01-31,LAL,POR,20.55,2,3,27,POR,POR,fg_make,41,False,False,,Whiteside 2' Running Layup (11 PTS) (Lillard 5 AST),53-54,53,54
+0021900726,2020-01-31,LAL,POR,20.85,2,3,9,LAL,LAL,fg_miss,78,False,False,MISS Bradley 5' Floating Jump Shot,,53-54,53,54
+0021900726,2020-01-31,LAL,POR,20.92,2,3,5,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:6),,53-54,53,54
+0021900726,2020-01-31,LAL,POR,20.92,2,3,5,LAL,LAL,fg_make,97,False,False,Davis 1' Tip Layup Shot (20 PTS),,55-54,55,54
+0021900726,2020-01-31,LAL,POR,21.05,2,2,57,POR,LAL,foul,2,False,False,Bradley S.FOUL (P1.PN) (T.Washington),,55-54,55,54
+0021900726,2020-01-31,LAL,POR,21.05,2,2,57,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,55-54,55,54
+0021900726,2020-01-31,LAL,POR,21.05,2,2,57,POR,POR,ft_miss,13,False,False,,MISS Lillard Free Throw 1 of 3,55-54,55,54
+0021900726,2020-01-31,LAL,POR,21.05,2,2,57,POR,POR,reb,1,False,False,,Trail Blazers Rebound,55-54,55,54
+0021900726,2020-01-31,LAL,POR,21.05,2,2,57,POR,POR,ft_make,14,False,False,,Lillard Free Throw 2 of 3 (16 PTS),55-55,55,55
+0021900726,2020-01-31,LAL,POR,21.05,2,2,57,POR,POR,ft_make,15,False,False,,Lillard Free Throw 3 of 3 (17 PTS),55-56,55,56
+0021900726,2020-01-31,LAL,POR,21.42,2,2,35,LAL,LAL,fg3_miss,1,False,False,MISS Green 25' 3PT Jump Shot,,55-56,55,56
+0021900726,2020-01-31,LAL,POR,21.48,2,2,31,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:3),,55-56,55,56
+0021900726,2020-01-31,LAL,POR,21.62,2,2,23,LAL,LAL,fg_miss,6,False,False,MISS James 3' Driving Layup,,55-56,55,56
+0021900726,2020-01-31,LAL,POR,21.67,2,2,20,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:5),55-56,55,56
+0021900726,2020-01-31,LAL,POR,21.75,2,2,15,POR,POR,fg_make,76,False,False,,Lillard 2' Running Finger Roll Layup (19 PTS),55-58,55,58
+0021900726,2020-01-31,LAL,POR,22.13,2,1,52,LAL,LAL,fg3_make,1,False,False,James 25' 3PT Jump Shot (11 PTS),,58-58,58,58
+0021900726,2020-01-31,LAL,POR,22.57,2,1,26,POR,POR,fg3_miss,80,False,False,,MISS McCollum 26' 3PT Step Back Jump Shot,58-58,58,58
+0021900726,2020-01-31,LAL,POR,22.62,2,1,23,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:3),,58-58,58,58
+0021900726,2020-01-31,LAL,POR,22.8,2,1,12,LAL,POR,foul,2,False,False,,Little S.FOUL (P1.PN) (T.Washington),58-58,58,58
+0021900726,2020-01-31,LAL,POR,22.8,2,1,12,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (5 PTS),,59-58,59,58
+0021900726,2020-01-31,LAL,POR,22.8,2,1,12,LAL,LAL,ft_make,12,False,False,Kuzma Free Throw 2 of 2 (6 PTS),,60-58,60,58
+0021900726,2020-01-31,LAL,POR,23.02,2,0,59,POR,POR,fg3_miss,79,False,False,,MISS Lillard 25' 3PT Pullup Jump Shot,60-58,60,58
+0021900726,2020-01-31,LAL,POR,23.08,2,0,55,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:4),,60-58,60,58
+0021900726,2020-01-31,LAL,POR,23.13,2,0,52,LAL,LAL,tov,1,False,True,Kuzma Bad Pass Turnover (P2.T12),,60-58,60,58
+0021900726,2020-01-31,LAL,POR,23.13,2,0,52,LAL,POR,steal,1,False,True,steal,steal,60-58,60,58
+0021900726,2020-01-31,LAL,POR,23.43,2,0,34,POR,POR,fg3_miss,1,False,False,,MISS McCollum 27' 3PT Jump Shot,60-58,60,58
+0021900726,2020-01-31,LAL,POR,23.5,2,0,30,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:3),60-58,60,58
+0021900726,2020-01-31,LAL,POR,23.5,2,0,30,POR,POR,fg_make,107,False,False,,Whiteside 1' Tip Dunk Shot (13 PTS),60-60,60,60
+0021900726,2020-01-31,LAL,POR,23.63,2,0,22,LAL,LAL,tov,4,False,False,James Traveling Turnover (P4.T13),,60-60,60,60
+0021900726,2020-01-31,LAL,POR,23.98,2,0,1,POR,POR,fg_miss,6,True,False,,MISS Lillard 3' Driving Layup,60-60,60,60
+0021900726,2020-01-31,LAL,POR,23.98,2,0,1,POR,LAL,block,6,True,False,block,block,60-60,60,60
+0021900726,2020-01-31,LAL,POR,23.98,2,0,1,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:0 Def:4),,60-60,60,60
+0021900726,2020-01-31,LAL,POR,24.0,2,0,0,LAL,POR,foul,1,False,False,,Ariza P.FOUL (P3.PN) (T.Washington),60-60,60,60
+0021900726,2020-01-31,LAL,POR,24.0,2,0,0,LAL,LAL,ft_make,11,False,False,Bradley Free Throw 1 of 2 (3 PTS),,61-60,61,60
+0021900726,2020-01-31,LAL,POR,24.0,2,0,0,LAL,LAL,ft_make,12,False,False,Bradley Free Throw 2 of 2 (4 PTS),,62-60,62,60
+0021900726,2020-01-31,LAL,POR,24.0,2,0,0,LAL,,period_end,0,False,False,,,62-60,62,60
+0021900726,2020-01-31,LAL,POR,24.0,3,12,0,LAL,,period_start,0,False,False,,,62-60,62,60
+0021900726,2020-01-31,LAL,POR,24.27,3,11,44,POR,POR,fg_make,108,False,False,,Whiteside 3' Cutting Dunk Shot (15 PTS) (Ariza 2 AST),62-62,62,62
+0021900726,2020-01-31,LAL,POR,24.57,3,11,26,LAL,LAL,fg_miss,47,False,False,MISS James 22' Turnaround Jump Shot,,62-62,62,62
+0021900726,2020-01-31,LAL,POR,24.6,3,11,24,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:3),,62-62,62,62
+0021900726,2020-01-31,LAL,POR,24.62,3,11,23,LAL,LAL,fg3_make,1,False,False,James 27' 3PT Jump Shot (14 PTS),,65-62,65,62
+0021900726,2020-01-31,LAL,POR,25.0,3,11,0,POR,POR,fg_miss,78,False,False,,MISS Gabriel 8' Floating Jump Shot,65-62,65,62
+0021900726,2020-01-31,LAL,POR,25.03,3,10,58,POR,POR,reb,0,False,False,,Trail Blazers Rebound,65-62,65,62
+0021900726,2020-01-31,LAL,POR,25.13,3,10,52,POR,POR,fg3_make,1,False,False,,Lillard 27' 3PT Jump Shot (22 PTS) (Whiteside 1 AST),65-65,65,65
+0021900726,2020-01-31,LAL,POR,25.3,3,10,42,LAL,POR,foul,1,False,False,,Gabriel P.FOUL (P4.T1) (D.Collins),65-65,65,65
+0021900726,2020-01-31,LAL,POR,25.52,3,10,29,LAL,LAL,fg_miss,5,True,False,MISS Davis 4' Layup,,65-65,65,65
+0021900726,2020-01-31,LAL,POR,25.52,3,10,29,LAL,POR,block,5,True,False,block,block,65-65,65,65
+0021900726,2020-01-31,LAL,POR,25.58,3,10,25,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:6),65-65,65,65
+0021900726,2020-01-31,LAL,POR,25.63,3,10,22,POR,POR,fg_make,103,False,False,,McCollum 17' Running Pull-Up Jump Shot (13 PTS) (Lillard 6 AST),65-67,65,67
+0021900726,2020-01-31,LAL,POR,25.9,3,10,6,LAL,LAL,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,65-67,65,67
+0021900726,2020-01-31,LAL,POR,25.95,3,10,3,POR,POR,reb,0,False,False,,Ariza REBOUND (Off:0 Def:1),65-67,65,67
+0021900726,2020-01-31,LAL,POR,26.1,3,9,54,POR,POR,fg3_make,79,False,False,,Lillard 34' 3PT Pullup Jump Shot (25 PTS),65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.1,3,9,54,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.35,3,9,39,LAL,POR,foul,2,False,False,,Gabriel S.FOUL (P5.T2) (T.Washington),65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.35,3,9,39,LAL,LAL,ft_miss,11,False,False,MISS James Free Throw 1 of 2,,65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.35,3,9,39,LAL,LAL,reb,1,False,False,LAKERS Rebound,,65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.35,3,9,39,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.4,3,9,36,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:1),65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.42,3,9,35,POR,POR,fg_miss,50,True,False,,MISS Ariza Running Dunk,65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.42,3,9,35,POR,LAL,block,50,True,False,block,block,65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.47,3,9,32,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:1 Def:7),,65-70,65,70
+0021900726,2020-01-31,LAL,POR,26.55,3,9,27,LAL,LAL,fg_make,2,False,False,Davis 13' Running Jump Shot (22 PTS),,67-70,67,70
+0021900726,2020-01-31,LAL,POR,26.55,3,9,27,LAL,POR,foul,2,False,False,,Hezonja S.FOUL (P1.T3) (T.Washington),67-70,67,70
+0021900726,2020-01-31,LAL,POR,26.55,3,9,27,LAL,LAL,ft_make,10,False,False,Davis Free Throw 1 of 1 (23 PTS),,68-70,68,70
+0021900726,2020-01-31,LAL,POR,26.77,3,9,14,POR,POR,fg_make,5,False,False,,Whiteside 1' Layup (17 PTS) (Ariza 3 AST),68-72,68,72
+0021900726,2020-01-31,LAL,POR,27.07,3,8,56,LAL,POR,foul,2,False,False,,Hezonja S.FOUL (P2.T4) (T.Washington),68-72,68,72
+0021900726,2020-01-31,LAL,POR,27.07,3,8,56,LAL,LAL,ft_make,13,False,False,Green Free Throw 1 of 3 (1 PTS),,69-72,69,72
+0021900726,2020-01-31,LAL,POR,27.07,3,8,56,LAL,LAL,ft_make,14,False,False,Green Free Throw 2 of 3 (2 PTS),,70-72,70,72
+0021900726,2020-01-31,LAL,POR,27.07,3,8,56,LAL,LAL,ft_miss,15,False,False,MISS Green Free Throw 3 of 3,,70-72,70,72
+0021900726,2020-01-31,LAL,POR,27.1,3,8,54,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:2),70-72,70,72
+0021900726,2020-01-31,LAL,POR,27.4,3,8,36,POR,POR,fg_miss,78,False,False,,MISS McCollum 12' Floating Jump Shot,70-72,70,72
+0021900726,2020-01-31,LAL,POR,27.45,3,8,33,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,70-72,70,72
+0021900726,2020-01-31,LAL,POR,27.55,3,8,27,LAL,LAL,fg_miss,74,False,False,MISS Green 3' Running Reverse Layup,,70-72,70,72
+0021900726,2020-01-31,LAL,POR,27.55,3,8,27,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:7),,70-72,70,72
+0021900726,2020-01-31,LAL,POR,27.6,3,8,24,LAL,LAL,fg_make,97,False,False,Davis 1' Tip Layup Shot (25 PTS),,72-72,72,72
+0021900726,2020-01-31,LAL,POR,27.7,3,8,18,POR,POR,fg3_miss,103,False,False,,MISS Lillard 28' 3PT Running Pull-Up Jump Shot,72-72,72,72
+0021900726,2020-01-31,LAL,POR,27.73,3,8,16,LAL,LAL,reb,0,False,False,Green REBOUND (Off:0 Def:2),,72-72,72,72
+0021900726,2020-01-31,LAL,POR,27.92,3,8,5,LAL,LAL,fg_miss,98,True,False,MISS Green 3' Cutting Layup Shot,,72-72,72,72
+0021900726,2020-01-31,LAL,POR,27.92,3,8,5,LAL,POR,block,98,True,False,block,block,72-72,72,72
+0021900726,2020-01-31,LAL,POR,27.92,3,8,5,LAL,LAL,reb,0,False,False,Bradley REBOUND (Off:1 Def:4),,72-72,72,72
+0021900726,2020-01-31,LAL,POR,28.0,3,8,0,LAL,LAL,fg3_make,1,False,False,Davis 28' 3PT Jump Shot (28 PTS) (Bradley 1 AST),,75-72,75,72
+0021900726,2020-01-31,LAL,POR,28.0,3,8,0,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),75-72,75,72
+0021900726,2020-01-31,LAL,POR,28.15,3,7,51,POR,LAL,foul,2,False,False,Green S.FOUL (P1.T1) (T.Washington),,75-72,75,72
+0021900726,2020-01-31,LAL,POR,28.15,3,7,51,POR,POR,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (18 PTS),75-73,75,73
+0021900726,2020-01-31,LAL,POR,28.15,3,7,51,POR,POR,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (19 PTS),75-74,75,74
+0021900726,2020-01-31,LAL,POR,28.48,3,7,31,LAL,LAL,fg_miss,80,False,False,MISS Davis 13' Step Back Jump Shot,,75-74,75,74
+0021900726,2020-01-31,LAL,POR,28.55,3,7,27,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:4),75-74,75,74
+0021900726,2020-01-31,LAL,POR,28.68,3,7,19,POR,LAL,foul,2,False,False,McGee S.FOUL (P1.T2) (D.Collins),,75-74,75,74
+0021900726,2020-01-31,LAL,POR,28.68,3,7,19,POR,POR,ft_miss,11,False,False,,MISS Whiteside Free Throw 1 of 2,75-74,75,74
+0021900726,2020-01-31,LAL,POR,28.68,3,7,19,POR,POR,reb,1,False,False,,Trail Blazers Rebound,75-74,75,74
+0021900726,2020-01-31,LAL,POR,28.68,3,7,19,POR,POR,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (20 PTS),75-75,75,75
+0021900726,2020-01-31,LAL,POR,28.75,3,7,15,LAL,LAL,tov,45,False,False,James Out of Bounds - Bad Pass Turnover Turnover (P5.T14),,75-75,75,75
+0021900726,2020-01-31,LAL,POR,28.98,3,7,1,POR,POR,fg_miss,6,True,False,,MISS Lillard 12' Driving Layup,75-75,75,75
+0021900726,2020-01-31,LAL,POR,28.98,3,7,1,POR,LAL,block,6,True,False,block,block,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.03,3,6,58,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:2),,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.07,3,6,56,LAL,LAL,fg3_miss,2,False,False,MISS Green 25' 3PT Running Jump Shot,,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.12,3,6,53,LAL,LAL,reb,0,False,False,Green REBOUND (Off:1 Def:2),,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.15,3,6,51,LAL,LAL,fg3_miss,1,False,False,MISS Green 24' 3PT Jump Shot,,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.15,3,6,51,POR,POR,reb,0,False,False,,Ariza REBOUND (Off:0 Def:2),75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.15,3,6,51,LAL,POR,foul,11,False,False,,Lillard T.FOUL (P1.T4) (M.Boland),75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.15,3,6,51,LAL,LAL,ft_miss,16,False,False,MISS Davis Free Throw Technical,,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.15,3,6,51,POR,POR,reb,1,False,False,,Trail Blazers Rebound,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.37,3,6,38,POR,POR,fg_miss,75,True,False,,MISS McCollum 3' Driving Finger Roll Layup,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.37,3,6,38,POR,LAL,block,75,True,False,block,block,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.43,3,6,34,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:8),,75-75,75,75
+0021900726,2020-01-31,LAL,POR,29.47,3,6,32,LAL,LAL,fg3_make,2,False,False,Bradley 25' 3PT Running Jump Shot (7 PTS) (Davis 4 AST),,78-75,78,75
+0021900726,2020-01-31,LAL,POR,29.73,3,6,16,POR,POR,fg_make,9,False,False,,Lillard 1' Driving Dunk (27 PTS),78-77,78,77
+0021900726,2020-01-31,LAL,POR,29.88,3,6,7,LAL,LAL,fg3_make,2,False,False,Green 27' 3PT Running Jump Shot (5 PTS) (James 8 AST),,81-77,81,77
+0021900726,2020-01-31,LAL,POR,30.08,3,5,55,POR,LAL,foul,1,False,False,James P.FOUL (P1.T3) (T.Washington),,81-77,81,77
+0021900726,2020-01-31,LAL,POR,30.35,3,5,39,POR,POR,fg3_make,79,False,False,,Lillard 29' 3PT Pullup Jump Shot (30 PTS),81-80,81,80
+0021900726,2020-01-31,LAL,POR,30.62,3,5,23,LAL,LAL,fg_miss,6,True,False,MISS James 5' Driving Layup,,81-80,81,80
+0021900726,2020-01-31,LAL,POR,30.62,3,5,23,LAL,POR,block,6,True,False,block,block,81-80,81,80
+0021900726,2020-01-31,LAL,POR,30.62,3,5,23,POR,POR,reb,0,False,False,,Trail Blazers Rebound,81-80,81,80
+0021900726,2020-01-31,LAL,POR,30.9,3,5,6,POR,POR,fg3_miss,1,False,False,,MISS McCollum 26' 3PT Jump Shot,81-80,81,80
+0021900726,2020-01-31,LAL,POR,30.93,3,5,4,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:9),,81-80,81,80
+0021900726,2020-01-31,LAL,POR,31.05,3,4,57,LAL,LAL,fg_miss,41,False,False,MISS Davis 2' Running Layup,,81-80,81,80
+0021900726,2020-01-31,LAL,POR,31.12,3,4,53,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:2),,81-80,81,80
+0021900726,2020-01-31,LAL,POR,31.12,3,4,53,LAL,LAL,fg_make,97,False,False,McGee 1' Tip Layup Shot (6 PTS),,83-80,83,80
+0021900726,2020-01-31,LAL,POR,31.27,3,4,44,POR,POR,fg3_make,79,False,False,,Lillard 26' 3PT Pullup Jump Shot (33 PTS),83-83,83,83
+0021900726,2020-01-31,LAL,POR,31.27,3,4,44,POR,LAL,foul,2,False,False,Bradley S.FOUL (P2.T4) (T.Washington),,83-83,83,83
+0021900726,2020-01-31,LAL,POR,31.27,3,4,44,POR,POR,ft_make,10,False,False,,Lillard Free Throw 1 of 1 (34 PTS),83-84,83,84
+0021900726,2020-01-31,LAL,POR,31.53,3,4,28,LAL,LAL,fg_miss,57,True,False,MISS James 3' Driving Hook Shot,,83-84,83,84
+0021900726,2020-01-31,LAL,POR,31.53,3,4,28,LAL,POR,block,57,True,False,block,block,83-84,83,84
+0021900726,2020-01-31,LAL,POR,31.58,3,4,25,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:7),83-84,83,84
+0021900726,2020-01-31,LAL,POR,31.62,3,4,23,POR,POR,fg_miss,76,False,False,,MISS Hezonja 1' Running Finger Roll Layup,83-84,83,84
+0021900726,2020-01-31,LAL,POR,31.67,3,4,20,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:5),,83-84,83,84
+0021900726,2020-01-31,LAL,POR,31.67,3,4,20,LAL,LAL,tov,45,False,False,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,83-84,83,84
+0021900726,2020-01-31,LAL,POR,31.87,3,4,8,POR,POR,fg_make,7,False,False,,Whiteside 2' Dunk (22 PTS) (Lillard 7 AST),83-86,83,86
+0021900726,2020-01-31,LAL,POR,31.87,3,4,8,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,83-86,83,86
+0021900726,2020-01-31,LAL,POR,32.03,3,3,58,LAL,POR,foul,1,False,False,,Trent Jr. P.FOUL (P2.PN) (T.Washington),83-86,83,86
+0021900726,2020-01-31,LAL,POR,32.03,3,3,58,LAL,LAL,ft_make,11,False,False,Caldwell-Pope Free Throw 1 of 2 (4 PTS),,84-86,84,86
+0021900726,2020-01-31,LAL,POR,32.03,3,3,58,LAL,LAL,ft_miss,12,False,False,MISS Caldwell-Pope Free Throw 2 of 2,,84-86,84,86
+0021900726,2020-01-31,LAL,POR,32.08,3,3,55,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:4),84-86,84,86
+0021900726,2020-01-31,LAL,POR,32.22,3,3,47,POR,POR,fg3_make,1,False,False,,Lillard 29' 3PT Jump Shot (37 PTS) (Whiteside 2 AST),84-89,84,89
+0021900726,2020-01-31,LAL,POR,32.53,3,3,28,LAL,LAL,tov,2,False,True,Rondo Lost Ball Turnover (P2.T16),,84-89,84,89
+0021900726,2020-01-31,LAL,POR,32.53,3,3,28,LAL,POR,steal,2,False,True,steal,steal,84-89,84,89
+0021900726,2020-01-31,LAL,POR,32.67,3,3,20,POR,POR,fg3_miss,1,False,False,,MISS Little 26' 3PT Jump Shot,84-89,84,89
+0021900726,2020-01-31,LAL,POR,32.73,3,3,16,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:1 Def:7),84-89,84,89
+0021900726,2020-01-31,LAL,POR,32.73,3,3,16,POR,POR,fg_make,97,False,False,,Lillard 1' Tip Layup Shot (39 PTS),84-91,84,91
+0021900726,2020-01-31,LAL,POR,32.87,3,3,8,LAL,LAL,fg_make,98,False,False,Kuzma 2' Cutting Layup Shot (8 PTS) (Caruso 2 AST),,86-91,86,91
+0021900726,2020-01-31,LAL,POR,33.18,3,2,49,POR,LAL,foul,1,False,False,Caruso P.FOUL (P3.PN) (T.Washington),,86-91,86,91
+0021900726,2020-01-31,LAL,POR,33.18,3,2,49,POR,POR,ft_make,11,False,False,,Simons Free Throw 1 of 2 (3 PTS),86-92,86,92
+0021900726,2020-01-31,LAL,POR,33.18,3,2,49,POR,POR,ft_make,12,False,False,,Simons Free Throw 2 of 2 (4 PTS),86-93,86,93
+0021900726,2020-01-31,LAL,POR,33.38,3,2,37,LAL,LAL,fg_make,6,False,False,Kuzma 3' Driving Layup (10 PTS) (Davis 5 AST),,88-93,88,93
+0021900726,2020-01-31,LAL,POR,33.58,3,2,25,POR,POR,fg_miss,80,False,False,,MISS Lillard 20' Step Back Jump Shot,88-93,88,93
+0021900726,2020-01-31,LAL,POR,33.62,3,2,23,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:6),,88-93,88,93
+0021900726,2020-01-31,LAL,POR,33.65,3,2,21,LAL,POR,foul,2,False,False,,Little S.FOUL (P2.PN) (D.Collins),88-93,88,93
+0021900726,2020-01-31,LAL,POR,33.65,3,2,21,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (11 PTS),,89-93,89,93
+0021900726,2020-01-31,LAL,POR,33.65,3,2,21,LAL,LAL,ft_make,12,False,False,Kuzma Free Throw 2 of 2 (12 PTS),,90-93,90,93
+0021900726,2020-01-31,LAL,POR,33.85,3,2,9,POR,POR,fg3_make,1,False,False,,Lillard 31' 3PT Jump Shot (42 PTS) (Simons 2 AST),90-96,90,96
+0021900726,2020-01-31,LAL,POR,34.13,3,1,52,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 28' 3PT Jump Shot,,90-96,90,96
+0021900726,2020-01-31,LAL,POR,34.13,3,1,52,POR,POR,reb,0,False,False,,Trail Blazers Rebound,90-96,90,96
+0021900726,2020-01-31,LAL,POR,34.55,3,1,27,POR,POR,fg_make,98,False,False,,Swanigan 2' Cutting Layup Shot (5 PTS) (Lillard 8 AST),90-98,90,98
+0021900726,2020-01-31,LAL,POR,34.67,3,1,20,LAL,LAL,fg3_make,2,False,False,Davis 26' 3PT Running Jump Shot (31 PTS) (Rondo 5 AST),,93-98,93,98
+0021900726,2020-01-31,LAL,POR,34.67,3,1,20,LAL,POR,foul,2,False,False,,Swanigan S.FOUL (P4.PN) (D.Collins),93-98,93,98
+0021900726,2020-01-31,LAL,POR,34.67,3,1,20,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),93-98,93,98
+0021900726,2020-01-31,LAL,POR,34.67,3,1,20,POR,LAL,ft_make,10,False,False,Davis Free Throw 1 of 1 (32 PTS),,94-98,94,98
+0021900726,2020-01-31,LAL,POR,34.95,3,1,3,POR,POR,fg_make,1,False,False,,Trent Jr. 19' Jump Shot (4 PTS) (Swanigan 1 AST),94-100,94,100
+0021900726,2020-01-31,LAL,POR,35.18,3,0,49,LAL,LAL,tov,4,False,False,Kuzma Traveling Turnover (P4.T17),,94-100,94,100
+0021900726,2020-01-31,LAL,POR,35.45,3,0,33,POR,POR,fg3_miss,1,False,False,,MISS Trent Jr. 26' 3PT Jump Shot,94-100,94,100
+0021900726,2020-01-31,LAL,POR,35.52,3,0,29,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:7),,94-100,94,100
+0021900726,2020-01-31,LAL,POR,35.7,3,0,18,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 26' 3PT Jump Shot,,94-100,94,100
+0021900726,2020-01-31,LAL,POR,35.7,3,0,18,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:3 Def:7),,94-100,94,100
+0021900726,2020-01-31,LAL,POR,35.7,3,0,18,LAL,LAL,fg_make,72,False,False,Kuzma 1' Putback Layup (14 PTS),,96-100,96,100
+0021900726,2020-01-31,LAL,POR,35.9,3,0,6,POR,POR,fg3_make,1,False,False,,Trent Jr. 3PT Jump Shot (7 PTS) (McCollum 4 AST),96-103,96,103
+0021900726,2020-01-31,LAL,POR,35.98,3,0,1,LAL,LAL,fg3_miss,103,False,False,MISS Rondo 28' 3PT Running Pull-Up Jump Shot,,96-103,96,103
+0021900726,2020-01-31,LAL,POR,36.0,3,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,96-103,96,103
+0021900726,2020-01-31,LAL,POR,36.0,3,0,0,POR,,period_end,0,False,False,,,96-103,96,103
+0021900726,2020-01-31,LAL,POR,36.0,4,12,0,POR,,period_start,0,False,False,,,96-103,96,103
+0021900726,2020-01-31,LAL,POR,36.25,4,11,45,LAL,LAL,fg3_miss,1,False,False,MISS James 27' 3PT Jump Shot,,96-103,96,103
+0021900726,2020-01-31,LAL,POR,36.3,4,11,42,POR,POR,reb,0,False,False,,Swanigan REBOUND (Off:0 Def:3),96-103,96,103
+0021900726,2020-01-31,LAL,POR,36.57,4,11,26,POR,POR,fg3_make,79,False,False,,Trent Jr. 25' 3PT Pullup Jump Shot (10 PTS),96-106,96,106
+0021900726,2020-01-31,LAL,POR,36.9,4,11,6,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 27' 3PT Jump Shot,,96-106,96,106
+0021900726,2020-01-31,LAL,POR,36.9,4,11,6,POR,POR,reb,0,False,False,,Trail Blazers Rebound,96-106,96,106
+0021900726,2020-01-31,LAL,POR,36.9,4,11,6,POR,LAL,foul,3,False,False,Howard L.B.FOUL (P3.T1) (M.Boland),,96-106,96,106
+0021900726,2020-01-31,LAL,POR,37.08,4,10,55,POR,POR,tov,45,False,False,,Trent Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T5),96-106,96,106
+0021900726,2020-01-31,LAL,POR,37.2,4,10,48,LAL,LAL,fg_miss,1,False,False,MISS Caldwell-Pope 17' Jump Shot,,96-106,96,106
+0021900726,2020-01-31,LAL,POR,37.25,4,10,45,POR,POR,reb,0,False,False,,Swanigan REBOUND (Off:0 Def:4),96-106,96,106
+0021900726,2020-01-31,LAL,POR,37.33,4,10,40,POR,LAL,foul,1,False,False,Howard P.FOUL (P4.T2) (D.Collins),,96-106,96,106
+0021900726,2020-01-31,LAL,POR,37.47,4,10,32,POR,POR,fg_make,79,False,False,,McCollum 13' Pullup Jump Shot (15 PTS),96-108,96,108
+0021900726,2020-01-31,LAL,POR,37.78,4,10,13,LAL,LAL,fg_miss,86,False,False,MISS James 13' Turnaround Fadeaway Shot,,96-108,96,108
+0021900726,2020-01-31,LAL,POR,37.82,4,10,11,POR,POR,reb,0,False,False,,Swanigan REBOUND (Off:0 Def:5),96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.17,4,9,50,POR,POR,fg_miss,80,False,False,,MISS McCollum 19' Step Back Jump Shot,96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.22,4,9,47,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:3 Def:8),,96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.27,4,9,44,LAL,LAL,fg_miss,101,False,False,MISS Kuzma 13' Driving Floating Jump Shot,,96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.32,4,9,41,POR,POR,reb,0,False,False,,Ariza REBOUND (Off:0 Def:3),96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.62,4,9,23,POR,POR,fg_miss,80,False,False,,MISS Trent Jr. 20' Step Back Jump Shot,96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.67,4,9,20,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:4),,96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.82,4,9,11,LAL,LAL,fg_miss,78,False,False,MISS Rondo 4' Floating Jump Shot,,96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.83,4,9,10,POR,POR,reb,0,False,False,,Swanigan REBOUND (Off:0 Def:6),96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.83,4,9,10,POR,POR,tov,40,False,False,,Swanigan Out of Bounds Lost Ball Turnover (P3.T6),96-108,96,108
+0021900726,2020-01-31,LAL,POR,38.97,4,9,2,LAL,LAL,fg_make,101,False,False,Kuzma 5' Driving Floating Jump Shot (16 PTS) (Caldwell-Pope 1 AST),,98-108,98,108
+0021900726,2020-01-31,LAL,POR,39.25,4,8,45,POR,POR,fg3_miss,1,False,False,,MISS McCollum 28' 3PT Jump Shot,98-108,98,108
+0021900726,2020-01-31,LAL,POR,39.28,4,8,43,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:2),,98-108,98,108
+0021900726,2020-01-31,LAL,POR,39.35,4,8,39,LAL,LAL,fg_make,74,False,False,Caldwell-Pope 2' Running Reverse Layup (6 PTS) (James 9 AST),,100-108,100,108
+0021900726,2020-01-31,LAL,POR,39.35,4,8,39,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.5 Short 0),100-108,100,108
+0021900726,2020-01-31,LAL,POR,39.55,4,8,27,POR,POR,fg_miss,79,False,False,,MISS Lillard 16' Pullup Jump Shot,100-108,100,108
+0021900726,2020-01-31,LAL,POR,39.6,4,8,24,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:5),,100-108,100,108
+0021900726,2020-01-31,LAL,POR,39.72,4,8,17,LAL,LAL,fg_make,5,False,False,James 2' Layup (16 PTS),,102-108,102,108
+0021900726,2020-01-31,LAL,POR,39.72,4,8,17,LAL,POR,foul,2,False,False,,Gabriel S.FOUL (P6.T1) (D.Collins),102-108,102,108
+0021900726,2020-01-31,LAL,POR,39.72,4,8,17,LAL,LAL,ft_miss,10,False,False,MISS James Free Throw 1 of 1,,102-108,102,108
+0021900726,2020-01-31,LAL,POR,39.78,4,8,13,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:5),102-108,102,108
+0021900726,2020-01-31,LAL,POR,39.95,4,8,3,POR,LAL,foul,1,False,False,Howard P.FOUL (P5.T3) (M.Boland),,102-108,102,108
+0021900726,2020-01-31,LAL,POR,40.08,4,7,55,POR,POR,fg_miss,78,False,False,,MISS Whiteside 15' Floating Jump Shot,102-108,102,108
+0021900726,2020-01-31,LAL,POR,40.12,4,7,53,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:6),,102-108,102,108
+0021900726,2020-01-31,LAL,POR,40.22,4,7,47,LAL,LAL,fg3_make,103,False,False,James 27' 3PT Running Pull-Up Jump Shot (19 PTS),,105-108,105,108
+0021900726,2020-01-31,LAL,POR,40.6,4,7,24,POR,POR,fg3_miss,1,False,False,,MISS Ariza 26' 3PT Jump Shot,105-108,105,108
+0021900726,2020-01-31,LAL,POR,40.65,4,7,21,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:4),105-108,105,108
+0021900726,2020-01-31,LAL,POR,40.75,4,7,15,POR,POR,fg3_miss,1,False,False,,MISS Hezonja 24' 3PT Jump Shot,105-108,105,108
+0021900726,2020-01-31,LAL,POR,40.78,4,7,13,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:1 Def:5),105-108,105,108
+0021900726,2020-01-31,LAL,POR,40.8,4,7,12,POR,POR,fg_make,47,False,False,,McCollum 2' Turnaround Jump Shot (17 PTS),105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.03,4,6,58,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 26' 3PT Jump Shot,,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.05,4,6,57,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:9),,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.07,4,6,56,POR,LAL,foul,1,False,False,James P.FOUL (P2.T4) (M.Boland),,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.07,4,6,56,LAL,LAL,tov,1,False,True,Davis Bad Pass Turnover (P4.T18),,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.07,4,6,56,LAL,POR,steal,1,False,True,steal,steal,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.2,4,6,48,POR,POR,fg3_miss,103,False,False,,MISS Lillard 31' 3PT Running Pull-Up Jump Shot,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.23,4,6,46,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:3),,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.28,4,6,43,LAL,LAL,fg_miss,103,False,False,MISS Daniels 17' Running Pull-Up Jump Shot,,105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.35,4,6,39,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:5),105-110,105,110
+0021900726,2020-01-31,LAL,POR,41.47,4,6,32,POR,POR,fg_make,6,False,False,,Lillard 3' Driving Layup (44 PTS),105-112,105,112
+0021900726,2020-01-31,LAL,POR,41.73,4,6,16,LAL,LAL,fg3_make,1,False,False,Davis 27' 3PT Jump Shot (35 PTS) (Daniels 1 AST),,108-112,108,112
+0021900726,2020-01-31,LAL,POR,41.95,4,6,3,POR,POR,fg_miss,98,False,False,,MISS McCollum 1' Cutting Layup Shot,108-112,108,112
+0021900726,2020-01-31,LAL,POR,41.98,4,6,1,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:10),,108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.0,4,6,0,LAL,LAL,tov,39,False,False,Daniels Step Out of Bounds Turnover (P1.T19),,108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.28,4,5,43,POR,POR,fg3_miss,1,False,False,,MISS Hezonja 27' 3PT Jump Shot,108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.32,4,5,41,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:11),,108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.53,4,5,28,LAL,LAL,fg_miss,7,True,False,MISS Davis 1' Dunk,,108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.53,4,5,28,LAL,POR,block,7,True,False,block,block,108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.6,4,5,24,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:6),108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.6,4,5,24,POR,LAL,foul,2,False,False,Daniels S.FOUL (P2.PN) (T.Washington),,108-112,108,112
+0021900726,2020-01-31,LAL,POR,42.6,4,5,24,POR,POR,ft_make,11,False,False,,Hezonja Free Throw 1 of 2 (1 PTS),108-113,108,113
+0021900726,2020-01-31,LAL,POR,42.6,4,5,24,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,108-113,108,113
+0021900726,2020-01-31,LAL,POR,42.6,4,5,24,POR,POR,ft_miss,12,False,False,,MISS Hezonja Free Throw 2 of 2,108-113,108,113
+0021900726,2020-01-31,LAL,POR,42.7,4,5,18,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:3 Def:9),,108-113,108,113
+0021900726,2020-01-31,LAL,POR,42.88,4,5,7,LAL,LAL,fg3_miss,80,False,False,MISS James 27' 3PT Step Back Jump Shot,,108-113,108,113
+0021900726,2020-01-31,LAL,POR,42.95,4,5,3,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:4 Def:9),,108-113,108,113
+0021900726,2020-01-31,LAL,POR,42.97,4,5,2,LAL,LAL,fg_miss,86,False,False,MISS Kuzma 7' Turnaround Fadeaway Shot,,108-113,108,113
+0021900726,2020-01-31,LAL,POR,42.97,4,5,2,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:7),108-113,108,113
+0021900726,2020-01-31,LAL,POR,43.17,4,4,50,POR,POR,fg_make,98,False,False,,Whiteside 1' Cutting Layup Shot (24 PTS) (Lillard 9 AST),108-115,108,115
+0021900726,2020-01-31,LAL,POR,43.47,4,4,32,LAL,LAL,fg3_miss,1,False,False,MISS Davis 28' 3PT Jump Shot,,108-115,108,115
+0021900726,2020-01-31,LAL,POR,43.52,4,4,29,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:8),108-115,108,115
+0021900726,2020-01-31,LAL,POR,43.8,4,4,12,POR,POR,fg_miss,79,False,False,,MISS Hezonja 9' Pullup Jump Shot,108-115,108,115
+0021900726,2020-01-31,LAL,POR,43.85,4,4,9,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:4 Def:10),,108-115,108,115
+0021900726,2020-01-31,LAL,POR,43.9,4,4,6,LAL,POR,foul,2,False,False,,Hezonja S.FOUL (P3.T2) (T.Washington),108-115,108,115
+0021900726,2020-01-31,LAL,POR,43.9,4,4,6,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (17 PTS),,109-115,109,115
+0021900726,2020-01-31,LAL,POR,43.9,4,4,6,LAL,LAL,ft_miss,12,False,False,MISS Kuzma Free Throw 2 of 2,,109-115,109,115
+0021900726,2020-01-31,LAL,POR,43.95,4,4,3,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:9),109-115,109,115
+0021900726,2020-01-31,LAL,POR,44.2,4,3,48,POR,POR,fg_make,52,False,False,,Whiteside 4' Alley Oop Dunk (26 PTS) (Lillard 10 AST),109-117,109,117
+0021900726,2020-01-31,LAL,POR,44.45,4,3,33,LAL,LAL,fg_miss,73,False,False,MISS Davis 3' Driving Reverse Layup,,109-117,109,117
+0021900726,2020-01-31,LAL,POR,44.5,4,3,30,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:10),109-117,109,117
+0021900726,2020-01-31,LAL,POR,44.68,4,3,19,POR,POR,fg3_miss,1,False,False,,MISS McCollum 25' 3PT Jump Shot,109-117,109,117
+0021900726,2020-01-31,LAL,POR,44.73,4,3,16,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:12),,109-117,109,117
+0021900726,2020-01-31,LAL,POR,44.82,4,3,11,LAL,LAL,fg_make,6,False,False,James 1' Driving Layup (21 PTS) (Davis 6 AST),,111-117,111,117
+0021900726,2020-01-31,LAL,POR,44.82,4,3,11,LAL,POR,foul,2,False,False,,Whiteside S.FOUL (P1.T3) (D.Collins),111-117,111,117
+0021900726,2020-01-31,LAL,POR,44.82,4,3,11,LAL,LAL,ft_make,10,False,False,James Free Throw 1 of 1 (22 PTS),,112-117,112,117
+0021900726,2020-01-31,LAL,POR,45.2,4,2,48,POR,POR,fg_make,79,False,False,,McCollum 21' Pullup Jump Shot (19 PTS),112-119,112,119
+0021900726,2020-01-31,LAL,POR,45.45,4,2,33,LAL,LAL,fg3_miss,1,False,False,MISS James 27' 3PT Jump Shot,,112-119,112,119
+0021900726,2020-01-31,LAL,POR,45.5,4,2,30,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:5 Def:10),,112-119,112,119
+0021900726,2020-01-31,LAL,POR,45.65,4,2,21,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 24' 3PT Jump Shot,,112-119,112,119
+0021900726,2020-01-31,LAL,POR,45.75,4,2,15,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:12),,112-119,112,119
+0021900726,2020-01-31,LAL,POR,45.83,4,2,10,LAL,LAL,fg_make,107,False,False,Davis 2' Tip Dunk Shot (37 PTS),,114-119,114,119
+0021900726,2020-01-31,LAL,POR,46.02,4,1,59,POR,POR,fg_make,3,False,False,,Whiteside 8' Hook Shot (28 PTS) (McCollum 5 AST),114-121,114,121
+0021900726,2020-01-31,LAL,POR,46.27,4,1,44,LAL,LAL,fg3_make,1,False,False,Bradley 27' 3PT Jump Shot (10 PTS) (James 10 AST),,117-121,117,121
+0021900726,2020-01-31,LAL,POR,46.53,4,1,28,POR,POR,fg_make,80,False,False,,Lillard 20' Step Back Jump Shot (46 PTS),117-123,117,123
+0021900726,2020-01-31,LAL,POR,46.73,4,1,16,LAL,LAL,fg3_miss,80,False,False,MISS James 27' 3PT Step Back Jump Shot,,117-123,117,123
+0021900726,2020-01-31,LAL,POR,46.77,4,1,14,POR,POR,reb,0,False,False,,Trail Blazers Rebound,117-123,117,123
+0021900726,2020-01-31,LAL,POR,47.1,4,0,54,POR,POR,fg3_miss,79,True,False,,MISS Trent Jr. 26' 3PT Pullup Jump Shot,117-123,117,123
+0021900726,2020-01-31,LAL,POR,47.1,4,0,54,POR,LAL,block,79,True,False,block,block,117-123,117,123
+0021900726,2020-01-31,LAL,POR,47.13,4,0,52,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:10),117-123,117,123
+0021900726,2020-01-31,LAL,POR,47.13,4,0,52,POR,POR,fg_make,86,False,False,,Whiteside 3' Turnaround Fadeaway (30 PTS),117-125,117,125
+0021900726,2020-01-31,LAL,POR,47.13,4,0,52,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,117-125,117,125
+0021900726,2020-01-31,LAL,POR,47.32,4,0,41,LAL,LAL,fg3_miss,1,False,False,MISS Davis 28' 3PT Jump Shot,,117-125,117,125
+0021900726,2020-01-31,LAL,POR,47.35,4,0,39,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:1 Def:0),,117-125,117,125
+0021900726,2020-01-31,LAL,POR,47.37,4,0,38,LAL,LAL,fg_miss,72,False,False,MISS Caldwell-Pope 2' Putback Layup,,117-125,117,125
+0021900726,2020-01-31,LAL,POR,47.37,4,0,38,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:1 Def:8),117-125,117,125
+0021900726,2020-01-31,LAL,POR,47.45,4,0,33,POR,POR,fg_make,41,False,False,,Lillard 1' Running Layup (48 PTS),117-127,117,127
+0021900726,2020-01-31,LAL,POR,47.57,4,0,26,LAL,LAL,fg_make,99,False,False,Caldwell-Pope 3' Cutting Finger Roll Layup Shot (8 PTS) (Bradley 2 AST),,119-127,119,127
+0021900726,2020-01-31,LAL,POR,47.97,4,0,2,POR,POR,tov,11,False,False,,Trail Blazers Turnover: Shot Clock (T#7),119-127,119,127
+0021900726,2020-01-31,LAL,POR,48.0,4,0,0,POR,,period_end,0,False,False,,,119-127,119,127

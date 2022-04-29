@@ -1,0 +1,429 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0021900456,2019-12-25,PHI,MIL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0021900456,2019-12-25,PHI,MIL,0.0,1,12,0,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Lopez: Tip to Horford,,0-0,0,0
+0021900456,2019-12-25,PHI,MIL,0.27,1,11,44,PHI,PHI,fg_miss,79,False,False,MISS Harris 16' Pullup Jump Shot,,0-0,0,0
+0021900456,2019-12-25,PHI,MIL,0.33,1,11,40,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:1),0-0,0,0
+0021900456,2019-12-25,PHI,MIL,0.43,1,11,34,MIL,MIL,fg_make,1,False,False,,Antetokounmpo 18' Jump Shot (2 PTS),0-2,0,2
+0021900456,2019-12-25,PHI,MIL,0.78,1,11,13,PHI,PHI,fg_make,3,False,False,Simmons 3' Hook Shot (2 PTS),,2-2,2,2
+0021900456,2019-12-25,PHI,MIL,1.0,1,11,0,MIL,MIL,fg3_make,79,False,False,,Middleton 27' 3PT Pullup Jump Shot (3 PTS) (Antetokounmpo 1 AST),2-5,2,5
+0021900456,2019-12-25,PHI,MIL,1.22,1,10,47,PHI,PHI,fg_make,47,False,False,Harris 6' Turnaround Jump Shot (2 PTS),,4-5,4,5
+0021900456,2019-12-25,PHI,MIL,1.42,1,10,35,MIL,MIL,fg3_miss,1,False,False,,MISS Antetokounmpo 27' 3PT Jump Shot,4-5,4,5
+0021900456,2019-12-25,PHI,MIL,1.47,1,10,32,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:1),,4-5,4,5
+0021900456,2019-12-25,PHI,MIL,1.55,1,10,27,PHI,PHI,fg_make,44,False,False,Embiid 2' Reverse Layup (2 PTS) (Simmons 1 AST),,6-5,6,5
+0021900456,2019-12-25,PHI,MIL,1.78,1,10,13,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P1.T1),6-5,6,5
+0021900456,2019-12-25,PHI,MIL,1.78,1,10,13,MIL,PHI,steal,1,False,True,steal,steal,6-5,6,5
+0021900456,2019-12-25,PHI,MIL,1.87,1,10,8,PHI,PHI,fg3_make,1,False,False,Richardson 24' 3PT Jump Shot (3 PTS) (Horford 1 AST),,9-5,9,5
+0021900456,2019-12-25,PHI,MIL,2.13,1,9,52,MIL,MIL,fg_miss,79,True,False,,MISS Middleton 16' Pullup Jump Shot,9-5,9,5
+0021900456,2019-12-25,PHI,MIL,2.13,1,9,52,MIL,PHI,block,79,True,False,block,block,9-5,9,5
+0021900456,2019-12-25,PHI,MIL,2.13,1,9,52,MIL,MIL,reb,0,False,False,,Bucks Rebound,9-5,9,5
+0021900456,2019-12-25,PHI,MIL,2.17,1,9,50,MIL,MIL,fg_make,98,False,False,,Matthews Cutting Layup Shot (2 PTS) (DiVincenzo 1 AST),9-7,9,7
+0021900456,2019-12-25,PHI,MIL,2.42,1,9,35,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 26' 3PT Jump Shot,,9-7,9,7
+0021900456,2019-12-25,PHI,MIL,2.47,1,9,32,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:1),9-7,9,7
+0021900456,2019-12-25,PHI,MIL,2.62,1,9,23,MIL,MIL,fg_make,75,False,False,,DiVincenzo 5' Driving Finger Roll Layup (2 PTS) (Antetokounmpo 2 AST),9-9,9,9
+0021900456,2019-12-25,PHI,MIL,2.97,1,9,2,PHI,PHI,fg_make,79,False,False,Embiid 17' Pullup Jump Shot (4 PTS),,11-9,11,9
+0021900456,2019-12-25,PHI,MIL,3.22,1,8,47,MIL,PHI,foul,2,False,False,Embiid S.FOUL (P1.T1) (D.Collins),,11-9,11,9
+0021900456,2019-12-25,PHI,MIL,3.22,1,8,47,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (3 PTS),11-10,11,10
+0021900456,2019-12-25,PHI,MIL,3.22,1,8,47,MIL,MIL,ft_miss,12,False,False,,MISS Antetokounmpo Free Throw 2 of 2,11-10,11,10
+0021900456,2019-12-25,PHI,MIL,3.25,1,8,45,PHI,PHI,reb,0,False,False,76ERS Rebound,,11-10,11,10
+0021900456,2019-12-25,PHI,MIL,3.25,1,8,45,PHI,MIL,foul,3,False,False,,Middleton L.B.FOUL (P1.T1) (A.Smith),11-10,11,10
+0021900456,2019-12-25,PHI,MIL,3.55,1,8,27,PHI,PHI,fg3_miss,1,False,False,MISS Richardson 25' 3PT Jump Shot,,11-10,11,10
+0021900456,2019-12-25,PHI,MIL,3.6,1,8,24,MIL,MIL,reb,0,False,False,,Bucks Rebound,11-10,11,10
+0021900456,2019-12-25,PHI,MIL,3.72,1,8,17,MIL,MIL,fg_make,71,False,False,,Antetokounmpo 1' Finger Roll Layup (5 PTS) (Matthews 1 AST),11-12,11,12
+0021900456,2019-12-25,PHI,MIL,3.87,1,8,8,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 27' 3PT Jump Shot,,11-12,11,12
+0021900456,2019-12-25,PHI,MIL,3.87,1,8,8,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:2),11-12,11,12
+0021900456,2019-12-25,PHI,MIL,3.98,1,8,1,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 26' 3PT Pullup Jump Shot,11-12,11,12
+0021900456,2019-12-25,PHI,MIL,4.03,1,7,58,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:0),11-12,11,12
+0021900456,2019-12-25,PHI,MIL,4.07,1,7,56,MIL,PHI,violation,5,False,False,Simmons Violation:Kicked Ball (T.Brothers),,11-12,11,12
+0021900456,2019-12-25,PHI,MIL,4.17,1,7,50,MIL,MIL,fg_make,108,False,False,,DiVincenzo 1' Cutting Dunk Shot (4 PTS) (Antetokounmpo 3 AST),11-14,11,14
+0021900456,2019-12-25,PHI,MIL,4.38,1,7,37,PHI,PHI,fg_miss,1,False,False,MISS Richardson 13' Jump Shot,,11-14,11,14
+0021900456,2019-12-25,PHI,MIL,4.38,1,7,37,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:3),11-14,11,14
+0021900456,2019-12-25,PHI,MIL,4.52,1,7,29,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 30' 3PT Jump Shot,11-14,11,14
+0021900456,2019-12-25,PHI,MIL,4.57,1,7,26,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:1),,11-14,11,14
+0021900456,2019-12-25,PHI,MIL,4.82,1,7,11,PHI,PHI,fg3_make,1,False,False,Embiid 25' 3PT Jump Shot (7 PTS) (Horford 2 AST),,14-14,14,14
+0021900456,2019-12-25,PHI,MIL,4.95,1,7,3,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),14-14,14,14
+0021900456,2019-12-25,PHI,MIL,5.08,1,6,55,MIL,MIL,fg3_make,1,False,False,,Middleton 26' 3PT Jump Shot (6 PTS) (Antetokounmpo 4 AST),14-17,14,17
+0021900456,2019-12-25,PHI,MIL,5.37,1,6,38,PHI,MIL,foul,2,False,False,,DiVincenzo S.FOUL (P1.T2) (D.Collins),14-17,14,17
+0021900456,2019-12-25,PHI,MIL,5.37,1,6,38,PHI,PHI,ft_make,13,False,False,Korkmaz Free Throw 1 of 3 (1 PTS),,15-17,15,17
+0021900456,2019-12-25,PHI,MIL,5.37,1,6,38,PHI,PHI,ft_make,14,False,False,Korkmaz Free Throw 2 of 3 (2 PTS),,16-17,16,17
+0021900456,2019-12-25,PHI,MIL,5.37,1,6,38,PHI,PHI,ft_miss,15,False,False,MISS Korkmaz Free Throw 3 of 3,,16-17,16,17
+0021900456,2019-12-25,PHI,MIL,5.4,1,6,36,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:4),16-17,16,17
+0021900456,2019-12-25,PHI,MIL,5.65,1,6,21,MIL,MIL,fg_miss,86,False,False,,MISS Antetokounmpo 9' Turnaround Fadeaway Shot,16-17,16,17
+0021900456,2019-12-25,PHI,MIL,5.7,1,6,18,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:0 Def:1),,16-17,16,17
+0021900456,2019-12-25,PHI,MIL,5.87,1,6,8,PHI,PHI,fg_miss,79,False,False,MISS Korkmaz 16' Pullup Jump Shot,,16-17,16,17
+0021900456,2019-12-25,PHI,MIL,5.9,1,6,6,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:2),16-17,16,17
+0021900456,2019-12-25,PHI,MIL,6.02,1,5,59,MIL,MIL,fg_make,101,False,False,,Matthews 10' Driving Floating Jump Shot (4 PTS),16-19,16,19
+0021900456,2019-12-25,PHI,MIL,6.2,1,5,48,PHI,PHI,fg3_make,1,False,False,Harris 27' 3PT Jump Shot (5 PTS) (Horford 3 AST),,19-19,19,19
+0021900456,2019-12-25,PHI,MIL,6.37,1,5,38,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 26' 3PT Pullup Jump Shot,19-19,19,19
+0021900456,2019-12-25,PHI,MIL,6.42,1,5,35,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,19-19,19,19
+0021900456,2019-12-25,PHI,MIL,6.6,1,5,24,PHI,PHI,fg_make,79,False,False,Harris 17' Pullup Jump Shot (7 PTS) (Simmons 2 AST),,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,6.78,1,5,13,MIL,MIL,fg_miss,101,False,False,,MISS Middleton 11' Driving Floating Jump Shot,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,6.85,1,5,9,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:2),,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,6.9,1,5,6,PHI,PHI,fg_miss,41,True,False,MISS Harris 4' Running Layup,,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,6.9,1,5,6,PHI,MIL,block,41,True,False,block,block,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,6.9,1,5,6,PHI,PHI,reb,0,False,False,76ERS Rebound,,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.02,1,4,59,PHI,PHI,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.05,1,4,57,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:1 Def:1),,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.1,1,4,54,PHI,PHI,fg_miss,80,False,False,MISS Horford 12' Step Back Jump Shot,,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.17,1,4,50,MIL,MIL,reb,0,False,False,,G. Hill REBOUND (Off:0 Def:1),21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.42,1,4,35,MIL,MIL,fg_miss,98,False,False,,MISS Connaughton 2' Cutting Layup Shot,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.48,1,4,31,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:0 Def:2),,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.5,1,4,30,PHI,PHI,fg3_miss,1,False,False,MISS Ennis III 24' 3PT Jump Shot,,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.57,1,4,26,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:1 Def:2),,21-19,21,19
+0021900456,2019-12-25,PHI,MIL,7.65,1,4,21,PHI,PHI,fg_make,6,False,False,Simmons 2' Driving Layup (4 PTS) (Horford 4 AST),,23-19,23,19
+0021900456,2019-12-25,PHI,MIL,7.83,1,4,10,MIL,PHI,foul,1,False,False,Simmons P.FOUL (P1.T2) (D.Collins),,23-19,23,19
+0021900456,2019-12-25,PHI,MIL,8.02,1,3,59,MIL,MIL,fg3_make,79,False,False,,G. Hill 26' 3PT Pullup Jump Shot (3 PTS),23-22,23,22
+0021900456,2019-12-25,PHI,MIL,8.28,1,3,43,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P1.T1),,23-22,23,22
+0021900456,2019-12-25,PHI,MIL,8.28,1,3,43,PHI,MIL,steal,1,False,True,steal,steal,23-22,23,22
+0021900456,2019-12-25,PHI,MIL,8.43,1,3,34,MIL,MIL,fg_miss,5,False,False,,MISS Ilyasova 3' Layup,23-22,23,22
+0021900456,2019-12-25,PHI,MIL,8.47,1,3,32,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:1 Def:3),,23-22,23,22
+0021900456,2019-12-25,PHI,MIL,8.58,1,3,25,PHI,PHI,fg3_make,80,False,False,Horford 25' 3PT Step Back Jump Shot (3 PTS) (Simmons 3 AST),,26-22,26,22
+0021900456,2019-12-25,PHI,MIL,9.0,1,3,0,MIL,MIL,tov,1,False,True,,Ilyasova Bad Pass Turnover (P1.T2),26-22,26,22
+0021900456,2019-12-25,PHI,MIL,9.0,1,3,0,MIL,PHI,steal,1,False,True,steal,steal,26-22,26,22
+0021900456,2019-12-25,PHI,MIL,9.13,1,2,52,PHI,PHI,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,26-22,26,22
+0021900456,2019-12-25,PHI,MIL,9.23,1,2,46,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:2 Def:1),,26-22,26,22
+0021900456,2019-12-25,PHI,MIL,9.25,1,2,45,PHI,PHI,tov,1,False,True,Ennis III Bad Pass Turnover (P1.T2),,26-22,26,22
+0021900456,2019-12-25,PHI,MIL,9.25,1,2,45,PHI,MIL,steal,1,False,True,steal,steal,26-22,26,22
+0021900456,2019-12-25,PHI,MIL,9.32,1,2,41,MIL,MIL,fg_make,1,False,False,,Ilyasova 7' Jump Shot (2 PTS) (Korver 1 AST),26-24,26,24
+0021900456,2019-12-25,PHI,MIL,9.32,1,2,41,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,26-24,26,24
+0021900456,2019-12-25,PHI,MIL,9.53,1,2,28,PHI,PHI,fg_make,75,False,False,Richardson 1' Driving Finger Roll Layup (5 PTS),,28-24,28,24
+0021900456,2019-12-25,PHI,MIL,9.72,1,2,17,MIL,MIL,tov,45,False,False,,Connaughton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),28-24,28,24
+0021900456,2019-12-25,PHI,MIL,9.98,1,2,1,PHI,MIL,foul,2,False,False,,Lopez S.FOUL (P1.T3) (T.Brothers),28-24,28,24
+0021900456,2019-12-25,PHI,MIL,9.98,1,2,1,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (8 PTS),,29-24,29,24
+0021900456,2019-12-25,PHI,MIL,9.98,1,2,1,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (9 PTS),,30-24,30,24
+0021900456,2019-12-25,PHI,MIL,10.18,1,1,49,MIL,MIL,fg3_make,1,False,False,,Korver 27' 3PT Jump Shot (3 PTS) (Ilyasova 1 AST),30-27,30,27
+0021900456,2019-12-25,PHI,MIL,10.52,1,1,29,PHI,PHI,fg_make,86,False,False,Embiid 13' Turnaround Fadeaway (11 PTS),,32-27,32,27
+0021900456,2019-12-25,PHI,MIL,10.77,1,1,14,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 26' 3PT Jump Shot,32-27,32,27
+0021900456,2019-12-25,PHI,MIL,10.83,1,1,10,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:0 Def:1),,32-27,32,27
+0021900456,2019-12-25,PHI,MIL,10.98,1,1,1,PHI,PHI,fg3_make,1,False,False,Burke 3PT Jump Shot (3 PTS) (Richardson 1 AST),,35-27,35,27
+0021900456,2019-12-25,PHI,MIL,11.18,1,0,49,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 25' 3PT Jump Shot,35-27,35,27
+0021900456,2019-12-25,PHI,MIL,11.23,1,0,46,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:0 Def:2),,35-27,35,27
+0021900456,2019-12-25,PHI,MIL,11.43,1,0,34,PHI,PHI,fg_miss,79,False,False,MISS Embiid 9' Pullup Jump Shot,,35-27,35,27
+0021900456,2019-12-25,PHI,MIL,11.47,1,0,32,MIL,MIL,reb,0,False,False,,Korver REBOUND (Off:0 Def:1),35-27,35,27
+0021900456,2019-12-25,PHI,MIL,11.52,1,0,29,MIL,MIL,fg3_make,103,False,False,,G. Hill 29' 3PT Running Pull-Up Jump Shot (6 PTS),35-30,35,30
+0021900456,2019-12-25,PHI,MIL,11.87,1,0,8,PHI,PHI,fg3_miss,79,True,False,MISS Richardson 25' 3PT Pullup Jump Shot,,35-30,35,30
+0021900456,2019-12-25,PHI,MIL,11.87,1,0,8,PHI,MIL,block,79,True,False,block,block,35-30,35,30
+0021900456,2019-12-25,PHI,MIL,11.9,1,0,6,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:0),,35-30,35,30
+0021900456,2019-12-25,PHI,MIL,11.9,1,0,6,PHI,PHI,fg3_make,1,False,False,Embiid 25' 3PT Jump Shot (14 PTS),,38-30,38,30
+0021900456,2019-12-25,PHI,MIL,11.97,1,0,2,MIL,MIL,tov,1,False,True,,Connaughton Bad Pass Turnover (P2.T4),38-30,38,30
+0021900456,2019-12-25,PHI,MIL,11.97,1,0,2,MIL,PHI,steal,1,False,True,steal,steal,38-30,38,30
+0021900456,2019-12-25,PHI,MIL,12.0,1,0,0,PHI,PHI,tov,40,False,False,Scott Out of Bounds Lost Ball Turnover (P1.T3),,38-30,38,30
+0021900456,2019-12-25,PHI,MIL,12.0,1,0,0,PHI,,period_end,0,False,False,,,38-30,38,30
+0021900456,2019-12-25,PHI,MIL,12.0,2,12,0,PHI,,period_start,0,False,False,,,38-30,38,30
+0021900456,2019-12-25,PHI,MIL,12.28,2,11,43,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 27' 3PT Jump Shot,38-30,38,30
+0021900456,2019-12-25,PHI,MIL,12.35,2,11,39,PHI,PHI,reb,0,False,False,76ERS Rebound,,38-30,38,30
+0021900456,2019-12-25,PHI,MIL,12.65,2,11,21,PHI,PHI,fg_make,63,False,False,Embiid 15' Fadeaway Jumper (16 PTS),,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,12.82,2,11,11,MIL,MIL,fg_miss,58,False,False,,MISS Antetokounmpo 9' Turnaround Hook Shot,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,12.87,2,11,8,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:1),,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.1,2,10,54,PHI,PHI,fg_miss,80,False,False,MISS Harris 7' Step Back Jump Shot,,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.13,2,10,52,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:5),40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.23,2,10,46,MIL,MIL,fg_miss,5,False,False,,MISS Lopez 3' Layup,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.25,2,10,45,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:2),,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.33,2,10,40,PHI,PHI,fg3_miss,1,False,False,MISS Scott 26' 3PT Jump Shot,,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.4,2,10,36,MIL,MIL,reb,0,False,False,,Korver REBOUND (Off:0 Def:2),40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.65,2,10,21,MIL,MIL,fg_miss,63,False,False,,MISS Middleton 16' Fadeaway Jumper,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.68,2,10,19,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,40-30,40,30
+0021900456,2019-12-25,PHI,MIL,13.88,2,10,7,PHI,PHI,fg3_make,1,False,False,Richardson 24' 3PT Jump Shot (8 PTS) (Embiid 1 AST),,43-30,43,30
+0021900456,2019-12-25,PHI,MIL,14.15,2,9,51,MIL,MIL,fg_make,101,False,False,,G. Hill 10' Driving Floating Jump Shot (8 PTS),43-32,43,32
+0021900456,2019-12-25,PHI,MIL,14.43,2,9,34,PHI,PHI,fg_make,52,False,False,Embiid 1' Alley Oop Dunk (18 PTS) (Richardson 2 AST),,45-32,45,32
+0021900456,2019-12-25,PHI,MIL,14.7,2,9,18,MIL,PHI,foul,1,False,False,Richardson P.FOUL (P1.T1) (A.Smith),,45-32,45,32
+0021900456,2019-12-25,PHI,MIL,14.88,2,9,7,MIL,MIL,fg_miss,105,False,False,,MISS Antetokounmpo 8' Turnaround Fadeaway Bank Jump Shot,45-32,45,32
+0021900456,2019-12-25,PHI,MIL,14.92,2,9,5,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:4),,45-32,45,32
+0021900456,2019-12-25,PHI,MIL,15.08,2,8,55,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P1.T4),,45-32,45,32
+0021900456,2019-12-25,PHI,MIL,15.08,2,8,55,PHI,MIL,steal,2,False,True,steal,steal,45-32,45,32
+0021900456,2019-12-25,PHI,MIL,15.2,2,8,48,MIL,MIL,fg_make,50,False,False,,Antetokounmpo 2' Running Dunk (7 PTS),45-34,45,34
+0021900456,2019-12-25,PHI,MIL,15.57,2,8,26,PHI,PHI,fg3_make,1,False,False,Richardson 27' 3PT Jump Shot (11 PTS) (Harris 1 AST),,48-34,48,34
+0021900456,2019-12-25,PHI,MIL,15.97,2,8,2,MIL,MIL,fg_make,73,False,False,,Middleton 2' Driving Reverse Layup (8 PTS),48-36,48,36
+0021900456,2019-12-25,PHI,MIL,15.97,2,8,2,MIL,PHI,violation,2,False,False,Embiid Violation:Defensive Goaltending (D.Collins),,48-36,48,36
+0021900456,2019-12-25,PHI,MIL,16.17,2,7,50,PHI,PHI,fg_miss,73,True,False,MISS Burke 3' Driving Reverse Layup,,48-36,48,36
+0021900456,2019-12-25,PHI,MIL,16.17,2,7,50,PHI,MIL,block,73,True,False,block,block,48-36,48,36
+0021900456,2019-12-25,PHI,MIL,16.25,2,7,45,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),48-36,48,36
+0021900456,2019-12-25,PHI,MIL,16.25,2,7,45,MIL,PHI,foul,2,False,False,Embiid S.FOUL (P2.T2) (T.Brothers),,48-36,48,36
+0021900456,2019-12-25,PHI,MIL,16.25,2,7,45,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,48-36,48,36
+0021900456,2019-12-25,PHI,MIL,16.25,2,7,45,MIL,MIL,reb,1,False,False,,Bucks Rebound,48-36,48,36
+0021900456,2019-12-25,PHI,MIL,16.25,2,7,45,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (8 PTS),48-37,48,37
+0021900456,2019-12-25,PHI,MIL,16.48,2,7,31,PHI,PHI,fg_miss,79,False,False,MISS Richardson 13' Pullup Jump Shot,,48-37,48,37
+0021900456,2019-12-25,PHI,MIL,16.55,2,7,27,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:2),48-37,48,37
+0021900456,2019-12-25,PHI,MIL,16.68,2,7,19,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 27' 3PT Jump Shot,48-37,48,37
+0021900456,2019-12-25,PHI,MIL,16.7,2,7,18,PHI,PHI,reb,0,False,False,76ERS Rebound,,48-37,48,37
+0021900456,2019-12-25,PHI,MIL,16.92,2,7,5,PHI,PHI,tov,1,False,True,Richardson Bad Pass Turnover (P1.T5),,48-37,48,37
+0021900456,2019-12-25,PHI,MIL,16.92,2,7,5,PHI,MIL,steal,1,False,True,steal,steal,48-37,48,37
+0021900456,2019-12-25,PHI,MIL,17.03,2,6,58,MIL,MIL,fg_make,76,False,False,,Antetokounmpo 3' Running Finger Roll Layup (10 PTS),48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.3,2,6,42,PHI,PHI,fg3_miss,80,False,False,MISS Richardson 25' 3PT Step Back Jump Shot,,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.35,2,6,39,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:6),48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.42,2,6,35,MIL,MIL,fg3_miss,103,False,False,,MISS Antetokounmpo 26' 3PT Running Pull-Up Jump Shot,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.48,2,6,31,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:0),48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.57,2,6,26,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 2 Short 0),,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.72,2,6,17,MIL,MIL,fg_miss,5,False,False,,MISS Antetokounmpo 1' Layup,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.73,2,6,16,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:6),48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.77,2,6,14,MIL,MIL,fg_miss,72,False,False,,MISS Antetokounmpo 2' Putback Layup,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.77,2,6,14,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:2 Def:2),,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,17.98,2,6,1,PHI,PHI,fg_miss,1,False,False,MISS Horford 17' Jump Shot,,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,18.03,2,5,58,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,18.08,2,5,55,PHI,PHI,fg_miss,5,False,False,MISS Harris 3' Layup,,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,18.08,2,5,55,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:7),48-39,48,39
+0021900456,2019-12-25,PHI,MIL,18.13,2,5,52,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P1.T5),48-39,48,39
+0021900456,2019-12-25,PHI,MIL,18.13,2,5,52,MIL,PHI,steal,2,False,True,steal,steal,48-39,48,39
+0021900456,2019-12-25,PHI,MIL,18.23,2,5,46,PHI,PHI,fg_make,1,False,False,Harris 20' Jump Shot (9 PTS) (Simmons 4 AST),,50-39,50,39
+0021900456,2019-12-25,PHI,MIL,18.35,2,5,39,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 28' 3PT Jump Shot,50-39,50,39
+0021900456,2019-12-25,PHI,MIL,18.38,2,5,37,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:2 Def:3),,50-39,50,39
+0021900456,2019-12-25,PHI,MIL,18.47,2,5,32,PHI,PHI,fg3_make,79,False,False,Harris 26' 3PT Pullup Jump Shot (12 PTS) (Simmons 5 AST),,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,18.48,2,5,31,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.2 Short 0),53-39,53,39
+0021900456,2019-12-25,PHI,MIL,18.75,2,5,15,MIL,MIL,fg_miss,1,False,False,,MISS Ilyasova 16' Jump Shot,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,18.8,2,5,12,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,19.07,2,4,56,PHI,PHI,fg_miss,75,False,False,MISS Korkmaz 7' Driving Finger Roll Layup,,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,19.08,2,4,55,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:2 Def:3),,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,19.1,2,4,54,PHI,PHI,fg3_miss,1,False,False,MISS Ennis III 26' 3PT Jump Shot,,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,19.1,2,4,54,MIL,MIL,reb,0,False,False,,Bucks Rebound,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,19.37,2,4,38,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 3PT Jump Shot,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,19.42,2,4,35,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:2),,53-39,53,39
+0021900456,2019-12-25,PHI,MIL,19.48,2,4,31,PHI,PHI,fg_make,41,False,False,Ennis III 1' Running Layup (2 PTS) (Simmons 6 AST),,55-39,55,39
+0021900456,2019-12-25,PHI,MIL,19.72,2,4,17,MIL,MIL,fg_miss,5,True,False,,MISS Middleton 2' Layup,55-39,55,39
+0021900456,2019-12-25,PHI,MIL,19.72,2,4,17,MIL,PHI,block,5,True,False,block,block,55-39,55,39
+0021900456,2019-12-25,PHI,MIL,19.77,2,4,14,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:2 Def:0),55-39,55,39
+0021900456,2019-12-25,PHI,MIL,19.78,2,4,13,MIL,MIL,fg3_make,1,False,False,,Ilyasova 24' 3PT Jump Shot (5 PTS) (Middleton 1 AST),55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.12,2,3,53,PHI,PHI,fg_miss,3,True,False,MISS Horford 6' Hook Shot,,55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.12,2,3,53,PHI,MIL,block,3,True,False,block,block,55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.18,2,3,49,MIL,MIL,reb,0,False,False,,Korver REBOUND (Off:0 Def:3),55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.43,2,3,34,MIL,MIL,tov,2,False,True,,Ilyasova Lost Ball Turnover (P2.T6),55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.43,2,3,34,MIL,PHI,steal,2,False,True,steal,steal,55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.48,2,3,31,PHI,MIL,foul,1,False,False,,Matthews P.FOUL (P1.T1) (A.Smith),55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.7,2,3,18,PHI,PHI,fg3_miss,1,False,False,MISS Scott 3PT Jump Shot,,55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.77,2,3,14,MIL,MIL,reb,0,False,False,,Korver REBOUND (Off:0 Def:4),55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.93,2,3,4,MIL,MIL,fg_miss,79,False,False,,MISS Korver 18' Pullup Jump Shot,55-42,55,42
+0021900456,2019-12-25,PHI,MIL,20.98,2,3,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:5),,55-42,55,42
+0021900456,2019-12-25,PHI,MIL,21.07,2,2,56,PHI,PHI,fg3_make,1,False,False,Embiid 26' 3PT Jump Shot (21 PTS) (Simmons 7 AST),,58-42,58,42
+0021900456,2019-12-25,PHI,MIL,21.4,2,2,36,MIL,MIL,fg_make,58,False,False,,Lopez 6' Turnaround Hook Shot (2 PTS),58-44,58,44
+0021900456,2019-12-25,PHI,MIL,21.57,2,2,26,PHI,PHI,fg_make,102,False,False,Simmons 4' Driving Floating Bank Jump Shot (6 PTS) (Richardson 3 AST),,60-44,60,44
+0021900456,2019-12-25,PHI,MIL,21.9,2,2,6,MIL,MIL,fg_make,101,False,False,,G. Hill 6' Driving Floating Jump Shot (10 PTS),60-46,60,46
+0021900456,2019-12-25,PHI,MIL,22.07,2,1,56,PHI,MIL,foul,1,False,False,,G. Hill P.FOUL (P1.T2) (T.Brothers),60-46,60,46
+0021900456,2019-12-25,PHI,MIL,22.27,2,1,44,PHI,PHI,fg_make,79,False,False,Richardson 17' Pullup Jump Shot (13 PTS) (Embiid 2 AST),,62-46,62,46
+0021900456,2019-12-25,PHI,MIL,22.6,2,1,24,MIL,MIL,fg_make,79,False,False,,G. Hill 17' Pullup Jump Shot (12 PTS) (Antetokounmpo 5 AST),62-48,62,48
+0021900456,2019-12-25,PHI,MIL,22.9,2,1,6,PHI,PHI,fg_miss,6,True,False,MISS Richardson 3' Driving Layup,,62-48,62,48
+0021900456,2019-12-25,PHI,MIL,22.9,2,1,6,PHI,MIL,block,6,True,False,block,block,62-48,62,48
+0021900456,2019-12-25,PHI,MIL,22.9,2,1,6,PHI,PHI,reb,0,False,False,76ERS Rebound,,62-48,62,48
+0021900456,2019-12-25,PHI,MIL,22.92,2,1,5,PHI,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P1.PN) (T.Brothers),62-48,62,48
+0021900456,2019-12-25,PHI,MIL,22.92,2,1,5,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (22 PTS),,63-48,63,48
+0021900456,2019-12-25,PHI,MIL,22.92,2,1,5,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (23 PTS),,64-48,64,48
+0021900456,2019-12-25,PHI,MIL,23.1,2,0,54,MIL,MIL,fg_miss,57,False,False,,MISS Antetokounmpo 7' Driving Hook Shot,64-48,64,48
+0021900456,2019-12-25,PHI,MIL,23.15,2,0,51,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:3),,64-48,64,48
+0021900456,2019-12-25,PHI,MIL,23.18,2,0,49,PHI,PHI,fg3_make,1,False,False,Richardson 25' 3PT Jump Shot (16 PTS) (Simmons 8 AST),,67-48,67,48
+0021900456,2019-12-25,PHI,MIL,23.5,2,0,30,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 24' 3PT Jump Shot,67-48,67,48
+0021900456,2019-12-25,PHI,MIL,23.55,2,0,27,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:6),,67-48,67,48
+0021900456,2019-12-25,PHI,MIL,23.9,2,0,6,PHI,PHI,fg_make,101,False,False,Korkmaz 8' Driving Floating Jump Shot (4 PTS) (Embiid 3 AST),,69-48,69,48
+0021900456,2019-12-25,PHI,MIL,24.0,2,0,0,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 27' 3PT Jump Shot,69-48,69,48
+0021900456,2019-12-25,PHI,MIL,24.0,2,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,69-48,69,48
+0021900456,2019-12-25,PHI,MIL,24.0,2,0,0,MIL,,period_end,0,False,False,,,69-48,69,48
+0021900456,2019-12-25,PHI,MIL,24.0,3,12,0,MIL,,period_start,0,False,False,,,69-48,69,48
+0021900456,2019-12-25,PHI,MIL,24.28,3,11,43,MIL,MIL,fg_make,79,False,False,,Middleton 20' Pullup Jump Shot (10 PTS),69-50,69,50
+0021900456,2019-12-25,PHI,MIL,24.72,3,11,17,PHI,PHI,fg_miss,57,False,False,MISS Simmons 11' Driving Hook Shot,,69-50,69,50
+0021900456,2019-12-25,PHI,MIL,24.75,3,11,15,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:8),69-50,69,50
+0021900456,2019-12-25,PHI,MIL,24.83,3,11,10,MIL,MIL,fg_miss,41,False,False,,MISS Antetokounmpo 3' Running Layup,69-50,69,50
+0021900456,2019-12-25,PHI,MIL,24.87,3,11,8,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:3),,69-50,69,50
+0021900456,2019-12-25,PHI,MIL,24.95,3,11,3,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P2.T6),,69-50,69,50
+0021900456,2019-12-25,PHI,MIL,24.95,3,11,3,PHI,MIL,steal,1,False,True,steal,steal,69-50,69,50
+0021900456,2019-12-25,PHI,MIL,25.1,3,10,54,MIL,MIL,fg_make,2,False,False,,Antetokounmpo Running Jump Shot (12 PTS) (DiVincenzo 2 AST),69-52,69,52
+0021900456,2019-12-25,PHI,MIL,25.33,3,10,40,PHI,MIL,foul,1,False,False,,Lopez P.FOUL (P1.T1) (D.Collins),69-52,69,52
+0021900456,2019-12-25,PHI,MIL,25.48,3,10,31,PHI,PHI,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,69-52,69,52
+0021900456,2019-12-25,PHI,MIL,25.55,3,10,27,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:1),69-52,69,52
+0021900456,2019-12-25,PHI,MIL,25.67,3,10,20,MIL,MIL,fg_make,101,False,False,,Middleton 9' Driving Floating Jump Shot (12 PTS),69-54,69,54
+0021900456,2019-12-25,PHI,MIL,25.92,3,10,5,PHI,PHI,fg_miss,79,False,False,MISS Harris 20' Pullup Jump Shot,,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,25.95,3,10,3,PHI,PHI,reb,0,False,False,76ERS Rebound,,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,25.95,3,10,3,PHI,MIL,foul,3,False,False,,Middleton L.B.FOUL (P2.T2) (A.Smith),69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.15,3,9,51,PHI,PHI,fg_miss,80,False,False,MISS Embiid 19' Step Back Jump Shot,,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.2,3,9,48,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:2),69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.28,3,9,43,MIL,MIL,fg_miss,41,True,False,,MISS Antetokounmpo 7' Running Layup,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.28,3,9,43,MIL,PHI,block,41,True,False,block,block,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.33,3,9,40,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:2 Def:4),,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.37,3,9,38,PHI,PHI,fg3_miss,1,False,False,MISS Richardson 3PT Jump Shot,,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.37,3,9,38,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:2 Def:1),69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.42,3,9,35,MIL,PHI,foul,1,False,False,Simmons P.FOUL (P2.T1) (T.Brothers),,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.63,3,9,22,MIL,MIL,fg3_miss,80,False,False,,MISS Antetokounmpo 28' 3PT Step Back Jump Shot,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.7,3,9,18,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:4),,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.75,3,9,15,PHI,MIL,foul,1,False,False,,Lopez P.FOUL (P2.T3) (T.Brothers),69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.95,3,9,3,PHI,PHI,fg_miss,75,False,False,MISS Horford 4' Driving Finger Roll Layup,,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,26.98,3,9,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:6),,69-54,69,54
+0021900456,2019-12-25,PHI,MIL,27.0,3,9,0,PHI,PHI,fg_make,87,False,False,Embiid 2' Putback Dunk (25 PTS),,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.28,3,8,43,MIL,MIL,fg_miss,6,False,False,,MISS Antetokounmpo 3' Driving Layup,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.32,3,8,41,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:2 Def:5),,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.4,3,8,36,PHI,PHI,fg_miss,41,False,False,MISS Richardson Running Layup,,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.43,3,8,34,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:3),71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.47,3,8,32,MIL,PHI,violation,5,False,False,Simmons Violation:Kicked Ball (A.Smith),,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.57,3,8,26,MIL,MIL,fg3_miss,1,False,False,,MISS Antetokounmpo 27' 3PT Jump Shot,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.65,3,8,21,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:3 Def:1),71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.72,3,8,17,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 28' 3PT Jump Shot,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,27.78,3,8,13,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:0 Def:1),,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,28.07,3,7,56,PHI,PHI,fg_miss,5,False,False,MISS Embiid 2' Layup,,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,28.17,3,7,50,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:1 Def:1),,71-54,71,54
+0021900456,2019-12-25,PHI,MIL,28.25,3,7,45,PHI,MIL,foul,2,False,False,,Middleton S.FOUL (P3.T4) (D.Collins),71-54,71,54
+0021900456,2019-12-25,PHI,MIL,28.25,3,7,45,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.3 Short 0),71-54,71,54
+0021900456,2019-12-25,PHI,MIL,28.25,3,7,45,MIL,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (26 PTS),,72-54,72,54
+0021900456,2019-12-25,PHI,MIL,28.25,3,7,45,MIL,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (27 PTS),,73-54,73,54
+0021900456,2019-12-25,PHI,MIL,28.48,3,7,31,MIL,MIL,fg_miss,71,False,False,,MISS Lopez 9' Finger Roll Layup,73-54,73,54
+0021900456,2019-12-25,PHI,MIL,28.55,3,7,27,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:2 Def:6),,73-54,73,54
+0021900456,2019-12-25,PHI,MIL,28.77,3,7,14,PHI,PHI,fg_make,101,False,False,Embiid 5' Driving Floating Jump Shot (29 PTS) (Simmons 9 AST),,75-54,75,54
+0021900456,2019-12-25,PHI,MIL,29.02,3,6,59,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 27' 3PT Jump Shot,75-54,75,54
+0021900456,2019-12-25,PHI,MIL,29.08,3,6,55,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:7),,75-54,75,54
+0021900456,2019-12-25,PHI,MIL,29.32,3,6,41,PHI,PHI,fg_make,102,False,False,Simmons 3' Driving Floating Bank Jump Shot (8 PTS),,77-54,77,54
+0021900456,2019-12-25,PHI,MIL,29.5,3,6,30,MIL,MIL,fg_miss,79,False,False,,MISS Matthews 21' Pullup Jump Shot,77-54,77,54
+0021900456,2019-12-25,PHI,MIL,29.57,3,6,26,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:8),,77-54,77,54
+0021900456,2019-12-25,PHI,MIL,29.6,3,6,24,PHI,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P2.PN) (A.Smith),77-54,77,54
+0021900456,2019-12-25,PHI,MIL,29.6,3,6,24,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (9 PTS),,78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.6,3,6,24,PHI,PHI,ft_miss,12,False,False,MISS Simmons Free Throw 2 of 2,,78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.65,3,6,21,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:9),78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.7,3,6,18,MIL,PHI,foul,1,False,False,Embiid P.FOUL (P3.T2) (D.Collins),,78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.88,3,6,7,MIL,MIL,fg_miss,6,True,False,,MISS Matthews 4' Driving Layup,78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.88,3,6,7,MIL,PHI,block,6,True,False,block,block,78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.88,3,6,7,MIL,MIL,reb,0,False,False,,Bucks Rebound,78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.93,3,6,4,MIL,PHI,foul,2,False,False,Simmons S.FOUL (P3.T3) (T.Brothers),,78-54,78,54
+0021900456,2019-12-25,PHI,MIL,29.93,3,6,4,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (13 PTS),78-55,78,55
+0021900456,2019-12-25,PHI,MIL,29.93,3,6,4,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (14 PTS),78-56,78,56
+0021900456,2019-12-25,PHI,MIL,30.15,3,5,51,PHI,PHI,fg3_make,1,False,False,Horford 27' 3PT Jump Shot (6 PTS) (Simmons 10 AST),,81-56,81,56
+0021900456,2019-12-25,PHI,MIL,30.38,3,5,37,MIL,PHI,violation,5,False,False,Horford Violation:Kicked Ball (D.Collins),,81-56,81,56
+0021900456,2019-12-25,PHI,MIL,30.47,3,5,32,MIL,MIL,fg_make,63,False,False,,Antetokounmpo 13' Fadeaway Jumper (14 PTS),81-58,81,58
+0021900456,2019-12-25,PHI,MIL,30.83,3,5,10,PHI,PHI,fg3_miss,1,False,False,MISS Ennis III 26' 3PT Jump Shot,,81-58,81,58
+0021900456,2019-12-25,PHI,MIL,30.87,3,5,8,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:3 Def:2),81-58,81,58
+0021900456,2019-12-25,PHI,MIL,31.02,3,4,59,MIL,MIL,fg_make,6,False,False,,Ilyasova 1' Driving Layup (7 PTS) (Antetokounmpo 6 AST),81-60,81,60
+0021900456,2019-12-25,PHI,MIL,31.02,3,4,59,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,81-60,81,60
+0021900456,2019-12-25,PHI,MIL,31.32,3,4,41,PHI,PHI,fg3_make,1,False,False,Korkmaz 25' 3PT Jump Shot (7 PTS) (Ennis III 1 AST),,84-60,84,60
+0021900456,2019-12-25,PHI,MIL,31.6,3,4,24,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P2.T7),84-60,84,60
+0021900456,2019-12-25,PHI,MIL,31.6,3,4,24,MIL,PHI,steal,2,False,True,steal,steal,84-60,84,60
+0021900456,2019-12-25,PHI,MIL,31.68,3,4,19,PHI,PHI,tov,2,False,True,Harris Lost Ball Turnover (P1.T7),,84-60,84,60
+0021900456,2019-12-25,PHI,MIL,31.68,3,4,19,PHI,MIL,steal,2,False,True,steal,steal,84-60,84,60
+0021900456,2019-12-25,PHI,MIL,31.9,3,4,6,MIL,MIL,fg3_make,1,False,False,,G. Hill 27' 3PT Jump Shot (15 PTS) (Matthews 2 AST),84-63,84,63
+0021900456,2019-12-25,PHI,MIL,32.37,3,3,38,PHI,PHI,fg_miss,98,True,False,MISS Ennis III 2' Cutting Layup Shot,,84-63,84,63
+0021900456,2019-12-25,PHI,MIL,32.37,3,3,38,PHI,MIL,block,98,True,False,block,block,84-63,84,63
+0021900456,2019-12-25,PHI,MIL,32.45,3,3,33,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:3 Def:3),84-63,84,63
+0021900456,2019-12-25,PHI,MIL,32.52,3,3,29,MIL,MIL,fg_make,75,False,False,,Middleton 2' Driving Finger Roll Layup (16 PTS) (Matthews 3 AST),84-65,84,65
+0021900456,2019-12-25,PHI,MIL,32.73,3,3,16,PHI,PHI,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (15 PTS) (Simmons 11 AST),,87-65,87,65
+0021900456,2019-12-25,PHI,MIL,32.97,3,3,2,MIL,MIL,fg_make,101,False,False,,Middleton 4' Driving Floating Jump Shot (18 PTS),87-67,87,67
+0021900456,2019-12-25,PHI,MIL,33.25,3,2,45,PHI,PHI,fg3_make,1,False,False,Korkmaz 27' 3PT Jump Shot (10 PTS) (Harris 2 AST),,90-67,90,67
+0021900456,2019-12-25,PHI,MIL,33.4,3,2,36,MIL,MIL,fg3_miss,103,False,False,,MISS Antetokounmpo 26' 3PT Running Pull-Up Jump Shot,90-67,90,67
+0021900456,2019-12-25,PHI,MIL,33.4,3,2,36,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:2 Def:4),,90-67,90,67
+0021900456,2019-12-25,PHI,MIL,33.55,3,2,27,PHI,PHI,fg3_make,1,False,False,Korkmaz 27' 3PT Jump Shot (13 PTS) (Simmons 12 AST),,93-67,93,67
+0021900456,2019-12-25,PHI,MIL,33.55,3,2,27,PHI,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P3.PN) (A.Smith),93-67,93,67
+0021900456,2019-12-25,PHI,MIL,33.55,3,2,27,PHI,PHI,ft_miss,10,False,False,MISS Korkmaz Free Throw 1 of 1,,93-67,93,67
+0021900456,2019-12-25,PHI,MIL,33.6,3,2,24,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:0 Def:1),93-67,93,67
+0021900456,2019-12-25,PHI,MIL,33.73,3,2,16,MIL,MIL,fg_miss,6,False,False,,MISS Connaughton 2' Driving Layup,93-67,93,67
+0021900456,2019-12-25,PHI,MIL,33.73,3,2,16,MIL,MIL,reb,0,False,False,,Bucks Rebound,93-67,93,67
+0021900456,2019-12-25,PHI,MIL,33.95,3,2,3,MIL,MIL,fg_miss,1,True,False,,MISS Connaughton 6' Jump Shot,93-67,93,67
+0021900456,2019-12-25,PHI,MIL,33.95,3,2,3,MIL,PHI,block,1,True,False,block,block,93-67,93,67
+0021900456,2019-12-25,PHI,MIL,34.0,3,2,0,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:5),,93-67,93,67
+0021900456,2019-12-25,PHI,MIL,34.05,3,1,57,PHI,PHI,fg_make,76,False,False,Simmons 1' Running Finger Roll Layup (11 PTS),,95-67,95,67
+0021900456,2019-12-25,PHI,MIL,34.42,3,1,35,MIL,MIL,fg_miss,5,True,False,,MISS G. Hill 2' Layup,95-67,95,67
+0021900456,2019-12-25,PHI,MIL,34.42,3,1,35,MIL,PHI,block,5,True,False,block,block,95-67,95,67
+0021900456,2019-12-25,PHI,MIL,34.47,3,1,32,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:6),,95-67,95,67
+0021900456,2019-12-25,PHI,MIL,34.77,3,1,14,PHI,PHI,fg_miss,80,False,False,MISS Embiid 20' Step Back Jump Shot,,95-67,95,67
+0021900456,2019-12-25,PHI,MIL,34.83,3,1,10,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:1),95-67,95,67
+0021900456,2019-12-25,PHI,MIL,35.07,3,0,56,MIL,MIL,fg3_make,1,False,False,,Lopez 25' 3PT Jump Shot (3 PTS) (Connaughton 1 AST),95-70,95,70
+0021900456,2019-12-25,PHI,MIL,35.27,3,0,44,PHI,PHI,fg3_make,1,False,False,Scott 27' 3PT Jump Shot (3 PTS) (Simmons 13 AST),,98-70,98,70
+0021900456,2019-12-25,PHI,MIL,35.48,3,0,31,MIL,MIL,fg_make,6,False,False,,Connaughton 3' Driving Layup (2 PTS) (Korver 2 AST),98-72,98,72
+0021900456,2019-12-25,PHI,MIL,35.48,3,0,31,MIL,PHI,foul,2,False,False,Korkmaz S.FOUL (P1.T4) (A.Smith),,98-72,98,72
+0021900456,2019-12-25,PHI,MIL,35.48,3,0,31,MIL,MIL,ft_make,10,False,False,,Connaughton Free Throw 1 of 1 (3 PTS),98-73,98,73
+0021900456,2019-12-25,PHI,MIL,35.78,3,0,13,PHI,PHI,fg_make,58,False,False,Embiid 5' Turnaround Hook Shot (31 PTS),,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,35.92,3,0,5,MIL,MIL,tov,1,False,True,,G. Hill Bad Pass Turnover (P1.T8),100-73,100,73
+0021900456,2019-12-25,PHI,MIL,35.92,3,0,5,MIL,PHI,steal,1,False,True,steal,steal,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.0,3,0,0,PHI,PHI,fg_miss,41,False,False,MISS Richardson 3' Running Layup,,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.0,3,0,0,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:1 Def:1),,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.0,3,0,0,PHI,PHI,fg_miss,97,False,False,MISS Korkmaz 1' Tip Layup Shot,,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.0,3,0,0,PHI,PHI,reb,0,False,False,76ERS Rebound,,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.0,3,0,0,PHI,,period_end,0,False,False,,,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.0,4,12,0,PHI,,period_start,0,False,False,,,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.27,4,11,44,PHI,PHI,fg_miss,1,False,False,MISS Embiid 19' Jump Shot,,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.33,4,11,40,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:3 Def:4),,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.4,4,11,36,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 26' 3PT Jump Shot,,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.47,4,11,32,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:2 Def:1),,100-73,100,73
+0021900456,2019-12-25,PHI,MIL,36.68,4,11,19,PHI,PHI,fg_make,79,False,False,Richardson 9' Pullup Jump Shot (18 PTS),,102-73,102,73
+0021900456,2019-12-25,PHI,MIL,36.93,4,11,4,MIL,MIL,fg3_make,1,False,False,,Lopez 27' 3PT Jump Shot (6 PTS) (G. Hill 1 AST),102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.22,4,10,47,PHI,PHI,fg_miss,79,False,False,MISS Richardson 18' Pullup Jump Shot,,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.3,4,10,42,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:3 Def:1),,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.47,4,10,32,PHI,PHI,fg_miss,79,False,False,MISS Embiid 19' Pullup Jump Shot,,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.53,4,10,28,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:2),102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.65,4,10,21,MIL,PHI,foul,1,False,False,Embiid P.FOUL (P4.T1) (D.Collins),,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.7,4,10,18,MIL,MIL,fg_miss,79,False,False,,MISS Korver 20' Pullup Jump Shot,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.75,4,10,15,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:9),,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,37.97,4,10,2,PHI,PHI,fg_miss,101,False,False,MISS Burke 17' Driving Floating Jump Shot,,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,38.0,4,10,0,PHI,PHI,reb,0,False,False,Burke REBOUND (Off:1 Def:0),,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,38.03,4,9,58,PHI,PHI,fg3_miss,1,False,False,MISS Ennis III 26' 3PT Jump Shot,,102-76,102,76
+0021900456,2019-12-25,PHI,MIL,38.07,4,9,56,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:3),102-76,102,76
+0021900456,2019-12-25,PHI,MIL,38.2,4,9,48,MIL,MIL,fg_make,73,False,False,,Brown 1' Driving Reverse Layup (2 PTS) (Lopez 1 AST),102-78,102,78
+0021900456,2019-12-25,PHI,MIL,38.2,4,9,48,MIL,PHI,foul,2,False,False,Embiid S.FOUL (P5.T2) (A.Smith),,102-78,102,78
+0021900456,2019-12-25,PHI,MIL,38.2,4,9,48,MIL,MIL,ft_make,10,False,False,,Brown Free Throw 1 of 1 (3 PTS),102-79,102,79
+0021900456,2019-12-25,PHI,MIL,38.48,4,9,31,PHI,PHI,fg3_miss,1,False,False,MISS Richardson 24' 3PT Jump Shot,,102-79,102,79
+0021900456,2019-12-25,PHI,MIL,38.55,4,9,27,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:4),102-79,102,79
+0021900456,2019-12-25,PHI,MIL,38.6,4,9,24,MIL,PHI,foul,1,False,False,Burke P.FOUL (P1.T3) (T.Brothers),,102-79,102,79
+0021900456,2019-12-25,PHI,MIL,38.72,4,9,17,MIL,MIL,fg_make,58,False,False,,Lopez 18' Turnaround Hook Shot (8 PTS),102-81,102,81
+0021900456,2019-12-25,PHI,MIL,39.13,4,8,52,PHI,PHI,fg_miss,1,False,False,MISS Horford 20' Jump Shot,,102-81,102,81
+0021900456,2019-12-25,PHI,MIL,39.2,4,8,48,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:10),102-81,102,81
+0021900456,2019-12-25,PHI,MIL,39.42,4,8,35,MIL,MIL,fg_miss,44,False,False,,MISS Antetokounmpo 1' Reverse Layup,102-81,102,81
+0021900456,2019-12-25,PHI,MIL,39.48,4,8,31,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:3),102-81,102,81
+0021900456,2019-12-25,PHI,MIL,39.5,4,8,30,MIL,MIL,fg_make,5,False,False,,Connaughton 1' Layup (5 PTS),102-83,102,83
+0021900456,2019-12-25,PHI,MIL,39.8,4,8,12,PHI,PHI,fg3_miss,1,False,False,MISS Richardson 29' 3PT Jump Shot,,102-83,102,83
+0021900456,2019-12-25,PHI,MIL,39.85,4,8,9,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:11),102-83,102,83
+0021900456,2019-12-25,PHI,MIL,39.93,4,8,4,MIL,MIL,fg_make,76,False,False,,Antetokounmpo 1' Running Finger Roll Layup (16 PTS),102-85,102,85
+0021900456,2019-12-25,PHI,MIL,39.93,4,8,4,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,102-85,102,85
+0021900456,2019-12-25,PHI,MIL,40.27,4,7,44,PHI,PHI,fg3_make,63,False,False,Korkmaz 26' 3PT Fadeaway Jumper (16 PTS) (Horford 5 AST),,105-85,105,85
+0021900456,2019-12-25,PHI,MIL,40.52,4,7,29,MIL,MIL,fg_make,78,False,False,,Middleton 8' Floating Jump Shot (20 PTS),105-87,105,87
+0021900456,2019-12-25,PHI,MIL,40.82,4,7,11,PHI,PHI,fg_miss,101,False,False,MISS Harris 15' Driving Floating Jump Shot,,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,40.82,4,7,11,PHI,PHI,reb,0,False,False,76ERS Rebound,,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,40.82,4,7,11,PHI,MIL,foul,3,False,False,,Brown L.B.FOUL (P1.T1) (T.Brothers),105-87,105,87
+0021900456,2019-12-25,PHI,MIL,40.93,4,7,4,PHI,PHI,fg_miss,43,False,False,MISS Simmons 3' Alley Oop Layup,,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,40.98,4,7,1,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:3),105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.07,4,6,56,MIL,MIL,fg3_miss,80,False,False,,MISS Korver 26' 3PT Step Back Jump Shot,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.12,4,6,53,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:2 Def:7),,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.38,4,6,37,PHI,PHI,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.43,4,6,34,MIL,MIL,reb,0,False,False,,Korver REBOUND (Off:0 Def:5),105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.5,4,6,30,MIL,MIL,fg_miss,41,True,False,,MISS Antetokounmpo 8' Running Layup,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.5,4,6,30,MIL,PHI,block,41,True,False,block,block,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.53,4,6,28,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:3 Def:2),,105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.58,4,6,25,PHI,MIL,foul,2,False,False,,Korver S.FOUL (P1.T2) (A.Smith),105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.58,4,6,25,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.4 Short 0),105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.58,4,6,25,PHI,MIL,foul,11,False,False,,Antetokounmpo T.FOUL (P3.T2) (T.Brothers),105-87,105,87
+0021900456,2019-12-25,PHI,MIL,41.58,4,6,25,PHI,PHI,ft_make,16,False,False,Harris Free Throw Technical (16 PTS),,106-87,106,87
+0021900456,2019-12-25,PHI,MIL,41.58,4,6,25,PHI,PHI,ft_make,11,False,False,Horford Free Throw 1 of 2 (7 PTS),,107-87,107,87
+0021900456,2019-12-25,PHI,MIL,41.58,4,6,25,PHI,PHI,ft_make,12,False,False,Horford Free Throw 2 of 2 (8 PTS),,108-87,108,87
+0021900456,2019-12-25,PHI,MIL,41.82,4,6,11,MIL,MIL,fg_miss,79,False,False,,MISS Middleton 18' Pullup Jump Shot,108-87,108,87
+0021900456,2019-12-25,PHI,MIL,41.85,4,6,9,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:4),108-87,108,87
+0021900456,2019-12-25,PHI,MIL,41.9,4,6,6,MIL,MIL,fg_miss,101,False,False,,MISS Brown 18' Driving Floating Jump Shot,108-87,108,87
+0021900456,2019-12-25,PHI,MIL,41.93,4,6,4,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:11),108-87,108,87
+0021900456,2019-12-25,PHI,MIL,41.93,4,6,4,MIL,MIL,fg_miss,97,False,False,,MISS Antetokounmpo 1' Tip Layup Shot,108-87,108,87
+0021900456,2019-12-25,PHI,MIL,41.93,4,6,4,MIL,MIL,reb,0,False,False,,Bucks Rebound,108-87,108,87
+0021900456,2019-12-25,PHI,MIL,41.93,4,6,4,MIL,PHI,foul,3,False,False,Horford L.B.FOUL (P1.T4) (D.Collins),,108-87,108,87
+0021900456,2019-12-25,PHI,MIL,42.05,4,5,57,MIL,MIL,fg_make,75,False,False,,DiVincenzo 3' Driving Finger Roll Layup (6 PTS),108-89,108,89
+0021900456,2019-12-25,PHI,MIL,42.27,4,5,44,PHI,PHI,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (19 PTS) (Simmons 14 AST),,111-89,111,89
+0021900456,2019-12-25,PHI,MIL,42.43,4,5,34,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P3.T9),111-89,111,89
+0021900456,2019-12-25,PHI,MIL,42.43,4,5,34,MIL,PHI,steal,2,False,True,steal,steal,111-89,111,89
+0021900456,2019-12-25,PHI,MIL,42.52,4,5,29,PHI,PHI,fg_miss,76,False,False,MISS Korkmaz 10' Running Finger Roll Layup,,111-89,111,89
+0021900456,2019-12-25,PHI,MIL,42.57,4,5,26,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:12),111-89,111,89
+0021900456,2019-12-25,PHI,MIL,42.7,4,5,18,MIL,MIL,fg_make,75,False,False,,Middleton 2' Driving Finger Roll Layup (22 PTS) (Antetokounmpo 7 AST),111-91,111,91
+0021900456,2019-12-25,PHI,MIL,43.03,4,4,58,PHI,PHI,fg_make,6,False,False,Simmons 3' Driving Layup (13 PTS),,113-91,113,91
+0021900456,2019-12-25,PHI,MIL,43.22,4,4,47,MIL,MIL,fg3_make,1,False,False,,Lopez 26' 3PT Jump Shot (11 PTS) (Middleton 2 AST),113-94,113,94
+0021900456,2019-12-25,PHI,MIL,43.52,4,4,29,PHI,PHI,fg_make,93,False,False,Simmons 2' Driving Bank Hook Shot (15 PTS),,115-94,115,94
+0021900456,2019-12-25,PHI,MIL,43.8,4,4,12,MIL,MIL,fg_make,52,False,False,,Antetokounmpo Alley Oop Dunk (18 PTS) (Middleton 3 AST),115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.08,4,3,55,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 28' 3PT Jump Shot,,115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.13,4,3,52,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.18,4,3,49,MIL,MIL,tov,2,False,True,,DiVincenzo Lost Ball Turnover (P1.T10),115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.18,4,3,49,MIL,PHI,steal,2,False,True,steal,steal,115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.35,4,3,39,PHI,PHI,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.4,4,3,36,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:3 Def:4),115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.47,4,3,32,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),115-96,115,96
+0021900456,2019-12-25,PHI,MIL,44.55,4,3,27,MIL,MIL,fg3_make,1,False,False,,Middleton 27' 3PT Jump Shot (25 PTS) (G. Hill 2 AST),115-99,115,99
+0021900456,2019-12-25,PHI,MIL,45.0,4,3,0,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,115-99,115,99
+0021900456,2019-12-25,PHI,MIL,45.05,4,2,57,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),115-99,115,99
+0021900456,2019-12-25,PHI,MIL,45.15,4,2,51,MIL,MIL,fg_make,74,False,False,,Brown 2' Running Reverse Layup (5 PTS),115-101,115,101
+0021900456,2019-12-25,PHI,MIL,45.32,4,2,41,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,115-101,115,101
+0021900456,2019-12-25,PHI,MIL,45.4,4,2,36,PHI,PHI,fg_miss,58,False,False,MISS Simmons 13' Turnaround Hook Shot,,115-101,115,101
+0021900456,2019-12-25,PHI,MIL,45.45,4,2,33,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:3),115-101,115,101
+0021900456,2019-12-25,PHI,MIL,45.58,4,2,25,MIL,MIL,fg3_make,1,False,False,,Middleton 26' 3PT Jump Shot (28 PTS),115-104,115,104
+0021900456,2019-12-25,PHI,MIL,45.95,4,2,3,PHI,PHI,fg_miss,80,False,False,MISS Embiid 19' Step Back Jump Shot,,115-104,115,104
+0021900456,2019-12-25,PHI,MIL,46.0,4,2,0,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:3 Def:5),115-104,115,104
+0021900456,2019-12-25,PHI,MIL,46.13,4,1,52,MIL,MIL,fg_make,108,False,False,,Brown 1' Cutting Dunk Shot (7 PTS) (Middleton 4 AST),115-106,115,106
+0021900456,2019-12-25,PHI,MIL,46.53,4,1,28,PHI,PHI,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (22 PTS),,118-106,118,106
+0021900456,2019-12-25,PHI,MIL,46.67,4,1,20,MIL,MIL,fg3_make,103,False,False,,Middleton 27' 3PT Running Pull-Up Jump Shot (31 PTS),118-109,118,109
+0021900456,2019-12-25,PHI,MIL,46.72,4,1,17,PHI,MIL,foul,28,False,False,,DiVincenzo Personal Take Foul (P2.T3) (D.Collins),118-109,118,109
+0021900456,2019-12-25,PHI,MIL,47.02,4,0,59,PHI,PHI,fg3_miss,79,False,False,MISS Richardson 26' 3PT Pullup Jump Shot,,118-109,118,109
+0021900456,2019-12-25,PHI,MIL,47.08,4,0,55,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:6),,118-109,118,109
+0021900456,2019-12-25,PHI,MIL,47.28,4,0,43,PHI,PHI,fg3_make,1,False,False,Horford 26' 3PT Jump Shot (11 PTS) (Richardson 4 AST),,121-109,121,109
+0021900456,2019-12-25,PHI,MIL,47.4,4,0,36,MIL,MIL,fg3_miss,103,False,False,,MISS Middleton 28' 3PT Running Pull-Up Jump Shot,121-109,121,109
+0021900456,2019-12-25,PHI,MIL,47.48,4,0,31,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:2 Def:8),,121-109,121,109
+0021900456,2019-12-25,PHI,MIL,47.82,4,0,11,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#8),,121-109,121,109
+0021900456,2019-12-25,PHI,MIL,48.0,4,0,0,PHI,,period_end,0,False,False,,,121-109,121,109

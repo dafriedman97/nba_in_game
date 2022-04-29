@@ -1,0 +1,455 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000511,2021-02-26,GSW,CHA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000511,2021-02-26,GSW,CHA,0.0,1,12,0,,GSW,jump_ball,0,False,False,Jump Ball Looney vs. Washington: Tip to Wiggins,,0-0,0,0
+0022000511,2021-02-26,GSW,CHA,0.23,1,11,46,GSW,GSW,fg_miss,86,False,False,MISS Wiggins 11' Turnaround Fadeaway Shot,,0-0,0,0
+0022000511,2021-02-26,GSW,CHA,0.25,1,11,45,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),0-0,0,0
+0022000511,2021-02-26,GSW,CHA,0.5,1,11,30,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 25' 3PT Pullup Jump Shot,0-0,0,0
+0022000511,2021-02-26,GSW,CHA,0.53,1,11,28,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:1),,0-0,0,0
+0022000511,2021-02-26,GSW,CHA,0.73,1,11,16,GSW,GSW,fg3_make,79,False,False,Oubre Jr. 3PT Pullup Jump Shot (3 PTS) (Wiggins 1 AST),,3-0,3,0
+0022000511,2021-02-26,GSW,CHA,1.07,1,10,56,CHA,CHA,fg_miss,57,False,False,,MISS Washington 9' Driving Hook Shot,3-0,3,0
+0022000511,2021-02-26,GSW,CHA,1.08,1,10,55,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:0),3-0,3,0
+0022000511,2021-02-26,GSW,CHA,1.08,1,10,55,CHA,CHA,fg_make,97,False,False,,Ball Tip Layup Shot (2 PTS),3-2,3,2
+0022000511,2021-02-26,GSW,CHA,1.3,1,10,42,GSW,GSW,tov,45,False,False,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,3-2,3,2
+0022000511,2021-02-26,GSW,CHA,1.5,1,10,30,CHA,CHA,fg_miss,98,False,False,,MISS Washington 4' Cutting Layup Shot,3-2,3,2
+0022000511,2021-02-26,GSW,CHA,1.53,1,10,28,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:1),,3-2,3,2
+0022000511,2021-02-26,GSW,CHA,1.62,1,10,23,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P1.T2),,3-2,3,2
+0022000511,2021-02-26,GSW,CHA,1.62,1,10,23,GSW,CHA,steal,1,False,True,steal,steal,3-2,3,2
+0022000511,2021-02-26,GSW,CHA,1.8,1,10,12,CHA,CHA,fg_make,63,False,False,,Rozier 10' Fadeaway Jumper (2 PTS) (Martin 1 AST),3-4,3,4
+0022000511,2021-02-26,GSW,CHA,2.1,1,9,54,GSW,GSW,fg_make,108,False,False,Oubre Jr. 2' Cutting Dunk Shot (5 PTS) (Green 1 AST),,5-4,5,4
+0022000511,2021-02-26,GSW,CHA,2.28,1,9,43,CHA,GSW,foul,14,False,False,Green FLAGRANT.FOUL.TYPE1 (P1.T1) (Z.Zarba),,5-4,5,4
+0022000511,2021-02-26,GSW,CHA,2.28,1,9,43,CHA,CHA,ft_make,18,False,False,,Washington Free Throw Flagrant 1 of 2 (1 PTS),5-5,5,5
+0022000511,2021-02-26,GSW,CHA,2.28,1,9,43,CHA,CHA,ft_make,19,False,False,,Washington Free Throw Flagrant 2 of 2 (2 PTS),5-6,5,6
+0022000511,2021-02-26,GSW,CHA,2.52,1,9,29,,GSW,jump_ball,0,False,False,Jump Ball Looney vs. Washington: Tip to Ball,,5-6,5,6
+0022000511,2021-02-26,GSW,CHA,2.6,1,9,24,CHA,CHA,fg_make,98,False,False,,Martin 3' Cutting Layup Shot (2 PTS) (Ball 1 AST),5-8,5,8
+0022000511,2021-02-26,GSW,CHA,2.85,1,9,9,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P2.T3),,5-8,5,8
+0022000511,2021-02-26,GSW,CHA,2.85,1,9,9,GSW,CHA,steal,1,False,True,steal,steal,5-8,5,8
+0022000511,2021-02-26,GSW,CHA,2.95,1,9,3,CHA,CHA,fg_miss,74,False,False,,MISS Martin 2' Running Reverse Layup,5-8,5,8
+0022000511,2021-02-26,GSW,CHA,2.97,1,9,2,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,5-8,5,8
+0022000511,2021-02-26,GSW,CHA,3.05,1,8,57,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 25' 3PT Jump Shot,,5-8,5,8
+0022000511,2021-02-26,GSW,CHA,3.08,1,8,55,CHA,CHA,reb,0,False,False,,Hornets Rebound,5-8,5,8
+0022000511,2021-02-26,GSW,CHA,3.25,1,8,45,CHA,CHA,fg_make,101,False,False,,Ball 11' Driving Floating Jump Shot (4 PTS),5-10,5,10
+0022000511,2021-02-26,GSW,CHA,3.5,1,8,30,GSW,GSW,fg_make,6,False,False,Wiggins 7' Driving Layup (2 PTS) (Looney 1 AST),,7-10,7,10
+0022000511,2021-02-26,GSW,CHA,3.5,1,8,30,GSW,CHA,foul,2,False,False,,Washington S.FOUL (P1.T1) (S.Twardoski),7-10,7,10
+0022000511,2021-02-26,GSW,CHA,3.5,1,8,30,GSW,GSW,ft_miss,10,False,False,MISS Wiggins Free Throw 1 of 1,,7-10,7,10
+0022000511,2021-02-26,GSW,CHA,3.52,1,8,29,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:1),,7-10,7,10
+0022000511,2021-02-26,GSW,CHA,3.58,1,8,25,GSW,GSW,fg_make,98,False,False,Wiggins 4' Cutting Layup Shot (4 PTS) (Green 2 AST),,9-10,9,10
+0022000511,2021-02-26,GSW,CHA,3.83,1,8,10,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,9-10,9,10
+0022000511,2021-02-26,GSW,CHA,3.87,1,8,8,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:2),,9-10,9,10
+0022000511,2021-02-26,GSW,CHA,3.93,1,8,4,GSW,GSW,fg_make,98,False,False,Curry 4' Cutting Layup Shot (2 PTS) (Green 3 AST),,11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.17,1,7,50,CHA,CHA,fg_miss,75,False,False,,MISS Rozier 3' Driving Finger Roll Layup,11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.18,1,7,49,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.42,1,7,35,GSW,GSW,tov,45,False,False,Curry Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.68,1,7,19,CHA,CHA,fg_miss,98,False,False,,MISS Martin 2' Cutting Layup Shot,11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.7,1,7,18,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:0),11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.82,1,7,11,CHA,CHA,tov,2,False,True,,Rozier Lost Ball Turnover (P1.T1),11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.82,1,7,11,CHA,GSW,steal,2,False,True,steal,steal,11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.85,1,7,9,GSW,CHA,foul,1,False,False,,Washington P.FOUL (P2.T2) (Z.Zarba),11-10,11,10
+0022000511,2021-02-26,GSW,CHA,4.98,1,7,1,GSW,GSW,fg_make,108,False,False,Looney 3' Cutting Dunk Shot (2 PTS) (Curry 1 AST),,13-10,13,10
+0022000511,2021-02-26,GSW,CHA,4.98,1,7,1,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),13-10,13,10
+0022000511,2021-02-26,GSW,CHA,5.32,1,6,41,CHA,CHA,fg_miss,5,False,False,,MISS Bridges 5' Layup,13-10,13,10
+0022000511,2021-02-26,GSW,CHA,5.33,1,6,40,CHA,CHA,reb,0,False,False,,Biyombo REBOUND (Off:1 Def:0),13-10,13,10
+0022000511,2021-02-26,GSW,CHA,5.33,1,6,40,CHA,GSW,foul,2,False,False,Oubre Jr. S.FOUL (P1.T2) (Z.Zarba),,13-10,13,10
+0022000511,2021-02-26,GSW,CHA,5.33,1,6,40,CHA,CHA,ft_miss,11,False,False,,MISS Biyombo Free Throw 1 of 2,13-10,13,10
+0022000511,2021-02-26,GSW,CHA,5.33,1,6,40,CHA,CHA,reb,1,False,False,,Hornets Rebound,13-10,13,10
+0022000511,2021-02-26,GSW,CHA,5.33,1,6,40,CHA,CHA,ft_make,12,False,False,,Biyombo Free Throw 2 of 2 (1 PTS),13-11,13,11
+0022000511,2021-02-26,GSW,CHA,5.57,1,6,26,GSW,GSW,fg_make,108,False,False,Oubre Jr. 2' Cutting Dunk Shot (7 PTS) (Green 4 AST),,15-11,15,11
+0022000511,2021-02-26,GSW,CHA,5.77,1,6,14,CHA,CHA,fg3_make,79,False,False,,Ball 26' 3PT Pullup Jump Shot (7 PTS) (Bridges 1 AST),15-14,15,14
+0022000511,2021-02-26,GSW,CHA,6.08,1,5,55,GSW,GSW,fg_make,7,False,False,Looney 2' Dunk (4 PTS) (Oubre Jr. 1 AST),,17-14,17,14
+0022000511,2021-02-26,GSW,CHA,6.48,1,5,31,CHA,CHA,fg_miss,98,False,False,,MISS Biyombo 3' Cutting Layup Shot,17-14,17,14
+0022000511,2021-02-26,GSW,CHA,6.5,1,5,30,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:1),,17-14,17,14
+0022000511,2021-02-26,GSW,CHA,6.73,1,5,16,GSW,GSW,fg_make,78,False,False,Green 7' Floating Jump Shot (2 PTS) (Curry 2 AST),,19-14,19,14
+0022000511,2021-02-26,GSW,CHA,7.03,1,4,58,CHA,GSW,foul,2,False,False,Green S.FOUL (P2.T3) (S.Twardoski),,19-14,19,14
+0022000511,2021-02-26,GSW,CHA,7.03,1,4,58,CHA,CHA,ft_make,11,False,False,,Bridges Free Throw 1 of 2 (1 PTS),19-15,19,15
+0022000511,2021-02-26,GSW,CHA,7.03,1,4,58,CHA,CHA,ft_miss,12,False,False,,MISS Bridges Free Throw 2 of 2,19-15,19,15
+0022000511,2021-02-26,GSW,CHA,7.05,1,4,57,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:3),,19-15,19,15
+0022000511,2021-02-26,GSW,CHA,7.23,1,4,46,GSW,GSW,fg_make,52,False,False,Oubre Jr. 2' Alley Oop Dunk (9 PTS) (Green 5 AST),,21-15,21,15
+0022000511,2021-02-26,GSW,CHA,7.58,1,4,25,CHA,CHA,fg3_make,79,False,False,,Monk 26' 3PT Pullup Jump Shot (3 PTS) (Hayward 1 AST),21-18,21,18
+0022000511,2021-02-26,GSW,CHA,7.87,1,4,8,GSW,GSW,fg_make,52,False,False,Oubre Jr. 2' Alley Oop Dunk (11 PTS) (Green 6 AST),,23-18,23,18
+0022000511,2021-02-26,GSW,CHA,8.17,1,3,50,CHA,GSW,foul,2,False,False,Bazemore S.FOUL (P1.T4) (S.Twardoski),,23-18,23,18
+0022000511,2021-02-26,GSW,CHA,8.17,1,3,50,CHA,CHA,ft_make,11,False,False,,Hayward Free Throw 1 of 2 (1 PTS),23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.17,1,3,50,CHA,CHA,ft_miss,12,False,False,,MISS Hayward Free Throw 2 of 2,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.18,1,3,49,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:1),,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.4,1,3,36,GSW,GSW,fg3_miss,1,False,False,MISS Curry 27' 3PT Jump Shot,,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.43,1,3,34,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:1),23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.57,1,3,26,CHA,CHA,tov,2,False,True,,Hayward Lost Ball Turnover (P1.T2),23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.57,1,3,26,CHA,GSW,steal,2,False,True,steal,steal,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.65,1,3,21,GSW,GSW,tov,1,False,True,Oubre Jr. Bad Pass Turnover (P1.T5),,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.65,1,3,21,GSW,CHA,steal,1,False,True,steal,steal,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.75,1,3,15,CHA,CHA,fg3_miss,79,False,False,,MISS Monk 31' 3PT Pullup Jump Shot,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.78,1,3,13,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:4),,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,8.97,1,3,2,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 29' 3PT Jump Shot,,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,9.0,1,3,0,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),23-19,23,19
+0022000511,2021-02-26,GSW,CHA,9.15,1,2,51,CHA,CHA,tov,1,False,True,,Monk Bad Pass Turnover (P1.T3),23-19,23,19
+0022000511,2021-02-26,GSW,CHA,9.15,1,2,51,CHA,GSW,steal,1,False,True,steal,steal,23-19,23,19
+0022000511,2021-02-26,GSW,CHA,9.22,1,2,47,GSW,GSW,fg_make,7,False,False,Wiseman 3' Dunk (2 PTS) (Curry 3 AST),,25-19,25,19
+0022000511,2021-02-26,GSW,CHA,9.52,1,2,29,CHA,CHA,fg3_make,79,False,False,,Ball 26' 3PT Pullup Jump Shot (10 PTS),25-22,25,22
+0022000511,2021-02-26,GSW,CHA,9.73,1,2,16,GSW,GSW,fg_make,58,False,False,Wiseman 7' Turnaround Hook Shot (4 PTS),,27-22,27,22
+0022000511,2021-02-26,GSW,CHA,9.92,1,2,5,CHA,CHA,fg_miss,101,False,False,,MISS Ball 18' Driving Floating Jump Shot,27-22,27,22
+0022000511,2021-02-26,GSW,CHA,9.93,1,2,4,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:5),,27-22,27,22
+0022000511,2021-02-26,GSW,CHA,10.02,1,1,59,GSW,GSW,fg_make,50,False,False,Oubre Jr. 4' Running Dunk (13 PTS) (Green 7 AST),,29-22,29,22
+0022000511,2021-02-26,GSW,CHA,10.18,1,1,49,CHA,CHA,fg3_miss,103,False,False,,MISS Ball 27' 3PT Running Pull-Up Jump Shot,29-22,29,22
+0022000511,2021-02-26,GSW,CHA,10.2,1,1,48,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:6),,29-22,29,22
+0022000511,2021-02-26,GSW,CHA,10.25,1,1,45,GSW,CHA,foul,1,False,False,,Bridges P.FOUL (P1.T3) (Z.Zarba),29-22,29,22
+0022000511,2021-02-26,GSW,CHA,10.25,1,1,45,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 1 Short 0),,29-22,29,22
+0022000511,2021-02-26,GSW,CHA,10.33,1,1,40,GSW,GSW,fg_make,9,False,False,Oubre Jr. 2' Driving Dunk (15 PTS) (Green 8 AST),,31-22,31,22
+0022000511,2021-02-26,GSW,CHA,10.58,1,1,25,CHA,GSW,foul,1,False,False,Bazemore P.FOUL (P2.PN) (Z.Zarba),,31-22,31,22
+0022000511,2021-02-26,GSW,CHA,10.58,1,1,25,CHA,CHA,ft_miss,11,False,False,,MISS Rozier Free Throw 1 of 2,31-22,31,22
+0022000511,2021-02-26,GSW,CHA,10.58,1,1,25,CHA,CHA,reb,1,False,False,,Hornets Rebound,31-22,31,22
+0022000511,2021-02-26,GSW,CHA,10.58,1,1,25,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (3 PTS),31-23,31,23
+0022000511,2021-02-26,GSW,CHA,10.8,1,1,12,GSW,GSW,fg_make,75,False,False,Green 7' Driving Finger Roll Layup (4 PTS) (Curry 4 AST),,33-23,33,23
+0022000511,2021-02-26,GSW,CHA,10.98,1,1,1,CHA,CHA,tov,45,False,False,,Monk Out of Bounds - Bad Pass Turnover Turnover (P2.T4),33-23,33,23
+0022000511,2021-02-26,GSW,CHA,11.17,1,0,50,GSW,GSW,tov,45,False,False,Bazemore Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,33-23,33,23
+0022000511,2021-02-26,GSW,CHA,11.45,1,0,33,CHA,CHA,fg3_make,79,False,False,,Monk 27' 3PT Pullup Jump Shot (6 PTS) (Bridges 2 AST),33-26,33,26
+0022000511,2021-02-26,GSW,CHA,11.68,1,0,19,GSW,GSW,fg3_make,79,False,False,Green 26' 3PT Pullup Jump Shot (7 PTS) (Curry 5 AST),,36-26,36,26
+0022000511,2021-02-26,GSW,CHA,11.97,1,0,2,CHA,GSW,foul,2,False,False,Wiseman S.FOUL (P1.PN) (S.Twardoski),,36-26,36,26
+0022000511,2021-02-26,GSW,CHA,11.97,1,0,2,CHA,CHA,ft_make,11,False,False,,Bridges Free Throw 1 of 2 (2 PTS),36-27,36,27
+0022000511,2021-02-26,GSW,CHA,11.97,1,0,2,CHA,CHA,ft_make,12,False,False,,Bridges Free Throw 2 of 2 (3 PTS),36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.0,1,0,0,GSW,GSW,fg3_miss,103,False,False,MISS Green 53' 3PT Running Pull-Up Jump Shot,,36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.0,1,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.0,1,0,0,GSW,,period_end,0,False,False,,,36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.0,2,12,0,GSW,,period_start,0,False,False,,,36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.2,2,11,48,CHA,CHA,fg_miss,108,False,False,,MISS Monk 1' Cutting Dunk Shot,36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.22,2,11,47,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:1),,36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.47,2,11,32,GSW,GSW,fg_miss,101,False,False,MISS Paschall 8' Driving Floating Jump Shot,,36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.48,2,11,31,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:1),36-28,36,28
+0022000511,2021-02-26,GSW,CHA,12.6,2,11,24,CHA,CHA,fg_make,5,False,False,,McDaniels 6' Layup (2 PTS),36-30,36,30
+0022000511,2021-02-26,GSW,CHA,12.85,2,11,9,GSW,GSW,tov,1,False,True,Wanamaker Bad Pass Turnover (P1.T7),,36-30,36,30
+0022000511,2021-02-26,GSW,CHA,12.85,2,11,9,GSW,CHA,steal,1,False,True,steal,steal,36-30,36,30
+0022000511,2021-02-26,GSW,CHA,13.07,2,10,56,CHA,CHA,tov,2,False,True,,Washington Lost Ball Turnover (P1.T5),36-30,36,30
+0022000511,2021-02-26,GSW,CHA,13.07,2,10,56,CHA,GSW,steal,2,False,True,steal,steal,36-30,36,30
+0022000511,2021-02-26,GSW,CHA,13.13,2,10,52,GSW,GSW,tov,2,False,True,Wiseman Lost Ball Turnover (P1.T8),,36-30,36,30
+0022000511,2021-02-26,GSW,CHA,13.13,2,10,52,GSW,CHA,steal,2,False,True,steal,steal,36-30,36,30
+0022000511,2021-02-26,GSW,CHA,13.25,2,10,45,CHA,CHA,fg3_make,79,False,False,,Rozier 3PT Pullup Jump Shot (6 PTS) (McDaniels 1 AST),36-33,36,33
+0022000511,2021-02-26,GSW,CHA,13.45,2,10,33,GSW,CHA,foul,1,False,False,,McDaniels P.FOUL (P1.T1) (S.Twardoski),36-33,36,33
+0022000511,2021-02-26,GSW,CHA,13.63,2,10,22,GSW,GSW,fg_make,9,False,False,Wiseman 3' Driving Dunk (6 PTS),,38-33,38,33
+0022000511,2021-02-26,GSW,CHA,13.82,2,10,11,CHA,CHA,fg_make,98,False,False,,Monk 4' Cutting Layup Shot (8 PTS) (Washington 1 AST),38-35,38,35
+0022000511,2021-02-26,GSW,CHA,13.98,2,10,1,GSW,CHA,foul,2,False,False,,Bridges S.FOUL (P2.T2) (Z.Zarba),38-35,38,35
+0022000511,2021-02-26,GSW,CHA,13.98,2,10,1,GSW,GSW,ft_make,11,False,False,Wiggins Free Throw 1 of 2 (5 PTS),,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,13.98,2,10,1,GSW,GSW,ft_miss,12,False,False,MISS Wiggins Free Throw 2 of 2,,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.0,2,10,0,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:1),39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.15,2,9,51,CHA,CHA,fg3_miss,79,False,False,,MISS Washington 28' 3PT Pullup Jump Shot,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.17,2,9,50,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.42,2,9,35,GSW,GSW,fg_miss,63,False,False,MISS Wiseman 16' Fadeaway Jumper,,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.43,2,9,34,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:0 Def:1),39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.53,2,9,28,CHA,GSW,foul,1,False,False,Wanamaker P.FOUL (P1.T1) (S.Twardoski),,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.73,2,9,16,CHA,CHA,fg3_miss,79,False,False,,MISS McDaniels 3PT Pullup Jump Shot,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.77,2,9,14,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:2),,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,14.9,2,9,6,GSW,CHA,foul,1,False,False,,Monk P.FOUL (P1.T3) (S.Twardoski),39-35,39,35
+0022000511,2021-02-26,GSW,CHA,15.02,2,8,59,GSW,GSW,tov,40,False,False,Paschall Out of Bounds Lost Ball Turnover (P1.T9),,39-35,39,35
+0022000511,2021-02-26,GSW,CHA,15.23,2,8,46,CHA,CHA,fg_make,108,False,False,,McDaniels 1' Cutting Dunk Shot (4 PTS) (Martin 2 AST),39-37,39,37
+0022000511,2021-02-26,GSW,CHA,15.45,2,8,33,GSW,GSW,tov,4,False,False,Wanamaker Traveling Turnover (P2.T10),,39-37,39,37
+0022000511,2021-02-26,GSW,CHA,15.6,2,8,24,CHA,CHA,fg3_miss,79,False,False,,MISS Washington 28' 3PT Pullup Jump Shot,39-37,39,37
+0022000511,2021-02-26,GSW,CHA,15.63,2,8,22,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:1),,39-37,39,37
+0022000511,2021-02-26,GSW,CHA,15.82,2,8,11,GSW,GSW,fg_miss,47,False,False,MISS Wiseman 11' Turnaround Jump Shot,,39-37,39,37
+0022000511,2021-02-26,GSW,CHA,15.83,2,8,10,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:0 Def:2),39-37,39,37
+0022000511,2021-02-26,GSW,CHA,15.93,2,8,4,CHA,CHA,fg3_make,80,False,False,,Monk 27' 3PT Step Back Jump Shot (11 PTS),39-40,39,40
+0022000511,2021-02-26,GSW,CHA,15.95,2,8,3,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 2 Short 0),,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,15.95,2,8,3,GSW,GSW,tov,9,False,False,WARRIORS Turnover: 5 Second Violation (T#11),,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.25,2,7,45,CHA,CHA,tov,1,False,True,,Martin Bad Pass Turnover (P1.T6),39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.25,2,7,45,CHA,GSW,steal,1,False,True,steal,steal,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.35,2,7,39,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 30' 3PT Jump Shot,,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.38,2,7,37,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:2),39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.7,2,7,18,CHA,CHA,fg3_miss,80,False,False,,MISS Monk 24' 3PT Step Back Jump Shot,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.73,2,7,16,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:3),,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.85,2,7,9,GSW,GSW,fg_miss,79,False,False,MISS Paschall 20' Pullup Jump Shot,,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,16.88,2,7,7,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:2),39-40,39,40
+0022000511,2021-02-26,GSW,CHA,17.02,2,6,59,CHA,CHA,fg_miss,98,False,False,,MISS McDaniels 2' Cutting Layup Shot,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,17.03,2,6,58,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:0 Def:4),,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,17.18,2,6,49,GSW,GSW,tov,13,False,False,Paschall Backcourt Turnover (P2.T12),,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,17.3,2,6,42,CHA,GSW,foul,2,False,False,Wiggins S.FOUL (P1.T2) (S.Twardoski),,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,17.3,2,6,42,CHA,CHA,ft_miss,11,False,False,,MISS Washington Free Throw 1 of 2,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,17.3,2,6,42,CHA,CHA,reb,1,False,False,,Hornets Rebound,39-40,39,40
+0022000511,2021-02-26,GSW,CHA,17.3,2,6,42,CHA,CHA,ft_make,12,False,False,,Washington Free Throw 2 of 2 (3 PTS),39-41,39,41
+0022000511,2021-02-26,GSW,CHA,17.55,2,6,27,GSW,GSW,fg_miss,75,False,False,MISS Wanamaker 5' Driving Finger Roll Layup,,39-41,39,41
+0022000511,2021-02-26,GSW,CHA,17.57,2,6,26,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:3),39-41,39,41
+0022000511,2021-02-26,GSW,CHA,17.65,2,6,21,CHA,CHA,tov,1,False,True,,Monk Bad Pass Turnover (P3.T7),39-41,39,41
+0022000511,2021-02-26,GSW,CHA,17.65,2,6,21,CHA,GSW,steal,1,False,True,steal,steal,39-41,39,41
+0022000511,2021-02-26,GSW,CHA,17.77,2,6,14,GSW,GSW,fg_miss,44,False,False,MISS Wanamaker 3' Reverse Layup,,39-41,39,41
+0022000511,2021-02-26,GSW,CHA,17.78,2,6,13,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:4),39-41,39,41
+0022000511,2021-02-26,GSW,CHA,17.87,2,6,8,CHA,CHA,fg_make,41,False,False,,Monk 1' Running Layup (13 PTS) (Ball 2 AST),39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.17,2,5,50,GSW,GSW,fg_miss,86,False,False,MISS Wiggins 12' Turnaround Fadeaway Shot,,39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.18,2,5,49,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:2),39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.35,2,5,39,CHA,CHA,fg_miss,6,True,False,,MISS McDaniels 4' Driving Layup,39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.35,2,5,39,CHA,GSW,block,6,True,False,block,block,39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.37,2,5,38,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.37,2,5,38,GSW,CHA,foul,28,False,False,,Martin Personal Take Foul (P1.T4) (J.Van Duyne),39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.52,2,5,29,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 25' 3PT Jump Shot,,39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.53,2,5,28,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:1 Def:3),39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.83,2,5,10,CHA,CHA,fg3_miss,1,False,False,,MISS Monk 29' 3PT Jump Shot,39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.87,2,5,8,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:1 Def:4),39-43,39,43
+0022000511,2021-02-26,GSW,CHA,18.93,2,5,4,CHA,CHA,tov,45,False,False,,Martin Out of Bounds - Bad Pass Turnover Turnover (P2.T8),39-43,39,43
+0022000511,2021-02-26,GSW,CHA,19.1,2,4,54,GSW,GSW,fg_make,6,False,False,Green 3' Driving Layup (9 PTS),,41-43,41,43
+0022000511,2021-02-26,GSW,CHA,19.33,2,4,40,CHA,CHA,fg_miss,98,False,False,,MISS Biyombo 3' Cutting Layup Shot,41-43,41,43
+0022000511,2021-02-26,GSW,CHA,19.35,2,4,39,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:2 Def:1),41-43,41,43
+0022000511,2021-02-26,GSW,CHA,19.47,2,4,32,GSW,CHA,foul,26,False,False,,McDaniels Offensive Charge Foul (P2.PN) (J.Van Duyne),41-43,41,43
+0022000511,2021-02-26,GSW,CHA,19.47,2,4,32,CHA,CHA,tov,37,False,False,,McDaniels Offensive Foul Turnover (P1.T9),41-43,41,43
+0022000511,2021-02-26,GSW,CHA,19.65,2,4,21,GSW,GSW,fg3_make,79,False,False,Lee 27' 3PT Pullup Jump Shot (3 PTS) (Curry 6 AST),,44-43,44,43
+0022000511,2021-02-26,GSW,CHA,19.7,2,4,18,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),44-43,44,43
+0022000511,2021-02-26,GSW,CHA,19.95,2,4,3,CHA,CHA,fg_miss,3,False,False,,MISS Biyombo 7' Hook Shot,44-43,44,43
+0022000511,2021-02-26,GSW,CHA,19.97,2,4,2,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:2 Def:3),44-43,44,43
+0022000511,2021-02-26,GSW,CHA,20.05,2,3,57,CHA,CHA,fg_miss,107,False,False,,MISS Ball Tip Dunk Shot,44-43,44,43
+0022000511,2021-02-26,GSW,CHA,20.07,2,3,56,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,44-43,44,43
+0022000511,2021-02-26,GSW,CHA,20.28,2,3,43,GSW,GSW,fg_miss,57,True,False,MISS Oubre Jr. 6' Driving Hook Shot,,44-43,44,43
+0022000511,2021-02-26,GSW,CHA,20.28,2,3,43,GSW,CHA,block,57,True,False,block,block,44-43,44,43
+0022000511,2021-02-26,GSW,CHA,20.32,2,3,41,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:1 Def:2),,44-43,44,43
+0022000511,2021-02-26,GSW,CHA,20.38,2,3,37,GSW,GSW,fg3_make,79,False,False,Lee 3PT Pullup Jump Shot (6 PTS),,47-43,47,43
+0022000511,2021-02-26,GSW,CHA,20.72,2,3,17,CHA,CHA,fg_make,79,False,False,,Hayward 12' Pullup Jump Shot (3 PTS),47-45,47,45
+0022000511,2021-02-26,GSW,CHA,21.03,2,2,58,GSW,GSW,fg3_make,79,False,False,Curry 27' 3PT Pullup Jump Shot (5 PTS) (Green 9 AST),,50-45,50,45
+0022000511,2021-02-26,GSW,CHA,21.28,2,2,43,CHA,CHA,fg_miss,6,False,False,,MISS Hayward 3' Driving Layup,50-45,50,45
+0022000511,2021-02-26,GSW,CHA,21.28,2,2,43,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,50-45,50,45
+0022000511,2021-02-26,GSW,CHA,21.28,2,2,43,GSW,CHA,foul,3,False,False,,Ball L.B.FOUL (P1.PN) (J.Van Duyne),50-45,50,45
+0022000511,2021-02-26,GSW,CHA,21.28,2,2,43,GSW,GSW,ft_make,11,False,False,Lee Free Throw 1 of 2 (7 PTS),,51-45,51,45
+0022000511,2021-02-26,GSW,CHA,21.28,2,2,43,GSW,GSW,ft_make,12,False,False,Lee Free Throw 2 of 2 (8 PTS),,52-45,52,45
+0022000511,2021-02-26,GSW,CHA,21.48,2,2,31,CHA,CHA,fg_miss,80,False,False,,MISS Hayward 21' Step Back Jump Shot,52-45,52,45
+0022000511,2021-02-26,GSW,CHA,21.52,2,2,29,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,52-45,52,45
+0022000511,2021-02-26,GSW,CHA,21.65,2,2,21,GSW,GSW,fg_make,75,False,False,Curry 6' Driving Finger Roll Layup (7 PTS) (Green 10 AST),,54-45,54,45
+0022000511,2021-02-26,GSW,CHA,21.93,2,2,4,CHA,CHA,fg_make,57,False,False,,Ball 9' Driving Hook Shot (12 PTS),54-47,54,47
+0022000511,2021-02-26,GSW,CHA,22.17,2,1,50,GSW,CHA,foul,2,False,False,,Ball S.FOUL (P2.PN) (J.Van Duyne),54-47,54,47
+0022000511,2021-02-26,GSW,CHA,22.17,2,1,50,GSW,CHA,foul,11,False,False,,Ball T.FOUL (P2.PN) (Z.Zarba),54-47,54,47
+0022000511,2021-02-26,GSW,CHA,22.17,2,1,50,GSW,GSW,ft_make,16,False,False,Curry Free Throw Technical (8 PTS),,55-47,55,47
+0022000511,2021-02-26,GSW,CHA,22.17,2,1,50,GSW,GSW,ft_make,11,False,False,Looney Free Throw 1 of 2 (5 PTS),,56-47,56,47
+0022000511,2021-02-26,GSW,CHA,22.17,2,1,50,GSW,GSW,ft_make,12,False,False,Looney Free Throw 2 of 2 (6 PTS),,57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.28,2,1,43,CHA,CHA,fg_miss,6,True,False,,MISS Ball 4' Driving Layup,57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.28,2,1,43,CHA,GSW,block,6,True,False,block,block,57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.32,2,1,41,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:3),,57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.47,2,1,32,GSW,GSW,fg3_miss,79,False,False,MISS Curry 32' 3PT Pullup Jump Shot,,57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.5,2,1,30,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.58,2,1,25,CHA,CHA,tov,2,False,True,,Bridges Lost Ball Turnover (P1.T10),57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.58,2,1,25,CHA,GSW,steal,2,False,True,steal,steal,57-47,57,47
+0022000511,2021-02-26,GSW,CHA,22.65,2,1,21,GSW,GSW,fg_make,41,False,False,Curry 4' Running Layup (10 PTS),,59-47,59,47
+0022000511,2021-02-26,GSW,CHA,22.75,2,1,15,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P1.T11),59-47,59,47
+0022000511,2021-02-26,GSW,CHA,22.75,2,1,15,CHA,GSW,steal,1,False,True,steal,steal,59-47,59,47
+0022000511,2021-02-26,GSW,CHA,22.8,2,1,12,GSW,GSW,fg3_miss,79,False,False,MISS Curry 31' 3PT Pullup Jump Shot,,59-47,59,47
+0022000511,2021-02-26,GSW,CHA,22.83,2,1,10,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),59-47,59,47
+0022000511,2021-02-26,GSW,CHA,23.02,2,0,59,CHA,CHA,fg3_make,1,False,False,,Hayward 27' 3PT Jump Shot (6 PTS) (Bridges 3 AST),59-50,59,50
+0022000511,2021-02-26,GSW,CHA,23.3,2,0,42,GSW,GSW,fg_miss,104,False,False,MISS Curry 15' Step Back Bank Jump Shot,,59-50,59,50
+0022000511,2021-02-26,GSW,CHA,23.33,2,0,40,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:3),,59-50,59,50
+0022000511,2021-02-26,GSW,CHA,23.38,2,0,37,GSW,GSW,fg_make,79,False,False,Oubre Jr. 11' Pullup Jump Shot (17 PTS),,61-50,61,50
+0022000511,2021-02-26,GSW,CHA,23.5,2,0,30,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 3PT Jump Shot,61-50,61,50
+0022000511,2021-02-26,GSW,CHA,23.53,2,0,28,CHA,CHA,reb,0,False,False,,Hornets Rebound,61-50,61,50
+0022000511,2021-02-26,GSW,CHA,23.67,2,0,20,CHA,GSW,foul,2,False,False,Looney S.FOUL (P1.T3) (J.Van Duyne),,61-50,61,50
+0022000511,2021-02-26,GSW,CHA,23.67,2,0,20,CHA,CHA,ft_miss,11,False,False,,MISS Ball Free Throw 1 of 2,61-50,61,50
+0022000511,2021-02-26,GSW,CHA,23.67,2,0,20,CHA,CHA,reb,1,False,False,,Hornets Rebound,61-50,61,50
+0022000511,2021-02-26,GSW,CHA,23.67,2,0,20,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (13 PTS),61-51,61,51
+0022000511,2021-02-26,GSW,CHA,23.93,2,0,4,GSW,GSW,fg3_make,79,False,False,Curry 26' 3PT Pullup Jump Shot (13 PTS) (Green 11 AST),,64-51,64,51
+0022000511,2021-02-26,GSW,CHA,23.93,2,0,4,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P2.T12),64-51,64,51
+0022000511,2021-02-26,GSW,CHA,23.93,2,0,4,CHA,GSW,steal,1,False,True,steal,steal,64-51,64,51
+0022000511,2021-02-26,GSW,CHA,23.95,2,0,3,GSW,CHA,foul,2,False,False,,Ball S.FOUL (P3.PN) (J.Van Duyne),64-51,64,51
+0022000511,2021-02-26,GSW,CHA,23.95,2,0,3,GSW,GSW,ft_make,11,False,False,Lee Free Throw 1 of 2 (9 PTS),,65-51,65,51
+0022000511,2021-02-26,GSW,CHA,23.95,2,0,3,GSW,GSW,ft_make,12,False,False,Lee Free Throw 2 of 2 (10 PTS),,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,23.98,2,0,1,CHA,CHA,fg3_miss,79,False,False,,MISS Ball 41' 3PT Pullup Jump Shot,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.0,2,0,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.0,2,0,0,CHA,,period_end,0,False,False,,,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.0,3,12,0,CHA,,period_start,0,False,False,,,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.15,3,11,51,CHA,CHA,fg_miss,1,False,False,,MISS Hayward 17' Jump Shot,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.18,3,11,49,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:7),,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.52,3,11,29,GSW,GSW,fg_miss,1,False,False,MISS Wiggins 16' Jump Shot,,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.53,3,11,28,CHA,CHA,reb,0,False,False,,Hornets Rebound,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.53,3,11,28,CHA,GSW,foul,3,False,False,Looney L.B.FOUL (P2.T1) (Z.Zarba),,66-51,66,51
+0022000511,2021-02-26,GSW,CHA,24.78,3,11,13,CHA,CHA,fg3_make,79,False,False,,Washington 3PT Pullup Jump Shot (6 PTS) (Rozier 1 AST),66-54,66,54
+0022000511,2021-02-26,GSW,CHA,25.18,3,10,49,GSW,GSW,fg_make,99,False,False,Curry 8' Cutting Finger Roll Layup Shot (15 PTS) (Green 12 AST),,68-54,68,54
+0022000511,2021-02-26,GSW,CHA,25.48,3,10,31,CHA,CHA,fg_make,66,False,False,,Washington 6' Jump Bank Shot (8 PTS) (Rozier 2 AST),68-56,68,56
+0022000511,2021-02-26,GSW,CHA,25.72,3,10,17,GSW,CHA,foul,2,False,False,,Hayward S.FOUL (P1.T1) (S.Twardoski),68-56,68,56
+0022000511,2021-02-26,GSW,CHA,25.72,3,10,17,GSW,GSW,ft_make,11,False,False,Looney Free Throw 1 of 2 (7 PTS),,69-56,69,56
+0022000511,2021-02-26,GSW,CHA,25.72,3,10,17,GSW,GSW,ft_make,12,False,False,Looney Free Throw 2 of 2 (8 PTS),,70-56,70,56
+0022000511,2021-02-26,GSW,CHA,25.92,3,10,5,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,70-56,70,56
+0022000511,2021-02-26,GSW,CHA,25.95,3,10,3,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:2 Def:4),70-56,70,56
+0022000511,2021-02-26,GSW,CHA,26.05,3,9,57,CHA,CHA,fg3_make,79,False,False,,Ball 28' 3PT Pullup Jump Shot (16 PTS) (Washington 2 AST),70-59,70,59
+0022000511,2021-02-26,GSW,CHA,26.23,3,9,46,GSW,GSW,fg_make,98,False,False,Looney 2' Cutting Layup Shot (10 PTS) (Green 13 AST),,72-59,72,59
+0022000511,2021-02-26,GSW,CHA,26.47,3,9,32,CHA,CHA,fg3_make,79,False,False,,Washington 29' 3PT Pullup Jump Shot (11 PTS) (Ball 3 AST),72-62,72,62
+0022000511,2021-02-26,GSW,CHA,26.75,3,9,15,GSW,GSW,fg_make,108,False,False,Wiggins 2' Cutting Dunk Shot (7 PTS) (Curry 7 AST),,74-62,74,62
+0022000511,2021-02-26,GSW,CHA,26.88,3,9,7,CHA,CHA,fg3_make,79,False,False,,Hayward 29' 3PT Pullup Jump Shot (9 PTS) (Ball 4 AST),74-65,74,65
+0022000511,2021-02-26,GSW,CHA,27.33,3,8,40,GSW,GSW,fg3_miss,80,False,False,MISS Wiggins 3PT Step Back Jump Shot,,74-65,74,65
+0022000511,2021-02-26,GSW,CHA,27.37,3,8,38,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:2 Def:4),74-65,74,65
+0022000511,2021-02-26,GSW,CHA,27.7,3,8,18,CHA,CHA,fg_make,108,False,False,,Martin 3' Cutting Dunk Shot (4 PTS) (Hayward 2 AST),74-67,74,67
+0022000511,2021-02-26,GSW,CHA,27.7,3,8,18,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,74-67,74,67
+0022000511,2021-02-26,GSW,CHA,27.9,3,8,6,GSW,GSW,fg_make,98,False,False,Green 1' Cutting Layup Shot (11 PTS) (Wiggins 2 AST),,76-67,76,67
+0022000511,2021-02-26,GSW,CHA,28.1,3,7,54,CHA,CHA,fg3_miss,79,False,False,,MISS Ball 27' 3PT Pullup Jump Shot,76-67,76,67
+0022000511,2021-02-26,GSW,CHA,28.13,3,7,52,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:3),,76-67,76,67
+0022000511,2021-02-26,GSW,CHA,28.33,3,7,40,GSW,GSW,fg_make,75,False,False,Oubre Jr. 2' Driving Finger Roll Layup (19 PTS) (Green 14 AST),,78-67,78,67
+0022000511,2021-02-26,GSW,CHA,28.57,3,7,26,CHA,CHA,fg_miss,79,False,False,,MISS Hayward 18' Pullup Jump Shot,78-67,78,67
+0022000511,2021-02-26,GSW,CHA,28.58,3,7,25,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:8),,78-67,78,67
+0022000511,2021-02-26,GSW,CHA,28.82,3,7,11,GSW,GSW,fg3_miss,1,False,False,MISS Curry 3PT Jump Shot,,78-67,78,67
+0022000511,2021-02-26,GSW,CHA,28.85,3,7,9,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:2 Def:2),78-67,78,67
+0022000511,2021-02-26,GSW,CHA,29.03,3,6,58,CHA,CHA,fg_miss,6,False,False,,MISS Hayward 6' Driving Layup,78-67,78,67
+0022000511,2021-02-26,GSW,CHA,29.05,3,6,57,CHA,CHA,reb,0,False,False,,Hornets Rebound,78-67,78,67
+0022000511,2021-02-26,GSW,CHA,29.05,3,6,57,CHA,CHA,tov,4,False,False,,Hayward Traveling Turnover (P2.T13),78-67,78,67
+0022000511,2021-02-26,GSW,CHA,29.18,3,6,49,GSW,GSW,fg_miss,6,False,False,MISS Wiggins 2' Driving Layup,,78-67,78,67
+0022000511,2021-02-26,GSW,CHA,29.2,3,6,48,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:2 Def:5),78-67,78,67
+0022000511,2021-02-26,GSW,CHA,29.3,3,6,42,CHA,CHA,fg_make,6,False,False,,Rozier 3' Driving Layup (8 PTS) (Ball 5 AST),78-69,78,69
+0022000511,2021-02-26,GSW,CHA,29.5,3,6,30,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P2.T13),,78-69,78,69
+0022000511,2021-02-26,GSW,CHA,29.5,3,6,30,GSW,CHA,steal,1,False,True,steal,steal,78-69,78,69
+0022000511,2021-02-26,GSW,CHA,29.58,3,6,25,CHA,CHA,fg_make,50,False,False,,Martin 3' Running Dunk (6 PTS) (Hayward 3 AST),78-71,78,71
+0022000511,2021-02-26,GSW,CHA,29.8,3,6,12,GSW,GSW,fg3_make,79,False,False,Wiggins 3PT Pullup Jump Shot (10 PTS) (Oubre Jr. 2 AST),,81-71,81,71
+0022000511,2021-02-26,GSW,CHA,30.18,3,5,49,CHA,CHA,fg3_miss,80,False,False,,MISS Rozier 26' 3PT Step Back Jump Shot,81-71,81,71
+0022000511,2021-02-26,GSW,CHA,30.22,3,5,47,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:4),,81-71,81,71
+0022000511,2021-02-26,GSW,CHA,30.35,3,5,39,GSW,CHA,foul,2,False,False,,Washington S.FOUL (P3.T2) (Z.Zarba),81-71,81,71
+0022000511,2021-02-26,GSW,CHA,30.35,3,5,39,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (16 PTS),,82-71,82,71
+0022000511,2021-02-26,GSW,CHA,30.35,3,5,39,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (17 PTS),,83-71,83,71
+0022000511,2021-02-26,GSW,CHA,30.62,3,5,23,CHA,CHA,fg_make,63,False,False,,Rozier 19' Fadeaway Jumper (10 PTS),83-73,83,73
+0022000511,2021-02-26,GSW,CHA,31.0,3,5,0,GSW,GSW,fg_make,7,False,False,Wiseman 1' Dunk (8 PTS) (Oubre Jr. 3 AST),,85-73,85,73
+0022000511,2021-02-26,GSW,CHA,31.28,3,4,43,CHA,GSW,foul,2,False,False,Green S.FOUL (P3.T2) (Z.Zarba),,85-73,85,73
+0022000511,2021-02-26,GSW,CHA,31.28,3,4,43,CHA,CHA,ft_miss,11,False,False,,MISS Monk Free Throw 1 of 2,85-73,85,73
+0022000511,2021-02-26,GSW,CHA,31.28,3,4,43,CHA,CHA,reb,1,False,False,,Hornets Rebound,85-73,85,73
+0022000511,2021-02-26,GSW,CHA,31.28,3,4,43,CHA,CHA,ft_make,12,False,False,,Monk Free Throw 2 of 2 (14 PTS),85-74,85,74
+0022000511,2021-02-26,GSW,CHA,31.52,3,4,29,GSW,GSW,fg_make,75,False,False,Curry 3' Driving Finger Roll Layup (19 PTS),,87-74,87,74
+0022000511,2021-02-26,GSW,CHA,31.75,3,4,15,CHA,CHA,fg3_make,79,False,False,,Monk 27' 3PT Pullup Jump Shot (17 PTS) (McDaniels 2 AST),87-77,87,77
+0022000511,2021-02-26,GSW,CHA,32.0,3,4,0,GSW,GSW,fg_make,78,False,False,Wiggins 7' Floating Jump Shot (12 PTS) (Green 15 AST),,89-77,89,77
+0022000511,2021-02-26,GSW,CHA,32.22,3,3,47,CHA,CHA,fg3_make,79,False,False,,Hayward 30' 3PT Pullup Jump Shot (12 PTS) (Bridges 4 AST),89-80,89,80
+0022000511,2021-02-26,GSW,CHA,32.38,3,3,37,GSW,CHA,foul,2,False,False,,McDaniels S.FOUL (P3.T3) (J.Van Duyne),89-80,89,80
+0022000511,2021-02-26,GSW,CHA,32.38,3,3,37,GSW,GSW,ft_make,13,False,False,Curry Free Throw 1 of 3 (20 PTS),,90-80,90,80
+0022000511,2021-02-26,GSW,CHA,32.38,3,3,37,GSW,GSW,ft_make,14,False,False,Curry Free Throw 2 of 3 (21 PTS),,91-80,91,80
+0022000511,2021-02-26,GSW,CHA,32.38,3,3,37,GSW,GSW,ft_make,15,False,False,Curry Free Throw 3 of 3 (22 PTS),,92-80,92,80
+0022000511,2021-02-26,GSW,CHA,32.67,3,3,20,CHA,CHA,fg_miss,5,True,False,,MISS McDaniels 7' Layup,92-80,92,80
+0022000511,2021-02-26,GSW,CHA,32.67,3,3,20,CHA,GSW,block,5,True,False,block,block,92-80,92,80
+0022000511,2021-02-26,GSW,CHA,32.7,3,3,18,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:1 Def:2),92-80,92,80
+0022000511,2021-02-26,GSW,CHA,32.78,3,3,13,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#14),92-80,92,80
+0022000511,2021-02-26,GSW,CHA,32.92,3,3,5,GSW,GSW,fg_make,5,False,False,Wiseman 2' Layup (10 PTS) (Green 16 AST),,94-80,94,80
+0022000511,2021-02-26,GSW,CHA,32.92,3,3,5,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),94-80,94,80
+0022000511,2021-02-26,GSW,CHA,33.07,3,2,56,CHA,CHA,tov,45,False,False,,Bridges Out of Bounds - Bad Pass Turnover Turnover (P2.T15),94-80,94,80
+0022000511,2021-02-26,GSW,CHA,33.15,3,2,51,GSW,CHA,foul,1,False,False,,Rozier P.FOUL (P1.T4) (J.Van Duyne),94-80,94,80
+0022000511,2021-02-26,GSW,CHA,33.25,3,2,45,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P3.T14),,94-80,94,80
+0022000511,2021-02-26,GSW,CHA,33.25,3,2,45,GSW,CHA,steal,1,False,True,steal,steal,94-80,94,80
+0022000511,2021-02-26,GSW,CHA,33.33,3,2,40,CHA,CHA,fg_make,50,False,False,,Bridges 2' Running Dunk (5 PTS) (Rozier 3 AST),94-82,94,82
+0022000511,2021-02-26,GSW,CHA,33.58,3,2,25,GSW,GSW,fg_make,52,False,False,Wiseman 2' Alley Oop Dunk (12 PTS) (Green 17 AST),,96-82,96,82
+0022000511,2021-02-26,GSW,CHA,33.73,3,2,16,CHA,CHA,fg3_miss,1,False,False,,MISS Monk 3PT Jump Shot,96-82,96,82
+0022000511,2021-02-26,GSW,CHA,33.77,3,2,14,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:2 Def:2),96-82,96,82
+0022000511,2021-02-26,GSW,CHA,33.82,3,2,11,CHA,CHA,fg_make,98,False,False,,Bridges 3' Cutting Layup Shot (7 PTS) (Monk 1 AST),96-84,96,84
+0022000511,2021-02-26,GSW,CHA,34.18,3,1,49,GSW,GSW,fg3_make,80,False,False,Curry 27' 3PT Step Back Jump Shot (25 PTS),,99-84,99,84
+0022000511,2021-02-26,GSW,CHA,34.45,3,1,33,CHA,CHA,tov,2,False,True,,Rozier Lost Ball Turnover (P2.T16),99-84,99,84
+0022000511,2021-02-26,GSW,CHA,34.45,3,1,33,CHA,GSW,steal,2,False,True,steal,steal,99-84,99,84
+0022000511,2021-02-26,GSW,CHA,34.53,3,1,28,GSW,GSW,fg_make,50,False,False,Wiseman 1' Running Dunk (14 PTS) (Curry 8 AST),,101-84,101,84
+0022000511,2021-02-26,GSW,CHA,34.93,3,1,4,CHA,CHA,tov,40,False,False,,Bridges Out of Bounds Lost Ball Turnover (P3.T17),101-84,101,84
+0022000511,2021-02-26,GSW,CHA,35.1,3,0,54,GSW,GSW,tov,4,False,False,Green Traveling Turnover (P4.T15),,101-84,101,84
+0022000511,2021-02-26,GSW,CHA,35.3,3,0,42,CHA,CHA,fg3_miss,79,False,False,,MISS Bridges 3PT Pullup Jump Shot,101-84,101,84
+0022000511,2021-02-26,GSW,CHA,35.33,3,0,40,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:1 Def:1),101-84,101,84
+0022000511,2021-02-26,GSW,CHA,35.47,3,0,32,CHA,CHA,fg3_miss,79,False,False,,MISS McDaniels 3PT Pullup Jump Shot,101-84,101,84
+0022000511,2021-02-26,GSW,CHA,35.5,3,0,30,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:9),,101-84,101,84
+0022000511,2021-02-26,GSW,CHA,35.62,3,0,23,GSW,CHA,foul,2,False,False,,McDaniels S.FOUL (P4.PN) (Z.Zarba),101-84,101,84
+0022000511,2021-02-26,GSW,CHA,35.62,3,0,23,GSW,GSW,ft_make,11,False,False,Wiseman Free Throw 1 of 2 (15 PTS),,102-84,102,84
+0022000511,2021-02-26,GSW,CHA,35.62,3,0,23,GSW,GSW,ft_make,12,False,False,Wiseman Free Throw 2 of 2 (16 PTS),,103-84,103,84
+0022000511,2021-02-26,GSW,CHA,35.97,3,0,2,CHA,CHA,tov,4,False,False,,Bridges Traveling Turnover (P4.T18),103-84,103,84
+0022000511,2021-02-26,GSW,CHA,36.0,3,0,0,GSW,GSW,fg3_miss,103,False,False,MISS Curry 42' 3PT Running Pull-Up Jump Shot,,103-84,103,84
+0022000511,2021-02-26,GSW,CHA,36.0,3,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,103-84,103,84
+0022000511,2021-02-26,GSW,CHA,36.0,3,0,0,GSW,,period_end,0,False,False,,,103-84,103,84
+0022000511,2021-02-26,GSW,CHA,36.0,4,12,0,GSW,,period_start,0,False,False,,,103-84,103,84
+0022000511,2021-02-26,GSW,CHA,36.17,4,11,50,GSW,GSW,tov,40,False,False,Wiseman Out of Bounds Lost Ball Turnover (P2.T16),,103-84,103,84
+0022000511,2021-02-26,GSW,CHA,36.3,4,11,42,CHA,GSW,foul,1,False,False,Wanamaker P.FOUL (P2.T1) (Z.Zarba),,103-84,103,84
+0022000511,2021-02-26,GSW,CHA,36.48,4,11,31,CHA,CHA,fg_make,6,False,False,,Monk 4' Driving Layup (19 PTS) (Washington 3 AST),103-86,103,86
+0022000511,2021-02-26,GSW,CHA,36.48,4,11,31,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,103-86,103,86
+0022000511,2021-02-26,GSW,CHA,36.77,4,11,14,GSW,GSW,fg_miss,47,False,False,MISS Wiseman 10' Turnaround Jump Shot,,103-86,103,86
+0022000511,2021-02-26,GSW,CHA,36.78,4,11,13,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:2 Def:6),103-86,103,86
+0022000511,2021-02-26,GSW,CHA,37.02,4,10,59,CHA,GSW,foul,2,False,False,Lee S.FOUL (P1.T2) (J.Van Duyne),,103-86,103,86
+0022000511,2021-02-26,GSW,CHA,37.02,4,10,59,CHA,CHA,ft_make,11,False,False,,Washington Free Throw 1 of 2 (12 PTS),103-87,103,87
+0022000511,2021-02-26,GSW,CHA,37.02,4,10,59,CHA,CHA,ft_make,12,False,False,,Washington Free Throw 2 of 2 (13 PTS),103-88,103,88
+0022000511,2021-02-26,GSW,CHA,37.33,4,10,40,GSW,GSW,fg_make,108,False,False,Wanamaker 2' Cutting Dunk Shot (2 PTS) (Toscano-Anderson 1 AST),,105-88,105,88
+0022000511,2021-02-26,GSW,CHA,37.67,4,10,20,CHA,CHA,fg3_miss,79,False,False,,MISS Ball 27' 3PT Pullup Jump Shot,105-88,105,88
+0022000511,2021-02-26,GSW,CHA,37.7,4,10,18,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:2),,105-88,105,88
+0022000511,2021-02-26,GSW,CHA,37.85,4,10,9,GSW,GSW,tov,2,False,True,Paschall Lost Ball Turnover (P3.T17),,105-88,105,88
+0022000511,2021-02-26,GSW,CHA,37.85,4,10,9,GSW,CHA,steal,2,False,True,steal,steal,105-88,105,88
+0022000511,2021-02-26,GSW,CHA,38.02,4,9,59,CHA,CHA,fg_make,6,False,False,,Monk 3' Driving Layup (21 PTS),105-90,105,90
+0022000511,2021-02-26,GSW,CHA,38.32,4,9,41,GSW,GSW,fg3_make,79,False,False,Wiggins 26' 3PT Pullup Jump Shot (15 PTS) (Paschall 1 AST),,108-90,108,90
+0022000511,2021-02-26,GSW,CHA,38.67,4,9,20,CHA,CHA,fg_miss,47,False,False,,MISS Hayward 11' Turnaround Jump Shot,108-90,108,90
+0022000511,2021-02-26,GSW,CHA,38.68,4,9,19,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:0 Def:2),,108-90,108,90
+0022000511,2021-02-26,GSW,CHA,38.78,4,9,13,GSW,GSW,tov,1,False,True,Wiggins Bad Pass Turnover (P1.T18),,108-90,108,90
+0022000511,2021-02-26,GSW,CHA,38.78,4,9,13,GSW,CHA,steal,1,False,True,steal,steal,108-90,108,90
+0022000511,2021-02-26,GSW,CHA,38.83,4,9,10,CHA,CHA,fg3_make,103,False,False,,Monk 28' 3PT Running Pull-Up Jump Shot (24 PTS),108-93,108,93
+0022000511,2021-02-26,GSW,CHA,39.18,4,8,49,GSW,GSW,fg_miss,57,False,False,MISS Wiggins 8' Driving Hook Shot,,108-93,108,93
+0022000511,2021-02-26,GSW,CHA,39.2,4,8,48,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:2 Def:3),108-93,108,93
+0022000511,2021-02-26,GSW,CHA,39.27,4,8,44,CHA,CHA,fg3_miss,1,False,False,,MISS Monk 28' 3PT Jump Shot,108-93,108,93
+0022000511,2021-02-26,GSW,CHA,39.3,4,8,42,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:3),,108-93,108,93
+0022000511,2021-02-26,GSW,CHA,39.55,4,8,27,GSW,GSW,fg_make,101,False,False,Paschall 6' Driving Floating Jump Shot (2 PTS) (Wiggins 3 AST),,110-93,110,93
+0022000511,2021-02-26,GSW,CHA,39.82,4,8,11,CHA,CHA,fg_make,108,False,False,,Martin 2' Cutting Dunk Shot (8 PTS) (Washington 4 AST),110-95,110,95
+0022000511,2021-02-26,GSW,CHA,40.18,4,7,49,GSW,GSW,fg_make,101,False,False,Paschall 6' Driving Floating Jump Shot (4 PTS),,112-95,112,95
+0022000511,2021-02-26,GSW,CHA,40.33,4,7,40,CHA,CHA,fg_miss,78,False,False,,MISS Ball 7' Floating Jump Shot,112-95,112,95
+0022000511,2021-02-26,GSW,CHA,40.35,4,7,39,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:3 Def:4),112-95,112,95
+0022000511,2021-02-26,GSW,CHA,40.42,4,7,35,CHA,GSW,foul,2,False,False,Wiggins S.FOUL (P2.T3) (Z.Zarba),,112-95,112,95
+0022000511,2021-02-26,GSW,CHA,40.42,4,7,35,CHA,CHA,ft_miss,11,False,False,,MISS Monk Free Throw 1 of 2,112-95,112,95
+0022000511,2021-02-26,GSW,CHA,40.42,4,7,35,CHA,CHA,reb,1,False,False,,Hornets Rebound,112-95,112,95
+0022000511,2021-02-26,GSW,CHA,40.42,4,7,35,CHA,CHA,ft_make,12,False,False,,Monk Free Throw 2 of 2 (25 PTS),112-96,112,96
+0022000511,2021-02-26,GSW,CHA,40.55,4,7,27,GSW,GSW,tov,1,False,True,Wiggins Bad Pass Turnover (P2.T19),,112-96,112,96
+0022000511,2021-02-26,GSW,CHA,40.55,4,7,27,GSW,CHA,steal,1,False,True,steal,steal,112-96,112,96
+0022000511,2021-02-26,GSW,CHA,40.68,4,7,19,CHA,CHA,tov,45,False,False,,Monk Out of Bounds - Bad Pass Turnover Turnover (P4.T19),112-96,112,96
+0022000511,2021-02-26,GSW,CHA,40.93,4,7,4,GSW,GSW,tov,40,False,False,Lee Out of Bounds Lost Ball Turnover (P1.T20),,112-96,112,96
+0022000511,2021-02-26,GSW,CHA,41.07,4,6,56,CHA,CHA,fg_make,6,False,False,,Rozier 4' Driving Layup (12 PTS) (Hayward 4 AST),112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.07,4,6,56,CHA,GSW,violation,2,False,False,Toscano-Anderson Violation:Defensive Goaltending (Z.Zarba),,112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.2,4,6,48,GSW,GSW,tov,10,False,False,WARRIORS Turnover: 8 Second Violation (T#21),,112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.33,4,6,40,CHA,CHA,fg_miss,101,False,False,,MISS Rozier 12' Driving Floating Jump Shot,112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.35,4,6,39,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:6),112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.47,4,6,32,,GSW,jump_ball,0,False,False,Jump Ball Wanamaker vs. Washington: Tip to Hayward,,112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.5,4,6,30,CHA,CHA,fg3_miss,80,False,False,,MISS Monk 29' 3PT Step Back Jump Shot,112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.52,4,6,29,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.52,4,6,29,GSW,CHA,foul,3,False,False,,Martin L.B.FOUL (P2.T1) (S.Twardoski),112-98,112,98
+0022000511,2021-02-26,GSW,CHA,41.72,4,6,17,GSW,GSW,fg3_make,1,False,False,Oubre Jr. 30' 3PT Jump Shot (22 PTS) (Lee 1 AST),,115-98,115,98
+0022000511,2021-02-26,GSW,CHA,41.75,4,6,15,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.4 Short 0),115-98,115,98
+0022000511,2021-02-26,GSW,CHA,41.95,4,6,3,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 27' 3PT Pullup Jump Shot,115-98,115,98
+0022000511,2021-02-26,GSW,CHA,41.98,4,6,1,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:5),,115-98,115,98
+0022000511,2021-02-26,GSW,CHA,42.27,4,5,44,GSW,GSW,tov,40,False,False,Oubre Jr. Out of Bounds Lost Ball Turnover (P2.T22),,115-98,115,98
+0022000511,2021-02-26,GSW,CHA,42.42,4,5,35,CHA,GSW,foul,2,False,False,Green S.FOUL (P4.T4) (J.Van Duyne),,115-98,115,98
+0022000511,2021-02-26,GSW,CHA,42.42,4,5,35,CHA,CHA,ft_make,11,False,False,,Washington Free Throw 1 of 2 (14 PTS),115-99,115,99
+0022000511,2021-02-26,GSW,CHA,42.42,4,5,35,CHA,CHA,ft_make,12,False,False,,Washington Free Throw 2 of 2 (15 PTS),115-100,115,100
+0022000511,2021-02-26,GSW,CHA,42.67,4,5,20,GSW,GSW,fg3_miss,79,False,False,MISS Green 28' 3PT Pullup Jump Shot,,115-100,115,100
+0022000511,2021-02-26,GSW,CHA,42.7,4,5,18,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:2 Def:3),115-100,115,100
+0022000511,2021-02-26,GSW,CHA,42.88,4,5,7,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 26' 3PT Pullup Jump Shot,115-100,115,100
+0022000511,2021-02-26,GSW,CHA,42.92,4,5,5,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:10),,115-100,115,100
+0022000511,2021-02-26,GSW,CHA,43.15,4,4,51,GSW,GSW,fg_make,9,False,False,Paschall 1' Driving Dunk (6 PTS) (Green 18 AST),,117-100,117,100
+0022000511,2021-02-26,GSW,CHA,43.22,4,4,47,CHA,GSW,foul,2,False,False,Paschall S.FOUL (P1.PN) (Z.Zarba),,117-100,117,100
+0022000511,2021-02-26,GSW,CHA,43.22,4,4,47,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (17 PTS),117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.22,4,4,47,CHA,CHA,ft_miss,12,False,False,,MISS Ball Free Throw 2 of 2,117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.23,4,4,46,GSW,GSW,reb,0,False,False,Green REBOUND (Off:1 Def:11),,117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.33,4,4,40,GSW,CHA,foul,1,False,False,,Hayward P.FOUL (P2.T2) (J.Van Duyne),117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.63,4,4,22,GSW,GSW,fg_miss,101,False,False,MISS Wiggins 4' Driving Floating Jump Shot,,117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.65,4,4,21,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:1),117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.73,4,4,16,CHA,CHA,tov,45,False,False,,Ball Out of Bounds - Bad Pass Turnover Turnover (P3.T20),117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.82,4,4,11,GSW,CHA,foul,1,False,False,,Washington P.FOUL (P4.T3) (Z.Zarba),117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.95,4,4,3,GSW,GSW,fg_miss,58,False,False,MISS Wiggins 5' Turnaround Hook Shot,,117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.97,4,4,2,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:1 Def:2),,117-101,117,101
+0022000511,2021-02-26,GSW,CHA,43.97,4,4,2,GSW,GSW,fg_make,72,False,False,Wiggins 2' Putback Layup (17 PTS),,119-101,119,101
+0022000511,2021-02-26,GSW,CHA,44.17,4,3,50,CHA,CHA,fg3_make,103,False,False,,Rozier 24' 3PT Running Pull-Up Jump Shot (15 PTS) (Ball 6 AST),119-104,119,104
+0022000511,2021-02-26,GSW,CHA,44.43,4,3,34,GSW,GSW,fg_miss,6,False,False,MISS Green 2' Driving Layup,,119-104,119,104
+0022000511,2021-02-26,GSW,CHA,44.45,4,3,33,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:2),119-104,119,104
+0022000511,2021-02-26,GSW,CHA,44.55,4,3,27,CHA,CHA,fg3_make,103,False,False,,Rozier 27' 3PT Running Pull-Up Jump Shot (18 PTS) (Hayward 5 AST),119-107,119,107
+0022000511,2021-02-26,GSW,CHA,44.55,4,3,27,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 5 Short 0),,119-107,119,107
+0022000511,2021-02-26,GSW,CHA,44.9,4,3,6,GSW,GSW,fg3_miss,1,False,False,MISS Wiggins 31' 3PT Jump Shot,,119-107,119,107
+0022000511,2021-02-26,GSW,CHA,44.93,4,3,4,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),119-107,119,107
+0022000511,2021-02-26,GSW,CHA,45.17,4,2,50,CHA,CHA,fg_make,75,False,False,,Rozier 5' Driving Finger Roll Layup (20 PTS),119-109,119,109
+0022000511,2021-02-26,GSW,CHA,45.42,4,2,35,GSW,GSW,fg3_make,79,False,False,Oubre Jr. 26' 3PT Pullup Jump Shot (25 PTS) (Green 19 AST),,122-109,122,109
+0022000511,2021-02-26,GSW,CHA,45.62,4,2,23,CHA,CHA,tov,4,False,False,,Washington Traveling Turnover (P2.T21),122-109,122,109
+0022000511,2021-02-26,GSW,CHA,45.92,4,2,5,GSW,GSW,fg_miss,75,False,False,MISS Curry 3' Driving Finger Roll Layup,,122-109,122,109
+0022000511,2021-02-26,GSW,CHA,45.93,4,2,4,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:7),122-109,122,109
+0022000511,2021-02-26,GSW,CHA,46.02,4,1,59,CHA,CHA,fg3_miss,80,False,False,,MISS Rozier 29' 3PT Step Back Jump Shot,122-109,122,109
+0022000511,2021-02-26,GSW,CHA,46.05,4,1,57,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:0 Def:1),,122-109,122,109
+0022000511,2021-02-26,GSW,CHA,46.17,4,1,50,GSW,GSW,fg_make,75,False,False,Bazemore 2' Driving Finger Roll Layup (2 PTS) (Curry 9 AST),,124-109,124,109
+0022000511,2021-02-26,GSW,CHA,46.17,4,1,50,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.5 Short 0),124-109,124,109
+0022000511,2021-02-26,GSW,CHA,46.27,4,1,44,CHA,CHA,fg_make,6,False,False,,Ball 3' Driving Layup (19 PTS),124-111,124,111
+0022000511,2021-02-26,GSW,CHA,46.47,4,1,32,GSW,GSW,tov,13,False,False,Curry Backcourt Turnover (P4.T23),,124-111,124,111
+0022000511,2021-02-26,GSW,CHA,46.53,4,1,28,CHA,GSW,foul,1,False,False,Bazemore P.FOUL (P3.PN) (Z.Zarba),,124-111,124,111
+0022000511,2021-02-26,GSW,CHA,46.53,4,1,28,CHA,CHA,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (21 PTS),124-112,124,112
+0022000511,2021-02-26,GSW,CHA,46.53,4,1,28,CHA,CHA,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (22 PTS),124-113,124,113
+0022000511,2021-02-26,GSW,CHA,46.65,4,1,21,GSW,CHA,foul,1,False,False,,Ball P.FOUL (P4.T4) (J.Van Duyne),124-113,124,113
+0022000511,2021-02-26,GSW,CHA,46.78,4,1,13,GSW,GSW,tov,39,False,False,Bazemore Step Out of Bounds Turnover (P2.T24),,124-113,124,113
+0022000511,2021-02-26,GSW,CHA,46.97,4,1,2,CHA,CHA,fg3_miss,79,False,False,,MISS Ball 28' 3PT Pullup Jump Shot,124-113,124,113
+0022000511,2021-02-26,GSW,CHA,47.0,4,1,0,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:4),,124-113,124,113
+0022000511,2021-02-26,GSW,CHA,47.12,4,0,53,GSW,CHA,violation,5,False,False,,Martin Violation:Kicked Ball (Z.Zarba),124-113,124,113
+0022000511,2021-02-26,GSW,CHA,47.33,4,0,40,GSW,GSW,tov,2,False,True,Green Lost Ball Turnover (P5.T25),,124-113,124,113
+0022000511,2021-02-26,GSW,CHA,47.33,4,0,40,GSW,CHA,steal,2,False,True,steal,steal,124-113,124,113
+0022000511,2021-02-26,GSW,CHA,47.52,4,0,29,CHA,CHA,fg_make,6,False,False,,Rozier 3' Driving Layup (24 PTS),124-115,124,115
+0022000511,2021-02-26,GSW,CHA,47.62,4,0,23,GSW,CHA,foul,28,False,False,,Bridges Personal Take Foul (P3.PN) (S.Twardoski),124-115,124,115
+0022000511,2021-02-26,GSW,CHA,47.62,4,0,23,GSW,GSW,ft_make,11,False,False,Oubre Jr. Free Throw 1 of 2 (26 PTS),,125-115,125,115
+0022000511,2021-02-26,GSW,CHA,47.62,4,0,23,GSW,GSW,ft_make,12,False,False,Oubre Jr. Free Throw 2 of 2 (27 PTS),,126-115,126,115
+0022000511,2021-02-26,GSW,CHA,47.72,4,0,17,CHA,GSW,foul,2,False,False,Oubre Jr. S.FOUL (P2.PN) (S.Twardoski),,126-115,126,115
+0022000511,2021-02-26,GSW,CHA,47.72,4,0,17,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (20 PTS),126-116,126,116
+0022000511,2021-02-26,GSW,CHA,47.72,4,0,17,CHA,CHA,ft_miss,12,False,False,,MISS Ball Free Throw 2 of 2,126-116,126,116
+0022000511,2021-02-26,GSW,CHA,47.73,4,0,16,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:3),126-116,126,116
+0022000511,2021-02-26,GSW,CHA,47.77,4,0,14,CHA,CHA,fg3_make,80,False,False,,Bridges 24' 3PT Step Back Jump Shot (10 PTS),126-119,126,119
+0022000511,2021-02-26,GSW,CHA,47.77,4,0,14,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 6 Short 0),,126-119,126,119
+0022000511,2021-02-26,GSW,CHA,47.8,4,0,12,GSW,CHA,foul,28,False,False,,Bridges Personal Take Foul (P4.PN) (S.Twardoski),126-119,126,119
+0022000511,2021-02-26,GSW,CHA,47.8,4,0,12,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (26 PTS),,127-119,127,119
+0022000511,2021-02-26,GSW,CHA,47.8,4,0,12,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (27 PTS),,128-119,128,119
+0022000511,2021-02-26,GSW,CHA,47.85,4,0,9,CHA,GSW,foul,2,False,False,Curry S.FOUL (P1.PN) (S.Twardoski),,128-119,128,119
+0022000511,2021-02-26,GSW,CHA,47.85,4,0,9,CHA,CHA,ft_make,11,False,False,,Ball Free Throw 1 of 2 (21 PTS),128-120,128,120
+0022000511,2021-02-26,GSW,CHA,47.85,4,0,9,CHA,CHA,ft_make,12,False,False,,Ball Free Throw 2 of 2 (22 PTS),128-121,128,121
+0022000511,2021-02-26,GSW,CHA,47.93,4,0,4,GSW,CHA,foul,28,False,False,,Ball Personal Take Foul (P5.PN) (S.Twardoski),128-121,128,121
+0022000511,2021-02-26,GSW,CHA,47.93,4,0,4,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (28 PTS),,129-121,129,121
+0022000511,2021-02-26,GSW,CHA,47.93,4,0,4,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (29 PTS),,130-121,130,121
+0022000511,2021-02-26,GSW,CHA,48.0,4,0,0,GSW,,period_end,0,False,False,,,130-121,130,121

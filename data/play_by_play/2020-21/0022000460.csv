@@ -1,0 +1,426 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022000460,2021-02-20,CHI,SAC,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022000460,2021-02-20,CHI,SAC,0.0,1,12,0,,CHI,jump_ball,0,False,False,Jump Ball Carter Jr. vs. Whiteside: Tip to Fox,,0-0,0,0
+0022000460,2021-02-20,CHI,SAC,0.25,1,11,45,SAC,SAC,fg_make,52,False,False,,Whiteside 1' Alley Oop Dunk (2 PTS) (Fox 1 AST),0-2,0,2
+0022000460,2021-02-20,CHI,SAC,0.57,1,11,26,CHI,CHI,fg_miss,1,False,False,MISS Carter Jr. 16' Jump Shot,,0-2,0,2
+0022000460,2021-02-20,CHI,SAC,0.63,1,11,22,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:0 Def:1),0-2,0,2
+0022000460,2021-02-20,CHI,SAC,0.83,1,11,10,CHI,SAC,foul,4,False,False,,Whiteside OFF.Foul (P1) (S.Foster),0-2,0,2
+0022000460,2021-02-20,CHI,SAC,0.83,1,11,10,SAC,SAC,tov,37,False,False,,Whiteside Offensive Foul Turnover (P1.T1),0-2,0,2
+0022000460,2021-02-20,CHI,SAC,1.07,1,10,56,CHI,CHI,fg_make,80,False,False,LaVine 18' Step Back Jump Shot (2 PTS) (Carter Jr. 1 AST),,2-2,2,2
+0022000460,2021-02-20,CHI,SAC,1.35,1,10,39,SAC,SAC,fg_miss,57,False,False,,MISS Whiteside 6' Driving Hook Shot,2-2,2,2
+0022000460,2021-02-20,CHI,SAC,1.38,1,10,37,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,2-2,2,2
+0022000460,2021-02-20,CHI,SAC,1.48,1,10,31,CHI,CHI,fg3_make,1,False,False,White 3PT Jump Shot (3 PTS) (Williams 1 AST),,5-2,5,2
+0022000460,2021-02-20,CHI,SAC,1.77,1,10,14,SAC,SAC,fg_miss,79,False,False,,MISS Hield 21' Pullup Jump Shot,5-2,5,2
+0022000460,2021-02-20,CHI,SAC,1.8,1,10,12,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:1),,5-2,5,2
+0022000460,2021-02-20,CHI,SAC,1.88,1,10,7,CHI,CHI,fg_miss,5,True,False,MISS Carter Jr. 2' Layup,,5-2,5,2
+0022000460,2021-02-20,CHI,SAC,1.88,1,10,7,CHI,SAC,block,5,True,False,block,block,5-2,5,2
+0022000460,2021-02-20,CHI,SAC,1.95,1,10,3,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:0 Def:1),5-2,5,2
+0022000460,2021-02-20,CHI,SAC,2.03,1,9,58,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P1.T2),5-2,5,2
+0022000460,2021-02-20,CHI,SAC,2.03,1,9,58,SAC,CHI,steal,1,False,True,steal,steal,5-2,5,2
+0022000460,2021-02-20,CHI,SAC,2.12,1,9,53,CHI,CHI,fg_make,6,False,False,LaVine 2' Driving Layup (4 PTS),,7-2,7,2
+0022000460,2021-02-20,CHI,SAC,2.45,1,9,33,SAC,SAC,fg3_make,1,False,False,,Hield 25' 3PT Jump Shot (3 PTS),7-5,7,5
+0022000460,2021-02-20,CHI,SAC,2.82,1,9,11,CHI,CHI,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,7-5,7,5
+0022000460,2021-02-20,CHI,SAC,2.87,1,9,8,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:1),7-5,7,5
+0022000460,2021-02-20,CHI,SAC,3.1,1,8,54,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 25' 3PT Jump Shot,7-5,7,5
+0022000460,2021-02-20,CHI,SAC,3.15,1,8,51,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:1),,7-5,7,5
+0022000460,2021-02-20,CHI,SAC,3.3,1,8,42,CHI,CHI,fg_miss,6,False,False,MISS White 8' Driving Layup,,7-5,7,5
+0022000460,2021-02-20,CHI,SAC,3.35,1,8,39,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:0 Def:2),7-5,7,5
+0022000460,2021-02-20,CHI,SAC,3.52,1,8,29,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P2.T3),7-5,7,5
+0022000460,2021-02-20,CHI,SAC,3.52,1,8,29,SAC,CHI,steal,1,False,True,steal,steal,7-5,7,5
+0022000460,2021-02-20,CHI,SAC,3.57,1,8,26,CHI,CHI,fg_make,6,False,False,Temple 1' Driving Layup (2 PTS) (LaVine 1 AST),,9-5,9,5
+0022000460,2021-02-20,CHI,SAC,3.57,1,8,26,CHI,SAC,foul,2,False,False,,Joseph S.FOUL (P1.T1) (B.Schwab),9-5,9,5
+0022000460,2021-02-20,CHI,SAC,3.57,1,8,26,CHI,CHI,ft_make,10,False,False,Temple Free Throw 1 of 1 (3 PTS),,10-5,10,5
+0022000460,2021-02-20,CHI,SAC,3.88,1,8,7,SAC,SAC,fg_make,3,False,False,,Bagley III 6' Hook Shot (2 PTS) (Fox 2 AST),10-7,10,7
+0022000460,2021-02-20,CHI,SAC,4.17,1,7,50,CHI,CHI,fg_miss,80,False,False,MISS LaVine 20' Step Back Jump Shot,,10-7,10,7
+0022000460,2021-02-20,CHI,SAC,4.2,1,7,48,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:0 Def:1),10-7,10,7
+0022000460,2021-02-20,CHI,SAC,4.33,1,7,40,SAC,SAC,fg_make,98,False,False,,Bagley III 3' Cutting Layup Shot (4 PTS) (Hield 1 AST),10-9,10,9
+0022000460,2021-02-20,CHI,SAC,4.33,1,7,40,SAC,CHI,foul,2,False,False,Carter Jr. S.FOUL (P1.T1) (S.Wall),,10-9,10,9
+0022000460,2021-02-20,CHI,SAC,4.33,1,7,40,SAC,SAC,ft_make,10,False,False,,Bagley III Free Throw 1 of 1 (5 PTS),10-10,10,10
+0022000460,2021-02-20,CHI,SAC,4.52,1,7,29,CHI,CHI,fg3_miss,80,False,False,MISS White 25' 3PT Step Back Jump Shot,,10-10,10,10
+0022000460,2021-02-20,CHI,SAC,4.58,1,7,25,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:2),10-10,10,10
+0022000460,2021-02-20,CHI,SAC,4.88,1,7,7,SAC,SAC,fg_miss,63,False,False,,MISS Joseph 9' Fadeaway Jumper,10-10,10,10
+0022000460,2021-02-20,CHI,SAC,4.93,1,7,4,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:1 Def:1),10-10,10,10
+0022000460,2021-02-20,CHI,SAC,4.97,1,7,2,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 3PT Jump Shot,10-10,10,10
+0022000460,2021-02-20,CHI,SAC,5.02,1,6,59,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:2),,10-10,10,10
+0022000460,2021-02-20,CHI,SAC,5.18,1,6,49,CHI,CHI,fg_make,57,False,False,Carter Jr. 6' Driving Hook Shot (2 PTS) (White 1 AST),,12-10,12,10
+0022000460,2021-02-20,CHI,SAC,5.38,1,6,37,SAC,SAC,fg_miss,58,False,False,,MISS Whiteside 8' Turnaround Hook Shot,12-10,12,10
+0022000460,2021-02-20,CHI,SAC,5.38,1,6,37,SAC,SAC,reb,0,False,False,,Kings Rebound,12-10,12,10
+0022000460,2021-02-20,CHI,SAC,5.38,1,6,37,SAC,CHI,foul,1,False,False,Williams P.FOUL (P1.T2) (S.Wall),,12-10,12,10
+0022000460,2021-02-20,CHI,SAC,5.38,1,6,37,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,12-10,12,10
+0022000460,2021-02-20,CHI,SAC,5.5,1,6,30,SAC,SAC,fg_make,6,False,False,,Fox 2' Driving Layup (2 PTS),12-12,12,12
+0022000460,2021-02-20,CHI,SAC,5.8,1,6,12,CHI,CHI,fg_make,6,False,False,White 2' Driving Layup (5 PTS),,14-12,14,12
+0022000460,2021-02-20,CHI,SAC,6.07,1,5,56,SAC,SAC,fg3_make,1,False,False,,Bagley III 3PT Jump Shot (8 PTS) (Hield 2 AST),14-15,14,15
+0022000460,2021-02-20,CHI,SAC,6.45,1,5,33,CHI,CHI,fg_make,44,False,False,LaVine 1' Reverse Layup (6 PTS) (Carter Jr. 2 AST),,16-15,16,15
+0022000460,2021-02-20,CHI,SAC,6.72,1,5,17,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P3.T4),16-15,16,15
+0022000460,2021-02-20,CHI,SAC,6.72,1,5,17,SAC,CHI,steal,1,False,True,steal,steal,16-15,16,15
+0022000460,2021-02-20,CHI,SAC,6.78,1,5,13,CHI,CHI,fg_miss,5,False,False,MISS Young 2' Layup,,16-15,16,15
+0022000460,2021-02-20,CHI,SAC,6.82,1,5,11,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:3),16-15,16,15
+0022000460,2021-02-20,CHI,SAC,7.0,1,5,0,SAC,SAC,fg_make,108,False,False,,Bagley III 1' Cutting Dunk Shot (10 PTS) (Whiteside 1 AST),16-17,16,17
+0022000460,2021-02-20,CHI,SAC,7.0,1,5,0,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,16-17,16,17
+0022000460,2021-02-20,CHI,SAC,7.38,1,4,37,CHI,CHI,fg_make,63,False,False,Temple 10' Fadeaway Jumper (5 PTS),,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,7.65,1,4,21,SAC,SAC,fg_miss,101,False,False,,MISS Haliburton 2' Driving Floating Jump Shot,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,7.68,1,4,19,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:3),,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,7.88,1,4,7,CHI,CHI,fg3_miss,1,False,False,MISS Temple 26' 3PT Jump Shot,,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,7.9,1,4,6,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:0 Def:3),18-17,18,17
+0022000460,2021-02-20,CHI,SAC,8.05,1,3,57,SAC,SAC,fg_miss,5,False,False,,MISS Bagley III 1' Layup,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:2 Def:1),18-17,18,17
+0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,SAC,SAC,fg_miss,72,True,False,,MISS Bagley III Putback Layup,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,SAC,CHI,block,72,True,False,block,block,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:2),,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,8.23,1,3,46,CHI,CHI,fg_make,6,False,False,Satoransky 1' Driving Layup (2 PTS),,20-17,20,17
+0022000460,2021-02-20,CHI,SAC,8.25,1,3,45,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.1 Short 0),20-17,20,17
+0022000460,2021-02-20,CHI,SAC,8.52,1,3,29,SAC,SAC,fg_miss,80,False,False,,MISS Fox 19' Step Back Jump Shot,20-17,20,17
+0022000460,2021-02-20,CHI,SAC,8.6,1,3,24,CHI,CHI,reb,0,False,False,Young REBOUND (Off:0 Def:1),,20-17,20,17
+0022000460,2021-02-20,CHI,SAC,8.9,1,3,6,CHI,CHI,fg_make,57,False,False,Young 1' Driving Hook Shot (2 PTS),,22-17,22,17
+0022000460,2021-02-20,CHI,SAC,9.0,1,3,0,SAC,SAC,fg3_miss,79,False,False,,MISS Joseph 26' 3PT Pullup Jump Shot,22-17,22,17
+0022000460,2021-02-20,CHI,SAC,9.07,1,2,56,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:1),,22-17,22,17
+0022000460,2021-02-20,CHI,SAC,9.32,1,2,41,CHI,CHI,fg_miss,5,False,False,MISS Young 3' Layup,,22-17,22,17
+0022000460,2021-02-20,CHI,SAC,9.35,1,2,39,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:1),22-17,22,17
+0022000460,2021-02-20,CHI,SAC,9.48,1,2,31,SAC,SAC,fg_make,6,False,False,,Bjelica 2' Driving Layup (2 PTS) (Fox 3 AST),22-19,22,19
+0022000460,2021-02-20,CHI,SAC,9.68,1,2,19,CHI,CHI,fg_make,108,False,False,LaVine 1' Cutting Dunk Shot (8 PTS) (Satoransky 1 AST),,24-19,24,19
+0022000460,2021-02-20,CHI,SAC,9.98,1,2,1,SAC,SAC,fg3_miss,1,False,False,,MISS Bjelica 25' 3PT Jump Shot,24-19,24,19
+0022000460,2021-02-20,CHI,SAC,10.07,1,1,56,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:1),,24-19,24,19
+0022000460,2021-02-20,CHI,SAC,10.1,1,1,54,CHI,SAC,foul,2,False,False,,Fox S.FOUL (P1.T2) (S.Foster),24-19,24,19
+0022000460,2021-02-20,CHI,SAC,10.1,1,1,54,CHI,CHI,ft_make,11,False,False,Satoransky Free Throw 1 of 2 (3 PTS),,25-19,25,19
+0022000460,2021-02-20,CHI,SAC,10.1,1,1,54,CHI,CHI,ft_make,12,False,False,Satoransky Free Throw 2 of 2 (4 PTS),,26-19,26,19
+0022000460,2021-02-20,CHI,SAC,10.3,1,1,42,SAC,SAC,fg3_miss,1,False,False,,MISS Bjelica 26' 3PT Jump Shot,26-19,26,19
+0022000460,2021-02-20,CHI,SAC,10.35,1,1,39,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:2),,26-19,26,19
+0022000460,2021-02-20,CHI,SAC,10.57,1,1,26,CHI,CHI,tov,2,False,True,Williams Lost Ball Turnover (P1.T1),,26-19,26,19
+0022000460,2021-02-20,CHI,SAC,10.57,1,1,26,CHI,SAC,steal,2,False,True,steal,steal,26-19,26,19
+0022000460,2021-02-20,CHI,SAC,10.67,1,1,20,SAC,SAC,fg_miss,5,False,False,,MISS Bjelica 4' Layup,26-19,26,19
+0022000460,2021-02-20,CHI,SAC,10.7,1,1,18,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:0 Def:2),,26-19,26,19
+0022000460,2021-02-20,CHI,SAC,10.95,1,1,3,CHI,CHI,fg_make,6,False,False,Arcidiacono 1' Driving Layup (2 PTS),,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,10.95,1,1,3,CHI,SAC,violation,2,False,False,,James Violation:Defensive Goaltending (S.Foster),28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.27,1,0,44,SAC,SAC,fg3_miss,80,False,False,,MISS Fox 25' 3PT Step Back Jump Shot,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.3,1,0,42,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:3),,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.45,1,0,33,CHI,CHI,fg3_miss,80,False,False,MISS Valentine 3PT Step Back Jump Shot,,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.48,1,0,31,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:0 Def:2),28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.52,1,0,29,SAC,SAC,fg_miss,6,True,False,,MISS James 1' Driving Layup,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.52,1,0,29,SAC,CHI,block,6,True,False,block,block,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.52,1,0,29,CHI,CHI,reb,0,False,False,BULLS Rebound,,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.82,1,0,11,CHI,CHI,tov,1,False,True,Satoransky Bad Pass Turnover (P1.T2),,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.82,1,0,11,CHI,SAC,steal,1,False,True,steal,steal,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.83,1,0,10,SAC,CHI,foul,1,False,False,Satoransky P.FOUL (P1.T3) (B.Schwab),,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.93,1,0,4,SAC,SAC,fg_make,6,False,False,,Haliburton Driving Layup (2 PTS),28-21,28,21
+0022000460,2021-02-20,CHI,SAC,12.0,1,0,0,CHI,CHI,fg_miss,101,False,False,MISS Williams 7' Driving Floating Jump Shot,,28-21,28,21
+0022000460,2021-02-20,CHI,SAC,12.0,1,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,28-21,28,21
+0022000460,2021-02-20,CHI,SAC,12.0,1,0,0,CHI,,period_end,0,False,False,,,28-21,28,21
+0022000460,2021-02-20,CHI,SAC,12.0,2,12,0,CHI,,period_start,0,False,False,,,28-21,28,21
+0022000460,2021-02-20,CHI,SAC,12.35,2,11,39,CHI,CHI,fg_make,9,False,False,Young 1' Driving Dunk (4 PTS) (Valentine 1 AST),,30-21,30,21
+0022000460,2021-02-20,CHI,SAC,12.58,2,11,25,SAC,SAC,fg_make,1,False,False,,Parker 20' Jump Shot (2 PTS) (Haliburton 1 AST),30-23,30,23
+0022000460,2021-02-20,CHI,SAC,12.82,2,11,11,CHI,CHI,tov,1,False,True,Valentine Bad Pass Turnover (P1.T3),,30-23,30,23
+0022000460,2021-02-20,CHI,SAC,12.82,2,11,11,CHI,SAC,steal,1,False,True,steal,steal,30-23,30,23
+0022000460,2021-02-20,CHI,SAC,13.0,2,11,0,SAC,SAC,fg3_make,79,False,False,,Haliburton 25' 3PT Pullup Jump Shot (5 PTS),30-26,30,26
+0022000460,2021-02-20,CHI,SAC,13.37,2,10,38,CHI,CHI,fg_make,63,False,False,Satoransky 8' Fadeaway Jumper (6 PTS),,32-26,32,26
+0022000460,2021-02-20,CHI,SAC,13.57,2,10,26,SAC,SAC,fg_make,9,False,False,,Haliburton 1' Driving Dunk (7 PTS),32-28,32,28
+0022000460,2021-02-20,CHI,SAC,13.8,2,10,12,CHI,CHI,fg3_make,1,False,False,Arcidiacono 26' 3PT Jump Shot (5 PTS) (Young 1 AST),,35-28,35,28
+0022000460,2021-02-20,CHI,SAC,14.13,2,9,52,SAC,SAC,fg3_make,1,False,False,,Bjelica 26' 3PT Jump Shot (5 PTS),35-31,35,31
+0022000460,2021-02-20,CHI,SAC,14.17,2,9,50,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,35-31,35,31
+0022000460,2021-02-20,CHI,SAC,14.48,2,9,31,CHI,CHI,fg_miss,57,False,False,MISS Young 2' Driving Hook Shot,,35-31,35,31
+0022000460,2021-02-20,CHI,SAC,14.55,2,9,27,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:2),,35-31,35,31
+0022000460,2021-02-20,CHI,SAC,14.55,2,9,27,CHI,CHI,fg_make,87,False,False,Williams Putback Dunk (2 PTS),,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,14.83,2,9,10,SAC,SAC,fg_miss,6,True,False,,MISS Bjelica 5' Driving Layup,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,14.83,2,9,10,SAC,CHI,block,6,True,False,block,block,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,14.85,2,9,9,,CHI,jump_ball,0,False,False,Jump Ball Young vs. Bjelica: Tip to Williams,,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,14.85,2,9,9,CHI,CHI,reb,0,False,False,BULLS Rebound,,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,15.02,2,8,59,CHI,CHI,fg_miss,6,True,False,MISS Williams 5' Driving Layup,,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,15.02,2,8,59,CHI,SAC,block,6,True,False,block,block,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,15.05,2,8,57,SAC,SAC,reb,0,False,False,,Parker REBOUND (Off:0 Def:1),37-31,37,31
+0022000460,2021-02-20,CHI,SAC,15.22,2,8,47,SAC,SAC,fg3_miss,1,False,False,,MISS Parker 29' 3PT Jump Shot,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,15.28,2,8,43,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:0 Def:1),,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,15.5,2,8,30,CHI,SAC,violation,5,False,False,,Bjelica Violation:Kicked Ball (S.Foster),37-31,37,31
+0022000460,2021-02-20,CHI,SAC,15.63,2,8,22,CHI,CHI,fg3_make,1,False,False,White 25' 3PT Jump Shot (8 PTS) (Satoransky 2 AST),,40-31,40,31
+0022000460,2021-02-20,CHI,SAC,15.82,2,8,11,SAC,SAC,fg3_miss,79,False,False,,MISS Haliburton 26' 3PT Pullup Jump Shot,40-31,40,31
+0022000460,2021-02-20,CHI,SAC,15.82,2,8,11,CHI,CHI,reb,0,False,False,BULLS Rebound,,40-31,40,31
+0022000460,2021-02-20,CHI,SAC,16.05,2,7,57,CHI,CHI,fg_miss,79,False,False,MISS Carter Jr. 13' Pullup Jump Shot,,40-31,40,31
+0022000460,2021-02-20,CHI,SAC,16.12,2,7,53,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:4),40-31,40,31
+0022000460,2021-02-20,CHI,SAC,16.28,2,7,43,SAC,SAC,fg_miss,78,False,False,,MISS Whiteside 13' Floating Jump Shot,40-31,40,31
+0022000460,2021-02-20,CHI,SAC,16.32,2,7,41,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:0 Def:1),,40-31,40,31
+0022000460,2021-02-20,CHI,SAC,16.35,2,7,39,CHI,SAC,foul,1,False,False,,James P.FOUL (P1.T1) (S.Foster),40-31,40,31
+0022000460,2021-02-20,CHI,SAC,16.52,2,7,29,CHI,CHI,fg_make,7,False,False,Carter Jr. 1' Dunk (4 PTS) (White 2 AST),,42-31,42,31
+0022000460,2021-02-20,CHI,SAC,16.82,2,7,11,SAC,SAC,fg_make,80,False,False,,Hield 13' Step Back Jump Shot (5 PTS),42-33,42,33
+0022000460,2021-02-20,CHI,SAC,17.15,2,6,51,CHI,SAC,foul,1,False,False,,Fox P.FOUL (P2.T2) (S.Wall),42-33,42,33
+0022000460,2021-02-20,CHI,SAC,17.27,2,6,44,CHI,CHI,fg_make,3,False,False,Carter Jr. 7' Hook Shot (6 PTS) (LaVine 2 AST),,44-33,44,33
+0022000460,2021-02-20,CHI,SAC,17.57,2,6,26,SAC,SAC,fg_miss,3,False,False,,MISS Whiteside 8' Hook Shot,44-33,44,33
+0022000460,2021-02-20,CHI,SAC,17.6,2,6,24,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:3),,44-33,44,33
+0022000460,2021-02-20,CHI,SAC,17.73,2,6,16,CHI,CHI,fg_make,6,False,False,LaVine 3' Driving Layup (10 PTS),,46-33,46,33
+0022000460,2021-02-20,CHI,SAC,17.78,2,6,13,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.2 Short 0),46-33,46,33
+0022000460,2021-02-20,CHI,SAC,18.15,2,5,51,SAC,SAC,fg_make,7,False,False,,Whiteside 1' Dunk (4 PTS) (Fox 4 AST),46-35,46,35
+0022000460,2021-02-20,CHI,SAC,18.37,2,5,38,CHI,CHI,fg3_make,1,False,False,White 26' 3PT Jump Shot (11 PTS) (Williams 2 AST),,49-35,49,35
+0022000460,2021-02-20,CHI,SAC,18.67,2,5,20,SAC,SAC,fg_miss,6,False,False,,MISS Bagley III 3' Driving Layup,49-35,49,35
+0022000460,2021-02-20,CHI,SAC,18.73,2,5,16,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:3 Def:1),49-37,49,37
+0022000460,2021-02-20,CHI,SAC,18.73,2,5,16,SAC,SAC,fg_make,87,False,False,,Bagley III Putback Dunk (12 PTS),49-37,49,37
+0022000460,2021-02-20,CHI,SAC,18.98,2,5,1,CHI,CHI,fg_miss,101,False,False,MISS White 6' Driving Floating Jump Shot,,49-37,49,37
+0022000460,2021-02-20,CHI,SAC,19.0,2,5,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,49-37,49,37
+0022000460,2021-02-20,CHI,SAC,19.1,2,4,54,CHI,SAC,foul,2,False,False,,Whiteside S.FOUL (P2.T3) (S.Foster),49-37,49,37
+0022000460,2021-02-20,CHI,SAC,19.1,2,4,54,CHI,CHI,ft_make,11,False,False,LaVine Free Throw 1 of 2 (11 PTS),,50-37,50,37
+0022000460,2021-02-20,CHI,SAC,19.1,2,4,54,CHI,CHI,ft_make,12,False,False,LaVine Free Throw 2 of 2 (12 PTS),,51-37,51,37
+0022000460,2021-02-20,CHI,SAC,19.32,2,4,41,SAC,SAC,fg_make,7,False,False,,Whiteside Dunk (6 PTS) (Bagley III 1 AST),51-39,51,39
+0022000460,2021-02-20,CHI,SAC,19.62,2,4,23,CHI,CHI,tov,1,False,True,Williams Bad Pass Turnover (P2.T4),,51-39,51,39
+0022000460,2021-02-20,CHI,SAC,19.62,2,4,23,CHI,SAC,steal,1,False,True,steal,steal,51-39,51,39
+0022000460,2021-02-20,CHI,SAC,19.77,2,4,14,SAC,SAC,fg_miss,78,False,False,,MISS Bagley III 6' Floating Jump Shot,51-39,51,39
+0022000460,2021-02-20,CHI,SAC,19.78,2,4,13,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:4),51-39,51,39
+0022000460,2021-02-20,CHI,SAC,19.78,2,4,13,SAC,CHI,foul,2,False,False,Williams S.FOUL (P2.T1) (S.Foster),,51-39,51,39
+0022000460,2021-02-20,CHI,SAC,19.78,2,4,13,SAC,SAC,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (7 PTS),51-40,51,40
+0022000460,2021-02-20,CHI,SAC,19.78,2,4,13,SAC,SAC,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (8 PTS),51-41,51,41
+0022000460,2021-02-20,CHI,SAC,20.03,2,3,58,CHI,CHI,fg3_make,80,False,False,LaVine 27' 3PT Step Back Jump Shot (15 PTS),,54-41,54,41
+0022000460,2021-02-20,CHI,SAC,20.18,2,3,49,SAC,CHI,foul,2,False,False,Young S.FOUL (P1.T2) (B.Schwab),,54-41,54,41
+0022000460,2021-02-20,CHI,SAC,20.18,2,3,49,SAC,SAC,ft_make,11,False,False,,Bagley III Free Throw 1 of 2 (13 PTS),54-42,54,42
+0022000460,2021-02-20,CHI,SAC,20.18,2,3,49,SAC,SAC,ft_make,12,False,False,,Bagley III Free Throw 2 of 2 (14 PTS),54-43,54,43
+0022000460,2021-02-20,CHI,SAC,20.48,2,3,31,CHI,CHI,fg_make,6,False,False,Young 3' Driving Layup (6 PTS),,56-43,56,43
+0022000460,2021-02-20,CHI,SAC,20.48,2,3,31,CHI,SAC,violation,2,False,False,,Bagley III Violation:Defensive Goaltending (S.Wall),56-43,56,43
+0022000460,2021-02-20,CHI,SAC,20.67,2,3,20,SAC,SAC,fg_make,6,False,False,,Fox 2' Driving Layup (4 PTS),56-45,56,45
+0022000460,2021-02-20,CHI,SAC,20.77,2,3,14,CHI,SAC,foul,1,False,False,,Hield P.FOUL (P1.T4) (S.Foster),56-45,56,45
+0022000460,2021-02-20,CHI,SAC,20.93,2,3,4,CHI,CHI,fg3_make,1,False,False,LaVine 24' 3PT Jump Shot (18 PTS) (Carter Jr. 3 AST),,59-45,59,45
+0022000460,2021-02-20,CHI,SAC,21.13,2,2,52,SAC,CHI,foul,2,False,False,LaVine S.FOUL (P1.T3) (S.Foster),,59-45,59,45
+0022000460,2021-02-20,CHI,SAC,21.13,2,2,52,SAC,SAC,ft_make,11,False,False,,Joseph Free Throw 1 of 2 (1 PTS),59-46,59,46
+0022000460,2021-02-20,CHI,SAC,21.13,2,2,52,SAC,SAC,ft_make,12,False,False,,Joseph Free Throw 2 of 2 (2 PTS),59-47,59,47
+0022000460,2021-02-20,CHI,SAC,21.33,2,2,40,CHI,SAC,foul,2,False,False,,Hield S.FOUL (P2.PN) (S.Wall),59-47,59,47
+0022000460,2021-02-20,CHI,SAC,21.33,2,2,40,CHI,CHI,ft_make,11,False,False,LaVine Free Throw 1 of 2 (19 PTS),,60-47,60,47
+0022000460,2021-02-20,CHI,SAC,21.33,2,2,40,CHI,CHI,ft_make,12,False,False,LaVine Free Throw 2 of 2 (20 PTS),,61-47,61,47
+0022000460,2021-02-20,CHI,SAC,21.53,2,2,28,SAC,SAC,fg_make,52,False,False,,Bagley III 1' Alley Oop Dunk (16 PTS) (Fox 5 AST),61-49,61,49
+0022000460,2021-02-20,CHI,SAC,21.88,2,2,7,CHI,CHI,fg_make,80,False,False,Temple 8' Step Back Jump Shot (7 PTS) (Young 2 AST),,63-49,63,49
+0022000460,2021-02-20,CHI,SAC,22.08,2,1,55,SAC,SAC,fg3_miss,80,False,False,,MISS Hield 25' 3PT Step Back Jump Shot,63-49,63,49
+0022000460,2021-02-20,CHI,SAC,22.13,2,1,52,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:4),,63-49,63,49
+0022000460,2021-02-20,CHI,SAC,22.3,2,1,42,CHI,CHI,tov,39,False,False,LaVine Step Out of Bounds Turnover (P1.T5),,63-49,63,49
+0022000460,2021-02-20,CHI,SAC,22.48,2,1,31,SAC,SAC,fg3_make,80,False,False,,Fox 25' 3PT Step Back Jump Shot (7 PTS),63-52,63,52
+0022000460,2021-02-20,CHI,SAC,22.73,2,1,16,CHI,CHI,fg_make,58,False,False,Young 3' Turnaround Hook Shot (8 PTS),,65-52,65,52
+0022000460,2021-02-20,CHI,SAC,22.73,2,1,16,CHI,SAC,violation,2,False,False,,Bagley III Violation:Defensive Goaltending (B.Schwab),65-52,65,52
+0022000460,2021-02-20,CHI,SAC,22.93,2,1,4,SAC,SAC,fg_make,6,False,False,,Fox 1' Driving Layup (9 PTS),65-54,65,54
+0022000460,2021-02-20,CHI,SAC,22.93,2,1,4,SAC,CHI,foul,2,False,False,White S.FOUL (P1.T4) (S.Wall),,65-54,65,54
+0022000460,2021-02-20,CHI,SAC,22.93,2,1,4,SAC,SAC,ft_miss,10,False,False,,MISS Fox Free Throw 1 of 1,65-54,65,54
+0022000460,2021-02-20,CHI,SAC,22.98,2,1,1,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:1 Def:3),65-54,65,54
+0022000460,2021-02-20,CHI,SAC,23.12,2,0,53,SAC,SAC,fg_make,6,False,False,,Hield 1' Driving Layup (7 PTS),65-56,65,56
+0022000460,2021-02-20,CHI,SAC,23.43,2,0,34,CHI,CHI,fg_make,6,False,False,Young 2' Driving Layup (10 PTS),,67-56,67,56
+0022000460,2021-02-20,CHI,SAC,23.43,2,0,34,CHI,SAC,foul,2,False,False,,Joseph S.FOUL (P2.PN) (S.Wall),67-56,67,56
+0022000460,2021-02-20,CHI,SAC,23.43,2,0,34,CHI,CHI,ft_make,10,False,False,Young Free Throw 1 of 1 (11 PTS),,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.53,2,0,28,SAC,CHI,foul,2,False,False,Temple S.FOUL (P1.PN) (B.Schwab),,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.53,2,0,28,SAC,SAC,ft_miss,13,False,False,,MISS Fox Free Throw 1 of 3,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.53,2,0,28,SAC,SAC,reb,1,False,False,,Kings Rebound,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.53,2,0,28,SAC,SAC,ft_miss,14,False,False,,MISS Fox Free Throw 2 of 3,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.53,2,0,28,SAC,SAC,reb,1,False,False,,Kings Rebound,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.53,2,0,28,SAC,SAC,ft_miss,15,False,False,,MISS Fox Free Throw 3 of 3,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.55,2,0,27,SAC,SAC,reb,0,False,False,,Kings Rebound,68-56,68,56
+0022000460,2021-02-20,CHI,SAC,23.73,2,0,16,SAC,SAC,fg_make,5,False,False,,Bagley III 2' Layup (18 PTS) (Hield 3 AST),68-58,68,58
+0022000460,2021-02-20,CHI,SAC,23.98,2,0,1,CHI,CHI,fg3_miss,1,False,False,MISS Temple 3PT Jump Shot,,68-58,68,58
+0022000460,2021-02-20,CHI,SAC,23.98,2,0,1,CHI,CHI,reb,0,False,False,BULLS Rebound,,68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.0,2,0,0,CHI,,period_end,0,False,False,,,68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.0,3,12,0,CHI,,period_start,0,False,False,,,68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.23,3,11,46,CHI,SAC,foul,1,False,False,,Whiteside P.FOUL (P3.T1) (S.Wall),68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.43,3,11,34,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 24' 3PT Jump Shot,,68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.48,3,11,31,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:3 Def:2),68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.65,3,11,21,SAC,SAC,fg_miss,101,False,False,,MISS Fox 7' Driving Floating Jump Shot,68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.72,3,11,17,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:1 Def:2),68-58,68,58
+0022000460,2021-02-20,CHI,SAC,24.73,3,11,16,SAC,SAC,fg_make,5,False,False,,Whiteside 2' Layup (10 PTS) (Fox 6 AST),68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.0,3,11,0,CHI,CHI,fg_miss,6,False,False,MISS Temple 2' Driving Layup,,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.05,3,10,57,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:5),68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.07,3,10,56,SAC,CHI,foul,1,False,False,Williams P.FOUL (P3.T1) (S.Wall),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.22,3,10,47,SAC,SAC,fg3_miss,79,False,False,,MISS Hield 25' 3PT Pullup Jump Shot,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.25,3,10,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.43,3,10,34,CHI,CHI,fg_miss,79,False,False,MISS White 19' Pullup Jump Shot,,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.48,3,10,31,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:6),68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.7,3,10,18,SAC,SAC,fg_miss,58,False,False,,MISS Bagley III 7' Turnaround Hook Shot,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.73,3,10,16,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:4),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.97,3,10,2,CHI,CHI,tov,1,False,True,Temple Bad Pass Turnover (P1.T6),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,25.97,3,10,2,CHI,SAC,steal,1,False,True,steal,steal,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.03,3,9,58,SAC,SAC,fg_miss,41,True,False,,MISS Bagley III 3' Running Layup,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.03,3,9,58,SAC,CHI,block,41,True,False,block,block,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.08,3,9,55,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:2),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.2,3,9,48,CHI,CHI,tov,1,False,True,LaVine Bad Pass Turnover (P2.T7),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.2,3,9,48,CHI,SAC,steal,1,False,True,steal,steal,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.37,3,9,38,SAC,CHI,foul,1,False,False,Temple P.FOUL (P2.T2) (B.Schwab),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.47,3,9,32,SAC,SAC,fg_miss,80,False,False,,MISS Fox 23' Step Back Jump Shot,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.47,3,9,32,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:0 Def:5),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.47,3,9,32,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,68-60,68,60
+0022000460,2021-02-20,CHI,SAC,26.75,3,9,15,CHI,CHI,fg3_make,1,False,False,LaVine 25' 3PT Jump Shot (23 PTS) (Carter Jr. 4 AST),,71-60,71,60
+0022000460,2021-02-20,CHI,SAC,27.15,3,8,51,SAC,SAC,fg_make,78,False,False,,Whiteside 10' Floating Jump Shot (12 PTS) (Fox 7 AST),71-62,71,62
+0022000460,2021-02-20,CHI,SAC,27.4,3,8,36,CHI,SAC,foul,1,False,False,,Joseph P.FOUL (P3.T2) (B.Schwab),71-62,71,62
+0022000460,2021-02-20,CHI,SAC,27.7,3,8,18,CHI,CHI,fg_make,79,False,False,Williams 21' Pullup Jump Shot (4 PTS) (LaVine 3 AST),,73-62,73,62
+0022000460,2021-02-20,CHI,SAC,27.82,3,8,11,SAC,SAC,fg_miss,47,False,False,,MISS Fox 9' Turnaround Jump Shot,73-62,73,62
+0022000460,2021-02-20,CHI,SAC,27.82,3,8,11,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:4 Def:2),73-62,73,62
+0022000460,2021-02-20,CHI,SAC,27.87,3,8,8,SAC,SAC,fg_make,58,False,False,,Bagley III 5' Turnaround Hook Shot (20 PTS),73-64,73,64
+0022000460,2021-02-20,CHI,SAC,28.12,3,7,53,CHI,CHI,fg_make,78,False,False,Temple 10' Floating Jump Shot (9 PTS),,75-64,75,64
+0022000460,2021-02-20,CHI,SAC,28.32,3,7,41,SAC,SAC,fg_make,79,False,False,,Hield 15' Pullup Jump Shot (9 PTS) (Fox 8 AST),75-66,75,66
+0022000460,2021-02-20,CHI,SAC,28.58,3,7,25,CHI,SAC,foul,2,False,False,,Whiteside S.FOUL (P4.T3) (S.Foster),75-66,75,66
+0022000460,2021-02-20,CHI,SAC,28.58,3,7,25,CHI,CHI,ft_make,11,False,False,Carter Jr. Free Throw 1 of 2 (7 PTS),,76-66,76,66
+0022000460,2021-02-20,CHI,SAC,28.58,3,7,25,CHI,CHI,ft_miss,12,False,False,MISS Carter Jr. Free Throw 2 of 2,,76-66,76,66
+0022000460,2021-02-20,CHI,SAC,28.62,3,7,23,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:4 Def:3),76-66,76,66
+0022000460,2021-02-20,CHI,SAC,28.82,3,7,11,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 26' 3PT Jump Shot,76-66,76,66
+0022000460,2021-02-20,CHI,SAC,28.87,3,7,8,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:5),,76-66,76,66
+0022000460,2021-02-20,CHI,SAC,28.98,3,7,1,CHI,CHI,fg_make,6,False,False,Temple 2' Driving Layup (11 PTS),,78-66,78,66
+0022000460,2021-02-20,CHI,SAC,29.2,3,6,48,SAC,CHI,foul,1,False,False,White P.FOUL (P2.T3) (S.Foster),,78-66,78,66
+0022000460,2021-02-20,CHI,SAC,29.25,3,6,45,SAC,SAC,fg3_make,1,False,False,,Hield 25' 3PT Jump Shot (12 PTS) (Haliburton 2 AST),78-69,78,69
+0022000460,2021-02-20,CHI,SAC,29.5,3,6,30,CHI,CHI,fg3_miss,1,False,False,MISS Williams 3PT Jump Shot,,78-69,78,69
+0022000460,2021-02-20,CHI,SAC,29.57,3,6,26,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:1 Def:4),78-69,78,69
+0022000460,2021-02-20,CHI,SAC,29.73,3,6,16,SAC,SAC,tov,2,False,True,,Fox Lost Ball Turnover (P4.T5),78-69,78,69
+0022000460,2021-02-20,CHI,SAC,29.73,3,6,16,SAC,CHI,steal,2,False,True,steal,steal,78-69,78,69
+0022000460,2021-02-20,CHI,SAC,29.87,3,6,8,CHI,CHI,fg_make,5,False,False,LaVine 1' Layup (25 PTS) (Williams 3 AST),,80-69,80,69
+0022000460,2021-02-20,CHI,SAC,30.03,3,5,58,SAC,SAC,fg_make,78,False,False,,Hield 7' Floating Jump Shot (14 PTS),80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.33,3,5,40,CHI,CHI,fg3_miss,1,False,False,MISS White 25' 3PT Jump Shot,,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.37,3,5,38,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:1),80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,SAC,SAC,fg_miss,47,True,False,,MISS Hield 12' Turnaround Jump Shot,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,SAC,CHI,block,47,True,False,block,block,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:1),,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,CHI,SAC,foul,1,False,False,,Hield P.FOUL (P3.T4) (S.Wall),80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.63,3,5,22,CHI,CHI,tov,45,False,False,Satoransky Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.83,3,5,10,SAC,SAC,fg_miss,6,False,False,,MISS Haliburton 1' Driving Layup,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.85,3,5,9,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:4),,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,31.0,3,5,0,CHI,CHI,fg_make,98,False,False,Satoransky 1' Cutting Layup Shot (8 PTS) (Young 3 AST),,82-71,82,71
+0022000460,2021-02-20,CHI,SAC,31.15,3,4,51,SAC,SAC,fg_make,6,False,False,,Jeffries 1' Driving Layup (2 PTS) (Fox 9 AST),82-73,82,73
+0022000460,2021-02-20,CHI,SAC,31.37,3,4,38,CHI,CHI,fg3_make,1,False,False,White 26' 3PT Jump Shot (14 PTS) (Valentine 2 AST),,85-73,85,73
+0022000460,2021-02-20,CHI,SAC,31.38,3,4,37,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.3 Short 0),85-73,85,73
+0022000460,2021-02-20,CHI,SAC,31.63,3,4,22,SAC,SAC,fg3_miss,79,False,False,,MISS Fox 26' 3PT Pullup Jump Shot,85-73,85,73
+0022000460,2021-02-20,CHI,SAC,31.67,3,4,20,CHI,CHI,reb,0,False,False,Young REBOUND (Off:0 Def:2),,85-73,85,73
+0022000460,2021-02-20,CHI,SAC,31.87,3,4,8,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (27 PTS),,87-73,87,73
+0022000460,2021-02-20,CHI,SAC,32.12,3,3,53,SAC,SAC,tov,4,False,False,,Parker Traveling Turnover (P1.T6),87-73,87,73
+0022000460,2021-02-20,CHI,SAC,32.4,3,3,36,CHI,CHI,fg_miss,58,False,False,MISS Young 4' Turnaround Hook Shot,,87-73,87,73
+0022000460,2021-02-20,CHI,SAC,32.43,3,3,34,SAC,SAC,reb,0,False,False,,Jeffries REBOUND (Off:0 Def:1),87-73,87,73
+0022000460,2021-02-20,CHI,SAC,32.6,3,3,24,SAC,SAC,fg3_make,1,False,False,,Haliburton 3PT Jump Shot (10 PTS) (Bjelica 1 AST),87-76,87,76
+0022000460,2021-02-20,CHI,SAC,32.95,3,3,3,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 3PT Jump Shot,,87-76,87,76
+0022000460,2021-02-20,CHI,SAC,33.0,3,3,0,SAC,SAC,reb,0,False,False,,Parker REBOUND (Off:0 Def:2),87-76,87,76
+0022000460,2021-02-20,CHI,SAC,33.15,3,2,51,SAC,SAC,fg3_miss,1,False,False,,MISS Jeffries 25' 3PT Jump Shot,87-76,87,76
+0022000460,2021-02-20,CHI,SAC,33.22,3,2,47,SAC,SAC,reb,0,False,False,,Parker REBOUND (Off:1 Def:2),87-76,87,76
+0022000460,2021-02-20,CHI,SAC,33.33,3,2,40,SAC,SAC,fg_miss,102,False,False,,MISS Fox 6' Driving Floating Bank Jump Shot,87-76,87,76
+0022000460,2021-02-20,CHI,SAC,33.37,3,2,38,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:5),,87-76,87,76
+0022000460,2021-02-20,CHI,SAC,33.72,3,2,17,CHI,CHI,fg3_miss,1,False,False,MISS Valentine 25' 3PT Jump Shot,,87-76,87,76
+0022000460,2021-02-20,CHI,SAC,33.75,3,2,15,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:2),87-76,87,76
+0022000460,2021-02-20,CHI,SAC,34.03,3,1,58,SAC,SAC,fg3_miss,80,False,False,,MISS Haliburton 3PT Step Back Jump Shot,87-76,87,76
+0022000460,2021-02-20,CHI,SAC,34.12,3,1,53,CHI,CHI,reb,0,False,False,Young REBOUND (Off:0 Def:3),,87-76,87,76
+0022000460,2021-02-20,CHI,SAC,34.12,3,1,53,CHI,SAC,violation,5,False,False,,Fox Violation:Kicked Ball (S.Foster),87-76,87,76
+0022000460,2021-02-20,CHI,SAC,34.27,3,1,44,CHI,CHI,fg_make,101,False,False,Williams 1' Driving Floating Jump Shot (6 PTS) (Satoransky 3 AST),,89-76,89,76
+0022000460,2021-02-20,CHI,SAC,34.43,3,1,34,SAC,CHI,foul,1,False,False,Arcidiacono P.FOUL (P1.T4) (S.Wall),,89-76,89,76
+0022000460,2021-02-20,CHI,SAC,34.65,3,1,21,SAC,CHI,foul,1,False,False,Young P.FOUL (P2.PN) (S.Foster),,89-76,89,76
+0022000460,2021-02-20,CHI,SAC,34.65,3,1,21,SAC,SAC,ft_make,11,False,False,,Bjelica Free Throw 1 of 2 (6 PTS),89-77,89,77
+0022000460,2021-02-20,CHI,SAC,34.65,3,1,21,SAC,SAC,ft_make,12,False,False,,Bjelica Free Throw 2 of 2 (7 PTS),89-78,89,78
+0022000460,2021-02-20,CHI,SAC,34.97,3,1,2,CHI,CHI,fg_make,57,False,False,Young 2' Driving Hook Shot (13 PTS),,91-78,91,78
+0022000460,2021-02-20,CHI,SAC,35.13,3,0,52,SAC,SAC,fg_miss,102,False,False,,MISS Haliburton 2' Driving Floating Bank Jump Shot,91-78,91,78
+0022000460,2021-02-20,CHI,SAC,35.13,3,0,52,SAC,SAC,reb,0,False,False,,Kings Rebound,91-78,91,78
+0022000460,2021-02-20,CHI,SAC,35.17,3,0,50,SAC,SAC,fg_make,5,False,False,,Bjelica 1' Layup (9 PTS) (Haliburton 3 AST),91-80,91,80
+0022000460,2021-02-20,CHI,SAC,35.4,3,0,36,CHI,CHI,tov,1,False,True,Valentine Bad Pass Turnover (P2.T9),,91-80,91,80
+0022000460,2021-02-20,CHI,SAC,35.4,3,0,36,CHI,SAC,steal,1,False,True,steal,steal,91-80,91,80
+0022000460,2021-02-20,CHI,SAC,35.48,3,0,31,SAC,SAC,fg3_miss,80,False,False,,MISS Haliburton 27' 3PT Step Back Jump Shot,91-80,91,80
+0022000460,2021-02-20,CHI,SAC,35.55,3,0,27,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:6),,91-80,91,80
+0022000460,2021-02-20,CHI,SAC,35.78,3,0,13,CHI,SAC,foul,1,False,False,,Parker P.FOUL (P1.PN) (S.Foster),91-80,91,80
+0022000460,2021-02-20,CHI,SAC,35.78,3,0,13,CHI,CHI,ft_make,11,False,False,Young Free Throw 1 of 2 (14 PTS),,92-80,92,80
+0022000460,2021-02-20,CHI,SAC,35.78,3,0,13,CHI,CHI,ft_miss,12,False,False,MISS Young Free Throw 2 of 2,,92-80,92,80
+0022000460,2021-02-20,CHI,SAC,35.82,3,0,11,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:3),92-80,92,80
+0022000460,2021-02-20,CHI,SAC,36.0,3,0,0,SAC,SAC,fg_make,101,False,False,,Fox 6' Driving Floating Jump Shot (11 PTS),92-82,92,82
+0022000460,2021-02-20,CHI,SAC,36.0,3,0,0,SAC,CHI,foul,2,False,False,Arcidiacono S.FOUL (P2.PN) (S.Foster),,92-82,92,82
+0022000460,2021-02-20,CHI,SAC,36.0,3,0,0,SAC,SAC,ft_make,10,False,False,,Fox Free Throw 1 of 1 (12 PTS),92-83,92,83
+0022000460,2021-02-20,CHI,SAC,36.0,3,0,0,CHI,CHI,fg3_make,1,False,False,Williams 52' 3PT Jump Shot (9 PTS) (Young 4 AST),,95-83,95,83
+0022000460,2021-02-20,CHI,SAC,36.0,3,0,0,CHI,,period_end,0,False,False,,,95-83,95,83
+0022000460,2021-02-20,CHI,SAC,36.0,4,12,0,CHI,,period_start,0,False,False,,,95-83,95,83
+0022000460,2021-02-20,CHI,SAC,36.37,4,11,38,SAC,SAC,fg_make,52,False,False,,Bagley III 1' Alley Oop Dunk (22 PTS) (Haliburton 4 AST),95-85,95,85
+0022000460,2021-02-20,CHI,SAC,36.67,4,11,20,CHI,CHI,fg_make,6,False,False,Young 2' Driving Layup (16 PTS),,97-85,97,85
+0022000460,2021-02-20,CHI,SAC,36.87,4,11,8,SAC,SAC,fg_miss,101,False,False,,MISS Haliburton 6' Driving Floating Jump Shot,97-85,97,85
+0022000460,2021-02-20,CHI,SAC,36.9,4,11,6,SAC,SAC,reb,0,False,False,,Jeffries REBOUND (Off:1 Def:1),97-85,97,85
+0022000460,2021-02-20,CHI,SAC,36.92,4,11,5,SAC,SAC,fg_make,6,False,False,,Jeffries 4' Driving Layup (4 PTS),97-87,97,87
+0022000460,2021-02-20,CHI,SAC,37.17,4,10,50,CHI,CHI,fg_miss,101,False,False,MISS Valentine 6' Driving Floating Jump Shot,,97-87,97,87
+0022000460,2021-02-20,CHI,SAC,37.22,4,10,47,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:4 Def:4),97-87,97,87
+0022000460,2021-02-20,CHI,SAC,37.47,4,10,32,SAC,SAC,fg3_miss,1,False,False,,MISS Jeffries 24' 3PT Jump Shot,97-87,97,87
+0022000460,2021-02-20,CHI,SAC,37.52,4,10,29,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:0 Def:2),,97-87,97,87
+0022000460,2021-02-20,CHI,SAC,37.68,4,10,19,CHI,CHI,tov,7,False,False,Valentine Discontinue Dribble Turnover (P3.T10),,97-87,97,87
+0022000460,2021-02-20,CHI,SAC,37.88,4,10,7,SAC,CHI,foul,2,False,False,Williams S.FOUL (P4.T1) (B.Schwab),,97-87,97,87
+0022000460,2021-02-20,CHI,SAC,37.88,4,10,7,SAC,SAC,ft_make,11,False,False,,Bagley III Free Throw 1 of 2 (23 PTS),97-88,97,88
+0022000460,2021-02-20,CHI,SAC,37.88,4,10,7,SAC,SAC,ft_make,12,False,False,,Bagley III Free Throw 2 of 2 (24 PTS),97-89,97,89
+0022000460,2021-02-20,CHI,SAC,38.25,4,9,45,CHI,CHI,fg_make,79,False,False,Williams 21' Pullup Jump Shot (11 PTS) (Satoransky 4 AST),,99-89,99,89
+0022000460,2021-02-20,CHI,SAC,38.45,4,9,33,SAC,SAC,fg_make,101,False,False,,Haliburton 10' Driving Floating Jump Shot (12 PTS),99-91,99,91
+0022000460,2021-02-20,CHI,SAC,38.45,4,9,33,SAC,CHI,foul,2,False,False,White S.FOUL (P3.T2) (S.Foster),,99-91,99,91
+0022000460,2021-02-20,CHI,SAC,38.45,4,9,33,SAC,SAC,ft_make,10,False,False,,Haliburton Free Throw 1 of 1 (13 PTS),99-92,99,92
+0022000460,2021-02-20,CHI,SAC,38.65,4,9,21,CHI,CHI,fg_make,6,False,False,Satoransky 3' Driving Layup (10 PTS),,101-92,101,92
+0022000460,2021-02-20,CHI,SAC,38.85,4,9,9,SAC,SAC,fg_miss,6,False,False,,MISS Haliburton 2' Driving Layup,101-92,101,92
+0022000460,2021-02-20,CHI,SAC,38.87,4,9,8,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:2 Def:4),101-92,101,92
+0022000460,2021-02-20,CHI,SAC,38.87,4,9,8,SAC,CHI,foul,1,False,False,Valentine P.FOUL (P1.T3) (S.Wall),,101-92,101,92
+0022000460,2021-02-20,CHI,SAC,39.0,4,9,0,SAC,SAC,fg_make,86,False,False,,Hield 13' Turnaround Fadeaway (16 PTS),101-94,101,94
+0022000460,2021-02-20,CHI,SAC,39.42,4,8,35,CHI,CHI,fg_miss,101,True,False,MISS Valentine 12' Driving Floating Jump Shot,,101-94,101,94
+0022000460,2021-02-20,CHI,SAC,39.42,4,8,35,CHI,SAC,block,101,True,False,block,block,101-94,101,94
+0022000460,2021-02-20,CHI,SAC,39.47,4,8,32,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:4 Def:5),101-94,101,94
+0022000460,2021-02-20,CHI,SAC,39.48,4,8,31,SAC,SAC,fg3_make,1,False,False,,Hield 26' 3PT Jump Shot (19 PTS) (Haliburton 5 AST),101-97,101,97
+0022000460,2021-02-20,CHI,SAC,39.87,4,8,8,CHI,CHI,fg_miss,63,False,False,MISS White 8' Fadeaway Jumper,,101-97,101,97
+0022000460,2021-02-20,CHI,SAC,39.9,4,8,6,SAC,SAC,reb,0,False,False,,Haliburton REBOUND (Off:0 Def:1),101-97,101,97
+0022000460,2021-02-20,CHI,SAC,40.0,4,8,0,SAC,SAC,fg_make,6,False,False,,Bagley III 2' Driving Layup (26 PTS) (Joseph 1 AST),101-99,101,99
+0022000460,2021-02-20,CHI,SAC,40.0,4,8,0,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 5 Short 0),,101-99,101,99
+0022000460,2021-02-20,CHI,SAC,40.25,4,7,45,CHI,CHI,fg3_make,1,False,False,Temple 24' 3PT Jump Shot (14 PTS) (Carter Jr. 5 AST),,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,40.62,4,7,23,SAC,SAC,fg_miss,58,False,False,,MISS Bagley III 7' Turnaround Hook Shot,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,40.65,4,7,21,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:7),,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,40.8,4,7,12,CHI,CHI,fg_miss,6,False,False,MISS Williams 1' Driving Layup,,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,40.8,4,7,12,SAC,SAC,reb,0,False,False,,Kings Rebound,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,40.8,4,7,12,SAC,CHI,foul,3,False,False,Carter Jr. L.B.FOUL (P2.T4) (S.Wall),,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,41.07,4,6,56,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 28' 3PT Jump Shot,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,41.12,4,6,53,CHI,CHI,reb,0,False,False,BULLS Rebound,,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,41.28,4,6,43,SAC,CHI,foul,4,False,False,Carter Jr. OFF.Foul (P3) (S.Foster),,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,41.28,4,6,43,CHI,CHI,tov,37,False,False,Carter Jr. Offensive Foul Turnover (P1.T11),,104-99,104,99
+0022000460,2021-02-20,CHI,SAC,41.47,4,6,32,SAC,SAC,fg_make,6,False,False,,Fox 2' Driving Layup (14 PTS),104-101,104,101
+0022000460,2021-02-20,CHI,SAC,41.7,4,6,18,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (29 PTS),,106-101,106,101
+0022000460,2021-02-20,CHI,SAC,41.85,4,6,9,SAC,SAC,fg3_miss,1,False,False,,MISS Bagley III 26' 3PT Jump Shot,106-101,106,101
+0022000460,2021-02-20,CHI,SAC,41.9,4,6,6,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:3),,106-101,106,101
+0022000460,2021-02-20,CHI,SAC,42.07,4,5,56,CHI,CHI,fg3_make,1,False,False,White 27' 3PT Jump Shot (17 PTS) (Temple 1 AST),,109-101,109,101
+0022000460,2021-02-20,CHI,SAC,42.08,4,5,55,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.4 Short 0),109-101,109,101
+0022000460,2021-02-20,CHI,SAC,42.25,4,5,45,SAC,SAC,fg_make,6,False,False,,Haliburton 1' Driving Layup (15 PTS),109-103,109,103
+0022000460,2021-02-20,CHI,SAC,42.25,4,5,45,SAC,CHI,foul,2,False,False,Temple S.FOUL (P3.PN) (S.Foster),,109-103,109,103
+0022000460,2021-02-20,CHI,SAC,42.25,4,5,45,SAC,SAC,ft_make,10,False,False,,Haliburton Free Throw 1 of 1 (16 PTS),109-104,109,104
+0022000460,2021-02-20,CHI,SAC,42.42,4,5,35,SAC,CHI,foul,26,False,False,Carter Jr. Offensive Charge Foul (P4.PN) (S.Foster),,109-104,109,104
+0022000460,2021-02-20,CHI,SAC,42.42,4,5,35,CHI,CHI,tov,37,False,False,Carter Jr. Offensive Foul Turnover (P2.T12),,109-104,109,104
+0022000460,2021-02-20,CHI,SAC,42.42,4,5,35,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 6 Short 0),,109-104,109,104
+0022000460,2021-02-20,CHI,SAC,42.57,4,5,26,SAC,SAC,fg_miss,79,False,False,,MISS Fox 17' Pullup Jump Shot,109-104,109,104
+0022000460,2021-02-20,CHI,SAC,42.63,4,5,22,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:3),,109-104,109,104
+0022000460,2021-02-20,CHI,SAC,42.82,4,5,11,CHI,CHI,fg_make,6,False,False,LaVine 2' Driving Layup (31 PTS),,111-104,111,104
+0022000460,2021-02-20,CHI,SAC,42.82,4,5,11,CHI,SAC,foul,2,False,False,,Bagley III S.FOUL (P1.T1) (B.Schwab),111-104,111,104
+0022000460,2021-02-20,CHI,SAC,42.82,4,5,11,CHI,CHI,ft_make,10,False,False,LaVine Free Throw 1 of 1 (32 PTS),,112-104,112,104
+0022000460,2021-02-20,CHI,SAC,43.07,4,4,56,SAC,SAC,fg_miss,79,False,False,,MISS Haliburton 16' Pullup Jump Shot,112-104,112,104
+0022000460,2021-02-20,CHI,SAC,43.13,4,4,52,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:4),,112-104,112,104
+0022000460,2021-02-20,CHI,SAC,43.28,4,4,43,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (34 PTS),,114-104,114,104
+0022000460,2021-02-20,CHI,SAC,43.3,4,4,42,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.5 Short 0),114-104,114,104
+0022000460,2021-02-20,CHI,SAC,43.63,4,4,22,SAC,SAC,fg_make,63,False,False,,Fox 10' Fadeaway Jumper (16 PTS),114-106,114,106
+0022000460,2021-02-20,CHI,SAC,43.93,4,4,4,CHI,CHI,fg_make,79,False,False,LaVine 12' Pullup Jump Shot (36 PTS),,116-106,116,106
+0022000460,2021-02-20,CHI,SAC,44.23,4,3,46,SAC,SAC,fg_make,6,False,False,,Hield 1' Driving Layup (21 PTS),116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.5,4,3,30,CHI,SAC,foul,1,False,False,,Joseph P.FOUL (P4.T2) (B.Schwab),116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.55,4,3,27,CHI,CHI,tov,1,False,True,Williams Bad Pass Turnover (P3.T13),,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.55,4,3,27,CHI,SAC,steal,1,False,True,steal,steal,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.67,4,3,20,SAC,SAC,fg_miss,5,True,False,,MISS Haliburton 3' Layup,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.67,4,3,20,SAC,CHI,block,5,True,False,block,block,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.72,4,3,17,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:5 Def:5),116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.73,4,3,16,SAC,SAC,fg_miss,5,True,False,,MISS Bagley III 1' Layup,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.73,4,3,16,SAC,CHI,block,5,True,False,block,block,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.78,4,3,13,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:3 Def:4),116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.82,4,3,11,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 26' 3PT Jump Shot,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,44.85,4,3,9,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:8),,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,45.07,4,2,56,CHI,CHI,tov,1,False,False,LaVine Bad Pass Turnover (P3.T14),,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,45.07,4,2,56,SAC,CHI,foul,3,False,False,LaVine L.B.FOUL (P2.PN) (S.Wall),,116-108,116,108
+0022000460,2021-02-20,CHI,SAC,45.07,4,2,56,SAC,SAC,ft_make,11,False,False,,Fox Free Throw 1 of 2 (17 PTS),116-109,116,109
+0022000460,2021-02-20,CHI,SAC,45.07,4,2,56,SAC,SAC,ft_make,12,False,False,,Fox Free Throw 2 of 2 (18 PTS),116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.32,4,2,41,CHI,CHI,fg_miss,6,False,False,MISS White 3' Driving Layup,,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.33,4,2,40,CHI,CHI,reb,0,False,False,White REBOUND (Off:1 Def:1),,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.47,4,2,32,CHI,CHI,fg_miss,79,False,False,MISS LaVine 22' Pullup Jump Shot,,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.53,4,2,28,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:2),116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.65,4,2,21,SAC,SAC,fg_miss,101,False,False,,MISS Hield 6' Driving Floating Jump Shot,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.67,4,2,20,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:9),,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.82,4,2,11,CHI,CHI,fg3_miss,1,False,False,MISS White 27' 3PT Jump Shot,,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.87,4,2,8,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:3),116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.92,4,2,5,SAC,SAC,tov,1,False,True,,Hield Bad Pass Turnover (P1.T7),116-110,116,110
+0022000460,2021-02-20,CHI,SAC,45.92,4,2,5,SAC,CHI,steal,1,False,True,steal,steal,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.2,4,1,48,CHI,CHI,fg_miss,5,False,False,MISS Carter Jr. 1' Layup,,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.23,4,1,46,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:4),116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.38,4,1,37,SAC,SAC,fg_miss,79,False,False,,MISS Fox 16' Pullup Jump Shot,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.43,4,1,34,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:4),,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.62,4,1,23,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 28' 3PT Jump Shot,,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.65,4,1,21,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:5 Def:6),116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.8,4,1,12,SAC,CHI,foul,2,False,False,LaVine S.FOUL (P3.PN) (S.Foster),,116-110,116,110
+0022000460,2021-02-20,CHI,SAC,46.8,4,1,12,SAC,SAC,ft_make,11,False,False,,Fox Free Throw 1 of 2 (19 PTS),116-111,116,111
+0022000460,2021-02-20,CHI,SAC,46.8,4,1,12,SAC,SAC,ft_make,12,False,False,,Fox Free Throw 2 of 2 (20 PTS),116-112,116,112
+0022000460,2021-02-20,CHI,SAC,47.08,4,0,55,CHI,SAC,foul,1,False,False,,Fox P.FOUL (P3.T3) (S.Foster),116-112,116,112
+0022000460,2021-02-20,CHI,SAC,47.25,4,0,45,CHI,CHI,fg_make,101,False,False,Young 2' Driving Floating Jump Shot (18 PTS),,118-112,118,112
+0022000460,2021-02-20,CHI,SAC,47.25,4,0,45,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.6 Short 0),118-112,118,112
+0022000460,2021-02-20,CHI,SAC,47.35,4,0,39,SAC,SAC,fg3_miss,1,True,False,,MISS Hield 26' 3PT Jump Shot,118-112,118,112
+0022000460,2021-02-20,CHI,SAC,47.35,4,0,39,SAC,CHI,block,1,True,False,block,block,118-112,118,112
+0022000460,2021-02-20,CHI,SAC,47.4,4,0,36,CHI,CHI,reb,0,False,False,White REBOUND (Off:1 Def:2),,118-112,118,112
+0022000460,2021-02-20,CHI,SAC,47.58,4,0,25,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 7 Short 0),,118-112,118,112
+0022000460,2021-02-20,CHI,SAC,47.72,4,0,17,CHI,CHI,fg_make,80,False,False,LaVine 17' Step Back Jump Shot (38 PTS),,120-112,120,112
+0022000460,2021-02-20,CHI,SAC,47.72,4,0,17,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.7 Short 0),120-112,120,112
+0022000460,2021-02-20,CHI,SAC,47.82,4,0,11,SAC,SAC,fg_make,1,False,False,,Hield 21' Jump Shot (23 PTS) (Bagley III 2 AST),120-114,120,114
+0022000460,2021-02-20,CHI,SAC,47.83,4,0,10,CHI,SAC,foul,28,False,False,,Fox Personal Take Foul (P4.PN) (S.Foster),120-114,120,114
+0022000460,2021-02-20,CHI,SAC,47.83,4,0,10,CHI,CHI,ft_make,11,False,False,White Free Throw 1 of 2 (18 PTS),,121-114,121,114
+0022000460,2021-02-20,CHI,SAC,47.83,4,0,10,CHI,CHI,ft_make,12,False,False,White Free Throw 2 of 2 (19 PTS),,122-114,122,114
+0022000460,2021-02-20,CHI,SAC,47.97,4,0,2,SAC,SAC,fg3_miss,79,False,False,,MISS Hield 26' 3PT Pullup Jump Shot,122-114,122,114
+0022000460,2021-02-20,CHI,SAC,48.0,4,0,0,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:1 Def:10),,122-114,122,114
+0022000460,2021-02-20,CHI,SAC,48.0,4,0,0,CHI,,period_end,0,False,False,,,122-114,122,114

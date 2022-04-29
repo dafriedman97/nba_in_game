@@ -1,0 +1,442 @@
+game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
+0022100583,2022-01-07,BKN,MIL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
+0022100583,2022-01-07,BKN,MIL,0.0,1,12,0,,BKN,jump_ball,0,False,False,Jump Ball Claxton vs. Portis: Tip to Durant,,0-0,0,0
+0022100583,2022-01-07,BKN,MIL,0.25,1,11,45,BKN,BKN,fg3_miss,1,False,False,MISS Mills 25' 3PT Jump Shot,,0-0,0,0
+0022100583,2022-01-07,BKN,MIL,0.3,1,11,42,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:1),0-0,0,0
+0022100583,2022-01-07,BKN,MIL,0.47,1,11,32,MIL,MIL,fg_make,63,False,False,,Matthews 7' Fadeaway Jumper (2 PTS),0-2,0,2
+0022100583,2022-01-07,BKN,MIL,0.47,1,11,32,MIL,BKN,foul,2,False,False,Duke Jr. S.FOUL (P1.T1) (T.Washington),,0-2,0,2
+0022100583,2022-01-07,BKN,MIL,0.47,1,11,32,MIL,MIL,ft_miss,10,False,False,,MISS Matthews Free Throw 1 of 1,0-2,0,2
+0022100583,2022-01-07,BKN,MIL,0.52,1,11,29,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,0-2,0,2
+0022100583,2022-01-07,BKN,MIL,0.9,1,11,6,BKN,BKN,fg_make,75,False,False,Duke Jr. 2' Driving Finger Roll Layup (2 PTS),,2-2,2,2
+0022100583,2022-01-07,BKN,MIL,1.17,1,10,50,MIL,BKN,steal,1,False,True,steal,steal,2-2,2,2
+0022100583,2022-01-07,BKN,MIL,1.17,1,10,50,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P1.T1),2-2,2,2
+0022100583,2022-01-07,BKN,MIL,1.27,1,10,44,BKN,BKN,fg_miss,74,False,False,MISS Harden 1' Running Reverse Layup,,2-2,2,2
+0022100583,2022-01-07,BKN,MIL,1.3,1,10,42,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:1),2-2,2,2
+0022100583,2022-01-07,BKN,MIL,1.37,1,10,38,MIL,MIL,fg_make,41,False,False,,Antetokounmpo 1' Running Layup (2 PTS),2-4,2,4
+0022100583,2022-01-07,BKN,MIL,1.6,1,10,24,BKN,BKN,fg_make,63,False,False,Durant 10' Fadeaway Jumper (2 PTS) (Harden 1 AST),,4-4,4,4
+0022100583,2022-01-07,BKN,MIL,1.88,1,10,7,MIL,MIL,fg_make,6,False,False,,Matthews 3' Driving Layup (4 PTS) (Antetokounmpo 1 AST),4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.02,1,9,59,BKN,MIL,violation,5,False,False,,Middleton Violation:Kicked Ball (M.Kogut),4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.25,1,9,45,BKN,BKN,fg_miss,101,False,False,MISS Harden 7' Driving Floating Jump Shot,,4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.33,1,9,40,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:2),4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.4,1,9,36,MIL,MIL,tov,1,False,True,,Matthews Bad Pass Turnover (P1.T2),4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.4,1,9,36,MIL,BKN,steal,1,False,True,steal,steal,4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.62,1,9,23,BKN,BKN,fg3_miss,1,False,False,MISS Duke Jr. 3PT Jump Shot,,4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.7,1,9,18,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.77,1,9,14,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 26' 3PT Pullup Jump Shot,4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.83,1,9,10,BKN,BKN,reb,0,False,False,Mills REBOUND (Off:0 Def:1),,4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.9,1,9,6,BKN,BKN,fg_miss,98,False,False,MISS Duke Jr. Cutting Layup Shot,,4-6,4,6
+0022100583,2022-01-07,BKN,MIL,2.93,1,9,4,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:3),4-6,4,6
+0022100583,2022-01-07,BKN,MIL,3.02,1,8,59,MIL,MIL,fg3_make,1,False,False,,Nwora 25' 3PT Jump Shot (3 PTS) (Antetokounmpo 2 AST),4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.33,1,8,40,BKN,MIL,foul,1,False,False,,Matthews P.FOUL (P1.T1) (M.Kogut),4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.45,1,8,33,BKN,BKN,fg3_miss,1,False,False,MISS Mills 25' 3PT Jump Shot,,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.52,1,8,29,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:1),4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.62,1,8,23,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.67,1,8,20,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:2),,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.72,1,8,17,BKN,BKN,reb,0,False,False,NETS Rebound,,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.72,1,8,17,BKN,BKN,fg_miss,6,False,False,MISS Harden 10' Driving Layup,,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.77,1,8,14,BKN,BKN,fg_miss,63,False,False,MISS Durant 13' Fadeaway Jumper,,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.87,1,8,8,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:3),4-9,4,9
+0022100583,2022-01-07,BKN,MIL,3.93,1,8,4,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,4.03,1,7,58,MIL,MIL,reb,0,False,False,,Nwora REBOUND (Off:1 Def:0),4-9,4,9
+0022100583,2022-01-07,BKN,MIL,4.05,1,7,57,MIL,MIL,fg3_miss,79,False,False,,MISS Matthews 26' 3PT Pullup Jump Shot,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,4.13,1,7,52,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:1),,4-9,4,9
+0022100583,2022-01-07,BKN,MIL,4.18,1,7,49,BKN,BKN,fg3_make,1,False,False,Mills 25' 3PT Jump Shot (3 PTS) (Durant 1 AST),,7-9,7,9
+0022100583,2022-01-07,BKN,MIL,4.38,1,7,37,MIL,MIL,fg_make,99,False,False,,Antetokounmpo 4' Cutting Finger Roll Layup Shot (4 PTS) (Middleton 1 AST),7-11,7,11
+0022100583,2022-01-07,BKN,MIL,4.55,1,7,27,BKN,BKN,fg3_miss,1,False,False,MISS Mills 25' 3PT Jump Shot,,7-11,7,11
+0022100583,2022-01-07,BKN,MIL,4.55,1,7,27,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:1),7-11,7,11
+0022100583,2022-01-07,BKN,MIL,4.65,1,7,21,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 25' 3PT Pullup Jump Shot,7-11,7,11
+0022100583,2022-01-07,BKN,MIL,4.72,1,7,17,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:3),7-11,7,11
+0022100583,2022-01-07,BKN,MIL,4.77,1,7,14,MIL,MIL,fg_make,86,False,False,,Portis 8' Turnaround Fadeaway (2 PTS),7-13,7,13
+0022100583,2022-01-07,BKN,MIL,5.15,1,6,51,BKN,BKN,fg_miss,79,False,False,MISS Mills 20' Pullup Jump Shot,,7-13,7,13
+0022100583,2022-01-07,BKN,MIL,5.2,1,6,48,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:1 Def:0),,7-13,7,13
+0022100583,2022-01-07,BKN,MIL,5.3,1,6,42,BKN,BKN,fg_make,79,False,False,Duke Jr. 17' Pullup Jump Shot (4 PTS) (Mills 1 AST),,9-13,9,13
+0022100583,2022-01-07,BKN,MIL,5.68,1,6,19,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 1 Short 0),,9-13,9,13
+0022100583,2022-01-07,BKN,MIL,5.68,1,6,19,BKN,MIL,ft_make,11,False,False,,Portis Free Throw 1 of 2 (3 PTS),9-14,9,14
+0022100583,2022-01-07,BKN,MIL,5.68,1,6,19,BKN,MIL,ft_make,12,False,False,,Portis Free Throw 2 of 2 (4 PTS),9-15,9,15
+0022100583,2022-01-07,BKN,MIL,5.68,1,6,19,MIL,BKN,foul,2,False,False,Durant S.FOUL (P1.T2) (S.Twardoski),,9-13,9,13
+0022100583,2022-01-07,BKN,MIL,5.95,1,6,3,BKN,BKN,tov,1,False,True,Claxton Bad Pass Turnover (P1.T1),,9-15,9,15
+0022100583,2022-01-07,BKN,MIL,5.95,1,6,3,BKN,MIL,steal,1,False,True,steal,steal,9-15,9,15
+0022100583,2022-01-07,BKN,MIL,6.07,1,5,56,MIL,MIL,fg_miss,101,False,False,,MISS Middleton 7' Driving Floating Jump Shot,9-15,9,15
+0022100583,2022-01-07,BKN,MIL,6.13,1,5,52,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:2),,9-15,9,15
+0022100583,2022-01-07,BKN,MIL,6.27,1,5,44,BKN,BKN,fg_miss,79,False,False,MISS Durant 8' Pullup Jump Shot,,9-15,9,15
+0022100583,2022-01-07,BKN,MIL,6.35,1,5,39,MIL,MIL,reb,0,False,False,,Galloway REBOUND (Off:0 Def:1),9-15,9,15
+0022100583,2022-01-07,BKN,MIL,6.55,1,5,27,MIL,MIL,fg_make,79,False,False,,Portis 15' Pullup Jump Shot (6 PTS),9-17,9,17
+0022100583,2022-01-07,BKN,MIL,6.98,1,5,1,BKN,MIL,block,79,True,False,block,block,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,6.98,1,5,1,BKN,BKN,fg_miss,79,True,False,MISS Durant 13' Pullup Jump Shot,,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.02,1,4,59,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#2),,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.02,1,4,59,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:2),,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.23,1,4,46,MIL,MIL,fg_miss,101,False,False,,MISS Middleton 11' Driving Floating Jump Shot,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.3,1,4,42,MIL,MIL,reb,0,False,False,,Mamukelashvili REBOUND (Off:1 Def:0),9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.3,1,4,42,MIL,MIL,fg_miss,97,False,False,,MISS Mamukelashvili Tip Layup Shot,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.32,1,4,41,BKN,BKN,reb,0,False,False,Aldridge REBOUND (Off:0 Def:1),,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.35,1,4,39,BKN,MIL,foul,1,False,False,,Middleton P.FOUL (P1.T2) (S.Twardoski),9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.5,1,4,30,BKN,BKN,fg_miss,1,False,False,MISS Aldridge 15' Jump Shot,,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.53,1,4,28,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:4),9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.78,1,4,13,MIL,MIL,ft_make,12,False,False,,Portis Free Throw 2 of 2 (8 PTS),9-19,9,19
+0022100583,2022-01-07,BKN,MIL,7.78,1,4,13,MIL,BKN,foul,2,False,False,Durant S.FOUL (P2.T3) (S.Twardoski),,9-17,9,17
+0022100583,2022-01-07,BKN,MIL,7.78,1,4,13,MIL,MIL,ft_make,11,False,False,,Portis Free Throw 1 of 2 (7 PTS),9-18,9,18
+0022100583,2022-01-07,BKN,MIL,8.0,1,4,0,BKN,BKN,fg3_miss,1,False,False,MISS Johnson 3PT Jump Shot,,9-19,9,19
+0022100583,2022-01-07,BKN,MIL,8.07,1,3,56,BKN,BKN,reb,0,False,False,Thomas REBOUND (Off:1 Def:0),,9-19,9,19
+0022100583,2022-01-07,BKN,MIL,8.17,1,3,50,BKN,BKN,fg_make,79,False,False,Thomas 7' Pullup Jump Shot (2 PTS),,11-19,11,19
+0022100583,2022-01-07,BKN,MIL,8.4,1,3,36,MIL,MIL,fg_make,79,False,False,,Portis 19' Pullup Jump Shot (10 PTS),11-21,11,21
+0022100583,2022-01-07,BKN,MIL,8.63,1,3,22,BKN,BKN,tov,2,False,True,Harden Lost Ball Turnover (P1.T3),,11-21,11,21
+0022100583,2022-01-07,BKN,MIL,8.63,1,3,22,BKN,MIL,steal,2,False,True,steal,steal,11-21,11,21
+0022100583,2022-01-07,BKN,MIL,8.68,1,3,19,MIL,MIL,fg_miss,50,False,False,,MISS Portis Running Dunk,11-21,11,21
+0022100583,2022-01-07,BKN,MIL,8.75,1,3,15,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:3),,11-21,11,21
+0022100583,2022-01-07,BKN,MIL,8.82,1,3,11,BKN,BKN,fg_make,98,False,False,Johnson 2' Cutting Layup Shot (2 PTS) (Thomas 1 AST),,13-21,13,21
+0022100583,2022-01-07,BKN,MIL,8.97,1,3,2,MIL,MIL,fg_make,79,False,False,,Middleton 14' Pullup Jump Shot (2 PTS),13-23,13,23
+0022100583,2022-01-07,BKN,MIL,9.18,1,2,49,BKN,MIL,violation,5,False,False,,Hood Violation:Kicked Ball (T.Washington),13-23,13,23
+0022100583,2022-01-07,BKN,MIL,9.18,1,2,49,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),13-23,13,23
+0022100583,2022-01-07,BKN,MIL,9.27,1,2,44,BKN,BKN,ft_make,10,False,False,Durant Free Throw 1 of 1 (5 PTS),,16-23,16,23
+0022100583,2022-01-07,BKN,MIL,9.27,1,2,44,BKN,BKN,fg_make,79,False,False,Durant 17' Pullup Jump Shot (4 PTS),,15-23,15,23
+0022100583,2022-01-07,BKN,MIL,9.27,1,2,44,BKN,MIL,foul,2,False,False,,Ojeleye S.FOUL (P1.T3) (S.Twardoski),15-23,15,23
+0022100583,2022-01-07,BKN,MIL,9.68,1,2,19,MIL,MIL,fg_make,9,False,False,,Antetokounmpo Driving Dunk (6 PTS) (Galloway 1 AST),16-25,16,25
+0022100583,2022-01-07,BKN,MIL,10.0,1,2,0,BKN,BKN,fg_miss,101,False,False,MISS Thomas 6' Driving Floating Jump Shot,,16-25,16,25
+0022100583,2022-01-07,BKN,MIL,10.07,1,1,56,BKN,BKN,fg_miss,97,False,False,MISS Johnson Tip Layup Shot,,16-25,16,25
+0022100583,2022-01-07,BKN,MIL,10.07,1,1,56,BKN,BKN,reb,0,False,False,Johnson REBOUND (Off:1 Def:0),,16-25,16,25
+0022100583,2022-01-07,BKN,MIL,10.08,1,1,55,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:2),16-25,16,25
+0022100583,2022-01-07,BKN,MIL,10.12,1,1,53,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (8 PTS),16-27,16,27
+0022100583,2022-01-07,BKN,MIL,10.12,1,1,53,MIL,BKN,foul,2,False,False,Aldridge S.FOUL (P1.T4) (T.Washington),,16-25,16,25
+0022100583,2022-01-07,BKN,MIL,10.12,1,1,53,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (7 PTS),16-26,16,26
+0022100583,2022-01-07,BKN,MIL,10.32,1,1,41,BKN,BKN,tov,39,False,False,Thomas Step Out of Bounds Turnover (P1.T4),,16-27,16,27
+0022100583,2022-01-07,BKN,MIL,10.5,1,1,30,BKN,MIL,foul,4,False,False,,Antetokounmpo OFF.Foul (P1) (M.Kogut),16-27,16,27
+0022100583,2022-01-07,BKN,MIL,10.5,1,1,30,MIL,MIL,tov,37,False,False,,Antetokounmpo Offensive Foul Turnover (P1.T3),16-27,16,27
+0022100583,2022-01-07,BKN,MIL,10.67,1,1,20,BKN,MIL,foul,1,False,False,,Mamukelashvili P.FOUL (P1.T4) (M.Kogut),16-27,16,27
+0022100583,2022-01-07,BKN,MIL,10.75,1,1,15,BKN,BKN,fg_make,98,False,False,Aldridge 1' Cutting Layup Shot (2 PTS) (Durant 2 AST),,18-27,18,27
+0022100583,2022-01-07,BKN,MIL,10.9,1,1,6,MIL,MIL,fg3_miss,1,False,False,,MISS Nwora 25' 3PT Jump Shot,18-27,18,27
+0022100583,2022-01-07,BKN,MIL,10.9,1,1,6,BKN,BKN,reb,0,False,False,Johnson REBOUND (Off:1 Def:1),,18-27,18,27
+0022100583,2022-01-07,BKN,MIL,11.0,1,1,0,BKN,MIL,violation,5,False,False,,Mamukelashvili Violation:Kicked Ball (M.Kogut),18-27,18,27
+0022100583,2022-01-07,BKN,MIL,11.08,1,0,55,BKN,BKN,ft_make,13,False,False,Durant Free Throw 1 of 3 (6 PTS),,19-27,19,27
+0022100583,2022-01-07,BKN,MIL,11.08,1,0,55,BKN,BKN,ft_make,14,False,False,Durant Free Throw 2 of 3 (7 PTS),,20-27,20,27
+0022100583,2022-01-07,BKN,MIL,11.08,1,0,55,BKN,BKN,ft_make,15,False,False,Durant Free Throw 3 of 3 (8 PTS),,21-27,21,27
+0022100583,2022-01-07,BKN,MIL,11.08,1,0,55,BKN,MIL,foul,2,False,False,,Mamukelashvili S.FOUL (P2.PN) (M.Kogut),18-27,18,27
+0022100583,2022-01-07,BKN,MIL,11.5,1,0,30,MIL,MIL,tov,11,False,False,,Bucks Turnover: Shot Clock (T#4),21-27,21,27
+0022100583,2022-01-07,BKN,MIL,11.65,1,0,21,BKN,BKN,fg_miss,1,False,False,MISS Durant 16' Jump Shot,,21-27,21,27
+0022100583,2022-01-07,BKN,MIL,11.7,1,0,18,MIL,MIL,reb,0,False,False,,Mamukelashvili REBOUND (Off:1 Def:1),21-27,21,27
+0022100583,2022-01-07,BKN,MIL,11.97,1,0,2,MIL,MIL,fg_make,79,False,False,,Antetokounmpo 18' Pullup Jump Shot (10 PTS),21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.0,1,0,0,MIL,,period_end,0,False,False,,,21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.0,2,12,0,MIL,,period_start,0,False,False,,,21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.37,2,11,38,MIL,BKN,block,47,True,False,block,block,21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.37,2,11,38,MIL,MIL,fg_miss,47,True,False,,MISS Portis 10' Turnaround Jump Shot,21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.37,2,11,38,MIL,MIL,reb,0,False,False,,Bucks Rebound,21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.42,2,11,35,MIL,MIL,fg_miss,86,False,False,,MISS Middleton 17' Turnaround Fadeaway Shot,21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.5,2,11,30,BKN,BKN,reb,0,False,False,Mills REBOUND (Off:0 Def:2),,21-29,21,29
+0022100583,2022-01-07,BKN,MIL,12.68,2,11,19,BKN,BKN,fg_make,75,False,False,Harden 1' Driving Finger Roll Layup (2 PTS),,23-29,23,29
+0022100583,2022-01-07,BKN,MIL,12.9,2,11,6,MIL,MIL,fg_miss,101,False,False,,MISS Portis 10' Driving Floating Jump Shot,23-29,23,29
+0022100583,2022-01-07,BKN,MIL,12.97,2,11,2,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:3),,23-29,23,29
+0022100583,2022-01-07,BKN,MIL,13.33,2,10,40,BKN,BKN,ft_make,12,False,False,Claxton Free Throw 2 of 2 (2 PTS),,25-29,25,29
+0022100583,2022-01-07,BKN,MIL,13.33,2,10,40,BKN,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P2.T1) (M.Kogut),23-29,23,29
+0022100583,2022-01-07,BKN,MIL,13.33,2,10,40,BKN,BKN,ft_make,11,False,False,Claxton Free Throw 1 of 2 (1 PTS),,24-29,24,29
+0022100583,2022-01-07,BKN,MIL,13.48,2,10,31,MIL,MIL,fg_make,98,False,False,,Antetokounmpo 1' Cutting Layup Shot (12 PTS) (Middleton 2 AST),25-31,25,31
+0022100583,2022-01-07,BKN,MIL,13.93,2,10,4,BKN,BKN,fg_make,101,False,False,Thomas 9' Driving Floating Jump Shot (4 PTS),,27-31,27,31
+0022100583,2022-01-07,BKN,MIL,14.28,2,9,43,MIL,MIL,fg3_make,1,False,False,,Portis 3PT Jump Shot (13 PTS) (Antetokounmpo 3 AST),27-34,27,34
+0022100583,2022-01-07,BKN,MIL,14.6,2,9,24,BKN,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P3.T2) (T.Washington),29-34,29,34
+0022100583,2022-01-07,BKN,MIL,14.6,2,9,24,BKN,BKN,ft_make,10,False,False,Thomas Free Throw 1 of 1 (7 PTS),,30-34,30,34
+0022100583,2022-01-07,BKN,MIL,14.6,2,9,24,BKN,BKN,fg_make,101,False,False,Thomas 12' Driving Floating Jump Shot (6 PTS) (Harden 2 AST),,29-34,29,34
+0022100583,2022-01-07,BKN,MIL,14.75,2,9,15,MIL,MIL,fg3_miss,79,False,False,,MISS Middleton 26' 3PT Pullup Jump Shot,30-34,30,34
+0022100583,2022-01-07,BKN,MIL,14.8,2,9,12,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:2 Def:3),30-34,30,34
+0022100583,2022-01-07,BKN,MIL,14.8,2,9,12,MIL,MIL,fg_make,72,False,False,,Portis Putback Layup (15 PTS),30-36,30,36
+0022100583,2022-01-07,BKN,MIL,14.8,2,9,12,MIL,BKN,foul,2,False,False,Bembry S.FOUL (P1.T1) (T.Washington),,30-36,30,36
+0022100583,2022-01-07,BKN,MIL,14.8,2,9,12,MIL,MIL,ft_make,10,False,False,,Portis Free Throw 1 of 1 (16 PTS),30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.17,2,8,50,BKN,BKN,fg3_miss,1,False,False,MISS Mills 24' 3PT Jump Shot,,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.23,2,8,46,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:2 Def:4),30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.47,2,8,32,MIL,MIL,fg3_miss,1,False,False,,MISS Galloway 25' 3PT Jump Shot,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.52,2,8,29,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:4),,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.63,2,8,22,BKN,BKN,fg3_miss,79,False,False,MISS Harden 25' 3PT Pullup Jump Shot,,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.68,2,8,19,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:5),30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.8,2,8,12,MIL,MIL,fg_miss,80,False,False,,MISS Nwora 15' Step Back Jump Shot,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.87,2,8,8,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:5),,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.97,2,8,2,BKN,BKN,fg_miss,6,True,False,MISS Harden 3' Driving Layup,,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,15.97,2,8,2,BKN,MIL,block,6,True,False,block,block,30-37,30,37
+0022100583,2022-01-07,BKN,MIL,16.02,2,7,59,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:2),30-37,30,37
+0022100583,2022-01-07,BKN,MIL,16.08,2,7,55,MIL,MIL,fg_make,98,False,False,,Portis 2' Cutting Layup Shot (18 PTS) (Galloway 2 AST),30-39,30,39
+0022100583,2022-01-07,BKN,MIL,16.08,2,7,55,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,30-39,30,39
+0022100583,2022-01-07,BKN,MIL,16.37,2,7,38,BKN,BKN,fg_miss,101,False,False,MISS Claxton 12' Driving Floating Jump Shot,,30-39,30,39
+0022100583,2022-01-07,BKN,MIL,16.42,2,7,35,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:2 Def:0),,30-39,30,39
+0022100583,2022-01-07,BKN,MIL,16.45,2,7,33,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:3 Def:0),,30-39,30,39
+0022100583,2022-01-07,BKN,MIL,16.45,2,7,33,BKN,BKN,fg_miss,72,False,False,MISS Claxton Putback Layup,,30-39,30,39
+0022100583,2022-01-07,BKN,MIL,16.5,2,7,30,BKN,BKN,fg_make,97,False,False,Claxton Tip Layup Shot (4 PTS),,32-39,32,39
+0022100583,2022-01-07,BKN,MIL,16.7,2,7,18,MIL,MIL,fg_miss,63,False,False,,MISS Middleton 19' Fadeaway Jumper,32-39,32,39
+0022100583,2022-01-07,BKN,MIL,16.77,2,7,14,MIL,MIL,fg_make,97,False,False,,Portis Tip Layup Shot (20 PTS),32-41,32,41
+0022100583,2022-01-07,BKN,MIL,16.77,2,7,14,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:4),32-39,32,39
+0022100583,2022-01-07,BKN,MIL,16.98,2,7,1,BKN,MIL,steal,1,False,True,steal,steal,32-41,32,41
+0022100583,2022-01-07,BKN,MIL,16.98,2,7,1,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P2.T5),,32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.1,2,6,54,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.17,2,6,50,BKN,BKN,reb,0,False,False,Thomas REBOUND (Off:1 Def:1),,32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.3,2,6,42,BKN,BKN,fg_miss,6,False,False,MISS Thomas 1' Driving Layup,,32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.35,2,6,39,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:3),32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.52,2,6,29,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 3PT Jump Shot,32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.6,2,6,24,BKN,BKN,reb,0,False,False,Thomas REBOUND (Off:1 Def:2),,32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.85,2,6,9,BKN,BKN,ft_make,12,False,False,Harden Free Throw 2 of 2 (4 PTS),,34-41,34,41
+0022100583,2022-01-07,BKN,MIL,17.85,2,6,9,BKN,MIL,foul,2,False,False,,Portis S.FOUL (P1.T3) (T.Washington),32-41,32,41
+0022100583,2022-01-07,BKN,MIL,17.85,2,6,9,BKN,BKN,ft_make,11,False,False,Harden Free Throw 1 of 2 (3 PTS),,33-41,33,41
+0022100583,2022-01-07,BKN,MIL,18.05,2,5,57,MIL,MIL,fg3_make,79,False,False,,Hood 27' 3PT Pullup Jump Shot (3 PTS) (Portis 1 AST),34-44,34,44
+0022100583,2022-01-07,BKN,MIL,18.27,2,5,44,BKN,BKN,fg_make,79,False,False,Durant 9' Pullup Jump Shot (10 PTS) (Thomas 2 AST),,36-44,36,44
+0022100583,2022-01-07,BKN,MIL,18.55,2,5,27,MIL,MIL,fg3_miss,79,False,False,,MISS Hood 26' 3PT Pullup Jump Shot,36-44,36,44
+0022100583,2022-01-07,BKN,MIL,18.67,2,5,20,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:6),,36-44,36,44
+0022100583,2022-01-07,BKN,MIL,18.73,2,5,16,BKN,BKN,fg_miss,6,False,False,MISS Harden 1' Driving Layup,,36-44,36,44
+0022100583,2022-01-07,BKN,MIL,18.77,2,5,14,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:5),36-44,36,44
+0022100583,2022-01-07,BKN,MIL,18.93,2,5,4,MIL,MIL,fg_miss,75,False,False,,MISS Middleton 2' Driving Finger Roll Layup,36-44,36,44
+0022100583,2022-01-07,BKN,MIL,19.0,2,5,0,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:7),,36-44,36,44
+0022100583,2022-01-07,BKN,MIL,19.07,2,4,56,BKN,BKN,fg_miss,6,False,False,MISS Harden 1' Driving Layup,,36-44,36,44
+0022100583,2022-01-07,BKN,MIL,19.1,2,4,54,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:4),36-44,36,44
+0022100583,2022-01-07,BKN,MIL,19.13,2,4,52,MIL,MIL,fg3_make,103,False,False,,Middleton 26' 3PT Running Pull-Up Jump Shot (5 PTS) (Matthews 1 AST),36-47,36,47
+0022100583,2022-01-07,BKN,MIL,19.43,2,4,34,BKN,BKN,fg_make,102,False,False,Thomas 7' Driving Floating Bank Jump Shot (9 PTS) (Durant 3 AST),,38-47,38,47
+0022100583,2022-01-07,BKN,MIL,19.6,2,4,24,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.2 Short 0),38-47,38,47
+0022100583,2022-01-07,BKN,MIL,19.78,2,4,13,MIL,MIL,fg_make,79,False,False,,Nwora 19' Pullup Jump Shot (5 PTS),38-49,38,49
+0022100583,2022-01-07,BKN,MIL,20.03,2,3,58,BKN,BKN,fg_miss,75,False,False,MISS Durant 5' Driving Finger Roll Layup,,38-49,38,49
+0022100583,2022-01-07,BKN,MIL,20.07,2,3,56,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:6),38-49,38,49
+0022100583,2022-01-07,BKN,MIL,20.23,2,3,46,MIL,MIL,fg_make,102,False,False,,Hood 13' Driving Floating Bank Jump Shot (5 PTS) (Galloway 3 AST),38-51,38,51
+0022100583,2022-01-07,BKN,MIL,20.5,2,3,30,BKN,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P1.T4) (S.Twardoski),38-51,38,51
+0022100583,2022-01-07,BKN,MIL,20.57,2,3,26,BKN,BKN,fg_make,6,False,False,Durant 2' Driving Layup (12 PTS) (Harden 3 AST),,40-51,40,51
+0022100583,2022-01-07,BKN,MIL,20.85,2,3,9,MIL,MIL,reb,0,False,False,,Bucks Rebound,40-51,40,51
+0022100583,2022-01-07,BKN,MIL,20.85,2,3,9,MIL,BKN,block,6,True,False,block,block,40-51,40,51
+0022100583,2022-01-07,BKN,MIL,20.85,2,3,9,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 2' Driving Layup,40-51,40,51
+0022100583,2022-01-07,BKN,MIL,20.93,2,3,4,MIL,MIL,fg_miss,63,False,False,,MISS Galloway 19' Fadeaway Jumper,40-51,40,51
+0022100583,2022-01-07,BKN,MIL,21.0,2,3,0,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:4),,40-51,40,51
+0022100583,2022-01-07,BKN,MIL,21.08,2,2,55,BKN,BKN,fg3_make,79,False,False,Durant 25' 3PT Pullup Jump Shot (15 PTS),,43-51,43,51
+0022100583,2022-01-07,BKN,MIL,21.35,2,2,39,MIL,MIL,fg_make,73,False,False,,Hood 2' Driving Reverse Layup (7 PTS) (Galloway 4 AST),43-53,43,53
+0022100583,2022-01-07,BKN,MIL,21.43,2,2,34,MIL,BKN,foul,4,False,False,Durant OFF.Foul (P3) (S.Twardoski),,43-53,43,53
+0022100583,2022-01-07,BKN,MIL,21.43,2,2,34,BKN,BKN,tov,37,False,False,Durant Offensive Foul Turnover (P1.T6),,43-53,43,53
+0022100583,2022-01-07,BKN,MIL,21.72,2,2,17,MIL,MIL,fg3_make,80,False,False,,Nwora 25' 3PT Step Back Jump Shot (8 PTS),43-56,43,56
+0022100583,2022-01-07,BKN,MIL,21.97,2,2,2,BKN,BKN,fg_make,75,False,False,Harden 1' Driving Finger Roll Layup (6 PTS),,45-56,45,56
+0022100583,2022-01-07,BKN,MIL,22.18,2,1,49,MIL,MIL,fg_miss,102,False,False,,MISS Nwora 11' Driving Floating Bank Jump Shot,45-56,45,56
+0022100583,2022-01-07,BKN,MIL,22.22,2,1,47,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:5),,45-56,45,56
+0022100583,2022-01-07,BKN,MIL,22.32,2,1,41,BKN,BKN,fg_miss,44,False,False,MISS Duke Jr. 1' Reverse Layup,,45-56,45,56
+0022100583,2022-01-07,BKN,MIL,22.35,2,1,39,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:2 Def:5),,45-56,45,56
+0022100583,2022-01-07,BKN,MIL,22.37,2,1,38,BKN,BKN,fg_make,72,False,False,Durant 1' Putback Layup (17 PTS),,47-56,47,56
+0022100583,2022-01-07,BKN,MIL,22.7,2,1,18,MIL,MIL,fg_make,79,False,False,,Galloway 19' Pullup Jump Shot (2 PTS),47-58,47,58
+0022100583,2022-01-07,BKN,MIL,23.07,2,0,56,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (19 PTS),,49-58,49,58
+0022100583,2022-01-07,BKN,MIL,23.07,2,0,56,BKN,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P2.PN) (M.Kogut),47-58,47,58
+0022100583,2022-01-07,BKN,MIL,23.07,2,0,56,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (18 PTS),,48-58,48,58
+0022100583,2022-01-07,BKN,MIL,23.38,2,0,37,MIL,MIL,fg3_miss,63,False,False,,MISS Nwora 3PT Fadeaway Jumper,49-58,49,58
+0022100583,2022-01-07,BKN,MIL,23.42,2,0,35,MIL,MIL,reb,0,False,False,,Mamukelashvili REBOUND (Off:2 Def:1),49-58,49,58
+0022100583,2022-01-07,BKN,MIL,23.42,2,0,35,MIL,MIL,fg_make,97,False,False,,Mamukelashvili Tip Layup Shot (2 PTS),49-60,49,60
+0022100583,2022-01-07,BKN,MIL,23.77,2,0,14,BKN,BKN,fg_miss,6,False,False,MISS Harden 2' Driving Layup,,49-60,49,60
+0022100583,2022-01-07,BKN,MIL,23.82,2,0,11,MIL,MIL,reb,0,False,False,,Galloway REBOUND (Off:0 Def:2),49-60,49,60
+0022100583,2022-01-07,BKN,MIL,23.93,2,0,4,MIL,MIL,fg3_miss,1,False,False,,MISS Galloway 26' 3PT Jump Shot,49-60,49,60
+0022100583,2022-01-07,BKN,MIL,23.98,2,0,1,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:2 Def:6),,49-60,49,60
+0022100583,2022-01-07,BKN,MIL,24.0,3,12,0,BKN,,period_start,0,False,False,,,49-60,49,60
+0022100583,2022-01-07,BKN,MIL,24.0,2,0,0,BKN,,period_end,0,False,False,,,49-60,49,60
+0022100583,2022-01-07,BKN,MIL,24.23,3,11,46,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (7 PTS),49-62,49,62
+0022100583,2022-01-07,BKN,MIL,24.23,3,11,46,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (6 PTS),49-61,49,61
+0022100583,2022-01-07,BKN,MIL,24.23,3,11,46,MIL,BKN,foul,2,False,False,Duke Jr. S.FOUL (P2.T1) (S.Twardoski),,49-60,49,60
+0022100583,2022-01-07,BKN,MIL,24.5,3,11,30,BKN,BKN,fg3_miss,1,False,False,MISS Harden 27' 3PT Jump Shot,,49-62,49,62
+0022100583,2022-01-07,BKN,MIL,24.58,3,11,25,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:3),49-62,49,62
+0022100583,2022-01-07,BKN,MIL,24.7,3,11,18,MIL,MIL,fg3_make,1,False,False,,Middleton 25' 3PT Jump Shot (10 PTS) (Antetokounmpo 4 AST),49-65,49,65
+0022100583,2022-01-07,BKN,MIL,24.92,3,11,5,BKN,BKN,fg3_miss,1,False,False,MISS Duke Jr. 3PT Jump Shot,,49-65,49,65
+0022100583,2022-01-07,BKN,MIL,24.98,3,11,1,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:4 Def:0),,49-65,49,65
+0022100583,2022-01-07,BKN,MIL,25.03,3,10,58,BKN,BKN,fg3_make,79,False,False,Harden 25' 3PT Pullup Jump Shot (9 PTS) (Claxton 1 AST),,52-65,52,65
+0022100583,2022-01-07,BKN,MIL,25.35,3,10,39,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 25' 3PT Jump Shot,52-65,52,65
+0022100583,2022-01-07,BKN,MIL,25.45,3,10,33,BKN,BKN,reb,0,False,False,Duke Jr. REBOUND (Off:0 Def:1),,52-65,52,65
+0022100583,2022-01-07,BKN,MIL,25.52,3,10,29,BKN,BKN,fg_miss,79,False,False,MISS Mills 17' Pullup Jump Shot,,52-65,52,65
+0022100583,2022-01-07,BKN,MIL,25.55,3,10,27,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:7),52-65,52,65
+0022100583,2022-01-07,BKN,MIL,25.67,3,10,20,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P2.T5),52-65,52,65
+0022100583,2022-01-07,BKN,MIL,25.67,3,10,20,MIL,BKN,steal,2,False,True,steal,steal,52-65,52,65
+0022100583,2022-01-07,BKN,MIL,25.73,3,10,16,BKN,BKN,fg_make,99,False,False,Durant 2' Cutting Finger Roll Layup Shot (21 PTS) (Mills 2 AST),,54-65,54,65
+0022100583,2022-01-07,BKN,MIL,25.95,3,10,3,MIL,MIL,fg3_make,1,False,False,,Matthews 25' 3PT Jump Shot (7 PTS) (Middleton 3 AST),54-68,54,68
+0022100583,2022-01-07,BKN,MIL,26.17,3,9,50,BKN,BKN,ft_make,10,False,False,Harden Free Throw 1 of 1 (12 PTS),,57-68,57,68
+0022100583,2022-01-07,BKN,MIL,26.17,3,9,50,BKN,BKN,fg_make,101,False,False,Harden 10' Driving Floating Jump Shot (11 PTS),,56-68,56,68
+0022100583,2022-01-07,BKN,MIL,26.17,3,9,50,BKN,MIL,foul,2,False,False,,Middleton S.FOUL (P2.T1) (S.Twardoski),56-68,56,68
+0022100583,2022-01-07,BKN,MIL,26.4,3,9,36,MIL,MIL,fg3_miss,80,False,False,,MISS Matthews 25' 3PT Step Back Jump Shot,57-68,57,68
+0022100583,2022-01-07,BKN,MIL,26.47,3,9,32,BKN,BKN,reb,0,False,False,Duke Jr. REBOUND (Off:0 Def:2),,57-68,57,68
+0022100583,2022-01-07,BKN,MIL,26.68,3,9,19,BKN,BKN,fg_make,75,False,False,Harden Driving Finger Roll Layup (14 PTS) (Durant 4 AST),,59-68,59,68
+0022100583,2022-01-07,BKN,MIL,26.82,3,9,11,MIL,MIL,ft_make,10,False,False,,Antetokounmpo Free Throw 1 of 1 (15 PTS),59-71,59,71
+0022100583,2022-01-07,BKN,MIL,26.82,3,9,11,MIL,BKN,foul,2,False,False,Durant S.FOUL (P4.T2) (S.Twardoski),,59-70,59,70
+0022100583,2022-01-07,BKN,MIL,26.82,3,9,11,MIL,MIL,fg_make,6,False,False,,Antetokounmpo 4' Driving Layup (14 PTS) (Middleton 4 AST),59-70,59,70
+0022100583,2022-01-07,BKN,MIL,27.0,3,9,0,BKN,BKN,fg_miss,86,False,False,MISS Durant 12' Turnaround Fadeaway Shot,,59-71,59,71
+0022100583,2022-01-07,BKN,MIL,27.1,3,8,54,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:5),59-71,59,71
+0022100583,2022-01-07,BKN,MIL,27.2,3,8,48,MIL,MIL,reb,0,False,False,,Bucks Rebound,59-71,59,71
+0022100583,2022-01-07,BKN,MIL,27.2,3,8,48,MIL,MIL,fg_miss,101,True,False,,MISS Antetokounmpo 2' Driving Floating Jump Shot,59-71,59,71
+0022100583,2022-01-07,BKN,MIL,27.2,3,8,48,MIL,BKN,block,101,True,False,block,block,59-71,59,71
+0022100583,2022-01-07,BKN,MIL,27.25,3,8,45,,BKN,jump_ball,0,False,False,Jump Ball Durant vs. Antetokounmpo: Tip to Middleton,,59-71,59,71
+0022100583,2022-01-07,BKN,MIL,27.33,3,8,40,MIL,MIL,fg3_make,80,False,False,,Middleton 25' 3PT Step Back Jump Shot (13 PTS),59-74,59,74
+0022100583,2022-01-07,BKN,MIL,27.33,3,8,40,MIL,BKN,foul,2,False,False,Claxton S.FOUL (P1.T3) (T.Washington),,59-74,59,74
+0022100583,2022-01-07,BKN,MIL,27.33,3,8,40,MIL,MIL,ft_make,10,False,False,,Middleton Free Throw 1 of 1 (14 PTS),59-75,59,75
+0022100583,2022-01-07,BKN,MIL,27.47,3,8,32,BKN,MIL,violation,5,False,False,,Middleton Violation:Kicked Ball (S.Twardoski),59-75,59,75
+0022100583,2022-01-07,BKN,MIL,27.7,3,8,18,MIL,MIL,reb,0,False,False,,Nwora REBOUND (Off:1 Def:1),59-75,59,75
+0022100583,2022-01-07,BKN,MIL,27.7,3,8,18,BKN,BKN,fg_miss,63,False,False,MISS Durant 11' Fadeaway Jumper,,59-75,59,75
+0022100583,2022-01-07,BKN,MIL,27.85,3,8,9,MIL,MIL,fg3_make,79,False,False,,Antetokounmpo 26' 3PT Pullup Jump Shot (18 PTS),59-78,59,78
+0022100583,2022-01-07,BKN,MIL,27.97,3,8,2,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,59-78,59,78
+0022100583,2022-01-07,BKN,MIL,28.28,3,7,43,BKN,BKN,fg_make,6,False,False,Claxton 1' Driving Layup (6 PTS) (Harden 4 AST),,61-78,61,78
+0022100583,2022-01-07,BKN,MIL,28.42,3,7,35,MIL,BKN,foul,1,False,False,Mills P.FOUL (P1.T4) (T.Washington),,61-78,61,78
+0022100583,2022-01-07,BKN,MIL,28.57,3,7,26,MIL,MIL,fg3_make,79,False,False,,Middleton 26' 3PT Pullup Jump Shot (17 PTS),61-81,61,81
+0022100583,2022-01-07,BKN,MIL,28.87,3,7,8,BKN,BKN,fg_miss,6,False,False,MISS Claxton 2' Driving Layup,,61-81,61,81
+0022100583,2022-01-07,BKN,MIL,28.95,3,7,3,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:8),61-81,61,81
+0022100583,2022-01-07,BKN,MIL,28.97,3,7,2,MIL,MIL,fg_make,76,False,False,,Antetokounmpo 1' Running Finger Roll Layup (20 PTS) (Portis 2 AST),61-83,61,83
+0022100583,2022-01-07,BKN,MIL,29.18,3,6,49,BKN,BKN,fg_make,1,False,False,Durant 15' Jump Shot (23 PTS) (Harden 5 AST),,63-83,63,83
+0022100583,2022-01-07,BKN,MIL,29.53,3,6,28,MIL,MIL,fg3_make,1,False,False,,Middleton 25' 3PT Jump Shot (20 PTS) (Antetokounmpo 5 AST),63-86,63,86
+0022100583,2022-01-07,BKN,MIL,29.77,3,6,14,BKN,MIL,foul,1,False,False,,Matthews P.FOUL (P2.T2) (M.Kogut),63-86,63,86
+0022100583,2022-01-07,BKN,MIL,29.83,3,6,10,BKN,BKN,fg3_miss,1,False,False,MISS Thomas 25' 3PT Jump Shot,,63-86,63,86
+0022100583,2022-01-07,BKN,MIL,29.9,3,6,6,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:6),63-86,63,86
+0022100583,2022-01-07,BKN,MIL,30.0,3,6,0,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,63-86,63,86
+0022100583,2022-01-07,BKN,MIL,30.0,3,6,0,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (21 PTS),63-87,63,87
+0022100583,2022-01-07,BKN,MIL,30.0,3,6,0,MIL,MIL,reb,1,False,False,,Bucks Rebound,63-86,63,86
+0022100583,2022-01-07,BKN,MIL,30.0,3,6,0,MIL,BKN,foul,2,False,False,Thomas S.FOUL (P1.PN) (M.Kogut),,63-86,63,86
+0022100583,2022-01-07,BKN,MIL,30.33,3,5,40,BKN,BKN,fg_make,73,False,False,Thomas 2' Driving Reverse Layup (11 PTS),,65-87,65,87
+0022100583,2022-01-07,BKN,MIL,30.52,3,5,29,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 25' 3PT Pullup Jump Shot,65-87,65,87
+0022100583,2022-01-07,BKN,MIL,30.62,3,5,23,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:3),65-87,65,87
+0022100583,2022-01-07,BKN,MIL,30.68,3,5,19,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,65-87,65,87
+0022100583,2022-01-07,BKN,MIL,30.73,3,5,16,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:8),,65-87,65,87
+0022100583,2022-01-07,BKN,MIL,30.83,3,5,10,BKN,BKN,fg_make,6,False,False,Harden 2' Driving Layup (16 PTS),,67-87,67,87
+0022100583,2022-01-07,BKN,MIL,30.98,3,5,1,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.3 Short 0),67-87,67,87
+0022100583,2022-01-07,BKN,MIL,31.25,3,4,45,MIL,MIL,fg3_miss,79,False,False,,MISS Middleton 27' 3PT Pullup Jump Shot,67-87,67,87
+0022100583,2022-01-07,BKN,MIL,31.35,3,4,39,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:1 Def:5),67-87,67,87
+0022100583,2022-01-07,BKN,MIL,31.37,3,4,38,MIL,MIL,fg3_make,1,False,False,,Matthews 25' 3PT Jump Shot (10 PTS),67-90,67,90
+0022100583,2022-01-07,BKN,MIL,31.52,3,4,29,BKN,BKN,fg3_make,1,False,False,Thomas 3PT Jump Shot (14 PTS) (Durant 5 AST),,70-90,70,90
+0022100583,2022-01-07,BKN,MIL,31.95,3,4,3,MIL,MIL,fg_make,79,False,False,,Matthews 12' Pullup Jump Shot (12 PTS),70-92,70,92
+0022100583,2022-01-07,BKN,MIL,32.25,3,3,45,BKN,BKN,fg_make,9,False,False,Johnson 2' Driving Dunk (4 PTS),,72-92,72,92
+0022100583,2022-01-07,BKN,MIL,32.25,3,3,45,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.4 Short 0),72-92,72,92
+0022100583,2022-01-07,BKN,MIL,32.43,3,3,34,MIL,BKN,foul,2,False,False,Harden S.FOUL (P1.PN) (T.Washington),,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,32.43,3,3,34,MIL,MIL,ft_miss,10,False,False,,MISS Antetokounmpo Free Throw 1 of 1,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,32.43,3,3,34,MIL,MIL,fg_make,73,False,False,,Antetokounmpo 2' Driving Reverse Layup (23 PTS),72-94,72,94
+0022100583,2022-01-07,BKN,MIL,32.48,3,3,31,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:9),,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,32.62,3,3,23,BKN,BKN,fg3_miss,1,False,False,MISS Durant 25' 3PT Jump Shot,,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,32.68,3,3,19,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:4),72-94,72,94
+0022100583,2022-01-07,BKN,MIL,32.9,3,3,6,MIL,BKN,steal,1,False,True,steal,steal,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,32.9,3,3,6,MIL,MIL,tov,1,False,True,,Hood Bad Pass Turnover (P1.T6),72-94,72,94
+0022100583,2022-01-07,BKN,MIL,33.02,3,2,59,BKN,BKN,tov,2,False,True,Harden Lost Ball Turnover (P3.T7),,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,33.02,3,2,59,BKN,MIL,steal,2,False,True,steal,steal,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,33.12,3,2,53,MIL,MIL,fg3_miss,1,False,False,,MISS Ojeleye 3PT Jump Shot,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,33.17,3,2,50,BKN,MIL,foul,1,False,False,,Ojeleye P.FOUL (P2.T3) (S.Twardoski),72-94,72,94
+0022100583,2022-01-07,BKN,MIL,33.17,3,2,50,BKN,BKN,reb,0,False,False,Thomas REBOUND (Off:1 Def:3),,72-94,72,94
+0022100583,2022-01-07,BKN,MIL,33.22,3,2,47,BKN,MIL,foul,1,False,False,,Ojeleye P.FOUL (P3.T4) (M.Kogut),72-94,72,94
+0022100583,2022-01-07,BKN,MIL,33.32,3,2,41,BKN,BKN,fg_make,98,False,False,Johnson 1' Cutting Layup Shot (6 PTS) (Durant 6 AST),,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,33.67,3,2,20,MIL,MIL,fg3_miss,1,False,False,,MISS Mamukelashvili 25' 3PT Jump Shot,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,33.7,3,2,18,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,33.8,3,2,12,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P4.T8),,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,33.8,3,2,12,BKN,MIL,steal,1,False,True,steal,steal,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.18,3,1,49,MIL,MIL,fg3_miss,1,False,False,,MISS Galloway 25' 3PT Jump Shot,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.22,3,1,47,MIL,MIL,reb,0,False,False,,Bucks Rebound,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.32,3,1,41,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P3.T7),74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.32,3,1,41,MIL,BKN,steal,2,False,True,steal,steal,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.38,3,1,37,BKN,BKN,fg3_miss,103,False,False,MISS Mills 26' 3PT Running Pull-Up Jump Shot,,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.4,3,1,36,MIL,MIL,reb,0,False,False,,Bucks Rebound,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.7,3,1,18,MIL,MIL,fg3_miss,79,False,False,,MISS Hood 25' 3PT Pullup Jump Shot,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.78,3,1,13,MIL,MIL,reb,0,False,False,,Galloway REBOUND (Off:1 Def:2),74-94,74,94
+0022100583,2022-01-07,BKN,MIL,34.92,3,1,5,MIL,MIL,fg_miss,79,False,False,,MISS Galloway 13' Pullup Jump Shot,74-94,74,94
+0022100583,2022-01-07,BKN,MIL,35.02,3,0,59,MIL,MIL,reb,0,False,False,,Mamukelashvili REBOUND (Off:3 Def:1),74-94,74,94
+0022100583,2022-01-07,BKN,MIL,35.02,3,0,59,MIL,MIL,fg_make,97,False,False,,Mamukelashvili Tip Layup Shot (4 PTS),74-96,74,96
+0022100583,2022-01-07,BKN,MIL,35.12,3,0,53,BKN,MIL,foul,1,False,False,,Ojeleye P.FOUL (P4.PN) (S.Twardoski),74-96,74,96
+0022100583,2022-01-07,BKN,MIL,35.12,3,0,53,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (24 PTS),,75-96,75,96
+0022100583,2022-01-07,BKN,MIL,35.12,3,0,53,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (25 PTS),,76-96,76,96
+0022100583,2022-01-07,BKN,MIL,35.37,3,0,38,MIL,BKN,steal,2,False,True,steal,steal,76-96,76,96
+0022100583,2022-01-07,BKN,MIL,35.37,3,0,38,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P2.T8),76-96,76,96
+0022100583,2022-01-07,BKN,MIL,35.42,3,0,35,BKN,BKN,fg_make,50,False,False,Brown 1' Running Dunk (2 PTS) (Johnson 1 AST),,78-96,78,96
+0022100583,2022-01-07,BKN,MIL,35.63,3,0,22,MIL,MIL,fg_make,3,False,False,,Nwora 8' Hook Shot (10 PTS) (Middleton 5 AST),78-98,78,98
+0022100583,2022-01-07,BKN,MIL,35.95,3,0,3,BKN,BKN,fg_make,73,False,False,Durant 1' Driving Reverse Layup (27 PTS),,80-98,80,98
+0022100583,2022-01-07,BKN,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,80-98,80,98
+0022100583,2022-01-07,BKN,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,80-98,80,98
+0022100583,2022-01-07,BKN,MIL,36.0,3,0,0,MIL,MIL,fg3_miss,79,False,False,,MISS Hood 41' 3PT Pullup Jump Shot,80-98,80,98
+0022100583,2022-01-07,BKN,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,80-98,80,98
+0022100583,2022-01-07,BKN,MIL,36.3,4,11,42,BKN,BKN,fg_make,6,False,False,Durant 2' Driving Layup (29 PTS),,82-98,82,98
+0022100583,2022-01-07,BKN,MIL,36.6,4,11,24,MIL,MIL,fg_miss,86,False,False,,MISS Portis 12' Turnaround Fadeaway Shot,82-98,82,98
+0022100583,2022-01-07,BKN,MIL,36.67,4,11,20,BKN,BKN,reb,0,False,False,Mills REBOUND (Off:0 Def:3),,82-98,82,98
+0022100583,2022-01-07,BKN,MIL,36.8,4,11,12,BKN,MIL,foul,1,False,False,,Nwora P.FOUL (P1.T1) (T.Washington),82-98,82,98
+0022100583,2022-01-07,BKN,MIL,37.0,4,11,0,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P5.T9),,82-98,82,98
+0022100583,2022-01-07,BKN,MIL,37.0,4,11,0,BKN,MIL,steal,1,False,True,steal,steal,82-98,82,98
+0022100583,2022-01-07,BKN,MIL,37.07,4,10,56,MIL,MIL,tov,40,False,False,,Portis Out of Bounds Lost Ball Turnover (P1.T9),82-98,82,98
+0022100583,2022-01-07,BKN,MIL,37.28,4,10,43,BKN,BKN,fg_make,99,False,False,Claxton 2' Cutting Finger Roll Layup Shot (8 PTS) (Harden 6 AST),,84-98,84,98
+0022100583,2022-01-07,BKN,MIL,37.53,4,10,28,MIL,BKN,foul,1,False,False,Claxton P.FOUL (P2.T1) (T.Washington),,84-98,84,98
+0022100583,2022-01-07,BKN,MIL,37.67,4,10,20,MIL,MIL,fg3_miss,79,False,False,,MISS Middleton 26' 3PT Pullup Jump Shot,84-98,84,98
+0022100583,2022-01-07,BKN,MIL,37.72,4,10,17,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:4 Def:1),,84-98,84,98
+0022100583,2022-01-07,BKN,MIL,37.9,4,10,6,BKN,BKN,fg_make,7,False,False,Claxton 1' Dunk (10 PTS) (Harden 7 AST),,86-98,86,98
+0022100583,2022-01-07,BKN,MIL,38.13,4,9,52,MIL,MIL,fg3_make,1,False,False,,Nwora 3PT Jump Shot (13 PTS) (Antetokounmpo 6 AST),86-101,86,101
+0022100583,2022-01-07,BKN,MIL,38.43,4,9,34,BKN,BKN,fg3_miss,1,False,False,MISS Durant 25' 3PT Jump Shot,,86-101,86,101
+0022100583,2022-01-07,BKN,MIL,38.48,4,9,31,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:5),86-101,86,101
+0022100583,2022-01-07,BKN,MIL,38.8,4,9,12,MIL,MIL,fg3_miss,1,False,False,,MISS Nwora 3PT Jump Shot,86-101,86,101
+0022100583,2022-01-07,BKN,MIL,38.85,4,9,9,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:2 Def:7),,86-101,86,101
+0022100583,2022-01-07,BKN,MIL,38.97,4,9,2,BKN,BKN,fg3_miss,79,False,False,MISS Thomas 25' 3PT Pullup Jump Shot,,86-101,86,101
+0022100583,2022-01-07,BKN,MIL,39.05,4,8,57,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:5 Def:1),,86-101,86,101
+0022100583,2022-01-07,BKN,MIL,39.05,4,8,57,BKN,BKN,fg_make,97,False,False,Claxton Tip Layup Shot (12 PTS),,88-101,88,101
+0022100583,2022-01-07,BKN,MIL,39.18,4,8,49,MIL,MIL,ft_miss,12,False,False,,MISS Antetokounmpo Free Throw 2 of 2,88-102,88,102
+0022100583,2022-01-07,BKN,MIL,39.18,4,8,49,MIL,BKN,foul,2,False,False,Claxton S.FOUL (P3.T2) (M.Kogut),,88-101,88,101
+0022100583,2022-01-07,BKN,MIL,39.18,4,8,49,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (24 PTS),88-102,88,102
+0022100583,2022-01-07,BKN,MIL,39.23,4,8,46,BKN,BKN,reb,0,False,False,Thomas REBOUND (Off:1 Def:4),,88-102,88,102
+0022100583,2022-01-07,BKN,MIL,39.53,4,8,28,BKN,BKN,fg3_miss,1,False,False,MISS Thomas 3PT Jump Shot,,88-102,88,102
+0022100583,2022-01-07,BKN,MIL,39.63,4,8,22,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:1 Def:6),88-102,88,102
+0022100583,2022-01-07,BKN,MIL,39.75,4,8,15,MIL,MIL,fg_make,63,False,False,,Antetokounmpo 10' Fadeaway Jumper (26 PTS),88-104,88,104
+0022100583,2022-01-07,BKN,MIL,39.97,4,8,2,BKN,BKN,tov,40,False,False,Durant Out of Bounds Lost Ball Turnover (P2.T10),,88-104,88,104
+0022100583,2022-01-07,BKN,MIL,40.08,4,7,55,MIL,BKN,steal,1,False,True,steal,steal,88-104,88,104
+0022100583,2022-01-07,BKN,MIL,40.08,4,7,55,MIL,MIL,tov,1,False,True,,Antetokounmpo Bad Pass Turnover (P4.T10),88-104,88,104
+0022100583,2022-01-07,BKN,MIL,40.17,4,7,50,BKN,BKN,fg_make,108,False,False,Claxton 1' Cutting Dunk Shot (14 PTS) (Durant 7 AST),,90-104,90,104
+0022100583,2022-01-07,BKN,MIL,40.43,4,7,34,MIL,BKN,block,101,True,False,block,block,90-104,90,104
+0022100583,2022-01-07,BKN,MIL,40.43,4,7,34,MIL,MIL,reb,0,False,False,,Bucks Rebound,90-104,90,104
+0022100583,2022-01-07,BKN,MIL,40.43,4,7,34,MIL,MIL,fg_miss,101,True,False,,MISS Antetokounmpo 4' Driving Floating Jump Shot,90-104,90,104
+0022100583,2022-01-07,BKN,MIL,40.53,4,7,28,,BKN,jump_ball,0,False,False,Jump Ball Claxton vs. Antetokounmpo: Tip to Antetokounmpo,,90-104,90,104
+0022100583,2022-01-07,BKN,MIL,40.57,4,7,26,MIL,MIL,fg3_make,1,False,False,,Hood 25' 3PT Jump Shot (10 PTS) (Antetokounmpo 7 AST),90-107,90,107
+0022100583,2022-01-07,BKN,MIL,40.85,4,7,9,BKN,BKN,fg3_miss,1,False,False,MISS Thomas 3PT Jump Shot,,90-107,90,107
+0022100583,2022-01-07,BKN,MIL,40.9,4,7,6,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:6),90-107,90,107
+0022100583,2022-01-07,BKN,MIL,41.02,4,6,59,MIL,MIL,fg3_make,1,False,False,,Portis 3PT Jump Shot (23 PTS) (Antetokounmpo 8 AST),90-110,90,110
+0022100583,2022-01-07,BKN,MIL,41.03,4,6,58,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,90-110,90,110
+0022100583,2022-01-07,BKN,MIL,41.28,4,6,43,BKN,BKN,fg3_make,1,False,False,Brown 3PT Jump Shot (5 PTS) (Edwards 1 AST),,93-110,93,110
+0022100583,2022-01-07,BKN,MIL,41.58,4,6,25,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (28 PTS),93-112,93,112
+0022100583,2022-01-07,BKN,MIL,41.58,4,6,25,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (27 PTS),93-111,93,111
+0022100583,2022-01-07,BKN,MIL,41.58,4,6,25,MIL,BKN,foul,2,False,False,Sharpe S.FOUL (P1.T3) (S.Twardoski),,93-110,93,110
+0022100583,2022-01-07,BKN,MIL,41.82,4,6,11,BKN,BKN,fg_miss,79,False,False,MISS Carter 16' Pullup Jump Shot,,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,41.83,4,6,10,BKN,BKN,reb,0,False,False,Sharpe REBOUND (Off:1 Def:0),,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,41.85,4,6,9,BKN,BKN,fg_miss,97,False,False,MISS Sharpe Tip Layup Shot,,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,41.87,4,6,8,BKN,BKN,reb,0,False,False,Sharpe REBOUND (Off:2 Def:0),,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,41.9,4,6,6,BKN,BKN,fg_miss,97,False,False,MISS Sharpe 3' Tip Layup Shot,,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,41.92,4,6,5,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:9),93-112,93,112
+0022100583,2022-01-07,BKN,MIL,42.1,4,5,54,MIL,BKN,block,6,True,False,block,block,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,42.1,4,5,54,MIL,MIL,reb,0,False,False,,Bucks Rebound,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,42.1,4,5,54,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 5' Driving Layup,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,42.15,4,5,51,,BKN,jump_ball,0,False,False,Jump Ball Edwards vs. Antetokounmpo: Tip to Portis,,93-112,93,112
+0022100583,2022-01-07,BKN,MIL,42.18,4,5,49,MIL,MIL,fg_make,5,False,False,,Portis 5' Layup (25 PTS) (Antetokounmpo 9 AST),93-114,93,114
+0022100583,2022-01-07,BKN,MIL,42.47,4,5,32,BKN,BKN,fg_make,75,False,False,Brown 2' Driving Finger Roll Layup (7 PTS),,95-114,95,114
+0022100583,2022-01-07,BKN,MIL,42.72,4,5,17,MIL,MIL,fg_miss,6,False,False,,MISS Nwora 9' Driving Layup,95-114,95,114
+0022100583,2022-01-07,BKN,MIL,42.75,4,5,15,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:0 Def:1),,95-114,95,114
+0022100583,2022-01-07,BKN,MIL,42.8,4,5,12,BKN,BKN,tov,45,False,False,Brown Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,95-114,95,114
+0022100583,2022-01-07,BKN,MIL,43.0,4,5,0,MIL,MIL,fg3_make,79,False,False,,Antetokounmpo 25' 3PT Pullup Jump Shot (31 PTS),95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.2,4,4,48,BKN,BKN,fg3_miss,1,False,False,MISS Edwards 25' 3PT Jump Shot,,95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.25,4,4,45,BKN,BKN,reb,0,False,False,Sharpe REBOUND (Off:3 Def:0),,95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.33,4,4,40,BKN,BKN,fg3_miss,1,False,False,MISS Edwards 3PT Jump Shot,,95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.37,4,4,38,BKN,BKN,ft_miss,11,False,False,MISS Duke Jr. Free Throw 1 of 2,,95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.37,4,4,38,BKN,BKN,reb,1,False,False,NETS Rebound,,95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.37,4,4,38,BKN,BKN,ft_make,12,False,False,Duke Jr. Free Throw 2 of 2 (5 PTS),,96-117,96,117
+0022100583,2022-01-07,BKN,MIL,43.37,4,4,38,BKN,MIL,foul,2,False,False,,Ojeleye S.FOUL (P5.T2) (T.Washington),95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.37,4,4,38,BKN,BKN,reb,0,False,False,Duke Jr. REBOUND (Off:1 Def:2),,95-117,95,117
+0022100583,2022-01-07,BKN,MIL,43.75,4,4,15,MIL,MIL,fg_miss,86,False,False,,MISS Ojeleye 12' Turnaround Fadeaway Shot,96-117,96,117
+0022100583,2022-01-07,BKN,MIL,43.82,4,4,11,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:0),96-117,96,117
+0022100583,2022-01-07,BKN,MIL,43.93,4,4,4,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (2 PTS),96-119,96,119
+0022100583,2022-01-07,BKN,MIL,43.93,4,4,4,MIL,BKN,foul,2,False,False,Brown S.FOUL (P1.T4) (M.Kogut),,96-117,96,117
+0022100583,2022-01-07,BKN,MIL,43.93,4,4,4,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (1 PTS),96-118,96,118
+0022100583,2022-01-07,BKN,MIL,44.08,4,3,55,BKN,BKN,fg3_make,1,False,False,Carter 24' 3PT Jump Shot (3 PTS) (Edwards 2 AST),,99-119,99,119
+0022100583,2022-01-07,BKN,MIL,44.13,4,3,52,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),99-119,99,119
+0022100583,2022-01-07,BKN,MIL,44.35,4,3,39,MIL,MIL,fg3_miss,1,False,False,,MISS Hood 26' 3PT Jump Shot,99-119,99,119
+0022100583,2022-01-07,BKN,MIL,44.43,4,3,34,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:2),,99-119,99,119
+0022100583,2022-01-07,BKN,MIL,44.58,4,3,25,BKN,BKN,fg_make,7,False,False,Sharpe 1' Dunk (2 PTS) (Edwards 3 AST),,101-119,101,119
+0022100583,2022-01-07,BKN,MIL,44.87,4,3,8,MIL,MIL,fg_miss,3,False,False,,MISS Antetokounmpo 3' Hook Shot,101-119,101,119
+0022100583,2022-01-07,BKN,MIL,44.92,4,3,5,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:0 Def:2),,101-119,101,119
+0022100583,2022-01-07,BKN,MIL,45.0,4,3,0,BKN,BKN,reb,0,False,False,NETS Rebound,,101-119,101,119
+0022100583,2022-01-07,BKN,MIL,45.0,4,3,0,BKN,BKN,fg_miss,6,True,False,MISS Carter 2' Driving Layup,,101-119,101,119
+0022100583,2022-01-07,BKN,MIL,45.0,4,3,0,BKN,MIL,block,6,True,False,block,block,101-119,101,119
+0022100583,2022-01-07,BKN,MIL,45.03,4,2,58,BKN,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P3.T3) (M.Kogut),101-119,101,119
+0022100583,2022-01-07,BKN,MIL,45.03,4,2,58,BKN,BKN,ft_make,12,False,False,Duke Jr. Free Throw 2 of 2 (7 PTS),,103-119,103,119
+0022100583,2022-01-07,BKN,MIL,45.03,4,2,58,BKN,BKN,ft_make,11,False,False,Duke Jr. Free Throw 1 of 2 (6 PTS),,102-119,102,119
+0022100583,2022-01-07,BKN,MIL,45.38,4,2,37,MIL,MIL,fg_miss,6,False,False,,MISS Smart 3' Driving Layup,103-119,103,119
+0022100583,2022-01-07,BKN,MIL,45.43,4,2,34,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:0 Def:3),,103-119,103,119
+0022100583,2022-01-07,BKN,MIL,45.55,4,2,27,BKN,MIL,foul,2,False,False,,Kornet S.FOUL (P1.T4) (S.Twardoski),103-119,103,119
+0022100583,2022-01-07,BKN,MIL,45.55,4,2,27,BKN,BKN,ft_make,11,False,False,Sharpe Free Throw 1 of 2 (3 PTS),,104-119,104,119
+0022100583,2022-01-07,BKN,MIL,45.55,4,2,27,BKN,BKN,ft_make,12,False,False,Sharpe Free Throw 2 of 2 (4 PTS),,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,45.92,4,2,5,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 3PT Pullup Jump Shot,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.0,4,2,0,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:3),,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.03,4,1,58,BKN,BKN,fg3_miss,1,False,False,MISS Carter 26' 3PT Jump Shot,,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.08,4,1,55,BKN,BKN,reb,0,False,False,Edwards REBOUND (Off:1 Def:3),,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.15,4,1,51,BKN,BKN,fg3_miss,1,False,False,MISS Carter 25' 3PT Jump Shot,,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.18,4,1,49,MIL,MIL,reb,0,False,False,,Bucks Rebound,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.53,4,1,28,MIL,MIL,fg3_miss,80,False,False,,MISS Antetokounmpo 25' 3PT Step Back Jump Shot,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.58,4,1,25,MIL,MIL,reb,0,False,False,,Kornet REBOUND (Off:1 Def:0),105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.65,4,1,21,MIL,MIL,fg3_miss,1,False,False,,MISS Dowtin 24' 3PT Jump Shot,105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.7,4,1,18,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:0),105-119,105,119
+0022100583,2022-01-07,BKN,MIL,46.73,4,1,16,MIL,MIL,fg_make,9,False,False,,Antetokounmpo 1' Driving Dunk (4 PTS),105-121,105,121
+0022100583,2022-01-07,BKN,MIL,46.93,4,1,4,BKN,BKN,fg_make,101,False,False,Sharpe 8' Driving Floating Jump Shot (6 PTS),,107-121,107,121
+0022100583,2022-01-07,BKN,MIL,47.12,4,0,53,MIL,BKN,steal,2,False,True,steal,steal,107-121,107,121
+0022100583,2022-01-07,BKN,MIL,47.12,4,0,53,MIL,MIL,tov,2,False,True,,Smart Lost Ball Turnover (P1.T11),107-121,107,121
+0022100583,2022-01-07,BKN,MIL,47.17,4,0,50,BKN,BKN,fg_make,50,False,False,Carter 1' Running Dunk (5 PTS),,109-121,109,121
+0022100583,2022-01-07,BKN,MIL,47.52,4,0,29,MIL,MIL,fg_miss,86,False,False,,MISS Kornet 12' Turnaround Fadeaway Shot,109-121,109,121
+0022100583,2022-01-07,BKN,MIL,47.58,4,0,25,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:4),,109-121,109,121
+0022100583,2022-01-07,BKN,MIL,47.63,4,0,22,BKN,BKN,fg3_miss,1,False,False,MISS Carter 25' 3PT Jump Shot,,109-121,109,121
+0022100583,2022-01-07,BKN,MIL,47.73,4,0,16,MIL,MIL,reb,0,False,False,,Smart REBOUND (Off:0 Def:1),109-121,109,121
+0022100583,2022-01-07,BKN,MIL,48.0,4,0,0,MIL,,period_end,0,False,False,,,109-121,109,121
